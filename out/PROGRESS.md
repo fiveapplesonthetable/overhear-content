@@ -45,3 +45,5 @@ and checked, no shortcuts.
 | kukhnya | s01e07 | 20 (20 scripted) | 0 | done: validate OK (17 gap warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s03e06 "ASK" | 28 (28 scripted) | 0 | done: validate OK (27 gap warnings, see NOTES.md), qa OK |
 | kukhnya | s01e08 | 34 (34 scripted) | 0 | done: validate OK (32 gap warnings, see NOTES.md), qa OK |
+| dix-pour-cent | s04e01 "Charlotte" | 26 (26 scripted) | 0 | done: validate OK (25 gap warnings, see NOTES.md), qa OK |
+| kukhnya | s01e09 | 20 (20 scripted) | 0 | done: validate OK (19 gap warnings, see NOTES.md), qa OK |

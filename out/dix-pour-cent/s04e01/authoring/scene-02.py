@@ -1,0 +1,106 @@
+# Authoring module for dix-pour-cent s04e01 scene 02 (cues 31-73).
+# Build: python3 tools/compose.py out/dix-pour-cent/s04e01/authoring/scene-02.py --out out/dix-pour-cent/s04e01/scene-02.json
+
+ID = "dix-pour-cent-s04e01-scene-02"
+SHOW = "dix-pour-cent"
+SEASON = 4
+EPISODE = 1
+SCENE = 2
+TITLE = "L'enthousiasme de Charlotte  (Charlotte's Enthusiasm)"
+LEVEL = "A1 — débutant"
+PAIR = "fr-en"
+VOICES = {"narrator": "sky", "lea": "lucie", "charlotte": "emilie", "oscar": "theo"}
+LABELS = {"lea": "Andréa", "charlotte": "Charlotte", "oscar": "Oscar"}
+SOURCE_NAME = "Dix pour cent (Call My Agent!) S04E01"
+SOURCE_FILE = "sources/dix-pour-cent/s04/e01.fr.dual.srt"
+SOURCE_NOTE = ("Cues 31-73. Charlotte asks Andrea about Oscar Rondo's script. Andrea lies and praises it, right before Oscar arrives. Adapted for A1 French.")
+
+INTRO = ("At the airport arrival terminal, Andrea Martel greets internationally acclaimed actress Charlotte Gainsbourg after an eleven-hour flight. "
+         "When Charlotte inquires about the artistic merit of her lifelong friend Oscar Rondo's screenplay, Andrea bluffs and lavishes it with praise. "
+         "Just as Camille sends a text warning that the script is unwatchable, Oscar himself walks up to seal the deal. "
+         "Let's listen to the scene in French first.")
+
+STORY = [
+ ("lea", "Tu restes magnifique après ce long voyage.",
+  "You remain gorgeous after this long journey.",
+  [(31, "11 h d'avion")], "Complimented star's appearance after flight"),
+ ("charlotte", "J'ai dormi pendant tout le vol.",
+  "I slept during the whole flight.",
+  [(31, "11 h d'avion")], "Attributed fresh looks to onboard rest"),
+ ("charlotte", "Je refuse ce rôle si c'est mauvais.",
+  "I refuse this role if it is bad.",
+  [(41, "si ce n'est pas bien")], "Conditioned acceptance on project quality"),
+ ("charlotte", "Dis-moi, tu as lu le scénario d'Oscar?",
+  "Tell me, did you read Oscar's script?",
+  [(46, "Tu l'as lu")], "Pressed agent for direct editorial assessment"),
+ ("lea", "Oui, je l'ai lu ce matin.",
+  "Yes, I read it this morning.",
+  [(47, "Oui, je l'ai lu")], "Bluffed about reviewing manuscript"),
+ ("lea", "C'est vraiment une histoire formidable.",
+  "It is really a wonderful story.",
+  [(49, "C'est vraiment bien")], "Praised unread script generously"),
+ ("charlotte", "Je suis tellement soulagée de ton avis!",
+  "I am so relieved by your opinion!",
+  [(50, "Je suis tellement soulagée")], "Expressed immense relief at favorable verdict"),
+ ("lea", "Camille m'écrit que c'est une catastrophe.",
+  "Camille texts me that it is a disaster.",
+  [(51, "C'EST NAZE")], "Silently panicked over harsh verdict"),
+ ("oscar", "Charlotte, quelle joie de te retrouver ici!",
+  "Charlotte, what a joy to meet you here!",
+  [(60, "mon meilleur ami")], "Greeted leading actress enthusiastically"),
+ ("charlotte", "Voici Oscar, mon ami d'enfance.",
+  "Here is Oscar, my childhood friend.",
+  [(60, "mon meilleur ami")], "Introduced director to talent agent"),
+ ("charlotte", "Mon agent adore ton nouveau scénario.",
+  "My agent loves your new script.",
+  [(68, "elle a adoré")], "Passed on enthusiastic endorsement to director"),
+ ("oscar", "C'est un honneur immense pour moi.",
+  "It is an immense honor for me.",
+  [(68, "elle a adoré")], "Expressed heartfelt gratitude for praise"),
+ ("charlotte", "Nous allons faire ce beau film ensemble!",
+  "We are going to make this beautiful film together!",
+  [(70, "On fait un film ensemble")], "Officially confirmed commitment to movie project"),
+ ("lea", "Je me retrouve dans un piège terrible.",
+  "I find myself in a terrible trap.",
+  [(51, "C'EST NAZE")], "Recognized perilous dilemma"),
+]
+
+OPENER = "Let's observe as Andrea bluffs about the script just as director Oscar arrives."
+
+WALK = [
+ (0, None,
+  "'You remain gorgeous after this long journey.' A warm greeting complimenting the actress on her radiant appearance."),
+ (1, None,
+  "'I slept during the whole flight.' A simple explanation crediting good rest for defying jet lag."),
+ (2, None,
+  "'I refuse this role if it is bad.' A clear professional boundary insisting on script quality despite personal friendship."),
+ (3, None,
+  "'Tell me, did you read Oscar's script?' A direct probe seeking honest feedback from her trusted agent."),
+ (4, None,
+  "'Yes, I read it this morning.' A reckless falsehood pretending to have reviewed the manuscript."),
+ (5, None,
+  "'It is really a wonderful story.' An exaggerated compliment intended to flatter and reassure the client."),
+ (6, None,
+  "'I am so relieved by your opinion!' A joyful reaction confirming that the agent's praise removed all doubts."),
+ (7, None,
+  "'Camille texts me that it is a disaster.' An internal panic reacting to the incoming devastating text message."),
+ (8, None,
+  "'Charlotte, what a joy to meet you here!' An affectionate surprise arrival catching both women off guard."),
+ (9, None,
+  "'Here is Oscar, my childhood friend.' An affectionate introduction highlighting their lifelong creative bond."),
+ (10, None,
+  "'My agent loves your new script.' An enthusiastic secondhand compliment locking the actress into the movie."),
+ (11, None,
+  "'It is an immense honor for me.' A proud and touched response welcoming the agent's apparent approval."),
+ (12, None,
+  "'We are going to make this beautiful film together!' A decisive declaration launching the collaborative film project."),
+ (13, None,
+  "'I find myself in a terrible trap.' A horrified realization acknowledging the disastrous consequences of a hasty bluff."),
+]
+
+TRANSITION = "Now let's listen to Andrea, Charlotte, and Oscar again at full speed."
+
+OUTRO = ("Having endorsed a script that she has not read and that Camille considers dreadful, Andrea is trapped in her own lie. "
+         "She must now find a delicate way to extract Charlotte from the project without alienating her star client.")
+
+CLOSING = ("lea", "La situation devient intenable.")
