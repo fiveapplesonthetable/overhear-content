@@ -23,3 +23,5 @@ and checked, no shortcuts.
 | dix-pour-cent | s02e01 "Virginie et Ramzy" | 29 (28 scripted) | 1 (5) | done: validate OK (25 gap + 37 accented-name warnings, see NOTES.md), qa OK |
 | domashniy-arest | s01e08 | 48 (48 scripted) | 0 | done: validate OK (32 gap warnings, see NOTES.md), qa OK |
 | domashniy-arest | s01e09 | 39 (39 scripted) | 0 | done: validate OK (38 gap warnings, see NOTES.md), qa OK |
+| dix-pour-cent | s02e02 "Fabrice Luchini" | 29 (29 scripted) | 0 | done: validate OK (15 gap + 47 accented-name warnings, see NOTES.md), qa OK |
+| domashniy-arest | s01e10 | 42 (42 scripted) | 0 | done: validate OK (41 gap warnings, see NOTES.md), qa OK |
