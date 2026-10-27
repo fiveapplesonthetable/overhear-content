@@ -131,6 +131,53 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - Appearance for the art: 30s, medium skin #D9A074, short dark hair, white shirt, long black waiter's apron.
 - Story role key / voice: `theo`. Label: Damien.
 
+## Laura Smet (star client, plays herself; Nathalie Baye's daughter, about 30; Gabriel's client; first seen s01e03)
+- Appearance for the art (stylised cartoon, not a portrait): light skin #F6D2B5, long straight dark-blonde hair, smoky
+  eyes, oversized camel coat over a black top, chunky silver rings.
+- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Laura.
+- Speech: *tu* with Gabriel and her mother (calls her "Maman"); intense, a bit rebellious.
+
+## Nathalie Baye (star client, plays herself; Laura's mother, in her 60s; Mathias's client; first seen s01e03)
+- Appearance for the art (stylised cartoon, not a portrait): light skin #F6D2B5, short feathered ash-blonde hair,
+  cream silk blouse, navy blazer, small gold earrings.
+- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Nathalie.
+- Speech: warm but bossy mother ("Tiens-toi droite!"), *tu* with Mathias and Laura.
+
+## Solveig Akerfelt (Scandinavian art-house director; first seen s01e03)
+- Appearance for the art: 50s, tall, pale skin #F6D2B5, long straight white-blonde hair with a fringe, black polo-neck
+  dress, long light-grey coat, silver pendant.
+- Story role key / voice: `emilie`, or `lea` -> lucie when she is the viewpoint. Label: Solveig.
+- Speech: slow, intense, a little odd; speaks French with *vous*.
+
+## Colette Brancillon (young tax inspector auditing ASK; the woman Andréa insulted on a dating site in s01e02; first seen s01e03)
+- Appearance for the art: early 30s, light skin #F6D2B5, dark-brown hair in a tight low bun, tortoiseshell glasses,
+  dove-grey skirt suit, black briefcase.
+- Story role key / voice: `emilie`, or `lea` -> lucie when she is the viewpoint. Label: Colette.
+- Speech: cool, correct *vous*, a stickler for rules.
+
+## Clément (Andréa's ex-boyfriend, high up at the tax office; first seen s01e03)
+- Appearance for the art: early 40s, medium skin #D9A074, neat side-parted black hair, grey suit, blue tie.
+- Story role key / voice: `theo`. Label: Clément.
+
+## Camille's mother, Madame Valentini (lives near Cannes; Mathias's old love; first seen s01e03)
+- Appearance for the art: late 40s, tanned medium skin #D9A074, big curly auburn hair, leopard-print blouse, big gold
+  hoop earrings, lots of bracelets.
+- Story role key / voice: `emilie`. Label: Maman (or "La mère de Camille").
+- Speech: warm, loud, southern; *tu* with Camille.
+
+## Dominique Besnehard (film producer, plays himself; first seen s01e03)
+- Appearance for the art (stylised, not a portrait): 60s, light skin #F6D2B5, grey curly hair, red-framed glasses,
+  bottle-green velvet blazer.
+- Story role key / voice: `marcel`. Label: Dominique.
+
+## François (boss of the rival agency StarMédia; first seen s01e03)
+- Appearance for the art: about 60, tanned light skin, silver hair, open-collar black shirt, expensive watch.
+- Story role key / voice: `marcel`. Label: François.
+
+## Hugo (delivery boy and film student, Hervé's crush; first seen s01e03)
+- Appearance for the art: early 20s, deep skin #9A6341, short curls, bike courier jacket, cycling helmet.
+- Story role key / voice: `theo`. Label: Hugo.
+
 ## Places
 - ASK offices: Haussmann building, tall windows, pale wood floors, glass partitions, desks with phones and scripts.
   Default dominant colour agency lilac `#A58BD3`; vary per scene (reception: lilac; meeting room: plum `#8E6FB8`;
@@ -158,3 +205,7 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - ASK copy room: big photocopier, paper stacks; soft peach `#F4A988`.
 - Andréa's office (variant): cool indigo `#6C6FB3`.
 - ASK office at night: night indigo `#5B5FA8`.
+- Tax office: grey filing cabinets, neat desk, window blinds; steel blue `#6F8FAF`.
+- Camille's loft: small room under the roof, mirror, clothes rail, bed; warm coral `#E58F73`.
+- César ceremony reception: red carpet, gold lights, champagne; deep red `#B5424A` with gold.
+- Small theatre (Sofia's play): black stage, single spotlight; burgundy `#7A2E3E`.
