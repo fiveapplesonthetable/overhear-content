@@ -297,3 +297,41 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - Theatre rehearsal hall with indoor swimming pool (s01e06): modern black-box stage built around a glowing turquoise rectangular swimming pool with a bright yellow inflatable rubber duck floating on the water; pool turquoise `#48B5B8` / stage slate `#4E5D73`.
 - Film soundstage (s01e06): indoor soundstage dressed as a 20th-century military tent/bunker with spotlights and boom mics; warm khaki-gold `#C89B54`.
 - Casting studio (s01e06): bright audition room with a video camera on a tripod, folding chairs, and plain backdrop; cool studio blue `#6E8EB8`.
+
+## Virginie Efira (guest star s02e01)
+- Appearance for the art: late 30s, blonde hair, light skin #F6D2B5.
+- Story role key / voice: `lea` -> lucie or `emilie`. Label: Virginie.
+- Speech: informal, warm.
+
+## Ramzy Bedia (guest star s02e01)
+- Appearance for the art: tall, medium skin #D9A074, short dark hair.
+- Story role key / voice: `theo` or `marcel`. Label: Ramzy.
+- Speech: comedic, defensive.
+
+## Hicham Janowski (new ASK majority shareholder; first seen s02e01)
+- Appearance for the art: 40s, handsome, short dark hair and stubble, medium skin #D9A074, sharp suits.
+- Story role key / voice: `theo` or `marcel`. Label: Hicham.
+- Speech: fast, aggressive, wealthy tech bro vibes.
+
+## Fabrice Luchini (guest star s02e02)
+- Appearance for the art: 60s, light skin #F6D2B5, receding grey hair, wears glasses and scarves, theatrical expressions.
+- Story role key / voice: `theo` or `marcel`. Label: Fabrice Luchini.
+- Speech: very theatrical, quotes literature, uses grand vocabulary.
+
+## Linda Gérard (actor client, used as fake casting director Debbie MacWilliams)
+- Appearance for the art: 40s, light skin #F6D2B5, dressed up as an imposing English casting director.
+- Story role key / voice: `emilie`. Label: Linda.
+
+## Constance (casting director)
+- Appearance for the art: 40s, sharp, modern professional attire.
+- Story role key / voice: `emilie`. Label: Constance.
+- Speech: cutting, dismissive, arrogant.
+
+## Christophe Lambert (guest star s02e02)
+- Appearance for the art: 50s, light skin #F6D2B5, short messy greyish hair, casual cool clothes.
+- Story role key / voice: `theo`. Label: Christophe Lambert.
+
+## François Bréhier (rival agent at Starmédia)
+- Appearance for the art: 50s, slick, well-dressed, light skin #F6D2B5.
+- Story role key / voice: `theo`. Label: François Bréhier.
+- Speech: smarmy, antagonistic.
