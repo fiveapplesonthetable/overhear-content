@@ -361,3 +361,11 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 ## Julien Doré (guest star s02e05)
 - Appearance for the art: 30s, light skin #F6D2B5, long blonde wavy hair, hipster style.
 - Story role key / voice: `theo`. Label: Julien Doré.
+
+## Juliette Binoche (guest star s02e06)
+- Appearance for the art: 50s, light skin #F6D2B5, elegant, confident, stylish.
+- Story role key / voice: `lea` or `emilie`. Label: Juliette Binoche.
+
+## Annick Valentini (Camille's mother)
+- Appearance for the art: 40s, light skin #F6D2B5, bohemian style.
+- Story role key / voice: `emilie`. Label: Annick Valentini.

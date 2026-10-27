@@ -248,3 +248,9 @@
 - Contains Guy Marchand and Julien Doré as guest stars.
 - Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
 - Central conflict: Guy Marchand is having memory issues on set, which causes a crisis for his agent, while Julien Doré develops a strange artistic obsession with Camille.
+
+## s02e06 "Juliette Binoche"
+- 31 scenes in scenes.json.
+- Contains Juliette Binoche as the guest star.
+- Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
+- Central conflict: Juliette Binoche is hosting the Cannes film festival ceremony but faces intense pressure from a wealthy producer (Jean-Denis) who demands she wear his wife's terrible dress, while the agency deals with Hicham's chaotic leadership.
