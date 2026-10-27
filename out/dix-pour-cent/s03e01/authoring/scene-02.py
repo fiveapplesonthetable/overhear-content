@@ -1,0 +1,106 @@
+# Authoring module for dix-pour-cent s03e01 scene 02 (cues 21-56).
+# Build: python3 tools/compose.py out/dix-pour-cent/s03e01/authoring/scene-02.py --out out/dix-pour-cent/s03e01/scene-02.json
+
+ID = "dix-pour-cent-s03e01-scene-02"
+SHOW = "dix-pour-cent"
+SEASON = 3
+EPISODE = 1
+SCENE = 2
+TITLE = "Le bilan de fin d'année  (The Year-End Review)"
+LEVEL = "A1 — débutant"
+PAIR = "fr-en"
+VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "camille": "emilie"}
+LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "camille": "Camille"}
+SOURCE_NAME = "Dix pour cent (Call My Agent!) S03E01"
+SOURCE_FILE = "sources/dix-pour-cent/s03/e01.fr.dual.srt"
+SOURCE_NOTE = ("Cues 21-56. At ASK, the team worries about the approaching year-end financial review "
+               "before Andréa suffers a sudden pregnancy contraction. Adapted for A1 French.")
+
+INTRO = ("At the ASK agency reception area, agents and assistants discuss the looming annual financial audit. "
+         "Determined to outperform rival agent Mathias, pregnant Andrea pushes herself hard before suffering a sudden contraction. "
+         "Let's listen to the scene in French first.")
+
+STORY = [
+ ("camille", "Le bilan de fin d'année approche rapidement.",
+  "The year-end review is approaching quickly.",
+  [(25, "c'est ce bilan de fin d'année qui arrive, ça me stresse.")], "Noted upcoming review"),
+ ("gabriel", "Tout le monde est très stressé ici.",
+  "Everyone is very stressed here.",
+  [(27, "ça stresse tout le monde.")], "Observed agency tension"),
+ ("lea", "La clôture des comptes a lieu vendredi.",
+  "The account closing takes place on Friday.",
+  [(37, "la clôture des comptes pour le bilan de fin d'année,"), (39, "Vendredi.")], "Stated accounting deadline"),
+ ("camille", "Il nous reste seulement quatre petits jours.",
+  "We have only four short days left.",
+  [(40, "dans quatre jours ?")], "Remarked on tight timeframe"),
+ ("gabriel", "Mathias a signé de très gros contrats.",
+  "Mathias has signed very big contracts.",
+  [(45, "Il a fait combien, Mathias ?")], "Mentioned colleague revenue"),
+ ("lea", "Je dois absolument battre son chiffre d'affaires!",
+  "I must absolutely beat his revenue!",
+  [(49, "ce qu'a fait Mathias.")], "Declared competitive goal"),
+ ("camille", "Tu as déjà signé beaucoup de projets.",
+  "You have already signed many projects.",
+  [(28, "Moi, j'ai signé que cinq contrats")], "Pointed out signed contracts"),
+ ("lea", "Ce n'est pas encore suffisant pour gagner.",
+  "It is not yet enough to win.",
+  [(42, "fait bien partie des comptes de l'année ?")], "Refused complacency"),
+ ("gabriel", "Pense d'abord à ta santé, Andréa.",
+  "Think first of your health, Andrea.",
+  [(50, "Ça va ?")], "Advised health priority"),
+ ("lea", "Aïe, j'ai une contraction assez douloureuse!",
+  "Ouch, I have a rather painful contraction!",
+  [(52, "des fois, j'ai des contractions.")], "Reported sharp contraction"),
+ ("camille", "Andréa, assieds-toi immédiatement sur ce fauteuil!",
+  "Andrea, sit down immediately on this armchair!",
+  [(54, "Assieds-toi.")], "Urged to sit down"),
+ ("lea", "C'est juste une petite contraction passagère.",
+  "It is just a minor passing contraction.",
+  [(52, "C'est juste que, ouais, des fois, j'ai des contractions.")], "Downplayed physical pain"),
+ ("gabriel", "Je vais te chercher un verre d'eau.",
+  "I am going to get you a glass of water.",
+  [(53, "Je veux bien, peut-être, juste un verre d'eau.")], "Offered glass of water"),
+ ("lea", "Merci Gabriel, c'est très gentil à toi.",
+  "Thank you Gabriel, that is very kind of you.",
+  [(56, "Ouais, super.")], "Appreciated assistance"),
+]
+
+OPENER = "Let's see how Andrea balances intense workplace competition with the physical demands of pregnancy."
+
+WALK = [
+ (0, None,
+  "'The year-end review is approaching quickly.' A temporal statement setting the professional deadline."),
+ (1, None,
+  "'Everyone is very stressed here.' An indefinite subject phrase noting general office anxiety."),
+ (2, None,
+  "'The account closing takes place on Friday.' An idiomatic verbal formula stating an exact fiscal deadline."),
+ (3, None,
+  "'We have only four short days left.' An impersonal countdown structure highlighting tight scheduling."),
+ (4, None,
+  "'Mathias has signed very big contracts.' A compound past verb noting commercial success by a rival."),
+ (5, None,
+  "'I must absolutely beat his revenue!' An intensified modal obligation expressing professional ambition."),
+ (6, None,
+  "'You have already signed many projects.' A reassuring reminder pointing to recent achievements."),
+ (7, None,
+  "'It is not yet enough to win.' A negative evaluation rejecting complacency in business."),
+ (8, None,
+  "'Think first of your health, Andrea.' A caring imperative advising physical self-preservation."),
+ (9, None,
+  "'Ouch, I have a rather painful contraction!' An involuntary exclamation reporting sudden pregnancy discomfort."),
+ (10, None,
+  "'Andrea, sit down immediately on this armchair!' An urgent protective imperative providing assistance."),
+ (11, None,
+  "'It is just a minor passing contraction.' A minimizing reassurance downplaying physiological strain."),
+ (12, None,
+  "'I am going to get you a glass of water.' A near future offer providing immediate comfort."),
+ (13, None,
+  "'Thank you Gabriel, that is very kind of you.' A polite acknowledgment welcoming friendly support."),
+]
+
+TRANSITION = "Now let's listen to Camille, Gabriel, and Andrea again at full speed."
+
+OUTRO = ("Despite the looming financial pressure, Gabriel and Camille step in to support Andrea when pregnancy contractions strike. "
+         "Their quick care reminds Andrea that wellbeing comes before agency rivalries.")
+
+CLOSING = ("gabriel", "Assieds-toi calmement, je reviens vite.")
