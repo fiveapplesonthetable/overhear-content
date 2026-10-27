@@ -242,3 +242,9 @@
 - Contains Isabelle Adjani as the guest star.
 - Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
 - Central conflict is Isabelle Adjani being insecure about her age and acting skills for a young director's film, and the agency discovering Mathias' secret daughter.
+
+## s02e05 "Guy Marchand"
+- 27 scenes in scenes.json.
+- Contains Guy Marchand and Julien Doré as guest stars.
+- Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
+- Central conflict: Guy Marchand is having memory issues on set, which causes a crisis for his agent, while Julien Doré develops a strange artistic obsession with Camille.
