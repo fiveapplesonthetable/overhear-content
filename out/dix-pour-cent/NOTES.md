@@ -254,3 +254,34 @@
 - Contains Juliette Binoche as the guest star.
 - Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
 - Central conflict: Juliette Binoche is hosting the Cannes film festival ceremony but faces intense pressure from a wealthy producer (Jean-Denis) who demands she wear his wife's terrible dress, while the agency deals with Hicham's chaotic leadership.
+
+## s03e01 "Jean Dujardin"
+- 27 scenes in scenes.json.
+- Contains Jean Dujardin as the guest star.
+- Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
+- Central conflict: Jean Dujardin is deeply stuck in a rugged World War I soldier character and refuses to break character, causing chaos for his next shoots and for his agents.
+
+## s03e02 "Monica Bellucci"
+- 27 scenes in scenes.json.
+- Contains Monica Bellucci as the guest star.
+- Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
+- Central conflict: Monica Bellucci is feeling terribly lonely and wants to find a "normal" guy, prompting Gabriel to try to find her a date, with chaotic results.
+
+## s03e03 "Gérard Lanvin"
+- Contains Gérard Lanvin as the guest star.
+- Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
+- Central conflict: Gérard Lanvin wants to help a young actor get a role, but the situation becomes complicated and humorous for his agents.
+
+## s03e04 "Isabelle Huppert"
+- Contains Isabelle Huppert as the guest star.
+- Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
+- Central conflict: Isabelle Huppert is secretly shooting multiple projects at the same time and her agents must hide this from angry producers while maintaining her schedule.
+
+## s03e05 (Béatrice Dalle)
+- Guest star is Béatrice Dalle.
+
+## s03e06 (ASK Anniversary / Ensemble)
+- Guest stars are an ensemble returning for ASK's 30th anniversary: Jean Dujardin, Monica Bellucci, Isabelle Huppert, etc.
+
+## s04e01 (Charlotte Gainsbourg)
+- Guest star is Charlotte Gainsbourg.

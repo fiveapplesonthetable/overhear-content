@@ -369,3 +369,22 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 ## Annick Valentini (Camille's mother)
 - Appearance for the art: 40s, light skin #F6D2B5, bohemian style.
 - Story role key / voice: `emilie`. Label: Annick Valentini.
+
+## Jean Dujardin (guest star s03e01)
+- Appearance for the art: 40s, light skin #F6D2B5, short hair, handsome, charismatic, often seen rugged or in character.
+- Story role key / voice: `theo` or `marcel`. Label: Jean Dujardin.
+
+### Monica Bellucci
+- **Monica Bellucci** (`monica`): The world-famous Italian actress, who in this episode is struggling with loneliness and looking for a normal, non-industry guy.
+
+### Gérard Lanvin
+- **Gérard Lanvin** (`gerard`): The veteran French actor, known for his tough-guy roles but trying to manage a delicate personal and professional situation in this episode.
+
+### Isabelle Huppert
+- **Isabelle Huppert** (`isabelle`): The legendary French actress known for being extremely hardworking, practically starring in multiple films at the same time in this episode.
+
+### Béatrice Dalle
+- **Béatrice Dalle** (`beatrice`): The fiery and rebellious French actress, known for her intense roles and unpredictable behavior on set.
+
+### Charlotte Gainsbourg (guest star s04e01)
+- **Charlotte Gainsbourg** (`charlotte`): The acclaimed actress who gets accidentally booked for an absurd sci-fi movie and desperately wants out.
