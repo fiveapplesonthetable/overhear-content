@@ -1,0 +1,35 @@
+# domashniy-arest-s01e09-scene-18: review sheet
+
+Title: Верните мои документы!  (Return My Documents!)
+Level: A1
+Pair: ru-en
+Source: Домашний арест S01E09
+
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Охранник | Сюда нельзя входить без пропуска. | You cannot enter here without a pass. | new | new: new guard line |
+| 2 | Аня | Отпусти ты меня немедленно! | Let go of me immediately! | #568 00:31:49: Отпусти ты меня!<br>#570 00:31:53: Отпусти, я сказал! | adapted: adapted cues 568 and 570 |
+| 3 | Боря | Привет, Паша! Чего ты хотел? | Hi, Pasha! What did you want? | #573 00:31:57: Привет, Паша! Чего хотел? | adapted: adapted cue 573 |
+| 4 | Аня | Вы мне ещё привет говорите? | You are still saying hello to me? | #574 00:31:59: Вы мне еще приветкаете, да? Не стыдно? | adapted: adapted cue 574 |
+| 5 | Аня | Вам совсем не стыдно? | Aren't you ashamed at all? | #574 00:31:59: Не стыдно? | verbatim |
+| 6 | Боря | Что тебе нужно, спрашиваю? | What do you need, I am asking? | #575 00:32:01: Чего хотел, спрашиваю? | adapted: adapted cue 575 |
+| 7 | Аня | Вы меня жестоко обманули. | You cruelly deceived me. | #576 00:32:03: Вы меня обманули и кинули. | adapted: adapted cue 576 |
+| 8 | Аня | Я вам не маленький мальчик! | I am not a little boy to you! | #576 00:32:03: Я вам что, пацан, что ли? | adapted: adapted cue 576 |
+| 9 | Аня | Быстро верните мне мои документы. | Quickly return my documents to me. | #577 00:32:06: А ну-ка быстро вернули мне мои документы. | adapted: adapted cue 577 |
+| 10 | Аня | Верните все три папки! | Return all three folders! | #578 00:32:09: Все три папки. | adapted: adapted cue 578 |
+| 11 | Боря | Паша, документы уже в архиве. | Pasha, the documents are already in the archive. | #579 00:32:11: Паша, документы все в архиве. | adapted: adapted cue 579 |
+| 12 | Боря | Вернуть ничего невозможно. | It is impossible to return anything. | #580 00:32:13: вернуть ничего невозможно. | verbatim |
+| 13 | Аня | Ты подлый человек, Боря! | You are a despicable man, Borya! | #581 00:32:19: Скотина! Боря! | adapted: adapted cue 581 |
+| 14 | Боря | Охрана, уведите его отсюда! | Security, take him away from here! | #584 00:32:24: Уберите макаку эту! | adapted: adapted cue 584 |
+| 15 | Охранник | Пойдёмте на выход, гражданин. | Let's head to the exit, citizen. | new | new: new guard reaction |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Let go of me immediately!' The imperative verb demands release from physical restraint.
+- 'You are still saying hello to me?' Osipenko is offended by the casual greeting after being betrayed.
+- 'Quickly return my documents to me.' The imperative construction calls for the immediate return of his property.
+- 'It is impossible to return anything.' The predicate word indicates that the requested action cannot be done.
+- 'Security, take him away from here!' Boris summons the guards to escort his former ally out.
