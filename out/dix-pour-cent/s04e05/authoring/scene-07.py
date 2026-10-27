@@ -1,0 +1,75 @@
+ID = "dix-pour-cent-s04e05-scene-07"
+SHOW = "dix-pour-cent"
+SEASON = 4
+EPISODE = 5
+SCENE = 7
+TITLE = "Le mauvais partenaire  (The Wrong Partner)"
+LEVEL = "A1 — débutant"
+PAIR = "fr-en"
+VOICES = {"narrator": "sky", "lea": "lucie", "sigourney": "emilie"}
+LABELS = {"lea": "Camille", "sigourney": "Sigourney"}
+SOURCE_NAME = "Dix pour cent (Call My Agent!) S04E05"
+SOURCE_FILE = "sources/dix-pour-cent/s04/e05.fr.dual.srt"
+
+INTRO = ("At the hotel, Sigourney Weaver is furious and packing her bags to return to Los Angeles. Camille tries to calm her down. "
+         "We'll hear their conversation in French first, but don't worry about catching every word.")
+
+STORY = [
+ ("lea", "Sigourney, qu'est-ce qui se passe?", "Sigourney, what is going on?",
+  [(299, "Sigourney... Qu'est-ce qui se passe ?")], ""),
+ ("sigourney", "Je rentre à Los Angeles.", "I am going back to Los Angeles.",
+  [(300, "Je rentre à Los Angeles.")], ""),
+ ("lea", "Mais pourquoi?", "But why?",
+  [(301, "Mais pourquoi ?")], ""),
+ ("sigourney", "Je dois prendre cet avion.", "I must take this plane.",
+  [(302, "Je dois prendre cet avion.")], ""),
+ ("lea", "Vous avez douze heures pour vous expliquer.", "You have twelve hours to explain.",
+  [(308, "Vous aurez 12 heures pour vous expliquer.")], "Future to present"),
+ ("sigourney", "Je pensais que Gaspard Ulliel serait mon partenaire.", "I thought that Gaspard Ulliel would be my partner.",
+  [(310, "je pensais que Gaspard Ulliel serait mon partenaire.")], ""),
+ ("lea", "Mais personne n'a dit ça.", "But nobody said that.",
+  [(311, "Mais personne n'a dit ça...")], ""),
+ ("sigourney", "Une Américaine qui tout quitte par amour...", "An American woman who leaves everything for love...",
+  [(313, "Une Américaine"), (313, "qui tout quitte par amour")], "Simplified"),
+ ("sigourney", "Pour un jeune professeur, je trouvais ça fort.", "For a young professor, I thought that was compelling.",
+  [(314, "d'un jeune professeur"), (314, "je trouvais ça fort.")], "Simplified"),
+ ("lea", "Gaspard Ulliel a trente-cinq ans.", "Gaspard Ulliel is thirty-five years old.",
+  [(315, "Gaspard Ulliel a 35 ans.")], "Numbers to words"),
+ ("sigourney", "Il est temps que les choses changent.", "It is time for things to change.",
+  [(319, "il est temps que les choses changent ?")], ""),
+ ("sigourney", "Et Gaspard sera mon amant.", "And Gaspard will be my lover.",
+  [(323, "Et Gaspard, mon amant.")], "Added sera")
+]
+
+OPENER = "Let's walk through it. Camille finds her client packing her bags."
+
+WALK = [
+ (0, None,
+  "'Sigourney, what is going on?' Camille is shocked to see the star ready to leave."),
+ (1, None,
+  "'I am going back to Los Angeles.' The actress announces her immediate departure."),
+ (2, None,
+  "'But why?' Camille desperately wants to know what went wrong."),
+ (3, None,
+  "'I must take this plane.' Sigourney insists that she is leaving no matter what."),
+ (4, None,
+  "'You have twelve hours to explain.' Camille reminds her that the flight is not until tomorrow."),
+ (5, None,
+  "'I thought that Gaspard Ulliel would be my partner.' She reveals the real reason for her anger."),
+ (6, None,
+  "'But nobody said that.' Camille is confused by this completely false expectation."),
+ (7, None,
+  "'An American woman who leaves everything for love...' She explains the romantic storyline she envisioned."),
+ (8, None,
+  "'For a young professor, I thought that was compelling.' She loved the idea of a younger love interest."),
+ (9, None,
+  "'Gaspard Ulliel is thirty-five years old.' Camille points out the massive age gap."),
+ (10, None,
+  "'It is time for things to change.' Sigourney wants to challenge the traditional double standards."),
+ (11, None,
+  "'And Gaspard will be my lover.' She demands that they rewrite the script to give her what she wants.")
+]
+
+TRANSITION = "Now let's hear the scene once more."
+OUTRO = "Sigourney Weaver wants a young romantic lead, and she won't settle for less. See you next time."
+CLOSING = ("lea", "À plus tard!")
