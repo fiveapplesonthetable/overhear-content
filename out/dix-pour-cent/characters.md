@@ -20,7 +20,8 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - Appearance for the art: around 35, light skin #F6D2B5, short tousled dark-brown hair (side-swept, ears visible),
   black leather jacket over a grey T-shirt, dark jeans, smartphone in hand.
 - Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Andréa.
-- Speech: fast, bossy, informal; *tu* with colleagues and assistants (says *vous* to Camille at first). "Improvise!"
+- Speech: fast, bossy, informal; *tu* with Gabriel, Arlette and Hervé, *vous* with Camille; with Mathias the cues use
+  *vous* (s01e02 meeting). "Improvise!"
 
 ## Gabriel Sarda (agent; kind, anxious, avoids conflict; Cécile de France's agent; first seen s01e01)
 - Appearance for the art: mid 40s, stocky, round face, medium skin #D9A074, messy dark curly hair, short dark stubble,
@@ -88,6 +89,48 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - Story role key / voice: `emilie`, or `lea` -> lucie when she is the viewpoint. Label: Miranda.
 - Speech: polite *vous*, sweet but firm.
 
+## Françoise Fabian (star client, plays herself; Samuel's client and old friend, about 80; first seen s01e02)
+- Appearance for the art (stylised cartoon, not a portrait): slim, upright, light skin #F6D2B5, short swept-back
+  silver-white hair (no bun), dark elegant coat over a black polo neck, plum silk scarf, small dark handbag.
+- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Françoise.
+- Speech: cool, refined, *vous* with agents; art-house grande dame.
+
+## Line Renaud (star client, plays herself; singer and actress, about 85; Samuel's old friend; first seen s01e02)
+- Appearance for the art (stylised cartoon, not a portrait): light skin #F6D2B5, voluminous platinum-blonde coiffed
+  hair, big smile, bright fuchsia suit jacket, pearl earrings, sunglasses in hand.
+- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Line.
+- Speech: warm, bubbly, loves life and music hall. Says *tu* to Gabriel ("Gabi") from s01e02 scene 9 on, while he keeps
+  *vous*; both are on *vous* at their first lunch (scene 6).
+
+## Hippolyte Rivière (young actor on Andréa's list; Mathias's son, so Camille's half-brother; first seen s01e02)
+- Appearance for the art: mid 20s, light skin #F6D2B5, tousled light-brown hair, light stubble, faded denim jacket over
+  a white T-shirt, black jeans, motorbike-style scooter helmet when riding.
+- Story role key / voice: `theo` (or `marcel`). Label: Hippolyte.
+- Speech: cheeky, flirty, *tu* straight away.
+
+## Catherine Barneville (Mathias's wife, Hippolyte's mother; first seen s01e02)
+- Appearance for the art: mid 50s, light skin #F6D2B5, honey-blonde shoulder-length hair, navy dress, gold necklace.
+- Story role key / voice: `emilie`. Label: Catherine.
+
+## Hélène Kerr (Samuel's widow, inherits his shares; first seen s01e02)
+- Appearance for the art: late 60s, light skin #F6D2B5, sleek grey bob, black dress, double string of pearls, black
+  leather gloves.
+- Story role key / voice: `emilie`, or `lea` -> lucie when she is the viewpoint. Label: Hélène.
+- Speech: cold, polite *vous*, dry and blunt.
+
+## Emma (film producer of Gabor Rajevski's film; first seen s01e02)
+- Appearance for the art: early 40s, medium skin #D9A074, dark hair in a ponytail, red-framed glasses, olive-green coat.
+- Story role key / voice: `emilie`. Label: Emma.
+
+## Gabor Rajevski (art-house director, won a prize at Cannes; first seen s01e02)
+- Appearance for the art: mid 30s, light skin #F6D2B5, shaved head, round black glasses, black polo neck, long grey scarf.
+- Story role key / voice: `marcel` (or `theo`). Label: Gabor.
+- Speech: intense, enthusiastic.
+
+## Damien (waiter at the café near ASK; first seen s01e02)
+- Appearance for the art: 30s, medium skin #D9A074, short dark hair, white shirt, long black waiter's apron.
+- Story role key / voice: `theo`. Label: Damien.
+
 ## Places
 - ASK offices: Haussmann building, tall windows, pale wood floors, glass partitions, desks with phones and scripts.
   Default dominant colour agency lilac `#A58BD3`; vary per scene (reception: lilac; meeting room: plum `#8E6FB8`;
@@ -105,3 +148,13 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - ASK washroom: mirror, sinks; cool teal `#5AA9A6`.
 - ASK corridor (tense): plum `#8E6FB8`; Magali's exit: tomato `#E2604F`.
 - Restaurant, break-up mood: dusky wine `#A0525E` (same room as the caramel restaurant).
+- Florist's shop: buckets of flowers, a big round funeral wreath; blush pink `#EC8DAE`.
+- Gabriel's flat: small dining table, wine bottle, framed photo, warm lamp; amber `#D99A4E`.
+- Hotel bar (the Westin): velvet armchairs, low table; deep teal `#2E7D7A` (tense business).
+- Café terrace near ASK: little round tables, coffee cups, awning; cafe caramel `#C98B5E`.
+- Père-Lachaise cemetery / tribute hall: trees, stone tombs, white flowers, candles; soft grey-green `#8FA89A`.
+- ASK lift / lobby: brass lift doors, stairs; lilac `#A58BD3`.
+- Cinema foyer: red velvet ropes, wall lamps, blank poster frames; midnight blue `#3F5A8A`.
+- ASK copy room: big photocopier, paper stacks; soft peach `#F4A988`.
+- Andréa's office (variant): cool indigo `#6C6FB3`.
+- ASK office at night: night indigo `#5B5FA8`.
