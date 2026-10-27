@@ -1,0 +1,41 @@
+# kukhnya-s01e19-scene-14: review sheet
+
+Title: День рождения ресторана  (The Restaurant's Birthday)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.19
+
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Аня | Что собираешься делать? | What are you going to do? | #236 00:15:29: собираешься делать | verbatim |
+| 2 | Шеф | Ты насчет ресторана? | Are you talking about the restaurant? | #237 00:15:32: Ты насчет | verbatim |
+| 3 | Аня | Дима дал тебе две недели. | Dima gave you two weeks. | #238 00:15:36: Дима тебе дал две недели | verbatim |
+| 4 | Аня | Уже неделя прошла. | A week's already gone by. | #239 00:15:39: Уже неделя прошла | verbatim |
+| 5 | Шеф | Не переживай, у меня есть идея. | Don't worry, I have an idea. | #240 00:15:41: Не переживай, есть у меня одна идея | verbatim |
+| 6 | Аня | Дай угадаю. Ты напьешься? | Let me guess. You'll get drunk? | #241 00:15:43: Дай угадаю. Напьешься | verbatim |
+| 7 | Шеф | Естественно. Такой повод. | Naturally. Such an occasion. | #242 00:15:45: Естественно. Такой повод | verbatim |
+| 8 | Шеф | День рождения ресторана Клод Моне. | The birthday of the Claude Monet restaurant. | #242 00:15:45: День рождения ресторана Клод Мане | adapted: using correct spelling Моне |
+| 9 | Шеф | Устроим пир на весь мир. | We'll throw a party for the whole world. | #243 00:15:49: устроим пир на весь мир | verbatim |
+| 10 | Аня | И как мир об этом узнает? | And how will the world hear about it? | #244 00:15:52: И как весь мир об этом узнает | verbatim |
+| 11 | Шеф | А это я беру на себя. | I'll take care of that. | #245 00:15:55: А это я беру на себя | verbatim |
+| 12 | Аня | Понятно. Удачи. | Got it. Good luck. | #246 00:15:57: Понятно. Удачи | verbatim |
+| 13 | Шеф | Спасибо. | Thanks. | #247 00:15:59: Спасибо | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'What are you going to do?' Vika asks directly. Notice the word for 'to do' is at the end.
+- 'Are you talking about the restaurant?' Literally, 'You about restaurant?'. The verb 'are' is skipped in Russian.
+- 'Dima gave you two weeks.' The verb 'gave' is in the past tense masculine, because Dima is a man. It is placed before the word for 'you'.
+- 'A week's already gone by.' The verb 'passed' is feminine here, because 'week' is a feminine noun.
+- 'Don't worry, I have an idea.' Literally 'By me there is an idea'. We often use this structure in Russian for possession.
+- 'Let me guess. You'll get drunk?' Vika is skeptical. The second verb is in the future tense.
+- 'Naturally. Such an occasion.' The Chef is very proud. The word 'an' is not translated.
+- 'The birthday of the Claude Monet restaurant.' In Russian, we say 'Day of birth'. We do not use 'the'.
+- 'We'll throw a party for the whole world.' This is a popular Russian rhyming phrase: 'pir na ves mir'.
+- 'And how will the world hear about it?' Vika wonders how people will know. The verb is future tense.
+- 'I'll take care of that.' Literally, 'But this I take onto myself'.
+- 'Got it. Good luck.' Vika isn't convinced. The second word is a wish for success.
+- 'Thanks.' The Chef is full of confidence.

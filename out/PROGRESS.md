@@ -60,3 +60,5 @@ and checked, no shortcuts.
 | kukhnya | s01e13 | 22 (22 scripted) | 0 | done: validate OK (7 gap warnings, see NOTES.md), qa OK |
 | kukhnya | s01e16 | 25 (25 scripted) | 0 | done: validate OK (24 gap warnings, see NOTES.md), qa OK |
 | kukhnya | s01e18 | 21 (21 scripted) | 0 | done: validate OK (20 gap warnings, see NOTES.md), qa OK |
+| kukhnya | s01e17 | 24 (24 scripted) | 0 | done: validate OK (26 warnings, see NOTES.md), qa OK |
+| kukhnya | s01e19 | 22 (22 scripted) | 0 | done: validate OK (25 warnings, see NOTES.md), qa OK |
