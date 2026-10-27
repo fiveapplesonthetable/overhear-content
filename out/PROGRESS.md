@@ -38,3 +38,4 @@ and checked, no shortcuts.
 | dix-pour-cent | s03e02 "Monica" | 27 (27 scripted) | 0 | done: validate OK (22 gap + 22 accented-name warnings, see NOTES.md), qa OK |
 | kukhnya | s01e04 | 24 (24 scripted) | 0 | done: validate OK (22 gap warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s03e03 "Gérard" | 25 (25 scripted) | 0 | done: validate OK (21 gap warnings, see NOTES.md), qa OK |
+| kukhnya | s01e05 | 23 (23 scripted) | 0 | done: validate OK (22 gap warnings, see NOTES.md), qa OK |
