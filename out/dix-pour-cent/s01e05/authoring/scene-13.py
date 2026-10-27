@@ -67,40 +67,31 @@ OPENER = "Now let's walk through the scene line by line and unpack the French ex
 
 WALK = [
  (0, None,
-  "Camille identifies the show's core viewer: the target is the woman who chats with her friends at the hairdresser's. "
-  "Remember that the preposition before a person or profession means at their shop or office."),
+  "'The target is the woman who chats with her friends at the hairdresser's.' The preposition before a profession means at their shop."),
  (1, None,
-  "She adds that it is the kind of woman who adores Jonathan Joubert, using the noun for type or sort followed by the "
-  "preposition of."),
+  "'The kind of woman who adores Jonathan Joubert.' Notice the noun for type or kind followed by the preposition 'of'."),
  (2, None,
-  "She quickly corrects herself to the character's name: Ryan, I mean. The phrase literally says I want to say, and it "
-  "is the everyday French way to say I mean."),
+  "'Ryan, I mean.' Literally 'I want to say', the standard everyday French way to say 'I mean'."),
  (3, None,
-  "Camille proposes her plan: what we need is a leak, so that the fans start to protest. Notice how what we need is "
-  "built with the impersonal verb for needing."),
+  "'What we need is a leak, so that the fans start to protest.' Notice how 'what we need' is built with the impersonal verb for needing."),
  (4, None,
-  "Mathias turns to his assistant and asks what his idea is, like a death notice. In casual speech, placing the question "
-  "word after it is makes a quick, direct question."),
+  "'What is your idea, like a death notice?' In casual speech, placing the question word after the verb makes a quick, direct question."),
  (5, None,
-  "Hervé beams with pride and says: exactly!"),
+  "'Exactly!' Hervé beams with pride and pulls out his printed mockup."),
  (6, None,
-  "Holding up a grim poster, Hervé explains that he took inspiration from that case of a missing child in Correze. The "
-  "reflexive verb in the past tense takes the auxiliary to be."),
+  "'I took inspiration from that case of a missing child in Corrèze.' The reflexive verb in the past tense takes the auxiliary 'to be'."),
  (7, None,
-  "Mathias stares at the poster in disbelief and says: it is horrible."),
+  "'It's horrible.' Mathias stares at the poster in total disbelief."),
  (8, None,
-  "He immediately shuts the idea down: listen, drop it. The idiom literally means let it fall, and it is used everywhere "
-  "for forget it or never mind."),
+  "'Listen, drop it.' Literally 'let it fall', the universal French idiom for 'forget it' or 'drop it'."),
  (9, None,
-  "To get Hervé back on useful work, Mathias tells him: take care of Audrey Fleurot. Notice how the reflexive pronoun "
-  "hooks onto the end of a positive command."),
+  "'Take care of Audrey Fleurot.' Notice how the reflexive pronoun attaches to the end of a positive command."),
  (10, None,
-  "Mathias explains why: she has a schedule problem with her children. The compound noun for a schedule literally means "
-  "use of time."),
+  "'She has a schedule problem with her children.' The compound noun for a schedule literally means 'use of time'."),
  (11, None,
-  "Before dismissing them, Mathias adds politely: thanks all the same."),
+  "'Thanks all the same.' Mathias softens the blow before dismissing them."),
  (12, None,
-  "Unbothered by the rejection, Hervé replies cheerfully: you're welcome, literally of nothing."),
+  "'You're welcome.' Unbothered by the rejection, Hervé replies with the everyday phrase meaning 'of nothing'."),
 ]
 
 TRANSITION = "Now listen to the entire office exchange one more time at natural speed."

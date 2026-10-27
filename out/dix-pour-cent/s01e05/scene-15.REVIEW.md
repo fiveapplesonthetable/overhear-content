@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- Handing over the costume shirt, the dresser reassures Didier: that will suit you very well. Here the future tense of the verb to go with an indirect object pronoun means to fit or suit someone.
-- Looking in the mirror, Didier sighs: I have put on weight. French uses the verb to take with a partitive article for gaining weight.
-- Gabriel immediately flatters his client: not at all, you are a handsome guy, baby!
-- Didier admits how nervous he feels about tomorrow's shoot: it is going to be embarrassing, or awkward.
-- Gabriel tries to pump him up like a boxing coach: you are capable of doing this scene, champ!
-- He adds dramatically: all the power of a lion!
-- Didier deflates the pep talk with a quiet confession: I feel more like a shy little cat. Notice the reflexive verb to feel followed by the adverb for rather or more like.
-- Gabriel tells him to stop and reminds him: you have done lots of scenes like that.
-- Then Didier reveals his real worry: listen, I do not even know how aristocrats and servants did things back then.
-- Holding up a serious history book, he adds: I did some research, I did not find anything.
-- Gabriel waves the book away: forget all that, just do what comes naturally.
-- Getting carried away with his own speech, Gabriel leans in and declares: you are an animal, Didier.
-- Staring deeply into Didier's eyes, Gabriel adds: it is attractive, even to me.
-- Creeped out by his agent's intense stare, Didier snaps: hey, stop looking at me like that!
+- 'That will suit you very well.' Handing over the period shirt, the costumier uses the future tense of 'to go' for 'to suit'.
+- 'I have put on weight.' French uses the verb 'to take' with a partitive article for gaining weight.
+- 'Not at all. You are a handsome guy, baby!' Gabriel immediately flatters his nervous star.
+- 'It is going to be embarrassing.' Didier admits his anxiety about tomorrow's intimate scene.
+- 'You are capable of doing this scene, champ!' Gabriel tries to pump him up like a sports coach.
+- 'All the power of a lion!' He adds dramatic animal imagery to boost his client's confidence.
+- 'I feel more like a shy little cat.' Didier deflates the speech with an endearing, quiet confession.
+- 'Stop. You have done lots of scenes like that.' Gabriel reminds him of his long screen experience.
+- 'Listen, I do not even know how aristocrats and servants did things back then.' Didier reveals his real historical worry.
+- 'I did some research, I did not find anything.' Holding up a heavy book, he admits his frustration.
+- 'Forget all that. Just do what comes naturally.' Gabriel urges him to trust his instincts.
+- 'You are an animal, Didier.' Getting carried away, Gabriel leans in with intense conviction.
+- 'It is attractive. Even to me.' Staring deeply into Didier's eyes, Gabriel takes the flattery a bit too far.
+- 'Hey, stop looking at me like that!' Unsettled by his agent's intense gaze, Didier snaps back to reality.
