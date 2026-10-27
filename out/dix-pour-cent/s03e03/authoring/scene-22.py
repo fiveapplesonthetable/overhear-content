@@ -1,0 +1,96 @@
+# Authoring module for dix-pour-cent s03e03 scene 22 (cues 1242-1267).
+# Build: python3 tools/compose.py overhear-content/out/dix-pour-cent/s03e03/authoring/scene-22.py --out overhear-content/out/dix-pour-cent/s03e03/scene-22.json
+
+ID = "dix-pour-cent-s03e03-scene-22"
+SHOW = "dix-pour-cent"
+SEASON = 3
+EPISODE = 3
+SCENE = 22
+TITLE = "Les premières contractions  (The First Contractions)"
+LEVEL = "A1 — débutant"
+PAIR = "fr-en"
+VOICES = {"narrator": "sky", "lea": "lucie", "mathias": "theo", "andrea": "emilie"}
+LABELS = {"lea": "Camille", "mathias": "Mathias", "andrea": "Andréa"}
+SOURCE_NAME = "Dix pour cent (Call My Agent!) S03E03"
+SOURCE_FILE = "sources/dix-pour-cent/s03/e03.fr.dual.srt"
+SOURCE_NOTE = (
+    "Cues 1242-1267. Camille finishes negotiating contract billing with Mathias. "
+    "Moments later, a heavily pregnant Andrea calls Camille into her office in severe pain, asking her to run to the pharmacy for medicine."
+)
+
+INTRO = (
+    "At the ASK agency, Camille discusses poster billing with Mathias before Andrea urgently calls her for help with sudden stomach pains. "
+    "Listen to the scene in French first. Don't worry about catching every word."
+)
+
+STORY = [
+    ("lea", "C'est bon, j'ai finalisé le contrat.", "All good, I finalized the contract.",
+     [(1242, "C'est bon"), (1243, "J'ai finalisé le contrat")], "Camille presents the contract to Mathias"),
+    ("lea", "Il y a juste un petit truc.", "There is just one little thing.",
+     [(1244, "Y a juste un petit truc")], ""),
+    ("lea", "La taille du nom sur l'affiche.", "The size of the name on the poster.",
+     [(1245, "La taille de son nom sur l'affiche")], ""),
+    ("mathias", "On en a déjà parlé, Camille.", "We already spoke about that, Camille.",
+     [(1246, "On en a déjà parlé, Camille")], "Mathias shakes his head firmly"),
+    ("lea", "Vu son rôle, c'est important.", "Given his role, it is important.",
+     [(1247, "vu son rôle")], ""),
+    ("mathias", "Ce n'est pas possible, on en reparle.", "That is not possible, we will talk later.",
+     [(1251, "C'est pas possible"), (1252, "On en reparle")], ""),
+    ("andrea", "Camille, viens une seconde, s'il te plaît!", "Camille, come for a second, please!",
+     [(1249, "je peux venir une seconde, s'il te plaît")], "Andrea calls out from her office doorway"),
+    ("andrea", "Tu vas aller vite à la pharmacie.", "You are going to go quickly to the pharmacy.",
+     [(1253, "tu vas aller à la pharmacie")], "Andrea clutches her belly in pain"),
+    ("andrea", "Achète des antispasmes, s'il te plaît.", "Buy some antispasmodics, please.",
+     [(1253, "m'acheter"), (1254, "des antispasmes, s'il te plaît")], ""),
+    ("andrea", "Je n'en ai plus du tout.", "I do not have any left at all.",
+     [(1255, "J'en ai plus")], ""),
+    ("lea", "Ça va, j'y vais tout de suite.", "All right, I am going right away.",
+     [(1259, "ça va, j'y vais")], ""),
+    ("andrea", "Ce n'est pas ça, le bébé appuie!", "It is not that, the baby is pressing down!",
+     [(1261, "C'est pas ça, elle appuie")], "Andrea winces and breathes heavily"),
+    ("lea", "Ça va? Tu as très mal?", "Are you okay? Does it hurt badly?",
+     [(1262, "Ça va")], ""),
+    ("andrea", "Oui, mais je ne peux pas bouger.", "Yes, but I cannot move.",
+     [(1263, "je veux pas bouger")], ""),
+    ("lea", "J'y vais immédiatement, ne bouge pas!", "I am going immediately, do not move!",
+     [(1264, "J'y vais, j'y vais")], "Camille grabs her jacket and dashes toward the door"),
+]
+
+OPENER = "Let's walk through this tense agency moment before the sudden emergency step by step."
+
+WALK = [
+    (0, None,
+     "'All good, I finalized the contract.' Camille proudly reports her progress to Mathias."),
+    (1, None,
+     "'There is just one little thing.' Camille cautiously raises an unresolved detail."),
+    (2, None,
+     "'The size of the name on the poster.' Camille highlights the client's billing demands."),
+    (3, None,
+     "'We already spoke about that, Camille.' Mathias firmly cuts short any renegotiation."),
+    (4, None,
+     "'Given his role, it is important.' Camille insists on defending her client's prestige."),
+    (5, None,
+     "'That is not possible, we will talk later.' Mathias defers the heated discussion."),
+    (6, None,
+     "'Camille, come for a second, please!' Andrea urgently calls her assistant from her office."),
+    (7, None,
+     "'You are going to go quickly to the pharmacy.' Andrea prepares to send Camille on an errand."),
+    (8, None,
+     "'Buy some antispasmodics, please.' Andrea requests pain relief medicine for her severe cramps."),
+    (9, None,
+     "'I do not have any left at all.' Andrea admits she has completely run out of medication."),
+    (10, None,
+     "'All right, I am going right away.' Camille agrees to dash out immediately."),
+    (11, None,
+     "'It is not that, the baby is pressing down!' Andrea explains that the pain is from the baby."),
+    (12, None,
+     "'Are you okay? Does it hurt badly?' Camille checks on Andrea with growing alarm."),
+    (13, None,
+     "'Yes, but I cannot move.' Andrea finds herself paralyzed by a sudden sharp wave."),
+    (14, None,
+     "'I am going immediately, do not move!' Camille rushes out to get help and medicine."),
+]
+
+TRANSITION = "Now listen to the whole scene again at normal speed, and see how much more you catch."
+OUTRO = "While sorting out actor contracts with Mathias, Camille is abruptly called to help an agonizing Andrea, whose labor pains have suddenly begun."
+CLOSING = ("andrea", "Camille, viens une seconde, s'il te plaît!")
