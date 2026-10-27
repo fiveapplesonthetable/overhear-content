@@ -41,3 +41,4 @@ and checked, no shortcuts.
 | kukhnya | s01e05 | 23 (23 scripted) | 0 | done: validate OK (22 gap warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s03e04 "Isabelle" | 25 (25 scripted) | 0 | done: validate OK (24 gap + 21 accented-name warnings, see NOTES.md), qa OK |
 | kukhnya | s01e06 | 23 (23 scripted) | 0 | done: validate OK (22 gap warnings, see NOTES.md), qa OK |
+| dix-pour-cent | s03e05 "Béatrice" | 29 (29 scripted) | 0 | done: validate OK (28 gap warnings, see NOTES.md), qa OK |
