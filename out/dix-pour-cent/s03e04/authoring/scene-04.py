@@ -1,0 +1,101 @@
+# Authoring module for dix-pour-cent s03e04 scene 04 (cues 191-220).
+# Build: python3 tools/compose.py out/dix-pour-cent/s03e04/authoring/scene-04.py --out out/dix-pour-cent/s03e04/scene-04.json
+
+ID = "dix-pour-cent-s03e04-scene-04"
+SHOW = "dix-pour-cent"
+SEASON = 3
+EPISODE = 4
+SCENE = 4
+TITLE = "Les écoles de théâtre  (Theater Schools)"
+LEVEL = "A1 — débutant"
+PAIR = "fr-en"
+VOICES = {"narrator": "sky", "lea": "lucie", "herve": "theo"}
+LABELS = {"lea": "Camille", "herve": "Hervé"}
+SOURCE_NAME = "Dix pour cent (Call My Agent!) S03E04"
+SOURCE_FILE = "sources/dix-pour-cent/s03/e04.fr.dual.srt"
+SOURCE_NOTE = ("Cues 191-220. At ASK, Camille and Hervé discuss representing screenwriters and splitting "
+               "theater school student showcases, debating distances across Paris. Adapted for A1 French.")
+
+INTRO = ("At the ASK agency, junior agent Camille and assistant Herve discuss scouting new acting talent. "
+         "As they divide up student showcases across Parisian theater schools, Camille refuses to travel to the distant twentieth arrondissement. "
+         "Let's listen to the scene in French first.")
+
+STORY = [
+ ("lea", "Travailler avec des scénaristes est formidable.",
+  "Working with screenwriters is wonderful.",
+  [(191, "C'est génial pour nous.")], "Camille highlights new opportunities"),
+ ("herve", "Ils sont plus faciles à gérer que les acteurs!",
+  "They are easier to manage than actors!",
+  [(194, "vachement plus faciles à gérer que les acteurs.")], "Herve laughs about actor drama"),
+ ("herve", "Mais parfois, ils s'habillent très mal.",
+  "But sometimes, they dress very poorly.",
+  [(195, "Ouais, mais qu'est-ce qui s'habille mal ?")], "Herve mocks writer fashion"),
+ ("lea", "C'est maintenant la saison des présentations d'atelier.",
+  "It is now theater workshop showcase season.",
+  [(198, "Et sinon, c'est la saison des présentations d'atelier")], "Camille changes the subject"),
+ ("herve", "Nous devons nous répartir toutes les écoles.",
+  "We must divide up all the schools.",
+  [(200, "Une répartition aléatoire entre nous.")], "Herve checks the schedule"),
+ ("lea", "Je dois absolument aller au conservatoire national.",
+  "I must definitely go to the national conservatoire.",
+  [(203, "Non, le conservatoire, c'est pas négociable.")], "Camille claims her priority"),
+ ("lea", "Un de mes comédiens y joue ce soir.",
+  "One of my actors is performing there tonight.",
+  [(204, "J'ai un de mes acteurs qui y est, je suis obligée.")], "Camille explains her obligation"),
+ ("herve", "Peux-tu aller à l'atelier de scène?",
+  "Can you go to the stage workshop?",
+  [(205, "Toi, tu peux aller à l'atelier de scène ?")], "Herve offers another venue"),
+ ("herve", "C'est vraiment une excellente école de théâtre.",
+  "It is truly an excellent theater school.",
+  [(206, "C'est une très bonne école.")], "Herve praises the students"),
+ ("lea", "Non, cet atelier est dans le vingtième!",
+  "No, that workshop is in the twentieth!",
+  [(207, "Je sais, mais je peux pas, c'est dans le 20e.")], "Camille refuses immediately"),
+ ("herve", "Pourquoi refuses-tu d'aller dans cet arrondissement?",
+  "Why do you refuse to go to that arrondissement?",
+  [(208, "Quoi ? Pourquoi ?")], "Herve is astonished"),
+ ("lea", "Je n'aime pas les arrondissements trop lointains.",
+  "I do not like distant arrondissements.",
+  [(209, "J'aime pas les arrondissements à deux chiffres,"), (210, "c'est trop loin.")], "Camille defends her habits"),
+ ("herve", "Tu es vraiment devenue très snob, Camille!",
+  "You have really become very snobbish, Camille!",
+  [(212, "tu peux pas être aussi snob.")], "Herve teases her Parisian attitude"),
+]
+
+OPENER = "Let's examine how Camille and Herve divide their talent scouting duties step by step."
+
+WALK = [
+ (0, None,
+  "'Working with screenwriters is wonderful.' Camille appreciates representing authors because they generate fresh film projects."),
+ (1, None,
+  "'They are easier to manage than actors!' Herve jokes that writers create fewer tantrums than famous movie stars."),
+ (2, None,
+  "'But sometimes, they dress very poorly.' Herve playfully criticizes the unglamorous fashion choices of screenwriters."),
+ (3, None,
+  "'It is now theater workshop showcase season.' Camille turns the conversation to scouting graduating drama students."),
+ (4, None,
+  "'We must divide up all the schools.' Herve looks at the busy calendar of student performances across Paris."),
+ (5, None,
+  "'I must definitely go to the national conservatoire.' Camille insists on attending Paris's most prestigious drama academy."),
+ (6, None,
+  "'One of my actors is performing there tonight.' Camille explains that supporting her signed talent takes precedence."),
+ (7, None,
+  "'Can you go to the stage workshop?' Herve asks if Camille can cover an alternative drama school showcase."),
+ (8, None,
+  "'It is truly an excellent theater school.' Herve highlights the strong reputation and acting quality of the school."),
+ (9, None,
+  "'No, that workshop is in the twentieth!' Camille objects that the venue sits on the outer edge of Paris."),
+ (10, None,
+  "'Why do you refuse to go to that arrondissement?' Herve asks why crossing Paris is such a problem for her."),
+ (11, None,
+  "'I do not like distant arrondissements.' Camille admits that she prefers staying in central neighborhoods."),
+ (12, None,
+  "'You have really become very snobbish, Camille!' Herve teases Camille for adopting stereotypical Parisian snobbery."),
+]
+
+TRANSITION = "Now let's listen to the scene once more from start to finish."
+
+OUTRO = ("Camille and Herve balance agency scouting obligations with playful workplace banter about Parisian neighborhoods. "
+         "Let's review the key theater and city life vocabulary from this scene.")
+
+CLOSING = ("herve", "Tu es vraiment devenue très snob, Camille!")
