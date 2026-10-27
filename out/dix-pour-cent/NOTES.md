@@ -170,3 +170,40 @@
   - s32: shares Gabriel's lines between Arlette and Andréa (3-role limit), writes out "monsieur" (841), uses feminine "Désolée" (845) for Andréa, and simplifies cue 851 to "Samuel serait si fier de nous!".
 - Final check s01e04: validator `OK: 0 errors, 138 warnings` = 111 accented-name warnings + 27 inter-scene gaps;
   qa.py `QA OK (28 scenes)`.
+
+## s01e05 — "Julie et Joey"
+- 30 scenes in `scenes.json` (739 subtitle cues), **28 scripted**, 2 merged:
+  - 16 (hotel reception check-in and Andréa's phone call wishing Camille happy birthday, cues 283–302) -> `next` into 17, retold in 17's intro;
+    26 (Catherine confirming the lawyer meeting with her father and reminding Mathias about the opera, plus the assistants wondering about Mathias's morning meeting, cues 572–591) -> `next` into 27, retold in 27's intro.
+- Validator gap warnings: silences between scenes, expected. Accented-name warnings: names only.
+- Speaker readings / changes (details in each authoring file):
+  - s01: omits profanity in cues 9–10 ("faire chier") and cue 19 ("Salope !" / "Connard !"), and folds the 1AD's cue 20–21 answer ("Cinq jours") into Samir's reaction.
+  - s02: adapts figurative "meurtre" (cue 30) to "drame", uses feminine "Désolée" (cue 30) for Andréa, and replaces "Putain ! Flippant" (cues 36–37) with "C'est effrayant!".
+  - s03: narrates the metro announcements (cues 39–40) and Camille's mother's phone lines (cues 42, 44, 46–47) in the walkthrough so the three speaking roles are Camille, Sofia, and Mathias.
+  - s04: presents Sofia's phone call with Camille as Sofia's half of the conversation, restores spoken contractions ("J'ai pas", "T'as", cues 77, 79) to standard A1 ("Je n'ai pas", "Tu as"), adapts "faire un malaise" (cue 81) to "quitter le plateau", and omits "Qu'elle aille au diable !" (cue 87).
+  - s05: replaces expletives in cues 89–90 ("Oh, merde ! Merde !") with "Oh non! Pardon!", simplifies "fuir" (cues 92–93) to "partir", replaces "qu'est-ce qu'elle fout" (cue 97) with "qu'est-ce qu'elle fait", and adapts cues 101–102 ("Elle me gonfle... XVIIIe siècle", "tellement coincée") to "Elle m'énerve! Elle vit encore au dix-huitième siècle!" and "trop sérieuse! Elle".
+  - s06: simplifies cue 103 ("Je ne remets pas les pieds...") to "Je ne retourne pas sur ce plateau! Il doit s'excuser avant!", cue 104 ("J'ai bossé dur... j'ai fait des recherches sur l'époque") to "J'ai travaillé dur pour ce rôle. J'ai étudié l'époque!", and cue 113 ("le prof de clavecin") to "Elle prend des cours de musique ancienne!", while omitting the vulgar cue 115.
+  - s07: softens coarse slang in cues 122 ("grand con" -> "idiot") and 130 ("nana" -> "fille"), and omits "elle se drogue pas" (cue 132) and the crude expressions in cues 135–136 ("s'envoyer en l'air", "baiser").
+  - s08: omits the extra's brief line in cue 140 ("C'est comme du vernis") to keep the 3-speaker limit, and simplifies colloquial "énorme" (cue 145) and "requinquer" (cue 156) to "super" and "faire du bien".
+  - s09: softens idioms and vulgarities in cues 161 ("fait encore des siennes" -> "pose encore un problème"), 165 ("connard" -> "égoïste"), 167 ("bosse" -> "travaille"), 172 ("passé un savon. Il s'en fout complètement" -> "parlé. Il n'écoute pas du tout"), and 175–176 ("des testicules" -> "terrible", "casser les couilles" -> "fatiguer").
+  - s10: folds Sofia's intercom line (cue 182) into Noémie ("Mathias, Zinedine Soualem est là.") to keep the 3-speaker limit, and restores spoken negations in cues 194–198 to standard A1 ("Ce n'est pas possible!").
+  - s11: folds Andréa's brief lines at the start of the walk (cues 205–208) into Gabriel's dialogue with Julie and JoeyStarr to keep the 3-speaker limit, and restores cue 207 to "Mais on n'a pas dit quand!".
+  - s12: restores spoken negation in cue 222 ("Tout ne tourne pas autour de l'argent."), adapts "cet abruti de Jonathan Joubert" (cue 229) to "cet idiot de Jonathan Joubert!", and keeps the clean A1 closing "Alors votre Ryan, coupez!" (cues 230–231).
+  - s13: adapts spoken "genre un avis de décès" (cue 242) to "comme un avis de décès", and joins the stammered cues 245–247 into "C'est horrible.".
+  - s14: folds Gabriel's corridor presence into Andréa's replies (3-speaker limit), restores spoken negations ("Ce n'est peut-être pas", "Je ne sais pas", cues 254, 261), and softens the crude expressions in cues 263–264 to clean A1 ("voir des lapins dans les bois", "ensemble à l'écran").
+  - s15: has the costume assistant (`lea` = Costumière) speak cue 265's fitting line ("Ça t'ira très bien."), restores spoken contractions ("Tu es", "je n'ai rien", cues 266–278), softens crude slang in cues 268–271 ("cette scène", "d'un lion", "un petit chat timide"), and narrates the Foucault book title in cue 276.
+  - s17: writes out "16" as "seize" in the title, narrates Camille's Paris phone call with her mother about the online petition (cues 316–322) in the walkthrough, removes expletives in cues 304 and 314, and restores spoken contractions/negations in cues 304, 325, and 335 ("tu es entrée", "Tu as", "ce ne soit pas", "Je ne peux pas").
+  - s18: narrates Hippolyte's birthday song and reassurance in cues 352–354, 357, and 360–361 in the walkthrough to keep the 3-speaker limit (Camille, Andréa, Gabriel), and restores spoken forms in cues 349 and 355 ("Oui, tu as", "ce n'est pas").
+  - s19: corrects the subtitle gender typo "tu seras la patronne" in cue 386 to masculine "tu seras le patron" (Catherine addressing Mathias), and adds the article in cue 391 ("Et la production!").
+  - s20: drops "Merde" in cue 395, restores spoken elisions ("Tu es", "Tu l'as vue") in cues 398–413, and keeps Mathias's lie about Camille's suit-and-tie boyfriend in clean A1 lines.
+  - s21: folds the hotel receptionist's software-billing lines (cues 417–428) into the opening exchange and narration so the scene focuses on Gabriel confronting Andréa in Room 16, and omits "Merde !" (cue 447).
+  - s22: omits profanity in cues 458 and 461–462 ("Putain !", "Merde !", "Connard !") and cues 485–488, writes out "10 000" and "10 244" in words in the Paris petition scene, and narrates Andréa's emergency call from the country road (cues 479–488) around her key spoken lines.
+  - s23: writes out "60" as "soixante" (cue 494, 498) and "15" as "quinze" (cue 506), and omits Sofia's closing swearwords in cues 509–510 ("Ça me casse les couilles", "Merde !").
+  - s24: folds the 1st AD's set calls into Samir's lines (3-speaker limit: Julie, Didier, Samir), omits the explicit anatomical terms in cue 531 and the crude expression in cue 538, and keeps the insect-and-fire climax in short A1 lines ("Un insecte!", "Au feu!", "C'est bon. Viens là.").
+  - s25: drops "Merde !" in cue 552, simplifies "Elle va te saigner sur tes notes de frais" (cue 553) to "Ça va être dur pour tes notes de frais", and keeps Andréa's confession that she and Colette are a couple in clear A1 lines.
+  - s27: assigns Arlette's question in cue 601 ("Hélène Kerr garde les parts de Samuel?") to Andréa to stay within three voices, and simplifies the long compound clauses in cues 595–596 and slang in cues 615–619 for A1.
+  - s28: voices Hervé's fake Steven Spielberg voicemail (cues 627–630) and Andréa's phone check (cues 633–634) with Gabriel to stay within three voices (Julie, Gabriel, Didier), and omits the profanity against the paparazzo in cues 645–647.
+  - s29: narrates Jonathan Joubert's vulgar insults on the soap-opera set (cues 663–671) in English while Mathias's responses (cues 659, 669–670, 672, 674) are heard in French, followed by the full evening conversation between Gabriel and Sofia at ASK reception (cues 676–697, omitting "Merde !" in 676 and 682).
+  - s30: narrates Hippolyte's angry questions in the hallway (cues 725–734) in the walkthrough to stay within three voices (Camille, Mathias, Catherine), and keeps the champagne birthday scene and final cliffhanger ("J'ai quelque chose à te dire.") in full.
+- Final check s01e05: validator `OK: 0 errors, 96 warnings` = 70 accented-name warnings + 26 inter-scene gaps;
+  qa.py `QA OK (28 scenes)`.
