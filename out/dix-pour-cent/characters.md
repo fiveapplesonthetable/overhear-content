@@ -344,3 +344,12 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 ## Aymar (driving instructor)
 - Appearance for the art: 40s, stressed driving instructor.
 - Story role key / voice: `marcel`. Label: Aymar.
+
+## Isabelle Adjani (guest star s02e04)
+- Appearance for the art: 60s, light skin #F6D2B5, dark hair, wears stylish hats and large sunglasses.
+- Story role key / voice: `lea` or `emilie`. Label: Isabelle Adjani.
+- Speech: dramatic, insecure but diva-like.
+
+## René (young director)
+- Appearance for the art: late 20s, hipster, nervous.
+- Story role key / voice: `theo`. Label: René.

@@ -236,3 +236,9 @@
 - Contains Norman Thavaud as the guest star.
 - Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
 - Central conflict is Norman needing a driving license for a movie and Gabriel trying to help him pass or fake it.
+
+## s02e04 "Isabelle Adjani"
+- 29 scenes in scenes.json.
+- Contains Isabelle Adjani as the guest star.
+- Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
+- Central conflict is Isabelle Adjani being insecure about her age and acting skills for a young director's film, and the agency discovering Mathias' secret daughter.
