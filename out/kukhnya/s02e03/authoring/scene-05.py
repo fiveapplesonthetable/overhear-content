@@ -1,0 +1,51 @@
+ID = "kukhnya-s02e03-scene-05"
+SHOW = "kukhnya"
+SEASON = 2
+EPISODE = 3
+SCENE = 5
+TITLE = "Спор на ремень  (Betting on a Belt)"
+LEVEL = "A1 — Duolingo Section 2"
+PAIR = "ru-en"
+VOICES = {"narrator": "sky", "anya": "alisa", "senya": "anja", "louis": "angelina"}
+LABELS = {"anya": "Федя", "senya": "Сеня", "louis": "Луи"}
+SOURCE_NAME = "Кухня (Kukhnya) S2.03"
+SOURCE_FILE = "sources/kukhnya/s02/e03.ru.dual.srt"
+
+INTRO = "Fedya and Senya are arguing about cooking meat in the kitchen. Senya says Fedya's meat is tough, but Fedya claims he ate boots in the navy."
+
+STORY = [
+ ("senya", "Ты жарить не умеешь.", "You cannot fry.", [(58, "Жарить не умеешь.")], ''),
+ ("senya", "Мясо жёсткое, как подошва.", "The meat is tough as a shoe sole.", [(59, "Жёсткая, как подошва.")], ''),
+ ("anya", "Мы на флоте сапоги ели.", "In the navy we ate boots.", [(61, "Мы на флоте сапоги ели")], ''),
+ ("anya", "И ремни тоже ели.", "And we ate belts too.", [(64, "И ремни тоже.")], ''),
+ ("senya", "Ты врёшь про сапоги.", "You are lying about the boots.", [(62, "Ты чё заливаешь-то сапоги, он ел?")], ''),
+ ("anya", "Не веришь мне?", "You don't believe me?", [(65, "Чё, не веришь мне?")], ''),
+ ("anya", "Давай поспорим на пять штук.", "Let's bet five grand.", [(65, "Может, давай поспорим на пять штук, а?")], ''),
+ ("senya", "Съешь мой ремень за пять штук?", "You'll eat my belt for five grand?", [(66, "Съешь мой ремень? За пять тонн?")], ''),
+ ("anya", "Ну, съем.", "Well, I'll eat it.", [(67, "Ну, съем.")], ''),
+ ("senya", "Луи, разбей.", "Louis, break it.", [(68, "Луи.")], ''),
+ ("louis", "Хорошо.", "Okay.", [], 'new'),
+ ("senya", "Держи ремень.", "Here is the belt.", [(70, "Держи.")], ''),
+]
+
+OPENER = "Let's listen to their conversation."
+
+WALK = [
+ (0, "Ты жарить не умеешь.", "'You cannot fry.' ENG Senya criticizes his cooking skills."),
+ (1, "Мясо жёсткое, как подошва.", "'The meat is tough as a shoe sole.' ENG He complains about the texture."),
+ (2, None, "'In the navy we ate boots.' ENG Fedya says he can eat anything."),
+ (3, "И ремни тоже ели.", "'And we ate belts too.' ENG He adds to his wild story."),
+ (4, "Ты врёшь про сапоги.", "'You are lying about the boots.' ENG Senya doesn't believe him."),
+ (5, "Не веришь мне?", "'You don't believe me?' ENG Fedya takes offense."),
+ (6, None, "'Let's bet five grand.' ENG He proposes a serious wager."),
+ (7, "Съешь мой ремень за пять штук?", "'You'll eat my belt for five grand?' ENG Senya sets the terms."),
+ (8, "Ну, съем.", "'Well, I'll eat it.' ENG Fedya confidently accepts."),
+ (9, "Луи, разбей.", "'Louis, break it.' ENG They ask Louis to witness the bet."),
+ (10, "Хорошо.", "'Okay.' ENG Louis agrees to witness."),
+ (11, None, "'Here is the belt.' ENG Senya hands over his belt."),
+]
+
+TRANSITION = "Now let's hear the whole thing once more."
+
+OUTRO = "That wraps up this scene."
+CLOSING = ("anya", "Съем.")
