@@ -1,0 +1,43 @@
+# dix-pour-cent-s04e01-scene-04: review sheet
+
+Title: La robe des César  (The César Dress)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E01
+Cues 179-192. Noemie shops for an eye-catching dress for the Cesar ceremony with a boutique stylist. Adapted for A1 French.
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Le Vendeur | C'est pour une fête d'anniversaire? | Is it for a birthday party? | #179 00:09:23: C'est pour un anniversaire | adapted: Inquired about dress occasion |
+| 2 | Léa | Non, c'est pour la cérémonie des César. | No, it is for the Cesar ceremony. | #181 00:09:29: La Cérémonie des César | adapted: Specified prestigious awards event |
+| 3 | Le Vendeur | J'ai habillé beaucoup de grandes actrices. | I have dressed many great actresses. | #182 00:09:32: J'ai habillé beaucoup d'actrices | adapted: Boasted high-fashion styling credentials |
+| 4 | Le Vendeur | Voici une robe chic et sobre. | Here is a chic and understated dress. | #184 00:09:44: Chic, sobre | adapted: Presented classic elegant dress |
+| 5 | Léa | Cette robe classique est plutôt ennuyeuse. | This classic dress is rather boring. | #186 00:09:49: Mais surtout ennuyeux | adapted: Rejected traditional design as dull |
+| 6 | Le Vendeur | Vous habillez-vous pour impressionner le public? | Do you dress to impress the public? | #191 00:10:00: pour impressionner ou pour séduire | adapted: Probed customer's styling intention |
+| 7 | Léa | Pour moi, c'est une question de séduction. | For me, it is a matter of seduction. | #192 00:10:03: une question de séduction | adapted: Declared seductive fashion priority |
+| 8 | Le Vendeur | Je comprends, vous aimez les contrastes. | I understand, you love contrasts. | #196 00:10:41: Flashy mais classe | adapted: Interpreted aesthetic preference |
+| 9 | Le Vendeur | Voici un modèle flashy et audacieux. | Here is a flashy and daring design. | #197 00:10:43: Simple et audacieux | adapted: Recommended eye-catching vibrant outfit |
+| 10 | Léa | Cette tenue audacieuse est tellement moi! | This daring outfit is so me! | #200 00:10:53: C'est tellement moi | adapted: Exclaimed instant delight with selection |
+| 11 | Léa | Une femme doit assumer ses contradictions. | A woman must embrace her contradictions. | #198 00:10:47: assume ses contradictions | adapted: Articulated bold personal philosophy |
+| 12 | Le Vendeur | Elle vous donnera une allure inoubliable. | It will give you an unforgettable look. | #182 00:09:32: J'ai habillé beaucoup d'actrices | adapted: Praised stunning transformative effect |
+| 13 | Léa | Mathias sera totalement sous le charme. | Mathias will be totally charmed. | #192 00:10:03: une question de séduction | adapted: Anticipated partner's enthusiastic reaction |
+| 14 | Le Vendeur | Vous brillerez sur le tapis rouge. | You will shine on the red carpet. | #181 00:09:29: La Cérémonie des César | adapted: Complimented star presence |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Is it for a birthday party?' A courteous inquiry seeking the occasion for the new outfit.
+- 'No, it is for the Cesar ceremony.' A proud specification identifying France's premier cinematic gala.
+- 'I have dressed many great actresses.' An impressive claim showcasing the stylist's celebrity fashion credentials.
+- 'Here is a chic and understated dress.' A polite proposal showcasing a conventional and understated garment.
+- 'This classic dress is rather boring.' A frank rejection dismissing understated elegance as uninspiring.
+- 'Do you dress to impress the public?' A discerning question exploring the shopper's true stylistic motives.
+- 'For me, it is a matter of seduction.' A candid declaration prioritizing personal allure and romantic impact.
+- 'I understand, you love contrasts.' An intuitive observation recognizing her taste for creative tension in style.
+- 'Here is a flashy and daring design.' An enthusiastic suggestion presenting a vibrant and daring garment.
+- 'This daring outfit is so me!' An elated endorsement recognizing the dress as an authentic reflection of her spirit.
+- 'A woman must embrace her contradictions.' A spirited personal philosophy celebrating individuality and complex charm.
+- 'It will give you an unforgettable look.' A professional compliment predicting a memorable aesthetic impact.
+- 'Mathias will be totally charmed.' An affectionate remark anticipating her partner's delighted admiration.
+- 'You will shine on the red carpet.' A flattering prediction foreseeing a dazzling entrance on cinema's biggest night.
