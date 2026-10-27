@@ -353,3 +353,11 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 ## René (young director)
 - Appearance for the art: late 20s, hipster, nervous.
 - Story role key / voice: `theo`. Label: René.
+
+## Guy Marchand (guest star s02e05)
+- Appearance for the art: 70s, light skin #F6D2B5, distinguished, silver hair, elegant but casual clothes.
+- Story role key / voice: `theo` or `marcel`. Label: Guy Marchand.
+
+## Julien Doré (guest star s02e05)
+- Appearance for the art: 30s, light skin #F6D2B5, long blonde wavy hair, hipster style.
+- Story role key / voice: `theo`. Label: Julien Doré.
