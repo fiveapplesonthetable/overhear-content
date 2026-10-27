@@ -131,3 +131,42 @@
   - s30: merged s29 (Sofia's stage monologue, cues 795–809) is retold in s30's intro, and merged s31 (François of StarMédia offering Mathias a partnership, cues 847–866, male-only cliffhanger) is retold in s30's outro; Gabriel's cues 828–829 are given to Hervé so François can use the second male voice (`marcel`).
 - Final check s01e03: validator `OK: 0 errors, 112 warnings` = 84 accented-name warnings + 28 inter-scene gaps;
   qa.py `QA OK (22 scenes)`.
+
+## s01e04 "Audrey"
+- 32 scenes in scenes.json, 28 scripted, 4 merged (3, 13, 14, 25).
+  - 3 (Colette Brancillon asking for her audit documents in the corridor, cues 84–92) -> `prev` into 2, retold in 2's outro;
+    13 (Hervé advising a fan on the phone what perfume to send Laura Smet, cues 329–338) -> `prev` into 12, retold in 12's outro;
+    14 (Audrey reading Augustin's script while her little girl wanders out, and Mathias phoning François in the corridor to accept StarMédia's offer, overheard by Noémie, cues 339–360) -> `next` into 15, retold in 15's intro bridge;
+    25 (Hervé explaining to Camille that Russian billionaire Kadropov pays actresses to attend his birthday party in Paris as a side job, cues 665–675) -> `prev` into 24, retold in 24's outro.
+- Validator gap warnings: silences between scenes, expected. Accented-name warnings: names only.
+- Speaker readings / changes (details in each authoring file):
+  - s01: normalises "Laissez-moi" (cue 10) to "Laisse-moi parler", writes out "23" as "vingt-trois" (cue 20), omits the post-birth stitches detail in cues 38–39 ("Je ne pouvais pas courir après des zombies!"), and simplifies "majoration de 10 %" (cue 48) to "avec dix pour cent de plus".
+  - s02: keeps Gabriel's switch from *tu* ("Tu es photogénique") to *vous* ("Enfin, vous êtes belle", "Vous avez de la grâce") as in cues 64–77; replaces "Première" (cue 82) with "un grand magazine", and retells Andréa's bed joke in cue 83 cleanly as "Tu es amoureux d'elle, non?".
+  - s04: adds "Voilà le café, Mathias." for Noémie (`lea`) at the start to balance her closing line in cue 125 ("Ne faites pas attention à moi."), and keeps Augustin's switch from *vous* to *tu* ("Attends!", "Elle t'a dit...") in cues 121–123.
+  - s05: drops the vulgar word "partouze" in cue 137 ("C'était des couples!"), simplifies "anti-inflammatoires" (cue 126) to "un médicament", and softens Noémie's insult in cue 158 ("pistonné") to "La fille de Christophe Lambert ne peut pas tout faire!".
+  - s06: omits the crude joke "C'est chaud !" (cue 187), simplifies "militante écologiste" (cue 170) to "écologiste", and adapts Mathias's feeding lines (cues 162, 169) to "Tu veux goûter?" and "Encore une cuillère."
+  - s07: drops "Merde !" (cue 195), simplifies "maghrébine" (cue 196) to "arabe" and "C'est plié" (cue 199) to "C'est fini".
+  - s08: cleans up "maîtresses" (cue 213) to "amies", simplifies "un hub d'agences européennes" (cue 221) to "un groupe d'agences européennes" and "l'import-export" (cue 227) to "le commerce", omits the 1940/"les Boches" slur in cues 228–229 and sexual gossip in cue 235, assigns Gabriel's joke in cue 226 to Mathias (3-role limit), and folds François's restaurant pressure on Mathias (cues 239–244) into the final two story lines and narration.
+  - s09: simplifies "Il révise ?" (cue 246) to "Il travaille son texte?", "Il pourrait l'épouser" (cue 256) to "Il veut peut-être se marier avec elle!", and "malin de sa part" (cue 258) to "intelligent".
+  - s10: simplifies "a débarqué" (cue 263) to "est venue", drops "Merde !" in cue 267, replaces "Celle-là ne paie pas de mine" (cue 273) with "Cette veste est très belle.", retells cues 280–281 as "Tu manges très mal, et tu ne prends jamais de vacances.", and corrects "seul" (cue 290) to feminine "seule" for Andréa.
+  - s11: narrates Colette's farewell in cue 308 (2-female-voice limit), uses feminine "assistante" (cue 301) and "pourrie" (cue 302), and softens "psy, espèce de cinglé !" (cue 306) to "Tu as besoin d'un nouveau médecin, tu es folle!".
+  - s12: gives the receptionist's opening questions (cues 311, 313, 315) to Mathias on *tu*, and retells cue 324 ("strip-teaseuse en bas résille") cleanly as "ils pensent aux bébés, pas au cinéma!".
+  - s15: in the second half (cues 378–387), the costume-drama director's brief replies are folded into Gabriel's lines.
+  - s16: narrates Noémie giving the children a present and Arlette worrying about her dog outside the door (cues 388–392, omitting the swearword in cue 390), and narrates Augustin's female producer's lines.
+  - s17: simplifies cues 425–426 ("des photos de lui enfant et ado") to "des photos de ton enfance".
+  - s18: writes spoken elisions ("T'es sûr", "C'est pas toi") in standard A1 form ("Tu es sûr", "Ce n'est pas toi") and completes cue 468 ("Merci, mais...") as "Merci, mais je dois rentrer.".
+  - s19: omits the swearword in cue 483 ("Oh, putain !"), simplifies "manigances" (cue 489) to "secrets", and adds feminine agreement on "toute seule" (cue 491) for Noémie.
+  - s20: corrects the subtitle gender typos "venu" (cue 498) and "obligé" (cue 525) to feminine "venue" and "obligée" for Camille, narrates Hippolyte's brief dinner-table prompts (3-role limit), and simplifies cue 528 to "Dis-lui toi-même pourquoi!".
+  - s21: narrates the female dance coach's instructions and the toddler's cheeky word in cue 562 ("Bonjour, caca !"), simplifies "c'est un enfer" (cue 559) to "c'est difficile", and omits "la drogue" in cue 568 while simplifying cue 569 to "Le sucre est très mauvais!".
+  - s22: simplifies cue 584 ("Pardon, de quoi s'agit-il ?") to "Pardon, c'est quoi le problème?", drops "à la sérénité" from cue 598, and simplifies cue 602 to "Tu sais quoi? Merci beaucoup, Audrey!".
+  - s23: writes out numbers ("six mois", "neuf mois", "vingt-quatre"), replaces "bosser" (611) with "travailler", drops "Merde !" (624) and "démerdez-vous" (638), and simplifies cues 615–621 and 625–637 to A1.
+  - s24: gives Gabriel's lines to Andréa and Arlette (3-role limit), drops profanity ("Fils de pute !", "fumier", "merde") and "maîtresses" (660), and simplifies "assigner en justice pour concurrence déloyale" (650–651) to "appeler un avocat" and "abus de biens sociaux" (663) to "très grave pour les impôts".
+  - s26: writes out "M."/"Mme" as "Monsieur"/"Madame" and "Comme d'hab" (681) as "Comme d'habitude.", relays the receptionist's opening line (677) through Gabriel, cleans up profanity in cues 683 and 685, and replaces "on est grillées" (688) with "mon chéri".
+  - s27: drops profanity (697–700) and crude lines (701–702), writes "20 000" as "vingt mille", replaces "épuisée" with "fatiguée" and "24h/24" with "tous les jours", and narrates the child walking into the living room.
+  - s28: simplifies "Elle va m'en vouloir" (748) to "Elle va être furieuse contre moi.", "des dialogues" (750) to "du texte", and replaces "Putain !" (752) with "C'est génial!".
+  - s29: retells cue 756 ("Je ne couche pas avec Gabriel") cleanly as "Je ne suis pas avec Gabriel" and cue 766 ("pour ses maîtresses") as "que Samuel gardait à l'hôtel"; writes feminine "vue" in cue 769 addressing Colette.
+  - s30: restores feminine "allée" and "vue" for Audrey in cues 782 and 799, writes out numbers ("dix mille", "vingt mille", "cent dix-sept") and "monsieur" in words, gives the UNICEF organiser's line (792) to Mathias (2-role limit), and simplifies "J'ai une phobie de l'administration" (802) to "J'ai peur de l'administration."
+  - s31: omits "Le salaud !" (806), shares Gabriel's lines between Andréa and Arlette (3-role limit), narrates Hélène's shout on the phone (824), uses feminine "sûre" (812) for Arlette, writes out "monsieur" (827), and corrects the slip "Merci, Mathias" in cue 833 to "Merci, Hélène."
+  - s32: shares Gabriel's lines between Arlette and Andréa (3-role limit), writes out "monsieur" (841), uses feminine "Désolée" (845) for Andréa, and simplifies cue 851 to "Samuel serait si fier de nous!".
+- Final check s01e04: validator `OK: 0 errors, 138 warnings` = 111 accented-name warnings + 27 inter-scene gaps;
+  qa.py `QA OK (28 scenes)`.
