@@ -1,0 +1,130 @@
+"""Scene 21 — Two Minutes (s01e04, 00:20:32–00:21:03)."""
+
+ID = "kukhnya-s01e04-scene-21"
+SHOW = "kukhnya"
+SEASON = 1
+EPISODE = 4
+SCENE = 21
+TITLE = "Две минуты  (Two Minutes)"
+LEVEL = "A1 — Duolingo Section 2"
+PAIR = "ru-en"
+SOURCE_NAME = "Кухня (Kukhnya) S1.04"
+SOURCE_FILE = "sources/kukhnya/s01/e04.ru.dual.srt"
+SOURCE_NOTE = (
+    "Cues 279-289. Chef Viktor Barinov furiously confronts Max over the ruined colored soup "
+    "and gives him two minutes to pack his things and get out."
+)
+
+VOICES = {
+    "narrator": "sky",
+    "anya": "alisa",
+    "chef": "anja",
+    "fedya": "angelina",
+}
+
+LABELS = {
+    "anya": "Макс",
+    "chef": "Шеф",
+    "fedya": "Федя",
+}
+
+INTRO = (
+    "In the kitchen of Claude Monet, Chef Viktor Barinov discovers that Max's experiment with food coloring "
+    "turned a guest's soup bright blue. Enraged by the embarrassment, Barinov loses his patience entirely "
+    "and delivers an ultimatum to his rookie cook. "
+    "Let's listen to their heated kitchen confrontation in Russian first."
+)
+
+STORY = [
+    ("fedya", "Шеф, наш новичок снова сильно отличился.",
+     "Chef, our newcomer stood out again.",
+     [(281, "опять отличился")], "Fedya alerts chef"),
+
+    ("chef", "Что ты опять натворил на кухне?",
+     "What did you do in the kitchen again?",
+     [], "Chef demands answers"),
+
+    ("fedya", "У гостя в зале язык стал синим!",
+     "In the dining room the guest's tongue turned blue!",
+     [(279, "язык был")], "Blue tongue report"),
+
+    ("chef", "Ты испортил суп пищевым красителем?",
+     "Did you ruin the soup with food coloring?",
+     [(275, "мой краситель")], "Chef realizes mistake"),
+
+    ("anya", "Шеф, суп получился очень вкусным!",
+     "Chef, the soup turned out very delicious!",
+     [(285, "супчик получился")], "Max defends cooking"),
+
+    ("chef", "Вот как ты благодаришь за доброту!",
+     "This is how you thank me for kindness!",
+     [(283, "за мою доброту")], "Chef feels betrayed"),
+
+    ("chef", "Я дал тебе шанс стать хорошим поваром.",
+     "I gave you a chance to become a good cook.",
+     [(284, "шанс дал")], "Barinov reminds of chance"),
+
+    ("anya", "Пожалуйста, выслушайте меня хотя бы минуту.",
+     "Please, listen to me for at least a minute.",
+     [], "Max pleads"),
+
+    ("chef", "У тебя есть ровно две минуты!",
+     "You have exactly two minutes!",
+     [(286, "Две минуты!")], "Two-minute warning"),
+
+    ("chef", "Быстро собери все свои вещи!",
+     "Quickly pack all your things!",
+     [(286, "собрал свои")], "Chef orders packing"),
+
+    ("anya", "Шеф, я не хотел никого обидеть.",
+     "Chef, I did not want to offend anyone.",
+     [], "Max explains intention"),
+
+    ("chef", "Уходи отсюда, ты уволен из ресторана!",
+     "Leave here, you are fired from the restaurant!",
+     [(288, "Вон я сказал!")], "Chef fires Max"),
+
+    ("chef", "Я больше ничего не хочу слышать!",
+     "I do not want to hear anything anymore!",
+     [(289, "Не желаю ничего слышать.")], "Chef ends discussion"),
+]
+
+OPENER = "Now let's examine Chef Barinov's furious ultimatum in the kitchen line by line."
+
+WALK = [
+    (0, None,
+     "'Chef, our newcomer stood out again.' Fedya informs the head chef of yet another kitchen mishap."),
+    (1, None,
+     "'What did you do in the kitchen again?' Barinov angrily demands an explanation for the disturbance."),
+    (2, None,
+     "'In the dining room the guest's tongue turned blue!' Fedya reveals the bizarre cosmetic side effect of the dish."),
+    (3, None,
+     "'Did you ruin the soup with food coloring?' Barinov identifies the pastry dye that colored the soup."),
+    (4, None,
+     "'Chef, the soup turned out very delicious!' Max naively defends the taste despite the outrageous color."),
+    (5, None,
+     "'This is how you thank me for kindness!' The head chef feels his generosity has been thoroughly mocked."),
+    (6, None,
+     "'I gave you a chance to become a good cook.' Barinov laments the wasted opportunity he offered his apprentice."),
+    (7, None,
+     "'Please, listen to me for at least a minute.' Max desperately begs for an opportunity to explain his actions."),
+    (8, None,
+     "'You have exactly two minutes!' Barinov gives a strict and merciless deadline for departure."),
+    (9, None,
+     "'Quickly pack all your things!' The chef orders the young apprentice to clear his locker immediately."),
+    (10, None,
+     "'Chef, I did not want to offend anyone.' Max tries to express that he had no malicious intent."),
+    (11, None,
+     "'Leave here, you are fired from the restaurant!' Barinov delivers the devastating final verdict."),
+    (12, None,
+     "'I do not want to hear anything anymore!' The head chef firmly slams the door on any further debate."),
+]
+
+TRANSITION = "Now let's listen to this dramatic firing in the kitchen once more without interruption."
+
+OUTRO = (
+    "Furious and unwilling to listen, Chef Barinov casts Max out of Claude Monet, "
+    "leaving the young cook's career hanging by a thread."
+)
+
+CLOSING = ("chef", "Я больше ничего не хочу слышать!")
