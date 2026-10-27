@@ -1,0 +1,106 @@
+# Authoring module for dix-pour-cent s04e02 scene 03 (cues 140-239).
+# Build: python3 tools/compose.py out/dix-pour-cent/s04e02/authoring/scene-03.py --out out/dix-pour-cent/s04e02/scene-03.json
+
+ID = "dix-pour-cent-s04e02-scene-03"
+SHOW = "dix-pour-cent"
+SEASON = 4
+EPISODE = 2
+SCENE = 3
+TITLE = "Nouveaux bureaux  (New Offices)"
+LEVEL = "A1 — débutant"
+PAIR = "fr-en"
+VOICES = {"narrator": "sky", "lea": "lucie", "mathias": "theo", "igor": "marcel"}
+LABELS = {"lea": "Noémie", "mathias": "Mathias", "igor": "Igor"}
+SOURCE_NAME = "Dix pour cent (Call My Agent!) S04E02"
+SOURCE_FILE = "sources/dix-pour-cent/s04/e02.fr.dual.srt"
+SOURCE_NOTE = ("Cues 140-239. Mathias and Noemie settle into StarMedia. Igor de Serisy assigns Noemie reading notes, treating her like an assistant. Adapted for A1 French.")
+
+INTRO = ("At the sleek corporate headquarters of StarMedia, Mathias Barneville and Noemie Leclerc settle into their new executive production office. "
+         "Excited by her promotion to head of development, Noemie decorates their shared workspace and looks forward to shaping ambitious film projects. "
+         "However, when studio executive Igor de Serisy enters and casually hands her mundane reader reports, Noemie realizes old hierarchies die hard. "
+         "Let's listen to the scene in French first.")
+
+STORY = [
+ ("lea", "Voici une jolie plante pour notre bureau.",
+  "Here is a pretty plant for our office.",
+  [(165, "apporté une plante")], "Decorated new workspace with greenery"),
+ ("lea", "C'est l'endroit parfait pour travailler ensemble.",
+  "It is the perfect place to work together.",
+  [(170, "l'endroit idéal pour travailler")], "Praised new shared office atmosphere"),
+ ("mathias", "Nous partageons cette pièce avec grand plaisir.",
+  "We share this room with great pleasure.",
+  [(174, "On partage le bureau")], "Welcomed partner into shared office"),
+ ("mathias", "Tu diriges maintenant tout le développement créatif.",
+  "You now direct all creative development.",
+  [(177, "responsable du développement")], "Promoted partner to executive role"),
+ ("lea", "Je ne veux plus jamais me cacher.",
+  "I never want to hide again.",
+  [(197, "je ne veux plus qu'on se cache")], "Asserted desire for open relationship"),
+ ("igor", "Bonjour Mathias, comment allez-vous ce matin?",
+  "Hello Mathias, how are you this morning?",
+  [(202, "Comment allez-vous")], "Greeted new senior producer warmly"),
+ ("mathias", "Nous sommes très bien installés, merci.",
+  "We are very well settled in, thank you.",
+  [(202, "Comment allez-vous")], "Affirmed smooth office transition"),
+ ("igor", "J'ai pensé à Noémie pour ce travail.",
+  "I thought of Noemie for this work.",
+  [(208, "j'ai pensé à vous")], "Presented batch of incoming manuscripts"),
+ ("igor", "Vous pouvez rédiger des fiches de lecture.",
+  "You can write reader reports.",
+  [(213, "des fiches de lecture")], "Assigned junior reading duties"),
+ ("lea", "Des simples résumés pour votre assistante?",
+  "Simple summaries for your assistant?",
+  [(211, "faire des résumés")], "Expressed shock at demoted tasks"),
+ ("igor", "Oui, des notes courtes et précises.",
+  "Yes, short and precise notes.",
+  [(213, "des fiches de lecture")], "Clarified reporting expectations casually"),
+ ("igor", "Bravo pour le contrat avec Xavier Beauvois.",
+  "Congratulations on the contract with Xavier Beauvois.",
+  [(218, "Bravo pour Beauvois")], "Praised producer's major talent signing"),
+ ("igor", "Consultez vos courriels pour notre négociation.",
+  "Check your emails for our negotiation.",
+  [(225, "un brief pour une négociation")], "Directed attention to upcoming client deal"),
+ ("mathias", "Je m'occupe de ce dossier immédiatement.",
+  "I am taking care of this file immediately.",
+  [(225, "un brief pour une négociation")], "Confirmed prompt attention to executive brief"),
+]
+
+OPENER = "Let's observe as Noemie and Mathias encounter studio boss Igor in their new office."
+
+WALK = [
+ (0, None,
+  "'Here is a pretty plant for our office.' A cheerful domestic touch creating a welcoming workspace."),
+ (1, None,
+  "'It is the perfect place to work together.' An enthusiastic compliment celebrating their joint professional setup."),
+ (2, None,
+  "'We share this room with great pleasure.' An affectionate validation affirming their collaborative partnership."),
+ (3, None,
+  "'You now direct all creative development.' A prestigious promotion recognizing her editorial responsibilities."),
+ (4, None,
+  "'I never want to hide again.' A courageous emotional declaration rejecting secrecy in work and romance."),
+ (5, None,
+  "'Hello Mathias, how are you this morning?' A polite corporate greeting from the visiting senior executive."),
+ (6, None,
+  "'We are very well settled in, thank you.' A courteous professional reply confirming contentment with the new facilities."),
+ (7, None,
+  "'I thought of Noemie for this work.' A condescending overture introducing an unexpected batch of reading tasks."),
+ (8, None,
+  "'You can write reader reports.' A patronizing assignment relegating the new development head to entry-level script coverage."),
+ (9, None,
+  "'Simple summaries for your assistant?' A stung reaction expressing disbelief at being treated like auxiliary staff."),
+ (10, None,
+  "'Yes, short and precise notes.' A casual dismissal ignoring her executive aspirations without hesitation."),
+ (11, None,
+  "'Congratulations on the contract with Xavier Beauvois.' A warm commendation praising the producer's swift commercial acquisition."),
+ (12, None,
+  "'Check your emails for our negotiation.' A directive instruction moving the conversation to business strategy."),
+ (13, None,
+  "'I am taking care of this file immediately.' A compliant executive acknowledgment pledging prompt focus to the deal."),
+]
+
+TRANSITION = "Now let's listen to Noemie, Mathias, and Igor talking again at full speed."
+
+OUTRO = ("Though bruised by Igor de Serisy's dismissive task assignment, Noemie remains determined to prove her creative vision. "
+         "Meanwhile, Mathias prepares to negotiate on behalf of his new studio, setting up an inevitable clash with his former colleagues.")
+
+CLOSING = ("lea", "Je prouverai ma vraie valeur.")
