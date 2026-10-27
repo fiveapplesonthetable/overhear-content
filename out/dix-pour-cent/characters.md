@@ -204,6 +204,54 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
   red blistered palms.
 - Story role key / voice: `emilie`. Label: Armelle.
 
+## Julie Gayet (star client, plays herself; Andréa's client, around 43, starring in the 18th-century costume drama *L'Enclos*; first seen s01e05)
+- Appearance for the art (stylised cartoon, not a portrait): light skin #F6D2B5, wavy honey-blonde hair (in a powdered
+  or pinned 18th-century updo on set), pale-blue silk 18th-century corset gown (or white bathrobe over the period gown).
+- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Julie.
+- Speech: refined, articulate; *tu* with Andréa, formal *vous* with JoeyStarr at first before switching to *tu*.
+
+## JoeyStarr / Didier Morville (star client, plays himself; Gabriel's client, around 47, rapper and actor playing an 18th-century servant in *L'Enclos*; first seen s01e05)
+- Appearance for the art (stylised cartoon, not a portrait): deep warm brown skin #9A6341, closely cropped black hair,
+  square jaw, occasional glint of silver/gold front teeth, wearing an 18th-century cream linen servant shirt, brown
+  waistcoat, and breeches on set (or black leather jacket / hoodie off set).
+- Story role key / voice: `theo` or `marcel`. Label: JoeyStarr (or Didier).
+- Speech: blunt, streetwise, gravelly; *tu* with Gabriel and Sofia, *vous* then *tu* with Julie.
+
+## Samir (director of the 18th-century costume film *L'Enclos*; first seen s01e05)
+- Appearance for the art: 40s, medium olive skin #D9A074, curly dark hair, short beard, quilted puffer gilet, headset
+  around neck, rolled shooting schedule in hand.
+- Story role key / voice: `marcel` or `theo`. Label: Samir.
+
+## Marie-Sophie Garnier (head screenwriter of the daytime soap *Heureux pour toujours*, Arlette's loyal longtime client; first seen s01e05)
+- Appearance for the art: 50s, light skin #F6D2B5, short copper-red hair, rectangular glasses, colourful patterned
+  scarf over a cardigan.
+- Story role key / voice: `lea` -> lucie or `emilie`. Label: Marie-Sophie.
+
+## Jonathan Joubert (vain soap-opera star who plays Dr "Ryan" on *Heureux pour toujours*, Mathias's client; first seen s01e05)
+- Appearance for the art: late 30s, tanned light skin #F6D2B5, blow-dried dark-brown hair, white doctor's coat over an
+  open-collar blue shirt.
+- Story role key / voice: `theo` or `marcel`. Label: Jonathan.
+
+## François Berléand (star client, plays himself; Andréa's client, around 63, starring as Dom Juan in an avant-garde stage production around a swimming pool; first seen s01e06)
+- Appearance for the art (stylised cartoon, not a portrait): light skin #F6D2B5, receding silver-grey hair, expressive
+  furrowed brow, wearing a dark navy blazer over a pale-blue open-collar shirt (or a grey bathrobe / black wetsuit /
+  patterned swim shorts by the stage pool).
+- Story role key / voice: `marcel` or `theo`. Label: François.
+- Speech: cultured, theatrical, sardonic when exasperated, vulnerable when confessing his childhood fear of water;
+  *tu* with Andréa and Christophe.
+
+## Christophe Bel (arrogant young avant-garde theatre director staging Molière's *Dom Juan* around an indoor swimming pool with an inflatable yellow duck; first seen s01e06)
+- Appearance for the art: early 30s, light skin #F6D2B5, messy dark-brown hair, light stubble, black open-collar shirt
+  under an olive or charcoal casual jacket (or shirtless in swim trunks in the pool in scene 01).
+- Story role key / voice: `theo` or `marcel`. Label: Christophe.
+- Speech: intense, pretentious, volatile, passionate about theatre theory; *tu* with François and Andréa, *vous* with Colette.
+
+## Constance (casting director for Luc Besson's hip-hop action film; first seen s01e06)
+- Appearance for the art: 40s, light skin #F6D2B5, dark hair in a ponytail, rectangular glasses, grey jumper, holding a
+  clipboard or script pages.
+- Story role key / voice: `emilie` or `lea` -> lucie. Label: Constance.
+- Speech: brisk, candid professional; *tu* with Gabriel, *vous*/*tu* with Sofia.
+
 ## Places
 - ASK offices: Haussmann building, tall windows, pale wood floors, glass partitions, desks with phones and scripts.
   Default dominant colour agency lilac `#A58BD3`; vary per scene (reception: lilac; meeting room: plum `#8E6FB8`;
@@ -242,3 +290,10 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - Hotel Saint-Georges (s01e04): boutique hotel reception desk, key rack, velvet wallpaper; deep teal `#2E7D7A`.
 - ASK rooftop (s01e04): zinc Parisian rooftops, chimney pots, twilight sky; night indigo `#5B5FA8`.
 - Charity gala (s01e04): UNICEF charity stage/backdrop, champagne reception; royal blue `#4A78B8` with gold `#E0B456`.
+- Chateau film set of *L'Enclos* (s01e05): 18th-century stone chateau courtyard, manicured hedges, actor trailers, catering tent, cameras and boom mics; warm ochre `#C88A4B` / leaf green `#7DBB6A`.
+- Chateau greenhouse (s01e05): glass-and-iron conservatory filled with potted plants and a wooden ladder; sage green `#7DA88B`.
+- Country hotel and restaurant (s01e05): provincial timbered reception desk, cosy bedrooms (Room 16), candlelit dining room; warm rose-plum `#B86B82` / amber `#D99A4E`.
+- Chateau barn (s01e05): rustic timber barn with hay bales and glowing lanterns/candles; warm barn gold `#B87A3D`.
+- Theatre rehearsal hall with indoor swimming pool (s01e06): modern black-box stage built around a glowing turquoise rectangular swimming pool with a bright yellow inflatable rubber duck floating on the water; pool turquoise `#48B5B8` / stage slate `#4E5D73`.
+- Film soundstage (s01e06): indoor soundstage dressed as a 20th-century military tent/bunker with spotlights and boom mics; warm khaki-gold `#C89B54`.
+- Casting studio (s01e06): bright audition room with a video camera on a tripod, folding chairs, and plain backdrop; cool studio blue `#6E8EB8`.
