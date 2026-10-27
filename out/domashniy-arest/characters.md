@@ -184,6 +184,57 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
 - Big young men in black suits and white shirts, short haircuts; Vitalik is the fair-haired one (also the driver).
 - Story role key / voice: `vitalik` -> anja or angelina. Label: Виталик.
 
+## Илья Олегович Берг (Judge Berg, Илюша; chairman of the Sineozersk City Court; first seen s01e03)
+- Who: chairman of the city court, and Arkady's next-door neighbour in the rich cottage village; Arkady once got his
+  pensioner mother a flat without waiting in the "Affordable Housing" queue. Terrified of his wife Sofochka and devoted
+  to his daughter Polina and her tiny dog Lyutik.
+- Appearance for the art: man about 50, light skin, balding on top with neat grey hair at the sides, small trim grey
+  moustache, black rectangular glasses; dark suit `#2F3E66` with a pale-blue tie (or a black judge's robe in court),
+  often holding a red dog lead with a tiny white fluffy lapdog (**Лютик** / **Тузик**: small fluffy cream-white dog with
+  a red collar).
+- Story role key / voice: `judge` -> anja or angelina (or `anya`, label Илья Олегович, when he is the viewpoint).
+  Label: Илья Олегович (or Судья Берг).
+
+## Данила Головкин, "Данька" (Danila Golovkin; Arkady's stuttering public defender; first seen s01e03)
+- Who: state-appointed public defender ("бесплатный государственный адвокат"); stutters ("ваш авокадо"); Nina's former
+  school classmate ("он мне как подружка был"). His late mother stood fifteen years on the housing waiting list while
+  Arkady handed out flats through connections, so in court Golovkin exposes Arkady's fraud.
+- Appearance for the art: thin, nervous man about 38, light skin, wispy sandy-brown hair combed to the side, droopy
+  shoulders, oversized worn brown suit `#8A6B4E` over a pale-yellow shirt, clutching a battered brown leather briefcase.
+- Story role key / voice: `golovkin` -> anja or angelina. Label: Головкин (or Данила).
+
+## Лёля (Lyolya; Arkady's glamorous young girlfriend; first seen s01e03)
+- Who: former dancer whom Arkady set up with a flat under the "Affordable Housing" programme; refuses to steal a dog for
+  him, then agrees to go to Dimon's teenage house party for ten minutes as Slavik's "girlfriend", gets tipsy on beer and
+  blurts out the truth.
+- Appearance for the art: young woman about 25, light skin, long wavy honey-blonde hair `#E8C56B`, big gold hoop
+  earrings, red lips, short tan faux-fur coat `#C98B5E` over a bright red dress `#C8373B`, small handbag.
+- Story role key / voice: `lyolya` -> angelina (or `anya`, label Лёля, when she is the viewpoint). Label: Лёля.
+
+## Андрей Иосифович Мишкин (Andrei Iosifovich Mishkin; sleek Moscow lawyer from "Mishkin and Sons"; s01e03)
+- Who: expensive Moscow defence lawyer who intimidates Judge Berg, until Pasha scares him back to Moscow "for family
+  reasons" with a sinister monastery souvenir.
+- Appearance for the art: tall, confident man about 45, light skin, silver-streaked dark hair, expensive dark-blue coat
+  `#2A3B5C` with a burgundy scarf `#8E2F3B`, leather briefcase. Two younger assistant lawyers in matching dark coats
+  stand behind him.
+- Story role key / voice: `mishkin` -> anja. Label: Мишкин.
+
+## Софочка и Полина (Sofochka and Polina; Judge Berg's wife and daughter; s01e03)
+- Sofochka: plump, bossy woman about 45, light skin, high dark-auburn hairdo `#8C3A32`, green house dress `#4E8A6E`,
+  holding a towel or hugging the little white dog Lyutik. Role `sofochka` -> angelina, label Софочка.
+- Polina: chubby girl about 11, light skin, two brown pigtails, pink jacket `#E58FA8`, often crying over her dog Lyutik.
+  Role `polina` -> angelina, label Полина.
+
+## Димон (Dimon; Slavik's sceptical classmate who hosts the house party; s01e03)
+- Appearance for the art: boy about 12, light skin, dark spiky hair, red hoodie `#D9534F`, smirking with a phone in
+  hand. Role `dimon` -> anja, label Димон.
+
+## Voice-only / minor roles (s01e03)
+- Секретарь суда (Judge Berg's secretary, sc. 1): woman in glasses at a desk; role `secretary` -> angelina, label
+  Секретарь.
+- Прокурор (prosecutor in court, sc. 29): man in a blue prosecutor's uniform; role `prosecutor` -> angelina, label
+  Прокурор.
+
 ## Places
 - Коммуналка (the communal flat): long dim corridor with old olive-green walls `#7C8B4F`, brown wooden doors,
   bicycles and coats on hooks, a single bare lamp; a shared kitchen with several old stoves; the shared toilet with a
@@ -203,3 +254,9 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
 - Building site: mud, a yellow excavator, stacked white radiators, a small site cabin with a kettle; orange and
   grey.
 - Governor's office / gym: wood panels, a judo mat; restaurant: white tablecloths, dim amber.
+- Surveillance room (s01e03): dim bare room across from the flat, peeling slate-grey walls `#6E7F8A`, a table with
+  headphones and a laptop, an old electric heater and a kettle; later the agents wear orange janitor vests `#E8873A`.
+- New three-room flat (s01e03): bright empty flat with warm cream walls `#F3E9D2`, a wide glazed balcony.
+- Courtroom and judge's office (s01e03): wood-panelled room `#8A5A44`, high judge's bench.
+- Judge Berg's house (s01e03): warm room with soft teal walls `#5C8E8A`, a plush sofa, a bathroom basin for washing the
+  little white dog.

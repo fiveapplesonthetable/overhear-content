@@ -144,3 +144,106 @@
 - Lexicon: «пока» is an adverb with senses for now / while / bye (s01e01 had it only as an interjection).
 - Validator for s01e02: `OK: 0 errors, 18 warnings`, all "gap between scenes" in scenes.json (silences with no
   subtitles between scenes). `qa.py`: QA OK (26 scenes).
+
+## s01e03
+- Episode title: none in the sidecar: `title: null`.
+- 36 scenes in scenes.json, 33 scripted, 3 merged:
+  - 17 (Arkady smugly asks Marina in the kitchen if she is offended by his refusal) `next` into 18;
+  - 33 (outside court Judge Berg asks about his dog and learns it is at the communal flat) `next` into 34;
+  - 36 (after Samson hits Arkady, a paramedic tells him not to move + closing song) `prev` into 35.
+- Continuity with s01e02: the "stranger with a business proposal" at the end of s01e02 (cue 1222) and the man who
+  shows Samson and Nina the three-room flat in s01e03 scene 4 (and returns in scene 25) is Pasha (Павел Юрьевич
+  Осипенко; Arkady guesses his surname in cue 233, «Осипенко», garbled as «А Сипенко», and in cue 891 Pasha threatens
+  Samson with "my guards").
+- The bug disguised inside a condom wrapper (cues 210, 356, 561, 591) is referred to neutrally by the narrator as a
+  small foil packet / wrapper; in story lines the word «презерватив» is avoided (replaced by «это» / «подарок» /
+  «сюрприз»), and Arkady's crude sexual boast in scene 10 (352-357) is retold cleanly as him assuming Marina came to
+  flirt with him and turning her down ("Вы не в моём вкусе").
+- Slavik's school nickname from his classmates (cues 324, 654, 682-691) is vulgar in the source; story lines use clean
+  phrasing («плохое прозвище», «смешное имя», «врунишка» / «слабак») while keeping the childhood nickname «очкарик» for
+  Arkady (garbled as «очконавт» in cues 255, 677, 796).
+- The public defender Данила Головкин introduces himself with a stutter as «ваш авокадо» (cue 365); story lines use
+  «ваш адвокат» while the narrator explains the stutter joke.
+- Non-linear editing around the court hearing: scenes 29 (1001-1021) and 32 (1072-1092) are the two halves of the
+  court session; scene 30 (1022-1042, Marina untying Arkady and planting the bug) happens earlier, before Arkady goes
+  to court, and is intercut as a flashback reveal when Golovkin appears as a surprise witness.
+- Viewpoint (`anya`) when Arkady is absent: Lavrov (3, 24), Samson (4, 8, 12, 19), Marina (5, 22), Pasha (7), Slavik
+  (9, 28), Judge Berg (14), Nina (15), Lyolya (31).
+- Scene 1: station announcements/crowd chatter (cues 1-13), the court secretary's line (19-20), and the opening song
+  (61-77) are left out; the three lawyers from "Mishkin and Sons" speak as one role (`mishkin`); legal phrasing in
+  cues 39 and 48-51 is simplified to A1 («грубых ошибок», «подписка о невыезде»). Scene 2: opening YouTube vlog
+  chatter (78-82) and crude cues 109-113 are skipped; cue 95's garbled «Это Юля» restored to «Это Лёля»; slang in
+  91-94 («фотки попер», «отжали», «не ной») simplified to A1.
+- Scene 3: crude jokes in cues 121 («бубенцы») and 134 («через жопу» -> «очень плохо слышно») and constipation details
+  in cue 140 cleaned up; transcription slips in 127 («ставил» -> «оставил»), 128 («чайки» -> «чайник»), and 149
+  («вставить» -> «поставить») normalised; Marina's overheard phone line (139) is narrated so Klavdia takes the third
+  voice. Scene 4: technical renovation terms (155, 161-165) simplified and crude cue 185 («хреначишь») omitted.
+- Scene 5: garbled cue 204 («его кураулить, что ли?») -> «Мне что, ждать у двери?»; cue 210 retold cleanly as «Что
+  это? Зачем мне это?». Scene 6: Nina pushing Samson (215-218) is told in the intro; garbled «Санцовчик» (219) ->
+  «Самсон», «замуж ему деньги отдал» (225) -> «деньги отдал», «А Сипенко» (233) -> «Осипенко», «очканавт» (255) ->
+  «очкарик»; crude callback (248-249) and swearing (256-257) omitted.
+- Scene 7: slip «мне послушать» (271) -> «меня послушать»; «процессуальных нарушений» (287) -> «ошибок», «меру
+  пресечения не меняй» (290) -> «оставь его дома». Scene 8: «выковырю» (294) -> «достану», «лыбится» (295) -> «и
+  улыбается», «сурово» (298) -> «строго»; cue 305 («Чё?») expanded to «Что сделать? Пойдём в магазин.» to set up
+  scene 12.
+- Scene 9: crude nickname in 324 replaced with «плохое прозвище»; garbled «Слайка» (335) -> «Славик»; sexual boast in
+  333 and insult in 337 replaced with «Ты скажи пацанам, что она с тобой гуляла» and «Если соврёшь, я всем скажу, что
+  ты обманщик». Scene 10: transcription slip «У меня прощение» (340) -> «Прошу прощения»; sexual propositions and
+  condom jokes (352-357) retold cleanly («Не надо, вы совсем не в моём вкусе»); Klavdia's off-screen complaint (360)
+  narrated.
+- Scene 11: Mishkin's phone call (361-363, 377-379) has no separate voice (role limit), so Arkady speaks his side into
+  the phone; «авокадо» (365) -> «адвокат»; Golovkin's long introduction (367-374) split into two short sentences;
+  Klavdia's interruption (382-384) narrated; crude insults in 391-395 replaced with «Что вы здесь делаете? Кто вас
+  сюда прислал?». Scene 12: shopkeeper's cues (407-410) narrated; crude line 404 («Долбоёб с секатором!») -> «Смотри,
+  какие большие ножницы!».
+- Scene 13: «хищение в особо крупном размере» (414) -> «кражу больших денег»; crude insults in 425-426, 439, 444, 456
+  cleaned («Вы с ума сошли?», «Вы плохой человек!», «До свидания, глупый человек!»); «по УДО выйдете» (433) -> «выйдете
+  раньше»; «пошли бы на...» (449) -> «Уходите отсюда»; «терпилой» (461) -> «слабым». Scene 14: Polina's crying (466)
+  narrated; «по-маленькому и по-большому» (471) -> «гулять во двор»; slip «Позвони» (487) -> «Позвоню».
+- Scene 15: Golovkin's stutter (492-493) smoothed in story lines; «выдра» (512) -> «кто это»; threat in 515 cleaned to
+  «Ещё слово скажешь — пожалеешь!». Scene 16: «кисонька» (521) -> «дорогая»; cues 526-527 split into short A1 lines;
+  crude cues 533-534 retold cleanly as «И что мне делать? Соглашаться или нет?»; «на одну тысячу сто рублей» (537)
+  shortened to «На тысячу рублей».
+- Scene 18: merged scene 17 (539-545) is covered in the intro bridge; cue 575 («Эдуард Валентинович») normalised to
+  «Эдуард Владимирович»; crude cues 586 («бастард») and 591 («презервативом») omitted cleanly («Марина, это что, для
+  него?»). Scene 19: corridor scuffle (623-627) told in the intro bridge; «При тебе же все покупало» (629) -> «Ты же
+  сам всё покупал»; «ущербный нарисовался» (631) -> «Кто этот тип в коридоре?»; mistranscribed «Дальше что ли?» (634)
+  -> «Даня, что ли?»; «придурок» (639) and crude cue 646 dropped; «Винникееву-то» (649) -> «Аникееву».
+- Scene 20: vulgar nickname in 654, 682-691 replaced with «врунишка»; «очконавт» (677-678) -> «очкарик»; «кресть»
+  (670) -> «красть», «тачку» (686) -> «машину»; cutaway 657-664 (Lavrov and Zavarzin eating dry bread rings at their
+  post) told in the intro and walkthrough. Scene 21: «бабки» (706, 713) -> «деньги»; mistranscribed «Синуль» (709) ->
+  «Нинуль»; two short lines given to Nina; cues 725-727 (muffled screams at the listening post) covered in the
+  walkthrough.
+- Scene 22: Lyova has no voice (tea and bread rings in 729 offered by the chief, Marina's exit in 730 moved to the
+  end); slips fixed: «А Никеев» (736) -> «Аникеев», «тахария» (739) -> «я очень волнуюсь», «налог, платильщиков» (749)
+  -> «налогоплательщиков»; «бабку» (753) -> «бабушку». Scene 23: «бабки» (756) -> «деньги», «разводят» (759) ->
+  «обманывают», «дебил» (757, 778, 784) -> dropped / «глупый», crude 802 and insult in 814 dropped; «Очконавт» (796)
+  -> «очкарик».
+- Scene 24: garbled «был мой дыре» (827, for «мой косяк») -> «была моя ошибка», «сушки» (833) -> «сушками», «Прикольно,
+  маскировочка» (837) -> «И маскировка хорошая»; Lyova's question in 846 («мы из разных управлений») given to Lavrov;
+  insult in 831 and crude dwarf/racial jokes in 848-850 dropped («Понятно. Значит, я вам не нужен.»). Scene 25: Nina's
+  defensive remarks (853-854, 865-866) narrated so Samson and Pasha take the two other roles; slips fixed: «Денис»
+  (863) -> «Нина», «вишню варежем» (873) -> «Вишнёвое варенье», «Нинокому реально ух» (882) -> «Нина ему чуть ухо»,
+  «душевого» (884) -> «живого»; crude/swearing lines 876, 886, 888, 894, 897 dropped or retold cleanly.
+- Scene 26: Nina has no voice, so cue 901 («А что это ты в квартиру принёс?») is given to Samson; slip «принеси» (903)
+  -> «он собаку принёс»; crude «гнида» (914) -> «малыш». Scene 27: Polina's crying narrated; slips «виновата» (928) ->
+  «виноват» and «семье» (934) -> «семьи»; crude stomach-upset words (942) and pruning-shears threat (955-959) omitted.
+- Scene 28: crude sex/rocket lines (975-978, 981, 988) retold cleanly as «Я твоя девушка, мы встречаемся уже месяц»
+  and «И через десять минут я ухожу»; «Да не ссы» (984) -> «Не бойся»; «бойфренда» (987) -> «парня». Scene 29: long
+  legal ruling in 1001-1012 simplified into four short A1 sentences; short bridging lines added before cue 1021
+  («Вы?!»).
+- Scene 30: non-linear flashback bridge explained in the intro; typos «Разведите» (1024) and «разовяжу» (1025)
+  corrected to «Развяжите» and «развяжу»; «затек совсем» (1027) -> «я устал сидеть»; «бабка» (1040) -> «старушка»;
+  Klavdia's question (1038) narrated and Lavrov's pizza line (1041-1042) folded into Zavarzin's role. Scene 31: slang
+  in 1048 replaced with «обманщики», «бойфренд» (1060) with «парень», «убила» (1049) with «потеряла»; crude remarks in
+  1054-1057 and 1064-1065 retold cleanly («Ты же ещё мальчик!»).
+- Scene 32: formal legal phrasing in 1074-1078 simplified; insult in 1080 and crude opening of 1081 dropped; «15»
+  written out as «пятнадцать»; typo «Соседание» (1083) corrected to «Заседание»; reporters and police escort outside
+  the courthouse (1084-1092) narrated around Arkady's closing lines.
+- Scene 34: merged scene 33 (1093-1099) covered in the intro bridge; Slavik's brief cue (1111) narrated for the
+  three-role limit; «Не ссы, прорвёмся» (1117) -> «Не бойся, всё будет хорошо»; «Чё мы, мы» (1118) -> «Что мы, мы?»;
+  «Чё я, рэкетир тебе, что ли» (1120) -> «Я тебе не бандит»; «Заебись» (1122) dropped; «на хрен» (1123) -> «уже».
+  Scene 35: Slavik's short protest (1133) narrated; «малолетку» (1139) -> «в колонию»; «Ты чё творил, скотина?»
+  (1150) -> «Что ты делал?!»; merged scene 36 (1152-1169) told in the outro.
+- Validator for s01e03: `OK: 0 errors, 25 warnings`, all "gap between scenes" in scenes.json (silences with no
+  subtitles between scenes). `qa.py`: QA OK (33 scenes).
