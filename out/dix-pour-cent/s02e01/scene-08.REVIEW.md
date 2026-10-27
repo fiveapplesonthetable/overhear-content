@@ -1,0 +1,41 @@
+# dix-pour-cent-s02e01-scene-08: review sheet
+
+Title: Ramzy refuse de voir Virginie  (Ramzy Refuses to See Virginie)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S02E01
+Cues 171-195. In Mathias's office, Ramzy Bedia expresses his pain over the gossip photos. Accusing Mathias of playing both sides as a double agent, Ramzy demands that he choose between them. When Sofia announces Virginie's arrival, Ramzy refuses to face her. Adapted for A1 French.
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Mathias | Ne t'inquiète pas, personne ne nous dérangera ici. Thé ou café? | Do not worry, no one will bother us here. Tea or coffee? | #171 00:10:37: Ne t'inquiète pas, personne ne nous dérangera ici.<br>#173 00:10:42: -Tu étais au courant ? -Thé ou café ? | verbatim |
+| 2 | Ramzy | Tu étais au courant? Elle t'a appelé à trois heures du matin. | Did you know? She called you at three o'clock in the morning. | #173 00:10:42: -Tu étais au courant ? -Thé ou café ?<br>#174 00:10:44: Elle t'a appelé à 3h09 du matin. | adapted: Spelled out time to standard French |
+| 3 | Ramzy | Qu'est-ce qu'elle t'a dit? | What did she say to you? | #175 00:10:46: Qu'est-ce qu'elle t'a dit ? | verbatim |
+| 4 | Mathias | Mon rôle est de vous protéger tous les deux, votre vie privée ne me regarde pas. | My role is to protect both of you, your private life does not concern me. | #176 00:10:48: Mon rôle<br>#177 00:10:49: est de vous protéger tous les deux, votre vie privée ne me regarde pas, | verbatim |
+| 5 | Mathias | Mais quand elle est attaquée, je la défends. On va attaquer en justice, et soyez sûrs qu'on gagnera. | But when it is attacked, I defend it. We will sue in court, and be sure we will win. | #178 00:10:53: mais quand elle est attaquée, je la défends.<br>#179 00:10:55: On va attaquer en justice, et soyez sûrs qu'on gagnera. | verbatim |
+| 6 | Ramzy | Ça n'atténuera pas mon humiliation publique. | That will not diminish my public humiliation. | #180 00:10:59: Ça n'atténuera pas mon humiliation publique. | verbatim |
+| 7 | Ramzy | Elle a appelé et laissé un message? | Did she call and leave a message? | #184 00:11:13: Elle a appelé et laissé un message ? | verbatim |
+| 8 | Mathias | Non, mais elle pourrait, je suis son agent aussi. | No, but she could, I am her agent too. | #185 00:11:15: Non, mais elle pourrait, je suis son agent aussi. | verbatim |
+| 9 | Ramzy | C'est bien le problème, tu es un agent double! | That is the exact problem, you are a double agent! | #186 00:11:19: C'est bien le problème, tu es un agent double ! | verbatim |
+| 10 | Mathias | Pas tout à fait, je suis l'agent de vous deux. | Not quite, I am the agent of both of you. | #187 00:11:22: Pas tout à fait, je suis l'agent de vous deux. | verbatim |
+| 11 | Ramzy | Eh bien, maintenant il faut choisir. | Well, now you must choose. | #188 00:11:24: Eh bien, maintenant il faut choisir. | verbatim |
+| 12 | Léa | Pardon de vous déranger, Mathias. Virginie Efira est là. | Sorry to disturb you, Mathias. Virginie Efira is here. | #191 00:11:34: Oui, Sofia ?<br>#192 00:11:35: Virginie Efira est là. | adapted: Sofia announces Virginie's arrival |
+| 13 | Ramzy | Tu vois? Fais ce qu'il faut, je ne veux pas la voir. | See? Do what is necessary, I do not want to see her. | #193 00:11:45: Tu vois ? Je ne veux pas la voir.<br>#194 00:11:51: Fais ce qu'il faut,<br>#195 00:11:53: je ne veux pas la voir. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Do not worry, no one will bother us here. Tea or coffee?' Mathias welcomes Ramzy into his private office to speak calmly.
+- 'Did you know? She called you at three o'clock in the morning.' Ramzy checks whether Mathias knew about the affair before anyone else.
+- 'What did she say to you?' Ramzy demands details of their late-night phone call.
+- 'My role is to protect both of you, your private life does not concern me.' The expression ne regarder pas means to be none of one's business.
+- 'But when it is attacked, I defend it. We will sue in court, and be sure we will win.' The phrase attaquer en justice means to take legal action against the magazine.
+- 'That will not diminish my public humiliation.' Ramzy feels deeply disgraced by the widely circulated pictures.
+- 'Did she call and leave a message?' Ramzy wonders if Virginie tried to explain herself.
+- 'No, but she could, I am her agent too.' Mathias reminds him that his professional loyalty extends to both clients.
+- 'That is the exact problem, you are a double agent!' Ramzy angrily accuses Mathias of being torn between competing loyalties.
+- 'Not quite, I am the agent of both of you.' The phrase pas tout a fait means not quite or not exactly.
+- 'Well, now you must choose.' Ramzy issues an uncompromising ultimatum to his representative.
+- 'Sorry to disturb you, Mathias. Virginie Efira is here.' Sofia steps into the office to announce the unexpected visitor.
+- 'See? Do what is necessary, I do not want to see her.' Ramzy firmly refuses to speak to Virginie in person.

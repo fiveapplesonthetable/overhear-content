@@ -20,3 +20,4 @@ and checked, no shortcuts.
 | domashniy-arest | s01e06 | 31 (29 scripted) | 2 (14, 24) | done: validate OK (20 gap warnings, see NOTES.md), qa OK |
 | domashniy-arest | s01e07 | 34 (32 scripted) | 2 (20, 26) | done: validate OK (19 gap warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s01e06 "François" | 30 (28 scripted) | 2 (18, 20) | done: validate OK (24 gap + 57 accented-name warnings, see NOTES.md), qa OK |
+| dix-pour-cent | s02e01 "Virginie et Ramzy" | 29 (28 scripted) | 1 (5) | done: validate OK (25 gap + 37 accented-name warnings, see NOTES.md), qa OK |

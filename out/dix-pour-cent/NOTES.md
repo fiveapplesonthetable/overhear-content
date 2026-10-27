@@ -221,3 +221,12 @@
 - Scene 12: Berléand's confession of never having learned to swim is preserved; insult in cue 338 cleaned.
 - Scene 27: Long legal clauses in Colette's tax audit verdict simplified for A1.
 - General: Swearing and explicit insults removed. All WALK narrator glosses begin with single-quoted English translations (`'...'`), checked and verified.
+
+## s02e01 "Virginie et Ramzy"
+- Introduced Virginie Efira and Ramzy Bedia, and Hicham Janowski.
+
+## s02e02 "Fabrice Luchini"
+- 29 scenes in scenes.json.
+- Contains Fabrice Luchini and Christophe Lambert as guest stars.
+- Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
+- Central conflict is poaching Luchini from Starmédia using a fake James Bond casting.
