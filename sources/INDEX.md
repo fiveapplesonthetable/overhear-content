@@ -5,6 +5,8 @@ if you learn an official title, put it in `scenes.json` `title`.
 
 ## Кухня (Kukhnya)  (`kukhnya`, ru)
 
+S2 e04 to S6 e20 are also here as `eNN.ru.srt`: Russian only, Whisper transcripts, English to follow (see README priority 5). The table below counts dual files only.
+
 | season | present | missing | episodes (cues, length) |
 |---|---|---|---|
 | S1 | 20/20 | none | e01 (370, 00:24:56); e02 (339, 00:24:10); e03 (354, 00:23:51); e04 (331, 00:23:34); e05 (322, 00:23:53); e06 (313, 00:23:43); e07 (356, 00:24:00); e08 (385, 00:23:29); e09 (358, 00:23:22); e10 (345, 00:24:07); e11 (351, 00:23:33); e12 (290, 00:23:00); e13 (316, 00:24:06); e14 (375, 00:24:07); e15 (373, 00:24:02); e16 (347, 00:24:12); e17 (336, 00:23:51); e18 (380, 00:23:59); e19 (383, 00:24:06); e20 (339, 00:23:42) |
