@@ -1,0 +1,43 @@
+# dix-pour-cent-s03e01-scene-20: review sheet
+
+Title: Une explication nocturne  (A Late-Night Explanation)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S03E01
+Cues 668-694. In the kitchen late at night, Colette asks Andréa why she slept with Hicham in Cannes. Andréa tries to describe the sudden, confusing mix of rivalry and impulse that caused that night.
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Colette | Cette histoire me tourmente sans cesse. | This story torments me endlessly. | #668 00:31:42: C'est juste que j'arrête pas d'y penser. Ça m'obsède, en fait. | verbatim |
+| 2 | Colette | Pourquoi as-tu couché avec Hicham? | Why did you sleep with Hicham? | #669 00:31:45: Pourquoi t'as couché avec lui ? | verbatim |
+| 3 | Léa | J'avais bu beaucoup de champagne. | I had drunk a lot of champagne. | #670 00:31:49: J'étais bourrée. J'avais bu trop de champagne. | verbatim |
+| 4 | Colette | Ce n'est pas une explication suffisante. | That is not a sufficient explanation. | #671 00:31:51: Mais tu couches pas avec un mec à chaque fois que tu bois trop de champagne ? | verbatim |
+| 5 | Léa | C'est difficile à expliquer calmement. | It is difficult to explain calmly. | #677 00:32:07: C'est pas facile à expliquer. | verbatim |
+| 6 | Colette | J'ai besoin de comprendre cette nuit. | I need to understand that night. | #673 00:31:58: J'ai besoin de savoir ce qui s'est passé dans ta tête. | verbatim |
+| 7 | Léa | Au départ, je regardais une fille. | At first, I was looking at a girl. | #678 00:32:15: Bon, donc, au début, j'ai été attirée par cette fille. | verbatim |
+| 8 | Léa | Hicham a séduit cette jeune femme. | Hicham seduced that young woman. | #679 00:32:18: Et donc, lui, il l'a emballée sous mon nez. | verbatim |
+| 9 | Colette | Et cela t'a mise en colère? | And that made you angry? | #680 00:32:20: Et ça, ça m'a énervée. Qu'il le fasse et puis qu'elle marche. | verbatim |
+| 10 | Léa | Oui, la tension est devenue électrique. | Yes, the tension became electric. | #685 00:32:34: Et c'est avec lui que c'est devenu électrique. | verbatim |
+| 11 | Léa | Je voulais absolument le dominer. | I absolutely wanted to dominate him. | #690 00:32:49: J'avais envie de le dominer. | verbatim |
+| 12 | Colette | Arrête, cette image me fait mal! | Stop, that image hurts me! | #692 00:32:56: Arrête, parce que tu visualises, là. | verbatim |
+| 13 | Léa | Je n'aurais pas dû tout raconter. | I should not have told everything. | #693 00:33:00: Tu vois, j'aurais pas dû te raconter. | verbatim |
+| 14 | Colette | Nous venons de mondes différents. | We come from different worlds. | #695 00:33:13: On vient vraiment pas de la même planète, toutes les deux. | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'This story torments me endlessly.' Colette confesses her constant obsession. The verb tourmenter means to torment or distress.
+- 'Why did you sleep with Hicham?' Colette asks the painful direct question. The compound past as couché comes from coucher.
+- 'I had drunk a lot of champagne.' Andrea cites the alcohol at the party. The pluperfect tense avais bu expresses a prior action.
+- 'That is not a sufficient explanation.' Colette demands deeper emotional honesty. The adjective suffisante agrees with explication.
+- 'It is difficult to explain calmly.' Andrea struggles to put her feelings into words. The adverb calmement means in a calm manner.
+- 'I need to understand that night.' Colette seeks clarity for their relationship. The phrase avoir besoin de means to need.
+- 'At first, I was looking at a girl.' Andrea recounts the beginning of the evening. The phrase au départ means initially.
+- 'Hicham seduced that young woman.' Andrea describes Hicham's competitive behavior. The verb séduire means to charm or seduce.
+- 'And that made you angry?' Colette asks about the emotional trigger. The idiom mettre en colère means to make someone angry.
+- 'Yes, the tension became electric.' Andrea recalls the intense rivalry between them. The adjective électrique describes palpable tension.
+- 'I absolutely wanted to dominate him.' Andrea admits her aggressive competitive impulse. The infinitive dominer expresses a desire for control.
+- 'Stop, that image hurts me!' Colette feels hurt by the mental picture. The verbal phrase faire mal à means to hurt.
+- 'I should not have told everything.' Andrea regrets being overly candid. The past conditional n'aurais pas dû expresses regret.
+- 'We come from different worlds.' Colette reflects on their divergent perspectives. The preposition de indicates origin.
