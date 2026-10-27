@@ -285,3 +285,18 @@
 
 ## s04e01 (Charlotte Gainsbourg)
 - Guest star is Charlotte Gainsbourg.
+
+## s04e02 (Franck Dubosc)
+- Guest star is Franck Dubosc.
+
+## s04e03 (José Garcia)
+- Guest star is José Garcia.
+
+## s04e04 (Sandrine Kiberlain)
+- Guest star is Sandrine Kiberlain.
+
+## s04e05 (Sigourney Weaver)
+- Guest star is Sigourney Weaver.
+
+## s04e06 (Jean Reno)
+- Guest star is Jean Reno.
