@@ -1,0 +1,120 @@
+# Authoring module for dix-pour-cent s01e03 scene 14 (cues 313-339).
+# Build: python3 tools/compose.py out/dix-pour-cent/s01e03/authoring/scene-14.py --out out/dix-pour-cent/s01e03/scene-14.json
+
+ID = "dix-pour-cent-s01e03-scene-14"
+SHOW = "dix-pour-cent"
+SEASON = 1
+EPISODE = 3
+SCENE = 14
+TITLE = "L'inspectrice des impôts arrive  (The Tax Inspector Arrives)"
+LEVEL = "A1 — débutant"
+PAIR = "fr-en"
+VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie", "gabriel": "theo"}
+LABELS = {"lea": "Andréa", "colette": "Colette", "gabriel": "Gabriel"}
+SOURCE_NAME = "Dix pour cent (Call My Agent!) S01E03"
+SOURCE_FILE = "sources/dix-pour-cent/s01/e03.fr.dual.srt"
+SOURCE_NOTE = ("Cues 313-339. Arlette's opening question about her dog (313) is narrated in the opener, and the "
+               "partners' worries at the end (332-338) are shared between Gabriel and Andréa to stay within three "
+               "speaking roles.")
+
+INTRO = ("At the assistants' desks, Noémie has just accused Camille of spying for Mathias, and Camille got out of "
+         "trouble by claiming her secret father is the movie star Christophe Lambert. Now a much bigger problem "
+         "walks through the front door of the agency: Colette Brancillon, the strict tax inspector. Earlier today "
+         "Andréa promised her ex-boyfriend Clément a luxury suite at Cannes if he replaced Colette within a week. "
+         "Yet the moment Andréa meets Colette face to face, she has the strange feeling they have met before, and "
+         "decides she can handle her after all. Listen to the French first, without worrying about catching every "
+         "single word.")
+
+STORY = [
+ ("gabriel", "Andréa. Voici la dame du centre des impôts.", "Andréa. Here is the lady from the tax office.",
+  [(314, "Andréa"), (315, "Voici la dame du centre des impôts")], ""),
+ ("lea", "Bonjour. Andréa Martel.", "Hello. Andréa Martel.",
+  [(316, "Bonjour. Andréa Martel")], ""),
+ ("colette", "Colette Brancillon. J'ai besoin d'un bureau pour travailler.", "Colette Brancillon. I need an office to work in.",
+  [(316, "Colette Brancillon"), (317, "besoin d'un bureau pour travailler")], "future 'J'aurai besoin' -> present 'J'ai besoin'"),
+ ("lea", "Notre patron est mort il y a trois semaines.", "Our boss died three weeks ago.",
+  [(318, "Notre patron est"), (318, "il y a trois semaines")], "'décédé' simplified to A1 'mort'"),
+ ("lea", "J'ai vraiment l'impression de vous connaître.", "I really have the feeling I know you.",
+  [(320, "J'ai vraiment l'impression de vous connaître")], ""),
+ ("colette", "Non, je ne crois pas.", "No, I don't think so.",
+  [(321, "Non, je ne crois pas")], ""),
+ ("lea", "C'était peut-être dans une autre vie.", "Maybe it was in another life.",
+  [(322, "C'était peut-être dans une autre vie")], ""),
+ ("lea", "Vous avez tout ce qu'il vous faut?", "Do you have everything you need?",
+  [(323, "Vous avez"), (324, "tout ce qu'il vous faut")], ""),
+ ("colette", "Oui, merci.", "Yes, thank you.",
+  [(325, "Oui, merci")], ""),
+ ("lea", "Mon bureau est juste là. À tout à l'heure.", "My office is right there. See you later.",
+  [(326, "mon bureau est juste là"), (327, "À tout à l'heure")], "'Si vous avez besoin de quoi que ce soit' dropped"),
+ ("colette", "D'accord, merci.", "Okay, thank you.",
+  [(327, "D'accord, merci")], ""),
+ ("lea", "Salut, Clément, c'est Andréa.", "Hi, Clément, it's Andréa.",
+  [(328, "c'est Andréa")], "comma added after Salut"),
+ ("lea", "Avec Colette Brancillon, ça va aller. On oublie notre accord.", "With Colette Brancillon, it'll be fine. Forget our deal.",
+  [(329, "avec Colette Brancillon"), (330, "on oublie")], "'on peut s'en sortir' and 'ce dont on avait convenu' simplified to A1"),
+ ("gabriel", "Elle va rester ici pendant des semaines?", "Is she going to stay here for weeks?",
+  [(332, "Elle va"), (332, "pendant des semaines")], "idiom 'nous coller aux basques' simplified to 'rester ici'"),
+ ("gabriel", "Et on peut faire faillite?", "And could we go bankrupt?",
+  [(334, "faire faillite")], "conditional 'On pourrait' -> present 'on peut'"),
+ ("lea", "Oui. Mais c'est la vie.", "Yes. But that's life.",
+  [(336, "c'est la vie")], "'Ouais' -> 'Oui'"),
+]
+
+OPENER = ("Let's walk through it together. After checking that the inspector doesn't mind Arlette's dog, Gabriel "
+          "brings her to Andréa.")
+
+WALK = [
+ (0, None,
+  "'Andréa. Here is the lady from the tax office.' Literally 'the centre of the taxes'. The first word is how you "
+  "present someone who has just arrived."),
+ (1, None,
+  "'Hello. Andréa Martel.' People often introduce themselves simply by saying hello and giving their full name."),
+ (2, None,
+  "'Colette Brancillon. I need an office to work in.' Literally 'I have need of an office for to work'. Colette "
+  "gets straight down to business."),
+ (3, None,
+  "'Our boss died three weeks ago.' The little three-word phrase before 'three weeks' means 'ago' when it comes "
+  "before a length of time. Andréa is apologising for the mess at the agency."),
+ (4, None,
+  "'I really have the feeling I know you.' In French you say 'the impression of knowing you', using the verb for "
+  "knowing a person. Andréa stares at Colette, sure she has seen her face somewhere."),
+ (5, None,
+  "'No, I don't think so.' Literally 'I do not believe'. Colette's answer is cool and polite, using the two-part "
+  "negative around the verb."),
+ (6, None,
+  "'Maybe it was in another life.' The verb at the front is the past form for how things were, and the hyphenated "
+  "word after it means 'maybe'."),
+ (7, None,
+  "'Do you have everything you need?' Literally 'all that which it you is-needed'. A polite, standard phrase when "
+  "showing a visitor to a room."),
+ (8, None,
+  "'Yes, thank you.' Short and polite. Colette doesn't waste a syllable."),
+ (9, "Mon bureau est juste là.",
+  "'My office is right there.' The word for 'my' is masculine here to match 'office'."),
+ (9, "À tout à l'heure.",
+  "'See you later.' You use this when you will see the person again later the same day."),
+ (10, None,
+  "'Okay, thank you.' Now Colette shuts the door, and Andréa immediately phones Clément to cancel her expensive "
+  "Cannes bribe."),
+ (11, None,
+  "'Hi, Clément, it's Andréa.' On the phone, French speakers introduce themselves with 'it is' plus their name."),
+ (12, "Avec Colette Brancillon, ça va aller.",
+  "'With Colette Brancillon, it'll be fine.' Literally 'it is going to go'. Andréa thinks she can charm the young "
+  "inspector."),
+ (12, "On oublie notre accord.",
+  "'Forget our deal.' Literally 'we forget our agreement', using the everyday word for 'we'."),
+ (13, None,
+  "'Is she going to stay here for weeks?' The verb 'to go' plus 'stay' builds the near future, and the preposition "
+  "before 'weeks' means 'for' or 'during'."),
+ (14, None,
+  "'And could we go bankrupt?' Literally 'make bankruptcy'. Gabriel is terrified for the agency."),
+ (15, None,
+  "'Yes. But that's life.' Literally 'it is the life'. Andréa shrugs it off, not yet knowing where she really "
+  "met Colette."),
+]
+
+TRANSITION = "Now listen to the whole scene again from start to finish."
+
+OUTRO = ("Colette is installed in her office, and Andréa has just thrown away her only safety net at the tax "
+         "office. We'll find out later why Colette's face looked so familiar. See you in the next scene.")
+CLOSING = ("colette", "Bonjour.")

@@ -95,3 +95,39 @@
   - s26: the agents' squabble reduced to Mathias's summary; eulogies condensed; the sung lyric (749) not used.
 - Final check s01e02: validator `OK: 0 errors, 175 warnings` = 149 accented-name warnings + 26 inter-scene gaps;
   qa.py `QA OK (23 scenes)`.
+
+## s01e03 "Nathalie et Laura"
+- 31 scenes in scenes.json, 22 scripted, 9 merged (4, 5, 8, 12, 21, 23, 27, 29, 31).
+  - 4 (Gabriel vs Mathias, male-only) -> `prev` into 3; 5 (Mathias asks Dominique a favour for Camille) -> `next`
+    into 6; 8 (Hervé and Hugo, male-only) -> `next` into 9; 12 ("Merci, Papa") -> `next` into 13;
+    21 (Camille: "I want to be an agent") -> `prev` into 20; 23 (coffee machine) -> `prev` into 22;
+    27 (ten out of ten, and no) -> `prev` into 26; 29 (Sofia's play, stage lines) -> `next` into 30;
+    31 (StarMédia's offer to Mathias, male-only cliffhanger) -> `prev` into 30, told by the narrator in 30's outro.
+- Voice constraint: only two female voices exist (lucie for `lea`, emilie); scenes with three women (e.g. 26:
+  Nathalie, Laura, Solveig) give the third one's lines to the narrator.
+- Validator gap warnings: silences between scenes, expected. Accented-name warnings: names only.
+- Speaker readings / changes (details in each authoring file):
+  - s01: writes out "M." as "monsieur" (cue 6), replaces Camille's swear word in cue 9 with "Oh non! Je suis désolée.", and assigns cue 15 ("Non, Gabriel, on ne peut pas toujours tout arranger!") to Andréa.
+  - s02: simplifies cue 51 ("fais-la se tenir droite") to "Emmanuel, elle doit se tenir droite."; cue 48 ("Pour Gabriel, même une catastrophe, c'est juste un accroc!") is given to Laura.
+  - s03: simplifies cue 59 to mock-formal "Laura Smet, Solveig Akerfelt vous veut pour son prochain film.", drops Gabriel's swear word in cue 77 ("Exclusif, hein?"), assigns cue 79 ("Non, la mère et la fille.") to Gabriel, and retells merged s04 (cues 87–99, male-only) in s03's outro.
+  - s06: merged s05 (cues 100–106) is retold in the intro bridge; Noémie's crude lines (114, 121) and Hervé's insult (134) are dropped.
+  - s07: the partners' opening chatter (142–150) is narrated in the intro; Arlette is narrated out to stay within three voices, with cue 154 given to Gabriel and cue 161 to Andréa.
+  - s09: merged s08 (cues 166–182, Hervé and Hugo) is retold in the intro bridge; Sofia is narrated out of the story (2-female-voice limit), cues 186 and 188 are given to Camille, and cue 197 is given to Hervé.
+  - s10: simplifies "soit sur un chalutier, soit sur une île" (cue 200) to "sur un bateau" and "enfermée ... sur un bateau de pêche 24h/24" (cue 208) to "avec elle sur un bateau, jour et nuit".
+  - s11: omits the bodily-fluids joke in cue 223, simplifies "mon lieu de travail" (cue 225) to "mon agence", cleans up the breakup/sister lines in cues 245–247 to "Tu m'as quitté avec un SMS!", and simplifies cues 254–255 to "Je vais remplacer Brancillon."
+  - s13: merged s12 (cues 259–263, "Merci, Papa") is retold in the intro bridge; omits "couché avec lui" in cue 267 and "Putain !" in cue 303, simplifies "tu espionnes pour Mathias" (cue 283) to "Tu travailles en secret pour Mathias?", and uses feminine "désolée" (cue 306) for Noémie.
+  - s14: narrates Arlette's opening question about her dog (cue 313) in the opener, simplifies "décédé" (cue 318) to "mort" and "nous coller aux basques" (cue 332) to "rester ici", and shares the partners' worries at the end (cues 332–336) between Gabriel and Andréa (3-role limit).
+  - s15: uses feminine "Tiens-toi droite." for cue 350, and narrates Gabriel's question in the parallel office cut so Mathias carries the male voice while Laura's refusal is kept.
+  - s16: writes out the numbers in cues 379 ("Été deux mille onze.") and 384 ("treize ans"), omits the sexual joke in cue 404, replaces vulgar "chiante" in cue 405 with "capricieuse" (from cue 409), and folds Hervé's objection (cues 410–413) into Laura's own hesitation (3-role limit).
+  - s17: narrates Hervé's long drinks list (cues 414–418) and keeps Solveig's replies; the two readings of the script are shortened and use different lines so no story line repeats.
+  - s18: summarises the crossover at the lift (cues 446–455) in the intro; adapts Gabriel's request to Hervé (cues 467–468) in the 1st person for Laura ("Hervé, s'il te plaît! Je veux mon thé.") to stay within three voices; writes out "Mme" as "Madame" (cue 470); and retells Gabriel's voicemail at the end (cues 483–489) in the outro.
+  - s19: drops the cocaine reference in cue 512, keeping "Et ne bois pas trop!".
+  - s20: merged s21 (cues 545–555, Camille telling Mathias she won't call Besnehard because she wants to be an agent) is folded into lines 13–17 of s20's story.
+  - s22: gives Mathias's and Arlette's lines in the meeting room (cues 557, 562, 565–566) to Andréa (3-role limit), drops swearing in cues 565 and 583, and summarises merged s23 (Zinedine Soualem and the coffee machine, cues 585–597) in s22's outro.
+  - s24: keeps Gabriel on *vous* throughout with Solveig (dropping `t'a` / `te` in cues 601, 604), drops "Merde !" in cue 606, removes guillemets in cue 624, and gives Hervé's and Mathias's closing lines (cues 636, 639) to Gabriel (2-role limit).
+  - s25: the dating-site handle "Impôts-du-cœur" (cue 656) is omitted; Colette's rejection is kept clean; Camille's knock at the door (cues 681–683) is narrated in the outro.
+  - s26: Solveig's lines are told by the narrator (2-female-voice limit), leaving Nathalie (`lea`), Laura (`emilie`), and Gabriel (`theo`), with Mathias's lines given to Gabriel; merged s27 (cues 752–763, the agents' "dix sur dix" celebration and the double refusal) is retold in s26's outro.
+  - s28: the "petit cul" joke (cues 785–788) is omitted.
+  - s30: merged s29 (Sofia's stage monologue, cues 795–809) is retold in s30's intro, and merged s31 (François of StarMédia offering Mathias a partnership, cues 847–866, male-only cliffhanger) is retold in s30's outro; Gabriel's cues 828–829 are given to Hervé so François can use the second male voice (`marcel`).
+- Final check s01e03: validator `OK: 0 errors, 112 warnings` = 84 accented-name warnings + 28 inter-scene gaps;
+  qa.py `QA OK (22 scenes)`.
