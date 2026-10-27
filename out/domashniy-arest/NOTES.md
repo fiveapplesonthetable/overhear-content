@@ -247,3 +247,94 @@
   (1150) -> «Что ты делал?!»; merged scene 36 (1152-1169) told in the outro.
 - Validator for s01e03: `OK: 0 errors, 25 warnings`, all "gap between scenes" in scenes.json (silences with no
   subtitles between scenes). `qa.py`: QA OK (33 scenes).
+
+## s01e04
+- Episode title: none in the sidecar: `title: null`.
+- 30 scenes in scenes.json, 28 scripted, 2 merged:
+  - 5 (under Devil's Bridge Ilona tricks taxi driver Arturik into stepping out and drives off in his car) `prev` into 4;
+  - 27 (outside the restaurant Nina scolds Samson for drinking and he persuades her to let him drive 400 metres through
+    the courtyards) `next` into 28.
+- Continuity with s01e02/s01e03:
+  - At the end of s01e03 Samson punched Arkady; in s01e04 Arkady has a bandaged head / bruised eye after a night in the
+    hospital, and Samson has lost his job and faces viral fame because Yulia uploaded the video from s01e01 of Samson
+    throwing the mayor out the window.
+  - The two men in scene 30 (cues 1135-1151) who play fake airport background noise and phone Pasha ("Мы ему только три
+    дня дали") are the Moscow cluster-deal partners from s01e02 scene 11: Степан Геннадьевич and his calm partner, now
+    named Фёдор Григорьевич.
+- Clean retelling of adult/crude content:
+  - In scene 2 (and merged scene 5, and scene 26), Ilona's past in Sineozersk is referred to cleanly as working as a
+    club dancer («танцевала в клубе»); Arturik's propositions and Pasha's crude slurs in scene 26 (1074-1078) are
+    cleaned up.
+  - In scene 6, Golovkin's confession that he has loved Nina since first grade is kept clean (Arkady's crude guesses in
+    159-160 and phrase in 163 are simplified to «Ты влюблён в чужую жену!» / «я расскажу Самсону, что ты любишь его
+    жену»).
+  - In scene 8, Pasha's crude prison threats (226-228) are omitted cleanly.
+  - In scene 16, Klavdia's vulgar details about Samson's drunken behaviour (624, 628) and silicone joke (634) are
+    omitted; "3D" and "Smart TV" are written in Cyrillic in story lines («три-дэ», «смарт-телевизор» / «большой
+    телевизор»).
+- Viewpoint (`anya`) when Arkady is absent: Ilona (2, 13, 26), Samson (4, 7, 9, 19, 22, 25, 29), Pasha (14), Fyodor
+  Grigoryevich (30).
+- Scene 1: Ilona's brief taxi lines (7-10) are told by the narrator and the opening song (33-45) is omitted; garbled
+  «Самсун» (1) -> «Самсон», «Маша» (4, 6) -> «Нина», «чебуречка» (12) -> «чебуречная»; crude toilet details (14-17,
+  30) and prison nightmare details (23) omitted or retold cleanly («Ему снятся страшные сны»). Scene 2: «зажигалки
+  стриптиз танцевала» (46) -> «у нас в клубе танцевала»; slang and insults in 49, 56-57, 62 simplified to A1; slip «по
+  чёртов мост» (66) -> «под Чёртов мост».
+- Scene 3: curses and vulgarities in 83 («алкаша»), 88-90 («Чтоб ты сдох», «сожрал»), and 101-105 («говно»,
+  «подавились») replaced with clean A1 language; numbers «150» and «12» written out as words; Samson's brief entrance
+  (96) and the TV news report (108-112) narrated and folded into Nina's final line. Scene 4: slang «кобыл в аппарате»
+  (119) -> «сил в этой машине», «аппарат» (122) -> «машина»; merged scene 5 (129-141) is told in the outro.
+- Scene 6: guard's lines (142-143, 169-172) narrated; insults and swearing in 144, 147, 153, 159-160, 162, 163, 168
+  cleaned up («Чтобы мне ещё десять лет дали?», «Ты любишь чужую жену!», «В тайне? А ты мою тайну вчера сохранил?»).
+  Scene 7: chain name «Пятёрочки» (188) -> «в магазине», «Зазывать ... в ростовом костюме» (195) -> «Звать ... В
+  костюме», slang «Да нафиг, Нина, я вафли не буду» (196) -> «Нина, я вафлей не буду!», numbers in 199 written out as
+  words, «обозналась» (207) -> «ошиблась», garbled cues 205 and 209 omitted.
+- Scene 8: slang in 220 («лямов и плюс условка» -> «миллионов и условный срок»), 225 («на зоне» -> «В тюрьме»), and
+  242 («ржет» -> «смеётся») cleaned up; crude lines 226-228, 235, 248, and 252 («Пиздец тебе, Паша» -> «Конец тебе,
+  Паша!») omitted or retold cleanly; numbers «5» and «10» written out as words. Scene 9: slips «вафлями» (260 ->
+  «вафлей»), «Инна» (262 -> «Нина»), and «Солсон» (264, 267 -> «Самсон») corrected; «уволишься» (261) -> «уйдёшь».
+- Scene 10: Lavrov and Zavarzin watching Arkady through binoculars (289-291) narrated in the intro, and reporters
+  outside (297-305) summarised in Samson's line; view count «4» (318) written out as «четыре» and spoken by Yulia; slip
+  «выложил-то» (321) -> «выложила». Scene 11: Yulia reading online comments (370-377) folded into Nina's role; crude
+  expressions and insults omitted or retold cleanly.
+- Scene 12: «урод» (391) dropped and «нюх потеряли, оборзели» (396-397) -> «совесть потеряли»; Nina giving reporters
+  the campaign phone number (418-424) and the TV news / agents in their car (425-430) covered in the walkthrough and
+  outro. Scene 13: focus-group presentation and staff lines (431-442) consolidated into Ksyusha's role; «перепридумать»
+  (441) -> «переделать», «форс-мажор» (464) -> «большая проблема»; Pasha's corridor outburst (453) and «дебил» (467)
+  omitted.
+- Scene 14: insults in 490, 496, 499, 513 dropped; the governor's staged winter jogging photo op in the park (506-514)
+  narrated in the walkthrough; mistranscribed «а не Киева» (522) -> «Аникеева»; cues 523-525 omitted cleanly. Scene 15:
+  Yulia answering voter calls (531-535, 554-556) and Slavik bringing the free brewery beer (579-582) narrated;
+  «зажравшегося» (544) -> «богатого»; crude words in 550, 557-559, 563-564 omitted; slip «проконтролируйте меня» (597)
+  -> «проконтролируйте его».
+- Scene 16: cue 618 normalised to neuter «Настроение ... хорошее»; crude cues 624, 628, 634 omitted; «в Лах-Ньюс залью»
+  (635) -> «в новости отправлю»; «15» (636) written out as «пятнадцать»; «3D и смарт-ТВ» (646) -> «три-дэ и
+  смарт-телевизор». Scene 17: Nina's greeting narrated; slip «Каникееву» (661) -> «к Аникееву».
+- Scene 18: slip «Мыло-гонно» (689) omitted; «Элончик» (698, 709) -> «Илона»; crude «вертепа» (713) and «Ни хрена»
+  (720) cleaned up; Lavrov and Zavarzin watching through binoculars (721-725) narrated in the walkthrough. Scene 19:
+  crude words in 767, 773-775 omitted; «на семь косарей» (770) -> «на семь тысяч».
+- Scene 20: Golovkin carrying in the 47,000-rouble TV (782-784, 812) narrated («47» written out as «сорок семь»);
+  «посетители» (786) -> «гости»; «обязательства» (814) -> «обещания»; long cues 803 and 818 split into short sentences.
+  Scene 21: «мордатый» (828) and «Прониктоненно» (834) dropped; «пододвигай» (832) -> «двигай»; garbled «А я мне
+  мерзость» (835) -> «А по-моему, это гадость! Я не буду давать взятку.»; «150» (842) -> «сто пятьдесят»; garbled
+  «Пользуйтесь, мой слабый» (844) -> «Вы пользуетесь моей слабостью!».
+- Scene 22: «предоставить вам этот автомобиль на эксклюзивный» (862) -> «дать вам эту машину на»; «10» (864) ->
+  «десяти»; «отечественных автомобилях» (867) -> «русских машинах»; slang «аппарат» (869, 890) -> «машина», «спятил»
+  (889) -> «с ума сошёл», «круче» (902) -> «лучше»; Samson's brief chat outside the water kiosk (880-885) narrated.
+  Scene 23: Golovkin's single-word reply («Хотел», 918) narrated; Ilona's church decree (928-934) simplified to «Вот
+  документ. Место в главном соборе нашего города.»; slip «Мой ЛК» (948) -> «Мой Гриша».
+- Scene 24: Lev Leshchenko's warm greeting on the phone (973-980) narrated around Klavdia's responses; «на химкомбинате»
+  (997) -> «на заводе»; crude words in 1009, 1017-1018 cleaned up («Даже мне сейчас стыдно», «Ах ты обманщица! Ты
+  успела переслать видео!»). Scene 25: slips «депозит на святых» (1020 -> «на семь тысяч»), «А не кейв» (1023-1024 ->
+  «Аникеев»), and «Бен» (1047 -> «Вань») corrected; menu items (1031-1043) and slang (1048-1049) simplified to A1.
+- Scene 26: «Давай-ка заливает в сеть» (1055) -> «Сейчас мы выложим это видео в интернет»; slip «Никеева» (1058) ->
+  «Аникеева»; «нечеловеческих» (1060) -> «ужасных»; Pasha's crude slurs and sexual remarks in 1074-1078 and 1081
+  cleaned up («Ты кто такая?» / «Я в клубе танцевала.» / «Привезёшь ему подушку — сразу уволю!»). Scene 28: merged
+  scene 27 (1085-1091) covered in the intro bridge; slips «Санова» (1093 -> «снова») and «Пошла» (1101 -> «Пошёл»)
+  fixed; «бабки» (1115) -> «деньги»; Lavrov and Zavarzin groaning at their post (1108-1110) narrated.
+- Scene 29: slang «эти, вертолеты» (1118) -> «уже голова кружится»; garbled 1119 -> «Нам надо сдать машину до десяти
+  часов»; «Резонно. Гони самцов» (1124) -> «Правда. Давай быстрее, Самсон!»; garbled 1127-1128 and 1132-1133 simplified
+  cleanly. Scene 30: «Вруби ... фон» (1136) -> «Включи ... шум», «прикалываешься» (1138) -> «шутишь»; «готовы дать вам
+  отсрочку» (1145) -> «даём вам ещё немного времени»; «средства» (1146) -> «деньги»; closing song (1152-1170) covered
+  in the outro.
+- Validator for s01e04: `OK: 0 errors, 18 warnings`, all "gap between scenes" in scenes.json (silences with no
+  subtitles between scenes). `qa.py`: QA OK (28 scenes).

@@ -14,3 +14,4 @@ and checked, no shortcuts.
 | dix-pour-cent | s01e03 "Nathalie et Laura" | 31 (22 scripted) | 9 (4, 5, 8, 12, 21, 23, 27, 29, 31) | done: validate OK (28 gap + 84 accented-name warnings, see NOTES.md), qa OK |
 | domashniy-arest | s01e03 | 36 (33 scripted) | 3 (17, 33, 36) | done: validate OK (25 gap warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s01e04 "Audrey" | 32 (28 scripted) | 4 (3, 13, 14, 25) | done: validate OK (27 gap + 111 accented-name warnings, see NOTES.md), qa OK |
+| domashniy-arest | s01e04 | 30 (28 scripted) | 2 (5, 27) | done: validate OK (18 gap warnings, see NOTES.md), qa OK |

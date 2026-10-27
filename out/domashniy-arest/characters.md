@@ -235,6 +235,47 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
 - Прокурор (prosecutor in court, sc. 29): man in a blue prosecutor's uniform; role `prosecutor` -> angelina, label
   Прокурор.
 
+## Илона Леонидовна (Ilona Leonidovna; sharp Moscow political strategist; first seen s01e04)
+- Who: top campaign consultant ("политтехнолог из Москвы") hired to run Pasha Osipenko's mayoral campaign; originally
+  from Sineozersk, where years ago she danced in a club before Arkady helped her out of trouble and paid for her
+  Moscow education. Cold, resourceful, and fiercely proud of her unbeaten record ("Я не проигрываю"); after Pasha
+  insults her and forbids her to bring Arkady even a pillow, she deletes the kompromat on Samson and defects to
+  Arkady's camp.
+- Appearance for the art: stylish woman about 32, light skin, sleek straight dark-brown bob haircut `#3B2820`, sharp
+  cheekbones, burgundy lipstick; tailored camel-beige trench coat `#C9A47A` over a fitted black turtleneck dress
+  `#2B2D38`, carrying a black leather handbag.
+- Story role key / voice: `ilona` -> angelina (or `anya`, label Илона, when she is the viewpoint). Label: Илона (or
+  Илона Леонидовна).
+
+## Артурик (Arturik; insolent local taxi driver; s01e04 sc. 2)
+- Who: Sineozersk taxi driver who recognises Ilona from her club-dancing days and tries to force her to go to a sauna
+  with him until she tricks him under Devil's Bridge and drives off in his car.
+- Appearance for the art: stocky man about 38, light skin, receding hairline with short dark stubble, gold chain over a
+  black track jacket `#2B303A` with white stripes on the sleeves, gripping a steering wheel.
+- Story role key / voice: `arturik` -> anja. Label: Артурик.
+
+## Ксюша (Ksyusha; Pasha's young campaign coordinator; first seen s01e04 sc. 13)
+- Appearance for the art: young woman about 26, light skin, neat brown ponytail, round glasses, pale-blue blouse
+  `#8AB4D9` and dark skirt, holding a tablet or folder.
+- Story role key / voice: `ksyusha` -> angelina (or `anja` when Ilona has `angelina`). Label: Ксюша.
+
+## Лев Валерьянович Лещенко (Lev Leshchenko; famous Soviet and Russian singer, on phone; s01e04 sc. 24)
+- Who: Klavdia Viktorovna's lifelong idol; Arkady uses his old connections to have Leshchenko phone Klavdia personally.
+- Voice only in story lines (or seen on TV in sc. 3): dignified man about 70, silver hair, dark stage suit. Role
+  `leshchenko` -> anja, label Лев Валерьянович.
+
+## Voice-only / minor roles (s01e04)
+- Менеджер автосалона (car dealership salesman/manager at «Синикар», sc. 4 and 22): sleek young man in a navy suit
+  `#2C3E58` with a red tie; role `manager` -> anja, label Менеджер.
+- Инспектор биржи труда (employment-centre clerk, sc. 7): tired woman about 45 in glasses and a grey cardigan `#7A8288`;
+  role `clerk` -> anja, label Инспектор.
+- Прохожий / Поклонница (fan on the street recognising Samson in the waffle-cone costume, sc. 9): young woman with a
+  smartphone; role `fan` -> anja, label Девушка.
+- Официант (waiter at the Italian restaurant «Франческо», sc. 25): polite young man in a white shirt and dark waistcoat
+  holding a menu and champagne bottle; role `waiter` -> anja, label Официант.
+- Фёдор Григорьевич (the calm Moscow partner from s01e02 sc. 11, named in s01e04 sc. 30): role `partner` -> anja, label
+  Фёдор Григорьевич (paired with `stepan` -> angelina, label Степан Геннадьевич).
+
 ## Places
 - Коммуналка (the communal flat): long dim corridor with old olive-green walls `#7C8B4F`, brown wooden doors,
   bicycles and coats on hooks, a single bare lamp; a shared kitchen with several old stoves; the shared toilet with a
@@ -242,6 +283,8 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
   corridor, warmer and brighter (a sepia-orange tint `#D9955B`).
 - Arkady's room in the flat: tiny, behind a wardrobe; narrow iron bed, faded wallpaper, the white box of the ankle-tag
   base station on a stool.
+- Klavdia Viktorovna's room in the flat (s01e04): cosy cluttered room with warm floral wallpaper `#B88B6A`, lace
+  doilies, framed old photographs, a sideboard, and new flat-screen TV boxes.
 - Mayor's office (мэрия; Pasha's office once he is acting mayor, s01e02 sc. 9): big desk of dark wood, tall window, flag-like coloured drape (no symbols), dominant deep
   blue `#3E5C8A`.
 - Square in front of the town hall: pale stone building with columns, a small stage with a microphone.
@@ -260,3 +303,7 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
 - Courtroom and judge's office (s01e03): wood-panelled room `#8A5A44`, high judge's bench.
 - Judge Berg's house (s01e03): warm room with soft teal walls `#5C8E8A`, a plush sofa, a bathroom basin for washing the
   little white dog.
+- Sinicar car dealership (автосалон «Синикар», s01e04): bright modern showroom with cool steel-blue glass walls
+  `#4F6D8A`, polished floor, and a gleaming dark-red or silver luxury SUV.
+- Francesco Italian restaurant (ресторан «Франческо», s01e04): warm candlelit dining room `#A64B3A` with white
+  tablecloths, champagne flutes, and a tiered seafood platter.
