@@ -17,7 +17,7 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
 - Appearance for the art (adult): man about 40, slim, light skin `#F6D2B5`, neat dark-brown hair with a side parting,
   small round thin-rimmed glasses, clean-shaven, a small confident smile. Navy suit `#2F3E66`, white shirt, red tie
   `#C8373B`. Under house arrest: same suit trousers, white shirt with rolled sleeves, tie gone, and a black ankle tag
-  with a small green light on his right ankle. Later in the flat: a bandaged finger (from s01e01 scene 17 on).
+  with a small green light on his right ankle; socks or slippers (the generator tends to draw him barefoot). Later in the flat: a bandaged finger (from s01e01 scene 17 on).
 - Appearance for the art (child, 1980s flashback): thin boy of about 10, big round glasses, dark-brown hair in a bowl
   cut, Soviet school uniform: blue jacket `#3D5A9E`, white shirt, red pioneer scarf `#D94A3D`.
 - Story role key / voice: `anya` -> alisa. Label: Аркадий.
@@ -66,8 +66,10 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
 - Story role key / voice: `vika` -> angelina. Label: Вика.
 
 ## Марина Сергеевна Валинкина (Marina Sergeyevna; university lecturer and activist; first seen s01e01)
-- Who: associate professor at Sineozersk University. Protests with her students against the demolition of the
-  monastery wall; refuses to back down when her dean threatens her job. Has a sick son.
+- Who: associate professor at Sineozersk University (surname garbled in the subtitles: Валинкина / Былинкина /
+  Булинкина). Protests with her students against the demolition of the monastery wall; fired by her dean (and
+  ex-lover) in s01e02. Lives in the same communal flat as Arkady with her son Lyosha. Approached by the security
+  service to inform on Arkady: refuses, then (end of s01e02) agrees.
 - Appearance for the art: woman about 33, light skin, dark-brown hair in a low bun with a pencil through it, no
   glasses, teal coat `#2E8F8A` over a mustard scarf `#E0B341`, a folder of papers held up like a placard.
 - Story role key / voice: `marina` -> angelina (or `anya` when she is the viewpoint character, label Марина).
@@ -95,11 +97,12 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
   small white box with a green light (the tag base station).
 - Story role key / voice: `officer` -> anja. Label: Офицер.
 
-## Соседка (the old neighbour in the communal flat; first seen s01e01)
-- Who: elderly pensioner who has lived in the flat since Arkady was a boy; calls him "Аркашка".
+## Клавдия Викторовна Сопрыкина (Klavdia; the old neighbour in the communal flat; first seen s01e01, named s01e02)
+- Who: elderly pensioner who has lived in the flat since Arkady was a boy; calls him "Аркашка". Communist and
+  believer, knows everything about everyone; keeps delicacies (her "bribes for the doctors") in a padlocked fridge.
 - Appearance for the art: tiny old woman about 80, light skin, white hair under a flowered headscarf, brown floral
   housecoat `#8A5A44`, thick cardigan, slippers.
-- Story role key / voice: `neighbour` -> angelina. Label: Соседка.
+- Story role key / voice: `klavdia` -> angelina (s01e01 used `neighbour`, label Соседка). Label: Клавдия Викторовна.
 
 ## Эдуард Владимирович (Eduard Vladimirovich; Marina's dean; first seen s01e01)
 - Appearance for the art: man about 60, light skin, grey hair and short grey beard, brown tweed jacket `#7B5B3A`,
@@ -118,8 +121,68 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
 
 - «Виктор Степанович» (scene 5): Arkady's cover name, in front of Vika, for the woman who phones him; voice only,
   not drawn. Role key `caller` -> anja, label Виктор Степанович.
-- Головамзюк = Николай Филиппович: Samson's boss on the building site; mentioned / phoned only, not drawn.
+- Головамзюк = Николай Филиппович: Samson's boss on the building site (drawn from s01e02, see his entry below).
 - Диктор (TV newsreader, scene 15): voice only, not drawn. Role key `newsreader` -> anja, label Диктор.
+
+## Лёша / Лёха (Lyosha; Marina's son; first seen s01e02)
+- Who: boy about 10 with a joint illness, walks on crutches, severely allergic to caviar; saving with his mum for a
+  games console (PSP); Arkady takes his piggy-bank money. Arkady calls him "Шнурок" (shoelace).
+- Appearance for the art: thin boy, light skin, straight light-brown hair with a fringe, big serious eyes, blue
+  zip-up sweatshirt `#4F7CC2`, two grey forearm crutches.
+- Story role key / voice: `lyosha` -> anja or angelina. Label: Лёша.
+
+## Виктор Степанович (the governor of the region; first seen s01e02 in person)
+- Who: Arkady's boss, vain and crude, practises judo for photos; Arkady saved him in his phone as "Свин" (Pig).
+  (In s01e01 scene 5 Arkady used his name as a cover for a woman caller.)
+- Appearance for the art: heavy man about 60, light skin, red cheeks, grey hair combed over a bald top, grey
+  moustache; white judo jacket with a black belt, or a dark-brown suit `#5A3E2B` with a gold tie.
+- Story role key / voice: `governor` -> anja. Label: Губернатор (or Виктор Степанович).
+
+## Пётр Олегович Третьяков (Tretyakov; powerful official in Moscow; heard s01e02)
+- Voice only (and Arkady's impression of him: "Ты всасываешь или не всасываешь?", "бандерлоги"). Not drawn.
+
+## Николай Филиппович Головамзюк (Samson's boss on the building site; seen s01e02)
+- Appearance for the art: man about 55, light skin, big belly, bald with grey fringe, bushy grey eyebrows, orange
+  hard hat `#E8873A`, checked shirt and grey padded vest.
+- Story role key / voice: `boss` -> anja or angelina. Label: Николай Филиппович.
+
+## Михаил Михайлович, "дядя Миша" (head of the local security service; first seen s01e02)
+- Appearance for the art: man about 55, light skin, stocky, grey crew cut, thick dark eyebrows, dark-green uniform
+  shirt `#4B5D3A` with shoulder boards (no badges/text), loud.
+- Story role key / voice: `chief` -> anja. Label: Михаил Михайлович.
+
+## Лёва Соколов (Lyova; lieutenant, the chief's nephew, stuck in the archive; first seen s01e02)
+- Appearance for the art: young man about 25, light skin, thin, curly ginger hair, big ears, oversized grey suit,
+  notebook in hand.
+- Story role key / voice: `lyova` -> angelina (or `anya`, label Лёва, when he is the viewpoint). Label: Лёва.
+
+## Майор Лавров and капитан Заварзин (security-service agents from Moscow; first seen s01e02)
+- Lavrov: man about 40, light skin, neat dark hair, black slim suit, black tie, calm. Role `lavrov` -> anja, label
+  Лавров.
+- Zavarzin: man about 35, light skin, shaved head, dark stubble, black leather jacket, sarcastic. Role `zavarzin`
+  -> angelina, label Заварзин.
+
+## Генерал Круглов, Георгий Борисович (general in Moscow, on video; s01e02)
+- Appearance (only on a screen): round-faced man about 60, light skin, grey hair, uniform. Role `general` -> angelina,
+  label Генерал Круглов.
+
+## Степан Геннадьевич (the angry "Moscow partner" of the cluster deal; s01e02)
+- Appearance for the art: man about 55, light skin, square head, short grey hair, navy coat over a suit, scowl.
+- Story role key / voice: `stepan` -> angelina. Label: Степан Геннадьевич.
+
+## Партнёр (the calm Moscow partner of the cluster deal; s01e02 sc. 11)
+- Appearance: man about 45, light skin, neat short dark-brown hair greying at the temples, dark-charcoal suit,
+  open-collar pale-blue shirt, brown leather briefcase. Says вы to Pasha. Role `partner` -> anja, label Партнёр.
+
+## Voice-only minor roles (s01e02)
+- Прораб / Бригадир (site foreman, sc. 13 and 26): role `foreman` -> angelina, label Прораб (sc. 13) / Бригадир (sc. 26).
+- Студентка (Marina's student, sc. 22): role `student` -> angelina, label Студентка.
+- Ксения (the governor's assistant, sc. 27): role `ksenia` -> angelina, label Ксения.
+- Labels for the governor vary by scene ("Виктор Степанович" / "Губернатор"); both name the same man.
+
+## Охрана (Arkady's former guards, led by Vitalik; s01e01-02)
+- Big young men in black suits and white shirts, short haircuts; Vitalik is the fair-haired one (also the driver).
+- Story role key / voice: `vitalik` -> anja or angelina. Label: Виталик.
 
 ## Places
 - Коммуналка (the communal flat): long dim corridor with old olive-green walls `#7C8B4F`, brown wooden doors,
@@ -128,8 +191,15 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
   corridor, warmer and brighter (a sepia-orange tint `#D9955B`).
 - Arkady's room in the flat: tiny, behind a wardrobe; narrow iron bed, faded wallpaper, the white box of the ankle-tag
   base station on a stool.
-- Mayor's office (мэрия): big desk of dark wood, tall window, flag-like coloured drape (no symbols), dominant deep
+- Mayor's office (мэрия; Pasha's office once he is acting mayor, s01e02 sc. 9): big desk of dark wood, tall window, flag-like coloured drape (no symbols), dominant deep
   blue `#3E5C8A`.
 - Square in front of the town hall: pale stone building with columns, a small stage with a microphone.
 - University: dean's office with bookshelves, warm brown.
 - Santa Fe café: dim, red booths `#A63D40`, a corner table half hidden by a plant.
+- Arkady and Vika's house (flashback, s01e02): big modern house, cream walls, a New Year tree with gold balls, a
+  dark leather sofa; warm gold `#E0B341` light.
+- Security-service headquarters: grey-green office, long table, a big wall screen (shapes only), filing boxes for
+  the archive; cold steel-grey `#6E7F8A`.
+- Building site: mud, a yellow excavator, stacked white radiators, a small site cabin with a kettle; orange and
+  grey.
+- Governor's office / gym: wood panels, a judo mat; restaurant: white tablecloths, dim amber.

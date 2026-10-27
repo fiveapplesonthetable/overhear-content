@@ -10,3 +10,4 @@ and checked, no shortcuts.
 | domashniy-arest | s01e01 | 28 (25 scripted) | 3 (10, 23, 28) | done: validate OK (19 gap warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s01e01 "Cécile" | 35 (28 scripted) | 7 (7, 9, 10, 15, 18, 22, 25) | done: validate OK (30 gap + 201 accented-name-in-narration warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s01e02 "Line et Françoise" | 31 (23 scripted) | 8 (7, 10, 13, 15, 18, 20, 23, 25) | done: validate OK (26 gap + 149 accented-name warnings, see NOTES.md), qa OK |
+| domashniy-arest | s01e02 | 34 (26 scripted) | 8 (4, 5, 7, 12, 19, 20, 30, 34) | done: validate OK (18 gap warnings, see NOTES.md), qa OK |
