@@ -178,6 +178,32 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - Appearance for the art: early 20s, deep skin #9A6341, short curls, bike courier jacket, cycling helmet.
 - Story role key / voice: `theo`. Label: Hugo.
 
+## Audrey Fleurot (star client, plays herself; Mathias's client, around 38, new mother of two small children; first seen s01e04)
+- Appearance for the art (stylised cartoon, not a portrait): tall, slim, pale porcelain skin #F6D2B5, long wavy fiery
+  copper-red hair, emerald-green top or emerald-green dress (or dark emerald blazer over a cream blouse; in the dance
+  studio / flat: black athletic leggings and emerald top), warm expressive face.
+- Story role key / voice: `lea` -> lucie when she is the viewpoint; otherwise `emilie`. Label: Audrey.
+- Speech: warm, witty, exhausted new mother; *tu* with Mathias, *vous* with the tax inspector, Augustin, and Armelle.
+
+## Tax inspector (auditing Audrey's personal taxes; first seen s01e04)
+- Appearance for the art: late 40s, light skin #F6D2B5, thinning brown hair, rectangular glasses, grey cardigan over a
+  white shirt and dark tie, calculator and stack of tax folders on desk.
+- Story role key / voice: `marcel`. Label: L'inspecteur.
+
+## Augustin (24-year-old internet comedy star directing his first feature film; first seen s01e04)
+- Appearance for the art: mid 20s, light skin #F6D2B5, messy light-brown hair, thin hipster moustache/stubble, burgundy
+  hoodie under a tan corduroy jacket, sneakers.
+- Story role key / voice: `theo` (or `marcel` when Mathias is `theo`). Label: Augustin.
+
+## Clémentine (Andréa's dramatic ex-girlfriend; first seen s01e04)
+- Appearance for the art: early 30s, light skin #F6D2B5, wavy blonde hair, trench coat and patterned scarf.
+- Story role key / voice: `emilie`. Label: Clémentine.
+
+## Armelle Borzek (young unknown actress replaced by Audrey; first seen s01e04)
+- Appearance for the art: late 20s, light skin #F6D2B5, dark-blonde hair in a messy bun, simple grey jumper and jeans,
+  red blistered palms.
+- Story role key / voice: `emilie`. Label: Armelle.
+
 ## Places
 - ASK offices: Haussmann building, tall windows, pale wood floors, glass partitions, desks with phones and scripts.
   Default dominant colour agency lilac `#A58BD3`; vary per scene (reception: lilac; meeting room: plum `#8E6FB8`;
@@ -209,3 +235,10 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - Camille's loft: small room under the roof, mirror, clothes rail, bed; warm coral `#E58F73`.
 - César ceremony reception: red carpet, gold lights, champagne; deep red `#B5424A` with gold.
 - Small theatre (Sofia's play): black stage, single spotlight; burgundy `#7A2E3E`.
+- Clothes shop (s01e04): racks of jackets and blouses, warm boutique mirror; dusty rose `#C9708A`.
+- Mathias's house (s01e04): warm bourgeois dining room / living room, bookshelves, framed photos, dining table; warm amber `#D99A4E`.
+- Dance studio (s01e04): mirrored wall, vertical chrome fitness pole in the centre, wooden floor; soft coral `#E58F73`.
+- Audrey's flat (s01e04): cosy Parisian flat, baby toys, sofa, warm lamps; soft peach `#F4A988`.
+- Hotel Saint-Georges (s01e04): boutique hotel reception desk, key rack, velvet wallpaper; deep teal `#2E7D7A`.
+- ASK rooftop (s01e04): zinc Parisian rooftops, chimney pots, twilight sky; night indigo `#5B5FA8`.
+- Charity gala (s01e04): UNICEF charity stage/backdrop, champagne reception; royal blue `#4A78B8` with gold `#E0B456`.
