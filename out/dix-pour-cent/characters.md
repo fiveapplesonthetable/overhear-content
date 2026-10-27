@@ -335,3 +335,12 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 - Appearance for the art: 50s, slick, well-dressed, light skin #F6D2B5.
 - Story role key / voice: `theo`. Label: François Bréhier.
 - Speech: smarmy, antagonistic.
+
+## Norman Thavaud (guest star s02e03)
+- Appearance for the art: late 20s, light skin #F6D2B5, wavy hair, casual vlogger clothes, expressive face.
+- Story role key / voice: `theo`. Label: Norman Thavaud.
+- Speech: informal, energetic, modern slang.
+
+## Aymar (driving instructor)
+- Appearance for the art: 40s, stressed driving instructor.
+- Story role key / voice: `marcel`. Label: Aymar.

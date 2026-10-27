@@ -230,3 +230,9 @@
 - Contains Fabrice Luchini and Christophe Lambert as guest stars.
 - Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
 - Central conflict is poaching Luchini from Starmédia using a fake James Bond casting.
+
+## s02e03 "Norman Thavaud"
+- 31 scenes in scenes.json.
+- Contains Norman Thavaud as the guest star.
+- Maintain A1 French level, keep all WALK translations starting with single quotes `'...'`.
+- Central conflict is Norman needing a driving license for a movie and Gabriel trying to help him pass or fake it.
