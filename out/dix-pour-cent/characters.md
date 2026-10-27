@@ -388,3 +388,18 @@ The generic reference "Léa" (blonde bob) in `art/style/` is the app's learner a
 
 ### Charlotte Gainsbourg (guest star s04e01)
 - **Charlotte Gainsbourg** (`charlotte`): The acclaimed actress who gets accidentally booked for an absurd sci-fi movie and desperately wants out.
+
+### Franck Dubosc (guest star s04e02)
+- **Franck Dubosc** (`franck`): The popular comedy actor who desperately wants to prove he can play a serious dramatic role in a cerebral film.
+
+### José Garcia (guest star s04e03)
+- **José Garcia** (`jose`): The energetic actor who reunites with his old friend and co-star but harbors an unspoken tension with her.
+
+### Sandrine Kiberlain (guest star s04e04)
+- **Sandrine Kiberlain** (`sandrine`): The celebrated French actress who suddenly wants to quit acting to pursue a career in stand-up comedy, much to her agent's dismay.
+
+### Sigourney Weaver (guest star s04e05)
+- **Sigourney Weaver** (`sigourney`): The legendary American Hollywood star who arrives in Paris expecting to star in a romance opposite Gaspard Ulliel, but instead finds an elderly Bernard Campan cast as her lover.
+
+### Jean Reno (guest star s04e06)
+- **Jean Reno** (`jean`): The legendary French actor who decides to retire from acting entirely in order to live a quiet life on a farm, throwing his agency into chaos.
