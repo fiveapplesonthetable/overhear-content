@@ -26,3 +26,4 @@ and checked, no shortcuts.
 | dix-pour-cent | s02e02 "Fabrice Luchini" | 29 (29 scripted) | 0 | done: validate OK (15 gap + 47 accented-name warnings, see NOTES.md), qa OK |
 | domashniy-arest | s01e10 | 42 (42 scripted) | 0 | done: validate OK (41 gap warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s02e03 "Norman Thavaud" | 31 (31 scripted) | 0 | done: validate OK (19 gap + 31 accented-name warnings, see NOTES.md), qa OK |
+| dix-pour-cent | s02e04 "Isabelle Adjani" | 29 (29 scripted) | 0 | done: validate OK (18 gap + 53 accented-name warnings, see NOTES.md), qa OK |
