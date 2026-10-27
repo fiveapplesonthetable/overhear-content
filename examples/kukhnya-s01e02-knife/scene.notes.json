@@ -1,0 +1,327 @@
+{
+ "_note": "EXCERPT: shows the format for 2 of the lines. A finished scene annotates every target-language line.",
+ "lines": [
+  {
+   "seg": 2,
+   "trans": "Chef, I didn't take it.",
+   "words": [
+    {
+     "t": "Шеф,",
+     "lemma": "шеф",
+     "pos": "noun",
+     "stress": "шеф",
+     "gloss": "chef, boss",
+     "gram": "nominative singular, masculine, used as address"
+    },
+    {
+     "t": "я",
+     "lemma": "я",
+     "pos": "pron",
+     "stress": null,
+     "gloss": "I",
+     "gram": "1st person singular, nominative"
+    },
+    {
+     "t": "не",
+     "lemma": "не",
+     "pos": "part",
+     "stress": null,
+     "gloss": "not",
+     "gram": "negation"
+    },
+    {
+     "t": "брала.",
+     "lemma": "брать",
+     "pos": "verb",
+     "stress": "брала́",
+     "gloss": "took (she)",
+     "gram": "past, feminine singular, imperfective"
+    }
+   ]
+  },
+  {
+   "seg": 4,
+   "trans": "I don't know.",
+   "words": [
+    {
+     "t": "Я",
+     "lemma": "я",
+     "pos": "pron",
+     "stress": null,
+     "gloss": "I",
+     "gram": "1st person singular, nominative"
+    },
+    {
+     "t": "не",
+     "lemma": "не",
+     "pos": "part",
+     "stress": null,
+     "gloss": "not",
+     "gram": "negation"
+    },
+    {
+     "t": "знаю.",
+     "lemma": "знать",
+     "pos": "verb",
+     "stress": "зна́ю",
+     "gloss": "know",
+     "gram": "present, 1st person singular, imperfective"
+    }
+   ]
+  }
+ ],
+ "lexicon": {
+  "шеф": {
+   "lemma": "шеф",
+   "stress": "шеф",
+   "pos": "noun",
+   "gender": "m",
+   "gloss": "chef; boss",
+   "meanings": [
+    {
+     "en": "head chef",
+     "note": "in a kitchen"
+    },
+    {
+     "en": "boss",
+     "note": "informal"
+    }
+   ],
+   "forms": {
+    "title": "Declension",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "nominative",
+       "шеф",
+       "шефы"
+      ]
+     },
+     {
+      "cells": [
+       "genitive",
+       "шефа",
+       "шефов"
+      ]
+     },
+     {
+      "cells": [
+       "dative",
+       "шефу",
+       "шефам"
+      ]
+     },
+     {
+      "cells": [
+       "accusative",
+       "шефа",
+       "шефов"
+      ]
+     },
+     {
+      "cells": [
+       "instrumental",
+       "шефом",
+       "шефами"
+      ]
+     },
+     {
+      "cells": [
+       "prepositional",
+       "шефе",
+       "шефах"
+      ]
+     }
+    ]
+   },
+   "moreForms": [],
+   "examples": [
+    {
+     "text": "Шеф на кухне.",
+     "trans": "The chef is in the kitchen."
+    }
+   ]
+  },
+  "я": {
+   "lemma": "я",
+   "stress": null,
+   "pos": "pron",
+   "gloss": "I",
+   "meanings": [
+    {
+     "en": "I",
+     "note": ""
+    }
+   ],
+   "forms": null,
+   "moreForms": []
+  },
+  "не": {
+   "lemma": "не",
+   "stress": null,
+   "pos": "part",
+   "gloss": "not",
+   "meanings": [
+    {
+     "en": "not",
+     "note": "goes right before the word it negates"
+    }
+   ],
+   "forms": null,
+   "moreForms": []
+  },
+  "брать": {
+   "lemma": "брать",
+   "stress": "брать",
+   "pos": "verb",
+   "aspect": "impf",
+   "pair": "взять",
+   "gloss": "to take",
+   "meanings": [
+    {
+     "en": "to take",
+     "note": "habitually or in progress"
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "беру",
+       "берём"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "берёшь",
+       "берёте"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "берёт",
+       "берут"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Past",
+     "columns": [
+      "",
+      "m",
+      "f",
+      "n",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "past",
+        "брал",
+        "брала",
+        "брало",
+        "брали"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Я не беру нож.",
+     "trans": "I'm not taking the knife."
+    }
+   ]
+  },
+  "знать": {
+   "lemma": "знать",
+   "stress": "знать",
+   "pos": "verb",
+   "aspect": "impf",
+   "pair": null,
+   "gloss": "to know",
+   "meanings": [
+    {
+     "en": "to know",
+     "note": "a fact or a person"
+    }
+   ],
+   "forms": {
+    "title": "Present",
+    "columns": [
+     "",
+     "sg",
+     "pl"
+    ],
+    "rows": [
+     {
+      "cells": [
+       "1st",
+       "знаю",
+       "знаем"
+      ]
+     },
+     {
+      "cells": [
+       "2nd",
+       "знаешь",
+       "знаете"
+      ]
+     },
+     {
+      "cells": [
+       "3rd",
+       "знает",
+       "знают"
+      ]
+     }
+    ]
+   },
+   "moreForms": [
+    {
+     "title": "Past",
+     "columns": [
+      "",
+      "m",
+      "f",
+      "n",
+      "pl"
+     ],
+     "rows": [
+      {
+       "cells": [
+        "past",
+        "знал",
+        "знала",
+        "знало",
+        "знали"
+       ]
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "text": "Я не знаю.",
+     "trans": "I don't know."
+    }
+   ]
+  }
+ }
+}
