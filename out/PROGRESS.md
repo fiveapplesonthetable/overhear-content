@@ -17,3 +17,4 @@ and checked, no shortcuts.
 | domashniy-arest | s01e04 | 30 (28 scripted) | 2 (5, 27) | done: validate OK (18 gap warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s01e05 "Julie et Joey" | 30 (28 scripted) | 2 (16, 26) | done: validate OK (26 gap + 70 accented-name warnings, see NOTES.md), qa OK |
 | domashniy-arest | s01e05 | 30 (29 scripted) | 1 (13) | done: validate OK (17 gap warnings, see NOTES.md), qa OK |
+| domashniy-arest | s01e06 | 31 (29 scripted) | 2 (14, 24) | done: validate OK (20 gap warnings, see NOTES.md), qa OK |
