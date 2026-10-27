@@ -1,0 +1,53 @@
+# domashniy-arest-s01e01-scene-08: review sheet
+
+Title: Кофе и кластер  (Coffee and the Cluster)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Домашний арест (Domashniy Arest) S1.01
+Cues 323-372. The subtitles garble the businessman's name (Саракелян); the script uses the standard form Аракелян. Arkady's crude teasing of Pasha about his private life (cues 363-371) is left out; the narrator only says that he teases Pasha and sends him off.
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Аня | Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста. | What a lovely morning! Lidia Alekseyevna, a cup of coffee, please. | #323 00:19:57: Какое хорошее утро<br>#324 00:20:02: Лидия Алексеевна<br>#324 00:20:02: пожалуйста | adapted: 'чашечку Американо' -> 'чашку кофе' |
+| 2 | Лидия Алексеевна | Хорошо, Аркадий Борисович. | Of course, Arkady Borisovich. | #325 00:20:04: Хорошо, Аркадий Борисович | verbatim |
+| 3 | Паша | Аркаш, можно? | Arkasha, may I come in? | #326 00:20:19: Аркаш, можно | verbatim |
+| 4 | Аня | Заходи. | Come in. | #327 00:20:19: Заходи | verbatim |
+| 5 | Паша | Реакция положительная. Людям нравится. | The reaction is positive. People like it. | #328 00:20:22: Реакция<br>#328 00:20:22: положительная | adapted: 'на вступление' dropped; 'Людям нравится' new, after cue 329 (the voters are in a good mood) |
+| 6 | Аня | Хорошо. А что с торговым центром? | Good. And what about the shopping centre? | #330 00:20:26: с торговым центром что | adapted: word order made standard, 'у нас' dropped, 'Хорошо' added |
+| 7 | Паша | Аракелян просит время. Сумма очень большая. | Arakelyan is asking for more time. The sum is very large. | #331 00:20:28: просит<br>#331 00:20:28: сумма очень большая | adapted: name normalised (Саракелян -> Аракелян); 'отсрочек' -> 'время' |
+| 8 | Аня | Три дня ему даём. Всё. | We give him three days. That's it. | #332 00:20:32: три дня ему даем<br>#333 00:20:33: Все | verbatim |
+| 9 | Паша | Аркаш, мне москвичи звонят каждый день. Может, всё-таки передумаем? | Arkasha, the people from Moscow call me every day. Maybe we should reconsider after all? | #337 00:20:39: мне москвичи звонят каждый день<br>#339 00:20:52: все-таки передумаем | adapted: 'слушай' and 'мы' dropped |
+| 10 | Аня | Я же сказал: нет. | I told you: no. | #341 00:20:55: сказал нет | adapted: 'чётко' (clearly) dropped |
+| 11 | Паша | Там такие деньги! Деньги рекой потекут. | There's so much money in it! Money will flow like a river. | #342 00:20:57: там такие<br>#344 00:21:02: рекой потекут | adapted: 'суммы' -> 'деньги', slang 'бабки' -> 'деньги' |
+| 12 | Аня | А потом отходы потекут. | And then waste will flow. | #345 00:21:03: А потом отходы потекут | verbatim |
+| 13 | Паша | Мы же бизнесом здесь занимаемся. | But we're in business here. | #346 00:21:05: бизнесом здесь занимаемся | adapted: 'вроде как' dropped, 'же' added |
+| 14 | Аня | Жадность, Паша, должна быть умеренная. Комнатной температуры. | Greed, Pasha, should be moderate. Room temperature. | #359 00:21:45: Жадность, Паша, должна быть умеренная<br>#360 00:21:51: Комнатной температуры | verbatim |
+| 15 | Аня | Посмотри, какой у нас город прекрасный. Озёра, луга. | Look what a beautiful town we have. Lakes, meadows. | #349 00:21:16: посмотри, какой у нас<br>#349 00:21:16: прекрасный<br>#350 00:21:22: Озера, луга | adapted: 'городок' -> 'город' |
+| 16 | Аня | Мы же здесь выросли. И о людях тоже надо думать. | After all, we grew up here. And you have to think about people too. | #352 00:21:26: здесь выросли<br>#354 00:21:30: И о людях тоже | adapted: 'все-таки' -> 'же'; 'думать надо' -> 'надо думать', 'Паш' dropped |
+| 17 | Паша | Я бы на твоём месте подумал. | If I were you, I'd think about it. | #361 00:21:53: я бы на твоем месте подумал | verbatim |
+| 18 | Аня | Вот поэтому ты и не на моём месте. | And that's exactly why you're not in my place. | #362 00:21:57: Вот поэтому<br>#362 00:21:57: ты и не на моём месте | adapted: 'Паш' dropped |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'What a lovely morning!' The word for 'what a' agrees with the neuter word for 'morning'. Then he calls his secretary.
+- 'Lidia Alekseyevna, a cup of coffee, please.' First name plus father's name: that's the polite way to address someone. The cup takes the accusative ending, because it's what he wants.
+- 'Of course, Arkady Borisovich.' She answers in the same polite style. Then his deputy, Pasha, puts his head round the door.
+- 'Arkasha, may I come in?' The second word means 'may I', or 'is it allowed'. A handy one-word question.
+- 'Come in.' Arkady uses the familiar form with Pasha. Pasha starts with the campaign news.
+- 'The reaction is positive. People like it.' Yesterday Arkady announced that he's running for mayor again, and the voters seem pleased. Notice the second sentence: literally, 'to people it is pleasing'. Arkady moves on to money.
+- 'Good. And what about the shopping centre?' A businessman, Arakelyan, has to pay a large sum to get the land for a new shopping centre.
+- 'Arakelyan is asking for more time. The sum is very large.' Arkady is not impressed.
+- 'We give him three days. That's it.' If the money doesn't come, Arkady says, the land goes to someone else. Now Pasha comes to what he really wants.
+- 'Arkasha, the people from Moscow call me every day.' Literally, 'to me Muscovites call'. Some Moscow investors want to build a huge industrial complex, a 'cluster', near the town.
+- 'Maybe we should reconsider after all?' It's the same verb Arkady used yesterday with Samson, about changing your mind. Arkady has already said no.
+- 'I told you: no.' The little word after 'I' adds emphasis, like 'I did tell you'. Pasha tries the money argument.
+- 'There's so much money in it! Money will flow like a river.' The word for 'river' here is in the instrumental case: it means 'like a river'. Arkady answers with the same verb.
+- 'And then waste will flow.' Factory waste, into the lakes. Pasha reminds him who they are.
+- 'But we're in business here.' He means: we're here to make money. Arkady has a funny answer.
+- 'Greed, Pasha, should be moderate. Room temperature.' Greed is fine, but not too hot. Then he points out of the window.
+- 'Look what a beautiful town we have. Lakes, meadows.' The town is called something like 'Blue Lakes', and it's full of them.
+- 'After all, we grew up here. And you have to think about people too.' The word for 'have to' has no person in it: it means 'one must'. In the show he adds, with a smile, 'not often, but you have to'. Pasha doesn't give up.
+- 'If I were you, I'd think about it.' Literally, 'I would, in your place, think'. The small word meaning 'would' plus a past-tense verb makes the 'would' form. And Arkady's reply is the punchline.
+- 'And that's exactly why you're not in my place.' After that he teases Pasha a little about his private life and sends him back to work.
