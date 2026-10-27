@@ -50,3 +50,4 @@ and checked, no shortcuts.
 | dix-pour-cent | s04e02 "Franck" | 25 (25 scripted) | 0 | done: validate OK (24 gap + 2 accented-name warnings, see NOTES.md), qa OK |
 | kukhnya | s01e10 | 46 (46 scripted) | 0 | done: validate OK (45 gap warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s04e03 "José" | 25 (25 scripted) | 0 | done: validate OK (24 gap + 2 accented-name warnings, see NOTES.md), qa OK |
+| kukhnya | s01e11 | 25 (25 scripted) | 0 | done: validate OK (24 gap warnings, see NOTES.md), qa OK |
