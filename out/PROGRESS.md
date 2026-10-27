@@ -31,3 +31,4 @@ and checked, no shortcuts.
 | domashniy-arest | s01e12 | 37 (37 scripted) | 0 | done: validate OK (36 gap warnings, see NOTES.md), qa OK |
 | dix-pour-cent | s02e05 "Guy Marchand" | 27 (27 scripted) | 0 | done: validate OK (17 gap + 33 accented-name warnings, see NOTES.md), qa OK |
 | kukhnya | s01e01 | 25 (25 scripted) | 0 | done: validate OK (24 gap warnings, see NOTES.md), qa OK |
+| dix-pour-cent | s02e06 "Juliette Binoche" | 31 (31 scripted) | 0 | done: validate OK (16 gap + 42 accented-name warnings, see NOTES.md), qa OK |
