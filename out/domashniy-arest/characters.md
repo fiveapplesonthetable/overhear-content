@@ -276,6 +276,87 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
 - Фёдор Григорьевич (the calm Moscow partner from s01e02 sc. 11, named in s01e04 sc. 30): role `partner` -> anja, label
   Фёдор Григорьевич (paired with `stepan` -> angelina, label Степан Геннадьевич).
 
+## Дядя Гриша и Костик (Uncle Grisha and Kostik; bumbling microloan debt collectors; first seen s01e05)
+- Who: two debt collectors from the microloan firm «Быстрый займ» who demand 150,000 roubles from Marina on a 20,000-rouble
+  loan she took for Lyosha's treatment; Grisha acts like an experienced tough guy ("Я пугаю, а ты иллюстрируешь") and takes
+  Arkady's $10,000 gold watch, while timid Kostik tries to make a scary face; both get effortlessly beaten up by Lavrov
+  and Zavarzin ("relatives from Armavir") and then by Arkady's former bodyguards.
+- Appearance for the art:
+  - Дядя Гриша (Uncle Grisha): burly man about 50, light skin, thick greying buzz-cut hair and moustache, black leather
+    cap `#2B2D38`, dark-brown leather jacket `#5A3E2B` over a black sweater, gold watch on his wrist (after sc. 16).
+    Role `grisha` -> anja (or `anya`, label Дядя Гриша, when he is the viewpoint). Label: Дядя Гриша.
+  - Костик (Kostik): lanky, nervous young man about 28, light skin, round face, short fair hair, burgundy tracksuit jacket
+    `#8E2F3B` with white stripes, trying to pull a comical "scary" frown. Role `kostik` -> angelina. Label: Костик.
+
+## Геннадий Андреевич и Андрюша (chairman and low-vision assistant at the Society of the Blind; s01e05)
+- Who: leaders of the Sineozersk branch of the All-Russian Society of the Blind (`Всероссийское общество слепых`), whose
+  old building Samson crashes into while packing dried sage (`шалфей`).
+- Appearance for the art:
+  - Геннадий Андреевич: stern man about 58, light skin, grey hair, round dark sunglasses `#2B2D38`, grey tweed suit
+    `#6E757C` over a white shirt, holding a white cane. Role `gennady` -> anja. Label: Геннадий Андреевич.
+  - Андрюша: younger man about 32, light skin, sandy hair, thick-lensed glasses (low vision, "слабовидящий"), green
+    cardigan `#4E8A6E`, carrying cardboard boxes of dried herbs. Role `andryusha` -> angelina (or `anja`). Label: Андрюша.
+
+## Лидия Алексеевна (Lydia Alexeyevna; City Hall archivist; s01e05 sc. 13 and 17)
+- Who: middle-aged City Hall archivist who is secretly devoted to Arkady Borisovich; helps Ilona copy Arkady's signed
+  building order and stalls Pasha in the corridor by throwing her arms around his neck and declaring her passionate love
+  for him ("Это моя женская честь!").
+- Appearance for the art: plump woman about 55, light skin, curly dyed-red hair `#A64B3A` pinned up in a bun, horn-rimmed
+  glasses on a chain, purple knitted shawl `#7A4E8A` over a floral blouse.
+- Story role key / voice: `lydia` -> anja (or `angelina`). Label: Лидия Алексеевна.
+
+## Вениамин Игоревич Игнатьев и его дочь Галина (Veniamin Igorevich Ignatyev and Galina; s01e06)
+- Who: wealthy owner of the Sineozersk meatpacking plant («Синеозёрский мясокомбинат») who despises both Arkady and
+  Osipenko because City Hall tried to squeeze his business, yet has a tender heart for orphans and adores his estranged
+  ballerina daughter Galina (`Галина Игнатьева`). After Ilona tricks Galina into overcoming her stage fright at a Moscow
+  audition, Galina reconciles with her father and convinces him to fund Samsonov's campaign.
+- Appearance for the art:
+  - Вениамин Игоревич Игнатьев: heavyset, broad-shouldered man about 54, light skin, thick silver-grey hair and short neatly
+    trimmed beard, warm brown tweed jacket `#6E523E` over a cream shirt `#F3E9D2` (or a white butcher's tasting coat over his
+    suit at the plant). Role `ignatyev` -> anja (or `angelina`). Label: Игнатьев (or Вениамин Игоревич).
+  - Галина Игнатьева: slender young woman about 20, light skin, dark-brown hair pulled into a tight high ballet bun `#3B2820`,
+    pale-pink ballet leotard `#E8B4B8` and wrap skirt, white tights and pointe shoes. Role `galina` -> anja (or `angelina`).
+    Label: Галина.
+
+## Voice-only / minor roles (s01e06)
+- Ирина Петровна (chairwoman of the Sineozersk election commission, sc. 4): poised woman about 50 in a dark-plum blazer
+  `#5E3A58`, pearl necklace, and glasses; role `irina` -> angelina, label Ирина Петровна.
+- Вася (wholesale sausage buyer at Ignatyev's meatpacking plant, sc. 5): stocky man about 42 in a dark-green quilted vest
+  `#3E5C4A` over a grey sweater; role `vasya` -> angelina, label Вася.
+- Инга Евгеньевна (Slavik's young English teacher, sc. 13): attractive woman about 28 with wavy blonde hair `#E2B857`,
+  glasses, and a modest navy blouse `#2C3E58`; role `inga` -> angelina, label Инга Евгеньевна.
+- Библиотекарь (strict elderly city librarian, sc. 16): thin woman about 62 with grey hair in a bun, rectangular glasses,
+  and a brown knitted cardigan `#7A5843`; role `librarian` (or `anya`) -> alisa/anja, label Библиотекарь.
+- Хореограф (ballet studio teacher, sc. 19): poised woman about 48 with a sleek dark bun, black turtleneck and wide dance
+  trousers `#2B2D38`; role `teacher` -> angelina, label Хореограф.
+- Капустина (Yulya's envious high-school classmate, sc. 20 and 21): teenage girl about 16 in a bright pink puffer jacket
+  `#D96B8A` and knit pom-pom hat; role `kapustina` -> anja, label Капустина.
+
+## Даниил, "Даня" / "дядя Даня" (Danya; Nina's handsome polite lawyer friend; seen s01e02, major role in s01e07)
+- Who: polite, well-dressed lawyer from Nina's law office who briefly visited Arkady in s01e02; in s01e07 he brings Nina
+  pastries, plays board games with the kids, brings a cheese fondue set (planning to learn to cook from Jamie Oliver), and joins
+  the family's winter shashlik picnic in the forest, effortlessly outshining a jealous Samsonov until Samsonov accidentally drops
+  an axe on Danya's finger.
+- Appearance for the art: handsome, clean-shaven man about 36, light skin, neat dark-brown hair parted on the side, warm friendly
+  smile; stylish camel or navy wool coat / quilted winter jacket `#2C3E58` over a cream cable-knit turtleneck sweater `#F3E9D2`.
+- Story role key / voice: `danya` -> anja or angelina (or `anya`, label Даня, when he is the viewpoint). Label: Даня.
+
+## Сунь-цзы (Sun Tzu; ancient Chinese strategist in Samsonov's dream; s01e07 sc. 15)
+- Who: author of *The Art of War* («Искусство войны»), who appears to Samsonov in a dream in s01e07 sc. 15 speaking like a tough
+  airborne commander and advising Samsonov to lure lawyer Danya onto his own territory in the forest.
+- Appearance for the art: wise East Asian man about 55, light-warm skin, high topknot bun and long thin greying moustache and
+  goatee beard, traditional dark-red and gold silk scholar-general robe `#8E2F3B` with wide sleeves.
+- Story role key / voice: `suntzu` -> angelina (or `anja`). Label: Сунь-цзы.
+
+## Voice-only / minor roles (s01e07)
+- Бабушка Аркадия (Arkady's late grandmother, imagined voice/portrait in sc. 2): sharp-tongued elderly woman in a vintage brooch
+  and dark shawl in an oval portrait frame; role `grandma` -> angelina, label Бабушка.
+- Травматолог / Доктор (hospital trauma doctor, sc. 11) and Вахтанг Суренович (hospital surgeon, sc. 33): man about 48 in a white
+  doctor's coat `#F3E9D2` over blue scrubs `#4F6D8A` and a white cap; role `doctor` -> anja, label Доктор (sc. 11) / Вахтанг
+  Суренович (sc. 33).
+- Денис Мишин (FSB IT technician, sc. 10): young man in glasses and a grey sweater fixing Colonel Mikhail Mikhailovich's computer;
+  role `tech` -> angelina, label Денис.
+
 ## Places
 - Коммуналка (the communal flat): long dim corridor with old olive-green walls `#7C8B4F`, brown wooden doors,
   bicycles and coats on hooks, a single bare lamp; a shared kitchen with several old stoves; the shared toilet with a
@@ -307,3 +388,17 @@ with voices `anja` / `angelina`. Grammar always follows the character, not the v
   `#4F6D8A`, polished floor, and a gleaming dark-red or silver luxury SUV.
 - Francesco Italian restaurant (ресторан «Франческо», s01e04): warm candlelit dining room `#A64B3A` with white
   tablecloths, champagne flutes, and a tiered seafood platter.
+- Society of the Blind (общество слепых, s01e05): old institutional room with peeling sage-green walls `#6B8E78`,
+  cardboard boxes and burlap sacks of dried green herbs, and a damaged wall/window from Samson's crash.
+- Golovkin's dacha (дача Данилы Головкина, s01e05): cosy two-storey pine-wood country house `#C9955B` with visibly
+  uneven wooden wall planks/seams, a dining table, and an old radio.
+- City Hall archive (архив мэрии, s01e05): tall metal shelving units packed with grey cardboard folders `#6E7F8A` and a
+  photocopier.
+- Microloan office «Быстрый займ» (офис микрозаймов, s01e05): cramped street-level booth `#7A8288` with a desk and metal
+  security grille.
+- Meatpacking plant office (мясокомбинат Игнатьева, s01e06): warm wood-panelled director's office `#8A5A44` with a tasting
+  table displaying sliced cured ham and sausages on wooden boards.
+- Ballet studio (балетный зал, s01e06): bright rehearsal hall with warm cream walls `#E8D8C8`, a wooden ballet barre along
+  a tall mirror, and a wooden stage floor.
+- City library and park footbridge (библиотека и мост через реку, s01e06): quiet Soviet-style library with tall wooden
+  bookshelves `#7A5843`, and a snowy iron footbridge `#4F6D8A` over a half-frozen river in the park.
