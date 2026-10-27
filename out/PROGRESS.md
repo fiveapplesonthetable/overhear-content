@@ -8,3 +8,4 @@ and checked, no shortcuts.
 | show | episode | scenes | merged | status |
 |---|---|---|---|---|
 | domashniy-arest | s01e01 | 28 (25 scripted) | 3 (10, 23, 28) | done: validate OK (19 gap warnings, see NOTES.md), qa OK |
+| dix-pour-cent | s01e01 "Cécile" | 35 (28 scripted) | 7 (7, 9, 10, 15, 18, 22, 25) | done: validate OK (30 gap + 201 accented-name-in-narration warnings, see NOTES.md), qa OK |
