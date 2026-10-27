@@ -1,0 +1,43 @@
+# dix-pour-cent-s04e03-scene-08: review sheet
+
+Title: L'arrivée d'Élise  (Élise's Arrival)
+Level: A1 — débutant
+Pair: fr-en
+Source: Dix pour cent (Call My Agent!) S04E03
+Cues 277-313. Élise Formain arrives at ASK and gives a welcome speech. While Andréa tries to welcome her, Gabriel refuses to join in and bitterly proposes a toast to the death of their agency principles.
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Élise | Merci à tous pour votre accueil chez ASK. | Thank you all for your welcome at ASK. | #279 00:15:19: merci à tous de m'accueillir chez ASK | adapted: Élise thanks the ASK team |
+| 2 | Léa | Bienvenue parmi nous dans notre équipe. | Welcome among us to our team. | #278 00:15:16: Élise, la parole est à toi | adapted: Andréa formally welcomes her |
+| 3 | Élise | J'ai une réputation un peu difficile. | I have a somewhat difficult reputation. | #281 00:15:24: j'ai une certaine mauvaise réputation | adapted: Élise acknowledges her fierce image |
+| 4 | Léa | Ici, nous respectons le bon travail. | Here, we respect good work. | #299 00:16:11: j'ai toujours admiré ton travail | adapted: Andréa values talent and competence |
+| 5 | Élise | Je veux travailler avec vous deux. | I want to work with you two. | #302 00:16:21: on a beaucoup à apprendre l'un de l'autre | adapted: Élise proposes close collaboration |
+| 6 | Élise | Vous êtes de très bons agents. | You are very good agents. | #294 00:15:59: d'excellents agents | adapted: Élise praises the partners |
+| 7 | Gabriel | Moi, je n'ai pas le temps. | As for me, I do not have time. | #310 00:16:43: je n'ai pas le temps pour ça | adapted: Gabriel rejects the pleasantries |
+| 8 | Léa | Gabriel, reste un instant avec nous. | Gabriel, stay a moment with us. | #309 00:16:42: Quant à toi, Gabriel | adapted: Andréa asks him to remain |
+| 9 | Gabriel | Je préfère retourner à mon bureau. | I prefer to return to my office. | #310 00:16:43: J'ai du travail | adapted: Gabriel seeks an exit |
+| 10 | Élise | Nous pouvons quand même trinquer ensemble. | We can still drink a toast together. | #311 00:16:49: Oui, je voudrais porter un toast | adapted: Élise tries to maintain harmony |
+| 11 | Gabriel | Je porte un toast très clair. | I propose a very clear toast. | #311 00:16:49: Écoutez bien | adapted: Gabriel grabs a glass |
+| 12 | Gabriel | À la fin de nos principes! | To the end of our principles! | #312 00:16:54: À la mort de nos principes ! | adapted: Gabriel delivers a bitter toast |
+| 13 | Élise | Ton accueil est vraiment très direct! | Your welcome is really very direct! | #306 00:16:32: C'est le moins qu'on puisse dire | adapted: Élise notes the sharp rebuke |
+| 14 | Léa | Pardon, nous sommes tous très fatigués. | Excuse us, we are all very tired. | #307 00:16:36: Désolé | adapted: Andréa tries to smooth over the tension |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Thank you all for your welcome at ASK.' Elise opens her speech with polite gratitude. The noun 'accueil' means welcome or reception.
+- 'Welcome among us to our team.' Andrea greets the newcomer warmly on behalf of the agency. The preposition 'parmi' means among.
+- 'I have a somewhat difficult reputation.' Elise frankly acknowledges her ruthless past at StarMedia. The adjective 'difficile' means difficult.
+- 'Here, we respect good work.' Andrea emphasizes ASK's professional values. The verb 'respecter' means to respect.
+- 'I want to work with you two.' Elise expresses her desire to collaborate with Andrea and Gabriel. The number 'deux' means two.
+- 'You are very good agents.' Elise flatters the senior partners of ASK. The adjective 'bons' modifies the masculine plural noun 'agents'.
+- 'As for me, I do not have time.' Gabriel coldly rejects her attempts at charm. The emphatic pronoun 'moi' stresses the subject.
+- 'Gabriel, stay a moment with us.' Andrea tries to defuse the brewing conflict. The imperative 'reste' comes from the verb 'rester'.
+- 'I prefer to return to my office.' Gabriel makes an excuse to leave the reception. The verb 'retourner' means to go back or return.
+- 'We can still drink a toast together.' Elise attempts to maintain a convivial atmosphere. The verb 'trinquer' means to clink glasses or toast.
+- 'I propose a very clear toast.' Gabriel steps forward with bitter sarcasm. The expression 'porter un toast' means to raise a toast.
+- 'To the end of our principles!' Gabriel raises his glass in solemn protest against the buyout. The noun 'principes' means moral principles.
+- 'Your welcome is really very direct!' Elise reacts with cool poise to Gabriel's blunt hostility. The adverb 'vraiment' means really.
+- 'Excuse us, we are all very tired.' Andrea apologizes to cover for her partner's explosive outburst. The adjective 'fatigues' means tired.
