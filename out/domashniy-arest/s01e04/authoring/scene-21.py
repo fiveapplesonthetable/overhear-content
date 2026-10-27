@@ -1,0 +1,110 @@
+ID = "domashniy-arest-s01e04-scene-21"
+SHOW = "domashniy-arest"
+SEASON = 1
+EPISODE = 4
+SCENE = 21
+TITLE = "Задание для адвоката  (A Task for the Lawyer)"
+LEVEL = "A1 — Duolingo Section 2"
+PAIR = "ru-en"
+VOICES = {"narrator": "sky", "anya": "alisa", "golovkin": "anja"}
+LABELS = {"anya": "Аркадий", "golovkin": "Головкин"}
+SOURCE_NAME = "Домашний арест (Domashniy Arest) S1.04"
+SOURCE_FILE = "sources/domashniy-arest/s01/e04.ru.dual.srt"
+SOURCE_NOTE = ("Cues 825-851. In cue 828 'мордатый' is dropped and 'лисицын' capitalised as the surname 'Лисицын'; "
+               "'пододвигай' (832) -> 'двигай'; 'Прониктоненно' (834) dropped. Cue 835 ('А я мне мерзость', garbled "
+               "for 'А по-моему, это мерзость') is retold cleanly with A1 'гадость' and 'Я не буду давать взятку'. "
+               "'150' in cue 842 is written out as 'сто пятьдесят'. Cue 844 ('Пользуйтесь, мой слабый') is restored "
+               "to 'Вы пользуетесь моей слабостью!'; cues 848-851 (Samson and Nina leaving in the background) are "
+               "covered by Scene 22.")
+
+INTRO = ("Out in the corridor of the communal flat, a moment later. Last time, Arkady stopped Klavdia Viktorovna from "
+         "giving her phone to Ilona by promising her a cemetery plot beside her late husband Grisha. Now Arkady pulls "
+         "his nervous lawyer Danila Golovkin into the hallway to explain how to buy that plot from the cemetery "
+         "administrator. Let's hear it in Russian first; don't worry about catching every word.")
+
+STORY = [
+ ("anya", "Данила, пойдём. Смотри, ничего сложного.",
+  "Danila, let's go. Look, there's nothing complicated.",
+  [(825, "Данила, пойдем"), (826, "Смотри"), (826, "ничего сложного")], ""),
+ ("anya", "Там на кладбище центральный вход.",
+  "There at the cemetery is the main entrance.",
+  [(826, "Там на кладбище центральный вход")], ""),
+ ("anya", "Входишь сразу налево, к администратору. Там сидит такой Лисицын.",
+  "You go in and turn straight left, to the administrator. A fellow named Lisitsyn sits there.",
+  [(827, "Входишь сразу налево, к администратору"), (828, "Там"), (828, "лисицын такой сидит")],
+  "'мордатый' dropped"),
+ ("anya", "Он тебе сразу грубо скажет: мест нет, уходите.",
+  "He'll tell you rudely right away: there are no plots, go away.",
+  [(829, "Он тебе сразу грубо"), (829, "скажет, мест нет, уходите")], "'так' dropped"),
+ ("anya", "А ты скажи: куда же я пойду? Понимаешь?",
+  "And you say: where am I supposed to go? Understand?",
+  [(830, "А ты"), (830, "куда же я пойду"), (831, "Понимаешь")], "'ему,' -> 'скажи:'"),
+ ("anya", "А сам конверт ему двигай. И главное, в глаза ему смотри.",
+  "And slide the envelope over to him yourself. And above all, look him in the eyes.",
+  [(832, "А сам конверт ему"), (833, "И главное, в глаза ему"), (833, "смотри")],
+  "'пододвигай' -> 'двигай'; 'так' dropped"),
+ ("golovkin", "А по-моему, это гадость! Я не буду давать взятку.",
+  "In my opinion, this is disgusting! I won't pay a bribe.",
+  [(835, "А")], "garbled cue 835 ('А я мне мерзость') retold cleanly at A1"),
+ ("anya", "Пошёл вон! Ты больше не мой адвокат.",
+  "Get out! You're no longer my lawyer.",
+  [(836, "Пошел вон"), (837, "Ты больше не мой адвокат")], ""),
+ ("anya", "И Нину свою ты больше не увидишь!",
+  "And you'll never see your Nina again!",
+  [(838, "И Нину свою ты больше не увидишь")], ""),
+ ("golovkin", "Согласен! Согласен!",
+  "I agree! I agree!",
+  [(839, "Согласен"), (840, "Согласен")], ""),
+ ("anya", "Тогда смотри. В конверте должно быть сто пятьдесят тысяч.",
+  "Then listen. There must be a hundred and fifty thousand in the envelope.",
+  [(841, "Тогда смотри"), (842, "В конверте должно быть"), (842, "тысяч")],
+  "'150' written out as 'сто пятьдесят'"),
+ ("golovkin", "Вы пользуетесь моей слабостью!",
+  "You're taking advantage of my weakness!",
+  [(844, "мой")], "garbled cue 844 ('Пользуйтесь, мой слабый') restored"),
+ ("anya", "Конечно, пользуюсь. Это шантаж.",
+  "Of course I am. It's blackmail.",
+  [(845, "Конечно, пользуюсь. Это шантаж")], ""),
+ ("anya", "Давай, Даня, иди. Действуй!",
+  "Come on, Danya, go. Get to work!",
+  [(846, "Давай"), (847, "Иди. Действуй")], "'Данечка' -> 'Даня'; 'злодействуй' dropped"),
+]
+
+OPENER = "Let's take the conversation line by line. Arkady leads Golovkin out into the hallway to give him his instructions."
+
+WALK = [
+ (0, None,
+  "'Danila, let's go. Look, there's nothing complicated.' After 'nothing', the adjective takes the genitive ending: 'nothing of complicated'."),
+ (1, None,
+  "'There at the cemetery is the main entrance.' After 'at', the word for 'cemetery' is in the prepositional case."),
+ (2, None,
+  "'You go in and turn straight left, to the administrator. A fellow named Lisitsyn sits there.' Russian uses the present tense 'you go in' to give step-by-step directions, just like English."),
+ (3, None,
+  "'He'll tell you rudely right away: there are no plots, go away.' With 'there are no', the word for 'places' takes the genitive plural, which has no ending at all."),
+ (4, None,
+  "'And you say: where am I supposed to go? Understand?' That helpless question is the signal that you are ready to pay."),
+ (5, None,
+  "'And slide the envelope over to him yourself. And above all, look him in the eyes.' Literally, 'and yourself move the envelope to him'. Honest Golovkin is horrified."),
+ (6, None,
+  "'In my opinion, this is disgusting! I won't pay a bribe.' Literally, 'to give a bribe'. Arkady doesn't argue; he simply pulls the lever he has over the lovesick lawyer."),
+ (7, None,
+  "'Get out! You're no longer my lawyer.' Literally, 'no more my lawyer'."),
+ (8, None,
+  "'And you'll never see your Nina again!' Because Golovkin only comes to the flat to catch a glimpse of his childhood sweetheart Nina, he caves in within half a second."),
+ (9, None,
+  "'I agree! I agree!' The short masculine form matches a male speaker. Arkady doesn't miss a beat."),
+ (10, None,
+  "'Then listen. There must be a hundred and fifty thousand in the envelope.' And of course, since Arkady has no money, Golovkin has to pay that out of his own pocket too."),
+ (11, None,
+  "'You're taking advantage of my weakness!' The verb for 'making use of' takes the instrumental case: 'with my weakness'. Arkady grins."),
+ (12, None,
+  "'Of course I am. It's blackmail.' He admits it cheerfully."),
+ (13, None,
+  "'Come on, Danya, go. Get to work!' The last command literally means 'act!' or 'take action!'."),
+]
+
+TRANSITION = "Let's listen to the whole scene again from start to finish."
+
+OUTRO = ("So poor Golovkin is off to the cemetery with another hundred and fifty thousand roubles of his own savings, "
+         "all for the sake of seeing Nina in the corridor. Great job following that scene in Russian. See you next time.")
+CLOSING = ("anya", "Иди, действуй!")
