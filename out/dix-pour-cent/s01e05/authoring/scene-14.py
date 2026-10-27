@@ -70,37 +70,33 @@ OPENER = "Let's go through the scene line by line and look at how each sentence 
 
 WALK = [
  (0, None,
-  "Samir explains the crunch: with all these delays, we have half a day left in the barn. The impersonal construction "
-  "literally says there remains to us."),
+  "'With all these delays, we have half a day left in the barn.' The impersonal construction literally means 'there remains to us'."),
  (1, None,
-  "He adds that he had to rewrite the schedule. Notice the past participle of the verb must with a circumflex accent on "
-  "the vowel."),
+  "'I had to rewrite the schedule.' Notice the past participle of 'must' with a circumflex accent."),
  (2, None,
-  "Then he drops the bombshell: we shoot the love scene tomorrow. In French cinema, the verb for turning a camera reels "
-  "means to shoot or film."),
+  "'We shoot the love scene tomorrow.' In French cinema, the verb for turning camera reels means to shoot or film."),
  (3, None,
-  "Thinking of how tense Julie and JoeyStarr still are, Andrea replies cautiously: maybe it is not the right time."),
+  "'Maybe it is not the right time.' Andréa tries to buy time for her reluctant actress."),
  (4, None,
-  "Samir is inflexible: it is tomorrow, we have no choice!"),
+  "'It is tomorrow, we have no choice!' Samir is completely inflexible."),
  (5, None,
-  "Andrea tries to reassure him: we are going to manage, Samir. The pronoun for there combines with the verb for arriving "
-  "to mean to manage or pull it off."),
+  "'We are going to manage, Samir.' The pronoun 'there' combines with the verb for 'arriving' to mean 'to pull it off'."),
  (6, None,
-  "Samir shrugs — if you say so — and leaves the hard part to her: tell the actors, I am too busy."),
+  "'If you say so. Tell the actors, I am too busy.' Samir leaves the hard conversation to the agents."),
  (7, None,
-  "Inside the hotel room, Julie groans at the news and asks: why are there always love scenes?"),
+  "'Why are there always love scenes?' Inside the hotel bedroom, Julie groans at the news."),
  (8, None,
-  "She argues that it would be so much stronger to suggest it symbolically, using the conditional form of to be."),
+  "'It would be so much stronger to suggest it symbolically.' She argues for an artistic compromise using the conditional."),
  (9, None,
-  "Andrea raises an eyebrow and asks: meaning what? This hyphenated phrase literally means that is to say."),
+  "'Meaning what?' This hyphenated phrase literally means 'that is to say'."),
  (10, None,
-  "Put on the spot, Julie says: I do not know."),
+  "'I don't know.' Put on the spot, Julie scrambles for an example."),
  (11, None,
-  "Then she pitches old-fashioned cinema metaphors: a flowing river, or animals frolicking in the woods?"),
+  "'A flowing river? Animals frolicking in the woods?' She pitches vintage poetic cinema metaphors."),
  (12, None,
-  "Andrea answers with dry sarcasm: yes, the audience would prefer to see rabbits in the woods!"),
+  "'Yes! The audience would prefer to see rabbits in the woods.' Andréa replies with dry, affectionate sarcasm."),
  (13, None,
-  "And she finishes the thought: rather than you and JoeyStarr together on screen!"),
+  "'Rather than you and JoeyStarr together on screen!' She reminds Julie what the public really paid to see."),
 ]
 
 TRANSITION = "Now let's hear the whole conversation again from start to finish."

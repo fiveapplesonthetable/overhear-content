@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- Samir explains the crunch: with all these delays, we have half a day left in the barn. The impersonal construction literally says there remains to us.
-- He adds that he had to rewrite the schedule. Notice the past participle of the verb must with a circumflex accent on the vowel.
-- Then he drops the bombshell: we shoot the love scene tomorrow. In French cinema, the verb for turning a camera reels means to shoot or film.
-- Thinking of how tense Julie and JoeyStarr still are, Andrea replies cautiously: maybe it is not the right time.
-- Samir is inflexible: it is tomorrow, we have no choice!
-- Andrea tries to reassure him: we are going to manage, Samir. The pronoun for there combines with the verb for arriving to mean to manage or pull it off.
-- Samir shrugs — if you say so — and leaves the hard part to her: tell the actors, I am too busy.
-- Inside the hotel room, Julie groans at the news and asks: why are there always love scenes?
-- She argues that it would be so much stronger to suggest it symbolically, using the conditional form of to be.
-- Andrea raises an eyebrow and asks: meaning what? This hyphenated phrase literally means that is to say.
-- Put on the spot, Julie says: I do not know.
-- Then she pitches old-fashioned cinema metaphors: a flowing river, or animals frolicking in the woods?
-- Andrea answers with dry sarcasm: yes, the audience would prefer to see rabbits in the woods!
-- And she finishes the thought: rather than you and JoeyStarr together on screen!
+- 'With all these delays, we have half a day left in the barn.' The impersonal construction literally means 'there remains to us'.
+- 'I had to rewrite the schedule.' Notice the past participle of 'must' with a circumflex accent.
+- 'We shoot the love scene tomorrow.' In French cinema, the verb for turning camera reels means to shoot or film.
+- 'Maybe it is not the right time.' Andréa tries to buy time for her reluctant actress.
+- 'It is tomorrow, we have no choice!' Samir is completely inflexible.
+- 'We are going to manage, Samir.' The pronoun 'there' combines with the verb for 'arriving' to mean 'to pull it off'.
+- 'If you say so. Tell the actors, I am too busy.' Samir leaves the hard conversation to the agents.
+- 'Why are there always love scenes?' Inside the hotel bedroom, Julie groans at the news.
+- 'It would be so much stronger to suggest it symbolically.' She argues for an artistic compromise using the conditional.
+- 'Meaning what?' This hyphenated phrase literally means 'that is to say'.
+- 'I don't know.' Put on the spot, Julie scrambles for an example.
+- 'A flowing river? Animals frolicking in the woods?' She pitches vintage poetic cinema metaphors.
+- 'Yes! The audience would prefer to see rabbits in the woods.' Andréa replies with dry, affectionate sarcasm.
+- 'Rather than you and JoeyStarr together on screen!' She reminds Julie what the public really paid to see.
