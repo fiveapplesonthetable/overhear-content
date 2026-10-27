@@ -207,3 +207,17 @@
   - s30: narrates Hippolyte's angry questions in the hallway (cues 725–734) in the walkthrough to stay within three voices (Camille, Mathias, Catherine), and keeps the champagne birthday scene and final cliffhanger ("J'ai quelque chose à te dire.") in full.
 - Final check s01e05: validator `OK: 0 errors, 96 warnings` = 70 accented-name warnings + 26 inter-scene gaps;
   qa.py `QA OK (28 scenes)`.
+
+## s01e06 "François"
+- 30 scenes in scenes.json.
+- Scene 1: François's swearing in cue 26 cleaned up for A1 retelling.
+- Scene 2: The opening pool duck standoff (cues 29–31) is bridged in INTRO; "ton père" in cue 48 adjusted to "mon père" from Camille's perspective.
+- Scene 3: Number 23 in cue 72 written out as "vingt-trois"; Catherine's realization that Mathias cheated during her pregnancy; obscenities in cue 81 cleaned up.
+- Scene 7: Vulgar expressions in cues 189–190 cleaned to A1.
+- Scene 8: Camille packs her things; "sous-vêtements" simplified to "vêtements".
+- Scene 9: Classical Dom Juan speech simplified; vulgarity omitted.
+- Scene 10: Theatrical producer's threat of lawsuit over Berléand's punch is simplified to clean A1.
+- Scene 11: Camille's café meeting with Hippolyte inventing portmanteaus.
+- Scene 12: Berléand's confession of never having learned to swim is preserved; insult in cue 338 cleaned.
+- Scene 27: Long legal clauses in Colette's tax audit verdict simplified for A1.
+- General: Swearing and explicit insults removed. All WALK narrator glosses begin with single-quoted English translations (`'...'`), checked and verified.
