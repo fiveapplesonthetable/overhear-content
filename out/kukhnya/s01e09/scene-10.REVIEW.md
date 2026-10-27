@@ -1,0 +1,32 @@
+# kukhnya-s01e09-scene-10: review sheet
+
+Title: Папина дочка  (Daddy's Girl)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Кухня (Kukhnya) S1.09
+Cues 224-244. Vika and little Alisa greet restaurant guests with awkward bluntness before Chef Barinov arrives to check the kitchen.
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Аня | Добрый день, добро пожаловать в ресторан! | Good afternoon, welcome to the restaurant! | #224 00:14:01: Добрый день<br>#226 00:14:05: Мы с моей помощницей рады видеть вас в нашем ресторане | verbatim |
+| 2 | Алиса | Здравствуйте, а это ваша девушка? | Hello, is that your girlfriend? | #227 00:14:10: Здравствуйте<br>#229 00:14:15: А это твоя девушка? | verbatim |
+| 3 | Аня | Алиса, веди себя прилично с гостями. | Alisa, behave decently with the guests. | new | new |
+| 4 | Алиса | У меня был дедушка в Новороссийске. | I had a grandfather in Novorossiysk. | #230 00:14:19: У меня тоже был дедушка в Новороссийске | verbatim |
+| 5 | Алиса | Но он умер в прошлом году. | But he died last year. | #231 00:14:23: Только он умер | verbatim |
+| 6 | Аня | А вот наконец и твой папа! | And here at last is your dad! | #233 00:14:32: вот и папа | verbatim |
+| 7 | Алиса | Папа, пойдём скорее играть со мной! | Dad, let us go play with me quickly! | #237 00:14:43: Пап, давай играть | verbatim |
+| 8 | Шеф | Сначала я проверю работу наших поваров. | First I will check our cooks' work. | #238 00:14:45: Давай-ка я сначала посмотрю, как готовят эти инвалиды | verbatim |
+| 9 | Шеф | Кладите меньше пармезана в это блюдо! | Put less Parmesan into this dish! | #239 00:14:50: Меньше пармезана | verbatim |
+| 10 | Шеф | Соус заказали целых полчаса назад. | The sauce was ordered a whole half-hour ago. | #241 00:14:56: Соус полчаса назад заказали | verbatim |
+| 11 | Шеф | Шевелитесь быстрее, гости долго ждут заказ. | Move faster, the guests have been waiting long for the order. | #242 00:14:58: Шевелись | verbatim |
+| 12 | Алиса | Папа всегда так громко командует. | Dad always commands so loudly. | new | new |
+| 13 | Аня | Твой папа — настоящий хозяин кухни. | Your dad is the true master of the kitchen. | #236 00:14:41: Папина дочка | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Hello, is that your girlfriend?' A direct and humorous question demonstrating childish frankness with a demonstrative pronoun.
+- 'Alisa, behave decently with the guests.' Victoria gently instructs the child with an imperative verb and an instrumental prepositional phrase.
+- 'First I will check our cooks' work.' A future tense perfective statement showing the chef's dedication to quality in the kitchen.
+- 'Move faster, the guests have been waiting long for the order.' A brisk imperative followed by an explanation of customer delays for the team.
