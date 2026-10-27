@@ -1,0 +1,41 @@
+# domashniy-arest-s01e11-scene-23: review sheet
+
+Title: Предложение уехать  (An Offer to Leave)
+Level: A1 — Duolingo Section 2
+Pair: ru-en
+Source: Домашний арест (Domashniy Arest) S1.11
+
+
+Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+
+| # | Speaker | Script line | English meaning | Source subtitle line | Note |
+|---|---|---|---|---|---|
+| 1 | Аня | Марина, послушай меня очень внимательно. | Marina, listen to me very carefully. | #676 00:37:20: Я уезжаю | verbatim |
+| 2 | Марина | Аркадий, что ты опять хочешь сказать? | Arkady, what do you want to say again? | #677 00:37:22: Отстань от нас | verbatim |
+| 3 | Аня | Я уезжаю сегодня навсегда из города. | I am leaving the city forever today. | #676 00:37:20: Я уезжаю | verbatim |
+| 4 | Марина | И куда же ты теперь поедешь? | And where will you go now? | #676 00:37:20: Я уезжаю | verbatim |
+| 5 | Аня | Я улетаю за границу, поехали вместе! | I am flying abroad, let's go together! | #676 00:37:20: Поехали со мной | verbatim |
+| 6 | Марина | Пожалуйста, немедленно отстань от нашей семьи! | Please, immediately leave our family alone! | #677 00:37:22: Отстань от нас | verbatim |
+| 7 | Аня | Я не шучу и реально сваливаю отсюда. | I am not joking and am seriously getting out of here. | #678 00:37:23: Я реально сваливаю | verbatim |
+| 8 | Марина | Мне совершенно не интересны твои планы. | I am completely not interested in your plans. | #679 00:37:25: все равно | verbatim |
+| 9 | Аня | Неужели тебе действительно всё равно? | Do you really not care at all? | #679 00:37:25: Неужели тебе действительно все равно | verbatim |
+| 10 | Марина | Да, мне совсем всё равно на тебя. | Yes, I completely do not care about you. | #677 00:37:22: Отстань от нас | verbatim |
+| 11 | Аня | Там нас ждут огромные деньги и свобода. | Huge money and freedom await us there. | #676 00:37:20: Поехали со мной | verbatim |
+| 12 | Марина | Уходи отсюда, твои деньги мне не нужны! | Go away from here, I do not need your money! | #677 00:37:22: Отстань | verbatim |
+| 13 | Аня | Тогда прощай, я должен срочно уйти. | Then farewell, I must urgently leave. | #678 00:37:23: Я реально сваливаю | verbatim |
+
+## Walk-through narration (English only, no target-language words quoted)
+
+- 'Marina, listen to me very carefully.' Imperative singular verb followed by an accusative pronoun and an adverb of manner.
+- 'Arkady, what do you want to say again?' Interrogative pronoun with a modal verb and an infinitive.
+- 'I am leaving the city forever today.' Present verb of departure governing a prepositional phrase with the genitive case.
+- 'And where will you go now?' Directional question word with an emphatic particle and a future perfective verb.
+- 'I am flying abroad, let's go together!' Unidirectional motion verb followed by an accusative destination and an inclusive imperative.
+- 'Please, immediately leave our family alone!' Polite particle followed by a perfective imperative with the genitive case.
+- 'I am not joking and am seriously getting out of here.' Negative present verb coordinated with a colloquial verb of departure.
+- 'I am completely not interested in your plans.' Dative experiencer with a negative short-form plural adjective.
+- 'Do you really not care at all?' Rhetorical question particle with a dative pronoun and a fixed adverbial predicate.
+- 'Yes, I completely do not care about you.' Affirmative particle with an intensifying adverb and a prepositional phrase.
+- 'Huge money and freedom await us there.' Transitive third-person plural verb governing an accusative direct object.
+- 'Go away from here, I do not need your money!' Imperative of dismissal paired with a short-form plural adjective.
+- 'Then farewell, I must urgently leave.' Parting farewell formula followed by a masculine modal adjective and a perfective infinitive.
