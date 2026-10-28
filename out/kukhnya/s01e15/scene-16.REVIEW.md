@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, well what is this?' Russian has a gentle phrase for 'what's going on?', and this is it. Literally it is 'well what such', and it is a good one to learn early.
+- 'Lyova, well what is this?' Russian has a gentle phrase for 'what's going on?'. Literally it is 'well what such'.
 - 'What do you want to say?' Russian says 'what you want to say', with no helper word, and the saying word stays in its basic shape after 'want'.
-- 'What kind of circus did you stage?' 'Chto za' is 'what kind of'. 'Ustroil' is 'arranged', and Russians use it for staging a scene.
+- 'What kind of circus did you stage?' 'What kind of' asks about quality. 'Stage' is the Russian for arranging a scene.
 - 'I did not stage anything.' Russian wants the double negative here, 'nothing' plus 'not', and the staging word is in its repeated form. Lyova denies the lot.
-- 'Viktor Petrovich needs to sleep well.' The word for 'sleep well' starts with 'vy', meaning 'out' or 'enough', so it's 'sleep your fill'. The needing person goes in the 'to' form.
+- 'Viktor Petrovich needs to sleep well.' 'Sleep well' starts with 'vy', meaning 'out' or 'enough', so it's 'sleep your fill'. The person in need goes in the 'to' form.
 - 'Why does he need to sleep?' The one who needs sleep goes in the 'to him' form, so Russian says 'why to him to sleep'. Lyova is baffled.
-- 'You know his situation.' The word for 'his' never changes, whatever it describes. 'Situatsiyu' is the English word with a Russian ending.
+- 'You know his situation.' 'His' never changes, whatever it describes. 'Situation' is the English word with a Russian ending.
 - 'He has a sick heart.' Russian says 'at him a sick heart' where English says 'he has'. The little word for 'at' does the work of 'has'.
 - 'He has a sick heart?' Lyova repeats it as a question. In Russian only the tone changes, with no 'does' needed.
-- 'It is me who has a sick heart.' The same 'at me' pattern is used here, with the word for 'it is' in front. The joke is that the one with the bad heart is Lyova.
+- 'It is me who has a sick heart.' The same 'at me' pattern appears, with 'it is' in front. The joke is that Lyova is the one with the bad heart.
 - 'You need to calm down, Lyova.' Russian says 'to you it is necessary', and the calming word ends in 'sya', which makes it 'calm yourself'.
-- 'I cannot work in such stress.' 'V takom stresse' is 'in such stress', and the 'e' ending goes with 'in'. 'Ne mogu' is 'I can't'.
+- 'I cannot work in such stress.' 'In such stress' puts an 'e' on 'stress'. 'I can't' comes before the action.

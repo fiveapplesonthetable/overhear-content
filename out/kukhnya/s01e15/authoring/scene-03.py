@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyuba': 'Люба'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = 'Barinov is fast asleep with a hangover when his phone starts ringing. It is Lyuba, from the restaurant, reminding him about work. Here is the call in Russian first.'
-OPENER = "Let's go through the call slowly, line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Barinov hangs up, and tries to get a few more minutes in bed. When you watch, notice how awake he pretends to be. See you next time.'
+INTRO = 'Barinov is fast asleep with a hangover when his phone starts ringing. It is Lyuba, from the restaurant, reminding him about work. The call comes first, in Russian.'
+OPENER = 'The call, line by line.'
+TRANSITION = 'Now the call again, from the first ring.'
+OUTRO = 'Barinov hangs up, and tries to get a few more minutes in bed. Notice how awake he pretends to be. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Что за шум с утра пораньше?', 'What is that noise early in the morning?', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'А я шеф, я немного задержусь!', 'And I am the chef, I will be a little late!', [(20, 'А я задержусь')], ''),
 ]
 WALK = [
-    (0, None, "'What is that noise early in the morning?' 'Chto za' asks 'what kind of'. 'S utra poranshe' is 'from morning, a bit early', and it's a common phrase for an unreasonably early hour."),
+    (0, None, "'What is that noise early in the morning?' 'What kind of' is the opener. 'From morning, a bit early' is a common way to complain about an unreasonable hour."),
     (1, None, "'Who is calling me so early in the morning?' 'Mne zvonit' is 'to me phones', so the person phoned goes in the 'to me' form. 'Utrom' ends in 'om' to mean 'in the morning'."),
-    (2, None, "'Hello, Viktor Petrovich, are you up already?' 'Vstali' is the plural past, 'have you got up'. Lyuba uses 'vy', the polite form, to her boss, and the plural ending shows it."),
-    (3, None, "'Of course, I have been up for a long time.' 'Na nogakh' is 'on feet', which is the Russian way to say 'up and about'. 'Davno' means 'long ago'."),
-    (4, None, "'You are lying to me, you are still sleeping!' 'Obmanyaete' is the polite 'you deceive'. 'Eshchyo' means 'still' here, and it's the same word as 'more' or 'yet'."),
-    (5, None, "'I am cheerful and full of new strength.' 'Polon' is 'full' and the full thing follows it with 'of' in the ending, 'novykh sil'. 'Bodry' is 'brisk', as in 'bright-eyed'."),
-    (6, None, "'Viktor Petrovich, you will be late for work!' The word for 'will be late' is in the future, with 'vy' as the polite 'you'. 'Na rabotu' is 'to work'."),
-    (7, None, "'Lyuba, leave me alone, I know my business.' 'Otstan' is literally 'fall behind', and it's the rude way to say 'get off my back'. 'Svoyo delo' is 'my own business', the thing you're good at."),
-    (8, None, "'The restaurant is opening soon for guests.' 'Otkryvaetsya' ends in 'sya', so the restaurant 'opens itself'. 'Skoro' is 'soon'."),
+    (2, None, "'Hello, Viktor Petrovich, are you up already?' Lyuba uses the polite 'you', and the plural ending on 'have you got up' shows it. She is talking to her boss."),
+    (3, None, "'Of course, I have been up for a long time.' 'Na nogakh' is literally 'on feet', Russian for 'up and about'. 'Davno' covers the 'have been'."),
+    (4, None, "'You are lying to me, you are still sleeping!' The polite 'you deceive' is a strong accusation. 'Eshchyo' means 'still' here, and it also means 'more' or 'yet'."),
+    (5, None, "'I am cheerful and full of new strength.' 'Full' wants an 'of' ending on the thing, 'of new strengths'. 'Cheerful' is the word for brisk and bright-eyed."),
+    (6, None, "'Viktor Petrovich, you will be late for work!' Lyuba stays polite and puts 'will be late' in the future. 'Na rabotu' needs a 'u' on 'rabota' to show the direction."),
+    (7, None, "'Lyuba, leave me alone, I know my business.' 'Otstan'' is literally 'fall behind', and it's rude for 'get off my back'. 'Svoyo delo' is 'my own business', the thing he's good at."),
+    (8, None, "'The restaurant is opening soon for guests.' The restaurant 'opens itself', so 'otkryvaetsya' ends in 'sya'. 'Skoro' is just 'soon'."),
     (9, None, "'You are the one who will be late for the shift today!' 'Eto ty' is 'it's you who', a handy way to hit back. 'Na smenu' is 'for the shift'."),
-    (10, None, "'And when will you arrive at the kitchen yourself?' 'Sami' means 'yourselves', and it's in the plural because Lyuba is polite. The little 'a' at the start is a stern 'and what about'."),
+    (10, None, "'And when will you arrive at the kitchen yourself?' 'Yourselves' is plural out of politeness. The little 'a' at the start is a stern 'and what about'."),
     (11, None, "'And I am the chef, I will be a little late!' 'Zaderzhus'' means 'I will be held up', as in 'I will hold myself up'. 'A ya shef' is just 'and I chef', which is all the reason he needs."),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, come on, get up already, come on!' 'Vstavayte' is 'stand up!', with the 'te' ending that makes it polite and plural. The word for 'get up' and 'stand' belong together.
-- 'Lyova, let me sleep for five more minutes.' 'Day mne pospat' is 'give me to sleep', and it's the idiom for 'let me sleep'. The 'po' in 'pospat' makes the sleep short.
+- 'Viktor Petrovich, come on, get up already, come on!' 'Stand up!' is the Russian for 'get up', with the 'te' ending that makes it polite and plural. Lyova adds 'come on' twice.
+- 'Lyova, let me sleep for five more minutes.' Literally, 'give me to sleep', and it is the idiom for 'let me sleep'. The 'po' in front makes the sleep short.
 - 'First, Mom baked pancakes for you.' 'Vo-pervykh' is 'in the first', the opener for a list of reasons. 'Blinchikov' is 'of little pancakes', a pet form of 'blin' with an 'of' ending to say 'some'.
-- 'Fresh pancakes are a very good reason.' 'Povod' means 'reason' in the sense of an excuse. There's no 'are', and 'svezhie' ends in 'ie' because pancakes are plural.
-- 'She prepared sweet jam and tea.' 'Varenye' is jam, the kind Russians put in tea. 'Sladkoe' ends in 'oe', because 'varenye' is neuter.
+- 'Fresh pancakes are a very good reason.' 'Povod' is a reason, or an excuse. There's no 'are', and 'svezhie' takes 'ie' for plural pancakes.
+- 'She prepared sweet jam and tea.' 'Varenye' is the jam that Russians stir into tea. 'Sladkoe' takes 'oe' because jam is neuter.
 - 'Your mom makes simply amazing breakfasts.' 'Potryasayushchie' comes from a word for 'shake', so amazing things shake you. 'Zavtraki' is 'breakfasts', plural.
-- 'And second, you really will be late.' 'Vo-vtorykh' is the pair of 'vo-pervykh'. 'Deystvitelno' is 'really', and it comes from 'deystvie', action.
-- 'Where do I have to rush so much now?' 'Kuda' means 'where to', and 'mne speshit' is 'to me to hurry'. Barinov asks it for effect, since he knows the answer.
+- 'And second, you really will be late.' 'Secondly' is the pair of 'firstly', and both begin with 'vo'. 'Really' grows from 'action'.
+- 'Where do I have to rush so much now?' 'Where to' is a different word from 'where'. 'To me to hurry' is Russian for 'I have to rush', and Barinov asks it for effect.
 - 'Both of us are already expected in our kitchen.' 'Nas oboikh' is 'both of us', and 'zhdut' is 'they await', with nobody named. 'Na nashey kukhne' is 'on our kitchen'.
-- 'What an annoying person you are, Lyova!' 'Vredny' is 'harmful', and Russians use it for someone who spoils your fun. 'Kakoy zhe ty' is 'what a you'.
-- 'I am simply caring about our shared work.' 'Zabochus'' ends in 'sya' and is followed by 'o' for 'about'. 'Obshchey' means 'shared', and it comes from 'obshchy', common.
+- 'What an annoying person you are, Lyova!' 'Harmful' is Russian for someone who spoils your fun. 'What a you' is how the exclamation is built.
+- 'I am simply caring about our shared work.' The 'sya' on 'care' turns it into 'care oneself', followed by 'about'. 'Shared' grows out of 'common'.
 - 'Alright, I am getting up, bring the hot pancakes soon!' 'Vstayu' is 'I stand up', one word for 'I am getting up'. 'Nesi' is 'carry!', the order Russians use for bringing something to a table.

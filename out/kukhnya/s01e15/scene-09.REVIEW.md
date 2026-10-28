@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I didn't think it was so great here.' 'Klassno' is a slangy 'cool', from 'klass'. 'Ne dumal, chto' is 'didn't think that'. Senya sounds relaxed.
-- 'It is great everywhere when there is no Max.' 'Net Maksa' is 'there isn't of Max', and the name picks up an 'a' ending. 'Vezde' means 'everywhere'.
+- 'I didn't think it was so great here.' The slang word 'klassno' means 'cool', and it comes from 'klass'. 'Ne dumal, chto' is 'didn't think that', a plain sentence. Senya sounds relaxed.
+- 'It is great everywhere when there is no Max.' Russian says 'there isn't Max', and the name takes an 'a' ending. The word for 'everywhere' is a single word.
 - 'Yes, it is very quiet today.' 'Tikho' is 'quiet' as an adverb, and in Russian it needs no 'is'. 'Segodnya' means 'today'.
-- 'We need to work.' 'Nam nado' is 'to us necessary'. Fedya's line is short, and he has to push.
+- 'We need to work.' Russian says 'to us necessary', and the verb stays in its basic form. Fedya's line is short because he has to push.
 - 'I am just resting.' 'Otdykhayu' is 'I rest', and 'prosto' means 'just'. Senya doesn't bother with a long excuse.
-- 'The chef can come.' The word for 'come' here is the on-foot kind, 'prijti' in spelling, and it is paired with 'can'. It is a warning, not a prediction.
-- 'The chef is busy now.' 'Zanyat' is 'busy', and it comes from 'zanyat', 'to occupy'. The man's form has no ending.
-- 'Anyway, let's work.' 'Vsyo ravno' is 'everything equal', which is how Russians say 'anyway' or 'all the same'. 'Davay' makes it a suggestion.
+- 'The chef can come.' The coming word is the on-foot kind, and it goes after the word for 'can'. It's a warning, not a prediction.
+- 'The chef is busy now.' 'Busy' grows out of 'to occupy', and a man's form has no ending.
+- 'Anyway, let's work.' 'Vsyo ravno' is literally 'everything equal', Russian for 'anyway'. 'Davay' makes it a suggestion.
 - 'Good, I am coming.' 'Idu' means 'I go' and 'I am coming' in one word. Senya has given in.
-- 'Where is my knife?' 'Nozh' is the word for knife, and 'moy' is masculine to match. Anyone who knows the knife scene from episode two will recognise it.
-- 'It is on the table.' 'Na stole' means 'on the table', with 'e' on the end of 'stol'. 'On' is 'it' because a knife is a masculine word.
-- 'Thank you, I see it.' 'Vizhu' is 'I see', and no 'it' is needed. Fedya has found it already.
+- 'Where is my knife?' 'Nozh' is the word for knife, and 'my' is masculine to match. There's no 'is'.
+- 'It is on the table.' 'On the table' puts an 'e' on 'stol'. 'It' is 'he', because a knife is masculine in Russian.
+- 'Thank you, I see it.' 'Vizhu' is a verb meaning 'I see', and no word for 'it' is needed. Fedya has found the knife.

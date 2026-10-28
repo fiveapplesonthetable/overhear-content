@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "Max has made up his mind, and he arrives at Vika's flat. He wants to move in with her, and he has trouble saying why. Here is the scene in Russian first."
-OPENER = "Let's take the scene again, slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max has said how he feels, and Vika has believed him. When you watch, notice how little Max tries to hide. See you next time.'
+INTRO = "Max has made up his mind, and he arrives at Vika's flat. He wants to move in with her, and he has trouble saying why. Hear it in Russian first."
+OPENER = 'Slowly, once more.'
+TRANSITION = 'Now the scene in one go.'
+OUTRO = 'Max has said how he feels, and Vika has believed him. Max tries to hide very little. See you next time.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Привет, Макс.', 'Hi, Max.', [(335, 'Привет.')], ''),
@@ -34,13 +34,13 @@ STORY = [
 WALK = [
     (0, None, "'Hi, Max.' 'Privet' is the casual hello, and it's what Russians say to friends. She adds his name."),
     (1, None, "'Hi.' Max answers with one word. Sometimes that is enough."),
-    (2, None, "'I want to move to your place.' 'K tebe' is 'to you', and it's how you say 'to your place'. 'Pereekhat' is 'to move house'."),
+    (2, None, "'I want to move to your place.' 'K tebe' is 'to you', Russian for 'to your place'. 'Pereekhat'' is 'to move house'."),
     (3, None, "'Do you have nowhere to live?' 'Negde zhit' is 'nowhere to live', with one special word, 'negde'. Russians make such 'nowhere to' words with 'ne'."),
     (4, None, "'No, I have a million options.' 'Million' stays the same, and the thing counted takes 'of' in the plural, 'variantov'. 'U menya' is 'at me'."),
-    (5, None, "'Kostya is calling me back.' 'Zovyot' is 'calls', and it also means 'invites'. 'Nazad' is 'back', and 'menya' is the form of 'me' that goes with 'calls'."),
-    (6, None, "'Lyova is also inviting me to live.' 'Priglashaet' is 'invites', and 'tozhe' means 'also'. 'Zhit' follows it in its basic shape."),
-    (7, None, "'But I am ready to live with you.' 'Gotov' is 'ready', in a man's form, and the action follows directly. 'S toboy' is 'with you'."),
-    (8, None, "'What do you want to say?' She asks him directly. 'Chto ty khochesh skazat' is 'what you want to say', which is how Russians say 'what are you getting at?'."),
+    (5, None, "'Kostya is calling me back.' 'Calls' also means 'invites'. 'Back' is a small word, and 'me' takes the form that follows 'calls'."),
+    (6, None, "'Lyova is also inviting me to live.' 'Priglashaet' is 'invites', followed by 'to live' in its basic shape. 'Tozhe' is 'also'."),
+    (7, None, "'But I am ready to live with you.' 'Ready' has a man's form. The action follows directly."),
+    (8, None, "'What do you want to say?' She asks him directly. It's the Russian for 'what are you getting at?'."),
     (9, None, "'I want to live with you.' Max keeps it simple, which is rare for him. 'Khochu zhit' is 'I want to live', two words."),
     (10, None, "'I do not want to be without you.' 'Bez tebya' is 'without you', and 'bez' takes the 'a' form of 'you'. 'Byt' is 'to be'."),
     (11, None, "'That is very pleasant to hear.' 'Priyatno' is 'pleasant', with no 'is'. 'Slyshat' is 'to hear'."),

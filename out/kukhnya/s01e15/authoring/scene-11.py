@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.15'
 SOURCE_FILE = 'sources/kukhnya/s01/e15.ru.dual.srt'
-INTRO = "It is late, and the kitchen has closed for the night. Lyova thinks Barinov is ill. Barinov has just revealed that he isn't, and Lyova is very angry. Here is the scene in Russian first."
-OPENER = "Let's go back through the argument slowly."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Lyova has uncovered the trick, and he's in no mood to forgive. When you watch the episode, notice how Barinov defends himself. See you next time."
+INTRO = "It is late, and the kitchen has closed for the night. Lyova thinks Barinov is ill. Barinov has just revealed that he isn't, and Lyova is very angry. The argument comes first, in Russian."
+OPENER = 'Back through the argument, slowly.'
+TRANSITION = 'Now the whole argument again.'
+OUTRO = "Lyova has uncovered the trick, and he's in no mood to forgive. Notice how Barinov defends himself. See you next time."
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('lyova', 'Федя, займись последним заказом.', 'Fedya, take care of the last order.', [(265, 'Последний заказ треска по-бретонски, Федя, займись.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('lyova', 'Я убью тебя!', 'I will kill you!', [], ''),
 ]
 WALK = [
-    (0, None, "'Fedya, take care of the last order.' 'Zaymis'' ends in 'sya', so it's 'occupy yourself'. The job you take on goes into the 'im' ending: 'poslednim zakazom'."),
-    (1, None, "'That is it, the kitchen is closed.' 'Zakryta' ends in 'a' because 'kukhnya' is feminine. 'Vsyo' at the start closes the day."),
-    (2, None, "'I always said that you are the most capable.' 'Samy sposobny' is 'the most capable'. 'Vsegda govoril' is 'always said', and it's said with a bit too much sweetness."),
-    (3, None, "'Viktor Petrovich, you have a sick heart.' 'U vas bolnoe serdtse' is 'at you a sick heart'. 'Bolnoe' ends in 'oe' because 'serdtse' is neuter."),
+    (0, None, "'Fedya, take care of the last order.' 'Zaymis'' has a 'sya', so it's 'occupy yourself'. 'Poslednim zakazom' takes 'im' and 'om' for 'with the last order'."),
+    (1, None, "'That is it, the kitchen is closed.' 'Zakryta' has an 'a' because the kitchen is feminine. 'Vsyo' at the start closes the day."),
+    (2, None, "'I always said that you are the most capable.' 'The most capable' is stacked up with 'most' and 'capable'. 'Always said' sounds a bit too sweet."),
+    (3, None, "'Viktor Petrovich, you have a sick heart.' Russian says 'at you a sick heart'. 'Bolnoe' has an 'oe' because 'heart' is neuter."),
     (4, None, "'My heart is in perfect order.' 'V polnom poryadke' is 'in full order'. The speaker puts the heart first, 'serdtse u menya', to stress it."),
     (5, None, "'So you tricked me?' 'Obmanuli' is 'tricked', in the polite plural form. 'Tak' at the start is 'so', a word of discovery."),
     (6, None, "'And how else could I bring you back?' 'Vernut' is 'to bring back', for a person or an object. 'Kak eshchyo' is 'how else'."),
     (7, None, "'Ah, you bastard!' 'Ah ty' is a pattern: 'ah you' plus an insult. 'Svolokh' is a very rough word, used only when the speaker has lost control."),
     (8, None, "'Lyova, calm down!' 'Uspokoysya' is 'calm yourself'. It is the order everyone gives to everyone in this series."),
-    (9, None, "'I will give you an attack right now!' 'Ustroyu' is literally 'I will arrange', and 'ustroit' is a handy word for 'organise a scene'. 'Pristup' is a sudden attack or fit."),
+    (9, None, "'I will give you an attack right now!' Literally, 'I will arrange', and the word is also used for staging a scene. An 'attack' here is a sudden fit."),
     (10, None, "'Lyova, put that in its place!' 'Polozhi' means 'put down' for flat things. 'Na mesto' is 'onto the place'."),
     (11, None, "'I will kill you!' 'Ubyu' is the future of 'kill', in one word. It's a joke threat here, as it often is among Russian friends."),
 ]

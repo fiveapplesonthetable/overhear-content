@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is that noise early in the morning?' 'Chto za' asks 'what kind of'. 'S utra poranshe' is 'from morning, a bit early', and it's a common phrase for an unreasonably early hour.
+- 'What is that noise early in the morning?' 'What kind of' is the opener. 'From morning, a bit early' is a common way to complain about an unreasonable hour.
 - 'Who is calling me so early in the morning?' 'Mne zvonit' is 'to me phones', so the person phoned goes in the 'to me' form. 'Utrom' ends in 'om' to mean 'in the morning'.
-- 'Hello, Viktor Petrovich, are you up already?' 'Vstali' is the plural past, 'have you got up'. Lyuba uses 'vy', the polite form, to her boss, and the plural ending shows it.
-- 'Of course, I have been up for a long time.' 'Na nogakh' is 'on feet', which is the Russian way to say 'up and about'. 'Davno' means 'long ago'.
-- 'You are lying to me, you are still sleeping!' 'Obmanyaete' is the polite 'you deceive'. 'Eshchyo' means 'still' here, and it's the same word as 'more' or 'yet'.
-- 'I am cheerful and full of new strength.' 'Polon' is 'full' and the full thing follows it with 'of' in the ending, 'novykh sil'. 'Bodry' is 'brisk', as in 'bright-eyed'.
-- 'Viktor Petrovich, you will be late for work!' The word for 'will be late' is in the future, with 'vy' as the polite 'you'. 'Na rabotu' is 'to work'.
-- 'Lyuba, leave me alone, I know my business.' 'Otstan' is literally 'fall behind', and it's the rude way to say 'get off my back'. 'Svoyo delo' is 'my own business', the thing you're good at.
-- 'The restaurant is opening soon for guests.' 'Otkryvaetsya' ends in 'sya', so the restaurant 'opens itself'. 'Skoro' is 'soon'.
+- 'Hello, Viktor Petrovich, are you up already?' Lyuba uses the polite 'you', and the plural ending on 'have you got up' shows it. She is talking to her boss.
+- 'Of course, I have been up for a long time.' 'Na nogakh' is literally 'on feet', Russian for 'up and about'. 'Davno' covers the 'have been'.
+- 'You are lying to me, you are still sleeping!' The polite 'you deceive' is a strong accusation. 'Eshchyo' means 'still' here, and it also means 'more' or 'yet'.
+- 'I am cheerful and full of new strength.' 'Full' wants an 'of' ending on the thing, 'of new strengths'. 'Cheerful' is the word for brisk and bright-eyed.
+- 'Viktor Petrovich, you will be late for work!' Lyuba stays polite and puts 'will be late' in the future. 'Na rabotu' needs a 'u' on 'rabota' to show the direction.
+- 'Lyuba, leave me alone, I know my business.' 'Otstan'' is literally 'fall behind', and it's rude for 'get off my back'. 'Svoyo delo' is 'my own business', the thing he's good at.
+- 'The restaurant is opening soon for guests.' The restaurant 'opens itself', so 'otkryvaetsya' ends in 'sya'. 'Skoro' is just 'soon'.
 - 'You are the one who will be late for the shift today!' 'Eto ty' is 'it's you who', a handy way to hit back. 'Na smenu' is 'for the shift'.
-- 'And when will you arrive at the kitchen yourself?' 'Sami' means 'yourselves', and it's in the plural because Lyuba is polite. The little 'a' at the start is a stern 'and what about'.
+- 'And when will you arrive at the kitchen yourself?' 'Yourselves' is plural out of politeness. The little 'a' at the start is a stern 'and what about'.
 - 'And I am the chef, I will be a little late!' 'Zaderzhus'' means 'I will be held up', as in 'I will hold myself up'. 'A ya shef' is just 'and I chef', which is all the reason he needs.

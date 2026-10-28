@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hi, Max.' 'Privet' is the casual hello, and it's what Russians say to friends. She adds his name.
 - 'Hi.' Max answers with one word. Sometimes that is enough.
-- 'I want to move to your place.' 'K tebe' is 'to you', and it's how you say 'to your place'. 'Pereekhat' is 'to move house'.
+- 'I want to move to your place.' 'K tebe' is 'to you', Russian for 'to your place'. 'Pereekhat'' is 'to move house'.
 - 'Do you have nowhere to live?' 'Negde zhit' is 'nowhere to live', with one special word, 'negde'. Russians make such 'nowhere to' words with 'ne'.
 - 'No, I have a million options.' 'Million' stays the same, and the thing counted takes 'of' in the plural, 'variantov'. 'U menya' is 'at me'.
-- 'Kostya is calling me back.' 'Zovyot' is 'calls', and it also means 'invites'. 'Nazad' is 'back', and 'menya' is the form of 'me' that goes with 'calls'.
-- 'Lyova is also inviting me to live.' 'Priglashaet' is 'invites', and 'tozhe' means 'also'. 'Zhit' follows it in its basic shape.
-- 'But I am ready to live with you.' 'Gotov' is 'ready', in a man's form, and the action follows directly. 'S toboy' is 'with you'.
-- 'What do you want to say?' She asks him directly. 'Chto ty khochesh skazat' is 'what you want to say', which is how Russians say 'what are you getting at?'.
+- 'Kostya is calling me back.' 'Calls' also means 'invites'. 'Back' is a small word, and 'me' takes the form that follows 'calls'.
+- 'Lyova is also inviting me to live.' 'Priglashaet' is 'invites', followed by 'to live' in its basic shape. 'Tozhe' is 'also'.
+- 'But I am ready to live with you.' 'Ready' has a man's form. The action follows directly.
+- 'What do you want to say?' She asks him directly. It's the Russian for 'what are you getting at?'.
 - 'I want to live with you.' Max keeps it simple, which is rare for him. 'Khochu zhit' is 'I want to live', two words.
 - 'I do not want to be without you.' 'Bez tebya' is 'without you', and 'bez' takes the 'a' form of 'you'. 'Byt' is 'to be'.
 - 'That is very pleasant to hear.' 'Priyatno' is 'pleasant', with no 'is'. 'Slyshat' is 'to hear'.
