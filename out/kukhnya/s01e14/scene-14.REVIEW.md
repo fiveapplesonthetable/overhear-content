@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am not needed by anyone.' Russian piles up the negatives, 'to nobody not needed', and the short word for 'needed' ends in a bare consonant because Lyova is a man.
+- 'I am not needed by anyone.' Russian stacks up negatives, so it's 'to nobody not needed'. Lyova is a man, and so the short word for 'needed' has no ending.
 - 'Lyova, a customer found a SIM card in the dessert.' Dessert borrows an 'e' ending after 'in', so it reads 'v deserte'. The SIM card is a loan word too, joined by a hyphen.
 - 'A SIM card? In the dessert?' Lyova just echoes the two pieces back as questions. Russian doesn't need a verb to ask 'what?'.
-- 'Yes, he demands the chef.' Listen for the way 'demands' takes the word for 'chef' with an 'a' on the end. The word itself, 'trebuet', is strong, closer to 'insists' than 'asks'.
+- 'Yes, he demands the chef.' The verb 'trebuet' is stronger than 'asks', closer to 'insists'. After it, the chef goes into the 'of' form, 'shef-povara'.
 - 'Go to him, Lyova.' When 'him' comes after a little word like 'to', it gets an extra 'n', so 'on' turns into 'nemu'. That 'n' is a small rule worth knowing.
 - 'I will not go there.' Russian has two words for 'there': one for being there and one for going there. This one is the second, the going kind.
 - 'What do you mean, you will not go?' It begins with the stock phrase 'what does it mean', and it works for any 'what do you mean'. Kostya is incredulous.
 - 'You are the chef today.' No 'are' appears. Just 'you today chef', and it sounds like a verdict.
-- 'Go and figure this out.' The word for 'figure out' ends in 'sya' and literally means 'take yourself apart over it'. The 'and' between the two orders is the little word 'i'.
+- 'Go and figure this out.' 'Razbirat'sya' literally means 'take yourself apart over it', which is Russian for 'sort it out'. A little 'i' joins the two orders.
 - 'But I am not the chef.' It's a flat 'but I not chef'. The 'but' at the start is the one you use to object.
 - 'Lyova, you need to figure it out.' Here the need is the person's: 'to you it is necessary'. It's the same pattern as 'I need' and 'he needs', with only the little word in front changing.
-- 'I am afraid to go there.' 'I fear' is a single word. The action that follows it stays in its basic shape, as in English, and 'there' is the going kind again.
+- 'I am afraid to go there.' 'Boyus'' is 'I fear'. The going-to 'there', 'tuda', is the same one he used earlier, and the action stays in its basic form.
 - 'Come on, go.' 'Davay' is the all-purpose 'come on', literally 'give'. Russians put it in front of an order to make it friendlier.

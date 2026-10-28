@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'louis': 'Луи', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "Elena has handed Max an old recipe, and it turns out to be written in French. Louis, the French pastry chef, is watching and can't believe it. Here is the scene in Russian first."
-OPENER = "Let's go through it again, and watch Max dig himself deeper."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Max is stuck, with a French recipe he cannot read. When you watch, see if you can spot the exact moment he gives himself away. Speak soon.'
+INTRO = "Elena has handed Max an old recipe, and it turns out to be written in French. Louis, the French pastry chef, is watching and can't believe it. Hear the scene in Russian first."
+OPENER = 'Again, and watch Max dig himself deeper.'
+TRANSITION = 'Here is the scene without interruptions.'
+OUTRO = 'Max is stuck, with a French recipe he cannot read. Can you spot the moment he gives himself away? Speak soon.'
 CLOSING = ('louis', 'Пока!')
 STORY = [
     ('elena', 'Тут все по-французски.', 'Here everything is in French.', [(249, 'Макс')], ''),
@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Here everything is in French.' The little 'po' plus the ending 'i' gives 'in French' as an adverb. The same trick gives 'in Russian' and 'in Italian'."),
-    (1, None, "'For our chef this is not a problem.' The word for 'problem' is the same as the English one, only with an 'a' on the end because it is feminine in Russian."),
-    (2, None, "'Right, Maximilian?' The word for 'truth' is a tag here, like 'isn't it?'. Elena puts him on the spot."),
+    (1, None, "'For our chef this is not a problem.' 'Problema' is the English word, with an 'a' because Russians treat it as feminine."),
+    (2, None, "'Right, Maximilian?' Elena borrows 'pravda', 'truth', as a tag, like 'isn't it?'. She puts him on the spot."),
     (3, None, "'Si.' It's an Italian 'yes', written in Russian letters. Max has chosen the wrong foreign language, which is the whole joke."),
-    (4, None, "'Si? Idiot.' Louis repeats the word as a question, and then insults him. 'Idiot' is the same as in English, with a Russian ending."),
-    (5, None, "'Si is in Italian.' Here a dash stands for 'is'. 'In Italian' is a single word made with the same 'po' and 'i' trick as 'in French'."),
+    (4, None, "'Si? Idiot.' Louis echoes the word as a question and then insults him. 'Idiot' is the English word, with a Russian look."),
+    (5, None, "'Si is in Italian.' A dash stands in for 'is'. 'Po-italyanski', in Italian, is built with the same 'po' and 'ski' as 'in French'."),
     (6, None, "'In French it will be oui.' Louis uses the word 'will be', although English would use 'is'. Russians sometimes use the future for what a word 'turns out to be'."),
-    (7, None, "'Yes, of course, I know this.' The 'I know' is just one word, the 'ya' is in front. 'Konechno' is 'of course' and it's pronounced 'konyeshno'."),
-    (8, None, "'Maximilian, do you understand the French language?' Elena says 'French language' with both words in full, where Russians usually leave out the second. 'Understand' is the polite form."),
+    (7, None, "'Yes, of course, I know this.' 'I know' is one word, with the 'ya' in front. 'Konechno' is 'of course' and it's pronounced 'konyeshno'."),
+    (8, None, "'Maximilian, do you understand the French language?' Elena says 'French language' with both words in full, where Russians would usually leave out the second. 'Understand' is the polite form."),
     (9, None, "'Of course, I understand French perfectly.' Here 'French' stands alone, and it's an adjective that does duty as the name of the language. Russians do this all the time."),
     (10, None, "'Well, what will you do now?' 'Will do' is made of two words, a form of 'be' plus the basic form of 'do'. That is the usual way for a long action in the future."),
-    (11, None, "'I will read this recipe and prepare the dish.' The word for 'read' has a 'pro' in front, and means 'read through to the end'. Max promises to finish the job."),
+    (11, None, "'I will read this recipe and prepare the dish.' 'Read' has a 'pro' in front, which means 'read through to the end'. Max promises to finish the job."),
     (12, None, "'This will be very funny.' Louis is calm. 'Will be' is the future again, and 'funny' has no 'is' in front."),
 ]

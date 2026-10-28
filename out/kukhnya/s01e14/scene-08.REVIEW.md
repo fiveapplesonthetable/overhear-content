@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Diana, you smell wonderful as always!' 'Kak vsegda' is 'as always'. 'Pakhnete' is 'you smell', in the polite plural form that fits a guest.
-- 'Dmitry, you are so funny.' She uses his first name with the polite 'vy', a friendly but proper mix. 'Smeshnoy' is 'funny', and there's no 'are'.
-- 'By the way, I already met the head chef.' 'Kstati' is one word for 'by the way'. 'Poznakomilas'' ends in 'sya', so it's 'got herself acquainted', and the 'la' tells you a woman is speaking.
-- 'Oh, heavens, and how is he for you?' 'Gospodi' is a special calling-out form, used only when you exclaim to heaven. 'Kak on vam' is 'how is he to you', and it asks 'what do you make of him?'.
-- 'He is super, just such a handsome guy!' 'Super' is borrowed and never changes. 'Krasavchik' is built from 'krasivy', beautiful, with an ending that means 'a handsome fellow'.
-- 'Who are you talking about anyway?' 'O kom' is 'about whom'. 'Eto vy vobshche' is a way of asking 'what are you on about?'.
-- 'He is so sweet and very sociable!' 'Obshchitelny' means 'sociable' and is built on 'obshchenie', socialising. 'Milyy' is 'sweet', in the sense of 'nice'.
-- 'Probably, he is in a good mood today.' 'Navernoe' means 'probably'. 'V khoroshem nastroenii' is 'in a good mood', where the 'em' ending goes with 'in'.
-- 'I was gifted a book with French recipes.' 'Podarili' is 'they gave as a present', with nobody named. 'S frantsuzskimi retseptami' is 'with French recipes', with 'imi' for the 'with'.
-- 'This is a very interesting gift.' 'Podarok' is 'a present', and it comes from 'darit', 'to give'. It is the same root as in 'podarili' one line above.
-- 'Could he cook for us?' 'Mog by' means 'could', and the little 'by' adds the politeness. 'Dlya nas' is 'for us'.
-- 'If he is in such a mood, yes.' Nagiyev adds 'if', then agrees. The word for 'such' agrees in ending with the word for 'mood', which is why it sounds like a chain. He promises more than he can deliver.
-- 'I want him to cook here!' 'Khochu, chtoby on gotovil' is 'I want that he cooked', so after 'chtoby' the action goes in the past form. It's a normal Russian way to say 'I want him to'.
-- 'All right, he will do everything for you.' The future 'will do' is one word. 'For you' is the polite one, because Nagiyev is talking to a guest.
+- 'Diana, you smell wonderful as always!' 'As always' is two small words. 'You smell' takes the polite plural ending, because she is a guest.
+- 'Dmitry, you are so funny.' She uses his first name together with the polite 'vy', a friendly but proper mix. 'Smeshnoy' means funny, and there's no 'are'.
+- 'By the way, I already met the head chef.' 'By the way' is a single word, 'kstati'. 'Got acquainted' ends in 'sya', with the 'a' of a woman.
+- 'Oh, heavens, and how is he for you?' This is a special calling-out form, used when you exclaim to heaven. Then 'how is he to you' is the Russian way to ask 'what do you make of him?'.
+- 'He is super, just such a handsome guy!' 'Super' is borrowed and never changes. 'Krasavchik' grows from 'krasivy', beautiful, with an ending for 'a handsome fellow'.
+- 'Who are you talking about anyway?' Russians put 'about' first, so it is 'about whom'. The words 'eto vy vobshche' mean something like 'what are you on about?'.
+- 'He is so sweet and very sociable!' 'Obshchitelny' grows from 'obshchenie', socialising. 'Milyy' means sweet, in the sense of nice.
+- 'Probably, he is in a good mood today.' 'Probably' is one word. 'In a good mood' puts an 'em' ending on 'mood', as 'in' demands.
+- 'I was gifted a book with French recipes.' Russian says 'they gave me', with no one named. 'With French recipes' puts the ending 'imi' on 'French' for 'with'.
+- 'This is a very interesting gift.' 'Podarok' grows from 'darit', to give, the same root as 'podarili' a line earlier. The word itself is something given.
+- 'Could he cook for us?' 'Could' is the short 'mog by', where the little 'by' adds the politeness. Diana is asking a favour.
+- 'If he is in such a mood, yes.' Nagiyev adds 'if' and then agrees. 'Such' matches 'mood' in ending, which makes the phrase flow. He promises more than he can deliver.
+- 'I want him to cook here!' Russian says 'I want that he cooked', so the action after 'so that' goes into the past. It is the normal way of saying 'I want him to'.
+- 'All right, he will do everything for you.' The future 'will do' is one word. The 'for you' is the polite one, because Nagiyev is talking to a guest.

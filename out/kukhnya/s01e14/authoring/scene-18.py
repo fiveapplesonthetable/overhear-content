@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'lyova': 'Лёва', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'Lyova is in charge of the kitchen and he has found his voice. Senya and Fedya encourage him as he tries to speed up the cooks. Here is the scene in Russian first.'
-OPENER = "Let's go through it again, and listen to how the cooks cheer him on."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'The Terminator is switched on, and the orders are on their way. When you watch, notice how fast everyone suddenly moves. See you next time.'
+INTRO = 'Lyova is in charge of the kitchen and he has found his voice. Senya and Fedya encourage him as he tries to speed up the cooks. Hear it in Russian first.'
+OPENER = 'Again, and listen to how the cooks cheer him on.'
+TRANSITION = 'Now the pep talk again, in full.'
+OUTRO = 'The Terminator is switched on, and the orders are on their way. Everyone suddenly moves very fast. See you next time.'
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('lyova', 'Ребята, давайте работать быстрее.', "Guys, let's work faster.", [(273, 'Ребят, давайте ускоримся.')], ''),
@@ -33,15 +33,15 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Guys, let's work faster.' 'Rebyata' is the friendly plural for 'guys', with no singular in common use. 'Davayte' is the plural 'let's', for a group."),
-    (1, None, "'We still have three dishes.' 'U nas' is 'at us', and it's the Russian 'we have'. After 'three', the word for 'dish' takes a special ending, 'blyuda'."),
-    (2, None, "'We will do everything now.' 'Sdelaem' is one word for 'we will do'. 'Seychas' is 'now', and it can mean 'in a moment'."),
+    (1, None, "'We still have three dishes.' 'At us' means 'we have'. After the number three, 'dish' becomes 'blyuda'."),
+    (2, None, "'We will do everything now.' 'Sdelaem' is a single word for 'we will do'. 'Seychas' can mean 'now' or 'in a moment'."),
     (3, None, "'Well, why are you standing?' 'Chego' is a casual way to ask 'why', literally 'of what'. Senya says it in the voice of a mate."),
     (4, None, "'The chef said to work faster.' 'Skazal' is followed by the action in its basic form, so it's 'said to work'. It reports an order without repeating it."),
     (5, None, "'Well done, Lyova.' 'Molodets' comes from 'molodoy', young, and it means 'good lad'. Russians use it for praise."),
-    (6, None, "'You are a good chef.' There is no 'are'. It's 'you good chef', and 'khoroshiy' is the word for 'good'."),
+    (6, None, "'You are a good chef.' There's no 'are'. It's 'you good chef', and the ending on 'good' shows that the chef is a man."),
     (7, None, "'Yes, well done.' Lyova repeats it. In Russian you can return a compliment by echoing it."),
-    (8, None, "'Well, are we switching on Terminator mode?' 'Vklyuchaem' means 'switch on', and it's used for lights, machines and modes. 'Rezhim terminatora' is 'mode of terminator', with an 'a' for the 'of'."),
-    (9, None, "'Yes, we are switching it on.' Russians answer a question by repeating its action word. No separate word for 'yes' is needed, though 'da' comes first."),
+    (8, None, "'Well, are we switching on Terminator mode?' 'Vklyuchat' is used for lights, machines and modes alike. 'Mode of terminator' becomes 'terminatora' with an 'a' for 'of'."),
+    (9, None, "'Yes, we are switching it on.' Russians answer by repeating the action word. A separate 'yes' isn't needed, though 'da' comes first."),
     (10, None, "'Then faster to work.' 'Za rabotu' is the idiom for 'to work!', as in 'get to work'. It has no verb in it."),
     (11, None, "'The Terminator is ready to cook food.' 'Gotov' and 'gotovit' come from the same root, so 'ready to cook' literally sounds like 'ready to ready'. It's a small pun in the original."),
     (12, None, "'Excellent, let's go faster.' 'Otlichno' is an adverb for 'excellent', which Russians shorten into a quick word of approval. 'Davayte' is 'let's'."),

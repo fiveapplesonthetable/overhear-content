@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, wake up!' 'Vitya' is a pet form of Viktor. 'Prosypaytes'' is 'wake up!', in a form for a group or for being polite, and it ends in 'sya' because you wake yourself.
+- 'Vitya, wake up!' 'Vitya' is a pet form of Viktor. The 'wake up' order ends in 'tes', for a group or for politeness, and the 'sya' is there because you wake yourself.
 - 'He will not wake up.' 'Prosnyotsya' is 'will wake up', and 'ne' in front makes it 'will not'. Nagiyev says it flatly.
-- 'It is useless to wake him.' 'Bespolezno' is built from 'bez', without, and 'polza', use. 'Budit' is 'to wake someone else', where 'prosypatsya' is to wake yourself up.
+- 'It is useless to wake him.' 'Useless' is built from 'without' and 'use'. To wake someone else is a different word from waking yourself.
 - 'Maximilian, there you are.' 'Vot vy gde' is a handy phrase for 'there you are', literally 'here you where'. Nagiyev invents a grand name for Max.
 - 'Yes, I am here.' 'Zdes' is 'here', and there is no 'am'. Max keeps it short.
-- 'You are hiding from us.' 'Pryachetes'' ends in 'sya', so you 'hide yourselves'. 'Ot nas' is 'from us'.
-- 'I am not hiding from anyone.' 'Ni ot kogo ne' is 'from nobody not', and the 'ne' stays even though it means 'no'. This is the Russian rule.
-- 'Prepare a little masterpiece for us.' 'Prigotovte' is the polite order 'prepare!'. 'Malenkiy shedevr' is 'a little masterpiece', and it's a joke, since nobody makes a masterpiece on demand.
-- 'We want classic French cuisine.' 'Starinnuyu' means 'old-time', and 'kukhnyu' is the same word as 'kitchen'. The two words end in 'uyu' because they are what is wanted.
-- 'A chef needs to rest.' 'Shef-povaru nuzhno' is 'to the chef it is needed'. 'Otdykhat' means 'to rest'.
+- 'You are hiding from us.' The 'sya' on the end means 'hide yourselves', and 'from us' follows. The polite plural is used for Max.
+- 'I am not hiding from anyone.' Russian says 'from nobody not'. The 'ne' stays even though 'nobody' already has the 'no'.
+- 'Prepare a little masterpiece for us.' The polite order 'prepare!' ends in 'te'. A 'little masterpiece' is a joke, since nobody makes one on demand.
+- 'We want classic French cuisine.' 'Old-time' describes the cuisine, and the word for cuisine is the one for 'kitchen'. Both end in 'uyu' because they're what is wanted.
+- 'A chef needs to rest.' Russian says 'to the chef it is needed'. 'Rest' stays in its basic form.
 - 'We have a production meeting.' 'Proizvodstvennoe soveshchanie' is a long, heavy phrase for a 'production meeting'. Nagiyev is making something up to sound important.
-- 'Maximilian, I am waiting for you.' 'Ya vas zhdu' is 'I you wait', with no 'for'. 'Vas' is the polite 'you'.
-- 'I will come to you now.' The 'k' in front of 'you' means 'towards', and the pair 'k vam' is 'to you'. The future 'I will come' is one word that tells you the person arrives on foot.
+- 'Maximilian, I am waiting for you.' Literally, 'I you wait', with no 'for'. The polite 'you' is the form after 'wait'.
+- 'I will come to you now.' The 'k' in front of 'you' means 'towards'. 'I will come' is one word that tells you the person arrives on foot.

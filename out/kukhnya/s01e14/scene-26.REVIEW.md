@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Responsibility is a strange thing.' The word for 'responsibility' is built from 'to answer', so it means 'answerability'. 'Shtuka' is a casual word for 'thing'.
-- 'On the one hand, we are afraid of it.' 'S odnoy storony' is literally 'from one side', which is how Russians say 'on the one hand'. 'Boimsya' is 'we fear', and 'ee' is 'of it'.
+- 'Responsibility is a strange thing.' Russian builds 'responsibility' from the verb 'to answer', so it means 'answerability'. Max calls it a 'shtuka', a casual word for 'thing'.
+- 'On the one hand, we are afraid of it.' 'S odnoy storony' is literally 'from one side', Russian for 'on the one hand'. 'Boimsya ee' is 'we fear it'.
 - 'And on the other hand...' 'S drugoy storony' is the pair to the line before. It's the other half of the idiom.
-- 'It is what earns us respect.' 'Blagodarya' means 'thanks to', and 'ey' is 'to it'. 'Zavoyovyvaem' is 'win' as in winning over.
-- 'And brings us closer together.' 'Blizhe' is 'closer', and 'drug k drugu' is 'friend to friend', meaning 'to each other'. It's a fixed pattern.
+- 'It is what earns us respect.' Russian starts with 'thanks to' to bring in the cause. The verb for 'earn' is used as in winning someone over.
+- 'And brings us closer together.' 'Blizhe' means 'closer', and 'drug k drugu' is 'friend to friend', meaning 'to each other'. It's a fixed pattern.
 - 'When we act irresponsibly...' 'Bezotvetstvennye' means 'without responsibility', built from 'bez', without. 'Postupki' are deeds.
 - 'We draw the right conclusions.' Russians 'make' conclusions, 'delat vyvody', where English draws them. 'Pravilnye' means 'right'.
-- 'That's it, I won't drink at work anymore.' 'Vsyo' stops the conversation. 'Na rabote' is 'at work', and the 'ne' comes before the verb.
+- 'That's it, I won't drink at work anymore.' 'Vsyo' stops the conversation. The word for 'work' gets an 'e' after 'at', and the 'ne' comes right before the verb.
 - 'I've decided.' 'Reshil' is the man's past, one word. It closes the matter.
-- 'I definitely won't drink.' 'Tochno ne' is 'exactly not'. Barinov says it twice over, which makes it less convincing.
-- 'But we should celebrate that.' 'Nado otmetit' is 'one should mark', and 'mark' means celebrate here. The 'but' is Barinov's escape hatch.
-- 'Pour!' 'Nalivay' is the order to pour, and it ends the episode on a toast. Russians say it to anyone with the bottle.
+- 'I definitely won't drink.' Literally, 'exactly not drink'. Barinov says it twice over, which makes it less convincing.
+- 'But we should celebrate that.' Russian says 'one should mark' for 'celebrate'. The 'but' is Barinov's escape hatch.
+- 'Pour!' The order to pour ends the episode on a toast. Russians say it to anyone holding the bottle.

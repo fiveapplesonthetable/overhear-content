@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, we will figure this out.' The word for 'figure out' ends in 'sya', which makes it 'sort ourselves out'. 'Ladno' is the shrug that means 'okay then'.
+- 'Alright, we will figure this out.' 'Razberyomsya' has a 'sya', so it's 'sort ourselves out'. 'Ladno' is the shrug for 'okay then'.
 - 'Everything will be fine.' Russian says 'everything will be well', with 'khorosho', an adverb, in place of an adjective.
 - 'What should we do now?' Instead of 'we' do something, Russian says 'to us to do'. The little 'nam' stands for the people who must act.
 - 'Let's go.' It is one word, 'poekhali', meaning 'let's go by vehicle'. It's famous because the first man in space said it as his rocket took off.
 - 'Where are we going?' 'Kuda' means 'where to'. Russian separates 'where' for being somewhere from 'where to' for going somewhere.
 - 'We are not going anywhere.' 'Nikuda ne' is 'nowhere not'. Russian insists on the double negative.
-- 'It means that we are starting.' 'Eto znachit' is 'this means', and it introduces an explanation. 'Nachinaem' is 'we begin'.
-- 'Now I understand everything.' 'Ponyal' ends in 'l' because the speaker is a man. 'Vsyo' is 'everything', and it is a very handy word.
+- 'It means that we are starting.' 'Eto znachit' introduces an explanation. 'Nachinaem' squeezes 'we begin' into one word.
+- 'Now I understand everything.' The 'l' on 'ponyal' tells you the speaker is a man. 'Vsyo' is the all-purpose 'everything'.
 - 'Then let's work.' 'Davayte' is the group 'let's', and it's followed by the basic form of the action. 'Togda' links it to the line before.
 - 'Yes, back to work.' 'Za rabotu' is an idiom with no verb, 'to work!', that Russians use as a rallying cry.
-- 'We have little time.' Russian says 'at us little of time', and 'vremeni' takes the 'of' ending. The word for 'little' is 'malo', and it works as 'not much'.
+- 'We have little time.' Russian says 'at us little of time', and 'time' takes the 'of' ending. 'Little' works as 'not much'.
 - 'We must be in time.' 'Uspet' means 'to manage in time', and there is no clean English verb for it. It's a very useful Russian word.
 - 'Of course we will be in time.' 'Uspeem' is the 'we' form of the same word. It says 'we will make it' in a single word.
 - 'Then we start right now.' 'Nachinaem' is 'we begin', which Russians also use for 'let's begin'. 'Pryamo seychas' is 'straight now'.

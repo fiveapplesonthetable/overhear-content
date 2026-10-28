@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'At the bar, Kostya and Nastya have watched the whole drama. They talk about Max and Vika. Here is their chat in Russian first.'
-OPENER = "Let's go back through their chat, one line at a time."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'Vika has an idea for how to say sorry, and Kostya approves. When you watch, see if you can guess what she is pouring. Catch you next time.'
+INTRO = 'At the bar, Kostya and Nastya have watched the whole drama. They talk about Max and Vika. Hear their chat in Russian first.'
+OPENER = 'Their chat again, one line at a time.'
+TRANSITION = 'Now the chat from the beginning.'
+OUTRO = 'Vika has an idea for how to say sorry, and Kostya approves. Guess what she is pouring. Catch you next time.'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Максим молодец.', 'Maxim did great.', [(309, 'Максим молодец')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Она знает, что делать.', 'She knows what to do.', [], ''),
 ]
 WALK = [
-    (0, None, "'Maxim did great.' Kostya uses the long form of Max's name, which sounds a little proud. 'Molodets' means 'good lad', and it is the usual word for praising a man."),
-    (1, None, "'He helped Vika.' 'Pomog' means 'helped', and the helped person goes in the 'e' form, 'Vike', which is 'to Vika'."),
-    (2, None, "'He saved the evening.' 'Spas' is 'saved', and 'vecher' is 'evening'. The sentence is as short as it can be."),
-    (3, None, "'Yeah, she said awful things.' 'Nagovorila' is 'talked a lot', with the 'na' meaning a big amount. 'Gadosti' are 'nasty things'."),
-    (4, None, "'All sorts of awful things to him.' She leaves out the action. 'Emu vsyakie gadosti' is 'to him all kinds of nasty things', and the verb is understood."),
+    (0, None, "'Maxim did great.' Kostya uses the long form of Max's name, which sounds a little proud. 'Good lad' is the word for praising a man."),
+    (1, None, "'He helped Vika.' 'Helped' wants the person in the 'to' form, so 'Vika' becomes 'Vike'. English just says 'helped Vika'."),
+    (2, None, "'He saved the evening.' 'Spas' is just 'saved', and 'vecher' is 'evening'. The sentence is as brief as can be."),
+    (3, None, "'Yeah, she said awful things.' 'Nagovorila' has a 'na' that means a big amount, so she said a whole pile. 'Gadosti' is 'awful things'."),
+    (4, None, "'All sorts of awful things to him.' She leaves out the action. It's 'to him all kinds of nasty things', and the verb is understood."),
     (5, None, "'And she feels terrible.' Russian says 'to her very ashamed', with 'ey' for 'to her'. Shame is something that happens to you."),
     (6, None, "'So how's she going to make it right?' 'Ispravit' means 'correct' or 'put right'. 'A kak zhe' is 'and how then'."),
     (7, None, "'What will she do?' 'Budet delat' is 'will do', made of 'will be' and 'do'. It's the usual way for a longer action."),
-    (8, None, "'Ah, vodka.' It's the same word as in English, and Russians say it with the 'a' sound of recognition first. Nastya has guessed."),
-    (9, None, "'She will pour him vodka.' 'Nalyot' is 'she'll pour', and the vodka takes an 'i' ending as 'some vodka'. 'Emu' is 'to him'."),
-    (10, None, "'That's a good plan.' 'Khoroshiy plan' is the plain phrase, and Russians use it just as English does."),
+    (8, None, "'Ah, vodka.' It's the same word as in English, and Russians say it with an 'a' of recognition first. Nastya has guessed."),
+    (9, None, "'She will pour him vodka.' 'Nalyot' is 'she will pour', and vodka takes an 'i' as 'some vodka'. 'To him' is the little 'emu'."),
+    (10, None, "'That's a good plan.' It's the plain phrase, and Russians use it exactly as English does. 'Good' ends in the man's ending, since 'plan' is masculine."),
     (11, None, "'She knows what to do.' 'Chto delat' is 'what to do', as a question word with the basic form after it. 'Znaet' is 'she knows'."),
 ]

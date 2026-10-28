@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The guests are loudly singing La Marseillaise.' 'Marselezu' ends in 'u' because it is the thing being performed. 'Ispolnyayut' is a formal word for 'perform' or 'sing'.
-- 'It seems our French guest is tired.' 'Kazhetsya' means 'it seems', and it's a single word. 'Ustal' is 'got tired', and Russians use the past for 'is tired'.
+- 'The guests are loudly singing La Marseillaise.' The anthem is the thing being sung, so it takes a 'u'. 'Ispolnyat' is a formal verb, 'perform', used for singing.
+- 'It seems our French guest is tired.' 'It seems' is one word. 'Got tired' is a past form, and Russians use it for 'is tired'.
 - 'Let us all forgive Jacques.' 'Druzhno' means 'all together' and comes from 'drug', friend. Jacques takes an 'a' ending because he is the one forgiven.
-- 'He apparently had too much today.' 'Vidimo' is 'apparently', literally 'visibly'. 'Nakushalsya' is a polite and funny way to say 'ate and drank too much'.
-- 'Even without our main dish.' 'Bez' means 'without', and it is followed by the 'of' ending, so 'dish' becomes 'blyuda'. 'Dazhe' is 'even'.
-- 'He can no longer judge the food.' 'Uzhe ne' is 'already not', and it means 'no longer'. 'Otsenivat' means 'to judge, to rate'.
-- 'That is why he is just singing right now.' 'Poetomu' is 'therefore', one word. 'Poyot' is 'sings', and the word for 'just' makes it sound like a shrug.
+- 'He apparently had too much today.' 'Vidimo' is literally 'visibly'. 'Nakushalsya' is a polite and funny way to say 'ate and drank too much'.
+- 'Even without our main dish.' After 'bez', 'without', the dish goes into its 'of' form, 'blyuda'. 'Dazhe' is 'even'.
+- 'He can no longer judge the food.' 'Already not' is Russian for 'no longer'. 'Judge' means to rate, as of a dish.
+- 'That is why he is just singing right now.' 'Therefore' is one word. 'Sings' is a short action, and 'just' makes it sound like a shrug.
 - 'Well then, dear friends.' 'Nu chto zh' is a drawn-out 'well then', a favourite of people who are about to make a speech.
 - 'Then I will be the main taster.' Russian says 'as the main taster will be I', with the job in the 'ym' ending. The word order puts 'I' last for drama.
-- 'I will taste this dish myself.' 'Sam' is 'myself', and it's the same word as in 'I'll do it myself'. 'Poprobuyu' is 'I'll try' in the sense of 'taste'.
+- 'I will taste this dish myself.' 'Sam' is 'myself', the same as in 'I'll do it myself'. 'Poprobuyu' means 'try', and also 'taste'.
 - 'I hope you will really like the dish.' 'Nadeyus' is 'I hope', with 'sya' in it. 'Vam ponravitsya' is 'to you it will be pleasing'.
-- 'Let us see what our cook prepared.' 'Posmotrim' is 'let's see', and the second half asks 'what did he prepare'. 'Povar' is the cook.
+- 'Let us see what our cook prepared.' 'Let's see' is one word, and the second half asks 'what did he prepare'. 'Cook' is the word for a chef.
