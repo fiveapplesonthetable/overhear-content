@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, dear guests of our restaurant!' "Dobryy vecher" is masculine, because "vecher" is. The word for "dear" also means "expensive", which is how Russian sees the people you value.
+- 'Good evening, dear guests of our restaurant!' "Dobryy vecher" is masculine, because "vecher" is. "Dear" also means "expensive", which is how Russian sees the people you value.
 - 'Good evening, head chef!' Vadim answers with the same two words, and calls Barinov by his title, a chef and a cook stuck together.
 - 'I brought you a special surprise.' A man says "prinyos", carrying it. A woman would say "prinesla". The surprise is a borrowed word.
 - 'This is a compliment in honor of the birthday.' In Russian restaurants a "compliment from the chef" is a free extra. "In honour of" is two short words, and "birthday" is literally "day of birth".
-- 'Thank you very much, everything looks very delicious!' "Big thanks" is how Russians say "thank you very much". After "looks", the word for "delicious" takes an "-o" ending.
-- 'I see that you are an excellent cook.' "I see" is one word. Vadim is flattering the chef because he wants something.
+- 'Thank you very much, everything looks very delicious!' "Big thanks" is how Russians say "thank you very much". After "looks", "delicious" takes an "-o" ending.
+- 'I see that you are an excellent cook.' Vadim is flattering the chef because he wants something.
 - 'I can help you in the city.' "In the city" ends in -e after "in". Vadim is offering favours, the way a prosecutor can.
-- 'Call me tomorrow at any time.' The word for "call" comes from "zvon", a ring, so it's "ring me". "Any" has "love" inside it, so it means "whichever you like".
+- 'Call me tomorrow at any time.' "Call" comes from "zvon", a ring, so it's "ring me". "Any" has "love" inside it, so it means "whichever you like".
 - 'Thank you, this is a great honor for me!' "Honour" is the same word as in "in honour of". Barinov is being polite to a powerful man.
-- 'Wait, I will taste the dish myself first.' "Wait" is the polite command. "Myself" is a short word, and "first" can also mean "at the beginning".
+- 'Wait, I will taste the dish myself first.' "Wait" comes in its formal form, with "-te". "Myself" is a short word, and "first" can also mean "at the beginning".
 - 'Oh, the cook put way too much pepper in the sauce!' The verb is "pere-", over, plus "perets", pepper: over-peppered. Russians build words like this whenever something has too much.
-- 'And in my opinion, it turned out quite delicious.' "In my opinion" is literally "by mine". "Quite" is the word that also gives "pleased".
+- 'And in my opinion, it turned out quite delicious.' "In my opinion" is literally "by mine". "Quite" shares a root with "pleased".
 - 'No, I will immediately redo everything!' "Pere-" again, this time meaning "again": do it over. "Immediately" is "not slowly".
-- 'I will personally bring you an ideal dish.' "Will bring" is a single word, and "personally" comes from "personal". The chef is not backing down.
+- 'I will personally bring you an ideal dish.' "Prinesu" carries "will bring" inside it, and "personally" comes from "personal". The chef is not backing down.

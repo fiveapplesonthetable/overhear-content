@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'I cannot kill this goose.\' Here "goose" ends in "-ya" again. For a thing the object wouldn\'t change, but a living creature takes this shape. "I can\'t" is just "I not can".'),
-    (1, None, '\'Maybe you will try once more?\' Kostya starts with a short "maybe" and ends with "one more time". The word for "try" is the same "poprobuyu" family as the one Max used.'),
-    (2, None, '\'No, I definitely cannot do this.\' "Smogu" has an "s-" that means a single success, so it\'s "I will manage". Max is sure he won\'t.'),
-    (3, None, '\'Let us suddenly scare him in the dark!\' "Davay" before a "we" word means "let\'s". "Suddenly" really means "sharply", and "in the dark" is built on the word for dark.'),
+    (1, None, '\'Maybe you will try once more?\' Kostya starts with a short "maybe" and ends with "one more time". "Try" is the same "poprobuyu" family as the one Max used.'),
+    (2, None, '\'No, I definitely cannot do this.\' The "s-" at the front of "smogu" gives "I will manage", one success rather than a general ability. Max is sure he won\'t.'),
+    (3, None, '\'Let us suddenly scare him in the dark!\' "Davay" before a "we" word means "let\'s". "Suddenly" really means "sharply", and "in the dark" grows from "dark".'),
     (4, None, '\'Kostya, this is complete nonsense.\' "Some kind of" is "kakoy" plus the "-to" that makes things vague. "Bred" is nonsense, close to delirium.'),
     (5, None, '\'Birds have a very weak heart.\' Russian says "at birds", the usual "have". The "d" in "serdtse" is silent, so the word sounds like "sertse".'),
-    (6, None, '\'See, he is standing and hissing loudly.\' The word for "hisses" sounds like what it means. And Russian says the goose "stands", not "is".'),
+    (6, None, '\'See, he is standing and hissing loudly.\' "Hisses" sounds like what it means. And Russian says the goose "stands", not "is".'),
     (7, None, '\'I urgently need a real specialist.\' "To me needed", and the "needed" ends in a masculine "-en" to match "specialist". "Real" is the "true love" word.'),
     (8, None, '\'Ainura, help us solve the problem!\' "Help" is an irregular command that people just learn. "Solve" is literally "decide", so you solve a problem by deciding it.'),
     (9, None, '\'What needs to be done with this bird?\' It\'s "what is needed to do", with no "be done". "With this bird" has an "-ey" ending.'),
-    (10, None, '\'The goose needs to be removed quickly and neatly.\' The word for "remove" also means "tidy up", so it works as a polite way to say "get rid of". "Neatly" is the word you\'d use for a tidy job.'),
+    (10, None, '\'The goose needs to be removed quickly and neatly.\' "Remove" also means "tidy up", so it works as a polite way to say "get rid of". "Neatly" is what you\'d say about a tidy job.'),
     (11, None, '\'A thousand rubles, and you will never see him.\' "Thousand" is followed by "rubles" in the "of" form, like "a thousand of rubles". "Never" and "not" appear together as ever.'),
-    (12, None, '\'Deal, here is your money!\' "Dogovorilis\'" is "we have agreed", the word for sealing a deal. "Money" is always plural in Russian, so "your" has a plural ending.'),
+    (12, None, '\'Deal, here is your money!\' "Dogovorilis\'" is "we have agreed", the word that seals a deal. "Money" is always plural in Russian, so "your" has a plural ending.'),
 ]

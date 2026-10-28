@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Очень приятно познакомиться, уважаемый Вадим.', 'Very nice to meet you, esteemed Vadim.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Vika, we need to talk calmly.\' The pattern is "to us necessary", and "calmly" is built on the word for calm, the same family as "good night".'),
+    (0, None, '\'Vika, we need to talk calmly.\' The pattern is "to us necessary", and "calmly" grows out of "calm", a relative of "good night".'),
     (1, None, '\'My personal life is none of your business.\' Vika says "does not touch you", which is the Russian idea of "none of your business". "Personal" is borrowed enough to follow.'),
     (2, None, '\'Let us not tell anyone anything.\' A stack of negatives once more: "let\'s not", "to nobody" and "nothing". The first word is the friendly "let\'s".'),
     (3, None, '\'Are you afraid that I will tell colleagues?\' "Are you afraid" has a "-sya" at the end, a little "self". "Colleagues" ends in "-am", the "to" ending.'),
     (4, None, '\'Me? No, I do not care at all.\' "Mne vsyo ravno" is literally "to me everything is equal", and it\'s how Russians say "I don\'t care". It\'s worth learning whole.'),
     (5, None, '\'There is nothing serious between us anyway.\' The same "vsyo ravno" turns up with the meaning "anyway" or "all the same". "Between us" and "nothing serious isn\'t" are the other two chunks.'),
-    (6, None, '\'Oh, so that is how you speak now!\' The word for "started speaking" has a prefix meaning "begin", so it\'s "you\'ve started talking like that". Vika is hurt.'),
-    (7, None, '\'Vika, wait! Who is this young man?\' "Wait" is built on "stand", so it means "stand a moment". "Young man" is the usual polite way to point at a young man.'),
-    (8, None, '\'Vadim, did you want to know the truth?\' She speaks to him with the friendly "you". "Wanted" has a man\'s "-l" ending, and "truth" is the word that also means "really?".'),
+    (6, None, '\'Oh, so that is how you speak now!\' "Started speaking" has a prefix meaning "begin", so it\'s "you\'ve started talking like that". Vika is hurt.'),
+    (7, None, '\'Vika, wait! Who is this young man?\' "Wait" has "stand" inside it, so it means "stand a moment". "Young man" is the usual polite way to point at a young man.'),
+    (8, None, '\'Vadim, did you want to know the truth?\' She speaks to him with the friendly "you". "Wanted" has a man\'s "-l" ending, and "truth" doubles as "really?".'),
     (9, None, '\'Yes, I want to know everything.\' Short and demanding, with "I want" and "everything" as the only pieces. Vadim doesn\'t waste words.'),
     (10, None, '\'Here, meet my boyfriend.\' The same word means "guy" and "boyfriend", so context does the work. "Meet" is a command with "self" on the end, and "with my boyfriend" takes the "with" endings.'),
     (11, None, '\'This is my Max, we are together now!\' "My Max" is how Russians show affection or ownership. "We together" is all you need to say you\'re a couple.'),
-    (12, None, '\'Very nice to meet you, esteemed Vadim.\' This is the formal "pleased to meet you", with "pleasant" at the heart of it. "Esteemed" is built on "respect", so it sounds stiff, and Max is making fun.'),
+    (12, None, '\'Very nice to meet you, esteemed Vadim.\' This is the formal "pleased to meet you", with "pleasant" at the heart of it. "Esteemed" is "respect" stretched into a describing word, so it sounds stiff, and Max is making fun.'),
 ]

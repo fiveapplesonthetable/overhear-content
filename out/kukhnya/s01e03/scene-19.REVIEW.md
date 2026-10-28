@@ -27,8 +27,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, excuse us for this noise.' "Excuse us" is the polite command with "us". The reason follows after the little word "za".
-- 'Do not worry, this pistol was not real.' "Don't worry" is built on "bez pokoya", without peace. "Real" is the "true love" word.
+- 'Chef, excuse us for this noise.' "Excuse us" is a formal command, with "us" tacked on. The reason follows after the little word "za".
+- 'Do not worry, this pistol was not real.' "Don't worry" is from "bez pokoya", without peace. "Real" is the "true love" word.
 - 'Here is generous money for these inconveniences.' "Inconveniences" is "ne" plus "comforts", so it means "discomforts". "Generous" ends in the plural because "money" is plural in Russian.
 - 'Thank you, we are glad to help our guests.' "Glad" has a plural ending, "rady". "Guests" ends in "-am", which means "to".
 - 'Runt, come here right now!' The nickname again. And "go here" stands for "come here".
@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'On the second day you started a brawl in the bar.' It's "vo vtoroy", with "vo" not "v", since "vt" is hard to say. "Started a brawl" is "arranged a fight".
 - 'You angered our chief art director.' "Angered" has "zloy", angry, inside. "Chief" is the "main" word.
 - 'And today you were almost shot!' With no subject, "they shot" is how Russians say it when the gunman is unnamed. "Almost" is the "chut' ne" again.
-- 'Chef, I promise to work much better.' "I promise" is a single word. "Much better" is literally "by much better".
+- 'Chef, I promise to work much better.' "Much better" is literally "by much better".
 - 'Looks like you fit right into the team!' Russians say "write yourself into" for "fit in". The first word is "looks like".
 - 'Let us head quickly to work in our kitchen.' "Went" is used as "let's go", a favorite trick of Russian. "To our kitchen" ends in -u.

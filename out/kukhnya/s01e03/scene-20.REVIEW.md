@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Runt, kneel down on one knee before us!' Russian says "stand onto a knee" for kneeling on one knee. "Before us" has "us" in a special shape.
 - 'Chef, what will happen to me now?' Russian says "what will be with me", and "with" becomes "so" before "me".
-- 'We solemnly accept you into our kitchen!' "Solemnly" comes from "torzhestvo", a celebration. "Accept" is built on "take".
+- 'We solemnly accept you into our kitchen!' "Solemnly" comes from "torzhestvo", a celebration. "Accept" is a form of "take".
 - 'In the name of the hot oven and baking tray!' "In the name of" is a solemn old phrase. The oven and the tray take the "of" ending.
 - 'In the name of the heavy frying pan and ladle!' "Heavy" ends in a feminine "-oy" after "of". The chef is turning kitchen tools into saints.
 - 'Congratulations on your culinary baptism of fire!' "Baptism of fire" is exactly the Russian idiom. "Congratulate on" uses "with".
-- 'Chef, are you not even going to punish me?' "Will punish" is a single word. "Not even" is the pair from before.
+- 'Chef, are you not even going to punish me?' "Not even" is the pair from before.
 - 'Was this ritual not enough for you?' "Razve" opens a question that expects the answer "no". "To you little" is Russian for "not enough for you".
-- 'You are the first person who passed the initiation!' "Who" ties the two halves together. "Passed" is built on "go".
-- 'We should initiate all future newcomers like this!' "It will be necessary" is "nado budet". "Newcomers" is built on "new".
+- 'You are the first person who passed the initiation!' "Who" ties the two halves together. "Passed" is "go", prefixed.
+- 'We should initiate all future newcomers like this!' "It will be necessary" is "nado budet". "Newcomers" are the "new" ones.
 - 'Life is full of various losses and gains.' "Full" has a feminine ending to match "life". "Losses" and "gains" are both plurals.
 - 'Some people grieve, while others always rejoice.' "Some... others" is a pair. "Grieve" comes from "sadness", and "rejoice" from "joy".
 - 'But true friends always help in trouble.' "Friends" is an irregular plural. "In trouble" ends in -e after "in".
-- 'The main thing is to understand that this is only the beginning!' "The main thing" is one word. "Beginning" comes from "to begin".
+- 'The main thing is to understand that this is only the beginning!' "Glavnoye" does the job of "the main thing". "Beginning" comes from "to begin".

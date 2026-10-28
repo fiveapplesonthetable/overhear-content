@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Lyova, show me this goose.' The command for "show" is friendly. "This goose" has the animate ending, "-ya".
 - 'Here it is, chef, I already finished.' "Here it is" is "vot on", pointing at the bird. "Finished" is a man's past, with "-l".
-- 'Why is it so strangely small?' "Chego" is a casual "why", close to "what for". "Strangely" is built on "strange".
+- 'Why is it so strangely small?' "Chego" is a casual "why", close to "what for". "Strangely" is "strange" with the how-word ending.
 - 'It turned out like that because of feathers.' "Iz-za" means "because of", usually for something bad. "Feathers" is a plural with "-yev" on the end.
 - 'It turned out that it has very thick feathers.' "Okazalos'" is "it turned out", a very useful sentence opener. "At him" is "u nego", the "have" pattern.
 - 'We bought a huge bird after all!' "Zhe" gives the "after all". "Huge" is the same word as "ogromnoye" in "huge thanks".
@@ -35,5 +35,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'There is completely little meat here for the guests.' "Little" is followed by "meat" in the "of" form, "myasa". "For the guests" has the "for" ending.
 - 'What should we do with it now?' "To us to do" is the pattern for "what should we do". "With it" adds an "n" to "it".
 - 'Prepare a special sauce and a beautiful side dish.' The chef gives a command with "prepare" at the start. "Side dish" is borrowed from French.
-- 'Alright, chef, I will do everything quickly.' "Will do" is one word, with the "s-" meaning "done". Lyova sounds eager.
+- 'Alright, chef, I will do everything quickly.' The "s-" in front of "do" makes it "get it done". Lyova sounds eager.
 - 'The guests must be pleased with our banquet!' "Must be" is two short words. "Pleased with" takes the "with" ending, so "banquet" ends in "-om".

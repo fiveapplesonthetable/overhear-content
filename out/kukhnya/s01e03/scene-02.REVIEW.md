@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Nastya, why do you not eat meat?' Ainura uses "kushat'", a soft, homely word for eating that you'd say to a child or at the table. The plain word is "yest'". And the meat is "myaso".
 - 'Because I am a strict vegetarian.' "Potomu chto" is the matching answer to "pochemu": "why" and "because" make a pair. The "-ka" at the end of "vegetarian" marks a woman, so a man would be a "vegetarianets".
 - 'Really? And here I thought you were Russian.' "Da ty chto" is a very Russian "you don't say!", literally "yes, you what?". Ainura says "dumala" with the "-la" of a woman.
-- 'Vegetarians are people who do not eat meat.' "Kotoryye" means "who" or "which", and joins a group to what they do. The word for "they eat" is irregular. And "people" is irregular too.
+- 'Vegetarians are people who do not eat meat.' "Kotoryye" means "who" or "which", and joins a group to what they do. "They eat" is irregular. And "people" is irregular too.
 - 'I used to be a vegetarian too.' "Ran'she" means "earlier", so it gives you "used to". After "was", the job takes the "-oy" ending, the same "as a" idea as before.
 - 'Really? When did you not eat meat?' Nastya uses the polite "you" with Ainura, who is older, though Ainura says "ty" to her. "Kogda" is "when".
 - 'In the nineties there was no money at all.' Russian says "in the ninety years" for "in the nineties". And "there was not of money" uses the "of" form of money, "deneg", after "not".
 - 'I ate only potatoes for a whole year.' "Whole year" is "tselyy god". Russians say "potato" in the singular for the whole crop, like "a year of potato".
-- 'I consider killing animals unacceptable.' The word for "animals" is from the same family as "alive", which you heard in the goose scene. "Unacceptable" is "not permissible".
-- 'But juicy meat cutlets are so tasty!' The word for "juicy" comes from "sok", juice. "Meat" turns into a describing word, and every word in "so tasty" takes the plural ending.
+- 'I consider killing animals unacceptable.' "Animals" is a relative of "alive", which you heard in the goose scene. "Unacceptable" is "not permissible".
+- 'But juicy meat cutlets are so tasty!' "Juicy" comes from "sok", juice. "Meat" turns into a describing word, and every word in "so tasty" takes the plural ending.
 - 'Every cow has the right to life.' A cow is "korova", and Nastya makes it tender with "-ka". "Has the right" is formal, since "have" in this sense is not the everyday "at me" pattern.
-- 'Oh my! You tell stories so beautifully!' "Bay" is an exclamation from Ainura's home region, which fits her. "Beautifully" is built on "krasivyy", beautiful.
+- 'Oh my! You tell stories so beautifully!' "Bay" is an exclamation from Ainura's home region, which fits her. "Beautifully" comes from "krasivyy", beautiful.
 - 'I hope you finally understood me.' "Nakonets", "finally", is a handy word for anything long awaited. "Understood" ends in "-li", the polite plural.

@@ -28,13 +28,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Kostya, why did you tell him?' Max asks "what for", not just "why", which makes it sound like an accusation. "Him" is in the "to him" form.
-- 'I am completely finished now.' Literally "to me now complete end". The word for "end" is how Russians say "I'm done for".
-- 'Who did I tell?' Kostya repeats the question in his own words. "To whom" is a single short word.
-- 'That man in the suit.' The word for "man" here is a casual, slightly rough one. "In the suit" has an ending after "in".
+- 'I am completely finished now.' Literally "to me now complete end". "End" is how Russians say "I'm done for".
+- 'Who did I tell?' Kostya repeats the question in his own words. "To whom" is "komu", the "to" form of "who".
+- 'That man in the suit.' "Man" here is a casual, slightly rough word. "In the suit" has an ending after "in".
 - 'What was he asking you?' Russian says "ask at you", not "ask you". The question word has a special shape for "asking about".
 - 'Oh, calm down already.' The command has "-sya" at the end, which is a little "self". "Finally" is a good word for impatience.
 - 'He was simply asking about the restroom.' "Tualet" is borrowed from French, and it never changes. "Asking about" has a casual short word for "about".
-- 'Seriously? Only about the restroom?' The word for "only" goes right in front of "about". Max can hardly believe it.
+- 'Seriously? Only about the restroom?' "Only" goes right in front of "about". Max can hardly believe it.
 - 'Yes, he was looking for the restroom.' "Looked for" ends in "-l" for a man. It's the same family as "ishchet", looks for.
 - 'And he didn't ask about me?' The opening "a" is a contrast, like "and what about me?". "Didn't ask" is the negative of the same word.
 - 'Who needs you anyway?' "To whom needed" is the pattern for "who needs", and "anyway" is a word for "at all".

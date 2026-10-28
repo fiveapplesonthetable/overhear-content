@@ -31,11 +31,11 @@ STORY = [
     ('barinov', 'Макс, живо возвращайся обратно на кухню!', 'Max, quickly get back to the kitchen!', [], ''),
 ]
 WALK = [
-    (0, None, '\'Tell me please, is that my festive goose?\' "Say, please" is the polite way to open a question. Russian has no "is that" here, just "this my goose".'),
-    (1, None, '\'Yes, this is your main order today!\' "Your" is the polite one. "Order" is the word for a customer\'s order in a restaurant.'),
-    (2, None, '\'We prepared it according to an ancient recipe.\' "Ancient" is built on "old", but it means "of old times". "According to the recipe" uses the little word "po".'),
+    (0, None, '\'Tell me please, is that my festive goose?\' Starting with "say, please" is how Russians politely open a question. Russian has no "is that" here, just "this my goose".'),
+    (1, None, '\'Yes, this is your main order today!\' The guest uses the formal "your". "Order" is what a customer places in a restaurant.'),
+    (2, None, '\'We prepared it according to an ancient recipe.\' "Ancient" starts from "old", but it means "of old times". "According to the recipe" uses the little word "po".'),
     (3, None, '\'Our chef personally checked every detail.\' "Checked" is the kind of verb that means "was checking", a repeated action. "Detail" is borrowed.'),
-    (4, None, '\'The goose looks and smells simply magnificent!\' The word for "magnificent" is built on "great", so it\'s "greatly". Russians say "looks and smells" in just those words.'),
+    (4, None, '\'The goose looks and smells simply magnificent!\' "Magnificent" has "great" inside it, so it\'s "greatly". Russians say "looks and smells" in just those words.'),
     (5, None, '\'The meat turned out very tender and juicy.\' "Turned out" is neuter to match "meat". "Tender and juicy" end in "-ym", because the meat turned out "as" tender.'),
     (6, None, '\'We served it with apples and herbs.\' "With apples and herbs" shows "-ami", the ending that means "with".'),
     (7, None, '\'My guests will be in total delight!\' "In delight" is two short words. "Will be" is plural.'),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, '\'Thank you for the wonderful work, chefs!\' This is the "thank you for" frame. "Cooks" has the plural in "-a" that looks odd.'),
     (10, None, '\'Bon appetit to you and your guests!\' "Of pleasant appetite", as before. "To you and to your guests" gives both the "to" ending.'),
     (11, None, '\'We hope to see you again at the restaurant.\' "We hope" ends in "-sya", the little "self". "Again" is a short word.'),
-    (12, None, '\'Max, quickly get back to the kitchen!\' "Quickly" is the "alive" word the chef has used all week. "Back" is the word for "back to where you came from".'),
+    (12, None, '\'Max, quickly get back to the kitchen!\' "Quickly" is the "alive" word the chef has used all week. "Back" means "back to where you came from".'),
 ]

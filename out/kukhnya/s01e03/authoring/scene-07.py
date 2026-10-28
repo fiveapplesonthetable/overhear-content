@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Here is dessert from our pastry chef.\' The chef says "from our pastry chef" as if it were someone else\'s work, with the "from" ending on both words. "Vot" does the pointing.'),
-    (1, None, '\'Thank you for changing the menu for me.\' "Thank you that" is the Russian frame for thanking someone for what they did. The ending on "changed" is the polite plural.'),
+    (1, None, '\'Thank you for changing the menu for me.\' "Thank you that" is the Russian frame for thanking someone for what they did. The ending on "changed" is plural, out of politeness.'),
     (2, None, '\'I am the chef and I fulfill any orders.\' Russian says "any" with a word that has "love" in it: "whichever you like". Barinov is bragging.'),
     (3, None, '\'And what do you do, if it is not a secret?\' Literally "as whom do you work", with the "as" ending on "whom". "If it\'s not a secret" is a polite way to ask a personal question.'),
     (4, None, '\'I work as a judge at the Tverskoy court.\' The woman says "as a judge" with an "-oy" ending, the same "as a" idea. "At the court" has an "-e" after "in".'),
     (5, None, '\'Whoa! And they suspended my license yesterday!\' Russians call a driving licence "rights", always in the plural, so "they deprived me of rights" means "they took my licence". The unnamed "they" is the authorities.'),
-    (6, None, '\'What is your last name?\' This is the word for surname, which looks like "family" but means only the last name. A good false friend to know.'),
+    (6, None, '\'What is your last name?\' The Russian "surname" looks like "family" but means only the last name. A good false friend to know.'),
     (7, None, '\'My last name is Barinov. Viktor Barinov.\' In Russian "is" is left out, so it\'s just "my surname Barinov". Notice the order, first name and then surname.'),
     (8, None, '\'So it was I who issued that decision!\' The judge uses a word that really means "carried out", the usual verb for passing a sentence. The little "eto ya" puts the spotlight on "I".'),
-    (9, None, '\'Maybe we can fix everything?\' "Maybe" is the two words "can be". "Fix" is a word built on "right", so it means "make right".'),
-    (10, None, '\'No. You knocked down a traffic light on the road!\' The word for traffic light is built on "light" and a Greek "bearer", so it\'s literally a "light-bearer". "On the road" has an "-e" ending.'),
-    (11, None, '\'But I had a valid excuse.\' Russian says "at me there was", the usual "had" in the past. And "valid" is built on "respect", so it\'s an excuse that deserves respect.'),
+    (9, None, '\'Maybe we can fix everything?\' "Maybe" is the two words "can be". "Fix" starts from "right", so it means "make right".'),
+    (10, None, '\'No. You knocked down a traffic light on the road!\' A traffic light puts "light" next to a Greek "bearer", so it\'s literally a "light-bearer". "On the road" has an "-e" ending.'),
+    (11, None, '\'But I had a valid excuse.\' Russian says "at me there was", the usual "had" in the past. And "valid" has "respect" inside it, so it\'s an excuse that deserves respect.'),
     (12, None, '\'Say thank you that the suspension is only a year.\' "Say thanks" is a Russian way of saying "count yourself lucky". "Only a year" is "in all a year".'),
 ]

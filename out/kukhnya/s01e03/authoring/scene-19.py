@@ -32,8 +32,8 @@ STORY = [
     ('barinov', 'Пошли скорее работать на нашу кухню.', 'Let us head quickly to work in our kitchen.', [(334, 'Пошли.')], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, excuse us for this noise.\' "Excuse us" is the polite command with "us". The reason follows after the little word "za".'),
-    (1, None, '\'Do not worry, this pistol was not real.\' "Don\'t worry" is built on "bez pokoya", without peace. "Real" is the "true love" word.'),
+    (0, None, '\'Chef, excuse us for this noise.\' "Excuse us" is a formal command, with "us" tacked on. The reason follows after the little word "za".'),
+    (1, None, '\'Do not worry, this pistol was not real.\' "Don\'t worry" is from "bez pokoya", without peace. "Real" is the "true love" word.'),
     (2, None, '\'Here is generous money for these inconveniences.\' "Inconveniences" is "ne" plus "comforts", so it means "discomforts". "Generous" ends in the plural because "money" is plural in Russian.'),
     (3, None, '\'Thank you, we are glad to help our guests.\' "Glad" has a plural ending, "rady". "Guests" ends in "-am", which means "to".'),
     (4, None, '\'Runt, come here right now!\' The nickname again. And "go here" stands for "come here".'),
@@ -43,7 +43,7 @@ WALK = [
     (8, None, '\'On the second day you started a brawl in the bar.\' It\'s "vo vtoroy", with "vo" not "v", since "vt" is hard to say. "Started a brawl" is "arranged a fight".'),
     (9, None, '\'You angered our chief art director.\' "Angered" has "zloy", angry, inside. "Chief" is the "main" word.'),
     (10, None, '\'And today you were almost shot!\' With no subject, "they shot" is how Russians say it when the gunman is unnamed. "Almost" is the "chut\' ne" again.'),
-    (11, None, '\'Chef, I promise to work much better.\' "I promise" is a single word. "Much better" is literally "by much better".'),
+    (11, None, '\'Chef, I promise to work much better.\' "Much better" is literally "by much better".'),
     (12, None, '\'Looks like you fit right into the team!\' Russians say "write yourself into" for "fit in". The first word is "looks like".'),
     (13, None, '\'Let us head quickly to work in our kitchen.\' "Went" is used as "let\'s go", a favorite trick of Russian. "To our kitchen" ends in -u.'),
 ]
