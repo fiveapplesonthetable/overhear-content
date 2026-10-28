@@ -2,6 +2,7 @@
 """Help split an episode into scenes: list silences between subtitle cues and the lines around them.
 
   python3 tools/gaps.py sources/kukhnya/s01/e02.ru.dual.srt [--min 8]   # gaps of >= 8 s (default)
+  (a Russian-only sidecar, sources/kukhnya/s02/e04.ru.srt, works the same way)
 Also prints episode length and cue count. Big gaps are scene-break candidates; confirm by reading the
 lines either side (who is speaking, where they are).
 """
