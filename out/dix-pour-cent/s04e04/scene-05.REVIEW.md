@@ -27,5 +27,5 @@
 | 13 | `sandrine` (Sandrine) | Oui, prépare-toi pour mon spectacle! | Yes, get ready for my show! | 445:C'est merveilleux ! |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around sandrine's calling. When you watch the episode, listen out for the expressions meaning 'read' and 'great'. You'll catch them now. See you next time.
+> That's it for this scene around sandrine's calling. When you watch the episode, listen out for the expressions meaning 'read' and 'great'. You'll catch them now. See you next time!
 - **Closing**: `sandrine`: *Bonne soirée!*

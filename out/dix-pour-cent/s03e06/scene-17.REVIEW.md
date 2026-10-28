@@ -27,5 +27,5 @@
 | 13 | `catherine` (Catherine) | Alors, notre mariage est bien terminé. | So, our marriage is truly over. | 908:t'as raison |
 
 ## Part 5 — Outro & Closing
-> With quiet dignity and mutual understanding, Catherine and Mathias close one chapter and prepare for new beginnings. When you watch the episode, listen out for the expressions meaning 'hear each other' and 'come'. You'll catch them now. See you next time.
+> With quiet dignity and mutual understanding, Catherine and Mathias close one chapter and prepare for new beginnings. When you watch the episode, listen out for the expressions meaning 'hear each other' and 'come'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

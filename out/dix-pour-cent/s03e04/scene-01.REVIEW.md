@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Fais-moi confiance, tout se passera bien. | Trust me, everything will go well. | 67:T'inquiète pas. |
 
 ## Part 5 — Outro & Closing
-> Hicham remains tense about the risky double booking, fearing disastrous legal blowback from the American producers. When you watch the episode, listen out for the expressions meaning 'problem' and 'business agreements'. You'll catch them now. See you next time.
+> Hicham remains tense about the risky double booking, fearing disastrous legal blowback from the American producers. When you watch the episode, listen out for the expressions meaning 'problem' and 'business agreements'. You'll catch them now. See you next time!
 - **Closing**: `hicham`: *Bonne soirée!*

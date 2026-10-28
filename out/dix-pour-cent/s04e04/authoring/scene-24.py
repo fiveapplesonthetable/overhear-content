@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 24
-TITLE = "La musique dans la tête  (Music in the head)"
-LEVEL = "A1 — débutant"
+TITLE = 'La musique dans la tête  (Music in the head)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "chanteuse": "emilie"}
-LABELS = {"chanteuse": "Chanteuse"}
+VOICES = {'narrator': 'sky', 'chanteuse': 'emilie'}
+LABELS = {'chanteuse': 'Chanteuse'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "The episode ends with a beautiful song playing over a montage. We hear a woman singing about not knowing where she is going. We'll hear it in French first, don't worry about catching every word."
 OPENER = "Let's go back through it. A song begins."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around music in the head, and for the words meaning 'step' and 'city'. You'll catch them now. See you next time."
-CLOSING = ("chanteuse", "À la prochaine.")
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around music in the head, and for the words meaning 'step' and 'city'. You'll catch them now. See you next time!"
+CLOSING = ('chanteuse', 'À la prochaine.')
 STORY = [
     ('chanteuse', 'Je marche dans la ville.', 'I walk in the city.', [], ''),
     ('chanteuse', 'Il fait très nuit.', 'It is very dark.', [], ''),

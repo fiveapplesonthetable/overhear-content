@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 23
-TITLE = "Le coup de théâtre  (The Dramatic Twist)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le coup de théâtre  (The Dramatic Twist)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "xavier": "marcel"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "xavier": "Xavier"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'xavier': 'marcel'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'xavier': 'Xavier'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Director Xavier Beauvois takes the stage to accept the Cesar for Best Director and makes a stunning announcement about his next film. Sitting in the audience, Andrea and Gabriel are struck dumb when Xavier reveals his producer is none other than Mathias Barneville. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Mathias's surprise announcement as an independent producer leaves Andrea and Gabriel reeling. When you watch the episode, listen out for the expressions meaning 'share' and 'prize'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Mathias's surprise announcement as an independent producer leaves Andrea and Gabriel reeling. When you watch the episode, listen out for the expressions meaning 'share' and 'prize'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('xavier', 'Je partage ce prix avec mon équipe.', 'I share this prize with my team.', [(983, "Je voudrais d'abord partager ce prix avec mon formidable équipe")], ''),
     ('lea', 'Xavier Beauvois a remporté le grand prix.', 'Xavier Beauvois won the big prize.', [(984, "C'est mon deuxième César")], ''),

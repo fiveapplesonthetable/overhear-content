@@ -26,5 +26,5 @@
 | 12 | `chanteuse` (Chanteuse) | La vie continue toujours. | Life always goes on. | adapted |
 
 ## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around music in the head, and for the words meaning 'step' and 'city'. You'll catch them now. See you next time.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around music in the head, and for the words meaning 'step' and 'city'. You'll catch them now. See you next time!
 - **Closing**: `chanteuse`: *À la prochaine.*

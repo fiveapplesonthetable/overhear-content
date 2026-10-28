@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 2
 SCENE = 14
 TITLE = "L'orthophoniste secret  (The Secret Speech Therapist)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "franck": "marcel"}
-LABELS = {"gabriel": "Gabriel", "franck": "Franck"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'franck': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'franck': 'Franck'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Outside the community center, Gabriel confronts young actor Dylan to salvage Franck Dubosc's reputation. Desperate to make Dylan drop his complaint, Gabriel resorts to clumsy accusations until Franck steps in with a surprising discovery. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Gabriel tries every trick to protect his client, even making baseless accusations against Dylan. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = "Gabriel tries every trick to protect his client, even making baseless accusations against Dylan. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('gabriel', "Dylan! Attends une seconde, s'il te plaît.", 'Dylan! Wait a second, please.', [(809, 'Dylan ?'), (813, "S'il te plaît")], ''),
     ('franck', "Qu'est-ce que tu veux de moi?", 'What do you want from me?', [(810, "Qu'est-ce que tu veux")], ''),

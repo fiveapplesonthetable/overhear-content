@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 5
-TITLE = "Un casting pour Luc Besson!  (An Audition for Luc Besson!)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un casting pour Luc Besson!  (An Audition for Luc Besson!)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "After promising François that his swimming phobia will stay strictly between them, Andréa heads back to work. Across the hallway at the reception desk, Gabriel approaches Sofia with an exciting opportunity that could transform her acting career. Let's listen to the scene in French first."
 OPENER = "Let's follow Gabriel's surprise announcement step by step as we go."
 TRANSITION = "Now let's listen to Gabriel and Sofia's conversation once more."
-OUTRO = "Sofia has just landed the audition of a lifetime with director Luc Besson, even if her hip-hop dancing skills might require some urgent improvisation. In the next room, Hervé and Noémie are watching a suspicious luxury bag on Mathias's desk. See you next time!"
-CLOSING = ("sofia", "À demain!")
+OUTRO = 'Sofia has just landed the audition of a lifetime with director Luc Besson, even if her hip-hop dancing skills might require some urgent improvisation. See you next time!'
+CLOSING = ('sofia', 'À demain!')
 STORY = [
     ('gabriel', 'Tu danses?', 'Do you dance?', [(121, 'Tu danses ?')], ''),
     ('sofia', "Pourquoi? Tu m'invites à sortir?", 'Why? Are you asking me out?', [(122, "Pourquoi ? Tu m'invites à sortir ?")], ''),

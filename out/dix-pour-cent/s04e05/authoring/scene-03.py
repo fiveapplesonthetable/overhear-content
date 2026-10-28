@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 3
-TITLE = "Une carte pour Mathias  (A Card for Mathias)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une carte pour Mathias  (A Card for Mathias)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "gabriel": "theo"}
-LABELS = {"camille": "Camille", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'gabriel': 'theo'}
+LABELS = {'camille': 'Camille', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "At the ASK agency, Camille and Gabriel browse through various get-well cards for their former colleague Mathias Barneville. Having learned that Mathias recently suffered a heart attack, the two agents deliberate over appropriate card designs and discuss visiting him in person. Let's listen to their conversation in French first."
 OPENER = "Let's explore Camille and Gabriel's thoughtful discussion line by line."
 TRANSITION = "Now let's listen to Camille and Gabriel's discussion once more from start to finish."
-OUTRO = "That's it for this scene around a card for mathias. When you watch the episode, listen out for the expressions meaning 'look' and 'card'. You'll catch them now. See you next time."
-CLOSING = ("camille", "À demain!")
+OUTRO = "That's it for this scene around a card for mathias. When you watch the episode, listen out for the expressions meaning 'look' and 'card'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'À demain!')
 STORY = [
     ('camille', 'Regarde cette carte de bon rétablissement.', 'Look at this get-well card.', [(56, 'BON RÉTABLISSEMENT')], ''),
     ('gabriel', 'Je ne suis pas sûr de ce choix.', 'I am not sure about this choice.', [(57, 'Je ne suis pas sûr.')], ''),

@@ -26,5 +26,5 @@
 | 12 | `maxime` (Maxime) | Je veux le voir demain dans mon bureau! | I want to see him tomorrow in my office! | 168:dans |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around like in the revenant. When you watch the episode, listen out for the expressions meaning 'director' and 'shouts'. You'll catch them now. See you next time.
+> That's it for this scene around like in the revenant. When you watch the episode, listen out for the expressions meaning 'director' and 'shouts'. You'll catch them now. See you next time!
 - **Closing**: `maxime`: *À demain!*

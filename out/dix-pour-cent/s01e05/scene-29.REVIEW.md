@@ -31,5 +31,5 @@
 | 17 | `gabriel` (Gabriel) | Non. | No. | 697:Non |
 
 ## Part 5 — Outro & Closing
-> While Gabriel and Sofia head out to dinner together, Mathias is still in his office late at night — and he has one last important conversation waiting for him with Camille. See you in the final scene of the episode.
+> While Gabriel and Sofia head out to dinner together, Mathias is still in his office late at night — and he has one last important conversation waiting for him with Camille. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

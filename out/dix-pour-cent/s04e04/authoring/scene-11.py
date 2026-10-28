@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 11
-TITLE = "La robe dorée  (The Golden Dress)"
-LEVEL = "A1 — débutant"
+TITLE = 'La robe dorée  (The Golden Dress)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Sofia Leprince arrives at the agency reception wearing a dazzling golden dress from a photoshoot next door. Gabriel admires her glamorous outfit and informs her that Camille is currently in a meeting. Let's listen to their exchange in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Sofia heads down the corridor toward Camille's office in her sparkling golden gown. When you watch the episode, listen out for the expressions meaning 'hello' and 'look at'. You'll catch them now. See you next time."
-CLOSING = ("sofia", "Bonne journée!")
+OUTRO = "Sofia heads down the corridor toward Camille's office in her sparkling golden gown. When you watch the episode, listen out for the expressions meaning 'hello' and 'look at'. You'll catch them now. See you next time!"
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('sofia', 'Bonjour Gabriel, regarde ma nouvelle robe!', 'Hello Gabriel, look at my new dress!', [(876, 'Dior')], ''),
     ('gabriel', 'Wow, Charlize Theron est de retour!', 'Wow, Charlize Theron is back!', [(877, 'Charlize Theron est de retour')], ''),

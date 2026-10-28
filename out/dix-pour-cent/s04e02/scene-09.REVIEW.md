@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Donnez-le plutôt à Catherine Deneuve! | Give it instead to Catherine Deneuve! | 453:Catherine |
 
 ## Part 5 — Outro & Closing
-> Andrea races out of the cafe after realizing Mathias has intercepted Nathalie Baye. When you watch the episode, listen out for the expressions meaning 'excuse me' and 'madam'. You'll catch them now. See you next time.
+> Andrea races out of the cafe after realizing Mathias has intercepted Nathalie Baye. When you watch the episode, listen out for the expressions meaning 'excuse me' and 'madam'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

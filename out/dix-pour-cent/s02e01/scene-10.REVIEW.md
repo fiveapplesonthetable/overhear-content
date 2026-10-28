@@ -29,5 +29,5 @@
 | 15 | `mathias` (Mathias) | Rien du tout. C'est une catastrophe. | Nothing at all. It is a disaster. | adapted |
 
 ## Part 5 — Outro & Closing
-> Mathias's philosophical speech did not convince Ramzy at all. next time, we will head over to Andréa's office as she plans an unwanted family trip.
+> Mathias's philosophical speech did not convince Ramzy at all. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

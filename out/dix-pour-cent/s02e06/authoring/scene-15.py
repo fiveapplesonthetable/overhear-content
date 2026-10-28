@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 15
-TITLE = "Cet enfant est le mien  (That Child is Mine)"
-LEVEL = "A1 — débutant"
+TITLE = 'Cet enfant est le mien  (That Child is Mine)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = 'At a Cannes hotel bar, agency boss Hicham confronts Andréa after discovering that she is pregnant following their intimate night together. Claiming biological fatherhood, Hicham insists on having a say in the pregnancy, while Andréa fiercely defends her exclusive bodily autonomy. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "Fiercely asserting her bodily autonomy, Andréa rejects Hicham's demands to participate in decisions about her pregnancy. Until next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Fiercely asserting her bodily autonomy, Andréa rejects Hicham's demands to participate in decisions about her pregnancy. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('hicham', "Salut, Andréa! Tu viens d'arriver?", 'Hi, Andréa! Did you just arrive?', [(375, 'Salut'), (376, "Tu viens d'arriver")], ''),
     ('lea', "Oui, je viens d'arriver au bar.", 'Yes, I just arrived at the bar.', [(377, "Oui, à l'instant même")], ''),

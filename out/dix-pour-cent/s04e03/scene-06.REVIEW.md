@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Mon Dieu, que vient faire cette concurrente? | My God, what is this competitor coming to do? | 201:StarMédia va racheter ASK ? |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the enemy in our walls. When you watch the episode, listen out for the expressions meaning 'woman' and 'elegant'. You'll catch them now. See you next time.
+> That's it for this scene around the enemy in our walls. When you watch the episode, listen out for the expressions meaning 'woman' and 'elegant'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

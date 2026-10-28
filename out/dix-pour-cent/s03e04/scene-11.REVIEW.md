@@ -26,5 +26,5 @@
 | 12 | `isabelle` (Isabelle) | Allons-y, je suis prête pour Gary. | Let us go, I am ready for Gary. | adapted |
 
 ## Part 5 — Outro & Closing
-> Mathias successfully bundles Isabelle into the car, racing across the night to reach the American production on time. When you watch the episode, listen out for the expressions meaning 'hurry up' and 'must'. You'll catch them now. See you next time.
+> Mathias successfully bundles Isabelle into the car, racing across the night to reach the American production on time. When you watch the episode, listen out for the expressions meaning 'hurry up' and 'must'. You'll catch them now. See you next time!
 - **Closing**: `isabelle`: *Bonne soirée!*

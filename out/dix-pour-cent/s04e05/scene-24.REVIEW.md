@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Rentrons chez nous nous reposer ensemble. | Let us go home to rest together. | 888:rentrer à la maison |
 
 ## Part 5 — Outro & Closing
-> Mathias smiles gently and takes Noemie's hand, grateful for her fierce love and protective strength. When you watch the episode, listen out for the expressions meaning 'doctor' and 'placed'. You'll catch them now. See you next time.
+> Mathias smiles gently and takes Noemie's hand, grateful for her fierce love and protective strength. When you watch the episode, listen out for the expressions meaning 'doctor' and 'placed'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

@@ -27,5 +27,5 @@
 | 13 | `noemie` (Noémie) | Vite, on doit prendre un taxi! | Quick, we must take a taxi! | 1283:On doit prendre un taxi |
 
 ## Part 5 — Outro & Closing
-> After spending the morning venting their resentment toward Mathias, Camille and Noemie are thrown into sudden panic when a hospital call reveals that he has suffered a major heart attack. When you watch the episode, listen out for the expressions meaning 'lied' and 'face'. You'll catch them now. See you next time.
+> After spending the morning venting their resentment toward Mathias, Camille and Noemie are thrown into sudden panic when a hospital call reveals that he has suffered a major heart attack. When you watch the episode, listen out for the expressions meaning 'lied' and 'face'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *À bientôt!*

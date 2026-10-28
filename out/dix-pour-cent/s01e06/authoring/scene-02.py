@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 2
 TITLE = "La visite de Catherine  (Catherine's Visit)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "francois": "marcel"}
-LABELS = {"camille": "Camille", "francois": "François"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'francois': 'marcel'}
+LABELS = {'camille': 'Camille', 'francois': 'François'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Meanwhile, late in the evening, Camille is in her small Paris studio talking on the phone with her mother, who wants her to come back south to the sunshine. But their conversation is cut short when someone unexpectedly knocks at Camille's apartment door. It is Catherine Barneville, Mathias's wife. Let's listen to the scene in French first."
 OPENER = "Let's walk through this unexpected midnight encounter step by step."
 TRANSITION = "Now let's listen to the dialogue once more without interruption."
 OUTRO = "Catherine has tracked down Camille's apartment to discover the truth about Mathias's secret past. The tension between them is palpable as their confrontation unfolds. See you next time!"
-CLOSING = ("francois", "Bonne journée!")
+CLOSING = ('francois', 'Bonne journée!')
 STORY = [
     ('camille', "Sa femme l'aide à racheter l'agence.", 'His wife is helping him buy back the agency.', [(33, "Sa femme l'aide à racheter l'agence")], ''),
     ('camille', 'Tout le monde panique à cause du contrôle fiscal.', 'Everyone is panicking because of the tax audit.', [(35, 'tout le monde panique en ce moment à cause du contrôle fiscal')], ''),

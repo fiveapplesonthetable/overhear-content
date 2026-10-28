@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 7
-TITLE = "Les essais de voix  (Voice Tests)"
-LEVEL = "A1 — débutant"
+TITLE = 'Les essais de voix  (Voice Tests)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At Gabriel's apartment, Sofia reveals that she had a drink with pop star Julien Dore. Although Gabriel initially questions why Julien bypassed normal agent protocol, he is thrilled to learn that Sofia has a major recording audition. Let's listen to the scene in French first."
 OPENER = "Let's examine how Sofia and Gabriel discuss the exciting studio audition step by step to learn natural conversational phrasing."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "Sofia's talent earns her a coveted voice trial with Julien Dore, celebrating a sweet domestic victory with Gabriel. Let's review the vocabulary and everyday conversational idioms from this scene. Join us next time to see what happens next."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Sofia's talent earns her a coveted voice trial with Julien Dore, celebrating a sweet domestic victory with Gabriel. Let's review the vocabulary and everyday conversational idioms from this scene. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('sofia', "J'ai pris un verre avec Julien Doré.", 'I had a drink with Julien Dore.', [(174, "Non, j'ai pris un verre avec Julien Doré.")], ''),
     ('gabriel', "Vraiment? Pourquoi tu ne m'as rien dit?", 'Really? Why didn', [(175, "Vraiment ? C'est super."), (176, "Pourquoi tu me l'as pas dit ?")], ''),

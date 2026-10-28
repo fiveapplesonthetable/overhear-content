@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Moi aussi, je t'aime beaucoup. | I love you very much too. | 390:Moi aussi. |
 
 ## Part 5 — Outro & Closing
-> Camille dashes toward the studio, inspired by their newfound romantic bond. When you watch the episode, listen out for the expressions meaning 'goes' and 'sure'. You'll catch them now. See you next time.
+> Camille dashes toward the studio, inspired by their newfound romantic bond. When you watch the episode, listen out for the expressions meaning 'goes' and 'sure'. You'll catch them now. See you next time!
 - **Closing**: `samy`: *Bonne journée!*

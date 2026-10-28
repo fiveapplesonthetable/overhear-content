@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 24
-TITLE = "Une ligne invisible  (An Invisible Line)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une ligne invisible  (An Invisible Line)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hippolyte": "theo", "camille": "emilie", "lea": "lucie"}
-LABELS = {"hippolyte": "Hippolyte", "camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'hippolyte': 'Hippolyte', 'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Back at the agency it's late; Sofia has said goodnight and gone home. Camille is still at her desk when Hippolyte, the charming young actor she met at the photocopier, turns up. Down the corridor, Andréa is watching tapes of Line and Françoise, trying to choose between them. Here's the French first; it's fine to just follow the mood."
 OPENER = "Let's walk through it slowly. Hippolyte appears at the door with the evening greeting."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's all for this scene. When you watch it, notice the two apologies at the very end, one from each of them; they sound exactly alike. See you next time."
-CLOSING = ("camille", "Bonne nuit!")
+OUTRO = "That's all for this scene. When you watch it, notice the two apologies at the very end, one from each of them; they sound exactly alike. See you next time!"
+CLOSING = ('camille', 'Bonne nuit!')
 STORY = [
     ('hippolyte', 'Bonsoir.', 'Good evening.', [(661, 'Bonsoir')], ''),
     ('camille', 'Il est vraiment tard. Andréa est déjà partie.', "It's really late. Andréa has already left.", [(662, 'Il est vraiment tard. Andréa est déjà partie')], ''),

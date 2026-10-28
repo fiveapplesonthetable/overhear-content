@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 10
-TITLE = "Envoyez des fleurs à Marie-Sophie  (Send Flowers to Marie-Sophie)"
-LEVEL = "A1 — débutant"
+TITLE = 'Envoyez des fleurs à Marie-Sophie  (Send Flowers to Marie-Sophie)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Mathias steps out to the assistants' desks to try to save his client with a bouquet of flowers, just as the actor Zinedine Soualem walks in unannounced. Listen to the French first, without worrying about catching every word."
 OPENER = "Let's walk through it step by step. Mathias comes out of his office and gives Noémie an urgent task."
 TRANSITION = "Now let's listen to the whole scene again."
-OUTRO = "Camille knows just how much the women in her mother's hairdressing salon love Doctor Ryan. Meanwhile, out in the countryside at the chateau, Andréa and Gabriel have a plan of their own for Julie Gayet and JoeyStarr. See you next time!"
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "Camille knows just how much the women in her mother's hairdressing salon love Doctor Ryan. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('mathias', "Noémie, envoyez des fleurs à Marie-Sophie Garnier, s'il vous plaît.", 'Noémie, send flowers to Marie-Sophie Garnier, please.', [(179, "Noémie, envoyez des fleurs à Marie-Sophie Garnier, s'il vous plaît")], ''),
     ('mathias', 'Signez le mot: Chère Marie-Sophie, je suis désolé.', 'Sign the note: Dear Marie-Sophie, I am sorry.', [(180, 'Signez le mot'), (180, 'Chère Marie-Sophie, je suis désolé')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 10
-TITLE = "Je vois tout dans vos notes  (I See Everything in Your Bills)"
-LEVEL = "A1 — débutant"
+TITLE = 'Je vois tout dans vos notes  (I See Everything in Your Bills)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"colette": "Colette", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'colette': 'Colette', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = 'Colette Brancillon is still furious with Andréa after recognising her from the dating site, and she is checking every single receipt the agents have ever claimed. After a frantic warning from Gabriel at the office, Andréa spots Colette in a clothes shop and tries one more time to charm her. Listen to the French first without worrying about catching every word.'
 OPENER = "Let's break that down together. First, Gabriel bursts into Andréa's office in a panic."
 TRANSITION = "Now let's listen to the whole scene again."
-OUTRO = 'Just as Andréa tries to show her softer side, someone from her past is about to ruin everything outside the shop. Until next time!'
-CLOSING = ("colette", "À bientôt!")
+OUTRO = 'Just as Andréa tries to show her softer side, someone from her past is about to ruin everything outside the shop. See you next time!'
+CLOSING = ('colette', 'À bientôt!')
 STORY = [
     ('gabriel', 'Andréa! Brancillon est venue chez moi à sept heures du matin!', 'Andréa! Brancillon came to my place at seven in the morning!', [(263, 'Andréa ! Brancillon'), (263, 'chez moi à sept heures du matin')], ''),
     ('lea', 'Quoi? Chez toi?', 'What? To your place?', [(264, 'Quoi ? Chez toi')], ''),

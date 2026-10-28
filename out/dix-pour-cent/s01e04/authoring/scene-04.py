@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 4
 SCENE = 4
 TITLE = "Le film d'Augustin  (Augustin's Film)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "augustin": "theo", "noemie": "emilie"}
-LABELS = {"mathias": "Mathias", "augustin": "Augustin", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'augustin': 'theo', 'noemie': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'augustin': 'Augustin', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = 'Meanwhile, in his office, Mathias is already looking for a well-paid role for Audrey Fleurot. He is meeting Augustin, a twenty-four-year-old internet comedy star who is about to direct his first cinema film. Augustin wants an unknown actress called Armelle Borzek, but Mathias has another plan. Here it is in French first; let it flow past you.'
 OPENER = "Let's break it down. Noémie sets down the coffee on Mathias's desk as he compliments Augustin's script."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Mathias hasn't even told Audrey about Augustin's film yet, and he certainly hasn't told her what kind of part it is. You'll catch every step of his trick when you watch. See you next time."
-CLOSING = ("augustin", "Bonne journée!")
+OUTRO = "Mathias hasn't even told Audrey about Augustin's film yet, and he certainly hasn't told her what kind of part it is. You'll catch every step of his trick when you watch. See you next time!"
+CLOSING = ('augustin', 'Bonne journée!')
 STORY = [
     ('noemie', 'Voilà le café, Mathias.', 'Here is the coffee, Mathias.', [], ''),
     ('mathias', "Merci, Noémie. J'adore cette version finale.", 'Thank you, Noémie. I love this final version.', [(95, 'Merci'), (93, "J'adore cette version finale")], ''),

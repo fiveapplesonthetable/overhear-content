@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 12
-TITLE = "La frayeur du soir  (The Evening Fright)"
-LEVEL = "A1 — débutant"
+TITLE = 'La frayeur du soir  (The Evening Fright)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "lea": "lucie"}
-LABELS = {"colette": "Colette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
+LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Returning home late to their dark apartment, Andrea accidentally startles Colette in the hallway. Holding baby Flora in her arms, Colette tries to calm the crying child while Andrea apologizes. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea steps in to support Colette with baby Flora after a long day at ASK. When you watch the episode, listen out for the expressions meaning 'sorry' and 'made'. You'll catch them now. See you next time."
-CLOSING = ("colette", "À demain!")
+OUTRO = "Andrea steps in to support Colette with baby Flora after a long day at ASK. When you watch the episode, listen out for the expressions meaning 'sorry' and 'made'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'À demain!')
 STORY = [
     ('lea', 'Ah, je suis désolée, Colette!', 'Ah, I am sorry, Colette!', [(654, 'Je suis désolée')], ''),
     ('colette', "Tu m'as fait peur dans l'entrée.", 'You scared me in the hallway.', [(655, "Tu m'as fait peur")], ''),

@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 4
 SCENE = 12
 TITLE = "La gaine d'Audrey  (Audrey's Girdle)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "audrey": "emilie", "mathias": "marcel"}
-LABELS = {"audrey": "Audrey", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'audrey': 'emilie', 'mathias': 'marcel'}
+LABELS = {'audrey': 'Audrey', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "Outside the clothes shop, Andréa's ex-girlfriend Clémentine has just embarrassed her with a big dramatic scene right in front of Colette Brancillon. Meanwhile, back at ASK, Audrey Fleurot arrives for her first meeting with the young director Augustin. There are two small problems: she has brought both of her young children along, and she can barely breathe. Listen to the French first, without worrying about catching every word."
 OPENER = "Let's go through it gently. Mathias greets Audrey and immediately spots her two small children."
 TRANSITION = "Now let's listen to the whole conversation again."
-OUTRO = 'While Noémie looks after the children at the desks, Hervé takes a phone call from an admirer of Laura Smet and advises him to send Laura a fresh floral perfume — and to save the heavy perfume called Carnage for her mother instead. Next, Audrey meets Augustin. See you next time!'
-CLOSING = ("audrey", "À demain!")
+OUTRO = 'While Noémie looks after the children at the desks, Hervé takes a phone call from an admirer of Laura Smet and advises him to send Laura a fresh floral perfume — and to save the heavy perfume called Carnage for her mother instead. See you next time!'
+CLOSING = ('audrey', 'À demain!')
 STORY = [
     ('mathias', "Bonjour, Audrey. Tu n'as pas trouvé de baby-sitter?", 'Hello, Audrey. Didn', [(310, 'Bonjour, Audrey'), (311, 'trouvé de baby-sitter')], ''),
     ('audrey', "Je n'ai pas fait des enfants pour les laisser à une inconnue!", 'I didn', [(312, "Je n'ai pas fait des enfants pour les laisser à une inconnue")], ''),

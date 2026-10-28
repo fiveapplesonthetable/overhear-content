@@ -29,5 +29,5 @@
 | 15 | `hicham` (Hicham) | Très bien. L'humour de Couchey! | Very well. Couchey humor! | 420:Très bien, 421:L'humour Couchey |
 
 ## Part 5 — Outro & Closing
-> Andréa is stunned to discover that her nerdy former classmate is now enormously wealthy. Back in Paris, Mathias faces an enraged film producer. Here is our closing phrase. Join us next time to see what happens next.
+> Andréa is stunned to discover that her nerdy former classmate is now enormously wealthy. See you next time!
 - **Closing**: `hicham`: *À demain!*

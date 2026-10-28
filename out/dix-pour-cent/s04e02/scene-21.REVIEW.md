@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Je suis vraiment désolée pour toi. | I am really sorry for you. | 1047:Je suis désolée |
 
 ## Part 5 — Outro & Closing
-> Elise's revelation of sexism at StarMedia exposes the brutal reality of agency politics. When you watch the episode, listen out for the expressions meaning 'sure' and 'to find'. You'll catch them now. See you next time.
+> Elise's revelation of sexism at StarMedia exposes the brutal reality of agency politics. When you watch the episode, listen out for the expressions meaning 'sure' and 'to find'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

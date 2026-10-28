@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 1
-TITLE = "Course contre la montre  (Race Against the Clock)"
-LEVEL = "A1 — débutant"
+TITLE = 'Course contre la montre  (Race Against the Clock)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "camille": "emilie"}
-LABELS = {"lea": "Andréa", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'camille': 'emilie'}
+LABELS = {'lea': 'Andréa', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Trapped in a Parisian taxi while juggling family calls and client emergencies, Andrea Martel rushes to meet Charlotte Gainsbourg at the airport. Having spent the night awake with her baby daughter Flora, Andrea has not had a moment to read director Oscar Rondo's urgent script. Spotting assistant Camille on the sidewalk, Andrea delegates the crucial task before time runs out. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea tasks Camille with an urgent emergency reading on the sidewalk."
 TRANSITION = "Now let's listen to Andrea and Camille conversing again at full speed."
-OUTRO = "Leaving Camille to tackle the dense screenplay on the fly, Andrea speeds away toward Charles de Gaulle airport. When you watch the episode, listen out for the expressions meaning 'telephone' and 'explodes'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Leaving Camille to tackle the dense screenplay on the fly, Andrea speeds away toward Charles de Gaulle airport. When you watch the episode, listen out for the expressions meaning 'telephone' and 'explodes'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', "Mon téléphone explose d'appels ce matin.", 'My phone is exploding with calls this morning.', [(24, 'mon téléphone explose')], ''),
     ('lea', "Diane a besoin d'une robe rouge.", 'Diane needs a red dress.', [(10, "a besoin d'une robe")], ''),

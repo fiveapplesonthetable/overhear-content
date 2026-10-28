@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 19
-TITLE = "Une robe pour les Césars  (Dressing for the Césars)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une robe pour les Césars  (Dressing for the Césars)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "maman": "emilie", "lea": "lucie"}
-LABELS = {"maman": "Maman", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'maman': 'emilie', 'lea': 'lucie'}
+LABELS = {'maman': 'Maman', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "After Laura's outrageous audition, evening falls over Paris. It is the night of the César awards, the biggest night in French cinema, and Mathias has given Camille an invitation. In Camille's cosy attic loft, her mother has come up from the south to help her get dressed. She is proud, fussy, and still worried about Mathias. Let's listen in French first; don't worry about catching every word."
 OPENER = "Let's go through it together. Camille's mother is adjusting her dress and asking about Mathias."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "You've got all of it: commands, negatives, and plenty of motherly advice. Next, Camille arrives at the César ceremony reception, where Mathias is waiting for her. See you there."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "You've got all of it: commands, negatives, and plenty of motherly advice. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('maman', "Il t'invite à des soirées?", 'He invites you to parties?', [(490, "Il t'invite à des soirées")], ''),
     ('lea', 'Les Césars, Maman. Une exception.', 'The Césars, Mum. An exception.', [(490, 'Les Césars, Maman. Une exception')], ''),

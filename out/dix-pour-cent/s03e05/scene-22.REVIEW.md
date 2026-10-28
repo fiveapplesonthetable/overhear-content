@@ -27,5 +27,5 @@
 | 13 | `beatrice` (Béatrice) | C'est une idée géniale, j'adore! | That is a brilliant idea, I love it! | 888:adore |
 
 ## Part 5 — Outro & Closing
-> Transforming an impasse into a creative breakthrough, Beatrice Dalle and Pascal find artistic harmony without compromise. When you watch the episode, listen out for the expressions meaning 'stalemate' and 'makes'. You'll catch them now. See you next time.
+> Transforming an impasse into a creative breakthrough, Beatrice Dalle and Pascal find artistic harmony without compromise. When you watch the episode, listen out for the expressions meaning 'stalemate' and 'makes'. You'll catch them now. See you next time!
 - **Closing**: `beatrice`: *À bientôt!*

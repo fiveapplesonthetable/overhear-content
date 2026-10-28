@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 5
 SCENE = 20
 TITLE = "La vente de l'appartement  (Showing the Apartment)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = 'Following a visit by prospective buyers and estate agents, Mathias sits alone in his apartment, feeling overwhelmed. Noémie arrives and finds him drowning in nostalgia, offering him the comfort and strength he needs to carry on. Listen to the scene in French first.'
 OPENER = "Let's examine how Noémie comforts a grieving and overwhelmed Mathias."
 TRANSITION = "Now let's listen to the emotional conversation once more at normal pace."
-OUTRO = 'In the empty apartment, Noémie gives Mathias the warmth and courage he needs to face the future. Listen to the poignant conversation once more in French. Until next time.'
-CLOSING = ("noemie", "À demain!")
+OUTRO = 'In the empty apartment, Noémie gives Mathias the warmth and courage he needs to face the future. Listen to the poignant conversation once more in French. See you next time!'
+CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('mathias', "La visite de l'appartement vient de se terminer.", 'The apartment viewing has just finished.', [(596, 'Monsieur Barneville ?'), (607, 'Bon, on ne va pas vous déranger plus longtemps.')], ''),
     ('noemie', "Comment s'est passée la visite avec les acheteurs?", 'How did the visit go with the buyers?', [(600, 'Madame et monsieur sont enchantés.'), (602, "On aime vraiment l'ambiance.")], ''),

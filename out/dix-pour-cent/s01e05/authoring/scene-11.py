@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 11
-TITLE = "Un pote dans la panade  (A Friend in Trouble)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un pote dans la panade  (A Friend in Trouble)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "joey": "marcel", "julie": "emilie"}
-LABELS = {"gabriel": "Gabriel", "joey": "JoeyStarr", "julie": "Julie"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'joey': 'marcel', 'julie': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'joey': 'JoeyStarr', 'julie': 'Julie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = 'Meanwhile, out at the chateau film set, Julie Gayet and JoeyStarr are still refusing to act together. To force them to talk, Andréa and Gabriel lure both stars into the old glass greenhouse in the park, fake an urgent phone call, and lock the door from the outside. Listen to the French first, without worrying about catching every word.'
 OPENER = "Let's go through it line by line. First, outside the greenhouse, the agents set their trap."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'So locking the two stars in the greenhouse only landed Julie on top of Didier with a bruised backside. Back in Paris, Mathias is about to clash with Arlette. See you next time!'
-CLOSING = ("julie", "À demain!")
+OUTRO = 'So locking the two stars in the greenhouse only landed Julie on top of Didier with a bruised backside. See you next time!'
+CLOSING = ('julie', 'À demain!')
 STORY = [
     ('julie', 'Comment on va parler avec eux là-bas?', 'How are we going to talk with them in there?', [(205, 'Comment'), (205, 'parler avec'), (205, 'là-bas')], ''),
     ('gabriel', "On a promis d'être là.", 'We promised to be here.', [(206, "promis d'être là")], ''),

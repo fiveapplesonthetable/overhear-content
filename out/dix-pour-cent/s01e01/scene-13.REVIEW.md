@@ -30,5 +30,5 @@
 | 16 | `camille` (Camille) | Au revoir! | Goodbye! | 441:Au revoir |
 
 ## Part 5 — Outro & Closing
-> That was a painful one, but you followed it. Listen out for the polite 'you' and those feminine endings when you watch, and I'll see you next time.
+> That was a painful one, but you followed it. Listen out for the polite 'you' and those feminine endings when you watch. See you next time!
 - **Closing**: `camille`: *Bonne journée!*

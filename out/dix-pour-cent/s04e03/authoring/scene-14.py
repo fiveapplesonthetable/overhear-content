@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 14
-TITLE = "Panique matinale  (Morning Panic)"
-LEVEL = "A1 — débutant"
+TITLE = 'Panique matinale  (Morning Panic)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "chauffeur": "theo"}
-LABELS = {"lea": "Andréa", "chauffeur": "Chauffeur"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'chauffeur': 'theo'}
+LABELS = {'lea': 'Andréa', 'chauffeur': 'Chauffeur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Andrea Martel wakes up late in her apartment and discovers that her star client Jose Garcia is missing. When the film crew arrives to pick him up, Andrea runs to check on baby Flora only to find her crib completely empty. Let's listen to her morning panic in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea discovers that both her movie star client and her infant daughter have vanished from the apartment. When you watch the episode, listen out for the expressions meaning 'hour' and 'is it'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Andrea discovers that both her movie star client and her infant daughter have vanished from the apartment. When you watch the episode, listen out for the expressions meaning 'hour' and 'is it'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Mince! Quelle heure est-il?', 'Darn! What time is it?', [(654, 'Putain')], ''),
     ('lea', 'José? Il faut te lever maintenant!', 'Jose? You have to get up now!', [(655, 'José ?'), (656, 'Il faut te lever')], ''),

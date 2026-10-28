@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 9
-TITLE = "La mort de Jonathan  (The Death of Jonathan)"
-LEVEL = "A1 — débutant"
+TITLE = 'La mort de Jonathan  (The Death of Jonathan)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "marie_sophie": "emilie", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"marie_sophie": "Marie-Sophie", "mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'marie_sophie': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'marie_sophie': 'Marie-Sophie', 'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Back in Paris at the ASK agency, Mathias is working in his office when Arlette walks in with one of her oldest clients: Marie-Sophie Garnier, the head screenwriter of the hit daytime soap opera Happy Ever After. Mathias represents the show's arrogant leading man, Jonathan Joubert, who plays Doctor Ryan. Listen to the French first, without worrying about catching every word."
 OPENER = "Let's walk through the scene line by line. Mathias greets Arlette and her client in his office."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = "Marie-Sophie is determined to kill off Mathias's soap-opera star, and Arlette is backing her screenwriter all the way. Next, Mathias tries to charm Marie-Sophie with flowers while Camille and Hervé react to the news. See you there."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "Marie-Sophie is determined to kill off Mathias's soap-opera star, and Arlette is backing her screenwriter all the way. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('mathias', 'Bonjour. Ah, vous voilà.', 'Hello. Ah, there you are.', [(158, 'Bonjour'), (158, 'Ah, vous voilà')], ''),
     ('lea', 'Voici Marie-Sophie Garnier, chef scénariste sur Heureux pour toujours.', 'This is Marie-Sophie Garnier, head screenwriter on Happy Ever After.', [(159, 'Voici Marie-Sophie Garnier'), (160, 'chef scénariste sur Heureux pour toujours')], ''),

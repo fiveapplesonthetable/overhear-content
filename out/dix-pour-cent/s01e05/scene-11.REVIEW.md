@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Qu'est-ce qui se passe? | What | 217:Qu'est-ce qui se passe |
 
 ## Part 5 — Outro & Closing
-> So locking the two stars in the greenhouse only landed Julie on top of Didier with a bruised backside. Back in Paris, Mathias is about to clash with Arlette. See you next time!
+> So locking the two stars in the greenhouse only landed Julie on top of Didier with a bruised backside. See you next time!
 - **Closing**: `julie`: *À demain!*

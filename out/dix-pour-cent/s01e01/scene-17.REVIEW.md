@@ -31,5 +31,5 @@
 | 17 | `cecile` (Cécile) | Pourquoi te donner dix pour cent si tu ne me défends pas? | Why give you ten percent if you don | 524:Pourquoi te donner dix pour cent si tu ne me défends pas ? |
 
 ## Part 5 — Outro & Closing
-> That was a hard scene for Gabriel, but a good one for your French. When you watch, wait for the line about ten percent: you'll recognise it. Take care, and see you soon.
+> That was a hard scene for Gabriel, but a good one for your French. When you watch, wait for the line about ten percent: you'll recognise it. See you next time!
 - **Closing**: `cecile`: *Salut!*

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 8
 TITLE = "L'engagement de Camille  (Camille's Commitment)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "samy": "marcel"}
-LABELS = {"camille": "Camille", "samy": "Samy"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'samy': 'marcel'}
+LABELS = {'camille': 'Camille', 'samy': 'Samy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "Near the ASK agency, Camille Valentini and her boyfriend Samy share a romantic breakthrough. After agreeing to unite their lives, Camille tells him to dash over to the casting audition. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Camille dashes toward the studio, inspired by their newfound romantic bond. When you watch the episode, listen out for the expressions meaning 'goes' and 'sure'. You'll catch them now. See you next time."
-CLOSING = ("samy", "Bonne journée!")
+OUTRO = "Camille dashes toward the studio, inspired by their newfound romantic bond. When you watch the episode, listen out for the expressions meaning 'goes' and 'sure'. You'll catch them now. See you next time!"
+CLOSING = ('samy', 'Bonne journée!')
 STORY = [
     ('samy', 'On va le faire ensemble.', 'We are going to do it together.', [(374, 'On va le faire.')], ''),
     ('camille', 'Tu es vraiment sûr de toi?', 'Are you really sure about it?', [(375, 'De quoi ?')], ''),

@@ -25,5 +25,5 @@
 | 11 | `mathias` (Mathias) | Au revoir, Camille. | Goodbye, Camille. | adapted |
 
 ## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around camille valentini, i am absent, and for the words meaning 'to answer' and 'to please'. You'll catch them now. See you next time.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around camille valentini, i am absent, and for the words meaning 'to answer' and 'to please'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À bientôt.*

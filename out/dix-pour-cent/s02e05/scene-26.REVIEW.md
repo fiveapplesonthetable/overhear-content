@@ -26,5 +26,5 @@
 | 12 | `guy` (Guy) | Alors à tout à l'heure, Arlette. | See you soon then, Arlette. | 870:C'est pas trop tard |
 
 ## Part 5 — Outro & Closing
-> After a triumphant scene on set, Guy Marchand invites Arlette out for a drink, celebrating their long friendship and successful collaboration. Join us next time to see what happens next.
+> After a triumphant scene on set, Guy Marchand invites Arlette out for a drink, celebrating their long friendship and successful collaboration. See you next time!
 - **Closing**: `arlette`: *Bonne soirée!*

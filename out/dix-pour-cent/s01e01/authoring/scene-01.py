@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 1
-TITLE = "Cécile est en retard  (Cécile Is Late)"
-LEVEL = "A1 — débutant"
+TITLE = 'Cécile est en retard  (Cécile Is Late)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "cecile": "emilie", "gabriel": "theo", "journaliste": "marcel"}
-LABELS = {"cecile": "Cécile", "gabriel": "Gabriel", "journaliste": "Le journaliste"}
+VOICES = {'narrator': 'sky', 'cecile': 'emilie', 'gabriel': 'theo', 'journaliste': 'marcel'}
+LABELS = {'cecile': 'Cécile', 'gabriel': 'Gabriel', 'journaliste': 'Le journaliste'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "He is waiting for her at a photo shoot in a smart hotel, the journalist and the photographer are ready, and Cécile is nowhere to be seen. He phones her, and she answers from the back of a horse in the countryside. You'll hear the whole story in French first; don't worry if a lot of it slips past you."
 OPENER = "Let's go back through it slowly. Gabriel is at the hotel, phone to his ear, and the first thing he wants to know is where on earth his star is."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the opening of the episode, and you've already met the polite 'you' between an agent and his star. When you watch it, listen for the phone calls and the apologies; they'll sound familiar now. Until next time."
-CLOSING = ("cecile", "Bonne soirée!")
+OUTRO = "That's the opening of the episode, and you've already met the polite 'you' between an agent and his star. When you watch it, listen for the phone calls and the apologies; they'll sound familiar now. See you next time!"
+CLOSING = ('cecile', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Cécile? Vous êtes où?', 'Cécile? Where are you?', [(12, 'Cécile ?'), (13, 'Vous êtes où ?')], ''),
     ('cecile', "Gabriel! Je suis à mon cours d'équitation.", "Gabriel! I'm at my horse-riding lesson.", [(12, 'Gabriel !'), (17, "Je suis à mon cours d'équitation")], ''),

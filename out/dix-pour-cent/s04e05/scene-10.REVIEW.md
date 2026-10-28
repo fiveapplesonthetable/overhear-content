@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | Cela sauve ma semaine de travail! | That saves my work week! | 438:De rien ! |
 
 ## Part 5 — Outro & Closing
-> Although Andrea misses Colette deeply, Elise's surprising generosity solves her immediate childcare dilemma. When you watch the episode, listen out for the expressions meaning 'telephone' and 'wanted'. You'll catch them now. See you next time.
+> Although Andrea misses Colette deeply, Elise's surprising generosity solves her immediate childcare dilemma. When you watch the episode, listen out for the expressions meaning 'telephone' and 'wanted'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

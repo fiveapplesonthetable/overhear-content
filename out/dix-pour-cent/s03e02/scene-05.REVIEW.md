@@ -26,5 +26,5 @@
 | 12 | `monica` (Monica) | Oui avec plaisir, je m'amuse beaucoup! | Yes with pleasure, I am having a lot of fun! | 421:Bah, oui., 427:Je suis chargé., 429:Mais tout va bien. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around an incognito evening. When you watch the episode, listen out for the expressions meaning 'sure' and 'perfect'. You'll catch them now. See you next time.
+> That's it for this scene around an incognito evening. When you watch the episode, listen out for the expressions meaning 'sure' and 'perfect'. You'll catch them now. See you next time!
 - **Closing**: `monica`: *À bientôt!*

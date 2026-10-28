@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | D'accord, bonne soirée à toi, Élise. | All right, good evening to you, Elise. | 1034:D'accord |
 
 ## Part 5 — Outro & Closing
-> Though victorious in securing Dany Boon, Mathias is left alone with the bitter truth of Elise's words. When you watch the episode, listen out for the expressions meaning 'done' and 'is going'. You'll catch them now. See you next time.
+> Though victorious in securing Dany Boon, Mathias is left alone with the bitter truth of Elise's words. When you watch the episode, listen out for the expressions meaning 'done' and 'is going'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À bientôt!*

@@ -28,5 +28,5 @@
 | 14 | `monica` (Monica) | Ça fait combien de temps, toi? | How long has it been for you? | 1090:Ça fait combien de temps, toi |
 
 ## Part 5 — Outro & Closing
-> After rushing to apologize to Monica Bellucci, Gabriel is relieved to discover that the famous star understands his pain and struggles with loneliness too. When you watch the episode, listen out for the expressions meaning 'genuine' and 'type'. You'll catch them now. See you next time.
+> After rushing to apologize to Monica Bellucci, Gabriel is relieved to discover that the famous star understands his pain and struggles with loneliness too. When you watch the episode, listen out for the expressions meaning 'genuine' and 'type'. You'll catch them now. See you next time!
 - **Closing**: `monica`: *Bonne journée!*

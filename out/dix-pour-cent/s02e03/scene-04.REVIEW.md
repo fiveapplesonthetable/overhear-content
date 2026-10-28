@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Mais pas un mot aux autres agents. | But not a word to the other agents. | 106:Demain. Pour le café. |
 
 ## Part 5 — Outro & Closing
-> Mathias reluctantly agrees to a quick coffee with Annick, fearing that their shared past might be uncovered. Camille is relieved, though keeping their family connection secret remains a daily challenge. Join us next time to see what happens next.
+> Mathias reluctantly agrees to a quick coffee with Annick, fearing that their shared past might be uncovered. Camille is relieved, though keeping their family connection secret remains a daily challenge. See you next time!
 - **Closing**: `camille`: *Bonne journée!*

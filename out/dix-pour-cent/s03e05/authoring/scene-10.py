@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 10
-TITLE = "Réunion de crise  (Crisis Meeting)"
-LEVEL = "A1 — débutant"
+TITLE = 'Réunion de crise  (Crisis Meeting)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "mathias": "marcel"}
-LABELS = {"lea": "Andréa", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'mathias': 'marcel'}
+LABELS = {'lea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "In the ASK conference room, Andrea calls a crisis meeting to address Beatrice's walkout. Both Mathias and Hicham argue over who is best equipped to negotiate with the demanding producers. Let's listen to their confrontation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Hicham prepares to face the furious production team with Mathias's strategic notes in hand. When you watch the episode, listen out for the expressions meaning 'meeting' and 'crisis'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Hicham prepares to face the furious production team with Mathias's strategic notes in hand. When you watch the episode, listen out for the expressions meaning 'meeting' and 'crisis'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('lea', 'Réunion de crise pour le film de Béatrice.', 'Crisis meeting for Beatrice', [(351, 'Ok, réunion de crise sur le hyper guette')], ''),
     ('lea', 'Je veux du concret et des solutions.', 'I want concrete ideas and solutions.', [(352, 'Je veux du précis, je veux du concret, je vous écoute')], ''),

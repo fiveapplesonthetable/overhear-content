@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 21
-TITLE = "Méthodes de relaxation  (Relaxation Methods)"
-LEVEL = "A1 — débutant"
+TITLE = 'Méthodes de relaxation  (Relaxation Methods)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "norman": "marcel"}
-LABELS = {"gabriel": "Gabriel", "norman": "Norman"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'norman': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'norman': 'Norman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In the corridors of ASK, agent Gabriel frets over young client Norman Thavaud, who is taking his driving test for the fourth time. While assistant Hervé offers dubious remedies to calm his nerves, Norman stubbornly insists that he is in total control. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
 OUTRO = 'Norman heads off to his driving test determined to rely on his own natural focus. Remember the useful French word for contradicting a negative question: si. See you next time!'
-CLOSING = ("norman", "Au revoir!")
+CLOSING = ('norman', 'Au revoir!')
 STORY = [
     ('gabriel', "J'ai peur qu'il rate son permis.", 'I am afraid he will fail his driving test.', [(532, "J'ai peur qu'il rate son permis")], ''),
     ('gabriel', 'Il ne sait pas conduire?', 'Does he not know how to drive?', [(533, '-Il ne sait pas conduire ?')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 25
-TITLE = "Pas le manteau  (Not the Coat)"
-LEVEL = "A1 — débutant"
+TITLE = 'Pas le manteau  (Not the Coat)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "jean": "theo"}
-LABELS = {"lea": "Andréa", "jean": "Jean"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'jean': 'theo'}
+LABELS = {'lea': 'Andréa', 'jean': 'Jean'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "As their meeting concludes in her office, Andrea offers Jean Dujardin his coat before he leaves. Jean declines the coat, eager to feel the brisk outdoor air and finally shake off his grueling acting persona. Let's listen to their parting words in French first."
 OPENER = "Let's observe how Jean takes leave of Andrea with renewed clarity and gratitude."
 TRANSITION = "Now let's listen to Andrea and Jean again at full speed."
-OUTRO = "Refusing his winter coat, Jean heads out into the cold air to clear his mind after months of intense isolation. When you watch the episode, listen out for the expressions meaning 'coat' and 'warm'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = "Refusing his winter coat, Jean heads out into the cold air to clear his mind after months of intense isolation. When you watch the episode, listen out for the expressions meaning 'coat' and 'warm'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('lea', 'Voici ton manteau chaud pour sortir, Jean.', 'Here is your warm coat to go outside, Jean.', [(1019, 'manteau')], ''),
     ('jean', "Non merci, pas le manteau aujourd'hui.", 'No thank you, not the coat today.', [(1019, 'Non, pas le manteau.')], ''),

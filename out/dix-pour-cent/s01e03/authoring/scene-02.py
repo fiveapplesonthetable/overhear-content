@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 2
-TITLE = "Je suis la mouette  (I Am the Seagull)"
-LEVEL = "A1 — débutant"
+TITLE = 'Je suis la mouette  (I Am the Seagull)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "laura": "emilie", "gabriel": "theo"}
-LABELS = {"laura": "Laura", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'laura': 'emilie', 'gabriel': 'theo'}
+LABELS = {'laura': 'Laura', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "She is an actress, and she passes the time rehearsing a famous speech from Chekhov's play The Seagull. Then her mother walks in: Nathalie Baye, a great actress herself, and also a client of the agency. We'll hear it in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's go through it slowly. Laura is in the middle of the play's most famous line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "A mother who can't stop giving advice, and an agent whose name she can't remember. You'll enjoy this scene even more on screen now. See you next time."
-CLOSING = ("laura", "Au revoir!")
+OUTRO = "A mother who can't stop giving advice, and an agent whose name she can't remember. You'll enjoy this scene even more on screen now. See you next time!"
+CLOSING = ('laura', 'Au revoir!')
 STORY = [
     ('laura', 'Je suis la mouette.', 'I am the seagull.', [(29, 'Je suis la mouette')], ''),
     ('laura', "Non, c'est faux.", 'No, that', [(28, "Non, c'est faux")], ''),

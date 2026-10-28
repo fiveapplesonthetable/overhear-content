@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | Nous formons une vraie belle famille! | We form a truly beautiful family! | 997:Flora grandisse |
 
 ## Part 5 — Outro & Closing
-> With a single generous legal letter, Hicham cements Andrea and Colette's family, bringing peace to their coparenting journey. When you watch the episode, listen out for the expressions meaning 'worked out' and 'wonderful'. You'll catch them now. See you next time.
+> With a single generous legal letter, Hicham cements Andrea and Colette's family, bringing peace to their coparenting journey. When you watch the episode, listen out for the expressions meaning 'worked out' and 'wonderful'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *Au revoir!*

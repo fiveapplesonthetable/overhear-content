@@ -27,5 +27,5 @@
 | 13 | `realisateur` (Le réalisateur) | Allez, tout le monde en place, action! | Come on, everyone in position, action! | 569:Action. |
 
 ## Part 5 — Outro & Closing
-> Camille navigates the quirky clash between an amateur nurse actress and a fussy director. When you watch the episode, listen out for the expressions meaning 'scene' and 'intimate'. You'll catch them now. See you next time.
+> Camille navigates the quirky clash between an amateur nurse actress and a fussy director. When you watch the episode, listen out for the expressions meaning 'scene' and 'intimate'. You'll catch them now. See you next time!
 - **Closing**: `realisateur`: *À bientôt!*

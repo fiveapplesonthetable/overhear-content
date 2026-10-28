@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 12
 TITLE = "L'entretien d'Eugénie  (Eugenie's Interview)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "gabriel": "theo", "hicham": "marcel"}
-LABELS = {"noemie": "Noémie", "gabriel": "Gabriel", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'gabriel': 'theo', 'hicham': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In the hallway at ASK, Gabriel welcomes job applicant Eugenie while Noémie watches closely. Noémie reveals the mischievous advice she gave the candidate to disrupt her chances. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = 'Noémie pulls off a hilarious office prank by convincing applicant Eugenie that senior agent Arlette is completely deaf. Eugenie shouts her greeting at the top of her lungs, confusing everyone in the agency. See you next time!'
-CLOSING = ("noemie", "Bonne soirée!")
+CLOSING = ('noemie', 'Bonne soirée!')
 STORY = [
     ('gabriel', "Par ici, mademoiselle, s'il vous plaît.", 'This way, miss, please.', [(341, "Par ici, s'il vous plaît.")], ''),
     ('hicham', 'Merci beaucoup. Bonjour.', 'Thank you very much. Hello.', [(343, 'Bonjour.')], ''),

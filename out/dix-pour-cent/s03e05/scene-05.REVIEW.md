@@ -26,5 +26,5 @@
 | 12 | `mathias` (Mathias) | Nous devons trouver une solution rapide. | We must find a quick solution. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around thirty years of ask. When you watch the episode, listen out for the expressions meaning 'furious' and 'fear'. You'll catch them now. See you next time.
+> That's it for this scene around thirty years of ask. When you watch the episode, listen out for the expressions meaning 'furious' and 'fear'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 6
 SCENE = 7
 TITLE = "L'offre empoisonnée  (The Poisoned Offer)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elise": "emilie", "gabriel": "theo"}
-LABELS = {"elise": "Élise", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'elise': 'emilie', 'gabriel': 'theo'}
+LABELS = {'elise': 'Élise', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "At a cafe, traitorous agent Elise Formain invites Gabriel for a talk. She attempts to entice him into joining StarMedia, but Gabriel sees right through her opportunistic scheme. Let's listen to their conversation in French first."
 OPENER = "Let's look at Elise and Gabriel confronting each other step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Disgusted by Elise's cynical attempt to recruit him to StarMedia, Gabriel fiercely rejects her offer and defends his loyalty to Andrea and ASK. When you watch the episode, listen out for the expressions meaning 'want' and 'to celebrate'. You'll catch them now. See you next time."
-CLOSING = ("elise", "À demain!")
+OUTRO = "Disgusted by Elise's cynical attempt to recruit him to StarMedia, Gabriel fiercely rejects her offer and defends his loyalty to Andrea and ASK. When you watch the episode, listen out for the expressions meaning 'want' and 'to celebrate'. You'll catch them now. See you next time!"
+CLOSING = ('elise', 'À demain!')
 STORY = [
     ('gabriel', "Tu veux fêter quoi aujourd'hui?", 'What do you want to celebrate today?', [(321, 'Fêter quoi')], ''),
     ('gabriel', 'Tu veux saigner notre agence?', 'Do you want to bleed our agency dry?', [(322, 'Saigner ASK')], ''),

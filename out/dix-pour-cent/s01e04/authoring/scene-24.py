@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 4
 SCENE = 24
-TITLE = "Trahison et Hôtel Saint-Georges  (Betrayal and the Hotel Saint-Georges)"
-LEVEL = "A1 — débutant"
+TITLE = 'Trahison et Hôtel Saint-Georges  (Betrayal and the Hotel Saint-Georges)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie", "arlette": "emilie"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'arlette': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "When Mathias walks back into the agency, Andréa, Gabriel and Arlette are waiting for him, and Arlette's little dog Jean Gabin goes straight for his ankle. Gabriel's lines are told by me. Let's hear the confrontation in French first."
 OPENER = "Let's go through it step by step. First, Mathias tries to shake Arlette's dog off his trouser leg."
 TRANSITION = 'Now listen to the whole confrontation again.'
-OUTRO = "So while Andréa and Gabriel hurry to the Hotel Saint-Georges to cover up Samuel's secret room, back at the assistants' desks Hervé explains a strange phone call to Camille: a Russian billionaire named Kadropov is in Paris for his birthday and pays famous actresses a small fortune just to come to his party. We'll soon see who takes that offer. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "So while Andréa and Gabriel hurry to the Hotel Saint-Georges to cover up Samuel's secret room, back at the assistants' desks Hervé explains a strange phone call to Camille: a Russian billionaire named Kadropov is in Paris for his birthday and pays famous actresses a small fortune just to come to his party. We'll soon see who takes that offer. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('mathias', 'Mais lâche-moi!', 'Let go of me!', [(640, 'Lâche-moi')], ''),
     ('arlette', 'Jean Gabin, arrête! Il mord les jambes des traîtres!', 'Jean Gabin, stop it! He bites traitors', [(641, 'Jean Gabin, arrête'), (642, 'des traîtres')], ''),

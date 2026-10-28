@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 26
-TITLE = "Un verre après le tournage  (A Drink After the Shoot)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un verre après le tournage  (A Drink After the Shoot)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "guy": "marcel", "arlette": "emilie"}
-LABELS = {"guy": "Guy", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'guy': 'marcel', 'arlette': 'emilie'}
+LABELS = {'guy': 'Guy', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "On the film set, Guy Marchand has just finished a deeply moving scene thanks to Arlette's playful suggestion. As the crew prepares the next take, Guy invites his trusted agent to celebrate with a drink after wrapping. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this warm movie set conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'After a triumphant scene on set, Guy Marchand invites Arlette out for a drink, celebrating their long friendship and successful collaboration. Join us next time to see what happens next.'
-CLOSING = ("arlette", "Bonne soirée!")
+OUTRO = 'After a triumphant scene on set, Guy Marchand invites Arlette out for a drink, celebrating their long friendship and successful collaboration. See you next time!'
+CLOSING = ('arlette', 'Bonne soirée!')
 STORY = [
     ('arlette', "C'était vraiment très beau.", 'That was really very beautiful.', [(856, "C'était beau")], ''),
     ('guy', 'Et surtout inattendu.', 'And above all unexpected.', [(857, 'Et inattendu')], ''),

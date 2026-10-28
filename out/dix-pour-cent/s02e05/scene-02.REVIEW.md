@@ -27,5 +27,5 @@
 | 13 | `guy` (Guy) | Non, nous parlerons plus tard au téléphone. | No, we will talk later on the phone. | 66:On se parlera par téléphone. |
 
 ## Part 5 — Outro & Closing
-> Guy's sudden disorientation shocks director Vera and raises immediate alarm for Gabriel. Realizing that something is medically wrong with his star client, Gabriel seeks immediate medical help. Join us next time to see what happens next.
+> Guy's sudden disorientation shocks director Vera and raises immediate alarm for Gabriel. Realizing that something is medically wrong with his star client, Gabriel seeks immediate medical help. See you next time!
 - **Closing**: `guy`: *Au revoir, Gabriel.*

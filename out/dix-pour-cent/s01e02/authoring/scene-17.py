@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 17
-TITLE = "Line et Françoise, une vieille histoire  (Line and Françoise, an Old Story)"
-LEVEL = "A1 — débutant"
+TITLE = 'Line et Françoise, une vieille histoire  (Line and Françoise, an Old Story)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "camille": "emilie"}
-LABELS = {"herve": "Hervé", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'camille': 'emilie'}
+LABELS = {'herve': 'Hervé', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Back at the assistants' desks, the talk is about Gabriel's bold idea: Line Renaud, the singer and actress, to replace Françoise Fabian in Gabor's film. Hervé, who knows every piece of gossip in Paris, explains to Camille why that idea is so cheeky. Here it is in French first; just follow the story, not every word."
 OPENER = "Let's go through it together. Hervé starts with a word that means bold, a little too bold."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the old story, and right after it Camille hurries to reception to ask Sofia a favour: send some photos to a casting director. You did well with all those past tenses; see you next time."
-CLOSING = ("herve", "À bientôt!")
+OUTRO = "That's the old story, and right after it Camille hurries to reception to ask Sofia a favour: send some photos to a casting director. You did well with all those past tenses. See you next time!"
+CLOSING = ('herve', 'À bientôt!')
 STORY = [
     ('herve', "C'est culotté de la part de Gabriel.", 'That', [(491, "C'est culotté de la part de Gabriel")], ''),
     ('camille', 'Tu trouves ça culotté?', 'You think it', [(492, 'Tu trouves ça culotté')], ''),

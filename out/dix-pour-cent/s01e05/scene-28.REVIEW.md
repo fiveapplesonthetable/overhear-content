@@ -29,5 +29,5 @@
 | 15 | `joey` (JoeyStarr) | Je voulais te demander quelque chose. Tu vois quelqu'un en ce moment? | I wanted to ask you something. Are you seeing anyone at the moment? | 654:Je voulais te demander quelque chose, 655:Tu vois quelqu'un en ce moment |
 
 ## Part 5 — Outro & Closing
-> With Julie and Didier finally getting along both on and off camera, the costume drama is saved. Next, we return to Paris, where Mathias visits the studio set of Jonathan Joubert's daytime soap opera. See you there.
+> With Julie and Didier finally getting along both on and off camera, the costume drama is saved. See you next time!
 - **Closing**: `julie`: *Bonne journée!*

@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | C'est terminé entre nous, monsieur Barneville. | It is over between us, Mr. Barneville. | 1033:Camille ? |
 
 ## Part 5 — Outro & Closing
-> Camille walks out of the building, leaving Mathias standing alone in his empty office. When you watch the episode, listen out for the expressions meaning 'brought' and 'glasses'. You'll catch them now. See you next time.
+> Camille walks out of the building, leaving Mathias standing alone in his empty office. When you watch the episode, listen out for the expressions meaning 'brought' and 'glasses'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Au revoir!*

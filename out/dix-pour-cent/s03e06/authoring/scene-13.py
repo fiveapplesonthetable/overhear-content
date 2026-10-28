@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 13
-TITLE = "La doublure sur le plateau  (The Double on Set)"
-LEVEL = "A1 — débutant"
+TITLE = 'La doublure sur le plateau  (The Double on Set)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "realisateur": "marcel", "gabriel": "theo"}
-LABELS = {"realisateur": "Le réalisateur", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'realisateur': 'marcel', 'gabriel': 'theo'}
+LABELS = {'realisateur': 'Le réalisateur', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "On the dimly lit film set, Gabriel is trying to keep the production moving forward smoothly. With Isabelle away at the agency party, her stand-in double steps into the role of the mysterious ghost. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Gabriel manages to reassure the director about the stand-in's eerie performance on set. When you watch the episode, listen out for the expressions meaning 'look at' and 'silhouette'. You'll catch them now. See you next time."
-CLOSING = ("realisateur", "À demain!")
+OUTRO = "Gabriel manages to reassure the director about the stand-in's eerie performance on set. When you watch the episode, listen out for the expressions meaning 'look at' and 'silhouette'. You'll catch them now. See you next time!"
+CLOSING = ('realisateur', 'À demain!')
 STORY = [
     ('gabriel', 'Regarde cette silhouette dans la brume.', 'Look at this silhouette in the mist.', [(621, 'Cette pâleur spectrale')], ''),
     ('realisateur', 'Cette pâleur spectrale me semble étrange.', 'That ghostly pallor seems strange to me.', [(621, 'Cette pâleur spectrale')], ''),

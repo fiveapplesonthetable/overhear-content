@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 12
-TITLE = "Le budget  (The budget)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le budget  (The budget)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "mathias": "marcel"}
-LABELS = {"lea": "Andréa", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'mathias': 'marcel'}
+LABELS = {'lea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In the agency office, Andrea urgently discusses a major movie budget problem with Mathias and asks for his help. We will hear it in French first, so don't worry about catching every word."
 OPENER = "Let's go back through it. Mathias greets Andrea."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Andrea realizes the budget problem is serious. When you watch the episode, listen out for the expressions meaning 'madam' and 'producer'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Andrea realizes the budget problem is serious. When you watch the episode, listen out for the expressions meaning 'madam' and 'producer'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('mathias', 'Bonjour, Madame la Productrice...', 'Hello, Madam Producer...', [(526, 'Bonjour, Madame la Productrice...')], ''),
     ('lea', "Tu m'as fait peur.", 'You scared me.', [(527, "Tu m'as fait peur.")], ''),

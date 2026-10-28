@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 13
-TITLE = "Le personnage du Déserteur  (The Deserter Character)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le personnage du Déserteur  (The Deserter Character)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "lea": "lucie", "mathias": "marcel"}
-LABELS = {"jean": "Jean", "lea": "Andréa", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie', 'mathias': 'marcel'}
+LABELS = {'jean': 'Jean', 'lea': 'Andréa', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = 'Visiting actor Jean Dujardin in his secluded trailer, agents Andrea and Gabriel find him still completely immersed in his 1870 deserter role. As they urge him to prepare for his next film role as a banker, they discover that he even signed his new production contract as Emile Berthier. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Struggling to separate reality from fiction after months in the woods, Jean Dujardin refuses to leave his intense deserter persona behind. When you watch the episode, listen out for the expressions meaning 'affected' and 'acting role'. You'll catch them now. See you next time."
-CLOSING = ("jean", "À demain!")
+OUTRO = "Struggling to separate reality from fiction after months in the woods, Jean Dujardin refuses to leave his intense deserter persona behind. When you watch the episode, listen out for the expressions meaning 'affected' and 'acting role'. You'll catch them now. See you next time!"
+CLOSING = ('jean', 'À demain!')
 STORY = [
     ('lea', 'Jean, tu es là?', 'Jean, are you there?', [(307, 'Jean'), (312, 'Oui')], ''),
     ('lea', 'Tu es très marqué par ton rôle.', 'You are very marked by your role.', [(313, 'très marqué par ton rôle dans le Déserteur')], ''),

@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Reste à régler le problème de Charlotte. | It remains to resolve Charlotte | 102:dis la vérité |
 
 ## Part 5 — Outro & Closing
-> Andrea lays out a compelling vision for the agency, inspiring her colleagues to embrace new creative horizons. When you watch the episode, listen out for the expressions meaning 'leaving' and 'weakens'. You'll catch them now. See you next time.
+> Andrea lays out a compelling vision for the agency, inspiring her colleagues to embrace new creative horizons. When you watch the episode, listen out for the expressions meaning 'leaving' and 'weakens'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

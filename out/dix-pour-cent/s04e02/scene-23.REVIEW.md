@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Passez une très bonne nuit! | Have a very good night! | 1095:Au revoir, Camille |
 
 ## Part 5 — Outro & Closing
-> Eager to escape the agency atmosphere and keep the celebratory momentum going, Gabriel and Sarah say their goodbyes to Camille and leave together for Saint-Ouen. When you watch the episode, listen out for the expressions meaning 'party' and 'great'. You'll catch them now. See you next time.
+> Eager to escape the agency atmosphere and keep the celebratory momentum going, Gabriel and Sarah say their goodbyes to Camille and leave together for Saint-Ouen. When you watch the episode, listen out for the expressions meaning 'party' and 'great'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne journée!*

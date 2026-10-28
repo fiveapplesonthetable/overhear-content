@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 3
-TITLE = "Bon anniversaire, ma chérie!  (Happy Birthday, Darling!)"
-LEVEL = "A1 — débutant"
+TITLE = 'Bon anniversaire, ma chérie!  (Happy Birthday, Darling!)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Today is Camille's twenty-third birthday. As she rides the metro and arrives at the ASK office, her family calls to wish her a happy birthday, receptionist Sofia prepares for her own small role opposite JoeyStarr, and Mathias hands Camille an envelope without realizing what day it is. Listen to the scene in French first; don't worry about catching every word."
 OPENER = "Let's go back through it step by step. On the morning metro, Camille's phone rings with a birthday call from her mother."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Mathias has completely forgotten Camille's twenty-third birthday, and Colette — watching from down the corridor — notices the strange tension between them as she investigates his file. See you next time."
-CLOSING = ("camille", "Bonne journée!")
+OUTRO = "Mathias has completely forgotten Camille's twenty-third birthday, and Colette — watching from down the corridor — notices the strange tension between them as she investigates his file. See you next time!"
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('camille', 'Allô? Merci, Maman.', 'Hello? Thank you, Mum.', [(41, 'Allô'), (43, 'Merci, maman')], ''),
     ('camille', "Arrête! J'ai du travail ici.", 'Stop it! I have work here.', [(44, 'Arrête'), (45, "J'ai du travail ici")], ''),

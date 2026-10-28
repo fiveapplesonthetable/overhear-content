@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Réfléchis bien à l'intérêt de l'agence. | Think carefully about the agency | 256:perdre des batailles |
 
 ## Part 5 — Outro & Closing
-> Refusing to bow to Mathias's blackmail, Andrea leaves the meeting with renewed anger and determination. When you watch the episode, listen out for the expressions meaning 'proposal' and 'financial'. You'll catch them now. See you next time.
+> Refusing to bow to Mathias's blackmail, Andrea leaves the meeting with renewed anger and determination. When you watch the episode, listen out for the expressions meaning 'proposal' and 'financial'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

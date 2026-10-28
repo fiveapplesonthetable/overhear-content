@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 4
 SCENE = 17
 TITLE = "Photos d'enfance  (Childhood Photos)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "hippolyte": "theo", "lea": "lucie"}
-LABELS = {"camille": "Camille", "hippolyte": "Hippolyte", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'hippolyte': 'theo', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'hippolyte': 'Hippolyte', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e04.fr.dual.srt'
 INTRO = "While Audrey wins her part in Mathias's office, Andréa calls Camille in for a job. Young actor Hippolyte Rivière has just landed a role in a detective series, and the production team needs childhood photos of him. Remember that Camille now knows Hippolyte is Mathias's son — her own half-brother — though Hippolyte still has no idea. Let's listen in French first, and just follow the flow."
 OPENER = "Let's go through it line by line. Camille knocks at Andréa's door."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Camille says she's never afraid, and off they ride to the Barneville family house. Next, they look through the photos, and someone unexpected walks in. See you there."
-CLOSING = ("camille", "À demain!")
+OUTRO = "Camille says she's never afraid, and off they ride to the Barneville family house. See you next time!"
+CLOSING = ('camille', 'À demain!')
 STORY = [
     ('camille', 'Vous vouliez me voir?', 'Did you want to see me?', [(422, 'Vous vouliez me voir')], ''),
     ('lea', 'Oui. Vous connaissez Hippolyte Rivière?', 'Yes. Do you know Hippolyte Rivière?', [(422, 'Oui. Vous connaissez Hippolyte Rivière')], ''),

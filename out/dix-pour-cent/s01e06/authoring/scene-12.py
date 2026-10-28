@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 12
 TITLE = "La piscine de François  (François's Swimming Pool)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "francois": "marcel", "christophe": "theo"}
-LABELS = {"lea": "Andréa", "francois": "François", "christophe": "Christophe"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'francois': 'marcel', 'christophe': 'theo'}
+LABELS = {'lea': 'Andréa', 'francois': 'François', 'christophe': 'Christophe'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Andréa drives out to François Berléand's country house to make peace after his violent fight with Christophe Bel. Climbing over the garden wall, she finds François digging a giant hole in his lawn and discovers a surprising secret that explains all his fears. Let's listen to the scene in French first."
 OPENER = 'François shares his private secret. Let us examine the lines with English notes.'
 TRANSITION = "Now listen to Andréa and François's conversation once more without interruption."
 OUTRO = 'Andréa successfully brings François back into the fold and arranges to meet Christophe Bel for dinner. That dinner will test her patience and her relationship with Colette even further. Here is our closing sentence. See you next time!'
-CLOSING = ("christophe", "Bonne journée!")
+CLOSING = ('christophe', 'Bonne journée!')
 STORY = [
     ('lea', "François, c'est moi. Je suis là, comme prévu.", 'François, it is me. I am here, as planned.', [(323, "François, c'est moi"), (323, 'Je suis là, comme prévu')], ''),
     ('francois', 'Ça suffit! Fox, du calme!', 'That is enough! Fox, quiet!', [(329, 'Ça suffit'), (329, 'Fox, du calme')], ''),

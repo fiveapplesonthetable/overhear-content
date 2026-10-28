@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 3
 SCENE = 1
 TITLE = "Norman s'entraîne à conduire  (Norman's Driving Practice)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "norman": "marcel"}
-LABELS = {"gabriel": "Gabriel", "norman": "Norman"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'norman': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'norman': 'Norman'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In Episode 3 of Season 2 of Dix pour cent, internet comedy star Norman Thavaud wants to pass his driving test for a film role even though he is terrified of cars, while Hicham tries to poach Fabrice Luchini behind the other agents' backs. We open in the ASK corridor as Gabriel catches up with Andréa. You'll hear the whole conversation in French first; don't worry about catching every word."
 OPENER = "Let's examine how Gabriel coaches Norman during the driving lesson."
 TRANSITION = "Now let's listen to Norman's frantic driving practice again at full speed."
 OUTRO = "Norman tries his best behind the wheel, but his lack of driving experience makes Gabriel anxious. The upcoming film role requires a valid driver's license, raising the pressure on ASK. See you next time!"
-CLOSING = ("gabriel", "Au revoir!")
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('gabriel', "On est dans les temps pour l'examen?", 'Are we on time for the exam?', [(2, 'On est dans les temps ?')], ''),
     ('norman', "Il faut se dépêcher, c'est loin.", 'We must hurry, it is far.', [(3, "Faut se dépêcher. -C'est loin.")], ''),

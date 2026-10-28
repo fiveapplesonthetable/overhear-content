@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 26
-TITLE = "Virée interdite  (Joyride)"
-LEVEL = "A1 — débutant"
+TITLE = 'Virée interdite  (Joyride)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elvis": "theo", "norman": "marcel", "lea": "lucie"}
-LABELS = {"elvis": "Elvis", "norman": "Norman", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'elvis': 'theo', 'norman': 'marcel', 'lea': 'lucie'}
+LABELS = {'elvis': 'Elvis', 'norman': 'Norman', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In the dark parking lot outside the arena, young Elvis corners Norman near Hicham's luxury sports car. Daring him and calling him a coward, Elvis pushes Norman into making a reckless decision. Let's listen to the scene in French first."
 OPENER = "Let's examine how Elvis is convincing Norman to take the sports car for a drive."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
-OUTRO = "Norman gives in to Elvis's teasing and drives off into the night in Hicham's car. A disastrous joyride is about to unfold. Until next time."
-CLOSING = ("norman", "Au revoir!")
+OUTRO = "Norman gives in to Elvis's teasing and drives off into the night in Hicham's car. A disastrous joyride is about to unfold. See you next time!"
+CLOSING = ('norman', 'Au revoir!')
 STORY = [
     ('elvis', 'Hé, tu es encore debout?', 'Hey, are you still awake?', [(662, 'Hé !'), (663, "T'es encore debout ?")], ''),
     ('norman', 'Je ne dors pas. Il ne faut pas jouer ici.', 'I am not sleeping. You must not play here.', [(664, 'Je dors pas'), (665, 'Faut pas jouer avec les voitures.')], ''),

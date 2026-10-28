@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 15
-TITLE = "Le cabaret  (The Cabaret)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le cabaret  (The Cabaret)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "arlette": "emilie"}
-LABELS = {"lea": "Andréa", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'arlette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Andrea pleads with Colette on the phone to come home, before Arlette arrives back at the agency with an energetic crowd of nocturnal partygoers. Surprised by the festive chaos, Andrea demands an explanation. Let's listen closely to their words in French first."
 OPENER = "Let's walk through it."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the cabaret, and for the words meaning 'are doing' and 'are'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir.")
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the cabaret, and for the words meaning 'are doing' and 'are'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir.')
 STORY = [
     ('lea', 'Comment tu vas?', 'How are you?', [(681, 'Comment tu vas')], ''),
     ('lea', 'Tu es où?', 'Where are you?', [(682, 'Tu es où')], ''),

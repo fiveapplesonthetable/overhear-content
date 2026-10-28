@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 1
 SCENE = 7
 TITLE = "Le pitch du Déserteur  (The Deserter's Story)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "maxime": "theo"}
-LABELS = {"lea": "Andréa", "maxime": "Maxime"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'maxime': 'theo'}
+LABELS = {'lea': 'Andréa', 'maxime': 'Maxime'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "In her office, Andrea tries to soothe producer Maxime's impatience by pitching the artistic premise of Jean Dujardin's latest film. Describing the harrowing story of a wartime deserter, she prepares him to watch confidential footage. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andrea pitches the dramatic war story step by step to explore cinema marketing and storytelling."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around the deserter's story. When you watch the episode, listen out for the expressions meaning 'tell me' and 'famous'. You'll catch them now. See you next time."
-CLOSING = ("maxime", "Au revoir!")
+OUTRO = "That's it for this scene around the deserter's story. When you watch the episode, listen out for the expressions meaning 'tell me' and 'famous'. You'll catch them now. See you next time!"
+CLOSING = ('maxime', 'Au revoir!')
 STORY = [
     ('maxime', 'Alors Andréa, parle-moi de ce fameux film.', 'So Andrea, tell me about this famous movie.', [], ''),
     ('lea', "C'est l'histoire d'un brave soldat blessé.", 'It is the story of a brave wounded soldier.', [(157, "C'est l'histoire d'un soldat blessé")], ''),

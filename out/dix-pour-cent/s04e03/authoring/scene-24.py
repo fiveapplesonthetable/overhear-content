@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 24
-TITLE = "Renvoyée de la crèche  (Expelled from the Creche)"
-LEVEL = "A1 — débutant"
+TITLE = 'Renvoyée de la crèche  (Expelled from the Creche)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "After allowing actor Jose Garcia to supervise children at the daycare, Andrea is kicked out by the furious director and arrives at ASK with baby Flora in her arms. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andrea deals with her daycare dilemma step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Cast out of the local daycare following the babysitting incident with Jose Garcia, Andrea brings baby Flora to ASK and explains her parenting predicament to Gabriel. When you watch the episode, listen out for the expressions meaning 'find' and 'solution'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Cast out of the local daycare following the babysitting incident with Jose Garcia, Andrea brings baby Flora to ASK and explains her parenting predicament to Gabriel. When you watch the episode, listen out for the expressions meaning 'find' and 'solution'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'On peut trouver une bonne solution!', 'We can find a good solution!', [(1028, 'On peut trouver une solution')], ''),
     ('lea', "José Garcia n'est pas un inconnu.", 'Jose Garcia is not a stranger.', [(1033, "José Garcia n'est pas vraiment un inconnu")], ''),

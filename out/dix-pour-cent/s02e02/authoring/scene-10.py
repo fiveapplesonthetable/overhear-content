@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 10
-TITLE = "Un secret au bar  (A Secret at the Bar)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un secret au bar  (A Secret at the Bar)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "sofia": "emilie", "lea": "lucie"}
-LABELS = {"herve": "Hervé", "sofia": "Sofia", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'sofia': 'emilie', 'lea': 'lucie'}
+LABELS = {'herve': 'Hervé', 'sofia': 'Sofia', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "At a Parisian bar after work, Camille, Hervé, and Sofia relax over drinks. The conversation turns playful until Hervé blabs a huge agency secret about Camille's parentage. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = "Hervé shares the outrageous agency rumor about Camille's parentage, while Sofia reacts with total surprise. Camille's cover story remains intact for now. See you next time!"
-CLOSING = ("sofia", "Bonne journée!")
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('herve', 'Santé à tout le monde!', 'Cheers to everyone!', [(293, 'Santé.')], ''),
     ('sofia', 'Comment tu vas ce soir, Camille?', 'How are you doing tonight, Camille?', [(298, 'Comment tu vas ?')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 1
 SCENE = 20
-TITLE = "Miranda dit non  (Miranda Says No)"
-LEVEL = "A1 — débutant"
+TITLE = 'Miranda dit non  (Miranda Says No)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "miranda": "emilie", "mathias": "marcel"}
-LABELS = {"miranda": "Miranda", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'miranda': 'emilie', 'mathias': 'marcel'}
+LABELS = {'miranda': 'Miranda', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Now Mathias has his meeting. He takes Miranda to an elegant tea room in Paris, with pastel macarons on the table, to talk about Cécile and the part she lost. This time we follow Miranda, who speaks very good French. You'll hear it in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's take it slowly. Mathias starts the way he always does with an important person: with a big compliment."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the scene: words like radiant and student change their sound for a woman, and now you can hear the difference. See you soon."
-CLOSING = ("miranda", "Au revoir, Mathias!")
+OUTRO = "That's the scene: words like radiant and student change their sound for a woman, and now you can hear the difference. See you next time!"
+CLOSING = ('miranda', 'Au revoir, Mathias!')
 STORY = [
     ('mathias', 'Miranda, vous êtes resplendissante.', 'Miranda, you look radiant.', [(584, 'Miranda, vous êtes resplendissante')], ''),
     ('mathias', 'Paris vous va à merveille.', 'Paris suits you wonderfully.', [(585, 'Paris vous va à merveille')], ''),

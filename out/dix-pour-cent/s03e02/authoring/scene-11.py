@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 11
 TITLE = "L'invitation au dîner  (The Dinner Invitation)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = 'Noticing that Andrea is clenching her teeth from physical stress, agency boss Hicham invites her and Colette to a gastronomic dinner. He reveals that he wants to revisit their coparenting agreement before the baby is born. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Determined to alter the parental agreement before the birth, Hicham arranges a fateful restaurant dinner with Andrea and Colette. When you watch the episode, listen out for the expressions meaning 'issues' and 'nervous tension'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Determined to alter the parental agreement before the birth, Hicham arranges a fateful restaurant dinner with Andrea and Colette. When you watch the episode, listen out for the expressions meaning 'issues' and 'nervous tension'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('hicham', "Tes problèmes de stress ne s'arrangent pas.", 'Your stress problems are not getting better.', [(621, 'problèmes de bruxisme')], ''),
     ('lea', 'De quoi tu te mêles, Hicham?', 'What business is it of yours, Hicham?', [(626, 'de quoi je me mêle')], ''),

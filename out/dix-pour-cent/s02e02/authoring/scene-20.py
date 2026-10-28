@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 20
-TITLE = "Une nuit platonique  (A Platonic Night)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une nuit platonique  (A Platonic Night)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "mathias": "marcel", "arlette": "emilie"}
-LABELS = {"lea": "Andréa", "mathias": "Mathias", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'mathias': 'marcel', 'arlette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'mathias': 'Mathias', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = 'Early in the morning at ASK, Andréa arrives looking radiant after an all-night conversation with Fabrice Luchini. She shares the thrilling breakthrough with Arlette and Mathias: Luchini has broken with rival agent François Bréhier. Listen to the scene in French first.'
 OPENER = "Let's explore Andréa's triumphant morning debrief line by line."
 TRANSITION = "Now let's listen to the whole debriefing once more from start to finish."
 OUTRO = 'Andréa has pulled off a diplomatic masterstroke, opening the door for Luchini to join ASK. Remember the key verb for taking a bold chance: oser. See you next time!'
-CLOSING = ("lea", "Bonne journée!")
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('arlette', 'On a passé une folle nuit?', 'Did we have a wild night?', [(693, 'On a passé une folle nuit')], ''),
     ('lea', 'Exactement! Devinez avec qui.', 'Exactly! Guess with whom.', [(694, 'Exactement'), (695, 'Devinez avec qui')], ''),

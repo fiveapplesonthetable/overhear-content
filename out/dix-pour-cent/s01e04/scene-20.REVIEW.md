@@ -31,5 +31,5 @@
 | 17 | `mathias` (Mathias) | On en parle demain. | We | 530:On en parle demain |
 
 ## Part 5 — Outro & Closing
-> Camille turned the tables on Mathias at dinner, and outside she made it clear that his double life is his own fault. Next, we check in on Audrey Fleurot as she prepares for her new role. See you next time.
+> Camille turned the tables on Mathias at dinner, and outside she made it clear that his double life is his own fault. See you next time!
 - **Closing**: `camille`: *Bonne soirée!*

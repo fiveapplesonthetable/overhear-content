@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Alors c'est parti pour l'aventure! | Then here we go for the adventure! | 880:avec son père. |
 
 ## Part 5 — Outro & Closing
-> United by family affection and shared professional passion, Mathias and Camille forge a bold new alliance. When you watch the episode, listen out for the expressions meaning 'must' and 'launch'. You'll catch them now. See you next time.
+> United by family affection and shared professional passion, Mathias and Camille forge a bold new alliance. When you watch the episode, listen out for the expressions meaning 'must' and 'launch'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À bientôt!*

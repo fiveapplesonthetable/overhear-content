@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 13
 TITLE = "Chez Monica Bellucci  (At Monica Bellucci's)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "monica": "emilie", "gabriel": "theo"}
-LABELS = {"monica": "Monica", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'monica': 'emilie', 'gabriel': 'theo'}
+LABELS = {'monica': 'Monica', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "At her Parisian apartment, Italian cinema star Monica Bellucci reviews proofs of a high-end advertising campaign with agent Gabriel Sarda. She criticizes the excessive digital retouching, while warmly praising Gabriel's gentle and supportive presence. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Sharing an intimate conversation over photo proofs, Monica Bellucci and Gabriel bond over the contrast between glamour and authenticity. When you watch the episode, listen out for the expressions meaning 'think' and 'promo pictures'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Sharing an intimate conversation over photo proofs, Monica Bellucci and Gabriel bond over the contrast between glamour and authenticity. When you watch the episode, listen out for the expressions meaning 'think' and 'promo pictures'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('monica', 'Alors, que penses-tu de ces photos?', 'So, what do you think of these photos?', [(735, 'Alors')], ''),
     ('gabriel', "La publicité, ce n'est pas le cinéma.", 'Advertising is not cinema.', [(736, "la pub, c'est pas le cinéma")], ''),

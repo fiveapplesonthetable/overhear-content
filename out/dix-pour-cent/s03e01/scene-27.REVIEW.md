@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | À partir de maintenant, on fait tout ensemble! | From now on, we do everything together! | 1106:À partir de maintenant, je vais tout faire avec toi |
 
 ## Part 5 — Outro & Closing
-> After threatening to fire Gabriel for hiding his failures, Hicham agrees to keep him at ASK on the condition that Andrea supervises his work. When you watch the episode, listen out for the expressions meaning 'struggled' and 'canines'. You'll catch them now. See you next time.
+> After threatening to fire Gabriel for hiding his failures, Hicham agrees to keep him at ASK on the condition that Andrea supervises his work. When you watch the episode, listen out for the expressions meaning 'struggled' and 'canines'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

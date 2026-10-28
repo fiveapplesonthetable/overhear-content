@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 3
 SCENE = 5
 TITLE = "Le shooting de Tiffany's  (The Tiffany's Shoot)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "lea": "lucie"}
-LABELS = {"sofia": "Sofia", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'lea': 'lucie'}
+LABELS = {'sofia': 'Sofia', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Before a major commercial photo shoot for Tiffany's, Sophia nurses an exhausting hangover. She confides to Camille that she drank too much after Gabriel left the agency party with his new girlfriend. Let's listen to their conversation in French first."
 OPENER = "Let's explore Camille and Sophia's heartfelt conversation line by line."
 TRANSITION = "Now let's listen to Camille and Sophia's exchange once more from start to finish."
-OUTRO = "That's it for this scene around the tiffany's shoot. When you watch the episode, listen out for the expressions meaning 'seem' and 'tired.'. You'll catch them now. See you next time."
-CLOSING = ("sofia", "À demain!")
+OUTRO = "That's it for this scene around the tiffany's shoot. When you watch the episode, listen out for the expressions meaning 'seem' and 'tired.'. You'll catch them now. See you next time!"
+CLOSING = ('sofia', 'À demain!')
 STORY = [
     ('lea', 'Tu vas bien? Tu sembles très fatiguée.', 'Are you well? You seem very tired.', [(112, 'Tu vas bien ?')], ''),
     ('sofia', 'Non, je ne me sens pas bien.', 'No, I do not feel well.', [(113, 'Je ne me sens pas bien.')], ''),

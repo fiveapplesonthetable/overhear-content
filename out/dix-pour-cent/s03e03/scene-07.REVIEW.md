@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Dépêche-toi, le casting commence maintenant. | Hurry up, the casting is starting now. | 373:Messagerie. |
 
 ## Part 5 — Outro & Closing
-> Gabriel rushes off after alerting Andrea about the casting catastrophe. When you watch the episode, listen out for the expressions meaning 'problem' and 'casting'. You'll catch them now. See you next time.
+> Gabriel rushes off after alerting Andrea about the casting catastrophe. When you watch the episode, listen out for the expressions meaning 'problem' and 'casting'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

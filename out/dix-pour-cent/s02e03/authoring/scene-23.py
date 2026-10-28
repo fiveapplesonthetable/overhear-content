@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 23
-TITLE = "Arrivée au Laser Game  (Arrival at the Laser Game)"
-LEVEL = "A1 — débutant"
+TITLE = 'Arrivée au Laser Game  (Arrival at the Laser Game)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "norman": "marcel", "elvis": "theo", "lea": "lucie"}
-LABELS = {"norman": "Norman", "elvis": "Elvis", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'norman': 'marcel', 'elvis': 'theo', 'lea': 'lucie'}
+LABELS = {'norman': 'Norman', 'elvis': 'Elvis', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At the laser game arena, young guests eagerly await the guest of honor for Elvis's tenth birthday party. When internet star Norman Thavaud arrives, the excitement peaks as he meets the birthday boy and gets ready for battle. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
 OUTRO = 'Surrounded by cheering kids, Norman dives into the laser tag arena to give Elvis an unforgettable birthday match. Notice how the near future is formed with aller followed by an infinitive: on va gagner. See you next time!'
-CLOSING = ("norman", "Bonne soirée!")
+CLOSING = ('norman', 'Bonne soirée!')
 STORY = [
     ('lea', 'Regardez, Norman est enfin là!', 'Look, Norman is finally here!', [(599, 'Norman ! Regardez, Norman est là !')], ''),
     ('norman', 'Bonjour à tous les enfants!', 'Hello to all the children!', [(601, '-Ça va, les enfants ?')], ''),

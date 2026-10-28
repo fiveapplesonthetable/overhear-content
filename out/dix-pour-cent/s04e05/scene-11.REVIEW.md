@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Je ne sais plus du tout. | I no longer know at all. | 462:Tu parles à qui ? À Sarah ou à moi ? |
 
 ## Part 5 — Outro & Closing
-> What started as a lighthearted rehearsal leaves both Gabriel and Sofia unsettled by their true feelings. When you watch the episode, listen out for the expressions meaning 'agrees' and 'see again'. You'll catch them now. See you next time.
+> What started as a lighthearted rehearsal leaves both Gabriel and Sofia unsettled by their true feelings. When you watch the episode, listen out for the expressions meaning 'agrees' and 'see again'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

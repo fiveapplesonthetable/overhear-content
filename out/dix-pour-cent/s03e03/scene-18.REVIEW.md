@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | Vous êtes complètement fous tous les deux! | You are both completely crazy! | 1189:N'importe quoi |
 
 ## Part 5 — Outro & Closing
-> Turning a catastrophic box office flop into an artistic victory, Julien Dore embraces Gabriel for inadvertently preserving his creative freedom. When you watch the episode, listen out for the expressions meaning 'figures' and 'film'. You'll catch them now. See you next time.
+> Turning a catastrophic box office flop into an artistic victory, Julien Dore embraces Gabriel for inadvertently preserving his creative freedom. When you watch the episode, listen out for the expressions meaning 'figures' and 'film'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *Bonne journée!*

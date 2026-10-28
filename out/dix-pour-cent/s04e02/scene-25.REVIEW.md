@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | Bonne nuit, Camille, à bientôt. | Good night, Camille, see you soon. | 1105:Bien sûr, bien sûr |
 
 ## Part 5 — Outro & Closing
-> Confronted with the reality that Gabriel has moved on with Sarah, Sofia masks her sorrow with quiet dignity and heads home alone into the Paris night as the episode concludes. When you watch the episode, listen out for the expressions meaning 'comes' and 'leave'. You'll catch them now. See you next time.
+> Confronted with the reality that Gabriel has moved on with Sarah, Sofia masks her sorrow with quiet dignity and heads home alone into the Paris night as the episode concludes. When you watch the episode, listen out for the expressions meaning 'comes' and 'leave'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *Au revoir!*

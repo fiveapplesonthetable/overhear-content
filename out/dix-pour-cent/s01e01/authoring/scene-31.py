@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 31
 TITLE = "Je vous garde  (I'm Keeping You)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "lea": "lucie"}
-LABELS = {"camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "But earlier, Andréa had also given her an almost impossible task: find out how much money Mathias was offered for one of his star actors. Camille found those figures anyway. Now she leaves them on Andréa's desk with a little note, and walks out. First, the whole scene in French. Relax and listen; nobody catches everything the first time."
 OPENER = "Let's take it slowly. Camille writes a short note, puts it on top of the figures, and quietly leaves."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "And that's how Camille got her job back. Don't worry if some lines went by quickly; you'll recognise the formal 'you' and the 'going to' future when you watch the episode. See you soon."
-CLOSING = ("camille", "À demain, Andréa!")
+OUTRO = "And that's how Camille got her job back. Don't worry if some lines went by quickly; you'll recognise the formal 'you' and the 'going to' future when you watch the episode. See you next time!"
+CLOSING = ('camille', 'À demain, Andréa!')
 STORY = [
     ('camille', "Voilà. J'ai les chiffres que vous vouliez.", 'There. I have the figures you wanted.', [(805, "J'ai les chiffres que vous vouliez")], ''),
     ('camille', 'Au revoir, Andréa.', 'Goodbye, Andréa.', [], ''),

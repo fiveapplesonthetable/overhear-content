@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 29
-TITLE = "Tu peux pas laisser Ryan comme ça !  (Comforting Sofia)"
-LEVEL = "A1 — débutant"
+TITLE = 'Tu peux pas laisser Ryan comme ça !  (Comforting Sofia)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie", "mathias": "marcel"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie', 'mathias': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "For once, Mathias has had enough of his star client's bad behavior — and back at the agency that evening, Gabriel checks in on Sofia after her day on the costume-drama shoot. Listen to the French first, without worrying about catching every word."
 OPENER = "Let's walk through the scene line by line. First, Mathias deals with Jonathan Joubert on the soap-opera set."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'While Gabriel and Sofia head out to dinner together, Mathias is still in his office late at night — and he has one last important conversation waiting for him with Camille. See you in the final scene of the episode.'
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = 'While Gabriel and Sofia head out to dinner together, Mathias is still in his office late at night — and he has one last important conversation waiting for him with Camille. See you next time!'
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('mathias', "Parle à Camille. C'est elle qui l'a mise en place.", 'Talk to Camille. She', [(659, "Parle à Camille. C'est elle qui l'a mise en place")], ''),
     ('mathias', "Calme-toi. Elle essaie de t'aider.", 'Calm down. She', [(669, 'Calme-toi'), (670, "Elle essaie de t'aider")], ''),

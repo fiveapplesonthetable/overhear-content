@@ -28,5 +28,5 @@
 | 14 | `sofia` (Sofia) | Mathias, Camille Valentini est là. Désolée de vous déranger. | Mathias, Camille Valentini is here. Sorry to bother you. | 121:Mathias, Camille Valentini est là, 122:Désolée de vous déranger |
 
 ## Part 5 — Outro & Closing
-> You've just learned how to ask for someone at a front desk, and how to say you only want one thing. Next, Camille finally meets Mathias. See you there.
+> You've just learned how to ask for someone at a front desk, and how to say you only want one thing. See you next time!
 - **Closing**: `lea`: *Merci, au revoir!*

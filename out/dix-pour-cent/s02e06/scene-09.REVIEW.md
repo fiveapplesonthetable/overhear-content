@@ -29,5 +29,5 @@
 | 15 | `juliette` (Juliette) | Non, je pense que ça ira très bien. | No, I think that will be very fine. | 197:Non, ça ira très bien., 198:Je pense que ça ira très bien. |
 
 ## Part 5 — Outro & Closing
-> Andréa navigates a classic Cannes red-carpet crisis: when another A-list star wears a tuxedo, Juliette Binoche graciously pivots to her backup dress to ensure an unforgettable festival opening. Join us next time to see what happens next.
+> Andréa navigates a classic Cannes red-carpet crisis: when another A-list star wears a tuxedo, Juliette Binoche graciously pivots to her backup dress to ensure an unforgettable festival opening. See you next time!
 - **Closing**: `lea`: *À demain!*

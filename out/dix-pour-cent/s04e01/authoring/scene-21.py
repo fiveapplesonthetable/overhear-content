@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 21
-TITLE = "Départ précipité  (A Hasty Departure)"
-LEVEL = "A1 — débutant"
+TITLE = 'Départ précipité  (A Hasty Departure)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "After losing the Cesar for Best Female Newcomer, a heartbroken Sofia rushes out of the ceremony hall. Gabriel follows her into the lobby, confronting the security staff and comforting Sofia as she struggles with disappointment. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Sofia and Gabriel leave the ceremony together, ready to focus on new cinematic opportunities. When you watch the episode, listen out for the expressions meaning 'prize' and 'wait'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Au revoir!")
+OUTRO = "Sofia and Gabriel leave the ceremony together, ready to focus on new cinematic opportunities. When you watch the episode, listen out for the expressions meaning 'prize' and 'wait'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('sofia', "Je n'ai pas gagné ce prix.", 'I did not win this prize.', [(939, "Elle n'a pas gagné")], ''),
     ('gabriel', 'Attends Sofia, ne pars pas si vite.', 'Wait Sofia, do not leave so quickly.', [(939, 'partir comme ça')], ''),

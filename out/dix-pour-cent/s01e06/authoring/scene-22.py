@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 22
-TITLE = "Le traumatisme de la piscine  (The Swimming Pool Trauma)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le traumatisme de la piscine  (The Swimming Pool Trauma)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "francois": "marcel", "christophe": "theo", "lea": "lucie"}
-LABELS = {"francois": "François", "christophe": "Christophe", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'francois': 'marcel', 'christophe': 'theo', 'lea': 'lucie'}
+LABELS = {'francois': 'François', 'christophe': 'Christophe', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Back at the rehearsal studio party, François, Christophe, and Andréa sit together at the edge of the indoor swimming pool with their feet near the water. Now that his secret is out, François explains why he has been terrified of swimming pools ever since a childhood holiday in Spain. Let's hear the scene in French first."
 OPENER = "Let's go back through the scene. Sitting by the water, François remembers his childhood holiday."
 TRANSITION = "Now let's listen to the whole poolside scene again."
-OUTRO = "In Christophe's arms in the shallow water, François finally overcomes his fear of the pool, and the play is saved. Thrilled by their reconciliation, Andréa celebrates a little too hard at the party. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "In Christophe's arms in the shallow water, François finally overcomes his fear of the pool, and the play is saved. Thrilled by their reconciliation, Andréa celebrates a little too hard at the party. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('francois', "J'étais en vacances avec mes parents en Espagne.", 'I was on holiday with my parents in Spain.', [(573, "J'étais en vacances avec mes parents en Espagne")], ''),
     ('francois', "L'hôtel avait une piscine. J'y suis allé avec mon frère.", 'The hotel had a pool. I went there with my brother.', [(574, "L'hôtel avait une piscine"), (575, "J'y suis allé avec mon frère")], ''),

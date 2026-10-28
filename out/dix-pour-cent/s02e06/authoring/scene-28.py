@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 28
-TITLE = "Une fraction de seconde  (A Fraction of a Second)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une fraction de seconde  (A Fraction of a Second)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julien": "marcel", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"julien": "Julien", "gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'julien': 'marcel', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'julien': 'Julien', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At the Cannes party, Sofia encourages Gabriel to join her on the dance floor. However, Gabriel's phone rings with an urgent call from Julien Dore, who describes the sudden collapse of his film project. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel balances the festive Cannes atmosphere with Julien's deep artistic distress step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Julien's distress contrasts sharply with the party around Gabriel and Sofia, underscoring the high emotional stakes of filmmaking. Let's review the emotional and industry-reflection vocabulary from this scene. See you next time!"
-CLOSING = ("gabriel", "Au revoir!")
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('sofia', 'Gabriel, viens danser avec moi ce soir!', 'Gabriel, come dance with me tonight!', [(795, 'Allez, on danse.'), (796, 'Viens.')], ''),
     ('gabriel', 'Attends un instant, mon téléphone sonne encore.', 'Wait a moment, my phone is ringing again.', [(800, "Attends, je t'entends pas.")], ''),

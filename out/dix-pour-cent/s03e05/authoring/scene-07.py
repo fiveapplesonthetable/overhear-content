@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 7
-TITLE = "Béatrice sur le plateau  (Béatrice on Set)"
-LEVEL = "A1 — débutant"
+TITLE = 'Béatrice sur le plateau  (Béatrice on Set)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "beatrice": "emilie", "realisateur": "marcel"}
-LABELS = {"lea": "Andréa", "beatrice": "Béatrice", "realisateur": "Le réalisateur"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'beatrice': 'emilie', 'realisateur': 'marcel'}
+LABELS = {'lea': 'Andréa', 'beatrice': 'Béatrice', 'realisateur': 'Le réalisateur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "On a tense movie set, director and star clash over an unexpected artistic demand. When the director insists that Beatrice Dalle appear completely naked in a morgue scene, Andrea Martel steps in to protect her client. Let's listen to the argument in French first."
 OPENER = "Let's explore how Andrea defends Beatrice against an aggressive director line by line."
 TRANSITION = "Now let's listen to the on-set showdown once more from beginning to end."
-OUTRO = "That's it for this scene around beatrice on set. When you watch the episode, listen out for the expressions meaning 'to be' and 'naked'. You'll catch them now. See you next time."
-CLOSING = ("beatrice", "À bientôt!")
+OUTRO = "That's it for this scene around beatrice on set. When you watch the episode, listen out for the expressions meaning 'to be' and 'naked'. You'll catch them now. See you next time!"
+CLOSING = ('beatrice', 'À bientôt!')
 STORY = [
     ('realisateur', "Je te demande d'être nue ici.", 'I am asking you to be naked here.', [(197, "je te demande d'être nue")], ''),
     ('beatrice', 'Non, je ne peux pas faire ça!', 'No, I cannot do that!', [(198, 'Non, je peux pas, non')], ''),

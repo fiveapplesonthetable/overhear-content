@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 19
-TITLE = "Avertissement secret  (A Secret Warning)"
-LEVEL = "A1 — débutant"
+TITLE = 'Avertissement secret  (A Secret Warning)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "Amid the noisy buzz of ASK's anniversary celebration, Mathias learns alarming news about his star client Guillaume Canet. Andrea urgently pulls him aside into a quiet room to discuss the impending crisis without alerting the party. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Threatened with the loss of their top star, Andrea and Mathias unite to protect ASK from outside predators. When you watch the episode, listen out for the expressions meaning 'be quiet' and 'speak'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = "Threatened with the loss of their top star, Andrea and Mathias unite to protect ASK from outside predators. When you watch the episode, listen out for the expressions meaning 'be quiet' and 'speak'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('lea', 'Tais-toi, ne parle pas ici!', 'Be quiet, do not speak here!', [(978, 'Tais-toi pas ici')], ''),
     ('mathias', 'Pourquoi me tires-tu le bras ainsi?', 'Why are you pulling my arm like that?', [], ''),

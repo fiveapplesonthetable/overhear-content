@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 10
-TITLE = "La première contraction  (The First Contraction)"
-LEVEL = "A1 — débutant"
+TITLE = 'La première contraction  (The First Contraction)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "At the agency, Sofia celebrates her upcoming film poster with Gabriel. The lighthearted office mood suddenly shifts when heavily pregnant agent Andrea experiences her first contraction. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Sofia visits ASK to share her poster before Andrea experiences a sudden contraction. When you watch the episode, listen out for the expressions meaning 'worked' and 'love'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = "Sofia visits ASK to share her poster before Andrea experiences a sudden contraction. When you watch the episode, listen out for the expressions meaning 'worked' and 'love'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('sofia', 'Oui, on a bossé comme des fous, tu vois.', 'Yes, we worked like crazy, you see.', [(175, 'Oui, on a bossé comme des fous,')], ''),
     ('gabriel', "J'adore l'affiche, elle est trop belle.", 'I love the poster, it is so beautiful.', [(177, "J'adore l'affiche."), (178, 'Elle est trop belle.')], ''),

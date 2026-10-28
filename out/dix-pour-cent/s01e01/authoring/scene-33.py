@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 33
 TITLE = "Il faut qu'on parle  (We Have to Talk)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "cecile": "emilie"}
-LABELS = {"gabriel": "Gabriel", "cecile": "Cécile"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'cecile': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'cecile': 'Cécile'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "He drives out of Paris to her riding school and finds her up on a big chestnut horse, which she still can't really control. The two old friends have not spoken since she called him a liar. You'll hear the scene in French first; don't worry about catching every word."
 OPENER = "Let's go back through it slowly. Gabriel walks into the riding school and asks a member of staff where his star is."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the riding school. If you can now hear the difference between saying something and saying you didn't, you've got the main idea of this scene. Until next time."
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = "That's the riding school. If you can now hear the difference between saying something and saying you didn't, you've got the main idea of this scene. See you next time!"
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('gabriel', 'Bonjour, je cherche Cécile de France.', 'Hello, I', [(848, 'je cherche Cécile de France')], ''),
     ('gabriel', "Cécile! Il faut qu'on parle.", 'Cécile! We have to talk.', [(850, "Cécile ! Il faut qu'on parle")], ''),

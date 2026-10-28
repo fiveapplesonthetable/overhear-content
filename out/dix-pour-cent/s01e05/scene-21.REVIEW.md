@@ -28,5 +28,5 @@
 | 14 | `gabriel` (Gabriel) | Je veux savoir. Je reste. | I want to know. I | 446:Je veux savoir. Je reste |
 
 ## Part 5 — Outro & Closing
-> Cornered in her hotel room with Colette hiding in the bathroom, Andréa has no choice left but to confess to Gabriel on the drive to the film set. See you next time.
+> Cornered in her hotel room with Colette hiding in the bathroom, Andréa has no choice left but to confess to Gabriel on the drive to the film set. See you next time!
 - **Closing**: `lea`: *À bientôt!*

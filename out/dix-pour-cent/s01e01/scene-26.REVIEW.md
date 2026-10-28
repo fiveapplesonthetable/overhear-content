@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e01.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "mathias": "marcel", "lea": "lucie", "gabriel": "theo"}`
-- **Labels**: `{"mathias": "Mathias", "lea": "Andréa", "gabriel": "Gabriel"}`
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "gabriel": "theo", "lea": "lucie"}`
+- **Labels**: `{"mathias": "Mathias", "gabriel": "Gabriel", "lea": "Andréa"}`
 
 ## Part 1 — Intro
 > It worked. Back at the agency, Gabriel tells Andréa the news: Cécile has said yes to Mathias, who has stolen his star, and Gabriel is furious. Now Mathias walks in, and Andréa watches the two men face off. Then Mathias turns to her with a surprise of his own. First the French version; it's fine if a lot of it goes over your head.
@@ -31,5 +31,5 @@
 | 17 | `mathias` (Mathias) | Bonne journée. | Have a nice day. | 707:Bonne journée |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene. When you watch it, listen for the past tense with 'have' each time someone is accused of something; you'll hear plenty of it. Until next time.
+> That's it for this scene. When you watch it, listen for the past tense with 'have' each time someone is accused of something; you'll hear plenty of it. See you next time!
 - **Closing**: `lea`: *Bonne journée, Mathias!*

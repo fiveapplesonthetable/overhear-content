@@ -27,5 +27,5 @@
 | 13 | `examinateur` (L'examinateur) | Maintenant, sortez du véhicule. | Now, exit the vehicle. | 587:Maintenant partez ! |
 
 ## Part 5 — Outro & Closing
-> Norman celebrates a successful driving exam that opens the door to his new movie role. Remember the common conversational idiom for asking what someone means: vouloir dire. Until next time.
+> Norman celebrates a successful driving exam that opens the door to his new movie role. Remember the common conversational idiom for asking what someone means: vouloir dire. See you next time!
 - **Closing**: `examinateur`: *À demain!*

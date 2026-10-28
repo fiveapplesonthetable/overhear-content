@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 22
-TITLE = "Confrontation dans le couloir  (Hallway Confrontation)"
-LEVEL = "A1 — débutant"
+TITLE = 'Confrontation dans le couloir  (Hallway Confrontation)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "gabriel": "theo", "hicham": "marcel"}
-LABELS = {"camille": "Camille", "gabriel": "Gabriel", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'gabriel': 'theo', 'hicham': 'marcel'}
+LABELS = {'camille': 'Camille', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In the bustling hallway of ASK, Gabriel steps out of his office to ask for quiet as colleagues chat nearby. A tense exchange between Gabriel, Hicham, and Camille reveals ongoing friction over power and personal loyalties at the agency. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
 OUTRO = "Gabriel continues to worry about Hicham's true intentions despite Camille's calming words. Remember the essential French idiom for holding a grudge against someone: en vouloir a quelqu'un. See you next time!"
-CLOSING = ("camille", "Bonne soirée!")
+CLOSING = ('camille', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Je vous entends depuis mon bureau.', 'I can hear you from my office.', [(624, 'Je vous entends ricaner depuis mon bureau.')], ''),
     ('camille', 'Bonjour, vous pourriez être plus discrets?', 'Hello, could you be more discreet?', [(628, 'Bonjour. Vous pourriez être plus discrets ?')], ''),

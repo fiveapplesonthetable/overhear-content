@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 1
 SCENE = 15
 TITLE = "La réunion d'agence  (The Agency Meeting)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "mathias": "marcel", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "mathias": "Mathias", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'mathias': 'marcel', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'mathias': 'Mathias', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "Gathered in the agency conference room, Andrea and the agents hold an urgent meeting about star client Jean Dujardin's method acting crisis. As Hicham demands to know whether Jean signed his new film contract, Mathias lectures the room on how famous actors struggle to shed intense roles. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Comparing Jean Dujardin's crisis to Daniel Day-Lewis, the agency team debates how to coax their wild actor back into civilized society. When you watch the episode, listen out for the expressions meaning 'movie filming' and 'finished'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = "Comparing Jean Dujardin's crisis to Daniel Day-Lewis, the agency team debates how to coax their wild actor back into civilized society. When you watch the episode, listen out for the expressions meaning 'movie filming' and 'finished'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('lea', 'Le tournage est fini depuis deux semaines.', 'Filming wrapped two weeks ago.', [(442, 'Le tournage est fini depuis deux semaines')], ''),
     ('lea', "Et il doit enchaîner avec l'autre film!", 'And he has to jump straight into the next film!', [(443, "il doit enchaîner avec l'autre film")], ''),

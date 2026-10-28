@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 8
-TITLE = "Ramzy refuse de voir Virginie  (Ramzy Refuses to See Virginie)"
-LEVEL = "A1 — débutant"
+TITLE = 'Ramzy refuse de voir Virginie  (Ramzy Refuses to See Virginie)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "ramzy": "theo", "mathias": "marcel", "sofia": "emilie"}
-LABELS = {"ramzy": "Ramzy", "mathias": "Mathias", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'ramzy': 'theo', 'mathias': 'marcel', 'sofia': 'emilie'}
+LABELS = {'ramzy': 'Ramzy', 'mathias': 'Mathias', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Inside Mathias's office, Ramzy Bedia confronts his agent about the humiliating paparazzi photos of Virginie Efira. Feeling betrayed and demanding total loyalty, Ramzy refuses to share an agent with Virginie. Let's listen to the scene in French first."
 OPENER = "Let's examine how Ramzy confronts Mathias about his conflict of interest step by step."
 TRANSITION = "Now let's listen to the heated confrontation between Ramzy and Mathias once more."
 OUTRO = 'Ramzy has delivered an ultimatum to Mathias, forcing him to choose between representing him or Virginie. To prevent an open clash in the lobby, Mathias must quickly keep the two estranged stars apart. See you next time!'
-CLOSING = ("ramzy", "Au revoir!")
+CLOSING = ('ramzy', 'Au revoir!')
 STORY = [
     ('mathias', "Ne t'inquiète pas, personne ne nous dérangera ici. Thé ou café?", 'Do not worry, no one will bother us here. Tea or coffee?', [(171, "Ne t'inquiète pas, personne ne nous dérangera ici."), (173, '-Tu étais au courant ? -Thé ou café ?')], ''),
     ('ramzy', "Tu étais au courant? Elle t'a appelé à trois heures du matin.", 'Did you know? She called you at three o', [(173, '-Tu étais au courant ? -Thé ou café ?'), (174, "Elle t'a appelé à 3h09 du matin.")], ''),

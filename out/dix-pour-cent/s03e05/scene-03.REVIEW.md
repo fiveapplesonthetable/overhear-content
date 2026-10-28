@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | D'accord Mathias, organisons tout sur place. | Agreed Mathias, let us organize everything on site. | 50:je vais pas me battre avec toi là-dessus |
 
 ## Part 5 — Outro & Closing
-> Hicham agrees to host the milestone celebration inside the agency, touched by the company's humble beginnings. When you watch the episode, listen out for the expressions meaning 'project' and 'party'. You'll catch them now. See you next time.
+> Hicham agrees to host the milestone celebration inside the agency, touched by the company's humble beginnings. When you watch the episode, listen out for the expressions meaning 'project' and 'party'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

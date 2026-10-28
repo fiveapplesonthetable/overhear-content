@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Elle a finalement décidé de te suivre! | She has ultimately decided to follow you! | 1309:tu vas le suivre, 1312:c'est Mathias |
 
 ## Part 5 — Outro & Closing
-> Outside the gala, Camille bids an affectionate farewell to her father as Noemie runs to join his side. When you watch the episode, listen out for the expressions meaning 'knew' and 'plan'. You'll catch them now. See you next time.
+> Outside the gala, Camille bids an affectionate farewell to her father as Noemie runs to join his side. When you watch the episode, listen out for the expressions meaning 'knew' and 'plan'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne journée!*

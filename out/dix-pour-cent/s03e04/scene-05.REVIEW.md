@@ -26,5 +26,5 @@
 | 12 | `herve` (Hervé) | C'est un grand parano, ton père! | Your father is a total paranoid! | 254:C'est un grand parano, ton père. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around a family matter. When you watch the episode, listen out for the expressions meaning 'the agency' and 'second'. You'll catch them now. See you next time.
+> That's it for this scene around a family matter. When you watch the episode, listen out for the expressions meaning 'the agency' and 'second'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *À demain!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 17
-TITLE = "Sur le tapis rouge  (On the Red Carpet)"
-LEVEL = "A1 — débutant"
+TITLE = 'Sur le tapis rouge  (On the Red Carpet)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mimie": "emilie", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"mimie": "Mimie", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'mimie': 'emilie', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'mimie': 'Mimie', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = 'At the prestigious Cesar Awards red carpet, Andrea arrives only to face an unpleasant surprise. Her former talent Mimie Mathy appears alongside Elise Formain, the aggressive boss of rival agency StarMedia. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Confronted by the poaching triumph of StarMedia on the red carpet, Andrea prepares for an all-out agency war. When you watch the episode, listen out for the expressions meaning 'good evening' and 'unexpected event'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Confronted by the poaching triumph of StarMedia on the red carpet, Andrea prepares for an all-out agency war. When you watch the episode, listen out for the expressions meaning 'good evening' and 'unexpected event'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('lea', 'Bonsoir, Mimie! Quelle surprise de te voir!', 'Good evening, Mimie! What a surprise to see you!', [(883, 'Quelle surprise')], ''),
     ('mimie', 'Bonsoir, Andréa, je suis très heureuse.', 'Good evening, Andrea, I am very happy.', [(883, 'Oh, Andréa')], ''),

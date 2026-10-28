@@ -29,5 +29,5 @@
 | 15 | `isabelle` (Isabelle) | Au moins, nous avons vidé l'abcès ensemble. | At least, we cleared the air together. | 870:Alors tout va bien., 871:On a vidé l'abcès. |
 
 ## Part 5 — Outro & Closing
-> Camille's honest confession resolves the bitter grievance between Sacha and Isabelle, restoring goodwill. Let's review the theatrical and dispute-resolution vocabulary from this scene. Join us next time to see what happens next.
+> Camille's honest confession resolves the bitter grievance between Sacha and Isabelle, restoring goodwill. Let's review the theatrical and dispute-resolution vocabulary from this scene. See you next time!
 - **Closing**: `isabelle`: *Bonne soirée!*

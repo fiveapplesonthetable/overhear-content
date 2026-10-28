@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 17
-TITLE = "Aveux mutuels  (Mutual Confessions)"
-LEVEL = "A1 — débutant"
+TITLE = 'Aveux mutuels  (Mutual Confessions)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "catherine": "emilie", "mathias": "marcel"}
-LABELS = {"catherine": "Catherine", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel'}
+LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = 'In a quiet corridor at the anniversary party, Catherine and Mathias have an honest talk about their marriage. Both admit that they have fallen in love with someone else, marking a tender end to their years together. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "With quiet dignity and mutual understanding, Catherine and Mathias close one chapter and prepare for new beginnings. When you watch the episode, listen out for the expressions meaning 'hear each other' and 'come'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "With quiet dignity and mutual understanding, Catherine and Mathias close one chapter and prepare for new beginnings. When you watch the episode, listen out for the expressions meaning 'hear each other' and 'come'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('catherine', "On ne s'entend pas du tout ici.", 'We cannot hear each other at all here.', [], ''),
     ('mathias', 'Viens, allons dans mon bureau tranquille.', 'Come, let us go into my quiet office.', [(903, 'Viens')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 11
-TITLE = "Le nouveau talent brut  (The Raw New Talent)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le nouveau talent brut  (The Raw New Talent)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "directeur": "theo", "camille": "emilie"}
-LABELS = {"directeur": "Le directeur", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'directeur': 'theo', 'camille': 'emilie'}
+LABELS = {'directeur': 'Le directeur', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = 'At the audition studio, the casting director is astonished by the raw power of young actor Samy. Junior agent Camille Valentini steps forward to claim credit, proudly declaring that she represents this sensational new talent. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Stepping boldly into the spotlight, Camille Valentini signs an explosive young talent and establishes herself as a force at the agency. When you watch the episode, listen out for the expressions meaning 'remarkable sensation' and 'am coming'. You'll catch them now. See you next time."
-CLOSING = ("camille", "À demain!")
+OUTRO = "Stepping boldly into the spotlight, Camille Valentini signs an explosive young talent and establishes herself as a force at the agency. When you watch the episode, listen out for the expressions meaning 'remarkable sensation' and 'am coming'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'À demain!')
 STORY = [
     ('directeur', "Mais c'est qui ce phénomène?", 'Who is this character, anyway?', [(433, 'ce phénomène')], ''),
     ('camille', 'Justement, je viens vous expliquer!', 'That is exactly what I came to explain!', [(434, 'je vous explique')], ''),

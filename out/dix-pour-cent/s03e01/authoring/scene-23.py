@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 1
 SCENE = 23
 TITLE = "Le réconfort d'Andréa  (Andréa's Comfort)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "lea": "lucie"}
-LABELS = {"jean": "Jean", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'lea': 'lucie'}
+LABELS = {'jean': 'Jean', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "Following his bizarre breakdown on the movie set, Jean Dujardin feels deep remorse about costing ASK a major commission. But Andrea arrives with empathy and understanding to comfort her star client. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andrea and Jean reconcile step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around andrea's comfort. When you watch the episode, listen out for the expressions meaning 'caused' and 'troubles'. You'll catch them now. See you next time."
-CLOSING = ("jean", "À demain!")
+OUTRO = "That's it for this scene around andrea's comfort. When you watch the episode, listen out for the expressions meaning 'caused' and 'troubles'. You'll catch them now. See you next time!"
+CLOSING = ('jean', 'À demain!')
 STORY = [
     ('jean', "Je t'ai causé beaucoup d'ennuis.", 'I caused you a lot of trouble.', [(987, "Je t'ai mis dans une merde noire, hein.")], ''),
     ('lea', 'Tu as surtout mordu ce chien!', 'You mostly bit that dog!', [(989, 'mordu le chien')], ''),

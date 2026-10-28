@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 21
-TITLE = "Un jeune talent prometteur  (A Promising Young Talent)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un jeune talent prometteur  (A Promising Young Talent)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "brian": "theo", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "brian": "Brian", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'brian': 'theo', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'brian': 'Brian', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "At the ASK agency, Camille meets with promising young actor Brian Valles to discuss potential representation. When senior partner Mathias walks in talking about director Jacques Audiard, Brian's interest is piqued. Let's listen to the scene in French first."
 OPENER = "Let's examine how Camille conducts her meeting with Brian step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around a promising young talent. When you watch the episode, listen out for the expressions meaning 'welcome' and 'office'. You'll catch them now. See you next time."
-CLOSING = ("camille", "À bientôt!")
+OUTRO = "That's it for this scene around a promising young talent. When you watch the episode, listen out for the expressions meaning 'welcome' and 'office'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'À bientôt!')
 STORY = [
     ('camille', 'Bonjour Brian, bienvenue dans mon bureau.', 'Hello Brian, welcome to my office.', [(700, 'Bonjour, Brian.'), (706, 'dans mon bureau.')], ''),
     ('brian', "Merci Camille, c'est un bel endroit.", 'Thank you Camille, it is a nice place.', [(707, 'Beau bureau.'), (708, 'Merci.')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 7
-TITLE = "Erreur de casting  (Casting Mistake)"
-LEVEL = "A1 — débutant"
+TITLE = 'Erreur de casting  (Casting Mistake)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At the ASK agency, Gabriel suddenly realizes he made a catastrophic blunder with the casting names. He rushes to Andrea to explain that he reached Mathias's voicemail after confusing two candidates. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Gabriel rushes off after alerting Andrea about the casting catastrophe. When you watch the episode, listen out for the expressions meaning 'problem' and 'casting'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Gabriel rushes off after alerting Andrea about the casting catastrophe. When you watch the episode, listen out for the expressions meaning 'problem' and 'casting'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Andréa, on a un gros problème avec le casting.', 'Andrea, we have a big problem with the casting.', [(367, 'Le casting.')], ''),
     ('lea', "Qu'est-ce qui se passe avec le film?", 'What is going on with the film?', [(367, 'Le casting.')], ''),

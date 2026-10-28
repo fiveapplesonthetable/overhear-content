@@ -31,5 +31,5 @@
 | 17 | `lea` (Andréa) | Réservez-moi un massage, s'il vous plaît. | Book me a massage, please. | 359:Réservez-moi un massage, s'il vous plaît |
 
 ## Part 5 — Outro & Closing
-> A rough morning for Andréa, but you came through it fine. Next time you hear someone say they've been doing something for years, listen for that present tense. Until next time.
+> A rough morning for Andréa, but you came through it fine. See you next time!
 - **Closing**: `lea`: *Bon courage!*

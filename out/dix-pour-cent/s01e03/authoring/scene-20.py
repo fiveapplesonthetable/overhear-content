@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 20
-TITLE = "Je veux être agent  (I Want to Be an Agent)"
-LEVEL = "A1 — débutant"
+TITLE = 'Je veux être agent  (I Want to Be an Agent)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel", "dominique": "theo"}
-LABELS = {"camille": "Camille", "mathias": "Mathias", "dominique": "Dominique"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel', 'dominique': 'theo'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias', 'dominique': 'Dominique'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Now Camille is at the ceremony reception, among the gold lights and the champagne, and Mathias has a surprise for her: he wants her to meet a famous producer. The next morning, though, Camille will have something to say about it. First, the whole thing in French; don't worry if it goes by fast."
 OPENER = "Let's go through it slowly. At the reception, Mathias sends Camille off on a little errand."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's all for this scene. When you watch it, listen for the moment Camille says what she really wants to be; Mathias does not see it coming. See you next time."
-CLOSING = ("camille", "À demain!")
+OUTRO = "That's all for this scene. When you watch it, listen for the moment Camille says what she really wants to be; Mathias does not see it coming. See you next time!"
+CLOSING = ('camille', 'À demain!')
 STORY = [
     ('mathias', 'Va chercher du champagne au bar.', 'Go and get some champagne at the bar.', [(516, 'Va chercher du champagne au bar')], ''),
     ('camille', "D'accord. À tout à l'heure.", 'Okay. See you in a bit.', [(517, "D'accord"), (519, "À tout à l'heure")], ''),

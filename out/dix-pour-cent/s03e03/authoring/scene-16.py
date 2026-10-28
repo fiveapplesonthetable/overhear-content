@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 16
 TITLE = "Le casting de Samy  (Samy's Casting)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "After a tense screen test with Gerard Lanvin, young actor Samy panics and fails to impress the production team. While Camille fights passionately to protect her new client, Mathias insists on cutting losses to preserve the film. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Caught between loyalty to a promising young talent and the harsh realities of film production, Camille delivers tough news to Samy. When you watch the episode, listen out for the expressions meaning 'messed up' and 'tests'. You'll catch them now. See you next time."
-CLOSING = ("camille", "À demain!")
+OUTRO = "Caught between loyalty to a promising young talent and the harsh realities of film production, Camille delivers tough news to Samy. When you watch the episode, listen out for the expressions meaning 'messed up' and 'tests'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'À demain!')
 STORY = [
     ('mathias', 'Samy a complètement raté ses essais.', 'Samy completely failed his screen tests.', [(986, "il s'est complètement crashé")], ''),
     ('camille', 'Il a juste eu le trac!', 'He just had stage fright!', [(985, 'le traque')], ''),

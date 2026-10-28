@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 9
-TITLE = "Quelque chose de fort  (Something Powerful)"
-LEVEL = "A1 — débutant"
+TITLE = 'Quelque chose de fort  (Something Powerful)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "line": "emilie", "gabriel": "theo"}
-LABELS = {"line": "Line", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'line': 'emilie', 'gabriel': 'theo'}
+LABELS = {'line': 'Line', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Now Line tells Gabriel what she wants, and Gabriel, who never likes to disappoint anyone, starts to improvise. Here it is in French first. Let the music of it carry you; the details come afterwards. Let's listen to the scene in French first."
 OPENER = "Let's take it line by line. Line starts with a warm word about her old friend Samuel."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the end of lunch, and the start of a lot of trouble for Gabriel. Listen for the casual and the polite 'you' going in opposite directions when you watch. See you next time."
-CLOSING = ("line", "Au revoir, Gabriel!")
+OUTRO = "That's the end of lunch, and the start of a lot of trouble for Gabriel. Listen for the casual and the polite 'you' going in opposite directions when you watch. See you next time!"
+CLOSING = ('line', 'Au revoir, Gabriel!')
 STORY = [
     ('line', 'Samuel était un excellent agent.', 'Samuel was an excellent agent.', [(263, 'Samuel était un excellent agent')], ''),
     ('line', 'Mais les grands rôles sont rares pour une femme de mon âge.', 'But big parts are rare for a woman my age.', [(264, 'pour une femme de mon âge')], ''),

@@ -29,5 +29,5 @@
 | 15 | `mathias` (Mathias) | Mieux vaut tard que jamais. | Better late than never. | 422:Mieux vaut tard que jamais |
 
 ## Part 5 — Outro & Closing
-> Mathias and Annick attempt to bridge eight years of distance over coffee and wine, under the watchful gaze of their daughter Camille. Listen to the French conversation one more time. Join us next time to see what happens next.
+> Mathias and Annick attempt to bridge eight years of distance over coffee and wine, under the watchful gaze of their daughter Camille. Listen to the French conversation one more time. See you next time!
 - **Closing**: `annick`: *Au revoir!*

@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | D'accord, mais juste une seule fois alors. | Okay, but just once then. | 407:On est chaud là non ? |
 
 ## Part 5 — Outro & Closing
-> Camille and Valentin sit down to rehearse, turning Mathias's private domain into an improvised rehearsal stage. When you watch the episode, listen out for the expressions meaning 'are doing' and 'love'. You'll catch them now. See you next time.
+> Camille and Valentin sit down to rehearse, turning Mathias's private domain into an improvised rehearsal stage. When you watch the episode, listen out for the expressions meaning 'are doing' and 'love'. You'll catch them now. See you next time!
 - **Closing**: `valentin`: *À bientôt!*

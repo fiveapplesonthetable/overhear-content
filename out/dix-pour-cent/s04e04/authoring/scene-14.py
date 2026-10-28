@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 14
-TITLE = "Une étoile montante  (A Rising Star)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une étoile montante  (A Rising Star)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "vero": "emilie", "herve": "marcel"}
-LABELS = {"vero": "Véro", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'vero': 'emilie', 'herve': 'marcel'}
+LABELS = {'vero': 'Véro', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "In his dressing room after an emotional day of filming, Herve chats with makeup artist Vero. Impressed by his natural acting talent, Vero shares an exciting rumor she overheard from the film director. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Thrilled by Vero's secret news, Herve gazes into the dressing room mirror like a true cinema star. When you watch the episode, listen out for the expressions meaning 'busy' and 'ready'. You'll catch them now. See you next time."
-CLOSING = ("vero", "À demain!")
+OUTRO = "Thrilled by Vero's secret news, Herve gazes into the dressing room mirror like a true cinema star. When you watch the episode, listen out for the expressions meaning 'busy' and 'ready'. You'll catch them now. See you next time!"
+CLOSING = ('vero', 'À demain!')
 STORY = [
     ('vero', "Hervé, je suis très occupée aujourd'hui.", 'Herve, I am very busy today.', [(939, 'Hervé'), (940, 'Je suis débordée')], ''),
     ('vero', 'Tout est prêt dans ta loge.', 'Everything is ready in your dressing room.', [(941, 'Tout est dans ta loge')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 16
-TITLE = "Trêve entre Gabriel et Mathias  (Truce Between Gabriel and Mathias)"
-LEVEL = "A1 — débutant"
+TITLE = 'Trêve entre Gabriel et Mathias  (Truce Between Gabriel and Mathias)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "mathias": "marcel", "camille": "emilie"}
-LABELS = {"gabriel": "Gabriel", "mathias": "Mathias", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'mathias': 'marcel', 'camille': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Overwhelmed by Virginie Efira's depression, Gabriel goes to Mathias's office to hand her back. Instead of another bitter argument, the two rival agents reach a humorous truce about relationships and life. Let's listen to the scene in French first."
 OPENER = 'Gabriel and Mathias find common ground. Let us examine the lines with English notes.'
 TRANSITION = 'Now listen to the conversation once more without interruption.'
-OUTRO = 'The unexpected moment of warmth between Gabriel and Mathias seals their alliance to protect the agency. Soon after, dark clouds gather as rival agent François Bréhier approaches Arlette on the street. Until next time.'
-CLOSING = ("camille", "Bonne journée!")
+OUTRO = 'The unexpected moment of warmth between Gabriel and Mathias seals their alliance to protect the agency. Soon after, dark clouds gather as rival agent François Bréhier approaches Arlette on the street. See you next time!'
+CLOSING = ('camille', 'Bonne journée!')
 STORY = [
     ('camille', 'Gabriel, Mathias est dans son bureau.', 'Gabriel, Mathias is in his office.', [], ''),
     ('gabriel', 'Mathias, je peux vous dire un mot?', 'Mathias, can I have a word with you?', [(436, 'Je peux vous dire un mot')], ''),

@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Oui, nous allons percer ensemble. | Yes, we are going to break through together. | 1301:Percez. |
 
 ## Part 5 — Outro & Closing
-> The ancient wisdom of the I Ching strengthens Mathias's resolve to move against Hicham without delay. When you watch the episode, listen out for the expressions meaning 'brilliant' and 'sign'. You'll catch them now. See you next time.
+> The ancient wisdom of the I Ching strengthens Mathias's resolve to move against Hicham without delay. When you watch the episode, listen out for the expressions meaning 'brilliant' and 'sign'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

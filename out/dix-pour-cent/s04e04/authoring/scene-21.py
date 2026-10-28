@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 21
-TITLE = "Confidences au bar  (Confidences at the Bar)"
-LEVEL = "A1 — débutant"
+TITLE = 'Confidences au bar  (Confidences at the Bar)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elise": "emilie", "lea": "lucie"}
-LABELS = {"elise": "Élise", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'elise': 'emilie', 'lea': 'lucie'}
+LABELS = {'elise': 'Élise', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "In a relaxed Parisian lounge bar, Andrea and rival agent Elise unwind over cocktails after a grueling week of work. Letting their professional guard down, the two women trade hilarious confidential anecdotes about their most eccentric clients. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Andrea and Elise raise their glasses in laughter, united in friendship against the daily chaos of show business. When you watch the episode, listen out for the expressions meaning 'nanny' and 'fabulous'. You'll catch them now. See you next time."
-CLOSING = ("elise", "Bonne journée!")
+OUTRO = "Andrea and Elise raise their glasses in laughter, united in friendship against the daily chaos of show business. When you watch the episode, listen out for the expressions meaning 'nanny' and 'fabulous'. You'll catch them now. See you next time!"
+CLOSING = ('elise', 'Bonne journée!')
 STORY = [
     ('lea', 'Ma nounou Patsy est vraiment fabuleuse.', 'My nanny Patsy is really fabulous.', [(1150, 'Patsy est fabuleuse !')], ''),
     ('elise', 'Buvons un autre verre toutes les deux.', 'Let us drink another glass, both of us.', [(1156, 'On en prend un autre ?')], ''),

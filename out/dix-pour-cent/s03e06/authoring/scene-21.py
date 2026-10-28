@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 21
-TITLE = "Le double artistique  (The Artistic Double)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le double artistique  (The Artistic Double)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "At the ASK anniversary party, Andrea and Gabriel face furious questions about Isabelle Huppert's secret schedule. To defuse the accusations, Andrea and Gabriel explain that director Cedric Kahn hired an artistic double to create a poetic ghost. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Armed with an artistic explanation, Andrea and Gabriel head toward the screening room to convince the American producers. When you watch the episode, listen out for the expressions meaning 'producers' and 'American'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "Armed with an artistic explanation, Andrea and Gabriel head toward the screening room to convince the American producers. When you watch the episode, listen out for the expressions meaning 'producers' and 'American'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('gabriel', 'Les producteurs américains posent des questions.', 'The American producers are asking questions.', [(1018, 'de quoi vous nous accusiez')], ''),
     ('lea', "Ils pensent qu'Isabelle a triché?", 'Do they think that Isabelle cheated?', [(1020, 'Isabelle Huppert ne pouvait pas tourner')], ''),

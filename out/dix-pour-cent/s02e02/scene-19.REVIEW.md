@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | Oui, je crois. À tout à l'heure! | Yes, I think so. See you shortly! | 691:Oui, je crois, 692:À tout à l'heure |
 
 ## Part 5 — Outro & Closing
-> Sofia has chosen Mathias as her new agent, creating a clear professional boundary while keeping Gabriel's love. Remember the key expression for having someone in mind: avoir quelqu'un en tête. Until next time.
+> Sofia has chosen Mathias as her new agent, creating a clear professional boundary while keeping Gabriel's love. Remember the key expression for having someone in mind: avoir quelqu'un en tête. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

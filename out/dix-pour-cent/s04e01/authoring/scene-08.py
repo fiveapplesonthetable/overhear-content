@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 1
 SCENE = 8
 TITLE = "La clé de l'agence  (The Agency Key)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "As Mathias steps into the elevator with his personal belongings, Gabriel and Andrea intercept him. They ask for his agency key before the doors slide shut, marking his final separation from ASK. Let's listen to their conversation in French first."
 OPENER = "Let's explore Gabriel, Andrea, and Mathias's elevator encounter line by line."
 TRANSITION = "Now let's listen to the elevator exchange once more from start to finish."
-OUTRO = "That's it for this scene around the agency key. When you watch the episode, listen out for the expressions meaning 'doors' and 'the elevator'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "That's it for this scene around the agency key. When you watch the episode, listen out for the expressions meaning 'doors' and 'the elevator'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('mathias', "Les portes de l'ascenseur se ferment enfin.", 'The elevator doors are finally closing.', [(506, 'Fermeture des portes.'), (507, 'Fermeture des portes.')], ''),
     ('lea', 'Attends Mathias, retiens la porte une seconde!', 'Wait Mathias, hold the door for a second!', [(508, 'Je suis désolé, Mathias.')], ''),

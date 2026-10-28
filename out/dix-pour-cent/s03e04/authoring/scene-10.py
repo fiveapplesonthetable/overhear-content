@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 10
-TITLE = "Détour pour la radio  (Detour for the Radio)"
-LEVEL = "A1 — débutant"
+TITLE = 'Détour pour la radio  (Detour for the Radio)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "mathias": "marcel"}
-LABELS = {"isabelle": "Isabelle", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'mathias': 'marcel'}
+LABELS = {'isabelle': 'Isabelle', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "While Mathias drives Isabelle Huppert across Paris to her night shoot, an unexpected call throws their schedule into chaos. Laure Adler is waiting for a live radio broadcast that Isabelle completely forgot. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Mathias discovers that managing Isabelle Huppert means coping with whirlwind artistic detours at any moment. When you watch the episode, listen out for the expressions meaning 'fine' and 'solidarity'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À demain!")
+OUTRO = "Mathias discovers that managing Isabelle Huppert means coping with whirlwind artistic detours at any moment. When you watch the episode, listen out for the expressions meaning 'fine' and 'solidarity'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À demain!')
 STORY = [
     ('isabelle', "C'est très beau, cette solidarité entre agents.", 'That is very nice, this solidarity between agents.', [(672, 'drôlement beau, cette solidarité entre agents')], ''),
     ('mathias', 'Vous conduire me fait vraiment plaisir, Isabelle.', 'Driving you gives me real pleasure, Isabelle.', [(674, 'Ça me fait plaisir')], ''),

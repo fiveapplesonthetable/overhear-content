@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 9
 TITLE = "La fuite de Béatrice  (Béatrice's Escape)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "arlette": "emilie"}
-LABELS = {"lea": "Andréa", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'arlette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "Outside the agency, Arlette rushes to Andrea with alarming news from the film set. Beatrice Dalle has walked out on director Pascal after a deceitful nude scene demand. Let's listen to their conversation in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Andrea breathes a sigh of relief as Beatrice finally reaches out by phone. When you watch the episode, listen out for the expressions meaning 'just' and 'call'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Andrea breathes a sigh of relief as Beatrice finally reaches out by phone. When you watch the episode, listen out for the expressions meaning 'just' and 'call'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('arlette', "Andréa, Pascal vient de m'appeler.", 'Andrea, Pascal just called me.', [(306, "Pascal m'a appelé")], ''),
     ('arlette', 'Béatrice est partie du tournage en colère.', 'Beatrice left the shoot in anger.', [(307, 'Béatrice est barrée du tournage')], ''),

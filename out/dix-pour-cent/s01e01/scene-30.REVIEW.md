@@ -31,5 +31,5 @@
 | 17 | `mathias` (Mathias) | Elle peut se remettre en selle. À bientôt! | She can get back in the saddle. Talk soon! | 802:Elle peut se remettre en selle, 803:À bientôt |
 
 ## Part 5 — Outro & Closing
-> That's the end of this scene, and you followed a real grown-up negotiation in French. Next time you watch it, listen for the little 'not' that wraps around the verb, and you'll hear it everywhere. Until next time.
+> That's the end of this scene, and you followed a real grown-up negotiation in French. See you next time!
 - **Closing**: `cecile`: *Au revoir, Mathias!*

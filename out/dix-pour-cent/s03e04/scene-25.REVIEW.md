@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Merci pour ta confiance, chère Noémie. | Thank you for your trust, dear Noemie. | 1302:coursier |
 
 ## Part 5 — Outro & Closing
-> The courier is dispatched into the Parisian night with the crucial documents that will seal ASK's destiny. When you watch the episode, listen out for the expressions meaning 'file' and 'secret'. You'll catch them now. See you next time.
+> The courier is dispatched into the Parisian night with the crucial documents that will seal ASK's destiny. When you watch the episode, listen out for the expressions meaning 'file' and 'secret'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À demain!*

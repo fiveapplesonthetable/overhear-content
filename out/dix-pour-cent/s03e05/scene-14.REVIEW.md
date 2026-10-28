@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Nous défendrons notre actrice jusqu'au bout! | We will defend our actress all the way! | 505:pas envie d'en arriver là |
 
 ## Part 5 — Outro & Closing
-> Andrea Martel stands up courageously against artistic manipulation and legal intimidation. When you watch the episode, listen out for the expressions meaning 'acting contract' and 'signed'. You'll catch them now. See you next time.
+> Andrea Martel stands up courageously against artistic manipulation and legal intimidation. When you watch the episode, listen out for the expressions meaning 'acting contract' and 'signed'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À demain!*

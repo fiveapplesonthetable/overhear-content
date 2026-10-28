@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 4
 SCENE = 3
 TITLE = "Matinée à l'agence  (Morning at the Agency)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "The morning after a long night out in Paris, Gabriel arrives at the ASK agency looking visibly worn out. Andrea notices his weary appearance and inquires about his meeting with Sandrine Kiberlain, only to learn that the star actress has developed unexpected second thoughts about her next major film role. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea and Gabriel's morning discussion line by line."
 TRANSITION = "Now let's listen to Andrea and Gabriel's conversation once more from start to finish."
-OUTRO = "That's it for this scene around morning at the agency. When you watch the episode, listen out for the expressions meaning 'look' and 'returned'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "That's it for this scene around morning at the agency. When you watch the episode, listen out for the expressions meaning 'look' and 'returned'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Bonjour Gabriel, tu as bonne mine!', 'Hello Gabriel, you look well!', [(93, 'Bonjour.')], ''),
     ('gabriel', 'Bonjour Andréa, je suis rentré tard.', 'Hello Andrea, I got home late.', [(93, 'Bonjour.')], ''),

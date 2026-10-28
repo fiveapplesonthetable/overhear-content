@@ -30,5 +30,5 @@
 | 16 | `arlette` (Arlette) | Allez, Gabriel! Ne restez pas là à ne rien faire! | Come on, Gabriel! Don | 847:à ne rien faire |
 
 ## Part 5 — Outro & Closing
-> Well done, that was a quick and witty exchange. Listen for the 'not anymore' and the 'nothing' when you watch, and See you next time!
+> Well done, that was a quick and witty exchange. Listen for the 'not anymore' and the 'nothing' when you watch. See you next time!
 - **Closing**: `arlette`: *Bonne journée!*

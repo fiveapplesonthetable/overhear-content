@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 13
-TITLE = "Déjeuner sur le bateau  (Lunch on the Boat)"
-LEVEL = "A1 — débutant"
+TITLE = 'Déjeuner sur le bateau  (Lunch on the Boat)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gillieres": "theo", "juliette": "emilie"}
-LABELS = {"lea": "Andréa", "gillieres": "Jean-Denis", "juliette": "Juliette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gillieres': 'theo', 'juliette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'gillieres': 'Jean-Denis', 'juliette': 'Juliette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = 'At the Cannes luxury hotel, powerful media mogul Jean-Denis Gillières corners Andréa, insisting on meeting with Juliette Binoche. Learning that Juliette despises his advances, Andréa cleverly arranges a business lunch on his private yacht for a day when Juliette will have already left town. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = "By agreeing to a yacht lunch after Juliette's departure, Andréa protects her star client while politely humoring the wealthy mogul. Join us next time to see what happens next."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "By agreeing to a yacht lunch after Juliette's departure, Andréa protects her star client while politely humoring the wealthy mogul. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Juliette, je suis avec Jean-Denis Gillières.', 'Juliette, I am with Jean-Denis Gillières.', [(288, 'je suis avec Jean-Denis Gillières')], ''),
     ('lea', 'Il veut te voir tout de suite.', 'He wants to see you right away.', [(289, 'Il veut te voir')], ''),

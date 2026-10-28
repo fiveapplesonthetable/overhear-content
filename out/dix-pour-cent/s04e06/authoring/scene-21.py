@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 6
 SCENE = 21
 TITLE = "Le visage de Gabriel  (Gabriel's Face)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In the quiet hallway of ASK, Andrea Martel confronts Gabriel Sarda about his behind-the-scenes deal with rival agent Elise Formain. Pushing back against Andrea's accusations, Gabriel passionately defends his choices as the agency faces inevitable dissolution. Let's listen to their confrontation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "In the fading halls of ASK, Gabriel and Andrea lay bare their fears and loyalty to one another. When you watch the episode, listen out for the expressions meaning 'to have' and 'to do'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "In the fading halls of ASK, Gabriel and Andrea lay bare their fears and loyalty to one another. When you watch the episode, listen out for the expressions meaning 'to have' and 'to do'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Pourquoi tu as fait ça, Gabriel?', 'Why did you do that, Gabriel?', [(886, 'Pourquoi tu as fait ça, Gabriel ?')], ''),
     ('gabriel', 'De quoi tu parles exactement?', 'What are you talking about exactly?', [(887, "Qu'est-ce que j'ai fait ?")], ''),

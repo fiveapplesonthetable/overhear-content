@@ -28,5 +28,5 @@
 | 14 | `samir` (Samir) | Appelez leurs agents maintenant! | Call their agents right now! | 22:Appelez leurs agents maintenant ! |
 
 ## Part 5 — Outro & Closing
-> Julie Gayet and JoeyStarr have locked themselves in their trailers, five days behind schedule, and the producer is picking up the phone to summon their agents Andréa and Gabriel to the country set. See you next time.
+> Julie Gayet and JoeyStarr have locked themselves in their trailers, five days behind schedule, and the producer is picking up the phone to summon their agents Andréa and Gabriel to the country set. See you next time!
 - **Closing**: `joey`: *À demain!*

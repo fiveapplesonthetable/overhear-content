@@ -27,5 +27,5 @@
 | 13 | `hicham` (Hicham) | Finalement, personne ne veut sauter dans l'inconnu. | Ultimately, nobody wants to jump into the unknown. | 1025:envie de sauter |
 
 ## Part 5 — Outro & Closing
-> In a relaxed Parisian bar, Andrea and Hicham realize that staying together at ASK matters more than jumping into the void. When you watch the episode, listen out for the expressions meaning 'left' and 'alone'. You'll catch them now. See you next time.
+> In a relaxed Parisian bar, Andrea and Hicham realize that staying together at ASK matters more than jumping into the void. When you watch the episode, listen out for the expressions meaning 'left' and 'alone'. You'll catch them now. See you next time!
 - **Closing**: `hicham`: *À demain!*

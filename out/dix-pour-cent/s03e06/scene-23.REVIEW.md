@@ -27,5 +27,5 @@
 | 13 | `hicham` (Hicham) | Je suis maintenant prêt pour la scène. | I am now ready for the stage. | 1220:Ça va être à vous |
 
 ## Part 5 — Outro & Closing
-> In the wings of the grand anniversary hall, Camille steadies Hicham before he steps into the spotlight. When you watch the episode, listen out for the expressions meaning 'world' and 'waits for'. You'll catch them now. See you next time.
+> In the wings of the grand anniversary hall, Camille steadies Hicham before he steps into the spotlight. When you watch the episode, listen out for the expressions meaning 'world' and 'waits for'. You'll catch them now. See you next time!
 - **Closing**: `hicham`: *À demain!*

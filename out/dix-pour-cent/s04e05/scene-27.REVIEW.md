@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Merci pour ton amour si précieux. | Thank you for your precious love. | 922:c'est bien |
 
 ## Part 5 — Outro & Closing
-> Strolling along the Seine after Mathias's hospital release, father and daughter celebrate their reconciled bond, leaving behind old conflicts to embark on a peaceful and honest future together. When you watch the episode, listen out for the expressions meaning 'look at' and 'beautiful'. You'll catch them now. See you next time.
+> Strolling along the Seine after Mathias's hospital release, father and daughter celebrate their reconciled bond, leaving behind old conflicts to embark on a peaceful and honest future together. When you watch the episode, listen out for the expressions meaning 'look at' and 'beautiful'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

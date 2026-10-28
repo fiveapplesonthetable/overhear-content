@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 5
 SCENE = 30
 TITLE = "J'ai quelque chose à te dire  (I Have Something to Tell You)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie", "hippolyte": "theo"}
-LABELS = {"mathias": "Mathias", "camille": "Camille", "hippolyte": "Hippolyte"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie', 'hippolyte': 'theo'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille', 'hippolyte': 'Hippolyte'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = 'Late at night at the agency, Camille is getting ready to go home when Mathias knocks on her office door. All day long, Camille thought her father had forgotten her twenty-third birthday — and meanwhile, across town, Catherine and Hippolyte are waiting for Mathias outside the opera house, unable to reach him on his phone. Listen to the French first, without worrying about catching every word.'
 OPENER = "Let's walk through the final scene of the episode line by line. Mathias steps into Andréa's office, where Camille is still working."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = "Mathias's secret is finally out in the open, setting up an explosive season finale. That concludes Episode 5 of Dix pour cent — see you in Episode 6, where François Berléand takes the stage."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "Mathias's secret is finally out in the open, setting up an explosive season finale. That concludes Episode 5 of Dix pour cent. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('mathias', "Vous avez une minute? J'ai oublié quelque chose.", 'Do you have a minute? I forgot something.', [(698, 'Vous avez une minute'), (698, "J'ai oublié quelque chose")], ''),
     ('camille', 'Quoi, ici, dans ce bureau?', 'What, here, in this office?', [(699, 'Quoi, ici, dans ce bureau')], ''),

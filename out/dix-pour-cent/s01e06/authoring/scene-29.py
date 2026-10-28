@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 29
 TITLE = "Le baiser d'adieu  (The Farewell Kiss)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = 'Andréa has just sprinted out of the ASK conference room and down to the street to catch Colette Brancillon before she leaves forever, while Gabriel, Arlette, and the assistants watch from the upstairs balcony. Listen to the French first, without worrying about catching every word.'
 OPENER = "Let's walk through the scene line by line. Out on the pavement, Andréa answers Colette's accusation from the party."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = "Colette walks away in tears, leaving Andréa heartbroken on the street while the agency faces ruin. In our final scene of the season, the four agents gather after hours over a bottle of Samuel's whiskey. See you there."
-CLOSING = ("colette", "Au revoir!")
+OUTRO = 'Colette walks away in tears, leaving Andréa heartbroken on the street while the agency faces ruin. See you next time!'
+CLOSING = ('colette', 'Au revoir!')
 STORY = [
     ('lea', 'Je peux aussi te donner tout mon cœur.', 'I can also give you all my heart.', [(740, 'Je peux te donner plus que mon corps, je peux aussi te donner mon cœur')], ''),
     ('lea', 'Je sais que je ne suis pas très douée.', 'I know that I', [(741, 'Je sais que'), (741, 'pas très doué')], ''),

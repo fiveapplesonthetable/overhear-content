@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 22
 TITLE = "L'accord de Béatrice  (Béatrice's Agreement)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "pascal": "theo", "beatrice": "emilie"}
-LABELS = {"pascal": "Pascal", "beatrice": "Béatrice"}
+VOICES = {'narrator': 'sky', 'pascal': 'theo', 'beatrice': 'emilie'}
+LABELS = {'pascal': 'Pascal', 'beatrice': 'Béatrice'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "On the film set, Beatrice Dalle confronts director Pascal over the shutdown caused by her refusal to shoot a nude scene. Pascal admits he panicked out of creative anxiety, and proposes an alternative where the character gently bites her ear, which Beatrice adores. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Transforming an impasse into a creative breakthrough, Beatrice Dalle and Pascal find artistic harmony without compromise. When you watch the episode, listen out for the expressions meaning 'stalemate' and 'makes'. You'll catch them now. See you next time."
-CLOSING = ("beatrice", "À bientôt!")
+OUTRO = "Transforming an impasse into a creative breakthrough, Beatrice Dalle and Pascal find artistic harmony without compromise. When you watch the episode, listen out for the expressions meaning 'stalemate' and 'makes'. You'll catch them now. See you next time!"
+CLOSING = ('beatrice', 'À bientôt!')
 STORY = [
     ('pascal', 'Ce blocage me rend complètement fou!', 'This stalemate makes me completely crazy!', [(835, 'rend dingue')], ''),
     ('beatrice', 'Je refuse cette scène de nudité.', 'I refuse this nude scene.', [(853, 'scène nue')], ''),

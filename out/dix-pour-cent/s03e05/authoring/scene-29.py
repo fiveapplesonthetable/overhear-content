@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 29
 TITLE = "L'erreur fatale de Gabriel  (Gabriel's Fatal Mistake)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "In the open office area of ASK, Gabriel checks his mobile phone and turns pale with terror. He realizes he left his secret voice message on Hicham's voicemail instead of their lawyer's, sparking an explosive agency confrontation. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Hicham storms out of ASK in fury, leaving Andrea and Gabriel facing the wreckage of their botched scheme. When you watch the episode, listen out for the expressions meaning 'like' and 'tone of voice'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À demain!")
+OUTRO = "Hicham storms out of ASK in fury, leaving Andrea and Gabriel facing the wreckage of their botched scheme. When you watch the episode, listen out for the expressions meaning 'like' and 'tone of voice'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('gabriel', "Je n'aime pas ce ton.", 'I do not like that tone.', [(1095, 'pas du tout ce ton')], ''),
     ('gabriel', "C'est une catastrophe totale!", 'It is a complete catastrophe!', [(1100, 'merde absolue')], ''),

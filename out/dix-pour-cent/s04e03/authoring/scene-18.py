@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 3
 SCENE = 18
-TITLE = "Trop tard pour un père  (Too Late for a Father)"
-LEVEL = "A1 — débutant"
+TITLE = 'Trop tard pour un père  (Too Late for a Father)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "suzanne": "emilie", "lea": "lucie"}
-LABELS = {"suzanne": "Suzanne", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'suzanne': 'emilie', 'lea': 'lucie'}
+LABELS = {'suzanne': 'Suzanne', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "On a late-night phone call, Camille confides in her mother Suzanne about her overwhelming workload and the unexpected paternity papers sent by Mathias Barneville. Suzanne reacts with fiery indignation, reminding Camille who truly raised her for twenty-seven years. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Camille hangs up the phone, deeply moved by her mother's devotion and reassured about her own path. When you watch the episode, listen out for the expressions meaning 'work' and 'moment'. You'll catch them now. See you next time."
-CLOSING = ("suzanne", "À bientôt!")
+OUTRO = "Camille hangs up the phone, deeply moved by her mother's devotion and reassured about her own path. When you watch the episode, listen out for the expressions meaning 'work' and 'moment'. You'll catch them now. See you next time!"
+CLOSING = ('suzanne', 'À bientôt!')
 STORY = [
     ('lea', "J'ai beaucoup de travail en ce moment.", 'I have a lot of work right now.', [(853, 'Je devrais peut-être faire'), (856, "C'est beaucoup de travail")], ''),
     ('suzanne', 'Tu dois aussi penser à toi.', 'You must also think of yourself.', [(858, 'penser à toi')], ''),

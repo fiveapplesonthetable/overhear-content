@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Attends, je vais tout te raconter. | Wait, I will tell you everything. | 1103:Camille |
 
 ## Part 5 — Outro & Closing
-> Hoping to share the triumph of her casting audition with Gabriel, Sofia searches the deserted agency floor and presses Camille for news of his whereabouts. When you watch the episode, listen out for the expressions meaning 'seen' and 'arrive'. You'll catch them now. See you next time.
+> Hoping to share the triumph of her casting audition with Gabriel, Sofia searches the deserted agency floor and presses Camille for news of his whereabouts. When you watch the episode, listen out for the expressions meaning 'seen' and 'arrive'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *À bientôt!*

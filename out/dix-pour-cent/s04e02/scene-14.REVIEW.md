@@ -27,5 +27,5 @@
 | 13 | `franck` (Franck) | C'était son orthophoniste, pas un dealer. | It was his speech therapist, not a dealer. | 828:C'était son orthophoniste |
 
 ## Part 5 — Outro & Closing
-> Gabriel tries every trick to protect his client, even making baseless accusations against Dylan. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time.
+> Gabriel tries every trick to protect his client, even making baseless accusations against Dylan. When you watch the episode, listen out for the expressions meaning 'wait' and 'second'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

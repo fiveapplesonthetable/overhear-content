@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 4
 SCENE = 23
 TITLE = "Le secret d'Isabelle Huppert  (Isabelle Huppert's Secret)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "gabriel": "theo"}
-LABELS = {"isabelle": "Isabelle", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'gabriel': 'theo'}
+LABELS = {'isabelle': 'Isabelle', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At Isabelle Huppert's Parisian apartment, Gabriel drops by to ensure his exhausted star actress is finally resting. Instead of relaxing in bed, Isabelle confesses that she is secretly filming an experimental indie project in her living room. Let's listen to their conversation in French first."
 OPENER = "Let's explore the dialogue line by line and examine the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to consolidate the expressions."
-OUTRO = "Gabriel realizes that no contract or doctor's order can ever keep Isabelle away from the camera. When you watch the episode, listen out for the expressions meaning 'blame' and 'insurance'. You'll catch them now. See you next time."
-CLOSING = ("isabelle", "À bientôt!")
+OUTRO = "Gabriel realizes that no contract or doctor's order can ever keep Isabelle away from the camera. When you watch the episode, listen out for the expressions meaning 'blame' and 'insurance'. You'll catch them now. See you next time!"
+CLOSING = ('isabelle', 'À bientôt!')
 STORY = [
     ('gabriel', 'Comment ça va, toi?', 'How are you doing?', [(1221, 'Ça va, toi')], ''),
     ('isabelle', "Je m'en veux un peu.", 'I blame myself a little.', [(1222, "Je m'en veux.")], ''),

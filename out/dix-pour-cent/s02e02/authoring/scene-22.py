@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 2
 SCENE = 22
 TITLE = "Le cadeau d'Hicham  (Hicham's Gift)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "In his office at ASK, majority shareholder Hicham Janowski hands Andréa Martel an expensive designer dress. Eager to secure actor Fabrice Luchini, Hicham pushes Andréa to wear the outfit tonight, but she refuses to be manipulated. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
 OUTRO = "Andréa firmly puts Hicham in his place while keeping her focus on signing Fabrice Luchini. Remember the strong French expression for a flat refusal: il n'est pas question de. See you next time!"
-CLOSING = ("lea", "Au revoir!")
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Sérieusement Hicham, tout avance très bien.', 'Seriously Hicham, everything is progressing very well.', [(759, 'Sérieusement, Hicham, ça prend forme')], ''),
     ('lea', 'Fais-moi confiance pour ce dossier.', 'Trust me with this file.', [(760, 'Fais-moi confiance')], ''),

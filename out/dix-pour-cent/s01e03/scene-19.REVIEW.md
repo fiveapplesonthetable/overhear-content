@@ -31,5 +31,5 @@
 | 17 | `maman` (Maman) | Si tu vois Sophie Marceau, prends une photo! | If you see Sophie Marceau, take a photo! | 514:Si tu vois Sophie Marceau, prends une photo |
 
 ## Part 5 — Outro & Closing
-> You've got all of it: commands, negatives, and plenty of motherly advice. Next, Camille arrives at the César ceremony reception, where Mathias is waiting for her. See you there.
+> You've got all of it: commands, negatives, and plenty of motherly advice. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

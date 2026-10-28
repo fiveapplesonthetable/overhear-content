@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 3
-TITLE = "Un projet pour Jean  (A Project for Jean)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un projet pour Jean  (A Project for Jean)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "mathias": "marcel", "noemie": "emilie"}
-LABELS = {"gabriel": "Gabriel", "mathias": "Mathias", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'mathias': 'marcel', 'noemie': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'mathias': 'Mathias', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Mathias and Noemie arrive at the agency to present their new film production project to Gabriel. They are hoping to convince Gabriel to offer the lead role to his star client, Jean Reno. Let's listen to their conversation in French first."
 OPENER = "Let's explore the movie proposal and casting discussion line by line."
 TRANSITION = "Now let's listen to the casting negotiations once more from start to finish."
-OUTRO = "That's it for this scene around a project for jean. When you watch the episode, listen out for the expressions meaning 'to have' and 'offer'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "Bonne soirée!")
+OUTRO = "That's it for this scene around a project for jean. When you watch the episode, listen out for the expressions meaning 'to have' and 'offer'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'Bonne soirée!')
 STORY = [
     ('mathias', 'On a une offre à vous faire.', 'FIXME translation', [(96, 'On a une offre à vous faire, qui pourrait vous aider.')], ''),
     ('gabriel', "Ça s'appelle un échange de bons procédés.", 'FIXME translation', [(98, "Ça s'appelle un échange de bons procédés, Gabriel.")], ''),

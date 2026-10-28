@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 3
 SCENE = 17
 TITLE = "L'audition de Nathalie  (Nathalie's Audition)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "nathalie": "emilie", "mathias": "marcel"}
-LABELS = {"nathalie": "Nathalie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'nathalie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'nathalie': 'Nathalie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Laura is afraid of hurting her mother by saying no, so the agents talk of a trick: be impossible, like a difficult star, so that the director refuses you. Now it's Nathalie's audition. Hervé fusses over Solveig with a long list of drinks, and she only wants water. We follow Nathalie. Here's the scene in French first; it's fine to catch just the feeling."
 OPENER = "Let's go through it. Solveig turns down coffee, tea and juice, and asks for the simplest thing there is."
 TRANSITION = 'Now listen to the whole conversation one more time.'
-OUTRO = "Nathalie can't act badly even when she tries, and you followed a whole audition in French. Next it's Laura's turn, so see you there."
-CLOSING = ("mathias", "Au revoir!")
+OUTRO = "Nathalie can't act badly even when she tries, and you followed a whole audition in French. See you next time!"
+CLOSING = ('mathias', 'Au revoir!')
 STORY = [
     ('mathias', "Non, merci. Un verre d'eau.", 'No, thank you. A glass of water.', [(415, 'Non, merci'), (419, "Un verre d'eau")], ''),
     ('mathias', 'Non, Nathalie, tu ne peux pas faire ça.', 'No, Nathalie, you can', [(420, 'Non, Nathalie, tu ne peux pas faire ça')], ''),

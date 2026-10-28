@@ -27,5 +27,5 @@
 | 13 | `emma` (Emma) | Non, j'adore l'expérience face à la vitalité. | No, I love experience facing fresh energy. | 663:j'adore l'expérience face à la vitalité |
 
 ## Part 5 — Outro & Closing
-> Pairing a veteran actor with a hungry newcomer brings sparks of creative tension to the audition stage. When you watch the episode, listen out for the expressions meaning 'ma'am' and 'come'. You'll catch them now. See you next time.
+> Pairing a veteran actor with a hungry newcomer brings sparks of creative tension to the audition stage. When you watch the episode, listen out for the expressions meaning 'ma'am' and 'come'. You'll catch them now. See you next time!
 - **Closing**: `gerard`: *À bientôt!*

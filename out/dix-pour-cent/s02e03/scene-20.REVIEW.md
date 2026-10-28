@@ -29,5 +29,5 @@
 | 15 | `camille` (Camille) | D'accord, nous allons organiser cela. | All right, we will organize that. | 528:Faites venir Julien Doré et Norman |
 
 ## Part 5 — Outro & Closing
-> Faced with Hicham's immense ambitions, Camille and Hervé must now pull off the ultimate party with a real castle and celebrity guests. Listen to the entire exchange once more in French. Join us next time to see what happens next.
+> Faced with Hicham's immense ambitions, Camille and Hervé must now pull off the ultimate party with a real castle and celebrity guests. Listen to the entire exchange once more in French. See you next time!
 - **Closing**: `camille`: *À bientôt!*

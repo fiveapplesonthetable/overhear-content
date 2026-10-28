@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 1
-TITLE = "Panique matinale  (Morning Panic)"
-LEVEL = "A1 — débutant"
+TITLE = 'Panique matinale  (Morning Panic)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "chauffeur": "theo"}
-LABELS = {"lea": "Andréa", "chauffeur": "Chauffeur"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'chauffeur': 'theo'}
+LABELS = {'lea': 'Andréa', 'chauffeur': 'Chauffeur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Early in the morning on the Parisian streets, Andrea Martel faces an acute childcare crisis when her nanny abruptly resigns. Left stranded on the pavement with baby Flora, she struggles in vain to hail a taxi without a mandatory infant car seat. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea and the taxi driver's stressful morning exchange line by line."
 TRANSITION = "Now let's listen to Andrea's morning dilemma once more from start to finish."
-OUTRO = "That's it for this scene around morning panic. When you watch the episode, listen out for the expressions meaning 'seat' and 'baby'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "That's it for this scene around morning panic. When you watch the episode, listen out for the expressions meaning 'seat' and 'baby'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('chauffeur', 'Pas de siège bébé, pas de taxi!', 'No baby seat, no taxi!', [(7, 'Pas de siège bébé, pas de taxi')], ''),
     ('lea', 'Mais je suis vraiment très pressée!', 'But I am truly in a great hurry!', [], ''),

@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | D'accord, je vais lui annoncer la nouvelle. | All right, I am going to break the news to him. | 250:D'accord., 257:Bien. |
 
 ## Part 5 — Outro & Closing
-> Faced with the harsh realities of film production, the agents must balance financial risk against artistic loyalty. Until next time.
+> Faced with the harsh realities of film production, the agents must balance financial risk against artistic loyalty. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

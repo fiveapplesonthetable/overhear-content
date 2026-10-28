@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Je refuse de céder sans combattre. | I refuse to give up without fighting. | 173:je peux pas rester |
 
 ## Part 5 — Outro & Closing
-> Tensions inside the agency reach an all-time high as preparations for the anniversary party continue. When you watch the episode, listen out for the expressions meaning 'serve' and 'champagne'. You'll catch them now. See you next time.
+> Tensions inside the agency reach an all-time high as preparations for the anniversary party continue. When you watch the episode, listen out for the expressions meaning 'serve' and 'champagne'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

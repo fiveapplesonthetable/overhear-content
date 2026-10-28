@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 6
 SCENE = 13
 TITLE = "L'attente de Jean Reno  (Waiting for Jean Reno)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In Andrea's office at ASK, tensions run high as Gabriel reports another devastating financing rejection for Xavier Beauvois's script. Just as their hopes seem completely dashed, unexpected news arrives that movie star Jean Reno is heading to the agency. Let's listen to their conversation in French first."
 OPENER = "Let's look at Gabriel and Andrea preparing for their crucial meeting step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Crushed by another funding rejection, Andrea and Gabriel suddenly find new hope when legendary actor Jean Reno agrees to visit ASK to discuss Xavier Beauvois's screenplay. When you watch the episode, listen out for the expressions meaning 'understand' and 'refusal'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Crushed by another funding rejection, Andrea and Gabriel suddenly find new hope when legendary actor Jean Reno agrees to visit ASK to discuss Xavier Beauvois's screenplay. When you watch the episode, listen out for the expressions meaning 'understand' and 'refusal'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Je ne comprends pas son refus.', 'I do not understand his refusal.', [(623, 'Je ne comprends pas')], ''),
     ('lea', 'Tu avais presque réussi à le convaincre?', 'You had almost managed to convince him?', [(624, 'presque réussi à le convaincre')], ''),

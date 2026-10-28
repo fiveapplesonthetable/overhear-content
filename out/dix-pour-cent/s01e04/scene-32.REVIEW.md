@@ -29,5 +29,5 @@
 | 15 | `mathias` (Mathias) | Il est bon, ce pétillant. Un peu jeune. | It | 860:Il est bon, ce pétillant, 861:Un peu jeune |
 
 ## Part 5 — Outro & Closing
-> That wraps up the fourth episode of Call My Agent: Audrey Fleurot has a new comedy film to pay off her taxes, Sofia has her very first screen role, Colette knows the truth about the Hotel Saint-Georges, and Mathias is staying at ASK as an accidental hero. See you soon for episode five!
+> That wraps up the fourth episode of Call My Agent: Audrey Fleurot has a new comedy film to pay off her taxes, Sofia has her very first screen role, Colette knows the truth about the Hotel Saint-Georges, and Mathias is staying at ASK as an accidental hero. See you next time!
 - **Closing**: `arlette`: *À demain!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 31
-TITLE = "Dans la piscine à Cannes  (In the Pool at Cannes)"
-LEVEL = "A1 — débutant"
+TITLE = 'Dans la piscine à Cannes  (In the Pool at Cannes)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "hicham": "marcel"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "hicham": "Hicham"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'hicham': 'marcel'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'hicham': 'Hicham'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Beside the illuminated swimming pool at Cannes, Andréa confides her biggest secret to Gabriel. When Hicham arrives with a vision for the agency's international future, the team seals their bond with a midnight leap. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this unforgettable poolside season finale step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
-OUTRO = 'As Andréa shares her life-changing secret with Gabriel, Hicham reveals his grand international ambitions before everyone dives into the pool together. Until next time.'
-CLOSING = ("gabriel", "Bonne journée!")
+OUTRO = 'As Andréa shares her life-changing secret with Gabriel, Hicham reveals his grand international ambitions before everyone dives into the pool together. See you next time!'
+CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('lea', 'Gabriel, je suis enceinte.', 'Gabriel, I am pregnant.', [(883, 'Je suis enceinte')], ''),
     ('lea', "C'est le bébé de Hicham.", 'It is Hicham', [(884, 'De Hicham')], ''),

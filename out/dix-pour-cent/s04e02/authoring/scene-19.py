@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 19
-TITLE = "Le prix du métier  (The Price of the Trade)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le prix du métier  (The Price of the Trade)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "elise": "emilie"}
-LABELS = {"mathias": "Mathias", "elise": "Élise"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'elise': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "Late at night, Elise Formet calls Mathias Barneville to deliver major industry news. While confirming that superstar Dany Boon has agreed to sign, Elise confronts Mathias on the cynical maneuvering required to win, forcing him to reflect on the nature of their business. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Though victorious in securing Dany Boon, Mathias is left alone with the bitter truth of Elise's words. When you watch the episode, listen out for the expressions meaning 'done' and 'is going'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À bientôt!")
+OUTRO = "Though victorious in securing Dany Boon, Mathias is left alone with the bitter truth of Elise's words. When you watch the episode, listen out for the expressions meaning 'done' and 'is going'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('elise', "Allô Mathias? Oui, c'est enfin fait.", 'Hello Mathias? Yes, it is finally done.', [(1024, 'Allô'), (1024, "c'est fait")], ''),
     ('mathias', 'Dany Boon va signer chez nous?', 'Is Dany Boon signing with us?', [(1025, 'signer avec vous')], ''),

@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | C'est un beau moment de paix. | It is a beautiful moment of peace. | 830:On kiffe |
 
 ## Part 5 — Outro & Closing
-> In a rare quiet evening, Andrea, Colette, and Hicham find unexpected harmony around baby Flora. When you watch the episode, listen out for the expressions meaning 'come' and 'to talk'. You'll catch them now. See you next time.
+> In a rare quiet evening, Andrea, Colette, and Hicham find unexpected harmony around baby Flora. When you watch the episode, listen out for the expressions meaning 'come' and 'to talk'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *Bonne journée!*

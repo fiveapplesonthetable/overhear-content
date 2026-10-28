@@ -27,5 +27,5 @@
 | 13 | `charlotte` (Charlotte) | Oui, je lirai ton scénario avec joie! | Yes, I will read your script with joy! | 877:lire le scénario, 878:Bien sûr |
 
 ## Part 5 — Outro & Closing
-> Moving past absurd excuses and movie blunders, Charlotte and Oscar find creative harmony in an animated project. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'mishap'. You'll catch them now. See you next time.
+> Moving past absurd excuses and movie blunders, Charlotte and Oscar find creative harmony in an animated project. When you watch the episode, listen out for the expressions meaning 'are you doing' and 'mishap'. You'll catch them now. See you next time!
 - **Closing**: `oscar`: *Au revoir!*

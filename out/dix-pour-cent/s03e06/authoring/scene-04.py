@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 6
 SCENE = 4
-TITLE = "Trêve provisoire  (Temporary Truce)"
-LEVEL = "A1 — débutant"
+TITLE = 'Trêve provisoire  (Temporary Truce)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "With the agency's thirtieth anniversary gala about to begin, Mathias approaches Andrea and Gabriel in a bid for peace. Recognizing that thirty years of shared history cannot be easily erased, he offers to increase their shares and salaries under his leadership. Though Gabriel reacts with pride and indignation, Andrea urges caution to maintain an unbroken facade in front of their clients. Let's listen to the scene in French first."
 OPENER = "Let's observe as Mathias offers financial concessions while Andrea urges public restraint."
 TRANSITION = "Now let's listen to Mathias, Andrea, and Gabriel concluding their truce at full speed."
-OUTRO = "Agreeing to present a united front for the anniversary gala, the partners bury their grievances for a few brief hours. When you watch the episode, listen out for the expressions meaning 'it is' and 'party'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Agreeing to present a united front for the anniversary gala, the partners bury their grievances for a few brief hours. When you watch the episode, listen out for the expressions meaning 'it is' and 'party'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('mathias', "C'est la fête pour nos trente ans.", 'It is the party for our thirty years.', [(318, "C'est la fête")], ''),
     ('mathias', 'Notre agence tient depuis trente longues années.', 'Our agency has lasted for thirty long years.', [(320, 'ça fait trente ans que ça tient')], ''),

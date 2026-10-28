@@ -26,5 +26,5 @@
 | 12 | `joey` (JoeyStarr) | Elle dit toujours: oui, j'adore la musique de Bach! | She always says: yes, I love Bach | 114:Oui, j'adore, 114:de Bach. |
 
 ## Part 5 — Outro & Closing
-> Andréa is dangling a César award in front of Julie, while JoeyStarr is mocking her classical music lessons in the courtyard. Listen out for that verb meaning 'to be worth' or 'to win you'. See you next time.
+> Andréa is dangling a César award in front of Julie, while JoeyStarr is mocking her classical music lessons in the courtyard. Listen out for that verb meaning 'to be worth' or 'to win you'. See you next time!
 - **Closing**: `lea`: *À demain!*

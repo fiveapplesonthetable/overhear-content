@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s01/e03.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}`
-- **Labels**: `{"sofia": "Sofia", "gabriel": "Gabriel"}`
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}`
+- **Labels**: `{"gabriel": "Gabriel", "sofia": "Sofia"}`
 
 ## Part 1 — Intro
 > Now Gabriel comes out to reception with Hervé: a casting director, Caroline Braudel, has chosen two photos from the agency's envelope, and one of them is Sofia, the receptionist. We'll hear it in French first; don't worry about catching every word.
@@ -29,5 +29,5 @@
 | 15 | `gabriel` (Gabriel) | Promesse d'agent! Oui, Laura, je suis à toi. | An agent | 195:Promesse d'agent !, 196:Oui, Laura, 197:Je suis, 197:à toi |
 
 ## Part 5 — Outro & Closing
-> Sofia has wrung a promise out of Gabriel at last, and now he has Laura Smet on the line. Listen out for how the word for 'nobody' works without the second negative word. See you next time.
+> Sofia has wrung a promise out of Gabriel at last, and now he has Laura Smet on the line. Listen out for how the word for 'nobody' works without the second negative word. See you next time!
 - **Closing**: `sofia`: *Bonne soirée!*

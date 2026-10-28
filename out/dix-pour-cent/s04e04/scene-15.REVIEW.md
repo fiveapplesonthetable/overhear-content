@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Noémie, attends, reviens tout de suite! | Noemie, wait, come back immediately! | 976:Noémie |
 
 ## Part 5 — Outro & Closing
-> Disgusted by Mathias's cruelty and broken promises, Noemie storms out of the party in tears. When you watch the episode, listen out for the expressions meaning 'is happening' and 'are celebrating'. You'll catch them now. See you next time.
+> Disgusted by Mathias's cruelty and broken promises, Noemie storms out of the party in tears. When you watch the episode, listen out for the expressions meaning 'is happening' and 'are celebrating'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Bonne soirée!*

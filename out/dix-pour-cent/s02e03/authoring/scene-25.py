@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 25
-TITLE = "Partie de laser game  (Laser Tag Battle)"
-LEVEL = "A1 — débutant"
+TITLE = 'Partie de laser game  (Laser Tag Battle)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "norman": "marcel", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"norman": "Norman", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'norman': 'marcel', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'norman': 'Norman', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At a lively laser game arena, the ASK team gathers to celebrate Elvis's birthday party. Between rounds of laser tag, Gabriel takes Norman aside to discuss his new movie role. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel is discussing Norman's new acting project with him."
 TRANSITION = "Now let's listen to the whole discussion again without stopping."
-OUTRO = 'Gabriel encourages Norman as he transitions from web comedy to serious cinema. Meanwhile, the party around them continues in full swing. See you next time!'
-CLOSING = ("norman", "À bientôt!")
+OUTRO = 'Gabriel encourages Norman as he transitions from web comedy to serious cinema. See you next time!'
+CLOSING = ('norman', 'À bientôt!')
 STORY = [
     ('lea', 'Viens jouer au laser game!', 'Come and play laser games!', [(642, 'Viens jouer au laser game.')], ''),
     ('norman', "Se déguiser et se faire tirer dessus, ce n'est pas mon truc.", 'Dressing up and being shot at is not my thing.', [(643, "Me déguiser en GI et me faire tirer dessus, c'est pas mon truc.")], ''),

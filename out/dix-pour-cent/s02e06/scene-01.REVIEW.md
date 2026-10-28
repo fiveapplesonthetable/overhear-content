@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s02/e06.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "juliette": "emilie", "lea": "lucie", "gabriel": "theo"}`
-- **Labels**: `{"juliette": "Juliette", "lea": "Andréa", "gabriel": "Gabriel"}`
+- **Voices**: `{"narrator": "sky", "juliette": "emilie", "gabriel": "theo", "lea": "lucie"}`
+- **Labels**: `{"juliette": "Juliette", "gabriel": "Gabriel", "lea": "Andréa"}`
 
 ## Part 1 — Intro
 > We open at the agency as everyone prepares to leave for the coast. Listen to the full scene in French first — just focus on the tone and energy.
@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Très bien, va pour le smoking Armani! | Very well, let us go with the Armani tuxedo! | 54:Très bien, alors. Nous sommes tous d'accord., 55:Le smoking Armani. |
 
 ## Part 5 — Outro & Closing
-> Juliette Binoche rejects the restrictive dress in favor of a sleek Armani tuxedo, choosing comfort and independence. Her agent Andréa and producer Eva respect her decision as preparations for the Cannes festival continue. Join us next time to see what happens next.
+> Juliette Binoche rejects the restrictive dress in favor of a sleek Armani tuxedo, choosing comfort and independence. Her agent Andréa and producer Eva respect her decision as preparations for the Cannes festival continue. See you next time!
 - **Closing**: `juliette`: *Bonne journée!*

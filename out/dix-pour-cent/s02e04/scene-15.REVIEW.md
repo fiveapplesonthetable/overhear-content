@@ -28,5 +28,5 @@
 | 14 | `sacha` (Sacha) | Je monte dans ce taxi. | I am getting into this taxi. | 422:Je t'envoie un taxi |
 
 ## Part 5 — Outro & Closing
-> Thanks to Camille's quick reflexes and Andréa's warning, Sacha slips safely into a taxi before Mathias and Isabelle arrive. Listen to the French scene once more. Join us next time to see what happens next.
+> Thanks to Camille's quick reflexes and Andréa's warning, Sacha slips safely into a taxi before Mathias and Isabelle arrive. Listen to the French scene once more. See you next time!
 - **Closing**: `camille`: *Au revoir!*

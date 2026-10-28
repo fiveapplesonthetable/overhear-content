@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 6
-TITLE = "Cent vingt copies  (One Hundred and Twenty Copies)"
-LEVEL = "A1 — débutant"
+TITLE = 'Cent vingt copies  (One Hundred and Twenty Copies)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "mathias": "marcel"}
-LABELS = {"sofia": "Sofia", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'mathias': 'marcel'}
+LABELS = {'sofia': 'Sofia', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "In Mathias's office at ASK, actress Sophia Leprince bursts in visibly shaken by the theater distribution numbers for her new film. Terrified that a small release will ruin her career, Sophia threatens to quit acting altogether as Mathias struggles to console her. Let's listen to the scene in French first."
 OPENER = "Let's examine how Mathias attempts to calm Sophia during her box office panic step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "That's it for this scene around one hundred and twenty copies. When you watch the episode, listen out for the expressions meaning 'I have' and 'talked'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À demain!")
+OUTRO = "That's it for this scene around one hundred and twenty copies. When you watch the episode, listen out for the expressions meaning 'I have' and 'talked'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À demain!')
 STORY = [
     ('sofia', "J'ai enfin parlé au distributeur ce matin.", 'I finally spoke to the distributor this morning.', [(332, "J'ai eu le distributeur.")], ''),
     ('sofia', 'Il y a seulement cent vingt copies distribuées!', 'There are only one hundred and twenty prints distributed!', [(333, "Il m'a dit qu'il y avait 120 copies dans toute la France.")], ''),

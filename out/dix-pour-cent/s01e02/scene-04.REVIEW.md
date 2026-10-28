@@ -31,5 +31,5 @@
 | 17 | `gabriel` (Gabriel) | C'est une offre? Je suis touché. | Is that an offer? I | 198:C'est une offre ?, 199:Je suis touché |
 
 ## Part 5 — Outro & Closing
-> Nothing is decided yet, but something has changed between Andréa and Gabriel. If you heard the soft 'would' forms, you've got the heart of the scene. See you next time.
+> Nothing is decided yet, but something has changed between Andréa and Gabriel. If you heard the soft 'would' forms, you've got the heart of the scene. See you next time!
 - **Closing**: `gabriel`: *Bonne nuit, Andréa.*

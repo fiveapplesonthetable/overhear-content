@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 4
 SCENE = 8
 TITLE = "La scène d'agonie  (The Agony Scene)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "realisateur": "marcel"}
-LABELS = {"isabelle": "Isabelle", "realisateur": "Le réalisateur"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'realisateur': 'marcel'}
+LABELS = {'isabelle': 'Isabelle', 'realisateur': 'Le réalisateur'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "On the movie set of a historical costume drama, Isabelle Huppert performs a dramatic death scene. Her character bids farewell to her lost love before the director calls cut with praise. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "The crew applauds Isabelle's remarkable performance in the deathbed scene. When you watch the episode, listen out for the expressions meaning 'forgive' and 'child'. You'll catch them now. See you next time."
-CLOSING = ("realisateur", "À bientôt!")
+OUTRO = "The crew applauds Isabelle's remarkable performance in the deathbed scene. When you watch the episode, listen out for the expressions meaning 'forgive' and 'child'. You'll catch them now. See you next time!"
+CLOSING = ('realisateur', 'À bientôt!')
 STORY = [
     ('isabelle', 'Je te pardonne tout, mon enfant.', 'I forgive you for everything, my child.', [(637, 'Je te pardonne, mon enfant.')], ''),
     ('isabelle', "Ah, j'ai très mal à la jambe.", 'Ah, my leg hurts very badly.', [(638, 'Ah, ma jambe.')], ''),

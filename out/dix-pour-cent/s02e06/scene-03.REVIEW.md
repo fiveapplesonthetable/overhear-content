@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | D'accord, amène-le ce soir chez moi. | All right, bring him tonight to my place. | 83:S'il te plaît ! |
 
 ## Part 5 — Outro & Closing
-> Hervé agrees to look after Jean Gabin, finding comfort in canine company while remaining in Paris. Arlette departs for Cannes knowing her faithful companion is in caring hands. Until next time.
+> Hervé agrees to look after Jean Gabin, finding comfort in canine company while remaining in Paris. Arlette departs for Cannes knowing her faithful companion is in caring hands. See you next time!
 - **Closing**: `arlette`: *Au revoir!*

@@ -29,5 +29,5 @@
 | 15 | `hippolyte` (Hippolyte) | On y va sur mon scooter. Tu n'as pas peur? | We're going on my scooter. You're not afraid? | 440:On y va sur mon scooter, 441:Tu n'as pas peur |
 
 ## Part 5 — Outro & Closing
-> Camille says she's never afraid, and off they ride to the Barneville family house. Next, they look through the photos, and someone unexpected walks in. See you there.
+> Camille says she's never afraid, and off they ride to the Barneville family house. See you next time!
 - **Closing**: `camille`: *À demain!*

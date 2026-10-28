@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 14
 TITLE = "Je suis bien ici  (I'm Fine Here)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "What nobody here knows is that Mathias is her father. Now he walks down the corridor and finds her, at work, in his own agency. Later, his assistant Noémie, who has seen them argue, has a word with Camille. First the whole scene in French. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's take it slowly. Mathias stops dead when he sees Camille in the corridor, and his first words are not exactly a warm hello."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's it for this scene, and you followed a real family row in French. When you watch it, listen for 'I'm fine here', and for Noémie's very married Mathias. See you next time."
-CLOSING = ("camille", "À bientôt!")
+OUTRO = "That's it for this scene, and you followed a real family row in French. When you watch it, listen for 'I'm fine here', and for Noémie's very married Mathias. See you next time!"
+CLOSING = ('camille', 'À bientôt!')
 STORY = [
     ('mathias', "Qu'est-ce que tu fais là?", 'What are you doing here?', [(443, "Qu'est-ce que tu fais là ?")], ''),
     ('camille', "J'ai trouvé un travail. Super, non?", "I found a job. Great, isn't it?", [(443, "J'ai trouvé un travail"), (444, 'Super, non ?')], ''),

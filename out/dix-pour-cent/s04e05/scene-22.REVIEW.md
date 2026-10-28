@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Je vais lui faire payer cher. | I am going to make her pay dearly. | 847:Elle a raccroché |
 
 ## Part 5 — Outro & Closing
-> Stunned into silence, Andrea and Gabriel realize that ASK has just suffered the deadliest strike in its history. When you watch the episode, listen out for the expressions meaning 'phones' and 'ring'. You'll catch them now. See you next time.
+> Stunned into silence, Andrea and Gabriel realize that ASK has just suffered the deadliest strike in its history. When you watch the episode, listen out for the expressions meaning 'phones' and 'ring'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

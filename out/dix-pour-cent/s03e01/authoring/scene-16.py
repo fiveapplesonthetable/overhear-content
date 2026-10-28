@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 1
 SCENE = 16
-TITLE = "La fin du Déserteur  (The End of The Deserter)"
-LEVEL = "A1 — débutant"
+TITLE = 'La fin du Déserteur  (The End of The Deserter)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jean": "theo", "solveig": "emilie"}
-LABELS = {"jean": "Jean", "solveig": "Solveig"}
+VOICES = {'narrator': 'sky', 'jean': 'theo', 'solveig': 'emilie'}
+LABELS = {'jean': 'Jean', 'solveig': 'Solveig'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e01.fr.dual.srt'
 INTRO = "Celebrating the wrap of his grueling shoot with friends, Jean Dujardin opens a vintage bottle but refrains from drinking, honoring Solveig's rules. Connecting via video call with director Solveig Akerfeld, Jean impulsively proposes a sequel to The Deserter, but she firmly urges him to move on. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Refusing to accept that his transformative role is over, Jean Dujardin desperately pitches a sequel to Solveig, who firmly closes the chapter. When you watch the episode, listen out for the expressions meaning 'wrap' and 'is celebrated'. You'll catch them now. See you next time."
-CLOSING = ("jean", "À bientôt!")
+OUTRO = "Refusing to accept that his transformative role is over, Jean Dujardin desperately pitches a sequel to Solveig, who firmly closes the chapter. When you watch the episode, listen out for the expressions meaning 'wrap' and 'is celebrated'. You'll catch them now. See you next time!"
+CLOSING = ('jean', 'À bientôt!')
 STORY = [
     ('jean', 'La fin du Déserteur, ça se fête!', 'The end of The Deserter calls for a celebration!', [(505, 'la fin du Déserteur, ça se fête')], ''),
     ('jean', "C'est un excellent Grand Cru!", 'It is an excellent Grand Cru!', [(507, "C'est le Grand Cru")], ''),

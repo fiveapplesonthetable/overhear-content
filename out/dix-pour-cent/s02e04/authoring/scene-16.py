@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 16
 TITLE = "L'attente de Julien  (Waiting for Julien)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = 'Back at the agency, agent Gabriel and actress Sofia wait anxiously beside the phone for singer Julien Dore to call back. While Gabriel fidgets with impatience, Sofia tries to stay composed and avoid sounding overly eager. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = "Gabriel and Sofia resolve to stay calm and wait for Julien's decision, though neither can resist watching the silent telephone. Listen to the French scene once more. See you next time!"
-CLOSING = ("sofia", "À demain!")
+CLOSING = ('sofia', 'À demain!')
 STORY = [
     ('gabriel', "C'est bizarre qu'il n'ait pas rappelé.", 'It is strange that he has not called back.', [(426, "C'est bizarre qu'il n'ait pas rappelé")], ''),
     ('sofia', 'Tu parles de Julien?', 'Are you talking about Julien?', [(427, 'Julien')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 8
-TITLE = "Le code secret  (The Secret Code)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le code secret  (The Secret Code)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Back at the agency, Gabriel and Andrea have stolen Elise's phone and are frantically trying to guess her PIN before she returns from the bathroom. We'll hear their conversation in French first, but don't worry about catching every word."
 OPENER = "Let's walk through it. Gabriel is panicking while Andrea guesses the PIN."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Elise Formain deleted all her messages, which only makes Gabriel more suspicious. See you next time.'
-CLOSING = ("gabriel", "À demain!")
+OUTRO = 'Elise Formain deleted all her messages, which only makes Gabriel more suspicious. See you next time!'
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', "Dépêche-toi! Je t'en supplie.", 'Hurry up! I beg you.', [(384, "Dépêche-toi ! Je t'en supplie.")], ''),
     ('lea', "Ce n'est pas sa date de naissance.", 'It is not her birth date.', [(383, "C'est pas sa date de naissance.")], ''),

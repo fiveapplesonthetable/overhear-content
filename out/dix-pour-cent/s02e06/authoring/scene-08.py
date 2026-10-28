@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 6
 SCENE = 8
 TITLE = "Le scénario de l'écrivain  (The Writer's Pitch)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "writer": "theo", "herve": "marcel"}
-LABELS = {"writer": "L'écrivain", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'writer': 'theo', 'herve': 'marcel'}
+LABELS = {'writer': "L'écrivain", 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Alone at the ASK reception desk, Hervé supervises an internet technician setting up high-speed routers for the team. The technician unexpectedly pitches an eccentric screenplay about domestic secrets, asking Hervé to deliver it to movie stars at Cannes. Let's listen to the scene in French first."
 OPENER = "Let's examine Hervé's comical interaction with the enthusiastic technician step by step to explore unexpected script submissions."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = 'Hervé contends with an eccentric writer while holding the fort at ASK as his colleagues pack their bags for the festival. Until next time! See you next time!'
-CLOSING = ("herve", "Au revoir!")
+OUTRO = 'Hervé contends with an eccentric writer while holding the fort at ASK as his colleagues pack their bags for the festival. See you next time!'
+CLOSING = ('herve', 'Au revoir!')
 STORY = [
     ('writer', 'Voilà une connexion internet parfaite pour Cannes.', 'Here is a perfect internet connection for Cannes.', [(158, 'pour')], ''),
     ('writer', "C'est du très haut débit pour vous.", 'It is high-speed broadband for you.', [(158, 'Le très haut débit pour toute votre équipe.')], ''),

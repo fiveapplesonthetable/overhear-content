@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 21
-TITLE = "Dîner pour deux dans la chambre seize  (Dinner for Two in Room Sixteen)"
-LEVEL = "A1 — débutant"
+TITLE = 'Dîner pour deux dans la chambre seize  (Dinner for Two in Room Sixteen)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie", "receptionniste": "emilie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa", "receptionniste": "Réceptionniste"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie', 'receptionniste': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa', 'receptionniste': 'Réceptionniste'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "The receptionist is struggling with her computer, and when Gabriel leans over to help her, he spots something very interesting on the screen: dinner for two and champagne in room sixteen, Andréa's room. Curiosity gets the better of him, and he marches straight upstairs with a breakfast tray. Let's hear the scene in French first."
 OPENER = "Let's walk through it. At the front desk, the receptionist apologises for the delay."
 TRANSITION = "Now let's listen to the whole scene again."
-OUTRO = 'Cornered in her hotel room with Colette hiding in the bathroom, Andréa has no choice left but to confess to Gabriel on the drive to the film set. See you next time.'
-CLOSING = ("lea", "À bientôt!")
+OUTRO = 'Cornered in her hotel room with Colette hiding in the bathroom, Andréa has no choice left but to confess to Gabriel on the drive to the film set. See you next time!'
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('receptionniste', 'Désolée, on a ce nouveau logiciel.', 'Sorry, we have this new software.', [(421, 'on a ce nouveau logiciel')], ''),
     ('gabriel', 'Peut-être que je peux aider.', 'Maybe I can help.', [(422, 'Peut-être que je peux aider')], ''),

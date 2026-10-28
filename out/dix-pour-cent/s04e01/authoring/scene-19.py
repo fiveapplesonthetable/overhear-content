@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 1
 SCENE = 19
 TITLE = "La robe de Noémie  (Noémie's Dress)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "mathias": "marcel"}
-LABELS = {"noemie": "Noémie", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'mathias': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Arriving at the Cesars ceremony, Noemie feels anxious about her striking outfit. While Mathias tries to reassure her, an acquaintance greets them and patronizingly refers to Noemie as his little assistant, leaving her hurt. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Swallowing her hurt pride, Noemie takes her seat beside Mathias in the glamorous hall. When you watch the episode, listen out for the expressions meaning 'let us find' and 'seats'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "Bonne journée!")
+OUTRO = "Swallowing her hurt pride, Noemie takes her seat beside Mathias in the glamorous hall. When you watch the episode, listen out for the expressions meaning 'let us find' and 'seats'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'Bonne journée!')
 STORY = [
     ('mathias', 'Alors, trouvons nos places, par ici.', 'So, let us find our seats, over here.', [(898, "Par là, c'est ça")], ''),
     ('noemie', 'Attends, Mathias, ma robe est catastrophique!', 'Wait, Mathias, my dress is a disaster!', [(899, 'ma robe est catastrophique')], ''),

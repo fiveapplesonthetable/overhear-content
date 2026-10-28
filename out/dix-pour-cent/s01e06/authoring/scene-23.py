@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 23
-TITLE = "La rupture avec Colette  (The Break-Up with Colette)"
-LEVEL = "A1 — débutant"
+TITLE = 'La rupture avec Colette  (The Break-Up with Colette)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "After watching François and Christophe make peace in the swimming pool, Andréa celebrates with too much champagne and starts flirting with a young woman at the party. Just as Andréa leans in and kisses her on the lips, Colette arrives and sees everything. Horrified, Colette turns and walks out into the street, with Andréa chasing after her. Let's hear the scene in French first."
 OPENER = "Let's walk through it. At the party inside, tipsy Andréa clinks glasses with a guest."
 TRANSITION = "Now let's listen to the whole scene again."
-OUTRO = "Heartbroken by Andréa's betrayal, Colette leaves in the taxi and cuts off all contact. Drunk and miserable, Andréa stumbles back into the party, falls straight into the swimming pool, and shows up soaking wet at Gabriel's flat. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "Heartbroken by Andréa's betrayal, Colette leaves in the taxi and cuts off all contact. Drunk and miserable, Andréa stumbles back into the party, falls straight into the swimming pool, and shows up soaking wet at Gabriel's flat. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', "Comment tu t'appelles? Santé!", 'What', [(601, "Comment tu t'appelles"), (602, 'Santé')], ''),
     ('lea', "Colette, attends! Je te jure, c'était pour le travail!", 'Colette, wait! I swear, it was for work!', [(607, "Colette, attends ! Je te jure, c'était pour le travail")], ''),

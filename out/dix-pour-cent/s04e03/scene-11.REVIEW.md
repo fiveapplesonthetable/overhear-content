@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | Montre-leur ta force devant la caméra! | Show them your strength in front of the camera! | 485:boulot |
 
 ## Part 5 — Outro & Closing
-> Sofia overcomes her disappointment and steps onto the photoshoot set with renewed confidence. When you watch the episode, listen out for the expressions meaning 'to help' and 'sure'. You'll catch them now. See you next time.
+> Sofia overcomes her disappointment and steps onto the photoshoot set with renewed confidence. When you watch the episode, listen out for the expressions meaning 'to help' and 'sure'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Bonne soirée!*

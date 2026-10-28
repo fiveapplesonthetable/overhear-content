@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 5
 SCENE = 13
 TITLE = "La cible, c'est la femme chez le coiffeur  (The Target Is the Woman at the Hairdresser's)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie", "lea": "lucie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie', 'lea': 'lucie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "Back in Paris at the ASK offices, Mathias is trying to stop the daytime soap opera from killing off his client Jonathan Joubert's character, Doctor Ryan. Camille suggests leaking the news to salon magazines so loyal viewers protest, and Hervé proudly unveils a mock death notice that goes way too far. Let's listen to the scene in French first."
 OPENER = "Now let's walk through the scene line by line and unpack the French expressions."
 TRANSITION = 'Now listen to the entire office exchange one more time at natural speed.'
 OUTRO = "Poor Hervé thought his missing-person poster was a stroke of genius, while Camille's salon rumor idea may actually work. Keep the phrase for drop it handy: listen and let it fall. See you next time!"
-CLOSING = ("mathias", "Bonne journée!")
+CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
     ('camille', "Notre public, c'est la femme qui parle chez le coiffeur.", 'Our audience is the woman chatting at the hairdresser', [(237, 'La cible'), (238, "c'est la femme qui bavarde avec ses amies chez le coiffeur")], ''),
     ('camille', 'Le genre de femme qui adore Jonathan Joubert.', 'The kind of woman who adores Jonathan Joubert.', [(239, 'le genre de femme qui adore Jonathan Joubert')], ''),

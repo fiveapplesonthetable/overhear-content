@@ -29,5 +29,5 @@
 | 15 | `samir` (Samir) | Voilà! C'est parfait! | There! That | 548:Voilà |
 
 ## Part 5 — Outro & Closing
-> It took a beetle and a small barn fire, but Julie and JoeyStarr finally have real chemistry on screen. Remember the cry for 'fire!': literally 'to the fire!'. See you next time.
+> It took a beetle and a small barn fire, but Julie and JoeyStarr finally have real chemistry on screen. Remember the cry for 'fire!': literally 'to the fire!'. See you next time!
 - **Closing**: `joey`: *À bientôt!*

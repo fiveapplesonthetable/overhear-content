@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 21
 TITLE = "Le thé à l'anis étoilé  (Star-Anise Tea)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Alone in a hotel room after Catherine leaves him, Mathias records a desperate voicemail begging his wife to let him come home, just before hotel reception calls up to announce that Camille is waiting downstairs. Camille invites her father to dinner, and over their meal in the hotel restaurant she tells him how she first fell in love with cinema. Let's listen to the scene in French first."
 OPENER = "Let's walk through the scene line by line. At the restaurant table, Camille talks about her childhood in the south."
 TRANSITION = "Now let's listen to the whole dinner scene again."
-OUTRO = "With a cup of star-anise tea and a warm conversation about movies, Camille softens her father's heart and wins back her place at ASK. Next, we return to the party by the theatre pool. See you next time."
-CLOSING = ("camille", "À bientôt!")
+OUTRO = "With a cup of star-anise tea and a warm conversation about movies, Camille softens her father's heart and wins back her place at ASK. See you next time!"
+CLOSING = ('camille', 'À bientôt!')
 STORY = [
     ('camille', 'Et Philippe, tu vois qui je veux dire?', 'And Philippe, do you know who I mean?', [(551, 'Et Philippe... Tu vois qui je veux dire')], ''),
     ('mathias', 'Le frère de maman.', 'Mom', [(552, 'Le frère de maman')], ''),

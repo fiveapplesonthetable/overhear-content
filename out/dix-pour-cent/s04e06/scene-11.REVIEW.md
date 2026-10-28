@@ -25,5 +25,5 @@
 | 11 | `gabriel` (Gabriel) | Avec toi, oui. | With you, yes. | 421:Avec toi, oui. |
 
 ## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around was that you, and for the words meaning 'to be' and 'to understand'. You'll catch them now. See you next time.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around was that you, and for the words meaning 'to be' and 'to understand'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Au revoir!*

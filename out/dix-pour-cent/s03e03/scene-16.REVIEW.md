@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | L'avenir est grand devant nous! | The future is big ahead of us! | 1044:L'avenir est devant nous |
 
 ## Part 5 — Outro & Closing
-> Caught between loyalty to a promising young talent and the harsh realities of film production, Camille delivers tough news to Samy. When you watch the episode, listen out for the expressions meaning 'messed up' and 'tests'. You'll catch them now. See you next time.
+> Caught between loyalty to a promising young talent and the harsh realities of film production, Camille delivers tough news to Samy. When you watch the episode, listen out for the expressions meaning 'messed up' and 'tests'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *À demain!*

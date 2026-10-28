@@ -25,5 +25,5 @@
 | 11 | `arlette` (Arlette) | C'est gentil. | That is kind. | adapted |
 
 ## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around he will be here in 5 minutes, and for the words meaning 'to worry' and 'to be'. You'll catch them now. See you next time.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around he will be here in 5 minutes, and for the words meaning 'to worry' and 'to be'. You'll catch them now. See you next time!
 - **Closing**: `arlette`: *Bonne journée!*

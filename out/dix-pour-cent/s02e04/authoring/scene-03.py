@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 3
-TITLE = "Andréa appelle Sacha Hartman  (Calling Hartman)"
-LEVEL = "A1 — débutant"
+TITLE = 'Andréa appelle Sacha Hartman  (Calling Hartman)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "sacha": "theo", "noemie": "emilie"}
-LABELS = {"lea": "Andréa", "sacha": "Sacha", "noemie": "Noémie"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'sacha': 'theo', 'noemie': 'emilie'}
+LABELS = {'lea': 'Andréa', 'sacha': 'Sacha', 'noemie': 'Noémie'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In her office at ASK, Andréa calls young director Sacha Hartman to propose Isabelle Adjani for his new film. Expecting enthusiasm, she is stunned when Hartman bitterly recounts an old grudge and flatly refuses to work with her. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andréa's phone call with Sacha Hartman turns into a disaster."
 TRANSITION = "Now let's listen to Andréa's tense phone negotiation again at full speed."
-OUTRO = 'Hartman holds a four-year grudge after Isabelle rejected his debut film, putting Andréa in an impossible bind. With Noémie watching, Andréa must urgently figure out how to save the deal. Join us next time to see what happens next.'
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = 'Hartman holds a four-year grudge after Isabelle rejected his debut film, putting Andréa in an impossible bind. With Noémie watching, Andréa must urgently figure out how to save the deal. See you next time!'
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('lea', "Allô Sacha? C'est Andréa, réveille-toi!", 'Hello Sacha? It is Andréa, wake up!', [(53, "-Allô ? -Sacha, c'est Andréa.")], ''),
     ('sacha', 'Salut Andréa, je dormais encore un peu.', 'Hi Andréa, I was still sleeping a bit.', [(54, '-Salut. -Tu dormais ?'), (55, '-Un peu.')], ''),

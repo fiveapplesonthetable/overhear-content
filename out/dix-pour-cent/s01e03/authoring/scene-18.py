@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 3
 SCENE = 18
 TITLE = "Le caprice de Laura  (Laura's Diva Act)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "laura": "emilie", "herve": "marcel"}
-LABELS = {"laura": "Laura", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'laura': 'emilie', 'herve': 'marcel'}
+LABELS = {'laura': 'Laura', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Now it is Laura's turn with the director Solveig Akerfelt. Remember Gabriel's plan: since Solveig hates difficult stars, Laura is going to play an impossible diva so that Solveig turns her down. Listen to the scene in French first, and just enjoy the performance."
 OPENER = "Let's walk through it step by step. Solveig starts in her serious, intense way."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Laura's diva act works like a charm: soon after, Gabriel leaves a delighted voicemail on her phone to say that Solveig Akerfelt found her 'too beautiful for the part', a polite excuse because they don't want a prima donna. Next we visit Camille at home as she gets ready for the César awards. Until next time."
-CLOSING = ("laura", "À demain!")
+OUTRO = "Laura's diva act works like a charm: soon after, Gabriel leaves a delighted voicemail on her phone to say that Solveig Akerfelt found her 'too beautiful for the part', a polite excuse because they don't want a prima donna. See you next time!"
+CLOSING = ('laura', 'À demain!')
 STORY = [
     ('herve', "C'est l'isolement de la mère et de la fille qui m'intéresse.", 'It', [(457, "C'est l'isolement de la mère et de la fille qui m'intéresse")], ''),
     ('herve', "Et leur relation intense sur l'île.", 'And their intense relationship on the island.', [(458, "leur relation intense sur l'île")], ''),

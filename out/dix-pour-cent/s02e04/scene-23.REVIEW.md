@@ -27,5 +27,5 @@
 | 13 | `arlette` (Arlette) | Elle t'aimera encore plus ainsi. | She will love you even more that way. | 675:Elle t'aimera encore plus. |
 
 ## Part 5 — Outro & Closing
-> Calmed by Arlette's experience and warmth, Gabriel learns to separate his professional role from his personal insecurities. Remember the essential French phrase for placing trust in someone: faire confiance. Join us next time to see what happens next.
+> Calmed by Arlette's experience and warmth, Gabriel learns to separate his professional role from his personal insecurities. Remember the essential French phrase for placing trust in someone: faire confiance. See you next time!
 - **Closing**: `arlette`: *Bonne journée!*

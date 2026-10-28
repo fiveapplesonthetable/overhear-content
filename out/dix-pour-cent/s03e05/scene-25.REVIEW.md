@@ -27,5 +27,5 @@
 | 13 | `hicham` (Hicham) | Prends ton temps, je règle l'addition. | Take your time, I am settling the bill. | 1044:Ok |
 
 ## Part 5 — Outro & Closing
-> As Hicham pledges his own fortune to rescue the agency, Andrea rushes outside to call off her secret legal plans. When you watch the episode, listen out for the expressions meaning 'do you know' and 'story'. You'll catch them now. See you next time.
+> As Hicham pledges his own fortune to rescue the agency, Andrea rushes outside to call off her secret legal plans. When you watch the episode, listen out for the expressions meaning 'do you know' and 'story'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

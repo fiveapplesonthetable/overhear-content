@@ -28,5 +28,5 @@
 | 14 | `mathias` (Mathias) | Les chagrins, les hommes, tout part en fumée. | Sorrows, men, it all goes up in smoke. | 841:Les chagrins, les hommes, 842:tout part en fumée |
 
 ## Part 5 — Outro & Closing
-> That's the end of the second episode. It was a long, emotional week at the agency, and you followed it all the way to the last puff of smoke. Take a break, and see you in the next episode.
+> That's the end of the second episode. It was a long, emotional week at the agency, and you followed it all the way to the last puff of smoke. See you next time!
 - **Closing**: `mathias`: *À demain, Camille.*

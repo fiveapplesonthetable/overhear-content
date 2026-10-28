@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 2
 SCENE = 3
 TITLE = "L'eau à température ambiante  (Room-Temperature Water)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "monica": "emilie", "gabriel": "theo"}
-LABELS = {"monica": "Monica", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'monica': 'emilie', 'gabriel': 'theo'}
+LABELS = {'monica': 'Monica', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "At a sunny Parisian street cafe, Monica Bellucci enjoys a drink with her agent Gabriel Sarda. When Monica requests room-temperature water for her vocal cords, Gabriel playfully challenges her claims of living an ordinary life. Let's listen to their amusing exchange in French first."
 OPENER = "Let's explore how Gabriel teases Monica about her diva habits before they explore a bookstore."
 TRANSITION = "Now let's listen to Monica and Gabriel again at full speed."
-OUTRO = "Gabriel playfully exposes the contrast between Monica's glamorous habits and her yearning for an ordinary life. When you watch the episode, listen out for the expressions meaning 'miss' and 'drinking water'. You'll catch them now. See you next time."
-CLOSING = ("monica", "Bonne soirée!")
+OUTRO = "Gabriel playfully exposes the contrast between Monica's glamorous habits and her yearning for an ordinary life. When you watch the episode, listen out for the expressions meaning 'miss' and 'drinking water'. You'll catch them now. See you next time!"
+CLOSING = ('monica', 'Bonne soirée!')
 STORY = [
     ('monica', 'Pardon mademoiselle, cette eau est trop froide.', 'Excuse me miss, this water is too cold.', [(198, 'Mademoiselle, excusez-moi, mais cette eau, elle est vraiment très froide.')], ''),
     ('gabriel', "L'eau froide est mauvaise pour ta gorge?", 'Is cold water bad for your throat?', [(199, 'Trop agressive pour ma gorge.')], ''),

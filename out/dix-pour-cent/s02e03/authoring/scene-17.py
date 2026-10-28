@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 3
 SCENE = 17
 TITLE = "La visite surprise de Catherine  (Catherine's Surprise Visit)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "lea": "lucie"}
-LABELS = {"noemie": "Noémie", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'lea': 'lucie'}
+LABELS = {'noemie': 'Noémie', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "At the agency, Noémie receives a shock when Mathias's estranged wife Catherine arrives asking to see her. Terrified that Catherine has discovered their secret affair, Noémie scrambles for an excuse to flee the office. Listen to the scene in French first."
 OPENER = "Let's examine how Noémie scrambles to hide her secret affair with Mathias."
 TRANSITION = "Now let's listen to the awkward confrontation once more at normal pace."
 OUTRO = "Trapped by her own excuse, Noémie now has to escort Mathias's wife to the very restaurant where Mathias's secret daughter and former lover are waiting. Listen to the entire conversation once more in French. See you next time!"
-CLOSING = ("noemie", "À demain!")
+CLOSING = ('noemie', 'À demain!')
 STORY = [
     ('noemie', 'Catherine Barneville veut me voir?', 'Catherine Barneville wants to see me?', [(423, 'Noémie, Catherine Barneville pour vous voir'), (424, 'Vraiment')], ''),
     ('noemie', 'Dites-lui que Mathias est sorti.', 'Tell her that Mathias went out.', [(425, 'Dites-lui que Mathias est sorti déjeuner')], ''),

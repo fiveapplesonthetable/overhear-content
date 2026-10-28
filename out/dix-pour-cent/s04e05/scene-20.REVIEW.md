@@ -27,5 +27,5 @@
 | 13 | `distributeur` (Le distributeur) | Oui, bien sûr, c'est une bonne idée. | Yes, of course, that is a good idea. | 805:Bonne idée, 806:Bien sûr |
 
 ## Part 5 — Outro & Closing
-> With the entire restaurant cheering her on, Sigourney Weaver convinces the distributor to sign the new contracts right at his table. When you watch the episode, listen out for the expressions meaning 'has lunch' and 'days'. You'll catch them now. See you next time.
+> With the entire restaurant cheering her on, Sigourney Weaver convinces the distributor to sign the new contracts right at his table. When you watch the episode, listen out for the expressions meaning 'has lunch' and 'days'. You'll catch them now. See you next time!
 - **Closing**: `sigourney`: *Bonne journée!*

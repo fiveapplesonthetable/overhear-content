@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 26
-TITLE = "Une nouvelle honnêteté  (A New Honesty)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une nouvelle honnêteté  (A New Honesty)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Stepping out into the pleasant Parisian afternoon, Mathias and Camille walk side by side away from the hospital. Reflecting on his recent decision to speak openly without deceit, Mathias experiences the strange sensation of total honesty. Let's listen to their conversation in French first."
 OPENER = "Let's look at Mathias reflecting on his new perspective step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Walking through Paris together, Mathias discovers that truthfulness brings an unfamiliar yet liberating sense of peace, as Camille encourages him to embrace his new honesty. When you watch the episode, listen out for the expressions meaning 'feel' and 'honest'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "À bientôt!")
+OUTRO = "Walking through Paris together, Mathias discovers that truthfulness brings an unfamiliar yet liberating sense of peace, as Camille encourages him to embrace his new honesty. When you watch the episode, listen out for the expressions meaning 'feel' and 'honest'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'À bientôt!')
 STORY = [
     ('camille', 'Alors, comment tu te sens, Mathias?', 'So, how do you feel, Mathias?', [(918, 'Alors, comment tu te sens ?')], ''),
     ('mathias', 'Je me sens enfin tout à fait honnête!', 'I finally feel completely honest!', [(919, 'Honnête !')], ''),

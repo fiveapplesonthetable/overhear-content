@@ -28,5 +28,5 @@
 | 14 | `audrey` (Audrey) | Bonjour! | Good day! | 638:Bonjour |
 
 ## Part 5 — Outro & Closing
-> Audrey chooses her children over a six-month shoot abroad, even though she still owes the tax office a huge sum. Keep that useful expression 'to have need of' in mind. See you next time.
+> Audrey chooses her children over a six-month shoot abroad, even though she still owes the tax office a huge sum. Keep that useful expression 'to have need of' in mind. See you next time!
 - **Closing**: `audrey`: *À bientôt!*

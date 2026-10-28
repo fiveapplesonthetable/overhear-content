@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 21
-TITLE = "Le tapis rouge  (The Red Carpet)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le tapis rouge  (The Red Carpet)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "hicham": "marcel", "juliette": "emilie"}
-LABELS = {"lea": "Andréa", "hicham": "Hicham", "juliette": "Juliette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'hicham': 'marcel', 'juliette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'hicham': 'Hicham', 'juliette': 'Juliette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "At the Cannes Film Festival, Andréa and Hicham arrive for the prestigious opening ceremony. Backstage, their star client Juliette Binoche suddenly experiences extreme stage fright and an urgent emergency. Let's listen to the scene in French first."
 OPENER = "Let's examine how Andréa and Hicham handle this backstage emergency step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = 'An unexpected panic strikes Juliette Binoche minutes before she must step onto the global stage. Andréa and Hicham must navigate the backstage corridors to avert disaster. Until next time! Join us next time to see what happens next.'
-CLOSING = ("lea", "Bonne journée!")
+OUTRO = 'An unexpected panic strikes Juliette Binoche minutes before she must step onto the global stage. Andréa and Hicham must navigate the backstage corridors to avert disaster. See you next time!'
+CLOSING = ('lea', 'Bonne journée!')
 STORY = [
     ('hicham', 'Tu es très élégante ce soir, Andréa.', 'You are very elegant tonight, Andréa.', [(580, 'Très élégant')], ''),
     ('lea', "Merci Hicham, toi aussi d'ailleurs.", 'Thank you Hicham, you too by the way.', [(580, 'Merci. Toi aussi.')], ''),

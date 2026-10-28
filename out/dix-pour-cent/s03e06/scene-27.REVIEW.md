@@ -27,5 +27,5 @@
 | 13 | `hicham` (Hicham) | Réfléchis bien à cette opportunité. | Think carefully about this opportunity. | 1326:Ça t'intéresse |
 
 ## Part 5 — Outro & Closing
-> Andrea stands in the darkened office, overwhelmed by the prospect of taking full command of ASK. When you watch the episode, listen out for the expressions meaning 'will be' and 'strange'. You'll catch them now. See you next time.
+> Andrea stands in the darkened office, overwhelmed by the prospect of taking full command of ASK. When you watch the episode, listen out for the expressions meaning 'will be' and 'strange'. You'll catch them now. See you next time!
 - **Closing**: `hicham`: *Au revoir!*

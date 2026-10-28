@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 6
 SCENE = 6
-TITLE = "Jean Gabin, sors de là!  (Jean Gabin, Get Out of There!)"
-LEVEL = "A1 — débutant"
+TITLE = 'Jean Gabin, sors de là!  (Jean Gabin, Get Out of There!)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "herve": "marcel"}
-LABELS = {"noemie": "Noémie", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'herve': 'marcel'}
+LABELS = {'noemie': 'Noémie', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Outside Mathias's office, the assistants are buzzing with curiosity. A mysterious luxury bag has arrived, and Noémie is convinced it contains a massive cash loan from Catherine's wealthy father to finance Mathias's takeover of the agency. Let's listen to the scene in French first."
 OPENER = "Let's examine how Noémie's curiosity leads to immediate chaos."
 TRANSITION = "Now let's listen to the scene between Noémie and Hervé once more."
-OUTRO = "Noémie's secret inspection has ended in total catastrophe thanks to Jean Gabin the dog. Meanwhile, Andréa is meeting director Christophe Bel at a restaurant, striking a delicate deal to keep the plastic duck in the production while sparing François from entering the pool. See you next time!"
-CLOSING = ("herve", "Bonne soirée!")
+OUTRO = "Noémie's secret inspection has ended in total catastrophe thanks to Jean Gabin the dog. See you next time!"
+CLOSING = ('herve', 'Bonne soirée!')
 STORY = [
     ('herve', 'Il ne paierait pas en liquide!', 'He would not pay in cash!', [(145, 'Il ne paierait pas en liquide !')], ''),
     ('noemie', 'Si! Le beau-père a des biens immobiliers à Paris.', 'Yes he would! The father-in-law owns real estate in Paris.', [(146, 'Si ! Le beau-père a des biens immobiliers à Paris.')], ''),

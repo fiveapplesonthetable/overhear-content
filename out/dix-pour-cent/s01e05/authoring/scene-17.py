@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 5
 SCENE = 17
-TITLE = "Surprise dans la chambre seize  (Surprise in Room Sixteen)"
-LEVEL = "A1 — débutant"
+TITLE = 'Surprise dans la chambre seize  (Surprise in Room Sixteen)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "colette": "Colette", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e05.fr.dual.srt'
 INTRO = "As she walks to Room Sixteen, Andréa calls Camille in Paris for her messages and wishes her a happy birthday. When she opens her hotel room door, she finds Colette Brancillon waiting inside. Let's listen to the scene in French first; don't worry about catching every word."
 OPENER = "Let's go through it slowly. Andréa opens the door to Room Sixteen and sees Colette on the bed."
 TRANSITION = "Now let's listen to the entire dialogue once more."
 OUTRO = 'As Andréa steps into the hallway to meet Gabriel for dinner, she smiles to herself and admits she has really grown to love this tax audit. See you next time!'
-CLOSING = ("lea", "Bonne soirée!")
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('colette', 'Surprise! Je vérifie les notes de frais.', "What a surprise! I'm checking the expense reports.", [(303, 'Surprise'), (305, 'Je vérifie les notes de frais')], ''),
     ('lea', "Comment tu es entrée dans ma chambre? Ils t'ont laissé entrer?", 'How did you get into my room? They let you in?', [(304, 'comment'), (304, 'dans ma chambre'), (306, "Ils t'ont laissé entrer")], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 25
-TITLE = "Le cœur qui bipe  (The Beeping Heart)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le cœur qui bipe  (The Beeping Heart)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "In his hospital room, Mathias finishes packing his belongings to return home after recovering from his cardiac emergency. Fitted with a medical monitor to track his heart rate, Mathias shares a tender and humorous moment with Camille. Let's listen to their conversation in French first."
 OPENER = "Let's look at Mathias and Camille's warm conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Leaving the hospital after his cardiac episode, Mathias shares a touching moment with Camille as his heart monitor beeps with emotional warmth, marking a new chapter in their relationship. When you watch the episode, listen out for the expressions meaning 'ready' and 'leave'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne journée!")
+OUTRO = "Leaving the hospital after his cardiac episode, Mathias shares a touching moment with Camille as his heart monitor beeps with emotional warmth, marking a new chapter in their relationship. When you watch the episode, listen out for the expressions meaning 'ready' and 'leave'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne journée!')
 STORY = [
     ('camille', 'Mathias, tu es prêt à partir?', 'Mathias, are you ready to leave?', [(917, 'tout le monde')], ''),
     ('mathias', 'Oui, les médecins me laissent sortir.', 'Yes, the doctors are letting me leave.', [(917, 'tout le monde')], ''),

@@ -26,5 +26,5 @@
 | 12 | `lea` (Andréa) | Ce n'est pas humain d'être seule toujours! | It is not human to always be alone! | 149:c'est pas humain |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around watching flora. When you watch the episode, listen out for the expressions meaning 'have not' and 'eaten'. You'll catch them now. See you next time.
+> That's it for this scene around watching flora. When you watch the episode, listen out for the expressions meaning 'have not' and 'eaten'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *Bonne journée!*

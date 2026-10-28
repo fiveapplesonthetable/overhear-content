@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 6
 SCENE = 19
 TITLE = "Le baiser d'adieu  (The Goodbye Kiss)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "On the park bench, a gentle silence settles between Andrea Martel and Colette Brancillon after their painful agreement. Moved by Andrea's unprecedented honesty, Colette shares a tender final kiss that seals their parting with love and respect. Let's listen to their words in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "With a gentle kiss and words of gratitude, Andrea and Colette conclude their love story without bitterness. When you watch the episode, listen out for the expressions meaning 'am listening to' and 'answered'. You'll catch them now. See you next time."
-CLOSING = ("colette", "Bonne journée!")
+OUTRO = "With a gentle kiss and words of gratitude, Andrea and Colette conclude their love story without bitterness. When you watch the episode, listen out for the expressions meaning 'am listening to' and 'answered'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'Bonne journée!')
 STORY = [
     ('lea', 'Tu ne dis rien, Colette?', 'You say nothing, Colette?', [(849, "Tu ne m'as pas répondu...")], ''),
     ('colette', "J'écoute ce que tu me dis.", 'I am listening to what you tell me.', [(849, "Tu ne m'as pas répondu...")], ''),

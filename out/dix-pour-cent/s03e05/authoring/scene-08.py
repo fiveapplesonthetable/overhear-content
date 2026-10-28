@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 8
-TITLE = "La suite de la carrière  (The Next Career Move)"
-LEVEL = "A1 — débutant"
+TITLE = 'La suite de la carrière  (The Next Career Move)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "sofia": "emilie"}
-LABELS = {"herve": "Hervé", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'sofia': 'emilie'}
+LABELS = {'herve': 'Hervé', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "At the ASK agency, young actress Sophia Leprince arrives unannounced to get advice on future projects. Feeling ignored by Mathias, Sophia vents to Camille and Herve about public reactions to her film role. Let's listen to their conversation in French first."
 OPENER = "Let's explore how Camille and Herve reassure Sophia about her career line by line."
 TRANSITION = "Now let's listen to the agency conversation once more from start to finish."
-OUTRO = "That's it for this scene around the next career move. When you watch the episode, listen out for the expressions meaning 'are going' and 'was passing'. You'll catch them now. See you next time."
-CLOSING = ("herve", "Au revoir!")
+OUTRO = "That's it for this scene around the next career move. When you watch the episode, listen out for the expressions meaning 'are going' and 'was passing'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'Au revoir!')
 STORY = [
     ('herve', "Bonjour Sophia, tu vas bien aujourd'hui?", 'Hello Sophia, are you doing well today?', [(246, 'Ça va, Sophia ?')], ''),
     ('sofia', 'Oui, je passais dans le quartier.', 'Yes, I was passing through the neighborhood.', [(249, 'je passais dans le quartier')], ''),

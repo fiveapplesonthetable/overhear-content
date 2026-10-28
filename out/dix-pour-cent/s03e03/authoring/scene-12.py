@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 12
-TITLE = "La future star du cinéma  (The Future Cinema Star)"
-LEVEL = "A1 — débutant"
+TITLE = 'La future star du cinéma  (The Future Cinema Star)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = 'Back at the ASK offices, Mathias angrily confronts Camille for bypassing agency procedure and sending an unvetted client to auditions. Camille proudly fires back, announcing that Samy amazed the producers and landed a crucial callback. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Turning a chaotic casting situation into a major victory, Camille proves her sharp eye for talent to a stunned Mathias. When you watch the episode, listen out for the expressions meaning 'occurred' and 'audition tests'. You'll catch them now. See you next time."
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = "Turning a chaotic casting situation into a major victory, Camille proves her sharp eye for talent to a stunned Mathias. When you watch the episode, listen out for the expressions meaning 'occurred' and 'audition tests'. You'll catch them now. See you next time!"
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('mathias', "Qu'est-ce qui s'est passé aux essais?", 'What happened at the screen tests?', [(530, 'aux essais')], ''),
     ('mathias', "Pourquoi tu n'as pas répondu au téléphone?", 'Why did you not answer the telephone?', [(531, 'répondu au téléphone')], ''),

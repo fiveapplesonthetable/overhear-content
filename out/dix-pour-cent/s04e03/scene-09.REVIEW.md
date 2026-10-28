@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Oui, vous êtes quittes tous les deux! | Yes, you are both even now! | 398:On peut dire ça comme ça |
 
 ## Part 5 — Outro & Closing
-> Relieved to learn that Laurence stood him up twenty years ago just as he did, Jose bursts into laughter. When you watch the episode, listen out for the expressions meaning 'mess up' and 'takes'. You'll catch them now. See you next time.
+> Relieved to learn that Laurence stood him up twenty years ago just as he did, Jose bursts into laughter. When you watch the episode, listen out for the expressions meaning 'mess up' and 'takes'. You'll catch them now. See you next time!
 - **Closing**: `jose`: *Au revoir!*

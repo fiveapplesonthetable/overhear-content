@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 6
-TITLE = "Panique et rumeurs  (Panic and Rumors)"
-LEVEL = "A1 — débutant"
+TITLE = 'Panique et rumeurs  (Panic and Rumors)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "arlette": "emilie", "herve": "marcel"}
-LABELS = {"gabriel": "Gabriel", "arlette": "Arlette", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'arlette': 'emilie', 'herve': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'arlette': 'Arlette', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Outside the Mansart restaurant, senior agent Arlette spots their ruthless rival François Bréhier dining with Samuel Kerr's widow. Meanwhile at the ASK agency, Gabriel and Noémie examine a sensational gossip magazine revealing Virginie Efira's secret lover. Let's listen to the scene in French first."
 OPENER = "Let's examine how rumors and rivalries threaten the agency step by step."
 TRANSITION = "Now let's listen to the entire conversation once more from start to finish."
 OUTRO = "Arlette's discovery confirms the agents' worst fears: François Bréhier is actively trying to buy out ASK while Virginie and Ramzy's romance unravels. Mathias immediately gathers all the partners in the conference room for an emergency financial meeting. See you next time!"
-CLOSING = ("arlette", "Bonne journée!")
+CLOSING = ('arlette', 'Bonne journée!')
 STORY = [
     ('arlette', "C'est le directeur de StarMedia avec la femme de Samuel Kerr.", 'That is the director of StarMédia with Samuel Kerr\\', [(131, "C'est"), (131, "C'est")], ''),
     ('gabriel', "Elle trompe Ramzy? Ce n'est pas possible.", 'She is cheating on Ramzy? That is not possible.', [(128, '-Elle trompe Ramzy ? -Non.')], ''),

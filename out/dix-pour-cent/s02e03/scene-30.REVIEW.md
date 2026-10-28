@@ -30,5 +30,5 @@
 | 16 | `norman` (Norman) | Je conduis? Non. | Should I drive? No. | 846:Je conduis ? Non |
 
 ## Part 5 — Outro & Closing
-> Thanks to Gabriel's clever bluff and a compassionate police officer, Norman regains his confidence and heads toward his big-screen debut. Until next time.
+> Thanks to Gabriel's clever bluff and a compassionate police officer, Norman regains his confidence and heads toward his big-screen debut. See you next time!
 - **Closing**: `norman`: *À bientôt!*

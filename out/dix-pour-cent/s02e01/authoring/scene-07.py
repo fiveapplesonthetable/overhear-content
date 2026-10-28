@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 7
-TITLE = "Réunion de crise financière  (Financial Crisis Meeting)"
-LEVEL = "A1 — débutant"
+TITLE = 'Réunion de crise financière  (Financial Crisis Meeting)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "In the ASK conference room, Mathias calls an urgent meeting of the agency partners to discuss their dire finances. Between sluggish film productions and a massive five hundred thousand euro tax bill, drastic measures are needed immediately. Let's listen to the scene in French first."
 OPENER = "Let's examine how the partners react to the emergency financial proposal step by step."
 TRANSITION = "Now let's listen to the tense partners meeting once more."
-OUTRO = "The partners are in open revolt against Mathias's austerity plan, refusing to accept any salary reductions. Meanwhile, Ramzy Bedia waits anxiously in Mathias's private office, determined to confront his agent about the humiliating magazine cover. See you next time!"
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "The partners are in open revolt against Mathias's austerity plan, refusing to accept any salary reductions. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('mathias', 'Tout le monde est là? On peut commencer.', 'Is everyone here? We can get started.', [(150, 'Tout le monde est là ?')], ''),
     ('lea', "Tu vois bien que oui. Qu'est-ce qui se passe?", 'You can see we are. What is going on?', [(151, 'Tu vois bien que oui.')], ''),

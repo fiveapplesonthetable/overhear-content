@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | C'est plus facile à dire qu'à faire. | It is easier said than done. | 995:service en chambre |
 
 ## Part 5 — Outro & Closing
-> Sharing late-night room service allows Jose and Andrea to open up about life beyond the screen. When you watch the episode, listen out for the expressions meaning 'service' and 'room'. You'll catch them now. See you next time.
+> Sharing late-night room service allows Jose and Andrea to open up about life beyond the screen. When you watch the episode, listen out for the expressions meaning 'service' and 'room'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

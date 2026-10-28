@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 5
 SCENE = 11
 TITLE = "L'accusation d'Hervé  (Herve's Accusation)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "camille": "emilie"}
-LABELS = {"herve": "Hervé", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'camille': 'emilie'}
+LABELS = {'herve': 'Hervé', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the hallway at ASK, Hervé confronts Camille after her sudden promotion to junior agent. Feeling deeply betrayed and suspecting nepotism, Hervé bitterly accuses her of stealing the job behind his back. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = "Hervé vents his bitter disappointment at being passed over for the junior agent post, accusing Camille of benefiting from family nepotism. Camille is left heartbroken by her friend's fierce anger. See you next time!"
-CLOSING = ("herve", "Bonne soirée!")
+CLOSING = ('herve', 'Bonne soirée!')
 STORY = [
     ('herve', "Voici, et celui qu'on appelait Judas!", 'Here it is, and he that was called Judas!', [(309, 'Voici'), (310, "et celui qu'on appelait Judas,")], ''),
     ('herve', 'Judas Barneville, fille de Mathias!', 'Judas Barneville, daughter of Mathias!', [(317, 'Judas Barneville,'), (318, 'fille de Mathias')], ''),

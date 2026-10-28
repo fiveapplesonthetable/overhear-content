@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s02/e03.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "norman": "marcel", "gabriel": "theo"}`
-- **Labels**: `{"norman": "Norman", "gabriel": "Gabriel"}`
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "norman": "marcel"}`
+- **Labels**: `{"gabriel": "Gabriel", "norman": "Norman"}`
 
 ## Part 1 — Intro
 > In the corridors of ASK, agent Gabriel frets over young client Norman Thavaud, who is taking his driving test for the fourth time. While assistant Hervé offers dubious remedies to calm his nerves, Norman stubbornly insists that he is in total control. Listen to the scene in French first. Don't worry about catching every word.

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 3
 SCENE = 18
 TITLE = "L'échec de Julien Doré  (Julien Doré's Flop)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julien": "marcel", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"julien": "Julien", "sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'julien': 'marcel', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'julien': 'Julien', 'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "At a Parisian bistro, director Julien Dore despairs over the terrible premiere numbers for his independent movie. When Sofia angrily exposes Gabriel's secret scheme that wrecked their network funding, an explosive argument turns into an unexpected moment of artistic gratitude. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Turning a catastrophic box office flop into an artistic victory, Julien Dore embraces Gabriel for inadvertently preserving his creative freedom. When you watch the episode, listen out for the expressions meaning 'figures' and 'film'. You'll catch them now. See you next time."
-CLOSING = ("sofia", "Bonne journée!")
+OUTRO = "Turning a catastrophic box office flop into an artistic victory, Julien Dore embraces Gabriel for inadvertently preserving his creative freedom. When you watch the episode, listen out for the expressions meaning 'figures' and 'film'. You'll catch them now. See you next time!"
+CLOSING = ('sofia', 'Bonne journée!')
 STORY = [
     ('julien', 'Les chiffres du film sont catastrophiques.', 'The film', [(1090, 'avoir les chiffres de mon film')], ''),
     ('julien', "Même ma famille n'est pas venue!", 'Even my family did not come!', [(1103, "ma propre famille n'a pas été voir le film")], ''),

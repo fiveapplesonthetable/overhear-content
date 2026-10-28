@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 5
 SCENE = 5
 TITLE = "Le contact de Monica  (Monica's Contact)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elise": "emilie", "gabriel": "theo", "mathias": "marcel"}
-LABELS = {"elise": "Élise", "gabriel": "Gabriel", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'elise': 'emilie', 'gabriel': 'theo', 'mathias': 'marcel'}
+LABELS = {'elise': 'Élise', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "In Gabriel's office, the new agent Elise Formain drops by with a very smooth request. We'll hear their conversation in French first, but don't worry about catching every word."
 OPENER = "Let's walk through it. Elise walks in and asks a favor."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Elise just smoothly extracted a major client's contact from Gabriel. When you watch the episode, listen out for the expressions meaning 'to allow' and 'sure'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À bientôt!")
+OUTRO = "Elise just smoothly extracted a major client's contact from Gabriel. When you watch the episode, listen out for the expressions meaning 'to allow' and 'sure'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À bientôt!')
 STORY = [
     ('elise', 'Je peux me permettre?', 'Can I intrude?', [(250, 'Je peux me permettre ?')], ''),
     ('gabriel', 'Oui, bien sûr.', 'Yes, of course.', [(251, 'Oui, bien sûr.')], ''),

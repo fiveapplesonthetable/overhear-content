@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 2
 SCENE = 2
 TITLE = "Ne me tutoyez pas  (Don't Be So Familiar)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"camille": "Camille", "mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Now it's morning in the agency's lobby. Camille, the new assistant, has been working for Andréa for ten days, and she is worn out. She moans to Hervé, Gabriel's chatty assistant, then takes the lift, and Mathias gets in too. Remember: Mathias is Camille's father, and nobody at the agency knows. We'll hear it in French first; just follow the feeling of it."
 OPENER = "Let's take it slowly. Camille and Hervé walk in together, and she starts complaining straight away."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "You've just seen the casual and the polite 'you' used as a weapon, in a lift. Don't worry if it went fast; the main lines will jump out at you when you watch. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "You've just seen the casual and the polite 'you' used as a weapon, in a lift. Don't worry if it went fast; the main lines will jump out at you when you watch. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('camille', "Je travaille tous les jours jusqu'à vingt-deux heures. C'est dingue.", "I work until ten at night every day. It's crazy.", [(54, 'tous les jours'), (54, "c'est dingue")], ''),
     ('camille', 'Je suis épuisée après seulement dix jours.', 'I', [(55, 'Je suis épuisée après seulement 10 jours')], ''),

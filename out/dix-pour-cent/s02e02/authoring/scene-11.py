@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 11
-TITLE = "La piste de Luchini  (The Luchini Lead)"
-LEVEL = "A1 — débutant"
+TITLE = 'La piste de Luchini  (The Luchini Lead)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "lea": "lucie"}
-LABELS = {"herve": "Hervé", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'lea': 'lucie'}
+LABELS = {'herve': 'Hervé', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "Determined to recruit prestigious actor Fabrice Luchini, Andréa interrogates Hervé for useful intel. Hervé discovers that Luchini works out at a local gym, prompting an intense and hilarious training session. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Armed with Hervé's gym discovery and an agonizing workout session, Andréa prepares to stage a chance encounter. Next, she will confront Fabrice Luchini directly on his home turf. Until next time."
-CLOSING = ("herve", "À bientôt!")
+OUTRO = "Armed with Hervé's gym discovery and an agonizing workout session, Andréa prepares to stage a chance encounter. See you next time!"
+CLOSING = ('herve', 'À bientôt!')
 STORY = [
     ('lea', 'Tu as des infos sur Luchini?', 'Do you have info on Luchini?', [(336, 'Des infos sur Luchini ?')], ''),
     ('herve', "Il n'est pas en couple actuellement.", 'He is not currently in a relationship.', [(337, "Il n'est pas en couple.")], ''),

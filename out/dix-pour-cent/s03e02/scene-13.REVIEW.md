@@ -28,5 +28,5 @@
 | 14 | `gabriel` (Gabriel) | Je suis archi-flatté, mais c'est tabou. | I am extremely flattered, but it is taboo. | 752:archi-flaté, 755:Juste tabou |
 
 ## Part 5 — Outro & Closing
-> Sharing an intimate conversation over photo proofs, Monica Bellucci and Gabriel bond over the contrast between glamour and authenticity. When you watch the episode, listen out for the expressions meaning 'think' and 'promo pictures'. You'll catch them now. See you next time.
+> Sharing an intimate conversation over photo proofs, Monica Bellucci and Gabriel bond over the contrast between glamour and authenticity. When you watch the episode, listen out for the expressions meaning 'think' and 'promo pictures'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

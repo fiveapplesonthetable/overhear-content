@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 17
 TITLE = "L'entretien de Benoît  (Benoît's Interview)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "benoit": "theo"}
-LABELS = {"noemie": "Noémie", "benoit": "Benoît"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'benoit': 'theo'}
+LABELS = {'noemie': 'Noémie', 'benoit': 'Benoît'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = 'In the lobby of ASK, job applicant Benoît Larroque waits nervously for his interview to become an assistant. Noémie offers him a cup of coffee and casually paints a terrifying picture of life assisting Gérard Depardieu. Listen to the scene in French first.'
 OPENER = "Let's examine how Noémie terrifies the new job applicant."
 TRANSITION = "Now let's listen to Noémie's wild warnings once more at normal speed."
-OUTRO = "Frightened by Noémie's absurd warnings, Benoît abandons the interview and rushes out the door. Listen to the hilarious conversation once more in French. Until next time."
-CLOSING = ("benoit", "Bonne soirée!")
+OUTRO = "Frightened by Noémie's absurd warnings, Benoît abandons the interview and rushes out the door. Listen to the hilarious conversation once more in French. See you next time!"
+CLOSING = ('benoit', 'Bonne soirée!')
 STORY = [
     ('noemie', 'Tiens, Benoît. Voici ton café.', 'Here, Benoît. Here is your coffee.', [(448, 'Tiens, Benoît. -Merci')], ''),
     ('benoit', 'Merci. Tu travailles ici?', 'Thanks. Do you work here?', [(450, 'Non, ça va'), (451, 'Merci')], ''),

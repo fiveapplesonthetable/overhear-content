@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 3
 SCENE = 9
 TITLE = "Le trac du chef  (The Chef's Stage Fright)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jose": "theo", "lea": "lucie"}
-LABELS = {"jose": "José", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jose': 'theo', 'lea': 'lucie'}
+LABELS = {'jose': 'José', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "On a movie set where he plays a temperamental restaurant chef, Jose Garcia experiences severe stage fright. After botching a dozen takes in his chef apron, Jose confesses to his agent Andrea that he feels paralyzed around his co-star Laurence. Andrea listens to his worries before delivering an astonishing piece of news. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Relieved to learn that Laurence stood him up twenty years ago just as he did, Jose bursts into laughter. When you watch the episode, listen out for the expressions meaning 'mess up' and 'takes'. You'll catch them now. See you next time."
-CLOSING = ("jose", "Au revoir!")
+OUTRO = "Relieved to learn that Laurence stood him up twenty years ago just as he did, Jose bursts into laughter. When you watch the episode, listen out for the expressions meaning 'mess up' and 'takes'. You'll catch them now. See you next time!"
+CLOSING = ('jose', 'Au revoir!')
 STORY = [
     ('jose', "Je rate toutes mes prises aujourd'hui.", 'I mess up all my takes today.', [(348, "C'est la 12e prise qu'il rate")], ''),
     ('lea', 'Calme-toi José, respire un grand coup.', 'Calm down Jose, take a deep breath.', [(351, '-José'), (354, 'OK ?')], ''),

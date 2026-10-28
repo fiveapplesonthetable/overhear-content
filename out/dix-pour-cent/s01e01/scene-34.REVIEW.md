@@ -30,5 +30,5 @@
 | 16 | `gabriel` (Gabriel) | Et comment! | You bet! | 902:Et comment |
 
 ## Part 5 — Outro & Closing
-> So Cécile keeps her face, and Gabriel gets his client back. Listen out for that happy little yes at the end when you watch, and I'll see you in the next one.
+> So Cécile keeps her face, and Gabriel gets his client back. Listen out for that happy little yes at the end when you watch. See you next time!
 - **Closing**: `gabriel`: *Au revoir!*

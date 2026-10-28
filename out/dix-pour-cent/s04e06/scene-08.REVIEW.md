@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Je suis désolé, il est parti. | I am sorry, he has passed away. | 390:Il est parti |
 
 ## Part 5 — Outro & Closing
-> An angry confrontation between Andrea and Mathias over ASK's downfall is silenced by tragedy when Arlette arrives with her beloved dog Jean, who has passed away. When you watch the episode, listen out for the expressions meaning 'left' and 'fine'. You'll catch them now. See you next time.
+> An angry confrontation between Andrea and Mathias over ASK's downfall is silenced by tragedy when Arlette arrives with her beloved dog Jean, who has passed away. When you watch the episode, listen out for the expressions meaning 'left' and 'fine'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne soirée!*

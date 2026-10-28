@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 1
 SCENE = 3
-TITLE = "La nouvelle direction  (The New Leadership)"
-LEVEL = "A1 — débutant"
+TITLE = 'La nouvelle direction  (The New Leadership)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "arlette": "emilie"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "arlette": "Arlette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'arlette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'arlette': 'Arlette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e01.fr.dual.srt'
 INTRO = "Back at the agency, Andrea Martel takes the reins as general director following Mathias Barneville's departure. Determined to prove that ASK remains strong despite industry rumors, she rallies Gabriel and Arlette around an aggressive new strategy focused on television series and emerging talent. Yet behind her confident front, Andrea struggles with her blunder over Charlotte Gainsbourg's dreadful screenplay. Let's listen to the scene in French first."
 OPENER = "Let's observe as Andrea outlines her bold expansion plan to Gabriel and Arlette."
 TRANSITION = "Now let's listen to Andrea, Gabriel, and Arlette debating their future again at full speed."
-OUTRO = "Andrea lays out a compelling vision for the agency, inspiring her colleagues to embrace new creative horizons. When you watch the episode, listen out for the expressions meaning 'leaving' and 'weakens'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Andrea lays out a compelling vision for the agency, inspiring her colleagues to embrace new creative horizons. When you watch the episode, listen out for the expressions meaning 'leaving' and 'weakens'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('gabriel', 'Le départ de Mathias fragilise notre agence.', 'Mathias', [(81, 'Il rejoint StarMédia')], ''),
     ('lea', "C'est l'occasion de repenser notre travail.", 'It is the opportunity to rethink our work.', [(75, "une belle occasion de repenser l'agence")], ''),

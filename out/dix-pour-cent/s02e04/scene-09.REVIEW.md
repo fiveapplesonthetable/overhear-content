@@ -29,5 +29,5 @@
 | 15 | `sofia` (Sofia) | D'accord, je suis prête. | Okay, I am ready. | 250:D'accord. |
 
 ## Part 5 — Outro & Closing
-> Julien Dore establishes an intimate recording environment for Sofia, isolating her from Gabriel's watchful agency eye. Sofia steps up to the microphone, ready to launch her musical career. Until next time.
+> Julien Dore establishes an intimate recording environment for Sofia, isolating her from Gabriel's watchful agency eye. Sofia steps up to the microphone, ready to launch her musical career. See you next time!
 - **Closing**: `sofia`: *À bientôt!*

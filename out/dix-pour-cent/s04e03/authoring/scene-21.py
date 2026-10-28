@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 3
 SCENE = 21
 TITLE = "Le service d'étage  (Room Service)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "jose": "theo"}
-LABELS = {"lea": "Andréa", "jose": "José"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'jose': 'theo'}
+LABELS = {'lea': 'Andréa', 'jose': 'José'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Sitting down at the table in the hotel room, Jose and Andrea inspect the ordered dishes. Famished from the chaotic day on set, Jose delights in the food and urges Andrea to take a well-deserved break. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Sharing late-night room service allows Jose and Andrea to open up about life beyond the screen. When you watch the episode, listen out for the expressions meaning 'service' and 'room'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "Sharing late-night room service allows Jose and Andrea to open up about life beyond the screen. When you watch the episode, listen out for the expressions meaning 'service' and 'room'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('jose', 'Alors, ce service en chambre arrive?', 'So, is this room service coming?', [(994, 'Alors…'), (995, 'Il y a un service en chambre ?')], ''),
     ('lea', 'Le dîner est déjà bien servi.', 'Dinner is already nicely served.', [(995, 'service en chambre')], ''),

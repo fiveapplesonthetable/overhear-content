@@ -26,5 +26,5 @@
 | 12 | `noemie` (Noémie) | Je pourrais vous mettre en contact avec lui... | I could put you in touch with him... | 176:Je pourrais vous mettre en contact avec lui... |
 
 ## Part 5 — Outro & Closing
-> Noémie is eager to help Mathias recover from his fainting spell by introducing him to her spiritual healer. Meanwhile, Mathias quickly pivots back to business as an aspiring young actor enters his office. See you next time!
+> Noémie is eager to help Mathias recover from his fainting spell by introducing him to her spiritual healer. See you next time!
 - **Closing**: `noemie`: *Bonne journée!*

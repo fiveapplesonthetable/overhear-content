@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s03/e05.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "sofia": "emilie", "herve": "marcel"}`
-- **Labels**: `{"sofia": "Sofia", "herve": "Hervé"}`
+- **Voices**: `{"narrator": "sky", "herve": "marcel", "sofia": "emilie"}`
+- **Labels**: `{"herve": "Hervé", "sofia": "Sofia"}`
 
 ## Part 1 — Intro
 > At the ASK agency, young actress Sophia Leprince arrives unannounced to get advice on future projects. Feeling ignored by Mathias, Sophia vents to Camille and Herve about public reactions to her film role. Let's listen to their conversation in French first.
@@ -26,5 +26,5 @@
 | 12 | `herve` (Hervé) | Tu vas bientôt décrocher un grand rôle! | You will soon land a great role! | 260:attendre la bonne proposition |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the next career move. When you watch the episode, listen out for the expressions meaning 'are going' and 'was passing'. You'll catch them now. See you next time.
+> That's it for this scene around the next career move. When you watch the episode, listen out for the expressions meaning 'are going' and 'was passing'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *Au revoir!*

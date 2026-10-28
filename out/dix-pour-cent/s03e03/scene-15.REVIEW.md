@@ -27,5 +27,5 @@
 | 13 | `samy` (Samy) | Merci beaucoup pour votre aide, Gérard! | Thank you so much for your help, Gerard! | 909:Merci, Gérard |
 
 ## Part 5 — Outro & Closing
-> Generosity wins out over frustration as Gerard Lanvin steps up to support a young talent. When you watch the episode, listen out for the expressions meaning 'is not' and 'hired'. You'll catch them now. See you next time.
+> Generosity wins out over frustration as Gerard Lanvin steps up to support a young talent. When you watch the episode, listen out for the expressions meaning 'is not' and 'hired'. You'll catch them now. See you next time!
 - **Closing**: `gerard`: *Au revoir!*

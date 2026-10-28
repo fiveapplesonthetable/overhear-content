@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Ces profiteroles étaient une urgence absolue! | These profiteroles were an absolute emergency! | 1023:C'était une urgence |
 
 ## Part 5 — Outro & Closing
-> Sealing their pact over profiteroles, Jose and Andrea find comforting friendship in the midst of turmoil. When you watch the episode, listen out for the expressions meaning 'news' and 'screwed up'. You'll catch them now. See you next time.
+> Sealing their pact over profiteroles, Jose and Andrea find comforting friendship in the midst of turmoil. When you watch the episode, listen out for the expressions meaning 'news' and 'screwed up'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne journée!*

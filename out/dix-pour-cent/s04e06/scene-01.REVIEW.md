@@ -27,5 +27,5 @@
 | 13 | `jean` (Jean) | J'en ai marre! Assez! | FIXME translation | 55:J'en ai marre! Assez de ces conneries! |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the little cat. When you watch the episode, listen out for the expressions meaning 'to know' and 'to be'. You'll catch them now. See you next time.
+> That's it for this scene around the little cat. When you watch the episode, listen out for the expressions meaning 'to know' and 'to be'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Au revoir!*

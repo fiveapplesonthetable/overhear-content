@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 4
-TITLE = "Le contrat de Camille  (Extending the Contract)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le contrat de Camille  (Extending the Contract)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "mathias": "marcel"}
-LABELS = {"camille": "Camille", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'mathias': 'marcel'}
+LABELS = {'camille': 'Camille', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the hallway at ASK, Camille approaches Mathias to sign her contract extension. With Andréa angry over recent agency drama and refusing to sign, Camille fears for her job, while Mathias urges her to keep a low profile. Let's listen to the scene in French first."
 OPENER = "Let's examine how Camille negotiates her contract extension with Mathias."
 TRANSITION = "Now let's listen to Camille and Mathias's tense conversation again at full speed."
-OUTRO = "Camille refuses Mathias's offer of cash, insisting on the formal recognition of her contract. Her determination shows her professional pride as she fights for her rightful place at ASK. Until next time."
-CLOSING = ("camille", "Au revoir!")
+OUTRO = "Camille refuses Mathias's offer of cash, insisting on the formal recognition of her contract. Her determination shows her professional pride as she fights for her rightful place at ASK. See you next time!"
+CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('camille', 'Mathias, peux-tu signer mon contrat de travail?', 'Mathias, can you sign my employment contract?', [(119, "Vous pouvez signer mon contrat, s'il vous plaît ?")], ''),
     ('mathias', "Désolé Camille, je n'ai vraiment pas le temps.", 'Sorry Camille, I really do not have time.', [(115, "Désolé, je n'ai pas le temps.")], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 5
 SCENE = 24
-TITLE = "Au bord du précipice  (On the Edge of the Precipice)"
-LEVEL = "A1 — débutant"
+TITLE = 'Au bord du précipice  (On the Edge of the Precipice)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "lea": "lucie"}
-LABELS = {"hicham": "Hicham", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'lea': 'lucie'}
+LABELS = {'hicham': 'Hicham', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "In a quiet Parisian bar, Andrea enjoys her first night out since giving birth, having drinks with Hicham. Confronted by the mounting turmoil at ASK, they both admit that walking away right now would be a terrible mistake. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "In a relaxed Parisian bar, Andrea and Hicham realize that staying together at ASK matters more than jumping into the void. When you watch the episode, listen out for the expressions meaning 'left' and 'alone'. You'll catch them now. See you next time."
-CLOSING = ("hicham", "À demain!")
+OUTRO = "In a relaxed Parisian bar, Andrea and Hicham realize that staying together at ASK matters more than jumping into the void. When you watch the episode, listen out for the expressions meaning 'left' and 'alone'. You'll catch them now. See you next time!"
+CLOSING = ('hicham', 'À demain!')
 STORY = [
     ('hicham', 'Tu as laissé Colette seule ce soir?', 'Did you leave Colette alone tonight?', [(1004, 'tu plantes ta femme')], ''),
     ('lea', 'Sa mère est présente à la maison.', 'Her mother is present at the house.', [(1005, 'sa mère à la maison')], ''),

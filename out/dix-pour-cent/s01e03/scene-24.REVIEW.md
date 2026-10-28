@@ -31,5 +31,5 @@
 | 17 | `gabriel` (Gabriel) | Les affaires reprennent! | Business is picking up again! | 639:Les affaires reprennent |
 
 ## Part 5 — Outro & Closing
-> Gabriel's outrageous story about French actors shooting themselves in the foot worked a little too well: now Solveig Akerfelt wants to see both Nathalie Baye and Laura Smet together in the same room. See you next time.
+> Gabriel's outrageous story about French actors shooting themselves in the foot worked a little too well: now Solveig Akerfelt wants to see both Nathalie Baye and Laura Smet together in the same room. See you next time!
 - **Closing**: `gabriel`: *À tout à l'heure!*

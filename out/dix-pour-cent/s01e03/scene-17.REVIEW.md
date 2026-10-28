@@ -29,5 +29,5 @@
 | 15 | `nathalie` (Nathalie) | C'est plus neutre? | Is that more neutral? | 445:C'est plus neutre |
 
 ## Part 5 — Outro & Closing
-> Nathalie can't act badly even when she tries, and you followed a whole audition in French. Next it's Laura's turn, so see you there.
+> Nathalie can't act badly even when she tries, and you followed a whole audition in French. See you next time!
 - **Closing**: `mathias`: *Au revoir!*

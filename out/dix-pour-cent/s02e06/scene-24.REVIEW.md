@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Elle retombe toujours sur ses pieds! | She always lands on her feet! | 697:Elle retombe sur ses pieds ! |
 
 ## Part 5 — Outro & Closing
-> Turning a potential wardrobe disaster into an unforgettable speech, Juliette Binoche electrifies the audience and officially launches the festival. Until next time! See you next time!
+> Turning a potential wardrobe disaster into an unforgettable speech, Juliette Binoche electrifies the audience and officially launches the festival. See you next time!
 - **Closing**: `gabriel`: *À demain!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 5
-TITLE = "Affaire de famille  (A Family Matter)"
-LEVEL = "A1 — débutant"
+TITLE = 'Affaire de famille  (A Family Matter)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "herve": "marcel", "lea": "lucie"}
-LABELS = {"camille": "Camille", "herve": "Hervé", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At the ASK agency, Mathias Barneville takes his daughter Camille aside to speak about family trust and loyalty. Feeling uneasy after his questioning, Camille immediately runs to Herve to find out if Mathias knows their secret. Let's listen to their conversation in French first."
 OPENER = "Let's explore how Mathias questions Camille and how Herve reacts line by line."
 TRANSITION = "Now let's listen to the full conversation once more to reinforce the key phrases."
-OUTRO = "That's it for this scene around a family matter. When you watch the episode, listen out for the expressions meaning 'the agency' and 'second'. You'll catch them now. See you next time."
-CLOSING = ("herve", "À demain!")
+OUTRO = "That's it for this scene around a family matter. When you watch the episode, listen out for the expressions meaning 'the agency' and 'second'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'À demain!')
 STORY = [
     ('lea', "L'agence est ma deuxième famille.", 'The agency is my second family.', [(221, "L'agence, c'est ma deuxième famille.")], ''),
     ('lea', 'Et toi, tu es ma famille ici.', 'And you are my family here.', [(222, 'tu es ma famille')], ''),

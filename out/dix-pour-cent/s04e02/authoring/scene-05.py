@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 2
 SCENE = 5
-TITLE = "La perle rare  (The Rare Pearl)"
-LEVEL = "A1 — débutant"
+TITLE = 'La perle rare  (The Rare Pearl)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "gabriel": "theo"}
-LABELS = {"camille": "Camille", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'gabriel': 'theo'}
+LABELS = {'camille': 'Camille', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e02.fr.dual.srt'
 INTRO = "At the ASK agency, Camille searches desperately for an unusual actress to satisfy director Valerie Donzelli. Arlette passes on legendary advice from founder Samuel Kerr about scouting authentic faces in the street. Let's listen to their exchange in French first."
 OPENER = "Let's explore Camille and Arlette's casting discussion line by line."
 TRANSITION = "Now let's listen to Camille and Arlette's dialogue once more from start to finish."
-OUTRO = "That's it for this scene around the rare pearl. When you watch the episode, listen out for the expressions meaning 'director' and 'refuses'. You'll catch them now. See you next time."
-CLOSING = ("camille", "Au revoir!")
+OUTRO = "That's it for this scene around the rare pearl. When you watch the episode, listen out for the expressions meaning 'director' and 'refuses'. You'll catch them now. See you next time!"
+CLOSING = ('camille', 'Au revoir!')
 STORY = [
     ('camille', 'La réalisatrice refuse toutes mes actrices.', 'The director rejects all my actresses.', [(322, 'Elle refuse toutes mes actrices.')], ''),
     ('gabriel', 'Pourquoi? Tes comédiennes sont pourtant très bien.', 'Why? Your actresses are very good though.', [(323, 'Tes filles sont bien.')], ''),

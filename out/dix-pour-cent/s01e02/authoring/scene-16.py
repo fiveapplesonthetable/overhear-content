@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 2
 SCENE = 16
 TITLE = "Vous êtes toute ma famille  (You're All My Family)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "arlette": "emilie", "lea": "lucie", "damien": "theo"}
-LABELS = {"arlette": "Arlette", "lea": "Andréa", "damien": "Damien"}
+VOICES = {'narrator': 'sky', 'arlette': 'emilie', 'lea': 'lucie', 'damien': 'theo'}
+LABELS = {'arlette': 'Arlette', 'lea': 'Andréa', 'damien': 'Damien'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "She opened her bank's website and stared at her account. Then, to take her mind off it, she tried a dating site, and a chat with a stranger went badly wrong; she logged off, furious. Now, exhausted, she joins Arlette, the oldest agent in Paris, and her little dog Jean Gabin. As usual, French first, and don't worry about every word."
 OPENER = "Let's go through it. Arlette greets Andréa with a word of affection and a little telling-off."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "That's the end of this scene: a sad night, then a warm morning, all in French. When you watch it, listen for Arlette telling them they're all her family. Bye for now. See you next time!"
-CLOSING = ("arlette", "À tout à l'heure!")
+OUTRO = "That's the end of this scene: a sad night, then a warm morning, all in French. When you watch it, listen for Arlette telling them they're all her family. See you next time!"
+CLOSING = ('arlette', "À tout à l'heure!")
 STORY = [
     ('arlette', 'Ça va, chérie? Tu es en retard.', 'All right, darling? You', [(474, 'Ça va, chérie ? Tu es en retard.')], ''),
     ('damien', 'Un café?', 'A coffee?', [(474, 'Un café ?')], ''),

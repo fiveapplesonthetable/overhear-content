@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 19
-TITLE = "Le couple improbable  (The Improbable Couple)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le couple improbable  (The Improbable Couple)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "guillaume": "theo", "sigourney": "emilie"}
-LABELS = {"guillaume": "Guillaume", "sigourney": "Sigourney"}
+VOICES = {'narrator': 'sky', 'guillaume': 'theo', 'sigourney': 'emilie'}
+LABELS = {'guillaume': 'Guillaume', 'sigourney': 'Sigourney'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "After seeing Sigourney Weaver with young actor Gaspard Ulliel, director Guillaume decides to switch the roles in his movie. However, when Sigourney joins him at a cafe, they learn that the distributor has abruptly pulled out. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Refusing to let the film fall apart, Sigourney Weaver prepares to confront the distributor directly. When you watch the episode, listen out for the expressions meaning 'does' and 'buys'. You'll catch them now. See you next time."
-CLOSING = ("sigourney", "Bonne soirée!")
+OUTRO = "Refusing to let the film fall apart, Sigourney Weaver prepares to confront the distributor directly. When you watch the episode, listen out for the expressions meaning 'does' and 'buys'. You'll catch them now. See you next time!"
+CLOSING = ('sigourney', 'Bonne soirée!')
 STORY = [
     ('guillaume', "Qu'est-ce qu'elle fait là-bas?", 'What is she doing over there?', [(744, "Qu'est-ce qu'elle fait")], ''),
     ('guillaume', "Elle s'achète une tour Eiffel?", 'Is she buying herself an Eiffel Tower?', [(745, "Elle s'achète une miniature de la tour Eiffel")], ''),

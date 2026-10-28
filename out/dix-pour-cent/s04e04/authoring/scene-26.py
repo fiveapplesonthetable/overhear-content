@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 4
 SCENE = 26
-TITLE = "Les limites de la gentillesse  (The Limits of Kindness)"
-LEVEL = "A1 — débutant"
+TITLE = 'Les limites de la gentillesse  (The Limits of Kindness)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e04.fr.dual.srt'
 INTRO = "Outside a nightclub late at night, Gabriel arrives after driving across Paris to rescue Sofia, who claimed to be stranded without money. When Sofia reveals it was merely a coat check misunderstanding and asks for a ride to an afterparty, Gabriel finally decides to stand his ground. Let's listen to their conversation in French first."
 OPENER = "Let's examine Gabriel and Sofia's late night encounter line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Tired of being taken for granted, Gabriel refuses to chauffeur Sofia and her friend to a late-night party, drawing a clear line and asserting his independence. When you watch the episode, listen out for the expressions meaning 'goes' and 'savior'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne journée!")
+OUTRO = "Tired of being taken for granted, Gabriel refuses to chauffeur Sofia and her friend to a late-night party, drawing a clear line and asserting his independence. When you watch the episode, listen out for the expressions meaning 'goes' and 'savior'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne journée!')
 STORY = [
     ('gabriel', 'Sofia, comment ça va maintenant?', 'Sofia, how are you doing now?', [(1216, 'Ça va ?')], ''),
     ('sofia', 'Oh, voilà enfin mon sauveur adoré!', 'Oh, here is finally my beloved savior!', [(1217, 'mon sauveur')], ''),

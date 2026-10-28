@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | Merci Andréa, j'en avais grand besoin. | Thank you Andrea, I really needed it. | 658:Excuse-moi |
 
 ## Part 5 — Outro & Closing
-> Andrea steps in to support Colette with baby Flora after a long day at ASK. When you watch the episode, listen out for the expressions meaning 'sorry' and 'made'. You'll catch them now. See you next time.
+> Andrea steps in to support Colette with baby Flora after a long day at ASK. When you watch the episode, listen out for the expressions meaning 'sorry' and 'made'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *À demain!*

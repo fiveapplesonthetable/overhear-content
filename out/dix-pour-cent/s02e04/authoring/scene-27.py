@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 27
 TITLE = "L'improvisation humiliante  (The Humiliating Improvisation)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "sacha": "theo", "lea": "lucie"}
-LABELS = {"isabelle": "Isabelle", "sacha": "Sacha", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'sacha': 'theo', 'lea': 'lucie'}
+LABELS = {'isabelle': 'Isabelle', 'sacha': 'Sacha', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At the production office, Isabelle Adjani meets young director Sacha Hartman for an audition. Sacha treats the legendary star coldly, demanding an apology improvisation before Camille reveals the true misunderstanding. Let's listen to the scene in French first."
 OPENER = "Let's examine how this tense confrontation unfolds and how Camille steps in to clear the air."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "Camille's honest confession resolves the bitter grievance between Sacha and Isabelle, restoring goodwill. Let's review the theatrical and dispute-resolution vocabulary from this scene. Join us next time to see what happens next."
-CLOSING = ("isabelle", "Bonne soirée!")
+OUTRO = "Camille's honest confession resolves the bitter grievance between Sacha and Isabelle, restoring goodwill. Let's review the theatrical and dispute-resolution vocabulary from this scene. See you next time!"
+CLOSING = ('isabelle', 'Bonne soirée!')
 STORY = [
     ('isabelle', 'Je suis là pour voir Sacha Hartman.', 'I am here to see Sacha Hartman.', [(785, '-Je suis là pour voir Sacha Hartman. -Oui, bien sûr.')], ''),
     ('sacha', "Merci d'être venue pour notre rendez-vous.", 'Thank you for coming to our meeting.', [(796, "Merci d'être venue. On sera rapides, apparemment vous êtes occupée.")], ''),

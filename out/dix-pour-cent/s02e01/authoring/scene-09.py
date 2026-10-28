@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 1
 SCENE = 9
 TITLE = "L'agent de façade  (The Front Agent)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "virginie": "emilie", "gabriel": "theo", "mathias": "marcel"}
-LABELS = {"virginie": "Virginie", "gabriel": "Gabriel", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'virginie': 'emilie', 'gabriel': 'theo', 'mathias': 'marcel'}
+LABELS = {'virginie': 'Virginie', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "At the ASK offices, actress Virginie Efira arrives in complete distress. Scandalous magazine photos showed her kissing an old flame in Brussels, and her partner Ramzy Bedia immediately threw her out of their apartment. Now Mathias and Gabriel must manage the crisis. Let's listen to the scene in French first."
 OPENER = "Let's examine how Gabriel and Mathias try to reassure a panicked actress."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Gabriel has agreed to become Virginie's public agent while Mathias represents Ramzy. next time, Mathias will try to talk some sense into Ramzy himself."
-CLOSING = ("virginie", "À demain!")
+OUTRO = "Gabriel has agreed to become Virginie's public agent while Mathias represents Ramzy. See you next time!"
+CLOSING = ('virginie', 'À demain!')
 STORY = [
     ('gabriel', "Virginie, bonjour! Merci d'être là.", 'Virginie, hello! Thank you for being here.', [(196, 'Virginie, bonjour !'), (197, "Merci d'être là.")], ''),
     ('virginie', "Il m'a donné trente minutes pour faire ma valise.", 'He gave me thirty minutes to pack my suitcase.', [(200, "Il m'a donné 30 minutes pour faire ma valise.")], ''),

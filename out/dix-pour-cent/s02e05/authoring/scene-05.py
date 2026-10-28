@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 5
-TITLE = "La moustache de Gabin  (The Mustache)"
-LEVEL = "A1 — débutant"
+TITLE = 'La moustache de Gabin  (The Mustache)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "herve": "marcel", "camille": "emilie"}
-LABELS = {"herve": "Hervé", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'herve': 'marcel', 'camille': 'emilie'}
+LABELS = {'herve': 'Hervé', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In the hallway at ASK, Hervé teases Camille following the explosive revelation about her parentage. Camille struggles with how her colleagues perceive her, while Hervé tries to cheer her up with movie references. Let's listen to the scene in French first."
 OPENER = "Let's examine how Hervé and Camille discuss her new status step by step to understand the humor and emotion."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = "Hervé uses humor and cinema references to cheer up Camille as she adjusts to life in the spotlight at ASK. Let's review the conversational phrases and vocabulary from this scene. See you next time!"
-CLOSING = ("herve", "À demain!")
+CLOSING = ('herve', 'À demain!')
 STORY = [
     ('herve', "Arrête, Jean Gabin, c'est Camille!", 'Stop it, Jean Gabin, it', [(137, "Arrête, Jean Gabin, c'est Camille.")], ''),
     ('camille', 'Ne lui en veux pas trop.', 'Do not hold it against him too much.', [(139, 'Ne lui en veux pas.')], ''),

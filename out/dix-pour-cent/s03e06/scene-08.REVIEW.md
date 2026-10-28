@@ -26,5 +26,5 @@
 | 12 | `isabelle` (Isabelle) | Faites confiance à une infirmière diplômée! | Trust a certified nurse! | 448:au cinéma ? |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around the geisha and the corpse. When you watch the episode, listen out for the expressions meaning 'it is' and 'I have'. You'll catch them now. See you next time.
+> That's it for this scene around the geisha and the corpse. When you watch the episode, listen out for the expressions meaning 'it is' and 'I have'. You'll catch them now. See you next time!
 - **Closing**: `isabelle`: *À demain!*

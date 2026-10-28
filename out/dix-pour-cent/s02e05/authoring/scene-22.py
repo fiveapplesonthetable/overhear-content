@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 22
-TITLE = "Refuser la promotion  (Turning Down the Promotion)"
-LEVEL = "A1 — débutant"
+TITLE = 'Refuser la promotion  (Turning Down the Promotion)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hicham": "marcel", "camille": "emilie"}
-LABELS = {"hicham": "Hicham", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'hicham': 'marcel', 'camille': 'emilie'}
+LABELS = {'hicham': 'Hicham', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In Hicham's sleek office, Camille arrives determined to decline the offer of becoming a junior agent. Hoping to remain Andréa's assistant, Camille faces a ruthless ultimatum from the ambitious agency owner. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Now let's break down the scene step by step. Listen to each line, followed by its meaning and a short explanation."
 TRANSITION = "Now let's listen to the entire exchange once more from beginning to end."
-OUTRO = "Stunned by Hicham's brutal ultimatum, Camille realizes she cannot easily step backward in her agency career. Remember the colloquial French idiom for leaving or being dismissed: prendre la porte. Join us next time to see what happens next."
-CLOSING = ("hicham", "Bonne journée!")
+OUTRO = "Stunned by Hicham's brutal ultimatum, Camille realizes she cannot easily step backward in her agency career. Remember the colloquial French idiom for leaving or being dismissed: prendre la porte. See you next time!"
+CLOSING = ('hicham', 'Bonne journée!')
 STORY = [
     ('camille', "Je refuse le poste d'agent junior.", 'I refuse the junior agent job.', [(675, "Je ne prends pas le poste d'agent junior.")], ''),
     ('hicham', "Répète un peu, je n'ai pas compris.", 'Say that again, I did not understand.', [(676, "Répète, je n'ai pas compris.")], ''),

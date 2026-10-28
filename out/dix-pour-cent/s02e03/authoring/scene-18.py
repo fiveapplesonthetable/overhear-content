@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 18
-TITLE = "Une rencontre embarrassante  (An Awkward Encounter)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une rencontre embarrassante  (An Awkward Encounter)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "catherine": "emilie", "mathias": "marcel", "lea": "lucie"}
-LABELS = {"catherine": "Catherine", "mathias": "Mathias", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'catherine': 'emilie', 'mathias': 'marcel', 'lea': 'lucie'}
+LABELS = {'catherine': 'Catherine', 'mathias': 'Mathias', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'At Le Grand Colbert restaurant, Mathias is having lunch with Camille and her mother Annick when Catherine arrives unexpectedly. A mortified Noémie stands beside her as Mathias tries to control the deeply uncomfortable situation. Listen to the scene in French first.'
 OPENER = "Let's examine how Catherine unexpectedly joins Mathias for a family lunch."
 TRANSITION = "Now let's listen to the icy encounter at Le Grand Colbert once more."
-OUTRO = 'With ice in the air, Catherine takes her seat opposite Annick, leaving Mathias trapped between his past and present. Until next time.'
-CLOSING = ("catherine", "Bonne soirée!")
+OUTRO = 'With ice in the air, Catherine takes her seat opposite Annick, leaving Mathias trapped between his past and present. See you next time!'
+CLOSING = ('catherine', 'Bonne soirée!')
 STORY = [
     ('catherine', 'Annick, je présume?', 'Annick, I presume?', [(452, 'Annick, je présume')], ''),
     ('catherine', 'Je suis Catherine Barneville.', 'I am Catherine Barneville.', [(453, 'Catherine Barneville')], ''),

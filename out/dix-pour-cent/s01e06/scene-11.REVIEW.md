@@ -29,5 +29,5 @@
 | 15 | `camille` (Camille) | Tchin, frote! | Cheers, brother-buddy! | adapted |
 
 ## Part 5 — Outro & Closing
-> Having made peace with their unusual family bond, Camille and Hippolyte raise their cups together. Meanwhile, Andréa drives out to the countryside to track down François Berléand. Here is our final toast. Until next time.
+> Having made peace with their unusual family bond, Camille and Hippolyte raise their cups together. Here is our final toast. See you next time!
 - **Closing**: `camille`: *Bonne soirée!*

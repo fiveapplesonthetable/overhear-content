@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 3
 SCENE = 20
-TITLE = "Envoyer à la casse  (Sent to the Scrap Heap)"
-LEVEL = "A1 — débutant"
+TITLE = 'Envoyer à la casse  (Sent to the Scrap Heap)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gerard": "theo", "samy": "marcel"}
-LABELS = {"gerard": "Gérard", "samy": "Samy"}
+VOICES = {'narrator': 'sky', 'gerard': 'theo', 'samy': 'marcel'}
+LABELS = {'gerard': 'Gérard', 'samy': 'Samy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e03.fr.dual.srt'
 INTRO = "Sitting together on the curb outside, Gerard Lanvin stuns Samy by revealing why their scene felt so difficult. Far from being disappointed in Samy, Gerard admits he panicked in the face of the young man's raw talent and vibrant youth. Let's listen to their conversation in French first."
 OPENER = "Let's observe how Gerard confesses his secret fear of the raw talent of the younger actor."
 TRANSITION = "Now let's listen to Gerard and Samy again at normal speed."
-OUTRO = "Gerard's honest confession breaks down the barrier between seasoned movie star and anxious newcomer. When you watch the episode, listen out for the expressions meaning 'actors' and 'great'. You'll catch them now. See you next time."
-CLOSING = ("gerard", "Au revoir!")
+OUTRO = "Gerard's honest confession breaks down the barrier between seasoned movie star and anxious newcomer. When you watch the episode, listen out for the expressions meaning 'actors' and 'great'. You'll catch them now. See you next time!"
+CLOSING = ('gerard', 'Au revoir!')
 STORY = [
     ('gerard', 'Les acteurs ont toujours deux grandes peurs.', 'Actors always have two great fears.', [], ''),
     ('samy', 'La peur de quoi, Gérard?', 'Fear of what, Gerard?', [(1221, 'Je comprends pas, là.')], ''),

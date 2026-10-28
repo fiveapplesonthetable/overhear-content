@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 20
 TITLE = "Le sosie d'Isabelle  (Isabelle's Double)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "noemie": "emilie", "lea": "lucie"}
-LABELS = {"noemie": "Noémie", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'noemie': 'emilie', 'lea': 'lucie'}
+LABELS = {'noemie': 'Noémie', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "At the ASK anniversary party, Corinne arrives and strikes up a conversation with Noemie. Corinne innocently reveals that she acted as the secret double for Isabelle Huppert, causing Noemie to panic over what the producers might discover. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Noemie leaves Corinne in the party crowd as panic spreads through ASK. When you watch the episode, listen out for the expressions meaning 'good evening' and 'am looking for'. You'll catch them now. See you next time."
-CLOSING = ("noemie", "Bonne journée!")
+OUTRO = "Noemie leaves Corinne in the party crowd as panic spreads through ASK. When you watch the episode, listen out for the expressions meaning 'good evening' and 'am looking for'. You'll catch them now. See you next time!"
+CLOSING = ('noemie', 'Bonne journée!')
 STORY = [
     ('lea', 'Bonsoir, je cherche les organisateurs.', 'Good evening, I am looking for the organizers.', [(981, 'Bonsoir')], ''),
     ('noemie', 'Bonsoir, je suis Noémie, assistante.', 'Good evening, I am Noemie, assistant.', [(983, 'Je suis Noémie')], ''),

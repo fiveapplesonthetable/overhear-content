@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Tu as joué en solitaire et tu as perdu. | You played solo and you lost. | 1290:t'as perdu |
 
 ## Part 5 — Outro & Closing
-> As Hicham leads the room in celebrating Arlette, Andrea delivers a stinging lesson to a defeated Mathias. When you watch the episode, listen out for the expressions meaning 'good evening' and 'world'. You'll catch them now. See you next time.
+> As Hicham leads the room in celebrating Arlette, Andrea delivers a stinging lesson to a defeated Mathias. When you watch the episode, listen out for the expressions meaning 'good evening' and 'world'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

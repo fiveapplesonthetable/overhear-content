@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 5
 SCENE = 1
-TITLE = "Une balade à vélo  (Riding a Bike)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une balade à vélo  (Riding a Bike)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "hippolyte": "theo", "guy": "marcel"}
-LABELS = {"hippolyte": "Hippolyte", "guy": "Guy"}
+VOICES = {'narrator': 'sky', 'hippolyte': 'theo', 'guy': 'marcel'}
+LABELS = {'hippolyte': 'Hippolyte', 'guy': 'Guy'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e05.fr.dual.srt'
 INTRO = "In Episode 5 of Season 2 of Dix pour cent, beloved comic actor Guy Marchand suffers sudden memory lapses right in the middle of a film shoot, leaving Mathias and Camille scrambling to protect his dignity and keep the production alive. We begin in Mathias's office as he meets screenwriter Hippolyte Rivière. You'll hear the whole exchange in French first — don't worry about catching every word."
 OPENER = "Let's examine how Hippolyte and Guy encourage each other before the rehearsal."
 TRANSITION = "Now let's listen to Hippolyte and Guy's friendly chat again at full speed."
 OUTRO = 'Hippolyte and Guy share mutual respect as actors, preparing to rehearse their upcoming scene together. Their relaxed conversation masks the underlying pressure of the first day on set. See you next time!'
-CLOSING = ("guy", "Bonne soirée!")
+CLOSING = ('guy', 'Bonne soirée!')
 STORY = [
     ('hippolyte', 'Je me suis mis au vélo récemment.', 'I took up cycling recently.', [(1, "Je m'y suis mis il y a quelques années.")], ''),
     ('hippolyte', "J'adore vraiment faire du sport le matin.", 'I really love doing sport in the morning.', [(2, "J'adore ça.")], ''),

@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | C'est une très mauvaise idée. | That is a very bad idea. | 680:Il ne respecte rien. |
 
 ## Part 5 — Outro & Closing
-> Norman gives in to Elvis's teasing and drives off into the night in Hicham's car. A disastrous joyride is about to unfold. Until next time.
+> Norman gives in to Elvis's teasing and drives off into the night in Hicham's car. A disastrous joyride is about to unfold. See you next time!
 - **Closing**: `norman`: *Au revoir!*

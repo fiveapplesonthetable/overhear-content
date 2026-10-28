@@ -27,5 +27,5 @@
 | 13 | `sigourney` (Sigourney) | Merci! Ah, le voilà qui arrive! | Thank you! Ah, here he comes! | adapted |
 
 ## Part 5 — Outro & Closing
-> Holding her new miniature Eiffel Tower, Sigourney walks forward to greet her guest on the bridge. When you watch the episode, listen out for the expressions meaning 'footbridge' and 'view'. You'll catch them now. See you next time.
+> Holding her new miniature Eiffel Tower, Sigourney walks forward to greet her guest on the bridge. When you watch the episode, listen out for the expressions meaning 'footbridge' and 'view'. You'll catch them now. See you next time!
 - **Closing**: `vendeur`: *Bonne journée à Paris!*

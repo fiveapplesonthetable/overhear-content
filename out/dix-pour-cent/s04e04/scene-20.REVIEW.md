@@ -27,5 +27,5 @@
 | 13 | `sandrine` (Sandrine) | À demain matin à l'agence! | See you tomorrow morning at the agency! | 1144:Tu rentres ? |
 
 ## Part 5 — Outro & Closing
-> Gabriel watches Sandrine disappear down the avenue on her scooter, shaking his head in amused disbelief. When you watch the episode, listen out for the expressions meaning 'arrives' and 'minutes'. You'll catch them now. See you next time.
+> Gabriel watches Sandrine disappear down the avenue on her scooter, shaking his head in amused disbelief. When you watch the episode, listen out for the expressions meaning 'arrives' and 'minutes'. You'll catch them now. See you next time!
 - **Closing**: `sandrine`: *Bonne soirée!*

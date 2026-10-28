@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Et comment te sentais-tu devant elle? | And how did you feel in front of her? | 773:Et moi, j'étais là, là. |
 
 ## Part 5 — Outro & Closing
-> In the quiet of a nighttime taxi, Gabriel confesses his deep insecurities about intimacy and romance. When you watch the episode, listen out for the expressions meaning 'I have' and 'need'. You'll catch them now. See you next time.
+> In the quiet of a nighttime taxi, Gabriel confesses his deep insecurities about intimacy and romance. When you watch the episode, listen out for the expressions meaning 'I have' and 'need'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne journée!*

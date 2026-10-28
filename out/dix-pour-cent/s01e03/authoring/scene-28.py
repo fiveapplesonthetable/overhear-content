@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 3
 SCENE = 28
 TITLE = "Les papiers d'Andréa  (Andréa's Papers)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "colette": "emilie", "lea": "lucie"}
-LABELS = {"colette": "Colette", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'colette': 'emilie', 'lea': 'lucie'}
+LABELS = {'colette': 'Colette', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Andréa tried to apologise and to charm her, and Colette wasn't having it. Now it's the end of the day, and Andréa brings Colette the documents she asked for. Here it is in French first. Don't try to catch everything; just listen."
 OPENER = "Let's go through it. Andréa walks up to Colette's desk with a pile of documents, being extra polite."
 TRANSITION = "Now let's listen to the whole scene one more time."
-OUTRO = "A small embarrassing moment, and maybe the start of something between these two. Listen for 'to have reason', the French way to say someone is right, when you watch. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "A small embarrassing moment, and maybe the start of something between these two. Listen for 'to have reason', the French way to say someone is right, when you watch. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('lea', 'Je peux vous donner mes papiers?', 'Can I give you my papers?', [(727, 'Je peux vous donner mes papiers')], ''),
     ('colette', 'Oui, bien sûr.', 'Yes, of course.', [(728, 'Oui')], ''),

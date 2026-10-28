@@ -27,5 +27,5 @@
 | 13 | `colette` (Colette) | Nous venons de mondes différents. | We come from different worlds. | adapted |
 
 ## Part 5 — Outro & Closing
-> Andrea and Colette confront painful truths about the past while seeking mutual understanding. When you watch the episode, listen out for the expressions meaning 'story' and 'torments'. You'll catch them now. See you next time.
+> Andrea and Colette confront painful truths about the past while seeking mutual understanding. When you watch the episode, listen out for the expressions meaning 'story' and 'torments'. You'll catch them now. See you next time!
 - **Closing**: `colette`: *Bonne journée!*

@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | C'était Jean... Il nous quitte? | FIXME translation | 151:C'était Jean..., 152:Il nous quitte? |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around a project for jean. When you watch the episode, listen out for the expressions meaning 'to have' and 'offer'. You'll catch them now. See you next time.
+> That's it for this scene around a project for jean. When you watch the episode, listen out for the expressions meaning 'to have' and 'offer'. You'll catch them now. See you next time!
 - **Closing**: `noemie`: *Bonne soirée!*

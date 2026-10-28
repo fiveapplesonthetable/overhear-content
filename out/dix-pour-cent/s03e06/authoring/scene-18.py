@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 6
 SCENE = 18
 TITLE = "L'amie d'Hervé  (Hervé's Friend)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "camille": "emilie", "herve": "marcel", "lea": "lucie"}
-LABELS = {"camille": "Camille", "herve": "Hervé", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'camille': 'emilie', 'herve': 'marcel', 'lea': 'lucie'}
+LABELS = {'camille': 'Camille', 'herve': 'Hervé', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e06.fr.dual.srt'
 INTRO = "At ASK's thirtieth anniversary party, Camille spots an eccentric woman in a bright red dress chatting up all the agency's famous clients. Herve explains that the guest is his dear former friend Corinne, before news arrives that star client Isabelle Huppert has vanished. Listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Between eccentric friends and missing film stars, ASK's anniversary party spirals into high-stakes comedic chaos. When you watch the episode, listen out for the expressions meaning 'woman' and 'dress'. You'll catch them now. See you next time."
-CLOSING = ("herve", "À demain!")
+OUTRO = "Between eccentric friends and missing film stars, ASK's anniversary party spirals into high-stakes comedic chaos. When you watch the episode, listen out for the expressions meaning 'woman' and 'dress'. You'll catch them now. See you next time!"
+CLOSING = ('herve', 'À demain!')
 STORY = [
     ('camille', 'Qui est cette femme en robe rouge?', 'Who is that woman in a red dress?', [(915, "c'est qui la folle"), (917, 'La dame en rouge')], ''),
     ('herve', "C'est une grande amie, Corinne.", 'She is a great friend, Corinne.', [(918, 'amie comédienne, Corinne')], ''),

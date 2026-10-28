@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Voilà, je te rends tes chaussures! | There, I give you back your shoes! | 925:rends-les, 925:Voilà |
 
 ## Part 5 — Outro & Closing
-> Sofia marches out of the office barefoot, leaving Camille furious and exhausted. When you watch the episode, listen out for the expressions meaning 'argue' and 'problem'. You'll catch them now. See you next time.
+> Sofia marches out of the office barefoot, leaving Camille furious and exhausted. When you watch the episode, listen out for the expressions meaning 'argue' and 'problem'. You'll catch them now. See you next time!
 - **Closing**: `camille`: *Au revoir!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 3
 SCENE = 7
-TITLE = "Un ex aux impôts  (An Ex at the Tax Office)"
-LEVEL = "A1 — débutant"
+TITLE = 'Un ex aux impôts  (An Ex at the Tax Office)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie", "herve": "marcel"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa", "herve": "Hervé"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie', 'herve': 'marcel'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa', 'herve': 'Hervé'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e03.fr.dual.srt'
 INTRO = "Now, inside the office, the agents have two big headaches: the tax audit, and the mystery of how Mathias got his hands on Gabriel's exclusive script. Andréa thinks she has an answer for the first one. We'll hear the scene in French first; just follow the mood and don't worry about catching every word."
 OPENER = "Let's walk through it line by line. Andréa comes in with a bright idea about the tax audit."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "So Andréa is going to call her ex at the tax office, while Gabriel is still fuming about Mathias. Listen out for that handy phrase meaning 'it's been a long time'. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "So Andréa is going to call her ex at the tax office, while Gabriel is still fuming about Mathias. Listen out for that handy phrase meaning 'it's been a long time'. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', "J'ai peut-être une solution pour le contrôle fiscal.", 'I may have a solution for the tax audit.', [(132, "J'ai peut-être une solution pour le contrôle fiscal")], ''),
     ('lea', 'Un ex à moi. Il est haut placé aux impôts.', "An ex of mine. He's high up at the tax office.", [(134, 'Un ex à moi. Il est haut placé aux impôts')], ''),

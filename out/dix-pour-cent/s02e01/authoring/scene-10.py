@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 1
 SCENE = 10
-TITLE = "Ramzy boycotte la promotion  (Ramzy Boycotts the Promotion)"
-LEVEL = "A1 — débutant"
+TITLE = 'Ramzy boycotte la promotion  (Ramzy Boycotts the Promotion)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "ramzy": "theo", "camille": "emilie"}
-LABELS = {"mathias": "Mathias", "ramzy": "Ramzy", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'ramzy': 'theo', 'camille': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'ramzy': 'Ramzy', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e01.fr.dual.srt'
 INTRO = "Inside the elevator at ASK, Mathias rides down with an enraged Ramzy Bedia. Their romantic comedy is opening in theatres, but Ramzy flatly refuses to appear next to Virginie Efira for promotional interviews or press photos. Mathias tries every philosophical trick to change his mind. Let's listen to the scene in French first."
 OPENER = "Let's observe Mathias trying to save a movie campaign with high-minded philosophy."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Mathias's philosophical speech did not convince Ramzy at all. next time, we will head over to Andréa's office as she plans an unwanted family trip."
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = "Mathias's philosophical speech did not convince Ramzy at all. See you next time!"
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('ramzy', 'Je ne veux pas la voir.', 'I do not want to see her.', [(270, 'Je ne veux pas la voir.')], ''),
     ('ramzy', "Les interviews, les photos pour le film, c'est hors de question.", 'Interviews, photos for the film, it is out of the question.', [(271, 'Les interviews, les photos promo pour le film... hors de question.')], ''),

@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 4
 SCENE = 16
 TITLE = "Restons solidaires  (Let's Stick Together)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "gabriel": "theo", "isabelle": "emilie"}
-LABELS = {"mathias": "Mathias", "gabriel": "Gabriel", "isabelle": "Isabelle"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'gabriel': 'theo', 'isabelle': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'gabriel': 'Gabriel', 'isabelle': 'Isabelle'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "After an exhausting night shoot, Isabelle Huppert thanks Mathias and Gabriel before heading to a fashion show. Mathias reveals he knows about their plan to launch a secret agency and proposes that they unite to oust Hicham instead. Let's listen to the scene in French first."
 OPENER = "Let's break down the dialogue line by line."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Following an exhausting night of cinema acrobatics, Mathias and Gabriel discover an unexpected shared goal. When you watch the episode, listen out for the expressions meaning 'assistance' and 'valuable'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Bonne soirée!")
+OUTRO = "Following an exhausting night of cinema acrobatics, Mathias and Gabriel discover an unexpected shared goal. When you watch the episode, listen out for the expressions meaning 'assistance' and 'valuable'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('isabelle', 'Merci pour votre aide précieuse, les garçons.', 'Thank you for your valuable help, boys.', [(874, 'Merci, Mathias'), (890, 'Encore merci, les garçons')], ''),
     ('isabelle', 'Cette folle nuit était un succès.', 'This crazy night was a success.', [(875, 'sans toi')], ''),

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 4
 SCENE = 19
-TITLE = "Le premier rôle  (The Lead Role)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le premier rôle  (The Lead Role)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "sofia": "emilie"}
-LABELS = {"gabriel": "Gabriel", "sofia": "Sofia"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'sofia': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'sofia': 'Sofia'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "In Gabriel's office, Sofia waits anxiously for news about her audition songs for Julien Doré's upcoming movie. A text message arrives from the famous singer, bringing an unexpected and life-changing opportunity. Listen to the scene in French first."
 OPENER = "Let's examine how Gabriel shares the big news with Sofia."
 TRANSITION = "Now let's listen to the joyful conversation once more at full speed."
-OUTRO = "Sofia's musical audition turns into the role of a lifetime in Julien Doré's upcoming movie. Listen to the wonderful conversation once more in French. Join us next time to see what happens next."
-CLOSING = ("sofia", "À bientôt!")
+OUTRO = "Sofia's musical audition turns into the role of a lifetime in Julien Doré's upcoming movie. Listen to the wonderful conversation once more in French. See you next time!"
+CLOSING = ('sofia', 'À bientôt!')
 STORY = [
     ('gabriel', "J'ai reçu un message de Julien Doré.", 'I received a message from Julien Doré.', [(516, "C'est Julien")], ''),
     ('sofia', "Qu'est-ce qu'il dit dans son message?", 'What does he say in his message?', [(519, 'Un SMS ? Il est sérieux ?')], ''),

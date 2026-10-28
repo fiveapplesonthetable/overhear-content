@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 6
-TITLE = "Appel à la maternité  (Call at the Maternity Ward)"
-LEVEL = "A1 — débutant"
+TITLE = 'Appel à la maternité  (Call at the Maternity Ward)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "colette": "emilie"}
-LABELS = {"lea": "Andréa", "colette": "Colette"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'colette': 'emilie'}
+LABELS = {'lea': 'Andréa', 'colette': 'Colette'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "At the maternity clinic, Andrea Martel has just given birth to her baby daughter with her partner Colette by her side. When prominent client Fabrice Luchini calls her phone, Andrea answers immediately despite the hospital setting. Let's listen to their conversation in French first."
 OPENER = "Let's explore how Andrea balances client demands with new motherhood line by line."
 TRANSITION = "Now let's listen to the maternity clinic conversation once more to solidify what you have learned."
-OUTRO = "That's it for this scene around call at the maternity ward. When you watch the episode, listen out for the expressions meaning 'are not' and 'obliged'. You'll catch them now. See you next time."
-CLOSING = ("colette", "Bonne soirée!")
+OUTRO = "That's it for this scene around call at the maternity ward. When you watch the episode, listen out for the expressions meaning 'are not' and 'obliged'. You'll catch them now. See you next time!"
+CLOSING = ('colette', 'Bonne soirée!')
 STORY = [
     ('colette', "Tu n'es pas obligée de répondre.", 'You do not have to answer.', [(259, "T'es pas obligée de répondre")], ''),
     ('lea', 'Je ne veux pas disparaître du jour au lendemain.', 'I do not want to disappear overnight.', [(260, 'disparaître du jour au lendemain.')], ''),

@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Et je suis fier de toi. | And I am proud of you. | adapted |
 
 ## Part 5 — Outro & Closing
-> Walking through Paris together, Mathias discovers that truthfulness brings an unfamiliar yet liberating sense of peace, as Camille encourages him to embrace his new honesty. When you watch the episode, listen out for the expressions meaning 'feel' and 'honest'. You'll catch them now. See you next time.
+> Walking through Paris together, Mathias discovers that truthfulness brings an unfamiliar yet liberating sense of peace, as Camille encourages him to embrace his new honesty. When you watch the episode, listen out for the expressions meaning 'feel' and 'honest'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À bientôt!*

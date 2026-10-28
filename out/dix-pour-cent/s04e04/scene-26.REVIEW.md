@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Cette fois je dois vraiment partir. | This time I really must leave. | 1237:Cette fois je dois vraiment y aller |
 
 ## Part 5 — Outro & Closing
-> Tired of being taken for granted, Gabriel refuses to chauffeur Sofia and her friend to a late-night party, drawing a clear line and asserting his independence. When you watch the episode, listen out for the expressions meaning 'goes' and 'savior'. You'll catch them now. See you next time.
+> Tired of being taken for granted, Gabriel refuses to chauffeur Sofia and her friend to a late-night party, drawing a clear line and asserting his independence. When you watch the episode, listen out for the expressions meaning 'goes' and 'savior'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne journée!*

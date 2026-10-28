@@ -27,5 +27,5 @@
 | 13 | `sarah` (Sarah) | Non, tu penses seulement au travail. | No, you only think about work. | 894:Sarah |
 
 ## Part 5 — Outro & Closing
-> Sarah storms out of the office, leaving Gabriel calling her name in the corridor. When you watch the episode, listen out for the expressions meaning 'worry' and 'wants'. You'll catch them now. See you next time.
+> Sarah storms out of the office, leaving Gabriel calling her name in the corridor. When you watch the episode, listen out for the expressions meaning 'worry' and 'wants'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *À bientôt!*

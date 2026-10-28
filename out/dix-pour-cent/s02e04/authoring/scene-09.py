@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 4
 SCENE = 9
 TITLE = "La cabine d'enregistrement  (Recording Booth)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "julien": "marcel", "sofia": "emilie", "gabriel": "theo"}
-LABELS = {"julien": "Julien", "sofia": "Sofia", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'julien': 'marcel', 'sofia': 'emilie', 'gabriel': 'theo'}
+LABELS = {'julien': 'Julien', 'sofia': 'Sofia', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e04.fr.dual.srt'
 INTRO = "At the music studio, Julien Dore welcomes Sofia to record their duet while Gabriel accompanies her. Julien gently asks Gabriel to wait outside so the vocal booth stays intimate and focused. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Julien Dore establishes an intimate recording environment for Sofia, isolating her from Gabriel's watchful agency eye. Sofia steps up to the microphone, ready to launch her musical career. Until next time."
-CLOSING = ("sofia", "À bientôt!")
+OUTRO = "Julien Dore establishes an intimate recording environment for Sofia, isolating her from Gabriel's watchful agency eye. Sofia steps up to the microphone, ready to launch her musical career. See you next time!"
+CLOSING = ('sofia', 'À bientôt!')
 STORY = [
     ('gabriel', "Salut Julien. Mathias n'a pas pu venir.", 'Hi Julien. Mathias could not make it.', [(231, 'Salut.'), (232, "Mathias n'a pas pu venir.")], ''),
     ('julien', "D'accord, pas de problème.", 'Okay, no problem.', [(233, 'pas de problème.')], ''),

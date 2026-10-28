@@ -5,17 +5,17 @@ SEASON = 3
 EPISODE = 5
 SCENE = 5
 TITLE = "Trente ans d'ASK  (Thirty Years of ASK)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"mathias": "Mathias", "lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'mathias': 'Mathias', 'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e05.fr.dual.srt'
 INTRO = "In the meeting room at ASK, Hicham Janowski has just stormed out after an angry confrontation about agency finances. Mathias, Gabriel, and Andrea stay behind to discuss his outburst and the upcoming agency anniversary. Let's listen to their conversation in French first."
 OPENER = "Let's explore how the three partners react to Hicham's rant line by line."
 TRANSITION = "Now let's listen to the partners' conversation once more from start to finish."
-OUTRO = "That's it for this scene around thirty years of ask. When you watch the episode, listen out for the expressions meaning 'furious' and 'fear'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Bonne soirée!")
+OUTRO = "That's it for this scene around thirty years of ask. When you watch the episode, listen out for the expressions meaning 'furious' and 'fear'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Hicham est vraiment furieux contre nous.', 'Hicham is truly furious with us.', [(117, 'Hicham')], ''),
     ('gabriel', 'Il a peur de perdre son investissement.', 'He is afraid of losing his investment.', [], ''),

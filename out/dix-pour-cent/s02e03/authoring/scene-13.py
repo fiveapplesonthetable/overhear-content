@@ -5,17 +5,17 @@ SEASON = 2
 EPISODE = 3
 SCENE = 13
 TITLE = "L'échange de date  (Swapping Test Dates)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "norman": "marcel", "violaine": "emilie"}
-LABELS = {"gabriel": "Gabriel", "norman": "Norman", "violaine": "Violaine"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'norman': 'marcel', 'violaine': 'emilie'}
+LABELS = {'gabriel': 'Gabriel', 'norman': 'Norman', 'violaine': 'Violaine'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = 'At the agency, Gabriel finds a creative solution for client Norman Thavaud, who desperately needs an earlier driving test date. A fan named Violaine agrees to swap slots in exchange for meeting the star and taking photos. Listen to the conversation in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = "With Norman's exam safely rescheduled, Gabriel must now manage an overenthusiastic fan who refuses to leave without a lock of hair. Listen to the French dialogue one more time. See you next time!"
-CLOSING = ("gabriel", "Bonne soirée!")
+CLOSING = ('gabriel', 'Bonne soirée!')
 STORY = [
     ('gabriel', "J'ai trouvé quelqu'un pour échanger.", 'I found someone to swap with you.', [(311, "J'ai trouvé quelqu'un pour échanger")], ''),
     ('norman', "Comment elle s'appelle?", 'What is her name?', [(315, "Comment elle s'appelle")], ''),

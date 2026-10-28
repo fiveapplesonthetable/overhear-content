@@ -28,5 +28,5 @@
 | 14 | `marie_sophie` (Marie-Sophie) | Il le mérite après huit ans à me fatiguer! | He deserves it after eight years of tiring me out! | 176:Il le mérite après huit ans à me |
 
 ## Part 5 — Outro & Closing
-> Marie-Sophie is determined to kill off Mathias's soap-opera star, and Arlette is backing her screenwriter all the way. Next, Mathias tries to charm Marie-Sophie with flowers while Camille and Hervé react to the news. See you there.
+> Marie-Sophie is determined to kill off Mathias's soap-opera star, and Arlette is backing her screenwriter all the way. See you next time!
 - **Closing**: `lea`: *À bientôt!*

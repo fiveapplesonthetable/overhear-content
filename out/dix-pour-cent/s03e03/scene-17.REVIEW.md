@@ -27,5 +27,5 @@
 | 13 | `guy` (Guy) | Tu restes ma petite reine. | You remain my little queen. | 1083:Ma p'tite reine |
 
 ## Part 5 — Outro & Closing
-> With quick thinking and charm, Andrea deflects suspicion while keeping her colorful client Guy Marchand on track. When you watch the episode, listen out for the expressions meaning 'leave' and 'are you doing'. You'll catch them now. See you next time.
+> With quick thinking and charm, Andrea deflects suspicion while keeping her colorful client Guy Marchand on track. When you watch the episode, listen out for the expressions meaning 'leave' and 'are you doing'. You'll catch them now. See you next time!
 - **Closing**: `guy`: *Bonne soirée!*

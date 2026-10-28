@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 22
-TITLE = "Le carnage des talents  (The Talent Carnage)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le carnage des talents  (The Talent Carnage)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Stepping into the agency, Andrea and Gabriel find the floor deserted and phone lines blinking with panic. Within minutes, devastating emails confirm their worst nightmare: rival agent Elise Formain has poached their most prestigious clients. Let's listen to their conversation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Stunned into silence, Andrea and Gabriel realize that ASK has just suffered the deadliest strike in its history. When you watch the episode, listen out for the expressions meaning 'phones' and 'ring'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Stunned into silence, Andrea and Gabriel realize that ASK has just suffered the deadliest strike in its history. When you watch the episode, listen out for the expressions meaning 'phones' and 'ring'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('gabriel', "Les téléphones sonnent sans arrêt aujourd'hui.", 'The phones are ringing without stopping today.', [(836, "C'est quoi ces conneries")], ''),
     ('lea', 'Où sont passés tous nos assistants?', 'Where have all our assistants gone?', [(834, 'Les assistants ?'), (835, 'Je ne les ai pas vus')], ''),

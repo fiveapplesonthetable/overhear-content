@@ -31,5 +31,5 @@
 | 17 | `lea` (Andréa) | Un jour, on fera un film ensemble. | One day, we | 671:film |
 
 ## Part 5 — Outro & Closing
-> Mother and daughter fight, make up, and turn down the film together. Remember the polite 'you' between them, and the little pairs of words that make a sentence negative. See you soon.
+> Mother and daughter fight, make up, and turn down the film together. Remember the polite 'you' between them, and the little pairs of words that make a sentence negative. See you next time!
 - **Closing**: `laura`: *À bientôt!*

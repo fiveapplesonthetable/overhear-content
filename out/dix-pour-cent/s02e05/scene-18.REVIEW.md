@@ -29,5 +29,5 @@
 | 15 | `arlette` (Arlette) | Je serai toujours là pour veiller sur toi. | I will always be there to watch over you. | 581:Arlette Davidson., 582:C'est mon surnom. |
 
 ## Part 5 — Outro & Closing
-> With affection and humor, Arlette restores Guy's confidence before his next scene on set. Listen to the touching dialogue once more in French. Until next time!
+> With affection and humor, Arlette restores Guy's confidence before his next scene on set. Listen to the touching dialogue once more in French. See you next time!
 - **Closing**: `arlette`: *À bientôt!*

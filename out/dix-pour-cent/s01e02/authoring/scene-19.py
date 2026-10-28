@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 1
 EPISODE = 2
 SCENE = 19
-TITLE = "Une rencontre par hasard  (A Chance Meeting)"
-LEVEL = "A1 — débutant"
+TITLE = 'Une rencontre par hasard  (A Chance Meeting)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "francoise": "emilie"}
-LABELS = {"lea": "Andréa", "francoise": "Françoise"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'francoise': 'emilie'}
+LABELS = {'lea': 'Andréa', 'francoise': 'Françoise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e02.fr.dual.srt'
 INTRO = "Andréa needs Françoise back in Gabor's film, and she has very little time. So she waits for her outside a screening and acts as if they've met by chance. We follow Andréa. You'll hear the scene in French first; listen for the tone, sweet on the surface and sharp underneath."
 OPENER = "Let's go back over it. Andréa plays the surprise, with a lot of energy."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = 'Andréa has set her trap with a smile, and you followed a very polite fight in French. Well done, and see you next time.'
-CLOSING = ("francoise", "À demain!")
+OUTRO = 'Andréa has set her trap with a smile, and you followed a very polite fight in French. See you next time!'
+CLOSING = ('francoise', 'À demain!')
 STORY = [
     ('lea', 'Quelle surprise! Françoise!', 'What a surprise! Françoise!', [(539, 'Quelle surprise ! Françoise')], ''),
     ('francoise', "Andréa. Je viens d'assister à une projection.", "Andréa. I've just been to a screening.", [(540, 'Andréa'), (541, "Je viens d'assister à une projection")], ''),

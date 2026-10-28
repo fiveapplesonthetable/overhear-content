@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 25
-TITLE = "Des tongs à Cannes  (Flip-Flops in Cannes)"
-LEVEL = "A1 — débutant"
+TITLE = 'Des tongs à Cannes  (Flip-Flops in Cannes)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "mathias": "marcel", "camille": "emilie"}
-LABELS = {"mathias": "Mathias", "camille": "Camille"}
+VOICES = {'narrator': 'sky', 'mathias': 'marcel', 'camille': 'emilie'}
+LABELS = {'mathias': 'Mathias', 'camille': 'Camille'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "In Cannes, Camille enjoys ice cream on the street with her mother Annick while watching festival crowds from afar. When Mathias calls with a last-minute party invitation, he brings a dress while Annick helps with shoes. Let's listen to the scene in French first."
 OPENER = "Let's examine how Mathias convinces Camille to attend the Cannes party with help from her mother step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = "Thanks to Annick's loving support and Mathias's persistence, Camille is ready to make an entrance at the Cannes party. Let's review the festival and dressing vocabulary from this scene. Join us next time to see what happens next."
-CLOSING = ("mathias", "Bonne soirée!")
+OUTRO = "Thanks to Annick's loving support and Mathias's persistence, Camille is ready to make an entrance at the Cannes party. Let's review the festival and dressing vocabulary from this scene. See you next time!"
+CLOSING = ('mathias', 'Bonne soirée!')
 STORY = [
     ('mathias', 'Tu veux manger une glace avec moi?', 'Do you want to eat an ice cream with me?', [(705, 'Tu veux une glace ?')], ''),
     ('camille', 'Oui, si tu veux bien, maman.', 'Yes, if you like, Mom.', [(706, 'Si tu veux.')], ''),

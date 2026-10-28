@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 23
-TITLE = "Règlement de comptes  (Settling of Accounts)"
-LEVEL = "A1 — débutant"
+TITLE = 'Règlement de comptes  (Settling of Accounts)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elise": "emilie", "lea": "lucie"}
-LABELS = {"elise": "Élise", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'elise': 'emilie', 'lea': 'lucie'}
+LABELS = {'elise': 'Élise', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
 INTRO = "Face to face in the empty agency corridor, Andrea corners Elise Formain after the catastrophic raid. Refusing to show remorse, Elise sneers at Andrea's sentimental devotion to her actors, pushing Andrea past her breaking point. Let's listen to their confrontation in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-OUTRO = "Shaken and bruised, Elise wrenches herself free, leaving Andrea standing in the corridor amid the wreckage of her career. When you watch the episode, listen out for the expressions meaning 'been able' and 'to betray'. You'll catch them now. See you next time."
-CLOSING = ("elise", "À demain!")
+OUTRO = "Shaken and bruised, Elise wrenches herself free, leaving Andrea standing in the corridor amid the wreckage of her career. When you watch the episode, listen out for the expressions meaning 'been able' and 'to betray'. You'll catch them now. See you next time!"
+CLOSING = ('elise', 'À demain!')
 STORY = [
     ('lea', 'Comment as-tu pu trahir notre agence?', 'How could you betray our agency?', [(853, 'Comment tu as pu faire une chose pareille ?')], ''),
     ('elise', 'Ce sont seulement les affaires, Andréa.', 'It is only business, Andrea.', [(854, "c'est juste des affaires")], ''),

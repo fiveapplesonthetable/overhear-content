@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 14
-TITLE = "Le faux casting de James Bond  (The Fake James Bond Casting)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le faux casting de James Bond  (The Fake James Bond Casting)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "mathias": "marcel"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'mathias': 'marcel'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "They decide to use actress Linda Gérard to pose as the legendary James Bond casting director and trick Fabrice into believing his agent failed him. Listen to the scene in French first. Don't worry about catching every word. Let's listen to the scene in French first."
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = 'Now listen to the whole scene again at normal speed, and see how much more you catch.'
 OUTRO = 'With their outrageous plan set in motion, the agents prepare Linda Gérard for the role of her life. Listen to the scene once more to reinforce your mastery of conversational French. See you next time!'
-CLOSING = ("lea", "Bonne soirée!")
+CLOSING = ('lea', 'Bonne soirée!')
 STORY = [
     ('gabriel', "Alors Andréa, comment s'est passé le rendez-vous?", 'So Andréa, how did the meeting go?', [(451, "Alors, t'en es où")], ''),
     ('lea', 'Il a campé sur ses positions.', 'He dug his heels in.', [(453, 'Il a campé sur ses positions')], ''),

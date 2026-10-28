@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 12
-TITLE = "Les répliques coupées  (Cut Lines)"
-LEVEL = "A1 — débutant"
+TITLE = 'Les répliques coupées  (Cut Lines)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "mathias": "marcel"}
-LABELS = {"isabelle": "Isabelle", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'mathias': 'marcel'}
+LABELS = {'isabelle': 'Isabelle', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = "Upon arriving on the American film set late at night, Isabelle is handed a freshly revised script by assistant Sharon. To her outrage, Gary has cut nearly all of her dialogue to speed up the scene. Let's listen to her fiery reaction in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
-OUTRO = "Isabelle refuses to compromise her craft or let a director trim away her artistic essence. When you watch the episode, listen out for the expressions meaning 'script scene' and 'know'. You'll catch them now. See you next time."
-CLOSING = ("isabelle", "Bonne journée!")
+OUTRO = "Isabelle refuses to compromise her craft or let a director trim away her artistic essence. When you watch the episode, listen out for the expressions meaning 'script scene' and 'know'. You'll catch them now. See you next time!"
+CLOSING = ('isabelle', 'Bonne journée!')
 STORY = [
     ('mathias', "Bonsoir Isabelle, voici la scène d'aujourd'hui.", 'Good evening Isabelle, here is today', [(704, 'Bonsoir, Isabelle'), (707, "c'est la scène d'aujourd'hui")], ''),
     ('isabelle', 'Mais je connais déjà mon texte.', 'But I already know my lines.', [(708, 'je connais mon texte')], ''),

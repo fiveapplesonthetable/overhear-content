@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Merci d'être là avec moi. | Thank you for being here with me. | 917:tout le monde |
 
 ## Part 5 — Outro & Closing
-> Leaving the hospital after his cardiac episode, Mathias shares a touching moment with Camille as his heart monitor beeps with emotional warmth, marking a new chapter in their relationship. When you watch the episode, listen out for the expressions meaning 'ready' and 'leave'. You'll catch them now. See you next time.
+> Leaving the hospital after his cardiac episode, Mathias shares a touching moment with Camille as his heart monitor beeps with emotional warmth, marking a new chapter in their relationship. When you watch the episode, listen out for the expressions meaning 'ready' and 'leave'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *Bonne journée!*

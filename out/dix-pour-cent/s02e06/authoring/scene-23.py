@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 23
-TITLE = "Enivré par le pouvoir  (Intoxicated by Power)"
-LEVEL = "A1 — débutant"
+TITLE = 'Enivré par le pouvoir  (Intoxicated by Power)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "juliette": "emilie", "gillieres": "theo"}
-LABELS = {"juliette": "Juliette", "gillieres": "Jean-Denis"}
+VOICES = {'narrator': 'sky', 'juliette': 'emilie', 'gillieres': 'theo'}
+LABELS = {'juliette': 'Juliette', 'gillieres': 'Jean-Denis'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = "Backstage before the opening ceremony, wealthy businessman Gillières corners Juliette Binoche. He confesses an overwhelming attraction, but Juliette uses her quick wit to outsmart him. Let's listen to the scene in French first."
 OPENER = "Let's examine how Juliette skillfully defuses the advances of Gillières step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
-OUTRO = 'Juliette Binoche masterfully defuses an uncomfortable confrontation with humor and sharp presence of mind. Until next time! Until next time.'
-CLOSING = ("juliette", "Au revoir!")
+OUTRO = 'Juliette Binoche masterfully defuses an uncomfortable confrontation with humor and sharp presence of mind. See you next time!'
+CLOSING = ('juliette', 'Au revoir!')
 STORY = [
     ('gillieres', 'Je voulais te souhaiter bonne chance.', 'I wanted to wish you good luck.', [(622, 'te souhaiter bonne chance.')], ''),
     ('gillieres', 'Tu es magnifique, tu me rends fou!', 'You are magnificent, you drive me crazy!', [(624, 'tu me rends fou !')], ''),

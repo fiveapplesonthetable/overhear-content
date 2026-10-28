@@ -31,5 +31,5 @@
 | 17 | `noemie` (Noémie) | Les acteurs ont des vies spéciales. Nous sommes juste leurs agents. | Actors have special lives. We are just their agents. | 311:Les acteurs ont des vies peu ordinaires, 312:Mais nous, on est juste leurs agents |
 
 ## Part 5 — Outro & Closing
-> Camille's real secret is safe, and Noémie now believes she works next to Christophe Lambert's daughter. Until next time!
+> Camille's real secret is safe, and Noémie now believes she works next to Christophe Lambert's daughter. See you next time!
 - **Closing**: `noemie`: *À demain!*

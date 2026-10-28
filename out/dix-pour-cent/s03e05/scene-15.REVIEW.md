@@ -27,5 +27,5 @@
 | 13 | `beatrice` (Béatrice) | D'accord, je te fais entièrement confiance, Andréa. | Alright, I trust you completely, Andrea. | 648:tu penses à un truc ?, 649:Peut-être |
 
 ## Part 5 — Outro & Closing
-> Andrea reaffirms the deep bond of trust that connects an agent with an artist. When you watch the episode, listen out for the expressions meaning 'think' and 'director'. You'll catch them now. See you next time.
+> Andrea reaffirms the deep bond of trust that connects an agent with an artist. When you watch the episode, listen out for the expressions meaning 'think' and 'director'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

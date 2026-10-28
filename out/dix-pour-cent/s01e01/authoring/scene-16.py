@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 1
 SCENE = 16
 TITLE = "Je suis comédienne  (I'm an Actress)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "sofia": "emilie", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"sofia": "Sofia", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'sofia': 'emilie', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'sofia': 'Sofia', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E01'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e01.fr.dual.srt'
 INTRO = "Back at the agency, Camille has just had a row with Mathias, and Noémie has warned her that he is very married. Sofia, though, sees this lunch as her big chance: she is not really a receptionist, she wants to act. Here it is in French first; you don't need every word."
 OPENER = "Let's go back through it. Sofia takes a deep breath and starts with a confession about her day job."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Well done: you just sat through Sofia's first pitch in French. Listen for 'I'm an actress' when you watch, and for the moment Cécile walks in. Until next time."
-CLOSING = ("sofia", "Au revoir!")
+OUTRO = "Well done: you just sat through Sofia's first pitch in French. Listen for 'I'm an actress' when you watch, and for the moment Cécile walks in. See you next time!"
+CLOSING = ('sofia', 'Au revoir!')
 STORY = [
     ('sofia', 'Donc, en fait, je ne suis pas vraiment réceptionniste.', 'So, actually, I', [(466, 'Donc, en fait'), (467, 'Je ne suis pas vraiment réceptionniste')], ''),
     ('sofia', "C'est juste un travail pour faire plaisir à ma famille.", 'It', [(469, "C'est juste un travail pour faire plaisir à ma famille")], ''),

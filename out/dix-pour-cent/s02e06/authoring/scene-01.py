@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 6
 SCENE = 1
-TITLE = "Le smoking Armani  (The Armani Tuxedo)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le smoking Armani  (The Armani Tuxedo)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "juliette": "emilie", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"juliette": "Juliette", "gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'juliette': 'emilie', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'juliette': 'Juliette', 'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e06.fr.dual.srt'
 INTRO = 'We open at the agency as everyone prepares to leave for the coast. Listen to the full scene in French first — just focus on the tone and energy.'
 OPENER = "Let's explore how Juliette explains her costume choice to Andréa and Eva."
 TRANSITION = "Now let's listen to Juliette, Andréa, and Eva again at full speed."
-OUTRO = 'Juliette Binoche rejects the restrictive dress in favor of a sleek Armani tuxedo, choosing comfort and independence. Her agent Andréa and producer Eva respect her decision as preparations for the Cannes festival continue. Join us next time to see what happens next.'
-CLOSING = ("juliette", "Bonne journée!")
+OUTRO = 'Juliette Binoche rejects the restrictive dress in favor of a sleek Armani tuxedo, choosing comfort and independence. Her agent Andréa and producer Eva respect her decision as preparations for the Cannes festival continue. See you next time!'
+CLOSING = ('juliette', 'Bonne journée!')
 STORY = [
     ('juliette', 'Je suis en plein essayage pour Cannes.', 'I am in the middle of a fitting for Cannes.', [(2, 'Je suis en essayage pour Cannes.')], ''),
     ('lea', 'Désolée Juliette, mon taxi était bloqué.', 'Sorry Juliette, my taxi was stuck.', [(7, 'Désolée, mon taxi est resté bloqué place de la Concorde.')], ''),

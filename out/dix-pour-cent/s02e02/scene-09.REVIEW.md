@@ -29,5 +29,5 @@
 | 15 | `gabriel` (Gabriel) | Je suis complètement à bout avec cette histoire. | I am completely exhausted with this story. | 289:Je suis à bout. |
 
 ## Part 5 — Outro & Closing
-> Mathias and Andréa make their stance crystal clear: representation and romance do not mix. Gabriel finds himself caught between his personal feelings and the firm's strict professional standards. Join us next time to see what happens next.
+> Mathias and Andréa make their stance crystal clear: representation and romance do not mix. Gabriel finds himself caught between his personal feelings and the firm's strict professional standards. See you next time!
 - **Closing**: `gabriel`: *Bonne soirée!*

@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 6
 SCENE = 16
-TITLE = "Confrontation au supermarché  (Confrontation at the Supermarket)"
-LEVEL = "A1 — débutant"
+TITLE = 'Confrontation au supermarché  (Confrontation at the Supermarket)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "elise": "emilie"}
-LABELS = {"lea": "Andréa", "elise": "Élise"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'elise': 'emilie'}
+LABELS = {'lea': 'Andréa', 'elise': 'Élise'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Tracking rival agent Elise Formain to a Parisian supermarket, Andrea finds her maneuvering a shopping cart while buying supplies for her three children. Andrea wastes no time confronting Elise over her secretive romance with producer Igor and her behind-the-scenes efforts to torpedo ASK's production. Let's listen to their confrontation in French first."
 OPENER = "Let's look at Andrea confronting Elise in the supermarket aisle step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Cornering Elise Formain in a grocery aisle, Andrea calls out her sabotage of Xavier Beauvois's film and delivers a stunning blow by revealing that Jean Reno has officially signed on as lead actor. When you watch the episode, listen out for the expressions meaning 'come' and 'errands'. You'll catch them now. See you next time."
-CLOSING = ("lea", "Au revoir!")
+OUTRO = "Cornering Elise Formain in a grocery aisle, Andrea calls out her sabotage of Xavier Beauvois's film and delivers a stunning blow by revealing that Jean Reno has officially signed on as lead actor. When you watch the episode, listen out for the expressions meaning 'come' and 'errands'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'Au revoir!')
 STORY = [
     ('lea', 'Tu me fais venir ici pour tes courses?', 'Are you making me come here for your groceries?', [(735, 'porter tes courses')], ''),
     ('elise', "J'ai trois enfants à nourrir, Andréa.", 'I have three children to feed, Andrea.', [(736, "J'ai trois enfants")], ''),

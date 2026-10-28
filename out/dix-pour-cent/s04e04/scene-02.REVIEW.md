@@ -27,5 +27,5 @@
 | 13 | `gabriel` (Gabriel) | Tu es une immense comédienne, Sandrine. | You are an immense actress, Sandrine. | adapted |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around backstage confidences. When you watch the episode, listen out for the expressions meaning 'marvelous' and 'best'. You'll catch them now. See you next time.
+> That's it for this scene around backstage confidences. When you watch the episode, listen out for the expressions meaning 'marvelous' and 'best'. You'll catch them now. See you next time!
 - **Closing**: `sandrine`: *À bientôt!*

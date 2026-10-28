@@ -27,5 +27,5 @@
 | 13 | `sofia` (Sofia) | Je me sens enfin tranquille aujourd'hui. | I feel peaceful at last today. | adapted |
 
 ## Part 5 — Outro & Closing
-> With the studio photoshoot successfully completed, Sofia and Camille head out together in high spirits. When you watch the episode, listen out for the expressions meaning 'finished' and 'session'. You'll catch them now. See you next time.
+> With the studio photoshoot successfully completed, Sofia and Camille head out together in high spirits. When you watch the episode, listen out for the expressions meaning 'finished' and 'session'. You'll catch them now. See you next time!
 - **Closing**: `sofia`: *Bonne journée!*

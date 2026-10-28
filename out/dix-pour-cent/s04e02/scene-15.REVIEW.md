@@ -27,5 +27,5 @@
 | 13 | `dylan` (Dylan) | Oublions ça pour le moment. | Let us forget that for now. | 836:on sera quittes |
 
 ## Part 5 — Outro & Closing
-> Franck Dubosc shows unexpected humility by offering Dylan a chance to retaliate for their fight on set. When you watch the episode, listen out for the expressions meaning 'wait' and 'moment'. You'll catch them now. See you next time.
+> Franck Dubosc shows unexpected humility by offering Dylan a chance to retaliate for their fight on set. When you watch the episode, listen out for the expressions meaning 'wait' and 'moment'. You'll catch them now. See you next time!
 - **Closing**: `franck`: *Au revoir!*

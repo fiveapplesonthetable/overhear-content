@@ -27,5 +27,5 @@
 | 13 | `lea` (Andréa) | Merci Gabriel, c'est très gentil à toi. | Thank you Gabriel, that is very kind of you. | 56:Ouais, super. |
 
 ## Part 5 — Outro & Closing
-> Despite the looming financial pressure, Gabriel and Camille step in to support Andrea when pregnancy contractions strike. When you watch the episode, listen out for the expressions meaning 'annual review' and 'calendar year'. You'll catch them now. See you next time.
+> Despite the looming financial pressure, Gabriel and Camille step in to support Andrea when pregnancy contractions strike. When you watch the episode, listen out for the expressions meaning 'annual review' and 'calendar year'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Au revoir!*

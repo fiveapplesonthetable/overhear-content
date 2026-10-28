@@ -28,5 +28,5 @@
 | 14 | `lea` (Andréa) | Ce n'est pas toi! | It is not you! | 335:C'est pas toi |
 
 ## Part 5 — Outro & Closing
-> Struggling to separate reality from fiction after months in the woods, Jean Dujardin refuses to leave his intense deserter persona behind. When you watch the episode, listen out for the expressions meaning 'affected' and 'acting role'. You'll catch them now. See you next time.
+> Struggling to separate reality from fiction after months in the woods, Jean Dujardin refuses to leave his intense deserter persona behind. When you watch the episode, listen out for the expressions meaning 'affected' and 'acting role'. You'll catch them now. See you next time!
 - **Closing**: `jean`: *À demain!*

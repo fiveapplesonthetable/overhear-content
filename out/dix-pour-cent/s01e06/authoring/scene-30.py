@@ -5,17 +5,17 @@ SEASON = 1
 EPISODE = 6
 SCENE = 30
 TITLE = "Le whisky de Samuel et le cinéma  (Samuel's Whiskey and the Movies)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo", "mathias": "marcel"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel", "mathias": "Mathias"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo', 'mathias': 'marcel'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel', 'mathias': 'Mathias'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S01E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s01/e06.fr.dual.srt'
 INTRO = "Night has fallen over ASK after Colette's devastating tax audit verdict. Camille, Noémie, and Hervé search the empty building and find the four partners—Mathias, Andréa, Gabriel, and Arlette—sitting together in Samuel Kerr's old office with a bottle of his finest whiskey. Listen to the French first."
 OPENER = "Let's walk through the scene line by line. Gabriel explains to the assistants what the partners are doing on the floor of Samuel's office."
 TRANSITION = "Now let's listen to the whole scene again from start to finish."
-OUTRO = 'That concludes Episode 6 and Season 1 of Dix pour cent! Even with a tax audit and personal heartbreak, the ASK family sticks together for the love of cinema. See you in Season 2!'
-CLOSING = ("lea", "À demain!")
+OUTRO = 'That concludes Episode 6 and Season 1 of Dix pour cent! Even with a tax audit and personal heartbreak, the ASK family sticks together for the love of cinema. See you next time!'
+CLOSING = ('lea', 'À demain!')
 STORY = [
     ('gabriel', 'Au début, nous étions vraiment très tristes tous les trois.', 'At first, all three of us were really very sad.', [(769, "D'abord, on a pensé à un suicide collectif"), (770, 'Enfin, moi. Un suicide collectif tout seul')], ''),
     ('lea', 'Puis nous avons trouvé le bon whisky de Samuel.', 'Then we found Samuel', [(774, 'Mais finalement, on a trouvé le whisky de Samuel, donc on ne se tue pas')], ''),

@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 3
 SCENE = 3
 TITLE = "Le choc de José  (José's Shock)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "jose": "theo", "lea": "lucie"}
-LABELS = {"jose": "José", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'jose': 'theo', 'lea': 'lucie'}
+LABELS = {'jose': 'José', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e03.fr.dual.srt'
 INTRO = "Left reeling after Laurence walks away, Jose Garcia freezes in complete shock on set. As sudden nervous hiccups overwhelm him, Andrea tries desperately to restore his composure before the director calls the actors to the soundstage. Let's listen to their conversation in French first."
 OPENER = "Let's explore Andrea and Jose's urgent conversation line by line."
 TRANSITION = "Now let's listen to Andrea and Jose's dialogue once more from start to finish."
-OUTRO = "That's it for this scene around jose's shock. When you watch the episode, listen out for the expressions meaning 'hear' and 'to believe'. You'll catch them now. See you next time."
-CLOSING = ("lea", "À bientôt!")
+OUTRO = "That's it for this scene around jose's shock. When you watch the episode, listen out for the expressions meaning 'hear' and 'to believe'. You'll catch them now. See you next time!"
+CLOSING = ('lea', 'À bientôt!')
 STORY = [
     ('lea', "José? Tu m'entends?", 'Jose? Do you hear me?', [(49, 'José ?')], ''),
     ('jose', 'Je ne peux pas y croire.', 'I cannot believe it.', [], ''),

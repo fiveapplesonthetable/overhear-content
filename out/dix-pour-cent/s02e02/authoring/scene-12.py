@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 2
 SCENE = 12
-TITLE = "Rencontre à la salle de sport  (Meeting at the Gym)"
-LEVEL = "A1 — débutant"
+TITLE = 'Rencontre à la salle de sport  (Meeting at the Gym)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "fabrice": "theo", "lea": "lucie"}
-LABELS = {"fabrice": "Fabrice", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'fabrice': 'theo', 'lea': 'lucie'}
+LABELS = {'fabrice': 'Fabrice', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e02.fr.dual.srt'
 INTRO = "At an exclusive Parisian fitness club, Andréa tracks down renowned actor Fabrice Luchini on the workout machines. She delivers a passionate pitch to poach him for the ASK agency, but Luchini has his own unique philosophy. Let's listen to the scene in French first."
 OPENER = "Let's explore the conversation line by line and unpack the French phrases."
 TRANSITION = "Now let's listen to the entire dialogue once more to lock in what you have learned."
 OUTRO = "Andréa's bold fitness ambush ends with Luchini standing loyal to his long-time agent Bréhier. Her pitch was spirited, but Luchini's love of familiar routine proved unshakeable. See you next time!"
-CLOSING = ("fabrice", "Au revoir!")
+CLOSING = ('fabrice', 'Au revoir!')
 STORY = [
     ('lea', 'Bonjour, Fabrice! Tu viens souvent ici?', 'Hello, Fabrice! Do you come here often?', [(355, 'Bonjour, Fabrice !'), (357, 'Tu viens souvent ?')], ''),
     ('fabrice', 'Je vous connais, vous êtes agent, non?', 'I know you, you are an agent, right?', [(359, 'Je vous connais, vous êtes agent, non ?')], ''),

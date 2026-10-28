@@ -27,5 +27,5 @@
 | 13 | `camille` (Camille) | C'est un chantage inacceptable, Hicham. | That is unacceptable blackmail, Hicham. | 695:Prends le poste, ma chérie, ou prends la porte. |
 
 ## Part 5 — Outro & Closing
-> Stunned by Hicham's brutal ultimatum, Camille realizes she cannot easily step backward in her agency career. Remember the colloquial French idiom for leaving or being dismissed: prendre la porte. Join us next time to see what happens next.
+> Stunned by Hicham's brutal ultimatum, Camille realizes she cannot easily step backward in her agency career. Remember the colloquial French idiom for leaving or being dismissed: prendre la porte. See you next time!
 - **Closing**: `hicham`: *Bonne journée!*

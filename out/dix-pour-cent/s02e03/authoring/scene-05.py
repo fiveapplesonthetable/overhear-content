@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 2
 EPISODE = 3
 SCENE = 5
-TITLE = "Andréa et Aymeline  (Andréa and Aymeline)"
-LEVEL = "A1 — débutant"
+TITLE = 'Andréa et Aymeline  (Andréa and Aymeline)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "aymeline": "emilie"}
-LABELS = {"lea": "Andréa", "aymeline": "Aymeline"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'aymeline': 'emilie'}
+LABELS = {'lea': 'Andréa', 'aymeline': 'Aymeline'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S02E03'
 SOURCE_FILE = 'sources/dix-pour-cent/s02/e03.fr.dual.srt'
 INTRO = "In her office at ASK, Andréa welcomes high-fashion model Aymeline Val. While Aymeline insists she is not an ordinary runway model, Andréa seeks to convince her that she has a genuine future as a screen actress. Let's listen to the scene in French first."
 OPENER = "Let's examine Andréa and Aymeline's conversation step by step."
 TRANSITION = "Now let's listen to the scene once more from start to finish."
 OUTRO = 'Andréa successfully flatters Aymeline Val into considering cinema representation with ASK, even as production delays complicate the project. See you next time!'
-CLOSING = ("aymeline", "À bientôt!")
+CLOSING = ('aymeline', 'À bientôt!')
 STORY = [
     ('lea', "Merci d'être venue pendant la Fashion Week.", 'Thank you for coming during Fashion Week.', [(117, "Merci d'être venue,"), (118, 'pendant la Fashion Week,')], ''),
     ('aymeline', 'Je ne fais pas de défilés.', 'I do not do fashion shows.', [(119, 'Je ne fais pas de défilés.')], ''),

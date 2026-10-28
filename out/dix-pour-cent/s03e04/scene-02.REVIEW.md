@@ -27,5 +27,5 @@
 | 13 | `isabelle` (Isabelle) | J'y vais, le plateau m'attend! | I am going, the set is waiting for me! | 147:Yes, coming. |
 
 ## Part 5 — Outro & Closing
-> Isabelle Huppert dashes onto the soundstage wearing Delphine's signature hat, energized by her endless love of performance. When you watch the episode, listen out for the expressions meaning 'do you feel' and 'train'. You'll catch them now. See you next time.
+> Isabelle Huppert dashes onto the soundstage wearing Delphine's signature hat, energized by her endless love of performance. When you watch the episode, listen out for the expressions meaning 'do you feel' and 'train'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne journée!*

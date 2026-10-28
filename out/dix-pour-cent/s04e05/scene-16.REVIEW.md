@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s04/e05.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "herve": "marcel", "gabriel": "theo", "lea": "lucie"}`
-- **Labels**: `{"herve": "Hervé", "gabriel": "Gabriel", "lea": "Andréa"}`
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "herve": "marcel", "lea": "lucie"}`
+- **Labels**: `{"gabriel": "Gabriel", "herve": "Hervé", "lea": "Andréa"}`
 
 ## Part 1 — Intro
 > At the ASK agency reception, Herve brings an envelope filled with small banknotes as Gabriel urgently requested to resolve a talent crisis. Relieved that the plan worked, Gabriel thanks his faithful assistant. Let's listen to their conversation in French first.
@@ -27,5 +27,5 @@
 | 13 | `herve` (Hervé) | Au revoir. | Goodbye. | adapted |
 
 ## Part 5 — Outro & Closing
-> And that's it for this scene. When you watch the episode, listen out for the exchange around small bills, and for the words meaning 'have' and 'done'. You'll catch them now. See you next time.
+> And that's it for this scene. When you watch the episode, listen out for the exchange around small bills, and for the words meaning 'have' and 'done'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *À bientôt!*

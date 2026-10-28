@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Nous valons tous beaucoup mieux que ça. | We are all worth much better than that. | 340:On vaut mieux que ça |
 
 ## Part 5 — Outro & Closing
-> Agreeing to present a united front for the anniversary gala, the partners bury their grievances for a few brief hours. When you watch the episode, listen out for the expressions meaning 'it is' and 'party'. You'll catch them now. See you next time.
+> Agreeing to present a united front for the anniversary gala, the partners bury their grievances for a few brief hours. When you watch the episode, listen out for the expressions meaning 'it is' and 'party'. You'll catch them now. See you next time!
 - **Closing**: `lea`: *Bonne soirée!*

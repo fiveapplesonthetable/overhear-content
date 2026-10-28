@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 2
 SCENE = 27
-TITLE = "Le pacte secret  (The Secret Pact)"
-LEVEL = "A1 — débutant"
+TITLE = 'Le pacte secret  (The Secret Pact)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Andréa", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'lea': 'lucie', 'gabriel': 'theo'}
+LABELS = {'lea': 'Andréa', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E02'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e02.fr.dual.srt'
 INTRO = "As Andrea and Gabriel weigh the monumental consequences of breaking away from ASK, they debate whether their star actors and colleagues will stand by them in secret. Listen to the scene in French first. Don't worry about catching every word."
 OPENER = "Let's walk through this strategic pact to launch a new talent agency step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Setting aside fear and hesitation, Andrea and Gabriel seal a secret pact to launch their own talent agency in complete defiance of Hicham. When you watch the episode, listen out for the expressions meaning 'will grasp' and 'decision'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "À demain!")
+OUTRO = "Setting aside fear and hesitation, Andrea and Gabriel seal a secret pact to launch their own talent agency in complete defiance of Hicham. When you watch the episode, listen out for the expressions meaning 'will grasp' and 'decision'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'À demain!')
 STORY = [
     ('gabriel', "Et Arlette, qu'est-ce qu'on fait?", 'And Arlette, what do we do?', [(1177, 'Arlette'), (1179, "qu'est-ce qu'on fait")], ''),
     ('lea', 'Arlette comprendra très bien notre choix.', 'Arlette will understand our choice very well.', [(1180, 'Arlette, elle comprendra')], ''),

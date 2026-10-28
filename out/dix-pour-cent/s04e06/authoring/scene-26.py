@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 6
 SCENE = 26
 TITLE = "Le panneau d'ASK  (The ASK Sign)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "gabriel": "theo", "lea": "lucie"}
-LABELS = {"gabriel": "Gabriel", "lea": "Andréa"}
+VOICES = {'narrator': 'sky', 'gabriel': 'theo', 'lea': 'lucie'}
+LABELS = {'gabriel': 'Gabriel', 'lea': 'Andréa'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "Standing by the agency entrance, Andrea and Gabriel pause in front of the glass doors bearing the famous Samuel Kerr lettering. Remembering their late mentor and the ten intense years of cinema history created within these walls, they prepare to close the door for the very last time. Let's listen to their conversation in French first."
 OPENER = "Let's examine Gabriel and Andrea facing the agency entrance step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "Before closing the doors forever, Andrea and Gabriel pause with deep respect before the ASK logo, proud of their shared history and ready for the future. When you watch the episode, listen out for the expressions meaning 'stop' and 'instant'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Au revoir!")
+OUTRO = "Before closing the doors forever, Andrea and Gabriel pause with deep respect before the ASK logo, proud of their shared history and ready for the future. When you watch the episode, listen out for the expressions meaning 'stop' and 'instant'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('lea', 'Arrête-toi un instant devant la porte.', 'Stop for a moment in front of the door.', [(1041, 'AGENCE SAMUEL KERR')], ''),
     ('gabriel', 'Regarde les lettres sur la vitre.', 'Look at the letters on the glass.', [(1041, 'AGENCE SAMUEL KERR')], ''),

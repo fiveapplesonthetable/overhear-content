@@ -4,18 +4,18 @@ SHOW = 'dix-pour-cent'
 SEASON = 3
 EPISODE = 4
 SCENE = 15
-TITLE = "Tournage interrompu  (Shoot Suspended)"
-LEVEL = "A1 — débutant"
+TITLE = 'Tournage interrompu  (Shoot Suspended)'
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "isabelle": "emilie", "cedric": "marcel", "gabriel": "theo"}
-LABELS = {"isabelle": "Isabelle", "cedric": "Cédric", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'isabelle': 'emilie', 'cedric': 'marcel', 'gabriel': 'theo'}
+LABELS = {'isabelle': 'Isabelle', 'cedric': 'Cédric', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent (Call My Agent!) S03E04'
 SOURCE_FILE = 'sources/dix-pour-cent/s03/e04.fr.dual.srt'
 INTRO = 'On the French film set, director Cedric Kahn frantically searches for his missing lead actress Isabelle Huppert. After Gabriel stalls the frustrated director, Isabelle reappears with an ingenious excuse, having successfully shut down the rival American production. Listen to the scene in French first.'
 OPENER = "Let's walk through the conversation step by step."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "With lightning-fast improvisation and daring cunning, Isabelle Huppert pulls off the impossible double booking. When you watch the episode, listen out for the expressions meaning 'is not' and 'dressing room'. You'll catch them now. See you next time."
-CLOSING = ("isabelle", "À demain!")
+OUTRO = "With lightning-fast improvisation and daring cunning, Isabelle Huppert pulls off the impossible double booking. When you watch the episode, listen out for the expressions meaning 'is not' and 'dressing room'. You'll catch them now. See you next time!"
+CLOSING = ('isabelle', 'À demain!')
 STORY = [
     ('cedric', "Isabelle n'est pas dans sa loge?", 'Is Isabelle not in her dressing room?', [(843, "Elle n'est pas là")], ''),
     ('gabriel', 'Je sais, on attend son retour.', 'I know, we are waiting for her return.', [(844, 'Je sais'), (845, 'On attend')], ''),

@@ -27,5 +27,5 @@
 | 13 | `mathias` (Mathias) | Fais croire qu'ils ont besoin de toi. | Make them believe that they need you. | 632:mais toi, fais-lui croire qu'il a besoin de toi. |
 
 ## Part 5 — Outro & Closing
-> Mathias passes down the agency wisdom of Samuel Kerr to Camille, encouraging her to believe in her value. When you watch the episode, listen out for the expressions meaning 'mother' and 'right'. You'll catch them now. See you next time.
+> Mathias passes down the agency wisdom of Samuel Kerr to Camille, encouraging her to believe in her value. When you watch the episode, listen out for the expressions meaning 'mother' and 'right'. You'll catch them now. See you next time!
 - **Closing**: `mathias`: *À demain!*

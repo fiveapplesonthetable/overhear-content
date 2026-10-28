@@ -31,5 +31,5 @@
 | 17 | `camille` (Camille) | Moi-même, je ne sais pas que je suis ta fille! | Even I don | 82:Moi-même, je ne sais pas que je suis ta fille |
 
 ## Part 5 — Outro & Closing
-> You've just seen the casual and the polite 'you' used as a weapon, in a lift. Don't worry if it went fast; the main lines will jump out at you when you watch. See you next time.
+> You've just seen the casual and the polite 'you' used as a weapon, in a lift. Don't worry if it went fast; the main lines will jump out at you when you watch. See you next time!
 - **Closing**: `lea`: *À bientôt!*

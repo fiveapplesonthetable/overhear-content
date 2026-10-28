@@ -5,17 +5,17 @@ SEASON = 4
 EPISODE = 6
 SCENE = 11
 TITLE = "C'était toi  (Was that you)"
-LEVEL = "A1 — débutant"
+LEVEL = 'A1 — débutant'
 PAIR = 'fr-en'
-VOICES = {"narrator": "sky", "elise": "emilie", "gabriel": "theo"}
-LABELS = {"elise": "Élise", "gabriel": "Gabriel"}
+VOICES = {'narrator': 'sky', 'elise': 'emilie', 'gabriel': 'theo'}
+LABELS = {'elise': 'Élise', 'gabriel': 'Gabriel'}
 SOURCE_NAME = 'Dix pour cent S04E06'
 SOURCE_FILE = 'sources/dix-pour-cent/s04/e06.fr.dual.srt'
 INTRO = "In the ASK hallway, Gabriel angrily confronts Elise about a shady behind-the-scenes move regarding Sofia's career. We will hear it in French first, so don't worry about catching every word."
 OPENER = "Let's go back through it. Gabriel asks a direct question."
 TRANSITION = "Now let's listen to the entire dialogue once more."
-OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around was that you, and for the words meaning 'to be' and 'to understand'. You'll catch them now. See you next time."
-CLOSING = ("gabriel", "Au revoir!")
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around was that you, and for the words meaning 'to be' and 'to understand'. You'll catch them now. See you next time!"
+CLOSING = ('gabriel', 'Au revoir!')
 STORY = [
     ('gabriel', "C'était toi?", 'Was that you?', [(410, "C'était toi?")], ''),
     ('elise', 'Je ne comprends pas.', 'I do not understand.', [(411, 'Je ne vois pas de quoi tu parles.')], ''),

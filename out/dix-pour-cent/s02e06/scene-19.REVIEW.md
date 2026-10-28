@@ -29,5 +29,5 @@
 | 15 | `arlette` (Arlette) | Alors va rejoindre Sofia et sois heureux! | Then go join Sofia and be happy! | 522:Allons-y., 525:C'est Cannes ! |
 
 ## Part 5 — Outro & Closing
-> Under the Mediterranean sun, Arlette reminds Gabriel to savor love and cinema at the Cannes Film Festival. Listen to the charming conversation once more in French. Until next time.
+> Under the Mediterranean sun, Arlette reminds Gabriel to savor love and cinema at the Cannes Film Festival. Listen to the charming conversation once more in French. See you next time!
 - **Closing**: `arlette`: *À demain!*

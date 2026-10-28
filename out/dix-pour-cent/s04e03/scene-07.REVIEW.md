@@ -2,8 +2,8 @@
 
 - **Source**: `sources/dix-pour-cent/s04/e03.fr.dual.srt`
 - **Level**: A1 — débutant
-- **Voices**: `{"narrator": "sky", "lea": "lucie", "hicham": "marcel", "gabriel": "theo"}`
-- **Labels**: `{"lea": "Andréa", "hicham": "Hicham", "gabriel": "Gabriel"}`
+- **Voices**: `{"narrator": "sky", "hicham": "marcel", "lea": "lucie", "gabriel": "theo"}`
+- **Labels**: `{"hicham": "Hicham", "lea": "Andréa", "gabriel": "Gabriel"}`
 
 ## Part 1 — Intro
 > Behind closed doors at ASK, Andrea confronts Hicham about Elise Formain's presence in the building. Hicham reveals that Elise is joining the agency with her roster, forcing a high-stakes partners' vote. Let's listen to their conversation in French first.
@@ -26,5 +26,5 @@
 | 12 | `gabriel` (Gabriel) | Je vote pour accueillir Élise chez nous. | I vote to welcome Elise into our firm. | 237:Qui est pour recruter Elise |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around elise's arrival. When you watch the episode, listen out for the expressions meaning 'is doing' and 'offices?'. You'll catch them now. See you next time.
+> That's it for this scene around elise's arrival. When you watch the episode, listen out for the expressions meaning 'is doing' and 'offices?'. You'll catch them now. See you next time!
 - **Closing**: `gabriel`: *Bonne journée!*

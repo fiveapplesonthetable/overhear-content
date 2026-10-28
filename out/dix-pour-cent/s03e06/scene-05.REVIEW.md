@@ -26,5 +26,5 @@
 | 12 | `herve` (Hervé) | Merci les filles, rangeons ces dossiers. | Thank you ladies, let | 362:On va t'aider. |
 
 ## Part 5 — Outro & Closing
-> That's it for this scene around traitor's daughter. When you watch the episode, listen out for the expressions meaning 'daughter' and 'traitor'. You'll catch them now. See you next time.
+> That's it for this scene around traitor's daughter. When you watch the episode, listen out for the expressions meaning 'daughter' and 'traitor'. You'll catch them now. See you next time!
 - **Closing**: `herve`: *Bonne journée!*
