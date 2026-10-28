@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'lyova': 'Лёва'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "Barinov has shut himself in his office with Alisa, and he is playing with her. Lyova, his sous-chef, who tends to stutter when he's stressed, comes in with a problem from the dining room. Here is what they say, in Russian first."
-OPENER = "Let's go back through it slowly."
-TRANSITION = 'And now the whole conversation, one more time through.'
-OUTRO = 'Lyova leaves with the door shut behind him and the kitchen on his shoulders. Barinov goes back to playing. Catch you next time.'
+INTRO = "Barinov has shut himself in his office with Alisa, and he is playing with her. Lyova, his sous-chef, who tends to stutter when he's stressed, comes in with a problem from the dining room. Take it in once, and don't worry about the details."
+OPENER = 'Now the same thing, but slowly.'
+TRANSITION = 'Now put it all together.'
+OUTRO = 'Lyova leaves with the door shut behind him and the kitchen on his shoulders. Barinov goes back to playing. Bye for now.'
 CLOSING = ('lyova', 'Пока!')
 STORY = [
     ('lyova', 'Шеф, вам нужно срочно на кухню.', 'Chef, you need to go to the kitchen urgently.', [], ''),
@@ -34,7 +34,7 @@ WALK = [
     (0, None, '\'Chef, you need to go to the kitchen urgently.\' Lyova says "vam", the polite "to you", and "nuzhno", "it\'s needed". Together it\'s "to you it\'s needed urgently to the kitchen". He doesn\'t even say "go". The direction is enough.'),
     (1, None, '\'Lyova, don\'t you see I am busy?\' Barinov says "ty" to him, as a boss does. "Zanyat" is "busy", and there\'s no word for "am". In Russian you simply say "I busy", and that\'s the whole sentence.'),
     (2, None, '\'Guests in the dining room are waiting for special dishes.\' Russian says "wait dishes", with no "for" at all. The dining room is "zal", which really means "hall". Lyova lists the problem as calmly as he can.'),
-    (3, None, '\'I am playing with my daughter right now.\' "Seychas" is "right now". Barinov says "with my daughter", and the word for daughter changes its ending after "with", as "you" did earlier. He thinks this settles it.'),
+    (3, None, '\'I am playing with my daughter right now.\' "Seychas" is "right now". Barinov says "with my daughter", and what Russian calls daughter changes its ending after "with", as "you" did earlier. He thinks this settles it.'),
     (4, None, '\'But this is an important order from the chef.\' Lyova pushes back, politely. "Zakaz", "order", is a word from the banquet scene, and "vazhny" is "important". The order comes from the chef himself, so he can hardly say no.'),
     (5, None, '\'You are a wonderful cook and will manage yourself.\' Barinov flatters him. "Spravishsya" is the same "manage" verb Louis used. It\'s a compliment and a brush-off in one, and "sam", "yourself", closes the door.'),
     (6, None, '\'They want specifically your signature meat.\' Lyova says "vashe", the polite "your". "Firmenny", "signature", comes from the Russian for company, so it means the house speciality. "Imenno", "specifically", you\'ve heard before.'),

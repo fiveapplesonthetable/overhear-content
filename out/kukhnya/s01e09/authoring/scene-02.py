@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
-INTRO = "Barinov has given Max to Louis, so that's settled. Now to the dining room, where Vika, who looks after the restaurant's guests and events, has a day of her own to get through. Her niece Alisa needs minding, and Alisa's father happens to be the chef. First the whole scene in Russian, no pressure."
-OPENER = "Now we'll take it one line at a time."
-TRANSITION = 'Now the whole scene again, without stopping.'
-OUTRO = 'So Alisa picks her father, and Vika is left with the dining room and a warning about chocolate. That chocolate will matter later. Speak soon.'
+INTRO = "Barinov has given Max to Louis, so that's settled. Now to the dining room, where Vika, who looks after the restaurant's guests and events, has a day of her own to get through. Her niece Alisa needs minding, and Alisa's father happens to be the chef. Over to the Russian."
+OPENER = 'Right, back to the start, one line at a time.'
+TRANSITION = 'And now the full version again.'
+OUTRO = 'So Alisa picks her father, and Vika is left with the dining room and a warning about chocolate. That chocolate will matter later. Rest well, and see you soon.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Виктор, у меня сегодня много работы.', 'Viktor, I have a lot of work today.', [(38, 'у меня еще сегодня банкет.')], ''),
