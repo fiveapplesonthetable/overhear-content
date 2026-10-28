@@ -10,30 +10,28 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Кристина | Мы с Димой обсудили дела. | Dima and I discussed the affairs. | #265 00:16:45: Мы с Димочкой обсудили дела в ресторане, | verbatim |
-| 2 | Кристина | У меня есть хорошая идея. | I have a good idea. | #265 00:16:45: и у меня есть пара мыслей, | verbatim |
-| 3 | Кристина | Как сделать ресторан лучше. | How to make the restaurant better. | #266 00:16:49: как сделать снова его рентабельным. | verbatim |
-| 4 | Кристина | Но сначала хочу поговорить с вами. | But first I want to talk with you. | #267 00:16:51: Но для начала я хотела бы обсудить с вами | verbatim |
-| 5 | Кристина | Только с вами, Виктор Петрович. | Only with you, Viktor Petrovich. | #267 00:16:51: Виктор Петрович, | verbatim |
-| 6 | Кристина | Если вы не против, Виктория Сергеевна? | If you do not mind, Victoria Sergeyevna? | #268 00:16:55: если вы, конечно, не против.<br>#269 00:16:57: А вы не против, Виктория Сергеевна? | verbatim |
-| 7 | Вика | Да, конечно, я не против. | Yes, of course, I do not mind. | #270 00:17:02: Да, конечно. | verbatim |
-| 8 | Шеф | Замечательно, я вас слушаю. | Great, I am listening to you. | #271 00:17:04: Замечательно. Ну, я слышу. | verbatim |
-| 9 | Кристина | Я посмотрела зарплаты сотрудников. | I looked at the employees salaries. | new | new |
-| 10 | Кристина | Нам нужно сделать увольнения. | We need to make layoffs. | #266 00:16:49: сделать | verbatim |
-| 11 | Шеф | О чём вы говорите? | What are you talking about? | new | new |
-| 12 | Кристина | Вика получает очень много денег. | Vika receives a lot of money. | new | new |
+| 1 | Кристина | Мы с Димочкой обсудили дела в ресторане, | Dimochka and I have talked over things at the restaurant, | #265 00:16:45: Мы с Димочкой обсудили дела в ресторане, | verbatim |
+| 2 | Кристина | и у меня есть пара мыслей, как снова сделать его рентабельным. | and I have a couple of ideas on how to make it profitable again. | #265 00:16:45: и у меня есть пара мыслей,<br>#266 00:16:49: как сделать снова его рентабельным. | verbatim |
+| 3 | Кристина | Но для начала я хотела бы обсудить это с вами наедине, | But first I'd like to discuss it with you in private, | #267 00:16:51: Но для начала я хотела бы обсудить с вами наедине, | verbatim |
+| 4 | Кристина | Виктор Петрович, если вы, конечно, не против. | Viktor Petrovich, if you don't mind, of course. | #267 00:16:51: Виктор Петрович,<br>#268 00:16:55: если вы, конечно, не против. | verbatim |
+| 5 | Кристина | А вы не против, Виктория Сергеевна? | And you don't mind, Victoria Sergeyevna? | #269 00:16:57: А вы не против, Виктория Сергеевна? | verbatim |
+| 6 | Вика | Да, конечно. | Yes, of course. | #270 00:17:02: Да, конечно. | verbatim |
+| 7 | Шеф | Замечательно. Ну, я слушаю. | Wonderful. Well, I'm listening. | #271 00:17:04: Замечательно. Ну, я слышу. | verbatim |
+| 8 | Шеф | Сейчас, подождите-ка. | Just a moment, hold on. | #272 00:17:10: Сейчас, подождите-ка. | verbatim |
+| 9 | Шеф | Костя, дай мне бутылочку коньяка. | Kostya, give me a bottle of cognac. | #275 00:17:24: Костя, дай мне бутылочку коньяка. | verbatim |
+| 10 | Шеф | Нет, правее. | No, further right. | #276 00:17:26: Правее.<br>#277 00:17:29: Нет, правее. | verbatim |
+| 11 | Шеф | Эту бутылку. | That bottle. | #279 00:17:33: Эту бутылку. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima and I have discussed things.' Russian says "my s Dimoy", 'we with Dima'. "Dela", affairs, covers business of every kind.
-- 'I have a good idea.' "U menya est", 'at me there is': I have. "Ideya" is easy to recognise.
-- 'How to make the restaurant better.' "Luchshe", better, comes from "khorosho", good, with no 'more' needed.
-- 'But first I want to talk to you.' "Snachala", first, at the start. "S vami", with you, is the polite 'you'.
-- 'Only with you, Viktor Petrovich.' First name plus father's name, with "-ovich" meaning 'son of', is the respectful way to address someone.
-- 'If you don't mind?' "Esli vy ne protiv", 'if you're not against': a polite way to ask someone to step out.
-- 'Yes, of course, I don't mind.' "Konechno", of course, is usually said "koneshno", with a 'sh'.
-- 'Wonderful, I'm listening.' "Zamechatelno" comes from "zamechat", to notice: something worth noticing.
-- 'I've looked at the staff salaries.' "Zarplata" is short for "zarabotnaya plata", earned pay. "Posmotrela" ends in "-la": a woman speaking.
-- 'We need to make cuts.' "Uvolneniya" means dismissals, from "uvolit", to fire. "Nam nuzhno", 'to us needed'.
-- 'What are you talking about?' "O chyom", about what: after "o", "chto" turns into "chyom".
-- 'Vika earns a lot of money.' "Poluchaet", gets, is how you say someone is paid. After "mnogo", "dengi" becomes "deneg".
+- 'Dimochka and I have talked over things at the restaurant,' Russian says "my s Dimochkoy", "we with Dimochka", for "Dimochka and I". "Dimochka" is a fond form of Dima.
+- 'and I have a couple of ideas on how to make it profitable again.' "Para mysley" is "a pair of thoughts". "Rentabelnym", profitable, takes "-ym" after "sdelat", to make.
+- 'But first I'd like to discuss it with you in private,' "Khotela by" is "would like", softer than "khochu". It ends in "-a" because Kristina is a woman. "Naedine" means alone together.
+- 'Viktor Petrovich, if you don't mind, of course.' First name plus father's name is the respectful way to address someone. "Esli vy ne protiv" is literally "if you are not against".
+- 'And you don't mind, Victoria Sergeyevna?' The same polite question again, now aimed at Vika, to send her out of the room.
+- 'Yes, of course.' "Konechno", of course, is usually said "koneshno", with a "sh".
+- 'Wonderful. Well, I'm listening.' "Zamechatelno" comes from "zamechat", to notice: something worth noticing. "Ya slushayu", I'm listening, is also how many Russians answer the phone.
+- 'Just a moment, hold on.' "Podozhdite" is "wait" said politely, with "-te": Barinov keeps to "vy" with his boss's wife. "-ka" softens it.
+- 'Kostya, give me a bottle of cognac.' "Day" is "give" said to one person you call "ty". "Butylochka" is a fond little form of "butylka", bottle.
+- 'No, further right.' "Pravee" is "more to the right", from "pravyy", right. Its partner is "levee", more to the left.
+- 'That bottle.' "Etu", this, ends in "-u" because "butylku" is the thing being given.
