@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are handling all the fish orders!' The word 'you' is at the very end, which stresses it: 'it's you who does them'. 'Fish orders' is 'orders on fish'.
-- 'Yes, Chef, I am ready to work!' The opening word is what a soldier says to an order, a bit like 'aye, sir'. 'Ready for work' uses a short 'toward' word before the work.
-- 'Let us see what kind of fish master you are.' 'What sort out of you' is the Russian phrase for saying 'what you're made of'. 'Fish' turns into a describing word, so it's 'fishy master'.
-- 'I will prepare all dishes very quickly.' 'All' is the plural kind, to match 'dishes'. 'Prepare' is the 'I will' form, which finishes with 'u'.
-- 'Maxim, take the order: two cod Florentines!' Barinov uses Max's full name, which is stricter. 'Two' is the female form because the fish is female, and the 'po' and 'ski' on the dish name mean 'in the style of'.
-- 'Yes, Chef, I am already starting to cook.' 'Already' is a useful little word. 'I start' ends in 'u', and the cooking word comes straight after it.
-- 'And two more portions of cod with almonds!' 'More' is the same small word you hear for 'still'. 'With almonds' gets 'om' since of 'with'.
-- 'But I already took two dishes!' The little word at the start adds 'after all', as in 'I've only just taken two!' After 'two', the dish word looks singular, but the form is a special one.
-- 'Do not argue, Fedya managed somehow!' 'Don't argue' is 'not' and then a command, from 'dispute'. 'Managed' is 'coped', and 'somehow' is a nice vague little word.
-- 'I do not have enough fresh fish here.' Russian says 'to me not enough', and then 'of fresh fish', in a slightly different shape. The word 'here' is the one for a place.
-- 'Search in the storage and hustle faster!' 'hustle' is literally 'spin', and it ends in 'sya'. 'Faster' is formed from 'fast' with 'ee' on the end.
-- 'I will handle all orders myself.' 'Handle' is the 'I will' form of 'cope'. 'With all orders' has 'with' plus an 'imi' ending.
-- 'Prove it with action then, rump!' 'Prove' is a command, and 'with action' is just the word for a deed with 'om' on the end. The last word is the chef's nickname for Max.
+- 'You are handling all the fish orders!' "Ty" comes at the very end, which puts the weight on it: you and nobody else. "Zakazy po rybe" is literally 'orders on fish'.
+- 'Yes, Chef, I am ready to work!' "Est" is the soldier's reply to an order, close to 'aye, sir'. "Gotov k rabote", 'ready for work', has "k", 'towards', and -e on the end of "rabota".
+- 'Let us see what kind of fish master you are.' "Kakoy iz tebya master" is literally 'what master out of you', a set way to doubt someone's skill. "Rybnyy" comes from "ryba", 'fish', and works like 'fish' in 'fish dish'.
+- 'I will prepare all dishes very quickly.' "Prigotovlyu", 'I'll prepare', promises the job will be done and finished. "Vse blyuda" is plural, and "vse" matches it.
+- 'Maxim, take the order: two cod Florentines!' "Treska", 'cod', is a feminine noun, so 'two' is "dve", and after it comes the genitive singular, "treski". "Po-florentiyski" means 'Florentine style'.
+- 'Yes, Chef, I am already starting to cook.' "Uzhe" means 'already'. "Nachinayu", 'I'm starting', is followed straight away by "gotovit", 'to cook'.
+- 'And two more portions of cod with almonds!' "Eshchyo dve" is 'two more'. After "s", 'with', almonds get the ending -yom: "s mindalyom".
+- 'But I already took two dishes!' "Zhe" adds 'after all', a note of protest. After "dva", 'two', the noun goes into the genitive singular, so "blyudo" becomes "dva blyuda".
+- 'Do not argue, Fedya managed somehow!' "Ne spor" is a negative command, 'don't argue'. "Spravlyalsya", 'was coping', describes how Fedya used to get through it, shift after shift.
+- 'I do not have enough fresh fish here.' "Mne ne khvataet" is literally 'to me it's not enough'. What's missing goes into the genitive: "svezhey ryby".
+- 'Search in the storage and hustle faster!' "Na sklade", 'in the storeroom', has -e for 'where'. "Krutis", 'hustle', is literally 'spin yourself round'.
+- 'I will handle all orders myself.' "Spravlyus" is 'I'll cope', a one-time promise set against Fedya's "spravlyalsya". After "so", 'with', the plural takes -ami: "so vsemi zakazami".
+- 'Prove it with action then, rump!' "Dokazhi" is the command 'prove'. "Delom", 'with a deed', is a case form of "delo", and Oguzok, 'rump', is the chef's nickname for Max.

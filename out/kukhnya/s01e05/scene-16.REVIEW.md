@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Настя | Всё, тут нам никто не помешает. | There, nobody will bother us here. | #207 00:15:22: никто не помешает | verbatim |
-| 2 | Костя | Настя, зачем мы сюда быстро пришли? | Nastya, why did we come here quickly? | new | new |
+| 2 | Костя | Настя, зачем мы сюда пришли? | Nastya, why did we come here? | new | new |
 | 3 | Настя | Нам нужно тихо поговорить без свидетелей. | We need to talk quietly without witnesses. | new | new |
 | 4 | Костя | Здесь действительно очень тихо и спокойно. | It is indeed very quiet and peaceful here. | new | new |
 | 5 | Настя | Ты готов мне немного помочь? | Are you ready to help me a little? | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There, nobody will bother us here.' The opening word is a small one that means 'that's it' or 'right'. 'Nobody will bother' keeps its 'not' even with 'nobody', so it's 'nobody not will bother'.
-- 'Nastya, why did we come here quickly?' 'what for' asks about the purpose, not the cause. 'Came' is a word for arriving on foot, and 'here' is the 'to here' kind.
-- 'We need to talk quietly without witnesses.' 'We need' is 'to us needed'. 'witness' springs from 'to see', so it is someone who has seen.
-- 'It is indeed very quiet and peaceful here.' There is no 'is' in the Russian. It's just 'here really quietly and calmly'. 'Quiet' and 'peaceful' end in 'o'.
-- 'Are you ready to help me a little?' 'Ready' ends in a consonant because it's said to a man. 'Help' is followed by 'to me', as if you were giving help to someone.
-- 'Of course, I am always glad to help you.' 'Glad' is the man's form, and a woman would say it with an 'a' on the end. 'always' is easy to remember, and 'help you' has the same 'to you' shape as before.
-- 'Only promise not to tell anyone anything.' 'Only' starts the line. Then comes 'promise' as a command, and a stack of 'nos': 'to nobody nothing not tell'.
-- 'I promise, this will be our shared secret.' 'I promise' is one word, in the same family as the command before it. 'Shared' comes from 'common'.
-- 'Great, then listen to me very carefully.' The line opens with made from 'excellent'. 'Carefully' comes from 'attention'.
-- 'I am all ears, speak quickly.' It's a fixed phrase, and it means 'I am all in attention'. English says 'all ears', and Russian says 'all attention'.
-- 'We will play out a very clever show!' 'play out' is often used for staging a prank. 'Show' is the Russian for a stage play, and 'clever' here means sly.
-- 'Well yeah, I don't understand anything yet.' The little word 'yet' is the same as the one in the goodbye. 'Don't understand anything' has the 'nothing' and the 'not' together.
-- 'Soon you will understand everything perfectly yourself!' 'Yourself' adds emphasis, as 'on your own' does in English. 'Will understand' is the finished kind, so it means 'you will suddenly get it'.
+- 'There, nobody will bother us here.' "Vsyo" here means 'right, that's it', not 'everything'. "Nikto ne pomeshaet" keeps the "ne" even with "nikto", 'nobody'.
+- 'Nastya, why did we come here?' "Zachem" asks about the purpose, 'what for'. "Syuda" is 'here' in the sense of 'to here', for movement, and "prishli" is 'came' on foot.
+- 'We need to talk quietly without witnesses.' "Nam nuzhno" is literally 'to us it's needed'. "Bez", 'without', turns "svideteli", 'witnesses', into "bez svideteley".
+- 'It is indeed very quiet and peaceful here.' There's no 'is' in the Russian, just "zdes ochen tikho i spokoyno". "Tikho" and "spokoyno" end in -o, the form for 'it's quiet' and 'it's calm'.
+- 'Are you ready to help me a little?' "Gotov", 'ready', has no ending because it's said to a man; to Nastya it would be "gotova". "Pomoch" takes 'to me', "mne", as if you give help to someone.
+- 'Of course, I am always glad to help you.' A man says "rad", a woman "rada". "Pomoch tebe", 'to help you', mirrors Nastya's "pomoch mne".
+- 'Only promise not to tell anyone anything.' "Poobeshchay" is the command 'promise'. Then come the stacked negatives, "nikomu nichego ne rasskazyvat", literally 'to nobody nothing not tell'.
+- 'I promise, this will be our shared secret.' "Obeshchayu", 'I promise', answers Nastya's "poobeshchay", 'promise me'. "Obshchaya" means 'shared' or 'common'; "tayna" is a secret.
+- 'Great, then listen to me very carefully.' "Otlichno" is 'great' or 'excellent', and "togda" is 'then'. "Vnimatelno", 'carefully', grows from "vnimanie", 'attention'.
+- 'I'm all ears, speak quickly.' "Ya ves vo vnimanii", word for word 'I'm all in attention', is the Russian version of 'all ears'. "Govori skoree" means 'talk faster', so 'go on, quick'.
+- 'We will play out a very clever show!' "Razygraem", from "razygrat", means staging a prank on someone. "Spektakl" is a stage play, and "khitryy" here means 'cunning'.
+- 'Well yeah, I don't understand anything yet.' "Poka" here means 'so far' or 'yet', the same word as the casual 'bye'. "Nichego ne ponimayu" puts 'nothing' and 'not' together.
+- 'Soon you will understand everything perfectly yourself!' "Sam", 'yourself', adds weight, like 'on your own'. "Poymyosh" is the perfective future of "ponyat", so it means the moment when it all clicks.

@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Вика | Макс, иди сюда прямо сейчас! | Max, come here right now! | #159 00:11:24: Иди сюда | verbatim |
 | 2 | Макс | Привет, Вика, что случилось? | Hi, Vika, what happened? | #159 00:11:24: привет | verbatim |
-| 3 | Вика | Слушай меня очень внимательно один раз. | Listen to me very attentively once. | #160 00:11:27: слушай сюда внимательно | verbatim |
+| 3 | Вика | Слушай меня очень внимательно. | Listen to me very carefully. | #160 00:11:27: слушай сюда внимательно | verbatim |
 | 4 | Вика | Не трогай моих официанток больше никогда! | Don't touch my waitresses ever again! | #161 00:11:30: кого-то из моих официанток | verbatim |
 | 5 | Вика | Или я приму очень строгие меры. | Or I will take very strict measures. | #162 00:11:34: Тебе вот этот | verbatim |
 | 6 | Макс | Вика, почему ты так сильно злишься? | Vika, why are you so angry? | #163 00:11:37: Вик, да что с тобой | verbatim |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, come here right now!' There are two words for 'here' in Russian, one for 'I am here' and one for 'come here'. This one is the 'come here' type, which is why it goes with a command.
-- 'Hi, Vika, what happened?' The last word is the past of 'to happen', and it is based on 'chance'. It's what you ask when someone looks upset.
-- 'Listen to me very attentively, one time.' 'Listen' is the plain command, and 'attentively' is related to 'attention'. 'One time' is literally 'one time', which means 'only once'.
-- 'Don't touch my waitresses ever again!' 'Don't' goes before the command. The word for a female waiter is the male word with 'ka' on the end, and 'never again' is 'more never'.
-- 'Or I will take very strict measures.' Russian 'accepts' measures, rather than 'taking' them. 'Strict' comes before 'measures' and the two words share the same ending.
-- 'Vika, why are you so angry?' The last word ends in 'sya', so it means 'be angry' as a state you are in. The little word 'so' in front of 'strongly' gives it extra force.
-- 'Poor Nastya has been crying because of you all day.' 'Poor' is 'pitiable', and it comes before her name. 'All day' is just 'all' and 'day', with no word for 'the whole of'.
-- 'But absolutely nothing happened between us!' 'Between us' has an unusual form for 'us'. 'Nothing was not' is a negative on top of a negative, and it's correct.
-- 'I saw your strange conversations by the bar.' 'Saw' carries 'la' since Vika is a woman. 'Your' is the plural kind, as it points at Max and Nastya together.
-- 'I warned you for the last time.' 'warned' starts with a prefix meaning 'before'. 'For the last time' is 'in the last time' in Russian.
-- 'Alright, I understood you, thanks for the advice.' Max says 'understood' with no ending, since he is a man. 'Thanks for' is two small words, and the thing you're thanking someone for comes right after.
-- 'Now I need to quickly salt the soup.' 'to salt' rests on the word for salt itself. 'I need' is 'to me needed', the usual way to say it.
-- 'And not forget to add fresh cream.' Cream is always plural in Russian, so it's more like 'the creams'. 'Not forget' is a neat pair of words that you can reuse in any list of reminders.
+- 'Max, come here right now!' Russian has two words for 'here': "zdes" for where you are, and "syuda" for where you're going. "Idi syuda", 'come here', needs the second.
+- 'Hi, Vika, what happened?' "Chto sluchilos" is the question to ask when someone looks upset. It's related to "sluchay", 'an occurrence'.
+- 'Listen to me very carefully.' "Slushay menya", 'listen to me', takes "menya" directly, with no 'to'. "Vnimatelno", 'carefully', is the attention word again.
+- 'Don't touch my waitresses ever again!' "Ofitsiantka", 'waitress', is "ofitsiant" plus -ka. 'Never again' is "bolshe nikogda", literally 'more never'.
+- 'Or I will take very strict measures.' "Primu mery" means 'I'll take measures', from "prinyat", the same verb Nastya used for taking a decision. "Strogie", 'strict', is plural to match "mery".
+- 'Vika, why are you so angry?' "Zlishsya" is from "zlitsya", 'to be cross', another verb that always carries -sya. "Tak silno" is 'so strongly'.
+- 'Poor Nastya has been crying because of you all day.' "Iz-za tebya", 'because of you', points the finger at someone. "Plachet" is present tense, since she's still crying.
+- 'But absolutely nothing happened between us!' "Mezhdu nami", 'between us', puts 'us' in the form "nami". Max also stacks the negatives again: "nichego ne bylo".
+- 'I saw your strange conversations by the bar.' "Videla" ends in -la, so the one who saw is a woman. "U bara" is 'by the bar', with "u", 'at', taking -a.
+- 'I warned you for the last time.' "Predupredila", 'warned', begins with "pred-", 'before', since a warning comes before trouble. 'For the last time' is "v posledniy raz".
+- 'Alright, I understood you, thanks for the advice.' "Spasibo za sovet", 'thanks for the advice', said a little too politely. "Sovet" also means 'council', as in Soviet.
+- 'Now I need to quickly salt the soup.' "Posolit", 'to salt', has "sol", 'salt', at its core. "Mne nuzhno" means 'I need to', literally 'to me it's needed'.
+- 'And not forget to add fresh cream.' "Slivki", 'cream', only exists in the plural. "Svezhikh slivok" takes the 'of' form, meaning 'some fresh cream'.

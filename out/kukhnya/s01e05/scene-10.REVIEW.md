@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, Oguzok, come here to me.' 'Listen' is the everyday way to get someone's attention, like 'hey'. 'Come up to me' is a short command, and 'oguzok' is the nickname Barinov uses for Max.
-- 'Yes, chef! What needs to be done?' 'Needed' is a handy word that says 'it's necessary' without naming anyone. 'To be done' is a single word with no 'to be' in it.
-- 'Go to the bar and bring cognac.' The little 's' at the start of the first word means 'go there and come back'. 'Bring' starts with 'pri', the piece that means 'toward'.
-- 'Which cognac exactly do you need?' The polite 'you' appears as 'to you needed', again with no 'I need'. The small word 'exactly' comes right after 'which'.
-- 'I wrote the name on this piece of paper.' The word for the paper has a 'ka' on the end, which makes it a small scrap. 'The name' here is for a thing, like a brand, not a person's name.
-- 'And what if someone notices me?' 'if' opens the question, and 'someone' is 'who' with the tiny 'to' on the end. 'Will notice' is about what might happen next.
-- 'Go to the bar to keep up appearances.' The phrase at the end is a fixed one: it's close to 'for the leading away of eyes', so it means a cover story. It's worth learning as a chunk.
-- 'And what should I say to bartender Kostya?' 'What to say' is a bare pair of words, with no 'should'. Both the job title and the name change at the end because they're 'to' someone.
-- 'Say that this is for meat sauce.' 'Say' is the command form, and 'that' is the same word as 'what'. 'Meat' turns into a describing word, so you get 'meaty sauce'.
-- 'Understood, I will do everything quickly and quietly.' The first word is a one-word 'got it'. Quickly and quietly both end in 'o', which is how Russian often makes 'how' words from describing ones.
-- 'And stuff the fish with julienne and lemon.' The command comes from the word for minced filling. 'with lemon' ends in 'om', and that 'om' is what 'with' asks for.
-- 'Then put it into the hot oven.' 'it' is a woman's form because fish is a 'she' in Russian. The command means 'stand it', as Russians say 'stand' for putting something upright.
-- 'Right away, chef, I'm already running!' The line begins with what a soldier would say, 'I obey'. The last two are 'already' and 'I run', and the 'u' on the end is the ending for 'I'.
+- 'Listen, Oguzok, come here to me.' "Slushay" is the everyday 'listen' or 'hey' you put before a request. "Podoydi ko mne", 'come over to me', is the chef's call from the cod meeting again.
+- 'Yes, chef! What needs to be done?' "Nuzhno", 'it's needed', names nobody. "Sdelat" is 'to do', in the form for getting a job done.
+- 'Go to the bar and bring cognac.' "Skhodi" adds "s-" to "khodi" and means 'pop over there and back'. "Prinesi", 'bring', begins with "pri-", which points toward the speaker.
+- 'Which cognac exactly do you need?' Literally 'which exactly cognac to you is needed'. "Nuzhen" keeps its bare form to match "konyak", and "vam" is the polite 'to you'.
+- 'I wrote the name on this piece of paper.' "Bumazhka" is "bumaga", 'paper', with -ka for a little scrap. "Nazvanie" is a name for a thing, like a brand; a person's name is "imya".
+- 'And what if someone notices me?' A "esli" is 'and if', the way to start a worried 'what if'. "Zametit", 'will notice', is a single future moment.
+- 'Go to the bar to keep up appearances.' "Dlya otvoda glaz" is a fixed phrase, literally 'for the leading away of eyes': a decoy. Learn it as one chunk.
+- 'And what should I say to bartender Kostya?' "Chto skazat" is 'what to say', no 'should' needed. Both "barmen" and Kostya change because they're 'to' someone: "barmenu Koste".
+- 'Say that this is for meat sauce.' "Myaso", 'meat', becomes an adjective here: "myasnoy", 'meaty'. After "dlya" it ends up as "myasnogo sousa".
+- 'Understood, I will do everything quickly and quietly.' "Ponyal", 'got it', is all you need in a kitchen. Like most 'how' words, "bystro" and "tikho" finish with -o.
+- 'And stuff the fish with julienne and lemon.' "Farshiruy" comes from "farsh", 'stuffing' or 'mince'. "Zhyulenom" with no preposition is 'with julienne' as the filling, while "s limonom" is 'together with lemon'.
+- 'Then put it into the hot oven.' "Eyo", 'her', is right because "ryba" is feminine. "Stav" is 'stand it', and Russians stand dishes in the oven rather than putting them.
+- 'Right away, chef, I'm already running!' "Slushayus" is a soldier's 'yes, sir', literally 'I obey'. "Begu", 'I run', ends in -u, the 'I' ending.

@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Макс | Шеф, кажется, сейчас мне наступит конец. | Chef, it seems the end has come for me now. | #187 00:14:11: Мне конец | verbatim |
+| 1 | Макс | Шеф, кажется, мне сейчас конец. | Chef, it looks like I'm done for. | #187 00:14:11: Мне конец | verbatim |
 | 2 | Шеф | Молчи и слушай строгий вердикт жюри. | Keep quiet and listen to the jury's strict verdict. | #188 00:14:14: Мне понравилось | verbatim |
 | 3 | Шеф | Виктория выбрала именно это первое блюдо. | Victoria chose this first dish in particular. | #189 00:14:17: Мне понравилось вот это | verbatim |
 | 4 | Макс | А вторую рыбу она назвала ужасной? | And the second fish she called awful? | #190 00:14:21: А эту рыбу я бы | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, it seems the end has come for me now.' Max uses 'it seems', which is a handy way to soften any guess. 'To me an end' is Russian for 'I'm finished', and 'will set in' is the one used for seasons arriving.
-- 'Keep quiet and listen to the jury's strict verdict.' Both commands are short: 'be quiet' and 'listen'. 'Verdict' and 'jury' are borrowed, so they sound nearly like English.
-- 'Vika chose this first dish in particular.' Barinov calls her by her full first name here, which is more formal than 'Vika'. 'dish' ends in 'o', and 'this' and 'first' end in 'o' too, to match it.
-- 'And the second fish she called awful?' 'awful' comes from 'horror'. Russian says 'called the fish awful' with a special ending on 'awful', rather than 'as' or 'to be'.
-- 'She didn't recommend it to anyone in the hall.' 'Recommend' stems from 'advice', so it comes out as 'she didn't advise it'. 'To nobody' is a single word, and the 'not' stays in the sentence.
-- 'Congratulations, our cook won fairly today!' The first word is 'I congratulate', in one word with no 'I'. 'Fairly' comes from 'honor', meaning 'honestly'.
-- 'Thank you very much for the great, fair evaluation.' Russian says 'thanks big' for 'thank you very much'. 'Fair' comes from 'justice', and 'evaluation' is a close cousin of a school grade.
-- 'Lord, how incredibly delicious this is!' The line begins with what Russians say when they're amazed, like 'good Lord'. 'Delicious' grows out of 'taste'.
-- 'Chef, let me taste a little too.' 'Give' with the 'te' ending is the formal form, because Max is talking to his boss. 'Too' sits in the middle of the sentence, and
-- 'Wait, I haven't properly tasted it myself yet.' 'myself' stresses who's doing the tasting. 'Not yet' is two small words, and the long word at the end has a prefix that means 'really taking it in'.
-- 'And the losing cook must finish eating everything himself.' 'The losing one' is derived from 'to lose a game'. 'finish eating' starts with the little piece that means 'all the way to the end'.
-- 'I hope our guests will remain very pleased.' 'I hope' is a single word that comes from 'hope'. 'Remain' is the future, and 'pleased' takes a plural ending to match 'guests'.
+- 'Chef, it looks like I'm done for.' "Kazhetsya", 'it seems', softens a guess. "Mne konets" is literally 'to me the end', the everyday way to say you're finished.
+- 'Keep quiet and listen to the jury's strict verdict.' "Molchi" and "slushay" are short "ty" commands, one straight after the other. "Verdikt" and "zhyuri" are borrowed, so you can almost hear the English and French in them.
+- 'Victoria chose this first dish in particular.' Barinov uses her full name, Viktoriya, which sounds more formal than Vika. "Blyudo", 'dish', is neuter, so "eto" and "pervoe" end in -o and -oe to match it.
+- 'And the second fish she called awful?' "Uzhasnoy" comes from "uzhas", 'horror'. After "nazvala", 'called', the description goes into the instrumental, so 'awful' ends in -oy.
+- 'She didn't recommend it to anyone in the hall.' "Posovetovala" comes from "sovet", 'advice', so it's close to 'she didn't advise it'. "Nikomu", 'to nobody', still needs "ne" before the verb.
+- 'Congratulations, our cook won fairly today!' "Pozdravlyayu" means 'I congratulate', and the ending already says 'I'. "Chestno", 'fairly' or 'honestly', is related to chest, 'honour'.
+- 'Thank you very much for the great, fair evaluation.' "Spasibo bolshoe" is literally 'big thanks'. "Otsenka", 'evaluation', also means a mark at school, and after "za" it becomes "otsenku".
+- 'Lord, how incredibly delicious this is!' "Gospodi", 'Lord', is what people say when something amazes them. "Vkusno", 'delicious', comes straight from "vkus", 'taste'.
+- 'Chef, let me taste a little too.' "Dayte", 'give', has the polite -te because Max is speaking to his boss. "Dayte poprobovat", 'let me try', asks for a taste.
+- 'Wait, I haven't properly tasted it myself yet.' "Sam" puts the weight on 'myself', and "eshchyo ne" means 'not yet'. "Rasprobovat", with "ras-" on the front, is to taste something properly and get the flavour.
+- 'And the losing cook must finish eating everything himself.' "Proigravshiy", 'the one who lost', comes from "proigrat", 'to lose'. In "doest", the "do-" means eating to the very end.
+- 'I hope our guests will remain very pleased.' "Nadeyus", 'I hope', comes from "nadeyatsya", with -yus for 'I'. "Dovolny", 'pleased', has the plural -y because it describes "gosti", 'guests'.

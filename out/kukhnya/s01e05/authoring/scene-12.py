@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nastya': 'Настя', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Nastya has listened to Sasha's plan and, a little nervously, agreed to it. The plan is to talk to Kostya at the bar. Sasha thinks it will work, because she has noticed something. It's in Russian first."
-OPENER = "Let's go back, and listen to how Sasha builds her confidence line by line."
+INTRO = "Still in the staff room at Claude Monet, Nastya has heard Sasha's revenge plan: start seeing Kostya, Max's best friend. Nervously, she says yes. Sasha is sure it will work, because she has noticed how Kostya looks at Nastya. Here it is in Russian."
+OPENER = "Let's go back and hear Sasha build up her friend's courage, one line at a time."
 TRANSITION = 'One more time, at normal pace.'
-OUTRO = "Look at how many tiny words are doing the work here: 'but', 'still', 'what if', 'of course'. Those are what make Russian sound like Russian. See you next time."
+OUTRO = 'Notice the little words carrying this scene: "ladno", "vsyo ravno", "vdrug", "konechno". Small as they are, they make the Russian sound alive.'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Ладно, я согласна на этот план.', 'Alright, I agree to this plan.', [(158, 'Ладно')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Спасибо за поддержку, дорогая Саша!', 'Thanks for the support, dear Sasha!', [], ''),
 ]
 WALK = [
-    (0, None, "'Alright, I agree to this plan.' The line opens with a casual 'fine, okay'. 'Agree' gets 'a' since Nastya is a woman; a man would say it with no ending."),
-    (1, None, "'That's a good girl, you made a decision.' 'good girl' is a masculine word, even though it is said to a woman. In Russian you 'take' a decision, rather than 'make' one, and the 'la' on the end marks her as female."),
-    (2, None, "'But I am still a little bit afraid.' The phrase for 'still' is literally 'everything equal', which here means 'all the same'. 'A little' is one word, a combination of 'not' and 'much'."),
-    (3, None, "'What exactly are you afraid of right now?' 'what' takes a different shape after 'afraid', so it comes out as 'of what'. 'exactly' appears again, which is typical of Sasha."),
-    (4, None, "'What if Kostya won't want to talk?' The word that starts the line normally means 'suddenly', but here it means 'what if'. 'Won't want' is 'not will-want', which is a future."),
-    (5, None, "'Kostya has been looking at you for a long time.' Russian uses the present for something that started in the past and is still going: 'he looks at you, for a long time'. 'Looks at' comes out as 'looks on'."),
-    (6, None, "'Really? Did you notice his looks?' 'Really' is 'truth' used as a question. 'His looks' is a plural word for glances, and the long word is the past of 'to notice'."),
-    (7, None, "'Of course, he likes you very much.' Here the 'like' word flips: it says 'you to him are pleasing', so you do the pleasing. It's a good pattern to learn once."),
-    (8, None, "'Then I will go to the bar counter.' 'Will go' is a one-word future. The little word 'k' in front of the counter means 'toward', and the counter changes its ending after it."),
-    (9, None, "'Smile at him warmly and openly.' The command for 'smile' ends in 'sya', so it's 'smile yourself'. The two how-words, 'warmly' and 'openly', both end in 'o'."),
-    (10, None, "'Max will definitely regret his behavior.' 'regret' belongs to the family of 'sorry'. 'His own' is a special word that points back to the speaker of the sentence."),
-    (11, None, "'I wish you great luck, my friend!' 'I wish' is a handy opening for any good wish. 'Luck' gets a different ending after it, because the thing you wish is in a special shape."),
-    (12, None, "'Thanks for the support, dear Sasha!' 'dear' is the same as 'expensive', so a close friend is a 'dear' one in both senses. 'For the support' is 'for' plus the word with its ending changed."),
+    (0, None, '\'Alright, I agree to this plan.\' "Ladno" is a relaxed \'okay, fine\'. "Soglasna", \'agreed\', is the woman\'s form; a man would say "soglasen".'),
+    (1, None, '\'That\'s a good girl, you made a decision.\' "Molodets", \'well done\', is a masculine word that Russians happily say to women too. A decision is something you \'take\': "prinyala reshenie".'),
+    (2, None, '\'But I am still a little bit afraid.\' "Nemnogo", \'a little\', is simply "ne" plus "mnogo", \'not much\'. "Vsyo ravno", \'all the same\', comes back here as \'still\'.'),
+    (3, None, '\'What exactly are you afraid of right now?\' After "boyatsya", \'to be afraid\', "chto" turns into "chego". Russians are afraid \'of\' things in that form.'),
+    (4, None, '\'What if Kostya won\'t want to talk?\' "Vdrug" normally means \'suddenly\', but at the start of a worried question it\'s \'what if\'. "Ne zakhochet" is \'won\'t want\', a future.'),
+    (5, None, '\'Kostya has already been looking at you for a long time.\' Russian keeps the verb in the present, "smotrit", \'looks\', for something that started long ago and is still going. You look "na" someone: "na tebya".'),
+    (6, None, '\'Really? Did you notice his looks?\' "Vzglyady" is the plural of "vzglyad", \'a glance\'. "Zamechala" means \'were you noticing\', over a stretch of time.'),
+    (7, None, '\'Of course, he likes you very much.\' "Ty emu nravishsya", \'you to him are pleasing\'. This time it\'s Nastya doing the pleasing, and Kostya in the \'to him\' slot.'),
+    (8, None, '\'Then I will go to the bar counter.\' "Poydu", \'I\'ll go\', is a future in one word. "K", \'towards\', makes "barnaya stoyka" into "k barnoy stoyke".'),
+    (9, None, '\'Smile at him warmly and openly.\' "Ulybnis", \'smile\', has the -sya shortened to -s after a vowel. "Teplo" and "otkryto", \'warmly\' and \'openly\', are both -o words.'),
+    (10, None, '\'Max will definitely regret his behavior.\' "Pozhaleet" is related to "zhal", \'sorry\' or \'a pity\'. "Svoyom" points back to Max, the one doing the regretting.'),
+    (11, None, '\'I wish you great luck, my friend!\' "Zhelayu tebe", \'I wish you\', opens any good wish. What you wish goes into the \'of\' form: "bolshoy udachi".'),
+    (12, None, '\'Thanks for the support, dear Sasha!\' "Dorogaya", \'dear\', also means \'expensive\'. "Spasibo za podderzhku" is what Nastya said to Vika, word for word.'),
 ]

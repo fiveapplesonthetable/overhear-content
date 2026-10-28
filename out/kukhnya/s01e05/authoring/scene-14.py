@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Nastya has decided to follow Sasha's plan, and she finds Kostya near the bar. She asks him to come with her somewhere quiet, where she can ask him something. Kostya, who has been in love with her for ages, can hardly believe it. It's in Russian first."
-OPENER = "Let's go back. Both of them are nervous, and you can hear it in the short questions."
+INTRO = "Back at the Claude Monet bar, Nastya goes ahead with Sasha's plan. She finds Kostya, the bartender, and asks him to come somewhere quiet so she can ask him something. Kostya has liked her for ages and can hardly believe his luck. Here it is in Russian."
+OPENER = "Let's go back. They're both nervous, and you can hear it in the short questions."
 TRANSITION = 'By now it should sound clearer.'
-OUTRO = "'I like you' is one of the most useful things to be able to say. In Russian it is 'you to me are pleasing', and you've heard it said happily here. See you next time."
+OUTRO = 'Kostya finally gets to say "ty mne ochen nravishsya", \'I like you a lot\'. It\'s one of the most useful sentences in Russian, and now you\'ve heard it in a happy moment.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, привет, ты сейчас сильно занят?', 'Kostya, hi, are you very busy right now?', [(175, 'Костя, привет'), (177, 'Ты занят')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Теперь нам пора возвращаться к гостям.', 'Now it is time for us to return to the guests.', [(185, 'два блюда')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, hi, are you very busy right now?' 'busy' is for a man; a woman would add an 'a'. 'Very' here is the one that means 'strongly'."),
-    (1, None, "'Hi, Nastya, no, I am completely free.' 'Completely' is the same small word as in 'not at all'. 'Free' ends in a consonant because Kostya is a man."),
-    (2, None, "'Then come with me into the quiet room.' 'Let's go' ends in 'yom', a form that means 'we'. 'With me' is 'so mnoy', where the 'so' is just 'with' made easier to say."),
-    (3, None, "'Wait a second, where exactly are we going?' 'where to' is not the same as 'where at'; Russian wants one for movement. 'Wait' is a command that sounds like 'hang on'."),
-    (4, None, "'I wanted to ask you seriously for a long time.' 'Wanted' ends in 'a' because Nastya is a woman. 'For a long time' is one word, and it goes naturally with an action that has been on her mind."),
-    (5, None, "'I will listen to you with pleasure now.' 'With pleasure' is a short, polite phrase, and it takes three words. 'hear out' has a prefix that means 'all the way to the end'."),
-    (6, None, "'Do you want us to start dating?' Russian doesn't say 'want us to start'. It says 'want so-that we started', using a past form after a linking word. 'Dating' is the same 'meeting' word that Russians use for going out."),
-    (7, None, "'Nastya, I just got a little confused.' The long word at the end ends in 'sya', and it means roughly 'lost myself'. 'Just' and 'a little' soften it, so he sounds shy."),
-    (8, None, "'Or do you not want this at all?' 'Not at all' is made from 'completely' and 'not'. 'This' ends in 'ogo', because Russian changes it after a negative 'want'."),
-    (9, None, "'Of course I want to, I like you very much!' Kostya answers with one word, 'I want', and then there's no 'I' in the second half either. 'You to me are pleasing' is the Russian way of saying 'I like you'."),
-    (10, None, "'I am very glad to hear this from you.' 'glad' ends in 'a' for a woman. 'From you' is the same pair of words that Russians use for any 'from'."),
-    (11, None, "'Now it is time for us to return to the guests.' 'time to' is short and has no 'is'. 'To us' sits right after it, and 'to the guests' needs the little word 'k' to mean 'toward'."),
+    (0, None, '\'Kostya, hi, are you very busy right now?\' "Zanyat" is \'busy\' for a man; for a woman it\'s "zanyata". "Silno", literally \'strongly\', often just means \'very\'.'),
+    (1, None, '\'Hi, Nastya, no, I am completely free.\' "Sovsem", \'completely\', is the word that made Max\'s "sovsem ne". "Svoboden", \'free\', is the man\'s form.'),
+    (2, None, '\'Then come with me into the quiet room.\' "Poydyom" means \'let\'s go\', with the \'we\' ending -yom. "V tikhuyu komnatu" is a direction, so both words end in -u.'),
+    (3, None, '\'Wait a second, where exactly are we going?\' "Kuda" asks \'where to\', for movement. If you just want to know where something is, you say "gde".'),
+    (4, None, '\'I wanted to ask you seriously for a long time.\' "Davno khotela", \'long wanted\', covers \'I\'ve been wanting for a long time\'. "Khotela" has the woman\'s -a.'),
+    (5, None, '\'I will listen to you with pleasure now.\' "S udovolstviem", \'with pleasure\', is a polite yes to any offer. "Vyslushayu" is \'hear out\', listening all the way through.'),
+    (6, None, '\'Do you want us to start dating?\' "Khochesh", "chtoby my nachali" is \'you want so-that we started\', with "nachali" in the past after "chtoby". "Vstrechatsya" is the dating verb once more.'),
+    (7, None, '\'Nastya, I just got a little confused.\' "Rasteryalsya" contains "teryat", \'to lose\', with -sya, so roughly \'I lost myself\'. "Prosto nemnogo", \'just a little\', softens it.'),
+    (8, None, '\'Or do you not want this at all?\' After "ne khochesh", "eto" changes to "etogo". It\'s the same shift that turned "shutka" into "shutki" after \'didn\'t understand\'.'),
+    (9, None, '\'Of course I want to, I like you very much!\' "Khochu" alone means \'I want to\'. Then "ty mne nravishsya", \'you to me are pleasing\', is a plain \'I like you\'.'),
+    (10, None, '\'I am very glad to hear this from you.\' "Rada" is the woman\'s \'glad\'; Kostya would say "rad". "Ot tebya", \'from you\', uses "ot", which takes the \'of\' form.'),
+    (11, None, '\'Now it is time for us to return to the guests.\' "Pora", \'it\'s time\', is followed by a plain verb. "K gostyam", \'to the guests\', is "k" with a plural ending -am.'),
 ]

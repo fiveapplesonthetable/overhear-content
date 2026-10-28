@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "By now Max has told Kostya that Nastya means nothing to him, and Nastya has been planning children's names. Something has to give. They meet in the vegetable storeroom, and Max has to be clear without being cruel. It's in Russian first, and you don't need to catch every word."
-OPENER = "Now through it slowly. Watch how Max keeps saying 'not' in different ways."
-TRANSITION = "Let's hear it all the way through."
-OUTRO = "You've heard a lot of ways to say not here: not, not at all, never, nothing. Those are the words that make a Russian sentence clear, and now you've met them in a good, dramatic order. See you next time."
+INTRO = 'Back at Claude Monet, Max, the young cook, has promised Kostya that Nastya means nothing to him, while Nastya is already planning children. Something has to give. Max finds her in the vegetable storeroom and tries to be clear without being cruel. Here it is in Russian.'
+OPENER = "Let's slow it down. Listen for how many different ways Max finds to say 'not'."
+TRANSITION = "Here's the breakup from beginning to end."
+OUTRO = 'Count the negatives you just heard: "ne", "sovsem ne", "vovse ne", "nikogda", "nichego". Russian piles them up without cancelling anything, and Max needed every one.'
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Настя, что ты сейчас делаешь?', 'Nastya, what are you doing now?', [(50, 'Что ты делаешь')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Да, если хочешь, я тебя бросаю!', 'Yes, if you want, I am dumping you!', [(63, 'да, я тебя бросаю')], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, what are you doing now?' It's an ordinary question, and it sets up the shock. 'now' is one you'll hear all the time."),
-    (1, None, "'Well, we're on a real date!' Her little 'well' at the start shows she thinks it's obvious. 'date' comes from 'seeing', which is also inside the Russian goodbye."),
-    (2, None, "'No, Nastya, we are not on a date.' Notice there's no word for 'are'. Russian leaves out 'is' and 'are' in the present, so it's just 'at us not a date'."),
-    (3, None, "'You understood everything wrong yesterday.' The verb gets 'a' since it's said to a woman. 'Not so' means 'not in the way you took it'."),
-    (4, None, "'You and I are not dating at all.' Russian says 'we with you' for 'you and I'. 'at all' sits in front of 'not' and makes it stronger."),
-    (5, None, "'I am not your boyfriend.' 'boyfriend' is also the plain word for 'guy', just as 'girlfriend' and 'girl' are the same word. Context tells you which one is meant."),
-    (6, None, "'And you are not my girlfriend.' Max matches the last line with the woman's form of 'my'. His 'and' here sounds more like 'and likewise'."),
-    (7, None, "'Are you dumping me right now?' The verb literally means 'throw', as in 'throw me out of your life'. The first words are Nastya's shocked 'what, you...?'"),
-    (8, None, "'These are not silly jokes at all.' 'at all' does the same job as the one in the dating line. Max insists it isn't a joke, which is not how Nastya's world is going."),
-    (9, None, "'Nothing ever happened between us.' This line has three negatives: 'never', 'nothing' and 'not'. Russian wants all of them, and none cancels another."),
-    (10, None, "'And what about our kiss?' 'kiss' is put together from the same word as 'to kiss'. 'What about' is literally 'how then'."),
-    (11, None, "'And what about our future children?' 'future' comes from 'will be'. You can hear the 'will be' inside it, so 'future' is literally 'the will-be'."),
-    (12, None, "'What children, Nastya?' Max stops, confused. The small word he adds, meaning 'else' or 'still', turns it into 'what on earth children?'."),
-    (13, None, "'Yes, if you want, I am dumping you!' He uses the same verb she used for 'dump'. 'If you want' is just 'if' plus 'you want', with no special ending for the 'if'."),
+    (0, None, '\'Nastya, what are you doing now?\' A plain question to set up the shock. "Delaesh", \'you do\', ends in -esh, the regular ending when you talk to one person as "ty".'),
+    (1, None, '\'Well, we are on a real date!\' "Zhe" adds \'obviously\', as if Max ought to know. "Svidanie", \'a date\', shares its root with do "svidaniya", \'goodbye\': both are about seeing each other.'),
+    (2, None, "'No, Nastya, we are not on a date.' No 'are' anywhere. Russian drops 'is' and 'are' in the present, so it's just 'at us not a date'."),
+    (3, None, '\'You understood everything wrong yesterday.\' "Ne tak" is \'not so\', not the way it really was. "Ponyala" ends in -a because the person who got it wrong is a woman.'),
+    (4, None, '\'You and I are not dating at all.\' \'You and I\' comes out as my "s toboy", \'we with you\'. "Vstrechaemsya", \'we\'re dating\', literally means \'we meet each other\'.'),
+    (5, None, '\'I am not your boyfriend.\' "Paren" is the ordinary word for \'guy\', and also \'boyfriend\', the way "devushka" was both \'girl\' and \'girlfriend\'.'),
+    (6, None, '\'And you are not my girlfriend.\' The mirror of the last line, with "moya", \'my\', in its feminine form to go with "devushka".'),
+    (7, None, '\'Are you dumping me right now?\' "Brosaesh" literally means \'you throw\', and Russians use it for dumping someone. "Ty chto" at the front is a shocked \'what, are you...?\'.'),
+    (8, None, '\'These are not silly jokes at all.\' "Vovse ne" is a stronger \'not at all\', a cousin of the "sovsem ne" from two lines ago. "Shutki", \'jokes\', is plural, and so is "glupye", \'silly\'.'),
+    (9, None, '\'Nothing ever happened between us.\' Three negatives at once, "nikogda", "nichego" and "ne". Russian needs all three and none of them cancels another.'),
+    (10, None, '\'And what about our kiss?\' A "kak zhe" is literally \'and how then\', the standard way to say \'but what about\'. "Potseluy", \'a kiss\', comes from the same root as "tselovat", \'to kiss\'.'),
+    (11, None, '\'And what about our future children?\' "Budushchie", \'future\', has the same "bud-" you find in "budu", \'I will be\'. Its -ie ending matches "deti".'),
+    (12, None, '\'What children, Nastya?\' "Eshchyo" normally means \'still\' or \'more\', but in "kakie eshchyo" it means \'what on earth\'.'),
+    (13, None, '\'Yes, if you want, I am dumping you!\' Max takes her own word and says "brosayu", \'I\'m dumping\'. "Esli khochesh", \'if you want\', is a phrase you\'ll hear everywhere.'),
 ]

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, cooks, place bets and sign up!' Senya opens like a market trader. 'Place bets' is 'make' plus 'bets', and the last word carries 'sya' since the cooks sign themselves up.
-- 'Now Fedya and Max will prepare a dish each.' The little word 'po' in front of the dish means 'each', so it's one dish apiece. 'Will prepare' is the 'they will' form, ending in 'yat'.
-- 'And the chef will taste and choose the winner.' Both actions are in the future. 'winner' is derived from 'victory', which also gives the name of the Russian holiday on May ninth.
-- 'What is the main ingredient for our dish?' 'main' comes from 'head', as in head chef. The question word 'which' changes its ending to match 'ingredient'.
-- 'The main ingredient of today's contest is cod!' 'today's' is assembled from 'today' by adding endings. 'Contest' is borrowed, and the word for the fish is an easy one to remember, since the whole kitchen is about to cook it.
-- 'You are finished, runt!' There's no 'are' here, just 'to you, an end'. It's how you'd say 'you're done for' in Russian.
-- 'I have cooked all the fish in the ocean!' It's pure boasting, and the 'cooked' is the form for a man. 'In the ocean' gets a little 'e' on the end because it's a place.
-- 'I also know how to cook fish.' 'know how to' talks about a skill rather than a fact. Max puts 'fish' first in the line, as if to say 'fish, I can do'.
-- 'We will see your pathetic skills.' 'skills' comes from the same family as Max's 'know how to', so Fedya turns Max's own word against him.
-- 'Who bets five hundred rubles on Fedya?' Five hundred is 'five' and 'hundred' joined up. 'Bets' springs from 'stakes' from the first line.
-- 'All the cooks in the kitchen bet on me.' 'all' leads the line. The last two words are 'on me', and 'me' takes a different form there.
-- 'And I will prove my talent anyway!' 'anyway' is literally 'everything equal'. 'my own' is a small one that you can use whenever the owner is the speaker.
-- 'The clock has started, begin cooking right now!' Russian says 'time has gone', as in a clock that has started running. The last words, 'right now', are a handy pair.
-- 'I will make the best sauce.' 'the best' is taken from 'most' plus 'best', so 'the most best'. Russian does that to make something more than best.
+- 'So, cooks, place bets and sign up!' "Delaem" and "zapisyvaemsya" are 'we' forms, used here as 'let's'. "Stavki" are the bets, and the -sya on "zapisyvaemsya" means they're signing themselves up.
+- 'Now Fedya and Max will prepare a dish each.' "Po" in front of "blyudu" means 'one each'. "Prigotovyat" ends in -yat, the 'they will' form.
+- 'And the chef will taste and choose the winner.' "Poprobuet" and "vyberet" are both future. "Pobeditel", 'winner', comes from "pobeda", 'victory', as in "Den Pobedy", Victory Day, on the ninth of May.
+- 'What is the main ingredient for our dish?' "Glavnyy", 'main', grows from "glava", 'head'. After "dlya", 'for', the dish becomes "nashego blyuda".
+- 'The main ingredient of today's contest is cod!' The dash stands in for 'is'. "Segodnyashnego konkursa" means 'of today's contest', with "segodnya", 'today', inside the adjective.
+- 'You are finished, runt!' Literally 'to you an end'. "Tebe konets" is the stock Russian way to say 'you're done for'.
+- 'I have cooked all the fish in the ocean!' Fedya is the fish cook, so the boast fits. "V okeane" takes -e because it's a place, and "rybu" takes -u as the thing cooked.
+- 'I also know how to cook fish.' "Umeyu" is 'I know how', for a skill. Max puts "rybu" first, like saying 'fish, I can do too'.
+- 'We will see your pathetic skills.' "Umeniya", 'skills', comes from "umet", so Fedya throws Max's own "umeyu" back at him. "Posmotrim na" means 'we'll look at'.
+- 'Who bets five hundred rubles on Fedya?' "Pyatsot", 'five hundred', joins "pyat" and "sto". You bet "na" someone, and Fedya becomes "Fedyu" after it.
+- 'All the cooks in the kitchen bet on me.' The same "na", now with "na menya", 'on me'. "Stavyat" is the 'they' form of "stavit".
+- 'And I will prove my talent anyway!' "Vsyo ravno", 'all the same', means 'anyway'. "Svoy" is the 'my' you use when the owner is the one doing the action.
+- 'Time has started, begin cooking right now!' "Vremya poshlo", literally 'time went', is the call that starts the clock. "Pryamo seychas", 'right now', is worth keeping.
+- 'I will make the best sauce.' "Samyy luchshiy" is 'the most best', a doubled-up superlative that's normal in everyday Russian. "Sous" comes from French.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max treated me very badly.' Russian says 'acted with me', with the small word for 'with me' in a different shape from plain 'me'. 'Very badly' is two easy words you'll use again.
-- 'Stop crying, Nastya, wipe your tears.' The opening word is 'enough', and it's followed directly by 'to cry', with no 'of' or 'from'. 'Wipe' is a command, and 'tears' is the plural, which in Russian looks a lot like a soft 'zy' ending.
-- 'You just need to get back at him.' 'You need' is 'to you needed', which is the way Russian says it. 'Get back at' is rooted in 'revenge', and 'him' appears as 'to him'.
-- 'Will I feel better if I get revenge?' 'I will feel better' is literally 'to me will become lighter'. The same word for 'lighter' is also 'easier'.
-- 'Of course, you will immediately feel better.' Sasha uses the same 'to you will become lighter' shape. 'immediately' is a handy single word: 'at once'.
-- 'But how can I punish him?' 'I can' is a short form you'll use constantly. 'Punish' belongs to the family of 'punishment'.
-- 'Start going out with his best friend.' 'Start' is a command, and 'going out with' is the same one used for 'meeting'. 'His best friend' has an 'im' and an 'om' on the ends, because of 'with'.
-- 'With his friend? With bartender Kostya?' Nastya echoes the 'with' phrase and asks again. Each name and title keeps the same ending after the small word for 'with'.
-- 'Yes, exactly with Kostya!' 'exactly' goes right in front of what it points at. Sasha is not letting her wriggle out of it.
-- 'That way Max will hurt even more.' Russian says 'to Max will be even more painful', so Max sits in the 'to' slot. 'even' makes 'more' stronger.
-- 'Do you think that's really a good idea?' 'really' is a long one that means 'in fact', not just 'truly'. 'Think' is the same word that Russians use for 'you think so?'.
-- 'Trust me, this is the very best option.' 'Trust me' is 'believe to-me', with the little word for 'to me'. 'The very best' is 'the most best' again, a pattern that makes something extra strong.
-- 'Act right now, do not lose time.' 'Do not lose' is a no-command: 'not' followed by the command. 'Time' takes a different ending after it, because it's something you don't lose.
+- 'Max treated me very badly.' You heard this exact line when Nastya told Vika. "Ochen plokho", 'very badly', is the easy part; "postupil so mnoy" is 'acted with me'.
+- 'Stop crying, Nastya, wipe your tears.' "Khvatit", 'enough', is followed straight away by "plakat", 'to cry'. "Vytri", 'wipe', is a command to one person.
+- 'You just need to get back at him.' "Tebe nuzhno", 'to you it's needed', is how 'you need to' works. "Otomstit" comes from "mest", 'revenge', and the person you take it on goes into the 'to' form: "emu".
+- 'Will I feel better if I get revenge?' Literally 'to me will become lighter'. "Legche" is the comparative of "lyogkiy", which means both 'light' and 'easy'.
+- 'Of course, you will immediately feel better.' Sasha repeats the shape back with "tebe" in place of "mne". "Srazu" means 'at once', and you'll hear it constantly.
+- 'But how can I punish him?' "Mogu", 'I can', is a word you'll need every day. "Nakazat" is 'to punish', while "nakazanie" names the punishment itself.
+- 'Start going out with his best friend.' "Vstrechatsya s", 'to date', is the verb Max used earlier. After "s", the words change to "s ego luchshim drugom", but "ego", 'his', never changes.
+- 'With his friend? With bartender Kostya?' Nastya repeats it in disbelief. After "s", "barmen" becomes "barmenom" and Kostya becomes "Kostey".
+- 'Yes, exactly with Kostya!' "Imenno", 'exactly', points straight at the word after it. Sasha won't let her wriggle out of it.
+- 'That way Max will hurt even more.' "Maksu budet bolnee" is 'to Max it will be more painful'. "Eshchyo" before a 'more' word like this means 'even'.
+- 'Do you think that's really a good idea?' "Deystvitelno" means 'really' in the sense of 'actually, in fact'. "Dumaesh" on its own is a doubtful 'you think?'.
+- 'Trust me, this is the very best option.' "Pover mne" is 'believe to me', with "mne" in the 'to' form. "Variant" looks like 'variant' but means 'option'.
+- 'Act right now, do not lose time.' "Ne teryay", 'don't lose', is "ne" plus a command. After it, "vremya" turns into "vremeni", as it did in Nastya's 'love knows no time'.
