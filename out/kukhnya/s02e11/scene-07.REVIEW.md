@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, hello.' Lyova frames one loaded word at once: "zdravstvuyte" means "hello", and it carries the main weight of what Lyova is saying.
-- 'Come on, out with it.' Lyova directs that thought briskly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Hello, Chef.' Fedya weighs in frankly facing Barinov, watching Barinov's face to see how the news lands.
-- 'How are you doing?' Barinov emphasizes one key element right here: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
-- 'And how are things with you?' Lyova frames that line in earnest: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'There are problems in my...' Fedya follows up bluntly as they talk, to clear the air between them once and for all.
-- 'In your kitchen.' Barinov favors one classic choice on cue: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'Fedya and Senya are arguing all the time.' Lyova cuts in boldly in this moment, shifting the whole mood of the room in a single beat.
-- 'And all the work has ground to a halt.' Fedya answers quietly to be clear, letting the remark speak for itself.
-- 'Viktor Petrovich, what should I do?' Lyova directs that point in earnest: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'Lock the two of them in the walk-in fridge.' Lyova follows up right away with a shrug, steering the talk right where he wants it.
-- 'Then use your brain, Lyova.' Fedya stands firm earnestly across the room, shifting the whole mood of the room in a single beat.
-- 'Make them give in to each other.' Barinov frames one classic expression with Fedya: "ustupit" means "yield, give in", and it carries the main weight of what Barinov is saying.
+- 'Chef, hello.' Lyova directly gives this formal greeting for Barinov using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Come on, out with it.' Answering plainly right here, Lyova starts with "davay" ("come on, let's") to invite Fedya right into the action.
+- 'Hello, Chef.' Fedya casually voices this familiar greeting toward Barinov using "zdravstvuy" ("hello") — the singular form of the classic greeting that literally means "be healthy".
+- 'How are you doing?' Barinov counters promptly during the talk and uses "dela" ("things, affairs", from "delo") to make the point stick.
+- 'And how are things with you?' Weighing in candidly on the spot, Lyova uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'There are problems in my...' Fedya opens up bluntly facing Lyova, steering the talk right where he wants it.
+- 'In your kitchen.' Addressing the kitchen in this beat, Barinov chooses "kukhne" ("kitchen", from the root "kukhnya") so Fedya hears the exact meaning.
+- 'Fedya and Senya are arguing all the time.' Bringing up the time in front of Fedya, Lyova reaches for the Russian word "vremya" ("time") right at the heart of the line.
+- 'And all the work has ground to a halt.' Fedya continues quietly in their talk, so Lyova knows he is not just making small talk.
+- 'Viktor Petrovich, what should I do?' Turning dryly right here, Lyova puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Lock the two of them in the walk-in fridge.' Turning to the fridge with Fedya, Lyova reaches for the Russian word "kholodilnik" ("fridge") right at the heart of the line.
+- 'Then use your brain, Lyova.' Fedya weighs in earnestly with a shrug, grounding the moment in plain reality.
+- 'Make them give in to each other.' Mentioning the friend beside Fedya, Barinov reaches for the Russian word "drugu" ("friend", built from "drug") right at the center of the line.

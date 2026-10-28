@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, Kostya, everything is fine, we are out walking.' Max leans on this vivid element in reply: "normalno" means "fine, OK", and it carries the main weight of what Max is saying.
-- 'Nastya's father is driving over to you right now.' Kostya colors one concrete element at once: "otets" means "father", and it carries the main weight of what Kostya is saying.
-- 'He wants to pick Styopa up.' Kostya counters bluntly hearing the guest, shifting the whole mood of the room in a single beat.
-- 'Well, Styopa, come here.' Max focuses on one concrete expression toward Kostya: "styopka" means "styopa", and it carries the main weight of what Max is saying.
-- 'How big and strong you have grown!' The guest frames the reply beside Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Just like our stock, you can tell right away!' The guest proceeds pointedly in their talk, to clear the air between them once and for all.
-- 'Of course, you can tell right away.' Max emphasizes one familiar word toward the guest: "konechno" means "of course", and it carries the main weight of what Max is saying.
-- 'Styopa, say goodbye to your uncle, we are leaving.' The guest frames the thought in earnest: the "-sya" ending on "proshchaysya" ("say goodbye") turns the action inward or makes it happen between people naturally.
-- 'Bye, little guy!' Max follows up firmly during the talk, without trying to dress up how he really feels.
-- 'Have you seen a little boy?' The guest points to one loaded expression with Max: "malchika" means "the boy" (from "malchik"), giving the line its exact edge.
-- 'He has a Spider-Man mask.' The guest gives the remark facing Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Yes, Kostya, everything is fine, we are out walking.' Max weighs in dryly during the talk and centers the remark on "normalno" ("fine, OK") without any extra fuss.
+- 'Nastya's father is driving over to you right now.' Kostya follows up frankly with a smile, leaving no doubt about where he stands.
+- 'He wants to pick Styopa up.' Kostya replies bluntly in this moment, keeping the focus on what actually matters here.
+- 'Well, Styopa, come here.' Max continues calmly right here and brings in "styopka" ("styopa") to make the meaning unmistakable.
+- 'How big and strong you have grown!' Holding firm evenly with Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Just like our stock, you can tell right away!' The guest speaks pointedly with a nod, keeping the focus on what actually matters here.
+- 'Of course, you can tell right away.' Max politely chooses this confirmation in front of the guest using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Styopa, say goodbye to your uncle, we are leaving.' Cutting in plainly in front of Max, the "-sya" ending on "proshchaysya" ("say goodbye") marks an action that unfolds mutually or turns back on the speaker.
+- 'Bye, little guy!' Max simply extends this casual farewell toward the guest using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'Have you seen a little boy?' Focusing on a boy at once, the guest uses "malchika" ("the boy", from "malchik") to make the point stick.
+- 'He has a Spider-Man mask.' Dwelling on the mask to Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
 - 'Oh, have you not seen a child?' The guest inquires deadpan before Max can change the subject.
-- 'A fair-haired little boy.' The guest picks one direct detail toward Kostya: "svetlenkiy" means "fair-haired", and it carries the main weight of what the guest is saying.
-- 'I turned away for just a second!' The guest offers the reaction with ease: the "-sya" ending on "otvernulas" ("to turn away") turns the action inward or makes it happen between people naturally.
+- 'A fair-haired little boy.' Pointing to the boy around Max, the guest lands on "svetlenkiy" ("fair-haired") as the key everyday word here.
+- 'I turned away for just a second!' Touching on a second in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

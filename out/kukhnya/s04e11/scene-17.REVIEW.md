@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Was that you yelling in there, or what?' The guest delivers this statement around Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Go on, darling, show him right now.' Vika follows up lightly before Max, leaving no doubt about where she stands.
-- 'Show how men solve problems.' Vika colors one sharp element in earnest: "muzhchiny" means "man" (from "muzhchina"), giving the line its exact edge.
-- 'Because I did not catch it the first time.' Vika proceeds openly in their talk, refusing to let the moment slip past.
-- 'I was just joking back then...' Max cuts in calmly around the guest, saying out loud what both of them already know.
-- 'And what do I need such a man for?' Vika points to one colorful choice toward Max: "muzhchina" means "man", and it carries the main weight of what Vika is saying.
-- 'Now here is a real, strong man!' Vika puts that thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Tell me, are you married right now?' Vika challenges quietly in front of Max without any preamble.
-- 'Well, come along with me if you want.' The guest favors one clear expression in reply: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'Hey, leave her alone, she is my wife!' Max steps in openly before Vika, saying out loud what both of them already know.
-- 'She just said she does not need you.' The guest continues openly with a sigh, before Max can change the subject.
-- 'Let's go home, my savior.' Vika anchors one clear word for Max: "spasitel" means "savior", and it carries the main weight of what Vika is saying.
+- 'Was that you yelling in there, or what?' Stepping in evenly around Vika, the guest puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'Go on, darling, show him right now.' Vika reacts lightly in their talk, grounding the moment in plain reality.
+- 'Show how men solve problems.' Emphasizing the man at once, Vika brings in "muzhchiny" ("man", from "muzhchina") as the key Russian word here.
+- 'Because I did not catch it the first time.' Vika answers pointedly beside Max and brings in "pervogo" ("first", from "pervyy") as the key Russian word here.
+- 'I was just joking back then...' Max answers calmly toward Vika, without trying to dress up how he really feels.
+- 'And what do I need such a man for?' Emphasizing a man with Max, Vika lands on "muzhchina" ("man") as the key everyday word here.
+- 'Now here is a real, strong man!' Confirming how real things are on the spot, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Tell me, are you married right now?' Vika challenges quietly how the guest expects that to work in practice.
+- 'Well, come along with me if you want.' The guest proceeds dryly in the exchange and brings in "khochesh" ("do you want", from "khotet") as the key Russian word here.
+- 'Hey, leave her alone, she is my wife!' Touching on his wife before the guest, Max leans on "zhena" ("wife") to give the whole sentence its punch.
+- 'She just said she does not need you.' The guest responds openly around Max, testing Max's reaction in the middle of the exchange.
+- 'Let's go home, my savior.' Focusing on her savior in the exchange, Vika centers the remark on "spasitel" ("savior") without any extra fuss.

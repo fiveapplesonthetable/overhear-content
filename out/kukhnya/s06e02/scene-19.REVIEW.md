@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They even closed the restaurant for us.' The guest highlights one telling choice toward Barinov: "restoran" means "restaurant", and it carries the main weight of what the guest is saying.
-- 'Please take a seat.' Eleonora drops the thought with ease: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Yes, first I will order some ribs.' The guest counters right away in this moment, steering the talk right where he wants it.
-- 'There are no ribs on my menu.' Barinov anchors one concrete word at once: "rebryshek" means "ribs" (from "ryobryshko"), giving the line its exact edge.
-- 'Especially since he still has not paid for yesterday's meal.' Barinov fires back briskly facing Eleonora, testing Eleonora's reaction in the middle of the exchange.
-- 'Either you cook in silence, or you will have problems.' The guest opens up honestly during the talk, letting the remark speak for itself.
-- 'You are the one with digestion problems.' Barinov leans on one vivid choice for Eleonora: "pishchevareniyem" means "digestion" (from "pishchevareniye"), giving the line its exact edge.
-- 'Either you fire him, or I shut down the restaurant!' The guest stresses one vivid term for Eleonora: "uvolnyayesh" means "to fire, to dismiss" (from "uvolnyat"), giving the line its exact edge.
-- 'You know, it really is time for me to go.' Eleonora follows up boldly without any doubt, before Barinov can change the subject.
-- 'I stopped by to say that the mayor is dissatisfied with you.' Eleonora centers one loaded word at once: "nedovolen" means "dissatisfied" (from "nedovolnyy"), giving the line its exact edge.
-- 'And he is removing you from office.' Eleonora frames one telling touch in earnest: "otstranyayet" means "suspends, removes" (from "otstranyat"), giving the line its exact edge.
-- 'What do you mean removing me, I do not understand?' The guest questions briskly where this conversation is heading next.
+- 'They even closed the restaurant for us.' Touching on the restaurant to Eleonora, the guest chooses "restoran" ("restaurant") so Eleonora gets the point right away.
+- 'Please take a seat.' Eleonora casually extends this courtesy word while facing the guest using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Yes, first I will order some ribs.' The guest fires back right away without holding back, keeping the focus on what actually matters here.
+- 'There are no ribs on my menu.' Pointing to the ribs before the guest, Barinov reaches for the Russian word "rebryshek" ("ribs", built from "ryobryshko") right at the center of the line.
+- 'Especially since he still has not paid for yesterday's meal.' Barinov reacts calmly around the guest and centers the thought on "vcherashneye" ("yesterday", from "vcherashniy") without wasting a word.
+- 'Either you cook in silence, or you will have problems.' The guest reacts honestly toward Barinov, without trying to dress up how he really feels.
+- 'You are the one with digestion problems.' Addressing the digestion around the guest, Barinov reaches for the Russian word "pishchevareniyem" ("digestion", built from "pishchevareniye") right at the center of the line.
+- 'Either you fire him, or I shut down the restaurant!' The guest steps in quietly around Barinov, grounding the moment in plain reality.
+- 'You know, it really is time for me to go.' Eleonora reacts boldly around the guest, refusing to let the moment slip past.
+- 'I stopped by to say that the mayor is dissatisfied with you.' Showing how dissatisfied things are to the guest, Eleonora puts the weight on "nedovolen" ("dissatisfied", from "nedovolnyy") as the exchange unfolds.
+- 'And he is removing you from office.' Eleonora replies right away beside the guest, letting the remark speak for itself.
+- 'What do you mean removing me, I do not understand?' The guest questions briskly before Eleonora can change the subject.

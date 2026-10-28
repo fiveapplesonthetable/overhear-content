@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And we just wanted to play a game of baseball here!' Senya steps in pointedly in their talk, watching Katya's face to see how the news lands.
-- 'You say you did not want to touch him at all?' Katya reaches for one clear expression on cue: "govorish" means "you say" (from "govorit"), giving the line its exact edge.
-- 'I cannot bear the sight of you anymore!' Katya colors one pointed piece in reply: "bolshe" means "more", and it carries the main weight of what Katya is saying.
-- 'Katya, I had no idea, they came on their own!' Senya continues frankly in their talk, watching Max's face to see how the news lands.
-- 'And now five hundred thousand minimum, got it, pops?' Max points to this key term in earnest: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'Katya, my darling, wait for me!' Senya continues calmly around Max, grounding the moment in plain reality.
-- 'Listen, guys, I really need your help.' Max continues boldly with a smile, steering the talk right where he wants it.
-- 'I had a big quarrel with some guys here.' Max stresses this clear term toward Senya: "possorilsya" means "quarreled" (from "possoritsya"), giving the line its exact edge.
-- 'Sorry, Max, we have our own war here.' Senya drops that answer facing Katya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'We are helping our chef right now.' Senya speaks up candidly on the spot, saying out loud what both of them already know.
-- 'Katya got mixed up with some bad biker.' Senya favors one classic detail for Katya: "baykerom" means "with a biker" (from "bayker"), giving the line its exact edge.
-- 'So go ahead and work it out yourself somehow, son.' Senya drops this point before Max: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'And we just wanted to play a game of baseball here!' Senya speaks pointedly beside Katya, shifting the mood of the conversation in a single beat.
+- 'You say you did not want to touch him at all?' Katya reacts briskly in this beat and brings in "govorish" ("you say", from "govorit") as the key Russian word here.
+- 'I cannot bear the sight of you anymore!' Katya chimes in evenly with a smile, bringing things back to earth after the buildup.
+- 'Katya, I had no idea, they came on their own!' Senya responds frankly without a pause, testing Katya's reaction in the middle of the exchange.
+- 'And now five hundred thousand minimum, got it, pops?' Emphasizing the thousand on the spot, Max brings in "tysyach" ("thousand", from "tysyacha") as the key Russian word here.
+- 'Katya, my darling, wait for me!' Senya chimes in vividly right here and uses "milaya" ("darling", from "milyy") to make the point stick.
+- 'Listen, guys, I really need your help.' Max cuts in boldly with Senya, refusing to let the moment slip past.
+- 'I had a big quarrel with some guys here.' Bringing up the boyfriend in front of Senya, Max centers the thought on "parnyami" ("boyfriend, guy", from "paren") without wasting a word.
+- 'Sorry, Max, we have our own war here.' Pointing to the war before Max, Senya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'We are helping our chef right now.' Senya steps in candidly beside Max, watching Max's face to see how the news lands.
+- 'Katya got mixed up with some bad biker.' Talking about the biker in this beat, Senya centers the thought on "baykerom" ("with a biker", from "bayker") without wasting a word.
+- 'So go ahead and work it out yourself somehow, son.' Pointing to the son in the exchange, Senya starts with "davay" ("come on, let's") to invite Max right into the action.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, is that not too expensive a gift for Katya?' Kristina questions sharply as Mikhail tries to explain the situation.
-- 'No, not too much, because it is an investment.' Nagiyev colors one memorable term right here: "investitsiya" means "future", and it carries the main weight of what Nagiyev is saying.
-- 'I want her mother to give me money.' Nagiyev fires back quietly before Kristina, to clear the air between them once and for all.
-- 'I need money for my new movie.' Nagiyev jumps in plainly with a smile, without trying to dress up how he really feels.
-- 'It will be a big movie about my life.' Nagiyev spotlights this key word for Kristina: "bolshoy" means "big", and it carries the main weight of what Nagiyev is saying.
-- 'Tell me, and will I be in this movie?' Kristina directs that reply right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'Of course, you will definitely act in it.' Nagiyev speaks steadily with Kristina, leaving no doubt about where he stands.
-- 'But only if my wife does not see us!' Nagiyev emphasizes this direct expression with Mikhail: "zhena" means "wife", and it carries the main weight of what Nagiyev is saying.
-- 'So get out of here as fast as possible.' Nagiyev offers this statement plainly here: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Your hotel room is already completely ready.' Mikhail answers dryly on the spot, steering the talk right where he wants it.
-- 'Allow me to escort you upstairs right now?' Mikhail spotlights one concrete choice on cue: "razreshite" means "allow" (from "razreshit"), giving the line its exact edge.
-- 'Alright, escort me to my room.' Kristina voices the comment without pause: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Listen, is that not too expensive a gift for Katya?' Kristina questions sharply before Nagiyev can change the subject.
+- 'No, not too much, because it is an investment.' Pointing to the future at once, Nagiyev leans on "investitsiya" ("future") to give the whole sentence its punch.
+- 'I want her mother to give me money.' Mentioning the money on the spot, Nagiyev centers the thought on "deneg" ("money", from "dengi") without wasting a word.
+- 'I need money for my new movie.' Nagiyev steps in plainly across the room, without trying to dress up how he really feels.
+- 'It will be a big movie about my life.' Discussing a big movie on the spot, Nagiyev lands on "bolshoy" ("big") as the key everyday word here.
+- 'Tell me, and will I be in this movie?' Turning to the movie on the spot, Kristina keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Of course, you will definitely act in it.' Nagiyev counters steadily across the room, grounding the moment in plain reality.
+- 'But only if my wife does not see us!' Underscoring his wife before Kristina, Nagiyev lands on "zhena" ("wife") as the key everyday word here.
+- 'So get out of here as fast as possible.' Replying earnestly around Mikhail, Nagiyev leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Your hotel room is already completely ready.' Mikhail continues dryly with a sigh, bringing things back to earth after the buildup.
+- 'Allow me to escort you upstairs right now?' Mikhail cuts in readily right here and chooses "razreshite" ("allow", from the root "razreshit") so Kristina hears the exact meaning.
+- 'Alright, escort me to my room.' Touching on the number around Mikhail, Kristina chooses "provodite" ("see out", from the root "provodit") so Mikhail hears the exact meaning.

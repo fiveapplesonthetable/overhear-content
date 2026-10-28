@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I knew she would like it.' Max hands over that answer before Barinov: the "-sya" ending on "ponravitsya" ("will please") turns the action inward or makes it happen between people naturally.
-- 'In full detail. Just as I knew.' Barinov weighs in right away with a sigh, watching Nastya's face to see how the news lands.
-- 'I told you, slowly and in full detail.' Max anchors one colorful word for Barinov: "podrobnostyakh" means "detail" (from "podrobnost"), giving the line its exact edge.
-- 'No problem at all.' Max phrases this statement plainly here: the "-sya" ending on "vopros" ("question, matter") turns the action inward or makes it happen between people naturally.
-- 'It is a social network.' Barinov continues warmly with a nod, testing Max's reaction in the middle of the exchange.
-- 'And here is a comment under her photographs.' Nastya uses one concrete touch on cue: "fotografiyam" means "photograph" (from "fotografiya"), giving the line its exact edge.
-- 'What a sheep. Actually, he is.' Max sends that point without pause: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Chef, would you like me to register an account for you?' Nastya probes briskly about what Max just brought up.
-- 'A sheep. Chef?' Nastya favors one classic expression right here: "baran" means "sheep", and it carries the main weight of what Nastya is saying.
-- 'You can ask her out on a date online, huh?' Max aims this update beside Nastya: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'That is the second 'get out' Barinov jumps in quietly with Max, grounding the moment in plain reality.
-- 'Not on any network.' Nastya picks one concrete choice in earnest: "seti" means "nets", and it carries the main weight of what Nastya is saying.
-- 'You have to ask women out on a date the good old-fashioned way.' Max shares the remark to Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'I knew she would like it.' Replying directly on the spot, the "-sya" ending on "ponravitsya" ("will please") marks an action that unfolds mutually or turns back on the speaker.
+- 'In full detail. Just as I knew.' Barinov counters right away with a shrug, grounding the moment in plain reality.
+- 'I told you, slowly and in full detail.' Focusing on the detail around Barinov, Max brings in "podrobnostyakh" ("detail", from "podrobnost") as the key Russian word here.
+- 'No problem at all.' Addressing the question to Barinov, the "-sya" ending on "vopros" ("question, matter") marks an action that unfolds mutually or turns back on the speaker.
+- 'It is a social network.' Barinov cuts in warmly in this moment, watching Max's face to see how the news lands.
+- 'And here is a comment under her photographs.' Mentioning the photograph before Barinov, Nastya uses "fotografiyam" ("photograph", from "fotografiya") to make the point stick.
+- 'What a sheep. Actually, he is.' Bringing up a sheep to Nastya, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Chef, would you like me to register an account for you?' Nastya probes briskly whether Barinov really thought this through.
+- 'A sheep. Chef?' Discussing a sheep in this beat, Nastya chooses "baran" ("sheep") so Barinov gets the point right away.
+- 'You can ask her out on a date online, huh?' Returning to a date with Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'That is the second 'get out' Barinov jumps in quietly around Max, leaving no doubt about where he stands.
+- 'Not on any network.' Emphasizing the nets before Barinov, Nastya centers the remark on "seti" ("nets") without any extra fuss.
+- 'You have to ask women out on a date the good old-fashioned way.' Discussing the women before Nastya, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".

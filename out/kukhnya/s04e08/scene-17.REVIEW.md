@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Roman, what is the matter, where did you disappear to?' The guest gives the comment to Barinov: putting the question word "kuda" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'You understand, I will not be able to work with you any further.' The guest jumps in plainly hearing Lyova, keeping the focus on what actually matters here.
-- 'Wait, but we already agreed on everything!' The guest colors this key detail in reply: "dogovorilis" means "agreed, deal" (from "dogovoritsya"), giving the line its exact edge.
-- 'We approved the main colors and style with you!' The guest follows up openly with a sigh, to clear the air between them once and for all.
-- 'Look, Lyova, so that guy did not understand us!' Barinov counters sharply without any doubt, keeping the focus on what actually matters here.
-- 'Fine, then right now we will explain it to him differently!' Barinov underscores one key element for Lyova: "po-drugomu" means "differently", and it carries the main weight of what Barinov is saying.
-- 'Come over here, let's go have another talk!' Barinov replies briskly during the talk, bringing things back to earth after the buildup.
-- 'Wait, you misunderstood, I am simply leaving!' The guest opens up steadily with a sigh, saying out loud what both of them already know.
-- 'Did I not express myself clearly to you yesterday?' Barinov chooses this telling term in reply: "vyrazilsya" means "to yesterday" (from "vyrazitsya"), giving the line its exact edge.
-- 'I told you, you are not going to work here!' Barinov picks one clear choice right here: "rabotat" means "to work", and it carries the main weight of what Barinov is saying.
-- 'Why, I am not even planning to work here anymore!' The guest speaks honestly without a pause, to clear the air between them once and for all.
-- 'Viktor Petrovich, stop, the owner of the restaurant is coming here!' Lyova underscores this key element at once: "ostanovites" means "to stop" (from "ostanovitsya"), giving the line its exact edge.
+- 'Roman, what is the matter, where did you disappear to?' Holding firm dryly during the talk, the guest puts the question word "kuda" right at the start so Barinov hears the focus immediately.
+- 'You understand, I will not be able to work with you any further.' The guest jumps in plainly with a nod, making his position completely clear.
+- 'Wait, but we already agreed on everything!' The guest jumps in promptly with Barinov and puts the weight on "dogovorilis" ("agreed, deal", from "dogovoritsya") as the exchange unfolds.
+- 'We approved the main colors and style with you!' Focusing on the color beside Barinov, the guest leans on "osnovnyye" ("style", a form of "osnovnyy") to give the remark its edge.
+- 'Look, Lyova, so that guy did not understand us!' Barinov jumps in sharply without holding back, grounding the moment in plain reality.
+- 'Fine, then right now we will explain it to him differently!' Barinov replies vividly during the talk and puts the emphasis on "po-drugomu" ("differently") in the middle of the talk.
+- 'Come over here, let's go have another talk!' Barinov speaks calmly at once and uses "pogovorim" ("we'll have a talk", from "pogovorit") to make the point stick.
+- 'Wait, you misunderstood, I am simply leaving!' The guest responds steadily with Barinov, leaving no doubt about where he stands.
+- 'Did I not express myself clearly to you yesterday?' Barinov counters firmly in this beat and centers the thought on "vyrazilsya" ("to yesterday", from "vyrazitsya") without wasting a word.
+- 'I told you, you are not going to work here!' Barinov speaks pointedly with a sigh, before the guest can change the subject.
+- 'Why, I am not even planning to work here anymore!' The guest fires back honestly in this moment, refusing to let the moment slip past.
+- 'Viktor Petrovich, stop, the owner of the restaurant is coming here!' Focusing on the restaurant around Barinov, Lyova brings in "restorana" ("restaurant", from "restoran") as the key Russian word here.

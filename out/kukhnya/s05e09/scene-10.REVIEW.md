@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, did you break the cognac?' Max features one colorful element toward Kostya: "konyak" means "cognac, brandy", and it carries the main weight of what Max is saying.
-- 'I am simply tidying up here.' Kostya delivers this warning facing Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And what is this?' Vika inquires bluntly about what Kostya just brought up.
-- 'A baby crib.' Max points to one sharp word in reply: "detskaya" means "children's" (from "detskiy"), giving the line its exact edge.
-- 'Sign right here, please.' Vika shapes that point briskly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Forgive me, I mixed everything up.' Max follows up sharply without any doubt, grounding the moment in plain reality.
-- 'Instead of the home address I wrote the work one.' Max emphasizes one direct touch for Kostya: "domashnego" means "house" (from "domashniy"), giving the line its exact edge.
-- 'Next time you will be more careful.' Vika replies plainly without a pause, letting the remark speak for itself.
-- 'Maybe I can pay you extra?' Vika prompts firmly while looking straight at Kostya here.
-- 'Vika, let me drive it over.' Max focuses on one vivid expression at once: "zavezu" means "will drop off" (from "zavezti"), giving the line its exact edge.
-- 'I will load the car and then help carry it up.' Max jumps in plainly on the spot, before Kostya can change the subject.
-- 'No need. Kostya, what is that smell?' Vika checks quietly to see how Max will answer on the spot.
+- 'Kostyan, did you break the cognac?' Underscoring the cognac on the spot, Max leans on "konyak" ("cognac, brandy") to give the whole sentence its punch.
+- 'I am simply tidying up here.' Replying promptly right here, Kostya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And what is this?' Vika inquires bluntly before Max can change the subject.
+- 'A baby crib.' Emphasizing a baby crib at once, Max reaches for the Russian word "detskaya" ("children's", built from "detskiy") right at the center of the line.
+- 'Sign right here, please.' Vika readily speaks this courtesy word without hesitation using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Forgive me, I mixed everything up.' Max plainly delivers this formal apology at this moment using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'Instead of the home address I wrote the work one.' Turning to the home address on the spot, Max reaches for the Russian word "domashnego" ("house", built from "domashniy") right at the center of the line.
+- 'Next time you will be more careful.' Vika speaks up earnestly to Max and leans on "sleduyushchiy" ("next") to give the whole sentence its punch.
+- 'Maybe I can pay you extra?' Vika prompts firmly if there is more going on behind the scenes.
+- 'Vika, let me drive it over.' Max jumps in decisively around Vika and brings in "zavezu" ("will drop off", from "zavezti") as the key Russian word here.
+- 'I will load the car and then help carry it up.' Talking about the car with Vika, Max chooses "mashinu" ("car", from the root "mashina") so Vika hears the exact meaning.
+- 'No need. Kostya, what is that smell?' Vika checks quietly to see how Kostya will answer on the spot.

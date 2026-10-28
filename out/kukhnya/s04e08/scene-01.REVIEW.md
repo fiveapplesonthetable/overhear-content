@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems to me that women have some kind of weapon.' Max underscores one loaded expression in earnest: "zhenshchin" means "women" (from "zhenshchina"), giving the line its exact edge.
-- 'With its help they easily control men.' Max phrases that answer facing Vika: the single Russian word "legko" ("it is easy") sets up the whole statement without needing a separate word for "it is".
-- 'Forgotten feelings suddenly appear in you again.' Max opens up plainly on the spot, steering the talk right where he wants it.
-- 'And a short message changes your peaceful life.' Max leans on one colorful detail for Vika: "soobshcheniye" means "message", and it carries the main weight of what Max is saying.
-- 'Vika, Mom is coming to visit us tomorrow already!' Max speaks up pointedly around Denis, leaving no doubt about where he stands.
-- 'She simply decided to give us a big surprise.' Max weighs in boldly with Vika, keeping the focus on what actually matters here.
-- 'We have such a terrible mess at home right now!' Vika leans on one sharp element on cue: "uzhasnyy" means "horrible", and it carries the main weight of what Vika is saying.
-- 'Today we are doing a deep cleaning of the apartment!' Vika reacts calmly as things stand, so Max knows she is not just making small talk.
-- 'We also need to decide where we will put Mom.' Vika proceeds quietly before Denis, to clear the air between them once and for all.
-- 'Old pal, you need to move out of our place urgently.' Max sharpens one direct expression in reply: "starik" means "old man", and it carries the main weight of what Max is saying.
-- 'All right, let's discuss this another time.' Denis brings the comeback facing Max: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Forgive me, but I will not be able to keep you here.' Max replies evenly to settle things, saying out loud what both of them already know.
+- 'It seems to me that women have some kind of weapon.' Focusing on the women at once, Max lands on "zhenshchin" ("women", built on "zhenshchina") to keep the statement grounded.
+- 'With its help they easily control men.' Discussing the man right here, Max leans on "legko" ("easy"), which carries the whole predicate in Russian without needing "it is".
+- 'Forgotten feelings suddenly appear in you again.' Max pushes back plainly during the talk, grounding the moment in plain reality.
+- 'And a short message changes your peaceful life.' Addressing a short message with Vika, Max lands on "soobshcheniye" ("message") as the key everyday word here.
+- 'Vika, Mom is coming to visit us tomorrow already!' Discussing the mum in this beat, Max centers the thought on "priyezzhayet" ("is arriving", from "priyezzhat") without wasting a word.
+- 'She simply decided to give us a big surprise.' Max replies boldly in this moment, testing Vika's reaction in the middle of the exchange.
+- 'We have such a terrible mess at home right now!' Addressing a terrible mess at once, Vika chooses "uzhasnyy" ("horrible") so Max gets the point right away.
+- 'Today we are doing a deep cleaning of the apartment!' Highlighting how apartment things are in front of Max, Vika lands on "generalnuyu" ("apartment", built on "generalnyy") to keep the statement grounded.
+- 'We also need to decide where we will put Mom.' Vika steps in quietly on the spot, refusing to let the moment slip past.
+- 'Old pal, you need to move out of our place urgently.' Highlighting the old man with Vika, Max brings in "starik" ("old man") to make the meaning unmistakable.
+- 'All right, let's discuss this another time.' Speaking directly to Max, Denis starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'Forgive me, but I will not be able to keep you here.' Max counters evenly without a pause, before Denis can change the subject.

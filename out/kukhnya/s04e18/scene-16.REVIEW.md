@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today we will get rid of German forever.' Barinov emphasizes one colorful element on cue: "izbavimsya" means "to get rid of" (from "izbavitsya"), giving the line its exact edge.
-- 'Chef, please tell us your whole plan.' German frames the thought frankly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'First we will deprive him of those pills.' Barinov steps in dryly around German, so German knows he is not just making small talk.
-- 'We will lure him into a trap.' Barinov anchors this vivid word in earnest: "lovushku" means "trap" (from "lovushka"), giving the line its exact edge.
-- 'And we will interrupt at the most interesting part.' Barinov pushes back sharply with a sigh, shifting the whole mood of the room in a single beat.
-- 'But first we need to warm him up well.' Barinov holds firm firmly in their talk, grounding the moment in plain reality.
-- 'Vika, maybe we could have dinner together tonight?' German frames one classic term with Barinov: "pouzhinayem" means "to have dinner" (from "pouzhinat"), giving the line its exact edge.
-- 'I will book a nice table for us right now.' German reacts warmly with a sigh, without trying to dress up how he really feels.
-- 'Thank you, but I have already ordered everything.' Vika proceeds briskly on the spot, grounding the moment in plain reality.
-- 'We will have dinner tonight at my place.' Vika leans on one clear term in reply: "pouzhinayem" means "to have dinner" (from "pouzhinat"), giving the line its exact edge.
-- 'Here is Viktoriya Sergeyevna's favorite wine.' Barinov frames that answer without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'May I take this bottle?' German checks briskly where this conversation is heading next.
+- 'Today we will get rid of German forever.' Barinov continues candidly on the spot and leans on "izbavimsya" ("to get rid of", a form of "izbavitsya") to give the remark its edge.
+- 'Chef, please tell us your whole plan.' German replies warmly facing Barinov, without trying to dress up how he really feels.
+- 'First we will deprive him of those pills.' Barinov replies dryly toward German, without trying to dress up how he really feels.
+- 'We will lure him into a trap.' Pointing to a trap before German, Barinov chooses "lovushku" ("trap", from the root "lovushka") so German hears the exact meaning.
+- 'And we will interrupt at the most interesting part.' Emphasizing the place in the exchange, Barinov brings in "interesnom" ("interesting", from "interesnyy") as the key Russian word here.
+- 'But first we need to warm him up well.' Barinov continues firmly in this moment, steering the talk right where he wants it.
+- 'Vika, maybe we could have dinner together tonight?' German reacts plainly beside Vika and puts the weight on "pouzhinayem" ("to have dinner", from "pouzhinat") as the exchange unfolds.
+- 'I will book a nice table for us right now.' Focusing on a nice table to Vika, German uses "khoroshiy" ("good") to carry the main weight of the thought.
+- 'Thank you, but I have already ordered everything.' Vika speaks up briskly with a shrug, steering the talk right where she wants it.
+- 'We will have dinner tonight at my place.' Vika steps in earnestly in this beat and lands on "pouzhinayem" ("to have dinner", built on "pouzhinat") to keep the statement grounded.
+- 'Here is Viktoriya Sergeyevna's favorite wine.' Describing how favorite things are on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'May I take this bottle?' German checks briskly whether Barinov really thought this through.

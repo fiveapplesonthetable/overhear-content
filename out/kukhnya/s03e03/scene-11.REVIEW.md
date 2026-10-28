@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, this is madness.' Vika sends the comeback with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Rodion Sergeyevich, we have an offer for you.' Max counters plainly facing Vika, keeping the focus on what actually matters here.
-- 'I have financial difficulties right now, other offers do not interest me.' Rodion highlights one loaded term with Max: "predlozheniya" means "offers, proposals" (from "predlozheniye"), giving the line its exact edge.
-- 'You need to get hit by a car. For money.' Max directs that thought in earnest: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'According to the rate among my colleagues, that costs five thousand.' Rodion cuts in evenly without holding back, keeping the focus on what actually matters here.
-- 'But for you I agree to three.' Rodion sharpens this direct element right here: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
-- 'Max, what if she injures Rodion Sergeyevich?' Vika voices this statement without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'No, this is foolish and dangerous. I forbid you.' Vika proceeds steadily beside Rodion, without trying to dress up how she really feels.
-- 'Fine, whatever you say.' Max leans on this sharp word in reply: "skazhesh" means "will you say" (from "skazat"), giving the line its exact edge.
-- 'If I understood Viktoria Sergeyevna correctly, the operation is canceled?' Rodion lays out the remark to Vika: the "-sya" ending on "otmenyayetsya" ("is canceled") turns the action inward or makes it happen between people naturally.
-- 'No way. Listen to a woman and do the opposite.' Max steps in earnestly with a shrug, steering the talk right where he wants it.
-- 'Senya, good morning!' Max underscores one memorable detail at once: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
+- 'Max, this is madness.' Bringing up the nonsense right here, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Rodion Sergeyevich, we have an offer for you.' Max weighs in plainly hearing Rodion, bringing things back to earth after the buildup.
+- 'I have financial difficulties right now, other offers do not interest me.' Mentioning the offers at once, Rodion lands on "predlozheniya" ("offers, proposals", built on "predlozheniye") to keep the statement grounded.
+- 'You need to get hit by a car. For money.' Turning to a car right here, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'According to the rate among my colleagues, that costs five thousand.' Rodion answers evenly without any doubt, watching Max's face to see how the news lands.
+- 'But for you I agree to three.' Rodion weighs in frankly right here and chooses "soglasen" ("agreed", from the root "soglasnyy") so Vika hears the exact meaning.
+- 'Max, what if she injures Rodion Sergeyevich?' Replying promptly in the exchange, Vika keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'No, this is foolish and dangerous. I forbid you.' Vika jumps in steadily facing Max, letting the remark speak for itself.
+- 'Fine, whatever you say.' Max briskly drops this word of agreement beside Vika using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'If I understood Viktoria Sergeyevna correctly, the operation is canceled?' Addressing the operation right here, Rodion keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'No way. Listen to a woman and do the opposite.' Max replies earnestly during the talk, so Rodion knows he is not just making small talk.
+- 'Senya, good morning!' Max gently uses this morning greeting at the start of the beat using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you suggesting I get married because of this discount?' Denis tests plainly while looking straight at Kostya here.
-- 'No, it is just that Nastya and I have our anniversary tomorrow.' Listen to how Kostya speaks to Lyova on cue — the Russian word "godovshchina" ("anniversary") gives the whole sentence its punch.
-- 'And I am just thinking about what to give her.' Kostya steps in warmly with a sigh, shifting the whole mood of the room in a single beat.
-- 'Look, here is this beautiful ring for forty thousand.' Kostya replies sharply across the room, without trying to dress up how he really feels.
-- 'With the discount it will be twenty thousand, I am taking it.' Kostya frames this key expression on cue: "skidkoy" means "discount" (from "skidka"), giving the line its exact edge.
-- 'More precisely, you are buying it, since the discount is yours.' Kostya focuses on one colorful element at once: "tochneye" means "definitely" (from "tochno"), giving the line its exact edge.
-- 'Alright, deal, I will stop by there this evening.' Denis counters bluntly without holding back, watching Kostya's face to see how the news lands.
-- 'Mom, I brought my things, forgive me for the quarrel.' Lyova colors one telling word for Kostya: "veshchi" means "things" (from "veshch"), giving the line its exact edge.
-- 'How good it is that you are home again, son.' Kostya makes this point on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Lyova, wait, where are you heading off to in the evening?' Kostya asks frankly what Lyova is actually getting at here.
-- 'Mom, I will just quickly go take out the trash.' Lyova favors this sharp touch right here: "musor" means "rubbish", and it carries the main weight of what Lyova is saying.
-- 'Taking out trash in the evening is a bad omen, take it out tomorrow!' Kostya pushes back plainly with a smile, making his position completely clear.
+- 'Are you suggesting I get married because of this discount?' Denis tests plainly if there is more going on behind the scenes.
+- 'No, it is just that Nastya and I have our anniversary tomorrow.' Bringing up his anniversary to Denis, Kostya centers the remark on "godovshchina" ("anniversary") without any extra fuss.
+- 'And I am just thinking about what to give her.' Kostya chimes in boldly in this beat and leans on "podarit" ("give as a gift") to give the whole sentence its punch.
+- 'Look, here is this beautiful ring for forty thousand.' Kostya weighs in sharply in this moment, keeping the focus on what actually matters here.
+- 'With the discount it will be twenty thousand, I am taking it.' Bringing up the discount with Denis, Kostya reaches for the Russian word "skidkoy" ("discount", built from "skidka") right at the center of the line.
+- 'More precisely, you are buying it, since the discount is yours.' Kostya steps in dryly across the room, steering the talk right where he wants it.
+- 'Alright, deal, I will stop by there this evening.' Denis proceeds bluntly without a pause, before Kostya can change the subject.
+- 'Mom, I brought my things, forgive me for the quarrel.' Pointing to the quarrel in front of Denis, Lyova reaches for the Russian word "ssoru" ("quarrel, argument", built from "ssora") right at the center of the line.
+- 'How good it is that you are home again, son.' Focusing on the son before Lyova, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Lyova, wait, where are you heading off to in the evening?' Kostya asks frankly if there is more going on behind the scenes.
+- 'Mom, I will just quickly go take out the trash.' Talking about the rubbish in this beat, Lyova chooses "musor" ("rubbish") so Kostya gets the point right away.
+- 'Taking out trash in the evening is a bad omen, take it out tomorrow!' Talking about the rubbish at once, Kostya uses "plokhaya" ("bad", from "plokhoy") to make the point stick.

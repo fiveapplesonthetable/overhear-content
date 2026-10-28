@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is our head chef, Viktor Petrovich.' Vika favors this key choice on cue: "shef-povar" means "head chef", and it carries the main weight of what Vika is saying.
-- 'By the way, Viktor Petrovich is a huge football fan.' Vika makes this answer beside Kristina: opening with "kstati" ("by the way") lets Vika drop a new detail into the conversation as if it just crossed her mind.
-- 'And he roots for your football club.' Kristina follows up pointedly on the spot, letting the remark speak for itself.
-- 'She is joking.' Barinov centers one vivid choice on cue: "shutit" means "is joking", and it carries the main weight of what Barinov is saying.
-- 'I noticed.' Vika drops this line at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I know.' Kristina fires back firmly beside Vika, without trying to dress up how she really feels.
-- 'Enjoy your meal.' Barinov frames this sharp touch for Kristina: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
-- 'Good luck to you tomorrow.' Vika states that line around Kristina: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Chef, well, how did it go out there?' Kristina presses quietly whether Barinov really thought this through.
-- 'Nothing at all!' Barinov offers the reaction on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'How could you mix up Makeev with Malafeev?' Vika puts this line at once: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Mixing up Spartak with Zenit.' Kristina steps in briskly without holding back, shifting the whole mood of the room in a single beat.
+- 'This is our head chef, Viktor Petrovich.' Discussing her head with Barinov, Vika uses "shef-povar" ("head chef") to carry the main weight of the thought.
+- 'By the way, Viktor Petrovich is a huge football fan.' Describing how football things are during the talk, Vika opens with "kstati" ("by the way") as if the thought just crossed her mind.
+- 'And he roots for your football club.' Kristina reacts pointedly beside Vika, before Vika can change the subject.
+- 'She is joking.' Barinov continues openly on the spot and lands on "shutit" ("is joking") as the key everyday word here.
+- 'I noticed.' Speaking warmly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I know.' Kristina weighs in firmly with a nod, to clear the air between them once and for all.
+- 'Enjoy your meal.' Touching on the appetite in this beat, Barinov puts the weight on "priyatnogo" ("pleasant", from "priyatnyy") as the exchange unfolds.
+- 'Good luck to you tomorrow.' Reacting boldly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Chef, well, how did it go out there?' Kristina presses quietly before Barinov can change the subject.
+- 'Nothing at all!' Barinov openly chooses this direct affirmation for Kristina using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'How could you mix up Makeev with Malafeev?' Pushing back calmly in this beat, Vika leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Mixing up Spartak with Zenit.' Kristina jumps in briskly in this moment, watching Vika's face to see how the news lands.

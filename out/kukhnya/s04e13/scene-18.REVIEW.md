@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Please, take a napkin, I beg you.' The guest continues earnestly toward Nastya, to clear the air between them once and for all.
-- 'Well, that is enough, dear, stop crying like that.' The guest underscores this sharp term in earnest: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
-- 'I understand you, I went through this myself.' The guest chooses one pointed element in reply: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
-- 'I have not seen my husband for over a year.' The guest holds firm dryly hearing Vika, letting the remark speak for itself.
-- 'Did he also cheat on you constantly?' Vika uses one memorable expression with the guest: "postoyanno" means "constantly", and it carries the main weight of what Vika is saying.
-- 'No, dear, my husband has already died.' The guest answers at once on the spot, making his position completely clear.
-- 'But during his life he constantly cheated on me!' The guest holds firm quietly with Nastya, to clear the air between them once and for all.
-- 'He was a terrible womanizer to me.' The guest reaches for one direct word right here: "strashnym" means "terrible, scary" (from "strashnyy"), giving the line its exact edge.
-- 'That is why I got myself a little dog.' The guest stands firm firmly without any doubt, testing Nastya's reaction in the middle of the exchange.
-- 'One wants to give one's love to at least someone.' The guest counters calmly with a smile, shifting the whole mood of the room in a single beat.
-- 'Girls, there is going to be a real flood here right now!' Nastya features one key expression for the guest: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Nastya is saying.
-- 'Thank you for the kind words.' Vika makes that thought frankly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Please, take a napkin, I beg you.' The guest answers earnestly facing Vika, without trying to dress up how he really feels.
+- 'Well, that is enough, dear, stop crying like that.' Explaining how expensive things are in the exchange, the guest centers the thought on "dorogaya" ("expensive", from "dorogoy") without wasting a word.
+- 'I understand you, I went through this myself.' The guest responds decisively without holding back, letting the remark speak for itself.
+- 'I have not seen my husband for over a year.' The guest pushes back dryly toward Vika, to clear the air between them once and for all.
+- 'Did he also cheat on you constantly?' Vika responds calmly to the guest and brings in "postoyanno" ("constantly") to make the meaning unmistakable.
+- 'No, dear, my husband has already died.' Mentioning his husband during the talk, the guest puts the weight on "dorogaya" ("expensive", from "dorogoy") as the exchange unfolds.
+- 'But during his life he constantly cheated on me!' The guest responds quietly with a sigh, leaving no doubt about where he stands.
+- 'He was a terrible womanizer to me.' Touching on a terrible womanizer with Vika, the guest puts the weight on "strashnym" ("terrible, scary", from "strashnyy") as the exchange unfolds.
+- 'That is why I got myself a little dog.' Discussing a dog before Nastya, the guest centers the thought on "sobachku" ("little dog", from "sobachka") without wasting a word.
+- 'One wants to give one's love to at least someone.' The guest replies calmly with Nastya, refusing to let the moment slip past.
+- 'Girls, there is going to be a real flood here right now!' Highlighting how real things are right here, Nastya uses "nastoyashchiy" ("real, genuine") to carry the main weight of the thought.
+- 'Thank you for the kind words.' Vika simply drops this word of thanks right on cue using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

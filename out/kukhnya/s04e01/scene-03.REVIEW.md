@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's send him to his grandmother's.' Kostya answers earnestly toward Max, watching Max's face to see how the news lands.
-- 'For a couple of days.' Kostya features this vivid term at once: "paru" means "couple" (from "para"), giving the line its exact edge.
-- 'Hi there.' Max gives this statement toward Kostya: opening with the casual greeting "privet" ("hi") signals right away that Max and Kostya are on familiar terms.
-- 'Can you show a little respect for my hard work?' Vika challenges earnestly in front of Max without any preamble.
-- 'Vika, come on, don't be angry.' Max picks one loaded detail in reply: "serdis" means "be angry" (from "serditsya"), giving the line its exact edge.
-- 'Come here to me.' Max shapes this warning beside Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'We need to take a medical check-up in two days.' Vika speaks pointedly with a smile, to clear the air between them once and for all.
-- 'We have to be patient.' Vika colors this telling expression in earnest: "poterpet" means "to be patient", and it carries the main weight of what Vika is saying.
-- 'Two whole days?' Max directs the reaction plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Do not forget.' Vika jumps in steadily in their talk, grounding the moment in plain reality.
-- 'Set a reminder on your phone.' Vika sharpens one clear term right here: "telefon" means "phone", and it carries the main weight of what Vika is saying.
-- 'Something has to be done.' Max puts that point frankly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Let's send him to his grandmother's.' Kostya responds earnestly without any doubt, bringing things back to earth after the buildup.
+- 'For a couple of days.' Turning to a couple right here, Kostya leans on "paru" ("couple", a form of "para") to give the remark its edge.
+- 'Hi there.' Max directly gives this casual greeting at the start of the beat using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Can you show a little respect for my hard work?' Vika challenges earnestly what Max is actually getting at here.
+- 'Vika, come on, don't be angry.' Max fires back smoothly in front of Vika and uses "serdis" ("be angry", from "serditsya") to make the point stick.
+- 'Come here to me.' Pushing back calmly beside Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'We need to take a medical check-up in two days.' Vika fires back pointedly toward Max, making her position completely clear.
+- 'We have to be patient.' Vika answers decisively in the exchange and brings in "poterpet" ("to be patient") to make the meaning unmistakable.
+- 'Two whole days?' Turning boldly in front of Vika, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Do not forget.' Vika speaks up steadily across the room, before Max can change the subject.
+- 'Set a reminder on your phone.' Turning to the phone in this beat, Vika brings in "telefon" ("phone") to make the meaning unmistakable.
+- 'Something has to be done.' Turning dryly at once, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".

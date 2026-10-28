@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You know I had reasons.' Barinov frames this warning to Eleonora: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Dad, it seems to me there are no reasons to abandon a family.' Katya cuts in wryly during the talk, testing Eleonora's reaction in the middle of the exchange.
-- 'She is already an adult, she can know the truth.' Barinov leans on this key detail with Eleonora: "vzroslaya" means "grown-up, adult" (from "vzroslyy"), giving the line its exact edge.
-- 'I left your mother because she cheated on me.' Barinov speaks up promptly to settle things, before Katya can change the subject.
-- 'Because you drank and gambled!' Eleonora weighs in sharply as they talk, bringing things back to earth after the buildup.
-- 'And you had no time for me.' Eleonora frames one loaded element toward Katya: "vremeni" means "time" (from "vremya"), giving the line its exact edge.
-- 'Enough, please, I cannot listen to this.' Katya brings the reply toward Barinov: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Dad, I always blamed you for our broken family.' Katya stands firm decisively to settle things, watching Eleonora's face to see how the news lands.
-- 'I should have blamed both of you.' Katya anchors one memorable touch for Barinov: "vinit" means "to blame, to accuse", and it carries the main weight of what Katya is saying.
-- 'Looking at you two, I am even glad that Denis left.' Katya emphasizes this direct piece in earnest: "glyadya" means "looking" (from "glyadet"), giving the line its exact edge.
-- 'Apparently this is our first fight that actually did some good.' Barinov proceeds decisively with a nod, steering the talk right where he wants it.
-- 'Why do you not want to tell Max that this is his child?' Eleonora anchors this key piece in reply: "rebyonok" means "a child", and it carries the main weight of what Eleonora is saying.
+- 'You know I had reasons.' Barinov reacts at once without any doubt, keeping the focus on what actually matters here.
+- 'Dad, it seems to me there are no reasons to abandon a family.' Katya responds wryly with a smile, refusing to let the moment slip past.
+- 'She is already an adult, she can know the truth.' Addressing the truth on the spot, Barinov uses "vzroslaya" ("grown-up, adult", from "vzroslyy") to make the point stick.
+- 'I left your mother because she cheated on me.' Addressing the mother before Eleonora, Barinov puts the emphasis on "materi" ("mother") in the middle of the talk.
+- 'Because you drank and gambled!' Eleonora speaks sharply with a sigh, refusing to let the moment slip past.
+- 'And you had no time for me.' Touching on the time to Katya, Eleonora leans on "vremeni" ("time", a form of "vremya") to give the remark its edge.
+- 'Enough, please, I cannot listen to this.' Katya cuts in vividly beside Eleonora and centers the remark on "khvatit" ("enough") without any extra fuss.
+- 'Dad, I always blamed you for our broken family.' Katya counters decisively beside Eleonora, making her position completely clear.
+- 'I should have blamed both of you.' Katya proceeds openly at once and uses "vinit" ("to blame, to accuse") to carry the main weight of the thought.
+- 'Looking at you two, I am even glad that Denis left.' Katya responds dryly in this moment, bringing things back to earth after the buildup.
+- 'Apparently this is our first fight that actually did some good.' Barinov speaks decisively in their talk, letting the remark speak for itself.
+- 'Why do you not want to tell Max that this is his child?' Focusing on the child with Barinov, Eleonora centers the remark on "rebyonok" ("a child") without any extra fuss.

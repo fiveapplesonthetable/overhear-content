@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You see, your father is very lonely after all.' Nastya weighs in decisively facing Denis, letting the remark speak for itself.
-- 'Excuse me, please, I will clean everything up right now.' Nastya jumps in calmly with the doctor, steering the talk right where she wants it.
-- 'I am sure he definitely needs a woman.' Nastya grounds this clear piece on cue: "zhenshchina" means "woman", and it carries the main weight of what Nastya is saying.
-- 'Nastya, what kind of woman does he need?' Denis phrases this warning to Nastya: putting the question word "kakaya" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'Well you go and calmly find out.' Nastya chimes in evenly without any doubt, making her position completely clear.
-- 'It is not like I am going to talk about this.' Nastya colors this telling choice right here: "razgovarivat" means "to talk, to speak", and it carries the main weight of what Nastya is saying.
-- 'Now the medicine will take effect, and it will feel better.' The doctor answers at once with a nod, to clear the air between them once and for all.
-- 'Fortunately, the eye was not seriously injured.' The doctor proceeds earnestly without any doubt, shifting the whole mood of the room in a single beat.
-- 'Sveta, listen, I want to tell you something.' Denis chooses one colorful detail toward the doctor: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'It seems she has an allergy to the medicine!' Denis reacts plainly without holding back, refusing to let the moment slip past.
-- 'Doctor, please help us quickly!' Denis steps in warmly without any doubt, keeping the focus on what actually matters here.
-- 'Wait, I will examine her carefully right now.' The doctor leans on one pointed piece in earnest: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'You see, your father is very lonely after all.' Underscoring the father beside Denis, Nastya chooses "ottsu" ("to father", from the root "otets") so Denis hears the exact meaning.
+- 'Excuse me, please, I will clean everything up right now.' Nastya fires back calmly with a nod, steering the talk right where she wants it.
+- 'I am sure he definitely needs a woman.' Addressing a woman in front of Denis, Nastya reaches for the Russian word "zhenshchina" ("woman") right at the heart of the line.
+- 'Nastya, what kind of woman does he need?' Addressing the woman in this beat, Denis puts the question word "kakaya" right at the start so Nastya hears the focus immediately.
+- 'Well you go and calmly find out.' Nastya chimes in evenly without a pause, to clear the air between them once and for all.
+- 'It is not like I am going to talk about this.' Nastya counters openly in the exchange and lands on "razgovarivat" ("to talk, to speak") as the key everyday word here.
+- 'Now the medicine will take effect, and it will feel better.' Touching on the medicine to Nastya, the doctor brings in "lekarstvo" ("medicine") to make the meaning unmistakable.
+- 'Fortunately, the eye was not seriously injured.' The doctor fires back earnestly on the spot, grounding the moment in plain reality.
+- 'Sveta, listen, I want to tell you something.' Denis answers briskly on the spot and puts the weight on "slushay" ("listen", from "slushat") as the exchange unfolds.
+- 'It seems she has an allergy to the medicine!' Pointing to an allergy before the doctor, Denis puts the emphasis on "allergiya" ("an allergy") in the middle of the talk.
+- 'Doctor, please help us quickly!' Denis weighs in warmly in their talk, steering the talk right where he wants it.
+- 'Wait, I will examine her carefully right now.' The doctor opens up warmly in this beat and lands on "podozhdite" ("wait", built on "podozhdat") to keep the statement grounded.

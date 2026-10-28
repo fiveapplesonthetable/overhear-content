@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing out here?' Nagiyev tests bluntly while looking straight at Barinov here.
-- 'Dima, hi. What are you doing?' Barinov uses one colorful choice for Nagiyev: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'Oh, nothing much.' Nagiyev frames this update beside Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'What do you mean, nothing?' Barinov challenges earnestly what Nagiyev is actually getting at here.
-- 'I have that important guest today, remember?' Nagiyev stresses one sharp word on cue: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
-- 'Of course I remember.' Barinov aims this answer toward Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I won't be here, I'm at a shoot all day.' Nagiyev chimes in wryly around Barinov, so Barinov knows he is not just making small talk.
-- 'Everything is counting on you.' Nagiyev brings that remark to Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Mind you don't mess up.' Nagiyev states this line without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Come on over.' Barinov opens up boldly in this moment, so Nagiyev knows he is not just making small talk.
-- 'I reached an agreement with Nagiyev.' Barinov uses this telling detail with Nagiyev: "dogovorilsya" means "made a deal" (from "dogovoritsya"), giving the line its exact edge.
-- 'I am waiting for you in the kitchen.' Barinov phrases this update without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What are you doing out here?' Nagiyev tests bluntly to see how Barinov will answer on the spot.
+- 'Dima, hi. What are you doing?' Barinov speaks plainly on the spot and brings in "delayesh" ("are you doing", from "delat") as the key Russian word here.
+- 'Oh, nothing much.' Nagiyev smoothly shares this direct affirmation in one quick breath using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'What do you mean, nothing?' Barinov challenges earnestly how Nagiyev expects that to work in practice.
+- 'I have that important guest today, remember?' Touching on the guest to Barinov, Nagiyev uses "segodnya" ("today") to carry the main weight of the thought.
+- 'Of course I remember.' Barinov briskly shares this confirmation right on cue using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'I won't be here, I'm at a shoot all day.' Nagiyev follows up wryly around Barinov, without trying to dress up how he really feels.
+- 'Everything is counting on you.' Speaking directly in the exchange, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Mind you don't mess up.' Weighing in candidly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Come on over.' Barinov cuts in boldly without holding back, grounding the moment in plain reality.
+- 'I reached an agreement with Nagiyev.' Barinov opens up candidly in this beat and uses "dogovorilsya" ("made a deal", from "dogovoritsya") to make the point stick.
+- 'I am waiting for you in the kitchen.' Answering earnestly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

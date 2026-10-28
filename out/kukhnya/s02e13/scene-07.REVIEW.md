@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, he is not alive.' Fedya colors one key touch on cue: "zhivoy" means "alive", and it carries the main weight of what Fedya is saying.
-- 'Wait, no, he seems to be alive.' Vika drops the comment with candor: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'That is it, I cannot take this anymore, I give up.' Fedya jumps in sharply to settle things, shifting the whole mood of the room in a single beat.
-- 'Be quiet right now, understand?' Vika uses this telling touch toward Fedya: "pomolchi" means "to be quiet" (from "pomolchat"), giving the line its exact edge.
-- 'Just stay quiet and sit still.' Fedya frames one pointed term for Vika: "pomolchi" means "to be quiet" (from "pomolchat"), giving the line its exact edge.
-- 'Let us see what is on there right now.' Vika counters dryly to settle things, leaving no doubt about where she stands.
-- 'What are you doing, we must delete this!' Fedya reaches for this vivid word in reply: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'What is going to happen to us now?' Vika frames the comment in earnest: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'As our captain used to say.' Fedya continues right away without a pause, grounding the moment in plain reality.
-- 'Get out of the car.' Vika leans on one colorful expression at once: "mashiny" means "cars" (from "mashina"), giving the line its exact edge.
-- 'Can I just go home?' Fedya phrases the comeback without pause: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Get out of the car right now.' Vika follows up plainly hearing Fedya, to clear the air between them once and for all.
-- 'Right now, how?' Fedya frames one sharp detail for Vika: "seychas" means "now", and it carries the main weight of what Fedya is saying.
+- 'No, he is not alive.' Stressing how alive he is before Vika, Fedya leans on "zhivoy" ("alive") to give the whole sentence its punch.
+- 'Wait, no, he seems to be alive.' Looking over openly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'That is it, I cannot take this anymore, I give up.' Fedya proceeds sharply across the room, shifting the mood of the conversation in a single beat.
+- 'Be quiet right now, understand?' Vika reacts readily in this beat and leans on "pomolchi" ("to be quiet", a form of "pomolchat") to give the remark its edge.
+- 'Just stay quiet and sit still.' Fedya proceeds warmly during the talk, testing Vika's reaction in the middle of the exchange.
+- 'Let us see what is on there right now.' Vika proceeds dryly without a pause, letting the remark speak for itself.
+- 'What are you doing, we must delete this!' Fedya counters vividly during the talk and centers the thought on "delayesh" ("are you doing", from "delat") without wasting a word.
+- 'What is going to happen to us now?' Reacting quietly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'As our captain used to say.' Fedya opens up right away watching Vika, before Vika can change the subject.
+- 'Get out of the car.' Talking about the cars with Fedya, Vika uses "mashiny" ("cars", from "mashina") to make the point stick.
+- 'Can I just go home?' Reacting firmly to Vika, Fedya leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Get out of the car right now.' Vika opens up plainly with a nod, keeping the focus on what actually matters here.
+- 'Right now, how?' Speaking briskly at once, Fedya puts the question word "kak" right at the start so Vika hears the focus immediately.

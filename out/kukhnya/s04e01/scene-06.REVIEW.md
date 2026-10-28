@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is wrong with you?' Kostya wonders earnestly whether Max really thought this through.
-- 'Oh, just family stuff.' Max spotlights one concrete element in reply: "semeynoye" means "family" (from "semeynyy"), giving the line its exact edge.
-- 'Vika has really worn me out.' Max states the reply before Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'She nags me over every little thing.' Max fires back firmly before Vika, to clear the air between them once and for all.
-- 'Find some mistake of hers.' Kostya favors one loaded term with Max: "kosyak" means "hers", and it carries the main weight of what Kostya is saying.
-- 'Then she won't be able to reproach you.' Kostya leans on one sharp expression in earnest: "upreknut" means "to reproach", and it carries the main weight of what Kostya is saying.
+- 'What is wrong with you?' Kostya wonders earnestly where this conversation is heading next.
+- 'Oh, just family stuff.' Max counters decisively right here and chooses "semeynoye" ("family", from the root "semeynyy") so Kostya hears the exact meaning.
+- 'Vika has really worn me out.' Reacting dryly before Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'She nags me over every little thing.' Max speaks firmly with a shrug, making his position completely clear.
+- 'Find some mistake of hers.' Talking about the hers in front of Max, Kostya chooses "kosyak" ("hers") so Max gets the point right away.
+- 'Then she won't be able to reproach you.' Kostya reacts lightly around Max, making his position completely clear.
 - 'What kind of mistake?' Max wonders bluntly while looking straight at Kostya here.
-- 'I don't know.' Kostya underscores one concrete detail toward Vika: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'Or maybe she uses your razor.' Kostya puts that point without pause: the "-sya" ending on "polzuyetsya" ("to use") turns the action inward or makes it happen between people naturally.
-- 'Does that really happen?' Vika prompts bluntly while looking straight at Max here.
-- 'It doesn't seem so.' Max aims this statement without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Keep looking.' Kostya phrases that remark toward Vika: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'I don't know.' Weighing in dryly right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Or maybe she uses your razor.' Checking on the razor on the spot, the "-sya" ending on "polzuyetsya" ("to use") marks an action that unfolds mutually or turns back on the speaker.
+- 'Does that really happen?' Vika prompts bluntly if there is more going on behind the scenes.
+- 'It doesn't seem so.' Cutting in dryly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Keep looking.' Following up plainly to Max, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.

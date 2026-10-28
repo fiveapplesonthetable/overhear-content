@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like such a great plan?' Barinov prompts calmly why things suddenly took this turn between them.
-- 'Chef, Timur has a tuna head.' Senya features one classic touch on cue: "golova" means "head", and it carries the main weight of what Senya is saying.
-- 'No, that fish is noticeable too quickly.' Barinov gives the reaction at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Mikhail rented a room for himself in the hotel.' Senya counters frankly to settle things, refusing to let the moment slip past.
-- 'He will definitely spend the night here today.' Senya features one sharp word right here: "segodnya" means "today", and it carries the main weight of what Senya is saying.
-- 'Excellent, Timur has a moose head.' Barinov voices this update around Senya: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
-- 'We just need to quickly saw off the big antlers.' Barinov replies decisively as they talk, grounding the moment in plain reality.
-- 'Look, what is this on the paper?' Nastya leans on this direct element in earnest: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
-- 'At his age it is not easy to draw something like this.' Nastya continues openly during the talk, keeping the focus on what actually matters here.
-- 'Styopa said that the drawing is like grandpa's.' Nastya answers warmly with a shrug, keeping the focus on what actually matters here.
-- 'Oh, thank you very much for the hot tea.' Nastya grounds this direct term with Barinov: "goryachiy" means "hot", and it carries the main weight of what Nastya is saying.
-- 'Let us go wash our hands clean together right now.' Nastya answers dryly as things stand, keeping the focus on what actually matters here.
-- 'He is still little, what does he understand?' Nastya checks quietly as Barinov tries to explain the situation.
+- 'Well, how do you like such a great plan?' Barinov prompts calmly before Senya can change the subject.
+- 'Chef, Timur has a tuna head.' Highlighting a tuna head in this beat, Senya uses "golova" ("head") to carry the main weight of the thought.
+- 'No, that fish is noticeable too quickly.' Stressing how noticeable things are right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Mikhail rented a room for himself in the hotel.' Pointing to the hotel without holding back, Senya puts the real issue right on the table for Barinov.
+- 'He will definitely spend the night here today.' Senya weighs in frankly to Barinov and brings in "segodnya" ("today") to make the meaning unmistakable.
+- 'Excellent, Timur has a moose head.' Touching on a moose head with Senya, Barinov leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".
+- 'We just need to quickly saw off the big antlers.' Talking about the horns in their talk, Barinov lets Nastya see exactly where things stand.
+- 'Look, what is this on the paper?' Discussing the paper right here, Nastya lands on "bumage" ("paper", built on "bumaga") to keep the statement grounded.
+- 'At his age it is not easy to draw something like this.' Bringing up the age beside Barinov, Nastya brings in "vozraste" ("age", from "vozrast") as the key Russian word here.
+- 'Styopa said that the drawing is like grandpa's.' Nastya chimes in warmly with Barinov, shifting the mood of the conversation in a single beat.
+- 'Oh, thank you very much for the hot tea.' Talking about the thank during the talk, Nastya chooses "goryachiy" ("hot") so Barinov gets the point right away.
+- 'Let us go wash our hands clean together right now.' Highlighting her hands on the spot, Nastya centers the thought on "chistyye" ("clean", from "chistyy") without wasting a word.
+- 'He is still little, what does he understand?' Nastya jumps in evenly in their talk, bringing things back to earth after the buildup.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to see me?' Eleonora inquires curiously while looking straight at Barinov here.
-- 'Yes. I wanted to apologize.' Barinov emphasizes one loaded touch with Eleonora: "izvinitsya" means "to apologise", and it carries the main weight of what Barinov is saying.
-- 'And what happened this morning is simply unacceptable.' Barinov directs the remark calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'You are the owner of the hotel, I had no right to question your authority.' Barinov chimes in openly during the talk, to clear the air between them once and for all.
-- 'Forgive me, I will fire this cook this very day.' Barinov uses this clear touch on cue: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
-- 'Well, do not rush!' Eleonora phrases that remark on cue: the "-sya" ending on "toropis" ("rush") turns the action inward or makes it happen between people naturally.
-- 'You know, I tasted what he cooked.' Eleonora follows up bluntly beside Barinov, grounding the moment in plain reality.
-- 'It is quite decent. The boy is good.' Eleonora underscores this key choice toward Barinov: "malchik-to" means "the boy" (from "malchik"), giving the line its exact edge.
-- 'Nobody pays me extra for that.' Barinov lays out this line toward Eleonora: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Alright, there will be a small bonus for you.' Eleonora proceeds promptly toward Barinov, grounding the moment in plain reality.
-- 'Thank you.' Barinov colors this key detail in reply: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
-- 'Tonight is a meeting with partners. Everything must be at the highest level!' Eleonora answers openly around Barinov, watching Barinov's face to see how the news lands.
+- 'Did you want to see me?' Eleonora inquires curiously to see how Barinov will answer on the spot.
+- 'Yes. I wanted to apologize.' Barinov follows up evenly at once and puts the emphasis on "izvinitsya" ("to apologise") in the middle of the talk.
+- 'And what happened this morning is simply unacceptable.' Stressing how unacceptable things are in this beat, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'You are the owner of the hotel, I had no right to question your authority.' Barinov chimes in openly in this moment, so Eleonora knows he is not just making small talk.
+- 'Forgive me, I will fire this cook this very day.' Bringing up the cook at once, Barinov brings in "povara" ("cook", from "povar") as the key Russian word here.
+- 'Well, do not rush!' Opening up candidly at once, the "-sya" ending on "toropis" ("rush") marks an action that unfolds mutually or turns back on the speaker.
+- 'You know, I tasted what he cooked.' Eleonora reacts bluntly around Barinov, steering the talk right where she wants it.
+- 'It is quite decent. The boy is good.' Focusing on the boy around Barinov, Eleonora brings in "malchik-to" ("the boy", from "malchik") as the key Russian word here.
+- 'Nobody pays me extra for that.' Pressing on firmly at once, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Alright, there will be a small bonus for you.' Eleonora jumps in promptly with a nod, bringing things back to earth after the buildup.
+- 'Thank you.' Speaking to Eleonora quietly toward Eleonora, Barinov says "spasibo" ("thank you"), the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Tonight is a meeting with partners. Everything must be at the highest level!' Focusing on the partner around Barinov, Eleonora reaches for the Russian word "partnyorami" ("partner", built from "partnyor") right at the center of the line.

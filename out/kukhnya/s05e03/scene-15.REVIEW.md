@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is just a little joke!' Nagiyev follows up quietly with a nod, shifting the whole mood of the room in a single beat.
-- 'It is a surprise from our mustachioed clown.' Nagiyev picks one sharp element at once: "syurpriz" means "surprise", and it carries the main weight of what Nagiyev is saying.
-- 'Thank you all very much for your attention.' Nagiyev frames that answer with ease: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Why did you kill that snake?' Eleonora tests curiously where this conversation is heading next.
-- 'How could you do that at all?' Eleonora colors one classic expression toward Barinov: "voobshche" means "at all", and it carries the main weight of what Eleonora is saying.
-- 'In order to cook it deliciously for you.' Barinov centers one telling touch toward Nagiyev: "prigotovit" means "to cook, to prepare", and it carries the main weight of what Barinov is saying.
-- 'You are to blame for everything yourself.' Barinov opens up steadily on the spot, leaving no doubt about where he stands.
-- 'Nobody discussed the banquet with me.' Barinov leans on this vivid choice with Nagiyev: "obsuzhdal" means "discussed" (from "obsuzhdat"), giving the line its exact edge.
-- 'I will definitely fire you for this!' Eleonora uses this telling touch right here: "tochno" means "definitely", and it carries the main weight of what Eleonora is saying.
-- 'But under the contract you cannot.' Barinov chimes in warmly in this moment, so Nagiyev knows he is not just making small talk.
-- 'What was that on stage just now?' Nagiyev colors one direct element right here: "stsene" means "the stage" (from "stsena"), giving the line its exact edge.
-- 'Try our new hot dish!' Barinov answers warmly facing Nagiyev, steering the talk right where he wants it.
+- 'This is just a little joke!' Nagiyev cuts in quietly in their talk, before Eleonora can change the subject.
+- 'It is a surprise from our mustachioed clown.' Pointing to a surprise to Eleonora, Nagiyev lands on "syurpriz" ("surprise") as the key everyday word here.
+- 'Thank you all very much for your attention.' Discussing the attention with Eleonora, Nagiyev centers the remark on "vnimaniye" ("attention") without any extra fuss.
+- 'Why did you kill that snake?' Eleonora tests curiously about what Nagiyev just brought up.
+- 'How could you do that at all?' Eleonora pushes back dryly beside Barinov and lands on "voobshche" ("at all") as the key everyday word here.
+- 'In order to cook it deliciously for you.' Barinov proceeds right away toward Eleonora, refusing to let the moment slip past.
+- 'You are to blame for everything yourself.' Barinov responds steadily without any doubt, before Eleonora can change the subject.
+- 'Nobody discussed the banquet with me.' Addressing the banquet during the talk, Barinov puts the emphasis on "banket" ("banquet") in the middle of the talk.
+- 'I will definitely fire you for this!' Eleonora jumps in frankly with a shrug, making her position completely clear.
+- 'But under the contract you cannot.' Bringing up the contract without a pause, Barinov lets Eleonora see exactly where things stand.
+- 'What was that on stage just now?' Pointing to the stage with Barinov, Nagiyev lands on "stsene" ("the stage", built on "stsena") to keep the statement grounded.
+- 'Try our new hot dish!' Addressing the dish in front of Nagiyev, Barinov chooses "goryacheye" ("hot", from the root "goryachiy") so Nagiyev hears the exact meaning.

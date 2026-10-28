@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, how are things going with our edible menu?' Vika sends that answer in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Do not worry, I was just about to make it.' Max continues at once in their talk, watching Vika's face to see how the news lands.
-- 'Tell me, have I ever deceived you before?' Max spotlights one concrete choice in reply: "kogda-nibud" means "someday, one day", and it carries the main weight of what Max is saying.
-- 'Max, hi, here is everything exactly as you asked!' Timur drops the reaction in earnest: opening with the casual greeting "privet" ("hi") signals right away that Timur and Vika are on familiar terms.
-- 'Here is rice paper, edible paints, and a food printer.' Timur continues at once as they talk, making his position completely clear.
-- 'Thank you, Timur, you are a true friend, you helped me out a lot!' Max favors one telling choice in earnest: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Max is saying.
-- 'Listen, this really is a very cool thing!' Timur responds plainly without any doubt, shifting the whole mood of the room in a single beat.
-- 'I should make myself an important document out of such paper.' Timur fires back frankly to settle things, before Vika can change the subject.
-- 'And if there is a sudden inspection, eat it right on the spot!' Timur reaches for this key detail on cue: "proverka" means "a test", and it carries the main weight of what Timur is saying.
-- 'Great idea, come on, carry the printer to the kitchen quickly.' Max brings that line with candor: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Make sure that by evening everything is nicely printed.' Vika speaks plainly in their talk, before Max can change the subject.
-- 'It will be done in the best possible way, Victoria Sergeyevna.' Max centers one classic expression right here: "luchshem" means "best" (from "luchshiy"), giving the line its exact edge.
+- 'Max, how are things going with our edible menu?' Pointing out how edible things are during the talk, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Do not worry, I was just about to make it.' Max follows up warmly with Vika, watching Vika's face to see how the news lands.
+- 'Tell me, have I ever deceived you before?' Max replies readily right here and lands on "kogda-nibud" ("someday, one day") as the key everyday word here.
+- 'Max, hi, here is everything exactly as you asked!' Timur follows up right away across the room, before Max can change the subject.
+- 'Here is rice paper, edible paints, and a food printer.' Timur answers at once without holding back, grounding the moment in plain reality.
+- 'Thank you, Timur, you are a true friend, you helped me out a lot!' Emphasizing how real Timur is at once, Max leans on "nastoyashchiy" ("real, genuine") to give the whole sentence its punch.
+- 'Listen, this really is a very cool thing!' Underscoring how great things are to Max, Timur puts the weight on "klassnaya" ("great, cool", from "klassnyy") as the exchange unfolds.
+- 'I should make myself an important document out of such paper.' Timur speaks frankly with Max, without trying to dress up how he really feels.
+- 'And if there is a sudden inspection, eat it right on the spot!' Touching on the test on the spot, Timur reaches for the Russian word "proverka" ("a test") right at the heart of the line.
+- 'Great idea, come on, carry the printer to the kitchen quickly.' Pointing to the idea at once, Max starts with "davay" ("come on, let's") to invite Timur right into the action.
+- 'Make sure that by evening everything is nicely printed.' Vika speaks plainly without any doubt, leaving no doubt about where she stands.
+- 'It will be done in the best possible way, Victoria Sergeyevna.' Highlighting the state beside Vika, Max brings in "luchshem" ("best", from "luchshiy") as the key Russian word here.

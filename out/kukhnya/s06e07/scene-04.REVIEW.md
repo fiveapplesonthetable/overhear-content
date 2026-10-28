@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to talk to you about Katya.' Nastya sharpens one practical detail toward Barinov: "pogovorit" means "to talk", and it carries the main weight of what Nastya is saying.
-- 'She feels very lonely and sad right now.' Nastya voices this warning with ease: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'I will definitely help the two of you get closer.' Nastya speaks up quietly to be clear, before Barinov can change the subject.
-- 'Well alright, let us try to do that.' Lyova underscores one direct detail on cue: "poprobuyem" means "try" (from "poprobovat"), giving the line its exact edge.
-- 'How could you blurt out that I am sick?' Barinov offers the reaction with warmth: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'How was I supposed to know that Elena could hear us?' Lyova wonders eagerly in front of Nastya without any preamble.
-- 'After all, that was your personal phone!' Lyova colors this direct word in earnest: "lichnyy" means "personal", and it carries the main weight of what Lyova is saying.
-- 'You made this mess, so you have to clean it up.' Barinov colors one concrete choice for Nastya: "raskhlyobyvat" means "to clean up", and it carries the main weight of what Barinov is saying.
-- 'Hello, I am Victor, sent by Elena for a checkup.' Lyova holds firm at once with Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Come in, please, have a seat here at the desk.' Nastya frames this sharp touch toward Lyova: "prokhodite" means "come in" (from "prokhodit"), giving the line its exact edge.
-- 'Well yes, this really is my mustache.' Lyova sends this answer with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You really do have a very handsome mustache!' Nastya speaks up briskly hearing Lyova, keeping the focus on what actually matters here.
+- 'I wanted to talk to you about Katya.' Nastya responds smoothly right here and lands on "pogovorit" ("to talk") as the key everyday word here.
+- 'She feels very lonely and sad right now.' Nastya speaks boldly in front of Lyova and brings in "odinoko" ("lonely") to make the meaning unmistakable.
+- 'I will definitely help the two of you get closer.' Nastya counters quietly across the room, leaving no doubt about where she stands.
+- 'Well alright, let us try to do that.' Lyova chimes in naturally on the spot and uses "poprobuyem" ("try", from "poprobovat") to make the point stick.
+- 'How could you blurt out that I am sick?' Stepping in frankly in this beat, Barinov leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'How was I supposed to know that Elena could hear us?' Lyova wonders eagerly if there is more going on behind the scenes.
+- 'After all, that was your personal phone!' Emphasizing the phone right here, Lyova chooses "lichnyy" ("personal") so Barinov gets the point right away.
+- 'You made this mess, so you have to clean it up.' Barinov follows up plainly hearing Lyova, so Lyova knows he is not just making small talk.
+- 'Hello, I am Victor, sent by Elena for a checkup.' Lyova pushes back at once beside Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Come in, please, have a seat here at the desk.' Bringing up the table in this beat, Nastya centers the thought on "prokhodite" ("come in", from "prokhodit") without wasting a word.
+- 'Well yes, this really is my mustache.' Bringing up his mustache before Nastya, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You really do have a very handsome mustache!' Nastya speaks up briskly without any doubt, watching Lyova's face to see how the news lands.

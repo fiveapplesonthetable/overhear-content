@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have gathered here for the sake of love.' Barinov picks one loaded expression right here: "sobralis" means "planned" (from "sobratsya"), giving the line its exact edge.
-- 'We want to unite two loving hearts.' Barinov weighs in right away beside Nikita, shifting the whole mood of the room in a single beat.
-- 'I want to address the newlyweds now.' Barinov replies dryly to settle things, shifting the whole mood of the room in a single beat.
-- 'Nikita, do you agree to take Ekaterina?' Barinov chooses this direct piece in earnest: "yekaterinu" means "ekaterina" (from "yekaterina"), giving the line its exact edge.
-- 'Yes, I completely agree.' Nikita puts this update without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'We have gathered here for the sake of love.' Pointing to the love in front of Nikita, Barinov leans on "lyubvi" ("love", a form of "lyubov") to give the remark its edge.
+- 'We want to unite two loving hearts.' Addressing the heart during the talk, Barinov leans on "lyubyashchikh" ("loving", a form of "lyubyashchiy") to give the remark its edge.
+- 'I want to address the newlyweds now.' Barinov replies dryly beside Nikita, keeping the focus on what actually matters here.
+- 'Nikita, do you agree to take Ekaterina?' Barinov reacts quietly before Nikita and uses "yekaterinu" ("ekaterina", from "yekaterina") to make the point stick.
+- 'Yes, I completely agree.' Cutting in frankly right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
 - 'Ekaterina, do you agree to marry Nikita?' Barinov presses sharply what Nikita is actually getting at here.
-- 'Forgive me, our wedding is called off today.' Katya uses one concrete element on cue: "otmenyayetsya" means "is canceled" (from "otmenyatsya"), giving the line its exact edge.
-- 'I do not understand, is this some kind of joke?' Nikita shapes the reaction plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Did we cook in vain today, or what?' Barinov questions eagerly in front of Katya without any preamble.
-- 'A woman can leave at any moment.' Barinov reaches for one classic expression for Nikita: "zhenshchina" means "woman", and it carries the main weight of what Barinov is saying.
-- 'Then I will probably go now.' Nikita opens up lightly in this moment, leaving no doubt about where he stands.
-- 'Of course, there is no one left to marry here.' Barinov replies at once as things stand, letting the remark speak for itself.
+- 'Forgive me, our wedding is called off today.' Katya lightly speaks this formal apology without hesitation using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'I do not understand, is this some kind of joke?' Checking on the joke at once, Nikita keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Did we cook in vain today, or what?' Barinov questions eagerly how Nikita expects that to work in practice.
+- 'A woman can leave at any moment.' Bringing up a woman in the exchange, Barinov lands on "zhenshchina" ("woman") as the key everyday word here.
+- 'Then I will probably go now.' Nikita responds plainly in the exchange and brings in "navernoye" ("probably") to make the meaning unmistakable.
+- 'Of course, there is no one left to marry here.' Barinov simply delivers this confirmation in front of Nikita using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".

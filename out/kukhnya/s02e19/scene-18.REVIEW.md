@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Perhaps you could give me an autograph?' Max challenges openly if there is more going on behind the scenes.
-- 'By the way, what wonderful Russian you speak.' Vika frames one clear expression with Max: "zamechatelnyy" means "wonderful, remarkable", and it carries the main weight of what Vika is saying.
-- 'My mother was Russian.' Max voices the comeback before Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Is that so.' Vika continues bluntly to settle things, bringing things back to earth after the buildup.
-- 'Though that was a very long time ago.' Max leans on this key piece right here: "ochen" means "very much", and it carries the main weight of what Max is saying.
-- 'Come now, Luca, surely it was not that long ago.' Vika cuts in steadily beside Max, saying out loud what both of them already know.
-- 'Just a couple of years ago.' Max follows up decisively to be clear, letting the remark speak for itself.
-- 'I know.' Vika picks one vivid choice at once: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'Yes, please do not worry.' Max shares this line beside Vika: the "-sya" ending on "volnuytes" ("worry") turns the action inward or makes it happen between people naturally.
-- 'Do not worry at all. No.' Vika responds promptly hearing Max, bringing things back to earth after the buildup.
-- 'Listen, Oguzok, maybe you should go work as a waiter?' Max features one classic term in reply: "ofitsianty" means "waiters" (from "ofitsiant"), giving the line its exact edge.
-- 'Rather than standing around in here.' Vika offers the comment on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Perhaps you could give me an autograph?' Max challenges openly to see how Vika will answer on the spot.
+- 'By the way, what wonderful Russian you speak.' Mentioning the language in this beat, Vika lands on "zamechatelnyy" ("wonderful, remarkable") as the key everyday word here.
+- 'My mother was Russian.' Touching on the mum during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Is that so.' Vika continues bluntly watching Max, to clear the air between them once and for all.
+- 'Though that was a very long time ago.' Max proceeds quietly on the spot and uses "ochen" ("very much") to carry the main weight of the thought.
+- 'Come now, Luca, surely it was not that long ago.' Underscoring the onion to Max, Vika centers the remark on "navernoye" ("probably") without any extra fuss.
+- 'Just a couple of years ago.' Max continues decisively on the spot, steering the talk right where he wants it.
+- 'I know.' Answering quietly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Yes, please do not worry.' Jumping in firmly with Vika, the "-sya" ending on "volnuytes" ("worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'Do not worry at all. No.' Vika reacts promptly in this moment, before Max can change the subject.
+- 'Listen, Oguzok, maybe you should go work as a waiter?' Highlighting the waiters in this beat, Max leans on "ofitsianty" ("waiters", a form of "ofitsiant") to give the remark its edge.
+- 'Rather than standing around in here.' Turning boldly to Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
 - 'Why not, maybe I actually will?' Max asks skeptically while looking straight at Vika here.

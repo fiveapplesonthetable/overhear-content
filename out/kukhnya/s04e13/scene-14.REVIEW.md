@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, here I brought everything.' Timur weighs in candidly in this moment, steering the talk right where he wants it.
-- 'Why did you even need this cat?' Timur asks calmly about what Senya just brought up.
-- 'It is a small present for one person.' Barinov favors one loaded piece toward Senya: "malenkiy" means "short, little", and it carries the main weight of what Barinov is saying.
-- 'By the way, take these miracle drops too.' Timur shapes the reaction toward Senya: opening with "kstati" ("by the way") lets Timur drop a new detail into the conversation as if it just crossed his mind.
-- 'With them it is easy to win a woman's heart.' Timur chimes in frankly as things stand, so Barinov knows he is not just making small talk.
-- 'All right, hand over the cat here, as I asked.' Barinov chooses one classic term right here: "koshku" means "cat" (from "koshka"), giving the line its exact edge.
-- 'There is a good collar on it, everything as needed.' Timur lays out that reply without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Chef, the coast is clear in the kitchen.' Senya speaks sharply beside Timur, without trying to dress up how he really feels.
-- 'Then it is time to let the tiger out of the cage!' Barinov picks this clear piece right here: "vypuskat" means "to let", and it carries the main weight of what Barinov is saying.
-- 'Senya, I really believe in you.' Barinov highlights one sharp choice on cue: "ochen" means "very much", and it carries the main weight of what Barinov is saying.
-- 'Chef, we actually did not agree on this!' Senya speaks up calmly facing Barinov, grounding the moment in plain reality.
-- 'Will five thousand rubles be enough for you right now?' Barinov chooses this key element in reply: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'For your sake I am ready for absolutely anything!' Senya makes that remark right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Viktor Petrovich, here I brought everything.' Timur weighs in readily during the talk and lands on "privyoz" ("brought", built on "privezti") to keep the statement grounded.
+- 'Why did you even need this cat?' Timur asks calmly about what Barinov just brought up.
+- 'It is a small present for one person.' Emphasizing how short things are in front of Timur, Barinov chooses "malenkiy" ("short, little") so Timur gets the point right away.
+- 'By the way, take these miracle drops too.' Turning to the drops at once, Timur opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'With them it is easy to win a woman's heart.' Timur reacts frankly with a smile, bringing things back to earth after the buildup.
+- 'All right, hand over the cat here, as I asked.' Discussing the cat in this beat, Barinov uses "koshku" ("cat", from "koshka") to make the point stick.
+- 'There is a good collar on it, everything as needed.' Stressing how good things are at once, Timur leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Chef, the coast is clear in the kitchen.' Senya replies sharply on the spot, refusing to let the moment slip past.
+- 'Then it is time to let the tiger out of the cage!' Pointing to the cage at once, Barinov chooses "kletki" ("cage") so Senya gets the point right away.
+- 'Senya, I really believe in you.' Barinov continues firmly with a sigh, making his position completely clear.
+- 'Chef, we actually did not agree on this!' Senya fires back calmly beside Barinov, refusing to let the moment slip past.
+- 'Will five thousand rubles be enough for you right now?' Talking about the thousand around Senya, Barinov chooses "tysyach" ("thousand", from the root "tysyacha") so Senya hears the exact meaning.
+- 'For your sake I am ready for absolutely anything!' Weighing in readily in the exchange, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why is everything in life so unfair?' Katya frames the reply frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'A person's life depends on pieces of paper.' Katya jumps in bluntly with a shrug, saying out loud what both of them already know.
-- 'Stop crying, it is too early to give up.' Denis uses one telling choice right here: "sdavatsya" means "to give up", and it carries the main weight of what Denis is saying.
-- 'We will definitely think of something else.' Denis counters evenly to settle things, grounding the moment in plain reality.
-- 'Katya, Nikita is looking for you over there.' Denis reacts decisively with a nod, bringing things back to earth after the buildup.
-- 'Nikita, we need to talk right now.' Katya reaches for one key touch in reply: "pogovorit" means "to talk", and it carries the main weight of what Katya is saying.
-- 'I spoke with my father.' Nikita follows up dryly with a shrug, so Denis knows he is not just making small talk.
-- 'He will pay for this operation in full.' Nikita cuts in plainly as they talk, without trying to dress up how he really feels.
-- 'And our problems are now shared.' Nikita leans on one telling detail in earnest: "obshchiye" means "shared, common" (from "obshchiy"), giving the line its exact edge.
-- 'I need to do a report urgently.' Nikita shapes the comeback with warmth: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Forgive me, I could not say it.' Katya stands firm boldly as things stand, shifting the whole mood of the room in a single beat.
-- 'Love also depends on pieces of paper.' Denis stresses one key detail in earnest: "bumazhek" means "pieces of paper" (from "bumazhka"), giving the line its exact edge.
+- 'Why is everything in life so unfair?' Returning to the life in this beat, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'A person's life depends on pieces of paper.' Katya speaks up bluntly watching Denis, shifting the mood of the conversation in a single beat.
+- 'Stop crying, it is too early to give up.' Denis proceeds plainly at once and centers the remark on "sdavatsya" ("to give up") without any extra fuss.
+- 'We will definitely think of something else.' Denis replies candidly to Katya and centers the remark on "obyazatelno" ("surely, without fail") without any extra fuss.
+- 'Katya, Nikita is looking for you over there.' Denis reacts decisively without holding back, without trying to dress up how he really feels.
+- 'Nikita, we need to talk right now.' Katya jumps in quietly before Nikita and puts the emphasis on "pogovorit" ("to talk") in the middle of the talk.
+- 'I spoke with my father.' Highlighting his father beside Katya, Nikita lands on "pogovoril" ("to have a talk", built on "pogovorit") to keep the statement grounded.
+- 'He will pay for this operation in full.' Nikita chimes in plainly without any doubt, refusing to let the moment slip past.
+- 'And our problems are now shared.' Noting how shared things are in front of Katya, Nikita reaches for the Russian word "obshchiye" ("shared, common", built from "obshchiy") right at the center of the line.
+- 'I need to do a report urgently.' Turning to a report during the talk, Nikita leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Forgive me, I could not say it.' Katya firmly uses this personal apology while facing Nikita using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'Love also depends on pieces of paper.' Touching on the pieces paper right here, Denis leans on "bumazhek" ("pieces of paper", a form of "bumazhka") to give the remark its edge.

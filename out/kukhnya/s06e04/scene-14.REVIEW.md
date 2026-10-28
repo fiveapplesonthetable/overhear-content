@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, I will just be a minute.' Katya brings this line calmly now: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Katya steps in.
-- 'In my opinion, the pigeon is a bit dry, though I am no expert.' Katya speaks warmly to be clear, keeping the focus on what actually matters here.
-- 'Olivier, let's stop this charade.' Barinov leans on one familiar expression toward Katya: "komediyu" means "comedy" (from "komediya"), giving the line its exact edge.
-- 'After all, you are the inspector!' Barinov phrases this update plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And it depends on you whether we get a star or not.' Barinov counters openly on the spot, making his position completely clear.
-- 'We have a great desire to be the best.' Barinov grounds this clear element with Louis: "zhelaniye" means "desire, craving", and it carries the main weight of what Barinov is saying.
-- 'And you see how badly I want my restaurant to become better.' Barinov grounds one classic word with Katya: "restoran" means "restaurant", and it carries the main weight of what Barinov is saying.
-- 'Kostya, bring another bottle of wine for the inspector!' Barinov fires back earnestly watching Louis, shifting the whole mood of the room in a single beat.
-- 'Katya, I want to show you something.' Louis uses this telling piece on cue: "pokazat" means "to show", and it carries the main weight of what Louis is saying.
-- 'Who is this in the photo?' Louis directs the thought for Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'That is the real inspector, my father sent me the photo.' Louis cuts in firmly with a smile, shifting the whole mood of the room in a single beat.
-- 'Thank you for the wine, Viktor.' Katya focuses on one sharp touch at once: "spasibo" means "thank you", and it carries the main weight of what Katya is saying.
+- 'Excuse me, I will just be a minute.' Katya warmly offers this polite apology as they meet using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'In my opinion, the pigeon is a bit dry, though I am no expert.' Katya speaks warmly toward Barinov, refusing to let the moment slip past.
+- 'Olivier, let's stop this charade.' Talking about the comedy on the spot, Barinov brings in "komediyu" ("comedy", from "komediya") as the key Russian word here.
+- 'After all, you are the inspector!' Discussing the inspector right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And it depends on you whether we get a star or not.' Barinov proceeds openly without a pause, testing Katya's reaction in the middle of the exchange.
+- 'We have a great desire to be the best.' Discussing a great desire in front of Louis, Barinov lands on "zhelaniye" ("desire, craving") as the key everyday word here.
+- 'And you see how badly I want my restaurant to become better.' Barinov fires back openly across the room, bringing things back to earth after the buildup.
+- 'Kostya, bring another bottle of wine for the inspector!' Barinov speaks up earnestly without a pause, making his position completely clear.
+- 'Katya, I want to show you something.' Louis cuts in pointedly in this beat and lands on "pokazat" ("to show") as the key everyday word here.
+- 'Who is this in the photo?' Checking on the photo in this beat, Louis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'That is the real inspector, my father sent me the photo.' Louis answers firmly beside Katya, testing Katya's reaction in the middle of the exchange.
+- 'Thank you for the wine, Viktor.' Katya simply delivers this word of thanks in front of Barinov using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

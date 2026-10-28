@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, my guests will come for lunch today.' Barinov reacts at once watching Elena, to clear the air between them once and for all.
-- 'They will definitely ask for the head chef at their table.' Barinov responds steadily to be clear, shifting the whole mood of the room in a single beat.
-- 'Make sure that I find out about this first.' Barinov spotlights one loaded choice right here: "pervym" means "first" (from "pervyy"), giving the line its exact edge.
-- 'Vitya, where do such generous gifts suddenly come from?' Elena phrases that point toward Barinov: putting the question word "otkuda" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'You did so much good for me recently.' Barinov opens up dryly watching Elena, so Elena knows he is not just making small talk.
-- 'Can I also repay you with kindness?' Barinov uses one familiar expression in earnest: "otplatit" means "to kindness", and it carries the main weight of what Barinov is saying.
-- 'Wait, is this session scheduled for today already?' Elena lays out that point without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Lyova, my guests will come for lunch today.' Bringing up the lunch with Elena, Barinov puts the emphasis on "segodnya" ("today") in the middle of the talk.
+- 'They will definitely ask for the head chef at their table.' Barinov opens up steadily without any doubt, testing Elena's reaction in the middle of the exchange.
+- 'Make sure that I find out about this first.' Barinov jumps in openly at once and brings in "pervym" ("first", from "pervyy") as the key Russian word here.
+- 'Vitya, where do such generous gifts suddenly come from?' Addressing the presents in this beat, Elena puts the question word "otkuda" right at the start so Barinov hears the focus immediately.
+- 'You did so much good for me recently.' Barinov cuts in dryly in their talk, steering the talk right where he wants it.
+- 'Can I also repay you with kindness?' Barinov reacts vividly with Elena and puts the weight on "dobrom" ("kind, good", from "dobryy") as the exchange unfolds.
+- 'Wait, is this session scheduled for today already?' Discussing the today in the exchange, Elena keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
 - 'And does it start in just half an hour?' Elena questions candidly whether Barinov really thought this through.
-- 'Yes, so why are you still sitting here?' Barinov grounds one colorful term toward Elena: "yeshchyo" means "more, still", and it carries the main weight of what Barinov is saying.
-- 'Come on, go quickly, and I will cover here.' Barinov shares this warning calmly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'After all, you will only be away during lunch.' Barinov weighs in steadily with a shrug, to clear the air between them once and for all.
-- 'Well all right, thank you, it is just very unexpected.' Elena reaches for one concrete term with Barinov: "neozhidanno" means "unexpected", and it carries the main weight of what Elena is saying.
+- 'Yes, so why are you still sitting here?' Barinov pushes back readily around Elena and puts the emphasis on "yeshchyo" ("more, still") in the middle of the talk.
+- 'Come on, go quickly, and I will cover here.' Answering naturally beside Elena, Barinov starts with "davay" ("come on, let's") to invite Elena right into the action.
+- 'After all, you will only be away during lunch.' Barinov speaks steadily beside Elena, watching Elena's face to see how the news lands.
+- 'Well all right, thank you, it is just very unexpected.' Touching on the thank during the talk, Elena brings in "neozhidanno" ("unexpected") to make the meaning unmistakable.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is there a casino located in here?' Max grounds this key touch toward Barinov: "nakhoditsya" means "to be located", and it carries the main weight of what Max is saying.
-- 'Barinov is here, he called for me.' Max opens up at once in their talk, leaving no doubt about where he stands.
-- 'Alright, then come in here quickly.' The guest weighs in promptly with Barinov, shifting the whole mood of the room in a single beat.
-- 'Maximka, you have finally arrived!' Barinov points to one concrete element right here: "nakonets-to" means "at last, finally", and it carries the main weight of what Barinov is saying.
-- 'Do you have any money with you?' Barinov brings the thought in earnest: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Chef, you did not say anything about money.' Max holds firm evenly around the guest, grounding the moment in plain reality.
-- 'Well, you could have guessed it yourself.' Barinov reaches for this key term toward the guest: "dogadatsya" means "to guess, to realise", and it carries the main weight of what Barinov is saying.
-- 'Vitya, are you going to keep playing?' The guest lays out this warning facing Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Yes, I will, I am betting him.' Barinov fires back warmly in their talk, bringing things back to earth after the buildup.
-- 'Chef, what on earth are you doing?' Max chooses this sharp touch right here: "delayete" means "are doing" (from "delat"), giving the line its exact edge.
-- 'Be quiet, he is a good, hardworking guy.' Barinov counters calmly in this moment, without trying to dress up how he really feels.
-- 'Well alright, let us keep playing.' The guest follows up right away as things stand, letting the remark speak for itself.
+- 'Is there a casino located in here?' Addressing a casino with the guest, Max puts the emphasis on "nakhoditsya" ("to be located") in the middle of the talk.
+- 'Barinov is here, he called for me.' Max counters directly beside the guest and puts the weight on "pozval" ("invited", from "pozvat") as the exchange unfolds.
+- 'Alright, then come in here quickly.' The guest gently directs this word of agreement for Max using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Maximka, you have finally arrived!' Barinov speaks up naturally right here and lands on "nakonets-to" ("at last, finally") as the key everyday word here.
+- 'Do you have any money with you?' Pointing to the money to Max, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Chef, you did not say anything about money.' Max follows up evenly without holding back, testing Barinov's reaction in the middle of the exchange.
+- 'Well, you could have guessed it yourself.' Barinov cuts in earnestly on the spot and brings in "dogadatsya" ("to guess, to realise") to make the meaning unmistakable.
+- 'Vitya, are you going to keep playing?' Opening up briskly on the spot, the guest keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Yes, I will, I am betting him.' Barinov steps in warmly during the talk, making his position completely clear.
+- 'Chef, what on earth are you doing?' Max steps in quietly in the exchange and leans on "delayete" ("are doing", a form of "delat") to give the remark its edge.
+- 'Be quiet, he is a good, hardworking guy.' Explaining how good he is in this beat, Barinov reaches for the Russian word "rabotyashchiy" ("hardworking") right at the heart of the line.
+- 'Well alright, let us keep playing.' The guest continues right away on the spot, letting the remark speak for itself.

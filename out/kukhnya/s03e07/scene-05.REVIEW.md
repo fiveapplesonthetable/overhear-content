@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What on earth is this, honest word!' Barinov frames that thought plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I really do not know anything anymore.' Barinov chimes in bluntly hearing Max, letting the remark speak for itself.
-- 'Well what, did you not have enough yesterday?' Barinov colors one loaded detail on cue: "vchera" means "yesterday", and it carries the main weight of what Barinov is saying.
-- 'Dima, please, stop immediately!' Max lays out this update facing Lyova: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Chef, a guest out there found a cockroach in his dish.' Lyova reacts warmly with a sigh, refusing to let the moment slip past.
-- 'What cockroach, whose dish is it?' Barinov chooses this telling piece toward Max: "tarakana" means "cockroach" (from "tarakan"), giving the line its exact edge.
-- 'Unfortunately, it is your dish, Chef.' Lyova phrases the remark at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'That is precisely why I do not love traditional cuisine.' Max pushes back bluntly with a shrug, leaving no doubt about where he stands.
-- 'And in molecular cuisine no one would have noticed it.' Max picks this clear word right here: "molekulyarnoy" means "molecular" (from "molekulyarnyy"), giving the line its exact edge.
-- 'Hey, where is he driving right now?' Barinov lays out the reply beside Max: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Brake quickly, that is Nagiyev himself!' Lyova pushes back dryly without a pause, steering the talk right where he wants it.
-- 'Let us drive away from here quickly!' Barinov frames this vivid piece in reply: "uyezzhayem" means "we leave, drive away" (from "uyezzhat"), giving the line its exact edge.
+- 'What on earth is this, honest word!' Explaining how honest things are at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I really do not know anything anymore.' Barinov reacts bluntly without holding back, making his position completely clear.
+- 'Well what, did you not have enough yesterday?' Barinov continues naturally to Max and leans on "vchera" ("yesterday") to give the whole sentence its punch.
+- 'Dima, please, stop immediately!' Max smoothly uses this courtesy word in the exchange using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Chef, a guest out there found a cockroach in his dish.' Lyova reacts warmly toward Barinov, grounding the moment in plain reality.
+- 'What cockroach, whose dish is it?' Discussing the cockroach in this beat, Barinov puts the weight on "tarakana" ("cockroach", from "tarakan") as the exchange unfolds.
+- 'Unfortunately, it is your dish, Chef.' Discussing the regret in the exchange, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'That is precisely why I do not love traditional cuisine.' Max cuts in bluntly without a pause, keeping the focus on what actually matters here.
+- 'And in molecular cuisine no one would have noticed it.' Focusing on the kitchen at once, Max reaches for the Russian word "molekulyarnoy" ("molecular", built from "molekulyarnyy") right at the center of the line.
+- 'Hey, where is he driving right now?' Reacting naturally in the exchange, Barinov puts the question word "kuda" right at the start so Lyova hears the focus immediately.
+- 'Brake quickly, that is Nagiyev himself!' Lyova opens up dryly in their talk, shifting the mood of the conversation in a single beat.
+- 'Let us drive away from here quickly!' Barinov replies openly before Lyova and reaches for the Russian word "uyezzhayem" ("we leave, drive away", built from "uyezzhat") right at the center of the line.

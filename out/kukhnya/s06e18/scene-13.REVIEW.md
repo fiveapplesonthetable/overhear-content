@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, please, dear friend.' Eleonora emphasizes one pointed word in earnest: "dorogoy" means "dear", and it carries the main weight of what Eleonora is saying.
-- 'Horses bite in your hotel room!' Denis lays out this point plainly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Forgive me, please, dear friend.' Eleonora warmly voices this formal apology in front of Denis using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'Horses bite in your hotel room!' Addressing the horse in front of Eleonora, Denis uses "u tebya" (literally "by you") where English says "you have" or "your".
 - 'Tell me, is this a hotel or a stable?' Denis checks firmly about what Eleonora just brought up.
-- 'We did not even talk about the money.' Eleonora points to this telling term toward Katya: "pogovorili" means "had a talk" (from "pogovorit"), giving the line its exact edge.
-- 'First I will get checked for rabies.' Denis replies lightly across the room, refusing to let the moment slip past.
-- 'There is a mad horse in my hotel!' Eleonora speaks up quietly with a nod, testing Katya's reaction in the middle of the exchange.
-- 'Let us drink to Katya and Nikita.' Denis features one clear term right here: "vypyem" means "will drink" (from "vypit"), giving the line its exact edge.
-- 'They are a very beautiful couple, after all.' Denis voices this warning facing Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We are drinking to our young couple.' Katya reacts wryly to settle things, before Denis can change the subject.
-- 'They canceled the flight to Tokyo today.' Denis anchors one direct detail in earnest: "segodnya" means "today", and it carries the main weight of what Denis is saying.
-- 'The plane is not flying because of bad weather.' Denis chimes in plainly without holding back, grounding the moment in plain reality.
-- 'The weather there is terrible, a strong typhoon.' Katya counters bluntly to be clear, to clear the air between them once and for all.
+- 'We did not even talk about the money.' Eleonora cuts in naturally to Denis and reaches for the Russian word "dengakh" ("money", built from "dengi") right at the center of the line.
+- 'First I will get checked for rabies.' Emphasizing the rabies on the spot, Denis uses "beshenstvo" ("rabies") to carry the main weight of the thought.
+- 'There is a mad horse in my hotel!' Eleonora weighs in quietly beside Denis, so Denis knows she is not just making small talk.
+- 'Let us drink to Katya and Nikita.' Denis jumps in boldly in the exchange and uses "vypyem" ("will drink", from "vypit") to make the point stick.
+- 'They are a very beautiful couple, after all.' Underscoring how pretty things are to Katya, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We are drinking to our young couple.' Katya cuts in wryly without any doubt, testing Denis's reaction in the middle of the exchange.
+- 'They canceled the flight to Tokyo today.' Focusing on the flight around Katya, Denis lands on "segodnya" ("today") as the key everyday word here.
+- 'The plane is not flying because of bad weather.' Underscoring the plane in front of Katya, Denis chooses "samolyot" ("plane") so Katya gets the point right away.
+- 'The weather there is terrible, a strong typhoon.' Katya speaks bluntly around Denis, bringing things back to earth after the buildup.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, are you already drinking in the middle of the day?' Nastya features this vivid piece in reply: "posredi" means "narrow", and it carries the main weight of what Nastya is saying.
-- 'Nastya, well I only tasted a tiny drop!' Kostya proceeds openly to settle things, bringing things back to earth after the buildup.
-- 'After all, I am simply studying to become a real sommelier.' Kostya answers openly watching Nastya, to clear the air between them once and for all.
-- 'By the way, this dry wine goes excellently with the soup!' Kostya sharpens one sharp term toward Nastya: "sukhoye" means "dry" (from "sukhoy"), giving the line its exact edge.
-- 'Nastya, wait, why did you suddenly start crying?' Kostya lays out that remark toward Nastya: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Tell me honestly, did something happen to you?' Kostya tests plainly before Nastya can change the subject.
-- 'When I was little, my dad used to drink.' Nastya stresses this key detail toward Kostya: "malenkaya" means "small" (from "malenkiy"), giving the line its exact edge.
-- 'At first he also drank only one little drop at a time.' Nastya pushes back quietly across the room, bringing things back to earth after the buildup.
-- 'I am very afraid of a repeat of this sad story.' Nastya speaks lightly without any doubt, to clear the air between them once and for all.
-- 'After all, we have a little son growing up at home.' Nastya underscores this telling touch for Kostya: "malenkiy" means "short, little", and it carries the main weight of what Nastya is saying.
-- 'I want a completely different childhood for him!' Nastya voices this warning without pause: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Forgive me, darling, I will not do it anymore!' Kostya holds firm promptly during the talk, making his position completely clear.
+- 'Kostya, are you already drinking in the middle of the day?' Underscoring the narrow right here, Nastya centers the remark on "posredi" ("narrow") without any extra fuss.
+- 'Nastya, well I only tasted a tiny drop!' Talking about a tiny drop on the spot, Kostya reaches for the Russian word "poproboval" ("tried, tasted", built from "poprobovat") right at the center of the line.
+- 'After all, I am simply studying to become a real sommelier.' Kostya chimes in openly hearing Nastya, so Nastya knows he is not just making small talk.
+- 'By the way, this dry wine goes excellently with the soup!' Turning to the wine at once, Kostya puts the weight on "sukhoye" ("dry", from "sukhoy") as the exchange unfolds.
+- 'Nastya, wait, why did you suddenly start crying?' Turning openly at once, Kostya keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Tell me honestly, did something happen to you?' Kostya tests plainly why things suddenly took this turn between them.
+- 'When I was little, my dad used to drink.' Touching on her dad with Kostya, Nastya lands on "malenkaya" ("small", built on "malenkiy") to keep the statement grounded.
+- 'At first he also drank only one little drop at a time.' Touching on the tiny drop to Kostya, Nastya centers the thought on "kapelke" ("tiny drop, a little bit", from "kapelka") without wasting a word.
+- 'I am very afraid of a repeat of this sad story.' Turning to the story without any doubt, Nastya cuts straight through the tension with Kostya.
+- 'After all, we have a little son growing up at home.' Focusing on a son in this beat, Nastya chooses "malenkiy" ("short, little") so Kostya gets the point right away.
+- 'I want a completely different childhood for him!' Touching on the childhood with Kostya, Nastya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Forgive me, darling, I will not do it anymore!' Kostya follows up promptly with a nod, testing Nastya's reaction in the middle of the exchange.

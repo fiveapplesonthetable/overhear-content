@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, come on over to us.' Nagiyev follows up pointedly on the spot, leaving no doubt about where he stands.
-- 'Hello, allow me to introduce a man to you.' Nagiyev centers one loaded element in earnest: "zdravstvuyte" means "hello", and it carries the main weight of what Nagiyev is saying.
-- 'He will produce our new show.' Nagiyev counters steadily with Vika, bringing things back to earth after the buildup.
-- 'He is a true master of our television.' Nagiyev counters bluntly watching Vika, testing Vika's reaction in the middle of the exchange.
-- 'This is my friend Vyacheslav Aleksandrovich.' Nagiyev spotlights this key element with Vika: "aleksandrovich" means "aleksandrovich", and it carries the main weight of what Nagiyev is saying.
-- 'We are very pleased to meet you.' Vika voices the reaction with ease: the "-sya" ending on "poznakomitsya" ("to meet") turns the action inward or makes it happen between people naturally.
-- 'And why are we just standing around?' Nagiyev wonders openly how Vika expects that to work in practice.
-- 'Let's work actively, gentlemen.' Nagiyev highlights one colorful detail right here: "gospoda" means "gentlemen" (from "gospodin"), giving the line its exact edge.
-- 'We will work for the common good.' Nagiyev holds firm firmly with a sigh, keeping the focus on what actually matters here.
-- 'Well then, have you decided on the host yet?' Nagiyev inquires quietly how Vika expects that to work in practice.
-- 'Excuse me, I need to answer this right now.' Vika stresses one loaded detail right here: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Hello, yes, I am listening to you closely.' Vika points to one key piece on cue: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Vika is saying.
+- 'Good afternoon, come on over to us.' Nagiyev quietly uses this daytime greeting without hesitation using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'Hello, allow me to introduce a man to you.' Nagiyev promptly voices this formal greeting beside Vika using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'He will produce our new show.' Turning to the show on the spot, Nagiyev reaches for the Russian word "novoye" ("new", built from "novyy") right at the center of the line.
+- 'He is a true master of our television.' Nagiyev speaks up bluntly without holding back, making his position completely clear.
+- 'This is my friend Vyacheslav Aleksandrovich.' Discussing his friend on the spot, Nagiyev uses "aleksandrovich" ("aleksandrovich") to carry the main weight of the thought.
+- 'We are very pleased to meet you.' Holding firm earnestly beside Nagiyev, the "-sya" ending on "poznakomitsya" ("to meet") marks an action that unfolds mutually or turns back on the speaker.
+- 'And why are we just standing around?' Nagiyev wonders openly if there is more going on behind the scenes.
+- 'Let's work actively, gentlemen.' Mentioning the gentlemen with Vika, Nagiyev chooses "gospoda" ("gentlemen", from the root "gospodin") so Vika hears the exact meaning.
+- 'We will work for the common good.' Pointing to the common good in front of Vika, Nagiyev brings in "obshcheye" ("joint", from "obshchiy") as the key Russian word here.
+- 'Well then, have you decided on the host yet?' Nagiyev inquires quietly while looking straight at Vika here.
+- 'Excuse me, I need to answer this right now.' Vika lightly speaks this polite apology in front of Nagiyev using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Hello, yes, I am listening to you closely.' Vika reacts evenly in their talk, making her position completely clear.

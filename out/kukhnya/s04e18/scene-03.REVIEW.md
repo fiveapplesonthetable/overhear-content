@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They ordered a horsemeat steak out there.' Barinov replies evenly with a sigh, without trying to dress up how he really feels.
-- 'Look, there is one more video clip.' Senya colors one familiar choice toward Fedya: "yeshchyo" means "more, still", and it carries the main weight of what Senya is saying.
-- 'It has the exact same title.' Fedya speaks at once with Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Wait, is that our German or what?' Senya tests wryly whether Fedya really thought this through.
-- 'I wonder where all this took place?' Fedya focuses on this key expression for Barinov: "interesno" means "interesting", and it carries the main weight of what Fedya is saying.
-- 'Stop it, I know him well.' Barinov shares that thought frankly here: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'He used to work in Riga.' Barinov fires back sharply watching Fedya, to clear the air between them once and for all.
-- 'That is my acquaintance Markus.' Barinov frames one sharp term with Senya: "znakomyy" means "familiar", and it carries the main weight of what Barinov is saying.
-- 'Give me the phone, I will call him.' Barinov pushes back bluntly in their talk, to clear the air between them once and for all.
-- 'Hello, Markus, hi there, my friend.' Barinov responds lightly during the talk, leaving no doubt about where he stands.
-- 'Tell me about this German.' Barinov sharpens this key expression at once: "rasskazhi" means "tell" (from "rasskazat"), giving the line its exact edge.
-- 'Thank you very much for the information.' Barinov makes the thought on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'They ordered a horsemeat steak out there.' Barinov speaks evenly across the room, watching Senya's face to see how the news lands.
+- 'Look, there is one more video clip.' Pointing to the video clip on the spot, Senya reaches for the Russian word "yeshchyo" ("more, still") right at the heart of the line.
+- 'It has the exact same title.' Bringing up the name with Senya, Fedya brings in "nazvaniye" ("name, title") to make the meaning unmistakable.
+- 'Wait, is that our German or what?' Senya tests wryly why things suddenly took this turn between them.
+- 'I wonder where all this took place?' Fedya fires back smoothly on the spot and uses "interesno" ("interesting") to carry the main weight of the thought.
+- 'Stop it, I know him well.' Barinov replies readily in the exchange and uses "ostanovi" ("stop", from "ostanovit") to make the point stick.
+- 'He used to work in Riga.' Barinov jumps in sharply with a sigh, letting the remark speak for itself.
+- 'That is my acquaintance Markus.' Stressing how familiar things are at once, Barinov leans on "znakomyy" ("familiar") to give the whole sentence its punch.
+- 'Give me the phone, I will call him.' Emphasizing the phone in front of Fedya, Barinov chooses "telefon" ("phone") so Fedya gets the point right away.
+- 'Hello, Markus, hi there, my friend.' Barinov warmly extends this casual greeting right on cue using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Tell me about this German.' Barinov jumps in lightly without a pause, without trying to dress up how he really feels.
+- 'Thank you very much for the information.' Barinov casually shares this word of thanks in one quick breath using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

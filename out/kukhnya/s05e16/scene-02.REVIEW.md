@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I urgently need a large vase with water.' Eleonora cuts in steadily with Nagiyev, leaving no doubt about where she stands.
-- 'This is already the nineteenth bouquet in a single week!' Eleonora counters openly without any doubt, to clear the air between them once and for all.
-- 'Have you ever not known who was courting you?' Eleonora highlights one practical term with Nagiyev: "ukhazhivayet" means "to court, to woo" (from "ukhazhivat"), giving the line its exact edge.
-- 'It has, I even married him!' Vika continues earnestly toward Nagiyev, refusing to let the moment slip past.
-- 'Only later did I find out who he really was.' Vika reacts quietly with a nod, letting the remark speak for itself.
-- 'Hello everyone, what lovely flowers you have!' Nagiyev anchors one pointed detail with Vika: "prekrasnyye" means "wonderful, fine" (from "prekrasnyy"), giving the line its exact edge.
-- 'Yes, they really are very fresh and beautiful today.' Eleonora gives the comment to Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Those are rare southern flowers, I know them.' Nagiyev speaks lightly on the spot, shifting the whole mood of the room in a single beat.
-- 'Wow, how do you know that complicated name?' Eleonora emphasizes one sharp word for Nagiyev: "slozhnoye" means "complex" (from "slozhnyy"), giving the line its exact edge.
-- 'I never would have thought that you know so much about flowers!' Eleonora hands over that thought before Vika: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Dear Eleonora, I know a lot about far more than just that!' Nagiyev reacts firmly to be clear, letting the remark speak for itself.
-- 'Very curious, could all of this really be his doing?' Eleonora centers one colorful term right here: "lyubopytno" means "curious, interesting", and it carries the main weight of what Eleonora is saying.
+- 'I urgently need a large vase with water.' Underscoring a large vase during the talk, Eleonora centers the thought on "bolshaya" ("large", from "bolshoy") without wasting a word.
+- 'This is already the nineteenth bouquet in a single week!' Eleonora jumps in openly watching Vika, leaving no doubt about where she stands.
+- 'Have you ever not known who was courting you?' Eleonora reacts firmly before Vika and uses "ukhazhivayet" ("to court, to woo", from "ukhazhivat") to make the point stick.
+- 'It has, I even married him!' Vika cuts in directly in this beat and puts the weight on "byvalo" ("to happen, to be", from "byvat") as the exchange unfolds.
+- 'Only later did I find out who he really was.' Vika reacts quietly with a sigh, before Nagiyev can change the subject.
+- 'Hello everyone, what lovely flowers you have!' Focusing on the flowers in the exchange, Nagiyev brings in "prekrasnyye" ("wonderful, fine", from "prekrasnyy") as the key Russian word here.
+- 'Yes, they really are very fresh and beautiful today.' Stepping in briskly in front of Nagiyev, Eleonora links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Those are rare southern flowers, I know them.' Nagiyev speaks lightly without any doubt, making his position completely clear.
+- 'Wow, how do you know that complicated name?' Turning to the name in front of Nagiyev, Eleonora chooses "slozhnoye" ("complex", from the root "slozhnyy") so Nagiyev hears the exact meaning.
+- 'I never would have thought that you know so much about flowers!' Touching on the flower in the exchange, Eleonora pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Dear Eleonora, I know a lot about far more than just that!' Nagiyev cuts in firmly across the room, without trying to dress up how he really feels.
+- 'Very curious, could all of this really be his doing?' Highlighting the arms around Nagiyev, Eleonora leans on "lyubopytno" ("curious, interesting") to give the whole sentence its punch.

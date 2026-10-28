@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what does it say?' Max phrases this line on cue: putting the question word "chto" right at the front of the line lets the doctor hear the point of the question on the very first beat.
-- 'Only one line again.' Vika jumps in steadily with a smile, watching Max's face to see how the news lands.
-- 'Phew, thank goodness.' Max anchors this clear detail toward the doctor: "slava" means "glory", and it carries the main weight of what Max is saying.
-- 'Oops, sorry, out of habit.' Max shapes this statement beside Vika: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'Nothing terrible. Judging by the tests, you are healthy.' The doctor reacts warmly across the room, before Max can change the subject.
-- 'Over the next two days I advise you to work really hard.' The doctor colors one concrete piece on cue: "blizhayshiye" means "next, coming" (from "blizhayshiy"), giving the line its exact edge.
-- 'Excuse me, and how often should we try?' Vika makes that remark without pause: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Vika steps in.
-- 'Well, that depends on you.' The doctor answers dryly beside Vika, bringing things back to earth after the buildup.
-- 'Some people can manage seven times.' The doctor sharpens this key touch for Max: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'Well, seven it is then.' Vika aims that line beside Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Seven times?' Max quizzes candidly whether the doctor really thought this through.
-- 'I mean over the course of two days.' The doctor picks this telling term with Vika: "imeyetsya" means "is available" (from "imetsya"), giving the line its exact edge.
+- 'Well, what does it say?' Turning warmly with Vika, Max puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'Only one line again.' Vika weighs in steadily with Max, steering the talk right where she wants it.
+- 'Phew, thank goodness.' Emphasizing the glory in front of Vika, Max uses "slava" ("glory") to carry the main weight of the thought.
+- 'Oops, sorry, out of habit.' Max directly delivers this informal apology as they meet using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'Nothing terrible. Judging by the tests, you are healthy.' The doctor reacts warmly with a nod, so Max knows he is not just making small talk.
+- 'Over the next two days I advise you to work really hard.' The doctor answers openly during the talk and brings in "blizhayshiye" ("next, coming", from "blizhayshiy") as the key Russian word here.
+- 'Excuse me, and how often should we try?' Weighing in quietly around the doctor, Vika puts the question word "kak" right at the start so the doctor hears the focus immediately.
+- 'Well, that depends on you.' The doctor responds dryly hearing Vika, before Vika can change the subject.
+- 'Some people can manage seven times.' The doctor weighs in plainly without holding back, shifting the mood of the conversation in a single beat.
+- 'Well, seven it is then.' Opening up openly to the doctor, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Seven times?' Max quizzes candidly before the doctor can change the subject.
+- 'I mean over the course of two days.' Focusing on the view in this beat, the doctor brings in "imeyetsya" ("is available", from "imetsya") as the key Russian word here.

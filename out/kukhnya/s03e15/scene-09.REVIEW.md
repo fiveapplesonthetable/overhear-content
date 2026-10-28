@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nice bouquet, did another admirer give it to you?' Max probes plainly in front of Kostya without any preamble.
-- 'You have completely forgotten about me in your new life.' Max leans on one direct expression on cue: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
-- 'Let me remind you, my name is Max, I work as a cook.' Max cuts in sharply watching Kostya, testing Kostya's reaction in the middle of the exchange.
-- 'What, you ruined our relationship and now you are leaving?' Max checks calmly before Vika can change the subject.
-- 'I ruined our relationship, and who else?' Vika anchors this sharp touch in earnest: "otnosheniya" means "relations, relationship" (from "otnosheniye"), giving the line its exact edge.
-- 'In any case, I did not sleep with Nagiyev!' Max reacts dryly in their talk, testing Vika's reaction in the middle of the exchange.
-- 'Max, stop it, I do not want to hear anything more!' Vika follows up boldly with Kostya, without trying to dress up how she really feels.
-- 'Max, Viktoria Sergeyevna forgot her keys, call her!' Kostya frames one direct choice right here: "klyuchi" means "the keys" (from "klyuch"), giving the line its exact edge.
-- 'Damn, I mixed them up again, this is Max's phone!' Kostya responds openly with a shrug, grounding the moment in plain reality.
-- 'Viktoria Sergeyevna, it is a good thing you did not leave, you forgot your keys.' Max chimes in plainly beside Vika, keeping the focus on what actually matters here.
-- 'Wait, so you did not delete my number?' Max picks one pointed word with Kostya: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Farewell forever, Max!' Vika lays out the reaction with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Nice bouquet, did another admirer give it to you?' Max probes plainly what Vika is actually getting at here.
+- 'You have completely forgotten about me in your new life.' Discussing the life with Vika, Max chooses "zhizni" ("life", from the root "zhizn") so Vika hears the exact meaning.
+- 'Let me remind you, my name is Max, I work as a cook.' Discussing a cook before Vika, Max centers the thought on "povarom" ("as a cook", from "povar") without wasting a word.
+- 'What, you ruined our relationship and now you are leaving?' Max checks calmly why things suddenly took this turn between them.
+- 'I ruined our relationship, and who else?' Emphasizing the relations in this beat, Vika brings in "otnosheniya" ("relations, relationship", from "otnosheniye") as the key Russian word here.
+- 'In any case, I did not sleep with Nagiyev!' Emphasizing the case before Vika, Max reaches for the Russian word "sluchaye" ("case, event", built from "sluchay") right at the center of the line.
+- 'Max, stop it, I do not want to hear anything more!' Vika pushes back boldly with a smile, refusing to let the moment slip past.
+- 'Max, Viktoria Sergeyevna forgot her keys, call her!' Mentioning the keys with Max, Kostya uses "klyuchi" ("the keys", from "klyuch") to make the point stick.
+- 'Damn, I mixed them up again, this is Max's phone!' Mentioning the phone in the exchange, Kostya brings in "telefon" ("phone") to make the meaning unmistakable.
+- 'Viktoria Sergeyevna, it is a good thing you did not leave, you forgot your keys.' Max continues plainly during the talk, before Kostya can change the subject.
+- 'Wait, so you did not delete my number?' Emphasizing his number beside Vika, Max reaches for the Russian word "podozhdi" ("wait", built from "podozhdat") right at the center of the line.
+- 'Farewell forever, Max!' Turning plainly on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

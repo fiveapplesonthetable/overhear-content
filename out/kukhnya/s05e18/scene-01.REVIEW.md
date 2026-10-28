@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ainura, we really should not do this.' Gulya spotlights this sharp word toward Ainura: "sovsem" means "at all", and it carries the main weight of what Gulya is saying.
-- 'After all, this is real theft.' Gulya voices this answer frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What are you talking about?' Ainura prompts skeptically to see how Gulya will answer on the spot.
-- 'Now what Senya does—that is theft.' Ainura points to one vivid element for Lyova: "vorovstvo" means "stealing, theft", and it carries the main weight of what Ainura is saying.
-- 'Understand, these pastries will spoil by morning.' Ainura states the remark on cue: the "-sya" ending on "isportyatsya" ("to spoil, go bad") turns the action inward or makes it happen between people naturally.
-- 'They will simply throw them in the trash.' Ainura holds firm dryly across the room, to clear the air between them once and for all.
-- 'My heart aches every single time.' Ainura underscores one practical word for Gulya: "kazhdyy" means "every", and it carries the main weight of what Ainura is saying.
-- 'Taste for yourself how delicious it is.' Ainura reacts lightly hearing Lyova, letting the remark speak for itself.
-- 'We will take a couple of pieces for the anniversary.' Ainura follows up earnestly watching Gulya, letting the remark speak for itself.
-- 'It seems to me someone is over there.' Gulya favors this clear touch at once: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'It seemed to me too that the chef was watching.' Ainura chimes in warmly without holding back, before Gulya can change the subject.
-- 'She is over there all alone right now.' Lyova answers right away watching Gulya, testing Gulya's reaction in the middle of the exchange.
+- 'Ainura, we really should not do this.' Gulya responds directly beside Ainura and brings in "sovsem" ("at all") to make the meaning unmistakable.
+- 'After all, this is real theft.' Stressing how real things are right here, spoken Russian drops "is" and "are" in the present, letting Gulya place the two halves side by side.
+- 'What are you talking about?' Ainura prompts skeptically while looking straight at Gulya here.
+- 'Now what Senya does—that is theft.' Pointing to the stealing around Gulya, Ainura puts the emphasis on "vorovstvo" ("stealing, theft") in the middle of the talk.
+- 'Understand, these pastries will spoil by morning.' Bringing up the pastries around Gulya, the "-sya" ending on "isportyatsya" ("to spoil, go bad") marks an action that unfolds mutually or turns back on the speaker.
+- 'They will simply throw them in the trash.' Mentioning the trash bin watching Gulya, Ainura puts the real issue right on the table for Gulya.
+- 'My heart aches every single time.' Emphasizing her heart before Gulya, Ainura centers the remark on "serdtse" ("heart") without any extra fuss.
+- 'Taste for yourself how delicious it is.' Ainura steps in openly in the exchange and uses "poprobuy" ("to try, to taste", from "poprobovat") to make the point stick.
+- 'We will take a couple of pieces for the anniversary.' Discussing the pieces facing Gulya, Ainura makes it clear to Gulya that she means every word.
+- 'It seems to me someone is over there.' Gulya counters openly in front of Ainura and uses "kazhetsya" ("it seems, I think", from "kazatsya") to make the point stick.
+- 'It seemed to me too that the chef was watching.' Ainura counters smoothly before Gulya and uses "nablyudayet" ("to observe", from "nablyudat") to make the point stick.
+- 'She is over there all alone right now.' Lyova responds right away in this moment, testing Ainura's reaction in the middle of the exchange.

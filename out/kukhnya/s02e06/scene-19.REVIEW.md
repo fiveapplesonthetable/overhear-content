@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what is going on in here?' Louis underscores one telling expression for Barinov: "proiskhodit" means "is going on", and it carries the main weight of what Louis is saying.
-- 'Where is the dessert?' Max lays out this point plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, what is going on in here?' Louis fires back promptly to Max and lands on "proiskhodit" ("is going on") as the key everyday word here.
+- 'Where is the dessert?' Discussing the dessert around Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
 - 'Louis, where is the dessert?' Barinov inquires firmly while looking straight at Louis here.
-- 'We just need to wait a little bit longer.' Max underscores one memorable piece at once: "podozhdat" means "to wait", and it carries the main weight of what Max is saying.
-- 'Where is the ring?' Louis frames that point facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Vitya, what on earth is that?' Max presses quietly to see how Louis will answer on the spot.
-- 'It is much safer this way.' Louis colors one loaded element right here: "bezopasneye" means "safe, secure" (from "bezopasnyy"), giving the line its exact edge.
-- 'Look how big that guy is.' Max gives that answer briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And besides, he has a secret hiding spot.' Louis holds firm warmly with a nod, testing Barinov's reaction in the middle of the exchange.
-- 'Let me hide your ring inside a pastry for him.' Max anchors one colorful element with Louis: "pirozhnoye" means "pastries, cakes", and it carries the main weight of what Max is saying.
-- 'It will take about ten minutes.' Louis shapes this statement in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Right now, coming right up.' Max chimes in decisively as things stand, bringing things back to earth after the buildup.
-- 'We will manage without pastries from now on.' Louis highlights one key detail for Barinov: "pirozhnykh" means "pastry" (from "pirozhnoye"), giving the line its exact edge.
+- 'We just need to wait a little bit longer.' Max jumps in openly to Barinov and reaches for the Russian word "podozhdat" ("to wait") right at the heart of the line.
+- 'Where is the ring?' Focusing on the ring right here, Louis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Vitya, what on earth is that?' Max presses quietly while looking straight at Louis here.
+- 'It is much safer this way.' Stressing how safe things are to Max, Louis puts the weight on "bezopasneye" ("safe, secure", from "bezopasnyy") as the exchange unfolds.
+- 'Look how big that guy is.' Emphasizing how healthy things are with Louis, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And besides, he has a secret hiding spot.' Louis answers warmly during the talk, steering the talk right where he wants it.
+- 'Let me hide your ring inside a pastry for him.' Emphasizing the pastries around Louis, Max lands on "pirozhnoye" ("pastries, cakes") as the key everyday word here.
+- 'It will take about ten minutes.' Turning to the minutes on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Right now, coming right up.' Max responds decisively toward Louis, so Louis knows he is not just making small talk.
+- 'We will manage without pastries from now on.' Touching on the pastry during the talk, Louis lands on "pirozhnykh" ("pastry", built on "pirozhnoye") to keep the statement grounded.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, you should know too.' Eva sharpens one memorable detail in reply: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
-- 'I am expecting a child right now.' Eva drops this line at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I am pregnant by you.' Eva fires back wryly to be clear, before Barinov can change the subject.
-- 'What on earth are you saying, Eva?' Barinov chooses one pointed piece in earnest: "govorish" means "you say" (from "govorit"), giving the line its exact edge.
-- 'It is still very early.' Eva offers that reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'But soon everything will be noticeable.' Eva chimes in briskly beside Lyova, saying out loud what both of them already know.
-- 'Vitya, I really am pregnant.' Eva highlights one concrete choice at once: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
-- 'Viktor Petrovich, is everything all right with you?' Lyova states that remark facing Eva: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Yes, Lyova, everything is fine.' Barinov opens up wryly to be clear, shifting the whole mood of the room in a single beat.
-- 'Well, I have a big problem.' Lyova colors one key word in earnest: "bolshaya" means "large" (from "bolshoy"), giving the line its exact edge.
-- 'Lyova, I am pregnant too.' Eva drops the thought at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We need to check everything urgently.' Barinov reacts lightly to settle things, making his position completely clear.
+- 'Viktor Petrovich, you should know too.' Eva counters briskly in front of Barinov and puts the weight on "dolzhny" ("must, should", from "dolzhen") as the exchange unfolds.
+- 'I am expecting a child right now.' Talking about a child on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I am pregnant by you.' Eva proceeds wryly beside Barinov, so Barinov knows she is not just making small talk.
+- 'What on earth are you saying, Eva?' Barinov answers boldly beside Eva and lands on "govorish" ("you say", built on "govorit") to keep the statement grounded.
+- 'It is still very early.' Showing how small things are to Barinov, Eva links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'But soon everything will be noticeable.' Eva pushes back briskly facing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Vitya, I really am pregnant.' Explaining how pregnant things are right here, Eva brings in "beremenna" ("pregnant", from "beremennyy") as the key Russian word here.
+- 'Viktor Petrovich, is everything all right with you?' Stepping in smoothly in front of Barinov, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Yes, Lyova, everything is fine.' Barinov continues wryly beside Lyova, keeping the focus on what actually matters here.
+- 'Well, I have a big problem.' Focusing on a big problem before Barinov, Lyova centers the thought on "bolshaya" ("large", from "bolshoy") without wasting a word.
+- 'Lyova, I am pregnant too.' Insisting on how pregnant she is on the spot, Eva links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We need to check everything urgently.' Barinov counters at once toward Eva, leaving no doubt about where he stands.

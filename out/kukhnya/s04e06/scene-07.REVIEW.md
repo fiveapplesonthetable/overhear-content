@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, well how did your reconciliation dinner go?' Max grounds one pointed expression for Louis: "primiritelnyy" means "dinner", and it carries the main weight of what Max is saying.
-- 'Nowhere, my wife got a bad toothache in the evening.' Senya counters steadily during the talk, saying out loud what both of them already know.
-- 'She ate nothing at all during the whole evening.' Senya counters wryly in their talk, refusing to let the moment slip past.
-- 'Folks, I wanted to ask you to cover for me.' Louis stresses one memorable word at once: "druzya" means "friends" (from "drug"), giving the line its exact edge.
-- 'My close friend is passing through Moscow today.' Louis frames that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Louis, spare us the details, we are busy right now.' Senya speaks up frankly around Max, without trying to dress up how he really feels.
-- 'Look for a replacement among the free cooks.' Senya colors one practical term in earnest: "svobodnykh" means "free" (from "svobodnyy"), giving the line its exact edge.
-- 'Denis, please do not worry about my work.' Louis phrases this point on cue: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Tonight German will not be in the kitchen.' Louis reacts promptly without holding back, saying out loud what both of them already know.
-- 'And all my desserts are already completely ready.' Louis anchors this telling term on cue: "deserty" means "desserts" (from "desert"), giving the line its exact edge.
-- 'They are sitting neatly in my big refrigerator.' Louis fires back frankly beside Max, leaving no doubt about where he stands.
-- 'I labeled everything, you just need to hand them out!' Louis fires back firmly without any doubt, to clear the air between them once and for all.
+- 'Senya, well how did your reconciliation dinner go?' Addressing the dinner in the exchange, Max brings in "primiritelnyy" ("dinner") to make the meaning unmistakable.
+- 'Nowhere, my wife got a bad toothache in the evening.' Focusing on his wife in front of Max, Senya chooses "zheny" ("wife", from the root "zhena") so Max hears the exact meaning.
+- 'She ate nothing at all during the whole evening.' Senya speaks up wryly without a pause, testing Louis's reaction in the middle of the exchange.
+- 'Folks, I wanted to ask you to cover for me.' Bringing up the friends at once, Louis leans on "druzya" ("friends", a form of "drug") to give the remark its edge.
+- 'My close friend is passing through Moscow today.' Returning to the through in front of Senya, Louis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Louis, spare us the details, we are busy right now.' Senya speaks up frankly watching Louis, to clear the air between them once and for all.
+- 'Look for a replacement among the free cooks.' Pointing to the substitute right here, Senya leans on "svobodnykh" ("free", a form of "svobodnyy") to give the remark its edge.
+- 'Denis, please do not worry about my work.' Emphasizing the job with Senya, Louis centers the thought on "perezhivay" ("worry", from "perezhivat") without wasting a word.
+- 'Tonight German will not be in the kitchen.' Louis pushes back promptly without a pause, to clear the air between them once and for all.
+- 'And all my desserts are already completely ready.' Pointing to his desserts beside Senya, Louis centers the thought on "deserty" ("desserts", from "desert") without wasting a word.
+- 'They are sitting neatly in my big refrigerator.' Emphasizing the fridge in the exchange, Louis uses "kholodilnike" ("fridge", from "kholodilnik") to make the point stick.
+- 'I labeled everything, you just need to hand them out!' Louis proceeds firmly with a nod, before Senya can change the subject.

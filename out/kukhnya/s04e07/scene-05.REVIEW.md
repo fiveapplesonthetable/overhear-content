@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, may I have you for a second?' Nagiyev offers this statement briskly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Elena Pavlovna, there is a strange person next to you.' Barinov counters at once during the talk, to clear the air between them once and for all.
-- 'Vitya, stop sulking, you are a grown man!' Nagiyev leans on one pointed choice with Barinov: "obizhatsya" means "feel offended", and it carries the main weight of what Nagiyev is saying.
-- 'After all, I came to you on business.' Nagiyev uses one pointed choice in reply: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
-- 'Today important guests will come to my restaurant.' Nagiyev counters candidly with a sigh, letting the remark speak for itself.
-- 'They want to see you as the head chef of the restaurant.' Nagiyev spotlights one sharp term in reply: "shef-povarom" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'I will give you ten percent of the order!' Nagiyev colors one pointed touch with Barinov: "protsentov" means "percent" (from "protsent"), giving the line its exact edge.
-- 'Good, I agree, but I do not need the money.' Barinov weighs in promptly during the talk, before Nagiyev can change the subject.
-- 'As payment I will give you three kicks!' Barinov points to one vivid word at once: "kachestve" means "quality" (from "kachestvo"), giving the line its exact edge.
-- 'What, you want to give me three kicks?' Nagiyev hands over the comeback before Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Vitya, why are you playing the fool again?' Nagiyev challenges wryly as Barinov tries to explain the situation.
-- 'Fine, I agree, just help me out tonight!' Nagiyev stresses this telling choice for Barinov: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
+- 'Viktor Petrovich, may I have you for a second?' Touching on a second before Barinov, Nagiyev leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Elena Pavlovna, there is a strange person next to you.' Barinov weighs in at once toward Nagiyev, bringing things back to earth after the buildup.
+- 'Vitya, stop sulking, you are a grown man!' Nagiyev pushes back plainly in this beat and uses "vzroslyy" ("grown-up, adult") to carry the main weight of the thought.
+- 'After all, I came to you on business.' Nagiyev weighs in evenly beside Barinov, without trying to dress up how he really feels.
+- 'Today important guests will come to my restaurant.' Nagiyev speaks up candidly with a sigh, making his position completely clear.
+- 'They want to see you as the head chef of the restaurant.' Addressing the head in front of Barinov, Nagiyev uses "shef-povarom" ("head chef", from "shef-povar") to make the point stick.
+- 'I will give you ten percent of the order!' Nagiyev responds evenly with a shrug, steering the talk right where he wants it.
+- 'Good, I agree, but I do not need the money.' Barinov fires back promptly in their talk, without trying to dress up how he really feels.
+- 'As payment I will give you three kicks!' Pointing to the quality around Nagiyev, Barinov uses "kachestve" ("quality", from "kachestvo") to make the point stick.
+- 'What, you want to give me three kicks?' Replying frankly on the spot, Nagiyev puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Vitya, why are you playing the fool again?' Nagiyev challenges wryly where this conversation is heading next.
+- 'Fine, I agree, just help me out tonight!' Nagiyev steps in openly beside Barinov and brings in "soglasen" ("agreed", from "soglasnyy") as the key Russian word here.

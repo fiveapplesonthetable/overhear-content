@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'God, what have you done right now?' Max drops this line toward Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'I never thought that everything would end right like this.' Max replies lightly before Nastya, refusing to let the moment slip past.
-- 'Our life turned out to be too short.' Max centers one vivid touch for Kostya: "korotka" means "short" (from "korotkiy"), giving the line its exact edge.
-- 'I did not have time to understand simple truths.' Max speaks up lightly toward Nastya, bringing things back to earth after the buildup.
-- 'If you love a person, tell them about it.' Max opens up calmly with a sigh, making his position completely clear.
-- 'Always thank those who teach you something.' Max emphasizes one clear word for Nastya: "blagodari" means "thank" (from "blagodarit"), giving the line its exact edge.
-- 'Love your friends and value friendship.' Max counters calmly facing Kostya, testing Kostya's reaction in the middle of the exchange.
-- 'What a pity that I understood all this too late.' Max holds firm openly with a sigh, testing Nastya's reaction in the middle of the exchange.
-- 'But after all, better late than never.' Max picks this vivid word in earnest: "luchshe" means "better", and it carries the main weight of what Max is saying.
-- 'There must be some good option.' Max cuts in promptly as things stand, watching Nastya's face to see how the news lands.
-- 'Tell us, Kuzma or Dmitry after all?' Nastya prompts evenly in front of Kostya without any preamble.
-- 'Alright, let us ask Max right now.' Kostya points to one memorable term on cue: "khorosho" means "good, fine", and it carries the main weight of what Kostya is saying.
+- 'God, what have you done right now?' Holding firm earnestly in this beat, Max puts the question word "chto" right at the start so Nastya hears the focus immediately.
+- 'I never thought that everything would end right like this.' Max speaks up lightly facing Nastya, letting the remark speak for itself.
+- 'Our life turned out to be too short.' Highlighting his life on the spot, Max brings in "korotka" ("short", from "korotkiy") as the key Russian word here.
+- 'I did not have time to understand simple truths.' Turning to the truths during the talk, Max uses "prostyye" ("simple, ordinary", from "prostoy") to make the point stick.
+- 'If you love a person, tell them about it.' Max continues calmly with a sigh, without trying to dress up how he really feels.
+- 'Always thank those who teach you something.' Max weighs in decisively beside Nastya and chooses "blagodari" ("thank", from the root "blagodarit") so Nastya hears the exact meaning.
+- 'Love your friends and value friendship.' Discussing the friendship to Nastya, Max leans on "druzhbu" ("friendship", a form of "druzhba") to give the remark its edge.
+- 'What a pity that I understood all this too late.' Max follows up openly with a nod, shifting the mood of the conversation in a single beat.
+- 'But after all, better late than never.' Max reacts frankly right here and centers the remark on "luchshe" ("better") without any extra fuss.
+- 'There must be some good option.' Pointing to the option around Nastya, Max uses "khoroshiy" ("good") to carry the main weight of the thought.
+- 'Tell us, Kuzma or Dmitry after all?' Nastya prompts evenly how Kostya expects that to work in practice.
+- 'Alright, let us ask Max right now.' Kostya continues plainly in front of Max and lands on "khorosho" ("good, fine") as the key everyday word here.

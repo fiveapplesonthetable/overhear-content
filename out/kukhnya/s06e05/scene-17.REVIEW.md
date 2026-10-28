@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who on earth are you supposed to be?' Kostya shapes that answer before Denis: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'What do you want from my wife?' Kostya wonders promptly where this conversation is heading next.
-- 'Denis, what are you doing here?' Katya picks one direct element toward Denis: "delayete" means "are doing" (from "delat"), giving the line its exact edge.
-- 'The Frenchman is staying in this room right now.' Denis proceeds decisively with a nod, keeping the focus on what actually matters here.
-- 'He is sitting in there with another girl.' Denis speaks calmly with Katya, letting the remark speak for itself.
-- 'We decided that you should know this.' Denis picks one concrete piece toward Kostya: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
-- 'This Frenchman is simply deceiving you.' Denis puts the reaction around Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Who on earth are you supposed to be?' Reacting briskly in this beat, Kostya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'What do you want from my wife?' Kostya wonders promptly about what Katya just brought up.
+- 'Denis, what are you doing here?' Katya follows up vividly around Denis and lands on "delayete" ("are doing", built on "delat") to keep the statement grounded.
+- 'The Frenchman is staying in this room right now.' Bringing up the hotel room to Katya, Denis brings in "frantsuz" ("Frenchman") to make the meaning unmistakable.
+- 'He is sitting in there with another girl.' Denis steps in calmly hearing Katya, grounding the moment in plain reality.
+- 'We decided that you should know this.' Denis cuts in pointedly before Katya and leans on "dolzhna" ("should, must", a form of "dolzhen") to give the remark its edge.
+- 'This Frenchman is simply deceiving you.' Holding firm boldly beside Katya, Denis uses the little word "prosto" ("simply, just") to make the point sound effortless.
 - 'What is going on here right now?' Katya presses eagerly what Kostya is actually getting at here.
-- 'Katya, meet her, this is my partner.' Kostya grounds one concrete detail for Denis: "poznakomsya" means "to get acquainted" (from "poznakomitsya"), giving the line its exact edge.
-- 'We studied together in Paris.' Kostya frames this line with ease: the "-sya" ending on "uchilis" ("studied") turns the action inward or makes it happen between people naturally.
-- 'Nice to meet you too right now.' Katya pushes back firmly with a smile, before Denis can change the subject.
-- 'Wait a couple of minutes, and we will talk.' Kostya centers one classic detail toward Katya: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
+- 'Katya, meet her, this is my partner.' Talking about his partner during the talk, Kostya brings in "poznakomsya" ("to get acquainted", from "poznakomitsya") as the key Russian word here.
+- 'We studied together in Paris.' Cutting in dryly at once, the "-sya" ending on "uchilis" ("studied") marks an action that unfolds mutually or turns back on the speaker.
+- 'Nice to meet you too right now.' Katya cuts in firmly without any doubt, so Kostya knows she is not just making small talk.
+- 'Wait a couple of minutes, and we will talk.' Turning to a couple beside Katya, Kostya uses "pogovorim" ("we'll have a talk", from "pogovorit") to make the point stick.

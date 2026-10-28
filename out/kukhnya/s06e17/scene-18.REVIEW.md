@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, our Lyova jammed up.' Senya responds briskly with a smile, refusing to let the moment slip past.
-- 'Wait, is Lyova a robot?' Barinov uses one loaded term in reply: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'A human would not have been able to work.' Senya speaks promptly in this moment, refusing to let the moment slip past.
-- 'Tell me, where is Katya?' Barinov quizzes earnestly while looking straight at Senya here.
-- 'In the hall, it is her wedding.' Senya underscores one vivid expression at once: "svadba" means "wedding", and it carries the main weight of what Senya is saying.
-- 'What wedding today?' Barinov drops this point right away: putting the question word "kakaya" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'Dad, I love him very much.' Katya holds firm bluntly in this moment, before Barinov can change the subject.
-- 'I always loved him deeply.' Katya anchors one memorable element in earnest: "lyubila" means "loved" (from "lyubit"), giving the line its exact edge.
-- 'Vitya, be happy for your daughter.' Katya aims the remark with ease: the "-sya" ending on "poraduysya" ("to rejoice") turns the action inward or makes it happen between people naturally.
-- 'So all of this is completely untrue!' Barinov counters lightly as things stand, bringing things back to earth after the buildup.
-- 'So I am just imagining all of this.' Barinov centers this sharp piece in earnest: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'Do you not remember anything?' Katya hands over this update plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Chef, our Lyova jammed up.' Senya continues briskly watching Barinov, grounding the moment in plain reality.
+- 'Wait, is Lyova a robot?' Bringing up a robot in front of Senya, Barinov leans on "podozhdi" ("wait", a form of "podozhdat") to give the remark its edge.
+- 'A human would not have been able to work.' Senya answers evenly before Barinov and puts the emphasis on "rabotat" ("to work") in the middle of the talk.
+- 'Tell me, where is Katya?' Barinov quizzes earnestly how Katya expects that to work in practice.
+- 'In the hall, it is her wedding.' Emphasizing the wedding with Barinov, Senya leans on "svadba" ("wedding") to give the whole sentence its punch.
+- 'What wedding today?' Talking about the wedding during the talk, Barinov puts the question word "kakaya" right at the start so Katya hears the focus immediately.
+- 'Dad, I love him very much.' Katya answers bluntly with Barinov, before Barinov can change the subject.
+- 'I always loved him deeply.' Katya reacts directly at once and leans on "lyubila" ("loved", a form of "lyubit") to give the remark its edge.
+- 'Vitya, be happy for your daughter.' Returning to the daughter in the exchange, the "-sya" ending on "poraduysya" ("to rejoice") marks an action that unfolds mutually or turns back on the speaker.
+- 'So all of this is completely untrue!' Barinov proceeds lightly around Katya, bringing things back to earth after the buildup.
+- 'So I am just imagining all of this.' Barinov opens up evenly in this beat and chooses "kazhetsya" ("it seems, I think", from the root "kazatsya") so Katya hears the exact meaning.
+- 'Do you not remember anything?' Pressing on smoothly in this beat, Katya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, fellas, have a conscience!' The guest responds bluntly with a nod, shifting the whole mood of the room in a single beat.
-- 'I did not get out of my taxi all day, driving people.' The guest emphasizes one classic word in earnest: "sutki" means "day and night", and it carries the main weight of what the guest is saying.
-- 'Turn off the drill, I just lay down to sleep!' The guest replies candidly with a smile, steering the talk right where he wants it.
-- 'Listen, friend, we have another hour of work here.' Barinov opens up honestly facing Max, keeping the focus on what actually matters here.
-- 'Bear with us, tomorrow he picks up his wife from the hospital.' Barinov picks this direct choice with the guest: "roddoma" means "maternity hospital" (from "roddom"), giving the line its exact edge.
-- 'Please, put yourself in our shoes.' Barinov delivers that remark plainly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Is a baby going to be screaming in here too?' The guest wonders point-blank whether Barinov really thought this through.
-- 'Yes, my child is going to live in my home.' Max focuses on one loaded element toward the guest: "rebyonok" means "a child", and it carries the main weight of what Max is saying.
-- 'Do you have some kind of problem with that?' Max frames the comeback with candor: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'You will have problems if I hear the drill again!' The guest replies calmly without a pause, bringing things back to earth after the buildup.
-- 'Actually today is Saturday, you have no right.' The guest stresses one classic piece toward Barinov: "voobshche-to" means "actually", and it carries the main weight of what the guest is saying.
-- 'Pay no attention to him, let's continue.' Barinov responds bluntly with a sigh, leaving no doubt about where he stands.
+- 'Hello, fellas, have a conscience!' The guest calmly shares this formal greeting in the exchange using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'I did not get out of my taxi all day, driving people.' Underscoring the day night in the exchange, the guest lands on "sutki" ("day and night") as the key everyday word here.
+- 'Turn off the drill, I just lay down to sleep!' Pointing to the drill around Barinov, the guest uses "vyrubite" ("shut off", from "vyrubit") to make the point stick.
+- 'Listen, friend, we have another hour of work here.' Barinov reacts honestly with a sigh, leaving no doubt about where he stands.
+- 'Bear with us, tomorrow he picks up his wife from the hospital.' Pointing to the hospital before the guest, Barinov lands on "roddoma" ("maternity hospital", built on "roddom") to keep the statement grounded.
+- 'Please, put yourself in our shoes.' Barinov lightly offers this courtesy word toward the guest using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Is a baby going to be screaming in here too?' The guest wonders point-blank about what Max just brought up.
+- 'Yes, my child is going to live in my home.' Turning to his child at once, Max uses "rebyonok" ("a child") to carry the main weight of the thought.
+- 'Do you have some kind of problem with that?' Focusing on the problems before the guest, Max uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'You will have problems if I hear the drill again!' The guest proceeds calmly toward Max, letting the remark speak for itself.
+- 'Actually today is Saturday, you have no right.' The guest reacts boldly in this beat and centers the remark on "subbota" ("Saturday") without any extra fuss.
+- 'Pay no attention to him, let's continue.' Talking about the attention with the guest, Barinov reaches for the Russian word "vnimaniya" ("attention", built from "vnimaniye") right at the center of the line.

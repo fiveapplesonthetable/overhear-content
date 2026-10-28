@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Brother, you are simply the best.' Barinov favors one concrete choice right here: "luchshiy" means "best", and it carries the main weight of what Barinov is saying.
-- 'You are celebrating too early!' Nagiyev puts this answer right away: the "-sya" ending on "raduyetes" ("to rejoice") turns the action inward or makes it happen between people naturally.
-- 'Now the little cook will get what is coming to him.' Nagiyev replies lightly with a nod, watching Barinov's face to see how the news lands.
-- 'The beef is a bit tough today.' Barinov emphasizes one loaded piece at once: "zhestkovata" means "today", and it carries the main weight of what Barinov is saying.
-- 'I love olives with the pit.' Barinov lays out the thought for Nagiyev: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Brother, you are simply the best.' Highlighting how best Nagiyev is before Nagiyev, Barinov brings in "luchshiy" ("best") to make the meaning unmistakable.
+- 'You are celebrating too early!' Turning firmly in this beat, the "-sya" ending on "raduyetes" ("to rejoice") marks an action that unfolds mutually or turns back on the speaker.
+- 'Now the little cook will get what is coming to him.' Nagiyev counters lightly around Barinov, to clear the air between them once and for all.
+- 'The beef is a bit tough today.' Highlighting the today in front of Nagiyev, Barinov reaches for the Russian word "zhestkovata" ("today") right at the heart of the line.
+- 'I love olives with the pit.' Addressing the olives in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
 - 'And is that all you are capable of?' Nagiyev quizzes eagerly if there is more going on behind the scenes.
-- 'Viktoriya Sergeyevna, I told you so.' Senya grounds one vivid expression for Barinov: "govoril" means "said, were saying" (from "govorit"), giving the line its exact edge.
-- 'This chandelier should have been replaced long ago.' Senya stands firm bluntly without any doubt, without trying to dress up how he really feels.
-- 'I am too young for all this.' Barinov stands firm steadily before Nagiyev, so Nagiyev knows he is not just making small talk.
-- 'Too young for such nonsense.' Barinov emphasizes this telling term for Senya: "yerundy" means "nonsense, trifle" (from "yerunda"), giving the line its exact edge.
-- 'We defeated all the enemies!' Senya directs that line without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Excellent work, Sergeant Senya!' Barinov proceeds candidly without any doubt, steering the talk right where he wants it.
+- 'Viktoriya Sergeyevna, I told you so.' Senya fires back calmly on the spot and centers the thought on "govoril" ("said, were saying", from "govorit") without wasting a word.
+- 'This chandelier should have been replaced long ago.' Addressing the replaced on the spot, Senya leans on "lyustru" ("replaced", a form of "lyustra") to give the remark its edge.
+- 'I am too young for all this.' Barinov replies steadily during the talk, leaving no doubt about where he stands.
+- 'Too young for such nonsense.' Turning to the nonsense in this beat, Barinov reaches for the Russian word "yerundy" ("nonsense, trifle", built from "yerunda") right at the center of the line.
+- 'We defeated all the enemies!' Checking on the enemy beside Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Excellent work, Sergeant Senya!' Barinov fires back candidly without a pause, to clear the air between them once and for all.

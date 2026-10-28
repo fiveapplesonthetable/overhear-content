@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, let us go to a cafe together right now.' Denis continues evenly around Barinov, to clear the air between them once and for all.
-- 'Right now, after all today is a terrible day.' Senya proceeds boldly with a sigh, making his position completely clear.
-- 'We will drink some tasty coffee and relax a little.' Denis uses one telling choice toward Barinov: "rasslabimsya" means "to relax" (from "rasslabitsya"), giving the line its exact edge.
-- 'Alright, wait, I will just change clothes quickly.' Senya shares the remark without fuss: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Why, you look amazing as it is.' Denis opens up sharply with a shrug, to clear the air between them once and for all.
-- 'Her reputation stops her from writing about my restaurant!' Barinov frames one sharp term with Senya: "reputatsiya" means "reputation", and it carries the main weight of what Barinov is saying.
-- 'Yes, chef, that is a very unpleasant story.' Senya voices this statement briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Put the bottle away, you know I do not drink.' Barinov steps in candidly as they talk, making his position completely clear.
-- 'Chef, I will teach you how to place bets on the internet.' Senya features one key expression at once: "internete" means "internet" (from "internet"), giving the line its exact edge.
-- 'Go on, show me quickly how this works.' Barinov aims that point plainly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Look, your Elena Pavlovna's page is open here.' Senya jumps in right away in this moment, before Barinov can change the subject.
-- 'Apparently, she just accidentally forgot to log out.' Barinov grounds this key piece with Senya: "sluchayno" means "by any chance", and it carries the main weight of what Barinov is saying.
-- 'Close it immediately, although I have an idea!' Senya sends the reaction right away: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Listen, let us go to a cafe together right now.' Denis opens up boldly with Senya and lands on "slushay" ("listen", built on "slushat") to keep the statement grounded.
+- 'Right now, after all today is a terrible day.' Senya speaks lightly toward Denis, before Denis can change the subject.
+- 'We will drink some tasty coffee and relax a little.' Mentioning the coffee at once, Denis chooses "rasslabimsya" ("to relax", from the root "rasslabitsya") so Senya hears the exact meaning.
+- 'Alright, wait, I will just change clothes quickly.' Jumping in quietly before Denis, the "-sya" ending on "pereodenus" ("change clothes") marks an action that unfolds mutually or turns back on the speaker.
+- 'Why, you look amazing as it is.' Denis reacts sharply around Senya, so Senya knows he is not just making small talk.
+- 'Her reputation stops her from writing about my restaurant!' Mentioning the reputation at once, Barinov chooses "reputatsiya" ("reputation") so Denis gets the point right away.
+- 'Yes, chef, that is a very unpleasant story.' Describing how unpleasant things are before Barinov, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Put the bottle away, you know I do not drink.' Addressing the bottle without a pause, Barinov cuts straight through the tension with Senya.
+- 'Chef, I will teach you how to place bets on the internet.' Underscoring the internet right here, Senya reaches for the Russian word "internete" ("internet", built from "internet") right at the center of the line.
+- 'Go on, show me quickly how this works.' Leaning in dryly at once, Barinov starts with "davay" ("come on, let's") to invite Senya right into the action.
+- 'Look, your Elena Pavlovna's page is open here.' Senya fires back right away hearing Barinov, before Barinov can change the subject.
+- 'Apparently, she just accidentally forgot to log out.' Barinov continues earnestly with Senya and puts the emphasis on "sluchayno" ("by any chance") in the middle of the talk.
+- 'Close it immediately, although I have an idea!' Senya reacts wryly with a smile, grounding the moment in plain reality.

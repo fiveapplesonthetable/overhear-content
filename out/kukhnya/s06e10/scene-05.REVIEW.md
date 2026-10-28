@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you imagine, Katya just came up to me.' Denis responds wryly beside Fedya, making his position completely clear.
-- 'She asked outright whether we have a relationship.' Denis replies calmly around Katya, refusing to let the moment slip past.
-- 'And what did you answer her to that?' Fedya features one memorable choice in earnest: "otvetila" means "answered" (from "otvetit"), giving the line its exact edge.
-- 'She told the truth, that you and I are just friends.' Katya offers that answer with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Senya, your birthday is in three weeks!' Fedya jumps in promptly toward Denis, making his position completely clear.
-- 'And the discounts on the fishfinder end tomorrow already.' Katya chooses one sharp term in reply: "zakanchivayutsya" means "to end, to finish" (from "zakanchivatsya"), giving the line its exact edge.
-- 'Later you will thank me on our fishing trip.' Katya makes the reply around Denis: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Gulya said tonight I can stay overnight at their place again.' Denis chimes in lightly in their talk, grounding the moment in plain reality.
-- 'Guys, are you coming to my birthday party?' Katya points to this key choice on cue: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
-- 'Honestly speaking, we do not know for sure yet.' Fedya opens up steadily to be clear, bringing things back to earth after the buildup.
-- 'Decide faster, I need to count everything up.' Katya responds dryly without holding back, grounding the moment in plain reality.
-- 'Whether I have enough money or need to ask the waiters too.' Katya sharpens one key term with Fedya: "ofitsiantov" means "waiter, server" (from "ofitsiant"), giving the line its exact edge.
+- 'Can you imagine, Katya just came up to me.' Denis counters quietly during the talk and brings in "predstavlyayesh" ("can you imagine", from "predstavlyat") as the key Russian word here.
+- 'She asked outright whether we have a relationship.' Denis jumps in calmly on the spot, shifting the mood of the conversation in a single beat.
+- 'And what did you answer her to that?' Fedya continues openly to Katya and puts the weight on "otvetila" ("answered", from "otvetit") as the exchange unfolds.
+- 'She told the truth, that you and I are just friends.' Mentioning the truth to Fedya, Katya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Senya, your birthday is in three weeks!' Discussing the birth on the spot, Fedya puts the real issue right on the table for Denis.
+- 'And the discounts on the fishfinder end tomorrow already.' Discussing the discount in front of Fedya, Katya brings in "zakanchivayutsya" ("to end, to finish", from "zakanchivatsya") as the key Russian word here.
+- 'Later you will thank me on our fishing trip.' Focusing on the thank during the talk, Katya lands on "spasibo" ("thank you") as the key everyday word here.
+- 'Gulya said tonight I can stay overnight at their place again.' Denis chimes in lightly with a sigh, steering the talk right where he wants it.
+- 'Guys, are you coming to my birthday party?' Emphasizing the birth on the spot, Katya puts the weight on "rozhdeniya" ("of birth", from "rozhdeniye") as the exchange unfolds.
+- 'Honestly speaking, we do not know for sure yet.' Fedya opens up naturally with Katya and puts the emphasis on "yeshchyo" ("more, still") in the middle of the talk.
+- 'Decide faster, I need to count everything up.' Katya chimes in dryly with Fedya, steering the talk right where she wants it.
+- 'Whether I have enough money or need to ask the waiters too.' Turning to the waiter before Fedya, Katya brings in "ofitsiantov" ("waiter, server", from "ofitsiant") as the key Russian word here.

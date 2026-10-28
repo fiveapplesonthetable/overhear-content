@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Viktor Petrovich, why are you frowning?' Eva quizzes earnestly about what Barinov just brought up.
-- 'Do not worry so much over this nonsense!' Eva anchors this sharp choice on cue: "perezhivayte" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'Around you I always get myself into some kind of mess!' Barinov shapes that answer without pause: the "-sya" ending on "vlyapayus" ("kind") turns the action inward or makes it happen between people naturally.
-- 'Careful, do not step on my new shoes!' Nagiyev opens up boldly hearing Eva, saying out loud what both of them already know.
-- 'What are those red slippers? Did you buy them at the market?' Barinov sharpens this direct choice right here: "krasnyye" means "red" (from "krasnyy"), giving the line its exact edge.
-- 'Have you completely lost your mind, Viktor Petrovich?' Nagiyev sends that answer with candor: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Look closely, this is fine handmade work!' Nagiyev steps in wryly facing Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'The best craftsmen from sunny Italy sewed them!' Nagiyev highlights this sharp element in reply: "solnechnoy" means "sewed", and it carries the main weight of what Nagiyev is saying.
-- 'These moccasins cost exactly two hundred thousand rubles!' Nagiyev stands firm quietly facing Barinov, to clear the air between them once and for all.
-- 'You are not even allowed to breathe on them without permission!' Nagiyev replies calmly without a pause, steering the talk right where he wants it.
-- 'Then wash my old car at the same time too!' Barinov favors this vivid touch for Eva: "staruyu" means "an old" (from "staryy"), giving the line its exact edge.
-- 'All right, guys, everyone is dismissed for now, go work!' Nagiyev frames that point without fuss: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Eva is on board.
+- 'Good morning, Viktor Petrovich, why are you frowning?' Eva quizzes earnestly before Barinov can change the subject.
+- 'Do not worry so much over this nonsense!' Focusing on the nonsense in this beat, Eva leans on "perezhivayte" ("worry", a form of "perezhivat") to give the remark its edge.
+- 'Around you I always get myself into some kind of mess!' Checking on the kind in front of Eva, the "-sya" ending on "vlyapayus" ("kind") marks an action that unfolds mutually or turns back on the speaker.
+- 'Careful, do not step on my new shoes!' Pointing to his new toward Barinov, Nagiyev speaks plainly so Barinov gets the message at once.
+- 'What are those red slippers? Did you buy them at the market?' Highlighting the slippers right here, Barinov lands on "krasnyye" ("red", built on "krasnyy") to keep the statement grounded.
+- 'Have you completely lost your mind, Viktor Petrovich?' Dwelling on the mind around Barinov, Nagiyev adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Look closely, this is fine handmade work!' Nagiyev replies wryly with a nod, before Barinov can change the subject.
+- 'The best craftsmen from sunny Italy sewed them!' Bringing up the best craftsmen beside Barinov, Nagiyev uses "solnechnoy" ("sewed") to carry the main weight of the thought.
+- 'These moccasins cost exactly two hundred thousand rubles!' Discussing the moccasins in front of Barinov, Nagiyev centers the remark on "mokasiny" ("moccasins") without any extra fuss.
+- 'You are not even allowed to breathe on them without permission!' Nagiyev speaks up calmly on the spot, without trying to dress up how he really feels.
+- 'Then wash my old car at the same time too!' Addressing the car right here, Barinov puts the weight on "staruyu" ("an old", from "staryy") as the exchange unfolds.
+- 'All right, guys, everyone is dismissed for now, go work!' Highlighting how free things are right here, Nagiyev chooses "svobodny" ("free", from the root "svobodnyy") so Barinov hears the exact meaning.

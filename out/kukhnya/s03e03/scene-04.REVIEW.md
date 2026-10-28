@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who pulled your tongue? I would have handled it myself.' Vika emphasizes one practical piece toward Max: "spravilas" means "handled it" (from "spravitsya"), giving the line its exact edge.
-- 'Yes, I will sort it out. Everything will be fine.' Nagiyev hands over the thought before Vika: the "-sya" ending on "razberus" ("I will sort out") turns the action inward or makes it happen between people naturally.
-- 'Why did you offend the wife of an important man, huh?' Nagiyev wonders bluntly about what Max just brought up.
-- 'Couldn't you pick someone simpler?' Nagiyev colors one key element for Vika: "poproshche" means "simpler" (from "prostoy"), giving the line its exact edge.
-- 'Should have picked someone simpler! That's it, we are done for now.' Nagiyev replies frankly on the spot, watching Max's face to see how the news lands.
-- 'From tax inspectors and fire inspectors!' Nagiyev pushes back briskly without any doubt, grounding the moment in plain reality.
-- 'It wasn't Viktoria Sergeyevna. I was the one who was rude to that woman.' Max underscores one telling detail on cue: "zhenshchine" means "a woman" (from "zhenshchina"), giving the line its exact edge.
-- 'Guys, I don't care who was rude to her.' Nagiyev continues right away across the room, steering the talk right where he wants it.
-- 'Now hold hands and go to her.' Nagiyev pushes back at once watching Max, before Max can change the subject.
-- 'Fall to your knees, beg for mercy.' Nagiyev uses this sharp expression with Vika: "poshchade" means "mercy" (from "poshchada"), giving the line its exact edge.
-- 'Otherwise I will fire both of you!' Nagiyev shapes the thought facing Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I will cry, but I will fire you.' Nagiyev holds firm dryly facing Vika, to clear the air between them once and for all.
+- 'Who pulled your tongue? I would have handled it myself.' Turning to the language during the talk, Vika lands on "spravilas" ("handled it", built on "spravitsya") to keep the statement grounded.
+- 'Yes, I will sort it out. Everything will be fine.' Turning candidly with Vika, the "-sya" ending on "razberus" ("I will sort out") marks an action that unfolds mutually or turns back on the speaker.
+- 'Why did you offend the wife of an important man, huh?' Nagiyev wonders bluntly whether Vika really thought this through.
+- 'Couldn't you pick someone simpler?' Nagiyev steps in promptly before Max and centers the thought on "poproshche" ("simpler", from "prostoy") without wasting a word.
+- 'Should have picked someone simpler! That's it, we are done for now.' Explaining how simpler things are around Max, Nagiyev reaches for the Russian word "poproshche" ("simpler", built from "prostoy") right at the center of the line.
+- 'From tax inspectors and fire inspectors!' Nagiyev follows up briskly with a nod, so Max knows he is not just making small talk.
+- 'It wasn't Viktoria Sergeyevna. I was the one who was rude to that woman.' Focusing on the woman to Nagiyev, Max centers the thought on "zhenshchine" ("a woman", from "zhenshchina") without wasting a word.
+- 'Guys, I don't care who was rude to her.' Highlighting the boys at once, Nagiyev centers the remark on "rebyata" ("the boys, the lads") without any extra fuss.
+- 'Now hold hands and go to her.' Nagiyev chimes in at once in their talk, testing Max's reaction in the middle of the exchange.
+- 'Fall to your knees, beg for mercy.' Touching on the mercy in the exchange, Nagiyev lands on "poshchade" ("mercy", built on "poshchada") to keep the statement grounded.
+- 'Otherwise I will fire both of you!' Answering frankly before Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I will cry, but I will fire you.' Nagiyev responds dryly beside Max, so Max knows he is not just making small talk.

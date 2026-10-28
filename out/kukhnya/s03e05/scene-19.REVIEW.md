@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just be more careful in the kitchen.' Barinov focuses on one classic piece at once: "akkuratney" means "more carefully" (from "akkuratno"), giving the line its exact edge.
-- 'I spent half the night on this.' Barinov stands firm earnestly on the spot, letting the remark speak for itself.
-- 'And mind you, do not touch anything here.' Barinov chimes in quietly on the spot, steering the talk right where he wants it.
-- 'It seems I just broke a tooth.' Senya reaches for this vivid piece at once: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'Listen, make up something new, we are tired of it already.' Fedya steps in pointedly without any doubt, watching Barinov's face to see how the news lands.
-- 'Fedya, I really broke a tooth!' Senya holds firm bluntly without a pause, letting the remark speak for itself.
-- 'And you did not believe me at all.' Senya sharpens one key choice with Barinov: "sovsem" means "at all", and it carries the main weight of what Senya is saying.
-- 'My friend, I got you some good medicine.' Fedya favors one sharp word with Senya: "khorosheye" means "lovely, good" (from "khoroshiy"), giving the line its exact edge.
-- 'What kind of medicine did you bring?' Senya tests plainly while looking straight at Barinov here.
-- 'Nothing is too much for me to give a friend.' Fedya picks one loaded detail at once: "druga" means "the friend" (from "drug"), giving the line its exact edge.
-- 'I would rather pull out all my teeth.' Senya cuts in lightly facing Barinov, watching Barinov's face to see how the news lands.
-- 'So you do not appreciate my care?' Fedya tests quietly in front of Senya without any preamble.
+- 'Just be more careful in the kitchen.' Underscoring the kitchen in the exchange, Barinov chooses "akkuratney" ("more carefully", from the root "akkuratno") so Senya hears the exact meaning.
+- 'I spent half the night on this.' Talking about the night beside Senya, Barinov centers the thought on "polnochi" ("half the night", from "polnoch") without wasting a word.
+- 'And mind you, do not touch anything here.' Barinov answers quietly in this moment, leaving no doubt about where he stands.
+- 'It seems I just broke a tooth.' Mentioning a tooth during the talk, Senya leans on "kazhetsya" ("it seems, I think", a form of "kazatsya") to give the remark its edge.
+- 'Listen, make up something new, we are tired of it already.' Fedya weighs in plainly in this beat and lands on "novoye" ("new", built on "novyy") to keep the statement grounded.
+- 'Fedya, I really broke a tooth!' Senya chimes in bluntly in this moment, grounding the moment in plain reality.
+- 'And you did not believe me at all.' Senya responds earnestly before Fedya and uses "sovsem" ("at all") to carry the main weight of the thought.
+- 'My friend, I got you some good medicine.' Fedya steps in decisively across the room, before Senya can change the subject.
+- 'What kind of medicine did you bring?' Senya tests plainly while looking straight at Fedya here.
+- 'Nothing is too much for me to give a friend.' Focusing on a friend in front of Senya, Fedya reaches for the Russian word "druga" ("the friend", built from "drug") right at the center of the line.
+- 'I would rather pull out all my teeth.' Focusing on the tooth right here, Senya reaches for the Russian word "luchshe" ("better") right at the heart of the line.
+- 'So you do not appreciate my care?' Fedya tests quietly if there is more going on behind the scenes.

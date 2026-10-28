@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will anyone really follow your foolish rules?' Barinov voices this answer on cue: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
-- 'Sorry, Chef, I cannot shake your hand.' Max steps in plainly to settle things, leaving no doubt about where he stands.
-- 'The new rules strictly forbid us to do that.' Max frames one telling piece toward Barinov: "zapreshchayut" means "they forbid" (from "zapreshchat"), giving the line its exact edge.
-- 'They are already following them. Here is your kit.' Vika sharpens one clear word for Max: "soblyudayut" means "they follow" (from "soblyudat"), giving the line its exact edge.
-- 'Lyova, how could you allow such a thing?' Barinov presses plainly how Max expects that to work in practice.
-- 'That is enough, I am calling Dima right now!' Barinov grounds one colorful touch toward Vika: "khvatit" means "enough", and it carries the main weight of what Barinov is saying.
-- 'Excuse me, please, I am a little late.' Max states the reply in earnest: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'And what on earth is that in the corridor?' Max asks sharply to see how Vika will answer on the spot.
-- 'Wait, I do not get it, was that allowed?' Barinov frames one clear element for Max: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Who do you think she came back for?' Max brings this warning with candor: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Will anyone really follow your foolish rules?' Touching on the rules in this beat, Barinov leads with "neuzheli" ("can it really be that...?") to pack disbelief into the first beat.
+- 'Sorry, Chef, I cannot shake your hand.' Max steps in plainly with a shrug, refusing to let the moment slip past.
+- 'The new rules strictly forbid us to do that.' Touching on the new rules in front of Vika, Max reaches for the Russian word "zapreshchayut" ("they forbid", built from "zapreshchat") right at the center of the line.
+- 'They are already following them. Here is your kit.' Vika speaks firmly without holding back, watching Max's face to see how the news lands.
+- 'Lyova, how could you allow such a thing?' Barinov presses plainly if there is more going on behind the scenes.
+- 'That is enough, I am calling Dima right now!' Barinov pushes back openly around Max and uses "khvatit" ("enough") to carry the main weight of the thought.
+- 'Excuse me, please, I am a little late.' Max jumps in sharply with Barinov and chooses "izvinite" ("sorry, excuse me", from the root "izvinit") so Barinov hears the exact meaning.
+- 'And what on earth is that in the corridor?' Max asks sharply to see how Barinov will answer on the spot.
+- 'Wait, I do not get it, was that allowed?' Barinov speaks up dryly in this beat and centers the thought on "ponyal" ("understood", from "ponyat") without wasting a word.
+- 'Who do you think she came back for?' Speaking smoothly at once, the "-sya" ending on "vernulas" ("returned") marks an action that unfolds mutually or turns back on the speaker.
 - 'Do you think she came back here for me?' Max probes promptly before Barinov can change the subject.
-- 'No, to put these gloves on us!' Barinov grounds one concrete detail for Vika: "perchatki" means "gloves" (from "perchatka"), giving the line its exact edge.
+- 'No, to put these gloves on us!' Addressing the gloves during the talk, Barinov brings in "perchatki" ("gloves", from "perchatka") as the key Russian word here.

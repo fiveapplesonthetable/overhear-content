@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, which one of you is Lavrov?' Max voices that thought for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Kostyan, hold on a second.' Barinov holds firm evenly without any doubt, to clear the air between them once and for all.
-- 'Who here is Lavrov? Kostyan?' Max gives this point without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Why do you need him?' Max delivers that point frankly here: putting the question word "zachem" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Excuse me, do I really have to go?' Barinov probes frankly what Kostya is actually getting at here.
-- 'If you prefer, we can do the procedure right here in front of everyone.' Kostya stresses one clear detail for Max: "khotite" means "want" (from "khotet"), giving the line its exact edge.
-- 'Hello, Kostyan, I have to go right now.' Max hands over that remark calmly now: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Everything happens for a reason.' Barinov follows up decisively watching Max, refusing to let the moment slip past.
-- 'Thanks to Vyacheslav Malafeev.' Kostya aims this line before Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Lyova, do you understand what is going on?' Max brings the reply before Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'He ate everything that I prepared.' Barinov pushes back openly with Kostya, watching Kostya's face to see how the news lands.
-- 'I want to confess.' Kostya colors this direct piece with Max: "priznatsya" means "to admit", and it carries the main weight of what Kostya is saying.
-- 'It was normal food, but I had a reason for doing it.' Max shapes this warning in earnest: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'All right, which one of you is Lavrov?' Reacting earnestly around Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Kostyan, hold on a second.' Barinov continues evenly in their talk, leaving no doubt about where he stands.
+- 'Who here is Lavrov? Kostyan?' Holding firm smoothly at once, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why do you need him?' Weighing in dryly beside Barinov, Max puts the question word "zachem" right at the start so Barinov hears the focus immediately.
+- 'Excuse me, do I really have to go?' Barinov evenly chooses this polite apology for Kostya using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'If you prefer, we can do the procedure right here in front of everyone.' Kostya steps in smoothly in the exchange and lands on "sdelat" ("to do") as the key everyday word here.
+- 'Hello, Kostyan, I have to go right now.' Holding firm candidly in front of Kostya, Max leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Everything happens for a reason.' Barinov pushes back decisively during the talk, making his position completely clear.
+- 'Thanks to Vyacheslav Malafeev.' Cutting in naturally at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Lyova, do you understand what is going on?' Stepping in boldly with Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'He ate everything that I prepared.' Barinov opens up openly with a sigh, letting the remark speak for itself.
+- 'I want to confess.' Kostya cuts in evenly right here and chooses "priznatsya" ("to admit") so Barinov gets the point right away.
+- 'It was normal food, but I had a reason for doing it.' Max responds calmly without holding back, to clear the air between them once and for all.

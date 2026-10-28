@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I have a huge problem right now.' Max lays out that answer frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Come on, you have a permanent season pass there.' Kostya pushes back boldly toward Vika, shifting the whole mood of the room in a single beat.
-- 'You get into trouble so often, after all.' Kostya underscores one telling term on cue: "popadayesh" means "you end up" (from "popadat"), giving the line its exact edge.
-- 'Stop joking, I am talking to you about Katya.' Max picks one loaded piece toward Vika: "khvatit" means "enough", and it carries the main weight of what Max is saying.
-- 'Eva, what do you need here right now?' Kostya checks promptly about what Max just brought up.
-- 'Kostya, where is my finished cocktail?' Vika colors one loaded detail in earnest: "gotovyy" means "finished, ready", and it carries the main weight of what Vika is saying.
-- 'Here is your cocktail, take it and go away.' Kostya reaches for this direct element for Max: "kokteyl" means "cocktail", and it carries the main weight of what Kostya is saying.
-- 'Well no, Katya and I just kissed.' Max answers promptly to be clear, so Vika knows he is not just making small talk.
-- 'But Vika came back today!' Kostya underscores one sharp word for Max: "segodnya" means "today", and it carries the main weight of what Kostya is saying.
-- 'You see, if Vika finds out about this, I am done for.' Max stands firm promptly with a nod, leaving no doubt about where he stands.
-- 'Tell Katya the truth, that you love Vika.' Kostya responds at once toward Max, steering the talk right where he wants it.
-- 'In words everything is always simple for you!' Max highlights one familiar element in earnest: "slovakh" means "words" (from "slovo"), giving the line its exact edge.
+- 'Kostya, I have a huge problem right now.' Max fires back frankly around Kostya, letting the remark speak for itself.
+- 'Come on, you have a permanent season pass there.' Kostya cuts in boldly with a sigh, leaving no doubt about where he stands.
+- 'You get into trouble so often, after all.' Kostya pushes back readily to Max and puts the weight on "popadayesh" ("you end up", from "popadat") as the exchange unfolds.
+- 'Stop joking, I am talking to you about Katya.' Max reacts plainly without any doubt, so Kostya knows he is not just making small talk.
+- 'Eva, what do you need here right now?' Kostya checks promptly about what Vika just brought up.
+- 'Kostya, where is my finished cocktail?' Stressing how finished things are to Kostya, Vika uses "gotovyy" ("finished, ready") to carry the main weight of the thought.
+- 'Here is your cocktail, take it and go away.' Kostya reacts earnestly around Vika, without trying to dress up how he really feels.
+- 'Well no, Katya and I just kissed.' Max continues promptly hearing Kostya, leaving no doubt about where he stands.
+- 'But Vika came back today!' Kostya replies frankly in front of Vika and centers the remark on "segodnya" ("today") without any extra fuss.
+- 'You see, if Vika finds out about this, I am done for.' Turning to the end right here, Max uses "ponimayesh" ("do you understand", from "ponimat") to make the point stick.
+- 'Tell Katya the truth, that you love Vika.' Kostya continues at once across the room, refusing to let the moment slip past.
+- 'In words everything is always simple for you!' Touching on the words around Kostya, Max uses "slovakh" ("words", from "slovo") to make the point stick.

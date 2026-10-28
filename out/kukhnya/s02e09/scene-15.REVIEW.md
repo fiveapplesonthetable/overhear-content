@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Write it yourself.' Barinov opens up candidly around Fedya, so Fedya knows he is not just making small talk.
-- 'Fedya, have I paid back all my debts to you?' Barinov underscores this key choice toward Fedya: "dolgi" means "debt, duty" (from "dolg"), giving the line its exact edge.
-- 'Then get the hell out of my kitchen.' Barinov counters wryly beside Fedya, shifting the whole mood of the room in a single beat.
-- 'Pick up the oranges and you are fired immediately.' Fedya continues bluntly during the talk, bringing things back to earth after the buildup.
-- 'Oh, and one more thing.' Barinov underscores one key expression right here: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
-- 'Everyone else whom I have not yet told that they are fired.' Fedya speaks boldly with a nod, shifting the whole mood of the room in a single beat.
-- 'And what are we supposed to do now?' Barinov inquires candidly before Fedya can change the subject.
-- 'Calm down, all of you.' Fedya emphasizes one pointed element on cue: "uspokoytes" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
-- 'In two hours it will wear off.' Barinov reacts decisively before Fedya, watching Fedya's face to see how the news lands.
-- 'He will not remember a thing.' Fedya steps in sharply across the room, bringing things back to earth after the buildup.
-- 'What are you hiding behind your back?' Barinov emphasizes one colorful choice on cue: "pryachesh" means "hide" (from "pryatat"), giving the line its exact edge.
-- 'The Chef has had enough already.' Fedya delivers the remark right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'You talked me into it, I will drink it myself.' Barinov stands firm plainly without any doubt, leaving no doubt about where he stands.
+- 'Write it yourself.' Barinov chimes in candidly watching Fedya, without trying to dress up how he really feels.
+- 'Fedya, have I paid back all my debts to you?' Focusing on the debt around Fedya, Barinov centers the thought on "dolgi" ("debt, duty", from "dolg") without wasting a word.
+- 'Then get the hell out of my kitchen.' Focusing on his kitchen in this beat, Barinov puts the weight on "kukhni" ("kitchen", from "kukhnya") as the exchange unfolds.
+- 'Pick up the oranges and you are fired immediately.' Fedya chimes in bluntly with a smile, bringing things back to earth after the buildup.
+- 'Oh, and one more thing.' Turning naturally during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Everyone else whom I have not yet told that they are fired.' Fedya weighs in promptly before Barinov and leans on "uvoleny" ("to fire", a form of "uvolit") to give the remark its edge.
+- 'And what are we supposed to do now?' Barinov inquires candidly why things suddenly took this turn between them.
+- 'Calm down, all of you.' Fedya cuts in vividly beside Barinov and brings in "uspokoytes" ("calm down", from "uspokoitsya") as the key Russian word here.
+- 'In two hours it will wear off.' Touching on the hours in this beat, Barinov centers the thought on "chasa" ("hours", from "chas") without wasting a word.
+- 'He will not remember a thing.' Fedya steps in sharply with a nod, leaving no doubt about where he stands.
+- 'What are you hiding behind your back?' Barinov continues firmly on the spot and chooses "pryachesh" ("hide", from the root "pryatat") so Fedya hears the exact meaning.
+- 'The Chef has had enough already.' Stepping in firmly with Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You talked me into it, I will drink it myself.' Barinov jumps in plainly in this moment, making his position completely clear.

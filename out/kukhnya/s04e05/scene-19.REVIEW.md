@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, and what is going on here right now?' German spotlights one telling piece in earnest: "proiskhodit" means "is going on", and it carries the main weight of what German is saying.
-- 'We came out to do some workplace gymnastics!' Max weighs in evenly without holding back, shifting the whole mood of the room in a single beat.
-- 'Guys, let's quickly do bends to the right and left!' Max continues lightly during the talk, shifting the whole mood of the room in a single beat.
-- 'They asked for gymnastics, and instead arranged smoke breaks.' German focuses on one concrete piece toward Max: "gimnastiku" means "gymnastics" (from "gimnastika"), giving the line its exact edge.
-- 'And what was the demonstration by my office about?' German puts that answer around Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Who said that I want to cut your salary?' German presses firmly where this conversation is heading next.
-- 'German Mikhailovich, I will explain everything to you right now.' Max favors this clear element toward Denis: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
-- 'Lavrov, you deceived our entire staff.' German anchors this clear expression in reply: "kollektiv" means "staff, collective", and it carries the main weight of what German is saying.
-- 'In short, you are no longer my sous-chef!' German follows up evenly as things stand, saying out loud what both of them already know.
-- 'Max, you are always true to form.' Denis frames one loaded touch toward Max: "repertuare" means "form", and it carries the main weight of what Denis is saying.
-- 'Denis, forgive me, I accidentally spent your money.' Max states that line in earnest: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'What have you done, after all that is my money!' Denis speaks candidly facing Max, testing Max's reaction in the middle of the exchange.
+- 'Lavrov, and what is going on here right now?' German answers evenly to Max and puts the emphasis on "proiskhodit" ("is going on") in the middle of the talk.
+- 'We came out to do some workplace gymnastics!' Max answers boldly to German and puts the weight on "proizvodstvennoy" ("work-related", from "proizvodstvennyy") as the exchange unfolds.
+- 'Guys, let's quickly do bends to the right and left!' Max follows up lightly without any doubt, bringing things back to earth after the buildup.
+- 'They asked for gymnastics, and instead arranged smoke breaks.' Highlighting the gymnastics right here, German puts the weight on "gimnastiku" ("gymnastics", from "gimnastika") as the exchange unfolds.
+- 'And what was the demonstration by my office about?' Checking on the demonstration at once, German keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Who said that I want to cut your salary?' German presses firmly whether Max really thought this through.
+- 'German Mikhailovich, I will explain everything to you right now.' Max responds candidly in front of German and brings in "obyasnyu" ("I'll explain", from "obyasnit") as the key Russian word here.
+- 'Lavrov, you deceived our entire staff.' German continues candidly without holding back, shifting the mood of the conversation in a single beat.
+- 'In short, you are no longer my sous-chef!' German cuts in evenly facing Denis, grounding the moment in plain reality.
+- 'Max, you are always true to form.' Mentioning the form to Max, Denis uses "repertuare" ("form") to carry the main weight of the thought.
+- 'Denis, forgive me, I accidentally spent your money.' Max steps in openly toward Denis, before Denis can change the subject.
+- 'What have you done, after all that is my money!' Denis speaks up candidly with a nod, before Max can change the subject.

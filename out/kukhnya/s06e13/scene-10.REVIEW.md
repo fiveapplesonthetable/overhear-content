@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, they just completely fired me.' Denis spotlights one colorful detail toward Barinov: "uvolili" means "to fire, to dismiss" (from "uvolit"), giving the line its exact edge.
-- 'You and I did not take that into account.' Kostya weighs in right away with a sigh, grounding the moment in plain reality.
-- 'Alright, then we move on to a new plan.' Kostya steps in steadily with a shrug, steering the talk right where he wants it.
-- 'But I do not have another plan.' Denis points to one memorable piece with Kostya: "drugogo" means "other, another" (from "drugoy"), giving the line its exact edge.
-- 'I need to go and tell everyone the truth.' Denis puts that reply around Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'I will say that I am not going anywhere.' Denis proceeds candidly as things stand, so Kostya knows he is not just making small talk.
-- 'Alright, please just do not panic right now.' Kostya features this clear detail right here: "seychas" means "now", and it carries the main weight of what Kostya is saying.
-- 'Did you already talk calmly with Katya?' Kostya gives the reaction before Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'I did not have time, everyone came running there.' Denis fires back wryly to settle things, making his position completely clear.
-- 'First you go and talk with Katya.' Kostya uses one loaded choice for Denis: "snachala" means "first, at first", and it carries the main weight of what Kostya is saying.
-- 'Just be sure to return this suit to me.' Barinov answers calmly around Denis, making his position completely clear.
-- 'You look simply great in it.' Barinov steps in firmly with a smile, steering the talk right where he wants it.
+- 'Kostya, they just completely fired me.' Denis chimes in candidly with Kostya and centers the thought on "uvolili" ("to fire, to dismiss", from "uvolit") without wasting a word.
+- 'You and I did not take that into account.' Kostya answers pointedly before Denis and chooses "uchli" ("to take into account", from the root "uchest") so Denis hears the exact meaning.
+- 'Alright, then we move on to a new plan.' Kostya speaks up steadily across the room, without trying to dress up how he really feels.
+- 'But I do not have another plan.' Pointing to the plan in front of Kostya, Denis brings in "drugogo" ("other, another", from "drugoy") as the key Russian word here.
+- 'I need to go and tell everyone the truth.' Turning to the truth in this beat, Denis leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'I will say that I am not going anywhere.' Denis jumps in candidly without any doubt, letting the remark speak for itself.
+- 'Alright, please just do not panic right now.' Kostya speaks up frankly at once and reaches for the Russian word "panikuy" ("panic", built from "panikovat") right at the center of the line.
+- 'Did you already talk calmly with Katya?' Stepping in promptly in the exchange, Kostya keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'I did not have time, everyone came running there.' Denis speaks wryly without any doubt, keeping the focus on what actually matters here.
+- 'First you go and talk with Katya.' Kostya replies readily in front of Denis and lands on "snachala" ("first, at first") as the key everyday word here.
+- 'Just be sure to return this suit to me.' Bringing up the suit on the spot, Barinov uses "obyazatelno" ("surely, without fail") to carry the main weight of the thought.
+- 'You look simply great in it.' Barinov steps in firmly around Kostya, keeping the focus on what actually matters here.

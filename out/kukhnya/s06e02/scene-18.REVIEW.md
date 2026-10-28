@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They said they would be here by four, and it is already almost five.' Mikhail jumps in plainly across the room, so Barinov knows he is not just making small talk.
-- 'And nobody is picking up the phone.' Barinov highlights one concrete touch in earnest: "trubku" means "the receiver" (from "trubka"), giving the line its exact edge.
-- 'This is Moscow, traffic jams.' Mikhail frames this point around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I do not understand, why is the restaurant closed?' Eleonora presses evenly how Mikhail expects that to work in practice.
-- 'Here the deputy mayor is conducting an inspection at our place.' Eleonora reaches for this sharp piece in earnest: "zamestitel" means "deputy", and it carries the main weight of what Eleonora is saying.
-- 'I want to feed him so that he will be kinder.' Eleonora speaks up plainly with Mikhail, watching Mikhail's face to see how the news lands.
-- 'Mikhail, hotel manager, very pleased to meet you.' Mikhail fires back boldly without a pause, letting the remark speak for itself.
-- 'Ribs like the ones here are not served at the prefecture.' Eleonora colors this key touch at once: "prefekture" means "prefecture" (from "prefektura"), giving the line its exact edge.
-- 'This is my restaurant, and I decide what people eat here.' Eleonora replies openly beside Barinov, without trying to dress up how she really feels.
-- 'You decide, but I do the cooking!' Barinov stands firm plainly beside Mikhail, shifting the whole mood of the room in a single beat.
-- 'And if I say that we need auteur cuisine, then we need it.' Barinov points to one sharp piece with Eleonora: "avtorskaya" means "signature, author's" (from "avtorskiy"), giving the line its exact edge.
-- 'Are you arguing over what to treat us with?' Eleonora shapes the remark on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'They said they would be here by four, and it is already almost five.' Mikhail fires back plainly without any doubt, refusing to let the moment slip past.
+- 'And nobody is picking up the phone.' Mentioning the receiver right here, Barinov uses "trubku" ("the receiver", from "trubka") to make the point stick.
+- 'This is Moscow, traffic jams.' Returning to the traffic jam beside Barinov, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I do not understand, why is the restaurant closed?' Eleonora presses evenly what Mikhail is actually getting at here.
+- 'Here the deputy mayor is conducting an inspection at our place.' Bringing up the deputy beside Mikhail, Eleonora puts the emphasis on "zamestitel" ("deputy") in the middle of the talk.
+- 'I want to feed him so that he will be kinder.' Eleonora reacts earnestly to Mikhail and reaches for the Russian word "dobreye" ("kind, good", built from "dobryy") right at the center of the line.
+- 'Mikhail, hotel manager, very pleased to meet you.' Turning to the manager without any doubt, Mikhail brings the exchange with Eleonora back to practical reality.
+- 'Ribs like the ones here are not served at the prefecture.' Emphasizing the prefecture with Mikhail, Eleonora reaches for the Russian word "prefekture" ("prefecture", built from "prefektura") right at the center of the line.
+- 'This is my restaurant, and I decide what people eat here.' Emphasizing her restaurant around Barinov, Eleonora puts the emphasis on "restoran" ("restaurant") in the middle of the talk.
+- 'You decide, but I do the cooking!' Barinov speaks up plainly without any doubt, letting the remark speak for itself.
+- 'And if I say that we need auteur cuisine, then we need it.' Pointing to the kitchen at once, Barinov chooses "avtorskaya" ("signature, author's", from the root "avtorskiy") so Eleonora hears the exact meaning.
+- 'Are you arguing over what to treat us with?' Reacting plainly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

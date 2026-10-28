@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is even strange that this man speaks at all.' The doctor spotlights this clear piece on cue: "voobshche" means "at all", and it carries the main weight of what the doctor is saying.
-- 'He has such a large hematoma on the scan!' The doctor replies warmly with Max, shifting the whole mood of the room in a single beat.
-- 'The guy is lucky that he got off with only amnesia.' The doctor steps in at once with a nod, watching Barinov's face to see how the news lands.
-- 'At our wedding we will have a best man who does not know us!' Max stresses this key word in earnest: "svidetel" means "witness", and it carries the main weight of what Max is saying.
-- 'Doctor, whose scan did you just give to Vika?' Max puts the reaction beside Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Oh, we have had a motorcyclist lying in there for a month.' The doctor continues right away around Max, making his position completely clear.
-- 'I would like to review all the documents on food purchases.' Max grounds this sharp word right here: "dokumenty" means "the documents" (from "dokument"), giving the line its exact edge.
-- 'Those are simple white slips of paper with numbers.' Max directs this answer briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Just do not talk to me as if I were a child!' Barinov reacts firmly as they talk, saying out loud what both of them already know.
-- 'From this minute on, you smoke only if you have these coupons.' Max frames one concrete touch in earnest: "minuty" means "minutes" (from "minuta"), giving the line its exact edge.
-- 'One smoke break is one coupon, that is your allowance.' Max voices that thought on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Fedya, I have already used my two coupons today!' Barinov jumps in lightly toward Max, making his position completely clear.
+- 'It is even strange that this man speaks at all.' The doctor pushes back quietly to Max and reaches for the Russian word "voobshche" ("at all") right at the heart of the line.
+- 'He has such a large hematoma on the scan!' Bringing up the picture right here, the doctor leans on "bolshaya" ("large", a form of "bolshoy") to give the remark its edge.
+- 'The guy is lucky that he got off with only amnesia.' The doctor steps in at once toward Max, leaving no doubt about where he stands.
+- 'At our wedding we will have a best man who does not know us!' Bringing up the witness with the doctor, Max uses "svidetel" ("witness") to carry the main weight of the thought.
+- 'Doctor, whose scan did you just give to Vika?' Answering boldly before the doctor, Max keeps normal statement word order here, turning the line into a question for the doctor purely through rising pitch.
+- 'Oh, we have had a motorcyclist lying in there for a month.' The doctor continues right away around Max, so Max knows he is not just making small talk.
+- 'I would like to review all the documents on food purchases.' Talking about the documents in this beat, Max leans on "dokumenty" ("the documents", a form of "dokument") to give the remark its edge.
+- 'Those are simple white slips of paper with numbers.' Emphasizing how simple things are before Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Just do not talk to me as if I were a child!' Barinov reacts firmly toward Max, testing Max's reaction in the middle of the exchange.
+- 'From this minute on, you smoke only if you have these coupons.' Touching on the minutes during the talk, Max reaches for the Russian word "minuty" ("minutes", built from "minuta") right at the center of the line.
+- 'One smoke break is one coupon, that is your allowance.' Touching on the smoke break in this beat, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Fedya, I have already used my two coupons today!' Barinov speaks up lightly around Max, testing Max's reaction in the middle of the exchange.

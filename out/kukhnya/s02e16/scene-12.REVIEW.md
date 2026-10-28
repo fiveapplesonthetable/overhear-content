@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you mean, how is it?' Nagiyev questions frankly about what Elena just brought up.
-- 'Well, how is it?' Elena states the comeback right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I just made that pate myself.' Nagiyev reacts sharply without holding back, without trying to dress up how he really feels.
-- 'Taste it and tell me what you think.' Elena reacts pointedly without holding back, grounding the moment in plain reality.
-- 'No, you taste it and tell me.' Nagiyev grounds this vivid term toward Elena: "poprobuy" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
-- 'If you like it, then it is a masterpiece.' Elena delivers that remark on cue: the "-sya" ending on "ponravitsya" ("will please") turns the action inward or makes it happen between people naturally.
-- 'I prepared something else.' Nagiyev chimes in wryly hearing Elena, refusing to let the moment slip past.
-- 'Hey there. Hello.' Elena favors this key element right here: "zdravstvuyte" means "hello", and it carries the main weight of what Elena is saying.
-- 'Chatting with an invisible friend?' Nagiyev directs the comment with candor: the "-sya" ending on "obshchayeshsya" ("to communicate") turns the action inward or makes it happen between people naturally.
-- 'And why is this romance happening at my favorite table, huh?' Elena probes frankly in front of Nagiyev without any preamble.
-- 'Dima, forgive me, I probably should have called you first.' Elena frames one pointed word on cue: "navernoye" means "probably", and it carries the main weight of what Elena is saying.
-- 'I invited Elena here for dinner tonight.' Elena opens up dryly without a pause, making her position completely clear.
-- 'I figured you would not mind.' Nagiyev follows up quietly facing Elena, steering the talk right where he wants it.
+- 'What do you mean, how is it?' Nagiyev questions frankly before Elena can change the subject.
+- 'Well, how is it?' Stepping in plainly with Nagiyev, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I just made that pate myself.' Nagiyev speaks up firmly at once and lands on "delal" ("were doing", built on "delat") to keep the statement grounded.
+- 'Taste it and tell me what you think.' Elena continues pointedly with a nod, so Nagiyev knows she is not just making small talk.
+- 'No, you taste it and tell me.' Nagiyev continues earnestly before Elena and brings in "poprobuy" ("to try, to taste", from "poprobovat") as the key Russian word here.
+- 'If you like it, then it is a masterpiece.' Weighing in candidly in this beat, the "-sya" ending on "ponravitsya" ("will please") marks an action that unfolds mutually or turns back on the speaker.
+- 'I prepared something else.' Nagiyev opens up wryly across the room, refusing to let the moment slip past.
+- 'Hey there. Hello.' Elena calmly sends this formal greeting toward Nagiyev using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Chatting with an invisible friend?' Turning naturally in front of Elena, the "-sya" ending on "obshchayeshsya" ("to communicate") marks an action that unfolds mutually or turns back on the speaker.
+- 'And why is this romance happening at my favorite table, huh?' Elena probes frankly if there is more going on behind the scenes.
+- 'Dima, forgive me, I probably should have called you first.' Elena continues frankly in the exchange and lands on "navernoye" ("probably") as the key everyday word here.
+- 'I invited Elena here for dinner tonight.' Pointing to the dinner before Nagiyev, Elena chooses "priglasil" ("invited", from the root "priglasit") so Nagiyev hears the exact meaning.
+- 'I figured you would not mind.' Nagiyev cuts in quietly across the room, making his position completely clear.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maksim. I do not know.' Barinov weighs in steadily beside Lyova, leaving no doubt about where he stands.
-- 'He did not like the vegetarian rolls.' Barinov emphasizes one loaded term for Max: "vegetarianskiye" means "vegetarian" (from "vegetarianskiy"), giving the line its exact edge.
-- 'Just the way he asked.' Lyova gives this statement beside Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Maksim, he asked you to make them just like this morning.' Barinov holds firm candidly with Max, before Max can change the subject.
-- 'Anyway, please try to remember how you made them.' Barinov favors one direct piece for Lyova: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
-- 'What kind of vegetarian is he?' Lyova offers this point frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Very good.' Max replies briskly without a pause, testing Barinov's reaction in the middle of the exchange.
-- 'Good thing you brought him straight here.' Barinov sharpens this key touch on cue: "privezli" means "delivered, brought" (from "privezti"), giving the line its exact edge.
-- 'I never would have guessed.' Lyova lays out that point with ease: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I told you so.' Max speaks up dryly before Lyova, grounding the moment in plain reality.
-- 'You need to carry your documents with you.' Barinov leans on one sharp choice at once: "dokumenty" means "the documents" (from "dokument"), giving the line its exact edge.
-- 'Goodbye.' Lyova aims the comment for Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'That helps us out.' Max speaks wryly with a smile, leaving no doubt about where he stands.
+- 'Maksim. I do not know.' Barinov counters steadily facing Max, without trying to dress up how he really feels.
+- 'He did not like the vegetarian rolls.' Highlighting the roll at once, Barinov puts the weight on "vegetarianskiye" ("vegetarian", from "vegetarianskiy") as the exchange unfolds.
+- 'Just the way he asked.' Leaning in warmly before Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Maksim, he asked you to make them just like this morning.' Barinov reacts candidly around Max, shifting the mood of the conversation in a single beat.
+- 'Anyway, please try to remember how you made them.' Barinov simply drops this courtesy word for Lyova using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'What kind of vegetarian is he?' Mentioning the vegetarian with Max, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Very good.' Max counters briskly in this moment, steering the talk right where he wants it.
+- 'Good thing you brought him straight here.' Barinov follows up boldly on the spot and centers the thought on "privezli" ("delivered, brought", from "privezti") without wasting a word.
+- 'I never would have guessed.' Jumping in dryly right here, Lyova pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I told you so.' Max fires back dryly beside Lyova, letting the remark speak for itself.
+- 'You need to carry your documents with you.' Discussing the documents at once, Barinov uses "dokumenty" ("the documents", from "dokument") to make the point stick.
+- 'Goodbye.' Lyova naturally shares this polite farewell in one quick breath using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.
+- 'That helps us out.' Max proceeds wryly during the talk, grounding the moment in plain reality.

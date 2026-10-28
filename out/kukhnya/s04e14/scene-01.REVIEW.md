@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There are no orders yet, the restaurant is still closed.' Senya points to one pointed element toward Fedya: "restoran" means "restaurant", and it carries the main weight of what Senya is saying.
-- 'Our new management does not know the schedule.' Senya counters sharply without a pause, leaving no doubt about where he stands.
-- 'Relax, friend, there is still time.' Fedya replies warmly to settle things, bringing things back to earth after the buildup.
-- 'Next time the knife will be higher!' Katya leans on this clear choice with Senya: "sleduyushchiy" means "next", and it carries the main weight of what Katya is saying.
-- 'Get to work quickly, without chatter!' Katya states this line around Fedya: the word "davayte" is the polite or group version of "let's", inviting Fedya into the plan right away.
-- 'One must not be so mean in the morning!' Fedya answers wryly as things stand, steering the talk right where he wants it.
-- 'Especially since today is your dad's holiday.' Senya spotlights this sharp expression with Fedya: "prazdnik" means "holiday", and it carries the main weight of what Senya is saying.
-- 'Quiet, guys, our birthday boy is coming here!' Senya jumps in plainly without a pause, so Katya knows he is not just making small talk.
-- 'Viktor Petrovich, happy birthday to you!' Fedya fires back decisively as they talk, watching Katya's face to see how the news lands.
-- 'Hurray, we wish you health and happiness!' Senya centers one vivid word toward Katya: "zdorovya" means "health" (from "zdorovye"), giving the line its exact edge.
-- 'Thank you very much, friends, I am very pleased.' Fedya phrases that answer to Katya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Lyova, hold my presents, please.' Senya proceeds sharply in their talk, refusing to let the moment slip past.
+- 'There are no orders yet, the restaurant is still closed.' Focusing on the restaurant in this beat, Senya leans on "restoran" ("restaurant") to give the whole sentence its punch.
+- 'Our new management does not know the schedule.' Touching on the schedule in front of Fedya, Senya reaches for the Russian word "raspisaniya" ("schedule, timetable", built from "raspisaniye") right at the center of the line.
+- 'Relax, friend, there is still time.' Fedya fires back warmly with Senya, to clear the air between them once and for all.
+- 'Next time the knife will be higher!' Discussing the knife to Fedya, Katya reaches for the Russian word "sleduyushchiy" ("next") right at the heart of the line.
+- 'Get to work quickly, without chatter!' Bringing up the talks in this beat, Katya uses the polite or group form "davayte" ("let's") to bring Fedya into the plan.
+- 'One must not be so mean in the morning!' Fedya follows up wryly on the spot, before Katya can change the subject.
+- 'Especially since today is your dad's holiday.' Discussing the holiday beside Fedya, Senya centers the remark on "prazdnik" ("holiday") without any extra fuss.
+- 'Quiet, guys, our birthday boy is coming here!' Underscoring the boy right here, Senya brings in "imeninnik" ("boy") to make the meaning unmistakable.
+- 'Viktor Petrovich, happy birthday to you!' Talking about the birth during the talk, Fedya puts the real issue right on the table for Senya.
+- 'Hurray, we wish you health and happiness!' Highlighting the health on the spot, Senya centers the thought on "zdorovya" ("health", from "zdorovye") without wasting a word.
+- 'Thank you very much, friends, I am very pleased.' Discussing the thank during the talk, Fedya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Lyova, hold my presents, please.' Senya jumps in sharply without a pause, making his position completely clear.

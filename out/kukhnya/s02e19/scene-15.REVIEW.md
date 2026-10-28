@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Enjoy your meal.' Barinov replies decisively on the spot, steering the talk right where he wants it.
-- 'Where are all the other waitresses?' Vika highlights one telling touch right here: "ofitsianty" means "waiters" (from "ofitsiant"), giving the line its exact edge.
-- 'There is nobody here except me.' Barinov frames that reply frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What kind of nonsense is this, huh?' Vika challenges curiously about what Barinov just brought up.
-- 'Well, what can we possibly do about it?' Barinov highlights this vivid piece at once: "mozhem-to" means "can" (from "moch"), giving the line its exact edge.
-- 'Do you know what we can do?' Vika brings this point in earnest: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Everyone does whatever they can.' Barinov chimes in promptly with a shrug, grounding the moment in plain reality.
-- 'And you, please, just endure it and do whatever you want.' Vika favors one clear touch with Barinov: "terpite" means "endure, bear with it" (from "terpet"), giving the line its exact edge.
-- 'What is going to happen to us anyway?' Barinov brings this answer plainly here: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'So, do we have a deal?' Vika checks quietly what Barinov is actually getting at here.
-- 'That is none of your business.' Barinov chooses one colorful piece at once: "delo" means "matter", and it carries the main weight of what Barinov is saying.
-- 'Do you smell that scent in the air?' Vika makes the comeback at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'That is the sweet smell of our victory.' Barinov holds firm honestly as things stand, to clear the air between them once and for all.
+- 'Enjoy your meal.' Barinov jumps in decisively during the talk, to clear the air between them once and for all.
+- 'Where are all the other waitresses?' Bringing up the waiters to Barinov, Vika chooses "ofitsianty" ("waiters", from the root "ofitsiant") so Barinov hears the exact meaning.
+- 'There is nobody here except me.' Cutting in briskly beside Vika, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What kind of nonsense is this, huh?' Vika challenges curiously why things suddenly took this turn between them.
+- 'Well, what can we possibly do about it?' Reacting warmly during the talk, Barinov puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'Do you know what we can do?' Jumping in dryly before Barinov, Vika puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Everyone does whatever they can.' Barinov chimes in promptly facing Vika, grounding the moment in plain reality.
+- 'And you, please, just endure it and do whatever you want.' Vika answers quietly in the exchange and reaches for the Russian word "terpite" ("endure, bear with it", built from "terpet") right at the center of the line.
+- 'What is going to happen to us anyway?' Stepping in earnestly right here, Barinov puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'So, do we have a deal?' Vika readily uses this word of agreement in one quick breath using "dogovorilis" ("deal") — literally "we have talked it through to an agreement", used just like "deal!" or "settled!".
+- 'That is none of your business.' Addressing the matter on the spot, Barinov brings in "delo" ("matter") to make the meaning unmistakable.
+- 'Do you smell that scent in the air?' Leaning in firmly on the spot, Vika keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'That is the sweet smell of our victory.' Barinov cuts in honestly during the talk, before Vika can change the subject.

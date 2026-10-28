@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in quickly, Denis, what do you need right now?' Barinov chooses one concrete touch with Denis: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
-- 'Viktor Petrovich, I have a very important conversation.' Denis voices that remark before Barinov: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Come in quickly, Denis, what do you need right now?' Barinov responds pointedly before Denis and brings in "bystreye" ("faster", from "bystro") as the key Russian word here.
+- 'Viktor Petrovich, I have a very important conversation.' Denis speaks openly in their talk, shifting the mood of the conversation in a single beat.
 - 'Do you mind if Katya and I go out together?' Denis quizzes firmly whether Barinov really thought this through.
-- 'Of course I am categorically against such a relationship!' Barinov reaches for one practical expression for Denis: "kategoricheski" means "categorically", and it carries the main weight of what Barinov is saying.
-- 'Go work, I have no time for you at all right now.' Barinov delivers this warning to Denis: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'But why are you against me, Viktor Petrovich?' Denis checks deadpan before Barinov can change the subject.
-- 'Because my fatherly trust must be earned!' Barinov centers this direct element at once: "ottsovskoye" means "must" (from "ottsovskiy"), giving the line its exact edge.
-- 'Good, tell me, I am ready for any test!' Denis directs the reaction calmly now: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'How exactly can I prove my love?' Denis quizzes deadpan to see how Barinov will answer on the spot.
-- 'Can you quickly assemble a mansion like this out of matches?' Barinov picks one direct detail for Denis: "spichek" means "matches", and it carries the main weight of what Barinov is saying.
-- 'Easily! I will do everything in the best possible way!' Denis voices that reply before Barinov: the single Russian word "legko" ("it is easy") sets up the whole statement without needing a separate word for "it is".
-- 'Excellent, then start gluing right this evening!' Barinov pushes back candidly before Denis, steering the talk right where he wants it.
+- 'Of course I am categorically against such a relationship!' Bringing up the relationships before Denis, Barinov lands on "kategoricheski" ("categorically") as the key everyday word here.
+- 'Go work, I have no time for you at all right now.' Speaking calmly beside Denis, Barinov adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'But why are you against me, Viktor Petrovich?' Denis checks deadpan about what Barinov just brought up.
+- 'Because my fatherly trust must be earned!' Turning to the trust during the talk, Barinov centers the remark on "doveriye" ("trust") without any extra fuss.
+- 'Good, tell me, I am ready for any test!' Emphasizing how ready he is in this beat, Denis leans on "ispytaniye" ("test", a form of "ispytaniy") to give the remark its edge.
+- 'How exactly can I prove my love?' Denis quizzes deadpan if there is more going on behind the scenes.
+- 'Can you quickly assemble a mansion like this out of matches?' Focusing on the matches around Denis, Barinov puts the emphasis on "spichek" ("matches") in the middle of the talk.
+- 'Easily! I will do everything in the best possible way!' Mentioning the state around Barinov, Denis leans on "legko" ("easy"), which carries the whole predicate in Russian without needing "it is".
+- 'Excellent, then start gluing right this evening!' Barinov reacts candidly beside Denis, steering the talk right where he wants it.

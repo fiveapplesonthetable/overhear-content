@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, why on earth are we doing this right now?' Rodion prompts eagerly if there is more going on behind the scenes.
-- 'This great restaurant must never be disgraced!' Barinov favors one sharp term on cue: "restoran" means "restaurant", and it carries the main weight of what Barinov is saying.
-- 'Better let it burn down than become a cheap beer hall!' Barinov replies steadily beside Nagiyev, to clear the air between them once and for all.
-- 'What are you doing, guys? Have you lost your minds?' Nagiyev inquires quietly if there is more going on behind the scenes.
-- 'Dmitry Vladimirovich, we are carrying out justice right here!' Rodion frames one pointed expression toward Barinov: "pravosudiye" means "justice", and it carries the main weight of what Rodion is saying.
-- 'What justice? You are going to burn down my restaurant right now!' Nagiyev states the reply with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Rodion purely through rising pitch at the end.
-- 'It is no longer yours! They want to make a beer hall out of it!' Barinov weighs in lightly beside Nagiyev, keeping the focus on what actually matters here.
-- 'This is my restaurant, I just bought it back!' Nagiyev colors this sharp choice with Rodion: "restoran" means "restaurant", and it carries the main weight of what Nagiyev is saying.
-- 'Wait, they charged you three times as much!' Barinov chooses one familiar choice toward Nagiyev: "zaryadili" means "charged" (from "zaryadit"), giving the line its exact edge.
-- 'They gave me the money! This golden man right here—Rodion Sergeyevich!' Nagiyev replies earnestly with a sigh, keeping the focus on what actually matters here.
-- 'If people do not learn to help one another, the world will vanish!' Rodion highlights one classic piece in earnest: "nauchatsya" means "to learn" (from "nauchitsya"), giving the line its exact edge.
-- 'Enough talking, quickly save our beloved restaurant!' Nagiyev pushes back honestly without holding back, leaving no doubt about where he stands.
+- 'This great restaurant must never be disgraced!' Discussing the restaurant to Rodion, Barinov puts the emphasis on "restoran" ("restaurant") in the middle of the talk.
+- 'Better let it burn down than become a cheap beer hall!' Focusing on the beer hall with Nagiyev, Barinov uses "pivnikom" ("beer hall", from "pivnik") to make the point stick.
+- 'What are you doing, guys? Have you lost your minds?' Nagiyev inquires quietly how Rodion expects that to work in practice.
+- 'Dmitry Vladimirovich, we are carrying out justice right here!' Mentioning the justice in the exchange, Rodion reaches for the Russian word "pravosudiye" ("justice") right at the heart of the line.
+- 'What justice? You are going to burn down my restaurant right now!' Reacting dryly to Barinov, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'It is no longer yours! They want to make a beer hall out of it!' Barinov counters lightly with a nod, letting the remark speak for itself.
+- 'This is my restaurant, I just bought it back!' Focusing on his restaurant in this beat, Nagiyev reaches for the Russian word "restoran" ("restaurant") right at the heart of the line.
+- 'Wait, they charged you three times as much!' Barinov follows up earnestly across the room, testing Nagiyev's reaction in the middle of the exchange.
+- 'They gave me the money! This golden man right here—Rodion Sergeyevich!' Raising the money with Rodion, Nagiyev sets the direction for the rest of the talk with Rodion.
+- 'If people do not learn to help one another, the world will vanish!' Bringing up the friend in the exchange, Rodion puts the weight on "nauchatsya" ("to learn", from "nauchitsya") as the exchange unfolds.
+- 'Enough talking, quickly save our beloved restaurant!' Bringing up the restaurant with Rodion, Nagiyev chooses "lyubimyy" ("favourite") so Rodion gets the point right away.

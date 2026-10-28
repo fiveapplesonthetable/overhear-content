@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Better tell her everything right away.' Kostya cuts in briskly during the talk, testing Nastya's reaction in the middle of the exchange.
-- 'What are you talking about here?' Nastya questions candidly while looking straight at Kostya here.
-- 'Imagine that you and I broke up.' Kostya underscores one pointed piece right here: "rasstalis" means "broke up, separated" (from "rasstatsya"), giving the line its exact edge.
-- 'Are you a complete fool?' Nastya shares the comment facing Kostya: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'No, just imagine it.' Kostya jumps in openly facing Nastya, so Nastya knows he is not just making small talk.
-- 'I am saying this purely figuratively.' Kostya features one clear element with Nastya: "chisto" means "clean" (from "chistyy"), giving the line its exact edge.
-- 'Suppose I slept with another girl.' Kostya chimes in dryly with a sigh, so Nastya knows he is not just making small talk.
-- 'And then told you all about it.' Kostya fires back boldly as things stand, saying out loud what both of them already know.
-- 'Wait, did you cheat on me?' Nastya frames one practical touch with Kostya: "izmenil" means "changed" (from "izmenit"), giving the line its exact edge.
-- 'Well, you have not imagined it yet!' Kostya uses this clear touch right here: "predstavila" means "imagined" (from "predstavit"), giving the line its exact edge.
-- 'When? When did that happen?' Nastya inquires point-blank how Kostya expects that to work in practice.
-- 'That never happened, Nastya!' Kostya emphasizes this telling choice in earnest: "nikogda" means "never", and it carries the main weight of what Kostya is saying.
-- 'And now you are afraid to tell me, right?' Nastya sends the comeback briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'What a coward you are!' Nastya holds firm decisively with a smile, steering the talk right where she wants it.
+- 'Better tell her everything right away.' Kostya responds warmly before Nastya and centers the remark on "luchshe" ("better") without any extra fuss.
+- 'What are you talking about here?' Nastya questions candidly what Kostya is actually getting at here.
+- 'Imagine that you and I broke up.' Kostya weighs in quietly in this beat and leans on "rasstalis" ("broke up, separated", a form of "rasstatsya") to give the remark its edge.
+- 'Are you a complete fool?' Discussing a complete fool at once, Nastya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'No, just imagine it.' Kostya speaks up openly with a nod, before Nastya can change the subject.
+- 'I am saying this purely figuratively.' Highlighting how clean he is in the exchange, Kostya uses "chisto" ("clean", from "chistyy") to make the point stick.
+- 'Suppose I slept with another girl.' Talking about the girl during the talk, Kostya centers the thought on "devushkoy" ("girl, young woman", from "devushka") without wasting a word.
+- 'And then told you all about it.' Kostya counters boldly with Nastya, to clear the air between them once and for all.
+- 'Wait, did you cheat on me?' Nastya answers sharply right here and puts the weight on "izmenil" ("changed", from "izmenit") as the exchange unfolds.
+- 'Well, you have not imagined it yet!' Kostya weighs in wryly on the spot, testing Nastya's reaction in the middle of the exchange.
+- 'When? When did that happen?' Nastya inquires point-blank while looking straight at Kostya here.
+- 'That never happened, Nastya!' Kostya responds boldly in this beat and leans on "nikogda" ("never") to give the whole sentence its punch.
+- 'And now you are afraid to tell me, right?' Weighing in earnestly on the spot, Nastya keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'What a coward you are!' Nastya answers decisively with a sigh, making her position completely clear.

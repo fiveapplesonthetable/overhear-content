@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take your hands off, step away from my husband right now!' Gulya chimes in bluntly with a shrug, keeping the focus on what actually matters here.
-- 'Marina, what is wrong with you?' Senya directs that reply before Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Do you think that I am blind?' Gulya offers this warning toward Katya: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Well we already sorted it out, I made a mistake.' Senya responds dryly across the room, without trying to dress up how he really feels.
-- 'Why did she call late yesterday?' Gulya spotlights one key element at once: "zvonila" means "called" (from "zvonit"), giving the line its exact edge.
-- 'Fedya's birthday is coming up soon, she called to ask for advice.' Senya frames this line calmly now: the "-sya" ending on "posovetovatsya" ("to consult") turns the action inward or makes it happen between people naturally.
-- 'Are you satisfied? You ruined the surprise.' Senya asks sharply to see how Gulya will answer on the spot.
-- 'And what is this? Also a surprise for Fedya?' Gulya grounds one pointed expression toward Senya: "syurpriz" means "surprise", and it carries the main weight of what Gulya is saying.
-- 'Why was this lying in your drawer with your socks?' Gulya voices that answer before Katya: putting the question word "pochemu" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'You could not keep Denis, so you decided to steal my husband?' Gulya questions openly before Senya can change the subject.
-- 'Marina, have you lost your mind?' Katya spotlights this clear term right here: "soshla" means "went off, lost" (from "soyti"), giving the line its exact edge.
-- 'Quiet, quiet, what are you doing?' Senya shares the thought plainly here: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Take your hands off, step away from my husband right now!' Gulya pushes back bluntly on the spot, testing Senya's reaction in the middle of the exchange.
+- 'Marina, what is wrong with you?' Pushing back promptly right here, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Do you think that I am blind?' Showing how blind she is on the spot, Gulya puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'Well we already sorted it out, I made a mistake.' Senya opens up dryly toward Gulya, making his position completely clear.
+- 'Why did she call late yesterday?' Gulya steps in smoothly during the talk and reaches for the Russian word "zvonila" ("called", built from "zvonit") right at the center of the line.
+- 'Fedya's birthday is coming up soon, she called to ask for advice.' Returning to the birth during the talk, the "-sya" ending on "posovetovatsya" ("to consult") marks an action that unfolds mutually or turns back on the speaker.
+- 'Are you satisfied? You ruined the surprise.' Focusing on the surprise beside Gulya, Senya speaks plainly so Gulya gets the message at once.
+- 'And what is this? Also a surprise for Fedya?' Addressing a surprise in the exchange, Gulya leans on "syurpriz" ("surprise") to give the whole sentence its punch.
+- 'Why was this lying in your drawer with your socks?' Touching on the box in the exchange, Gulya puts the question word "pochemu" right at the start so Katya hears the focus immediately.
+- 'You could not keep Denis, so you decided to steal my husband?' Gulya questions openly where this conversation is heading next.
+- 'Marina, have you lost your mind?' Addressing the mind to Senya, Katya centers the thought on "soshla" ("went off, lost", from "soyti") without wasting a word.
+- 'Quiet, quiet, what are you doing?' Turning frankly at once, Senya puts the question word "chto" right at the start so Katya hears the focus immediately.

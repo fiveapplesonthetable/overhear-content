@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We got hungry after yoga.' Vika shapes this point in earnest: the "-sya" ending on "progolodalis" ("to get hungry") turns the action inward or makes it happen between people naturally.
-- 'You will gladly treat the girls to dinner.' Vika replies dryly with Max, steering the talk right where she wants it.
-- 'After all, this is your restaurant and hotel.' Vika highlights one sharp choice right here: "restoran" means "restaurant", and it carries the main weight of what Vika is saying.
-- 'And here is the owner of this splendor.' Vika hands over that line with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It is so beautiful here, thank you for inviting us.' Kostya proceeds briskly without a pause, letting the remark speak for itself.
-- 'You are welcome, excuse my appearance.' Max frames one key term right here: "vneshniy" means "outward, external", and it carries the main weight of what Max is saying.
-- 'I love cooking, it is my passion.' Max pushes back evenly with a nod, bringing things back to earth after the buildup.
-- 'And I also have to keep an eye on the subordinates.' Max reacts steadily without any doubt, bringing things back to earth after the buildup.
-- 'Good evening, a bottle of red wine, the best in our cellar.' Kostya focuses on one clear word in reply: "butylochka" means "little bottle", and it carries the main weight of what Kostya is saying.
-- 'Are pregnant women really allowed wine?' Max states that reply on cue: starting the question with "razve" ("really?, is it true that...?") shows Max is pushing back against what he just heard.
-- 'Such expensive wine is allowed, one bottle for six people.' Vika chimes in dryly with a nod, to clear the air between them once and for all.
-- 'Darling, thank you for your generosity.' Vika leans on one colorful term in reply: "shchedrost" means "generosity", and it carries the main weight of what Vika is saying.
+- 'We got hungry after yoga.' Checking on the yoga in the exchange, the "-sya" ending on "progolodalis" ("to get hungry") marks an action that unfolds mutually or turns back on the speaker.
+- 'You will gladly treat the girls to dinner.' Vika counters dryly without any doubt, grounding the moment in plain reality.
+- 'After all, this is your restaurant and hotel.' Touching on the restaurant in front of Kostya, Vika lands on "restoran" ("restaurant") as the key everyday word here.
+- 'And here is the owner of this splendor.' Mentioning the splendor before Kostya, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It is so beautiful here, thank you for inviting us.' Kostya replies briskly with a smile, watching Vika's face to see how the news lands.
+- 'You are welcome, excuse my appearance.' Stressing how outward Kostya is before Kostya, Max puts the emphasis on "vneshniy" ("outward, external") in the middle of the talk.
+- 'I love cooking, it is my passion.' Bringing up his passion at once, Max reaches for the Russian word "strast" ("passion") right at the heart of the line.
+- 'And I also have to keep an eye on the subordinates.' Max reacts steadily beside Kostya, shifting the mood of the conversation in a single beat.
+- 'Good evening, a bottle of red wine, the best in our cellar.' Underscoring a bottle beside Max, Kostya uses "butylochka" ("little bottle") to carry the main weight of the thought.
+- 'Are pregnant women really allowed wine?' Bringing up the pregnant women on the spot, Max starts the question with "razve" ("really?") to push back against what he just heard.
+- 'Such expensive wine is allowed, one bottle for six people.' Vika continues dryly hearing Max, shifting the mood of the conversation in a single beat.
+- 'Darling, thank you for your generosity.' Discussing the generosity with Max, Vika leans on "shchedrost" ("generosity") to give the whole sentence its punch.

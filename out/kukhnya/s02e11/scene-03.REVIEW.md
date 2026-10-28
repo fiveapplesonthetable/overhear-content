@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In the good sense of the word.' Max responds sharply to settle things, bringing things back to earth after the buildup.
-- 'If you need anything at all, Nikolai here can help.' Kostya grounds one colorful detail right here: "ponadobitsya" means "to be needed", and it carries the main weight of what Kostya is saying.
-- 'Yes, yes, of course, of course.' Max offers the thought without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Bring me some cigarettes.' Kostya cuts in promptly with Max, leaving no doubt about where he stands.
-- 'I said, bring me some cigarettes.' Max emphasizes this key term on cue: "sigarety" means "cigarette" (from "sigareta"), giving the line its exact edge.
-- 'Wait, what did you say?' Kostya aims this update with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Your boss just said to turn to you if I need anything.' Max speaks firmly before Kostya, saying out loud what both of them already know.
-- 'Come on, this is a hospital.' Kostya centers one concrete term toward Max: "bolnitsa" means "the hospital", and it carries the main weight of what Kostya is saying.
-- 'Easier than getting cigarettes.' Max directs the thought with candor: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'By the way, do you not need morphine?' Kostya inquires eagerly why things suddenly took this turn between them.
-- 'No, I want to smoke.' Max uses this direct detail right here: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'I cannot help you with that.' Kostya emphasizes one memorable piece right here: "pomoch" means "to help", and it carries the main weight of what Kostya is saying.
-- 'They will fire me for that.' Max chimes in frankly without a pause, making his position completely clear.
+- 'In the good sense of the word.' Max answers sharply toward Kostya, shifting the mood of the conversation in a single beat.
+- 'If you need anything at all, Nikolai here can help.' Kostya fires back frankly around Max and uses "ponadobitsya" ("to be needed") to carry the main weight of the thought.
+- 'Yes, yes, of course, of course.' Max casually directs this confirmation with Kostya using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Bring me some cigarettes.' Kostya cuts in promptly with a smile, so Max knows he is not just making small talk.
+- 'I said, bring me some cigarettes.' Highlighting the cigarette around Kostya, Max brings in "sigarety" ("cigarette", from "sigareta") as the key Russian word here.
+- 'Wait, what did you say?' Reacting quietly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Your boss just said to turn to you if I need anything.' Max fires back firmly without a pause, grounding the moment in plain reality.
+- 'Come on, this is a hospital.' Turning to a hospital during the talk, Kostya leans on "bolnitsa" ("the hospital") to give the whole sentence its punch.
+- 'Easier than getting cigarettes.' Checking on the cigarette on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'By the way, do you not need morphine?' Kostya inquires eagerly about what Max just brought up.
+- 'No, I want to smoke.' Max jumps in candidly before Kostya and reaches for the Russian word "kurit" ("to smoke") right at the heart of the line.
+- 'I cannot help you with that.' Kostya replies dryly without any doubt, grounding the moment in plain reality.
+- 'They will fire me for that.' Max reacts frankly on the spot, grounding the moment in plain reality.

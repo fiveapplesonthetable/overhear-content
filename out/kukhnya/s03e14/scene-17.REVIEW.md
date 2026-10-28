@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright then, all of you stand right here.' Max picks this direct touch in reply: "znachit" means "then, so", and it carries the main weight of what Max is saying.
-- 'And I will go and find out what they want.' Max responds candidly across the room, without trying to dress up how he really feels.
-- 'Wait, kid, who are you anyway?' Barinov features one direct choice in earnest: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
-- 'I am a good friend of Katya, I work here.' Max responds decisively on the spot, without trying to dress up how he really feels.
-- 'Thanks, friend of Katya, we will sort it out ourselves.' Barinov opens up calmly with Katya, before Katya can change the subject.
-- 'If you go out there, there will be a fight right away.' Max features one practical piece toward Katya: "poydyote" means "will go" (from "poyti"), giving the line its exact edge.
-- 'And you do not need that at all right now.' Max sends the reaction on cue: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'So here you two are, Dad, explain to me!' Katya pushes back plainly facing Max, making her position completely clear.
-- 'Do you think we will get scared of your friends?' Katya points to one classic term on cue: "ispugayemsya" means "will get scared" (from "ispugatsya"), giving the line its exact edge.
-- 'Wait a second, pops, go quickly, there is about to be a fight!' Max fires back promptly across the room, letting the remark speak for itself.
-- 'Our guys already went out there into the courtyard!' Max pushes back warmly with a shrug, bringing things back to earth after the buildup.
-- 'Wait, I do not understand anything at all!' Barinov features this clear choice in reply: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Alright then, all of you stand right here.' Max cuts in plainly in their talk, making his position completely clear.
+- 'And I will go and find out what they want.' Max cuts in candidly during the talk, refusing to let the moment slip past.
+- 'Wait, kid, who are you anyway?' Highlighting the boyfriend around Max, Barinov lands on "voobshche" ("at all") as the key everyday word here.
+- 'I am a good friend of Katya, I work here.' Insisting on how good he is with Barinov, Max reaches for the Russian word "khoroshiy" ("good") right at the heart of the line.
+- 'Thanks, friend of Katya, we will sort it out ourselves.' Barinov responds calmly in this moment, watching Max's face to see how the news lands.
+- 'If you go out there, there will be a fight right away.' Turning to a fight during the talk, Max puts the weight on "poydyote" ("will go", from "poyti") as the exchange unfolds.
+- 'And you do not need that at all right now.' Pushing back readily before Katya, Max adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'So here you two are, Dad, explain to me!' Katya pushes back plainly in their talk, testing Max's reaction in the middle of the exchange.
+- 'Do you think we will get scared of your friends?' Pointing to the friends in the exchange, Katya uses "ispugayemsya" ("will get scared", from "ispugatsya") to make the point stick.
+- 'Wait a second, pops, go quickly, there is about to be a fight!' Highlighting the dad during the talk, Max leans on "batya" ("Dad, the old man") to give the whole sentence its punch.
+- 'Our guys already went out there into the courtyard!' Max follows up warmly without any doubt, testing Barinov's reaction in the middle of the exchange.
+- 'Wait, I do not understand anything at all!' Barinov fires back firmly in front of Max and centers the thought on "podozhdite" ("wait", from "podozhdat") without wasting a word.

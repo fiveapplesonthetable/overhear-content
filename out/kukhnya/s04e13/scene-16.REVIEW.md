@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, will you have some hot tea right now?' Barinov highlights one practical expression at once: "goryachiy" means "hot", and it carries the main weight of what Barinov is saying.
-- 'No, Dad, I do not want anything.' Katya phrases this warning with warmth: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I am not offended at you at all.' Barinov cuts in bluntly before Katya, so Katya knows he is not just making small talk.
-- 'I do not work there anymore, they fired me.' Katya picks one classic choice in reply: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
-- 'What do you mean fired, what a scoundrel he is!' Barinov proceeds at once facing Katya, watching Katya's face to see how the news lands.
-- 'Remember, you can always work with me.' Barinov steps in evenly facing Senya, without trying to dress up how he really feels.
-- 'Chef, our whiskered friend completed the mission!' Senya colors one classic piece on cue: "missiyu" means "mission" (from "missiya"), giving the line its exact edge.
-- 'Senya, what nonsense are you talking, drink some tea!' Barinov colors one direct piece in reply: "nesyosh" means "are carrying" (from "nesti"), giving the line its exact edge.
-- 'Chef, I am talking about the cat!' Senya holds firm decisively in their talk, bringing things back to earth after the buildup.
-- 'Dad, what a deceiver you really are!' Katya features one telling piece with Senya: "obmanshchik" means "cheat, liar", and it carries the main weight of what Katya is saying.
-- 'Chef, did I ruin your surprise or what?' Senya brings the reply toward Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Get out of here, I cannot stand the sight of you!' Barinov fires back quietly in their talk, steering the talk right where he wants it.
+- 'Katya, will you have some hot tea right now?' Mentioning the tea before Katya, Barinov brings in "goryachiy" ("hot") to make the meaning unmistakable.
+- 'No, Dad, I do not want anything.' Addressing the dad before Barinov, Katya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I am not offended at you at all.' Barinov opens up bluntly watching Katya, without trying to dress up how he really feels.
+- 'I do not work there anymore, they fired me.' Katya weighs in sharply in this beat and uses "rabotayu" ("work", from "rabotat") to make the point stick.
+- 'What do you mean fired, what a scoundrel he is!' Turning to a scoundrel beside Katya, Barinov centers the remark on "negodyay" ("scoundrel, rascal") without any extra fuss.
+- 'Remember, you can always work with me.' Barinov jumps in evenly without a pause, bringing things back to earth after the buildup.
+- 'Chef, our whiskered friend completed the mission!' Pointing to the mission beside Barinov, Senya centers the thought on "missiyu" ("mission", from "missiya") without wasting a word.
+- 'Senya, what nonsense are you talking, drink some tea!' Barinov chimes in plainly with a sigh, steering the talk right where he wants it.
+- 'Chef, I am talking about the cat!' Senya follows up decisively with a smile, before Barinov can change the subject.
+- 'Dad, what a deceiver you really are!' Underscoring the cheat at once, Katya chooses "obmanshchik" ("cheat, liar") so Senya gets the point right away.
+- 'Chef, did I ruin your surprise or what?' Jumping in boldly before Barinov, Senya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Get out of here, I cannot stand the sight of you!' Barinov counters quietly beside Senya, to clear the air between them once and for all.

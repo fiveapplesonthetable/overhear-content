@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I thought carefully about your offer today.' Max reaches for one key choice at once: "predlozheniyem" means "offer, proposal" (from "predlozheniye"), giving the line its exact edge.
-- 'I am ready to break up with your Katya right now.' Max opens up promptly hearing Eleonora, refusing to let the moment slip past.
-- 'You made up your mind about that pretty quickly!' Eleonora reacts boldly with a smile, saying out loud what both of them already know.
-- 'You can give me ten thousand instead of twenty.' Max sharpens this direct word at once: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'Has a hot season of discounts started here?' Eleonora states this update calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'I thought carefully about your offer today.' Touching on the offer before Eleonora, Max lands on "predlozheniyem" ("offer, proposal", built on "predlozheniye") to keep the statement grounded.
+- 'I am ready to break up with your Katya right now.' Stressing how ready he is in front of Eleonora, Max centers the thought on "gotov" ("ready", from "gotovyy") without wasting a word.
+- 'You made up your mind about that pretty quickly!' Eleonora responds boldly in this moment, so Max knows she is not just making small talk.
+- 'You can give me ten thousand instead of twenty.' Underscoring the thousand right here, Max chooses "tysyach" ("thousand", from the root "tysyacha") so Eleonora hears the exact meaning.
+- 'Has a hot season of discounts started here?' Speaking naturally in the exchange, Eleonora leans on "pora" ("it is time to"), which carries the whole predicate in Russian without needing "it is".
 - 'Do you not care how much you pay?' Max inquires promptly about what Eleonora just brought up.
-- 'After all, the main thing for you is that I dump your daughter.' Max emphasizes one concrete piece on cue: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.
-- 'Fine, I completely agree to your terms.' Eleonora shares that point with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.
-- 'Then hand over the money right now, I am waiting.' Max speaks up promptly with a sigh, testing Eleonora's reaction in the middle of the exchange.
-- 'Look what an impatient guy you are after all!' Eleonora favors this direct detail for Max: "neterpelivyy" means "impatient", and it carries the main weight of what Eleonora is saying.
-- 'Stop by my hotel suite this evening.' Eleonora replies right away facing Max, bringing things back to earth after the buildup.
-- 'There you will get everything that you want.' Eleonora pushes back calmly with a shrug, so Max knows she is not just making small talk.
+- 'After all, the main thing for you is that I dump your daughter.' Insisting on how important things are right here, Max leans on "glavnoye" ("important", a form of "glavnyy") to give the remark its edge.
+- 'Fine, I completely agree to your terms.' Eleonora continues dryly watching Max, steering the talk right where she wants it.
+- 'Then hand over the money right now, I am waiting.' Max fires back promptly without any doubt, refusing to let the moment slip past.
+- 'Look what an impatient guy you are after all!' Highlighting how impatient Max is during the talk, Eleonora brings in "neterpelivyy" ("impatient") to make the meaning unmistakable.
+- 'Stop by my hotel suite this evening.' Addressing the number before Max, Eleonora centers the thought on "zaydyosh" ("to come in", from "zayti") without wasting a word.
+- 'There you will get everything that you want.' Eleonora pushes back calmly on the spot, grounding the moment in plain reality.

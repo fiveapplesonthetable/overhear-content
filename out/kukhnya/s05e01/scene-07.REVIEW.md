@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What was that? Excuse me.' Nikita features one telling word right here: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Open your eyes.' Nikita frames the remark with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Sorry, I did it by accident.' Denis cuts in right away as they talk, leaving no doubt about where he stands.
-- 'Listen, I actually came to see you.' Denis emphasizes one telling touch for Nikita: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
-- 'I came here for a real reason.' Denis reacts at once as things stand, keeping the focus on what actually matters here.
-- 'Do you know Katya?' Denis checks eagerly how Nikita expects that to work in practice.
-- 'Who did you just name?' Nikita uses this vivid detail in reply: "seychas" means "now", and it carries the main weight of what Nikita is saying.
-- 'Our Katya from the kitchen.' Denis brings that remark with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I am her boyfriend, got it?' Turning back at once, Denis brings the conversation back to practical reality.
-- 'You should not hit on her.' Denis focuses on one memorable detail in earnest: "pristavat" means "to pester, to harass", and it carries the main weight of what Denis is saying.
-- 'What? I did not understand you.' Nikita frames this statement toward Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'What are you talking about at all?' Nikita challenges frankly what Denis is actually getting at here.
+- 'What was that? Excuse me.' Nikita gently voices this polite apology to Denis using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Open your eyes.' Focusing on the eyes before Denis, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Sorry, I did it by accident.' Denis promptly offers this informal apology in front of Nikita using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'Listen, I actually came to see you.' Denis jumps in boldly to Nikita and reaches for the Russian word "prishyol" ("came, have come", built from "priyti") right at the center of the line.
+- 'I came here for a real reason.' Turning to the case in front of Nikita, Denis chooses "prishyol" ("came, have come", from the root "priyti") so Nikita hears the exact meaning.
+- 'Do you know Katya?' Denis checks eagerly what Nikita is actually getting at here.
+- 'Who did you just name?' Nikita jumps in smoothly right here and lands on "nazval" ("called", built on "nazvat") to keep the statement grounded.
+- 'Our Katya from the kitchen.' Pointing to the kitchen during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I am her boyfriend, got it?' Denis checks bluntly while looking straight at Nikita here.
+- 'You should not hit on her.' Denis answers frankly in front of Nikita and reaches for the Russian word "pristavat" ("to pester, to harass") right at the heart of the line.
+- 'What? I did not understand you.' Answering directly in this beat, Nikita keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'What are you talking about at all?' Nikita challenges frankly while looking straight at Denis here.

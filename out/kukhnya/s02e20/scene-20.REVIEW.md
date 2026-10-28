@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We all dream about having a happy ending.' Max stands firm right away to be clear, grounding the moment in plain reality.
-- 'Unfortunately.' Kostya speaks firmly without holding back, before Nastya can change the subject.
-- 'In real life it does not always happen.' Nastya picks this vivid expression with Kostya: "sluchayetsya" means "to happen, occur" (from "sluchatsya"), giving the line its exact edge.
-- 'And not for everyone.' Max directs the thought without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'While someone else thinks their happy ending has already arrived.' Kostya jumps in firmly in this moment, making his position completely clear.
-- 'That the happy ending is already here.' Nastya centers one key element in reply: "kheppi-end" means "happy ending", and it carries the main weight of what Nastya is saying.
-- 'It looks like we are going to have a baby.' Max drops that thought frankly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'And to someone else it only seems that way.' Kostya holds firm lightly before Nastya, letting the remark speak for itself.
-- 'Keep fighting for your happy ending.' Nastya grounds one practical term in earnest: "kheppi-end" means "happy ending", and it carries the main weight of what Nastya is saying.
-- 'And now for an important announcement.' Max voices the comment for Nastya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'From now on, a new waiter will be working on your shift.' Kostya speaks up warmly on the spot, shifting the whole mood of the room in a single beat.
-- 'Maxim Lavrov.' Nastya makes that line without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'We all dream about having a happy ending.' Touching on a happy ending on the spot, Max uses "kheppi-ende" ("happy ending", from "kheppi-end") to make the point stick.
+- 'Unfortunately.' Kostya proceeds firmly in their talk, grounding the moment in plain reality.
+- 'In real life it does not always happen.' Focusing on the life right here, Nastya leans on "sluchayetsya" ("to happen, occur", a form of "sluchatsya") to give the remark its edge.
+- 'And not for everyone.' Cutting in dryly right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'While someone else thinks their happy ending has already arrived.' Kostya speaks up firmly in their talk, testing Nastya's reaction in the middle of the exchange.
+- 'That the happy ending is already here.' Turning to the happy ending right here, Nastya uses "kheppi-end" ("happy ending") to carry the main weight of the thought.
+- 'It looks like we are going to have a baby.' Talking about the kid in the exchange, Max reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'And to someone else it only seems that way.' Kostya chimes in lightly with Max, to clear the air between them once and for all.
+- 'Keep fighting for your happy ending.' Talking about the happy ending right here, Nastya centers the remark on "kheppi-end" ("happy ending") without any extra fuss.
+- 'And now for an important announcement.' Touching on the message at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'From now on, a new waiter will be working on your shift.' Kostya counters warmly with a nod, to clear the air between them once and for all.
+- 'Maxim Lavrov.' Pushing back promptly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

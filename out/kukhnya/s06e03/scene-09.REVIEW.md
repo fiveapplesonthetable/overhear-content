@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are not going to refuse anything.' Nastya speaks quietly across the room, grounding the moment in plain reality.
-- 'You said yourself that it is blood money.' Kostya colors one practical detail toward Nastya: "krovavyye" means "blood-stained" (from "krovavyy"), giving the line its exact edge.
-- 'On the other hand, our son has his own room.' Nastya drops this answer plainly here: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
-- 'In a good apartment, in a good neighborhood.' Nastya stands firm briskly to be clear, making her position completely clear.
-- 'For the sake of our son I am ready to compromise my principles.' See how Nastya reminds Katya plainly here — the Russian word "printsipami" ("principles", built from "printsip") does the heavy lifting.
-- 'Maybe you are right.' Kostya states this update without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Maybe you will go to the store so we can celebrate our housewarming?' Nastya probes straight out whether Katya really thought this through.
-- 'We are playing to ten goals.' Katya features this sharp touch in earnest: "igrayem" means "play" (from "igrat"), giving the line its exact edge.
-- 'Katya, will you keep track of the score?' Nastya offers the comment with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Will this take a long time?' Nastya prompts calmly while looking straight at Kostya here.
-- 'Why, we will beat them in five minutes.' Katya spotlights this key term at once: "obygrayem" means "will beat, outplay" (from "obygrat"), giving the line its exact edge.
-- 'Well go ahead, start.' Nastya shares this warning without pause: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'We are not going to refuse anything.' Nastya replies quietly without a pause, bringing things back to earth after the buildup.
+- 'You said yourself that it is blood money.' Emphasizing the money right here, Kostya reaches for the Russian word "krovavyye" ("blood-stained", built from "krovavyy") right at the center of the line.
+- 'On the other hand, our son has his own room.' Talking about the room in this beat, Nastya pivots with "zato" ("on the bright side, to make up for it") to flip a drawback into a plus.
+- 'In a good apartment, in a good neighborhood.' Nastya proceeds briskly with a sigh, leaving no doubt about where she stands.
+- 'For the sake of our son I am ready to compromise my principles.' Pointing to her principles before Kostya, Nastya centers the thought on "printsipami" ("principles", from "printsip") without wasting a word.
+- 'Maybe you are right.' Insisting on how right Nastya is in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Maybe you will go to the store so we can celebrate our housewarming?' Nastya probes straight out before Katya can change the subject.
+- 'We are playing to ten goals.' Underscoring the goals in the exchange, Katya reaches for the Russian word "golov" ("goals") right at the heart of the line.
+- 'Katya, will you keep track of the score?' Mentioning the score to Katya, Nastya keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Will this take a long time?' Nastya prompts calmly what Katya is actually getting at here.
+- 'Why, we will beat them in five minutes.' Discussing the minutes on the spot, Katya lands on "obygrayem" ("will beat, outplay", built on "obygrat") to keep the statement grounded.
+- 'Well go ahead, start.' Following up candidly before Katya, Nastya starts with "davay" ("come on, let's") to invite Katya right into the action.

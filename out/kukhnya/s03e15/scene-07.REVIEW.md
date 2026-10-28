@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, leave the chicken alone, you are a married man!' Barinov stresses one pointed touch for Nagiyev: "zhenatyy" means "married", and it carries the main weight of what Barinov is saying.
-- 'Fedya, what are you waiting for, for the fish to flip itself over?' Barinov sends that reply without fuss: the "-sya" ending on "perevorachivatsya" ("to flip itself over") turns the action inward or makes it happen between people naturally.
-- 'Ilya, who taught you to slice so badly?' Barinov challenges evenly whether Nagiyev really thought this through.
-- 'Dima, and what are you doing here in the kitchen?' Barinov features one concrete touch in reply: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'It is a long story, Vitya, I need to learn how to cook.' Nagiyev shapes the thought with candor: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Please, quickly teach me how to cook!' Nagiyev weighs in calmly to be clear, leaving no doubt about where he stands.
-- 'Wait, Dima, I did not understand you just now.' Barinov picks this direct touch at once: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'That nonsense you have been doing your whole life, teach me!' Nagiyev puts the comeback with candor: the "-sya" ending on "zanimayeshsya" ("to be busy with") turns the action inward or makes it happen between people naturally.
-- 'Dima, this is not acting in a commercial!' Barinov chimes in at once with a smile, refusing to let the moment slip past.
-- 'This is art, there are many subtleties here that one must grasp and realize.' Barinov grounds one clear choice on cue: "iskusstvo" means "the Art", and it carries the main weight of what Barinov is saying.
-- 'Tell me honestly, why do you even need this?' Barinov directs that line frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'I made a bet with a friend this morning.' Nagiyev chimes in plainly to be clear, testing Barinov's reaction in the middle of the exchange.
+- 'Senya, leave the chicken alone, you are a married man!' Emphasizing how married Nagiyev is beside Nagiyev, Barinov reaches for the Russian word "zhenatyy" ("married") right at the heart of the line.
+- 'Fedya, what are you waiting for, for the fish to flip itself over?' Returning to the fish at once, Barinov puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'Ilya, who taught you to slice so badly?' Barinov challenges evenly where this conversation is heading next.
+- 'Dima, and what are you doing here in the kitchen?' Turning to the kitchen before Nagiyev, Barinov puts the weight on "kukhne" ("kitchen", from "kukhnya") as the exchange unfolds.
+- 'It is a long story, Vitya, I need to learn how to cook.' Pushing back plainly in front of Barinov, Nagiyev leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Please, quickly teach me how to cook!' Nagiyev directly gives this courtesy word without hesitation using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Wait, Dima, I did not understand you just now.' Barinov replies firmly before Nagiyev and chooses "podozhdi" ("wait", from the root "podozhdat") so Nagiyev hears the exact meaning.
+- 'That nonsense you have been doing your whole life, teach me!' Answering plainly during the talk, the "-sya" ending on "zanimayeshsya" ("to be busy with") marks an action that unfolds mutually or turns back on the speaker.
+- 'Dima, this is not acting in a commercial!' Barinov reacts at once in this moment, letting the remark speak for itself.
+- 'This is art, there are many subtleties here that one must grasp and realize.' Addressing the art in this beat, Barinov reaches for the Russian word "iskusstvo" ("the Art") right at the heart of the line.
+- 'Tell me honestly, why do you even need this?' Pushing back readily to Nagiyev, Barinov drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'I made a bet with a friend this morning.' Nagiyev chimes in plainly in this moment, watching Barinov's face to see how the news lands.

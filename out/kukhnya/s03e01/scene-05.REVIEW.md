@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kristina, no new car.' Nagiyev states the reaction right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I told you in plain Russian. No.' Nagiyev responds sharply without a pause, to clear the air between them once and for all.
-- 'What is this?' Nagiyev shapes this line for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What is this, I am asking you?' Nagiyev shapes this line at once: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'He is drying socks in the centrifuge.' Senya steps in boldly as they talk, so Barinov knows he is not just making small talk.
-- 'He says they dry fast.' Senya spotlights this vivid piece toward Nagiyev: "govorit" means "talks", and it carries the main weight of what Senya is saying.
-- 'Vitya, I asked you to find a person!' Nagiyev features this clear detail in earnest: "prosil" means "ask for" (from "prosit"), giving the line its exact edge.
-- 'There is no specialist in Moscow.' Barinov pushes back right away as they talk, making his position completely clear.
-- 'We looked, but nobody suited us.' Barinov stresses one memorable word right here: "podoshel" means "suited, fit" (from "podoyti"), giving the line its exact edge.
-- 'I have one more question for you.' Barinov brings this warning plainly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Too bad. And you showed such promise.' Barinov counters decisively without holding back, to clear the air between them once and for all.
-- 'You only need to do one thing.' Barinov colors this sharp detail with Senya: "nuzhno" means "necessary", and it carries the main weight of what Barinov is saying.
+- 'Kristina, no new car.' Dwelling on the cars right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I told you in plain Russian. No.' Nagiyev opens up sharply watching Senya, making his position completely clear.
+- 'What is this?' Opening up firmly in the exchange, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What is this, I am asking you?' Holding firm candidly in front of Senya, Nagiyev puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'He is drying socks in the centrifuge.' Senya fires back boldly in their talk, to clear the air between them once and for all.
+- 'He says they dry fast.' Senya pushes back firmly during the talk and puts the emphasis on "govorit" ("talks") in the middle of the talk.
+- 'Vitya, I asked you to find a person!' Nagiyev reacts plainly with Senya, testing Senya's reaction in the middle of the exchange.
+- 'There is no specialist in Moscow.' Barinov reacts right away in their talk, refusing to let the moment slip past.
+- 'We looked, but nobody suited us.' Barinov weighs in directly at once and brings in "podoshel" ("suited, fit", from "podoyti") as the key Russian word here.
+- 'I have one more question for you.' Talking about the question in front of Nagiyev, the "-sya" ending on "vopros" ("question, matter") marks an action that unfolds mutually or turns back on the speaker.
+- 'Too bad. And you showed such promise.' Barinov proceeds decisively across the room, refusing to let the moment slip past.
+- 'You only need to do one thing.' Barinov chimes in promptly in this beat and lands on "nuzhno" ("necessary") as the key everyday word here.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'May I have your attention for a minute.' Barinov holds firm sharply facing Ilya, steering the talk right where he wants it.
-- 'Anyway, here is the news.' Vika highlights one colorful detail right here: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
-- 'Viktor Petrovich will be away for another two weeks.' Ilya replies plainly in their talk, keeping the focus on what actually matters here.
-- 'He has not worked for a whole month already.' Barinov speaks up boldly as things stand, saying out loud what both of them already know.
-- 'And now he has gone off to drink beer on vacation.' Vika anchors this clear touch toward Barinov: "poyekhal" means "I'm off" (from "poyekhat"), giving the line its exact edge.
-- 'How can you not be ashamed of yourself?' Ilya aims that thought for Vika: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'How could we possibly talk like that?' Barinov presses sharply about what Ilya just brought up.
-- 'He is sick and he needs medical treatment.' Vika underscores this telling choice right here: "lechitsya" means "is treatable", and it carries the main weight of what Vika is saying.
-- 'What are you all laughing at?' Ilya gives this update right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'What would I ever do without you?' Barinov checks eagerly what Vika is actually getting at here.
-- 'Alright, alright, alright.' Vika directs that point briskly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'That is enough.' Ilya shares that reply on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So how are you doing in here?' Barinov inquires firmly what Ilya is actually getting at here.
+- 'May I have your attention for a minute.' Barinov chimes in sharply with a nod, refusing to let the moment slip past.
+- 'Anyway, here is the news.' Explaining how short things are with Barinov, Vika centers the thought on "obshchem" ("short, so", from "obshchiy") without wasting a word.
+- 'Viktor Petrovich will be away for another two weeks.' Touching on the weeks beside Barinov, Ilya reaches for the Russian word "nedeli" ("weeks", built from "nedelya") right at the center of the line.
+- 'He has not worked for a whole month already.' Barinov replies boldly with a sigh, keeping the focus on what actually matters here.
+- 'And now he has gone off to drink beer on vacation.' Focusing on the beer in front of Barinov, Vika lands on "pivka" ("beer", built on "pivko") to keep the statement grounded.
+- 'How can you not be ashamed of yourself?' Holding firm promptly on the spot, Ilya puts the question word "kak" right at the start so Barinov hears the focus immediately.
+- 'How could we possibly talk like that?' Barinov presses sharply why things suddenly took this turn between them.
+- 'He is sick and he needs medical treatment.' Vika speaks quietly in this beat and lands on "lechitsya" ("is treatable") as the key everyday word here.
+- 'What are you all laughing at?' Pushing back firmly in the exchange, Ilya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'What would I ever do without you?' Barinov checks eagerly while looking straight at Vika here.
+- 'Alright, alright, alright.' Vika readily delivers this word of agreement without hesitation using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'That is enough.' Pressing on readily on the spot, Ilya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So how are you doing in here?' Barinov inquires firmly while looking straight at Ilya here.

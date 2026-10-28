@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I would love to hear it.' Max steps in wryly around Lyova, refusing to let the moment slip past.
-- 'And not with the help of these dirty methods.' Sasha leans on this telling touch in earnest: "pomoshchi" means "help" (from "pomoshch"), giving the line its exact edge.
-- 'Lyova, everything you are saying is right.' Max focuses on one loaded word in reply: "pravilno" means "right", and it carries the main weight of what Max is saying.
-- 'I understand everything.' Max steps in dryly before Sasha, making his position completely clear.
-- 'You must never poison people.' Sasha emphasizes one key term on cue: "travit" means "to torment", and it carries the main weight of what Sasha is saying.
-- 'Well, how are you feeling?' Lyova brings this statement without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And how did you find out where I was?' Max tests plainly to see how Lyova will answer on the spot.
-- 'Which hospital I was in?' Sasha chooses this direct detail at once: "bolnitse" means "the hospital" (from "bolnitsa"), giving the line its exact edge.
-- 'By the way, you could have told me yourself.' Lyova lays out the comment briskly now: opening with "kstati" ("by the way") lets Lyova drop a new detail into the conversation as if it just crossed his mind.
-- 'I like you no matter how you look.' Max replies at once around Sasha, keeping the focus on what actually matters here.
-- 'We have not done that yet today.' Sasha reaches for one sharp piece with Lyova: "segodnya" means "today", and it carries the main weight of what Sasha is saying.
-- 'I will wait for you right here.' Lyova sends the comeback before Sasha: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Do not worry about a thing.' Max weighs in at once with a smile, making his position completely clear.
+- 'I would love to hear it.' Max replies wryly toward Sasha, watching Sasha's face to see how the news lands.
+- 'And not with the help of these dirty methods.' Discussing the help in the exchange, Sasha brings in "pomoshchi" ("help", from "pomoshch") as the key Russian word here.
+- 'Lyova, everything you are saying is right.' Max steps in bluntly with a shrug, bringing things back to earth after the buildup.
+- 'I understand everything.' Max jumps in dryly facing Sasha, testing Sasha's reaction in the middle of the exchange.
+- 'You must never poison people.' Sasha reacts openly during the talk and chooses "travit" ("to torment") so Max gets the point right away.
+- 'Well, how are you feeling?' Weighing in plainly in front of Max, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And how did you find out where I was?' Max tests plainly while looking straight at Sasha here.
+- 'Which hospital I was in?' Addressing the hospital before Lyova, Sasha brings in "bolnitse" ("the hospital", from "bolnitsa") as the key Russian word here.
+- 'By the way, you could have told me yourself.' Opening up directly with Sasha, Lyova opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'I like you no matter how you look.' Max speaks up at once in this moment, before Lyova can change the subject.
+- 'We have not done that yet today.' Sasha opens up boldly at once and brings in "segodnya" ("today") to make the meaning unmistakable.
+- 'I will wait for you right here.' Speaking smoothly beside Sasha, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Do not worry about a thing.' Max replies at once in this moment, making his position completely clear.

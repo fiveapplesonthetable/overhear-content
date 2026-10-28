@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Barinov, did you order a pizza?' Barinov quizzes point-blank in front of Max without any preamble.
-- 'Yes, yes, yes, yes, yes.' Max continues openly with a nod, to clear the air between them once and for all.
-- 'Here is a thousand rubles.' Barinov sends the remark without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Nothing is too good for you.' Max speaks up promptly as things stand, testing Barinov's reaction in the middle of the exchange.
-- 'All the best.' Barinov sharpens one direct detail with Max: "dobrogo" means "good" (from "dobryy"), giving the line its exact edge.
-- 'Wait, where is the pizza?' Max shapes this line plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'They took it at the entrance.' Barinov speaks right away during the talk, saying out loud what both of them already know.
-- 'Vitaly Petrovich.' Max directs the remark on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'That pearl barley of yours has driven me crazy already.' Barinov stresses one key detail at once: "perlog" means "pretext, excuse" (from "predlog"), giving the line its exact edge.
-- 'That is my pizza.' Max replies right away to be clear, leaving no doubt about where he stands.
-- 'Pals, that is strictly forbidden for you.' Barinov spotlights one classic detail with Max: "protivopokazano" means "contraindicated" (from "protivopokazannyy"), giving the line its exact edge.
-- 'Next you will be asking for chicken with pineapple?' Max frames this warning plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'That one is my favorite.' Barinov replies evenly to settle things, grounding the moment in plain reality.
+- 'Barinov, did you order a pizza?' Barinov quizzes point-blank while looking straight at Max here.
+- 'Yes, yes, yes, yes, yes.' Max responds openly across the room, so Barinov knows he is not just making small talk.
+- 'Here is a thousand rubles.' Bringing up a thousand beside Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Nothing is too good for you.' Max jumps in promptly in this moment, letting the remark speak for itself.
+- 'All the best.' Barinov opens up directly with Max and brings in "dobrogo" ("good", from "dobryy") as the key Russian word here.
+- 'Wait, where is the pizza?' Checking on the pizza before Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'They took it at the entrance.' Barinov jumps in right away during the talk, shifting the mood of the conversation in a single beat.
+- 'Vitaly Petrovich.' Turning boldly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'That pearl barley of yours has driven me crazy already.' Barinov speaks up firmly with a shrug, making his position completely clear.
+- 'That is my pizza.' Max replies right away without any doubt, making his position completely clear.
+- 'Pals, that is strictly forbidden for you.' Describing how contraindicated things are in the exchange, Barinov reaches for the Russian word "protivopokazano" ("contraindicated", built from "protivopokazannyy") right at the center of the line.
+- 'Next you will be asking for chicken with pineapple?' Focusing on the pineapple before Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'That one is my favorite.' Barinov speaks up evenly on the spot, testing Max's reaction in the middle of the exchange.

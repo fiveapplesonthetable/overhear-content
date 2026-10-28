@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If you believe the theory of the Buddhists.' Barinov stresses one familiar expression in reply: "buddistov" means "Buddhist" (from "buddist"), giving the line its exact edge.
-- 'I was probably even Hitler in a past life.' Max aims the comment to Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Otherwise I just do not understand it?' Barinov quizzes point-blank why things suddenly took this turn between them.
-- 'What did I do to deserve such punishment?' Max points to one memorable word at once: "nakazaniye" means "punishment", and it carries the main weight of what Max is saying.
-- 'How are you holding up?' Barinov delivers the reaction in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And yet if I ever made it in there.' Max continues briskly as things stand, before Barinov can change the subject.
-- 'Chef, can I come along with you?' Max anchors one loaded piece toward Barinov: "mozhno" means "may, can", and it carries the main weight of what Max is saying.
-- 'Do not even dream about it.' Max lays out this update plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'They never bring anyone along with them.' Barinov responds right away in this moment, making his position completely clear.
-- 'To them, we are nobodies.' Max drops this statement with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'That is the elite.' Barinov frames the reply plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And who do you think you are?' Max checks point-blank in front of Barinov without any preamble.
-- 'I have been working here for three years already.' Barinov frames one concrete piece in earnest: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
+- 'If you believe the theory of the Buddhists.' Bringing up the theory with Max, Barinov lands on "buddistov" ("Buddhist", built on "buddist") to keep the statement grounded.
+- 'I was probably even Hitler in a past life.' Pushing back promptly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Otherwise I just do not understand it?' Barinov quizzes point-blank where this conversation is heading next.
+- 'What did I do to deserve such punishment?' Emphasizing the punishment in front of Barinov, Max reaches for the Russian word "nakazaniye" ("punishment") right at the heart of the line.
+- 'How are you holding up?' Holding firm evenly on the spot, Barinov puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'And yet if I ever made it in there.' Max responds briskly in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'Chef, can I come along with you?' Max pushes back pointedly to Barinov and chooses "mozhno" ("may, can") so Barinov gets the point right away.
+- 'Do not even dream about it.' Jumping in evenly before Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'They never bring anyone along with them.' Barinov responds right away with Max, bringing things back to earth after the buildup.
+- 'To them, we are nobodies.' Looking over firmly right here, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'That is the elite.' Returning to the elite during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And who do you think you are?' Max checks point-blank if there is more going on behind the scenes.
+- 'I have been working here for three years already.' Barinov continues boldly during the talk and lands on "rabotayu" ("work", built on "rabotat") to keep the statement grounded.

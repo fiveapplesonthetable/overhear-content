@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You can take an apron over there.' Barinov highlights one telling term in earnest: "fartuk" means "apron", and it carries the main weight of what Barinov is saying.
-- 'The gratin! Right now I will bring the quail.' Denis aims that reply briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Well, how is it?' Barinov inquires sharply before Denis can change the subject.
-- 'He handled it great!' Lyova uses one practical word for Denis: "spravilsya" means "to manage, to cope" (from "spravitsya"), giving the line its exact edge.
-- 'One might think you got it right the first time.' Barinov frames that answer beside Denis: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Well, how is the gratin?' Denis wonders eagerly whether Lyova really thought this through.
-- 'Not bad for the first time.' Barinov colors one colorful element for Denis: "pervogo" means "first" (from "pervyy"), giving the line its exact edge.
-- 'It is clear that there is potential.' Barinov aims this warning toward Lyova: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'But so there are no questions, I had better cook it myself.' Barinov speaks lightly as things stand, letting the remark speak for itself.
-- 'And you rest for now.' Barinov grounds one practical term on cue: "otdokhni" means "rest" (from "otdokhnut"), giving the line its exact edge.
-- 'Thank you, Viktor Petrovich.' Denis phrases this warning briskly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Why are you defending him, chef?' Lyova inquires straight out in front of Denis without any preamble.
+- 'You can take an apron over there.' Mentioning an apron to Denis, Barinov reaches for the Russian word "fartuk" ("apron") right at the heart of the line.
+- 'The gratin! Right now I will bring the quail.' Focusing on the quail at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Well, how is it?' Barinov inquires sharply whether Lyova really thought this through.
+- 'He handled it great!' Lyova steps in candidly during the talk and brings in "spravilsya" ("to manage, to cope", from "spravitsya") as the key Russian word here.
+- 'One might think you got it right the first time.' Cutting in evenly beside Lyova, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Well, how is the gratin?' Denis wonders eagerly whether Barinov really thought this through.
+- 'Not bad for the first time.' Barinov proceeds briskly around Denis and brings in "pervogo" ("first", from "pervyy") as the key Russian word here.
+- 'It is clear that there is potential.' Returning to the potential beside Denis, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'But so there are no questions, I had better cook it myself.' Barinov speaks lightly around Denis, steering the talk right where he wants it.
+- 'And you rest for now.' Barinov briskly offers this casual farewell toward Denis using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'Thank you, Viktor Petrovich.' Denis promptly uses this word of thanks to Barinov using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Why are you defending him, chef?' Lyova inquires straight out while looking straight at Barinov here.

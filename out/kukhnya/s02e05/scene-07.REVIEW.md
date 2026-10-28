@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am here to support you.' Vika underscores this direct word in reply: "podderzhivayu" means "to support" (from "podderzhivat"), giving the line its exact edge.
-- 'Kostya, what are you talking about?' Vika phrases that point facing Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I watched a movie yesterday.' Vika holds firm bluntly as they talk, steering the talk right where she wants it.
-- 'Well, be careful not to get too carried away with movies like that.' Kostya reaches for one loaded term with Vika: "uvlekaysya" means "get carried away" (from "uvlekatsya"), giving the line its exact edge.
-- 'Come over here and help me.' Vika hands over the comeback with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Come on, hurry it up.' Kostya answers briskly facing Vika, so Vika knows he is not just making small talk.
-- 'This one is ready.' Vika spotlights this key word on cue: "gotovo" means "ready" (from "gotovyy"), giving the line its exact edge.
-- 'You will not give it all away.' Kostya offers that line before Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'And to think someone was shouting that you never fry tartare.' Vika replies steadily with a nod, so Kostya knows she is not just making small talk.
-- 'And I will never do it again, believe me.' Kostya emphasizes one colorful expression with Vika: "sdelayesh" means "will you make" (from "sdelat"), giving the line its exact edge.
-- 'I am afraid you are going to have to.' Vika delivers the remark without fuss: the "-sya" ending on "pridetsya" ("will have to") turns the action inward or makes it happen between people naturally.
-- 'She liked everything very much.' Kostya holds firm right away as they talk, refusing to let the moment slip past.
-- 'Well, what would you not do in the name of your favorite team.' Vika highlights this telling touch in earnest: "lyubimoy" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.
+- 'I am here to support you.' Vika counters naturally before Kostya and brings in "podderzhivayu" ("to support", from "podderzhivat") as the key Russian word here.
+- 'Kostya, what are you talking about?' Answering firmly on the spot, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I watched a movie yesterday.' Vika pushes back bluntly beside Kostya, bringing things back to earth after the buildup.
+- 'Well, be careful not to get too carried away with movies like that.' Bringing up the movie at once, Kostya centers the thought on "uvlekaysya" ("get carried away", from "uvlekatsya") without wasting a word.
+- 'Come over here and help me.' Stepping in quietly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Come on, hurry it up.' Kostya reacts briskly beside Vika, grounding the moment in plain reality.
+- 'This one is ready.' Describing how ready things are on the spot, Vika lands on "gotovo" ("ready", built on "gotovyy") to keep the statement grounded.
+- 'You will not give it all away.' Following up dryly around Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'And to think someone was shouting that you never fry tartare.' Vika replies steadily on the spot, refusing to let the moment slip past.
+- 'And I will never do it again, believe me.' Kostya chimes in vividly on the spot and lands on "sdelayesh" ("will you make", built on "sdelat") to keep the statement grounded.
+- 'I am afraid you are going to have to.' Stepping in plainly at once, the "-sya" ending on "pridetsya" ("will have to") marks an action that unfolds mutually or turns back on the speaker.
+- 'She liked everything very much.' Kostya continues right away across the room, before Vika can change the subject.
+- 'Well, what would you not do in the name of your favorite team.' Bringing up the name in this beat, Vika centers the thought on "lyubimoy" ("favourite, beloved", from "lyubimyy") without wasting a word.

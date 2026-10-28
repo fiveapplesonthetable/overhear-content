@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I made tiny holes specially for you.' Senya anchors this sharp touch right here: "malenkiye" means "little ones" (from "malenkiy"), giving the line its exact edge.
-- 'Tell me, why did you even do that?' Barinov frames the comeback with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'I bet a thousand on you after all.' Senya follows up right away as things stand, testing Barinov's reaction in the middle of the exchange.
-- 'So now I am protecting my money.' Senya highlights one direct expression for Lyova: "zashchishchayu" means "to defend, protect" (from "zashchishchat"), giving the line its exact edge.
-- 'Do you have a brain, I will win anyway!' Barinov directs that remark around Lyova: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Well then, can we start already?' Lyova inquires briskly how Senya expects that to work in practice.
-- 'Or did our brilliant chef suddenly get scared?' Lyova spotlights one key choice in earnest: "genialnyy" means "brilliant", and it carries the main weight of what Lyova is saying.
-- 'Senya, go on and give us the start command quickly!' Barinov makes this answer with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'I am asking you for the last time.' Senya speaks up evenly on the spot, watching Barinov's face to see how the news lands.
-- 'Tell me, do you not want to make up right now?' Senya underscores this clear element in reply: "pomiritsya" means "to make peace", and it carries the main weight of what Senya is saying.
-- 'No, we are not going to make up right now!' Barinov delivers this answer in earnest: the "-sya" ending on "miritsya" ("to make peace") turns the action inward or makes it happen between people naturally.
-- 'Good, then start cooking right now!' Senya speaks evenly with a shrug, saying out loud what both of them already know.
+- 'Chef, I made tiny holes specially for you.' Focusing on the holes in this beat, Senya reaches for the Russian word "malenkiye" ("little ones", built from "malenkiy") right at the center of the line.
+- 'Tell me, why did you even do that?' Holding firm warmly at once, Barinov drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'I bet a thousand on you after all.' Touching on a thousand with a sigh, Senya cuts straight through the tension with Barinov.
+- 'So now I am protecting my money.' Touching on his money on the spot, Senya chooses "zashchishchayu" ("to defend, protect", from the root "zashchishchat") so Barinov hears the exact meaning.
+- 'Do you have a brain, I will win anyway!' Turning to the brains around Senya, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Well then, can we start already?' Lyova inquires briskly what Barinov is actually getting at here.
+- 'Or did our brilliant chef suddenly get scared?' Lyova pushes back warmly during the talk and leans on "genialnyy" ("brilliant") to give the whole sentence its punch.
+- 'Senya, go on and give us the start command quickly!' Returning to the start in the exchange, Barinov starts with "davay" ("come on, let's") to invite Senya right into the action.
+- 'I am asking you for the last time.' Senya speaks evenly toward Barinov, so Barinov knows he is not just making small talk.
+- 'Tell me, do you not want to make up right now?' Senya jumps in vividly at once and lands on "pomiritsya" ("to make peace") as the key everyday word here.
+- 'No, we are not going to make up right now!' Jumping in warmly in the exchange, the "-sya" ending on "miritsya" ("to make peace") marks an action that unfolds mutually or turns back on the speaker.
+- 'Good, then start cooking right now!' Senya counters openly toward Barinov, so Barinov knows he is not just making small talk.

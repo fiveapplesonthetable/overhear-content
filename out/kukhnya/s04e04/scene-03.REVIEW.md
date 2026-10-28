@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you tired, Viktor Petrovich?' Elena inquires point-blank in front of Barinov without any preamble.
-- 'I do not even know the meaning of that word.' Barinov reaches for one vivid term in reply: "znacheniya" means "meaning" (from "znacheniye"), giving the line its exact edge.
-- 'I would like to ask a bit more about the team.' Barinov speaks up quietly in their talk, saying out loud what both of them already know.
-- 'What are you saying? And why do you need that?' Elena questions quietly while looking straight at Barinov here.
-- 'It is hard to work in a team when you know nothing about anyone.' Barinov leans on this direct piece for Elena: "komande" means "team" (from "komanda"), giving the line its exact edge.
-- 'I understand. Well, alright.' Elena sends that reply at once: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'This is Misha. You already know him.' Elena weighs in openly before Barinov, without trying to dress up how she really feels.
-- 'He performs the duties of sous-chef.' Elena points to one loaded touch in earnest: "ispolnyayet" means "performs", and it carries the main weight of what Elena is saying.
-- 'A responsible worker.' Elena offers that line with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'He is afraid of his wife like fire.' Elena cuts in wryly to settle things, bringing things back to earth after the buildup.
-- 'His wife nagged him yesterday for coming home late.' Elena points to one key choice for Barinov: "zapilila" means "to yesterday" (from "zapilit"), giving the line its exact edge.
-- 'What did he say? Nothing.' Barinov puts the reaction calmly now: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'Are you tired, Viktor Petrovich?' Elena inquires point-blank what Barinov is actually getting at here.
+- 'I do not even know the meaning of that word.' Mentioning the meaning around Elena, Barinov chooses "znacheniya" ("meaning", from the root "znacheniye") so Elena hears the exact meaning.
+- 'I would like to ask a bit more about the team.' Talking about the collective right here, Barinov centers the thought on "kollektive" ("collective", from "kollektiv") without wasting a word.
+- 'What are you saying? And why do you need that?' Elena questions quietly if there is more going on behind the scenes.
+- 'It is hard to work in a team when you know nothing about anyone.' Addressing a team right here, Barinov brings in "komande" ("team", from "komanda") as the key Russian word here.
+- 'I understand. Well, alright.' Stepping in plainly before Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'This is Misha. You already know him.' Elena speaks openly without any doubt, to clear the air between them once and for all.
+- 'He performs the duties of sous-chef.' Emphasizing the performs at once, Elena uses "ispolnyayet" ("performs") to carry the main weight of the thought.
+- 'A responsible worker.' Touching on a responsible worker with Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'He is afraid of his wife like fire.' Elena reacts wryly with a sigh, refusing to let the moment slip past.
+- 'His wife nagged him yesterday for coming home late.' Emphasizing the wife before Barinov, Elena uses "zhena" ("wife") to carry the main weight of the thought.
+- 'What did he say? Nothing.' Cutting in directly before Elena, Barinov puts the question word "chto" right at the start so Elena hears the focus immediately.

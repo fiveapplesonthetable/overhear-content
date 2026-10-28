@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For a whole week now I have been courting Katya.' Denis underscores this clear piece at once: "ukhazhivayu" means "to court, to woo" (from "ukhazhivat"), giving the line its exact edge.
-- 'It seems to me that she is an impregnable fortress.' Denis holds firm steadily with a shrug, without trying to dress up how he really feels.
-- 'Very recently this fortress fell twice.' Denis opens up boldly with a nod, testing Fedya's reaction in the middle of the exchange.
-- 'But suddenly her walls became strong again.' Denis picks one memorable term in reply: "krepkimi" means "strong, sturdy" (from "krepkiy"), giving the line its exact edge.
-- 'Never mind, we will take the fortress by attrition!' Denis proceeds bluntly without a pause, bringing things back to earth after the buildup.
-- 'What kind of kindergarten is this in our kitchen?' Fedya tests frankly whether Katya really thought this through.
-- 'Hello, Katya, I am your new friend!' Denis stresses one pointed word right here: "novyy" means "new", and it carries the main weight of what Denis is saying.
-- 'Let's go to the movies together tonight!' Denis aims that point at once: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Leave me alone immediately with your toy!' Katya answers steadily without holding back, before Denis can change the subject.
-- 'I will not leave you alone for anything!' Denis spotlights one colorful piece right here: "otstanu" means "to fall behind" (from "otstat"), giving the line its exact edge.
-- 'Katya, well please, come with me!' Denis frames this update for Fedya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Stop shouting my name across the whole kitchen!' Katya stands firm candidly beside Fedya, grounding the moment in plain reality.
+- 'For a whole week now I have been courting Katya.' Focusing on a whole week at once, Denis leans on "ukhazhivayu" ("to court, to woo", a form of "ukhazhivat") to give the remark its edge.
+- 'It seems to me that she is an impregnable fortress.' Making clear how fortress she is on the spot, Denis chooses "nepristupnaya" ("fortress", from the root "nepristupnyy") so Fedya hears the exact meaning.
+- 'Very recently this fortress fell twice.' Denis reacts boldly across the room, refusing to let the moment slip past.
+- 'But suddenly her walls became strong again.' Pointing to the walls to Fedya, Denis reaches for the Russian word "krepkimi" ("strong, sturdy", built from "krepkiy") right at the center of the line.
+- 'Never mind, we will take the fortress by attrition!' Focusing on the attrition in this beat, Denis brings in "izmorom" ("attrition", from "izmor") as the key Russian word here.
+- 'What kind of kindergarten is this in our kitchen?' Fedya tests frankly where this conversation is heading next.
+- 'Hello, Katya, I am your new friend!' Touching on the friend in the exchange, Denis reaches for the Russian word "novyy" ("new") right at the heart of the line.
+- 'Let's go to the movies together tonight!' Returning to the cinema with Katya, Denis starts with "davay" ("come on, let's") to invite Katya right into the action.
+- 'Leave me alone immediately with your toy!' Katya pushes back steadily with a sigh, making her position completely clear.
+- 'I will not leave you alone for anything!' Denis steps in quietly with Katya and reaches for the Russian word "otstanu" ("to fall behind", built from "otstat") right at the center of the line.
+- 'Katya, well please, come with me!' Denis continues pointedly in front of Katya and leans on "poydyom" ("let's go", a form of "poyti") to give the remark its edge.
+- 'Stop shouting my name across the whole kitchen!' Katya speaks candidly without any doubt, leaving no doubt about where she stands.

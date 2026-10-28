@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, allow me to interrupt your quiet conversation.' Nagiyev jumps in bluntly with a sigh, shifting the whole mood of the room in a single beat.
-- 'I was told that you are kicking out our restaurant homeless man.' Nagiyev speaks up evenly during the talk, without trying to dress up how he really feels.
-- 'Dima, what restaurant homeless man? What are you talking about?' The inspector emphasizes this direct piece in reply: "restorannyy" means "restaurant", and it carries the main weight of what the inspector is saying.
-- 'You see, in Moscow there are such kind traditions.' Nagiyev answers at once toward Max, before Max can change the subject.
-- 'Someone sponsors an animal in the zoo, and we look after a homeless man.' Nagiyev proceeds steadily in their talk, grounding the moment in plain reality.
-- 'Dima, do not forget that you sold the restaurant to me.' The inspector focuses on one loaded word right here: "restoran" means "restaurant", and it carries the main weight of what the inspector is saying.
-- 'And now only I decide whom we look after.' The inspector opens up calmly as they talk, letting the remark speak for itself.
-- 'And your job by contract is to be the face here.' The inspector speaks up sharply in this moment, testing Nagiyev's reaction in the middle of the exchange.
-- 'Tomorrow important investors and a wife will have dinner here.' The inspector frames one key choice with Max: "investory" means "investors" (from "investor"), giving the line its exact edge.
-- 'The wife is a big fan of yours, you will sit and joke with them.' The inspector underscores this telling word in earnest: "poklonnitsa" means "admirer, fan", and it carries the main weight of what the inspector is saying.
-- 'Sitting and joking—that is called a corporate gig!' Nagiyev fires back decisively with a sigh, steering the talk right where he wants it.
-- 'Dima, what is wrong with you? Did you almost cry?' Max uses one familiar choice toward Nagiyev: "zaplakal" means "started crying" (from "zaplakat"), giving the line its exact edge.
+- 'Good afternoon, allow me to interrupt your quiet conversation.' Talking about the conversation to the inspector, Nagiyev brings in "tikhuyu" ("quiet", from "tikhiy") as the key Russian word here.
+- 'I was told that you are kicking out our restaurant homeless man.' Nagiyev steps in evenly without any doubt, watching the inspector's face to see how the news lands.
+- 'Dima, what restaurant homeless man? What are you talking about?' Insisting on how restaurant things are before Nagiyev, the inspector chooses "restorannyy" ("restaurant") so Nagiyev gets the point right away.
+- 'You see, in Moscow there are such kind traditions.' Pointing to the traditions to the inspector, Nagiyev brings in "sushchestvuyut" ("to exist", from "sushchestvovat") as the key Russian word here.
+- 'Someone sponsors an animal in the zoo, and we look after a homeless man.' Nagiyev jumps in steadily around the inspector, without trying to dress up how he really feels.
+- 'Dima, do not forget that you sold the restaurant to me.' Turning to the restaurant at once, the inspector uses "restoran" ("restaurant") to carry the main weight of the thought.
+- 'And now only I decide whom we look after.' The inspector weighs in readily to Nagiyev and lands on "opekayem" ("we sponsor", built on "opekat") to keep the statement grounded.
+- 'And your job by contract is to be the face here.' The inspector jumps in sharply toward Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'Tomorrow important investors and a wife will have dinner here.' Bringing up the investors before Nagiyev, the inspector chooses "investory" ("investors", from the root "investor") so Nagiyev hears the exact meaning.
+- 'The wife is a big fan of yours, you will sit and joke with them.' The inspector fires back evenly without a pause, keeping the focus on what actually matters here.
+- 'Sitting and joking—that is called a corporate gig!' Nagiyev steps in decisively with a sigh, watching the inspector's face to see how the news lands.
+- 'Dima, what is wrong with you? Did you almost cry?' Max cuts in warmly with Nagiyev and puts the weight on "zaplakal" ("started crying", from "zaplakat") as the exchange unfolds.

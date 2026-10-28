@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Eleonora Andreevna, you do not look very good today.' Denis features one loaded touch on cue: "zdravstvuyte" means "hello", and it carries the main weight of what Denis is saying.
-- 'You have dark circles under your eyes, were you drinking again yesterday?' Denis directs that answer without pause: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'What are you saying, what do you think you are doing?' Eleonora asks deadpan about what Denis just brought up.
-- 'Dear guests, you had better not take this expensive room.' Denis uses one vivid touch right here: "uvazhayemyye" means "respected, esteemed" (from "uvazhayemyy"), giving the line its exact edge.
-- 'Egor, what are you saying, I will fire you!' Eleonora focuses on this direct word right here: "govorish" means "you say" (from "govorit"), giving the line its exact edge.
-- 'Eleonora Andreevna, with such a small salary I will quit myself.' Denis opens up earnestly without holding back, without trying to dress up how he really feels.
-- 'Alright, what is going on here, where on earth is Mikhail Dzhekovich?' Eleonora uses one memorable detail right here: "proiskhodit" means "is going on", and it carries the main weight of what Eleonora is saying.
-- 'He is resting in a room and asked not to tell anyone.' Denis answers calmly with Sveta, refusing to let the moment slip past.
-- 'Denis, are you going home after work right now?' Sveta tests point-blank in front of Denis without any preamble.
-- 'I will finish playing the song now and go, and where are you going?' Denis chooses one direct piece for Sveta: "doigrayu" means "I will finish playing" (from "doigrat"), giving the line its exact edge.
-- 'I am very tired from the night shift, I will go home to our place, will you give me the keys?' Sveta sends that thought to Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Of course, take them yourself, they are in my jacket in the locker room.' Denis proceeds pointedly in this moment, letting the remark speak for itself.
+- 'Hello, Eleonora Andreevna, you do not look very good today.' Denis cuts in warmly in front of Eleonora and centers the remark on "zdravstvuyte" ("hello") without any extra fuss.
+- 'You have dark circles under your eyes, were you drinking again yesterday?' Checking on the bruise right here, Denis keeps normal statement word order here, turning the line into a question for Eleonora purely through rising pitch.
+- 'What are you saying, what do you think you are doing?' Eleonora asks deadpan why things suddenly took this turn between them.
+- 'Dear guests, you had better not take this expensive room.' Bringing up the visitors with Eleonora, Denis reaches for the Russian word "uvazhayemyye" ("respected, esteemed", built from "uvazhayemyy") right at the center of the line.
+- 'Egor, what are you saying, I will fire you!' Eleonora speaks up calmly toward Denis, leaving no doubt about where she stands.
+- 'Eleonora Andreevna, with such a small salary I will quit myself.' Denis responds earnestly without any doubt, testing Eleonora's reaction in the middle of the exchange.
+- 'Alright, what is going on here, where on earth is Mikhail Dzhekovich?' Eleonora steps in frankly to Denis and reaches for the Russian word "proiskhodit" ("is going on") right at the heart of the line.
+- 'He is resting in a room and asked not to tell anyone.' Talking about a room right here, Denis uses "otdykhayet" ("to rest, relax", from "otdykhat") to make the point stick.
+- 'Denis, are you going home after work right now?' Sveta tests point-blank if there is more going on behind the scenes.
+- 'I will finish playing the song now and go, and where are you going?' Addressing the song on the spot, Denis puts the weight on "pesnyu" ("song", from "pesnya") as the exchange unfolds.
+- 'I am very tired from the night shift, I will go home to our place, will you give me the keys?' Bringing up the keys beside Denis, Sveta keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Of course, take them yourself, they are in my jacket in the locker room.' Denis proceeds pointedly without any doubt, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is happening?' Vika quizzes promptly to see how Kostya will answer on the spot.
-- 'Vika, do not be nervous.' Max colors one familiar detail toward Vika: "nervnichay" means "be nervous" (from "nervnichat"), giving the line its exact edge.
-- 'We caught the hypnotist.' Max voices that thought without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'We are interrogating him right now. Here are his things.' Max follows up openly in this moment, shifting the whole mood of the room in a single beat.
-- 'I told you, do not meddle in what is none of your business!' Vika colors one memorable choice for Kostya: "skazala" means "told" (from "skazat"), giving the line its exact edge.
-- 'This is an inspector from the commission!' Vika directs the comment calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Maxim, you are an exceptional person!' Vika pushes back calmly without any doubt, testing Kostya's reaction in the middle of the exchange.
-- 'Kostyan, it looks like we grabbed the wrong guy.' Max highlights this direct touch in earnest: "pokhodu" means "apparently", and it carries the main weight of what Max is saying.
-- 'What should we do now?' Kostya makes the remark around Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Untie him!' Max responds decisively with a smile, so Vika knows he is not just making small talk.
-- 'Why me?' Kostya phrases the reply calmly now: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Untie him faster!' Max offers the reply briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What is happening?' Vika quizzes promptly how Max expects that to work in practice.
+- 'Vika, do not be nervous.' Max reacts frankly on the spot and leans on "nervnichay" ("be nervous", a form of "nervnichat") to give the remark its edge.
+- 'We caught the hypnotist.' Touching on the hypnotist at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'We are interrogating him right now. Here are his things.' Max opens up earnestly with Vika, without trying to dress up how he really feels.
+- 'I told you, do not meddle in what is none of your business!' Focusing on the matter at once, Vika leans on "delo" ("matter") to give the whole sentence its punch.
+- 'This is an inspector from the commission!' Turning to an inspector during the talk, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Maxim, you are an exceptional person!' Vika continues calmly with a shrug, bringing things back to earth after the buildup.
+- 'Kostyan, it looks like we grabbed the wrong guy.' Max responds readily before Kostya and uses "pokhodu" ("apparently") to carry the main weight of the thought.
+- 'What should we do now?' Weighing in promptly before Max, Kostya puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Untie him!' Max follows up decisively toward Kostya, letting the remark speak for itself.
+- 'Why me?' Jumping in warmly around Max, Kostya puts the question word "pochemu" right at the start so Max hears the focus immediately.
+- 'Untie him faster!' Reacting readily at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

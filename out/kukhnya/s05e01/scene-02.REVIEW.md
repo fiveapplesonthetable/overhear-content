@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am listening to you.' Katya shapes this answer briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'The grand opening is tomorrow.' Katya stands firm bluntly on the spot, grounding the moment in plain reality.
-- 'I have no idea.' Denis underscores one direct choice at once: "ponyatiya" means "concept, idea" (from "ponyatiye"), giving the line its exact edge.
-- 'Come on, that is all.' Denis hands over that answer toward Senya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Hi, Denis.' Katya steps in candidly without a pause, grounding the moment in plain reality.
-- 'Did something happen?' Denis uses this direct touch for Senya: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'No, nothing.' Katya shapes that answer right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'She likes it when her boyfriend trusts her.' Katya counters honestly with Senya, so Senya knows she is not just making small talk.
-- 'He behaves like a jealous boyfriend.' Katya sharpens this clear detail on cue: "revnivyy" means "jealous", and it carries the main weight of what Katya is saying.
-- 'You two argue really coolly.' Senya hands over this warning facing Katya: the "-sya" ending on "ssorites" ("you argue, quarrel") turns the action inward or makes it happen between people naturally.
-- 'It is as if I went to the theater.' Senya weighs in bluntly with a sigh, refusing to let the moment slip past.
-- 'No more bets.' Senya spotlights one classic touch for Katya: "stavok" means "bets" (from "stavka"), giving the line its exact edge.
-- 'And start!' Senya phrases this point with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Today we have a draw.' Senya proceeds firmly to be clear, bringing things back to earth after the buildup.
+- 'I am listening to you.' Turning directly before Denis, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'The grand opening is tomorrow.' Katya jumps in bluntly with a smile, testing Denis's reaction in the middle of the exchange.
+- 'I have no idea.' Emphasizing the concept on the spot, Denis lands on "ponyatiya" ("concept, idea", built on "ponyatiye") to keep the statement grounded.
+- 'Come on, that is all.' Following up naturally to Katya, Denis starts with "davay" ("come on, let's") to invite Katya right into the action.
+- 'Hi, Denis.' Katya openly uses this casual greeting without hesitation using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Did something happen?' Denis speaks up sharply before Katya and puts the weight on "sluchilos" ("happened", from "sluchitsya") as the exchange unfolds.
+- 'No, nothing.' Katya gently speaks this direct refusal in front of Denis using "net" ("no") — a plain "net" ("no") that gives an immediate answer.
+- 'She likes it when her boyfriend trusts her.' Katya weighs in honestly with a shrug, to clear the air between them once and for all.
+- 'He behaves like a jealous boyfriend.' Underscoring a jealous boyfriend to Senya, Katya brings in "revnivyy" ("jealous") to make the meaning unmistakable.
+- 'You two argue really coolly.' Pressing on plainly around Katya, the "-sya" ending on "ssorites" ("you argue, quarrel") marks an action that unfolds mutually or turns back on the speaker.
+- 'It is as if I went to the theater.' Senya counters bluntly toward Katya, bringing things back to earth after the buildup.
+- 'No more bets.' Talking about the bets in the exchange, Senya puts the weight on "stavok" ("bets", from "stavka") as the exchange unfolds.
+- 'And start!' Following up frankly before Katya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Today we have a draw.' Senya replies firmly watching Katya, grounding the moment in plain reality.

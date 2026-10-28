@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Taste it, did it turn out delicious or not?' Nagiyev tests evenly if there is more going on behind the scenes.
-- 'Strange, but this is actually very delicious!' Max centers one key word right here: "deystvitelno" means "really, indeed", and it carries the main weight of what Max is saying.
-- 'I admit, Dima, I underestimated you before.' Max favors this key term toward Barinov: "nedootsenival" means "underestimated" (from "nedootsenivat"), giving the line its exact edge.
-- 'And what if he suspects a trick and asks everyone to leave?' Nagiyev checks sharply about what Max just brought up.
-- 'Then we are sunk, and we will need another plan.' Barinov points to one concrete touch toward Max: "priplyli" means "came to a dead end" (from "priplyt"), giving the line its exact edge.
-- 'Wait, Vitya, do we actually have that plan?' Nagiyev voices the reply with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'A prepared raw dish will already be sitting inside the oven.' Barinov speaks up wryly without any doubt, keeping the focus on what actually matters here.
-- 'You will put your dish in the oven, and then pull out the right dish.' Barinov reaches for one colorful piece with Nagiyev: "dukhovku" means "oven" (from "dukhovka"), giving the line its exact edge.
-- 'Most importantly, do not forget to turn on the oven in time!' Barinov steps in evenly watching Max, testing Max's reaction in the middle of the exchange.
-- 'Wait, and how do I turn on this oven?' Nagiyev prompts point-blank before Max can change the subject.
-- 'Simply turn the switch over there to the right!' Barinov uses one clear piece right here: "tumbler" means "toggle switch", and it carries the main weight of what Barinov is saying.
-- 'The rabbit is raw, shall we settle up on our bet?' Max makes that point before Nagiyev: the "-sya" ending on "rasschitatsya" ("to settle up") turns the action inward or makes it happen between people naturally.
+- 'Taste it, did it turn out delicious or not?' Nagiyev tests evenly to see how Max will answer on the spot.
+- 'Strange, but this is actually very delicious!' Max replies frankly right here and uses "deystvitelno" ("really, indeed") to carry the main weight of the thought.
+- 'I admit, Dima, I underestimated you before.' Max opens up promptly around Nagiyev, letting the remark speak for itself.
+- 'And what if he suspects a trick and asks everyone to leave?' Nagiyev checks sharply whether Barinov really thought this through.
+- 'Then we are sunk, and we will need another plan.' Focusing on the plan right here, Barinov leans on "nuzhen" ("is needed", a form of "nuzhnyy") to give the remark its edge.
+- 'Wait, Vitya, do we actually have that plan?' Mentioning the plan in the exchange, Nagiyev reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'A prepared raw dish will already be sitting inside the oven.' Barinov fires back wryly across the room, so Nagiyev knows he is not just making small talk.
+- 'You will put your dish in the oven, and then pull out the right dish.' Touching on the oven with Nagiyev, Barinov leans on "dukhovku" ("oven", a form of "dukhovka") to give the remark its edge.
+- 'Most importantly, do not forget to turn on the oven in time!' Focusing on the oven in the exchange, Barinov leans on "glavnoye" ("important", a form of "glavnyy") to give the remark its edge.
+- 'Wait, and how do I turn on this oven?' Nagiyev prompts point-blank whether Barinov really thought this through.
+- 'Simply turn the switch over there to the right!' Bringing up the switch in the exchange, Barinov chooses "tumbler" ("toggle switch") so Nagiyev gets the point right away.
+- 'The rabbit is raw, shall we settle up on our bet?' Returning to the rabbit to Barinov, the "-sya" ending on "rasschitatsya" ("to settle up") marks an action that unfolds mutually or turns back on the speaker.

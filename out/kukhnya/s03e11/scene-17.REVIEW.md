@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, what is the Frenchman doing here?' Barinov shares the comeback with ease: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Lyova, what is the Frenchman doing here?' Answering boldly to Lyova, Barinov puts the question word "chto" right at the start so Lyova hears the focus immediately.
 - 'Why is he cooking in my kitchen?' Barinov challenges promptly where this conversation is heading next.
-- 'Yes, Chef, he is cooking a dish right now.' Lyova emphasizes one direct word for Barinov: "blyudo" means "dish", and it carries the main weight of what Lyova is saying.
-- 'Before I even had time to leave, you took my place?' Barinov shapes that thought to Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'I will explain to you right now what is going on here!' Barinov stands firm briskly hearing Katya, saying out loud what both of them already know.
-- 'Did you decide to take my job, old friend?' Barinov highlights one familiar detail at once: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
-- 'Viktor, I was against it when Katya was expelled.' Lyova responds candidly without holding back, watching Barinov's face to see how the news lands.
-- 'But your daughter was at fault herself.' Lyova fires back steadily on the spot, refusing to let the moment slip past.
-- 'What am I hearing? Katya, were you expelled?' Barinov colors this sharp choice for Katya: "vygnali" means "kicked out" (from "vygnat"), giving the line its exact edge.
-- 'Dad, wait, I will explain everything to you!' Katya leans on this telling piece for Lyova: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'No need! My own daughter deceived me!' Barinov proceeds candidly on the spot, testing Katya's reaction in the middle of the exchange.
-- 'What is this noise? Our guests are getting scared!' Katya emphasizes one key touch for Lyova: "boyatsya" means "are afraid", and it carries the main weight of what Katya is saying.
-- 'Did you all decide to replace me here?' Barinov aims that reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'Yes, Chef, he is cooking a dish right now.' Turning to a dish on the spot, Lyova centers the remark on "blyudo" ("dish") without any extra fuss.
+- 'Before I even had time to leave, you took my place?' Reacting naturally during the talk, Barinov keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'I will explain to you right now what is going on here!' Barinov jumps in briskly around Lyova, leaving no doubt about where he stands.
+- 'Did you decide to take my job, old friend?' Touching on his job around Lyova, Barinov leans on "rabotu" ("job", a form of "rabota") to give the remark its edge.
+- 'Viktor, I was against it when Katya was expelled.' Lyova jumps in openly at once and leans on "vygnali" ("kicked out", a form of "vygnat") to give the remark its edge.
+- 'But your daughter was at fault herself.' Lyova proceeds steadily facing Barinov, letting the remark speak for itself.
+- 'What am I hearing? Katya, were you expelled?' Barinov fires back evenly in this beat and reaches for the Russian word "vygnali" ("kicked out", built from "vygnat") right at the center of the line.
+- 'Dad, wait, I will explain everything to you!' Katya speaks honestly with a nod, leaving no doubt about where she stands.
+- 'No need! My own daughter deceived me!' Barinov replies candidly on the spot, before Katya can change the subject.
+- 'What is this noise? Our guests are getting scared!' Highlighting the visitors during the talk, Katya uses "gosti" ("visitors, guests", from "gost") to make the point stick.
+- 'Did you all decide to replace me here?' Speaking quietly in the exchange, Barinov keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.

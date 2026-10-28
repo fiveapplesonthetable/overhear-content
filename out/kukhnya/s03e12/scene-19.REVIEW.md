@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, here is the money for last month.' Kostya picks one classic touch in earnest: "proshlyy" means "last, previous", and it carries the main weight of what Kostya is saying.
-- 'And would you like to see how we redid the nursery?' Kostya delivers this warning calmly now: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'We did everything here with our own hands.' Kostya proceeds plainly to be clear, without trying to dress up how he really feels.
-- 'Except according to the lease, children and pets are not allowed in this apartment.' Vika stresses one colorful choice for Max: "zhivotnymi" means "animals, pets" (from "zhivotnoye"), giving the line its exact edge.
-- 'Let us pay you extra money instead.' Kostya shapes the remark to Max: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
-- 'Under no circumstances, he will ruin all the walls.' Vika stands firm honestly without any doubt, testing Max's reaction in the middle of the exchange.
-- 'You live out this month, and then you move out.' Vika features one clear word for Kostya: "vyselyayetes" means "you are moving out" (from "vyselyatsya"), giving the line its exact edge.
-- 'And be sure to restore everything here to the way it was.' Vika proceeds firmly as they talk, before Max can change the subject.
-- 'Max, and what are you doing here?' Vika inquires point-blank about what Kostya just brought up.
-- 'I live in this apartment now.' Max underscores one telling expression for Vika: "kvartire" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Nastya gave me the keys to the apartment.' Max replies firmly as they talk, testing Kostya's reaction in the middle of the exchange.
-- 'Alright, I will pack what is left and go.' Vika counters right away to be clear, letting the remark speak for itself.
+- 'Here you go, here is the money for last month.' Pointing out how last things are in this beat, Kostya lands on "proshlyy" ("last, previous") as the key everyday word here.
+- 'And would you like to see how we redid the nursery?' Pointing to the nursery right here, Kostya puts the question word "kak" right at the start so Vika hears the focus immediately.
+- 'We did everything here with our own hands.' Kostya jumps in plainly across the room, to clear the air between them once and for all.
+- 'Except according to the lease, children and pets are not allowed in this apartment.' Touching on the animals around Kostya, Vika puts the weight on "zhivotnymi" ("animals, pets", from "zhivotnoye") as the exchange unfolds.
+- 'Let us pay you extra money instead.' Checking on the money in front of Vika, Kostya uses the polite or group form "davayte" ("let's") to bring Vika into the plan.
+- 'Under no circumstances, he will ruin all the walls.' Vika fires back honestly hearing Kostya, so Kostya knows she is not just making small talk.
+- 'You live out this month, and then you move out.' Turning to the month in the exchange, Vika puts the weight on "vyselyayetes" ("you are moving out", from "vyselyatsya") as the exchange unfolds.
+- 'And be sure to restore everything here to the way it was.' Vika answers dryly before Max and lands on "obyazatelno" ("surely, without fail") as the key everyday word here.
+- 'Max, and what are you doing here?' Vika inquires point-blank why things suddenly took this turn between them.
+- 'I live in this apartment now.' Focusing on the flat to Vika, Max uses "kvartire" ("flat", from "kvartira") to make the point stick.
+- 'Nastya gave me the keys to the apartment.' Underscoring the flat right here, Max brings in "kvartiry" ("flat", from "kvartira") as the key Russian word here.
+- 'Alright, I will pack what is left and go.' Vika fires back right away beside Max, testing Max's reaction in the middle of the exchange.

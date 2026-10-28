@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today is the very best day of my life.' Max chooses this telling expression with Barinov: "luchshiy" means "best", and it carries the main weight of what Max is saying.
-- 'Today my daughter smiled at me for the first time.' Max aims the thought plainly here: the "-sya" ending on "ulybnulas" ("to smile") turns the action inward or makes it happen between people naturally.
-- 'Honestly, she smiled, I am not lying!' Max stands firm briskly beside Barinov, saying out loud what both of them already know.
-- 'Literally a minute ago she was smiling at me.' Max sharpens this sharp touch on cue: "bukvalno" means "literally", and it carries the main weight of what Max is saying.
-- 'Nothing special, she is simply falling asleep.' Vika lays out that point on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Let's wait, maybe she will smile again?' Max quizzes skeptically where this conversation is heading next.
-- 'Viktor Petrovich, you have returned to us again!' Max underscores this sharp expression with Barinov: "vernulis" means "to come back" (from "vernutsya"), giving the line its exact edge.
-- 'And all of us already thought you had left.' Max chooses one telling word toward Vika: "dumali" means "thought" (from "dumat"), giving the line its exact edge.
+- 'Today is the very best day of my life.' Insisting on how best things are in this beat, Max uses "luchshiy" ("best") to carry the main weight of the thought.
+- 'Today my daughter smiled at me for the first time.' Focusing on the dear to Vika, Max reaches for the Russian word "pervyy" ("first") right at the heart of the line.
+- 'Honestly, she smiled, I am not lying!' Max counters briskly hearing Vika, testing Vika's reaction in the middle of the exchange.
+- 'Literally a minute ago she was smiling at me.' Underscoring a minute beside Vika, Max puts the weight on "minutu" ("a minute", from "minuta") as the exchange unfolds.
+- 'Nothing special, she is simply falling asleep.' Stressing how special she is to Max, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Let's wait, maybe she will smile again?' Max quizzes skeptically why things suddenly took this turn between them.
+- 'Viktor Petrovich, you have returned to us again!' Max pushes back smoothly in the exchange and reaches for the Russian word "vernulis" ("to come back", built from "vernutsya") right at the center of the line.
+- 'And all of us already thought you had left.' Max responds candidly with a nod, refusing to let the moment slip past.
 - 'And did you think that you had gotten rid of me?' Barinov quizzes frankly how Max expects that to work in practice.
-- 'Do not even hope for it, you will never see the day!' Barinov emphasizes one key detail in reply: "dozhdyotes" means "to wait for" (from "dozhdatsya"), giving the line its exact edge.
-- 'We are very glad to see you again, Chef.' Max centers one telling choice on cue: "rady" means "glad", and it carries the main weight of what Max is saying.
-- 'Then get back to work quickly, slackers!' Barinov proceeds lightly watching Vika, making his position completely clear.
+- 'Do not even hope for it, you will never see the day!' Barinov weighs in candidly during the talk and reaches for the Russian word "dozhdyotes" ("to wait for", built from "dozhdatsya") right at the center of the line.
+- 'We are very glad to see you again, Chef.' Max answers right away hearing Barinov, letting the remark speak for itself.
+- 'Then get back to work quickly, slackers!' Barinov speaks lightly facing Max, bringing things back to earth after the buildup.

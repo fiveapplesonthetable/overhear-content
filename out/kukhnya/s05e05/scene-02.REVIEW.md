@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning!' Elena drops the thought with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Are you two chatting here?' Barinov tests point-blank what Eleonora is actually getting at here.
-- 'Why did you not tell me anything?' Elena underscores this key term in reply: "rasskazyval" means "told, recounted" (from "rasskazyvat"), giving the line its exact edge.
-- 'Well, I was going to.' Barinov directs the thought frankly here: the "-sya" ending on "sobiralsya" ("was going to") turns the action inward or makes it happen between people naturally.
-- 'You have such a wonderful boss.' Elena reacts briskly on the spot, keeping the focus on what actually matters here.
-- 'I learned a lot of new things about you.' Elena stresses this vivid detail for Eleonora: "novogo" means "new" (from "novyy"), giving the line its exact edge.
-- 'As a subordinate.' Eleonora voices the comeback with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'It turns out we are friends in misfortune.' Elena chimes in evenly without holding back, to clear the air between them once and for all.
-- 'Eleonora had an unhappy marriage.' Elena points to this telling choice with Barinov: "neudachnyy" means "unlucky", and it carries the main weight of what Elena is saying.
-- 'In a divorce, two people are always at fault.' Barinov offers that reply frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You do not even know the man and you defend him.' Eleonora stands firm honestly as they talk, shifting the whole mood of the room in a single beat.
-- 'Work does not wait, it is time to run.' Elena spotlights this sharp touch right here: "rabota" means "job", and it carries the main weight of what Elena is saying.
+- 'Good morning!' Elena casually extends this morning greeting at the start of the beat using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'Are you two chatting here?' Barinov tests point-blank while looking straight at Elena here.
+- 'Why did you not tell me anything?' Elena weighs in plainly around Barinov and brings in "rasskazyval" ("told, recounted", from "rasskazyvat") as the key Russian word here.
+- 'Well, I was going to.' Turning smoothly in the exchange, the "-sya" ending on "sobiralsya" ("was going to") marks an action that unfolds mutually or turns back on the speaker.
+- 'You have such a wonderful boss.' Elena reacts briskly during the talk, grounding the moment in plain reality.
+- 'I learned a lot of new things about you.' Elena speaks smoothly before Eleonora and brings in "novogo" ("new", from "novyy") as the key Russian word here.
+- 'As a subordinate.' Mentioning a subordinate to Elena, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'It turns out we are friends in misfortune.' Elena responds evenly with Eleonora, to clear the air between them once and for all.
+- 'Eleonora had an unhappy marriage.' Focusing on an unhappy marriage in the exchange, Elena centers the remark on "neudachnyy" ("unlucky") without any extra fuss.
+- 'In a divorce, two people are always at fault.' Insisting on how guilty things are in the exchange, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You do not even know the man and you defend him.' Eleonora steps in honestly hearing Barinov, watching Barinov's face to see how the news lands.
+- 'Work does not wait, it is time to run.' Discussing the job beside Eleonora, Elena leans on "rabota" ("job") to give the whole sentence its punch.

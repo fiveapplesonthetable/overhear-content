@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There she is, pouring wine.' Mikhail drops this warning plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And mine is flirting with Louis.' Mikhail jumps in right away to settle things, to clear the air between them once and for all.
-- 'Let's drink to our girls, they are the very best.' Mikhail stresses this clear choice in earnest: "luchshiye" means "best" (from "luchshiy"), giving the line its exact edge.
-- 'You should not have been rude to the prefect.' Mikhail highlights one clear element toward Eleonora: "prefektu" means "district prefect" (from "prefekt"), giving the line its exact edge.
-- 'We have democracy, one citizen has the right to be rude to another.' Barinov reacts sharply with a smile, watching Eleonora's face to see how the news lands.
-- 'Is it forbidden to be rude to a prefect?' Barinov highlights one classic piece with Mikhail: "prefektu" means "district prefect" (from "prefekt"), giving the line its exact edge.
-- 'I do not understand, what is this celebration?' Eleonora shapes the reaction toward Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'We have a new menu, Eleonora Andreyevna.' Barinov follows up calmly toward Mikhail, to clear the air between them once and for all.
-- 'I am aware of that.' Eleonora centers one clear touch in reply: "kurse" means "course, regimen" (from "kurs"), giving the line its exact edge.
-- 'And I am also aware that you kicked out the prefect.' Eleonora centers one classic piece toward Mikhail: "prefekta" means "prefect" (from "prefekt"), giving the line its exact edge.
-- 'Vitya, this is my restaurant!' Eleonora reacts bluntly watching Barinov, shifting the whole mood of the room in a single beat.
-- 'Bring back the old menu tomorrow, understood?' Eleonora stresses one familiar expression at once: "staroye" means "old" (from "staryy"), giving the line its exact edge.
+- 'There she is, pouring wine.' Pointing to the wine on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And mine is flirting with Louis.' Mikhail fires back right away across the room, testing Barinov's reaction in the middle of the exchange.
+- 'Let's drink to our girls, they are the very best.' Emphasizing how best things are in front of Barinov, Mikhail puts the weight on "luchshiye" ("best", from "luchshiy") as the exchange unfolds.
+- 'You should not have been rude to the prefect.' Mikhail proceeds earnestly with a shrug, watching Barinov's face to see how the news lands.
+- 'We have democracy, one citizen has the right to be rude to another.' Barinov pushes back sharply with Mikhail, bringing things back to earth after the buildup.
+- 'Is it forbidden to be rude to a prefect?' Touching on a prefect in the exchange, Barinov reaches for the Russian word "prefektu" ("district prefect", built from "prefekt") right at the center of the line.
+- 'I do not understand, what is this celebration?' Turning to the holiday at once, Eleonora puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'We have a new menu, Eleonora Andreyevna.' Mentioning a new menu with Eleonora, Barinov cuts straight through the tension with Eleonora.
+- 'I am aware of that.' Highlighting the course in the exchange, Eleonora lands on "kurse" ("course, regimen", built on "kurs") to keep the statement grounded.
+- 'And I am also aware that you kicked out the prefect.' Eleonora pushes back plainly with a smile, so Barinov knows she is not just making small talk.
+- 'Vitya, this is my restaurant!' Eleonora cuts in bluntly during the talk, shifting the mood of the conversation in a single beat.
+- 'Bring back the old menu tomorrow, understood?' Mentioning the old menu with Barinov, Eleonora leans on "staroye" ("old", a form of "staryy") to give the remark its edge.

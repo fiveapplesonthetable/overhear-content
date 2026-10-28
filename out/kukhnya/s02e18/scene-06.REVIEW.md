@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing in here?' Fedya asks curiously whether Kostya really thought this through.
-- 'Trying to talk them into becoming fresh again?' Kostya underscores this sharp word at once: "ugovarivayesh" means "to persuade" (from "ugovarivat"), giving the line its exact edge.
-- 'Listen, maybe I can buy new ones at a store?' Fedya hands over that remark at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'At the store, pal, they cost their weight in gold.' Kostya holds firm pointedly to settle things, to clear the air between them once and for all.
-- 'I have this one acquaintance.' Fedya frames one colorful expression with Kostya: "znakomyy" means "familiar", and it carries the main weight of what Fedya is saying.
-- 'He can hook you up.' Kostya brings the comeback with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Five times cheaper.' Fedya speaks up sharply in their talk, steering the talk right where he wants it.
-- 'No catch at all.' Kostya centers this sharp expression right here: "podvokha" means "catch, trick" (from "podvokh"), giving the line its exact edge.
-- 'Good, honest contraband.' Fedya drops this update to Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'No problem at all.' Kostya weighs in promptly with a shrug, letting the remark speak for itself.
-- 'Do you need a shark too?' Fedya emphasizes one practical element on cue: "nuzhna" means "needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'Not for now.' Kostya gives the comeback without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'If they do not catch you, they will not lock you up.' Fedya jumps in firmly before Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'What are you doing in here?' Fedya asks curiously before Kostya can change the subject.
+- 'Trying to talk them into becoming fresh again?' Kostya speaks candidly in the exchange and centers the thought on "ugovarivayesh" ("to persuade", from "ugovarivat") without wasting a word.
+- 'Listen, maybe I can buy new ones at a store?' Touching on the shop beside Kostya, Fedya keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'At the store, pal, they cost their weight in gold.' Kostya pushes back pointedly watching Fedya, steering the talk right where he wants it.
+- 'I have this one acquaintance.' Fedya answers frankly around Kostya and reaches for the Russian word "znakomyy" ("familiar") right at the heart of the line.
+- 'He can hook you up.' Speaking openly to Fedya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Five times cheaper.' Fedya proceeds sharply with a smile, letting the remark speak for itself.
+- 'No catch at all.' Highlighting the catch in this beat, Kostya uses "podvokha" ("catch, trick", from "podvokh") to make the point stick.
+- 'Good, honest contraband.' Pointing to the contraband with Kostya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'No problem at all.' Kostya jumps in promptly in their talk, without trying to dress up how he really feels.
+- 'Do you need a shark too?' Highlighting a shark during the talk, Fedya reaches for the Russian word "akula" ("shark") right at the heart of the line.
+- 'Not for now.' Kostya quietly voices this casual farewell right on cue using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'If they do not catch you, they will not lock you up.' Fedya proceeds firmly with a sigh, watching Kostya's face to see how the news lands.

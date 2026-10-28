@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, you should have rested at home for another week.' Barinov favors this clear detail in reply: "nedelku" means "a little week" (from "nedelka"), giving the line its exact edge.
-- 'No, Dad, I am already going crazy without work!' Katya chimes in evenly as they talk, letting the remark speak for itself.
-- 'Chef, look, we think that Grandpa Kirill is taking revenge on us.' Max leans on one classic expression in reply: "smotrite" means "look" (from "smotret"), giving the line its exact edge.
-- 'Come with me, I will show you something mystical too.' Barinov anchors one direct element on cue: "misticheskoye" means "mystical" (from "misticheskiy"), giving the line its exact edge.
-- 'That is the ghost of your bonus, it just flew away!' Barinov reacts plainly toward Katya, shifting the whole mood of the room in a single beat.
-- 'There are tons of orders, and nobody is in the kitchen!' Barinov uses one memorable piece in reply: "zakazov" means "orders" (from "zakaz"), giving the line its exact edge.
-- 'And what is this dish, this is not on the menu?' Barinov shares this warning beside Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Chef, I finally invented my signature dish!' Max speaks steadily hearing Katya, letting the remark speak for itself.
-- 'In here are black caviar, truffles, beef, and saffron.' Max chooses this sharp piece in earnest: "chyornaya" means "black" (from "chyornyy"), giving the line its exact edge.
-- 'My God, this is the most expensive mess in my life!' Barinov makes that remark to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am deducting all of this from your paycheck today!' Barinov proceeds briskly watching Katya, bringing things back to earth after the buildup.
-- 'I forbid you to touch expensive ingredients, go peel potatoes!' Barinov anchors this vivid touch in reply: "zapreshchayu" means "forbid" (from "zapreshchat"), giving the line its exact edge.
+- 'Katya, you should have rested at home for another week.' Barinov cuts in plainly with Katya, steering the talk right where he wants it.
+- 'No, Dad, I am already going crazy without work!' Katya cuts in evenly around Barinov, making her position completely clear.
+- 'Chef, look, we think that Grandpa Kirill is taking revenge on us.' Talking about the grandfather beside Barinov, Max lands on "kirill" ("Kirill") as the key everyday word here.
+- 'Come with me, I will show you something mystical too.' Barinov answers briskly on the spot, so Max knows he is not just making small talk.
+- 'That is the ghost of your bonus, it just flew away!' Barinov chimes in plainly facing Max, refusing to let the moment slip past.
+- 'There are tons of orders, and nobody is in the kitchen!' Touching on the orders to Max, Barinov lands on "zakazov" ("orders", built on "zakaz") to keep the statement grounded.
+- 'And what is this dish, this is not on the menu?' Addressing the dish at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Chef, I finally invented my signature dish!' Max counters steadily with a shrug, steering the talk right where he wants it.
+- 'In here are black caviar, truffles, beef, and saffron.' Insisting on how black things are in the exchange, Max leans on "chyornaya" ("black", a form of "chyornyy") to give the remark its edge.
+- 'My God, this is the most expensive mess in my life!' Focusing on the outrage beside Max, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am deducting all of this from your paycheck today!' Barinov fires back briskly in their talk, to clear the air between them once and for all.
+- 'I forbid you to touch expensive ingredients, go peel potatoes!' Emphasizing the product before Max, Barinov leans on "zapreshchayu" ("forbid", a form of "zapreshchat") to give the remark its edge.

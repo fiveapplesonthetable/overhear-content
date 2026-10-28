@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What was that for?' Barinov frames the reply calmly now: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'He still has the nerve to ask what for?' Kostya tests earnestly whether Sasha really thought this through.
-- 'Kostya is cheating on me, he slept with Sasha.' Barinov grounds this clear detail at once: "izmenyayet" means "changes, alters" (from "izmenyat"), giving the line its exact edge.
-- 'Why are you all screaming out here?' Barinov delivers this point to Sasha: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
-- 'And Kostya too.' Sasha fires back wryly with Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'I will explain everything right now.' Sasha centers one classic word at once: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
-- 'What do you mean, 'too'?' Barinov gives this line for Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'No, not 'too'.' Kostya proceeds honestly in this moment, leaving no doubt about where he stands.
-- 'Sasha cheated on you with Ilya.' Barinov picks one telling piece on cue: "izmenila" means "would change" (from "izmenit"), giving the line its exact edge.
-- 'I wanted to tell you about it a long time ago.' Barinov picks one clear detail for Sasha: "khotel" means "wanted" (from "khotet"), giving the line its exact edge.
-- 'Who else has not slept with Sasha yet, huh?' Kostya inquires straight out about what Barinov just brought up.
-- 'Chef, this bastard slept with Sasha.' Kostya focuses on one clear expression at once: "perespal" means "to sleep overnight" (from "perespat"), giving the line its exact edge.
-- 'It is the truth.' Barinov sends the thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What was that for?' Pushing back plainly in the exchange, Barinov puts the question word "chto" right at the start so Kostya hears the focus immediately.
+- 'He still has the nerve to ask what for?' Kostya tests earnestly before Barinov can change the subject.
+- 'Kostya is cheating on me, he slept with Sasha.' Barinov proceeds candidly in front of Kostya and reaches for the Russian word "izmenyayet" ("changes, alters", built from "izmenyat") right at the center of the line.
+- 'Why are you all screaming out here?' Holding firm briskly before Sasha, Barinov puts the question word "chto" right at the start so Sasha hears the focus immediately.
+- 'And Kostya too.' Sasha speaks up wryly without a pause, leaving no doubt about where she stands.
+- 'I will explain everything right now.' Sasha speaks up decisively beside Barinov and leans on "obyasnyu" ("I'll explain", a form of "obyasnit") to give the remark its edge.
+- 'What do you mean, 'too'?' Speaking briskly at once, Barinov puts the question word "chto" right at the start so Kostya hears the focus immediately.
+- 'No, not 'too'.' Kostya jumps in honestly with Barinov, steering the talk right where he wants it.
+- 'Sasha cheated on you with Ilya.' Barinov responds openly at once and centers the thought on "izmenila" ("would change", from "izmenit") without wasting a word.
+- 'I wanted to tell you about it a long time ago.' Barinov weighs in at once across the room, leaving no doubt about where he stands.
+- 'Who else has not slept with Sasha yet, huh?' Kostya inquires straight out about what Sasha just brought up.
+- 'Chef, this bastard slept with Sasha.' Turning to the goat beside Barinov, Kostya centers the thought on "kozel" ("goat", from "kozyol") without wasting a word.
+- 'It is the truth.' Dwelling on the honestly during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.

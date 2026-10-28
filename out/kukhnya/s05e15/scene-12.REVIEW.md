@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dad, why did you come back here to me again?' Nikita probes firmly how the guest expects that to work in practice.
-- 'First of all, I did not know that you work right here.' The guest stresses one vivid word in reply: "vo-pervykh" means "first of all", and it carries the main weight of what the guest is saying.
-- 'And second, enough already, you have proved everything to me!' The guest favors one pointed expression in reply: "vo-vtorykh" means "second", and it carries the main weight of what the guest is saying.
-- 'You got the job yourself and honestly worked a whole day.' The guest replies steadily without any doubt, steering the talk right where he wants it.
-- 'If you are not going to order anything, I will go.' Nikita favors one vivid piece right here: "zakazyvat" means "to order", and it carries the main weight of what Nikita is saying.
-- 'Victoria, be so kind as to bring us the menu now.' The guest follows up wryly to settle things, shifting the whole mood of the room in a single beat.
-- 'Of course, good evening, please come to your table.' Vika continues firmly without a pause, watching the guest's face to see how the news lands.
-- 'And finally show us your famous edible menu!' The guest centers this sharp piece with Vika: "znamenitoye" means "famous" (from "znamenityy"), giving the line its exact edge.
-- 'Or is it not ready again at your place today?' The guest frames that point calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Of course it is ready, I will quickly bring it to you right now.' Vika jumps in honestly facing Nikita, saying out loud what both of them already know.
-- 'Then bring two right away, one will not fill us up!' The guest grounds this telling piece in earnest: "nayedimsya" means "eat one's fill" (from "nayestsya"), giving the line its exact edge.
-- 'Max, help me out, where is our new edible menu?' Vika frames that reply frankly here: putting the question word "gde" right at the front of the line lets Nikita hear the point of the question on the very first beat.
+- 'Dad, why did you come back here to me again?' Nikita probes firmly what the guest is actually getting at here.
+- 'First of all, I did not know that you work right here.' The guest counters frankly on the spot and centers the remark on "vo-pervykh" ("first of all") without any extra fuss.
+- 'And second, enough already, you have proved everything to me!' The guest steps in bluntly watching Nikita, without trying to dress up how he really feels.
+- 'You got the job yourself and honestly worked a whole day.' The guest jumps in steadily watching Nikita, testing Nikita's reaction in the middle of the exchange.
+- 'If you are not going to order anything, I will go.' Nikita speaks sharply on the spot and centers the remark on "zakazyvat" ("to order") without any extra fuss.
+- 'Victoria, be so kind as to bring us the menu now.' Talking about the menu to Nikita, the guest centers the thought on "prinesite" ("bring", from "prinesti") without wasting a word.
+- 'Of course, good evening, please come to your table.' Vika reacts firmly without holding back, keeping the focus on what actually matters here.
+- 'And finally show us your famous edible menu!' Turning to the menu in this beat, the guest brings in "znamenitoye" ("famous", from "znamenityy") as the key Russian word here.
+- 'Or is it not ready again at your place today?' Explaining how ready things are to Vika, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Of course it is ready, I will quickly bring it to you right now.' Vika speaks up honestly on the spot, keeping the focus on what actually matters here.
+- 'Then bring two right away, one will not fill us up!' The guest continues plainly beside Vika and leans on "nayedimsya" ("eat one's fill", a form of "nayestsya") to give the remark its edge.
+- 'Max, help me out, where is our new edible menu?' Showing how edible things are with the guest, Vika puts the question word "gde" right at the start so the guest hears the focus immediately.

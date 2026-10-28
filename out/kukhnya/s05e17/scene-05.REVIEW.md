@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, get in the car, I will explain.' Nikita cuts in quietly without a pause, refusing to let the moment slip past.
-- 'You have to hear me out right now.' Nikita replies right away facing Katya, bringing things back to earth after the buildup.
-- 'Whose car did you have yesterday?' Katya reaches for one pointed expression right here: "mashina" means "a car", and it carries the main weight of what Katya is saying.
-- 'Honestly speaking, I do not know.' Nikita fires back plainly with a smile, testing Katya's reaction in the middle of the exchange.
-- 'I simply stole that car.' Nikita stands firm briskly with a shrug, testing Eleonora's reaction in the middle of the exchange.
-- 'That sounds very unexpected.' Katya grounds one clear word for Nikita: "neozhidanno" means "unexpected", and it carries the main weight of what Katya is saying.
-- 'Not everyone's mother owns a hotel.' Nikita proceeds dryly to be clear, leaving no doubt about where he stands.
-- 'I steal expensive cars to order.' Nikita continues openly with a sigh, saying out loud what both of them already know.
-- 'That is the kind of side job I have.' Nikita centers one sharp touch in earnest: "prirabotok" means "side job", and it carries the main weight of what Nikita is saying.
-- 'Good morning, have you seen Mikhail?' Eleonora states this line frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Nikita purely through rising pitch at the end.
-- 'The two of you have grown closer lately.' Eleonora proceeds boldly facing Katya, before Katya can change the subject.
-- 'Alright, I will look for him myself.' Eleonora uses this key element right here: "poishchu" means "will look for" (from "poiskat"), giving the line its exact edge.
+- 'Katya, get in the car, I will explain.' Focusing on the car at once, Nikita lands on "mashinu" ("car", built on "mashina") to keep the statement grounded.
+- 'You have to hear me out right now.' Nikita proceeds right away facing Katya, letting the remark speak for itself.
+- 'Whose car did you have yesterday?' Mentioning the car in this beat, Katya chooses "mashina" ("a car") so Nikita gets the point right away.
+- 'Honestly speaking, I do not know.' Nikita counters dryly before Katya and brings in "chestno" ("honestly") to make the meaning unmistakable.
+- 'I simply stole that car.' Nikita fires back briskly in this moment, so Katya knows he is not just making small talk.
+- 'That sounds very unexpected.' Katya fires back directly in this beat and brings in "neozhidanno" ("unexpected") to make the meaning unmistakable.
+- 'Not everyone's mother owns a hotel.' Pointing to the hotels at once, Nikita uses "otelyami" ("hotels", from "otel") to make the point stick.
+- 'I steal expensive cars to order.' Nikita responds openly with a nod, watching Katya's face to see how the news lands.
+- 'That is the kind of side job I have.' Highlighting the side job to Eleonora, Nikita centers the remark on "prirabotok" ("side job") without any extra fuss.
+- 'Good morning, have you seen Mikhail?' Speaking dryly right here, Eleonora keeps normal statement word order here, turning the line into a question for Nikita purely through rising pitch.
+- 'The two of you have grown closer lately.' Eleonora speaks up boldly during the talk, shifting the mood of the conversation in a single beat.
+- 'Alright, I will look for him myself.' Eleonora gently speaks this word of agreement without hesitation using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".

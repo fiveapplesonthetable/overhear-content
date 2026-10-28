@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What on earth are you doing here?' Nagiyev puts this line beside Katya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'That is my new car!' Nagiyev opens up boldly without holding back, testing Max's reaction in the middle of the exchange.
-- 'And what if I had been sitting inside?' Nagiyev spotlights one colorful detail in reply: "vnutri" means "inside", and it carries the main weight of what Nagiyev is saying.
-- 'That old man had a real grenade!' Max answers candidly to settle things, leaving no doubt about where he stands.
-- 'Catch these bandits quickly!' Nagiyev answers right away in this moment, shifting the whole mood of the room in a single beat.
-- 'They are the ones who caused the explosion here!' Nagiyev uses one loaded choice with Max: "ustroili" means "to arrange" (from "ustroit"), giving the line its exact edge.
-- 'Katya, what if the landlady comes back again?' Max gives that remark with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'It is your apartment and your problems.' Katya continues pointedly without a pause, testing Nagiyev's reaction in the middle of the exchange.
-- 'Well stay for at least a couple of hours.' Max points to this vivid detail on cue: "ostansya" means "to remain, to be left" (from "ostatsya"), giving the line its exact edge.
-- 'I almost got in trouble because of you too.' Katya highlights one practical word in reply: "popala" means "got hit" (from "popast"), giving the line its exact edge.
-- 'You said yourself that we are even.' Katya weighs in right away as things stand, steering the talk right where she wants it.
-- 'Katya, wait a moment, do not leave right now.' Max frames one classic element in earnest: "seychas" means "now", and it carries the main weight of what Max is saying.
+- 'What on earth are you doing here?' Turning dryly before Max, Nagiyev drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'That is my new car!' Nagiyev responds boldly in this moment, before Max can change the subject.
+- 'And what if I had been sitting inside?' Nagiyev jumps in promptly with Max and lands on "vnutri" ("inside") as the key everyday word here.
+- 'That old man had a real grenade!' Bringing up the grandfathers in the exchange, Max brings in "realnaya" ("real", from "realnyy") as the key Russian word here.
+- 'Catch these bandits quickly!' Nagiyev responds right away facing Max, shifting the mood of the conversation in a single beat.
+- 'They are the ones who caused the explosion here!' Bringing up the explosion in front of Max, Nagiyev reaches for the Russian word "vzryv" ("explosion") right at the heart of the line.
+- 'Katya, what if the landlady comes back again?' Bringing up the landlady with Katya, Max keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'It is your apartment and your problems.' Katya reacts pointedly in their talk, grounding the moment in plain reality.
+- 'Well stay for at least a couple of hours.' Emphasizing the clock during the talk, Max brings in "chasov" ("o'clock", from "chas") as the key Russian word here.
+- 'I almost got in trouble because of you too.' Katya proceeds pointedly with a sigh, leaving no doubt about where she stands.
+- 'You said yourself that we are even.' Katya proceeds right away across the room, without trying to dress up how she really feels.
+- 'Katya, wait a moment, do not leave right now.' Max follows up dryly beside Katya and leans on "pogodi" ("wait", a form of "pogodit") to give the remark its edge.

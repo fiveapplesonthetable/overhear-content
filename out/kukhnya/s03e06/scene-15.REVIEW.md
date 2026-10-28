@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Be a man, simply step aside.' Nagiyev cuts in warmly during the talk, testing Barinov's reaction in the middle of the exchange.
-- 'Alright, I understand you perfectly.' Max colors one colorful expression right here: "prekrasno" means "perfectly", and it carries the main weight of what Max is saying.
-- 'I cannot fire you right now.' Nagiyev shapes that point calmly now: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'After all, I gave my honest word.' Nagiyev proceeds firmly across the room, to clear the air between them once and for all.
-- 'Even though you are much younger than me.' Nagiyev colors one direct expression with Barinov: "molozhe" means "younger" (from "molodoy"), giving the line its exact edge.
-- 'Tell me, do I sign everything here?' Max sends this answer before Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'To you, dear friend, happy anniversary!' Barinov fires back wryly during the talk, steering the talk right where he wants it.
-- 'Well, how is our second banquet over there?' Barinov points to this clear element on cue: "vtoroy" means "second", and it carries the main weight of what Barinov is saying.
-- 'It has not started yet, but the guests are already gathering.' Max phrases the reply in earnest: the "-sya" ending on "sobirayutsya" ("gather, are gathering") turns the action inward or makes it happen between people naturally.
-- 'Chef, it seems heavy rain is brewing.' Max stands firm frankly to be clear, saying out loud what both of them already know.
-- 'No, there will be no rain today.' Barinov emphasizes one memorable word for Max: "dozhdya" means "rain" (from "dozhd"), giving the line its exact edge.
-- 'Alright, then we keep working.' Max voices this warning without fuss: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nagiyev is on board.
+- 'Be a man, simply step aside.' Nagiyev opens up warmly with a smile, grounding the moment in plain reality.
+- 'Alright, I understand you perfectly.' Max proceeds naturally around Nagiyev and leans on "prekrasno" ("perfectly") to give the whole sentence its punch.
+- 'I cannot fire you right now.' Nagiyev opens up calmly around Max, steering the talk right where he wants it.
+- 'After all, I gave my honest word.' Nagiyev jumps in firmly on the spot, making his position completely clear.
+- 'Even though you are much younger than me.' Stressing how younger Max is with Max, Nagiyev reaches for the Russian word "molozhe" ("younger", built from "molodoy") right at the center of the line.
+- 'Tell me, do I sign everything here?' Speaking candidly in this beat, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'To you, dear friend, happy anniversary!' Barinov speaks up wryly across the room, leaving no doubt about where he stands.
+- 'Well, how is our second banquet over there?' Confirming how second things are to Max, Barinov uses "vtoroy" ("second") to carry the main weight of the thought.
+- 'It has not started yet, but the guests are already gathering.' Discussing the visitors before Barinov, the "-sya" ending on "sobirayutsya" ("gather, are gathering") marks an action that unfolds mutually or turns back on the speaker.
+- 'Chef, it seems heavy rain is brewing.' Max proceeds frankly with a sigh, steering the talk right where he wants it.
+- 'No, there will be no rain today.' Highlighting the rain to Max, Barinov puts the weight on "dozhdya" ("rain", from "dozhd") as the exchange unfolds.
+- 'Alright, then we keep working.' Max promptly chooses this word of agreement as they meet using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".

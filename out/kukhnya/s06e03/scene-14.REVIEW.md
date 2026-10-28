@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you learned the lines by heart already?' Nagiyev lays out this point with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'One question is bothering me, why?' Barinov asks evenly before Nikita can change the subject.
-- 'After all, a doctor heals people, and you break bones.' Barinov highlights one loaded term toward Nagiyev: "lomayesh" means "to break" (from "lomat"), giving the line its exact edge.
-- 'Vitya, this is high art!' Nagiyev directs this answer for Nikita: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He is always right, do you understand?' Nagiyev checks candidly as Barinov tries to explain the situation.
-- 'What nonsense this is.' Barinov frames one loaded term in reply: "bred" means "nonsense", and it carries the main weight of what Barinov is saying.
-- 'Alright, enough eating, let's work!' Nagiyev gives the comment briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'What are you doing, I was playing the ball!' Barinov proceeds candidly to settle things, steering the talk right where he wants it.
-- 'You almost broke my leg, do you hear?' Barinov highlights one familiar expression on cue: "slyshish" means "hear" (from "slyshat"), giving the line its exact edge.
-- 'Guys, why did you get so worked up?' Nikita shares this statement plainly here: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'Let's do it this way, we take a penalty kick against you and call it a day.' Barinov reacts briskly watching Nagiyev, leaving no doubt about where he stands.
-- 'Look who appointed himself referee, fine, I am in goal.' Nikita points to this sharp detail with Nagiyev: "nashelsya" means "to turn up" (from "naytis"), giving the line its exact edge.
+- 'Have you learned the lines by heart already?' Discussing the text in the exchange, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'One question is bothering me, why?' Barinov asks evenly where this conversation is heading next.
+- 'After all, a doctor heals people, and you break bones.' Touching on a doctor at once, Barinov centers the remark on "vrach" ("doctor") without any extra fuss.
+- 'Vitya, this is high art!' Checking on the art before Barinov, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He is always right, do you understand?' Nagiyev checks candidly before Barinov can change the subject.
+- 'What nonsense this is.' Bringing up the nonsense to Nagiyev, Barinov uses "bred" ("nonsense") to carry the main weight of the thought.
+- 'Alright, enough eating, let's work!' Weighing in calmly beside Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'What are you doing, I was playing the ball!' Barinov speaks candidly with a shrug, testing Nagiyev's reaction in the middle of the exchange.
+- 'You almost broke my leg, do you hear?' Bringing up the foot around Nikita, Barinov uses "slyshish" ("hear", from "slyshat") to make the point stick.
+- 'Guys, why did you get so worked up?' Following up boldly in this beat, Nikita puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Let's do it this way, we take a penalty kick against you and call it a day.' Barinov reacts briskly with a nod, so Nikita knows he is not just making small talk.
+- 'Look who appointed himself referee, fine, I am in goal.' Pointing to the judge beside Barinov, Nikita reaches for the Russian word "nashelsya" ("to turn up", built from "naytis") right at the center of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All the paintings were painted by me personally.' Eleonora holds firm at once across the room, before Barinov can change the subject.
-- 'Any of them can be purchased.' Eleonora spotlights one concrete word in reply: "priobresti" means "to purchase", and it carries the main weight of what Eleonora is saying.
-- 'The money will go to charity.' Eleonora sends that remark with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And this right here is my pride.' Eleonora responds frankly without a pause, steering the talk right where she wants it.
-- 'It is called 'Ex-Husband.'' Eleonora underscores this sharp term for Barinov: "nazyvayetsya" means "is called" (from "nazyvatsya"), giving the line its exact edge.
-- 'And I will bring champagne.' Barinov shares the reaction toward Eleonora: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I see he still has not confessed to you.' Eleonora proceeds openly facing Barinov, steering the talk right where she wants it.
-- 'Lena, I do not want to deceive you.' Eleonora favors one pointed expression in reply: "obmanyvat" means "to deceive", and it carries the main weight of what Eleonora is saying.
-- 'My first husband is Victor Petrovich.' Eleonora hands over this answer around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Which Victor Petrovich?' Elena prompts quietly how Eleonora expects that to work in practice.
-- 'Because he is a coward and a liar.' Eleonora underscores one vivid piece with Barinov: "lzhets" means "liar", and it carries the main weight of what Eleonora is saying.
-- 'They called me from work, I will go.' Barinov counters bluntly toward Eleonora, making his position completely clear.
+- 'All the paintings were painted by me personally.' Eleonora continues at once with a nod, testing Barinov's reaction in the middle of the exchange.
+- 'Any of them can be purchased.' Eleonora weighs in smoothly right here and brings in "priobresti" ("to purchase") to make the meaning unmistakable.
+- 'The money will go to charity.' Dwelling on the charity in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And this right here is my pride.' Touching on her pride with a nod, Eleonora lets Barinov see exactly where things stand.
+- 'It is called 'Ex-Husband.'' Focusing on the husband in the exchange, Eleonora leans on "nazyvayetsya" ("is called", a form of "nazyvatsya") to give the remark its edge.
+- 'And I will bring champagne.' Addressing the champagne before Eleonora, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I see he still has not confessed to you.' Eleonora counters openly on the spot, testing Barinov's reaction in the middle of the exchange.
+- 'Lena, I do not want to deceive you.' Eleonora jumps in briskly beside Barinov and puts the emphasis on "obmanyvat" ("to deceive") in the middle of the talk.
+- 'My first husband is Victor Petrovich.' Explaining how first things are around Barinov, Eleonora links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Which Victor Petrovich?' Elena prompts quietly what Barinov is actually getting at here.
+- 'Because he is a coward and a liar.' Emphasizing a liar with Elena, Eleonora centers the remark on "lzhets" ("liar") without any extra fuss.
+- 'They called me from work, I will go.' Bringing up the work around Eleonora, Barinov brings in "raboty" ("of work", from "rabota") as the key Russian word here.

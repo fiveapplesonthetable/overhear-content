@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The prefect ordered the promotional entrecote.' Mikhail answers earnestly on the spot, without trying to dress up how he really feels.
-- 'Come on, Nikolai Maryanovich, there is just a tiny bit left!' Mikhail chooses one classic detail at once: "chut-chut" means "a little bit", and it carries the main weight of what Mikhail is saying.
-- 'He will come right back and finish eating.' Mikhail lays out that reply without pause: the "-sya" ending on "vernyotsya" ("will return") turns the action inward or makes it happen between people naturally.
-- 'And now it turns out I am a crazy fool.' Katya reacts decisively facing Mikhail, steering the talk right where she wants it.
-- 'Do not cry, everything will be fine.' Fedya grounds one concrete detail in reply: "khorosho" means "good, fine", and it carries the main weight of what Fedya is saying.
-- 'Thank you.' Katya voices that remark with ease: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'You love him, and he does not understand!' Fedya counters frankly facing Katya, so Katya knows he is not just making small talk.
-- 'What did he tell you yesterday?' Fedya spotlights one direct term in reply: "vchera" means "yesterday", and it carries the main weight of what Fedya is saying.
-- 'When I saw you, I immediately understood everything.' Fedya emphasizes one classic term with Katya: "uvidel" means "saw" (from "uvidet"), giving the line its exact edge.
-- 'A girl like you must be valued and loved.' Fedya counters sharply in this moment, keeping the focus on what actually matters here.
-- 'When I look into your eyes, I understand everything.' Fedya features one practical piece in reply: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
-- 'In these eyes my boat will sink.' Fedya weighs in plainly in their talk, keeping the focus on what actually matters here.
+- 'The prefect ordered the promotional entrecote.' Mikhail chimes in earnestly on the spot, making his position completely clear.
+- 'Come on, Nikolai Maryanovich, there is just a tiny bit left!' Mikhail speaks up briskly in this beat and chooses "chut-chut" ("a little bit") so Katya gets the point right away.
+- 'He will come right back and finish eating.' Following up directly around Katya, the "-sya" ending on "vernyotsya" ("will return") marks an action that unfolds mutually or turns back on the speaker.
+- 'And now it turns out I am a crazy fool.' Katya chimes in decisively facing Mikhail, without trying to dress up how she really feels.
+- 'Do not cry, everything will be fine.' Fedya proceeds briskly during the talk and reaches for the Russian word "khorosho" ("good, fine") right at the heart of the line.
+- 'Thank you.' Katya lightly chooses this word of thanks toward Fedya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'You love him, and he does not understand!' Fedya counters frankly without any doubt, grounding the moment in plain reality.
+- 'What did he tell you yesterday?' Fedya weighs in sharply on the spot and lands on "vchera" ("yesterday") as the key everyday word here.
+- 'When I saw you, I immediately understood everything.' Fedya fires back calmly without any doubt, to clear the air between them once and for all.
+- 'A girl like you must be valued and loved.' Turning to the young woman across the room, Fedya puts the real issue right on the table for Katya.
+- 'When I look into your eyes, I understand everything.' Highlighting the eyes during the talk, Fedya brings in "glaza" ("eyes", from "glaz") as the key Russian word here.
+- 'In these eyes my boat will sink.' Discussing the eye during the talk, Fedya uses "glazakh" ("eye", from "glaz") to make the point stick.

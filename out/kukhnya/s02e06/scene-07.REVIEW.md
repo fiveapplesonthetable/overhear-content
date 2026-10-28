@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what, he kept you on the job after that?' Barinov underscores one classic touch in earnest: "ostavil" means "left" (from "ostavit"), giving the line its exact edge.
-- 'Yes, he said I had guts.' Lyova opens up promptly without a pause, watching Barinov's face to see how the news lands.
-- 'Lyova, did you really screw up too?' Barinov quizzes quietly where this conversation is heading next.
-- 'No way, I will never believe that.' Lyova focuses on one memorable expression on cue: "nikogda" means "never", and it carries the main weight of what Lyova is saying.
-- 'Oh really, never?' Barinov brings that thought facing Lyova: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Lyova is on board.
+- 'And what, he kept you on the job after that?' Barinov continues earnestly in the exchange and chooses "ostavil" ("left", from the root "ostavit") so Lyova hears the exact meaning.
+- 'Yes, he said I had guts.' Underscoring the real man in this beat, Lyova leans on "muzhik" ("a real man") to give the whole sentence its punch.
+- 'Lyova, did you really screw up too?' Barinov quizzes quietly why things suddenly took this turn between them.
+- 'No way, I will never believe that.' Lyova pushes back candidly in front of Barinov and reaches for the Russian word "nikogda" ("never") right at the heart of the line.
+- 'Oh really, never?' Barinov simply offers this word of agreement with Lyova using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
 - 'Should I remind you?' Lyova probes firmly if there is more going on behind the scenes.
-- 'My good man, bring me some cognac.' Barinov highlights one vivid piece at once: "uvazhayemyy" means "respected, esteemed", and it carries the main weight of what Barinov is saying.
-- 'Which one would you like?' Lyova delivers that point in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'The most expensive one.' Barinov reacts steadily with a nod, leaving no doubt about where he stands.
-- 'I used to have a certain regular guest.' Lyova underscores this sharp expression toward Barinov: "postoyannyy" means "regular", and it carries the main weight of what Lyova is saying.
-- 'And I was the only one who cooked for that regular guest.' Barinov counters sharply with a nod, grounding the moment in plain reality.
-- 'A warm seafood salad.' Lyova responds evenly around Barinov, leaving no doubt about where he stands.
-- 'Well, one day, for instance, I was out sick.' Barinov uses one key choice in reply: "naprimer" means "for example", and it carries the main weight of what Barinov is saying.
+- 'My good man, bring me some cognac.' Touching on the cognac with Lyova, Barinov lands on "uvazhayemyy" ("respected, esteemed") as the key everyday word here.
+- 'Which one would you like?' Jumping in calmly beside Barinov, Lyova keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'The most expensive one.' Barinov opens up steadily with a sigh, letting the remark speak for itself.
+- 'I used to have a certain regular guest.' Emphasizing the guest in the exchange, Lyova lands on "postoyannyy" ("regular") as the key everyday word here.
+- 'And I was the only one who cooked for that regular guest.' Bringing up the guest in front of Lyova, Barinov lands on "postoyannomu" ("regular, permanent", built on "postoyannyy") to keep the statement grounded.
+- 'A warm seafood salad.' Lyova chimes in evenly without a pause, grounding the moment in plain reality.
+- 'Well, one day, for instance, I was out sick.' Barinov fires back sharply during the talk and lands on "naprimer" ("for example") as the key everyday word here.

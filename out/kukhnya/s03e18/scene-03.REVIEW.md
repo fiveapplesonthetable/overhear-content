@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of chaos have they caused in my kitchen?' Barinov checks earnestly why things suddenly took this turn between them.
-- 'But our menu is simply sacred!' Barinov favors this key term right here: "svyatoye" means "holy, sacred" (from "svyatoy"), giving the line its exact edge.
-- 'And all this new stuff is total nonsense!' Barinov offers this point beside Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Are you sitting comfortably in the armchair right now?' Nagiyev tests sharply if there is more going on behind the scenes.
-- 'From everything said, I gathered that you are angry.' Nagiyev focuses on this key element toward Barinov: "skazannogo" means "said" (from "skazat"), giving the line its exact edge.
-- 'When you are nervous, your mustache twitches.' Nagiyev drops the remark without pause: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'I would be very glad to help you.' Nagiyev replies honestly without holding back, before Barinov can change the subject.
-- 'But unfortunately, you will have to swallow this.' Nagiyev points to this vivid word with Max: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
-- 'Because I sold our restaurant completely.' Nagiyev answers openly watching Barinov, bringing things back to earth after the buildup.
-- 'What do you mean sold? Did you sell it completely?' Barinov checks evenly before Nagiyev can change the subject.
-- 'I thought you would keep at least a part for yourself.' Barinov picks one practical choice at once: "ostavish" means "you will keep" (from "ostavit"), giving the line its exact edge.
-- 'Now our restaurant has completely different owners.' Max states this update toward Nagiyev: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'What kind of chaos have they caused in my kitchen?' Barinov checks earnestly before Nagiyev can change the subject.
+- 'But our menu is simply sacred!' Emphasizing how holy things are with Nagiyev, Barinov lands on "svyatoye" ("holy, sacred", built on "svyatoy") to keep the statement grounded.
+- 'And all this new stuff is total nonsense!' Noting how complete things are around Nagiyev, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Are you sitting comfortably in the armchair right now?' Nagiyev tests sharply what Barinov is actually getting at here.
+- 'From everything said, I gathered that you are angry.' Nagiyev answers decisively on the spot and uses "zlishsya" ("to be angry", from "zlitsya") to make the point stick.
+- 'When you are nervous, your mustache twitches.' Talking about the mustache during the talk, Nagiyev uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'I would be very glad to help you.' Nagiyev steps in honestly with Barinov, so Barinov knows he is not just making small talk.
+- 'But unfortunately, you will have to swallow this.' Focusing on the regret during the talk, Nagiyev brings in "sozhaleniyu" ("regret", from "sozhaleniye") as the key Russian word here.
+- 'Because I sold our restaurant completely.' Underscoring his restaurant during the talk, Nagiyev uses "restoran" ("restaurant") to carry the main weight of the thought.
+- 'What do you mean sold? Did you sell it completely?' Barinov checks evenly about what Nagiyev just brought up.
+- 'I thought you would keep at least a part for yourself.' Emphasizing a part during the talk, Barinov brings in "ostavish" ("you will keep", from "ostavit") as the key Russian word here.
+- 'Now our restaurant has completely different owners.' Bringing up the owner at once, Max adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.

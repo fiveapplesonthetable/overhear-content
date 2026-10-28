@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How sick and tired I am of all of them!' Max responds bluntly during the talk, so Katya knows he is not just making small talk.
-- 'Hey, hero, how much longer do we have to wait for you?' Lyova chooses this sharp piece toward Max: "yeshchyo" means "more, still", and it carries the main weight of what Lyova is saying.
-- 'Yes, I am coming out right now.' Max responds warmly watching Katya, letting the remark speak for itself.
-- 'Lyova, my vision is going dark and my head is spinning.' Max follows up firmly with Lyova, steering the talk right where he wants it.
-- 'It is probably blood pressure, maybe I can rest at home?' Max chooses one direct expression right here: "davleniye" means "blood pressure", and it carries the main weight of what Max is saying.
-- 'Of course, go home, I am letting you leave.' Lyova sharpens one familiar piece on cue: "otpuskayu" means "let go, give leave" (from "otpuskat"), giving the line its exact edge.
-- 'Dad, do you have any conscience at all?' Katya probes firmly what Lyova is actually getting at here.
-- 'What is wrong, did you and Stas have a fight?' Max anchors one clear term at once: "possorilis" means "had a fight" (from "possoritsya"), giving the line its exact edge.
-- 'Take your money, Stas told me everything!' Katya jumps in wryly around Lyova, before Lyova can change the subject.
+- 'How sick and tired I am of all of them!' Max continues bluntly during the talk, to clear the air between them once and for all.
+- 'Hey, hero, how much longer do we have to wait for you?' Addressing the hero in the exchange, Lyova brings in "geroy" ("hero") to make the meaning unmistakable.
+- 'Yes, I am coming out right now.' Max speaks up calmly in this beat and lands on "vykhozhu" ("get out, go out", built on "vykhodit") to keep the statement grounded.
+- 'Lyova, my vision is going dark and my head is spinning.' Max follows up firmly watching Lyova, keeping the focus on what actually matters here.
+- 'It is probably blood pressure, maybe I can rest at home?' Talking about the blood pressure on the spot, Max brings in "davleniye" ("blood pressure") to make the meaning unmistakable.
+- 'Of course, go home, I am letting you leave.' Lyova jumps in warmly with a shrug, bringing things back to earth after the buildup.
+- 'Dad, do you have any conscience at all?' Katya probes firmly while looking straight at Max here.
+- 'What is wrong, did you and Stas have a fight?' Max steps in warmly in the exchange and reaches for the Russian word "possorilis" ("had a fight", built from "possoritsya") right at the center of the line.
+- 'Take your money, Stas told me everything!' Pointing to the money in the exchange, Katya reaches for the Russian word "dengi" ("money") right at the heart of the line.
 - 'What do you mean told you, what money?' Max quizzes point-blank why things suddenly took this turn between them.
-- 'Good Lord, how pathetic you really are!' Katya features one clear piece in earnest: "zhalkiy" means "pathetic, pitiful", and it carries the main weight of what Katya is saying.
-- 'Katya, wait, listen to me!' Max shares that point with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Good Lord, how pathetic you really are!' Highlighting how pathetic things are in the exchange, Katya uses "zhalkiy" ("pathetic, pitiful") to carry the main weight of the thought.
+- 'Katya, wait, listen to me!' Turning directly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

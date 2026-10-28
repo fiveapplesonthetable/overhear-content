@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, your mushrooms turned out very tasty.' Denis fires back honestly without holding back, refusing to let the moment slip past.
-- 'We should tell the chef to transfer you to the kitchen.' Denis grounds one concrete expression right here: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'Especially since you already have a signature dish.' Denis makes that thought toward Kostya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'What a good guy you are, isn't that right, Katya?' Nastya checks wryly in front of Kostya without any preamble.
-- 'It is so nice that Nikita came to our place today.' Nastya underscores this sharp element toward Denis: "khorosho" means "good, fine", and it carries the main weight of what Nastya is saying.
-- 'It is always so cheerful at the table with him!' Nastya delivers the comeback with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Let me pour you some red wine instead.' Kostya chimes in firmly in this moment, shifting the whole mood of the room in a single beat.
-- 'Better make him your great cocktail instead!' Nastya uses one practical piece at once: "otlichnyy" means "excellent, great", and it carries the main weight of what Nastya is saying.
-- 'Come on, Nastya, what are you talking about?' Denis phrases that thought beside Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'From that strong cocktail I will pass out right away.' Denis steps in promptly with a sigh, to clear the air between them once and for all.
-- 'Kostya makes it when he needs to get rid of someone.' Denis centers one familiar choice in earnest: "gotovit" means "cooks", and it carries the main weight of what Denis is saying.
-- 'Kostya, may I have a word with you right now?' Nastya aims the comeback without fuss: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Nastya, your mushrooms turned out very tasty.' Denis proceeds honestly during the talk, leaving no doubt about where he stands.
+- 'We should tell the chef to transfer you to the kitchen.' Discussing the kitchen during the talk, Denis uses "kukhnyu" ("kitchen", from "kukhnya") to make the point stick.
+- 'Especially since you already have a signature dish.' Returning to a signature dish to Nastya, Denis uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'What a good guy you are, isn't that right, Katya?' Nastya checks wryly what Denis is actually getting at here.
+- 'It is so nice that Nikita came to our place today.' Nastya pushes back frankly in the exchange and lands on "khorosho" ("good, fine") as the key everyday word here.
+- 'It is always so cheerful at the table with him!' Pointing to the table around Kostya, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Let me pour you some red wine instead.' Kostya chimes in firmly facing Nastya, making his position completely clear.
+- 'Better make him your great cocktail instead!' Bringing up the cocktail during the talk, Nastya lands on "otlichnyy" ("excellent, great") as the key everyday word here.
+- 'Come on, Nastya, what are you talking about?' Pressing on directly with Nastya, Denis puts the question word "chto" right at the start so Nastya hears the focus immediately.
+- 'From that strong cocktail I will pass out right away.' Denis weighs in promptly beside Nastya, without trying to dress up how he really feels.
+- 'Kostya makes it when he needs to get rid of someone.' Denis pushes back frankly with Kostya and uses "gotovit" ("cooks") to carry the main weight of the thought.
+- 'Kostya, may I have a word with you right now?' Focusing on the couple around Kostya, Nastya leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".

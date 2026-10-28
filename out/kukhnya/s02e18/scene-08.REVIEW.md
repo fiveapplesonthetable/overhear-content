@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And I had to go buy a brand-new batch.' Max hands over that thought to Barinov: the "-sya" ending on "prishlos" ("had to, it fell to") turns the action inward or makes it happen between people naturally.
-- 'You have been given a lot more authority now.' Barinov answers promptly toward Timur, making his position completely clear.
-- 'There are excellent snails in the fridge, I checked them myself.' Timur chooses one memorable expression with Barinov: "kholodilnike" means "fridge" (from "kholodilnik"), giving the line its exact edge.
-- 'Before we manage to sell it all.' Max offers the remark to Timur: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Chef, where are you heading off to?' Timur tests skeptically what Barinov is actually getting at here.
-- 'There will be at most one and a half people here today.' Timur favors this telling detail right here: "maksimum" means "maximum", and it carries the main weight of what Timur is saying.
-- 'I will be back in the evening.' Max offers this update facing Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Wait, where is everybody?' Barinov questions straight out what Timur is actually getting at here.
-- 'Two huge barges.' Timur focuses on one sharp choice on cue: "ogromnykh" means "huge" (from "ogromnyy"), giving the line its exact edge.
-- 'Oh, come on now.' Max shapes that reply with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Timur is on board.
-- 'I do not get it, what kind of nonsense is this?' Barinov presses eagerly in front of Max without any preamble.
-- 'Oh, take it easy.' Timur drops that thought to Max: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Max is on board.
-- 'Excuse me, please, how will you manage to seat us?' Max gives the comeback with candor: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'And I had to go buy a brand-new batch.' Max pushes back smoothly in the exchange and lands on "novuyu" ("new", built on "novyy") to keep the statement grounded.
+- 'You have been given a lot more authority now.' Barinov chimes in promptly around Max, making his position completely clear.
+- 'There are excellent snails in the fridge, I checked them myself.' Addressing the fridge to Barinov, Timur uses "kholodilnike" ("fridge", from "kholodilnik") to make the point stick.
+- 'Before we manage to sell it all.' Replying directly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Chef, where are you heading off to?' Timur tests skeptically while looking straight at Barinov here.
+- 'There will be at most one and a half people here today.' Addressing the maximum beside Max, Timur uses "maksimum" ("maximum") to carry the main weight of the thought.
+- 'I will be back in the evening.' Following up earnestly around Timur, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Wait, where is everybody?' Barinov questions straight out how Timur expects that to work in practice.
+- 'Two huge barges.' Turning to the barge at once, Timur centers the thought on "ogromnykh" ("huge", from "ogromnyy") without wasting a word.
+- 'Oh, come on now.' Max firmly delivers this word of agreement to Timur using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'I do not get it, what kind of nonsense is this?' Barinov presses eagerly to see how Timur will answer on the spot.
+- 'Oh, take it easy.' Timur simply offers this word of agreement in the exchange using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Excuse me, please, how will you manage to seat us?' Cutting in boldly at once, the "-sya" ending on "poluchitsya" ("will come out") marks an action that unfolds mutually or turns back on the speaker.

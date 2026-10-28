@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi everyone, my dear honest company!' Barinov grounds this sharp choice at once: "chestnaya" means "an honest one" (from "chestnyy"), giving the line its exact edge.
-- 'I see you are all still holding a grudge against me?' Barinov puts this answer in earnest: the "-sya" ending on "obizhayetes" ("to take offence") turns the action inward or makes it happen between people naturally.
-- 'Forgive me for my bad behavior.' Barinov cuts in evenly with a sigh, bringing things back to earth after the buildup.
-- 'After all, I did not say all those things out of malice.' Barinov anchors one classic detail in reply: "nagovoril" means "told" (from "nagovorit"), giving the line its exact edge.
-- 'And life has already punished me for that.' Barinov opens up steadily without holding back, to clear the air between them once and for all.
-- 'Yes, I know that I am no angel.' Barinov opens up evenly without any doubt, before Senya can change the subject.
-- 'But you are my closest people.' Barinov emphasizes one classic choice at once: "blizkiye" means "close, near" (from "blizkiy"), giving the line its exact edge.
-- 'I am too old to look for new friends.' Barinov pushes back candidly in this moment, letting the remark speak for itself.
-- 'And besides, I do not need new friends.' Barinov continues earnestly toward Fedya, shifting the whole mood of the room in a single beat.
-- 'I also wanted to pay back my old debts to you.' Barinov uses this key piece in reply: "staryye" means "old" (from "staryy"), giving the line its exact edge.
-- 'Chef, that is what you should have started with!' Senya sends that answer briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'We are very glad to see you home, Chef!' Fedya pushes back wryly to settle things, shifting the whole mood of the room in a single beat.
+- 'Hi everyone, my dear honest company!' Addressing the company in this beat, Barinov lands on "chestnaya" ("an honest one", built on "chestnyy") to keep the statement grounded.
+- 'I see you are all still holding a grudge against me?' Cutting in candidly around Senya, the "-sya" ending on "obizhayetes" ("to take offence") marks an action that unfolds mutually or turns back on the speaker.
+- 'Forgive me for my bad behavior.' Barinov chimes in evenly in their talk, leaving no doubt about where he stands.
+- 'After all, I did not say all those things out of malice.' Barinov pushes back boldly with a sigh, shifting the mood of the conversation in a single beat.
+- 'And life has already punished me for that.' Talking about the life with Senya, Barinov uses "zhizn" ("life") to carry the main weight of the thought.
+- 'Yes, I know that I am no angel.' Barinov chimes in evenly in their talk, keeping the focus on what actually matters here.
+- 'But you are my closest people.' Insisting on how close Senya is in the exchange, Barinov reaches for the Russian word "blizkiye" ("close, near", built from "blizkiy") right at the center of the line.
+- 'I am too old to look for new friends.' Underscoring the friends around Senya, Barinov leans on "novykh" ("new", a form of "novyy") to give the remark its edge.
+- 'And besides, I do not need new friends.' Barinov continues earnestly in this moment, to clear the air between them once and for all.
+- 'I also wanted to pay back my old debts to you.' Bringing up the debt around Senya, Barinov lands on "staryye" ("old", built on "staryy") to keep the statement grounded.
+- 'Chef, that is what you should have started with!' Stepping in warmly around Barinov, Senya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'We are very glad to see you home, Chef!' Fedya reacts wryly with Barinov, steering the talk right where he wants it.

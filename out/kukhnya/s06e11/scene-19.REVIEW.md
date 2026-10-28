@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take this money for your honesty and thank you very much.' The guest leans on this key detail in reply: "chestnost" means "honesty", and it carries the main weight of what the guest is saying.
-- 'By the way, Valentin, did they give you the envelope this afternoon?' The guest directs the comeback beside Eleonora: opening with "kstati" ("by the way") lets the guest drop a new detail into the conversation as if it just crossed his mind.
-- 'Valya, do not look for the envelope, it is no longer there.' Barinov opens up evenly without holding back, grounding the moment in plain reality.
-- 'I took it when I wanted to save Andrey from your idea.' Barinov uses this direct element with the guest: "zabral" means "takes it back" (from "zabrat"), giving the line its exact edge.
-- 'And I accidentally lost that envelope on the way in a taxi.' Barinov counters dryly to be clear, grounding the moment in plain reality.
-- 'But I will definitely pay back all the money soon, Andrey.' Barinov opens up evenly watching the guest, bringing things back to earth after the buildup.
-- 'There is no need, because I lent that money to Valentin.' The guest points to this sharp piece toward Barinov: "dengi" means "money", and it carries the main weight of what the guest is saying.
-- 'Specifically so that he could pay you back his old debt.' The guest highlights one concrete detail at once: "spetsialno" means "on purpose", and it carries the main weight of what the guest is saying.
-- 'So now you and I are completely even.' The guest follows up boldly watching Barinov, without trying to dress up how he really feels.
-- 'Viktor Petrovich, you always need to trust your own people!' The guest spotlights this direct element toward Eleonora: "rodnym" means "native, own" (from "rodnoy"), giving the line its exact edge.
-- 'And this gift, brother, is for you as a keepsake.' The guest phrases this line without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Andrey, good evening, and here is my daughter!' Eleonora proceeds at once before the guest, to clear the air between them once and for all.
+- 'Take this money for your honesty and thank you very much.' Talking about the honesty on the spot, the guest leans on "chestnost" ("honesty") to give the whole sentence its punch.
+- 'By the way, Valentin, did they give you the envelope this afternoon?' Checking on the envelope before Barinov, the guest opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'Valya, do not look for the envelope, it is no longer there.' Barinov pushes back evenly around the guest, refusing to let the moment slip past.
+- 'I took it when I wanted to save Andrey from your idea.' Mentioning the ideas before the guest, Barinov leans on "idei" ("ideas", a form of "ideya") to give the remark its edge.
+- 'And I accidentally lost that envelope on the way in a taxi.' Turning to the envelope on the spot, Barinov leans on "konvert" ("the envelope") to give the whole sentence its punch.
+- 'But I will definitely pay back all the money soon, Andrey.' Barinov continues evenly with a nod, without trying to dress up how he really feels.
+- 'There is no need, because I lent that money to Valentin.' Focusing on the money beside Barinov, the guest lands on "dengi" ("money") as the key everyday word here.
+- 'Specifically so that he could pay you back his old debt.' The guest proceeds warmly beside Barinov, to clear the air between them once and for all.
+- 'So now you and I are completely even.' The guest chimes in boldly with a shrug, before Barinov can change the subject.
+- 'Viktor Petrovich, you always need to trust your own people!' The guest reacts dryly before Barinov and leans on "rodnym" ("native, own", a form of "rodnoy") to give the remark its edge.
+- 'And this gift, brother, is for you as a keepsake.' Addressing the gift at once, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Andrey, good evening, and here is my daughter!' Eleonora speaks up at once with a sigh, so the guest knows she is not just making small talk.

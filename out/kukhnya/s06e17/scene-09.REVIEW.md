@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, what are you doing over there?' Barinov tests bluntly what Fedya is actually getting at here.
-- 'You said the wife was on me.' Fedya spotlights one classic detail at once: "skazali" means "told" (from "skazat"), giving the line its exact edge.
-- 'And now I have understood everything.' The inspector steps in honestly on the spot, bringing things back to earth after the buildup.
-- 'You are simply mocking me.' The inspector counters calmly during the talk, leaving no doubt about where he stands.
-- 'Your cook seduced my wife.' The inspector stresses one vivid piece right here: "soblaznil" means "seduced" (from "soblaznit"), giving the line its exact edge.
-- 'You nearly killed me.' The inspector stresses one sharp expression right here: "ubili" means "killed" (from "ubit"), giving the line its exact edge.
-- 'There is actually no money at all.' The inspector continues frankly with a smile, saying out loud what both of them already know.
-- 'Enough, let us sort this out calmly.' Barinov frames one colorful piece on cue: "razberyomsya" means "will sort this out" (from "razobratsya"), giving the line its exact edge.
-- 'Soon they will bring us this money.' Barinov holds firm steadily as things stand, making his position completely clear.
-- 'And we will part ways peacefully.' Barinov fires back at once as things stand, keeping the focus on what actually matters here.
-- 'Fedya, you be quiet altogether right now.' Barinov anchors one direct piece on cue: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
-- 'Well, you see, we reached an agreement.' Barinov shapes the remark on cue: the "-sya" ending on "dogovorilis" ("agreed, deal") turns the action inward or makes it happen between people naturally.
+- 'Fedya, what are you doing over there?' Barinov tests bluntly if there is more going on behind the scenes.
+- 'You said the wife was on me.' Talking about the wife in the exchange, Fedya chooses "zhena" ("wife") so Barinov gets the point right away.
+- 'And now I have understood everything.' The inspector chimes in plainly on the spot and chooses "ponyal" ("understood", from the root "ponyat") so Fedya hears the exact meaning.
+- 'You are simply mocking me.' The inspector counters calmly on the spot, grounding the moment in plain reality.
+- 'Your cook seduced my wife.' Mentioning his wife on the spot, the inspector puts the weight on "soblaznil" ("seduced", from "soblaznit") as the exchange unfolds.
+- 'You nearly killed me.' The inspector steps in candidly in this moment, steering the talk right where he wants it.
+- 'There is actually no money at all.' The inspector cuts in frankly toward Barinov, letting the remark speak for itself.
+- 'Enough, let us sort this out calmly.' Barinov reacts evenly around the inspector and leans on "razberyomsya" ("will sort this out", a form of "razobratsya") to give the remark its edge.
+- 'Soon they will bring us this money.' Emphasizing the money around the inspector, Barinov leans on "privezut" ("will bring", a form of "privezti") to give the remark its edge.
+- 'And we will part ways peacefully.' Barinov counters at once with the inspector, steering the talk right where he wants it.
+- 'Fedya, you be quiet altogether right now.' Barinov reacts firmly around Fedya and puts the emphasis on "voobshche" ("at all") in the middle of the talk.
+- 'Well, you see, we reached an agreement.' Opening up calmly in the exchange, the "-sya" ending on "dogovorilis" ("agreed, deal") marks an action that unfolds mutually or turns back on the speaker.

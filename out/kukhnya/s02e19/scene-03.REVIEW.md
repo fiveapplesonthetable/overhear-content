@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ugh, I am not going in there after him.' Max stands firm decisively with a sigh, bringing things back to earth after the buildup.
-- 'Good afternoon to you.' Kostya emphasizes this clear touch in reply: "dobrogo" means "good" (from "dobryy"), giving the line its exact edge.
-- 'I was simply eating.' Max voices the thought to Kostya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'You should have done it the other way around.' Kostya chimes in dryly as they talk, testing Max's reaction in the middle of the exchange.
-- 'There is a time for everything.' Max sharpens this direct detail on cue: "vremya" means "time", and it carries the main weight of what Max is saying.
-- 'Your retired lady friend just arrived out there.' Kostya offers this point beside Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Ah, good afternoon, good afternoon, dear friends.' Max proceeds warmly without a pause, without trying to dress up how he really feels.
-- 'Who are you filming right now?' Kostya sharpens this key detail with Max: "snimayesh" means "are taking off" (from "snimat"), giving the line its exact edge.
-- 'The thing is.' Max voices that remark before Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Film me instead.' Kostya replies firmly before Max, bringing things back to earth after the buildup.
-- 'Mister Oguzok.' Max spotlights one clear term on cue: "gospodin" means "Mr, sir", and it carries the main weight of what Max is saying.
-- 'Why does she only want you to cook?' Kostya frames the thought toward Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'You guys are simply jealous of me.' Max answers evenly on the spot, refusing to let the moment slip past.
+- 'Ugh, I am not going in there after him.' Max proceeds decisively during the talk, watching Kostya's face to see how the news lands.
+- 'Good afternoon to you.' Kostya replies warmly at once and reaches for the Russian word "dobrogo" ("good", built from "dobryy") right at the center of the line.
+- 'I was simply eating.' Holding firm boldly at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You should have done it the other way around.' Kostya answers dryly beside Max, to clear the air between them once and for all.
+- 'There is a time for everything.' Turning to a time right here, Max leans on "vremya" ("time") to give the whole sentence its punch.
+- 'Your retired lady friend just arrived out there.' Following up plainly with Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Ah, good afternoon, good afternoon, dear friends.' Max proceeds warmly with a nod, shifting the mood of the conversation in a single beat.
+- 'Who are you filming right now?' Kostya reacts smoothly on the spot and lands on "snimayesh" ("are taking off", built on "snimat") to keep the statement grounded.
+- 'The thing is.' Mentioning the matter on the spot, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Film me instead.' Kostya steps in firmly in their talk, keeping the focus on what actually matters here.
+- 'Mister Oguzok.' Max follows up boldly beside Kostya and chooses "gospodin" ("Mr, sir") so Kostya gets the point right away.
+- 'Why does she only want you to cook?' Leaning in boldly with Max, Kostya puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'You guys are simply jealous of me.' Max reacts evenly with Kostya, testing Kostya's reaction in the middle of the exchange.

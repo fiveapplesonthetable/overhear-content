@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you not tired of gray Moscow yet?' The guest spotlights one sharp term toward Denis: "yeshchyo" means "more, still", and it carries the main weight of what the guest is saying.
-- 'Maybe you will go to Paris with me?' The guest drops this point with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'There we will find you a good job.' The guest weighs in plainly hearing Denis, before Denis can change the subject.
-- 'Or is something keeping you here?' The guest underscores this vivid piece in reply: "derzhit" means "keeps" (from "derzhat"), giving the line its exact edge.
-- 'No, nothing is keeping me here.' Katya shares that line plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Are you not rushing things a bit too much?' Katya asks firmly how the guest expects that to work in practice.
-- 'I am kissing you for the first time in five years.' The guest underscores one clear word in earnest: "vpervyye" means "for the first time", and it carries the main weight of what the guest is saying.
-- 'In my opinion, I am already terribly late.' The guest weighs in boldly on the spot, to clear the air between them once and for all.
-- 'Listen, the fire alarm has gone off.' Katya holds firm dryly as things stand, letting the remark speak for itself.
-- 'We urgently need to go outside right now.' Katya chooses one concrete touch in reply: "ulitsu" means "street" (from "ulitsa"), giving the line its exact edge.
-- 'Forgive me, please, it was completely accidental.' Denis shares this point right away: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'No big deal, it is just red wine.' The guest answers dryly with a shrug, keeping the focus on what actually matters here.
+- 'Are you not tired of gray Moscow yet?' Describing how gray things are in front of Katya, the guest centers the thought on "seraya" ("gray", from "seryy") without wasting a word.
+- 'Maybe you will go to Paris with me?' Looking over candidly during the talk, the guest keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'There we will find you a good job.' The guest jumps in plainly with a smile, to clear the air between them once and for all.
+- 'Or is something keeping you here?' The guest weighs in boldly right here and centers the thought on "derzhit" ("keeps", from "derzhat") without wasting a word.
+- 'No, nothing is keeping me here.' Jumping in naturally at once, Katya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Are you not rushing things a bit too much?' Katya asks firmly what the guest is actually getting at here.
+- 'I am kissing you for the first time in five years.' The guest pushes back briskly beside Katya and centers the remark on "vpervyye" ("for the first time") without any extra fuss.
+- 'In my opinion, I am already terribly late.' The guest continues frankly right here and puts the weight on "opazdyvayu" ("am running late", from "opazdyvat") as the exchange unfolds.
+- 'Listen, the fire alarm has gone off.' Katya reacts dryly with a smile, without trying to dress up how she really feels.
+- 'We urgently need to go outside right now.' Talking about the street before Denis, Katya puts the weight on "ulitsu" ("street", from "ulitsa") as the exchange unfolds.
+- 'Forgive me, please, it was completely accidental.' Denis politely uses this personal apology to Katya using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'No big deal, it is just red wine.' The guest continues dryly hearing Denis, to clear the air between them once and for all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, where is the second set of keys to the car?' Barinov features one sharp detail on cue: "vtoryye" means "a second" (from "vtoroy"), giving the line its exact edge.
-- 'Dima never throws words to the wind.' Nikita directs that line with warmth: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Vityusha, take the second key, the car is yours.' Nagiyev counters decisively in this moment, bringing things back to earth after the buildup.
-- 'Oh you schemer, you stole your own car!' Nagiyev spotlights one pointed element right here: "khitrets" means "schemer", and it carries the main weight of what Nagiyev is saying.
-- 'After all, I was doing it for our shared destiny.' Barinov jumps in right away with a nod, to clear the air between them once and for all.
-- 'Get out of my restaurant!' Nagiyev speaks openly with a sigh, leaving no doubt about where he stands.
-- 'It is a pity, of course, that everything fell through today.' Nikita underscores one vivid choice with Barinov: "konechno" means "of course", and it carries the main weight of what Nikita is saying.
-- 'I spent three whole days preparing for this.' Nikita shapes that point right away: the "-sya" ending on "gotovilsya" ("to prepare") turns the action inward or makes it happen between people naturally.
-- 'To start with, we would have sat down on a bench.' Nikita proceeds decisively in this moment, shifting the whole mood of the room in a single beat.
-- 'Then fairy lights would have lit up around us.' Nikita points to one pointed element for Nagiyev: "girlyandy" means "fairy lights" (from "girlyanda"), giving the line its exact edge.
-- 'And they would have served us hot mulled wine.' Nikita cuts in pointedly in this moment, before Barinov can change the subject.
-- 'And then they would have returned your missing hat.' Nikita continues quietly beside Nagiyev, before Nagiyev can change the subject.
+- 'Dima, where is the second set of keys to the car?' Highlighting the keys to Nikita, Barinov leans on "vtoryye" ("a second", a form of "vtoroy") to give the remark its edge.
+- 'Dima never throws words to the wind.' Checking on the wind at once, Nikita pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Vityusha, take the second key, the car is yours.' Nagiyev weighs in decisively with a sigh, refusing to let the moment slip past.
+- 'Oh you schemer, you stole your own car!' Talking about the schemer in this beat, Nagiyev leans on "khitrets" ("schemer") to give the whole sentence its punch.
+- 'After all, I was doing it for our shared destiny.' Addressing the fate before Nagiyev, Barinov lands on "obshchey" ("mutual, common", built on "obshchiy") to keep the statement grounded.
+- 'Get out of my restaurant!' Nagiyev speaks up openly watching Barinov, steering the talk right where he wants it.
+- 'It is a pity, of course, that everything fell through today.' Nikita reacts boldly with Nagiyev and brings in "konechno" ("of course") to make the meaning unmistakable.
+- 'I spent three whole days preparing for this.' Nikita steps in sharply before Nagiyev and leans on "tselykh" ("whole, entire", a form of "tselyy") to give the remark its edge.
+- 'To start with, we would have sat down on a bench.' Nikita counters decisively on the spot, refusing to let the moment slip past.
+- 'Then fairy lights would have lit up around us.' Focusing on the fairy lights in this beat, Nikita chooses "girlyandy" ("fairy lights", from the root "girlyanda") so Nagiyev hears the exact meaning.
+- 'And they would have served us hot mulled wine.' Underscoring the mulled wine on the spot, Nikita uses "goryachiy" ("hot") to carry the main weight of the thought.
+- 'And then they would have returned your missing hat.' Nikita pushes back quietly on the spot, testing Nagiyev's reaction in the middle of the exchange.

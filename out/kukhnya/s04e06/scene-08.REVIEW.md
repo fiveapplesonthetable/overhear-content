@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, hi, what did you lose here?' Max shares the reply beside Kostya: opening with the casual greeting "privet" ("hi") signals right away that Max and Kostya are on familiar terms.
-- 'I cannot find one expensive bottle.' Kostya responds firmly in their talk, refusing to let the moment slip past.
-- 'I borrowed it from you last night.' Max underscores this clear word in reply: "vecherom" means "in the evening", and it carries the main weight of what Max is saying.
-- 'I took it home for our romantic dinner.' Max weighs in firmly without holding back, keeping the focus on what actually matters here.
-- 'Max, what romantic dinner on earth?' Kostya prompts earnestly to see how Max will answer on the spot.
-- 'Do not worry, I will reimburse you the full cost.' Max highlights one classic element toward Vika: "vozmeshchu" means "cost" (from "vozmeshcha"), giving the line its exact edge.
-- 'How much does it cost, one or two thousand?' Max voices that answer briskly now: putting the question word "skolko" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Dmitry Vladimirovich himself left this bottle yesterday!' Kostya responds pointedly as things stand, saying out loud what both of them already know.
-- 'Do you know how much this rare bottle costs?' Kostya sharpens one practical detail right here: "redkaya" means "rare" (from "redkiy"), giving the line its exact edge.
-- 'It costs exactly five thousand dollars!' Kostya stands firm firmly before Vika, so Vika knows he is not just making small talk.
-- 'Whoa, and I just made up with Vika!' Max proceeds boldly facing Kostya, so Kostya knows he is not just making small talk.
-- 'Not a bad reconciliation for five thousand dollars!' Kostya chooses one direct term toward Vika: "primireniye" means "reconciliation" (from "primireniy"), giving the line its exact edge.
-- 'Kostya, hi, please make me a coffee.' Vika shares this update for Kostya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Kostya, hi, what did you lose here?' Answering promptly at once, Max puts the question word "chto" right at the start so Kostya hears the focus immediately.
+- 'I cannot find one expensive bottle.' Kostya continues firmly without a pause, keeping the focus on what actually matters here.
+- 'I borrowed it from you last night.' Max weighs in decisively at once and chooses "vecherom" ("in the evening") so Kostya gets the point right away.
+- 'I took it home for our romantic dinner.' Turning to the dinner during the talk, Max lands on "romanticheskogo" ("romantic", built on "romanticheskiy") to keep the statement grounded.
+- 'Max, what romantic dinner on earth?' Kostya prompts earnestly how Max expects that to work in practice.
+- 'Do not worry, I will reimburse you the full cost.' Touching on the full cost in the exchange, Max lands on "vozmeshchu" ("cost", built on "vozmeshcha") to keep the statement grounded.
+- 'How much does it cost, one or two thousand?' Mentioning the thousands right here, Max puts the question word "skolko" right at the start so Kostya hears the focus immediately.
+- 'Dmitry Vladimirovich himself left this bottle yesterday!' Kostya answers pointedly watching Max, shifting the mood of the conversation in a single beat.
+- 'Do you know how much this rare bottle costs?' Turning to the bottle right here, Kostya brings in "redkaya" ("rare", from "redkiy") as the key Russian word here.
+- 'It costs exactly five thousand dollars!' Underscoring the dollars to Max, Kostya lands on "dollarov" ("dollars", built on "dollar") to keep the statement grounded.
+- 'Whoa, and I just made up with Vika!' Max fires back boldly with a shrug, without trying to dress up how he really feels.
+- 'Not a bad reconciliation for five thousand dollars!' Discussing the thousand on the spot, Kostya leans on "primireniye" ("reconciliation", a form of "primireniy") to give the remark its edge.
+- 'Kostya, hi, please make me a coffee.' Emphasizing a coffee during the talk, Vika puts the emphasis on "kofe" ("of coffee") in the middle of the talk.

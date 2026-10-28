@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, Timur, how did the conversation go?' Max shapes that reply with ease: putting the question word "chto" right at the front of the line lets Timur hear the point of the question on the very first beat.
-- 'Everything is fine, bro, we agreed on everything.' Timur speaks up honestly to settle things, without trying to dress up how he really feels.
-- 'One of them has a shop, we will supply meat to him.' Timur grounds one telling choice in earnest: "postavlyat" means "to supply", and it carries the main weight of what Timur is saying.
-- 'Listen, Timur, that is very good!' Max directs this answer at once: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'We will deliver three times a week.' Timur reacts plainly without a pause, keeping the focus on what actually matters here.
-- 'Great, and what about me then?' Max highlights one sharp touch in earnest: "otlichno" means "perfect, great", and it carries the main weight of what Max is saying.
-- 'With you, however, things are really bad.' Timur puts that line facing Max: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Why did you not tell me about the pork?' Timur questions curiously what Max is actually getting at here.
-- 'That changes everything completely now!' Timur points to this sharp piece on cue: "voobshche" means "at all", and it carries the main weight of what Timur is saying.
-- 'Maybe we had better call the police?' Max gives the remark without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Timur purely through rising pitch at the end.
-- 'No, then it will be even worse for you.' Timur pushes back briskly facing Max, bringing things back to earth after the buildup.
-- 'Go talk to them, I gave them my word!' Timur reaches for one sharp detail toward Max: "razgovarivay" means "talk" (from "razgovarivat"), giving the line its exact edge.
+- 'So, Timur, how did the conversation go?' Checking on the conversation in front of Timur, Max puts the question word "chto" right at the start so Timur hears the focus immediately.
+- 'Everything is fine, bro, we agreed on everything.' Timur steps in honestly beside Max, leaving no doubt about where he stands.
+- 'One of them has a shop, we will supply meat to him.' Discussing a shop in front of Max, Timur uses "magazin" ("shop") to carry the main weight of the thought.
+- 'Listen, Timur, that is very good!' Max responds smoothly on the spot and puts the emphasis on "khorosho" ("good, fine") in the middle of the talk.
+- 'We will deliver three times a week.' Timur continues plainly without holding back, steering the talk right where he wants it.
+- 'Great, and what about me then?' Max pushes back openly in front of Timur and reaches for the Russian word "otlichno" ("perfect, great") right at the heart of the line.
+- 'With you, however, things are really bad.' Cutting in plainly on the spot, Timur adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Why did you not tell me about the pork?' Timur questions curiously how Max expects that to work in practice.
+- 'That changes everything completely now!' Timur continues plainly beside Max and reaches for the Russian word "voobshche" ("at all") right at the heart of the line.
+- 'Maybe we had better call the police?' Bringing up the police beside Timur, Max keeps normal statement word order here, turning the line into a question for Timur purely through rising pitch.
+- 'No, then it will be even worse for you.' Timur pushes back briskly with Max, to clear the air between them once and for all.
+- 'Go talk to them, I gave them my word!' Touching on his word at once, Timur reaches for the Russian word "razgovarivay" ("talk", built from "razgovarivat") right at the center of the line.

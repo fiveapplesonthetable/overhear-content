@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima asked to prepare the dish with tenderloin that he ate at lunch.' Barinov sharpens one clear term in reply: "prigotovit" means "to cook, to prepare", and it carries the main weight of what Barinov is saying.
-- 'Which dish?' Barinov delivers the comeback without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Tenderloin with balsamic pearls from the molecular cuisine.' Barinov responds promptly with a shrug, refusing to let the moment slip past.
-- 'I no longer have the required ingredient.' Nastya stresses one familiar choice on cue: "ingrediyenta" means "ingredient" (from "ingrediyent"), giving the line its exact edge.
-- 'Stop laughing!' Barinov states the reaction on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Replace it with something else, make it quickly.' Barinov reacts lightly with a nod, steering the talk right where he wants it.
-- 'Why didn't you tell me?' Kostya focuses on one loaded element toward Barinov: "skazala" means "told" (from "skazat"), giving the line its exact edge.
-- 'Because I betrayed my principles.' Nastya reacts pointedly toward Kostya, before Kostya can change the subject.
-- 'If I betrayed my principles, that means I could betray you too.' Nastya reacts dryly beside Barinov, keeping the focus on what actually matters here.
-- 'Come on, Nastya, don't talk nonsense.' Kostya reaches for one key expression in reply: "glupostey" means "foolish things" (from "glupost"), giving the line its exact edge.
-- 'And what if tomorrow I feel like having something else?' Nastya hands over the reaction to Barinov: the "-sya" ending on "zakhochetsya" ("will feel like") turns the action inward or makes it happen between people naturally.
-- 'I won't be able to hold back either.' Nastya continues frankly during the talk, letting the remark speak for itself.
+- 'Dima asked to prepare the dish with tenderloin that he ate at lunch.' Turning to the tenderloin in this beat, Barinov brings in "vyrezkoy" ("tenderloin", from "vyrezka") as the key Russian word here.
+- 'Which dish?' Pointing to the dish to Nastya, Barinov keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Tenderloin with balsamic pearls from the molecular cuisine.' Barinov chimes in promptly with a smile, grounding the moment in plain reality.
+- 'I no longer have the required ingredient.' Mentioning the required ingredient with Barinov, Nastya brings in "ingrediyenta" ("ingredient", from "ingrediyent") as the key Russian word here.
+- 'Stop laughing!' Looking over calmly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Replace it with something else, make it quickly.' Barinov opens up lightly facing Kostya, making his position completely clear.
+- 'Why didn't you tell me?' Jumping in boldly on the spot, Kostya puts the question word "pochemu" right at the start so Nastya hears the focus immediately.
+- 'Because I betrayed my principles.' Pointing to her principles right here, Nastya centers the thought on "printsipy" ("principles", from "printsip") without wasting a word.
+- 'If I betrayed my principles, that means I could betray you too.' Nastya reacts dryly watching Kostya, leaving no doubt about where she stands.
+- 'Come on, Nastya, don't talk nonsense.' Touching on the foolish before Nastya, Kostya brings in "glupostey" ("foolish things", from "glupost") as the key Russian word here.
+- 'And what if tomorrow I feel like having something else?' Pressing on smoothly in the exchange, the "-sya" ending on "zakhochetsya" ("will feel like") marks an action that unfolds mutually or turns back on the speaker.
+- 'I won't be able to hold back either.' Nastya responds frankly without holding back, shifting the mood of the conversation in a single beat.

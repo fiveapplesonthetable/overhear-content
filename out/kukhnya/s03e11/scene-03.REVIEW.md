@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, how glad I am to see you!' Barinov answers quietly without a pause, refusing to let the moment slip past.
-- 'This is my old friend from Paris.' Barinov leans on one practical word right here: "parizha" means "paris", and it carries the main weight of what Barinov is saying.
-- 'We used to work together for a long time.' Barinov chimes in candidly as things stand, making his position completely clear.
-- 'When did you arrive? Let us go, you will tell me everything.' Barinov wonders plainly whether Max really thought this through.
-- 'Max, where did he come from here?' Katya sharpens one pointed element toward Barinov: "vzyalsya" means "appeared, came from" (from "vzyatsya"), giving the line its exact edge.
-- 'Nagiyev brought him, he is an acquaintance of the chef.' Max pushes back lightly with a shrug, to clear the air between them once and for all.
-- 'Do you also know him well?' Max presses evenly while looking straight at Barinov here.
-- 'Yes, he taught us in Paris.' Katya chooses one concrete term toward Max: "uchil" means "to learn, to teach" (from "uchit"), giving the line its exact edge.
-- 'And they kicked me out of there back then.' Katya responds firmly without holding back, leaving no doubt about where she stands.
-- 'I was recently offered work in Russia.' Barinov responds wryly during the talk, bringing things back to earth after the buildup.
-- 'Everyone wants to work in Moscow now.' Barinov colors one practical term in earnest: "rabotat" means "to work", and it carries the main weight of what Barinov is saying.
-- 'Katya also recently returned here.' Barinov drops this answer facing Max: the "-sya" ending on "vernulas" ("returned") turns the action inward or makes it happen between people naturally.
-- 'Now she works for me here.' Barinov follows up warmly beside Katya, making his position completely clear.
+- 'Viktor, how glad I am to see you!' Barinov reacts quietly in their talk, keeping the focus on what actually matters here.
+- 'This is my old friend from Paris.' Talking about the friend before Katya, Barinov leans on "staryy" ("old") to give the whole sentence its punch.
+- 'We used to work together for a long time.' Barinov jumps in dryly with Katya and puts the weight on "rabotali" ("worked", from "rabotat") as the exchange unfolds.
+- 'When did you arrive? Let us go, you will tell me everything.' Barinov wonders plainly whether Katya really thought this through.
+- 'Max, where did he come from here?' Katya chimes in smoothly in the exchange and chooses "vzyalsya" ("appeared, came from", from the root "vzyatsya") so Max hears the exact meaning.
+- 'Nagiyev brought him, he is an acquaintance of the chef.' Stressing how familiar he is around Barinov, Max leans on "znakomyy" ("familiar") to give the whole sentence its punch.
+- 'Do you also know him well?' Max presses evenly if there is more going on behind the scenes.
+- 'Yes, he taught us in Paris.' Katya reacts plainly before Max and brings in "uchil" ("to learn, to teach", from "uchit") as the key Russian word here.
+- 'And they kicked me out of there back then.' Katya answers directly in this beat and puts the weight on "vygnali" ("kicked out", from "vygnat") as the exchange unfolds.
+- 'I was recently offered work in Russia.' Barinov cuts in wryly around Katya, grounding the moment in plain reality.
+- 'Everyone wants to work in Moscow now.' Barinov pushes back earnestly right here and brings in "rabotat" ("to work") to make the meaning unmistakable.
+- 'Katya also recently returned here.' Jumping in quietly around Katya, the "-sya" ending on "vernulas" ("returned") marks an action that unfolds mutually or turns back on the speaker.
+- 'Now she works for me here.' Barinov follows up warmly toward Katya, steering the talk right where he wants it.

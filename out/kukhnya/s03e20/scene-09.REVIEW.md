@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, you and I really were in a relationship.' Vika speaks steadily in this moment, saying out loud what both of them already know.
-- 'And perhaps I even loved you very much back then.' Vika anchors one practical word right here: "vozmozhno" means "perhaps, possible", and it carries the main weight of what Vika is saying.
-- 'I loved you until one day you cheated on me.' Vika grounds this sharp detail for Max: "odnazhdy" means "once, one day", and it carries the main weight of what Vika is saying.
-- 'Yeah, that old Max was a real fool.' Vika chimes in dryly without any doubt, watching Max's face to see how the news lands.
-- 'How does it always work out so easily for you?' Vika anchors one sharp detail for Max: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
-- 'You know how to turn everything in the world to your advantage.' Vika points to this sharp word on cue: "umeyesh" means "know how to" (from "umet"), giving the line its exact edge.
-- 'You just bumped your head like that and immediately forgot everything!' Vika continues honestly with Max, steering the talk right where she wants it.
-- 'And maybe it is a good thing that I forgot everything?' Max spotlights one classic element in earnest: "khorosho" means "good, fine", and it carries the main weight of what Max is saying.
-- 'Maybe now we will be able to start everything from the beginning?' Max gives the thought on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'There is one small problem here: I did not hit my head.' Vika responds steadily as things stand, testing Max's reaction in the middle of the exchange.
-- 'Alright, I will leave, it was a bad idea to stay at your place.' Max underscores one sharp choice for Vika: "plokhaya" means "bad" (from "plokhoy"), giving the line its exact edge.
-- 'Wait, what is wrong with you? Does your head hurt badly again?' Vika hands over the comment at once: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Yes, you and I really were in a relationship.' Vika fires back steadily hearing Max, before Max can change the subject.
+- 'And perhaps I even loved you very much back then.' Vika steps in promptly right here and leans on "vozmozhno" ("perhaps, possible") to give the whole sentence its punch.
+- 'I loved you until one day you cheated on me.' Vika proceeds earnestly without holding back, refusing to let the moment slip past.
+- 'Yeah, that old Max was a real fool.' Vika pushes back dryly facing Max, making her position completely clear.
+- 'How does it always work out so easily for you?' Vika replies promptly to Max and lands on "poluchayetsya" ("works out", built on "poluchatsya") to keep the statement grounded.
+- 'You know how to turn everything in the world to your advantage.' Vika speaks up briskly with a shrug, steering the talk right where she wants it.
+- 'You just bumped your head like that and immediately forgot everything!' Vika answers honestly toward Max, steering the talk right where she wants it.
+- 'And maybe it is a good thing that I forgot everything?' Max opens up dryly in the exchange and leans on "khorosho" ("good, fine") to give the whole sentence its punch.
+- 'Maybe now we will be able to start everything from the beginning?' Leaning in earnestly in this beat, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'There is one small problem here: I did not hit my head.' Vika responds steadily toward Max, bringing things back to earth after the buildup.
+- 'Alright, I will leave, it was a bad idea to stay at your place.' Focusing on a bad idea in front of Vika, Max uses "plokhaya" ("bad", from "plokhoy") to make the point stick.
+- 'Wait, what is wrong with you? Does your head hurt badly again?' Touching on the head in the exchange, Vika puts the question word "chto" right at the start so Max hears the focus immediately.

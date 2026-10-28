@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened?' Kostya highlights one vivid term on cue: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'Katya and I broke up.' Denis shares that line without pause: the "-sya" ending on "rasstalis" ("broke up, separated") turns the action inward or makes it happen between people naturally.
-- 'Stay strong, buddy.' Kostya replies promptly on the spot, grounding the moment in plain reality.
-- 'You cannot tell Katya the truth anyway.' Denis features one pointed choice at once: "rasskazhesh" means "you will tell" (from "rasskazat"), giving the line its exact edge.
-- 'What truth can you not tell Katya?' Nastya aims this line at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Nastya, well I cannot tell you.' Kostya stands firm dryly in this moment, testing Nastya's reaction in the middle of the exchange.
-- 'Den has a family in Voronezh.' Kostya features this sharp detail on cue: "semya" means "family", and it carries the main weight of what Kostya is saying.
-- 'Is Den married?' Nastya shapes this warning toward Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'His wife left him.' Kostya pushes back frankly with a sigh, before Denis can change the subject.
-- 'She left him alone with a daughter.' Kostya frames one concrete element on cue: "dochkoy" means "daughter" (from "dochka"), giving the line its exact edge.
-- 'And where is the daughter right now?' Nastya voices the comeback without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'With her grandmother and grandfather.' Kostya counters calmly on the spot, saying out loud what both of them already know.
+- 'What happened?' Kostya responds calmly before Denis and lands on "sluchilos" ("happened", built on "sluchitsya") to keep the statement grounded.
+- 'Katya and I broke up.' Answering frankly with Kostya, the "-sya" ending on "rasstalis" ("broke up, separated") marks an action that unfolds mutually or turns back on the speaker.
+- 'Stay strong, buddy.' Kostya speaks up promptly hearing Denis, grounding the moment in plain reality.
+- 'You cannot tell Katya the truth anyway.' Turning to the truth beside Kostya, Denis centers the thought on "rasskazhesh" ("you will tell", from "rasskazat") without wasting a word.
+- 'What truth can you not tell Katya?' Focusing on the truth on the spot, Nastya keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Nastya, well I cannot tell you.' Kostya weighs in dryly across the room, leaving no doubt about where he stands.
+- 'Den has a family in Voronezh.' Turning to a family in the exchange, Kostya chooses "semya" ("family") so Nastya gets the point right away.
+- 'Is Den married?' Noting how married things are during the talk, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'His wife left him.' Kostya reacts frankly without any doubt, without trying to dress up how he really feels.
+- 'She left him alone with a daughter.' Touching on a daughter during the talk, Kostya puts the weight on "dochkoy" ("daughter", from "dochka") as the exchange unfolds.
+- 'And where is the daughter right now?' Touching on the dear before Kostya, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'With her grandmother and grandfather.' Kostya speaks up calmly with a nod, bringing things back to earth after the buildup.

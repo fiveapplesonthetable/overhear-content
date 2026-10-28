@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, where did you come from?' Watch how Katya speaks to Lyova without pause — the Russian word "vzyalsya" ("appeared, came from", built from "vzyatsya") does the heavy lifting.
-- 'From your subconscious, I must tell you an important thing.' Senya cuts in evenly with a smile, without trying to dress up how he really feels.
-- 'Have a bite to eat, please.' Senya continues at once with a smile, keeping the focus on what actually matters here.
-- 'I only have these things for fresh breath.' Katya chooses one loaded expression in earnest: "dykhaniya" means "breath" (from "dykhaniye"), giving the line its exact edge.
-- 'The investigation has gathered enough facts to draw conclusions.' Senya continues firmly around Katya, before Katya can change the subject.
-- 'Hurry up, we have plenty of orders.' Lyova weighs in wryly watching Senya, to clear the air between them once and for all.
-- 'Orders will wait, but the truth will not.' Senya highlights one key detail right here: "podozhdut" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Lyova put our fish on the shelf in the cooler.' Senya pushes back wryly before Lyova, letting the remark speak for itself.
-- 'Then Fedya entered the game, who needed flounder.' Senya speaks up right away toward Katya, so Katya knows he is not just making small talk.
-- 'Fedya did not even notice how the fish tumbled down.' Senya underscores one familiar touch in reply: "svalilas" means "fell, tumbled down" (from "svalitsya"), giving the line its exact edge.
-- 'From the shelf into the empty boxes.' Senya fires back candidly without any doubt, making his position completely clear.
-- 'Anyone else would have heard the sound of the fall, but not our music lover.' Senya counters plainly with a shrug, grounding the moment in plain reality.
+- 'Denis, where did you come from?' Katya counters warmly in front of Senya and uses "vzyalsya" ("appeared, came from", from "vzyatsya") to make the point stick.
+- 'From your subconscious, I must tell you an important thing.' Underscoring the subconscious beside Katya, Senya brings in "podsoznaniya" ("subconscious", from "podsoznaniye") as the key Russian word here.
+- 'Have a bite to eat, please.' Senya directly sends this courtesy word with Katya using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'I only have these things for fresh breath.' Addressing the breath in front of Senya, Katya puts the weight on "dykhaniya" ("breath", from "dykhaniye") as the exchange unfolds.
+- 'The investigation has gathered enough facts to draw conclusions.' Discussing the investigation beside Katya, Senya puts the emphasis on "sledstviye" ("investigation") in the middle of the talk.
+- 'Hurry up, we have plenty of orders.' Lyova speaks up wryly with a shrug, watching Senya's face to see how the news lands.
+- 'Orders will wait, but the truth will not.' Mentioning the orders during the talk, Senya uses "zakazy" ("orders", from "zakaz") to make the point stick.
+- 'Lyova put our fish on the shelf in the cooler.' Focusing on the fridge right here, Senya uses "kholodilnik" ("fridge") to carry the main weight of the thought.
+- 'Then Fedya entered the game, who needed flounder.' Senya jumps in right away facing Lyova, keeping the focus on what actually matters here.
+- 'Fedya did not even notice how the fish tumbled down.' Focusing on the fish around Lyova, Senya brings in "svalilas" ("fell, tumbled down", from "svalitsya") as the key Russian word here.
+- 'From the shelf into the empty boxes.' Mentioning the shelves at once, Senya leans on "pustyye" ("empty", a form of "pustoy") to give the remark its edge.
+- 'Anyone else would have heard the sound of the fall, but not our music lover.' Senya steps in plainly during the talk, grounding the moment in plain reality.

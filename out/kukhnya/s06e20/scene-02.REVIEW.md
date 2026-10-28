@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did he pay the money after all?' Barinov drops that line with ease: putting the question word "chto" right at the front of the line lets the inspector hear the point of the question on the very first beat.
-- 'Yes, he paid, of course.' Mikhail continues steadily to settle things, making his position completely clear.
-- 'After all, this guest of ours is a foreigner.' Mikhail frames this vivid detail for Barinov: "inostranets" means "foreigner", and it carries the main weight of what Mikhail is saying.
-- 'He passed this along to you.' Mikhail frames one familiar word on cue: "peredal" means "to pass on" (from "peredat"), giving the line its exact edge.
-- 'This is a Michelin inspector from Paris!' Mikhail opens up right away with Barinov, without trying to dress up how he really feels.
-- 'He is their very chief inspector.' Barinov leans on this telling term right here: "inspektor" means "inspector", and it carries the main weight of what Barinov is saying.
-- 'He has already ruined many chefs.' Barinov speaks earnestly before the inspector, refusing to let the moment slip past.
+- 'Wait, did he pay the money after all?' Pointing to the money beside Mikhail, Barinov puts the question word "chto" right at the start so Mikhail hears the focus immediately.
+- 'Yes, he paid, of course.' Mikhail briskly sends this confirmation without hesitation using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'After all, this guest of ours is a foreigner.' Bringing up a foreigner before Barinov, Mikhail brings in "inostranets" ("foreigner") to make the meaning unmistakable.
+- 'He passed this along to you.' Mikhail follows up promptly during the talk, testing Barinov's reaction in the middle of the exchange.
+- 'This is a Michelin inspector from Paris!' Mikhail continues right away on the spot, bringing things back to earth after the buildup.
+- 'He is their very chief inspector.' Discussing the inspector in the exchange, Barinov reaches for the Russian word "inspektor" ("inspector") right at the heart of the line.
+- 'He has already ruined many chefs.' Bringing up the cooks around Mikhail, Barinov puts the weight on "povarov" ("cooks", from "povar") as the exchange unfolds.
 - 'Why is this happening to me?' Barinov asks sharply if there is more going on behind the scenes.
-- 'Just do not get nervous right now.' Mikhail highlights one colorful term at once: "nervnichayte" means "to be nervous" (from "nervnichat"), giving the line its exact edge.
-- 'Good afternoon, who is the chef here?' The inspector sends the remark with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Here he is sitting before you.' Mikhail chimes in briskly with a nod, without trying to dress up how he really feels.
-- 'Thank you for your answer.' The inspector leans on one familiar piece toward Mikhail: "spasibo" means "thank you", and it carries the main weight of what the inspector is saying.
+- 'Just do not get nervous right now.' Mikhail counters decisively before Barinov and brings in "nervnichayte" ("to be nervous", from "nervnichat") as the key Russian word here.
+- 'Good afternoon, who is the chef here?' The inspector calmly gives this daytime greeting at the start of the beat using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'Here he is sitting before you.' Mikhail continues briskly on the spot, making his position completely clear.
+- 'Thank you for your answer.' The inspector simply drops this word of thanks in the exchange using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Somehow I do not recognize you at all today, Vitya.' Elena cuts in promptly without any doubt, watching Barinov's face to see how the news lands.
-- 'First a gift, and now an evening restaurant.' Elena features one concrete piece toward Vika: "vecherniy" means "evening", and it carries the main weight of what Elena is saying.
-- 'Lena, excuse me, I need to step away one more time.' Barinov shares the comment without pause: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'Vitya, if your stomach hurts, let's leave.' Elena stands firm openly without any doubt, so Vika knows she is not just making small talk.
-- 'No, I will return in literally a couple of minutes!' Barinov centers one colorful touch on cue: "bukvalno" means "literally", and it carries the main weight of what Barinov is saying.
-- 'We waited so long, and there will be no dessert today?' Elena voices this point briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Excuse us, let's prepare something else for you.' Vika proceeds candidly with a nod, to clear the air between them once and for all.
-- 'It will be very fast and on the house.' Vika focuses on one loaded term for Elena: "schyot" means "counting, account", and it carries the main weight of what Vika is saying.
-- 'Good, if it is really fast, then let's do it.' Barinov gives the comment at once: the word "davayte" is the polite or group version of "let's", inviting Elena into the plan right away.
-- 'We will serve you our signature blueberry sorbet.' Vika speaks warmly to settle things, keeping the focus on what actually matters here.
-- 'Denis, make a quick blueberry sorbet for the guests!' Vika anchors one memorable word toward Barinov: "chernichnyy" means "sorbet", and it carries the main weight of what Vika is saying.
-- 'Louis always prepares it right in front of the guests.' Vika cuts in candidly as things stand, bringing things back to earth after the buildup.
+- 'Somehow I do not recognize you at all today, Vitya.' Elena follows up promptly watching Barinov, letting the remark speak for itself.
+- 'First a gift, and now an evening restaurant.' Underscoring a gift before Barinov, Elena centers the remark on "vecherniy" ("evening") without any extra fuss.
+- 'Lena, excuse me, I need to step away one more time.' Reacting readily beside Elena, Barinov leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Vitya, if your stomach hurts, let's leave.' Elena speaks openly in this moment, watching Barinov's face to see how the news lands.
+- 'No, I will return in literally a couple of minutes!' Underscoring a couple around Elena, Barinov lands on "bukvalno" ("literally") as the key everyday word here.
+- 'We waited so long, and there will be no dessert today?' Touching on the dessert on the spot, Elena keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Excuse us, let's prepare something else for you.' Vika fires back candidly in their talk, watching Elena's face to see how the news lands.
+- 'It will be very fast and on the house.' Highlighting the counting at once, Vika centers the remark on "schyot" ("counting, account") without any extra fuss.
+- 'Good, if it is really fast, then let's do it.' Stepping in dryly at once, Barinov uses the polite or group form "davayte" ("let's") to bring Vika into the plan.
+- 'We will serve you our signature blueberry sorbet.' Vika weighs in warmly in their talk, leaving no doubt about where she stands.
+- 'Denis, make a quick blueberry sorbet for the guests!' Pointing to the guests at once, Vika reaches for the Russian word "chernichnyy" ("sorbet") right at the heart of the line.
+- 'Louis always prepares it right in front of the guests.' Bringing up the guests to Barinov, Vika brings in "gostyami" ("guests", from "gost") as the key Russian word here.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You sit quietly in here for now.' Denis follows up frankly facing Katya, bringing things back to earth after the buildup.
-- 'Nastya, tell me, what should I do?' Katya grounds one classic word on cue: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
-- 'Wait, have we arrived already?' Nastya hands over this update right away: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'Denis offered for me to go away with him.' Katya speaks lightly across the room, before Nastya can change the subject.
-- 'Where to, your wedding is tomorrow!' Nastya features this sharp detail on cue: "svadba" means "wedding", and it carries the main weight of what Nastya is saying.
-- 'Thank you very much for reminding me.' Katya drops this point with ease: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Is it normal that I am having doubts?' Katya asks candidly as Denis tries to explain the situation.
-- 'Nikita is a very good person, after all.' Nastya focuses on this clear word right here: "khoroshiy" means "good", and it carries the main weight of what Nastya is saying.
-- 'Yes, he is truly very good.' Katya sends this update with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'But I cheated on him with Denis.' Katya holds firm promptly without a pause, saying out loud what both of them already know.
-- 'On that day he proposed to me.' Katya sharpens one familiar detail on cue: "predlozheniye" means "offer, proposal", and it carries the main weight of what Katya is saying.
-- 'Everything is fine, let us go now.' Denis holds firm steadily with a nod, leaving no doubt about where he stands.
+- 'You sit quietly in here for now.' Denis pushes back frankly hearing Katya, without trying to dress up how he really feels.
+- 'Nastya, tell me, what should I do?' Katya chimes in calmly beside Nastya and reaches for the Russian word "skazhi" ("say", built from "skazat") right at the center of the line.
+- 'Wait, have we arrived already?' Reacting dryly during the talk, Nastya puts the question word "chto" right at the start so Katya hears the focus immediately.
+- 'Denis offered for me to go away with him.' Katya replies lightly with a smile, without trying to dress up how she really feels.
+- 'Where to, your wedding is tomorrow!' Turning to the wedding in the exchange, Nastya brings in "svadba" ("wedding") to make the meaning unmistakable.
+- 'Thank you very much for reminding me.' Katya politely extends this word of thanks at the start of the beat using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Is it normal that I am having doubts?' Katya asks candidly about what Nastya just brought up.
+- 'Nikita is a very good person, after all.' Confirming how good things are to Katya, Nastya chooses "khoroshiy" ("good") so Katya gets the point right away.
+- 'Yes, he is truly very good.' Showing how good he is in the exchange, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'But I cheated on him with Denis.' Katya answers promptly with Denis, so Denis knows she is not just making small talk.
+- 'On that day he proposed to me.' Underscoring the offer on the spot, Katya brings in "predlozheniye" ("offer, proposal") to make the meaning unmistakable.
+- 'Everything is fine, let us go now.' Emphasizing the order during the talk, Denis reaches for the Russian word "poryadke" ("order", built from "poryadok") right at the center of the line.

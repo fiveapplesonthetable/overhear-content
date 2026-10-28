@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Lena, I have already arranged everything!' Barinov proceeds right away in this moment, making his position completely clear.
-- 'Tomorrow morning the three of us will be by the registry office.' Barinov stresses one loaded piece on cue: "vtroyom" means "the three of us", and it carries the main weight of what Barinov is saying.
-- 'First we quickly divorce you two, and then we marry us!' Barinov centers this clear piece in reply: "snachala" means "first, at first", and it carries the main weight of what Barinov is saying.
-- 'Vitya, and how did you manage to persuade him?' Elena prompts evenly whether Mikhail really thought this through.
-- 'You know me, I can persuade anyone!' Barinov leans on one classic choice in earnest: "lyubogo" means "any" (from "lyuboy"), giving the line its exact edge.
-- 'Alright, agreed, and what is that noise over there?' Elena shares the comeback toward Mikhail: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'The guys just threw a small celebration for me here.' Barinov speaks up plainly to be clear, shifting the whole mood of the room in a single beat.
-- 'Do not worry, I am not going to drink today!' Barinov grounds one familiar detail with Mikhail: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'My friend, tomorrow morning I am finally getting married!' Elena answers quietly across the room, shifting the whole mood of the room in a single beat.
-- 'What is the meaning of this? All the guests are complaining about you!' Mikhail wonders curiously whether Elena really thought this through.
-- 'Stop grumbling, Misha, my wedding is tomorrow morning!' Barinov grounds one practical element for Elena: "svadba" means "wedding", and it carries the main weight of what Barinov is saying.
-- 'Sit down at the table with us, let's have a drink instead!' Barinov offers this update to Mikhail: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Hello, Lena, I have already arranged everything!' Barinov counters right away across the room, grounding the moment in plain reality.
+- 'Tomorrow morning the three of us will be by the registry office.' Mentioning the registry office in front of Elena, Barinov centers the thought on "zagsa" ("registry office", from "zags") without wasting a word.
+- 'First we quickly divorce you two, and then we marry us!' Barinov answers calmly with a nod, leaving no doubt about where he stands.
+- 'Vitya, and how did you manage to persuade him?' Elena prompts evenly before Barinov can change the subject.
+- 'You know me, I can persuade anyone!' Barinov continues sharply beside Elena and centers the thought on "ugovoryu" ("persuade, talk into", from "ugovorit") without wasting a word.
+- 'Alright, agreed, and what is that noise over there?' Addressing the noise beside Barinov, Elena uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'The guys just threw a small celebration for me here.' Barinov steps in plainly toward Elena, testing Elena's reaction in the middle of the exchange.
+- 'Do not worry, I am not going to drink today!' Barinov answers promptly on the spot and brings in "volnuysya" ("worry", from "volnovatsya") as the key Russian word here.
+- 'My friend, tomorrow morning I am finally getting married!' Bringing up her friend to Barinov, Elena puts the emphasis on "podruga" ("female friend") in the middle of the talk.
+- 'What is the meaning of this? All the guests are complaining about you!' Mikhail wonders curiously where this conversation is heading next.
+- 'Stop grumbling, Misha, my wedding is tomorrow morning!' Discussing his wedding right here, Barinov lands on "svadba" ("wedding") as the key everyday word here.
+- 'Sit down at the table with us, let's have a drink instead!' Touching on the table in front of Mikhail, Barinov starts with "davay" ("come on, let's") to invite Mikhail right into the action.

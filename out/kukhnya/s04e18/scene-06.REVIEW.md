@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna, may I have a minute with you?' Barinov challenges plainly before German can change the subject.
-- 'Vika, be more careful with this German.' Barinov reaches for one memorable detail right here: "ostorozhneye" means "more carefully", and it carries the main weight of what Barinov is saying.
-- 'He is a psychopath and very aggressive.' Barinov lays out that point before German: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Vitya, why are you talking like that?' Vika checks skeptically if there is more going on behind the scenes.
-- 'I have one terrible video.' Barinov colors one loaded term right here: "strashnoye" means "terrible" (from "strashnyy"), giving the line its exact edge.
-- 'In it he brutally beats a person.' Barinov pushes back at once toward Vika, making his position completely clear.
-- 'Vitya, just accept it already.' Vika continues pointedly before Barinov, so Barinov knows she is not just making small talk.
-- 'German is not to blame for anything.' Vika centers one key touch in earnest: "vinovat" means "at fault, guilty" (from "vinovatyy"), giving the line its exact edge.
-- 'You lost your place yourself.' Vika grounds one key term right here: "poteryal" means "lost" (from "poteryat"), giving the line its exact edge.
-- 'Viktoriya Sergeyevna, are you having some problems?' German challenges deadpan before Vika can change the subject.
-- 'I knew that they would bring this up someday.' German focuses on one pointed word right here: "kogda-nibud" means "someday, one day", and it carries the main weight of what German is saying.
-- 'Come along, I will tell you everything.' German uses one colorful element for Vika: "rasskazhu" means "will tell" (from "rasskazat"), giving the line its exact edge.
+- 'Viktoriya Sergeyevna, may I have a minute with you?' Barinov challenges plainly before Vika can change the subject.
+- 'Vika, be more careful with this German.' Barinov speaks dryly in front of German and brings in "ostorozhneye" ("more carefully") to make the meaning unmistakable.
+- 'He is a psychopath and very aggressive.' Addressing the aggressive during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Vitya, why are you talking like that?' Vika checks skeptically how Barinov expects that to work in practice.
+- 'I have one terrible video.' Focusing on the video to Vika, Barinov uses "strashnoye" ("terrible", from "strashnyy") to make the point stick.
+- 'In it he brutally beats a person.' Talking about a person in this beat, Barinov brings in "zhestoko" ("cruelly") to make the meaning unmistakable.
+- 'Vitya, just accept it already.' Vika follows up pointedly with Barinov, shifting the mood of the conversation in a single beat.
+- 'German is not to blame for anything.' Vika chimes in quietly right here and leans on "vinovat" ("at fault, guilty", a form of "vinovatyy") to give the remark its edge.
+- 'You lost your place yourself.' Vika replies briskly hearing German, making her position completely clear.
+- 'Viktoriya Sergeyevna, are you having some problems?' German challenges deadpan why things suddenly took this turn between them.
+- 'I knew that they would bring this up someday.' German speaks dryly in this beat and puts the emphasis on "kogda-nibud" ("someday, one day") in the middle of the talk.
+- 'Come along, I will tell you everything.' German speaks sharply with Vika, without trying to dress up how he really feels.

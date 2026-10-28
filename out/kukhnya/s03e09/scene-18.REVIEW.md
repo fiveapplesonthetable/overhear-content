@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastenka, hello, my beloved daughter.' The guest replies calmly hearing Nastya, before Nastya can change the subject.
-- 'Hello, I wanted to talk with you.' Nastya reaches for this key expression at once: "pogovorit" means "to talk", and it carries the main weight of what Nastya is saying.
-- 'Speak, daughter, I am all ears.' The guest follows up warmly around Nastya, shifting the whole mood of the room in a single beat.
-- 'I have never asked you for anything.' Nastya holds firm right away to be clear, testing the guest's reaction in the middle of the exchange.
-- 'But right now things are a bit tight with money for us.' Nastya highlights one clear word at once: "trudnovato" means "a bit difficult", and it carries the main weight of what Nastya is saying.
-- 'Kostik even got a second job.' Nastya drops the reaction at once: the "-sya" ending on "ustroilsya" ("to settle, to get a job") turns the action inward or makes it happen between people naturally.
-- 'He works without days off, my poor darling.' Nastya speaks decisively with the guest, refusing to let the moment slip past.
-- 'He tries so hard and is saving up for the wedding.' Nastya spotlights one colorful word on cue: "starayetsya" means "to try" (from "staratsya"), giving the line its exact edge.
-- 'Could you possibly lend us some money?' Nastya voices that point for the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
-- 'Daughter, I would have given it to you anyway.' The guest opens up decisively to be clear, before Nastya can change the subject.
-- 'No, this is a loan, I will pay it back.' Nastya stresses this clear term at once: "dolg" means "debt", and it carries the main weight of what Nastya is saying.
-- 'Just do not tell Kostik, or he will get angry.' Nastya phrases this warning calmly now: the "-sya" ending on "rasserditsya" ("will get angry") turns the action inward or makes it happen between people naturally.
+- 'Nastenka, hello, my beloved daughter.' The guest speaks up calmly on the spot, so Nastya knows he is not just making small talk.
+- 'Hello, I wanted to talk with you.' Nastya fires back candidly on the spot and reaches for the Russian word "pogovorit" ("to talk") right at the heart of the line.
+- 'Speak, daughter, I am all ears.' Turning to the attention beside Nastya, the guest puts the emphasis on "vnimaniye" ("attention") in the middle of the talk.
+- 'I have never asked you for anything.' Nastya pushes back right away in this moment, without trying to dress up how she really feels.
+- 'But right now things are a bit tight with money for us.' Touching on the money beside the guest, Nastya lands on "trudnovato" ("a bit difficult") as the key everyday word here.
+- 'Kostik even got a second job.' Talking about a second job at once, Nastya lands on "vtoruyu" ("second", built on "vtoroy") to keep the statement grounded.
+- 'He works without days off, my poor darling.' Nastya weighs in decisively in their talk, steering the talk right where she wants it.
+- 'He tries so hard and is saving up for the wedding.' Discussing the wedding with the guest, Nastya centers the thought on "starayetsya" ("to try", from "staratsya") without wasting a word.
+- 'Could you possibly lend us some money?' Reacting smoothly in this beat, Nastya keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'Daughter, I would have given it to you anyway.' The guest responds decisively around Nastya, watching Nastya's face to see how the news lands.
+- 'No, this is a loan, I will pay it back.' Bringing up the debt in front of the guest, Nastya leans on "dolg" ("debt") to give the whole sentence its punch.
+- 'Just do not tell Kostik, or he will get angry.' Turning plainly around the guest, the "-sya" ending on "rasserditsya" ("will get angry") marks an action that unfolds mutually or turns back on the speaker.

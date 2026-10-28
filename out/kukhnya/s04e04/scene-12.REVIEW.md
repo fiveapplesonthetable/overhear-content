@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena Pavlovna, you should go get some rest.' Barinov replies at once around Elena, steering the talk right where he wants it.
-- 'We will manage fine here.' Barinov spotlights this clear expression in earnest: "spravimsya" means "will manage" (from "spravitsya"), giving the line its exact edge.
-- 'Yes, I can see that you have plenty of free time.' Elena shares that remark calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Enough for conversations and everything else.' Elena weighs in decisively with a nod, before Max can change the subject.
-- 'Take another order.' Elena chooses one classic piece in reply: "yeshchyo" means "more, still", and it carries the main weight of what Elena is saying.
-- 'Here, a summer salad and bolognese.' Elena aims this warning toward Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'So you don't want to talk?' Max quizzes candidly how Barinov expects that to work in practice.
-- 'Okay, let's talk this way.' Max highlights one key choice for Elena: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
-- 'Yesterday you were wrong. I was wrong too.' Max highlights one telling term at once: "prava" means "right, correct" (from "pravyy"), giving the line its exact edge.
-- 'But since you and I are serious adults...' Max reacts promptly as things stand, steering the talk right where he wants it.
-- 'Right now?' Max emphasizes this vivid word for Barinov: "seychas" means "now", and it carries the main weight of what Max is saying.
-- 'Awesome, let's go.' Max sends the reaction facing Elena: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Elena Pavlovna, you should go get some rest.' Barinov jumps in at once facing Elena, watching Elena's face to see how the news lands.
+- 'We will manage fine here.' Barinov continues smoothly to Elena and reaches for the Russian word "spravimsya" ("will manage", built from "spravitsya") right at the center of the line.
+- 'Yes, I can see that you have plenty of free time.' Elena continues frankly with a shrug, grounding the moment in plain reality.
+- 'Enough for conversations and everything else.' Elena jumps in decisively during the talk, watching Barinov's face to see how the news lands.
+- 'Take another order.' Addressing the order in this beat, Elena centers the remark on "yeshchyo" ("more, still") without any extra fuss.
+- 'Here, a summer salad and bolognese.' Focusing on the bolognese during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'So you don't want to talk?' Max quizzes candidly how Elena expects that to work in practice.
+- 'Okay, let's talk this way.' Max speaks up warmly during the talk and lands on "pogovorim" ("we'll have a talk", built on "pogovorit") to keep the statement grounded.
+- 'Yesterday you were wrong. I was wrong too.' Max continues lightly on the spot, without trying to dress up how he really feels.
+- 'But since you and I are serious adults...' Max continues promptly with Elena, keeping the focus on what actually matters here.
+- 'Right now?' Max proceeds naturally right here and uses "pryamo" ("right, just") to carry the main weight of the thought.
+- 'Awesome, let's go.' Dwelling on the cool to Elena, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is your table.' Barinov leans on one clear expression in reply: "stolik" means "table", and it carries the main weight of what Barinov is saying.
-- 'Here is the menu, please.' Max shares that point facing Barinov: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Tell the head chef to serve the turtle soup, okay?' Barinov probes calmly if there is more going on behind the scenes.
-- 'Five hundred rubles.' Max picks one classic choice toward Barinov: "rubley" means "roubles" (from "rubl"), giving the line its exact edge.
-- 'A hundred thousand dollars.' Barinov drops this warning in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'And so what?' Max questions deadpan whether Barinov really thought this through.
-- 'And you drop that frying pan!' Barinov uses one telling choice with Max: "skovorodku" means "frying pan" (from "skovorodka"), giving the line its exact edge.
-- 'Did nobody see it at all?' Max gives this statement for Barinov: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Your turtle soup.' Barinov reacts at once before Max, saying out loud what both of them already know.
-- 'For some people, this path is full of adventures.' Max anchors this key piece for Barinov: "priklyucheniy" means "adventure" (from "priklyucheniye"), giving the line its exact edge.
-- 'Yet by a miracle they manage to hold on.' Barinov makes that thought without pause: the "-sya" ending on "uderzhatsya" ("to hold back") turns the action inward or makes it happen between people naturally.
-- 'While someone else, standing at a crossroads, chooses a direction.' Max responds pointedly beside Barinov, making his position completely clear.
-- 'Without knowing yet where it will lead.' Barinov points to this direct term toward Max: "neizvestno" means "unknown, uncertain", and it carries the main weight of what Barinov is saying.
+- 'Here is your table.' Talking about the table in this beat, Barinov reaches for the Russian word "stolik" ("table") right at the heart of the line.
+- 'Here is the menu, please.' Max readily sends this courtesy word at the start of the beat using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Tell the head chef to serve the turtle soup, okay?' Barinov probes calmly while looking straight at Max here.
+- 'Five hundred rubles.' Pointing to the roubles in this beat, Max uses "rubley" ("roubles", from "rubl") to make the point stick.
+- 'A hundred thousand dollars.' Pointing to the dollars beside Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'And so what?' Max questions deadpan before Barinov can change the subject.
+- 'And you drop that frying pan!' Mentioning the frying pan at once, Barinov chooses "skovorodku" ("frying pan", from the root "skovorodka") so Max hears the exact meaning.
+- 'Did nobody see it at all?' Holding firm briskly during the talk, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Your turtle soup.' Barinov reacts at once without a pause, watching Max's face to see how the news lands.
+- 'For some people, this path is full of adventures.' Focusing on the adventure with Barinov, Max puts the weight on "priklyucheniy" ("adventure", from "priklyucheniye") as the exchange unfolds.
+- 'Yet by a miracle they manage to hold on.' Returning to a miracle beside Max, the "-sya" ending on "uderzhatsya" ("to hold back") marks an action that unfolds mutually or turns back on the speaker.
+- 'While someone else, standing at a crossroads, chooses a direction.' Max follows up pointedly without holding back, refusing to let the moment slip past.
+- 'Without knowing yet where it will lead.' Barinov continues readily right here and leans on "neizvestno" ("unknown, uncertain") to give the whole sentence its punch.

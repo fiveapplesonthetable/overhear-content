@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gulya, our morning did not go well.' Lyova uses this key touch in earnest: "zadalos" means "went well, worked out" (from "zadatsya"), giving the line its exact edge.
-- 'Maybe we can take a walk and discuss everything?' Lyova offers this point to Gulya: the "-sya" ending on "progulyayemsya" ("take a walk") turns the action inward or makes it happen between people naturally.
-- 'Fine, wait for me here for one second.' Gulya cuts in firmly with a sigh, before Ainura can change the subject.
-- 'Well then, are we going for a walk now?' Lyova sharpens one key choice at once: "seychas" means "now", and it carries the main weight of what Lyova is saying.
-- 'Lyova, why are you so sad today?' Ainura lays out the comment before Gulya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Gulya is very offended at me for some reason.' Lyova reacts quietly with a smile, making his position completely clear.
-- 'Well of course, she has been waiting for a wedding for a long time.' Ainura frames this telling element in reply: "konechno" means "of course", and it carries the main weight of what Ainura is saying.
-- 'She should have been married a long time ago.' Ainura holds firm honestly with a smile, to clear the air between them once and for all.
-- 'That is why she is offended at you.' Ainura weighs in boldly as things stand, leaving no doubt about where she stands.
-- 'I am planning to marry her.' Lyova spotlights one vivid word right here: "sobirayus" means "am planning" (from "sobiratsya"), giving the line its exact edge.
-- 'I just cannot get married right now.' Lyova lays out the remark on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Then what are you waiting so long for?' Ainura checks skeptically what Lyova is actually getting at here.
+- 'Gulya, our morning did not go well.' Touching on his morning around Gulya, Lyova chooses "utro" ("morning") so Gulya gets the point right away.
+- 'Maybe we can take a walk and discuss everything?' Replying promptly around Gulya, the "-sya" ending on "progulyayemsya" ("take a walk") marks an action that unfolds mutually or turns back on the speaker.
+- 'Fine, wait for me here for one second.' Gulya continues firmly without any doubt, refusing to let the moment slip past.
+- 'Well then, are we going for a walk now?' Lyova fires back boldly around Gulya and centers the remark on "gulyat" ("to walk") without any extra fuss.
+- 'Lyova, why are you so sad today?' Following up promptly with Lyova, Ainura links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Gulya is very offended at me for some reason.' Lyova cuts in quietly without a pause, grounding the moment in plain reality.
+- 'Well of course, she has been waiting for a wedding for a long time.' Mentioning a wedding in the exchange, Ainura uses "svadbu" ("wedding", from "svadba") to make the point stick.
+- 'She should have been married a long time ago.' Ainura answers earnestly right here and centers the thought on "dolzhna" ("should, must", from "dolzhen") without wasting a word.
+- 'That is why she is offended at you.' Ainura jumps in boldly hearing Lyova, shifting the mood of the conversation in a single beat.
+- 'I am planning to marry her.' Lyova jumps in calmly with Ainura and reaches for the Russian word "sobirayus" ("am planning", built from "sobiratsya") right at the center of the line.
+- 'I just cannot get married right now.' Pressing on dryly in this beat, Lyova uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Then what are you waiting so long for?' Ainura checks skeptically to see how Lyova will answer on the spot.

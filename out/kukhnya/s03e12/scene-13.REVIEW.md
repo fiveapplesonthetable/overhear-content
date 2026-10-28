@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Calm down, please, the paint got smudged right here.' Nastya stresses one telling choice for the guest: "ispachkalas" means "got stained" (from "ispachkatsya"), giving the line its exact edge.
-- 'You hired him for the job yourself.' Kostya centers this key word toward Nastya: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
-- 'So I am the one to blame for everything?' Nastya wonders eagerly where this conversation is heading next.
-- 'Am I supposed to think for three people all by myself?' Nastya anchors one pointed word right here: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
-- 'And have you done anything at all yourself?' Nastya hands over this answer calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
-- 'What do you want from me?' The guest quizzes plainly how Nastya expects that to work in practice.
-- 'Listen, you have two options.' Kostya centers this vivid term for the guest: "varianta" means "options" (from "variant"), giving the line its exact edge.
-- 'Either you live peacefully, or you do not live.' Kostya favors this direct term with Nastya: "zhivyosh" means "to live" (from "zhit"), giving the line its exact edge.
-- 'Oh, my pills were around here somewhere.' The guest holds firm wryly in their talk, testing Kostya's reaction in the middle of the exchange.
-- 'Oh, I feel so bad, so bad!' The guest reaches for one memorable word in reply: "plokho" means "badly", and it carries the main weight of what the guest is saying.
-- 'Found it, and I feel better right away!' The guest responds bluntly with a shrug, keeping the focus on what actually matters here.
-- 'Now get out of my house right now!' The guest opens up dryly as they talk, saying out loud what both of them already know.
+- 'Calm down, please, the paint got smudged right here.' Touching on the dye at once, Nastya leans on "ispachkalas" ("got stained", a form of "ispachkatsya") to give the remark its edge.
+- 'You hired him for the job yourself.' Kostya continues boldly without holding back, so Nastya knows he is not just making small talk.
+- 'So I am the one to blame for everything?' Nastya wonders eagerly about what Kostya just brought up.
+- 'Am I supposed to think for three people all by myself?' Nastya replies decisively in the exchange and lands on "dolzhna" ("should, must", built on "dolzhen") to keep the statement grounded.
+- 'And have you done anything at all yourself?' Pressing on briskly at once, Nastya keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'What do you want from me?' The guest quizzes plainly if there is more going on behind the scenes.
+- 'Listen, you have two options.' Underscoring the options before the guest, Kostya puts the weight on "varianta" ("options", from "variant") as the exchange unfolds.
+- 'Either you live peacefully, or you do not live.' Kostya cuts in steadily with the guest, so the guest knows he is not just making small talk.
+- 'Oh, my pills were around here somewhere.' The guest responds wryly without holding back, watching Kostya's face to see how the news lands.
+- 'Oh, I feel so bad, so bad!' The guest jumps in briskly in front of Kostya and uses "plokho" ("badly") to carry the main weight of the thought.
+- 'Found it, and I feel better right away!' The guest responds quietly in the exchange and leans on "polegchalo" ("felt relieved", a form of "polegchat") to give the remark its edge.
+- 'Now get out of my house right now!' The guest follows up dryly with a smile, watching Kostya's face to see how the news lands.

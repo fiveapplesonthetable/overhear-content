@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe they will not even remember those dishes?' Barinov quizzes quietly why things suddenly took this turn between them.
-- 'Shut your mouth, Fedya.' Nagiyev emphasizes one colorful term in earnest: "zakroy" means "shut, close" (from "zakryt"), giving the line its exact edge.
-- 'They will remember every single thing.' Nagiyev drops that reply frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'They paid good money for that menu.' Barinov opens up openly in their talk, testing Nagiyev's reaction in the middle of the exchange.
-- 'Cook it right now, fast.' Fedya focuses on one telling expression in earnest: "gotovte" means "cook" (from "gotovit"), giving the line its exact edge.
-- 'Dima, we will not make it in time.' Nagiyev states the comment before Fedya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'We do not even have the ingredients here.' Barinov steps in pointedly toward Fedya, watching Fedya's face to see how the news lands.
-- 'Chef, you will have your hour, I will handle everything.' Fedya colors one loaded term for Nagiyev: "chas" means "hour", and it carries the main weight of what Fedya is saying.
-- 'Get out of here right now.' Nagiyev drops the comeback plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I am the one who decides who goes where and when.' Barinov cuts in pointedly in their talk, to clear the air between them once and for all.
-- 'What did you just say, kid?' Fedya favors one direct detail in earnest: "malysh" means "kid, little one", and it carries the main weight of what Fedya is saying.
-- 'Did all of you hear that?' Nagiyev sends that point beside Fedya: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
-- 'Start prepping the appetizers, he will handle it.' Barinov weighs in quietly beside Fedya, watching Fedya's face to see how the news lands.
+- 'Maybe they will not even remember those dishes?' Barinov quizzes quietly before Nagiyev can change the subject.
+- 'Shut your mouth, Fedya.' Underscoring the mouth on the spot, Nagiyev leans on "zakroy" ("shut, close", a form of "zakryt") to give the remark its edge.
+- 'They will remember every single thing.' Speaking quietly around Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'They paid good money for that menu.' Barinov responds openly with a shrug, grounding the moment in plain reality.
+- 'Cook it right now, fast.' Fedya continues frankly to Barinov and reaches for the Russian word "gotovte" ("cook", built from "gotovit") right at the center of the line.
+- 'Dima, we will not make it in time.' Looking over readily in front of Fedya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'We do not even have the ingredients here.' Barinov speaks pointedly around Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'Chef, you will have your hour, I will handle everything.' Focusing on the hour to Barinov, Fedya chooses "chas" ("hour") so Barinov gets the point right away.
+- 'Get out of here right now.' Stepping in directly at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I am the one who decides who goes where and when.' Barinov cuts in pointedly around Nagiyev, refusing to let the moment slip past.
+- 'What did you just say, kid?' Discussing the kid around Nagiyev, Fedya brings in "malysh" ("kid, little one") to make the meaning unmistakable.
+- 'Did all of you hear that?' Weighing in boldly in front of Barinov, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Start prepping the appetizers, he will handle it.' Barinov replies quietly in their talk, grounding the moment in plain reality.

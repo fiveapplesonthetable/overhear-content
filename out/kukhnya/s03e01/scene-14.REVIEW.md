@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We will see about that yet!' Katya sends that thought for the guest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I have gotten hungry.' The guest cuts in steadily beside Max, before Max can change the subject.
-- 'Gentlemen, let's take a lunch break.' The guest grounds this clear piece at once: "obedennyy" means "dining", and it carries the main weight of what the guest is saying.
-- 'We will sign afterward.' The guest sends the comment with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Maxim, what do you have that is delicious here?' The guest prompts wryly what Katya is actually getting at here.
-- 'You know, we have a new menu.' Max frames one pointed expression in reply: "poyavilos" means "appeared" (from "poyavitsya"), giving the line its exact edge.
-- 'Molecular cuisine. Here you go.' Max hands over the comeback calmly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'We will see about that yet!' Holding firm boldly around the guest, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I have gotten hungry.' The guest responds steadily hearing Katya, to clear the air between them once and for all.
+- 'Gentlemen, let's take a lunch break.' Talking about the gentlemen in front of Katya, the guest brings in "obedennyy" ("dining") to make the meaning unmistakable.
+- 'We will sign afterward.' Reacting warmly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Maxim, what do you have that is delicious here?' The guest prompts wryly how Max expects that to work in practice.
+- 'You know, we have a new menu.' Bringing up a new menu in the exchange, Max uses "poyavilos" ("appeared", from "poyavitsya") to make the point stick.
+- 'Molecular cuisine. Here you go.' Max quietly directs this courtesy word at this moment using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
 - 'Chemicals?' The guest checks bluntly if there is more going on behind the scenes.
-- 'No, everything is natural.' Max stresses one clear word on cue: "naturalnoye" means "natural" (from "naturalnyy"), giving the line its exact edge.
-- 'Like in your sausage? Then bring it.' The guest aims that thought facing Max: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Spaghetti and duck, four portions!' Max fires back candidly to settle things, letting the remark speak for itself.
-- 'Order received!' Katya underscores this vivid choice in earnest: "prinyato" means "accepted, copy that" (from "prinyatyy"), giving the line its exact edge.
+- 'No, everything is natural.' Emphasizing how natural things are in the exchange, Max chooses "naturalnoye" ("natural", from the root "naturalnyy") so the guest hears the exact meaning.
+- 'Like in your sausage? Then bring it.' Focusing on the sausage in front of Max, the guest puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'Spaghetti and duck, four portions!' Max proceeds candidly toward the guest, before the guest can change the subject.
+- 'Order received!' Katya pushes back readily right here and chooses "prinyato" ("accepted, copy that", from the root "prinyatyy") so Max hears the exact meaning.

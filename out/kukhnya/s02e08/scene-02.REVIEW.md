@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And this is a woman.' Max states this warning with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Beautiful and intelligent.' Barinov continues honestly as things stand, steering the talk right where he wants it.
-- 'I like her too.' Kostya points to one loaded word with Barinov: "nravitsya" means "is pleasing", and it carries the main weight of what Kostya is saying.
-- 'By the way, when you ask her out on a date, let me know.' Max directs the reply toward Kostya: opening with "kstati" ("by the way") lets Max drop a new detail into the conversation as if it just crossed his mind.
-- 'What did you just say?' Barinov questions plainly about what Kostya just brought up.
-- 'What date are you talking about?' Kostya sharpens one familiar touch in earnest: "svidaniye" means "date", and it carries the main weight of what Kostya is saying.
-- 'Chef, I just want to help.' Max delivers the reaction briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Get the hell out of here.' Barinov speaks wryly with a smile, making his position completely clear.
-- 'Get out, I said!' Kostya uses this vivid touch on cue: "poshel" means "go, off you go" (from "poyti"), giving the line its exact edge.
-- 'Mom, this is my Kostya.' Max shapes this update on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'This is my mother.' Barinov continues calmly on the spot, watching Kostya's face to see how the news lands.
-- 'Very nice to meet you.' Kostya focuses on one vivid piece right here: "priyatno" means "pleasant", and it carries the main weight of what Kostya is saying.
-- 'It is very nice to meet you too.' Max aims this point plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And this is a woman.' Dwelling on a woman before Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Beautiful and intelligent.' Barinov continues honestly in their talk, bringing things back to earth after the buildup.
+- 'I like her too.' Kostya follows up promptly at once and leans on "nravitsya" ("is pleasing") to give the whole sentence its punch.
+- 'By the way, when you ask her out on a date, let me know.' Checking on a date in the exchange, Max opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'What did you just say?' Barinov questions plainly why things suddenly took this turn between them.
+- 'What date are you talking about?' Highlighting the date on the spot, Kostya lands on "svidaniye" ("date") as the key everyday word here.
+- 'Chef, I just want to help.' Holding firm quietly with Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Get the hell out of here.' Barinov weighs in wryly with a nod, keeping the focus on what actually matters here.
+- 'Get out, I said!' Kostya responds firmly right here and brings in "poshel" ("go, off you go", from "poyti") as the key Russian word here.
+- 'Mom, this is my Kostya.' Checking on the mum to Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'This is my mother.' Barinov answers calmly in their talk, keeping the focus on what actually matters here.
+- 'Very nice to meet you.' Kostya replies pointedly around Barinov and puts the emphasis on "priyatno" ("pleasant") in the middle of the talk.
+- 'It is very nice to meet you too.' Pushing back naturally in front of Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.

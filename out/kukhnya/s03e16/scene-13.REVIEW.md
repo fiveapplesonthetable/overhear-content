@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, attention, nobody is going home tonight!' Barinov sharpens one familiar touch toward Katya: "raskhoditsya" means "leaves, disperses", and it carries the main weight of what Barinov is saying.
-- 'Tonight we have a night shift in the kitchen.' Barinov shares that reply briskly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Chef, with such spooky nonsense here, I am not staying at night!' Max chimes in right away toward Barinov, watching Barinov's face to see how the news lands.
-- 'I do not even need all the cooks tonight.' Barinov underscores this direct term on cue: "povara" means "cook" (from "povar"), giving the line its exact edge.
-- 'Katya is staying, and Max, because he is being punished.' Barinov delivers this answer at once: the "-sya" ending on "ostayotsya" ("stays") turns the action inward or makes it happen between people naturally.
-- 'Who else will stay, there will be double pay for the shift!' Barinov answers calmly watching Max, letting the remark speak for itself.
-- 'I will do it, so be it, I will stay to help!' Max sharpens this key choice with Barinov: "ostanus" means "stay" (from "ostatsya"), giving the line its exact edge.
-- 'Katya, have you not finished your work yet?' Max lays out the comeback for Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'No, right now we are going to make your signature sauce!' Katya stands firm steadily with a nod, steering the talk right where she wants it.
-- 'Very funny, do you want to poison someone in the dining room?' Max picks one colorful element in reply: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'Max, I finally found the solution to your problem!' Katya responds boldly with a smile, grounding the moment in plain reality.
-- 'A special substance is contained in the essential oil of thyme.' Katya opens up wryly before Max, without trying to dress up how she really feels.
+- 'Alright, attention, nobody is going home tonight!' Underscoring the attention on the spot, Barinov centers the remark on "vnimaniye" ("attention") without any extra fuss.
+- 'Tonight we have a night shift in the kitchen.' Addressing the kitchen on the spot, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Chef, with such spooky nonsense here, I am not staying at night!' Max answers right away with a sigh, bringing things back to earth after the buildup.
+- 'I do not even need all the cooks tonight.' Focusing on the cook before Max, Barinov lands on "povara" ("cook", built on "povar") to keep the statement grounded.
+- 'Katya is staying, and Max, because he is being punished.' Leaning in smoothly with Katya, the "-sya" ending on "ostayotsya" ("stays") marks an action that unfolds mutually or turns back on the speaker.
+- 'Who else will stay, there will be double pay for the shift!' Barinov responds calmly without a pause, refusing to let the moment slip past.
+- 'I will do it, so be it, I will stay to help!' Max opens up quietly on the spot and centers the thought on "ostanus" ("stay", from "ostatsya") without wasting a word.
+- 'Katya, have you not finished your work yet?' Opening up earnestly in front of Katya, Max keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'No, right now we are going to make your signature sauce!' Katya proceeds steadily with a shrug, so Max knows she is not just making small talk.
+- 'Very funny, do you want to poison someone in the dining room?' Focusing on the hall on the spot, Max chooses "khochesh" ("do you want", from the root "khotet") so Katya hears the exact meaning.
+- 'Max, I finally found the solution to your problem!' Turning to the decision during the talk, Katya uses "resheniye" ("decision") to carry the main weight of the thought.
+- 'A special substance is contained in the essential oil of thyme.' Katya follows up wryly across the room, leaving no doubt about where she stands.

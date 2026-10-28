@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Make sure that this table is available.' Eleonora reacts steadily to be clear, without trying to dress up how she really feels.
-- 'What happened with you over there?' Eleonora favors one pointed word in earnest: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'Why are you looking like that?' Eleonora lays out that thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'They burst into my room.' Barinov chimes in quietly facing Mikhail, without trying to dress up how he really feels.
-- 'I will explain everything to you right now.' Mikhail picks one telling expression with Barinov: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
-- 'Victoria Sergeevna tricked us today.' Mikhail holds firm at once as they talk, refusing to let the moment slip past.
-- 'She said that this gentleman was the inspector.' Mikhail opens up earnestly as things stand, before Barinov can change the subject.
-- 'Do not hesitate, come right in here.' Eleonora sharpens this direct piece with Mikhail: "stesnyaytes" means "be shy, hesitate" (from "stesnyatsya"), giving the line its exact edge.
-- 'Be stricter with all of them.' Eleonora responds lightly without any doubt, watching Barinov's face to see how the news lands.
-- 'Do not worry, we will do everything.' Barinov steps in calmly to be clear, so Mikhail knows he is not just making small talk.
-- 'And how did you find out about that?' Eleonora emphasizes this direct expression for Barinov: "uznali" means "found out, knew" (from "uznat"), giving the line its exact edge.
-- 'First I will go and get dressed.' Barinov speaks bluntly without holding back, watching Mikhail's face to see how the news lands.
+- 'Make sure that this table is available.' Eleonora chimes in steadily across the room, shifting the mood of the conversation in a single beat.
+- 'What happened with you over there?' Eleonora cuts in promptly beside Barinov and uses "sluchilos" ("happened", from "sluchitsya") to make the point stick.
+- 'Why are you looking like that?' Discussing the state around Barinov, Eleonora links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'They burst into my room.' Barinov opens up quietly without a pause, refusing to let the moment slip past.
+- 'I will explain everything to you right now.' Mikhail continues frankly at once and leans on "obyasnyu" ("I'll explain", a form of "obyasnit") to give the remark its edge.
+- 'Victoria Sergeevna tricked us today.' Mikhail weighs in candidly before Barinov and centers the remark on "segodnya" ("today") without any extra fuss.
+- 'She said that this gentleman was the inspector.' Mikhail answers earnestly across the room, steering the talk right where he wants it.
+- 'Do not hesitate, come right in here.' Eleonora continues warmly right here and brings in "stesnyaytes" ("be shy, hesitate", from "stesnyatsya") as the key Russian word here.
+- 'Be stricter with all of them.' Eleonora replies frankly right here and brings in "postrozhe" ("stricter") to make the meaning unmistakable.
+- 'Do not worry, we will do everything.' Barinov weighs in calmly hearing Eleonora, bringing things back to earth after the buildup.
+- 'And how did you find out about that?' Eleonora jumps in vividly before Barinov and lands on "uznali" ("found out, knew", built on "uznat") to keep the statement grounded.
+- 'First I will go and get dressed.' Barinov steps in smoothly around Eleonora and brings in "snachala" ("first, at first") to make the meaning unmistakable.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take more of it, there is plenty of it in there anyway.' Vika features this direct detail in reply: "bolshe" means "more", and it carries the main weight of what Vika is saying.
-- 'Just in case.' Nagiyev drops the comment for Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Do not even think about bringing a weapon.' Vika opens up at once hearing Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
-- 'I am not going to shoot anyone.' Nagiyev leans on one colorful piece in reply: "strelyat" means "shoots", and it carries the main weight of what Nagiyev is saying.
-- 'Galya, do not worry.' Vika brings this warning on cue: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
-- 'You are scaring me already.' Nagiyev answers quietly in this moment, so Vika knows he is not just making small talk.
-- 'We are going to the police immediately.' Vika leans on one familiar choice in earnest: "politsiyu" means "the police" (from "politsiya"), giving the line its exact edge.
-- 'I will handle this myself.' Nagiyev makes that line before Vika: the "-sya" ending on "razberus" ("I will sort out") turns the action inward or makes it happen between people naturally.
-- 'I do not need any bartenders in my car.' Vika opens up quietly on the spot, watching Nagiyev's face to see how the news lands.
-- 'I am coming with you.' Nagiyev directs this answer in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Let him come along, otherwise you will do something foolish out there.' Vika spotlights one loaded word for Nagiyev: "gluposti" means "nonsense" (from "glupost"), giving the line its exact edge.
-- 'I just went out for a smoke.' Nagiyev proceeds boldly on the spot, saying out loud what both of them already know.
-- 'And took the snails out for a walk at the same time?' Vika highlights this direct term in earnest: "vygulival" means "to walk" (from "vygulivat"), giving the line its exact edge.
+- 'Take more of it, there is plenty of it in there anyway.' Vika weighs in calmly during the talk and puts the emphasis on "ravno" ("the same") in the middle of the talk.
+- 'Just in case.' Pointing to the case before Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Do not even think about bringing a weapon.' Vika pushes back at once during the talk, watching Nagiyev's face to see how the news lands.
+- 'I am not going to shoot anyone.' Nagiyev fires back evenly with Vika and lands on "strelyat" ("shoots") as the key everyday word here.
+- 'Galya, do not worry.' Speaking readily around Nagiyev, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'You are scaring me already.' Nagiyev follows up quietly with a smile, watching Vika's face to see how the news lands.
+- 'We are going to the police immediately.' Addressing the police on the spot, Vika leans on "politsiyu" ("the police", a form of "politsiya") to give the remark its edge.
+- 'I will handle this myself.' Speaking boldly before Vika, the "-sya" ending on "razberus" ("I will sort out") marks an action that unfolds mutually or turns back on the speaker.
+- 'I do not need any bartenders in my car.' Vika chimes in quietly with a smile, refusing to let the moment slip past.
+- 'I am coming with you.' Turning candidly on the spot, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Let him come along, otherwise you will do something foolish out there.' Vika pushes back decisively facing Nagiyev, before Nagiyev can change the subject.
+- 'I just went out for a smoke.' Nagiyev jumps in boldly across the room, making his position completely clear.
+- 'And took the snails out for a walk at the same time?' Mentioning the snail before Nagiyev, Vika chooses "ulitok" ("snail, escargot", from the root "ulitka") so Nagiyev hears the exact meaning.

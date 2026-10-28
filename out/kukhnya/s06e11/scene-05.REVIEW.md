@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you imagine, I rode in a taxi and forgot my suitcase.' The guest colors one vivid choice in earnest: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'Then let us call that company right now.' Barinov follows up openly hearing Lyova, steering the talk right where he wants it.
-- 'I just flagged down the first car on the street.' The guest frames this telling term at once: "pervuyu" means "first" (from "pervyy"), giving the line its exact edge.
-- 'Where will we find that driver now?' The guest sends this answer around Lyova: putting the question word "gde" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'It is fine, tomorrow they will make me a new card.' The guest speaks warmly to be clear, making his position completely clear.
-- 'And then I will immediately settle up with you in full.' The guest emphasizes one concrete piece toward Lyova: "rasschitayus" means "pay" (from "rasschitatsya"), giving the line its exact edge.
-- 'Alright, I am waiting, just call me Viktor Petrovich in the kitchen.' Lyova hands over that reply plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'Viktor Petrovich, they just delivered fresh raisins to us.' Lyova responds earnestly in this moment, testing the guest's reaction in the middle of the exchange.
-- 'Only we asked for regular ones, and Timur brought seedless grapes.' Lyova sharpens one concrete touch in earnest: "obychnyy" means "ordinary, regular", and it carries the main weight of what Lyova is saying.
-- 'And he does not want to listen to me there at all.' Lyova delivers this statement without fuss: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Alright, it is time for me to go and work with the groceries.' Barinov cuts in frankly with a sigh, leaving no doubt about where he stands.
-- 'Of course I understand, if anything comes up, I am in my room.' The guest grounds one clear touch toward Lyova: "konechno" means "of course", and it carries the main weight of what the guest is saying.
+- 'Can you imagine, I rode in a taxi and forgot my suitcase.' The guest chimes in firmly with a shrug, making his position completely clear.
+- 'Then let us call that company right now.' Barinov pushes back openly during the talk, so the guest knows he is not just making small talk.
+- 'I just flagged down the first car on the street.' Touching on the first car beside Barinov, the guest lands on "pervuyu" ("first", built on "pervyy") to keep the statement grounded.
+- 'Where will we find that driver now?' Bringing up the driver to Barinov, the guest puts the question word "gde" right at the start so Barinov hears the focus immediately.
+- 'It is fine, tomorrow they will make me a new card.' The guest weighs in warmly on the spot, making his position completely clear.
+- 'And then I will immediately settle up with you in full.' The guest chimes in firmly right here and chooses "rasschitayus" ("pay", from the root "rasschitatsya") so Lyova hears the exact meaning.
+- 'Alright, I am waiting, just call me Viktor Petrovich in the kitchen.' Underscoring the kitchen at once, Lyova reaches for the Russian word "kukhne" ("kitchen", built from "kukhnya") right at the center of the line.
+- 'Viktor Petrovich, they just delivered fresh raisins to us.' Lyova chimes in earnestly hearing Barinov, leaving no doubt about where he stands.
+- 'Only we asked for regular ones, and Timur brought seedless grapes.' Highlighting the seedless grapes during the talk, Lyova brings in "obychnyy" ("ordinary, regular") to make the meaning unmistakable.
+- 'And he does not want to listen to me there at all.' Following up naturally in front of Barinov, Lyova adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Alright, it is time for me to go and work with the groceries.' Barinov follows up frankly without a pause, steering the talk right where he wants it.
+- 'Of course I understand, if anything comes up, I am in my room.' Addressing his room in this beat, the guest centers the thought on "nomere" ("in the hotel room", from "nomer") without wasting a word.

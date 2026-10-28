@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And pass my words on to the warrant officer.' Katya emphasizes this direct expression in earnest: "praporshchiku" means "to the warrant officer" (from "praporshchik"), giving the line its exact edge.
-- 'Let him beg forgiveness on his knees.' Katya stands firm openly toward Nagiyev, steering the talk right where she wants it.
-- 'He tried to buy a Soviet officer!' Katya cuts in promptly to settle things, testing Max's reaction in the middle of the exchange.
-- 'He wants to put me on my knees?' Nagiyev highlights one loaded choice for Max: "postavit" means "to put in, to install", and it carries the main weight of what Nagiyev is saying.
-- 'I will put anyone I want on their knees myself.' Nagiyev steps in steadily without holding back, without trying to dress up how he really feels.
-- 'Hello, bring the guys and drive over to my place.' Nagiyev replies plainly on the spot, keeping the focus on what actually matters here.
-- 'Alright, so be it, live here.' Nagiyev leans on one concrete detail right here: "zhivi" means "to live" (from "zhit"), giving the line its exact edge.
-- 'I can see you are a good person.' Nagiyev centers one classic touch on cue: "khoroshiy" means "good", and it carries the main weight of what Nagiyev is saying.
-- 'Most importantly, pay on time and do not bring men here.' Nagiyev follows up warmly without a pause, to clear the air between them once and for all.
-- 'Max, come inside the apartment quickly.' Katya uses this telling word on cue: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Finally, well where is my thank you?' Katya lays out the reaction before Max: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'It is your duty, so we are even.' Max cuts in earnestly in their talk, letting the remark speak for itself.
+- 'And pass my words on to the warrant officer.' Turning to the warrant officer before Nagiyev, Katya reaches for the Russian word "praporshchiku" ("to the warrant officer", built from "praporshchik") right at the center of the line.
+- 'Let him beg forgiveness on his knees.' Touching on the forgiveness at once, Katya uses "proshcheniya" ("forgiveness", from "proshcheniye") to make the point stick.
+- 'He tried to buy a Soviet officer!' Katya pushes back promptly with a sigh, refusing to let the moment slip past.
+- 'He wants to put me on my knees?' Touching on his knees at once, Nagiyev brings in "koleni" ("knees", from "koleno") as the key Russian word here.
+- 'I will put anyone I want on their knees myself.' Turning to the knees with Katya, Nagiyev lands on "koleni" ("knees", built on "koleno") to keep the statement grounded.
+- 'Hello, bring the guys and drive over to my place.' Nagiyev replies plainly during the talk, refusing to let the moment slip past.
+- 'Alright, so be it, live here.' Nagiyev speaks up candidly during the talk and brings in "zhivi" ("to live", from "zhit") as the key Russian word here.
+- 'I can see you are a good person.' Nagiyev continues boldly with a nod, leaving no doubt about where he stands.
+- 'Most importantly, pay on time and do not bring men here.' Nagiyev reacts warmly around Katya, grounding the moment in plain reality.
+- 'Max, come inside the apartment quickly.' Touching on the flat in this beat, Katya leans on "kvartiru" ("flat", a form of "kvartira") to give the remark its edge.
+- 'Finally, well where is my thank you?' Discussing her thank in the exchange, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It is your duty, so we are even.' Max chimes in earnestly facing Katya, refusing to let the moment slip past.

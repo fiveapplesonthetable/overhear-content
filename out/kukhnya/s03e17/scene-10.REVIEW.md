@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, what on earth is that you have?' Barinov chooses one sharp detail in earnest: "yeshchyo" means "more, still", and it carries the main weight of what Barinov is saying.
-- 'You must not drag good groceries home.' Barinov aims that answer right away: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Chef, honestly I did not steal anything.' Max steps in lightly with a smile, making his position completely clear.
-- 'Keep in mind, I know all your hiding places well.' Barinov emphasizes one colorful word with Max: "tayniki" means "hiding place" (from "taynik"), giving the line its exact edge.
-- 'So do not even try to argue.' Barinov puts this statement right away: the "-sya" ending on "pytaysya" ("try") turns the action inward or makes it happen between people naturally.
-- 'Done, I cleaned all the contacts here.' Max weighs in boldly as things stand, testing Katya's reaction in the middle of the exchange.
-- 'Wow, what an electrician you are!' Katya frames one concrete term with Barinov: "elektrik" means "electrician", and it carries the main weight of what Katya is saying.
-- 'Never hold onto an electrician with your hands.' Max sends the comment before Katya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Let us go to the kitchen, we still have to cook.' Katya responds evenly on the spot, grounding the moment in plain reality.
-- 'Max, get me the rice from the top shelf.' Katya uses this clear touch in earnest: "verkhney" means "top, upper" (from "verkhniy"), giving the line its exact edge.
-- 'And why do I have to be the one to get it?' Max delivers this warning on cue: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Tall Lyova is standing right there, ask him.' Max steps in dryly during the talk, without trying to dress up how he really feels.
+- 'Senya, what on earth is that you have?' Barinov responds frankly in front of Max and centers the remark on "yeshchyo" ("more, still") without any extra fuss.
+- 'You must not drag good groceries home.' Focusing on the groceries in the exchange, Barinov leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Chef, honestly I did not steal anything.' Max speaks lightly with a sigh, to clear the air between them once and for all.
+- 'Keep in mind, I know all your hiding places well.' Highlighting the hiding place on the spot, Barinov leans on "tayniki" ("hiding place", a form of "taynik") to give the remark its edge.
+- 'So do not even try to argue.' Turning candidly in this beat, the "-sya" ending on "pytaysya" ("try") marks an action that unfolds mutually or turns back on the speaker.
+- 'Done, I cleaned all the contacts here.' Max steps in boldly without any doubt, grounding the moment in plain reality.
+- 'Wow, what an electrician you are!' Mentioning an electrician during the talk, Katya reaches for the Russian word "elektrik" ("electrician") right at the heart of the line.
+- 'Never hold onto an electrician with your hands.' Dwelling on an electrician before Katya, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Let us go to the kitchen, we still have to cook.' Katya cuts in evenly toward Max, leaving no doubt about where she stands.
+- 'Max, get me the rice from the top shelf.' Touching on the rice at once, Katya lands on "verkhney" ("top, upper", built on "verkhniy") to keep the statement grounded.
+- 'And why do I have to be the one to get it?' Looking over warmly on the spot, Max puts the question word "pochemu" right at the start so Katya hears the focus immediately.
+- 'Tall Lyova is standing right there, ask him.' Max replies dryly hearing Katya, so Katya knows he is not just making small talk.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, can you imagine, this is my wife!' Rodion features this vivid word toward Barinov: "predstavit" means "to imagine", and it carries the main weight of what Rodion is saying.
-- 'I have not remembered her yet, but that makes it even nicer.' Rodion weighs in quietly before Katya, testing Katya's reaction in the middle of the exchange.
-- 'Thank you, Viktor Petrovich, for not letting my husband starve.' Katya counters lightly toward Barinov, before Barinov can change the subject.
-- 'I want to forget everything except your onion soup.' Rodion reaches for this sharp expression on cue: "lukovogo" means "onion" (from "lukovyy"), giving the line its exact edge.
-- 'Viktor Petrovich, we will all miss you very much.' Katya colors one direct touch toward Barinov: "skuchat" means "to miss", and it carries the main weight of what Katya is saying.
-- 'Believe me, you have nothing at all to worry about.' Rodion reacts right away to be clear, grounding the moment in plain reality.
-- 'Pass on my warmest regards to our Dmitry Vladimirovich.' Rodion emphasizes this direct piece in earnest: "peredavayte" means "pass on, convey" (from "peredavat"), giving the line its exact edge.
-- 'Tell him I sincerely appreciate his part in the recent conflict.' Rodion speaks up pointedly facing Katya, refusing to let the moment slip past.
-- 'Ekaterina Viktorovna, I am leaving these glorious places.' Rodion cuts in firmly with a smile, leaving no doubt about where he stands.
-- 'And me too! Dad, here is my letter, I am quitting.' Katya spotlights this clear choice in earnest: "zayavleniye" means "statement", and it carries the main weight of what Katya is saying.
-- 'Katya, is this because of Max? Why are you leaving?' Barinov offers the reply frankly here: putting the question word "pochemu" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'It does not matter, I no longer want to and will not work here!' Katya replies dryly in this moment, saying out loud what both of them already know.
+- 'Viktor Petrovich, can you imagine, this is my wife!' Highlighting his wife right here, Rodion brings in "predstavit" ("to imagine") to make the meaning unmistakable.
+- 'I have not remembered her yet, but that makes it even nicer.' Rodion reacts pointedly around Katya and uses "priyatneye" ("more pleasant", from "priyatnyy") to make the point stick.
+- 'Thank you, Viktor Petrovich, for not letting my husband starve.' Katya fires back lightly watching Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'I want to forget everything except your onion soup.' Mentioning the soup beside Katya, Rodion reaches for the Russian word "lukovogo" ("onion", built from "lukovyy") right at the center of the line.
+- 'Viktor Petrovich, we will all miss you very much.' Katya chimes in plainly without any doubt, keeping the focus on what actually matters here.
+- 'Believe me, you have nothing at all to worry about.' Rodion cuts in right away without holding back, before Katya can change the subject.
+- 'Pass on my warmest regards to our Dmitry Vladimirovich.' Rodion reacts sharply before Katya and leans on "plamennyy" ("fiery, warm") to give the whole sentence its punch.
+- 'Tell him I sincerely appreciate his part in the recent conflict.' Mentioning the participation in front of Katya, Rodion chooses "uchastiye" ("participation") so Katya gets the point right away.
+- 'Ekaterina Viktorovna, I am leaving these glorious places.' Rodion cuts in firmly facing Barinov, grounding the moment in plain reality.
+- 'And me too! Dad, here is my letter, I am quitting.' Talking about the statement to Rodion, Katya uses "zayavleniye" ("statement") to carry the main weight of the thought.
+- 'Katya, is this because of Max? Why are you leaving?' Replying briskly on the spot, Barinov puts the question word "pochemu" right at the start so Katya hears the focus immediately.
+- 'It does not matter, I no longer want to and will not work here!' Katya replies dryly without holding back, bringing things back to earth after the buildup.

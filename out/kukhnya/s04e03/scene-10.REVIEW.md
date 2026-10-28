@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Disgusting.' German sharpens one vivid word at once: "otvratitelno" means "disgusting", and it carries the main weight of what German is saying.
-- 'Actually, this one is disgusting, and that one was just bad.' German phrases the comment with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Here, this one is the ideal béchamel.' German responds boldly watching Max, leaving no doubt about where he stands.
-- 'Excuse me. Mine was ideal too.' Max colors one direct piece toward German: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Delicious. Let's sum up the results.' German puts this line facing Max: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
-- 'You no longer work for us.' German holds firm boldly with a nod, refusing to let the moment slip past.
-- 'Congratulations to the rest of you. You passed the evaluation.' German spotlights this clear touch with Max: "attestatsiyu" means "evaluation" (from "attestatsiya"), giving the line its exact edge.
-- 'German Mikhailovich, Nagiyev has arrived out there.' Max fires back honestly in this moment, making his position completely clear.
-- 'The top scorer of the evaluation will handle the main course.' German opens up briskly with a sigh, letting the remark speak for itself.
-- 'Yes, Chef.' Max directs this statement without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Get to work, friends, what is the matter?' German aims this statement without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Don't worry, I will cook everything myself.' Max fires back lightly around German, watching German's face to see how the news lands.
+- 'Disgusting.' German replies vividly around Max and centers the remark on "otvratitelno" ("disgusting") without any extra fuss.
+- 'Actually, this one is disgusting, and that one was just bad.' Reacting briskly right here, German uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Here, this one is the ideal béchamel.' German reacts boldly with a smile, watching Max's face to see how the news lands.
+- 'Excuse me. Mine was ideal too.' Max continues earnestly with German and leans on "izvinite" ("sorry, excuse me", a form of "izvinit") to give the remark its edge.
+- 'Delicious. Let's sum up the results.' Turning to the delicious beside Max, German uses the polite or group form "davayte" ("let's") to bring Max into the plan.
+- 'You no longer work for us.' German responds boldly without a pause, so Max knows he is not just making small talk.
+- 'Congratulations to the rest of you. You passed the evaluation.' Addressing the evaluation to Max, German brings in "attestatsiyu" ("evaluation", from "attestatsiya") as the key Russian word here.
+- 'German Mikhailovich, Nagiyev has arrived out there.' Max weighs in honestly with a nod, steering the talk right where he wants it.
+- 'The top scorer of the evaluation will handle the main course.' German pushes back briskly beside Max, refusing to let the moment slip past.
+- 'Yes, Chef.' Max directly speaks this direct affirmation right on cue using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Get to work, friends, what is the matter?' Focusing on the job before Max, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Don't worry, I will cook everything myself.' Max counters lightly watching German, letting the remark speak for itself.

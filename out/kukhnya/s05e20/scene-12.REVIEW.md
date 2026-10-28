@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am not ready to take such a sin upon my soul.' Barinov proceeds evenly watching Eleonora, saying out loud what both of them already know.
-- 'I could not allow you to take such a risk.' Barinov focuses on this direct element at once: "pozvolit" means "afford, allow", and it carries the main weight of what Barinov is saying.
-- 'Nothing would have happened to me!' Barinov brings the comeback calmly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'First your tongue would have gone completely numb.' Barinov answers frankly as things stand, grounding the moment in plain reality.
-- 'Elya, I thought for a long time and wanted to say...' Nagiyev features one concrete touch with Barinov: "khotel" means "wanted" (from "khotet"), giving the line its exact edge.
-- 'Then you would have been thrown into a sudden fever.' Barinov frames this vivid element right here: "brosilo" means "to throw, to leave" (from "brosit"), giving the line its exact edge.
-- 'And severe itching would have started right away.' Barinov speaks up openly before Eleonora, so Eleonora knows he is not just making small talk.
-- 'Dima, tell me, are you alright right now?' Eleonora focuses on one sharp choice at once: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Then your coordination and speech would have failed.' Barinov answers wryly without holding back, testing Eleonora's reaction in the middle of the exchange.
-- 'I have made an important manly decision...' Nagiyev answers wryly without a pause, shifting the whole mood of the room in a single beat.
-- 'Elya, please marry me!' Nagiyev features one clear term for Barinov: "vykhodi" means "go out, marry" (from "vykhodit"), giving the line its exact edge.
-- 'Dima, what is wrong with you, why are you silent?' Eleonora brings the reaction toward Nagiyev: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'I am not ready to take such a sin upon my soul.' Barinov speaks evenly in their talk, shifting the mood of the conversation in a single beat.
+- 'I could not allow you to take such a risk.' Barinov counters candidly right here and chooses "pozvolit" ("afford, allow") so Nagiyev gets the point right away.
+- 'Nothing would have happened to me!' Stepping in candidly at once, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'First your tongue would have gone completely numb.' Barinov responds frankly during the talk, testing Nagiyev's reaction in the middle of the exchange.
+- 'Elya, I thought for a long time and wanted to say...' Nagiyev reacts readily before Barinov and leans on "dolgo" ("for a long time") to give the whole sentence its punch.
+- 'Then you would have been thrown into a sudden fever.' Barinov fires back lightly with a shrug, before Nagiyev can change the subject.
+- 'And severe itching would have started right away.' Barinov speaks openly with a smile, without trying to dress up how he really feels.
+- 'Dima, tell me, are you alright right now?' Underscoring the order in front of Barinov, Eleonora uses "poryadke" ("order", from "poryadok") to make the point stick.
+- 'Then your coordination and speech would have failed.' Focusing on the coordination right here, Barinov uses "koordinatsiya" ("coordination") to carry the main weight of the thought.
+- 'I have made an important manly decision...' Nagiyev opens up wryly around Barinov, so Barinov knows he is not just making small talk.
+- 'Elya, please marry me!' Nagiyev fires back plainly in the exchange and lands on "vykhodi" ("go out, marry", built on "vykhodit") to keep the statement grounded.
+- 'Dima, what is wrong with you, why are you silent?' Looking over warmly beside Nagiyev, Eleonora puts the question word "chto" right at the start so Nagiyev hears the focus immediately.

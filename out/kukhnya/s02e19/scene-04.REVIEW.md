@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, please enjoy.' Max frames that remark calmly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Oh my, Max, you have outdone yourself again.' Barinov sharpens this telling piece toward Vika: "opyat" means "again", and it carries the main weight of what Barinov is saying.
-- 'Do not worry at all, it is my pleasure.' Vika fires back steadily around Barinov, saying out loud what both of them already know.
-- 'Do you mind if I sit?' Max offers the remark for Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'No, no, I do not mind at all.' Barinov reacts plainly across the room, so Max knows he is not just making small talk.
-- 'What a wonderful aroma.' Vika chimes in at once without any doubt, bringing things back to earth after the buildup.
-- 'You are a magician, Max.' Barinov leans on one vivid element toward Max: "volshebnik" means "a wizard, magician", and it carries the main weight of what Barinov is saying.
-- 'I did my very best, specially for you.' Barinov makes that answer beside Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Hello there, Viktoriya Sergeyevna.' Max speaks decisively across the room, making his position completely clear.
-- 'Have a seat, Viktoriya Sergeyevna.' Max focuses on this vivid touch at once: "sadis" means "sit down" (from "saditsya"), giving the line its exact edge.
-- 'Everything in the restaurant is going fine.' Barinov directs the remark without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Aha, well thank goodness for that.' Vika steps in openly before Max, leaving no doubt about where she stands.
-- 'What are you staring at?' Max reaches for one colorful piece on cue: "smotrish" means "are staring" (from "smotret"), giving the line its exact edge.
+- 'Here you go, please enjoy.' Max lightly drops this courtesy word at this moment using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Oh my, Max, you have outdone yourself again.' Barinov jumps in firmly with a smile, without trying to dress up how he really feels.
+- 'Do not worry at all, it is my pleasure.' Vika counters steadily without a pause, refusing to let the moment slip past.
+- 'Do you mind if I sit?' Following up boldly right here, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'No, no, I do not mind at all.' Barinov opens up plainly on the spot, grounding the moment in plain reality.
+- 'What a wonderful aroma.' Vika reacts at once with a nod, so Barinov knows she is not just making small talk.
+- 'You are a magician, Max.' Talking about the wizard around Max, Barinov chooses "volshebnik" ("a wizard, magician") so Max gets the point right away.
+- 'I did my very best, specially for you.' Reacting warmly to Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Hello there, Viktoriya Sergeyevna.' Max proceeds decisively on the spot, shifting the mood of the conversation in a single beat.
+- 'Have a seat, Viktoriya Sergeyevna.' Max steps in pointedly during the talk and centers the thought on "sadis" ("sit down", from "saditsya") without wasting a word.
+- 'Everything in the restaurant is going fine.' Turning to the restaurant at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Aha, well thank goodness for that.' Vika counters openly on the spot, shifting the mood of the conversation in a single beat.
+- 'What are you staring at?' Max continues boldly with Vika and centers the thought on "smotrish" ("are staring", from "smotret") without wasting a word.

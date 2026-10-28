@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, did he really always drink like this?' Max hands over the comeback briskly now: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
-- 'As far as I remember, yes, always.' Katya chimes in firmly to be clear, saying out loud what both of them already know.
-- 'In childhood he took me to the market.' Katya emphasizes one loaded word on cue: "detstve" means "childhood" (from "detstvo"), giving the line its exact edge.
-- 'There he accidentally lost me.' Katya responds frankly to be clear, so Vika knows she is not just making small talk.
-- 'Later he found me, and as a result he quit drinking.' Katya follows up bluntly without holding back, testing Max's reaction in the middle of the exchange.
-- 'A great idea was just born in my head.' Max frames this key expression at once: "otlichnaya" means "excellent" (from "otlichnyy"), giving the line its exact edge.
-- 'But you have to help me with it.' Max emphasizes this sharp element in earnest: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
-- 'Alright, I will definitely help you.' Katya answers briskly during the talk, keeping the focus on what actually matters here.
-- 'Quiet, you and I will finish talking later.' Max focuses on one clear piece on cue: "dogovorim" means "we will finish talking" (from "dogovorit"), giving the line its exact edge.
-- 'Katya, did you bring your documents?' Vika makes this statement right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Excuse me, I forgot again today.' Katya stands firm warmly beside Max, before Max can change the subject.
-- 'Let me definitely bring them tomorrow.' Katya features one sharp choice right here: "davayte" means "let's" (from "davat"), giving the line its exact edge.
+- 'Listen, did he really always drink like this?' Looking over directly in front of Katya, Max leads with "neuzheli" ("can it really be that...?") to pack disbelief into the first beat.
+- 'As far as I remember, yes, always.' Katya reacts firmly during the talk, steering the talk right where she wants it.
+- 'In childhood he took me to the market.' Underscoring the childhood at once, Katya puts the weight on "detstve" ("childhood", from "detstvo") as the exchange unfolds.
+- 'There he accidentally lost me.' Katya responds frankly in this beat and centers the remark on "sluchayno" ("by any chance") without any extra fuss.
+- 'Later he found me, and as a result he quit drinking.' Katya continues bluntly around Max, shifting the mood of the conversation in a single beat.
+- 'A great idea was just born in my head.' Bringing up a great idea with Katya, Max leans on "otlichnaya" ("excellent", a form of "otlichnyy") to give the remark its edge.
+- 'But you have to help me with it.' Max chimes in steadily toward Katya, shifting the mood of the conversation in a single beat.
+- 'Alright, I will definitely help you.' Katya responds briskly with Max, letting the remark speak for itself.
+- 'Quiet, you and I will finish talking later.' Max follows up boldly beside Katya and centers the thought on "dogovorim" ("we will finish talking", from "dogovorit") without wasting a word.
+- 'Katya, did you bring your documents?' Opening up directly before Katya, Vika keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Excuse me, I forgot again today.' Katya gently chooses this polite apology without hesitation using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Let me definitely bring them tomorrow.' Katya jumps in pointedly to Vika and reaches for the Russian word "davayte" ("let's", built from "davat") right at the center of the line.

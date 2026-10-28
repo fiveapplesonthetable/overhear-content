@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nagiyev got awfully generous today, don't you find?' Mikhail questions curiously about what Barinov just brought up.
-- 'The main thing for him is to show off in front of Elya and everyone.' Barinov frames this direct detail with Mikhail: "pokrasovatsya" means "to show off", and it carries the main weight of what Barinov is saying.
-- 'In a word, he is just a typical actor.' Barinov brings this update without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Listen, but you have known him longer.' Mikhail speaks up lightly to settle things, keeping the focus on what actually matters here.
-- 'Did he ever give such expensive gifts to anyone before?' Mikhail spotlights this direct detail for Barinov: "dorogiye" means "dear" (from "dorogoy"), giving the line its exact edge.
-- 'When he was courting Vika, he gave her a car.' Barinov reacts openly without holding back, saying out loud what both of them already know.
+- 'Nagiyev got awfully generous today, don't you find?' Mikhail questions curiously whether Barinov really thought this through.
+- 'The main thing for him is to show off in front of Elya and everyone.' Barinov reacts smoothly during the talk and centers the remark on "pokrasovatsya" ("to show off") without any extra fuss.
+- 'In a word, he is just a typical actor.' Stressing how typical he is around Mikhail, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Listen, but you have known him longer.' Mikhail replies lightly without holding back, grounding the moment in plain reality.
+- 'Did he ever give such expensive gifts to anyone before?' Discussing the presents right here, Mikhail reaches for the Russian word "dorogiye" ("dear", built from "dorogoy") right at the center of the line.
+- 'When he was courting Vika, he gave her a car.' Mentioning a car with Mikhail, Barinov reaches for the Russian word "ukhazhival" ("courted, paid court to", built from "ukhazhivat") right at the center of the line.
 - 'Wait, what are you hinting at to me right now?' Barinov prompts promptly whether Mikhail really thought this through.
-- 'That man holds nothing sacred in life.' Mikhail highlights this direct piece on cue: "svyatogo" means "holy, sacred" (from "svyatoy"), giving the line its exact edge.
-- 'He even cheated on his own wife at his wedding!' Mikhail proceeds bluntly without holding back, refusing to let the moment slip past.
-- 'Oh come on, what a dark-minded man you are!' Barinov responds warmly without holding back, testing Mikhail's reaction in the middle of the exchange.
-- 'Katya, forgive me for bothering you on your birthday.' Mikhail frames one practical piece toward Barinov: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
-- 'They are asking from the room how much longer to wait for the order.' Mikhail speaks earnestly without holding back, bringing things back to earth after the buildup.
+- 'That man holds nothing sacred in life.' Bringing up the life before Barinov, Mikhail chooses "svyatogo" ("holy, sacred", from the root "svyatoy") so Barinov hears the exact meaning.
+- 'He even cheated on his own wife at his wedding!' Underscoring the wedding in the exchange, Mikhail brings in "sobstvennoy" ("own, proper", from "sobstvennyy") as the key Russian word here.
+- 'Oh come on, what a dark-minded man you are!' Barinov cuts in warmly without a pause, letting the remark speak for itself.
+- 'Katya, forgive me for bothering you on your birthday.' Mentioning the birth right here, Mikhail puts the weight on "rozhdeniya" ("of birth", from "rozhdeniye") as the exchange unfolds.
+- 'They are asking from the room how much longer to wait for the order.' Underscoring the number in the exchange, Mikhail chooses "sprashivayut" ("are asking for", from the root "sprashivat") so Barinov hears the exact meaning.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, my name is Chef Viktor Barinov.' Barinov speaks wryly with a shrug, to clear the air between them once and for all.
-- 'Very nice to meet you, what do I owe the pleasure to?' The guest frames one key piece right here: "obyazan" means "obliged, owing" (from "obyazannyy"), giving the line its exact edge.
-- 'I wanted to talk about our sous-chef.' Barinov follows up calmly with a shrug, keeping the focus on what actually matters here.
-- 'Very interesting, I am listening to you attentively.' The guest cuts in steadily to settle things, making his position completely clear.
-- 'It seems to me that Lyova is still young.' Barinov sharpens this clear piece on cue: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'What is that you are saying about me there?' Lyova frames this point to the guest: putting the question word "chto" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'Lyova, and what are you doing over there?' Barinov asks briskly whether the guest really thought this through.
-- 'I see they really do not want to let you go.' The guest spotlights one classic word in reply: "otpuskat" means "to let go, to release", and it carries the main weight of what the guest is saying.
-- 'And after all, that is the very best recommendation!' The guest offers this answer plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Please, help yourself today on the house.' Lyova opens up evenly with a smile, steering the talk right where he wants it.
-- 'Nastya went to visit her parents today after all.' Lyova highlights one clear detail at once: "roditelyam" means "to parents" (from "roditeli"), giving the line its exact edge.
-- 'So I thought we could sit calmly together.' Lyova opens up decisively before the guest, watching the guest's face to see how the news lands.
+- 'Hello, my name is Chef Viktor Barinov.' Barinov proceeds wryly across the room, testing the guest's reaction in the middle of the exchange.
+- 'Very nice to meet you, what do I owe the pleasure to?' The guest jumps in quietly before Barinov and reaches for the Russian word "obyazan" ("obliged, owing", built from "obyazannyy") right at the center of the line.
+- 'I wanted to talk about our sous-chef.' Barinov follows up vividly on the spot and centers the thought on "su-shefe" ("sous-chef", from "su-shef") without wasting a word.
+- 'Very interesting, I am listening to you attentively.' The guest answers steadily watching Barinov, bringing things back to earth after the buildup.
+- 'It seems to me that Lyova is still young.' Noting how young things are to Lyova, Barinov reaches for the Russian word "molodoy" ("young") right at the heart of the line.
+- 'What is that you are saying about me there?' Leaning in openly before Barinov, Lyova puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Lyova, and what are you doing over there?' Barinov asks briskly before Lyova can change the subject.
+- 'I see they really do not want to let you go.' The guest fires back naturally in the exchange and uses "otpuskat" ("to let go, to release") to carry the main weight of the thought.
+- 'And after all, that is the very best recommendation!' Mentioning the recommendation on the spot, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Please, help yourself today on the house.' Mentioning the establishment without a pause, Lyova makes it clear to the guest that he means every word.
+- 'Nastya went to visit her parents today after all.' Bringing up the parents beside the guest, Lyova puts the weight on "roditelyam" ("to parents", from "roditeli") as the exchange unfolds.
+- 'So I thought we could sit calmly together.' Lyova weighs in promptly in the exchange and centers the remark on "spokoyno" ("calmly") without any extra fuss.

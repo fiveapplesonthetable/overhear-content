@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just make sure you do not lose that key.' German answers quietly to settle things, keeping the focus on what actually matters here.
-- 'Do not worry, only I have the key.' Denis anchors this clear detail with Vika: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'So German himself set all of this up!' Vika proceeds warmly beside Denis, watching Denis's face to see how the news lands.
-- 'What a cunning scoundrel he is!' Vika answers honestly on the spot, shifting the whole mood of the room in a single beat.
-- 'That is the kind of handsome man he is.' German anchors one classic touch in earnest: "krasivyy" means "beautiful", and it carries the main weight of what German is saying.
-- 'Vika, he will pay for everything.' German speaks up honestly on the spot, leaving no doubt about where he stands.
-- 'I firmly promise you that.' German weighs in warmly beside Denis, so Denis knows he is not just making small talk.
-- 'And I want to help too.' Vika focuses on one colorful detail on cue: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'Tonight we are having dinner at Senya's place.' Denis fires back pointedly in their talk, to clear the air between them once and for all.
-- 'But I have plans for the evening.' Vika speaks up briskly watching German, grounding the moment in plain reality.
-- 'That's right, you are going with me to Senya's.' Denis points to this clear piece on cue: "pravilno" means "right", and it carries the main weight of what Denis is saying.
-- 'We will meet in the evening after work.' Denis directs the reaction without fuss: the "-sya" ending on "vstretimsya" ("we'll meet") turns the action inward or makes it happen between people naturally.
+- 'Just make sure you do not lose that key.' German follows up quietly watching Denis, refusing to let the moment slip past.
+- 'Do not worry, only I have the key.' Pointing to the key in front of German, Denis lands on "volnuytes" ("worry", built on "volnovatsya") to keep the statement grounded.
+- 'So German himself set all of this up!' Vika replies dryly in the exchange and lands on "podstroil" ("engineered", built on "podstroit") to keep the statement grounded.
+- 'What a cunning scoundrel he is!' Vika responds honestly during the talk, bringing things back to earth after the buildup.
+- 'That is the kind of handsome man he is.' Underscoring how beautiful he is in this beat, German reaches for the Russian word "krasivyy" ("beautiful") right at the heart of the line.
+- 'Vika, he will pay for everything.' German responds briskly in front of Vika and leans on "otvetit" ("will answer") to give the whole sentence its punch.
+- 'I firmly promise you that.' German counters warmly on the spot, leaving no doubt about where he stands.
+- 'And I want to help too.' Vika follows up calmly with German and leans on "pomoch" ("to help") to give the whole sentence its punch.
+- 'Tonight we are having dinner at Senya's place.' Denis pushes back calmly at once and uses "uzhinayem" ("to dine", from "uzhinat") to make the point stick.
+- 'But I have plans for the evening.' Vika speaks briskly with a sigh, leaving no doubt about where she stands.
+- 'That's right, you are going with me to Senya's.' Denis continues evenly to Vika and brings in "pravilno" ("right") to make the meaning unmistakable.
+- 'We will meet in the evening after work.' Checking on the work with Vika, the "-sya" ending on "vstretimsya" ("we'll meet") marks an action that unfolds mutually or turns back on the speaker.

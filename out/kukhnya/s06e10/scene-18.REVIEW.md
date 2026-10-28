@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, may I have literally two words with you?' Lyova challenges curiously while looking straight at the inspector here.
-- 'Yes, of course, I am listening to you very carefully.' The inspector frames one direct word in earnest: "vnimatelno" means "carefully, attentively", and it carries the main weight of what the inspector is saying.
-- 'Comrade commander, please release those two women over there.' Lyova hands over the comeback for the inspector: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Tell me, is the second woman also your girlfriend?' The inspector quizzes skeptically in front of Lyova without any preamble.
-- 'No, not at all, that is her aunt.' Lyova centers this sharp element in reply: "rodnaya" means "dear, darling" (from "rodnoy"), giving the line its exact edge.
-- 'Then that will cost five thousand each.' The inspector continues frankly without a pause, before Lyova can change the subject.
-- 'And do you not feel sorry for all the other people at all?' The inspector probes calmly where this conversation is heading next.
-- 'Let them go back home to unemployment?' The inspector colors one loaded detail in reply: "bezrabotitsu" means "unemployment" (from "bezrabotitsa"), giving the line its exact edge.
-- 'Why not sorry, I feel very sorry for them.' Lyova speaks decisively beside the inspector, shifting the whole mood of the room in a single beat.
-- 'Then hand over the money and take everyone at once!' The inspector cuts in calmly with a smile, leaving no doubt about where he stands.
-- 'Citizens, say a big thank you to this hospitable resident of the capital!' The inspector frames one concrete piece on cue: "gostepriimnomu" means "hospitable" (from "gostepriimnyy"), giving the line its exact edge.
-- 'Everyone is free, walk out calmly back into the courtyard!' The inspector proceeds candidly as things stand, making his position completely clear.
+- 'Excuse me, may I have literally two words with you?' Lyova challenges curiously how the inspector expects that to work in practice.
+- 'Yes, of course, I am listening to you very carefully.' The inspector chimes in candidly with Lyova and lands on "vnimatelno" ("carefully, attentively") as the key everyday word here.
+- 'Comrade commander, please release those two women over there.' Underscoring the comrade in the exchange, Lyova lands on "tovarishch" ("comrade") as the key everyday word here.
+- 'Tell me, is the second woman also your girlfriend?' The inspector quizzes skeptically while looking straight at Lyova here.
+- 'No, not at all, that is her aunt.' Showing how dear things are in this beat, Lyova chooses "rodnaya" ("dear, darling", from the root "rodnoy") so the inspector hears the exact meaning.
+- 'Then that will cost five thousand each.' Discussing the thousand to Lyova, the inspector puts the weight on "tysyach" ("thousand", from "tysyacha") as the exchange unfolds.
+- 'And do you not feel sorry for all the other people at all?' The inspector probes calmly why things suddenly took this turn between them.
+- 'Let them go back home to unemployment?' Pointing to the unemployment to Lyova, the inspector chooses "bezrabotitsu" ("unemployment", from the root "bezrabotitsa") so Lyova hears the exact meaning.
+- 'Why not sorry, I feel very sorry for them.' Lyova follows up openly beside the inspector and chooses "zhalko" ("feel sorry for") so the inspector gets the point right away.
+- 'Then hand over the money and take everyone at once!' The inspector answers calmly facing Lyova, grounding the moment in plain reality.
+- 'Citizens, say a big thank you to this hospitable resident of the capital!' Bringing up the citizen during the talk, the inspector uses "gostepriimnomu" ("hospitable", from "gostepriimnyy") to make the point stick.
+- 'Everyone is free, walk out calmly back into the courtyard!' Confirming how free things are right here, the inspector puts the weight on "svobodny" ("free", from "svobodnyy") as the exchange unfolds.

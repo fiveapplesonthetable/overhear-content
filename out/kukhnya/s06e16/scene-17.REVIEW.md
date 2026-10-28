@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, what are you doing here?' Barinov lays out this point calmly now: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'I got a ticket through the magazine's editorial office.' Elena jumps in evenly hearing the guest, to clear the air between them once and for all.
-- 'It turned out it is not such a closed event.' Elena anchors one practical expression in earnest: "meropriyatiye" means "event", and it carries the main weight of what Elena is saying.
-- 'Why are you not answering your phone?' Elena makes the comment with warmth: putting the question word "pochemu" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'We are preparing for the banquet, I did not hear it.' Barinov jumps in bluntly to be clear, to clear the air between them once and for all.
-- 'Sir, wait, who are you anyway?' Barinov underscores one sharp touch in reply: "muzhchina" means "man", and it carries the main weight of what Barinov is saying.
-- 'Tell me, where is that red-haired cheater?' The guest phrases that reply with ease: putting the question word "gde" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Leave, I will call security in here right now!' Barinov speaks up firmly during the talk, bringing things back to earth after the buildup.
-- 'Stepan Andreyevich, please wait one second!' Barinov stresses this telling element in reply: "andreyevich" means "andreyevich", and it carries the main weight of what Barinov is saying.
-- 'I will explain everything honestly to you right now!' Barinov picks one direct choice toward the guest: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
-- 'Your wife's tears have not even dried yet!' The guest steps in warmly hearing Barinov, to clear the air between them once and for all.
-- 'And you are already back to your old tricks!' The guest points to one sharp word with Elena: "staroye" means "old" (from "staryy"), giving the line its exact edge.
+- 'Lena, what are you doing here?' Following up candidly in the exchange, Barinov puts the question word "chto" right at the start so Elena hears the focus immediately.
+- 'I got a ticket through the magazine's editorial office.' Elena steps in evenly on the spot, leaving no doubt about where she stands.
+- 'It turned out it is not such a closed event.' Emphasizing a closed event right here, Elena leans on "meropriyatiye" ("event") to give the whole sentence its punch.
+- 'Why are you not answering your phone?' Weighing in candidly on the spot, Elena puts the question word "pochemu" right at the start so Barinov hears the focus immediately.
+- 'We are preparing for the banquet, I did not hear it.' Barinov fires back bluntly with a shrug, grounding the moment in plain reality.
+- 'Sir, wait, who are you anyway?' Pointing to the man in front of the guest, Barinov brings in "muzhchina" ("man") to make the meaning unmistakable.
+- 'Tell me, where is that red-haired cheater?' Discussing the cheat right here, the guest puts the question word "gde" right at the start so Barinov hears the focus immediately.
+- 'Leave, I will call security in here right now!' Barinov weighs in firmly around the guest, watching the guest's face to see how the news lands.
+- 'Stepan Andreyevich, please wait one second!' Mentioning the second beside the guest, Barinov lands on "andreyevich" ("andreyevich") as the key everyday word here.
+- 'I will explain everything honestly to you right now!' Barinov weighs in boldly across the room, before the guest can change the subject.
+- 'Your wife's tears have not even dried yet!' The guest jumps in warmly on the spot, watching Barinov's face to see how the news lands.
+- 'And you are already back to your old tricks!' The guest follows up candidly at once and brings in "staroye" ("old", from "staryy") as the key Russian word here.

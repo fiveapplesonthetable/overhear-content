@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Misha, maybe you should not play anymore?' See how Barinov challenges Mikhail on cue — the Russian word "mozhet" ("can", built from "moch") does the heavy lifting.
-- 'Just understand that this is not for you.' Notice how Barinov tells Nastya plainly here — the Russian word "poymi" ("understand", built from "ponyat") does the heavy lifting.
-- 'I know how to play very well.' Mikhail follows up firmly before Barinov, refusing to let the moment slip past.
-- 'I was simply unlucky today.' Mikhail favors this clear word with Nastya: "segodnya" means "today", and it carries the main weight of what Mikhail is saying.
-- 'The hotel owner is calling me to her office.' Barinov holds firm promptly without any doubt, before Mikhail can change the subject.
-- 'Someone has already reported everything to her.' Mikhail holds firm openly to be clear, to clear the air between them once and for all.
-- 'Hello, yes, I can talk now.' Nastya colors one familiar word on cue: "govorit" means "to talk", and it carries the main weight of what Nastya is saying.
-- 'No, Kostya is not nearby right now.' Nastya puts this statement at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'No, I have not said anything yet.' Nastya chimes in bluntly on the spot, to clear the air between them once and for all.
-- 'Maybe I will tell him tonight.' Nastya centers this key expression in reply: "segodnya" means "today", and it carries the main weight of what Nastya is saying.
-- 'No, it is better if I tell him myself.' Nastya opens up candidly during the talk, without trying to dress up how she really feels.
-- 'Alright, that is all, I have to go.' Nastya chimes in evenly with Mikhail, shifting the whole mood of the room in a single beat.
+- 'Misha, maybe you should not play anymore?' Barinov answers earnestly in the exchange and lands on "igrat" ("to play") as the key everyday word here.
+- 'Just understand that this is not for you.' Barinov reacts candidly without any doubt, bringing things back to earth after the buildup.
+- 'I know how to play very well.' Mikhail reacts evenly with a nod, leaving no doubt about where he stands.
+- 'I was simply unlucky today.' Mikhail pushes back decisively in front of Barinov and brings in "segodnya" ("today") to make the meaning unmistakable.
+- 'The hotel owner is calling me to her office.' Bringing up the landlady in the exchange, Barinov centers the remark on "khozyayka" ("landlady") without any extra fuss.
+- 'Someone has already reported everything to her.' Mikhail answers openly with a smile, steering the talk right where he wants it.
+- 'Hello, yes, I can talk now.' Nastya responds directly on the spot and centers the remark on "govorit" ("to talk") without any extra fuss.
+- 'No, Kostya is not nearby right now.' Turning quietly on the spot, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'No, I have not said anything yet.' Nastya cuts in bluntly in their talk, letting the remark speak for itself.
+- 'Maybe I will tell him tonight.' Nastya speaks up vividly with Mikhail and leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'No, it is better if I tell him myself.' Nastya jumps in earnestly beside Mikhail and leans on "luchshe" ("better") to give the whole sentence its punch.
+- 'Alright, that is all, I have to go.' Nastya follows up openly in their talk, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Denis, are you all right today?' Vika aims this line around Denis: opening with the casual greeting "privet" ("hi") signals right away that Vika and Denis are on familiar terms.
-- 'Could you possibly help me?' Vika presses promptly where this conversation is heading next.
-- 'We need to move the couch a little in the office.' Vika focuses on one pointed choice with Denis: "kabinete" means "office" (from "kabinet"), giving the line its exact edge.
-- 'Well, tell me, how are your nightmares?' Vika states this line without fuss: putting the question word "kak" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Nastya, what you are doing is madness!' Kostya follows up quietly as they talk, bringing things back to earth after the buildup.
-- 'Kostya, what, have you lost your mind?' Vika emphasizes one colorful piece on cue: "soshyol" means "gone" (from "soyti"), giving the line its exact edge.
-- 'Oh my, I told you that you would break your arm!' Vika weighs in dryly with a shrug, testing Denis's reaction in the middle of the exchange.
-- 'For the sake of happiness we must make sacrifices every day.' Denis chimes in promptly without any doubt, letting the remark speak for itself.
-- 'We have an unexpected situation here on the show.' Kostya uses one vivid choice toward Denis: "neozhidannaya" means "unexpected" (from "neozhidannyy"), giving the line its exact edge.
-- 'Viktor Barinov left the contest himself.' Kostya holds firm boldly toward Vika, testing Vika's reaction in the middle of the exchange.
-- 'He said that you are available right now.' Vika chimes in sharply in this moment, letting the remark speak for itself.
-- 'Any pain can be endured for the sake of love.' Denis features this sharp word at once: "lyubuyu" means "any" (from "lyuboy"), giving the line its exact edge.
+- 'Hi, Denis, are you all right today?' Returning to the order during the talk, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Could you possibly help me?' Vika presses promptly whether Kostya really thought this through.
+- 'We need to move the couch a little in the office.' Highlighting the office in this beat, Vika puts the weight on "kabinete" ("office", from "kabinet") as the exchange unfolds.
+- 'Well, tell me, how are your nightmares?' Reacting directly in the exchange, Vika puts the question word "kak" right at the start so Kostya hears the focus immediately.
+- 'Nastya, what you are doing is madness!' Kostya cuts in quietly toward Vika, without trying to dress up how he really feels.
+- 'Kostya, what, have you lost your mind?' Underscoring the mind on the spot, Vika chooses "soshyol" ("gone", from the root "soyti") so Kostya hears the exact meaning.
+- 'Oh my, I told you that you would break your arm!' Mentioning the hand in front of Denis, Vika uses "slomayesh" ("to break", from "slomat") to make the point stick.
+- 'For the sake of happiness we must make sacrifices every day.' Denis reacts promptly without a pause, watching Vika's face to see how the news lands.
+- 'We have an unexpected situation here on the show.' Touching on an unexpected situation with Denis, Kostya brings in "neozhidannaya" ("unexpected", from "neozhidannyy") as the key Russian word here.
+- 'Viktor Barinov left the contest himself.' Turning to the contest during the talk, Kostya uses "konkursa" ("contest", from "konkurs") to make the point stick.
+- 'He said that you are available right now.' Vika responds sharply facing Kostya, grounding the moment in plain reality.
+- 'Any pain can be endured for the sake of love.' Underscoring the love in the exchange, Denis lands on "lyubvi" ("love", built on "lyubov") to keep the statement grounded.

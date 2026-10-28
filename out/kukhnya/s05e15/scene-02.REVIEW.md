@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this? I always drink a latte!' Eleonora offers the comeback on cue: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Excuse me, but you did not warn me about that.' Nikita cuts in decisively toward Kostya, before Kostya can change the subject.
-- 'Every day I drink the exact same coffee!' Eleonora favors this sharp touch in reply: "kazhdyy" means "every", and it carries the main weight of what Eleonora is saying.
-- 'First of all, please speak to me in a normal tone.' Nikita cuts in lightly across the room, saying out loud what both of them already know.
-- 'I do not know which coffee you prefer in the morning.' Nikita proceeds lightly toward Eleonora, steering the talk right where he wants it.
-- 'Because I am only working my first day here.' Nikita chooses this telling term right here: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
-- 'Then it is also your last day, you are fired already!' Eleonora uses one telling expression with Kostya: "posledniy" means "last", and it carries the main weight of what Eleonora is saying.
-- 'Nikita, what are you doing? That is the owner of the hotel!' Kostya presses straight out about what Nikita just brought up.
-- 'Go catch up to her quickly and apologize right away!' Kostya chooses one telling touch in reply: "skoreye" means "quickly, right away" (from "skoro"), giving the line its exact edge.
-- 'For what? For the fact that she insulted me?' Nikita voices the reaction calmly now: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Let her be the one to apologize to me now!' Nikita speaks up wryly around Eleonora, grounding the moment in plain reality.
-- 'Are you completely foolish? Go and apologize right now!' Kostya frames one clear element toward Nikita: "glupyy" means "stupid", and it carries the main weight of what Kostya is saying.
+- 'What is this? I always drink a latte!' Touching on a latte around Nikita, Eleonora puts the question word "chto" right at the start so Nikita hears the focus immediately.
+- 'Excuse me, but you did not warn me about that.' Nikita steps in bluntly with Eleonora, letting the remark speak for itself.
+- 'Every day I drink the exact same coffee!' Talking about the coffee in this beat, Eleonora leans on "kofe" ("of coffee") to give the whole sentence its punch.
+- 'First of all, please speak to me in a normal tone.' Nikita reacts sharply on the spot and chooses "razgovarivat" ("to talk, to speak") so Eleonora gets the point right away.
+- 'I do not know which coffee you prefer in the morning.' Nikita weighs in lightly with a shrug, to clear the air between them once and for all.
+- 'Because I am only working my first day here.' Insisting on how first he is in this beat, Nikita reaches for the Russian word "pervyy" ("first") right at the heart of the line.
+- 'Then it is also your last day, you are fired already!' Eleonora speaks promptly toward Nikita, to clear the air between them once and for all.
+- 'Nikita, what are you doing? That is the owner of the hotel!' Kostya presses straight out whether Nikita really thought this through.
+- 'Go catch up to her quickly and apologize right away!' Kostya proceeds readily to Nikita and centers the thought on "skoreye" ("quickly, right away", from "skoro") without wasting a word.
+- 'For what? For the fact that she insulted me?' Holding firm evenly at once, Nikita puts the question word "chto" right at the start so Kostya hears the focus immediately.
+- 'Let her be the one to apologize to me now!' Nikita counters wryly across the room, testing Kostya's reaction in the middle of the exchange.
+- 'Are you completely foolish? Go and apologize right now!' Stressing how stupid things are in this beat, Kostya reaches for the Russian word "glupyy" ("stupid") right at the heart of the line.

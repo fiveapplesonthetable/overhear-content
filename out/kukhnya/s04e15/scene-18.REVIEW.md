@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, my heart is beating like a drum!' The inspector reacts dryly as things stand, refusing to let the moment slip past.
-- 'My fault, Comrade Colonel, permit me to report to you!' The inspector underscores this telling expression right here: "tovarishch" means "comrade", and it carries the main weight of what the inspector is saying.
-- 'Now report in order, what are you doing here?' German directs the comment on cue: putting the question word "chto" right at the front of the line lets the inspector hear the point of the question on the very first beat.
-- 'Comrade Colonel, there is a dangerous den in this restaurant!' The inspector responds earnestly in their talk, making his position completely clear.
-- 'During the day we tracked a small-time courier on the street.' The inspector leans on one memorable piece with German: "vysledili" means "to tracked" (from "vysledit"), giving the line its exact edge.
-- 'They bring strange powder here under the guise of a novelty.' The inspector continues promptly without any doubt, watching Katya's face to see how the news lands.
-- 'And this girl mixes it right into the food!' The inspector jumps in decisively without a pause, leaving no doubt about where he stands.
-- 'Good Lord, what a foolish person you really are!' Katya chooses one sharp touch for the inspector: "glupyy" means "stupid", and it carries the main weight of what Katya is saying.
-- 'Strange, I myself visit this restaurant often.' German fires back evenly facing the inspector, testing the inspector's reaction in the middle of the exchange.
-- 'Who are you people at all and by what right?' German asks eagerly to see how Katya will answer on the spot.
-- 'Comrade Colonel, we need to interrogate all the employees!' The inspector picks one loaded element toward German: "sotrudnikov" means "staff members" (from "sotrudnik"), giving the line its exact edge.
-- 'And we will urgently send the white powders for testing!' The inspector responds decisively with Katya, making his position completely clear.
+- 'Listen, my heart is beating like a drum!' The inspector cuts in dryly toward German, shifting the mood of the conversation in a single beat.
+- 'My fault, Comrade Colonel, permit me to report to you!' Emphasizing the comrade in this beat, the inspector chooses "tovarishch" ("comrade") so German gets the point right away.
+- 'Now report in order, what are you doing here?' Turning boldly in this beat, German puts the question word "chto" right at the start so the inspector hears the focus immediately.
+- 'Comrade Colonel, there is a dangerous den in this restaurant!' The inspector chimes in earnestly hearing German, steering the talk right where he wants it.
+- 'During the day we tracked a small-time courier on the street.' Talking about the street in front of German, the inspector leans on "melkogo" ("small, fine", a form of "melkiy") to give the remark its edge.
+- 'They bring strange powder here under the guise of a novelty.' Highlighting the appearance with Katya, the inspector reaches for the Russian word "strannyy" ("strange, odd") right at the heart of the line.
+- 'And this girl mixes it right into the food!' The inspector weighs in decisively with a nod, grounding the moment in plain reality.
+- 'Good Lord, what a foolish person you really are!' Insisting on how stupid things are in front of the inspector, Katya chooses "glupyy" ("stupid") so the inspector gets the point right away.
+- 'Strange, I myself visit this restaurant often.' Focusing on the restaurant before Katya, German chooses "restorane" ("restaurant", from the root "restoran") so Katya hears the exact meaning.
+- 'Who are you people at all and by what right?' German asks eagerly to see how the inspector will answer on the spot.
+- 'Comrade Colonel, we need to interrogate all the employees!' Pointing to the staff members in front of German, the inspector lands on "sotrudnikov" ("staff members", built on "sotrudnik") to keep the statement grounded.
+- 'And we will urgently send the white powders for testing!' Bringing up the testing to German, the inspector lands on "ekspertizu" ("testing", built on "ekspertiza") to keep the statement grounded.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You could try another sausage at least once.' Katya holds firm bluntly watching Denis, keeping the focus on what actually matters here.
-- 'They gifted you sausage, so be grateful!' Nikita grounds one telling touch toward Katya: "blagodaren" means "grateful" (from "blagodarnyy"), giving the line its exact edge.
-- 'Katya, let me drive you in a car?' Denis lays out the comment before Katya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'No need, I called a taxi.' Katya replies evenly with Nikita, so Nikita knows she is not just making small talk.
-- 'Let me take you in the taxi.' Nikita sharpens one sharp choice right here: "taksi" means "taxi", and it carries the main weight of what Nikita is saying.
-- 'I will manage by myself.' Katya shapes this line at once: the "-sya" ending on "spravlyus" ("will manage") turns the action inward or makes it happen between people naturally.
-- 'Where were you looking when you kicked so hard?' Nikita questions openly if there is more going on behind the scenes.
-- 'You are the one who deflected the ball into her face!' Denis grounds this sharp expression at once: "litso" means "face", and it carries the main weight of what Denis is saying.
-- 'If only you had blocked it properly!' Denis spotlights one key term with Katya: "normalno" means "fine, OK", and it carries the main weight of what Denis is saying.
-- 'Guys, we have a bullet!' Nikita continues openly during the talk, leaving no doubt about where he stands.
-- 'Did you wash it well?' Denis focuses on this vivid choice toward Katya: "khorosho" means "good, fine", and it carries the main weight of what Denis is saying.
-- 'Yes, I wiped it with alcohol!' Nikita hands over the thought for Katya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'You could try another sausage at least once.' Katya responds bluntly without holding back, to clear the air between them once and for all.
+- 'They gifted you sausage, so be grateful!' Discussing the sausage in front of Katya, Nikita leans on "blagodaren" ("grateful", a form of "blagodarnyy") to give the remark its edge.
+- 'Katya, let me drive you in a car?' Discussing a car in this beat, Denis starts with "davay" ("come on, let's") to invite Katya right into the action.
+- 'No need, I called a taxi.' Katya proceeds evenly around Denis, without trying to dress up how she really feels.
+- 'Let me take you in the taxi.' Turning to the taxi at once, Nikita puts the emphasis on "taksi" ("taxi") in the middle of the talk.
+- 'I will manage by myself.' Turning dryly in front of Nikita, the "-sya" ending on "spravlyus" ("will manage") marks an action that unfolds mutually or turns back on the speaker.
+- 'Where were you looking when you kicked so hard?' Nikita questions openly to see how Denis will answer on the spot.
+- 'You are the one who deflected the ball into her face!' Talking about the face in this beat, Denis brings in "litso" ("face") to make the meaning unmistakable.
+- 'If only you had blocked it properly!' Denis continues warmly watching Nikita, before Nikita can change the subject.
+- 'Guys, we have a bullet!' Nikita chimes in openly with a sigh, making his position completely clear.
+- 'Did you wash it well?' Denis opens up boldly during the talk and lands on "khorosho" ("good, fine") as the key everyday word here.
+- 'Yes, I wiped it with alcohol!' Touching on the rubbing alcohol before Denis, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

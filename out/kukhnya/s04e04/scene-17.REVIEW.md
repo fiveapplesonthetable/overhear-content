@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You cannot treat people like that.' Lyova brings that thought with candor: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'Fine, I am not holding you back.' German jumps in briskly on the spot, bringing things back to earth after the buildup.
-- 'You may follow right behind them.' German highlights this sharp term right here: "mozhete" means "can, may" (from "moch"), giving the line its exact edge.
-- 'And I will leave, make no mistake.' Lyova makes the thought with warmth: the "-sya" ending on "somnevaytes" ("to doubt") turns the action inward or makes it happen between people naturally.
-- 'I do not intend to tolerate this.' Lyova steps in warmly on the spot, watching German's face to see how the news lands.
-- 'Perhaps there are others who wish to join them?' German centers this telling choice on cue: "zhelayushchiye" means "join" (from "zhelayushchiy"), giving the line its exact edge.
-- 'In that case, colleagues, back to work.' German opens up bluntly without any doubt, steering the talk right where he wants it.
-- 'And what should we do with the potatoes?' Lyova quizzes frankly what Vika is actually getting at here.
-- 'I don't care, you can even throw them out.' German favors one concrete element for Lyova: "vybrosit" means "to throw out", and it carries the main weight of what German is saying.
-- 'Viktoriya Sergeyevna, German Mikhailovich wants to speak with you.' Lyova jumps in briskly with a shrug, making his position completely clear.
-- 'Alright, thank you. And where is he?' Vika asks firmly to see how German will answer on the spot.
-- 'He said he will be here in a couple of minutes and asked you to wait.' Lyova features one loaded choice with Vika: "podoydyot" means "to come up" (from "podoyti"), giving the line its exact edge.
+- 'You cannot treat people like that.' Stepping in firmly to German, Lyova leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'Fine, I am not holding you back.' German steps in briskly hearing Lyova, steering the talk right where he wants it.
+- 'You may follow right behind them.' German proceeds pointedly beside Lyova and reaches for the Russian word "mozhete" ("can, may", built from "moch") right at the center of the line.
+- 'And I will leave, make no mistake.' Reacting plainly during the talk, the "-sya" ending on "somnevaytes" ("to doubt") marks an action that unfolds mutually or turns back on the speaker.
+- 'I do not intend to tolerate this.' Lyova counters warmly hearing German, letting the remark speak for itself.
+- 'Perhaps there are others who wish to join them?' Turning to the join beside Lyova, German chooses "zhelayushchiye" ("join", from the root "zhelayushchiy") so Lyova hears the exact meaning.
+- 'In that case, colleagues, back to work.' Highlighting the case in the exchange, German chooses "sluchaye" ("case, event", from the root "sluchay") so Lyova hears the exact meaning.
+- 'And what should we do with the potatoes?' Lyova quizzes frankly what German is actually getting at here.
+- 'I don't care, you can even throw them out.' German steps in promptly before Lyova and reaches for the Russian word "vybrosit" ("to throw out") right at the heart of the line.
+- 'Viktoriya Sergeyevna, German Mikhailovich wants to speak with you.' Lyova cuts in earnestly to German and puts the emphasis on "pogovorit" ("to talk") in the middle of the talk.
+- 'Alright, thank you. And where is he?' Vika asks firmly if there is more going on behind the scenes.
+- 'He said he will be here in a couple of minutes and asked you to wait.' Underscoring a couple in front of Vika, Lyova uses "podoydyot" ("to come up", from "podoyti") to make the point stick.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, I need to talk to you, basically.' Sasha sharpens this telling detail for Ainura: "pogovorit" means "to talk", and it carries the main weight of what Sasha is saying.
-- 'I need to talk to you too.' Ainura gives this statement on cue: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Just not out here.' Sasha jumps in evenly without holding back, shifting the whole mood of the room in a single beat.
-- 'Sasha, will you be much longer?' Ainura grounds one concrete expression with Sasha: "skoro" means "soon", and it carries the main weight of what Ainura is saying.
-- 'I actually wanted to talk.' Max offers that remark at once: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Come on in, let us talk.' Ainura replies candidly toward Sasha, leaving no doubt about where she stands.
-- 'How do you like it?' Sasha sends this update in earnest: putting the question word "kak" right at the front of the line lets Ainura hear the point of the question on the very first beat.
-- 'Very beautiful! I am going to Cyprus.' Ainura fires back decisively without a pause, bringing things back to earth after the buildup.
-- 'And I will be wearing it in Cyprus.' Sasha continues briskly to be clear, so Ainura knows she is not just making small talk.
-- 'And then without it.' Ainura uses one loaded expression at once: "potom" means "then", and it carries the main weight of what Ainura is saying.
-- 'Come here.' Sasha lays out that line frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Do not touch those.' Ainura holds firm at once to settle things, saying out loud what both of them already know.
-- 'I bought them for my nephew.' Max uses one sharp detail with Ainura: "plemyanniku" means "nephew" (from "plemyannik"), giving the line its exact edge.
+- 'Sasha, I need to talk to you, basically.' Sasha proceeds dryly in the exchange and puts the emphasis on "pogovorit" ("to talk") in the middle of the talk.
+- 'I need to talk to you too.' Looking over smoothly beside Sasha, Ainura leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Just not out here.' Sasha weighs in evenly with Ainura, keeping the focus on what actually matters here.
+- 'Sasha, will you be much longer?' Ainura continues calmly during the talk and lands on "skoro" ("soon") as the key everyday word here.
+- 'I actually wanted to talk.' Jumping in openly on the spot, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Come on in, let us talk.' Ainura speaks candidly with Max, keeping the focus on what actually matters here.
+- 'How do you like it?' Reacting readily during the talk, Sasha puts the question word "kak" right at the start so Ainura hears the focus immediately.
+- 'Very beautiful! I am going to Cyprus.' Noting how beautifully she is before Sasha, Ainura lands on "krasivo" ("beautifully", built on "krasivyy") to keep the statement grounded.
+- 'And I will be wearing it in Cyprus.' Sasha continues briskly around Ainura, before Ainura can change the subject.
+- 'And then without it.' Turning dryly in front of Sasha, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Come here.' Following up candidly right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Do not touch those.' Ainura continues at once watching Sasha, so Sasha knows she is not just making small talk.
+- 'I bought them for my nephew.' Bringing up his nephew in front of Ainura, Max reaches for the Russian word "plemyanniku" ("nephew", built from "plemyannik") right at the center of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you have a new look? A moustache?' Max tests promptly in front of the guest without any preamble.
-- 'I am filming in a new music video.' The guest colors one clear term in reply: "snimayus" means "act", and it carries the main weight of what the guest is saying.
-- 'Vika, here is Iosif.' Max makes that remark without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Hello.' The guest jumps in candidly on the spot, saying out loud what both of them already know.
-- 'Well done, he looks like him! Congratulations.' Vika stresses one vivid detail at once: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
-- 'What do you mean?' Max gives that line in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'And did you not think to shave the moustache?' Vika quizzes frankly where this conversation is heading next.
-- 'Then he would have looked completely alike.' Vika underscores one vivid term in earnest: "pokhozh" means "look like, similar" (from "pokhozhiy"), giving the line its exact edge.
-- 'Mister, go home.' Vika voices the comment around the guest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Your performance has dragged on.' Vika speaks frankly to be clear, keeping the focus on what actually matters here.
-- 'I really am Iosif Prigozhin!' The guest picks one loaded touch at once: "deystvitelno" means "really, indeed", and it carries the main weight of what the guest is saying.
-- 'Vika, wait! I will not let you go until you believe me.' Max weighs in decisively facing Vika, keeping the focus on what actually matters here.
+- 'Do you have a new look? A moustache?' Max tests promptly to see how the guest will answer on the spot.
+- 'I am filming in a new music video.' Pointing to the act in this beat, the guest chooses "snimayus" ("act") so Max gets the point right away.
+- 'Vika, here is Iosif.' Holding firm dryly in front of Vika, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Hello.' The guest politely speaks this formal greeting as they meet using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Well done, he looks like him! Congratulations.' Vika fires back smoothly on the spot and centers the thought on "pozdravlyayu" ("congratulations", from "pozdravlyat") without wasting a word.
+- 'What do you mean?' Bringing up the sense with Vika, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'And did you not think to shave the moustache?' Vika quizzes frankly before Max can change the subject.
+- 'Then he would have looked completely alike.' Vika answers pointedly with Max and centers the thought on "pokhozh" ("look like, similar", from "pokhozhiy") without wasting a word.
+- 'Mister, go home.' Mentioning the man before the guest, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Your performance has dragged on.' Vika fires back frankly with a nod, grounding the moment in plain reality.
+- 'I really am Iosif Prigozhin!' The guest replies plainly in front of Vika and puts the emphasis on "deystvitelno" ("really, indeed") in the middle of the talk.
+- 'Vika, wait! I will not let you go until you believe me.' Max opens up readily at once and centers the thought on "otpushchu" ("will let go", from "otpustit") without wasting a word.

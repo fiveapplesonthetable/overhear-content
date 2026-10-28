@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Give me back that damned ring right now, Senya.' Barinov reacts briskly around Senya, refusing to let the moment slip past.
-- 'Do not pressure me like this.' Vika stands firm honestly as things stand, shifting the whole mood of the room in a single beat.
-- 'Or else how am I supposed to?' Senya frames that thought before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Chef, let me give this ring back to you tomorrow.' Vika aims the remark before Senya: the word "davayte" is the polite or group version of "let's", inviting Senya into the plan right away.
-- 'I know my own digestive system.' Vika follows up honestly with a sigh, keeping the focus on what actually matters here.
-- 'You will not live until tomorrow.' Senya stresses this key choice at once: "dozhivesh" means "to live until" (from "dozhit"), giving the line its exact edge.
-- 'What do you mean tomorrow?' Barinov hands over that thought at once: putting the question word "kakoy" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'Vika, what is going on in here?' Senya wonders bluntly as Vika tries to explain the situation.
-- 'Nothing, why do you ask?' Senya offers this line with warmth: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Where is my ring?' Barinov brings that thought before Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Wait, how do you know about the ring?' Vika tests openly what Barinov is actually getting at here.
-- 'What do you people think?' Senya chooses this direct word at once: "dumayete" means "think" (from "dumat"), giving the line its exact edge.
-- 'I have been working toward this for a whole year.' Barinov jumps in earnestly hearing Senya, bringing things back to earth after the buildup.
+- 'Give me back that damned ring right now, Senya.' Focusing on the ring with Vika, Barinov reaches for the Russian word "chertovo" ("devil's, damned", built from "chyortov") right at the center of the line.
+- 'Do not pressure me like this.' Vika proceeds honestly with a shrug, without trying to dress up how she really feels.
+- 'Or else how am I supposed to?' Opening up readily around Vika, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Chef, let me give this ring back to you tomorrow.' Focusing on the ring before Barinov, Vika uses the polite or group form "davayte" ("let's") to bring Barinov into the plan.
+- 'I know my own digestive system.' Vika continues honestly facing Senya, grounding the moment in plain reality.
+- 'You will not live until tomorrow.' Senya speaks up boldly with Vika and lands on "dozhivesh" ("to live until", built on "dozhit") to keep the statement grounded.
+- 'What do you mean tomorrow?' Looking over boldly around Senya, Barinov puts the question word "kakoy" right at the start so Senya hears the focus immediately.
+- 'Vika, what is going on in here?' Senya wonders bluntly why things suddenly took this turn between them.
+- 'Nothing, why do you ask?' Holding firm boldly on the spot, Senya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Where is my ring?' Talking about his ring with Vika, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Wait, how do you know about the ring?' Vika tests openly what Senya is actually getting at here.
+- 'What do you people think?' Following up smoothly to Barinov, Senya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'I have been working toward this for a whole year.' Barinov counters decisively in the exchange and centers the remark on "tselyy" ("whole, all") without any extra fuss.

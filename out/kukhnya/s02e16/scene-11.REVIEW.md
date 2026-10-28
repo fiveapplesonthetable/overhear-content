@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, is the beef fresh?' Barinov states that answer without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Today I need the freshest beef you have.' Elena speaks up honestly to settle things, shifting the whole mood of the room in a single beat.
-- 'For you, it is so fresh it is practically tomorrow's.' Lyova chooses this direct choice with Barinov: "zavtrashnyaya" means "tomorrow's" (from "zavtrashniy"), giving the line its exact edge.
-- 'Listen, what more could you ask for?' Barinov directs that reply calmly now: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'I meant to say today's fresh cut.' Elena weighs in briskly with Barinov, saying out loud what both of them already know.
-- 'This is for my personal guests.' Lyova features one classic choice toward Elena: "gostey" means "guests" (from "gost"), giving the line its exact edge.
-- 'And by the way, I will not be in the kitchen tonight.' Barinov phrases the thought without fuss: opening with "kstati" ("by the way") lets Barinov drop a new detail into the conversation as if it just crossed his mind.
-- 'That is right, Lyova, tonight I am dining as a guest.' Elena counters steadily with a smile, to clear the air between them once and for all.
-- 'And you will be acting as head chef.' Lyova grounds this direct word toward Barinov: "shef-povara" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'So how does it taste?' Barinov offers the reply on cue: putting the question word "kak" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'It must be not merely good, but magnificent.' Elena counters warmly watching Barinov, keeping the focus on what actually matters here.
-- 'Oh, yes, I meant to say the pate.' Elena focuses on one telling detail right here: "pashtet" means "pâté", and it carries the main weight of what Elena is saying.
-- 'Got it, thank you.' Barinov lays out that line briskly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Timur, is the beef fresh?' Dwelling on the beef on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Today I need the freshest beef you have.' Elena fires back honestly in their talk, bringing things back to earth after the buildup.
+- 'For you, it is so fresh it is practically tomorrow's.' Insisting on how fresh things are before Elena, Lyova lands on "zavtrashnyaya" ("tomorrow's", built on "zavtrashniy") to keep the statement grounded.
+- 'Listen, what more could you ask for?' Holding firm boldly at once, Barinov puts the question word "chto" right at the start so Elena hears the focus immediately.
+- 'I meant to say today's fresh cut.' Elena steps in briskly in their talk, grounding the moment in plain reality.
+- 'This is for my personal guests.' Highlighting the guests in this beat, Lyova brings in "gostey" ("guests", from "gost") as the key Russian word here.
+- 'And by the way, I will not be in the kitchen tonight.' Following up quietly right here, Barinov opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'That is right, Lyova, tonight I am dining as a guest.' Elena proceeds steadily facing Barinov, letting the remark speak for itself.
+- 'And you will be acting as head chef.' Addressing the head during the talk, Lyova chooses "shef-povara" ("head chef", from the root "shef-povar") so Barinov hears the exact meaning.
+- 'So how does it taste?' Replying frankly with Elena, Barinov puts the question word "kak" right at the start so Elena hears the focus immediately.
+- 'It must be not merely good, but magnificent.' Elena fires back warmly with Barinov, without trying to dress up how she really feels.
+- 'Oh, yes, I meant to say the pate.' Elena counters briskly to Barinov and puts the emphasis on "pashtet" ("pâté") in the middle of the talk.
+- 'Got it, thank you.' Barinov evenly uses this word of thanks in front of Elena using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

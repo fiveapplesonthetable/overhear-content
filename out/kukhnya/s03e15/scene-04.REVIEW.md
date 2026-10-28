@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I would have been better off not texting her at all.' Max highlights this telling detail in reply: "voobshche" means "at all", and it carries the main weight of what Max is saying.
-- 'She replied to me: thank you, and who is this?' Max states the reply without fuss: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'That means she simply deleted your number.' Kostya holds firm firmly without holding back, making his position completely clear.
-- 'That is it, Kostya, everything is over between us.' Max leans on one key detail in earnest: "koncheno" means "finished", and it carries the main weight of what Max is saying.
-- 'Yes, Max, it looks like this really is the end.' Kostya directs the reply around Eva: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Listen, so what did you decide, are you buying the car from me?' Eva asks earnestly whether Max really thought this through.
-- 'Listen, Eva, probably not after all.' Max uses this sharp element for Eva: "navernoye" means "probably", and it carries the main weight of what Max is saying.
-- 'Its color is too girly for me.' Max brings that answer at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And why are you not offering it to us?' Kostya wonders candidly if there is more going on behind the scenes.
-- 'Do you think we cannot buy it, how much does it cost?' Kostya chooses this vivid choice in earnest: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
-- 'Five hundred and fifty thousand rubles.' Eva lays out the reaction at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'We are a tiny bit short, but we will think about it.' Kostya answers warmly without any doubt, letting the remark speak for itself.
+- 'I would have been better off not texting her at all.' Max weighs in directly in this beat and lands on "voobshche" ("at all") as the key everyday word here.
+- 'She replied to me: thank you, and who is this?' Bringing up the thank beside Kostya, Max puts the question word "kto" right at the start so Kostya hears the focus immediately.
+- 'That means she simply deleted your number.' Kostya pushes back firmly without any doubt, watching Max's face to see how the news lands.
+- 'That is it, Kostya, everything is over between us.' Max opens up decisively before Kostya and lands on "koncheno" ("finished") as the key everyday word here.
+- 'Yes, Max, it looks like this really is the end.' Checking on the end to Max, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Listen, so what did you decide, are you buying the car from me?' Eva asks earnestly where this conversation is heading next.
+- 'Listen, Eva, probably not after all.' Max proceeds decisively in the exchange and leans on "navernoye" ("probably") to give the whole sentence its punch.
+- 'Its color is too girly for me.' Describing how womanly things are in front of Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And why are you not offering it to us?' Kostya wonders candidly how Max expects that to work in practice.
+- 'Do you think we cannot buy it, how much does it cost?' Kostya chimes in readily right here and lands on "kupit" ("buy") as the key everyday word here.
+- 'Five hundred and fifty thousand rubles.' Discussing the thousand with Kostya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'We are a tiny bit short, but we will think about it.' Kostya answers warmly with a sigh, without trying to dress up how he really feels.

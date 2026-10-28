@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Once again forgive us for this incident.' Mikhail colors one concrete element on cue: "intsident" means "incident", and it carries the main weight of what Mikhail is saying.
-- 'In our hotel we have a golden rule.' Mikhail shapes the reaction calmly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'The guest is always right. If he wants to drink, he drinks.' Mikhail answers lightly with the inspector, to clear the air between them once and for all.
-- 'And why is your employee drinking with him?' The inspector reaches for one direct detail in reply: "sotrudnik" means "employee", and it carries the main weight of what the inspector is saying.
-- 'Also a golden rule!' Mikhail gives this warning briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'He was completely drunk!' The inspector responds bluntly in this moment, grounding the moment in plain reality.
-- 'No!' Mikhail sends this warning plainly here: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'Do you think that I am an idiot?' The inspector shares this update plainly here: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
-- 'Where is this employee of yours?' The inspector challenges skeptically in front of Mikhail without any preamble.
-- 'At his workplace.' Mikhail centers one telling choice right here: "rabochem" means "work" (from "rabochiy"), giving the line its exact edge.
-- 'Viktoriya Sergeyevna, find Yaroslav immediately.' Mikhail speaks up candidly without any doubt, leaving no doubt about where he stands.
-- 'And I will catch up!' Mikhail speaks warmly on the spot, without trying to dress up how he really feels.
+- 'Once again forgive us for this incident.' Focusing on the incident during the talk, Mikhail centers the remark on "intsident" ("incident") without any extra fuss.
+- 'In our hotel we have a golden rule.' Checking on his hotel before the inspector, Mikhail reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'The guest is always right. If he wants to drink, he drinks.' Mikhail opens up lightly beside the inspector, making his position completely clear.
+- 'And why is your employee drinking with him?' Bringing up the employee with Mikhail, the inspector uses "sotrudnik" ("employee") to carry the main weight of the thought.
+- 'Also a golden rule!' Dwelling on a golden rule right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'He was completely drunk!' The inspector chimes in bluntly toward Mikhail, letting the remark speak for itself.
+- 'No!' Mikhail promptly voices this direct refusal right on cue using "net" ("no") — a plain "net" ("no") that gives an immediate answer.
+- 'Do you think that I am an idiot?' Reacting openly in the exchange, the inspector puts the question word "chto" right at the start so Mikhail hears the focus immediately.
+- 'Where is this employee of yours?' The inspector challenges skeptically how Mikhail expects that to work in practice.
+- 'At his workplace.' Underscoring the place in front of the inspector, Mikhail leans on "rabochem" ("work", a form of "rabochiy") to give the remark its edge.
+- 'Viktoriya Sergeyevna, find Yaroslav immediately.' Mikhail opens up openly before the inspector and centers the remark on "nemedlenno" ("immediately") without any extra fuss.
+- 'And I will catch up!' Mikhail speaks warmly without a pause, before the inspector can change the subject.

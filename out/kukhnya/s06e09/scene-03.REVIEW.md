@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena, hello, I have missed you very much already.' Barinov speaks bluntly before Eleonora, without trying to dress up how he really feels.
-- 'Isn't it time for us to have lunch together?' Barinov underscores this clear touch for Lyova: "poobedat" means "to have lunch", and it carries the main weight of what Barinov is saying.
-- 'Wonderful, then I am waiting for you eagerly.' Barinov anchors one sharp expression toward Eleonora: "prekrasno" means "perfectly", and it carries the main weight of what Barinov is saying.
-- 'Viktor Petrovich, may I have a minute?' Lyova inquires curiously how Eleonora expects that to work in practice.
-- 'What do you need, speak faster.' Barinov colors one sharp choice at once: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
-- 'Mom and her friend want to have lunch at our place.' Lyova shares this warning around Eleonora: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Elena, hello, I have missed you very much already.' Barinov jumps in bluntly in their talk, letting the remark speak for itself.
+- 'Isn't it time for us to have lunch together?' Barinov fires back pointedly at once and lands on "poobedat" ("to have lunch") as the key everyday word here.
+- 'Wonderful, then I am waiting for you eagerly.' Barinov answers honestly beside Lyova, before Lyova can change the subject.
+- 'Viktor Petrovich, may I have a minute?' Discussing a minute without any doubt, Lyova speaks plainly so Barinov gets the message at once.
+- 'What do you need, speak faster.' Barinov speaks up plainly at once and brings in "bystreye" ("faster", from "bystro") as the key Russian word here.
+- 'Mom and her friend want to have lunch at our place.' Addressing the friend beside Barinov, Lyova reaches for "u nas" ("by us, at our place") to talk about what they share.
 - 'May I keep them company today?' Lyova prompts promptly while looking straight at Barinov here.
-- 'Alright, go, just not for very long.' Barinov centers one memorable detail in reply: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
-- 'What do you need in my room?' Eleonora directs that reply beside Barinov: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'I brought you a fresh hot breakfast.' Lyova steps in right away across the room, refusing to let the moment slip past.
-- 'Alright, just leave it on the table.' Eleonora points to one clear choice with Barinov: "stole" means "table" (from "stol"), giving the line its exact edge.
-- 'You have not eaten anything since yesterday.' Lyova makes that reply plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Take this away immediately and get out of here!' Eleonora opens up promptly as they talk, leaving no doubt about where she stands.
+- 'Alright, go, just not for very long.' Barinov weighs in dryly at once and puts the emphasis on "khorosho" ("good, fine") in the middle of the talk.
+- 'What do you need in my room?' Checking on her room in this beat, Eleonora leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'I brought you a fresh hot breakfast.' Lyova jumps in right away in this moment, letting the remark speak for itself.
+- 'Alright, just leave it on the table.' Emphasizing the table in this beat, Eleonora centers the thought on "stole" ("table", from "stol") without wasting a word.
+- 'You have not eaten anything since yesterday.' Reacting warmly on the spot, Lyova pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Take this away immediately and get out of here!' Eleonora responds promptly with Lyova, before Lyova can change the subject.

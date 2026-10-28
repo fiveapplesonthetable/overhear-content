@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It turns out dancing with you was not so hard after all.' Max lays out the comment around Kostya: the "-sya" ending on "okazyvayetsya" ("to turn out to be") turns the action inward or makes it happen between people naturally.
+- 'It turns out dancing with you was not so hard after all.' Turning calmly in this beat, the "-sya" ending on "okazyvayetsya" ("to turn out to be") marks an action that unfolds mutually or turns back on the speaker.
 - 'Listen, let us go somewhere together to get a bite to eat!' Vika quizzes straight out if there is more going on behind the scenes.
-- 'I am so hungry today, let us go to the Mexican place!' Vika favors one classic expression for Kostya: "meksikanskiy" means "Mexican", and it carries the main weight of what Vika is saying.
-- 'Is that the restaurant where Senya got drunk last week?' Max aims that remark with candor: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Wait a second, so you did not lose your memory at all?' Vika prompts eagerly to see how Kostya will answer on the spot.
-- 'You were brazenly lying to us this whole time?' Vika spotlights one memorable choice at once: "vremya" means "time", and it carries the main weight of what Vika is saying.
-- 'Vika, wait, please, I will explain everything to you right now!' Max phrases that point in earnest: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'No need, Max, you bring us nothing but trouble!' Vika holds firm quietly as they talk, leaving no doubt about where she stands.
-- 'Max, I believed you, and you lied even to me!' Kostya highlights one vivid piece for Max: "poveril" means "to believe" (from "poverit"), giving the line its exact edge.
-- 'Kostya, if I had told you, you would have blabbed to Nastya!' Max directs this point right away: the "-sya" ending on "progovorilsya" ("let it slip") turns the action inward or makes it happen between people naturally.
-- 'You know what, I do not need such a friend or best man at my wedding!' Kostya counters calmly with a smile, to clear the air between them once and for all.
-- 'Friends, forgive me, please, I did not mean to!' Max grounds this telling touch with Vika: "druzya" means "friends" (from "drug"), giving the line its exact edge.
+- 'I am so hungry today, let us go to the Mexican place!' Emphasizing how hungry she is in this beat, Vika chooses "meksikanskiy" ("Mexican") so Max gets the point right away.
+- 'Is that the restaurant where Senya got drunk last week?' Focusing on the restaurant in front of Vika, Max puts the question word "gde" right at the start so Vika hears the focus immediately.
+- 'Wait a second, so you did not lose your memory at all?' Vika prompts eagerly what Max is actually getting at here.
+- 'You were brazenly lying to us this whole time?' Addressing the time in front of Max, Vika uses "vremya" ("time") to carry the main weight of the thought.
+- 'Vika, wait, please, I will explain everything to you right now!' Max fires back bluntly in their talk, steering the talk right where he wants it.
+- 'No need, Max, you bring us nothing but trouble!' Vika follows up quietly during the talk, without trying to dress up how she really feels.
+- 'Max, I believed you, and you lied even to me!' Kostya fires back boldly with Max and lands on "poveril" ("to believe", built on "poverit") to keep the statement grounded.
+- 'Kostya, if I had told you, you would have blabbed to Nastya!' Pushing back quietly in the exchange, the "-sya" ending on "progovorilsya" ("let it slip") marks an action that unfolds mutually or turns back on the speaker.
+- 'You know what, I do not need such a friend or best man at my wedding!' Kostya replies calmly with a smile, leaving no doubt about where he stands.
+- 'Friends, forgive me, please, I did not mean to!' Talking about the friends beside Kostya, Max brings in "druzya" ("friends", from "drug") as the key Russian word here.

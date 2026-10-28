@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell the Chef that the sheikh wants to come to me after dinner.' Katya chooses one colorful touch on cue: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
-- 'He wants to fulfill his marital duty!' Katya jumps in steadily with a shrug, without trying to dress up how she really feels.
-- 'Keep quiet and go back.' Barinov responds calmly with a sigh, shifting the whole mood of the room in a single beat.
-- 'You are putting my daughter in danger, what are you doing?' Barinov colors one sharp touch in reply: "podstavlyayesh" means "are setting up" (from "podstavlyat"), giving the line its exact edge.
-- 'Chef, they led Katya away in that outfit!' Max cuts in sharply on the spot, making his position completely clear.
-- 'In short, the sheikh wants to love her!' Max cuts in boldly with a shrug, refusing to let the moment slip past.
-- 'Here is the very best lamb in all of Moscow.' Barinov centers this telling choice with Katya: "yagnyonok" means "lamb", and it carries the main weight of what Barinov is saying.
-- 'Timur, you will drive with me to the Metropol.' Barinov holds firm calmly in their talk, before Max can change the subject.
-- 'We need to bring one person back fast.' Barinov pushes back warmly without any doubt, leaving no doubt about where he stands.
-- 'Chef, and who will serve the dish to the sheikh?' Max points to this key word at once: "sheykhu" means "sheikh" (from "sheykh"), giving the line its exact edge.
-- 'I will serve it myself and stall him.' Barinov replies right away around Katya, leaving no doubt about where he stands.
-- 'Good luck to you, Victor Petrovich!' Max responds wryly without a pause, making his position completely clear.
+- 'Tell the Chef that the sheikh wants to come to me after dinner.' Addressing the sheikh on the spot, Katya centers the remark on "sheykh" ("sheikh") without any extra fuss.
+- 'He wants to fulfill his marital duty!' Pointing to the debt during the talk, Katya puts the emphasis on "supruzheskiy" ("marital, conjugal") in the middle of the talk.
+- 'Keep quiet and go back.' Barinov follows up calmly without a pause, without trying to dress up how he really feels.
+- 'You are putting my daughter in danger, what are you doing?' Emphasizing his daughter at once, Barinov puts the weight on "podstavlyayesh" ("are setting up", from "podstavlyat") as the exchange unfolds.
+- 'Chef, they led Katya away in that outfit!' Max proceeds firmly to Barinov and reaches for the Russian word "shtuke" ("thing, outfit", built from "shtuka") right at the center of the line.
+- 'In short, the sheikh wants to love her!' Max cuts in boldly in their talk, without trying to dress up how he really feels.
+- 'Here is the very best lamb in all of Moscow.' Turning to the lamb beside Max, Barinov uses "yagnyonok" ("lamb") to carry the main weight of the thought.
+- 'Timur, you will drive with me to the Metropol.' Barinov answers naturally right here and uses "poyedesh" ("will go", from "poyekhat") to make the point stick.
+- 'We need to bring one person back fast.' Barinov opens up warmly toward Max, making his position completely clear.
+- 'Chef, and who will serve the dish to the sheikh?' Emphasizing the sheikh on the spot, Max puts the weight on "sheykhu" ("sheikh", from "sheykh") as the exchange unfolds.
+- 'I will serve it myself and stall him.' Barinov responds evenly right here and centers the thought on "zaderzhu" ("will stop", from "zaderzhat") without wasting a word.
+- 'Good luck to you, Victor Petrovich!' Max follows up wryly with Barinov, bringing things back to earth after the buildup.

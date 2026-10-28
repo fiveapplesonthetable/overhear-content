@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what just happened out here?' Elena inquires bluntly what Barinov is actually getting at here.
-- 'Nothing happened, we are breathing fresh air.' Barinov leans on this vivid detail toward Senya: "vozdukhom" means "air" (from "vozdukh"), giving the line its exact edge.
-- 'Chef, we tried very hard.' Senya drops the thought beside Barinov: the "-sya" ending on "staralis" ("tried") turns the action inward or makes it happen between people naturally.
-- 'Everything is fine, guys.' Barinov opens up boldly on the spot, shifting the whole mood of the room in a single beat.
-- 'I have the sauté pan, here it is.' Elena colors one sharp element in earnest: "soteynik" means "pan", and it carries the main weight of what Elena is saying.
-- 'Vitya, do not behave like a child.' Elena stands firm openly before Senya, testing Senya's reaction in the middle of the exchange.
-- 'And will German not cry?' Barinov wonders point-blank to see how Elena will answer on the spot.
-- 'I took your sauté pan out of the safe.' Elena picks one practical word in reply: "soteynik" means "pan", and it carries the main weight of what Elena is saying.
-- 'And I bought him an exact same one.' Elena pushes back boldly as they talk, bringing things back to earth after the buildup.
-- 'A toy for each of you.' Elena replies dryly beside Senya, without trying to dress up how she really feels.
-- 'Wait, why did you fight then?' Senya highlights one key word right here: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'So that he would not call the police!' Barinov weighs in dryly in this moment, testing Senya's reaction in the middle of the exchange.
-- 'So say thank you to me.' Barinov fires back dryly with Elena, without trying to dress up how he really feels.
-- 'Get ready, we are going to the banya!' Barinov reaches for this clear choice for Senya: "sobiraytes" means "to intend" (from "sobiratsya"), giving the line its exact edge.
+- 'And what just happened out here?' Elena inquires bluntly if there is more going on behind the scenes.
+- 'Nothing happened, we are breathing fresh air.' Addressing the air during the talk, Barinov uses "vozdukhom" ("air", from "vozdukh") to make the point stick.
+- 'Chef, we tried very hard.' Jumping in warmly in the exchange, the "-sya" ending on "staralis" ("tried") marks an action that unfolds mutually or turns back on the speaker.
+- 'Everything is fine, guys.' Discussing the order with a shrug, Barinov speaks plainly so Senya gets the message at once.
+- 'I have the sauté pan, here it is.' Focusing on the pan at once, Elena chooses "soteynik" ("pan") so Barinov gets the point right away.
+- 'Vitya, do not behave like a child.' Underscoring a child to Barinov, Elena centers the remark on "rebyonok" ("a child") without any extra fuss.
+- 'And will German not cry?' Barinov wonders point-blank if there is more going on behind the scenes.
+- 'I took your sauté pan out of the safe.' Emphasizing the pan during the talk, Elena brings in "soteynik" ("pan") to make the meaning unmistakable.
+- 'And I bought him an exact same one.' Elena follows up openly on the spot and leans on "kupila" ("bought", a form of "kupit") to give the remark its edge.
+- 'A toy for each of you.' Elena jumps in dryly watching Senya, leaving no doubt about where she stands.
+- 'Wait, why did you fight then?' Senya steps in dryly during the talk and leans on "podozhdite" ("wait", a form of "podozhdat") to give the remark its edge.
+- 'So that he would not call the police!' Underscoring the police in the exchange, Barinov uses "politsiyu" ("the police", from "politsiya") to make the point stick.
+- 'So say thank you to me.' Barinov speaks up dryly without a pause, bringing things back to earth after the buildup.
+- 'Get ready, we are going to the banya!' Mentioning the bathhouse to Senya, Barinov brings in "sobiraytes" ("to intend", from "sobiratsya") as the key Russian word here.

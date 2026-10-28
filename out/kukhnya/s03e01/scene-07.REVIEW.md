@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is time to learn to open it yourself.' Kostya leans on this clear touch in earnest: "nauchitsya" means "to learn", and it carries the main weight of what Kostya is saying.
-- 'Listen, I am learning.' Max voices that remark at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Only the bills for the training are big.' Max holds firm at once beside Kostya, bringing things back to earth after the buildup.
-- 'And how are things with Vika for you now?' Kostya anchors one loaded word in reply: "seychas" means "now", and it carries the main weight of what Kostya is saying.
-- 'I invited her to the cinema forty times.' Max follows up plainly with a nod, shifting the whole mood of the room in a single beat.
-- 'Five times I said that I cannot live without her.' Max replies briskly with a sigh, letting the remark speak for itself.
-- 'And once I tried to kiss her.' Max sharpens this sharp term in earnest: "potselovat" means "to kiss", and it carries the main weight of what Max is saying.
-- 'I accidentally overheard a conversation on the phone.' Kostya speaks up steadily as they talk, leaving no doubt about where he stands.
-- 'Ah, interesting.' Max continues sharply watching Kostya, leaving no doubt about where he stands.
-- 'I promised that I would find a cook.' Nagiyev spotlights one colorful term for Max: "obeshchal" means "promised" (from "obeshchat"), giving the line its exact edge.
-- 'I did it. Please meet her.' Nagiyev drops that point with ease: the "-sya" ending on "znakomitsya" ("get acquainted") turns the action inward or makes it happen between people naturally.
-- 'Yekaterina Semyonova graduated from the academy.' Nagiyev continues calmly around Max, making his position completely clear.
+- 'It is time to learn to open it yourself.' Kostya cuts in quietly to Max and leans on "nauchitsya" ("to learn") to give the whole sentence its punch.
+- 'Listen, I am learning.' Jumping in warmly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Only the bills for the training are big.' Max chimes in at once beside Kostya, so Kostya knows he is not just making small talk.
+- 'And how are things with Vika for you now?' Looking over calmly to Max, Kostya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'I invited her to the cinema forty times.' Addressing the cinema during the talk, Max brings in "priglashal" ("invited", from "priglashat") as the key Russian word here.
+- 'Five times I said that I cannot live without her.' Max proceeds briskly in their talk, to clear the air between them once and for all.
+- 'And once I tried to kiss her.' Max opens up sharply beside Kostya and chooses "potselovat" ("to kiss") so Kostya gets the point right away.
+- 'I accidentally overheard a conversation on the phone.' Talking about a conversation beside Max, Kostya puts the emphasis on "razgovor" ("conversation") in the middle of the talk.
+- 'Ah, interesting.' Max continues sharply in this moment, letting the remark speak for itself.
+- 'I promised that I would find a cook.' Addressing a cook with Max, Nagiyev lands on "obeshchal" ("promised", built on "obeshchat") to keep the statement grounded.
+- 'I did it. Please meet her.' Looking over plainly in front of Max, the "-sya" ending on "znakomitsya" ("get acquainted") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yekaterina Semyonova graduated from the academy.' Nagiyev continues calmly with a nod, letting the remark speak for itself.

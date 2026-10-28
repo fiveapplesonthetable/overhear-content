@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh come on, relax.' Barinov follows up calmly with a nod, letting the remark speak for itself.
-- 'Man, I really am some kind of idiot.' Nastya colors one concrete expression with Max: "idiot" means "idiot", and it carries the main weight of what Nastya is saying.
-- 'I am always screwing up in front of the Chef.' Barinov opens up bluntly facing Max, letting the remark speak for itself.
-- 'Every one of us has screwed up in front of him at some point.' Nastya counters firmly with Max, before Max can change the subject.
-- 'Do not sweat it.' Barinov sharpens one telling touch for Max: "parsya" means "to steam oneself in a bathhouse" (from "paritsya"), giving the line its exact edge.
-- 'You bet we have.' Nastya makes that remark at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Here is my resume.' Barinov speaks up wryly with a sigh, saying out loud what both of them already know.
-- 'A real cook does not need any resume.' Nastya spotlights one clear detail toward Max: "nastoyashchemu" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
-- 'You can tell right away by looking in his eyes.' Barinov cuts in promptly without any doubt, making his position completely clear.
-- 'I saw your potential immediately.' Max stands firm wryly beside Nastya, leaving no doubt about where he stands.
-- 'Welcome to the team, son.' Barinov focuses on one clear word at once: "pozhalovat" means "to welcome", and it carries the main weight of what Barinov is saying.
-- 'Thank you, Chef.' Nastya shares that point to Max: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Well, sit right here, and I will be right back.' Barinov fires back promptly around Max, grounding the moment in plain reality.
+- 'Oh come on, relax.' Barinov plainly speaks this word of agreement to Nastya using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Man, I really am some kind of idiot.' Emphasizing the idiot during the talk, Nastya reaches for the Russian word "idiot" ("idiot") right at the heart of the line.
+- 'I am always screwing up in front of the Chef.' Highlighting how always he is at once, Barinov leans on "vechno" ("always", a form of "vechnyy") to give the remark its edge.
+- 'Every one of us has screwed up in front of him at some point.' Nastya fires back firmly hearing Barinov, steering the talk right where she wants it.
+- 'Do not sweat it.' Barinov proceeds boldly in front of Nastya and centers the thought on "parsya" ("to steam oneself in a bathhouse", from "paritsya") without wasting a word.
+- 'You bet we have.' Weighing in warmly right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Here is my resume.' Barinov speaks wryly with a nod, keeping the focus on what actually matters here.
+- 'A real cook does not need any resume.' Addressing a real cook beside Barinov, Nastya uses "nastoyashchemu" ("real, genuine", from "nastoyashchiy") to make the point stick.
+- 'You can tell right away by looking in his eyes.' Pointing to the eye beside Nastya, Barinov lands on "glazam" ("eye", built on "glaz") to keep the statement grounded.
+- 'I saw your potential immediately.' Max weighs in wryly with Barinov, shifting the mood of the conversation in a single beat.
+- 'Welcome to the team, son.' Turning to the good beside Max, Barinov puts the emphasis on "pozhalovat" ("to welcome") in the middle of the talk.
+- 'Thank you, Chef.' Nastya readily uses this word of thanks toward Barinov using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Well, sit right here, and I will be right back.' Barinov proceeds promptly with a sigh, making his position completely clear.

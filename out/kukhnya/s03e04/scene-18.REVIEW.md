@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, forgive me, please.' Barinov reacts decisively in their talk, so Nagiyev knows he is not just making small talk.
-- 'Have you seen my little elephant?' Barinov features this telling touch in reply: "slonika" means "little elephant figurine" (from "slonik"), giving the line its exact edge.
-- 'Vika, did you want to talk with me?' Barinov aims that reply to Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'What is this? Some kind of prank, huh?' Nagiyev quizzes wryly while looking straight at Vika here.
-- 'Well, and who am I going to punish, huh?' Nagiyev spotlights one colorful touch at once: "nakazhu" means "to punish" (from "nakazat"), giving the line its exact edge.
-- 'Vika, at least tell me what is going on here?' Nagiyev offers that point toward Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'The only reasonable person!' Nagiyev stands firm dryly with a smile, keeping the focus on what actually matters here.
-- 'Who never stole.' Nagiyev centers one clear piece right here: "nikogda" means "never", and it carries the main weight of what Nagiyev is saying.
-- 'Never betrayed me.' Nagiyev drops the thought frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Never secretly fried my zucchini.' Turning back with confidence, Nagiyev cuts straight through the tension in the room.
-- 'So beautiful.' Nagiyev sharpens one loaded choice right here: "krasivaya" means "pretty, beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'Dmitry Vladimirovich, it is time for you to go home.' Vika gives that answer for Nagiyev: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".
+- 'Lena, forgive me, please.' Barinov directly extends this personal apology beside Nagiyev using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'Have you seen my little elephant?' Underscoring the elephant figurine beside Nagiyev, Barinov chooses "slonika" ("little elephant figurine", from the root "slonik") so Nagiyev hears the exact meaning.
+- 'Vika, did you want to talk with me?' Cutting in plainly in this beat, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'What is this? Some kind of prank, huh?' Nagiyev quizzes wryly what Barinov is actually getting at here.
+- 'Well, and who am I going to punish, huh?' Nagiyev proceeds readily with Barinov and centers the thought on "nakazhu" ("to punish", from "nakazat") without wasting a word.
+- 'Vika, at least tell me what is going on here?' Holding firm quietly right here, Nagiyev puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'The only reasonable person!' Nagiyev steps in dryly without holding back, shifting the mood of the conversation in a single beat.
+- 'Who never stole.' Nagiyev speaks up pointedly in the exchange and leans on "nikogda" ("never") to give the whole sentence its punch.
+- 'Never betrayed me.' Replying naturally in this beat, Nagiyev pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Never secretly fried my zucchini.' Nagiyev counters quietly beside Vika, shifting the mood of the conversation in a single beat.
+- 'So beautiful.' Nagiyev proceeds readily to Vika and puts the weight on "krasivaya" ("pretty, beautiful", from "krasivyy") as the exchange unfolds.
+- 'Dmitry Vladimirovich, it is time for you to go home.' Holding firm naturally with Nagiyev, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems to me that I love you.' Nagiyev features one clear piece toward Vika: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'Dmitry Vladimirovich, you are very drunk.' Vika makes the comment around Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I thought and thought and finally decided.' Nagiyev stands firm promptly beside Vika, shifting the whole mood of the room in a single beat.
-- 'After all, we have been together for four years already.' Nagiyev highlights one sharp touch at once: "vmeste" means "together", and it carries the main weight of what Nagiyev is saying.
-- 'You are the most wonderful woman on earth.' Nagiyev sends that thought with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Vika, Victoria, I love you.' Nagiyev speaks lightly as things stand, watching Vika's face to see how the news lands.
-- 'I will bring you some water right now.' Vika grounds one colorful word at once: "seychas" means "now", and it carries the main weight of what Vika is saying.
-- 'Please, you need to get a good sleep.' Vika makes this answer to Nagiyev: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Go home calmly right now.' Vika jumps in right away as things stand, bringing things back to earth after the buildup.
-- 'No, I will not go home.' Nagiyev spotlights one telling piece in reply: "poyedu" means "will go" (from "poyekhat"), giving the line its exact edge.
-- 'I will go to my second home.' Nagiyev answers warmly before Vika, testing Vika's reaction in the middle of the exchange.
-- 'Well why go to the restaurant?' Vika probes frankly in front of Nagiyev without any preamble.
-- 'Do not persuade me to stay here in the warmth.' Nagiyev focuses on one loaded piece toward Vika: "ugovarivay" means "persuade" (from "ugovarivat"), giving the line its exact edge.
+- 'It seems to me that I love you.' Nagiyev reacts plainly in the exchange and reaches for the Russian word "kazhetsya" ("it seems, I think", built from "kazatsya") right at the center of the line.
+- 'Dmitry Vladimirovich, you are very drunk.' Insisting on how drunk Nagiyev is with Nagiyev, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I thought and thought and finally decided.' Nagiyev weighs in promptly across the room, without trying to dress up how he really feels.
+- 'After all, we have been together for four years already.' Nagiyev fires back evenly in front of Vika and brings in "vmeste" ("together") to make the meaning unmistakable.
+- 'You are the most wonderful woman on earth.' Underscoring how wonderful Vika is beside Vika, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Vika, Victoria, I love you.' Nagiyev speaks lightly watching Vika, testing Vika's reaction in the middle of the exchange.
+- 'I will bring you some water right now.' Addressing the water around Nagiyev, Vika brings in "prinesu" ("I will bring", from "prinesti") as the key Russian word here.
+- 'Please, you need to get a good sleep.' Vika briskly drops this courtesy word toward Nagiyev using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Go home calmly right now.' Vika counters right away in their talk, grounding the moment in plain reality.
+- 'No, I will not go home.' Nagiyev weighs in earnestly to Vika and chooses "poyedu" ("will go", from the root "poyekhat") so Vika hears the exact meaning.
+- 'I will go to my second home.' Highlighting the home to Vika, Nagiyev reaches for the Russian word "vtoroy" ("second") right at the heart of the line.
+- 'Well why go to the restaurant?' Vika probes frankly to see how Nagiyev will answer on the spot.
+- 'Do not persuade me to stay here in the warmth.' Nagiyev answers openly at once and reaches for the Russian word "ugovarivay" ("persuade", built from "ugovarivat") right at the center of the line.

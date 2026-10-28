@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just an ordinary broom.' Barinov stands firm decisively around Nagiyev, bringing things back to earth after the buildup.
-- 'As if he were still right here with us.' Vika features this vivid detail right here: "po-prezhnemu" means "still, as before", and it carries the main weight of what Vika is saying.
-- 'Dmitriy Vladimirovich.' Barinov frames this answer beside Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I am afraid things will not work the way they used to.' Barinov responds warmly hearing Vika, before Vika can change the subject.
-- 'Today guests have already canceled their banquet.' Vika anchors one familiar touch toward Barinov: "otkazalis" means "to refuse, decline" (from "otkazatsya"), giving the line its exact edge.
-- 'Because Viktor Petrovich will not be doing the cooking.' Nagiyev jumps in briskly to be clear, watching Vika's face to see how the news lands.
-- 'We all pitch in and work at full capacity.' Barinov holds firm steadily during the talk, so Nagiyev knows he is not just making small talk.
-- 'Where were you?' Vika hands over this warning to Nagiyev: putting the question word "gde" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'We were mopping the floors.' Nagiyev frames this answer to Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Nastya and I did that too.' Barinov opens up boldly without a pause, steering the talk right where he wants it.
-- 'Ironing the laundry.' Vika chooses one clear touch in earnest: "pogladit" means "ironed", and it carries the main weight of what Vika is saying.
-- 'Nastya came up with that idea.' Nagiyev offers that thought toward Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Why did I even tell you about that.' Barinov reacts frankly across the room, without trying to dress up how he really feels.
+- 'Just an ordinary broom.' Barinov fires back decisively in their talk, shifting the mood of the conversation in a single beat.
+- 'As if he were still right here with us.' Vika speaks up decisively right here and centers the remark on "po-prezhnemu" ("still, as before") without any extra fuss.
+- 'Dmitriy Vladimirovich.' Holding firm evenly before Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I am afraid things will not work the way they used to.' Barinov follows up warmly with Vika, before Vika can change the subject.
+- 'Today guests have already canceled their banquet.' Pointing to the banquet with Barinov, Vika uses "banketa" ("banquet", from "banket") to make the point stick.
+- 'Because Viktor Petrovich will not be doing the cooking.' Nagiyev proceeds boldly with Barinov and leans on "gotovit" ("to cook") to give the whole sentence its punch.
+- 'We all pitch in and work at full capacity.' Barinov reacts steadily around Nagiyev, before Nagiyev can change the subject.
+- 'Where were you?' Holding firm readily with Nagiyev, Vika puts the question word "gde" right at the start so Nagiyev hears the focus immediately.
+- 'We were mopping the floors.' Focusing on the floors at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Nastya and I did that too.' Barinov reacts boldly with a smile, without trying to dress up how he really feels.
+- 'Ironing the laundry.' Addressing the laundry beside Barinov, Vika uses "belye" ("laundry, linen", from "belyo") to make the point stick.
+- 'Nastya came up with that idea.' Pressing on directly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Why did I even tell you about that.' Barinov answers frankly with a sigh, steering the talk right where he wants it.

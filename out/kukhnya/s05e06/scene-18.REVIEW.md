@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stellate sturgeon, in person!' Senya replies boldly as things stand, grounding the moment in plain reality.
-- 'Senya, where did you get such a beauty?' Fedya underscores this telling touch in reply: "krasotu" means "beauty" (from "krasota"), giving the line its exact edge.
-- 'Oh, I earned this with my own wit!' Senya counters bluntly to settle things, grounding the moment in plain reality.
-- 'What will you do with the spoiled fish?' Timur quizzes evenly whether Senya really thought this through.
-- 'I threw it out.' Senya points to one sharp word for Fedya: "vykinul" means "threw away" (from "vykinut"), giving the line its exact edge.
-- 'Can you give it to me?' Timur voices this line to Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'Five hundred rubles.' Senya steps in right away with a smile, saying out loud what both of them already know.
-- 'What do you mean five hundred rubles?' Timur spotlights one memorable piece right here: "rubley" means "roubles" (from "rubl"), giving the line its exact edge.
-- 'You were going to throw it out!' Timur shares this statement before Fedya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Now a demand for it has appeared.' Senya steps in honestly with a sigh, bringing things back to earth after the buildup.
-- 'Take it, it is a good fish.' Senya stresses one clear word for Fedya: "khoroshaya" means "good" (from "khoroshiy"), giving the line its exact edge.
-- 'It just spoiled a little.' Senya drops this line to Timur: the "-sya" ending on "isportilas" ("went bad, spoiled") turns the action inward or makes it happen between people naturally.
+- 'Stellate sturgeon, in person!' Senya speaks up boldly beside Fedya, shifting the mood of the conversation in a single beat.
+- 'Senya, where did you get such a beauty?' Pointing to a beauty in this beat, Fedya reaches for the Russian word "krasotu" ("beauty", built from "krasota") right at the center of the line.
+- 'Oh, I earned this with my own wit!' Focusing on the wit in front of Fedya, Senya lands on "zarabotal" ("to start working", built on "zarabotat") to keep the statement grounded.
+- 'What will you do with the spoiled fish?' Timur quizzes evenly before Senya can change the subject.
+- 'I threw it out.' Senya proceeds briskly at once and centers the thought on "vykinul" ("threw away", from "vykinut") without wasting a word.
+- 'Can you give it to me?' Pressing on firmly in front of Senya, Timur keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Five hundred rubles.' Senya counters right away watching Timur, before Timur can change the subject.
+- 'What do you mean five hundred rubles?' Discussing the roubles in front of Senya, Timur uses "rubley" ("roubles", from "rubl") to make the point stick.
+- 'You were going to throw it out!' Jumping in promptly in front of Senya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Now a demand for it has appeared.' Senya proceeds honestly beside Timur, leaving no doubt about where he stands.
+- 'Take it, it is a good fish.' Emphasizing how good things are in the exchange, Senya leans on "khoroshaya" ("good", a form of "khoroshiy") to give the remark its edge.
+- 'It just spoiled a little.' Replying smoothly at once, the "-sya" ending on "isportilas" ("went bad, spoiled") marks an action that unfolds mutually or turns back on the speaker.

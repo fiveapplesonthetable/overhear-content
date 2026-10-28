@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse us for disturbing you.' Mikhail proceeds calmly in their talk, to clear the air between them once and for all.
-- 'The commission is in the hotel. We are leaving right now.' Mikhail picks one key word in reply: "komissiya" means "commission", and it carries the main weight of what Mikhail is saying.
-- 'Oh, the commission! Well I will show you everything right now.' Nagiyev centers one clear term on cue: "komissiya" means "commission", and it carries the main weight of what Nagiyev is saying.
-- 'Here the little sofas are soft.' Nagiyev cuts in decisively to settle things, leaving no doubt about where he stands.
-- 'Oh, only it is empty.' Nagiyev highlights one direct piece at once: "pustoy" means "empty-handed", and it carries the main weight of what Nagiyev is saying.
-- 'Yes, let us go.' Mikhail drops this line plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Let us go. Well, where are you going?' Nagiyev asks deadpan in front of the inspector without any preamble.
-- 'Wait! Oh, excuse me.' Nagiyev spotlights one sharp touch in earnest: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'What is going on here?' The inspector directs this update on cue: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
-- 'In their homeland there is prohibition.' Mikhail speaks wryly without a pause, bringing things back to earth after the buildup.
-- 'Right now everything will be fine.' Mikhail stresses one concrete touch with the inspector: "khorosho" means "good, fine", and it carries the main weight of what Mikhail is saying.
-- 'Let us move on.' The inspector shares the reply plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Excuse us for disturbing you.' Mikhail directly directs this polite apology while facing Nagiyev using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'The commission is in the hotel. We are leaving right now.' Emphasizing the commission right here, Mikhail lands on "komissiya" ("commission") as the key everyday word here.
+- 'Oh, the commission! Well I will show you everything right now.' Nagiyev fires back warmly in this moment, shifting the mood of the conversation in a single beat.
+- 'Here the little sofas are soft.' Nagiyev opens up decisively with a nod, steering the talk right where he wants it.
+- 'Oh, only it is empty.' Nagiyev counters readily on the spot and lands on "pustoy" ("empty-handed") as the key everyday word here.
+- 'Yes, let us go.' Speaking briskly before Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Let us go. Well, where are you going?' Nagiyev asks deadpan what Mikhail is actually getting at here.
+- 'Wait! Oh, excuse me.' Nagiyev plainly sends this polite apology in the exchange using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'What is going on here?' Holding firm readily right here, the inspector puts the question word "chto" right at the start so Mikhail hears the focus immediately.
+- 'In their homeland there is prohibition.' Mikhail replies wryly on the spot, testing the inspector's reaction in the middle of the exchange.
+- 'Right now everything will be fine.' Mikhail reacts evenly before the inspector and uses "khorosho" ("good, fine") to carry the main weight of the thought.
+- 'Let us move on.' Following up warmly before Mikhail, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

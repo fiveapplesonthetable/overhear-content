@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Vika leans on this vivid word toward the guest: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'Someone has to drive you to work.' Max emphasizes this vivid touch right here: "dolzhen" means "has to, must", and it carries the main weight of what Max is saying.
-- 'Is everything alright? Are you Vika's husband?' The guest tests wryly where this conversation is heading next.
-- 'No, this is just my driver.' Vika picks one memorable element for Max: "voditel" means "driver", and it carries the main weight of what Vika is saying.
-- 'Vika is joking, listen, what driver?' Max voices that line briskly now: putting the question word "kakoy" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'Ah, I forgot, sorry, just a cook.' Vika responds bluntly during the talk, steering the talk right where she wants it.
-- 'Are you embarrassed by me? Max, what are you babbling about?' The guest anchors one concrete detail for Max: "stesnyayeshsya" means "are embarrassed by" (from "stesnyatsya"), giving the line its exact edge.
-- 'Darling, I am waiting for you in the car, you need to return to work.' Max offers that remark before Vika: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Otherwise the owner of the hotel will fire you.' Max opens up at once on the spot, grounding the moment in plain reality.
-- 'She works at my hotel, it is a little joke.' Max favors one telling expression toward Vika: "rabotayet" means "works" (from "rabotat"), giving the line its exact edge.
-- 'Do you have your own hotel?' The guest offers the reaction on cue: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Yes, and a restaurant, though I started out as a driver.' Max replies dryly with a sigh, without trying to dress up how he really feels.
+- 'What are you doing here?' Vika responds briskly during the talk and leans on "delayesh" ("are you doing", a form of "delat") to give the remark its edge.
+- 'Someone has to drive you to work.' Max chimes in bluntly toward Vika, grounding the moment in plain reality.
+- 'Is everything alright? Are you Vika's husband?' The guest tests wryly whether Vika really thought this through.
+- 'No, this is just my driver.' Pointing to her driver to the guest, Vika puts the emphasis on "voditel" ("driver") in the middle of the talk.
+- 'Vika is joking, listen, what driver?' Touching on the driver before Vika, Max puts the question word "kakoy" right at the start so Vika hears the focus immediately.
+- 'Ah, I forgot, sorry, just a cook.' Vika follows up bluntly beside Max, to clear the air between them once and for all.
+- 'Are you embarrassed by me? Max, what are you babbling about?' The guest counters naturally before Max and uses "stesnyayeshsya" ("are embarrassed by", from "stesnyatsya") to make the point stick.
+- 'Darling, I am waiting for you in the car, you need to return to work.' Mentioning the car to the guest, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Otherwise the owner of the hotel will fire you.' Max responds at once without any doubt, to clear the air between them once and for all.
+- 'She works at my hotel, it is a little joke.' Discussing his hotel at once, Max brings in "rabotayet" ("works", from "rabotat") as the key Russian word here.
+- 'Do you have your own hotel?' Pointing to the hotel during the talk, the guest keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Yes, and a restaurant, though I started out as a driver.' Max speaks dryly without holding back, testing the guest's reaction in the middle of the exchange.

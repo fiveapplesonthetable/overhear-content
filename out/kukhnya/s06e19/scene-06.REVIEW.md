@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gulya, I cannot talk right now.' Lyova follows up sharply around Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Wait, this is very important right now.' Gulya centers one pointed touch on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'I tried to tell you today.' Gulya grounds this key term with Barinov: "segodnya" means "today", and it carries the main weight of what Gulya is saying.
-- 'I am leaving for Bishkek forever.' Gulya fires back briskly in this moment, watching Lyova's face to see how the news lands.
-- 'Farewell, Lyova, do not look for me.' Gulya picks one practical term in earnest: "ishchi" means "look for" (from "iskat"), giving the line its exact edge.
-- 'Wait, what do you mean you are leaving?' Lyova aims this update around Gulya: putting the question word "kak" right at the front of the line lets Gulya hear the point of the question on the very first beat.
-- 'Chef, forgive me for the dish.' Lyova pushes back briskly with a sigh, making his position completely clear.
-- 'Lyova, where are you running off to now?' Barinov spotlights one clear choice toward Lyova: "pobezhal" means "ran off" (from "pobezhat"), giving the line its exact edge.
-- 'Look ahead, open your eyes wide!' Barinov cuts in decisively without holding back, refusing to let the moment slip past.
-- 'There is no point in continuing the duel now.' Barinov reacts dryly around Lyova, saying out loud what both of them already know.
-- 'Gulya, tell me, were you joking just now?' Lyova anchors one memorable detail with Barinov: "poshutila" means "was joking" (from "poshutit"), giving the line its exact edge.
-- 'If you were joking, it is not funny.' Lyova responds evenly around Gulya, bringing things back to earth after the buildup.
+- 'Gulya, I cannot talk right now.' Lyova speaks honestly with a smile, shifting the mood of the conversation in a single beat.
+- 'Wait, this is very important right now.' Showing how important things are in the exchange, Gulya chooses "vazhno" ("important, mattering", from the root "vazhnyy") so Lyova hears the exact meaning.
+- 'I tried to tell you today.' Gulya proceeds frankly without holding back, watching Lyova's face to see how the news lands.
+- 'I am leaving for Bishkek forever.' Gulya steps in briskly watching Lyova, shifting the mood of the conversation in a single beat.
+- 'Farewell, Lyova, do not look for me.' Gulya continues earnestly during the talk and lands on "ishchi" ("look for", built on "iskat") to keep the statement grounded.
+- 'Wait, what do you mean you are leaving?' Weighing in promptly in the exchange, Lyova puts the question word "kak" right at the start so Gulya hears the focus immediately.
+- 'Chef, forgive me for the dish.' Lyova opens up briskly across the room, steering the talk right where he wants it.
+- 'Lyova, where are you running off to now?' Barinov chimes in openly beside Lyova and brings in "pobezhal" ("ran off", from "pobezhat") as the key Russian word here.
+- 'Look ahead, open your eyes wide!' Highlighting the eyes to Lyova, Barinov leans on "glaza" ("eyes", a form of "glaz") to give the remark its edge.
+- 'There is no point in continuing the duel now.' Bringing up the duel watching Lyova, Barinov speaks plainly so Lyova gets the message at once.
+- 'Gulya, tell me, were you joking just now?' Lyova continues naturally at once and centers the thought on "poshutila" ("was joking", from "poshutit") without wasting a word.
+- 'If you were joking, it is not funny.' Lyova weighs in earnestly in this beat and reaches for the Russian word "poshutila" ("was joking", built from "poshutit") right at the center of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is something wrong?' Mikhail voices the reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Your corridor must be five centimeters wider.' The inspector holds firm promptly facing Mikhail, bringing things back to earth after the buildup.
-- 'Everything is fixed!' Mikhail frames one vivid piece with the inspector: "ispravleno" means "fixed, corrected" (from "ispravit"), giving the line its exact edge.
-- 'The bed is rumpled.' The inspector brings that reply plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Room housekeeping is three points.' The inspector weighs in frankly as things stand, bringing things back to earth after the buildup.
-- 'Those are such trifles!' Mikhail highlights this sharp piece for the inspector: "pustyaki" means "trifles, minor things" (from "pustyak"), giving the line its exact edge.
-- 'Everything with us is excellent, worthy of five stars.' Mikhail makes the comment with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'We did not know that this suite was occupied.' Mikhail pushes back right away around the inspector, steering the talk right where he wants it.
-- 'Let us proceed to another one.' Mikhail sharpens one memorable piece with the inspector: "proydyomte" means "let's go, come with me" (from "proyti"), giving the line its exact edge.
-- 'Are you not aware?' The inspector hands over this update calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Which rooms of yours are vacant and which are occupied?' The inspector asks curiously before Mikhail can change the subject.
-- 'We will check everything right now!' Mikhail points to one sharp term in reply: "proverim" means "we will check" (from "proverit"), giving the line its exact edge.
+- 'Is something wrong?' Jumping in quietly on the spot, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Your corridor must be five centimeters wider.' The inspector responds promptly on the spot, watching Mikhail's face to see how the news lands.
+- 'Everything is fixed!' Mikhail follows up openly around the inspector and brings in "ispravleno" ("fixed, corrected", from "ispravit") as the key Russian word here.
+- 'The bed is rumpled.' Pointing to the bed before Mikhail, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Room housekeeping is three points.' The inspector fires back frankly with a nod, watching Mikhail's face to see how the news lands.
+- 'Those are such trifles!' Bringing up the trifles beside the inspector, Mikhail uses "pustyaki" ("trifles, minor things", from "pustyak") to make the point stick.
+- 'Everything with us is excellent, worthy of five stars.' Focusing on the stars on the spot, Mikhail reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'We did not know that this suite was occupied.' Mikhail follows up right away toward the inspector, letting the remark speak for itself.
+- 'Let us proceed to another one.' Mikhail pushes back plainly at once and reaches for the Russian word "proydyomte" ("let's go, come with me", built from "proyti") right at the center of the line.
+- 'Are you not aware?' Touching on the course before Mikhail, the inspector links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Which rooms of yours are vacant and which are occupied?' The inspector asks curiously why things suddenly took this turn between them.
+- 'We will check everything right now!' Mikhail steps in firmly at once and centers the thought on "proverim" ("we will check", from "proverit") without wasting a word.

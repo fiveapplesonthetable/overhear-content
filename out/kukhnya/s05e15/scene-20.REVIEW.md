@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, I will go, I need to pack for my trip already.' The guest frames the comment around Barinov: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'My plane for the north takes off very soon.' The guest fires back lightly with a smile, saying out loud what both of them already know.
-- 'Do not be sad, old friend, everything will be fine!' Barinov chooses one direct element at once: "starik" means "old man", and it carries the main weight of what Barinov is saying.
-- 'She probably still loves me a little bit after all.' The guest responds pointedly with a nod, refusing to let the moment slip past.
-- 'Forgive me, old friend, and take good care of her.' The guest holds firm promptly in this moment, refusing to let the moment slip past.
-- 'Everyone knows that marriages are made in heaven.' Barinov points to this sharp word in earnest: "zaklyuchayutsya" means "be concluded" (from "zaklyuchatsya"), giving the line its exact edge.
-- 'Even if it is already your fourth happy marriage!' Barinov sends the reply toward Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well then, Vitya, did you manage to submit the documents?' Elena challenges eagerly how the guest expects that to work in practice.
-- 'Yes, today I finally submitted our application to the registry office!' See how Barinov reassures Elena right here — the Russian word "zayavleniye" ("statement") gives the whole sentence its punch.
-- 'True, our turn will come only in three months.' Barinov steps in bluntly with a nod, keeping the focus on what actually matters here.
-- 'That is alright, three months will fly by very quickly.' Elena speaks candidly with a shrug, bringing things back to earth after the buildup.
-- 'The main thing is to move together in the same direction!' Barinov reaches for this vivid detail toward the guest: "napravlenii" means "referral slip" (from "napravleniye"), giving the line its exact edge.
+- 'Alright, I will go, I need to pack for my trip already.' Focusing on the road right here, the guest leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'My plane for the north takes off very soon.' The guest jumps in lightly facing Barinov, letting the remark speak for itself.
+- 'Do not be sad, old friend, everything will be fine!' Talking about the old man on the spot, Barinov uses "starik" ("old man") to carry the main weight of the thought.
+- 'She probably still loves me a little bit after all.' The guest speaks briskly in front of Barinov and reaches for the Russian word "navernoye" ("probably") right at the heart of the line.
+- 'Forgive me, old friend, and take good care of her.' The guest follows up promptly hearing Barinov, without trying to dress up how he really feels.
+- 'Everyone knows that marriages are made in heaven.' Pointing to the marriages beside the guest, Barinov chooses "zaklyuchayutsya" ("be concluded", from the root "zaklyuchatsya") so the guest hears the exact meaning.
+- 'Even if it is already your fourth happy marriage!' Underscoring how fourth things are to Elena, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well then, Vitya, did you manage to submit the documents?' Elena challenges eagerly while looking straight at Barinov here.
+- 'Yes, today I finally submitted our application to the registry office!' Focusing on the statement in the exchange, Barinov puts the emphasis on "zayavleniye" ("statement") in the middle of the talk.
+- 'True, our turn will come only in three months.' Discussing the months at once, Barinov centers the thought on "mesyatsa" ("months", from "mesyats") without wasting a word.
+- 'That is alright, three months will fly by very quickly.' Elena replies candidly with a smile, testing Barinov's reaction in the middle of the exchange.
+- 'The main thing is to move together in the same direction!' Bringing up the referral slip during the talk, Barinov leans on "napravlenii" ("referral slip", a form of "napravleniye") to give the remark its edge.

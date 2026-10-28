@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, we need to talk.' Vika colors this clear choice on cue: "pogovorit" means "to talk", and it carries the main weight of what Vika is saying.
-- 'Let us not do it right now.' Max states this line facing Vika: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'You must know something.' Vika chimes in earnestly to be clear, leaving no doubt about where she stands.
-- 'Your grandmother is seriously ill.' Vika centers this sharp choice with Max: "babushka" means "old lady", and it carries the main weight of what Vika is saying.
-- 'She has a couple of months left.' Vika makes that line around Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Max, we need to talk.' Vika chimes in firmly to Max and leans on "pogovorit" ("to talk") to give the whole sentence its punch.
+- 'Let us not do it right now.' Leaning in evenly to Vika, Max starts with "davay" ("come on, let's") to invite Vika right into the action.
+- 'You must know something.' Vika follows up earnestly around Max, watching Max's face to see how the news lands.
+- 'Your grandmother is seriously ill.' Underscoring the old lady in this beat, Vika chooses "babushka" ("old lady") so Max gets the point right away.
+- 'She has a couple of months left.' Returning to the months in front of Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
 - 'Grandma too?' Max wonders briskly whether Vika really thought this through.
-- 'Yes, Maxim Ilyich said so.' Vika picks one classic expression in reply: "ilich" means "Ilyich", and it carries the main weight of what Vika is saying.
-- 'Wait, what does 'too' Vika sends the comeback before Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Grandpa told me that he is the one with two months left!' Max responds right away on the spot, refusing to let the moment slip past.
-- 'He fooled both of us!' Vika features one pointed word on cue: "obmanul" means "cheated" (from "obmanut"), giving the line its exact edge.
-- 'Now at least it is clear who you take after.' Vika frames this update briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Grandpa, we need to have a serious talk!' Max pushes back pointedly before Vika, without trying to dress up how he really feels.
+- 'Yes, Maxim Ilyich said so.' Vika fires back smoothly in this beat and uses "ilich" ("Ilyich") to carry the main weight of the thought.
+- 'Wait, what does 'too' Speaking naturally with Max, Vika puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Grandpa told me that he is the one with two months left!' Bringing up the months with a smile, Max makes it clear to Vika that he means every word.
+- 'He fooled both of us!' Vika chimes in naturally beside Max and centers the thought on "obmanul" ("cheated", from "obmanut") without wasting a word.
+- 'Now at least it is clear who you take after.' Speaking evenly to Max, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Grandpa, we need to have a serious talk!' Max cuts in pointedly with Vika, watching Vika's face to see how the news lands.

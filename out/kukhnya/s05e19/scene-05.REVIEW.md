@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, Vitya, hear me out to the end.' Nagiyev follows up candidly in this moment, to clear the air between them once and for all.
-- 'A Michelin inspector has secretly arrived in Moscow.' Nagiyev weighs in plainly on the spot, steering the talk right where he wants it.
-- 'Where do you think he will go first?' Nagiyev anchors one pointed term for Barinov: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
-- 'He will go straight to the very best restaurant.' Nagiyev cuts in openly during the talk, saying out loud what both of them already know.
-- 'Your restaurant without me is no longer the best.' Barinov responds wryly hearing Nagiyev, to clear the air between them once and for all.
-- 'You will have a chance to get a Michelin star!' Nagiyev picks one familiar element with Barinov: "poluchit" means "to get, to receive", and it carries the main weight of what Nagiyev is saying.
-- 'Dima, I have very little time right now.' Barinov shapes that thought before Nagiyev: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Look what kind of car they gave me recently.' Nagiyev jumps in sharply without any doubt, so Barinov knows he is not just making small talk.
-- 'If you agree, this ride will be yours!' Nagiyev underscores one telling element right here: "soglasishsya" means "to agree" (from "soglasitsya"), giving the line its exact edge.
-- 'Fresh trout was just delivered, I am going to receive it.' Barinov responds candidly to be clear, shifting the whole mood of the room in a single beat.
-- 'Vitya, think carefully about the Michelin star.' Nagiyev answers dryly during the talk, shifting the whole mood of the room in a single beat.
-- 'And do not forget about this car either.' Nagiyev frames this direct expression in earnest: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
+- 'Wait, Vitya, hear me out to the end.' Mentioning the ending at once, Nagiyev chooses "doslushay" ("hear out", from the root "doslushat") so Barinov hears the exact meaning.
+- 'A Michelin inspector has secretly arrived in Moscow.' Nagiyev weighs in plainly across the room, steering the talk right where he wants it.
+- 'Where do you think he will go first?' Nagiyev fires back evenly in the exchange and uses "poydyot" ("will go", from "poyti") to make the point stick.
+- 'He will go straight to the very best restaurant.' Turning to the restaurant in front of Barinov, Nagiyev uses "luchshiy" ("best") to carry the main weight of the thought.
+- 'Your restaurant without me is no longer the best.' Touching on the restaurant hearing Nagiyev, Barinov speaks plainly so Nagiyev gets the message at once.
+- 'You will have a chance to get a Michelin star!' Focusing on a star with Barinov, Nagiyev chooses "zvezdu" ("star", from the root "zvezda") so Barinov hears the exact meaning.
+- 'Dima, I have very little time right now.' Barinov opens up warmly toward Nagiyev, letting the remark speak for itself.
+- 'Look what kind of car they gave me recently.' Nagiyev replies sharply around Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'If you agree, this ride will be yours!' Pointing to the car to Barinov, Nagiyev puts the weight on "soglasishsya" ("to agree", from "soglasitsya") as the exchange unfolds.
+- 'Fresh trout was just delivered, I am going to receive it.' Insisting on how fresh he is to Nagiyev, Barinov centers the thought on "svezhuyu" ("fresh", from "svezhiy") without wasting a word.
+- 'Vitya, think carefully about the Michelin star.' Addressing the star across the room, Nagiyev speaks plainly so Barinov gets the message at once.
+- 'And do not forget about this car either.' Touching on the car during the talk, Nagiyev lands on "mashinu" ("car", built on "mashina") to keep the statement grounded.

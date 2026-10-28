@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, why are you drinking during work hours?' The inspector aims that line without fuss: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'I am celebrating your imminent resignation, Sergey Vladimirovich!' Barinov reacts dryly without any doubt, before Max can change the subject.
-- 'Interesting, why on earth should I resign?' The inspector leans on one loaded term with Barinov: "interesno" means "interesting", and it carries the main weight of what the inspector is saying.
-- 'Because of this pretty little thing right here!' Barinov opens up frankly with Max, testing Max's reaction in the middle of the exchange.
-- 'Look closely at it, do you recognize it?' Barinov presses briskly what the inspector is actually getting at here.
-- 'Oh, did I really lose it by accident yesterday?' Max centers one practical expression right here: "sluchayno" means "by any chance", and it carries the main weight of what Max is saying.
-- 'I see no logic, why should I resign because of an earring?' The inspector hands over the reply with ease: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'And do you know where exactly I found it yesterday?' Barinov wonders point-blank about what Max just brought up.
-- 'I found it on the floor when I dropped the cork at your place!' Barinov focuses on this telling detail right here: "probku" means "traffic jam" (from "probka"), giving the line its exact edge.
-- 'You found it in my room, and that means nothing.' The inspector delivers this warning at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'And I knew you would say that, which is why I came a second time!' Barinov opens up frankly with a shrug, testing the inspector's reaction in the middle of the exchange.
-- 'That is precisely why I asked where your restroom was back then!' Barinov frames this sharp touch in reply: "tualet" means "toilet", and it carries the main weight of what Barinov is saying.
+- 'Viktor Petrovich, why are you drinking during work hours?' Describing how work things are at once, the inspector puts the question word "pochemu" right at the start so Barinov hears the focus immediately.
+- 'I am celebrating your imminent resignation, Sergey Vladimirovich!' Barinov chimes in dryly beside the inspector, before the inspector can change the subject.
+- 'Interesting, why on earth should I resign?' The inspector follows up pointedly to Barinov and brings in "dolzhen" ("has to, must") to make the meaning unmistakable.
+- 'Because of this pretty little thing right here!' Barinov answers directly in front of the inspector and centers the thought on "veshchichki" ("little thing", from "veshchichka") without wasting a word.
+- 'Look closely at it, do you recognize it?' Barinov presses briskly while looking straight at Max here.
+- 'Oh, did I really lose it by accident yesterday?' Max steps in dryly right here and centers the remark on "sluchayno" ("by any chance") without any extra fuss.
+- 'I see no logic, why should I resign because of an earring?' Mentioning an earring during the talk, the inspector puts the question word "pochemu" right at the start so Barinov hears the focus immediately.
+- 'And do you know where exactly I found it yesterday?' Barinov wonders point-blank where this conversation is heading next.
+- 'I found it on the floor when I dropped the cork at your place!' Underscoring the traffic jam in the exchange, Barinov centers the thought on "probku" ("traffic jam", from "probka") without wasting a word.
+- 'You found it in my room, and that means nothing.' Pointing to his room at once, the inspector pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'And I knew you would say that, which is why I came a second time!' Barinov follows up frankly facing the inspector, shifting the mood of the conversation in a single beat.
+- 'That is precisely why I asked where your restroom was back then!' Touching on the toilet in this beat, Barinov brings in "tualet" ("toilet") to make the meaning unmistakable.

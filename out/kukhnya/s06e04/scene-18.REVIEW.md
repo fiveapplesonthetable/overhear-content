@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This morning there were fifteen thousand here.' Eleonora counters earnestly in this moment, so Barinov knows she is not just making small talk.
-- 'Dad, forgive me, I did not mean to, it was a silly prank.' Eleonora chooses this telling piece right here: "rozygrysh" means "prank", and it carries the main weight of what Eleonora is saying.
-- 'Alright, I remembered everything.' Barinov states that line frankly here: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Regarding the medicines, I will write everything down for you in detail.' The doctor reacts bluntly with a shrug, shifting the whole mood of the room in a single beat.
-- 'Keep an eye on him, I beg you.' The doctor features this vivid piece at once: "prosledite" means "to see to it" (from "prosledit"), giving the line its exact edge.
-- 'I am afraid he will not manage on his own.' The doctor offers that reply beside Eleonora: the "-sya" ending on "spravitsya" ("to manage, to cope") turns the action inward or makes it happen between people naturally.
-- 'What happened with the inspector?' Barinov presses straight out whether the doctor really thought this through.
-- 'Everything is fine, your chef fed him.' Eleonora colors this direct touch at once: "khorosho" means "good, fine", and it carries the main weight of what Eleonora is saying.
-- 'And they asked to pass along that the inspector was very pleased.' Eleonora jumps in pointedly with a smile, watching Barinov's face to see how the news lands.
-- 'This is not even funny anymore!' Barinov counters plainly without a pause, letting the remark speak for itself.
-- 'When he comes for the third time, is Ainura going to feed him?' Barinov underscores one familiar term right here: "tretiy" means "the third", and it carries the main weight of what Barinov is saying.
-- 'I understand everything, but I need to work a little longer.' Barinov makes that reply with ease: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'This morning there were fifteen thousand here.' Eleonora replies earnestly beside Barinov, making her position completely clear.
+- 'Dad, forgive me, I did not mean to, it was a silly prank.' Addressing a silly prank in this beat, Eleonora uses "rozygrysh" ("prank") to carry the main weight of the thought.
+- 'Alright, I remembered everything.' Weighing in calmly beside Eleonora, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Regarding the medicines, I will write everything down for you in detail.' The doctor continues bluntly with a smile, grounding the moment in plain reality.
+- 'Keep an eye on him, I beg you.' The doctor replies firmly right here and leans on "prosledite" ("to see to it", a form of "prosledit") to give the remark its edge.
+- 'I am afraid he will not manage on his own.' Looking over candidly in front of Barinov, the "-sya" ending on "spravitsya" ("to manage, to cope") marks an action that unfolds mutually or turns back on the speaker.
+- 'What happened with the inspector?' Barinov presses straight out about what Eleonora just brought up.
+- 'Everything is fine, your chef fed him.' Eleonora proceeds evenly right here and lands on "khorosho" ("good, fine") as the key everyday word here.
+- 'And they asked to pass along that the inspector was very pleased.' Turning to the inspector in this beat, Eleonora puts the emphasis on "inspektor" ("inspector") in the middle of the talk.
+- 'This is not even funny anymore!' Barinov speaks plainly with Eleonora, before Eleonora can change the subject.
+- 'When he comes for the third time, is Ainura going to feed him?' Barinov weighs in plainly around Eleonora and puts the emphasis on "tretiy" ("the third") in the middle of the talk.
+- 'I understand everything, but I need to work a little longer.' Holding firm directly to Eleonora, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".

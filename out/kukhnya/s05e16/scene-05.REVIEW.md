@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in, Max, tell me, how is your life going?' The guest sends the reaction toward Max: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Judging by your luxury suite, things are going well for you!' Max opens up honestly without a pause, steering the talk right where he wants it.
-- 'The company pays for the room, I work as a department head.' The guest colors one vivid detail in earnest: "nachalnikom" means "boss, chief" (from "nachalnik"), giving the line its exact edge.
-- 'Cool, and how is your personal life? Are you married?' Max shapes that point for the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'No, I still have not met anyone.' The guest answers earnestly in this moment, to clear the air between them once and for all.
-- 'I probably just cannot forget my first love.' The guest points to one pointed detail in earnest: "navernoye" means "probably", and it carries the main weight of what the guest is saying.
-- 'Come on, admirers are surely standing in a long line!' Max shapes this update at once: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that the guest is on board.
-- 'Let's not talk about sad things, let's kiss instead?' The guest probes evenly if there is more going on behind the scenes.
-- 'Dasha, no, I recently went through a painful breakup.' Max points to one memorable choice in earnest: "tyazhyolyy" means "heavy", and it carries the main weight of what Max is saying.
-- 'I see, then you simply need to clear your head a bit!' The guest shares the remark calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Tomorrow I am flying to Sochi on our bank's plane.' The guest reacts boldly in this moment, bringing things back to earth after the buildup.
-- 'That is unlikely to work out, I have urgent work downstairs.' Max frames one clear touch at once: "poluchitsya" means "will come out", and it carries the main weight of what Max is saying.
+- 'Come in, Max, tell me, how is your life going?' Dwelling on the life right here, the guest drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Judging by your luxury suite, things are going well for you!' Max cuts in honestly beside the guest, bringing things back to earth after the buildup.
+- 'The company pays for the room, I work as a department head.' Focusing on the boss around Max, the guest uses "nachalnikom" ("boss, chief", from "nachalnik") to make the point stick.
+- 'Cool, and how is your personal life? Are you married?' Pointing out how personal things are with the guest, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'No, I still have not met anyone.' The guest reacts earnestly with a nod, letting the remark speak for itself.
+- 'I probably just cannot forget my first love.' Emphasizing the love in this beat, the guest leans on "pervuyu" ("first", a form of "pervyy") to give the remark its edge.
+- 'Come on, admirers are surely standing in a long line!' Mentioning the admirers in front of the guest, Max uses "poklonniki" ("admirers, suitors", from "poklonnik") to make the point stick.
+- 'Let's not talk about sad things, let's kiss instead?' The guest probes evenly while looking straight at Max here.
+- 'Dasha, no, I recently went through a painful breakup.' Pointing to a painful breakup in front of the guest, Max uses "tyazhyolyy" ("heavy") to carry the main weight of the thought.
+- 'I see, then you simply need to clear your head a bit!' Turning smoothly beside Max, the guest uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Tomorrow I am flying to Sochi on our bank's plane.' The guest pushes back boldly with a sigh, without trying to dress up how he really feels.
+- 'That is unlikely to work out, I have urgent work downstairs.' Stressing how urgent things are in this beat, Max puts the weight on "srochnaya" ("urgent", from "srochnyy") as the exchange unfolds.

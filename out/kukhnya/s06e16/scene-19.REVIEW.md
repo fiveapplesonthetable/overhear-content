@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is a shame that we fed her, and everyone looked.' See how Barinov speaks to Elena in earnest — the Russian word "smotreli" ("to look, to watch", built from "smotret") does the heavy lifting.
-- 'Ladies and gentlemen, the show has come to an end.' The guest speaks up decisively to be clear, shifting the whole mood of the room in a single beat.
-- 'I invite all the models onto the stage.' The guest steps in briskly beside Barinov, making his position completely clear.
-- 'I thank everyone who helped organize the show.' The guest favors one sharp touch right here: "organizovat" means "to organize", and it carries the main weight of what the guest is saying.
-- 'Let us get out of here, a crowd is about to start.' Barinov hands over the reply with ease: the "-sya" ending on "nachnyotsya" ("will begin") turns the action inward or makes it happen between people naturally.
-- 'I want to thank the head chef of the restaurant, Viktor Barinov!' The guest responds steadily to be clear, refusing to let the moment slip past.
-- 'And introduce to you his fiancée Elena!' The guest colors one familiar term on cue: "predstavit" means "to imagine", and it carries the main weight of what the guest is saying.
-- 'Elena, this wonderful dress is for you.' The guest voices this answer frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Thank you very much for such a gift.' Elena speaks at once as things stand, so Barinov knows she is not just making small talk.
-- 'Maybe you will sing something for us?' The guest sharpens one memorable element on cue: "spoyote" means "will sing" (from "spet"), giving the line its exact edge.
-- 'Or else I will not give you the dress!' The guest frames this direct term at once: "platye" means "a dress", and it carries the main weight of what the guest is saying.
-- 'Lena, sing quickly, this is an expensive dress!' Barinov continues lightly in this moment, making his position completely clear.
+- 'It is a shame that we fed her, and everyone looked.' Barinov cuts in promptly beside the guest and chooses "smotreli" ("to look, to watch", from the root "smotret") so the guest hears the exact meaning.
+- 'Ladies and gentlemen, the show has come to an end.' Bringing up the gentlemen in the exchange, the guest uses "gospoda" ("gentlemen", from "gospodin") to make the point stick.
+- 'I invite all the models onto the stage.' The guest fires back briskly without a pause, keeping the focus on what actually matters here.
+- 'I thank everyone who helped organize the show.' Discussing the show to Barinov, the guest leans on "organizovat" ("to organize") to give the whole sentence its punch.
+- 'Let us get out of here, a crowd is about to start.' Touching on a crowd before the guest, the "-sya" ending on "nachnyotsya" ("will begin") marks an action that unfolds mutually or turns back on the speaker.
+- 'I want to thank the head chef of the restaurant, Viktor Barinov!' The guest continues steadily during the talk, letting the remark speak for itself.
+- 'And introduce to you his fiancée Elena!' Emphasizing the bride on the spot, the guest puts the emphasis on "predstavit" ("to imagine") in the middle of the talk.
+- 'Elena, this wonderful dress is for you.' Noting how wonderful things are in front of Elena, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Thank you very much for such a gift.' Elena weighs in at once beside the guest, so the guest knows she is not just making small talk.
+- 'Maybe you will sing something for us?' The guest reacts smoothly in front of Elena and puts the weight on "spoyote" ("will sing", from "spet") as the exchange unfolds.
+- 'Or else I will not give you the dress!' The guest chimes in at once without holding back, shifting the mood of the conversation in a single beat.
+- 'Lena, sing quickly, this is an expensive dress!' Raising the spa across the room, Barinov keeps the guest's attention locked on what matters.

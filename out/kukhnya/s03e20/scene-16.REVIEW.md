@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Kostya, I think my contractions have just started!' Nastya centers one classic piece in reply: "skhvatki" means "contractions" (from "skhvatka"), giving the line its exact edge.
-- 'Then we are urgently going to the hospital right now!' Kostya fires back evenly to be clear, shifting the whole mood of the room in a single beat.
-- 'Kostya, no! We will definitely sign the marriage registry here first!' Nastya responds firmly on the spot, leaving no doubt about where she stands.
-- 'Do you, Konstantin, agree to take Anastasia as your wife?' Max favors one memorable element in reply: "soglasny" means "agree" (from "soglasnyy"), giving the line its exact edge.
-- 'Yes, I agree, just please hurry up!' Kostya sends this line briskly now: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
-- 'Do you, Anastasia, agree to take Konstantin as your husband?' Max asks point-blank before Nastya can change the subject.
-- 'Yes! Hurry and pronounce us husband and wife!' Nastya grounds one familiar term at once: "obyavlyayte" means "to declare" (from "obyavlyat"), giving the line its exact edge.
-- 'Kiss, exchange rings, sign the registry, and go quickly!' Max aims that point with candor: the "-sya" ending on "potseluytes" ("to kiss") turns the action inward or makes it happen between people naturally.
-- 'Here is your ring, let us kiss quickly!' Kostya speaks up boldly facing Max, watching Max's face to see how the news lands.
-- 'That is it, my love, now I am picking you up in my arms!' Kostya emphasizes one loaded detail right here: "lyubimaya" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.
-- 'Wait, guys, is there going to be a wedding banquet today or not?' Max gives the reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Friends, let us drink to the newlyweds and to our victory!' Max weighs in at once in this moment, saying out loud what both of them already know.
+- 'Oh, Kostya, I think my contractions have just started!' Highlighting her contractions beside Kostya, Nastya brings in "skhvatki" ("contractions", from "skhvatka") as the key Russian word here.
+- 'Then we are urgently going to the hospital right now!' Discussing the hospital with Nastya, Kostya uses "bolnitsu" ("the hospital", from "bolnitsa") to make the point stick.
+- 'Kostya, no! We will definitely sign the marriage registry here first!' Nastya cuts in firmly without any doubt, keeping the focus on what actually matters here.
+- 'Do you, Konstantin, agree to take Anastasia as your wife?' Discussing the wife to Nastya, Max brings in "soglasny" ("agree", from "soglasnyy") as the key Russian word here.
+- 'Yes, I agree, just please hurry up!' Leaning in quietly beside Max, Kostya uses the polite or group form "davayte" ("let's") to bring Max into the plan.
+- 'Do you, Anastasia, agree to take Konstantin as your husband?' Max asks point-blank why things suddenly took this turn between them.
+- 'Yes! Hurry and pronounce us husband and wife!' Talking about the husband on the spot, Nastya lands on "obyavlyayte" ("to declare", built on "obyavlyat") to keep the statement grounded.
+- 'Kiss, exchange rings, sign the registry, and go quickly!' Returning to the rings at once, the "-sya" ending on "potseluytes" ("to kiss") marks an action that unfolds mutually or turns back on the speaker.
+- 'Here is your ring, let us kiss quickly!' Kostya weighs in boldly during the talk, refusing to let the moment slip past.
+- 'That is it, my love, now I am picking you up in my arms!' Explaining how favourite he is at once, Kostya chooses "lyubimaya" ("favourite, beloved", from the root "lyubimyy") so Max hears the exact meaning.
+- 'Wait, guys, is there going to be a wedding banquet today or not?' Underscoring how wedding things are beside Kostya, Max keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Friends, let us drink to the newlyweds and to our victory!' Max fires back at once without holding back, letting the remark speak for itself.

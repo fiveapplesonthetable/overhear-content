@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Monsieur, this wine is just right for dinner.' Louis centers one practical term toward Max: "uzhina" means "dinner, supper" (from "uzhin"), giving the line its exact edge.
-- 'It was specially created to delight women.' Louis responds openly with a shrug, keeping the focus on what actually matters here.
-- 'But after all this wine is sitting at the bar.' Max opens up at once beside Louis, grounding the moment in plain reality.
-- 'Take this bottle tonight, Maksim.' Louis picks one classic piece toward Senya: "butylku" means "a bottle" (from "butylka"), giving the line its exact edge.
-- 'And tomorrow buy Konstantin the exact same bottle.' Louis cuts in bluntly facing Max, steering the talk right where he wants it.
-- 'And then nobody will notice anything at all.' Louis continues steadily as they talk, steering the talk right where he wants it.
-- 'Thank you, Louis, you helped me a lot!' Max grounds one direct touch for Louis: "spasibo" means "thank you", and it carries the main weight of what Max is saying.
-- 'Senya, take a tasty dessert in exchange for your kidneys.' Max spotlights one practical word in reply: "vkusnyy" means "delicious", and it carries the main weight of what Max is saying.
-- 'All right, restaurant menace, take the fresh kidneys.' Senya proceeds frankly with Louis, without trying to dress up how he really feels.
-- 'Tonight we will have a wonderful dinner.' Max frames one familiar touch with Senya: "chudesnyy" means "wonderful, miraculous", and it carries the main weight of what Max is saying.
-- 'Just make sure you do not overcook them in the pan.' Senya responds frankly watching Louis, watching Louis's face to see how the news lands.
-- 'Do not worry, I will cook everything perfectly!' Max proceeds firmly beside Senya, refusing to let the moment slip past.
+- 'Monsieur, this wine is just right for dinner.' Underscoring the dinner right here, Louis lands on "uzhina" ("dinner, supper", built on "uzhin") to keep the statement grounded.
+- 'It was specially created to delight women.' Turning to the women to Max, Louis uses "zhenshchin" ("women", from "zhenshchina") to make the point stick.
+- 'But after all this wine is sitting at the bar.' Max opens up at once in this moment, making his position completely clear.
+- 'Take this bottle tonight, Maksim.' Pointing to the bottle in this beat, Louis reaches for the Russian word "butylku" ("a bottle", built from "butylka") right at the center of the line.
+- 'And tomorrow buy Konstantin the exact same bottle.' Addressing the exact on the spot, Louis puts the weight on "konstantinu" ("exact", from "konstantina") as the exchange unfolds.
+- 'And then nobody will notice anything at all.' Louis answers steadily in this moment, before Max can change the subject.
+- 'Thank you, Louis, you helped me a lot!' Talking about the thank with Louis, Max puts the emphasis on "spasibo" ("thank you") in the middle of the talk.
+- 'Senya, take a tasty dessert in exchange for your kidneys.' Max continues honestly on the spot, bringing things back to earth after the buildup.
+- 'All right, restaurant menace, take the fresh kidneys.' Senya steps in frankly without any doubt, steering the talk right where he wants it.
+- 'Tonight we will have a wonderful dinner.' Mentioning a wonderful dinner on the spot, Max uses "chudesnyy" ("wonderful, miraculous") to carry the main weight of the thought.
+- 'Just make sure you do not overcook them in the pan.' Emphasizing the skillet right here, Senya leans on "skovorode" ("skillet", a form of "skovoroda") to give the remark its edge.
+- 'Do not worry, I will cook everything perfectly!' Max replies evenly with Senya, grounding the moment in plain reality.

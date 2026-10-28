@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, outside there is a heavy downpour with wind.' Max points to this telling detail in earnest: "ulitse" means "street" (from "ulitsa"), giving the line its exact edge.
-- 'The guests are all wet, they are unhappy, what should we do?' Max directs this point without fuss: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Alas, there is nothing to be done here now.' Barinov answers candidly to settle things, steering the talk right where he wants it.
-- 'Tell Vika to move the banquet into the hall.' Barinov sharpens one key term with Vika: "perenosit" means "moves, transfers", and it carries the main weight of what Barinov is saying.
-- 'Vitya, we cannot hold two banquets together.' Vika weighs in sharply with a sigh, keeping the focus on what actually matters here.
-- 'Why is that, the guests got cold.' Barinov reacts promptly during the talk, grounding the moment in plain reality.
-- 'And what are we going to do now?' Vika frames one memorable touch with Barinov: "teper" means "now", and it carries the main weight of what Vika is saying.
-- 'Calmly, just without any panic.' Barinov holds firm warmly to be clear, before Vika can change the subject.
-- 'Right now they will sit for a while and leave.' Barinov stands firm firmly watching Max, keeping the focus on what actually matters here.
-- 'My guests over there are asking for cheerful music.' Vika underscores one colorful choice for Max: "vesyoluyu" means "cheerful, merry" (from "vesyolyy"), giving the line its exact edge.
-- 'No music can be turned on right now!' Barinov gives this update at once: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'Why are we forced to endure this outrage?' Vika challenges evenly where this conversation is heading next.
-- 'Excuse us, right now we will fix everything quickly.' Vika grounds one familiar touch at once: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'Chef, outside there is a heavy downpour with wind.' Pointing to the street in the exchange, Max reaches for the Russian word "ulitse" ("street", built from "ulitsa") right at the center of the line.
+- 'The guests are all wet, they are unhappy, what should we do?' Describing how unhappy things are in the exchange, Max puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Alas, there is nothing to be done here now.' Barinov opens up candidly beside Max, testing Max's reaction in the middle of the exchange.
+- 'Tell Vika to move the banquet into the hall.' Underscoring the banquet before Vika, Barinov brings in "perenosit" ("moves, transfers") to make the meaning unmistakable.
+- 'Vitya, we cannot hold two banquets together.' Touching on the banquet in front of Barinov, Vika reaches for the Russian word "banketa" ("banquet", built from "banket") right at the center of the line.
+- 'Why is that, the guests got cold.' Barinov chimes in promptly hearing Vika, testing Vika's reaction in the middle of the exchange.
+- 'And what are we going to do now?' Reacting openly at once, Vika puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Calmly, just without any panic.' Turning to the panic right here, Barinov chooses "paniki" ("panic", from the root "panika") so Vika hears the exact meaning.
+- 'Right now they will sit for a while and leave.' Barinov steps in firmly watching Vika, shifting the mood of the conversation in a single beat.
+- 'My guests over there are asking for cheerful music.' Explaining how cheerful things are on the spot, Vika leans on "vesyoluyu" ("cheerful, merry", a form of "vesyolyy") to give the remark its edge.
+- 'No music can be turned on right now!' Dwelling on the music to Vika, Barinov leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'Why are we forced to endure this outrage?' Vika challenges evenly about what Barinov just brought up.
+- 'Excuse us, right now we will fix everything quickly.' Vika fires back quietly on the spot and chooses "izvinite" ("sorry, excuse me", from the root "izvinit") so Barinov hears the exact meaning.

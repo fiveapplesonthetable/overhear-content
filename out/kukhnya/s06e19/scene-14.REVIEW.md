@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, I need all of you!' Barinov picks one practical word in earnest: "rebyata" means "the boys, the lads", and it carries the main weight of what Barinov is saying.
-- 'Everyone run quickly to the kitchen!' Barinov replies candidly with a smile, to clear the air between them once and for all.
-- 'Chef, there are very few groceries here.' Senya points to this sharp term at once: "produktov" means "of groceries" (from "produkt"), giving the line its exact edge.
-- 'Easy now, just without any panic.' Barinov holds firm steadily watching Senya, before Senya can change the subject.
-- 'I did not manage to take everything yesterday.' Senya reacts wryly with Barinov, making his position completely clear.
-- 'They fired me from here too quickly.' Senya stresses one memorable detail at once: "slishkom" means "too", and it carries the main weight of what Senya is saying.
-- 'Come on, guys, get to work quickly!' Barinov directs this line beside Denis: the word "davayte" is the polite or group version of "let's", inviting Denis into the plan right away.
-- 'Is there no other place for a talk?' Denis checks quietly how Senya expects that to work in practice.
-- 'Sveta, please, you will delete the video.' Denis favors one colorful detail right here: "sotryosh" means "you will erase" (from "steret"), giving the line its exact edge.
-- 'You will not send it to anyone.' Denis steps in warmly with a sigh, so Senya knows he is not just making small talk.
-- 'You are a born negotiator.' Senya proceeds openly on the spot, before Barinov can change the subject.
-- 'I will have to take the phone away from you.' Denis grounds one concrete word right here: "pridyotsya" means "you'll have to" (from "priytis"), giving the line its exact edge.
+- 'Guys, I need all of you!' Barinov speaks honestly facing Senya, to clear the air between them once and for all.
+- 'Everyone run quickly to the kitchen!' Pointing to the kitchen with a sigh, Barinov sets the direction for the rest of the talk with Senya.
+- 'Chef, there are very few groceries here.' Focusing on the groceries beside Barinov, Senya reaches for the Russian word "produktov" ("of groceries", built from "produkt") right at the center of the line.
+- 'Easy now, just without any panic.' Focusing on the panic on the spot, Barinov centers the thought on "paniki" ("panic", from "panika") without wasting a word.
+- 'I did not manage to take everything yesterday.' Senya reacts wryly in this moment, leaving no doubt about where he stands.
+- 'They fired me from here too quickly.' Senya weighs in smoothly at once and centers the remark on "otsyuda" ("from here") without any extra fuss.
+- 'Come on, guys, get to work quickly!' Turning to the boys before Senya, Barinov uses the polite or group form "davayte" ("let's") to bring Senya into the plan.
+- 'Is there no other place for a talk?' Denis checks quietly how Barinov expects that to work in practice.
+- 'Sveta, please, you will delete the video.' Talking about the video on the spot, Denis uses "sotryosh" ("you will erase", from "steret") to make the point stick.
+- 'You will not send it to anyone.' Denis steps in calmly in this beat and uses "otpravlyat" ("to send") to carry the main weight of the thought.
+- 'You are a born negotiator.' Senya jumps in openly in this moment, bringing things back to earth after the buildup.
+- 'I will have to take the phone away from you.' Addressing the phone during the talk, Denis brings in "pridyotsya" ("you'll have to", from "priytis") as the key Russian word here.

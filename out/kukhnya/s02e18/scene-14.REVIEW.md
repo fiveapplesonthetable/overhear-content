@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'But first I am going to show all of you.' Max focuses on this key piece for Barinov: "snachala" means "first, at first", and it carries the main weight of what Max is saying.
-- 'And we start pressing down with the palm of the hand.' Barinov weighs in evenly facing Max, without trying to dress up how he really feels.
-- 'With a knife we trim off the ends of the garlic.' Max frames this key touch right here: "nozhikom" means "small knife" (from "nozhik"), giving the line its exact edge.
-- 'Now we take a mixing bowl.' Barinov gives this update at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'We place this garlic right inside it.' Max responds wryly before Barinov, grounding the moment in plain reality.
-- 'We take a second bowl.' Barinov highlights this sharp element in reply: "vtoruyu" means "second" (from "vtoroy"), giving the line its exact edge.
-- 'And we shake it hard.' Max phrases this statement without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'The garlic is completely peeled.' Barinov reacts openly beside Max, watching Max's face to see how the news lands.
-- 'Alright, there is no need to translate that part.' Max points to one classic touch in reply: "perevodit" means "to transfer", and it carries the main weight of what Max is saying.
-- 'Vitya, do not yell in here.' Max sends the comment on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'You are the one we should be asking about that.' Max cuts in at once on the spot, steering the talk right where he wants it.
-- 'There is no need to translate that part either.' Barinov emphasizes one concrete touch in reply: "perevodit" means "to transfer", and it carries the main weight of what Barinov is saying.
-- 'Wonderful snails.' Max shapes that thought toward Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'But first I am going to show all of you.' Max counters boldly without any doubt, shifting the mood of the conversation in a single beat.
+- 'And we start pressing down with the palm of the hand.' Barinov speaks evenly toward Max, without trying to dress up how he really feels.
+- 'With a knife we trim off the ends of the garlic.' Touching on a knife with Barinov, Max chooses "nozhikom" ("small knife", from the root "nozhik") so Barinov hears the exact meaning.
+- 'Now we take a mixing bowl.' Dwelling on a mixing bowl to Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'We place this garlic right inside it.' Max responds wryly facing Barinov, so Barinov knows he is not just making small talk.
+- 'We take a second bowl.' Touching on a second bowl in the exchange, Barinov chooses "vtoruyu" ("second", from the root "vtoroy") so Max hears the exact meaning.
+- 'And we shake it hard.' Pressing on boldly right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'The garlic is completely peeled.' Barinov responds openly facing Max, leaving no doubt about where he stands.
+- 'Alright, there is no need to translate that part.' Max steps in earnestly in the exchange and chooses "perevodit" ("to transfer") so Barinov gets the point right away.
+- 'Vitya, do not yell in here.' Looking over warmly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You are the one we should be asking about that.' Max answers at once with a sigh, leaving no doubt about where he stands.
+- 'There is no need to translate that part either.' Barinov speaks readily right here and leans on "perevodit" ("to transfer") to give the whole sentence its punch.
+- 'Wonderful snails.' Turning to the snail beside Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

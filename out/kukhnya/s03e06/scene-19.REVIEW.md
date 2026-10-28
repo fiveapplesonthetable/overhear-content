@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, I beg you very much.' Vika underscores this sharp expression toward Nagiyev: "proshu" means "beg, ask" (from "prosit"), giving the line its exact edge.
-- 'Please, just calm down right now.' Vika gives the remark briskly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I will give him a rough time!' Nagiyev chimes in lightly with a smile, making his position completely clear.
-- 'He will fly out of here like a cork.' Nagiyev chooses this key expression in reply: "probka" means "cork", and it carries the main weight of what Nagiyev is saying.
-- 'Please, do not do anything.' Vika sends the comment without fuss: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'After all, Maxim is not at fault for anything.' Vika continues bluntly as they talk, leaving no doubt about where she stands.
-- 'And who is at fault for this then?' Nagiyev leans on this telling expression with Vika: "vinovat" means "at fault, guilty" (from "vinovatyy"), giving the line its exact edge.
-- 'He and I broke up long ago.' Vika shapes that point at once: the "-sya" ending on "rasstalis" ("broke up, separated") turns the action inward or makes it happen between people naturally.
-- 'Believe me, all of that is already in the past.' Vika speaks up earnestly beside Nagiyev, letting the remark speak for itself.
-- 'I used to have many women.' Nagiyev emphasizes one vivid word in earnest: "zhenshchin" means "women" (from "zhenshchina"), giving the line its exact edge.
-- 'But I have never experienced such feelings before.' Nagiyev shares that point with candor: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I simply want very much to be with you.' Nagiyev weighs in briskly as they talk, saying out loud what both of them already know.
+- 'Dima, I beg you very much.' Vika cuts in frankly in the exchange and chooses "proshu" ("beg, ask", from the root "prosit") so Nagiyev hears the exact meaning.
+- 'Please, just calm down right now.' Vika calmly voices this courtesy word for Nagiyev using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'I will give him a rough time!' Nagiyev answers lightly toward Vika, so Vika knows he is not just making small talk.
+- 'He will fly out of here like a cork.' Addressing a cork around Vika, Nagiyev puts the emphasis on "probka" ("cork") in the middle of the talk.
+- 'Please, do not do anything.' Vika naturally gives this courtesy word to Nagiyev using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'After all, Maxim is not at fault for anything.' Vika chimes in bluntly with a smile, grounding the moment in plain reality.
+- 'And who is at fault for this then?' Nagiyev opens up smoothly in the exchange and brings in "vinovat" ("at fault, guilty", from "vinovatyy") as the key Russian word here.
+- 'He and I broke up long ago.' Pushing back plainly with Nagiyev, the "-sya" ending on "rasstalis" ("broke up, separated") marks an action that unfolds mutually or turns back on the speaker.
+- 'Believe me, all of that is already in the past.' Vika replies earnestly during the talk, before Nagiyev can change the subject.
+- 'I used to have many women.' Underscoring the women with Vika, Nagiyev leans on "zhenshchin" ("women", a form of "zhenshchina") to give the remark its edge.
+- 'But I have never experienced such feelings before.' Discussing the feelings before Vika, Nagiyev pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I simply want very much to be with you.' Nagiyev jumps in briskly on the spot, leaving no doubt about where he stands.

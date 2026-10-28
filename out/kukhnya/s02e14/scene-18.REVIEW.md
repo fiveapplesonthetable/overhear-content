@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes. Okay.' Barinov jumps in candidly before Sasha, steering the talk right where he wants it.
-- 'Then you have nothing to worry about.' Sasha chooses one memorable touch with Senya: "bespokoitsya" means "to worry", and it carries the main weight of what Sasha is saying.
-- 'What are you hinting at?' Senya aims that answer toward Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'What do you mean?' Barinov questions eagerly whether Senya really thought this through.
-- 'Why are you getting so worked up all of a sudden?' Sasha highlights one memorable element in reply: "razvolnovalsya" means "to get nervous" (from "razvolnovatsya"), giving the line its exact edge.
-- 'Everything is going great between you two, right?' Senya delivers the reply calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'I am not worked up at all.' Barinov fires back firmly with a nod, bringing things back to earth after the buildup.
-- 'Yes, Chef.' Sasha hands over that reply without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Shrimp and arugula salad.' Senya answers promptly toward Barinov, watching Barinov's face to see how the news lands.
-- 'Have you seen Sasha anywhere?' Barinov wonders point-blank what Senya is actually getting at here.
-- 'The day before yesterday, yesterday, and today.' Sasha highlights this telling expression toward Barinov: "pozavchera" means "the day before yesterday", and it carries the main weight of what Sasha is saying.
-- 'I saw Sasha.' Senya offers this answer without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'And I hope I will see her tomorrow too.' Barinov steps in promptly with a sigh, leaving no doubt about where he stands.
+- 'Yes. Okay.' Barinov briskly voices this direct affirmation in front of Sasha using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Then you have nothing to worry about.' Sasha pushes back boldly to Barinov and uses "bespokoitsya" ("to worry") to carry the main weight of the thought.
+- 'What are you hinting at?' Speaking boldly around Barinov, Senya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'What do you mean?' Barinov questions eagerly before Sasha can change the subject.
+- 'Why are you getting so worked up all of a sudden?' Sasha speaks up smoothly in front of Senya and reaches for the Russian word "razvolnovalsya" ("to get nervous", built from "razvolnovatsya") right at the center of the line.
+- 'Everything is going great between you two, right?' Stepping in smoothly on the spot, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am not worked up at all.' Barinov counters firmly with a smile, shifting the mood of the conversation in a single beat.
+- 'Yes, Chef.' Sasha firmly directs this direct affirmation toward Barinov using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Shrimp and arugula salad.' Emphasizing the shrimp to Sasha, Senya lands on "krevetkami" ("shrimp, prawn", built on "krevetka") to keep the statement grounded.
+- 'Have you seen Sasha anywhere?' Barinov wonders point-blank while looking straight at Sasha here.
+- 'The day before yesterday, yesterday, and today.' Sasha reacts frankly in this beat and reaches for the Russian word "pozavchera" ("the day before yesterday") right at the heart of the line.
+- 'I saw Sasha.' Following up warmly to Sasha, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'And I hope I will see her tomorrow too.' Barinov replies promptly in their talk, steering the talk right where he wants it.

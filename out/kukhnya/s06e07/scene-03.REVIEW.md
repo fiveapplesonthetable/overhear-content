@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She feels awful right now after that whole story.' Nastya jumps in warmly toward Kostya, grounding the moment in plain reality.
-- 'Katya definitely needs a reliable man's shoulder.' See how Nastya warns Kostya right here — the Russian word "nadyozhnoye" ("safe, secure", built from "nadyozhnyy") does the heavy lifting.
-- 'Maybe this is the right time for Denis to approach her?' Kostya brings this warning frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'What are you talking about, anyone but Denis!' Nastya continues earnestly as they talk, grounding the moment in plain reality.
-- 'Now Nikita is a completely different matter.' Nastya leans on this sharp detail for Kostya: "drugoye" means "another, other" (from "drugoy"), giving the line its exact edge.
-- 'There is no telling what to expect from him.' Kostya puts that answer for Nastya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Denis left her once and will leave her again.' Nastya weighs in promptly with a shrug, steering the talk right where she wants it.
-- 'No, Nikita suits her much better.' Nastya reaches for this telling expression in earnest: "podkhodit" means "is coming up", and it carries the main weight of what Nastya is saying.
-- 'Nastya, let us stay out of other people's lives.' Kostya shapes this warning in earnest: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'You and I are not matchmakers after all.' Kostya follows up candidly beside Nastya, steering the talk right where he wants it.
-- 'No, of course, we will not interfere.' Nastya grounds one concrete expression on cue: "vmeshivatsya" means "to interfere", and it carries the main weight of what Nastya is saying.
-- 'Let them figure everything out by themselves.' Kostya shares that point plainly here: the "-sya" ending on "razbirayutsya" ("understand") turns the action inward or makes it happen between people naturally.
+- 'She feels awful right now after that whole story.' Nastya replies warmly toward Kostya, leaving no doubt about where she stands.
+- 'Katya definitely needs a reliable man's shoulder.' Focusing on the shoulder at once, Nastya leans on "nadyozhnoye" ("safe, secure", a form of "nadyozhnyy") to give the remark its edge.
+- 'Maybe this is the right time for Denis to approach her?' Pointing to the right time in front of Nastya, Kostya keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'What are you talking about, anyone but Denis!' Nastya cuts in earnestly on the spot, grounding the moment in plain reality.
+- 'Now Nikita is a completely different matter.' Discussing the matter beside Kostya, Nastya reaches for the Russian word "drugoye" ("another, other", built from "drugoy") right at the center of the line.
+- 'There is no telling what to expect from him.' Cutting in naturally right here, Kostya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Denis left her once and will leave her again.' Nastya speaks up promptly in their talk, grounding the moment in plain reality.
+- 'No, Nikita suits her much better.' Nastya pushes back calmly in the exchange and puts the emphasis on "podkhodit" ("is coming up") in the middle of the talk.
+- 'Nastya, let us stay out of other people's lives.' Turning to the life to Nastya, Kostya starts with "davay" ("come on, let's") to invite Nastya right into the action.
+- 'You and I are not matchmakers after all.' Kostya answers candidly watching Nastya, shifting the mood of the conversation in a single beat.
+- 'No, of course, we will not interfere.' Nastya follows up naturally during the talk and reaches for the Russian word "vmeshivatsya" ("to interfere") right at the heart of the line.
+- 'Let them figure everything out by themselves.' Opening up frankly in front of Nastya, the "-sya" ending on "razbirayutsya" ("understand") marks an action that unfolds mutually or turns back on the speaker.

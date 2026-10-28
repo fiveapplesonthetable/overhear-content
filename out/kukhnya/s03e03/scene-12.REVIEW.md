@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The same way as flounder. You take it and scale it.' Fedya steps in at once as things stand, shifting the whole mood of the room in a single beat.
-- 'So young and beautiful! Don't you worry.' Louis chooses one colorful element in reply: "krasivaya" means "pretty, beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'You are not alone, you have me.' Louis lays out this statement to Fedya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'The same way as flounder. You take it and scale it.' Fedya counters at once without a pause, testing Louis's reaction in the middle of the exchange.
+- 'So young and beautiful! Don't you worry.' Louis fires back briskly on the spot and uses "krasivaya" ("pretty, beautiful", from "krasivyy") to make the point stick.
+- 'You are not alone, you have me.' Cutting in promptly beside Katya, Louis uses "u tebya" (literally "by you") where English says "you have" or "your".
 - 'Louis, what is going on?' Katya challenges promptly while looking straight at Louis here.
-- 'Everyone will find out that you are a lesbian. Chef told me this secret.' Louis picks one familiar touch right here: "lesbiyanka" means "lesbian", and it carries the main weight of what Louis is saying.
-- 'Why are you staring at me? That is all untrue, I am straight!' Katya puts that thought at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Louis purely through rising pitch at the end.
-- 'Of course, I am normal too.' Louis speaks up bluntly on the spot, without trying to dress up how he really feels.
-- 'Prove it! At least kiss me.' Fedya chooses one pointed word for Louis: "potseluy" means "kiss" (from "potselovat"), giving the line its exact edge.
-- 'Quiet! To make it fair, we have to draw lots.' Fedya shapes the reaction toward Katya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Lyova! Where did Lyova come from? He wasn't even in the kitchen.' Katya presses skeptically whether Louis really thought this through.
-- 'I tossed it in. Lyova needs a wife too.' Katya reaches for this telling element at once: "nuzhna" means "needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'Fine, Lyova it is. Where is the lucky guy?' Katya drops that remark facing Louis: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Louis is on board.
+- 'Everyone will find out that you are a lesbian. Chef told me this secret.' Pointing to a lesbian with Katya, Louis lands on "lesbiyanka" ("lesbian") as the key everyday word here.
+- 'Why are you staring at me? That is all untrue, I am straight!' Stressing how normal she is before Louis, Katya keeps normal statement word order here, turning the line into a question for Louis purely through rising pitch.
+- 'Of course, I am normal too.' Louis warmly sends this confirmation without hesitation using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Prove it! At least kiss me.' Fedya steps in frankly beside Louis and centers the thought on "potseluy" ("kiss", from "potselovat") without wasting a word.
+- 'Quiet! To make it fair, we have to draw lots.' Checking on the lot right here, Fedya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Lyova! Where did Lyova come from? He wasn't even in the kitchen.' Katya presses skeptically why things suddenly took this turn between them.
+- 'I tossed it in. Lyova needs a wife too.' Mentioning a wife in the exchange, Katya leans on "zhena" ("wife") to give the whole sentence its punch.
+- 'Fine, Lyova it is. Where is the lucky guy?' Talking about the lucky guy on the spot, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

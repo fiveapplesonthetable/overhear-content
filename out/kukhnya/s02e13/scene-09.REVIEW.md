@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank goodness it is only the first floor.' Nagiyev fires back frankly with a nod, so Max knows he is not just making small talk.
-- 'Hello, everyone.' Max directs that reply with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Well, basically, we solved your problem.' Nagiyev jumps in candidly across the room, without trying to dress up how he really feels.
-- 'Oh, well done.' Max continues dryly with a smile, shifting the whole mood of the room in a single beat.
-- 'Remember that journalist who was following you?' Nagiyev reaches for one clear piece for Max: "zhurnalista" means "journalist" (from "zhurnalist"), giving the line its exact edge.
-- 'You will never see him again.' Max highlights this clear element toward Nagiyev: "uvidite" means "will see" (from "uvidet"), giving the line its exact edge.
-- 'Thank you, guys.' Nagiyev answers promptly in their talk, refusing to let the moment slip past.
-- 'However, another problem has come up.' Max points to this direct expression at once: "problema" means "problem", and it carries the main weight of what Max is saying.
-- 'What on earth are you two doing?' Nagiyev sends the reaction plainly here: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Dmitry Vladimirovich, just please do not get so worked up.' Max opens up earnestly as things stand, shifting the whole mood of the room in a single beat.
-- 'Otherwise I start getting even more nervous.' Nagiyev favors this direct choice at once: "nervnichat" means "to get worked up", and it carries the main weight of what Nagiyev is saying.
-- 'What kind of fools are you?' Max shapes the reaction in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He is going to write about this in the papers later, huh?' Nagiyev presses plainly if there is more going on behind the scenes.
+- 'Thank goodness it is only the first floor.' Nagiyev proceeds frankly with a shrug, keeping the focus on what actually matters here.
+- 'Hello, everyone.' Holding firm candidly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Well, basically, we solved your problem.' Talking about the problem in the exchange, Nagiyev puts the weight on "obshchem" ("short, so", from "obshchiy") as the exchange unfolds.
+- 'Oh, well done.' Max reacts dryly without holding back, keeping the focus on what actually matters here.
+- 'Remember that journalist who was following you?' Touching on the journalist in this beat, Nagiyev lands on "zhurnalista" ("journalist", built on "zhurnalist") to keep the statement grounded.
+- 'You will never see him again.' Max continues honestly beside Nagiyev, to clear the air between them once and for all.
+- 'Thank you, guys.' Nagiyev gently gives this word of thanks while facing Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'However, another problem has come up.' Pointing to the problem right here, Max reaches for the Russian word "problema" ("problem") right at the heart of the line.
+- 'What on earth are you two doing?' Reacting directly right here, Nagiyev puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Dmitry Vladimirovich, just please do not get so worked up.' Max cuts in earnestly with a smile, leaving no doubt about where he stands.
+- 'Otherwise I start getting even more nervous.' Nagiyev counters pointedly during the talk and chooses "nervnichat" ("to get worked up") so Max gets the point right away.
+- 'What kind of fools are you?' Turning to the fool before Nagiyev, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He is going to write about this in the papers later, huh?' Nagiyev presses plainly what Max is actually getting at here.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, yes.' Elena delivers this line with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'That sounds just like him.' Max gives the comment frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'There. Good.' Elena speaks candidly with a sigh, without trying to dress up how she really feels.
-- 'Can I count on you?' Max favors one clear detail toward Elena: "rasschityvat" means "to count on", and it carries the main weight of what Max is saying.
-- 'Well, Elena Pavlovna, you will owe me one.' Max holds firm sharply around Elena, so Elena knows he is not just making small talk.
-- 'I will owe you one.' Max stands firm wryly beside Elena, testing Elena's reaction in the middle of the exchange.
-- 'Vitya, are you a fool or what?' Elena leans on one familiar detail at once: "durak" means "fool, idiot", and it carries the main weight of what Elena is saying.
-- 'Oh, come on.' Max delivers the thought calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Elena is on board.
-- 'Oh, can you imagine, I forgot my phone.' Elena holds firm right away facing Max, so Max knows she is not just making small talk.
-- 'Ah, I was just about to head out.' Max highlights one direct element on cue: "bezhat" means "to run, flee", and it carries the main weight of what Max is saying.
-- 'Goodbye.' Elena aims this point with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Are you still alive under there?' Max questions firmly if there is more going on behind the scenes.
-- 'You bet I am.' Elena centers this key element with Max: "slovo" means "word", and it carries the main weight of what Elena is saying.
+- 'Well, yes.' Leaning in dryly to Max, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'That sounds just like him.' Looking over smoothly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'There. Good.' Elena weighs in candidly on the spot, before Max can change the subject.
+- 'Can I count on you?' Max continues naturally in the exchange and uses "rasschityvat" ("to count on") to carry the main weight of the thought.
+- 'Well, Elena Pavlovna, you will owe me one.' Max steps in boldly in the exchange and reaches for the Russian word "dolzhny" ("must, should", built from "dolzhen") right at the center of the line.
+- 'I will owe you one.' Max jumps in wryly with a smile, making his position completely clear.
+- 'Vitya, are you a fool or what?' Addressing a fool on the spot, Elena centers the remark on "durak" ("fool, idiot") without any extra fuss.
+- 'Oh, come on.' Max casually extends this word of agreement without hesitation using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Oh, can you imagine, I forgot my phone.' Elena responds right away with a shrug, shifting the mood of the conversation in a single beat.
+- 'Ah, I was just about to head out.' Max answers naturally on the spot and chooses "bezhat" ("to run, flee") so Elena gets the point right away.
+- 'Goodbye.' Elena politely shares this polite farewell beside Max using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.
+- 'Are you still alive under there?' Max questions firmly how Elena expects that to work in practice.
+- 'You bet I am.' Highlighting the word with Max, Elena chooses "slovo" ("word") so Max gets the point right away.

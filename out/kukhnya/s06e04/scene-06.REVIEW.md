@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Denis, may I have a word with you for a minute?' Nikita probes curiously what Denis is actually getting at here.
-- 'You are at work, so take your workstation.' Nikita grounds one clear piece at once: "rabocheye" means "work" (from "rabochiy"), giving the line its exact edge.
-- 'My boss is Mikhail Dzhekovich.' Denis gives the reaction right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So take your hand off me, please.' Denis responds at once toward Nikita, leaving no doubt about where he stands.
-- 'Yes, but it is not worth ruining relations with me either.' Nikita grounds this key choice in reply: "otnosheniya" means "relations, relationship" (from "otnosheniye"), giving the line its exact edge.
-- 'Do you want to take the manager's place?' Denis frames the remark for Nikita: Russian keeps the exact word order of a normal statement here, turning it into a question for Nikita purely through rising pitch at the end.
-- 'Well and why not?' Nikita checks straight out whether Denis really thought this through.
-- 'Dzhekovich is already old, he is losing his grip.' Nikita uses one direct element in reply: "khvatku" means "grip" (from "khvatka"), giving the line its exact edge.
-- 'First of all, not old, but experienced.' Mikhail steps in wryly toward Denis, making his position completely clear.
-- 'And secondly, sometimes you need to loosen your grip.' Mikhail continues plainly watching Nikita, shifting the whole mood of the room in a single beat.
-- 'Sorry to interrupt your conversation, have a good day.' Mikhail uses one practical piece in earnest: "khoroshego" means "good, the best" (from "khoroshiy"), giving the line its exact edge.
-- 'Did you set me up on purpose?' Nikita makes the reply right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'You are at work, so take your workstation.' Showing how work Denis is in this beat, Nikita uses "rabocheye" ("work", from "rabochiy") to make the point stick.
+- 'My boss is Mikhail Dzhekovich.' Bringing up his boss during the talk, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So take your hand off me, please.' Denis simply directs this courtesy word without hesitation using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Yes, but it is not worth ruining relations with me either.' Talking about the relations with Denis, Nikita leans on "otnosheniya" ("relations, relationship", a form of "otnosheniye") to give the remark its edge.
+- 'Do you want to take the manager's place?' Weighing in naturally around Nikita, Denis keeps normal statement word order here, turning the line into a question for Nikita purely through rising pitch.
+- 'Well and why not?' Nikita checks straight out about what Denis just brought up.
+- 'Dzhekovich is already old, he is losing his grip.' Touching on the grip around Mikhail, Nikita reaches for the Russian word "khvatku" ("grip", built from "khvatka") right at the center of the line.
+- 'First of all, not old, but experienced.' Mikhail fires back pointedly in front of Nikita and lands on "vo-pervykh" ("first of all") as the key everyday word here.
+- 'And secondly, sometimes you need to loosen your grip.' Mikhail answers plainly toward Nikita, watching Nikita's face to see how the news lands.
+- 'Sorry to interrupt your conversation, have a good day.' Touching on the conversation during the talk, Mikhail centers the thought on "khoroshego" ("good, the best", from "khoroshiy") without wasting a word.
+- 'Did you set me up on purpose?' Leaning in firmly with Mikhail, Nikita keeps normal statement word order here, turning the line into a question for Mikhail purely through rising pitch.

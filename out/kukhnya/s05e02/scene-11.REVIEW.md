@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon! We are glad to welcome you to our hotel.' Mikhail sharpens one practical piece for Barinov: "privetstvovat" means "to greet, to welcome", and it carries the main weight of what Mikhail is saying.
-- 'My name is Mikhail. How can I help you?' Mikhail checks promptly before Vika can change the subject.
-- 'My room is still not ready.' Barinov emphasizes one memorable choice right here: "nomer" means "number", and it carries the main weight of what Barinov is saying.
-- 'Please accept our deepest apologies.' Mikhail puts the comeback without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I can offer you a luxury suite.' Mikhail holds firm promptly beside Barinov, making his position completely clear.
-- 'Allow me to escort you there.' Mikhail points to one direct detail in reply: "pozvolte" means "allow me" (from "pozvolit"), giving the line its exact edge.
-- 'Is that really the secret guest?' Vika phrases the comment right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'No, he is just an ordinary guest.' Vika proceeds openly as they talk, so Mikhail knows she is not just making small talk.
-- 'Otherwise there was no way to reconcile those two.' Vika picks one familiar touch at once: "primirit" means "to reconcile", and it carries the main weight of what Vika is saying.
-- 'Room service straight to the room.' Barinov makes this answer frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'This is a special service from the chef.' Barinov pushes back earnestly with a sigh, making his position completely clear.
-- 'You simply have golden hands.' Mikhail features this vivid element in reply: "zolotyye" means "golden" (from "zolotoy"), giving the line its exact edge.
-- 'No, thank you, I am at work.' Barinov offers that point at once: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Good afternoon! We are glad to welcome you to our hotel.' Mikhail speaks frankly without holding back, to clear the air between them once and for all.
+- 'My name is Mikhail. How can I help you?' Mikhail checks promptly where this conversation is heading next.
+- 'My room is still not ready.' Highlighting the number to Mikhail, Barinov centers the remark on "nomer" ("number") without any extra fuss.
+- 'Please accept our deepest apologies.' Turning to the apologies right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I can offer you a luxury suite.' Mikhail answers promptly without holding back, so Barinov knows he is not just making small talk.
+- 'Allow me to escort you there.' Mikhail replies promptly on the spot and chooses "pozvolte" ("allow me", from the root "pozvolit") so Vika hears the exact meaning.
+- 'Is that really the secret guest?' Making clear how secret things are on the spot, Vika keeps normal statement word order here, turning the line into a question for Mikhail purely through rising pitch.
+- 'No, he is just an ordinary guest.' Vika fires back openly with Mikhail, so Mikhail knows she is not just making small talk.
+- 'Otherwise there was no way to reconcile those two.' Vika speaks up readily with Barinov and centers the remark on "primirit" ("to reconcile") without any extra fuss.
+- 'Room service straight to the room.' Focusing on the service at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'This is a special service from the chef.' Barinov chimes in earnestly facing Mikhail, watching Mikhail's face to see how the news lands.
+- 'You simply have golden hands.' Highlighting the hands right here, Mikhail chooses "zolotyye" ("golden", from the root "zolotoy") so Barinov hears the exact meaning.
+- 'No, thank you, I am at work.' Mentioning the thank at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.

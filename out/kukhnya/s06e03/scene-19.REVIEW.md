@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'After the shot you pan the camera to me.' Nagiyev spotlights this sharp piece in reply: "vystrela" means "shot" (from "vystrel"), giving the line its exact edge.
-- 'Excellent, alright, focus everyone, stunt!' Nagiyev phrases that thought around Katya: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
-- 'Camera, rolling, scene nine, take six, action!' Nagiyev jumps in candidly without any doubt, testing Eleonora's reaction in the middle of the exchange.
-- 'Now you are going to meet your brother!' Katya features one colorful piece in earnest: "vstretishsya" means "will meet" (from "vstretitsya"), giving the line its exact edge.
-- 'What is going on here?' Eleonora brings that point to Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You said that you only needed to film one scene at a table!' Eleonora steps in dryly with Nagiyev, grounding the moment in plain reality.
-- 'And you staged a whole war in here!' Eleonora stresses one classic detail at once: "tseluyu" means "kisses" (from "tselovat"), giving the line its exact edge.
-- 'I think I swallowed the bullet.' Nagiyev offers that answer toward Katya: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
-- 'Katya, forgive us.' Eleonora opens up wryly toward Katya, watching Katya's face to see how the news lands.
-- 'Katya, do you want me to call my doctor?' Nagiyev sharpens this vivid element on cue: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'Enough, you two bring nothing but trouble.' Eleonora points to one classic element in earnest: "problemy" means "problems" (from "problema"), giving the line its exact edge.
-- 'Do me a favor, neither of you ever come near me again.' Eleonora responds bluntly as they talk, watching Nagiyev's face to see how the news lands.
+- 'After the shot you pan the camera to me.' Addressing the shot beside Katya, Nagiyev brings in "vystrela" ("shot", from "vystrel") as the key Russian word here.
+- 'Excellent, alright, focus everyone, stunt!' Addressing the stunt in front of Katya, Nagiyev leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".
+- 'Camera, rolling, scene nine, take six, action!' Nagiyev steps in candidly on the spot, so Katya knows he is not just making small talk.
+- 'Now you are going to meet your brother!' Turning to the brother on the spot, Katya chooses "vstretishsya" ("will meet", from the root "vstretitsya") so Nagiyev hears the exact meaning.
+- 'What is going on here?' Stepping in naturally in the exchange, Eleonora links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You said that you only needed to film one scene at a table!' Eleonora replies dryly with Katya, refusing to let the moment slip past.
+- 'And you staged a whole war in here!' Mentioning a whole war in this beat, Eleonora brings in "voynu" ("the war", from "voyna") as the key Russian word here.
+- 'I think I swallowed the bullet.' Touching on the bullet at once, the "-sya" ending on "kazhetsya" ("it seems, I think") marks an action that unfolds mutually or turns back on the speaker.
+- 'Katya, forgive us.' Eleonora simply gives this informal apology at the start of the beat using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'Katya, do you want me to call my doctor?' Turning to his doctor during the talk, Nagiyev reaches for the Russian word "vrachu" ("the doctor", built from "vrach") right at the center of the line.
+- 'Enough, you two bring nothing but trouble.' Eleonora speaks up decisively beside Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'Do me a favor, neither of you ever come near me again.' Eleonora cuts in bluntly without a pause, testing Nagiyev's reaction in the middle of the exchange.

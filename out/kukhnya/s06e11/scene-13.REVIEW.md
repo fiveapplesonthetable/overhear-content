@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your father yelled at Katya and forbade her to date you.' Nastya chooses this direct element in earnest: "vstrechatsya" means "to meet", and it carries the main weight of what Nastya is saying.
-- 'Katya asked me to stay quiet, but I cannot.' Nastya stands firm bluntly before Nikita, before Nikita can change the subject.
-- 'Nikita, do not dare raise your voice at me!' Barinov responds at once across the room, so Nastya knows he is not just making small talk.
-- 'Listen to me carefully, and you will have everything.' Barinov features one concrete term in earnest: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Barinov is saying.
-- 'You will have big money and high status.' Barinov makes that answer frankly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Listen, dad, why don't you take all your money.' Nikita proceeds pointedly to be clear, refusing to let the moment slip past.
-- 'And leave so that I never see you again!' Nikita underscores one concrete element toward Barinov: "uydyosh" means "you'll leave" (from "uyti"), giving the line its exact edge.
-- 'Because I love Katya and will be with her!' Nikita speaks up earnestly in this moment, saying out loud what both of them already know.
-- 'Lena, I just want to play a little prank on my brother.' Barinov chimes in quietly without holding back, before Nastya can change the subject.
-- 'Do not worry, everything will be fine with this money.' Barinov leans on one memorable term right here: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'Just do not lose someone else's envelope with big money.' Nastya weighs in plainly during the talk, to clear the air between them once and for all.
-- 'I will hide the envelope and return it soon.' Barinov reacts steadily around Nikita, testing Nikita's reaction in the middle of the exchange.
+- 'Your father yelled at Katya and forbade her to date you.' Addressing the father before Barinov, Nastya chooses "vstrechatsya" ("to meet") so Barinov gets the point right away.
+- 'Katya asked me to stay quiet, but I cannot.' Nastya cuts in smoothly with Barinov and lands on "prosila" ("asked", built on "prosit") to keep the statement grounded.
+- 'Nikita, do not dare raise your voice at me!' Barinov pushes back at once hearing Nikita, so Nikita knows he is not just making small talk.
+- 'Listen to me carefully, and you will have everything.' Barinov pushes back pointedly before Nastya and uses "vnimatelno" ("carefully, attentively") to carry the main weight of the thought.
+- 'You will have big money and high status.' Focusing on the position right here, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Listen, dad, why don't you take all your money.' Nikita speaks pointedly without holding back, letting the remark speak for itself.
+- 'And leave so that I never see you again!' Nikita answers candidly right here and leans on "uydyosh" ("you'll leave", a form of "uyti") to give the remark its edge.
+- 'Because I love Katya and will be with her!' Nikita responds dryly during the talk and puts the weight on "lyublyu" ("love", from "lyubit") as the exchange unfolds.
+- 'Lena, I just want to play a little prank on my brother.' Barinov reacts quietly with a sigh, steering the talk right where he wants it.
+- 'Do not worry, everything will be fine with this money.' Barinov steps in briskly in this beat and puts the weight on "dengami" ("the money, funding", from "dengi") as the exchange unfolds.
+- 'Just do not lose someone else's envelope with big money.' Mentioning the envelope at once, Nastya brings in "bolshimi" ("big, large", from "bolshoy") as the key Russian word here.
+- 'I will hide the envelope and return it soon.' Barinov pushes back steadily without any doubt, without trying to dress up how he really feels.

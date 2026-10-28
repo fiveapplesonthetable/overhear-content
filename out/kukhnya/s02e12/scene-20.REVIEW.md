@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Aleksandr Sergeyevich, the guests are calling for you.' Barinov points to one loaded piece at once: "gosti" means "visitors, guests" (from "gost"), giving the line its exact edge.
-- 'They want to get your autograph.' Lyova holds firm pointedly without a pause, making his position completely clear.
-- 'Oh, super.' Barinov sharpens one loaded term for Lyova: "super" means "super, great", and it carries the main weight of what Barinov is saying.
-- 'How are things going in your new position?' Lyova hands over the comment before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am managing. Well, well.' Barinov speaks up honestly without any doubt, watching Lyova's face to see how the news lands.
-- 'I ought to demote you to janitor tomorrow.' Lyova highlights one colorful term right here: "dvorniki" means "janitor" (from "dvornik"), giving the line its exact edge.
-- 'I would like to ask you for an autograph.' Barinov reaches for this sharp piece toward Lyova: "avtograf" means "autograph", and it carries the main weight of what Barinov is saying.
-- 'Good evening.' Lyova fires back boldly hearing Barinov, saying out loud what both of them already know.
-- 'Do you have a pen on you?' Barinov anchors this direct term with Lyova: "ruchka" means "handle", and it carries the main weight of what Barinov is saying.
-- 'Yes, of course.' Lyova states the remark facing Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Right here, please.' Barinov follows up plainly facing Lyova, saying out loud what both of them already know.
-- 'Could you write at the top who it is for?' Lyova centers one practical expression at once: "mozhesh" means "can" (from "moch"), giving the line its exact edge.
-- 'It is time to pay your debt to the Motherland.' Barinov brings the reply briskly now: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".
+- 'Aleksandr Sergeyevich, the guests are calling for you.' Barinov steps in sharply with a shrug, letting the remark speak for itself.
+- 'They want to get your autograph.' Lyova follows up pointedly without any doubt, shifting the mood of the conversation in a single beat.
+- 'Oh, super.' Barinov speaks up pointedly to Lyova and reaches for the Russian word "super" ("super, great") right at the heart of the line.
+- 'How are things going in your new position?' Mentioning the post in front of Barinov, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am managing. Well, well.' Barinov proceeds honestly across the room, without trying to dress up how he really feels.
+- 'I ought to demote you to janitor tomorrow.' Bringing up the janitor with Barinov, Lyova lands on "dvorniki" ("janitor", built on "dvornik") to keep the statement grounded.
+- 'I would like to ask you for an autograph.' Barinov reacts bluntly without holding back, keeping the focus on what actually matters here.
+- 'Good evening.' Lyova directly chooses this evening greeting right on cue using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'Do you have a pen on you?' Emphasizing the handle during the talk, Barinov centers the remark on "ruchka" ("handle") without any extra fuss.
+- 'Yes, of course.' Lyova calmly gives this confirmation with Barinov using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Right here, please.' Barinov casually chooses this courtesy word right on cue using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Could you write at the top who it is for?' Lyova replies vividly right here and puts the emphasis on "dopisat" ("to finish writing") in the middle of the talk.
+- 'It is time to pay your debt to the Motherland.' Pointing to the motherland during the talk, Barinov leans on "pora" ("it is time to"), which carries the whole predicate in Russian without needing "it is".

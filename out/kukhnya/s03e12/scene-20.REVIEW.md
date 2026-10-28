@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, tell me honestly, are you happy?' Max shares that answer for Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Let us not talk about this, Max.' Vika counters honestly beside Max, making her position completely clear.
-- 'Yes, because nobody hurts me.' Vika frames one memorable term at once: "delayet" means "does" (from "delat"), giving the line its exact edge.
-- 'And what did you want to hear from me?' Vika offers that point calmly now: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'That I feel bad and I am still in love with you?' Vika probes briskly where this conversation is heading next.
-- 'All of that is already in the past, Max.' Vika stresses this direct choice with Max: "proshlom" means "last, past" (from "proshlyy"), giving the line its exact edge.
-- 'This madness must end right now.' Vika puts the comment without pause: the "-sya" ending on "zakonchitsya" ("to end, to be over") turns the action inward or makes it happen between people naturally.
-- 'Let it end in twenty minutes.' Max counters quietly watching Vika, saying out loud what both of them already know.
-- 'You see, you do not change at all.' Vika favors one memorable detail for Kostya: "menyayeshsya" means "you change" (from "menyatsya"), giving the line its exact edge.
-- 'The long-awaited victory somehow brings no joy.' Max replies briskly toward Vika, making his position completely clear.
-- 'Hello, friends, happy housewarming to you!' Kostya weighs in briskly beside Max, watching Max's face to see how the news lands.
-- 'Around the corner something extraordinary awaits us.' Max underscores one pointed expression for Vika: "neobyknovennoye" means "extraordinary" (from "neobyknovennyy"), giving the line its exact edge.
+- 'Vika, tell me honestly, are you happy?' Highlighting how happy things are to Vika, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Let us not talk about this, Max.' Vika speaks up honestly beside Max, without trying to dress up how she really feels.
+- 'Yes, because nobody hurts me.' Vika counters openly at once and leans on "potomu" ("because") to give the whole sentence its punch.
+- 'And what did you want to hear from me?' Jumping in dryly right here, Vika puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'That I feel bad and I am still in love with you?' Vika probes briskly about what Max just brought up.
+- 'All of that is already in the past, Max.' Emphasizing how last things are during the talk, Vika lands on "proshlom" ("last, past", built on "proshlyy") to keep the statement grounded.
+- 'This madness must end right now.' Checking on the madness during the talk, the "-sya" ending on "zakonchitsya" ("to end, to be over") marks an action that unfolds mutually or turns back on the speaker.
+- 'Let it end in twenty minutes.' Max jumps in quietly without any doubt, bringing things back to earth after the buildup.
+- 'You see, you do not change at all.' Vika speaks candidly to Max and reaches for the Russian word "menyayeshsya" ("you change", built from "menyatsya") right at the center of the line.
+- 'The long-awaited victory somehow brings no joy.' Touching on the victory in this beat, Max reaches for the Russian word "dolgozhdannaya" ("long-awaited", built from "dolgozhdannyy") right at the center of the line.
+- 'Hello, friends, happy housewarming to you!' Kostya openly directs this casual greeting right on cue using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Around the corner something extraordinary awaits us.' Emphasizing the turn in this beat, Max uses "neobyknovennoye" ("extraordinary", from "neobyknovennyy") to make the point stick.

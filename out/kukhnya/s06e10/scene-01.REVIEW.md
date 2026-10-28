@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, why are you smiling so cheerfully?' Eleonora colors one clear detail on cue: "ulybayeshsya" means "are smiling" (from "ulybatsya"), giving the line its exact edge.
-- 'And why are you not smiling at all?' Eleonora lays out this line calmly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'You are both fired as of this minute!' Eleonora stands firm earnestly before Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Viktor, she fired seven maids in three days.' Mikhail features one familiar element at once: "gornichnykh" means "maids" (from "gornichnaya"), giving the line its exact edge.
-- 'And what do you want from me right now?' Barinov lays out that line around Eleonora: Russian keeps the exact word order of a normal statement here, turning it into a question for Eleonora purely through rising pitch at the end.
-- 'Talk to her, because our business is suffering.' Mikhail follows up candidly watching Eleonora, to clear the air between them once and for all.
-- 'Misha, I have no time to babysit her today.' Barinov highlights one classic term in reply: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
-- 'I have a wedding for fifty people today.' Barinov makes that remark with warmth: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'It is fine, she will cry a little and calm down soon.' Barinov continues pointedly beside Eleonora, before Eleonora can change the subject.
-- 'Misha, find a television where they do not show Nagiyev!' Eleonora highlights one concrete term for Mikhail: "televizor" means "television", and it carries the main weight of what Eleonora is saying.
-- 'Misha, urgently call her personal doctor.' Barinov reacts boldly with a sigh, before Eleonora can change the subject.
-- 'Exactly, before the guests call the police to the hotel.' Mikhail chimes in boldly as things stand, leaving no doubt about where he stands.
-- 'Otherwise she will tear the whole hotel apart today!' Barinov emphasizes one telling detail on cue: "raznesyot" means "will tear apart" (from "raznesti"), giving the line its exact edge.
+- 'Tell me, why are you smiling so cheerfully?' Eleonora opens up promptly in this beat and chooses "ulybayeshsya" ("are smiling", from the root "ulybatsya") so Mikhail hears the exact meaning.
+- 'And why are you not smiling at all?' Following up evenly to Mikhail, Eleonora adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'You are both fired as of this minute!' Eleonora steps in earnestly facing Mikhail, bringing things back to earth after the buildup.
+- 'Viktor, she fired seven maids in three days.' Highlighting the maids with Barinov, Mikhail brings in "gornichnykh" ("maids", from "gornichnaya") as the key Russian word here.
+- 'And what do you want from me right now?' Turning frankly before Mikhail, Barinov keeps normal statement word order here, turning the line into a question for Mikhail purely through rising pitch.
+- 'Talk to her, because our business is suffering.' Mikhail cuts in candidly watching Barinov, before Barinov can change the subject.
+- 'Misha, I have no time to babysit her today.' Barinov fires back openly in the exchange and leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'I have a wedding for fifty people today.' Barinov reacts promptly on the spot, testing Mikhail's reaction in the middle of the exchange.
+- 'It is fine, she will cry a little and calm down soon.' Barinov continues pointedly around Eleonora, watching Eleonora's face to see how the news lands.
+- 'Misha, find a television where they do not show Nagiyev!' Bringing up a television right here, Eleonora chooses "televizor" ("television") so Barinov gets the point right away.
+- 'Misha, urgently call her personal doctor.' Emphasizing the doctor at once, Barinov brings in "lichnogo" ("personal", from "lichnyy") as the key Russian word here.
+- 'Exactly, before the guests call the police to the hotel.' Mikhail opens up boldly during the talk, making his position completely clear.
+- 'Otherwise she will tear the whole hotel apart today!' Underscoring the whole hotel to Mikhail, Barinov leans on "raznesyot" ("will tear apart", a form of "raznesti") to give the remark its edge.

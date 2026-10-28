@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, my dear friends!' Nagiyev favors one clear term on cue: "dorogiye" means "dear" (from "dorogoy"), giving the line its exact edge.
-- 'I am Dmitry Nagiyev, this is the show 'Head Chef'.' Nagiyev brings this statement plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Only one will become the head chef of our restaurant.' Nagiyev holds firm steadily without any doubt, steering the talk right where he wants it.
-- 'Our celebrity jury will choose the winner.' Nagiyev highlights this telling term at once: "pobeditelya" means "winner" (from "pobeditel"), giving the line its exact edge.
-- 'And your humble servant, the best host.' Nagiyev grounds one vivid piece right here: "vedushchiy" means "host", and it carries the main weight of what Nagiyev is saying.
-- 'Stop, we have a problem with the sound!' Barinov responds briskly during the talk, saying out loud what both of them already know.
-- 'Guys, let's reshoot everything from the beginning right now.' Barinov chooses this key expression at once: "peresnimem" means "to everything" (from "peresnimt"), giving the line its exact edge.
-- 'Did they not teach you how to behave during filming?' Nagiyev voices that remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'You must always turn off your phone!' Nagiyev fires back boldly in this moment, grounding the moment in plain reality.
-- 'Excuse me, I just forgot to turn it off.' Barinov picks one direct detail in reply: "otklyuchit" means "to turn off", and it carries the main weight of what Barinov is saying.
-- 'And did you not forget your head at home?' Nagiyev phrases this point for Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'All right, Dima, I already apologized, after all.' Barinov steps in dryly toward Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'Good evening, my dear friends!' Nagiyev briskly drops this evening greeting for Barinov using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'I am Dmitry Nagiyev, this is the show 'Head Chef'.' Talking about the head during the talk, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Only one will become the head chef of our restaurant.' Nagiyev follows up steadily beside Barinov, refusing to let the moment slip past.
+- 'Our celebrity jury will choose the winner.' Mentioning the winner in this beat, Nagiyev brings in "pobeditelya" ("winner", from "pobeditel") as the key Russian word here.
+- 'And your humble servant, the best host.' Nagiyev replies lightly with a smile, without trying to dress up how he really feels.
+- 'Stop, we have a problem with the sound!' Barinov responds briskly watching Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'Guys, let's reshoot everything from the beginning right now.' Discussing the boys around Nagiyev, Barinov centers the remark on "rebyata" ("the boys, the lads") without any extra fuss.
+- 'Did they not teach you how to behave during filming?' Looking over promptly beside Barinov, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'You must always turn off your phone!' Nagiyev counters boldly around Barinov, making his position completely clear.
+- 'Excuse me, I just forgot to turn it off.' Barinov briskly shares this polite apology beside Nagiyev using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'And did you not forget your head at home?' Answering firmly on the spot, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'All right, Dima, I already apologized, after all.' Barinov replies dryly with a nod, to clear the air between them once and for all.

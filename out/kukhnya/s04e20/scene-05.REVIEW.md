@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Put the knife away, I came to see you.' Barinov favors this direct choice on cue: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
-- 'Vitya, we came to make peace with you.' Nagiyev holds firm plainly as they talk, leaving no doubt about where he stands.
-- 'Thank you, but I am not drinking today.' Barinov stresses one vivid element on cue: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
-- 'That is a very funny story, Vitya.' Nagiyev offers that answer frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I have already heard those words somewhere.' Nagiyev proceeds warmly without holding back, saying out loud what both of them already know.
-- 'You talked like that when you were applying for the job.' Nagiyev sharpens one classic piece right here: "ustraivalsya" means "to job" (from "ustraivatsya"), giving the line its exact edge.
-- 'Dima, I am not going to drink with you.' Barinov weighs in firmly on the spot, leaving no doubt about where he stands.
-- 'What must I do so that you understand this?' Barinov quizzes bluntly to see how Nagiyev will answer on the spot.
-- 'You just need to have a drink with me!' Nagiyev features one direct touch at once: "nuzhno" means "necessary", and it carries the main weight of what Nagiyev is saying.
-- 'Do you think it was easy for me to come here?' Nagiyev offers this warning facing Barinov: the single Russian word "legko" ("it is easy") sets up the whole statement without needing a separate word for "it is".
-- 'Well then, let's drink to peace?' Nagiyev questions frankly in front of Barinov without any preamble.
-- 'All right, I get it, you will not drink.' Nagiyev features one sharp choice in earnest: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'Put the knife away, I came to see you.' Barinov opens up pointedly with a shrug, steering the talk right where he wants it.
+- 'Vitya, we came to make peace with you.' Nagiyev answers plainly with a sigh, letting the remark speak for itself.
+- 'Thank you, but I am not drinking today.' Bringing up the thank on the spot, Barinov puts the emphasis on "spasibo" ("thank you") in the middle of the talk.
+- 'That is a very funny story, Vitya.' Stressing how funny things are at once, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I have already heard those words somewhere.' Nagiyev jumps in warmly hearing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'You talked like that when you were applying for the job.' Highlighting the job beside Barinov, Nagiyev puts the weight on "ustraivalsya" ("to job", from "ustraivatsya") as the exchange unfolds.
+- 'Dima, I am not going to drink with you.' Barinov speaks firmly during the talk, refusing to let the moment slip past.
+- 'What must I do so that you understand this?' Barinov quizzes bluntly how Nagiyev expects that to work in practice.
+- 'You just need to have a drink with me!' Nagiyev fires back firmly around Barinov and lands on "nuzhno" ("necessary") as the key everyday word here.
+- 'Do you think it was easy for me to come here?' Pressing on dryly beside Barinov, Nagiyev leans on "legko" ("easy"), which carries the whole predicate in Russian without needing "it is".
+- 'Well then, let's drink to peace?' Nagiyev questions frankly while looking straight at Barinov here.
+- 'All right, I get it, you will not drink.' Nagiyev reacts plainly to Barinov and centers the thought on "ponyal" ("understood", from "ponyat") without wasting a word.

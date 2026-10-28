@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh sure, that is a very valid reason.' Barinov voices that reply facing Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Lena, I do not want to depend on anyone.' Max weighs in briskly across the room, testing Elena's reaction in the middle of the exchange.
-- 'Especially not on a woman.' Elena centers one loaded element on cue: "zhenshchin" means "women" (from "zhenshchina"), giving the line its exact edge.
-- 'Women have always moved in with me.' Barinov makes this answer right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I told you I fixed it.' Max replies promptly in this moment, without trying to dress up how he really feels.
-- 'Hold on, I will get the door.' Elena highlights one colorful expression on cue: "seychas" means "now", and it carries the main weight of what Elena is saying.
-- 'Chef, is this a convenient time for you to talk?' Max brings that remark without fuss: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'He is not going to forgive you anyway.' Max chimes in dryly as they talk, saying out loud what both of them already know.
-- 'Oh, remember that time you had a huge fight with Vika?' Elena frames one familiar detail with Barinov: "porugalsya" means "to quarrel" (from "porugatsya"), giving the line its exact edge.
-- 'Nah, that is not an option.' Barinov frames that remark with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Good morning to you.' Max speaks up lightly toward Barinov, bringing things back to earth after the buildup.
-- 'Here is your menu.' Elena sharpens this direct touch for Max: "menyu" means "menu", and it carries the main weight of what Elena is saying.
-- 'No way, is that really you?' Barinov aims that reply beside Elena: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
+- 'Oh sure, that is a very valid reason.' Emphasizing how valid things are before Max, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Lena, I do not want to depend on anyone.' Max speaks briskly with a shrug, bringing things back to earth after the buildup.
+- 'Especially not on a woman.' Underscoring the women to Max, Elena reaches for the Russian word "zhenshchin" ("women", built from "zhenshchina") right at the center of the line.
+- 'Women have always moved in with me.' Pushing back naturally in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I told you I fixed it.' Max steps in promptly with a smile, leaving no doubt about where he stands.
+- 'Hold on, I will get the door.' Elena opens up dryly with Max and lands on "otkroyu" ("to open", built on "otkryt") to keep the statement grounded.
+- 'Chef, is this a convenient time for you to talk?' Looking over evenly before Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'He is not going to forgive you anyway.' Max reacts dryly hearing Elena, shifting the mood of the conversation in a single beat.
+- 'Oh, remember that time you had a huge fight with Vika?' Elena opens up dryly on the spot and brings in "porugalsya" ("to quarrel", from "porugatsya") as the key Russian word here.
+- 'Nah, that is not an option.' Focusing on an option in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Good morning to you.' Max firmly extends this morning greeting in the exchange using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'Here is your menu.' Highlighting the menu right here, Elena reaches for the Russian word "menyu" ("menu") right at the heart of the line.
+- 'No way, is that really you?' Holding firm openly in the exchange, Barinov keeps normal statement word order here, turning the line into a question for Elena purely through rising pitch.

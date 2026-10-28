@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will deduct it from your pension.' Senya chooses one pointed expression right here: "vychtu" means "salary" (from "vychta"), giving the line its exact edge.
-- 'I did not take it.' Max puts that thought with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Senya. Lyosha.' Max answers openly with a shrug, refusing to let the moment slip past.
-- 'Did you take the pastry from right here?' Max underscores one practical word in reply: "pirozhnoye" means "pastries, cakes", and it carries the main weight of what Max is saying.
-- 'No. Senya?' Max makes that remark around Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'I am crying here.' Max pushes back pointedly with a nod, testing Senya's reaction in the middle of the exchange.
-- 'And you did not feel anything hard inside?' Senya leans on one telling choice with Max: "pochuvstvoval" means "felt" (from "pochuvstvovat"), giving the line its exact edge.
-- 'The owner is demanding the dessert right now.' Max states the comment at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'It was delicious.' Senya steps in lightly watching Max, without trying to dress up how he really feels.
-- 'Right around here somewhere.' Max anchors one telling term for Senya: "gde-to" means "somewhere", and it carries the main weight of what Max is saying.
-- 'This guy already ate it.' Senya jumps in warmly in this moment, letting the remark speak for itself.
-- 'And where is our dessert?' Max quizzes evenly what Senya is actually getting at here.
-- 'Just a couple more minutes.' Senya emphasizes one classic expression at once: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
+- 'I will deduct it from your pension.' Talking about the salary beside Max, Senya reaches for the Russian word "vychtu" ("salary", built from "vychta") right at the center of the line.
+- 'I did not take it.' Holding firm evenly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Senya. Lyosha.' Max reacts openly with a smile, letting the remark speak for itself.
+- 'Did you take the pastry from right here?' Emphasizing the pastries before Senya, Max lands on "pirozhnoye" ("pastries, cakes") as the key everyday word here.
+- 'No. Senya?' Max lightly shares this direct refusal without hesitation using "net" ("no") — a plain "net" ("no") that gives an immediate answer.
+- 'I am crying here.' Max cuts in pointedly beside Senya, leaving no doubt about where he stands.
+- 'And you did not feel anything hard inside?' Senya continues boldly in front of Max and lands on "pochuvstvoval" ("felt", built on "pochuvstvovat") to keep the statement grounded.
+- 'The owner is demanding the dessert right now.' Bringing up the owner to Senya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'It was delicious.' Senya steps in lightly without a pause, steering the talk right where he wants it.
+- 'Right around here somewhere.' Max steps in firmly at once and centers the remark on "gde-to" ("somewhere") without any extra fuss.
+- 'This guy already ate it.' Bringing up the boyfriend before Max, Senya leans on "paren" ("boyfriend") to give the whole sentence its punch.
+- 'And where is our dessert?' Max quizzes evenly how Senya expects that to work in practice.
+- 'Just a couple more minutes.' Underscoring the minutes in the exchange, Senya lands on "minut" ("minutes", built on "minuta") to keep the statement grounded.

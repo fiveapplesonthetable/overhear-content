@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is my tender beef tenderloin with white truffle!' Nagiyev features this sharp touch toward Eleonora: "govyazhya" means "beef" (from "govyazhiy"), giving the line its exact edge.
-- 'Good evening, what lovely flowers on your table!' Eleonora jumps in bluntly toward Nagiyev, saying out loud what both of them already know.
-- 'Have a seat with me, maybe we should drink some of my good wine?' Nagiyev questions eagerly where this conversation is heading next.
-- 'With great pleasure, I did not expect this from you!' Eleonora reaches for one classic touch at once: "udovolstviyem" means "pleasure" (from "udovolstviye"), giving the line its exact edge.
-- 'I did not think that you were capable of courting so beautifully.' Eleonora grounds this clear element toward Nagiyev: "sposoben" means "capable", and it carries the main weight of what Eleonora is saying.
-- 'Big deal, I just treated you to wine and white truffle!' Nagiyev replies candidly with a smile, bringing things back to earth after the buildup.
-- 'Do not be modest, such persistence and such rare patience!' Eleonora reaches for this vivid expression toward Nagiyev: "skromnichay" means "be modest" (from "skromnichat"), giving the line its exact edge.
-- 'Let's drink to you, my mysterious and bold romantic!' Eleonora uses this direct term toward Nagiyev: "tainstvennyy" means "mysterious", and it carries the main weight of what Eleonora is saying.
-- 'This wonderful evening completely lives up to all my expectations.' Eleonora proceeds earnestly during the talk, keeping the focus on what actually matters here.
-- 'It seems it completely lives up to my bold expectations too!' Nagiyev underscores one concrete detail toward Eleonora: "ozhidaniya" means "expectations" (from "ozhidaniye"), giving the line its exact edge.
-- 'Let's continue our romantic dinner up in my hotel room?' Eleonora states the remark frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Gulya, bring everything up there and silverware for two!' Eleonora reacts decisively without a pause, letting the remark speak for itself.
+- 'Here is my tender beef tenderloin with white truffle!' Highlighting how tender things are in the exchange, Nagiyev lands on "govyazhya" ("beef", built on "govyazhiy") to keep the statement grounded.
+- 'Good evening, what lovely flowers on your table!' Discussing the evening to Nagiyev, Eleonora lands on "prekrasnyye" ("wonderful, fine", built on "prekrasnyy") to keep the statement grounded.
+- 'Have a seat with me, maybe we should drink some of my good wine?' Nagiyev questions eagerly before Eleonora can change the subject.
+- 'With great pleasure, I did not expect this from you!' Touching on the pleasure in the exchange, Eleonora lands on "udovolstviyem" ("pleasure", built on "udovolstviye") to keep the statement grounded.
+- 'I did not think that you were capable of courting so beautifully.' Addressing the capable watching Nagiyev, Eleonora lets Nagiyev see exactly where things stand.
+- 'Big deal, I just treated you to wine and white truffle!' Nagiyev weighs in candidly across the room, so Eleonora knows he is not just making small talk.
+- 'Do not be modest, such persistence and such rare patience!' Bringing up the patience during the talk, Eleonora chooses "terpeniye" ("patience") so Nagiyev gets the point right away.
+- 'Let's drink to you, my mysterious and bold romantic!' Eleonora jumps in warmly with Nagiyev, refusing to let the moment slip past.
+- 'This wonderful evening completely lives up to all my expectations.' Eleonora weighs in earnestly without a pause, shifting the mood of the conversation in a single beat.
+- 'It seems it completely lives up to my bold expectations too!' Emphasizing the expectations right here, Nagiyev uses "ozhidaniya" ("expectations", from "ozhidaniye") to make the point stick.
+- 'Let's continue our romantic dinner up in my hotel room?' Looking over evenly at once, Eleonora starts with "davay" ("come on, let's") to invite Nagiyev right into the action.
+- 'Gulya, bring everything up there and silverware for two!' Eleonora reacts decisively without a pause, shifting the mood of the conversation in a single beat.

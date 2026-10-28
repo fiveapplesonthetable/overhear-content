@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of nonsense is this?' Barinov focuses on one familiar word for Lyova: "yerunda" means "trifle, nothing", and it carries the main weight of what Barinov is saying.
-- 'Who are you?' Lyova shapes the thought beside Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What are you doing in here?' Barinov asks firmly why things suddenly took this turn between them.
-- 'By the way, I already passed, the Chef hired me.' Lyova stresses this sharp touch for Barinov: "prochim" means "other" (from "prochiy"), giving the line its exact edge.
-- 'I am having my job interview!' Barinov lays out the reply in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Chef, please forgive me, there was a little mistake.' Lyova weighs in promptly with a smile, shifting the whole mood of the room in a single beat.
-- 'You are hired.' Barinov spotlights this sharp touch with Lyova: "prinyat" means "accepted", and it carries the main weight of what Barinov is saying.
-- 'You will work two days on, two days off.' Lyova proceeds pointedly around Barinov, keeping the focus on what actually matters here.
-- 'Cooks are not allowed to wear beards in the kitchen.' Barinov continues dryly facing Lyova, saying out loud what both of them already know.
-- 'First of all, I am the head chef.' Lyova chooses one direct term toward Barinov: "vo-pervykh" means "first of all", and it carries the main weight of what Lyova is saying.
-- 'And what about yours?' Barinov gives that point to Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'And secondly.' Lyova steps in quietly in their talk, saying out loud what both of them already know.
-- 'You see, my beard brings good luck.' Barinov stresses this key piece with Lyova: "ponimayete" means "do you understand" (from "ponimat"), giving the line its exact edge.
+- 'What kind of nonsense is this?' Highlighting the trifle around Lyova, Barinov brings in "yerunda" ("trifle, nothing") to make the meaning unmistakable.
+- 'Who are you?' Pushing back quietly beside Barinov, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What are you doing in here?' Barinov asks firmly where this conversation is heading next.
+- 'By the way, I already passed, the Chef hired me.' Lyova steps in earnestly in this beat and lands on "proshel" ("passed", built on "proyti") to keep the statement grounded.
+- 'I am having my job interview!' Addressing the interview with Lyova, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Chef, please forgive me, there was a little mistake.' Lyova proceeds promptly without holding back, grounding the moment in plain reality.
+- 'You are hired.' Barinov pushes back readily beside Lyova and centers the remark on "prinyat" ("accepted") without any extra fuss.
+- 'You will work two days on, two days off.' Lyova chimes in directly around Barinov and reaches for the Russian word "rabotat" ("to work") right at the heart of the line.
+- 'Cooks are not allowed to wear beards in the kitchen.' Barinov pushes back dryly without a pause, letting the remark speak for itself.
+- 'First of all, I am the head chef.' Lyova follows up plainly on the spot and puts the emphasis on "vo-pervykh" ("first of all") in the middle of the talk.
+- 'And what about yours?' Holding firm plainly beside Lyova, Barinov keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'And secondly.' Lyova proceeds quietly without any doubt, refusing to let the moment slip past.
+- 'You see, my beard brings good luck.' Touching on the luck with Lyova, Barinov lands on "ponimayete" ("do you understand", built on "ponimat") to keep the statement grounded.

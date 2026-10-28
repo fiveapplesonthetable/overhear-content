@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How could you forget your handbag?' Max favors one telling detail at once: "sumochku" means "handbag" (from "sumochka"), giving the line its exact edge.
-- 'Apparently, pregnancy badly impairs memory.' Max speaks briskly as things stand, so Vika knows he is not just making small talk.
-- 'For heaven's sake, forgive me! Are you all right?' Vika presses skeptically before Barinov can change the subject.
-- 'Give me five grand, and no hard feelings.' Max frames one clear choice toward Vika: "shtuk" means "pieces, grand" (from "shtuka"), giving the line its exact edge.
-- 'Wait, maybe I should take you to the hospital?' Vika states this line on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'It feels like you are not moving, but running away.' Barinov steps in pointedly to be clear, making his position completely clear.
-- 'Could you at least have packed your things properly?' Barinov frames one colorful word at once: "veshchi" means "things" (from "veshch"), giving the line its exact edge.
-- 'And when you left Mom, did you pack your things properly?' Vika delivers the reply plainly here: putting the question word "kogda" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'No need to help, I already called a taxi.' Vika holds firm earnestly to settle things, leaving no doubt about where she stands.
-- 'What? Are you heading to a bar?' Barinov favors one concrete detail right here: "sobirayetes" means "to intend" (from "sobiratsya"), giving the line its exact edge.
-- 'So you don't want to do this the easy way?' Barinov offers the reaction for Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Fine, if you don't want the good father, I will turn on the bad one.' Barinov fires back candidly during the talk, watching Vika's face to see how the news lands.
+- 'How could you forget your handbag?' Talking about the handbag at once, Max puts the weight on "sumochku" ("handbag", from "sumochka") as the exchange unfolds.
+- 'Apparently, pregnancy badly impairs memory.' Turning to the pregnancy to Vika, Max chooses "beremennost" ("pregnancy") so Vika gets the point right away.
+- 'For heaven's sake, forgive me! Are you all right?' Vika presses skeptically about what Max just brought up.
+- 'Give me five grand, and no hard feelings.' Bringing up the pieces in this beat, Max chooses "shtuk" ("pieces, grand", from the root "shtuka") so Vika hears the exact meaning.
+- 'Wait, maybe I should take you to the hospital?' Reacting openly in front of Barinov, Vika keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'It feels like you are not moving, but running away.' Barinov weighs in pointedly toward Vika, keeping the focus on what actually matters here.
+- 'Could you at least have packed your things properly?' Barinov steps in smoothly around Vika and brings in "normalno" ("fine, OK") to make the meaning unmistakable.
+- 'And when you left Mom, did you pack your things properly?' Holding firm dryly beside Barinov, Vika puts the question word "kogda" right at the start so Barinov hears the focus immediately.
+- 'No need to help, I already called a taxi.' Vika pushes back earnestly with Barinov, bringing things back to earth after the buildup.
+- 'What? Are you heading to a bar?' Discussing a bar before Vika, Barinov chooses "sobirayetes" ("to intend", from the root "sobiratsya") so Vika hears the exact meaning.
+- 'So you don't want to do this the easy way?' Replying openly with Vika, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Fine, if you don't want the good father, I will turn on the bad one.' Barinov replies candidly on the spot, grounding the moment in plain reality.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't Katya spend the night today?' Senya features one key choice toward Denis: "nochevala" means "to spend the night" (from "nochevat"), giving the line its exact edge.
-- 'She and I had a big fight yesterday.' Denis shapes the comment for Senya: the "-sya" ending on "possorilis" ("had a fight") turns the action inward or makes it happen between people naturally.
-- 'She says I behave like a pushover.' Denis cuts in dryly hearing Senya, bringing things back to earth after the buildup.
-- 'Well, do not be a pushover anymore.' Senya features one direct expression at once: "tryapkoy" means "rag, cloth" (from "tryapka"), giving the line its exact edge.
-- 'Always dominate, be a real man.' Senya responds boldly with a nod, watching Denis's face to see how the news lands.
-- 'All right, I will definitely try today.' Denis holds firm candidly toward Senya, watching Senya's face to see how the news lands.
-- 'Make up and come over for dinner.' Senya underscores this direct piece right here: "prikhodite" means "come" (from "prikhodit"), giving the line its exact edge.
-- 'Marina and I really need this.' Senya shapes this warning calmly now: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'It seems to me that she liked you two a lot.' Senya follows up right away to settle things, refusing to let the moment slip past.
-- 'I do not know, if Katya does not mind.' Denis focuses on one memorable touch with Senya: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'Are you a real man or what?' Senya phrases that reply for Denis: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Right away, sweetheart, I am bringing your tea already!' Senya reacts earnestly in this moment, bringing things back to earth after the buildup.
+- 'Why didn't Katya spend the night today?' Senya answers warmly right here and puts the weight on "nochevala" ("to spend the night", from "nochevat") as the exchange unfolds.
+- 'She and I had a big fight yesterday.' Cutting in candidly beside Senya, the "-sya" ending on "possorilis" ("had a fight") marks an action that unfolds mutually or turns back on the speaker.
+- 'She says I behave like a pushover.' Denis chimes in dryly across the room, without trying to dress up how he really feels.
+- 'Well, do not be a pushover anymore.' Turning to the rag around Denis, Senya leans on "tryapkoy" ("rag, cloth", a form of "tryapka") to give the remark its edge.
+- 'Always dominate, be a real man.' Highlighting the dominate with Denis, Senya puts the weight on "nastoyashchim" ("real, genuine", from "nastoyashchiy") as the exchange unfolds.
+- 'All right, I will definitely try today.' Turning to Senya directly beside Senya, Denis says "ladno" ("alright"), built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Make up and come over for dinner.' Pointing to the dinner before Denis, Senya reaches for the Russian word "uzhin" ("dinner") right at the heart of the line.
+- 'Marina and I really need this.' Reacting openly on the spot, Senya leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'It seems to me that she liked you two a lot.' Senya reacts right away during the talk, shifting the mood of the conversation in a single beat.
+- 'I do not know, if Katya does not mind.' Denis steps in warmly on the spot, testing Senya's reaction in the middle of the exchange.
+- 'Are you a real man or what?' Discussing a real man in the exchange, Senya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Right away, sweetheart, I am bringing your tea already!' Senya answers earnestly without holding back, so Denis knows he is not just making small talk.

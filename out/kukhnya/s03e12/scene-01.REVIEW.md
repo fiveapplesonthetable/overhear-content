@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My forecast for today is excellent.' Max colors one telling choice right here: "otlichnyy" means "excellent, great", and it carries the main weight of what Max is saying.
-- 'I feel like walking in through the front entrance.' Max directs the thought around Nagiyev: the "-sya" ending on "khochetsya" ("want, feel like") turns the action inward or makes it happen between people naturally.
-- 'Nothing will ruin my mood.' Max cuts in wryly watching Kostya, watching Kostya's face to see how the news lands.
-- 'Sometimes forecasts lie.' Max favors one sharp touch right here: "prognozy" means "forecasts" (from "prognoz"), giving the line its exact edge.
-- 'Go to the back courtyard.' Nagiyev states the comment calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Do not disgrace our restaurant.' Nagiyev jumps in decisively to be clear, so Max knows he is not just making small talk.
-- 'This is not my best day.' Max colors this telling touch in earnest: "luchshiy" means "best", and it carries the main weight of what Max is saying.
-- 'Friends will always support me.' Max sends the remark with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Hey, Max, here is the thing.' Kostya replies firmly to settle things, bringing things back to earth after the buildup.
-- 'You need to move out of the apartment.' Kostya points to one clear detail in earnest: "kvartiry" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Our baby will be born soon.' Kostya puts that thought calmly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'I wish this day would end soon.' Max follows up dryly before Nagiyev, letting the remark speak for itself.
+- 'My forecast for today is excellent.' Stressing how excellent things are in front of Nagiyev, Max brings in "otlichnyy" ("excellent, great") to make the meaning unmistakable.
+- 'I feel like walking in through the front entrance.' Mentioning the front entrance before Nagiyev, Max lands on "paradnyy" ("front, main") as the key everyday word here.
+- 'Nothing will ruin my mood.' Max responds wryly in this moment, to clear the air between them once and for all.
+- 'Sometimes forecasts lie.' Discussing the forecasts to Nagiyev, Max uses "prognozy" ("forecasts", from "prognoz") to make the point stick.
+- 'Go to the back courtyard.' Bringing up the yard in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Do not disgrace our restaurant.' Nagiyev proceeds decisively around Max, shifting the mood of the conversation in a single beat.
+- 'This is not my best day.' Stressing how best things are in the exchange, Max lands on "luchshiy" ("best") as the key everyday word here.
+- 'Friends will always support me.' Bringing up the friends before Kostya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Hey, Max, here is the thing.' Kostya proceeds firmly without a pause, testing Max's reaction in the middle of the exchange.
+- 'You need to move out of the apartment.' Focusing on the flat in this beat, Kostya leans on "kvartiry" ("flat", a form of "kvartira") to give the remark its edge.
+- 'Our baby will be born soon.' Checking on the kid before Max, Kostya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'I wish this day would end soon.' Max answers dryly with a smile, before Kostya can change the subject.

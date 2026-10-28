@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, please wake up.' Max sends this statement around Nagiyev: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Excuse me, it is just that the restaurant is opening already.' Max weighs in earnestly hearing Nagiyev, saying out loud what both of them already know.
-- 'Did you spend the night here again?' Max favors one telling detail for Nagiyev: "nochevali" means "spent the night" (from "nochevat"), giving the line its exact edge.
-- 'Well what business is it of yours?' Nagiyev shapes this point without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What did she find in you?' Nagiyev wonders calmly while looking straight at Max here.
-- 'After all, I am a real prince.' Nagiyev favors one key touch on cue: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Nagiyev is saying.
-- 'What are you talking about at all?' Max delivers the comeback with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'About our Victoria Sergeyevna.' Nagiyev holds firm wryly as they talk, testing Max's reaction in the middle of the exchange.
-- 'And what does she have to do with this?' Max makes the remark for Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'I did not get enough sleep all night.' Nagiyev sends that thought with ease: the "-sya" ending on "vyspalsya" ("got enough sleep") turns the action inward or makes it happen between people naturally.
-- 'She and I talked about love.' Nagiyev responds frankly without any doubt, shifting the whole mood of the room in a single beat.
-- 'Do you understand me now?' Nagiyev colors this telling term in reply: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
+- 'Dmitry Vladimirovich, please wake up.' Max directly voices this courtesy word as they meet using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Excuse me, it is just that the restaurant is opening already.' Max gently gives this polite apology beside Nagiyev using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Did you spend the night here again?' Max counters naturally at once and uses "nochevali" ("spent the night", from "nochevat") to make the point stick.
+- 'Well what business is it of yours?' Turning to the matter during the talk, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What did she find in you?' Nagiyev wonders calmly if there is more going on behind the scenes.
+- 'After all, I am a real prince.' Highlighting how real he is right here, Nagiyev chooses "nastoyashchiy" ("real, genuine") so Max gets the point right away.
+- 'What are you talking about at all?' Stepping in calmly to Nagiyev, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'About our Victoria Sergeyevna.' Nagiyev follows up wryly on the spot, refusing to let the moment slip past.
+- 'And what does she have to do with this?' Leaning in promptly with Nagiyev, Max keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'I did not get enough sleep all night.' Dwelling on the night in front of Max, the "-sya" ending on "vyspalsya" ("got enough sleep") marks an action that unfolds mutually or turns back on the speaker.
+- 'She and I talked about love.' Nagiyev reacts frankly around Max, refusing to let the moment slip past.
+- 'Do you understand me now?' Nagiyev speaks up quietly in the exchange and lands on "ponimayesh" ("do you understand", built on "ponimat") to keep the statement grounded.

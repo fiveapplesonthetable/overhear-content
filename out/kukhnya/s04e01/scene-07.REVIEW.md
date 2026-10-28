@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Please forgive me that it turned out this way.' Barinov favors one clear term in earnest: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'I will talk to Nagiyev.' Barinov sends that answer briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'In a day or two he will cool down.' Barinov opens up candidly watching Elena, letting the remark speak for itself.
-- 'Viktor Petrovich, we cannot wait that long.' Elena favors one loaded detail for Barinov: "mozhem" means "can" (from "moch"), giving the line its exact edge.
-- 'Our deadlines are burning.' Elena puts that line frankly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'We will find someone else.' Elena replies lightly without any doubt, without trying to dress up how she really feels.
-- 'Who else?' Barinov picks one key choice in earnest: "drugogo" means "other, another" (from "drugoy"), giving the line its exact edge.
-- 'Well, we will find somebody.' Elena frames that point for Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'She is also a very famous chef.' Elena pushes back at once around Barinov, saying out loud what both of them already know.
-- 'There is no need to ask anyone else.' Barinov centers this sharp choice toward Elena: "prosit" means "to ask, to beg", and it carries the main weight of what Barinov is saying.
-- 'I told you, I will make a deal with Nagiyev.' Barinov offers this warning for Elena: the "-sya" ending on "dogovoryus" ("to agree, to arrange") turns the action inward or makes it happen between people naturally.
-- 'Well, all right then.' Elena responds bluntly as they talk, without trying to dress up how she really feels.
+- 'Please forgive me that it turned out this way.' Barinov opens up sharply in the exchange and lands on "izvinite" ("sorry, excuse me", built on "izvinit") to keep the statement grounded.
+- 'I will talk to Nagiyev.' Reacting openly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'In a day or two he will cool down.' Barinov chimes in candidly facing Elena, watching Elena's face to see how the news lands.
+- 'Viktor Petrovich, we cannot wait that long.' Elena speaks vividly in front of Barinov and chooses "dolgo" ("for a long time") so Barinov gets the point right away.
+- 'Our deadlines are burning.' Checking on the term on the spot, Elena reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'We will find someone else.' Elena proceeds lightly without any doubt, refusing to let the moment slip past.
+- 'Who else?' Barinov pushes back sharply right here and centers the thought on "drugogo" ("other, another", from "drugoy") without wasting a word.
+- 'Well, we will find somebody.' Holding firm promptly beside Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'She is also a very famous chef.' Elena cuts in at once with a shrug, to clear the air between them once and for all.
+- 'There is no need to ask anyone else.' Barinov chimes in earnestly in this beat and reaches for the Russian word "prosit" ("to ask, to beg") right at the heart of the line.
+- 'I told you, I will make a deal with Nagiyev.' Reacting frankly with Elena, the "-sya" ending on "dogovoryus" ("to agree, to arrange") marks an action that unfolds mutually or turns back on the speaker.
+- 'Well, all right then.' Elena continues bluntly on the spot, grounding the moment in plain reality.

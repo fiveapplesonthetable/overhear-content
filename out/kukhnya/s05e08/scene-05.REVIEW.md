@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, is it ready? I will serve it myself.' Barinov brings that reply with candor: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Damn, how do I explain everything to her?' Barinov quizzes curiously about what Katya just brought up.
-- 'Pops, take it easy with your words.' Katya colors one practical element on cue: "papasha" means "daddy, pop", and it carries the main weight of what Katya is saying.
-- 'Wait, are you Russian?' Barinov hands over this line briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Excuse me, I saw nothing, I will go redo everything.' Barinov responds openly during the talk, grounding the moment in plain reality.
-- 'Stop, bring me a drink, huh?' Katya grounds one memorable choice in reply: "prinesi" means "bring" (from "prinesti"), giving the line its exact edge.
-- 'They empty the minibar in every hotel.' Katya counters calmly as things stand, keeping the focus on what actually matters here.
-- 'I cannot, they frisk everyone at the entrance.' Barinov fires back sharply without holding back, keeping the focus on what actually matters here.
-- 'Help me somehow, I have been in the harem for a year already.' Katya sharpens one memorable choice at once: "kak-nibud" means "somehow", and it carries the main weight of what Katya is saying.
-- 'Can you imagine how badly I want a drink?' Katya directs that remark plainly here: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'I can imagine, but I cannot help you with anything.' Barinov opens up earnestly with a shrug, grounding the moment in plain reality.
-- 'Otherwise I will tell my husband that you saw me naked.' Katya points to one classic expression with Barinov: "rasskazhu" means "will tell" (from "rasskazat"), giving the line its exact edge.
+- 'Well, is it ready? I will serve it myself.' Making clear how ready things are before Katya, Barinov puts the question word "chto" right at the start so Katya hears the focus immediately.
+- 'Damn, how do I explain everything to her?' Barinov quizzes curiously whether Katya really thought this through.
+- 'Pops, take it easy with your words.' Focusing on the daddy right here, Katya brings in "papasha" ("daddy, pop") to make the meaning unmistakable.
+- 'Wait, are you Russian?' Replying smoothly around Katya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Excuse me, I saw nothing, I will go redo everything.' Barinov chimes in openly around Katya, so Katya knows he is not just making small talk.
+- 'Stop, bring me a drink, huh?' Katya counters openly at once and centers the thought on "prinesi" ("bring", from "prinesti") without wasting a word.
+- 'They empty the minibar in every hotel.' Discussing the hotels around Barinov, Katya centers the thought on "otelyakh" ("hotels", from "otel") without wasting a word.
+- 'I cannot, they frisk everyone at the entrance.' Barinov speaks up sharply without a pause, shifting the mood of the conversation in a single beat.
+- 'Help me somehow, I have been in the harem for a year already.' Highlighting the harem in front of Barinov, Katya leans on "kak-nibud" ("somehow") to give the whole sentence its punch.
+- 'Can you imagine how badly I want a drink?' Checking on the desire in this beat, Katya puts the question word "kak" right at the start so Barinov hears the focus immediately.
+- 'I can imagine, but I cannot help you with anything.' Barinov continues earnestly around Katya, before Katya can change the subject.
+- 'Otherwise I will tell my husband that you saw me naked.' Pointing to her husband in the exchange, Katya centers the thought on "rasskazhu" ("will tell", from "rasskazat") without wasting a word.

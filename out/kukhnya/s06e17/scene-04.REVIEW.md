@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'After you, it is very close by.' Fedya centers this direct choice in earnest: "nedaleko" means "not far", and it carries the main weight of what Fedya is saying.
-- 'You broke the dream of my life.' Barinov colors this key expression at once: "mechtu" means "dream" (from "mechta"), giving the line its exact edge.
-- 'What kind of report will he write now?' Barinov prompts curiously whether Fedya really thought this through.
-- 'Viktor Petrovich, maybe it will blow over?' Senya emphasizes one vivid touch in earnest: "oboydyotsya" means "will do" (from "oboytis"), giving the line its exact edge.
-- 'We will feed him deliciously later.' Senya holds firm bluntly as they talk, without trying to dress up how he really feels.
-- 'Name me at least one reason.' Fedya steps in lightly with a smile, before Senya can change the subject.
-- 'I locked him in the refrigerator.' Fedya favors one telling detail in earnest: "kholodilnike" means "fridge" (from "kholodilnik"), giving the line its exact edge.
-- 'Why did you do that just now?' Barinov delivers this line calmly now: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'You hinted at it to me yourself.' Fedya opens up sharply across the room, bringing things back to earth after the buildup.
-- 'If we let him go, he will create problems.' Fedya underscores one familiar piece for Senya: "problemy" means "problems" (from "problema"), giving the line its exact edge.
-- 'And right now he will not create any?' Barinov gives that thought without pause: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Now we will think of something, Chef.' Fedya follows up steadily to settle things, saying out loud what both of them already know.
+- 'After you, it is very close by.' Fedya follows up boldly during the talk and chooses "nedaleko" ("not far") so Barinov gets the point right away.
+- 'You broke the dream of my life.' Barinov responds earnestly without a pause, before Fedya can change the subject.
+- 'What kind of report will he write now?' Barinov prompts curiously where this conversation is heading next.
+- 'Viktor Petrovich, maybe it will blow over?' Senya reacts sharply with Barinov and leans on "oboydyotsya" ("will do", a form of "oboytis") to give the remark its edge.
+- 'We will feed him deliciously later.' Senya jumps in pointedly in front of Fedya and reaches for the Russian word "nakormim" ("will feed", built from "nakormit") right at the center of the line.
+- 'Name me at least one reason.' Fedya replies lightly without a pause, before Senya can change the subject.
+- 'I locked him in the refrigerator.' Discussing the fridge at once, Fedya centers the thought on "kholodilnike" ("fridge", from "kholodilnik") without wasting a word.
+- 'Why did you do that just now?' Jumping in quietly at once, Barinov puts the question word "zachem" right at the start so Fedya hears the focus immediately.
+- 'You hinted at it to me yourself.' Fedya cuts in sharply during the talk, so Barinov knows he is not just making small talk.
+- 'If we let him go, he will create problems.' Emphasizing the problems around Barinov, Fedya brings in "problemy" ("problems", from "problema") as the key Russian word here.
+- 'And right now he will not create any?' Leaning in warmly during the talk, Barinov keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.
+- 'Now we will think of something, Chef.' Fedya continues steadily without any doubt, watching Barinov's face to see how the news lands.

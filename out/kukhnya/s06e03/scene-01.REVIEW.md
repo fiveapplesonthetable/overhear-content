@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Go ahead, shoot!' Nagiyev uses one pointed expression in earnest: "strelyay" means "shoot" (from "strelyat"), giving the line its exact edge.
-- 'Do you not see we are filming a movie?' Nagiyev puts this statement without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Cut, why is an unauthorized person in the shot?' Nagiyev tests firmly before Barinov can change the subject.
-- 'Vitya, what kind of karma do you have?' Nagiyev centers one concrete detail in reply: "karma" means "karma", and it carries the main weight of what Nagiyev is saying.
-- 'Five-minute break, and do not wander off!' Nagiyev frames this answer without pause: the "-sya" ending on "raskhoditsya" ("to disperse") turns the action inward or makes it happen between people naturally.
-- 'You cannot do that, Vitya!' Nagiyev responds sharply hearing Barinov, before Barinov can change the subject.
-- 'And now all the complaints fall on me.' Barinov reaches for this clear expression on cue: "zhaloby" means "complaints" (from "zhaloba"), giving the line its exact edge.
-- 'Do you not see that they are pouring blood here?' Nagiyev offers that answer for Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'I want to walk through to the restaurant.' Barinov chimes in bluntly with a shrug, saying out loud what both of them already know.
-- 'Do not step on the blood.' Hear how Nagiyev turns to Barinov right away — the Russian word "nastupay" ("step on", built from "nastupat") does the heavy lifting.
-- 'Take your hands off, what do you think you are doing?' Barinov gives this warning with candor: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'Walk faster, Vitya.' Nagiyev jumps in wryly without a pause, so Barinov knows he is not just making small talk.
+- 'Go ahead, shoot!' Nagiyev follows up dryly beside Barinov and brings in "strelyay" ("shoot", from "strelyat") as the key Russian word here.
+- 'Do you not see we are filming a movie?' Reacting plainly on the spot, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Cut, why is an unauthorized person in the shot?' Nagiyev tests firmly where this conversation is heading next.
+- 'Vitya, what kind of karma do you have?' Underscoring the karma during the talk, Nagiyev chooses "karma" ("karma") so Barinov gets the point right away.
+- 'Five-minute break, and do not wander off!' Returning to the break to Barinov, the "-sya" ending on "raskhoditsya" ("to disperse") marks an action that unfolds mutually or turns back on the speaker.
+- 'You cannot do that, Vitya!' Nagiyev chimes in sharply without any doubt, before Barinov can change the subject.
+- 'And now all the complaints fall on me.' Mentioning the complaints to Nagiyev, Barinov reaches for the Russian word "zhaloby" ("complaints", built from "zhaloba") right at the center of the line.
+- 'Do you not see that they are pouring blood here?' Holding firm frankly in the exchange, Nagiyev puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'I want to walk through to the restaurant.' Barinov chimes in bluntly facing Nagiyev, leaving no doubt about where he stands.
+- 'Do not step on the blood.' Mentioning the blood around Barinov, Nagiyev brings in "nastupay" ("step on", from "nastupat") as the key Russian word here.
+- 'Take your hands off, what do you think you are doing?' Looking over earnestly on the spot, Barinov puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'Walk faster, Vitya.' Nagiyev weighs in wryly watching Barinov, bringing things back to earth after the buildup.

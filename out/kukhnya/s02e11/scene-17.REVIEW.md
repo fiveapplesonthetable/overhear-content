@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how is that?' Max brings this warning in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'That does not work either.' Kostya speaks openly without a pause, steering the talk right where he wants it.
-- 'Come on, they look convincing enough.' Max underscores one vivid expression right here: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Kostya, where were you two?' Max brings this statement at once: putting the question word "gde" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Well, how is that?' Holding firm openly to Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'That does not work either.' Kostya speaks up openly with a smile, so Max knows he is not just making small talk.
+- 'Come on, they look convincing enough.' Emphasizing the order with Kostya, Max brings in "poryadke" ("order", from "poryadok") as the key Russian word here.
+- 'Kostya, where were you two?' Speaking openly in front of Kostya, Max puts the question word "gde" right at the start so Kostya hears the focus immediately.
 - 'What happened to you?' Max presses curiously if there is more going on behind the scenes.
-- 'Did the two of you get into a fight because of us?' Kostya sharpens this vivid touch with Max: "podralis" means "to fight, have a brawl" (from "podratsya"), giving the line its exact edge.
-- 'What is the big deal?' Max brings the comment before Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well, we had a fight.' Kostya holds firm earnestly watching Max, leaving no doubt about where he stands.
-- 'Everything is fine now anyway.' Max highlights one concrete word in earnest: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Let us go have some tea.' Kostya puts that reply toward Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Yes, let us do that.' Max continues promptly without a pause, testing Kostya's reaction in the middle of the exchange.
-- 'You two get changed while we get everything ready.' Kostya anchors one concrete element on cue: "prigotovimsya" means "to prepare" (from "prigotovitsya"), giving the line its exact edge.
-- 'We have something saved specially for an occasion like this.' Max voices the reaction facing Kostya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Did the two of you get into a fight because of us?' Kostya opens up earnestly during the talk and lands on "podralis" ("to fight, have a brawl", built on "podratsya") to keep the statement grounded.
+- 'What is the big deal?' Looking over earnestly around Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, we had a fight.' Kostya answers earnestly on the spot, without trying to dress up how he really feels.
+- 'Everything is fine now anyway.' Touching on the order right here, Max lands on "poryadke" ("order", built on "poryadok") to keep the statement grounded.
+- 'Let us go have some tea.' Turning to the tea in front of Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Yes, let us do that.' Max reacts promptly during the talk, testing Kostya's reaction in the middle of the exchange.
+- 'You two get changed while we get everything ready.' Kostya continues briskly before Max and centers the thought on "prigotovimsya" ("to prepare", from "prigotovitsya") without wasting a word.
+- 'We have something saved specially for an occasion like this.' Mentioning the case in front of Kostya, Max reaches for "u nas" ("by us, at our place") to talk about what they share.

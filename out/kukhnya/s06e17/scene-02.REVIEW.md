@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'People die from falling coconuts.' Fedya reacts briskly hearing Barinov, refusing to let the moment slip past.
-- 'What kind of total nonsense is this?' Reacting quickly with resolve, Senya makes it clear that he means every single word.
-- 'A coconut has already fallen on me.' Senya favors one vivid piece right here: "kokos" means "coconut", and it carries the main weight of what Senya is saying.
-- 'Well, I am completely alive.' Senya offers the reply on cue: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'You will not withstand a blow from a coconut.' Fedya speaks right away during the talk, so Barinov knows he is not just making small talk.
-- 'I will not withstand such a blow?' Senya frames one loaded detail in earnest: "vyderzhu" means "I will endure" (from "vyderzhat"), giving the line its exact edge.
-- 'Let us make a bet then.' Fedya makes the comeback around Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'So will I get this star?' Barinov tests firmly in front of Senya without any preamble.
-- 'I hope everything will be great for us.' Barinov emphasizes one practical expression in reply: "otlichno" means "perfect, great", and it carries the main weight of what Barinov is saying.
-- 'Coconuts never warn you in advance.' Fedya shapes this update around Senya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'You can throw a coconut at me.' Senya responds earnestly before Barinov, letting the remark speak for itself.
-- 'Maybe tomorrow, or maybe right now.' Fedya reaches for one direct word right here: "seychas" means "now", and it carries the main weight of what Fedya is saying.
+- 'People die from falling coconuts.' Highlighting the fall in the exchange, Fedya uses "padeniya" ("fall", from "padeniye") to make the point stick.
+- 'What kind of total nonsense is this?' Senya tests straight out what Fedya is actually getting at here.
+- 'A coconut has already fallen on me.' Addressing a coconut on the spot, Senya centers the remark on "kokos" ("coconut") without any extra fuss.
+- 'Well, I am completely alive.' Emphasizing how alive he is during the talk, Senya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'You will not withstand a blow from a coconut.' Fedya proceeds right away around Senya, shifting the mood of the conversation in a single beat.
+- 'I will not withstand such a blow?' Bringing up a blow to Fedya, Senya uses "vyderzhu" ("I will endure", from "vyderzhat") to make the point stick.
+- 'Let us make a bet then.' Cutting in quietly before Senya, Fedya starts with "davay" ("come on, let's") to invite Senya right into the action.
+- 'So will I get this star?' Barinov tests firmly if there is more going on behind the scenes.
+- 'I hope everything will be great for us.' Barinov jumps in dryly during the talk and brings in "otlichno" ("perfect, great") to make the meaning unmistakable.
+- 'Coconuts never warn you in advance.' Pushing back earnestly in the exchange, Fedya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'You can throw a coconut at me.' Addressing a coconut hearing Fedya, Senya puts the real issue right on the table for Fedya.
+- 'Maybe tomorrow, or maybe right now.' Fedya replies decisively with Senya and leans on "zavtra" ("tomorrow") to give the whole sentence its punch.

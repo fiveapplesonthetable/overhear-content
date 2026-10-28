@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right, who ate the tenderloin with balsamic pearls?' Katya puts that remark for Barinov: putting the question word "kto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'We didn't see anything.' Senya counters briskly without a pause, testing Katya's reaction in the middle of the exchange.
-- 'Is it delicious?' Katya underscores this telling detail with Barinov: "vkusno" means "it's tasty", and it carries the main weight of what Katya is saying.
-- 'Honestly speaking, the dish is not tasty at all.' Senya gives that line right away: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Well yes, what I made it from is what it turned out to be.' Katya continues promptly with a nod, before Barinov can change the subject.
-- 'I added the ingredient that you planted in my locker.' Katya focuses on one vivid word at once: "ingrediyent" means "ingredient", and it carries the main weight of what Katya is saying.
-- 'What, did your mouth go dry?' Katya makes this point frankly here: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Did you want to poison us? She fed us that!' Senya challenges promptly to see how Katya will answer on the spot.
-- 'Finally someone put you idiots in your place.' Barinov underscores one direct term toward Katya: "nakonets-to" means "at last, finally", and it carries the main weight of what Barinov is saying.
-- 'When the shift has ended. Right? What is this?' Barinov phrases that reply briskly now: the "-sya" ending on "zakonchilas" ("ended") turns the action inward or makes it happen between people naturally.
-- 'And this is tenderloin and pearls with balsamic vinegar.' Katya continues warmly without any doubt, steering the talk right where she wants it.
-- 'Learn, student! It looks good and tastes pleasant.' Barinov focuses on one clear word with Senya: "student" means "student", and it carries the main weight of what Barinov is saying.
+- 'Right, who ate the tenderloin with balsamic pearls?' Turning to the tenderloin during the talk, Katya puts the question word "kto" right at the start so Senya hears the focus immediately.
+- 'We didn't see anything.' Senya speaks briskly during the talk, shifting the mood of the conversation in a single beat.
+- 'Is it delicious?' Katya responds vividly in this beat and reaches for the Russian word "vkusno" ("it's tasty") right at the heart of the line.
+- 'Honestly speaking, the dish is not tasty at all.' Bringing up the dish during the talk, Senya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Well yes, what I made it from is what it turned out to be.' Katya chimes in promptly without any doubt, making her position completely clear.
+- 'I added the ingredient that you planted in my locker.' Turning to the ingredient around Senya, Katya brings in "ingrediyent" ("ingredient") to make the meaning unmistakable.
+- 'What, did your mouth go dry?' Returning to the mouth with Senya, Katya puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'Did you want to poison us? She fed us that!' Senya challenges promptly while looking straight at Barinov here.
+- 'Finally someone put you idiots in your place.' Pointing to the idiots on the spot, Barinov reaches for the Russian word "nakonets-to" ("at last, finally") right at the heart of the line.
+- 'When the shift has ended. Right? What is this?' Addressing the shift to Katya, the "-sya" ending on "zakonchilas" ("ended") marks an action that unfolds mutually or turns back on the speaker.
+- 'And this is tenderloin and pearls with balsamic vinegar.' Katya answers warmly around Barinov, so Barinov knows she is not just making small talk.
+- 'Learn, student! It looks good and tastes pleasant.' Underscoring the student beside Katya, Barinov chooses "student" ("student") so Katya gets the point right away.

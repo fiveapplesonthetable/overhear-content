@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, this is not a horse.' Mikhail points to one loaded term with Denis: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'On the other hand, he is a very thoroughbred pony.' Mikhail directs that line beside Katya: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
-- 'Take the horse, we are even.' Mikhail counters briskly hearing Denis, letting the remark speak for itself.
-- 'They must not see us together.' Katya chooses one vivid detail in reply: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
-- 'I just wanted to ask about your father.' Denis phrases this statement with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Dad needs an operation in Germany.' Katya weighs in wryly as they talk, so Mikhail knows she is not just making small talk.
-- 'We are looking for money everywhere right now.' Katya uses one colorful touch with Denis: "seychas" means "now", and it carries the main weight of what Katya is saying.
-- 'Denis, please do not pressure me.' Katya shapes this point on cue: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'It is truly very hard for me right now.' Katya stands firm earnestly as things stand, letting the remark speak for itself.
-- 'I am flying to Saint Petersburg right now.' Denis frames this vivid touch with Mikhail: "seychas" means "now", and it carries the main weight of what Denis is saying.
-- 'But we never actually talked.' Katya weighs in evenly before Denis, steering the talk right where she wants it.
-- 'Stand here and guard the horse.' Mikhail holds firm bluntly in this moment, saying out loud what both of them already know.
+- 'Wait, this is not a horse.' Pointing to the knight at once, Mikhail chooses "podozhdi" ("wait", from the root "podozhdat") so Katya hears the exact meaning.
+- 'On the other hand, he is a very thoroughbred pony.' Highlighting how thoroughbred he is on the spot, Mikhail pivots with "zato" ("on the bright side, to make up for it") to flip a drawback into a plus.
+- 'Take the horse, we are even.' Talking about the final pay toward Katya, Mikhail makes it clear to Katya that he means every word.
+- 'They must not see us together.' Katya replies directly with Mikhail and uses "dolzhny" ("must, should", from "dolzhen") to make the point stick.
+- 'I just wanted to ask about your father.' Discussing the father during the talk, Denis uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Dad needs an operation in Germany.' Katya replies wryly in this moment, without trying to dress up how she really feels.
+- 'We are looking for money everywhere right now.' Touching on the money on the spot, Katya brings in "dengi" ("money") to make the meaning unmistakable.
+- 'Denis, please do not pressure me.' Katya follows up promptly at once and lands on "davi" ("pressure", built on "davit") to keep the statement grounded.
+- 'It is truly very hard for me right now.' Katya counters earnestly without any doubt, leaving no doubt about where she stands.
+- 'I am flying to Saint Petersburg right now.' Denis continues warmly before Katya and centers the remark on "piter" ("petersburg") without any extra fuss.
+- 'But we never actually talked.' Katya continues boldly beside Denis and reaches for the Russian word "pogovorili" ("had a talk", built from "pogovorit") right at the center of the line.
+- 'Stand here and guard the horse.' Mikhail follows up bluntly across the room, watching Katya's face to see how the news lands.

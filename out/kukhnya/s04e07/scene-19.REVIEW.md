@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What an amazing atmosphere you have in here!' The guest uses one sharp expression toward Denis: "udivitelnaya" means "surprising" (from "udivitelnyy"), giving the line its exact edge.
-- 'Live pigeons are flying in the hall, just like in Paris!' The guest holds firm dryly with a smile, refusing to let the moment slip past.
-- 'Gavriil Ilyich, wait, I will explain everything right now!' Nagiyev steps in briskly on the spot, making his position completely clear.
-- 'No, thank you, gentlemen, all the very best to you!' The guest underscores one familiar term at once: "spasibo" means "thank you", and it carries the main weight of what the guest is saying.
-- 'All the best, goodbye, respected Gavriil Ilyich.' Nagiyev responds quietly with Denis, saying out loud what both of them already know.
-- 'Oh no, this simply cannot be!' Denis counters pointedly toward Nagiyev, letting the remark speak for itself.
-- 'Where did that live pigeon under the cover come from?' Denis grounds one pointed word right here: "kryshkoy" means "pigeon", and it carries the main weight of what Denis is saying.
-- 'Sasha, please, just shut your mouth and leave!' Nagiyev frames the remark calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Go away from here quickly, do not make me angry right now!' Nagiyev stands firm candidly to be clear, testing Denis's reaction in the middle of the exchange.
-- 'Denis, was it you who hid a street pigeon in there?' The guest frames one memorable expression in earnest: "ulichnogo" means "pigeon" (from "ulichnyy"), giving the line its exact edge.
-- 'Such an important banquet fell through because of a silly bird!' Nagiyev responds calmly to be clear, shifting the whole mood of the room in a single beat.
-- 'All right, Dima, then it was just not meant to be today.' Denis opens up right away watching Nagiyev, grounding the moment in plain reality.
+- 'What an amazing atmosphere you have in here!' Bringing up an amazing atmosphere in front of Nagiyev, the guest uses "udivitelnaya" ("surprising", from "udivitelnyy") to make the point stick.
+- 'Live pigeons are flying in the hall, just like in Paris!' Insisting on how live things are in the exchange, the guest lands on "zhivyye" ("live", built on "zhivoy") to keep the statement grounded.
+- 'Gavriil Ilyich, wait, I will explain everything right now!' Nagiyev proceeds briskly with a shrug, so the guest knows he is not just making small talk.
+- 'No, thank you, gentlemen, all the very best to you!' Emphasizing the thank around Nagiyev, the guest chooses "spasibo" ("thank you") so Nagiyev gets the point right away.
+- 'All the best, goodbye, respected Gavriil Ilyich.' Turning to the meeting around the guest, Nagiyev reaches for the Russian word "uvazhayemyy" ("respected, esteemed") right at the heart of the line.
+- 'Oh no, this simply cannot be!' Denis weighs in pointedly with Nagiyev, keeping the focus on what actually matters here.
+- 'Where did that live pigeon under the cover come from?' Talking about the hands in the exchange, Denis lands on "kryshkoy" ("pigeon") as the key everyday word here.
+- 'Sasha, please, just shut your mouth and leave!' Focusing on the mouth right here, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Go away from here quickly, do not make me angry right now!' Nagiyev speaks up candidly without a pause, shifting the mood of the conversation in a single beat.
+- 'Denis, was it you who hid a street pigeon in there?' Touching on a street pigeon at once, the guest brings in "ulichnogo" ("pigeon", from "ulichnyy") as the key Russian word here.
+- 'Such an important banquet fell through because of a silly bird!' Pointing to an important banquet at once, Nagiyev uses "vazhnyy" ("important") to carry the main weight of the thought.
+- 'All right, Dima, then it was just not meant to be today.' Denis reacts right away without holding back, steering the talk right where he wants it.

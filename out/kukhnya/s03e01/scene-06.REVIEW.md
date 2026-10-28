@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not to be born a woman.' Barinov continues earnestly toward Nagiyev, keeping the focus on what actually matters here.
-- 'And why do you have no moustache?' Barinov reaches for this direct piece at once: "usov" means "moustache", and it carries the main weight of what Barinov is saying.
-- 'I only hire cooks with moustaches.' Barinov counters dryly toward Nagiyev, so Nagiyev knows he is not just making small talk.
-- 'I will find you a cook with one phone call.' Nagiyev weighs in firmly to be clear, letting the remark speak for itself.
-- 'Where is my phone?' Nagiyev emphasizes this vivid detail in earnest: "telefon" means "phone", and it carries the main weight of what Nagiyev is saying.
-- 'Yes, good afternoon. Who am I speaking with?' Vika brings that point without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'How can I help you?' Vika inquires eagerly how Barinov expects that to work in practice.
-- 'Thank you, of course.' Vika emphasizes one sharp term at once: "spasibo" means "thank you", and it carries the main weight of what Vika is saying.
-- 'But I am not planning to change jobs.' Vika puts this warning in earnest: the "-sya" ending on "sobirayus" ("am planning") turns the action inward or makes it happen between people naturally.
-- 'I will think about it later.' Vika pushes back boldly without any doubt, so Nagiyev knows she is not just making small talk.
-- 'All right. Excellent.' Vika reaches for this sharp piece on cue: "khorosho" means "good, fine", and it carries the main weight of what Vika is saying.
-- 'Goodbye.' Vika delivers this warning to Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Not to be born a woman.' Barinov responds earnestly hearing Nagiyev, refusing to let the moment slip past.
+- 'And why do you have no moustache?' Mentioning the moustache right here, Barinov puts the emphasis on "usov" ("moustache") in the middle of the talk.
+- 'I only hire cooks with moustaches.' Addressing the cooks during the talk, Barinov puts the weight on "povarov" ("cooks", from "povar") as the exchange unfolds.
+- 'I will find you a cook with one phone call.' Nagiyev speaks firmly during the talk, without trying to dress up how he really feels.
+- 'Where is my phone?' Underscoring his phone right here, Nagiyev lands on "telefon" ("phone") as the key everyday word here.
+- 'Yes, good afternoon. Who am I speaking with?' Showing how good things are in the exchange, Vika keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'How can I help you?' Vika inquires eagerly while looking straight at Nagiyev here.
+- 'Thank you, of course.' Vika promptly delivers this word of thanks toward Nagiyev using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'But I am not planning to change jobs.' Checking on the job at once, the "-sya" ending on "sobirayus" ("am planning") marks an action that unfolds mutually or turns back on the speaker.
+- 'I will think about it later.' Vika reacts boldly in their talk, making her position completely clear.
+- 'All right. Excellent.' Vika answers firmly beside Nagiyev and reaches for the Russian word "khorosho" ("good, fine") right at the heart of the line.
+- 'Goodbye.' Vika promptly offers this polite farewell right on cue using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.

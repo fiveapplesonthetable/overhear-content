@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is always nice when people love you.' Max favors this key word toward Kostya: "priyatno" means "pleasant", and it carries the main weight of what Max is saying.
-- 'But worst of all is when they ignore you.' Max reaches for one direct piece in reply: "ignoriruyut" means "to ignore" (from "ignorirut"), giving the line its exact edge.
-- 'Hi, I made an omelette for you.' Max chimes in pointedly with a shrug, bringing things back to earth after the buildup.
-- 'There is no point getting angry at each other.' Max reaches for one direct piece in earnest: "zlitsya" means "to be angry", and it carries the main weight of what Max is saying.
-- 'We are family, after all.' Max aims the reply without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well, and what does that mean?' Max checks point-blank where this conversation is heading next.
-- 'Have you forgiven me?' Max uses one sharp choice toward Kostya: "prostila" means "would forgive" (from "prostit"), giving the line its exact edge.
-- 'We quarrel over such little things.' Max shares this warning at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Soon we will have a baby.' Max holds firm dryly before Kostya, making his position completely clear.
-- 'You have a day off today, right?' Kostya spotlights one loaded choice for Max: "vykhodnoy" means "a day off", and it carries the main weight of what Kostya is saying.
-- 'I slept so well.' Kostya brings the remark with candor: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Sit with Styopa for a bit.' Kostya fires back openly beside Max, refusing to let the moment slip past.
+- 'It is always nice when people love you.' Max proceeds warmly before Kostya and leans on "priyatno" ("pleasant") to give the whole sentence its punch.
+- 'But worst of all is when they ignore you.' Max reacts pointedly with Kostya, letting the remark speak for itself.
+- 'Hi, I made an omelette for you.' Max gently gives this casual greeting in the exchange using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'There is no point getting angry at each other.' Mentioning the friend with Kostya, Max leans on "druga" ("the friend", a form of "drug") to give the remark its edge.
+- 'We are family, after all.' Focusing on the family right here, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, and what does that mean?' Max checks point-blank about what Kostya just brought up.
+- 'Have you forgiven me?' Max opens up readily in front of Kostya and brings in "prostila" ("would forgive", from "prostit") as the key Russian word here.
+- 'We quarrel over such little things.' Following up openly before Kostya, the "-sya" ending on "ssorimsya" ("to quarrel") marks an action that unfolds mutually or turns back on the speaker.
+- 'Soon we will have a baby.' Max continues dryly without holding back, testing Kostya's reaction in the middle of the exchange.
+- 'You have a day off today, right?' Talking about a day at once, Kostya leans on "vykhodnoy" ("a day off") to give the whole sentence its punch.
+- 'I slept so well.' Weighing in smoothly before Max, the "-sya" ending on "vyspalsya" ("got enough sleep") marks an action that unfolds mutually or turns back on the speaker.
+- 'Sit with Styopa for a bit.' Kostya jumps in openly toward Max, leaving no doubt about where he stands.

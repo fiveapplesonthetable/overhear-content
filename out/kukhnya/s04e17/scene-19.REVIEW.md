@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My dad is an irresponsible eccentric.' Denis grounds this sharp touch on cue: "bezotvetstvennyy" means "irresponsible", and it carries the main weight of what Denis is saying.
-- 'And I have been waiting for my prince for a long time.' Denis reacts candidly across the room, leaving no doubt about where he stands.
-- 'Probably his horse fell ill.' Denis speaks up lightly as they talk, bringing things back to earth after the buildup.
-- 'And the restaurant owner is no better than the horse.' Denis uses one vivid touch in reply: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'He parties himself, yet scolds me.' Denis holds firm lightly across the room, bringing things back to earth after the buildup.
-- 'But you should perceive everything like this!' Denis fires back steadily hearing Katya, refusing to let the moment slip past.
-- 'My dad is still full of energy!' Denis reaches for one concrete piece on cue: "papasha" means "daddy, pop", and it carries the main weight of what Denis is saying.
-- 'And soon I will have a brother!' Denis offers this warning on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'There will be no prince, there will be a king instead!' Denis opens up openly without a pause, keeping the focus on what actually matters here.
-- 'The owner shouted for no reason today.' Denis spotlights one vivid word toward Katya: "khozyain" means "owner", and it carries the main weight of what Denis is saying.
-- 'On the bright side, I am young and beautiful!' Denis voices this update calmly now: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
-- 'Denis, this song is simply wonderful!' Katya reacts earnestly before Denis, letting the remark speak for itself.
+- 'My dad is an irresponsible eccentric.' Showing how irresponsible things are in this beat, Denis reaches for the Russian word "bezotvetstvennyy" ("irresponsible") right at the heart of the line.
+- 'And I have been waiting for my prince for a long time.' Mentioning his prince during the talk, Denis lands on "printsa" ("prince") as the key everyday word here.
+- 'Probably his horse fell ill.' Denis speaks up lightly in this moment, shifting the mood of the conversation in a single beat.
+- 'And the restaurant owner is no better than the horse.' Mentioning the restaurant with Katya, Denis brings in "restorana" ("restaurant", from "restoran") as the key Russian word here.
+- 'He parties himself, yet scolds me.' Denis speaks evenly before Katya and puts the weight on "gulyayet" ("walks, is walking", from "gulyat") as the exchange unfolds.
+- 'But you should perceive everything like this!' Denis fires back steadily without holding back, letting the remark speak for itself.
+- 'My dad is still full of energy!' Touching on the daddy during the talk, Denis puts the emphasis on "papasha" ("daddy, pop") in the middle of the talk.
+- 'And soon I will have a brother!' Denis responds briskly around Katya, keeping the focus on what actually matters here.
+- 'There will be no prince, there will be a king instead!' Pointing to the prince during the talk, Denis brings the exchange with Katya back to practical reality.
+- 'The owner shouted for no reason today.' Talking about the owner with Katya, Denis centers the remark on "khozyain" ("owner") without any extra fuss.
+- 'On the bright side, I am young and beautiful!' Mentioning the beautiful around Katya, Denis pivots with "zato" ("on the bright side, to make up for it") to flip a drawback into a plus.
+- 'Denis, this song is simply wonderful!' Katya pushes back earnestly across the room, watching Denis's face to see how the news lands.

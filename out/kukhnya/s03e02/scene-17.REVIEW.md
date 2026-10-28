@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, I understand we will not manage to reach an agreement.' Nagiyev aims this point without fuss: the "-sya" ending on "dogovoritsya" ("to reach an agreement") turns the action inward or makes it happen between people naturally.
-- 'In dividing the property we will act according to the law.' Kristina follows up boldly with a shrug, before Nagiyev can change the subject.
-- 'Well, all right.' Nagiyev drops this statement without pause: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kristina is on board.
-- 'Since you have started to rob me, let me treat you to lunch.' Nagiyev sends the reply right away: the word "davayte" is the polite or group version of "let's", inviting Kristina into the plan right away.
-- 'We have molecular cuisine.' Nagiyev holds firm at once watching Kristina, before Kristina can change the subject.
-- 'A delight! Molecule to molecule.' Nagiyev chooses this key expression for Kristina: "molekula" means "molecule", and it carries the main weight of what Nagiyev is saying.
-- 'Vitya, how well-timed! Can you spare a second?' Nagiyev puts that reply without pause: putting the question word "kak" right at the front of the line lets Kristina hear the point of the question on the very first beat.
-- 'Please prepare for us that dish with the pearls.' Nagiyev steps in candidly across the room, leaving no doubt about where he stands.
-- 'Here, two portions for our guests.' Nagiyev centers one concrete detail at once: "portsii" means "portions" (from "portsiya"), giving the line its exact edge.
-- 'And do not spare the secret ingredient.' Nagiyev stands firm earnestly without holding back, leaving no doubt about where he stands.
-- 'In short, just like for yourself.' Nagiyev stands firm honestly without holding back, making his position completely clear.
-- 'Off you go.' Nagiyev leans on one direct word at once: "stupay" means "go on, off you go" (from "stupat"), giving the line its exact edge.
+- 'Well, I understand we will not manage to reach an agreement.' Speaking naturally before Kristina, the "-sya" ending on "dogovoritsya" ("to reach an agreement") marks an action that unfolds mutually or turns back on the speaker.
+- 'In dividing the property we will act according to the law.' Kristina cuts in boldly with a sigh, making her position completely clear.
+- 'Well, all right.' Nagiyev directly extends this word of agreement while facing Kristina using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Since you have started to rob me, let me treat you to lunch.' Bringing up the lunch beside Kristina, Nagiyev uses the polite or group form "davayte" ("let's") to bring Kristina into the plan.
+- 'We have molecular cuisine.' Nagiyev follows up at once with a shrug, to clear the air between them once and for all.
+- 'A delight! Molecule to molecule.' Talking about the molecule around Kristina, Nagiyev uses "molekula" ("molecule") to carry the main weight of the thought.
+- 'Vitya, how well-timed! Can you spare a second?' Turning to a second to Kristina, Nagiyev puts the question word "kak" right at the start so Kristina hears the focus immediately.
+- 'Please prepare for us that dish with the pearls.' Nagiyev replies candidly in this moment, grounding the moment in plain reality.
+- 'Here, two portions for our guests.' Highlighting the portions during the talk, Nagiyev centers the thought on "portsii" ("portions", from "portsiya") without wasting a word.
+- 'And do not spare the secret ingredient.' Emphasizing the secret ingredient in this beat, Nagiyev uses "ingrediyenta" ("ingredient", from "ingrediyent") to make the point stick.
+- 'In short, just like for yourself.' Nagiyev replies honestly toward Kristina, making his position completely clear.
+- 'Off you go.' Nagiyev speaks vividly with Kristina and reaches for the Russian word "stupay" ("go on, off you go", built from "stupat") right at the center of the line.

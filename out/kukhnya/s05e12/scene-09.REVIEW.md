@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, tell me, is it true that pregnant women want romance more?' Max checks straight out before Barinov can change the subject.
-- 'And why do you ask?' Kostya sends the reaction for Max: putting the question word "zachem" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Vika's sister said that Vika wants it.' Max weighs in honestly without holding back, bringing things back to earth after the buildup.
-- 'Ah, well then go for it!' Kostya speaks warmly with a nod, grounding the moment in plain reality.
-- 'Lavrov, come in! I need advice. I want to make a surprise for Elena Pavlovna.' Barinov underscores one vivid piece toward Kostya: "syurpriz" means "surprise", and it carries the main weight of what Barinov is saying.
-- 'What, did you mess up again? And what does she like?' Max voices that remark without pause: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Flowers? A date on the roof? And what music does she like?' Max wonders quietly why things suddenly took this turn between them.
-- 'I do not know, a CD of Agutin is lying in her car.' Barinov features one sharp detail for Max: "mashine" means "car" (from "mashina"), giving the line its exact edge.
-- 'Maybe you will sing to her? Kostya sang for Nastya, remember?' Max puts the remark right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'In my opinion, it was very touching.' Max jumps in decisively as they talk, steering the talk right where he wants it.
-- 'When you yell at us—get out!' Barinov spotlights one key expression for Kostya: "poshyol" means "went, set off" (from "poyti"), giving the line its exact edge.
-- 'Chef, a carriage!' Max states the reply without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Kostyan, tell me, is it true that pregnant women want romance more?' Max checks straight out about what Kostya just brought up.
+- 'And why do you ask?' Stepping in openly with Max, Kostya puts the question word "zachem" right at the start so Max hears the focus immediately.
+- 'Vika's sister said that Vika wants it.' Addressing the sister right here, Max centers the remark on "sestra" ("sister") without any extra fuss.
+- 'Ah, well then go for it!' Kostya counters warmly with Max, keeping the focus on what actually matters here.
+- 'Lavrov, come in! I need advice. I want to make a surprise for Elena Pavlovna.' Emphasizing a surprise with Kostya, Barinov uses "syurpriz" ("surprise") to carry the main weight of the thought.
+- 'What, did you mess up again? And what does she like?' Jumping in promptly around Barinov, Max puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Flowers? A date on the roof? And what music does she like?' Max wonders quietly about what Barinov just brought up.
+- 'I do not know, a CD of Agutin is lying in her car.' Turning to the car to Max, Barinov centers the thought on "mashine" ("car", from "mashina") without wasting a word.
+- 'Maybe you will sing to her? Kostya sang for Nastya, remember?' Cutting in promptly right here, Max keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'In my opinion, it was very touching.' Max speaks decisively on the spot, so Barinov knows he is not just making small talk.
+- 'When you yell at us—get out!' Barinov weighs in frankly during the talk and lands on "poshyol" ("went, set off", built on "poyti") to keep the statement grounded.
+- 'Chef, a carriage!' Bringing up a carriage in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, our cook has finally woken up!' Kostya chimes in warmly on the spot, shifting the whole mood of the room in a single beat.
-- 'Max, cook us something to eat, please.' Kostya reaches for one familiar piece for Nastya: "prigotov" means "prepare" (from "prigotovit"), giving the line its exact edge.
-- 'Friends, today is Vika's birthday!' Max shapes this line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Oh, our cook has finally woken up!' Kostya opens up warmly watching Max, keeping the focus on what actually matters here.
+- 'Max, cook us something to eat, please.' Kostya fires back firmly around Max and reaches for the Russian word "prigotov" ("prepare", built from "prigotovit") right at the center of the line.
+- 'Friends, today is Vika's birthday!' Turning to the birth before Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
 - 'What, again, does she have a birthday every year?' Kostya presses candidly whether Nastya really thought this through.
-- 'Kostya, I asked you to finish gluing little flowers on the invitations.' Nastya favors one vivid choice toward Kostya: "priglasitelnyye" means "wedding invitations" (from "priglasitelnyy"), giving the line its exact edge.
-- 'Really her birthday, and did you wish her happy birthday?' Nastya drops the reply with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Well no, we are not speaking right now.' Max reacts right away with a shrug, before Kostya can change the subject.
-- 'Definitely wish her happy birthday, she will be pleased!' Nastya picks this sharp word toward Max: "obyazatelno" means "surely, without fail", and it carries the main weight of what Nastya is saying.
-- 'Kostya, could you not have bought the exact same phone as mine?' Max puts that remark calmly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'I just want to be as cool as you!' Kostya cuts in boldly to be clear, letting the remark speak for itself.
-- 'Do you think I did not want an expensive dress and a good restaurant?' Nastya grounds this direct element at once: "khoroshiy" means "good", and it carries the main weight of what Nastya is saying.
-- 'I guarantee you, we will have the finest inexpensive wedding!' Kostya directs the reaction before Nastya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Kostya, I asked you to finish gluing little flowers on the invitations.' Discussing the invitations on the spot, Nastya puts the weight on "priglasitelnyye" ("wedding invitations", from "priglasitelnyy") as the exchange unfolds.
+- 'Really her birthday, and did you wish her happy birthday?' Replying naturally at once, Nastya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Well no, we are not speaking right now.' Max reacts right away with Nastya, before Nastya can change the subject.
+- 'Definitely wish her happy birthday, she will be pleased!' Nastya cuts in briskly in the exchange and reaches for the Russian word "obyazatelno" ("surely, without fail") right at the heart of the line.
+- 'Kostya, could you not have bought the exact same phone as mine?' Reacting boldly around Kostya, Max leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'I just want to be as cool as you!' Kostya responds boldly facing Max, testing Max's reaction in the middle of the exchange.
+- 'Do you think I did not want an expensive dress and a good restaurant?' Talking about an expensive dress during the talk, Nastya reaches for the Russian word "khoroshiy" ("good") right at the heart of the line.
+- 'I guarantee you, we will have the finest inexpensive wedding!' Turning to the wedding beside Nastya, Kostya reaches for "u nas" ("by us, at our place") to talk about what they share.

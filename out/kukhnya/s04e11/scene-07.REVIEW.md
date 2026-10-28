@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By copying facial expressions, you gain control.' Lyova leans on one telling expression on cue: "poluchayete" means "to receive" (from "poluchat"), giving the line its exact edge.
-- 'Can you imagine what German thought up?' Barinov directs that answer with warmth: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'He planted a live snake on us!' Barinov cuts in openly without a pause, refusing to let the moment slip past.
-- 'What should we do to him?' Barinov stresses one familiar element toward Lyova: "sdelat" means "to do", and it carries the main weight of what Barinov is saying.
-- 'Do nothing at all, chef.' Lyova aims this warning beside Barinov: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'He will be waiting for a dirty trick from you.' Lyova replies at once around Barinov, leaving no doubt about where he stands.
-- 'No, that is too simple for him.' Barinov chooses one clear term at once: "slishkom" means "too", and it carries the main weight of what Barinov is saying.
-- 'Not simple at all, dear chef.' Lyova gives the thought on cue: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Why are you doing that right now?' Barinov asks plainly where this conversation is heading next.
-- 'And what am I doing?' Lyova stresses one familiar expression at once: "delayu" means "I make" (from "delat"), giving the line its exact edge.
-- 'You are getting on my nerves really badly!' Barinov grounds one concrete element at once: "nerviruyesh" means "to badly" (from "nervirut"), giving the line its exact edge.
-- 'Well, do not get so worked up, chef.' Lyova reacts honestly beside Barinov, without trying to dress up how he really feels.
-- 'What, are you mocking me?' Barinov reaches for one pointed touch for Lyova: "izdevayeshsya" means "are kidding" (from "izdevatsya"), giving the line its exact edge.
-- 'Just get out of here already!' Barinov spotlights one clear expression for Lyova: "otsyuda" means "from here", and it carries the main weight of what Barinov is saying.
+- 'By copying facial expressions, you gain control.' Talking about the copying in front of Barinov, Lyova chooses "kopiruya" ("copying") so Barinov gets the point right away.
+- 'Can you imagine what German thought up?' Pushing back earnestly in the exchange, Barinov puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'He planted a live snake on us!' Barinov answers openly without any doubt, before Lyova can change the subject.
+- 'What should we do to him?' Barinov chimes in promptly with Lyova and centers the remark on "sdelat" ("to do") without any extra fuss.
+- 'Do nothing at all, chef.' Cutting in evenly to Barinov, Lyova pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'He will be waiting for a dirty trick from you.' Lyova steps in at once with a sigh, letting the remark speak for itself.
+- 'No, that is too simple for him.' Cutting in evenly beside Lyova, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Not simple at all, dear chef.' Holding firm candidly in front of Barinov, Lyova adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Why are you doing that right now?' Barinov asks plainly before Lyova can change the subject.
+- 'And what am I doing?' Lyova speaks dryly with Barinov and centers the thought on "delayu" ("I make", from "delat") without wasting a word.
+- 'You are getting on my nerves really badly!' Barinov replies openly facing Lyova, grounding the moment in plain reality.
+- 'Well, do not get so worked up, chef.' Lyova cuts in honestly without holding back, testing Barinov's reaction in the middle of the exchange.
+- 'What, are you mocking me?' Barinov steps in readily in this beat and reaches for the Russian word "izdevayeshsya" ("are kidding", built from "izdevatsya") right at the center of the line.
+- 'Just get out of here already!' Barinov continues wryly in this moment, so Lyova knows he is not just making small talk.

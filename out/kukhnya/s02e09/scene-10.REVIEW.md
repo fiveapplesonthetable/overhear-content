@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I cannot seem to figure this out.' Fedya focuses on one classic detail for Barinov: "razobratsya" means "to deal with", and it carries the main weight of what Fedya is saying.
-- 'Oh, Fyodor, Fyodor.' Fedya brings the reply briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Which means.' Barinov reacts boldly across the room, leaving no doubt about where he stands.
-- 'How could you not know that?' Fedya stresses one pointed expression toward Barinov: "znat" means "to know", and it carries the main weight of what Fedya is saying.
-- 'He is going to freeze in there.' Barinov brings that reply without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I left him a crate of cognac.' Fedya holds firm bluntly watching Barinov, before Barinov can change the subject.
-- 'He will not freeze.' Barinov anchors this sharp detail in reply: "zamerznet" means "will freeze" (from "zamyorznut"), giving the line its exact edge.
-- 'That is my cognac.' Fedya delivers the thought for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Better the cognac than...' Barinov speaks up dryly around Fedya, making his position completely clear.
-- 'Fedya, it is written right here on the box.' Barinov underscores this clear word right here: "korobke" means "box" (from "korobka"), giving the line its exact edge.
-- 'Fedya, what kind of joke is this?' Barinov brings the remark around Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Chef, I cannot seem to figure this out.' Fedya jumps in dryly in the exchange and brings in "razobratsya" ("to deal with") to make the meaning unmistakable.
+- 'Oh, Fyodor, Fyodor.' Weighing in smoothly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Which means.' Barinov answers boldly hearing Fedya, steering the talk right where he wants it.
+- 'How could you not know that?' Fedya cuts in decisively beside Barinov and centers the remark on "znat" ("to know") without any extra fuss.
+- 'He is going to freeze in there.' Weighing in firmly in front of Fedya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I left him a crate of cognac.' Fedya pushes back bluntly during the talk, so Barinov knows he is not just making small talk.
+- 'He will not freeze.' Barinov proceeds frankly in this beat and leans on "zamerznet" ("will freeze", a form of "zamyorznut") to give the remark its edge.
+- 'That is my cognac.' Pointing to his cognac with Barinov, Fedya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Better the cognac than...' Barinov steps in dryly toward Fedya, shifting the mood of the conversation in a single beat.
+- 'Fedya, it is written right here on the box.' Emphasizing the box at once, Barinov lands on "korobke" ("box", built on "korobka") to keep the statement grounded.
+- 'Fedya, what kind of joke is this?' Pointing to the joke in front of Fedya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
 - 'Fedya, what is going on?' Barinov tests quietly why things suddenly took this turn between them.
-- 'Come on, open up right now!' Barinov anchors one telling expression for Fedya: "otkryvay" means "to open" (from "otkryvat"), giving the line its exact edge.
+- 'Come on, open up right now!' Barinov jumps in directly at once and uses "otkryvay" ("to open", from "otkryvat") to make the point stick.

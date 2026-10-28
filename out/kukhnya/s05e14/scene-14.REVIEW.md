@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The young woman called yesterday about the hostess vacancy.' Nastya weighs in calmly around Denis, bringing things back to earth after the buildup.
-- 'She was told to come see us this evening.' Nastya steps in boldly facing Kostya, watching Kostya's face to see how the news lands.
-- 'Nastya, your mom just called over there.' Kostya spotlights one vivid word for Denis: "zvonila" means "called" (from "zvonit"), giving the line its exact edge.
-- 'She said that the little boy's fever went up.' Kostya stands firm honestly with a nod, saying out loud what both of them already know.
-- 'Then tell Vika that I left urgently.' Nastya opens up bluntly before Denis, testing Denis's reaction in the middle of the exchange.
-- 'Kostya, have you heard the main news of the day yet?' Denis grounds one practical touch with Nastya: "glavnuyu" means "main" (from "glavnyy"), giving the line its exact edge.
-- 'It seems the hotel owner Eleonora is sleeping with Max!' Denis opens up warmly without holding back, so Kostya knows he is not just making small talk.
-- 'Come on, where did you get such nonsense from?' Kostya probes firmly whether Nastya really thought this through.
-- 'I saw him near her suite with my own eyes!' Denis sharpens one direct term with Kostya: "sobstvennymi" means "own, proper" (from "sobstvennyy"), giving the line its exact edge.
-- 'He was just quietly walking out of her room.' Denis jumps in quietly with Nastya, refusing to let the moment slip past.
-- 'She invited him tonight to get whatever he wants!' Denis fires back bluntly in this moment, making his position completely clear.
-- 'Then soon we are going to have a new head chef!' Kostya chooses this key term on cue: "shef-povar" means "head chef", and it carries the main weight of what Kostya is saying.
+- 'The young woman called yesterday about the hostess vacancy.' Focusing on the girlfriend before Kostya, Nastya lands on "devushka" ("girlfriend") as the key everyday word here.
+- 'She was told to come see us this evening.' Nastya weighs in boldly across the room, to clear the air between them once and for all.
+- 'Nastya, your mom just called over there.' Discussing the mum with Nastya, Kostya lands on "mama" ("mum, mother") as the key everyday word here.
+- 'She said that the little boy's fever went up.' Bringing up the temperature during the talk, Kostya chooses "temperatura" ("temperature") so Nastya gets the point right away.
+- 'Then tell Vika that I left urgently.' Nastya reacts bluntly hearing Kostya, grounding the moment in plain reality.
+- 'Kostya, have you heard the main news of the day yet?' Discussing the main news right here, Denis reaches for the Russian word "glavnuyu" ("main", built from "glavnyy") right at the center of the line.
+- 'It seems the hotel owner Eleonora is sleeping with Max!' Addressing the landlady to Kostya, Denis leans on "khozyayka" ("landlady") to give the whole sentence its punch.
+- 'Come on, where did you get such nonsense from?' Kostya probes firmly whether Denis really thought this through.
+- 'I saw him near her suite with my own eyes!' Turning to the eyes with Kostya, Denis chooses "sobstvennymi" ("own, proper", from the root "sobstvennyy") so Kostya hears the exact meaning.
+- 'He was just quietly walking out of her room.' Emphasizing the number on the spot, Denis puts the weight on "nomera" ("number, phone number", from "nomer") as the exchange unfolds.
+- 'She invited him tonight to get whatever he wants!' Denis steps in bluntly in this moment, making his position completely clear.
+- 'Then soon we are going to have a new head chef!' Discussing a new head around Denis, Kostya leans on "shef-povar" ("head chef") to give the whole sentence its punch.

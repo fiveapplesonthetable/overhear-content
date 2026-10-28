@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything in my life is great.' Max chooses one classic choice in earnest: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
-- 'No, I am serious.' Max makes this point plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I started dating a new girl, Sasha.' Max reacts dryly without a pause, without trying to dress up how he really feels.
-- 'She is outgoing and beautiful.' Max grounds one vivid piece at once: "obshchitelnaya" means "sociable, outgoing" (from "obshchitelnyy"), giving the line its exact edge.
-- 'And overall everything is going well for me.' Max drops the reply before Barinov: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Good morning.' Sasha holds firm wryly in this moment, saying out loud what both of them already know.
-- 'I have a surprise for you.' Sasha reaches for this clear term for Barinov: "syurpriz" means "surprise", and it carries the main weight of what Sasha is saying.
-- 'Kris gave me two vouchers to Cyprus.' Sasha answers lightly with a smile, steering the talk right where she wants it.
-- 'Something did not work out for her there.' Sasha answers bluntly as things stand, keeping the focus on what actually matters here.
-- 'Let us fly together.' Sasha highlights one memorable piece on cue: "poletim" means "to fly" (from "poletet"), giving the line its exact edge.
-- 'Wait, I do not understand?' Max phrases this update before Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Viktor Petrovich, this man is a genius.' Sasha chimes in earnestly in this moment, grounding the moment in plain reality.
-- 'And throw all of this into the trash.' Barinov anchors one colorful touch in earnest: "vybrosite" means "to throw out" (from "vybrosit"), giving the line its exact edge.
+- 'Everything in my life is great.' Addressing his life in this beat, Max reaches for the Russian word "zhizni" ("life", built from "zhizn") right at the center of the line.
+- 'No, I am serious.' Speaking smoothly right here, Max leans on "seryozno" ("seriously"), which carries the whole predicate in Russian without needing "it is".
+- 'I started dating a new girl, Sasha.' Max chimes in dryly with a smile, watching Sasha's face to see how the news lands.
+- 'She is outgoing and beautiful.' Showing how sociable she is on the spot, Max lands on "obshchitelnaya" ("sociable, outgoing", built on "obshchitelnyy") to keep the statement grounded.
+- 'And overall everything is going well for me.' Leaning in plainly in this beat, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Good morning.' Sasha naturally shares this morning greeting in the exchange using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'I have a surprise for you.' Mentioning a surprise to Max, Sasha centers the remark on "syurpriz" ("surprise") without any extra fuss.
+- 'Kris gave me two vouchers to Cyprus.' Underscoring the vouchers before Max, Sasha leans on "putevki" ("holiday vouchers", a form of "putyovka") to give the remark its edge.
+- 'Something did not work out for her there.' Sasha pushes back bluntly with a sigh, before Max can change the subject.
+- 'Let us fly together.' Sasha cuts in readily in front of Max and brings in "poletim" ("to fly", from "poletet") as the key Russian word here.
+- 'Wait, I do not understand?' Following up firmly at once, Max keeps normal statement word order here, turning the line into a question for Sasha purely through rising pitch.
+- 'Viktor Petrovich, this man is a genius.' Sasha cuts in earnestly with a shrug, before Barinov can change the subject.
+- 'And throw all of this into the trash.' Focusing on the dumpster around Sasha, Barinov reaches for the Russian word "pomoyku" ("dumpster", built from "pomoyka") right at the center of the line.

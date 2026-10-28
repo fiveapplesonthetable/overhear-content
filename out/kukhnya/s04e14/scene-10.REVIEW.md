@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, do not worry, everything will be fine.' Vika features this telling element right here: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'I know all your cooks very well!' Barinov voices the reaction toward Vika: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Someone will always mix everything up or forget.' Barinov continues firmly toward the inspector, shifting the whole mood of the room in a single beat.
-- 'They recently fired a worker like that here.' Vika frames one loaded word toward the inspector: "rabotnika" means "worker" (from "rabotnik"), giving the line its exact edge.
-- 'Viktoriya Sergeyevna, excuse me, we have an emergency.' The inspector sends the remark frankly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'The sanitary service is closing our restaurant today.' The inspector answers boldly facing Vika, to clear the air between them once and for all.
-- 'What do you mean closing, why did this suddenly happen?' Vika picks one practical term for Barinov: "zakryvayet" means "to close, to shut" (from "zakryvat"), giving the line its exact edge.
-- 'During the inspection in the storeroom they found rodents.' The inspector reacts promptly with Vika, letting the remark speak for itself.
-- 'I am forced to suspend the operation of your restaurant.' The inspector fires back candidly in this moment, saying out loud what both of them already know.
-- 'The restaurant is closed until the elimination of all violations.' The inspector features this sharp piece toward Vika: "ustraneniya" means "elimination", and it carries the main weight of what the inspector is saying.
-- 'But where did rats come from in our place?' Vika shapes that answer for Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'It is a pity that they did not catch the main rat!' Barinov pushes back calmly to be clear, letting the remark speak for itself.
+- 'Vitya, do not worry, everything will be fine.' Vika speaks up dryly beside Barinov and uses "volnuysya" ("worry", from "volnovatsya") to make the point stick.
+- 'I know all your cooks very well!' Underscoring the cooks with Vika, Barinov lands on "povarov" ("cooks", built on "povar") to keep the statement grounded.
+- 'Someone will always mix everything up or forget.' Barinov cuts in firmly with a smile, watching Vika's face to see how the news lands.
+- 'They recently fired a worker like that here.' Touching on a worker to Barinov, Vika brings in "rabotnika" ("worker", from "rabotnik") as the key Russian word here.
+- 'Viktoriya Sergeyevna, excuse me, we have an emergency.' Bringing up the incident right here, the inspector reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'The sanitary service is closing our restaurant today.' The inspector follows up boldly during the talk, grounding the moment in plain reality.
+- 'What do you mean closing, why did this suddenly happen?' Vika steps in readily during the talk and leans on "zakryvayet" ("to close, to shut", a form of "zakryvat") to give the remark its edge.
+- 'During the inspection in the storeroom they found rodents.' Touching on the check in this beat, the inspector reaches for the Russian word "proverke" ("check, inspection", built from "proverka") right at the center of the line.
+- 'I am forced to suspend the operation of your restaurant.' The inspector steps in candidly with a smile, letting the remark speak for itself.
+- 'The restaurant is closed until the elimination of all violations.' Highlighting the elimination in the exchange, the inspector lands on "ustraneniya" ("elimination") as the key everyday word here.
+- 'But where did rats come from in our place?' Turning to the rat in front of Barinov, Vika reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'It is a pity that they did not catch the main rat!' Barinov reacts calmly without a pause, making his position completely clear.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, Victoria Sergeyevna forgot her phone here again.' Senya holds firm steadily as they talk, watching Fedya's face to see how the news lands.
-- 'We ought to go and quickly return it to her.' Fedya counters briskly with a smile, testing Senya's reaction in the middle of the exchange.
-- 'We will definitely return it, but first let's do one fun thing!' Senya spotlights one concrete piece in reply: "obyazatelno" means "surely, without fail", and it carries the main weight of what Senya is saying.
-- 'Attention, whole kitchen, watch our magicians right now!' Senya proceeds steadily during the talk, watching Max's face to see how the news lands.
-- 'Right now the great magicians Arseniy and Fyodor will show a miracle!' Max speaks at once facing Fedya, steering the talk right where he wants it.
-- 'With the help of one message we will bring a man back from Sochi!' See how Senya updates Max on cue — the Russian word "soobshcheniya" ("messages", built from "soobshcheniye") does the heavy lifting.
-- 'Write quickly that Vika has started giving birth right now!' Fedya proceeds plainly in their talk, shifting the whole mood of the room in a single beat.
-- 'Done, the message is sent, now we wait for his speedy return!' Senya reacts calmly beside Max, refusing to let the moment slip past.
-- 'Oh, excuse me, I completely forgot to turn off my phone.' Max centers this direct piece in reply: "vyklyuchit" means "turn off", and it carries the main weight of what Max is saying.
-- 'Do not worry, on this plane the connection works fine.' Fedya steps in briskly as they talk, before Senya can change the subject.
-- 'Then let's drink a glass to our successful flight!' Max opens up bluntly in their talk, so Fedya knows he is not just making small talk.
-- 'Wait, I just got an urgent text message from Vika!' Max centers this key detail in reply: "soobshcheniye" means "message", and it carries the main weight of what Max is saying.
+- 'Look, Victoria Sergeyevna forgot her phone here again.' Underscoring the phone right here, Senya brings in "telefon" ("phone") to make the meaning unmistakable.
+- 'We ought to go and quickly return it to her.' Fedya proceeds briskly hearing Senya, grounding the moment in plain reality.
+- 'We will definitely return it, but first let's do one fun thing!' Talking about the matter right here, Senya centers the thought on "vesyoloye" ("cheerful, merry", from "vesyolyy") without wasting a word.
+- 'Attention, whole kitchen, watch our magicians right now!' Discussing his magicians in front of Max, Senya leans on "fokusnikov" ("magicians, tricksters", a form of "fokusnik") to give the remark its edge.
+- 'Right now the great magicians Arseniy and Fyodor will show a miracle!' Max steps in at once hearing Senya, grounding the moment in plain reality.
+- 'With the help of one message we will bring a man back from Sochi!' Focusing on the messages in this beat, Senya uses "soobshcheniya" ("messages", from "soobshcheniye") to make the point stick.
+- 'Write quickly that Vika has started giving birth right now!' Mentioning the beginning in this beat, Fedya reaches for the Russian word "nachala" ("beginning", built from "nachalo") right at the center of the line.
+- 'Done, the message is sent, now we wait for his speedy return!' Senya cuts in calmly without holding back, refusing to let the moment slip past.
+- 'Oh, excuse me, I completely forgot to turn off my phone.' Turning to his phone during the talk, Max lands on "vyklyuchit" ("turn off") as the key everyday word here.
+- 'Do not worry, on this plane the connection works fine.' Pointing to the airplane to Max, Fedya lands on "samolyote" ("airplane, aircraft", built on "samolyot") to keep the statement grounded.
+- 'Then let's drink a glass to our successful flight!' Max follows up bluntly beside Fedya, before Fedya can change the subject.
+- 'Wait, I just got an urgent text message from Vika!' Turning to the message with Fedya, Max chooses "soobshcheniye" ("message") so Fedya gets the point right away.

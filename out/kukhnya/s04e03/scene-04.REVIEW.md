@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's celebrate the prisoner's release.' Barinov centers one clear term for Elena: "osvobozhdeniye" means "prisoner's" (from "osvobozhdeniy"), giving the line its exact edge.
-- 'I do not drink in the workplace, and I advise you not to either.' Elena grounds one concrete expression with the inspector: "rabochem" means "work" (from "rabochiy"), giving the line its exact edge.
-- 'Besides, you arrived almost an hour late.' Elena continues briskly with a nod, keeping the focus on what actually matters here.
-- 'You don't really think I am going to work as a sous-chef?' Barinov leans on this telling expression in reply: "su-shefom" means "sous-chef" (from "su-shef"), giving the line its exact edge.
-- 'Actually, that was the condition of your release.' Elena drops the remark beside Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Are you being serious right now?' Barinov quizzes earnestly in front of the inspector without any preamble.
-- 'Sergey Konstantinovich, hello.' Barinov grounds one familiar piece in earnest: "konstantinovich" means "konstantinovich", and it carries the main weight of what Barinov is saying.
-- 'Good health to you.' The inspector aims the comment briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'You have only two kitchens to choose from.' The inspector stands firm warmly as things stand, steering the talk right where he wants it.
-- 'In this restaurant or in a prison camp near Vorkuta.' The inspector uses this vivid piece in reply: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'And how long do I have to serve my time here?' Barinov voices the reaction right away: putting the question word "skolko" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'That is up to your guarantor to decide.' The inspector jumps in warmly facing Elena, testing Elena's reaction in the middle of the exchange.
+- 'Let's celebrate the prisoner's release.' Turning to the release in the exchange, Barinov uses "osvobozhdeniye" ("prisoner's", from "osvobozhdeniy") to make the point stick.
+- 'I do not drink in the workplace, and I advise you not to either.' Elena proceeds pointedly hearing Barinov, shifting the mood of the conversation in a single beat.
+- 'Besides, you arrived almost an hour late.' Elena opens up briskly with a nod, making her position completely clear.
+- 'You don't really think I am going to work as a sous-chef?' Barinov weighs in candidly in the exchange and chooses "su-shefom" ("sous-chef", from the root "su-shef") so Elena hears the exact meaning.
+- 'Actually, that was the condition of your release.' Talking about the release beside Barinov, Elena drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Are you being serious right now?' Barinov quizzes earnestly how Elena expects that to work in practice.
+- 'Sergey Konstantinovich, hello.' Barinov simply sends this formal greeting right on cue using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Good health to you.' Returning to the health during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'You have only two kitchens to choose from.' The inspector proceeds warmly on the spot, testing Barinov's reaction in the middle of the exchange.
+- 'In this restaurant or in a prison camp near Vorkuta.' Touching on the restaurant right here, the inspector chooses "restorane" ("restaurant", from the root "restoran") so Barinov hears the exact meaning.
+- 'And how long do I have to serve my time here?' Mentioning the term on the spot, Barinov puts the question word "skolko" right at the start so the inspector hears the focus immediately.
+- 'That is up to your guarantor to decide.' The inspector replies warmly hearing Barinov, shifting the mood of the conversation in a single beat.

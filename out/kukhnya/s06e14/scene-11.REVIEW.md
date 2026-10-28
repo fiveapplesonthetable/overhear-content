@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need to save up some money first.' Lyova directs that line toward Ainura: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'I need to buy a ring and book a restaurant.' Lyova counters plainly without holding back, before Denis can change the subject.
-- 'I will tell you one secret right now.' Ainura focuses on this vivid expression toward Denis: "sekret" means "secret", and it carries the main weight of what Ainura is saying.
-- 'Back home we sometimes steal the bride.' Ainura makes that remark for Lyova: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'It is almost like an application, only more fun.' Ainura chimes in calmly without any doubt, to clear the air between them once and for all.
-- 'And later you save money for the wedding together.' Ainura highlights one direct piece toward Lyova: "sobirayete" means "to collect" (from "sobirat"), giving the line its exact edge.
-- 'My husband also stole me when I was young.' Ainura proceeds bluntly in this moment, to clear the air between them once and for all.
-- 'Kostya, tell me, why did you call us?' Denis asks sharply to see how Lyova will answer on the spot.
-- 'What is this strange sheet of paper?' Denis stresses one sharp term in reply: "strannyy" means "strange, odd", and it carries the main weight of what Denis is saying.
-- 'Katya left this at the bar today.' Lyova holds firm firmly with a smile, shifting the whole mood of the room in a single beat.
-- 'It seems she is choosing between you two right now.' Lyova steps in calmly without holding back, saying out loud what both of them already know.
-- 'Look, do I really have big ears?' Listen to how Denis reacts to Lyova on cue — the Russian word "bolshiye" ("big, serious", built from "bolshoy") does the heavy lifting.
+- 'I need to save up some money first.' Checking on the money in the exchange, Lyova leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'I need to buy a ring and book a restaurant.' Lyova speaks up plainly without a pause, testing Ainura's reaction in the middle of the exchange.
+- 'I will tell you one secret right now.' Turning to the secret during the talk, Ainura lands on "sekret" ("secret") as the key everyday word here.
+- 'Back home we sometimes steal the bride.' Focusing on the bride before Lyova, Ainura reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'It is almost like an application, only more fun.' Addressing the statement without a pause, Ainura lets Lyova see exactly where things stand.
+- 'And later you save money for the wedding together.' Bringing up the money on the spot, Ainura centers the thought on "sobirayete" ("to collect", from "sobirat") without wasting a word.
+- 'My husband also stole me when I was young.' Highlighting the youth with Denis, Ainura lands on "molodosti" ("in youth", built on "molodost") to keep the statement grounded.
+- 'Kostya, tell me, why did you call us?' Denis asks sharply while looking straight at Ainura here.
+- 'What is this strange sheet of paper?' Emphasizing how strange things are to Lyova, Denis uses "strannyy" ("strange, odd") to carry the main weight of the thought.
+- 'Katya left this at the bar today.' Highlighting the bar right here, Lyova leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'It seems she is choosing between you two right now.' Lyova replies calmly with a smile, keeping the focus on what actually matters here.
+- 'Look, do I really have big ears?' Bringing up the ears to Lyova, Denis chooses "bolshiye" ("big, serious", from the root "bolshoy") so Lyova hears the exact meaning.

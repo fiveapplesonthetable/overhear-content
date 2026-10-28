@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I need to step out for some documents.' Vika follows up sharply to settle things, before Kostya can change the subject.
-- 'By the way, tell me, how is your leg?' Vika leans on one sharp piece for Nastya: "kstati" means "by the way", and it carries the main weight of what Vika is saying.
-- 'Everything is fine, thank you very much, Viktoriya Sergeyevna.' Kostya shares that reply for Nastya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Kostya, what happened, what is wrong with your leg?' Nastya quizzes firmly how Vika expects that to work in practice.
-- 'Everything is fine with me, Nastya.' Kostya grounds one classic choice toward Nastya: "normalno" means "fine, OK", and it carries the main weight of what Kostya is saying.
-- 'What do you mean fine when I heard everything!' Nastya counters openly around Vika, watching Vika's face to see how the news lands.
-- 'Do not lie to me, you do not want to scare me?' Nastya quizzes eagerly to see how Kostya will answer on the spot.
-- 'Come on, show me your leg right now!' Nastya features one pointed touch for Vika: "pokazyvay" means "show" (from "pokazyvat"), giving the line its exact edge.
-- 'Everything is fine, I am telling you!' Kostya features one colorful choice on cue: "normalno" means "fine, OK", and it carries the main weight of what Kostya is saying.
-- 'I do not have any fractures at all.' Kostya reacts firmly as they talk, to clear the air between them once and for all.
-- 'What, do you not believe me at all?' Kostya favors one sharp word with Nastya: "sovsem" means "at all", and it carries the main weight of what Kostya is saying.
-- 'Kostya, I knew you were lying to me!' Nastya reacts plainly beside Vika, so Vika knows she is not just making small talk.
-- 'You are going to the hospital this instant!' Nastya weighs in dryly toward Kostya, before Kostya can change the subject.
+- 'Kostya, I need to step out for some documents.' Vika answers sharply without holding back, so Kostya knows she is not just making small talk.
+- 'By the way, tell me, how is your leg?' Talking about the foot at once, Vika lands on "noga" ("foot, leg") as the key everyday word here.
+- 'Everything is fine, thank you very much, Viktoriya Sergeyevna.' Discussing the thank in the exchange, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Kostya, what happened, what is wrong with your leg?' Nastya quizzes firmly how Kostya expects that to work in practice.
+- 'Everything is fine with me, Nastya.' Kostya cuts in evenly beside Nastya and puts the emphasis on "normalno" ("fine, OK") in the middle of the talk.
+- 'What do you mean fine when I heard everything!' Nastya speaks warmly to Kostya and uses "normalno" ("fine, OK") to carry the main weight of the thought.
+- 'Do not lie to me, you do not want to scare me?' Nastya quizzes eagerly if there is more going on behind the scenes.
+- 'Come on, show me your leg right now!' Turning to the foot beside Kostya, Nastya leans on "pokazyvay" ("show", a form of "pokazyvat") to give the remark its edge.
+- 'Everything is fine, I am telling you!' Kostya cuts in firmly watching Nastya, to clear the air between them once and for all.
+- 'I do not have any fractures at all.' Talking about the fractures without any doubt, Kostya puts the real issue right on the table for Nastya.
+- 'What, do you not believe me at all?' Kostya pushes back calmly to Nastya and chooses "sovsem" ("at all") so Nastya gets the point right away.
+- 'Kostya, I knew you were lying to me!' Nastya pushes back firmly to Kostya and leans on "vryosh" ("are lying", a form of "vrat") to give the remark its edge.
+- 'You are going to the hospital this instant!' Nastya proceeds dryly toward Kostya, steering the talk right where she wants it.

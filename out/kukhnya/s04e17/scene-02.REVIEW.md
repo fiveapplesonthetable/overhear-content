@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna, come in, please.' German puts the reaction without pause: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I wanted to thank you once again.' Vika responds honestly in their talk, watching German's face to see how the news lands.
-- 'I want to say a big thank you to you.' Vika anchors this vivid element at once: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'You saved me from being fired.' Vika underscores this clear touch with German: "uvolneniya" means "dismissal, resignation" (from "uvolneniye"), giving the line its exact edge.
-- 'I do not know how to thank you.' Vika proceeds pointedly to be clear, shifting the whole mood of the room in a single beat.
-- 'Perhaps you will try this dessert?' German centers one colorful word on cue: "poprobuyete" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
-- 'Did you prepare it yourself just now?' Vika shares that reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for German purely through rising pitch at the end.
-- 'There is no need for any special gratitude.' German speaks up pointedly with Vika, to clear the air between them once and for all.
-- 'After all, you and I are friends.' German sharpens one practical element in earnest: "druzya" means "friends" (from "drug"), giving the line its exact edge.
-- 'Well, at least in the future.' German answers right away with Vika, to clear the air between them once and for all.
-- 'I wish you bon appetit.' German fires back pointedly facing Vika, to clear the air between them once and for all.
-- 'This looks simply delicious.' Vika chooses one telling piece at once: "vyglyadit" means "looks" (from "vyglyadet"), giving the line its exact edge.
+- 'Viktoriya Sergeyevna, come in, please.' German openly speaks this courtesy word toward Vika using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'I wanted to thank you once again.' Vika pushes back honestly during the talk, without trying to dress up how she really feels.
+- 'I want to say a big thank you to you.' Pointing to a big thank before German, Vika puts the weight on "bolshoye" ("big, very much", from "bolshoy") as the exchange unfolds.
+- 'You saved me from being fired.' Vika replies steadily watching German, watching German's face to see how the news lands.
+- 'I do not know how to thank you.' Vika speaks up pointedly hearing German, making her position completely clear.
+- 'Perhaps you will try this dessert?' Highlighting the dessert around Vika, German uses "poprobuyete" ("to try, to taste", from "poprobovat") to make the point stick.
+- 'Did you prepare it yourself just now?' Answering boldly in this beat, Vika keeps normal statement word order here, turning the line into a question for German purely through rising pitch.
+- 'There is no need for any special gratitude.' German replies pointedly with a shrug, letting the remark speak for itself.
+- 'After all, you and I are friends.' Underscoring the friends right here, German uses "druzya" ("friends", from "drug") to make the point stick.
+- 'Well, at least in the future.' Discussing the prospect in this beat, German leans on "perspektive" ("prospect, future", a form of "perspektiva") to give the remark its edge.
+- 'I wish you bon appetit.' German speaks pointedly with a smile, to clear the air between them once and for all.
+- 'This looks simply delicious.' Vika fires back sharply to German and reaches for the Russian word "vkusno" ("it's tasty") right at the heart of the line.

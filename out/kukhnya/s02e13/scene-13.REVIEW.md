@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, that is not me.' Nagiyev voices the remark without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You have the wrong person.' Senya shares this point beside Nagiyev: the "-sya" ending on "oshiblis" ("to make a mistake") turns the action inward or makes it happen between people naturally.
-- 'That is all. Goodbye.' Nagiyev holds firm bluntly before Senya, grounding the moment in plain reality.
-- 'The police! Apparently.' Senya points to one memorable piece at once: "politsiya" means "police", and it carries the main weight of what Senya is saying.
-- 'Why is he taking so long?' Nagiyev offers that answer around Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What are we supposed to do now?' Senya quizzes skeptically while looking straight at Nagiyev here.
-- 'Hold on, hold on, just a second.' Nagiyev uses one classic expression at once: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
-- 'Hello. Hello.' Senya shares that remark with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'No, that is not me.' Holding firm promptly beside Senya, spoken Russian drops "is" and "are" in the present, letting Nagiyev place the two halves side by side.
+- 'You have the wrong person.' Reacting frankly right here, the "-sya" ending on "oshiblis" ("to make a mistake") marks an action that unfolds mutually or turns back on the speaker.
+- 'That is all. Goodbye.' Nagiyev continues bluntly with Senya, steering the talk right where he wants it.
+- 'The police! Apparently.' Focusing on the police in front of Nagiyev, Senya uses "politsiya" ("police") to carry the main weight of the thought.
+- 'Why is he taking so long?' Pressing on warmly to Senya, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What are we supposed to do now?' Senya quizzes skeptically what Nagiyev is actually getting at here.
+- 'Hold on, hold on, just a second.' Weighing in calmly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Hello. Hello.' Turning dryly with Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
 - 'Dima, where are you?' Senya prompts straight out why things suddenly took this turn between them.
-- 'I am in that place...' Senya brings this point for Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'At the restaurant.' Nagiyev puts that point facing Senya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Drinking coffee.' Senya chimes in openly without holding back, leaving no doubt about where he stands.
-- 'I will call you back.' Nagiyev frames one memorable word for Senya: "perezvonyu" means "will call back" (from "perezvonit"), giving the line its exact edge.
+- 'I am in that place...' Stepping in openly with Nagiyev, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'At the restaurant.' Checking on the restaurant at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Drinking coffee.' Senya reacts openly with a shrug, steering the talk right where he wants it.
+- 'I will call you back.' Nagiyev speaks up naturally at once and uses "perezvonyu" ("will call back", from "perezvonit") to make the point stick.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Nikita, are you heading home right now?' Katya puts that point with warmth: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Well yes, my shift in the dining room has finally ended.' Nikita speaks up wryly across the room, refusing to let the moment slip past.
-- 'Will you give me a lift to the metro? Oh, sorry, you have no car.' Katya uses this direct piece right here: "podbrosish" means "give a lift" (from "podbrosit"), giving the line its exact edge.
-- 'Actually no, I have had a car for a long time.' Nikita puts the reply plainly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'It is just very old and breaks down all the time.' Nikita jumps in candidly before the guest, leaving no doubt about where he stands.
-- 'So it is in the repair shop, which is why I take the metro.' Nikita highlights one pointed term on cue: "remonte" means "renovation" (from "remont"), giving the line its exact edge.
-- 'Great, then let's ride to the metro together?' Katya shapes this update on cue: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Let's go, with you the trip will be much more fun!' Nikita answers plainly in this moment, refusing to let the moment slip past.
-- 'Hello, yesterday I ordered an old rental car from you.' Nikita emphasizes this clear touch for the guest: "zdravstvuyte" means "hello", and it carries the main weight of what Nikita is saying.
-- 'Tell me, why do you need such an old one, if it is not a secret?' The guest sends the comeback with warmth: putting the question word "zachem" right at the front of the line lets Nikita hear the point of the question on the very first beat.
-- 'You can consider it a special form of love.' Nikita fires back earnestly before the guest, saying out loud what both of them already know.
-- 'Alright, take the keys, just be careful on the turns!' The guest features this vivid term toward Nikita: "ostorozhneye" means "more carefully", and it carries the main weight of what the guest is saying.
+- 'Oh, Nikita, are you heading home right now?' Pushing back plainly with Nikita, Katya keeps normal statement word order here, turning the line into a question for Nikita purely through rising pitch.
+- 'Well yes, my shift in the dining room has finally ended.' Nikita speaks wryly on the spot, leaving no doubt about where he stands.
+- 'Will you give me a lift to the metro? Oh, sorry, you have no car.' Bringing up the metro before Nikita, Katya chooses "podbrosish" ("give a lift", from the root "podbrosit") so Nikita hears the exact meaning.
+- 'Actually no, I have had a car for a long time.' Cutting in firmly in this beat, Nikita drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'It is just very old and breaks down all the time.' Nikita speaks candidly facing Katya, steering the talk right where he wants it.
+- 'So it is in the repair shop, which is why I take the metro.' Mentioning the renovation in this beat, Nikita reaches for the Russian word "remonte" ("renovation", built from "remont") right at the center of the line.
+- 'Great, then let's ride to the metro together?' Turning to the metro around Nikita, Katya starts with "davay" ("come on, let's") to invite Nikita right into the action.
+- 'Let's go, with you the trip will be much more fun!' Nikita chimes in plainly in this moment, testing Katya's reaction in the middle of the exchange.
+- 'Hello, yesterday I ordered an old rental car from you.' Highlighting the car at once, Nikita chooses "zdravstvuyte" ("hello") so the guest gets the point right away.
+- 'Tell me, why do you need such an old one, if it is not a secret?' Looking over calmly in this beat, the guest puts the question word "zachem" right at the start so Nikita hears the focus immediately.
+- 'You can consider it a special form of love.' Nikita steps in earnestly on the spot, making his position completely clear.
+- 'Alright, take the keys, just be careful on the turns!' Underscoring the turn right here, the guest reaches for the Russian word "povorotakh" ("turn, bend", built from "povorot") right at the center of the line.

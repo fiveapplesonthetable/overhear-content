@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I just came out to the kitchen to drink some cold water.' The guest shapes that remark around Gulya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I just came out to the kitchen to drink some cold water.' Turning to the kitchen beside Gulya, the guest uses the little word "prosto" ("simply, just") to make the point sound effortless.
 - 'So, you and Lyova decided to deceive me?' The guest inquires candidly about what Gulya just brought up.
-- 'Forgive me, but you were the one who deceived us first.' Gulya centers this direct element in reply: "pervyye" means "first" (from "pervyy"), giving the line its exact edge.
-- 'You made up this whole story with your fracture.' Gulya fires back warmly with the guest, refusing to let the moment slip past.
-- 'Is all this on purpose so that Lyova would return to you?' Gulya quizzes earnestly in front of the guest without any preamble.
-- 'Naturally, and so that he would see you much less often.' The guest colors one memorable touch on cue: "yestestvenno" means "naturally", and it carries the main weight of what the guest is saying.
-- 'Know that I do not need anyone else at all.' Gulya phrases this answer for the guest: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Careful, now you need to urgently go for an X-ray!' Gulya responds plainly in this moment, before the guest can change the subject.
-- 'I cannot go right now, otherwise Lyova will understand everything immediately.' The guest picks one classic element right here: "seychas" means "now", and it carries the main weight of what the guest is saying.
-- 'Tomorrow morning my kind neighbor will drive me there.' The guest speaks up quietly with a sigh, shifting the whole mood of the room in a single beat.
-- 'Although you will tell him everything anyway.' The guest speaks decisively with a smile, letting the remark speak for itself.
-- 'I will not say anything, drink a painkiller for now.' Gulya anchors one loaded expression toward the guest: "obezbolivayushcheye" means "painkiller", and it carries the main weight of what Gulya is saying.
+- 'Forgive me, but you were the one who deceived us first.' Gulya chimes in quietly with the guest and puts the weight on "pervyye" ("first", from "pervyy") as the exchange unfolds.
+- 'You made up this whole story with your fracture.' Highlighting the fracture around the guest, Gulya chooses "perelomom" ("with a fracture", from the root "perelom") so the guest hears the exact meaning.
+- 'Is all this on purpose so that Lyova would return to you?' Gulya quizzes earnestly what the guest is actually getting at here.
+- 'Naturally, and so that he would see you much less often.' The guest pushes back sharply at once and chooses "yestestvenno" ("naturally") so Gulya gets the point right away.
+- 'Know that I do not need anyone else at all.' Turning evenly in front of the guest, Gulya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Careful, now you need to urgently go for an X-ray!' Gulya answers plainly facing the guest, keeping the focus on what actually matters here.
+- 'I cannot go right now, otherwise Lyova will understand everything immediately.' The guest weighs in directly in this beat and chooses "poymyot" ("will understand", from the root "ponyat") so Gulya hears the exact meaning.
+- 'Tomorrow morning my kind neighbor will drive me there.' Highlighting the neighbor to Gulya, the guest brings in "dobraya" ("friendly, kind", from "dobryy") as the key Russian word here.
+- 'Although you will tell him everything anyway.' The guest steps in decisively in their talk, watching Gulya's face to see how the news lands.
+- 'I will not say anything, drink a painkiller for now.' Pointing to a painkiller to the guest, Gulya reaches for the Russian word "obezbolivayushcheye" ("painkiller") right at the heart of the line.

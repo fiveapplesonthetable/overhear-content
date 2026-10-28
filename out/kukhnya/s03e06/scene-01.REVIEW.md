@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When love leaves, emptiness remains.' Max colors one direct expression with Vika: "ostayotsya" means "stays" (from "ostavatsya"), giving the line its exact edge.
-- 'No one can fill it.' Max hands over this line plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Well, or almost no one.' Max speaks firmly to settle things, without trying to dress up how he really feels.
-- 'At the club you were bolder.' Vika emphasizes one colorful element on cue: "smeleye" means "bolder, braver" (from "smelyy"), giving the line its exact edge.
-- 'And besides, you are simply a pig.' Vika drops the reply with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'What is wrong with you today?' Max quizzes earnestly if there is more going on behind the scenes.
-- 'Listen, let us go to the bathroom quickly.' Max focuses on one classic choice for Vika: "vannuyu" means "bathroom" (from "vannaya"), giving the line its exact edge.
-- 'Alright, let us go there.' Vika shares this line around Max: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'You started choosing other girls.' Vika counters candidly across the room, shifting the whole mood of the room in a single beat.
-- 'She does not have hair like mine.' Vika chooses this telling detail in reply: "volos" means "hair", and it carries the main weight of what Vika is saying.
-- 'Leave me alone, why are you pestering me?' Max hands over the reply toward Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'After all, you yourself did not want to be with me.' Max continues sharply watching Vika, making his position completely clear.
+- 'When love leaves, emptiness remains.' Pointing to the love with Vika, Max uses "ostayotsya" ("stays", from "ostavatsya") to make the point stick.
+- 'No one can fill it.' Jumping in openly at once, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Well, or almost no one.' Max counters firmly watching Vika, so Vika knows he is not just making small talk.
+- 'At the club you were bolder.' Turning to the club on the spot, Vika puts the weight on "smeleye" ("bolder, braver", from "smelyy") as the exchange unfolds.
+- 'And besides, you are simply a pig.' Talking about a pig in the exchange, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'What is wrong with you today?' Max quizzes earnestly how Vika expects that to work in practice.
+- 'Listen, let us go to the bathroom quickly.' Turning to the bathroom in the exchange, Max chooses "vannuyu" ("bathroom", from the root "vannaya") so Vika hears the exact meaning.
+- 'Alright, let us go there.' Vika warmly sends this word of agreement without hesitation using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'You started choosing other girls.' Vika counters candidly without any doubt, bringing things back to earth after the buildup.
+- 'She does not have hair like mine.' Talking about the hair in this beat, Vika uses "volos" ("hair") to carry the main weight of the thought.
+- 'Leave me alone, why are you pestering me?' Looking over frankly to Vika, Max puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'After all, you yourself did not want to be with me.' Max responds sharply with a smile, leaving no doubt about where he stands.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Vika! Welcome back.' Max delivers this warning at once: opening with the casual greeting "privet" ("hi") signals right away that Max and Katya are on familiar terms.
-- 'Thanks, I thought I would never see you again.' Vika responds wryly hearing Max, watching Max's face to see how the news lands.
-- 'I am glad you came back. How is your first day?' Max reaches for one practical expression right here: "vernulas" means "returned" (from "vernutsya"), giving the line its exact edge.
-- 'Honestly speaking, I am already a little tired today.' Vika speaks calmly watching Max, letting the remark speak for itself.
-- 'One could not tell, you look great!' Max follows up quietly without any doubt, bringing things back to earth after the buildup.
-- 'I should go away more often, so many compliments!' Vika leans on one sharp word in earnest: "komplimentov" means "of compliments" (from "kompliment"), giving the line its exact edge.
-- 'I thought that you were abroad right now.' Max stresses one familiar detail with Katya: "granitsey" means "abroad" (from "granitsa"), giving the line its exact edge.
-- 'They offered me this job at the last moment.' Vika speaks warmly watching Max, to clear the air between them once and for all.
-- 'Max, what were the two of you talking about just now?' Katya chooses this direct piece for Max: "govorili" means "talked" (from "govorit"), giving the line its exact edge.
-- 'I was trying to find out how she feels about relationships.' Max proceeds calmly with a shrug, refusing to let the moment slip past.
-- 'Well, she categorically forbids them here.' Max steps in candidly to settle things, steering the talk right where he wants it.
-- 'So we had better hide our relationship altogether.' Max underscores this telling word for Vika: "otnosheniya" means "relations, relationship" (from "otnosheniye"), giving the line its exact edge.
-- 'That is nonsense, I will go and talk to her myself!' Katya cuts in frankly with a shrug, bringing things back to earth after the buildup.
-- 'You will only anger her more, let me do it instead.' Max cuts in at once facing Vika, keeping the focus on what actually matters here.
+- 'Hi, Vika! Welcome back.' Max proceeds calmly hearing Vika, watching Vika's face to see how the news lands.
+- 'Thanks, I thought I would never see you again.' Vika pushes back wryly facing Max, steering the talk right where she wants it.
+- 'I am glad you came back. How is your first day?' Making clear how glad he is before Vika, Max lands on "pervyy" ("first") as the key everyday word here.
+- 'Honestly speaking, I am already a little tired today.' Vika proceeds promptly beside Max and puts the emphasis on "segodnya" ("today") in the middle of the talk.
+- 'One could not tell, you look great!' Max cuts in quietly beside Vika, without trying to dress up how he really feels.
+- 'I should go away more often, so many compliments!' Discussing the compliments at once, Vika puts the weight on "komplimentov" ("of compliments", from "kompliment") as the exchange unfolds.
+- 'I thought that you were abroad right now.' Max speaks up honestly on the spot, grounding the moment in plain reality.
+- 'They offered me this job at the last moment.' Vika steps in warmly hearing Max, shifting the mood of the conversation in a single beat.
+- 'Max, what were the two of you talking about just now?' Katya speaks openly before Max and reaches for the Russian word "govorili" ("talked", built from "govorit") right at the center of the line.
+- 'I was trying to find out how she feels about relationships.' Mentioning the attitude in this beat, Max leans on "otnosheniyam" ("attitude, relation", a form of "otnosheniye") to give the remark its edge.
+- 'Well, she categorically forbids them here.' Max proceeds candidly during the talk, testing Katya's reaction in the middle of the exchange.
+- 'So we had better hide our relationship altogether.' Emphasizing the relations in this beat, Max lands on "otnosheniya" ("relations, relationship", built on "otnosheniye") to keep the statement grounded.
+- 'That is nonsense, I will go and talk to her myself!' Addressing the nonsense on the spot, Katya puts the weight on "gluposti" ("nonsense", from "glupost") as the exchange unfolds.
+- 'You will only anger her more, let me do it instead.' Max pushes back at once without any doubt, making his position completely clear.

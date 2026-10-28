@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, I am ready already, let's go!' Denis spotlights one sharp piece in earnest: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
-- 'Where are you headed, to the circus?' Katya directs the comeback calmly now: the "-sya" ending on "sobralsya" ("got ready, planned") turns the action inward or makes it happen between people naturally.
-- 'Because you are dressed like a clown.' Katya proceeds at once during the talk, to clear the air between them once and for all.
-- 'This is my best suit from Voronezh.' Denis features one colorful word right here: "luchshiy" means "best", and it carries the main weight of what Denis is saying.
-- 'Ekaterina, it is good that you are still here.' German hands over that reply with candor: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'I need to leave urgently right now.' German responds honestly to be clear, refusing to let the moment slip past.
-- 'Please look after the kitchen today.' German leans on this direct piece for Denis: "prismotrite" means "to look" (from "prismotrit"), giving the line its exact edge.
-- 'But I cannot tonight.' Katya continues sharply without any doubt, letting the remark speak for itself.
-- 'Then I will relieve you of the position.' German answers right away beside Denis, grounding the moment in plain reality.
-- 'Lilya, I cannot leave work.' Katya spotlights one key term toward German: "raboty" means "of work" (from "rabota"), giving the line its exact edge.
-- 'Come to our restaurant tonight instead.' Katya speaks wryly during the talk, keeping the focus on what actually matters here.
-- 'So you do need me after all?' Denis presses frankly as Katya tries to explain the situation.
-- 'You are needed, but your suit is not.' Katya picks one familiar detail on cue: "kostyum" means "suit", and it carries the main weight of what Katya is saying.
+- 'Katya, I am ready already, let's go!' Denis opens up warmly in front of Katya and lands on "poyekhali" ("here we go", built on "poyekhat") to keep the statement grounded.
+- 'Where are you headed, to the circus?' Reacting openly in front of Denis, the "-sya" ending on "sobralsya" ("got ready, planned") marks an action that unfolds mutually or turns back on the speaker.
+- 'Because you are dressed like a clown.' Katya speaks at once with a smile, so Denis knows she is not just making small talk.
+- 'This is my best suit from Voronezh.' Highlighting how best things are on the spot, Denis leans on "luchshiy" ("best") to give the whole sentence its punch.
+- 'Ekaterina, it is good that you are still here.' Reacting evenly at once, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I need to leave urgently right now.' German opens up honestly watching Denis, watching Denis's face to see how the news lands.
+- 'Please look after the kitchen today.' German directly offers this courtesy word for Katya using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'But I cannot tonight.' Katya counters frankly at once and leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'Then I will relieve you of the position.' German reacts right away on the spot, to clear the air between them once and for all.
+- 'Lilya, I cannot leave work.' Discussing the work during the talk, Katya chooses "raboty" ("of work", from the root "rabota") so German hears the exact meaning.
+- 'Come to our restaurant tonight instead.' Turning to her restaurant with Denis, Katya reaches for the Russian word "priyezzhayte" ("to come, to arrive", built from "priyezzhat") right at the center of the line.
+- 'So you do need me after all?' Denis presses frankly why things suddenly took this turn between them.
+- 'You are needed, but your suit is not.' Emphasizing the suit with Denis, Katya chooses "kostyum" ("suit") so Denis gets the point right away.

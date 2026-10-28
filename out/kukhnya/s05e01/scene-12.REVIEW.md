@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you at it again?' Barinov challenges candidly how Denis expects that to work in practice.
-- 'Chef, we only do it after work.' Denis colors one classic word toward Kostya: "raboty" means "of work" (from "rabota"), giving the line its exact edge.
-- 'There are bets there. Do you want a cut?' Denis frames this answer for Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Fine, only after work.' Barinov speaks up warmly during the talk, leaving no doubt about where he stands.
-- 'That is it, she got really offended.' Denis highlights this sharp element on cue: "obidelas" means "offended" (from "obidetsya"), giving the line its exact edge.
-- 'She is not answering her phone.' Denis replies lightly with Kostya, testing Kostya's reaction in the middle of the exchange.
-- 'How was I supposed to act?' Denis prompts skeptically what Barinov is actually getting at here.
-- 'Listen to me as a good lawyer.' Kostya anchors one key word right here: "khoroshiy" means "good", and it carries the main weight of what Kostya is saying.
-- 'Formally, yes, you are her boyfriend.' Kostya phrases this statement frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'But legally you are nobody to her.' Kostya weighs in openly watching Denis, to clear the air between them once and for all.
-- 'But there is definitely one solution.' Kostya colors one concrete expression right here: "vykhod" means "way out", and it carries the main weight of what Kostya is saying.
-- 'You need to marry her.' Kostya phrases the reply to Denis: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'You love Katya, after all.' Kostya steps in evenly beside Barinov, watching Barinov's face to see how the news lands.
-- 'The workday has already started!' Barinov picks one key term with Kostya: "rabochiy" means "working", and it carries the main weight of what Barinov is saying.
+- 'Are you at it again?' Barinov challenges candidly to see how Denis will answer on the spot.
+- 'Chef, we only do it after work.' Pointing to the work beside Barinov, Denis centers the thought on "raboty" ("of work", from "rabota") without wasting a word.
+- 'There are bets there. Do you want a cut?' Focusing on the bets on the spot, Denis keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Fine, only after work.' Barinov evenly delivers this word of agreement right on cue using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'That is it, she got really offended.' Denis continues smoothly in the exchange and reaches for the Russian word "obidelas" ("offended", built from "obidetsya") right at the center of the line.
+- 'She is not answering her phone.' Emphasizing the phone at once, Denis puts the emphasis on "telefon" ("phone") in the middle of the talk.
+- 'How was I supposed to act?' Denis prompts skeptically if there is more going on behind the scenes.
+- 'Listen to me as a good lawyer.' Focusing on a good lawyer right here, Kostya puts the emphasis on "khoroshiy" ("good") in the middle of the talk.
+- 'Formally, yes, you are her boyfriend.' Discussing the boyfriend to Denis, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'But legally you are nobody to her.' Kostya counters openly without any doubt, leaving no doubt about where he stands.
+- 'But there is definitely one solution.' Emphasizing the way during the talk, Kostya brings in "vykhod" ("way out") to make the meaning unmistakable.
+- 'You need to marry her.' Jumping in candidly on the spot, Kostya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'You love Katya, after all.' Kostya steps in evenly with a sigh, making his position completely clear.
+- 'The workday has already started!' Barinov chimes in sharply right here and chooses "rabochiy" ("working") so Kostya gets the point right away.

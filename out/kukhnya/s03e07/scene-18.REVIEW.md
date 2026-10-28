@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, Vika and I love each other.' Max follows up candidly on the spot, refusing to let the moment slip past.
-- 'And we want very much to be together.' Max underscores one practical element toward Vika: "khotim" means "want" (from "khotet"), giving the line its exact edge.
-- 'And I will definitely pay for your car.' Max replies calmly with a nod, shifting the whole mood of the room in a single beat.
-- 'I will definitely pay you somehow later.' Max jumps in decisively as things stand, before Vika can change the subject.
-- 'Well what a bad day it is today!' Nagiyev centers this direct word in reply: "plokhoy" means "bad", and it carries the main weight of what Nagiyev is saying.
-- 'They wrecked my new car today.' Nagiyev responds decisively with a smile, making his position completely clear.
-- 'And they broke my heart too.' Nagiyev answers right away during the talk, watching Max's face to see how the news lands.
-- 'Dima, please forgive me for everything.' Vika centers one vivid term in earnest: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
-- 'Honestly, I am very sorry.' Vika lays out the comeback with candor: the single Russian word "zhal" ("it is a pity") sets up the whole statement without needing a separate word for "it is".
-- 'No, I am the one who feels sorry for both of you right now.' Nagiyev proceeds candidly in this moment, saying out loud what both of them already know.
-- 'You will not be able to get a job at a single restaurant in Moscow.' Nagiyev stresses one concrete touch in earnest: "ustroitsya" means "to get a job", and it carries the main weight of what Nagiyev is saying.
-- 'Remember, I will simply destroy you!' Nagiyev brings that thought facing Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Dmitry Vladimirovich, Vika and I love each other.' Max chimes in candidly watching Nagiyev, steering the talk right where he wants it.
+- 'And we want very much to be together.' Max continues promptly before Nagiyev and centers the remark on "vmeste" ("together") without any extra fuss.
+- 'And I will definitely pay for your car.' Bringing up the car with Nagiyev, Max uses "obyazatelno" ("surely, without fail") to carry the main weight of the thought.
+- 'I will definitely pay you somehow later.' Max steps in decisively around Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'Well what a bad day it is today!' Nagiyev proceeds briskly during the talk and uses "plokhoy" ("bad") to carry the main weight of the thought.
+- 'They wrecked my new car today.' Underscoring the car at once, Nagiyev puts the weight on "mashinu" ("car", from "mashina") as the exchange unfolds.
+- 'And they broke my heart too.' Nagiyev follows up right away facing Vika, testing Vika's reaction in the middle of the exchange.
+- 'Dima, please forgive me for everything.' Vika chimes in evenly on the spot and uses "prosti" ("sorry, forgive me", from "prostit") to make the point stick.
+- 'Honestly, I am very sorry.' Highlighting how honest she is on the spot, Vika leans on "zhal" ("it is a pity"), which carries the whole predicate in Russian without needing "it is".
+- 'No, I am the one who feels sorry for both of you right now.' Nagiyev steps in candidly with a sigh, grounding the moment in plain reality.
+- 'You will not be able to get a job at a single restaurant in Moscow.' Mentioning a single restaurant before Vika, Nagiyev chooses "restoran" ("restaurant") so Vika gets the point right away.
+- 'Remember, I will simply destroy you!' Looking over calmly before Vika, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.

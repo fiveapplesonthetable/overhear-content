@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is my number, call me tonight.' The hostess favors one telling touch for Max: "segodnya" means "today", and it carries the main weight of what the hostess is saying.
-- 'Miss, actually I am not sitting here alone.' Max voices that thought plainly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Well that is fine, call me when you are alone.' The hostess proceeds frankly with a sigh, keeping the focus on what actually matters here.
-- 'Well how are you here, have you not died of boredom yet?' Vika sharpens this key term for Max: "yeshchyo" means "more, still", and it carries the main weight of what Vika is saying.
-- 'Not of boredom, but I am about to die of hunger right now.' Max weighs in honestly without holding back, steering the talk right where he wants it.
-- 'Let us quickly call our waiter over here.' Max pushes back steadily as they talk, letting the remark speak for itself.
-- 'Max, tell me, is everything alright with you right now?' Vika leans on one practical choice at once: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Yes, everything is fine, why are you suddenly asking?' Max states the comment to Vika: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Maybe because I wanted to hear the truth from you?' Vika questions wryly why things suddenly took this turn between them.
-- 'That girl over there hit on you and gave you her number.' Vika chooses one practical touch toward Max: "telefonchik" means "little phone", and it carries the main weight of what Vika is saying.
-- 'I asked her to do it, I wanted to test how you tell the truth.' Vika favors one concrete expression at once: "poprosila" means "asked" (from "poprosit"), giving the line its exact edge.
-- 'Nothing happened, I threw that phone number away immediately!' Max follows up evenly across the room, testing Vika's reaction in the middle of the exchange.
-- 'Max, telling the truth means telling me everything.' Vika points to this telling choice at once: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
+- 'Here is my number, call me tonight.' Talking about her number at once, the hostess brings in "nomer" ("number") to make the meaning unmistakable.
+- 'Miss, actually I am not sitting here alone.' Touching on the girlfriend in front of the hostess, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Well that is fine, call me when you are alone.' The hostess speaks frankly hearing Max, watching Max's face to see how the news lands.
+- 'Well how are you here, have you not died of boredom yet?' Underscoring the longing on the spot, Vika chooses "yeshchyo" ("more, still") so Max gets the point right away.
+- 'Not of boredom, but I am about to die of hunger right now.' Addressing the hunger in the exchange, Max uses "goloda" ("from hunger", from "golod") to make the point stick.
+- 'Let us quickly call our waiter over here.' Max continues steadily in this moment, to clear the air between them once and for all.
+- 'Max, tell me, is everything alright with you right now?' Discussing the order before Max, Vika uses "poryadke" ("order", from "poryadok") to make the point stick.
+- 'Yes, everything is fine, why are you suddenly asking?' Weighing in smoothly in this beat, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Maybe because I wanted to hear the truth from you?' Vika questions wryly where this conversation is heading next.
+- 'That girl over there hit on you and gave you her number.' Addressing the phone during the talk, Vika puts the emphasis on "telefonchik" ("little phone") in the middle of the talk.
+- 'I asked her to do it, I wanted to test how you tell the truth.' Vika opens up earnestly with a nod, keeping the focus on what actually matters here.
+- 'Nothing happened, I threw that phone number away immediately!' Max opens up evenly across the room, before Vika can change the subject.
+- 'Max, telling the truth means telling me everything.' Emphasizing the truth in the exchange, Vika chooses "pravdu" ("truth", from the root "pravda") so Max hears the exact meaning.

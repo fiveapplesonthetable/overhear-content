@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, I cannot work here.' Kostya underscores this clear touch toward the guest: "rabotat" means "to work", and it carries the main weight of what Kostya is saying.
-- 'Nastya will definitely be against this.' Kostya steps in decisively on the spot, before the guest can change the subject.
-- 'And we will not tell her anything.' The guest counters decisively without any doubt, refusing to let the moment slip past.
-- 'They do not offer a job like this every day.' The guest points to one memorable detail in reply: "predlagayut" means "offer" (from "predlagat"), giving the line its exact edge.
-- 'Well, do you like it here?' The guest drops that point in earnest: the "-sya" ending on "nravitsya" ("is pleasing") turns the action inward or makes it happen between people naturally.
-- 'Yes, and is this real leather?' Kostya prompts firmly how the guest expects that to work in practice.
-- 'Of course, this is genuine pigskin leather.' The guest favors one telling element in reply: "nastoyashchaya" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
-- 'And now press the little button.' The guest responds promptly without any doubt, without trying to dress up how he really feels.
-- 'Bring me some coffee, please.' Kostya weighs in boldly with a nod, leaving no doubt about where he stands.
-- 'So, are you going to work for me?' The guest leans on one concrete touch right here: "rabotat" means "to work", and it carries the main weight of what the guest is saying.
-- 'Let me try working here for now.' Kostya aims this line frankly here: the word "davayte" is the polite or group version of "let's", inviting the guest into the plan right away.
-- 'I have a convenient schedule at the restaurant.' Kostya answers at once with the guest, making his position completely clear.
+- 'No, I cannot work here.' Kostya opens up pointedly at once and brings in "rabotat" ("to work") to make the meaning unmistakable.
+- 'Nastya will definitely be against this.' Kostya responds sharply with the guest and centers the remark on "tochno" ("definitely") without any extra fuss.
+- 'And we will not tell her anything.' The guest jumps in decisively with a shrug, grounding the moment in plain reality.
+- 'They do not offer a job like this every day.' Focusing on a job in front of Kostya, the guest brings in "predlagayut" ("offer", from "predlagat") as the key Russian word here.
+- 'Well, do you like it here?' Speaking promptly at once, the "-sya" ending on "nravitsya" ("is pleasing") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yes, and is this real leather?' Kostya prompts firmly while looking straight at the guest here.
+- 'Of course, this is genuine pigskin leather.' The guest naturally offers this confirmation beside Kostya using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'And now press the little button.' Addressing the button around Kostya, the guest brings in "knopochku" ("little button", from "knopochka") as the key Russian word here.
+- 'Bring me some coffee, please.' Kostya warmly gives this courtesy word as they meet using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'So, are you going to work for me?' The guest speaks up evenly during the talk and centers the remark on "rabotat" ("to work") without any extra fuss.
+- 'Let me try working here for now.' Cutting in calmly during the talk, Kostya uses the polite or group form "davayte" ("let's") to bring the guest into the plan.
+- 'I have a convenient schedule at the restaurant.' Bringing up the restaurant with the guest, Kostya brings the exchange with the guest back to practical reality.

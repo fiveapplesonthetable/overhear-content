@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We carefully put jigsaw puzzles together.' Max uses this direct piece on cue: "staratelno" means "diligently", and it carries the main weight of what Max is saying.
-- 'We want to put together a picture of our happiness.' Max voices this warning calmly now: the "-sya" ending on "khochetsya" ("want, feel like") turns the action inward or makes it happen between people naturally.
-- 'Puzzles do not always come together the right way.' Max weighs in briskly on the spot, saying out loud what both of them already know.
-- 'Holy cow, where am I?' Max states the comment with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Good morning, Max.' Katya aims the comment with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Good morning, Katya.' Max opens up earnestly as things stand, before Nagiyev can change the subject.
-- 'Well, that depends on who you ask today.' Nagiyev chooses this direct element at once: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
-- 'If only I had known about my fate.' Nagiyev holds firm bluntly without any doubt, steering the talk right where he wants it.
-- 'Fate turned its back on me.' Nagiyev weighs in promptly as they talk, without trying to dress up how he really feels.
-- 'Of course, I would have bought a fold-out sofa.' Nagiyev picks one practical expression in earnest: "raskladnoy" means "fold-out", and it carries the main weight of what Nagiyev is saying.
-- 'How did you sleep last night?' Katya makes this statement before Max: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Not bad, thank you.' Max speaks pointedly hearing Nagiyev, without trying to dress up how he really feels.
-- 'Have you seen my jeans?' Max features one familiar piece right here: "dzhinsy" means "jeans", and it carries the main weight of what Max is saying.
+- 'We carefully put jigsaw puzzles together.' Touching on the jigsaw puzzles before Katya, Max uses "staratelno" ("diligently") to carry the main weight of the thought.
+- 'We want to put together a picture of our happiness.' Underscoring a picture during the talk, Max lands on "kartinku" ("picture", built on "kartinka") to keep the statement grounded.
+- 'Puzzles do not always come together the right way.' Max fires back briskly toward Katya, bringing things back to earth after the buildup.
+- 'Holy cow, where am I?' Pushing back boldly with Katya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Good morning, Max.' Katya naturally drops this morning greeting in front of Max using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'Good morning, Katya.' Max lightly speaks this morning greeting beside Katya using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'Well, that depends on who you ask today.' Nagiyev speaks decisively before Max and chooses "segodnya" ("today") so Max gets the point right away.
+- 'If only I had known about my fate.' Pointing to his fate on the spot, Nagiyev reaches for the Russian word "sudbu" ("fate", built from "sudba") right at the center of the line.
+- 'Fate turned its back on me.' Nagiyev fires back promptly beside Katya, watching Katya's face to see how the news lands.
+- 'Of course, I would have bought a fold-out sofa.' Nagiyev warmly shares this confirmation in the exchange using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'How did you sleep last night?' Focusing on the night on the spot, Katya puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'Not bad, thank you.' Max casually sends this word of thanks for Katya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Have you seen my jeans?' Highlighting his jeans with Katya, Max chooses "dzhinsy" ("jeans") so Katya gets the point right away.

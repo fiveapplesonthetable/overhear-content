@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'An oligarch will be sitting at our table.' Eleonora chooses one sharp touch in earnest: "stolikom" means "table" (from "stolik"), giving the line its exact edge.
-- 'They called and will definitely come.' Ilya pushes back firmly in their talk, watching Eleonora's face to see how the news lands.
-- 'Wait, our table is for four.' Ilya answers right away beside Eleonora, without trying to dress up how he really feels.
-- 'And you end up with six people.' Ilya picks this key detail toward Eleonora: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
-- 'You tell me how to do it.' Eleonora underscores one telling piece for Ilya: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
-- 'You are our restaurant director, Ilya.' Eleonora proceeds firmly with a smile, to clear the air between them once and for all.
-- 'Yes, alright.' Ilya sharpens this key term on cue: "khorosho" means "good, fine", and it carries the main weight of what Ilya is saying.
-- 'Eleonora Andreyevna, sorry to interrupt.' Ilya drops the comeback before Eleonora: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Ilya steps in.
-- 'Here, they brought your dress.' Ilya follows up sharply as they talk, before Eleonora can change the subject.
-- 'And Dmitry Vladimirovich's tailcoat.' Ilya frames this key piece at once: "frak" means "tailcoat", and it carries the main weight of what Ilya is saying.
-- 'Let's go through the wedding script.' Eleonora drops the reply with ease: the word "davayte" is the polite or group version of "let's", inviting Ilya into the plan right away.
-- 'Make it faster, okay?' Eleonora prompts openly why things suddenly took this turn between them.
+- 'An oligarch will be sitting at our table.' Discussing her table in front of Ilya, Eleonora chooses "stolikom" ("table", from the root "stolik") so Ilya hears the exact meaning.
+- 'They called and will definitely come.' Ilya steps in warmly with Eleonora and uses "zvonili" ("called", from "zvonit") to make the point stick.
+- 'Wait, our table is for four.' Pointing to his table around Eleonora, Ilya cuts straight through the tension with Eleonora.
+- 'And you end up with six people.' Ilya pushes back directly around Eleonora and brings in "poluchayetsya" ("works out", from "poluchatsya") as the key Russian word here.
+- 'You tell me how to do it.' Eleonora replies plainly beside Ilya, before Ilya can change the subject.
+- 'You are our restaurant director, Ilya.' Eleonora counters firmly across the room, before Ilya can change the subject.
+- 'Yes, alright.' Ilya pushes back quietly on the spot and lands on "khorosho" ("good, fine") as the key everyday word here.
+- 'Eleonora Andreyevna, sorry to interrupt.' Ilya jumps in sharply right here and chooses "otvlekayu" ("distract", from the root "otvlekat") so Eleonora hears the exact meaning.
+- 'Here, they brought your dress.' Ilya responds sharply in this moment, before Eleonora can change the subject.
+- 'And Dmitry Vladimirovich's tailcoat.' Mentioning the tailcoat with Eleonora, Ilya centers the remark on "frak" ("tailcoat") without any extra fuss.
+- 'Let's go through the wedding script.' Pointing to the wedding beside Ilya, Eleonora uses the polite or group form "davayte" ("let's") to bring Ilya into the plan.
+- 'Make it faster, okay?' Eleonora prompts openly whether Ilya really thought this through.

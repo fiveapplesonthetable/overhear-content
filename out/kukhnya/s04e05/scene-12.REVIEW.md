@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, we have an ambush in the kitchen.' Max speaks wryly with a nod, letting the remark speak for itself.
-- 'Our German has gone completely wild today.' Max focuses on one colorful choice toward Senya: "segodnya" means "today", and it carries the main weight of what Max is saying.
-- 'Next month he will slash everyone's salary.' Max jumps in earnestly as they talk, so Senya knows he is not just making small talk.
-- 'Now we will work twice as much.' Max steps in promptly with a nod, letting the remark speak for itself.
-- 'And we will get paid twice as little.' Max frames one vivid detail right here: "poluchat" means "to receive", and it carries the main weight of what Max is saying.
-- 'Maksim Leonidovich, do they really want to cut salaries?' Senya lays out this statement beside Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Keep quiet, please do not yell so loudly!' Max replies at once with Senya, saying out loud what both of them already know.
-- 'Nobody knows about this yet.' Max frames this key touch right here: "yeshchyo" means "more, still", and it carries the main weight of what Max is saying.
-- 'Let this stay strictly between us.' Max shares the comeback with warmth: the "-sya" ending on "ostanetsya" ("will remain") turns the action inward or makes it happen between people naturally.
-- 'By the way, the neighbors need a cook right now.' Max counters dryly as things stand, saying out loud what both of them already know.
-- 'Only you need to bring your resume very quickly.' Max spotlights one telling detail toward Senya: "rezyume" means "résumé", and it carries the main weight of what Max is saying.
-- 'Go quickly, I will cover for you here.' Max points to this telling term at once: "prikroyu" means "to cover" (from "prikryt"), giving the line its exact edge.
+- 'Hi, we have an ambush in the kitchen.' Max proceeds wryly in their talk, testing Senya's reaction in the middle of the exchange.
+- 'Our German has gone completely wild today.' Max follows up readily with Senya and lands on "segodnya" ("today") as the key everyday word here.
+- 'Next month he will slash everyone's salary.' Mentioning the month in front of Senya, Max puts the weight on "sleduyushchem" ("next", from "sleduyushchiy") as the exchange unfolds.
+- 'Now we will work twice as much.' Max proceeds promptly facing Senya, testing Senya's reaction in the middle of the exchange.
+- 'And we will get paid twice as little.' Max replies calmly around Senya and leans on "poluchat" ("to receive") to give the whole sentence its punch.
+- 'Maksim Leonidovich, do they really want to cut salaries?' Addressing the salary in this beat, Senya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Keep quiet, please do not yell so loudly!' Max proceeds at once with a nod, bringing things back to earth after the buildup.
+- 'Nobody knows about this yet.' Max proceeds plainly with Senya and chooses "yeshchyo" ("more, still") so Senya gets the point right away.
+- 'Let this stay strictly between us.' Jumping in naturally in front of Senya, the "-sya" ending on "ostanetsya" ("will remain") marks an action that unfolds mutually or turns back on the speaker.
+- 'By the way, the neighbors need a cook right now.' Max speaks up dryly without a pause, so Senya knows he is not just making small talk.
+- 'Only you need to bring your resume very quickly.' Discussing the sum to Senya, Max leans on "rezyume" ("résumé") to give the whole sentence its punch.
+- 'Go quickly, I will cover for you here.' Max cuts in openly without a pause, testing Senya's reaction in the middle of the exchange.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will call Katya here right now.' Barinov favors one sharp detail toward Katya: "seychas" means "now", and it carries the main weight of what Barinov is saying.
-- 'The French guest probably already gave me away.' Katya chimes in at once hearing Max, without trying to dress up how she really feels.
-- 'Listen, do not worry like that yet.' Max jumps in openly hearing Barinov, keeping the focus on what actually matters here.
-- 'Katya, come here to me quickly!' Barinov favors one direct touch for Max: "skoreye" means "quickly, right away" (from "skoro"), giving the line its exact edge.
-- 'Damn, Dad is already calling me!' Katya answers firmly with a smile, to clear the air between them once and for all.
-- 'Katya, do you not hear me at all?' Barinov tests sharply while looking straight at Max here.
-- 'Dad, you must not shout at me right now.' Katya spotlights one loaded word on cue: "seychas" means "now", and it carries the main weight of what Katya is saying.
-- 'Why is it that I cannot shout at you?' Barinov phrases the reply before Max: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'Because I am expecting a baby, Dad.' Katya stands firm lightly with Barinov, shifting the whole mood of the room in a single beat.
-- 'What did you say? Is that really true?' Barinov features one memorable element in earnest: "pravda" means "honestly", and it carries the main weight of what Barinov is saying.
-- 'Who is the father? I am asking you directly!' Barinov shapes the remark frankly here: putting the question word "kto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Is it Max? I warned you!' Barinov inquires evenly why things suddenly took this turn between them.
-- 'Stand here and just keep quiet right now!' Barinov underscores one direct detail right here: "seychas" means "now", and it carries the main weight of what Barinov is saying.
+- 'I will call Katya here right now.' Barinov follows up dryly to Katya and brings in "pozovu" ("will call", from "pozvat") as the key Russian word here.
+- 'The French guest probably already gave me away.' Bringing up the guest beside Barinov, Katya chooses "frantsuzskiy" ("French") so Barinov gets the point right away.
+- 'Listen, do not worry like that yet.' Max counters openly without holding back, testing Katya's reaction in the middle of the exchange.
+- 'Katya, come here to me quickly!' Barinov steps in quietly around Katya and chooses "skoreye" ("quickly, right away", from the root "skoro") so Katya hears the exact meaning.
+- 'Damn, Dad is already calling me!' Turning to the darn around Barinov, Katya chooses "chyort" ("darn, heck") so Barinov gets the point right away.
+- 'Katya, do you not hear me at all?' Barinov tests sharply to see how Katya will answer on the spot.
+- 'Dad, you must not shout at me right now.' Talking about the dad at once, Katya uses "papa" ("Dad") to carry the main weight of the thought.
+- 'Why is it that I cannot shout at you?' Reacting directly to Katya, Barinov leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'Because I am expecting a baby, Dad.' Katya fires back lightly in their talk, grounding the moment in plain reality.
+- 'What did you say? Is that really true?' Underscoring the honestly to Katya, Barinov chooses "pravda" ("honestly") so Katya gets the point right away.
+- 'Who is the father? I am asking you directly!' Cutting in directly beside Katya, Barinov puts the question word "kto" right at the start so Katya hears the focus immediately.
+- 'Is it Max? I warned you!' Barinov inquires evenly before Max can change the subject.
+- 'Stand here and just keep quiet right now!' Barinov counters briskly on the spot and chooses "molchi" ("be quiet", from the root "molchat") so Katya hears the exact meaning.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, guys, I have too important a day tomorrow.' Barinov reaches for one memorable element on cue: "rebyata" means "the boys, the lads", and it carries the main weight of what Barinov is saying.
-- 'Chef, if you do not drink, I will hang the painting by the entrance!' The guest follows up honestly to be clear, watching Senya's face to see how the news lands.
-- 'Let all the restaurant guests admire your beauty!' The guest jumps in bluntly around Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Wait, artist, you and I did not agree on that!' Barinov frames this sharp choice at once: "dogovarivalis" means "had an agreement" (from "dogovarivatsya"), giving the line its exact edge.
-- 'Hand that painting over here, I will tear it up right now!' Barinov follows up evenly without holding back, keeping the focus on what actually matters here.
-- 'Give it back, you are supposed to be a grown man!' The guest weighs in warmly watching Senya, refusing to let the moment slip past.
-- 'Wait, guys, this is edible rice paper after all!' Barinov picks one clear word at once: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Here we have found a great snack for the table!' Barinov continues lightly without any doubt, testing Senya's reaction in the middle of the exchange.
-- 'Viktor Petrovich, share a piece of the painting with us!' Senya holds firm honestly with a sigh, grounding the moment in plain reality.
-- 'Here you go, Senya, take a piece quickly, everyone!' Barinov chooses one vivid piece in earnest: "razbirayte" means "take, grab" (from "razbirat"), giving the line its exact edge.
-- 'Senya, tell me, what part of the painting are you eating right now?' The guest brings the comeback before Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'I do not know, but it tastes pretty good actually!' Senya jumps in pointedly with a shrug, letting the remark speak for itself.
+- 'No, guys, I have too important a day tomorrow.' Mentioning the boys in front of the guest, Barinov brings in "rebyata" ("the boys, the lads") to make the meaning unmistakable.
+- 'Chef, if you do not drink, I will hang the painting by the entrance!' Addressing the painting beside Barinov, the guest puts the weight on "kartinu" ("painting, picture", from "kartina") as the exchange unfolds.
+- 'Let all the restaurant guests admire your beauty!' The guest replies bluntly with a nod, without trying to dress up how he really feels.
+- 'Wait, artist, you and I did not agree on that!' Mentioning the artist in this beat, Barinov chooses "khudozhnik" ("artist, painter") so the guest gets the point right away.
+- 'Hand that painting over here, I will tear it up right now!' Highlighting the painting right here, Barinov puts the weight on "kartinu" ("painting, picture", from "kartina") as the exchange unfolds.
+- 'Give it back, you are supposed to be a grown man!' The guest steps in warmly with a nod, letting the remark speak for itself.
+- 'Wait, guys, this is edible rice paper after all!' Highlighting how rice things are in the exchange, Barinov puts the weight on "risovaya" ("rice", from "risovyy") as the exchange unfolds.
+- 'Here we have found a great snack for the table!' Talking about the appetizer right here, Barinov puts the weight on "otlichnaya" ("excellent", from "otlichnyy") as the exchange unfolds.
+- 'Viktor Petrovich, share a piece of the painting with us!' Senya reacts honestly around Barinov, before Barinov can change the subject.
+- 'Here you go, Senya, take a piece quickly, everyone!' Addressing the slice with Senya, Barinov lands on "kusochku" ("slice, little piece", built on "kusochek") to keep the statement grounded.
+- 'Senya, tell me, what part of the painting are you eating right now?' Jumping in calmly with Senya, the guest keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'I do not know, but it tastes pretty good actually!' Senya fires back pointedly around the guest, shifting the mood of the conversation in a single beat.

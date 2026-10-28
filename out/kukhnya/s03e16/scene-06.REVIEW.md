@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'On Monday you will hand out the pay to the staff and take a little for yourself.' Nagiyev counters firmly on the spot, before Kristina can change the subject.
-- 'Thank you, Dima, I wanted to show you something.' Kristina points to one pointed term in earnest: "spasibo" means "thank you", and it carries the main weight of what Kristina is saying.
-- 'Tell me, what is your password on your tablet?' Kristina sends this answer with warmth: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'It is my birthday, my dear.' Nagiyev chimes in plainly hearing Kristina, letting the remark speak for itself.
-- 'I think we need to replace the furniture in the restaurant.' Kristina sharpens one memorable touch right here: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'You know, I already ordered it, they are supposed to deliver it on Monday!' Kristina weighs in bluntly in this moment, letting the remark speak for itself.
-- 'You are my clever girl, I have wanted to replace the furniture for a long time too.' Nagiyev answers firmly during the talk, keeping the focus on what actually matters here.
-- 'But then I calculated how much money it costs.' Nagiyev features this direct expression at once: "poschital" means "calculated" (from "poschitat"), giving the line its exact edge.
-- 'Our old furniture is still quite fine and new.' Nagiyev lays out that reply with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So call them and cancel the order, okay?' Nagiyev questions briskly before Kristina can change the subject.
-- 'What do you mean cancel it, am I the director or not the director?' Kristina uses one memorable word for Nagiyev: "direktor" means "head teacher", and it carries the main weight of what Kristina is saying.
-- 'Of course you are a real director, my sweetheart!' Nagiyev gives that thought beside Kristina: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'On Monday you will hand out the pay to the staff and take a little for yourself.' Nagiyev proceeds firmly across the room, without trying to dress up how he really feels.
+- 'Thank you, Dima, I wanted to show you something.' Emphasizing the thank in this beat, Kristina uses "spasibo" ("thank you") to carry the main weight of the thought.
+- 'Tell me, what is your password on your tablet?' Bringing up the phone beside Nagiyev, Kristina uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'It is my birthday, my dear.' Nagiyev answers plainly with a shrug, to clear the air between them once and for all.
+- 'I think we need to replace the furniture in the restaurant.' Turning to the restaurant in front of Nagiyev, Kristina chooses "restorane" ("restaurant", from the root "restoran") so Nagiyev hears the exact meaning.
+- 'You know, I already ordered it, they are supposed to deliver it on Monday!' Kristina opens up naturally in this beat and chooses "ponedelnik" ("Monday") so Nagiyev gets the point right away.
+- 'You are my clever girl, I have wanted to replace the furniture for a long time too.' Nagiyev continues firmly beside Kristina, to clear the air between them once and for all.
+- 'But then I calculated how much money it costs.' Highlighting the money during the talk, Nagiyev reaches for the Russian word "poschital" ("calculated", built from "poschitat") right at the center of the line.
+- 'Our old furniture is still quite fine and new.' Emphasizing how normal things are during the talk, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So call them and cancel the order, okay?' Nagiyev questions briskly why things suddenly took this turn between them.
+- 'What do you mean cancel it, am I the director or not the director?' Mentioning the head teacher to Nagiyev, Kristina lands on "direktor" ("head teacher") as the key everyday word here.
+- 'Of course you are a real director, my sweetheart!' Confirming how real Kristina is on the spot, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.

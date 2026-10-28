@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why were you asking about Denis if you are with Nikita?' Senya centers this sharp expression with Denis: "sprashivala" means "to ask" (from "sprashivat"), giving the line its exact edge.
-- 'Listen, drink your red wine, it is healthy.' Katya chimes in candidly as things stand, bringing things back to earth after the buildup.
-- 'Denis just thinks that you will feel jealous.' Senya steps in evenly without any doubt, testing Denis's reaction in the middle of the exchange.
-- 'That is total nonsense, because I am here with Nikita.' Katya highlights this direct term on cue: "polnyy" means "total, complete", and it carries the main weight of what Katya is saying.
-- 'And let Denis think whatever he wants.' Katya chimes in bluntly facing Denis, saying out loud what both of them already know.
-- 'I did not understand at all, what was that just now?' Denis presses quietly in front of Senya without any preamble.
-- 'Perhaps she really likes director Nikita very much.' Senya stresses this sharp word with Denis: "deystvitelno" means "really, indeed", and it carries the main weight of what Senya is saying.
-- 'And in this story you are simply the third wheel.' Senya frames the comeback toward Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Right now we will quickly see who is the third wheel!' Denis fires back calmly with Katya, letting the remark speak for itself.
-- 'Senya, come over to me and kiss me quickly!' Katya focuses on this sharp element in reply: "potseluy" means "kiss" (from "potselovat"), giving the line its exact edge.
-- 'Alright, friends, good night to everyone, I am going to sleep.' Denis shapes that line at once: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Katya is on board.
-- 'Good night, be careful not to step on anyone in the dark!' Senya jumps in firmly beside Katya, so Katya knows he is not just making small talk.
+- 'Why were you asking about Denis if you are with Nikita?' Senya chimes in smoothly at once and chooses "sprashivala" ("to ask", from the root "sprashivat") so Denis hears the exact meaning.
+- 'Listen, drink your red wine, it is healthy.' Bringing up the wine right here, Katya uses "krasnoye" ("red", from "krasnyy") to make the point stick.
+- 'Denis just thinks that you will feel jealous.' Senya counters evenly in this moment, without trying to dress up how he really feels.
+- 'That is total nonsense, because I am here with Nikita.' Describing how total she is before Senya, Katya reaches for the Russian word "polnyy" ("total, complete") right at the heart of the line.
+- 'And let Denis think whatever he wants.' Katya proceeds firmly in their talk, bringing things back to earth after the buildup.
+- 'I did not understand at all, what was that just now?' Denis presses quietly what Senya is actually getting at here.
+- 'Perhaps she really likes director Nikita very much.' Bringing up the head teacher in this beat, Senya leans on "deystvitelno" ("really, indeed") to give the whole sentence its punch.
+- 'And in this story you are simply the third wheel.' Returning to the stories in this beat, Senya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Right now we will quickly see who is the third wheel!' Denis replies calmly with a nod, steering the talk right where he wants it.
+- 'Senya, come over to me and kiss me quickly!' Katya proceeds dryly beside Senya and leans on "potseluy" ("kiss", a form of "potselovat") to give the remark its edge.
+- 'Alright, friends, good night to everyone, I am going to sleep.' Making clear how good he is to Katya, Denis leans on "spokoynoy" ("good", a form of "spokoynyy") to give the remark its edge.
+- 'Good night, be careful not to step on anyone in the dark!' Discussing the night around Denis, Senya cuts straight through the tension with Denis.

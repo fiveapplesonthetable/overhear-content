@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And nothing can be fixed anymore.' Barinov sharpens this clear word at once: "ispravit" means "to fix, to correct", and it carries the main weight of what Barinov is saying.
-- 'Because I am not going to repeat my old mistakes.' Vika continues right away to be clear, bringing things back to earth after the buildup.
-- 'Wait, do you want a snail?' Nastya tests straight out as Barinov tries to explain the situation.
-- 'Right here in our kitchen.' Barinov picks this telling touch at once: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'There he is, the guy with the bag!' Vika aims that thought for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Hey! What the hell is this?' Nastya questions briskly while looking straight at Vika here.
-- 'Viktor Petrovich, is that you?' Vika makes that reply before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Where is my daughter?' Vika sends this line plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Answer me, where is my daughter?' Nastya checks wryly what Barinov is actually getting at here.
-- 'What daughter are you talking about?' Barinov uses one practical choice in reply: "doch" means "daughter", and it carries the main weight of what Barinov is saying.
-- 'Where is Nastya?' Vika drops that point with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Dad, I am right here!' Nastya holds firm dryly as they talk, letting the remark speak for itself.
-- 'Well, basically.' Barinov underscores one pointed element for Nastya: "obshchem-to" means "shared, common" (from "obshchiy"), giving the line its exact edge.
+- 'And nothing can be fixed anymore.' Barinov counters calmly to Vika and chooses "ispravit" ("to fix, to correct") so Vika gets the point right away.
+- 'Because I am not going to repeat my old mistakes.' Turning to the mistakes on the spot, Vika leans on "oshibki" ("mistakes", a form of "oshibka") to give the remark its edge.
+- 'Wait, do you want a snail?' Nastya tests straight out why things suddenly took this turn between them.
+- 'Right here in our kitchen.' Focusing on his kitchen in this beat, Barinov lands on "kukhne" ("kitchen", built on "kukhnya") to keep the statement grounded.
+- 'There he is, the guy with the bag!' Returning to the package before Barinov, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Hey! What the hell is this?' Nastya questions briskly if there is more going on behind the scenes.
+- 'Viktor Petrovich, is that you?' Weighing in naturally around Barinov, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Where is my daughter?' Dwelling on her daughter during the talk, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Answer me, where is my daughter?' Nastya checks wryly if there is more going on behind the scenes.
+- 'What daughter are you talking about?' Mentioning the daughter during the talk, Barinov chooses "doch" ("daughter") so Vika gets the point right away.
+- 'Where is Nastya?' Holding firm dryly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Dad, I am right here!' Nastya responds dryly in their talk, to clear the air between them once and for all.
+- 'Well, basically.' Barinov counters promptly in this beat and uses "obshchem-to" ("shared, common", from "obshchiy") to make the point stick.

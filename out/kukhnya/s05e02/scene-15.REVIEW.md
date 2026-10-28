@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Victoria Sergeevna, here is what I just thought.' Kostya fires back warmly with a sigh, without trying to dress up how he really feels.
-- 'What if the real secret guest suddenly shows up?' Kostya uses one vivid word right here: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Kostya is saying.
-- 'Those two will not believe you anymore.' Kostya leans on one concrete element for Denis: "poveryat" means "they will believe" (from "poverit"), giving the line its exact edge.
-- 'Please do not tell them anything.' Kostya weighs in honestly as they talk, so Vika knows he is not just making small talk.
-- 'And if that is not the secret guest, then who is he?' Vika anchors one colorful detail in reply: "taynyy" means "secret, undercover", and it carries the main weight of what Vika is saying.
-- 'Just an ordinary person, nobody.' Vika sends the comeback facing Kostya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'It seems to me she still has not watched it.' Denis chimes in quietly during the talk, to clear the air between them once and for all.
-- 'I already regret that I confessed.' Denis stresses one clear expression right here: "priznalsya" means "did he confess" (from "priznatsya"), giving the line its exact edge.
-- 'You were completely right.' Denis brings the thought for Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Kostya, can you distract her a little?' Denis questions eagerly if there is more going on behind the scenes.
-- 'I want to delete the video quickly.' Denis emphasizes this sharp touch in earnest: "video" means "video", and it carries the main weight of what Denis is saying.
-- 'Listen, Denis, I will try.' Kostya aims that line on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Victoria Sergeevna, here is what I just thought.' Kostya speaks up warmly with a nod, refusing to let the moment slip past.
+- 'What if the real secret guest suddenly shows up?' Mentioning the guest with Vika, Kostya puts the emphasis on "nastoyashchiy" ("real, genuine") in the middle of the talk.
+- 'Those two will not believe you anymore.' Kostya speaks promptly with a sigh, letting the remark speak for itself.
+- 'Please do not tell them anything.' Kostya directly offers this courtesy word while facing Vika using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'And if that is not the secret guest, then who is he?' Underscoring how secret things are around Kostya, Vika centers the remark on "taynyy" ("secret, undercover") without any extra fuss.
+- 'Just an ordinary person, nobody.' Stepping in earnestly right here, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'It seems to me she still has not watched it.' Denis continues quietly facing Vika, watching Vika's face to see how the news lands.
+- 'I already regret that I confessed.' Denis speaks up directly in the exchange and reaches for the Russian word "priznalsya" ("did he confess", built from "priznatsya") right at the center of the line.
+- 'You were completely right.' Following up warmly with Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Kostya, can you distract her a little?' Denis questions eagerly what Kostya is actually getting at here.
+- 'I want to delete the video quickly.' Underscoring the video in the exchange, Denis chooses "video" ("video") so Kostya gets the point right away.
+- 'Listen, Denis, I will try.' Pushing back plainly beside Denis, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

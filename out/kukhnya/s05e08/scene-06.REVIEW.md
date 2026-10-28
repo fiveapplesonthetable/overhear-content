@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Anything else?' Nastya questions evenly how the guest expects that to work in practice.
-- 'Yes, His Highness has shown an interest in you.' The guest sharpens one memorable expression right here: "svetlost" means "Highness", and it carries the main weight of what the guest is saying.
-- 'And he would like to get to know you more closely.' The guest brings that answer at once: the "-sya" ending on "poznakomitsya" ("to meet") turns the action inward or makes it happen between people naturally.
-- 'I cannot return his feelings.' Nastya follows up lightly across the room, steering the talk right where she wants it.
-- 'He is not accustomed to refusal.' The guest reaches for one sharp piece right here: "otkazu" means "refusal" (from "otkaz"), giving the line its exact edge.
-- 'And the sheikh invited me on a date.' Nastya stands firm plainly toward Kostya, leaving no doubt about where she stands.
-- 'Nastya, what are you making up?' Kostya probes briskly how the guest expects that to work in practice.
-- 'When I leave you, we will see what tune you sing.' Nastya frames this key term with Kostya: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.
-- 'And how will you see what tune I sing if you leave?' Kostya shapes the remark briskly now: putting the question word "kak" right at the front of the line lets the guest hear the point of the question on the very first beat.
+- 'Anything else?' Nastya questions evenly if there is more going on behind the scenes.
+- 'Yes, His Highness has shown an interest in you.' Underscoring an interest at once, the guest lands on "svetlost" ("Highness") as the key everyday word here.
+- 'And he would like to get to know you more closely.' Replying briskly in front of Nastya, the "-sya" ending on "poznakomitsya" ("to meet") marks an action that unfolds mutually or turns back on the speaker.
+- 'I cannot return his feelings.' Nastya follows up lightly facing the guest, refusing to let the moment slip past.
+- 'He is not accustomed to refusal.' Mentioning the refusal at once, the guest reaches for the Russian word "otkazu" ("refusal", built from "otkaz") right at the center of the line.
+- 'And the sheikh invited me on a date.' Underscoring a date on the spot, Nastya uses "svidaniye" ("date") to carry the main weight of the thought.
+- 'Nastya, what are you making up?' Kostya probes briskly while looking straight at Nastya here.
+- 'When I leave you, we will see what tune you sing.' Nastya opens up firmly with Kostya and centers the thought on "posmotrim" ("have a look", from "posmotret") without wasting a word.
+- 'And how will you see what tune I sing if you leave?' Turning briskly beside Nastya, Kostya puts the question word "kak" right at the start so Nastya hears the focus immediately.
 - 'Do you not feel sorry to lose me at all?' Nastya wonders skeptically if there is more going on behind the scenes.
-- 'Go work, daydreamer.' Kostya underscores one vivid expression toward the guest: "fantazyorka" means "daydreamer", and it carries the main weight of what Kostya is saying.
-- 'Fine then, you will regret it yourself later.' Nastya aims that remark around Kostya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kostya is on board.
+- 'Go work, daydreamer.' Focusing on the daydreamer with Nastya, Kostya centers the remark on "fantazyorka" ("daydreamer") without any extra fuss.
+- 'Fine then, you will regret it yourself later.' Nastya replies smoothly on the spot and centers the thought on "pozhaleyesh" ("regret", from "pozhalet") without wasting a word.

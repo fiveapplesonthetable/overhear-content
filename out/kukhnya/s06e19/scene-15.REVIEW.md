@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is still not enough food, Chef.' Mikhail pushes back steadily with a shrug, letting the remark speak for itself.
-- 'We need to feed all the guests today.' Mikhail grounds one practical detail in reply: "segodnya" means "today", and it carries the main weight of what Mikhail is saying.
-- 'Here are more fresh groceries for you.' Mikhail frames the reaction with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I have my own channels.' Mikhail fires back steadily toward Katya, so Katya knows he is not just making small talk.
-- 'Vitya, the wedding ceremony is already starting.' Elena underscores this key expression for Katya: "tseremoniya" means "ceremony", and it carries the main weight of what Elena is saying.
-- 'Who is going to walk our bride right now?' Elena offers the comeback in earnest: putting the question word "kto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
-- 'Well, how are you, ready now?' Elena prompts briskly why things suddenly took this turn between them.
-- 'Yes, I suppose I am ready now.' Katya grounds one loaded term on cue: "navernoye" means "probably", and it carries the main weight of what Katya is saying.
-- 'Do not worry, everything will be fine.' Elena brings this point on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'I was nervous before my wedding too.' Elena reacts warmly as things stand, letting the remark speak for itself.
-- 'You must walk up to him.' Elena spotlights this telling choice toward Katya: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
-- 'Just look into his eyes.' Elena sends the reaction toward Mikhail: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'There is still not enough food, Chef.' Discussing the groceries with Elena, Mikhail brings the exchange with Elena back to practical reality.
+- 'We need to feed all the guests today.' Addressing the guests right here, Mikhail leans on "gostey" ("guests", a form of "gost") to give the remark its edge.
+- 'Here are more fresh groceries for you.' Highlighting how fresh things are right here, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I have my own channels.' Mikhail jumps in steadily with a smile, grounding the moment in plain reality.
+- 'Vitya, the wedding ceremony is already starting.' Focusing on the wedding ceremony around Mikhail, Elena leans on "tseremoniya" ("ceremony") to give the whole sentence its punch.
+- 'Who is going to walk our bride right now?' Mentioning her bride on the spot, Elena puts the question word "kto" right at the start so Katya hears the focus immediately.
+- 'Well, how are you, ready now?' Elena prompts briskly where this conversation is heading next.
+- 'Yes, I suppose I am ready now.' Katya opens up earnestly to Elena and puts the emphasis on "navernoye" ("probably") in the middle of the talk.
+- 'Do not worry, everything will be fine.' Elena counters evenly before Katya and uses "perezhivay" ("worry", from "perezhivat") to make the point stick.
+- 'I was nervous before my wedding too.' Pointing to her wedding with a nod, Elena cuts straight through the tension with Katya.
+- 'You must walk up to him.' Elena chimes in openly in this beat and puts the weight on "dolzhna" ("should, must", from "dolzhen") as the exchange unfolds.
+- 'Just look into his eyes.' Bringing up the eyes with Katya, Elena uses the little word "prosto" ("simply, just") to make the point sound effortless.

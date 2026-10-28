@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Misha, he is not worth it.' Barinov steps in dryly on the spot, shifting the whole mood of the room in a single beat.
-- 'You do not understand anything.' Mikhail underscores one telling term toward Barinov: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
-- 'I chased after Eleonora for half my life.' Mikhail chimes in bluntly as things stand, leaving no doubt about where he stands.
-- 'You and I had a good drink together.' Barinov answers dryly hearing Mikhail, refusing to let the moment slip past.
-- 'We even went to the casino.' Barinov features this direct term on cue: "kazino" means "casino", and it carries the main weight of what Barinov is saying.
-- 'Maybe we should go home already?' Barinov gives the comment plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
-- 'No, that was only a rehearsal.' Mikhail jumps in decisively to be clear, letting the remark speak for itself.
-- 'Do you know his address?' Barinov stresses one classic choice for Mikhail: "adres" means "address", and it carries the main weight of what Barinov is saying.
-- 'No, I have it written down at the hotel.' Mikhail frames the thought beside Barinov: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Let's stop by our hotel.' Mikhail reacts steadily during the talk, to clear the air between them once and for all.
-- 'Thank you very much, Vitya.' Mikhail focuses on one key term in reply: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Just rest and gather your strength.' Barinov chooses this sharp choice in earnest: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.
+- 'Misha, he is not worth it.' Barinov fires back dryly without any doubt, to clear the air between them once and for all.
+- 'You do not understand anything.' Mikhail responds plainly to Barinov and puts the weight on "ponimayesh" ("do you understand", from "ponimat") as the exchange unfolds.
+- 'I chased after Eleonora for half my life.' Touching on the half before Barinov, Mikhail chooses "polzhizni" ("half") so Barinov gets the point right away.
+- 'You and I had a good drink together.' Barinov opens up dryly across the room, so Mikhail knows he is not just making small talk.
+- 'We even went to the casino.' Turning to the casino during the talk, Barinov leans on "kazino" ("casino") to give the whole sentence its punch.
+- 'Maybe we should go home already?' Leaning in boldly at once, Barinov keeps normal statement word order here, turning the line into a question for Mikhail purely through rising pitch.
+- 'No, that was only a rehearsal.' Mikhail counters decisively in their talk, so Barinov knows he is not just making small talk.
+- 'Do you know his address?' Mentioning the address in this beat, Barinov centers the remark on "adres" ("address") without any extra fuss.
+- 'No, I have it written down at the hotel.' Mikhail weighs in briskly during the talk, to clear the air between them once and for all.
+- 'Let's stop by our hotel.' Mikhail continues steadily during the talk, making his position completely clear.
+- 'Thank you very much, Vitya.' Mikhail politely chooses this word of thanks to Barinov using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Just rest and gather your strength.' Barinov chimes in dryly without any doubt, shifting the mood of the conversation in a single beat.

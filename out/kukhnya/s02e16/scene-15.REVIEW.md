@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank goodness you did not punch me in the nose.' Vika continues evenly as things stand, shifting the whole mood of the room in a single beat.
-- 'Your guests have arrived.' Nagiyev centers one concrete piece right here: "prishli" means "have come" (from "priyti"), giving the line its exact edge.
-- 'I did not come alone.' Vika sends the comment plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I thought it over.' Elena continues wryly during the talk, making her position completely clear.
-- 'So to speak.' Vika grounds one colorful word in reply: "skazat" means "tell", and it carries the main weight of what Vika is saying.
-- 'Please, have a seat. Thank you.' Nagiyev frames that point on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'A classic French atmosphere.' Vika stands firm frankly before Elena, watching Elena's face to see how the news lands.
-- 'So they were too lazy to hire a decent interior designer.' Nagiyev underscores one classic expression on cue: "normalnogo" means "normal" (from "normalnyy"), giving the line its exact edge.
-- 'And what kind of entertainment show do you have here?' Vika sends this answer beside Elena: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'People come to a restaurant to eat, not to watch a circus.' Nagiyev replies boldly with Vika, grounding the moment in plain reality.
-- 'When a place cannot cook, they distract guests with a show.' Vika emphasizes one classic expression at once: "programmoy" means "programme" (from "programma"), giving the line its exact edge.
-- 'Well, at mom's restaurant they know how to cook.' Nagiyev continues calmly without a pause, without trying to dress up how he really feels.
-- 'Well, well, well.' Vika pushes back firmly with a sigh, shifting the whole mood of the room in a single beat.
+- 'Thank goodness you did not punch me in the nose.' Vika lightly extends this word of thanks at this moment using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Your guests have arrived.' Nagiyev jumps in openly during the talk and uses "prishli" ("have come", from "priyti") to make the point stick.
+- 'I did not come alone.' Looking over naturally around Nagiyev, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I thought it over.' Elena continues wryly around Vika, grounding the moment in plain reality.
+- 'So to speak.' Leaning in calmly around Elena, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Please, have a seat. Thank you.' Nagiyev readily shares this word of thanks for Vika using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'A classic French atmosphere.' Vika jumps in frankly with Nagiyev, leaving no doubt about where she stands.
+- 'So they were too lazy to hire a decent interior designer.' Pointing to the designer in the exchange, Nagiyev puts the weight on "normalnogo" ("normal", from "normalnyy") as the exchange unfolds.
+- 'And what kind of entertainment show do you have here?' Focusing on the apps in the exchange, Vika puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'People come to a restaurant to eat, not to watch a circus.' Nagiyev proceeds boldly with a sigh, testing Vika's reaction in the middle of the exchange.
+- 'When a place cannot cook, they distract guests with a show.' Underscoring the programme in the exchange, Vika puts the weight on "programmoy" ("programme", from "programma") as the exchange unfolds.
+- 'Well, at mom's restaurant they know how to cook.' Addressing the restaurant right here, Nagiyev puts the weight on "restorane" ("restaurant", from "restoran") as the exchange unfolds.
+- 'Well, well, well.' Vika cuts in firmly toward Nagiyev, refusing to let the moment slip past.

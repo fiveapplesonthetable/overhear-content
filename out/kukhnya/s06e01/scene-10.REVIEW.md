@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let me show you to your suite.' Eleonora colors one direct word in earnest: "davayte" means "let's" (from "davat"), giving the line its exact edge.
-- 'Help me out, I urgently need a pianist for the evening.' Mikhail stands firm quietly across the room, letting the remark speak for itself.
-- 'Is this how you do not interfere in my personal life?' Katya quizzes curiously if there is more going on behind the scenes.
-- 'Calm down, Katya.' Eleonora anchors one vivid element for Mikhail: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
-- 'You went ahead and fired Denis yourself.' Katya uses this clear touch for Eleonora: "uvolila" means "fired" (from "uvolit"), giving the line its exact edge.
-- 'Maybe he left on his own?' Eleonora challenges bluntly to see how Mikhail will answer on the spot.
-- 'Misha, where is the pianist?' Eleonora emphasizes one telling term in earnest: "pianist" means "pianist", and it carries the main weight of what Eleonora is saying.
-- 'Which pianist?' Mikhail puts this statement with warmth: putting the question word "kakoy" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'The pianist whom Dima brought, find him.' Eleonora reacts honestly with a sigh, grounding the moment in plain reality.
-- 'I sent him to change clothes, an awful jacket.' Mikhail features one clear touch in reply: "pereodevatsya" means "to get changed", and it carries the main weight of what Mikhail is saying.
-- 'Well you see, your Denis will be here.' Eleonora chooses one familiar choice in earnest: "vidish" means "see" (from "videt"), giving the line its exact edge.
-- 'You know very well that we broke up.' Katya chimes in calmly with a sigh, keeping the focus on what actually matters here.
+- 'Let me show you to your suite.' Emphasizing the number with Mikhail, Eleonora reaches for the Russian word "nomer" ("number") right at the heart of the line.
+- 'Help me out, I urgently need a pianist for the evening.' Mentioning a pianist in the exchange, Mikhail centers the remark on "pianist" ("pianist") without any extra fuss.
+- 'Is this how you do not interfere in my personal life?' Katya quizzes curiously to see how Eleonora will answer on the spot.
+- 'Calm down, Katya.' Eleonora counters promptly on the spot and leans on "uspokoysya" ("calm down", a form of "uspokoitsya") to give the remark its edge.
+- 'You went ahead and fired Denis yourself.' Katya speaks pointedly facing Eleonora, without trying to dress up how she really feels.
+- 'Maybe he left on his own?' Eleonora challenges bluntly if there is more going on behind the scenes.
+- 'Misha, where is the pianist?' Highlighting the pianist to Mikhail, Eleonora puts the emphasis on "pianist" ("pianist") in the middle of the talk.
+- 'Which pianist?' Turning to the pianist in the exchange, Mikhail puts the question word "kakoy" right at the start so Eleonora hears the focus immediately.
+- 'The pianist whom Dima brought, find him.' Eleonora answers honestly with a shrug, to clear the air between them once and for all.
+- 'I sent him to change clothes, an awful jacket.' Highlighting an awful jacket in the exchange, Mikhail brings in "pereodevatsya" ("to get changed") to make the meaning unmistakable.
+- 'Well you see, your Denis will be here.' Eleonora responds honestly without holding back, to clear the air between them once and for all.
+- 'You know very well that we broke up.' Katya opens up calmly in their talk, keeping the focus on what actually matters here.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, this is my friend Katya.' The guest counters earnestly as things stand, to clear the air between them once and for all.
-- 'We went to kindergarten together.' The guest frames one classic detail for Katya: "sadik" means "daycare, kindergarten", and it carries the main weight of what the guest is saying.
-- 'We always argued since childhood.' Katya weighs in honestly in this moment, to clear the air between them once and for all.
-- 'They accepted me into the university back then.' The guest opens up decisively as they talk, saying out loud what both of them already know.
-- 'And I went to France.' Katya frames one memorable element in reply: "poyekhala" means "to go, to set off" (from "poyekhat"), giving the line its exact edge.
-- 'Katya, this is my husband Ernest.' The guest makes that line on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Hello, it is very nice to meet you.' Katya counters at once on the spot, testing the guest's reaction in the middle of the exchange.
-- 'Well, and did you get married?' The guest points to this vivid word on cue: "zamuzh" means "in marriage", and it carries the main weight of what the guest is saying.
-- 'No, but I will definitely get married soon.' Katya opens up lightly beside the guest, without trying to dress up how she really feels.
-- 'Our wedding is in a month.' Katya pushes back sharply with a shrug, before the guest can change the subject.
-- 'Then let's have dinner together tomorrow evening!' The guest points to one clear word for Katya: "pouzhinayem" means "to have dinner" (from "pouzhinat"), giving the line its exact edge.
-- 'I do not know, he is very busy.' Katya chimes in dryly toward the guest, without trying to dress up how she really feels.
+- 'Hello, this is my friend Katya.' The guest directly offers this casual greeting right on cue using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'We went to kindergarten together.' Touching on the daycare beside Katya, the guest brings in "sadik" ("daycare, kindergarten") to make the meaning unmistakable.
+- 'We always argued since childhood.' Discussing the childhood in this beat, Katya brings in "detstva" ("childhood", from "detstvo") as the key Russian word here.
+- 'They accepted me into the university back then.' The guest chimes in decisively with a nod, bringing things back to earth after the buildup.
+- 'And I went to France.' Katya replies promptly at once and leans on "poyekhala" ("to go, to set off", a form of "poyekhat") to give the remark its edge.
+- 'Katya, this is my husband Ernest.' Returning to his husband in the exchange, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Hello, it is very nice to meet you.' Katya gently voices this formal greeting with the guest using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Well, and did you get married?' The guest cuts in decisively during the talk and leans on "zamuzh" ("in marriage") to give the whole sentence its punch.
+- 'No, but I will definitely get married soon.' Katya counters decisively on the spot and puts the emphasis on "obyazatelno" ("surely, without fail") in the middle of the talk.
+- 'Our wedding is in a month.' Katya opens up sharply watching the guest, so the guest knows she is not just making small talk.
+- 'Then let's have dinner together tomorrow evening!' The guest replies briskly in this beat and leans on "pouzhinayem" ("to have dinner", a form of "pouzhinat") to give the remark its edge.
+- 'I do not know, he is very busy.' Describing how busy he is in this beat, Katya centers the thought on "zanyat" ("busy", from "zanyatyy") without wasting a word.
 - 'Great, what time are we meeting tomorrow?' The guest asks eagerly how Katya expects that to work in practice.

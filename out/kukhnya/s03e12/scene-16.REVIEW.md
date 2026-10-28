@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who is here? Who came in?' Katya uses this vivid touch in earnest: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
-- 'It is me again, your landlady.' Max delivers the remark to Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I need to take the readings from the water meters.' Max continues candidly in their talk, testing Katya's reaction in the middle of the exchange.
-- 'Take the readings and leave right away.' Katya features one classic detail in earnest: "pokazateli" means "readings, figures" (from "pokazatel"), giving the line its exact edge.
-- 'But they are in the bathroom.' Max states this answer with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I will write everything down myself and bring it to you.' Katya speaks up wryly in this moment, letting the remark speak for itself.
-- 'Alright, then I will wait.' Max highlights this sharp detail on cue: "khorosho" means "good, fine", and it carries the main weight of what Max is saying.
-- 'What is this? For the second day there is some knocking.' Nagiyev brings that thought for Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He does not seem to be in a hurry to apologize on his knees.' Max weighs in steadily watching Katya, shifting the whole mood of the room in a single beat.
-- 'Well it is fine, I will wait a little longer.' Max uses one telling choice on cue: "yeshchyo" means "more, still", and it carries the main weight of what Max is saying.
-- 'What happened here with you again?' Nagiyev puts the reply before Katya: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'What on earth are you doing here?' Nagiyev quizzes straight out before Max can change the subject.
+- 'Who is here? Who came in?' Katya opens up readily right here and leans on "prishyol" ("came, have come", a form of "priyti") to give the remark its edge.
+- 'It is me again, your landlady.' Pointing to the landlady during the talk, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I need to take the readings from the water meters.' Max reacts candidly across the room, to clear the air between them once and for all.
+- 'Take the readings and leave right away.' Turning to the readings in this beat, Katya lands on "pokazateli" ("readings, figures", built on "pokazatel") to keep the statement grounded.
+- 'But they are in the bathroom.' Bringing up the room in front of Katya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I will write everything down myself and bring it to you.' Katya speaks up wryly on the spot, watching Max's face to see how the news lands.
+- 'Alright, then I will wait.' Max reacts briskly beside Katya and reaches for the Russian word "khorosho" ("good, fine") right at the heart of the line.
+- 'What is this? For the second day there is some knocking.' Emphasizing how second things are with Max, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He does not seem to be in a hurry to apologize on his knees.' Max fires back steadily watching Nagiyev, to clear the air between them once and for all.
+- 'Well it is fine, I will wait a little longer.' Max reacts quietly at once and centers the remark on "yeshchyo" ("more, still") without any extra fuss.
+- 'What happened here with you again?' Pressing on plainly on the spot, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'What on earth are you doing here?' Nagiyev quizzes straight out about what Max just brought up.

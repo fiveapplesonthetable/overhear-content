@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I forgot about the wine.' Vika highlights one colorful element in reply: "vino" means "wine", and it carries the main weight of what Vika is saying.
-- 'Sixty-five thousand rubles.' Kostya drops this point briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'One minute remains until the end of the match.' Barinov speaks up wryly to be clear, keeping the focus on what actually matters here.
-- 'Vitya, we need to talk.' Vika anchors this vivid choice toward Kostya: "pogovorit" means "to talk", and it carries the main weight of what Vika is saying.
-- 'Vika, step aside, I cannot see anything.' Barinov drops the comment at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'But never do that again.' Barinov jumps in promptly without a pause, saying out loud what both of them already know.
-- 'What did you want?' Barinov focuses on one direct choice right here: "khotela" means "wanted, meant" (from "khotet"), giving the line its exact edge.
-- 'Vitya, I want to talk.' Vika brings the thought without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'No, I demand it.' Vika replies dryly toward Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'That you fire him.' Vika emphasizes one classic term at once: "uvolil" means "to fire, to dismiss" (from "uvolit"), giving the line its exact edge.
-- 'What is wrong with you?' Barinov gives the thought beside Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Max, I forgot about the wine.' Mentioning the wine with Kostya, Vika uses "vino" ("wine") to carry the main weight of the thought.
+- 'Sixty-five thousand rubles.' Talking about the thousand in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'One minute remains until the end of the match.' Touching on the minute on the spot, Barinov cuts straight through the tension with Kostya.
+- 'Vitya, we need to talk.' Vika follows up firmly before Barinov and leans on "pogovorit" ("to talk") to give the whole sentence its punch.
+- 'Vika, step aside, I cannot see anything.' Replying boldly on the spot, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'But never do that again.' Barinov replies promptly in their talk, to clear the air between them once and for all.
+- 'What did you want?' Barinov speaks up firmly on the spot and leans on "khotela" ("wanted, meant", a form of "khotet") to give the remark its edge.
+- 'Vitya, I want to talk.' Looking over naturally beside Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'No, I demand it.' Vika counters dryly without holding back, bringing things back to earth after the buildup.
+- 'That you fire him.' Vika weighs in warmly in the exchange and uses "uvolil" ("to fire, to dismiss", from "uvolit") to make the point stick.
+- 'What is wrong with you?' Stepping in evenly in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
 - 'Is something wrong with the baby?' Barinov prompts calmly why things suddenly took this turn between them.

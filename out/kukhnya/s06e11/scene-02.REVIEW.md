@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, attention, Dyagilev is on his way to us right now.' Mikhail continues frankly around Barinov, bringing things back to earth after the buildup.
-- 'He has an important meeting scheduled here today.' Mikhail weighs in pointedly in this moment, so Eleonora knows he is not just making small talk.
-- 'My reliable contact informed me about this.' Mikhail spotlights one clear detail right here: "nadyozhnyy" means "reliable", and it carries the main weight of what Mikhail is saying.
-- 'Good morning, your contact is reliable, but very slow.' Barinov directs that point facing Mikhail: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Because he has been sitting here for a long time already.' Barinov steps in earnestly in their talk, grounding the moment in plain reality.
-- 'So where did you and I leave off?' Eleonora emphasizes one practical touch for Mikhail: "ostanovilis" means "to stop" (from "ostanovitsya"), giving the line its exact edge.
-- 'You and I were talking about my Nikita.' Mikhail stands firm warmly across the room, saying out loud what both of them already know.
-- 'You know, he is handling the job very well.' Eleonora steps in warmly without any doubt, letting the remark speak for itself.
-- 'That is good, because he tells me nothing at all.' Mikhail highlights one clear term on cue: "rasskazyvayet" means "tells" (from "rasskazyvat"), giving the line its exact edge.
-- 'I understand you, I have a daughter of the same age.' Eleonora makes this point right away: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'And you know, you cannot get a word out of her.' Eleonora speaks up right away without a pause, without trying to dress up how she really feels.
-- 'Welcome to our restaurant, dear guest!' Barinov centers one clear choice for Mikhail: "pozhalovat" means "to welcome", and it carries the main weight of what Barinov is saying.
-- 'Listen, I did not know that you have a daughter.' Mikhail gives this update plainly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Viktor, attention, Dyagilev is on his way to us right now.' Discussing the attention around Barinov, Mikhail puts the emphasis on "vnimaniye" ("attention") in the middle of the talk.
+- 'He has an important meeting scheduled here today.' Mikhail speaks pointedly in this moment, steering the talk right where he wants it.
+- 'My reliable contact informed me about this.' Mikhail jumps in vividly beside Barinov and leans on "nadyozhnyy" ("reliable") to give the whole sentence its punch.
+- 'Good morning, your contact is reliable, but very slow.' Pointing out how good things are on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Because he has been sitting here for a long time already.' Barinov speaks earnestly around Eleonora, to clear the air between them once and for all.
+- 'So where did you and I leave off?' Eleonora jumps in quietly during the talk and leans on "ostanovilis" ("to stop", a form of "ostanovitsya") to give the remark its edge.
+- 'You and I were talking about my Nikita.' Mikhail pushes back vividly before Eleonora and uses "govorili" ("talked", from "govorit") to make the point stick.
+- 'You know, he is handling the job very well.' Eleonora counters warmly on the spot, watching Mikhail's face to see how the news lands.
+- 'That is good, because he tells me nothing at all.' Mikhail continues firmly beside Eleonora and brings in "khorosho" ("good, fine") to make the meaning unmistakable.
+- 'I understand you, I have a daughter of the same age.' Turning to the age without holding back, Eleonora sets the direction for the rest of the talk with Mikhail.
+- 'And you know, you cannot get a word out of her.' Raising the words watching Barinov, Eleonora speaks plainly so Barinov gets the message at once.
+- 'Welcome to our restaurant, dear guest!' Underscoring his restaurant in the exchange, Barinov reaches for the Russian word "restoran" ("restaurant") right at the heart of the line.
+- 'Listen, I did not know that you have a daughter.' Dwelling on a daughter in the exchange, Mikhail uses "u tebya" (literally "by you") where English says "you have" or "your".

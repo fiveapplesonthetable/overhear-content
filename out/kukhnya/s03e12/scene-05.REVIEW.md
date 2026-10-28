@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We will definitely solve this problem, friends.' Nagiyev cuts in warmly in this moment, bringing things back to earth after the buildup.
-- 'Kirill Ilyich, why are you starting this?' Barinov challenges calmly to see how Nagiyev will answer on the spot.
-- 'We feed you at the highest level.' Barinov picks one pointed term right here: "vysshem" means "highest, supreme" (from "vysshiy"), giving the line its exact edge.
-- 'Vitya, you are only the boss in your own kitchen.' Nagiyev gives this update beside Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'This old man needs a special approach.' Barinov opens up earnestly with a smile, shifting the whole mood of the room in a single beat.
-- 'We need to have a heart-to-heart talk with him.' Barinov points to this telling word on cue: "pogovorit" means "to talk", and it carries the main weight of what Barinov is saying.
-- 'I see, you just want an excuse to drink, right?' Nagiyev makes that thought with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'And just to chat heart to heart.' Nagiyev opens up lightly with a sigh, before Barinov can change the subject.
-- 'Once again I have to solve everything myself.' Nagiyev grounds one familiar element at once: "reshat" means "decide, solve", and it carries the main weight of what Nagiyev is saying.
-- 'I will go upstairs to him right now.' Nagiyev states this answer frankly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Hello, Kirill Ilyich!' Nagiyev speaks boldly with a nod, to clear the air between them once and for all.
-- 'Our dear neighbor.' Nagiyev chooses one memorable expression on cue: "dorogoy" means "dear", and it carries the main weight of what Nagiyev is saying.
+- 'We will definitely solve this problem, friends.' Focusing on the problem beside Barinov, Nagiyev lands on "obyazatelno" ("surely, without fail") as the key everyday word here.
+- 'Kirill Ilyich, why are you starting this?' Barinov challenges calmly what Nagiyev is actually getting at here.
+- 'We feed you at the highest level.' Pointing to the highest level beside Nagiyev, Barinov leans on "vysshem" ("highest, supreme", a form of "vysshiy") to give the remark its edge.
+- 'Vitya, you are only the boss in your own kitchen.' Pointing out how main Barinov is on the spot, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'This old man needs a special approach.' Barinov continues earnestly without a pause, letting the remark speak for itself.
+- 'We need to have a heart-to-heart talk with him.' Focusing on the hearts in the exchange, Barinov centers the remark on "pogovorit" ("to talk") without any extra fuss.
+- 'I see, you just want an excuse to drink, right?' Cutting in plainly in front of Barinov, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'And just to chat heart to heart.' Nagiyev continues lightly on the spot, so Barinov knows he is not just making small talk.
+- 'Once again I have to solve everything myself.' Nagiyev speaks calmly on the spot and uses "reshat" ("decide, solve") to carry the main weight of the thought.
+- 'I will go upstairs to him right now.' Nagiyev pushes back evenly in front of Barinov and uses "naverkh" ("upstairs, upward") to carry the main weight of the thought.
+- 'Hello, Kirill Ilyich!' Nagiyev smoothly extends this formal greeting to Barinov using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Our dear neighbor.' Talking about the neighbour to Barinov, Nagiyev reaches for the Russian word "dorogoy" ("dear") right at the heart of the line.

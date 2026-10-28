@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will you measure the thickness of the carpet too?' Max leans on one loaded expression with Kostya: "tolshchinu" means "thickness" (from "tolshchina"), giving the line its exact edge.
-- 'Definitely! Quite right.' Kostya shapes the reply at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'The moustached man did not use the cloakroom, so he stays with us.' Max weighs in bluntly to be clear, keeping the focus on what actually matters here.
-- 'Maybe we would do better not to mess with him?' Kostya features this sharp piece right here: "svyazyvatsya" means "to mess with", and it carries the main weight of what Kostya is saying.
-- 'Sveta, will you help?' Max frames that thought with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'One minute.' Sveta holds firm promptly on the spot, before Max can change the subject.
-- 'Have you not finished yet? You are doing everything very slowly.' Kostya grounds one pointed touch in reply: "zakonchili" means "to finish, to complete" (from "zakonchit"), giving the line its exact edge.
-- 'I cannot wait any longer.' Kostya speaks up calmly hearing Sveta, shifting the whole mood of the room in a single beat.
-- 'I am doing it, I am doing it.' Sveta stands firm promptly with a nod, watching Kostya's face to see how the news lands.
-- 'Why are you deleting the database? What are you doing?' Max uses this key choice at once: "udalyayesh" means "delete" (from "udalyat"), giving the line its exact edge.
-- 'I do not know.' Sveta shapes the reply to Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'The hypnotist is still in the hotel!' Max opens up sharply as things stand, making his position completely clear.
+- 'Will you measure the thickness of the carpet too?' Discussing the thickness to Kostya, Max puts the weight on "tolshchinu" ("thickness", from "tolshchina") as the exchange unfolds.
+- 'Definitely! Quite right.' Opening up frankly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'The moustached man did not use the cloakroom, so he stays with us.' Max speaks bluntly toward Kostya, leaving no doubt about where he stands.
+- 'Maybe we would do better not to mess with him?' Kostya replies openly in the exchange and centers the remark on "svyazyvatsya" ("to mess with") without any extra fuss.
+- 'Sveta, will you help?' Reacting plainly at once, Max keeps normal statement word order here, turning the line into a question for Sveta purely through rising pitch.
+- 'One minute.' Sveta chimes in promptly watching Max, watching Max's face to see how the news lands.
+- 'Have you not finished yet? You are doing everything very slowly.' Kostya replies firmly in the exchange and chooses "zakonchili" ("to finish, to complete", from the root "zakonchit") so Sveta hears the exact meaning.
+- 'I cannot wait any longer.' Kostya counters candidly before Sveta and brings in "zhdat" ("to wait") to make the meaning unmistakable.
+- 'I am doing it, I am doing it.' Sveta replies promptly around Kostya, keeping the focus on what actually matters here.
+- 'Why are you deleting the database? What are you doing?' Mentioning the database around Sveta, Max brings in "udalyayesh" ("delete", from "udalyat") as the key Russian word here.
+- 'I do not know.' Opening up openly around Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'The hypnotist is still in the hotel!' Max responds sharply with a shrug, so Sveta knows he is not just making small talk.

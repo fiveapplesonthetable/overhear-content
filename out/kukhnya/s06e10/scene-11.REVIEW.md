@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ainura, may I stay overnight at your place again tonight?' Denis voices that remark with warmth: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'I already found the money, but not an apartment yet.' Denis responds decisively beside Senya, keeping the focus on what actually matters here.
-- 'Of course you may, you are almost like a relative.' Katya stresses one direct piece in reply: "rodstvennik" means "relative", and it carries the main weight of what Katya is saying.
-- 'Hello everyone, well where is our dear birthday boy?' Katya puts this line before Senya: opening with the casual greeting "privet" ("hi") signals right away that Katya and Senya are on familiar terms.
-- 'Senya, with all our heart we wish you a happy birthday!' Katya holds firm wryly beside Denis, leaving no doubt about where she stands.
-- 'Thank you, of course, but giving flowers to men is strange.' Senya uses one concrete piece for Katya: "muzhchinam" means "men" (from "muzhchina"), giving the line its exact edge.
-- 'Happy birthday, I will definitely be there this evening.' Denis proceeds at once during the talk, letting the remark speak for itself.
-- 'More precisely, this evening we will come together with Sveta.' Denis reacts quietly before Senya, bringing things back to earth after the buildup.
-- 'My mom used to tell me to go study to be a musician!' Senya centers this telling touch for Denis: "muzykanty" means "musician" (from "muzykant"), giving the line its exact edge.
-- 'Senya, and Nikita and I will also come tonight.' Katya pushes back boldly without any doubt, letting the remark speak for itself.
-- 'Yes, with Nikita Andreevich, the new restaurant director.' Katya holds firm honestly without a pause, making her position completely clear.
-- 'Guys, then the status of our event rises sharply!' Senya grounds one loaded choice in earnest: "meropriyatiya" means "events", and it carries the main weight of what Senya is saying.
+- 'Ainura, may I stay overnight at your place again tonight?' Looking over briskly to Katya, Denis leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'I already found the money, but not an apartment yet.' Denis follows up decisively with Katya, without trying to dress up how he really feels.
+- 'Of course you may, you are almost like a relative.' Bringing up a relative around Denis, Katya lands on "rodstvennik" ("relative") as the key everyday word here.
+- 'Hello everyone, well where is our dear birthday boy?' Checking on the boy during the talk, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Senya, with all our heart we wish you a happy birthday!' Katya opens up wryly without a pause, keeping the focus on what actually matters here.
+- 'Thank you, of course, but giving flowers to men is strange.' Bringing up the men before Katya, Senya reaches for the Russian word "muzhchinam" ("men", built from "muzhchina") right at the center of the line.
+- 'Happy birthday, I will definitely be there this evening.' Addressing the birth before Senya, Denis reaches for the Russian word "rozhdeniya" ("of birth", built from "rozhdeniye") right at the center of the line.
+- 'More precisely, this evening we will come together with Sveta.' Denis reacts quietly in this moment, steering the talk right where he wants it.
+- 'My mom used to tell me to go study to be a musician!' Underscoring a musician beside Denis, Senya reaches for the Russian word "muzykanty" ("musician", built from "muzykant") right at the center of the line.
+- 'Senya, and Nikita and I will also come tonight.' Katya fires back evenly during the talk and reaches for the Russian word "vecherom" ("in the evening") right at the heart of the line.
+- 'Yes, with Nikita Andreevich, the new restaurant director.' Katya chimes in honestly toward Senya, before Senya can change the subject.
+- 'Guys, then the status of our event rises sharply!' Addressing the events to Katya, Senya leans on "meropriyatiya" ("events") to give the whole sentence its punch.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nothing brings our team together so well.' Fedya weighs in quietly beside Max, watching Max's face to see how the news lands.
-- 'Guys, what is this banquet we have here?' Max spotlights one sharp touch in earnest: "banket" means "banquet", and it carries the main weight of what Max is saying.
-- 'We are drinking to our brave new sous-chef!' Senya opens up bluntly during the talk, grounding the moment in plain reality.
-- 'Max, we need to ask German for a salary raise!' Fedya weighs in boldly with a nod, before Senya can change the subject.
-- 'Strike while the iron is still hot!' Senya frames one loaded term right here: "zhelezo" means "while", and it carries the main weight of what Senya is saying.
-- 'Guys, come on, what raise right now?' Max puts this warning around Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'Come on, finish up quickly and let's go work.' Max responds promptly toward Fedya, bringing things back to earth after the buildup.
-- 'What, has our brave leader gotten scared already?' Fedya colors one key touch with Senya: "ispugalsya" means "got scared" (from "ispugatsya"), giving the line its exact edge.
-- 'No big deal, then we will go ourselves!' Senya chimes in firmly without a pause, grounding the moment in plain reality.
-- 'Guys, all right, wait here for one second!' Max fires back candidly with a sigh, steering the talk right where he wants it.
-- 'I simply did not want to tell you until evening.' Max anchors this sharp touch in earnest: "vechera" means "evening" (from "vecher"), giving the line its exact edge.
-- 'I already got a bonus out of German today!' Max responds at once without holding back, steering the talk right where he wants it.
-- 'Here is your money, take it and sign for it.' Max weighs in decisively in their talk, making his position completely clear.
+- 'Nothing brings our team together so well.' Fedya jumps in quietly across the room, letting the remark speak for itself.
+- 'Guys, what is this banquet we have here?' Talking about the banquet in front of Senya, Max brings in "banket" ("banquet") to make the meaning unmistakable.
+- 'We are drinking to our brave new sous-chef!' Senya speaks up firmly before Max and leans on "su-shefa" ("sous-chef", a form of "su-shef") to give the remark its edge.
+- 'Max, we need to ask German for a salary raise!' Fedya steps in boldly on the spot, leaving no doubt about where he stands.
+- 'Strike while the iron is still hot!' Touching on the while to Fedya, Senya brings in "zhelezo" ("while") to make the meaning unmistakable.
+- 'Guys, come on, what raise right now?' Answering firmly with Senya, Max keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Come on, finish up quickly and let's go work.' Max answers promptly without a pause, keeping the focus on what actually matters here.
+- 'What, has our brave leader gotten scared already?' Pointing to the leader before Senya, Fedya reaches for the Russian word "ispugalsya" ("got scared", built from "ispugatsya") right at the center of the line.
+- 'No big deal, then we will go ourselves!' Senya pushes back warmly in the exchange and leans on "strashnogo" ("terrible, serious", a form of "strashnyy") to give the remark its edge.
+- 'Guys, all right, wait here for one second!' Max jumps in candidly in this moment, keeping the focus on what actually matters here.
+- 'I simply did not want to tell you until evening.' Focusing on the evening in this beat, Max leans on "vechera" ("evening", a form of "vecher") to give the remark its edge.
+- 'I already got a bonus out of German today!' Highlighting a bonus right here, Max puts the weight on "premiyu" ("bonus, prize", from "premiya") as the exchange unfolds.
+- 'Here is your money, take it and sign for it.' Max weighs in decisively toward Senya, testing Senya's reaction in the middle of the exchange.

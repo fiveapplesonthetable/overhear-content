@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, call Ilya, a regular guest of his has arrived.' Sasha pushes back plainly facing Ilya, refusing to let the moment slip past.
-- 'Yes, of course.' Max emphasizes this vivid touch toward Sasha: "konechno" means "of course", and it carries the main weight of what Max is saying.
-- 'Good afternoon. You know, Ilya is not here today.' Max fires back boldly with a sigh, shifting the whole mood of the room in a single beat.
-- 'Can I help you with something?' Max tests candidly if there is more going on behind the scenes.
-- 'Yes, I am in a big hurry.' Ilya centers one colorful piece on cue: "toroplyus" means "I'm in a hurry" (from "toropitsya"), giving the line its exact edge.
-- 'Please bring me tartare and coffee.' Ilya follows up decisively with a shrug, saying out loud what both of them already know.
-- 'Bon appetit.' Max jumps in evenly toward Ilya, bringing things back to earth after the buildup.
-- 'Why are you standing here?' Max centers one colorful detail with Sasha: "stoish" means "stand" (from "stoyat"), giving the line its exact edge.
-- 'Oh nothing, I stepped out to get some air.' Ilya drops this line for Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Max, why didn't you take your table?' Ilya checks bluntly if there is more going on behind the scenes.
-- 'That is Ilya's table. Pass the order to him.' Max features one clear word toward Ilya: "stolik" means "table", and it carries the main weight of what Max is saying.
-- 'I brought out the order and brought the bill, he was just in a hurry.' Sasha makes that reply around Max: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Max, call Ilya, a regular guest of his has arrived.' Sasha opens up plainly during the talk, leaving no doubt about where she stands.
+- 'Yes, of course.' Max gently voices this confirmation for Sasha using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Good afternoon. You know, Ilya is not here today.' Noting how good things are at once, Max chooses "dobryy" ("good") so Ilya gets the point right away.
+- 'Can I help you with something?' Max tests candidly what Ilya is actually getting at here.
+- 'Yes, I am in a big hurry.' Ilya chimes in readily around Max and brings in "toroplyus" ("I'm in a hurry", from "toropitsya") as the key Russian word here.
+- 'Please bring me tartare and coffee.' Touching on the tartare in front of Max, Ilya puts the emphasis on "tartar" ("tartare") in the middle of the talk.
+- 'Bon appetit.' Max jumps in evenly during the talk, watching Ilya's face to see how the news lands.
+- 'Why are you standing here?' Max continues calmly around Ilya and chooses "stoish" ("stand", from the root "stoyat") so Ilya hears the exact meaning.
+- 'Oh nothing, I stepped out to get some air.' Leaning in smoothly with Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Max, why didn't you take your table?' Ilya checks bluntly what Max is actually getting at here.
+- 'That is Ilya's table. Pass the order to him.' Highlighting the table in the exchange, Max uses "stolik" ("table") to carry the main weight of the thought.
+- 'I brought out the order and brought the bill, he was just in a hurry.' Focusing on the order in this beat, Sasha uses the little word "prosto" ("simply, just") to make the point sound effortless.

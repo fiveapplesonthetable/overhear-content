@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say that bitter truth is better than a sweet lie.' Max speaks wryly toward Vika, so Vika knows he is not just making small talk.
-- 'But not everyone will want to taste that bitterness.' Max cuts in earnestly without any doubt, grounding the moment in plain reality.
-- 'Although only that way can you feel the taste of life.' Max grounds one direct term right here: "pochuvstvovat" means "to feel, sense", and it carries the main weight of what Max is saying.
-- 'It is the pleasant taste of victory when everything works out.' Max lays out the remark around Vika: the "-sya" ending on "poluchayetsya" ("works out") turns the action inward or makes it happen between people naturally.
-- 'And of course, the bright taste of our family relationship.' Max responds calmly beside Vika, testing Vika's reaction in the middle of the exchange.
-- 'Our life is delicious in very different ways.' Max spotlights this telling element on cue: "po-raznomu" means "in different ways", and it carries the main weight of what Max is saying.
-- 'Vika, take this, here is the money for my rifle.' Max chimes in right away with a nod, bringing things back to earth after the buildup.
-- 'I returned it back to the store today.' Max answers pointedly around Vika, steering the talk right where he wants it.
-- 'It really is high time for me to grow up.' Max features one memorable choice on cue: "deystvitelno" means "really, indeed", and it carries the main weight of what Max is saying.
-- 'By the way, you can return your expensive wine too.' Max hands over the reaction on cue: opening with "kstati" ("by the way") lets Max drop a new detail into the conversation as if it just crossed his mind.
-- 'So that they would refund my money for it to you?' Vika checks firmly in front of Max without any preamble.
-- 'I already poured that wine down the sink, Max!' Vika leans on one familiar choice toward Max: "rakovinu" means "max" (from "rakovina"), giving the line its exact edge.
+- 'They say that bitter truth is better than a sweet lie.' Showing how bitter things are in front of Vika, Max chooses "gorkaya" ("bitter", from the root "gorkiy") so Vika hears the exact meaning.
+- 'But not everyone will want to taste that bitterness.' Max cuts in earnestly with Vika, watching Vika's face to see how the news lands.
+- 'Although only that way can you feel the taste of life.' Discussing the taste with Vika, Max puts the emphasis on "pochuvstvovat" ("to feel, sense") in the middle of the talk.
+- 'It is the pleasant taste of victory when everything works out.' Discussing the pleasant taste with Vika, the "-sya" ending on "poluchayetsya" ("works out") marks an action that unfolds mutually or turns back on the speaker.
+- 'And of course, the bright taste of our family relationship.' Max pushes back calmly across the room, letting the remark speak for itself.
+- 'Our life is delicious in very different ways.' Discussing his life in this beat, Max reaches for the Russian word "po-raznomu" ("in different ways") right at the heart of the line.
+- 'Vika, take this, here is the money for my rifle.' Turning to the gun in this beat, Max uses "ruzhyo" ("a gun, rifle") to carry the main weight of the thought.
+- 'I returned it back to the store today.' Max chimes in pointedly toward Vika, so Vika knows he is not just making small talk.
+- 'It really is high time for me to grow up.' Max chimes in earnestly to Vika and centers the remark on "deystvitelno" ("really, indeed") without any extra fuss.
+- 'By the way, you can return your expensive wine too.' Touching on the wine to Vika, Max opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'So that they would refund my money for it to you?' Vika checks firmly how Max expects that to work in practice.
+- 'I already poured that wine down the sink, Max!' Addressing the wine on the spot, Vika reaches for the Russian word "vino" ("wine") right at the heart of the line.

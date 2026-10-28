@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Timur, how are you doing this morning?' Katya colors one pointed choice right here: "segodnya" means "today", and it carries the main weight of what Katya is saying.
-- 'Hi, gorgeous, do you know who blocked my driveway?' Timur lays out this point before Katya: opening with the casual greeting "privet" ("hi") signals right away that Timur and Katya are on familiar terms.
-- 'No, we saw that insolent car ourselves this morning.' Katya proceeds right away before Timur, refusing to let the moment slip past.
-- 'Because of him I have to walk an extra twenty meters on foot!' Timur underscores one loaded detail at once: "lishniye" means "unnecessary" (from "lishniy"), giving the line its exact edge.
-- 'Timur, tell me, do you have any rotten eggs?' Katya states this update on cue: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Are you offending me, gorgeous? Of course I do not!' Timur inquires curiously in front of Katya without any preamble.
-- 'What a pity, otherwise we would punish him for his parking!' Katya sharpens this key touch on cue: "parkovku" means "parking" (from "parkovka"), giving the line its exact edge.
-- 'Oh, for a cause like that? Then of course I have some!' Timur frames this answer without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Here you go, the very best choice rotten eggs!' Timur holds firm lightly watching Katya, refusing to let the moment slip past.
-- 'Great, come on and keep me company right now!' Katya frames one memorable term on cue: "vesyoluyu" means "cheerful, merry" (from "vesyolyy"), giving the line its exact edge.
-- 'With great pleasure, let's throw them right at the windshield!' Timur responds quietly on the spot, bringing things back to earth after the buildup.
-- 'Now that owner will definitely learn how to park properly!' Katya chimes in quietly in their talk, testing Timur's reaction in the middle of the exchange.
+- 'Hi, Timur, how are you doing this morning?' Katya steps in sharply in the exchange and uses "segodnya" ("today") to carry the main weight of the thought.
+- 'Hi, gorgeous, do you know who blocked my driveway?' Discussing the beauty right here, Timur puts the question word "kto" right at the start so Katya hears the focus immediately.
+- 'No, we saw that insolent car ourselves this morning.' Katya jumps in right away without any doubt, letting the remark speak for itself.
+- 'Because of him I have to walk an extra twenty meters on foot!' Pointing to the metres at once, Timur puts the weight on "lishniye" ("unnecessary", from "lishniy") as the exchange unfolds.
+- 'Timur, tell me, do you have any rotten eggs?' Dwelling on the eggs in the exchange, Katya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Are you offending me, gorgeous? Of course I do not!' Timur inquires curiously to see how Katya will answer on the spot.
+- 'What a pity, otherwise we would punish him for his parking!' Highlighting the parking on the spot, Katya brings in "parkovku" ("parking", from "parkovka") as the key Russian word here.
+- 'Oh, for a cause like that? Then of course I have some!' Pushing back briskly in front of Katya, Timur keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Here you go, the very best choice rotten eggs!' Timur opens up lightly in their talk, keeping the focus on what actually matters here.
+- 'Great, come on and keep me company right now!' Bringing up the company at once, Katya reaches for the Russian word "vesyoluyu" ("cheerful, merry", built from "vesyolyy") right at the center of the line.
+- 'With great pleasure, let's throw them right at the windshield!' Talking about the pleasure on the spot, Timur brings in "udovolstviyem" ("pleasure", from "udovolstviye") as the key Russian word here.
+- 'Now that owner will definitely learn how to park properly!' Katya responds quietly with a sigh, testing Timur's reaction in the middle of the exchange.

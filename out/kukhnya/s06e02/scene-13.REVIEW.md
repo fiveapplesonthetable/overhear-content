@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They suddenly moved our filming to tomorrow.' Barinov chooses this clear piece for Mikhail: "perenesli" means "rescheduled" (from "perenesti"), giving the line its exact edge.
-- 'And we need to answer urgently.' Barinov lays out that reply without pause: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'They suddenly moved our filming to tomorrow.' Talking about his filming at once, Barinov centers the thought on "perenesli" ("rescheduled", from "perenesti") without wasting a word.
+- 'And we need to answer urgently.' Reacting boldly beside Mikhail, Barinov leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
 - 'They want to film tomorrow, what should we do?' Barinov asks point-blank before Mikhail can change the subject.
-- 'After all, Eleonora forbade everything.' Barinov picks one loaded piece in reply: "zapretila" means "banned" (from "zapretit"), giving the line its exact edge.
-- 'Agree to it, tomorrow she will be gone all day.' Mikhail gives the comeback without pause: the "-sya" ending on "soglashaysya" ("agree") turns the action inward or makes it happen between people naturally.
-- 'She will even thank you afterward.' Mikhail reacts honestly with a nod, shifting the whole mood of the room in a single beat.
-- 'Alright, come tomorrow.' Barinov reaches for one colorful choice in reply: "priyezzhayte" means "to come, to arrive" (from "priyezzhat"), giving the line its exact edge.
-- 'The crew will be at our place at four o'clock.' Barinov offers this answer with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'It is no star, of course, but it is already something.' Barinov continues calmly without a pause, keeping the focus on what actually matters here.
-- 'Let's go celebrate, I will catch up right now.' Barinov reaches for one loaded touch toward Mikhail: "poydyom" means "let's go" (from "poyti"), giving the line its exact edge.
-- 'Thank you for the help, friend.' Mikhail directs that remark with candor: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'As we say in Russia, one good turn deserves another.' Mikhail chimes in promptly beside Barinov, bringing things back to earth after the buildup.
+- 'After all, Eleonora forbade everything.' Barinov speaks up sharply in front of Mikhail and uses "zapretila" ("banned", from "zapretit") to make the point stick.
+- 'Agree to it, tomorrow she will be gone all day.' Pushing back openly in front of Barinov, the "-sya" ending on "soglashaysya" ("agree") marks an action that unfolds mutually or turns back on the speaker.
+- 'She will even thank you afterward.' Mikhail responds honestly without holding back, without trying to dress up how he really feels.
+- 'Alright, come tomorrow.' Barinov steps in sharply with Mikhail and lands on "priyezzhayte" ("to come, to arrive", built on "priyezzhat") to keep the statement grounded.
+- 'The crew will be at our place at four o'clock.' Touching on the group during the talk, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'It is no star, of course, but it is already something.' Barinov continues calmly on the spot, steering the talk right where he wants it.
+- 'Let's go celebrate, I will catch up right now.' Barinov pushes back firmly at once and brings in "poydyom" ("let's go", from "poyti") as the key Russian word here.
+- 'Thank you for the help, friend.' Speaking to Barinov calmly without hesitation, Mikhail says "spasibo" ("thank you"), the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'As we say in Russia, one good turn deserves another.' Mikhail chimes in promptly hearing Barinov, making his position completely clear.

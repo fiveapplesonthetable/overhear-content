@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ainura, tell me, will you have seconds of pasta today?' Barinov inquires eagerly what Ainura is actually getting at here.
-- 'Oh, no, I will not, it turned out very untasty.' Ainura focuses on one colorful expression at once: "poluchilos" means "worked out" (from "poluchitsya"), giving the line its exact edge.
-- 'If you are looking for Misha, he is resting in a room.' Ainura chooses this clear term at once: "otdykhayet" means "to rest, relax" (from "otdykhat"), giving the line its exact edge.
-- 'Sveta, listen, you must take the ring off right now.' Denis reacts plainly across the room, letting the remark speak for itself.
-- 'I know, forgive me for ruining the surprise.' Ainura grounds one telling expression right here: "syurpriz" means "surprise", and it carries the main weight of what Ainura is saying.
-- 'Let us pretend as if I forgot everything.' Ainura shapes the comeback at once: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Sveta, understand, this ring is not for you at all.' Denis chimes in warmly with a sigh, testing Ainura's reaction in the middle of the exchange.
-- 'Wait, how is it not for me, then who is it for?' Ainura emphasizes this key element toward Denis: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Denis, well how much longer can we wait for you?' Barinov delivers the thought beside Ainura: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Where is my ring that I bought for Nastya?' Barinov challenges briskly while looking straight at Denis here.
-- 'Kostya, wait a minute, a small problem came up here.' Denis picks one key detail in reply: "nebolshaya" means "small" (from "nebolshoy"), giving the line its exact edge.
-- 'It seems it is stuck and will not come off my finger at all!' Ainura sends the remark with warmth: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Ainura, tell me, will you have seconds of pasta today?' Barinov inquires eagerly to see how Ainura will answer on the spot.
+- 'Oh, no, I will not, it turned out very untasty.' Ainura fires back calmly with Barinov and lands on "poluchilos" ("worked out", built on "poluchitsya") to keep the statement grounded.
+- 'If you are looking for Misha, he is resting in a room.' Ainura follows up sharply watching Denis, making her position completely clear.
+- 'Sveta, listen, you must take the ring off right now.' Denis answers plainly with Ainura, making his position completely clear.
+- 'I know, forgive me for ruining the surprise.' Addressing the surprise in front of Denis, Ainura chooses "syurpriz" ("surprise") so Denis gets the point right away.
+- 'Let us pretend as if I forgot everything.' Turning to the view right here, Ainura starts with "davay" ("come on, let's") to invite Denis right into the action.
+- 'Sveta, understand, this ring is not for you at all.' Denis answers warmly around Ainura, keeping the focus on what actually matters here.
+- 'Wait, how is it not for me, then who is it for?' Ainura follows up directly around Barinov and leans on "podozhdi" ("wait", a form of "podozhdat") to give the remark its edge.
+- 'Denis, well how much longer can we wait for you?' Speaking dryly in front of Denis, Barinov leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Where is my ring that I bought for Nastya?' Barinov challenges briskly to see how Denis will answer on the spot.
+- 'Kostya, wait a minute, a small problem came up here.' Pointing to a minute right here, Denis puts the weight on "nebolshaya" ("small", from "nebolshoy") as the exchange unfolds.
+- 'It seems it is stuck and will not come off my finger at all!' Dwelling on the fingers to Denis, Ainura adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.

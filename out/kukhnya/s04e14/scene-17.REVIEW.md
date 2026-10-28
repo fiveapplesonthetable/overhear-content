@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Friends, all of you know our wonderful occasion.' Barinov focuses on one colorful term right here: "prekrasnyy" means "beautiful", and it carries the main weight of what Barinov is saying.
-- 'Let's all drink to it together right now!' Barinov fires back pointedly beside Senya, grounding the moment in plain reality.
-- 'That strange mustachioed host is speaking again.' The guest chooses this direct piece right here: "vedushchiy" means "host", and it carries the main weight of what the guest is saying.
-- 'Wait, what did you just say about him?' Senya states this warning without pause: putting the question word "chto" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'You came to a man's birthday party!' Senya reacts plainly with Barinov, grounding the moment in plain reality.
-- 'You are drinking here at his personal expense!' Senya highlights one concrete expression in earnest: "lichnyy" means "personal", and it carries the main weight of what Senya is saying.
-- 'Whose party did I come to?' The guest shares this statement briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'I gave huge money for the protection of leopards!' The guest pushes back sharply in this moment, testing Senya's reaction in the middle of the exchange.
-- 'Who are you to insult me here?' The guest anchors one loaded word right here: "oskorblyat" means "to insult", and it carries the main weight of what the guest is saying.
-- 'I am the best friend of our birthday boy, that is who!' Senya offers this point beside the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Guys, it seems it is time for us to leave here quickly!' Barinov counters warmly hearing the guest, so the guest knows he is not just making small talk.
-- 'Wait, where did you all run off to?' The guest features one telling element at once: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Friends, all of you know our wonderful occasion.' Barinov counters warmly toward the guest, letting the remark speak for itself.
+- 'Let's all drink to it together right now!' Barinov weighs in pointedly in this moment, to clear the air between them once and for all.
+- 'That strange mustachioed host is speaking again.' Insisting on how strange things are before Barinov, the guest uses "vedushchiy" ("host") to carry the main weight of the thought.
+- 'Wait, what did you just say about him?' Weighing in boldly with the guest, Senya puts the question word "chto" right at the start so the guest hears the focus immediately.
+- 'You came to a man's birthday party!' Senya responds plainly on the spot, keeping the focus on what actually matters here.
+- 'You are drinking here at his personal expense!' Describing how personal the guest is right here, Senya leans on "lichnyy" ("personal") to give the whole sentence its punch.
+- 'Whose party did I come to?' Discussing the holiday at once, the guest keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'I gave huge money for the protection of leopards!' The guest reacts sharply on the spot, keeping the focus on what actually matters here.
+- 'Who are you to insult me here?' The guest steps in directly to Senya and lands on "oskorblyat" ("to insult") as the key everyday word here.
+- 'I am the best friend of our birthday boy, that is who!' Confirming how best he is in this beat, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Guys, it seems it is time for us to leave here quickly!' Barinov fires back warmly toward Senya, steering the talk right where he wants it.
+- 'Wait, where did you all run off to?' The guest fires back briskly at once and brings in "podozhdite" ("wait", from "podozhdat") as the key Russian word here.

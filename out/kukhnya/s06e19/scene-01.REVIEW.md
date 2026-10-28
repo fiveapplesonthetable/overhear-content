@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Welcome back to us, Vitya!' Eleonora frames one practical piece in reply: "vozvrashcheniyem" means "return" (from "vozvrashcheniye"), giving the line its exact edge.
-- 'Misha, thank you for everything.' Barinov directs that thought toward Katya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'And thank you all very much.' Barinov continues dryly with a nod, making his position completely clear.
-- 'But a special thank you to my son-in-law.' Barinov chooses one pointed word toward Katya: "osoboye" means "special" (from "osobyy"), giving the line its exact edge.
-- 'Dad, he is not your son-in-law yet.' Katya drops that reply calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'That title will be his in twenty-four hours.' Katya reacts right away without any doubt, letting the remark speak for itself.
-- 'Let us go to the kitchen quickly.' Barinov centers one loaded expression right here: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'I want to look at my cooks.' Barinov continues evenly toward Katya, letting the remark speak for itself.
-- 'Vitya, wait here for a minute.' Eleonora proceeds earnestly as they talk, to clear the air between them once and for all.
-- 'And where are all my guys?' Barinov picks one pointed detail right here: "rebyata" means "the boys, the lads", and it carries the main weight of what Barinov is saying.
-- 'Vitya, get acquainted with this man.' Eleonora makes that remark right away: the "-sya" ending on "poznakomsya" ("to get acquainted") turns the action inward or makes it happen between people naturally.
-- 'This is our new head chef.' Eleonora reacts dryly with Katya, so Katya knows she is not just making small talk.
+- 'Welcome back to us, Vitya!' Mentioning the return right here, Eleonora puts the weight on "vozvrashcheniyem" ("return", from "vozvrashcheniye") as the exchange unfolds.
+- 'Misha, thank you for everything.' Barinov counters calmly in this moment, grounding the moment in plain reality.
+- 'And thank you all very much.' Barinov responds dryly with a nod, shifting the mood of the conversation in a single beat.
+- 'But a special thank you to my son-in-law.' Addressing a special thank beside Katya, Barinov lands on "osoboye" ("special", built on "osobyy") to keep the statement grounded.
+- 'Dad, he is not your son-in-law yet.' Pointing to the dad right here, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'That title will be his in twenty-four hours.' Katya pushes back right away without a pause, keeping the focus on what actually matters here.
+- 'Let us go to the kitchen quickly.' Underscoring the kitchen to Katya, Barinov lands on "kukhnyu" ("kitchen", built on "kukhnya") to keep the statement grounded.
+- 'I want to look at my cooks.' Highlighting his cooks in front of Eleonora, Barinov chooses "povarov" ("cooks", from the root "povar") so Eleonora hears the exact meaning.
+- 'Vitya, wait here for a minute.' Eleonora counters earnestly facing Barinov, before Barinov can change the subject.
+- 'And where are all my guys?' Emphasizing the boys beside Eleonora, Barinov reaches for the Russian word "rebyata" ("the boys, the lads") right at the heart of the line.
+- 'Vitya, get acquainted with this man.' Answering dryly before Barinov, the "-sya" ending on "poznakomsya" ("to get acquainted") marks an action that unfolds mutually or turns back on the speaker.
+- 'This is our new head chef.' Eleonora chimes in dryly in this moment, shifting the mood of the conversation in a single beat.

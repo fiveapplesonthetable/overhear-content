@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, did something happen to you?' Kostya aims the reaction around Nastya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'No, Kostya, nothing is wrong with me.' Nastya reacts candidly beside Vika, bringing things back to earth after the buildup.
-- 'Viktoriya Sergeyevna, how do you feel?' Nastya grounds one memorable term in earnest: "chuvstvuyete" means "feel" (from "chuvstvovat"), giving the line its exact edge.
-- 'Hang in there, please, everything will pass.' Nastya delivers this statement frankly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Thank you, Nastya, everything is quite normal.' Vika opens up lightly without holding back, making her position completely clear.
-- 'Do you want me to bring you some water?' Nastya leans on one vivid word for Vika: "vodichki" means "some water" (from "vodichka"), giving the line its exact edge.
-- 'Yes, thank you very much.' Vika sends this warning with warmth: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Denis, can you play something more cheerful?' Nastya probes straight out if there is more going on behind the scenes.
-- 'This music makes one want to cry.' Nastya reaches for this vivid piece in earnest: "khochetsya" means "want, feel like" (from "khotetsya"), giving the line its exact edge.
-- 'Kostya, bring the report to the office.' Vika opens up earnestly toward Nastya, watching Nastya's face to see how the news lands.
-- 'All right, I will bring everything right now.' Kostya replies at once as things stand, bringing things back to earth after the buildup.
-- 'Poor Vika, I feel sorry for her.' Nastya reaches for one classic detail at once: "bednaya" means "poor, unfortunate" (from "bednyy"), giving the line its exact edge.
+- 'Nastya, did something happen to you?' Speaking smoothly in the exchange, Kostya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'No, Kostya, nothing is wrong with me.' Nastya follows up promptly with Kostya, before Kostya can change the subject.
+- 'Viktoriya Sergeyevna, how do you feel?' Nastya follows up quietly at once and lands on "chuvstvuyete" ("feel", built on "chuvstvovat") to keep the statement grounded.
+- 'Hang in there, please, everything will pass.' Nastya directly offers this courtesy word with Vika using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Thank you, Nastya, everything is quite normal.' Vika warmly delivers this word of thanks in one quick breath using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Do you want me to bring you some water?' Addressing the water around Vika, Nastya reaches for the Russian word "vodichki" ("some water", built from "vodichka") right at the center of the line.
+- 'Yes, thank you very much.' Vika promptly gives this word of thanks to Nastya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Denis, can you play something more cheerful?' Nastya probes straight out to see how Vika will answer on the spot.
+- 'This music makes one want to cry.' Mentioning the music during the talk, Nastya leans on "khochetsya" ("want, feel like", a form of "khotetsya") to give the remark its edge.
+- 'Kostya, bring the report to the office.' Underscoring the report during the talk, Vika reaches for the Russian word "otchyot" ("report, account") right at the heart of the line.
+- 'All right, I will bring everything right now.' Kostya steps in at once during the talk, making his position completely clear.
+- 'Poor Vika, I feel sorry for her.' Nastya proceeds promptly beside Vika and chooses "bednaya" ("poor, unfortunate", from the root "bednyy") so Vika hears the exact meaning.

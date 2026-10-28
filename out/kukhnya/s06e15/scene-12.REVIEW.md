@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The doctor said that everything is fine.' Denis fires back plainly around Kostya, bringing things back to earth after the buildup.
-- 'I am not going anywhere, I look terrible.' Kostya emphasizes one key detail at once: "strashnaya" means "terrible, dreadful" (from "strashnyy"), giving the line its exact edge.
-- 'Stop it, do not talk foolish nonsense right now.' Denis stands firm bluntly without any doubt, watching Kostya's face to see how the news lands.
-- 'Let us go home, and I have to go to work.' Denis weighs in boldly with Nastya, making his position completely clear.
-- 'Listen, did you want to tell me something?' Kostya highlights one concrete piece in earnest: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'Alright, it is nothing serious, I will tell you later.' Denis states that answer around Nastya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nastya is on board.
-- 'Well then, Kostya, did you find out everything?' Nastya wonders wryly while looking straight at Denis here.
-- 'I knew there would be no use from you.' Nastya favors one loaded detail on cue: "tolku" means "after" (from "tolka"), giving the line its exact edge.
-- 'Alright, I already talked with my mom.' Nastya hands over this line toward Denis: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Denis is on board.
-- 'She will bring her single friend to our place.' Nastya weighs in firmly as things stand, letting the remark speak for itself.
-- 'Go quickly and tidy up the apartment.' Nastya frames one loaded expression with Denis: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'And we will all arrive together soon.' Nastya jumps in calmly facing Kostya, steering the talk right where she wants it.
+- 'The doctor said that everything is fine.' Denis speaks plainly without holding back, so Kostya knows he is not just making small talk.
+- 'I am not going anywhere, I look terrible.' Insisting on how terrible he is during the talk, Kostya reaches for the Russian word "strashnaya" ("terrible, dreadful", built from "strashnyy") right at the center of the line.
+- 'Stop it, do not talk foolish nonsense right now.' Touching on the nonsense in this beat, Denis lands on "glupuyu" ("foolish", built on "glupyy") to keep the statement grounded.
+- 'Let us go home, and I have to go to work.' Denis fires back boldly without any doubt, letting the remark speak for itself.
+- 'Listen, did you want to tell me something?' Kostya chimes in plainly right here and reaches for the Russian word "slushay" ("listen", built from "slushat") right at the center of the line.
+- 'Alright, it is nothing serious, I will tell you later.' Denis responds bluntly around Kostya, shifting the mood of the conversation in a single beat.
+- 'Well then, Kostya, did you find out everything?' Nastya wonders wryly if there is more going on behind the scenes.
+- 'I knew there would be no use from you.' Discussing the after in front of Denis, Nastya puts the weight on "tolku" ("after", from "tolka") as the exchange unfolds.
+- 'Alright, I already talked with my mom.' Underscoring the mum beside Denis, Nastya uses "pogovorila" ("talked, had a talk", from "pogovorit") to make the point stick.
+- 'She will bring her single friend to our place.' Nastya replies firmly with a shrug, before Denis can change the subject.
+- 'Go quickly and tidy up the apartment.' Mentioning the flat to Denis, Nastya brings in "kvartiru" ("flat", from "kvartira") as the key Russian word here.
+- 'And we will all arrive together soon.' Nastya follows up frankly during the talk and chooses "podyedem" ("to drive up", from the root "podyekhat") so Denis hears the exact meaning.

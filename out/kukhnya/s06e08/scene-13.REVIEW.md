@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Whoa, long time no see, hello!' Katya aims this answer to Kristina: opening with the casual greeting "privet" ("hi") signals right away that Katya and Kristina are on familiar terms.
-- 'Thank you very much, I am so glad to hear from you.' Katya voices the reply for Nagiyev: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Let us meet up tonight and celebrate.' Pushing back facing Kristina, Katya cuts straight through the tension in the room.
-- 'Who is going to forbid me, I am already an adult!' Katya emphasizes one concrete expression toward Nagiyev: "vzroslaya" means "grown-up, adult" (from "vzroslyy"), giving the line its exact edge.
-- 'I missed you very much, Dimochka.' Kristina sends this warning around Katya: the "-sya" ending on "soskuchilas" ("missed") turns the action inward or makes it happen between people naturally.
-- 'And do you not miss me at all?' Kristina challenges bluntly whether Nagiyev really thought this through.
-- 'I do not miss you at all right now!' Nagiyev sharpens one colorful piece in reply: "skuchayu" means "to miss, yearn for" (from "skuchat"), giving the line its exact edge.
-- 'Understand, we cannot see each other anymore.' Nagiyev sends the remark around Kristina: the "-sya" ending on "vstrechatsya" ("to meet") turns the action inward or makes it happen between people naturally.
-- 'You are a young and very beautiful woman.' Nagiyev follows up firmly as they talk, shifting the whole mood of the room in a single beat.
-- 'And I am a serious and married man now.' Nagiyev favors one familiar piece with Kristina: "seryoznyy" means "important, serious", and it carries the main weight of what Nagiyev is saying.
-- 'If my wife finds out, it will be the end of us both!' Nagiyev aims the comeback with ease: the "-sya" ending on "konets" ("end") turns the action inward or makes it happen between people naturally.
-- 'In short, I am waiting for you in the room upstairs!' Kristina continues plainly without holding back, refusing to let the moment slip past.
+- 'Whoa, long time no see, hello!' Katya chimes in pointedly around Kristina, leaving no doubt about where she stands.
+- 'Thank you very much, I am so glad to hear from you.' Katya follows up firmly without any doubt, keeping the focus on what actually matters here.
+- 'Let us meet up tonight and celebrate.' Katya proceeds earnestly without a pause, bringing things back to earth after the buildup.
+- 'Who is going to forbid me, I am already an adult!' Katya continues smoothly right here and uses "vzroslaya" ("grown-up, adult", from "vzroslyy") to make the point stick.
+- 'I missed you very much, Dimochka.' Speaking readily before Katya, the "-sya" ending on "soskuchilas" ("missed") marks an action that unfolds mutually or turns back on the speaker.
+- 'And do you not miss me at all?' Kristina challenges bluntly why things suddenly took this turn between them.
+- 'I do not miss you at all right now!' Nagiyev steps in evenly around Kristina and lands on "skuchayu" ("to miss, yearn for", built on "skuchat") to keep the statement grounded.
+- 'Understand, we cannot see each other anymore.' Holding firm plainly before Kristina, the "-sya" ending on "vstrechatsya" ("to meet") marks an action that unfolds mutually or turns back on the speaker.
+- 'You are a young and very beautiful woman.' Nagiyev opens up firmly without a pause, so Kristina knows he is not just making small talk.
+- 'And I am a serious and married man now.' Highlighting how important he is with Kristina, Nagiyev puts the emphasis on "seryoznyy" ("important, serious") in the middle of the talk.
+- 'If my wife finds out, it will be the end of us both!' Returning to the end with Kristina, the "-sya" ending on "konets" ("end") marks an action that unfolds mutually or turns back on the speaker.
+- 'In short, I am waiting for you in the room upstairs!' Kristina cuts in plainly beside Nagiyev, letting the remark speak for itself.

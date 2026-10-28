@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, we can replace the furniture just once.' Max reaches for one practical word in earnest: "mebel" means "furniture", and it carries the main weight of what Max is saying.
-- 'I disagree, there must be a logical explanation for everything!' Barinov responds dryly hearing Senya, refusing to let the moment slip past.
-- 'You are talking nonsense, everything here makes total sense.' Senya answers briskly around Barinov, shifting the whole mood of the room in a single beat.
-- 'Grandpa Kirill died, and now his ghost is taking revenge!' Senya anchors this sharp choice right here: "privideniye" means "ghost, apparition", and it carries the main weight of what Senya is saying.
-- 'What kind of ghost could there possibly be in the kitchen?' Barinov gives the thought right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Quiet everyone, let's watch the video surveillance recordings!' Senya proceeds right away as they talk, bringing things back to earth after the buildup.
-- 'Well, and what did you see on there that was so scary?' Barinov focuses on one clear word toward Max: "strashnoye" means "terrible" (from "strashnyy"), giving the line its exact edge.
-- 'How big cockroaches drag a rat across the floor?' Barinov lays out this line with candor: putting the question word "kak" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'Well that is quite normal in our kitchen!' Barinov responds honestly toward Max, letting the remark speak for itself.
-- 'You had better look closely at the screen yourselves.' Senya focuses on one direct element toward Max: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Senya is saying.
-- 'Big deal, that is just a strong draft!' Barinov lays out the remark with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'How could that be a draft, Chef?' Senya prompts point-blank before Max can change the subject.
+- 'Alright, we can replace the furniture just once.' Bringing up the furniture before Barinov, Max reaches for the Russian word "mebel" ("furniture") right at the heart of the line.
+- 'I disagree, there must be a logical explanation for everything!' Focusing on a logical explanation on the spot, Barinov brings in "logicheskoye" ("logical", from "logicheskiy") as the key Russian word here.
+- 'You are talking nonsense, everything here makes total sense.' Senya continues briskly with a nod, keeping the focus on what actually matters here.
+- 'Grandpa Kirill died, and now his ghost is taking revenge!' Emphasizing the ghost in this beat, Senya lands on "privideniye" ("ghost, apparition") as the key everyday word here.
+- 'What kind of ghost could there possibly be in the kitchen?' Dwelling on the ghost to Senya, Barinov keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Quiet everyone, let's watch the video surveillance recordings!' Senya speaks right away with a sigh, leaving no doubt about where he stands.
+- 'Well, and what did you see on there that was so scary?' Barinov reacts frankly beside Senya and uses "strashnoye" ("terrible", from "strashnyy") to make the point stick.
+- 'How big cockroaches drag a rat across the floor?' Addressing the cockroaches before Senya, Barinov puts the question word "kak" right at the start so Senya hears the focus immediately.
+- 'Well that is quite normal in our kitchen!' Barinov reacts honestly during the talk, to clear the air between them once and for all.
+- 'You had better look closely at the screen yourselves.' Highlighting the screen on the spot, Senya centers the remark on "vnimatelno" ("carefully, attentively") without any extra fuss.
+- 'Big deal, that is just a strong draft!' Addressing a strong draft right here, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'How could that be a draft, Chef?' Senya prompts point-blank where this conversation is heading next.

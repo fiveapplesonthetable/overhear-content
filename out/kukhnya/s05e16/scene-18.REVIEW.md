@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Victoria Sergeyevna, what is wrong with you? Do you feel ill?' Max quizzes evenly in front of Kostya without any preamble.
-- 'She heard about Max and it looks like she is really giving birth!' Max favors one colorful word in reply: "pokhozhe" means "like, similar", and it carries the main weight of what Max is saying.
-- 'Quickly call an ambulance here, urgently!' Max stands firm lightly with a sigh, grounding the moment in plain reality.
-- 'Wait, Victoria Sergeyevna, he did not jump anywhere!' Kostya speaks up quietly with a nod, testing Vika's reaction in the middle of the exchange.
-- 'That was just our counter-prank for Senya!' Kostya reaches for one key detail in reply: "rozygrysh" means "prank", and it carries the main weight of what Kostya is saying.
-- 'Do not give birth here, everything is completely fine!' Kostya aims the comeback plainly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'We were just joking, everything is fine with Max!' Kostya follows up wryly without any doubt, making his position completely clear.
-- 'Here are two more jokers to give me gray hair!' Max features one pointed piece in reply: "shutnika" means "joker, prankster" (from "shutnik"), giving the line its exact edge.
-- 'Vika, do you hear me? Max is completely fine!' Kostya delivers that answer with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Well I am not anymore, take me to the maternity hospital quickly!' Vika chimes in lightly as they talk, letting the remark speak for itself.
-- 'Waiting for an ambulance here will take too long.' Max focuses on one direct piece at once: "pomoshch" means "help", and it carries the main weight of what Max is saying.
-- 'Who has a car today and has not been drinking yet?' Max makes that point without pause: putting the question word "kto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Victoria Sergeyevna, what is wrong with you? Do you feel ill?' Max quizzes evenly how Kostya expects that to work in practice.
+- 'She heard about Max and it looks like she is really giving birth!' Addressing the honestly on the spot, Max lands on "pravda" ("honestly") as the key everyday word here.
+- 'Quickly call an ambulance here, urgently!' Touching on the help with Kostya, Max puts the emphasis on "pomoshch" ("help") in the middle of the talk.
+- 'Wait, Victoria Sergeyevna, he did not jump anywhere!' Kostya jumps in quietly with a sigh, before Max can change the subject.
+- 'That was just our counter-prank for Senya!' Touching on the prank before Max, Kostya uses "rozygrysh" ("prank") to carry the main weight of the thought.
+- 'Do not give birth here, everything is completely fine!' Returning to the order beside Max, Kostya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'We were just joking, everything is fine with Max!' Kostya continues wryly toward Max, before Max can change the subject.
+- 'Here are two more jokers to give me gray hair!' Turning to the joker beside Kostya, Max centers the thought on "shutnika" ("joker, prankster", from "shutnik") without wasting a word.
+- 'Vika, do you hear me? Max is completely fine!' Describing how full things are before Max, Kostya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Well I am not anymore, take me to the maternity hospital quickly!' Vika pushes back lightly without holding back, watching Kostya's face to see how the news lands.
+- 'Waiting for an ambulance here will take too long.' Turning to the help on the spot, Max reaches for the Russian word "pomoshch" ("help") right at the heart of the line.
+- 'Who has a car today and has not been drinking yet?' Focusing on a car in the exchange, Max puts the question word "kto" right at the start so Vika hears the focus immediately.

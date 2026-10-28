@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So we are starving, then.' Barinov emphasizes one concrete piece toward Elena: "golodayem" means "to starving" (from "golodat"), giving the line its exact edge.
-- 'I added one new ingredient to the julienne over there.' Barinov fires back wryly without holding back, leaving no doubt about where he stands.
+- 'So we are starving, then.' Barinov cuts in firmly right here and leans on "golodayem" ("to starving", a form of "golodat") to give the remark its edge.
+- 'I added one new ingredient to the julienne over there.' Talking about the ingredient around Elena, Barinov reaches for the Russian word "ingrediyent" ("ingredient") right at the heart of the line.
 - 'Maybe you will take a look?' Barinov tests quietly how Elena expects that to work in practice.
-- 'Let's see it.' Elena features this clear word at once: "davayte" means "let's" (from "davat"), giving the line its exact edge.
-- 'If you do not want your wife to see this,' Barinov underscores one practical expression toward Elena: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'simply be friendly and kind to me.' Barinov counters firmly before Elena, watching Elena's face to see how the news lands.
-- 'Yes, Chef, you are regular godfather.' Elena highlights this clear element at once: "kryostnyy" means "god", and it carries the main weight of what Elena is saying.
-- 'You are pulling everyone's strings.' Elena sends this line facing Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'What is going on? Why are we sitting around?' Elena wonders point-blank before Barinov can change the subject.
-- 'Is there no work? Alright, I am coming.' Elena favors one vivid touch on cue: "raboty" means "of work" (from "rabota"), giving the line its exact edge.
-- 'I just stepped away for a minute.' Elena replies sharply around Barinov, watching Barinov's face to see how the news lands.
-- 'Mommy chased the godfather back home.' Barinov proceeds steadily across the room, saying out loud what both of them already know.
+- 'Let's see it.' Elena proceeds naturally in front of Barinov and uses "davayte" ("let's", from "davat") to make the point stick.
+- 'If you do not want your wife to see this,' Barinov replies warmly hearing Elena, letting the remark speak for itself.
+- 'simply be friendly and kind to me.' Barinov fires back firmly with a sigh, shifting the mood of the conversation in a single beat.
+- 'Yes, Chef, you are regular godfather.' Touching on the father at once, Elena lands on "kryostnyy" ("god") as the key everyday word here.
+- 'You are pulling everyone's strings.' Bringing up the strings before Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'What is going on? Why are we sitting around?' Elena wonders point-blank whether Barinov really thought this through.
+- 'Is there no work? Alright, I am coming.' Talking about the work on the spot, Elena brings in "raboty" ("of work", from "rabota") as the key Russian word here.
+- 'I just stepped away for a minute.' Highlighting a minute right here, Elena leans on "minutku" ("a minute", a form of "minutka") to give the remark its edge.
+- 'Mommy chased the godfather back home.' Barinov steps in steadily in their talk, refusing to let the moment slip past.

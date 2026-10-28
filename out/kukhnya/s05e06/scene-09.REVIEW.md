@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'New order: stellate sturgeon in white wine.' Lyova stands firm earnestly before Eleonora, bringing things back to earth after the buildup.
-- 'Lyova, where is the fish?' Senya picks this direct choice right here: "ryba" means "fish", and it carries the main weight of what Senya is saying.
-- 'There is nothing here!' Lyova voices that thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Am I immediately to blame?' Senya asks frankly why things suddenly took this turn between them.
-- 'As if nobody steals except me.' Senya reaches for one practical detail with Eleonora: "voruyet" means "steals" (from "vorovat"), giving the line its exact edge.
-- 'Then I will conduct my own investigation and find the thief.' Senya responds sharply with a shrug, testing Lyova's reaction in the middle of the exchange.
-- 'For now, everyone is under suspicion.' Senya stands firm dryly across the room, leaving no doubt about where he stands.
-- 'How have you not sent your own daughter to an asylum yet?' Lyova uses one sharp term toward Senya: "psikhushku" means "mental hospital" (from "psikhushka"), giving the line its exact edge.
-- 'Vitya, stop it.' Eleonora delivers the comment plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'He is a good specialist.' Eleonora speaks dryly hearing Senya, to clear the air between them once and for all.
-- 'Back in the day he helped me a lot.' Eleonora highlights this direct word toward Lyova: "vremya" means "time", and it carries the main weight of what Eleonora is saying.
-- 'Either you do not respond to treatment, or he is a bad specialist.' Lyova picks one memorable touch toward Senya: "spetsialist" means "specialist", and it carries the main weight of what Lyova is saying.
+- 'New order: stellate sturgeon in white wine.' Lyova speaks up earnestly across the room, bringing things back to earth after the buildup.
+- 'Lyova, where is the fish?' Pointing to the fish before Lyova, Senya lands on "ryba" ("fish") as the key everyday word here.
+- 'There is nothing here!' Replying plainly with Senya, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Am I immediately to blame?' Senya asks frankly where this conversation is heading next.
+- 'As if nobody steals except me.' Senya opens up promptly before Lyova and leans on "voruyet" ("steals", a form of "vorovat") to give the remark its edge.
+- 'Then I will conduct my own investigation and find the thief.' Highlighting the investigation to Lyova, Senya centers the remark on "rassledovaniye" ("investigation") without any extra fuss.
+- 'For now, everyone is under suspicion.' Senya evenly gives this casual farewell at this moment using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'How have you not sent your own daughter to an asylum yet?' Mentioning the mental hospital in front of Eleonora, Lyova reaches for the Russian word "psikhushku" ("mental hospital", built from "psikhushka") right at the center of the line.
+- 'Vitya, stop it.' Replying openly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'He is a good specialist.' Eleonora proceeds dryly with a shrug, so Lyova knows she is not just making small talk.
+- 'Back in the day he helped me a lot.' Touching on the time before Lyova, Eleonora centers the remark on "vremya" ("time") without any extra fuss.
+- 'Either you do not respond to treatment, or he is a bad specialist.' Lyova cuts in plainly on the spot, making his position completely clear.

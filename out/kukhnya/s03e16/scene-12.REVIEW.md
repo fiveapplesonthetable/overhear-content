@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, it is definitely Grandpa Kirill, I swear to you!' Max responds promptly with a smile, keeping the focus on what actually matters here.
-- 'Calm down, someone is just playing a prank, like us.' Max emphasizes one concrete expression with Nagiyev: "prikalyvayetsya" means "is playing a prank" (from "prikalyvatsya"), giving the line its exact edge.
-- 'Alright then, Vitya, tonight you have a night shift.' Nagiyev brings that line to Barinov: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Listen, Dima, is there no way to do it without Katya?' Barinov inquires curiously where this conversation is heading next.
-- 'No way, I already promised the guys there would be fish ice cream.' Nagiyev grounds one direct touch right here: "morozhenoye" means "ice cream", and it carries the main weight of what Nagiyev is saying.
-- 'And what kind of event are you having tonight?' Barinov sends this statement frankly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Tonight I am going to play cards.' Nagiyev opens up quietly in this moment, so Barinov knows he is not just making small talk.
-- 'I will be playing with good, respected people.' Nagiyev favors one direct touch on cue: "uvazhayemymi" means "respected" (from "uvazhayemyy"), giving the line its exact edge.
-- 'We need money, we are buying out the second floor, after all!' Nagiyev speaks openly with Barinov, shifting the whole mood of the room in a single beat.
-- 'Great, does that mean we are opening a second dining hall?' Barinov probes earnestly before Nagiyev can change the subject.
-- 'Well, not quite, Kristina wants to open a karaoke club up there.' Nagiyev highlights one telling detail for Barinov: "karaoke" means "karaoke", and it carries the main weight of what Nagiyev is saying.
-- 'What, karaoke in a French restaurant, then buy the third floor for Turkish baths!' Barinov speaks plainly on the spot, testing Nagiyev's reaction in the middle of the exchange.
+- 'Senya, it is definitely Grandpa Kirill, I swear to you!' Max opens up promptly toward Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'Calm down, someone is just playing a prank, like us.' Max follows up vividly right here and lands on "prikalyvayetsya" ("is playing a prank", built on "prikalyvatsya") to keep the statement grounded.
+- 'Alright then, Vitya, tonight you have a night shift.' Nagiyev answers candidly with a shrug, to clear the air between them once and for all.
+- 'Listen, Dima, is there no way to do it without Katya?' Barinov inquires curiously before Nagiyev can change the subject.
+- 'No way, I already promised the guys there would be fish ice cream.' Talking about the ice cream with Barinov, Nagiyev reaches for the Russian word "morozhenoye" ("ice cream") right at the heart of the line.
+- 'And what kind of event are you having tonight?' Dwelling on the event around Nagiyev, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Tonight I am going to play cards.' Nagiyev reacts quietly with a nod, making his position completely clear.
+- 'I will be playing with good, respected people.' Nagiyev responds quietly around Barinov and puts the weight on "uvazhayemymi" ("respected", from "uvazhayemyy") as the exchange unfolds.
+- 'We need money, we are buying out the second floor, after all!' Confirming how second things are in front of Barinov, Nagiyev uses "vtoroy" ("second") to carry the main weight of the thought.
+- 'Great, does that mean we are opening a second dining hall?' Barinov probes earnestly whether Nagiyev really thought this through.
+- 'Well, not quite, Kristina wants to open a karaoke club up there.' Touching on a karaoke to Barinov, Nagiyev puts the emphasis on "karaoke" ("karaoke") in the middle of the talk.
+- 'What, karaoke in a French restaurant, then buy the third floor for Turkish baths!' Discussing the karaoke during the talk, Barinov uses "frantsuzskom" ("French", from "frantsuzskiy") to make the point stick.

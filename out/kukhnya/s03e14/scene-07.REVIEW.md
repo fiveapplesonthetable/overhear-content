@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, why did you tell Katya everything?' Barinov stresses one classic piece in earnest: "rasskazal" means "told" (from "rasskazat"), giving the line its exact edge.
-- 'I thought that Katya is so beautiful and good.' Max reacts at once hearing Katya, saying out loud what both of them already know.
-- 'What one hundred thousand, three hundred is my price!' Max counters earnestly hearing Barinov, steering the talk right where he wants it.
-- 'Fine, we meet in an hour in the back courtyard.' Barinov focuses on this key detail in earnest: "vstrechayemsya" means "have been going out" (from "vstrechatsya"), giving the line its exact edge.
-- 'He pocketed ten thousand too!' Barinov fires back right away without holding back, letting the remark speak for itself.
-- 'Hello, Timur, hi, how do I settle a conflict?' Max prompts curiously as Katya tries to explain the situation.
-- 'How do we settle conflicts among ourselves?' Katya picks one memorable term in reply: "konflikty" means "conflicts" (from "konflikt"), giving the line its exact edge.
-- 'Well, there are always two options here.' Katya jumps in lightly in this moment, keeping the focus on what actually matters here.
-- 'The second option is really costly.' Katya replies sharply toward Barinov, keeping the focus on what actually matters here.
-- 'There you have to set a generous table and treat the guests.' Katya underscores one classic choice on cue: "polyanu" means "table, feast" (from "polyana"), giving the line its exact edge.
-- 'Got it, do you think I should bring shashlik right away?' Max makes that line right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Yes, bring good meat and good wine.' Katya weighs in candidly without any doubt, testing Max's reaction in the middle of the exchange.
-- 'Wait, I wanted everything to go peacefully.' Max reaches for this key term toward Barinov: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'I want to offer you a good dish with good wine.' Max sharpens one telling element right here: "khorosheye" means "lovely, good" (from "khoroshiy"), giving the line its exact edge.
+- 'Listen, why did you tell Katya everything?' Barinov cuts in earnestly in this beat and chooses "slushay" ("listen", from the root "slushat") so Max hears the exact meaning.
+- 'I thought that Katya is so beautiful and good.' Describing how pretty things are during the talk, Max lands on "khoroshaya" ("good", built on "khoroshiy") to keep the statement grounded.
+- 'What one hundred thousand, three hundred is my price!' Max weighs in earnestly across the room, grounding the moment in plain reality.
+- 'Fine, we meet in an hour in the back courtyard.' Underscoring an hour on the spot, Barinov brings in "vstrechayemsya" ("have been going out", from "vstrechatsya") as the key Russian word here.
+- 'He pocketed ten thousand too!' Bringing up the thousand in this beat, Barinov uses "prikarmanil" ("pocketed", from "prikarmanit") to make the point stick.
+- 'Hello, Timur, hi, how do I settle a conflict?' Max prompts curiously why things suddenly took this turn between them.
+- 'How do we settle conflicts among ourselves?' Pointing to the conflicts to Max, Katya puts the weight on "konflikty" ("conflicts", from "konflikt") as the exchange unfolds.
+- 'Well, there are always two options here.' Touching on the options in front of Max, Katya centers the thought on "varianta" ("options", from "variant") without wasting a word.
+- 'The second option is really costly.' Katya weighs in sharply with a smile, steering the talk right where she wants it.
+- 'There you have to set a generous table and treat the guests.' Pointing to a generous table in the exchange, Katya leans on "polyanu" ("table, feast", a form of "polyana") to give the remark its edge.
+- 'Got it, do you think I should bring shashlik right away?' Holding firm evenly before Katya, Max keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Yes, bring good meat and good wine.' Katya jumps in candidly across the room, making her position completely clear.
+- 'Wait, I wanted everything to go peacefully.' Max opens up sharply on the spot and brings in "podozhdite" ("wait", from "podozhdat") as the key Russian word here.
+- 'I want to offer you a good dish with good wine.' Max weighs in wryly across the room, bringing things back to earth after the buildup.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quickly, call an ambulance immediately!' Barinov uses one colorful choice with Max: "nemedlenno" means "immediately", and it carries the main weight of what Barinov is saying.
-- 'Vitya, tell me, what happened to him?' Nagiyev shares that reply beside Max: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'It seems he was poisoned by Japanese fugu fish.' Barinov counters steadily to be clear, steering the talk right where he wants it.
-- 'Where did fugu fish come from in our restaurant?' Nagiyev uses one telling element in earnest: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'I do not understand how this happened myself.' Max drops that remark toward Barinov: the "-sya" ending on "poluchilos" ("worked out") turns the action inward or makes it happen between people naturally.
+- 'Quickly, call an ambulance immediately!' Mentioning the help on the spot, Barinov leans on "pomoshch" ("help") to give the whole sentence its punch.
+- 'Vitya, tell me, what happened to him?' Turning quietly before Barinov, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'It seems he was poisoned by Japanese fugu fish.' Barinov proceeds steadily with a shrug, leaving no doubt about where he stands.
+- 'Where did fugu fish come from in our restaurant?' Bringing up his restaurant at once, Nagiyev uses "restorane" ("restaurant", from "restoran") to make the point stick.
+- 'I do not understand how this happened myself.' Looking over firmly with Nagiyev, the "-sya" ending on "poluchilos" ("worked out") marks an action that unfolds mutually or turns back on the speaker.
 - 'Vitya, what have you done again?' Nagiyev questions firmly what Max is actually getting at here.
-- 'Chef, how are you feeling right now?' Max favors one pointed word in reply: "chuvstvuyete" means "feel" (from "chuvstvovat"), giving the line its exact edge.
-- 'Wonderful, and how is our Nagiyev over there?' Barinov drops the thought on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'But how did you get poisoned yourself, Chef?' Max wonders quietly if there is more going on behind the scenes.
-- 'Did you fillet that fugu fish improperly?' Max frames one concrete expression at once: "nepravilno" means "wrongly", and it carries the main weight of what Max is saying.
-- 'I did everything absolutely right.' Barinov answers warmly on the spot, before Max can change the subject.
-- 'I just rushed to save you and forgot to change gloves.' Barinov answers earnestly in their talk, letting the remark speak for itself.
+- 'Chef, how are you feeling right now?' Max fires back naturally beside Barinov and lands on "chuvstvuyete" ("feel", built on "chuvstvovat") to keep the statement grounded.
+- 'Wonderful, and how is our Nagiyev over there?' Weighing in calmly right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'But how did you get poisoned yourself, Chef?' Max wonders quietly to see how Barinov will answer on the spot.
+- 'Did you fillet that fugu fish improperly?' Touching on the fugu during the talk, Max brings in "nepravilno" ("wrongly") to make the meaning unmistakable.
+- 'I did everything absolutely right.' Barinov replies warmly in the exchange and chooses "absolyutno" ("completely") so Max gets the point right away.
+- 'I just rushed to save you and forgot to change gloves.' Barinov answers earnestly beside Max, refusing to let the moment slip past.

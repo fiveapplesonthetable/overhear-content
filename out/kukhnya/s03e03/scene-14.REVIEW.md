@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are late, Rodion Sergeyevich!' Max phrases the comment before Rodion: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Hello, Max, why aren't you at work?' Vika prompts frankly to see how Rodion will answer on the spot.
-- 'Rodion Sergeyevich and I are here trying to save someone from getting fired.' Max centers one practical touch right here: "uvolneniya" means "dismissal, resignation" (from "uvolneniye"), giving the line its exact edge.
-- 'Don't even think about it!' Vika hands over that point in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Sorry, I cannot talk. The movie is about to start.' Max follows up wryly without holding back, steering the talk right where he wants it.
-- 'Hello, Max! Idiots.' Vika sharpens one telling piece at once: "idioty" means "idiot, fool" (from "idiot"), giving the line its exact edge.
-- 'Angelina, I need to step out for a short while.' Vika brings that remark facing Max: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'I don't understand, what are you doing?' Rodion checks briskly in front of Vika without any preamble.
-- 'Go right now and tell them the truth, I demand it!' Vika leans on one sharp touch on cue: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
-- 'Only I can make demands here, because this is my kitchen.' Rodion jumps in boldly without a pause, watching Vika's face to see how the news lands.
-- 'And here things will only be the way I said.' Rodion pushes back sharply as they talk, bringing things back to earth after the buildup.
-- 'We will see about that yet!' Vika emphasizes one concrete term with Rodion: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.
+- 'You are late, Rodion Sergeyevich!' Following up boldly with Rodion, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Hello, Max, why aren't you at work?' Vika prompts frankly to see how Max will answer on the spot.
+- 'Rodion Sergeyevich and I are here trying to save someone from getting fired.' Highlighting the dismissal right here, Max chooses "uvolneniya" ("dismissal, resignation", from the root "uvolneniye") so Rodion hears the exact meaning.
+- 'Don't even think about it!' Holding firm dryly in front of Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Sorry, I cannot talk. The movie is about to start.' Max opens up wryly across the room, to clear the air between them once and for all.
+- 'Hello, Max! Idiots.' Turning to the idiot in front of Max, Vika centers the thought on "idioty" ("idiot, fool", from "idiot") without wasting a word.
+- 'Angelina, I need to step out for a short while.' Speaking openly in front of Rodion, Vika leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'I don't understand, what are you doing?' Rodion checks briskly what Vika is actually getting at here.
+- 'Go right now and tell them the truth, I demand it!' Addressing the truth at once, Vika centers the thought on "pravdu" ("truth", from "pravda") without wasting a word.
+- 'Only I can make demands here, because this is my kitchen.' Touching on his kitchen in this beat, Rodion lands on "kukhnya" ("kitchen") as the key everyday word here.
+- 'And here things will only be the way I said.' Rodion opens up sharply beside Vika, bringing things back to earth after the buildup.
+- 'We will see about that yet!' Vika cuts in sharply right here and lands on "posmotrim" ("have a look", built on "posmotret") to keep the statement grounded.

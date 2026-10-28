@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'As one wise man said, the sun shines equally on everyone.' Max colors one loaded choice in reply: "mudrets" means "wise man, sage", and it carries the main weight of what Max is saying.
-- 'It warms both a couple in love and a lonely guy.' Max reacts quietly in their talk, to clear the air between them once and for all.
-- 'A lonely guy who has already forgotten what the sun is.' Max speaks up calmly before the guest, before the guest can change the subject.
-- 'How exhausted I am today!' Nagiyev chooses this direct expression at once: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
-- 'I work twenty-four hours a day like a slave.' Nagiyev proceeds calmly with a sigh, steering the talk right where he wants it.
-- 'Now the entire restaurant is completely on my shoulders.' Nagiyev speaks up wryly with Max, shifting the whole mood of the room in a single beat.
-- 'I already told you about the restaurant, Dima.' The guest uses this sharp choice on cue: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'Sell it to us, and you will have one less problem.' The guest weighs in candidly beside Nagiyev, leaving no doubt about where he stands.
-- 'If I leave, everything here will collapse without me!' Nagiyev chimes in frankly with a smile, steering the talk right where he wants it.
-- 'Nothing will collapse, what is the main thing in a restaurant?' The guest centers one colorful term in reply: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'What is the main thing in a restaurant, the kitchen and food, of course!' Nagiyev voices the reply to the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'No, Dima, you are completely wrong here.' The guest speaks candidly hearing Nagiyev, refusing to let the moment slip past.
+- 'As one wise man said, the sun shines equally on everyone.' Emphasizing the wise man to Nagiyev, Max leans on "mudrets" ("wise man, sage") to give the whole sentence its punch.
+- 'It warms both a couple in love and a lonely guy.' Bringing up a couple in this beat, Max lands on "vlyublyonnuyu" ("in love", built on "vlyublyonnyy") to keep the statement grounded.
+- 'A lonely guy who has already forgotten what the sun is.' Max fires back calmly watching Nagiyev, grounding the moment in plain reality.
+- 'How exhausted I am today!' Nagiyev jumps in briskly before Max and centers the remark on "segodnya" ("today") without any extra fuss.
+- 'I work twenty-four hours a day like a slave.' Bringing up the hours during the talk, Nagiyev brings in "chasa" ("hours", from "chas") as the key Russian word here.
+- 'Now the entire restaurant is completely on my shoulders.' Nagiyev proceeds wryly across the room, testing the guest's reaction in the middle of the exchange.
+- 'I already told you about the restaurant, Dima.' Bringing up the restaurant in the exchange, the guest centers the thought on "restorana" ("restaurant", from "restoran") without wasting a word.
+- 'Sell it to us, and you will have one less problem.' Underscoring the problem to Nagiyev, the guest puts the weight on "problemoy" ("problem", from "problema") as the exchange unfolds.
+- 'If I leave, everything here will collapse without me!' Nagiyev opens up frankly in their talk, keeping the focus on what actually matters here.
+- 'Nothing will collapse, what is the main thing in a restaurant?' Turning to a restaurant around Nagiyev, the guest uses "restorane" ("restaurant", from "restoran") to make the point stick.
+- 'What is the main thing in a restaurant, the kitchen and food, of course!' Touching on a restaurant before the guest, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'No, Dima, you are completely wrong here.' The guest proceeds candidly watching Nagiyev, testing Nagiyev's reaction in the middle of the exchange.

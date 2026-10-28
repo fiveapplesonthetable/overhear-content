@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, Volodya, hi, I am already waiting for you!' Barinov follows up lightly with a nod, keeping the focus on what actually matters here.
-- 'Vitya, we will not be able to drop by for lunch.' The guest centers one classic expression at once: "poluchitsya" means "will come out", and it carries the main weight of what the guest is saying.
-- 'Our plane is in the evening, and there is still much to do.' The guest phrases the reaction plainly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'How can you let me down like that, folks?' Barinov challenges frankly as the guest tries to explain the situation.
-- 'You have just upset me very much right now.' Barinov points to this sharp expression in earnest: "rasstroili" means "to upset, distress" (from "rasstroit"), giving the line its exact edge.
-- 'Please forgive me, my old pal.' The guest delivers this statement around Barinov: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I tried so hard to surprise you deliciously today.' Barinov counters lightly across the room, making his position completely clear.
-- 'All right, then we will stop by your place for dinner!' The guest chooses one memorable element with Barinov: "khorosho" means "good, fine", and it carries the main weight of what the guest is saying.
-- 'We will drop in right before our evening flight.' The guest counters bluntly on the spot, leaving no doubt about where he stands.
-- 'Wait, you want to come in the evening for dinner?' Barinov tests skeptically about what the guest just brought up.
-- 'Yes, in the evening we will definitely be at your place!' The guest anchors one colorful word toward Barinov: "vecherom" means "in the evening", and it carries the main weight of what the guest is saying.
-- 'No problem, Volodya, I will wait for you in the evening.' Barinov spotlights one loaded expression at once: "problem" means "problems" (from "problema"), giving the line its exact edge.
+- 'Yes, Volodya, hi, I am already waiting for you!' Barinov chimes in plainly toward the guest, watching the guest's face to see how the news lands.
+- 'Vitya, we will not be able to drop by for lunch.' Highlighting the lunch beside Barinov, the guest centers the remark on "poluchitsya" ("will come out") without any extra fuss.
+- 'Our plane is in the evening, and there is still much to do.' Discussing his plane right here, the guest reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'How can you let me down like that, folks?' Barinov challenges frankly why things suddenly took this turn between them.
+- 'You have just upset me very much right now.' Barinov responds briskly beside the guest and puts the weight on "rasstroili" ("to upset, distress", from "rasstroit") as the exchange unfolds.
+- 'Please forgive me, my old pal.' Pointing to the friend in this beat, the guest puts the emphasis on "staryy" ("old") in the middle of the talk.
+- 'I tried so hard to surprise you deliciously today.' Barinov weighs in lightly on the spot, testing the guest's reaction in the middle of the exchange.
+- 'All right, then we will stop by your place for dinner!' Addressing the dinner to Barinov, the guest reaches for the Russian word "khorosho" ("good, fine") right at the heart of the line.
+- 'We will drop in right before our evening flight.' Pointing to the flight in the exchange, the guest lands on "vechernim" ("evening", built on "vecherniy") to keep the statement grounded.
+- 'Wait, you want to come in the evening for dinner?' Barinov tests skeptically before the guest can change the subject.
+- 'Yes, in the evening we will definitely be at your place!' The guest pushes back frankly around Barinov and uses "vecherom" ("in the evening") to carry the main weight of the thought.
+- 'No problem, Volodya, I will wait for you in the evening.' Barinov continues dryly with a shrug, making his position completely clear.

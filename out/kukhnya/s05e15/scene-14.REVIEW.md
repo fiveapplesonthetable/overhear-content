@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, we give the rice-paper menu to the guest.' Vika responds decisively hearing Elena, steering the talk right where she wants it.
-- 'And we quietly give the plain-paper menu to Eleonora.' Vika proceeds lightly without a pause, letting the remark speak for itself.
-- 'She is not going to eat paper in the dining room herself!' Max uses one loaded detail at once: "bumagu" means "paper, document" (from "bumaga"), giving the line its exact edge.
-- 'Can you imagine, instead of supporting me Vitya defended Gena!' Elena counters firmly without any doubt, making her position completely clear.
-- 'He still has not apologized to me.' Elena follows up openly as they talk, refusing to let the moment slip past.
-- 'He has not even called me once today!' Elena underscores this key expression for Vika: "segodnya" means "today", and it carries the main weight of what Elena is saying.
-- 'Why are you always drawn to men like that?' Vika aims the comment toward Elena: putting the question word "pochemu" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'Is living quietly on your own too boring for you?' Vika prompts sharply in front of Max without any preamble.
-- 'So you think that I am to blame myself?' Elena grounds this vivid term right here: "schitayesh" means "to count, to think" (from "schitat"), giving the line its exact edge.
-- 'Thank you very much for the support, dear friend!' Elena aims that answer on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Tell me instead, what am I supposed to do about this now?' Elena probes firmly how Max expects that to work in practice.
-- 'You just need to relax, is there wine at home?' Vika centers this telling touch at once: "rasslabitsya" means "to relax", and it carries the main weight of what Vika is saying.
+- 'So, we give the rice-paper menu to the guest.' Addressing the menu during the talk, Vika centers the thought on "risovoy" ("rice", from "risovyy") without wasting a word.
+- 'And we quietly give the plain-paper menu to Eleonora.' Vika speaks lightly watching Max, making her position completely clear.
+- 'She is not going to eat paper in the dining room herself!' Mentioning the paper in front of Vika, Max chooses "bumagu" ("paper, document", from the root "bumaga") so Vika hears the exact meaning.
+- 'Can you imagine, instead of supporting me Vitya defended Gena!' Focusing on the evening at once, Elena chooses "predstavlyayesh" ("can you imagine", from the root "predstavlyat") so Max hears the exact meaning.
+- 'He still has not apologized to me.' Elena responds openly with a nod, watching Max's face to see how the news lands.
+- 'He has not even called me once today!' Elena replies vividly around Vika and puts the emphasis on "segodnya" ("today") in the middle of the talk.
+- 'Why are you always drawn to men like that?' Holding firm quietly in the exchange, Vika puts the question word "pochemu" right at the start so Elena hears the focus immediately.
+- 'Is living quietly on your own too boring for you?' Vika prompts sharply to see how Elena will answer on the spot.
+- 'So you think that I am to blame myself?' Elena replies quietly before Vika and lands on "vinovata" ("at fault, to blame", built on "vinovatyy") to keep the statement grounded.
+- 'Thank you very much for the support, dear friend!' Elena reacts decisively in this moment, keeping the focus on what actually matters here.
+- 'Tell me instead, what am I supposed to do about this now?' Elena probes firmly if there is more going on behind the scenes.
+- 'You just need to relax, is there wine at home?' Highlighting the wine beside Elena, Vika reaches for the Russian word "rasslabitsya" ("to relax") right at the heart of the line.

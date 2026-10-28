@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So you told her that I knitted the shawl?' Vika challenges straight out what Mama is actually getting at here.
-- 'Vika, well what difference does it make, a gift from her daughter-in-law!' Max underscores one key word right here: "raznitsa" means "difference", and it carries the main weight of what Max is saying.
-- 'But we wanted to give her a fondue set!' Vika responds openly without any doubt, steering the talk right where she wants it.
-- 'Why, she does not even know what to do with it!' Max fires back frankly to settle things, shifting the whole mood of the room in a single beat.
-- 'Perhaps you got a little hungry from the trip?' Vika sharpens one colorful detail with Mama: "progolodalis" means "to get hungry" (from "progolodatsya"), giving the line its exact edge.
-- 'I will not say no to your homemade treats!' Mama answers promptly in their talk, so Vika knows she is not just making small talk.
-- 'Max praised you very much, especially your borscht!' Mama reacts wryly with a shrug, so Max knows she is not just making small talk.
-- 'He even said that you cook better than I do.' Mama grounds one sharp detail at once: "gotovish" means "prepare, make" (from "gotovit"), giving the line its exact edge.
-- 'So I also cook wonderfully in our house?' Vika shapes this statement facing Mama: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Confess, what else did you make up about me?' Vika probes wryly about what Max just brought up.
-- 'I only meant well, Mom is very pleased!' Max highlights one pointed detail at once: "priyatno" means "pleasant", and it carries the main weight of what Max is saying.
-- 'Mom, let's go out to eat burgers today!' Max brings this update with candor: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'So you told her that I knitted the shawl?' Vika challenges straight out to see how Max will answer on the spot.
+- 'Vika, well what difference does it make, a gift from her daughter-in-law!' Pointing to the difference during the talk, Max reaches for the Russian word "raznitsa" ("difference") right at the heart of the line.
+- 'But we wanted to give her a fondue set!' Highlighting a fondue in the exchange, Vika puts the emphasis on "fondyu" ("fondue") in the middle of the talk.
+- 'Why, she does not even know what to do with it!' Max speaks frankly with a smile, without trying to dress up how he really feels.
+- 'Perhaps you got a little hungry from the trip?' Underscoring the roads around Mama, Vika leans on "progolodalis" ("to get hungry", a form of "progolodatsya") to give the remark its edge.
+- 'I will not say no to your homemade treats!' Bringing up the treats during the talk, Mama reaches for the Russian word "ugoshcheniya" ("treats") right at the heart of the line.
+- 'Max praised you very much, especially your borscht!' Mama pushes back wryly across the room, grounding the moment in plain reality.
+- 'He even said that you cook better than I do.' Mama replies directly to Vika and brings in "gotovish" ("prepare, make", from "gotovit") as the key Russian word here.
+- 'So I also cook wonderfully in our house?' Reacting firmly at once, Vika reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Confess, what else did you make up about me?' Vika probes wryly why things suddenly took this turn between them.
+- 'I only meant well, Mom is very pleased!' Bringing up the mother in this beat, Max chooses "priyatno" ("pleasant") so Vika gets the point right away.
+- 'Mom, let's go out to eat burgers today!' Talking about the today right here, Max starts with "davay" ("come on, let's") to invite Mama right into the action.

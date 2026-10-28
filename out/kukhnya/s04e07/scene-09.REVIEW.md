@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What, have you decided to make a clown out of me?' Barinov presses bluntly about what German just brought up.
-- 'The guests came here to eat my food specifically!' Barinov reaches for one telling piece at once: "gosti" means "visitors, guests" (from "gost"), giving the line its exact edge.
-- 'They will realize in a second that I was not the one who cooked it.' Barinov follows up firmly with a smile, shifting the whole mood of the room in a single beat.
-- 'Well then, German, are you ready to make a bet?' Barinov asks curiously where this conversation is heading next.
-- 'German, I beg you, do not make a bet with him!' Nagiyev uses one colorful piece toward Barinov: "umolyayu" means "I beg" (from "umolyat"), giving the line its exact edge.
-- 'No, why not, I am doing this consciously.' German counters promptly across the room, shifting the whole mood of the room in a single beat.
-- 'I know all your old culinary secrets.' German pushes back frankly with a sigh, steering the talk right where he wants it.
-- 'Or are you afraid of losing this bet to me?' German anchors one pointed element toward Nagiyev: "proigrat" means "lose", and it carries the main weight of what German is saying.
-- 'Fine, I bet you right now!' Barinov brings the remark facing German: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'If the guests realize that I did not cook it...' Barinov speaks at once without any doubt, before Nagiyev can change the subject.
-- 'Today you will carry out all my orders!' Barinov features this vivid choice for German: "vypolnyat" means "carry out", and it carries the main weight of what Barinov is saying.
-- 'Deal, and if not, then you are the one who obeys!' German shares this answer on cue: the "-sya" ending on "podchinyayetes" ("to obey, to submit to") turns the action inward or makes it happen between people naturally.
+- 'What, have you decided to make a clown out of me?' Barinov presses bluntly about what Nagiyev just brought up.
+- 'The guests came here to eat my food specifically!' Touching on the visitors in front of Nagiyev, Barinov puts the weight on "gosti" ("visitors, guests", from "gost") as the exchange unfolds.
+- 'They will realize in a second that I was not the one who cooked it.' Emphasizing a second around Nagiyev, Barinov leans on "sekundu" ("second", a form of "sekunda") to give the remark its edge.
+- 'Well then, German, are you ready to make a bet?' Barinov asks curiously whether German really thought this through.
+- 'German, I beg you, do not make a bet with him!' Nagiyev opens up quietly on the spot and leans on "umolyayu" ("I beg", a form of "umolyat") to give the remark its edge.
+- 'No, why not, I am doing this consciously.' German answers sharply beside Nagiyev and brings in "osoznanno" ("consciously") to make the meaning unmistakable.
+- 'I know all your old culinary secrets.' German continues frankly with a shrug, making his position completely clear.
+- 'Or are you afraid of losing this bet to me?' Focusing on the bet in the exchange, German brings in "proigrat" ("lose") to make the meaning unmistakable.
+- 'Fine, I bet you right now!' Barinov counters directly before German and brings in "khorosho" ("good, fine") to make the meaning unmistakable.
+- 'If the guests realize that I did not cook it...' Barinov proceeds at once during the talk, grounding the moment in plain reality.
+- 'Today you will carry out all my orders!' Turning to his orders right here, Barinov puts the weight on "prikazy" ("orders", from "prikaz") as the exchange unfolds.
+- 'Deal, and if not, then you are the one who obeys!' Following up warmly to Barinov, the "-sya" ending on "podchinyayetes" ("to obey, to submit to") marks an action that unfolds mutually or turns back on the speaker.

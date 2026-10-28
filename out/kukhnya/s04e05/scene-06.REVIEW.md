@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By the way, I also have good news.' Denis responds bluntly watching Max, so Max knows he is not just making small talk.
-- 'I finally decided to rent an apartment for myself.' Denis colors this direct piece at once: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Interesting, and where did you get the money?' Max makes that thought in earnest: putting the question word "gde" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'My mom sent me this money today.' Denis answers steadily toward Senya, shifting the whole mood of the room in a single beat.
-- 'There are exactly sixty thousand rubles here.' Denis spotlights one direct detail for Max: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'I found several good options.' Denis replies steadily watching Senya, grounding the moment in plain reality.
-- 'Right after the shift I am going to look at them.' Denis continues briskly before Max, to clear the air between them once and for all.
-- 'Guy, did you happen to forget anything?' Senya frames this clear term right here: "sluchayno" means "by any chance", and it carries the main weight of what Senya is saying.
-- 'How did you do that so unnoticeably?' Denis hands over this answer in earnest: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'On the metro they will steal the money even more unnoticeably.' Max continues firmly with Senya, watching Senya's face to see how the news lands.
-- 'Let the money rather stay with me for safekeeping.' Max focuses on this clear element on cue: "polezhat" means "stay", and it carries the main weight of what Max is saying.
-- 'When you find an apartment, you will take it right back.' Max responds calmly without a pause, refusing to let the moment slip past.
-- 'All right, let it stay with you for now.' Denis fires back pointedly across the room, bringing things back to earth after the buildup.
+- 'By the way, I also have good news.' Denis reacts bluntly with a sigh, grounding the moment in plain reality.
+- 'I finally decided to rent an apartment for myself.' Pointing to the flat right here, Denis puts the weight on "kvartiru" ("flat", from "kvartira") as the exchange unfolds.
+- 'Interesting, and where did you get the money?' Pushing back directly in front of Denis, Max puts the question word "gde" right at the start so Denis hears the focus immediately.
+- 'My mom sent me this money today.' Denis responds steadily around Max, leaving no doubt about where he stands.
+- 'There are exactly sixty thousand rubles here.' Discussing the thousand on the spot, Denis puts the weight on "tysyach" ("thousand", from "tysyacha") as the exchange unfolds.
+- 'I found several good options.' Underscoring the options in the exchange, Denis reaches for the Russian word "khoroshikh" ("good", built from "khoroshiy") right at the center of the line.
+- 'Right after the shift I am going to look at them.' Denis continues briskly facing Senya, so Senya knows he is not just making small talk.
+- 'Guy, did you happen to forget anything?' Touching on the boyfriend in front of Denis, Senya centers the remark on "sluchayno" ("by any chance") without any extra fuss.
+- 'How did you do that so unnoticeably?' Reacting frankly right here, Denis puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'On the metro they will steal the money even more unnoticeably.' Max reacts firmly with Denis, making his position completely clear.
+- 'Let the money rather stay with me for safekeeping.' Highlighting the stay to Denis, Max puts the emphasis on "polezhat" ("stay") in the middle of the talk.
+- 'When you find an apartment, you will take it right back.' Underscoring the flat in the exchange, Max reaches for the Russian word "kvartiru" ("flat", built from "kvartira") right at the center of the line.
+- 'All right, let it stay with you for now.' Denis counters pointedly with Max, shifting the mood of the conversation in a single beat.

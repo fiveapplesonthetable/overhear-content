@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Find out how quickly a foreign passport can be renewed.' Eleonora delivers this point with candor: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'In a month I need to be in Milan.' Eleonora steps in calmly with a smile, letting the remark speak for itself.
-- 'I cannot wait that long!' Eleonora features this vivid detail on cue: "dolgo" means "for a long time", and it carries the main weight of what Eleonora is saying.
-- 'I only have one month left!' Eleonora states that remark around Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'When filleting the fish you must be extremely careful.' Max follows up evenly beside Barinov, watching Barinov's face to see how the news lands.
-- 'Strong poison is contained in the roe, skin, and liver.' Max uses this telling piece with Eleonora: "soderzhitsya" means "is contained" (from "soderzhatsya"), giving the line its exact edge.
-- 'We begin the filleting by removing the skin.' Max jumps in warmly to settle things, refusing to let the moment slip past.
-- 'Look, Timur brought us the fresh fugu.' Barinov fires back earnestly with a smile, so Max knows he is not just making small talk.
-- 'Oguzok, do you want to back out before it is too late?' Barinov emphasizes one clear touch at once: "otkazatsya" means "to refuse, decline", and it carries the main weight of what Barinov is saying.
-- 'In the best case, terrible poisoning awaits you.' Barinov spotlights one direct touch with Max: "otravleniye" means "poisoning", and it carries the main weight of what Barinov is saying.
-- 'And in the worst case—a modest, quiet memorial service.' Barinov steps in boldly beside Eleonora, letting the remark speak for itself.
-- 'Yes, Chef, I will finish the orders now and we will start.' Max uses this sharp term on cue: "zakonchu" means "will finish" (from "zakonchit"), giving the line its exact edge.
+- 'Find out how quickly a foreign passport can be renewed.' Pointing to a foreign passport in this beat, Eleonora leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'In a month I need to be in Milan.' Eleonora speaks calmly facing Max, grounding the moment in plain reality.
+- 'I cannot wait that long!' Eleonora opens up calmly right here and lands on "dolgo" ("for a long time") as the key everyday word here.
+- 'I only have one month left!' Holding firm frankly in this beat, the "-sya" ending on "mesyats" ("month") marks an action that unfolds mutually or turns back on the speaker.
+- 'When filleting the fish you must be extremely careful.' Max pushes back evenly toward Eleonora, leaving no doubt about where he stands.
+- 'Strong poison is contained in the roe, skin, and liver.' Mentioning the poison in this beat, Max leans on "soderzhitsya" ("is contained", a form of "soderzhatsya") to give the remark its edge.
+- 'We begin the filleting by removing the skin.' Talking about the cutting beside Barinov, Max lands on "razdelku" ("cutting, preparation", built on "razdelka") to keep the statement grounded.
+- 'Look, Timur brought us the fresh fugu.' Barinov proceeds earnestly in their talk, testing Max's reaction in the middle of the exchange.
+- 'Oguzok, do you want to back out before it is too late?' Barinov weighs in warmly beside Max and brings in "otkazatsya" ("to refuse, decline") to make the meaning unmistakable.
+- 'In the best case, terrible poisoning awaits you.' Barinov pushes back plainly during the talk, grounding the moment in plain reality.
+- 'And in the worst case—a modest, quiet memorial service.' Barinov speaks boldly during the talk, refusing to let the moment slip past.
+- 'Yes, Chef, I will finish the orders now and we will start.' Touching on the orders in the exchange, Max centers the thought on "zakazy" ("orders", from "zakaz") without wasting a word.

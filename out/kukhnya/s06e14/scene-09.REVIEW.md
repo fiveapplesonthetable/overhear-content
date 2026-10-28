@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is very good and fresh beef.' Barinov responds wryly with a smile, letting the remark speak for itself.
-- 'Lyova, try one more small piece.' Barinov frames one practical expression at once: "malenkiy" means "short, little", and it carries the main weight of what Barinov is saying.
-- 'Wait, chef, this is not beef after all.' Lyova reacts frankly without holding back, grounding the moment in plain reality.
-- 'Exactly, this is young tender veal!' Barinov stands firm promptly hearing Senya, without trying to dress up how he really feels.
-- 'You see, these Koreans are ordinary normal people.' Barinov focuses on this telling element toward Lyova: "normalnyye" means "normal" (from "normalnyy"), giving the line its exact edge.
-- 'They have some kind of special day today.' Senya responds steadily to settle things, bringing things back to earth after the buildup.
-- 'They are celebrating the birthday of their teacher.' Senya chimes in candidly toward Barinov, without trying to dress up how he really feels.
-- 'Look, chef, what ordinary people they are!' Lyova reaches for one clear detail toward Senya: "obychnyye" means "ordinary" (from "obychnyy"), giving the line its exact edge.
-- 'It seems this is some very strange sect.' Senya stands firm evenly to settle things, leaving no doubt about where he stands.
-- 'We are lucky if this is veal.' Senya proceeds evenly with a nod, steering the talk right where he wants it.
-- 'Stop talking all kinds of nonsense!' Barinov sharpens one loaded choice right here: "glupost" means "nonsense, foolishness", and it carries the main weight of what Barinov is saying.
-- 'Let us better go back to the kitchen.' Lyova aims that answer for Senya: the word "davayte" is the polite or group version of "let's", inviting Senya into the plan right away.
+- 'This is very good and fresh beef.' Barinov responds wryly without holding back, to clear the air between them once and for all.
+- 'Lyova, try one more small piece.' Mentioning the slice right here, Barinov centers the remark on "malenkiy" ("short, little") without any extra fuss.
+- 'Wait, chef, this is not beef after all.' Pointing to the beef at once, Lyova lands on "govyadina" ("beef") as the key everyday word here.
+- 'Exactly, this is young tender veal!' Barinov counters promptly with a sigh, to clear the air between them once and for all.
+- 'You see, these Koreans are ordinary normal people.' Confirming how ordinary things are in the exchange, Barinov centers the thought on "normalnyye" ("normal", from "normalnyy") without wasting a word.
+- 'They have some kind of special day today.' Senya jumps in promptly on the spot and centers the remark on "osobennyy" ("special, particular") without any extra fuss.
+- 'They are celebrating the birthday of their teacher.' Senya responds candidly without holding back, shifting the mood of the conversation in a single beat.
+- 'Look, chef, what ordinary people they are!' Making clear how ordinary things are in this beat, Lyova lands on "obychnyye" ("ordinary", built on "obychnyy") to keep the statement grounded.
+- 'It seems this is some very strange sect.' Confirming how strange things are before Lyova, Senya leans on "strannaya" ("strange", a form of "strannyy") to give the remark its edge.
+- 'We are lucky if this is veal.' Senya speaks evenly without holding back, shifting the mood of the conversation in a single beat.
+- 'Stop talking all kinds of nonsense!' Highlighting the nonsense to Senya, Barinov leans on "glupost" ("nonsense, foolishness") to give the whole sentence its punch.
+- 'Let us better go back to the kitchen.' Returning to the kitchen at once, Lyova uses the polite or group form "davayte" ("let's") to bring Barinov into the plan.

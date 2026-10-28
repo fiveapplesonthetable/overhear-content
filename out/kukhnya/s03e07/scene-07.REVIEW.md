@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, he is in the storage room right now.' Max uses one pointed word at once: "sklade" means "warehouse" (from "sklad"), giving the line its exact edge.
-- 'Dima, calm down, pull yourself together!' Max sends this update briskly now: the "-sya" ending on "uspokoysya" ("calm down") turns the action inward or makes it happen between people naturally.
-- 'I am fine, let me go quickly.' Nagiyev opens up warmly in this moment, grounding the moment in plain reality.
-- 'I am very glad that you stopped me.' Nagiyev sharpens one direct expression in earnest: "ostanovili" means "stopped" (from "ostanovit"), giving the line its exact edge.
-- 'I am grateful in general that I am in a circle of friends.' Nagiyev shares that thought beside Kostya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'What a sly fellow, he tricked me!' Nagiyev weighs in right away beside Max, saying out loud what both of them already know.
-- 'Well never mind, we will see yet.' Nagiyev points to one memorable choice on cue: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.
-- 'Dmitry Vladimirovich, the chef did not want this.' Max speaks candidly without a pause, leaving no doubt about where he stands.
-- 'No, this is a very bad option.' Max responds at once across the room, shifting the whole mood of the room in a single beat.
-- 'Let us ask Max instead.' Kostya sharpens one practical term in earnest: "luchshe" means "better", and it carries the main weight of what Kostya is saying.
-- 'Max, tell us, Dmitry is better, right?' Kostya delivers the comment with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Not a fact, Dmitry infuriates me altogether.' Max follows up frankly during the talk, watching Nagiyev's face to see how the news lands.
+- 'Look, he is in the storage room right now.' Mentioning the warehouse beside Nagiyev, Max reaches for the Russian word "sklade" ("warehouse", built from "sklad") right at the center of the line.
+- 'Dima, calm down, pull yourself together!' Dwelling on the hands in the exchange, the "-sya" ending on "uspokoysya" ("calm down") marks an action that unfolds mutually or turns back on the speaker.
+- 'I am fine, let me go quickly.' Nagiyev chimes in warmly beside Max, steering the talk right where he wants it.
+- 'I am very glad that you stopped me.' Nagiyev pushes back frankly with Max and puts the weight on "ostanovili" ("stopped", from "ostanovit") as the exchange unfolds.
+- 'I am grateful in general that I am in a circle of friends.' Underscoring how grateful he is during the talk, Nagiyev drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'What a sly fellow, he tricked me!' Nagiyev weighs in right away in this moment, keeping the focus on what actually matters here.
+- 'Well never mind, we will see yet.' Nagiyev continues openly in front of Max and lands on "posmotrim" ("have a look", built on "posmotret") to keep the statement grounded.
+- 'Dmitry Vladimirovich, the chef did not want this.' Max steps in candidly around Nagiyev, to clear the air between them once and for all.
+- 'No, this is a very bad option.' Max reacts at once toward Kostya, keeping the focus on what actually matters here.
+- 'Let us ask Max instead.' Kostya pushes back openly right here and reaches for the Russian word "luchshe" ("better") right at the heart of the line.
+- 'Max, tell us, Dmitry is better, right?' Speaking openly right here, Kostya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Not a fact, Dmitry infuriates me altogether.' Max responds frankly beside Kostya, keeping the focus on what actually matters here.

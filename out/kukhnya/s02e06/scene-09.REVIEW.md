@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, you want to know what I add in there?' Barinov inquires promptly before Lyova can change the subject.
-- 'How old is our regular guest?' Lyova picks one concrete piece in reply: "gostyu" means "to the guest" (from "gost"), giving the line its exact edge.
-- 'Well, yes.' Barinov brings this line without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'And what do you think about that?' Lyova quizzes wryly why things suddenly took this turn between them.
-- 'He sleeps with them, Lyova.' Barinov focuses on one pointed detail with Lyova: "spit" means "is sleeping" (from "spat"), giving the line its exact edge.
-- 'And I help him out with that.' Lyova speaks plainly as they talk, without trying to dress up how he really feels.
-- 'Do you know how?' Barinov checks point-blank if there is more going on behind the scenes.
-- 'Wait, does that mean that right now I...' Lyova leans on one clear choice on cue: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
-- 'Yes, Lyova, yes.' Barinov frames that reply without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Chef, when will my salad be ready?' Lyova inquires quietly about what Barinov just brought up.
-- 'The guest is getting impatient already.' Barinov uses one vivid touch toward Lyova: "nervnichayet" means "gets nervous" (from "nervnichat"), giving the line its exact edge.
-- 'Tell him in seven minutes.' Lyova makes this answer plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'So, you want to know what I add in there?' Barinov inquires promptly why things suddenly took this turn between them.
+- 'How old is our regular guest?' Emphasizing the guest before Barinov, Lyova uses "gostyu" ("to the guest", from "gost") to make the point stick.
+- 'Well, yes.' Looking over frankly around Lyova, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'And what do you think about that?' Lyova quizzes wryly whether Barinov really thought this through.
+- 'He sleeps with them, Lyova.' Barinov responds briskly in this beat and reaches for the Russian word "spit" ("is sleeping", built from "spat") right at the center of the line.
+- 'And I help him out with that.' Lyova follows up boldly in the exchange and puts the weight on "pomogayu" ("to help", from "pomogat") as the exchange unfolds.
+- 'Do you know how?' Barinov checks point-blank to see how Lyova will answer on the spot.
+- 'Wait, does that mean that right now I...' Lyova opens up firmly in this beat and leans on "poluchayetsya" ("works out", a form of "poluchatsya") to give the remark its edge.
+- 'Yes, Lyova, yes.' Reacting firmly on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Chef, when will my salad be ready?' Lyova inquires quietly whether Barinov really thought this through.
+- 'The guest is getting impatient already.' Touching on the guest with Lyova, Barinov uses "nervnichayet" ("gets nervous", from "nervnichat") to make the point stick.
+- 'Tell him in seven minutes.' Returning to the minutes in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
 - 'Chef, what am I supposed to do now?' Lyova inquires frankly about what Barinov just brought up.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktor Petrovich, good afternoon.' Max leans on this clear term toward Barinov: "dobryy" means "good", and it carries the main weight of what Max is saying.
-- 'Hello. Yes, hello.' Barinov gives this answer beside Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I wanted to say a huge thank-you for the flowers.' Kostya speaks up sharply to settle things, steering the talk right where he wants it.
-- 'You are always welcome for the flowers.' Max favors this telling expression with Kostya: "tsvety" means "the flowers" (from "tsvetok"), giving the line its exact edge.
-- 'How did you find out they were from me?' Barinov offers the comeback right away: putting the question word "otkuda" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'Well, how could I not?' Kostya tests wryly whether Max really thought this through.
-- 'Just like you.' Max hands over the reply with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Thank you so very much once again.' Barinov directs the comment calmly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Well, did you talk to my dad?' Kostya probes calmly to see how Barinov will answer on the spot.
-- 'And what did you say to him?' Max reaches for one concrete touch for Kostya: "skazal" means "said" (from "skazat"), giving the line its exact edge.
-- 'Did he speak politely with you?' Barinov aims the reply with ease: the "-sya" ending on "obshchalsya" ("to communicate") turns the action inward or makes it happen between people naturally.
-- 'Are they coming over to our place tomorrow?' Kostya prompts deadpan to see how Max will answer on the spot.
-- 'Kostik, come on, do not stay silent, tell me.' Max reaches for one loaded word in earnest: "molchi" means "be quiet" (from "molchat"), giving the line its exact edge.
+- 'Hello, Viktor Petrovich, good afternoon.' Max responds evenly to Barinov and reaches for the Russian word "dobryy" ("good") right at the heart of the line.
+- 'Hello. Yes, hello.' Looking over warmly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I wanted to say a huge thank-you for the flowers.' Kostya proceeds sharply hearing Barinov, making his position completely clear.
+- 'You are always welcome for the flowers.' Max casually offers this courtesy word while facing Kostya using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'How did you find out they were from me?' Replying smoothly in front of Kostya, Barinov puts the question word "otkuda" right at the start so Kostya hears the focus immediately.
+- 'Well, how could I not?' Kostya tests wryly about what Max just brought up.
+- 'Just like you.' Pressing on plainly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Thank you so very much once again.' Barinov pushes back bluntly beside Max, steering the talk right where he wants it.
+- 'Well, did you talk to my dad?' Kostya probes calmly to see how Max will answer on the spot.
+- 'And what did you say to him?' Reacting frankly during the talk, Max puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Did he speak politely with you?' Pushing back frankly in front of Kostya, the "-sya" ending on "obshchalsya" ("to communicate") marks an action that unfolds mutually or turns back on the speaker.
+- 'Are they coming over to our place tomorrow?' Kostya prompts deadpan if there is more going on behind the scenes.
+- 'Kostik, come on, do not stay silent, tell me.' Max responds frankly at once and centers the thought on "molchi" ("be quiet", from "molchat") without wasting a word.

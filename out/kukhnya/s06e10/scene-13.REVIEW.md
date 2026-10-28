@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sit at the table and tell me, how are things, Dima?' Eleonora chooses one vivid word on cue: "rasskazyvay" means "tell" (from "rasskazyvat"), giving the line its exact edge.
-- 'How can things be, I am suffering badly.' Nagiyev cuts in steadily as they talk, steering the talk right where he wants it.
-- 'For whole days I pace from corner to corner.' Nagiyev proceeds pointedly beside Eleonora, shifting the whole mood of the room in a single beat.
-- 'Viktor said that I could come over and apologize.' Nagiyev anchors one classic element right here: "izvinitsya" means "to apologise", and it carries the main weight of what Nagiyev is saying.
-- 'Viktor said that, and what do you think yourself?' Eleonora gives this warning for Nagiyev: putting the question word "kak" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'I will tell you honestly, this is completely my fault.' Nagiyev continues steadily beside Eleonora, steering the talk right where he wants it.
-- 'If you want, hit me, just not in the face.' Nagiyev reaches for this telling piece on cue: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'Because I have an important shoot tomorrow morning.' Nagiyev gives this warning without fuss: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Dima, tell me honestly, do you really love me?' Eleonora quizzes point-blank to see how Nagiyev will answer on the spot.
-- 'Of course, my sunshine, I love you very much!' Nagiyev uses one pointed expression with Eleonora: "solntse" means "sun", and it carries the main weight of what Nagiyev is saying.
-- 'And can you speak calmly and sincerely right now?' Eleonora hands over this warning plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'Say it in a way that makes me believe you.' Eleonora speaks frankly facing Nagiyev, keeping the focus on what actually matters here.
+- 'Sit at the table and tell me, how are things, Dima?' Addressing the table with Nagiyev, Eleonora reaches for the Russian word "stol" ("table") right at the heart of the line.
+- 'How can things be, I am suffering badly.' Nagiyev pushes back frankly in this beat and leans on "stradayu" ("to suffer", a form of "stradat") to give the remark its edge.
+- 'For whole days I pace from corner to corner.' Nagiyev replies pointedly facing Eleonora, bringing things back to earth after the buildup.
+- 'Viktor said that I could come over and apologize.' Nagiyev proceeds decisively in this beat and leans on "izvinitsya" ("to apologise") to give the whole sentence its punch.
+- 'Viktor said that, and what do you think yourself?' Speaking candidly to Nagiyev, Eleonora puts the question word "kak" right at the start so Nagiyev hears the focus immediately.
+- 'I will tell you honestly, this is completely my fault.' Nagiyev follows up steadily in their talk, steering the talk right where he wants it.
+- 'If you want, hit me, just not in the face.' Mentioning the face in the exchange, Nagiyev lands on "khochesh" ("do you want", built on "khotet") to keep the statement grounded.
+- 'Because I have an important shoot tomorrow morning.' Nagiyev reacts wryly with a smile, letting the remark speak for itself.
+- 'Dima, tell me honestly, do you really love me?' Eleonora quizzes point-blank how Nagiyev expects that to work in practice.
+- 'Of course, my sunshine, I love you very much!' Nagiyev answers calmly beside Eleonora and puts the emphasis on "solntse" ("sun") in the middle of the talk.
+- 'And can you speak calmly and sincerely right now?' Holding firm readily in this beat, Eleonora keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Say it in a way that makes me believe you.' Eleonora replies firmly without any doubt, letting the remark speak for itself.

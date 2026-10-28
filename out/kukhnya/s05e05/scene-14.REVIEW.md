@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am the head chef of this restaurant.' Barinov directs the thought at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Does everything suit you?' Barinov asks briskly as the guest tries to explain the situation.
-- 'Thank you, everything is very delicious.' The guest points to one sharp choice in earnest: "spasibo" means "thank you", and it carries the main weight of what the guest is saying.
-- 'Turn around carefully.' Barinov sends the comment without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Are you not acquainted with the woman by the kitchen?' Barinov questions earnestly why things suddenly took this turn between them.
-- 'No, I am seeing her for the first time.' The guest focuses on one concrete choice with Elena: "vpervyye" means "for the first time", and it carries the main weight of what the guest is saying.
-- 'Stay far away from her.' Barinov frames the reply to Elena: the "-sya" ending on "derzhites" ("stick") turns the action inward or makes it happen between people naturally.
-- 'Under no circumstances talk to her.' Barinov holds firm promptly with the guest, so the guest knows he is not just making small talk.
-- 'What, is she some kind of swindler?' The guest chooses this direct choice at once: "moshennitsa" means "con artist", and it carries the main weight of what the guest is saying.
-- 'We are not sure, we suspect so.' Barinov brings the reaction toward the guest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I talked to her, she does not want to meet.' Barinov speaks firmly hearing Elena, watching Elena's face to see how the news lands.
-- 'Very sad, I will go then.' Elena stresses one classic expression toward the guest: "ochen" means "very much", and it carries the main weight of what Elena is saying.
+- 'I am the head chef of this restaurant.' Turning to the head at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Does everything suit you?' Barinov asks briskly whether the guest really thought this through.
+- 'Thank you, everything is very delicious.' The guest casually uses this word of thanks right on cue using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Turn around carefully.' Holding firm openly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Are you not acquainted with the woman by the kitchen?' Barinov questions earnestly where this conversation is heading next.
+- 'No, I am seeing her for the first time.' The guest cuts in warmly right here and puts the emphasis on "vpervyye" ("for the first time") in the middle of the talk.
+- 'Stay far away from her.' Leaning in naturally beside the guest, the "-sya" ending on "derzhites" ("stick") marks an action that unfolds mutually or turns back on the speaker.
+- 'Under no circumstances talk to her.' Barinov reacts promptly watching the guest, before the guest can change the subject.
+- 'What, is she some kind of swindler?' Discussing the con artist before Barinov, the guest uses "moshennitsa" ("con artist") to carry the main weight of the thought.
+- 'We are not sure, we suspect so.' Replying quietly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I talked to her, she does not want to meet.' Barinov answers evenly with a nod, grounding the moment in plain reality.
+- 'Very sad, I will go then.' Elena cuts in promptly in this beat and lands on "ochen" ("very much") as the key everyday word here.

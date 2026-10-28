@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quickly! Gather everything and get into my office.' Barinov answers boldly without holding back, bringing things back to earth after the buildup.
-- 'Clear this away. And move, move!' Barinov replies plainly toward Nagiyev, leaving no doubt about where he stands.
-- 'All right, where is the chef?' Nagiyev shares the reaction right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well, he stepped out for a smoke.' Lyova directs the reply in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'My guest is ready and waiting!' Nagiyev jumps in decisively without any doubt, refusing to let the moment slip past.
-- 'So the moment he appears, send him straight to me.' Nagiyev picks one clear element toward Lyova: "poyavitsya" means "shows up, appears", and it carries the main weight of what Nagiyev is saying.
-- 'Wait, where is the prop dish from the shoot?' Barinov shapes this answer with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'As the saying goes, dinner is served.' Nagiyev holds firm pointedly in their talk, steering the talk right where he wants it.
-- 'For you I am ready to be a waiter myself.' Nagiyev picks one key word at once: "ofitsiantom" means "waiter, server" (from "ofitsiant"), giving the line its exact edge.
-- 'It looks simply incredible.' Nagiyev frames that point right away: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I think we should start with the lamb.' Nagiyev chimes in evenly in this moment, saying out loud what both of them already know.
-- 'It smells like an old boot!' Nagiyev points to this key expression right here: "vonyayet" means "like", and it carries the main weight of what Nagiyev is saying.
+- 'Quickly! Gather everything and get into my office.' Underscoring his office in this beat, Barinov centers the remark on "kabinet" ("office") without any extra fuss.
+- 'Clear this away. And move, move!' Barinov jumps in plainly in this moment, keeping the focus on what actually matters here.
+- 'All right, where is the chef?' Reacting evenly in the exchange, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, he stepped out for a smoke.' Cutting in candidly around Nagiyev, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'My guest is ready and waiting!' Nagiyev speaks up decisively across the room, steering the talk right where he wants it.
+- 'So the moment he appears, send him straight to me.' Nagiyev continues dryly in the exchange and leans on "poyavitsya" ("shows up, appears") to give the whole sentence its punch.
+- 'Wait, where is the prop dish from the shoot?' Turning to the prop dish around Nagiyev, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'As the saying goes, dinner is served.' Nagiyev answers pointedly around Barinov, before Barinov can change the subject.
+- 'For you I am ready to be a waiter myself.' Pointing to a waiter right here, Nagiyev leans on "ofitsiantom" ("waiter, server", a form of "ofitsiant") to give the remark its edge.
+- 'It looks simply incredible.' Leaning in openly around Barinov, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I think we should start with the lamb.' Nagiyev chimes in evenly hearing Barinov, letting the remark speak for itself.
+- 'It smells like an old boot!' Emphasizing the like on the spot, Nagiyev leans on "vonyayet" ("like") to give the whole sentence its punch.

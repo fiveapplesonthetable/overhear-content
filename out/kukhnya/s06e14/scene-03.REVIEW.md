@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We will prepare everything in the best possible way.' Barinov cuts in pointedly as things stand, without trying to dress up how he really feels.
-- 'Yes, chef, I am listening to you attentively.' Senya features one vivid touch toward Fedya: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Senya is saying.
-- 'Prepare juicy steaks for lunch today.' Barinov replies pointedly toward Fedya, grounding the moment in plain reality.
-- 'Do not worry, everything will be done soon.' Senya fires back boldly as things stand, testing Fedya's reaction in the middle of the exchange.
-- 'And we have a great dinner tonight.' Senya leans on this vivid word in earnest: "otlichnyy" means "excellent, great", and it carries the main weight of what Senya is saying.
-- 'Look what a big piece of good meat.' Fedya holds firm quietly in this moment, steering the talk right where he wants it.
-- 'Well then, you and your wife are doing great.' Fedya stands firm briskly with a shrug, steering the talk right where he wants it.
-- 'Listen, have you gone completely crazy today?' Senya frames this vivid choice in earnest: "segodnya" means "today", and it carries the main weight of what Senya is saying.
-- 'Just think carefully with your own head.' Fedya aims the remark around Barinov: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'These guests came from Korea after all.' Fedya fires back firmly during the talk, before Senya can change the subject.
-- 'Why would they bring beef with them?' Fedya favors this vivid piece toward Barinov: "govyadinu" means "beef" (from "govyadina"), giving the line its exact edge.
-- 'Here, let me test this piece.' Senya pushes back frankly before Fedya, so Fedya knows he is not just making small talk.
+- 'We will prepare everything in the best possible way.' Barinov continues pointedly on the spot, bringing things back to earth after the buildup.
+- 'Yes, chef, I am listening to you attentively.' Senya answers quietly on the spot and puts the emphasis on "vnimatelno" ("carefully, attentively") in the middle of the talk.
+- 'Prepare juicy steaks for lunch today.' Discussing the lunch during the talk, Barinov brings in "sochnyye" ("juicy", from "sochnyy") as the key Russian word here.
+- 'Do not worry, everything will be done soon.' Senya speaks boldly toward Barinov, without trying to dress up how he really feels.
+- 'And we have a great dinner tonight.' Talking about a great dinner during the talk, Senya reaches for the Russian word "otlichnyy" ("excellent, great") right at the heart of the line.
+- 'Look what a big piece of good meat.' Pointing to a big piece right here, Fedya lands on "khoroshego" ("good, the best", built on "khoroshiy") to keep the statement grounded.
+- 'Well then, you and your wife are doing great.' Fedya replies briskly around Senya, to clear the air between them once and for all.
+- 'Listen, have you gone completely crazy today?' Senya opens up openly before Fedya and lands on "segodnya" ("today") as the key everyday word here.
+- 'Just think carefully with your own head.' Fedya weighs in boldly hearing Senya, so Senya knows he is not just making small talk.
+- 'These guests came from Korea after all.' Fedya fires back firmly hearing Senya, leaving no doubt about where he stands.
+- 'Why would they bring beef with them?' Addressing the beef right here, Fedya puts the weight on "govyadinu" ("beef", from "govyadina") as the exchange unfolds.
+- 'Here, let me test this piece.' Touching on the piece in this beat, Senya lands on "proverit" ("to check, verify") as the key everyday word here.

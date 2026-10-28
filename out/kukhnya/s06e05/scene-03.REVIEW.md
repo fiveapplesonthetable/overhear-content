@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, I am waiting for you downstairs.' Kostya follows up frankly toward Katya, steering the talk right where he wants it.
-- 'I was short by just one card.' Mikhail emphasizes one familiar word for Kostya: "khvatilo" means "was enough" (from "khvatit"), giving the line its exact edge.
-- 'Did you want to tell me something?' Kostya sends this statement for Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'What on earth are you doing here?' Katya quizzes straight out to see how Mikhail will answer on the spot.
-- 'I am the manager of this big hotel.' Mikhail emphasizes one familiar piece toward Katya: "upravlyayushchiy" means "manager", and it carries the main weight of what Mikhail is saying.
-- 'You can barely stand on your feet!' Katya focuses on this vivid touch right here: "nogakh" means "leg, foot" (from "noga"), giving the line its exact edge.
-- 'I personally know the owner of the hotel.' Kostya opens up sharply on the spot, bringing things back to earth after the buildup.
-- 'She will find out about this today.' Katya underscores one clear detail at once: "segodnya" means "today", and it carries the main weight of what Katya is saying.
-- 'Please do not tell her anything.' Mikhail brings the comeback for Katya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Listen, everything is on the house today.' Mikhail proceeds sharply beside Kostya, grounding the moment in plain reality.
-- 'Are you staying at our hotel?' Katya leans on one classic choice in reply: "prozhivayete" means "are staying" (from "prozhivat"), giving the line its exact edge.
-- 'Let us go quickly from here to the kitchen.' Kostya holds firm honestly beside Mikhail, to clear the air between them once and for all.
+- 'Katya, I am waiting for you downstairs.' Kostya follows up warmly with a nod, bringing things back to earth after the buildup.
+- 'I was short by just one card.' Highlighting the cards around Kostya, Mikhail centers the thought on "khvatilo" ("was enough", from "khvatit") without wasting a word.
+- 'Did you want to tell me something?' Leaning in openly during the talk, Kostya keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'What on earth are you doing here?' Katya quizzes straight out if there is more going on behind the scenes.
+- 'I am the manager of this big hotel.' Underscoring the manager around Katya, Mikhail uses "upravlyayushchiy" ("manager") to carry the main weight of the thought.
+- 'You can barely stand on your feet!' Katya counters boldly toward Mikhail, shifting the mood of the conversation in a single beat.
+- 'I personally know the owner of the hotel.' Kostya responds sharply with a smile, grounding the moment in plain reality.
+- 'She will find out about this today.' Katya weighs in briskly beside Kostya and reaches for the Russian word "segodnya" ("today") right at the heart of the line.
+- 'Please do not tell her anything.' Mikhail quietly offers this courtesy word for Katya using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Listen, everything is on the house today.' Mikhail weighs in sharply with a smile, to clear the air between them once and for all.
+- 'Are you staying at our hotel?' Discussing her hotel beside Kostya, Katya centers the thought on "prozhivayete" ("are staying", from "prozhivat") without wasting a word.
+- 'Let us go quickly from here to the kitchen.' Pointing to the kitchen at once, Kostya centers the thought on "kukhnyu" ("kitchen", from "kukhnya") without wasting a word.

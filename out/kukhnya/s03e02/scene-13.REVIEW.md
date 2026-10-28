@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are actors.' Nagiyev sharpens one direct touch on cue: "aktyory" means "actors" (from "aktyor"), giving the line its exact edge.
-- 'We can eat anything at all, but for big money.' Nagiyev steps in honestly with a sigh, saying out loud what both of them already know.
-- 'For big money!' Nagiyev replies firmly with a nod, watching Barinov's face to see how the news lands.
-- 'I ate this for free today.' Nagiyev centers one loaded word in earnest: "besplatno" means "for free", and it carries the main weight of what Nagiyev is saying.
-- 'So you, you, and you are working for free this month.' Nagiyev points to one pointed term on cue: "mesyatse" means "month" (from "mesyats"), giving the line its exact edge.
-- 'Understood.' Barinov holds firm warmly before Nagiyev, shifting the whole mood of the room in a single beat.
-- 'I almost forgot. You too.' Nagiyev emphasizes one clear detail in reply: "zabyl" means "forgot" (from "zabyt"), giving the line its exact edge.
-- 'Can you imagine, they have three sous-chefs.' Lyova responds warmly as things stand, without trying to dress up how he really feels.
-- 'Around a thousand people.' Lyova answers plainly without holding back, steering the talk right where he wants it.
-- 'What did you want to say? Nagiyev did us a disservice.' Barinov leans on one sharp piece on cue: "medvezhyu" means "bear's" (from "medvezhiy"), giving the line its exact edge.
-- 'Chef! Phone for you!' Lyova makes that answer frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Excuse me. Well go on, go.' Barinov chimes in boldly toward Nagiyev, keeping the focus on what actually matters here.
+- 'We are actors.' Turning to the actors with Barinov, Nagiyev reaches for the Russian word "aktyory" ("actors", built from "aktyor") right at the center of the line.
+- 'We can eat anything at all, but for big money.' Focusing on the money in this beat, Nagiyev reaches for the Russian word "bolshiye" ("big, serious", built from "bolshoy") right at the center of the line.
+- 'For big money!' Nagiyev jumps in firmly with Barinov, refusing to let the moment slip past.
+- 'I ate this for free today.' Nagiyev opens up promptly to Barinov and leans on "besplatno" ("for free") to give the whole sentence its punch.
+- 'So you, you, and you are working for free this month.' Nagiyev speaks up honestly in their talk, without trying to dress up how he really feels.
+- 'Understood.' Barinov politely speaks this acknowledgment beside Nagiyev using "ponyatno" ("understood") — a single word meaning "clear, got it", showing the point has landed.
+- 'I almost forgot. You too.' Nagiyev jumps in smoothly beside Barinov and brings in "zabyl" ("forgot", from "zabyt") as the key Russian word here.
+- 'Can you imagine, they have three sous-chefs.' Lyova replies quietly right here and chooses "predstavlyayesh" ("can you imagine", from the root "predstavlyat") so Barinov hears the exact meaning.
+- 'Around a thousand people.' Lyova answers plainly during the talk, letting the remark speak for itself.
+- 'What did you want to say? Nagiyev did us a disservice.' Talking about the service at once, Barinov uses "medvezhyu" ("bear's", from "medvezhiy") to make the point stick.
+- 'Chef! Phone for you!' Cutting in calmly to Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Excuse me. Well go on, go.' Barinov openly offers this informal apology toward Lyova using "izvini" ("sorry") — the casual singular apology you use with someone you know well.

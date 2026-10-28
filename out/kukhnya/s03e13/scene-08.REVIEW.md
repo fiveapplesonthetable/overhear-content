@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have a good plan too.' Katya directs the remark beside Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Let's go destroy the evidence quickly.' Katya holds firm bluntly beside Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
-- 'Falling off this sofa hurts a lot.' Nagiyev stresses one classic detail for Katya: "divana" means "sofa, couch" (from "divan"), giving the line its exact edge.
-- 'And sleeping on it is lonely.' Nagiyev steps in honestly on the spot, making his position completely clear.
-- 'Pick up the sofa and carry it out of here.' Nagiyev holds firm decisively facing Katya, keeping the focus on what actually matters here.
-- 'The warm blanket is a gift for you.' Nagiyev chooses one familiar touch on cue: "tyoplyy" means "warm", and it carries the main weight of what Nagiyev is saying.
-- 'In short, six bottles of expensive alcohol.' Katya fires back candidly to settle things, to clear the air between them once and for all.
-- 'Three of them were smashed, three were carried off.' Katya responds promptly with a smile, so Nagiyev knows she is not just making small talk.
-- 'Let's go watch the camera recordings.' Katya colors one sharp piece in reply: "zapisi" means "recordings" (from "zapis"), giving the line its exact edge.
-- 'How are we going to erase this?' Katya states this point with ease: putting the question word "kak" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'Wait, I will be right back.' Max chimes in right away before Katya, refusing to let the moment slip past.
-- 'Where did you run off to right now?' Katya emphasizes one direct detail in reply: "pobezhal" means "ran off" (from "pobezhat"), giving the line its exact edge.
-- 'I urgently need the restroom.' Max lays out this warning with ease: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Great, you picked a fine time!' Katya pushes back candidly before Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'I have a good plan too.' Katya replies right away without any doubt, leaving no doubt about where she stands.
+- 'Let's go destroy the evidence quickly.' Katya pushes back bluntly with a nod, shifting the mood of the conversation in a single beat.
+- 'Falling off this sofa hurts a lot.' Bringing up the sofa in this beat, Nagiyev centers the thought on "divana" ("sofa, couch", from "divan") without wasting a word.
+- 'And sleeping on it is lonely.' Nagiyev responds decisively before Katya and puts the emphasis on "odinoko" ("lonely") in the middle of the talk.
+- 'Pick up the sofa and carry it out of here.' Nagiyev answers decisively around Katya, leaving no doubt about where he stands.
+- 'The warm blanket is a gift for you.' Insisting on how warm things are with Katya, Nagiyev lands on "tyoplyy" ("warm") as the key everyday word here.
+- 'In short, six bottles of expensive alcohol.' Turning to the alcohol during the talk, Katya chooses "alkogolya" ("alcohol", from the root "alkogol") so Nagiyev hears the exact meaning.
+- 'Three of them were smashed, three were carried off.' Katya answers promptly facing Nagiyev, grounding the moment in plain reality.
+- 'Let's go watch the camera recordings.' Pointing to the camera recordings at once, Katya brings in "zapisi" ("recordings", from "zapis") as the key Russian word here.
+- 'How are we going to erase this?' Stepping in openly in the exchange, Katya puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'Wait, I will be right back.' Max opens up right away hearing Katya, so Katya knows he is not just making small talk.
+- 'Where did you run off to right now?' Katya weighs in decisively on the spot and brings in "pobezhal" ("ran off", from "pobezhat") as the key Russian word here.
+- 'I urgently need the restroom.' Addressing the toilet right here, Max leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Great, you picked a fine time!' Katya cuts in candidly with Max, leaving no doubt about where she stands.

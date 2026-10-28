@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want to update our menu today.' Kristina proceeds pointedly with a shrug, testing Barinov's reaction in the middle of the exchange.
-- 'We need several vegetarian dishes.' Kristina favors one direct touch in earnest: "vegetarianskikh" means "vegetarian" (from "vegetarianskiy"), giving the line its exact edge.
-- 'Vitya, will you come up with something quickly?' Kristina delivers this answer at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Of course, no problem, dear Kristina.' Barinov speaks up lightly with Nagiyev, shifting the whole mood of the room in a single beat.
-- 'Guys, we are working and not relaxing.' Barinov frames one classic choice toward Kristina: "rasslablyayemsya" means "relax" (from "rasslablyatsya"), giving the line its exact edge.
-- 'Wait, what else is this?' Nagiyev aims the comeback calmly now: putting the question word "chto" right at the front of the line lets Kristina hear the point of the question on the very first beat.
-- 'This is a new vegetarian dish, spinach in cream.' Barinov replies promptly without holding back, so Kristina knows he is not just making small talk.
-- 'Immediately remove the spinach from our menu.' Nagiyev leans on one memorable detail with Kristina: "nemedlenno" means "immediately", and it carries the main weight of what Nagiyev is saying.
-- 'Here, just as you ordered, spinach in cream.' Barinov anchors one familiar word for Kristina: "zakazyvala" means "ordered" (from "zakazyvat"), giving the line its exact edge.
-- 'Dima, by the way, also asked for vegetarian dishes.' Barinov answers calmly hearing Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
-- 'It seems to me he is stealing ideas from me.' Kristina frames one classic expression with Barinov: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'We will not introduce this dish into the menu.' Kristina holds firm honestly around Nagiyev, shifting the whole mood of the room in a single beat.
+- 'I want to update our menu today.' Kristina weighs in pointedly in this moment, making her position completely clear.
+- 'We need several vegetarian dishes.' Addressing the dishes around Barinov, Kristina brings in "vegetarianskikh" ("vegetarian", from "vegetarianskiy") as the key Russian word here.
+- 'Vitya, will you come up with something quickly?' Replying boldly beside Barinov, Kristina keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Of course, no problem, dear Kristina.' Barinov politely voices this confirmation for Kristina using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Guys, we are working and not relaxing.' Mentioning the boys beside Nagiyev, Barinov reaches for the Russian word "rasslablyayemsya" ("relax", built from "rasslablyatsya") right at the center of the line.
+- 'Wait, what else is this?' Pushing back frankly at once, Nagiyev puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'This is a new vegetarian dish, spinach in cream.' Barinov steps in promptly in their talk, grounding the moment in plain reality.
+- 'Immediately remove the spinach from our menu.' Talking about the spinach in front of Barinov, Nagiyev brings in "nemedlenno" ("immediately") to make the meaning unmistakable.
+- 'Here, just as you ordered, spinach in cream.' Barinov continues evenly with a shrug, testing Nagiyev's reaction in the middle of the exchange.
+- 'Dima, by the way, also asked for vegetarian dishes.' Barinov reacts calmly without any doubt, testing Kristina's reaction in the middle of the exchange.
+- 'It seems to me he is stealing ideas from me.' Mentioning the ideas beside Barinov, Kristina leans on "kazhetsya" ("it seems, I think", a form of "kazatsya") to give the remark its edge.
+- 'We will not introduce this dish into the menu.' Addressing the dish beside Barinov, Kristina uses "blyudo" ("dish") to carry the main weight of the thought.

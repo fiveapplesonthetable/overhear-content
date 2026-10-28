@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this unscheduled family council?' Barinov states that point in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Dad, sit down, I want to say something important.' Katya weighs in at once to settle things, without trying to dress up how she really feels.
-- 'Tell me honestly, are you pregnant right now?' Eleonora frames this key element in reply: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
-- 'Mom, no, I am not pregnant at all.' Katya aims that reply without pause: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'I am leaving soon to live in Paris.' Katya answers steadily with a nod, leaving no doubt about where she stands.
-- 'Are you going there with that clown?' Barinov sharpens one classic expression on cue: "klounom" means "clown" (from "kloun"), giving the line its exact edge.
-- 'It would be better if you really were pregnant!' Barinov centers this vivid term right here: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
-- 'Has he already asked you to marry him?' Eleonora presses openly about what Katya just brought up.
-- 'No, so far he only invited me to Paris.' Katya reaches for this sharp detail right here: "pozval" means "invited" (from "pozvat"), giving the line its exact edge.
-- 'And what about your mother and me?' Barinov phrases this update in earnest: putting the question word "kak" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'You lived wonderfully before my arrival.' Katya continues calmly before Barinov, without trying to dress up how she really feels.
-- 'And each of you lived on your own.' Katya reaches for one loaded touch on cue: "kazhdyy" means "every", and it carries the main weight of what Katya is saying.
+- 'What is this unscheduled family council?' Noting how unscheduled things are during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Dad, sit down, I want to say something important.' Katya jumps in at once in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'Tell me honestly, are you pregnant right now?' Stressing how pregnant things are with Katya, Eleonora centers the thought on "beremenna" ("pregnant", from "beremennyy") without wasting a word.
+- 'Mom, no, I am not pregnant at all.' Explaining how pregnant she is around Eleonora, Katya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'I am leaving soon to live in Paris.' Katya responds steadily with Barinov, leaving no doubt about where she stands.
+- 'Are you going there with that clown?' Turning to the clown beside Katya, Barinov centers the thought on "klounom" ("clown", from "kloun") without wasting a word.
+- 'It would be better if you really were pregnant!' Barinov answers calmly with a nod, without trying to dress up how he really feels.
+- 'Has he already asked you to marry him?' Eleonora presses openly whether Katya really thought this through.
+- 'No, so far he only invited me to Paris.' Katya replies dryly beside Eleonora and puts the weight on "pozval" ("invited", from "pozvat") as the exchange unfolds.
+- 'And what about your mother and me?' Addressing the mum before Katya, Barinov puts the question word "kak" right at the start so Katya hears the focus immediately.
+- 'You lived wonderfully before my arrival.' Katya responds calmly during the talk, testing Barinov's reaction in the middle of the exchange.
+- 'And each of you lived on your own.' Katya answers readily at once and reaches for the Russian word "zhili" ("to live", built from "zhit") right at the center of the line.

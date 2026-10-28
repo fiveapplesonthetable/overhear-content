@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The hotel is geared toward well-off people.' Max points to this clear piece toward Mikhail: "oriyentirovan" means "oriented, geared toward" (from "oriyentirovat"), giving the line its exact edge.
-- 'Only a wealthy person will book a room with us.' Max sends this warning at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'A truly prosperous guest will treat himself to a suite.' Max proceeds evenly to settle things, watching Mikhail's face to see how the news lands.
-- 'But there are very wealthy guests.' Max frames one key touch in reply: "sostoyatelnyye" means "wealthy, affluent" (from "sostoyatelnyy"), giving the line its exact edge.
-- 'They can rent the entire hotel.' Max responds pointedly without a pause, keeping the focus on what actually matters here.
-- 'Excuse me, this is our electrician.' Mikhail cuts in wryly on the spot, to clear the air between them once and for all.
-- 'And this is that very wealthy guest.' Max centers this telling word in earnest: "sostoyatelnyy" means "wealthy, affluent", and it carries the main weight of what Max is saying.
-- 'Rumors arrive at the hotel much earlier.' Max stands firm frankly with Mikhail, to clear the air between them once and for all.
-- 'Last year this sheikh also visited Moscow.' Max continues briskly without any doubt, saying out loud what both of them already know.
-- 'All staff members must work perfectly.' Mikhail highlights this clear choice with Max: "sotrudniki" means "employees" (from "sotrudnik"), giving the line its exact edge.
-- 'People tell amazing stories about him.' Max responds frankly without any doubt, testing Mikhail's reaction in the middle of the exchange.
-- 'Welcome to our hotel!' Mikhail answers plainly with a sigh, so Max knows he is not just making small talk.
+- 'The hotel is geared toward well-off people.' Focusing on the hotel to Mikhail, Max chooses "oriyentirovan" ("oriented, geared toward", from the root "oriyentirovat") so Mikhail hears the exact meaning.
+- 'Only a wealthy person will book a room with us.' Bringing up the number right here, Max reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'A truly prosperous guest will treat himself to a suite.' Max fires back evenly with Mikhail, letting the remark speak for itself.
+- 'But there are very wealthy guests.' Stressing how wealthy things are before Mikhail, Max brings in "sostoyatelnyye" ("wealthy, affluent", from "sostoyatelnyy") as the key Russian word here.
+- 'They can rent the entire hotel.' Addressing the entire hotel in the exchange, Max uses "otel" ("hotel") to carry the main weight of the thought.
+- 'Excuse me, this is our electrician.' Mikhail simply delivers this polite apology for Max using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'And this is that very wealthy guest.' Underscoring how wealthy things are beside Mikhail, Max centers the remark on "sostoyatelnyy" ("wealthy, affluent") without any extra fuss.
+- 'Rumors arrive at the hotel much earlier.' Underscoring the hotel right here, Max brings in "pribyvayut" ("arrive", from "pribyvat") as the key Russian word here.
+- 'Last year this sheikh also visited Moscow.' Touching on the sheikh with a shrug, Max lets Mikhail see exactly where things stand.
+- 'All staff members must work perfectly.' Mentioning the employees at once, Mikhail uses "sotrudniki" ("employees", from "sotrudnik") to make the point stick.
+- 'People tell amazing stories about him.' Highlighting the stories with Mikhail, Max brings in "udivitelnyye" ("surprising", from "udivitelnyy") as the key Russian word here.
+- 'Welcome to our hotel!' Mikhail answers plainly on the spot, leaving no doubt about where he stands.

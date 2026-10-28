@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what did you just feed the guests?' Nagiyev wonders sharply whether Barinov really thought this through.
-- 'I lost all my money tonight because of you!' Nagiyev favors one direct word at once: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
-- 'Wait, what on earth just happened?' Barinov shapes this statement in earnest: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'That was probably Max's new signature sauce!' Barinov answers plainly during the talk, leaving no doubt about where he stands.
-- 'Let's sort everything out tomorrow instead, Dima.' Barinov picks one vivid detail in earnest: "razbiratsya" means "to understand well", and it carries the main weight of what Barinov is saying.
-- 'Maybe it is the ghost of Grandpa Kirill taking revenge on us again?' Max frames the remark in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'Dima, really, some kind of devilry is going on in the kitchen!' Barinov replies promptly to settle things, keeping the focus on what actually matters here.
-- 'I am fed up, I will come tomorrow and punish everyone strictly!' Nagiyev colors one loaded touch right here: "nadoyelo" means "has got boring" (from "nadoyest"), giving the line its exact edge.
-- 'Get out of here, I do not want to see you anymore!' Nagiyev stresses this key element on cue: "ukhodite" means "leave, go away" (from "ukhodit"), giving the line its exact edge.
-- 'And who is going to clean up in the kitchen, the ghost of the cleaning lady?' Barinov wonders sharply whether Nagiyev really thought this through.
-- 'Alright, we are all leaving, until tomorrow, Chef!' Max picks this direct touch at once: "ukhodim" means "are leaving" (from "ukhodit"), giving the line its exact edge.
-- 'Poker is that kind of game, brother, unpredictable!' Max directs that remark briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Tell me, what did you just feed the guests?' Nagiyev wonders sharply where this conversation is heading next.
+- 'I lost all my money tonight because of you!' Addressing his money around Barinov, Nagiyev uses "dengi" ("money") to carry the main weight of the thought.
+- 'Wait, what on earth just happened?' Answering dryly around Nagiyev, Barinov drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'That was probably Max's new signature sauce!' Barinov responds plainly with Max, shifting the mood of the conversation in a single beat.
+- 'Let's sort everything out tomorrow instead, Dima.' Barinov pushes back briskly on the spot and reaches for the Russian word "razbiratsya" ("to understand well") right at the heart of the line.
+- 'Maybe it is the ghost of Grandpa Kirill taking revenge on us again?' Returning to the ghost during the talk, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Dima, really, some kind of devilry is going on in the kitchen!' Barinov counters promptly with a shrug, without trying to dress up how he really feels.
+- 'I am fed up, I will come tomorrow and punish everyone strictly!' Nagiyev speaks quietly to Barinov and chooses "nadoyelo" ("has got boring", from the root "nadoyest") so Barinov hears the exact meaning.
+- 'Get out of here, I do not want to see you anymore!' Nagiyev counters sharply with a shrug, refusing to let the moment slip past.
+- 'And who is going to clean up in the kitchen, the ghost of the cleaning lady?' Barinov wonders sharply about what Max just brought up.
+- 'Alright, we are all leaving, until tomorrow, Chef!' Max steps in firmly before Barinov and brings in "ukhodim" ("are leaving", from "ukhodit") as the key Russian word here.
+- 'Poker is that kind of game, brother, unpredictable!' Underscoring how unpredictable things are in front of Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.

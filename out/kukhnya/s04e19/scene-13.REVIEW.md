@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you cook meat in the contest?' Barinov grounds one memorable choice in earnest: "konkurse" means "contest, competition" (from "konkurs"), giving the line its exact edge.
-- 'You are our fish specialist, after all!' Barinov brings the reply to Senya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'You gave me that advice yourself!' Senya stands firm openly as things stand, refusing to let the moment slip past.
-- 'I lost today only because of you!' Senya chooses one pointed detail on cue: "segodnya" means "today", and it carries the main weight of what Senya is saying.
-- 'I should have just cooked fish.' Senya brings that line for Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'You are getting in my way, and you will not advance either!' Barinov steps in frankly before Senya, grounding the moment in plain reality.
-- 'Hello, Elena Pavlovna, glad to see you.' Senya chooses this telling expression in earnest: "zdravstvuyte" means "hello", and it carries the main weight of what Senya is saying.
-- 'Did you come for our contest too?' Senya sends the remark without pause: the "-sya" ending on "konkurs" ("contest") turns the action inward or makes it happen between people naturally.
-- 'Yes, I decided to give it a try too.' Elena opens up briskly with a nod, watching Barinov's face to see how the news lands.
-- 'What do you think, will I succeed?' Elena focuses on one classic element in earnest: "poluchitsya" means "will come out", and it carries the main weight of what Elena is saying.
-- 'Elena Pavlovna, chance decides everything in here.' Senya replies pointedly across the room, to clear the air between them once and for all.
-- 'I wish you great luck on the show!' Senya counters calmly as things stand, testing Elena's reaction in the middle of the exchange.
+- 'Why did you cook meat in the contest?' Discussing the contest at once, Barinov uses "konkurse" ("contest, competition", from "konkurs") to make the point stick.
+- 'You are our fish specialist, after all!' Pointing to the specialist around Senya, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'You gave me that advice yourself!' Senya weighs in openly in this moment, making his position completely clear.
+- 'I lost today only because of you!' Senya responds briskly beside Barinov and leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'I should have just cooked fish.' Pointing to the fish around Barinov, Senya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'You are getting in my way, and you will not advance either!' Barinov speaks frankly without holding back, so Senya knows he is not just making small talk.
+- 'Hello, Elena Pavlovna, glad to see you.' Senya follows up promptly in this beat and brings in "zdravstvuyte" ("hello") to make the meaning unmistakable.
+- 'Did you come for our contest too?' Holding firm readily around Elena, the "-sya" ending on "konkurs" ("contest") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yes, I decided to give it a try too.' Elena reacts briskly with Senya, testing Senya's reaction in the middle of the exchange.
+- 'What do you think, will I succeed?' Elena continues naturally in the exchange and brings in "poluchitsya" ("will come out") to make the meaning unmistakable.
+- 'Elena Pavlovna, chance decides everything in here.' Turning to the case on the spot, Senya uses "sluchay" ("case, occasion") to carry the main weight of the thought.
+- 'I wish you great luck on the show!' Senya replies calmly around Elena, testing Elena's reaction in the middle of the exchange.

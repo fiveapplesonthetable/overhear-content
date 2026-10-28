@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Dima, step into my office.' Barinov chimes in steadily toward Nagiyev, saying out loud what both of them already know.
-- 'Well then, kiddo, have you changed your mind already?' Nagiyev colors one key detail for Barinov: "peredumal" means "changed your mind" (from "peredumat"), giving the line its exact edge.
-- 'No, I know you are sleeping with Oksana.' Barinov emphasizes one direct detail for Nagiyev: "oksanoy" means "oksana", and it carries the main weight of what Barinov is saying.
+- 'Hello, Dima, step into my office.' Barinov continues steadily with a nod, without trying to dress up how he really feels.
+- 'Well then, kiddo, have you changed your mind already?' Pointing to the kid before Barinov, Nagiyev chooses "malysh" ("kid, little one") so Barinov gets the point right away.
+- 'No, I know you are sleeping with Oksana.' Barinov proceeds warmly with a nod, without trying to dress up how he really feels.
 - 'With what Oksana? I do not understand.' Nagiyev challenges candidly while looking straight at Barinov here.
-- 'With the young finalist of your culinary show.' Barinov spotlights one clear piece at once: "finalistkoy" means "culinary", and it carries the main weight of what Barinov is saying.
-- 'Here is a video where you two are in the office.' Barinov frames the reply at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So what? Everyone will say that I am a stud!' Nagiyev wonders promptly about what Barinov just brought up.
-- 'Only nothing worked out for you in there.' Barinov centers one key touch toward Nagiyev: "vyshlo" means "happened, came about" (from "vyyti"), giving the line its exact edge.
-- 'Do not worry, Dima, it happens to anyone.' Barinov continues plainly on the spot, saying out loud what both of them already know.
-- 'All right, speak plainly, what do you want?' Nagiyev probes point-blank before Barinov can change the subject.
-- 'Look, I am putting the flash drive into the microwave.' Barinov grounds this telling element for Nagiyev: "fleshku" means "drive" (from "fleshka"), giving the line its exact edge.
-- 'I do not want a dirty victory, Dima.' Barinov cuts in briskly without any doubt, watching Nagiyev's face to see how the news lands.
+- 'With the young finalist of your culinary show.' Talking about the show beside Nagiyev, Barinov chooses "finalistkoy" ("culinary") so Nagiyev gets the point right away.
+- 'Here is a video where you two are in the office.' Returning to the office beside Nagiyev, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So what? Everyone will say that I am a stud!' Nagiyev wonders promptly where this conversation is heading next.
+- 'Only nothing worked out for you in there.' Barinov chimes in earnestly right here and lands on "vyshlo" ("happened, came about", built on "vyyti") to keep the statement grounded.
+- 'Do not worry, Dima, it happens to anyone.' Barinov continues decisively during the talk and puts the weight on "perezhivay" ("worry", from "perezhivat") as the exchange unfolds.
+- 'All right, speak plainly, what do you want?' Nagiyev probes point-blank why things suddenly took this turn between them.
+- 'Look, I am putting the flash drive into the microwave.' Discussing the flash drive beside Nagiyev, Barinov lands on "fleshku" ("drive", built on "fleshka") to keep the statement grounded.
+- 'I do not want a dirty victory, Dima.' Touching on a dirty victory in this beat, Barinov lands on "gryaznoy" ("dirty", built on "gryaznyy") to keep the statement grounded.

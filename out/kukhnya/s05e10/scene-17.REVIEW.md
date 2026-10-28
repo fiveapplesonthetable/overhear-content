@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nothing. In short, it did not work.' Max aims that remark beside Kostya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'What do you mean?' Kostya asks skeptically whether Nastya really thought this through.
-- 'She paid with money.' Max underscores one vivid expression in earnest: "rasplatilas" means "paid" (from "rasplatitsya"), giving the line its exact edge.
-- 'And besides, she does not look much like a hypnotist.' Max shares the comeback frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'How does she not look like one? You said so yourself!' Kostya inquires point-blank whether Max really thought this through.
-- 'What am I, a detective?' Max sharpens one clear word for Nastya: "detektiv" means "detective", and it carries the main weight of what Max is saying.
-- 'In short, come on, let us all disperse.' Max voices this warning beside Kostya: the word "davayte" is the polite or group version of "let's", inviting Kostya into the plan right away.
-- 'Wait, what if it is her after all?' Nastya asks promptly about what Max just brought up.
-- 'And right now we will let her slip away!' Nastya grounds this vivid piece right here: "seychas" means "now", and it carries the main weight of what Nastya is saying.
-- 'Listen, let us do it this way.' Max puts this statement right away: the word "davayte" is the polite or group version of "let's", inviting Nastya into the plan right away.
-- 'You watch her yourselves, and I pass.' Max chimes in candidly to be clear, refusing to let the moment slip past.
-- 'I already screwed up in front of Vika anyway.' Max centers one classic expression at once: "oblazhalsya" means "screw up, mess up" (from "oblazhatsya"), giving the line its exact edge.
+- 'Nothing. In short, it did not work.' Leaning in dryly before Kostya, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'What do you mean?' Kostya asks skeptically where this conversation is heading next.
+- 'She paid with money.' Focusing on the money with Kostya, Max reaches for the Russian word "rasplatilas" ("paid", built from "rasplatitsya") right at the center of the line.
+- 'And besides, she does not look much like a hypnotist.' Addressing a hypnotist in front of Kostya, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'How does she not look like one? You said so yourself!' Kostya inquires point-blank why things suddenly took this turn between them.
+- 'What am I, a detective?' Turning to a detective in this beat, Max leans on "detektiv" ("detective") to give the whole sentence its punch.
+- 'In short, come on, let us all disperse.' Jumping in quietly with Nastya, Max uses the polite or group form "davayte" ("let's") to bring Nastya into the plan.
+- 'Wait, what if it is her after all?' Nastya asks promptly where this conversation is heading next.
+- 'And right now we will let her slip away!' Nastya fires back pointedly before Max and puts the weight on "upustim" ("will let slip", from "upustit") as the exchange unfolds.
+- 'Listen, let us do it this way.' Reacting frankly right here, Max uses the polite or group form "davayte" ("let's") to bring Nastya into the plan.
+- 'You watch her yourselves, and I pass.' Max responds candidly with a shrug, before Nastya can change the subject.
+- 'I already screwed up in front of Vika anyway.' Max steps in promptly beside Nastya and centers the thought on "oblazhalsya" ("screw up, mess up", from "oblazhatsya") without wasting a word.

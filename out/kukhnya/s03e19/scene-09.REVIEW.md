@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Officers, you do not have the right to take away my employee!' Barinov continues at once across the room, testing Kostya's reaction in the middle of the exchange.
-- 'What employee? He is an ordinary homeless man, take him away!' Max emphasizes one familiar word on cue: "sotrudnik" means "employee", and it carries the main weight of what Max is saying.
-- 'First and foremost he is a very good and experienced cook.' Barinov phrases the comeback right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Congratulations, Rodion, I have officially hired you!' Barinov responds evenly with a shrug, without trying to dress up how he really feels.
-- 'I have the right to hire cooks myself under my contract.' Barinov underscores this vivid word on cue: "kontraktu" means "by contract" (from "kontrakt"), giving the line its exact edge.
-- 'And I as the employer have the right to see the employee's documents.' Max pushes back honestly without holding back, saying out loud what both of them already know.
-- 'His passport and a real cook's medical booklet.' Max follows up calmly facing Barinov, saying out loud what both of them already know.
-- 'Rodion Sergeyevich starts work tomorrow, so you will see them tomorrow!' Barinov favors one clear choice on cue: "zavtrashnego" means "tomorrow's" (from "zavtrashniy"), giving the line its exact edge.
-- 'Kostya, imagine, Vika is testing me as if I were a terrorist!' Max reacts steadily facing Barinov, making his position completely clear.
-- 'Well, in a sense you really are quite the terrorist.' Kostya proceeds sharply with a smile, watching Max's face to see how the news lands.
-- 'Look, Vika is quietly whispering something to Eva right now.' Max frames this sharp touch for Barinov: "shepchet" means "whispers" (from "sheptat"), giving the line its exact edge.
-- 'It looks like I am going to have another test today.' Max hands over that reply briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Max, calm down, you already have real paranoia!' Kostya stands firm frankly before Barinov, bringing things back to earth after the buildup.
+- 'Officers, you do not have the right to take away my employee!' Barinov chimes in at once without any doubt, bringing things back to earth after the buildup.
+- 'What employee? He is an ordinary homeless man, take him away!' Underscoring the employee around Barinov, Max centers the remark on "sotrudnik" ("employee") without any extra fuss.
+- 'First and foremost he is a very good and experienced cook.' Explaining how good he is in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Congratulations, Rodion, I have officially hired you!' Barinov opens up evenly with a smile, bringing things back to earth after the buildup.
+- 'I have the right to hire cooks myself under my contract.' Pointing to his contract right here, Barinov puts the weight on "kontraktu" ("by contract", from "kontrakt") as the exchange unfolds.
+- 'And I as the employer have the right to see the employee's documents.' Turning to the employer in the exchange, Max chooses "rabotodatel" ("employer") so Barinov gets the point right away.
+- 'His passport and a real cook's medical booklet.' Max opens up calmly without a pause, steering the talk right where he wants it.
+- 'Rodion Sergeyevich starts work tomorrow, so you will see them tomorrow!' Barinov pushes back sharply in the exchange and brings in "zavtrashnego" ("tomorrow's", from "zavtrashniy") as the key Russian word here.
+- 'Kostya, imagine, Vika is testing me as if I were a terrorist!' Bringing up a terrorist to Kostya, Max brings in "terrorist" ("terrorist") to make the meaning unmistakable.
+- 'Well, in a sense you really are quite the terrorist.' Kostya jumps in sharply watching Max, refusing to let the moment slip past.
+- 'Look, Vika is quietly whispering something to Eva right now.' Max counters plainly in this beat and lands on "shepchet" ("whispers", built on "sheptat") to keep the statement grounded.
+- 'It looks like I am going to have another test today.' Max speaks quietly around Kostya, grounding the moment in plain reality.
+- 'Max, calm down, you already have real paranoia!' Kostya jumps in frankly across the room, without trying to dress up how he really feels.

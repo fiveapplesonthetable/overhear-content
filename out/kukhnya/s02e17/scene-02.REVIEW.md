@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, forgive me, please.' Fedya voices that reply with candor: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Could you quickly go tell them right now?' Max challenges deadpan about what Fedya just brought up.
-- 'Now that is not very interesting.' Fedya highlights this clear detail on cue: "interesno" means "interesting", and it carries the main weight of what Fedya is saying.
-- 'And why does it say head chef Fyodor Mikhailovich?' Max asks skeptically how Fedya expects that to work in practice.
-- 'And not Arseniy Andreyevich, huh?' Fedya questions plainly why things suddenly took this turn between them.
-- 'Oh, I beg of you.' Max highlights this telling choice with Fedya: "umolyayu" means "I beg" (from "umolyat"), giving the line its exact edge.
-- 'Have you taken a look at yourself?' Fedya hands over the reply right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Because of who you are and who they are.' Max stands firm promptly to be clear, making his position completely clear.
-- 'And so what?' Fedya drops that remark briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'In French it sounds prettier, of course, but the meaning is the same.' Max steps in steadily across the room, steering the talk right where he wants it.
-- 'Wanna bet on it?' Fedya questions curiously how Max expects that to work in practice.
-- 'You? And me?' Max frames the comment for Fedya: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
-- 'Come on, for three grand.' Fedya aims that reply beside Max: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Listen, forgive me, please.' Fedya firmly chooses this personal apology with Max using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'Could you quickly go tell them right now?' Max challenges deadpan where this conversation is heading next.
+- 'Now that is not very interesting.' Fedya cuts in promptly at once and leans on "interesno" ("interesting") to give the whole sentence its punch.
+- 'And why does it say head chef Fyodor Mikhailovich?' Talking about the head in this beat, Max uses "shef-povar" ("head chef") to carry the main weight of the thought.
+- 'And not Arseniy Andreyevich, huh?' Fedya questions plainly before Max can change the subject.
+- 'Oh, I beg of you.' Max responds plainly in this beat and centers the thought on "umolyayu" ("I beg", from "umolyat") without wasting a word.
+- 'Have you taken a look at yourself?' Jumping in earnestly before Max, Fedya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Because of who you are and who they are.' Max speaks up promptly toward Fedya, so Fedya knows he is not just making small talk.
+- 'And so what?' Speaking openly during the talk, Fedya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'In French it sounds prettier, of course, but the meaning is the same.' Focusing on the meaning in front of Fedya, Max brings in "po-frantsuzski" ("in French") to make the meaning unmistakable.
+- 'Wanna bet on it?' Fedya questions curiously what Max is actually getting at here.
+- 'You? And me?' Weighing in plainly in front of Fedya, Max keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.
+- 'Come on, for three grand.' Reacting firmly to Max, Fedya starts with "davay" ("come on, let's") to invite Max right into the action.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, it is me, I am ready to meet tonight.' Barinov picks one colorful touch on cue: "vstretitsya" means "to meet", and it carries the main weight of what Barinov is saying.
-- 'I will introduce you to a wonderful young woman.' Barinov anchors one colorful detail toward Max: "zhenshchinoy" means "a woman" (from "zhenshchina"), giving the line its exact edge.
-- 'Get your money ready for dinner, loser!' Barinov cuts in openly before Lyova, making his position completely clear.
-- 'Listen, Lyova, here is how things turned out.' Max anchors one familiar expression on cue: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'Yes, Mom, I am going to have a date!' Lyova drops this statement with candor: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Yes, she is from a very respectable family.' Lyova speaks plainly with Max, without trying to dress up how he really feels.
-- 'I hope that you will meet each other soon.' Lyova leans on this direct detail right here: "poznakomites" means "will get acquainted" (from "poznakomitsya"), giving the line its exact edge.
-- 'Alright, Mom, bye, it is time for me to work.' Lyova offers the reaction for Max: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".
+- 'Dima, it is me, I am ready to meet tonight.' Barinov opens up sharply on the spot and chooses "vstretitsya" ("to meet") so Max gets the point right away.
+- 'I will introduce you to a wonderful young woman.' Barinov answers wryly with a sigh, without trying to dress up how he really feels.
+- 'Get your money ready for dinner, loser!' Barinov reacts openly watching Max, before Max can change the subject.
+- 'Listen, Lyova, here is how things turned out.' Emphasizing the matter on the spot, Max uses "slushay" ("listen", from "slushat") to make the point stick.
+- 'Yes, Mom, I am going to have a date!' Bringing up a date with a nod, Lyova lets Max see exactly where things stand.
+- 'Yes, she is from a very respectable family.' Lyova weighs in plainly across the room, refusing to let the moment slip past.
+- 'I hope that you will meet each other soon.' Lyova replies candidly right here and centers the thought on "poznakomites" ("will get acquainted", from "poznakomitsya") without wasting a word.
+- 'Alright, Mom, bye, it is time for me to work.' Touching on the mum around Max, Lyova leans on "pora" ("it is time to"), which carries the whole predicate in Russian without needing "it is".
 - 'Thank you, what would I have done without you?' Lyova challenges point-blank where this conversation is heading next.
-- 'So, where is our date going to be?' Lyova stresses this vivid piece at once: "svidaniye" means "date", and it carries the main weight of what Lyova is saying.
-- 'Listen, I completely forgot to ask about that.' Max puts that line without pause: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Wait right here, I will go find out everything now.' Max jumps in frankly to be clear, testing Lyova's reaction in the middle of the exchange.
+- 'So, where is our date going to be?' Mentioning his date before Max, Lyova puts the emphasis on "svidaniye" ("date") in the middle of the talk.
+- 'Listen, I completely forgot to ask about that.' Pushing back evenly before Lyova, Max adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Wait right here, I will go find out everything now.' Max counters frankly with Lyova, steering the talk right where he wants it.

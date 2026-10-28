@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did they not teach you to watch your step?' Gulya puts this warning without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Are you worked up again?' Senya probes curiously to see how Katya will answer on the spot.
-- 'I got worked up? She kicked my bucket on purpose!' Gulya picks one memorable touch for Katya: "spetsialno" means "on purpose", and it carries the main weight of what Gulya is saying.
-- 'Just leave her alone already!' Senya underscores this telling choice at once: "otstan" means "leave alone" (from "otstat"), giving the line its exact edge.
-- 'There is nothing and never was anything between Katya and me.' Senya counters frankly before Gulya, shifting the whole mood of the room in a single beat.
-- 'And never will be!' Gulya shares this update frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Of course there never will be.' Senya frames the thought without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Why did you not say right away: there was not, is not, and will not be?' Gulya inquires deadpan where this conversation is heading next.
-- 'Why do I have to say this for you?' Gulya focuses on this sharp touch in earnest: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
-- 'Or maybe you still want her after all?' Gulya sends the comeback at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'Why do you keep repeating that!' Senya responds firmly during the talk, making his position completely clear.
-- 'Crazy fool!' Katya points to this sharp choice in earnest: "nenormalnaya" means "crazy, abnormal" (from "nenormalnyy"), giving the line its exact edge.
+- 'Did they not teach you to watch your step?' Opening up firmly at once, Gulya keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Are you worked up again?' Senya probes curiously while looking straight at Gulya here.
+- 'I got worked up? She kicked my bucket on purpose!' Emphasizing her bucket to Senya, Gulya centers the remark on "spetsialno" ("on purpose") without any extra fuss.
+- 'Just leave her alone already!' Senya proceeds openly watching Gulya, grounding the moment in plain reality.
+- 'There is nothing and never was anything between Katya and me.' Senya counters frankly with a sigh, leaving no doubt about where he stands.
+- 'And never will be!' Reacting calmly beside Senya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Of course there never will be.' Senya casually shares this confirmation without hesitation using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Why did you not say right away: there was not, is not, and will not be?' Gulya inquires deadpan whether Senya really thought this through.
+- 'Why do I have to say this for you?' Gulya continues firmly beside Senya and brings in "dolzhna" ("should, must", from "dolzhen") as the key Russian word here.
+- 'Or maybe you still want her after all?' Looking over quietly beside Senya, Gulya keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Why do you keep repeating that!' Senya reacts firmly beside Gulya, keeping the focus on what actually matters here.
+- 'Crazy fool!' Pointing to the fool beside Senya, Katya centers the thought on "nenormalnaya" ("crazy, abnormal", from "nenormalnyy") without wasting a word.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this apple core doing here?' Max picks one practical expression toward Nagiyev: "ogryzok" means "scrap, remnant", and it carries the main weight of what Max is saying.
-- 'Lavrov was going around asking everyone for money earlier.' Vika speaks promptly to be clear, letting the remark speak for itself.
-- 'Who here is Lavrov?' Nagiyev tests calmly to see how Max will answer on the spot.
-- 'I am. Right here.' Max directs that line plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So, kid, you started stealing from the rich?' Vika prompts quietly to see how Max will answer on the spot.
-- 'Which is all the proof we need.' Nagiyev jumps in frankly beside Vika, making his position completely clear.
-- 'I did not take your money.' Max picks one colorful touch right here: "dengi" means "money", and it carries the main weight of what Max is saying.
-- 'Vika, call the police.' Nagiyev offers the reply right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I did not take the money!' Nagiyev jumps in calmly across the room, grounding the moment in plain reality.
-- 'Maybe we can handle this without the police?' Max reaches for one vivid choice at once: "oboydemsya" means "to do without" (from "oboytis"), giving the line its exact edge.
-- 'And why is that?' Vika shares this warning without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Let us just fire him on the spot.' Nagiyev chimes in honestly beside Vika, without trying to dress up how he really feels.
-- 'Go on, pack your things.' Max centers this sharp detail at once: "sobiray" means "pack, gather" (from "sobirat"), giving the line its exact edge.
+- 'What is this apple core doing here?' Focusing on the scrap during the talk, Max uses "ogryzok" ("scrap, remnant") to carry the main weight of the thought.
+- 'Lavrov was going around asking everyone for money earlier.' Discussing the money in the exchange, Vika puts the weight on "sprashival" ("asked", from "sprashivat") as the exchange unfolds.
+- 'Who here is Lavrov?' Nagiyev tests calmly what Max is actually getting at here.
+- 'I am. Right here.' Answering evenly right here, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So, kid, you started stealing from the rich?' Emphasizing the boyfriend during the talk, Vika puts the weight on "bogatykh" ("rich", from "bogatyy") as the exchange unfolds.
+- 'Which is all the proof we need.' Nagiyev weighs in frankly without any doubt, keeping the focus on what actually matters here.
+- 'I did not take your money.' Emphasizing the money on the spot, Max puts the emphasis on "dengi" ("money") in the middle of the talk.
+- 'Vika, call the police.' Touching on the police around Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I did not take the money!' Nagiyev speaks up calmly on the spot, testing Max's reaction in the middle of the exchange.
+- 'Maybe we can handle this without the police?' Bringing up the police around Vika, Max chooses "politsii" ("the police", from the root "politsiya") so Vika hears the exact meaning.
+- 'And why is that?' Answering frankly on the spot, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Let us just fire him on the spot.' Nagiyev chimes in honestly facing Vika, refusing to let the moment slip past.
+- 'Go on, pack your things.' Max fires back directly in this beat and lands on "sobiray" ("pack, gather", built on "sobirat") to keep the statement grounded.

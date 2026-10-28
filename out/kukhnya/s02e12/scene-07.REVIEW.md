@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This should be delicious.' Barinov centers one clear choice in reply: "dolzhno" means "ought, must" (from "dolzhen"), giving the line its exact edge.
-- 'Well, I hope so, at least.' Lyova proceeds calmly with a smile, saying out loud what both of them already know.
-- 'Or else his daddy helped him out.' Barinov opens up frankly with a nod, keeping the focus on what actually matters here.
-- 'Just like him.' Lyova states that point around Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Would have achieved something too.' Barinov brings this point before Lyova: the "-sya" ending on "dobilis" ("achieved") turns the action inward or makes it happen between people naturally.
-- 'I would like to see him try.' Lyova proceeds bluntly facing Barinov, making his position completely clear.
-- 'Where I started out.' Barinov picks this clear choice toward Lyova: "nachinal" means "to begin, to start" (from "nachinat"), giving the line its exact edge.
-- 'Hold on, you started out at the Metropol.' Lyova reaches for this clear element right here: "nachinal" means "to begin, to start" (from "nachinat"), giving the line its exact edge.
-- 'Oh, right, it was Lyova who started at the Metropol.' Barinov continues promptly across the room, saying out loud what both of them already know.
-- 'In order to do that.' Lyova states that point beside Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Beforehand.' Barinov voices that reply with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Let it rest for two minutes.' Lyova cuts in pointedly on the spot, grounding the moment in plain reality.
-- 'After that, you will cook it much faster.' Barinov anchors one familiar detail in earnest: "prigotovish" means "will prepare" (from "prigotovit"), giving the line its exact edge.
+- 'This should be delicious.' Barinov jumps in earnestly in the exchange and uses "dolzhno" ("ought, must", from "dolzhen") to make the point stick.
+- 'Well, I hope so, at least.' Focusing on the measure at once, Lyova brings in "krayney" ("extreme, least", from "krayniy") as the key Russian word here.
+- 'Or else his daddy helped him out.' Barinov answers frankly with Lyova, making his position completely clear.
+- 'Just like him.' Stepping in smoothly beside Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Would have achieved something too.' Leaning in evenly in front of Lyova, the "-sya" ending on "dobilis" ("achieved") marks an action that unfolds mutually or turns back on the speaker.
+- 'I would like to see him try.' Lyova proceeds bluntly around Barinov, watching Barinov's face to see how the news lands.
+- 'Where I started out.' Barinov chimes in plainly at once and centers the thought on "nachinal" ("to begin, to start", from "nachinat") without wasting a word.
+- 'Hold on, you started out at the Metropol.' Lyova reacts boldly around Barinov, so Barinov knows he is not just making small talk.
+- 'Oh, right, it was Lyova who started at the Metropol.' Barinov reacts promptly with a smile, testing Lyova's reaction in the middle of the exchange.
+- 'In order to do that.' Reacting quietly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Beforehand.' Jumping in boldly around Lyova, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Let it rest for two minutes.' Lyova continues pointedly facing Barinov, watching Barinov's face to see how the news lands.
+- 'After that, you will cook it much faster.' Barinov reacts naturally on the spot and leans on "prigotovish" ("will prepare", a form of "prigotovit") to give the remark its edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How do you choose a good hotel for a vacation?' Max spotlights this key term with Kostya: "khoroshiy" means "good", and it carries the main weight of what Max is saying.
-- 'Or for a business trip?' Max frames the comeback without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'There is one simple rule.' Max speaks up steadily on the spot, saying out loud what both of them already know.
-- 'The more stars, the better the service.' Max reaches for one sharp element on cue: "zvyozd" means "stars" (from "zvezda"), giving the line its exact edge.
-- 'A special commission inspects every corner of the hotel.' Max answers warmly across the room, making his position completely clear.
-- 'Forgive me, I did not have time to exchange money.' Max steps in sharply as they talk, letting the remark speak for itself.
-- 'Is it alright if I pay in dollars?' Max sharpens this direct touch at once: "rasschitayus" means "pay" (from "rasschitatsya"), giving the line its exact edge.
-- 'Will this be enough?' Max hands over that point with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Of course, here you go.' Nastya pushes back honestly to be clear, so Kostya knows she is not just making small talk.
-- 'Kostik, look how much I earned!' Nastya features one key element right here: "zarabotala" means "started working" (from "zarabotat"), giving the line its exact edge.
-- 'What is this?' Kostya phrases the reply for Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Dollars!' Nastya steps in honestly hearing Max, keeping the focus on what actually matters here.
+- 'How do you choose a good hotel for a vacation?' Talking about a good hotel on the spot, Max lands on "khoroshiy" ("good") as the key everyday word here.
+- 'Or for a business trip?' Returning to a business trip in this beat, Max keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'There is one simple rule.' Raising the rule without any doubt, Max cuts straight through the tension with Nastya.
+- 'The more stars, the better the service.' Bringing up the stars at once, Max leans on "zvyozd" ("stars", a form of "zvezda") to give the remark its edge.
+- 'A special commission inspects every corner of the hotel.' Talking about a special commission beside Nastya, Max lands on "spetsialnaya" ("special", built on "spetsialnyy") to keep the statement grounded.
+- 'Forgive me, I did not have time to exchange money.' Max fires back sharply without holding back, testing Nastya's reaction in the middle of the exchange.
+- 'Is it alright if I pay in dollars?' Highlighting the dollars right here, Max brings in "rasschitayus" ("pay", from "rasschitatsya") as the key Russian word here.
+- 'Will this be enough?' Reacting openly in the exchange, Max keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Of course, here you go.' Nastya briskly shares this confirmation in one quick breath using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Kostik, look how much I earned!' Nastya steps in directly right here and reaches for the Russian word "zarabotala" ("started working", built from "zarabotat") right at the center of the line.
+- 'What is this?' Answering quietly on the spot, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Dollars!' Nastya fires back honestly on the spot, grounding the moment in plain reality.

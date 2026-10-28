@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You let such a wonderful woman slip away, Max!' Barinov highlights this clear word at once: "prekrasnuyu" means "wonderful" (from "prekrasnyy"), giving the line its exact edge.
-- 'But nothing at all happened between her and Nagiyev.' Barinov offers the remark to Max: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Wait, Chef, how do you know that?' Max challenges calmly to see how Barinov will answer on the spot.
-- 'Believe me, I know for sure!' Barinov leans on this telling term for Max: "tochno" means "definitely", and it carries the main weight of what Barinov is saying.
-- 'And remember, Dima, the kitchen is real magic!' Barinov replies earnestly facing Kostya, keeping the focus on what actually matters here.
-- 'We soak the rabbit in water and add wine vinegar.' Barinov counters calmly around Max, testing Max's reaction in the middle of the exchange.
-- 'This will tenderize the meat and remove the unpleasant smell.' Barinov highlights one clear detail on cue: "nepriyatnyy" means "unpleasant", and it carries the main weight of what Barinov is saying.
-- 'Dima, when you chop onions, always chew gum.' Max replies at once in this moment, before Kostya can change the subject.
-- 'Then you definitely will not cry from the onions.' Max jumps in boldly with Barinov, shifting the whole mood of the room in a single beat.
-- 'Nastya, they just gave me a bonus, fifty thousand!' Kostya grounds this direct choice with Max: "premiyu" means "bonus, prize" (from "premiya"), giving the line its exact edge.
-- 'And fifty thousand for you too, Vika rewarded us before leaving!' Kostya anchors one vivid word in reply: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'Now that is really very cool!' Max fires back dryly before Kostya, steering the talk right where he wants it.
+- 'You let such a wonderful woman slip away, Max!' Mentioning a wonderful woman at once, Barinov lands on "prekrasnuyu" ("wonderful", built on "prekrasnyy") to keep the statement grounded.
+- 'But nothing at all happened between her and Nagiyev.' Stepping in naturally in this beat, Barinov drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Wait, Chef, how do you know that?' Max challenges calmly if there is more going on behind the scenes.
+- 'Believe me, I know for sure!' Barinov speaks up openly in the exchange and lands on "tochno" ("definitely") as the key everyday word here.
+- 'And remember, Dima, the kitchen is real magic!' Explaining how real things are in front of Max, Barinov uses "nastoyashchaya" ("real, genuine", from "nastoyashchiy") to make the point stick.
+- 'We soak the rabbit in water and add wine vinegar.' Barinov fires back calmly around Max, watching Max's face to see how the news lands.
+- 'This will tenderize the meat and remove the unpleasant smell.' Mentioning the meat beside Max, Barinov chooses "nepriyatnyy" ("unpleasant") so Max gets the point right away.
+- 'Dima, when you chop onions, always chew gum.' Pointing to the gum at once, Max uses "zhvachku" ("gum", from "zhvachka") to make the point stick.
+- 'Then you definitely will not cry from the onions.' Max jumps in boldly around Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'Nastya, they just gave me a bonus, fifty thousand!' Addressing a bonus during the talk, Kostya uses "premiyu" ("bonus, prize", from "premiya") to make the point stick.
+- 'And fifty thousand for you too, Vika rewarded us before leaving!' Kostya continues decisively without holding back, before Max can change the subject.
+- 'Now that is really very cool!' Max counters dryly with a sigh, leaving no doubt about where he stands.

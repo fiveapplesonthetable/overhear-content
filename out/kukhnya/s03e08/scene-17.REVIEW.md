@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, why did you not tell me about this right away?' Kostya makes that answer with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'I simply did not want to say anything in advance.' Max counters earnestly watching Kostya, bringing things back to earth after the buildup.
-- 'Alright, it is still very cool, my friend!' Kostya uses one pointed piece at once: "drug" means "friend", and it carries the main weight of what Kostya is saying.
-- 'Guys, let us drink to my colleague Maxim!' Kostya delivers this warning without fuss: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
-- 'I do not understand, who gave the order to drink?' Barinov inquires candidly before Kostya can change the subject.
-- 'Chef, we are seeing our Max off.' Kostya picks this clear piece at once: "provozhayem" means "see off" (from "provozhat"), giving the line its exact edge.
-- 'What, did he die like that horse?' Barinov phrases that reply beside Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'No, he quit and will now work at another restaurant.' Kostya steps in briskly with Max, without trying to dress up how he really feels.
-- 'Well, if you are leaving, then get your final settlement!' Barinov picks one practical choice for Kostya: "raschyot" means "final pay, calculation", and it carries the main weight of what Barinov is saying.
-- 'What an ungrateful person you are after all!' Barinov hands over that thought to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'How I sensed it right away, get out of here!' Barinov follows up steadily to be clear, grounding the moment in plain reality.
-- 'I am Maxim, and did you bring me the ticket?' Max stresses this clear word in reply: "privezli" means "delivered, brought" (from "privezti"), giving the line its exact edge.
+- 'Max, why did you not tell me about this right away?' Weighing in boldly in the exchange, Kostya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'I simply did not want to say anything in advance.' Max counters earnestly without a pause, keeping the focus on what actually matters here.
+- 'Alright, it is still very cool, my friend!' Bringing up his friend beside Max, Kostya chooses "drug" ("friend") so Max gets the point right away.
+- 'Guys, let us drink to my colleague Maxim!' Talking about the boys during the talk, Kostya uses the polite or group form "davayte" ("let's") to bring Max into the plan.
+- 'I do not understand, who gave the order to drink?' Barinov inquires candidly about what Kostya just brought up.
+- 'Chef, we are seeing our Max off.' Kostya counters readily at once and uses "provozhayem" ("see off", from "provozhat") to make the point stick.
+- 'What, did he die like that horse?' Addressing the knight in this beat, Barinov puts the question word "chto" right at the start so Kostya hears the focus immediately.
+- 'No, he quit and will now work at another restaurant.' Kostya speaks up briskly across the room, bringing things back to earth after the buildup.
+- 'Well, if you are leaving, then get your final settlement!' Emphasizing the final pay during the talk, Barinov leans on "raschyot" ("final pay, calculation") to give the whole sentence its punch.
+- 'What an ungrateful person you are after all!' Pointing out how ungrateful Kostya is beside Kostya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'How I sensed it right away, get out of here!' Barinov chimes in steadily with Max, so Max knows he is not just making small talk.
+- 'I am Maxim, and did you bring me the ticket?' Touching on the ticket in front of Barinov, Max puts the emphasis on "bilet" ("ticket") in the middle of the talk.

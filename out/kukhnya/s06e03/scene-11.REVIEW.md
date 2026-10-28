@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now you are going to meet your brother.' Barinov hands over the reaction at once: the "-sya" ending on "vstretishsya" ("will meet") turns the action inward or makes it happen between people naturally.
-- 'Cut, Vityusha, magnificent!' Nagiyev responds decisively facing Barinov, shifting the whole mood of the room in a single beat.
-- 'Simply brilliant, fine.' Nagiyev leans on this vivid detail in earnest: "genialno" means "brilliant", and it carries the main weight of what Nagiyev is saying.
-- 'Just add a little emotion, alright?' Nagiyev directs the comment for Barinov: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Camera, rolling, take two, action!' Nagiyev chimes in firmly in this moment, watching Barinov's face to see how the news lands.
-- 'Well then, now you will meet your brother!' Barinov anchors one clear choice at once: "vstretishsya" means "will meet" (from "vstretitsya"), giving the line its exact edge.
-- 'Cut, what on earth is that?' Nagiyev directs this update with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What kind of theater is this, honestly?' Nagiyev probes firmly to see how Barinov will answer on the spot.
-- 'Focus, work more precisely, please.' Nagiyev grounds this vivid element at once: "tochneye" means "definitely" (from "tochno"), giving the line its exact edge.
-- 'Let's go, guys, right now everything will work out for us.' Nagiyev delivers this update beside Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Camera, rolling!' Nagiyev follows up lightly with a nod, grounding the moment in plain reality.
-- 'Scene nine, take three, action!' Nagiyev highlights one familiar expression with Barinov: "stsena" means "stage, scene", and it carries the main weight of what Nagiyev is saying.
+- 'Now you are going to meet your brother.' Jumping in readily in the exchange, the "-sya" ending on "vstretishsya" ("will meet") marks an action that unfolds mutually or turns back on the speaker.
+- 'Cut, Vityusha, magnificent!' Nagiyev chimes in decisively watching Barinov, so Barinov knows he is not just making small talk.
+- 'Simply brilliant, fine.' Nagiyev cuts in naturally during the talk and reaches for the Russian word "genialno" ("brilliant") right at the heart of the line.
+- 'Just add a little emotion, alright?' Turning to the emotions before Barinov, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Camera, rolling, take two, action!' Nagiyev cuts in firmly in this moment, keeping the focus on what actually matters here.
+- 'Well then, now you will meet your brother!' Emphasizing the brother in the exchange, Barinov leans on "vstretishsya" ("will meet", a form of "vstretitsya") to give the remark its edge.
+- 'Cut, what on earth is that?' Reacting candidly right here, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What kind of theater is this, honestly?' Nagiyev probes firmly how Barinov expects that to work in practice.
+- 'Focus, work more precisely, please.' Nagiyev promptly offers this courtesy word in the exchange using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Let's go, guys, right now everything will work out for us.' Talking about the boys to Barinov, Nagiyev reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Camera, rolling!' Nagiyev continues lightly without holding back, keeping the focus on what actually matters here.
+- 'Scene nine, take three, action!' Bringing up the stage around Barinov, Nagiyev puts the emphasis on "stsena" ("stage, scene") in the middle of the talk.

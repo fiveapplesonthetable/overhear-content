@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Kostyan.' Max makes this warning in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'In five minutes?' Barinov offers this warning frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Right this way, please.' Vika steps in warmly with Barinov, keeping the focus on what actually matters here.
-- 'Miss, when are you finally going to bring my order?' Max colors one sharp detail toward Vika: "devushka" means "girlfriend", and it carries the main weight of what Max is saying.
-- 'Right away, just one moment.' Barinov states this answer without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I am working on your salad right now.' Vika stands firm bluntly before Max, refusing to let the moment slip past.
-- 'Enjoy your meal.' Max leans on this vivid touch toward Barinov: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
-- 'Go ahead and call the manager then.' Barinov lays out this warning before Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Everything is in order, everything is great.' Vika reacts candidly as they talk, steering the talk right where she wants it.
-- 'Is the table ready for me?' Max leans on one pointed detail toward Vika: "stolik" means "table", and it carries the main weight of what Max is saying.
-- 'We will prepare everything this very second.' Barinov weighs in calmly as they talk, saying out loud what both of them already know.
-- 'What did you want, an autograph?' Vika questions curiously about what Max just brought up.
-- 'Very good indeed.' Max stresses one concrete expression with Barinov: "khorosho" means "good, fine", and it carries the main weight of what Max is saying.
+- 'Hello, Kostyan.' Leaning in candidly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'In five minutes?' Touching on the minutes on the spot, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Right this way, please.' Vika speaks up warmly in their talk, watching Barinov's face to see how the news lands.
+- 'Miss, when are you finally going to bring my order?' Pointing to the girlfriend at once, Max uses "devushka" ("girlfriend") to carry the main weight of the thought.
+- 'Right away, just one moment.' Bringing up the minute during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I am working on your salad right now.' Vika proceeds bluntly beside Barinov, without trying to dress up how she really feels.
+- 'Enjoy your meal.' Discussing the appetite during the talk, Max brings in "priyatnogo" ("pleasant", from "priyatnyy") as the key Russian word here.
+- 'Go ahead and call the manager then.' Pressing on directly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Everything is in order, everything is great.' Vika continues candidly beside Barinov, grounding the moment in plain reality.
+- 'Is the table ready for me?' Talking about the table in this beat, Max lands on "stolik" ("table") as the key everyday word here.
+- 'We will prepare everything this very second.' Barinov steps in plainly in the exchange and puts the weight on "podgotovim" ("to prepare", from "podgotovit") as the exchange unfolds.
+- 'What did you want, an autograph?' Vika questions curiously where this conversation is heading next.
+- 'Very good indeed.' Max opens up naturally before Vika and reaches for the Russian word "khorosho" ("good, fine") right at the heart of the line.

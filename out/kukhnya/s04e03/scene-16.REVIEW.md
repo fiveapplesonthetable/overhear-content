@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, Dmitry Vladimirovich.' German features one loaded choice at once: "dobryy" means "good", and it carries the main weight of what German is saying.
-- 'Good evening. Unfortunately, I do not know your name.' Nagiyev counters warmly with a smile, making his position completely clear.
-- 'This is Rita, my nurse from the hospital.' Nagiyev pushes back dryly facing German, grounding the moment in plain reality.
-- 'She saved me from death and from boredom.' Nagiyev frames one familiar expression at once: "smerti" means "death" (from "smert"), giving the line its exact edge.
-- 'This is dorado in a cocoon flambé.' German makes the comeback at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Flambé, as I understand it, means it is going to burn?' Nagiyev asks plainly about what Max just brought up.
-- 'Of course. It will burn brightly.' German features this direct element at once: "konechno" means "of course", and it carries the main weight of what German is saying.
-- 'Well then, German. Make it look beautiful for us.' Nagiyev answers promptly in their talk, shifting the whole mood of the room in a single beat.
-- 'With pleasure.' German stands firm firmly in this moment, to clear the air between them once and for all.
-- 'Some scoundrel ordered that fish.' Max favors one vivid choice on cue: "zakazal" means "ordered" (from "zakazat"), giving the line its exact edge.
-- 'Such a great plan fell through.' Max sends that thought in earnest: the "-sya" ending on "provalilsya" ("to plan") turns the action inward or makes it happen between people naturally.
-- 'Is my fish ready? Take it away.' Max inquires evenly why things suddenly took this turn between them.
+- 'Good evening, Dmitry Vladimirovich.' German warmly delivers this evening greeting at this moment using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'Good evening. Unfortunately, I do not know your name.' Touching on the regret beside German, Nagiyev chooses "sozhaleniyu" ("regret", from the root "sozhaleniye") so German hears the exact meaning.
+- 'This is Rita, my nurse from the hospital.' Nagiyev continues dryly without a pause, to clear the air between them once and for all.
+- 'She saved me from death and from boredom.' Bringing up the death on the spot, Nagiyev reaches for the Russian word "smerti" ("death", built from "smert") right at the center of the line.
+- 'This is dorado in a cocoon flambé.' Focusing on the sea bream before Nagiyev, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Flambé, as I understand it, means it is going to burn?' Nagiyev asks plainly why things suddenly took this turn between them.
+- 'Of course. It will burn brightly.' German simply voices this confirmation for Nagiyev using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Well then, German. Make it look beautiful for us.' Nagiyev responds briskly during the talk and puts the weight on "krasivo" ("beautifully", from "krasivyy") as the exchange unfolds.
+- 'With pleasure.' German jumps in firmly hearing Nagiyev, making his position completely clear.
+- 'Some scoundrel ordered that fish.' Discussing the guy on the spot, Max chooses "zakazal" ("ordered", from the root "zakazat") so German hears the exact meaning.
+- 'Such a great plan fell through.' Bringing up a great plan to German, the "-sya" ending on "provalilsya" ("to plan") marks an action that unfolds mutually or turns back on the speaker.
+- 'Is my fish ready? Take it away.' Max inquires evenly where this conversation is heading next.

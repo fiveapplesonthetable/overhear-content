@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lightning just struck me.' Barinov emphasizes this key piece on cue: "molniya" means "zipper, lightning", and it carries the main weight of what Barinov is saying.
-- 'Lena, forgive me for everything.' Barinov shapes that line on cue: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'I love you very much.' Barinov replies quietly as things stand, making his position completely clear.
-- 'Vitya, what happened to you?' Elena sharpens one sharp detail in reply: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'I got into big trouble.' Barinov jumps in wryly without a pause, before Elena can change the subject.
-- 'Because of me a person died today.' Barinov answers quietly with a shrug, letting the remark speak for itself.
-- 'I will come over, we will solve everything.' Elena stresses this direct touch in earnest: "priyedu" means "will come, visit" (from "priyekhat"), giving the line its exact edge.
-- 'Forgive me for hiding it from you.' Elena drops this answer in earnest: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'In India I was on an assignment.' Elena speaks up warmly watching Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'The restaurant was only my cover.' Elena stresses one vivid detail right here: "prikrytiyem" means "to undercover" (from "prikrytit"), giving the line its exact edge.
-- 'I have to watch over you.' Elena counters wryly with a sigh, so Barinov knows she is not just making small talk.
-- 'I constantly cleaned up after you.' Elena fires back lightly on the spot, grounding the moment in plain reality.
+- 'Lightning just struck me.' Highlighting the zipper around Elena, Barinov uses "molniya" ("zipper, lightning") to carry the main weight of the thought.
+- 'Lena, forgive me for everything.' Barinov steps in warmly with Elena and leans on "prosti" ("sorry, forgive me", a form of "prostit") to give the remark its edge.
+- 'I love you very much.' Barinov steps in quietly in this moment, to clear the air between them once and for all.
+- 'Vitya, what happened to you?' Elena jumps in dryly at once and chooses "sluchilos" ("happened", from the root "sluchitsya") so Barinov hears the exact meaning.
+- 'I got into big trouble.' Underscoring the trouble beside Elena, Barinov brings in "bolshuyu" ("large, big", from "bolshoy") as the key Russian word here.
+- 'Because of me a person died today.' Barinov continues quietly with a smile, refusing to let the moment slip past.
+- 'I will come over, we will solve everything.' Elena continues quietly during the talk and chooses "priyedu" ("will come, visit", from the root "priyekhat") so Barinov hears the exact meaning.
+- 'Forgive me for hiding it from you.' Elena briskly offers this personal apology at this moment using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'In India I was on an assignment.' Elena weighs in warmly during the talk, testing Barinov's reaction in the middle of the exchange.
+- 'The restaurant was only my cover.' Bringing up the restaurant on the spot, Elena puts the emphasis on "restoran" ("restaurant") in the middle of the talk.
+- 'I have to watch over you.' Elena chimes in directly during the talk and uses "dolzhna" ("should, must", from "dolzhen") to make the point stick.
+- 'I constantly cleaned up after you.' Elena speaks lightly toward Barinov, so Barinov knows she is not just making small talk.

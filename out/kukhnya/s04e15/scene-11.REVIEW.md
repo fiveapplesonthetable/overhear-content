@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Dad, you startled me so badly!' Katya chooses one colorful expression for Barinov: "napugal" means "scared, did you scare" (from "napugat"), giving the line its exact edge.
-- 'Tell me, what are you even doing here?' Katya presses sharply how German expects that to work in practice.
-- 'I wanted to see how work is going for you here.' Barinov picks this sharp detail on cue: "rabotayetsya" means "to going" (from "rabotatsya"), giving the line its exact edge.
-- 'I see you have become friends with Eva here.' Barinov directs this point facing Katya: the "-sya" ending on "podruzhilas" ("to make friends") turns the action inward or makes it happen between people naturally.
-- 'I want to talk about what she was telling you.' Barinov weighs in decisively before German, testing German's reaction in the middle of the exchange.
-- 'Dad, Eva is, of course, a girl with quirks.' Katya spotlights this key term for German: "strannostyami" means "quirks" (from "strannostya"), giving the line its exact edge.
-- 'But I do not share her interests at all!' Katya aims the comment around Barinov: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'I do not plan to date old men.' Katya pushes back honestly on the spot, saying out loud what both of them already know.
-- 'Viktor Petrovich, good afternoon, are you at our place again?' German colors one concrete choice at once: "dobryy" means "good", and it carries the main weight of what German is saying.
-- 'For urgent news they invented the ordinary telephone long ago!' German proceeds steadily to settle things, before Katya can change the subject.
-- 'Katya, indeed, let me better give you a call!' Barinov answers quietly with a sigh, watching German's face to see how the news lands.
-- 'Poor German, how badly he is suffering because of me!' Katya centers one colorful choice for German: "stradayet" means "to suffer" (from "stradat"), giving the line its exact edge.
+- 'Oh, Dad, you startled me so badly!' Katya responds right away without any doubt, to clear the air between them once and for all.
+- 'Tell me, what are you even doing here?' Katya presses sharply how Barinov expects that to work in practice.
+- 'I wanted to see how work is going for you here.' Focusing on the place in the exchange, Barinov brings in "rabotayetsya" ("to going", from "rabotatsya") as the key Russian word here.
+- 'I see you have become friends with Eva here.' Opening up warmly around Katya, the "-sya" ending on "podruzhilas" ("to make friends") marks an action that unfolds mutually or turns back on the speaker.
+- 'I want to talk about what she was telling you.' Barinov speaks up decisively in this moment, bringing things back to earth after the buildup.
+- 'Dad, Eva is, of course, a girl with quirks.' Addressing the quirks on the spot, Katya chooses "strannostyami" ("quirks", from the root "strannostya") so Barinov hears the exact meaning.
+- 'But I do not share her interests at all!' Returning to the interest in front of Barinov, Katya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'I do not plan to date old men.' Katya responds honestly during the talk, bringing things back to earth after the buildup.
+- 'Viktor Petrovich, good afternoon, are you at our place again?' Stressing how good things are during the talk, German reaches for the Russian word "dobryy" ("good") right at the heart of the line.
+- 'For urgent news they invented the ordinary telephone long ago!' Discussing the news to Barinov, German chooses "srochnykh" ("urgent, pressing", from the root "srochnyy") so Barinov hears the exact meaning.
+- 'Katya, indeed, let me better give you a call!' Barinov responds quietly without a pause, keeping the focus on what actually matters here.
+- 'Poor German, how badly he is suffering because of me!' Underscoring how poor he is around German, Katya lands on "bednyy" ("poor") as the key everyday word here.

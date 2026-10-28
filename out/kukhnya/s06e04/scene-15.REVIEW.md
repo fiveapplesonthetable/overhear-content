@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is your restroom?' Nikita prompts skeptically if there is more going on behind the scenes.
-- 'To the left down the corridor.' Barinov picks one concrete choice for Nikita: "koridoru" means "corridor, hall" (from "koridor"), giving the line its exact edge.
-- 'So if he is not real, maybe I should pour him the cheapest wine?' Nikita drops the comment frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Why waste good product on him?' Nikita inquires promptly to see how Katya will answer on the spot.
-- 'That photograph does not prove anything at all.' Barinov features this clear term in reply: "fotografiya" means "photograph", and it carries the main weight of what Barinov is saying.
-- 'Maybe this guy is an inspector too.' Barinov fires back honestly with Nikita, to clear the air between them once and for all.
-- 'The dish lacks spiciness.' Barinov responds at once without any doubt, so Katya knows he is not just making small talk.
-- 'Well there, now it is just right.' Barinov anchors one key element in earnest: "samyy" means "the most", and it carries the main weight of what Barinov is saying.
-- 'I think the respected inspector should like it.' Barinov continues pointedly across the room, making his position completely clear.
-- 'Katya, wait, we have an important conversation.' Nikita steps in promptly without a pause, testing Katya's reaction in the middle of the exchange.
-- 'The thing is that Nikita glued the piano lid shut, and I decided to get revenge.' Barinov sharpens this sharp choice on cue: "kryshku" means "lid" (from "kryshka"), giving the line its exact edge.
-- 'How exactly did you get revenge?' Katya drops this line at once: putting the question word "kak" right at the front of the line lets Nikita hear the point of the question on the very first beat.
+- 'Where is your restroom?' Nikita prompts skeptically to see how Barinov will answer on the spot.
+- 'To the left down the corridor.' Emphasizing the corridor before Nikita, Barinov reaches for the Russian word "koridoru" ("corridor, hall", built from "koridor") right at the center of the line.
+- 'So if he is not real, maybe I should pour him the cheapest wine?' Confirming how real he is around Barinov, Nikita keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Why waste good product on him?' Nikita inquires promptly if there is more going on behind the scenes.
+- 'That photograph does not prove anything at all.' Underscoring the photograph at once, Barinov uses "fotografiya" ("photograph") to carry the main weight of the thought.
+- 'Maybe this guy is an inspector too.' Highlighting an inspector in the exchange, Barinov uses "inspektor" ("inspector") to carry the main weight of the thought.
+- 'The dish lacks spiciness.' Focusing on the spiciness facing Nikita, Barinov lets Nikita see exactly where things stand.
+- 'Well there, now it is just right.' Barinov follows up promptly right here and centers the remark on "samyy" ("the most") without any extra fuss.
+- 'I think the respected inspector should like it.' Discussing the respected inspector beside Nikita, Barinov uses "uvazhayemomu" ("respected", from "uvazhayemyy") to make the point stick.
+- 'Katya, wait, we have an important conversation.' Nikita jumps in promptly without holding back, letting the remark speak for itself.
+- 'The thing is that Nikita glued the piano lid shut, and I decided to get revenge.' Underscoring the piano lid beside Nikita, Barinov lands on "kryshku" ("lid", built on "kryshka") to keep the statement grounded.
+- 'How exactly did you get revenge?' Stepping in warmly on the spot, Katya puts the question word "kak" right at the start so Barinov hears the focus immediately.

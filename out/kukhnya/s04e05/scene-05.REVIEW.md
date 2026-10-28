@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dear colleagues, I ask for a minute of your attention!' German follows up sharply during the talk, letting the remark speak for itself.
-- 'I want to introduce our new sous-chef to you.' German stands firm promptly across the room, grounding the moment in plain reality.
-- 'This is cook Lavrov Maksim Leonidovich.' German leans on one practical term in earnest: "povar" means "chef, cook", and it carries the main weight of what German is saying.
-- 'I ask everyone to welcome and respect him.' German proceeds plainly without holding back, to clear the air between them once and for all.
-- 'Greetings to you, dear kitchen colleagues!' Max follows up sharply with a sigh, watching Fedya's face to see how the news lands.
-- 'Cooks, bow low to our new sous-chef!' Fedya favors one clear element right here: "klanyaytes" means "low", and it carries the main weight of what Fedya is saying.
-- 'Max, tell us honestly, what is going on here?' Fedya voices that thought briskly now: putting the question word "chto" right at the front of the line lets German hear the point of the question on the very first beat.
-- 'How are you addressing the sous-chef right now?' Max asks plainly as German tries to explain the situation.
-- 'Oh, forgive us, respected Maksim Leonidovich!' Fedya grounds this key touch right here: "uvazhayemyy" means "respected, esteemed", and it carries the main weight of what Fedya is saying.
-- 'You have now risen to become one of our bosses!' Fedya voices that thought with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Yes, now I am your new boss.' Max replies promptly as they talk, letting the remark speak for itself.
-- 'Let's all quickly return to work.' Max sharpens one practical piece right here: "vernyomsya" means "return, go back" (from "vernutsya"), giving the line its exact edge.
+- 'Dear colleagues, I ask for a minute of your attention!' Emphasizing the colleagues with Max, German brings in "uvazhayemyye" ("respected, esteemed", from "uvazhayemyy") as the key Russian word here.
+- 'I want to introduce our new sous-chef to you.' German replies promptly without holding back, keeping the focus on what actually matters here.
+- 'This is cook Lavrov Maksim Leonidovich.' German pushes back pointedly before Max and uses "povar" ("chef, cook") to carry the main weight of the thought.
+- 'I ask everyone to welcome and respect him.' German responds promptly around Max and uses "zhalovat" ("to favor, welcome") to carry the main weight of the thought.
+- 'Greetings to you, dear kitchen colleagues!' Max pushes back sharply watching German, leaving no doubt about where he stands.
+- 'Cooks, bow low to our new sous-chef!' Discussing the low in the exchange, Fedya reaches for the Russian word "klanyaytes" ("low") right at the heart of the line.
+- 'Max, tell us honestly, what is going on here?' Reacting boldly on the spot, Fedya puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'How are you addressing the sous-chef right now?' Max asks plainly whether Fedya really thought this through.
+- 'Oh, forgive us, respected Maksim Leonidovich!' Fedya replies quietly with Max and leans on "uvazhayemyy" ("respected, esteemed") to give the whole sentence its punch.
+- 'You have now risen to become one of our bosses!' Touching on the boss at once, Fedya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Yes, now I am your new boss.' Max replies promptly beside Fedya, testing Fedya's reaction in the middle of the exchange.
+- 'Let's all quickly return to work.' Highlighting the work right here, Max chooses "vernyomsya" ("return, go back", from the root "vernutsya") so Fedya hears the exact meaning.

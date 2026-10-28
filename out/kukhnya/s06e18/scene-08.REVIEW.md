@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Was that not the fish at all?' Mikhail voices the reaction frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'In the morning I ate expired yogurt.' Mikhail replies lightly facing Katya, so Katya knows he is not just making small talk.
-- 'Come on inside here, stubborn horse.' Mikhail picks one vivid touch right here: "upryamaya" means "stubborn" (from "upryamyy"), giving the line its exact edge.
-- 'I am leading him in here for the night.' Mikhail speaks sharply across the room, testing Katya's reaction in the middle of the exchange.
-- 'I cannot leave him in the courtyard.' Mikhail continues wryly toward Denis, making his position completely clear.
-- 'The sight in here is not very pleasant.' Mikhail grounds one memorable element at once: "zrelishche" means "sight, spectacle", and it carries the main weight of what Mikhail is saying.
-- 'It is fine, he will endure until morning.' Mikhail answers quietly as things stand, leaving no doubt about where he stands.
-- 'Katya, did you talk with Nikita?' Denis prompts eagerly in front of Mikhail without any preamble.
-- 'No, it did not work out again today.' Katya grounds one memorable detail in earnest: "segodnya" means "today", and it carries the main weight of what Katya is saying.
-- 'I spent half the day with my father.' Katya responds pointedly as they talk, letting the remark speak for itself.
-- 'And then Nikita left for Saint Petersburg.' Katya stands firm right away facing Denis, without trying to dress up how she really feels.
-- 'Do not be offended, this is important to me.' Katya centers one familiar detail with Mikhail: "obizhaysya" means "take offence" (from "obizhatsya"), giving the line its exact edge.
+- 'Was that not the fish at all?' Touching on the fish in this beat, Mikhail drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'In the morning I ate expired yogurt.' Mikhail fires back lightly on the spot, to clear the air between them once and for all.
+- 'Come on inside here, stubborn horse.' Pointing to the horse on the spot, Mikhail reaches for the Russian word "upryamaya" ("stubborn", built from "upryamyy") right at the center of the line.
+- 'I am leading him in here for the night.' Underscoring the overnight stay in the exchange, Mikhail leans on "nochleg" ("overnight stay") to give the whole sentence its punch.
+- 'I cannot leave him in the courtyard.' Touching on the yard facing Denis, Mikhail puts the real issue right on the table for Denis.
+- 'The sight in here is not very pleasant.' Discussing the sight at once, Mikhail chooses "zrelishche" ("sight, spectacle") so Denis gets the point right away.
+- 'It is fine, he will endure until morning.' Pointing to the morning in the exchange, Mikhail lands on "poterpit" ("will endure", built on "poterpet") to keep the statement grounded.
+- 'Katya, did you talk with Nikita?' Denis prompts eagerly if there is more going on behind the scenes.
+- 'No, it did not work out again today.' Katya follows up dryly at once and lands on "segodnya" ("today") as the key everyday word here.
+- 'I spent half the day with my father.' Focusing on the day at once, Katya chooses "poldnya" ("half a day") so Denis gets the point right away.
+- 'And then Nikita left for Saint Petersburg.' Katya proceeds right away toward Denis, refusing to let the moment slip past.
+- 'Do not be offended, this is important to me.' Noting how important things are during the talk, Katya chooses "obizhaysya" ("take offence", from the root "obizhatsya") so Denis hears the exact meaning.

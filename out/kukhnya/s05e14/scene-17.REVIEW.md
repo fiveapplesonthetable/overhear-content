@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, allow me to introduce myself, I am the hotel manager Mikhail.' Mikhail replies pointedly around the hostess, watching the hostess's face to see how the news lands.
-- 'Hello, very nice to meet you, and my name is Oksana.' The hostess follows up decisively as things stand, to clear the air between them once and for all.
-- 'And this is director Victoria and our head chef Viktor.' Mikhail centers one colorful word in reply: "shef-povar" means "head chef", and it carries the main weight of what Mikhail is saying.
-- 'We are glad that you found the time to visit us.' Mikhail chooses this clear piece right here: "vremya" means "time", and it carries the main weight of what Mikhail is saying.
-- 'Allow us to present you with our regular client card.' Vika follows up sharply before the hostess, so the hostess knows she is not just making small talk.
-- 'Thank you very much, this is very unexpected for me.' The hostess grounds one key touch for Vika: "neozhidanno" means "unexpected", and it carries the main weight of what the hostess is saying.
-- 'Let's go, we will not disturb our guest while she chooses.' Mikhail reacts promptly with a shrug, making his position completely clear.
-- 'Excuse me, please, what about my job?' The hostess quizzes wryly if there is more going on behind the scenes.
-- 'I was told that you have an open hostess vacancy.' The hostess favors one pointed choice in reply: "vakansiya" means "vacancy, job opening", and it carries the main weight of what the hostess is saying.
-- 'If it is not taken, I would like to work here.' The hostess jumps in right away without any doubt, refusing to let the moment slip past.
-- 'Indeed, rich people have their own strange quirks!' Mikhail reacts lightly in their talk, steering the talk right where he wants it.
-- 'Alright, wait a minute, I will bring the application form right now.' Vika uses one telling element for Mikhail: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Good evening, allow me to introduce myself, I am the hotel manager Mikhail.' Addressing the hotel manager with the hostess, Mikhail uses "upravlyayushchiy" ("manager") to carry the main weight of the thought.
+- 'Hello, very nice to meet you, and my name is Oksana.' The hostess chimes in decisively hearing Mikhail, before Mikhail can change the subject.
+- 'And this is director Victoria and our head chef Viktor.' Turning to his head around the hostess, Mikhail leans on "shef-povar" ("head chef") to give the whole sentence its punch.
+- 'We are glad that you found the time to visit us.' Mikhail follows up wryly watching Vika, letting the remark speak for itself.
+- 'Allow us to present you with our regular client card.' Vika continues sharply watching Mikhail, making her position completely clear.
+- 'Thank you very much, this is very unexpected for me.' Talking about the thank right here, the hostess chooses "bolshoye" ("big, very much", from the root "bolshoy") so Vika hears the exact meaning.
+- 'Let's go, we will not disturb our guest while she chooses.' Mentioning his guest in this beat, Mikhail centers the thought on "poydyomte" ("come on, let's go", from "poyti") without wasting a word.
+- 'Excuse me, please, what about my job?' The hostess quizzes wryly while looking straight at Mikhail here.
+- 'I was told that you have an open hostess vacancy.' Addressing the vacancy beside Mikhail, the hostess reaches for the Russian word "vakansiya" ("vacancy, job opening") right at the heart of the line.
+- 'If it is not taken, I would like to work here.' Explaining how busy things are with Mikhail, the hostess lands on "zanyata" ("busy, occupied", built on "zanyatyy") to keep the statement grounded.
+- 'Indeed, rich people have their own strange quirks!' Mikhail answers lightly on the spot, making his position completely clear.
+- 'Alright, wait a minute, I will bring the application form right now.' Touching on a minute at once, Vika leans on "podozhdite" ("wait", a form of "podozhdat") to give the remark its edge.

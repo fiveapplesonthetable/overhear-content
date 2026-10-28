@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, may I have a drink with you?' Nikita uses this key element right here: "vypit" means "to drink", and it carries the main weight of what Nikita is saying.
-- 'Let's drink to my mom and her wise advice.' Katya frames this warning before Nikita: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'After all, you are nowhere without them, dismissed.' Katya steps in right away without holding back, leaving no doubt about where she stands.
-- 'Katya, hi.' Denis aims the reply with candor: opening with the casual greeting "privet" ("hi") signals right away that Denis and Nikita are on familiar terms.
-- 'You want to have a drink with me too, right?' Katya offers that point for Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'To those who run away, will you drink?' Katya wonders deadpan where this conversation is heading next.
-- 'No, I will not drink to that.' Denis responds at once as things stand, keeping the focus on what actually matters here.
-- 'Well I will drink, you are very good at that.' Katya voices that line before Nikita: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'She is right, I am at fault.' Denis steps in steadily as they talk, making his position completely clear.
-- 'That is no reason to stay offended for so long.' Nikita highlights one classic word at once: "obizhatsya" means "feel offended", and it carries the main weight of what Nikita is saying.
-- 'I do not understand, does she work here with us?' Denis sends this statement right away: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Mine works here too.' Nikita cuts in steadily in their talk, testing Katya's reaction in the middle of the exchange.
+- 'Katya, may I have a drink with you?' Nikita speaks up vividly around Katya and uses "vypit" ("to drink") to carry the main weight of the thought.
+- 'Let's drink to my mom and her wise advice.' Focusing on the mother in front of Nikita, Katya starts with "davay" ("come on, let's") to invite Nikita right into the action.
+- 'After all, you are nowhere without them, dismissed.' Katya steps in right away without a pause, keeping the focus on what actually matters here.
+- 'Katya, hi.' Denis plainly shares this casual greeting right on cue using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'You want to have a drink with me too, right?' Replying firmly beside Denis, Katya keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'To those who run away, will you drink?' Katya wonders deadpan why things suddenly took this turn between them.
+- 'No, I will not drink to that.' Denis pushes back at once in this moment, before Katya can change the subject.
+- 'Well I will drink, you are very good at that.' Jumping in firmly around Denis, Katya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'She is right, I am at fault.' Denis replies steadily toward Katya, making his position completely clear.
+- 'That is no reason to stay offended for so long.' Mentioning the reason in the exchange, Nikita leans on "obizhatsya" ("feel offended") to give the whole sentence its punch.
+- 'I do not understand, does she work here with us?' Holding firm plainly during the talk, Denis keeps normal statement word order here, turning the line into a question for Nikita purely through rising pitch.
+- 'Mine works here too.' Nikita pushes back steadily without a pause, leaving no doubt about where he stands.

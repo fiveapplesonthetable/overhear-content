@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what are you staring at like that?' Kostya questions straight out where this conversation is heading next.
-- 'Go and tell Katya about everything.' Kostya anchors one concrete term on cue: "rasskazhi" means "tell" (from "rasskazat"), giving the line its exact edge.
-- 'In France this sauce is considered one of the foundational ones.' Barinov shares this line at once: the "-sya" ending on "schitayetsya" ("to be considered") turns the action inward or makes it happen between people naturally.
-- 'It is one of the main sauces.' Barinov answers sharply to be clear, keeping the focus on what actually matters here.
-- 'Preparation requires talent and patience.' Barinov spotlights one familiar piece toward Kostya: "prigotovleniya" means "for preparation" (from "prigotovleniye"), giving the line its exact edge.
-- 'After all, it cooks for a very long time.' Barinov aims this warning right away: the "-sya" ending on "gotovitsya" ("is preparing") turns the action inward or makes it happen between people naturally.
-- 'All that remains is to strain it and reduce it a bit.' Barinov continues frankly without a pause, saying out loud what both of them already know.
-- 'Here is a new 'Chef to the Room' Senya chooses this clear expression for Kostya: "novyy" means "new", and it carries the main weight of what Senya is saying.
-- 'One must not abandon the preparation of our sauce.' Barinov shares the comeback without fuss: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'Senya, take this order.' Barinov jumps in honestly before Senya, without trying to dress up how he really feels.
-- 'That is too big a responsibility, I cannot handle it.' Senya reaches for one loaded element at once: "otvetstvennost" means "responsibility", and it carries the main weight of what Senya is saying.
-- 'Better let Lyova go up there.' Senya opens up openly with a nod, making his position completely clear.
+- 'Well, what are you staring at like that?' Kostya questions straight out before Barinov can change the subject.
+- 'Go and tell Katya about everything.' Kostya pushes back right away without holding back, refusing to let the moment slip past.
+- 'In France this sauce is considered one of the foundational ones.' Discussing the sauce at once, the "-sya" ending on "schitayetsya" ("to be considered") marks an action that unfolds mutually or turns back on the speaker.
+- 'It is one of the main sauces.' Barinov continues sharply in this moment, so Kostya knows he is not just making small talk.
+- 'Preparation requires talent and patience.' Addressing the preparation around Kostya, Barinov reaches for the Russian word "prigotovleniya" ("for preparation", built from "prigotovleniye") right at the center of the line.
+- 'After all, it cooks for a very long time.' Holding firm firmly beside Senya, the "-sya" ending on "gotovitsya" ("is preparing") marks an action that unfolds mutually or turns back on the speaker.
+- 'All that remains is to strain it and reduce it a bit.' Barinov chimes in frankly in their talk, leaving no doubt about where he stands.
+- 'Here is a new 'Chef to the Room' Discussing the order at once, Senya reaches for the Russian word "novyy" ("new") right at the heart of the line.
+- 'One must not abandon the preparation of our sauce.' Addressing the preparation in front of Senya, Barinov leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'Senya, take this order.' Barinov speaks up honestly beside Senya, refusing to let the moment slip past.
+- 'That is too big a responsibility, I cannot handle it.' Bringing up a responsibility at once, Senya leans on "otvetstvennost" ("responsibility") to give the whole sentence its punch.
+- 'Better let Lyova go up there.' Senya speaks frankly at once and uses "luchshe" ("better") to carry the main weight of the thought.

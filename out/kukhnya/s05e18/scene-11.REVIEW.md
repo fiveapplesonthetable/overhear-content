@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to talk with you alone this evening.' Nikita speaks up dryly hearing Denis, saying out loud what both of them already know.
-- 'Alright, then see you this evening.' Katya speaks up wryly to be clear, shifting the whole mood of the room in a single beat.
-- 'Is everything going to happen right here today?' Denis picks one telling piece on cue: "proiskhodit" means "to happen, go on", and it carries the main weight of what Denis is saying.
-- 'Yes, have you been here before?' Nikita drops the reply at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Yes, this is a very familiar place.' Denis speaks warmly to settle things, refusing to let the moment slip past.
-- 'Do you live here in the hotel?' Denis emphasizes one vivid detail for Nikita: "zhivyosh" means "to live" (from "zhit"), giving the line its exact edge.
-- 'Well no, I work here as a waiter.' Nikita speaks at once toward Denis, steering the talk right where he wants it.
-- 'I see, so you are doing this for a girl.' Denis chimes in briskly in this moment, keeping the focus on what actually matters here.
-- 'Listen, stand right here for five minutes.' Nikita focuses on one colorful piece with Denis: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'I will bring the money out to you right now.' Nikita lays out this statement in earnest: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Alright, I will wait for you by the car.' Denis reacts briskly with a sigh, letting the remark speak for itself.
-- 'Do not go anywhere from here.' Nikita focuses on one colorful choice in reply: "otsyuda" means "from here", and it carries the main weight of what Nikita is saying.
+- 'I wanted to talk with you alone this evening.' Nikita answers sharply in front of Katya and uses "pogovorit" ("to talk") to carry the main weight of the thought.
+- 'Alright, then see you this evening.' Katya speaks up wryly with a nod, so Nikita knows she is not just making small talk.
+- 'Is everything going to happen right here today?' Denis opens up sharply at once and centers the remark on "proiskhodit" ("to happen, go on") without any extra fuss.
+- 'Yes, have you been here before?' Looking over warmly on the spot, Nikita keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Yes, this is a very familiar place.' Denis counters warmly without a pause, refusing to let the moment slip past.
+- 'Do you live here in the hotel?' Turning to the hotel with Nikita, Denis centers the thought on "otele" ("in the hotel", from "otel") without wasting a word.
+- 'Well no, I work here as a waiter.' Highlighting a waiter on the spot, Nikita centers the thought on "ofitsiantom" ("waiter, server", from "ofitsiant") without wasting a word.
+- 'I see, so you are doing this for a girl.' Denis gently speaks this acknowledgment in one quick breath using "ponyatno" ("understood") — a single word meaning "clear, got it", showing the point has landed.
+- 'Listen, stand right here for five minutes.' Highlighting the minutes with Denis, Nikita uses "minut" ("minutes", from "minuta") to make the point stick.
+- 'I will bring the money out to you right now.' Nikita continues evenly with a smile, refusing to let the moment slip past.
+- 'Alright, I will wait for you by the car.' Denis reacts briskly in their talk, refusing to let the moment slip past.
+- 'Do not go anywhere from here.' Nikita jumps in firmly with Denis and uses "otsyuda" ("from here") to carry the main weight of the thought.

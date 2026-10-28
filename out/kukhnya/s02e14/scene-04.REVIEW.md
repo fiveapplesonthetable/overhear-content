@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry I did not invite you in.' Kostya anchors one sharp expression at once: "priglasil" means "invited" (from "priglasit"), giving the line its exact edge.
-- 'My place is a mess inside.' Sasha states that thought briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Well, thank you once again for the travel voucher.' Ilya replies sharply in this moment, refusing to let the moment slip past.
-- 'You are very welcome for the voucher.' Kostya chooses one pointed piece for Sasha: "putevku" means "holiday voucher" (from "putyovka"), giving the line its exact edge.
-- 'I do not like this guy one bit.' Sasha directs that point around Ilya: the "-sya" ending on "nravitsya" ("is pleasing") turns the action inward or makes it happen between people naturally.
-- 'By the way, he is the one who got me the job at the restaurant.' Ilya proceeds boldly in this moment, without trying to dress up how he really feels.
-- 'He is a great guy.' Kostya centers this vivid choice at once: "paren" means "boyfriend", and it carries the main weight of what Kostya is saying.
-- 'And what am I, then?' Sasha delivers the remark with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You are my best friend by far.' Ilya reacts steadily with a nod, so Kostya knows he is not just making small talk.
-- 'So what was going on between him and Sasha?' Kostya voices this answer beside Sasha: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
-- 'Well, they dated for about two years, probably.' Sasha lays out the comeback without fuss: the "-sya" ending on "vstrechalis" ("to meet, to date") turns the action inward or makes it happen between people naturally.
-- 'Everyone even thought that they were going to get married.' Ilya cuts in candidly during the talk, saying out loud what both of them already know.
-- 'Kostya, please take this order for me.' Sasha leans on one concrete detail toward Ilya: "zakaz" means "order", and it carries the main weight of what Sasha is saying.
+- 'Sorry I did not invite you in.' Kostya casually shares this polite apology in the exchange using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'My place is a mess inside.' Weighing in candidly with Kostya, Sasha links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, thank you once again for the travel voucher.' Ilya proceeds sharply around Sasha, letting the remark speak for itself.
+- 'You are very welcome for the voucher.' Kostya naturally sends this courtesy word at this moment using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'I do not like this guy one bit.' Turning to the guy before Kostya, the "-sya" ending on "nravitsya" ("is pleasing") marks an action that unfolds mutually or turns back on the speaker.
+- 'By the way, he is the one who got me the job at the restaurant.' Ilya speaks boldly in their talk, letting the remark speak for itself.
+- 'He is a great guy.' Underscoring the boyfriend before Ilya, Kostya leans on "paren" ("boyfriend") to give the whole sentence its punch.
+- 'And what am I, then?' Speaking briskly beside Ilya, Sasha links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You are my best friend by far.' Ilya follows up steadily in this moment, making his position completely clear.
+- 'So what was going on between him and Sasha?' Pressing on smoothly in the exchange, Kostya puts the question word "chto" right at the start so Sasha hears the focus immediately.
+- 'Well, they dated for about two years, probably.' Pressing on promptly before Kostya, the "-sya" ending on "vstrechalis" ("to meet, to date") marks an action that unfolds mutually or turns back on the speaker.
+- 'Everyone even thought that they were going to get married.' Ilya answers candidly during the talk, refusing to let the moment slip past.
+- 'Kostya, please take this order for me.' Talking about the order during the talk, Sasha puts the emphasis on "zakaz" ("order") in the middle of the talk.

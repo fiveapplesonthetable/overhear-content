@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your father and I did not get along.' Mikhail sharpens one telling detail at once: "ottsom" means "father" (from "otets"), giving the line its exact edge.
-- 'But he is truly a good man.' Mikhail hands over the comeback calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Did you sell your horse after all?' Katya tests curiously to see how Elena will answer on the spot.
-- 'No, I kept the horse for myself.' Mikhail colors one classic element at once: "konya" means "horse, knight", and it carries the main weight of what Mikhail is saying.
-- 'Timur found a stable for me nearby.' Mikhail jumps in firmly with a smile, shifting the whole mood of the room in a single beat.
-- 'Here, these are my personal savings.' Mikhail reacts candidly with a smile, making his position completely clear.
-- 'Thank you so very much, dear guys.' Katya centers one key choice in earnest: "ogromnoye" means "huge, so very much" (from "ogromnyy"), giving the line its exact edge.
-- 'Elena Pavlovna, we found the money!' Katya chimes in sharply as things stand, grounding the moment in plain reality.
-- 'We collected almost the entire sum.' Katya holds firm warmly without a pause, before Elena can change the subject.
-- 'Lena, what happened just now?' Katya frames this clear detail for Mikhail: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'They replied to me from the German clinic.' Elena proceeds earnestly on the spot, leaving no doubt about where she stands.
-- 'The operation will be twice as expensive.' Elena cuts in wryly in this moment, testing Mikhail's reaction in the middle of the exchange.
+- 'Your father and I did not get along.' Highlighting the father in front of Katya, Mikhail lands on "ottsom" ("father", built on "otets") to keep the statement grounded.
+- 'But he is truly a good man.' Highlighting how good he is beside Katya, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Did you sell your horse after all?' Katya tests curiously to see how Mikhail will answer on the spot.
+- 'No, I kept the horse for myself.' Pointing to the horse beside Katya, Mikhail chooses "konya" ("horse, knight") so Katya gets the point right away.
+- 'Timur found a stable for me nearby.' Turning to a stable right here, Mikhail lands on "konyushnyu" ("stable", built on "konyushnya") to keep the statement grounded.
+- 'Here, these are my personal savings.' Mikhail cuts in candidly without a pause, shifting the mood of the conversation in a single beat.
+- 'Thank you so very much, dear guys.' Katya directly chooses this word of thanks to Mikhail using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Elena Pavlovna, we found the money!' Discussing the money to Elena, Katya brings in "dengi" ("money") to make the meaning unmistakable.
+- 'We collected almost the entire sum.' Katya opens up warmly without a pause, refusing to let the moment slip past.
+- 'Lena, what happened just now?' Katya proceeds calmly in front of Elena and chooses "sluchilos" ("happened", from the root "sluchitsya") so Elena hears the exact meaning.
+- 'They replied to me from the German clinic.' Emphasizing the clinic to Katya, Elena leans on "kliniki" ("clinic, hospital", a form of "klinika") to give the remark its edge.
+- 'The operation will be twice as expensive.' Elena reacts wryly beside Katya, watching Katya's face to see how the news lands.

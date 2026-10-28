@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Probably. When?' Vika highlights one classic expression at once: "navernoye" means "probably", and it carries the main weight of what Vika is saying.
-- 'Tomorrow. Tomorrow?' Nagiyev shapes the comment calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'I might not make it in time.' Vika responds sharply without any doubt, watching Nagiyev's face to see how the news lands.
-- 'What, is there nowhere else to get it?' Nagiyev centers one colorful detail on cue: "bolshe" means "more", and it carries the main weight of what Nagiyev is saying.
-- 'Otherwise, you have to wait.' Vika drops this line around Nagiyev: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Have to wait. Why is that?' Nagiyev probes quietly why things suddenly took this turn between them.
-- 'What do you think?' Vika centers one colorful touch for Nagiyev: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
-- 'All right, all right, do your best.' Nagiyev shapes that thought plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
-- 'Just make sure you do not say a word about this to anyone.' Vika fires back steadily around Nagiyev, so Nagiyev knows she is not just making small talk.
-- 'Look wherever you want.' Nagiyev chooses one familiar expression on cue: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'And make sure it is fresh.' Vika lays out this answer without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Probably. When?' Vika fires back naturally in the exchange and leans on "navernoye" ("probably") to give the whole sentence its punch.
+- 'Tomorrow. Tomorrow?' Pressing on promptly before Vika, Nagiyev keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'I might not make it in time.' Vika follows up sharply with a shrug, shifting the mood of the conversation in a single beat.
+- 'What, is there nowhere else to get it?' Nagiyev continues calmly around Vika and puts the emphasis on "negde" ("nowhere") in the middle of the talk.
+- 'Otherwise, you have to wait.' Holding firm earnestly in this beat, Vika leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Have to wait. Why is that?' Nagiyev probes quietly about what Vika just brought up.
+- 'What do you think?' Speaking earnestly beside Nagiyev, Vika keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'All right, all right, do your best.' Nagiyev simply delivers this word of agreement at the start of the beat using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Just make sure you do not say a word about this to anyone.' Vika speaks up steadily beside Nagiyev, leaving no doubt about where she stands.
+- 'Look wherever you want.' Nagiyev cuts in candidly with Vika and reaches for the Russian word "khochesh" ("do you want", built from "khotet") right at the center of the line.
+- 'And make sure it is fresh.' Showing how fresh things are beside Nagiyev, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
 - 'What did he order from you?' Nagiyev challenges deadpan before Vika can change the subject.
-- 'Just not us.' Vika brings that line facing Nagiyev: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Just not us.' Jumping in briskly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

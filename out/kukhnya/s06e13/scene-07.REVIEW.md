@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So you will not come in to work tomorrow.' Mikhail leans on one loaded element for Barinov: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
-- 'Now we need to look for a new musician.' Mikhail directs the remark right away: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'I have one musician friend.' Kostya proceeds quietly with Barinov, to clear the air between them once and for all.
-- 'I can call him right now.' Kostya picks one memorable element in earnest: "seychas" means "now", and it carries the main weight of what Kostya is saying.
-- 'Ainura, I will not rent the apartment to you.' Kostya points to one loaded word with Barinov: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'How will eight people live there?' Weighing in without pause, Kostya brings the conversation back to practical reality.
-- 'Are they all really very neat people?' Kostya features one classic term with Barinov: "akkuratnyye" means "careful, neat" (from "akkuratnyy"), giving the line its exact edge.
-- 'No, I have already given my word.' Kostya pushes back dryly without any doubt, refusing to let the moment slip past.
-- 'Kostya, I ran out of drinks in my office.' Barinov continues openly without holding back, to clear the air between them once and for all.
-- 'Give me something strong and quickly.' Barinov spotlights this vivid piece at once: "krepkogo" means "strong" (from "krepkiy"), giving the line its exact edge.
-- 'I understood everything, I will bring it quickly now.' Kostya aims that point before Barinov: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Thank you, I am waiting for you at the bar counter.' Barinov pushes back dryly without any doubt, letting the remark speak for itself.
+- 'So you will not come in to work tomorrow.' Talking about the job to Kostya, Mikhail centers the thought on "rabotu" ("job", from "rabota") without wasting a word.
+- 'Now we need to look for a new musician.' Turning to a new musician before Kostya, Mikhail leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'I have one musician friend.' Kostya fires back quietly hearing Mikhail, shifting the mood of the conversation in a single beat.
+- 'I can call him right now.' Kostya responds smoothly to Mikhail and reaches for the Russian word "pryamo" ("right, just") right at the heart of the line.
+- 'Ainura, I will not rent the apartment to you.' Bringing up the flat during the talk, Kostya brings the exchange with Mikhail back to practical reality.
+- 'How will eight people live there?' Kostya quizzes curiously whether Barinov really thought this through.
+- 'Are they all really very neat people?' Highlighting how careful things are in this beat, Kostya centers the thought on "akkuratnyye" ("careful, neat", from "akkuratnyy") without wasting a word.
+- 'No, I have already given my word.' Pointing to his word in this beat, Kostya puts the emphasis on "slovo" ("word") in the middle of the talk.
+- 'Kostya, I ran out of drinks in my office.' Barinov opens up openly in their talk, refusing to let the moment slip past.
+- 'Give me something strong and quickly.' Barinov responds briskly with Kostya and reaches for the Russian word "krepkogo" ("strong", built from "krepkiy") right at the center of the line.
+- 'I understood everything, I will bring it quickly now.' Kostya cuts in frankly to Barinov and brings in "prinesu" ("I will bring", from "prinesti") as the key Russian word here.
+- 'Thank you, I am waiting for you at the bar counter.' Barinov follows up dryly with a shrug, letting the remark speak for itself.

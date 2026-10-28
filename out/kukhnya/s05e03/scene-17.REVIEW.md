@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Help, a snake bit me!' Nagiyev phrases the comment at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'It bit me right from behind!' Nagiyev reacts briskly as they talk, grounding the moment in plain reality.
-- 'Oh, how awful I feel right now!' Nagiyev centers one pointed detail at once: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
-- 'Someone needs to get this venom out urgently!' Nagiyev frames that thought around Fedya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'I am begging all of you!' Nagiyev proceeds evenly with a shrug, testing Fedya's reaction in the middle of the exchange.
-- 'Help me, I cannot do it myself!' Nagiyev features one direct detail in reply: "pomogite" means "help" (from "pomoch"), giving the line its exact edge.
-- 'I simply cannot reach back there myself!' Nagiyev offers this statement at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Fedya, please be a pal!' Nagiyev opens up decisively to settle things, refusing to let the moment slip past.
-- 'Guys, please be human beings!' Nagiyev spotlights this telling element on cue: "rebyata" means "the boys, the lads", and it carries the main weight of what Nagiyev is saying.
-- 'I am giving a hundred thousand for this!' Nagiyev responds briskly beside Fedya, keeping the focus on what actually matters here.
-- 'Fine, come on, I can do it!' Fedya counters lightly hearing Nagiyev, watching Nagiyev's face to see how the news lands.
-- 'Why not, I have a big loan to pay!' Fedya stresses one memorable word right here: "bolshoy" means "big", and it carries the main weight of what Fedya is saying.
+- 'Help, a snake bit me!' Addressing the kitchen beside Fedya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'It bit me right from behind!' Nagiyev reacts briskly during the talk, leaving no doubt about where he stands.
+- 'Oh, how awful I feel right now!' Nagiyev speaks frankly in the exchange and centers the remark on "plokho" ("badly") without any extra fuss.
+- 'Someone needs to get this venom out urgently!' Focusing on the poison in the exchange, Nagiyev leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'I am begging all of you!' Nagiyev speaks evenly without holding back, refusing to let the moment slip past.
+- 'Help me, I cannot do it myself!' Nagiyev weighs in naturally around Fedya and leans on "pomogite" ("help", a form of "pomoch") to give the remark its edge.
+- 'I simply cannot reach back there myself!' Holding firm firmly on the spot, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Fedya, please be a pal!' Nagiyev reacts decisively without a pause, bringing things back to earth after the buildup.
+- 'Guys, please be human beings!' Discussing the boys in this beat, Nagiyev leans on "rebyata" ("the boys, the lads") to give the whole sentence its punch.
+- 'I am giving a hundred thousand for this!' Bringing up a hundred thousand in front of Fedya, Nagiyev centers the thought on "tysyach" ("thousand", from "tysyacha") without wasting a word.
+- 'Fine, come on, I can do it!' Fedya gently drops this word of agreement to Nagiyev using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Why not, I have a big loan to pay!' Bringing up a big loan at once, Fedya reaches for the Russian word "bolshoy" ("big") right at the heart of the line.

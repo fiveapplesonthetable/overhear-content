@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here at last the light has come back on!' Nagiyev hands over the reaction before Denis: the "-sya" ending on "poyavilsya" ("appeared") turns the action inward or makes it happen between people naturally.
-- 'Well then, shall we go to my place now?' Nagiyev tests deadpan whether Vika really thought this through.
-- 'No, I still have important business.' Vika highlights one concrete term with Denis: "vazhnyye" means "important" (from "vazhnyy"), giving the line its exact edge.
-- 'And what about the casting for the show?' Vika drops this statement toward Nagiyev: putting the question word "kak" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'You have come to the wrong person for that.' Nagiyev chimes in pointedly to settle things, making his position completely clear.
-- 'I am just the host on there!' Nagiyev focuses on one clear choice on cue: "vedushchiy" means "host", and it carries the main weight of what Nagiyev is saying.
-- 'Where are you going, wait!' Nagiyev points to one vivid piece in reply: "poshla" means "am off" (from "poyti"), giving the line its exact edge.
-- 'Thank you, you cheered an old man up.' Nagiyev steps in at once before Vika, saying out loud what both of them already know.
-- 'Thank you, I tried very hard.' Denis frames one classic expression for Nagiyev: "spasibo" means "thank you", and it carries the main weight of what Denis is saying.
-- 'Who are you at our place, anyway?' Nagiyev voices that thought at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'I work here as a cook.' Denis proceeds firmly hearing Nagiyev, making his position completely clear.
-- 'You will also be a musician at our place.' Nagiyev anchors one memorable touch toward Vika: "muzykantom" means "musician" (from "muzykant"), giving the line its exact edge.
-- 'I will put you on half-time pay.' Nagiyev delivers this line briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Thank you very much, Dmitry Vladimirovich!' Denis chimes in lightly beside Vika, saying out loud what both of them already know.
+- 'Here at last the light has come back on!' Touching on the light during the talk, the "-sya" ending on "poyavilsya" ("appeared") marks an action that unfolds mutually or turns back on the speaker.
+- 'Well then, shall we go to my place now?' Nagiyev tests deadpan why things suddenly took this turn between them.
+- 'No, I still have important business.' Vika continues firmly right here and uses "vazhnyye" ("important", from "vazhnyy") to make the point stick.
+- 'And what about the casting for the show?' Talking about the casting on the spot, Vika puts the question word "kak" right at the start so Nagiyev hears the focus immediately.
+- 'You have come to the wrong person for that.' Nagiyev continues pointedly hearing Vika, before Vika can change the subject.
+- 'I am just the host on there!' Confirming how host he is beside Vika, Nagiyev chooses "vedushchiy" ("host") so Vika gets the point right away.
+- 'Where are you going, wait!' Nagiyev speaks up decisively hearing Denis, leaving no doubt about where he stands.
+- 'Thank you, you cheered an old man up.' Nagiyev naturally shares this word of thanks while facing Denis using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Thank you, I tried very hard.' Denis warmly gives this word of thanks at the start of the beat using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Who are you at our place, anyway?' Pressing on openly before Denis, Nagiyev reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'I work here as a cook.' Denis replies firmly on the spot, shifting the mood of the conversation in a single beat.
+- 'You will also be a musician at our place.' Emphasizing a musician at once, Nagiyev uses "muzykantom" ("musician", from "muzykant") to make the point stick.
+- 'I will put you on half-time pay.' Replying calmly with Denis, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Thank you very much, Dmitry Vladimirovich!' Denis firmly extends this word of thanks beside Nagiyev using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

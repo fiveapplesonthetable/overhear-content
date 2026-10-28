@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I apparently misunderstood you.' Vika points to this sharp touch toward the guest: "nepravilno" means "wrongly", and it carries the main weight of what Vika is saying.
-- 'Do you want to celebrate your dog's party?' Vika lays out this update with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
-- 'Yes, I want to close the whole restaurant.' The guest fires back at once with a shrug, before Vika can change the subject.
-- 'We and our guests need comfort.' The guest reaches for this sharp touch toward Vika: "gostyam" means "guests" (from "gost"), giving the line its exact edge.
-- 'He has a strong allergy to lactose.' The guest pushes back pointedly across the room, bringing things back to earth after the buildup.
-- 'We do not hold such events.' Vika opens up honestly with a nod, watching the guest's face to see how the news lands.
-- 'But Dima Nagiyev said something completely different.' The guest grounds one direct word in reply: "drugoye" means "another, other" (from "drugoy"), giving the line its exact edge.
-- 'He promised that everything will be fine.' The guest drops the reply in earnest: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'I wanted to come to you the day before yesterday.' Vika proceeds firmly watching the guest, grounding the moment in plain reality.
-- 'But he said that you are getting divorced.' The guest emphasizes one colorful word at once: "razvodites" means "to get divorced" (from "razvoditsya"), giving the line its exact edge.
-- 'Excuse me, please, for a minute.' Vika lays out that remark before the guest: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Nastya, if you cry, I will fine you!' Vika speaks steadily beside the guest, watching the guest's face to see how the news lands.
-- 'Why are you standing there, get to work quickly!' Vika chooses one sharp expression for the guest: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
+- 'I apparently misunderstood you.' Vika follows up readily beside the guest and reaches for the Russian word "nepravilno" ("wrongly") right at the heart of the line.
+- 'Do you want to celebrate your dog's party?' Turning calmly on the spot, Vika keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'Yes, I want to close the whole restaurant.' The guest steps in at once without a pause, before Vika can change the subject.
+- 'We and our guests need comfort.' Bringing up his guests beside Vika, the guest chooses "gostyam" ("guests", from the root "gost") so Vika hears the exact meaning.
+- 'He has a strong allergy to lactose.' Mentioning a strong allergy before Vika, the guest lands on "allergiya" ("an allergy") as the key everyday word here.
+- 'We do not hold such events.' Vika chimes in honestly beside the guest, steering the talk right where she wants it.
+- 'But Dima Nagiyev said something completely different.' The guest weighs in promptly with Vika and reaches for the Russian word "drugoye" ("another, other", built from "drugoy") right at the center of the line.
+- 'He promised that everything will be fine.' The guest continues sharply right here and uses "obeshchal" ("promised", from "obeshchat") to make the point stick.
+- 'I wanted to come to you the day before yesterday.' Vika speaks firmly with a nod, bringing things back to earth after the buildup.
+- 'But he said that you are getting divorced.' The guest speaks up vividly on the spot and uses "razvodites" ("to get divorced", from "razvoditsya") to make the point stick.
+- 'Excuse me, please, for a minute.' Vika lightly sends this polite apology at the start of the beat using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Nastya, if you cry, I will fine you!' Vika steps in steadily facing the guest, bringing things back to earth after the buildup.
+- 'Why are you standing there, get to work quickly!' Talking about the job in front of the guest, Vika brings in "rabotu" ("job", from "rabota") as the key Russian word here.

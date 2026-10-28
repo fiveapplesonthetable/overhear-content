@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Some great actor he turns out to be!' Barinov features one telling term in earnest: "nashyolsya" means "turned up" (from "naytis"), giving the line its exact edge.
-- 'Real actors act in good cinema.' Barinov holds firm at once watching Nagiyev, before Nagiyev can change the subject.
-- 'And he only looks funny on television.' Barinov speaks up openly in their talk, steering the talk right where he wants it.
-- 'And besides, that clown acts very badly.' Barinov emphasizes one vivid expression on cue: "igrayet" means "plays" (from "igrat"), giving the line its exact edge.
-- 'He is simply ashamed to look people in the eye.' Barinov gives that thought with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Vitya, I have thought it over well here.' Nagiyev speaks lightly during the talk, shifting the whole mood of the room in a single beat.
-- 'After all, we have many banquets, and we have only one of you.' Nagiyev chooses one classic touch right here: "banketov" means "banquets" (from "banket"), giving the line its exact edge.
-- 'So rest calmly today.' Nagiyev fires back evenly toward Elena, steering the talk right where he wants it.
-- 'Thank you very much, Dmitry Vladimirovich!' Elena steps in steadily around Barinov, shifting the whole mood of the room in a single beat.
-- 'Not at all, dear Elena Pavlovna.' Nagiyev spotlights this vivid choice toward Elena: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
-- 'Dima, what, did you get offended at me?' Barinov frames this answer before Elena: the "-sya" ending on "obidelsya" ("got offended") turns the action inward or makes it happen between people naturally.
-- 'What, is it hard to tell, I acted poorly, after all I am just a clown.' Nagiyev reacts openly facing Elena, watching Elena's face to see how the news lands.
+- 'Some great actor he turns out to be!' Highlighting the actor at once, Barinov leans on "velikiy" ("great") to give the whole sentence its punch.
+- 'Real actors act in good cinema.' Focusing on the actors at once, Barinov uses "nastoyashchiye" ("real", from "nastoyashchiy") to make the point stick.
+- 'And he only looks funny on television.' Barinov replies openly with a sigh, so Nagiyev knows he is not just making small talk.
+- 'And besides, that clown acts very badly.' Highlighting the clown with Nagiyev, Barinov brings in "kloun" ("clown") to make the meaning unmistakable.
+- 'He is simply ashamed to look people in the eye.' Bringing up the eyes in front of Nagiyev, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Vitya, I have thought it over well here.' Nagiyev speaks up lightly without a pause, watching Barinov's face to see how the news lands.
+- 'After all, we have many banquets, and we have only one of you.' Discussing the banquets in this beat, Nagiyev chooses "banketov" ("banquets", from the root "banket") so Barinov hears the exact meaning.
+- 'So rest calmly today.' Nagiyev opens up sharply at once and reaches for the Russian word "segodnya" ("today") right at the heart of the line.
+- 'Thank you very much, Dmitry Vladimirovich!' Elena weighs in steadily hearing Nagiyev, grounding the moment in plain reality.
+- 'Not at all, dear Elena Pavlovna.' Nagiyev cuts in firmly during the talk and uses "dorogaya" ("expensive", from "dorogoy") to make the point stick.
+- 'Dima, what, did you get offended at me?' Reacting frankly to Nagiyev, Barinov puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'What, is it hard to tell, I acted poorly, after all I am just a clown.' Nagiyev chimes in openly around Barinov, leaving no doubt about where he stands.

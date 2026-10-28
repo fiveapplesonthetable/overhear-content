@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's discuss it on the way.' Denis colors one classic piece in earnest: "doroge" means "road" (from "doroga"), giving the line its exact edge.
-- 'And how should I react?' Denis puts that answer frankly here: putting the question word "kak" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'After all, I love her.' Denis fires back sharply in their talk, before Mikhail can change the subject.
-- 'Is it normal to be jealous, or not?' Denis frames one telling term right here: "normalno" means "fine, OK", and it carries the main weight of what Denis is saying.
-- 'Of course it is normal.' Senya shares this answer beside Denis: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'With them, if you are jealous, it is bad.' Senya stands firm candidly hearing Mikhail, letting the remark speak for itself.
-- 'And what should I do?' Denis gives that point plainly here: putting the question word "kak" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
-- 'Go ahead and walk up to him.' Senya delivers that remark beside Mikhail: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Understand, Vitya, the opening is tomorrow.' Mikhail follows up at once to be clear, shifting the whole mood of the room in a single beat.
-- 'Our hotel must surprise the guests.' Mikhail frames one loaded expression with Senya: "dolzhen" means "has to, must", and it carries the main weight of what Mikhail is saying.
-- 'Do not touch our restaurant.' Senya drops this statement toward Denis: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'How did you spend this night?' Mikhail prompts earnestly about what Senya just brought up.
-- 'Oh, I see that you received it.' Mikhail points to this direct expression in reply: "poluchili" means "received" (from "poluchit"), giving the line its exact edge.
-- 'He just broke up with his friend.' Mikhail offers this statement with warmth: the "-sya" ending on "rasstalsya" ("broke up, parted ways") turns the action inward or makes it happen between people naturally.
+- 'Let's discuss it on the way.' Emphasizing the road beside Senya, Denis lands on "doroge" ("road", built on "doroga") to keep the statement grounded.
+- 'And how should I react?' Answering readily in front of Senya, Denis puts the question word "kak" right at the start so Senya hears the focus immediately.
+- 'After all, I love her.' Denis counters sharply in their talk, without trying to dress up how he really feels.
+- 'Is it normal to be jealous, or not?' Denis fires back quietly in front of Senya and lands on "normalno" ("fine, OK") as the key everyday word here.
+- 'Of course it is normal.' Senya briskly uses this confirmation in front of Denis using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'With them, if you are jealous, it is bad.' Senya steps in candidly without a pause, grounding the moment in plain reality.
+- 'And what should I do?' Leaning in directly during the talk, Denis puts the question word "kak" right at the start so Senya hears the focus immediately.
+- 'Go ahead and walk up to him.' Jumping in dryly right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Understand, Vitya, the opening is tomorrow.' Pointing to the opening on the spot, Mikhail lets Senya see exactly where things stand.
+- 'Our hotel must surprise the guests.' Touching on his hotel to Senya, Mikhail leans on "dolzhen" ("has to, must") to give the whole sentence its punch.
+- 'Do not touch our restaurant.' Pointing to his restaurant in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'How did you spend this night?' Mikhail prompts earnestly before Senya can change the subject.
+- 'Oh, I see that you received it.' Mikhail speaks up briskly right here and puts the weight on "poluchili" ("received", from "poluchit") as the exchange unfolds.
+- 'He just broke up with his friend.' Looking over promptly before Senya, the "-sya" ending on "rasstalsya" ("broke up, parted ways") marks an action that unfolds mutually or turns back on the speaker.

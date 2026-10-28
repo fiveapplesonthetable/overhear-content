@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you meddling in my kitchen?' The guest chooses this key expression at once: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'Because this is my restaurant.' Barinov aims the thought calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And today is my daughter's wedding.' Barinov replies steadily to settle things, refusing to let the moment slip past.
-- 'I will supervise every dish.' Barinov reaches for one loaded word right here: "kontrolirovat" means "to keep an eye on", and it carries the main weight of what Barinov is saying.
-- 'Clear enough, then supervise it here yourself.' The guest replies steadily to be clear, so Barinov knows he is not just making small talk.
-- 'Keep supervising, respected maestro!' The guest follows up at once facing Barinov, keeping the focus on what actually matters here.
-- 'Check the plating of every dish yourself!' The guest favors one pointed choice for Barinov: "proveryayte" means "check" (from "proveryat"), giving the line its exact edge.
-- 'What on earth are you doing in here?' The guest brings that line before Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Have you all lost your minds?' The guest presses bluntly whether Barinov really thought this through.
-- 'You have a real circus in here!' The guest emphasizes one familiar touch for Barinov: "nastoyashchiy" means "real, genuine", and it carries the main weight of what the guest is saying.
-- 'Welcome to this kitchen.' The guest continues honestly hearing Barinov, shifting the whole mood of the room in a single beat.
-- 'Guys, let us leave quickly, follow me!' The guest responds lightly around Barinov, watching Barinov's face to see how the news lands.
+- 'Why are you meddling in my kitchen?' Addressing his kitchen around Barinov, the guest centers the thought on "kukhnyu" ("kitchen", from "kukhnya") without wasting a word.
+- 'Because this is my restaurant.' Focusing on his restaurant right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And today is my daughter's wedding.' Barinov replies steadily watching the guest, letting the remark speak for itself.
+- 'I will supervise every dish.' Bringing up the dish at once, Barinov chooses "kontrolirovat" ("to keep an eye on") so the guest gets the point right away.
+- 'Clear enough, then supervise it here yourself.' The guest briskly chooses this acknowledgment beside Barinov using "yasno" ("clear") — literally "brightly, clearly", used in conversation to mean "got it, I see".
+- 'Keep supervising, respected maestro!' The guest chimes in at once with a smile, leaving no doubt about where he stands.
+- 'Check the plating of every dish yourself!' Addressing the presentation beside Barinov, the guest reaches for the Russian word "proveryayte" ("check", built from "proveryat") right at the center of the line.
+- 'What on earth are you doing in here?' Replying firmly in this beat, the guest drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Have you all lost your minds?' The guest presses bluntly why things suddenly took this turn between them.
+- 'You have a real circus in here!' Turning to a real circus around Barinov, the guest leans on "nastoyashchiy" ("real, genuine") to give the whole sentence its punch.
+- 'Welcome to this kitchen.' Emphasizing the good with Barinov, the guest centers the remark on "pozhalovat" ("to welcome") without any extra fuss.
+- 'Guys, let us leave quickly, follow me!' The guest pushes back lightly without holding back, before Barinov can change the subject.

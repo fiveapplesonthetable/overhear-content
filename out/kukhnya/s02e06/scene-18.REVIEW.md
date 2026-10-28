@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He did what?' Senya tests quietly in front of Kristina without any preamble.
-- 'And right now we are trying to get it back out.' Nagiyev centers this clear touch on cue: "pytayemsya" means "to try, to attempt" (from "pytatsya"), giving the line its exact edge.
-- 'It was not on purpose.' Kristina shapes the remark at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Why, you little...' Senya holds firm openly without a pause, watching Nagiyev's face to see how the news lands.
-- 'Give me back my ring.' Nagiyev picks one vivid choice right here: "koltso" means "ring", and it carries the main weight of what Nagiyev is saying.
-- 'Quiet, calm down, calm down, calm down.' Kristina puts this line briskly now: the "-sya" ending on "uspokoysya" ("calm down") turns the action inward or makes it happen between people naturally.
-- 'Yes, darling, I am on my way right now.' Senya answers wryly with a nod, shifting the whole mood of the room in a single beat.
-- 'Did you hear that?' Nagiyev picks this key detail in earnest: "slyshal" means "heard" (from "slyshat"), giving the line its exact edge.
-- 'This old remedy right here.' Kristina puts this warning toward Nagiyev: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'It ought to help.' Senya answers evenly in this moment, grounding the moment in plain reality.
-- 'Senya, open up.' Nagiyev favors this telling element on cue: "otkroy" means "to open" (from "otkryt"), giving the line its exact edge.
-- 'I am not going to drink that, I could get poisoned.' Kristina hands over the reaction around Senya: the "-sya" ending on "otravitsya" ("to get poisoned") turns the action inward or makes it happen between people naturally.
-- 'Drink it right in front of me.' Senya pushes back briskly with a nod, without trying to dress up how he really feels.
+- 'He did what?' Senya tests quietly to see how Nagiyev will answer on the spot.
+- 'And right now we are trying to get it back out.' Nagiyev cuts in readily in front of Senya and reaches for the Russian word "pytayemsya" ("to try, to attempt", built from "pytatsya") right at the center of the line.
+- 'It was not on purpose.' Cutting in briskly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Why, you little...' Senya cuts in openly without a pause, so Kristina knows he is not just making small talk.
+- 'Give me back my ring.' Emphasizing his ring on the spot, Nagiyev lands on "koltso" ("ring") as the key everyday word here.
+- 'Quiet, calm down, calm down, calm down.' Pushing back candidly in this beat, the "-sya" ending on "uspokoysya" ("calm down") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yes, darling, I am on my way right now.' Senya follows up wryly with a nod, leaving no doubt about where he stands.
+- 'Did you hear that?' Nagiyev follows up vividly around Kristina and puts the weight on "slyshal" ("heard", from "slyshat") as the exchange unfolds.
+- 'This old remedy right here.' Reacting openly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'It ought to help.' Senya responds evenly across the room, bringing things back to earth after the buildup.
+- 'Senya, open up.' Nagiyev chimes in calmly beside Senya and centers the thought on "otkroy" ("to open", from "otkryt") without wasting a word.
+- 'I am not going to drink that, I could get poisoned.' Holding firm smoothly in this beat, the "-sya" ending on "otravitsya" ("to get poisoned") marks an action that unfolds mutually or turns back on the speaker.
+- 'Drink it right in front of me.' Senya chimes in briskly facing Kristina, refusing to let the moment slip past.

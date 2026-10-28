@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why get so upset right now?' Senya delivers this statement before Fedya: the "-sya" ending on "rasstraivatsya" ("to get upset") turns the action inward or makes it happen between people naturally.
-- 'You are the one under your wife's thumb!' Fedya reacts earnestly with a sigh, watching Vika's face to see how the news lands.
-- 'I simply respect her as a person.' Senya sharpens one memorable term with Fedya: "lichnost" means "person, individuality", and it carries the main weight of what Senya is saying.
-- 'And what can I do about it?' Senya aims this point toward Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Just imagine the end of the workday.' Fedya cuts in at once with a nod, making his position completely clear.
-- 'Formidable Marina suddenly enters the room.' Fedya picks one telling word toward Vika: "groznaya" means "terrible, menacing" (from "groznyy"), giving the line its exact edge.
-- 'You should already be home, Senya!' Vika centers one vivid choice right here: "dolzhen" means "has to, must", and it carries the main weight of what Vika is saying.
-- 'Fedya and I wanted to drink some beer.' Senya stands firm briskly during the talk, watching Vika's face to see how the news lands.
-- 'You already drank beer this month!' Vika picks one key expression right here: "mesyatse" means "month" (from "mesyats"), giving the line its exact edge.
-- 'I have a lot of stress at work!' Senya shapes that thought plainly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Did you really want to hit me just now?' Vika tests briskly before Fedya can change the subject.
-- 'No, darling, of course not.' Senya anchors this vivid touch toward Vika: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
+- 'Why get so upset right now?' Speaking earnestly right here, the "-sya" ending on "rasstraivatsya" ("to get upset") marks an action that unfolds mutually or turns back on the speaker.
+- 'You are the one under your wife's thumb!' Fedya responds earnestly without a pause, bringing things back to earth after the buildup.
+- 'I simply respect her as a person.' Highlighting a person at once, Senya leans on "lichnost" ("person, individuality") to give the whole sentence its punch.
+- 'And what can I do about it?' Leaning in briskly at once, Senya puts the question word "chto" right at the start so Fedya hears the focus immediately.
+- 'Just imagine the end of the workday.' Fedya follows up at once with Senya, grounding the moment in plain reality.
+- 'Formidable Marina suddenly enters the room.' Emphasizing the room at once, Fedya puts the weight on "groznaya" ("terrible, menacing", from "groznyy") as the exchange unfolds.
+- 'You should already be home, Senya!' Vika answers quietly with a nod, letting the remark speak for itself.
+- 'Fedya and I wanted to drink some beer.' Senya jumps in briskly without any doubt, letting the remark speak for itself.
+- 'You already drank beer this month!' Emphasizing the month right here, Vika reaches for the Russian word "mesyatse" ("month", built from "mesyats") right at the center of the line.
+- 'I have a lot of stress at work!' Senya replies lightly around Vika, watching Vika's face to see how the news lands.
+- 'Did you really want to hit me just now?' Vika tests briskly whether Senya really thought this through.
+- 'No, darling, of course not.' Senya responds firmly before Vika and puts the weight on "dorogaya" ("expensive", from "dorogoy") as the exchange unfolds.

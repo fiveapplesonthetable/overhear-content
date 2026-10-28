@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We stopped in a rundown little village.' Kostya holds firm right away as they talk, letting the remark speak for itself.
-- 'We were starving.' Nastya picks one clear element in reply: "khotelos" means "to feel like" (from "khotetsya"), giving the line its exact edge.
-- 'And then by chance I found a can of tuna.' Kostya responds decisively without a pause, steering the talk right where he wants it.
-- 'So I decided to make a rustic village salad.' Nastya jumps in firmly in their talk, before Kostya can change the subject.
-- 'We take a lettuce leaf.' Kostya colors one direct element in earnest: "salata" means "salad" (from "salat"), giving the line its exact edge.
-- 'We tear it roughly just like this.' Nastya sends that thought frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Here is how it goes.' Kostya counters calmly across the room, saying out loud what both of them already know.
-- 'Next we add some quail eggs.' Nastya focuses on this direct choice at once: "perepelinykh" means "quail" (from "perepelinyy"), giving the line its exact edge.
-- 'A little bit of tuna.' Kostya gives that answer in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'A few olives.' Nastya speaks evenly with a shrug, leaving no doubt about where she stands.
-- 'How could we do without potatoes.' Kostya emphasizes one classic element with Nastya: "kartofelya" means "potato, potatoes" (from "kartofel"), giving the line its exact edge.
-- 'We pepper the whole thing.' Nastya offers this point before Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And then we gently toss it all together.' Kostya holds firm bluntly with a nod, steering the talk right where he wants it.
+- 'We stopped in a rundown little village.' Kostya opens up right away around Nastya, leaving no doubt about where he stands.
+- 'We were starving.' Nastya steps in decisively in the exchange and reaches for the Russian word "khotelos" ("to feel like", built from "khotetsya") right at the center of the line.
+- 'And then by chance I found a can of tuna.' Emphasizing the jar in the exchange, Kostya leans on "sluchayno" ("by any chance") to give the whole sentence its punch.
+- 'So I decided to make a rustic village salad.' Nastya replies firmly without holding back, making her position completely clear.
+- 'We take a lettuce leaf.' Emphasizing the salad with Nastya, Kostya reaches for the Russian word "salata" ("salad", built from "salat") right at the center of the line.
+- 'We tear it roughly just like this.' Holding firm warmly during the talk, Nastya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Here is how it goes.' Kostya replies calmly during the talk, shifting the mood of the conversation in a single beat.
+- 'Next we add some quail eggs.' Highlighting the egg right here, Nastya centers the thought on "perepelinykh" ("quail", from "perepelinyy") without wasting a word.
+- 'A little bit of tuna.' Dwelling on the tuna in front of Nastya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'A few olives.' Nastya speaks evenly without any doubt, letting the remark speak for itself.
+- 'How could we do without potatoes.' Highlighting the potato in the exchange, Kostya chooses "kartofelya" ("potato, potatoes", from the root "kartofel") so Nastya hears the exact meaning.
+- 'We pepper the whole thing.' Mentioning the matter on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And then we gently toss it all together.' Kostya follows up bluntly in their talk, leaving no doubt about where he stands.

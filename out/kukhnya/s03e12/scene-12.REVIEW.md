@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, I forgot to return the glasses at the cinema.' Kostya reacts firmly as things stand, before Ilya can change the subject.
-- 'It is fine, what if they still come in handy for us?' Nastya centers this vivid word for Kostya: "prigodyatsya" means "will come in handy" (from "prigoditsya"), giving the line its exact edge.
-- 'And what are you doing over there in the corner?' Kostya offers this statement briskly now: putting the question word "chto" right at the front of the line lets Ilya hear the point of the question on the very first beat.
-- 'I am painting and painting, and then I look.' Ilya cuts in briskly with a smile, before Nastya can change the subject.
-- 'It is a trap here, I am sitting and waiting until it dries.' Ilya uses one vivid element in earnest: "lovushka" means "trap", and it carries the main weight of what Ilya is saying.
-- 'And why on earth did you paint the floor?' Kostya shapes the remark in earnest: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'The landlady Nastya told me to.' Ilya chimes in boldly in their talk, so Kostya knows he is not just making small talk.
-- 'You were supposed to paint the walls in the room!' Nastya points to one telling choice for Kostya: "komnate" means "room" (from "komnata"), giving the line its exact edge.
-- 'You said to paint the room, so I started with the floor.' Ilya highlights one pointed term in earnest: "komnatu" means "the room" (from "komnata"), giving the line its exact edge.
-- 'Alright, that is it, I have had enough, get out of there fast!' Kostya responds promptly facing Nastya, before Nastya can change the subject.
-- 'Maybe I should repaint the floor in black?' Ilya centers this direct choice toward Kostya: "chyornym" means "black" (from "chyornyy"), giving the line its exact edge.
-- 'Do you not understand? It is not about the color!' Kostya frames that reply without fuss: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'Nastya, I forgot to return the glasses at the cinema.' Kostya reacts firmly hearing Nastya, refusing to let the moment slip past.
+- 'It is fine, what if they still come in handy for us?' Nastya weighs in naturally before Kostya and brings in "prigodyatsya" ("will come in handy", from "prigoditsya") as the key Russian word here.
+- 'And what are you doing over there in the corner?' Pressing on firmly with Ilya, Kostya puts the question word "chto" right at the start so Ilya hears the focus immediately.
+- 'I am painting and painting, and then I look.' Ilya opens up briskly without a pause, shifting the mood of the conversation in a single beat.
+- 'It is a trap here, I am sitting and waiting until it dries.' Bringing up a trap with Kostya, Ilya uses "lovushka" ("trap") to carry the main weight of the thought.
+- 'And why on earth did you paint the floor?' Checking on the floor in front of Ilya, Kostya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'The landlady Nastya told me to.' Ilya cuts in boldly without a pause, leaving no doubt about where he stands.
+- 'You were supposed to paint the walls in the room!' Emphasizing the room to Ilya, Nastya puts the weight on "komnate" ("room", from "komnata") as the exchange unfolds.
+- 'You said to paint the room, so I started with the floor.' Ilya answers frankly facing Nastya, making his position completely clear.
+- 'Alright, that is it, I have had enough, get out of there fast!' Kostya responds promptly without holding back, making his position completely clear.
+- 'Maybe I should repaint the floor in black?' Highlighting the color during the talk, Ilya lands on "chyornym" ("black", built on "chyornyy") to keep the statement grounded.
+- 'Do you not understand? It is not about the color!' Answering candidly beside Ilya, Kostya puts the question word "chto" right at the start so Ilya hears the focus immediately.

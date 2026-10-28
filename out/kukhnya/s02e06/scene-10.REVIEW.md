@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The Chef told me to bring you some ice.' Barinov anchors this sharp term on cue: "prinesti" means "to bring, offer", and it carries the main weight of what Barinov is saying.
-- 'He said you bumped yourself.' Lyova states the reply for Max: the "-sya" ending on "udarilis" ("to hit") turns the action inward or makes it happen between people naturally.
-- 'Oh, yes.' Barinov chimes in steadily to be clear, bringing things back to earth after the buildup.
-- 'I will help you with that.' Lyova leans on this direct choice on cue: "pomogu" means "I'll help" (from "pomoch"), giving the line its exact edge.
-- 'I can do it myself.' Barinov states that remark on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Oh come on, it is no trouble for me.' Lyova proceeds sharply with a nod, without trying to dress up how he really feels.
-- 'Thank you, there is no need.' Barinov leans on one vivid piece on cue: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
-- 'Well, how are you holding up, Lyova?' Max sends that line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Not quite.' Barinov answers warmly as they talk, shifting the whole mood of the room in a single beat.
-- 'Right, we need to have a talk.' Lyova sharpens this vivid piece right here: "pogovorit" means "to talk", and it carries the main weight of what Lyova is saying.
-- 'You and I need to have a talk.' Barinov brings the reaction before Lyova: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Why are you looking so pale, huh?' Lyova presses eagerly what Max is actually getting at here.
-- 'Where did all the blood go from your face?' Barinov anchors this sharp word toward Lyova: "krov" means "blood", and it carries the main weight of what Barinov is saying.
+- 'The Chef told me to bring you some ice.' Pointing to the ice in this beat, Barinov puts the emphasis on "prinesti" ("to bring, offer") in the middle of the talk.
+- 'He said you bumped yourself.' Stepping in boldly around Barinov, the "-sya" ending on "udarilis" ("to hit") marks an action that unfolds mutually or turns back on the speaker.
+- 'Oh, yes.' Barinov responds steadily without any doubt, refusing to let the moment slip past.
+- 'I will help you with that.' Lyova pushes back sharply right here and lands on "pomogu" ("I'll help", built on "pomoch") to keep the statement grounded.
+- 'I can do it myself.' Pushing back smoothly to Lyova, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Oh come on, it is no trouble for me.' Lyova jumps in sharply across the room, before Barinov can change the subject.
+- 'Thank you, there is no need.' Barinov quietly offers this word of thanks as they meet using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Well, how are you holding up, Lyova?' Holding firm calmly before Lyova, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Not quite.' Barinov chimes in warmly across the room, testing Max's reaction in the middle of the exchange.
+- 'Right, we need to have a talk.' Lyova steps in openly during the talk and uses "pogovorit" ("to talk") to carry the main weight of the thought.
+- 'You and I need to have a talk.' Holding firm earnestly to Lyova, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Why are you looking so pale, huh?' Lyova presses eagerly if there is more going on behind the scenes.
+- 'Where did all the blood go from your face?' Pointing to the blood in this beat, Barinov chooses "krov" ("blood") so Lyova gets the point right away.

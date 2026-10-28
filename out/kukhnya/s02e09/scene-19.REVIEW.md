@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, why are you looking at me like that?' Eleonora focuses on this key expression in earnest: "smotrish" means "are staring" (from "smotret"), giving the line its exact edge.
-- 'You do not understand anything.' Max phrases that thought without fuss: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Did you take everything, did you forget anything?' Eleonora quizzes openly in front of Max without any preamble.
-- 'Dad, hurry up, we are already running late.' Max uses this direct touch right here: "opazdyvayem" means "are late" (from "opazdyvat"), giving the line its exact edge.
-- 'Bye, give me a call when you get there.' Eleonora states this update at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'How could that be, what on earth...' Max holds firm firmly around Eleonora, so Eleonora knows he is not just making small talk.
-- 'In everything that happens to us, look for the woman.' Eleonora underscores one colorful piece right here: "zhenshchinu" means "a woman" (from "zhenshchina"), giving the line its exact edge.
-- 'She can do anything at all to us.' Max proceeds candidly beside Eleonora, shifting the whole mood of the room in a single beat.
-- 'Bring us back to life.' Eleonora chimes in steadily with Max, bringing things back to earth after the buildup.
-- 'Or put our life in danger.' Max stresses one familiar element with Eleonora: "postavit" means "to put in, to install", and it carries the main weight of what Max is saying.
-- 'We try to do everything for women.' Eleonora speaks up dryly hearing Max, bringing things back to earth after the buildup.
-- 'While women...' Max fires back steadily around Eleonora, so Eleonora knows he is not just making small talk.
-- 'Do everything to make sure we do.' Eleonora grounds one classic touch in reply: "delayut" means "they do" (from "delat"), giving the line its exact edge.
+- 'Hey, why are you looking at me like that?' Eleonora follows up calmly on the spot and centers the thought on "smotrish" ("are staring", from "smotret") without wasting a word.
+- 'You do not understand anything.' Jumping in frankly with Eleonora, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Did you take everything, did you forget anything?' Eleonora quizzes openly if there is more going on behind the scenes.
+- 'Dad, hurry up, we are already running late.' Bringing up the dad before Eleonora, Max lands on "opazdyvayem" ("are late", built on "opazdyvat") to keep the statement grounded.
+- 'Bye, give me a call when you get there.' Eleonora smoothly voices this casual farewell beside Max using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'How could that be, what on earth...' Max pushes back firmly with a nod, watching Eleonora's face to see how the news lands.
+- 'In everything that happens to us, look for the woman.' Pointing to the woman on the spot, Eleonora uses "zhenshchinu" ("a woman", from "zhenshchina") to make the point stick.
+- 'She can do anything at all to us.' Max replies boldly beside Eleonora and lands on "sdelat" ("to do") as the key everyday word here.
+- 'Bring us back to life.' Eleonora chimes in steadily during the talk, refusing to let the moment slip past.
+- 'Or put our life in danger.' Bringing up the threat with Eleonora, Max chooses "ugrozu" ("threat", from the root "ugroza") so Eleonora hears the exact meaning.
+- 'We try to do everything for women.' Bringing up the women with Max, Eleonora lands on "zhenshchin" ("women", built on "zhenshchina") to keep the statement grounded.
+- 'While women...' Max speaks up steadily without any doubt, without trying to dress up how he really feels.
+- 'Do everything to make sure we do.' Eleonora jumps in readily beside Max and centers the thought on "delayut" ("they do", from "delat") without wasting a word.

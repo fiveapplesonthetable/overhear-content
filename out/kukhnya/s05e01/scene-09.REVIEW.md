@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is completely normal.' Nastya chimes in dryly with a shrug, without trying to dress up how she really feels.
-- 'I was pregnant and kept forgetting everything.' Nastya frames this telling expression on cue: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
-- 'One day I ended up at the zoo.' Nastya holds firm wryly with a sigh, saying out loud what both of them already know.
-- 'Nastya, I have a favor to ask.' Vika responds candidly on the spot, testing Nastya's reaction in the middle of the exchange.
-- 'Do not tell anyone about this, okay?' Vika anchors this vivid word at once: "govori" means "say, talk" (from "govorit"), giving the line its exact edge.
-- 'I do not want to publicize it yet.' Vika steps in honestly to settle things, saying out loud what both of them already know.
-- 'Victor Petrovich, there is a new order here.' Vika cuts in earnestly with Barinov, without trying to dress up how she really feels.
-- 'A guest ordered the room service.' Vika centers one telling term with Nastya: "uslugu" means "service, favor" (from "usluga"), giving the line its exact edge.
-- 'Fine, I will go up myself right now.' Barinov makes that reply beside Nastya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nastya is on board.
+- 'That is completely normal.' Nastya pushes back dryly with a nod, leaving no doubt about where she stands.
+- 'I was pregnant and kept forgetting everything.' Nastya follows up frankly beside Vika and leans on "beremenna" ("pregnant", a form of "beremennyy") to give the remark its edge.
+- 'One day I ended up at the zoo.' Pointing to the zoo before Vika, Nastya lands on "zoopark" ("zoo") as the key everyday word here.
+- 'Nastya, I have a favor to ask.' Vika reacts candidly with a sigh, leaving no doubt about where she stands.
+- 'Do not tell anyone about this, okay?' Vika fires back naturally before Nastya and centers the thought on "govori" ("say, talk", from "govorit") without wasting a word.
+- 'I do not want to publicize it yet.' Vika proceeds firmly during the talk and leans on "afishirovat" ("to publicize") to give the whole sentence its punch.
+- 'Victor Petrovich, there is a new order here.' Vika follows up earnestly with a sigh, leaving no doubt about where she stands.
+- 'A guest ordered the room service.' Highlighting the room service in front of Barinov, Vika centers the thought on "uslugu" ("service, favor", from "usluga") without wasting a word.
+- 'Fine, I will go up myself right now.' Barinov firmly shares this word of agreement without hesitation using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
 - 'Did you call the chef to the room?' Barinov presses eagerly how Vika expects that to work in practice.
-- 'Did you order the chicken breast?' Barinov spotlights one familiar choice in reply: "kurinuyu" means "chicken" (from "kurinyy"), giving the line its exact edge.
-- 'What are you doing in there right now?' Vika directs the comeback briskly now: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'Did you order the chicken breast?' Talking about the chicken breast around Vika, Barinov lands on "kurinuyu" ("chicken", built on "kurinyy") to keep the statement grounded.
+- 'What are you doing in there right now?' Cutting in earnestly with Barinov, Vika puts the question word "chto" right at the start so Barinov hears the focus immediately.

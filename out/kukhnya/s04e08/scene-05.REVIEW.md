@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vikochka, hello, how glad I am to see you!' Mama lays out the thought at once: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Welcome on your arrival, how did you get here today?' Vika presses deadpan why things suddenly took this turn between them.
-- 'I got here fine, thank you very much, my dears.' Mama sharpens one colorful touch on cue: "khoroshiye" means "good" (from "khoroshiy"), giving the line its exact edge.
-- 'Please come into the room, give me your bag.' Vika shares the comeback facing Max: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
-- 'Vika, do you see what I arrived wearing today?' Mama checks briskly about what Max just brought up.
-- 'Yes, that is a very beautiful warm shawl!' Vika leans on one vivid choice right here: "krasivyy" means "beautiful", and it carries the main weight of what Vika is saying.
-- 'And tell me, where did you buy such a pretty one?' Vika phrases the comeback in earnest: putting the question word "gde" right at the front of the line lets Mama hear the point of the question on the very first beat.
-- 'Very funny, Vika, after all you knitted it yourself!' Mama reacts promptly with a shrug, watching Vika's face to see how the news lands.
-- 'Yes, that was our gift to Mom for her birthday!' Max underscores this sharp choice for Mama: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
-- 'Vika, surely you remember how we sent it to her?' Max hands over this statement for Vika: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'I wear it constantly, you are such a clever girl!' Mama proceeds wryly as things stand, saying out loud what both of them already know.
-- 'Oh, I have not even washed my hands from the trip yet!' Mama anchors one practical word with Vika: "yeshchyo" means "more, still", and it carries the main weight of what Mama is saying.
+- 'Vikochka, hello, how glad I am to see you!' Mama opens up right away in their talk, shifting the mood of the conversation in a single beat.
+- 'Welcome on your arrival, how did you get here today?' Vika presses deadpan whether Mama really thought this through.
+- 'I got here fine, thank you very much, my dears.' Underscoring the thank around Vika, Mama reaches for the Russian word "khoroshiye" ("good", built from "khoroshiy") right at the center of the line.
+- 'Please come into the room, give me your bag.' Addressing the room at once, Vika uses the polite or group form "davayte" ("let's") to bring Mama into the plan.
+- 'Vika, do you see what I arrived wearing today?' Mama checks briskly about what Vika just brought up.
+- 'Yes, that is a very beautiful warm shawl!' Noting how beautiful things are around Mama, Vika lands on "krasivyy" ("beautiful") as the key everyday word here.
+- 'And tell me, where did you buy such a pretty one?' Turning evenly in this beat, Vika puts the question word "gde" right at the start so Mama hears the focus immediately.
+- 'Very funny, Vika, after all you knitted it yourself!' Mama opens up promptly during the talk, before Vika can change the subject.
+- 'Yes, that was our gift to Mom for her birthday!' Pointing to the birth in the exchange, Max reaches for the Russian word "rozhdeniya" ("of birth", built from "rozhdeniye") right at the center of the line.
+- 'Vika, surely you remember how we sent it to her?' Holding firm openly during the talk, Max puts the question word "kak" right at the start so Vika hears the focus immediately.
+- 'I wear it constantly, you are such a clever girl!' Mama jumps in wryly with a sigh, testing Max's reaction in the middle of the exchange.
+- 'Oh, I have not even washed my hands from the trip yet!' Emphasizing the roads right here, Mama leans on "dorogi" ("roads", a form of "doroga") to give the remark its edge.

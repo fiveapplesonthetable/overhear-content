@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena Pavlovna is coming in here right now.' Barinov gives the reply without pause: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'What are we going to do?' Sasha wonders wryly whether Elena really thought this through.
-- 'Everyone pay attention, while our head chef...' Elena frames this clear word in earnest: "shef-povar" means "head chef", and it carries the main weight of what Elena is saying.
-- 'Here we are. Everyone pay attention.' Barinov shares that line plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Yes, while our head chef is resting, so to speak.' Sasha continues sharply with a nod, steering the talk right where she wants it.
-- 'Getting medical treatment. Yes.' Elena features this key piece right here: "lechitsya" means "is treated", and it carries the main weight of what Elena is saying.
-- 'Elena Pavlovna right here will be working with you today.' Barinov continues bluntly with a shrug, keeping the focus on what actually matters here.
-- 'There is nothing to worry about.' Sasha continues honestly before Elena, keeping the focus on what actually matters here.
-- 'Alright, best of luck to you all.' Elena features this sharp expression toward Barinov: "pukha" means "down" (from "pukh"), giving the line its exact edge.
-- 'What now?' Barinov aims the thought with ease: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
-- 'Can we not just talk to each other normally?' Sasha checks promptly why things suddenly took this turn between them.
-- 'No, everything is fine between us.' Elena grounds one telling piece with Sasha: "khorosho" means "good, fine", and it carries the main weight of what Elena is saying.
-- 'Did Sasha dump you?' Barinov offers the remark with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
+- 'Elena Pavlovna is coming in here right now.' Barinov cuts in briskly in front of Elena and puts the weight on "pridet" ("will come", from "priyti") as the exchange unfolds.
+- 'What are we going to do?' Sasha wonders wryly before Elena can change the subject.
+- 'Everyone pay attention, while our head chef...' Bringing up her head in front of Barinov, Elena puts the emphasis on "shef-povar" ("head chef") in the middle of the talk.
+- 'Here we are. Everyone pay attention.' Addressing the attention in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Yes, while our head chef is resting, so to speak.' Sasha answers sharply during the talk, shifting the mood of the conversation in a single beat.
+- 'Getting medical treatment. Yes.' Elena proceeds plainly around Sasha and reaches for the Russian word "lechitsya" ("is treated") right at the heart of the line.
+- 'Elena Pavlovna right here will be working with you today.' Barinov chimes in plainly in front of Elena and uses "segodnya" ("today") to carry the main weight of the thought.
+- 'There is nothing to worry about.' Sasha opens up honestly on the spot, leaving no doubt about where she stands.
+- 'Alright, best of luck to you all.' Underscoring the feather in the exchange, Elena puts the weight on "pera" ("feather", from "pero") as the exchange unfolds.
+- 'What now?' Pushing back candidly before Sasha, Barinov puts the question word "chto" right at the start so Sasha hears the focus immediately.
+- 'Can we not just talk to each other normally?' Sasha checks promptly where this conversation is heading next.
+- 'No, everything is fine between us.' Elena responds pointedly in front of Sasha and puts the emphasis on "khorosho" ("good, fine") in the middle of the talk.
+- 'Did Sasha dump you?' Jumping in frankly right here, Barinov keeps normal statement word order here, turning the line into a question for Sasha purely through rising pitch.

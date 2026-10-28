@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The groom may kiss the bride.' Max emphasizes one pointed element toward Eleonora: "potselovat" means "to kiss", and it carries the main weight of what Max is saying.
-- 'Am I not late?' Vika voices this line on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'After all, a child needs a father.' Max replies quietly in this moment, watching Eleonora's face to see how the news lands.
-- 'He is not the father.' Vika emphasizes one concrete touch toward Max: "otets" means "father", and it carries the main weight of what Vika is saying.
-- 'A husband has the right to know who the child's father is.' Max speaks evenly across the room, leaving no doubt about where he stands.
-- 'Tell him there is no such thing in the law.' Vika follows up promptly with a nod, letting the remark speak for itself.
-- 'You are already almost not my husband.' Vika colors one telling piece with Eleonora: "pochti" means "almost", and it carries the main weight of what Vika is saying.
-- 'I am not going to report to you.' Vika sends that reply to Max: the "-sya" ending on "otchityvatsya" ("to report, answer to") turns the action inward or makes it happen between people naturally.
-- 'Who is the child's father?' Max tests briskly how Eleonora expects that to work in practice.
-- 'It was your cook who dumped her!' Eleonora stresses one concrete term in earnest: "povar" means "chef, cook", and it carries the main weight of what Eleonora is saying.
-- 'From this moment I am taking her under my control.' Eleonora cuts in warmly facing Max, shifting the whole mood of the room in a single beat.
-- 'I will look after the child myself.' Max fires back frankly on the spot, grounding the moment in plain reality.
+- 'The groom may kiss the bride.' Underscoring the groom beside Vika, Max centers the remark on "zhenikh" ("groom, fiancé") without any extra fuss.
+- 'Am I not late?' Pressing on frankly with Max, Vika keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'After all, a child needs a father.' Max fires back quietly across the room, letting the remark speak for itself.
+- 'He is not the father.' Underscoring the father right here, Vika chooses "otets" ("father") so Max gets the point right away.
+- 'A husband has the right to know who the child's father is.' Highlighting the child in the exchange, Max centers the thought on "rebyonka" ("child", from "rebyonok") without wasting a word.
+- 'Tell him there is no such thing in the law.' Vika pushes back promptly with a shrug, shifting the mood of the conversation in a single beat.
+- 'You are already almost not my husband.' Pointing to her husband in front of Max, Vika reaches for the Russian word "muzh" ("husband") right at the heart of the line.
+- 'I am not going to report to you.' Weighing in openly at once, the "-sya" ending on "otchityvatsya" ("to report, answer to") marks an action that unfolds mutually or turns back on the speaker.
+- 'Who is the child's father?' Max tests briskly to see how Eleonora will answer on the spot.
+- 'It was your cook who dumped her!' Eleonora chimes in firmly before Max and uses "povar" ("chef, cook") to carry the main weight of the thought.
+- 'From this moment I am taking her under my control.' Discussing the moment during the talk, Eleonora chooses "momenta" ("moment", from the root "moment") so Max hears the exact meaning.
+- 'I will look after the child myself.' Addressing the child with Eleonora, Max keeps Eleonora's attention locked on what matters.

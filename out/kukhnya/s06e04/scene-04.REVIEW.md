@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You will have a female helper very soon.' Barinov stresses one familiar term with Eleonora: "pomoshchnitsa" means "female helper", and it carries the main weight of what Barinov is saying.
-- 'Mom, well this is simply ridiculous.' Katya drops the comeback on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'How could Olivier possibly be an inspector?' Cutting in right here, Katya says plainly what is on her mind.
-- 'That guy threw eggs in class.' Katya frames this telling element for Eleonora: "yaytsami" means "with eggs" (from "yaytso"), giving the line its exact edge.
-- 'So what, I also did all kinds of nonsense.' Barinov frames the thought without fuss: the "-sya" ending on "zanimalsya" ("practiced") turns the action inward or makes it happen between people naturally.
-- 'Yes, and you still continue to this day.' Eleonora chimes in promptly with a nod, before Katya can change the subject.
-- 'Dad, I am very glad that you two found something that unites you.' Katya picks this sharp term in reply: "obyedinyayet" means "unites" (from "obyedinyat"), giving the line its exact edge.
-- 'Understand that a star is at stake!' Barinov leans on one clear choice toward Katya: "zvezda" means "a star", and it carries the main weight of what Barinov is saying.
-- 'What if it is him, just be on guard.' Barinov stands firm firmly without any doubt, to clear the air between them once and for all.
-- 'Or maybe you will see his notes in the room.' Eleonora colors one direct detail in earnest: "zapisi" means "recordings" (from "zapis"), giving the line its exact edge.
-- 'Dad, maybe I should search his room too?' Katya offers this warning before Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Just talk with him in a friendly way.' Barinov answers lightly to settle things, refusing to let the moment slip past.
+- 'You will have a female helper very soon.' Mentioning a female helper with Katya, Barinov centers the remark on "pomoshchnitsa" ("female helper") without any extra fuss.
+- 'Mom, well this is simply ridiculous.' Pointing to the mum at once, Katya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'How could Olivier possibly be an inspector?' Turning to an inspector beside Barinov, Katya puts the real issue right on the table for Barinov.
+- 'That guy threw eggs in class.' Bringing up the eggs beside Barinov, Katya reaches for the Russian word "yaytsami" ("with eggs", built from "yaytso") right at the center of the line.
+- 'So what, I also did all kinds of nonsense.' Discussing the nonsense during the talk, Barinov chooses "yerundoy" ("nonsense", from the root "yerunda") so Katya hears the exact meaning.
+- 'Yes, and you still continue to this day.' Eleonora responds promptly with a nod, keeping the focus on what actually matters here.
+- 'Dad, I am very glad that you two found something that unites you.' Focusing on the dad in the exchange, Katya chooses "obyedinyayet" ("unites", from the root "obyedinyat") so Eleonora hears the exact meaning.
+- 'Understand that a star is at stake!' Bringing up a star toward Katya, Barinov brings the exchange with Katya back to practical reality.
+- 'What if it is him, just be on guard.' Barinov jumps in firmly around Eleonora, so Eleonora knows he is not just making small talk.
+- 'Or maybe you will see his notes in the room.' Focusing on the recordings with Barinov, Eleonora centers the thought on "zapisi" ("recordings", from "zapis") without wasting a word.
+- 'Dad, maybe I should search his room too?' Mentioning the number before Barinov, Katya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Just talk with him in a friendly way.' Barinov responds lightly hearing Katya, leaving no doubt about where he stands.

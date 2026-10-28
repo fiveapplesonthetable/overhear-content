@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Why did you bring this lady of the night here?' Nagiyev asks skeptically to see how Katya will answer on the spot.
-- 'Vitya, who are you trying to fool right now?' Nagiyev emphasizes this sharp expression on cue: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'I know all the respectable call girls in Moscow.' Nagiyev reacts boldly in this moment, shifting the whole mood of the room in a single beat.
-- 'Right now you grab the girl and run from here.' Nagiyev answers sharply to be clear, so Max knows he is not just making small talk.
-- 'If Vika finds out, I will pluck your mustache out!' Nagiyev stresses this vivid piece on cue: "vyshchiplyu" means "I will pluck out" (from "vyshchipat"), giving the line its exact edge.
-- 'Alright, you won—no, we have a draw.' Nagiyev shares that answer right away: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'What kind of stories did you tell Lyova about me?' Katya questions bluntly about what Max just brought up.
-- 'You are a real psycho yourself, got that?' Katya spotlights this key detail toward Nagiyev: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Katya is saying.
-- 'Why, you will thank me for this yet!' Max frames this point on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Maybe I should kiss you right now too?' Katya presses briskly to see how Nagiyev will answer on the spot.
-- 'Dad, please, just do not start.' Katya colors one vivid word at once: "nachinay" means "start" (from "nachinat"), giving the line its exact edge.
-- 'And maybe he and I love each other!' Katya replies earnestly with Nagiyev, saying out loud what both of them already know.
+- 'Vitya, who are you trying to fool right now?' Nagiyev pushes back promptly in the exchange and brings in "khochesh" ("do you want", from "khotet") as the key Russian word here.
+- 'I know all the respectable call girls in Moscow.' Highlighting the butterflies beside Katya, Nagiyev reaches for the Russian word "prilichnykh" ("decent, respectable", built from "prilichnyy") right at the center of the line.
+- 'Right now you grab the girl and run from here.' Nagiyev cuts in sharply without holding back, to clear the air between them once and for all.
+- 'If Vika finds out, I will pluck your mustache out!' Bringing up the mustache before Katya, Nagiyev brings in "vyshchiplyu" ("I will pluck out", from "vyshchipat") as the key Russian word here.
+- 'Alright, you won—no, we have a draw.' Discussing a draw around Katya, Nagiyev reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'What kind of stories did you tell Lyova about me?' Katya questions bluntly why things suddenly took this turn between them.
+- 'You are a real psycho yourself, got that?' Describing how real Max is on the spot, Katya leans on "nastoyashchiy" ("real, genuine") to give the whole sentence its punch.
+- 'Why, you will thank me for this yet!' Max counters quietly with a sigh, steering the talk right where he wants it.
+- 'Maybe I should kiss you right now too?' Katya presses briskly how Max expects that to work in practice.
+- 'Dad, please, just do not start.' Emphasizing the dad around Max, Katya lands on "nachinay" ("start", built on "nachinat") to keep the statement grounded.
+- 'And maybe he and I love each other!' Bringing up the friend during the talk, Katya lands on "druga" ("the friend", built on "drug") to keep the statement grounded.

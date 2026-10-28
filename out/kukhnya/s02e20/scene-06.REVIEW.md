@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who do not value it very much.' Barinov stands firm candidly before Vika, saying out loud what both of them already know.
-- 'That is why I do not want to leave this place.' Vika leans on one pointed piece with Barinov: "poetomu" means "that's why", and it carries the main weight of what Vika is saying.
-- 'That was a fine speech.' Barinov voices that answer briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Write it down for me later.' Vika counters evenly in their talk, leaving no doubt about where she stands.
-- 'Viktoriya, where on earth have you been wandering, huh?' Barinov grounds this key detail in earnest: "cherti" means "devil, darn" (from "chyort"), giving the line its exact edge.
-- 'And what about yourself?' Vika directs that remark facing Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Saying she was not offended.' Barinov replies openly as things stand, shifting the whole mood of the room in a single beat.
-- 'Yet she hangs up on me for the second time.' Vika spotlights one telling choice toward Barinov: "sbrasyvayet" means "to go" (from "sbrasyvat"), giving the line its exact edge.
-- 'That my future groom could not make it here today.' Barinov holds firm sharply watching Vika, making his position completely clear.
-- 'That is quite alright.' Vika continues boldly with a shrug, so Barinov knows she is not just making small talk.
-- 'An envelope. Oh.' Barinov stresses this direct touch right here: "konvert" means "the envelope", and it carries the main weight of what Barinov is saying.
-- 'Right this way, please. Hello.' Vika shapes that reply right away: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Why are you wandering around out there?' Barinov probes sharply where this conversation is heading next.
+- 'Who do not value it very much.' Barinov jumps in candidly across the room, letting the remark speak for itself.
+- 'That is why I do not want to leave this place.' Vika continues boldly in this beat and brings in "poetomu" ("that's why") to make the meaning unmistakable.
+- 'That was a fine speech.' Touching on a fine speech in front of Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Write it down for me later.' Vika fires back evenly with a sigh, refusing to let the moment slip past.
+- 'Viktoriya, where on earth have you been wandering, huh?' Discussing the devil with Vika, Barinov chooses "cherti" ("devil, darn", from the root "chyort") so Vika hears the exact meaning.
+- 'And what about yourself?' Turning readily with Barinov, Vika keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Saying she was not offended.' Barinov weighs in openly with a nod, shifting the mood of the conversation in a single beat.
+- 'Yet she hangs up on me for the second time.' Vika follows up quietly to Barinov and brings in "sbrasyvayet" ("to go", from "sbrasyvat") as the key Russian word here.
+- 'That my future groom could not make it here today.' Addressing the groom on the spot, Barinov puts the emphasis on "budushchiy" ("future") in the middle of the talk.
+- 'That is quite alright.' Vika pushes back boldly in their talk, bringing things back to earth after the buildup.
+- 'An envelope. Oh.' Bringing up an envelope during the talk, Barinov leans on "konvert" ("the envelope") to give the whole sentence its punch.
+- 'Right this way, please. Hello.' Vika firmly delivers this formal greeting for Barinov using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Why are you wandering around out there?' Barinov probes sharply whether Vika really thought this through.

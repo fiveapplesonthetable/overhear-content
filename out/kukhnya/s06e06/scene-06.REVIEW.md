@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Should I make you one hot cappuccino?' Kostya probes candidly where this conversation is heading next.
-- 'Are you still pouting at me?' Nastya favors one concrete term for Kostya: "duyeshsya" means "are pouting" (from "dutsya"), giving the line its exact edge.
-- 'They gave me good tips here.' Nastya follows up openly watching Barinov, without trying to dress up how she really feels.
-- 'You can put them in the stash for the television.' Nastya proceeds dryly before Kostya, to clear the air between them once and for all.
-- 'Kostik, please forgive me.' Nastya centers one practical element at once: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
-- 'By the way, they will deliver the wardrobe tonight.' Nastya sends this point with warmth: opening with "kstati" ("by the way") lets Nastya drop a new detail into the conversation as if it just crossed her mind.
-- 'Do I also have to assemble it myself?' Kostya quizzes briskly as Barinov tries to explain the situation.
-- 'There was not enough money left for assembly.' Nastya spotlights one colorful expression in reply: "sborku" means "assembly" (from "sborka"), giving the line its exact edge.
-- 'The two of you could not handle one guy!' Barinov reaches for this clear element for Kostya: "vdvoyom" means "the two of us together", and it carries the main weight of what Barinov is saying.
-- 'And what are we supposed to do next?' Kostya questions firmly while looking straight at Nastya here.
-- 'Now all that is left is waiting for French grandchildren.' Barinov reaches for one key detail in reply: "frantsuzskikh" means "French" (from "frantsuzskiy"), giving the line its exact edge.
-- 'Your mother has been taken very ill over there.' Nastya lays out this answer plainly here: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
+- 'Should I make you one hot cappuccino?' Kostya probes candidly why things suddenly took this turn between them.
+- 'Are you still pouting at me?' Nastya speaks up sharply before Kostya and leans on "duyeshsya" ("are pouting", a form of "dutsya") to give the remark its edge.
+- 'They gave me good tips here.' Pointing to the tips right here, Nastya lands on "khoroshiye" ("good", built on "khoroshiy") to keep the statement grounded.
+- 'You can put them in the stash for the television.' Nastya speaks dryly without any doubt, to clear the air between them once and for all.
+- 'Kostik, please forgive me.' Nastya speaks smoothly right here and puts the weight on "prosti" ("sorry, forgive me", from "prostit") as the exchange unfolds.
+- 'By the way, they will deliver the wardrobe tonight.' Dwelling on the wardrobe right here, Nastya opens with "kstati" ("by the way") as if the thought just crossed her mind.
+- 'Do I also have to assemble it myself?' Kostya quizzes briskly about what Nastya just brought up.
+- 'There was not enough money left for assembly.' Addressing the assembly with Kostya, Nastya reaches for the Russian word "sborku" ("assembly", built from "sborka") right at the center of the line.
+- 'The two of you could not handle one guy!' Barinov reacts wryly around Nastya, grounding the moment in plain reality.
+- 'And what are we supposed to do next?' Kostya questions firmly while looking straight at Barinov here.
+- 'Now all that is left is waiting for French grandchildren.' Bringing up the grandson before Kostya, Barinov puts the weight on "frantsuzskikh" ("French", from "frantsuzskiy") as the exchange unfolds.
+- 'Your mother has been taken very ill over there.' Addressing the mother around Barinov, Nastya uses "mame" ("mother, mum", from "mama") to make the point stick.

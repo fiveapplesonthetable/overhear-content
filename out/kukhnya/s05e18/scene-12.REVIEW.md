@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What are you doing here again?' Eleonora checks candidly while looking straight at Denis here.
-- 'I have a business meeting here right now.' Denis centers one memorable word on cue: "delovaya" means "business, businesslike" (from "delovoy"), giving the line its exact edge.
-- 'Right here, behind my car?' Eleonora shapes the reaction with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Yes, I am waiting for someone.' Denis fires back frankly toward Nikita, testing Nikita's reaction in the middle of the exchange.
-- 'Listen to me very carefully right now.' Eleonora underscores this telling piece with Denis: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Eleonora is saying.
-- 'I forbid you to come near Katya.' Eleonora puts this update at once: the "-sya" ending on "priblizhatsya" ("to approach") turns the action inward or makes it happen between people naturally.
-- 'She has forgotten you, do not dare ruin everything.' Eleonora stands firm candidly as things stand, saying out loud what both of them already know.
-- 'Denis, wait, where are you going?' Nikita picks one pointed word right here: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Listen, sorry, it will not work out today.' Denis sends that remark before Eleonora: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'An urgent matter simply came up for me.' Denis fires back earnestly in this moment, to clear the air between them once and for all.
-- 'Wait, I will not have time to find anyone else.' Nikita frames one telling term on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'You promised, do not let me down.' Nikita spotlights this direct piece in earnest: "podstavlyay" means "let down" (from "podstavlyat"), giving the line its exact edge.
-- 'Here, take it, the whole amount is right here.' Nikita stands firm warmly to settle things, refusing to let the moment slip past.
+- 'I have a business meeting here right now.' Turning to a business meeting at once, Denis leans on "delovaya" ("business, businesslike", a form of "delovoy") to give the remark its edge.
+- 'Right here, behind my car?' Checking on her car in front of Denis, Eleonora keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Yes, I am waiting for someone.' Denis weighs in frankly on the spot, refusing to let the moment slip past.
+- 'Listen to me very carefully right now.' Eleonora continues warmly in this beat and brings in "vnimatelno" ("carefully, attentively") to make the meaning unmistakable.
+- 'I forbid you to come near Katya.' Pressing on evenly at once, the "-sya" ending on "priblizhatsya" ("to approach") marks an action that unfolds mutually or turns back on the speaker.
+- 'She has forgotten you, do not dare ruin everything.' Eleonora replies candidly with Nikita, before Nikita can change the subject.
+- 'Denis, wait, where are you going?' Nikita reacts briskly in front of Denis and chooses "podozhdi" ("wait", from the root "podozhdat") so Denis hears the exact meaning.
+- 'Listen, sorry, it will not work out today.' Weighing in briskly in the exchange, the "-sya" ending on "poluchitsya" ("will come out") marks an action that unfolds mutually or turns back on the speaker.
+- 'An urgent matter simply came up for me.' Denis steps in earnestly on the spot, testing Nikita's reaction in the middle of the exchange.
+- 'Wait, I will not have time to find anyone else.' Nikita answers boldly in front of Denis and reaches for the Russian word "podozhdi" ("wait", built from "podozhdat") right at the center of the line.
+- 'You promised, do not let me down.' Nikita pushes back openly around Denis, to clear the air between them once and for all.
+- 'Here, take it, the whole amount is right here.' Nikita counters warmly watching Denis, steering the talk right where he wants it.

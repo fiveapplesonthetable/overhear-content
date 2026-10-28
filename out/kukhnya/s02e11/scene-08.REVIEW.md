@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell Senya.' Barinov offers this statement frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'He will bring them out anyway.' Senya answers wryly without holding back, watching Fedya's face to see how the news lands.
-- 'And tell Fedya.' Fedya answers promptly to be clear, without trying to dress up how he really feels.
-- 'Otherwise he will be running late.' Barinov weighs in lightly watching Senya, grounding the moment in plain reality.
-- 'And you tell him.' Senya weighs in quietly with a smile, grounding the moment in plain reality.
-- 'Get out into the dining room.' Fedya points to one concrete piece in earnest: "restoran" means "restaurant", and it carries the main weight of what Fedya is saying.
-- 'That is an excellent idea.' Barinov drops that remark briskly now: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
-- 'That is a very bad idea.' Senya opens up quietly without a pause, making his position completely clear.
-- 'Girls, the walk-in fridge.' Fedya uses this sharp expression at once: "kholodilnik" means "fridge", and it carries the main weight of what Fedya is saying.
-- 'Oh, well then let us go with your plan.' Barinov gives that remark before Senya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Oh right, you do not have one.' Senya replies candidly in this moment, shifting the whole mood of the room in a single beat.
-- 'Take it easy, Chef.' Fedya uses one familiar detail on cue: "legche" means "easier, better" (from "legko"), giving the line its exact edge.
-- 'Have you lost your minds?' Barinov voices this statement with ease: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
+- 'Tell Senya.' Replying firmly to Senya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'He will bring them out anyway.' Senya follows up wryly during the talk, leaving no doubt about where he stands.
+- 'And tell Fedya.' Fedya replies calmly to Senya and reaches for the Russian word "skazhi" ("say", built from "skazat") right at the center of the line.
+- 'Otherwise he will be running late.' Barinov opens up naturally beside Fedya and chooses "opazdyvat" ("be late") so Fedya gets the point right away.
+- 'And you tell him.' Senya speaks quietly on the spot, bringing things back to earth after the buildup.
+- 'Get out into the dining room.' Emphasizing the restaurant right here, Fedya centers the remark on "restoran" ("restaurant") without any extra fuss.
+- 'That is an excellent idea.' Speaking evenly around Fedya, Barinov leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".
+- 'That is a very bad idea.' Senya chimes in quietly watching Barinov, grounding the moment in plain reality.
+- 'Girls, the walk-in fridge.' Bringing up the fridge in the exchange, Fedya uses "kholodilnik" ("fridge") to carry the main weight of the thought.
+- 'Oh, well then let us go with your plan.' Bringing up the plan with Fedya, Barinov starts with "davay" ("come on, let's") to invite Fedya right into the action.
+- 'Oh right, you do not have one.' Senya replies candidly across the room, testing Barinov's reaction in the middle of the exchange.
+- 'Take it easy, Chef.' Fedya reacts calmly with Barinov and puts the weight on "legche" ("easier, better", from "legko") as the exchange unfolds.
+- 'Have you lost your minds?' Holding firm briskly around Fedya, Barinov puts the question word "chto" right at the start so Fedya hears the focus immediately.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, I work right here.' Nagiyev stands firm warmly around Max, watching Max's face to see how the news lands.
-- 'And what about you?' Max sends this answer in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'Oh no, what are you talking about, this is Aleksandr.' Nagiyev shapes the reaction to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He is organizing our wedding reception.' Max counters at once with a shrug, making his position completely clear.
-- 'Can you imagine, Dmitriy Nagiyev himself is going to host our wedding.' Max grounds one vivid choice in reply: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'Well anyway, enough about me.' Max states the thought facing Nagiyev: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nagiyev is on board.
-- 'Did you get married yet?' Nagiyev tests openly if there is more going on behind the scenes.
-- 'Well, not just yet.' Max emphasizes one clear choice toward Nagiyev: "poka" means "bye", and it carries the main weight of what Max is saying.
-- 'Why would I be the last one?' Nagiyev shares that answer without pause: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Otherwise she would have moved away to Israel.' Max jumps in at once without a pause, refusing to let the moment slip past.
-- 'She looks like a mop these days.' Nagiyev centers one pointed word in earnest: "vyglyadit" means "looks" (from "vyglyadet"), giving the line its exact edge.
-- 'You were always a little bit strange like that.' Max favors one familiar choice at once: "strannaya" means "strange" (from "strannyy"), giving the line its exact edge.
-- 'Oh, could I ask you for a small favor?' Nagiyev quizzes promptly while looking straight at Max here.
+- 'Yes, I work right here.' Nagiyev proceeds warmly during the talk, keeping the focus on what actually matters here.
+- 'And what about you?' Speaking warmly in the exchange, Max keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Oh no, what are you talking about, this is Aleksandr.' Holding firm firmly beside Max, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He is organizing our wedding reception.' Max speaks at once across the room, so Nagiyev knows he is not just making small talk.
+- 'Can you imagine, Dmitriy Nagiyev himself is going to host our wedding.' Talking about his wedding on the spot, Max centers the thought on "predstavlyayesh" ("can you imagine", from "predstavlyat") without wasting a word.
+- 'Well anyway, enough about me.' Max steps in candidly toward Nagiyev, leaving no doubt about where he stands.
+- 'Did you get married yet?' Nagiyev tests openly while looking straight at Max here.
+- 'Well, not just yet.' Max directly voices this casual farewell to Nagiyev using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'Why would I be the last one?' Jumping in quietly to Max, Nagiyev puts the question word "pochemu" right at the start so Max hears the focus immediately.
+- 'Otherwise she would have moved away to Israel.' Max jumps in at once with a sigh, letting the remark speak for itself.
+- 'She looks like a mop these days.' Highlighting a mop in the exchange, Nagiyev lands on "shvabra" ("mop") as the key everyday word here.
+- 'You were always a little bit strange like that.' Max counters sharply beside Nagiyev, to clear the air between them once and for all.
+- 'Oh, could I ask you for a small favor?' Nagiyev quizzes promptly how Max expects that to work in practice.

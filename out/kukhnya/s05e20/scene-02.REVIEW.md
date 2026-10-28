@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eleonora persuaded me, she practically begged me in tears.' Barinov gives that reply on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'She said, Vitya, we cannot manage without you.' Senya steps in quietly with a shrug, keeping the focus on what actually matters here.
-- 'She promised to raise my salary significantly.' Barinov colors one practical word for Eleonora: "obeshchala" means "promised" (from "obeshchat"), giving the line its exact edge.
-- 'In reality there is a penalty clause in the contract.' Senya states this answer toward Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well, Chef, did you fall for the big money?' Senya prompts bluntly how Barinov expects that to work in practice.
-- 'I do not care about the money at all.' Barinov chooses one colorful touch on cue: "sovershenno" means "quite, completely", and it carries the main weight of what Barinov is saying.
-- 'It is just that Eleonora is seriously ill right now.' Barinov brings this statement before Eleonora: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'She is very seriously sick.' Barinov cuts in plainly hearing Senya, without trying to dress up how he really feels.
-- 'I could not refuse her in such a situation.' Barinov grounds one clear term right here: "situatsii" means "situation" (from "situatsiya"), giving the line its exact edge.
-- 'Dad, did you really come back to the kitchen?' Eleonora brings this warning in earnest: the "-sya" ending on "vernulsya" ("returned") turns the action inward or makes it happen between people naturally.
-- 'Forgive me for not telling you back then.' Eleonora fires back at once on the spot, bringing things back to earth after the buildup.
-- 'Alright, daughter, we will talk about that later.' Barinov uses one direct touch for Senya: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
+- 'Eleonora persuaded me, she practically begged me in tears.' Stepping in readily during the talk, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'She said, Vitya, we cannot manage without you.' Senya speaks quietly with a nod, before Barinov can change the subject.
+- 'She promised to raise my salary significantly.' Emphasizing his salary right here, Barinov brings in "zarplatu" ("salary", from "zarplata") as the key Russian word here.
+- 'In reality there is a penalty clause in the contract.' Bringing up a penalty in this beat, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, Chef, did you fall for the big money?' Senya prompts bluntly what Barinov is actually getting at here.
+- 'I do not care about the money at all.' Discussing the money on the spot, Barinov uses "sovershenno" ("quite, completely") to carry the main weight of the thought.
+- 'It is just that Eleonora is seriously ill right now.' Replying plainly during the talk, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'She is very seriously sick.' Barinov follows up plainly toward Eleonora, grounding the moment in plain reality.
+- 'I could not refuse her in such a situation.' Discussing a situation in this beat, Barinov leans on "situatsii" ("situation", a form of "situatsiya") to give the remark its edge.
+- 'Dad, did you really come back to the kitchen?' Looking over earnestly with Barinov, Eleonora keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Forgive me for not telling you back then.' Eleonora speaks warmly with a smile, steering the talk right where she wants it.
+- 'Alright, daughter, we will talk about that later.' Bringing up the dear around Eleonora, Barinov brings in "dochka" ("dear, daughter") to make the meaning unmistakable.

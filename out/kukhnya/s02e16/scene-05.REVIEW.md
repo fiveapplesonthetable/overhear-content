@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We would like to order a pizza.' Max aims that remark to Nagiyev: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'You know me better than that.' Sasha weighs in right away around Nagiyev, so Nagiyev knows she is not just making small talk.
-- 'That he proposed to me.' Nagiyev anchors one memorable detail right here: "predlozheniye" means "offer, proposal", and it carries the main weight of what Nagiyev is saying.
-- 'Did your mom call you?' Max lays out that reply at once: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
-- 'Only I did not think.' Sasha reacts openly without a pause, so Max knows she is not just making small talk.
-- 'That you would react to it like this.' Nagiyev features one sharp detail with Sasha: "otreagiruyesh" means "to react, respond" (from "otreagirovat"), giving the line its exact edge.
-- 'I am telling you the truth, he beat himself up.' Max features one vivid choice in earnest: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
-- 'Anyway. Wait a second.' Sasha steps in quietly in their talk, grounding the moment in plain reality.
-- 'Or else what?' Nagiyev sends this statement to Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'You know, the supreme art of war is not to attack the enemy.' Max jumps in lightly facing Sasha, before Sasha can change the subject.
-- 'It is to destroy his plans.' Sasha pushes back at once with a sigh, to clear the air between them once and for all.
-- 'Well, yes.' Nagiyev shapes this answer without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'It feels like I did not find this book by accident.' Max offers that thought with warmth: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
+- 'We would like to order a pizza.' Focusing on a pizza in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You know me better than that.' Sasha proceeds right away with a sigh, grounding the moment in plain reality.
+- 'That he proposed to me.' Emphasizing the offer at once, Nagiyev reaches for the Russian word "predlozheniye" ("offer, proposal") right at the heart of the line.
+- 'Did your mom call you?' Turning naturally beside Sasha, Max puts the question word "chto" right at the start so Sasha hears the focus immediately.
+- 'Only I did not think.' Sasha chimes in openly with a shrug, before Max can change the subject.
+- 'That you would react to it like this.' Nagiyev answers decisively to Sasha and centers the thought on "otreagiruyesh" ("to react, respond", from "otreagirovat") without wasting a word.
+- 'I am telling you the truth, he beat himself up.' Max reacts promptly watching Nagiyev, steering the talk right where he wants it.
+- 'Anyway. Wait a second.' Sasha weighs in quietly hearing Max, to clear the air between them once and for all.
+- 'Or else what?' Speaking earnestly around Max, Nagiyev puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'You know, the supreme art of war is not to attack the enemy.' Underscoring the lead right here, Max uses "preimushchestvo" ("lead") to carry the main weight of the thought.
+- 'It is to destroy his plans.' Sasha pushes back at once across the room, refusing to let the moment slip past.
+- 'Well, yes.' Opening up frankly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'It feels like I did not find this book by accident.' Jumping in warmly with Nagiyev, the "-sya" ending on "kazhetsya" ("it seems, I think") marks an action that unfolds mutually or turns back on the speaker.

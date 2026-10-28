@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, do you feel better?' Senya probes plainly before German can change the subject.
-- 'You fell into a faint.' Senya focuses on one concrete touch at once: "obmorok" means "faint", and it carries the main weight of what Senya is saying.
-- 'What happened to me?' German frames that reply facing Max: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'There are strong magnetic storms today.' Senya replies openly toward Max, letting the remark speak for itself.
-- 'Was I knocked out for a long time?' German uses one clear piece in earnest: "otklyuchke" means "time", and it carries the main weight of what German is saying.
-- 'I am going to drive away for a bit now.' German lays out the reaction on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Hello, Kostya, call Nastya's dad.' Max opens up promptly with German, leaving no doubt about where he stands.
-- 'Have him drive back here.' Max grounds one memorable piece right here: "obratno" means "back", and it carries the main weight of what Max is saying.
-- 'Styopa forgot his mask at home.' Max makes this point facing German: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'It is better to bring him back right now.' Max pushes back lightly as things stand, so Senya knows he is not just making small talk.
-- 'There is a boy here, two years old, named Roma.' Max emphasizes this vivid choice in earnest: "malchik" means "boy", and it carries the main weight of what Max is saying.
-- 'And he has a shirt with a spider.' Max answers earnestly facing Senya, letting the remark speak for itself.
+- 'German Mikhailovich, do you feel better?' Senya probes plainly where this conversation is heading next.
+- 'You fell into a faint.' Highlighting a faint right here, Senya leans on "obmorok" ("faint") to give the whole sentence its punch.
+- 'What happened to me?' Pushing back boldly at once, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'There are strong magnetic storms today.' Senya proceeds openly around German, steering the talk right where he wants it.
+- 'Was I knocked out for a long time?' Bringing up a long time beside Senya, German chooses "otklyuchke" ("time") so Senya gets the point right away.
+- 'I am going to drive away for a bit now.' Cutting in openly to Max, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Hello, Kostya, call Nastya's dad.' Max reacts promptly without any doubt, to clear the air between them once and for all.
+- 'Have him drive back here.' Max speaks up evenly at once and brings in "yedet" ("is going", from "yekhat") as the key Russian word here.
+- 'Styopa forgot his mask at home.' Focusing on the mask on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'It is better to bring him back right now.' Max reacts lightly with a shrug, shifting the mood of the conversation in a single beat.
+- 'There is a boy here, two years old, named Roma.' Highlighting a boy right here, Max reaches for the Russian word "malchik" ("boy") right at the heart of the line.
+- 'And he has a shirt with a spider.' Bringing up a spider to German, Max brings in "paukom" ("spider", from "pauk") as the key Russian word here.

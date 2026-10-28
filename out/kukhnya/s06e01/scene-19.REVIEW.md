@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, I do not even know such illnesses.' Barinov grounds one key element at once: "bolezney" means "illnesses, diseases" (from "bolezn"), giving the line its exact edge.
-- 'Your body is very weak.' The doctor states the comeback briskly now: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'And your heart is weak.' The doctor replies firmly across the room, to clear the air between them once and for all.
-- 'A stroke does not pass without consequences.' The doctor points to this key touch toward Barinov: "prokhodit" means "passes", and it carries the main weight of what the doctor is saying.
-- 'And hallucinations do not appear out of nowhere.' The doctor delivers the remark calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And how much time do I have left?' Barinov wonders eagerly in front of the doctor without any preamble.
-- 'Maybe five years, or maybe a year.' The doctor spotlights this direct detail toward Barinov: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'You need to quit your job.' The doctor brings this statement with ease: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Quit completely?' Barinov presses wryly if there is more going on behind the scenes.
-- 'Cook calmly at home in your own kitchen.' The doctor features one sharp word right here: "spokoyno" means "calmly", and it carries the main weight of what the doctor is saying.
-- 'But no stresses at work.' The doctor continues quietly in this moment, refusing to let the moment slip past.
-- 'I heard you.' Barinov reacts evenly with the doctor, letting the remark speak for itself.
+- 'Come on, I do not even know such illnesses.' Discussing the illnesses right here, Barinov lands on "bolezney" ("illnesses, diseases", built on "bolezn") to keep the statement grounded.
+- 'Your body is very weak.' Bringing up the organism in the exchange, the doctor uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'And your heart is weak.' The doctor proceeds firmly without any doubt, watching Barinov's face to see how the news lands.
+- 'A stroke does not pass without consequences.' Emphasizing a stroke on the spot, the doctor uses "insult" ("stroke") to carry the main weight of the thought.
+- 'And hallucinations do not appear out of nowhere.' Pointing to the hallucinations during the talk, the doctor uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And how much time do I have left?' Barinov wonders eagerly to see how the doctor will answer on the spot.
+- 'Maybe five years, or maybe a year.' The doctor continues dryly in this moment, leaving no doubt about where he stands.
+- 'You need to quit your job.' Talking about the job with Barinov, the doctor leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Quit completely?' Barinov presses wryly while looking straight at the doctor here.
+- 'Cook calmly at home in your own kitchen.' Highlighting the kitchen to Barinov, the doctor centers the thought on "kukhne" ("kitchen", from "kukhnya") without wasting a word.
+- 'But no stresses at work.' Pointing to the stresses in the exchange, the doctor reaches for the Russian word "stressov" ("stresses", built from "stress") right at the center of the line.
+- 'I heard you.' Barinov reacts evenly with a smile, steering the talk right where he wants it.

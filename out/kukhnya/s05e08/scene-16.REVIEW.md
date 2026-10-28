@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of trick is this?' Timur spotlights one vivid choice on cue: "fokus" means "magic trick", and it carries the main weight of what Timur is saying.
-- 'It is a special surprise: culinary magic tricks.' Barinov gives this line without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Cover for me for a minute.' Barinov jumps in wryly with a shrug, keeping the focus on what actually matters here.
-- 'I know where Nastya is, Kostya!' Timur underscores this direct expression in reply: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'Where are we going? I want to go to karaoke!' Elena offers that line beside Barinov: putting the question word "kuda" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Let us go to the room while your husband is in the restaurant.' Timur pushes back frankly during the talk, leaving no doubt about where he stands.
-- 'The sheikh already went to his room.' Timur picks this clear touch at once: "sheykh" means "sheikh", and it carries the main weight of what Timur is saying.
-- 'Why did he leave so early?' Barinov delivers this warning in earnest: putting the question word "pochemu" right at the front of the line lets Timur hear the point of the question on the very first beat.
-- 'Well, he choked on a tomato.' Timur continues pointedly with a sigh, saying out loud what both of them already know.
-- 'We must save Katya urgently!' Barinov reaches for one vivid element on cue: "srochno" means "urgent, urgently", and it carries the main weight of what Barinov is saying.
-- 'Let me go, I want to sing!' Elena reacts quietly across the room, testing Barinov's reaction in the middle of the exchange.
-- 'Let us go upstairs faster!' Barinov replies sharply toward Timur, to clear the air between them once and for all.
+- 'What kind of trick is this?' Discussing the magic trick with Barinov, Timur centers the remark on "fokus" ("magic trick") without any extra fuss.
+- 'It is a special surprise: culinary magic tricks.' Noting how culinary things are at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Cover for me for a minute.' Barinov replies wryly without holding back, shifting the mood of the conversation in a single beat.
+- 'I know where Nastya is, Kostya!' Timur fires back firmly facing Barinov, watching Barinov's face to see how the news lands.
+- 'Where are we going? I want to go to karaoke!' Mentioning the karaoke right here, Elena puts the question word "kuda" right at the start so Timur hears the focus immediately.
+- 'Let us go to the room while your husband is in the restaurant.' Timur follows up frankly with a sigh, bringing things back to earth after the buildup.
+- 'The sheikh already went to his room.' Emphasizing the sheikh at once, Timur lands on "sheykh" ("sheikh") as the key everyday word here.
+- 'Why did he leave so early?' Replying quietly beside Timur, Barinov puts the question word "pochemu" right at the start so Timur hears the focus immediately.
+- 'Well, he choked on a tomato.' Timur follows up pointedly around Barinov, to clear the air between them once and for all.
+- 'We must save Katya urgently!' Barinov follows up dryly around Timur and centers the remark on "srochno" ("urgent, urgently") without any extra fuss.
+- 'Let me go, I want to sing!' Elena pushes back briskly to Barinov and uses "pustite" ("let, allow", from "pustit") to make the point stick.
+- 'Let us go upstairs faster!' Barinov counters sharply watching Elena, testing Elena's reaction in the middle of the exchange.

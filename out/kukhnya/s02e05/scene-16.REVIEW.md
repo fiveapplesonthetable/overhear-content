@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That football player from yesterday just arrived.' Max colors one classic piece for Barinov: "vcherashniy" means "yesterday's", and it carries the main weight of what Max is saying.
-- 'Do not be afraid.' Barinov offers the comment at once: the "-sya" ending on "boysya" ("be afraid") turns the action inward or makes it happen between people naturally.
-- 'Thank you for warning me.' Vika jumps in wryly beside Barinov, leaving no doubt about where she stands.
-- 'Chef, I hope you are not planning to poison him again?' Max picks one memorable detail on cue: "sobirayete" means "to collect" (from "sobirat"), giving the line its exact edge.
-- 'Lyova, I beg of you.' Barinov delivers the comment right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I did not even succeed before the match.' Vika reacts promptly with a smile, testing Max's reaction in the middle of the exchange.
-- 'Why would I do it now?' Max reaches for one practical expression right here: "seychas" means "now", and it carries the main weight of what Max is saying.
-- 'Now that is the right attitude, Viktor Petrovich.' Vika makes that point with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Oh, there he is.' Vika follows up openly with a sigh, bringing things back to earth after the buildup.
-- 'How are you feeling?' Max picks one familiar detail in reply: "chuvstvuyesh" means "feel" (from "chuvstvovat"), giving the line its exact edge.
-- 'Lavrov, I would advise you to lie back down.' Vika anchors one sharp detail on cue: "sovetovala" means "to advise, recommend" (from "sovetovat"), giving the line its exact edge.
-- 'All right, yes, let us get you into bed.' Vika replies earnestly to settle things, refusing to let the moment slip past.
-- 'Where is your hospital room?' Max stresses this direct term at once: "palata" means "hospital room", and it carries the main weight of what Max is saying.
+- 'That football player from yesterday just arrived.' Emphasizing the footballer beside Barinov, Max leans on "vcherashniy" ("yesterday's") to give the whole sentence its punch.
+- 'Do not be afraid.' Jumping in dryly in the exchange, the "-sya" ending on "boysya" ("be afraid") marks an action that unfolds mutually or turns back on the speaker.
+- 'Thank you for warning me.' Vika quietly voices this word of thanks at the start of the beat using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Chef, I hope you are not planning to poison him again?' Max answers calmly to Barinov and leans on "sobirayete" ("to collect", a form of "sobirat") to give the remark its edge.
+- 'Lyova, I beg of you.' Looking over readily to Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I did not even succeed before the match.' Vika continues promptly on the spot, leaving no doubt about where she stands.
+- 'Why would I do it now?' Looking over promptly before Vika, Max puts the question word "zachem" right at the start so Vika hears the focus immediately.
+- 'Now that is the right attitude, Viktor Petrovich.' Pushing back readily with Barinov, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Oh, there he is.' Vika chimes in openly across the room, making her position completely clear.
+- 'How are you feeling?' Max speaks up promptly with Vika and chooses "chuvstvuyesh" ("feel", from the root "chuvstvovat") so Vika hears the exact meaning.
+- 'Lavrov, I would advise you to lie back down.' Vika pushes back warmly during the talk, grounding the moment in plain reality.
+- 'All right, yes, let us get you into bed.' Vika readily offers this word of agreement in one quick breath using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Where is your hospital room?' Touching on the hospital room during the talk, Max uses "palata" ("hospital room") to carry the main weight of the thought.

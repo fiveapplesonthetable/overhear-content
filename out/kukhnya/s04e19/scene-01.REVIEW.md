@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The cooks will meet in a fair fight.' Nagiyev anchors one concrete expression toward Barinov: "chestnoy" means "honest" (from "chestnyy"), giving the line its exact edge.
-- 'Watch the main culinary show of the country.' Nagiyev jumps in lightly to be clear, watching Barinov's face to see how the news lands.
-- 'The grand prize is one million rubles.' Nagiyev chimes in earnestly to settle things, leaving no doubt about where he stands.
-- 'And the head chef spot at the best restaurant.' Nagiyev anchors this sharp term right here: "shef-povara" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'The owner of this restaurant is me.' Nagiyev weighs in bluntly hearing Barinov, to clear the air between them once and for all.
-- 'My name is Dmitry Nagiyev.' Nagiyev reacts boldly with a shrug, watching Barinov's face to see how the news lands.
-- 'I wish everyone bon appetit.' Nagiyev favors one direct piece for Barinov: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
-- 'Why are we keeping so quiet?' Nagiyev delivers the reaction briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Our ship has been left without a captain.' Nagiyev replies steadily across the room, so Barinov knows he is not just making small talk.
-- 'A great thought came to me in the night.' Nagiyev uses one vivid piece right here: "otlichnaya" means "excellent" (from "otlichnyy"), giving the line its exact edge.
-- 'We will organize a popular television show.' Nagiyev proceeds sharply across the room, shifting the whole mood of the room in a single beat.
-- 'And we will find a new head chef too.' Barinov pushes back openly around Nagiyev, before Nagiyev can change the subject.
+- 'The cooks will meet in a fair fight.' Focusing on the cook before Barinov, Nagiyev centers the thought on "chestnoy" ("honest", from "chestnyy") without wasting a word.
+- 'Watch the main culinary show of the country.' Focusing on the show right here, Nagiyev lands on "kulinarnoye" ("culinary, cooking", built on "kulinarnyy") to keep the statement grounded.
+- 'The grand prize is one million rubles.' Nagiyev opens up earnestly in this moment, grounding the moment in plain reality.
+- 'And the head chef spot at the best restaurant.' Pointing to the head in this beat, Nagiyev puts the weight on "shef-povara" ("head chef", from "shef-povar") as the exchange unfolds.
+- 'The owner of this restaurant is me.' Touching on the owner around Barinov, Nagiyev reaches for the Russian word "khozyainom" ("owner, proprietor", built from "khozyain") right at the center of the line.
+- 'My name is Dmitry Nagiyev.' Nagiyev follows up boldly hearing Barinov, refusing to let the moment slip past.
+- 'I wish everyone bon appetit.' Addressing the appetite around Barinov, Nagiyev centers the thought on "priyatnogo" ("pleasant", from "priyatnyy") without wasting a word.
+- 'Why are we keeping so quiet?' Replying calmly in the exchange, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Our ship has been left without a captain.' Nagiyev speaks up steadily with a sigh, making his position completely clear.
+- 'A great thought came to me in the night.' Mentioning the night with Barinov, Nagiyev brings in "otlichnaya" ("excellent", from "otlichnyy") as the key Russian word here.
+- 'We will organize a popular television show.' Highlighting the show right here, Nagiyev brings in "televizionnoye" ("television", from "televizionnyy") as the key Russian word here.
+- 'And we will find a new head chef too.' Barinov reacts openly around Nagiyev, bringing things back to earth after the buildup.

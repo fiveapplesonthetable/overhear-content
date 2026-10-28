@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why on earth did you come here today?' Nagiyev centers this clear word in reply: "priyekhala" means "came, arrived" (from "priyekhat"), giving the line its exact edge.
-- 'And a big hello to you too, my dear Dimochka.' Kristina delivers the comment calmly now: opening with the casual greeting "privet" ("hi") signals right away that Kristina and Nagiyev are on familiar terms.
-- 'I simply missed you very much.' Kristina stands firm calmly with a shrug, testing Nagiyev's reaction in the middle of the exchange.
-- 'Tell me quickly, what do you want from me?' Nagiyev favors one clear term in earnest: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
-- 'I need you for an hour or two.' Kristina centers one vivid term for Nagiyev: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'My lawful wife walks around right near here!' Nagiyev steps in frankly before Kristina, testing Kristina's reaction in the middle of the exchange.
-- 'This entire hotel belongs to her!' Nagiyev anchors one direct word at once: "prinadlezhit" means "belongs" (from "prinadlezhat"), giving the line its exact edge.
-- 'And what will happen if she sees us?' Kristina gives this answer with candor: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'I beg you, behave quietly!' Nagiyev speaks up wryly without holding back, so Kristina knows he is not just making small talk.
-- 'I told you yesterday, no more meetings.' Nagiyev frames one clear touch at once: "vstrech" means "meeting" (from "vstrecha"), giving the line its exact edge.
-- 'Dima, you are telling me that for the third time.' Kristina frames this clear detail toward Nagiyev: "tretiy" means "the third", and it carries the main weight of what Kristina is saying.
-- 'Then your husband will be very displeased!' Nagiyev stands firm calmly without holding back, saying out loud what both of them already know.
+- 'Why on earth did you come here today?' Nagiyev jumps in directly in front of Kristina and lands on "priyekhala" ("came, arrived", built on "priyekhat") to keep the statement grounded.
+- 'And a big hello to you too, my dear Dimochka.' Kristina proceeds quietly beside Nagiyev, making her position completely clear.
+- 'I simply missed you very much.' Kristina jumps in calmly during the talk, bringing things back to earth after the buildup.
+- 'Tell me quickly, what do you want from me?' Nagiyev reacts readily in the exchange and puts the weight on "bystreye" ("faster", from "bystro") as the exchange unfolds.
+- 'I need you for an hour or two.' Kristina answers firmly without any doubt, to clear the air between them once and for all.
+- 'My lawful wife walks around right near here!' Nagiyev speaks frankly facing Kristina, without trying to dress up how he really feels.
+- 'This entire hotel belongs to her!' Focusing on the hotel around Kristina, Nagiyev lands on "prinadlezhit" ("belongs", built on "prinadlezhat") to keep the statement grounded.
+- 'And what will happen if she sees us?' Holding firm evenly beside Nagiyev, Kristina puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'I beg you, behave quietly!' Nagiyev counters wryly hearing Kristina, without trying to dress up how he really feels.
+- 'I told you yesterday, no more meetings.' Mentioning the meeting in this beat, Nagiyev centers the thought on "vstrech" ("meeting", from "vstrecha") without wasting a word.
+- 'Dima, you are telling me that for the third time.' Kristina follows up evenly across the room, before Nagiyev can change the subject.
+- 'Then your husband will be very displeased!' Nagiyev counters calmly beside Kristina, grounding the moment in plain reality.

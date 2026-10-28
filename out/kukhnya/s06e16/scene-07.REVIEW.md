@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is your secret delicious dinner to the room.' Senya anchors one concrete choice in reply: "sekretnyy" means "secret", and it carries the main weight of what Senya is saying.
-- 'What real beauty and charm this is!' Fedya brings this statement on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'By the way, we should settle up now.' Senya reacts briskly without any doubt, refusing to let the moment slip past.
-- 'Is one steak too little for this?' Fedya highlights this vivid term in reply: "slishkom" means "too", and it carries the main weight of what Fedya is saying.
-- 'Feed me a couple more times tomorrow.' Senya continues right away with a nod, without trying to dress up how he really feels.
-- 'And then we will settle up with you.' Senya holds firm quietly during the talk, before Fedya can change the subject.
-- 'Alright, we will calmly be patient until tomorrow.' Fedya sharpens this sharp element right here: "spokoyno" means "calmly", and it carries the main weight of what Fedya is saying.
-- 'Mister designer, please come in to see us.' Barinov directs this answer before Senya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Tell me, do you have a minute right now?' Barinov prompts openly before Fedya can change the subject.
-- 'Of course, what a pleasant smell in the kitchen!' Senya grounds one pointed word in earnest: "priyatnyy" means "nice, pleasant", and it carries the main weight of what Senya is saying.
-- 'Look over there, is that your famous singer?' Senya hands over the comeback briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Yes, that is my beloved future wife.' Barinov continues boldly with a sigh, grounding the moment in plain reality.
+- 'Here is your secret delicious dinner to the room.' Underscoring how secret things are before Fedya, Senya reaches for the Russian word "sekretnyy" ("secret") right at the heart of the line.
+- 'What real beauty and charm this is!' Highlighting how real things are at once, Fedya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'By the way, we should settle up now.' Senya reacts briskly on the spot, bringing things back to earth after the buildup.
+- 'Is one steak too little for this?' Bringing up the steak during the talk, Fedya leans on "steyk" ("steak") to give the whole sentence its punch.
+- 'Feed me a couple more times tomorrow.' Touching on a couple beside Fedya, Senya chooses "pokormite" ("to feed", from the root "pokormit") so Fedya hears the exact meaning.
+- 'And then we will settle up with you.' Senya pushes back quietly with a nod, so Fedya knows he is not just making small talk.
+- 'Alright, we will calmly be patient until tomorrow.' Fedya fires back briskly beside Senya and uses "spokoyno" ("calmly") to carry the main weight of the thought.
+- 'Mister designer, please come in to see us.' Turning to the fashion designer right here, Barinov uses "gospodin" ("Mr, sir") to carry the main weight of the thought.
+- 'Tell me, do you have a minute right now?' Barinov prompts openly before Senya can change the subject.
+- 'Of course, what a pleasant smell in the kitchen!' Talking about a pleasant smell in the exchange, Senya uses "priyatnyy" ("nice, pleasant") to carry the main weight of the thought.
+- 'Look over there, is that your famous singer?' Showing how famous things are in this beat, Senya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Yes, that is my beloved future wife.' Barinov reacts boldly with a smile, to clear the air between them once and for all.

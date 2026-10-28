@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have had enough.' Barinov chooses one colorful detail in earnest: "khvatit" means "enough", and it carries the main weight of what Barinov is saying.
-- 'I will not do anything more.' Barinov states the thought without pause: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I will tell Eleonora everything myself right now.' Barinov follows up lightly as they talk, before Katya can change the subject.
-- 'Let's celebrate your return, Denis.' Senya underscores one concrete expression at once: "vozvrashcheniye" means "return", and it carries the main weight of what Senya is saying.
-- 'What return?' Katya directs this update beside Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'I will not stay here long.' Katya speaks decisively around Senya, to clear the air between them once and for all.
-- 'And I thought you would come back for good.' Senya focuses on one vivid touch in reply: "vernyoshsya" means "you come back" (from "vernutsya"), giving the line its exact edge.
-- 'Katya talked to her mom because of you.' Senya frames one sharp element in reply: "pogovorila" means "talked, had a talk" (from "pogovorit"), giving the line its exact edge.
-- 'Yes, she pleaded for you.' Senya holds firm pointedly beside Barinov, saying out loud what both of them already know.
-- 'She said, do not meddle in my personal life.' Katya reaches for one pointed term at once: "lichnuyu" means "personal" (from "lichnyy"), giving the line its exact edge.
-- 'She still loves you, I am telling you for sure.' Senya chooses one colorful choice with Barinov: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
-- 'I do not know, we will see.' Katya proceeds evenly beside Senya, so Senya knows she is not just making small talk.
+- 'I have had enough.' Barinov cuts in decisively on the spot and puts the emphasis on "khvatit" ("enough") in the middle of the talk.
+- 'I will not do anything more.' Looking over openly around Senya, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I will tell Eleonora everything myself right now.' Barinov opens up lightly during the talk, leaving no doubt about where he stands.
+- 'Let's celebrate your return, Denis.' Focusing on the return right here, Senya chooses "vozvrashcheniye" ("return") so Barinov gets the point right away.
+- 'What return?' Checking on the return right here, Katya keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'I will not stay here long.' Katya weighs in right away without any doubt, without trying to dress up how she really feels.
+- 'And I thought you would come back for good.' Senya replies plainly around Katya and chooses "vernyoshsya" ("you come back", from the root "vernutsya") so Katya hears the exact meaning.
+- 'Katya talked to her mom because of you.' Senya proceeds plainly on the spot, keeping the focus on what actually matters here.
+- 'Yes, she pleaded for you.' Senya opens up pointedly hearing Katya, making his position completely clear.
+- 'She said, do not meddle in my personal life.' Mentioning the life in this beat, Katya lands on "lichnuyu" ("personal", built on "lichnyy") to keep the statement grounded.
+- 'She still loves you, I am telling you for sure.' Senya chimes in quietly in their talk, grounding the moment in plain reality.
+- 'I do not know, we will see.' Katya replies evenly on the spot, leaving no doubt about where she stands.

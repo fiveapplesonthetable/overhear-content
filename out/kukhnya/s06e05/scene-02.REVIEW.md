@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, my friend is in here.' Barinov replies pointedly around Kostya, steering the talk right where he wants it.
-- 'Vitya, is it really you who came?' Mikhail asks curiously where this conversation is heading next.
-- 'Can you imagine, I lost everything.' Mikhail focuses on one colorful element for Barinov: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'I lost everything that I had.' Mikhail states that point with warmth: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Why did I even sit down to play with him?' Mikhail questions wryly how Barinov expects that to work in practice.
-- 'Did you not win him too?' Barinov colors this vivid piece right here: "samogo" means "the very" (from "samyy"), giving the line its exact edge.
-- 'Too bad, then I am taking him away.' Barinov frames that point frankly here: the single Russian word "zhal" ("it is a pity") sets up the whole statement without needing a separate word for "it is".
-- 'Nastya, you forgot your phone at home.' Kostya pushes back bluntly as things stand, making his position completely clear.
-- 'Thank you very much, my dear.' Barinov emphasizes this clear touch in reply: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Tell me the truth, please.' Kostya aims that thought right away: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'The guests at the table are already waiting.' Barinov reacts evenly with a shrug, saying out loud what both of them already know.
-- 'Go quickly and take their order.' Barinov spotlights one direct word toward Mikhail: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
+- 'Excuse me, my friend is in here.' Touching on the forgiveness on the spot, Barinov chooses "proshcheniya" ("forgiveness", from the root "proshcheniye") so Mikhail hears the exact meaning.
+- 'Vitya, is it really you who came?' Mikhail asks curiously why things suddenly took this turn between them.
+- 'Can you imagine, I lost everything.' Mikhail jumps in promptly with Barinov and reaches for the Russian word "predstavlyayesh" ("can you imagine", built from "predstavlyat") right at the center of the line.
+- 'I lost everything that I had.' Mikhail continues calmly without any doubt, testing Barinov's reaction in the middle of the exchange.
+- 'Why did I even sit down to play with him?' Mikhail questions wryly while looking straight at Barinov here.
+- 'Did you not win him too?' Barinov proceeds pointedly before Mikhail and lands on "samogo" ("the very", built on "samyy") to keep the statement grounded.
+- 'Too bad, then I am taking him away.' Answering plainly in the exchange, Barinov leans on "zhal" ("it is a pity"), which carries the whole predicate in Russian without needing "it is".
+- 'Nastya, you forgot your phone at home.' Kostya follows up bluntly in this moment, bringing things back to earth after the buildup.
+- 'Thank you very much, my dear.' Barinov politely chooses this word of thanks at the start of the beat using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Tell me the truth, please.' Kostya simply drops this courtesy word in one quick breath using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'The guests at the table are already waiting.' Barinov opens up evenly during the talk, watching Kostya's face to see how the news lands.
+- 'Go quickly and take their order.' Addressing the order on the spot, Barinov leans on "bystreye" ("faster", a form of "bystro") to give the remark its edge.

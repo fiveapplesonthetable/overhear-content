@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom, forgive me, I really felt like having some.' Lyova counters plainly in this moment, so Denis knows he is not just making small talk.
-- 'You yourself said that it is unhealthy.' Lyova frames one classic word right here: "govorila" means "said" (from "govorit"), giving the line its exact edge.
-- 'Now can I even eat potato chips?' Lyova makes this line right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Mom, what does my child have to do with this?' Lyova quizzes evenly while looking straight at Nagiyev here.
-- 'But she did not spend the night at my place.' Lyova reaches for one direct detail toward Denis: "nochevala" means "to spend the night" (from "nochevat"), giving the line its exact edge.
-- 'Dmitry Vladimirovich, will you be able to repeat that?' Denis voices the reaction toward Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'Of course, I know that I can.' Nagiyev opens up decisively as they talk, without trying to dress up how he really feels.
-- 'Watch my finger closely.' Denis uses this sharp word toward Nagiyev: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Denis is saying.
-- 'I got it, let's play in four hands!' Denis brings the reaction in earnest: the word "davayte" is the polite or group version of "let's", inviting Lyova into the plan right away.
-- 'I will begin, and you will join in.' Denis continues plainly to settle things, grounding the moment in plain reality.
-- 'Nice, our music is working out!' Nagiyev anchors one vivid term in reply: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
-- 'I already like this very much.' Nagiyev aims the thought before Lyova: the "-sya" ending on "nravitsya" ("is pleasing") turns the action inward or makes it happen between people naturally.
+- 'Mom, forgive me, I really felt like having some.' Lyova fires back plainly without holding back, so Denis knows he is not just making small talk.
+- 'You yourself said that it is unhealthy.' Lyova counters decisively beside Denis and puts the emphasis on "vredno" ("harmful, bad for you") in the middle of the talk.
+- 'Now can I even eat potato chips?' Returning to the chips in the exchange, Lyova keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Mom, what does my child have to do with this?' Lyova quizzes evenly how Denis expects that to work in practice.
+- 'But she did not spend the night at my place.' Lyova reacts decisively with Denis and centers the thought on "nochevala" ("to spend the night", from "nochevat") without wasting a word.
+- 'Dmitry Vladimirovich, will you be able to repeat that?' Pressing on boldly in front of Nagiyev, Denis keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Of course, I know that I can.' Nagiyev briskly voices this confirmation in the exchange using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Watch my finger closely.' Bringing up his finger in the exchange, Denis chooses "vnimatelno" ("carefully, attentively") so Nagiyev gets the point right away.
+- 'I got it, let's play in four hands!' Talking about the hands on the spot, Denis uses the polite or group form "davayte" ("let's") to bring Nagiyev into the plan.
+- 'I will begin, and you will join in.' Denis reacts plainly hearing Nagiyev, refusing to let the moment slip past.
+- 'Nice, our music is working out!' Emphasizing his music on the spot, Nagiyev brings in "poluchayetsya" ("works out", from "poluchatsya") as the key Russian word here.
+- 'I already like this very much.' Weighing in directly right here, the "-sya" ending on "nravitsya" ("is pleasing") marks an action that unfolds mutually or turns back on the speaker.

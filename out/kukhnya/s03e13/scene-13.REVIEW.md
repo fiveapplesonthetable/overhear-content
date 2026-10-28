@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In short, Katya, I got the wrong guy drunk.' Max frames this key term with Katya: "koroche" means "long story short", and it carries the main weight of what Max is saying.
-- 'Listen, you have a habit of plying the wrong people with drinks.' Katya delivers that line before Vika: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'In short, Katya, I got the wrong guy drunk.' Max answers sharply with Katya and chooses "koroche" ("long story short") so Katya gets the point right away.
+- 'Listen, you have a habit of plying the wrong people with drinks.' Talking about a habit around Max, Katya uses "u tebya" (literally "by you") where English says "you have" or "your".
 - 'I am speaking seriously, what should we do?' Max quizzes quietly about what Katya just brought up.
-- 'We have to go and confess honestly.' Katya sharpens this clear word at once: "priznavatsya" means "to confess", and it carries the main weight of what Katya is saying.
-- 'You have to know how to confess, let's go.' Katya sends this update with candor: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Congratulations, Vitya, your daughter and Max robbed the bar.' Vika steps in earnestly with a shrug, testing Max's reaction in the middle of the exchange.
-- 'Wait until Dima gets here.' Vika sharpens this sharp expression in earnest: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'He will gladly have a laugh with you.' Vika chimes in briskly toward Max, shifting the whole mood of the room in a single beat.
-- 'Forgive us, please, it was us.' Max follows up briskly as they talk, saying out loud what both of them already know.
-- 'We already know all about it.' Vika leans on one sharp word in reply: "kurse" means "course, regimen" (from "kurs"), giving the line its exact edge.
-- 'Why did you not tell us right away?' Vika puts this point without pause: putting the question word "pochemu" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Honestly speaking, we did not remember right away.' Katya replies dryly during the talk, so Vika knows she is not just making small talk.
-- 'That is it, I am calling Dmitry Vladimirovich.' Vika spotlights one clear piece for Katya: "zvonyu" means "call" (from "zvonit"), giving the line its exact edge.
+- 'We have to go and confess honestly.' Katya fires back smoothly to Max and lands on "priznavatsya" ("to confess") as the key everyday word here.
+- 'You have to know how to confess, let's go.' Reacting openly with Vika, Katya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Congratulations, Vitya, your daughter and Max robbed the bar.' Vika fires back earnestly with a shrug, leaving no doubt about where she stands.
+- 'Wait until Dima gets here.' Vika responds promptly beside Katya and centers the thought on "podozhdi" ("wait", from "podozhdat") without wasting a word.
+- 'He will gladly have a laugh with you.' Mentioning the pleasure during the talk, Vika chooses "udovolstviyem" ("pleasure", from the root "udovolstviye") so Max hears the exact meaning.
+- 'Forgive us, please, it was us.' Max politely chooses this formal apology while facing Vika using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'We already know all about it.' Addressing the course at once, Vika centers the thought on "kurse" ("course, regimen", from "kurs") without wasting a word.
+- 'Why did you not tell us right away?' Reacting smoothly beside Katya, Vika puts the question word "pochemu" right at the start so Katya hears the focus immediately.
+- 'Honestly speaking, we did not remember right away.' Katya counters dryly during the talk, grounding the moment in plain reality.
+- 'That is it, I am calling Dmitry Vladimirovich.' Vika counters plainly beside Katya and reaches for the Russian word "zvonyu" ("call", built from "zvonit") right at the center of the line.

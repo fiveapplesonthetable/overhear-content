@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, here is your Stepan.' Max pushes back evenly watching Barinov, before Barinov can change the subject.
-- 'Let's make a swap.' Max frames one colorful expression toward Fedya: "sdelayem" means "we'll do" (from "sdelat"), giving the line its exact edge.
-- 'This is a completely different boy.' Max voices this answer at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Children cannot change that fast.' Max stands firm plainly with a nod, leaving no doubt about where he stands.
-- 'Take off the mask and take a look.' Max uses one memorable term right here: "posmotrite" means "look" (from "posmotret"), giving the line its exact edge.
-- 'Where is my grandson then?' Max delivers this update frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We lifted the safe, careful!' Barinov speaks up bluntly with a nod, saying out loud what both of them already know.
-- 'We go around the table carefully on the right.' Fedya anchors this direct element at once: "akkuratno" means "carefully, gently", and it carries the main weight of what Fedya is saying.
-- 'Chef, you could help us instead!' Fedya opens up pointedly hearing Barinov, refusing to let the moment slip past.
-- 'Actually, that is exactly what I am doing.' Barinov speaks lightly with a sigh, making his position completely clear.
-- 'Bring it this way, pull toward yourself.' Fedya picks one concrete expression at once: "davay" means "let's" (from "davat"), giving the line its exact edge.
-- 'That is it, we are done for!' Fedya drops this line for Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, here is your Stepan.' Max chimes in evenly without holding back, without trying to dress up how he really feels.
+- 'Let's make a swap.' Mentioning the exchange around Barinov, Max leans on "sdelayem" ("we'll do", a form of "sdelat") to give the remark its edge.
+- 'This is a completely different boy.' Touching on the boy before Barinov, Max adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Children cannot change that fast.' Max fires back plainly with a sigh, watching Barinov's face to see how the news lands.
+- 'Take off the mask and take a look.' Bringing up the mask to Barinov, Max centers the thought on "masku" ("mask", from "maska") without wasting a word.
+- 'Where is my grandson then?' Pointing to his grandson beside Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We lifted the safe, careful!' Barinov jumps in bluntly beside Max, bringing things back to earth after the buildup.
+- 'We go around the table carefully on the right.' Pointing to the table during the talk, Fedya brings in "akkuratno" ("carefully, gently") to make the meaning unmistakable.
+- 'Chef, you could help us instead!' Fedya fires back vividly with Barinov and leans on "pomogli" ("helped", a form of "pomoch") to give the remark its edge.
+- 'Actually, that is exactly what I am doing.' Barinov speaks lightly watching Fedya, bringing things back to earth after the buildup.
+- 'Bring it this way, pull toward yourself.' Fedya weighs in smoothly before Barinov and brings in "davay" ("let's", from "davat") as the key Russian word here.
+- 'That is it, we are done for!' Talking about the end during the talk, Fedya links the Russian words directly in the present with no word for "am", "is", or "are" needed.

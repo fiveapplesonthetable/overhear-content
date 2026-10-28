@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what kind of meat is this?' The guest sends this warning beside Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'This is the most tender meat from an old French recipe, pork!' Max cuts in honestly to settle things, making his position completely clear.
-- 'Oops, I mixed it up, this dish is not for you!' Max underscores this key piece on cue: "pereputal" means "mixed up, confused" (from "pereputat"), giving the line its exact edge.
-- 'I will finish stuffing it in there right now and come right back.' Max chimes in lightly hearing the guest, bringing things back to earth after the buildup.
-- 'You have six seconds, we are by the car.' The guest jumps in decisively facing Barinov, leaving no doubt about where he stands.
-- 'Leave my daughter alone immediately!' Barinov chooses this direct element toward Max: "nemedlenno" means "immediately", and it carries the main weight of what Barinov is saying.
-- 'So, pops, did you bring the money?' Max directs that line with candor: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Here is a fist for you, not money!' Barinov steps in earnestly with a smile, bringing things back to earth after the buildup.
-- 'If I see you with Katya again, I will shove your legs in your mouth!' Barinov focuses on one key expression on cue: "zapikhayu" means "will shove" (from "zapikhat"), giving the line its exact edge.
-- 'Dad, let him go, he just came to talk!' Max states this answer plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Katya, do not listen to him, he wanted to get money!' Barinov chimes in calmly on the spot, bringing things back to earth after the buildup.
-- 'I did not want to touch him, he provoked me!' Barinov frames one key element in reply: "sprovotsiroval" means "provoked" (from "sprovotsirovat"), giving the line its exact edge.
+- 'Tell me, what kind of meat is this?' Dwelling on the meat beside Max, the guest puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'This is the most tender meat from an old French recipe, pork!' Max continues honestly facing the guest, leaving no doubt about where he stands.
+- 'Oops, I mixed it up, this dish is not for you!' Emphasizing the dish around the guest, Max centers the thought on "pereputal" ("mixed up, confused", from "pereputat") without wasting a word.
+- 'I will finish stuffing it in there right now and come right back.' Max weighs in decisively with the guest and leans on "dofarshiruyu" ("will finish stuffing", a form of "dofarshirovat") to give the remark its edge.
+- 'You have six seconds, we are by the car.' The guest fires back decisively with a nod, steering the talk right where he wants it.
+- 'Leave my daughter alone immediately!' Addressing his daughter before the guest, Barinov uses "nemedlenno" ("immediately") to carry the main weight of the thought.
+- 'So, pops, did you bring the money?' Opening up frankly with Barinov, Max puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Here is a fist for you, not money!' Barinov speaks earnestly across the room, so Max knows he is not just making small talk.
+- 'If I see you with Katya again, I will shove your legs in your mouth!' Highlighting the legs during the talk, Barinov uses "zapikhayu" ("will shove", from "zapikhat") to make the point stick.
+- 'Dad, let him go, he just came to talk!' Bringing up the dad around Barinov, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Katya, do not listen to him, he wanted to get money!' Barinov answers calmly without any doubt, letting the remark speak for itself.
+- 'I did not want to touch him, he provoked me!' Barinov weighs in candidly before Max and lands on "sprovotsiroval" ("provoked", built on "sprovotsirovat") to keep the statement grounded.

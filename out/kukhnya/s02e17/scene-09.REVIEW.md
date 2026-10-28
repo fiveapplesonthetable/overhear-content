@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How are you feeling today?' Elena challenges openly what Max is actually getting at here.
-- 'Thank you, quite well.' Max emphasizes one pointed detail at once: "spasibo" means "thank you", and it carries the main weight of what Max is saying.
-- 'Nothing is bothering you?' Elena aims the reaction frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'No, everything is fine.' Max replies promptly to be clear, bringing things back to earth after the buildup.
-- 'You mentioned that you needed a banquet, right?' Elena chooses this vivid word in reply: "govorili" means "talked" (from "govorit"), giving the line its exact edge.
-- 'Well, Elena told me.' Max sends the thought briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'How are you feeling today?' Elena challenges openly how Max expects that to work in practice.
+- 'Thank you, quite well.' Max promptly chooses this word of thanks for Elena using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Nothing is bothering you?' Reacting evenly during the talk, Elena pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'No, everything is fine.' Max steps in promptly during the talk, testing Elena's reaction in the middle of the exchange.
+- 'You mentioned that you needed a banquet, right?' Addressing a banquet right here, Elena centers the thought on "nuzhen" ("is needed", from "nuzhnyy") without wasting a word.
+- 'Well, Elena told me.' Weighing in evenly to Elena, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
 - 'Wait a second. What is going on here?' Elena asks plainly where this conversation is heading next.
-- 'Now, now, Vitya, calm down.' Max sends that point to Elena: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'After all, otherwise...' Elena hands over this update toward Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Sit down at this damn table right now!' Max chimes in calmly as things stand, leaving no doubt about where he stands.
-- 'If you do not learn to control your anger.' Elena chooses one classic touch toward Max: "kontrolirovat" means "to keep an eye on", and it carries the main weight of what Elena is saying.
-- 'Then what am I supposed to do?' Max directs this update right away: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'No. I have one special method.' Elena reacts frankly without any doubt, making her position completely clear.
+- 'Now, now, Vitya, calm down.' Leaning in candidly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'After all, otherwise...' Mentioning the ends to Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Sit down at this damn table right now!' Max chimes in calmly without a pause, making his position completely clear.
+- 'If you do not learn to control your anger.' Discussing the anger in this beat, Elena centers the remark on "kontrolirovat" ("to keep an eye on") without any extra fuss.
+- 'Then what am I supposed to do?' Pushing back evenly during the talk, Max puts the question word "chto" right at the start so Elena hears the focus immediately.
+- 'No. I have one special method.' Elena responds frankly facing Max, bringing things back to earth after the buildup.

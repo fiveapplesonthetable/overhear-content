@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you should not have insulted Nagiyev.' Senya favors one familiar term in reply: "oskorblyat" means "to insult", and it carries the main weight of what Senya is saying.
-- 'And nobody gave you the floor to speak.' Barinov shares this answer facing Senya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Chef, all your problems come from your temper.' Senya responds frankly with a nod, saying out loud what both of them already know.
-- 'And nobody asked for your opinion either.' Barinov stresses this clear word in reply: "slova" means "words" (from "slovo"), giving the line its exact edge.
-- 'At least now you have no right to insult us.' Louis sends that thought plainly here: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
-- 'Keep quiet when grown men are sorting things out.' Barinov pushes back openly with a shrug, leaving no doubt about where he stands.
-- 'It is a good thing they fired you.' Louis emphasizes one classic piece in reply: "khorosho" means "good, fine", and it carries the main weight of what Louis is saying.
-- 'What did you just say?' Barinov makes that remark facing Senya: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'To hell with all of you.' Barinov speaks decisively with a nod, saying out loud what both of them already know.
-- 'Any restaurant will gladly hire me.' Barinov leans on one key piece toward Senya: "restoran" means "restaurant", and it carries the main weight of what Barinov is saying.
-- 'And you will rot here without me.' Barinov phrases that thought on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'The Chef walked out.' Senya counters candidly as they talk, so Louis knows he is not just making small talk.
+- 'Chef, you should not have insulted Nagiyev.' Senya jumps in earnestly with Barinov and brings in "oskorblyat" ("to insult") to make the meaning unmistakable.
+- 'And nobody gave you the floor to speak.' Discussing the words in the exchange, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Chef, all your problems come from your temper.' Senya continues frankly without a pause, bringing things back to earth after the buildup.
+- 'And nobody asked for your opinion either.' Touching on the words in front of Senya, Barinov leans on "slova" ("words", a form of "slovo") to give the remark its edge.
+- 'At least now you have no right to insult us.' Speaking openly around Barinov, Louis pivots with "zato" ("on the bright side, to make up for it") to flip a drawback into a plus.
+- 'Keep quiet when grown men are sorting things out.' Barinov cuts in openly in this moment, testing Louis's reaction in the middle of the exchange.
+- 'It is a good thing they fired you.' Louis speaks openly in the exchange and uses "khorosho" ("good, fine") to carry the main weight of the thought.
+- 'What did you just say?' Cutting in candidly at once, Barinov puts the question word "chto" right at the start so Louis hears the focus immediately.
+- 'To hell with all of you.' Barinov proceeds decisively without any doubt, bringing things back to earth after the buildup.
+- 'Any restaurant will gladly hire me.' Addressing the restaurant before Senya, Barinov uses "restoran" ("restaurant") to carry the main weight of the thought.
+- 'And you will rot here without me.' Opening up earnestly with Senya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'The Chef walked out.' Senya speaks candidly beside Barinov, steering the talk right where he wants it.

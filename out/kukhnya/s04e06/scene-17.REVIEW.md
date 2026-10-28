@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, give me the bottle, the important guest has arrived!' Nagiyev states the thought with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Why are you silent, give me my wine quickly!' Nagiyev pushes back right away before Max, making his position completely clear.
-- 'Kostya, is it time to carry this bottle to the hall already?' Max uses this sharp word in reply: "butylku" means "a bottle" (from "butylka"), giving the line its exact edge.
-- 'What on earth is going on with you here, guys?' Nagiyev states that point before Max: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Kostya asked us to keep your bottle in the storeroom.' Max stands firm wryly as things stand, refusing to let the moment slip past.
-- 'A lock accidentally broke at his bar.' Max colors one telling expression for Nagiyev: "sluchayno" means "by any chance", and it carries the main weight of what Max is saying.
-- 'Come on, carry it to the dining room very fast!' Nagiyev delivers that point facing Kostya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Do you even understand who is sitting in the hall today?' Nagiyev prompts plainly as Max tries to explain the situation.
-- 'That is the very best sommelier in all of Moscow!' Nagiyev chooses one memorable touch in earnest: "luchshiy" means "best", and it carries the main weight of what Nagiyev is saying.
-- 'I want to lure him over to our restaurant.' Nagiyev steps in right away with a smile, refusing to let the moment slip past.
-- 'Let him drink some of our good elite wine today!' Nagiyev proceeds right away with a sigh, shifting the whole mood of the room in a single beat.
-- 'Vika, did the courier finally bring your new wine?' Kostya favors one vivid expression on cue: "kuryer" means "courier, errand boy", and it carries the main weight of what Kostya is saying.
-- 'Too late, Kostya has already opened my bottle!' Max weighs in dryly as things stand, leaving no doubt about where he stands.
+- 'Kostya, give me the bottle, the important guest has arrived!' Bringing up the bottle in the exchange, Nagiyev starts with "davay" ("come on, let's") to invite Kostya right into the action.
+- 'Why are you silent, give me my wine quickly!' Nagiyev pushes back right away with a sigh, making his position completely clear.
+- 'Kostya, is it time to carry this bottle to the hall already?' Touching on the bottle in the exchange, Max reaches for the Russian word "butylku" ("a bottle", built from "butylka") right at the center of the line.
+- 'What on earth is going on with you here, guys?' Reacting directly in this beat, Nagiyev puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Kostya asked us to keep your bottle in the storeroom.' Max steps in wryly facing Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'A lock accidentally broke at his bar.' Focusing on the bar in front of Nagiyev, Max puts the emphasis on "sluchayno" ("by any chance") in the middle of the talk.
+- 'Come on, carry it to the dining room very fast!' Talking about the hall on the spot, Nagiyev starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'Do you even understand who is sitting in the hall today?' Nagiyev prompts plainly whether Max really thought this through.
+- 'That is the very best sommelier in all of Moscow!' Insisting on how best things are to Max, Nagiyev uses "luchshiy" ("best") to carry the main weight of the thought.
+- 'I want to lure him over to our restaurant.' Mentioning his restaurant right here, Nagiyev reaches for the Russian word "restoran" ("restaurant") right at the heart of the line.
+- 'Let him drink some of our good elite wine today!' Nagiyev weighs in right away around Kostya, steering the talk right where he wants it.
+- 'Vika, did the courier finally bring your new wine?' Talking about the courier on the spot, Kostya chooses "kuryer" ("courier, errand boy") so Max gets the point right away.
+- 'Too late, Kostya has already opened my bottle!' Underscoring his bottle on the spot, Max chooses "butylku" ("a bottle", from the root "butylka") so Kostya hears the exact meaning.

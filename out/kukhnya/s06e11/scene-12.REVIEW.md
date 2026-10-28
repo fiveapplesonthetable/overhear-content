@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, Katya, this is simply a serious warning.' The guest weighs in firmly to settle things, so Barinov knows he is not just making small talk.
-- 'My plans for my only son are more ambitious.' The guest underscores one familiar choice at once: "yedinstvennogo" means "only, sole" (from "yedinstvennyy"), giving the line its exact edge.
-- 'Than marrying him off to a mere simple cook.' The guest speaks steadily on the spot, saying out loud what both of them already know.
-- 'Did you already go to the bank for the money?' The guest questions wryly while looking straight at Katya here.
-- 'Great, now take the envelope to the hotel to Valentin Barinov.' The guest picks this clear choice in reply: "konvert" means "the envelope", and it carries the main weight of what the guest is saying.
-- 'And where exactly can I find him there?' Katya delivers this statement right away: putting the question word "gde" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'Hello, yes, I am listening to you very carefully.' Barinov replies evenly hearing the guest, leaving no doubt about where he stands.
-- 'Hello, take this, this is for you from Andrey Nikolaevich.' The guest underscores this clear word with Katya: "zdravstvuyte" means "hello", and it carries the main weight of what the guest is saying.
-- 'Thank you, and are you sure that this is for me?' Barinov puts that answer at once: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Of course, after all you are Mr. Barinov Valentin, right?' The guest probes bluntly about what Katya just brought up.
-- 'Yes, I am Barinov, hand your envelope over here.' Barinov features this telling choice with the guest: "konvert" means "the envelope", and it carries the main weight of what Barinov is saying.
-- 'Sorry for the trouble, have a good day today!' The guest delivers this statement for Katya: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as the guest steps in.
+- 'No, Katya, this is simply a serious warning.' The guest speaks firmly toward Katya, letting the remark speak for itself.
+- 'My plans for my only son are more ambitious.' Explaining how ambitious things are around Katya, the guest uses "yedinstvennogo" ("only, sole", from "yedinstvennyy") to make the point stick.
+- 'Than marrying him off to a mere simple cook.' Touching on the cook in this beat, the guest leans on "prostom" ("simple, ordinary", a form of "prostoy") to give the remark its edge.
+- 'Did you already go to the bank for the money?' The guest questions wryly how Katya expects that to work in practice.
+- 'Great, now take the envelope to the hotel to Valentin Barinov.' Emphasizing the envelope at once, the guest uses "konvert" ("the envelope") to carry the main weight of the thought.
+- 'And where exactly can I find him there?' Stepping in dryly in this beat, Katya puts the question word "gde" right at the start so Barinov hears the focus immediately.
+- 'Hello, yes, I am listening to you very carefully.' Barinov speaks evenly in this moment, letting the remark speak for itself.
+- 'Hello, take this, this is for you from Andrey Nikolaevich.' The guest reacts decisively at once and leans on "zdravstvuyte" ("hello") to give the whole sentence its punch.
+- 'Thank you, and are you sure that this is for me?' Turning to the thank on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Of course, after all you are Mr. Barinov Valentin, right?' The guest probes bluntly about what Barinov just brought up.
+- 'Yes, I am Barinov, hand your envelope over here.' Highlighting the envelope beside the guest, Barinov lands on "konvert" ("the envelope") as the key everyday word here.
+- 'Sorry for the trouble, have a good day today!' The guest answers plainly across the room, keeping the focus on what actually matters here.

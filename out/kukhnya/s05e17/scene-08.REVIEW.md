@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have an order for you.' Katya offers the comeback right away: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Interesting, what kind of order do you have?' Nikita probes quietly while looking straight at Nagiyev here.
-- 'You need to steal one jeep.' Katya frames one key expression on cue: "dzhip" means "SUV", and it carries the main weight of what Katya is saying.
-- 'And which jeep exactly?' Nikita shapes that line without fuss: putting the question word "kakoy" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'Dmitry Nagiyev's jeep, of course.' Katya steps in quietly as things stand, watching Nagiyev's face to see how the news lands.
-- 'Listen, I do not see the point in that.' Nikita reaches for one telling choice right here: "smysla" means "sense, meaning" (from "smysl"), giving the line its exact edge.
-- 'I will kiss you for it.' Katya underscores one direct element for Nagiyev: "potseluyu" means "I'll kiss" (from "potselovat"), giving the line its exact edge.
-- 'Well no, I can do it, of course.' Nikita holds firm openly without a pause, saying out loud what both of them already know.
-- 'I just need to prepare first.' Nikita focuses on one telling word for Katya: "podgotovitsya" means "to prepare", and it carries the main weight of what Nikita is saying.
-- 'Or simply swipe the keys from Nagiyev?' Katya hands over that remark around Nikita: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Good afternoon, are you ready to order?' Nikita presses evenly about what Katya just brought up.
-- 'Nikita, do not pressure my psyche.' Nagiyev spotlights one familiar word at once: "psikhiku" means "psyche" (from "psikhika"), giving the line its exact edge.
-- 'Here is your favorite lemonade.' Nikita drops this line toward Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I have an order for you.' Talking about an order around Nikita, Katya lets Nikita see exactly where things stand.
+- 'Interesting, what kind of order do you have?' Nikita probes quietly to see how Katya will answer on the spot.
+- 'You need to steal one jeep.' Katya responds directly before Nikita and centers the remark on "dzhip" ("SUV") without any extra fuss.
+- 'And which jeep exactly?' Holding firm plainly at once, Nikita puts the question word "kakoy" right at the start so Katya hears the focus immediately.
+- 'Dmitry Nagiyev's jeep, of course.' Katya firmly delivers this confirmation right on cue using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Listen, I do not see the point in that.' Bringing up the sense in front of Katya, Nikita brings in "smysla" ("sense, meaning", from "smysl") as the key Russian word here.
+- 'I will kiss you for it.' Katya fires back openly with a shrug, to clear the air between them once and for all.
+- 'Well no, I can do it, of course.' Nikita continues openly with a shrug, letting the remark speak for itself.
+- 'I just need to prepare first.' Nikita jumps in dryly to Katya and puts the emphasis on "podgotovitsya" ("to prepare") in the middle of the talk.
+- 'Or simply swipe the keys from Nagiyev?' Touching on the keys with Nagiyev, Katya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Good afternoon, are you ready to order?' Nikita presses evenly where this conversation is heading next.
+- 'Nikita, do not pressure my psyche.' Talking about his psyche around Nikita, Nagiyev lands on "psikhiku" ("psyche", built on "psikhika") to keep the statement grounded.
+- 'Here is your favorite lemonade.' Highlighting how favourite things are in front of Nagiyev, Nikita links the Russian words directly in the present with no word for "am", "is", or "are" needed.

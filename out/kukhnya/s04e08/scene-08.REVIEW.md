@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is our kitchen, and further over there is the office.' Elena gives that thought toward Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Over there are the locker rooms and shower for our staff.' Elena answers evenly with a sigh, to clear the air between them once and for all.
-- 'I do not even know what else to show you here.' Elena leans on one colorful detail on cue: "yeshchyo" means "more, still", and it carries the main weight of what Elena is saying.
-- 'Everything is clear to me, a lot needs to be changed here.' Elena aims this statement beside Lyova: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Lyova, tell me quickly, where is Lena right now?' Barinov wonders eagerly whether Elena really thought this through.
-- 'The owner sent her somewhere, she will be back in an hour.' Lyova sharpens one telling choice for Elena: "khozyain" means "owner", and it carries the main weight of what Lyova is saying.
-- 'Do you see, Lyova, that guy right there is your new chef!' Elena emphasizes one familiar expression toward Barinov: "paren" means "boyfriend", and it carries the main weight of what Elena is saying.
-- 'Viktor Petrovich, maybe we should not get involved?' Lyova asks bluntly whether Elena really thought this through.
-- 'Lyova, do not start, we will simply have a talk with him.' Barinov anchors one vivid detail for Elena: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
-- 'We will explain to him that he does not need to work here.' Barinov delivers that reply briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'We will speak with him very politely and civilly!' Barinov counters lightly with a shrug, testing Elena's reaction in the middle of the exchange.
-- 'Come on, Lyova, let's go after him outside quickly!' Barinov underscores this direct expression toward Lyova: "ulitsu" means "street" (from "ulitsa"), giving the line its exact edge.
+- 'Here is our kitchen, and further over there is the office.' Dwelling on her kitchen in the exchange, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Over there are the locker rooms and shower for our staff.' Elena cuts in evenly around Barinov, steering the talk right where she wants it.
+- 'I do not even know what else to show you here.' Elena continues directly with Barinov and uses "yeshchyo" ("more, still") to carry the main weight of the thought.
+- 'Everything is clear to me, a lot needs to be changed here.' Holding firm earnestly at once, Elena leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Lyova, tell me quickly, where is Lena right now?' Barinov wonders eagerly where this conversation is heading next.
+- 'The owner sent her somewhere, she will be back in an hour.' Turning to the owner in front of Barinov, Lyova brings in "khozyain" ("owner") to make the meaning unmistakable.
+- 'Do you see, Lyova, that guy right there is your new chef!' Elena chimes in evenly with a shrug, to clear the air between them once and for all.
+- 'Viktor Petrovich, maybe we should not get involved?' Lyova asks bluntly about what Barinov just brought up.
+- 'Lyova, do not start, we will simply have a talk with him.' Barinov steps in candidly on the spot and uses "pogovorim" ("we'll have a talk", from "pogovorit") to make the point stick.
+- 'We will explain to him that he does not need to work here.' Speaking frankly in the exchange, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'We will speak with him very politely and civilly!' Barinov counters lightly without holding back, without trying to dress up how he really feels.
+- 'Come on, Lyova, let's go after him outside quickly!' Emphasizing the street before Lyova, Barinov brings in "ulitsu" ("street", from "ulitsa") as the key Russian word here.

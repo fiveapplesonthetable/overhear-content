@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you even know what kind of emissions it puts into the atmosphere?' Nastya checks straight out while looking straight at Barinov here.
-- 'Thank you, no need.' Nastya highlights this key touch right here: "spasibo" means "thank you", and it carries the main weight of what Nastya is saying.
-- 'The sheikh has finished his negotiations.' Louis voices this line at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Where is the promised dessert?' Louis quizzes earnestly where this conversation is heading next.
-- 'Louis, come here quickly!' Barinov colors one key touch right here: "skoreye" means "quickly, right away" (from "skoro"), giving the line its exact edge.
-- 'Make one more chocolate fondant.' Barinov chimes in sharply without holding back, keeping the focus on what actually matters here.
-- 'And I will find something to keep the guest occupied.' Barinov replies decisively before Louis, without trying to dress up how he really feels.
-- 'Chef, but the dessert is already ready!' Louis leans on one sharp choice on cue: "desert" means "dessert", and it carries the main weight of what Louis is saying.
-- 'I need to buy twenty more minutes.' Barinov phrases this update with ease: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'And what are you going to do in the dining room?' Louis quizzes point-blank if there is more going on behind the scenes.
-- 'Right now you will see a real show.' Barinov anchors one key touch with Louis: "nastoyashcheye" means "real" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Good luck to you, Chef!' Louis aims the comeback to Nastya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Do you even know what kind of emissions it puts into the atmosphere?' Nastya checks straight out what Louis is actually getting at here.
+- 'Thank you, no need.' Nastya quietly speaks this word of thanks beside Louis using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'The sheikh has finished his negotiations.' Mentioning the negotiations during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Where is the promised dessert?' Louis quizzes earnestly about what Barinov just brought up.
+- 'Louis, come here quickly!' Barinov speaks evenly before Louis and brings in "skoreye" ("quickly, right away", from "skoro") as the key Russian word here.
+- 'Make one more chocolate fondant.' Emphasizing the fondant in the exchange, Barinov lands on "shokoladnyy" ("chocolate") as the key everyday word here.
+- 'And I will find something to keep the guest occupied.' Barinov steps in decisively toward Louis, keeping the focus on what actually matters here.
+- 'Chef, but the dessert is already ready!' Talking about the dessert at once, Louis leans on "desert" ("dessert") to give the whole sentence its punch.
+- 'I need to buy twenty more minutes.' Addressing the minutes around Louis, Barinov leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'And what are you going to do in the dining room?' Louis quizzes point-blank what Barinov is actually getting at here.
+- 'Right now you will see a real show.' Pointing to a real show right here, Barinov centers the thought on "nastoyashcheye" ("real", from "nastoyashchiy") without wasting a word.
+- 'Good luck to you, Chef!' Answering candidly in front of Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello.' Barinov offers that thought to Elena: opening with the casual greeting "privet" ("hi") signals right away that Barinov and Elena are on familiar terms.
-- 'Alright, dirty the plates, then go wash them.' Elena chimes in quietly with a smile, grounding the moment in plain reality.
-- 'Will you not have breakfast with me?' Elena emphasizes this clear detail right here: "pozavtrakayesh" means "will have breakfast" (from "pozavtrakat"), giving the line its exact edge.
-- 'No, did you forget? I am on a diet.' Barinov puts the comeback calmly now: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'I would rather have some water.' Barinov opens up openly beside Elena, refusing to let the moment slip past.
-- 'And did you lose much in one day?' Elena favors one practical detail toward Barinov: "sbrosil" means "shed, lost" (from "sbrosit"), giving the line its exact edge.
-- 'Yes, that is not the limit yet.' Barinov shares this warning right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'By the way, let us record all of this.' Elena holds firm evenly as they talk, bringing things back to earth after the buildup.
-- 'We will photograph you every day.' Elena spotlights this vivid touch at once: "fotografirovat" means "to photograph", and it carries the main weight of what Elena is saying.
-- 'And your belly will get smaller.' Elena voices that reply beside Barinov: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Let us do it.' Barinov replies at once hearing Elena, so Elena knows he is not just making small talk.
-- 'See how dangerous it is to joke with me!' Barinov leans on one vivid detail with Elena: "vidish" means "see" (from "videt"), giving the line its exact edge.
+- 'Hello.' Barinov simply directs this casual greeting at the start of the beat using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Alright, dirty the plates, then go wash them.' Elena cuts in quietly beside Barinov, grounding the moment in plain reality.
+- 'Will you not have breakfast with me?' Elena proceeds naturally at once and centers the thought on "pozavtrakayesh" ("will have breakfast", from "pozavtrakat") without wasting a word.
+- 'No, did you forget? I am on a diet.' Pushing back dryly in front of Elena, Barinov puts the question word "chto" right at the start so Elena hears the focus immediately.
+- 'I would rather have some water.' Barinov follows up openly during the talk, keeping the focus on what actually matters here.
+- 'And did you lose much in one day?' Elena continues vividly during the talk and puts the weight on "sbrosil" ("shed, lost", from "sbrosit") as the exchange unfolds.
+- 'Yes, that is not the limit yet.' Discussing the limit with Elena, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'By the way, let us record all of this.' Elena answers evenly with a nod, letting the remark speak for itself.
+- 'We will photograph you every day.' Elena proceeds quietly during the talk and puts the emphasis on "fotografirovat" ("to photograph") in the middle of the talk.
+- 'And your belly will get smaller.' Touching on the belly right here, Elena uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Let us do it.' Barinov fires back at once without a pause, grounding the moment in plain reality.
+- 'See how dangerous it is to joke with me!' Barinov follows up vividly around Elena and reaches for the Russian word "vidish" ("see", built from "videt") right at the center of the line.

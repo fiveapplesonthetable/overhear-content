@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Cupid decides the fates of all people in love.' Denis anchors this vivid term on cue: "vlyublyonnykh" means "in love" (from "vlyublyonnyy"), giving the line its exact edge.
-- 'But sometimes he has a strange sense of humor.' Denis cuts in bluntly as things stand, steering the talk right where he wants it.
-- 'Good morning, sleepyhead, I made breakfast!' Denis speaks lightly without a pause, without trying to dress up how he really feels.
-- 'I already managed to take a shower in the morning.' Denis highlights one practical touch with Senya: "skhodit" means "to go", and it carries the main weight of what Denis is saying.
-- 'Turn away from me immediately, please!' Katya delivers this update on cue: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'You are so funny when you are fast asleep.' Denis speaks promptly as things stand, letting the remark speak for itself.
-- 'Stop all this mushy nonsense right now!' Katya grounds this vivid detail with Denis: "nezhnuyu" means "gentle, tender" (from "nezhnyy"), giving the line its exact edge.
-- 'But last night you were saying something completely different!' Denis frames that remark briskly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Yesterday the drink was speaking, and now the boss is speaking!' Katya answers openly facing Denis, steering the talk right where she wants it.
-- 'In half an hour I expect you at your workstation!' Katya features one vivid piece with Senya: "polchasa" means "half-hour", and it carries the main weight of what Katya is saying.
-- 'If you are late for work, I will fine you!' Katya colors one sharp term in reply: "opozdayesh" means "will be late" (from "opozdat"), giving the line its exact edge.
-- 'Fedya, get up, our new boss is very angry!' Senya continues sharply without any doubt, making his position completely clear.
+- 'Cupid decides the fates of all people in love.' Pointing to the cupid before Katya, Denis reaches for the Russian word "vlyublyonnykh" ("in love", built from "vlyublyonnyy") right at the center of the line.
+- 'But sometimes he has a strange sense of humor.' Turning to the feeling at once, Denis reaches for the Russian word "strannoye" ("strange, odd", built from "strannyy") right at the center of the line.
+- 'Good morning, sleepyhead, I made breakfast!' Denis speaks up lightly without holding back, before Katya can change the subject.
+- 'I already managed to take a shower in the morning.' Bringing up a shower before Katya, Denis leans on "skhodit" ("to go") to give the whole sentence its punch.
+- 'Turn away from me immediately, please!' Katya responds openly to Denis and puts the emphasis on "nemedlenno" ("immediately") in the middle of the talk.
+- 'You are so funny when you are fast asleep.' Denis weighs in promptly across the room, shifting the mood of the conversation in a single beat.
+- 'Stop all this mushy nonsense right now!' Discussing the nonsense before Denis, Katya brings in "nezhnuyu" ("gentle, tender", from "nezhnyy") as the key Russian word here.
+- 'But last night you were saying something completely different!' Cutting in calmly on the spot, Denis adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Yesterday the drink was speaking, and now the boss is speaking!' Katya follows up openly watching Denis, bringing things back to earth after the buildup.
+- 'In half an hour I expect you at your workstation!' Highlighting an hour on the spot, Katya centers the remark on "polchasa" ("half-hour") without any extra fuss.
+- 'If you are late for work, I will fine you!' Katya responds sharply around Senya, refusing to let the moment slip past.
+- 'Fedya, get up, our new boss is very angry!' Senya pushes back sharply with a nod, without trying to dress up how he really feels.

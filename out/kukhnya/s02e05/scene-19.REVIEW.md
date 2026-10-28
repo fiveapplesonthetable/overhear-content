@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika! Vika.' Barinov frames the comeback right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Once you figure yourself out.' Vika states this statement plainly here: the "-sya" ending on "razbereshsya" ("to sort out") turns the action inward or makes it happen between people naturally.
-- 'Let me know, all right?' Barinov tests curiously why things suddenly took this turn between them.
-- 'Life often puts us in front of a choice.' Vika emphasizes one concrete piece with Max: "vyborom" means "choice" (from "vybor"), giving the line its exact edge.
-- 'Someone consciously makes the wrong choice.' Barinov jumps in openly around Max, shifting the whole mood of the room in a single beat.
-- 'And nothing works out for him.' Vika reacts decisively to settle things, bringing things back to earth after the buildup.
-- 'While someone else gets completely tangled up.' Barinov focuses on this clear piece right here: "zaputalsya" means "got confused" (from "zaputatsya"), giving the line its exact edge.
-- 'Yes, that is all for the sports news.' Vika drops that thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll.' Barinov replies frankly before Max, letting the remark speak for itself.
-- 'Thus, CSKA picked up three points.' Vika leans on this clear piece at once: "obrazom" means "way, manner" (from "obraz"), giving the line its exact edge.
-- 'Chef, what do you need?' Max directs that thought with candor: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Bury me in work.' Vika stands firm at once toward Max, bringing things back to earth after the buildup.
-- 'I want to work without any days off.' Barinov sharpens one direct term at once: "vykhodnykh" means "weekend" (from "vykhodnoy"), giving the line its exact edge.
+- 'Vika! Vika.' Weighing in earnestly to Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Once you figure yourself out.' Looking over openly in the exchange, the "-sya" ending on "razbereshsya" ("to sort out") marks an action that unfolds mutually or turns back on the speaker.
+- 'Let me know, all right?' Barinov politely gives this word of agreement right on cue using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Life often puts us in front of a choice.' Underscoring a choice right here, Vika chooses "vyborom" ("choice", from the root "vybor") so Barinov hears the exact meaning.
+- 'Someone consciously makes the wrong choice.' Mentioning the wrong choice with Vika, Barinov centers the remark on "nepravilnyy" ("wrong, incorrect") without any extra fuss.
+- 'And nothing works out for him.' Vika reacts decisively hearing Barinov, leaving no doubt about where she stands.
+- 'While someone else gets completely tangled up.' Barinov speaks warmly to Vika and lands on "zaputalsya" ("got confused", built on "zaputatsya") to keep the statement grounded.
+- 'Yes, that is all for the sports news.' Looking over candidly on the spot, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Apparently, the absence of goalkeeper Vyacheslav Malafeev took its toll.' Barinov speaks frankly during the talk, without trying to dress up how he really feels.
+- 'Thus, CSKA picked up three points.' Addressing the way to Barinov, Vika brings in "obrazom" ("way, manner", from "obraz") as the key Russian word here.
+- 'Chef, what do you need?' Opening up frankly in front of Barinov, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Bury me in work.' Vika replies at once hearing Max, leaving no doubt about where she stands.
+- 'I want to work without any days off.' Turning to the weekend with Vika, Barinov lands on "vykhodnykh" ("weekend", built on "vykhodnoy") to keep the statement grounded.

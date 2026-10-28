@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was just thinking, why don't we open a karaoke club?' Kristina hands over that answer with warmth: putting the question word "pochemu" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'I was just thinking, why don't we open a karaoke club?' Touching on a karaoke at once, Kristina puts the question word "pochemu" right at the start so Nagiyev hears the focus immediately.
 - 'What, open a karaoke club in a French restaurant?' Nagiyev tests sharply where this conversation is heading next.
-- 'Sweetheart, your taste is truly very exquisite!' Nagiyev leans on this clear piece toward Kristina: "deystvitelno" means "really, indeed", and it carries the main weight of what Nagiyev is saying.
-- 'We can buy out the second floor and make another hall.' Kristina cuts in at once during the talk, so Senya knows she is not just making small talk.
-- 'Up there is the smell of that old man and bad memories.' Nagiyev answers earnestly across the room, leaving no doubt about where he stands.
-- 'On the other hand, we could simply rent it out.' Nagiyev grounds one classic element in reply: "storony" means "side" (from "storona"), giving the line its exact edge.
-- 'You know, I already spoke with the new owner of the apartment.' Kristina continues openly beside Nagiyev, saying out loud what both of them already know.
-- 'He said that he is ready to sell it for half the price!' Kristina speaks right away without a pause, bringing things back to earth after the buildup.
-- 'Senya, are you a total fool, is there no room left in your locker?' Nagiyev emphasizes one familiar word in earnest: "shkafu" means "cabinet, cupboard" (from "shkaf"), giving the line its exact edge.
-- 'First there were hooves in my locker, and now a head!' Senya speaks earnestly with a sigh, so Nagiyev knows he is not just making small talk.
-- 'Maybe you are assembling a pig piece by piece at home?' Senya wonders deadpan to see how Kristina will answer on the spot.
-- 'Or maybe we really did wake up Grandpa Kirill?' Senya chooses this vivid word for Nagiyev: "kirilla" means "Kirill" (from "kirill"), giving the line its exact edge.
+- 'Sweetheart, your taste is truly very exquisite!' Noting how exquisite things are to Kristina, Nagiyev lands on "izyskannyy" ("exquisite, refined") as the key everyday word here.
+- 'We can buy out the second floor and make another hall.' Mentioning the second floor in front of Nagiyev, Kristina brings in "vtoroy" ("second") to make the meaning unmistakable.
+- 'Up there is the smell of that old man and bad memories.' Nagiyev answers earnestly without holding back, grounding the moment in plain reality.
+- 'On the other hand, we could simply rent it out.' Talking about the side beside Kristina, Nagiyev chooses "storony" ("side", from the root "storona") so Kristina hears the exact meaning.
+- 'You know, I already spoke with the new owner of the apartment.' Pointing to the new owner in the exchange, Kristina uses "razgovarivala" ("to talk, to speak", from "razgovarivat") to make the point stick.
+- 'He said that he is ready to sell it for half the price!' Kristina replies right away during the talk, making her position completely clear.
+- 'Senya, are you a total fool, is there no room left in your locker?' Highlighting the cabinet around Senya, Nagiyev centers the thought on "shkafu" ("cabinet, cupboard", from "shkaf") without wasting a word.
+- 'First there were hooves in my locker, and now a head!' Turning to the cabinet on the spot, Senya brings in "shkafu" ("cabinet, cupboard", from "shkaf") as the key Russian word here.
+- 'Maybe you are assembling a pig piece by piece at home?' Senya wonders deadpan while looking straight at Nagiyev here.
+- 'Or maybe we really did wake up Grandpa Kirill?' Talking about the grandfathers right here, Senya centers the thought on "kirilla" ("Kirill", from "kirill") without wasting a word.

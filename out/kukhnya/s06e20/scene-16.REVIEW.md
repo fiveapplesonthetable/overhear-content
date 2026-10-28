@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This dish is simply utterly divine!' The inspector centers one pointed expression with Barinov: "bozhestvenno" means "divinely", and it carries the main weight of what the inspector is saying.
-- 'Consider the star in your pocket.' The inspector delivers the remark calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'What is happening, call the police quickly!' Denis reacts decisively beside Barinov, so Barinov knows he is not just making small talk.
-- 'I would not do that in your place.' Denis emphasizes one pointed detail at once: "stal" means "to become" (from "stat"), giving the line its exact edge.
-- 'Everyone stand against the wall quickly!' Denis chimes in quietly to settle things, without trying to dress up how he really feels.
-- 'And what should we do with this chef?' Denis wonders deadpan while looking straight at the inspector here.
-- 'Let the disabled man sit quietly in his chair.' Denis leans on one classic touch right here: "invalid" means "disabled person", and it carries the main weight of what Denis is saying.
-- 'Look how many people you brought trouble to.' Denis underscores one sharp detail in earnest: "problemy" means "problems" (from "problema"), giving the line its exact edge.
-- 'Hey, do not touch my daughter!' Barinov answers openly without a pause, to clear the air between them once and for all.
-- 'Right now we are taking these two.' Notice how Denis warns the inspector right away — the Russian word "zabirayem" ("we are taking", built from "zabirat") does the heavy lifting.
-- 'We are leaving the restaurant quickly.' Denis cuts in steadily during the talk, bringing things back to earth after the buildup.
-- 'You sit quietly and do not make noise.' Denis jumps in promptly facing the inspector, keeping the focus on what actually matters here.
+- 'This dish is simply utterly divine!' Turning to the dish in the exchange, the inspector leans on "bozhestvenno" ("divinely") to give the whole sentence its punch.
+- 'Consider the star in your pocket.' The inspector steps in lightly with a shrug, testing Denis's reaction in the middle of the exchange.
+- 'What is happening, call the police quickly!' Denis responds decisively around the inspector, letting the remark speak for itself.
+- 'I would not do that in your place.' Denis steps in decisively beside the inspector and brings in "stal" ("to become", from "stat") as the key Russian word here.
+- 'Everyone stand against the wall quickly!' Talking about the wall beside the inspector, Denis chooses "stene" ("wall", from the root "stena") so the inspector hears the exact meaning.
+- 'And what should we do with this chef?' Denis wonders deadpan to see how Barinov will answer on the spot.
+- 'Let the disabled man sit quietly in his chair.' Talking about the disabled person beside Barinov, Denis chooses "invalid" ("disabled person") so Barinov gets the point right away.
+- 'Look how many people you brought trouble to.' Denis proceeds boldly in this moment, without trying to dress up how he really feels.
+- 'Hey, do not touch my daughter!' Barinov opens up openly facing Denis, letting the remark speak for itself.
+- 'Right now we are taking these two.' Denis replies openly at once and centers the thought on "zabirayem" ("we are taking", from "zabirat") without wasting a word.
+- 'We are leaving the restaurant quickly.' Addressing the restaurant to Barinov, Denis reaches for the Russian word "restorana" ("restaurant", built from "restoran") right at the center of the line.
+- 'You sit quietly and do not make noise.' Denis speaks up promptly across the room, letting the remark speak for itself.

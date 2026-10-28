@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wow, Nastya, look quickly at what I found!' Kostya underscores one vivid choice with Max: "skoreye" means "quickly, right away" (from "skoro"), giving the line its exact edge.
-- 'An old stash slipped under the lining of the jacket!' Kostya proceeds steadily without holding back, before Nastya can change the subject.
-- 'No way, now that is really cool!' Max focuses on one practical word with Kostya: "deystvitelno" means "really, indeed", and it carries the main weight of what Max is saying.
-- 'We need to add a little bit of honey for a special flavor.' Nastya delivers this update without fuss: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'And you splash a tiny bit of oil into the pan for now.' Nastya speaks up frankly in their talk, testing Kostya's reaction in the middle of the exchange.
-- 'Literally just a few drops for flavor, got it?' Nastya anchors this direct piece with Max: "bukvalno" means "literally", and it carries the main weight of what Nastya is saying.
-- 'Lift me up over there, to the third floor!' Max cuts in steadily with a smile, shifting the whole mood of the room in a single beat.
-- 'Well, a bet is a bet, you won and I lost, take it!' Nastya continues briskly during the talk, steering the talk right where she wants it.
-- 'Wait, there is only twenty-five here, and we bet thirty!' Kostya centers this vivid expression on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Ah, really, I just thought I heard twenty-five!' Nastya makes this point with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Look, Nastya, I won another thirty thousand!' Kostya continues earnestly as things stand, before Max can change the subject.
-- 'Great, now the pile of money is getting bigger and bigger!' Max favors one key word toward Nastya: "stanovitsya" means "becomes", and it carries the main weight of what Max is saying.
+- 'Wow, Nastya, look quickly at what I found!' Kostya proceeds decisively in their talk, grounding the moment in plain reality.
+- 'An old stash slipped under the lining of the jacket!' Kostya counters steadily with a nod, grounding the moment in plain reality.
+- 'No way, now that is really cool!' Max responds vividly before Kostya and reaches for the Russian word "deystvitelno" ("really, indeed") right at the heart of the line.
+- 'We need to add a little bit of honey for a special flavor.' Pointing to the taste in the exchange, Nastya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'And you splash a tiny bit of oil into the pan for now.' Nastya proceeds frankly without any doubt, testing Max's reaction in the middle of the exchange.
+- 'Literally just a few drops for flavor, got it?' Pointing to a drops during the talk, Nastya reaches for the Russian word "bukvalno" ("literally") right at the heart of the line.
+- 'Lift me up over there, to the third floor!' Highlighting the third floor on the spot, Max lands on "tretiy" ("the third") as the key everyday word here.
+- 'Well, a bet is a bet, you won and I lost, take it!' Nastya continues briskly hearing Max, before Max can change the subject.
+- 'Wait, there is only twenty-five here, and we bet thirty!' Kostya cuts in directly before Nastya and reaches for the Russian word "podozhdi" ("wait", built from "podozhdat") right at the center of the line.
+- 'Ah, really, I just thought I heard twenty-five!' Holding firm readily before Kostya, Nastya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Look, Nastya, I won another thirty thousand!' Kostya opens up earnestly during the talk, without trying to dress up how he really feels.
+- 'Great, now the pile of money is getting bigger and bigger!' Addressing the money right here, Max puts the emphasis on "stanovitsya" ("becomes") in the middle of the talk.

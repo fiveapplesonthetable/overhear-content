@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'As usual, you do not last very long.' Vika holds firm right away with a smile, watching Fedya's face to see how the news lands.
-- 'Woman, do not wake the beast in me!' Senya frames this sharp expression right here: "zhenshchina" means "woman", and it carries the main weight of what Senya is saying.
-- 'You always only think about food!' Senya reaches for this key expression with Fedya: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
-- 'I am not responsible for my actions right now!' Senya speaks up wryly in their talk, steering the talk right where he wants it.
-- 'And what will you do to me then?' Vika chooses one direct term in reply: "sdelayesh" means "will you make" (from "sdelat"), giving the line its exact edge.
-- 'Why are you throwing macaroni at me?' Senya directs this update toward Vika: putting the question word "zachem" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'You wanted to have a drink yourself recently!' Vika continues plainly as they talk, refusing to let the moment slip past.
-- 'Please, do not touch me!' Senya frames this sharp expression at once: "trogat" means "to touch", and it carries the main weight of what Senya is saying.
-- 'Guys, I got hit hard at home.' Senya reacts sharply toward Fedya, keeping the focus on what actually matters here.
-- 'We told you that right from the start.' Fedya follows up frankly toward Vika, watching Vika's face to see how the news lands.
-- 'It is better to sit quietly in our kitchen.' Senya underscores one sharp piece in reply: "spokoyno" means "calmly", and it carries the main weight of what Senya is saying.
-- 'Let's rather have a little more to drink.' Fedya voices that reply with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'As usual, you do not last very long.' Vika responds right away during the talk, shifting the mood of the conversation in a single beat.
+- 'Woman, do not wake the beast in me!' Touching on the woman in this beat, Senya reaches for the Russian word "zhenshchina" ("woman") right at the heart of the line.
+- 'You always only think about food!' Senya reacts earnestly during the talk, to clear the air between them once and for all.
+- 'I am not responsible for my actions right now!' Senya replies wryly watching Vika, letting the remark speak for itself.
+- 'And what will you do to me then?' Vika counters evenly on the spot and reaches for the Russian word "sdelayesh" ("will you make", built from "sdelat") right at the center of the line.
+- 'Why are you throwing macaroni at me?' Pushing back frankly on the spot, Senya puts the question word "zachem" right at the start so Vika hears the focus immediately.
+- 'You wanted to have a drink yourself recently!' Vika chimes in plainly with a shrug, watching Senya's face to see how the news lands.
+- 'Please, do not touch me!' Senya calmly speaks this courtesy word for Vika using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Guys, I got hit hard at home.' Focusing on the boys in the exchange, Senya chooses "rebyata" ("the boys, the lads") so Fedya gets the point right away.
+- 'We told you that right from the start.' Fedya follows up warmly toward Senya, to clear the air between them once and for all.
+- 'It is better to sit quietly in our kitchen.' Emphasizing his kitchen in front of Fedya, Senya brings in "kukhne" ("kitchen", from "kukhnya") as the key Russian word here.
+- 'Let's rather have a little more to drink.' Holding firm plainly right here, Fedya starts with "davay" ("come on, let's") to invite Senya right into the action.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, you scared me badly!' Nikita uses one loaded piece in reply: "napugala" means "to scare, to frighten" (from "napugat"), giving the line its exact edge.
-- 'Are we stealing it or just listening to music?' Katya puts the reply with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'You will go along with me as an accomplice.' Nikita counters earnestly without holding back, refusing to let the moment slip past.
-- 'I thought car theft was pure adrenaline.' Katya stresses one loaded piece on cue: "adrenalin" means "thrill of adrenaline", and it carries the main weight of what Katya is saying.
-- 'Good afternoon, Captain Smirnov, your documents.' The inspector grounds this telling expression in reply: "dokumenty" means "the documents" (from "dokument"), giving the line its exact edge.
-- 'Honey, take the documents out of your bag, please.' Nikita weighs in quietly across the room, shifting the whole mood of the room in a single beat.
-- 'Just do not tell me that you forgot them!' Nikita colors one pointed term with the inspector: "govori" means "say, talk" (from "govorit"), giving the line its exact edge.
-- 'So you did not forget to put on makeup this morning.' Nikita drops that line at once: the "-sya" ending on "nakrasitsya" ("to put on makeup") turns the action inward or makes it happen between people naturally.
-- 'Captain, take this car away from her!' Nikita cuts in pointedly during the talk, letting the remark speak for itself.
-- 'Here, take the keys, let her ride the metro.' Nikita sharpens one classic choice at once: "zabirayte" means "take" (from "zabirat"), giving the line its exact edge.
-- 'Do you live somewhere nearby here?' The inspector gives this warning briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Go back for the documents and be careful.' The inspector reacts pointedly without any doubt, watching Nikita's face to see how the news lands.
-- 'Well, you are a real pro, Nikita!' Katya anchors one pointed detail right here: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Katya is saying.
+- 'Katya, you scared me badly!' Nikita steps in earnestly in front of Katya and reaches for the Russian word "napugala" ("to scare, to frighten", built from "napugat") right at the center of the line.
+- 'Are we stealing it or just listening to music?' Turning to the music in the exchange, Katya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'You will go along with me as an accomplice.' Nikita steps in earnestly watching Katya, steering the talk right where he wants it.
+- 'I thought car theft was pure adrenaline.' Mentioning the thrill adrenaline in front of Nikita, Katya lands on "adrenalin" ("thrill of adrenaline") as the key everyday word here.
+- 'Good afternoon, Captain Smirnov, your documents.' The inspector proceeds wryly with Nikita, steering the talk right where he wants it.
+- 'Honey, take the documents out of your bag, please.' Nikita weighs in quietly with a shrug, bringing things back to earth after the buildup.
+- 'Just do not tell me that you forgot them!' Nikita reacts plainly in the exchange and lands on "govori" ("say, talk", built on "govorit") to keep the statement grounded.
+- 'So you did not forget to put on makeup this morning.' Weighing in naturally around the inspector, the "-sya" ending on "nakrasitsya" ("to put on makeup") marks an action that unfolds mutually or turns back on the speaker.
+- 'Captain, take this car away from her!' Nikita chimes in pointedly in this moment, making his position completely clear.
+- 'Here, take the keys, let her ride the metro.' Highlighting the keys beside the inspector, Nikita uses "klyuchi" ("the keys", from "klyuch") to make the point stick.
+- 'Do you live somewhere nearby here?' Holding firm smoothly in this beat, the inspector keeps normal statement word order here, turning the line into a question for Nikita purely through rising pitch.
+- 'Go back for the documents and be careful.' The inspector chimes in pointedly with a shrug, keeping the focus on what actually matters here.
+- 'Well, you are a real pro, Nikita!' Underscoring how real Nikita is in the exchange, Katya uses "nastoyashchiy" ("real, genuine") to carry the main weight of the thought.

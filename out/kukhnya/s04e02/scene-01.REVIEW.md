@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You need to plan everything in advance.' Max sharpens one pointed detail in earnest: "splanirovat" means "to plan", and it carries the main weight of what Max is saying.
-- 'Prepare well and keep everything a secret.' Max makes that line on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'But the most important thing is the element of surprise.' Max replies steadily with a sigh, to clear the air between them once and for all.
-- 'Surprise!' Max focuses on this sharp word for Vika: "syurpriz" means "surprise", and it carries the main weight of what Max is saying.
-- 'This is my brother Denis.' Max states this update without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Very nice to meet you. Hello.' Denis reacts sharply as they talk, so Vika knows he is not just making small talk.
-- 'Sorry about that.' Max stresses one familiar element in reply: "izvini" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'And what do you do for a living?' Vika brings that reply without fuss: the "-sya" ending on "zanimayeshsya" ("to be busy with") turns the action inward or makes it happen between people naturally.
-- 'I am a musician, a pianist.' Denis pushes back steadily without holding back, leaving no doubt about where he stands.
-- 'A creative nature.' Denis underscores one memorable expression right here: "tvorcheskaya" means "creative, artistic" (from "tvorcheskiy"), giving the line its exact edge.
-- 'So do you perform somewhere?' Vika brings the reply in earnest: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'Of course, in Voronezh.' Denis weighs in honestly with a smile, saying out loud what both of them already know.
+- 'You need to plan everything in advance.' Max answers briskly in the exchange and lands on "splanirovat" ("to plan") as the key everyday word here.
+- 'Prepare well and keep everything a secret.' Returning to a secret around Denis, the "-sya" ending on "podgotovitsya" ("to prepare") marks an action that unfolds mutually or turns back on the speaker.
+- 'But the most important thing is the element of surprise.' Max fires back steadily toward Denis, grounding the moment in plain reality.
+- 'Surprise!' Underscoring the surprise beside Denis, Max chooses "syurpriz" ("surprise") so Denis gets the point right away.
+- 'This is my brother Denis.' Dwelling on his brother in the exchange, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Very nice to meet you. Hello.' Denis casually drops this formal greeting with Max using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Sorry about that.' Max gently gives this informal apology to Denis using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'And what do you do for a living?' Stepping in frankly at once, the "-sya" ending on "zanimayeshsya" ("to be busy with") marks an action that unfolds mutually or turns back on the speaker.
+- 'I am a musician, a pianist.' Denis answers steadily without holding back, leaving no doubt about where he stands.
+- 'A creative nature.' Pointing to a creative nature to Vika, Denis centers the thought on "tvorcheskaya" ("creative, artistic", from "tvorcheskiy") without wasting a word.
+- 'So do you perform somewhere?' Speaking firmly in this beat, Vika puts the question word "chto" right at the start so Denis hears the focus immediately.
+- 'Of course, in Voronezh.' Denis promptly gives this confirmation in the exchange using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".

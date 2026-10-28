@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He left right through the ventilation shaft.' Senya pushes back decisively beside Barinov, watching Barinov's face to see how the news lands.
-- 'Who is going to climb in after him now?' Barinov chooses one familiar detail toward Senya: "polezet" means "to climb" (from "polezt"), giving the line its exact edge.
-- 'I might get stuck at the turn.' Senya fires back quietly before Barinov, watching Barinov's face to see how the news lands.
-- 'Wait, how will I recognize him?' Lyova questions frankly if there is more going on behind the scenes.
-- 'There are no other people inside there.' Barinov focuses on this clear touch at once: "drugikh" means "other" (from "drugoy"), giving the line its exact edge.
-- 'Meanwhile we will study the ventilation plan.' Barinov weighs in evenly in their talk, leaving no doubt about where he stands.
-- 'Lyova, are you alright in there?' Barinov questions point-blank as Lyova tries to explain the situation.
-- 'He will definitely crawl to the end.' Senya centers this sharp piece with Lyova: "obyazatelno" means "surely, without fail", and it carries the main weight of what Senya is saying.
-- 'Keep the fruits and vegetables separate.' Barinov stands firm dryly beside Lyova, making his position completely clear.
-- 'I did just that yesterday.' Senya cuts in openly facing Lyova, leaving no doubt about where he stands.
-- 'Who unloaded those boxes over there?' Senya sharpens this sharp expression in reply: "korobki" means "boxes" (from "korobka"), giving the line its exact edge.
-- 'Look, he is still right there!' Barinov jumps in bluntly during the talk, watching Senya's face to see how the news lands.
+- 'He left right through the ventilation shaft.' Senya opens up decisively toward Barinov, letting the remark speak for itself.
+- 'Who is going to climb in after him now?' Barinov responds decisively with Senya and brings in "polezet" ("to climb", from "polezt") as the key Russian word here.
+- 'I might get stuck at the turn.' Underscoring the turn beside Barinov, Senya chooses "povorote" ("turn, bend", from the root "povorot") so Barinov hears the exact meaning.
+- 'Wait, how will I recognize him?' Lyova questions frankly how Barinov expects that to work in practice.
+- 'There are no other people inside there.' Barinov speaks up warmly to Lyova and brings in "vnutri" ("inside") to make the meaning unmistakable.
+- 'Meanwhile we will study the ventilation plan.' Turning to the ventilation shaft on the spot, Barinov uses "ventilyatsii" ("ventilation shaft", from "ventilyatsiya") to make the point stick.
+- 'Lyova, are you alright in there?' Barinov questions point-blank before Lyova can change the subject.
+- 'He will definitely crawl to the end.' Highlighting the ending in this beat, Senya lands on "obyazatelno" ("surely, without fail") as the key everyday word here.
+- 'Keep the fruits and vegetables separate.' Focusing on the vegetables on the spot, Barinov chooses "ovoshchi" ("vegetables", from the root "ovoshch") so Senya hears the exact meaning.
+- 'I did just that yesterday.' Senya reacts openly with a sigh, without trying to dress up how he really feels.
+- 'Who unloaded those boxes over there?' Highlighting the boxes beside Barinov, Senya centers the thought on "korobki" ("boxes", from "korobka") without wasting a word.
+- 'Look, he is still right there!' Barinov counters vividly on the spot and reaches for the Russian word "yeshchyo" ("more, still") right at the heart of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone back, do not come near me!' The inspector fires back warmly without a pause, saying out loud what both of them already know.
-- 'Please do everything that he asks.' Senya reacts right away with the inspector, watching the inspector's face to see how the news lands.
-- 'And now pull up your pants quickly.' The inspector stresses this direct term in reply: "podtyani" means "pull up" (from "podtyanut"), giving the line its exact edge.
-- 'I am not going to do that.' Senya reacts evenly toward the inspector, watching the inspector's face to see how the news lands.
-- 'I told you, pull up your pants!' The inspector chimes in right away without any doubt, making his position completely clear.
-- 'And you go on, hit him.' The inspector focuses on one telling word on cue: "davay" means "let's" (from "davat"), giving the line its exact edge.
-- 'Do not come near me right now!' The inspector speaks up boldly with Denis, bringing things back to earth after the buildup.
-- 'We can still reach an agreement calmly!' Denis stands firm bluntly hearing Senya, letting the remark speak for itself.
-- 'No, this is the end for all of you now!' The inspector grounds this sharp expression right here: "konets" means "end", and it carries the main weight of what the inspector is saying.
-- 'Senya, run upstairs after him!' Denis holds firm sharply without a pause, leaving no doubt about where he stands.
-- 'Denis, thank you, you are my savior!' Senya proceeds candidly toward Denis, saying out loud what both of them already know.
-- 'You can live at my place for free!' Senya uses one direct word for the inspector: "besplatno" means "for free", and it carries the main weight of what Senya is saying.
+- 'Everyone back, do not come near me!' The inspector cuts in sharply on the spot and leans on "podkhodite" ("suit", a form of "podkhodit") to give the remark its edge.
+- 'Please do everything that he asks.' Senya politely gives this courtesy word to the inspector using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'And now pull up your pants quickly.' Mentioning the pants during the talk, the inspector chooses "shtany" ("pants") so Senya gets the point right away.
+- 'I am not going to do that.' Senya reacts evenly hearing the inspector, grounding the moment in plain reality.
+- 'I told you, pull up your pants!' The inspector answers right away beside Senya, leaving no doubt about where he stands.
+- 'And you go on, hit him.' The inspector cuts in frankly to Senya and brings in "davay" ("let's", from "davat") as the key Russian word here.
+- 'Do not come near me right now!' The inspector pushes back evenly beside Denis and brings in "podkhodite" ("suit", from "podkhodit") as the key Russian word here.
+- 'We can still reach an agreement calmly!' Denis replies sharply toward the inspector, so the inspector knows he is not just making small talk.
+- 'No, this is the end for all of you now!' Addressing the end in this beat, the inspector brings in "konets" ("end") to make the meaning unmistakable.
+- 'Senya, run upstairs after him!' Denis answers plainly on the spot and leans on "naverkh" ("upstairs, upward") to give the whole sentence its punch.
+- 'Denis, thank you, you are my savior!' Senya counters candidly without any doubt, shifting the mood of the conversation in a single beat.
+- 'You can live at my place for free!' Senya fires back calmly around Denis and reaches for the Russian word "besplatno" ("for free") right at the heart of the line.

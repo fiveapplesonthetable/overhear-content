@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, your fresh salad is already completely ready.' Barinov speaks up calmly in their talk, watching the guest's face to see how the news lands.
-- 'Yes, I have a couple of Italian championship games.' The guest leans on one direct piece on cue: "chempionata" means "of the championship" (from "chempionat"), giving the line its exact edge.
-- 'Great odds, let me call you back later.' The guest makes the comeback beside Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Excuse me, I overheard by chance, are you a real bookmaker?' Barinov questions quietly in front of Sveta without any preamble.
-- 'Thank you, the salad is very tasty, I know secrets.' The guest centers one classic term on cue: "spasibo" means "thank you", and it carries the main weight of what the guest is saying.
-- 'Probably just the same as you in your kitchen.' The guest uses one vivid piece with Sveta: "navernoye" means "probably", and it carries the main weight of what the guest is saying.
-- 'Maybe you could give a hint strictly between us on whom to bet?' Barinov wonders quietly as the guest tries to explain the situation.
-- 'Excuse me, but I do not understand what you mean.' The guest picks one loaded detail on cue: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'How about some French cognac on my personal tab?' Barinov shares the comeback facing the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
-- 'No, I do not drink, especially with strangers.' The guest weighs in decisively across the room, before Sveta can change the subject.
-- 'Yes, Denis and I sound pretty good together.' Sveta highlights one concrete expression with Barinov: "neplokho" means "not bad", and it carries the main weight of what Sveta is saying.
-- 'It seems I have finally met my beloved man!' Sveta reacts frankly with the guest, refusing to let the moment slip past.
+- 'Here you go, your fresh salad is already completely ready.' Barinov jumps in calmly watching the guest, watching the guest's face to see how the news lands.
+- 'Yes, I have a couple of Italian championship games.' Addressing the championship with Barinov, the guest centers the thought on "chempionata" ("of the championship", from "chempionat") without wasting a word.
+- 'Great odds, let me call you back later.' Focusing on the coefficient around Barinov, the guest starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'Excuse me, I overheard by chance, are you a real bookmaker?' Barinov questions quietly while looking straight at the guest here.
+- 'Thank you, the salad is very tasty, I know secrets.' Underscoring the thank beside Barinov, the guest brings in "spasibo" ("thank you") to make the meaning unmistakable.
+- 'Probably just the same as you in your kitchen.' The guest weighs in evenly in this moment, without trying to dress up how he really feels.
+- 'Maybe you could give a hint strictly between us on whom to bet?' Barinov wonders quietly why things suddenly took this turn between them.
+- 'Excuse me, but I do not understand what you mean.' The guest responds frankly in front of Barinov and leans on "izvinite" ("sorry, excuse me", a form of "izvinit") to give the remark its edge.
+- 'How about some French cognac on my personal tab?' Addressing the cognac on the spot, Barinov keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'No, I do not drink, especially with strangers.' The guest speaks decisively watching Barinov, steering the talk right where he wants it.
+- 'Yes, Denis and I sound pretty good together.' Sveta answers frankly right here and reaches for the Russian word "neplokho" ("not bad") right at the heart of the line.
+- 'It seems I have finally met my beloved man!' Addressing the man beside the guest, Sveta brings in "lyubimogo" ("beloved", from "lyubimyy") as the key Russian word here.

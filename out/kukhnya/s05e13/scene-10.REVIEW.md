@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My great journey began with this song.' Barinov frames one colorful piece toward Elena: "nachalsya" means "started, broke out" (from "nachatsya"), giving the line its exact edge.
-- 'I found the way into your kind hearts.' Barinov stresses this clear choice on cue: "dobryye" means "good, kind" (from "dobryy"), giving the line its exact edge.
-- 'I wrote it in memory of love.' Barinov reacts calmly watching Elena, bringing things back to earth after the buildup.
-- 'That woman broke my heart forever.' Barinov favors one key element right here: "zhenshchina" means "woman", and it carries the main weight of what Barinov is saying.
-- 'Lena, you will always be in my heart!' Barinov emphasizes one pointed choice in earnest: "serdtse" means "heart", and it carries the main weight of what Barinov is saying.
-- 'Vitya, I was at your concert today.' Elena jumps in bluntly as they talk, leaving no doubt about where she stands.
-- 'I stood in the hall and heard everything.' Elena underscores one loaded element in reply: "slyshala" means "to hear" (from "slyshat"), giving the line its exact edge.
-- 'I love you very much too, Vitya!' Elena reaches for one sharp detail toward Senya: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.
-- 'Hooray, you finally said yes to me!' Barinov pushes back calmly with Elena, making his position completely clear.
-- 'No, that does not sound very plausible.' Senya spotlights this key element in earnest: "pravdopodobno" means "plausibly, believably", and it carries the main weight of what Senya is saying.
-- 'After all, you got into real show business!' Senya picks this vivid expression at once: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Senya is saying.
-- 'And what do you mean to say by that?' Barinov asks wryly about what Senya just brought up.
+- 'My great journey began with this song.' Touching on the songs around Elena, Barinov chooses "bolshoy" ("big") so Elena gets the point right away.
+- 'I found the way into your kind hearts.' Barinov steps in evenly without holding back, keeping the focus on what actually matters here.
+- 'I wrote it in memory of love.' Barinov pushes back calmly across the room, testing Elena's reaction in the middle of the exchange.
+- 'That woman broke my heart forever.' Addressing the woman right here, Barinov puts the emphasis on "zhenshchina" ("woman") in the middle of the talk.
+- 'Lena, you will always be in my heart!' Focusing on his heart with a shrug, Barinov speaks plainly so Elena gets the message at once.
+- 'Vitya, I was at your concert today.' Elena replies bluntly facing Barinov, grounding the moment in plain reality.
+- 'I stood in the hall and heard everything.' Pointing to the hall at once, Elena leans on "slyshala" ("to hear", a form of "slyshat") to give the remark its edge.
+- 'I love you very much too, Vitya!' Elena reacts warmly around Barinov, without trying to dress up how she really feels.
+- 'Hooray, you finally said yes to me!' Barinov follows up calmly with Elena, letting the remark speak for itself.
+- 'No, that does not sound very plausible.' Senya continues candidly on the spot and lands on "pravdopodobno" ("plausibly, believably") as the key everyday word here.
+- 'After all, you got into real show business!' Senya speaks firmly with a sigh, watching Barinov's face to see how the news lands.
+- 'And what do you mean to say by that?' Barinov asks wryly whether Senya really thought this through.

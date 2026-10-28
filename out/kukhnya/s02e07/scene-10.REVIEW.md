@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Actually, I am not asleep.' Kostya grounds one key expression with Nastya: "voobshche-to" means "actually", and it carries the main weight of what Kostya is saying.
-- 'I am right here.' Nastya puts the reaction plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I beg your pardon, Konstantin.' Rodion counters frankly without holding back, before Kostya can change the subject.
-- 'I did not know about that family rule of yours.' Kostya leans on one sharp expression toward Rodion: "semeynom" means "family" (from "semeynyy"), giving the line its exact edge.
-- 'Well then.' Nastya aims this answer for Kostya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Do you not think.' Rodion cuts in openly without any doubt, without trying to dress up how he really feels.
-- 'That it is time for him to head back out to the street?' Kostya points to one vivid touch for Nastya: "ulitsu" means "street" (from "ulitsa"), giving the line its exact edge.
-- 'Kostya, did you hear how he was coughing all night long?' Nastya directs the reply toward Rodion: putting the question word "kak" right at the front of the line lets Rodion hear the point of the question on the very first beat.
-- 'I heard him, Nastya.' Rodion speaks up steadily during the talk, without trying to dress up how he really feels.
-- 'I cannot take this anymore.' Kostya frames this telling word on cue: "bolshe" means "more", and it carries the main weight of what Kostya is saying.
-- 'Then I will leave too.' Nastya hands over the thought right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Nastya, what kind of principle is that?' Rodion quizzes straight out before Nastya can change the subject.
-- 'Then I will walk out right along with him.' Kostya favors this sharp word on cue: "vmeste" means "together", and it carries the main weight of what Kostya is saying.
+- 'Actually, I am not asleep.' Kostya chimes in decisively right here and brings in "splyu" ("sleep", from "spat") as the key Russian word here.
+- 'I am right here.' Pressing on quietly in front of Kostya, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I beg your pardon, Konstantin.' Rodion steps in frankly around Nastya, without trying to dress up how he really feels.
+- 'I did not know about that family rule of yours.' Discussing the rule at once, Kostya centers the thought on "semeynom" ("family", from "semeynyy") without wasting a word.
+- 'Well then.' Opening up earnestly before Kostya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Do you not think.' Rodion responds openly with a sigh, leaving no doubt about where he stands.
+- 'That it is time for him to head back out to the street?' Emphasizing the street around Nastya, Kostya brings in "ulitsu" ("street", from "ulitsa") as the key Russian word here.
+- 'Kostya, did you hear how he was coughing all night long?' Cutting in readily right here, Nastya puts the question word "kak" right at the start so Kostya hears the focus immediately.
+- 'I heard him, Nastya.' Rodion jumps in steadily with a shrug, keeping the focus on what actually matters here.
+- 'I cannot take this anymore.' Kostya fires back openly with Rodion, letting the remark speak for itself.
+- 'Then I will leave too.' Jumping in readily right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Nastya, what kind of principle is that?' Rodion quizzes straight out about what Nastya just brought up.
+- 'Then I will walk out right along with him.' Kostya opens up vividly in this beat and brings in "vmeste" ("together") to make the meaning unmistakable.

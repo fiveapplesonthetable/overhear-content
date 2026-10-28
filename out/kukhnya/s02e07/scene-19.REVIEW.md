@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If you had not played along with us, I think.' Max points to one vivid word for Barinov: "podygrali" means "to play along" (from "podygrat"), giving the line its exact edge.
-- 'Because of you, she was threatening to move out of the apartment.' Barinov frames this warning toward Vika: the "-sya" ending on "grozilas" ("to threaten") turns the action inward or makes it happen between people naturally.
-- 'It is a pleasure doing business with you, Maxim Leonidovich.' Vika speaks up bluntly watching Barinov, bringing things back to earth after the buildup.
-- 'And from work as well.' Max favors one direct choice at once: "raboty" means "of work" (from "rabota"), giving the line its exact edge.
-- 'Listen, that is a very good offer.' Barinov states this warning with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Take the metro instead.' Vika responds plainly with a nod, without trying to dress up how she really feels.
-- 'You are looking great today, Chef.' Max focuses on one familiar choice on cue: "vyglyadite" means "look" (from "vyglyadet"), giving the line its exact edge.
-- 'And what business is it of yours?' Barinov puts this warning plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Why are you standing around here?' Vika checks bluntly in front of Barinov without any preamble.
-- 'Are you going to finish drinking that?' Max frames one practical word in earnest: "dopyesh" means "to finish drinking" (from "dopit"), giving the line its exact edge.
-- 'You should not treat him like that, Viktor Petrovich.' Vika leans on one pointed expression with Barinov: "zrya" means "for nothing", and it carries the main weight of what Vika is saying.
-- 'And no hard feelings.' Vika stands firm sharply in this moment, without trying to dress up how she really feels.
-- 'In your person, Viktor Petrovich.' Max uses one loaded piece toward Barinov: "litse" means "face, person" (from "litso"), giving the line its exact edge.
+- 'If you had not played along with us, I think.' Max speaks up smoothly around Barinov and brings in "podygrali" ("to play along", from "podygrat") as the key Russian word here.
+- 'Because of you, she was threatening to move out of the apartment.' Reacting dryly in front of Max, the "-sya" ending on "grozilas" ("to threaten") marks an action that unfolds mutually or turns back on the speaker.
+- 'It is a pleasure doing business with you, Maxim Leonidovich.' Vika replies bluntly on the spot, making her position completely clear.
+- 'And from work as well.' Talking about the work around Vika, Max lands on "raboty" ("of work", built on "rabota") to keep the statement grounded.
+- 'Listen, that is a very good offer.' Dwelling on the offer at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Take the metro instead.' Vika reacts plainly with a nod, without trying to dress up how she really feels.
+- 'You are looking great today, Chef.' Max responds earnestly around Barinov and leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'And what business is it of yours?' Checking on the matter in front of Vika, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why are you standing around here?' Vika checks bluntly what Max is actually getting at here.
+- 'Are you going to finish drinking that?' Max responds smoothly right here and chooses "dopyesh" ("to finish drinking", from the root "dopit") so Vika hears the exact meaning.
+- 'You should not treat him like that, Viktor Petrovich.' Vika opens up promptly facing Barinov, watching Barinov's face to see how the news lands.
+- 'And no hard feelings.' Vika steps in sharply in this moment, watching Max's face to see how the news lands.
+- 'In your person, Viktor Petrovich.' Touching on the face in front of Barinov, Max lands on "litse" ("face, person", built on "litso") to keep the statement grounded.

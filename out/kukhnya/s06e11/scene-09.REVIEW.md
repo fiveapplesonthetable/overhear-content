@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well how are you feeling, our brave fighter?' Nikita wonders deadpan if there is more going on behind the scenes.
-- 'We have a chance to pay him back the old debt.' Nikita favors one loaded element right here: "vozmozhnost" means "possibility", and it carries the main weight of what Nikita is saying.
-- 'Listen, that guy lost his wallet in the courtyard.' Denis proceeds firmly in their talk, keeping the focus on what actually matters here.
-- 'Here is an ID pass for work, the office is nearby.' Denis cuts in evenly watching Nikita, without trying to dress up how he really feels.
-- 'Strange, but inside there was not a single ruble of money.' Nikita uses one vivid term with Denis: "rublya" means "ruble" (from "rubl"), giving the line its exact edge.
-- 'Let me tell him that I do not need Sveta.' Denis shapes the reaction without fuss: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'And that he should make peace with her soon.' Denis opens up evenly around Katya, bringing things back to earth after the buildup.
-- 'Nikita, tell me, well where are we going right now?' Katya favors this vivid touch on cue: "seychas" means "now", and it carries the main weight of what Katya is saying.
-- 'Wait a little, right now you will find out everything yourself.' Nikita underscores this vivid element at once: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'If there are flowers and candles there, I will leave right away.' Katya replies candidly with a sigh, grounding the moment in plain reality.
-- 'Dad, good afternoon, I want to introduce you.' Nikita grounds this direct choice for Denis: "poznakomit" means "to introduce", and it carries the main weight of what Nikita is saying.
-- 'Meet her, please, this is Katya, my beloved girlfriend!' Nikita frames the comment plainly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Well how are you feeling, our brave fighter?' Nikita wonders deadpan while looking straight at Denis here.
+- 'We have a chance to pay him back the old debt.' Talking about the possibility in front of Denis, Nikita chooses "vozmozhnost" ("possibility") so Denis gets the point right away.
+- 'Listen, that guy lost his wallet in the courtyard.' Bringing up the wallet in this beat, Denis leans on "koshelyok" ("wallet") to give the whole sentence its punch.
+- 'Here is an ID pass for work, the office is nearby.' Denis cuts in evenly during the talk, without trying to dress up how he really feels.
+- 'Strange, but inside there was not a single ruble of money.' Mentioning a single ruble with Denis, Nikita centers the thought on "rublya" ("ruble", from "rubl") without wasting a word.
+- 'Let me tell him that I do not need Sveta.' Opening up candidly at once, Denis starts with "davay" ("come on, let's") to invite Nikita right into the action.
+- 'And that he should make peace with her soon.' Denis follows up evenly with a shrug, grounding the moment in plain reality.
+- 'Nikita, tell me, well where are we going right now?' Katya pushes back openly right here and leans on "skazhi" ("say", a form of "skazat") to give the remark its edge.
+- 'Wait a little, right now you will find out everything yourself.' Nikita proceeds boldly without holding back, leaving no doubt about where he stands.
+- 'If there are flowers and candles there, I will leave right away.' Katya steps in candidly facing Nikita, so Nikita knows she is not just making small talk.
+- 'Dad, good afternoon, I want to introduce you.' Talking about the dad during the talk, Nikita chooses "poznakomit" ("to introduce") so Katya gets the point right away.
+- 'Meet her, please, this is Katya, my beloved girlfriend!' Insisting on how favourite things are to Katya, Nikita puts the weight on "lyubimaya" ("favourite, beloved", from "lyubimyy") as the exchange unfolds.

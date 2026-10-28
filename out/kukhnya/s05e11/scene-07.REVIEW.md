@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It looks great! You can see right away the hand of a master.' Senya centers this vivid expression on cue: "vyglyadit" means "looks" (from "vyglyadet"), giving the line its exact edge.
-- 'Come on!' Barinov sends this update toward Senya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
-- 'Well, good luck! You are going to room three eleven.' Senya jumps in promptly before Barinov, leaving no doubt about where he stands.
-- 'Eleonora Andreyevna, your quail.' Barinov picks this vivid word at once: "perepyolka" means "quail", and it carries the main weight of what Barinov is saying.
-- 'Why did it take so long?' Eleonora hands over that line before Barinov: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'You will have to make up for it!' Eleonora continues warmly with a smile, saying out loud what both of them already know.
-- 'To be honest, I do not think it will work out for us.' Barinov grounds one loaded expression at once: "poluchitsya" means "will come out", and it carries the main weight of what Barinov is saying.
-- 'What if he figures everything out?' Barinov hands over that point beside Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'He will not figure it out!' Eleonora fires back lightly with Barinov, so Barinov knows she is not just making small talk.
-- 'As long as Vitya considers you my enemy.' Eleonora focuses on this telling touch in earnest: "schitayet" means "thinks" (from "schitat"), giving the line its exact edge.
-- 'You will be like his own son to him.' Eleonora underscores one key expression in earnest: "rodnoy" means "dear friend", and it carries the main weight of what Eleonora is saying.
-- 'I hope you are right.' Barinov pushes back honestly as things stand, watching Senya's face to see how the news lands.
+- 'It looks great! You can see right away the hand of a master.' Underscoring the technician before Barinov, Senya chooses "mastera" ("technician", from the root "master") so Barinov hears the exact meaning.
+- 'Come on!' Barinov smoothly gives this word of agreement in the exchange using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Well, good luck! You are going to room three eleven.' Senya steps in promptly with a nod, testing Barinov's reaction in the middle of the exchange.
+- 'Eleonora Andreyevna, your quail.' Focusing on the quail right here, Barinov centers the remark on "perepyolka" ("quail") without any extra fuss.
+- 'Why did it take so long?' Looking over candidly in front of Barinov, Eleonora puts the question word "pochemu" right at the start so Barinov hears the focus immediately.
+- 'You will have to make up for it!' Eleonora pushes back warmly with Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'To be honest, I do not think it will work out for us.' Barinov speaks decisively to Eleonora and centers the remark on "poluchitsya" ("will come out") without any extra fuss.
+- 'What if he figures everything out?' Replying earnestly at once, Barinov keeps normal statement word order here, turning the line into a question for Eleonora purely through rising pitch.
+- 'He will not figure it out!' Eleonora steps in lightly around Barinov, leaving no doubt about where she stands.
+- 'As long as Vitya considers you my enemy.' Turning to her enemy in the exchange, Eleonora leans on "vragom" ("enemy", a form of "vrag") to give the remark its edge.
+- 'You will be like his own son to him.' Eleonora replies evenly in their talk, so Barinov knows she is not just making small talk.
+- 'I hope you are right.' Barinov reacts promptly with a smile, bringing things back to earth after the buildup.

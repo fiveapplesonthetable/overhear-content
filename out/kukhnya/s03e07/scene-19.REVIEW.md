@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, dear Victoria Sergeyevna.' Rodion reaches for this clear term in reply: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
-- 'Good morning, respected Rodion Sergeyevich.' Vika speaks plainly without a pause, refusing to let the moment slip past.
-- 'You look simply wonderful today.' Rodion jumps in honestly during the talk, watching Max's face to see how the news lands.
-- 'Where were you when I really looked wonderful?' Vika reaches for this direct detail in reply: "vyglyadela" means "looked" (from "vyglyadet"), giving the line its exact edge.
-- 'Most likely I was right here.' Rodion fires back boldly facing Max, leaving no doubt about where he stands.
-- 'Oh, our Maxim has returned, good morning, neighbors!' Rodion weighs in evenly without a pause, watching Vika's face to see how the news lands.
-- 'Let us see what is happening in the world out there.' Max leans on one telling detail on cue: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.
-- 'Rodion Sergeyevich, our club finally won!' Max drops this answer with warmth: the "-sya" ending on "nakonets" ("at last, finally") turns the action inward or makes it happen between people naturally.
-- 'What a pity that our chef did not see this.' Max cuts in steadily with a shrug, so Rodion knows he is not just making small talk.
-- 'Yes, what a pity Viktor Petrovich got poisoned so foolishly by a cockroach.' Rodion centers one concrete term at once: "tarakanom" means "cockroach" (from "tarakan"), giving the line its exact edge.
-- 'Here is everything I found, I will not cook today.' Vika holds firm briskly as things stand, leaving no doubt about where she stands.
-- 'You are the very best I have, I never regretted choosing you.' Max follows up evenly to be clear, making his position completely clear.
+- 'Good morning, dear Victoria Sergeyevna.' Rodion politely speaks this morning greeting in front of Vika using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'Good morning, respected Rodion Sergeyevich.' Vika briskly chooses this morning greeting with Rodion using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'You look simply wonderful today.' Rodion jumps in honestly in their talk, bringing things back to earth after the buildup.
+- 'Where were you when I really looked wonderful?' Touching on the honestly right here, Vika reaches for the Russian word "pravda" ("honestly") right at the heart of the line.
+- 'Most likely I was right here.' Rodion reacts directly in this beat and lands on "skoreye" ("quickly, right away", built on "skoro") to keep the statement grounded.
+- 'Oh, our Maxim has returned, good morning, neighbors!' Rodion fires back evenly with a sigh, keeping the focus on what actually matters here.
+- 'Let us see what is happening in the world out there.' Discussing the world in front of Rodion, Max centers the thought on "posmotrim" ("have a look", from "posmotret") without wasting a word.
+- 'Rodion Sergeyevich, our club finally won!' Pointing to his club in front of Rodion, the "-sya" ending on "nakonets" ("at last, finally") marks an action that unfolds mutually or turns back on the speaker.
+- 'What a pity that our chef did not see this.' Max pushes back steadily during the talk, steering the talk right where he wants it.
+- 'Yes, what a pity Viktor Petrovich got poisoned so foolishly by a cockroach.' Highlighting a cockroach during the talk, Rodion lands on "tarakanom" ("cockroach", built on "tarakan") to keep the statement grounded.
+- 'Here is everything I found, I will not cook today.' Vika pushes back readily to Rodion and uses "segodnya" ("today") to carry the main weight of the thought.
+- 'You are the very best I have, I never regretted choosing you.' Max pushes back evenly with a nod, without trying to dress up how he really feels.

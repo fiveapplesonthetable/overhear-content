@@ -32,20 +32,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Katya, did you know about this?' Barinov inquires quietly if there is more going on behind the scenes.
-- 'She knew nothing about it.' Eleonora features this key expression on cue: "znala" means "knew" (from "znat"), giving the line its exact edge.
-- 'So this is your personal plan?' Barinov sends that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Calm down, my husband hired you.' Eleonora follows up wryly as things stand, so Katya knows she is not just making small talk.
-- 'He left me this hotel.' Eleonora grounds one direct element in reply: "ostavil" means "left" (from "ostavit"), giving the line its exact edge.
-- 'Did another husband run away from you?' Barinov hands over this line toward Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Accept my congratulations, my dear.' Barinov cuts in candidly around Eleonora, keeping the focus on what actually matters here.
-- 'He ran so fast that he forgot the hotel.' Barinov leans on this clear piece right here: "gostinitsu" means "the hotel" (from "gostinitsa"), giving the line its exact edge.
-- 'Actually, he died recently.' Eleonora drops the comment toward Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Look for another head chef for yourselves.' Barinov stands firm warmly as things stand, saying out loud what both of them already know.
-- 'Mom, please stop him!' Katya focuses on this key choice on cue: "ostanovi" means "stop" (from "ostanovit"), giving the line its exact edge.
-- 'Denis is a very good guy.' Katya shares this statement for Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'But he is more of a musician than a cook.' Katya fires back steadily to settle things, keeping the focus on what actually matters here.
-- 'So he still has not made up his mind?' Eleonora uses one memorable term in reply: "opredelilsya" means "made up his mind" (from "opredelitsya"), giving the line its exact edge.
-- 'We agreed: you do not interfere in my life.' Katya lays out that thought briskly now: the "-sya" ending on "vmeshivayeshsya" ("you interfere") turns the action inward or makes it happen between people naturally.
-- 'Tomorrow we have an important event.' Eleonora proceeds pointedly without holding back, saying out loud what both of them already know.
-- 'Our head cook there got sick.' Eleonora emphasizes one colorful expression right here: "glavnyy" means "main, chief", and it carries the main weight of what Eleonora is saying.
-- 'Your cuisine could save the situation.' Eleonora grounds one practical touch in earnest: "polozheniye" means "position, situation", and it carries the main weight of what Eleonora is saying.
+- 'She knew nothing about it.' Cutting in dryly around Barinov, Eleonora pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'So this is your personal plan?' Bringing up the plan in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Calm down, my husband hired you.' Eleonora reacts wryly during the talk, watching Barinov's face to see how the news lands.
+- 'He left me this hotel.' Addressing the hotel with Barinov, Eleonora leans on "ostavil" ("left", a form of "ostavit") to give the remark its edge.
+- 'Did another husband run away from you?' Turning plainly beside Eleonora, Barinov keeps normal statement word order here, turning the line into a question for Eleonora purely through rising pitch.
+- 'Accept my congratulations, my dear.' Barinov reacts candidly across the room, grounding the moment in plain reality.
+- 'He ran so fast that he forgot the hotel.' Discussing the hotel to Eleonora, Barinov centers the thought on "gostinitsu" ("the hotel", from "gostinitsa") without wasting a word.
+- 'Actually, he died recently.' Replying dryly on the spot, Eleonora drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Look for another head chef for yourselves.' Barinov replies warmly with a sigh, steering the talk right where he wants it.
+- 'Mom, please stop him!' Underscoring the mum on the spot, Katya reaches for the Russian word "ostanovi" ("stop", built from "ostanovit") right at the center of the line.
+- 'Denis is a very good guy.' Confirming how good things are before Barinov, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'But he is more of a musician than a cook.' Katya steps in steadily with a smile, grounding the moment in plain reality.
+- 'So he still has not made up his mind?' Eleonora fires back warmly to Katya and uses "opredelilsya" ("made up his mind", from "opredelitsya") to make the point stick.
+- 'We agreed: you do not interfere in my life.' Jumping in firmly before Eleonora, the "-sya" ending on "vmeshivayeshsya" ("you interfere") marks an action that unfolds mutually or turns back on the speaker.
+- 'Tomorrow we have an important event.' Eleonora speaks pointedly with a nod, watching Katya's face to see how the news lands.
+- 'Our head cook there got sick.' Eleonora weighs in vividly on the spot and chooses "glavnyy" ("main, chief") so Katya gets the point right away.
+- 'Your cuisine could save the situation.' Eleonora replies wryly during the talk, so Katya knows she is not just making small talk.

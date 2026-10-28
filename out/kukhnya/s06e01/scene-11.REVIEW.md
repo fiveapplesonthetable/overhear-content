@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Louis.' Barinov brings this point without fuss: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Not bad, but it crunches too hard.' The guest cuts in quietly beside Louis, shifting the whole mood of the room in a single beat.
-- 'Honestly?' Barinov colors one loaded element right here: "chestno" means "honestly", and it carries the main weight of what Barinov is saying.
-- 'Sorry, like son-in-law, like cookies.' Barinov hands over this warning briskly now: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'Are you planning to cook in my kitchen?' Barinov wonders wryly about what the guest just brought up.
-- 'Vitya, have you seen my glasses?' The guest spotlights one colorful term on cue: "ochki" means "glasses", and it carries the main weight of what the guest is saying.
-- 'Well where are they?' The guest gives this point on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I think I found them.' Barinov speaks quietly to be clear, to clear the air between them once and for all.
-- 'Good for you, Vitya.' The guest anchors this direct touch on cue: "molodets" means "well done, good boy", and it carries the main weight of what the guest is saying.
-- 'Now you will make these cookies.' The guest chooses one classic expression for Louis: "pechenye" means "cookies, pastry", and it carries the main weight of what the guest is saying.
-- 'I have taken over the restaurant affairs.' Louis opens up pointedly with a nod, making his position completely clear.
-- 'In the kitchen we urgently need to replace the refrigerator.' Louis spotlights one loaded expression on cue: "kholodilnik" means "fridge", and it carries the main weight of what Louis is saying.
+- 'Thank you, Louis.' Barinov politely extends this word of thanks at this moment using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Not bad, but it crunches too hard.' The guest reacts quietly hearing Barinov, letting the remark speak for itself.
+- 'Honestly?' Barinov fires back directly to the guest and puts the emphasis on "chestno" ("honestly") in the middle of the talk.
+- 'Sorry, like son-in-law, like cookies.' Barinov promptly directs this informal apology as they meet using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'Are you planning to cook in my kitchen?' Barinov wonders wryly where this conversation is heading next.
+- 'Vitya, have you seen my glasses?' Addressing his glasses with Barinov, the guest puts the emphasis on "ochki" ("glasses") in the middle of the talk.
+- 'Well where are they?' Reacting boldly beside Barinov, spoken Russian drops "is" and "are" in the present, letting the guest place the two halves side by side.
+- 'I think I found them.' Barinov fires back quietly around the guest, testing the guest's reaction in the middle of the exchange.
+- 'Good for you, Vitya.' The guest responds openly during the talk and uses "molodets" ("well done, good boy") to carry the main weight of the thought.
+- 'Now you will make these cookies.' The guest follows up boldly with a sigh, testing Louis's reaction in the middle of the exchange.
+- 'I have taken over the restaurant affairs.' Pointing to the restaurant with a sigh, Louis makes it clear to the guest that he means every word.
+- 'In the kitchen we urgently need to replace the refrigerator.' Addressing the fridge at once, Louis reaches for the Russian word "kholodilnik" ("fridge") right at the heart of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's not escalate things, let's get straight to business.' Barinov focuses on this sharp term with Elena: "pereydyom" means "to cross, switch" (from "pereyti"), giving the line its exact edge.
-- 'Elena said that you are a very promising artist.' Barinov reaches for this direct piece for the guest: "perspektivnyy" means "promising", and it carries the main weight of what Barinov is saying.
-- 'Gena, you and I need to get divorced urgently.' Elena reacts lightly during the talk, grounding the moment in plain reality.
-- 'Why, I am not against it at all, I am all for it!' The guest centers this telling element with Elena: "sovsem" means "at all", and it carries the main weight of what the guest is saying.
-- 'Why are you trying to humiliate me in front of your new husband?' The guest sends that remark on cue: the "-sya" ending on "pytayeshsya" ("to try, to attempt") turns the action inward or makes it happen between people naturally.
-- 'I am ashamed that I have such an ex-husband!' Elena opens up steadily beside the guest, saying out loud what both of them already know.
-- 'Lena, why are you getting so worked up right now?' See how Barinov replies to Elena plainly here — the Russian word "zavodishsya" ("get worked up", built from "zavoditsya") does the heavy lifting.
-- 'Let's discuss everything normally and calmly.' Barinov offers this warning without fuss: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Well, you really are provoking him yourself right now!' Barinov cuts in calmly with a sigh, shifting the whole mood of the room in a single beat.
-- 'Oh, I am the one provoking him? Then I can leave!' Elena emphasizes one classic detail for the guest: "tseplyayu" means "provoke, pick at" (from "tseplyat"), giving the line its exact edge.
-- 'I will leave the two of you alone together here, all the best!' Elena uses one concrete expression in reply: "khoroshego" means "good, the best" (from "khoroshiy"), giving the line its exact edge.
-- 'So, comrade, no divorce is in sight for now!' The guest replies candidly across the room, grounding the moment in plain reality.
+- 'Let's not escalate things, let's get straight to business.' Turning to the case beside Elena, Barinov chooses "pereydyom" ("to cross, switch", from the root "pereyti") so Elena hears the exact meaning.
+- 'Elena said that you are a very promising artist.' Barinov cuts in honestly without a pause, grounding the moment in plain reality.
+- 'Gena, you and I need to get divorced urgently.' Elena pushes back lightly in their talk, keeping the focus on what actually matters here.
+- 'Why, I am not against it at all, I am all for it!' The guest reacts directly beside Elena and chooses "sovsem" ("at all") so Elena gets the point right away.
+- 'Why are you trying to humiliate me in front of your new husband?' Dwelling on the husband during the talk, the guest puts the question word "pochemu" right at the start so Elena hears the focus immediately.
+- 'I am ashamed that I have such an ex-husband!' Elena chimes in steadily hearing the guest, before the guest can change the subject.
+- 'Lena, why are you getting so worked up right now?' Barinov reacts pointedly with Elena and lands on "zavodishsya" ("get worked up", built on "zavoditsya") to keep the statement grounded.
+- 'Let's discuss everything normally and calmly.' Jumping in directly during the talk, Barinov starts with "davay" ("come on, let's") to invite Elena right into the action.
+- 'Well, you really are provoking him yourself right now!' Barinov pushes back dryly across the room, bringing things back to earth after the buildup.
+- 'Oh, I am the one provoking him? Then I can leave!' Elena counters frankly in the exchange and reaches for the Russian word "tseplyayu" ("provoke, pick at", built from "tseplyat") right at the center of the line.
+- 'I will leave the two of you alone together here, all the best!' Elena speaks openly with a shrug, so the guest knows she is not just making small talk.
+- 'So, comrade, no divorce is in sight for now!' The guest proceeds candidly in their talk, to clear the air between them once and for all.

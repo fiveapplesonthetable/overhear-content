@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, bring me a fresh little lemon slice.' Barinov pushes back warmly without holding back, making his position completely clear.
-- 'I still have plenty of time right now.' Barinov reaches for one classic word on cue: "vremeni" means "time" (from "vremya"), giving the line its exact edge.
-- 'Alright, Viktor Petrovich, I will bring it right now.' Senya delivers this line with candor: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'I propose a toast to the easiest victory!' Barinov jumps in sharply without any doubt, refusing to let the moment slip past.
-- 'Wait, what kind of trick is this here?' Barinov sharpens one loaded detail right here: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Vitya, do not touch my glasses with your hands, remember?' Mikhail makes that point facing Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'Otherwise you immediately lost our bet!' Mikhail reacts quietly toward Barinov, to clear the air between them once and for all.
-- 'Then how am I supposed to get the shot glass?' Barinov favors one vivid choice in reply: "ryumku" means "shot glass" (from "ryumka"), giving the line its exact edge.
-- 'In no way, Vitya, you cannot get it at all!' Mikhail hands over this warning on cue: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'You thought this up on purpose in advance!' Barinov replies steadily to be clear, saying out loud what both of them already know.
-- 'A deal is a deal, hand the ticket over to me.' Mikhail favors one sharp expression in earnest: "dorozhe" means "dearer" (from "dorogoy"), giving the line its exact edge.
-- 'Fine, take it, but I will remember this!' Barinov directs the comment with ease: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
+- 'Senya, bring me a fresh little lemon slice.' Barinov reacts warmly hearing Senya, shifting the mood of the conversation in a single beat.
+- 'I still have plenty of time right now.' Touching on the time in the exchange, Barinov uses "vremeni" ("time", from "vremya") to make the point stick.
+- 'Alright, Viktor Petrovich, I will bring it right now.' Senya responds warmly in front of Barinov and chooses "khorosho" ("good, fine") so Barinov gets the point right away.
+- 'I propose a toast to the easiest victory!' Barinov speaks sharply with a nod, testing Senya's reaction in the middle of the exchange.
+- 'Wait, what kind of trick is this here?' Barinov weighs in dryly to Mikhail and brings in "podozhdi" ("wait", from "podozhdat") as the key Russian word here.
+- 'Vitya, do not touch my glasses with your hands, remember?' Focusing on his glasses during the talk, Mikhail keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Otherwise you immediately lost our bet!' Mikhail chimes in quietly on the spot, grounding the moment in plain reality.
+- 'Then how am I supposed to get the shot glass?' Addressing the shot glass on the spot, Barinov reaches for the Russian word "ryumku" ("shot glass", built from "ryumka") right at the center of the line.
+- 'In no way, Vitya, you cannot get it at all!' Looking over briskly beside Barinov, Mikhail adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'You thought this up on purpose in advance!' Barinov weighs in steadily on the spot, making his position completely clear.
+- 'A deal is a deal, hand the ticket over to me.' Emphasizing how dearer things are to Barinov, Mikhail puts the weight on "dorozhe" ("dearer", from "dorogoy") as the exchange unfolds.
+- 'Fine, take it, but I will remember this!' Barinov speaks dryly in the exchange and lands on "zapomnyu" ("will remember", built on "zapomnit") to keep the statement grounded.

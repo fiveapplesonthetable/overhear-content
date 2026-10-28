@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, wait a moment, let's talk calmly.' Max continues lightly without holding back, grounding the moment in plain reality.
-- 'Are you angry because of that rifle from yesterday?' Max colors one colorful word on cue: "vcherashnego" means "yesterday's" (from "vcherashniy"), giving the line its exact edge.
-- 'Senya, why do you have blood here?' Max delivers the comeback facing Senya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Oh, those are just raw kidneys that thawed out.' Senya answers frankly during the talk, making his position completely clear.
-- 'What a nuisance, that was my reconciliation dinner!' Senya chooses one classic touch in reply: "primiritelnyy" means "dinner", and it carries the main weight of what Senya is saying.
-- 'Excuse me, what kind of reconciliation dinner?' Max shapes this statement calmly now: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'He had a big quarrel with his wife yesterday.' Vika jumps in boldly without any doubt, so Max knows she is not just making small talk.
-- 'And now he wants to beg forgiveness with a tasty dinner.' Vika leans on this key element on cue: "proshcheniye" means "forgiveness", and it carries the main weight of what Vika is saying.
-- 'Candles, wine, and kidneys have never let me down!' Senya hands over that point briskly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Except the time when you cooked spoiled kidneys!' Vika pushes back warmly beside Senya, keeping the focus on what actually matters here.
-- 'I also want to arrange a romantic evening.' Max emphasizes one memorable element on cue: "romanticheskiy" means "romantic", and it carries the main weight of what Max is saying.
-- 'Denis will stay longer at the cinema today.' Max states the comment calmly now: the "-sya" ending on "zaderzhitsya" ("to be delayed") turns the action inward or makes it happen between people naturally.
+- 'Vika, wait a moment, let's talk calmly.' Max continues lightly without any doubt, bringing things back to earth after the buildup.
+- 'Are you angry because of that rifle from yesterday?' Focusing on the gun around Senya, Max brings in "vcherashnego" ("yesterday's", from "vcherashniy") as the key Russian word here.
+- 'Senya, why do you have blood here?' Pointing to the blood on the spot, Max uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Oh, those are just raw kidneys that thawed out.' Senya pushes back frankly with a sigh, without trying to dress up how he really feels.
+- 'What a nuisance, that was my reconciliation dinner!' Addressing the annoyance in this beat, Senya centers the remark on "primiritelnyy" ("dinner") without any extra fuss.
+- 'Excuse me, what kind of reconciliation dinner?' Max directly speaks this personal apology for Vika using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'He had a big quarrel with his wife yesterday.' Vika fires back boldly without any doubt, testing Max's reaction in the middle of the exchange.
+- 'And now he wants to beg forgiveness with a tasty dinner.' Discussing the forgiveness on the spot, Vika centers the remark on "proshcheniye" ("forgiveness") without any extra fuss.
+- 'Candles, wine, and kidneys have never let me down!' Touching on the candles to Vika, Senya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Except the time when you cooked spoiled kidneys!' Vika pushes back warmly with a nod, testing Senya's reaction in the middle of the exchange.
+- 'I also want to arrange a romantic evening.' Turning to a romantic evening to Vika, Max brings in "romanticheskiy" ("romantic") to make the meaning unmistakable.
+- 'Denis will stay longer at the cinema today.' Dwelling on the longer at once, the "-sya" ending on "zaderzhitsya" ("to be delayed") marks an action that unfolds mutually or turns back on the speaker.

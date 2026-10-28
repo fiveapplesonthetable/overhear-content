@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Make sure I have the hundred thousand tomorrow.' Barinov steps in openly with a smile, without trying to dress up how he really feels.
-- 'Otherwise we will be having a very different conversation.' Lyova grounds one loaded touch in reply: "razgovarivat" means "to talk, to speak", and it carries the main weight of what Lyova is saying.
-- 'Why are you worrying so much?' Barinov phrases the remark plainly here: the "-sya" ending on "volnuyeshsya" ("to worry") turns the action inward or makes it happen between people naturally.
-- 'You are not the one who borrowed it.' Lyova counters honestly without a pause, saying out loud what both of them already know.
-- 'Yeah, right, I was not the one who borrowed it.' Barinov reaches for this telling choice in earnest: "zanimal" means "occupy, take up" (from "zanimat"), giving the line its exact edge.
-- 'The Chef is in the hospital, what can you get from him now?' Lyova makes this point with ease: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Why are you getting so worked up?' Barinov presses skeptically as Lyova tries to explain the situation.
-- 'Oh, I am in.' Lyova sends the comeback to Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Here, take ten thousand.' Barinov gives this point to Lyova: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Make sure I have the hundred thousand tomorrow.' Barinov weighs in openly watching Lyova, so Lyova knows he is not just making small talk.
+- 'Otherwise we will be having a very different conversation.' Lyova proceeds sharply to Barinov and reaches for the Russian word "razgovarivat" ("to talk, to speak") right at the heart of the line.
+- 'Why are you worrying so much?' Pressing on smoothly during the talk, the "-sya" ending on "volnuyeshsya" ("to worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'You are not the one who borrowed it.' Lyova fires back honestly hearing Barinov, keeping the focus on what actually matters here.
+- 'Yeah, right, I was not the one who borrowed it.' Barinov chimes in openly in the exchange and puts the weight on "zanimal" ("occupy, take up", from "zanimat") as the exchange unfolds.
+- 'The Chef is in the hospital, what can you get from him now?' Returning to the hospital beside Barinov, Lyova puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Why are you getting so worked up?' Barinov presses skeptically where this conversation is heading next.
+- 'Oh, I am in.' Pushing back readily right here, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Here, take ten thousand.' Dwelling on the thousand to Lyova, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
 - 'Why are you all looking at me like that?' Lyova checks bluntly to see how Barinov will answer on the spot.
-- 'The Chef already owes me ten thousand.' Barinov reaches for this key detail toward Lyova: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'So I have actually put in even more than you did.' Lyova frames this key term with Barinov: "polozhil" means "laid, put down" (from "polozhit"), giving the line its exact edge.
-- 'All right, here you go.' Barinov counters boldly during the talk, keeping the focus on what actually matters here.
+- 'The Chef already owes me ten thousand.' Mentioning the thousand on the spot, Barinov leans on "tysyach" ("thousand", a form of "tysyacha") to give the remark its edge.
+- 'So I have actually put in even more than you did.' Lyova chimes in candidly without any doubt, so Barinov knows he is not just making small talk.
+- 'All right, here you go.' Barinov politely gives this word of agreement in the exchange using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".

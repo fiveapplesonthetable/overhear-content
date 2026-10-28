@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They are supposed to deliver fresh meat there right now, go check it.' Fedya uses one key choice toward Denis: "prokontroliruy" means "check, supervise" (from "prokontrolirovat"), giving the line its exact edge.
-- 'Senya, your party yesterday turned out great.' Denis sends this update plainly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Denis, tell me, how are things with you and Sveta?' Fedya probes skeptically in front of Denis without any preamble.
-- 'Nothing at all, that was just to make Katya jealous.' Denis highlights one direct expression for Vika: "porevnovala" means "to be jealous for a while" (from "porevnovat"), giving the line its exact edge.
-- 'I saw yesterday how it was with you two after tequila.' Fedya makes that answer before Denis: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Honestly there is nothing going on between her and me.' Denis cuts in right away in this moment, grounding the moment in plain reality.
-- 'That is it, Misha, bye, do not call me anymore.' Vika grounds one classic element with Denis: "bolshe" means "more", and it carries the main weight of what Vika is saying.
-- 'Hi, Sveta, who were you talking to just now?' Denis offers the reply around Vika: opening with the casual greeting "privet" ("hi") signals right away that Denis and Vika are on familiar terms.
-- 'With my boyfriend, or rather he is gone now.' Vika stands firm decisively without holding back, shifting the whole mood of the room in a single beat.
-- 'Yesterday I came home and could not lie to him.' Vika spotlights one telling choice right here: "prishla" means "came" (from "priyti"), giving the line its exact edge.
-- 'I told him about our kiss, and we broke up.' Vika jumps in briskly with a smile, shifting the whole mood of the room in a single beat.
-- 'But I think that is even for the best.' Vika pushes back right away around Fedya, so Fedya knows she is not just making small talk.
-- 'Listen, does Sveta know that there is nothing between you two?' Fedya favors one loaded element in earnest: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
+- 'They are supposed to deliver fresh meat there right now, go check it.' Touching on the meat during the talk, Fedya centers the thought on "prokontroliruy" ("check, supervise", from "prokontrolirovat") without wasting a word.
+- 'Senya, your party yesterday turned out great.' Dwelling on the party with Fedya, Denis uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Denis, tell me, how are things with you and Sveta?' Fedya probes skeptically what Denis is actually getting at here.
+- 'Nothing at all, that was just to make Katya jealous.' Denis fires back vividly on the spot and chooses "porevnovala" ("to be jealous for a while", from the root "porevnovat") so Fedya hears the exact meaning.
+- 'I saw yesterday how it was with you two after tequila.' Fedya weighs in bluntly beside Denis, testing Denis's reaction in the middle of the exchange.
+- 'Honestly there is nothing going on between her and me.' Denis cuts in right away without a pause, refusing to let the moment slip past.
+- 'That is it, Misha, bye, do not call me anymore.' Vika chimes in directly beside Denis and chooses "zvoni" ("call", from the root "zvonit") so Denis hears the exact meaning.
+- 'Hi, Sveta, who were you talking to just now?' Jumping in smoothly in front of Vika, Denis keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'With my boyfriend, or rather he is gone now.' Vika counters decisively toward Denis, steering the talk right where she wants it.
+- 'Yesterday I came home and could not lie to him.' Vika fires back warmly to Denis and leans on "vchera" ("yesterday") to give the whole sentence its punch.
+- 'I told him about our kiss, and we broke up.' Pointing to her kiss during the talk, Vika lands on "potseluye" ("about the kiss", built on "potseluy") to keep the statement grounded.
+- 'But I think that is even for the best.' Vika chimes in right away during the talk, without trying to dress up how she really feels.
+- 'Listen, does Sveta know that there is nothing between you two?' Fedya chimes in decisively in front of Vika and uses "slushay" ("listen", from "slushat") to make the point stick.

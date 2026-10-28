@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, what happened?' Barinov centers one practical word at once: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'What happened, Vitya, is this!' Elena states the reply toward Katya: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'Most of all it interests me why this was in your car.' Elena proceeds firmly without any doubt, watching Barinov's face to see how the news lands.
-- 'Oh, my bra! Amazing.' Katya chooses one key piece right here: "potryasayushche" means "incredible", and it carries the main weight of what Katya is saying.
-- 'She doesn't even hide it! Can you imagine?' Elena brings this update frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Lena, you misunderstood everything.' Barinov stands firm frankly across the room, so Katya knows he is not just making small talk.
-- 'And how was I supposed to understand it?' Elena reaches for one practical touch right here: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
-- 'A girl got into your car and she got hot.' Barinov fires back frankly toward Katya, refusing to let the moment slip past.
-- 'And she undressed?' Elena questions quietly to see how Barinov will answer on the spot.
-- 'Lena, hold on! I should have told you right away.' Barinov chooses one memorable touch on cue: "postoy" means "wait" (from "postoyat"), giving the line its exact edge.
-- 'Carrying on affairs in your own kitchen behind my back!' Elena speaks quietly hearing Barinov, without trying to dress up how she really feels.
-- 'What affairs? Katya is my daughter!' Barinov challenges calmly what Katya is actually getting at here.
+- 'Hi, what happened?' Barinov warmly chooses this casual greeting toward Elena using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'What happened, Vitya, is this!' Looking over boldly around Barinov, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'Most of all it interests me why this was in your car.' Elena weighs in firmly toward Katya, before Katya can change the subject.
+- 'Oh, my bra! Amazing.' Talking about her bra during the talk, Katya brings in "potryasayushche" ("incredible") to make the meaning unmistakable.
+- 'She doesn't even hide it! Can you imagine?' Stepping in warmly right here, Elena keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Lena, you misunderstood everything.' Barinov steps in frankly in their talk, keeping the focus on what actually matters here.
+- 'And how was I supposed to understand it?' Elena steps in plainly before Barinov and leans on "dolzhna" ("should, must", a form of "dolzhen") to give the remark its edge.
+- 'A girl got into your car and she got hot.' Bringing up the girlfriend in the exchange, Barinov centers the remark on "devushka" ("girlfriend") without any extra fuss.
+- 'And she undressed?' Elena questions quietly how Barinov expects that to work in practice.
+- 'Lena, hold on! I should have told you right away.' Barinov pushes back plainly to Elena and chooses "postoy" ("wait", from the root "postoyat") so Elena hears the exact meaning.
+- 'Carrying on affairs in your own kitchen behind my back!' Touching on the affairs in the exchange, Elena centers the thought on "romany" ("affairs, romances", from "roman") without wasting a word.
+- 'What affairs? Katya is my daughter!' Barinov challenges calmly to see how Katya will answer on the spot.

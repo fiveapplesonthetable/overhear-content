@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right in here.' Max delivers that remark around Kostya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I see you are not glad that I came?' Vika wonders openly why things suddenly took this turn between them.
-- 'What do you mean not glad?' Max brings this update calmly now: putting the question word "kak" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'By the way, how did you find out that I was here?' Kostya drops the thought on cue: opening with "kstati" ("by the way") lets Kostya drop a new detail into the conversation as if it just crossed his mind.
-- 'Kostya told me.' Max replies right away without any doubt, testing Kostya's reaction in the middle of the exchange.
-- 'Kostya, which hospital is Max in?' Vika emphasizes one practical word toward Max: "bolnitse" means "the hospital" (from "bolnitsa"), giving the line its exact edge.
-- 'I do not know.' Max directs that remark for Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'All right, why is your coffee machine dirty?' Kostya presses deadpan in front of Vika without any preamble.
-- 'Should I fine you?' Max reaches for this vivid detail on cue: "shtrafovat" means "to fine, penalize", and it carries the main weight of what Max is saying.
-- 'I literally just made coffee.' Kostya phrases that remark at once: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'And where are all the oranges?' Max probes wryly whether Kostya really thought this through.
-- 'Did you order the wine?' Kostya uses one vivid term at once: "zakazal" means "ordered" (from "zakazat"), giving the line its exact edge.
-- 'Which hospital is Max in?' Vika hands over this update with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Right in here.' Speaking earnestly with Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I see you are not glad that I came?' Vika wonders openly where this conversation is heading next.
+- 'What do you mean not glad?' Replying candidly with Kostya, Max puts the question word "kak" right at the start so Kostya hears the focus immediately.
+- 'By the way, how did you find out that I was here?' Holding firm plainly beside Max, Kostya opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'Kostya told me.' Max fires back right away during the talk, grounding the moment in plain reality.
+- 'Kostya, which hospital is Max in?' Turning to the hospital during the talk, Vika lands on "bolnitse" ("the hospital", built on "bolnitsa") to keep the statement grounded.
+- 'I do not know.' Pushing back dryly beside Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'All right, why is your coffee machine dirty?' Kostya presses deadpan what Max is actually getting at here.
+- 'Should I fine you?' Max chimes in frankly during the talk and centers the remark on "shtrafovat" ("to fine, penalize") without any extra fuss.
+- 'I literally just made coffee.' Addressing the coffee right here, Kostya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'And where are all the oranges?' Max probes wryly about what Kostya just brought up.
+- 'Did you order the wine?' Mentioning the wine with Vika, Kostya lands on "vino" ("wine") as the key everyday word here.
+- 'Which hospital is Max in?' Touching on the hospital before Max, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.

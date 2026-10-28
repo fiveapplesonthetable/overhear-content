@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, let's go home, come on, let's leave quickly!' Fedya emphasizes one colorful term with Barinov: "poydyom" means "let's go" (from "poyti"), giving the line its exact edge.
-- 'Why are you scared just like a little girl?' Senya offers the remark before Fedya: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'Remember, no poltergeist exists at all!' Senya speaks frankly without a pause, saying out loud what both of them already know.
-- 'No ghost exists, do you hear me?' Senya chooses this direct element right here: "sushchestvuyet" means "exists, there are" (from "sushchestvovat"), giving the line its exact edge.
-- 'Senya, what is happening, that is Grandpa Kirill!' Fedya counters frankly watching Barinov, steering the talk right where he wants it.
-- 'On your knees, you should not have disturbed me!' Barinov opens up sharply hearing Senya, grounding the moment in plain reality.
-- 'Please do not kill us, we will do anything at all!' Fedya anchors one familiar touch in reply: "sdelayem" means "we'll do" (from "sdelat"), giving the line its exact edge.
-- 'Well then, pranksters, did you get a big scare just now?' Barinov voices this answer with warmth: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'Now you are getting the full works: big fines and written explanations!' Barinov weighs in at once without a pause, so Fedya knows he is not just making small talk.
-- 'You are getting the full works tonight, that goes for everyone!' Barinov grounds one memorable expression right here: "kasayetsya" means "concerns, applies to" (from "kasatsya"), giving the line its exact edge.
-- 'Chef, if it consoles you at all, we nearly died of fright!' Fedya picks one loaded touch in earnest: "strakha" means "fear" (from "strakh"), giving the line its exact edge.
-- 'Shut up, follow me quickly!' Barinov proceeds right away to settle things, leaving no doubt about where he stands.
+- 'Senya, let's go home, come on, let's leave quickly!' Fedya reacts pointedly on the spot and centers the thought on "poydyom" ("let's go", from "poyti") without wasting a word.
+- 'Why are you scared just like a little girl?' Underscoring how small things are around Fedya, Senya puts the question word "chto" right at the start so Fedya hears the focus immediately.
+- 'Remember, no poltergeist exists at all!' Senya proceeds frankly watching Fedya, without trying to dress up how he really feels.
+- 'No ghost exists, do you hear me?' Talking about the ghost before Fedya, Senya reaches for the Russian word "sushchestvuyet" ("exists, there are", built from "sushchestvovat") right at the center of the line.
+- 'Senya, what is happening, that is Grandpa Kirill!' Discussing the grandfather right here, Fedya reaches for the Russian word "proiskhodit" ("is going on") right at the heart of the line.
+- 'On your knees, you should not have disturbed me!' Barinov answers sharply with a shrug, without trying to dress up how he really feels.
+- 'Please do not kill us, we will do anything at all!' Fedya replies readily with Barinov and reaches for the Russian word "sdelayem" ("we'll do", built from "sdelat") right at the center of the line.
+- 'Well then, pranksters, did you get a big scare just now?' Stepping in quietly before Fedya, Barinov puts the question word "chto" right at the start so Fedya hears the focus immediately.
+- 'Now you are getting the full works: big fines and written explanations!' Barinov replies at once across the room, before Fedya can change the subject.
+- 'You are getting the full works tonight, that goes for everyone!' Addressing the minced at once, Barinov brings in "kasayetsya" ("concerns, applies to", from "kasatsya") as the key Russian word here.
+- 'Chef, if it consoles you at all, we nearly died of fright!' Fedya weighs in sharply toward Barinov, steering the talk right where he wants it.
+- 'Shut up, follow me quickly!' Barinov proceeds right away hearing Fedya, leaving no doubt about where he stands.

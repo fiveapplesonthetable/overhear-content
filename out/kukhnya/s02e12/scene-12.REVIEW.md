@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not bad, simply good.' Barinov cuts in right away with a shrug, watching Vika's face to see how the news lands.
-- 'He spent two hours making a single dish.' Vika points to this sharp word with Barinov: "blyudo" means "dish", and it carries the main weight of what Vika is saying.
-- 'I would like to see him show off like that during a rush.' Barinov directs this statement before Vika: the "-sya" ending on "povypendrivatsya" ("show off") turns the action inward or makes it happen between people naturally.
-- 'We need to stage a kitchen rush.' Vika continues steadily hearing Barinov, to clear the air between them once and for all.
-- 'Then we will see how fast he runs around.' Barinov stresses this key choice on cue: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.
-- 'Well then, I should get going.' Vika speaks up boldly with a sigh, so Barinov knows she is not just making small talk.
-- 'Goodbye, Viktor Petrovich.' Vika responds honestly on the spot, keeping the focus on what actually matters here.
-- 'There was something I wanted to ask of you.' Vika grounds this direct choice for Barinov: "poprosit" means "to ask", and it carries the main weight of what Vika is saying.
-- 'You see, whenever you come to visit.' Barinov offers that remark at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Viktor Petrovich starts feeling much better.' Vika responds openly across the room, refusing to let the moment slip past.
-- 'Is that so?' Barinov offers this statement beside Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It would mean a lot to him.' Vika sends this update toward Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I can stop by this evening.' Barinov fires back frankly on the spot, to clear the air between them once and for all.
+- 'Not bad, simply good.' Barinov answers right away watching Vika, without trying to dress up how he really feels.
+- 'He spent two hours making a single dish.' Pointing to a single dish beside Barinov, Vika puts the emphasis on "blyudo" ("dish") in the middle of the talk.
+- 'I would like to see him show off like that during a rush.' Pushing back warmly with Vika, the "-sya" ending on "povypendrivatsya" ("show off") marks an action that unfolds mutually or turns back on the speaker.
+- 'We need to stage a kitchen rush.' Vika answers steadily across the room, making her position completely clear.
+- 'Then we will see how fast he runs around.' Barinov answers warmly with Vika and puts the weight on "posmotrim" ("have a look", from "posmotret") as the exchange unfolds.
+- 'Well then, I should get going.' Vika proceeds boldly during the talk, to clear the air between them once and for all.
+- 'Goodbye, Viktor Petrovich.' Vika lightly shares this polite farewell toward Barinov using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.
+- 'There was something I wanted to ask of you.' Vika replies evenly during the talk and reaches for the Russian word "poprosit" ("to ask") right at the heart of the line.
+- 'You see, whenever you come to visit.' Jumping in openly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Viktor Petrovich starts feeling much better.' Vika reacts openly with a sigh, bringing things back to earth after the buildup.
+- 'Is that so?' Jumping in earnestly with Vika, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It would mean a lot to him.' Speaking plainly around Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I can stop by this evening.' Barinov proceeds frankly without holding back, to clear the air between them once and for all.

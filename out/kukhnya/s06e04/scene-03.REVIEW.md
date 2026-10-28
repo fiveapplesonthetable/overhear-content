@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, we agreed specifically on today.' Lyova continues frankly as things stand, making his position completely clear.
-- 'Gulya, she is not going to eat you up.' Lyova reaches for one key element with the guest: "syest" means "to eat", and it carries the main weight of what Lyova is saying.
-- 'Yes, see you soon.' Lyova lays out this point without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I love you very much too.' Lyova weighs in pointedly on the spot, without trying to dress up how he really feels.
-- 'Alright, bye, I am waiting for you.' Lyova colors one memorable detail right here: "poka" means "bye", and it carries the main weight of what Lyova is saying.
-- 'Oh, good morning!' The guest offers this update without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'You finally woke up, son.' The guest follows up evenly in this moment, keeping the focus on what actually matters here.
-- 'Even though you have a day off, you could have helped your mom.' The guest features one concrete element in reply: "vykhodnoy" means "a day off", and it carries the main weight of what the guest is saying.
-- 'I have already washed all the floors.' The guest holds firm boldly with a shrug, watching Lyova's face to see how the news lands.
+- 'No, we agreed specifically on today.' Lyova pushes back frankly without a pause, grounding the moment in plain reality.
+- 'Gulya, she is not going to eat you up.' Lyova cuts in calmly before the guest and reaches for the Russian word "syest" ("to eat") right at the heart of the line.
+- 'Yes, see you soon.' Addressing the meeting to the guest, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I love you very much too.' Lyova weighs in pointedly facing the guest, letting the remark speak for itself.
+- 'Alright, bye, I am waiting for you.' Lyova lightly extends this casual farewell in one quick breath using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'Oh, good morning!' The guest smoothly directs this morning greeting to Lyova using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'You finally woke up, son.' The guest reacts evenly toward Lyova, before Lyova can change the subject.
+- 'Even though you have a day off, you could have helped your mom.' Underscoring a day before Lyova, the guest centers the remark on "vykhodnoy" ("a day off") without any extra fuss.
+- 'I have already washed all the floors.' Underscoring the floors beside Lyova, the guest leans on "poly" ("floors") to give the whole sentence its punch.
 - 'Well and why did you do that, Mom?' Lyova prompts curiously to see how the guest will answer on the spot.
-- 'I would have done everything myself later.' Lyova leans on one concrete word at once: "sdelal" means "did" (from "sdelat"), giving the line its exact edge.
-- 'Yes, with you everything is later.' The guest shares that remark with warmth: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'I would have done everything myself later.' Lyova speaks wryly without any doubt, making his position completely clear.
+- 'Yes, with you everything is later.' Opening up promptly before Lyova, the guest uses "u tebya" (literally "by you") where English says "you have" or "your".

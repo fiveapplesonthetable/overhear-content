@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, I will not last much longer like this.' Max reaches for one telling element with Fedya: "slushayte" means "listen" (from "slushat"), giving the line its exact edge.
-- 'Tell me, what am I supposed to do now?' Max voices this answer at once: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'I, for instance, do not even know.' Senya stands firm decisively on the spot, bringing things back to earth after the buildup.
-- 'Back then I landed in the hospital.' Senya sharpens one loaded detail in reply: "bolnitsu" means "the hospital" (from "bolnitsa"), giving the line its exact edge.
-- 'Otherwise the Chef would not have left me alone.' Senya stands firm at once with a nod, leaving no doubt about where he stands.
-- 'But not everyone was that lucky by far.' Fedya responds firmly around Senya, refusing to let the moment slip past.
-- 'There are also some positives in this.' Fedya anchors one direct piece in reply: "tozhe" means "too", and it carries the main weight of what Fedya is saying.
-- 'And just what positives are there here?' Max drops this answer for Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Lyova became sous-chef after a period like that.' Fedya continues dryly across the room, letting the remark speak for itself.
-- 'True, he started stuttering after that.' Fedya underscores this clear expression at once: "zaikatsya" means "to stutter", and it carries the main weight of what Fedya is saying.
-- 'Katya, I have a matter to discuss with you.' Max puts that point on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Listen, I will not last much longer like this.' Max continues calmly in front of Senya and brings in "slushayte" ("listen", from "slushat") as the key Russian word here.
+- 'Tell me, what am I supposed to do now?' Pressing on frankly during the talk, Max puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'I, for instance, do not even know.' Senya replies decisively with a sigh, grounding the moment in plain reality.
+- 'Back then I landed in the hospital.' Turning to the hospital to Max, Senya centers the thought on "bolnitsu" ("the hospital", from "bolnitsa") without wasting a word.
+- 'Otherwise the Chef would not have left me alone.' Senya reacts evenly to Fedya and uses "inache" ("otherwise") to carry the main weight of the thought.
+- 'But not everyone was that lucky by far.' Fedya follows up firmly hearing Senya, so Senya knows he is not just making small talk.
+- 'There are also some positives in this.' Fedya pushes back evenly in their talk, shifting the mood of the conversation in a single beat.
+- 'And just what positives are there here?' Stepping in directly before Fedya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Lyova became sous-chef after a period like that.' Fedya follows up dryly toward Max, steering the talk right where he wants it.
+- 'True, he started stuttering after that.' Pointing to the honestly at once, Fedya reaches for the Russian word "pravda" ("honestly") right at the heart of the line.
+- 'Katya, I have a matter to discuss with you.' Max pushes back lightly without any doubt, making his position completely clear.
 - 'How can we make your father stop drinking?' Max inquires quietly why things suddenly took this turn between them.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, what are you doing, you miserable traitor?' Fedya offers that reply frankly here: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Fedya, calm down, I have already thought everything through well!' Senya opens up boldly without holding back, making his position completely clear.
-- 'Vinegar acid can easily be fixed with ordinary sugar.' Senya centers one familiar detail with Barinov: "uksusnuyu" means "vinegar" (from "uksusnyy"), giving the line its exact edge.
-- 'As soon as German leaves right now, I will fix everything!' Senya cuts in firmly in their talk, keeping the focus on what actually matters here.
-- 'Denis, where did you get a live pigeon in your hands?' Pressing ahead on cue, Fedya calls Barinov's bluff without raising his voice.
-- 'All right, folks, where is my Dijon squab?' Barinov focuses on one concrete word for Senya: "po-dizhonski" means "squab", and it carries the main weight of what Barinov is saying.
-- 'Quiet, Denis, everything is fine, hide that bird!' Barinov steps in promptly across the room, refusing to let the moment slip past.
-- 'I already cooked a partridge for the guest instead of squab.' Barinov counters wryly with a shrug, to clear the air between them once and for all.
-- 'Chef, we need to do something about German!' Fedya picks one classic word in reply: "nado" means "it is necessary", and it carries the main weight of what Fedya is saying.
-- 'Thank you, pals, I am in your debt now.' Barinov aims the thought calmly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Quickly pour the soup into the bowls and bake it!' Barinov weighs in quietly without holding back, grounding the moment in plain reality.
-- 'Right now we will quickly serve the hot onion soup!' Senya favors this direct piece in reply: "goryachiy" means "hot", and it carries the main weight of what Senya is saying.
+- 'Senya, what are you doing, you miserable traitor?' Underscoring how unfortunate things are at once, Fedya puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'Fedya, calm down, I have already thought everything through well!' Senya continues boldly on the spot, grounding the moment in plain reality.
+- 'Vinegar acid can easily be fixed with ordinary sugar.' Underscoring the sugar on the spot, Senya chooses "uksusnuyu" ("vinegar", from the root "uksusnyy") so Fedya hears the exact meaning.
+- 'As soon as German leaves right now, I will fix everything!' Senya jumps in evenly around Fedya and uses "ispravlyu" ("will fix", from "ispravit") to make the point stick.
+- 'Denis, where did you get a live pigeon in your hands?' Fedya inquires plainly why things suddenly took this turn between them.
+- 'All right, folks, where is my Dijon squab?' Highlighting the squab right here, Barinov chooses "po-dizhonski" ("squab") so Fedya gets the point right away.
+- 'Quiet, Denis, everything is fine, hide that bird!' Touching on the bird before Fedya, Barinov centers the thought on "ptitsu" ("bird", from "ptitsa") without wasting a word.
+- 'I already cooked a partridge for the guest instead of squab.' Addressing a partridge in their talk, Barinov brings the exchange with Fedya back to practical reality.
+- 'Chef, we need to do something about German!' Fedya counters vividly in this beat and reaches for the Russian word "nado" ("it is necessary") right at the heart of the line.
+- 'Thank you, pals, I am in your debt now.' Returning to the debtor in the exchange, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Quickly pour the soup into the bowls and bake it!' Barinov weighs in quietly beside Senya, bringing things back to earth after the buildup.
+- 'Right now we will quickly serve the hot onion soup!' Talking about the soup during the talk, Senya brings in "goryachiy" ("hot") to make the meaning unmistakable.

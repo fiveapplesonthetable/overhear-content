@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, I figured it all out! You and I screwed up.' Max chimes in calmly on the spot, letting the remark speak for itself.
-- 'Actually you are the one who screwed up!' Kostya points to one pointed touch right here: "voobshche-to" means "actually", and it carries the main weight of what Kostya is saying.
-- 'We were looking for the wrong person. Nastya served a girl this morning!' Max stands firm firmly as they talk, steering the talk right where he wants it.
-- 'What do you mean?' Kostya checks frankly before Nastya can change the subject.
-- 'On the bill was an expensive beach cocktail.' Max leans on one familiar detail toward Kostya: "schyote" means "bill, check" (from "schyot"), giving the line its exact edge.
-- 'Then this girl was at reception.' Max answers openly to settle things, grounding the moment in plain reality.
-- 'She forced Sveta to delete the database.' Max counters warmly with Kostya, before Kostya can change the subject.
-- 'And she made Nastya believe that the moustached man paid her.' Max centers this telling detail for Nastya: "rasplatilsya" means "paid" (from "rasplatitsya"), giving the line its exact edge.
-- 'And remember, you served not me, but that man over there!' Nastya favors one concrete choice right here: "obsluzhivali" means "served, waited on" (from "obsluzhivat"), giving the line its exact edge.
-- 'And what do we do now?' Kostya wonders eagerly how Nastya expects that to work in practice.
-- 'I am not going to hit a girl. She looked at me.' Max frames one memorable piece in earnest: "devushku" means "young woman" (from "devushka"), giving the line its exact edge.
-- 'I will take her the bill now. When she pays with napkins, we will catch her red-handed!' Max pushes back right away hearing Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'Kostyan, I figured it all out! You and I screwed up.' Max responds calmly in their talk, grounding the moment in plain reality.
+- 'Actually you are the one who screwed up!' Kostya counters warmly in this beat and reaches for the Russian word "oblazhalsya" ("screw up, mess up", built from "oblazhatsya") right at the center of the line.
+- 'We were looking for the wrong person. Nastya served a girl this morning!' Highlighting the young woman in front of Nastya, Max puts the weight on "obsluzhivala" ("served", from "obsluzhivat") as the exchange unfolds.
+- 'What do you mean?' Kostya checks frankly where this conversation is heading next.
+- 'On the bill was an expensive beach cocktail.' Addressing the bill on the spot, Max puts the weight on "schyote" ("bill, check", from "schyot") as the exchange unfolds.
+- 'Then this girl was at reception.' Focusing on the reception desk at once, Max lands on "resepshene" ("reception desk", built on "resepshen") to keep the statement grounded.
+- 'She forced Sveta to delete the database.' Max speaks warmly without any doubt, so Nastya knows he is not just making small talk.
+- 'And she made Nastya believe that the moustached man paid her.' Max jumps in decisively beside Nastya and lands on "rasplatilsya" ("paid", built on "rasplatitsya") to keep the statement grounded.
+- 'And remember, you served not me, but that man over there!' Nastya speaks up earnestly without any doubt, leaving no doubt about where she stands.
+- 'And what do we do now?' Kostya wonders eagerly how Max expects that to work in practice.
+- 'I am not going to hit a girl. She looked at me.' Touching on the young woman at once, Max brings in "devushku" ("young woman", from "devushka") as the key Russian word here.
+- 'I will take her the bill now. When she pays with napkins, we will catch her red-handed!' Pointing to the napkins right here, Max brings in "salfetkami" ("napkins", from "salfetka") as the key Russian word here.

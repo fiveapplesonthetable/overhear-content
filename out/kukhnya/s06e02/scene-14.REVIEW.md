@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, Mom, I am not at home.' Lyova voices that reply without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'They called me in to work, an urgent banquet.' Lyova follows up sharply to settle things, letting the remark speak for itself.
-- 'Alright, bye, Mom.' Lyova chooses this sharp piece toward Denis: "mama" means "mum, mother", and it carries the main weight of what Lyova is saying.
-- 'Well, are you ready to skate?' Lyova gives this line calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'This turns out to be harder than I thought.' Lyova jumps in lightly beside Denis, so Denis knows he is not just making small talk.
-- 'How is life, Denis?' Senya focuses on this key word right here: "zhizn" means "life", and it carries the main weight of what Senya is saying.
-- 'Life did not work out.' Denis delivers that answer to Lyova: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'And where are all the guests?' Denis checks briskly in front of Senya without any preamble.
-- 'Is there nobody to work because of a hangover?' Denis colors this vivid word on cue: "pokhmelya" means "hangover" (from "pokhmelye"), giving the line its exact edge.
-- 'No, they closed the restaurant, they are going to film the chef.' Senya jumps in steadily to be clear, letting the remark speak for itself.
-- 'We selected the most beautiful vegetables here.' Senya proceeds bluntly before Denis, before Denis can change the subject.
-- 'Alright, got it.' Denis anchors this key touch with Senya: "khorosho" means "good, fine", and it carries the main weight of what Denis is saying.
+- 'Yes, Mom, I am not at home.' Touching on the mum at once, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'They called me in to work, an urgent banquet.' Lyova cuts in sharply watching Senya, without trying to dress up how he really feels.
+- 'Alright, bye, Mom.' Lyova plainly drops this casual farewell without hesitation using "poka" ("bye") — the quick everyday word for "bye for now" between people on close terms.
+- 'Well, are you ready to skate?' Insisting on how ready things are in the exchange, Lyova keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'This turns out to be harder than I thought.' Lyova steps in lightly around Senya, leaving no doubt about where he stands.
+- 'How is life, Denis?' Underscoring the life on the spot, Senya centers the remark on "zhizn" ("life") without any extra fuss.
+- 'Life did not work out.' Pointing to the life around Senya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'And where are all the guests?' Denis checks briskly to see how Senya will answer on the spot.
+- 'Is there nobody to work because of a hangover?' Pointing to a hangover before Senya, Denis brings in "pokhmelya" ("hangover", from "pokhmelye") as the key Russian word here.
+- 'No, they closed the restaurant, they are going to film the chef.' Highlighting the restaurant to Denis, Senya puts the emphasis on "restoran" ("restaurant") in the middle of the talk.
+- 'We selected the most beautiful vegetables here.' Senya weighs in bluntly during the talk, to clear the air between them once and for all.
+- 'Alright, got it.' Denis cuts in evenly with Senya and brings in "khorosho" ("good, fine") to make the meaning unmistakable.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, your grandmother and grandfather are at my home.' Vika hands over this update without fuss: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'They decided to give us a surprise.' Vika holds firm dryly before Max, letting the remark speak for itself.
-- 'Did you not tell them anything?' Max leans on one direct term in earnest: "govorila" means "said" (from "govorit"), giving the line its exact edge.
-- 'No. And as I understood, neither did you.' Vika stresses this direct detail toward Max: "ponyala" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Vika, you see, I forgot my razor at home.' The guest follows up openly with a sigh, to clear the air between them once and for all.
-- 'I want to shave before the checkup.' The guest underscores this vivid choice for Vika: "obsledovaniyem" means "medical checkup" (from "obsledovaniye"), giving the line its exact edge.
-- 'It seems he ran out of razors. And what kind of checkup is it?' Vika sends that reply on cue: putting the question word "chto" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'We want to examine his heart.' The guest follows up wryly beside Vika, to clear the air between them once and for all.
-- 'Bring them here to the hotel, please.' Max uses one sharp word at once: "privezi" means "to bring" (from "privezti"), giving the line its exact edge.
-- 'I will explain everything to them myself.' Max responds pointedly watching Vika, so Vika knows he is not just making small talk.
-- 'Hello, where can I find the head chef?' The guest questions frankly about what Max just brought up.
-- 'There he is playing chess.' Max highlights one loaded word on cue: "shakhmaty" means "chess", and it carries the main weight of what Max is saying.
+- 'Max, your grandmother and grandfather are at my home.' Following up smoothly during the talk, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'They decided to give us a surprise.' Vika follows up dryly without holding back, making her position completely clear.
+- 'Did you not tell them anything?' Turning plainly with Vika, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'No. And as I understood, neither did you.' Vika speaks up bluntly across the room, watching Max's face to see how the news lands.
+- 'Vika, you see, I forgot my razor at home.' The guest cuts in openly on the spot, steering the talk right where he wants it.
+- 'I want to shave before the checkup.' Emphasizing the checkup right here, the guest uses "obsledovaniyem" ("medical checkup", from "obsledovaniye") to make the point stick.
+- 'It seems he ran out of razors. And what kind of checkup is it?' Stressing how medical things are to the guest, Vika puts the question word "chto" right at the start so the guest hears the focus immediately.
+- 'We want to examine his heart.' The guest pushes back wryly without holding back, testing Vika's reaction in the middle of the exchange.
+- 'Bring them here to the hotel, please.' Mentioning the hotel in front of the guest, Max centers the thought on "privezi" ("to bring", from "privezti") without wasting a word.
+- 'I will explain everything to them myself.' Max answers readily with the guest and reaches for the Russian word "obyasnyu" ("I'll explain", built from "obyasnit") right at the center of the line.
+- 'Hello, where can I find the head chef?' The guest smoothly voices this formal greeting as they meet using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'There he is playing chess.' Touching on the chess at once, Max reaches for the Russian word "shakhmaty" ("chess") right at the heart of the line.

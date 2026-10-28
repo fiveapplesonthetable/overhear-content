@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened, Viktor Petrovich?' Kostya makes the thought facing Barinov: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'A woman ordered champagne to the room here.' Kostya answers at once facing Senya, making his position completely clear.
-- 'Hand it here and get out of here.' Barinov highlights one practical word in earnest: "otsyuda" means "from here", and it carries the main weight of what Barinov is saying.
-- 'I understood, you are busy in here.' Kostya points to one practical word for Senya: "zanyaty" means "busy" (from "zanyatyy"), giving the line its exact edge.
-- 'Yes, just do not tell anyone.' Barinov jumps in wryly with a shrug, refusing to let the moment slip past.
-- 'You offend me, Viktor Petrovich.' Kostya stresses this telling touch toward Senya: "obizhayete" means "you mistreat" (from "obizhat"), giving the line its exact edge.
-- 'You and I are men, after all.' Kostya voices that point toward Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We are true keepers of secrets.' Kostya weighs in promptly during the talk, so Senya knows he is not just making small talk.
-- 'Today I am covering for you here.' Kostya points to one loaded touch right here: "prikryvayu" means "to cover up" (from "prikryvat"), giving the line its exact edge.
-- 'Kostya, get out of here quickly!' Barinov shapes this warning with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Chef, do not throw the bottle away.' Senya cuts in boldly in their talk, steering the talk right where he wants it.
-- 'In case we have to stun someone else.' Senya centers one memorable choice right here: "pridyotsya" means "you'll have to" (from "priytis"), giving the line its exact edge.
+- 'What happened, Viktor Petrovich?' Answering plainly during the talk, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'A woman ordered champagne to the room here.' Kostya responds at once in this moment, letting the remark speak for itself.
+- 'Hand it here and get out of here.' Barinov cuts in dryly before Kostya and chooses "otsyuda" ("from here") so Kostya gets the point right away.
+- 'I understood, you are busy in here.' Kostya cuts in steadily without a pause, steering the talk right where he wants it.
+- 'Yes, just do not tell anyone.' Barinov jumps in wryly in their talk, making his position completely clear.
+- 'You offend me, Viktor Petrovich.' Kostya opens up readily beside Barinov and leans on "obizhayete" ("you mistreat", a form of "obizhat") to give the remark its edge.
+- 'You and I are men, after all.' Mentioning the lads at once, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We are true keepers of secrets.' Kostya proceeds promptly on the spot, shifting the mood of the conversation in a single beat.
+- 'Today I am covering for you here.' Kostya speaks up pointedly at once and puts the weight on "prikryvayu" ("to cover up", from "prikryvat") as the exchange unfolds.
+- 'Kostya, get out of here quickly!' Cutting in candidly in front of Kostya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Chef, do not throw the bottle away.' Senya pushes back boldly on the spot, letting the remark speak for itself.
+- 'In case we have to stun someone else.' Senya speaks sharply at once and centers the thought on "pridyotsya" ("you'll have to", from "priytis") without wasting a word.

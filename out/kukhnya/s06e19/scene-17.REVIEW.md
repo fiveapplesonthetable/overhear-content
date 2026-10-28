@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Goodbye, although wait a minute.' Barinov reacts warmly beside Elena, shifting the whole mood of the room in a single beat.
-- 'Lena, maybe we should get married right now?' Barinov probes straight out while looking straight at Elena here.
-- 'Vitya, have at least a little conscience.' Elena centers one loaded detail with Barinov: "sovesti" means "conscience" (from "sovest"), giving the line its exact edge.
-- 'Your daughter just ran away from the altar.' Elena colors one colorful touch right here: "sbezhala" means "to escape, flee" (from "sbezhat"), giving the line its exact edge.
-- 'She will remember this with a smile.' Barinov continues at once as they talk, testing Elena's reaction in the middle of the exchange.
-- 'She is a young and strong woman.' Barinov points to one practical element for Elena: "zhenshchina" means "woman", and it carries the main weight of what Barinov is saying.
-- 'And I am no longer young.' Barinov hands over this update right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We must treasure every minute of ours.' Barinov reacts openly with Elena, grounding the moment in plain reality.
-- 'And savor every new moment.' Barinov underscores one loaded touch on cue: "naslazhdatsya" means "to enjoy, savor", and it carries the main weight of what Barinov is saying.
-- 'Let us be together as husband and wife.' Barinov makes this statement to Elena: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Tell me, do you agree or not?' Barinov wonders eagerly in front of Elena without any preamble.
-- 'I pronounce you husband and wife!' Elena frames one practical word on cue: "obyavlyayu" means "I declare" (from "obyavlyat"), giving the line its exact edge.
+- 'Goodbye, although wait a minute.' Barinov calmly extends this polite farewell for Elena using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.
+- 'Lena, maybe we should get married right now?' Barinov probes straight out to see how Elena will answer on the spot.
+- 'Vitya, have at least a little conscience.' Highlighting a conscience to Barinov, Elena lands on "sovesti" ("conscience", built on "sovest") to keep the statement grounded.
+- 'Your daughter just ran away from the altar.' Touching on the altar without any doubt, Elena makes it clear to Barinov that she means every word.
+- 'She will remember this with a smile.' Focusing on a smile without any doubt, Barinov lets Elena see exactly where things stand.
+- 'She is a young and strong woman.' Pointing to the woman before Elena, Barinov puts the emphasis on "zhenshchina" ("woman") in the middle of the talk.
+- 'And I am no longer young.' Pointing out how young he is in the exchange, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We must treasure every minute of ours.' Barinov responds openly beside Elena, watching Elena's face to see how the news lands.
+- 'And savor every new moment.' Focusing on the moment at once, Barinov leans on "mgnoveniyem" ("moment, instant", a form of "mgnoveniye") to give the remark its edge.
+- 'Let us be together as husband and wife.' Focusing on the wife in this beat, Barinov starts with "davay" ("come on, let's") to invite Elena right into the action.
+- 'Tell me, do you agree or not?' Barinov wonders eagerly how Elena expects that to work in practice.
+- 'I pronounce you husband and wife!' Touching on the husband right here, Elena chooses "obyavlyayu" ("I declare", from the root "obyavlyat") so Barinov hears the exact meaning.

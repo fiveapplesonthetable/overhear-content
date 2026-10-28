@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How about we have dinner tonight?' Barinov puts the reaction toward Nagiyev: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'Well, I am actually on shift at work.' Vika proceeds calmly with Nagiyev, saying out loud what both of them already know.
-- 'I will arrange it.' Nagiyev stresses this telling choice in earnest: "dogovoryus" means "to agree, to arrange" (from "dogovoritsya"), giving the line its exact edge.
-- 'And have someone cover for Kristina this evening.' Barinov responds steadily with a sigh, so Vika knows he is not just making small talk.
-- 'Because this is very important to me.' Vika stands firm right away with a shrug, making her position completely clear.
-- 'Tonight, never mind why.' Nagiyev highlights this direct piece right here: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
-- 'I want to propose marriage to her.' Barinov frames this answer with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'You know Kristina, right?' Vika checks frankly why things suddenly took this turn between them.
-- 'She has a romantic nature.' Nagiyev anchors this sharp word at once: "romanticheskaya" means "romantic" (from "romanticheskiy"), giving the line its exact edge.
-- 'Dima, just show her the price tag on the ring.' Barinov frames one direct detail right here: "tsennik" means "price tag", and it carries the main weight of what Barinov is saying.
-- 'That will be the most romantic thing of all.' Vika holds firm decisively facing Barinov, before Barinov can change the subject.
-- 'No, Vitya, no.' Nagiyev delivers this line with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I do not want to buy women anymore.' Barinov stands firm openly before Nagiyev, leaving no doubt about where he stands.
+- 'How about we have dinner tonight?' Pushing back directly before Vika, Barinov puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'Well, I am actually on shift at work.' Vika counters calmly with a smile, bringing things back to earth after the buildup.
+- 'I will arrange it.' Nagiyev chimes in openly beside Vika and puts the weight on "dogovoryus" ("to agree, to arrange", from "dogovoritsya") as the exchange unfolds.
+- 'And have someone cover for Kristina this evening.' Addressing the evening with Nagiyev, Barinov puts the emphasis on "vecher" ("evening") in the middle of the talk.
+- 'Because this is very important to me.' Vika replies right away with a shrug, watching Barinov's face to see how the news lands.
+- 'Tonight, never mind why.' Nagiyev steps in boldly before Vika and puts the weight on "vazhno" ("important, mattering", from "vazhnyy") as the exchange unfolds.
+- 'I want to propose marriage to her.' Returning to the offer with Nagiyev, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'You know Kristina, right?' Vika checks frankly whether Nagiyev really thought this through.
+- 'She has a romantic nature.' Emphasizing a romantic nature in this beat, Nagiyev leans on "romanticheskaya" ("romantic", a form of "romanticheskiy") to give the remark its edge.
+- 'Dima, just show her the price tag on the ring.' Barinov responds calmly with a nod, grounding the moment in plain reality.
+- 'That will be the most romantic thing of all.' Vika reacts decisively on the spot, bringing things back to earth after the buildup.
+- 'No, Vitya, no.' Replying earnestly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I do not want to buy women anymore.' Bringing up the women before Nagiyev, Barinov leans on "zhenshchin" ("women", a form of "zhenshchina") to give the remark its edge.

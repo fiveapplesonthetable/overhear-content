@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, this girl poured cold okroshka soup on me!' The guest chimes in candidly as they talk, shifting the whole mood of the room in a single beat.
-- 'And rudely tells me to get out of here.' The guest picks this vivid touch in reply: "ubiralas" means "to clear out" (from "ubiratsya"), giving the line its exact edge.
-- 'Do not believe her, because she is a real con artist!' Gulya fires back right away with a shrug, shifting the whole mood of the room in a single beat.
-- 'She simply wants to take your apartment by deceit.' Gulya cuts in sharply toward Lyova, steering the talk right where she wants it.
-- 'Why, you do not know her at all!' The guest colors one loaded term in earnest: "znayete" means "know" (from "znat"), giving the line its exact edge.
-- 'Mom, listen, Gulya could not have acted like that.' Lyova reacts firmly to settle things, refusing to let the moment slip past.
-- 'Lyova, right now you are defending the wrong person.' The guest opens up quietly with a shrug, without trying to dress up how he really feels.
-- 'Whom I sincerely love, that is whom I defend.' Lyova underscores one familiar piece with Gulya: "zashchishchayu" means "to defend, protect" (from "zashchishchat"), giving the line its exact edge.
-- 'Then you will have to choose who is more important to you.' The guest shares that line before Gulya: the "-sya" ending on "pridyotsya" ("you'll have to") turns the action inward or makes it happen between people naturally.
-- 'Choose right now: either her or me!' The guest weighs in calmly on the spot, refusing to let the moment slip past.
-- 'Gulya, take your things, let us go from here.' Lyova frames one concrete detail in earnest: "veshchi" means "things" (from "veshch"), giving the line its exact edge.
-- 'Lyova, son, wait, come back home immediately!' The guest proceeds bluntly with a nod, refusing to let the moment slip past.
-- 'We are leaving, since you do not believe me.' Lyova pushes back briskly with a shrug, bringing things back to earth after the buildup.
+- 'Look, this girl poured cold okroshka soup on me!' The guest answers candidly beside Gulya, refusing to let the moment slip past.
+- 'And rudely tells me to get out of here.' The guest speaks up pointedly right here and lands on "ubiralas" ("to clear out", built on "ubiratsya") to keep the statement grounded.
+- 'Do not believe her, because she is a real con artist!' Noting how real she is beside the guest, Gulya puts the weight on "nastoyashchaya" ("real, genuine", from "nastoyashchiy") as the exchange unfolds.
+- 'She simply wants to take your apartment by deceit.' Gulya follows up sharply beside the guest, grounding the moment in plain reality.
+- 'Why, you do not know her at all!' The guest chimes in evenly to Gulya and centers the remark on "sovsem" ("at all") without any extra fuss.
+- 'Mom, listen, Gulya could not have acted like that.' Mentioning the mum at once, Lyova puts the weight on "poslushay" ("listen", from "poslushat") as the exchange unfolds.
+- 'Lyova, right now you are defending the wrong person.' The guest cuts in quietly without any doubt, steering the talk right where he wants it.
+- 'Whom I sincerely love, that is whom I defend.' Lyova chimes in plainly around the guest and uses "zashchishchayu" ("to defend, protect", from "zashchishchat") to make the point stick.
+- 'Then you will have to choose who is more important to you.' The guest jumps in openly with a smile, before Lyova can change the subject.
+- 'Choose right now: either her or me!' The guest weighs in calmly with a shrug, refusing to let the moment slip past.
+- 'Gulya, take your things, let us go from here.' Lyova responds naturally during the talk and leans on "poydyom" ("let's go", a form of "poyti") to give the remark its edge.
+- 'Lyova, son, wait, come back home immediately!' Turning to the son in front of Lyova, the guest lands on "nemedlenno" ("immediately") as the key everyday word here.
+- 'We are leaving, since you do not believe me.' Lyova reacts briskly with a shrug, so the guest knows he is not just making small talk.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, Dima, let's return to my old conditions.' Barinov makes the comment with candor: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that the guest is on board.
-- 'Remember, I kick you three times!' Barinov answers decisively as things stand, without trying to dress up how he really feels.
-- 'What a mean person you are after all, Vitya!' Nagiyev focuses on one clear element toward Barinov: "zloy" means "angry, mean", and it carries the main weight of what Nagiyev is saying.
-- 'And a true gentleman always keeps his word.' Barinov replies earnestly during the talk, so Nagiyev knows he is not just making small talk.
-- 'Wait, just not here and not right now!' Nagiyev proceeds sharply facing Barinov, letting the remark speak for itself.
-- 'Work first, please introduce yourself to our guests.' Nagiyev chooses one sharp choice toward the guest: "predstavsya" means "to introduce oneself" (from "predstavitsya"), giving the line its exact edge.
-- 'Dear friends, I ask for a minute of your attention!' Nagiyev responds at once in their talk, steering the talk right where he wants it.
-- 'Allow me to introduce our head chef Viktor Barinov!' Nagiyev counters decisively before the guest, to clear the air between them once and for all.
-- 'Hello, Viktor, we are very glad to see you!' The guest uses one familiar touch on cue: "zdravstvuyte" means "hello", and it carries the main weight of what the guest is saying.
-- 'Thank you, Dima, you are dismissed for now.' Barinov shares that thought plainly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'It is a debt of honor, there is nothing you can do about it!' Barinov continues honestly as things stand, making his position completely clear.
-- 'And remember, you still owe me two more times today!' Barinov points to one pointed touch right here: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
+- 'All right, Dima, let's return to my old conditions.' Discussing the condition to Nagiyev, Barinov brings in "usloviyam" ("condition", from "usloviye") as the key Russian word here.
+- 'Remember, I kick you three times!' Barinov answers decisively across the room, shifting the mood of the conversation in a single beat.
+- 'What a mean person you are after all, Vitya!' Confirming how angry Barinov is beside Barinov, Nagiyev centers the remark on "zloy" ("angry, mean") without any extra fuss.
+- 'And a true gentleman always keeps his word.' Addressing the always in front of Nagiyev, Barinov leans on "nastoyashchiy" ("real, genuine") to give the whole sentence its punch.
+- 'Wait, just not here and not right now!' Nagiyev speaks sharply toward Barinov, grounding the moment in plain reality.
+- 'Work first, please introduce yourself to our guests.' Talking about the job in front of the guest, Nagiyev brings in "predstavsya" ("to introduce oneself", from "predstavitsya") as the key Russian word here.
+- 'Dear friends, I ask for a minute of your attention!' Focusing on a minute with the guest, Nagiyev reaches for the Russian word "minutochku" ("a minute", built from "minutochka") right at the center of the line.
+- 'Allow me to introduce our head chef Viktor Barinov!' Nagiyev counters decisively with a shrug, refusing to let the moment slip past.
+- 'Hello, Viktor, we are very glad to see you!' The guest continues quietly with Barinov and chooses "zdravstvuyte" ("hello") so Barinov gets the point right away.
+- 'Thank you, Dima, you are dismissed for now.' Barinov simply sends this word of thanks with the guest using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'It is a debt of honor, there is nothing you can do about it!' Barinov responds honestly watching the guest, testing the guest's reaction in the middle of the exchange.
+- 'And remember, you still owe me two more times today!' Barinov weighs in quietly in this beat and chooses "segodnya" ("today") so the guest gets the point right away.

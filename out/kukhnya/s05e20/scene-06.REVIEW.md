@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you heard, our owner is dying.' Eleonora stands firm earnestly in this moment, grounding the moment in plain reality.
-- 'If I hear one more time that you are spreading gossip...' Mikhail colors one practical touch toward Eleonora: "rasprostranyayesh" means "you spread" (from "rasprostranyat"), giving the line its exact edge.
-- 'I will fire you that very same day!' Mikhail grounds this telling word at once: "uvolyu" means "will fire" (from "uvolit"), giving the line its exact edge.
-- 'Honestly, I am not spreading gossip.' Eleonora jumps in frankly with a nod, to clear the air between them once and for all.
-- 'That is all, go work calmly and do not cry.' Mikhail spotlights one telling element on cue: "spokoyno" means "calmly", and it carries the main weight of what Mikhail is saying.
-- 'Why are you gloomier than a storm cloud today?' Barinov gives the remark with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'They say our Eleonora Andreyevna is dying soon.' Mikhail opens up quietly around Barinov, shifting the whole mood of the room in a single beat.
-- 'And Mikhail Dzhekovich almost fired me for it.' Eleonora colors one familiar choice at once: "uvolil" means "to fire, to dismiss" (from "uvolit"), giving the line its exact edge.
-- 'Wait, what do you mean Eleonora is dying?' Mikhail lays out the reply around Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'She is very seriously ill, everyone already knows.' Barinov proceeds evenly before Mikhail, steering the talk right where he wants it.
-- 'Where on earth did you get all of this?' Mikhail reaches for one direct element at once: "voobshche" means "at all", and it carries the main weight of what Mikhail is saying.
-- 'Viktor Petrovich himself told us this morning.' Eleonora answers right away to settle things, testing Mikhail's reaction in the middle of the exchange.
+- 'Have you heard, our owner is dying.' Eleonora weighs in earnestly around Mikhail, keeping the focus on what actually matters here.
+- 'If I hear one more time that you are spreading gossip...' Pointing to the gossip right here, Mikhail chooses "rasprostranyayesh" ("you spread", from the root "rasprostranyat") so Eleonora hears the exact meaning.
+- 'I will fire you that very same day!' Mikhail replies pointedly with a sigh, refusing to let the moment slip past.
+- 'Honestly, I am not spreading gossip.' Eleonora weighs in frankly without holding back, to clear the air between them once and for all.
+- 'That is all, go work calmly and do not cry.' Mikhail chimes in vividly to Eleonora and centers the remark on "spokoyno" ("calmly") without any extra fuss.
+- 'Why are you gloomier than a storm cloud today?' Making clear how gloomy things are in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'They say our Eleonora Andreyevna is dying soon.' Mikhail cuts in quietly facing Eleonora, grounding the moment in plain reality.
+- 'And Mikhail Dzhekovich almost fired me for it.' Eleonora steps in evenly on the spot and chooses "uvolil" ("to fire, to dismiss", from the root "uvolit") so Mikhail hears the exact meaning.
+- 'Wait, what do you mean Eleonora is dying?' Turning promptly right here, Mikhail puts the question word "chto" right at the start so Eleonora hears the focus immediately.
+- 'She is very seriously ill, everyone already knows.' Barinov opens up openly toward Mikhail, before Mikhail can change the subject.
+- 'Where on earth did you get all of this?' Mikhail replies directly with Eleonora and reaches for the Russian word "voobshche" ("at all") right at the heart of the line.
+- 'Viktor Petrovich himself told us this morning.' Eleonora jumps in firmly in this beat and leans on "utrom" ("this morning") to give the whole sentence its punch.

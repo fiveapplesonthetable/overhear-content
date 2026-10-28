@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, let me explain everything to you.' Denis spotlights this key element with Ainura: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
-- 'Denis, just leave me alone right now!' Katya makes this point to Denis: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Katya, I only dreamed all of that!' Denis answers firmly during the talk, so Ainura knows he is not just making small talk.
-- 'I was just telling Kostya my dream.' Denis centers one familiar touch in earnest: "rasskazyval" means "told, recounted" (from "rasskazyvat"), giving the line its exact edge.
-- 'Let's go to him, he will confirm it for you.' Denis favors one clear word at once: "podtverdit" means "to confirm", and it carries the main weight of what Denis is saying.
-- 'Yes, Kostya, was that really just a dream?' Ainura checks plainly where this conversation is heading next.
-- 'I never lie in my life!' Ainura emphasizes one direct touch toward Denis: "obmanyvayu" means "deceive" (from "obmanyvat"), giving the line its exact edge.
-- 'I saw everything with my own eyes.' Ainura pushes back wryly in this moment, keeping the focus on what actually matters here.
-- 'The two of them were there by the window.' Ainura fires back right away to be clear, without trying to dress up how she really feels.
-- 'Because of that Denis fell out of the window!' Ainura highlights this vivid term on cue: "okna" means "window" (from "okno"), giving the line its exact edge.
-- 'Katya, wait, that really did not happen!' Denis cuts in dryly with a sigh, grounding the moment in plain reality.
-- 'Do not touch me, get out of my way!' Katya speaks up pointedly hearing Denis, without trying to dress up how she really feels.
+- 'Katya, let me explain everything to you.' Denis responds calmly on the spot and reaches for the Russian word "obyasnyu" ("I'll explain", built from "obyasnit") right at the center of the line.
+- 'Denis, just leave me alone right now!' Holding firm readily to Denis, Katya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Katya, I only dreamed all of that!' Denis opens up firmly with a nod, without trying to dress up how he really feels.
+- 'I was just telling Kostya my dream.' Turning to his dream on the spot, Denis centers the thought on "rasskazyval" ("told, recounted", from "rasskazyvat") without wasting a word.
+- 'Let's go to him, he will confirm it for you.' Denis reacts warmly without holding back, letting the remark speak for itself.
+- 'Yes, Kostya, was that really just a dream?' Ainura checks plainly about what Denis just brought up.
+- 'I never lie in my life!' Turning to her life on the spot, Ainura centers the thought on "obmanyvayu" ("deceive", from "obmanyvat") without wasting a word.
+- 'I saw everything with my own eyes.' Mentioning the eyes during the talk, Ainura lands on "sobstvennymi" ("own, proper", built on "sobstvennyy") to keep the statement grounded.
+- 'The two of them were there by the window.' Ainura weighs in right away without any doubt, leaving no doubt about where she stands.
+- 'Because of that Denis fell out of the window!' Bringing up the window during the talk, Ainura lands on "okna" ("window", built on "okno") to keep the statement grounded.
+- 'Katya, wait, that really did not happen!' Addressing the honestly in the exchange, Denis puts the emphasis on "pravda" ("honestly") in the middle of the talk.
+- 'Do not touch me, get out of my way!' Katya speaks pointedly across the room, watching Denis's face to see how the news lands.

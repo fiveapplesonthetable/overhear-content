@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You do not understand.' Max makes the comeback briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Max, please tell me, why did you do this?' Kostya asks sharply before Max can change the subject.
-- 'Do you realize you cannot treat people like that?' Max focuses on one loaded element right here: "postupayesh" means "to act, treat" (from "postupat"), giving the line its exact edge.
-- 'Let me explain everything at home, alright?' Kostya drops the comment frankly here: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
-- 'Nobody wants to see you.' Max answers evenly with Kostya, testing Kostya's reaction in the middle of the exchange.
-- 'Neither here nor at home.' Kostya picks this sharp detail toward Max: "doma" means "at home", and it carries the main weight of what Kostya is saying.
-- 'There is no such thing as a war without casualties.' Max answers candidly facing Kostya, leaving no doubt about where he stands.
-- 'Turns out your entertainment program is pretty lively after all.' Kostya speaks up at once with a smile, steering the talk right where he wants it.
-- 'I understand now.' Max leans on one direct term toward Kostya: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'In any war, it is the innocent who suffer the most.' Kostya chimes in frankly facing Max, letting the remark speak for itself.
-- 'Those who get dragged into the battle against their will.' Max holds firm bluntly as things stand, steering the talk right where he wants it.
-- 'War is the way of deception.' Kostya colors one vivid choice with Max: "obmana" means "a trick" (from "obman"), giving the line its exact edge.
-- 'And sometimes the one who ends up deceived is yourself.' Max shapes the thought facing Kostya: the "-sya" ending on "okazyvayeshsya" ("to turn out to be") turns the action inward or makes it happen between people naturally.
+- 'You do not understand.' Reacting calmly around Kostya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Max, please tell me, why did you do this?' Kostya asks sharply where this conversation is heading next.
+- 'Do you realize you cannot treat people like that?' Max replies decisively at once and leans on "postupayesh" ("to act, treat", a form of "postupat") to give the remark its edge.
+- 'Let me explain everything at home, alright?' Speaking warmly during the talk, Kostya uses the polite or group form "davayte" ("let's") to bring Max into the plan.
+- 'Nobody wants to see you.' Max continues evenly in this moment, bringing things back to earth after the buildup.
+- 'Neither here nor at home.' Kostya follows up frankly in the exchange and leans on "doma" ("at home") to give the whole sentence its punch.
+- 'There is no such thing as a war without casualties.' Turning to the loss during the talk, Max puts the weight on "poter" ("loss", from "poterya") as the exchange unfolds.
+- 'Turns out your entertainment program is pretty lively after all.' Kostya proceeds at once without any doubt, refusing to let the moment slip past.
+- 'I understand now.' Max opens up quietly with Kostya and lands on "ponyal" ("understood", built on "ponyat") to keep the statement grounded.
+- 'In any war, it is the innocent who suffer the most.' Describing how innocent things are at once, Kostya lands on "nevinnyye" ("innocent", built on "nevinnyy") to keep the statement grounded.
+- 'Those who get dragged into the battle against their will.' Max pushes back bluntly in their talk, testing Kostya's reaction in the middle of the exchange.
+- 'War is the way of deception.' Focusing on the trick around Max, Kostya puts the weight on "obmana" ("a trick", from "obman") as the exchange unfolds.
+- 'And sometimes the one who ends up deceived is yourself.' Showing how deceived things are in the exchange, the "-sya" ending on "okazyvayeshsya" ("to turn out to be") marks an action that unfolds mutually or turns back on the speaker.

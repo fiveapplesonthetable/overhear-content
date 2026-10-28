@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want to propose a toast to the two of you.' Max stresses one memorable detail in reply: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'You are wonderful people.' Kostya drops this point around Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Oh, Nastenka, we were just having a little bite here.' Max reacts steadily as things stand, bringing things back to earth after the buildup.
-- 'Anastasiya Stepanovna, I am terribly ashamed.' Max focuses on one telling word toward Nastya: "uzhasno" means "terrible, awful", and it carries the main weight of what Max is saying.
-- 'Because we did not leave any dinner for you.' Kostya features one memorable touch right here: "ostavili" means "left" (from "ostavit"), giving the line its exact edge.
-- 'In such friendly company, we somehow got carried away.' Nastya counters bluntly watching Max, refusing to let the moment slip past.
-- 'Yes, we ate everything up, Nastenka.' Max chooses one familiar word in earnest: "syeli" means "ate up" (from "syest"), giving the line its exact edge.
-- 'There are still some tomatoes left in the fridge.' Kostya answers steadily to be clear, without trying to dress up how he really feels.
-- 'Well, what do you say, guys?' Nastya probes calmly how Kostya expects that to work in practice.
-- 'How about we all go to karaoke, huh?' Max chooses one practical term with Nastya: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
-- 'When the soul calls for going to karaoke.' Kostya voices the thought with candor: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Let us go, my soul is singing.' Nastya counters wryly across the room, so Max knows she is not just making small talk.
-- 'Hold on, stop, Kostya, can I talk to you for a minute?' Max underscores one loaded expression at once: "minutku" means "a minute" (from "minutka"), giving the line its exact edge.
+- 'I want to propose a toast to the two of you.' Max jumps in frankly at once and uses "vypit" ("to drink") to carry the main weight of the thought.
+- 'You are wonderful people.' Noting how wonderful Max is right here, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Oh, Nastenka, we were just having a little bite here.' Max responds steadily without a pause, bringing things back to earth after the buildup.
+- 'Anastasiya Stepanovna, I am terribly ashamed.' Max follows up calmly to Nastya and chooses "uzhasno" ("terrible, awful") so Nastya gets the point right away.
+- 'Because we did not leave any dinner for you.' Kostya opens up at once with a shrug, to clear the air between them once and for all.
+- 'In such friendly company, we somehow got carried away.' Nastya speaks up bluntly with a nod, watching Kostya's face to see how the news lands.
+- 'Yes, we ate everything up, Nastenka.' Max continues directly with Nastya and lands on "syeli" ("ate up", built on "syest") to keep the statement grounded.
+- 'There are still some tomatoes left in the fridge.' Highlighting the fridge on the spot, Kostya uses "kholodilnike" ("fridge", from "kholodilnik") to make the point stick.
+- 'Well, what do you say, guys?' Nastya probes calmly while looking straight at Max here.
+- 'How about we all go to karaoke, huh?' Talking about the karaoke during the talk, Max brings in "karaoke" ("karaoke") to make the meaning unmistakable.
+- 'When the soul calls for going to karaoke.' Mentioning the karaoke in front of Max, Kostya leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Let us go, my soul is singing.' Nastya counters wryly during the talk, bringing things back to earth after the buildup.
+- 'Hold on, stop, Kostya, can I talk to you for a minute?' Pointing to a minute at once, Max uses "minutku" ("a minute", from "minutka") to make the point stick.

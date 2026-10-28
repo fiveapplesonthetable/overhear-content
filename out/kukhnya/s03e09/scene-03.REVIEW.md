@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me straight, how much money do you need?' The guest quizzes briskly how Kostya expects that to work in practice.
-- 'No, there is no need, I will do it myself.' Kostya focuses on this sharp element at once: "nado" means "it is necessary", and it carries the main weight of what Kostya is saying.
-- 'Do you think about the future at all?' The guest frames this update with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'What are your plans going forward?' The guest quizzes quietly whether Kostya really thought this through.
-- 'I am actually finishing law school soon.' Kostya centers one loaded expression in earnest: "yuridicheskiy" means "law, legal", and it carries the main weight of what Kostya is saying.
-- 'Just to become a notary in some backwater?' The guest hands over that line toward Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'I do not need any change at all.' The guest answers honestly beside Kostya, before Kostya can change the subject.
-- 'Excuse me, here is your change.' Kostya grounds one direct word for the guest: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Alright, I was mistaken then.' The guest frames this update with ease: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kostya is on board.
-- 'Kostya, I really want to help you.' The guest cuts in firmly without any doubt, bringing things back to earth after the buildup.
-- 'If you do not want to take money, then earn it.' The guest grounds this telling word at once: "zarabotay" means "to start working" (from "zarabotat"), giving the line its exact edge.
-- 'I need a capable lawyer at my factory.' The guest continues plainly across the room, making his position completely clear.
+- 'Tell me straight, how much money do you need?' The guest quizzes briskly what Kostya is actually getting at here.
+- 'No, there is no need, I will do it myself.' Kostya counters vividly beside the guest and lands on "nado" ("it is necessary") as the key everyday word here.
+- 'Do you think about the future at all?' Cutting in directly with Kostya, the guest drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'What are your plans going forward?' The guest quizzes quietly why things suddenly took this turn between them.
+- 'I am actually finishing law school soon.' Kostya continues naturally to the guest and leans on "yuridicheskiy" ("law, legal") to give the whole sentence its punch.
+- 'Just to become a notary in some backwater?' Mentioning a notary on the spot, the guest keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'I do not need any change at all.' The guest responds honestly in their talk, steering the talk right where he wants it.
+- 'Excuse me, here is your change.' Kostya openly sends this polite apology with the guest using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Alright, I was mistaken then.' The guest smoothly drops this word of agreement right on cue using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Kostya, I really want to help you.' The guest chimes in firmly with a smile, so Kostya knows he is not just making small talk.
+- 'If you do not want to take money, then earn it.' Addressing the money beside Kostya, the guest chooses "zarabotay" ("to start working", from the root "zarabotat") so Kostya hears the exact meaning.
+- 'I need a capable lawyer at my factory.' Discussing his factory in front of Kostya, the guest chooses "khoroshiy" ("good") so Kostya gets the point right away.

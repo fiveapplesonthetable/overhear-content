@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Give me the microphone for a minute.' Denis points to one familiar word toward Barinov: "mikrofon" means "microphone", and it carries the main weight of what Denis is saying.
-- 'Since then we have always been together.' Denis fires back wryly with a shrug, making his position completely clear.
-- 'You fill my life with meaning!' Denis proceeds evenly watching Barinov, bringing things back to earth after the buildup.
-- 'Vika, look what he is doing!' Barinov reaches for one clear detail in reply: "delayet" means "does" (from "delat"), giving the line its exact edge.
-- 'You are my life!' Denis puts the reply with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You are my world!' Denis responds steadily as things stand, watching Katya's face to see how the news lands.
-- 'I need you so much, Katya.' Denis focuses on one memorable element in earnest: "nuzhna" means "needed" (from "nuzhnyy"), giving the line its exact edge.
-- 'What are you doing, Denis?' Katya phrases that remark around Denis: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'I will tell you everything right now.' Denis steps in calmly in this moment, testing Barinov's reaction in the middle of the exchange.
-- 'Katya, marry me!' Denis centers one direct word toward Katya: "vykhodi" means "go out, marry" (from "vykhodit"), giving the line its exact edge.
-- 'What is that falling from above?' Katya gives this statement before Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Where did these cockroaches come from?!' Barinov tests bluntly if there is more going on behind the scenes.
+- 'Give me the microphone for a minute.' Focusing on the microphone around Barinov, Denis chooses "mikrofon" ("microphone") so Barinov gets the point right away.
+- 'Since then we have always been together.' Denis continues earnestly in this beat and chooses "vsegda" ("always") so Barinov gets the point right away.
+- 'You fill my life with meaning!' Denis counters evenly with a sigh, to clear the air between them once and for all.
+- 'Vika, look what he is doing!' Barinov cuts in pointedly with a shrug, keeping the focus on what actually matters here.
+- 'You are my life!' Checking on his life during the talk, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You are my world!' Denis reacts steadily in this moment, keeping the focus on what actually matters here.
+- 'I need you so much, Katya.' Denis chimes in decisively in front of Katya and leans on "ochen" ("very much") to give the whole sentence its punch.
+- 'What are you doing, Denis?' Replying briskly to Denis, Katya puts the question word "chto" right at the start so Denis hears the focus immediately.
+- 'I will tell you everything right now.' Denis proceeds calmly with a shrug, making his position completely clear.
+- 'Katya, marry me!' Denis follows up dryly around Katya and puts the weight on "vykhodi" ("go out, marry", from "vykhodit") as the exchange unfolds.
+- 'What is that falling from above?' Holding firm dryly on the spot, Katya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Where did these cockroaches come from?!' Barinov tests bluntly to see how Katya will answer on the spot.

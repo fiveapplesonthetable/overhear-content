@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, where is the cod in Martian salt?' Barinov drops the comment for Lyova: putting the question word "gde" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'Lyova, will the chicken be ready soon?' Barinov quizzes calmly to see how Nagiyev will answer on the spot.
-- 'Yes, chef, just a couple more seconds.' Lyova spotlights one loaded touch toward Barinov: "yeshchyo" means "more, still", and it carries the main weight of what Lyova is saying.
-- 'Chef, Nagiyev is calling you right now.' Lyova lays out the reply without pause: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Soon the Emperor of the Galaxy will fly in to us!' Nagiyev chimes in calmly with Barinov, grounding the moment in plain reality.
-- 'Dima, you have to warn me in advance!' Barinov emphasizes one key word toward Nagiyev: "preduprezhdat" means "to warn", and it carries the main weight of what Barinov is saying.
-- 'Vitya, that is completely impossible.' Nagiyev aims the comment calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'The lifespan of these creatures is seven hours.' Nagiyev continues honestly with a sigh, steering the talk right where he wants it.
-- 'Born, ate a meal, and died right away.' Nagiyev reaches for one practical piece toward Barinov: "rodilsya" means "was born" (from "roditsya"), giving the line its exact edge.
-- 'Do not worry, Dima, we will do everything.' Barinov states the comeback without fuss: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
-- 'We will host the guest in first-class style!' Barinov speaks up evenly with a shrug, before Lyova can change the subject.
-- 'Right, otherwise it is the end for all of us.' Nagiyev picks this sharp choice at once: "pravilno" means "right", and it carries the main weight of what Nagiyev is saying.
+- 'Fedya, where is the cod in Martian salt?' Showing how salt things are on the spot, Barinov puts the question word "gde" right at the start so Lyova hears the focus immediately.
+- 'Lyova, will the chicken be ready soon?' Barinov quizzes calmly if there is more going on behind the scenes.
+- 'Yes, chef, just a couple more seconds.' Discussing the seconds at once, Lyova chooses "sekund" ("seconds", from the root "sekunda") so Barinov hears the exact meaning.
+- 'Chef, Nagiyev is calling you right now.' Lyova jumps in promptly in this moment, so Barinov knows he is not just making small talk.
+- 'Soon the Emperor of the Galaxy will fly in to us!' Nagiyev continues calmly without holding back, to clear the air between them once and for all.
+- 'Dima, you have to warn me in advance!' Barinov cuts in smoothly during the talk and chooses "preduprezhdat" ("to warn") so Nagiyev gets the point right away.
+- 'Vitya, that is completely impossible.' Cutting in plainly in this beat, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'The lifespan of these creatures is seven hours.' Nagiyev answers honestly with a smile, to clear the air between them once and for all.
+- 'Born, ate a meal, and died right away.' Nagiyev responds openly before Barinov and brings in "rodilsya" ("was born", from "roditsya") as the key Russian word here.
+- 'Do not worry, Dima, we will do everything.' Reacting openly around Nagiyev, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'We will host the guest in first-class style!' Barinov fires back evenly in their talk, letting the remark speak for itself.
+- 'Right, otherwise it is the end for all of us.' Pointing to the end in the exchange, Nagiyev lands on "konets" ("end") as the key everyday word here.

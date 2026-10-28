@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right here we will arrange the tables.' Vika replies right away without a pause, letting the remark speak for itself.
-- 'Here we will leave space for the dance floor.' Vika underscores one classic expression in earnest: "tantspola" means "dance floor" (from "tantspol"), giving the line its exact edge.
-- 'Will you have live music?' Vika sends this answer beside Max: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'What live music? Lip-syncing, only lip-syncing.' Nagiyev probes candidly if there is more going on behind the scenes.
-- 'Let us discuss the menu, we will start with salads.' Vika grounds this direct detail toward Max: "salatov" means "salads" (from "salat"), giving the line its exact edge.
-- 'And I think we will start with introductions.' Max pushes back openly around Vika, watching Vika's face to see how the news lands.
-- 'What is your name?' Max questions wryly if there is more going on behind the scenes.
-- 'Natasha, and I am Maxim, Victoria Sergeyevna's husband.' Max frames one concrete term in reply: "natasha" means "Natasha", and it carries the main weight of what Max is saying.
-- 'What is he talking about? Are you a fool or what?' Nagiyev delivers the comment facing Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Natashenka, you will have a wonderful, merry wedding.' Max proceeds lightly with a shrug, testing Vika's reaction in the middle of the exchange.
-- 'You will have fun, sing, and dance.' Max leans on one vivid expression in reply: "veselitsya" means "to without", and it carries the main weight of what Max is saying.
-- 'Sweetheart, I have no idea at all!' Nagiyev hands over the thought toward Vika: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Right here we will arrange the tables.' Vika speaks right away with a sigh, keeping the focus on what actually matters here.
+- 'Here we will leave space for the dance floor.' Emphasizing the dance floor in the exchange, Vika brings in "tantspola" ("dance floor", from "tantspol") as the key Russian word here.
+- 'Will you have live music?' Returning to the music before Nagiyev, Vika keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'What live music? Lip-syncing, only lip-syncing.' Nagiyev probes candidly while looking straight at Vika here.
+- 'Let us discuss the menu, we will start with salads.' Talking about the salads during the talk, Vika centers the thought on "salatov" ("salads", from "salat") without wasting a word.
+- 'And I think we will start with introductions.' Turning to the acquaintance in front of Vika, Max puts the weight on "znakomstva" ("acquaintance", from "znakomstvo") as the exchange unfolds.
+- 'What is your name?' Max questions wryly to see how Nagiyev will answer on the spot.
+- 'Natasha, and I am Maxim, Victoria Sergeyevna's husband.' Mentioning the husband during the talk, Max reaches for the Russian word "natasha" ("Natasha") right at the heart of the line.
+- 'What is he talking about? Are you a fool or what?' Jumping in smoothly in the exchange, Nagiyev puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Natashenka, you will have a wonderful, merry wedding.' Max jumps in lightly without holding back, making his position completely clear.
+- 'You will have fun, sing, and dance.' Max proceeds naturally around Nagiyev and reaches for the Russian word "veselitsya" ("to without") right at the heart of the line.
+- 'Sweetheart, I have no idea at all!' Touching on the sweetheart at once, Nagiyev drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.

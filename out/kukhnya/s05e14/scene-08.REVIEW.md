@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, why did you take the ticket from the guest?' Mikhail directs that line beside Barinov: putting the question word "zachem" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'I thought that you gave him my ticket!' Barinov steps in right away as they talk, watching Mikhail's face to see how the news lands.
-- 'Whenever you think, things only get worse for everyone!' Mikhail stresses one classic detail right here: "stanovitsya" means "becomes", and it carries the main weight of what Mikhail is saying.
-- 'Sorry, Misha, I really did not know that.' Barinov puts that point before Mikhail: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'Now I am going to have serious problems because of you.' Mikhail follows up wryly without a pause, steering the talk right where he wants it.
-- 'Then let me give him this ticket right here.' Barinov features one memorable detail with Mikhail: "bilet" means "ticket", and it carries the main weight of what Barinov is saying.
-- 'And you will simply return mine to me quietly!' Barinov hands over that remark before Mikhail: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I already returned your ticket a long time ago!' Mikhail jumps in at once facing Barinov, grounding the moment in plain reality.
-- 'You really returned it? Is it lying in my pocket?' Barinov focuses on one colorful expression in reply: "karmane" means "pocket" (from "karman"), giving the line its exact edge.
-- 'But now I have big problems because of you.' Mikhail offers this update plainly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Why then should I be so kind to you?' Mikhail prompts candidly if there is more going on behind the scenes.
-- 'Misha, wait, do not take both tickets at once!' Barinov reaches for this sharp touch in reply: "bileta" means "tickets" (from "bilet"), giving the line its exact edge.
+- 'Vitya, why did you take the ticket from the guest?' Cutting in plainly beside Barinov, Mikhail puts the question word "zachem" right at the start so Barinov hears the focus immediately.
+- 'I thought that you gave him my ticket!' Barinov weighs in right away in their talk, testing Mikhail's reaction in the middle of the exchange.
+- 'Whenever you think, things only get worse for everyone!' Mikhail counters candidly in this beat and centers the remark on "stanovitsya" ("becomes") without any extra fuss.
+- 'Sorry, Misha, I really did not know that.' Mentioning the honestly with Mikhail, Barinov brings in "pravda" ("honestly") to make the meaning unmistakable.
+- 'Now I am going to have serious problems because of you.' Mikhail follows up wryly facing Barinov, before Barinov can change the subject.
+- 'Then let me give him this ticket right here.' Highlighting the ticket to Mikhail, Barinov puts the emphasis on "bilet" ("ticket") in the middle of the talk.
+- 'And you will simply return mine to me quietly!' Pressing on quietly right here, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I already returned your ticket a long time ago!' Turning to the ticket in their talk, Mikhail lets Barinov see exactly where things stand.
+- 'You really returned it? Is it lying in my pocket?' Highlighting his pocket with Mikhail, Barinov chooses "karmane" ("pocket", from the root "karman") so Mikhail hears the exact meaning.
+- 'But now I have big problems because of you.' Mikhail continues openly facing Barinov, letting the remark speak for itself.
+- 'Why then should I be so kind to you?' Mikhail prompts candidly while looking straight at Barinov here.
+- 'Misha, wait, do not take both tickets at once!' Bringing up the tickets beside Mikhail, Barinov uses "bileta" ("tickets", from "bilet") to make the point stick.

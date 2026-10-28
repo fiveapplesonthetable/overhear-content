@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, Kostya, has this ever happened to you?' Denis lays out this update beside Kostya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'I love our Katya very much.' Denis steps in calmly before Nastya, letting the remark speak for itself.
-- 'But in my dreams I see a completely different woman.' Denis anchors one concrete detail right here: "zhenshchinu" means "a woman" (from "zhenshchina"), giving the line its exact edge.
-- 'Tell me, is that normal at all or not?' Denis shapes that answer with warmth: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Bro, my Nastya wants a second child.' Kostya responds steadily during the talk, refusing to let the moment slip past.
-- 'And what you have is just an ordinary dream.' Kostya uses this telling word with Nastya: "obychnyy" means "ordinary, regular", and it carries the main weight of what Kostya is saying.
-- 'It feels to me like I am deceiving her.' Denis weighs in candidly with a smile, so Kostya knows he is not just making small talk.
-- 'Maybe it is better to tell her the whole truth?' Denis probes quietly to see how Nastya will answer on the spot.
-- 'What, are you crazy? It is just a dream!' Kostya uses this direct touch on cue: "durak" means "fool, idiot", and it carries the main weight of what Kostya is saying.
-- 'I once dreamed about a beautiful famous actress.' Kostya fires back wryly with a smile, letting the remark speak for itself.
-- 'Actually, that actress has six children.' Nastya chimes in evenly without holding back, making her position completely clear.
-- 'Nastya, I did not like that dream at all!' Kostya features one colorful detail for Nastya: "ponravilsya" means "was liked, pleased" (from "ponravitsya"), giving the line its exact edge.
+- 'Listen, Kostya, has this ever happened to you?' Cutting in smoothly with Kostya, Denis uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'I love our Katya very much.' Denis weighs in calmly without a pause, bringing things back to earth after the buildup.
+- 'But in my dreams I see a completely different woman.' Emphasizing the woman before Kostya, Denis brings in "zhenshchinu" ("a woman", from "zhenshchina") as the key Russian word here.
+- 'Tell me, is that normal at all or not?' Answering plainly around Kostya, Denis drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Bro, my Nastya wants a second child.' Kostya answers steadily beside Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'And what you have is just an ordinary dream.' Pointing out how ordinary things are in this beat, Kostya centers the remark on "obychnyy" ("ordinary, regular") without any extra fuss.
+- 'It feels to me like I am deceiving her.' Denis continues vividly in the exchange and uses "obmanyvayu" ("deceive", from "obmanyvat") to make the point stick.
+- 'Maybe it is better to tell her the whole truth?' Denis probes quietly what Kostya is actually getting at here.
+- 'What, are you crazy? It is just a dream!' Touching on the fool before Denis, Kostya brings in "durak" ("fool, idiot") to make the meaning unmistakable.
+- 'I once dreamed about a beautiful famous actress.' Emphasizing the actress in the exchange, Kostya puts the weight on "izvestnaya" ("famous, well-known", from "izvestnyy") as the exchange unfolds.
+- 'Actually, that actress has six children.' Nastya responds evenly facing Kostya, so Kostya knows she is not just making small talk.
+- 'Nastya, I did not like that dream at all!' Underscoring the dream on the spot, Kostya brings in "ponravilsya" ("was liked, pleased", from "ponravitsya") as the key Russian word here.

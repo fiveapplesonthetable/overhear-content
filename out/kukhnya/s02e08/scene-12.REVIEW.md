@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I always thought that you were simply an idiot.' Barinov jumps in honestly beside Elena, testing Elena's reaction in the middle of the exchange.
-- 'Wait, you are not just an idiot.' Max anchors one pointed choice right here: "idiot" means "idiot", and it carries the main weight of what Max is saying.
-- 'Why the hell did you decide to do that.' Elena gives this line beside Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Chef, I just thought it would help.' Max chimes in quietly hearing Elena, to clear the air between them once and for all.
-- 'Good afternoon once again.' Max sharpens one classic term with Barinov: "dobryy" means "good", and it carries the main weight of what Max is saying.
-- 'How is your mood today?' Elena makes this statement with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Do you have many guests?' Barinov challenges curiously about what Elena just brought up.
-- 'It is a message from Elena.' Max grounds one practical expression toward Elena: "soobshcheniye" means "message", and it carries the main weight of what Max is saying.
-- 'Wait, what is that?' Elena hands over the reply with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Do not worry, Chef.' Barinov jumps in wryly before Max, grounding the moment in plain reality.
-- 'I will delete the whole thing right now.' Max frames one telling piece at once: "seychas" means "now", and it carries the main weight of what Max is saying.
-- 'We have to reply something to her.' Elena phrases this point without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Write it down like this.' Barinov jumps in wryly beside Elena, without trying to dress up how he really feels.
+- 'I always thought that you were simply an idiot.' Barinov fires back honestly during the talk, before Max can change the subject.
+- 'Wait, you are not just an idiot.' Emphasizing an idiot in the exchange, Max leans on "idiot" ("idiot") to give the whole sentence its punch.
+- 'Why the hell did you decide to do that.' Weighing in calmly beside Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Chef, I just thought it would help.' Max reacts quietly facing Barinov, making his position completely clear.
+- 'Good afternoon once again.' Max directly chooses this daytime greeting toward Elena using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'How is your mood today?' Returning to the mood in the exchange, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Do you have many guests?' Barinov challenges curiously whether Max really thought this through.
+- 'It is a message from Elena.' Addressing a message right here, Max centers the remark on "soobshcheniye" ("message") without any extra fuss.
+- 'Wait, what is that?' Pressing on plainly in front of Barinov, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Do not worry, Chef.' Barinov jumps in wryly with a shrug, making his position completely clear.
+- 'I will delete the whole thing right now.' Max proceeds pointedly in front of Barinov and lands on "udalyu" ("to delete, to remove", built on "udalit") to keep the statement grounded.
+- 'We have to reply something to her.' Following up naturally right here, Elena leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Write it down like this.' Barinov weighs in wryly with a shrug, letting the remark speak for itself.

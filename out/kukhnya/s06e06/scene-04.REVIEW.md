@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, have you seen my wallet?' The guest leans on this direct term toward Kostya: "bumazhnik" means "wallet", and it carries the main weight of what the guest is saying.
-- 'That means it was stolen on the metro.' The guest answers dryly with a nod, steering the talk right where he wants it.
-- 'All of my money was in there.' The guest cuts in calmly without a pause, without trying to dress up how he really feels.
-- 'It is a good thing my passport was in another pocket.' The guest leans on this telling detail at once: "pasport" means "passport", and it carries the main weight of what the guest is saying.
-- 'After all, you cannot pay at a hotel with a ticket.' Nastya directs the reply at once: the "-sya" ending on "rasplatishsya" ("will pay off") turns the action inward or makes it happen between people naturally.
-- 'Fine, we will lend him a little money.' Kostya counters plainly with a smile, shifting the whole mood of the room in a single beat.
-- 'Nastya, bring our secret cash stash here.' Kostya frames this telling piece in earnest: "zanachku" means "secret cash stash" (from "zanachka"), giving the line its exact edge.
-- 'I ordered a children's wardrobe with it.' Nastya responds frankly facing Kostya, watching Kostya's face to see how the news lands.
-- 'We were going to buy a new television!' Kostya follows up warmly with a shrug, so the guest knows he is not just making small talk.
-- 'You cannot put children's clothes inside a television.' Nastya chooses one pointed touch at once: "televizor" means "television", and it carries the main weight of what Nastya is saying.
-- 'Start mending your relationship at last.' Nastya sharpens this sharp detail with the guest: "otnosheniya" means "relations, relationship" (from "otnosheniye"), giving the line its exact edge.
-- 'And I will go order that wardrobe.' Nastya weighs in evenly as they talk, so Kostya knows she is not just making small talk.
+- 'Excuse me, have you seen my wallet?' Discussing his wallet right here, the guest uses "bumazhnik" ("wallet") to carry the main weight of the thought.
+- 'That means it was stolen on the metro.' Mentioning the metro around Nastya, the guest uses "metro" ("metro") to carry the main weight of the thought.
+- 'All of my money was in there.' The guest cuts in calmly with a smile, shifting the mood of the conversation in a single beat.
+- 'It is a good thing my passport was in another pocket.' Addressing his passport in the exchange, the guest reaches for the Russian word "pasport" ("passport") right at the heart of the line.
+- 'After all, you cannot pay at a hotel with a ticket.' Turning to a hotel to the guest, Nastya uses "gostinitse" ("hotel", from "gostinitsa") to make the point stick.
+- 'Fine, we will lend him a little money.' Kostya replies plainly around Nastya, refusing to let the moment slip past.
+- 'Nastya, bring our secret cash stash here.' Touching on the stash beside Nastya, Kostya lands on "zanachku" ("secret cash stash", built on "zanachka") to keep the statement grounded.
+- 'I ordered a children's wardrobe with it.' Addressing the wardrobe right here, Nastya centers the remark on "detskiy" ("childish, baby") without any extra fuss.
+- 'We were going to buy a new television!' Kostya follows up warmly during the talk, steering the talk right where he wants it.
+- 'You cannot put children's clothes inside a television.' Addressing a television beside Kostya, Nastya reaches for the Russian word "televizor" ("television") right at the heart of the line.
+- 'Start mending your relationship at last.' Nastya speaks boldly without a pause, steering the talk right where she wants it.
+- 'And I will go order that wardrobe.' Nastya proceeds evenly toward Kostya, leaving no doubt about where she stands.

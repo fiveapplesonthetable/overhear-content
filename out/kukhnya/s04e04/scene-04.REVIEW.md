@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And this is Kanat, he is our Kyrgyz cook.' Elena centers one colorful word in earnest: "kirgiz" means "cook", and it carries the main weight of what Elena is saying.
-- 'He just cannot manage to get his citizenship.' Elena drops the reaction in earnest: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'This is Nadya. A true professional.' Elena fires back briskly in their talk, bringing things back to earth after the buildup.
-- 'Her hands are simply golden.' Elena favors this sharp choice in reply: "zolotyye" means "golden" (from "zolotoy"), giving the line its exact edge.
-- 'Though you have to keep a very close eye on those golden hands.' Elena speaks briskly with a sigh, before Barinov can change the subject.
-- 'Minestrone, steamed salmon, carpaccio.' Barinov answers decisively around Max, refusing to let the moment slip past.
-- 'The carpaccio is yours, Viktor Petrovich.' Elena centers one pointed touch in earnest: "karpachcho" means "carpaccio", and it carries the main weight of what Elena is saying.
-- 'Yes, Chef!' Max lays out this update beside Elena: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'What a mustachioed slacker.' Barinov jumps in decisively with Elena, so Elena knows he is not just making small talk.
-- 'People say he is an alcoholic.' Elena highlights one classic piece for Max: "pogovarivayut" means "people are saying" (from "pogovarivat"), giving the line its exact edge.
-- 'You can tell right away just by looking at him.' Elena speaks earnestly in this moment, without trying to dress up how she really feels.
-- 'Be careful, Denis just cut my brother.' Max holds firm firmly with a shrug, before Elena can change the subject.
+- 'And this is Kanat, he is our Kyrgyz cook.' Turning to the cook around Barinov, Elena uses "kirgiz" ("cook") to carry the main weight of the thought.
+- 'He just cannot manage to get his citizenship.' Weighing in frankly to Barinov, Elena pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'This is Nadya. A true professional.' Elena proceeds briskly with Barinov, watching Barinov's face to see how the news lands.
+- 'Her hands are simply golden.' Emphasizing how golden things are in this beat, Elena centers the thought on "zolotyye" ("golden", from "zolotoy") without wasting a word.
+- 'Though you have to keep a very close eye on those golden hands.' Emphasizing the hands before Barinov, Elena centers the thought on "zolotymi" ("golden, gold", from "zolotoy") without wasting a word.
+- 'Minestrone, steamed salmon, carpaccio.' Barinov answers decisively facing Elena, so Elena knows he is not just making small talk.
+- 'The carpaccio is yours, Viktor Petrovich.' Highlighting the carpaccio in the exchange, Elena puts the emphasis on "karpachcho" ("carpaccio") in the middle of the talk.
+- 'Yes, Chef!' Max smoothly uses this direct affirmation in one quick breath using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'What a mustachioed slacker.' Barinov fires back decisively without holding back, steering the talk right where he wants it.
+- 'People say he is an alcoholic.' Mentioning an alcoholic in the exchange, Elena lands on "pogovarivayut" ("people are saying", built on "pogovarivat") to keep the statement grounded.
+- 'You can tell right away just by looking at him.' Elena proceeds naturally to Max and lands on "vidno" ("one can see") as the key everyday word here.
+- 'Be careful, Denis just cut my brother.' Max answers firmly in their talk, refusing to let the moment slip past.

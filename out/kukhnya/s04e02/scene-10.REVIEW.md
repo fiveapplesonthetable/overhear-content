@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The emperor himself is greeting me.' Barinov focuses on one telling touch in reply: "imperator" means "himself", and it carries the main weight of what Barinov is saying.
-- 'Stop clowning around and making a scene.' Nagiyev sends the remark to Denis: the "-sya" ending on "krivlyatsya" ("to clowning") turns the action inward or makes it happen between people naturally.
-- 'This is a cultured establishment.' Nagiyev replies promptly to be clear, watching Barinov's face to see how the news lands.
-- 'Wait, can a mere mortal not dine in your restaurant?' Barinov reaches for one familiar term with Nagiyev: "smertnomu" means "dine" (from "smertnyy"), giving the line its exact edge.
-- 'Why, of course you can.' Nagiyev sends this answer frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Come in and take a seat.' Nagiyev pushes back wryly facing Denis, bringing things back to earth after the buildup.
-- 'Denis, go serve him at the highest level.' Nagiyev anchors this clear word in reply: "obsluzhi" means "serve", and it carries the main weight of what Nagiyev is saying.
-- 'Come on, get moving.' Nagiyev frames this answer before Denis: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'The emperor himself is greeting me.' Underscoring the himself to Nagiyev, Barinov lands on "imperator" ("himself") as the key everyday word here.
+- 'Stop clowning around and making a scene.' Bringing up the performance around Barinov, the "-sya" ending on "krivlyatsya" ("to clowning") marks an action that unfolds mutually or turns back on the speaker.
+- 'This is a cultured establishment.' Nagiyev proceeds promptly around Denis, grounding the moment in plain reality.
+- 'Wait, can a mere mortal not dine in your restaurant?' Bringing up the restaurant around Nagiyev, Barinov centers the thought on "smertnomu" ("dine", from "smertnyy") without wasting a word.
+- 'Why, of course you can.' Nagiyev smoothly gives this confirmation right on cue using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Come in and take a seat.' Nagiyev continues wryly facing Barinov, keeping the focus on what actually matters here.
+- 'Denis, go serve him at the highest level.' Pointing to the serve in front of Denis, Nagiyev uses "obsluzhi" ("serve") to carry the main weight of the thought.
+- 'Come on, get moving.' Returning to the get with Barinov, Nagiyev starts with "davay" ("come on, let's") to invite Barinov right into the action.
 - 'Who is going to cook the chef's special?' Barinov probes candidly what Denis is actually getting at here.
-- 'What would you like to order?' Denis anchors one classic piece on cue: "zakazyvat" means "to order", and it carries the main weight of what Denis is saying.
-- 'The chef's special.' Barinov delivers the remark at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'What if Napoleon is bald in our movie together?' Nagiyev wonders wryly where this conversation is heading next.
+- 'What would you like to order?' Denis reacts pointedly in this beat and lands on "zakazyvat" ("to order") as the key everyday word here.
+- 'The chef's special.' Pointing to the dish in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'What if Napoleon is bald in our movie together?' Nagiyev wonders wryly before Barinov can change the subject.

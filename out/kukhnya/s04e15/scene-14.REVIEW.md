@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, respected ladies and gentlemen!' German counters pointedly across the room, without trying to dress up how he really feels.
-- 'Today you will see and taste unusual dishes.' German counters honestly before Katya, keeping the focus on what actually matters here.
-- 'This evening will change your perception of reality!' German emphasizes one key element in reply: "vospriyatiye" means "reality" (from "vospriyatiy"), giving the line its exact edge.
-- 'And so, friends, we are beginning our culinary show!' German fires back earnestly around Katya, testing Katya's reaction in the middle of the exchange.
-- 'Tell me, miss, what kind of powders are those?' The inspector tests frankly where this conversation is heading next.
-- 'That is our main culinary secret of the evening.' Katya emphasizes one clear word in earnest: "kulinarnyy" means "culinary", and it carries the main weight of what Katya is saying.
-- 'I can tell you only one thing right now.' Katya brings this update at once: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'It is precisely these powders that create all the magic of the kitchen!' Katya holds firm earnestly without holding back, so the inspector knows she is not just making small talk.
-- 'Please, taste our first hot dish.' Katya leans on this direct expression for German: "goryacheye" means "hot" (from "goryachiy"), giving the line its exact edge.
-- 'Listen, this really is very tasty after all!' The inspector reacts steadily without a pause, saying out loud what both of them already know.
-- 'Eva, and your homemade cutlets are simply a miracle!' German fires back calmly with a shrug, making his position completely clear.
-- 'Thank you very much, I am very pleased right now!' Katya points to one key expression at once: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Good evening, respected ladies and gentlemen!' Highlighting the evening before the inspector, German centers the thought on "uvazhayemyye" ("respected, esteemed", from "uvazhayemyy") without wasting a word.
+- 'Today you will see and taste unusual dishes.' German proceeds honestly in this moment, refusing to let the moment slip past.
+- 'This evening will change your perception of reality!' Underscoring the evening during the talk, German chooses "vospriyatiye" ("reality", from the root "vospriyatiy") so the inspector hears the exact meaning.
+- 'And so, friends, we are beginning our culinary show!' Emphasizing how culinary things are with the inspector, German puts the weight on "kulinarnoye" ("culinary, cooking", from "kulinarnyy") as the exchange unfolds.
+- 'Tell me, miss, what kind of powders are those?' The inspector tests frankly before Katya can change the subject.
+- 'That is our main culinary secret of the evening.' Insisting on how main things are beside the inspector, Katya leans on "kulinarnyy" ("culinary") to give the whole sentence its punch.
+- 'I can tell you only one thing right now.' Katya answers candidly across the room, leaving no doubt about where she stands.
+- 'It is precisely these powders that create all the magic of the kitchen!' Katya cuts in earnestly without holding back, so the inspector knows she is not just making small talk.
+- 'Please, taste our first hot dish.' Discussing the dish right here, Katya brings in "goryacheye" ("hot", from "goryachiy") as the key Russian word here.
+- 'Listen, this really is very tasty after all!' The inspector answers pointedly during the talk and leans on "deystvitelno" ("really, indeed") to give the whole sentence its punch.
+- 'Eva, and your homemade cutlets are simply a miracle!' German fires back calmly facing the inspector, so the inspector knows he is not just making small talk.
+- 'Thank you very much, I am very pleased right now!' Pointing to the thank before German, Katya leans on "bolshoye" ("big, very much", a form of "bolshoy") to give the remark its edge.

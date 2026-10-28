@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dear Anastasia and Konstantin, we are beginning our ceremony.' Max responds firmly hearing Kostya, keeping the focus on what actually matters here.
-- 'Wait a minute! Mom, where is my wedding bouquet?' Nastya chooses one vivid touch right here: "svadebnyy" means "wedding", and it carries the main weight of what Nastya is saying.
-- 'Sweetheart, they have not delivered your bouquet yet, traffic jams.' Max highlights this clear term toward Kostya: "dochenka" means "sweetheart", and it carries the main weight of what Max is saying.
-- 'Well, that will not upset us at all today, will it, baby?' Kostya presses candidly where this conversation is heading next.
-- 'No, it will not upset us, everything is completely fine.' Nastya frames one clear detail in earnest: "sovershenno" means "quite, completely", and it carries the main weight of what Nastya is saying.
-- 'Nastya, tell me honestly, is it really fine?' Kostya directs this answer around Nastya: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Not true! This is the most terrible wedding that could possibly be!' Nastya opens up wryly with a shrug, keeping the focus on what actually matters here.
-- 'You are left at the wedding with no best man at all!' Nastya favors one practical element right here: "svideteley" means "witnesses" (from "svidetel"), giving the line its exact edge.
-- 'You have a white cast on your leg, there will be no wedding dance!' Nastya shapes this answer in earnest: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'And they still have not delivered my pretty bouquet!' Nastya speaks pointedly with Max, shifting the whole mood of the room in a single beat.
-- 'Do you think I dreamed of a wedding like this since childhood?' Nastya spotlights this direct touch right here: "detstva" means "childhood" (from "detstvo"), giving the line its exact edge.
-- 'No, we cannot start the wedding right now!' Nastya answers briskly before Max, keeping the focus on what actually matters here.
+- 'Dear Anastasia and Konstantin, we are beginning our ceremony.' Max pushes back firmly in this moment, refusing to let the moment slip past.
+- 'Wait a minute! Mom, where is my wedding bouquet?' Insisting on how wedding things are with Max, Nastya brings in "svadebnyy" ("wedding") to make the meaning unmistakable.
+- 'Sweetheart, they have not delivered your bouquet yet, traffic jams.' Max proceeds candidly hearing Nastya, grounding the moment in plain reality.
+- 'Well, that will not upset us at all today, will it, baby?' Kostya presses candidly about what Nastya just brought up.
+- 'No, it will not upset us, everything is completely fine.' Nastya responds directly in this beat and reaches for the Russian word "sovershenno" ("quite, completely") right at the heart of the line.
+- 'Nastya, tell me honestly, is it really fine?' Checking on the honestly at once, Kostya keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Not true! This is the most terrible wedding that could possibly be!' Nastya cuts in wryly with Kostya, so Kostya knows she is not just making small talk.
+- 'You are left at the wedding with no best man at all!' Addressing the witnesses during the talk, Nastya uses "svideteley" ("witnesses", from "svidetel") to make the point stick.
+- 'You have a white cast on your leg, there will be no wedding dance!' Checking on a white cast during the talk, Nastya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'And they still have not delivered my pretty bouquet!' Nastya counters pointedly on the spot, shifting the mood of the conversation in a single beat.
+- 'Do you think I dreamed of a wedding like this since childhood?' Addressing the childhood before Kostya, Nastya lands on "detstva" ("childhood", built on "detstvo") to keep the statement grounded.
+- 'No, we cannot start the wedding right now!' Touching on the wedding in the exchange, Nastya reaches for the Russian word "svadbu" ("wedding", built from "svadba") right at the center of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quieter, my mom is lying there in the next room.' Lyova leans on this key expression at once: "sosedney" means "neighboring" (from "sosedniy"), giving the line its exact edge.
-- 'After all, her leg is in a cast, not her ears.' Lyova makes that remark plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Stop worrying, she is probably asleep for a long time already.' Gulya continues candidly on the spot, making her position completely clear.
-- 'Alright, wait here, I will go quietly check.' Lyova chooses one memorable element in reply: "khorosho" means "good, fine", and it carries the main weight of what Lyova is saying.
-- 'Mommy, tell me, why are you not sleeping yet?' Lyova voices the comment with warmth: putting the question word "pochemu" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'Sleep will not come, and my sleeping pills ran out.' Gulya follows up at once with Lyova, to clear the air between them once and for all.
-- 'Let me run to the pharmacy right now and buy some.' Lyova reaches for one sharp choice on cue: "apteku" means "pharmacy, chemist's" (from "apteka"), giving the line its exact edge.
-- 'Hello, yes, Marina, I am listening to you carefully.' Denis points to one loaded touch with Lyova: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Denis is saying.
-- 'Congratulations to you, bride, Denis just bought the ring!' Gulya continues wryly around Denis, watching Denis's face to see how the news lands.
-- 'Thank you, I happen to have the night shift today.' Denis colors one classic choice right here: "nochnaya" means "night" (from "nochnoy"), giving the line its exact edge.
-- 'By the way, you owe twenty thousand for half the ring.' Gulya states that point on cue: opening with "kstati" ("by the way") lets Gulya drop a new detail into the conversation as if it just crossed her mind.
-- 'Yes, a bit pricey, but you cannot skimp on yourself!' Denis jumps in honestly with Lyova, steering the talk right where he wants it.
+- 'Quieter, my mom is lying there in the next room.' Noting how neighboring things are on the spot, Lyova chooses "sosedney" ("neighboring", from the root "sosedniy") so Gulya hears the exact meaning.
+- 'After all, her leg is in a cast, not her ears.' Returning to the foot at once, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Stop worrying, she is probably asleep for a long time already.' Gulya chimes in candidly hearing Lyova, to clear the air between them once and for all.
+- 'Alright, wait here, I will go quietly check.' Lyova speaks up candidly to Gulya and puts the emphasis on "khorosho" ("good, fine") in the middle of the talk.
+- 'Mommy, tell me, why are you not sleeping yet?' Following up firmly around Gulya, Lyova puts the question word "pochemu" right at the start so Gulya hears the focus immediately.
+- 'Sleep will not come, and my sleeping pills ran out.' Gulya cuts in at once without a pause, leaving no doubt about where she stands.
+- 'Let me run to the pharmacy right now and buy some.' Touching on the pharmacy at once, Lyova uses "apteku" ("pharmacy, chemist's", from "apteka") to make the point stick.
+- 'Hello, yes, Marina, I am listening to you carefully.' Denis counters decisively with a smile, before Lyova can change the subject.
+- 'Congratulations to you, bride, Denis just bought the ring!' Mentioning the bride across the room, Gulya sets the direction for the rest of the talk with Denis.
+- 'Thank you, I happen to have the night shift today.' Emphasizing the thank beside Gulya, Denis reaches for the Russian word "nochnaya" ("night", built from "nochnoy") right at the center of the line.
+- 'By the way, you owe twenty thousand for half the ring.' Dwelling on the half beside Denis, Gulya opens with "kstati" ("by the way") as if the thought just crossed her mind.
+- 'Yes, a bit pricey, but you cannot skimp on yourself!' Denis reacts pointedly toward Gulya, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Friends, I have gathered all of you here.' German chooses one memorable term on cue: "druzya" means "friends" (from "drug"), giving the line its exact edge.
-- 'Let's talk. Come with me.' Max shapes that line with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'And here is what I thought.' German counters evenly on the spot, shifting the whole mood of the room in a single beat.
-- 'All of you should work like Denis.' German stresses one vivid touch in reply: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
-- 'Peeling potatoes by the sack?' Denis sends this warning right away: Russian keeps the exact word order of a normal statement here, turning it into a question for German purely through rising pitch at the end.
-- 'No, more efficiently.' German cuts in briskly without any doubt, saying out loud what both of them already know.
-- 'If everyone works like Denis,.' German highlights one memorable expression in earnest: "kazhdyy" means "every", and it carries the main weight of what German is saying.
-- 'The coefficient of useful efficiency will rise.' German phrases that thought with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'We will not need such a large number of cooks.' German steps in quietly facing Denis, watching Denis's face to see how the news lands.
-- 'You understand, right? You are fired.' German uses one telling element for Max: "ponimayete" means "do you understand" (from "ponimat"), giving the line its exact edge.
-- 'What are you doing?' Denis delivers this answer without pause: putting the question word "chto" right at the front of the line lets German hear the point of the question on the very first beat.
-- 'What is it? Is there something you do not like?' German asks plainly where this conversation is heading next.
+- 'Friends, I have gathered all of you here.' Discussing the friends to Max, German leans on "druzya" ("friends", a form of "drug") to give the remark its edge.
+- 'Let's talk. Come with me.' Cutting in briskly on the spot, Max starts with "davay" ("come on, let's") to invite German right into the action.
+- 'And here is what I thought.' German weighs in evenly with a smile, steering the talk right where he wants it.
+- 'All of you should work like Denis.' German speaks plainly on the spot and lands on "dolzhny" ("must, should", built on "dolzhen") to keep the statement grounded.
+- 'Peeling potatoes by the sack?' Bringing up the potatoes before German, Denis keeps normal statement word order here, turning the line into a question for German purely through rising pitch.
+- 'No, more efficiently.' German responds briskly with a nod, keeping the focus on what actually matters here.
+- 'If everyone works like Denis,.' German pushes back briskly in front of Denis and brings in "rabotat" ("to work") to make the meaning unmistakable.
+- 'The coefficient of useful efficiency will rise.' Discussing the coefficient during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'We will not need such a large number of cooks.' German replies quietly in their talk, shifting the mood of the conversation in a single beat.
+- 'You understand, right? You are fired.' German speaks up promptly at once and uses "ponimayete" ("do you understand", from "ponimat") to make the point stick.
+- 'What are you doing?' Following up quietly with German, Denis puts the question word "chto" right at the start so German hears the focus immediately.
+- 'What is it? Is there something you do not like?' German asks plainly whether Denis really thought this through.

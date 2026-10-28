@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, good afternoon.' Max favors one clear element at once: "zdravstvuyte" means "hello", and it carries the main weight of what Max is saying.
-- 'He cannot come to the phone right now.' Vika offers the reply frankly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'Hello, I am a friend of his.' Nastya counters firmly hearing Max, to clear the air between them once and for all.
-- 'Oh, it is good that you called.' Max frames one telling detail on cue: "pozvonili" means "called" (from "pozvonit"), giving the line its exact edge.
-- 'I have bad news for you.' Vika frames the remark beside Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'We lost him.' Nastya replies sharply with Vika, making her position completely clear.
-- 'He walked out into the hallway and disappeared somewhere.' Max highlights this telling term toward Nastya: "koridor" means "hall, corridor", and it carries the main weight of what Max is saying.
-- 'Now we cannot find him anywhere.' Vika responds plainly toward Nastya, keeping the focus on what actually matters here.
+- 'Hello, good afternoon.' Max casually drops this formal greeting at this moment using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'He cannot come to the phone right now.' Pressing on smoothly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Hello, I am a friend of his.' Nastya speaks up firmly hearing Vika, so Vika knows she is not just making small talk.
+- 'Oh, it is good that you called.' Max answers briskly in front of Nastya and puts the weight on "pozvonili" ("called", from "pozvonit") as the exchange unfolds.
+- 'I have bad news for you.' Vika weighs in wryly without a pause, letting the remark speak for itself.
+- 'We lost him.' Nastya proceeds sharply without a pause, testing Vika's reaction in the middle of the exchange.
+- 'He walked out into the hallway and disappeared somewhere.' Bringing up the hall in this beat, Max lands on "koridor" ("hall, corridor") as the key everyday word here.
+- 'Now we cannot find him anywhere.' Vika follows up openly in this beat and reaches for the Russian word "nayti" ("to find") right at the heart of the line.
 - 'Wait a second, so he is alive?' Nastya presses earnestly how Max expects that to work in practice.
-- 'Listen, was that you playing a prank?' Max sharpens this telling detail in earnest: "poshutil" means "to joke" (from "poshutit"), giving the line its exact edge.
-- 'Well, where are you?' Vika brings that line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It looks like I ate something bad.' Nastya speaks right away beside Vika, so Vika knows she is not just making small talk.
-- 'So here I am lying down and resting.' Max picks this direct touch right here: "otdykhayu" means "am resting" (from "otdykhat"), giving the line its exact edge.
+- 'Listen, was that you playing a prank?' Max opens up naturally in the exchange and reaches for the Russian word "poshutil" ("to joke", built from "poshutit") right at the center of the line.
+- 'Well, where are you?' Stepping in directly on the spot, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It looks like I ate something bad.' Nastya fires back right away beside Vika, before Vika can change the subject.
+- 'So here I am lying down and resting.' Max speaks up firmly before Nastya and brings in "otdykhayu" ("am resting", from "otdykhat") as the key Russian word here.

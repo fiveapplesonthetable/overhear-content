@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where are the potatoes?' Lyova inquires promptly as Barinov tries to explain the situation.
-- 'And where is the zucchini? And where is Lavrov?' Lyova reaches for one familiar touch for Nagiyev: "tsukini" means "zucchini", and it carries the main weight of what Lyova is saying.
-- 'Fine, keep working, I will do everything myself.' Lyova directs that reply without pause: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'You did the absolute right thing by giving me a second chance.' Nagiyev pushes back bluntly as they talk, refusing to let the moment slip past.
-- 'War and Peace, Napoleon—all of that is mine.' Nagiyev stresses one clear element in earnest: "napoleon" means "mine", and it carries the main weight of what Nagiyev is saying.
-- 'I even read it. Thank you very much.' Nagiyev frames the reply beside Lyova: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'By the way, the cooking here in our restaurant is amazing.' Nagiyev continues plainly with Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'And do not worry at all.' Nagiyev points to one vivid detail in reply: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'I kicked out the chef who ruined dinner last time.' Nagiyev replies pointedly on the spot, leaving no doubt about where he stands.
-- 'Everything is fine. Go do your work.' Nagiyev pushes back lightly toward Lyova, leaving no doubt about where he stands.
-- 'I am a guest here.' Barinov stresses this telling detail with Lyova: "gost" means "guest", and it carries the main weight of what Barinov is saying.
-- 'Wait a second, you...' Nagiyev shares that line with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Where are the potatoes?' Lyova inquires promptly about what Nagiyev just brought up.
+- 'And where is the zucchini? And where is Lavrov?' Bringing up the zucchini around Nagiyev, Lyova reaches for the Russian word "tsukini" ("zucchini") right at the heart of the line.
+- 'Fine, keep working, I will do everything myself.' Lyova responds evenly at once and leans on "rabotayte" ("work", a form of "rabotat") to give the remark its edge.
+- 'You did the absolute right thing by giving me a second chance.' Nagiyev pushes back bluntly in their talk, letting the remark speak for itself.
+- 'War and Peace, Napoleon—all of that is mine.' Bringing up the war in the exchange, Nagiyev reaches for the Russian word "voyna" ("a war") right at the heart of the line.
+- 'I even read it. Thank you very much.' Nagiyev counters wryly without any doubt, making his position completely clear.
+- 'By the way, the cooking here in our restaurant is amazing.' Nagiyev follows up plainly watching Lyova, grounding the moment in plain reality.
+- 'And do not worry at all.' Nagiyev speaks decisively around Barinov and uses "volnuytes" ("worry", from "volnovatsya") to make the point stick.
+- 'I kicked out the chef who ruined dinner last time.' Discussing the dinner in the exchange, Nagiyev puts the emphasis on "uzhin" ("dinner") in the middle of the talk.
+- 'Everything is fine. Go do your work.' Nagiyev cuts in lightly hearing Barinov, to clear the air between them once and for all.
+- 'I am a guest here.' Bringing up a guest beside Nagiyev, Barinov lands on "gost" ("guest") as the key everyday word here.
+- 'Wait a second, you...' Opening up frankly beside Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

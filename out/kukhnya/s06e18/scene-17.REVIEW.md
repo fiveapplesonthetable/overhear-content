@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I got acquainted with your nephew.' Denis counters frankly to be clear, so Eleonora knows he is not just making small talk.
-- 'Denis, you are simply a shameless nephew!' Eleonora opens up plainly with Katya, before Katya can change the subject.
-- 'You came to Moscow and kept quiet.' Eleonora chooses one pointed term for Denis: "priyekhal" means "came" (from "priyekhat"), giving the line its exact edge.
-- 'You did not even call your beloved aunt!' Eleonora holds firm steadily with a smile, keeping the focus on what actually matters here.
-- 'How very much I have missed you!' Eleonora pushes back dryly in this moment, keeping the focus on what actually matters here.
-- 'I missed you very much too, Aunt.' Denis highlights one clear expression with Katya: "soskuchilsya" means "missed" (from "soskuchitsya"), giving the line its exact edge.
-- 'He was here, but he left.' Katya pushes back pointedly without holding back, bringing things back to earth after the buildup.
-- 'It seems he fell slightly ill today.' Katya continues promptly with a sigh, grounding the moment in plain reality.
-- 'Strange, why did he not call?' Eleonora spotlights this sharp piece in reply: "pozvonil" means "phoned, called" (from "pozvonit"), giving the line its exact edge.
-- 'Thank you for the pleasant company.' Denis shapes the reply facing Katya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Mom, thank you very much right now.' Katya jumps in warmly with a smile, letting the remark speak for itself.
-- 'This is all because of your horse!' Eleonora features this key element on cue: "loshadi" means "from the horse" (from "loshad"), giving the line its exact edge.
+- 'I got acquainted with your nephew.' Discussing the nephew during the talk, Denis centers the thought on "plemyannikom" ("nephew", from "plemyannik") without wasting a word.
+- 'Denis, you are simply a shameless nephew!' Eleonora responds plainly across the room, refusing to let the moment slip past.
+- 'You came to Moscow and kept quiet.' Eleonora replies sharply beside Denis and puts the weight on "molchal" ("to be silent", from "molchat") as the exchange unfolds.
+- 'You did not even call your beloved aunt!' Discussing the aunt during the talk, Eleonora leans on "lyubimoy" ("favourite, beloved", a form of "lyubimyy") to give the remark its edge.
+- 'How very much I have missed you!' Eleonora continues dryly facing Denis, steering the talk right where she wants it.
+- 'I missed you very much too, Aunt.' Mentioning the aunt beside Eleonora, Denis lands on "soskuchilsya" ("missed", built on "soskuchitsya") to keep the statement grounded.
+- 'He was here, but he left.' Katya jumps in promptly in front of Denis and reaches for the Russian word "uyekhal" ("left, went away", built from "uyekhat") right at the center of the line.
+- 'It seems he fell slightly ill today.' Katya cuts in pointedly toward Eleonora, keeping the focus on what actually matters here.
+- 'Strange, why did he not call?' Eleonora fires back evenly beside Denis and chooses "pozvonil" ("phoned, called", from the root "pozvonit") so Denis hears the exact meaning.
+- 'Thank you for the pleasant company.' Denis plainly speaks this word of thanks at the start of the beat using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Mom, thank you very much right now.' Katya replies warmly with a nod, refusing to let the moment slip past.
+- 'This is all because of your horse!' Turning to the horse around Katya, Eleonora centers the thought on "loshadi" ("from the horse", from "loshad") without wasting a word.

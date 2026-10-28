@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Welcome back to Moscow, Dmitry Vladimirovich!' Vika chimes in boldly toward German, without trying to dress up how she really feels.
-- 'Tell me, what happened to your face?' German reaches for one telling touch toward Vika: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'I have a big disaster with my face, guys.' Nagiyev hands over the remark without fuss: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'What do the doctors say? Will you have this for long?' Vika wonders skeptically in front of Nagiyev without any preamble.
-- 'The doctors say that the swelling will not go down anytime soon.' Nagiyev sharpens this key detail in earnest: "vrachi" means "doctors" (from "vrach"), giving the line its exact edge.
-- 'I will cry every morning in front of the mirror.' Nagiyev counters honestly toward Vika, watching Vika's face to see how the news lands.
-- 'But soon we have an important bank corporate party!' Vika continues warmly hearing German, testing German's reaction in the middle of the exchange.
-- 'Let those bankers wait until next month.' Nagiyev reaches for one loaded piece at once: "sleduyushchego" means "next, following" (from "sleduyushchiy"), giving the line its exact edge.
-- 'No, canceling this celebration is completely impossible!' Vika weighs in steadily without any doubt, letting the remark speak for itself.
-- 'After all, we already took an advance payment from them.' Vika follows up boldly in their talk, refusing to let the moment slip past.
-- 'With this money we bought your vacation tour!' Vika anchors one direct choice on cue: "dengi" means "money", and it carries the main weight of what Vika is saying.
-- 'What a pity that Vika does not host corporate parties!' Nagiyev answers dryly across the room, to clear the air between them once and for all.
+- 'Welcome back to Moscow, Dmitry Vladimirovich!' Vika reacts boldly around German, keeping the focus on what actually matters here.
+- 'Tell me, what happened to your face?' Bringing up the face in front of Nagiyev, German chooses "sluchilos" ("happened", from the root "sluchitsya") so Nagiyev hears the exact meaning.
+- 'I have a big disaster with my face, guys.' Nagiyev responds openly with a nod, making his position completely clear.
+- 'What do the doctors say? Will you have this for long?' Vika wonders skeptically what Nagiyev is actually getting at here.
+- 'The doctors say that the swelling will not go down anytime soon.' Highlighting the doctors on the spot, Nagiyev uses "vrachi" ("doctors", from "vrach") to make the point stick.
+- 'I will cry every morning in front of the mirror.' Emphasizing the morning to Vika, Nagiyev brings in "kazhdoye" ("every, each", from "kazhdyy") as the key Russian word here.
+- 'But soon we have an important bank corporate party!' Vika cuts in warmly with Nagiyev, so Nagiyev knows she is not just making small talk.
+- 'Let those bankers wait until next month.' Bringing up the bankers at once, Nagiyev chooses "sleduyushchego" ("next, following", from the root "sleduyushchiy") so Vika hears the exact meaning.
+- 'No, canceling this celebration is completely impossible!' Talking about the holiday during the talk, Vika uses "prazdnik" ("holiday") to carry the main weight of the thought.
+- 'After all, we already took an advance payment from them.' Vika follows up boldly without a pause, refusing to let the moment slip past.
+- 'With this money we bought your vacation tour!' Pointing to the money around Nagiyev, Vika reaches for the Russian word "dengi" ("money") right at the heart of the line.
+- 'What a pity that Vika does not host corporate parties!' Bringing up the parties with Vika, Nagiyev puts the emphasis on "korporativy" ("parties") in the middle of the talk.

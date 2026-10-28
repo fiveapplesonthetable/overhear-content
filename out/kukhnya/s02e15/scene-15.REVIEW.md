@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need to get some fresh air.' Barinov answers calmly beside Vika, making his position completely clear.
-- 'I need to use the bathroom.' Vika favors one pointed touch in reply: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'I was not in the dining room.' Barinov steps in right away with a sigh, grounding the moment in plain reality.
+- 'I need to get some fresh air.' Barinov chimes in calmly around Vika, shifting the mood of the conversation in a single beat.
+- 'I need to use the bathroom.' Vika counters warmly beside Barinov and centers the remark on "pisat" ("to write") without any extra fuss.
+- 'I was not in the dining room.' Discussing the hall before Vika, Barinov puts the emphasis on "zale" ("hall") in the middle of the talk.
 - 'Maybe he is out in the dining room?' Vika probes firmly to see how Barinov will answer on the spot.
-- 'Over here, Vika.' Barinov directs that thought calmly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Attention everyone, look at me.' Vika voices that line with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Where is the Chef?' Barinov presses straight out whether Vika really thought this through.
-- 'Wait, did you not let him go early?' Vika grounds one concrete piece in reply: "otpustili" means "let go" (from "otpustit"), giving the line its exact edge.
-- 'The Chef gave him the rest of the day off.' Barinov voices that thought calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Over here, Vika.' Cutting in candidly right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Attention everyone, look at me.' Touching on the attention at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Where is the Chef?' Barinov presses straight out where this conversation is heading next.
+- 'Wait, did you not let him go early?' Vika weighs in evenly during the talk and lands on "otpustili" ("let go", built on "otpustit") to keep the statement grounded.
+- 'The Chef gave him the rest of the day off.' Following up quietly in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
 - 'What is wrong with you all?' Vika checks bluntly why things suddenly took this turn between them.
-- 'Who do you think you are stealing from, huh?' Barinov anchors one practical piece on cue: "voruyete" means "to steal" (from "vorovat"), giving the line its exact edge.
-- 'Who are you stealing from?' Vika phrases the reaction in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'From me!' Barinov replies pointedly with a sigh, keeping the focus on what actually matters here.
+- 'Who do you think you are stealing from, huh?' Barinov chimes in earnestly right here and leans on "voruyete" ("to steal", a form of "vorovat") to give the remark its edge.
+- 'Who are you stealing from?' Answering plainly in front of Barinov, Vika keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'From me!' Barinov speaks pointedly in their talk, bringing things back to earth after the buildup.

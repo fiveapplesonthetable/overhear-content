@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, stop all this circus right now!' Barinov stands firm decisively to settle things, steering the talk right where he wants it.
-- 'Come to my place, we will work together.' Barinov chooses this direct expression with Senya: "poydyom" means "let's go" (from "poyti"), giving the line its exact edge.
-- 'Why could you not say this earlier?' Katya drops this line with warmth: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'An hour ago you were too busy!' Katya jumps in plainly without a pause, so Senya knows she is not just making small talk.
-- 'Well, I am telling you right now!' Barinov anchors this direct choice toward Katya: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
-- 'Chef found out that Katya got a job here.' Senya gives the reply to Katya: the "-sya" ending on "ustroilas" ("to get a job") turns the action inward or makes it happen between people naturally.
-- 'Katya, please, do not start this argument.' Barinov opens up warmly in this moment, grounding the moment in plain reality.
-- 'Dad, it will be much better for me here.' Katya favors one telling term in earnest: "namnogo" means "much, far", and it carries the main weight of what Katya is saying.
-- 'I want to develop in the kitchen on my own.' Katya delivers the reaction plainly here: the "-sya" ending on "razvivatsya" ("develop") turns the action inward or makes it happen between people naturally.
-- 'At my place there will be a very good salary.' Barinov cuts in bluntly around Senya, making his position completely clear.
-- 'I promise you rapid career growth.' Barinov stresses one clear term in reply: "karyernyy" means "climb", and it carries the main weight of what Barinov is saying.
-- 'In two years I will make you sous-chef!' Barinov centers one practical expression on cue: "su-shefom" means "sous-chef" (from "su-shef"), giving the line its exact edge.
+- 'Katya, stop all this circus right now!' Barinov weighs in decisively in this moment, to clear the air between them once and for all.
+- 'Come to my place, we will work together.' Barinov continues promptly before Katya and lands on "poydyom" ("let's go", built on "poyti") to keep the statement grounded.
+- 'Why could you not say this earlier?' Jumping in boldly in front of Barinov, Katya leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'An hour ago you were too busy!' Katya replies plainly without any doubt, keeping the focus on what actually matters here.
+- 'Well, I am telling you right now!' Barinov reacts openly during the talk and lands on "govoryu" ("am telling", built on "govorit") to keep the statement grounded.
+- 'Chef found out that Katya got a job here.' Stepping in calmly in this beat, the "-sya" ending on "ustroilas" ("to get a job") marks an action that unfolds mutually or turns back on the speaker.
+- 'Katya, please, do not start this argument.' Barinov opens up warmly with a sigh, so Katya knows he is not just making small talk.
+- 'Dad, it will be much better for me here.' Discussing the dad at once, Katya puts the emphasis on "papa" ("Dad") in the middle of the talk.
+- 'I want to develop in the kitchen on my own.' Talking about the kitchen around Barinov, the "-sya" ending on "razvivatsya" ("develop") marks an action that unfolds mutually or turns back on the speaker.
+- 'At my place there will be a very good salary.' Barinov answers bluntly in this moment, so Katya knows he is not just making small talk.
+- 'I promise you rapid career growth.' Mentioning the growth in the exchange, Barinov reaches for the Russian word "karyernyy" ("climb") right at the heart of the line.
+- 'In two years I will make you sous-chef!' Barinov continues right away with a shrug, watching Katya's face to see how the news lands.

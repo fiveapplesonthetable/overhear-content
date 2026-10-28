@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, come on, put out my restaurant quickly with your jackets!' Max frames one sharp element at once: "pidzhakami" means "with jackets" (from "pidzhak"), giving the line its exact edge.
-- 'Young man, why are we sitting here? Everyone has already gotten off.' Max drops that reply to Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Yes, thank you, I am getting off right now too.' Max speaks warmly watching Katya, refusing to let the moment slip past.
-- 'Katya, hi! What are you doing here right now?' Vika features one classic element right here: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'Vika, tell me, can you and I talk calmly?' Katya phrases that reply with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Honestly speaking, I do not think that is a good idea.' Vika responds pointedly without holding back, so Max knows she is not just making small talk.
-- 'Listen, everything turned out very strangely for us.' Katya colors this sharp word right here: "poluchilos" means "worked out" (from "poluchitsya"), giving the line its exact edge.
-- 'What exactly turned out strangely for us, tell me?' Vika aims this answer at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'I love Max, and he loves only you.' Katya counters boldly facing Max, letting the remark speak for itself.
-- 'And right now you are not giving him a chance at all.' Katya picks one loaded word toward Vika: "shansa" means "chance" (from "shans"), giving the line its exact edge.
-- 'In the end he will be neither with you nor with me.' Katya pushes back bluntly without a pause, grounding the moment in plain reality.
-- 'Think about whether you are ready to give up your happiness.' Katya speaks up warmly with a smile, shifting the whole mood of the room in a single beat.
-- 'Because right now he still loves you very much.' Katya focuses on one colorful word at once: "yeshchyo" means "more, still", and it carries the main weight of what Katya is saying.
+- 'Guys, come on, put out my restaurant quickly with your jackets!' Mentioning the jackets at once, Max reaches for the Russian word "pidzhakami" ("with jackets", built from "pidzhak") right at the center of the line.
+- 'Young man, why are we sitting here? Everyone has already gotten off.' Making clear how young things are before Vika, Max puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'Yes, thank you, I am getting off right now too.' Max jumps in warmly with a smile, grounding the moment in plain reality.
+- 'Katya, hi! What are you doing here right now?' Vika speaks up decisively in this beat and leans on "delayesh" ("are you doing", a form of "delat") to give the remark its edge.
+- 'Vika, tell me, can you and I talk calmly?' Jumping in directly in front of Vika, Katya keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Honestly speaking, I do not think that is a good idea.' Vika cuts in pointedly without a pause, to clear the air between them once and for all.
+- 'Listen, everything turned out very strangely for us.' Katya counters calmly in this beat and chooses "poluchilos" ("worked out", from the root "poluchitsya") so Vika hears the exact meaning.
+- 'What exactly turned out strangely for us, tell me?' Leaning in candidly in the exchange, Vika reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'I love Max, and he loves only you.' Katya weighs in boldly with a shrug, refusing to let the moment slip past.
+- 'And right now you are not giving him a chance at all.' Focusing on a chance in front of Vika, Katya chooses "shansa" ("chance", from the root "shans") so Vika hears the exact meaning.
+- 'In the end he will be neither with you nor with me.' Discussing the result to Vika, Katya puts the weight on "itoge" ("result, total", from "itog") as the exchange unfolds.
+- 'Think about whether you are ready to give up your happiness.' Katya replies warmly watching Vika, before Vika can change the subject.
+- 'Because right now he still loves you very much.' Katya steps in smoothly with Vika and lands on "yeshchyo" ("more, still") as the key everyday word here.

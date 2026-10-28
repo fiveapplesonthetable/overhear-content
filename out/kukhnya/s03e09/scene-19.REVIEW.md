@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, forgive me, I was lying to you.' Kostya leans on this direct term in reply: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
-- 'In reality I have been working for your dad.' Kostya weighs in steadily watching Vika, testing Vika's reaction in the middle of the exchange.
-- 'Or rather, I used to work here.' Kostya weighs in sharply hearing Vika, without trying to dress up how he really feels.
-- 'I will no longer be able to work for you.' Kostya colors one colorful expression right here: "rabotat" means "to work", and it carries the main weight of what Kostya is saying.
-- 'Because Nastya is against this kind of work.' Kostya delivers this line with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And there is no need to lend us money.' Kostya holds firm candidly with a nod, making his position completely clear.
-- 'I will definitely earn it myself.' Kostya uses one telling choice for Vika: "obyazatelno" means "surely, without fail", and it carries the main weight of what Kostya is saying.
-- 'Katya, you do not need to bring your diploma anymore.' Vika stands firm dryly to be clear, testing Kostya's reaction in the middle of the exchange.
-- 'I sent an official inquiry to Paris.' Vika chimes in lightly with a sigh, bringing things back to earth after the buildup.
-- 'They replied to me that you were expelled from there.' Vika uses one sharp word toward Kostya: "otchislili" means "expelled" (from "otchislit"), giving the line its exact edge.
-- 'I chose not to tell your father.' Vika speaks pointedly watching Kostya, leaving no doubt about where she stands.
-- 'I thought you would want to tell him that yourself.' Vika answers right away as things stand, steering the talk right where she wants it.
+- 'Nastya, forgive me, I was lying to you.' Kostya steps in readily right here and puts the weight on "prosti" ("sorry, forgive me", from "prostit") as the exchange unfolds.
+- 'In reality I have been working for your dad.' Touching on the case before Vika, Kostya puts the weight on "rabotayu" ("work", from "rabotat") as the exchange unfolds.
+- 'Or rather, I used to work here.' Kostya fires back sharply beside Vika, to clear the air between them once and for all.
+- 'I will no longer be able to work for you.' Kostya speaks briskly around Vika and lands on "rabotat" ("to work") as the key everyday word here.
+- 'Because Nastya is against this kind of work.' Talking about the work around Vika, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And there is no need to lend us money.' Kostya responds candidly with a nod, steering the talk right where he wants it.
+- 'I will definitely earn it myself.' Kostya speaks up warmly at once and puts the emphasis on "obyazatelno" ("surely, without fail") in the middle of the talk.
+- 'Katya, you do not need to bring your diploma anymore.' Underscoring the diploma during the talk, Vika lands on "diplom" ("diploma") as the key everyday word here.
+- 'I sent an official inquiry to Paris.' Vika pushes back lightly without a pause, grounding the moment in plain reality.
+- 'They replied to me that you were expelled from there.' Vika reacts naturally in front of Kostya and uses "otchislili" ("expelled", from "otchislit") to make the point stick.
+- 'I chose not to tell your father.' Pointing to the father in the exchange, Vika lands on "ottsu" ("to father", built on "otets") to keep the statement grounded.
+- 'I thought you would want to tell him that yourself.' Vika pushes back right away in this moment, watching Kostya's face to see how the news lands.

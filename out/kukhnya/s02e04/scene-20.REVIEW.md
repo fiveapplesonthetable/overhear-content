@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Or am I bad, Lyova?' Barinov voices that answer briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You just have a hard time admitting your mistakes.' Sasha opens up firmly with a smile, shifting the whole mood of the room in a single beat.
-- 'Give me three.' Lyova underscores this vivid detail at once: "davay" means "let's" (from "davat"), giving the line its exact edge.
-- 'But the truth is.' Barinov sends that line briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'That we ourselves choose.' Sasha steps in decisively without holding back, without trying to dress up how she really feels.
-- 'Whether to live in a world of illusions.' Lyova anchors this telling term right here: "illyuziy" means "illusion" (from "illyuziya"), giving the line its exact edge.
-- 'Or leave the past behind and move forward.' Barinov chimes in steadily in their talk, so Lyova knows he is not just making small talk.
-- 'Sometimes making that choice is very simple.' Sasha pushes back frankly with a shrug, grounding the moment in plain reality.
-- 'Did you order pizza?' Lyova uses one colorful word at once: "pitstsu" means "pizza, pizza place" (from "pitstsa"), giving the line its exact edge.
-- 'Finally, come on in.' Barinov gives the remark right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Come in. Hi.' Sasha stands firm boldly as things stand, shifting the whole mood of the room in a single beat.
-- 'Where are your bags?' Lyova stresses this clear expression right here: "veshchi" means "things" (from "veshch"), giving the line its exact edge.
-- 'I am sorry, okay?' Barinov sends this statement for Lyova: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'Or am I bad, Lyova?' Turning calmly in front of Lyova, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You just have a hard time admitting your mistakes.' Sasha answers firmly with a smile, steering the talk right where she wants it.
+- 'Give me three.' Lyova steps in briskly right here and chooses "davay" ("let's", from the root "davat") so Sasha hears the exact meaning.
+- 'But the truth is.' Bringing up the honestly at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'That we ourselves choose.' Sasha weighs in decisively beside Barinov, letting the remark speak for itself.
+- 'Whether to live in a world of illusions.' Focusing on the illusion beside Sasha, Lyova centers the thought on "illyuziy" ("illusion", from "illyuziya") without wasting a word.
+- 'Or leave the past behind and move forward.' Barinov proceeds sharply in front of Lyova and uses "proshloye" ("last, past", from "proshlyy") to make the point stick.
+- 'Sometimes making that choice is very simple.' Sasha reacts frankly during the talk, keeping the focus on what actually matters here.
+- 'Did you order pizza?' Bringing up the pizza on the spot, Lyova uses "pitstsu" ("pizza, pizza place", from "pitstsa") to make the point stick.
+- 'Finally, come on in.' Leaning in openly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Come in. Hi.' Sasha quietly delivers this casual greeting with Lyova using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Where are your bags?' Opening up frankly in front of Barinov, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am sorry, okay?' Barinov directly voices this informal apology in front of Lyova using "izvini" ("sorry") — the casual singular apology you use with someone you know well.

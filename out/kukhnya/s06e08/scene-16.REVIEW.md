@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything is clear, thanks for the birthday wishes and goodbye!' Katya centers this direct term at once: "pozdravleniye" means "wish" (from "pozdravleniy"), giving the line its exact edge.
-- 'Katya, wait, I was only joking!' Nagiyev sends the thought to Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Speak immediately, where are you hiding her right now?' Barinov prompts plainly while looking straight at Katya here.
-- 'I simply lay down to sleep, do you not see?' Nagiyev anchors one clear expression right here: "prosto" means "just", and it carries the main weight of what Nagiyev is saying.
-- 'Dima, you had better not make me angry right now!' Barinov reacts pointedly to settle things, without trying to dress up how he really feels.
-- 'Fine, I admit it honestly, she is in the shower right now.' Nagiyev weighs in bluntly with a smile, keeping the focus on what actually matters here.
-- 'But you will not give me away to Elya, right?' Nagiyev stresses one practical detail at once: "pravda" means "honestly", and it carries the main weight of what Nagiyev is saying.
-- 'You are a man, you must understand me!' Nagiyev centers one sharp detail with Katya: "muzhchina" means "man", and it carries the main weight of what Nagiyev is saying.
-- 'After all, you already covered for me once.' Nagiyev answers pointedly to be clear, testing Barinov's reaction in the middle of the exchange.
-- 'Oh you shameless scoundrel, I will kill you!' Barinov reaches for one telling touch in reply: "bessovestnyy" means "shameless", and it carries the main weight of what Barinov is saying.
-- 'Vitya, stop, have you completely lost your mind?' Nagiyev shares the comeback toward Barinov: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'I will show you right now what happens when you wrong my daughter!' Barinov speaks frankly with a smile, without trying to dress up how he really feels.
+- 'Everything is clear, thanks for the birthday wishes and goodbye!' Showing how wish things are during the talk, Katya puts the weight on "pozdravleniye" ("wish", from "pozdravleniy") as the exchange unfolds.
+- 'Katya, wait, I was only joking!' Weighing in openly on the spot, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Speak immediately, where are you hiding her right now?' Barinov prompts plainly how Nagiyev expects that to work in practice.
+- 'I simply lay down to sleep, do you not see?' Nagiyev counters directly in the exchange and centers the thought on "vidish" ("see", from "videt") without wasting a word.
+- 'Dima, you had better not make me angry right now!' Barinov speaks vividly during the talk and lands on "luchshe" ("better") as the key everyday word here.
+- 'Fine, I admit it honestly, she is in the shower right now.' Nagiyev jumps in bluntly during the talk, without trying to dress up how he really feels.
+- 'But you will not give me away to Elya, right?' Bringing up the honestly during the talk, Nagiyev centers the remark on "pravda" ("honestly") without any extra fuss.
+- 'You are a man, you must understand me!' Nagiyev fires back candidly in this moment, watching Barinov's face to see how the news lands.
+- 'After all, you already covered for me once.' Nagiyev pushes back pointedly without any doubt, refusing to let the moment slip past.
+- 'Oh you shameless scoundrel, I will kill you!' Bringing up the scoundrel in front of Nagiyev, Barinov lands on "bessovestnyy" ("shameless") as the key everyday word here.
+- 'Vitya, stop, have you completely lost your mind?' Addressing the mind on the spot, Nagiyev adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'I will show you right now what happens when you wrong my daughter!' Barinov speaks up frankly with a nod, making his position completely clear.

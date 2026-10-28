@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'More carefully!' Lyova steps in plainly without a pause, leaving no doubt about where he stands.
-- 'Lyova, do not be angry.' Ainura chooses this sharp touch in reply: "zlis" means "be angry" (from "zlitsya"), giving the line its exact edge.
-- 'She is my niece.' Ainura voices the comeback briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'She is working her first day today.' Ainura responds boldly with a smile, watching Lyova's face to see how the news lands.
-- 'She does not know how to behave yet.' Ainura chooses one classic term at once: "yeshchyo" means "more, still", and it carries the main weight of what Ainura is saying.
-- 'It is nothing.' Lyova directs the comment to Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Are you getting ready?' Elena asks candidly what Ainura is actually getting at here.
-- 'Listen, what a handsome suit!' Elena centers one vivid expression at once: "krasivyy" means "beautiful", and it carries the main weight of what Elena is saying.
-- 'Why do you not wear it?' Elena puts the thought calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
-- 'Well, I do not know.' Lyova responds quietly on the spot, grounding the moment in plain reality.
-- 'Well why are you walking around?' Elena features one key piece on cue: "khodish" means "can walk, are walking" (from "khodit"), giving the line its exact edge.
-- 'Sit down right here and do not strain yourself.' Elena lays out this update briskly now: the "-sya" ending on "napryagaysya" ("strain yourself") turns the action inward or makes it happen between people naturally.
+- 'More carefully!' Lyova replies plainly with a shrug, grounding the moment in plain reality.
+- 'Lyova, do not be angry.' Ainura speaks plainly in the exchange and lands on "zlis" ("be angry", built on "zlitsya") to keep the statement grounded.
+- 'She is my niece.' Touching on her niece right here, Ainura links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'She is working her first day today.' Ainura continues boldly with a shrug, keeping the focus on what actually matters here.
+- 'She does not know how to behave yet.' Ainura proceeds sharply in this beat and chooses "yeshchyo" ("more, still") so Lyova gets the point right away.
+- 'It is nothing.' Cutting in dryly with Ainura, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Are you getting ready?' Elena asks candidly while looking straight at Lyova here.
+- 'Listen, what a handsome suit!' Highlighting a handsome suit on the spot, Elena lands on "krasivyy" ("beautiful") as the key everyday word here.
+- 'Why do you not wear it?' Opening up quietly at once, Elena keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'Well, I do not know.' Lyova continues quietly with a sigh, without trying to dress up how he really feels.
+- 'Well why are you walking around?' Elena answers boldly right here and lands on "khodish" ("can walk, are walking", built on "khodit") to keep the statement grounded.
+- 'Sit down right here and do not strain yourself.' Replying openly in front of Lyova, the "-sya" ending on "napryagaysya" ("strain yourself") marks an action that unfolds mutually or turns back on the speaker.

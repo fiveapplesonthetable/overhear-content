@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, what do you think I should give Katya?' Denis aims this line plainly here: putting the question word "kak" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'Step back, you are keeping me from concentrating right now.' Senya counters right away in their talk, before Fedya can change the subject.
-- 'Listen, try grating your finger on the grater.' Fedya chooses one pointed expression right here: "poprobuy" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
-- 'We are just short on fresh minced meat.' Fedya hands over the thought in earnest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Stop laughing, you had better help me instead!' Senya reacts calmly toward Denis, shifting the whole mood of the room in a single beat.
-- 'Give me thirty thousand and you are without a finger.' Fedya uses one practical detail in earnest: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
-- 'Thank you, it was very nice being friends with you.' Senya sends this statement frankly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'I would rather handle this myself somehow.' Senya continues sharply to be clear, saying out loud what both of them already know.
-- 'Would I really break a friend's finger for free?' Fedya centers this clear word in reply: "besplatno" means "for free", and it carries the main weight of what Fedya is saying.
-- 'So I give you the money and break even?' Senya sends this point toward Fedya: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
-- 'Well yes, that is exactly what I am proposing.' Fedya reacts calmly in their talk, without trying to dress up how he really feels.
-- 'Get lost with that kind of help!' Senya picks this clear touch at once: "pomoshchyu" means "help" (from "pomoshch"), giving the line its exact edge.
+- 'Senya, what do you think I should give Katya?' Answering calmly in this beat, Denis puts the question word "kak" right at the start so Senya hears the focus immediately.
+- 'Step back, you are keeping me from concentrating right now.' Senya counters frankly beside Denis, to clear the air between them once and for all.
+- 'Listen, try grating your finger on the grater.' Discussing the finger beside Senya, Fedya puts the emphasis on "palets" ("finger") in the middle of the talk.
+- 'We are just short on fresh minced meat.' Confirming how fresh things are on the spot, Fedya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Stop laughing, you had better help me instead!' Senya responds calmly across the room, grounding the moment in plain reality.
+- 'Give me thirty thousand and you are without a finger.' Touching on the thousand during the talk, Fedya centers the thought on "tysyach" ("thousand", from "tysyacha") without wasting a word.
+- 'Thank you, it was very nice being friends with you.' Bringing up the thank around Fedya, Senya leans on "spasibo" ("thank you") to give the whole sentence its punch.
+- 'I would rather handle this myself somehow.' Senya continues sharply without holding back, bringing things back to earth after the buildup.
+- 'Would I really break a friend's finger for free?' Underscoring a friend in front of Senya, Fedya centers the remark on "besplatno" ("for free") without any extra fuss.
+- 'So I give you the money and break even?' Bringing up the money at once, Senya keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.
+- 'Well yes, that is exactly what I am proposing.' Fedya cuts in calmly toward Senya, grounding the moment in plain reality.
+- 'Get lost with that kind of help!' Focusing on the help at once, Senya centers the thought on "pomoshchyu" ("help", from "pomoshch") without wasting a word.

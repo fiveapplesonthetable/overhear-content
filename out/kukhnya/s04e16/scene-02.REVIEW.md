@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You know, Denis, I like you very much too.' Katya lays out this statement beside Denis: the "-sya" ending on "nravishsya" ("appeal to, are liked") turns the action inward or makes it happen between people naturally.
+- 'You know, Denis, I like you very much too.' Turning quietly before Denis, the "-sya" ending on "nravishsya" ("appeal to, are liked") marks an action that unfolds mutually or turns back on the speaker.
 - 'Really? I waited so long for these words!' Denis questions openly what Katya is actually getting at here.
-- 'But in our family there is one problem.' Katya underscores one sharp expression toward Denis: "problema" means "problem", and it carries the main weight of what Katya is saying.
-- 'My father is against the two of us dating.' Katya makes that reply calmly now: the "-sya" ending on "vstrechalis" ("to meet, to date") turns the action inward or makes it happen between people naturally.
-- 'He is a very strict and stern person.' Katya cuts in earnestly during the talk, keeping the focus on what actually matters here.
-- 'Without his consent nothing is decided in our family.' Katya sharpens this clear piece right here: "soglasiya" means "nothing", and it carries the main weight of what Katya is saying.
-- 'I cannot go against my dad's will.' Katya responds decisively facing Denis, steering the talk right where she wants it.
-- 'Why didn't you tell me right away?' Denis quizzes plainly in front of Katya without any preamble.
-- 'After all, this is not a difficult problem at all!' Denis highlights one sharp touch in reply: "slozhnaya" means "complicated" (from "slozhnyy"), giving the line its exact edge.
-- 'I will have a serious talk with him today.' Denis replies at once before Katya, bringing things back to earth after the buildup.
-- 'Your father will definitely give us his consent!' Denis stands firm sharply to be clear, before Katya can change the subject.
-- 'Wait, Denis, it is better not to go to him!' Katya spotlights this key word on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'But in our family there is one problem.' Pointing to the problem in front of Denis, Katya chooses "problema" ("problem") so Denis gets the point right away.
+- 'My father is against the two of us dating.' Focusing on her father during the talk, the "-sya" ending on "vstrechalis" ("to meet, to date") marks an action that unfolds mutually or turns back on the speaker.
+- 'He is a very strict and stern person.' Katya follows up earnestly across the room, steering the talk right where she wants it.
+- 'Without his consent nothing is decided in our family.' Katya fires back firmly to Denis and lands on "reshayetsya" ("is being sorted out", built on "reshatsya") to keep the statement grounded.
+- 'I cannot go against my dad's will.' Emphasizing the freedom with Denis, Katya reaches for the Russian word "voli" ("freedom, liberty", built from "volya") right at the center of the line.
+- 'Why didn't you tell me right away?' Denis quizzes plainly what Katya is actually getting at here.
+- 'After all, this is not a difficult problem at all!' Explaining how complicated things are in front of Katya, Denis puts the weight on "slozhnaya" ("complicated", from "slozhnyy") as the exchange unfolds.
+- 'I will have a serious talk with him today.' Pressing on plainly around Katya, Denis leans on "seryozno" ("seriously"), which carries the whole predicate in Russian without needing "it is".
+- 'Your father will definitely give us his consent!' Denis proceeds sharply with a shrug, so Katya knows he is not just making small talk.
+- 'Wait, Denis, it is better not to go to him!' Katya chimes in candidly on the spot and lands on "podozhdi" ("wait", built on "podozhdat") to keep the statement grounded.

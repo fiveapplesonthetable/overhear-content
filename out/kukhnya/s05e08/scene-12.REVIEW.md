@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yulya, I will escort you to your room.' Max holds firm candidly with Katya, testing Katya's reaction in the middle of the exchange.
-- 'Your husband wants to visit you after dinner.' Max underscores this telling expression with Kostya: "navestit" means "to visit", and it carries the main weight of what Max is saying.
-- 'I need to step away for a moment.' Katya delivers the comeback calmly now: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'You do not speak Arabic, after all.' Max counters frankly with Kostya, keeping the focus on what actually matters here.
-- 'Yes, of course, I will be nearby.' Max features one practical element in earnest: "konechno" means "of course", and it carries the main weight of what Max is saying.
-- 'Please, walk carefully.' Max voices this statement around Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Nastya is not in the storage room either.' Kostya jumps in warmly facing Katya, steering the talk right where he wants it.
-- 'Do not worry, maybe Nastya is simply in the restroom?' Katya spotlights this sharp detail for Max: "tualete" means "the toilet" (from "tualet"), giving the line its exact edge.
-- 'She has not answered for a whole hour already.' Kostya replies frankly beside Katya, watching Katya's face to see how the news lands.
-- 'I urgently need to see Dad!' Katya cuts in pointedly with Max, steering the talk right where she wants it.
-- 'Let us go check the corridor.' Kostya chooses one loaded choice right here: "koridor" means "hall, corridor", and it carries the main weight of what Kostya is saying.
-- 'I will wait for you by the door.' Max highlights one familiar element at once: "podozhdu" means "will wait" (from "podozhdat"), giving the line its exact edge.
+- 'Yulya, I will escort you to your room.' Max reacts candidly around Katya, to clear the air between them once and for all.
+- 'Your husband wants to visit you after dinner.' Pointing to the dinner in this beat, Max brings in "uzhina" ("dinner, supper", from "uzhin") as the key Russian word here.
+- 'I need to step away for a moment.' Replying promptly right here, Katya leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'You do not speak Arabic, after all.' Max steps in frankly with a sigh, steering the talk right where he wants it.
+- 'Yes, of course, I will be nearby.' Max answers promptly during the talk and uses "konechno" ("of course") to carry the main weight of the thought.
+- 'Please, walk carefully.' Holding firm warmly in front of Kostya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Nastya is not in the storage room either.' Kostya weighs in warmly watching Max, letting the remark speak for itself.
+- 'Do not worry, maybe Nastya is simply in the restroom?' Discussing the toilet beside Kostya, Katya lands on "tualete" ("the toilet", built on "tualet") to keep the statement grounded.
+- 'She has not answered for a whole hour already.' Discussing a whole hour around Katya, Kostya puts the weight on "otvechayet" ("is responsible", from "otvechat") as the exchange unfolds.
+- 'I urgently need to see Dad!' Katya continues pointedly with a shrug, leaving no doubt about where she stands.
+- 'Let us go check the corridor.' Discussing the hall in front of Katya, Kostya brings in "koridor" ("hall, corridor") to make the meaning unmistakable.
+- 'I will wait for you by the door.' Max pushes back evenly without holding back, steering the talk right where he wants it.

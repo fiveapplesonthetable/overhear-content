@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, has Goncharova given birth yet?' Max emphasizes this clear term with the doctor: "zdravstvuyte" means "hello", and it carries the main weight of what Max is saying.
-- 'Not yet, wait here.' The doctor hands over that reply toward Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Why is she not picking up the phone?' Max challenges sharply as the doctor tries to explain the situation.
-- 'Sir, how do you imagine childbirth?' The doctor chooses one key touch right here: "predstavlyayete" means "to imagine" (from "predstavlyat"), giving the line its exact edge.
-- 'Yes, hi, is everything alright?' Max sends that answer at once: opening with the casual greeting "privet" ("hi") signals right away that Max and the doctor are on familiar terms.
-- 'I am already at the maternity hospital.' Max steps in lightly on the spot, refusing to let the moment slip past.
-- 'Hold on the line for a second.' Max grounds one loaded touch with the doctor: "sekundochku" means "one little second" (from "sekundochka"), giving the line its exact edge.
-- 'Tell me, how can I get through?' Max shares this statement with warmth: putting the question word "kak" right at the front of the line lets the doctor hear the point of the question on the very first beat.
-- 'And who are you anyway?' The doctor questions plainly in front of Max without any preamble.
-- 'I am her lawful husband.' Max emphasizes one clear touch in reply: "zakonnyy" means "legitimate", and it carries the main weight of what Max is saying.
-- 'Under the contract we let close relatives in.' The doctor counters right away without any doubt, to clear the air between them once and for all.
-- 'Open the door for me, please.' Max weighs in boldly to be clear, refusing to let the moment slip past.
+- 'Hello, has Goncharova given birth yet?' Max naturally voices this formal greeting to the doctor using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Not yet, wait here.' Holding firm directly around Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Why is she not picking up the phone?' Max challenges sharply where this conversation is heading next.
+- 'Sir, how do you imagine childbirth?' Talking about the man during the talk, the doctor chooses "predstavlyayete" ("to imagine", from the root "predstavlyat") so Max hears the exact meaning.
+- 'Yes, hi, is everything alright?' Max gently voices this casual greeting in the exchange using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'I am already at the maternity hospital.' Max speaks up lightly in their talk, watching the doctor's face to see how the news lands.
+- 'Hold on the line for a second.' Talking about a second to the doctor, Max uses "sekundochku" ("one little second", from "sekundochka") to make the point stick.
+- 'Tell me, how can I get through?' Answering boldly during the talk, Max puts the question word "kak" right at the start so the doctor hears the focus immediately.
+- 'And who are you anyway?' The doctor questions plainly while looking straight at Max here.
+- 'I am her lawful husband.' Insisting on how legitimate he is beside the doctor, Max puts the emphasis on "zakonnyy" ("legitimate") in the middle of the talk.
+- 'Under the contract we let close relatives in.' Highlighting the relatives right here, the doctor brings in "rodstvennikov" ("relatives", from "rodstvennik") as the key Russian word here.
+- 'Open the door for me, please.' Max casually directs this courtesy word without hesitation using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".

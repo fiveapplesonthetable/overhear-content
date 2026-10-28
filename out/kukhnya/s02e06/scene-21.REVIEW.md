@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We only chip in together in one case.' Senya reacts evenly as things stand, testing Fedya's reaction in the middle of the exchange.
-- 'When we go to the sauna as a team.' Fedya centers one familiar touch on cue: "komandoy" means "team" (from "komanda"), giving the line its exact edge.
-- 'And today is a completely different case.' Senya drops this point to Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You were the one who invited us.' Fedya speaks openly watching Senya, saying out loud what both of them already know.
-- 'My entire paycheck is right here.' Senya chooses this clear element in reply: "zarplata" means "salary, wages", and it carries the main weight of what Senya is saying.
-- 'That will teach you a lesson.' Fedya directs that line with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Next time you will not go grabbing other people's food.' Senya steps in boldly with Fedya, letting the remark speak for itself.
-- 'That is just how it goes in life.' Fedya spotlights one practical element at once: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
-- 'You bend over backward trying your hardest.' Senya states this statement at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Wait, I do not get it.' Fedya proceeds promptly toward Senya, grounding the moment in plain reality.
-- 'Where is the money?' Senya chooses one memorable piece with Fedya: "dengi" means "money", and it carries the main weight of what Senya is saying.
-- 'There is a thousand rubles missing in here.' Fedya proceeds honestly beside Senya, before Senya can change the subject.
-- 'Hurry up, people are waiting out there.' Senya replies steadily watching Fedya, refusing to let the moment slip past.
+- 'We only chip in together in one case.' Senya chimes in evenly across the room, testing Fedya's reaction in the middle of the exchange.
+- 'When we go to the sauna as a team.' Turning to a team on the spot, Fedya chooses "komandoy" ("team", from the root "komanda") so Senya hears the exact meaning.
+- 'And today is a completely different case.' Pointing to the case in the exchange, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You were the one who invited us.' Fedya speaks up openly without any doubt, shifting the mood of the conversation in a single beat.
+- 'My entire paycheck is right here.' Talking about the salary at once, Senya reaches for the Russian word "zarplata" ("salary, wages") right at the heart of the line.
+- 'That will teach you a lesson.' Reacting promptly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Next time you will not go grabbing other people's food.' Senya steps in boldly beside Fedya, grounding the moment in plain reality.
+- 'That is just how it goes in life.' Discussing the life before Senya, Fedya lands on "zhizni" ("life", built on "zhizn") to keep the statement grounded.
+- 'You bend over backward trying your hardest.' Dwelling on the skin on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Wait, I do not get it.' Fedya replies promptly across the room, grounding the moment in plain reality.
+- 'Where is the money?' Addressing the money to Fedya, Senya reaches for the Russian word "dengi" ("money") right at the heart of the line.
+- 'There is a thousand rubles missing in here.' Touching on the thousands in front of Senya, Fedya puts the weight on "tysyachi" ("thousands", from "tysyacha") as the exchange unfolds.
+- 'Hurry up, people are waiting out there.' Senya speaks steadily with Fedya, before Fedya can change the subject.

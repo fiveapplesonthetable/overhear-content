@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I would like to order the warm seafood salad.' Barinov replies bluntly with a smile, shifting the whole mood of the room in a single beat.
-- 'And not his assistant.' Lyova continues earnestly with a nod, testing Timur's reaction in the middle of the exchange.
-- 'That day the salad was a flop.' Timur favors one pointed detail in reply: "salat" means "salad", and it carries the main weight of what Timur is saying.
-- 'And Lyova badly wanted to find out my secret recipe.' Barinov follows up calmly beside Timur, testing Timur's reaction in the middle of the exchange.
-- 'Why does it work for me, and not for him?' Lyova checks candidly while looking straight at Barinov here.
-- 'Lyova, do you have nothing better to do?' Timur voices that remark without fuss: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'Chef, Timur just brought the produce delivery.' Lyova continues lightly watching Barinov, shifting the whole mood of the room in a single beat.
-- 'I can sign for it.' Lyova speaks openly with a sigh, refusing to let the moment slip past.
-- 'Mine tastes the exact same.' Timur features one memorable detail on cue: "tochno" means "definitely", and it carries the main weight of what Timur is saying.
-- 'I do not understand it.' Barinov drops this update to Timur: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I would like to order the warm seafood salad.' Addressing the warm seafood to Lyova, Barinov lands on "moreproduktami" ("seafood", built on "moreprodukty") to keep the statement grounded.
+- 'And not his assistant.' Lyova answers earnestly with a shrug, to clear the air between them once and for all.
+- 'That day the salad was a flop.' Discussing the salad beside Lyova, Timur centers the remark on "salat" ("salad") without any extra fuss.
+- 'And Lyova badly wanted to find out my secret recipe.' Emphasizing the recipe to Timur, Barinov puts the emphasis on "retsept" ("recipe") in the middle of the talk.
+- 'Why does it work for me, and not for him?' Lyova checks candidly how Timur expects that to work in practice.
+- 'Lyova, do you have nothing better to do?' Following up warmly in the exchange, Timur puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'Chef, Timur just brought the produce delivery.' Discussing the groceries to Barinov, Lyova chooses "produkty" ("groceries", from the root "produkt") so Barinov hears the exact meaning.
+- 'I can sign for it.' Lyova jumps in openly toward Timur, keeping the focus on what actually matters here.
+- 'Mine tastes the exact same.' Timur cuts in smoothly to Lyova and lands on "tochno" ("definitely") as the key everyday word here.
+- 'I do not understand it.' Replying warmly beside Timur, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
 - 'Lyova, what are you doing?' Timur prompts eagerly why things suddenly took this turn between them.
-- 'Did you eat the whole salad?' Timur emphasizes one memorable touch at once: "salat" means "salad", and it carries the main weight of what Timur is saying.
-- 'You are about to find out right now.' Barinov delivers the comeback calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Did you eat the whole salad?' Underscoring the whole salad to Barinov, Timur brings in "salat" ("salad") to make the meaning unmistakable.
+- 'You are about to find out right now.' Jumping in openly beside Timur, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

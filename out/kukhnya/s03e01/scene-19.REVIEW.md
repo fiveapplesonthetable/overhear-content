@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How did the family reunion go?' Lyova features this clear word toward Barinov: "vossoyedineniye" means "reunion", and it carries the main weight of what Lyova is saying.
-- 'I know everything, I know.' Barinov gives that answer plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I think it is normal, it is right.' Lyova pushes back promptly with a smile, leaving no doubt about where he stands.
-- 'Both the daughter is nearby and the dad is under supervision.' Lyova features one clear touch in earnest: "prismotrom" means "supervision" (from "prismotr"), giving the line its exact edge.
-- 'I want everyone to understand.' Barinov cuts in firmly with a smile, leaving no doubt about where he stands.
-- 'Here there is only the chef.' Barinov proceeds pointedly as they talk, so Vika knows he is not just making small talk.
-- 'Nobody must know about this, clear?' Barinov picks one clear word right here: "dolzhen" means "has to, must", and it carries the main weight of what Barinov is saying.
-- 'Yes, good evening.' Vika gives this update facing Lyova: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Come aboard. Well, how do you like it?' Lyova questions calmly before Barinov can change the subject.
-- 'It seemed to me that this was a business meeting.' Vika chooses one familiar element for Lyova: "delovaya" means "business, businesslike" (from "delovoy"), giving the line its exact edge.
-- 'And this looks like a date.' Vika counters bluntly to settle things, steering the talk right where she wants it.
-- 'That is exactly what it is.' Lyova holds firm earnestly with Vika, to clear the air between them once and for all.
+- 'How did the family reunion go?' Highlighting the family reunion at once, Lyova uses "vossoyedineniye" ("reunion") to carry the main weight of the thought.
+- 'I know everything, I know.' Weighing in boldly in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I think it is normal, it is right.' Lyova answers promptly around Barinov, making his position completely clear.
+- 'Both the daughter is nearby and the dad is under supervision.' Turning to the supervision in the exchange, Lyova reaches for the Russian word "prismotrom" ("supervision", built from "prismotr") right at the center of the line.
+- 'I want everyone to understand.' Barinov replies directly around Lyova and puts the weight on "ponyali" ("did you understand", from "ponyat") as the exchange unfolds.
+- 'Here there is only the chef.' Barinov steps in pointedly watching Lyova, leaving no doubt about where he stands.
+- 'Nobody must know about this, clear?' Barinov replies frankly in the exchange and brings in "dolzhen" ("has to, must") to make the meaning unmistakable.
+- 'Yes, good evening.' Vika smoothly gives this evening greeting beside Lyova using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'Come aboard. Well, how do you like it?' Lyova questions calmly about what Vika just brought up.
+- 'It seemed to me that this was a business meeting.' Talking about a business meeting with Lyova, Vika lands on "delovaya" ("business, businesslike", built on "delovoy") to keep the statement grounded.
+- 'And this looks like a date.' Bringing up a date in this beat, Vika centers the remark on "svidaniye" ("date") without any extra fuss.
+- 'That is exactly what it is.' Lyova cuts in earnestly beside Vika, refusing to let the moment slip past.

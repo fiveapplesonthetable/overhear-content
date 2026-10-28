@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Eleonora Andreevna is Katya's mom.' Denis sends the reaction before Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well, have you come back again?' Eleonora questions firmly why things suddenly took this turn between them.
-- 'Have you completely lost your mind?' Eleonora stresses one clear expression for Denis: "soshyol" means "gone" (from "soyti"), giving the line its exact edge.
-- 'Did you change your mind and come for the money?' Eleonora aims the thought on cue: the "-sya" ending on "odumalsya" ("changed your mind") turns the action inward or makes it happen between people naturally.
-- 'No, I do not need your money.' Denis speaks up plainly around Eleonora, watching Eleonora's face to see how the news lands.
-- 'I am not leaving here for anywhere.' Denis picks one clear word in reply: "otsyuda" means "from here", and it carries the main weight of what Denis is saying.
-- 'I am staying to work in the kitchen.' Denis counters boldly on the spot, leaving no doubt about where he stands.
-- 'I really want to be with Katya.' Denis holds firm firmly with a sigh, saying out loud what both of them already know.
-- 'And the fact that you and I slept together...' Denis points to this clear element on cue: "perespali" means "slept together" (from "perespat"), giving the line its exact edge.
-- 'Please, be quiet, I ask you!' Eleonora gives this statement with ease: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'We must forget that night.' Denis answers sharply toward Eleonora, making his position completely clear.
-- 'Get out of my office!' Eleonora spotlights this direct touch right here: "kabineta" means "office" (from "kabinet"), giving the line its exact edge.
+- 'Eleonora Andreevna is Katya's mom.' Dwelling on the mum to Eleonora, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, have you come back again?' Eleonora questions firmly where this conversation is heading next.
+- 'Have you completely lost your mind?' Touching on the mind in the exchange, Eleonora chooses "soshyol" ("gone", from the root "soyti") so Denis hears the exact meaning.
+- 'Did you change your mind and come for the money?' Focusing on the money at once, Eleonora keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'No, I do not need your money.' Denis counters plainly in this moment, keeping the focus on what actually matters here.
+- 'I am not leaving here for anywhere.' Denis counters briskly in the exchange and centers the remark on "otsyuda" ("from here") without any extra fuss.
+- 'I am staying to work in the kitchen.' Focusing on the kitchen right here, Denis lands on "kukhne" ("kitchen", built on "kukhnya") to keep the statement grounded.
+- 'I really want to be with Katya.' Denis reacts firmly during the talk, leaving no doubt about where he stands.
+- 'And the fact that you and I slept together...' Denis answers briskly to Eleonora and uses "perespali" ("slept together", from "perespat") to make the point stick.
+- 'Please, be quiet, I ask you!' Eleonora directly voices this courtesy word in the exchange using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'We must forget that night.' Denis continues sharply with a nod, leaving no doubt about where he stands.
+- 'Get out of my office!' Discussing her office right here, Eleonora puts the weight on "kabineta" ("office", from "kabinet") as the exchange unfolds.

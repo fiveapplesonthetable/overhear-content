@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am begging you, please forgive me.' Max delivers that reply without pause: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'You disappeared for six months!' Vika challenges quietly while looking straight at Sasha here.
-- 'And now you expect me to just forgive you like that.' Sasha emphasizes one colorful expression at once: "prosto" means "just", and it carries the main weight of what Sasha is saying.
-- 'I did not run away.' Max aims that remark right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I got scared, because I was afraid of my own feelings.' Max fires back boldly as things stand, without trying to dress up how he really feels.
-- 'I am ready to move forward now.' Max underscores this key term in reply: "gotov" means "ready" (from "gotovyy"), giving the line its exact edge.
-- 'Provided, of course, that you want that too.' Max points to one pointed element on cue: "konechno" means "of course", and it carries the main weight of what Max is saying.
-- 'Excuse me, what would you like to order?' Vika wonders plainly while looking straight at Sasha here.
-- 'It does not matter, young man.' Sasha chooses one loaded term toward Max: "molodoy" means "young", and it carries the main weight of what Sasha is saying.
-- 'Somehow she does not look all that angry with him.' Max offers the comeback briskly now: the "-sya" ending on "obizhayetsya" ("to take offence") turns the action inward or makes it happen between people naturally.
-- 'And if they get back together, that will be awesome.' Vika answers frankly with a nod, steering the talk right where she wants it.
-- 'Everyone wins.' Sasha anchors one pointed detail toward Vika: "khorosho" means "good, fine", and it carries the main weight of what Sasha is saying.
-- 'Max, what are you doing?' Vika states that line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I am begging you, please forgive me.' Max firmly extends this personal apology while facing Vika using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'You disappeared for six months!' Vika challenges quietly what Sasha is actually getting at here.
+- 'And now you expect me to just forgive you like that.' Sasha weighs in directly on the spot and chooses "prosti" ("sorry, forgive me", from the root "prostit") so Vika hears the exact meaning.
+- 'I did not run away.' Cutting in earnestly with Sasha, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I got scared, because I was afraid of my own feelings.' Max proceeds boldly in their talk, without trying to dress up how he really feels.
+- 'I am ready to move forward now.' Explaining how ready he is around Vika, Max centers the thought on "gotov" ("ready", from "gotovyy") without wasting a word.
+- 'Provided, of course, that you want that too.' Max speaks up lightly without a pause, making his position completely clear.
+- 'Excuse me, what would you like to order?' Vika evenly offers this polite apology in one quick breath using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'It does not matter, young man.' Sasha reacts earnestly in front of Vika and brings in "molodoy" ("young") to make the meaning unmistakable.
+- 'Somehow she does not look all that angry with him.' Reacting frankly beside Sasha, the "-sya" ending on "obizhayetsya" ("to take offence") marks an action that unfolds mutually or turns back on the speaker.
+- 'And if they get back together, that will be awesome.' Vika pushes back frankly across the room, grounding the moment in plain reality.
+- 'Everyone wins.' Sasha answers promptly in the exchange and brings in "khorosho" ("good, fine") to make the meaning unmistakable.
+- 'Max, what are you doing?' Reacting boldly in the exchange, spoken Russian drops "is" and "are" in the present, letting Vika place the two halves side by side.

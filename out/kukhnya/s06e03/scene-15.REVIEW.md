@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, guys, camera, rolling!' Nagiyev steps in openly in their talk, saying out loud what both of them already know.
-- 'Scene nine, take four, action!' Nagiyev highlights this key choice in earnest: "stsena" means "stage, scene", and it carries the main weight of what Nagiyev is saying.
-- 'Now you will meet your brother.' Barinov makes the reply for Nagiyev: the "-sya" ending on "vstretishsya" ("will meet") turns the action inward or makes it happen between people naturally.
-- 'Cut, one second, how are you holding the pistol?' Nagiyev challenges briskly whether Barinov really thought this through.
-- 'Ready, let's roll, take five!' Nagiyev centers one colorful piece in reply: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
-- 'Cut, cut!' Nagiyev lays out that answer with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'What is wrong again?' Barinov asks straight out about what Nagiyev just brought up.
-- 'Guys, we are filming a boring movie.' Nagiyev sharpens one pointed term for Barinov: "skuchnoye" means "boring, dull" (from "skuchnyy"), giving the line its exact edge.
-- 'He shot at me and hit me in the chest.' Nagiyev stands firm earnestly across the room, bringing things back to earth after the buildup.
-- 'I have seen that a thousand times in movies, it did not kill the hero.' Nagiyev speaks briskly to be clear, making his position completely clear.
-- 'Let's film it in a new, modern way.' Nagiyev underscores this vivid element right here: "sovremenno" means "in a modern way", and it carries the main weight of what Nagiyev is saying.
-- 'So, he shoots me straight in the mouth!' Nagiyev speaks earnestly without any doubt, letting the remark speak for itself.
+- 'Come on, guys, camera, rolling!' Nagiyev steps in openly in their talk, keeping the focus on what actually matters here.
+- 'Scene nine, take four, action!' Bringing up the stage around Barinov, Nagiyev uses "stsena" ("stage, scene") to carry the main weight of the thought.
+- 'Now you will meet your brother.' Reacting evenly in the exchange, the "-sya" ending on "vstretishsya" ("will meet") marks an action that unfolds mutually or turns back on the speaker.
+- 'Cut, one second, how are you holding the pistol?' Nagiyev challenges briskly before Barinov can change the subject.
+- 'Ready, let's roll, take five!' Nagiyev proceeds pointedly around Barinov and puts the weight on "gotovy" ("ready", from "gotovyy") as the exchange unfolds.
+- 'Cut, cut!' Opening up promptly with Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'What is wrong again?' Barinov asks straight out before Nagiyev can change the subject.
+- 'Guys, we are filming a boring movie.' Noting how boring things are in the exchange, Nagiyev centers the thought on "skuchnoye" ("boring, dull", from "skuchnyy") without wasting a word.
+- 'He shot at me and hit me in the chest.' Touching on the chest in this beat, Nagiyev puts the weight on "vystrelil" ("shot", from "vystrelit") as the exchange unfolds.
+- 'I have seen that a thousand times in movies, it did not kill the hero.' Nagiyev weighs in briskly without any doubt, bringing things back to earth after the buildup.
+- 'Let's film it in a new, modern way.' Nagiyev counters candidly right here and chooses "sovremenno" ("in a modern way") so Barinov gets the point right away.
+- 'So, he shoots me straight in the mouth!' Addressing the mouth to Barinov, Nagiyev reaches for the Russian word "strelyayet" ("to shoot, to fire", built from "strelyat") right at the center of the line.

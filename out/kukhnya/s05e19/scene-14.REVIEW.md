@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, and what am I supposed to do next?' Katya phrases that line toward the inspector: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Tell me, who has the next clue?' Katya checks frankly as Senya tries to explain the situation.
-- 'Migration Service, everyone stay in your places!' The inspector colors one memorable choice toward Katya: "ostavatsya" means "to stay, to remain", and it carries the main weight of what the inspector is saying.
-- 'Wow, how thoroughly you have thought everything through.' Katya aims this answer toward Senya: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Next there will be a court hearing for illegal workers.' The inspector stands firm honestly as they talk, steering the talk right where he wants it.
-- 'Are you joking right now, is this funny to you?' Katya points to one key term right here: "seychas" means "now", and it carries the main weight of what Katya is saying.
-- 'Hello, Nikita, what on earth is going on here?' Katya directs that answer with warmth: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Hello, and what am I supposed to do next?' Replying directly in the exchange, Katya puts the question word "chto" right at the start so the inspector hears the focus immediately.
+- 'Tell me, who has the next clue?' Katya checks frankly before the inspector can change the subject.
+- 'Migration Service, everyone stay in your places!' Emphasizing the migration service at once, the inspector leans on "ostavatsya" ("to stay, to remain") to give the whole sentence its punch.
+- 'Wow, how thoroughly you have thought everything through.' Katya replies decisively with a sigh, leaving no doubt about where she stands.
+- 'Next there will be a court hearing for illegal workers.' The inspector jumps in honestly with a sigh, bringing things back to earth after the buildup.
+- 'Are you joking right now, is this funny to you?' Katya fires back warmly before the inspector and centers the thought on "shutite" ("are joking", from "shutit") without wasting a word.
+- 'Hello, Nikita, what on earth is going on here?' Answering earnestly in the exchange, Katya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
 - 'What are you trying to read in that notebook?' Senya wonders openly how Katya expects that to work in practice.
-- 'Everything in there is written in French.' Senya reaches for one key term right here: "po-frantsuzski" means "in French", and it carries the main weight of what Senya is saying.
-- 'And what if this guest is a foreign spy?' Senya brings this line at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Guys, someone in the dining room ordered the chef's special!' Katya jumps in calmly across the room, steering the talk right where she wants it.
-- 'Great, let's see what our new chef will cook.' Senya chooses one concrete detail right here: "prigotovit" means "makes, cooks", and it carries the main weight of what Senya is saying.
+- 'Everything in there is written in French.' Senya steps in openly before Katya and lands on "po-frantsuzski" ("in French") as the key everyday word here.
+- 'And what if this guest is a foreign spy?' Pointing out how foreign things are to Katya, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Guys, someone in the dining room ordered the chef's special!' Katya counters calmly facing Senya, watching Senya's face to see how the news lands.
+- 'Great, let's see what our new chef will cook.' Addressing the cool before Katya, Senya chooses "prigotovit" ("makes, cooks") so Katya gets the point right away.

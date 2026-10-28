@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, did you take a liking to Gulya?' Barinov underscores this direct element with Gulya: "ponravilas" means "pleased" (from "ponravitsya"), giving the line its exact edge.
-- 'If you want to surprise her, say something.' Gulya responds plainly toward Lyova, letting the remark speak for itself.
-- 'In the Kyrgyz language.' Gulya follows up sharply with a sigh, steering the talk right where she wants it.
-- 'She will definitely like that.' Gulya picks one classic term for Lyova: "ponravitsya" means "will please", and it carries the main weight of what Gulya is saying.
-- 'Now what do you want to say to her?' Gulya makes that point beside Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'You have very beautiful eyes.' Lyova counters earnestly as things stand, saying out loud what both of them already know.
-- 'I am very glad to meet you.' Lyova uses one memorable word toward Barinov: "poznakomitsya" means "to meet", and it carries the main weight of what Lyova is saying.
-- 'Did you not see that I am standing here?' Barinov lays out the comment around Lyova: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'Excuse me, chef.' Lyova holds firm wryly before Barinov, saying out loud what both of them already know.
-- 'Why is the chef so angry today?' Lyova uses one practical piece toward Gulya: "segodnya" means "today", and it carries the main weight of what Lyova is saying.
-- 'He has been eating this celery all day.' Gulya responds promptly hearing Barinov, saying out loud what both of them already know.
-- 'Ah, well that makes sense.' Lyova answers honestly without a pause, shifting the whole mood of the room in a single beat.
+- 'Lyova, did you take a liking to Gulya?' Barinov follows up calmly before Gulya and centers the thought on "ponravilas" ("pleased", from "ponravitsya") without wasting a word.
+- 'If you want to surprise her, say something.' Gulya reacts frankly during the talk and chooses "khochesh" ("do you want", from the root "khotet") so Barinov hears the exact meaning.
+- 'In the Kyrgyz language.' Gulya opens up sharply without any doubt, letting the remark speak for itself.
+- 'She will definitely like that.' Gulya weighs in quietly in this beat and lands on "ponravitsya" ("will please") as the key everyday word here.
+- 'Now what do you want to say to her?' Leaning in firmly on the spot, Gulya puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'You have very beautiful eyes.' Lyova weighs in earnestly across the room, so Gulya knows he is not just making small talk.
+- 'I am very glad to meet you.' Lyova cuts in calmly to Barinov and leans on "poznakomitsya" ("to meet") to give the whole sentence its punch.
+- 'Did you not see that I am standing here?' Opening up smoothly with Lyova, Barinov puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'Excuse me, chef.' Lyova briskly delivers this polite apology at this moment using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Why is the chef so angry today?' Lyova reacts sharply during the talk and uses "segodnya" ("today") to carry the main weight of the thought.
+- 'He has been eating this celery all day.' Emphasizing the celery in the exchange, Gulya puts the emphasis on "selderey" ("celery") in the middle of the talk.
+- 'Ah, well that makes sense.' Lyova quietly drops this acknowledgment in the exchange using "ponyatno" ("understood") — a single word meaning "clear, got it", showing the point has landed.

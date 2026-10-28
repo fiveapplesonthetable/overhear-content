@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is your top management?' The guest presses plainly why things suddenly took this turn between them.
-- 'We are expecting her in a couple of hours.' Barinov stresses this vivid term on cue: "chasov" means "o'clock" (from "chas"), giving the line its exact edge.
-- 'This is a very delicious pizza.' The guest states this warning calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Just the way I love it.' The guest fires back wryly in their talk, making his position completely clear.
-- 'It is clear that professionals made it.' The guest centers one sharp touch in earnest: "professionaly" means "professionals" (from "professional"), giving the line its exact edge.
-- 'Well, we tried very hard.' Barinov drops the reaction beside the guest: the "-sya" ending on "staralis" ("tried") turns the action inward or makes it happen between people naturally.
-- 'At home they cook badly.' The guest speaks right away to be clear, to clear the air between them once and for all.
-- 'Tell the chef to write down the recipe.' The guest chooses this vivid element in earnest: "retsept" means "recipe", and it carries the main weight of what the guest is saying.
-- 'Vitya, everything is very delicious.' Elena shapes this point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Thank you for inviting me.' Elena continues at once during the talk, steering the talk right where she wants it.
-- 'Here you will taste French cuisine.' Barinov points to one clear choice with Elena: "frantsuzskuyu" means "French" (from "frantsuzskiy"), giving the line its exact edge.
-- 'No, thank you, I will go.' Elena shapes that reply around the guest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'No, no, nothing is wrong.' Barinov weighs in steadily with a smile, to clear the air between them once and for all.
+- 'And where is your top management?' The guest presses plainly about what Barinov just brought up.
+- 'We are expecting her in a couple of hours.' Touching on the clock before the guest, Barinov brings in "chasov" ("o'clock", from "chas") as the key Russian word here.
+- 'This is a very delicious pizza.' Insisting on how tasty things are to Barinov, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Just the way I love it.' The guest steps in wryly in their talk, bringing things back to earth after the buildup.
+- 'It is clear that professionals made it.' Highlighting the professionals to Barinov, the guest brings in "professionaly" ("professionals", from "professional") as the key Russian word here.
+- 'Well, we tried very hard.' Replying calmly in this beat, the "-sya" ending on "staralis" ("tried") marks an action that unfolds mutually or turns back on the speaker.
+- 'At home they cook badly.' The guest speaks right away around Barinov, without trying to dress up how he really feels.
+- 'Tell the chef to write down the recipe.' Addressing the recipe right here, the guest uses "retsept" ("recipe") to carry the main weight of the thought.
+- 'Vitya, everything is very delicious.' Cutting in naturally to the guest, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Thank you for inviting me.' Elena quietly chooses this word of thanks toward Barinov using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Here you will taste French cuisine.' Pointing to the kitchen in this beat, Barinov centers the thought on "frantsuzskuyu" ("French", from "frantsuzskiy") without wasting a word.
+- 'No, thank you, I will go.' Elena firmly delivers this word of thanks as they meet using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'No, no, nothing is wrong.' Barinov replies steadily with a sigh, testing Elena's reaction in the middle of the exchange.

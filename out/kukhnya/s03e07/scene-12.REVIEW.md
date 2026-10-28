@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, what kind of party do you have going on here?' Kostya challenges earnestly how Max expects that to work in practice.
-- 'What can I say to you right now, friend?' Kostya sharpens this sharp choice with Vika: "seychas" means "now", and it carries the main weight of what Kostya is saying.
-- 'Take the keys, drive Nagiyev's car away, and dump it.' Max cuts in sharply with a shrug, leaving no doubt about where he stands.
-- 'Aha, a very good idea.' Kostya jumps in plainly as things stand, watching Vika's face to see how the news lands.
-- 'Alright, keep an eye on Vika, and I will be back soon.' Max features one concrete detail in earnest: "sledi" means "watch, look after" (from "sledit"), giving the line its exact edge.
-- 'Just do not let her out anywhere before my arrival.' Max cuts in boldly around Vika, leaving no doubt about where he stands.
-- 'Where did he go right now, I will go after him.' Vika holds firm wryly before Kostya, steering the talk right where she wants it.
-- 'I do not know where he went, but it is better to wait here.' Kostya favors one direct expression for Vika: "poyekhal" means "I'm off" (from "poyekhat"), giving the line its exact edge.
-- 'But after all, Dima will simply kill him!' Vika makes that line with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'After all, you understand, he loves you very much.' Kostya steps in earnestly with a nod, shifting the whole mood of the room in a single beat.
-- 'That is why he acts like a fool.' Kostya colors one memorable element at once: "postupayet" means "acts, behaves" (from "postupat"), giving the line its exact edge.
-- 'Please, do not worry like that, everything will be fine.' Kostya offers the comment facing Vika: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I am joking, this is a pill for the stomach, one pill is enough.' Max reacts lightly in their talk, so Kostya knows he is not just making small talk.
+- 'Max, what kind of party do you have going on here?' Kostya challenges earnestly while looking straight at Max here.
+- 'What can I say to you right now, friend?' Turning to the friend beside Max, Kostya chooses "drug" ("friend") so Max gets the point right away.
+- 'Take the keys, drive Nagiyev's car away, and dump it.' Highlighting the keys to Kostya, Max brings in "klyuchi" ("the keys", from "klyuch") as the key Russian word here.
+- 'Aha, a very good idea.' Kostya jumps in plainly without any doubt, keeping the focus on what actually matters here.
+- 'Alright, keep an eye on Vika, and I will be back soon.' Max answers candidly before Kostya and brings in "sledi" ("watch, look after", from "sledit") as the key Russian word here.
+- 'Just do not let her out anywhere before my arrival.' Underscoring his arrival on the spot, Max reaches for the Russian word "prikhoda" ("arrival", built from "prikhod") right at the center of the line.
+- 'Where did he go right now, I will go after him.' Vika opens up wryly around Max, testing Max's reaction in the middle of the exchange.
+- 'I do not know where he went, but it is better to wait here.' Kostya weighs in promptly around Vika and lands on "poyekhal" ("I'm off", built on "poyekhat") to keep the statement grounded.
+- 'But after all, Dima will simply kill him!' Cutting in readily before Kostya, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'After all, you understand, he loves you very much.' Kostya counters earnestly with Vika, watching Vika's face to see how the news lands.
+- 'That is why he acts like a fool.' Emphasizing a fool at once, Kostya brings in "postupayet" ("acts, behaves", from "postupat") as the key Russian word here.
+- 'Please, do not worry like that, everything will be fine.' Kostya responds briskly before Max and leans on "perezhivayte" ("worry", a form of "perezhivat") to give the remark its edge.
+- 'I am joking, this is a pill for the stomach, one pill is enough.' Max cuts in lightly in this moment, keeping the focus on what actually matters here.

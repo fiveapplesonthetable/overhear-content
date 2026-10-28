@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maximka was playing in a casino all night.' Senya stresses this clear detail in reply: "kazino" means "casino", and it carries the main weight of what Senya is saying.
-- 'How do you know all of that?' Max shares that thought with warmth: putting the question word "otkuda" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'Because that is a well-known stage.' Senya holds firm calmly with Barinov, refusing to let the moment slip past.
-- 'Have a friend with a healthy kidney.' Senya underscores one loaded expression with Max: "zdorovoy" means "healthy, well" (from "zdorovyy"), giving the line its exact edge.
-- 'What kind of nonsense are you talking?' Max puts the reaction for Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Maximka was playing in a casino all night.' Mentioning a casino in front of Max, Senya puts the emphasis on "kazino" ("casino") in the middle of the talk.
+- 'How do you know all of that?' Reacting candidly with Senya, Max puts the question word "otkuda" right at the start so Senya hears the focus immediately.
+- 'Because that is a well-known stage.' Senya chimes in calmly during the talk, making his position completely clear.
+- 'Have a friend with a healthy kidney.' Emphasizing a friend at once, Senya brings in "zdorovoy" ("healthy, well", from "zdorovyy") as the key Russian word here.
+- 'What kind of nonsense are you talking?' Holding firm openly during the talk, Max puts the question word "chto" right at the start so Senya hears the focus immediately.
 - 'And is he still living at Lyova's place?' Max checks promptly how Senya expects that to work in practice.
-- 'Now the big housewarming stage is going to begin.' Senya favors one sharp term for Barinov: "nachnyotsya" means "will begin" (from "nachatsya"), giving the line its exact edge.
-- 'Good morning, respected Victor Petrovich.' Max replies frankly beside Senya, so Senya knows he is not just making small talk.
-- 'And why are you still in your uniform?' Barinov questions openly how Max expects that to work in practice.
-- 'Go change your clothes, we are moving my things.' Barinov colors one loaded term on cue: "pereodevaysya" means "change clothes" (from "pereodevatsya"), giving the line its exact edge.
-- 'And afterwards we will celebrate our housewarming.' Barinov answers wryly hearing Max, steering the talk right where he wants it.
-- 'Come on, pal, hang in there tight now.' Senya counters dryly around Max, keeping the focus on what actually matters here.
+- 'Now the big housewarming stage is going to begin.' Discussing the big housewarming to Max, Senya uses "novoselya" ("housewarming", from "novoselye") to make the point stick.
+- 'Good morning, respected Victor Petrovich.' Max openly sends this morning greeting at the start of the beat using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'And why are you still in your uniform?' Barinov questions openly while looking straight at Max here.
+- 'Go change your clothes, we are moving my things.' Barinov chimes in earnestly to Max and lands on "pereodevaysya" ("change clothes", built on "pereodevatsya") to keep the statement grounded.
+- 'And afterwards we will celebrate our housewarming.' Discussing his housewarming beside Senya, Barinov centers the remark on "novoselye" ("housewarming") without any extra fuss.
+- 'Come on, pal, hang in there tight now.' Senya jumps in dryly without any doubt, leaving no doubt about where he stands.

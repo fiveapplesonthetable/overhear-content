@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, is he at least alive?' Barinov delivers that reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'He is alive, I barely persuaded him.' Katya pushes back at once with a smile, shifting the whole mood of the room in a single beat.
-- 'So that he would not file a report with the police.' Katya colors this vivid detail in earnest: "politsiyu" means "the police" (from "politsiya"), giving the line its exact edge.
-- 'That is it, daughter, I will quit drinking.' Barinov continues plainly facing Vika, so Vika knows he is not just making small talk.
-- 'Do you want me to get coded for sobriety tomorrow?' Barinov quizzes promptly as Katya tries to explain the situation.
-- 'Dad, Vika keeps pestering me about my documents.' Katya stresses one sharp touch at once: "dokumentami" means "documents" (from "dokument"), giving the line its exact edge.
-- 'Tell her to leave me alone about them.' Katya steps in at once without a pause, steering the talk right where she wants it.
-- 'Yes, I will definitely tell her, forgive me once again.' Barinov steps in lightly as they talk, shifting the whole mood of the room in a single beat.
-- 'I looked over the contract with the meatpacking plant.' Vika focuses on one familiar touch right here: "myasokombinatom" means "meatpacking plant" (from "myasokombinat"), giving the line its exact edge.
-- 'They are scheming something with the deadlines there.' Vika stands firm evenly without holding back, grounding the moment in plain reality.
-- 'Oh no, Nastya has just arrived out there!' Vika pushes back briskly with a sigh, saying out loud what both of them already know.
-- 'An important visitor has come to see you.' Vika favors this vivid element in earnest: "posetitel" means "visitor", and it carries the main weight of what Vika is saying.
+- 'Tell me, is he at least alive?' Underscoring how alive things are on the spot, Barinov keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'He is alive, I barely persuaded him.' Katya follows up at once without a pause, to clear the air between them once and for all.
+- 'So that he would not file a report with the police.' Emphasizing the police before Barinov, Katya lands on "politsiyu" ("the police", built on "politsiya") to keep the statement grounded.
+- 'That is it, daughter, I will quit drinking.' Mentioning the dear before Katya, Barinov leans on "dochka" ("dear, daughter") to give the whole sentence its punch.
+- 'Do you want me to get coded for sobriety tomorrow?' Barinov quizzes promptly where this conversation is heading next.
+- 'Dad, Vika keeps pestering me about my documents.' Touching on her documents to Vika, Katya brings in "dokumentami" ("documents", from "dokument") as the key Russian word here.
+- 'Tell her to leave me alone about them.' Katya cuts in vividly before Barinov and uses "otstala" ("to fall behind", from "otstat") to make the point stick.
+- 'Yes, I will definitely tell her, forgive me once again.' Barinov steps in lightly toward Katya, keeping the focus on what actually matters here.
+- 'I looked over the contract with the meatpacking plant.' Underscoring the meatpacking plant around Barinov, Vika brings in "myasokombinatom" ("meatpacking plant", from "myasokombinat") as the key Russian word here.
+- 'They are scheming something with the deadlines there.' Bringing up the term before Barinov, Vika reaches for the Russian word "srokami" ("term, period", built from "srok") right at the center of the line.
+- 'Oh no, Nastya has just arrived out there!' Vika chimes in briskly in this moment, letting the remark speak for itself.
+- 'An important visitor has come to see you.' Talking about an important visitor before Barinov, Vika brings in "posetitel" ("visitor") to make the meaning unmistakable.

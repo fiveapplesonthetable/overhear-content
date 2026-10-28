@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, just promise you will not get upset.' Kostya hands over that line beside Nastya: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
-- 'I am not getting upset.' Nastya continues steadily in this moment, to clear the air between them once and for all.
-- 'I really wanted to help you make peace.' Kostya centers this telling choice for Nastya: "khotel" means "wanted" (from "khotet"), giving the line its exact edge.
-- 'And I broke his nose.' Nastya gives the reply at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Nastya, just promise you will not get upset.' Looking over quietly in the exchange, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'I am not getting upset.' Nastya cuts in steadily with Kostya, leaving no doubt about where she stands.
+- 'I really wanted to help you make peace.' Kostya speaks up readily beside Nastya and lands on "pomoch" ("to help") as the key everyday word here.
+- 'And I broke his nose.' Dwelling on the nose before Kostya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
 - 'Did the two of you get into a fight again?' Kostya checks curiously before Nastya can change the subject.
-- 'He barely even fought back.' Nastya spotlights this key touch in reply: "dralsya" means "to fight, to brawl" (from "dratsya"), giving the line its exact edge.
-- 'He was the one who told me to swing.' Kostya drops that line briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And you beat the man up.' Nastya opens up dryly with a smile, before Kostya can change the subject.
-- 'Well, he asked for it himself.' Kostya sharpens this key detail right here: "zakhotel" means "to want, to feel like" (from "zakhotet"), giving the line its exact edge.
-- 'Kostya, maybe you are going to beat up my mother next?' Nastya delivers the remark without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Honestly, it seems I hardly knew you at all.' Nastya speaks lightly to be clear, saying out loud what both of them already know.
-- 'Hello, Mom, what happened to Dad?' Nastya features one concrete word with Kostya: "papoy" means "dad" (from "papa"), giving the line its exact edge.
-- 'All right, I am on my way right now.' Kostya frames the remark with warmth: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'He barely even fought back.' Nastya steps in boldly on the spot and reaches for the Russian word "dralsya" ("to fight, to brawl", built from "dratsya") right at the center of the line.
+- 'He was the one who told me to swing.' Leaning in dryly beside Nastya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And you beat the man up.' Nastya answers dryly on the spot, letting the remark speak for itself.
+- 'Well, he asked for it himself.' Kostya weighs in naturally on the spot and centers the thought on "zakhotel" ("to want, to feel like", from "zakhotet") without wasting a word.
+- 'Kostya, maybe you are going to beat up my mother next?' Weighing in naturally at once, Nastya keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Honestly, it seems I hardly knew you at all.' Nastya counters lightly watching Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'Hello, Mom, what happened to Dad?' Turning to the dad before Kostya, Nastya puts the weight on "papoy" ("dad", from "papa") as the exchange unfolds.
+- 'All right, I am on my way right now.' Holding firm plainly with Nastya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

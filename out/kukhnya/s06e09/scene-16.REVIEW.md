@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This article is my beloved serious work.' Elena focuses on one practical word at once: "seryoznaya" means "serious" (from "seryoznyy"), giving the line its exact edge.
-- 'This is my new life, which I value.' Elena pushes back wryly with a nod, making her position completely clear.
-- 'Lena, please do not talk such nonsense.' Barinov holds firm plainly without a pause, shifting the whole mood of the room in a single beat.
-- 'Tell me honestly, what is my magazine even called?' Elena spotlights one clear term right here: "nazyvayetsya" means "is called" (from "nazyvatsya"), giving the line its exact edge.
-- 'You yourself know very well what it is called.' Barinov voices this point around Elena: the "-sya" ending on "nazyvayetsya" ("is called") turns the action inward or makes it happen between people naturally.
-- 'Maybe you should not get married anymore at all?' Elena questions evenly while looking straight at Lyova here.
-- 'Egoists like you do not need anyone.' Elena leans on one memorable choice on cue: "egoistam" means "to egoists" (from "egoist"), giving the line its exact edge.
-- 'Lena, forgive me, we just got carried away today.' Barinov shapes the reply calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Let us right now just go ahead and forget everything.' Barinov pushes back right away as they talk, testing Elena's reaction in the middle of the exchange.
-- 'And I cannot forget so easily.' Elena grounds this key term at once: "legko" means "easy", and it carries the main weight of what Elena is saying.
-- 'This is just some foolish misunderstanding.' Lyova phrases that line to Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Right now we will discuss everything calmly at the table.' Lyova cuts in decisively with a shrug, bringing things back to earth after the buildup.
-- 'Mom, may I have you for literally one minute?' Lyova picks one colorful touch on cue: "bukvalno" means "literally", and it carries the main weight of what Lyova is saying.
+- 'This article is my beloved serious work.' Confirming how favourite things are before Barinov, Elena chooses "seryoznaya" ("serious", from the root "seryoznyy") so Barinov hears the exact meaning.
+- 'This is my new life, which I value.' Talking about the life around Barinov, Elena brings in "novaya" ("new", from "novyy") as the key Russian word here.
+- 'Lena, please do not talk such nonsense.' Barinov opens up plainly watching Elena, refusing to let the moment slip past.
+- 'Tell me honestly, what is my magazine even called?' Talking about the log beside Barinov, Elena uses "nazyvayetsya" ("is called", from "nazyvatsya") to make the point stick.
+- 'You yourself know very well what it is called.' Holding firm warmly to Elena, the "-sya" ending on "nazyvayetsya" ("is called") marks an action that unfolds mutually or turns back on the speaker.
+- 'Maybe you should not get married anymore at all?' Elena questions evenly while looking straight at Barinov here.
+- 'Egoists like you do not need anyone.' Talking about the egoists in front of Barinov, Elena chooses "egoistam" ("to egoists", from the root "egoist") so Barinov hears the exact meaning.
+- 'Lena, forgive me, we just got carried away today.' Holding firm quietly in front of Elena, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Let us right now just go ahead and forget everything.' Barinov proceeds bluntly with Elena, testing Elena's reaction in the middle of the exchange.
+- 'And I cannot forget so easily.' Elena proceeds earnestly with Barinov and brings in "legko" ("easy") to make the meaning unmistakable.
+- 'This is just some foolish misunderstanding.' Addressing the misunderstanding in this beat, Lyova uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Right now we will discuss everything calmly at the table.' Lyova pushes back decisively without holding back, grounding the moment in plain reality.
+- 'Mom, may I have you for literally one minute?' Pointing to the minute on the spot, Lyova chooses "minutu" ("a minute", from the root "minuta") so Elena hears the exact meaning.

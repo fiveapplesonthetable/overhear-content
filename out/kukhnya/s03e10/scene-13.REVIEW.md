@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, well then, can we congratulate you?' Senya stresses one loaded detail on cue: "pozdravit" means "to congratulate", and it carries the main weight of what Senya is saying.
-- 'The two of you are simply total idiots!' Barinov voices the reaction toward Senya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Chef, I do not understand what you are talking about.' Fedya reacts dryly toward Barinov, before Barinov can change the subject.
-- 'I do not even know a word like that.' Fedya sharpens one colorful element right here: "slova" means "words" (from "slovo"), giving the line its exact edge.
-- 'But we only wanted to do what was best!' Senya reacts quietly in this moment, testing Barinov's reaction in the middle of the exchange.
-- 'Things were not going very well for you.' Senya follows up wryly without holding back, before Fedya can change the subject.
-- 'Shut your mouth, first I am going to fire you!' Barinov anchors one memorable expression for Fedya: "snachala" means "first, at first", and it carries the main weight of what Barinov is saying.
-- 'Then I will tie you up and hang you by your feet!' Barinov cuts in frankly without holding back, letting the remark speak for itself.
-- 'All day long I will be tearing something off you!' Barinov counters frankly without any doubt, before Fedya can change the subject.
-- 'Hello, yes, Dima, are you in the restaurant already?' Barinov focuses on this telling choice in earnest: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'Dinner with Vika, of course I remember.' Barinov stands firm openly before Fedya, keeping the focus on what actually matters here.
-- 'I will come over right now, yes, we will come over.' Barinov responds calmly to settle things, before Senya can change the subject.
+- 'Chef, well then, can we congratulate you?' Senya answers calmly in front of Barinov and chooses "pozdravit" ("to congratulate") so Barinov gets the point right away.
+- 'The two of you are simply total idiots!' Highlighting how real Senya is in front of Senya, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Chef, I do not understand what you are talking about.' Fedya pushes back dryly facing Barinov, steering the talk right where he wants it.
+- 'I do not even know a word like that.' Turning to the words around Senya, Fedya brings in "slova" ("words", from "slovo") as the key Russian word here.
+- 'But we only wanted to do what was best!' Senya opens up candidly around Fedya and chooses "luchshe" ("better") so Fedya gets the point right away.
+- 'Things were not going very well for you.' Senya follows up wryly in their talk, shifting the mood of the conversation in a single beat.
+- 'Shut your mouth, first I am going to fire you!' Focusing on the mouth at once, Barinov reaches for the Russian word "snachala" ("first, at first") right at the heart of the line.
+- 'Then I will tie you up and hang you by your feet!' Focusing on the legs in this beat, Barinov centers the thought on "podveshu" ("I will hang up", from "podvesit") without wasting a word.
+- 'All day long I will be tearing something off you!' Barinov steps in frankly in this moment, shifting the mood of the conversation in a single beat.
+- 'Hello, yes, Dima, are you in the restaurant already?' Turning to the restaurant in the exchange, Barinov brings in "restorane" ("restaurant", from "restoran") as the key Russian word here.
+- 'Dinner with Vika, of course I remember.' Discussing the dinner on the spot, Barinov centers the remark on "uzhin" ("dinner") without any extra fuss.
+- 'I will come over right now, yes, we will come over.' Barinov responds calmly with a nod, letting the remark speak for itself.

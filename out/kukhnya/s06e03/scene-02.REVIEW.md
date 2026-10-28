@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have a set change, Dmitry Vladimirovich.' Barinov shares that reply to Nagiyev: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Dima, wrap up this circus.' Barinov replies dryly with a shrug, bringing things back to earth after the buildup.
-- 'Vitya, well do you see what is going on?' Nagiyev colors one concrete touch in earnest: "tvoritsya" means "is going on", and it carries the main weight of what Nagiyev is saying.
-- 'Go on, you see we are elevating art.' Nagiyev phrases the thought with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And what if a critic comes?' Barinov challenges firmly where this conversation is heading next.
-- 'Nobody will come, I will post security.' Nagiyev points to one vivid expression on cue: "okhranu" means "protection" (from "okhrana"), giving the line its exact edge.
-- 'That is it, Elya gave me permission.' Nagiyev shares the thought with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Get out of here, do not get in the way.' Nagiyev opens up candidly to be clear, without trying to dress up how he really feels.
-- 'And where do you have that in the script?' Barinov highlights this key element right here: "stsenarii" means "script" (from "stsenariy"), giving the line its exact edge.
-- 'That is me improvising.' Nagiyev lays out that point facing Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Go on, mind your own business.' Nagiyev continues candidly without any doubt, watching Barinov's face to see how the news lands.
-- 'Guys, let's focus!' Nagiyev colors one vivid piece at once: "soberemsya" means "let us focus" (from "sobratsya"), giving the line its exact edge.
+- 'We have a set change, Dmitry Vladimirovich.' Addressing the reset in front of Nagiyev, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Dima, wrap up this circus.' Barinov counters dryly without a pause, refusing to let the moment slip past.
+- 'Vitya, well do you see what is going on?' Nagiyev pushes back earnestly during the talk and puts the emphasis on "tvoritsya" ("is going on") in the middle of the talk.
+- 'Go on, you see we are elevating art.' Addressing the art with Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And what if a critic comes?' Barinov challenges firmly before Nagiyev can change the subject.
+- 'Nobody will come, I will post security.' Emphasizing the protection around Barinov, Nagiyev uses "okhranu" ("protection", from "okhrana") to make the point stick.
+- 'That is it, Elya gave me permission.' Following up boldly before Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Get out of here, do not get in the way.' Nagiyev answers candidly with a sigh, testing Barinov's reaction in the middle of the exchange.
+- 'And where do you have that in the script?' Bringing up the script around Nagiyev, Barinov leans on "stsenarii" ("script", a form of "stsenariy") to give the remark its edge.
+- 'That is me improvising.' Reacting briskly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Go on, mind your own business.' Nagiyev answers candidly across the room, watching Barinov's face to see how the news lands.
+- 'Guys, let's focus!' Pointing to the boys around Barinov, Nagiyev reaches for the Russian word "rebyata" ("the boys, the lads") right at the heart of the line.

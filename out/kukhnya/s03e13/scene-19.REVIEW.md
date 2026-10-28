@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, think about it, the largest Russian chain is offering good money.' Kristina frames one pointed element in earnest: "krupneyshaya" means "largest" (from "krupneyshiy"), giving the line its exact edge.
-- 'Sell the restaurant and do not think twice.' Kristina opens up dryly watching Vika, without trying to dress up how she really feels.
-- 'How can I sell it, the restaurant is a hobby.' Nagiyev replies at once without a pause, steering the talk right where he wants it.
-- 'And money is just paper.' Nagiyev colors this direct term at once: "bumaga" means "paper", and it carries the main weight of what Nagiyev is saying.
-- 'Besides, you watch television, after all.' Nagiyev stresses one practical expression at once: "televizor" means "television", and it carries the main weight of what Nagiyev is saying.
-- 'They interrupt a movie with me for a commercial.' Nagiyev holds firm calmly to be clear, to clear the air between them once and for all.
-- 'I will quickly load the video right now.' Nagiyev points to one loaded detail toward Kristina: "zagruzhu" means "to load" (from "zagruzit"), giving the line its exact edge.
-- 'The internet here simply flies!' Nagiyev aims this answer beside Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And here is the manager of my hobby.' Nagiyev weighs in bluntly without holding back, saying out loud what both of them already know.
-- 'You can tell right away the person loves coming to work.' Nagiyev leans on one practical touch in reply: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
-- 'Vika, what is this paper?' Nagiyev brings that reply on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'This is my notice, I am resigning.' Vika reacts evenly hearing Nagiyev, so Nagiyev knows she is not just making small talk.
+- 'Dima, think about it, the largest Russian chain is offering good money.' Showing how largest things are in the exchange, Kristina uses "krupneyshaya" ("largest", from "krupneyshiy") to make the point stick.
+- 'Sell the restaurant and do not think twice.' Emphasizing the restaurant with Nagiyev, Kristina uses "restoran" ("restaurant") to carry the main weight of the thought.
+- 'How can I sell it, the restaurant is a hobby.' Nagiyev fires back at once with a sigh, grounding the moment in plain reality.
+- 'And money is just paper.' Focusing on the paper right here, Nagiyev centers the remark on "bumaga" ("paper") without any extra fuss.
+- 'Besides, you watch television, after all.' Nagiyev steps in steadily with a nod, steering the talk right where he wants it.
+- 'They interrupt a movie with me for a commercial.' Nagiyev reacts calmly with a nod, watching Kristina's face to see how the news lands.
+- 'I will quickly load the video right now.' Emphasizing the video at once, Nagiyev centers the thought on "zagruzhu" ("to load", from "zagruzit") without wasting a word.
+- 'The internet here simply flies!' Focusing on the internet during the talk, Nagiyev uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And here is the manager of my hobby.' Nagiyev steps in bluntly hearing Vika, testing Vika's reaction in the middle of the exchange.
+- 'You can tell right away the person loves coming to work.' Discussing the job right here, Nagiyev uses "rabotu" ("job", from "rabota") to make the point stick.
+- 'Vika, what is this paper?' Pointing to the paper in this beat, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'This is my notice, I am resigning.' Vika opens up evenly around Nagiyev, testing Nagiyev's reaction in the middle of the exchange.

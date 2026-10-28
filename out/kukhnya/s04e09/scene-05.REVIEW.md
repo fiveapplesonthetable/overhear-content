@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktoriya Sergeyevna.' Kostya frames that thought before German: opening with the casual greeting "privet" ("hi") signals right away that Kostya and German are on familiar terms.
-- 'What happened?' Vika checks curiously whether Kostya really thought this through.
-- 'Viktoriya, we were robbed.' German sharpens one vivid detail at once: "obokrali" means "to robbed" (from "obokrat"), giving the line its exact edge.
-- 'They stole a sauté pan.' German brings the comeback right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'And is that all?' Vika probes briskly to see how German will answer on the spot.
-- 'You called me in over a saucepan?' Vika focuses on one telling word in earnest: "kastryuli" means "pot, saucepan" (from "kastryulya"), giving the line its exact edge.
-- 'I called you in for a reason.' German puts this point without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Your Barinov stole the sauté pan.' German weighs in warmly watching Vika, without trying to dress up how he really feels.
-- 'We must stop him right now.' German frames this vivid touch in earnest: "ostanovit" means "to stop", and it carries the main weight of what German is saying.
-- 'Otherwise tomorrow he will carry out the stove.' German cuts in steadily in this moment, leaving no doubt about where he stands.
-- 'German, it is just a saucepan.' Vika pushes back firmly without any doubt, steering the talk right where she wants it.
-- 'I might as well have called the police too.' Vika colors this direct expression in earnest: "politsiyu" means "the police" (from "politsiya"), giving the line its exact edge.
+- 'Hello, Viktoriya Sergeyevna.' Kostya simply drops this casual greeting right on cue using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'What happened?' Vika weighs in pointedly in this moment, leaving no doubt about where she stands.
+- 'Viktoriya, we were robbed.' German jumps in vividly around Vika and leans on "obokrali" ("to robbed", a form of "obokrat") to give the remark its edge.
+- 'They stole a sauté pan.' Pointing to the pan at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'And is that all?' Vika probes briskly while looking straight at German here.
+- 'You called me in over a saucepan?' Highlighting the pot to German, Vika leans on "kastryuli" ("pot, saucepan", a form of "kastryulya") to give the remark its edge.
+- 'I called you in for a reason.' Opening up earnestly during the talk, German uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Your Barinov stole the sauté pan.' German weighs in warmly facing Vika, to clear the air between them once and for all.
+- 'We must stop him right now.' German answers boldly before Vika and centers the remark on "ostanovit" ("to stop") without any extra fuss.
+- 'Otherwise tomorrow he will carry out the stove.' Highlighting the stove on the spot, German centers the thought on "plitu" ("stove", from "plita") without wasting a word.
+- 'German, it is just a saucepan.' Vika follows up firmly with a sigh, testing German's reaction in the middle of the exchange.
+- 'I might as well have called the police too.' Emphasizing the police right here, Vika uses "politsiyu" ("the police", from "politsiya") to make the point stick.

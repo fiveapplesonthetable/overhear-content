@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say that thoughts are material.' Max frames one memorable element right here: "materialny" means "material, tangible" (from "materialnyy"), giving the line its exact edge.
-- 'If you think about something constantly, it will definitely happen.' Max reacts openly hearing Vika, before Vika can change the subject.
+- 'They say that thoughts are material.' Stressing how material things are at once, Max puts the weight on "materialny" ("material, tangible", from "materialnyy") as the exchange unfolds.
+- 'If you think about something constantly, it will definitely happen.' Max answers firmly on the spot and chooses "obyazatelno" ("surely, without fail") so Vika gets the point right away.
 - 'Hello, Vika?' Max questions openly before Vika can change the subject.
-- 'Hello, Max.' Vika brings the reply for Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Yes, did something happen?' Max offers that remark beside Vika: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'Well, do not stay silent.' Max chimes in honestly beside Vika, keeping the focus on what actually matters here.
-- 'Can you bring me something?' Vika uses one colorful choice in reply: "privezti" means "to bring", and it carries the main weight of what Vika is saying.
-- 'Yes, of course!' Max hands over the comment before Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'What is it, medicine?' Max inquires calmly about what Vika just brought up.
-- 'Canned stewed meat.' Vika colors one concrete touch in reply: "tushyonku" means "canned stewed meat" (from "tushyonka"), giving the line its exact edge.
-- 'What?' Max directs the comment with warmth: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Bring me canned stewed meat, please.' Vika fires back calmly during the talk, bringing things back to earth after the buildup.
+- 'Hello, Max.' Replying calmly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Yes, did something happen?' Reacting calmly in this beat, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'Well, do not stay silent.' Max opens up honestly in this moment, refusing to let the moment slip past.
+- 'Can you bring me something?' Vika jumps in firmly on the spot and chooses "privezti" ("to bring") so Max gets the point right away.
+- 'Yes, of course!' Max naturally chooses this confirmation right on cue using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'What is it, medicine?' Max inquires calmly where this conversation is heading next.
+- 'Canned stewed meat.' Pointing to the meat during the talk, Vika leans on "tushyonku" ("canned stewed meat", a form of "tushyonka") to give the remark its edge.
+- 'What?' Turning plainly right here, Max puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'Bring me canned stewed meat, please.' Vika plainly sends this courtesy word right on cue using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".

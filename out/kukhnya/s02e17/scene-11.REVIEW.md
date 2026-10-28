@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was just thinking about it.' Max delivers that point with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'You are pal, Kostya, and you get along great with Sasha.' Max cuts in right away before Sasha, keeping the focus on what actually matters here.
-- 'Why should we quarrel, it is silly, right?' Sasha grounds one telling touch for Kostya: "ssoritsya" means "to quarrel", and it carries the main weight of what Sasha is saying.
-- 'What could we possibly have to fight over?' Max drops that remark without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Sasha purely through rising pitch at the end.
-- 'Hey Max, pass the salt.' Kostya counters sharply with a nod, so Max knows he is not just making small talk.
-- 'Why not, I do not mind at all.' Sasha lays out that thought with ease: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Kostyan, how are you holding up?' Max sends the remark beside Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Kostyan, hey, Kostya.' Sasha answers openly with a sigh, grounding the moment in plain reality.
-- 'Yes, yes, of course.' Sasha delivers that line for Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Let us celebrate together.' Max aims the comeback to Sasha: the word "davayte" is the polite or group version of "let's", inviting Sasha into the plan right away.
-- 'The winter moon is sparkling.' Kostya follows up quietly without holding back, leaving no doubt about where he stands.
-- 'Why, you are simply a champion!' Sasha frames one colorful element right here: "molodets" means "well done, good boy", and it carries the main weight of what Sasha is saying.
-- 'Beyond all praise.' Max aims this line for Kostya: the "-sya" ending on "brakovatsya" ("to be rejected as defective") turns the action inward or makes it happen between people naturally.
+- 'I was just thinking about it.' Holding firm calmly in front of Sasha, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'You are pal, Kostya, and you get along great with Sasha.' Max continues right away with a nod, before Kostya can change the subject.
+- 'Why should we quarrel, it is silly, right?' Sasha speaks quietly in front of Max and leans on "ssoritsya" ("to quarrel") to give the whole sentence its punch.
+- 'What could we possibly have to fight over?' Holding firm dryly with Kostya, Max keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Hey Max, pass the salt.' Kostya counters sharply without any doubt, testing Max's reaction in the middle of the exchange.
+- 'Why not, I do not mind at all.' Cutting in promptly to Max, Sasha puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Kostyan, how are you holding up?' Pushing back frankly right here, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Kostyan, hey, Kostya.' Sasha pushes back openly across the room, shifting the mood of the conversation in a single beat.
+- 'Yes, yes, of course.' Holding firm directly in front of Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Let us celebrate together.' Speaking directly right here, Max uses the polite or group form "davayte" ("let's") to bring Sasha into the plan.
+- 'The winter moon is sparkling.' Kostya responds quietly with a nod, before Max can change the subject.
+- 'Why, you are simply a champion!' Sasha jumps in promptly around Kostya and centers the remark on "molodets" ("well done, good boy") without any extra fuss.
+- 'Beyond all praise.' Reacting readily to Sasha, the "-sya" ending on "brakovatsya" ("to be rejected as defective") marks an action that unfolds mutually or turns back on the speaker.

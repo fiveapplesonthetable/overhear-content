@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No work whatsoever, do you understand?' Barinov shapes that reply frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Yes, yes, no work at all.' Vika jumps in calmly to be clear, refusing to let the moment slip past.
-- 'Do you understand? Yes?' Barinov leans on this sharp detail in reply: "ponyali" means "did you understand" (from "ponyat"), giving the line its exact edge.
-- 'I should drop by your restaurant sometime to take a look.' Vika shares this line toward Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Where are you rushing off to like that?' Barinov inquires frankly while looking straight at Vika here.
-- 'If you also stop by to have a meal.' Vika spotlights one key piece in reply: "zakhodite" means "come in" (from "zakhodit"), giving the line its exact edge.
-- 'Viktor Petrovich.' Vika brings that reply before Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Your plane leaves in four hours.' Vika fires back decisively as they talk, testing Barinov's reaction in the middle of the exchange.
-- 'Well, why are you reacting like that.' Barinov grounds one vivid touch for Vika: "reagiruyete" means "to react, respond" (from "reagirovat"), giving the line its exact edge.
-- 'Wait, right now?' Vika phrases the reply around Barinov: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'No work whatsoever, do you understand?' Opening up dryly in front of Vika, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Yes, yes, no work at all.' Vika weighs in calmly with a shrug, refusing to let the moment slip past.
+- 'Do you understand? Yes?' Barinov steps in promptly beside Vika and lands on "ponyali" ("did you understand", built on "ponyat") to keep the statement grounded.
+- 'I should drop by your restaurant sometime to take a look.' Addressing the restaurant with Barinov, Vika leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Where are you rushing off to like that?' Barinov inquires frankly how Vika expects that to work in practice.
+- 'If you also stop by to have a meal.' Vika speaks up plainly during the talk and chooses "zakhodite" ("come in", from the root "zakhodit") so Barinov hears the exact meaning.
+- 'Viktor Petrovich.' Speaking calmly in front of Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Your plane leaves in four hours.' Vika weighs in decisively in this moment, letting the remark speak for itself.
+- 'Well, why are you reacting like that.' Barinov steps in sharply on the spot and chooses "reagiruyete" ("to react, respond", from the root "reagirovat") so Vika hears the exact meaning.
+- 'Wait, right now?' Answering promptly with Barinov, Vika puts the question word "chto" right at the start so Barinov hears the focus immediately.
 - 'Right this minute? Well?' Barinov checks evenly where this conversation is heading next.
-- 'Well, no.' Vika gives this point briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I am ready.' Barinov puts this line calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, no.' Vika politely gives this direct affirmation in front of Barinov using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'I am ready.' Confirming how ready he is to Vika, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.

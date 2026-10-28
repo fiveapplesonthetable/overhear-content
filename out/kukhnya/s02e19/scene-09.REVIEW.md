@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And so strong, too.' Max speaks up sharply with a shrug, leaving no doubt about where he stands.
-- 'It is time for me to go.' Barinov leans on this telling element toward Vika: "pora" means "it's time", and it carries the main weight of what Barinov is saying.
-- 'What is the matter with you?' Vika drops this answer facing Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I do not even know how to tell you this.' Max holds firm right away facing Vika, bringing things back to earth after the buildup.
-- 'In short, that older lady is hitting on me.' Barinov anchors one memorable touch right here: "starushka" means "old lady", and it carries the main weight of what Barinov is saying.
-- 'Max, do not talk like that about Viktoriya Sergeyevna.' Vika weighs in boldly to settle things, making her position completely clear.
-- 'No, I mean that guest.' Max speaks lightly beside Barinov, leaving no doubt about where he stands.
-- 'Just do not turn her down too harshly.' Barinov highlights one loaded choice at once: "tolko" means "only", and it carries the main weight of what Barinov is saying.
-- 'Oh come on, what are you waiting for?' Vika gives the reaction plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'You have to try everything while you can.' Max opens up earnestly with a sigh, so Vika knows he is not just making small talk.
-- 'Go on, get out there and make your move.' Barinov highlights one practical word for Max: "deystvuy" means "act, take action" (from "deystvovat"), giving the line its exact edge.
-- 'Thanks, pal, that is exactly what I will do.' Vika voices the comment briskly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'This was left for you.' Max follows up frankly toward Barinov, saying out loud what both of them already know.
+- 'And so strong, too.' Max counters sharply without any doubt, making his position completely clear.
+- 'It is time for me to go.' Barinov opens up smoothly in the exchange and leans on "pora" ("it's time") to give the whole sentence its punch.
+- 'What is the matter with you?' Speaking earnestly in the exchange, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I do not even know how to tell you this.' Max opens up right away with a sigh, so Vika knows he is not just making small talk.
+- 'In short, that older lady is hitting on me.' Emphasizing the old lady at once, Barinov puts the emphasis on "starushka" ("old lady") in the middle of the talk.
+- 'Max, do not talk like that about Viktoriya Sergeyevna.' Vika weighs in plainly to Barinov and puts the weight on "govori" ("say, talk", from "govorit") as the exchange unfolds.
+- 'No, I mean that guest.' Max fires back lightly without holding back, so Vika knows he is not just making small talk.
+- 'Just do not turn her down too harshly.' Barinov replies pointedly at once and reaches for the Russian word "rezko" ("sharply, abruptly") right at the heart of the line.
+- 'Oh come on, what are you waiting for?' Vika openly voices this word of agreement toward Max using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'You have to try everything while you can.' Max pushes back earnestly around Vika, before Vika can change the subject.
+- 'Go on, get out there and make your move.' Barinov quietly gives this word of agreement as they meet using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Thanks, pal, that is exactly what I will do.' Vika naturally chooses this word of thanks without hesitation using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'This was left for you.' Max opens up frankly without a pause, grounding the moment in plain reality.

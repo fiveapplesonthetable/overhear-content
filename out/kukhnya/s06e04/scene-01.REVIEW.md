@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you everyone, the session is over.' Eleonora emphasizes this clear term on cue: "spasibo" means "thank you", and it carries the main weight of what Eleonora is saying.
-- 'Are we going to go through this every morning now?' Barinov hands over this warning without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Louis purely through rising pitch at the end.
-- 'Studies showed that the day should start with classical music.' Eleonora fires back bluntly without any doubt, grounding the moment in plain reality.
-- 'Then labor productivity increases.' Eleonora centers this sharp piece right here: "proizvoditelnost" means "productivity", and it carries the main weight of what Eleonora is saying.
-- 'I simply did not understand the idea right away.' Barinov voices that remark beside Eleonora: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'And it made me want my mom to hug me.' Louis answers at once beside Eleonora, leaving no doubt about where he stands.
-- 'Thank you everyone, let's get to work.' Eleonora picks this sharp detail at once: "spasibo" means "thank you", and it carries the main weight of what Eleonora is saying.
-- 'Eleonora Andreyevna, my father wrote to me.' Louis continues openly around Eleonora, to clear the air between them once and for all.
-- 'There was an inspector at their restaurant.' Louis holds firm promptly with a shrug, so Barinov knows he is not just making small talk.
-- 'If he is in Moscow, then he will stop by our place too.' Louis focuses on one sharp touch on cue: "zaydet" means "will stop by" (from "zayti"), giving the line its exact edge.
-- 'This is our chance to get a star!' Barinov steps in firmly without holding back, to clear the air between them once and for all.
-- 'Be ready today!' Eleonora responds decisively in their talk, refusing to let the moment slip past.
+- 'Thank you everyone, the session is over.' Eleonora gently voices this word of thanks beside Barinov using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Are we going to go through this every morning now?' Touching on the morning beside Eleonora, Barinov keeps normal statement word order here, turning the line into a question for Eleonora purely through rising pitch.
+- 'Studies showed that the day should start with classical music.' Eleonora steps in bluntly around Barinov, without trying to dress up how she really feels.
+- 'Then labor productivity increases.' Underscoring the productivity in this beat, Eleonora centers the remark on "proizvoditelnost" ("productivity") without any extra fuss.
+- 'I simply did not understand the idea right away.' Touching on the idea with Eleonora, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'And it made me want my mom to hug me.' Louis continues at once in this moment, keeping the focus on what actually matters here.
+- 'Thank you everyone, let's get to work.' Eleonora briskly shares this word of thanks while facing Louis using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Eleonora Andreyevna, my father wrote to me.' Addressing his father right here, Louis leans on "otets" ("father") to give the whole sentence its punch.
+- 'There was an inspector at their restaurant.' Louis chimes in promptly during the talk, keeping the focus on what actually matters here.
+- 'If he is in Moscow, then he will stop by our place too.' Louis reacts firmly at once and brings in "zaydet" ("will stop by", from "zayti") as the key Russian word here.
+- 'This is our chance to get a star!' Underscoring a star in front of Louis, Barinov brings in "zvezdu" ("star", from "zvezda") as the key Russian word here.
+- 'Be ready today!' Eleonora pushes back decisively with a nod, leaving no doubt about where she stands.

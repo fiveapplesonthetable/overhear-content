@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a dangerous moment, there is going to be a shot right now!' Barinov sharpens one telling detail with Elena: "opasnyy" means "dangerous", and it carries the main weight of what Barinov is saying.
-- 'Yes, Lena, I already took some good medicine.' Barinov opens up honestly across the room, to clear the air between them once and for all.
-- 'My leg is a bit better already, but it still hurts a lot.' Barinov follows up decisively as they talk, shifting the whole mood of the room in a single beat.
-- 'I see that you are already considerably better.' Elena underscores one colorful element in earnest: "znachitelno" means "considerably", and it carries the main weight of what Elena is saying.
-- 'Lena, well forgive me, I was walking and here was our football.' Barinov sends this line for Elena: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'Our team has a chance to snatch victory!' Barinov counters calmly without holding back, refusing to let the moment slip past.
-- 'And you have fewer and fewer chances left.' Elena features one direct piece with Barinov: "ostayotsya" means "stays" (from "ostavatsya"), giving the line its exact edge.
-- 'Lena, what are you doing, this is a decisive penalty kick!' Barinov favors one direct element in reply: "reshayushchiy" means "decisive", and it carries the main weight of what Barinov is saying.
-- 'I envy your football, for my sake can you lie and pretend like that?' Elena checks skeptically in front of Barinov without any preamble.
-- 'I am doing everything for your sake today!' Barinov frames one familiar element in reply: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
-- 'I am putting up with these clothes, this golf, and your friends!' Barinov reacts promptly before Elena, leaving no doubt about where he stands.
-- 'And in general, to be honest, I do not like horses!' Barinov counters frankly watching Elena, to clear the air between them once and for all.
+- 'What a dangerous moment, there is going to be a shot right now!' Noting how dangerous things are in front of Elena, Barinov puts the emphasis on "opasnyy" ("dangerous") in the middle of the talk.
+- 'Yes, Lena, I already took some good medicine.' Focusing on the medicine right here, Barinov uses "khorosheye" ("lovely, good", from "khoroshiy") to make the point stick.
+- 'My leg is a bit better already, but it still hurts a lot.' Barinov cuts in decisively with a nod, letting the remark speak for itself.
+- 'I see that you are already considerably better.' Elena follows up dryly with Barinov and leans on "znachitelno" ("considerably") to give the whole sentence its punch.
+- 'Lena, well forgive me, I was walking and here was our football.' Bringing up his football right here, Barinov uses "futbol" ("football") to carry the main weight of the thought.
+- 'Our team has a chance to snatch victory!' Barinov fires back calmly on the spot, before Elena can change the subject.
+- 'And you have fewer and fewer chances left.' Turning to the chances around Barinov, Elena leans on "shansov" ("chances", a form of "shans") to give the remark its edge.
+- 'Lena, what are you doing, this is a decisive penalty kick!' Barinov counters candidly with a nod, testing Elena's reaction in the middle of the exchange.
+- 'I envy your football, for my sake can you lie and pretend like that?' Elena checks skeptically how Barinov expects that to work in practice.
+- 'I am doing everything for your sake today!' Barinov fires back frankly on the spot and brings in "voobshche" ("at all") to make the meaning unmistakable.
+- 'I am putting up with these clothes, this golf, and your friends!' Highlighting the clothes to Elena, Barinov reaches for the Russian word "odezhdu" ("clothes", built from "odezhda") right at the center of the line.
+- 'And in general, to be honest, I do not like horses!' Barinov speaks frankly without a pause, keeping the focus on what actually matters here.

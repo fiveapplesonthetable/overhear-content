@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not open this door right now.' Fedya speaks up right away to be clear, saying out loud what both of them already know.
-- 'They will prosecute all of us for this.' Fedya holds firm honestly without any doubt, to clear the air between them once and for all.
-- 'And I cannot go to prison.' Fedya centers one memorable choice in reply: "tyurmu" means "prison" (from "tyurma"), giving the line its exact edge.
-- 'Open up, he will freeze in there.' Barinov pushes back openly as they talk, making his position completely clear.
-- 'Hello, did my husband stop by here?' The guest asks quietly if there is more going on behind the scenes.
-- 'He wanted to speak with the chef.' The guest uses this key choice with Fedya: "pogovorit" means "to talk", and it carries the main weight of what the guest is saying.
-- 'No, he did not come in here.' Barinov pushes back earnestly around Fedya, without trying to dress up how he really feels.
-- 'Chef, what if she panics?' Fedya probes openly why things suddenly took this turn between them.
-- 'She will call the police right away.' Fedya sharpens one classic expression on cue: "politsiyu" means "the police" (from "politsiya"), giving the line its exact edge.
-- 'We need to quietly keep an eye on her.' Barinov shares that thought plainly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Fedya, his wife is your responsibility.' Barinov answers calmly toward Fedya, so Fedya knows he is not just making small talk.
-- 'And we will try to reach an agreement with him.' Barinov picks one telling detail toward the guest: "dogovoritsya" means "to reach an agreement", and it carries the main weight of what Barinov is saying.
+- 'Do not open this door right now.' Pointing to the door at once, Fedya chooses "otkryvayte" ("open", from the root "otkryvat") so Barinov hears the exact meaning.
+- 'They will prosecute all of us for this.' Fedya chimes in honestly with Barinov, grounding the moment in plain reality.
+- 'And I cannot go to prison.' Turning to the prison at once, Fedya chooses "tyurmu" ("prison", from the root "tyurma") so Barinov hears the exact meaning.
+- 'Open up, he will freeze in there.' Barinov fires back openly before Fedya and uses "otkryvayte" ("open", from "otkryvat") to make the point stick.
+- 'Hello, did my husband stop by here?' The guest calmly sends this formal greeting with Barinov using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'He wanted to speak with the chef.' The guest follows up boldly around Barinov and brings in "pogovorit" ("to talk") to make the meaning unmistakable.
+- 'No, he did not come in here.' Barinov cuts in promptly during the talk and reaches for the Russian word "zakhodil" ("went in", built from "zakhodit") right at the center of the line.
+- 'Chef, what if she panics?' Fedya probes openly where this conversation is heading next.
+- 'She will call the police right away.' Turning to the police beside Barinov, Fedya uses "politsiyu" ("the police", from "politsiya") to make the point stick.
+- 'We need to quietly keep an eye on her.' Following up plainly on the spot, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Fedya, his wife is your responsibility.' Barinov follows up calmly with a nod, watching Fedya's face to see how the news lands.
+- 'And we will try to reach an agreement with him.' Barinov chimes in naturally at once and uses "dogovoritsya" ("to reach an agreement") to carry the main weight of the thought.

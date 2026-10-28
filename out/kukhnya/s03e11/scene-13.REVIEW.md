@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, but this simply cannot be!' Max anchors one key detail in earnest: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'The test always shows a very accurate result.' Barinov pushes back sharply with Nagiyev, steering the talk right where he wants it.
-- 'Lyova, I am telling you, there was nothing between us!' Max answers promptly without holding back, grounding the moment in plain reality.
-- 'That is it, Max, now you have lost your money.' Barinov anchors one pointed detail in earnest: "poteryal" means "lost" (from "poteryat"), giving the line its exact edge.
-- 'Chef, this is definitely not my child!' Max shares that thought before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Do whatever you want with me, Chef.' Max reacts firmly with Nagiyev, refusing to let the moment slip past.
-- 'But I will not marry her!' Max leans on one familiar touch for Barinov: "zhenitsya" means "to marry", and it carries the main weight of what Max is saying.
-- 'You will do everything that I say!' Barinov colors one sharp expression for Nagiyev: "skazhu" means "I'll tell" (from "skazat"), giving the line its exact edge.
-- 'Alright, friends, what is going on here right now?' Nagiyev quizzes briskly why things suddenly took this turn between them.
-- 'Why are you shouting across the whole restaurant?' Nagiyev frames one familiar piece with Max: "restoran" means "restaurant", and it carries the main weight of what Nagiyev is saying.
-- 'Tonight a serious conversation awaits the two of us.' Nagiyev weighs in quietly to settle things, so Barinov knows he is not just making small talk.
-- 'Dima, believe me, I am completely fine.' Barinov jumps in promptly toward Nagiyev, keeping the focus on what actually matters here.
-- 'I decide for myself whether you are fine or not.' Nagiyev frames this telling expression in reply: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Go home, Vitya, until tonight!' Nagiyev holds firm sharply facing Max, keeping the focus on what actually matters here.
+- 'Wait, but this simply cannot be!' Max chimes in promptly right here and lands on "podozhdi" ("wait", built on "podozhdat") to keep the statement grounded.
+- 'The test always shows a very accurate result.' Highlighting the test in the exchange, Barinov chooses "pokazyvayet" ("shows", from the root "pokazyvat") so Max hears the exact meaning.
+- 'Lyova, I am telling you, there was nothing between us!' Max follows up promptly without holding back, testing Barinov's reaction in the middle of the exchange.
+- 'That is it, Max, now you have lost your money.' Emphasizing the money in the exchange, Barinov puts the weight on "poteryal" ("lost", from "poteryat") as the exchange unfolds.
+- 'Chef, this is definitely not my child!' Discussing his child around Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Do whatever you want with me, Chef.' Max continues firmly facing Barinov, making his position completely clear.
+- 'But I will not marry her!' Max jumps in pointedly on the spot and brings in "zhenitsya" ("to marry") to make the meaning unmistakable.
+- 'You will do everything that I say!' Barinov responds dryly with Max, before Max can change the subject.
+- 'Alright, friends, what is going on here right now?' Nagiyev quizzes briskly whether Barinov really thought this through.
+- 'Why are you shouting across the whole restaurant?' Mentioning the whole restaurant on the spot, Nagiyev centers the remark on "restoran" ("restaurant") without any extra fuss.
+- 'Tonight a serious conversation awaits the two of us.' Talking about a serious conversation with Barinov, Nagiyev reaches for the Russian word "seryoznyy" ("important, serious") right at the heart of the line.
+- 'Dima, believe me, I am completely fine.' Barinov speaks up promptly without any doubt, before Nagiyev can change the subject.
+- 'I decide for myself whether you are fine or not.' Touching on the order in the exchange, Nagiyev chooses "poryadke" ("order", from the root "poryadok") so Barinov hears the exact meaning.
+- 'Go home, Vitya, until tonight!' Highlighting the evening right here, Nagiyev uses "vechera" ("evening", from "vecher") to make the point stick.

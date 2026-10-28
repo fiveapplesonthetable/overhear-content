@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, we are short-handed here.' Lyova sharpens this sharp piece in earnest: "khvatayet" means "grabs" (from "khvatat"), giving the line its exact edge.
-- 'I sent you to do the vegetable prep.' Lyova reaches for this clear expression at once: "zagotovku" means "preparation" (from "zagotovka"), giving the line its exact edge.
-- 'Sorry, I was just taking Vika to the emergency clinic.' Max reacts lightly without a pause, testing Denis's reaction in the middle of the exchange.
-- 'So, what are you planning to do now?' Max uses this sharp touch toward Lyova: "sobirayeshsya" means "plan" (from "sobiratsya"), giving the line its exact edge.
-- 'I will get a job somewhere.' Denis sends this line right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Well, I will even go work at a construction site.' Denis reacts firmly with a shrug, letting the remark speak for itself.
-- 'What a day this turned out to be.' Denis anchors one sharp word for Lyova: "denyok" means "day, little day", and it carries the main weight of what Denis is saying.
-- 'You do not need to go to a construction site.' Max puts this answer in earnest: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'You will work right here. As a cook.' Max weighs in quietly without a pause, without trying to dress up how he really feels.
-- 'Max, what do you mean, I don't know how to cook.' Denis uses this direct expression in earnest: "gotovit" means "to cook", and it carries the main weight of what Denis is saying.
-- 'You will not need to cook.' Max offers this point with warmth: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Come on, let's go.' Max proceeds warmly to settle things, saying out loud what both of them already know.
+- 'Lavrov, we are short-handed here.' Highlighting the arms beside Max, Lyova uses "khvatayet" ("grabs", from "khvatat") to make the point stick.
+- 'I sent you to do the vegetable prep.' Lyova reacts dryly around Max, making his position completely clear.
+- 'Sorry, I was just taking Vika to the emergency clinic.' Max opens up lightly with a smile, steering the talk right where he wants it.
+- 'So, what are you planning to do now?' Max opens up firmly in the exchange and lands on "sobirayeshsya" ("plan", built on "sobiratsya") to keep the statement grounded.
+- 'I will get a job somewhere.' Stepping in dryly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Well, I will even go work at a construction site.' Denis opens up firmly with a shrug, testing Max's reaction in the middle of the exchange.
+- 'What a day this turned out to be.' Focusing on a day to Max, Denis reaches for the Russian word "denyok" ("day, little day") right at the heart of the line.
+- 'You do not need to go to a construction site.' Turning to a construction site at once, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'You will work right here. As a cook.' Max speaks quietly facing Denis, bringing things back to earth after the buildup.
+- 'Max, what do you mean, I don't know how to cook.' Denis opens up briskly before Max and lands on "gotovit" ("to cook") as the key everyday word here.
+- 'You will not need to cook.' Following up briskly on the spot, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Come on, let's go.' Max counters warmly hearing Denis, shifting the mood of the conversation in a single beat.

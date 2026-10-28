@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened, Vitya?' Mikhail inquires point-blank while looking straight at Barinov here.
-- 'The prefect did not eat his fill.' Barinov picks one direct element in earnest: "prefekt" means "district prefect", and it carries the main weight of what Barinov is saying.
-- 'Misha, forgive me for not saying anything to Eleonora back then.' Barinov makes this line right away: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'Understand, for her it is important.' Barinov proceeds at once hearing Mikhail, to clear the air between them once and for all.
-- 'No problem at all, Vitya.' Mikhail underscores one concrete piece right here: "problem" means "problems" (from "problema"), giving the line its exact edge.
-- 'To the new menu and to the star!' Barinov answers quietly as they talk, making his position completely clear.
-- 'Katya is already drinking her third glass.' Mikhail speaks up plainly across the room, so Barinov knows he is not just making small talk.
-- 'In my opinion, it is time to go.' Katya favors this direct piece right here: "po-moyemu" means "in my opinion", and it carries the main weight of what Katya is saying.
-- 'Go ahead, good luck.' Mikhail brings this warning beside Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Well, do you think it is time to talk to Katya already?' Katya probes plainly what Mikhail is actually getting at here.
-- 'Yes, and where is the wine?' Mikhail favors one direct term on cue: "vino" means "wine", and it carries the main weight of what Mikhail is saying.
-- 'No question, I will pour right now.' Katya sends this warning toward Mikhail: the "-sya" ending on "vopros" ("question, matter") turns the action inward or makes it happen between people naturally.
+- 'What happened, Vitya?' Mikhail inquires point-blank what Barinov is actually getting at here.
+- 'The prefect did not eat his fill.' Emphasizing the prefect around Mikhail, Barinov chooses "prefekt" ("district prefect") so Mikhail gets the point right away.
+- 'Misha, forgive me for not saying anything to Eleonora back then.' Holding firm openly on the spot, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Understand, for her it is important.' Barinov steps in at once watching Mikhail, refusing to let the moment slip past.
+- 'No problem at all, Vitya.' Emphasizing the problems right here, Mikhail puts the weight on "problem" ("problems", from "problema") as the exchange unfolds.
+- 'To the new menu and to the star!' Pointing to the new menu before Mikhail, Barinov leans on "novoye" ("new", a form of "novyy") to give the remark its edge.
+- 'Katya is already drinking her third glass.' Mikhail speaks plainly in this moment, bringing things back to earth after the buildup.
+- 'In my opinion, it is time to go.' Katya steps in quietly during the talk and uses "po-moyemu" ("in my opinion") to carry the main weight of the thought.
+- 'Go ahead, good luck.' Pointing to the luck before Katya, Mikhail starts with "davay" ("come on, let's") to invite Katya right into the action.
+- 'Well, do you think it is time to talk to Katya already?' Katya probes plainly if there is more going on behind the scenes.
+- 'Yes, and where is the wine?' Discussing the wine around Katya, Mikhail centers the remark on "vino" ("wine") without any extra fuss.
+- 'No question, I will pour right now.' Dwelling on the question on the spot, the "-sya" ending on "vopros" ("question, matter") marks an action that unfolds mutually or turns back on the speaker.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to talk with me or stay silent?' Barinov offers that line calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'I understand that these changes are very painful.' Vika follows up dryly without holding back, testing Barinov's reaction in the middle of the exchange.
-- 'Painful is when your favorite team cannot win.' Barinov spotlights one classic word with Vika: "boleznenny" means "painful" (from "boleznennyy"), giving the line its exact edge.
-- 'And when they change your life, that is a catastrophe!' Barinov fires back steadily on the spot, keeping the focus on what actually matters here.
-- 'I understand, you want things to be as before.' Vika counters honestly in this moment, leaving no doubt about where she stands.
-- 'But understand me, that is no longer possible now.' Vika reaches for one loaded element in earnest: "nevozmozhno" means "impossible", and it carries the main weight of what Vika is saying.
-- 'We are now part of the largest restaurant chain.' Vika shapes the reaction toward Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'At the end of the year they will give you a big bonus.' Vika follows up steadily during the talk, without trying to dress up how she really feels.
-- 'They will pay you exactly two million rubles.' Vika chooses one classic choice toward Barinov: "milliona" means "million" (from "million"), giving the line its exact edge.
-- 'Wait a second, how much did you just say to me?' Barinov brings the remark on cue: putting the question word "skolko" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Yes, Viktor Petrovich, you heard everything right.' Vika reacts plainly facing Barinov, leaving no doubt about where she stands.
-- 'If you want to get the bonus, follow the established rules.' Vika points to one telling expression in earnest: "ustanovlennyye" means "established" (from "ustanovlennyy"), giving the line its exact edge.
+- 'Did you want to talk with me or stay silent?' Reacting warmly around Vika, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'I understand that these changes are very painful.' Vika chimes in dryly with a nod, without trying to dress up how she really feels.
+- 'Painful is when your favorite team cannot win.' Describing how painful things are in the exchange, Barinov leans on "boleznenny" ("painful", a form of "boleznennyy") to give the remark its edge.
+- 'And when they change your life, that is a catastrophe!' Talking about a catastrophe in the exchange, Barinov chooses "katastrofa" ("catastrophe") so Vika gets the point right away.
+- 'I understand, you want things to be as before.' Vika speaks up honestly around Barinov, to clear the air between them once and for all.
+- 'But understand me, that is no longer possible now.' Vika chimes in dryly at once and reaches for the Russian word "nevozmozhno" ("impossible") right at the heart of the line.
+- 'We are now part of the largest restaurant chain.' Turning to the restaurants during the talk, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'At the end of the year they will give you a big bonus.' Vika continues steadily with Barinov, without trying to dress up how she really feels.
+- 'They will pay you exactly two million rubles.' Talking about the million in this beat, Vika centers the thought on "milliona" ("million", from "million") without wasting a word.
+- 'Wait a second, how much did you just say to me?' Replying promptly to Vika, Barinov puts the question word "skolko" right at the start so Vika hears the focus immediately.
+- 'Yes, Viktor Petrovich, you heard everything right.' Vika continues plainly around Barinov, without trying to dress up how she really feels.
+- 'If you want to get the bonus, follow the established rules.' Emphasizing the bonus to Barinov, Vika brings in "ustanovlennyye" ("established", from "ustanovlennyy") as the key Russian word here.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where would a cat in a restaurant come from?' Max offers that answer on cue: putting the question word "otkuda" right at the front of the line lets the girl hear the point of the question on the very first beat.
-- 'But the main superstition is the first guest.' Max reacts lightly beside the guest, before the guest can change the subject.
-- 'If it is a woman, expect trouble and don't expect tips.' Max frames one telling expression on cue: "nepriyatnostey" means "trouble" (from "nepriyatnost"), giving the line its exact edge.
-- 'Hello. Excuse me, we are still closed.' Max voices this warning to the guest: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Your sign says that you open at eleven.' The guest steps in dryly in their talk, letting the remark speak for itself.
-- 'Your watch is probably running fast.' Max focuses on one direct touch right here: "navernoye" means "probably", and it carries the main weight of what Max is saying.
-- 'A salad and still water.' The guest holds firm lightly without holding back, testing the girl's reaction in the middle of the exchange.
-- 'And I am telling you that this is not a French salad.' The guest chimes in briskly in their talk, watching Max's face to see how the news lands.
-- 'I have been to France and can tell a real salad apart.' The girl underscores one familiar expression right here: "nastoyashchiy" means "real, genuine", and it carries the main weight of what the girl is saying.
-- 'Believe me, this is the most French of all the Moscow ones.' Max proceeds frankly with the guest, refusing to let the moment slip past.
-- 'What do you understand about this? Staff from the provinces!' The guest presses candidly whether the girl really thought this through.
-- 'You are not quite a Muscovite yourself either.' Max uses one telling detail for the guest: "moskvichka" means "Muscovite woman", and it carries the main weight of what Max is saying.
+- 'Where would a cat in a restaurant come from?' Touching on a restaurant with the guest, Max puts the question word "otkuda" right at the start so the guest hears the focus immediately.
+- 'But the main superstition is the first guest.' Max follows up lightly with a shrug, to clear the air between them once and for all.
+- 'If it is a woman, expect trouble and don't expect tips.' Touching on the trouble in front of the guest, Max leans on "nepriyatnostey" ("trouble", a form of "nepriyatnost") to give the remark its edge.
+- 'Hello. Excuse me, we are still closed.' Max promptly chooses this formal greeting at the start of the beat using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Your sign says that you open at eleven.' The guest replies dryly across the room, watching Max's face to see how the news lands.
+- 'Your watch is probably running fast.' Highlighting the watch on the spot, Max lands on "navernoye" ("probably") as the key everyday word here.
+- 'A salad and still water.' Pointing to a salad with Max, the guest centers the remark on "salat" ("salad") without any extra fuss.
+- 'And I am telling you that this is not a French salad.' The guest follows up briskly in this moment, bringing things back to earth after the buildup.
+- 'I have been to France and can tell a real salad apart.' Focusing on a real salad around the guest, the girl leans on "nastoyashchiy" ("real, genuine") to give the whole sentence its punch.
+- 'Believe me, this is the most French of all the Moscow ones.' Max speaks up dryly around the girl and uses "frantsuzskiy" ("French") to carry the main weight of the thought.
+- 'What do you understand about this? Staff from the provinces!' The guest presses candidly why things suddenly took this turn between them.
+- 'You are not quite a Muscovite yourself either.' Touching on the woman at once, Max chooses "moskvichka" ("Muscovite woman") so the guest gets the point right away.

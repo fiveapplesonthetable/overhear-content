@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, will we definitely win right now?' Barinov shares that line for Mikhail: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
-- 'I gave you the very best one.' Senya fires back calmly watching Mikhail, before Mikhail can change the subject.
-- 'If I win, you will be my servant.' Barinov stresses one vivid detail right here: "vyigrayu" means "will win" (from "vyigrat"), giving the line its exact edge.
-- 'Alright, I agree to that.' Mikhail gives that answer briskly now: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'If I win, you obey me.' Mikhail fires back dryly with a sigh, making his position completely clear.
-- 'You and the restaurant report to me.' Mikhail focuses on one concrete piece on cue: "podchinyayetes" means "to obey, to submit to" (from "podchinyatsya"), giving the line its exact edge.
-- 'Go ahead and start!' Barinov states this answer in earnest: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'And everyone get ready now.' Senya pushes back honestly to settle things, saying out loud what both of them already know.
-- 'Started! Come on, come on!' Senya features one familiar choice in earnest: "nachali" means "started" (from "nachat"), giving the line its exact edge.
-- 'Go, go, faster forward!' Barinov drops this warning toward Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Well, what did I tell you?' Mikhail checks frankly to see how Barinov will answer on the spot.
-- 'What a monster you are!' Barinov anchors this key expression with Senya: "chudovishche" means "monster, beast", and it carries the main weight of what Barinov is saying.
+- 'So, will we definitely win right now?' Opening up quietly with Senya, Barinov puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'I gave you the very best one.' Senya replies calmly beside Barinov, shifting the mood of the conversation in a single beat.
+- 'If I win, you will be my servant.' Mentioning the slave on the spot, Barinov centers the thought on "vyigrayu" ("will win", from "vyigrat") without wasting a word.
+- 'Alright, I agree to that.' Mikhail jumps in openly before Barinov and chooses "soglasen" ("agreed", from the root "soglasnyy") so Barinov hears the exact meaning.
+- 'If I win, you obey me.' Mikhail fires back dryly across the room, keeping the focus on what actually matters here.
+- 'You and the restaurant report to me.' Underscoring the restaurant right here, Mikhail centers the thought on "podchinyayetes" ("to obey, to submit to", from "podchinyatsya") without wasting a word.
+- 'Go ahead and start!' Weighing in briskly beside Mikhail, Barinov starts with "davay" ("come on, let's") to invite Mikhail right into the action.
+- 'And everyone get ready now.' Senya follows up honestly facing Barinov, keeping the focus on what actually matters here.
+- 'Started! Come on, come on!' Senya opens up openly with Barinov and brings in "nachali" ("started", from "nachat") as the key Russian word here.
+- 'Go, go, faster forward!' Replying calmly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Well, what did I tell you?' Mikhail checks frankly if there is more going on behind the scenes.
+- 'What a monster you are!' Pointing to a monster with Mikhail, Barinov brings in "chudovishche" ("monster, beast") to make the meaning unmistakable.

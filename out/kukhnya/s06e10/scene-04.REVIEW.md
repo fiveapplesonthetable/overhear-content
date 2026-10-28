@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For my own money you want to send me to a mental clinic?' Katya colors one clear word in earnest: "psikhushku" means "mental hospital" (from "psikhushka"), giving the line its exact edge.
-- 'Leave my office immediately, you are fired!' Katya spotlights this direct element right here: "nemedlenno" means "immediately", and it carries the main weight of what Katya is saying.
-- 'As I understand it, she did not agree again.' Senya fires back bluntly as they talk, leaving no doubt about where he stands.
-- 'Sveta, hi, may I have you for one minute?' Katya grounds one direct term on cue: "minutu" means "a minute" (from "minuta"), giving the line its exact edge.
-- 'Listen, is there something going on between you and Denis?' Katya delivers the thought in earnest: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'And what difference does that even make to you?' Sveta wonders straight out before Senya can change the subject.
-- 'Since I am asking, that means it makes a difference to me.' Katya grounds one familiar detail right here: "sprashivayu" means "am asking" (from "sprashivat"), giving the line its exact edge.
-- 'First of all, it is none of your personal business at all.' Sveta offers this statement with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And second of all, yes, he and I are dating.' Sveta answers honestly as they talk, bringing things back to earth after the buildup.
-- 'What, now you will tell your mom to fire me?' Sveta frames this key piece for Senya: "skazhesh" means "will you say" (from "skazat"), giving the line its exact edge.
-- 'If you are coming to my birthday, we are gifting money.' Senya steps in briskly as things stand, grounding the moment in plain reality.
-- 'Alright, as girls you can chip in a bit less.' Senya continues firmly in this moment, to clear the air between them once and for all.
+- 'For my own money you want to send me to a mental clinic?' Pointing to the mental hospital in this beat, Katya reaches for the Russian word "psikhushku" ("mental hospital", built from "psikhushka") right at the center of the line.
+- 'Leave my office immediately, you are fired!' Katya continues sharply with a sigh, grounding the moment in plain reality.
+- 'As I understand it, she did not agree again.' Senya counters bluntly beside Katya, shifting the mood of the conversation in a single beat.
+- 'Sveta, hi, may I have you for one minute?' Discussing the minute with Sveta, Katya reaches for the Russian word "minutu" ("a minute", built from "minuta") right at the center of the line.
+- 'Listen, is there something going on between you and Denis?' Looking over frankly before Sveta, Katya keeps normal statement word order here, turning the line into a question for Sveta purely through rising pitch.
+- 'And what difference does that even make to you?' Sveta wonders straight out whether Katya really thought this through.
+- 'Since I am asking, that means it makes a difference to me.' Talking about a difference on the spot, Katya brings in "sprashivayu" ("am asking", from "sprashivat") as the key Russian word here.
+- 'First of all, it is none of your personal business at all.' Mentioning the matter during the talk, Sveta links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And second of all, yes, he and I are dating.' Sveta follows up honestly with a sigh, before Katya can change the subject.
+- 'What, now you will tell your mom to fire me?' Bringing up the mother with Senya, Sveta brings in "skazhesh" ("will you say", from "skazat") as the key Russian word here.
+- 'If you are coming to my birthday, we are gifting money.' Talking about the birth during the talk, Senya leans on "rozhdeniya" ("of birth", a form of "rozhdeniye") to give the remark its edge.
+- 'Alright, as girls you can chip in a bit less.' Senya follows up firmly without a pause, to clear the air between them once and for all.

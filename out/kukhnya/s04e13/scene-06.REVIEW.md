@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, bring the guest tea or coffee.' Vika speaks pointedly toward the guest, to clear the air between them once and for all.
-- 'A decaf cappuccino for me, please.' The guest spotlights one pointed detail at once: "kapuchino" means "a cappuccino", and it carries the main weight of what the guest is saying.
-- 'And definitely with lactose-free milk.' The guest answers promptly with a sigh, watching Vika's face to see how the news lands.
-- 'And no cinnamon in the cup at all!' The guest answers sharply in this moment, steering the talk right where he wants it.
-- 'So, you want to celebrate a birthday?' Vika underscores one loaded word on cue: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
-- 'Yes, my little Tyoma is turning two years old.' The guest directs that answer toward Vika: the "-sya" ending on "ispolnyayetsya" ("to two") turns the action inward or makes it happen between people naturally.
-- 'That is, your banquet will be for children?' Vika tests promptly why things suddenly took this turn between them.
-- 'Why do you think it is for children?' The guest emphasizes one classic touch in earnest: "detskiy" means "childish, baby", and it carries the main weight of what the guest is saying.
-- 'He is already a completely grown boy.' The guest directs the reaction right away: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'And here is my good boy Tyoma!' The guest holds firm steadily across the room, steering the talk right where he wants it.
-- 'Meet him, please, this is my Tyoma.' The guest spotlights one loaded touch in earnest: "poznakomtes" means "get acquainted" (from "poznakomitsya"), giving the line its exact edge.
-- 'You are my clever one, come to me.' The guest underscores one direct choice at once: "umnitsa" means "clever girl", and it carries the main weight of what the guest is saying.
+- 'Nastya, bring the guest tea or coffee.' Vika speaks up pointedly without a pause, making her position completely clear.
+- 'A decaf cappuccino for me, please.' Discussing a decaf cappuccino in this beat, the guest chooses "kapuchino" ("a cappuccino") so Vika gets the point right away.
+- 'And definitely with lactose-free milk.' Underscoring the milk in this beat, the guest puts the emphasis on "bezlaktoznym" ("milk") in the middle of the talk.
+- 'And no cinnamon in the cup at all!' The guest reacts sharply toward Vika, making his position completely clear.
+- 'So, you want to celebrate a birthday?' Pointing to the birth at once, Vika chooses "rozhdeniya" ("of birth", from the root "rozhdeniye") so the guest hears the exact meaning.
+- 'Yes, my little Tyoma is turning two years old.' Checking on the turning during the talk, the "-sya" ending on "ispolnyayetsya" ("to two") marks an action that unfolds mutually or turns back on the speaker.
+- 'That is, your banquet will be for children?' Vika tests promptly before the guest can change the subject.
+- 'Why do you think it is for children?' Insisting on how childish things are in the exchange, the guest leans on "detskiy" ("childish, baby") to give the whole sentence its punch.
+- 'He is already a completely grown boy.' Checking on the boy at once, the guest adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'And here is my good boy Tyoma!' The guest responds steadily in this moment, refusing to let the moment slip past.
+- 'Meet him, please, this is my Tyoma.' The guest pushes back evenly at once and lands on "poznakomtes" ("get acquainted", built on "poznakomitsya") to keep the statement grounded.
+- 'You are my clever one, come to me.' The guest fires back at once in their talk, testing Vika's reaction in the middle of the exchange.

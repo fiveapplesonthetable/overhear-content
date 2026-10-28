@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nagiyev is filming a movie today.' Nikita reaches for one clear touch in earnest: "segodnya" means "today", and it carries the main weight of what Nikita is saying.
-- 'There will be no work, you can go home.' Nikita answers at once facing Nagiyev, so Nagiyev knows he is not just making small talk.
-- 'I forgot to ask you.' Denis steps in bluntly watching Nagiyev, letting the remark speak for itself.
-- 'How much longer can this go on?' Denis features one loaded touch in reply: "mozhno" means "may, can", and it carries the main weight of what Denis is saying.
-- 'Sorry, we did it accidentally.' Nagiyev lays out this line without pause: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Nagiyev steps in.
-- 'Listen, Nagiyev's movie is here, and the plumbing got clogged.' Nagiyev follows up earnestly to settle things, leaving no doubt about where he stands.
-- 'I do not think that is a coincidence.' Nagiyev chooses this telling touch at once: "dumayu" means "I think" (from "dumat"), giving the line its exact edge.
-- 'I was just thinking, maybe we should play football?' Nagiyev hands over this answer right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Nikita purely through rising pitch at the end.
-- 'I do not want to play.' Denis continues earnestly with a shrug, steering the talk right where he wants it.
-- 'Why, he just got scared.' Nikita uses this clear element toward Nagiyev: "ispugalsya" means "got scared" (from "ispugatsya"), giving the line its exact edge.
-- 'Fine, let's play.' Denis gives this statement with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Pass the ball, please.' Nagiyev speaks up boldly with Nikita, letting the remark speak for itself.
+- 'Nagiyev is filming a movie today.' Touching on the cinema in this beat, Nikita puts the emphasis on "segodnya" ("today") in the middle of the talk.
+- 'There will be no work, you can go home.' Mentioning the work with Denis, Nikita brings in "raboty" ("of work", from "rabota") as the key Russian word here.
+- 'I forgot to ask you.' Denis weighs in bluntly beside Nikita, to clear the air between them once and for all.
+- 'How much longer can this go on?' Denis speaks up openly in front of Nagiyev and uses "mozhno" ("may, can") to carry the main weight of the thought.
+- 'Sorry, we did it accidentally.' Nagiyev warmly sends this polite apology beside Denis using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Listen, Nagiyev's movie is here, and the plumbing got clogged.' Nagiyev cuts in earnestly around Denis, so Denis knows he is not just making small talk.
+- 'I do not think that is a coincidence.' Nagiyev counters smoothly at once and lands on "dumayu" ("I think", built on "dumat") to keep the statement grounded.
+- 'I was just thinking, maybe we should play football?' Mentioning the football around Denis, Nagiyev keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'I do not want to play.' Denis answers earnestly with Nagiyev, refusing to let the moment slip past.
+- 'Why, he just got scared.' Nikita reacts calmly at once and uses "ispugalsya" ("got scared", from "ispugatsya") to make the point stick.
+- 'Fine, let's play.' Meeting Nikita warmly at this moment, Denis says "ladno" ("alright"), built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Pass the ball, please.' Nagiyev quietly drops this courtesy word while facing Denis using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is this normal? Your waiter wanted to overcharge me!' Nagiyev frames one loaded element on cue: "ofitsiant" means "waiter", and it carries the main weight of what Nagiyev is saying.
-- 'Do you value your reputation at all?' Nagiyev delivers this update with ease: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'She is the one who served me.' Nagiyev holds firm quietly as things stand, bringing things back to earth after the buildup.
-- 'No, well this is some kind of mistake!' Sasha favors one clear element with Nagiyev: "oshibka" means "mistake", and it carries the main weight of what Sasha is saying.
-- 'I was simply framed!' Sasha states the comeback without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I beg your pardon, we will sort this out right now.' Nagiyev speaks firmly with Sasha, letting the remark speak for itself.
-- 'I apologize, I am the owner of this mess.' Nagiyev emphasizes one practical choice for Max: "izvinyayus" means "apologize" (from "izvinyatsya"), giving the line its exact edge.
-- 'Did something happen? They tried to overcharge me.' Nagiyev shares that answer without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Sasha purely through rising pitch at the end.
-- 'You are fired. Shut your mouth and hand in your badge.' Nagiyev proceeds bluntly during the talk, keeping the focus on what actually matters here.
-- 'Our life is always the result of our choice.' Max focuses on one classic word right here: "rezultat" means "a result", and it carries the main weight of what Max is saying.
-- 'We choose to tell the truth or to keep silent.' Max stands firm pointedly with a smile, watching Nagiyev's face to see how the news lands.
-- 'Or to turn everything into a joke that you will remember for a long time.' Max proceeds frankly to be clear, before Sasha can change the subject.
+- 'Is this normal? Your waiter wanted to overcharge me!' Bringing up the waiter to Sasha, Nagiyev leans on "ofitsiant" ("waiter") to give the whole sentence its punch.
+- 'Do you value your reputation at all?' Talking about the reputation in front of Sasha, Nagiyev drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'She is the one who served me.' Nagiyev follows up quietly with a nod, shifting the mood of the conversation in a single beat.
+- 'No, well this is some kind of mistake!' Addressing the mistake in the exchange, Sasha lands on "oshibka" ("mistake") as the key everyday word here.
+- 'I was simply framed!' Weighing in calmly around Nagiyev, Sasha uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I beg your pardon, we will sort this out right now.' Nagiyev fires back firmly with a shrug, to clear the air between them once and for all.
+- 'I apologize, I am the owner of this mess.' Underscoring the owner during the talk, Nagiyev chooses "khozyain" ("owner") so Sasha gets the point right away.
+- 'Did something happen? They tried to overcharge me.' Turning earnestly at once, Nagiyev keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'You are fired. Shut your mouth and hand in your badge.' Touching on the badge with a sigh, Nagiyev makes it clear to Max that he means every word.
+- 'Our life is always the result of our choice.' Highlighting the result in the exchange, Max chooses "rezultat" ("a result") so Nagiyev gets the point right away.
+- 'We choose to tell the truth or to keep silent.' Emphasizing the truth with Nagiyev, Max reaches for the Russian word "promolchat" ("to then") right at the heart of the line.
+- 'Or to turn everything into a joke that you will remember for a long time.' Max replies frankly with a smile, before Nagiyev can change the subject.

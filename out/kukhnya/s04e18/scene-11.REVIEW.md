@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is my knife, has nobody seen it?' German offers that point right away: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Who is having so much fun in here today?' German probes bluntly as Fedya tries to explain the situation.
-- 'I am asking once again, where is my knife?' German points to this direct touch for Barinov: "sprashivayu" means "am asking" (from "sprashivat"), giving the line its exact edge.
-- 'Isn't this one right here your knife?' Barinov drops the thought with warmth: starting the question with "razve" ("really?, is it true that...?") shows Barinov is pushing back against what he just heard.
-- 'Why is my knife so hot?' German checks openly what Barinov is actually getting at here.
-- 'Excuse me, it was lying near the stove.' Barinov sharpens one loaded piece for German: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'All right, stop, what are you hiding there?' German directs the comeback with candor: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'What is that in your hand right now?' German tests firmly in front of Fedya without any preamble.
-- 'It is just fresh green dill.' Fedya reaches for one colorful detail in reply: "zelyonyy" means "green", and it carries the main weight of what Fedya is saying.
-- 'Dill? Why do you need it in here?' German hands over this point briskly now: putting the question word "zachem" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'Do you want some? It is very healthy.' Fedya probes calmly why things suddenly took this turn between them.
-- 'Let's get out of here to the kitchen faster.' Barinov leans on one practical element on cue: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'Where is my knife, has nobody seen it?' Touching on his knife in this beat, German pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Who is having so much fun in here today?' German probes bluntly where this conversation is heading next.
+- 'I am asking once again, where is my knife?' Pointing to his knife right here, German centers the thought on "sprashivayu" ("am asking", from "sprashivat") without wasting a word.
+- 'Isn't this one right here your knife?' Pointing to the knife to German, Barinov starts the question with "razve" ("really?") to push back against what he just heard.
+- 'Why is my knife so hot?' German checks openly while looking straight at Barinov here.
+- 'Excuse me, it was lying near the stove.' Barinov directly delivers this polite apology with German using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'All right, stop, what are you hiding there?' Cutting in naturally to Barinov, German puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'What is that in your hand right now?' German tests firmly if there is more going on behind the scenes.
+- 'It is just fresh green dill.' Making clear how fresh things are with German, Fedya uses "zelyonyy" ("green") to carry the main weight of the thought.
+- 'Dill? Why do you need it in here?' Pressing on dryly on the spot, German puts the question word "zachem" right at the start so Fedya hears the focus immediately.
+- 'Do you want some? It is very healthy.' Fedya probes calmly whether Barinov really thought this through.
+- 'Let's get out of here to the kitchen faster.' Talking about the kitchen right here, Barinov brings in "kukhnyu" ("kitchen", from "kukhnya") as the key Russian word here.

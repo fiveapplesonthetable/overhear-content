@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you sleep at home last night?' Max aims that remark without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'Come on, why are you holding a grudge?' Max wonders point-blank to see how Denis will answer on the spot.
-- 'Yesterday you simply interrupted Vika and me.' Max anchors one pointed word in earnest: "pomeshal" means "disturbed, interrupted" (from "pomeshat"), giving the line its exact edge.
-- 'And we had a fight because of that.' Max phrases that reply with warmth: the "-sya" ending on "possorilis" ("had a fight") turns the action inward or makes it happen between people naturally.
-- 'We haven't been able to get pregnant.' Max follows up plainly in this moment, bringing things back to earth after the buildup.
-- 'In short, everything is complicated.' Max highlights one vivid touch toward Denis: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
-- 'Forgive me too.' Denis frames the comment calmly now: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'Because of me you have nothing but trouble.' Denis chimes in steadily during the talk, refusing to let the moment slip past.
-- 'Come on, we will manage. So, how are things with you?' Max colors one practical expression in earnest: "spravimsya" means "will manage" (from "spravitsya"), giving the line its exact edge.
-- 'I need to peel eighteen sacks of potatoes before evening.' Denis drops this statement facing Max: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'But I have already peeled three.' Denis pushes back lightly as they talk, steering the talk right where he wants it.
-- 'We will help you right now.' Max spotlights this sharp expression with Denis: "pomozhem" means "will help" (from "pomoch"), giving the line its exact edge.
+- 'Why didn't you sleep at home last night?' Opening up openly beside Denis, Max keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'Come on, why are you holding a grudge?' Max wonders point-blank if there is more going on behind the scenes.
+- 'Yesterday you simply interrupted Vika and me.' Max answers naturally in the exchange and centers the thought on "pomeshal" ("disturbed, interrupted", from "pomeshat") without wasting a word.
+- 'And we had a fight because of that.' Answering calmly in front of Denis, the "-sya" ending on "possorilis" ("had a fight") marks an action that unfolds mutually or turns back on the speaker.
+- 'We haven't been able to get pregnant.' Max reacts plainly with a smile, testing Denis's reaction in the middle of the exchange.
+- 'In short, everything is complicated.' Describing how short things are with Denis, Max leans on "obshchem" ("short, so", a form of "obshchiy") to give the remark its edge.
+- 'Forgive me too.' Denis naturally shares this personal apology in one quick breath using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'Because of me you have nothing but trouble.' Denis pushes back steadily with a sigh, without trying to dress up how he really feels.
+- 'Come on, we will manage. So, how are things with you?' Max follows up directly right here and leans on "spravimsya" ("will manage", a form of "spravitsya") to give the remark its edge.
+- 'I need to peel eighteen sacks of potatoes before evening.' Talking about the potatoes with Max, Denis leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'But I have already peeled three.' Denis pushes back lightly with a shrug, to clear the air between them once and for all.
+- 'We will help you right now.' Max opens up smoothly beside Denis and reaches for the Russian word "pomozhem" ("will help", built from "pomoch") right at the center of the line.

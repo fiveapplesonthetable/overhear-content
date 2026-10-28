@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you help me a little bit?' Lyova aims that point for Nikita: Russian keeps the exact word order of a normal statement here, turning it into a question for Nikita purely through rising pitch at the end.
-- 'Help me, please, I cannot carry all this to the car.' Senya counters earnestly across the room, testing Nikita's reaction in the middle of the exchange.
-- 'Let us go, right now we will buy my new fishfinder!' Senya uses one classic piece on cue: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
-- 'Take your beautiful flowers and get in the car.' Lyova responds bluntly toward Senya, watching Senya's face to see how the news lands.
-- 'Well how are things with you and Denis, is it working out?' Nikita prompts bluntly while looking straight at Lyova here.
-- 'You came up with a good plan with this jealousy.' Lyova highlights one direct detail for Senya: "khoroshiy" means "good", and it carries the main weight of what Lyova is saying.
-- 'I love Katya and believe she will be better off with me.' Nikita answers warmly hearing Lyova, bringing things back to earth after the buildup.
-- 'She just needs a little help with the right choice.' Nikita jumps in at once toward Senya, grounding the moment in plain reality.
-- 'I am all for it, although I do not see Katya anywhere.' Lyova features one telling choice in earnest: "tolko" means "only", and it carries the main weight of what Lyova is saying.
-- 'Strange, and Denis is no longer in the hall either.' Nikita aims this point at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Lyova, good morning, are you going to the shower right now?' Senya wonders point-blank as Lyova tries to explain the situation.
-- 'What line, now you are always first at our place!' Senya centers one clear element on cue: "ochered" means "turn in the queue", and it carries the main weight of what Senya is saying.
+- 'Could you help me a little bit?' Cutting in readily in the exchange, Lyova keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Help me, please, I cannot carry all this to the car.' Senya proceeds earnestly hearing Lyova, refusing to let the moment slip past.
+- 'Let us go, right now we will buy my new fishfinder!' Bringing up the fishfinder in this beat, Senya centers the remark on "ekholot" ("fishfinder") without any extra fuss.
+- 'Take your beautiful flowers and get in the car.' Talking about the flowers in this beat, Lyova leans on "krasivyye" ("beautiful", a form of "krasivyy") to give the remark its edge.
+- 'Well how are things with you and Denis, is it working out?' Nikita prompts bluntly how Lyova expects that to work in practice.
+- 'You came up with a good plan with this jealousy.' Mentioning a good plan on the spot, Lyova brings in "khoroshiy" ("good") to make the meaning unmistakable.
+- 'I love Katya and believe she will be better off with me.' Nikita replies frankly in front of Lyova and puts the weight on "schitayu" ("am counting", from "schitat") as the exchange unfolds.
+- 'She just needs a little help with the right choice.' Nikita replies at once beside Lyova, testing Lyova's reaction in the middle of the exchange.
+- 'I am all for it, although I do not see Katya anywhere.' Lyova cuts in evenly at once and chooses "nigde" ("nowhere") so Nikita gets the point right away.
+- 'Strange, and Denis is no longer in the hall either.' Returning to the hall before Lyova, Nikita links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Lyova, good morning, are you going to the shower right now?' Senya wonders point-blank why things suddenly took this turn between them.
+- 'What line, now you are always first at our place!' Highlighting the turn queue in the exchange, Senya brings in "ochered" ("turn in the queue") to make the meaning unmistakable.

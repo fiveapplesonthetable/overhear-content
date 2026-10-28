@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, sit down, let's drink.' Mikhail brings the comeback to Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'After all, today is such a happy day.' Mikhail responds briskly without holding back, making his position completely clear.
-- 'I certainly know.' Mikhail stresses one memorable expression on cue: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'And who is that?' Mikhail shapes that line at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Nagiyev's ex-wife.' Barinov replies pointedly without any doubt, to clear the air between them once and for all.
-- 'Misha, where are you going?' Barinov offers this statement at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Where is my money?' Kristina sends that point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'There is no money!' Mikhail proceeds decisively on the spot, without trying to dress up how he really feels.
-- 'Look what a moneybag you found.' Mikhail sharpens one familiar word in earnest: "denezhnyy" means "money, monetary", and it carries the main weight of what Mikhail is saying.
-- 'Look at yourselves, right out of love, huh?' Kristina states the remark with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
-- 'Yes, out of love.' Mikhail speaks up bluntly in this moment, testing Barinov's reaction in the middle of the exchange.
-- 'Yes, you are right.' Kristina uses one practical touch toward Mikhail: "prav" means "right" (from "pravyy"), giving the line its exact edge.
+- 'Vitya, sit down, let's drink.' Jumping in promptly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'After all, today is such a happy day.' Mikhail pushes back briskly during the talk, to clear the air between them once and for all.
+- 'I certainly know.' Reacting calmly at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'And who is that?' Answering openly before Barinov, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Nagiyev's ex-wife.' Barinov speaks up pointedly around Mikhail, before Mikhail can change the subject.
+- 'Misha, where are you going?' Jumping in dryly during the talk, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Where is my money?' Dwelling on her money in the exchange, Kristina links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'There is no money!' Mikhail counters decisively facing Kristina, testing Kristina's reaction in the middle of the exchange.
+- 'Look what a moneybag you found.' Turning to the sack on the spot, Mikhail lands on "denezhnyy" ("money, monetary") as the key everyday word here.
+- 'Look at yourselves, right out of love, huh?' Dwelling on the love in the exchange, Kristina keeps normal statement word order here, turning the line into a question for Mikhail purely through rising pitch.
+- 'Yes, out of love.' Mikhail proceeds bluntly in this moment, making his position completely clear.
+- 'Yes, you are right.' Pointing out how right Mikhail is during the talk, Kristina reaches for the Russian word "prav" ("right", built from "pravyy") right at the center of the line.

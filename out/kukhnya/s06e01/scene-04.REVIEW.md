@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am afraid that we have no time.' Mikhail points to one direct word in reply: "vremeni" means "time" (from "vremya"), giving the line its exact edge.
-- 'You will suddenly have plenty of free time.' Eleonora brings that thought before Nagiyev: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Unbelievable, ten million for infidelity.' Nagiyev speaks up decisively with a shrug, before Eleonora can change the subject.
-- 'I read about this matter myself.' Mikhail sharpens this telling word in earnest: "chital" means "read" (from "chitat"), giving the line its exact edge.
-- 'Excuse me, may I get your autograph?' Mikhail directs this update toward Eleonora: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'It is for my niece.' Mikhail fires back dryly across the room, keeping the focus on what actually matters here.
-- 'What is her name?' Nagiyev colors this vivid piece for Eleonora: "zovut" means "call" (from "zvat"), giving the line its exact edge.
-- 'I wish you beautiful hair.' Nagiyev sharpens one colorful piece right here: "krasivyye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
-- 'Thank you.' Mikhail follows up plainly on the spot, to clear the air between them once and for all.
-- 'Listen, do you have a boyfriend?' Nagiyev sharpens one vivid element on cue: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'You are fired.' Eleonora brings this statement with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'You need to work, not smile at my husband.' Eleonora proceeds calmly with a nod, saying out loud what both of them already know.
+- 'I am afraid that we have no time.' Pointing to the time with Eleonora, Mikhail centers the thought on "vremeni" ("time", from "vremya") without wasting a word.
+- 'You will suddenly have plenty of free time.' Pointing to the time in front of Mikhail, Eleonora uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Unbelievable, ten million for infidelity.' Nagiyev jumps in decisively hearing Eleonora, testing Eleonora's reaction in the middle of the exchange.
+- 'I read about this matter myself.' Underscoring the matter in the exchange, Mikhail chooses "delo" ("matter") so Nagiyev gets the point right away.
+- 'Excuse me, may I get your autograph?' Opening up directly at once, Mikhail leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'It is for my niece.' Mikhail steps in dryly in this moment, shifting the mood of the conversation in a single beat.
+- 'What is her name?' Nagiyev replies evenly before Mikhail and chooses "zovut" ("call", from the root "zvat") so Mikhail hears the exact meaning.
+- 'I wish you beautiful hair.' Nagiyev jumps in frankly on the spot, watching Mikhail's face to see how the news lands.
+- 'Thank you.' Looking at Nagiyev casually as they meet, Mikhail says "spasibo" ("thank you"), the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Listen, do you have a boyfriend?' Underscoring a boyfriend around Eleonora, Nagiyev chooses "paren" ("boyfriend") so Eleonora gets the point right away.
+- 'You are fired.' Jumping in openly to Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'You need to work, not smile at my husband.' Raising her husband with a smile, Eleonora makes it clear to Nagiyev that she means every word.

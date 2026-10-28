@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you try to get Nikita drunk on purpose yesterday at the bar?' Nastya features one familiar detail for Kostya: "spetsialno" means "on purpose", and it carries the main weight of what Nastya is saying.
-- 'And why is he constantly hitting on Katya?' Kostya brings this statement frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'Because I am trying to help them get together!' Nastya continues warmly without holding back, before Kostya can change the subject.
-- 'So that is where this housewarming suddenly came from!' Kostya focuses on this direct word on cue: "novoselye" means "housewarming", and it carries the main weight of what Kostya is saying.
-- 'And I am trying to help Denis get together with Katya.' Kostya voices the comeback frankly here: the "-sya" ending on "pytayus" ("am trying") turns the action inward or makes it happen between people naturally.
-- 'So do not get in my way, my dear!' Kostya pushes back warmly watching Nastya, bringing things back to earth after the buildup.
-- 'Kostya, look who you found to set Katya up with!' Nastya colors one colorful word right here: "nashyol" means "found" (from "nayti"), giving the line its exact edge.
-- 'After all, Denis ruthlessly dumped her back then.' Nastya jumps in quietly toward Kostya, shifting the whole mood of the room in a single beat.
-- 'And you like Nikita because he has money.' Kostya opens up steadily with Nastya, watching Nastya's face to see how the news lands.
-- 'That means you actually like rich guys!' Kostya grounds one classic piece right here: "nravyatsya" means "are pleasing" (from "nravitsya"), giving the line its exact edge.
-- 'Then I would never have married you!' Nastya highlights this telling term on cue: "zamuzh" means "in marriage", and it carries the main weight of what Nastya is saying.
-- 'Whoever proposed to you is who you married!' Kostya fires back bluntly watching Nastya, refusing to let the moment slip past.
+- 'Did you try to get Nikita drunk on purpose yesterday at the bar?' Turning to the bar with Kostya, Nastya centers the remark on "spetsialno" ("on purpose") without any extra fuss.
+- 'And why is he constantly hitting on Katya?' Leaning in promptly with Nastya, Kostya keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Because I am trying to help them get together!' Nastya chimes in warmly without a pause, testing Kostya's reaction in the middle of the exchange.
+- 'So that is where this housewarming suddenly came from!' Highlighting the housewarming right here, Kostya reaches for the Russian word "novoselye" ("housewarming") right at the heart of the line.
+- 'And I am trying to help Denis get together with Katya.' Looking over promptly on the spot, the "-sya" ending on "pytayus" ("am trying") marks an action that unfolds mutually or turns back on the speaker.
+- 'So do not get in my way, my dear!' Kostya answers warmly with a smile, without trying to dress up how he really feels.
+- 'Kostya, look who you found to set Katya up with!' Nastya proceeds directly around Kostya and brings in "nashyol" ("found", from "nayti") as the key Russian word here.
+- 'After all, Denis ruthlessly dumped her back then.' Nastya replies readily to Kostya and leans on "bezzhalostno" ("ruthlessly") to give the whole sentence its punch.
+- 'And you like Nikita because he has money.' Kostya responds steadily with a nod, grounding the moment in plain reality.
+- 'That means you actually like rich guys!' Discussing the case beside Nastya, Kostya uses "bogatyye" ("rich people", from "bogatyy") to make the point stick.
+- 'Then I would never have married you!' Nastya pushes back evenly in this moment, testing Kostya's reaction in the middle of the exchange.
+- 'Whoever proposed to you is who you married!' Kostya steps in bluntly without any doubt, bringing things back to earth after the buildup.

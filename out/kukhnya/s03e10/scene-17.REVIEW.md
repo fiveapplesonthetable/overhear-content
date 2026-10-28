@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If I offended you, I ask your forgiveness.' Katya uses one pointed detail in reply: "proshcheniya" means "forgiveness" (from "proshcheniye"), giving the line its exact edge.
-- 'No, now I must be by your side.' Lyova reacts calmly to be clear, to clear the air between them once and for all.
-- 'Together you and I will overcome everything.' Lyova reaches for one direct term with Katya: "preodoleyem" means "we will overcome" (from "preodolet"), giving the line its exact edge.
-- 'Wait, what exactly will we overcome?' Katya voices this statement with candor: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Katenka, Maxim told me everything.' Lyova cuts in plainly in their talk, steering the talk right where he wants it.
-- 'And about your psychiatric condition too.' Lyova points to one familiar touch toward Max: "psikhicheskoye" means "psychiatric" (from "psikhicheskiy"), giving the line its exact edge.
-- 'That you were treated in France, and it is secret.' Lyova drops this warning to Katya: the "-sya" ending on "lechilas" ("was treated") turns the action inward or makes it happen between people naturally.
-- 'I understand, wait for me for one minute.' Katya continues dryly in this moment, leaving no doubt about where she stands.
-- 'Oh, how quickly time flies today!' Max colors this telling choice on cue: "segodnya" means "today", and it carries the main weight of what Max is saying.
-- 'It is already time for me and Victor to leave.' Max sends the thought with warmth: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".
-- 'We do not eat after six at all.' Max proceeds firmly toward Katya, watching Katya's face to see how the news lands.
-- 'We do not want to be fat.' Max colors one direct term toward Lyova: "zhirnymi" means "fat" (from "zhirnyy"), giving the line its exact edge.
+- 'If I offended you, I ask your forgiveness.' Katya jumps in quietly with Lyova, watching Lyova's face to see how the news lands.
+- 'No, now I must be by your side.' Lyova chimes in calmly with a nod, bringing things back to earth after the buildup.
+- 'Together you and I will overcome everything.' Lyova follows up evenly with Katya and reaches for the Russian word "preodoleyem" ("we will overcome", built from "preodolet") right at the center of the line.
+- 'Wait, what exactly will we overcome?' Replying openly in front of Lyova, Katya puts the question word "chto" right at the start so Lyova hears the focus immediately.
+- 'Katenka, Maxim told me everything.' Lyova reacts plainly on the spot, watching Max's face to see how the news lands.
+- 'And about your psychiatric condition too.' Pointing to the condition around Katya, Lyova brings in "psikhicheskoye" ("psychiatric", from "psikhicheskiy") as the key Russian word here.
+- 'That you were treated in France, and it is secret.' Weighing in calmly with Katya, the "-sya" ending on "lechilas" ("was treated") marks an action that unfolds mutually or turns back on the speaker.
+- 'I understand, wait for me for one minute.' Katya pushes back dryly without any doubt, grounding the moment in plain reality.
+- 'Oh, how quickly time flies today!' Focusing on the time in the exchange, Max reaches for the Russian word "vremya" ("time") right at the heart of the line.
+- 'It is already time for me and Victor to leave.' Looking over boldly around Katya, Max leans on "pora" ("it is time to"), which carries the whole predicate in Russian without needing "it is".
+- 'We do not eat after six at all.' Max speaks firmly without a pause, letting the remark speak for itself.
+- 'We do not want to be fat.' Max opens up warmly with Katya and leans on "zhirnymi" ("fat", a form of "zhirnyy") to give the remark its edge.

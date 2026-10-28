@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Grandpa, only do not take offense.' Max frames that answer toward the guest: the "-sya" ending on "obizhaysya" ("take offence") turns the action inward or makes it happen between people naturally.
-- 'Once you get better, I will set such a table for you!' Max continues bluntly with a smile, to clear the air between them once and for all.
-- 'Go on, go on. When I recover, you will set it.' The guest stresses this sharp piece with Max: "popravlyus" means "recover, get better" (from "popravitsya"), giving the line its exact edge.
-- 'Soon this old ticker will break down. Not long is left.' The guest responds honestly with a smile, bringing things back to earth after the buildup.
-- 'Today the doctor informed me. I have two months left.' The guest replies promptly toward Max, making his position completely clear.
-- 'I have not told grandma yet.' The guest reaches for this vivid detail on cue: "babushke" means "for grandmother" (from "babushka"), giving the line its exact edge.
-- 'What specifically did the doctor say? What is the diagnosis?' Max states this warning with warmth: putting the question word "chto" right at the front of the line lets the guest hear the point of the question on the very first beat.
-- 'Grandpa, we will buy the best medicine!' Max answers right away with a shrug, shifting the whole mood of the room in a single beat.
-- 'I have grown old. There is your diagnosis.' The guest favors this clear term toward Max: "diagnoz" means "diagnosis", and it carries the main weight of what the guest is saying.
-- 'And do not get upset.' The guest phrases the remark toward Max: the "-sya" ending on "rasstraivaysya" ("be upset, worry") turns the action inward or makes it happen between people naturally.
-- 'I have lived a happy life.' The guest weighs in at once watching Max, saying out loud what both of them already know.
-- 'Well, to you and to your family!' The guest spotlights this direct word in reply: "semyu" means "family" (from "semya"), giving the line its exact edge.
+- 'Grandpa, only do not take offense.' Focusing on the grandfather in this beat, the "-sya" ending on "obizhaysya" ("take offence") marks an action that unfolds mutually or turns back on the speaker.
+- 'Once you get better, I will set such a table for you!' Max chimes in bluntly watching the guest, making his position completely clear.
+- 'Go on, go on. When I recover, you will set it.' The guest continues firmly in this beat and lands on "popravlyus" ("recover, get better", built on "popravitsya") to keep the statement grounded.
+- 'Soon this old ticker will break down. Not long is left.' Turning to the barrel organ to Max, the guest lands on "sharmanka" ("barrel organ") as the key everyday word here.
+- 'Today the doctor informed me. I have two months left.' The guest replies promptly with a smile, grounding the moment in plain reality.
+- 'I have not told grandma yet.' Mentioning the grandmother during the talk, the guest lands on "babushke" ("for grandmother", built on "babushka") to keep the statement grounded.
+- 'What specifically did the doctor say? What is the diagnosis?' Dwelling on the diagnosis during the talk, Max puts the question word "chto" right at the start so the guest hears the focus immediately.
+- 'Grandpa, we will buy the best medicine!' Max follows up right away facing the guest, before the guest can change the subject.
+- 'I have grown old. There is your diagnosis.' Talking about the diagnosis in front of Max, the guest brings in "diagnoz" ("diagnosis") to make the meaning unmistakable.
+- 'And do not get upset.' Pressing on plainly before Max, the "-sya" ending on "rasstraivaysya" ("be upset, worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'I have lived a happy life.' The guest speaks at once with a shrug, bringing things back to earth after the buildup.
+- 'Well, to you and to your family!' Talking about the family right here, the guest chooses "semyu" ("family", from the root "semya") so Max hears the exact meaning.

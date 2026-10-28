@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, is there nobody besides the head chef to bring a bottle?' Eleonora checks eagerly in front of Barinov without any preamble.
-- 'You will be very surprised, but I am worried about you.' Barinov grounds this key piece in earnest: "udivishsya" means "will be surprised" (from "udivitsya"), giving the line its exact edge.
-- 'Did you really come to treat me yourself today?' Eleonora frames the reaction beside Barinov: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
-- 'Yes, I came to you with hot soup.' Barinov pushes back warmly with a shrug, testing Eleonora's reaction in the middle of the exchange.
-- 'After all, you have not eaten properly for four days already.' Barinov underscores one memorable element at once: "normalno" means "fine, OK", and it carries the main weight of what Barinov is saying.
-- 'I cooked your favorite onion soup for you.' Barinov points to one pointed element in earnest: "lyubimyy" means "favourite", and it carries the main weight of what Barinov is saying.
-- 'And brought a glass of good wine for your health.' Barinov weighs in earnestly to be clear, to clear the air between them once and for all.
-- 'Since you are so caring, let us drink to my health.' Eleonora favors one sharp piece for Barinov: "zabotlivyy" means "caring, thoughtful", and it carries the main weight of what Eleonora is saying.
-- 'Or did you secretly slip something into my wine?' Eleonora phrases that point on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'So that I fall asleep and you take me to the mental clinic?' Eleonora prompts deadpan as Barinov tries to explain the situation.
-- 'What are you saying, let us drink to you.' Barinov highlights one concrete expression at once: "govorish" means "you say" (from "govorit"), giving the line its exact edge.
-- 'I slipped the medicine not into the wine, but into the soup!' Barinov weighs in evenly beside Eleonora, making his position completely clear.
+- 'Hello, is there nobody besides the head chef to bring a bottle?' Eleonora checks eagerly how Barinov expects that to work in practice.
+- 'You will be very surprised, but I am worried about you.' Barinov continues readily with Eleonora and centers the thought on "udivishsya" ("will be surprised", from "udivitsya") without wasting a word.
+- 'Did you really come to treat me yourself today?' Pushing back boldly with Barinov, Eleonora leads with "neuzheli" ("can it really be that...?") to pack disbelief into the first beat.
+- 'Yes, I came to you with hot soup.' Barinov chimes in warmly with Eleonora, watching Eleonora's face to see how the news lands.
+- 'After all, you have not eaten properly for four days already.' Barinov proceeds calmly to Eleonora and brings in "normalno" ("fine, OK") to make the meaning unmistakable.
+- 'I cooked your favorite onion soup for you.' Focusing on the soup in this moment, Barinov makes it clear to Eleonora that he means every word.
+- 'And brought a glass of good wine for your health.' Bringing up a glass with Eleonora, Barinov puts the real issue right on the table for Eleonora.
+- 'Since you are so caring, let us drink to my health.' Emphasizing how caring Barinov is to Barinov, Eleonora uses "zabotlivyy" ("caring, thoughtful") to carry the main weight of the thought.
+- 'Or did you secretly slip something into my wine?' Replying openly in front of Barinov, Eleonora keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'So that I fall asleep and you take me to the mental clinic?' Eleonora prompts deadpan whether Barinov really thought this through.
+- 'What are you saying, let us drink to you.' Barinov weighs in calmly right here and puts the weight on "govorish" ("you say", from "govorit") as the exchange unfolds.
+- 'I slipped the medicine not into the wine, but into the soup!' Emphasizing the medicine before Eleonora, Barinov centers the remark on "lekarstvo" ("medicine") without any extra fuss.

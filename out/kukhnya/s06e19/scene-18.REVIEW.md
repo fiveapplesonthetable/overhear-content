@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gulya will kill me for this.' Ainura fires back quietly in this moment, watching Lyova's face to see how the news lands.
-- 'But I cannot keep silent.' Ainura grounds one practical word at once: "molchat" means "be quiet", and it carries the main weight of what Ainura is saying.
-- 'She has nobody in Bishkek.' Ainura speaks up evenly in this moment, leaving no doubt about where she stands.
-- 'She loves only you alone.' Ainura jumps in promptly toward Lyova, letting the remark speak for itself.
-- 'Then why did she lie to me?' Lyova spotlights one sharp detail toward Ainura: "sovrala" means "to lie, tell a lie" (from "sovrat"), giving the line its exact edge.
-- 'Her migration card expired yesterday.' Ainura makes this answer frankly here: the "-sya" ending on "prosrochilas" ("expired") turns the action inward or makes it happen between people naturally.
-- 'Now she has to fly away urgently.' Ainura fires back warmly in this moment, refusing to let the moment slip past.
-- 'She will come to Moscow in five years.' Ainura spotlights this telling detail toward Lyova: "priyedet" means "will come, arrive" (from "priyekhat"), giving the line its exact edge.
-- 'You have your work and mother here.' Ainura hands over the thought without fuss: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'She decided not to stand in your way.' Ainura chimes in promptly with a smile, making her position completely clear.
-- 'In two hours she will fly away.' Ainura leans on one familiar piece right here: "chasa" means "hours" (from "chas"), giving the line its exact edge.
-- 'Lyova, run after her quickly!' Ainura fires back firmly without a pause, steering the talk right where she wants it.
+- 'Gulya will kill me for this.' Ainura counters quietly with Lyova, grounding the moment in plain reality.
+- 'But I cannot keep silent.' Ainura jumps in frankly right here and uses "molchat" ("be quiet") to carry the main weight of the thought.
+- 'She has nobody in Bishkek.' Ainura proceeds evenly without holding back, without trying to dress up how she really feels.
+- 'She loves only you alone.' Ainura counters promptly with a smile, steering the talk right where she wants it.
+- 'Then why did she lie to me?' Lyova chimes in naturally in front of Ainura and reaches for the Russian word "sovrala" ("to lie, tell a lie", built from "sovrat") right at the center of the line.
+- 'Her migration card expired yesterday.' Focusing on the bank card in the exchange, the "-sya" ending on "prosrochilas" ("expired") marks an action that unfolds mutually or turns back on the speaker.
+- 'Now she has to fly away urgently.' Ainura steps in warmly during the talk, shifting the mood of the conversation in a single beat.
+- 'She will come to Moscow in five years.' Ainura answers frankly in this beat and reaches for the Russian word "priyedet" ("will come, arrive", built from "priyekhat") right at the center of the line.
+- 'You have your work and mother here.' Mentioning the job before Lyova, Ainura uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'She decided not to stand in your way.' Ainura answers promptly with a shrug, keeping the focus on what actually matters here.
+- 'In two hours she will fly away.' Discussing the hours on the spot, Ainura chooses "chasa" ("hours", from the root "chas") so Lyova hears the exact meaning.
+- 'Lyova, run after her quickly!' Ainura chimes in quietly with Lyova and puts the emphasis on "bystro" ("quickly") in the middle of the talk.

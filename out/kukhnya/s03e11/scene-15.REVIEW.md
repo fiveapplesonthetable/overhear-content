@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does it not seem to you that our dining room is old?' Nagiyev challenges quietly while looking straight at Barinov here.
-- 'It is just as old as you are.' Vika grounds one concrete detail on cue: "staryy" means "old", and it carries the main weight of what Vika is saying.
-- 'Vitya, well how do you feel today?' Nagiyev delivers that reply frankly here: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Dima, I did not drink last night!' Barinov fires back evenly as they talk, before Vika can change the subject.
-- 'Everything is completely fine with me, see?' Barinov favors one practical element toward Nagiyev: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
-- 'Yes, understood, what did you want to talk about?' Barinov directs the remark around Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Lately you have been walking around sad and tired.' Nagiyev jumps in promptly without holding back, to clear the air between them once and for all.
-- 'You definitely need to get a good rest right now.' Nagiyev features one colorful detail toward Vika: "obyazatelno" means "surely, without fail", and it carries the main weight of what Nagiyev is saying.
-- 'Your cooks in the kitchen are managing on their own for now.' Nagiyev anchors this clear word at once: "rabotayut" means "work" (from "rabotat"), giving the line its exact edge.
-- 'So go home calmly and rest.' Nagiyev speaks bluntly on the spot, watching Vika's face to see how the news lands.
-- 'There is no need, Dima, I work great on my own.' Barinov favors one classic detail in earnest: "otlichno" means "perfect, great", and it carries the main weight of what Barinov is saying.
-- 'This is not a discussion, this is my direct order!' Nagiyev directs this answer in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Alright, I will take only two days.' Barinov replies bluntly with a sigh, letting the remark speak for itself.
+- 'Does it not seem to you that our dining room is old?' Nagiyev challenges quietly while looking straight at Vika here.
+- 'It is just as old as you are.' Vika reacts frankly during the talk and uses "staryy" ("old") to carry the main weight of the thought.
+- 'Vitya, well how do you feel today?' Stepping in promptly on the spot, Nagiyev puts the question word "kak" right at the start so Barinov hears the focus immediately.
+- 'Dima, I did not drink last night!' Barinov jumps in evenly facing Nagiyev, without trying to dress up how he really feels.
+- 'Everything is completely fine with me, see?' Talking about the order during the talk, Barinov uses "poryadke" ("order", from "poryadok") to make the point stick.
+- 'Yes, understood, what did you want to talk about?' Cutting in boldly with Nagiyev, Barinov keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Lately you have been walking around sad and tired.' Nagiyev counters promptly without holding back, steering the talk right where he wants it.
+- 'You definitely need to get a good rest right now.' Nagiyev reacts promptly on the spot and lands on "obyazatelno" ("surely, without fail") as the key everyday word here.
+- 'Your cooks in the kitchen are managing on their own for now.' Nagiyev continues plainly without any doubt, to clear the air between them once and for all.
+- 'So go home calmly and rest.' Nagiyev speaks up bluntly on the spot, without trying to dress up how he really feels.
+- 'There is no need, Dima, I work great on my own.' Barinov follows up vividly in this beat and reaches for the Russian word "otlichno" ("perfect, great") right at the heart of the line.
+- 'This is not a discussion, this is my direct order!' Checking on the conversation in front of Barinov, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Alright, I will take only two days.' Barinov speaks up bluntly around Nagiyev, refusing to let the moment slip past.

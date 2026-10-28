@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My sister, I mean.' Max holds firm steadily without a pause, before Tanya can change the subject.
-- 'Give me your hand.' Vika centers this telling word in earnest: "ruku" means "hand" (from "ruka"), giving the line its exact edge.
-- 'She is going to like it very much.' Tanya sends this line with ease: the "-sya" ending on "ponravitsya" ("will please") turns the action inward or makes it happen between people naturally.
-- 'Okay? Listen here?' Max wonders skeptically in front of Vika without any preamble.
-- 'What are we going to do, huh?' Vika shapes the remark with candor: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Our dance of love is only just beginning.' Max directs this line without pause: the "-sya" ending on "nachinayetsya" ("begins") turns the action inward or makes it happen between people naturally.
-- 'Hold on a second.' Max responds frankly across the room, bringing things back to earth after the buildup.
-- 'Max, Max!' Vika sends this answer facing Tanya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Why did he hit you like that?' Tanya brings the reaction beside Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'It was nothing.' Max steps in wryly without holding back, to clear the air between them once and for all.
-- 'Lavrov, I have news for you.' Vika focuses on this clear touch right here: "novost" means "the news", and it carries the main weight of what Vika is saying.
-- 'If you do not like it, get lost, got it?' Max frames this update briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Come over here!' Max reacts plainly with a sigh, steering the talk right where he wants it.
+- 'My sister, I mean.' Max chimes in steadily toward Vika, shifting the mood of the conversation in a single beat.
+- 'Give me your hand.' Underscoring the hand beside Max, Vika reaches for the Russian word "ruku" ("hand", built from "ruka") right at the center of the line.
+- 'She is going to like it very much.' Pushing back briskly beside Vika, the "-sya" ending on "ponravitsya" ("will please") marks an action that unfolds mutually or turns back on the speaker.
+- 'Okay? Listen here?' Max wonders skeptically if there is more going on behind the scenes.
+- 'What are we going to do, huh?' Turning directly to Max, Vika puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'Our dance of love is only just beginning.' Turning to his dance around Vika, the "-sya" ending on "nachinayetsya" ("begins") marks an action that unfolds mutually or turns back on the speaker.
+- 'Hold on a second.' Max responds frankly beside Vika, keeping the focus on what actually matters here.
+- 'Max, Max!' Looking over dryly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Why did he hit you like that?' Stepping in evenly around Max, Tanya puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'It was nothing.' Max warmly uses this direct affirmation in the exchange using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Lavrov, I have news for you.' Underscoring the news to Max, Vika chooses "novost" ("the news") so Max gets the point right away.
+- 'If you do not like it, get lost, got it?' Holding firm dryly in the exchange, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Come over here!' Max chimes in plainly across the room, to clear the air between them once and for all.

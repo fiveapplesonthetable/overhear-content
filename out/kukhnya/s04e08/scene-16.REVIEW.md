@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Marina, what happened, and where is Senya right now?' Denis focuses on one colorful piece on cue: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'He is in the bathroom right now, and I stopped in to see you.' Marina chooses one sharp word right here: "vannoy" means "bathtub, bath" (from "vanna"), giving the line its exact edge.
-- 'You must know that you are not alone now!' Marina opens up frankly across the room, shifting the whole mood of the room in a single beat.
-- 'Thank you very much, but you do not need to help me!' Denis frames this clear detail with Senya: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Do not be so afraid, you will feel better right away!' Marina hands over that thought right away: the "-sya" ending on "boysya" ("be afraid") turns the action inward or makes it happen between people naturally.
-- 'Senya and I will help you start a new life.' Marina weighs in sharply to settle things, making her position completely clear.
-- 'Listen, when we made our deal, Senya kept quiet about this!' Denis uses one loaded expression in reply: "dogovarivalis" means "had an agreement" (from "dogovarivatsya"), giving the line its exact edge.
-- 'On such strange terms I refuse to rent the room!' Denis pushes back at once in this moment, watching Senya's face to see how the news lands.
-- 'Senya, come here, is he renting a room from us?' Marina questions straight out what Denis is actually getting at here.
-- 'No, Marina, he is simply living with us for free!' Senya focuses on one pointed piece toward Marina: "besplatno" means "for free", and it carries the main weight of what Senya is saying.
-- 'Some 'simply', for twenty-five thousand rubles!' Denis states that thought with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Marina, calm down, I will explain everything honestly to you right now!' Senya chimes in warmly on the spot, testing Marina's reaction in the middle of the exchange.
+- 'Marina, what happened, and where is Senya right now?' Denis pushes back boldly with Marina and centers the thought on "sluchilos" ("happened", from "sluchitsya") without wasting a word.
+- 'He is in the bathroom right now, and I stopped in to see you.' Marina chimes in warmly with a shrug, making her position completely clear.
+- 'You must know that you are not alone now!' Marina cuts in frankly watching Denis, making her position completely clear.
+- 'Thank you very much, but you do not need to help me!' Bringing up the thank in front of Marina, Denis brings in "bolshoye" ("big, very much", from "bolshoy") as the key Russian word here.
+- 'Do not be so afraid, you will feel better right away!' Replying briskly beside Denis, the "-sya" ending on "boysya" ("be afraid") marks an action that unfolds mutually or turns back on the speaker.
+- 'Senya and I will help you start a new life.' Marina steps in sharply with a sigh, so Denis knows she is not just making small talk.
+- 'Listen, when we made our deal, Senya kept quiet about this!' Denis replies smoothly in front of Senya and reaches for the Russian word "dogovarivalis" ("had an agreement", built from "dogovarivatsya") right at the center of the line.
+- 'On such strange terms I refuse to rent the room!' Addressing the conditions on the spot, Denis centers the thought on "usloviyakh" ("conditions", from "usloviye") without wasting a word.
+- 'Senya, come here, is he renting a room from us?' Marina questions straight out what Senya is actually getting at here.
+- 'No, Marina, he is simply living with us for free!' Senya continues readily in this beat and lands on "besplatno" ("for free") as the key everyday word here.
+- 'Some 'simply', for twenty-five thousand rubles!' Dwelling on the thousand beside Senya, Denis uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Marina, calm down, I will explain everything honestly to you right now!' Senya answers warmly watching Marina, leaving no doubt about where he stands.

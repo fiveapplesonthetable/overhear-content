@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this?' Barinov delivers this warning calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He is going to live with us.' Vika speaks sharply with a shrug, so Barinov knows she is not just making small talk.
-- 'And what do we need him for?' Barinov inquires plainly as Vika tries to explain the situation.
-- 'Come on, look how cool he is.' Vika points to one loaded word at once: "prikolnyy" means "cool", and it carries the main weight of what Vika is saying.
-- 'Please, please, please.' Barinov hands over this warning before Vika: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'All right, fine.' Vika chimes in promptly toward Barinov, saying out loud what both of them already know.
-- 'Look, he can barely walk.' Barinov leans on one telling expression toward Vika: "smotri" means "look" (from "smotret"), giving the line its exact edge.
-- 'Oh, come on.' Vika directs that thought for Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Are you expected?' Barinov quizzes deadpan while looking straight at Vika here.
-- 'How may I help you?' Vika anchors one key element toward Barinov: "pomoch" means "to help", and it carries the main weight of what Vika is saying.
-- 'Yes, that is our head chef.' Barinov shapes that answer around Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And where is he?' Vika quizzes calmly where this conversation is heading next.
-- 'Perhaps you would like to take a seat?' Barinov centers one clear term on cue: "prisyadete" means "to sit down" (from "prisest"), giving the line its exact edge.
+- 'What is this?' Holding firm readily in front of Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'He is going to live with us.' Vika speaks up boldly at once and chooses "zhit" ("to live") so Barinov gets the point right away.
+- 'And what do we need him for?' Barinov inquires plainly why things suddenly took this turn between them.
+- 'Come on, look how cool he is.' Confirming how cool he is at once, Vika uses "prikolnyy" ("cool") to carry the main weight of the thought.
+- 'Please, please, please.' Barinov promptly directs this courtesy word right on cue using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'All right, fine.' Vika smoothly voices this word of agreement for Barinov using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Look, he can barely walk.' Barinov reacts dryly in front of Vika and uses "khodit" ("walks") to carry the main weight of the thought.
+- 'Oh, come on.' Pushing back quietly around Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Are you expected?' Barinov quizzes deadpan how Vika expects that to work in practice.
+- 'How may I help you?' Vika answers decisively right here and puts the emphasis on "pomoch" ("to help") in the middle of the talk.
+- 'Yes, that is our head chef.' Turning to his head at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And where is he?' Vika quizzes calmly about what Barinov just brought up.
+- 'Perhaps you would like to take a seat?' Barinov continues evenly in the exchange and centers the thought on "prisyadete" ("to sit down", from "prisest") without wasting a word.

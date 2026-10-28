@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will someone explain to me what is going on?' The guest lays out this update facing Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Wait a moment, this is simply a surprise.' Barinov stands firm at once with the inspector, leaving no doubt about where he stands.
-- 'Our precinct received a tip today.' The inspector leans on one colorful word in reply: "segodnya" means "today", and it carries the main weight of what the inspector is saying.
-- 'This is already the third time this week!' Barinov makes this warning without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Competitors want to undermine our reputation.' Barinov opens up lightly toward the guest, without trying to dress up how he really feels.
-- 'I want to invite you to a banquet.' Barinov highlights one classic detail in earnest: "priglasit" means "to invite", and it carries the main weight of what Barinov is saying.
-- 'Thank you, but what does the police have to do with it?' The guest directs this point for Barinov: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'At a Russian celebration you cannot do without the police!' Barinov counters bluntly with a shrug, making his position completely clear.
-- 'What is this foreigner saying to you right now?' The inspector spotlights one loaded expression right here: "inostranets" means "foreigner", and it carries the main weight of what the inspector is saying.
-- 'He is going to call the French Embassy right now.' Barinov stands firm boldly with a smile, leaving no doubt about where he stands.
-- 'Do you need problems with the French Republic?' Barinov tests skeptically before the guest can change the subject.
-- 'Please escort the police officers downstairs.' Barinov highlights this telling element in earnest: "sotrudnikov" means "staff members" (from "sotrudnik"), giving the line its exact edge.
+- 'Will someone explain to me what is going on?' Following up directly beside Barinov, the guest puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Wait a moment, this is simply a surprise.' Barinov speaks at once beside the guest, shifting the mood of the conversation in a single beat.
+- 'Our precinct received a tip today.' Talking about the signal with Barinov, the inspector reaches for the Russian word "signal" ("a signal") right at the heart of the line.
+- 'This is already the third time this week!' Returning to the week on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Competitors want to undermine our reputation.' Barinov opens up lightly beside the inspector, without trying to dress up how he really feels.
+- 'I want to invite you to a banquet.' Bringing up a banquet in the exchange, Barinov brings in "priglasit" ("to invite") to make the meaning unmistakable.
+- 'Thank you, but what does the police have to do with it?' Checking on the police in front of Barinov, the guest keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'At a Russian celebration you cannot do without the police!' Barinov jumps in bluntly without any doubt, letting the remark speak for itself.
+- 'What is this foreigner saying to you right now?' Talking about the foreigner at once, the inspector centers the remark on "inostranets" ("foreigner") without any extra fuss.
+- 'He is going to call the French Embassy right now.' Barinov counters calmly in the exchange and uses "frantsuzskoye" ("French", from "frantsuzskiy") to make the point stick.
+- 'Do you need problems with the French Republic?' Barinov tests skeptically where this conversation is heading next.
+- 'Please escort the police officers downstairs.' Barinov briskly speaks this courtesy word in the exchange using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".

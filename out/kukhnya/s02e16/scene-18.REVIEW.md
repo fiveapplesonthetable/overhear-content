@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, he is here as my guest.' Max jumps in decisively across the room, watching Nagiyev's face to see how the news lands.
-- 'If you want to punish him, punish me instead.' Max picks one loaded detail in reply: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
-- 'I can pay for your dry cleaning.' Nagiyev voices this update beside Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I have plenty of experience with that.' Max continues frankly without holding back, without trying to dress up how he really feels.
-- 'This is my restaurant.' Nagiyev centers this telling touch in earnest: "restoran" means "restaurant", and it carries the main weight of what Nagiyev is saying.
-- 'Both of you remember that.' Max voices the thought without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Whatever your heart desires.' Nagiyev reacts briskly around Max, testing Max's reaction in the middle of the exchange.
-- 'Yeah, some respectable place this is.' Max stresses one loaded touch with Nagiyev: "prilichnoye" means "decent, respectable" (from "prilichnyy"), giving the line its exact edge.
-- 'Those are not eggs.' Nagiyev drops the reaction at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Why did you grab that plate right away?' Max wonders briskly in front of Nagiyev without any preamble.
-- 'Because of you, we have to remake all these dishes now.' Nagiyev emphasizes one concrete element at once: "peredelayut" means "redo" (from "peredelat"), giving the line its exact edge.
-- 'Are you deaf, I told you it was not my fault.' Max features this direct term at once: "vinovat" means "at fault, guilty" (from "vinovatyy"), giving the line its exact edge.
-- 'Of course it was not his fault.' Nagiyev follows up honestly facing Max, steering the talk right where he wants it.
+- 'Dima, he is here as my guest.' Max proceeds decisively with a smile, before Nagiyev can change the subject.
+- 'If you want to punish him, punish me instead.' Max proceeds smoothly in front of Nagiyev and uses "khochesh" ("do you want", from "khotet") to make the point stick.
+- 'I can pay for your dry cleaning.' Looking over earnestly right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I have plenty of experience with that.' Max opens up frankly without holding back, bringing things back to earth after the buildup.
+- 'This is my restaurant.' Underscoring his restaurant beside Max, Nagiyev uses "restoran" ("restaurant") to carry the main weight of the thought.
+- 'Both of you remember that.' Turning quietly around Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Whatever your heart desires.' Nagiyev pushes back briskly without holding back, refusing to let the moment slip past.
+- 'Yeah, some respectable place this is.' Emphasizing how decent things are in front of Nagiyev, Max chooses "prilichnoye" ("decent, respectable", from the root "prilichnyy") so Nagiyev hears the exact meaning.
+- 'Those are not eggs.' Talking about the eggs in this beat, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why did you grab that plate right away?' Max wonders briskly while looking straight at Nagiyev here.
+- 'Because of you, we have to remake all these dishes now.' Turning to the dishes right here, Nagiyev uses "peredelayut" ("redo", from "peredelat") to make the point stick.
+- 'Are you deaf, I told you it was not my fault.' Max opens up frankly without any doubt, to clear the air between them once and for all.
+- 'Of course it was not his fault.' Nagiyev openly drops this confirmation in the exchange using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".

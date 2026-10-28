@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Lyova, I completely lost track of you.' Gulya delivers that point with ease: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Tell me, where were you for so long?' Gulya checks eagerly to see how Nastya will answer on the spot.
-- 'I had some important business over there.' Lyova centers one classic element at once: "vazhnoye" means "important" (from "vazhnyy"), giving the line its exact edge.
-- 'Wait, were you at the hospital today?' Gulya frames that reply briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
-- 'What made you think that all of a sudden?' Lyova asks plainly as Gulya tries to explain the situation.
-- 'You have blue hospital shoe covers on your feet!' Gulya leans on one classic term for Nastya: "bakhily" means "shoe covers", and it carries the main weight of what Gulya is saying.
-- 'I was simply renewing my medical book.' Lyova voices the reply with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Excuse me, please, it is time for me to go work.' Lyova chimes in wryly with Nastya, before Nastya can change the subject.
-- 'He does not know how to lie to me at all.' Gulya focuses on one classic touch on cue: "sovsem" means "at all", and it carries the main weight of what Gulya is saying.
-- 'Katya, the girls and I wanted to hang out tonight.' Nastya pushes back candidly as they talk, keeping the focus on what actually matters here.
-- 'Maybe you will come out with us tonight?' Nastya checks quietly while looking straight at Gulya here.
-- 'Thank you for the invitation, I will definitely come.' Gulya chooses this key piece in reply: "priglasheniye" means "invitation" (from "priglasheniy"), giving the line its exact edge.
+- 'Hello, Lyova, I completely lost track of you.' Replying frankly beside Lyova, Gulya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Tell me, where were you for so long?' Gulya checks eagerly how Lyova expects that to work in practice.
+- 'I had some important business over there.' Underscoring the matter beside Gulya, Lyova chooses "vazhnoye" ("important", from the root "vazhnyy") so Gulya hears the exact meaning.
+- 'Wait, were you at the hospital today?' Cutting in dryly to Lyova, Gulya keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'What made you think that all of a sudden?' Lyova asks plainly why things suddenly took this turn between them.
+- 'You have blue hospital shoe covers on your feet!' Addressing the shoe covers beside Lyova, Gulya chooses "bakhily" ("shoe covers") so Lyova gets the point right away.
+- 'I was simply renewing my medical book.' Mentioning the book on the spot, Lyova uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Excuse me, please, it is time for me to go work.' Lyova cuts in wryly with a nod, testing Gulya's reaction in the middle of the exchange.
+- 'He does not know how to lie to me at all.' Gulya reacts plainly in the exchange and lands on "sovsem" ("at all") as the key everyday word here.
+- 'Katya, the girls and I wanted to hang out tonight.' Mentioning the girls on the spot, Nastya chooses "devochkami" ("girls", from the root "devochka") so Gulya hears the exact meaning.
+- 'Maybe you will come out with us tonight?' Nastya checks quietly if there is more going on behind the scenes.
+- 'Thank you for the invitation, I will definitely come.' Talking about the thank around Nastya, Gulya chooses "priglasheniye" ("invitation", from the root "priglasheniy") so Nastya hears the exact meaning.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why does he not want me?' Katya aims the thought in earnest: putting the question word "pochemu" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'Because you turned him down. He is under stress.' Nastya cuts in openly on the spot, so Katya knows she is not just making small talk.
-- 'When I yell at Senya, he cannot do anything for a week afterward.' Nastya colors one telling choice at once: "nedelyu" means "for a week" (from "nedelya"), giving the line its exact edge.
-- 'He is stressed, and I am the one suffering.' Katya voices the comeback at once: the "-sya" ending on "stress" ("stress") turns the action inward or makes it happen between people naturally.
-- 'You need to help him relax.' Nastya steps in firmly with a sigh, testing Katya's reaction in the middle of the exchange.
-- 'How about arranging a romantic evening?' Nastya emphasizes one clear word toward Katya: "romanticheskiy" means "romantic", and it carries the main weight of what Nastya is saying.
-- 'A bubble bath, candles, music.' Nastya speaks up calmly without holding back, letting the remark speak for itself.
-- 'He comes home, and you stand up like that,' Nastya jumps in firmly without holding back, saying out loud what both of them already know.
-- 'walk up to him, and take his face in your hands.' Nastya chooses this clear touch on cue: "podkhodish" means "to approach" (from "podkhodit"), giving the line its exact edge.
-- 'Anyway, Kostya is working the night shift on room service tonight.' Nastya shares the comeback on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I will go stay with a friend.' Nastya cuts in earnestly to settle things, steering the talk right where she wants it.
-- 'The apartment is at your disposal.' Nastya picks one familiar element at once: "rasporyazhenii" means "disposal" (from "rasporyazheniye"), giving the line its exact edge.
-- 'You can do it everywhere.' Nastya delivers that line frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Except on my bed, of course.' Nastya answers briskly across the room, testing Katya's reaction in the middle of the exchange.
+- 'Why does he not want me?' Leaning in promptly in this beat, Katya puts the question word "pochemu" right at the start so Nastya hears the focus immediately.
+- 'Because you turned him down. He is under stress.' Nastya opens up openly watching Katya, before Katya can change the subject.
+- 'When I yell at Senya, he cannot do anything for a week afterward.' Emphasizing a week in front of Katya, Nastya leans on "nedelyu" ("for a week", a form of "nedelya") to give the remark its edge.
+- 'He is stressed, and I am the one suffering.' Touching on the stress right here, the "-sya" ending on "stress" ("stress") marks an action that unfolds mutually or turns back on the speaker.
+- 'You need to help him relax.' Nastya proceeds firmly across the room, testing Katya's reaction in the middle of the exchange.
+- 'How about arranging a romantic evening?' Turning to a romantic evening beside Katya, Nastya leans on "romanticheskiy" ("romantic") to give the whole sentence its punch.
+- 'A bubble bath, candles, music.' Touching on the candles before Katya, Nastya reaches for the Russian word "svechi" ("candles", built from "svecha") right at the center of the line.
+- 'He comes home, and you stand up like that,' Nastya proceeds firmly beside Katya, shifting the mood of the conversation in a single beat.
+- 'walk up to him, and take his face in your hands.' Discussing the face at once, Nastya lands on "podkhodish" ("to approach", built on "podkhodit") to keep the statement grounded.
+- 'Anyway, Kostya is working the night shift on room service tonight.' Addressing the room service on the spot, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I will go stay with a friend.' Nastya answers earnestly in this moment, grounding the moment in plain reality.
+- 'The apartment is at your disposal.' Pointing to the disposal with Katya, Nastya brings in "rasporyazhenii" ("disposal", from "rasporyazheniye") as the key Russian word here.
+- 'You can do it everywhere.' Speaking smoothly beside Katya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Except on my bed, of course.' Nastya naturally directs this confirmation in front of Katya using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, does anything hurt?' Rodion asks openly how Kostya expects that to work in practice.
-- 'My broken arm.' Rodion points to one direct detail on cue: "slomannaya" means "broken" (from "slomannyy"), giving the line its exact edge.
-- 'Kostya, you really are an actor, huh?' Max aims the reply plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Great plan.' Rodion speaks promptly in this moment, shifting the whole mood of the room in a single beat.
-- 'Well, friends, what can you say?' Kostya uses one colorful touch at once: "druzya" means "friends" (from "drug"), giving the line its exact edge.
-- 'We just wanted to make things better.' Rodion voices the reply beside Max: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Better for the two of you?' Kostya tests point-blank while looking straight at Max here.
-- 'Very manly of you.' Rodion grounds this direct choice for Max: "po-muzhski" means "like a man", and it carries the main weight of what Rodion is saying.
-- 'You always risk losing yourself.' Kostya focuses on this direct touch for Max: "riskuyesh" means "risk" (from "riskovat"), giving the line its exact edge.
-- 'There is only one way to win someone else's argument.' Rodion answers right away beside Max, grounding the moment in plain reality.
-- 'To sacrifice yourself.' Kostya picks this telling expression at once: "zhertvu" means "sacrifice" (from "zhertva"), giving the line its exact edge.
-- 'There are few of them, but they exist.' Rodion brings this point frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'And sometimes you win.' Kostya stands firm decisively to settle things, watching Max's face to see how the news lands.
+- 'Kostya, does anything hurt?' Rodion asks openly if there is more going on behind the scenes.
+- 'My broken arm.' Emphasizing the hand on the spot, Rodion reaches for the Russian word "slomannaya" ("broken", built from "slomannyy") right at the center of the line.
+- 'Kostya, you really are an actor, huh?' Focusing on the performer before Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Great plan.' Rodion jumps in promptly during the talk, refusing to let the moment slip past.
+- 'Well, friends, what can you say?' Mentioning the friends on the spot, Kostya brings in "druzya" ("friends", from "drug") as the key Russian word here.
+- 'We just wanted to make things better.' Reacting firmly during the talk, Rodion uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Better for the two of you?' Kostya tests point-blank to see how Rodion will answer on the spot.
+- 'Very manly of you.' Rodion speaks evenly during the talk and chooses "po-muzhski" ("like a man") so Kostya gets the point right away.
+- 'You always risk losing yourself.' Kostya counters earnestly with a sigh, grounding the moment in plain reality.
+- 'There is only one way to win someone else's argument.' Rodion responds right away in their talk, grounding the moment in plain reality.
+- 'To sacrifice yourself.' Focusing on the sacrifice in this beat, Kostya leans on "zhertvu" ("sacrifice", a form of "zhertva") to give the remark its edge.
+- 'There are few of them, but they exist.' Holding firm readily right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'And sometimes you win.' Kostya steps in decisively without a pause, leaving no doubt about where he stands.

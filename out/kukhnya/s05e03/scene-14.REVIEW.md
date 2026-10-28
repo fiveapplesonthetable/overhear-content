@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will not tell anyone anything.' Gulya lays out the reply without pause: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I do not know the Russian language at all.' Gulya cuts in bluntly with a nod, watching Nastya's face to see how the news lands.
-- 'Which room did they carry him to?' Kostya favors this vivid piece toward Gulya: "nomer" means "number", and it carries the main weight of what Kostya is saying.
-- 'To that same cursed room.' Gulya counters sharply as they talk, to clear the air between them once and for all.
-- 'Let her undress him herself.' Gulya pushes back frankly beside Kostya, bringing things back to earth after the buildup.
-- 'She has more experience in that.' Gulya features one clear touch at once: "opyta" means "experience" (from "opyt"), giving the line its exact edge.
-- 'They wanted to put me to sleep too!' Kostya pushes back openly facing Gulya, so Gulya knows he is not just making small talk.
-- 'And I have waffles in my pocket.' Kostya speaks up honestly around Nastya, keeping the focus on what actually matters here.
-- 'Better tell us where they dragged Denis!' Nastya grounds one memorable expression at once: "potashchili" means "dragged, carried" (from "potashchit"), giving the line its exact edge.
-- 'I already told you.' Gulya chooses one practical choice at once: "skazala" means "told" (from "skazat"), giving the line its exact edge.
-- 'Eleonora just will not calm down.' Nastya holds firm frankly with a sigh, watching Gulya's face to see how the news lands.
-- 'Run to the room, save Denis!' Kostya picks this direct expression on cue: "spasayte" means "to save, to rescue" (from "spasat"), giving the line its exact edge.
-- 'Let's save nature and save ourselves!' Nastya pushes back steadily around Gulya, leaving no doubt about where she stands.
+- 'I will not tell anyone anything.' Turning naturally around Kostya, Gulya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I do not know the Russian language at all.' Gulya follows up bluntly on the spot, refusing to let the moment slip past.
+- 'Which room did they carry him to?' Discussing the number right here, Kostya uses "nomer" ("number") to carry the main weight of the thought.
+- 'To that same cursed room.' Bringing up the number around Kostya, Gulya puts the emphasis on "proklyatyy" ("cursed") in the middle of the talk.
+- 'Let her undress him herself.' Gulya chimes in frankly across the room, keeping the focus on what actually matters here.
+- 'She has more experience in that.' Turning to the experience in the exchange, Gulya uses "opyta" ("experience", from "opyt") to make the point stick.
+- 'They wanted to put me to sleep too!' Kostya answers naturally in front of Gulya and centers the remark on "usypit" ("to first") without any extra fuss.
+- 'And I have waffles in my pocket.' Kostya speaks up honestly on the spot, keeping the focus on what actually matters here.
+- 'Better tell us where they dragged Denis!' Nastya speaks up vividly at once and chooses "potashchili" ("dragged, carried", from the root "potashchit") so Gulya hears the exact meaning.
+- 'I already told you.' Gulya chimes in dryly in their talk, bringing things back to earth after the buildup.
+- 'Eleonora just will not calm down.' Nastya chimes in frankly facing Gulya, testing Gulya's reaction in the middle of the exchange.
+- 'Run to the room, save Denis!' Emphasizing the number before Nastya, Kostya reaches for the Russian word "nomer" ("number") right at the heart of the line.
+- 'Let's save nature and save ourselves!' Emphasizing the nature with Kostya, Nastya uses "prirodu" ("nature", from "priroda") to make the point stick.

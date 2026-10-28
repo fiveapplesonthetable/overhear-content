@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Better bring him a good steak.' Barinov opens up calmly without a pause, grounding the moment in plain reality.
-- 'Our secret guest no longer wants steak.' Barinov highlights this direct expression on cue: "taynyy" means "secret, undercover", and it carries the main weight of what Barinov is saying.
-- 'He is asking for some delicious dessert.' Barinov opens up quietly with a shrug, keeping the focus on what actually matters here.
-- 'Are you going to confess to her?' Katya tests openly whether Denis really thought this through.
-- 'The guest wants some light salad.' Barinov emphasizes one vivid detail at once: "lyogkiy" means "faint", and it carries the main weight of what Barinov is saying.
-- 'And he asks for his curtains to be changed.' Barinov answers steadily without holding back, bringing things back to earth after the buildup.
-- 'The streetlight outside is bothering him.' Barinov steps in sharply to settle things, before Denis can change the subject.
-- 'Katya, I must confess everything to you.' Denis spotlights this sharp choice on cue: "priznatsya" means "to admit", and it carries the main weight of what Denis is saying.
-- 'On that night you and I broke up.' Denis aims that answer plainly here: the "-sya" ending on "rasstalis" ("broke up, separated") turns the action inward or makes it happen between people naturally.
-- 'I got drunk back then and cheated on you.' Denis speaks sharply in their talk, before Katya can change the subject.
-- 'I know that you will not forgive this.' Denis favors one telling touch on cue: "prostish" means "to forgive" (from "prostit"), giving the line its exact edge.
-- 'Even if you forgive, you will never forget it.' Denis makes that thought plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I regret this very deeply.' Denis follows up candidly hearing Barinov, shifting the whole mood of the room in a single beat.
+- 'Better bring him a good steak.' Barinov responds calmly without holding back, making his position completely clear.
+- 'Our secret guest no longer wants steak.' Bringing up the guest before Katya, Barinov centers the remark on "taynyy" ("secret, undercover") without any extra fuss.
+- 'He is asking for some delicious dessert.' Describing how delicious he is right here, Barinov reaches for the Russian word "vkusnyy" ("delicious") right at the heart of the line.
+- 'Are you going to confess to her?' Katya tests openly where this conversation is heading next.
+- 'The guest wants some light salad.' Highlighting the guest with Katya, Barinov lands on "lyogkiy" ("faint") as the key everyday word here.
+- 'And he asks for his curtains to be changed.' Turning to the curtains in the exchange, Barinov puts the weight on "pomenyali" ("changed, replaced", from "pomenyat") as the exchange unfolds.
+- 'The streetlight outside is bothering him.' Barinov steps in sharply beside Denis, bringing things back to earth after the buildup.
+- 'Katya, I must confess everything to you.' Denis continues evenly beside Katya and leans on "dolzhen" ("has to, must") to give the whole sentence its punch.
+- 'On that night you and I broke up.' Focusing on the night at once, the "-sya" ending on "rasstalis" ("broke up, separated") marks an action that unfolds mutually or turns back on the speaker.
+- 'I got drunk back then and cheated on you.' Denis replies sharply with a nod, refusing to let the moment slip past.
+- 'I know that you will not forgive this.' Denis answers openly at once and leans on "prostish" ("to forgive", a form of "prostit") to give the remark its edge.
+- 'Even if you forgive, you will never forget it.' Cutting in naturally at once, Denis pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I regret this very deeply.' Denis chimes in candidly hearing Barinov, to clear the air between them once and for all.

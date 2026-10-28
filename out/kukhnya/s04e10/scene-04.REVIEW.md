@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, gentlemen and ladies.' Nagiyev centers this key word toward Kostya: "gospoda" means "gentlemen" (from "gospodin"), giving the line its exact edge.
-- 'I will allow myself to correct you.' Nagiyev reaches for one practical choice in reply: "pozvolyu" means "will allow" (from "pozvolit"), giving the line its exact edge.
-- 'We are not terrorists, we are businessmen.' Nagiyev speaks decisively in their talk, without trying to dress up how he really feels.
-- 'And now I ask everyone into the dining room.' Nagiyev features one direct piece for Senya: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
-- 'Have you heard about Stockholm syndrome?' Kostya phrases this update at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'Victims feel sympathy toward their captors.' Kostya responds candidly without any doubt, watching Senya's face to see how the news lands.
-- 'Excuse me, please, may I ask a question?' Senya underscores this sharp element right here: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Could you tie the bartender to me instead?' Senya frames that remark right away: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'According to the list, one cook is missing.' Nagiyev proceeds briskly to be clear, before Kostya can change the subject.
-- 'His name is Arseny Chuganin.' Nagiyev spotlights one familiar word for Senya: "zovut" means "call" (from "zvat"), giving the line its exact edge.
-- 'Where is this dangerous cook?' Nagiyev hands over this point without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He is in the kitchen today.' Senya fires back briskly beside Nagiyev, leaving no doubt about where he stands.
+- 'Good afternoon, gentlemen and ladies.' Nagiyev warmly voices this daytime greeting without hesitation using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'I will allow myself to correct you.' Nagiyev cuts in warmly with a smile, grounding the moment in plain reality.
+- 'We are not terrorists, we are businessmen.' Touching on the terrorists with Kostya, Nagiyev sets the direction for the rest of the talk with Kostya.
+- 'And now I ask everyone into the dining room.' Turning to the hall around Kostya, Nagiyev centers the thought on "proshu" ("beg, ask", from "prosit") without wasting a word.
+- 'Have you heard about Stockholm syndrome?' Answering plainly right here, Kostya keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Victims feel sympathy toward their captors.' Kostya opens up candidly on the spot, making his position completely clear.
+- 'Excuse me, please, may I ask a question?' Senya firmly extends this polite apology to Kostya using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Could you tie the bartender to me instead?' Focusing on the bartender around Nagiyev, Senya leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'According to the list, one cook is missing.' Nagiyev fires back briskly on the spot, refusing to let the moment slip past.
+- 'His name is Arseny Chuganin.' Nagiyev steps in naturally around Senya and uses "zovut" ("call", from "zvat") to make the point stick.
+- 'Where is this dangerous cook?' Showing how dangerous things are beside Senya, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He is in the kitchen today.' Senya speaks up briskly across the room, keeping the focus on what actually matters here.

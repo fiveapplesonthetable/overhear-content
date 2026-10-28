@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Action, let's begin!' Barinov emphasizes one key detail toward Nagiyev: "nachali" means "started" (from "nachat"), giving the line its exact edge.
-- 'My career climb was long and difficult.' Barinov steps in frankly hearing Nagiyev, steering the talk right where he wants it.
-- 'I cooked for the presidents of Russia and France.' Barinov steps in dryly with a sigh, steering the talk right where he wants it.
-- 'Vitya, what is going on here, pal?' Nagiyev features one pointed element right here: "proiskhodit" means "is going on", and it carries the main weight of what Nagiyev is saying.
-- 'I do not meddle in your kitchen.' Nagiyev features this sharp term right here: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'Listen to me very carefully now.' Nagiyev steps in steadily as they talk, letting the remark speak for itself.
-- 'Tomorrow a very important guest is coming to us.' Nagiyev colors one familiar touch at once: "vazhnyy" means "important", and it carries the main weight of what Nagiyev is saying.
-- 'Haven't all the important guests visited us already?' Barinov brings the reaction in earnest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'No, not all of them wanted this.' Nagiyev speaks dryly before Barinov, before Barinov can change the subject.
-- 'He wants to make me a general of the army.' Nagiyev frames one concrete choice toward Barinov: "generalom" means "general" (from "general"), giving the line its exact edge.
-- 'And Emperor of France.' Nagiyev gives this point without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Do you understand?' Nagiyev questions openly if there is more going on behind the scenes.
+- 'Action, let's begin!' Barinov reacts dryly during the talk and lands on "nachali" ("started", built on "nachat") to keep the statement grounded.
+- 'My career climb was long and difficult.' Emphasizing the growth right here, Barinov chooses "karyernyy" ("climb") so Nagiyev gets the point right away.
+- 'I cooked for the presidents of Russia and France.' Barinov counters dryly without any doubt, so Nagiyev knows he is not just making small talk.
+- 'Vitya, what is going on here, pal?' Highlighting the kid beside Barinov, Nagiyev chooses "proiskhodit" ("is going on") so Barinov gets the point right away.
+- 'I do not meddle in your kitchen.' Nagiyev opens up plainly beside Barinov, grounding the moment in plain reality.
+- 'Listen to me very carefully now.' Nagiyev weighs in steadily watching Barinov, watching Barinov's face to see how the news lands.
+- 'Tomorrow a very important guest is coming to us.' Stressing how important things are on the spot, Nagiyev reaches for the Russian word "vazhnyy" ("important") right at the heart of the line.
+- 'Haven't all the important guests visited us already?' Talking about the visitors with Nagiyev, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'No, not all of them wanted this.' Nagiyev fires back dryly without holding back, before Barinov can change the subject.
+- 'He wants to make me a general of the army.' Touching on a general during the talk, Nagiyev chooses "generalom" ("general", from the root "general") so Barinov hears the exact meaning.
+- 'And Emperor of France.' Speaking calmly beside Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Do you understand?' Nagiyev questions openly to see how Barinov will answer on the spot.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Calm, you say?' Max emphasizes this telling choice for German: "spokoynyy" means "calm", and it carries the main weight of what Max is saying.
-- 'What did you break?' Vika phrases the comment briskly now: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'That was not me, that was Styopa.' Max counters right away without holding back, watching German's face to see how the news lands.
-- 'Kostya asked us to look after him.' Max reaches for this vivid piece in reply: "prismotret" means "to look", and it carries the main weight of what Max is saying.
-- 'He is a cool kid, right?' Max directs this answer at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He is a cute boy.' Vika continues evenly with a shrug, before Max can change the subject.
-- 'I still need to unpack my things.' Vika frames one concrete word right here: "veshchi" means "things" (from "veshch"), giving the line its exact edge.
-- 'Viktoriya, come to the restaurant urgently.' German weighs in at once on the spot, so Vika knows he is not just making small talk.
-- 'We have been robbed!' German stands firm calmly facing Max, letting the remark speak for itself.
-- 'Yes, I will be right there.' Vika focuses on one direct expression for Max: "seychas" means "now", and it carries the main weight of what Vika is saying.
-- 'Styopa is staying with you.' Vika lays out this warning without fuss: the "-sya" ending on "ostayotsya" ("stays") turns the action inward or makes it happen between people naturally.
-- 'And what am I supposed to do with him?' Max quizzes openly while looking straight at Vika here.
-- 'Practice, imagine that he is our son.' Vika anchors one concrete expression toward German: "treniruysya" means "practice", and it carries the main weight of what Vika is saying.
-- 'He is climbing into the oven right now!' Max continues candidly in this moment, saying out loud what both of them already know.
+- 'Calm, you say?' Max steps in plainly in this beat and brings in "spokoynyy" ("calm") to make the meaning unmistakable.
+- 'What did you break?' Jumping in plainly during the talk, Vika puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'That was not me, that was Styopa.' Max speaks right away without any doubt, leaving no doubt about where he stands.
+- 'Kostya asked us to look after him.' Max counters evenly during the talk and lands on "prismotret" ("to look") as the key everyday word here.
+- 'He is a cool kid, right?' Making clear how great he is in front of Vika, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He is a cute boy.' Vika reacts evenly without a pause, letting the remark speak for itself.
+- 'I still need to unpack my things.' Vika speaks up frankly during the talk and centers the remark on "yeshchyo" ("more, still") without any extra fuss.
+- 'Viktoriya, come to the restaurant urgently.' Emphasizing the restaurant in the exchange, German reaches for the Russian word "priyezzhayte" ("to come, to arrive", built from "priyezzhat") right at the center of the line.
+- 'We have been robbed!' German weighs in calmly on the spot, refusing to let the moment slip past.
+- 'Yes, I will be right there.' Jumping in promptly on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Styopa is staying with you.' Following up quietly during the talk, the "-sya" ending on "ostayotsya" ("stays") marks an action that unfolds mutually or turns back on the speaker.
+- 'And what am I supposed to do with him?' Max quizzes openly if there is more going on behind the scenes.
+- 'Practice, imagine that he is our son.' Pointing to the practice before Max, Vika reaches for the Russian word "treniruysya" ("practice") right at the heart of the line.
+- 'He is climbing into the oven right now!' Turning to the oven to Vika, Max chooses "dukhovku" ("oven", from the root "dukhovka") so Vika hears the exact meaning.

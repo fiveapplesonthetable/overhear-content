@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, Victoria, what stage is it at right now?' Eleonora frames one classic piece right here: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
-- 'It is in progress, by evening it should be ready.' Vika continues calmly as things stand, grounding the moment in plain reality.
-- 'Great, then I will drop by this evening and try it!' Nikita follows up firmly to settle things, shifting the whole mood of the room in a single beat.
-- 'Elya, I have a personal matter to discuss with you.' Nikita reaches for this direct touch with Vika: "razgovor" means "conversation", and it carries the main weight of what Nikita is saying.
-- 'My son is planning to get a job with you as a waiter.' Nikita frames this clear choice right here: "ofitsiantom" means "waiter, server" (from "ofitsiant"), giving the line its exact edge.
-- 'Who? Nikita? I have not seen him for fifteen years!' Eleonora quizzes plainly before Vika can change the subject.
-- 'He has grown taller than me now, a real handsome guy.' Nikita stresses this clear element with Eleonora: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Nikita is saying.
-- 'And why did he come here instead of going to you?' Eleonora brings that line beside Vika: putting the question word "pochemu" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'He says, I want to walk the whole path from the very beginning!' Nikita steps in promptly before Eleonora, grounding the moment in plain reality.
-- 'Please keep an eye on him and let me know how he is doing.' Nikita favors this vivid touch on cue: "prismotri" means "supervision" (from "prismotr"), giving the line its exact edge.
-- 'And I will return the favor, you know me.' Nikita favors one sharp detail on cue: "dolgu" means "debt" (from "dolg"), giving the line its exact edge.
-- 'What are you talking about, Andryusha, of course I will look after him!' Eleonora proceeds firmly facing Vika, refusing to let the moment slip past.
+- 'Tell me, Victoria, what stage is it at right now?' Touching on the stage beside Vika, Eleonora reaches for the Russian word "stadii" ("stage, phase", built from "stadiya") right at the center of the line.
+- 'It is in progress, by evening it should be ready.' Talking about the process in the exchange, Vika leans on "protsesse" ("process, trial", a form of "protsess") to give the remark its edge.
+- 'Great, then I will drop by this evening and try it!' Nikita pushes back firmly in this moment, making his position completely clear.
+- 'Elya, I have a personal matter to discuss with you.' Mentioning the conversation right here, Nikita uses "razgovor" ("conversation") to carry the main weight of the thought.
+- 'My son is planning to get a job with you as a waiter.' Nikita proceeds evenly with a shrug, to clear the air between them once and for all.
+- 'Who? Nikita? I have not seen him for fifteen years!' Eleonora quizzes plainly where this conversation is heading next.
+- 'He has grown taller than me now, a real handsome guy.' Mentioning the height in front of Eleonora, Nikita reaches for the Russian word "nastoyashchiy" ("real, genuine") right at the heart of the line.
+- 'And why did he come here instead of going to you?' Weighing in plainly at once, Eleonora puts the question word "pochemu" right at the start so Nikita hears the focus immediately.
+- 'He says, I want to walk the whole path from the very beginning!' Nikita replies promptly watching Eleonora, leaving no doubt about where he stands.
+- 'Please keep an eye on him and let me know how he is doing.' Discussing the supervision before Eleonora, Nikita chooses "prismotri" ("supervision", from the root "prismotr") so Eleonora hears the exact meaning.
+- 'And I will return the favor, you know me.' Nikita reacts calmly without any doubt, bringing things back to earth after the buildup.
+- 'What are you talking about, Andryusha, of course I will look after him!' Eleonora replies firmly without holding back, testing Nikita's reaction in the middle of the exchange.

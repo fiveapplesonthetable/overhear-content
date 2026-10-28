@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What test are you talking about?' Barinov lays out the reply toward Lyova: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What do you think?' Lyova checks frankly where this conversation is heading next.
-- 'You signed the request form yourself.' Barinov reaches for one vivid element in reply: "zayavleniye" means "statement", and it carries the main weight of what Barinov is saying.
-- 'Was I drunk when I signed it?' Lyova brings this answer to Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Well, then it does not count.' Barinov responds boldly without holding back, making his position completely clear.
-- 'You should have warned me beforehand.' Lyova points to one classic choice right here: "preduprezhdat" means "to warn", and it carries the main weight of what Lyova is saying.
-- 'It is not my fault.' Barinov hands over that answer with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'That you are drunk all the time.' Lyova jumps in frankly on the spot, refusing to let the moment slip past.
-- 'Quite an actor even without you.' Barinov frames one key term with Lyova: "akter" means "actor" (from "aktyor"), giving the line its exact edge.
-- 'What happened in the evening?' Lyova lays out this update briskly now: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'I do not know anything.' Barinov responds pointedly with a shrug, making his position completely clear.
-- 'I have plans.' Lyova underscores one colorful element toward Max: "plany" means "plans" (from "plan"), giving the line its exact edge.
-- 'Chef, everything is ready.' Max delivers that point beside Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What test are you talking about?' Discussing the inspection beside Lyova, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What do you think?' Lyova checks frankly why things suddenly took this turn between them.
+- 'You signed the request form yourself.' Mentioning the statement around Lyova, Barinov puts the emphasis on "zayavleniye" ("statement") in the middle of the talk.
+- 'Was I drunk when I signed it?' Leaning in warmly to Barinov, Lyova keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Well, then it does not count.' Barinov continues boldly with a smile, leaving no doubt about where he stands.
+- 'You should have warned me beforehand.' Lyova fires back boldly in the exchange and puts the emphasis on "preduprezhdat" ("to warn") in the middle of the talk.
+- 'It is not my fault.' Replying dryly in this beat, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'That you are drunk all the time.' Lyova speaks up frankly without any doubt, keeping the focus on what actually matters here.
+- 'Quite an actor even without you.' Touching on an actor before Lyova, Barinov puts the weight on "akter" ("actor", from "aktyor") as the exchange unfolds.
+- 'What happened in the evening?' Following up calmly to Barinov, Lyova puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'I do not know anything.' Barinov opens up pointedly without a pause, grounding the moment in plain reality.
+- 'I have plans.' Focusing on the plans on the spot, Lyova centers the thought on "plany" ("plans", from "plan") without wasting a word.
+- 'Chef, everything is ready.' Showing how ready things are during the talk, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.

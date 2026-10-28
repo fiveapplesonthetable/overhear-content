@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, give me the oil.' Max jumps in calmly in their talk, grounding the moment in plain reality.
-- 'Here you go, here is your oil.' Fedya focuses on one clear expression on cue: "maslo" means "butter", and it carries the main weight of what Fedya is saying.
-- 'Oh, this is my favorite oil!' Max makes the comeback in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well yes, that is exactly right.' Senya proceeds firmly to settle things, keeping the focus on what actually matters here.
-- 'Then at the movie theater we spit in disgust.' Senya emphasizes this sharp touch in earnest: "kinoteatre" means "theater", and it carries the main weight of what Senya is saying.
-- 'And then they film a second part.' Senya opens up candidly before Max, keeping the focus on what actually matters here.
-- 'Our Arseny is a real film critic.' Fedya proceeds decisively to settle things, letting the remark speak for itself.
-- 'And what do you watch yourself?' Fedya reaches for this telling detail for Senya: "smotrish" means "are staring" (from "smotret"), giving the line its exact edge.
-- 'Here, the meat mallet is free now.' Max states the thought to Fedya: the "-sya" ending on "osvobodilsya" ("to become free") turns the action inward or makes it happen between people naturally.
-- 'Thanks, I do not need it anymore.' Max pushes back at once watching Senya, leaving no doubt about where he stands.
-- 'I love a good manly movie.' Senya grounds one familiar expression with Fedya: "khorosheye" means "lovely, good" (from "khoroshiy"), giving the line its exact edge.
-- 'I hate these boring Mondays.' Senya states the reply right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Fedya, give me the oil.' Max counters calmly toward Fedya, refusing to let the moment slip past.
+- 'Here you go, here is your oil.' Fedya lightly chooses this courtesy word while facing Max using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Oh, this is my favorite oil!' Stressing how favorite things are right here, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well yes, that is exactly right.' Senya steps in firmly hearing Max, grounding the moment in plain reality.
+- 'Then at the movie theater we spit in disgust.' Turning to the movie theater in the exchange, Senya leans on "kinoteatre" ("theater") to give the whole sentence its punch.
+- 'And then they film a second part.' Mentioning a second part during the talk, Senya leans on "vtoruyu" ("second", a form of "vtoroy") to give the remark its edge.
+- 'Our Arseny is a real film critic.' Fedya fires back decisively without any doubt, watching Senya's face to see how the news lands.
+- 'And what do you watch yourself?' Fedya weighs in briskly in the exchange and reaches for the Russian word "smotrish" ("are staring", built from "smotret") right at the center of the line.
+- 'Here, the meat mallet is free now.' Bringing up the meat mallet around Fedya, the "-sya" ending on "osvobodilsya" ("to become free") marks an action that unfolds mutually or turns back on the speaker.
+- 'Thanks, I do not need it anymore.' Max smoothly offers this word of thanks as they meet using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I love a good manly movie.' Addressing the cinema on the spot, Senya centers the thought on "khorosheye" ("lovely, good", from "khoroshiy") without wasting a word.
+- 'I hate these boring Mondays.' Speaking quietly in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

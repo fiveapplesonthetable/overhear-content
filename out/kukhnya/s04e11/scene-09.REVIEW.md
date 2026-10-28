@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, tonight we are celebrating!' Max chimes in bluntly with Kostya, letting the remark speak for itself.
-- 'Nagiyev hired me as a musician.' Max spotlights one direct piece on cue: "muzykantom" means "musician" (from "muzykant"), giving the line its exact edge.
-- 'Congratulations, that is great!' Kostya makes the reaction before Max: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
-- 'Only we are not staying out long today.' Kostya stands firm decisively with a smile, watching Vika's face to see how the news lands.
-- 'Hello, my beloved wife.' Max emphasizes one loaded expression at once: "lyubimaya" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.
-- 'Did you even look at the clock?' Vika brings that reply around Max: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'I do not even have a watch.' Max chimes in at once across the room, making his position completely clear.
-- 'Vikulya, forgive me, please.' Max chooses one vivid element with Vika: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
-- 'Fine, come inside quietly.' Vika puts that thought at once: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kostya is on board.
-- 'Did you change the wheels on the car?' Vika quizzes eagerly whether Max really thought this through.
-- 'No, I will change them tomorrow.' Max anchors one colorful term on cue: "pomenyayu" means "to change, to swap" (from "pomenyat"), giving the line its exact edge.
-- 'There was a huge line there today.' Max follows up at once watching Vika, making his position completely clear.
+- 'Guys, tonight we are celebrating!' Max chimes in bluntly with a sigh, to clear the air between them once and for all.
+- 'Nagiyev hired me as a musician.' Talking about a musician on the spot, Max leans on "muzykantom" ("musician", a form of "muzykant") to give the remark its edge.
+- 'Congratulations, that is great!' Leaning in quietly during the talk, Kostya leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".
+- 'Only we are not staying out long today.' Kostya weighs in decisively in their talk, shifting the mood of the conversation in a single beat.
+- 'Hello, my beloved wife.' Max promptly voices this familiar greeting in front of Vika using "zdravstvuy" ("hello") — the singular form of the classic greeting that literally means "be healthy".
+- 'Did you even look at the clock?' Pointing to the watch in the exchange, Vika drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'I do not even have a watch.' Max reacts at once across the room, refusing to let the moment slip past.
+- 'Vikulya, forgive me, please.' Max continues decisively with Vika and uses "prosti" ("sorry, forgive me", from "prostit") to make the point stick.
+- 'Fine, come inside quietly.' Vika simply speaks this word of agreement at the start of the beat using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Did you change the wheels on the car?' Vika quizzes eagerly why things suddenly took this turn between them.
+- 'No, I will change them tomorrow.' Max counters plainly right here and uses "pomenyayu" ("to change, to swap", from "pomenyat") to make the point stick.
+- 'There was a huge line there today.' Emphasizing the turn queue in this beat, Max uses "ogromnaya" ("vast, huge", from "ogromnyy") to make the point stick.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, say that one more time.' Barinov delivers the reaction frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Do you even know who your Galkin is?' Kostya prompts candidly how Max expects that to work in practice.
-- 'Who? Got it?' Max underscores this telling choice at once: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Kostya, please pass me my coffee.' Barinov makes the remark plainly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I cannot wake up, I slept terribly all night.' Kostya follows up pointedly with a shrug, grounding the moment in plain reality.
-- 'Thank you very much.' Max grounds this telling touch toward Kostya: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'What do you mean, mine and yours.' Barinov gives the reply calmly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Come on, say that one more time.' Speaking evenly at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Do you even know who your Galkin is?' Kostya prompts candidly what Max is actually getting at here.
+- 'Who? Got it?' Max jumps in firmly in this beat and uses "ponyal" ("understood", from "ponyat") to make the point stick.
+- 'Kostya, please pass me my coffee.' Focusing on his coffee at once, Barinov brings in "kofe" ("of coffee") to make the meaning unmistakable.
+- 'I cannot wake up, I slept terribly all night.' Kostya answers pointedly facing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Thank you very much.' Max openly sends this word of thanks in front of Kostya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'What do you mean, mine and yours.' Speaking calmly at once, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
 - 'What do you mean, I took it?' Kostya inquires earnestly before Max can change the subject.
-- 'We will figure something out.' Max chooses one key element with Barinov: "pridumayem" means "to think up" (from "pridumat"), giving the line its exact edge.
-- 'There is Galkin for you.' Barinov drops this statement frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'While in Russia everything is the other way around.' Kostya steps in openly in this moment, testing Barinov's reaction in the middle of the exchange.
-- 'What? Really?' Max frames the remark around Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'And what about this!' Barinov lays out the comment to Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'We will figure something out.' Max continues dryly during the talk and reaches for the Russian word "pridumayem" ("to think up", built from "pridumat") right at the center of the line.
+- 'There is Galkin for you.' Following up quietly around Max, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'While in Russia everything is the other way around.' Kostya speaks openly watching Barinov, letting the remark speak for itself.
+- 'What? Really?' Leaning in dryly before Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'And what about this!' Answering quietly around Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

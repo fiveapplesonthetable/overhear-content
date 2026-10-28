@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, I beg your pardon.' Elena speaks up sharply around Barinov, before Barinov can change the subject.
-- 'Yes, of course, everything is still on for tonight!' Barinov leans on one colorful expression at once: "konechno" means "of course", and it carries the main weight of what Barinov is saying.
-- 'My guests will arrive at eight sharp.' Barinov speaks up briskly without any doubt, refusing to let the moment slip past.
-- 'We are closing the restaurant specially for friends.' Barinov fires back steadily before Lyova, making his position completely clear.
-- 'Viktor Petrovich, appreciate this irony of life.' Elena highlights one clear choice right here: "ironiyu" means "life" (from "ironiya"), giving the line its exact edge.
-- 'Today we are helping to save rare leopards.' Elena answers openly in their talk, bringing things back to earth after the buildup.
-- 'And for this they give us benefits.' Elena holds firm right away without holding back, saying out loud what both of them already know.
-- 'It turns out that the leopards save us too.' Elena highlights this direct touch for Lyova: "leopardy" means "leopards", and it carries the main weight of what Elena is saying.
-- 'Nikolay Andreyevich, will you be having lunch right now?' Barinov aims that reply toward Elena: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
-- 'I have a plane in three hours.' Lyova holds firm briskly with a smile, letting the remark speak for itself.
-- 'So prepare lunch very quickly.' Lyova favors one pointed touch with Barinov: "prigotovte" means "prepare, cook" (from "prigotovit"), giving the line its exact edge.
-- 'And happy birthday, Viktor Petrovich!' Lyova speaks up calmly in this moment, steering the talk right where he wants it.
+- 'Viktor Petrovich, I beg your pardon.' Elena weighs in sharply in this moment, so Barinov knows she is not just making small talk.
+- 'Yes, of course, everything is still on for tonight!' Talking about the force with Elena, Barinov reaches for the Russian word "konechno" ("of course") right at the heart of the line.
+- 'My guests will arrive at eight sharp.' Addressing the visitors right here, Barinov chooses "gosti" ("visitors, guests", from the root "gost") so Elena hears the exact meaning.
+- 'We are closing the restaurant specially for friends.' Barinov counters steadily with a sigh, watching Elena's face to see how the news lands.
+- 'Viktor Petrovich, appreciate this irony of life.' Touching on the life beside Barinov, Elena reaches for the Russian word "ironiyu" ("life", built from "ironiya") right at the center of the line.
+- 'Today we are helping to save rare leopards.' Bringing up the leopards with Barinov, Elena reaches for the Russian word "leopardov" ("leopards", built from "leopard") right at the center of the line.
+- 'And for this they give us benefits.' Elena reacts right away facing Barinov, steering the talk right where she wants it.
+- 'It turns out that the leopards save us too.' Touching on the leopards before Barinov, Elena leans on "leopardy" ("leopards") to give the whole sentence its punch.
+- 'Nikolay Andreyevich, will you be having lunch right now?' Reacting briskly beside Lyova, Barinov keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'I have a plane in three hours.' Bringing up a plane on the spot, Lyova puts the real issue right on the table for Barinov.
+- 'So prepare lunch very quickly.' Discussing the lunch beside Barinov, Lyova chooses "prigotovte" ("prepare, cook", from the root "prigotovit") so Barinov hears the exact meaning.
+- 'And happy birthday, Viktor Petrovich!' Emphasizing the birth in this beat, Lyova uses "rozhdeniya" ("of birth", from "rozhdeniye") to make the point stick.

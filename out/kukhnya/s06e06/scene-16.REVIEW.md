@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And I have a surprise for you!' Nastya frames one colorful word toward the guest: "syurpriz" means "surprise", and it carries the main weight of what Nastya is saying.
-- 'Could it be that our guest finally moved out?' Kostya delivers the comeback with ease: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
-- 'No, you did not guess right at all.' Nastya continues calmly hearing the guest, refusing to let the moment slip past.
-- 'Tell me, is everything ready in the room already?' Nastya highlights this telling expression right here: "komnate" means "room" (from "komnata"), giving the line its exact edge.
-- 'Yes, everything is ready, come on in!' The guest pushes back right away with Kostya, refusing to let the moment slip past.
-- 'This is all his excellent work.' Nastya counters frankly hearing Kostya, grounding the moment in plain reality.
-- 'It is big, just like you wanted.' Nastya focuses on one practical element with the guest: "bolshoy" means "big", and it carries the main weight of what Nastya is saying.
-- 'Only I wanted to buy my own television.' Kostya speaks up warmly with a nod, testing Nastya's reaction in the middle of the exchange.
-- 'And I do not want anything at all from him!' Kostya continues at once around the guest, grounding the moment in plain reality.
-- 'I do not get it, where did you get the money?' Kostya chooses one practical piece on cue: "dengi" means "money", and it carries the main weight of what Kostya is saying.
-- 'They were stolen from you on the metro!' Kostya frames that thought right away: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Or did they not steal all your money?' Kostya quizzes firmly to see how Nastya will answer on the spot.
+- 'And I have a surprise for you!' Bringing up a surprise around Kostya, Nastya leans on "syurpriz" ("surprise") to give the whole sentence its punch.
+- 'Could it be that our guest finally moved out?' Talking about his guest in this beat, Kostya leads with "neuzheli" ("can it really be that...?") to pack disbelief into the first beat.
+- 'No, you did not guess right at all.' Nastya reacts quietly toward Kostya, without trying to dress up how she really feels.
+- 'Tell me, is everything ready in the room already?' Mentioning the room in this beat, Nastya puts the weight on "komnate" ("room", from "komnata") as the exchange unfolds.
+- 'Yes, everything is ready, come on in!' Stressing how ready things are at once, the guest puts the weight on "gotovo" ("ready", from "gotovyy") as the exchange unfolds.
+- 'This is all his excellent work.' Nastya fires back frankly on the spot, shifting the mood of the conversation in a single beat.
+- 'It is big, just like you wanted.' Nastya answers briskly before Kostya and centers the remark on "bolshoy" ("big") without any extra fuss.
+- 'Only I wanted to buy my own television.' Bringing up the television in front of Nastya, Kostya uses "televizor" ("television") to carry the main weight of the thought.
+- 'And I do not want anything at all from him!' Kostya continues at once facing Nastya, steering the talk right where he wants it.
+- 'I do not get it, where did you get the money?' Discussing the money during the talk, Kostya lands on "dengi" ("money") as the key everyday word here.
+- 'They were stolen from you on the metro!' Returning to the metro in front of Nastya, Kostya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Or did they not steal all your money?' Kostya quizzes firmly if there is more going on behind the scenes.

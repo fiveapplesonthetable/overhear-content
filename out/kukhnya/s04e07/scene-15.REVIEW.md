@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, can you distract them for a moment?' Senya checks bluntly if there is more going on behind the scenes.
-- 'And meanwhile I will unnoticeably pour some sugar in there!' Senya favors one vivid choice right here: "nezametno" means "inconspicuously", and it carries the main weight of what Senya is saying.
-- 'Just how am I supposed to distract them for you?' Fedya sends that line plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Fine, give it here, I will distract them right now!' Fedya chimes in steadily hearing Senya, grounding the moment in plain reality.
-- 'Enjoy your meal, taste our new hot dish!' Barinov frames one key expression right here: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
-- 'The guest said that this is a completely different matter!' Fedya aims the remark facing Senya: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'In every bite the hand of a master is immediately visible!' Fedya follows up at once facing Barinov, bringing things back to earth after the buildup.
-- 'I would say that I worked with both hands!' Barinov stresses one loaded detail right here: "rukami" means "hands" (from "ruka"), giving the line its exact edge.
-- 'Senya, what are you doing near the soup right now?' Barinov shares that answer at once: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'And I thought, what if you need sugar?' Senya tests sharply as Fedya tries to explain the situation.
-- 'What do I need sugar for in hot onion soup?' Barinov picks one pointed term right here: "goryachem" means "hot" (from "goryachiy"), giving the line its exact edge.
-- 'Forgive me, Chef, I am already going back to my station!' Senya offers this answer briskly now: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'Fedya, can you distract them for a moment?' Senya checks bluntly what Fedya is actually getting at here.
+- 'And meanwhile I will unnoticeably pour some sugar in there!' Discussing the sugar on the spot, Senya centers the thought on "sakhara" ("sugar", from "sakhar") without wasting a word.
+- 'Just how am I supposed to distract them for you?' Bringing up the distract to Senya, Fedya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Fine, give it here, I will distract them right now!' Fedya responds steadily with a shrug, refusing to let the moment slip past.
+- 'Enjoy your meal, taste our new hot dish!' Touching on the appetite before Fedya, Barinov leans on "priyatnogo" ("pleasant", a form of "priyatnyy") to give the remark its edge.
+- 'The guest said that this is a completely different matter!' Focusing on the guest during the talk, Fedya adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'In every bite the hand of a master is immediately visible!' Fedya opens up at once with a nod, leaving no doubt about where he stands.
+- 'I would say that I worked with both hands!' Touching on the hands in front of Fedya, Barinov leans on "rukami" ("hands", a form of "ruka") to give the remark its edge.
+- 'Senya, what are you doing near the soup right now?' Cutting in smoothly around Senya, Barinov puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'And I thought, what if you need sugar?' Senya tests sharply where this conversation is heading next.
+- 'What do I need sugar for in hot onion soup?' Emphasizing the sugar beside Senya, Barinov brings in "goryachem" ("hot", from "goryachiy") as the key Russian word here.
+- 'Forgive me, Chef, I am already going back to my station!' Underscoring the place on the spot, Senya reaches for the Russian word "prostite" ("excuse me", built from "prostit") right at the center of the line.

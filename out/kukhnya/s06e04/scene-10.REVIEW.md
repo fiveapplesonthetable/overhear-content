@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, start playing, I think the inspector will come down right now.' Barinov grounds this vivid touch toward Nastya: "inspektor" means "inspector", and it carries the main weight of what Barinov is saying.
-- 'You look sharp today.' Senya hands over that thought for Nastya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Do I look like an old inspector?' Barinov presses point-blank while looking straight at Nastya here.
-- 'I walk up, and the way he looks at me!' Nastya uses this clear expression right here: "podkhozhu" means "walk up, approach" (from "podkhodit"), giving the line its exact edge.
-- 'I even felt faint.' Nastya lays out this point beside Barinov: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
-- 'Nastya, what did he order?' Barinov prompts deadpan to see how Senya will answer on the spot.
-- 'Fillet of pigeon and the fish dish.' Nastya focuses on one key detail toward Barinov: "golubya" means "pigeon", and it carries the main weight of what Nastya is saying.
-- 'We will cook it right now, he will give us two stars!' Senya weighs in earnestly during the talk, to clear the air between them once and for all.
-- 'I will do the cooking, and you give me clean knives.' Barinov continues bluntly without holding back, leaving no doubt about where he stands.
-- 'Chef, why me?' Senya puts that answer around Nastya: putting the question word "pochemu" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'Yes, you are right, I will wash the knives myself too.' Barinov reaches for one clear expression in earnest: "nozhi" means "knives" (from "nozh"), giving the line its exact edge.
-- 'Right now Daddy is going to make history!' Barinov stands firm boldly with a sigh, to clear the air between them once and for all.
+- 'Denis, start playing, I think the inspector will come down right now.' Addressing the inspector before Senya, Barinov centers the remark on "inspektor" ("inspector") without any extra fuss.
+- 'You look sharp today.' Looking over firmly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Do I look like an old inspector?' Barinov presses point-blank what Nastya is actually getting at here.
+- 'I walk up, and the way he looks at me!' Nastya fires back promptly at once and brings in "podkhozhu" ("walk up, approach", from "podkhodit") as the key Russian word here.
+- 'I even felt faint.' Reacting firmly to Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Nastya, what did he order?' Barinov speaks evenly with Nastya, before Nastya can change the subject.
+- 'Fillet of pigeon and the fish dish.' Turning to the pigeon during the talk, Nastya chooses "golubya" ("pigeon") so Barinov gets the point right away.
+- 'We will cook it right now, he will give us two stars!' Bringing up the stars at once, Senya uses "prigotovim" ("will prepare", from "prigotovit") to make the point stick.
+- 'I will do the cooking, and you give me clean knives.' Barinov responds bluntly with Senya, watching Senya's face to see how the news lands.
+- 'Chef, why me?' Turning quietly before Barinov, Senya puts the question word "pochemu" right at the start so Barinov hears the focus immediately.
+- 'Yes, you are right, I will wash the knives myself too.' Touching on the knives hearing Senya, Barinov cuts straight through the tension with Senya.
+- 'Right now Daddy is going to make history!' Barinov speaks boldly in this moment, so Senya knows he is not just making small talk.

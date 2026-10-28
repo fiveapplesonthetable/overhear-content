@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'But we are in the kitchen!' Barinov pushes back candidly without a pause, watching Elena's face to see how the news lands.
-- 'And in the room above the kitchen it smells the exact same way. Something is wrong with the ventilation.' Lyova emphasizes one pointed touch on cue: "ventilyatsiyey" means "ventilation" (from "ventilyatsiya"), giving the line its exact edge.
-- 'Bring the tools, I will see what can be done.' Barinov directs this answer calmly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Excuse me, I will sort it out.' Barinov fires back at once to be clear, leaving no doubt about where he stands.
-- 'Elena, I congratulate you! With all my heart I wish you happiness.' Lyova emphasizes this clear term in reply: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
-- 'You deserve this.' Lyova lays out this line frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Thank you. Can people congratulate me already?' Elena wonders deadpan how Barinov expects that to work in practice.
-- 'It looks like we can! Then I congratulate you too.' Lyova leans on one sharp term on cue: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
-- 'I always believed that you and Viktor Petrovich would get married.' Lyova aims that thought with ease: the "-sya" ending on "pozhenites" ("will get married") turns the action inward or makes it happen between people naturally.
-- 'And I am very glad that he dared to take this step!' Lyova counters steadily facing Elena, keeping the focus on what actually matters here.
-- 'Wait, Lyova.' Elena centers this key word in reply: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'What step?' Elena puts that thought around Lyova: putting the question word "kakoy" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'But we are in the kitchen!' Barinov cuts in candidly in this moment, leaving no doubt about where he stands.
+- 'And in the room above the kitchen it smells the exact same way. Something is wrong with the ventilation.' Underscoring the ventilation beside Barinov, Lyova lands on "ventilyatsiyey" ("ventilation", built on "ventilyatsiya") to keep the statement grounded.
+- 'Bring the tools, I will see what can be done.' Turning to the tools with Lyova, Barinov leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Excuse me, I will sort it out.' Barinov gently voices this polite apology in front of Lyova using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'Elena, I congratulate you! With all my heart I wish you happiness.' Turning to the soul at once, Lyova uses "pozdravlyayu" ("congratulations", from "pozdravlyat") to make the point stick.
+- 'You deserve this.' Opening up quietly in front of Elena, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Thank you. Can people congratulate me already?' Elena openly uses this word of thanks right on cue using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'It looks like we can! Then I congratulate you too.' Lyova answers sharply at once and lands on "pozdravlyayu" ("congratulations", built on "pozdravlyat") to keep the statement grounded.
+- 'I always believed that you and Viktor Petrovich would get married.' Weighing in dryly in this beat, the "-sya" ending on "pozhenites" ("will get married") marks an action that unfolds mutually or turns back on the speaker.
+- 'And I am very glad that he dared to take this step!' Lyova proceeds steadily without any doubt, grounding the moment in plain reality.
+- 'Wait, Lyova.' Elena steps in vividly with Lyova and leans on "podozhdite" ("wait", a form of "podozhdat") to give the remark its edge.
+- 'What step?' Checking on the step around Lyova, Elena puts the question word "kakoy" right at the start so Lyova hears the focus immediately.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, did you go into the walk-in cooler today?' Senya delivers the thought before Fedya: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
-- 'I am narrowing the circle of suspects.' Senya responds evenly to be clear, making his position completely clear.
-- 'I went in, but I took flounder, not stellate sturgeon.' Fedya grounds one familiar piece for Katya: "sevryugu" means "stellate sturgeon" (from "sevryuga"), giving the line its exact edge.
-- 'Are there witnesses?' Senya frames this point to Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'For giving false testimony you will be held liable.' Senya cuts in boldly across the room, to clear the air between them once and for all.
-- 'Alright then, we have our first suspect.' Senya picks one vivid term right here: "podozrevayemyy" means "suspect", and it carries the main weight of what Senya is saying.
-- 'On the contrary, she is smart.' Fedya hands over this point with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'She is divorcing me and marrying someone else.' Fedya pushes back frankly facing Senya, refusing to let the moment slip past.
-- 'I am not pregnant.' Katya picks this sharp choice with Fedya: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
-- 'Max, if you want, you can marry me.' Katya voices that answer to Senya: the "-sya" ending on "zhenitsya" ("to marry") turns the action inward or makes it happen between people naturally.
-- 'Easily.' Fedya responds bluntly in their talk, so Katya knows he is not just making small talk.
-- 'Shall we kiss?' Katya highlights one pointed term for Senya: "potseluyemsya" means "kiss" (from "potselovatsya"), giving the line its exact edge.
+- 'Fedya, did you go into the walk-in cooler today?' Pointing to the fridge to Fedya, Senya keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.
+- 'I am narrowing the circle of suspects.' Senya continues evenly facing Fedya, shifting the mood of the conversation in a single beat.
+- 'I went in, but I took flounder, not stellate sturgeon.' Addressing the stellate sturgeon on the spot, Fedya uses "sevryugu" ("stellate sturgeon", from "sevryuga") to make the point stick.
+- 'Are there witnesses?' Returning to the witnesses beside Fedya, Senya keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.
+- 'For giving false testimony you will be held liable.' Senya cuts in boldly on the spot, keeping the focus on what actually matters here.
+- 'Alright then, we have our first suspect.' Focusing on the suspect on the spot, Senya puts the emphasis on "podozrevayemyy" ("suspect") in the middle of the talk.
+- 'On the contrary, she is smart.' Touching on the contrary during the talk, Fedya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'She is divorcing me and marrying someone else.' Fedya reacts frankly without a pause, without trying to dress up how he really feels.
+- 'I am not pregnant.' Highlighting how pregnant she is in the exchange, Katya centers the thought on "beremenna" ("pregnant", from "beremennyy") without wasting a word.
+- 'Max, if you want, you can marry me.' Pressing on earnestly on the spot, the "-sya" ending on "zhenitsya" ("to marry") marks an action that unfolds mutually or turns back on the speaker.
+- 'Easily.' Fedya continues bluntly with a shrug, to clear the air between them once and for all.
+- 'Shall we kiss?' Katya proceeds quietly in this beat and brings in "potseluyemsya" ("kiss", from "potselovatsya") as the key Russian word here.

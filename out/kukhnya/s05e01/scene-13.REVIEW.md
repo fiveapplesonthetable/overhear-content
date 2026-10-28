@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, good morning, Chef!' Mikhail spotlights this vivid element with Barinov: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
-- 'Mikhail will give us a restroom as we ask.' Barinov reacts firmly beside Vika, making his position completely clear.
-- 'Chef, I only need a tiny moment in there.' Mikhail proceeds frankly with a shrug, before Barinov can change the subject.
-- 'Please, do not worry.' Mikhail reaches for one telling word at once: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'Right now we will fix everything quickly.' Mikhail answers briskly hearing Barinov, without trying to dress up how he really feels.
-- 'What is going on there, did the elevator break?' Leaning in before Vika, Mikhail brings the conversation back to practical reality.
-- 'No, Mikhail, there is a little problem there.' Vika highlights one colorful word toward Barinov: "nebolshaya" means "small" (from "nebolshoy"), giving the line its exact edge.
-- 'I am checking whether everything is ready for the opening.' Barinov jumps in openly toward Vika, leaving no doubt about where he stands.
-- 'Would you not like to join us?' Barinov inquires frankly in front of Mikhail without any preamble.
-- 'We will lose all our guests like this!' Mikhail centers one key piece on cue: "poteryayem" means "will lose" (from "poteryat"), giving the line its exact edge.
-- 'If you want to keep them, stay out of my way!' Barinov follows up frankly hearing Mikhail, so Mikhail knows he is not just making small talk.
-- 'Goodness, why are you acting like children?' Vika presses quietly in front of Mikhail without any preamble.
-- 'Cannot reach an agreement? Toss a coin.' Vika spotlights one practical element in earnest: "dogovoritsya" means "to reach an agreement", and it carries the main weight of what Vika is saying.
+- 'Oh, good morning, Chef!' Mikhail promptly sends this morning greeting in front of Barinov using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'Mikhail will give us a restroom as we ask.' Talking about the toilet on the spot, Barinov puts the emphasis on "tualet" ("toilet") in the middle of the talk.
+- 'Chef, I only need a tiny moment in there.' Mikhail counters frankly with a sigh, to clear the air between them once and for all.
+- 'Please, do not worry.' Mikhail directly speaks this courtesy word beside Barinov using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Right now we will fix everything quickly.' Mikhail fires back plainly beside Vika and brings in "ispravim" ("will fix, will correct", from "ispravit") as the key Russian word here.
+- 'What is going on there, did the elevator break?' Mikhail asks plainly whether Vika really thought this through.
+- 'No, Mikhail, there is a little problem there.' Describing how small things are with Mikhail, Vika uses "nebolshaya" ("small", from "nebolshoy") to make the point stick.
+- 'I am checking whether everything is ready for the opening.' Talking about the opening right here, Barinov lands on "otkrytiyu" ("for the grand opening", built on "otkrytiye") to keep the statement grounded.
+- 'Would you not like to join us?' Barinov inquires frankly how Mikhail expects that to work in practice.
+- 'We will lose all our guests like this!' Highlighting his guests right here, Mikhail lands on "poteryayem" ("will lose", built on "poteryat") to keep the statement grounded.
+- 'If you want to keep them, stay out of my way!' Barinov pushes back dryly to Mikhail and centers the remark on "sokhranit" ("to preserve") without any extra fuss.
+- 'Goodness, why are you acting like children?' Vika presses quietly if there is more going on behind the scenes.
+- 'Cannot reach an agreement? Toss a coin.' Talking about a coin before Barinov, Vika centers the remark on "dogovoritsya" ("to reach an agreement") without any extra fuss.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, guys, are you completely ready already?' The guest presses deadpan what Fedya is actually getting at here.
-- 'I have never been this ready in my life!' Senya spotlights this sharp word with the guest: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
-- 'Wait, what is that you are holding?' Fedya sends the comment with ease: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'How can that be, that is not fair!' Senya speaks briskly with a sigh, without trying to dress up how he really feels.
-- 'Guys, we made an agreement with each other.' The guest stresses one sharp detail at once: "dogovarivalis" means "had an agreement" (from "dogovarivatsya"), giving the line its exact edge.
-- 'You feed me, and I show you the photo.' The guest focuses on one sharp term at once: "pokazyvayu" means "to show" (from "pokazyvat"), giving the line its exact edge.
-- 'Well then, have you looked enough already?' The guest probes straight out to see how Fedya will answer on the spot.
-- 'Yesterday we added poison to the food!' Senya focuses on this vivid word in reply: "dobavili" means "to add" (from "dobavit"), giving the line its exact edge.
-- 'Did you really think that I would undress?' The guest shapes that thought facing Fedya: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
-- 'Have you completely lost your minds?' The guest tests promptly in front of Senya without any preamble.
-- 'Stand up immediately and get out of here quickly!' The guest spotlights one concrete expression in earnest: "nemedlenno" means "immediately", and it carries the main weight of what the guest is saying.
-- 'Fine, we will take this nice magazine with us.' Fedya brings the remark in earnest: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
+- 'Tell me, guys, are you completely ready already?' The guest presses deadpan while looking straight at Senya here.
+- 'I have never been this ready in my life!' Talking about his life beside the guest, Senya brings in "zhizni" ("life", from "zhizn") as the key Russian word here.
+- 'Wait, what is that you are holding?' Holding firm quietly in this beat, Fedya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'How can that be, that is not fair!' Senya speaks briskly without holding back, keeping the focus on what actually matters here.
+- 'Guys, we made an agreement with each other.' Touching on the boys to Senya, the guest chooses "dogovarivalis" ("had an agreement", from the root "dogovarivatsya") so Senya hears the exact meaning.
+- 'You feed me, and I show you the photo.' The guest counters decisively with a smile, refusing to let the moment slip past.
+- 'Well then, have you looked enough already?' The guest probes straight out how Senya expects that to work in practice.
+- 'Yesterday we added poison to the food!' Highlighting the poison during the talk, Senya centers the thought on "dobavili" ("to add", from "dobavit") without wasting a word.
+- 'Did you really think that I would undress?' Turning promptly during the talk, the guest puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'Have you completely lost your minds?' The guest tests promptly how Fedya expects that to work in practice.
+- 'Stand up immediately and get out of here quickly!' The guest follows up calmly right here and centers the remark on "nemedlenno" ("immediately") without any extra fuss.
+- 'Fine, we will take this nice magazine with us.' Pointing to the log in the exchange, Fedya lands on "krasivyy" ("beautiful") as the key everyday word here.

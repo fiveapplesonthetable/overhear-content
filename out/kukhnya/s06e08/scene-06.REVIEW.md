@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'On the way we almost forgot our son at home.' Kostya reacts plainly in their talk, keeping the focus on what actually matters here.
-- 'Kostya, stop it, that is not funny at all.' Nastya points to this sharp expression in earnest: "perestan" means "stop" (from "perestat"), giving the line its exact edge.
-- 'Welcome upon your arrival, my dear children!' The guest spotlights this clear detail on cue: "priyezdom" means "arrival" (from "priyezd"), giving the line its exact edge.
-- 'Thank you, and what is this man doing here?' Kostya inquires evenly whether Nastya really thought this through.
-- 'Kostik, do not be angry, he had nowhere else to go.' Nastya underscores this telling piece right here: "nekuda" means "nowhere", and it carries the main weight of what Nastya is saying.
-- 'Do not lose your temper in my house.' The guest states that thought with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'After all, he is still your own father.' The guest reacts quietly beside Kostya, leaving no doubt about where he stands.
-- 'And to me, therefore, a close relative.' The guest points to one vivid piece at once: "rodstvennik" means "relative", and it carries the main weight of what the guest is saying.
-- 'So let us go into the house calmly.' The guest shapes that point facing Kostya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'We will spend time in a close family circle.' The guest responds earnestly in this moment, making his position completely clear.
-- 'Just look, everyone around here is red-headed!' The guest stresses this clear element right here: "ryzhiye" means "red-haired" (from "ryzhiy"), giving the line its exact edge.
-- 'And what did I do to deserve such punishment?' Kostya puts that thought on cue: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'On the way we almost forgot our son at home.' Kostya cuts in plainly beside Nastya, before Nastya can change the subject.
+- 'Kostya, stop it, that is not funny at all.' Nastya continues directly beside Kostya and centers the thought on "perestan" ("stop", from "perestat") without wasting a word.
+- 'Welcome upon your arrival, my dear children!' The guest continues bluntly with a nod, steering the talk right where he wants it.
+- 'Thank you, and what is this man doing here?' Kostya inquires evenly before Nastya can change the subject.
+- 'Kostik, do not be angry, he had nowhere else to go.' Nastya proceeds directly at once and lands on "nekuda" ("nowhere") as the key everyday word here.
+- 'Do not lose your temper in my house.' Bringing up his house right here, the guest starts with "davay" ("come on, let's") to invite Nastya right into the action.
+- 'After all, he is still your own father.' The guest pushes back quietly during the talk, keeping the focus on what actually matters here.
+- 'And to me, therefore, a close relative.' Pointing to a close relative around Nastya, the guest reaches for the Russian word "rodstvennik" ("relative") right at the heart of the line.
+- 'So let us go into the house calmly.' Turning to the home right here, the guest starts with "davay" ("come on, let's") to invite Kostya right into the action.
+- 'We will spend time in a close family circle.' The guest continues earnestly with a smile, watching Kostya's face to see how the news lands.
+- 'Just look, everyone around here is red-headed!' The guest fires back candidly in front of Kostya and chooses "ryzhiye" ("red-haired", from the root "ryzhiy") so Kostya hears the exact meaning.
+- 'And what did I do to deserve such punishment?' Turning to the punishment right here, Kostya puts the question word "chto" right at the start so the guest hears the focus immediately.

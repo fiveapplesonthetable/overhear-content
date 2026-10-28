@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I already told you everything last night.' Mikhail speaks up decisively with a smile, refusing to let the moment slip past.
-- 'You must get rid of one cook.' Eleonora features one colorful piece toward Nagiyev: "izbavitsya" means "to get rid of", and it carries the main weight of what Eleonora is saying.
-- 'Do it by any means necessary.' Eleonora shapes that point without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Dima, I only ask you very much.' Eleonora weighs in wryly without a pause, grounding the moment in plain reality.
-- 'Let's keep it calm today, I beg you.' Eleonora centers one direct term in earnest: "segodnya" means "today", and it carries the main weight of what Eleonora is saying.
-- 'Only they feed people much better at your place.' Nagiyev voices this answer with warmth: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'These are rare animals for the evening.' Eleonora opens up promptly without a pause, leaving no doubt about where she stands.
-- 'They will be present at the event.' Eleonora anchors one practical element in reply: "meropriyatii" means "event" (from "meropriyatiye"), giving the line its exact edge.
-- 'Right here is our fur seal.' Eleonora offers this warning toward Mikhail: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'All the money will go toward saving the animals.' Eleonora steps in firmly across the room, grounding the moment in plain reality.
-- 'Well, I was not born yesterday, huh?' Nagiyev emphasizes one clear word at once: "rodilsya" means "was born" (from "roditsya"), giving the line its exact edge.
-- 'We are having a charity evening today.' Nagiyev shares the reaction to Mikhail: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'We were collecting money for them.' Nagiyev weighs in evenly as they talk, testing Eleonora's reaction in the middle of the exchange.
-- 'Tell me straight: what do you want?' Eleonora leans on one familiar piece right here: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'I already told you everything last night.' Mikhail steps in decisively in this moment, leaving no doubt about where he stands.
+- 'You must get rid of one cook.' Highlighting the cook on the spot, Eleonora chooses "dolzhen" ("has to, must") so Mikhail gets the point right away.
+- 'Do it by any means necessary.' Checking on the way around Mikhail, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Dima, I only ask you very much.' Eleonora speaks wryly without any doubt, watching Nagiyev's face to see how the news lands.
+- 'Let's keep it calm today, I beg you.' Eleonora cuts in plainly around Nagiyev and lands on "segodnya" ("today") as the key everyday word here.
+- 'Only they feed people much better at your place.' Nagiyev cuts in promptly across the room, steering the talk right where he wants it.
+- 'These are rare animals for the evening.' Eleonora continues promptly facing Nagiyev, to clear the air between them once and for all.
+- 'They will be present at the event.' Emphasizing the event right here, Eleonora reaches for the Russian word "meropriyatii" ("event", built from "meropriyatiye") right at the center of the line.
+- 'Right here is our fur seal.' Mentioning the kitten in the exchange, Eleonora links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'All the money will go toward saving the animals.' Turning to the animal across the room, Eleonora sets the direction for the rest of the talk with Nagiyev.
+- 'Well, I was not born yesterday, huh?' Nagiyev steps in naturally beside Eleonora and centers the thought on "rodilsya" ("was born", from "roditsya") without wasting a word.
+- 'We are having a charity evening today.' Showing how buffet things are with Eleonora, Nagiyev reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'We were collecting money for them.' Nagiyev speaks evenly toward Eleonora, grounding the moment in plain reality.
+- 'Tell me straight: what do you want?' Eleonora jumps in openly during the talk and leans on "khochesh" ("do you want", a form of "khotet") to give the remark its edge.

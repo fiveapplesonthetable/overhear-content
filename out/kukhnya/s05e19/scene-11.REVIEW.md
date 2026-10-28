@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kitchen, I ask everyone to pay attention!' Max speaks quietly facing Fedya, so Fedya knows he is not just making small talk.
-- 'At first glance, these are ordinary fish trimmings.' Max replies honestly around Senya, to clear the air between them once and for all.
-- 'But if you look at them more closely...' Max sharpens one clear choice toward Fedya: "vnimatelneye" means "more careful" (from "vnimatelnyy"), giving the line its exact edge.
-- 'Now this is our new dish of the day.' Max makes the comment frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'These are exquisite homemade trout sausages.' Max responds pointedly in this moment, to clear the air between them once and for all.
-- 'Those trimmings used to be my own dish of the day.' Senya leans on one sharp element for Max: "obrezki" means "trimmings" (from "obrezok"), giving the line its exact edge.
-- 'Now there is no way to sneak them home from the kitchen.' Senya speaks quietly to settle things, so Fedya knows he is not just making small talk.
-- 'Comrade Chef, taste this dish right here.' Fedya fires back pointedly with a sigh, to clear the air between them once and for all.
-- 'I also prepared a dish of the day out of scraps.' Fedya frames one telling word in reply: "prigotovil" means "cooked" (from "prigotovit"), giving the line its exact edge.
-- 'Well done, Fedya, let's see what is here.' Max drops this line without fuss: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Here is a side dish of fresh potato peels.' Fedya proceeds dryly in their talk, before Max can change the subject.
-- 'I named this dish Provençal slops.' Fedya anchors one practical element at once: "provanskiye" means "Provençal" (from "provanskiy"), giving the line its exact edge.
+- 'Kitchen, I ask everyone to pay attention!' Mentioning the attention at once, Max uses "vnimaniye" ("attention") to carry the main weight of the thought.
+- 'At first glance, these are ordinary fish trimmings.' Max speaks honestly with a smile, steering the talk right where he wants it.
+- 'But if you look at them more closely...' Max answers warmly in this beat and puts the weight on "vnimatelneye" ("more careful", from "vnimatelnyy") as the exchange unfolds.
+- 'Now this is our new dish of the day.' Focusing on the dish on the spot, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'These are exquisite homemade trout sausages.' Max chimes in pointedly with a smile, without trying to dress up how he really feels.
+- 'Those trimmings used to be my own dish of the day.' Addressing the trimmings at once, Senya reaches for the Russian word "obrezki" ("trimmings", built from "obrezok") right at the center of the line.
+- 'Now there is no way to sneak them home from the kitchen.' Focusing on the kitchen in the exchange, Senya uses "kukhni" ("kitchen", from "kukhnya") to make the point stick.
+- 'Comrade Chef, taste this dish right here.' Fedya weighs in pointedly without a pause, leaving no doubt about where he stands.
+- 'I also prepared a dish of the day out of scraps.' Bringing up the waste in front of Max, Fedya lands on "otkhodov" ("waste", built on "otkhody") to keep the statement grounded.
+- 'Well done, Fedya, let's see what is here.' Weighing in firmly before Fedya, Max starts with "davay" ("come on, let's") to invite Fedya right into the action.
+- 'Here is a side dish of fresh potato peels.' Fedya speaks up dryly without holding back, to clear the air between them once and for all.
+- 'I named this dish Provençal slops.' Emphasizing the dish right here, Fedya puts the weight on "provanskiye" ("Provençal", from "provanskiy") as the exchange unfolds.

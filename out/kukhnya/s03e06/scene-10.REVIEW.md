@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you say, my dear ex?' Nagiyev centers one telling term on cue: "byvshaya" means "former" (from "byvshiy"), giving the line its exact edge.
-- 'I propose that we part ways peacefully.' Nagiyev voices the comment without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Hello, do you wish for anything right now?' Max questions quietly about what Kristina just brought up.
-- 'We wish never to see you here again.' Nagiyev stresses this clear expression in reply: "zhelayem" means "to wish" (from "zhelat"), giving the line its exact edge.
-- 'Maxim, you are fired, go home.' Nagiyev picks this sharp touch for Kristina: "uvolen" means "fired" (from "uvolit"), giving the line its exact edge.
-- 'I do not want to upset you, but Maxim is not fired.' Kristina opens up warmly as they talk, grounding the moment in plain reality.
-- 'Well then I am taking him back.' Kristina anchors one practical piece in reply: "obratno" means "back", and it carries the main weight of what Kristina is saying.
-- 'Maxim, congratulations, you are hired again.' Kristina stresses one colorful choice at once: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
-- 'Do not hurry to smile so soon.' Nagiyev proceeds pointedly across the room, without trying to dress up how he really feels.
-- 'For two months you will work for free.' Nagiyev stresses this sharp element in earnest: "mesyatsa" means "months" (from "mesyats"), giving the line its exact edge.
-- 'One more rude insult like that.' Kristina follows up evenly in their talk, letting the remark speak for itself.
-- 'Hello, our lawyer just died.' Kristina stands firm dryly beside Nagiyev, steering the talk right where she wants it.
+- 'What do you say, my dear ex?' Nagiyev answers plainly in front of Max and chooses "byvshaya" ("former", from the root "byvshiy") so Max hears the exact meaning.
+- 'I propose that we part ways peacefully.' Looking over frankly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Hello, do you wish for anything right now?' Max casually extends this formal greeting toward Nagiyev using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'We wish never to see you here again.' Nagiyev proceeds dryly in front of Max and uses "zhelayem" ("to wish", from "zhelat") to make the point stick.
+- 'Maxim, you are fired, go home.' Nagiyev jumps in calmly toward Max, keeping the focus on what actually matters here.
+- 'I do not want to upset you, but Maxim is not fired.' Kristina pushes back warmly without any doubt, letting the remark speak for itself.
+- 'Well then I am taking him back.' Kristina replies plainly right here and reaches for the Russian word "togda" ("back then") right at the heart of the line.
+- 'Maxim, congratulations, you are hired again.' Kristina speaks up boldly beside Max, before Max can change the subject.
+- 'Do not hurry to smile so soon.' Nagiyev steps in pointedly without holding back, before Kristina can change the subject.
+- 'For two months you will work for free.' Touching on the months in this beat, Nagiyev lands on "mesyatsa" ("months", built on "mesyats") to keep the statement grounded.
+- 'One more rude insult like that.' Pointing to the insult to Nagiyev, Kristina chooses "oskorbleniye" ("insult") so Nagiyev gets the point right away.
+- 'Hello, our lawyer just died.' Kristina steps in dryly in this moment, so Nagiyev knows she is not just making small talk.

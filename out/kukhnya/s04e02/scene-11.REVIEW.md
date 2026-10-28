@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just look who showed up.' Senya shares that reply briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'What did he order?' Senya questions quietly as Vika tries to explain the situation.
-- 'The chef's special.' Max focuses on this telling expression in earnest: "blyudo" means "dish", and it carries the main weight of what Max is saying.
-- 'He will get a dish alright.' Senya voices that line to Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'The chef's special is ready.' Senya follows up quietly with Max, saying out loud what both of them already know.
-- 'That name is in French.' Senya uses this vivid detail on cue: "po-frantsuzski" means "in French", and it carries the main weight of what Senya is saying.
-- 'It sounds beautiful.' Max gives this warning frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Vika, well, what do you think?' Max probes briskly to see how Vika will answer on the spot.
-- 'Well, there is no fracture, it is only a scratch.' Max reaches for this telling word in reply: "tsarapina" means "a scratch", and it carries the main weight of what Max is saying.
-- 'And what if he kills me by accident?' Vika shares this update without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'I promise he will not mess up again.' Max follows up evenly without holding back, saying out loud what both of them already know.
-- 'This is for you. What?' Max phrases this line toward Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Just look who showed up.' Pressing on candidly right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'What did he order?' Senya questions quietly where this conversation is heading next.
+- 'The chef's special.' Underscoring the dish in the exchange, Max reaches for the Russian word "blyudo" ("dish") right at the heart of the line.
+- 'He will get a dish alright.' Touching on a dish in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'The chef's special is ready.' Senya opens up quietly in this moment, testing Max's reaction in the middle of the exchange.
+- 'That name is in French.' Senya reacts briskly right here and chooses "po-frantsuzski" ("in French") so Max gets the point right away.
+- 'It sounds beautiful.' Leaning in earnestly around Senya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Vika, well, what do you think?' Max probes briskly while looking straight at Vika here.
+- 'Well, there is no fracture, it is only a scratch.' Bringing up a scratch in the exchange, Max puts the emphasis on "tsarapina" ("a scratch") in the middle of the talk.
+- 'And what if he kills me by accident?' Jumping in naturally with Max, Vika keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'I promise he will not mess up again.' Max reacts evenly on the spot, watching Vika's face to see how the news lands.
+- 'This is for you. What?' Answering plainly beside Vika, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.

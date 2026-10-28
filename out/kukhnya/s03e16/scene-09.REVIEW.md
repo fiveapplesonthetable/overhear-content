@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My new sauce will be for tender salmon!' Max chimes in at once to settle things, steering the talk right where he wants it.
-- 'The salmon will be happy that it will be served under Sauce Lavrov!' Max emphasizes this sharp detail in earnest: "schastliva" means "happy" (from "schastlivyy"), giving the line its exact edge.
-- 'Yes, only I still need to think about the name.' Max hands over this answer before Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Well, a draft in the kitchen I can still understand.' Barinov responds quietly to settle things, shifting the whole mood of the room in a single beat.
-- 'But how did a bag of flour fly into the wall by itself?' Barinov spotlights one sharp element at once: "priletel" means "flew" (from "priletet"), giving the line its exact edge.
-- 'Denying ghosts is foolish when there are no facts and proof.' Max responds warmly with Senya, saying out loud what both of them already know.
-- 'But in your case everything is very simple, Chef.' Max jumps in honestly without holding back, refusing to let the moment slip past.
-- 'Fedya, did you see how scared everyone got today?' Senya uses one concrete term at once: "ispugalis" means "got scared" (from "ispugatsya"), giving the line its exact edge.
-- 'Soon they will all be stuttering from fear, even the chef!' Senya sends this update for Barinov: the "-sya" ending on "zaikatsya" ("to stutter") turns the action inward or makes it happen between people naturally.
-- 'My wife will make such delicious meat jelly at home!' Senya speaks up dryly with a smile, refusing to let the moment slip past.
-- 'And the main sponsor of our meat jelly is the poltergeist!' Senya emphasizes this telling expression on cue: "poltergeyst" means "poltergeist", and it carries the main weight of what Senya is saying.
-- 'Well, now I am going to give those two pranksters what for!' Barinov counters openly toward Senya, bringing things back to earth after the buildup.
+- 'My new sauce will be for tender salmon!' Max chimes in at once around Barinov, before Barinov can change the subject.
+- 'The salmon will be happy that it will be served under Sauce Lavrov!' Highlighting the salmon in the exchange, Max uses "schastliva" ("happy", from "schastlivyy") to make the point stick.
+- 'Yes, only I still need to think about the name.' Touching on the name in front of Barinov, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Well, a draft in the kitchen I can still understand.' Barinov chimes in quietly with a nod, steering the talk right where he wants it.
+- 'But how did a bag of flour fly into the wall by itself?' Addressing a bag in front of Max, Barinov leans on "paket" ("the plastic bag") to give the whole sentence its punch.
+- 'Denying ghosts is foolish when there are no facts and proof.' Emphasizing the proof during the talk, Max lands on "dokazatelstv" ("proof, evidence", built on "dokazatelstvo") to keep the statement grounded.
+- 'But in your case everything is very simple, Chef.' Max speaks honestly with a smile, letting the remark speak for itself.
+- 'Fedya, did you see how scared everyone got today?' Senya counters quietly before Max and chooses "ispugalis" ("got scared", from the root "ispugatsya") so Max hears the exact meaning.
+- 'Soon they will all be stuttering from fear, even the chef!' Bringing up the fear in this beat, Senya uses "strakha" ("fear", from "strakh") to make the point stick.
+- 'My wife will make such delicious meat jelly at home!' Senya replies dryly facing Barinov, letting the remark speak for itself.
+- 'And the main sponsor of our meat jelly is the poltergeist!' Turning to the poltergeist in this beat, Senya uses "poltergeyst" ("poltergeist") to carry the main weight of the thought.
+- 'Well, now I am going to give those two pranksters what for!' Highlighting the pranksters beside Senya, Barinov lands on "shutnikam" ("to the pranksters", built on "shutnik") to keep the statement grounded.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When you disappeared, your wife and I alerted everyone.' Max reacts calmly with Rodion, shifting the whole mood of the room in a single beat.
-- 'Wait, do you personally know this man?' Vika chooses one key piece with Rodion: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'This is Rodion Gromov, a major businessman and my friend!' Max puts the reply with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He unexpectedly disappeared exactly three years ago.' Max replies briskly without a pause, without trying to dress up how he really feels.
-- 'I had no idea at all, forgive me, Rodion.' Max features this vivid expression on cue: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'I am fed up to the teeth with you and your projects, we are leaving!' Max continues evenly without a pause, refusing to let the moment slip past.
-- 'Come in, Eva, right here is where I live now.' Max responds at once before Rodion, shifting the whole mood of the room in a single beat.
-- 'Whoa, it is actually very cute at your place here.' Rodion highlights one direct term in reply: "milenko" means "cute, cozy", and it carries the main weight of what Rodion is saying.
-- 'I did not think that a guy could have such an apartment.' Vika steps in right away to be clear, letting the remark speak for itself.
-- 'I have wild passion, what do you like more?' Max asks skeptically while looking straight at Vika here.
-- 'Let us try absolutely everything tonight.' Rodion points to this key choice in earnest: "poprobuyem" means "try" (from "poprobovat"), giving the line its exact edge.
-- 'I am going to the bathroom, and you can take off everything extra.' Max chooses this telling word toward Vika: "lishneye" means "extra, unnecessary" (from "lishniy"), giving the line its exact edge.
+- 'When you disappeared, your wife and I alerted everyone.' Max answers calmly with a shrug, grounding the moment in plain reality.
+- 'Wait, do you personally know this man?' Vika opens up evenly with Max and centers the thought on "podozhdite" ("wait", from "podozhdat") without wasting a word.
+- 'This is Rodion Gromov, a major businessman and my friend!' Checking on a major businessman to Rodion, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He unexpectedly disappeared exactly three years ago.' Max replies briskly with a sigh, leaving no doubt about where he stands.
+- 'I had no idea at all, forgive me, Rodion.' Underscoring the course right here, Max puts the weight on "kurse" ("course, regimen", from "kurs") as the exchange unfolds.
+- 'I am fed up to the teeth with you and your projects, we are leaving!' Addressing the projects on the spot, Max brings in "proyektami" ("with projects", from "proyekt") as the key Russian word here.
+- 'Come in, Eva, right here is where I live now.' Max chimes in at once watching Rodion, letting the remark speak for itself.
+- 'Whoa, it is actually very cute at your place here.' Rodion speaks up openly on the spot and lands on "milenko" ("cute, cozy") as the key everyday word here.
+- 'I did not think that a guy could have such an apartment.' Focusing on the flat in the exchange, Vika chooses "kvartira" ("flat") so Rodion gets the point right away.
+- 'I have wild passion, what do you like more?' Max asks skeptically to see how Rodion will answer on the spot.
+- 'Let us try absolutely everything tonight.' Rodion cuts in readily on the spot and puts the weight on "poprobuyem" ("try", from "poprobovat") as the exchange unfolds.
+- 'I am going to the bathroom, and you can take off everything extra.' Max follows up candidly facing Rodion, leaving no doubt about where he stands.

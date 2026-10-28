@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, why are you torturing yourself for so long?' Fedya voices this warning without fuss: the "-sya" ending on "muchayeshsya" ("are torturing yourself") turns the action inward or makes it happen between people naturally.
-- 'Chef, I trust you more than anyone in the world.' Senya speaks up frankly as things stand, without trying to dress up how he really feels.
-- 'You will do it quickly and very professionally.' Senya reaches for this clear expression on cue: "kachestvenno" means "with high quality", and it carries the main weight of what Senya is saying.
-- 'Fine, make it twenty thousand, and we have a deal.' Barinov voices that reply at once: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Tell me, are you mentally ready for this already?' Barinov presses candidly what Fedya is actually getting at here.
-- 'Fedya, hold him tightly by both arms.' Barinov highlights one direct detail in reply: "poderzhi" means "hold", and it carries the main weight of what Barinov is saying.
-- 'Chef, you are a grown man, what are you doing?' Fedya states the comeback without pause: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Alright, and what is going on in here with you?' Fedya quizzes straight out about what Senya just brought up.
-- 'Nothing special, we are having quiet hour.' Barinov highlights this telling element right here: "osobennogo" means "special, particular" (from "osobennyy"), giving the line its exact edge.
-- 'Victor Petrovich, maybe we should have one shot each?' Senya frames that remark with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
-- 'Now that is truly a businesslike proposal!' Barinov weighs in dryly without holding back, letting the remark speak for itself.
-- 'Please, pour it into the glasses right away.' Senya grounds one practical expression right here: "nalivayte" means "pour" (from "nalivat"), giving the line its exact edge.
+- 'Senya, why are you torturing yourself for so long?' Holding firm promptly during the talk, Fedya keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Chef, I trust you more than anyone in the world.' Talking about the world with a shrug, Senya speaks plainly so Barinov gets the message at once.
+- 'You will do it quickly and very professionally.' Senya responds briskly to Barinov and lands on "kachestvenno" ("with high quality") as the key everyday word here.
+- 'Fine, make it twenty thousand, and we have a deal.' Mentioning the thousand before Senya, Barinov starts with "davay" ("come on, let's") to invite Senya right into the action.
+- 'Tell me, are you mentally ready for this already?' Barinov presses candidly while looking straight at Fedya here.
+- 'Fedya, hold him tightly by both arms.' Touching on the hold on the spot, Barinov brings in "poderzhi" ("hold") to make the meaning unmistakable.
+- 'Chef, you are a grown man, what are you doing?' Looking over calmly before Barinov, Fedya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Alright, and what is going on in here with you?' Fedya quizzes straight out before Barinov can change the subject.
+- 'Nothing special, we are having quiet hour.' Describing how special things are in this beat, Barinov reaches for the Russian word "osobennogo" ("special, particular", built from "osobennyy") right at the center of the line.
+- 'Victor Petrovich, maybe we should have one shot each?' Focusing on the shot glass at once, Senya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Now that is truly a businesslike proposal!' Barinov proceeds dryly hearing Senya, steering the talk right where he wants it.
+- 'Please, pour it into the glasses right away.' Discussing the glasses right here, Senya centers the thought on "nalivayte" ("pour", from "nalivat") without wasting a word.

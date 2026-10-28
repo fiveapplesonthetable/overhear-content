@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, I was warned that he is not entirely normal.' Nastya features one colorful choice toward Vika: "preduprezhdali" means "to warn" (from "preduprezhdat"), giving the line its exact edge.
-- 'Indeed, he is rarely in a good mood.' Vika pushes back right away with Nastya, keeping the focus on what actually matters here.
-- 'Just like my boss.' Nastya stands firm briskly in their talk, bringing things back to earth after the buildup.
-- 'Could you perhaps speak with me after all?' Vika underscores one practical expression in earnest: "pogovorite" means "have a word" (from "pogovorit"), giving the line its exact edge.
-- 'My boss is a huge fan of exotic cuisine.' Nastya brings this answer with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You see, we do not have turtle soup on our menu.' Vika fires back briskly without holding back, letting the remark speak for itself.
-- 'We are a French restaurant.' Nastya focuses on this telling touch at once: "frantsuzskiy" means "French", and it carries the main weight of what Nastya is saying.
-- 'We already took care of that.' Vika puts this update facing Nastya: the "-sya" ending on "pozabotilis" ("to take care of") turns the action inward or makes it happen between people naturally.
-- 'I understand.' Nastya jumps in lightly before Vika, watching Vika's face to see how the news lands.
-- 'The thing is.' Vika favors one practical word right here: "delo" means "matter", and it carries the main weight of what Vika is saying.
-- 'Think about it very carefully.' Nastya aims this line toward Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Either a generous tip, or big problems.' Vika answers frankly in their talk, without trying to dress up how she really feels.
-- 'Well, figure something out.' Nastya anchors one memorable expression in reply: "pridumay" means "think up, figure out" (from "pridumat"), giving the line its exact edge.
+- 'Yes, I was warned that he is not entirely normal.' Nastya opens up pointedly on the spot and uses "preduprezhdali" ("to warn", from "preduprezhdat") to make the point stick.
+- 'Indeed, he is rarely in a good mood.' Highlighting a good mood before Nastya, Vika centers the remark on "nastroyeniye" ("mood") without any extra fuss.
+- 'Just like my boss.' Nastya counters briskly without holding back, shifting the mood of the conversation in a single beat.
+- 'Could you perhaps speak with me after all?' Vika responds vividly before Nastya and leans on "pogovorite" ("have a word", a form of "pogovorit") to give the remark its edge.
+- 'My boss is a huge fan of exotic cuisine.' Showing how exotic things are around Vika, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You see, we do not have turtle soup on our menu.' Vika speaks briskly toward Nastya, shifting the mood of the conversation in a single beat.
+- 'We are a French restaurant.' Turning to a restaurant in the exchange, Nastya puts the emphasis on "frantsuzskiy" ("French") in the middle of the talk.
+- 'We already took care of that.' Answering plainly around Nastya, the "-sya" ending on "pozabotilis" ("to take care of") marks an action that unfolds mutually or turns back on the speaker.
+- 'I understand.' Nastya weighs in lightly in their talk, steering the talk right where she wants it.
+- 'The thing is.' Discussing the matter during the talk, Vika uses "delo" ("matter") to carry the main weight of the thought.
+- 'Think about it very carefully.' Pushing back directly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Either a generous tip, or big problems.' Vika answers frankly in this moment, watching Nastya's face to see how the news lands.
+- 'Well, figure something out.' Nastya fires back candidly at once and chooses "pridumay" ("think up, figure out", from the root "pridumat") so Vika hears the exact meaning.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, wait, please, stop right there!' Max shares this line in earnest: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Well, Maxim, are you finally satisfied now?' Barinov inquires openly what Vika is actually getting at here.
-- 'Why did you drive my own girl to tears?' Barinov uses this direct choice in earnest: "devchonku" means "girl" (from "devchonka"), giving the line its exact edge.
-- 'You played with her while Vika was away, and dumped her?' Barinov hands over that remark with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Chef, what are these strange hints? Nothing happened!' Max questions bluntly if there is more going on behind the scenes.
-- 'Lavrov, at least do not lie to my face!' Barinov grounds one telling touch in earnest: "glaza" means "eyes" (from "glaz"), giving the line its exact edge.
-- 'I saw with my own eyes how the two of you were kissing in the kitchen three days ago!' Barinov offers the thought without pause: the "-sya" ending on "tselovalis" ("were kissing") turns the action inward or makes it happen between people naturally.
-- 'Do you ever think about anyone besides yourself or not?' Barinov checks firmly how Vika expects that to work in practice.
-- 'Vika, wait, I will honestly explain everything to you right now!' Max leans on this telling word in reply: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Why explain? I had only believed you for a second.' Vika gives the reply briskly now: putting the question word "zachem" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'So it is no big deal, I had not gotten used to it yet.' Vika chimes in at once with a sigh, saying out loud what both of them already know.
-- 'And it does not hurt me at all right now, not very much.' Vika stresses one memorable word toward Max: "seychas" means "now", and it carries the main weight of what Vika is saying.
+- 'Katya, wait, please, stop right there!' Emphasizing the place right here, Max leans on "podozhdi" ("wait", a form of "podozhdat") to give the remark its edge.
+- 'Well, Maxim, are you finally satisfied now?' Barinov inquires openly to see how Max will answer on the spot.
+- 'Why did you drive my own girl to tears?' Bringing up the girl before Max, Barinov brings in "devchonku" ("girl", from "devchonka") as the key Russian word here.
+- 'You played with her while Vika was away, and dumped her?' Holding firm briskly beside Max, Barinov keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Chef, what are these strange hints? Nothing happened!' Max questions bluntly what Barinov is actually getting at here.
+- 'Lavrov, at least do not lie to my face!' Addressing the eyes in front of Max, Barinov centers the thought on "glaza" ("eyes", from "glaz") without wasting a word.
+- 'I saw with my own eyes how the two of you were kissing in the kitchen three days ago!' Barinov fires back right away watching Max, refusing to let the moment slip past.
+- 'Do you ever think about anyone besides yourself or not?' Barinov checks firmly to see how Max will answer on the spot.
+- 'Vika, wait, I will honestly explain everything to you right now!' Max speaks up calmly in the exchange and uses "podozhdi" ("wait", from "podozhdat") to make the point stick.
+- 'Why explain? I had only believed you for a second.' Reacting calmly right here, Vika puts the question word "zachem" right at the start so Max hears the focus immediately.
+- 'So it is no big deal, I had not gotten used to it yet.' Vika responds at once with a smile, keeping the focus on what actually matters here.
+- 'And it does not hurt me at all right now, not very much.' Vika cuts in frankly at once and centers the remark on "sovsem" ("at all") without any extra fuss.

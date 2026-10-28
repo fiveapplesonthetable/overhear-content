@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did you come here from?' Max gives this statement plainly here: putting the question word "otkuda" right at the front of the line lets Kristina hear the point of the question on the very first beat.
-- 'From Voronezh.' Nastya replies right away to be clear, keeping the focus on what actually matters here.
-- 'What is your name?' Kristina underscores one direct expression on cue: "zovut" means "call" (from "zvat"), giving the line its exact edge.
-- 'Take your hand off!' Max voices that remark right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Your real name!' Nastya fires back earnestly with a sigh, leaving no doubt about where she stands.
-- 'Tell that Kristina to go to hell.' Kristina leans on one clear element in reply: "poshli" means "let's go" (from "poyti"), giving the line its exact edge.
-- 'Come on now.' Max states the remark with candor: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kristina is on board.
-- 'We will find a new job.' Nastya replies quietly with a smile, refusing to let the moment slip past.
-- 'You are not an animal, after all.' Kristina chooses this telling detail on cue: "zhivotnoye" means "animal", and it carries the main weight of what Kristina is saying.
-- 'To be forced into something just like that.' Max lays out the comment with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Well, yes.' Nastya chimes in pointedly across the room, letting the remark speak for itself.
-- 'All right, I will go talk to her.' Kristina stresses one direct choice on cue: "pogovoryu" means "I'll talk" (from "pogovorit"), giving the line its exact edge.
-- 'Lavrov, did I warn you?' Max makes this warning at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Kristina purely through rising pitch at the end.
+- 'Where did you come here from?' Holding firm earnestly right here, Max puts the question word "otkuda" right at the start so Nastya hears the focus immediately.
+- 'From Voronezh.' Nastya steps in right away hearing Max, making her position completely clear.
+- 'What is your name?' Kristina opens up candidly on the spot and reaches for the Russian word "zovut" ("call", built from "zvat") right at the center of the line.
+- 'Take your hand off!' Mentioning the hand around Kristina, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Your real name!' Nastya speaks up earnestly hearing Max, watching Max's face to see how the news lands.
+- 'Tell that Kristina to go to hell.' Kristina replies vividly in this beat and puts the weight on "poshli" ("let's go", from "poyti") as the exchange unfolds.
+- 'Come on now.' Max calmly voices this word of agreement toward Kristina using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'We will find a new job.' Nastya speaks quietly with a nod, testing Max's reaction in the middle of the exchange.
+- 'You are not an animal, after all.' Discussing an animal in this beat, Kristina centers the remark on "zhivotnoye" ("animal") without any extra fuss.
+- 'To be forced into something just like that.' Turning quietly on the spot, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Well, yes.' Nastya reacts pointedly watching Max, leaving no doubt about where she stands.
+- 'All right, I will go talk to her.' Kristina naturally directs this word of agreement without hesitation using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Lavrov, did I warn you?' Answering calmly right here, Max keeps normal statement word order here, turning the line into a question for Kristina purely through rising pitch.

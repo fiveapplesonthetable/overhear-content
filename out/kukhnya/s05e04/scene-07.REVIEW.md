@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good thing our partners are not home right now.' Fedya features one vivid element in reply: "sozhiteley" means "of roommates" (from "sozhitel"), giving the line its exact edge.
-- 'My main hero is already in here!' Senya brings the reply with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Senya, where are you?' Fedya asks evenly whether Barinov really thought this through.
-- 'Except Senya stayed behind on room service.' Fedya uses this key element toward Senya: "rum-servise" means "room service" (from "rum-servis"), giving the line its exact edge.
-- 'Wait, you were supposed to work it.' Senya uses one memorable piece in reply: "dolzhen" means "has to, must", and it carries the main weight of what Senya is saying.
-- 'Yes, well, he asked me to swap shifts with him.' Fedya follows up bluntly without a pause, steering the talk right where he wants it.
-- 'And what do we do now?' Senya picks one memorable element in reply: "teper" means "now", and it carries the main weight of what Senya is saying.
-- 'Mikhail, a one-to-one score humiliates us both.' Fedya speaks sharply toward Senya, bringing things back to earth after the buildup.
-- 'Let me just beat you already and be done with this.' Barinov opens up dryly facing Fedya, testing Fedya's reaction in the middle of the exchange.
-- 'Back off from me, Vitya.' Fedya favors one familiar piece for Senya: "otvali" means "back off" (from "otvalit"), giving the line its exact edge.
-- 'There will be no rematch.' Barinov frames this point with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'If you want to slap cards around, go play solitaire.' Barinov weighs in steadily facing Senya, letting the remark speak for itself.
+- 'Good thing our partners are not home right now.' Highlighting the roommates on the spot, Fedya lands on "sozhiteley" ("of roommates", built on "sozhitel") to keep the statement grounded.
+- 'My main hero is already in here!' Emphasizing how main things are before Fedya, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Senya, where are you?' Fedya asks evenly why things suddenly took this turn between them.
+- 'Except Senya stayed behind on room service.' Touching on the room service around Senya, Fedya reaches for the Russian word "rum-servise" ("room service", built from "rum-servis") right at the center of the line.
+- 'Wait, you were supposed to work it.' Senya speaks plainly with a nod, shifting the mood of the conversation in a single beat.
+- 'Yes, well, he asked me to swap shifts with him.' Fedya answers sharply with a smile, bringing things back to earth after the buildup.
+- 'And what do we do now?' Reacting smoothly during the talk, Senya puts the question word "chto" right at the start so Fedya hears the focus immediately.
+- 'Mikhail, a one-to-one score humiliates us both.' Underscoring the account at once, Fedya lands on "unizhayet" ("humiliates", built on "unizhat") to keep the statement grounded.
+- 'Let me just beat you already and be done with this.' Barinov follows up dryly facing Fedya, testing Fedya's reaction in the middle of the exchange.
+- 'Back off from me, Vitya.' Fedya speaks earnestly with Barinov and puts the weight on "otvali" ("back off", from "otvalit") as the exchange unfolds.
+- 'There will be no rematch.' Focusing on the rematch with Fedya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'If you want to slap cards around, go play solitaire.' Barinov speaks steadily with Fedya, grounding the moment in plain reality.

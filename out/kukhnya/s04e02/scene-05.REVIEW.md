@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, come on, don't start.' Max frames the thought briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Today I will get him a job.' Max weighs in decisively with Vika, to clear the air between them once and for all.
-- 'He will start earning money and move out.' Max chooses one classic term at once: "zarabatyvat" means "to earn money", and it carries the main weight of what Max is saying.
-- 'You will get him a job? And where?' Vika phrases that reply right away: putting the question word "kuda" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'No, I will pull some strings.' Max continues honestly without a pause, bringing things back to earth after the buildup.
-- 'My wife is the director at a certain French restaurant.' Max features one pointed detail with Vika: "frantsuzskom" means "French" (from "frantsuzskiy"), giving the line its exact edge.
-- 'I will ask her and she will hire him as a waiter.' Max continues briskly on the spot, before Nagiyev can change the subject.
-- 'So you decided to shift the whole problem onto me?' Vika wonders calmly where this conversation is heading next.
-- 'It is me. It was slippery, but everything is fine now.' Nagiyev sharpens one sharp detail toward Max: "normalno" means "fine, OK", and it carries the main weight of what Nagiyev is saying.
-- 'Hello, Aslan.' Nagiyev shapes the remark with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Hello, my dear friend.' Nagiyev counters evenly before Max, without trying to dress up how he really feels.
-- 'Well, I will call back. Take care.' Nagiyev picks one practical expression with Vika: "perezvonyu" means "will call back" (from "perezvonit"), giving the line its exact edge.
+- 'Vika, come on, don't start.' Holding firm smoothly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Today I will get him a job.' Max replies decisively on the spot, bringing things back to earth after the buildup.
+- 'He will start earning money and move out.' Max jumps in quietly in this beat and lands on "zarabatyvat" ("to earn money") as the key everyday word here.
+- 'You will get him a job? And where?' Jumping in frankly right here, Vika puts the question word "kuda" right at the start so Max hears the focus immediately.
+- 'No, I will pull some strings.' Max cuts in honestly around Vika, leaving no doubt about where he stands.
+- 'My wife is the director at a certain French restaurant.' Highlighting the restaurant beside Vika, Max puts the weight on "frantsuzskom" ("French", from "frantsuzskiy") as the exchange unfolds.
+- 'I will ask her and she will hire him as a waiter.' Discussing a waiter on the spot, Max leans on "ofitsiantom" ("waiter, server", a form of "ofitsiant") to give the remark its edge.
+- 'So you decided to shift the whole problem onto me?' Vika wonders calmly why things suddenly took this turn between them.
+- 'It is me. It was slippery, but everything is fine now.' Nagiyev continues promptly at once and chooses "normalno" ("fine, OK") so Vika gets the point right away.
+- 'Hello, Aslan.' Pressing on frankly right here, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Hello, my dear friend.' Nagiyev calmly delivers this familiar greeting with Vika using "zdravstvuy" ("hello") — the singular form of the classic greeting that literally means "be healthy".
+- 'Well, I will call back. Take care.' Nagiyev opens up candidly during the talk and reaches for the Russian word "perezvonyu" ("will call back", built from "perezvonit") right at the center of the line.

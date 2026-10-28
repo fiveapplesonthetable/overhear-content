@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Dad!' Nastya jumps in plainly in this moment, before Max can change the subject.
-- 'Let me hug you. I am at work.' Nastya points to one telling term right here: "rabote" means "work" (from "rabota"), giving the line its exact edge.
-- 'Why didn't you warn me that you were coming?' Nastya delivers this statement toward Max: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'My partners and I have negotiations here.' Nastya speaks up lightly beside Vika, to clear the air between them once and for all.
-- 'Will you feed us? Me — no.' Nastya favors one clear touch with Max: "pokormish" means "will feed" (from "pokormit"), giving the line its exact edge.
-- 'Maxim can serve you.' Nastya delivers this answer frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Hello! Let's go to the table.' Max reacts steadily with a nod, steering the talk right where he wants it.
-- 'I am listening.' Vika features this sharp piece in earnest: "slushayu" means "I'm listening" (from "slushat"), giving the line its exact edge.
-- 'This is for you.' Max shapes that remark before Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Thank you.' Vika replies boldly beside Nastya, to clear the air between them once and for all.
-- 'Who is being so generous here?' Max underscores this clear word right here: "shchedryy" means "generous", and it carries the main weight of what Max is saying.
-- 'Did you want a fine again? Go work.' Vika states the comment with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Hi, Dad!' Nastya casually speaks this casual greeting at this moment using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Let me hug you. I am at work.' Pointing to the work to Max, Nastya uses "rabote" ("work", from "rabota") to make the point stick.
+- 'Why didn't you warn me that you were coming?' Replying naturally at once, Nastya puts the question word "pochemu" right at the start so Max hears the focus immediately.
+- 'My partners and I have negotiations here.' Nastya weighs in lightly facing Max, shifting the mood of the conversation in a single beat.
+- 'Will you feed us? Me — no.' Nastya cuts in plainly in the exchange and puts the weight on "pokormish" ("will feed", from "pokormit") as the exchange unfolds.
+- 'Maxim can serve you.' Stepping in candidly to Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Hello! Let's go to the table.' Max readily voices this formal greeting in front of Vika using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'I am listening.' Vika chimes in pointedly in the exchange and chooses "slushayu" ("I'm listening", from the root "slushat") so Max hears the exact meaning.
+- 'This is for you.' Turning promptly right here, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Thank you.' Vika directly speaks this word of thanks beside Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Who is being so generous here?' Explaining how generous things are at once, Max chooses "shchedryy" ("generous") so Vika gets the point right away.
+- 'Did you want a fine again? Go work.' Bringing up a fine in the exchange, Vika keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.

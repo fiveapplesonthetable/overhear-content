@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, please come on through.' German weighs in candidly to be clear, keeping the focus on what actually matters here.
-- 'They stole a copper sauté pan.' German underscores one vivid element on cue: "soteynik" means "pan", and it carries the main weight of what German is saying.
-- 'Nothing else disappeared.' Vika shares this answer with candor: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'I cannot find the sturgeon.' Senya speaks promptly to settle things, leaving no doubt about where he stands.
-- 'It seems to me they stole it along with the pan.' Senya colors this vivid touch on cue: "soteynikom" means "pan" (from "soteynik"), giving the line its exact edge.
-- 'You called us in over this nonsense?' Vika hands over this update to Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'Excuse me, this is not nonsense.' German fires back boldly to be clear, to clear the air between them once and for all.
-- 'For a chef, this is the most important thing.' German favors this vivid detail for Vika: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.
-- 'And what if someone stole a pistol from you?' German lays out this point at once: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Well then, shall we have some fun?' Vika asks evenly while looking straight at Senya here.
-- 'No, we must draw on paper.' Vika emphasizes this key element in reply: "bumage" means "paper" (from "bumaga"), giving the line its exact edge.
-- 'Have you already started having fun without me?' Vika shapes this update in earnest: the "-sya" ending on "veselitsya" ("to without") turns the action inward or makes it happen between people naturally.
+- 'Hello, please come on through.' German politely uses this formal greeting while facing Vika using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'They stole a copper sauté pan.' Emphasizing the pan with Vika, German centers the remark on "soteynik" ("pan") without any extra fuss.
+- 'Nothing else disappeared.' Pressing on warmly to German, Vika pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I cannot find the sturgeon.' Senya weighs in promptly without any doubt, without trying to dress up how he really feels.
+- 'It seems to me they stole it along with the pan.' Emphasizing the pan before Vika, Senya lands on "soteynikom" ("pan", built on "soteynik") to keep the statement grounded.
+- 'You called us in over this nonsense?' Looking over naturally with German, Vika keeps normal statement word order here, turning the line into a question for German purely through rising pitch.
+- 'Excuse me, this is not nonsense.' German naturally shares this polite apology in one quick breath using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'For a chef, this is the most important thing.' Emphasizing how important things are before Vika, German puts the weight on "glavnoye" ("important", from "glavnyy") as the exchange unfolds.
+- 'And what if someone stole a pistol from you?' Discussing a pistol before Vika, German keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Well then, shall we have some fun?' Vika asks evenly while looking straight at German here.
+- 'No, we must draw on paper.' Turning to the paper around German, Vika uses "bumage" ("paper", from "bumaga") to make the point stick.
+- 'Have you already started having fun without me?' Answering warmly during the talk, the "-sya" ending on "veselitsya" ("to without") marks an action that unfolds mutually or turns back on the speaker.

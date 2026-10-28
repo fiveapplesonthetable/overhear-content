@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, little one!' Max shapes this answer without fuss: opening with the casual greeting "privet" ("hi") signals right away that Max and Lyova are on familiar terms.
-- 'Do you know who you are having?' Max checks frankly while looking straight at Vika here.
-- 'No. Stop it!' Vika picks one classic word with Lyova: "prekrati" means "stop it" (from "prekratit"), giving the line its exact edge.
-- 'And why do I not know?' Max offers the thought with ease: putting the question word "pochemu" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'You have to tell me.' Max responds bluntly on the spot, grounding the moment in plain reality.
-- 'I do not owe you anything.' Vika favors one familiar piece at once: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
-- 'Keep living just like before.' Vika hands over the reaction with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I have changed, I will prove it right now.' Max reacts boldly across the room, to clear the air between them once and for all.
-- 'Kitchen, attention!' Max grounds this key choice on cue: "vnimaniye" means "attention", and it carries the main weight of what Max is saying.
-- 'From this moment I stop lying.' Max chimes in dryly with a sigh, watching Vika's face to see how the news lands.
-- 'And I will speak only the truth.' Max continues right away as things stand, shifting the whole mood of the room in a single beat.
-- 'Quickly back to work, Lavrov!' Lyova picks one direct touch toward Vika: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
-- 'Did you chop the carrots?' Lyova phrases the comment for Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Hello, little one!' Max briskly speaks this casual greeting in front of Vika using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Do you know who you are having?' Max checks frankly if there is more going on behind the scenes.
+- 'No. Stop it!' Vika opens up promptly in this beat and reaches for the Russian word "prekrati" ("stop it", built from "prekratit") right at the center of the line.
+- 'And why do I not know?' Following up smoothly around Vika, Max puts the question word "pochemu" right at the start so Vika hears the focus immediately.
+- 'You have to tell me.' Max answers bluntly on the spot, refusing to let the moment slip past.
+- 'I do not owe you anything.' Vika replies warmly with Max and puts the weight on "dolzhna" ("should, must", from "dolzhen") as the exchange unfolds.
+- 'Keep living just like before.' Replying briskly to Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I have changed, I will prove it right now.' Max chimes in boldly with a nod, bringing things back to earth after the buildup.
+- 'Kitchen, attention!' Discussing the attention with Vika, Max lands on "vnimaniye" ("attention") as the key everyday word here.
+- 'From this moment I stop lying.' Touching on the moment during the talk, Max reaches for the Russian word "prekrashchayu" ("stop, cease", built from "prekrashchat") right at the center of the line.
+- 'And I will speak only the truth.' Max pushes back right away with Lyova, leaving no doubt about where he stands.
+- 'Quickly back to work, Lavrov!' Focusing on the job around Max, Lyova uses "rabotu" ("job", from "rabota") to make the point stick.
+- 'Did you chop the carrots?' Opening up quietly in front of Max, Lyova keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.

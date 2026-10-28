@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, friends, thank you for coming!' Barinov spotlights one concrete expression on cue: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
-- 'Chef, we congratulate you with all our heart!' Alisa emphasizes one sharp expression with Tanya: "pozdravlyayem" means "we congratulate" (from "pozdravlyat"), giving the line its exact edge.
-- 'And you are never late for a party either!' Barinov steps in pointedly around Alisa, refusing to let the moment slip past.
-- 'Chef, you said there would be twelve people.' Alisa leans on one memorable word for Tanya: "govorili" means "talked" (from "govorit"), giving the line its exact edge.
-- 'The remaining guests simply ran over for the treats!' Barinov phrases this statement for Alisa: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Beloved Daddy, happy birthday to you!' Alisa responds openly across the room, making her position completely clear.
-- 'Thank you very much, my sweet little daughter!' Barinov uses one pointed word right here: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'I did not think that you had so many friends.' Tanya sends that thought in earnest: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Vitya, did you pay back all your debts or what?' Tanya inquires promptly to see how Alisa will answer on the spot.
-- 'I promised to pay them back today, so they came running!' Barinov underscores one clear touch in earnest: "poobeshchal" means "promised" (from "poobeshchat"), giving the line its exact edge.
-- 'Daddy, and why do they have leopards everywhere?' Alisa frames that reply toward Barinov: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Because I was born in the Year of the Leopard!' Barinov follows up briskly to settle things, to clear the air between them once and for all.
+- 'Good evening, friends, thank you for coming!' Discussing the thank right here, Barinov centers the remark on "spasibo" ("thank you") without any extra fuss.
+- 'Chef, we congratulate you with all our heart!' Alisa fires back sharply without holding back, leaving no doubt about where she stands.
+- 'And you are never late for a party either!' Barinov counters pointedly on the spot, refusing to let the moment slip past.
+- 'Chef, you said there would be twelve people.' Alisa weighs in promptly in front of Barinov and chooses "govorili" ("talked", from the root "govorit") so Barinov hears the exact meaning.
+- 'The remaining guests simply ran over for the treats!' Discussing the visitors beside Alisa, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Beloved Daddy, happy birthday to you!' Alisa continues openly with Barinov, making her position completely clear.
+- 'Thank you very much, my sweet little daughter!' Barinov warmly speaks this word of thanks beside Alisa using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I did not think that you had so many friends.' Dwelling on the friends at once, Tanya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Vitya, did you pay back all your debts or what?' Tanya inquires promptly while looking straight at Barinov here.
+- 'I promised to pay them back today, so they came running!' Barinov answers readily beside Tanya and centers the thought on "poobeshchal" ("promised", from "poobeshchat") without wasting a word.
+- 'Daddy, and why do they have leopards everywhere?' Returning to the daddy with Barinov, Alisa puts the question word "pochemu" right at the start so Barinov hears the focus immediately.
+- 'Because I was born in the Year of the Leopard!' Barinov responds briskly with a shrug, bringing things back to earth after the buildup.

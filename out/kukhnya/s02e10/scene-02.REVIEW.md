@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, we will sort it out tomorrow.' Kristina brings this update to Max: the "-sya" ending on "razberemsya" ("we'll sort it out") turns the action inward or makes it happen between people naturally.
-- 'I will clean everything up.' Max speaks honestly facing Kristina, shifting the whole mood of the room in a single beat.
-- 'Could you not have turned off the water?' Kristina leans on one colorful element toward Max: "vyklyuchit" means "turn off", and it carries the main weight of what Kristina is saying.
-- 'I specifically asked you to.' Kristina voices this line with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Attention everyone, Kristina and I are together.' Kristina opens up openly in this moment, making her position completely clear.
-- 'There will be no divorce.' Max uses one colorful touch in reply: "razvoda" means "divorce, separation" (from "razvod"), giving the line its exact edge.
-- 'Yesterday we...' Kristina gives the thought for Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'That is not what matters right now, guys.' Max speaks up lightly in their talk, so Kristina knows he is not just making small talk.
-- 'Anyway.' Kristina picks one vivid piece in reply: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
-- 'I do not see much joy in your eyes.' Max reacts quietly in their talk, grounding the moment in plain reality.
-- 'Wait, what happened to Vitya?' Kristina prompts eagerly as Max tries to explain the situation.
-- 'All right then.' Max brings the comeback with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kristina is on board.
-- 'So, guys, hand me a broom.' Kristina stands firm frankly to be clear, leaving no doubt about where she stands.
+- 'Well, we will sort it out tomorrow.' Jumping in evenly with Max, the "-sya" ending on "razberemsya" ("we'll sort it out") marks an action that unfolds mutually or turns back on the speaker.
+- 'I will clean everything up.' Max steps in honestly around Kristina, to clear the air between them once and for all.
+- 'Could you not have turned off the water?' Discussing the water with Max, Kristina chooses "vyklyuchit" ("turn off") so Max gets the point right away.
+- 'I specifically asked you to.' Turning quietly to Max, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Attention everyone, Kristina and I are together.' Kristina pushes back openly in their talk, refusing to let the moment slip past.
+- 'There will be no divorce.' Mentioning the divorce on the spot, Max reaches for the Russian word "razvoda" ("divorce, separation", built from "razvod") right at the center of the line.
+- 'Yesterday we...' Speaking firmly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'That is not what matters right now, guys.' Max steps in lightly without a pause, without trying to dress up how he really feels.
+- 'Anyway.' Kristina fires back sharply on the spot and brings in "obshchem" ("short, so", from "obshchiy") as the key Russian word here.
+- 'I do not see much joy in your eyes.' Pointing to the joy in this beat, Max uses "bolshoy" ("big") to carry the main weight of the thought.
+- 'Wait, what happened to Vitya?' Kristina prompts eagerly why things suddenly took this turn between them.
+- 'All right then.' Max quietly offers this word of agreement in one quick breath using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'So, guys, hand me a broom.' Emphasizing the boys in front of Max, Kristina chooses "rebyata" ("the boys, the lads") so Max gets the point right away.

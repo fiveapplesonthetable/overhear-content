@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Only creative people work in our kitchen.' Nagiyev emphasizes one concrete piece toward the guest: "tvorcheskiye" means "creative" (from "tvorcheskiy"), giving the line its exact edge.
-- 'They do not even notice the clock when they cook.' Nagiyev reacts briskly without holding back, bringing things back to earth after the buildup.
-- 'I will go right now and hurry our artists along.' Nagiyev responds honestly to be clear, before the guest can change the subject.
-- 'Oh, look, here come our delicacies!' Nagiyev grounds this sharp detail on cue: "delikatesy" means "delicacies" (from "delikates"), giving the line its exact edge.
-- 'Wait a minute, what is this you have, pilaf?' The guest frames this line without fuss: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Is this ordinary pilaf on the plate?' Nagiyev quizzes point-blank while looking straight at Max here.
-- 'Yes, this is real hot pilaf.' Max anchors this clear choice right here: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Max is saying.
-- 'I have not eaten pilaf in a thousand years.' The guest steps in briskly with a shrug, without trying to dress up how he really feels.
-- 'I still remember this taste.' The guest speaks lightly in this moment, steering the talk right where he wants it.
-- 'Very delicious! Good for you, Dima!' The guest points to one loaded term at once: "molodets" means "well done, good boy", and it carries the main weight of what the guest is saying.
-- 'We have a special approach to every guest of ours.' Nagiyev frames that reply plainly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'One can see in your eyes that you want pilaf.' Nagiyev replies decisively with a sigh, leaving no doubt about where he stands.
+- 'Only creative people work in our kitchen.' Underscoring his kitchen right here, Nagiyev lands on "tvorcheskiye" ("creative", built on "tvorcheskiy") to keep the statement grounded.
+- 'They do not even notice the clock when they cook.' Touching on the clock before the guest, Nagiyev chooses "zamechayut" ("to notice, observe", from the root "zamechat") so the guest hears the exact meaning.
+- 'I will go right now and hurry our artists along.' Nagiyev pushes back honestly facing the guest, without trying to dress up how he really feels.
+- 'Oh, look, here come our delicacies!' Addressing his delicacies in this beat, Nagiyev puts the weight on "delikatesy" ("delicacies", from "delikates") as the exchange unfolds.
+- 'Wait a minute, what is this you have, pilaf?' Checking on the pilaf in this beat, the guest puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'Is this ordinary pilaf on the plate?' Nagiyev quizzes point-blank how Max expects that to work in practice.
+- 'Yes, this is real hot pilaf.' Underscoring how real things are in front of Nagiyev, Max centers the remark on "nastoyashchiy" ("real, genuine") without any extra fuss.
+- 'I have not eaten pilaf in a thousand years.' Mentioning a thousand around Max, the guest puts the weight on "tysyachu" ("thousand", from "tysyacha") as the exchange unfolds.
+- 'I still remember this taste.' The guest jumps in lightly watching Max, refusing to let the moment slip past.
+- 'Very delicious! Good for you, Dima!' The guest speaks plainly at once and puts the emphasis on "molodets" ("well done, good boy") in the middle of the talk.
+- 'We have a special approach to every guest of ours.' Focusing on a special approach beside the guest, Nagiyev reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'One can see in your eyes that you want pilaf.' Nagiyev proceeds decisively watching the guest, to clear the air between them once and for all.

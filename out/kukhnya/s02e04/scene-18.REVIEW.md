@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gentlemen, I want to say literally a couple of words.' Barinov proceeds sharply across the room, saying out loud what both of them already know.
-- 'This dish was originally invented by my teacher.' Vika focuses on this vivid term in earnest: "uchitel" means "teacher", and it carries the main weight of what Vika is saying.
-- 'Viktor Petrovich Barinov.' Vika shapes this statement right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'The head chef of this restaurant.' Vika follows up plainly to be clear, leaving no doubt about where she stands.
-- 'To whom I owe everything.' Barinov uses one concrete term toward Vika: "obyazan" means "obliged, owing" (from "obyazannyy"), giving the line its exact edge.
-- 'Which is why I consider him a genius.' Vika responds promptly beside Barinov, grounding the moment in plain reality.
-- 'Well, that is a rather strange taste, right?' Barinov inquires calmly to see how Vika will answer on the spot.
-- 'Maybe it is because of the prunes?' Vika sharpens this direct term at once: "chernosliva" means "prunes, dried plums" (from "chernosliv"), giving the line its exact edge.
-- 'It is pure vinegar.' Barinov states that thought at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Dear friends, unfortunately it is time for me to head to the airport.' Vika responds quietly around Barinov, steering the talk right where she wants it.
-- 'Viktor Petrovich.' Vika gives that answer in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Here are the keys to my.' Vika voices this warning at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'New car.' Barinov steps in at once with Vika, without trying to dress up how he really feels.
+- 'Gentlemen, I want to say literally a couple of words.' Barinov speaks up sharply toward Vika, testing Vika's reaction in the middle of the exchange.
+- 'This dish was originally invented by my teacher.' Highlighting her teacher during the talk, Vika puts the emphasis on "uchitel" ("teacher") in the middle of the talk.
+- 'Viktor Petrovich Barinov.' Reacting dryly beside Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'The head chef of this restaurant.' Vika opens up plainly without a pause, grounding the moment in plain reality.
+- 'To whom I owe everything.' Barinov answers earnestly before Vika and centers the thought on "obyazan" ("obliged, owing", from "obyazannyy") without wasting a word.
+- 'Which is why I consider him a genius.' Emphasizing a genius in this beat, Vika reaches for the Russian word "geniyem" ("genius", built from "geniy") right at the center of the line.
+- 'Well, that is a rather strange taste, right?' Barinov inquires calmly if there is more going on behind the scenes.
+- 'Maybe it is because of the prunes?' Underscoring the prunes right here, Vika puts the weight on "chernosliva" ("prunes, dried plums", from "chernosliv") as the exchange unfolds.
+- 'It is pure vinegar.' Underscoring how continuous things are in front of Vika, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Dear friends, unfortunately it is time for me to head to the airport.' Vika reacts quietly hearing Barinov, refusing to let the moment slip past.
+- 'Viktor Petrovich.' Reacting directly around Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Here are the keys to my.' Mentioning the keys right here, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'New car.' Barinov steps in at once with a smile, steering the talk right where he wants it.

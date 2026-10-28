@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I can see by your eyes that you don't understand.' Nagiyev chimes in openly in their talk, before Barinov can change the subject.
-- 'A film producer is coming.' Nagiyev speaks honestly to settle things, before Barinov can change the subject.
-- 'He wants to film War and Peace.' Nagiyev stresses one concrete word for Barinov: "khochet" means "wants" (from "khotet"), giving the line its exact edge.
-- 'With me in the leading role.' Nagiyev speaks up at once without a pause, grounding the moment in plain reality.
-- 'I am going to play Napoleon.' Nagiyev holds firm openly with a nod, making his position completely clear.
-- 'You have to feed him so well.' Nagiyev colors one vivid detail in earnest: "dolzhen" means "has to, must", and it carries the main weight of what Nagiyev is saying.
-- 'I am begging you, Vitya, don't mess this up.' Nagiyev favors one colorful choice in earnest: "proshu" means "beg, ask" (from "prosit"), giving the line its exact edge.
-- 'Yes, got it.' Barinov jumps in bluntly on the spot, steering the talk right where he wants it.
-- 'What did I just say?' Nagiyev anchors one telling element in reply: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
-- 'Onto the French throne.' Barinov states this line frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I said do not mess it up.' Nagiyev replies at once watching Barinov, refusing to let the moment slip past.
-- 'Ah, that too.' Barinov focuses on one clear piece at once: "tozhe" means "too", and it carries the main weight of what Barinov is saying.
+- 'I can see by your eyes that you don't understand.' Talking about the eye beside Barinov, Nagiyev reaches for the Russian word "ponimayesh" ("do you understand", built from "ponimat") right at the center of the line.
+- 'A film producer is coming.' Nagiyev jumps in honestly in their talk, grounding the moment in plain reality.
+- 'He wants to film War and Peace.' Touching on the war before Barinov, Nagiyev uses "voynu" ("the war", from "voyna") to make the point stick.
+- 'With me in the leading role.' Highlighting the leading role at once, Nagiyev leans on "glavnoy" ("main", a form of "glavnyy") to give the remark its edge.
+- 'I am going to play Napoleon.' Nagiyev chimes in openly beside Barinov, watching Barinov's face to see how the news lands.
+- 'You have to feed him so well.' Nagiyev answers dryly around Barinov and centers the remark on "dolzhen" ("has to, must") without any extra fuss.
+- 'I am begging you, Vitya, don't mess this up.' Nagiyev cuts in steadily toward Barinov, without trying to dress up how he really feels.
+- 'Yes, got it.' Barinov promptly speaks this direct affirmation in front of Nagiyev using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'What did I just say?' Leaning in smoothly at once, Nagiyev puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Onto the French throne.' Dwelling on the throne right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I said do not mess it up.' Nagiyev weighs in at once during the talk, bringing things back to earth after the buildup.
+- 'Ah, that too.' Looking over readily beside Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

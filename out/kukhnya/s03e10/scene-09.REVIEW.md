@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, there is a beauty sitting in the dining room.' Senya replies wryly on the spot, before Barinov can change the subject.
-- 'We believe in you, everything will work out.' Senya highlights one practical piece right here: "poluchitsya" means "will come out", and it carries the main weight of what Senya is saying.
-- 'Because you are handsome and smart.' Senya directs that line on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Good afternoon, I am the head chef of this restaurant.' Barinov holds firm boldly with a sigh, keeping the focus on what actually matters here.
-- 'May I offer you something?' Barinov underscores this sharp piece in earnest: "predlozhit" means "to offer", and it carries the main weight of what Barinov is saying.
-- 'Oh, you are the one who hosts the cooking show!' The guest emphasizes one colorful detail for Senya: "kulinarnoye" means "culinary, cooking" (from "kulinarnyy"), giving the line its exact edge.
-- 'That was a long time ago, I was young.' Barinov counters lightly facing the guest, letting the remark speak for itself.
-- 'My name is Sveta, and what is yours?' The guest focuses on this clear word in reply: "zovut" means "call" (from "zvat"), giving the line its exact edge.
-- 'My name is Victor Petrovich Barinov.' Barinov counters warmly in this moment, steering the talk right where he wants it.
-- 'How formal, will you keep me company?' The guest presses curiously to see how Senya will answer on the spot.
-- 'Vitya, you are such a funny man!' The guest uses one familiar touch in reply: "muzhchina" means "man", and it carries the main weight of what the guest is saying.
-- 'Svetochka, I will step away for a minute, do not be bored.' Barinov chimes in at once with a smile, before Senya can change the subject.
+- 'Chef, there is a beauty sitting in the dining room.' Senya counters wryly without any doubt, making his position completely clear.
+- 'We believe in you, everything will work out.' Senya steps in sharply before Barinov and reaches for the Russian word "poluchitsya" ("will come out") right at the heart of the line.
+- 'Because you are handsome and smart.' Pointing out how beautiful Barinov is in front of Barinov, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Good afternoon, I am the head chef of this restaurant.' Barinov answers boldly with Senya, keeping the focus on what actually matters here.
+- 'May I offer you something?' Barinov answers readily in the exchange and brings in "predlozhit" ("to offer") to make the meaning unmistakable.
+- 'Oh, you are the one who hosts the cooking show!' The guest follows up briskly without a pause, testing Barinov's reaction in the middle of the exchange.
+- 'That was a long time ago, I was young.' Barinov speaks lightly without a pause, to clear the air between them once and for all.
+- 'My name is Sveta, and what is yours?' The guest fires back frankly to Barinov and reaches for the Russian word "zovut" ("call", built from "zvat") right at the center of the line.
+- 'My name is Victor Petrovich Barinov.' Barinov follows up decisively beside the guest and centers the thought on "zovut" ("call", from "zvat") without wasting a word.
+- 'How formal, will you keep me company?' The guest presses curiously if there is more going on behind the scenes.
+- 'Vitya, you are such a funny man!' Touching on a funny man with Barinov, the guest uses "muzhchina" ("man") to carry the main weight of the thought.
+- 'Svetochka, I will step away for a minute, do not be bored.' Turning to a minute at once, Barinov reaches for the Russian word "minutku" ("a minute", built from "minutka") right at the center of the line.

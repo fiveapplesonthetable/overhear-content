@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you out of your mind?' Max underscores this telling touch in earnest: "voobshche" means "at all", and it carries the main weight of what Max is saying.
-- 'Between you and Igor.' Barinov voices the comment without fuss: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Just like I saw with my own eyes.' Max responds plainly during the talk, before Barinov can change the subject.
-- 'Well, what else could I think?' Max colors one direct term at once: "podumat" means "to think", and it carries the main weight of what Max is saying.
-- 'Max, you are the one who needs a doctor.' Barinov delivers that thought frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So you two were playing doctor?' Vika presses briskly why things suddenly took this turn between them.
-- 'Viktoriya Sergeyevna, for goodness' Max sharpens one sharp expression in earnest: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Dima just got upset.' Barinov delivers the thought frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I got upset that I could not buy it.' Max steps in firmly toward Barinov, grounding the moment in plain reality.
-- 'Anyway, we got so upset that we drank a little too much.' Max centers one pointed touch in earnest: "rasstroilis" means "to get upset" (from "rasstroitsya"), giving the line its exact edge.
-- 'And at yourself.' Barinov directs this warning frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Do not stress about it.' Vika steps in pointedly watching Max, letting the remark speak for itself.
-- 'Wonderful, just marvelous.' Max colors this telling detail at once: "zamechatelno" means "wonderful", and it carries the main weight of what Max is saying.
+- 'Are you out of your mind?' Max reacts openly in this beat and leans on "voobshche" ("at all") to give the whole sentence its punch.
+- 'Between you and Igor.' Jumping in quietly to Max, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Just like I saw with my own eyes.' Max chimes in plainly in their talk, testing Barinov's reaction in the middle of the exchange.
+- 'Well, what else could I think?' Max fires back evenly with Barinov and centers the remark on "podumat" ("to think") without any extra fuss.
+- 'Max, you are the one who needs a doctor.' Pointing to a doctor at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So you two were playing doctor?' Vika presses briskly whether Max really thought this through.
+- 'Viktoriya Sergeyevna, for goodness' Max cuts in briskly at once and lands on "izvinite" ("sorry, excuse me", built on "izvinit") to keep the statement grounded.
+- 'Dima just got upset.' Weighing in readily during the talk, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I got upset that I could not buy it.' Max weighs in firmly hearing Barinov, grounding the moment in plain reality.
+- 'Anyway, we got so upset that we drank a little too much.' Max opens up pointedly in the exchange and centers the thought on "obshchem" ("short, so", from "obshchiy") without wasting a word.
+- 'And at yourself.' Opening up boldly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Do not stress about it.' Vika speaks up pointedly with a sigh, keeping the focus on what actually matters here.
+- 'Wonderful, just marvelous.' Max speaks up candidly in the exchange and reaches for the Russian word "zamechatelno" ("wonderful") right at the heart of the line.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The shashlik is simply great, it melts right in the mouth!' The guest focuses on one clear element for Kostya: "otlichnyy" means "excellent, great", and it carries the main weight of what the guest is saying.
-- 'Thank you very much, I tried very hard today.' Kostya shares the comment with warmth: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'The shashlik is simply great, it melts right in the mouth!' Confirming how excellent things are beside Kostya, the guest reaches for the Russian word "otlichnyy" ("excellent, great") right at the heart of the line.
+- 'Thank you very much, I tried very hard today.' Emphasizing the thank around the guest, Kostya puts the weight on "bolshoye" ("big, very much", from "bolshoy") as the exchange unfolds.
 - 'Kostya, and why are you not eating anything?' The guest checks frankly while looking straight at Kostya here.
-- 'Thank you, I simply do not want shashlik.' Kostya underscores one concrete word toward Nastya: "shashlykov" means "shashlik" (from "shashlyk"), giving the line its exact edge.
-- 'Kostik, just try it, even I ate a piece!' Nastya pushes back right away with a nod, letting the remark speak for itself.
-- 'Nastya, what are you saying, you are a vegetarian!' Kostya follows up earnestly in their talk, shifting the whole mood of the room in a single beat.
-- 'For the sake of the family I am ready for anything today.' Nastya leans on one concrete touch for the guest: "segodnya" means "today", and it carries the main weight of what Nastya is saying.
-- 'Go on, try at least one piece.' Nastya brings this answer with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'In my opinion, this meat is dry and not tasty at all.' Kostya chimes in earnestly to be clear, testing the guest's reaction in the middle of the exchange.
-- 'I do not want to eat his shashlik!' Kostya frames one telling piece with Nastya: "shashlyk" means "shashlik, meat skewer", and it carries the main weight of what Kostya is saying.
-- 'Kostya, you are behaving like a little child!' Nastya uses one loaded expression in reply: "malenkiy" means "short, little", and it carries the main weight of what Nastya is saying.
-- 'Well then, men, shall we have a quiet talk now?' The guest checks frankly where this conversation is heading next.
+- 'Thank you, I simply do not want shashlik.' Focusing on the shashlik right here, Kostya lands on "shashlykov" ("shashlik", built on "shashlyk") to keep the statement grounded.
+- 'Kostik, just try it, even I ate a piece!' Highlighting the slice to Kostya, Nastya reaches for the Russian word "kusochek" ("slice, little piece") right at the heart of the line.
+- 'Nastya, what are you saying, you are a vegetarian!' Kostya follows up earnestly in this moment, grounding the moment in plain reality.
+- 'For the sake of the family I am ready for anything today.' Noting how ready she is during the talk, Nastya puts the weight on "gotova" ("ready", from "gotovyy") as the exchange unfolds.
+- 'Go on, try at least one piece.' Pointing to the slice in this beat, Nastya starts with "davay" ("come on, let's") to invite Kostya right into the action.
+- 'In my opinion, this meat is dry and not tasty at all.' Kostya answers earnestly hearing Nastya, before Nastya can change the subject.
+- 'I do not want to eat his shashlik!' Touching on the shashlik in front of Nastya, Kostya centers the remark on "shashlyk" ("shashlik, meat skewer") without any extra fuss.
+- 'Kostya, you are behaving like a little child!' Talking about a child on the spot, Nastya sets the direction for the rest of the talk with Kostya.
+- 'Well then, men, shall we have a quiet talk now?' The guest checks frankly before Nastya can change the subject.

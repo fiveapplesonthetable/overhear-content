@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Young people these days, I have to teach you and teach you.' Barinov reacts candidly with a nod, without trying to dress up how he really feels.
-- 'Chef, may I come in, here, take a look.' Max points to one loaded word for Elena: "posmotrite" means "look" (from "posmotret"), giving the line its exact edge.
-- 'I drew up a detailed kitchen optimization plan.' Max chimes in openly to settle things, making his position completely clear.
-- 'Interesting, and what is written in it?' Barinov probes wryly while looking straight at Max here.
-- 'A proposal on how to fire the rookie faster?' Barinov emphasizes one direct element with Elena: "predlozheniye" means "offer, proposal", and it carries the main weight of what Barinov is saying.
-- 'Instead of working, you are drawing up silly plans.' Barinov grounds one concrete choice at once: "sostavlyayesh" means "you draw up" (from "sostavlyat"), giving the line its exact edge.
-- 'That is it, go to the kitchen, I am busy.' Barinov counters quietly to be clear, grounding the moment in plain reality.
-- 'Vitya, listen, my car got towed away.' Elena chooses this clear detail right here: "evakuirovali" means "towed away" (from "evakuirovat"), giving the line its exact edge.
-- 'Can you come pick me up at the market right now?' Elena gives the comment with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Yes, of course, dictate the exact address to me.' Barinov answers promptly as things stand, testing Max's reaction in the middle of the exchange.
-- 'Write it down, Dorozhny Drive.' Elena spotlights one colorful touch at once: "dorozhnyy" means "road, traffic", and it carries the main weight of what Elena is saying.
-- 'Yes, got it all, I will come get you right now.' Barinov puts that point with warmth: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Young people these days, I have to teach you and teach you.' Barinov reacts candidly with a sigh, bringing things back to earth after the buildup.
+- 'Chef, may I come in, here, take a look.' Max steps in vividly at once and centers the remark on "mozhno" ("may, can") without any extra fuss.
+- 'I drew up a detailed kitchen optimization plan.' Mentioning the optimization with Barinov, Max lands on "optimizatsii" ("optimization", built on "optimizatsiya") to keep the statement grounded.
+- 'Interesting, and what is written in it?' Barinov probes wryly if there is more going on behind the scenes.
+- 'A proposal on how to fire the rookie faster?' Turning to the offer on the spot, Barinov reaches for the Russian word "predlozheniye" ("offer, proposal") right at the heart of the line.
+- 'Instead of working, you are drawing up silly plans.' Barinov fires back frankly facing Elena, refusing to let the moment slip past.
+- 'That is it, go to the kitchen, I am busy.' Barinov proceeds quietly without holding back, so Elena knows he is not just making small talk.
+- 'Vitya, listen, my car got towed away.' Addressing her car at once, Elena lands on "evakuirovali" ("towed away", built on "evakuirovat") to keep the statement grounded.
+- 'Can you come pick me up at the market right now?' Dwelling on the market beside Barinov, Elena keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Yes, of course, dictate the exact address to me.' Barinov opens up promptly beside Elena, to clear the air between them once and for all.
+- 'Write it down, Dorozhny Drive.' Addressing the street with Barinov, Elena leans on "dorozhnyy" ("road, traffic") to give the whole sentence its punch.
+- 'Yes, got it all, I will come get you right now.' Barinov pushes back dryly right here and brings in "priyedu" ("will come, visit", from "priyekhat") as the key Russian word here.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I borrowed the money for this television.' Nastya fires back openly before the guest, without trying to dress up how she really feels.
-- 'I borrowed them from my dad!' Nastya cuts in warmly in their talk, so Kostya knows she is not just making small talk.
-- 'Son, you should have used your head first.' The guest focuses on one key choice for Kostya: "golovoy" means "with one's head" (from "golova"), giving the line its exact edge.
-- 'There is no need to swing a hammer around right away.' The guest lays out that remark for Nastya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'And did you think before coming here?' Kostya wonders quietly before the guest can change the subject.
-- 'There is nothing but trouble from you in the house!' Kostya focuses on one telling detail in reply: "problemy" means "problems" (from "problema"), giving the line its exact edge.
-- 'Do not bring your mother into this, do you hear me?' The guest aims the reaction with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Your mother was a wonderful woman.' The guest proceeds decisively with Nastya, refusing to let the moment slip past.
-- 'Why then did she choose a man like you?' Kostya spotlights one concrete word with the guest: "vybrala" means "chose" (from "vybrat"), giving the line its exact edge.
-- 'Doctor, who hit you so hard like that?' Nastya sends that remark plainly here: putting the question word "kto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'My own father hit me like that.' Kostya cuts in openly on the spot, bringing things back to earth after the buildup.
-- 'Honestly speaking, he hit me for a good reason.' Kostya picks one direct piece with Nastya: "chestno" means "honestly", and it carries the main weight of what Kostya is saying.
+- 'I borrowed the money for this television.' Mentioning the television on the spot, Nastya lands on "televizor" ("television") as the key everyday word here.
+- 'I borrowed them from my dad!' Nastya chimes in warmly without a pause, shifting the mood of the conversation in a single beat.
+- 'Son, you should have used your head first.' Highlighting the head during the talk, the guest puts the weight on "golovoy" ("with one's head", from "golova") as the exchange unfolds.
+- 'There is no need to swing a hammer around right away.' Discussing a hammer around Kostya, the guest leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'And did you think before coming here?' Kostya wonders quietly whether the guest really thought this through.
+- 'There is nothing but trouble from you in the house!' Turning to the problems to the guest, Kostya lands on "problemy" ("problems", built on "problema") to keep the statement grounded.
+- 'Do not bring your mother into this, do you hear me?' Returning to the mother before Kostya, the guest keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Your mother was a wonderful woman.' The guest speaks decisively in this moment, leaving no doubt about where he stands.
+- 'Why then did she choose a man like you?' Kostya continues calmly right here and uses "vybrala" ("chose", from "vybrat") to make the point stick.
+- 'Doctor, who hit you so hard like that?' Stepping in earnestly beside Kostya, Nastya puts the question word "kto" right at the start so Kostya hears the focus immediately.
+- 'My own father hit me like that.' Kostya opens up openly toward Nastya, before Nastya can change the subject.
+- 'Honestly speaking, he hit me for a good reason.' Pointing to the matter around Nastya, Kostya chooses "chestno" ("honestly") so Nastya gets the point right away.

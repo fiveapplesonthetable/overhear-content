@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am the one who wants to ask what is going on here!' Barinov answers openly around Elena, making his position completely clear.
-- 'How can you fire Elena Pavlovna from here?' Barinov leans on one practical expression in earnest: "uvolnyat" means "to fire, to dismiss", and it carries the main weight of what Barinov is saying.
-- 'After all, she put her whole soul into this restaurant!' Barinov follows up quietly during the talk, shifting the whole mood of the room in a single beat.
-- 'I will not allow you to replace her with this guy!' Barinov steps in frankly watching the guest, saying out loud what both of them already know.
-- 'Stop shouting, nobody is firing her at all!' The guest picks one telling piece at once: "perestante" means "stop it" (from "perestat"), giving the line its exact edge.
-- 'First of all, Elena Pavlovna is leaving us on her own.' The guest weighs in at once facing Elena, steering the talk right where he wants it.
-- 'And second of all, I was planning to replace her with you!' The guest weighs in honestly with a sigh, refusing to let the moment slip past.
-- 'By the way, she herself vouched strongly for you.' The guest stresses one memorable term for Elena: "prochim" means "other" (from "prochiy"), giving the line its exact edge.
-- 'And this young man is simply our new designer!' The guest lays out this warning with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I am the one who wants to ask what is going on here!' Barinov pushes back openly with a smile, steering the talk right where he wants it.
+- 'How can you fire Elena Pavlovna from here?' Barinov pushes back dryly before Elena and brings in "uvolnyat" ("to fire, to dismiss") to make the meaning unmistakable.
+- 'After all, she put her whole soul into this restaurant!' Discussing the restaurant to the guest, Barinov chooses "restoran" ("restaurant") so the guest gets the point right away.
+- 'I will not allow you to replace her with this guy!' Barinov proceeds frankly on the spot, so the guest knows he is not just making small talk.
+- 'Stop shouting, nobody is firing her at all!' The guest replies sharply at once and reaches for the Russian word "perestante" ("stop it", built from "perestat") right at the center of the line.
+- 'First of all, Elena Pavlovna is leaving us on her own.' The guest proceeds quietly around Elena and brings in "vo-pervykh" ("first of all") to make the meaning unmistakable.
+- 'And second of all, I was planning to replace her with you!' The guest jumps in honestly in their talk, letting the remark speak for itself.
+- 'By the way, she herself vouched strongly for you.' The guest fires back openly at once and lands on "ruchalas" ("to strongly", built on "ruchatsya") to keep the statement grounded.
+- 'And this young man is simply our new designer!' Addressing the designer with Barinov, the guest uses the little word "prosto" ("simply, just") to make the point sound effortless.
 - 'Lena, why did you not tell me that you are leaving?' Barinov probes curiously why things suddenly took this turn between them.
-- 'I was planning to tell you everything tonight.' Elena stresses this direct word with Barinov: "sobiralas" means "to intend" (from "sobiratsya"), giving the line its exact edge.
-- 'By the way, now you owe me a new designer!' The guest offers this point frankly here: opening with "kstati" ("by the way") lets the guest drop a new detail into the conversation as if it just crossed his mind.
+- 'I was planning to tell you everything tonight.' Elena counters promptly with Barinov and brings in "sobiralas" ("to intend", from "sobiratsya") as the key Russian word here.
+- 'By the way, now you owe me a new designer!' Mentioning a new designer around Elena, the guest opens with "kstati" ("by the way") as if the thought just crossed his mind.

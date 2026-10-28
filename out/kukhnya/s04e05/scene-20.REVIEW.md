@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lev, today showed you still have much to learn.' Elena focuses on one loaded piece in earnest: "segodnya" means "today", and it carries the main weight of what Elena is saying.
-- 'Viktor Petrovich will now take the position of sous-chef.' Elena jumps in openly as they talk, so Lyova knows she is not just making small talk.
-- 'I understand everything and completely agree.' Lyova features one memorable detail with Barinov: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
-- 'All right, Lyova, do not be too upset.' Barinov phrases the comeback briskly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Lyova is on board.
-- 'Hey, do you have a light right now?' Barinov checks promptly whether Elena really thought this through.
-- 'Whoa, my lighter, where did you find it?' Barinov colors one sharp term toward Lyova: "zazhigalka" means "where", and it carries the main weight of what Barinov is saying.
-- 'Right where you left it yesterday, in the refrigerator.' Lyova centers one memorable term at once: "kholodilnike" means "fridge" (from "kholodilnik"), giving the line its exact edge.
-- 'Wait, and why did you stay silent then?' Barinov quizzes openly whether Lyova really thought this through.
-- 'Why say anything, after all they would have fired you right away.' Lyova frames one key word with Barinov: "govorit" means "to talk", and it carries the main weight of what Lyova is saying.
-- 'Take my money for this big fine.' Barinov reacts warmly watching Lyova, letting the remark speak for itself.
-- 'Lena, please put Lyova back in his position.' Barinov jumps in openly in this moment, shifting the whole mood of the room in a single beat.
-- 'I was the one who unplugged the refrigerator on purpose yesterday.' Barinov emphasizes one practical expression on cue: "kholodilnik" means "fridge", and it carries the main weight of what Barinov is saying.
-- 'Deal, but now under your personal responsibility.' Elena pushes back quietly with a sigh, to clear the air between them once and for all.
+- 'Lev, today showed you still have much to learn.' Elena steps in promptly in this moment, keeping the focus on what actually matters here.
+- 'Viktor Petrovich will now take the position of sous-chef.' Elena speaks openly beside Barinov, refusing to let the moment slip past.
+- 'I understand everything and completely agree.' Lyova chimes in calmly to Elena and lands on "soglasen" ("agreed", built on "soglasnyy") to keep the statement grounded.
+- 'All right, Lyova, do not be too upset.' Pressing on evenly in this beat, the "-sya" ending on "rasstraivaysya" ("be upset, worry") marks an action that unfolds mutually or turns back on the speaker.
+- 'Hey, do you have a light right now?' Barinov checks promptly about what Lyova just brought up.
+- 'Whoa, my lighter, where did you find it?' Barinov chimes in readily at once and puts the weight on "nashyol" ("found", from "nayti") as the exchange unfolds.
+- 'Right where you left it yesterday, in the refrigerator.' Lyova continues wryly across the room, steering the talk right where he wants it.
+- 'Wait, and why did you stay silent then?' Barinov quizzes openly why things suddenly took this turn between them.
+- 'Why say anything, after all they would have fired you right away.' Lyova cuts in decisively before Barinov and lands on "govorit" ("to talk") as the key everyday word here.
+- 'Take my money for this big fine.' Talking about his money in this beat, Barinov reaches for the Russian word "bolshoy" ("big") right at the heart of the line.
+- 'Lena, please put Lyova back in his position.' Barinov replies openly facing Lyova, steering the talk right where he wants it.
+- 'I was the one who unplugged the refrigerator on purpose yesterday.' Highlighting the fridge during the talk, Barinov chooses "kholodilnik" ("fridge") so Elena gets the point right away.
+- 'Deal, but now under your personal responsibility.' Pointing to the responsibility to Barinov, Elena uses "otvetstvennost" ("responsibility") to carry the main weight of the thought.

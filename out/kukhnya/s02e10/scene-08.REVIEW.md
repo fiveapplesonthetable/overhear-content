@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you not going to cook her?' Fedya states the thought with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Not right now.' Max replies dryly as things stand, letting the remark speak for itself.
-- 'I am going to cook her tomorrow.' Fedya sharpens one sharp piece right here: "gotovit" means "to cook", and it carries the main weight of what Fedya is saying.
-- 'Will you give her to me?' Max makes that reply without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
-- 'I am begging you.' Fedya chimes in plainly with a sigh, watching Max's face to see how the news lands.
-- 'Do not look at me like that.' Max reaches for one practical choice in earnest: "smotri" means "look" (from "smotret"), giving the line its exact edge.
-- 'Here, take her.' Fedya offers the comment for Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'But what about the soup?' Max wonders earnestly to see how Fedya will answer on the spot.
-- 'Chicken marinated in fish broth.' Fedya emphasizes this sharp word in earnest: "zamarinovannaya" means "marinated" (from "zamarinovannyy"), giving the line its exact edge.
-- 'They will never guess the difference.' Max drops the thought frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'So a chicken is going to die in her place?' Fedya wonders briskly before Max can change the subject.
-- 'Watch out or I will take her back right now.' Max features one clear expression at once: "seychas" means "now", and it carries the main weight of what Max is saying.
-- 'All right, go on.' Fedya offers the comment on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Are you not going to cook her?' Speaking candidly in this beat, Fedya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Not right now.' Max weighs in dryly facing Fedya, before Fedya can change the subject.
+- 'I am going to cook her tomorrow.' Fedya speaks sharply at once and leans on "gotovit" ("to cook") to give the whole sentence its punch.
+- 'Will you give her to me?' Leaning in openly in front of Fedya, Max keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.
+- 'I am begging you.' Fedya answers plainly facing Max, keeping the focus on what actually matters here.
+- 'Do not look at me like that.' Max opens up sharply without holding back, testing Fedya's reaction in the middle of the exchange.
+- 'Here, take her.' Holding firm candidly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'But what about the soup?' Max wonders earnestly while looking straight at Fedya here.
+- 'Chicken marinated in fish broth.' Underscoring the chicken in the exchange, Fedya brings in "zamarinovannaya" ("marinated", from "zamarinovannyy") as the key Russian word here.
+- 'They will never guess the difference.' Speaking frankly during the talk, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'So a chicken is going to die in her place?' Fedya wonders briskly where this conversation is heading next.
+- 'Watch out or I will take her back right now.' Max replies directly in the exchange and uses "zaberu" ("will take", from "zabrat") to make the point stick.
+- 'All right, go on.' Pressing on warmly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, thank you.' Barinov offers that line frankly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Here are the vegetarian rolls.' Max speaks boldly during the talk, testing Nastya's reaction in the middle of the exchange.
-- 'Just make sure Senya and Fedya do not see you.' Nastya picks one sharp choice right here: "uvidish" means "see" (from "uvidet"), giving the line its exact edge.
-- 'Why be afraid of them, I am the one they should fear.' Barinov brings the reply calmly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Such appetizing rolls, I would eat them myself.' Max pushes back bluntly with a sigh, steering the talk right where he wants it.
-- 'What would I not be afraid of.' Nastya emphasizes this direct choice in reply: "boyus" means "am afraid" (from "boyatsya"), giving the line its exact edge.
-- 'Especially since I am a vegetarian.' Barinov brings that answer before Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Very funny.' Max chimes in quietly on the spot, without trying to dress up how he really feels.
-- 'May I see your documents, please?' Nastya underscores this vivid expression toward Barinov: "dokumenty" means "the documents" (from "dokument"), giving the line its exact edge.
-- 'Officers, I do not have my documents on me.' Barinov frames the remark plainly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Oh, really?' Max inquires wryly if there is more going on behind the scenes.
-- 'I am the head chef of the Claude Monet restaurant.' Nastya centers one vivid term with Max: "shef-povar" means "head chef", and it carries the main weight of what Nastya is saying.
-- 'Viktor Barinov.' Barinov shapes the comeback toward Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Oh, thank you.' Barinov evenly directs this word of thanks toward Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Here are the vegetarian rolls.' Max proceeds boldly during the talk, refusing to let the moment slip past.
+- 'Just make sure Senya and Fedya do not see you.' Nastya steps in plainly to Max and brings in "uvidish" ("see", from "uvidet") as the key Russian word here.
+- 'Why be afraid of them, I am the one they should fear.' Jumping in firmly at once, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Such appetizing rolls, I would eat them myself.' Max answers bluntly in this moment, so Barinov knows he is not just making small talk.
+- 'What would I not be afraid of.' Nastya speaks quietly before Max and lands on "boyus" ("am afraid", built on "boyatsya") to keep the statement grounded.
+- 'Especially since I am a vegetarian.' Talking about a vegetarian with Nastya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Very funny.' Max responds quietly beside Barinov, to clear the air between them once and for all.
+- 'May I see your documents, please?' Emphasizing the documents right here, Nastya lands on "dokumenty" ("the documents", built on "dokument") to keep the statement grounded.
+- 'Officers, I do not have my documents on me.' Barinov chimes in wryly without holding back, leaving no doubt about where he stands.
+- 'Oh, really?' Max inquires wryly how Nastya expects that to work in practice.
+- 'I am the head chef of the Claude Monet restaurant.' Turning to the head on the spot, Nastya lands on "shef-povar" ("head chef") as the key everyday word here.
+- 'Viktor Barinov.' Cutting in plainly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

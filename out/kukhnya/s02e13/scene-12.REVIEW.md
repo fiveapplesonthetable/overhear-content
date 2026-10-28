@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He can hear everything!' Nagiyev chimes in sharply with Barinov, steering the talk right where he wants it.
-- 'Tamara Petrovna!' Barinov shapes that point right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'He recognized me!' Nagiyev brings that remark with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Good Lord, he recognized me.' Barinov opens up earnestly during the talk, saying out loud what both of them already know.
-- 'We cannot leave him here.' Nagiyev leans on one colorful expression at once: "ostavlyat" means "to leave", and it carries the main weight of what Nagiyev is saying.
-- 'Grab him, Tamara Petrovna.' Barinov states this answer to Nagiyev: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I have the right to a phone call.' Nagiyev chimes in candidly without a pause, keeping the focus on what actually matters here.
-- 'Call Dmitry Nagiyev.' Barinov chooses one telling expression in earnest: "pozvonite" means "will call" (from "pozvonit"), giving the line its exact edge.
-- 'He is the owner of my restaurant.' Nagiyev shares the thought without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And he will confirm that I am who I say I am.' Barinov opens up decisively to be clear, grounding the moment in plain reality.
-- 'Go ahead and dictate the number, I guess.' Nagiyev underscores this clear word in reply: "navernoye" means "probably", and it carries the main weight of what Nagiyev is saying.
-- 'Are you serious?' Barinov states the thought around Nagiyev: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nagiyev is on board.
-- 'Well, alright then.' Nagiyev counters openly toward Barinov, watching Barinov's face to see how the news lands.
+- 'He can hear everything!' Nagiyev reacts sharply in this moment, letting the remark speak for itself.
+- 'Tamara Petrovna!' Answering frankly with Nagiyev, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'He recognized me!' Replying smoothly to Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Good Lord, he recognized me.' Barinov pushes back earnestly in this moment, grounding the moment in plain reality.
+- 'We cannot leave him here.' Nagiyev counters directly with Barinov and leans on "ostavlyat" ("to leave") to give the whole sentence its punch.
+- 'Grab him, Tamara Petrovna.' Stepping in naturally with Nagiyev, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I have the right to a phone call.' Nagiyev continues candidly without a pause, to clear the air between them once and for all.
+- 'Call Dmitry Nagiyev.' Barinov chimes in vividly to Nagiyev and puts the weight on "pozvonite" ("will call", from "pozvonit") as the exchange unfolds.
+- 'He is the owner of my restaurant.' Addressing his restaurant during the talk, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And he will confirm that I am who I say I am.' Barinov answers decisively without a pause, shifting the mood of the conversation in a single beat.
+- 'Go ahead and dictate the number, I guess.' Nagiyev speaks up directly at once and centers the remark on "navernoye" ("probably") without any extra fuss.
+- 'Are you serious?' Barinov casually gives this word of agreement at this moment using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Well, alright then.' Nagiyev warmly shares this word of agreement for Barinov using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".

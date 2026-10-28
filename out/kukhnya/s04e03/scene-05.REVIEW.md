@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have heard about this German.' Fedya speaks up at once in this moment, leaving no doubt about where he stands.
-- 'A buddy of mine used to work for him.' Fedya fires back plainly without a pause, letting the remark speak for itself.
-- 'Everywhere he works, he gets himself a snitch.' Fedya uses one memorable choice toward German: "stukacha" means "snitch", and it carries the main weight of what Fedya is saying.
-- 'That is a person who loves to gossip.' Senya replies briskly as they talk, before German can change the subject.
-- 'Everyone loves to gossip.' Senya follows up earnestly to settle things, testing Fedya's reaction in the middle of the exchange.
-- 'We do not have rats in our kitchen.' Fedya emphasizes one vivid touch in reply: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'I am listening to you.' German drops the reply before Fedya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I would like to help you.' Senya proceeds briskly without holding back, testing German's reaction in the middle of the exchange.
-- 'To settle into the new team.' Senya uses one classic word with Fedya: "kollektive" means "collective" (from "kollektiv"), giving the line its exact edge.
-- 'That is very interesting indeed.' German voices this warning briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I could tell you what people think of you in the kitchen.' Senya follows up promptly hearing Fedya, before Fedya can change the subject.
-- 'Reporting on colleagues is immoral.' German anchors one concrete term for Senya: "beznravstvenno" means "immoral", and it carries the main weight of what German is saying.
+- 'I have heard about this German.' Fedya speaks up promptly in the exchange and brings in "slyshal" ("heard", from "slyshat") as the key Russian word here.
+- 'A buddy of mine used to work for him.' Fedya fires back plainly with a shrug, leaving no doubt about where he stands.
+- 'Everywhere he works, he gets himself a snitch.' Mentioning a snitch to Senya, Fedya leans on "stukacha" ("snitch") to give the whole sentence its punch.
+- 'That is a person who loves to gossip.' Bringing up a person with Fedya, Senya centers the remark on "spletnichat" ("to gossip") without any extra fuss.
+- 'Everyone loves to gossip.' Senya pushes back earnestly around Fedya, to clear the air between them once and for all.
+- 'We do not have rats in our kitchen.' Turning to his kitchen with Senya, Fedya brings in "kukhne" ("kitchen", from "kukhnya") as the key Russian word here.
+- 'I am listening to you.' Holding firm evenly in front of Fedya, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I would like to help you.' Senya steps in briskly without holding back, so German knows he is not just making small talk.
+- 'To settle into the new team.' Touching on the collective in this beat, Senya leans on "kollektive" ("collective", a form of "kollektiv") to give the remark its edge.
+- 'That is very interesting indeed.' Pressing on briskly at once, German links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I could tell you what people think of you in the kitchen.' Senya opens up promptly during the talk, making his position completely clear.
+- 'Reporting on colleagues is immoral.' Emphasizing the colleagues before Senya, German chooses "beznravstvenno" ("immoral") so Senya gets the point right away.

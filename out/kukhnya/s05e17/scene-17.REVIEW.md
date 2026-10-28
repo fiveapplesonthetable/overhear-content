@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, I really did it by accident.' Barinov fires back sharply beside Eleonora, bringing things back to earth after the buildup.
-- 'Vitenka, nothing ever happens by accident.' Eleonora opens up right away with Barinov, steering the talk right where she wants it.
-- 'Why have you been pestering me all day?' Eleonora chooses one memorable touch right here: "dostayosh" means "to reach, to take out" (from "dostavat"), giving the line its exact edge.
-- 'You are furious that I am with Dima now.' Eleonora offers that answer with warmth: the "-sya" ending on "besishsya" ("you are furious") turns the action inward or makes it happen between people naturally.
-- 'What complete nonsense that is!' Barinov pushes back briskly as they talk, bringing things back to earth after the buildup.
-- 'You have the keys to his car in your hands.' Eleonora leans on one direct expression at once: "klyuchi" means "the keys" (from "klyuch"), giving the line its exact edge.
-- 'After that will you say that you are not jealous?' Eleonora sends the thought without fuss: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Elya, do not confuse jealousy with pity.' Barinov continues briskly in this moment, before Eleonora can change the subject.
-- 'You could have found someone more decent.' Barinov underscores one vivid element with Eleonora: "poprilichneye" means "more decent" (from "prilichnyy"), giving the line its exact edge.
-- 'Interesting, for example, who exactly?' Eleonora hands over that point with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Well, for example, our Mikhail Dzhekovich.' Barinov continues briskly to be clear, without trying to dress up how he really feels.
-- 'A normal guy, works a lot, drinks little.' Barinov uses one sharp element in earnest: "normalnyy" means "decent, normal", and it carries the main weight of what Barinov is saying.
-- 'I am not looking for a husband among the staff.' Eleonora cuts in frankly around Barinov, without trying to dress up how she really feels.
+- 'Well, I really did it by accident.' Underscoring the honestly to Eleonora, Barinov reaches for the Russian word "pravda" ("honestly") right at the heart of the line.
+- 'Vitenka, nothing ever happens by accident.' Eleonora responds right away beside Barinov, before Barinov can change the subject.
+- 'Why have you been pestering me all day?' Eleonora fires back openly to Barinov and centers the thought on "dostayosh" ("to reach, to take out", from "dostavat") without wasting a word.
+- 'You are furious that I am with Dima now.' Reacting frankly on the spot, the "-sya" ending on "besishsya" ("you are furious") marks an action that unfolds mutually or turns back on the speaker.
+- 'What complete nonsense that is!' Barinov reacts briskly without any doubt, making his position completely clear.
+- 'You have the keys to his car in your hands.' Talking about the keys with Barinov, Eleonora chooses "klyuchi" ("the keys", from the root "klyuch") so Barinov hears the exact meaning.
+- 'After that will you say that you are not jealous?' Weighing in evenly beside Barinov, Eleonora puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Elya, do not confuse jealousy with pity.' Barinov cuts in briskly with a nod, grounding the moment in plain reality.
+- 'You could have found someone more decent.' Barinov continues smoothly with Eleonora and leans on "poprilichneye" ("more decent", a form of "prilichnyy") to give the remark its edge.
+- 'Interesting, for example, who exactly?' Stepping in frankly in front of Barinov, Eleonora keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Well, for example, our Mikhail Dzhekovich.' Barinov reacts briskly with a nod, steering the talk right where he wants it.
+- 'A normal guy, works a lot, drinks little.' Bringing up the real man in front of Eleonora, Barinov leans on "normalnyy" ("decent, normal") to give the whole sentence its punch.
+- 'I am not looking for a husband among the staff.' Turning to the staff in the exchange, Eleonora leans on "personala" ("staff", a form of "personal") to give the remark its edge.

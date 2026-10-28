@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a sweet girl.' Barinov speaks boldly on the spot, to clear the air between them once and for all.
-- 'Right, Lyova?' Vika leans on one telling word on cue: "pravda" means "honestly", and it carries the main weight of what Vika is saying.
-- 'When is the wedding?' Lyova offers that answer on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We cannot go to my place.' Barinov responds boldly during the talk, grounding the moment in plain reality.
-- 'Besides coffee, I also have my mother at home.' Vika emphasizes one colorful piece at once: "yeshchyo" means "more, still", and it carries the main weight of what Vika is saying.
-- 'She does not like late-night guests.' Lyova chimes in plainly on the spot, refusing to let the moment slip past.
-- 'Actually, she lives with me.' Barinov weighs in earnestly during the talk, to clear the air between them once and for all.
-- 'Well, then let us both head home.' Vika reaches for one practical piece toward Lyova: "domam" means "homes", and it carries the main weight of what Vika is saying.
-- 'Ah, apparently so.' Lyova brings that reply in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Sorry, forgive me.' Barinov speaks pointedly in this moment, saying out loud what both of them already know.
-- 'My car is parked over there.' Vika spotlights one vivid expression at once: "mashina" means "a car", and it carries the main weight of what Vika is saying.
-- 'Good evening, Viktor Petrovich.' Lyova directs this answer around Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'We are watching the ballet here.' Barinov proceeds honestly to settle things, leaving no doubt about where he stands.
+- 'What a sweet girl.' Barinov jumps in boldly with a sigh, refusing to let the moment slip past.
+- 'Right, Lyova?' Addressing the honestly in front of Lyova, Vika brings in "pravda" ("honestly") to make the meaning unmistakable.
+- 'When is the wedding?' Touching on the wedding in front of Barinov, Lyova links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We cannot go to my place.' Barinov follows up boldly with a nod, bringing things back to earth after the buildup.
+- 'Besides coffee, I also have my mother at home.' Highlighting the coffee on the spot, Vika reaches for the Russian word "yeshchyo" ("more, still") right at the heart of the line.
+- 'She does not like late-night guests.' Addressing the guests in this beat, Lyova brings in "pozdnikh" ("hour", from "pozdniy") as the key Russian word here.
+- 'Actually, she lives with me.' Barinov speaks earnestly without any doubt, keeping the focus on what actually matters here.
+- 'Well, then let us both head home.' Mentioning the homes before Barinov, Vika centers the remark on "domam" ("homes") without any extra fuss.
+- 'Ah, apparently so.' Holding firm boldly before Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Sorry, forgive me.' Barinov quietly directs this personal apology for Lyova using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'My car is parked over there.' Discussing her car with Barinov, Vika lands on "mashina" ("a car") as the key everyday word here.
+- 'Good evening, Viktor Petrovich.' Lyova briskly speaks this evening greeting without hesitation using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'We are watching the ballet here.' Barinov replies honestly in their talk, letting the remark speak for itself.

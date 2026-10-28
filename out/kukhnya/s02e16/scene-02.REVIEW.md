@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will go close the door.' Max drops that reply facing Sasha: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'So, did you get a good night's sleep?' Sasha questions straight out if there is more going on behind the scenes.
-- 'What is the matter, Sasha will not let you near her?' Max emphasizes one sharp choice with Sasha: "dayut" means "they give" (from "davat"), giving the line its exact edge.
-- 'What did you just say?' Sasha sends this statement with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Who is going to believe you?' Max asks candidly how Sasha expects that to work in practice.
-- 'Lavrov, what on earth are you doing?' Sasha centers one loaded expression on cue: "tvorish-to" means "are doing, creating" (from "tvorit"), giving the line its exact edge.
-- 'Have you completely lost your mind or what?' Max hands over the thought plainly here: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Stop it, what are you doing?' Sasha probes calmly whether Max really thought this through.
-- 'Come on, get up.' Max chooses one direct choice with Sasha: "vstavay" means "get up, stand up" (from "vstavat"), giving the line its exact edge.
-- 'Enough already, what are you doing.' Sasha aims the remark to Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I did not even lay a finger on him!' Max weighs in promptly across the room, watching Sasha's face to see how the news lands.
-- 'Well, actually, that is exactly what happened.' Sasha sharpens this telling piece on cue: "voobshche-to" means "actually", and it carries the main weight of what Sasha is saying.
-- 'Let go of me.' Max frames this warning without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I will go close the door.' Speaking dryly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'So, did you get a good night's sleep?' Sasha questions straight out to see how Max will answer on the spot.
+- 'What is the matter, Sasha will not let you near her?' Max continues evenly in front of Sasha and chooses "dayut" ("they give", from the root "davat") so Sasha hears the exact meaning.
+- 'What did you just say?' Holding firm openly around Max, Sasha keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Who is going to believe you?' Max asks candidly while looking straight at Sasha here.
+- 'Lavrov, what on earth are you doing?' Sasha continues smoothly to Max and leans on "tvorish-to" ("are doing, creating", a form of "tvorit") to give the remark its edge.
+- 'Have you completely lost your mind or what?' Reacting promptly around Sasha, Max adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Stop it, what are you doing?' Sasha probes calmly why things suddenly took this turn between them.
+- 'Come on, get up.' Max chimes in openly on the spot and centers the thought on "vstavay" ("get up, stand up", from "vstavat") without wasting a word.
+- 'Enough already, what are you doing.' Describing how good things are in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I did not even lay a finger on him!' Max steps in promptly hearing Sasha, before Sasha can change the subject.
+- 'Well, actually, that is exactly what happened.' Holding firm readily in the exchange, Sasha drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Let go of me.' Holding firm frankly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

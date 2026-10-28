@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Elena Pavlovna, I need to pass something along to you.' Barinov leans on one telling touch right here: "dolzhen" means "has to, must", and it carries the main weight of what Barinov is saying.
-- 'No, this is not Viktor Petrovich.' Max steps in firmly as they talk, leaving no doubt about where he stands.
-- 'This is your secret admirer.' Elena reaches for one clear piece in earnest: "poklonnik" means "admirer, fan", and it carries the main weight of what Elena is saying.
-- 'No, I am not a cook, not at all.' Barinov directs this update toward Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I usually go scuba diving.' Max follows up firmly watching Barinov, making his position completely clear.
-- 'Yes, I know that it is very dangerous.' Elena underscores this clear element toward Max: "opasno" means "dangerous", and it carries the main weight of what Elena is saying.
-- 'A person must experience everything in life.' Barinov stands firm dryly with a smile, grounding the moment in plain reality.
-- 'I do not care.' Max responds frankly to settle things, testing Elena's reaction in the middle of the exchange.
-- 'I am having a very important conversation.' Elena highlights this telling piece at once: "razgovor" means "conversation", and it carries the main weight of what Elena is saying.
-- 'Get out of here!' Barinov shapes that point with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Come back later.' Max speaks up earnestly in this moment, to clear the air between them once and for all.
-- 'Well, just like that.' Elena offers this answer beside Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Nothing else.' Barinov frames this answer with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Hello, Elena Pavlovna, I need to pass something along to you.' Barinov speaks earnestly with a shrug, before Elena can change the subject.
+- 'No, this is not Viktor Petrovich.' Max speaks firmly across the room, before Barinov can change the subject.
+- 'This is your secret admirer.' Bringing up the admirer in this beat, Elena chooses "poklonnik" ("admirer, fan") so Max gets the point right away.
+- 'No, I am not a cook, not at all.' Checking on a cook in the exchange, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I usually go scuba diving.' Max answers firmly during the talk, making his position completely clear.
+- 'Yes, I know that it is very dangerous.' Elena reacts smoothly at once and puts the emphasis on "opasno" ("dangerous") in the middle of the talk.
+- 'A person must experience everything in life.' Pointing to the life on the spot, Barinov leans on "dolzhen" ("has to, must") to give the whole sentence its punch.
+- 'I do not care.' Max chimes in frankly with a sigh, grounding the moment in plain reality.
+- 'I am having a very important conversation.' Mentioning the conversation in this beat, Elena lands on "razgovor" ("conversation") as the key everyday word here.
+- 'Get out of here!' Pushing back candidly to Elena, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Come back later.' Max replies earnestly with a sigh, shifting the mood of the conversation in a single beat.
+- 'Well, just like that.' Following up directly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Nothing else.' Answering candidly beside Elena, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

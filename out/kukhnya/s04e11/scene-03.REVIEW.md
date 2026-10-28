@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You must bring your appearance closer to the person's.' Lyova cuts in quietly before Barinov, saying out loud what both of them already know.
-- 'Look who has returned from Turkey!' Barinov grounds one vivid touch right here: "turtsii" means "turkey" (from "turtsiya"), giving the line its exact edge.
-- 'How was your vacation, what did you bring me?' Barinov aims this update facing Lyova: putting the question word "kak" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'Hey, what is that on your face?' Barinov prompts eagerly what Lyova is actually getting at here.
-- 'What, are they really real?' Barinov chooses one sharp word with Lyova: "nastoyashchiye" means "real" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Why did you grow a moustache, Lyova?' Barinov drops the comeback to Lyova: putting the question word "zachem" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'Mom says a moustache suits me very well.' Lyova speaks up sharply without holding back, refusing to let the moment slip past.
-- 'And have you finished your foolish war?' Lyova favors this clear word on cue: "duratskuyu" means "foolish, stupid" (from "duratskiy"), giving the line its exact edge.
-- 'Of course, we finished it a long time ago.' Barinov speaks briskly across the room, grounding the moment in plain reality.
-- 'Are you deceiving me again, chef?' Lyova tests calmly what Barinov is actually getting at here.
-- 'People called me from here every day.' Lyova uses one sharp expression for Barinov: "kazhdyy" means "every", and it carries the main weight of what Lyova is saying.
-- 'You have not finished anything at all!' Lyova offers the reaction facing Barinov: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Chef, please hear me out.' Lyova opens up right away to settle things, grounding the moment in plain reality.
-- 'You should not behave like that.' Lyova points to one pointed word for Barinov: "vesti" means "to conduct", and it carries the main weight of what Lyova is saying.
+- 'You must bring your appearance closer to the person's.' Lyova responds quietly without any doubt, to clear the air between them once and for all.
+- 'Look who has returned from Turkey!' Discussing the turkey on the spot, Barinov uses "turtsii" ("turkey", from "turtsiya") to make the point stick.
+- 'How was your vacation, what did you bring me?' Answering naturally in the exchange, Barinov puts the question word "kak" right at the start so Lyova hears the focus immediately.
+- 'Hey, what is that on your face?' Barinov prompts eagerly while looking straight at Lyova here.
+- 'What, are they really real?' Insisting on how real things are in front of Lyova, Barinov reaches for the Russian word "nastoyashchiye" ("real", built from "nastoyashchiy") right at the center of the line.
+- 'Why did you grow a moustache, Lyova?' Holding firm candidly in the exchange, Barinov puts the question word "zachem" right at the start so Lyova hears the focus immediately.
+- 'Mom says a moustache suits me very well.' Lyova speaks up sharply in their talk, letting the remark speak for itself.
+- 'And have you finished your foolish war?' Addressing the war in front of Barinov, Lyova lands on "duratskuyu" ("foolish, stupid", built on "duratskiy") to keep the statement grounded.
+- 'Of course, we finished it a long time ago.' Barinov directly sends this confirmation at the start of the beat using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Are you deceiving me again, chef?' Lyova tests calmly while looking straight at Barinov here.
+- 'People called me from here every day.' Lyova speaks smoothly in front of Barinov and centers the thought on "zvonili" ("called", from "zvonit") without wasting a word.
+- 'You have not finished anything at all!' Pressing on dryly in the exchange, Lyova pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Chef, please hear me out.' Lyova naturally drops this courtesy word in one quick breath using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'You should not behave like that.' Lyova counters naturally in this beat and centers the remark on "vesti" ("to conduct") without any extra fuss.

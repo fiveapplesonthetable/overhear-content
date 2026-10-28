@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, why are you sending me home?' Barinov uses one pointed expression in reply: "otpravlyayesh" means "you are sending" (from "otpravlyat"), giving the line its exact edge.
-- 'Before, you did not give me a vacation for a long time.' Barinov centers one clear detail toward Vika: "otpusk" means "vacation", and it carries the main weight of what Barinov is saying.
-- 'I am simply becoming a very kind person now.' Nagiyev continues pointedly without a pause, so Barinov knows he is not just making small talk.
-- 'Vika, maybe we really should do a renovation?' Nagiyev emphasizes this sharp word for Vika: "deystvitelno" means "really, indeed", and it carries the main weight of what Nagiyev is saying.
-- 'Let us redo everything in the restaurant from scratch!' Nagiyev holds firm decisively facing Barinov, letting the remark speak for itself.
-- 'Only if this renovation is at your expense.' Vika holds firm decisively to settle things, steering the talk right where she wants it.
-- 'Alright, I will go stop by the kitchen right now.' Barinov sharpens one telling expression toward Nagiyev: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
-- 'What do you have to do in that kitchen right now?' Nagiyev frames the thought facing Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'I gave you days off after all.' Nagiyev pushes back openly to settle things, steering the talk right where he wants it.
-- 'Yes, I will leave, I will just pick up my things.' Barinov spotlights one pointed element for Vika: "veshchi" means "things" (from "veshch"), giving the line its exact edge.
-- 'Wait, who is that standing in the kitchen over there?' Barinov lays out this statement with ease: putting the question word "kto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'The cooks are preparing two beef dishes for the guests.' Vika speaks calmly in this moment, saying out loud what both of them already know.
-- 'Everyone in the kitchen is saying to him: yes, Chef!' Vika centers this sharp piece on cue: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'Dima, why are you sending me home?' Barinov counters promptly beside Nagiyev and lands on "otpravlyayesh" ("you are sending", built on "otpravlyat") to keep the statement grounded.
+- 'Before, you did not give me a vacation for a long time.' Barinov pushes back plainly without any doubt, making his position completely clear.
+- 'I am simply becoming a very kind person now.' Nagiyev answers pointedly with a smile, letting the remark speak for itself.
+- 'Vika, maybe we really should do a renovation?' Underscoring a renovation in the exchange, Nagiyev chooses "deystvitelno" ("really, indeed") so Vika gets the point right away.
+- 'Let us redo everything in the restaurant from scratch!' Pointing to the restaurant around Vika, Nagiyev centers the thought on "restorane" ("restaurant", from "restoran") without wasting a word.
+- 'Only if this renovation is at your expense.' Vika chimes in decisively toward Nagiyev, before Nagiyev can change the subject.
+- 'Alright, I will go stop by the kitchen right now.' Highlighting the kitchen in front of Vika, Barinov uses "kukhnyu" ("kitchen", from "kukhnya") to make the point stick.
+- 'What do you have to do in that kitchen right now?' Cutting in plainly to Barinov, Nagiyev puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'I gave you days off after all.' Nagiyev continues openly during the talk, grounding the moment in plain reality.
+- 'Yes, I will leave, I will just pick up my things.' Barinov fires back calmly in this beat and reaches for the Russian word "zaberu" ("will take", built from "zabrat") right at the center of the line.
+- 'Wait, who is that standing in the kitchen over there?' Addressing the kitchen in front of Vika, Barinov puts the question word "kto" right at the start so Vika hears the focus immediately.
+- 'The cooks are preparing two beef dishes for the guests.' Vika fires back calmly without holding back, grounding the moment in plain reality.
+- 'Everyone in the kitchen is saying to him: yes, Chef!' Turning to the kitchen in this beat, Vika lands on "kukhne" ("kitchen", built on "kukhnya") to keep the statement grounded.

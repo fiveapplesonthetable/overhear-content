@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is the most important thing in a waiter's job?' Max emphasizes one colorful word in reply: "ofitsianta" means "waiter" (from "ofitsiant"), giving the line its exact edge.
-- 'Manners? Politeness?' Max gives the reply with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
-- 'Spectacular presentation of dishes makes them tastier.' Max cuts in firmly to be clear, grounding the moment in plain reality.
-- 'An individual approach?' Max reaches for one key element right here: "individualnyy" means "individual", and it carries the main weight of what Max is saying.
-- 'Right, I am not allowed to have this. This either.' The guest aims the thought for Max: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
-- 'In my opinion, the main thing is patience.' Max cuts in promptly without a pause, bringing things back to earth after the buildup.
-- 'You know what, give me a coffee.' The guest features one key piece at once: "znayete" means "know" (from "znat"), giving the line its exact edge.
-- 'And that is all.' The guest hands over this answer to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'What are you doing? He ordered just coffee!' Max tests calmly about what the guest just brought up.
-- 'Coffee? Yes, give me an espresso coffee.' The guest reaches for one sharp expression for Max: "espresso" means "espresso", and it carries the main weight of what the guest is saying.
-- 'And here, keep the change.' The guest drops the comeback before Max: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Sometimes patience is very generously rewarded.' Max pushes back bluntly with the guest, saying out loud what both of them already know.
+- 'What is the most important thing in a waiter's job?' Highlighting a waiter on the spot, Max puts the weight on "ofitsianta" ("waiter", from "ofitsiant") as the exchange unfolds.
+- 'Manners? Politeness?' Dwelling on the politeness right here, Max keeps normal statement word order here, turning the line into a question for the guest purely through rising pitch.
+- 'Spectacular presentation of dishes makes them tastier.' Max opens up firmly in this moment, bringing things back to earth after the buildup.
+- 'An individual approach?' Mentioning an individual approach before the guest, Max puts the emphasis on "individualnyy" ("individual") in the middle of the talk.
+- 'Right, I am not allowed to have this. This either.' Pushing back firmly before Max, the guest leans on "nelzya" ("it is not allowed, one must not"), which carries the whole predicate in Russian without needing "it is".
+- 'In my opinion, the main thing is patience.' Max continues promptly in their talk, making his position completely clear.
+- 'You know what, give me a coffee.' Highlighting a coffee right here, the guest chooses "kofe" ("of coffee") so Max gets the point right away.
+- 'And that is all.' Pressing on dryly beside Max, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'What are you doing? He ordered just coffee!' Max tests calmly before the guest can change the subject.
+- 'Coffee? Yes, give me an espresso coffee.' Touching on an espresso at once, the guest puts the emphasis on "espresso" ("espresso") in the middle of the talk.
+- 'And here, keep the change.' Talking about the change during the talk, the guest leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Sometimes patience is very generously rewarded.' Max opens up bluntly with a nod, before the guest can change the subject.

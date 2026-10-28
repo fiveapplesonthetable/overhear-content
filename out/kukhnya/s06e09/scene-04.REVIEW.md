@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sorry that it turned out like this this morning.' Denis features one sharp term toward Katya: "segodnya" means "today", and it carries the main weight of what Denis is saying.
-- 'She was the one who suddenly flew onto the main road.' Sveta responds at once with a smile, watching Katya's face to see how the news lands.
-- 'Denis, here, I brought you some ice.' Katya weighs in frankly across the room, keeping the focus on what actually matters here.
-- 'You are rushing around the kitchen fast again.' Sveta emphasizes one direct detail toward Katya: "nosishsya" means "you rush around" (from "nositsya"), giving the line its exact edge.
-- 'Girls, let us calm down a bit right now.' Denis shares the thought toward Katya: the word "davayte" is the polite or group version of "let's", inviting Katya into the plan right away.
-- 'Alright, you calmly treat your arm.' Sveta cuts in bluntly beside Katya, refusing to let the moment slip past.
-- 'Sveta, let us just forget about the accident.' Denis underscores this sharp touch in earnest: "avariyu" means "accident, crash" (from "avariya"), giving the line its exact edge.
-- 'And what if you cannot play anymore?' Sveta drops this update in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Let them pay for the doctor and the X-ray.' Katya speaks frankly before Denis, shifting the whole mood of the room in a single beat.
-- 'Exactly, you definitely need a good doctor.' Sveta features one pointed term in earnest: "obyazatelno" means "surely, without fail", and it carries the main weight of what Sveta is saying.
-- 'Katya, can you drive me to the X-ray?' Denis puts that answer with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'If you are not afraid to ride with me.' Katya answers earnestly without a pause, without trying to dress up how she really feels.
-- 'Great, then we will meet in exactly half an hour.' Denis points to one practical expression at once: "vstretimsya" means "we'll meet" (from "vstretitsya"), giving the line its exact edge.
+- 'Sorry that it turned out like this this morning.' Denis chimes in evenly to Sveta and leans on "segodnya" ("today") to give the whole sentence its punch.
+- 'She was the one who suddenly flew onto the main road.' Sveta opens up sharply at once and lands on "glavnuyu" ("main", built on "glavnyy") to keep the statement grounded.
+- 'Denis, here, I brought you some ice.' Katya steps in frankly without holding back, to clear the air between them once and for all.
+- 'You are rushing around the kitchen fast again.' Underscoring the kitchen on the spot, Sveta uses "nosishsya" ("you rush around", from "nositsya") to make the point stick.
+- 'Girls, let us calm down a bit right now.' Addressing the girl at once, Denis uses the polite or group form "davayte" ("let's") to bring Sveta into the plan.
+- 'Alright, you calmly treat your arm.' Sveta answers bluntly toward Denis, steering the talk right where she wants it.
+- 'Sveta, let us just forget about the accident.' Focusing on the accident in the exchange, Denis centers the thought on "avariyu" ("accident, crash", from "avariya") without wasting a word.
+- 'And what if you cannot play anymore?' Stepping in plainly right here, Sveta keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Let them pay for the doctor and the X-ray.' Katya jumps in frankly with a nod, leaving no doubt about where she stands.
+- 'Exactly, you definitely need a good doctor.' Underscoring a good doctor beside Katya, Sveta lands on "khoroshiy" ("good") as the key everyday word here.
+- 'Katya, can you drive me to the X-ray?' Checking on the fine in this beat, Denis keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'If you are not afraid to ride with me.' Katya opens up earnestly without holding back, testing Denis's reaction in the middle of the exchange.
+- 'Great, then we will meet in exactly half an hour.' Emphasizing an hour before Katya, Denis chooses "vstretimsya" ("we'll meet", from the root "vstretitsya") so Katya hears the exact meaning.

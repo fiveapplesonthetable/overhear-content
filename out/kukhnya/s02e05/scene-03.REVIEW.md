@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I just do not know.' Barinov proceeds calmly on the spot, letting the remark speak for itself.
-- 'You see, Kostyan, with Vika...' Vika chooses one sharp choice toward Kostya: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
-- 'Yes, with Vika it is complicated, with Sasha it is simple.' Kostya sends this update with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I have heard that already.' Barinov holds firm calmly facing Vika, steering the talk right where he wants it.
-- 'I do not know what to do.' Vika grounds this clear piece in earnest: "znayu" means "know" (from "znat"), giving the line its exact edge.
-- 'Wait, do you have an idea?' Kostya lays out that answer at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Go on, get out of here, Kostyan.' Barinov weighs in dryly beside Kostya, saying out loud what both of them already know.
-- 'Steak tartare is a raw dish.' Vika uses one pointed choice right here: "tartar" means "tartare", and it carries the main weight of what Vika is saying.
-- 'You do not fry it.' Kostya aims the reply right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Only idiots fry it.' Barinov proceeds plainly to settle things, steering the talk right where he wants it.
-- 'Lyova, am I an idiot?' Vika frames one direct detail with Barinov: "idiot" means "idiot", and it carries the main weight of what Vika is saying.
-- 'What was that pause for?' Kostya hands over that reply on cue: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'No, Chef.' Vika continues warmly toward Barinov, refusing to let the moment slip past.
+- 'I just do not know.' Barinov speaks up calmly beside Vika, grounding the moment in plain reality.
+- 'You see, Kostyan, with Vika...' Vika cuts in quietly in front of Kostya and brings in "ponimayesh" ("do you understand", from "ponimat") as the key Russian word here.
+- 'Yes, with Vika it is complicated, with Sasha it is simple.' Pointing out how difficult things are around Vika, Kostya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I have heard that already.' Barinov responds calmly with a nod, without trying to dress up how he really feels.
+- 'I do not know what to do.' Vika replies calmly with a sigh, bringing things back to earth after the buildup.
+- 'Wait, do you have an idea?' Addressing an idea with Barinov, Kostya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Go on, get out of here, Kostyan.' Barinov speaks dryly without any doubt, steering the talk right where he wants it.
+- 'Steak tartare is a raw dish.' Touching on the tartare beside Barinov, Vika leans on "tartar" ("tartare") to give the whole sentence its punch.
+- 'You do not fry it.' Opening up briskly before Vika, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Only idiots fry it.' Barinov steps in plainly without any doubt, leaving no doubt about where he stands.
+- 'Lyova, am I an idiot?' Mentioning an idiot with Kostya, Vika lands on "idiot" ("idiot") as the key everyday word here.
+- 'What was that pause for?' Mentioning the pause with Vika, Kostya puts the question word "chto" right at the start so Vika hears the focus immediately.
+- 'No, Chef.' Vika openly speaks this direct refusal with Barinov using "net" ("no") — a plain "net" ("no") that gives an immediate answer.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, how are you feeling, my friend?' Kostya shapes the comeback with ease: putting the question word "kak" right at the front of the line lets the doctor hear the point of the question on the very first beat.
-- 'Hello, tell me, do we know each other?' Max checks wryly about what Kostya just brought up.
-- 'Very funny! Wait, I do not get it right now.' Kostya spotlights one loaded term on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Well, how is our patient feeling today?' The doctor shares this answer on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Doctor, it seems there is something wrong with his memory.' Kostya stands firm calmly as they talk, making his position completely clear.
-- 'The blow was strong, it could have caused amnesia.' The doctor leans on this clear term for Max: "amneziyu" means "amnesia" (from "amneziya"), giving the line its exact edge.
-- 'Look right here, do you see the dark spot?' The doctor offers the reaction to Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'That is a hematoma, it became the cause of memory loss.' The doctor counters lightly with Max, shifting the whole mood of the room in a single beat.
-- 'He remembers everything that happened two years ago.' Kostya centers one pointed choice toward the doctor: "proiskhodilo" means "was happening" (from "proiskhodit"), giving the line its exact edge.
-- 'First very old memories return to a person.' The doctor puts the reply beside Max: the "-sya" ending on "vozvrashchayutsya" ("return") turns the action inward or makes it happen between people naturally.
-- 'If you did not save in time, you start the game over!' Kostya holds firm honestly with a smile, letting the remark speak for itself.
-- 'Come back tomorrow morning, right now the patient needs rest.' The doctor features one vivid touch right here: "bolnomu" means "to the patient" (from "bolnoy"), giving the line its exact edge.
+- 'Max, how are you feeling, my friend?' Answering warmly in the exchange, Kostya puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'Hello, tell me, do we know each other?' Max checks wryly before Kostya can change the subject.
+- 'Very funny! Wait, I do not get it right now.' Kostya answers firmly at once and lands on "podozhdi" ("wait", built on "podozhdat") to keep the statement grounded.
+- 'Well, how is our patient feeling today?' Addressing the health during the talk, the doctor links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Doctor, it seems there is something wrong with his memory.' Kostya jumps in calmly facing the doctor, grounding the moment in plain reality.
+- 'The blow was strong, it could have caused amnesia.' Discussing the amnesia to Kostya, the doctor puts the weight on "amneziyu" ("amnesia", from "amneziya") as the exchange unfolds.
+- 'Look right here, do you see the dark spot?' Touching on the dark spot at once, the doctor keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'That is a hematoma, it became the cause of memory loss.' The doctor speaks lightly with a smile, to clear the air between them once and for all.
+- 'He remembers everything that happened two years ago.' Kostya follows up warmly in the exchange and chooses "proiskhodilo" ("was happening", from the root "proiskhodit") so the doctor hears the exact meaning.
+- 'First very old memories return to a person.' Turning to the memory in front of Kostya, the "-sya" ending on "vozvrashchayutsya" ("return") marks an action that unfolds mutually or turns back on the speaker.
+- 'If you did not save in time, you start the game over!' Kostya pushes back honestly around the doctor, so the doctor knows he is not just making small talk.
+- 'Come back tomorrow morning, right now the patient needs rest.' Underscoring the peace on the spot, the doctor centers the thought on "bolnomu" ("to the patient", from "bolnoy") without wasting a word.

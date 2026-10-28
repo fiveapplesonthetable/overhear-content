@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Please put away the pistol, do not shoot!' Kostya holds firm lightly to be clear, leaving no doubt about where he stands.
-- 'But I am still scared right now.' Kostya focuses on this clear touch for Nastya: "strashno" means "scary, frightening", and it carries the main weight of what Kostya is saying.
-- 'Dad, stop, please do not touch him!' Nastya shares this statement without pause: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Nastya, Kostya, what are you doing here?' Louis prompts quietly how Nastya expects that to work in practice.
-- 'Louis, so it turns out you are the one with her?' Nastya anchors one sharp expression right here: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
-- 'After today I am not sure of anything.' Kostya delivers that reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I met Polina, and everything turned upside down.' Louis speaks up quietly toward Kostya, watching Kostya's face to see how the news lands.
-- 'There you see, Nastya, I was telling the truth!' Kostya highlights one clear choice for Nastya: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
-- 'Forgive me, darling, I shouted for nothing.' Nastya lays out this answer without fuss: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'Alright, young people, sort things out here yourselves now.' Kostya cuts in right away around Nastya, keeping the focus on what actually matters here.
-- 'And we will probably head home.' Kostya reaches for one loaded word toward Louis: "poydyom" means "let's go" (from "poyti"), giving the line its exact edge.
-- 'Let us go quickly to watch the end of the fashion show.' Nastya speaks up warmly beside Louis, so Louis knows she is not just making small talk.
+- 'Please put away the pistol, do not shoot!' Kostya answers lightly with a smile, bringing things back to earth after the buildup.
+- 'But I am still scared right now.' Kostya weighs in warmly to Nastya and uses "strashno" ("scary, frightening") to carry the main weight of the thought.
+- 'Dad, stop, please do not touch him!' Addressing the dad in front of Kostya, Nastya uses "papa" ("Dad") to carry the main weight of the thought.
+- 'Nastya, Kostya, what are you doing here?' Louis prompts quietly if there is more going on behind the scenes.
+- 'Louis, so it turns out you are the one with her?' Nastya jumps in directly to Louis and reaches for the Russian word "poluchayetsya" ("works out", built from "poluchatsya") right at the center of the line.
+- 'After today I am not sure of anything.' Highlighting how sure he is in the exchange, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I met Polina, and everything turned upside down.' Louis speaks up quietly with a shrug, testing Kostya's reaction in the middle of the exchange.
+- 'There you see, Nastya, I was telling the truth!' Touching on the truth beside Nastya, Kostya chooses "pravdu" ("truth", from the root "pravda") so Nastya hears the exact meaning.
+- 'Forgive me, darling, I shouted for nothing.' Nastya continues sharply around Kostya and centers the remark on "milyy" ("darling") without any extra fuss.
+- 'Alright, young people, sort things out here yourselves now.' Raising the youth without holding back, Kostya puts the real issue right on the table for Nastya.
+- 'And we will probably head home.' Kostya cuts in naturally at once and brings in "poydyom" ("let's go", from "poyti") as the key Russian word here.
+- 'Let us go quickly to watch the end of the fashion show.' Discussing the end around Kostya, Nastya puts the weight on "modnogo" ("fashionable", from "modnyy") as the exchange unfolds.

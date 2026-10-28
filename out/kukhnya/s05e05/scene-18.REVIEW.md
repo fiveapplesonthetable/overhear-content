@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, Eleonora Andreyevna is calling for you.' Kostya chimes in frankly with a smile, saying out loud what both of them already know.
-- 'Listen, I did not think that I would say such a thing.' Denis grounds one memorable touch at once: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'But thank you for being a blabbermouth.' Denis directs that reply beside Katya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'I did not understand.' Kostya steps in firmly with Katya, making his position completely clear.
-- 'I know that you confessed everything.' Denis picks this clear expression with Katya: "priznalsya" means "did he confess" (from "priznatsya"), giving the line its exact edge.
-- 'Katya reacted so calmly.' Denis sends that point in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'A huge weight fell right off my shoulders.' Denis pushes back calmly as they talk, letting the remark speak for itself.
-- 'Listen, Den, there is one catch.' Kostya centers one colorful expression toward Katya: "nyuans" means "nuance, catch", and it carries the main weight of what Kostya is saying.
-- 'What are you talking about?' Denis phrases that answer in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
-- 'Mom, this is only Denis's and my business.' Katya proceeds honestly with a sigh, without trying to dress up how she really feels.
-- 'You had better talk to her yourself.' Kostya favors one sharp element toward Denis: "pogovorit" means "to talk", and it carries the main weight of what Kostya is saying.
-- 'Alright, we will sort everything out right now.' Denis voices that thought without pause: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kostya is on board.
+- 'Katya, Eleonora Andreyevna is calling for you.' Kostya chimes in frankly with Denis, refusing to let the moment slip past.
+- 'Listen, I did not think that I would say such a thing.' Denis replies boldly at once and brings in "slushay" ("listen", from "slushat") as the key Russian word here.
+- 'But thank you for being a blabbermouth.' Denis pushes back evenly with a shrug, keeping the focus on what actually matters here.
+- 'I did not understand.' Kostya steps in firmly during the talk, bringing things back to earth after the buildup.
+- 'I know that you confessed everything.' Denis cuts in naturally at once and puts the weight on "priznalsya" ("did he confess", from "priznatsya") as the exchange unfolds.
+- 'Katya reacted so calmly.' Leaning in quietly in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'A huge weight fell right off my shoulders.' Addressing a huge weight around Kostya, Denis sets the direction for the rest of the talk with Kostya.
+- 'Listen, Den, there is one catch.' Highlighting the nuance around Denis, Kostya leans on "nyuans" ("nuance, catch") to give the whole sentence its punch.
+- 'What are you talking about?' Turning firmly on the spot, Denis keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'Mom, this is only Denis's and my business.' Katya jumps in honestly around Denis, to clear the air between them once and for all.
+- 'You had better talk to her yourself.' Kostya reacts smoothly to Katya and leans on "pogovorit" ("to talk") to give the whole sentence its punch.
+- 'Alright, we will sort everything out right now.' Denis simply chooses this word of agreement at the start of the beat using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".

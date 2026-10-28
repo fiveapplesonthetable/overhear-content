@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I have a great idea.' Fedya highlights this key piece in reply: "otlichnaya" means "excellent" (from "otlichnyy"), giving the line its exact edge.
-- 'Let's swap the face in this video.' Fedya sends that remark briskly now: the word "davayte" is the polite or group version of "let's", inviting Kostya into the plan right away.
-- 'Then they will definitely lock German up fast.' Fedya weighs in steadily before Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Fedya, what, are you a complete idiot?' Barinov emphasizes this vivid word with Kostya: "idiot" means "idiot", and it carries the main weight of what Barinov is saying.
-- 'I am not allowed to drink at all right now.' Kostya voices that reply to Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Kostya, what, are you on pills?' Fedya tests wryly while looking straight at Kostya here.
-- 'No, he is just afraid of his wife.' Barinov chooses this clear choice for Fedya: "boitsya" means "is afraid" (from "boyatsya"), giving the line its exact edge.
-- 'Listen, German is taking pills all the time.' Kostya speaks honestly facing Fedya, shifting the whole mood of the room in a single beat.
-- 'Really? What pills is he taking?' Barinov presses openly whether Fedya really thought this through.
-- 'I do not know, he keeps them in his office.' Kostya features one concrete detail for Fedya: "kabinete" means "office" (from "kabinet"), giving the line its exact edge.
-- 'That is very interesting for us.' Barinov shapes this point to Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We need to find out what kind of pills these are.' Barinov holds firm sharply with a smile, refusing to let the moment slip past.
+- 'Chef, I have a great idea.' Bringing up a great idea around Barinov, Fedya puts the weight on "otlichnaya" ("excellent", from "otlichnyy") as the exchange unfolds.
+- 'Let's swap the face in this video.' Bringing up the face around Barinov, Fedya uses the polite or group form "davayte" ("let's") to bring Barinov into the plan.
+- 'Then they will definitely lock German up fast.' Fedya counters steadily on the spot, so Barinov knows he is not just making small talk.
+- 'Fedya, what, are you a complete idiot?' Highlighting a complete idiot right here, Barinov lands on "idiot" ("idiot") as the key everyday word here.
+- 'I am not allowed to drink at all right now.' Replying evenly to Barinov, Kostya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Kostya, what, are you on pills?' Fedya tests wryly what Kostya is actually getting at here.
+- 'No, he is just afraid of his wife.' Discussing the wife at once, Barinov brings in "zheny" ("wife", from "zhena") as the key Russian word here.
+- 'Listen, German is taking pills all the time.' Highlighting the pill on the spot, Kostya lands on "tabletki" ("pill, tablet", built on "tabletka") to keep the statement grounded.
+- 'Really? What pills is he taking?' Barinov presses openly why things suddenly took this turn between them.
+- 'I do not know, he keeps them in his office.' Highlighting the office before Barinov, Kostya leans on "kabinete" ("office", a form of "kabinet") to give the remark its edge.
+- 'That is very interesting for us.' Cutting in dryly right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We need to find out what kind of pills these are.' Barinov reacts sharply in their talk, without trying to dress up how he really feels.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am married to an ideal woman.' Max stresses one pointed word for Kostya: "zhenshchine" means "a woman" (from "zhenshchina"), giving the line its exact edge.
-- 'That is a good thing, isn't it?' Kostya lays out this warning right away: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Kostya, what is good about that?' Max questions frankly where this conversation is heading next.
-- 'She has no flaws at all.' Max voices the comment at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'It is impossible to find fault with her.' Max states that answer with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Well, I don't know, Max.' Kostya continues earnestly across the room, steering the talk right where he wants it.
-- 'It is a sin for the two of us to complain.' Kostya frames one key word toward Max: "zhalovatsya" means "complain", and it carries the main weight of what Kostya is saying.
-- 'You and I got lucky.' Kostya shares the reaction plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Who else would fry pancakes like these?' Kostya prompts calmly as Max tries to explain the situation.
-- 'Listen, Vika has never baked pancakes for me.' Max sharpens this clear detail toward Kostya: "blinov" means "pancakes" (from "blin"), giving the line its exact edge.
-- 'She has never cooked anything for me at all.' Max directs this answer with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'She has been my wife for half a year.' Max weighs in evenly facing Kostya, so Kostya knows he is not just making small talk.
+- 'I am married to an ideal woman.' Bringing up an ideal woman in the exchange, Max puts the weight on "zhenshchine" ("a woman", from "zhenshchina") as the exchange unfolds.
+- 'That is a good thing, isn't it?' Reacting quietly in the exchange, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Kostya, what is good about that?' Max questions frankly before Kostya can change the subject.
+- 'She has no flaws at all.' Jumping in candidly beside Kostya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'It is impossible to find fault with her.' Stepping in naturally to Kostya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Well, I don't know, Max.' Kostya chimes in earnestly with a sigh, leaving no doubt about where he stands.
+- 'It is a sin for the two of us to complain.' Mentioning a sin before Max, Kostya lands on "zhalovatsya" ("complain") as the key everyday word here.
+- 'You and I got lucky.' Opening up openly in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Who else would fry pancakes like these?' Kostya prompts calmly before Max can change the subject.
+- 'Listen, Vika has never baked pancakes for me.' Highlighting the pancakes to Kostya, Max reaches for the Russian word "blinov" ("pancakes", built from "blin") right at the center of the line.
+- 'She has never cooked anything for me at all.' Cutting in candidly during the talk, Max drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'She has been my wife for half a year.' Max speaks evenly without a pause, making his position completely clear.

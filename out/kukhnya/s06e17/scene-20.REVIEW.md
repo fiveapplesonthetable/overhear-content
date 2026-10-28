@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lord, why are you punishing me?' Barinov makes that thought without pause: putting the question word "chto" right at the front of the line lets the doctor hear the point of the question on the very first beat.
-- 'No breathing, we are starting resuscitation.' The doctor reacts firmly as they talk, steering the talk right where he wants it.
-- 'Our Lyova jammed up again.' Barinov frames one loaded word right here: "zaklinil" means "jammed" (from "zaklinit"), giving the line its exact edge.
-- 'Vitya, what kind of person are you?' The doctor phrases that answer around Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You ruined the whole wedding with a funeral.' Barinov weighs in decisively before the doctor, making his position completely clear.
-- 'Let us drink to our optimism.' Barinov anchors one familiar term on cue: "optimizm" means "optimism", and it carries the main weight of what Barinov is saying.
-- 'Viktor Petrovich is in a coma.' The doctor aims the reaction facing Barinov: the "-sya" ending on "nakhoditsya" ("to be located") turns the action inward or makes it happen between people naturally.
-- 'His condition is stable but serious.' The doctor cuts in honestly with a sigh, before Eleonora can change the subject.
-- 'Vitya, forgive me, please.' Eleonora centers one telling word in earnest: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
-- 'That inspector was not real.' Eleonora steps in bluntly in this moment, leaving no doubt about where she stands.
-- 'I staged all of this myself.' Eleonora answers evenly without any doubt, letting the remark speak for itself.
-- 'Who could have known it would turn out like this.' Eleonora chooses one loaded expression in earnest: "poluchitsya" means "will come out", and it carries the main weight of what Eleonora is saying.
+- 'Lord, why are you punishing me?' Weighing in briskly before the doctor, Barinov puts the question word "chto" right at the start so the doctor hears the focus immediately.
+- 'No breathing, we are starting resuscitation.' The doctor continues firmly hearing Barinov, bringing things back to earth after the buildup.
+- 'Our Lyova jammed up again.' Barinov jumps in promptly to the doctor and leans on "zaklinil" ("jammed", a form of "zaklinit") to give the remark its edge.
+- 'Vitya, what kind of person are you?' Answering smoothly to Barinov, the doctor links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You ruined the whole wedding with a funeral.' Barinov replies decisively beside the doctor, testing the doctor's reaction in the middle of the exchange.
+- 'Let us drink to our optimism.' Emphasizing his optimism on the spot, Barinov puts the emphasis on "optimizm" ("optimism") in the middle of the talk.
+- 'Viktor Petrovich is in a coma.' Focusing on a coma with Barinov, the "-sya" ending on "nakhoditsya" ("to be located") marks an action that unfolds mutually or turns back on the speaker.
+- 'His condition is stable but serious.' The doctor opens up honestly on the spot, grounding the moment in plain reality.
+- 'Vitya, forgive me, please.' Eleonora openly delivers this personal apology right on cue using "prosti" ("forgive me") — the close, informal way to say "forgive me" or "I'm sorry" to someone dear.
+- 'That inspector was not real.' Mentioning the inspector before the doctor, Eleonora brings in "nastoyashchim" ("real, genuine", from "nastoyashchiy") as the key Russian word here.
+- 'I staged all of this myself.' Eleonora responds evenly with a smile, before the doctor can change the subject.
+- 'Who could have known it would turn out like this.' Eleonora responds calmly in front of the doctor and centers the remark on "poluchitsya" ("will come out") without any extra fuss.

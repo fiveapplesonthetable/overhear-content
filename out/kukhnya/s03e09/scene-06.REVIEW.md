@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well that is it, pal, you are trapped now.' Senya jumps in sharply with a smile, without trying to dress up how he really feels.
-- 'Why am I suddenly trapped?' Max grounds one sharp element on cue: "vdrug" means "suddenly, what if", and it carries the main weight of what Max is saying.
-- 'Our Chef breaks up with a woman.' Senya jumps in openly with a nod, leaving no doubt about where he stands.
-- 'Then he sinks into a deep sadness.' Senya replies firmly before Max, so Max knows he is not just making small talk.
-- 'He gets very bored being alone there.' Senya underscores this clear element for Barinov: "skuchno" means "boring", and it carries the main weight of what Senya is saying.
-- 'Stop lecturing me, I am working.' Max opens up warmly before Senya, to clear the air between them once and for all.
-- 'The next stage of friendship awaits you.' Senya pushes back evenly on the spot, grounding the moment in plain reality.
-- 'Buddy, I really need you right now.' Barinov uses this vivid touch on cue: "druzhishche" means "buddy", and it carries the main weight of what Barinov is saying.
-- 'Chef, it is the middle of the night right now.' Max voices this update around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Take a taxi and come to me.' Barinov responds lightly with a smile, before Senya can change the subject.
-- 'This is a matter of life and death.' Barinov reaches for this vivid touch on cue: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
-- 'Alright, Chef, I am heading out now.' Max voices the reaction with ease: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Well that is it, pal, you are trapped now.' Senya proceeds sharply with a smile, without trying to dress up how he really feels.
+- 'Why am I suddenly trapped?' Max responds directly to Senya and puts the emphasis on "vdrug" ("suddenly, what if") in the middle of the talk.
+- 'Our Chef breaks up with a woman.' Underscoring a woman on the spot, Senya uses "zhenshchinoy" ("a woman", from "zhenshchina") to make the point stick.
+- 'Then he sinks into a deep sadness.' Senya weighs in firmly without a pause, shifting the mood of the conversation in a single beat.
+- 'He gets very bored being alone there.' Senya steps in promptly at once and uses "skuchno" ("boring") to carry the main weight of the thought.
+- 'Stop lecturing me, I am working.' Max cuts in warmly right here and leans on "rabotayu" ("work", a form of "rabotat") to give the remark its edge.
+- 'The next stage of friendship awaits you.' Senya follows up evenly on the spot, without trying to dress up how he really feels.
+- 'Buddy, I really need you right now.' Touching on the buddy right here, Barinov uses "druzhishche" ("buddy") to carry the main weight of the thought.
+- 'Chef, it is the middle of the night right now.' Mentioning the yard around Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Take a taxi and come to me.' Barinov chimes in lightly in this moment, making his position completely clear.
+- 'This is a matter of life and death.' Mentioning the life during the talk, Barinov centers the thought on "zhizni" ("life", from "zhizn") without wasting a word.
+- 'Alright, Chef, I am heading out now.' Max cuts in quietly with Barinov and leans on "vyyezzhayu" ("am driving out", a form of "vyyezzhat") to give the remark its edge.

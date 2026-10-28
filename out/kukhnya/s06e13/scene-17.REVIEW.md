@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, why did you take so long?' Mikhail makes the remark with ease: putting the question word "pochemu" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'Do you think it is very easy to lose to them on purpose?' Mikhail quizzes plainly how Katya expects that to work in practice.
-- 'They had to rejoice first.' Mikhail spotlights this telling word with Denis: "poradovatsya" means "to rejoice", and it carries the main weight of what Mikhail is saying.
-- 'Katya, I have a serious reason.' Denis gives the comeback without fuss: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Are you simply running away from Sveta right now?' Katya checks earnestly why things suddenly took this turn between them.
-- 'You supposedly proposed to her.' Katya highlights this clear choice on cue: "predlozheniye" means "offer, proposal", and it carries the main weight of what Katya is saying.
-- 'No, she mixed everything up back then.' Denis speaks quietly before Katya, refusing to let the moment slip past.
-- 'We simply misunderstood each other.' Denis follows up promptly with a smile, letting the remark speak for itself.
-- 'So there is nothing between you and Sveta?' Katya stresses this telling detail in reply: "znachit" means "then, so", and it carries the main weight of what Katya is saying.
-- 'I do not know how it happened like this.' Denis directs the reply beside Mikhail: the "-sya" ending on "poluchilos" ("worked out") turns the action inward or makes it happen between people naturally.
-- 'But I love you very much, Katya.' Denis speaks up calmly without holding back, letting the remark speak for itself.
-- 'Denis, I have decided, I am going with you.' Katya spotlights this telling expression right here: "reshila" means "decided" (from "reshit"), giving the line its exact edge.
-- 'Nothing holds me here anymore.' Katya brings the comeback right away: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Tell me, why did you take so long?' Answering evenly right here, Mikhail puts the question word "pochemu" right at the start so Denis hears the focus immediately.
+- 'Do you think it is very easy to lose to them on purpose?' Mikhail quizzes plainly how Denis expects that to work in practice.
+- 'They had to rejoice first.' Mikhail answers promptly in this beat and puts the emphasis on "poradovatsya" ("to rejoice") in the middle of the talk.
+- 'Katya, I have a serious reason.' Denis reacts candidly beside Katya, bringing things back to earth after the buildup.
+- 'Are you simply running away from Sveta right now?' Katya checks earnestly where this conversation is heading next.
+- 'You supposedly proposed to her.' Bringing up the offer at once, Katya leans on "predlozheniye" ("offer, proposal") to give the whole sentence its punch.
+- 'No, she mixed everything up back then.' Denis speaks up warmly right here and reaches for the Russian word "pereputala" ("to mix up, to confuse", built from "pereputat") right at the center of the line.
+- 'We simply misunderstood each other.' Denis continues promptly in this moment, before Katya can change the subject.
+- 'So there is nothing between you and Sveta?' Katya proceeds vividly beside Denis and reaches for the Russian word "znachit" ("then, so") right at the heart of the line.
+- 'I do not know how it happened like this.' Opening up briskly to Katya, the "-sya" ending on "poluchilos" ("worked out") marks an action that unfolds mutually or turns back on the speaker.
+- 'But I love you very much, Katya.' Denis jumps in calmly beside Katya, bringing things back to earth after the buildup.
+- 'Denis, I have decided, I am going with you.' Katya fires back vividly in this beat and lands on "reshila" ("decided", built on "reshit") to keep the statement grounded.
+- 'Nothing holds me here anymore.' Holding firm openly at once, Katya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.

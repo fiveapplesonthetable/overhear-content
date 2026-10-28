@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, you are returning to the kitchen again.' Barinov jumps in evenly facing Elena, keeping the focus on what actually matters here.
-- 'Vitya, tell me, what happened with you?' Elena uses this clear expression on cue: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'Can you imagine, I asked Nagiyev for time off today.' Barinov speaks up dryly without a pause, steering the talk right where he wants it.
-- 'In order to meet calmly with your friends.' Barinov follows up right away facing Nagiyev, bringing things back to earth after the buildup.
-- 'And he declared to me that one must have fun in the evening.' Barinov stresses this sharp detail with Elena: "razvlekatsya" means "have fun", and it carries the main weight of what Barinov is saying.
-- 'I already work for him without days off as it is.' Barinov speaks up plainly with a sigh, shifting the whole mood of the room in a single beat.
-- 'Oh, Elena Pavlovna, what wonderful weather!' Nagiyev replies steadily with Barinov, refusing to let the moment slip past.
-- 'Hello, respected Dmitry Vladimirovich.' Elena highlights one direct touch for Nagiyev: "uvazhayemyy" means "respected, esteemed", and it carries the main weight of what Elena is saying.
-- 'Dima, I am telling you for the last time, let me go.' Barinov points to one clear detail on cue: "posledniy" means "last", and it carries the main weight of what Barinov is saying.
-- 'Otherwise I will write a letter of resignation.' Barinov speaks up openly across the room, before Nagiyev can change the subject.
-- 'How can that be, after all you have a banquet today!' Nagiyev sharpens one key detail right here: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
-- 'After all, I do not run out halfway through a play because friends arrived.' Nagiyev weighs in dryly without holding back, shifting the whole mood of the room in a single beat.
+- 'Maxim, you are returning to the kitchen again.' Barinov speaks evenly in their talk, testing Elena's reaction in the middle of the exchange.
+- 'Vitya, tell me, what happened with you?' Elena cuts in directly at once and chooses "sluchilos" ("happened", from the root "sluchitsya") so Barinov hears the exact meaning.
+- 'Can you imagine, I asked Nagiyev for time off today.' Underscoring the day on the spot, Barinov uses "predstavlyayesh" ("can you imagine", from "predstavlyat") to make the point stick.
+- 'In order to meet calmly with your friends.' Barinov continues right away facing Elena, so Elena knows he is not just making small talk.
+- 'And he declared to me that one must have fun in the evening.' Barinov cuts in candidly in this beat and uses "razvlekatsya" ("have fun") to carry the main weight of the thought.
+- 'I already work for him without days off as it is.' Focusing on the weekend to Nagiyev, Barinov brings in "vykhodnykh" ("weekend", from "vykhodnoy") as the key Russian word here.
+- 'Oh, Elena Pavlovna, what wonderful weather!' Nagiyev fires back steadily in this moment, bringing things back to earth after the buildup.
+- 'Hello, respected Dmitry Vladimirovich.' Elena plainly directs this formal greeting toward Barinov using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Dima, I am telling you for the last time, let me go.' Barinov steps in pointedly watching Elena, steering the talk right where he wants it.
+- 'Otherwise I will write a letter of resignation.' Barinov speaks up openly across the room, without trying to dress up how he really feels.
+- 'How can that be, after all you have a banquet today!' Underscoring a banquet before Barinov, Nagiyev brings in "banket" ("banquet") to make the meaning unmistakable.
+- 'After all, I do not run out halfway through a play because friends arrived.' Pointing to a play in this beat, Nagiyev leans on "spektaklya" ("play, performance", a form of "spektakl") to give the remark its edge.

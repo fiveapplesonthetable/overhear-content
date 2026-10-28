@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, please make a pot of tea.' Max underscores one direct term for Kostya: "chaynik-chay" means "teapot, kettle" (from "chaynik"), giving the line its exact edge.
-- 'Hey there, Max.' Kostya offers this statement with candor: opening with the casual greeting "privet" ("hi") signals right away that Kostya and Sasha are on familiar terms.
-- 'Listen, Sashulya, please forgive me.' Sasha holds firm firmly across the room, shifting the whole mood of the room in a single beat.
-- 'I have thought everything through.' Max centers one pointed expression on cue: "osoznal" means "to realize" (from "osoznat"), giving the line its exact edge.
-- 'Of course it is foolish to be jealous of you over Ilya.' Kostya chooses one clear word toward Max: "konechno" means "of course", and it carries the main weight of what Kostya is saying.
-- 'The past stays in the past.' Sasha weighs in dryly before Max, making her position completely clear.
-- 'Will you forgive me?' Max highlights one vivid term right here: "prostish" means "to forgive" (from "prostit"), giving the line its exact edge.
-- 'I am still upset with you.' Kostya lays out the thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'But I am not holding a grudge.' Sasha follows up calmly in their talk, grounding the moment in plain reality.
-- 'This is for you.' Max lays out the reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Sasha, let us tell Max everything.' Kostya sends this point in earnest: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'What are you two discussing?' Sasha inquires candidly why things suddenly took this turn between them.
+- 'Kostya, please make a pot of tea.' Max directly extends this courtesy word for Kostya using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Hey there, Max.' Kostya directly directs this casual greeting in the exchange using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Listen, Sashulya, please forgive me.' Sasha pushes back firmly around Kostya, shifting the mood of the conversation in a single beat.
+- 'I have thought everything through.' Max responds naturally in the exchange and chooses "osoznal" ("to realize", from the root "osoznat") so Sasha hears the exact meaning.
+- 'Of course it is foolish to be jealous of you over Ilya.' Kostya follows up earnestly around Max, grounding the moment in plain reality.
+- 'The past stays in the past.' Sasha proceeds dryly with a nod, shifting the mood of the conversation in a single beat.
+- 'Will you forgive me?' Max proceeds evenly with Kostya and reaches for the Russian word "prostish" ("to forgive", built from "prostit") right at the center of the line.
+- 'I am still upset with you.' Making clear how offended he is to Max, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'But I am not holding a grudge.' Sasha opens up calmly around Kostya, steering the talk right where she wants it.
+- 'This is for you.' Answering plainly before Sasha, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Sasha, let us tell Max everything.' Speaking openly beside Max, Kostya starts with "davay" ("come on, let's") to invite Max right into the action.
+- 'What are you two discussing?' Sasha inquires candidly where this conversation is heading next.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fine, since you and I are no longer friends.' Barinov gives the comment right away: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Lyova is on board.
-- 'I am not going down to the bottom alone.' Barinov pushes back plainly during the talk, leaving no doubt about where he stands.
-- 'I have a copy of it.' Barinov points to one vivid touch in reply: "kopiya" means "copy, photocopy", and it carries the main weight of what Barinov is saying.
-- 'You are way too lazy to have a copy.' Nagiyev reaches for one memorable expression on cue: "lenivyy" means "lazy", and it carries the main weight of what Nagiyev is saying.
-- 'Go on, beat it from here, you grand schemer.' Nagiyev chimes in evenly with a smile, bringing things back to earth after the buildup.
-- 'Wait, what is burning?' Lyova favors this clear element in earnest: "gorit" means "is burning" (from "goret"), giving the line its exact edge.
-- 'Go get a cloth.' Lyova puts the thought in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'And here I was afraid that chaos would start without me.' Barinov opens up bluntly before Nagiyev, grounding the moment in plain reality.
-- 'Well, now my mind is at ease.' Barinov stresses one telling element with Lyova: "spokoyen" means "calm" (from "spokoynyy"), giving the line its exact edge.
-- 'I will pack my things and get out of here.' Barinov reacts boldly beside Nagiyev, bringing things back to earth after the buildup.
-- 'Sorry, I will pay for everything out of my first paycheck.' Lyova counters steadily beside Barinov, keeping the focus on what actually matters here.
-- 'What first paycheck? You are fired.' Lyova spotlights one key expression in earnest: "zarplaty" means "salaries" (from "zarplata"), giving the line its exact edge.
+- 'Fine, since you and I are no longer friends.' Bringing up the friends on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am not going down to the bottom alone.' Barinov continues plainly with a shrug, refusing to let the moment slip past.
+- 'I have a copy of it.' Focusing on a copy around Nagiyev, Barinov centers the remark on "kopiya" ("copy, photocopy") without any extra fuss.
+- 'You are way too lazy to have a copy.' Nagiyev reacts warmly in their talk, leaving no doubt about where he stands.
+- 'Go on, beat it from here, you grand schemer.' Nagiyev answers evenly with Lyova, grounding the moment in plain reality.
+- 'Wait, what is burning?' Lyova continues frankly in front of Nagiyev and brings in "gorit" ("is burning", from "goret") as the key Russian word here.
+- 'Go get a cloth.' Turning to the rag during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'And here I was afraid that chaos would start without me.' Barinov continues bluntly with a sigh, shifting the mood of the conversation in a single beat.
+- 'Well, now my mind is at ease.' Emphasizing how calm things are at once, Barinov centers the thought on "spokoyen" ("calm", from "spokoynyy") without wasting a word.
+- 'I will pack my things and get out of here.' Barinov pushes back promptly during the talk and puts the weight on "veshchichki" ("little thing", from "veshchichka") as the exchange unfolds.
+- 'Sorry, I will pay for everything out of my first paycheck.' Lyova speaks steadily toward Barinov, watching Barinov's face to see how the news lands.
+- 'What first paycheck? You are fired.' Addressing the salaries during the talk, Lyova centers the thought on "zarplaty" ("salaries", from "zarplata") without wasting a word.

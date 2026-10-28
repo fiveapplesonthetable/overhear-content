@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything works, now you will watch television.' Max steps in warmly beside the guest, grounding the moment in plain reality.
-- 'In Moscow we have more ministers than street sweepers.' Max underscores one vivid choice right here: "ministrov" means "minister" (from "ministr"), giving the line its exact edge.
-- 'The best single suite for your spouse.' The guest steps in sharply as things stand, refusing to let the moment slip past.
-- 'Hello again, Nikolai Maryanovich.' Max steps in boldly with a smile, bringing things back to earth after the buildup.
-- 'Young man, vacate the ward immediately!' The guest centers one classic word in earnest: "nemedlenno" means "immediately", and it carries the main weight of what the guest is saying.
-- 'Excuse us, Nikolai Maryanovich.' Vika puts the reply with candor: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Vika steps in.
-- 'We will leave here right now.' Vika continues sharply beside the guest, bringing things back to earth after the buildup.
-- 'Vika, lie calmly in your place.' Max leans on one familiar touch with Vika: "spokoyno" means "calmly", and it carries the main weight of what Max is saying.
-- 'We will leave this room only with our baby.' Max stands firm honestly to settle things, steering the talk right where he wants it.
-- 'That is it, I am going for security.' The guest steps in at once with a smile, keeping the focus on what actually matters here.
-- 'Max, what are you doing again?' Vika uses one clear piece for the guest: "tvorish" means "are doing, creating" (from "tvorit"), giving the line its exact edge.
-- 'Do not worry, I will sort everything out right now.' Max sends this point beside Vika: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
+- 'Everything works, now you will watch television.' Max steps in warmly around the guest, leaving no doubt about where he stands.
+- 'In Moscow we have more ministers than street sweepers.' Pointing to the minister with the guest, Max centers the thought on "ministrov" ("minister", from "ministr") without wasting a word.
+- 'The best single suite for your spouse.' Highlighting the hospital room around Max, the guest lands on "odnomestnaya" ("single-bed", built on "odnomestnyy") to keep the statement grounded.
+- 'Hello again, Nikolai Maryanovich.' Max naturally shares this casual greeting to the guest using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Young man, vacate the ward immediately!' Underscoring the ward beside Max, the guest reaches for the Russian word "molodoy" ("young") right at the heart of the line.
+- 'Excuse us, Nikolai Maryanovich.' Vika plainly delivers this polite apology toward the guest using "izvinite" ("excuse me") — the respectful form of "excuse me" or "sorry" used when stepping in or apologizing.
+- 'We will leave here right now.' Vika follows up sharply facing Max, letting the remark speak for itself.
+- 'Vika, lie calmly in your place.' Discussing the place on the spot, Max puts the emphasis on "spokoyno" ("calmly") in the middle of the talk.
+- 'We will leave this room only with our baby.' Mentioning the child to the guest, Max reaches for the Russian word "rebyonkom" ("child", built from "rebyonok") right at the center of the line.
+- 'That is it, I am going for security.' The guest fires back at once with Max, bringing things back to earth after the buildup.
+- 'Max, what are you doing again?' Vika counters sharply beside Max and centers the thought on "tvorish" ("are doing, creating", from "tvorit") without wasting a word.
+- 'Do not worry, I will sort everything out right now.' Weighing in calmly in front of Vika, the "-sya" ending on "volnuysya" ("worry") marks an action that unfolds mutually or turns back on the speaker.

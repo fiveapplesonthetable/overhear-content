@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like it, grandpa?' Max presses point-blank as the guest tries to explain the situation.
-- 'It tastes completely bland.' The guest favors one classic term in reply: "bezvkusno" means "tasteless, bland", and it carries the main weight of what the guest is saying.
-- 'That is it, I am leaving.' The guest shapes that point facing Mama: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Today I am meeting with a friend.' The guest replies bluntly as things stand, bringing things back to earth after the buildup.
-- 'I have not seen her for ten years.' Mama focuses on this sharp term at once: "videla" means "saw" (from "videt"), giving the line its exact edge.
-- 'Let us go, granny, I will walk you out.' Max gives this line to Mama: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Granny, do not worry, I will look after him.' Max chimes in calmly without any doubt, making his position completely clear.
-- 'I will make a vegetarian out of him!' Max emphasizes one vivid term on cue: "vegetariantsa" means "vegetarian" (from "vegetarianets"), giving the line its exact edge.
-- 'Do whatever you want, the main thing is that he does not eat meat.' The guest cuts in promptly around Mama, shifting the whole mood of the room in a single beat.
-- 'Alright, granny, I promise.' Max replies right away with a shrug, grounding the moment in plain reality.
-- 'Yes. That is it, I am off!' The guest colors one colorful term for Mama: "poshla" means "am off" (from "poyti"), giving the line its exact edge.
-- 'Have a nice evening!' Max sends this answer briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Well, how do you like it, grandpa?' Max presses point-blank about what the guest just brought up.
+- 'It tastes completely bland.' Addressing the taste in this beat, the guest brings in "bezvkusno" ("tasteless, bland") to make the meaning unmistakable.
+- 'That is it, I am leaving.' Turning frankly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Today I am meeting with a friend.' The guest weighs in bluntly across the room, without trying to dress up how he really feels.
+- 'I have not seen her for ten years.' Mama fires back warmly beside the guest and reaches for the Russian word "videla" ("saw", built from "videt") right at the center of the line.
+- 'Let us go, granny, I will walk you out.' Dwelling on the granny on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Granny, do not worry, I will look after him.' Max follows up calmly toward Mama, watching Mama's face to see how the news lands.
+- 'I will make a vegetarian out of him!' Turning to a vegetarian with the guest, Max uses "vegetariantsa" ("vegetarian", from "vegetarianets") to make the point stick.
+- 'Do whatever you want, the main thing is that he does not eat meat.' Making clear how important things are on the spot, the guest puts the weight on "glavnoye" ("important", from "glavnyy") as the exchange unfolds.
+- 'Alright, granny, I promise.' Max speaks up right away in their talk, letting the remark speak for itself.
+- 'Yes. That is it, I am off!' The guest speaks up evenly around Max and centers the thought on "poshla" ("am off", from "poyti") without wasting a word.
+- 'Have a nice evening!' Dwelling on a nice evening on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

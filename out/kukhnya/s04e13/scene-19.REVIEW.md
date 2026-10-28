@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just look at him, he stands there and stays silent!' Vika highlights this clear element toward Barinov: "posmotrite" means "look" (from "posmotret"), giving the line its exact edge.
-- 'He stirred up all this trouble himself and watches!' Vika counters boldly beside Nastya, refusing to let the moment slip past.
-- 'How many scandals did you cause me here?' Vika asks quietly as Barinov tries to explain the situation.
-- 'It is hard to count them all even on one's fingers!' Vika stresses one vivid element with Nastya: "paltsakh" means "finger, toe" (from "palets"), giving the line its exact edge.
-- 'And how much you drink, Viktor Petrovich!' Vika leans on one telling expression right here: "pyote" means "are drinking", and it carries the main weight of what Vika is saying.
-- 'Nastya, bring him the bill for the banquet!' Vika steps in bluntly to be clear, before Nastya can change the subject.
-- 'Let him pay for his own actions himself!' Vika uses one colorful touch at once: "rasplachivayetsya" means "to own" (from "rasplachivatsya"), giving the line its exact edge.
-- 'Nastya, immediately stop crying again!' Standing firm on cue, Vika cuts straight through the tension in the room.
-- 'Forgive me, Viktoriya Sergeyevna, I am bringing the bill now.' Nastya stands firm calmly without a pause, grounding the moment in plain reality.
-- 'All right, I agree, that is quite fair.' Barinov spotlights one sharp touch right here: "spravedlivo" means "fair, justly", and it carries the main weight of what Barinov is saying.
-- 'Hand it here, I will pay for everything myself.' Barinov delivers that answer toward Nastya: the word "davayte" is the polite or group version of "let's", inviting Nastya into the plan right away.
-- 'Did you feed the dogs truffles here or what?' Barinov questions briskly in front of Vika without any preamble.
-- 'And there was also a cake made of beef!' Nastya underscores one sharp piece in earnest: "govyadiny" means "beef" (from "govyadina"), giving the line its exact edge.
+- 'Just look at him, he stands there and stays silent!' Vika responds calmly at once and brings in "molchit" ("is silent", from "molchat") as the key Russian word here.
+- 'He stirred up all this trouble himself and watches!' Vika proceeds directly right here and chooses "zavaril" ("brew, steep", from the root "zavarit") so Nastya hears the exact meaning.
+- 'How many scandals did you cause me here?' Vika asks quietly about what Nastya just brought up.
+- 'It is hard to count them all even on one's fingers!' Touching on the finger on the spot, Vika chooses "paltsakh" ("finger, toe", from the root "palets") so Nastya hears the exact meaning.
+- 'And how much you drink, Viktor Petrovich!' Vika weighs in dryly across the room, watching Barinov's face to see how the news lands.
+- 'Nastya, bring him the bill for the banquet!' Vika replies bluntly hearing Nastya, keeping the focus on what actually matters here.
+- 'Let him pay for his own actions himself!' Bringing up the actions on the spot, Vika leans on "rasplachivayetsya" ("to own", a form of "rasplachivatsya") to give the remark its edge.
+- 'Nastya, immediately stop crying again!' Vika continues decisively right here and chooses "nemedlenno" ("immediately") so Nastya gets the point right away.
+- 'Forgive me, Viktoriya Sergeyevna, I am bringing the bill now.' Nastya speaks calmly watching Barinov, shifting the mood of the conversation in a single beat.
+- 'All right, I agree, that is quite fair.' Barinov simply sends this word of agreement as they meet using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Hand it here, I will pay for everything myself.' Looking over firmly at once, Barinov uses the polite or group form "davayte" ("let's") to bring Nastya into the plan.
+- 'Did you feed the dogs truffles here or what?' Barinov questions briskly while looking straight at Nastya here.
+- 'And there was also a cake made of beef!' Emphasizing the beef in front of Barinov, Nastya lands on "govyadiny" ("beef", built on "govyadina") to keep the statement grounded.

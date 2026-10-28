@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, dear Dmitry Vladimirovich.' Max voices this warning with warmth: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Dima, this is not what you thought.' Vika responds lightly during the talk, shifting the whole mood of the room in a single beat.
-- 'Yes, and what am I supposed to think?' Nagiyev chooses one sharp detail in earnest: "dolzhen" means "has to, must", and it carries the main weight of what Nagiyev is saying.
-- 'There is a man standing in your bathroom.' Nagiyev hands over this answer in earnest: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'And what is more, he is standing in just his underwear.' Nagiyev speaks candidly hearing Max, shifting the whole mood of the room in a single beat.
-- 'He is probably fixing the faucet here.' Nagiyev sharpens one classic expression with Vika: "navernoye" means "probably", and it carries the main weight of what Nagiyev is saying.
-- 'There was nothing between us.' Vika brings that reply beside Max: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'He and I are simply old friends.' Vika steps in candidly with a sigh, making her position completely clear.
-- 'What kind of friends are we, we broke up long ago.' Max spotlights one clear term toward Nagiyev: "rasstalis" means "broke up, separated" (from "rasstatsya"), giving the line its exact edge.
-- 'Dima, I swear to you, there was nothing between us.' Vika shapes this answer with warmth: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'He simply came over drunk yesterday and fell asleep.' Vika replies dryly to settle things, grounding the moment in plain reality.
-- 'Alright, guys, I will drive to work now.' Nagiyev uses one clear detail at once: "rebyata" means "the boys, the lads", and it carries the main weight of what Nagiyev is saying.
+- 'Hello, dear Dmitry Vladimirovich.' Max promptly chooses this formal greeting to Vika using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Dima, this is not what you thought.' Vika responds lightly without a pause, watching Max's face to see how the news lands.
+- 'Yes, and what am I supposed to think?' Nagiyev chimes in dryly in front of Vika and chooses "dolzhen" ("has to, must") so Vika gets the point right away.
+- 'There is a man standing in your bathroom.' Mentioning a man in the exchange, Nagiyev uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'And what is more, he is standing in just his underwear.' Nagiyev fires back candidly with a smile, leaving no doubt about where he stands.
+- 'He is probably fixing the faucet here.' Highlighting the faucet beside Vika, Nagiyev puts the emphasis on "navernoye" ("probably") in the middle of the talk.
+- 'There was nothing between us.' Looking over promptly right here, Vika pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'He and I are simply old friends.' Vika speaks candidly watching Max, shifting the mood of the conversation in a single beat.
+- 'What kind of friends are we, we broke up long ago.' Talking about the friends beside Vika, Max puts the weight on "druzya" ("friends", from "drug") as the exchange unfolds.
+- 'Dima, I swear to you, there was nothing between us.' Holding firm readily during the talk, Vika pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'He simply came over drunk yesterday and fell asleep.' Vika fires back dryly toward Nagiyev, before Nagiyev can change the subject.
+- 'Alright, guys, I will drive to work now.' Bringing up the boys beside Vika, Nagiyev puts the emphasis on "rebyata" ("the boys, the lads") in the middle of the talk.

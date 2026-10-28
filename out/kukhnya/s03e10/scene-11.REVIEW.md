@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what are you doing right now?' Katya delivers the reply for Lyova: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
-- 'I read about this on the internet yesterday.' Max proceeds at once to be clear, letting the remark speak for itself.
-- 'Can you draw shapes with both hands simultaneously?' Max highlights one telling word on cue: "odnovremenno" means "simultaneously", and it carries the main weight of what Max is saying.
-- 'Well, for example, a circle and a triangle.' Max steps in boldly with a shrug, leaving no doubt about where he stands.
-- 'But you are definitely in no danger of that.' Max fires back at once with a smile, shifting the whole mood of the room in a single beat.
-- 'Try it myself? Look here, I am a talent!' Katya reaches for one key expression for Max: "poprobuy" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
-- 'What happened, Max? Tell me quickly.' Lyova shapes that reply in earnest: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'I just found out something important.' Max weighs in dryly hearing Lyova, bringing things back to earth after the buildup.
-- 'Our Chef accidentally let it slip to me.' Max centers one telling piece on cue: "proboltalsya" means "blabbed, let slip" (from "proboltatsya"), giving the line its exact edge.
-- 'Katya studied at the culinary academy, right?' Lyova shapes this point with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'In reality she was staying in a hospital.' Max opens up pointedly as they talk, steering the talk right where he wants it.
-- 'She has a serious psychiatric disorder.' Max reaches for one vivid element with Lyova: "psikhicheskoye" means "psychiatric" (from "psikhicheskiy"), giving the line its exact edge.
+- 'Tell me, what are you doing right now?' Replying smoothly on the spot, Katya puts the question word "chto" right at the start so Max hears the focus immediately.
+- 'I read about this on the internet yesterday.' Max weighs in at once with a nod, keeping the focus on what actually matters here.
+- 'Can you draw shapes with both hands simultaneously?' Bringing up the hands to Katya, Max brings in "odnovremenno" ("simultaneously") to make the meaning unmistakable.
+- 'Well, for example, a circle and a triangle.' Talking about a triangle during the talk, Max lands on "treugolnik" ("triangle") as the key everyday word here.
+- 'But you are definitely in no danger of that.' Max steps in at once across the room, so Katya knows he is not just making small talk.
+- 'Try it myself? Look here, I am a talent!' Touching on a talent before Lyova, Katya uses "talant" ("talent") to carry the main weight of the thought.
+- 'What happened, Max? Tell me quickly.' Holding firm earnestly right here, the "-sya" ending on "sluchilos" ("happened") marks an action that unfolds mutually or turns back on the speaker.
+- 'I just found out something important.' Max weighs in dryly beside Lyova, keeping the focus on what actually matters here.
+- 'Our Chef accidentally let it slip to me.' Max responds firmly at once and leans on "proboltalsya" ("blabbed, let slip", a form of "proboltatsya") to give the remark its edge.
+- 'Katya studied at the culinary academy, right?' Checking on the culinary academy in the exchange, Lyova keeps normal statement word order here, turning the line into a question for Katya purely through rising pitch.
+- 'In reality she was staying in a hospital.' Max pushes back pointedly facing Lyova, keeping the focus on what actually matters here.
+- 'She has a serious psychiatric disorder.' Mentioning the disorder around Lyova, Max leans on "psikhicheskoye" ("psychiatric", a form of "psikhicheskiy") to give the remark its edge.

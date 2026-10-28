@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you mopping the floors with cognac?' Barinov leans on this direct detail on cue: "konyakom" means "cognac" (from "konyak"), giving the line its exact edge.
-- 'Chef, someone trashed the bar last night.' Kostya follows up bluntly during the talk, bringing things back to earth after the buildup.
-- 'Do you know who it could have been?' Kostya questions deadpan if there is more going on behind the scenes.
-- 'How should I know, I have no idea.' Barinov points to one sharp detail on cue: "ponyatiya" means "concept, idea" (from "ponyatiye"), giving the line its exact edge.
-- 'Kostya, pour me a cold beer.' Barinov stands firm boldly before Kostya, keeping the focus on what actually matters here.
-- 'Why are you torturing yourselves here, friends?' Barinov tests calmly to see how Max will answer on the spot.
-- 'Check the security camera recording.' Barinov features one concrete detail for Kostya: "nablyudeniy" means "of surveillance" (from "nablyudeniye"), giving the line its exact edge.
-- 'There is no beer today, Chef.' Kostya makes the comeback with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well then give me at least some coffee.' Barinov cuts in dryly facing Kostya, testing Kostya's reaction in the middle of the exchange.
-- 'Chef, the coffee machine broke down too.' Kostya centers one classic term at once: "kofemashina" means "coffee machine", and it carries the main weight of what Kostya is saying.
-- 'And where is the key to the server room?' Max lays out that answer right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Vika has it, who else would have it?' Kostya tests wryly what Max is actually getting at here.
-- 'She called and said that she would be late.' Kostya grounds one classic touch for Barinov: "pozvonila" means "phoned" (from "pozvonit"), giving the line its exact edge.
-- 'The restaurant is a mess, the manager is late!' Barinov pushes back pointedly around Max, watching Max's face to see how the news lands.
+- 'Are you mopping the floors with cognac?' Addressing the cognac right here, Barinov reaches for the Russian word "konyakom" ("cognac", built from "konyak") right at the center of the line.
+- 'Chef, someone trashed the bar last night.' Bringing up the havoc before Barinov, Kostya leans on "razgrom" ("havoc, mess") to give the whole sentence its punch.
+- 'Do you know who it could have been?' Kostya questions deadpan how Barinov expects that to work in practice.
+- 'How should I know, I have no idea.' Pointing to the concept at once, Barinov uses "ponyatiya" ("concept, idea", from "ponyatiye") to make the point stick.
+- 'Kostya, pour me a cold beer.' Touching on a cold beer during the talk, Barinov puts the weight on "kholodnogo" ("cold, chilly", from "kholodnyy") as the exchange unfolds.
+- 'Why are you torturing yourselves here, friends?' Barinov tests calmly how Kostya expects that to work in practice.
+- 'Check the security camera recording.' Highlighting the surveillance before Kostya, Barinov lands on "nablyudeniy" ("of surveillance", built on "nablyudeniye") to keep the statement grounded.
+- 'There is no beer today, Chef.' Focusing on the beer before Barinov, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well then give me at least some coffee.' Barinov reacts dryly around Kostya, refusing to let the moment slip past.
+- 'Chef, the coffee machine broke down too.' Turning to the coffee machine beside Barinov, Kostya uses "kofemashina" ("coffee machine") to carry the main weight of the thought.
+- 'And where is the key to the server room?' Discussing the server room before Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Vika has it, who else would have it?' Kostya tests wryly how Max expects that to work in practice.
+- 'She called and said that she would be late.' Kostya weighs in warmly beside Barinov and uses "pozvonila" ("phoned", from "pozvonit") to make the point stick.
+- 'The restaurant is a mess, the manager is late!' Talking about the restaurant during the talk, Barinov chooses "restorane" ("restaurant", from the root "restoran") so Kostya hears the exact meaning.

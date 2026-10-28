@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gentlemen cooks, our task is very difficult!' Barinov proceeds warmly with a nod, before Fedya can change the subject.
-- 'The guest still has the unpleasant taste of the previous dish.' Barinov focuses on this key element at once: "nepriyatnyy" means "unpleasant", and it carries the main weight of what Barinov is saying.
-- 'We must show him that we know how to cook!' Barinov shapes that remark for Fedya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Fedya, quickly make a tender poached egg for the salad!' Barinov follows up openly to settle things, testing Senya's reaction in the middle of the exchange.
-- 'It will be ready in exactly two minutes, Chef!' Fedya highlights this telling choice toward Barinov: "gotovo" means "ready" (from "gotovyy"), giving the line its exact edge.
-- 'Senya, and the fluffy mashed potatoes are on you!' Barinov aims the comeback without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Our mashed potatoes will be the tenderest in the world!' Senya proceeds openly toward Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Louis, my pal, will you delight us today?' Barinov grounds this direct detail right here: "poraduyesh" means "to today" (from "poradut"), giving the line its exact edge.
-- 'Louis said that his dessert will be magnificent!' Fedya speaks promptly in their talk, letting the remark speak for itself.
-- 'How good it is when everyone is busy with their own craft!' Barinov stands firm quietly on the spot, without trying to dress up how he really feels.
-- 'It is for this very craft that we were all created.' Barinov sharpens this sharp detail right here: "sozdany" means "created", and it carries the main weight of what Barinov is saying.
-- 'Working with you is a pure pleasure, Viktor Petrovich!' Senya speaks right away as things stand, before Fedya can change the subject.
+- 'Gentlemen cooks, our task is very difficult!' Barinov speaks warmly without holding back, watching Fedya's face to see how the news lands.
+- 'The guest still has the unpleasant taste of the previous dish.' Turning to the guest on the spot, Barinov lands on "nepriyatnyy" ("unpleasant") as the key everyday word here.
+- 'We must show him that we know how to cook!' Reacting boldly at once, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Fedya, quickly make a tender poached egg for the salad!' Barinov chimes in openly on the spot, steering the talk right where he wants it.
+- 'It will be ready in exactly two minutes, Chef!' Touching on the minutes in this beat, Fedya chooses "gotovo" ("ready", from the root "gotovyy") so Barinov hears the exact meaning.
+- 'Senya, and the fluffy mashed potatoes are on you!' Insisting on how lady things are before Senya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Our mashed potatoes will be the tenderest in the world!' Senya proceeds openly without a pause, testing Barinov's reaction in the middle of the exchange.
+- 'Louis, my pal, will you delight us today?' Discussing the friend during the talk, Barinov leans on "poraduyesh" ("to today", a form of "poradut") to give the remark its edge.
+- 'Louis said that his dessert will be magnificent!' Mentioning the dessert in this beat, Fedya reaches for the Russian word "velikolepnym" ("magnificent", built from "velikolepnyy") right at the center of the line.
+- 'How good it is when everyone is busy with their own craft!' Barinov counters quietly in their talk, making his position completely clear.
+- 'It is for this very craft that we were all created.' Underscoring the created beside Senya, Barinov uses "sozdany" ("created") to carry the main weight of the thought.
+- 'Working with you is a pure pleasure, Viktor Petrovich!' Pointing to a pure pleasure at once, Senya centers the remark on "udovolstviye" ("pleasure") without any extra fuss.

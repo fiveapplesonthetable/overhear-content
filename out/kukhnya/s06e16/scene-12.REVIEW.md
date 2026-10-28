@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, what wonderful girls you have!' Barinov opens up warmly as things stand, grounding the moment in plain reality.
-- 'Straighten your shoulders, you are a real model!' The guest spotlights this clear term at once: "nastoyashchaya" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Here is my Elena's favorite dress.' Barinov puts that line without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'It reminds her of the old days.' Barinov speaks at once facing the guest, steering the talk right where he wants it.
-- 'Back then she was a poor and unknown singer.' Barinov leans on one sharp choice right here: "neizvestnoy" means "unknown, unfamiliar" (from "neizvestnyy"), giving the line its exact edge.
-- 'And now she washes the floors at home in it.' Barinov offers the thought on cue: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'She has that kind of home kitchen fitness.' Barinov proceeds earnestly with a nod, testing the guest's reaction in the middle of the exchange.
-- 'Excellent, the new dress will be ready by evening.' The guest underscores one telling element at once: "vecheru" means "evening" (from "vecher"), giving the line its exact edge.
-- 'Will you manage to come to our show?' The guest aims that remark beside Barinov: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'I am afraid I cannot, I have to feed you all.' Barinov opens up firmly to be clear, bringing things back to earth after the buildup.
-- 'Then see you tonight at the banquet!' The guest underscores this key element in earnest: "vstrechi" means "meeting, next time" (from "vstrecha"), giving the line its exact edge.
-- 'Stop, tell me, who did her makeup?' The guest phrases that thought to Barinov: putting the question word "kto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Hello, what wonderful girls you have!' Barinov cuts in warmly around the guest, refusing to let the moment slip past.
+- 'Straighten your shoulders, you are a real model!' Describing how real Barinov is to Barinov, the guest puts the weight on "nastoyashchaya" ("real, genuine", from "nastoyashchiy") as the exchange unfolds.
+- 'Here is my Elena's favorite dress.' Describing how favorite things are on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It reminds her of the old days.' Mentioning the time without any doubt, Barinov brings the exchange with the guest back to practical reality.
+- 'Back then she was a poor and unknown singer.' Addressing the singer at once, Barinov puts the weight on "neizvestnoy" ("unknown, unfamiliar", from "neizvestnyy") as the exchange unfolds.
+- 'And now she washes the floors at home in it.' Underscoring the floors around the guest, Barinov chooses "poly" ("floors") so the guest gets the point right away.
+- 'She has that kind of home kitchen fitness.' Barinov replies earnestly hearing the guest, watching the guest's face to see how the news lands.
+- 'Excellent, the new dress will be ready by evening.' Pointing to the evening to Barinov, the guest puts the weight on "vecheru" ("evening", from "vecher") as the exchange unfolds.
+- 'Will you manage to come to our show?' Focusing on his show to Barinov, the "-sya" ending on "poluchitsya" ("will come out") marks an action that unfolds mutually or turns back on the speaker.
+- 'I am afraid I cannot, I have to feed you all.' Barinov opens up firmly without holding back, so the guest knows he is not just making small talk.
+- 'Then see you tonight at the banquet!' Focusing on the meeting around Barinov, the guest centers the thought on "vstrechi" ("meeting, next time", from "vstrecha") without wasting a word.
+- 'Stop, tell me, who did her makeup?' Addressing the makeup around Barinov, the guest puts the question word "kto" right at the start so Barinov hears the focus immediately.

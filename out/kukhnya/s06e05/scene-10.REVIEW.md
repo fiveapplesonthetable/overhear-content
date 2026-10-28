@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, here is money for candy.' Barinov favors one colorful piece in earnest: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
-- 'Well then, do you believe me now?' Eva aims this warning around Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'You guessed right and hit the bullseye.' Barinov continues promptly hearing Eva, leaving no doubt about where he stands.
-- 'Then I will not say anything more to you.' Eva leans on one concrete choice for Kostya: "govorit" means "to talk", and it carries the main weight of what Eva is saying.
-- 'Why, is there something else to say?' Barinov gives this line in earnest: putting the question word "chto" right at the front of the line lets Eva hear the point of the question on the very first beat.
-- 'Look closely at me right now.' Eva speaks up candidly as they talk, saying out loud what both of them already know.
-- 'I clearly see your ex-wife.' Eva centers one colorful expression with Barinov: "byvshuyu" means "former, ex" (from "byvshiy"), giving the line its exact edge.
-- 'They will bring you very bad news.' Eva frames one concrete detail at once: "soobshchat" means "will report" (from "soobshchit"), giving the line its exact edge.
-- 'No need to explain, I understood everything.' Barinov responds decisively as they talk, before Eva can change the subject.
-- 'I am sure, I did not imagine it.' Kostya frames one classic element toward Eva: "pokazalos" means "seemed" (from "pokazatsya"), giving the line its exact edge.
-- 'She definitely has an older man now.' Kostya opens up lightly facing Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'I saw him myself this morning.' Kostya weighs in bluntly in their talk, steering the talk right where he wants it.
+- 'Good morning, here is money for candy.' Highlighting how good things are on the spot, Barinov reaches for the Russian word "dobroye" ("good", built from "dobryy") right at the center of the line.
+- 'Well then, do you believe me now?' Answering readily on the spot, Eva puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'You guessed right and hit the bullseye.' Barinov pushes back promptly without any doubt, leaving no doubt about where he stands.
+- 'Then I will not say anything more to you.' Eva proceeds pointedly during the talk and chooses "govorit" ("to talk") so Barinov gets the point right away.
+- 'Why, is there something else to say?' Weighing in dryly at once, Barinov puts the question word "chto" right at the start so Eva hears the focus immediately.
+- 'Look closely at me right now.' Eva proceeds candidly in this moment, letting the remark speak for itself.
+- 'I clearly see your ex-wife.' Turning to the wife around Barinov, Eva lands on "byvshuyu" ("former, ex", built on "byvshiy") to keep the statement grounded.
+- 'They will bring you very bad news.' Eva proceeds frankly in their talk, refusing to let the moment slip past.
+- 'No need to explain, I understood everything.' Barinov answers decisively toward Eva, keeping the focus on what actually matters here.
+- 'I am sure, I did not imagine it.' Stressing how sure he is beside Barinov, Kostya chooses "uveren" ("sure, confident", from the root "uverennyy") so Barinov hears the exact meaning.
+- 'She definitely has an older man now.' Focusing on an older man with Barinov, Kostya uses "muzhchina" ("man") to carry the main weight of the thought.
+- 'I saw him myself this morning.' Kostya proceeds bluntly with a smile, testing Barinov's reaction in the middle of the exchange.

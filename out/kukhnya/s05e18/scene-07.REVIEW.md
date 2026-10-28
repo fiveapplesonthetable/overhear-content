@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, well how are you doing there, did you finish?' Barinov emphasizes one pointed piece with Lyova: "zakonchil" means "finished" (from "zakonchit"), giving the line its exact edge.
-- 'Chef, not everything is so simple here.' Max offers that remark on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'What are those sounds over there with you?' Barinov challenges point-blank if there is more going on behind the scenes.
-- 'Are you playing a video game console over there?' Barinov focuses on one familiar expression on cue: "pristavku" means "games console" (from "pristavka"), giving the line its exact edge.
-- 'The crib turned out to be very complicated.' Max gives the reaction at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I decided to take a short break.' Max speaks up sharply around Lyova, before Lyova can change the subject.
-- 'While I cover for you here, you are playing games!' Barinov features one pointed word on cue: "prikryvayu" means "to cover up" (from "prikryvat"), giving the line its exact edge.
-- 'Chef, forgive me, I have assembled almost half.' Max puts the remark to Lyova: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
-- 'I need about four more hours.' Max speaks up lightly to settle things, grounding the moment in plain reality.
-- 'I am on my way, otherwise you will fuss until night.' Barinov centers this direct word toward Max: "provozishsya" means "you will fuss around" (from "provozitsya"), giving the line its exact edge.
-- 'Lyova, you are staying in charge of the kitchen.' Barinov hands over this statement in earnest: the "-sya" ending on "ostayoshsya" ("remain") turns the action inward or makes it happen between people naturally.
-- 'Yes, Chef, we will do everything great.' Lyova pushes back at once with Max, bringing things back to earth after the buildup.
+- 'Hello, well how are you doing there, did you finish?' Barinov opens up earnestly beside Max and leans on "zakonchil" ("finished", a form of "zakonchit") to give the remark its edge.
+- 'Chef, not everything is so simple here.' Jumping in dryly right here, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'What are those sounds over there with you?' Barinov challenges point-blank what Max is actually getting at here.
+- 'Are you playing a video game console over there?' Underscoring the games console around Max, Barinov centers the thought on "pristavku" ("games console", from "pristavka") without wasting a word.
+- 'The crib turned out to be very complicated.' Bringing up the crib before Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I decided to take a short break.' Max jumps in sharply without a pause, grounding the moment in plain reality.
+- 'While I cover for you here, you are playing games!' Barinov reacts directly beside Max and puts the weight on "prikryvayu" ("to cover up", from "prikryvat") as the exchange unfolds.
+- 'Chef, forgive me, I have assembled almost half.' Turning to the half beside Barinov, Max puts the weight on "polovinu" ("half", from "polovina") as the exchange unfolds.
+- 'I need about four more hours.' Max speaks lightly with a sigh, to clear the air between them once and for all.
+- 'I am on my way, otherwise you will fuss until night.' Highlighting the night during the talk, Barinov chooses "provozishsya" ("you will fuss around", from the root "provozitsya") so Max hears the exact meaning.
+- 'Lyova, you are staying in charge of the kitchen.' Mentioning the kitchen on the spot, the "-sya" ending on "ostayoshsya" ("remain") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yes, Chef, we will do everything great.' Lyova follows up at once toward Barinov, without trying to dress up how he really feels.

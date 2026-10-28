@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will be back in twenty minutes.' Elena opens up earnestly on the spot, to clear the air between them once and for all.
-- 'Misha is in charge.' Elena sharpens this key word on cue: "glavnogo" means "main" (from "glavnyy"), giving the line its exact edge.
-- 'Yes, Chef.' Elena hands over this update right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Nadenka, please finish making the salad.' Elena weighs in plainly before Barinov, bringing things back to earth after the buildup.
-- 'Misha, make the carbonara, otherwise I won't finish in time.' Barinov leans on this clear word for Elena: "karbonaru" means "carbonara" (from "karbonara"), giving the line its exact edge.
-- 'We will get it done.' Elena brings the thought calmly now: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
-- 'Take a seat. Coffee? Thank you.' Barinov inquires earnestly whether Elena really thought this through.
-- 'So, have you set up senior hazing here?' Elena grounds one pointed piece at once: "ustroili" means "to arrange" (from "ustroit"), giving the line its exact edge.
-- 'Hazing is for people who have no brains.' Barinov aims the thought facing Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Whereas for harmoniously developed personalities like me,.' Barinov proceeds earnestly without a pause, so Elena knows he is not just making small talk.
-- 'there are other levers of influence.' Barinov focuses on this direct touch on cue: "vliyaniya" means "influence, leverage" (from "vliyaniye"), giving the line its exact edge.
-- 'Well, we shall see.' Elena delivers this line at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I will be back in twenty minutes.' Elena pushes back earnestly with a smile, without trying to dress up how she really feels.
+- 'Misha is in charge.' Noting how main things are on the spot, Elena centers the thought on "glavnogo" ("main", from "glavnyy") without wasting a word.
+- 'Yes, Chef.' Elena smoothly directs this direct affirmation as they meet using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.
+- 'Nadenka, please finish making the salad.' Elena calmly gives this courtesy word toward Barinov using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Misha, make the carbonara, otherwise I won't finish in time.' Addressing the carbonara to Elena, Barinov uses "karbonaru" ("carbonara", from "karbonara") to make the point stick.
+- 'We will get it done.' Looking over promptly in front of Barinov, spoken Russian compresses the whole thought into just 1 words, skipping the extra helper words English needs.
+- 'Take a seat. Coffee? Thank you.' Barinov gently delivers this word of thanks in one quick breath using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'So, have you set up senior hazing here?' Elena fires back sharply in the exchange and uses "ustroili" ("to arrange", from "ustroit") to make the point stick.
+- 'Hazing is for people who have no brains.' Focusing on the hazing to Elena, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Whereas for harmoniously developed personalities like me,.' Barinov jumps in earnestly with a smile, testing Elena's reaction in the middle of the exchange.
+- 'there are other levers of influence.' Highlighting the influence right here, Barinov leans on "vliyaniya" ("influence, leverage", a form of "vliyaniye") to give the remark its edge.
+- 'Well, we shall see.' Jumping in calmly in front of Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

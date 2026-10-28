@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I do not know what happened.' Eleonora centers one sharp piece in reply: "proizoshlo" means "happened" (from "proizoyti"), giving the line its exact edge.
-- 'But I want to tell you one thing.' Eleonora leans on this sharp element with Mikhail: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'Many years ago I quarreled with my father.' Eleonora proceeds quietly without holding back, saying out loud what both of them already know.
-- 'But recently, as you know, we made up.' Eleonora grounds one vivid word toward Mikhail: "pomirilis" means "reconciled" (from "pomiritsya"), giving the line its exact edge.
-- 'I deeply regret that I waited so long.' Eleonora holds firm decisively to settle things, testing Barinov's reaction in the middle of the exchange.
-- 'But remember that time flies by unnoticed.' Eleonora opens up bluntly to be clear, without trying to dress up how she really feels.
-- 'I never got the money today.' Mikhail stresses this telling detail in earnest: "dozhdalsya" means "to wait for" (from "dozhdatsya"), giving the line its exact edge.
-- 'Forgive us, please, we will pay everything back.' Barinov sends this answer at once: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Stop crying and shouting loudly in here.' Mikhail chimes in honestly as they talk, making his position completely clear.
-- 'People live with one kidney too.' Mikhail colors one familiar term toward Eleonora: "pochkoy" means "kidney" (from "pochka"), giving the line its exact edge.
-- 'And right now you have two of them.' Mikhail brings that reply with warmth: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Next time I will not be joking.' Mikhail holds firm evenly beside Eleonora, shifting the whole mood of the room in a single beat.
+- 'Kostya, I do not know what happened.' Eleonora weighs in quietly to Mikhail and centers the thought on "proizoshlo" ("happened", from "proizoyti") without wasting a word.
+- 'But I want to tell you one thing.' Eleonora speaks warmly with a sigh, so Mikhail knows she is not just making small talk.
+- 'Many years ago I quarreled with my father.' Eleonora counters quietly with a shrug, bringing things back to earth after the buildup.
+- 'But recently, as you know, we made up.' Eleonora cuts in directly on the spot and lands on "pomirilis" ("reconciled", built on "pomiritsya") to keep the statement grounded.
+- 'I deeply regret that I waited so long.' Eleonora jumps in dryly at once and puts the weight on "zhaleyu" ("regret", from "zhalet") as the exchange unfolds.
+- 'But remember that time flies by unnoticed.' Eleonora opens up bluntly without any doubt, bringing things back to earth after the buildup.
+- 'I never got the money today.' Touching on the money beside Eleonora, Mikhail chooses "dozhdalsya" ("to wait for", from the root "dozhdatsya") so Eleonora hears the exact meaning.
+- 'Forgive us, please, we will pay everything back.' Barinov continues smoothly in this beat and brings in "prostite" ("excuse me", from "prostit") as the key Russian word here.
+- 'Stop crying and shouting loudly in here.' Mikhail continues honestly with a shrug, so Barinov knows he is not just making small talk.
+- 'People live with one kidney too.' Emphasizing the kidney on the spot, Mikhail brings in "pochkoy" ("kidney", from "pochka") as the key Russian word here.
+- 'And right now you have two of them.' Looking over warmly in this beat, Mikhail uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Next time I will not be joking.' Mikhail cuts in evenly facing Barinov, before Barinov can change the subject.

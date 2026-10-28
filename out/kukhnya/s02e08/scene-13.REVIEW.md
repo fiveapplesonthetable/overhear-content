@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My mood is great.' Barinov anchors one clear choice at once: "nastroyeniye" means "mood", and it carries the main weight of what Barinov is saying.
-- 'And how are things going at your restaurant?' Nastya delivers the reaction without pause: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'She replied that she is tired.' Barinov answers calmly as they talk, letting the remark speak for itself.
-- 'Chef, this is the perfect moment to invite her out somewhere.' Nastya frames one concrete choice at once: "kuda-nibud" means "anywhere, somewhere", and it carries the main weight of what Nastya is saying.
-- 'You cannot just blurt it out like that.' Barinov drops this answer calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Wait, what are you doing?' Nastya quizzes eagerly before Barinov can change the subject.
-- 'I just invited her out on a date tomorrow in your name.' Barinov grounds this vivid expression in earnest: "svidaniye" means "date", and it carries the main weight of what Barinov is saying.
-- 'Because today you do not seem to be in top form.' Nastya hands over this warning toward Barinov: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
-- 'Are you trying to be the death of me?' Barinov presses quietly in front of Nastya without any preamble.
-- 'Tell her that you were the one who typed that.' Nastya centers one pointed touch toward Barinov: "sdelal" means "did" (from "sdelat"), giving the line its exact edge.
-- 'I cannot look.' Barinov shapes that remark toward Nastya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Let me read what she wrote.' Nastya jumps in right away with a smile, letting the remark speak for itself.
-- 'I read it, and she replied positively.' Barinov colors one clear touch in reply: "prochital" means "read" (from "prochitat"), giving the line its exact edge.
+- 'My mood is great.' Focusing on his mood in the exchange, Barinov lands on "nastroyeniye" ("mood") as the key everyday word here.
+- 'And how are things going at your restaurant?' Leaning in naturally in the exchange, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'She replied that she is tired.' Barinov chimes in calmly hearing Nastya, before Nastya can change the subject.
+- 'Chef, this is the perfect moment to invite her out somewhere.' Touching on the time during the talk, Nastya centers the remark on "kuda-nibud" ("anywhere, somewhere") without any extra fuss.
+- 'You cannot just blurt it out like that.' Leaning in earnestly with Nastya, Barinov uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Wait, what are you doing?' Nastya quizzes eagerly where this conversation is heading next.
+- 'I just invited her out on a date tomorrow in your name.' Discussing a date before Nastya, Barinov brings in "svidaniye" ("date") to make the meaning unmistakable.
+- 'Because today you do not seem to be in top form.' Replying plainly in front of Barinov, the "-sya" ending on "kazhetsya" ("it seems, I think") marks an action that unfolds mutually or turns back on the speaker.
+- 'Are you trying to be the death of me?' Barinov presses quietly what Nastya is actually getting at here.
+- 'Tell her that you were the one who typed that.' Turning promptly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I cannot look.' Cutting in quietly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Let me read what she wrote.' Nastya weighs in right away toward Barinov, letting the remark speak for itself.
+- 'I read it, and she replied positively.' Barinov steps in readily in this beat and uses "prochital" ("read", from "prochitat") to make the point stick.

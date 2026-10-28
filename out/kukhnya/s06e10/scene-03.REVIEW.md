@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, thank you for the tasty breakfast.' Lyova replies honestly across the room, bringing things back to earth after the buildup.
-- 'How wonderfully you thought of living all together.' Eleonora highlights one direct element on cue: "zamechatelno" means "wonderful", and it carries the main weight of what Eleonora is saying.
-- 'Why are you waking me up so early in the morning?' Lyova shapes the reaction beside the doctor: putting the question word "pochemu" right at the front of the line lets the doctor hear the point of the question on the very first beat.
-- 'Lyova, get up, I need to rewash your bed.' Eleonora responds candidly hearing Lyova, keeping the focus on what actually matters here.
-- 'Eleonora Andreevna, you need a change of scenery.' The doctor centers one memorable piece with Eleonora: "obstanovku" means "atmosphere" (from "obstanovka"), giving the line its exact edge.
-- 'There is one good hospital, or rather a quiet sanatorium.' The doctor speaks decisively to settle things, leaving no doubt about where he stands.
-- 'It is located in the forest right outside the city.' The doctor reacts dryly around Eleonora, bringing things back to earth after the buildup.
-- 'There is fresh air, sound sleep, and horses there.' The doctor features one memorable element at once: "svezhiy" means "fresh", and it carries the main weight of what the doctor is saying.
-- 'Tell me, do they have a large swimming pool there?' Eleonora states that answer on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for the doctor purely through rising pitch at the end.
-- 'Of course, there is a simply wonderful warm pool there.' The doctor steps in pointedly in this moment, without trying to dress up how he really feels.
-- 'Do you think this will really help me right now?' Eleonora emphasizes this telling element on cue: "deystvitelno" means "really, indeed", and it carries the main weight of what Eleonora is saying.
-- 'Without a doubt, you need complete peace and rest.' The doctor frames one colorful touch for Lyova: "bezuslovno" means "without a doubt", and it carries the main weight of what the doctor is saying.
+- 'Good morning, thank you for the tasty breakfast.' Lyova replies honestly hearing Eleonora, steering the talk right where he wants it.
+- 'How wonderfully you thought of living all together.' Eleonora follows up frankly on the spot and puts the emphasis on "zamechatelno" ("wonderful") in the middle of the talk.
+- 'Why are you waking me up so early in the morning?' Answering readily before Eleonora, Lyova puts the question word "pochemu" right at the start so Eleonora hears the focus immediately.
+- 'Lyova, get up, I need to rewash your bed.' Touching on the bed in their talk, Eleonora cuts straight through the tension with Lyova.
+- 'Eleonora Andreevna, you need a change of scenery.' Highlighting the atmosphere at once, the doctor leans on "obstanovku" ("atmosphere", a form of "obstanovka") to give the remark its edge.
+- 'There is one good hospital, or rather a quiet sanatorium.' Showing how good things are in the exchange, the doctor brings in "khoroshaya" ("good", from "khoroshiy") as the key Russian word here.
+- 'It is located in the forest right outside the city.' The doctor reacts dryly across the room, to clear the air between them once and for all.
+- 'There is fresh air, sound sleep, and horses there.' Highlighting how fresh things are to Eleonora, the doctor lands on "svezhiy" ("fresh") as the key everyday word here.
+- 'Tell me, do they have a large swimming pool there?' Bringing up the swimming pool in this beat, Eleonora keeps normal statement word order here, turning the line into a question for the doctor purely through rising pitch.
+- 'Of course, there is a simply wonderful warm pool there.' The doctor speaks up pointedly across the room, before Eleonora can change the subject.
+- 'Do you think this will really help me right now?' Eleonora reacts directly in this beat and chooses "deystvitelno" ("really, indeed") so the doctor gets the point right away.
+- 'Without a doubt, you need complete peace and rest.' The doctor follows up bluntly around Eleonora, to clear the air between them once and for all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Doctor, what is wrong with him?' Eleonora stresses one direct touch with Barinov: "doktor" means "Doctor", and it carries the main weight of what Eleonora is saying.
-- 'The examination will show more precisely.' Mikhail voices this point briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'A common case, overeating is to blame for everything.' Mikhail reacts at once across the room, testing Barinov's reaction in the middle of the exchange.
-- 'One must restrain oneself.' Mikhail favors this clear term right here: "sderzhivat" means "to restrain", and it carries the main weight of what Mikhail is saying.
-- 'You, by the way, should keep that in mind too.' Mikhail aims that thought on cue: opening with "kstati" ("by the way") lets Mikhail drop a new detail into the conversation as if it just crossed his mind.
-- 'You drove the prefect to a heart attack!' Eleonora opens up firmly to be clear, before Mikhail can change the subject.
-- 'Risking a human life for the sake of a victory!' Eleonora stresses one classic word toward Barinov: "chelovecheskoy" means "human" (from "chelovecheskiy"), giving the line its exact edge.
-- 'The wager continues.' Barinov hands over this warning plainly here: the "-sya" ending on "prodolzhayetsya" ("continues") turns the action inward or makes it happen between people naturally.
-- 'This is for you, Mikhail Dzhekovich.' Barinov weighs in promptly without holding back, keeping the focus on what actually matters here.
-- 'Enjoy your meal.' Barinov anchors one classic word for Mikhail: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
-- 'Enjoy your meal, Mikhail.' Eleonora brings that remark beside Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Eat everything down to the last piece.' Barinov follows up bluntly watching Mikhail, steering the talk right where he wants it.
+- 'Doctor, what is wrong with him?' Mentioning the doctor around Mikhail, Eleonora chooses "doktor" ("Doctor") so Mikhail gets the point right away.
+- 'The examination will show more precisely.' Following up boldly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'A common case, overeating is to blame for everything.' Mikhail continues at once around Eleonora, without trying to dress up how he really feels.
+- 'One must restrain oneself.' Mikhail fires back boldly in front of Eleonora and chooses "sderzhivat" ("to restrain") so Eleonora gets the point right away.
+- 'You, by the way, should keep that in mind too.' Focusing on the view before Eleonora, Mikhail opens with "kstati" ("by the way") as if the thought just crossed his mind.
+- 'You drove the prefect to a heart attack!' Eleonora pushes back firmly facing Mikhail, leaving no doubt about where she stands.
+- 'Risking a human life for the sake of a victory!' Bringing up a human life in this beat, Eleonora lands on "chelovecheskoy" ("human", built on "chelovecheskiy") to keep the statement grounded.
+- 'The wager continues.' Mentioning the bet before Eleonora, the "-sya" ending on "prodolzhayetsya" ("continues") marks an action that unfolds mutually or turns back on the speaker.
+- 'This is for you, Mikhail Dzhekovich.' Barinov speaks promptly on the spot, before Mikhail can change the subject.
+- 'Enjoy your meal.' Emphasizing the appetite in this beat, Barinov lands on "priyatnogo" ("pleasant", built on "priyatnyy") to keep the statement grounded.
+- 'Enjoy your meal, Mikhail.' Talking about the appetite right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Eat everything down to the last piece.' Barinov responds bluntly with a smile, making his position completely clear.

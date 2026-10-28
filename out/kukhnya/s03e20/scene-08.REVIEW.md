@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, it is very cozy here at your home.' Max states the comment calmly now: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Just do not think anything bad, please.' Max proceeds dryly across the room, leaving no doubt about where he stands.
-- 'The doctor advised me to ask you questions.' Max points to this sharp piece on cue: "posovetoval" means "advised" (from "posovetovat"), giving the line its exact edge.
-- 'Well, that is needed to recover my memory faster.' Max makes the remark without pause: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Fine, and what exactly do you want to find out?' Vika probes sharply how Max expects that to work in practice.
-- 'Tell me, were you and I in some kind of relationship?' Max reaches for one pointed piece in earnest: "otnosheniyakh" means "relationships" (from "otnosheniye"), giving the line its exact edge.
-- 'No, we were not, we were just friends as colleagues.' Vika states the reaction frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'That was a rather strange friendship we had as colleagues.' Max continues frankly during the talk, before Vika can change the subject.
-- 'In what sense strange? What are you talking about?' Vika grounds one pointed element toward Max: "strannaya" means "strange" (from "strannyy"), giving the line its exact edge.
-- 'I was just looking through my phone and found this.' Max gives this point without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Here are your messages: first you write that you hate me.' Max fires back wryly beside Vika, to clear the air between them once and for all.
-- 'And then you write that you want me, and scold me again!' Max features one classic element with Vika: "rugayeshsya" means "to quarrel" (from "rugatsya"), giving the line its exact edge.
+- 'Vika, it is very cozy here at your home.' Reacting warmly during the talk, spoken Russian drops "is" and "are" in the present, letting Max place the two halves side by side.
+- 'Just do not think anything bad, please.' Max weighs in dryly without a pause, grounding the moment in plain reality.
+- 'The doctor advised me to ask you questions.' Emphasizing the doctor beside Vika, Max lands on "posovetoval" ("advised", built on "posovetovat") to keep the statement grounded.
+- 'Well, that is needed to recover my memory faster.' Focusing on his memory with Vika, Max leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Fine, and what exactly do you want to find out?' Vika probes sharply if there is more going on behind the scenes.
+- 'Tell me, were you and I in some kind of relationship?' Mentioning the relationships in this beat, Max leans on "otnosheniyakh" ("relationships", a form of "otnosheniye") to give the remark its edge.
+- 'No, we were not, we were just friends as colleagues.' Bringing up the colleagues before Max, Vika uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'That was a rather strange friendship we had as colleagues.' Max opens up frankly with a shrug, steering the talk right where he wants it.
+- 'In what sense strange? What are you talking about?' Showing how strange things are in the exchange, Vika leans on "strannaya" ("strange", a form of "strannyy") to give the remark its edge.
+- 'I was just looking through my phone and found this.' Dwelling on his phone during the talk, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Here are your messages: first you write that you hate me.' Max fires back wryly in their talk, without trying to dress up how he really feels.
+- 'And then you write that you want me, and scold me again!' Max cuts in smoothly in this beat and leans on "rugayeshsya" ("to quarrel", a form of "rugatsya") to give the remark its edge.

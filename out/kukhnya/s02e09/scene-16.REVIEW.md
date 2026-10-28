@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, we swear we only meant well.' Vika favors one clear word right here: "klyanemsya" means "swear, vow" (from "klyastsya"), giving the line its exact edge.
-- 'We actually thought.' Vika aims this point before Tanya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Just like you.' Tanya fires back bluntly without a pause, before Barinov can change the subject.
-- 'You are completely right.' Barinov points to this telling piece in earnest: "sovershenno" means "quite, completely", and it carries the main weight of what Barinov is saying.
-- 'Please forgive us.' Vika states that thought before Barinov: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
-- 'And this time we will not let you down.' Tanya opens up pointedly across the room, to clear the air between them once and for all.
-- 'How could you even think such a thing?' Barinov focuses on this clear expression in earnest: "podumat" means "to think", and it carries the main weight of what Barinov is saying.
-- 'Well, he was being so kind.' Vika shares the reaction plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'He was not drinking.' Tanya pushes back dryly as they talk, keeping the focus on what actually matters here.
-- 'All right, that is enough, go on.' Barinov centers one vivid choice at once: "davayte" means "let's" (from "davat"), giving the line its exact edge.
-- 'And what should we do now?' Vika delivers the comment with candor: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Nothing now, you have done plenty already.' Tanya proceeds quietly to be clear, letting the remark speak for itself.
-- 'Go on, I will call her for him.' Barinov favors one familiar touch in earnest: "pozvonyu" means "will call" (from "pozvonit"), giving the line its exact edge.
+- 'Chef, we swear we only meant well.' Vika fires back briskly in the exchange and uses "klyanemsya" ("swear, vow", from "klyastsya") to make the point stick.
+- 'We actually thought.' Cutting in briskly around Tanya, Vika drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Just like you.' Tanya proceeds bluntly without any doubt, letting the remark speak for itself.
+- 'You are completely right.' Barinov opens up warmly in the exchange and brings in "sovershenno" ("quite, completely") to make the meaning unmistakable.
+- 'Please forgive us.' Vika simply voices this formal apology in the exchange using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'And this time we will not let you down.' Tanya continues pointedly without holding back, without trying to dress up how she really feels.
+- 'How could you even think such a thing?' Barinov chimes in decisively to Vika and reaches for the Russian word "podumat" ("to think") right at the heart of the line.
+- 'Well, he was being so kind.' Opening up plainly with Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'He was not drinking.' Tanya pushes back dryly without any doubt, letting the remark speak for itself.
+- 'All right, that is enough, go on.' Barinov promptly voices this word of agreement while facing Tanya using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'And what should we do now?' Holding firm calmly before Tanya, Vika puts the question word "chto" right at the start so Tanya hears the focus immediately.
+- 'Nothing now, you have done plenty already.' Tanya proceeds quietly hearing Vika, making her position completely clear.
+- 'Go on, I will call her for him.' Barinov follows up earnestly with Tanya and brings in "pozvonyu" ("will call", from "pozvonit") as the key Russian word here.

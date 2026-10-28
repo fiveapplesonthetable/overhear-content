@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, it is a pity there is no sound.' Max pushes back decisively beside Barinov, grounding the moment in plain reality.
-- 'And it is a pity about the cognac and whiskey too.' Vika chooses this clear term toward Max: "konyak" means "cognac, brandy", and it carries the main weight of what Vika is saying.
-- 'Why could he not just stay at home?' Vika states that reply with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'So, as I understand it, we are not guilty?' Max presses earnestly as Vika tries to explain the situation.
-- 'Max, you can hug at home!' Barinov centers this key touch in earnest: "obnimatsya" means "to hug each other", and it carries the main weight of what Barinov is saying.
-- 'Everyone is dismissed, go back to work!' Barinov aims the comment frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'For a fiancée, you are way too jealous.' Barinov jumps in boldly on the spot, bringing things back to earth after the buildup.
-- 'Nonsense, what does jealousy have to do with it?' Vika focuses on one telling piece at once: "gluposti" means "nonsense" (from "glupost"), giving the line its exact edge.
-- 'Wait, what fiancée are you talking about?' Vika frames the comeback with warmth: putting the question word "kakoy" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'What fiancée, I am going back to work.' Barinov cuts in steadily across the room, so Vika knows he is not just making small talk.
-- 'Vitya, wait and tell me everything about the fiancée!' Vika emphasizes one concrete touch in earnest: "rasskazhi" means "tell" (from "rasskazat"), giving the line its exact edge.
-- 'Well, Dima is planning to propose to you today.' Barinov stresses one clear piece right here: "predlozheniye" means "offer, proposal", and it carries the main weight of what Barinov is saying.
-- 'He already bought a beautiful ring too.' Barinov answers warmly with a sigh, watching Max's face to see how the news lands.
+- 'Look, it is a pity there is no sound.' Max pushes back decisively hearing Vika, steering the talk right where he wants it.
+- 'And it is a pity about the cognac and whiskey too.' Addressing the cognac at once, Vika puts the emphasis on "konyak" ("cognac, brandy") in the middle of the talk.
+- 'Why could he not just stay at home?' Weighing in briskly around Max, Vika drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'So, as I understand it, we are not guilty?' Max presses earnestly whether Barinov really thought this through.
+- 'Max, you can hug at home!' Barinov responds sharply with Max and leans on "obnimatsya" ("to hug each other") to give the whole sentence its punch.
+- 'Everyone is dismissed, go back to work!' Describing how free things are at once, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'For a fiancée, you are way too jealous.' Barinov speaks up boldly with a sigh, shifting the mood of the conversation in a single beat.
+- 'Nonsense, what does jealousy have to do with it?' Turning to the nonsense to Barinov, Vika chooses "gluposti" ("nonsense", from the root "glupost") so Barinov hears the exact meaning.
+- 'Wait, what fiancée are you talking about?' Returning to the bride to Barinov, Vika puts the question word "kakoy" right at the start so Barinov hears the focus immediately.
+- 'What fiancée, I am going back to work.' Barinov cuts in steadily with a sigh, watching Vika's face to see how the news lands.
+- 'Vitya, wait and tell me everything about the fiancée!' Turning to the bride right here, Vika leans on "nevestu" ("bride, fiancée", a form of "nevesta") to give the remark its edge.
+- 'Well, Dima is planning to propose to you today.' Barinov steps in lightly with a nod, without trying to dress up how he really feels.
+- 'He already bought a beautiful ring too.' Barinov continues warmly with a sigh, before Vika can change the subject.

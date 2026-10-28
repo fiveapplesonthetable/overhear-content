@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, good day, dear Dmitry Vladimirovich.' Max speaks up plainly without holding back, testing Barinov's reaction in the middle of the exchange.
-- 'Come quickly, our chef is feeling bad here.' Max focuses on one pointed expression for Nagiyev: "prikhodite" means "come" (from "prikhodit"), giving the line its exact edge.
-- 'It seems he had another stroke.' Max shapes the remark plainly here: the "-sya" ending on "sluchilsya" ("to happen") turns the action inward or makes it happen between people naturally.
-- 'Vika, wait for me in the car, I will be right back.' Nagiyev steps in at once without holding back, making his position completely clear.
-- 'A cockroach again, whose dish is it?' Barinov grounds one pointed touch with Max: "tarakana" means "cockroach" (from "tarakan"), giving the line its exact edge.
-- 'It is your dish, respected Chef.' Max shapes that answer for Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Vitya, they told me that you are feeling bad.' Nagiyev responds steadily without holding back, watching Barinov's face to see how the news lands.
-- 'Ah yes, my salary could use a little raise.' Barinov leans on one colorful word in earnest: "zarplatu" means "salary" (from "zarplata"), giving the line its exact edge.
-- 'From a joke like that there are big problems, is that clear?' Nagiyev hands over the reply to Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'I will definitely find out who tricked me like this.' Nagiyev continues firmly beside Max, saying out loud what both of them already know.
-- 'I will punish those guys very strictly.' Nagiyev highlights one concrete choice in earnest: "rebyat" means "kids, guys" (from "rebyata"), giving the line its exact edge.
-- 'I give my word, I definitely will not forgive this!' Nagiyev holds firm promptly with a sigh, to clear the air between them once and for all.
+- 'Hello, good day, dear Dmitry Vladimirovich.' Max weighs in plainly beside Nagiyev, shifting the mood of the conversation in a single beat.
+- 'Come quickly, our chef is feeling bad here.' Max steps in dryly in this beat and brings in "skoreye" ("quickly, right away", from "skoro") as the key Russian word here.
+- 'It seems he had another stroke.' Checking on the stroke right here, the "-sya" ending on "sluchilsya" ("to happen") marks an action that unfolds mutually or turns back on the speaker.
+- 'Vika, wait for me in the car, I will be right back.' Nagiyev steps in at once in their talk, without trying to dress up how he really feels.
+- 'A cockroach again, whose dish is it?' Addressing a cockroach in the exchange, Barinov centers the thought on "tarakana" ("cockroach", from "tarakan") without wasting a word.
+- 'It is your dish, respected Chef.' Stressing how respected things are before Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Vitya, they told me that you are feeling bad.' Nagiyev cuts in steadily with a sigh, shifting the mood of the conversation in a single beat.
+- 'Ah yes, my salary could use a little raise.' Talking about his salary with Nagiyev, Barinov lands on "zarplatu" ("salary", built on "zarplata") to keep the statement grounded.
+- 'From a joke like that there are big problems, is that clear?' Mentioning the jokes at once, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'I will definitely find out who tricked me like this.' Nagiyev follows up firmly with a nod, before Barinov can change the subject.
+- 'I will punish those guys very strictly.' Bringing up the kids right here, Nagiyev chooses "rebyat" ("kids, guys", from the root "rebyata") so Barinov hears the exact meaning.
+- 'I give my word, I definitely will not forgive this!' Discussing his word beside Barinov, Nagiyev reaches for the Russian word "slovo" ("word") right at the heart of the line.

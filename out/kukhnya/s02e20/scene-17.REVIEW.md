@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, Lena, I have made three big mistakes in my life.' Barinov drops this point around Elena: the "-sya" ending on "oshibalsya" ("to make a mistake") turns the action inward or makes it happen between people naturally.
-- 'And right now my greatest fear is making one more mistake.' Max replies evenly with a smile, making his position completely clear.
-- 'That is why I do not want to rush things between us.' Elena chooses one sharp piece at once: "sobytiya" means "event" (from "sobytiye"), giving the line its exact edge.
-- 'Grab the liver from the storage room.' Barinov lays out that thought without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'You still will not manage to cook it all in an hour.' Max follows up boldly with Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'You do not have enough hands.' Elena chooses one vivid choice on cue: "khvatit" means "enough", and it carries the main weight of what Elena is saying.
-- 'Get to work, girls!' Barinov shares the thought frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Chef, we are not going to make it in time.' Max steps in openly without a pause, watching Elena's face to see how the news lands.
-- 'I figured you could use a few extra pairs of hands.' Elena favors this vivid element for Barinov: "pomeshayut" means "will hurt" (from "pomeshat"), giving the line its exact edge.
-- 'Well then, look at that.' Barinov lays out that line for Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I am delighted to inform all of you.' Max tests wryly while looking straight at Barinov here.
-- 'That we have found our bride after all!' Elena sharpens one sharp element on cue: "nevestu" means "bride, fiancée" (from "nevesta"), giving the line its exact edge.
-- 'Which means it is time to serve the hot main course.' Barinov brings that remark in earnest: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".
+- 'Lena, Lena, I have made three big mistakes in my life.' Pointing to his life in the exchange, the "-sya" ending on "oshibalsya" ("to make a mistake") marks an action that unfolds mutually or turns back on the speaker.
+- 'And right now my greatest fear is making one more mistake.' Max fires back evenly watching Barinov, bringing things back to earth after the buildup.
+- 'That is why I do not want to rush things between us.' Discussing the event in front of Max, Elena centers the thought on "sobytiya" ("event", from "sobytiye") without wasting a word.
+- 'Grab the liver from the storage room.' Addressing the liver in front of Elena, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'You still will not manage to cook it all in an hour.' Max continues boldly without any doubt, keeping the focus on what actually matters here.
+- 'You do not have enough hands.' Discussing the arms with Max, Elena leans on "khvatit" ("enough") to give the whole sentence its punch.
+- 'Get to work, girls!' Discussing the girl before Elena, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Chef, we are not going to make it in time.' Max steps in openly around Barinov, making his position completely clear.
+- 'I figured you could use a few extra pairs of hands.' Talking about the hands right here, Elena chooses "lishniye" ("unnecessary", from the root "lishniy") so Max hears the exact meaning.
+- 'Well then, look at that.' Following up frankly before Elena, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I am delighted to inform all of you.' Max tests wryly if there is more going on behind the scenes.
+- 'That we have found our bride after all!' Turning to her bride at once, Elena brings in "nevestu" ("bride, fiancée", from "nevesta") as the key Russian word here.
+- 'Which means it is time to serve the hot main course.' Holding firm boldly beside Elena, Barinov leans on "pora" ("it is time to"), which carries the whole predicate in Russian without needing "it is".

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nothing much, I just had a scary dream.' Vika stresses one clear piece with Kostya: "strashnyy" means "terrible", and it carries the main weight of what Vika is saying.
-- 'Were you dreaming about clowns?' Kostya sends that remark to Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
-- 'Why are the two of you looking at me like that?' Vika probes point-blank about what Kostya just brought up.
-- 'All right, let us go back to sleep.' Kostya leans on one practical touch for Vika: "poydem" means "let's go" (from "poyti"), giving the line its exact edge.
-- 'Kostik, come on, let us go.' Vika states that point in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Chef, we have this steak tartare here.' Kostya answers pointedly with a nod, shifting the whole mood of the room in a single beat.
-- 'What is this, a returned dish?' Vika colors one sharp word for Kostya: "vozvrat" means "return", and it carries the main weight of what Vika is saying.
-- 'Oh, no, it is not a return.' Kostya voices that reply at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Then what is it?' Vika probes promptly before Kostya can change the subject.
-- 'Well, she...' Kostya offers this warning beside Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'What happened?' Vika makes the thought around Kostya: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
-- 'There is a monster sitting out in the dining room.' Kostya answers openly facing Vika, testing Vika's reaction in the middle of the exchange.
-- 'I have to destroy it.' Vika highlights one clear detail for Kostya: "unichtozhit" means "to destroy", and it carries the main weight of what Vika is saying.
+- 'Nothing much, I just had a scary dream.' Bringing up a scary dream in the exchange, Vika reaches for the Russian word "strashnyy" ("terrible") right at the heart of the line.
+- 'Were you dreaming about clowns?' Dwelling on the clown around Vika, Kostya keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Why are the two of you looking at me like that?' Vika probes point-blank before Kostya can change the subject.
+- 'All right, let us go back to sleep.' Kostya directly sends this word of agreement at the start of the beat using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Kostik, come on, let us go.' Leaning in calmly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Chef, we have this steak tartare here.' Kostya answers pointedly facing Vika, bringing things back to earth after the buildup.
+- 'What is this, a returned dish?' Focusing on the return at once, Vika chooses "vozvrat" ("return") so Kostya gets the point right away.
+- 'Oh, no, it is not a return.' Touching on a return in this beat, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Then what is it?' Vika probes promptly why things suddenly took this turn between them.
+- 'Well, she...' Jumping in candidly in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'What happened?' Reacting evenly with Kostya, Vika puts the question word "chto" right at the start so Kostya hears the focus immediately.
+- 'There is a monster sitting out in the dining room.' Kostya chimes in openly with Vika, letting the remark speak for itself.
+- 'I have to destroy it.' Vika speaks decisively beside Kostya and centers the remark on "unichtozhit" ("to destroy") without any extra fuss.

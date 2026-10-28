@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, we will see each other this evening.' Barinov holds firm lightly on the spot, watching the guest's face to see how the news lands.
-- 'Everything is fine with us, go on out.' The guest stresses this sharp touch right here: "khorosho" means "good, fine", and it carries the main weight of what the guest is saying.
-- 'Wait, I will explain everything to you right now.' The guest reaches for this key touch at once: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'You are going to explain all of this to Katya right now!' Barinov fires back firmly without a pause, so the guest knows he is not just making small talk.
-- 'Listen to me, I am a Michelin inspector.' The guest anchors this vivid expression in reply: "poslushayte" means "listen" (from "poslushat"), giving the line its exact edge.
-- 'Word of honor, here is my identification card.' The guest hands over that point for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Understand, I like your daughter very much.' The guest holds firm frankly watching Barinov, before Barinov can change the subject.
-- 'And this was simply a random mistake.' The guest underscores this telling element on cue: "sluchaynaya" means "accidental" (from "sluchaynyy"), giving the line its exact edge.
-- 'As a man, you should understand me.' The guest leans on this direct detail toward Barinov: "muzhchina" means "man", and it carries the main weight of what the guest is saying.
-- 'I have a proposal for you.' The guest weighs in sharply with a smile, refusing to let the moment slip past.
-- 'You will not tell Katya about this incident.' The guest highlights one sharp word in earnest: "rasskazhete" means "will tell" (from "rasskazat"), giving the line its exact edge.
-- 'And I will write a good report about the restaurant.' The guest speaks frankly to settle things, to clear the air between them once and for all.
+- 'So, we will see each other this evening.' Barinov continues lightly in this moment, before the guest can change the subject.
+- 'Everything is fine with us, go on out.' The guest jumps in boldly in this beat and brings in "khorosho" ("good, fine") to make the meaning unmistakable.
+- 'Wait, I will explain everything to you right now.' The guest reacts pointedly with a nod, steering the talk right where he wants it.
+- 'You are going to explain all of this to Katya right now!' Barinov speaks firmly across the room, letting the remark speak for itself.
+- 'Listen to me, I am a Michelin inspector.' Focusing on a inspector before Barinov, the guest leans on "inspektor" ("inspector") to give the whole sentence its punch.
+- 'Word of honor, here is my identification card.' Mentioning the identity card beside Barinov, the guest links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Understand, I like your daughter very much.' The guest reacts frankly beside Barinov, keeping the focus on what actually matters here.
+- 'And this was simply a random mistake.' Focusing on a random mistake in this beat, the guest reaches for the Russian word "sluchaynaya" ("accidental", built from "sluchaynyy") right at the center of the line.
+- 'As a man, you should understand me.' The guest weighs in steadily facing Barinov, grounding the moment in plain reality.
+- 'I have a proposal for you.' The guest speaks up sharply facing Barinov, keeping the focus on what actually matters here.
+- 'You will not tell Katya about this incident.' Touching on the case in front of Barinov, the guest puts the weight on "rasskazhete" ("will tell", from "rasskazat") as the exchange unfolds.
+- 'And I will write a good report about the restaurant.' Turning to a good report during the talk, the guest centers the remark on "khoroshiy" ("good") without any extra fuss.

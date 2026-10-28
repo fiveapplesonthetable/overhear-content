@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not even dare to say that.' Mikhail follows up bluntly to be clear, bringing things back to earth after the buildup.
-- 'Not everything is fine with you.' Mikhail picks one vivid piece at once: "normalno" means "fine, OK", and it carries the main weight of what Mikhail is saying.
-- 'Do not dare lock yourselves in from me!' Barinov states the remark plainly here: the "-sya" ending on "zakryvatsya" ("to lock oneself in") turns the action inward or makes it happen between people naturally.
-- 'I will fire all of you today!' Barinov cuts in at once without a pause, bringing things back to earth after the buildup.
-- 'Oh, you little macaque monkey!' Barinov highlights one classic term at once: "makaka" means "macaque monkey", and it carries the main weight of what Barinov is saying.
-- 'Sorry, I thought the wrong thing.' Barinov offers that remark on cue: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
-- 'This is not just a monkey to you.' Mikhail replies briskly with a smile, shifting the whole mood of the room in a single beat.
-- 'Today the entire restaurant menu is active.' Mikhail reaches for this key expression on cue: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'Guests are waiting for orders starting today.' Mikhail responds decisively on the spot, bringing things back to earth after the buildup.
-- 'I simply hate this rule.' Barinov reacts steadily around Senya, leaving no doubt about where he stands.
-- 'Chef, what just happened here?' Senya centers one memorable detail with Barinov: "seychas" means "now", and it carries the main weight of what Senya is saying.
-- 'Well, is it a tasty banana?' Barinov drops that thought toward Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Do not even dare to say that.' Mikhail follows up bluntly without holding back, without trying to dress up how he really feels.
+- 'Not everything is fine with you.' Mikhail jumps in promptly before Barinov and leans on "normalno" ("fine, OK") to give the whole sentence its punch.
+- 'Do not dare lock yourselves in from me!' Leaning in earnestly beside Mikhail, the "-sya" ending on "zakryvatsya" ("to lock oneself in") marks an action that unfolds mutually or turns back on the speaker.
+- 'I will fire all of you today!' Barinov pushes back at once during the talk, before Mikhail can change the subject.
+- 'Oh, you little macaque monkey!' Mentioning the macaque monkey in the exchange, Barinov leans on "makaka" ("macaque monkey") to give the whole sentence its punch.
+- 'Sorry, I thought the wrong thing.' Barinov lightly directs this informal apology in front of Mikhail using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'This is not just a monkey to you.' Mikhail weighs in briskly with a sigh, testing Barinov's reaction in the middle of the exchange.
+- 'Today the entire restaurant menu is active.' Mentioning the entire restaurant on the spot, Mikhail uses "restorana" ("restaurant", from "restoran") to make the point stick.
+- 'Guests are waiting for orders starting today.' Highlighting the visitors in this beat, Mikhail chooses "segodnyashnego" ("of today's", from the root "segodnyashniy") so Barinov hears the exact meaning.
+- 'I simply hate this rule.' Barinov follows up steadily with a smile, leaving no doubt about where he stands.
+- 'Chef, what just happened here?' Stepping in dryly at once, Senya puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Well, is it a tasty banana?' Making clear how delicious things are at once, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.

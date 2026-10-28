@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Life never happens without partings.' Max favors one direct touch with Barinov: "rasstavaniy" means "partings", and it carries the main weight of what Max is saying.
-- 'We part with our past.' Max states this point briskly now: the "-sya" ending on "rasstayomsya" ("are breaking up") turns the action inward or makes it happen between people naturally.
-- 'We say goodbye to our present.' Max counters candidly across the room, grounding the moment in plain reality.
-- 'Sometimes we part with the future.' Max uses one clear piece for Katya: "rasstayomsya" means "are breaking up" (from "rasstavatsya"), giving the line its exact edge.
-- 'But this world is arranged very well.' Max shapes that point right away: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'After partings, new meetings always arrive.' Max answers lightly without any doubt, testing Katya's reaction in the middle of the exchange.
-- 'Dad, hello, how are you doing?' Katya frames one practical piece toward Barinov: "papa" means "Dad", and it carries the main weight of what Katya is saying.
-- 'Katya, what are you doing here?' Barinov shares that point with warmth: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'You have not called me for a long time.' Barinov fires back openly with a sigh, letting the remark speak for itself.
-- 'Dad, please, just do not worry.' Katya chooses this vivid choice at once: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
-- 'I just wanted to see you.' Katya voices that thought beside Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I wanted to test your reaction.' Katya continues decisively without a pause, saying out loud what both of them already know.
+- 'Life never happens without partings.' Addressing the life around Katya, Max lands on "rasstavaniy" ("partings") as the key everyday word here.
+- 'We part with our past.' Speaking smoothly in this beat, the "-sya" ending on "rasstayomsya" ("are breaking up") marks an action that unfolds mutually or turns back on the speaker.
+- 'We say goodbye to our present.' Max weighs in candidly with a sigh, shifting the mood of the conversation in a single beat.
+- 'Sometimes we part with the future.' Max jumps in quietly beside Katya and centers the thought on "budushchim" ("future", from "budushchiy") without wasting a word.
+- 'But this world is arranged very well.' Checking on the arranged around Katya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'After partings, new meetings always arrive.' Max reacts lightly with a nod, leaving no doubt about where he stands.
+- 'Dad, hello, how are you doing?' Mentioning the dad right here, Katya puts the emphasis on "papa" ("Dad") in the middle of the talk.
+- 'Katya, what are you doing here?' Turning naturally in the exchange, Barinov puts the question word "chto" right at the start so Katya hears the focus immediately.
+- 'You have not called me for a long time.' Barinov jumps in openly in this moment, without trying to dress up how he really feels.
+- 'Dad, please, just do not worry.' Discussing the dad right here, Katya lands on "perezhivay" ("worry", built on "perezhivat") to keep the statement grounded.
+- 'I just wanted to see you.' Looking over plainly at once, Katya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I wanted to test your reaction.' Katya pushes back decisively in their talk, shifting the mood of the conversation in a single beat.

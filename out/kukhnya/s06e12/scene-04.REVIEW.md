@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, Denis, our jewelry store welcomes you.' The guest emphasizes one concrete choice at once: "privetstvuyet" means "to greet, to welcome" (from "privetstvovat"), giving the line its exact edge.
-- 'Congratulations, you won a big fifty-percent discount.' The guest features one colorful word in earnest: "pozdravlyayem" means "we congratulate" (from "pozdravlyat"), giving the line its exact edge.
-- 'This special discount applies only to gold rings.' The guest pushes back wryly in this moment, making his position completely clear.
-- 'If you are planning to give a girl a beautiful ring.' The guest sharpens one memorable term at once: "sobirayetes" means "to intend" (from "sobiratsya"), giving the line its exact edge.
-- 'Do not miss the chance, I will send you the website address.' The guest focuses on one practical word at once: "upustite" means "to miss, to let slip" (from "upustit"), giving the line its exact edge.
-- 'Yes, alright, thank you very much for calling.' Denis speaks up dryly facing the guest, testing the guest's reaction in the middle of the exchange.
-- 'It is fine, this bookmaker is not such a tough nut to crack.' Barinov highlights one familiar choice for Denis: "bukmeker" means "bookmaker", and it carries the main weight of what Barinov is saying.
-- 'For such a payout I will definitely be able to make him talk.' Barinov speaks bluntly with a nod, letting the remark speak for itself.
-- 'At the base of the truth serum lies belladonna extract.' Barinov stands firm briskly hearing Denis, to clear the air between them once and for all.
-- 'Timur, hi, I urgently need belladonna today.' Barinov anchors one loaded word at once: "belladonna" means "belladonna", and it carries the main weight of what Barinov is saying.
-- 'Why no, Timur, it is not a woman at all!' Barinov brings the comeback to Denis: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'It is just such a rare useful herb for the kitchen.' Barinov fires back calmly on the spot, so the guest knows he is not just making small talk.
+- 'Good afternoon, Denis, our jewelry store welcomes you.' Turning to the shop right here, the guest puts the weight on "privetstvuyet" ("to greet, to welcome", from "privetstvovat") as the exchange unfolds.
+- 'Congratulations, you won a big fifty-percent discount.' The guest cuts in decisively with a sigh, refusing to let the moment slip past.
+- 'This special discount applies only to gold rings.' The guest reacts wryly watching Denis, leaving no doubt about where he stands.
+- 'If you are planning to give a girl a beautiful ring.' Noting how beautiful Denis is in front of Denis, the guest leans on "krasivoye" ("beautiful", a form of "krasivyy") to give the remark its edge.
+- 'Do not miss the chance, I will send you the website address.' The guest counters steadily on the spot, steering the talk right where he wants it.
+- 'Yes, alright, thank you very much for calling.' Denis jumps in dryly toward the guest, shifting the mood of the conversation in a single beat.
+- 'It is fine, this bookmaker is not such a tough nut to crack.' Bringing up the bookmaker around Denis, Barinov chooses "bukmeker" ("bookmaker") so Denis gets the point right away.
+- 'For such a payout I will definitely be able to make him talk.' Pointing to the winnings around Denis, Barinov lands on "vyigrysha" ("winnings, gain", built on "vyigrysh") to keep the statement grounded.
+- 'At the base of the truth serum lies belladonna extract.' Barinov fires back briskly without any doubt, refusing to let the moment slip past.
+- 'Timur, hi, I urgently need belladonna today.' Pointing to the belladonna to Denis, Barinov leans on "belladonna" ("belladonna") to give the whole sentence its punch.
+- 'Why no, Timur, it is not a woman at all!' Talking about a woman during the talk, Barinov adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'It is just such a rare useful herb for the kitchen.' Addressing the herbs with a smile, Barinov puts the real issue right on the table for Denis.

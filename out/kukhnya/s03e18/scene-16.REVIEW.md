@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is going on in the kitchen here?' Vika stresses this vivid detail with Barinov: "proiskhodit" means "is going on", and it carries the main weight of what Vika is saying.
-- 'Chef is burning the new menu on the stove here.' Max responds lightly without holding back, testing Vika's reaction in the middle of the exchange.
-- 'Nothing special is happening, we are burning your menu!' Barinov continues dryly before Max, refusing to let the moment slip past.
-- 'Vitya, you are drunk, stop this circus immediately!' Vika uses this vivid term for Max: "nemedlenno" means "immediately", and it carries the main weight of what Vika is saying.
-- 'No way, right now we will put the fire in the center.' Barinov chimes in firmly with a nod, bringing things back to earth after the buildup.
-- 'And we will merrily jump over this bonfire!' Barinov continues quietly with a sigh, making his position completely clear.
-- 'If you do not stop right now, I will fine you.' Vika uses this clear touch on cue: "perestanesh" means "you stop" (from "perestat"), giving the line its exact edge.
-- 'Nothing of the sort will work out for you!' Barinov brings the comment plainly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Because I am quitting on my own right now!' Barinov opens up decisively around Max, testing Max's reaction in the middle of the exchange.
-- 'Vika, do not worry, he is just drunk.' Max emphasizes one vivid touch right here: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'Max, stop constantly defending him in front of me!' Vika proceeds dryly without holding back, steering the talk right where she wants it.
-- 'I am not defending him, I just do not want you to get upset.' Max reacts frankly toward Vika, leaving no doubt about where he stands.
+- 'What is going on in the kitchen here?' Bringing up the kitchen before Max, Vika uses "proiskhodit" ("is going on") to carry the main weight of the thought.
+- 'Chef is burning the new menu on the stove here.' Pointing to the stove right here, Max brings in "novoye" ("new", from "novyy") as the key Russian word here.
+- 'Nothing special is happening, we are burning your menu!' Barinov chimes in dryly across the room, to clear the air between them once and for all.
+- 'Vitya, you are drunk, stop this circus immediately!' Bringing up the noise right here, Vika reaches for the Russian word "nemedlenno" ("immediately") right at the heart of the line.
+- 'No way, right now we will put the fire in the center.' Focusing on the center before Vika, Barinov brings in "tsentre" ("center", from "tsentr") as the key Russian word here.
+- 'And we will merrily jump over this bonfire!' Barinov continues quietly during the talk, without trying to dress up how he really feels.
+- 'If you do not stop right now, I will fine you.' Vika cuts in firmly at once and puts the weight on "perestanesh" ("you stop", from "perestat") as the exchange unfolds.
+- 'Nothing of the sort will work out for you!' Looking over firmly around Vika, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Because I am quitting on my own right now!' Barinov opens up decisively with a nod, before Max can change the subject.
+- 'Vika, do not worry, he is just drunk.' Max counters readily with Vika and leans on "volnuysya" ("worry", a form of "volnovatsya") to give the remark its edge.
+- 'Max, stop constantly defending him in front of me!' Vika continues pointedly with Max and uses "zashchishchat" ("to defend") to carry the main weight of the thought.
+- 'I am not defending him, I just do not want you to get upset.' Max cuts in frankly around Vika, testing Vika's reaction in the middle of the exchange.

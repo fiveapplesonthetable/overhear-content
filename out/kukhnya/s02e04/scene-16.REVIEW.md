@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is Viktor Petrovich?' Vika offers the comment calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'All right, is my meat roll ready?' Vika delivers this answer briskly now: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'I do not know.' Barinov opens up earnestly to be clear, making his position completely clear.
-- 'Different words.' Vika picks one colorful detail for Barinov: "drugiye" means "other" (from "drugoy"), giving the line its exact edge.
-- 'Do you like words like that?' Barinov aims that answer facing Vika: the "-sya" ending on "nravyatsya" ("are pleasing") turns the action inward or makes it happen between people naturally.
-- 'So Vitya has already told you his version of the truth.' Vika weighs in pointedly across the room, refusing to let the moment slip past.
-- 'Listen, would you like to hear my version?' Barinov highlights one concrete choice on cue: "slushayte" means "listen" (from "slushat"), giving the line its exact edge.
-- 'I am going to tell you anyway.' Vika shares that reply before Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I was in love with the kitchen.' Barinov replies pointedly in this moment, grounding the moment in plain reality.
-- 'And Viktor Petrovich.' Vika sends this point frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'He was not just my teacher.' Barinov follows up honestly with a nod, leaving no doubt about where he stands.
-- 'He was a god to me.' Vika chimes in promptly as things stand, before Barinov can change the subject.
-- 'And sit in the casino until morning.' Barinov emphasizes this vivid element in earnest: "kazino" means "casino", and it carries the main weight of what Barinov is saying.
+- 'And where is Viktor Petrovich?' Pressing on frankly on the spot, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'All right, is my meat roll ready?' Talking about the roll to Barinov, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I do not know.' Barinov cuts in earnestly with a smile, testing Vika's reaction in the middle of the exchange.
+- 'Different words.' Emphasizing the words on the spot, Vika brings in "slova" ("words", from "slovo") as the key Russian word here.
+- 'Do you like words like that?' Returning to the words right here, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'So Vitya has already told you his version of the truth.' Vika jumps in pointedly beside Barinov, grounding the moment in plain reality.
+- 'Listen, would you like to hear my version?' Touching on his version right here, Barinov brings in "versiyu" ("version, story", from "versiya") as the key Russian word here.
+- 'I am going to tell you anyway.' Reacting plainly around Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I was in love with the kitchen.' Barinov jumps in pointedly facing Vika, steering the talk right where he wants it.
+- 'And Viktor Petrovich.' Weighing in dryly in this beat, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'He was not just my teacher.' Addressing his teacher in this beat, Barinov uses "uchitelem" ("teacher", from "uchitel") to make the point stick.
+- 'He was a god to me.' Vika reacts promptly hearing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'And sit in the casino until morning.' Underscoring the casino right here, Barinov puts the emphasis on "kazino" ("casino") in the middle of the talk.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have serious problems out there.' Barinov hands over this statement toward Nagiyev: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Go to hell!' Nagiyev speaks up honestly in their talk, keeping the focus on what actually matters here.
-- 'Dima, what happened out there?' Barinov focuses on one direct term at once: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'I am the one asking you that question.' Nagiyev directs that thought for Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'What just happened?' Barinov presses point-blank as Nagiyev tries to explain the situation.
-- 'What do you mean we do not have it?' Nagiyev sends that line in earnest: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'I forgot to write it down.' Barinov frames this statement briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Oh, so you forgot to write it down!' Nagiyev speaks up earnestly with a shrug, letting the remark speak for itself.
-- 'Please do not worry, alright?' Barinov grounds this sharp detail in earnest: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
-- 'We will serve everything right away.' Nagiyev lays out that reply right away: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
-- 'We will sort it out, so to speak.' Barinov speaks up wryly hearing Nagiyev, grounding the moment in plain reality.
-- 'What the hell are you doing?' Nagiyev underscores one vivid word right here: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'And you, and you, and you too.' Barinov answers at once without holding back, so Nagiyev knows he is not just making small talk.
+- 'We have serious problems out there.' Mentioning the problems before Nagiyev, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Go to hell!' Nagiyev replies honestly in this moment, keeping the focus on what actually matters here.
+- 'Dima, what happened out there?' Barinov speaks up warmly on the spot and leans on "sluchilos" ("happened", a form of "sluchitsya") to give the remark its edge.
+- 'I am the one asking you that question.' Answering readily beside Barinov, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'What just happened?' Barinov presses point-blank whether Nagiyev really thought this through.
+- 'What do you mean we do not have it?' Holding firm candidly to Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I forgot to write it down.' Cutting in naturally on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Oh, so you forgot to write it down!' Nagiyev speaks up earnestly beside Barinov, letting the remark speak for itself.
+- 'Please do not worry, alright?' Barinov cuts in candidly in this beat and brings in "volnuytes" ("worry", from "volnovatsya") as the key Russian word here.
+- 'We will serve everything right away.' Opening up quietly beside Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'We will sort it out, so to speak.' Barinov speaks wryly in their talk, testing Nagiyev's reaction in the middle of the exchange.
+- 'What the hell are you doing?' Nagiyev proceeds briskly with Barinov and centers the thought on "delayesh" ("are you doing", from "delat") without wasting a word.
+- 'And you, and you, and you too.' Barinov opens up at once around Nagiyev, letting the remark speak for itself.

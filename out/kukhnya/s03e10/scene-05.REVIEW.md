@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, do you not believe me?' Barinov gives the reaction plainly here: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'The main thing is just do not get so nervous.' Nagiyev pushes back sharply without a pause, testing Senya's reaction in the middle of the exchange.
-- 'Alright, I really need to get going.' Nagiyev picks one colorful word on cue: "pravda" means "honestly", and it carries the main weight of what Nagiyev is saying.
-- 'Let us bet a month's salary on it!' Barinov shapes this line briskly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Wait, do you not believe me?' Reacting naturally in front of Nagiyev, Barinov puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'The main thing is just do not get so nervous.' Nagiyev follows up sharply toward Barinov, keeping the focus on what actually matters here.
+- 'Alright, I really need to get going.' Nagiyev openly uses this word of agreement beside Barinov using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Let us bet a month's salary on it!' Checking on the salary right here, Barinov starts with "davay" ("come on, let's") to invite Nagiyev right into the action.
 - 'Just how much time do you need?' Nagiyev prompts sharply where this conversation is heading next.
-- 'This very day I will have a woman.' Barinov points to this key detail in earnest: "zhenshchina" means "woman", and it carries the main weight of what Barinov is saying.
-- 'Excellent, that suits me just fine.' Nagiyev makes the comeback toward Barinov: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
-- 'Alright, until this evening then.' Nagiyev replies steadily with a smile, shifting the whole mood of the room in a single beat.
-- 'And what is this gathering you have here?' Barinov focuses on this direct expression for Nagiyev: "sborishche" means "crowd, gathering", and it carries the main weight of what Barinov is saying.
-- 'Chef, Timur has brought the groceries out there.' Senya chimes in at once beside Nagiyev, leaving no doubt about where he stands.
-- 'What? Oh, groceries, then go receive them.' Barinov challenges plainly to see how Nagiyev will answer on the spot.
-- 'By tonight he has to find a woman.' Senya spotlights one practical term on cue: "zhenshchinu" means "a woman" (from "zhenshchina"), giving the line its exact edge.
+- 'This very day I will have a woman.' Emphasizing a woman on the spot, Barinov centers the remark on "zhenshchina" ("woman") without any extra fuss.
+- 'Excellent, that suits me just fine.' Cutting in openly at once, Nagiyev leans on "otlichno" ("great, excellent"), which carries the whole predicate in Russian without needing "it is".
+- 'Alright, until this evening then.' Nagiyev directly delivers this word of agreement while facing Barinov using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'And what is this gathering you have here?' Underscoring the crowd right here, Barinov brings in "sborishche" ("crowd, gathering") to make the meaning unmistakable.
+- 'Chef, Timur has brought the groceries out there.' Underscoring the groceries during the talk, Senya lands on "produkty" ("groceries", built on "produkt") to keep the statement grounded.
+- 'What? Oh, groceries, then go receive them.' Barinov challenges plainly if there is more going on behind the scenes.
+- 'By tonight he has to find a woman.' Talking about a woman before Barinov, Senya brings in "zhenshchinu" ("a woman", from "zhenshchina") as the key Russian word here.

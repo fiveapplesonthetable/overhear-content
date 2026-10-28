@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Dmitry Vladimirovich, it is me.' Vika directs the thought before Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I know very well that it is you.' Max holds firm dryly in this moment, making his position completely clear.
-- 'We had an emergency in the bar here.' Vika spotlights one concrete touch toward Kostya: "problema" means "problem", and it carries the main weight of what Vika is saying.
-- 'How do you already know about this?' Vika phrases that remark in earnest: putting the question word "otkuda" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'In my kingdom I know everything.' Max speaks up decisively as things stand, refusing to let the moment slip past.
-- 'Put the bartender on, I will solve the problem right now.' Max leans on one direct expression for Vika: "problemu" means "problem" (from "problema"), giving the line its exact edge.
-- 'Hello, yes, I understood you.' Kostya grounds one classic piece for Max: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Alright, I will calculate the total amount.' Kostya opens up earnestly without a pause, leaving no doubt about where he stands.
-- 'Alright, goodbye, Dmitry Vladimirovich.' Kostya points to this vivid element toward Max: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
-- 'In short, Max and Katya are not guilty.' Kostya gives this line before Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Well, they are guilty, but only of two bottles.' Kostya continues lightly without holding back, making his position completely clear.
-- 'Turn on the video recording yourselves and watch it all.' Kostya sharpens this sharp element at once: "videozapis" means "video recording", and it carries the main weight of what Kostya is saying.
+- 'Hello, Dmitry Vladimirovich, it is me.' Opening up dryly with Max, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I know very well that it is you.' Max responds dryly during the talk, letting the remark speak for itself.
+- 'We had an emergency in the bar here.' Addressing the problem right here, Vika leans on "problema" ("problem") to give the whole sentence its punch.
+- 'How do you already know about this?' Turning candidly in this beat, Vika puts the question word "otkuda" right at the start so Max hears the focus immediately.
+- 'In my kingdom I know everything.' Max speaks up decisively toward Vika, bringing things back to earth after the buildup.
+- 'Put the bartender on, I will solve the problem right now.' Discussing the problem with Kostya, Max lands on "problemu" ("problem", built on "problema") to keep the statement grounded.
+- 'Hello, yes, I understood you.' Kostya fires back bluntly on the spot, keeping the focus on what actually matters here.
+- 'Alright, I will calculate the total amount.' Kostya chimes in earnestly watching Max, to clear the air between them once and for all.
+- 'Alright, goodbye, Dmitry Vladimirovich.' Emphasizing the meeting during the talk, Kostya uses "svidaniya" ("meeting", from "svidaniye") to make the point stick.
+- 'In short, Max and Katya are not guilty.' Confirming how short things are in this beat, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Well, they are guilty, but only of two bottles.' Kostya cuts in lightly on the spot, keeping the focus on what actually matters here.
+- 'Turn on the video recording yourselves and watch it all.' Turning to the video recording beside Max, Kostya reaches for the Russian word "videozapis" ("video recording") right at the heart of the line.

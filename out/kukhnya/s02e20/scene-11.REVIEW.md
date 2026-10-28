@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was just informed a moment ago.' Barinov gives the comment before Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'For good luck!' Kostya responds steadily with a shrug, making his position completely clear.
-- 'Well, of course, for good luck!' Barinov spotlights one clear element for Kostya: "schastye" means "happiness", and it carries the main weight of what Barinov is saying.
-- 'Smash away to your heart's content!' Kostya makes that point frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Put all of that good luck straight onto his bill.' Barinov speaks steadily before Kostya, watching Kostya's face to see how the news lands.
-- 'He is going to smash every dish we have.' Kostya uses one colorful expression toward Barinov: "perekolotit" means "to smash, break all", and it carries the main weight of what Kostya is saying.
-- 'You should not have come back here, pal.' Barinov highlights one key piece in reply: "starik" means "old man", and it carries the main weight of what Barinov is saying.
-- 'The Chef will literally kill you if he sees you.' Kostya proceeds frankly to be clear, grounding the moment in plain reality.
-- 'I am not going to leave him alone.' Barinov colors one memorable word with Kostya: "otstanu" means "to fall behind" (from "otstat"), giving the line its exact edge.
-- 'Not until I have a proper talk with him.' Kostya counters steadily in this moment, before Barinov can change the subject.
-- 'You will get lucky one day too.' Barinov proceeds evenly toward Kostya, making his position completely clear.
-- 'I have already gotten lucky.' Kostya chooses this key word in earnest: "povezlo" means "it was lucky" (from "povezti"), giving the line its exact edge.
+- 'I was just informed a moment ago.' Leaning in openly in front of Kostya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'For good luck!' Kostya follows up steadily toward Barinov, keeping the focus on what actually matters here.
+- 'Well, of course, for good luck!' Barinov briskly offers this confirmation for Kostya using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Smash away to your heart's content!' Returning to the health to Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Put all of that good luck straight onto his bill.' Barinov counters steadily toward Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'He is going to smash every dish we have.' Kostya pushes back calmly on the spot and puts the emphasis on "perekolotit" ("to smash, break all") in the middle of the talk.
+- 'You should not have come back here, pal.' Barinov answers openly without any doubt, without trying to dress up how he really feels.
+- 'The Chef will literally kill you if he sees you.' Kostya replies frankly facing Barinov, shifting the mood of the conversation in a single beat.
+- 'I am not going to leave him alone.' Barinov chimes in decisively at once and puts the weight on "otstanu" ("to fall behind", from "otstat") as the exchange unfolds.
+- 'Not until I have a proper talk with him.' Kostya speaks up frankly to Barinov and chooses "pogovoryu" ("I'll talk", from the root "pogovorit") so Barinov hears the exact meaning.
+- 'You will get lucky one day too.' Barinov fires back evenly beside Kostya, without trying to dress up how he really feels.
+- 'I have already gotten lucky.' Kostya reacts smoothly around Barinov and chooses "povezlo" ("it was lucky", from the root "povezti") so Barinov hears the exact meaning.

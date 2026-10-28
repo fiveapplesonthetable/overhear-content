@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All my money was in there, do you understand?' Nagiyev offers the thought plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Every single kopeck of ours was there.' Nagiyev stands firm plainly on the spot, keeping the focus on what actually matters here.
-- 'The money was for our second floor.' Nagiyev uses one sharp choice right here: "vtoroy" means "second", and it carries the main weight of what Nagiyev is saying.
-- 'And for new furniture for the restaurant.' Nagiyev opens up honestly on the spot, shifting the whole mood of the room in a single beat.
-- 'I do not even have anything to pay salaries with now.' Nagiyev continues openly with a sigh, bringing things back to earth after the buildup.
-- 'I have nothing to buy food with now.' Nagiyev features one classic element right here: "zakupat" means "to purchase", and it carries the main weight of what Nagiyev is saying.
-- 'Here is the last jar, take it and guard it.' Nagiyev states this statement on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I might as well sell our restaurant now.' Nagiyev fires back frankly beside Max, grounding the moment in plain reality.
-- 'Dmitry Vladimirovich, a guest has come to see you.' Max anchors this key term at once: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
-- 'Come on, guys, let us not relax right now.' Nagiyev sends the reaction with ease: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
-- 'That man from the chain has come again.' Barinov responds calmly around Max, watching Max's face to see how the news lands.
-- 'They have flocked here like vultures.' Barinov chooses this sharp piece in earnest: "korshuny" means "kites, vultures" (from "korshun"), giving the line its exact edge.
+- 'All my money was in there, do you understand?' Mentioning his money on the spot, Nagiyev keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Every single kopeck of ours was there.' Nagiyev speaks plainly on the spot, grounding the moment in plain reality.
+- 'The money was for our second floor.' Bringing up the money in front of Max, Nagiyev brings in "vtoroy" ("second") to make the meaning unmistakable.
+- 'And for new furniture for the restaurant.' Discussing the restaurant during the talk, Nagiyev puts the weight on "restorana" ("restaurant", from "restoran") as the exchange unfolds.
+- 'I do not even have anything to pay salaries with now.' Nagiyev responds openly with a sigh, shifting the mood of the conversation in a single beat.
+- 'I have nothing to buy food with now.' Nagiyev speaks candidly in this beat and brings in "zakupat" ("to purchase") to make the meaning unmistakable.
+- 'Here is the last jar, take it and guard it.' Stressing how last things are with Max, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I might as well sell our restaurant now.' Nagiyev weighs in frankly with a nod, shifting the mood of the conversation in a single beat.
+- 'Dmitry Vladimirovich, a guest has come to see you.' Focusing on a guest with Nagiyev, Max reaches for the Russian word "prishyol" ("came, have come", built from "priyti") right at the center of the line.
+- 'Come on, guys, let us not relax right now.' Bringing up the boys during the talk, Nagiyev uses the polite or group form "davayte" ("let's") to bring Max into the plan.
+- 'That man from the chain has come again.' Barinov opens up calmly hearing Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'They have flocked here like vultures.' Discussing the kites in the exchange, Barinov brings in "korshuny" ("kites, vultures", from "korshun") as the key Russian word here.

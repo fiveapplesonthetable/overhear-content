@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, can I ask you to take this up to the luxury suite?' Nastya directs this line toward Denis: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Can you not go yourself? Well, Kostik does not allow me to go into guest rooms.' Denis wonders earnestly whether Nastya really thought this through.
-- 'What if there is an undressed man in there?' Nastya colors one vivid touch in reply: "muzhchina" means "man", and it carries the main weight of what Nastya is saying.
-- 'Come on, please.' Nastya directs the reply right away: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Maybe they will even give you a tip.' Nastya weighs in frankly in this moment, shifting the whole mood of the room in a single beat.
-- 'Whoa! A tip?' Kostya stresses one loaded word on cue: "chayevyye" means "tips", and it carries the main weight of what Kostya is saying.
-- 'Let me take it up. Yeah right, so you can gobble up half the basket on the way.' Kostya aims this point beside Denis: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'No thanks.' Nastya reacts bluntly to be clear, before Kostya can change the subject.
-- 'Denis, please.' Nastya shares that reply in earnest: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Fine. Which room?' Denis frames that thought with ease: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nastya is on board.
-- 'Luxury suite 311.' Nastya replies pointedly with a smile, bringing things back to earth after the buildup.
-- 'Is it really that hard to remember which suite is occupied and which is free?' Kostya focuses on this sharp detail at once: "svoboden" means "free" (from "svobodnyy"), giving the line its exact edge.
+- 'Denis, can I ask you to take this up to the luxury suite?' Turning to the luxury suite before Denis, Nastya leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Can you not go yourself? Well, Kostik does not allow me to go into guest rooms.' Denis wonders earnestly why things suddenly took this turn between them.
+- 'What if there is an undressed man in there?' Pointing to an undressed man around Denis, Nastya lands on "muzhchina" ("man") as the key everyday word here.
+- 'Come on, please.' Nastya plainly delivers this courtesy word for Denis using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Maybe they will even give you a tip.' Nastya speaks frankly without holding back, making her position completely clear.
+- 'Whoa! A tip?' Mentioning the tips in front of Nastya, Kostya chooses "chayevyye" ("tips") so Nastya gets the point right away.
+- 'Let me take it up. Yeah right, so you can gobble up half the basket on the way.' Focusing on the basket right here, Kostya starts with "davay" ("come on, let's") to invite Nastya right into the action.
+- 'No thanks.' Nastya openly voices this word of thanks right on cue using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Denis, please.' Nastya firmly sends this courtesy word as they meet using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Fine. Which room?' Denis simply drops this word of agreement toward Nastya using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Luxury suite 311.' Nastya speaks pointedly around Denis, without trying to dress up how she really feels.
+- 'Is it really that hard to remember which suite is occupied and which is free?' Confirming how busy things are beside Nastya, Kostya centers the thought on "svoboden" ("free", from "svobodnyy") without wasting a word.

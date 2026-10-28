@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I congratulate you.' Nagiyev states the comment around Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'You are the first woman who refused to go.' Nagiyev speaks sharply without a pause, keeping the focus on what actually matters here.
-- 'Why don't you take Viktor Petrovich with you.' Vika spotlights this direct choice for Max: "vozmite" means "take" (from "vzyat"), giving the line its exact edge.
-- 'Hi, why are you not picking up the phone?' Max brings that reply in earnest: opening with the casual greeting "privet" ("hi") signals right away that Max and Vika are on familiar terms.
-- 'I want to talk with you.' Max replies evenly before Nagiyev, to clear the air between them once and for all.
-- 'Hi, it is me again.' Max reaches for one familiar piece for Vika: "snova" means "again", and it carries the main weight of what Max is saying.
-- 'Are you surprised that this is not Nagiyev?' Max hands over that line in earnest: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'I want to know the whole truth.' Max pushes back promptly with a shrug, so Vika knows he is not just making small talk.
-- 'Will you go with him to Paris?' Max leans on this direct touch on cue: "poyedesh" means "will go" (from "poyekhat"), giving the line its exact edge.
-- 'Max, what do you want from me?' Vika hands over the comment right away: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'May I go to the restroom in peace?' Vika presses calmly to see how Max will answer on the spot.
-- 'Then I am going with him, honestly.' Vika favors this key element at once: "chestno" means "honestly", and it carries the main weight of what Vika is saying.
+- 'Vika, I congratulate you.' Looking over plainly with Vika, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'You are the first woman who refused to go.' Nagiyev speaks up sharply without any doubt, before Vika can change the subject.
+- 'Why don't you take Viktor Petrovich with you.' Vika pushes back dryly with a shrug, making her position completely clear.
+- 'Hi, why are you not picking up the phone?' Speaking frankly on the spot, Max keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'I want to talk with you.' Max fires back evenly without any doubt, keeping the focus on what actually matters here.
+- 'Hi, it is me again.' Max evenly speaks this casual greeting while facing Vika using "privet" ("hi") — the everyday informal hello used between friends and close coworkers.
+- 'Are you surprised that this is not Nagiyev?' Jumping in frankly with Nagiyev, Max puts the question word "chto" right at the start so Nagiyev hears the focus immediately.
+- 'I want to know the whole truth.' Max reacts promptly facing Vika, refusing to let the moment slip past.
+- 'Will you go with him to Paris?' Max continues earnestly right here and brings in "poyedesh" ("will go", from "poyekhat") as the key Russian word here.
+- 'Max, what do you want from me?' Following up frankly with Max, Vika leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'May I go to the restroom in peace?' Vika presses calmly while looking straight at Max here.
+- 'Then I am going with him, honestly.' Vika fires back directly with Max and leans on "chestno" ("honestly") to give the whole sentence its punch.

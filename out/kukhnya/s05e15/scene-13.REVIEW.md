@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gena, will it be much longer? My arm has gone numb!' Barinov centers one telling expression for Fedya: "zatekla" means "went numb" (from "zatech"), giving the line its exact edge.
-- 'Surprise! Congratulations to our dear Chef on his wedding!' Senya cuts in earnestly during the talk, watching Fedya's face to see how the news lands.
-- 'Oh, it seems we had better run away from here quickly!' Fedya weighs in briskly with a shrug, letting the remark speak for itself.
-- 'Freeze right there! What on earth are you doing here?' Barinov sharpens one sharp touch for Senya: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
-- 'Chef, honestly, I did not see anything at all right now!' Senya brings the comment without pause: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'We swear that we will not tell anyone anything!' Fedya replies briskly as they talk, shifting the whole mood of the room in a single beat.
-- 'We were told that you asked to open this room.' Senya points to this direct word right here: "poprosili" means "to ask, to request" (from "poprosit"), giving the line its exact edge.
-- 'And you are in a good mood only rarely.' Fedya frames the reply calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'Either when Spartak won, or right before a drink!' Senya fires back right away facing Barinov, bringing things back to earth after the buildup.
-- 'Besides, you slyly winked at me this morning.' Fedya sharpens this clear piece for Senya: "podmignuli" means "wink" (from "podmignut"), giving the line its exact edge.
-- 'So we decided to throw you a fun bachelor party!' Senya reaches for this sharp term on cue: "malchishnik" means "bachelor party", and it carries the main weight of what Senya is saying.
-- 'Fine, come in, just close the front door tightly!' Barinov cuts in honestly with Senya, so Senya knows he is not just making small talk.
+- 'Gena, will it be much longer? My arm has gone numb!' Underscoring the gene in front of Senya, Barinov puts the emphasis on "gena" ("gene") in the middle of the talk.
+- 'Surprise! Congratulations to our dear Chef on his wedding!' Highlighting the surprise right here, Senya puts the weight on "pozdravlyayem" ("we congratulate", from "pozdravlyat") as the exchange unfolds.
+- 'Oh, it seems we had better run away from here quickly!' Fedya fires back briskly in their talk, steering the talk right where he wants it.
+- 'Freeze right there! What on earth are you doing here?' Highlighting the place at once, Barinov lands on "voobshche" ("at all") as the key everyday word here.
+- 'Chef, honestly, I did not see anything at all right now!' Leaning in firmly with Barinov, Senya drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'We swear that we will not tell anyone anything!' Fedya fires back briskly during the talk, so Senya knows he is not just making small talk.
+- 'We were told that you asked to open this room.' Emphasizing the number right here, Senya brings in "poprosili" ("to ask, to request", from "poprosit") as the key Russian word here.
+- 'And you are in a good mood only rarely.' Fedya weighs in right away during the talk, leaving no doubt about where he stands.
+- 'Either when Spartak won, or right before a drink!' Senya proceeds right away without holding back, shifting the mood of the conversation in a single beat.
+- 'Besides, you slyly winked at me this morning.' Fedya counters readily to Senya and centers the thought on "podmignuli" ("wink", from "podmignut") without wasting a word.
+- 'So we decided to throw you a fun bachelor party!' Senya opens up earnestly with Fedya, keeping the focus on what actually matters here.
+- 'Fine, come in, just close the front door tightly!' Barinov pushes back honestly with Senya, without trying to dress up how he really feels.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dimochka, well do not get so upset.' Eleonora grounds one direct piece in reply: "rasstraivaysya" means "be upset, worry" (from "rasstraivatsya"), giving the line its exact edge.
-- 'I have nothing but nerves and stress right now.' Nagiyev lays out this update briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'I cannot sign a new contract.' Nagiyev weighs in honestly beside Eleonora, letting the remark speak for itself.
-- 'Well, you still have your restaurant.' Eleonora sharpens one vivid element at once: "restoran" means "restaurant", and it carries the main weight of what Eleonora is saying.
-- 'Right now it is no longer a restaurant, it is a furnace.' Nagiyev hands over that answer to Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Then you need to change something there.' Eleonora chimes in right away watching Nagiyev, to clear the air between them once and for all.
-- 'I have already changed everything there.' Notice how Nagiyev reminds Eleonora without pause — the Russian word "menyal" ("changed", built from "menyat") does the heavy lifting.
-- 'After all, you lured away my best head chef.' Nagiyev frames one loaded element in earnest: "shef-povara" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'Barinov, you mean? I do not need him even for free.' Eleonora probes frankly why things suddenly took this turn between them.
-- 'Katya simply asked, and I gave him a job.' Eleonora centers one familiar term in reply: "pristroila" means "placed in a job" (from "pristroit"), giving the line its exact edge.
-- 'If you do not need him, maybe you will give him back?' Nagiyev lays out this point plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Eleonora purely through rising pitch at the end.
-- 'Take him, of course, if he agrees himself.' Eleonora pushes back dryly without any doubt, bringing things back to earth after the buildup.
+- 'Dimochka, well do not get so upset.' Eleonora jumps in boldly with Nagiyev and lands on "rasstraivaysya" ("be upset, worry", built on "rasstraivatsya") to keep the statement grounded.
+- 'I have nothing but nerves and stress right now.' Nagiyev responds dryly during the talk, steering the talk right where he wants it.
+- 'I cannot sign a new contract.' Nagiyev proceeds honestly toward Eleonora, leaving no doubt about where he stands.
+- 'Well, you still have your restaurant.' Highlighting the restaurant around Nagiyev, Eleonora reaches for the Russian word "restoran" ("restaurant") right at the heart of the line.
+- 'Right now it is no longer a restaurant, it is a furnace.' Touching on a restaurant beside Eleonora, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Then you need to change something there.' Eleonora chimes in right away without any doubt, making her position completely clear.
+- 'I have already changed everything there.' Nagiyev reacts promptly in front of Eleonora and centers the thought on "menyal" ("changed", from "menyat") without wasting a word.
+- 'After all, you lured away my best head chef.' Nagiyev chimes in at once watching Eleonora, to clear the air between them once and for all.
+- 'Barinov, you mean? I do not need him even for free.' Eleonora probes frankly about what Nagiyev just brought up.
+- 'Katya simply asked, and I gave him a job.' Eleonora fires back sharply on the spot and puts the weight on "pristroila" ("placed in a job", from "pristroit") as the exchange unfolds.
+- 'If you do not need him, maybe you will give him back?' Jumping in dryly on the spot, Nagiyev keeps normal statement word order here, turning the line into a question for Eleonora purely through rising pitch.
+- 'Take him, of course, if he agrees himself.' Eleonora opens up dryly without a pause, so Nagiyev knows she is not just making small talk.

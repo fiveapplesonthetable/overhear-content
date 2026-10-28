@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, so who is this?' Kostya shapes this answer in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'This is a surprise for you.' Nastya stands firm at once toward Max, letting the remark speak for itself.
-- 'He is making the nursery room for us.' Nastya picks one familiar word on cue: "detskuyu" means "nursery, kids' room" (from "detskaya"), giving the line its exact edge.
-- 'Could you have consulted with me first?' Kostya aims the thought with candor: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'If the man wants to, let him work.' Nastya stands firm quietly without any doubt, grounding the moment in plain reality.
-- 'That is all for today, goodbye.' Kostya colors this vivid detail on cue: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
-- 'Max, you said that you found some apartment.' Kostya frames one telling word at once: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
-- 'Do not mind that the door is not made of iron.' Nastya answers sharply without any doubt, grounding the moment in plain reality.
-- 'Thieves would never look twice at a door like this.' Nastya stresses this vivid word at once: "posmotryat" means "to have a look" (from "posmotret"), giving the line its exact edge.
-- 'What should I pay you money for?' Max brings the comeback without fuss: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
-- 'People come, look, do not take the apartment, and I waste my time.' Nastya counters boldly hearing Kostya, making her position completely clear.
-- 'Alright then, show me your apartment.' Max uses one sharp element in earnest: "pokazyvayte" means "to show" (from "pokazyvat"), giving the line its exact edge.
+- 'Nastya, so who is this?' Turning warmly during the talk, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'This is a surprise for you.' Nastya weighs in at once in this moment, keeping the focus on what actually matters here.
+- 'He is making the nursery room for us.' Focusing on the nursery with Kostya, Nastya puts the weight on "detskuyu" ("nursery, kids' room", from "detskaya") as the exchange unfolds.
+- 'Could you have consulted with me first?' Answering promptly before Nastya, Kostya leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'If the man wants to, let him work.' Nastya speaks up quietly with a smile, shifting the mood of the conversation in a single beat.
+- 'That is all for today, goodbye.' Emphasizing the meeting before Nastya, Kostya chooses "svidaniya" ("meeting", from the root "svidaniye") so Nastya hears the exact meaning.
+- 'Max, you said that you found some apartment.' Kostya responds at once with Max, steering the talk right where he wants it.
+- 'Do not mind that the door is not made of iron.' Nastya reacts sharply beside Kostya, bringing things back to earth after the buildup.
+- 'Thieves would never look twice at a door like this.' Touching on a door before Max, Nastya uses "posmotryat" ("to have a look", from "posmotret") to make the point stick.
+- 'What should I pay you money for?' Weighing in plainly at once, Max puts the question word "chto" right at the start so Nastya hears the focus immediately.
+- 'People come, look, do not take the apartment, and I waste my time.' Nastya counters boldly watching Max, before Max can change the subject.
+- 'Alright then, show me your apartment.' Mentioning the flat in front of Nastya, Max centers the thought on "pokazyvayte" ("to show", from "pokazyvat") without wasting a word.

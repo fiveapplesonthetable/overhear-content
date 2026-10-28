@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, we are all very proud of you today.' Nagiyev frames that thought calmly now: the "-sya" ending on "gordimsya" ("we are proud of") turns the action inward or makes it happen between people naturally.
-- 'I am not the hero, Ainura cooked the pilaf.' Max steps in sharply with a shrug, letting the remark speak for itself.
-- 'Sergey Fyodorovich, what are you doing in here?' Nagiyev features one telling element toward the guest: "delayete" means "are doing" (from "delat"), giving the line its exact edge.
-- 'Dima, what else is left for me now?' The guest delivers this answer in earnest: the "-sya" ending on "ostayotsya" ("stays") turns the action inward or makes it happen between people naturally.
-- 'I lost all my money, I am completely bankrupt.' The guest stands firm wryly without a pause, so Max knows he is not just making small talk.
-- 'Wait, who are you? Are you bankrupt too?' Nagiyev leans on one practical expression for Max: "bankrot" means "bankrupt", and it carries the main weight of what Nagiyev is saying.
-- 'You see, without money nobody needs me anymore.' The guest counters plainly to settle things, testing Max's reaction in the middle of the exchange.
-- 'Yes, now I see that very well.' Nagiyev steps in boldly without holding back, steering the talk right where he wants it.
-- 'Listen, why did you not go home?' Nagiyev frames this direct word for the guest: "poslushay" means "listen" (from "poslushat"), giving the line its exact edge.
-- 'At home the walls are so warm and cozy.' Nagiyev aims that remark facing Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Your wife and children walk around you there.' Nagiyev answers promptly with a shrug, refusing to let the moment slip past.
-- 'Everyone at home rejoices and laughs merrily there.' Nagiyev spotlights one colorful piece in earnest: "raduyutsya" means "to rejoice" (from "radovatsya"), giving the line its exact edge.
+- 'Max, we are all very proud of you today.' Leaning in earnestly to Max, the "-sya" ending on "gordimsya" ("we are proud of") marks an action that unfolds mutually or turns back on the speaker.
+- 'I am not the hero, Ainura cooked the pilaf.' Max steps in sharply facing Nagiyev, grounding the moment in plain reality.
+- 'Sergey Fyodorovich, what are you doing in here?' Nagiyev follows up promptly at once and centers the thought on "delayete" ("are doing", from "delat") without wasting a word.
+- 'Dima, what else is left for me now?' Looking over dryly in the exchange, the "-sya" ending on "ostayotsya" ("stays") marks an action that unfolds mutually or turns back on the speaker.
+- 'I lost all my money, I am completely bankrupt.' The guest counters wryly during the talk, letting the remark speak for itself.
+- 'Wait, who are you? Are you bankrupt too?' Discussing the bankrupt right here, Nagiyev reaches for the Russian word "bankrot" ("bankrupt") right at the heart of the line.
+- 'You see, without money nobody needs me anymore.' Turning to the money to Nagiyev, the guest reaches for the Russian word "nuzhen" ("is needed", built from "nuzhnyy") right at the center of the line.
+- 'Yes, now I see that very well.' Nagiyev speaks boldly in their talk, leaving no doubt about where he stands.
+- 'Listen, why did you not go home?' Nagiyev counters promptly during the talk and leans on "poslushay" ("listen", a form of "poslushat") to give the remark its edge.
+- 'At home the walls are so warm and cozy.' Showing how warm things are beside the guest, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Your wife and children walk around you there.' Nagiyev cuts in promptly without any doubt, bringing things back to earth after the buildup.
+- 'Everyone at home rejoices and laughs merrily there.' Nagiyev cuts in firmly with the guest and puts the weight on "raduyutsya" ("to rejoice", from "radovatsya") as the exchange unfolds.

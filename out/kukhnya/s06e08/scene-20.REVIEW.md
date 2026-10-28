@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened, bring cold ice here quickly!' Fedya chimes in plainly beside the inspector, before the inspector can change the subject.
-- 'Look, he broke his finger after all!' Fedya chimes in firmly across the room, shifting the whole mood of the room in a single beat.
-- 'Come on, show me your hand quickly.' Watch how Fedya replies to the inspector plainly here — the Russian word "pokazhi" ("show", built from "pokazat") does the heavy lifting.
-- 'Your insurance policy was valid right until yesterday.' The inspector features this vivid choice toward Senya: "vcherashnego" means "yesterday's" (from "vcherashniy"), giving the line its exact edge.
-- 'Yes, quite right, I remember that very well.' Senya answers evenly watching Fedya, before Fedya can change the subject.
-- 'And you received the hospital certificate late at night.' The inspector anchors one pointed touch on cue: "bolnitse" means "the hospital" (from "bolnitsa"), giving the line its exact edge.
-- 'That means you simply missed the deadline by a little.' The inspector shares that remark before Fedya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'I do not get it, will I not receive the money now?' Senya quizzes frankly before the inspector can change the subject.
-- 'Alas, a payout under this policy is no longer possible.' The inspector uses one concrete detail on cue: "nevozmozhna" means "impossible" (from "nevozmozhnyy"), giving the line its exact edge.
-- 'So it turns out I broke my finger completely in vain?' Senya hands over the comeback briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for the inspector purely through rising pitch at the end.
-- 'Your clever scheme to make money today did not work out, Senya.' Fedya stands firm honestly with the inspector, to clear the air between them once and for all.
-- 'Tell me, shall we sign you up for a new insurance policy?' The inspector underscores one sharp touch at once: "strakhovoy" means "insurance", and it carries the main weight of what the inspector is saying.
+- 'What happened, bring cold ice here quickly!' Highlighting the ice at once, Fedya chooses "kholodnyy" ("cold") so the inspector gets the point right away.
+- 'Look, he broke his finger after all!' Fedya responds firmly toward the inspector, leaving no doubt about where he stands.
+- 'Come on, show me your hand quickly.' Highlighting the hand right here, Fedya chooses "pokazhi" ("show", from the root "pokazat") so the inspector hears the exact meaning.
+- 'Your insurance policy was valid right until yesterday.' The inspector reacts firmly during the talk, steering the talk right where he wants it.
+- 'Yes, quite right, I remember that very well.' Senya speaks steadily without any doubt, letting the remark speak for itself.
+- 'And you received the hospital certificate late at night.' Focusing on the hospital in the exchange, the inspector lands on "bolnitse" ("the hospital", built on "bolnitsa") to keep the statement grounded.
+- 'That means you simply missed the deadline by a little.' Turning smoothly in front of Senya, the inspector uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'I do not get it, will I not receive the money now?' Senya quizzes frankly why things suddenly took this turn between them.
+- 'Alas, a payout under this policy is no longer possible.' Pointing out how impossible things are before Senya, the inspector puts the weight on "nevozmozhna" ("impossible", from "nevozmozhnyy") as the exchange unfolds.
+- 'So it turns out I broke my finger completely in vain?' Mentioning his finger on the spot, Senya keeps normal statement word order here, turning the line into a question for Fedya purely through rising pitch.
+- 'Your clever scheme to make money today did not work out, Senya.' Fedya replies honestly in this moment, keeping the focus on what actually matters here.
+- 'Tell me, shall we sign you up for a new insurance policy?' Emphasizing the insurance policy in front of Fedya, the inspector leans on "strakhovoy" ("insurance") to give the whole sentence its punch.

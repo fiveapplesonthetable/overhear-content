@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not expect something like this from you.' Eleonora favors one telling touch toward Denis: "ozhidala" means "to expect, to wait for" (from "ozhidat"), giving the line its exact edge.
-- 'You get a fine of one month's salary.' Eleonora grounds this direct piece in reply: "zarplaty" means "salaries" (from "zarplata"), giving the line its exact edge.
-- 'Pass the exact same thing on to our chef.' Eleonora pushes back decisively during the talk, leaving no doubt about where she stands.
-- 'Yes, please, come in.' Eleonora anchors one key detail at once: "zakhodite" means "come in" (from "zakhodit"), giving the line its exact edge.
-- 'Katya, I need to tell you something.' Denis sends the reply right away: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Mom, wait one minute.' Katya stands firm boldly beside Eleonora, saying out loud what both of them already know.
-- 'Earlier there was no convenient moment.' Katya uses this direct term for Denis: "udobnogo" means "comfortable" (from "udobnyy"), giving the line its exact edge.
-- 'Please, get acquainted now.' Katya makes this warning without pause: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Denis, this is my mom.' Katya speaks sharply with a smile, steering the talk right where she wants it.
-- 'Mom, this is my boyfriend Denis.' Katya spotlights one vivid choice for Eleonora: "paren" means "boyfriend", and it carries the main weight of what Katya is saying.
-- 'Very nice to meet you, Denis.' Eleonora puts the comeback frankly here: the "-sya" ending on "poznakomitsya" ("to meet") turns the action inward or makes it happen between people naturally.
-- 'Very nice to meet you too.' Denis chimes in honestly across the room, steering the talk right where he wants it.
+- 'I did not expect something like this from you.' Eleonora cuts in pointedly at once and brings in "ozhidala" ("to expect, to wait for", from "ozhidat") as the key Russian word here.
+- 'You get a fine of one month's salary.' Eleonora proceeds pointedly around Denis, refusing to let the moment slip past.
+- 'Pass the exact same thing on to our chef.' Eleonora follows up decisively hearing Denis, grounding the moment in plain reality.
+- 'Yes, please, come in.' Eleonora steps in candidly right here and centers the thought on "zakhodite" ("come in", from "zakhodit") without wasting a word.
+- 'Katya, I need to tell you something.' Leaning in promptly on the spot, Denis leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Mom, wait one minute.' Katya speaks up boldly with a smile, so Denis knows she is not just making small talk.
+- 'Earlier there was no convenient moment.' Mentioning the moment before Denis, Katya chooses "udobnogo" ("comfortable", from the root "udobnyy") so Denis hears the exact meaning.
+- 'Please, get acquainted now.' Katya promptly shares this courtesy word in the exchange using "pozhaluysta" ("please") — the all-purpose Russian politeness word that covers both "please" and "you're welcome".
+- 'Denis, this is my mom.' Katya fires back sharply hearing Denis, bringing things back to earth after the buildup.
+- 'Mom, this is my boyfriend Denis.' Discussing her boyfriend with Denis, Katya leans on "paren" ("boyfriend") to give the whole sentence its punch.
+- 'Very nice to meet you, Denis.' Holding firm candidly at once, the "-sya" ending on "poznakomitsya" ("to meet") marks an action that unfolds mutually or turns back on the speaker.
+- 'Very nice to meet you too.' Denis chimes in honestly with a shrug, refusing to let the moment slip past.

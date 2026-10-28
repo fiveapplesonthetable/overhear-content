@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not know how to approach him to make peace.' Kostya directs this statement briskly now: the "-sya" ending on "pomiritsya" ("to make peace") turns the action inward or makes it happen between people naturally.
-- 'Maybe I should invite him out for a beer, huh?' Ilya wonders point-blank while looking straight at Max here.
-- 'Well, maybe.' Kostya sharpens one sharp choice at once: "mozhet" means "can" (from "moch"), giving the line its exact edge.
-- 'Wait, do you seriously want to make peace with him?' Ilya gives this point around Max: the "-sya" ending on "pomiritsya" ("to make peace") turns the action inward or makes it happen between people naturally.
-- 'Well yeah, that is why I am asking you.' Kostya fires back earnestly as they talk, saying out loud what both of them already know.
-- 'Listen, what does he like in general?' Ilya underscores one key detail right here: "voobshche" means "at all", and it carries the main weight of what Ilya is saying.
-- 'Oh, he likes all kinds of things.' Kostya puts the remark toward Ilya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Actually, this will be even better.' Ilya speaks right away watching Max, bringing things back to earth after the buildup.
-- 'He is going to love this.' Kostya picks this clear word in earnest: "ponravitsya" means "will please", and it carries the main weight of what Kostya is saying.
-- 'You are welcome.' Ilya voices that answer without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Thanks, Kostyan.' Max continues decisively toward Ilya, refusing to let the moment slip past.
-- 'Alright, I am off.' Ilya features this sharp touch with Max: "poshel" means "go, off you go" (from "poyti"), giving the line its exact edge.
-- 'Just a little token.' Kostya shares this point with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I do not know how to approach him to make peace.' Pressing on briskly in front of Ilya, the "-sya" ending on "pomiritsya" ("to make peace") marks an action that unfolds mutually or turns back on the speaker.
+- 'Maybe I should invite him out for a beer, huh?' Ilya wonders point-blank while looking straight at Kostya here.
+- 'Well, maybe.' Pressing on firmly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Wait, do you seriously want to make peace with him?' Reacting briskly during the talk, the "-sya" ending on "pomiritsya" ("to make peace") marks an action that unfolds mutually or turns back on the speaker.
+- 'Well yeah, that is why I am asking you.' Kostya steps in earnestly with a nod, shifting the mood of the conversation in a single beat.
+- 'Listen, what does he like in general?' Ilya proceeds dryly during the talk and lands on "voobshche" ("at all") as the key everyday word here.
+- 'Oh, he likes all kinds of things.' Opening up naturally in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Actually, this will be even better.' Ilya proceeds right away hearing Kostya, leaving no doubt about where he stands.
+- 'He is going to love this.' Kostya reacts smoothly at once and brings in "ponravitsya" ("will please") to make the meaning unmistakable.
+- 'You are welcome.' Jumping in directly in the exchange, Ilya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Thanks, Kostyan.' Max quietly speaks this word of thanks toward Kostya using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Alright, I am off.' Ilya responds firmly in the exchange and lands on "poshel" ("go, off you go", built on "poyti") to keep the statement grounded.
+- 'Just a little token.' Answering earnestly around Ilya, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

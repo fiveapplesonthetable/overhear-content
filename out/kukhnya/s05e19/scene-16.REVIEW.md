@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, where do you keep looking all the time?' Barinov spotlights one colorful word in reply: "vremya" means "time", and it carries the main weight of what Barinov is saying.
-- 'That guest has a very familiar face.' Nagiyev cuts in evenly with Max, watching Max's face to see how the news lands.
-- 'I do not remember strangers' Nagiyev answers quietly without holding back, watching Barinov's face to see how the news lands.
-- 'Either he is a big shot, or I owe him money.' Nagiyev picks one colorful choice with Max: "vazhnaya" means "important" (from "vazhnyy"), giving the line its exact edge.
-- 'Give me the plate, I will take it to the guest myself.' Max brings that remark plainly here: the word "davayte" is the polite or group version of "let's", inviting Barinov into the plan right away.
-- 'Look, that is definitely the Michelin inspector!' Barinov answers frankly during the talk, without trying to dress up how he really feels.
-- 'Here you go, your signature dish from the chef.' Max highlights one key choice in earnest: "firmennoye" means "signature, specialty" (from "firmennyy"), giving the line its exact edge.
-- 'It is definitely him, I am never mistaken.' Nagiyev drops this update right away: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'An important contact passed this information to me.' Nagiyev chimes in firmly before Barinov, grounding the moment in plain reality.
-- 'It is a long story, I bought this tip for good money.' Nagiyev centers one clear piece toward Max: "informatsiyu" means "information" (from "informatsiya"), giving the line its exact edge.
-- 'Then I will cook him the best dinner right now.' Barinov continues openly to settle things, steering the talk right where he wants it.
-- 'Bon appétit, I hope you like it.' Max responds lightly in this moment, to clear the air between them once and for all.
+- 'Dima, where do you keep looking all the time?' Talking about the time with Nagiyev, Barinov leans on "vremya" ("time") to give the whole sentence its punch.
+- 'That guest has a very familiar face.' Pointing to the guest at once, Nagiyev leans on "znakomoye" ("familiar, known", a form of "znakomyy") to give the remark its edge.
+- 'I do not remember strangers' Nagiyev opens up quietly watching Barinov, letting the remark speak for itself.
+- 'Either he is a big shot, or I owe him money.' Highlighting how important he is on the spot, Nagiyev reaches for the Russian word "vazhnaya" ("important", built from "vazhnyy") right at the center of the line.
+- 'Give me the plate, I will take it to the guest myself.' Pointing to the plate with Nagiyev, Max uses the polite or group form "davayte" ("let's") to bring Nagiyev into the plan.
+- 'Look, that is definitely the Michelin inspector!' Barinov reacts frankly hearing Max, steering the talk right where he wants it.
+- 'Here you go, your signature dish from the chef.' Mentioning the dish during the talk, Max reaches for the Russian word "firmennoye" ("signature, specialty", built from "firmennyy") right at the center of the line.
+- 'It is definitely him, I am never mistaken.' Speaking frankly on the spot, Nagiyev pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'An important contact passed this information to me.' Nagiyev pushes back firmly without holding back, grounding the moment in plain reality.
+- 'It is a long story, I bought this tip for good money.' Turning to the information in the exchange, Nagiyev lands on "informatsiyu" ("information", built on "informatsiya") to keep the statement grounded.
+- 'Then I will cook him the best dinner right now.' Discussing the best dinner to Nagiyev, Barinov leans on "prigotovlyu" ("will prepare", a form of "prigotovit") to give the remark its edge.
+- 'Bon appétit, I hope you like it.' Max follows up lightly in this moment, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, where is he?' Mikhail quizzes eagerly to see how Barinov will answer on the spot.
-- 'Nagiyev and she, they were here!' Mikhail steps in boldly without a pause, keeping the focus on what actually matters here.
-- 'Vitya, did you see?' Mikhail lays out the comeback toward Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Dima is the last train car for me.' Eleonora steps in calmly beside Mikhail, bringing things back to earth after the buildup.
-- 'I am truly happy.' Eleonora colors one sharp element right here: "schastliva" means "happy" (from "schastlivyy"), giving the line its exact edge.
-- 'Misha, what is with you?' Barinov drops this point beside Mikhail: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Nobody was in here.' Barinov jumps in briskly with a sigh, so Eleonora knows he is not just making small talk.
-- 'Why, you drank too much, brother.' Barinov points to one colorful piece in earnest: "perebral" means "overstepped" (from "perebrat"), giving the line its exact edge.
-- 'Alright, enough, go and sleep it off.' Barinov weighs in at once beside Eleonora, testing Eleonora's reaction in the middle of the exchange.
-- 'Oh, there you are!' Eleonora cuts in openly to be clear, letting the remark speak for itself.
-- 'And here I am running around looking for you.' Eleonora favors one vivid touch with Barinov: "begayu" means "run" (from "begat"), giving the line its exact edge.
-- 'I could not understand where you disappeared to.' Eleonora chooses one practical expression at once: "poymu" means "understand" (from "ponyat"), giving the line its exact edge.
+- 'Excuse me, where is he?' Mikhail briskly gives this formal apology while facing Eleonora using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'Nagiyev and she, they were here!' Mikhail speaks up boldly without any doubt, making his position completely clear.
+- 'Vitya, did you see?' Following up promptly before Eleonora, Mikhail keeps normal statement word order here, turning the line into a question for Eleonora purely through rising pitch.
+- 'Dima is the last train car for me.' Focusing on the last train watching Mikhail, Eleonora lets Mikhail see exactly where things stand.
+- 'I am truly happy.' Stressing how happy she is at once, Eleonora centers the thought on "schastliva" ("happy", from "schastlivyy") without wasting a word.
+- 'Misha, what is with you?' Jumping in naturally to Eleonora, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Nobody was in here.' Barinov counters briskly without any doubt, shifting the mood of the conversation in a single beat.
+- 'Why, you drank too much, brother.' Pointing to the brother with Eleonora, Barinov reaches for the Russian word "perebral" ("overstepped", built from "perebrat") right at the center of the line.
+- 'Alright, enough, go and sleep it off.' Barinov weighs in smoothly in the exchange and brings in "khvatit" ("enough") to make the meaning unmistakable.
+- 'Oh, there you are!' Eleonora follows up openly watching Barinov, refusing to let the moment slip past.
+- 'And here I am running around looking for you.' Eleonora chimes in sharply on the spot and chooses "begayu" ("run", from the root "begat") so Barinov hears the exact meaning.
+- 'I could not understand where you disappeared to.' Eleonora responds warmly in their talk, bringing things back to earth after the buildup.

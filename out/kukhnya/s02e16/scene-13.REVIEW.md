@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, alright, enjoy your evening.' Ilya colors one memorable detail in reply: "otdykhay" means "rest, relax" (from "otdykhat"), giving the line its exact edge.
-- 'It is a lucky table.' Senya shares that answer beside Ilya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'You are guaranteed to get lucky tonight.' Ilya opens up wryly as they talk, to clear the air between them once and for all.
-- 'Whereas I am dining with my wife.' Senya centers this clear term right here: "zhenoy" means "wife" (from "zhena"), giving the line its exact edge.
-- 'I will go sit at a table for commoners.' Ilya proceeds steadily before Senya, grounding the moment in plain reality.
-- 'Thank you, Dima.' Senya speaks decisively during the talk, before Ilya can change the subject.
-- 'See you later.' Ilya points to this key element in reply: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
-- 'I am not giving you any more hair.' Senya drops the remark in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I do not need your hair anymore.' Ilya cuts in boldly with a nod, so Senya knows he is not just making small talk.
-- 'So what is the plan this time?' Senya phrases the remark with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'How are you planning to set Ilya up this time?' Ilya voices the remark facing Senya: putting the question word "kak" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'Know your enemy better than you know yourself.' Senya speaks openly in their talk, shifting the whole mood of the room in a single beat.
-- 'And victory will be inevitable.' Ilya stresses this clear term in earnest: "neizbezhna" means "inevitable" (from "neizbezhnyy"), giving the line its exact edge.
+- 'Well, alright, enjoy your evening.' Ilya plainly extends this word of agreement while facing Senya using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'It is a lucky table.' Explaining how lucky things are around Ilya, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'You are guaranteed to get lucky tonight.' Ilya continues wryly on the spot, watching Senya's face to see how the news lands.
+- 'Whereas I am dining with my wife.' Turning to his wife in front of Ilya, Senya leans on "zhenoy" ("wife", a form of "zhena") to give the remark its edge.
+- 'I will go sit at a table for commoners.' Pointing to the plebeian in this beat, Ilya chooses "plebeyev" ("plebeian, commoner", from the root "plebey") so Senya hears the exact meaning.
+- 'Thank you, Dima.' Senya promptly extends this word of thanks at this moment using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'See you later.' Ilya gently shares this polite farewell right on cue using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.
+- 'I am not giving you any more hair.' Pointing to the hair to Ilya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I do not need your hair anymore.' Ilya follows up boldly on the spot, to clear the air between them once and for all.
+- 'So what is the plan this time?' Opening up earnestly at once, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'How are you planning to set Ilya up this time?' Holding firm naturally at once, Ilya puts the question word "kak" right at the start so Senya hears the focus immediately.
+- 'Know your enemy better than you know yourself.' Senya fires back openly watching Ilya, leaving no doubt about where he stands.
+- 'And victory will be inevitable.' Bringing up the victory in front of Senya, Ilya brings in "neizbezhna" ("inevitable", from "neizbezhnyy") as the key Russian word here.

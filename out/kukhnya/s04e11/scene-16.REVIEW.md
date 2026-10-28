@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am listening, is anyone in there?' The guest leans on one colorful detail on cue: "slushayu" means "I'm listening" (from "slushat"), giving the line its exact edge.
-- 'Listen, how long can we wait for you?' Max shapes that answer with warmth: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
-- 'Let me talk, you will ruin everything.' Vika cuts in earnestly with a nod, watching the guest's face to see how the news lands.
-- 'Hello, we have been stuck in here for a long time.' Vika uses one loaded detail toward Max: "zdravstvuyte" means "hello", and it carries the main weight of what Vika is saying.
-- 'We want you to pull us out.' Vika reaches for one direct expression at once: "vytashchili" means "to pull out" (from "vytashchit"), giving the line its exact edge.
-- 'Actually, our shift has already ended.' The guest jumps in earnestly around Vika, steering the talk right where he wants it.
-- 'Hold on, what do you mean your shift ended?' Max sharpens one key word toward the guest: "zakonchilas" means "ended" (from "zakonchitsya"), giving the line its exact edge.
-- 'I have remembered your voice well!' Max states the reply calmly now: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'I will get out right now and find you, got it?' Max presses sharply what the guest is actually getting at here.
-- 'Did you just say that to me?' The guest chooses one direct word with Vika: "seychas" means "now", and it carries the main weight of what the guest is saying.
-- 'Yes, to you, so open up quickly!' Max anchors this key element for the guest: "otkryvay" means "to open" (from "otkryvat"), giving the line its exact edge.
-- 'That is how men solve problems.' Max counters quietly without holding back, letting the remark speak for itself.
-- 'And not 'please help us'.' Max points to one pointed element for the guest: "pomogite" means "help" (from "pomoch"), giving the line its exact edge.
+- 'I am listening, is anyone in there?' The guest opens up calmly with Max and chooses "slushayu" ("I'm listening", from the root "slushat") so Max hears the exact meaning.
+- 'Listen, how long can we wait for you?' Pushing back promptly to Vika, Max leans on "mozhno" ("it is possible, one may"), which carries the whole predicate in Russian without needing "it is".
+- 'Let me talk, you will ruin everything.' Vika pushes back earnestly with a sigh, keeping the focus on what actually matters here.
+- 'Hello, we have been stuck in here for a long time.' Vika briskly directs this formal greeting at the start of the beat using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'We want you to pull us out.' Vika cuts in dryly hearing the guest, to clear the air between them once and for all.
+- 'Actually, our shift has already ended.' The guest weighs in earnestly across the room, before Vika can change the subject.
+- 'Hold on, what do you mean your shift ended?' Underscoring the shift before the guest, Max chooses "zakonchilas" ("ended", from the root "zakonchitsya") so the guest hears the exact meaning.
+- 'I have remembered your voice well!' Max proceeds boldly without any doubt, grounding the moment in plain reality.
+- 'I will get out right now and find you, got it?' Max presses sharply if there is more going on behind the scenes.
+- 'Did you just say that to me?' Opening up promptly on the spot, the guest keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Yes, to you, so open up quickly!' Max continues dryly around the guest, letting the remark speak for itself.
+- 'That is how men solve problems.' Max replies quietly without holding back, watching the guest's face to see how the news lands.
+- 'And not 'please help us'.' Max weighs in naturally in this beat and brings in "pomogite" ("help", from "pomoch") as the key Russian word here.

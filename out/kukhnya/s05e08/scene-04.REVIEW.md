@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For some reason the sheikh did not like it.' Senya centers one familiar choice in earnest: "ponravilos" means "pleased, was liked" (from "ponravitsya"), giving the line its exact edge.
-- 'He did not like your impudent smile.' Fedya frames this warning before Senya: the "-sya" ending on "ponravilas" ("pleased") turns the action inward or makes it happen between people naturally.
-- 'Take a look at your own face.' Senya holds firm wryly as things stand, without trying to dress up how he really feels.
-- 'Turn me toward him, I will spit at him.' Fedya emphasizes this sharp element with Senya: "poverni" means "turn" (from "povernut"), giving the line its exact edge.
-- 'Thank you, taste it yourself.' Barinov offers the reaction without pause: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'There is nothing to taste here, got it?' Barinov tests quietly what Senya is actually getting at here.
-- 'Let us make it one more time.' Senya grounds one telling element at once: "sdelayem" means "we'll do" (from "sdelat"), giving the line its exact edge.
-- 'Do you want to taste some more?' Barinov phrases that thought before Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'Today is your day off.' Barinov speaks up calmly without any doubt, saying out loud what both of them already know.
-- 'I will make everything myself.' Barinov points to this telling detail right here: "sdelayu" means "I'll do" (from "sdelat"), giving the line its exact edge.
-- 'Lyova, bring the cheese and the pear.' Barinov steps in warmly without any doubt, so Fedya knows he is not just making small talk.
-- 'Listen, now the Chef will get our ring.' Senya counters dryly in this moment, making his position completely clear.
+- 'For some reason the sheikh did not like it.' Turning to the sheikh on the spot, Senya leans on "sheykhu" ("sheikh", a form of "sheykh") to give the remark its edge.
+- 'He did not like your impudent smile.' Fedya chimes in calmly without holding back, without trying to dress up how he really feels.
+- 'Take a look at your own face.' Senya responds wryly with a shrug, to clear the air between them once and for all.
+- 'Turn me toward him, I will spit at him.' Fedya continues dryly in the exchange and leans on "poverni" ("turn", a form of "povernut") to give the remark its edge.
+- 'Thank you, taste it yourself.' Barinov openly directs this word of thanks right on cue using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'There is nothing to taste here, got it?' Barinov tests quietly while looking straight at Senya here.
+- 'Let us make it one more time.' Senya proceeds frankly in front of Barinov and lands on "sdelayem" ("we'll do", built on "sdelat") to keep the statement grounded.
+- 'Do you want to taste some more?' Jumping in directly at once, Barinov keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Today is your day off.' Barinov speaks up calmly hearing Senya, refusing to let the moment slip past.
+- 'I will make everything myself.' Barinov proceeds naturally in the exchange and uses "sdelayu" ("I'll do", from "sdelat") to make the point stick.
+- 'Lyova, bring the cheese and the pear.' Mentioning the pear to Senya, Barinov uses "grushu" ("pear", from "grusha") to make the point stick.
+- 'Listen, now the Chef will get our ring.' Senya speaks dryly without a pause, keeping the focus on what actually matters here.

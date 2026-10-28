@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Those are my favorite Italian moccasins, do not touch!' Nagiyev stands firm quietly toward Denis, testing Denis's reaction in the middle of the exchange.
-- 'I paid two hundred thousand rubles for them...' Nagiyev speaks pointedly hearing Vika, shifting the whole mood of the room in a single beat.
-- 'Forgive me, Dmitry Vladimirovich, I really need Katya!' Denis grounds this vivid piece toward Nagiyev: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
-- 'Hey, who is here? Stop joking foolishly, open up!' Nagiyev lays out this statement with warmth: putting the question word "kto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'I will find all of you and fire you!' Nagiyev speaks up warmly in their talk, keeping the focus on what actually matters here.
-- 'Curse it, there is no cell signal at all in this box!' Nagiyev anchors one memorable expression for Vika: "proklyatye" means "curse", and it carries the main weight of what Nagiyev is saying.
-- 'Denis, have you by any chance seen Dmitry Vladimirovich?' Vika drops that point for Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'No, Viktoriya Sergeyevna, I have not seen him.' Denis answers wryly on the spot, leaving no doubt about where he stands.
-- 'And what happened with you before the start?' Denis picks this vivid word in earnest: "nachalom" means "beginning" (from "nachalo"), giving the line its exact edge.
-- 'I cannot reach him by phone, and the coffin has disappeared!' Vika aims that reply plainly here: the "-sya" ending on "dozvonitsya" ("to get through") turns the action inward or makes it happen between people naturally.
-- 'You don't say? How could a coffin disappear?' Denis quizzes promptly how Nagiyev expects that to work in practice.
-- 'Dracula's entrance is soon, and we have a catastrophe!' Vika favors this telling touch in reply: "katastrofa" means "catastrophe", and it carries the main weight of what Vika is saying.
+- 'Those are my favorite Italian moccasins, do not touch!' Pointing out how favourite things are in this beat, Nagiyev reaches for the Russian word "italyanskiye" ("Italian", built from "italyanskiy") right at the center of the line.
+- 'I paid two hundred thousand rubles for them...' Nagiyev steps in pointedly beside Denis, letting the remark speak for itself.
+- 'Forgive me, Dmitry Vladimirovich, I really need Katya!' Denis reacts readily before Nagiyev and brings in "prostite" ("excuse me", from "prostit") as the key Russian word here.
+- 'Hey, who is here? Stop joking foolishly, open up!' Pressing on dryly around Denis, Nagiyev puts the question word "kto" right at the start so Denis hears the focus immediately.
+- 'I will find all of you and fire you!' Nagiyev steps in warmly hearing Denis, to clear the air between them once and for all.
+- 'Curse it, there is no cell signal at all in this box!' Pointing to the curse at once, Nagiyev brings in "proklyatye" ("curse") to make the meaning unmistakable.
+- 'Denis, have you by any chance seen Dmitry Vladimirovich?' Speaking promptly right here, Vika keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'No, Viktoriya Sergeyevna, I have not seen him.' Denis chimes in wryly without a pause, bringing things back to earth after the buildup.
+- 'And what happened with you before the start?' Pointing to the beginning right here, Denis brings in "nachalom" ("beginning", from "nachalo") as the key Russian word here.
+- 'I cannot reach him by phone, and the coffin has disappeared!' Focusing on the coffin with Denis, the "-sya" ending on "dozvonitsya" ("to get through") marks an action that unfolds mutually or turns back on the speaker.
+- 'You don't say? How could a coffin disappear?' Denis quizzes promptly while looking straight at Vika here.
+- 'Dracula's entrance is soon, and we have a catastrophe!' Talking about a catastrophe beside Denis, Vika reaches for the Russian word "katastrofa" ("catastrophe") right at the heart of the line.

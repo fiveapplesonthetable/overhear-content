@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Andrey Mikhailovich, did you call for me?' Barinov quizzes bluntly how the inspector expects that to work in practice.
-- 'Yes, Viktor Petrovich, meet Sergey Vladimirovich.' The inspector favors one practical choice for Max: "znakomtes" means "meet" (from "znakomitsya"), giving the line its exact edge.
-- 'Starting today he is your new boss.' The inspector states the remark with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Sergey is the best manager in our entire chain.' The inspector reacts frankly without a pause, making his position completely clear.
-- 'We had to call him in to save our profitability.' The inspector points to this key element in earnest: "rentabelnost" means "profitability", and it carries the main weight of what the inspector is saying.
-- 'Our profit is higher than in any European restaurant!' Barinov offers the comment at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Hello, Seryozha! Hello to you too, darling!' Max replies frankly in their talk, so Barinov knows he is not just making small talk.
-- 'Wait a second, did the two of you already see each other yesterday?' The inspector emphasizes this clear word with Max: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Yes, Olya helped me with the hotel yesterday.' Max steps in dryly without holding back, bringing things back to earth after the buildup.
-- 'Olga, tell me, is it fashionable to walk around like that now?' Barinov quizzes sharply what Max is actually getting at here.
-- 'Look, you are missing one earring in your ear.' Barinov spotlights one familiar detail in earnest: "seryozhki" means "earring" (from "seryozhka"), giving the line its exact edge.
-- 'Andrey, put it in your pocket, or I will lose this one too.' Max holds firm pointedly with a nod, making his position completely clear.
-- 'It is time for me to go, it turns out we have to save profitability!' Barinov stands firm sharply in this moment, watching the inspector's face to see how the news lands.
+- 'Good morning, Andrey Mikhailovich, did you call for me?' Barinov quizzes bluntly if there is more going on behind the scenes.
+- 'Yes, Viktor Petrovich, meet Sergey Vladimirovich.' The inspector jumps in warmly during the talk and puts the weight on "znakomtes" ("meet", from "znakomitsya") as the exchange unfolds.
+- 'Starting today he is your new boss.' Dwelling on the boss beside Barinov, the inspector links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Sergey is the best manager in our entire chain.' The inspector chimes in frankly during the talk, making his position completely clear.
+- 'We had to call him in to save our profitability.' Focusing on his profitability on the spot, the inspector centers the remark on "rentabelnost" ("profitability") without any extra fuss.
+- 'Our profit is higher than in any European restaurant!' Touching on his profit in the exchange, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Hello, Seryozha! Hello to you too, darling!' Max fires back frankly without a pause, so the inspector knows he is not just making small talk.
+- 'Wait a second, did the two of you already see each other yesterday?' The inspector cuts in smoothly at once and puts the weight on "podozhdite" ("wait", from "podozhdat") as the exchange unfolds.
+- 'Yes, Olya helped me with the hotel yesterday.' Highlighting the hotel around the inspector, Max lands on "gostinitsey" ("with the hotel", built on "gostinitsa") to keep the statement grounded.
+- 'Olga, tell me, is it fashionable to walk around like that now?' Barinov quizzes sharply while looking straight at Max here.
+- 'Look, you are missing one earring in your ear.' Discussing the earring around Max, Barinov lands on "seryozhki" ("earring", built on "seryozhka") to keep the statement grounded.
+- 'Andrey, put it in your pocket, or I will lose this one too.' Max steps in decisively during the talk and centers the thought on "poteryayu" ("to lose", from "poteryat") without wasting a word.
+- 'It is time for me to go, it turns out we have to save profitability!' Barinov speaks up sharply with a sigh, bringing things back to earth after the buildup.

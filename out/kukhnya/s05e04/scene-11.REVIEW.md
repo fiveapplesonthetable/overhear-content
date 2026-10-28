@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, I am in suite 311, send Dan up to me.' Katya opens up steadily with a nod, to clear the air between them once and for all.
-- 'Luxury suite 313 ordered the 'Chef to the Room' Nastya speaks up sharply watching Katya, shifting the whole mood of the room in a single beat.
-- 'Right, the order.' Barinov anchors one key expression right here: "zakaz" means "order", and it carries the main weight of what Barinov is saying.
-- 'Lyova, go up there.' Barinov hands over that answer for Nastya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Vitya, we do not have a.' Katya continues boldly to settle things, grounding the moment in plain reality.
-- ''Lyova to the Room' Barinov stresses one classic detail with Nastya: "nomer" means "number", and it carries the main weight of what Barinov is saying.
-- 'Yeah right. I am not a maid to be running around hotel rooms.' Barinov features this telling word toward Katya: "gornichnaya" means "maid", and it carries the main weight of what Barinov is saying.
-- 'Mikhail Dzhekovich, tell him, will you?' Nastya probes earnestly what Katya is actually getting at here.
-- 'I actually think Viktor Petrovich is right.' Katya colors this telling detail with Barinov: "schitayu" means "am counting" (from "schitat"), giving the line its exact edge.
-- 'Maids are the ones who should be running around the rooms.' Barinov continues promptly without holding back, testing Nastya's reaction in the middle of the exchange.
-- 'Viktor Petrovich, you should at least go on a diet!' Nastya chimes in decisively hearing Barinov, bringing things back to earth after the buildup.
-- 'You can keep the tips for yourself!' Nastya spotlights one vivid expression in earnest: "ostavit" means "to keep, to leave", and it carries the main weight of what Nastya is saying.
+- 'Nastya, I am in suite 311, send Dan up to me.' Bringing up the luxury suite at once, Katya brings in "otpravlyay" ("send", from "otpravlyat") as the key Russian word here.
+- 'Luxury suite 313 ordered the 'Chef to the Room' Nastya speaks sharply with a nod, without trying to dress up how she really feels.
+- 'Right, the order.' Pointing to the order right here, Barinov reaches for the Russian word "zakaz" ("order") right at the heart of the line.
+- 'Lyova, go up there.' Reacting candidly at once, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Vitya, we do not have a.' Katya continues boldly around Barinov, testing Barinov's reaction in the middle of the exchange.
+- ''Lyova to the Room' Touching on the number in this beat, Barinov centers the remark on "nomer" ("number") without any extra fuss.
+- 'Yeah right. I am not a maid to be running around hotel rooms.' Barinov opens up decisively with Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'Mikhail Dzhekovich, tell him, will you?' Nastya probes earnestly to see how Katya will answer on the spot.
+- 'I actually think Viktor Petrovich is right.' Katya opens up vividly in the exchange and chooses "schitayu" ("am counting", from the root "schitat") so Barinov hears the exact meaning.
+- 'Maids are the ones who should be running around the rooms.' Emphasizing the maids right here, Barinov puts the weight on "gornichnyye" ("maids", from "gornichnaya") as the exchange unfolds.
+- 'Viktor Petrovich, you should at least go on a diet!' Nastya responds decisively in their talk, leaving no doubt about where she stands.
+- 'You can keep the tips for yourself!' Talking about the tips with Barinov, Nastya centers the remark on "ostavit" ("to keep, to leave") without any extra fuss.

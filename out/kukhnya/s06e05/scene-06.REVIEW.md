@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I received a big promotion.' Barinov chimes in evenly with a shrug, so Elena knows he is not just making small talk.
-- 'And what did you answer them?' Elena frames one familiar detail for Barinov: "otvetil" means "answered" (from "otvetit"), giving the line its exact edge.
-- 'And what do you think yourself?' Barinov aims that answer facing Elena: putting the question word "kak" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'I think that the restaurant gained an owner.' Elena jumps in candidly facing Barinov, letting the remark speak for itself.
-- 'More accurately, the restaurant gained a new co-owner.' Barinov features this vivid touch for Elena: "sovladeltsa" means "co-owner" (from "sovladelets"), giving the line its exact edge.
-- 'How wonderful all of this is!' Elena brings this update beside Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'They offered me a column in a magazine.' Elena jumps in decisively hearing Barinov, leaving no doubt about where she stands.
-- 'I would write about the restaurants of Moscow.' Elena chooses this direct expression in earnest: "restoranakh" means "restaurant" (from "restoran"), giving the line its exact edge.
-- 'They liked my book very much.' Elena sends the comment frankly here: the "-sya" ending on "ponravilas" ("pleased") turns the action inward or makes it happen between people naturally.
-- 'I congratulate you from the bottom of my heart!' Barinov continues calmly with a sigh, watching Elena's face to see how the news lands.
-- 'Thank you very much, my dear.' Elena points to one vivid element in earnest: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Though I already turned them down.' Elena lays out that reply on cue: the "-sya" ending on "otkazalas" ("refused") turns the action inward or makes it happen between people naturally.
+- 'Today I received a big promotion.' Barinov opens up evenly on the spot, steering the talk right where he wants it.
+- 'And what did you answer them?' Elena steps in vividly on the spot and reaches for the Russian word "otvetil" ("answered", built from "otvetit") right at the center of the line.
+- 'And what do you think yourself?' Weighing in promptly in front of Elena, Barinov puts the question word "kak" right at the start so Elena hears the focus immediately.
+- 'I think that the restaurant gained an owner.' Bringing up an owner without a pause, Elena brings the exchange with Barinov back to practical reality.
+- 'More accurately, the restaurant gained a new co-owner.' Underscoring the owner right here, Barinov lands on "sovladeltsa" ("co-owner", built on "sovladelets") to keep the statement grounded.
+- 'How wonderful all of this is!' Talking about the beauty to Barinov, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'They offered me a column in a magazine.' Elena steps in decisively toward Barinov, refusing to let the moment slip past.
+- 'I would write about the restaurants of Moscow.' Discussing the restaurant before Barinov, Elena leans on "restoranakh" ("restaurant", a form of "restoran") to give the remark its edge.
+- 'They liked my book very much.' Bringing up her book to Barinov, the "-sya" ending on "ponravilas" ("pleased") marks an action that unfolds mutually or turns back on the speaker.
+- 'I congratulate you from the bottom of my heart!' Barinov answers calmly beside Elena, letting the remark speak for itself.
+- 'Thank you very much, my dear.' Replying to Barinov politely for Barinov, Elena says "spasibo" ("thank you"), the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Though I already turned them down.' Addressing the honestly to Barinov, Elena centers the remark on "pravda" ("honestly") without any extra fuss.

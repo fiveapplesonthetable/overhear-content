@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Lyova.' Barinov directs the reply around Fedya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Bring me some normal food.' Vika stands firm earnestly facing Fedya, letting the remark speak for itself.
-- 'Viktor Petrovich.' Fedya hands over the comeback before Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'More than in the last three years.' Barinov answers frankly with Vika, without trying to dress up how he really feels.
-- 'I call the doctor and I know everything.' Vika speaks up candidly with a sigh, making her position completely clear.
-- 'And believe me.' Fedya chooses this direct detail in earnest: "poverte" means "believe" (from "poverit"), giving the line its exact edge.
-- 'I cannot talk right now.' Barinov sends that answer toward Fedya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Judas. Traitor.' Vika follows up bluntly watching Fedya, so Fedya knows she is not just making small talk.
-- 'Hello, Fedya, urgently bring a steak to me at the hospital.' Barinov picks one clear piece in earnest: "bolnitsu" means "the hospital" (from "bolnitsa"), giving the line its exact edge.
-- 'Whatever steak we have in the restaurant.' Barinov weighs in pointedly during the talk, testing Vika's reaction in the middle of the exchange.
-- 'I cannot talk now.' Vika replies candidly without holding back, shifting the whole mood of the room in a single beat.
-- 'I am very busy.' Fedya picks one memorable piece right here: "zanyat" means "busy" (from "zanyatyy"), giving the line its exact edge.
-- 'Everyone has betrayed me.' Barinov shares the comment without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Hello, Lyova.' Holding firm warmly in front of Vika, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Bring me some normal food.' Vika jumps in earnestly without any doubt, steering the talk right where she wants it.
+- 'Viktor Petrovich.' Replying candidly beside Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'More than in the last three years.' Barinov chimes in pointedly beside Fedya and centers the thought on "posledniye" ("last", from "posledniy") without wasting a word.
+- 'I call the doctor and I know everything.' Vika counters candidly during the talk, before Barinov can change the subject.
+- 'And believe me.' Fedya responds promptly before Vika and puts the weight on "poverte" ("believe", from "poverit") as the exchange unfolds.
+- 'I cannot talk right now.' Leaning in earnestly in this beat, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Judas. Traitor.' Vika opens up bluntly beside Barinov, watching Barinov's face to see how the news lands.
+- 'Hello, Fedya, urgently bring a steak to me at the hospital.' Pointing to the hospital in the exchange, Barinov uses "bolnitsu" ("the hospital", from "bolnitsa") to make the point stick.
+- 'Whatever steak we have in the restaurant.' Underscoring the restaurant in the exchange, Barinov centers the thought on "restorane" ("restaurant", from "restoran") without wasting a word.
+- 'I cannot talk now.' Vika proceeds candidly with a nod, without trying to dress up how she really feels.
+- 'I am very busy.' Highlighting how busy he is to Vika, Fedya uses "zanyat" ("busy", from "zanyatyy") to make the point stick.
+- 'Everyone has betrayed me.' Answering promptly during the talk, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.

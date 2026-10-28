@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Three hundred rubles. Congratulations, Chef!' Timur responds sharply with a smile, grounding the moment in plain reality.
-- 'And that is serious money? March back to work!' Barinov colors this direct expression toward Timur: "solidnyye" means "substantial" (from "solidnyy"), giving the line its exact edge.
-- 'Oh, Chef, brother, hello! Listen, how lucky you are.' Timur grounds this vivid detail toward Barinov: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'I want to give you tickets to tomorrow's game.' Timur jumps in earnestly in this moment, leaving no doubt about where he stands.
-- 'I cannot tomorrow.' Barinov sharpens one concrete touch right here: "zavtra" means "tomorrow", and it carries the main weight of what Barinov is saying.
-- 'Did someone die? No.' Timur shapes the comeback right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
-- 'Then why aren't you going? Spartak is playing!' Timur quizzes firmly about what Barinov just brought up.
-- 'Sorry.' Barinov picks one loaded word right here: "izvini" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Vitya, unfortunately, the cinema tomorrow is canceled.' Elena cuts in honestly to settle things, without trying to dress up how she really feels.
-- 'They just called, I have a banquet until late at night.' Elena holds firm wryly during the talk, without trying to dress up how she really feels.
-- 'Yes, of course, I understand.' Barinov reaches for one sharp expression right here: "konechno" means "of course", and it carries the main weight of what Barinov is saying.
-- 'Well, what can we do? Another time, then another time.' Barinov shapes that answer before Timur: putting the question word "chto" right at the front of the line lets Timur hear the point of the question on the very first beat.
+- 'Three hundred rubles. Congratulations, Chef!' Timur follows up sharply with Barinov, before Barinov can change the subject.
+- 'And that is serious money? March back to work!' Stressing how substantial things are right here, Barinov uses "solidnyye" ("substantial", from "solidnyy") to make the point stick.
+- 'Oh, Chef, brother, hello! Listen, how lucky you are.' Timur replies plainly during the talk, testing Barinov's reaction in the middle of the exchange.
+- 'I want to give you tickets to tomorrow's game.' Timur proceeds earnestly beside Barinov, keeping the focus on what actually matters here.
+- 'I cannot tomorrow.' Barinov counters readily during the talk and centers the remark on "zavtra" ("tomorrow") without any extra fuss.
+- 'Did someone die? No.' Reacting dryly around Barinov, Timur keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Then why aren't you going? Spartak is playing!' Timur quizzes firmly before Barinov can change the subject.
+- 'Sorry.' Barinov plainly uses this informal apology in the exchange using "izvini" ("sorry") — the casual singular apology you use with someone you know well.
+- 'Vitya, unfortunately, the cinema tomorrow is canceled.' Addressing the regret beside Barinov, Elena lands on "sozhaleniyu" ("regret", built on "sozhaleniye") to keep the statement grounded.
+- 'They just called, I have a banquet until late at night.' Elena opens up wryly during the talk, bringing things back to earth after the buildup.
+- 'Yes, of course, I understand.' Barinov promptly directs this confirmation at the start of the beat using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Well, what can we do? Another time, then another time.' Holding firm warmly on the spot, Barinov puts the question word "chto" right at the start so Elena hears the focus immediately.

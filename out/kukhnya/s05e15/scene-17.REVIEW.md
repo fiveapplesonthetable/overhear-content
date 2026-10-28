@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing? This coffee is piping hot!' Eleonora states this statement at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
-- 'Excuse me, but you bumped into me yourself.' Nikita counters dryly in this moment, keeping the focus on what actually matters here.
-- 'Do you also want to blame me for this myself?' Eleonora sharpens this telling word at once: "yeshchyo" means "more, still", and it carries the main weight of what Eleonora is saying.
-- 'You had a last chance, but you lost it.' Eleonora hands over the thought facing Nikita: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'That is it, from this minute you are fired for good!' Eleonora continues plainly in this moment, making her position completely clear.
-- 'Mom, are you seriously saying that to him right now?' Katya grounds one direct word at once: "seryozno" means "seriously", and it carries the main weight of what Katya is saying.
-- 'You spilled that coffee on yourself!' Katya features one colorful element in reply: "razlila" means "spill, pour out" (from "razlit"), giving the line its exact edge.
-- 'What are you firing him for right now then?' Katya presses evenly before Nikita can change the subject.
-- 'You cannot treat people so unfairly, Mom!' Katya uses one concrete element at once: "nespravedlivo" means "unfairly", and it carries the main weight of what Katya is saying.
-- 'Yes, perhaps my daughter Katya is completely right.' Eleonora drops the comment to Nikita: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Nikita, forgive me, I just lost my temper a little.' Eleonora opens up lightly hearing Katya, grounding the moment in plain reality.
-- 'Thank you and enjoy your meal, Eleonora Andreyevna.' Nikita emphasizes this sharp detail with Katya: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
+- 'What are you doing? This coffee is piping hot!' Dwelling on the coffee during the talk, Eleonora adds "sovsem" ("completely, at all") so the statement leaves zero room for doubt.
+- 'Excuse me, but you bumped into me yourself.' Nikita weighs in dryly across the room, steering the talk right where he wants it.
+- 'Do you also want to blame me for this myself?' Eleonora weighs in calmly in the exchange and leans on "yeshchyo" ("more, still") to give the whole sentence its punch.
+- 'You had a last chance, but you lost it.' Mentioning a last chance in the exchange, Eleonora uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'That is it, from this minute you are fired for good!' Eleonora reacts plainly on the spot, shifting the mood of the conversation in a single beat.
+- 'Mom, are you seriously saying that to him right now?' Addressing the mum with Eleonora, Katya reaches for the Russian word "seryozno" ("seriously") right at the heart of the line.
+- 'You spilled that coffee on yourself!' Katya reacts sharply in this moment, grounding the moment in plain reality.
+- 'What are you firing him for right now then?' Katya presses evenly why things suddenly took this turn between them.
+- 'You cannot treat people so unfairly, Mom!' Touching on the mum before Eleonora, Katya lands on "nespravedlivo" ("unfairly") as the key everyday word here.
+- 'Yes, perhaps my daughter Katya is completely right.' Pointing to her daughter before Katya, Eleonora links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Nikita, forgive me, I just lost my temper a little.' Eleonora responds lightly in this moment, grounding the moment in plain reality.
+- 'Thank you and enjoy your meal, Eleonora Andreyevna.' Turning to the thank in the exchange, Nikita lands on "priyatnogo" ("pleasant", built on "priyatnyy") to keep the statement grounded.

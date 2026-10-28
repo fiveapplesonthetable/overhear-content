@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My youngest daughter would eat more than that.' Barinov proceeds at once with a smile, to clear the air between them once and for all.
-- 'Well then, am I introducing the promotion?' Barinov inquires evenly where this conversation is heading next.
-- 'Introduce it, introduce it.' Mikhail emphasizes this sharp detail in earnest: "vvodi" means "introduce" (from "vvodit"), giving the line its exact edge.
-- 'But if I bring a person who eats your entrecote.' Mikhail focuses on one concrete element right here: "antrekot" means "entrecote, ribeye steak", and it carries the main weight of what Mikhail is saying.
-- 'The promotion ends, got it?' Mikhail probes point-blank while looking straight at Barinov here.
-- 'Mishanya, you are a masochist.' Barinov frames one sharp detail at once: "mazokhist" means "masochist", and it carries the main weight of what Barinov is saying.
-- 'You love losing, huh?' Barinov puts that line with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
-- 'Well, has your hysterical wife calmed down?' Senya checks sharply why things suddenly took this turn between them.
-- 'Who is hysterical?' Barinov grounds one colorful expression on cue: "isterichka" means "hysterical woman", and it carries the main weight of what Barinov is saying.
-- 'I am talking about my wife.' Senya continues at once to settle things, leaving no doubt about where he stands.
-- 'Look, she is standing right behind you.' Barinov weighs in evenly without any doubt, without trying to dress up how he really feels.
-- 'Oh, anything but that!' Senya picks one practical expression in reply: "tolko" means "only", and it carries the main weight of what Senya is saying.
+- 'My youngest daughter would eat more than that.' Mentioning the daughter in front of Mikhail, Barinov puts the weight on "mladshaya" ("youngest, younger", from "mladshiy") as the exchange unfolds.
+- 'Well then, am I introducing the promotion?' Barinov inquires evenly about what Mikhail just brought up.
+- 'Introduce it, introduce it.' Mikhail answers promptly in the exchange and leans on "vvodi" ("introduce", a form of "vvodit") to give the remark its edge.
+- 'But if I bring a person who eats your entrecote.' Mikhail counters decisively beside Barinov, so Barinov knows he is not just making small talk.
+- 'The promotion ends, got it?' Mikhail probes point-blank if there is more going on behind the scenes.
+- 'Mishanya, you are a masochist.' Mentioning a masochist at once, Barinov brings in "mazokhist" ("masochist") to make the meaning unmistakable.
+- 'You love losing, huh?' Cutting in firmly right here, Barinov keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Well, has your hysterical wife calmed down?' Senya checks sharply where this conversation is heading next.
+- 'Who is hysterical?' Talking about the hysterical woman around Senya, Barinov leans on "isterichka" ("hysterical woman") to give the whole sentence its punch.
+- 'I am talking about my wife.' Emphasizing his wife to Barinov, Senya puts the weight on "zhenu" ("wife", from "zhena") as the exchange unfolds.
+- 'Look, she is standing right behind you.' Barinov replies evenly in their talk, so Senya knows he is not just making small talk.
+- 'Oh, anything but that!' Pushing back naturally during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

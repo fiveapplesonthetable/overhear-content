@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where are you wandering out there? Take the dishes!' Barinov challenges eagerly how Elena expects that to work in practice.
-- 'It seems we have finally cleared all the urgent orders.' Barinov features this direct touch in reply: "srochnyye" means "urgent" (from "srochnyy"), giving the line its exact edge.
-- 'Thank you, Lena, without you I would not have managed.' Barinov offers this statement without pause: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Oh come on, Vitya, do not exaggerate.' Elena pushes back plainly with a nod, making her position completely clear.
-- 'Listen, where is that important guest anyway?' Elena sharpens one clear expression right here: "vazhnyy" means "important", and it carries the main weight of what Elena is saying.
-- 'If he does not come, we will make it to the match!' Elena answers frankly hearing Barinov, saying out loud what both of them already know.
-- 'And there she is, our important guest!' Barinov responds sharply with Elena, making his position completely clear.
-- 'Wait, Vitya, and who is that woman anyway?' Elena underscores one vivid piece toward Barinov: "zhenshchina" means "woman", and it carries the main weight of what Elena is saying.
-- 'That is the young wife of a famous rich man.' Barinov hands over this point before Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He also has that well-known foreign last name.' Barinov answers promptly without holding back, letting the remark speak for itself.
-- 'Perhaps you mean Friedman?' Elena spotlights one classic word right here: "imeyesh" means "to have" (from "imet"), giving the line its exact edge.
-- 'Exactly, attention everyone, we have a very important guest!' Barinov states this point toward Elena: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Where are you wandering out there? Take the dishes!' Barinov challenges eagerly if there is more going on behind the scenes.
+- 'It seems we have finally cleared all the urgent orders.' Highlighting the urgent orders during the talk, Barinov leans on "srochnyye" ("urgent", a form of "srochnyy") to give the remark its edge.
+- 'Thank you, Lena, without you I would not have managed.' Barinov speaks bluntly without holding back, keeping the focus on what actually matters here.
+- 'Oh come on, Vitya, do not exaggerate.' Elena pushes back plainly with a shrug, grounding the moment in plain reality.
+- 'Listen, where is that important guest anyway?' Noting how important things are in this beat, Elena centers the remark on "vazhnyy" ("important") without any extra fuss.
+- 'If he does not come, we will make it to the match!' Talking about the match in front of Barinov, Elena puts the emphasis on "match" ("match") in the middle of the talk.
+- 'And there she is, our important guest!' Barinov responds sharply with a sigh, bringing things back to earth after the buildup.
+- 'Wait, Vitya, and who is that woman anyway?' Emphasizing the woman with Barinov, Elena puts the emphasis on "zhenshchina" ("woman") in the middle of the talk.
+- 'That is the young wife of a famous rich man.' Underscoring how young things are before Elena, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He also has that well-known foreign last name.' Barinov responds promptly around Elena, refusing to let the moment slip past.
+- 'Perhaps you mean Friedman?' Talking about the view in the exchange, Elena puts the weight on "imeyesh" ("to have", from "imet") as the exchange unfolds.
+- 'Exactly, attention everyone, we have a very important guest!' Dwelling on the attention beside Elena, Barinov reaches for "u nas" ("by us, at our place") to talk about what they share.

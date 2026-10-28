@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Shall we take your car or mine?' Barinov brings that reply to Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Shall we take your car or mine?' Pointing to the car beside Vika, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
 - 'Does it not seem to you?' Vika inquires skeptically to see how Barinov will answer on the spot.
-- 'Whatever you say.' Barinov centers this key expression toward Vika: "skazhete" means "will you say" (from "skazat"), giving the line its exact edge.
-- 'Thank you, I can manage myself.' Barinov makes this answer briskly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'So whose car are we taking?' Barinov tests frankly in front of Vika without any preamble.
-- 'Excuse me. Sorry.' Vika leans on one colorful piece for Barinov: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
-- 'My flights were canceled.' Barinov phrases the comeback without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Because of snow or something.' Vika jumps in firmly without holding back, keeping the focus on what actually matters here.
-- 'So I am heading home.' Barinov focuses on this direct expression with Vika: "domoy" means "home", and it carries the main weight of what Barinov is saying.
-- 'I understand.' Vika directs that point before Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Coffee at my place is off.' Barinov jumps in dryly with Vika, so Vika knows he is not just making small talk.
-- 'Did something happen?' Vika sharpens this clear detail at once: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'Maybe we can go to your place, do you have coffee?' Barinov aims the thought with candor: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Whatever you say.' Barinov continues dryly with Vika and lands on "skazhete" ("will you say", built on "skazat") to keep the statement grounded.
+- 'Thank you, I can manage myself.' Barinov briskly shares this word of thanks for Vika using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'So whose car are we taking?' Barinov tests frankly if there is more going on behind the scenes.
+- 'Excuse me. Sorry.' Vika lightly sends this formal apology with Barinov using "prostite" ("forgive me") — a warmer, more earnest polite apology that literally asks someone to forgive you.
+- 'My flights were canceled.' Cutting in openly beside Vika, the "-sya" ending on "otmenilis" ("to canceled") marks an action that unfolds mutually or turns back on the speaker.
+- 'Because of snow or something.' Vika replies firmly toward Barinov, watching Barinov's face to see how the news lands.
+- 'So I am heading home.' Barinov chimes in smoothly right here and leans on "domoy" ("home") to give the whole sentence its punch.
+- 'I understand.' Opening up promptly beside Barinov, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Coffee at my place is off.' Barinov counters dryly with a shrug, before Vika can change the subject.
+- 'Did something happen?' Vika replies smoothly to Barinov and lands on "sluchilos" ("happened", built on "sluchitsya") to keep the statement grounded.
+- 'Maybe we can go to your place, do you have coffee?' Returning to the coffee with Vika, Barinov keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.

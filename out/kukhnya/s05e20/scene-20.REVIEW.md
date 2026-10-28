@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elya, tell us, how is your health overall?' Vika offers that thought facing Eleonora: putting the question word "kak" right at the front of the line lets Eleonora hear the point of the question on the very first beat.
-- 'Just a regular flu, thank goodness, it already passed.' Eleonora proceeds firmly with a shrug, before Vika can change the subject.
-- 'Wait, what do you mean just a regular flu?' Vika leans on this key word right here: "obychnyy" means "ordinary, regular", and it carries the main weight of what Vika is saying.
-- 'In two months we are having a wedding banquet here.' Eleonora frames that point to Vika: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Dimochka and I are officially getting married.' Eleonora counters honestly with a nod, saying out loud what both of them already know.
-- 'Is Dimochka really going to be our boss again?' Vika highlights one colorful term in earnest: "nachalnikom" means "boss, chief" (from "nachalnik"), giving the line its exact edge.
-- 'The main thing is that our story has a happy ending.' Max directs this line right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Vika agreed to stay with me in Moscow.' Max steps in at once with a smile, leaving no doubt about where he stands.
-- 'And I finally became a real head chef!' Max frames one clear piece in earnest: "nastoyashchim" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Vika and I will be working together again.' Max opens up pointedly with a shrug, shifting the whole mood of the room in a single beat.
-- 'It turns out the dearest dreams really do come true!' Max responds sharply as they talk, refusing to let the moment slip past.
-- 'When one story ends, another one always begins.' Max colors this direct touch in earnest: "zakanchivayetsya" means "to end, to finish" (from "zakanchivatsya"), giving the line its exact edge.
+- 'Elya, tell us, how is your health overall?' Touching on the health before Eleonora, Vika puts the question word "kak" right at the start so Eleonora hears the focus immediately.
+- 'Just a regular flu, thank goodness, it already passed.' Eleonora steps in firmly around Vika, grounding the moment in plain reality.
+- 'Wait, what do you mean just a regular flu?' Talking about a regular flu on the spot, Vika puts the emphasis on "obychnyy" ("ordinary, regular") in the middle of the talk.
+- 'In two months we are having a wedding banquet here.' Emphasizing how wedding things are in front of Vika, Eleonora reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Dimochka and I are officially getting married.' Eleonora fires back honestly with Vika, before Vika can change the subject.
+- 'Is Dimochka really going to be our boss again?' Mentioning her boss with Max, Vika lands on "nachalnikom" ("boss, chief", built on "nachalnik") to keep the statement grounded.
+- 'The main thing is that our story has a happy ending.' Confirming how important things are to Vika, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Vika agreed to stay with me in Moscow.' Max counters at once in this moment, grounding the moment in plain reality.
+- 'And I finally became a real head chef!' Touching on a real head in this beat, Max centers the thought on "nastoyashchim" ("real, genuine", from "nastoyashchiy") without wasting a word.
+- 'Vika and I will be working together again.' Max speaks sharply during the talk and lands on "rabotat" ("to work") as the key everyday word here.
+- 'It turns out the dearest dreams really do come true!' Max opens up sharply without holding back, bringing things back to earth after the buildup.
+- 'When one story ends, another one always begins.' Emphasizing the history right here, Max lands on "zakanchivayetsya" ("to end, to finish", built on "zakanchivatsya") to keep the statement grounded.

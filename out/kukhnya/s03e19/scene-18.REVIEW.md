@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, you really are a true idiot of mine after all.' Vika counters warmly with a nod, keeping the focus on what actually matters here.
-- 'But you are an idiot whom I am going to believe now.' Vika colors this telling choice for Rodion: "idiot" means "idiot", and it carries the main weight of what Vika is saying.
-- 'At the very least, I will try very hard.' Vika phrases that point for Max: the "-sya" ending on "postarayus" ("to try") turns the action inward or makes it happen between people naturally.
-- 'Look what a huge armored black car!' Max replies wryly before Vika, testing Vika's reaction in the middle of the exchange.
-- 'It is not just big, it is genuinely armored.' Max highlights one concrete detail at once: "po-nastoyashchemu" means "truly", and it carries the main weight of what Max is saying.
-- 'I wonder who has driven into our courtyard?' Max delivers the comeback at once: putting the question word "kto" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'Hello, Rodion Sergeyevich! You look great today!' Max chimes in warmly as things stand, shifting the whole mood of the room in a single beat.
-- 'Good afternoon, friends! Right here, darling, is where I used to dine.' Rodion highlights one memorable touch right here: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
-- 'Come, I will introduce you to the head chef of this wonderful establishment.' Rodion features one direct term for Max: "shef-povaru" means "head chef" (from "shef-povar"), giving the line its exact edge.
-- 'Please, darling, step right inside to the kitchen.' Rodion jumps in warmly around Vika, making his position completely clear.
-- 'Whoa, our Rodion Sergeyevich turned out to be a millionaire!' Max emphasizes one practical choice toward Rodion: "millionerom" means "millionaire" (from "millioner"), giving the line its exact edge.
-- 'Let us go see how Viktor Petrovich greets him.' Vika cuts in plainly around Rodion, without trying to dress up how she really feels.
+- 'Max, you really are a true idiot of mine after all.' Vika counters warmly without any doubt, so Max knows she is not just making small talk.
+- 'But you are an idiot whom I am going to believe now.' Pointing to an idiot in the exchange, Vika chooses "idiot" ("idiot") so Max gets the point right away.
+- 'At the very least, I will try very hard.' Emphasizing the measure before Max, Vika chooses "krayney" ("extreme, least", from the root "krayniy") so Max hears the exact meaning.
+- 'Look what a huge armored black car!' Max proceeds wryly toward Vika, keeping the focus on what actually matters here.
+- 'It is not just big, it is genuinely armored.' Max counters calmly right here and lands on "po-nastoyashchemu" ("truly") as the key everyday word here.
+- 'I wonder who has driven into our courtyard?' Pointing to the yard at once, Max puts the question word "kto" right at the start so Rodion hears the focus immediately.
+- 'Hello, Rodion Sergeyevich! You look great today!' Max chimes in warmly watching Rodion, shifting the mood of the conversation in a single beat.
+- 'Good afternoon, friends! Right here, darling, is where I used to dine.' Describing how good things are in front of Max, Rodion centers the thought on "dorogaya" ("expensive", from "dorogoy") without wasting a word.
+- 'Come, I will introduce you to the head chef of this wonderful establishment.' Rodion reacts bluntly with a sigh, bringing things back to earth after the buildup.
+- 'Please, darling, step right inside to the kitchen.' Rodion steps in warmly beside Max, leaving no doubt about where he stands.
+- 'Whoa, our Rodion Sergeyevich turned out to be a millionaire!' Highlighting a millionaire during the talk, Max uses "millionerom" ("millionaire", from "millioner") to make the point stick.
+- 'Let us go see how Viktor Petrovich greets him.' Vika replies smoothly with Max and leans on "posmotrim" ("have a look", a form of "posmotret") to give the remark its edge.

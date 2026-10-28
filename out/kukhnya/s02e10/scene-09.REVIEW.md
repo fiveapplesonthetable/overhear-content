@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, I have been thinking.' Max proceeds right away on the spot, testing Kostya's reaction in the middle of the exchange.
-- 'Will you move in with me?' Kostya highlights one practical term toward Sasha: "pereydesh" means "to cross, switch" (from "pereyti"), giving the line its exact edge.
-- 'You just feel guilty.' Max phrases this warning briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I can handle my own problems myself, really.' Sasha speaks up right away to settle things, saying out loud what both of them already know.
-- 'I am not asking because of that.' Max directs this line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I have wanted to offer this to you for a long time.' Kostya emphasizes one telling element with Sasha: "predlozhit" means "to offer", and it carries the main weight of what Kostya is saying.
+- 'Listen, I have been thinking.' Max counters right away across the room, shifting the mood of the conversation in a single beat.
+- 'Will you move in with me?' Kostya pushes back sharply before Max and leans on "pereydesh" ("to cross, switch", a form of "pereyti") to give the remark its edge.
+- 'You just feel guilty.' Jumping in frankly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I can handle my own problems myself, really.' Sasha counters right away with a nod, to clear the air between them once and for all.
+- 'I am not asking because of that.' Holding firm frankly before Sasha, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I have wanted to offer this to you for a long time.' Kostya follows up promptly in this moment, leaving no doubt about where he stands.
 - 'Well, are you sure about it yourself?' Max tests skeptically before Kostya can change the subject.
-- 'Why would I not be?' Kostya offers the comment to Sasha: Russian keeps the exact word order of a normal statement here, turning it into a question for Sasha purely through rising pitch at the end.
-- 'Why am I wasting time for nothing?' Max hands over this answer facing Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
-- 'Maybe right here?' Kostya wonders briskly what Sasha is actually getting at here.
-- 'Do not mind me.' Max features one classic term on cue: "obrashchayte" means "to turn, to direct" (from "obrashchat"), giving the line its exact edge.
-- 'I did not see you two.' Kostya shares the comeback beside Sasha: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Kostik, close your eyes.' Max follows up quietly without any doubt, without trying to dress up how he really feels.
+- 'Why would I not be?' Jumping in warmly beside Max, Kostya keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Why am I wasting time for nothing?' Touching on the time around Kostya, Max keeps normal statement word order here, turning the line into a question for Kostya purely through rising pitch.
+- 'Maybe right here?' Kostya wonders briskly if there is more going on behind the scenes.
+- 'Do not mind me.' Turning to the attention in this beat, Max chooses "obrashchayte" ("to turn, to direct", from the root "obrashchat") so Kostya hears the exact meaning.
+- 'I did not see you two.' Opening up dryly right here, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Kostik, close your eyes.' Max continues quietly toward Kostya, so Kostya knows he is not just making small talk.

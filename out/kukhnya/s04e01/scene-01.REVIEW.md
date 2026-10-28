@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I still work as a cook.' Max sharpens one familiar term right here: "po-prezhnemu" means "still, as before", and it carries the main weight of what Max is saying.
-- 'We recently returned from Paris.' Max speaks up bluntly with a shrug, leaving no doubt about where he stands.
-- 'I finally proposed to Vika.' Max chimes in briskly without any doubt, keeping the focus on what actually matters here.
-- 'We returned to Russia and got married.' Max focuses on this vivid element right here: "pozhenilis" means "to married" (from "pozhenitsya"), giving the line its exact edge.
-- 'We have an ideal family.' Max drops the comment at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Wait, are you not listening to me at all?' Max inquires briskly about what Vika just brought up.
-- 'Or am I invisible to you?' Vika uses this sharp word toward Max: "pustoye" means "empty" (from "pustoy"), giving the line its exact edge.
-- 'I discovered the secret of married life.' Max steps in calmly without holding back, keeping the focus on what actually matters here.
-- 'Am I talking to a wall?' Vika wonders curiously whether Max really thought this through.
-- 'Vika, did you want to say something?' Max highlights this direct element on cue: "khotela" means "wanted, meant" (from "khotet"), giving the line its exact edge.
-- 'No, nothing at all.' Vika brings the reaction briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'It does not matter.' Vika stands firm frankly as they talk, to clear the air between them once and for all.
+- 'I still work as a cook.' Highlighting a cook on the spot, Max lands on "po-prezhnemu" ("still, as before") as the key everyday word here.
+- 'We recently returned from Paris.' Looking over frankly around Vika, the "-sya" ending on "vernulis" ("to come back") marks an action that unfolds mutually or turns back on the speaker.
+- 'I finally proposed to Vika.' Max chimes in briskly beside Vika, testing Vika's reaction in the middle of the exchange.
+- 'We returned to Russia and got married.' Max speaks vividly during the talk and brings in "pozhenilis" ("to married", from "pozhenitsya") as the key Russian word here.
+- 'We have an ideal family.' Talking about an ideal family beside Vika, Max reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Wait, are you not listening to me at all?' Max inquires briskly why things suddenly took this turn between them.
+- 'Or am I invisible to you?' Pointing out how empty things are in the exchange, Vika leans on "pustoye" ("empty", a form of "pustoy") to give the remark its edge.
+- 'I discovered the secret of married life.' Bringing up the secret in the exchange, Max brings in "semeynoy" ("family, married", from "semeynyy") as the key Russian word here.
+- 'Am I talking to a wall?' Vika wonders curiously where this conversation is heading next.
+- 'Vika, did you want to say something?' Max answers calmly before Vika and uses "khotela" ("wanted, meant", from "khotet") to make the point stick.
+- 'No, nothing at all.' Speaking firmly before Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'It does not matter.' Vika jumps in frankly without any doubt, so Max knows she is not just making small talk.

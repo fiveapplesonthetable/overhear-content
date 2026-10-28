@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This simply cannot be happening.' Kostya delivers that remark at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Kostya, pour me some cold water.' Denis steps in candidly with Nikita, without trying to dress up how he really feels.
-- 'And why are you so angry today?' Kostya favors one familiar expression right here: "segodnya" means "today", and it carries the main weight of what Kostya is saying.
-- 'I was just at my father's restaurant.' Nikita weighs in evenly as they talk, saying out loud what both of them already know.
-- 'I saw the Frenchman there with some girl.' Nikita responds briskly with a shrug, testing Denis's reaction in the middle of the exchange.
-- 'We must tell Katya about this immediately.' Denis features one colorful expression in reply: "rasskazat" means "to tell", and it carries the main weight of what Denis is saying.
-- 'Listen, maybe you should stay out of it?' Kostya brings the thought beside Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
-- 'But this man is blatantly deceiving her!' Denis proceeds candidly as they talk, so Nikita knows he is not just making small talk.
-- 'Well and what should we do then?' Nikita emphasizes this clear expression with Denis: "togda" means "back then", and it carries the main weight of what Nikita is saying.
-- 'She will not even listen to us.' Nikita opens up briskly before Kostya, refusing to let the moment slip past.
-- 'You can quietly follow him in the evening.' Kostya opens up bluntly with a sigh, leaving no doubt about where he stands.
-- 'My father has a private detective.' Nikita frames one classic touch in reply: "chastnyy" means "private", and it carries the main weight of what Nikita is saying.
+- 'This simply cannot be happening.' Speaking frankly before Denis, Kostya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Kostya, pour me some cold water.' Talking about the water on the spot, Denis speaks plainly so Kostya gets the message at once.
+- 'And why are you so angry today?' Kostya speaks up smoothly with Nikita and uses "segodnya" ("today") to carry the main weight of the thought.
+- 'I was just at my father's restaurant.' Highlighting the restaurant on the spot, Nikita brings in "restorane" ("restaurant", from "restoran") as the key Russian word here.
+- 'I saw the Frenchman there with some girl.' Nikita follows up briskly toward Denis, grounding the moment in plain reality.
+- 'We must tell Katya about this immediately.' Denis steps in briskly on the spot and chooses "rasskazat" ("to tell") so Nikita gets the point right away.
+- 'Listen, maybe you should stay out of it?' Jumping in naturally with Denis, Kostya keeps normal statement word order here, turning the line into a question for Denis purely through rising pitch.
+- 'But this man is blatantly deceiving her!' Denis speaks up promptly with Kostya, leaving no doubt about where he stands.
+- 'Well and what should we do then?' Nikita continues vividly at once and chooses "togda" ("back then") so Denis gets the point right away.
+- 'She will not even listen to us.' Nikita counters calmly during the talk and puts the emphasis on "slushat" ("to listen to") in the middle of the talk.
+- 'You can quietly follow him in the evening.' Kostya speaks quietly with Nikita, shifting the mood of the conversation in a single beat.
+- 'My father has a private detective.' Touching on his father beside Kostya, Nikita lands on "chastnyy" ("private") as the key everyday word here.

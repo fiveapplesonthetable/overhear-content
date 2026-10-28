@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktoriya Sergeyevna, glad to see you!' Katya voices that remark without fuss: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Hello, Katya, I congratulate you on your return!' Vika stands firm dryly on the spot, refusing to let the moment slip past.
-- 'And I would say, on your promotion.' German picks this direct choice on cue: "povysheniyem" means "to promotion" (from "povyshenit"), giving the line its exact edge.
-- 'She now works as a sous-chef with us.' German phrases the reply in earnest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Thank you, and how are things with you and Max?' Katya inquires curiously as German tries to explain the situation.
-- 'I know that you broke up with Maxim.' German sharpens this direct piece on cue: "rasstalis" means "broke up, separated" (from "rasstatsya"), giving the line its exact edge.
-- 'If you need help, always turn to me.' German hands over the reply with candor: the "-sya" ending on "obrashchaytes" ("turn") turns the action inward or makes it happen between people naturally.
-- 'No, thank you, everything is fine with me.' Vika continues plainly across the room, keeping the focus on what actually matters here.
-- 'Tonight there will be a banquet in the dining room.' Vika reaches for one direct touch in reply: "segodnya" means "today", and it carries the main weight of what Vika is saying.
-- 'A guest is celebrating a dog's birthday here.' Vika steps in at once as they talk, steering the talk right where she wants it.
-- 'Even I do not celebrate my birthday here.' German follows up briskly to settle things, testing Katya's reaction in the middle of the exchange.
-- 'Do not worry, I will personally supervise everything.' German centers this sharp choice in earnest: "prokontroliruyu" means "will keep an eye on" (from "prokontrolirovat"), giving the line its exact edge.
+- 'Hello, Viktoriya Sergeyevna, glad to see you!' Katya opens up earnestly with Vika, testing Vika's reaction in the middle of the exchange.
+- 'Hello, Katya, I congratulate you on your return!' Vika speaks up dryly across the room, watching Katya's face to see how the news lands.
+- 'And I would say, on your promotion.' German reacts firmly before Vika and leans on "povysheniyem" ("to promotion", a form of "povyshenit") to give the remark its edge.
+- 'She now works as a sous-chef with us.' Replying warmly around Katya, German reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Thank you, and how are things with you and Max?' Katya inquires curiously why things suddenly took this turn between them.
+- 'I know that you broke up with Maxim.' German cuts in pointedly right here and lands on "rasstalis" ("broke up, separated", built on "rasstatsya") to keep the statement grounded.
+- 'If you need help, always turn to me.' Touching on the turn around Vika, the "-sya" ending on "obrashchaytes" ("turn") marks an action that unfolds mutually or turns back on the speaker.
+- 'No, thank you, everything is fine with me.' Vika responds plainly without any doubt, letting the remark speak for itself.
+- 'Tonight there will be a banquet in the dining room.' Bringing up a banquet with German, Vika brings in "banket" ("banquet") to make the meaning unmistakable.
+- 'A guest is celebrating a dog's birthday here.' Pointing to the birth around German, Vika uses "rozhdeniya" ("of birth", from "rozhdeniye") to make the point stick.
+- 'Even I do not celebrate my birthday here.' German follows up briskly across the room, letting the remark speak for itself.
+- 'Do not worry, I will personally supervise everything.' German follows up pointedly in this beat and uses "prokontroliruyu" ("will keep an eye on", from "prokontrolirovat") to make the point stick.

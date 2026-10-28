@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, are there any luxury suites free?' Katya stresses one concrete expression right here: "svobodnoye" means "free" (from "svobodnyy"), giving the line its exact edge.
-- 'Suite 313 is occupied, 311 is free.' The hostess shares the reaction without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Katya, you are the owner's daughter, of course, but there is one problem.' Barinov chimes in plainly with a smile, grounding the moment in plain reality.
-- 'If Blackjack finds out, he will smear me across the reception desk.' The hostess frames one loaded detail in earnest: "resepshenu" means "across the reception desk" (from "resepshen"), giving the line its exact edge.
-- 'If he finds out, I will say I took the key myself.' Katya proceeds evenly with a nod, saying out loud what both of them already know.
-- 'You ruined my entire personal life with your wishes.' Barinov follows up plainly without any doubt, so Katya knows he is not just making small talk.
-- 'Viktor Petrovich, you need to calm down.' Katya highlights one loaded expression in reply: "uspokoitsya" means "to calm down", and it carries the main weight of what Katya is saying.
-- 'I am going to calm you down permanently right now.' Barinov focuses on one familiar element for Katya: "uspokoyu" means "I will calm down" (from "uspokoit"), giving the line its exact edge.
-- 'And I will make such a wish that you will remember it for the rest of your life.' Barinov reacts decisively with a shrug, keeping the focus on what actually matters here.
-- 'I have twenty.' Barinov shapes that answer briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Twenty-one.' Barinov aims the comment without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Do not get upset, Vityusha, you will win in your next life.' Katya pushes back quietly without a pause, making her position completely clear.
-- 'The wish is mine.' Barinov points to one pointed word right here: "zhelaniye" means "desire, craving", and it carries the main weight of what Barinov is saying.
+- 'Listen, are there any luxury suites free?' Emphasizing how free things are before the hostess, Katya leans on "svobodnoye" ("free", a form of "svobodnyy") to give the remark its edge.
+- 'Suite 313 is occupied, 311 is free.' Stressing how busy things are before Katya, the hostess links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Katya, you are the owner's daughter, of course, but there is one problem.' Barinov follows up plainly in this moment, bringing things back to earth after the buildup.
+- 'If Blackjack finds out, he will smear me across the reception desk.' Touching on the reception desk to Barinov, the hostess reaches for the Russian word "resepshenu" ("across the reception desk", built from "resepshen") right at the center of the line.
+- 'If he finds out, I will say I took the key myself.' Katya pushes back warmly beside the hostess and brings in "uznayet" ("will find out", from "uznat") as the key Russian word here.
+- 'You ruined my entire personal life with your wishes.' Barinov opens up plainly with a smile, watching Katya's face to see how the news lands.
+- 'Viktor Petrovich, you need to calm down.' Katya replies calmly at once and lands on "uspokoitsya" ("to calm down") as the key everyday word here.
+- 'I am going to calm you down permanently right now.' Barinov steps in boldly with a shrug, shifting the mood of the conversation in a single beat.
+- 'And I will make such a wish that you will remember it for the rest of your life.' Barinov opens up decisively toward Katya, before Katya can change the subject.
+- 'I have twenty.' Cutting in naturally in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Twenty-one.' Weighing in frankly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Do not get upset, Vityusha, you will win in your next life.' Mentioning the life on the spot, Katya speaks plainly so Barinov gets the message at once.
+- 'The wish is mine.' Focusing on the desire in this beat, Barinov uses "zhelaniye" ("desire, craving") to carry the main weight of the thought.

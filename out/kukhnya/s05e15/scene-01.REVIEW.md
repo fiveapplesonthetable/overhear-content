@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I am at a different age for such surprises.' Elena leans on this vivid choice with Barinov: "syurprizov" means "surprise" (from "syurpriz"), giving the line its exact edge.
-- 'Well, here we have arrived already, look!' Barinov steps in frankly in this moment, testing Senya's reaction in the middle of the exchange.
-- 'This right here is my main surprise for you.' Barinov chimes in lightly as they talk, saying out loud what both of them already know.
-- 'Vitya, the thing is that I cannot marry you.' Elena frames this sharp touch on cue: "delo" means "matter", and it carries the main weight of what Elena is saying.
-- 'Wait, what do you mean you are not divorced yet?' Barinov sends this line beside Elena: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'You know we have not been husband and wife for a long time.' Elena stands firm plainly with a sigh, without trying to dress up how she really feels.
-- 'That stamp in the passport was just a formality.' Elena focuses on one direct choice at once: "formalnostyu" means "formality" (from "formalnost"), giving the line its exact edge.
-- 'Do you want me to call right now and settle everything?' Elena voices the comeback facing Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
-- 'Chef, we are all freezing out here on the street!' Senya follows up right away around Barinov, to clear the air between them once and for all.
-- 'Tell us, are you getting married today or not?' Senya highlights one concrete piece on cue: "zhenitsya" means "to marry", and it carries the main weight of what Senya is saying.
-- 'Thank you for coming, but the wedding is canceled for now.' Barinov brings the comeback on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'I hope only temporarily, let's go to the car.' Barinov responds wryly as they talk, letting the remark speak for itself.
+- 'Vitya, I am at a different age for such surprises.' Talking about the surprise during the talk, Elena brings in "syurprizov" ("surprise", from "syurpriz") as the key Russian word here.
+- 'Well, here we have arrived already, look!' Barinov answers earnestly before Elena and puts the weight on "prishli" ("have come", from "priyti") as the exchange unfolds.
+- 'This right here is my main surprise for you.' Barinov chimes in lightly with a shrug, watching Elena's face to see how the news lands.
+- 'Vitya, the thing is that I cannot marry you.' Touching on the matter in this beat, Elena chooses "delo" ("matter") so Barinov gets the point right away.
+- 'Wait, what do you mean you are not divorced yet?' Pointing out how divorced Elena is in this beat, Barinov puts the question word "chto" right at the start so Elena hears the focus immediately.
+- 'You know we have not been husband and wife for a long time.' Elena speaks up plainly watching Barinov, steering the talk right where she wants it.
+- 'That stamp in the passport was just a formality.' Highlighting a formality on the spot, Elena brings in "formalnostyu" ("formality", from "formalnost") as the key Russian word here.
+- 'Do you want me to call right now and settle everything?' Replying evenly in front of Senya, Elena keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Chef, we are all freezing out here on the street!' Senya continues right away across the room, refusing to let the moment slip past.
+- 'Tell us, are you getting married today or not?' Senya pushes back readily right here and lands on "zhenitsya" ("to marry") as the key everyday word here.
+- 'Thank you for coming, but the wedding is canceled for now.' Talking about the thank with Senya, the "-sya" ending on "otmenyayetsya" ("is canceled") marks an action that unfolds mutually or turns back on the speaker.
+- 'I hope only temporarily, let's go to the car.' Barinov pushes back wryly facing Senya, refusing to let the moment slip past.

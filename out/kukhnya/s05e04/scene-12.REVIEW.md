@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Unexpected. Is that your new uniform, or did someone lose at cards again?' Elena tests calmly before Barinov can change the subject.
-- 'What are you doing here?' Barinov features one sharp element with the hostess: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
-- 'You are a man of your word, and so am I.' Elena states that reply on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'If I promised to give you a second chance, then I am obligated to do so.' Elena cuts in earnestly toward the hostess, steering the talk right where she wants it.
-- 'So we are having our date right here?' Barinov uses one practical piece with Elena: "svidaniye" means "date", and it carries the main weight of what Barinov is saying.
-- 'Well, why not? You are already wearing an evening dress.' Elena frames the thought before the hostess: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'All that is left is for me to find a tuxedo and we can begin.' Elena proceeds promptly toward Barinov, saying out loud what both of them already know.
-- 'Lenochka, you will not regret this.' Barinov anchors this telling word right here: "pozhaleyesh" means "regret" (from "pozhalet"), giving the line its exact edge.
-- 'Give me five minutes. I will be back in a flash.' Barinov reacts wryly around Elena, steering the talk right where he wants it.
-- 'Hold on. That is the connecting door to the adjoining suite.' Elena responds sharply toward the hostess, without trying to dress up how she really feels.
-- 'Vitya, will you take the key?' Elena picks one familiar term right here: "klyuch" means "key", and it carries the main weight of what Elena is saying.
-- 'Vitya, promise me there will be no more surprises like this.' Elena proceeds evenly across the room, keeping the focus on what actually matters here.
-- 'Good evening, Eleonora Andreyevna.' The hostess pushes back earnestly with a smile, before Barinov can change the subject.
-- 'Suite 313 was booked, and 311 is free.' The hostess focuses on this key element at once: "svoboden" means "free" (from "svobodnyy"), giving the line its exact edge.
+- 'Unexpected. Is that your new uniform, or did someone lose at cards again?' Elena tests calmly why things suddenly took this turn between them.
+- 'What are you doing here?' Barinov cuts in dryly to Elena and centers the thought on "delayesh" ("are you doing", from "delat") without wasting a word.
+- 'You are a man of your word, and so am I.' Dwelling on the words right here, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'If I promised to give you a second chance, then I am obligated to do so.' Elena pushes back earnestly hearing Barinov, refusing to let the moment slip past.
+- 'So we are having our date right here?' Bringing up his date during the talk, Barinov reaches for the Russian word "svidaniye" ("date") right at the heart of the line.
+- 'Well, why not? You are already wearing an evening dress.' Explaining how evening Barinov is before Barinov, Elena links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'All that is left is for me to find a tuxedo and we can begin.' Talking about a tuxedo without holding back, Elena lets Barinov see exactly where things stand.
+- 'Lenochka, you will not regret this.' Focusing on the lenochka beside Elena, Barinov centers the remark on "lenochka" ("lenochka") without any extra fuss.
+- 'Give me five minutes. I will be back in a flash.' Bringing up the minutes during the talk, Barinov brings in "minut" ("minutes", from "minuta") as the key Russian word here.
+- 'Hold on. That is the connecting door to the adjoining suite.' Bringing up the connecting door with a smile, Elena puts the real issue right on the table for Barinov.
+- 'Vitya, will you take the key?' Emphasizing the key with the hostess, Elena uses "klyuch" ("key") to carry the main weight of the thought.
+- 'Vitya, promise me there will be no more surprises like this.' Focusing on the surprise right here, Elena puts the weight on "syurprizov" ("surprise", from "syurpriz") as the exchange unfolds.
+- 'Good evening, Eleonora Andreyevna.' The hostess promptly chooses this evening greeting as they meet using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'Suite 313 was booked, and 311 is free.' Confirming how free things are on the spot, the hostess brings in "svoboden" ("free", from "svobodnyy") as the key Russian word here.

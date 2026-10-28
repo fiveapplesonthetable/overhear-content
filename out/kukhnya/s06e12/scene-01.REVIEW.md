@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems I drank way too much again last night.' Senya highlights one loaded detail in reply: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'Senya, are you not late for work today?' Denis shapes that line without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Sveta purely through rising pitch at the end.
-- 'Right, I am already late, bye everyone!' Senya weighs in frankly watching Denis, leaving no doubt about where he stands.
-- 'Alright, it is time for me to get ready for my shift too.' Denis points to one key choice in earnest: "sobiratsya" means "to get ready", and it carries the main weight of what Denis is saying.
-- 'Tell me, how are things with you and Denis, is it serious?' Senya sends that remark beside Denis: putting the question word "kak" right at the front of the line lets Denis hear the point of the question on the very first beat.
-- 'I really hope that everything is serious between us.' Sveta pushes back decisively watching Senya, so Senya knows she is not just making small talk.
-- 'Why just hope, you two suit each other great.' Senya centers one vivid term in earnest: "nadeyatsya" means "to hope, to rely on", and it carries the main weight of what Senya is saying.
-- 'If you found a good guy, you need to marry him right away.' Senya lays out this line toward Sveta: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'Is it not too early to talk about that?' Sveta tests point-blank if there is more going on behind the scenes.
-- 'If you think that long, you will stay completely unmarried.' Senya focuses on this sharp element for Sveta: "nezamuzhney" means "unmarried" (from "nezamuzhniy"), giving the line its exact edge.
-- 'A good friend of mine works at a jewelry store.' Senya drops this update beside Denis: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'You are ready to pay for half the ring for the cause, right?' Senya quizzes plainly about what Sveta just brought up.
-- 'Yes, of course, then everything will definitely be fine!' Sveta frames one concrete detail in reply: "konechno" means "of course", and it carries the main weight of what Sveta is saying.
+- 'It seems I drank way too much again last night.' Senya speaks decisively at once and lands on "kazhetsya" ("it seems, I think", built on "kazatsya") to keep the statement grounded.
+- 'Senya, are you not late for work today?' Opening up readily beside Senya, Denis keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.
+- 'Right, I am already late, bye everyone!' Senya jumps in frankly facing Denis, watching Denis's face to see how the news lands.
+- 'Alright, it is time for me to get ready for my shift too.' Focusing on his shift before Senya, Denis chooses "sobiratsya" ("to get ready") so Senya gets the point right away.
+- 'Tell me, how are things with you and Denis, is it serious?' Replying earnestly beside Denis, Senya leans on "seryozno" ("seriously"), which carries the whole predicate in Russian without needing "it is".
+- 'I really hope that everything is serious between us.' Sveta responds decisively with Senya, letting the remark speak for itself.
+- 'Why just hope, you two suit each other great.' Underscoring the friend on the spot, Senya lands on "nadeyatsya" ("to hope, to rely on") as the key everyday word here.
+- 'If you found a good guy, you need to marry him right away.' Addressing the boyfriend during the talk, Senya leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Is it not too early to talk about that?' Sveta tests point-blank to see how Senya will answer on the spot.
+- 'If you think that long, you will stay completely unmarried.' Senya jumps in promptly beside Sveta and leans on "nezamuzhney" ("unmarried", a form of "nezamuzhniy") to give the remark its edge.
+- 'A good friend of mine works at a jewelry store.' Senya proceeds honestly with a sigh, before Sveta can change the subject.
+- 'You are ready to pay for half the ring for the cause, right?' Senya quizzes plainly whether Sveta really thought this through.
+- 'Yes, of course, then everything will definitely be fine!' Sveta speaks naturally during the talk and leans on "konechno" ("of course") to give the whole sentence its punch.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All of this is complete nonsense, I wasted my time for nothing!' Max speaks up candidly with a nod, leaving no doubt about where he stands.
-- 'Max, how is your progress, have you invented anything new?' Weighing in in earnest, Katya calls Max's bluff without raising her voice.
-- 'How can I invent anything, the chef forbade me to take expensive ingredients!' Max emphasizes one pointed piece on cue: "dorogiye" means "dear" (from "dorogoy"), giving the line its exact edge.
-- 'Do you know how they invented mayonnaise in France?' Katya delivers this statement to Max: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'The city was under siege, and there was nothing except oil and eggs.' Katya responds decisively watching Max, saying out loud what both of them already know.
-- 'The soldiers could no longer eat fried eggs and omelettes.' Katya focuses on one familiar element in reply: "yaichnitsu" means "fried eggs" (from "yaichnitsa"), giving the line its exact edge.
-- 'And then the cook invented delicious mayonnaise for them!' Katya fires back openly with a sigh, refusing to let the moment slip past.
-- 'Well alright, I will cook something simple and a bit cheaper.' Max follows up warmly hearing Katya, shifting the whole mood of the room in a single beat.
-- 'Think, without what is true French cuisine unthinkable?' Katya centers one telling piece right here: "nastoyashchaya" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
-- 'Of course, a good sauce, you are absolutely right, exactly!' Max offers this warning facing Katya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Today I will definitely invent my own signature sauce!' Max responds promptly hearing Katya, leaving no doubt about where he stands.
-- 'Great idea, and what will the sauce be served with?' Katya points to one direct expression in earnest: "otlichnaya" means "excellent" (from "otlichnyy"), giving the line its exact edge.
+- 'All of this is complete nonsense, I wasted my time for nothing!' Noting how complete things are around Katya, Max centers the thought on "polnaya" ("complete, full", from "polnyy") without wasting a word.
+- 'Max, how is your progress, have you invented anything new?' Katya inquires calmly before Max can change the subject.
+- 'How can I invent anything, the chef forbade me to take expensive ingredients!' Underscoring the groceries beside Katya, Max puts the weight on "dorogiye" ("dear", from "dorogoy") as the exchange unfolds.
+- 'Do you know how they invented mayonnaise in France?' Jumping in warmly on the spot, Katya puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'The city was under siege, and there was nothing except oil and eggs.' Katya continues decisively with a sigh, testing Max's reaction in the middle of the exchange.
+- 'The soldiers could no longer eat fried eggs and omelettes.' Underscoring the fried eggs around Max, Katya brings in "yaichnitsu" ("fried eggs", from "yaichnitsa") as the key Russian word here.
+- 'And then the cook invented delicious mayonnaise for them!' Addressing the mayonnaise during the talk, Katya centers the remark on "vkusnyy" ("delicious") without any extra fuss.
+- 'Well alright, I will cook something simple and a bit cheaper.' Max follows up warmly around Katya, before Katya can change the subject.
+- 'Think, without what is true French cuisine unthinkable?' Showing how unthinkable things are in front of Max, Katya brings in "nastoyashchaya" ("real, genuine", from "nastoyashchiy") as the key Russian word here.
+- 'Of course, a good sauce, you are absolutely right, exactly!' Highlighting how good Katya is on the spot, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Today I will definitely invent my own signature sauce!' Max opens up promptly without a pause, so Katya knows he is not just making small talk.
+- 'Great idea, and what will the sauce be served with?' Focusing on the idea on the spot, Katya reaches for the Russian word "otlichnaya" ("excellent", built from "otlichnyy") right at the center of the line.

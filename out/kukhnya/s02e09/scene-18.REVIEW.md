@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That was amazing.' Kristina responds sharply in this moment, leaving no doubt about where she stands.
-- 'We should get divorced more often.' Max points to this sharp element with Kristina: "razvoditsya" means "we are getting divorced", and it carries the main weight of what Max is saying.
-- 'Why did you come here anyway?' Kristina directs that thought with ease: putting the question word "zachem" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'You know why.' Max stands firm steadily without holding back, keeping the focus on what actually matters here.
-- 'That is true.' Kristina phrases the remark in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Oh, shoot.' Max voices the reaction without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Phew, thank goodness.' Kristina responds plainly on the spot, testing Max's reaction in the middle of the exchange.
-- 'Here is the thing.' Max grounds one pointed element in earnest: "delo" means "matter", and it carries the main weight of what Max is saying.
-- 'Could you possibly give me yours?' Kristina gives the reply with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Of course, my dear.' Max cuts in steadily during the talk, bringing things back to earth after the buildup.
-- 'Thank you very much.' Kristina anchors one colorful word on cue: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
-- 'Yes, who is a bitch?' Max offers that answer calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Why did I not text you earlier?' Kristina asks deadpan if there is more going on behind the scenes.
+- 'That was amazing.' Kristina follows up sharply without any doubt, grounding the moment in plain reality.
+- 'We should get divorced more often.' Max follows up frankly beside Kristina and lands on "razvoditsya" ("we are getting divorced") as the key everyday word here.
+- 'Why did you come here anyway?' Turning evenly beside Max, Kristina puts the question word "zachem" right at the start so Max hears the focus immediately.
+- 'You know why.' Max fires back steadily around Kristina, watching Kristina's face to see how the news lands.
+- 'That is true.' Cutting in directly around Max, Kristina links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Oh, shoot.' Touching on the fir tree during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Phew, thank goodness.' Kristina follows up plainly on the spot, so Max knows she is not just making small talk.
+- 'Here is the thing.' Addressing the matter in the exchange, Max reaches for the Russian word "delo" ("matter") right at the heart of the line.
+- 'Could you possibly give me yours?' Speaking dryly in this beat, Kristina keeps normal statement word order here, turning the line into a question for Max purely through rising pitch.
+- 'Of course, my dear.' Max firmly speaks this confirmation for Kristina using "konechno" ("of course") — spoken with a soft "shn" sound in everyday Moscow Russian to mean "of course, certainly".
+- 'Thank you very much.' Kristina calmly shares this word of thanks in front of Max using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'Yes, who is a bitch?' Touching on the shrew at once, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why did I not text you earlier?' Kristina asks deadpan how Max expects that to work in practice.

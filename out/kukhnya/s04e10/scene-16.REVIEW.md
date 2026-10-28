@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, good evening!' Max grounds one concrete element at once: "dobryy" means "good", and it carries the main weight of what Max is saying.
-- 'On what occasion are you so festive?' Max brings this point at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'A buddy of mine arrived from Ireland.' Barinov proceeds at once to be clear, bringing things back to earth after the buildup.
-- 'Or rather two, but one has already left.' Barinov uses one clear element for Max: "verneye" means "more accurately" (from "verno"), giving the line its exact edge.
-- 'Chef, we are discussing movies here.' Max replies pointedly beside Barinov, watching Barinov's face to see how the news lands.
-- 'What kind of movies do you like best?' Max quizzes firmly in front of Barinov without any preamble.
-- 'I simply adore musicals.' Barinov sharpens this sharp detail right here: "myuzikly" means "musicals", and it carries the main weight of what Barinov is saying.
-- 'Really, I love them too!' Max fires back pointedly without any doubt, grounding the moment in plain reality.
-- 'You like that mushy nonsense set to music?' Barinov prompts frankly as Max tries to explain the situation.
-- 'And speaking seriously, chef?' Max points to this direct detail right here: "seryozno" means "seriously", and it carries the main weight of what Max is saying.
-- 'Seriously, I love science fiction.' Barinov phrases that thought at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Prices in Moscow reached their peak.' Barinov chimes in honestly with a nod, refusing to let the moment slip past.
-- 'And all the people moved to Mars.' Barinov favors one clear term with Max: "pereselilis" means "to mars" (from "pereselitsya"), giving the line its exact edge.
-- 'All the restaurants moved there too.' Barinov reacts pointedly hearing Max, testing Max's reaction in the middle of the exchange.
+- 'Chef, good evening!' Max calmly sends this evening greeting for Barinov using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'On what occasion are you so festive?' Insisting on how festive things are beside Barinov, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'A buddy of mine arrived from Ireland.' Barinov proceeds at once in this moment, shifting the mood of the conversation in a single beat.
+- 'Or rather two, but one has already left.' Barinov proceeds calmly in the exchange and centers the thought on "verneye" ("more accurately", from "verno") without wasting a word.
+- 'Chef, we are discussing movies here.' Addressing the cinema in front of Barinov, Max uses "obsuzhdayem" ("are discussing", from "obsuzhdat") to make the point stick.
+- 'What kind of movies do you like best?' Max quizzes firmly to see how Barinov will answer on the spot.
+- 'I simply adore musicals.' Underscoring the musicals beside Max, Barinov uses "myuzikly" ("musicals") to carry the main weight of the thought.
+- 'Really, I love them too!' Mentioning the honestly to Barinov, Max puts the emphasis on "pravda" ("honestly") in the middle of the talk.
+- 'You like that mushy nonsense set to music?' Barinov prompts frankly before Max can change the subject.
+- 'And speaking seriously, chef?' Max replies promptly right here and lands on "seryozno" ("seriously") as the key everyday word here.
+- 'Seriously, I love science fiction.' Addressing the fiction right here, Barinov leans on "seryozno" ("seriously"), which carries the whole predicate in Russian without needing "it is".
+- 'Prices in Moscow reached their peak.' Barinov pushes back honestly facing Max, keeping the focus on what actually matters here.
+- 'And all the people moved to Mars.' Discussing the people in the exchange, Barinov lands on "pereselilis" ("to mars", built on "pereselitsya") to keep the statement grounded.
+- 'All the restaurants moved there too.' Addressing the restaurant before Max, Barinov brings in "restorany" ("restaurant", from "restoran") as the key Russian word here.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where am I going to get sleeping pills right now?' Nikita tests curiously why things suddenly took this turn between them.
-- 'Then let's try option number two.' Nikita uses one familiar word for Nagiyev: "variant" means "option, variant", and it carries the main weight of what Nikita is saying.
-- 'Help, we need to call an ambulance!' Nikita frames this point on cue: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'My phone is lying right over there.' Nagiyev reacts at once without holding back, to clear the air between them once and for all.
-- 'Then I have run out of options.' Nikita picks one clear term at once: "zakonchilis" means "are over, have ended" (from "zakonchitsya"), giving the line its exact edge.
-- 'Alright then, today the salmon won.' Nagiyev offers this statement with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nikita is on board.
+- 'Where am I going to get sleeping pills right now?' Nikita tests curiously about what Nagiyev just brought up.
+- 'Then let's try option number two.' Mentioning the option with Nagiyev, Nikita chooses "variant" ("option, variant") so Nagiyev gets the point right away.
+- 'Help, we need to call an ambulance!' Returning to an ambulance during the talk, Nikita leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'My phone is lying right over there.' Nagiyev cuts in at once watching Nikita, making his position completely clear.
+- 'Then I have run out of options.' Emphasizing the option in the exchange, Nikita brings in "varianty" ("option, variant", from "variant") as the key Russian word here.
+- 'Alright then, today the salmon won.' Underscoring the salmon on the spot, Nagiyev uses "segodnya" ("today") to carry the main weight of the thought.
 - 'Why did he tell me that?' Nikita checks quietly where this conversation is heading next.
-- 'Nikita, why did you take the car keys?' Nagiyev favors one pointed touch at once: "klyuchi" means "the keys" (from "klyuch"), giving the line its exact edge.
-- 'Well, did it not work out yet?' Katya drops that thought without pause: the "-sya" ending on "poluchilos" ("worked out") turns the action inward or makes it happen between people naturally.
-- 'Yes, nothing worked out yet.' Nikita speaks up honestly as things stand, watching Nagiyev's face to see how the news lands.
-- 'You lie much better than you steal cars.' Katya sharpens one classic expression toward Nagiyev: "ugonyayesh" means "you steal" (from "ugonyat"), giving the line its exact edge.
-- 'Wait, I will definitely get the keys.' Nikita follows up boldly beside Nagiyev, leaving no doubt about where he stands.
+- 'Nikita, why did you take the car keys?' Talking about the car keys beside Nikita, Nagiyev uses "klyuchi" ("the keys", from "klyuch") to make the point stick.
+- 'Well, did it not work out yet?' Replying earnestly at once, the "-sya" ending on "poluchilos" ("worked out") marks an action that unfolds mutually or turns back on the speaker.
+- 'Yes, nothing worked out yet.' Nikita fires back honestly during the talk, testing Katya's reaction in the middle of the exchange.
+- 'You lie much better than you steal cars.' Highlighting the car beside Nikita, Katya reaches for the Russian word "ugonyayesh" ("you steal", built from "ugonyat") right at the center of the line.
+- 'Wait, I will definitely get the keys.' Focusing on the keys at once, Nikita puts the emphasis on "obyazatelno" ("surely, without fail") in the middle of the talk.

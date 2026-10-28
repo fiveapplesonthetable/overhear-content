@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not know, I did not understand anything.' Senya favors this telling touch toward Barinov: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
-- 'Chef, why are the dishes so tiny?' Senya offers this update beside Nikita: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Masterpieces are not served in buckets.' Barinov chimes in frankly to settle things, refusing to let the moment slip past.
-- 'Viktor Petrovich, have you already calculated the prices?' Nikita sharpens one direct choice toward Senya: "rasschitali" means "calculated" (from "rasschitat"), giving the line its exact edge.
-- 'We calculated them, from three to five thousand per dish.' Barinov holds firm openly with a sigh, refusing to let the moment slip past.
-- 'Five thousand for a dish?' Nikita inquires earnestly how Senya expects that to work in practice.
-- 'Maybe we should keep the old menu for now?' Nikita focuses on this sharp choice at once: "staroye" means "old" (from "staryy"), giving the line its exact edge.
-- 'There is no old menu, there is only the new menu.' Barinov speaks plainly with Senya, testing Senya's reaction in the middle of the exchange.
-- 'Timur, bring the new menu here.' Barinov speaks up sharply with a smile, shifting the whole mood of the room in a single beat.
-- 'It even still smells of ink.' Senya stresses this key expression at once: "vonyayet" means "like", and it carries the main weight of what Senya is saying.
-- 'You will thank me yet when we get the star.' Barinov leans on one telling piece for Nikita: "blagodarit" means "to thank", and it carries the main weight of what Barinov is saying.
-- 'Study the recipes!' Barinov speaks up promptly as they talk, leaving no doubt about where he stands.
+- 'I do not know, I did not understand anything.' Senya cuts in sharply beside Barinov and uses "ponyal" ("understood", from "ponyat") to make the point stick.
+- 'Chef, why are the dishes so tiny?' Mentioning the dish beside Barinov, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Masterpieces are not served in buckets.' Barinov cuts in frankly beside Senya, testing Senya's reaction in the middle of the exchange.
+- 'Viktor Petrovich, have you already calculated the prices?' Underscoring the price with Barinov, Nikita centers the thought on "rasschitali" ("calculated", from "rasschitat") without wasting a word.
+- 'We calculated them, from three to five thousand per dish.' Discussing the thousand to Nikita, Barinov brings in "rasschitali" ("calculated", from "rasschitat") as the key Russian word here.
+- 'Five thousand for a dish?' Nikita inquires earnestly what Barinov is actually getting at here.
+- 'Maybe we should keep the old menu for now?' Highlighting the old menu beside Barinov, Nikita lands on "staroye" ("old", built on "staryy") to keep the statement grounded.
+- 'There is no old menu, there is only the new menu.' Pointing to the new menu to Nikita, Barinov chooses "starogo" ("old", from the root "staryy") so Nikita hears the exact meaning.
+- 'Timur, bring the new menu here.' Barinov proceeds sharply in their talk, before Senya can change the subject.
+- 'It even still smells of ink.' Mentioning the like with Barinov, Senya leans on "vonyayet" ("like") to give the whole sentence its punch.
+- 'You will thank me yet when we get the star.' Barinov weighs in wryly hearing Senya, testing Senya's reaction in the middle of the exchange.
+- 'Study the recipes!' Barinov counters promptly without a pause, without trying to dress up how he really feels.

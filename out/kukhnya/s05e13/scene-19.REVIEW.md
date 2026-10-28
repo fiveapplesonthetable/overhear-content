@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, thank you for cheering me up.' Max emphasizes one pointed word in earnest: "nastroyeniye" means "mood", and it carries the main weight of what Max is saying.
-- 'I really feel relieved, like a stone off my shoulders.' Max counters honestly to be clear, bringing things back to earth after the buildup.
-- 'Let's have another drink together, friends!' Max replies frankly during the talk, watching Barinov's face to see how the news lands.
-- 'I am very glad that you are so happy.' Vika sharpens one loaded choice in reply: "schastliv" means "happy, lucky" (from "schastlivyy"), giving the line its exact edge.
-- 'Vika, wait, you misunderstood that!' Max favors one clear touch in earnest: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Victoria Sergeyevna, we were just having a bit of fun here.' Barinov reacts warmly without a pause, to clear the air between them once and for all.
-- 'We were just goofing around and daydreaming after the shift.' Barinov grounds this sharp term for Max: "fantazirovali" means "fantasize, daydream" (from "fantazirovat"), giving the line its exact edge.
-- 'Then let me do a little daydreaming right now too!' Vika frames this statement for Max: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'The main thing is to calculate everything properly in my head.' Vika replies calmly on the spot, shifting the whole mood of the room in a single beat.
-- 'Maxim, do you know what I have realized over my life?' Barinov chooses one clear detail with Vika: "znayesh" means "know" (from "znat"), giving the line its exact edge.
-- 'If a woman hates you, does it mean she does not care?' Max brings the thought facing Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'No, if she hates you, it means she still cares!' Barinov speaks up openly without any doubt, bringing things back to earth after the buildup.
+- 'Guys, thank you for cheering me up.' Turning to the mood beside Vika, Max puts the emphasis on "nastroyeniye" ("mood") in the middle of the talk.
+- 'I really feel relieved, like a stone off my shoulders.' Mentioning a stone right here, Max reaches for the Russian word "kamen" ("stone") right at the heart of the line.
+- 'Let's have another drink together, friends!' Max speaks up frankly watching Vika, keeping the focus on what actually matters here.
+- 'I am very glad that you are so happy.' Noting how glad Max is to Max, Vika reaches for the Russian word "schastliv" ("happy, lucky", built from "schastlivyy") right at the center of the line.
+- 'Vika, wait, you misunderstood that!' Max counters plainly across the room, shifting the mood of the conversation in a single beat.
+- 'Victoria Sergeyevna, we were just having a bit of fun here.' Barinov continues warmly during the talk, shifting the mood of the conversation in a single beat.
+- 'We were just goofing around and daydreaming after the shift.' Talking about the shift in this beat, Barinov leans on "fantazirovali" ("fantasize, daydream", a form of "fantazirovat") to give the remark its edge.
+- 'Then let me do a little daydreaming right now too!' Cutting in evenly on the spot, Vika starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'The main thing is to calculate everything properly in my head.' Vika steps in calmly beside Barinov, to clear the air between them once and for all.
+- 'Maxim, do you know what I have realized over my life?' Addressing his life beside Max, Barinov puts the emphasis on "zhizn" ("life") in the middle of the talk.
+- 'If a woman hates you, does it mean she does not care?' Pointing to a woman to Barinov, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'No, if she hates you, it means she still cares!' Barinov speaks openly with a sigh, steering the talk right where he wants it.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I have information for you.' Senya drops the comment right away: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Spill it quickly, what is it about?' Barinov inquires frankly to see how Senya will answer on the spot.
-- 'This is important news regarding your Katya.' Senya grounds this direct element in reply: "vazhnaya" means "important" (from "vazhnyy"), giving the line its exact edge.
-- 'She did not tell you about this.' Senya colors this vivid choice at once: "skazala" means "told" (from "skazat"), giving the line its exact edge.
-- 'And what will I get for this?' Senya checks earnestly if there is more going on behind the scenes.
-- 'Senya, do not drag it out, speak up already!' Barinov favors one familiar touch at once: "tomi" means "out", and it carries the main weight of what Barinov is saying.
-- 'All right, only you will not like this.' Senya makes the comeback before Barinov: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'Are you making fun of me or what?' Barinov asks briskly before Senya can change the subject.
-- 'She is now under his protection.' Senya sharpens this direct element for Barinov: "pokrovitelstvom" means "protection" (from "pokrovitelstv"), giving the line its exact edge.
-- 'Your Katya got a job working at Monet.' Senya makes that thought plainly here: the "-sya" ending on "ustroilas" ("to get a job") turns the action inward or makes it happen between people naturally.
-- 'Well, how could she do that?' Barinov prompts point-blank what Senya is actually getting at here.
-- 'Chef, where are you going right now?' Senya grounds one clear detail in reply: "seychas" means "now", and it carries the main weight of what Senya is saying.
-- 'Just do not say that I told you!' Senya speaks up evenly with a shrug, making his position completely clear.
+- 'Chef, I have information for you.' Senya follows up honestly with a shrug, keeping the focus on what actually matters here.
+- 'Spill it quickly, what is it about?' Barinov inquires frankly how Senya expects that to work in practice.
+- 'This is important news regarding your Katya.' Showing how important things are during the talk, Senya leans on "vazhnaya" ("important", a form of "vazhnyy") to give the remark its edge.
+- 'She did not tell you about this.' Senya chimes in honestly without a pause, steering the talk right where he wants it.
+- 'And what will I get for this?' Senya checks earnestly how Barinov expects that to work in practice.
+- 'Senya, do not drag it out, speak up already!' Barinov proceeds sharply with Senya and leans on "govori" ("say, talk", a form of "govorit") to give the remark its edge.
+- 'All right, only you will not like this.' Answering directly to Barinov, the "-sya" ending on "ponravitsya" ("will please") marks an action that unfolds mutually or turns back on the speaker.
+- 'Are you making fun of me or what?' Barinov asks briskly about what Senya just brought up.
+- 'She is now under his protection.' Underscoring the protection right here, Senya brings in "pokrovitelstvom" ("protection", from "pokrovitelstv") as the key Russian word here.
+- 'Your Katya got a job working at Monet.' Pushing back candidly on the spot, the "-sya" ending on "ustroilas" ("to get a job") marks an action that unfolds mutually or turns back on the speaker.
+- 'Well, how could she do that?' Barinov prompts point-blank if there is more going on behind the scenes.
+- 'Chef, where are you going right now?' Senya steps in candidly in this beat and brings in "idyote" ("to go", from "idti") as the key Russian word here.
+- 'Just do not say that I told you!' Senya fires back warmly right here and brings in "govorite" ("say, speak", from "govorit") as the key Russian word here.

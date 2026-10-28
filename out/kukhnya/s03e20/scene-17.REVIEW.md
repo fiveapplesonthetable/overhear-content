@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'With immense pleasure I will now spoil your merry celebration.' The inspector picks one familiar element right here: "prazdnovaniye" means "celebration", and it carries the main weight of what the inspector is saying.
-- 'The board of founders of our chain has decided to close this restaurant.' The inspector opens up lightly with a shrug, before Max can change the subject.
-- 'And I personally decided to inform you of this today.' The inspector chooses one practical expression with Barinov: "soobshchit" means "inform, report", and it carries the main weight of what the inspector is saying.
-- 'Wait, what do you mean close it? Why are you closing it?' Barinov frames that point with ease: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
-- 'Now there will be a beer sports bar in this spot.' The inspector answers right away with a sigh, saying out loud what both of them already know.
-- 'Because your French restaurant is completely unprofitable.' The inspector centers one sharp element in earnest: "frantsuzskiy" means "French", and it carries the main weight of what the inspector is saying.
-- 'And the last straw for the founders was Sergey's departure.' The inspector reacts pointedly in this moment, to clear the air between them once and for all.
-- 'If the best manager could not cope, then nobody can.' The inspector steps in calmly around Max, to clear the air between them once and for all.
-- 'No, that will not do! Solve the problem, or we will tell your wife!' Barinov picks one telling detail right here: "problemu" means "problem" (from "problema"), giving the line its exact edge.
-- 'My wife already knows everything, everyone knows.' The inspector gives the reply at once: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'And honestly speaking, I do not care anymore.' The inspector proceeds steadily in this moment, saying out loud what both of them already know.
-- 'Be well, colleagues, goodbye forever!' Max highlights this key term in earnest: "proshchayte" means "farewell" (from "proshchat"), giving the line its exact edge.
+- 'With immense pleasure I will now spoil your merry celebration.' The inspector jumps in openly beside Barinov, keeping the focus on what actually matters here.
+- 'The board of founders of our chain has decided to close this restaurant.' The inspector chimes in lightly with a shrug, grounding the moment in plain reality.
+- 'And I personally decided to inform you of this today.' The inspector reacts promptly during the talk and uses "soobshchit" ("inform, report") to carry the main weight of the thought.
+- 'Wait, what do you mean close it? Why are you closing it?' Answering evenly in the exchange, Barinov puts the question word "kak" right at the start so the inspector hears the focus immediately.
+- 'Now there will be a beer sports bar in this spot.' The inspector responds right away in this moment, bringing things back to earth after the buildup.
+- 'Because your French restaurant is completely unprofitable.' Underscoring how unprofitable things are to Barinov, the inspector reaches for the Russian word "frantsuzskiy" ("French") right at the heart of the line.
+- 'And the last straw for the founders was Sergey's departure.' Pointing to the founders in the exchange, the inspector brings in "uchrediteley" ("of founders", from "uchreditel") as the key Russian word here.
+- 'If the best manager could not cope, then nobody can.' The inspector weighs in calmly with a smile, steering the talk right where he wants it.
+- 'No, that will not do! Solve the problem, or we will tell your wife!' Emphasizing the problem at once, Barinov uses "problemu" ("problem", from "problema") to make the point stick.
+- 'My wife already knows everything, everyone knows.' Dwelling on his wife around Barinov, the inspector drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'And honestly speaking, I do not care anymore.' The inspector fires back steadily in this moment, keeping the focus on what actually matters here.
+- 'Be well, colleagues, goodbye forever!' Bringing up the colleagues around the inspector, Max uses "proshchayte" ("farewell", from "proshchat") to make the point stick.

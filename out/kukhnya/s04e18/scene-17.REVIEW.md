@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is the matter? Be more careful, please.' German lays out this statement toward Barinov: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'It is nothing serious, I will prepare everything myself.' Vika fires back promptly with a nod, bringing things back to earth after the buildup.
-- 'You cook simply amazingly, Vika.' German stresses one memorable word for Barinov: "potryasayushche" means "incredible", and it carries the main weight of what German is saying.
-- 'Just make sure you do not mix anything up there.' Barinov drops this update with ease: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'Well then, maybe we will taste it already?' Vika challenges sharply whether Barinov really thought this through.
-- 'Yes, right now, I will just answer the call.' German spotlights this vivid choice at once: "zvonok" means "call, bell", and it carries the main weight of what German is saying.
-- 'Hello, yes, of course, I will be there soon.' German chimes in quietly to settle things, watching Barinov's face to see how the news lands.
-- 'Vika, I apologize very much.' German continues briskly around Vika, leaving no doubt about where he stands.
-- 'I need to go to the restaurant urgently.' German uses one loaded term at once: "restoran" means "restaurant", and it carries the main weight of what German is saying.
-- 'What, do you need to go right now?' Vika delivers the reply for German: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'Yes, right now, Nagiyev is waiting for me there.' German steps in boldly without holding back, letting the remark speak for itself.
-- 'Excellent, he has left, call our friend.' Barinov chooses one colorful expression on cue: "otlichno" means "perfect, great", and it carries the main weight of what Barinov is saying.
+- 'What is the matter? Be more careful, please.' Discussing the matter around Vika, German keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'It is nothing serious, I will prepare everything myself.' Vika weighs in promptly during the talk, steering the talk right where she wants it.
+- 'You cook simply amazingly, Vika.' German speaks up frankly at once and uses "potryasayushche" ("incredible") to carry the main weight of the thought.
+- 'Just make sure you do not mix anything up there.' Looking over warmly in this beat, Barinov pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'Well then, maybe we will taste it already?' Vika challenges sharply why things suddenly took this turn between them.
+- 'Yes, right now, I will just answer the call.' Discussing the call during the talk, German chooses "zvonok" ("call, bell") so Vika gets the point right away.
+- 'Hello, yes, of course, I will be there soon.' German follows up promptly beside Vika and leans on "konechno" ("of course") to give the whole sentence its punch.
+- 'Vika, I apologize very much.' German follows up briskly across the room, leaving no doubt about where he stands.
+- 'I need to go to the restaurant urgently.' Mentioning the restaurant in front of Vika, German uses "restoran" ("restaurant") to carry the main weight of the thought.
+- 'What, do you need to go right now?' Speaking readily on the spot, Vika leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'Yes, right now, Nagiyev is waiting for me there.' German steps in boldly toward Vika, before Vika can change the subject.
+- 'Excellent, he has left, call our friend.' Talking about his friend on the spot, Barinov lands on "otlichno" ("perfect, great") as the key everyday word here.

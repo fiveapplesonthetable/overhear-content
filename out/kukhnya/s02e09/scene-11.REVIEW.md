@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Believe me, it will be better this way!' Barinov delivers that line to Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'It will be better if you stay in the back!' Senya continues briskly to settle things, watching Barinov's face to see how the news lands.
-- 'Otherwise I will come out and kill all of you!' Barinov highlights one concrete piece right here: "inache" means "otherwise", and it carries the main weight of what Barinov is saying.
-- 'Chef, you are not in your right mind!' Senya states the thought calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am completely in my right mind!' Barinov continues plainly toward Senya, letting the remark speak for itself.
-- 'I need to go on a date!' Senya features one clear piece in reply: "svidaniye" means "date", and it carries the main weight of what Senya is saying.
-- 'Torture, Chef!' Senya voices the reply to Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'I will show you torture!' Senya fires back earnestly to settle things, watching Barinov's face to see how the news lands.
-- 'I am going to kill Senya, damn it!' Barinov favors one practical element in reply: "ubyu" means "I'll kill" (from "ubit"), giving the line its exact edge.
-- 'I want to kill Senya!' Barinov gives that thought for Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'What? Huh?' Turning back with confidence, Barinov makes it clear that he means every single word.
-- 'Huh? What?' Senya aims this line toward Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'Huh? You scoundrels?' Barinov phrases the remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'Believe me, it will be better this way!' Jumping in candidly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'It will be better if you stay in the back!' Senya responds briskly facing Barinov, without trying to dress up how he really feels.
+- 'Otherwise I will come out and kill all of you!' Barinov steps in evenly right here and puts the emphasis on "inache" ("otherwise") in the middle of the talk.
+- 'Chef, you are not in your right mind!' Describing how inappropriate Barinov is with Barinov, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am completely in my right mind!' Barinov responds plainly during the talk, making his position completely clear.
+- 'I need to go on a date!' Underscoring a date in the exchange, Senya puts the emphasis on "svidaniye" ("date") in the middle of the talk.
+- 'Torture, Chef!' Mentioning the attempt during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'I will show you torture!' Senya speaks up earnestly across the room, so Barinov knows he is not just making small talk.
+- 'I am going to kill Senya, damn it!' Talking about the host during the talk, Barinov chooses "ubyu" ("I'll kill", from the root "ubit") so Senya hears the exact meaning.
+- 'I want to kill Senya!' Leaning in firmly with Senya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'What? Huh?' Barinov inquires sharply why things suddenly took this turn between them.
+- 'Huh? What?' Answering candidly right here, Senya keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Huh? You scoundrels?' Addressing the scumbags in this beat, Barinov keeps normal statement word order here, turning the line into a question for Senya purely through rising pitch.

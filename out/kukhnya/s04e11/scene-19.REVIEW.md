@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you deceived me again!' Lyova reaches for this vivid word in reply: "obmanuli" means "cheated" (from "obmanut"), giving the line its exact edge.
-- 'Live however you want now.' Lyova stands firm evenly during the talk, shifting the whole mood of the room in a single beat.
-- 'I do not care about you anymore.' Lyova jumps in warmly with a smile, grounding the moment in plain reality.
-- 'Careful, chef, step back from the wall!' Lyova chooses this key choice in reply: "ostorozhno" means "careful, carefully", and it carries the main weight of what Lyova is saying.
-- 'If I say yes, will you forgive me?' Max states this update facing Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'I did solve the problem after all.' Max opens up warmly as things stand, without trying to dress up how he really feels.
-- 'Forgive me, this was all because of me.' Vika colors one pointed term for Lyova: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
-- 'We still need to change the wheels.' Max offers that line before Vika: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'And there is no story sadder in the world.' Max answers honestly in their talk, without trying to dress up how he really feels.
-- 'Than the story of the stolen wheels.' Max focuses on one vivid term toward Vika: "ukradennykh" means "wheels" (from "ukradennyy"), giving the line its exact edge.
-- 'Good afternoon, how can I help you?' Vika lays out the reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
-- 'Hi, I decided to celebrate my wedding here!' Vika holds firm plainly before Max, shifting the whole mood of the room in a single beat.
-- 'That is great, isn't it?' Max chooses one key piece for Lyova: "pravda" means "honestly", and it carries the main weight of what Max is saying.
+- 'Chef, you deceived me again!' Lyova counters naturally during the talk and centers the thought on "obmanuli" ("cheated", from "obmanut") without wasting a word.
+- 'Live however you want now.' Lyova steps in vividly in this beat and brings in "zhivite" ("to live", from "zhit") as the key Russian word here.
+- 'I do not care about you anymore.' Lyova fires back warmly around Max, watching Max's face to see how the news lands.
+- 'Careful, chef, step back from the wall!' Talking about the walls around Max, Lyova brings in "ostorozhno" ("careful, carefully") to make the meaning unmistakable.
+- 'If I say yes, will you forgive me?' Weighing in warmly during the talk, Max keeps normal statement word order here, turning the line into a question for Lyova purely through rising pitch.
+- 'I did solve the problem after all.' Max responds warmly across the room, keeping the focus on what actually matters here.
+- 'Forgive me, this was all because of me.' Vika steps in evenly in the exchange and uses "prosti" ("sorry, forgive me", from "prostit") to make the point stick.
+- 'We still need to change the wheels.' Touching on the wheels around Vika, Max leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'And there is no story sadder in the world.' Max opens up honestly with a smile, leaving no doubt about where he stands.
+- 'Than the story of the stolen wheels.' Underscoring the wheel around Vika, Max leans on "ukradennykh" ("wheels", a form of "ukradennyy") to give the remark its edge.
+- 'Good afternoon, how can I help you?' Vika plainly sends this daytime greeting right on cue using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'Hi, I decided to celebrate my wedding here!' Vika continues plainly in their talk, grounding the moment in plain reality.
+- 'That is great, isn't it?' Addressing the honestly during the talk, Max puts the emphasis on "pravda" ("honestly") in the middle of the talk.

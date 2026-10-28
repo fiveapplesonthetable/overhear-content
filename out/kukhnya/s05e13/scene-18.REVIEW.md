@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, this is Maxim's secret brother Vlad!' Kostya responds steadily before Barinov, bringing things back to earth after the buildup.
-- 'He is the one who slyly framed Max his whole life!' Kostya points to one direct element on cue: "podstavlyal" means "frame, set up" (from "podstavlyat"), giving the line its exact edge.
-- 'He is the one who lied to everyone and kissed Sasha!' Kostya answers boldly as they talk, leaving no doubt about where he stands.
-- 'Tell the court, Vlad, is this really true?' Barinov challenges straight out why things suddenly took this turn between them.
-- 'Can you answer properly, yes or no?' Barinov picks this direct term in reply: "normalno" means "fine, OK", and it carries the main weight of what Barinov is saying.
-- 'Judge, brother, why are you pestering me?' Max puts the comment around Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
-- 'I just nodded to you properly!' Max steps in calmly watching Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'For false testimony you will go to prison!' Barinov highlights one pointed detail toward Max: "pokazaniya" means "testimony" (from "pokazaniye"), giving the line its exact edge.
-- 'I will file a complaint against you in court!' Max frames this point with warmth: the "-sya" ending on "zhalovatsya" ("complain") turns the action inward or makes it happen between people naturally.
-- 'Thus, the court has ruled to find Maxim Lavrov guilty!' Barinov counters calmly to settle things, leaving no doubt about where he stands.
-- 'To find him guilty of treacherous infidelity to his wife!' Barinov uses one familiar term at once: "vinovnym" means "guilty" (from "vinovnyy"), giving the line its exact edge.
-- 'Carry out the court's sentence immediately!' Barinov cuts in openly during the talk, watching Max's face to see how the news lands.
+- 'Look, this is Maxim's secret brother Vlad!' Kostya opens up steadily beside Max, shifting the mood of the conversation in a single beat.
+- 'He is the one who slyly framed Max his whole life!' Focusing on the life on the spot, Kostya lands on "podstavlyal" ("frame, set up", built on "podstavlyat") to keep the statement grounded.
+- 'He is the one who lied to everyone and kissed Sasha!' Kostya answers briskly beside Barinov and brings in "potseloval" ("to kiss", from "potselovat") as the key Russian word here.
+- 'Tell the court, Vlad, is this really true?' Barinov challenges straight out where this conversation is heading next.
+- 'Can you answer properly, yes or no?' Barinov replies pointedly before Max and brings in "normalno" ("fine, OK") to make the meaning unmistakable.
+- 'Judge, brother, why are you pestering me?' Answering earnestly around Barinov, Max puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'I just nodded to you properly!' Max counters calmly without a pause, keeping the focus on what actually matters here.
+- 'For false testimony you will go to prison!' Bringing up the testimony in this beat, Barinov chooses "pokazaniya" ("testimony", from the root "pokazaniye") so Max hears the exact meaning.
+- 'I will file a complaint against you in court!' Answering naturally around Barinov, the "-sya" ending on "zhalovatsya" ("complain") marks an action that unfolds mutually or turns back on the speaker.
+- 'Thus, the court has ruled to find Maxim Lavrov guilty!' Barinov fires back calmly during the talk, testing Max's reaction in the middle of the exchange.
+- 'To find him guilty of treacherous infidelity to his wife!' Touching on the treason with Max, Barinov lands on "vinovnym" ("guilty", built on "vinovnyy") to keep the statement grounded.
+- 'Carry out the court's sentence immediately!' Focusing on the execution on the spot, Barinov puts the emphasis on "ispolneniye" ("execution, fulfillment") in the middle of the talk.

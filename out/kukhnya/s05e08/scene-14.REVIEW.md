@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If Katya is in the harem, maybe Nastya is there too?' Kostya shapes this statement toward Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Call her one more time.' Max proceeds plainly across the room, leaving no doubt about where he stands.
-- 'Maybe you will answer? Kostya is worried.' Max underscores one telling touch on cue: "volnuyetsya" means "worries" (from "volnovatsya"), giving the line its exact edge.
-- 'That is alright, it is good for him.' Nastya makes the thought frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'So what is the surprise that you scared me over?' Nastya asks calmly as Kostya tries to explain the situation.
-- 'We talked it over here and thought about it.' Max colors one direct expression right here: "posovetovalis" means "consulted" (from "posovetovatsya"), giving the line its exact edge.
-- 'Your family is big now.' Max frames this line without pause: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
-- 'And we bought you an SUV!' Max replies earnestly around Nastya, before Nastya can change the subject.
-- 'Such a huge car?' Nastya colors one pointed choice toward Kostya: "ogromnuyu" means "huge, enormous" (from "ogromnyy"), giving the line its exact edge.
-- 'Get behind the wheel, daughter!' Max shapes that reply with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'She is still not picking up the phone!' Kostya weighs in candidly as things stand, watching Max's face to see how the news lands.
-- 'Let us go look for her in the rooms.' Max points to this telling piece on cue: "nomeram" means "around the rooms" (from "nomer"), giving the line its exact edge.
+- 'If Katya is in the harem, maybe Nastya is there too?' Checking on the harem in this beat, Kostya keeps normal statement word order here, turning the line into a question for Nastya purely through rising pitch.
+- 'Call her one more time.' Max proceeds plainly across the room, watching Kostya's face to see how the news lands.
+- 'Maybe you will answer? Kostya is worried.' Max cuts in firmly to Kostya and centers the thought on "volnuyetsya" ("worries", from "volnovatsya") without wasting a word.
+- 'That is alright, it is good for him.' Cutting in openly to Max, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'So what is the surprise that you scared me over?' Nastya asks calmly about what Max just brought up.
+- 'We talked it over here and thought about it.' Max speaks up dryly with Nastya and brings in "posovetovalis" ("consulted", from "posovetovatsya") as the key Russian word here.
+- 'Your family is big now.' Describing how large things are around Nastya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And we bought you an SUV!' Max steps in earnestly with a shrug, watching Nastya's face to see how the news lands.
+- 'Such a huge car?' Emphasizing a huge car in the exchange, Nastya brings in "ogromnuyu" ("huge, enormous", from "ogromnyy") as the key Russian word here.
+- 'Get behind the wheel, daughter!' Checking on the dear in the exchange, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'She is still not picking up the phone!' Kostya counters candidly in this moment, before Max can change the subject.
+- 'Let us go look for her in the rooms.' Emphasizing the rooms in the exchange, Max lands on "nomeram" ("around the rooms", built on "nomer") to keep the statement grounded.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does Dad know about this?' Katya underscores one key choice on cue: "papa" means "Dad", and it carries the main weight of what Katya is saying.
-- 'And here is your dish, almost the same as your grandmother's!' Barinov brings that reply plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Thank you, but I am already full.' The guest answers dryly in this moment, keeping the focus on what actually matters here.
-- 'I beg you, at least smell it!' Barinov focuses on one practical piece at once: "ponyukhayte" means "smell" (from "ponyukhat"), giving the line its exact edge.
-- 'Be so kind, smell the dish.' Barinov pushes back firmly beside the guest, to clear the air between them once and for all.
-- 'My eyes, my eyes!' The guest holds firm lightly with a shrug, shifting the whole mood of the room in a single beat.
-- 'You are both simply crazy!' Katya favors one clear word at once: "sumasshedshiye" means "crazy, insane" (from "sumasshedshiy"), giving the line its exact edge.
-- 'Do not worry, I will buy you dark glasses.' Barinov aims the comeback briskly now: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
-- 'Dad, I will explain everything to you right now.' Katya continues quietly in their talk, so Barinov knows she is not just making small talk.
-- 'What can you possibly explain to me?' Barinov uses one telling element in reply: "obyasnit" means "to explain", and it carries the main weight of what Barinov is saying.
-- 'It was just a joke!' Katya gives this update on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
-- 'Dad, what is wrong with you, Vitya?' Katya prompts calmly to see how the guest will answer on the spot.
+- 'Does Dad know about this?' Emphasizing the dad during the talk, Katya reaches for the Russian word "papa" ("Dad") right at the heart of the line.
+- 'And here is your dish, almost the same as your grandmother's!' Pointing to the grandmothers to Katya, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Thank you, but I am already full.' The guest simply sends this word of thanks in front of Barinov using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").
+- 'I beg you, at least smell it!' Barinov proceeds firmly before the guest and leans on "ponyukhayte" ("smell", a form of "ponyukhat") to give the remark its edge.
+- 'Be so kind, smell the dish.' Mentioning the dish at once, Barinov lands on "ponyukhayte" ("smell", built on "ponyukhat") to keep the statement grounded.
+- 'My eyes, my eyes!' The guest continues lightly around Barinov, before Barinov can change the subject.
+- 'You are both simply crazy!' Emphasizing how crazy the guest is in the exchange, Katya chooses "sumasshedshiye" ("crazy, insane", from the root "sumasshedshiy") so the guest hears the exact meaning.
+- 'Do not worry, I will buy you dark glasses.' Barinov weighs in wryly on the spot, so Katya knows he is not just making small talk.
+- 'Dad, I will explain everything to you right now.' Katya reacts quietly without holding back, to clear the air between them once and for all.
+- 'What can you possibly explain to me?' Barinov counters vividly at once and brings in "obyasnit" ("to explain") to make the meaning unmistakable.
+- 'It was just a joke!' Dwelling on a joke before Barinov, Katya uses the little word "prosto" ("simply, just") to make the point sound effortless.
+- 'Dad, what is wrong with you, Vitya?' Katya prompts calmly how Barinov expects that to work in practice.

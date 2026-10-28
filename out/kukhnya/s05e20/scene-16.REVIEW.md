@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, Katya, how is our chef doing there?' Gulya hands over the reaction without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'The doctors said everything is fine, he will live.' Katya frames that remark in earnest: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
-- 'Honestly speaking, I was so scared for him.' Katya replies decisively with Gulya, to clear the air between them once and for all.
-- 'Listen, do you want me to cheer you up?' Gulya leans on this sharp element in reply: "nastroyeniye" means "mood", and it carries the main weight of what Gulya is saying.
-- 'Sit down here for a minute and take a look.' Gulya speaks firmly without holding back, grounding the moment in plain reality.
-- 'Those jokers Fedya and Senya pranked Lyova and me.' Gulya chimes in briskly across the room, refusing to let the moment slip past.
-- 'They were writing messages to me from his phone.' Gulya stresses one classic piece for Katya: "soobshcheniya" means "messages" (from "soobshcheniye"), giving the line its exact edge.
-- 'Oh, the screen disappeared, I pressed something.' Katya proceeds boldly beside Gulya, keeping the focus on what actually matters here.
-- 'Wait, this is Nikita's phone after all.' Katya speaks up pointedly with a smile, saying out loud what both of them already know.
-- 'And why is my mom in the messages here?' Katya favors one practical word toward Gulya: "perepiske" means "correspondence" (from "perepiska"), giving the line its exact edge.
-- 'Have they really been texting each other all this time?' Katya shapes this update to Gulya: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
-- 'Oh, Katya, I knew nothing about that.' Gulya proceeds honestly with a smile, leaving no doubt about where she stands.
+- 'Well, Katya, how is our chef doing there?' Replying dryly before Katya, Gulya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'The doctors said everything is fine, he will live.' Discussing the doctors to Gulya, Katya chooses "vrachi" ("doctors", from the root "vrach") so Gulya hears the exact meaning.
+- 'Honestly speaking, I was so scared for him.' Katya counters decisively watching Gulya, steering the talk right where she wants it.
+- 'Listen, do you want me to cheer you up?' Discussing the mood beside Katya, Gulya brings in "nastroyeniye" ("mood") to make the meaning unmistakable.
+- 'Sit down here for a minute and take a look.' Pointing to a minute around Katya, Gulya puts the weight on "minutku" ("a minute", from "minutka") as the exchange unfolds.
+- 'Those jokers Fedya and Senya pranked Lyova and me.' Gulya follows up briskly toward Katya, before Katya can change the subject.
+- 'They were writing messages to me from his phone.' Bringing up the messages in this beat, Gulya brings in "soobshcheniya" ("messages", from "soobshcheniye") as the key Russian word here.
+- 'Oh, the screen disappeared, I pressed something.' Addressing the picture before Gulya, Katya chooses "kartinka" ("picture, illustration") so Gulya gets the point right away.
+- 'Wait, this is Nikita's phone after all.' Raising the phone with a sigh, Katya brings the exchange with Gulya back to practical reality.
+- 'And why is my mom in the messages here?' Talking about the correspondence during the talk, Katya brings in "perepiske" ("correspondence", from "perepiska") as the key Russian word here.
+- 'Have they really been texting each other all this time?' Turning to the time at once, Katya leads with "neuzheli" ("can it really be that...?") to pack disbelief into the first beat.
+- 'Oh, Katya, I knew nothing about that.' Gulya counters honestly with a sigh, leaving no doubt about where she stands.

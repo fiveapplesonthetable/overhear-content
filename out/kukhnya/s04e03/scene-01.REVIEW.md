@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Barinov, Viktor Petrovich.' The inspector shapes this warning facing Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I understand. What will happen to me for this?' Barinov frames this point to the inspector: putting the question word "chto" right at the front of the line lets the inspector hear the point of the question on the very first beat.
-- 'I think that we will let you go.' The inspector reacts plainly as they talk, shifting the whole mood of the room in a single beat.
-- 'You have very influential friends, Viktor Petrovich.' The inspector grounds one key choice in reply: "vliyatelnyye" means "influential" (from "vliyatelnyy"), giving the line its exact edge.
-- 'I agree to everything.' Barinov sends the thought in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Elena Pavlovna will state the condition to you.' The inspector responds promptly with a shrug, leaving no doubt about where he stands.
-- 'He is just an old acquaintance.' Elena spotlights one familiar piece for Barinov: "znakomyy" means "familiar", and it carries the main weight of what Elena is saying.
-- 'Will you give me a ride home?' Barinov voices that point with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for the inspector purely through rising pitch at the end.
-- 'I can't, I am without a car today.' Elena opens up calmly in this moment, keeping the focus on what actually matters here.
-- 'Alright, I will walk on foot.' Barinov highlights one concrete term with the inspector: "proydus" means "to walk over" (from "proytis"), giving the line its exact edge.
-- 'And what,actually, is the condition?' Barinov lays out that reply in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Tomorrow you start working for me as my sous-chef.' Elena speaks pointedly beside the inspector, grounding the moment in plain reality.
+- 'Barinov, Viktor Petrovich.' Holding firm quietly to Barinov, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I understand. What will happen to me for this?' Holding firm promptly during the talk, Barinov puts the question word "chto" right at the start so the inspector hears the focus immediately.
+- 'I think that we will let you go.' The inspector continues plainly facing Barinov, letting the remark speak for itself.
+- 'You have very influential friends, Viktor Petrovich.' Addressing the friends before Barinov, the inspector centers the thought on "vliyatelnyye" ("influential", from "vliyatelnyy") without wasting a word.
+- 'I agree to everything.' Weighing in calmly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Elena Pavlovna will state the condition to you.' The inspector continues promptly beside Elena, letting the remark speak for itself.
+- 'He is just an old acquaintance.' Describing how familiar he is around the inspector, Elena centers the remark on "znakomyy" ("familiar") without any extra fuss.
+- 'Will you give me a ride home?' Replying briskly around Elena, Barinov keeps normal statement word order here, turning the line into a question for Elena purely through rising pitch.
+- 'I can't, I am without a car today.' Elena responds calmly on the spot, testing Barinov's reaction in the middle of the exchange.
+- 'Alright, I will walk on foot.' Barinov promptly directs this word of agreement with Elena using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'And what,actually, is the condition?' Discussing the conditions right here, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Tomorrow you start working for me as my sous-chef.' Elena steps in pointedly beside Barinov, watching Barinov's face to see how the news lands.

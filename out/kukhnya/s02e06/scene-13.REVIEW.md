@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, Ilya, stop laughing.' Nagiyev centers one loaded word at once: "khvatit" means "enough", and it carries the main weight of what Nagiyev is saying.
-- 'Where is Kristina supposed to be?' Ilya brings that reply in earnest: putting the question word "gde" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
-- 'Get back to your post quickly to greet the guests.' Ilya fires back boldly toward Kristina, without trying to dress up how he really feels.
-- 'Girls, look alive, hurry up.' Nagiyev favors one practical choice in earnest: "devochki" means "girl's" (from "devochka"), giving the line its exact edge.
-- 'We will do it ourselves.' Kristina makes the remark around Ilya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Good afternoon.' Ilya answers decisively in their talk, leaving no doubt about where he stands.
-- 'I would definitely take her for a spin.' Nagiyev highlights one key choice right here: "otfrityuril" means "to deep-fry" (from "otfrityurit"), giving the line its exact edge.
-- 'I would take her for a spin too.' Kristina jumps in bluntly to be clear, letting the remark speak for itself.
-- 'Except she is a high-flying bird.' Ilya chimes in warmly to settle things, leaving no doubt about where he stands.
-- 'To her, we are nobodies.' Nagiyev shares that reply facing Kristina: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Listen, who even are you?' Kristina shares the remark with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
-- 'Hello, Dmitry Vladimirovich.' Ilya reacts boldly without any doubt, without trying to dress up how he really feels.
-- 'I am glad to see you too, Kristina.' Nagiyev leans on this clear touch on cue: "tozhe" means "too", and it carries the main weight of what Nagiyev is saying.
+- 'All right, Ilya, stop laughing.' Nagiyev speaks up vividly to Ilya and centers the remark on "khvatit" ("enough") without any extra fuss.
+- 'Where is Kristina supposed to be?' Jumping in naturally during the talk, Ilya puts the question word "gde" right at the start so Kristina hears the focus immediately.
+- 'Get back to your post quickly to greet the guests.' Ilya replies boldly beside Nagiyev, keeping the focus on what actually matters here.
+- 'Girls, look alive, hurry up.' Talking about the girl during the talk, Nagiyev leans on "devochki" ("girl's", a form of "devochka") to give the remark its edge.
+- 'We will do it ourselves.' Cutting in evenly during the talk, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Good afternoon.' Ilya firmly speaks this daytime greeting with Nagiyev using "dobryy den" ("good afternoon") — literally "good day", the standard Russian greeting from late morning through afternoon.
+- 'I would definitely take her for a spin.' Nagiyev replies readily during the talk and chooses "otfrityuril" ("to deep-fry", from the root "otfrityurit") so Ilya hears the exact meaning.
+- 'I would take her for a spin too.' Kristina continues briskly in front of Nagiyev and lands on "otfrityuril" ("to deep-fry", built on "otfrityurit") to keep the statement grounded.
+- 'Except she is a high-flying bird.' Ilya pushes back warmly without a pause, without trying to dress up how he really feels.
+- 'To her, we are nobodies.' Following up promptly in the exchange, Nagiyev links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Listen, who even are you?' Turning plainly in front of Ilya, Kristina drops in "voobshche" ("in general, altogether") to sum up the whole situation at once.
+- 'Hello, Dmitry Vladimirovich.' Ilya directly offers this formal greeting right on cue using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'I am glad to see you too, Kristina.' Nagiyev answers pointedly to Kristina and lands on "videt" ("to see") as the key everyday word here.

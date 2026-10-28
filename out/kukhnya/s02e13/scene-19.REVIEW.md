@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on in, have a seat.' Fedya features this vivid expression for Max: "prisazhivaytes" means "have a seat" (from "prisazhivatsya"), giving the line its exact edge.
-- 'So that they do not put a single gram of meat on your plate.' Max spotlights this sharp touch in reply: "polozhili" means "to put, to lay down" (from "polozhit"), giving the line its exact edge.
-- 'Actually, I came back here specifically for that reason.' Fedya responds briskly in their talk, testing Max's reaction in the middle of the exchange.
-- 'To taste a nice, juicy steak.' Max frames this key touch with Fedya: "sochnyy" means "juicy", and it carries the main weight of what Max is saying.
-- 'That is a very funny joke.' Fedya frames the reaction plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I am completely serious.' Max fires back candidly beside Fedya, before Fedya can change the subject.
-- 'There is already so little joy in life.' Fedya anchors one practical piece toward Max: "radosti" means "joy" (from "radost"), giving the line its exact edge.
-- 'What is a human being, after all?' Max hands over the reaction with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Then suddenly some nonsense happens, and our habits change.' Fedya holds firm decisively during the talk, leaving no doubt about where he stands.
-- 'Sometimes we change thanks to the people we love.' Max picks one key touch in earnest: "menyayemsya" means "to change, alter" (from "menyatsya"), giving the line its exact edge.
-- 'I am coming over right now, I missed you.' Fedya voices the comment right away: the "-sya" ending on "soskuchilsya" ("missed") turns the action inward or makes it happen between people naturally.
-- 'And sometimes it happens like this.' Max counters plainly with a smile, letting the remark speak for itself.
-- 'Who will now start changing themselves for each other.' Fedya points to this vivid element with Max: "menyatsya" means "to change", and it carries the main weight of what Fedya is saying.
+- 'Come on in, have a seat.' Fedya replies directly right here and uses "prisazhivaytes" ("have a seat", from "prisazhivatsya") to make the point stick.
+- 'So that they do not put a single gram of meat on your plate.' Max answers boldly with a nod, making his position completely clear.
+- 'Actually, I came back here specifically for that reason.' Fedya answers briskly with Max, leaving no doubt about where he stands.
+- 'To taste a nice, juicy steak.' Max answers readily with Fedya and uses "sochnyy" ("juicy") to carry the main weight of the thought.
+- 'That is a very funny joke.' Highlighting how funny things are to Max, Fedya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I am completely serious.' Max jumps in candidly facing Fedya, steering the talk right where he wants it.
+- 'There is already so little joy in life.' Pointing to the joy right here, Fedya centers the thought on "radosti" ("joy", from "radost") without wasting a word.
+- 'What is a human being, after all?' Replying firmly with Fedya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Then suddenly some nonsense happens, and our habits change.' Fedya answers decisively on the spot, shifting the mood of the conversation in a single beat.
+- 'Sometimes we change thanks to the people we love.' Max cuts in boldly right here and leans on "menyayemsya" ("to change, alter", a form of "menyatsya") to give the remark its edge.
+- 'I am coming over right now, I missed you.' Reacting frankly during the talk, the "-sya" ending on "soskuchilsya" ("missed") marks an action that unfolds mutually or turns back on the speaker.
+- 'And sometimes it happens like this.' Max replies plainly without holding back, before Fedya can change the subject.
+- 'Who will now start changing themselves for each other.' Focusing on the friend during the talk, Fedya chooses "menyatsya" ("to change") so Max gets the point right away.

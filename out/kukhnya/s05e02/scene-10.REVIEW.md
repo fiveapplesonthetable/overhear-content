@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What were you thinking when you started a fire in the room?' Mikhail focuses on this clear word right here: "pozhar" means "fire, blaze", and it carries the main weight of what Mikhail is saying.
-- 'Back off, I need to take the sauce off the heat.' Barinov delivers that answer without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
-- 'What have you just done?!' Barinov prompts point-blank in front of Mikhail without any preamble.
-- 'Mikhail, it seems the secret guest has arrived.' Vika grounds this telling detail right here: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
-- 'Which one? Where is he right now?' Mikhail puts that reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'He is right here, next to the owner.' Vika fires back honestly facing Mikhail, steering the talk right where she wants it.
-- 'Well, where is he standing over there?' Barinov reaches for one clear choice on cue: "stoit" means "is parked" (from "stoyat"), giving the line its exact edge.
-- 'There he is standing by the counter.' Vika speaks up at once during the talk, testing Mikhail's reaction in the middle of the exchange.
-- 'Vitya, look, they are asking for you already.' Vika reacts quietly with Barinov, keeping the focus on what actually matters here.
-- 'He is standing with a suitcase in glasses.' Vika stresses one familiar detail with Mikhail: "chemodanom" means "suitcase, luggage bag" (from "chemodan"), giving the line its exact edge.
-- 'He is clearly dissatisfied with something already.' Vika states the reaction right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I will go prepare a welcome gift for him.' Barinov chimes in pointedly watching Vika, bringing things back to earth after the buildup.
+- 'What were you thinking when you started a fire in the room?' Highlighting a fire to Barinov, Mikhail leans on "pozhar" ("fire, blaze") to give the whole sentence its punch.
+- 'Back off, I need to take the sauce off the heat.' Pointing to the sauce beside Mikhail, Barinov leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'What have you just done?!' Barinov prompts point-blank how Vika expects that to work in practice.
+- 'Mikhail, it seems the secret guest has arrived.' Talking about the secret guest beside Mikhail, Vika puts the weight on "kazhetsya" ("it seems, I think", from "kazatsya") as the exchange unfolds.
+- 'Which one? Where is he right now?' Holding firm frankly to Vika, Mikhail links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'He is right here, next to the owner.' Vika steps in honestly toward Mikhail, steering the talk right where she wants it.
+- 'Well, where is he standing over there?' Barinov continues pointedly in this beat and reaches for the Russian word "stoit" ("is parked", built from "stoyat") right at the center of the line.
+- 'There he is standing by the counter.' Turning to the counter right here, Vika puts the weight on "stoyki" ("counter, bar", from "stoyka") as the exchange unfolds.
+- 'Vitya, look, they are asking for you already.' Vika reacts quietly on the spot, leaving no doubt about where she stands.
+- 'He is standing with a suitcase in glasses.' Bringing up a suitcase with Barinov, Vika chooses "chemodanom" ("suitcase, luggage bag", from the root "chemodan") so Barinov hears the exact meaning.
+- 'He is clearly dissatisfied with something already.' Confirming how dissatisfied he is around Barinov, Vika links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I will go prepare a welcome gift for him.' Barinov pushes back pointedly in their talk, before Vika can change the subject.

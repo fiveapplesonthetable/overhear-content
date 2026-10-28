@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you completely lost your conscience?' Barinov stresses one clear word in earnest: "poteryala" means "lost, wasted" (from "poteryat"), giving the line its exact edge.
-- 'March into my office right now!' Barinov holds firm plainly without any doubt, leaving no doubt about where he stands.
-- 'Victor Petrovich, do not shout at Katya!' Lyova chimes in honestly in this moment, before Barinov can change the subject.
-- 'She must not get nervous, she is having a flare-up!' Lyova favors this vivid detail at once: "obostreniye" means "flare-up, relapse", and it carries the main weight of what Lyova is saying.
-- 'What kind of flare-up are you having, daughter?' Barinov frames that point at once: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Lyova, is everything alright with your head?' Barinov questions sharply where this conversation is heading next.
-- 'It was Max who told me all that about her!' Lyova favors this vivid element in reply: "nagovoril" means "told" (from "nagovorit"), giving the line its exact edge.
-- 'I said nothing, Lyova simply misunderstood me.' Max gives this point frankly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Have you completely lost your conscience?' Touching on the conscience in the exchange, Barinov lands on "sovest" ("conscience") as the key everyday word here.
+- 'March into my office right now!' Underscoring his office at once, Barinov chooses "kabinet" ("office") so Lyova gets the point right away.
+- 'Victor Petrovich, do not shout at Katya!' Lyova responds honestly without holding back, to clear the air between them once and for all.
+- 'She must not get nervous, she is having a flare-up!' Addressing a flare right here, Lyova puts the emphasis on "obostreniye" ("flare-up, relapse") in the middle of the talk.
+- 'What kind of flare-up are you having, daughter?' Returning to the flare right here, Barinov uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Lyova, is everything alright with your head?' Barinov questions sharply about what Lyova just brought up.
+- 'It was Max who told me all that about her!' Lyova counters wryly with a nod, so Max knows he is not just making small talk.
+- 'I said nothing, Lyova simply misunderstood me.' Holding firm candidly in the exchange, Max uses the little word "prosto" ("simply, just") to make the point sound effortless.
 - 'So all of that was untrue, right?' Lyova quizzes briskly what Barinov is actually getting at here.
-- 'And that she stayed in a clinic?' Barinov spotlights this vivid detail with Max: "klinike" means "clinic, hospital" (from "klinika"), giving the line its exact edge.
-- 'Victor Petrovich, please, just do not!' Max aims the reaction with ease: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'Run away from here quickly, come on, stop!' Barinov stands firm evenly around Max, so Max knows he is not just making small talk.
+- 'And that she stayed in a clinic?' Talking about a clinic during the talk, Barinov puts the weight on "klinike" ("clinic, hospital", from "klinika") as the exchange unfolds.
+- 'Victor Petrovich, please, just do not!' Answering plainly at once, Max leans on "nado" ("it is necessary, one needs to"), which carries the whole predicate in Russian without needing "it is".
+- 'Run away from here quickly, come on, stop!' Barinov jumps in evenly with a sigh, refusing to let the moment slip past.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did you get Dmitry Nagiyev's real moccasins?!' Barinov questions bluntly as Ainura tries to explain the situation.
-- 'It does not matter how, Viktor Petrovich, the main thing is the result!' Denis picks one sharp expression toward Barinov: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.
-- 'Well then, have I earned your trust now?' Denis makes this warning with candor: putting the question word "chto" right at the front of the line lets Ainura hear the point of the question on the very first beat.
-- 'Denis, you understand, Katya and I played an unkind joke.' Barinov chimes in briskly with a sigh, making his position completely clear.
-- 'Katya always decides for herself whom to date.' Barinov grounds one sharp choice in earnest: "vstrechatsya" means "to meet", and it carries the main weight of what Barinov is saying.
-- 'Forgive me, lad, I went too far.' Barinov drops the reaction without pause: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
-- 'Oh my goodness, who is shouting in the dark basement?!' Ainura wonders eagerly about what Barinov just brought up.
-- 'Dmitry Vladimirovich, it is me, the cleaner Ainura!' Barinov centers one pointed detail for Denis: "uborshchitsa" means "cleaning lady", and it carries the main weight of what Barinov is saying.
-- 'Nagiyev is shouting that he is locked inside the coffin!' Barinov weighs in firmly to settle things, leaving no doubt about where he stands.
-- 'But why is your coffin standing in the basement?' Ainura tests straight out about what Denis just brought up.
-- 'I will quickly call our strong movers right now!' Ainura focuses on this vivid detail in reply: "gruzchikov" means "movers, loaders" (from "gruzchik"), giving the line its exact edge.
-- 'Hang on, Dmitry Vladimirovich, we will open you up soon!' Ainura makes this answer facing Denis: the "-sya" ending on "derzhites" ("stick") turns the action inward or makes it happen between people naturally.
+- 'Where did you get Dmitry Nagiyev's real moccasins?!' Barinov questions bluntly about what Denis just brought up.
+- 'It does not matter how, Viktor Petrovich, the main thing is the result!' Highlighting how important things are to Barinov, Denis reaches for the Russian word "glavnoye" ("important", built from "glavnyy") right at the center of the line.
+- 'Well then, have I earned your trust now?' Leaning in openly in this beat, Denis puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Denis, you understand, Katya and I played an unkind joke.' Barinov responds briskly without any doubt, watching Denis's face to see how the news lands.
+- 'Katya always decides for herself whom to date.' Barinov answers readily to Denis and lands on "vstrechatsya" ("to meet") as the key everyday word here.
+- 'Forgive me, lad, I went too far.' Pointing to the boyfriend in front of Ainura, Barinov uses "paren" ("boyfriend") to carry the main weight of the thought.
+- 'Oh my goodness, who is shouting in the dark basement?!' Ainura wonders eagerly before Barinov can change the subject.
+- 'Dmitry Vladimirovich, it is me, the cleaner Ainura!' Underscoring the cleaning lady in the exchange, Barinov brings in "uborshchitsa" ("cleaning lady") to make the meaning unmistakable.
+- 'Nagiyev is shouting that he is locked inside the coffin!' Focusing on the coffin before Ainura, Barinov lands on "zapert" ("coffin") as the key everyday word here.
+- 'But why is your coffin standing in the basement?' Ainura tests straight out why things suddenly took this turn between them.
+- 'I will quickly call our strong movers right now!' Highlighting the movers during the talk, Ainura brings in "gruzchikov" ("movers, loaders", from "gruzchik") as the key Russian word here.
+- 'Hang on, Dmitry Vladimirovich, we will open you up soon!' Reacting dryly around Barinov, the "-sya" ending on "derzhites" ("stick") marks an action that unfolds mutually or turns back on the speaker.

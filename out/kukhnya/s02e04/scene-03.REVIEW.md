@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Damn, it looks like I forgot my passport at Vika's.' Barinov speaks candidly in this moment, bringing things back to earth after the buildup.
-- 'Unless, of course, she has thrown it out already.' Vika emphasizes one clear expression right here: "vybrosila" means "threw out" (from "vybrosit"), giving the line its exact edge.
-- 'Kostyan, do not be dense, who am I going to call now.' Barinov speaks warmly with Kostya, before Kostya can change the subject.
-- 'You should not have cheated on her.' Barinov speaks up bluntly in this moment, before Vika can change the subject.
-- 'So she is there too.' Vika chooses one direct element in reply: "tozhe" means "too", and it carries the main weight of what Vika is saying.
-- 'Wait, I still have the keys to the apartment.' Kostya drops that point right away: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Could you please invite Viktoriya Sergeyevna to the phone.' Barinov pushes back evenly with a shrug, without trying to dress up how he really feels.
-- 'Is she at work?' Vika frames this key touch in reply: "rabote" means "work" (from "rabota"), giving the line its exact edge.
-- 'Where is our Viktoriya Sergeyevna?' Kostya voices the comment with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'She has a day off today.' Barinov proceeds decisively in their talk, letting the remark speak for itself.
-- 'At Viktoriya Sergeyevna's...' Vika states that thought at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Viktor Petrovich, out there...' Kostya shares this statement in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'I want to, but I cannot.' Barinov replies promptly on the spot, shifting the whole mood of the room in a single beat.
+- 'Damn, it looks like I forgot my passport at Vika's.' Barinov proceeds candidly with Vika, before Vika can change the subject.
+- 'Unless, of course, she has thrown it out already.' Vika steps in naturally beside Barinov and leans on "vybrosila" ("threw out", a form of "vybrosit") to give the remark its edge.
+- 'Kostyan, do not be dense, who am I going to call now.' Barinov follows up plainly beside Kostya and centers the thought on "pozvonyu" ("will call", from "pozvonit") without wasting a word.
+- 'You should not have cheated on her.' Barinov steps in bluntly with a sigh, without trying to dress up how he really feels.
+- 'So she is there too.' Following up calmly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Wait, I still have the keys to the apartment.' Kostya follows up openly on the spot, watching Vika's face to see how the news lands.
+- 'Could you please invite Viktoriya Sergeyevna to the phone.' Barinov opens up evenly hearing Kostya, so Kostya knows he is not just making small talk.
+- 'Is she at work?' Touching on the work with Kostya, Vika uses "rabote" ("work", from "rabota") to make the point stick.
+- 'Where is our Viktoriya Sergeyevna?' Jumping in plainly at once, Kostya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'She has a day off today.' Barinov replies decisively watching Kostya, refusing to let the moment slip past.
+- 'At Viktoriya Sergeyevna's...' Looking over smoothly at once, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Viktor Petrovich, out there...' Following up candidly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'I want to, but I cannot.' Barinov counters promptly with a nod, grounding the moment in plain reality.

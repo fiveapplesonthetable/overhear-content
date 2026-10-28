@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She threatened to say that I undressed her?' Barinov directs the reply with warmth: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
-- 'Well, and when will she return?' Barinov wonders openly while looking straight at Katya here.
-- 'I do not know, she said she would go to the Metropol for an hour.' Katya grounds this clear element for Barinov: "chasik" means "an hour or so", and it carries the main weight of what Katya is saying.
-- 'I gave her my cell phone just in case.' Katya jumps in firmly to settle things, letting the remark speak for itself.
-- 'Oh, someone is knocking!' Katya fires back honestly watching Barinov, without trying to dress up how she really feels.
-- 'Yulya, it is time for dinner.' Barinov points to one memorable piece in reply: "uzhin" means "dinner", and it carries the main weight of what Barinov is saying.
-- 'Hello, Dad, I am doomed!' Katya puts this update beside Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'They called me to dinner!' Katya chimes in lightly to be clear, testing Barinov's reaction in the middle of the exchange.
-- 'Alright, calm down.' Barinov leans on one pointed piece for Katya: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
-- 'Find her clothes and put them on.' Barinov follows up openly with Katya, making his position completely clear.
-- 'Dad, I am very scared!' Katya opens up dryly facing Barinov, grounding the moment in plain reality.
-- 'Do not be afraid, I will think of something.' Barinov centers one key word for Katya: "pridumayu" means "will come up with" (from "pridumat"), giving the line its exact edge.
+- 'She threatened to say that I undressed her?' Cutting in plainly beside Katya, Barinov puts the question word "chto" right at the start so Katya hears the focus immediately.
+- 'Well, and when will she return?' Barinov wonders openly if there is more going on behind the scenes.
+- 'I do not know, she said she would go to the Metropol for an hour.' Talking about an hour in front of Barinov, Katya centers the remark on "chasik" ("an hour or so") without any extra fuss.
+- 'I gave her my cell phone just in case.' Talking about the cell phone beside Barinov, Katya puts the emphasis on "mobilnik" ("cell phone") in the middle of the talk.
+- 'Oh, someone is knocking!' Katya steps in honestly watching Barinov, bringing things back to earth after the buildup.
+- 'Yulya, it is time for dinner.' Focusing on the dinner in front of Katya, Barinov leans on "uzhin" ("dinner") to give the whole sentence its punch.
+- 'Hello, Dad, I am doomed!' Turning to the end on the spot, Katya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'They called me to dinner!' Katya follows up lightly watching Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Alright, calm down.' Barinov replies quietly in this beat and chooses "uspokoysya" ("calm down", from the root "uspokoitsya") so Katya hears the exact meaning.
+- 'Find her clothes and put them on.' Addressing the clothes on the spot, Barinov puts the weight on "odezhdu" ("clothes", from "odezhda") as the exchange unfolds.
+- 'Dad, I am very scared!' Katya reacts dryly during the talk, letting the remark speak for itself.
+- 'Do not be afraid, I will think of something.' Barinov proceeds naturally right here and brings in "pridumayu" ("will come up with", from "pridumat") as the key Russian word here.

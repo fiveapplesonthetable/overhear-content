@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey there, who do we have here?' Senya voices this answer on cue: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'Hello, I was giving her tea.' Denis stands firm bluntly to be clear, so Senya knows he is not just making small talk.
-- 'Good morning to all of you.' Katya reaches for one familiar touch in earnest: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
-- 'Senya, why are you embarrassing people?' Denis puts that line facing Senya: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
-- 'All right, let's go have breakfast together.' Senya continues boldly as things stand, letting the remark speak for itself.
-- 'Have you two been dating for a long time?' Senya centers one sharp detail right here: "vstrechayetes" means "are dating" (from "vstrechatsya"), giving the line its exact edge.
-- 'Well, there is a very long story there.' Denis states the comeback briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'We have been friends for a very long time.' Denis proceeds plainly without any doubt, saying out loud what both of them already know.
-- 'And we are only dating starting today.' Denis grounds one memorable expression on cue: "vstrechayemsya" means "have been going out" (from "vstrechatsya"), giving the line its exact edge.
-- 'Today will be our first day.' Denis proceeds boldly beside Senya, without trying to dress up how he really feels.
-- 'Yes, Katyusha, eat up, eat.' Denis holds firm lightly with a nod, shifting the whole mood of the room in a single beat.
-- 'Thank you, everything is very tasty.' Katya picks one classic element in earnest: "spasibo" means "thank you", and it carries the main weight of what Katya is saying.
+- 'Hey there, who do we have here?' Following up readily at once, Senya reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'Hello, I was giving her tea.' Denis evenly delivers this formal greeting right on cue using "zdravstvuyte" ("hello") — the polite Russian greeting that literally wishes the other person good health.
+- 'Good morning to all of you.' Katya politely directs this morning greeting without hesitation using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'Senya, why are you embarrassing people?' Pressing on warmly before Senya, Denis puts the question word "chto" right at the start so Senya hears the focus immediately.
+- 'All right, let's go have breakfast together.' Senya smoothly sends this word of agreement at this moment using "ladno" ("alright") — built from the old Russian root for harmony and order, used every day for "okay, fine".
+- 'Have you two been dating for a long time?' Senya speaks vividly to Denis and leans on "vstrechayetes" ("are dating", a form of "vstrechatsya") to give the remark its edge.
+- 'Well, there is a very long story there.' Bringing up the history at once, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'We have been friends for a very long time.' Denis fires back plainly without holding back, letting the remark speak for itself.
+- 'And we are only dating starting today.' Denis chimes in vividly at once and puts the weight on "vstrechayemsya" ("have been going out", from "vstrechatsya") as the exchange unfolds.
+- 'Today will be our first day.' Denis jumps in directly around Katya and leans on "pervyy" ("first") to give the whole sentence its punch.
+- 'Yes, Katyusha, eat up, eat.' Denis pushes back lightly in this moment, to clear the air between them once and for all.
+- 'Thank you, everything is very tasty.' Katya openly uses this word of thanks in front of Denis using "spasibo" ("thank you") — the everyday word for "thank you", which grew out of the old blessing "spasi Bog" ("God save you").

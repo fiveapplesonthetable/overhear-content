@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Congratulations. But in divorces I am ahead.' Barinov answers decisively without holding back, bringing things back to earth after the buildup.
-- 'I will catch up to you yet. I am younger.' Nagiyev sharpens this telling choice with Barinov: "pomolozhe" means "a bit younger", and it carries the main weight of what Nagiyev is saying.
-- 'Dima, on such a joyful occasion can you raise my salary?' Barinov voices the comeback around Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
-- 'Yes. I thought about that.' Nagiyev reacts promptly hearing Barinov, so Barinov knows he is not just making small talk.
-- 'I thought and thought and changed my mind.' Nagiyev anchors one memorable piece for Barinov: "peredumal" means "changed your mind" (from "peredumat"), giving the line its exact edge.
-- 'You are worthy of more. I forgive you all your debts!' Nagiyev focuses on one direct touch in reply: "bolshego" means "more, greater" (from "bolshiy"), giving the line its exact edge.
-- 'Dima, I am so glad that you got divorced!' Barinov reacts promptly with Nagiyev, watching Nagiyev's face to see how the news lands.
-- 'I am hungry. Why are they dawdling in the kitchen?' Nagiyev reaches for one telling expression at once: "khochetsya" means "want, feel like" (from "khotetsya"), giving the line its exact edge.
-- 'It looks like you are not the only one who came to celebrate the divorce.' Barinov stresses one vivid touch for Nagiyev: "prazdnovat" means "to celebrate", and it carries the main weight of what Barinov is saying.
-- 'It is time for me to work.' Barinov follows up warmly hearing Nagiyev, letting the remark speak for itself.
-- 'Sit! Right now, right now.' Nagiyev spotlights one pointed expression at once: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
-- 'Dmitry Vladimirovich!' Barinov makes the reaction on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Congratulations. But in divorces I am ahead.' Barinov follows up decisively with a sigh, without trying to dress up how he really feels.
+- 'I will catch up to you yet. I am younger.' Nagiyev chimes in quietly in the exchange and uses "pomolozhe" ("a bit younger") to carry the main weight of the thought.
+- 'Dima, on such a joyful occasion can you raise my salary?' Touching on a joyful occasion around Nagiyev, Barinov keeps normal statement word order here, turning the line into a question for Nagiyev purely through rising pitch.
+- 'Yes. I thought about that.' Nagiyev answers promptly without any doubt, making his position completely clear.
+- 'I thought and thought and changed my mind.' Nagiyev fires back pointedly at once and leans on "peredumal" ("changed your mind", a form of "peredumat") to give the remark its edge.
+- 'You are worthy of more. I forgive you all your debts!' Nagiyev steps in calmly without a pause, before Barinov can change the subject.
+- 'Dima, I am so glad that you got divorced!' Barinov responds promptly in this moment, to clear the air between them once and for all.
+- 'I am hungry. Why are they dawdling in the kitchen?' Mentioning the kitchen in front of Barinov, Nagiyev brings in "khochetsya" ("want, feel like", from "khotetsya") as the key Russian word here.
+- 'It looks like you are not the only one who came to celebrate the divorce.' Barinov counters lightly facing Nagiyev, keeping the focus on what actually matters here.
+- 'It is time for me to work.' Barinov reacts warmly watching Nagiyev, shifting the mood of the conversation in a single beat.
+- 'Sit! Right now, right now.' Nagiyev steps in vividly in this beat and chooses "sidet" ("to sit") so Barinov gets the point right away.
+- 'Dmitry Vladimirovich!' Leaning in naturally in this beat, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.

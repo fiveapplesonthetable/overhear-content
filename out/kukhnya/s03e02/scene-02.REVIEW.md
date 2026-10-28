@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are we dividing up the tips?' Ilya phrases the comment in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
-- 'Seven thousand each today. Not much.' Vika reacts warmly with a shrug, letting the remark speak for itself.
-- 'They gave me fifteen, and I have to take seven?' Ilya centers one telling element on cue: "pyatnashku" means "fifteen thousand" (from "pyatnashka"), giving the line its exact edge.
-- 'Why do I have to work for big-eared rookies?' Ilya gives this line right away: putting the question word "pochemu" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'What? Do I not work?' Max prompts openly if there is more going on behind the scenes.
-- 'I also put money into the common pool.' Max stresses one direct element on cue: "obshchuyu" means "common, shared" (from "obshchiy"), giving the line its exact edge.
-- 'You have arranged things nicely for yourself, haven't you?' Ilya shares this statement in earnest: the "-sya" ending on "ustroilsya" ("to settle, to get a job") turns the action inward or makes it happen between people naturally.
-- 'Everyone works, not just you alone.' Vika responds bluntly with a smile, keeping the focus on what actually matters here.
-- 'That is all. Goodbye.' Vika favors one concrete choice toward Ilya: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
-- 'Redhead, wait.' Ilya drops the reply frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Shall we bet all the tips for the shift?' Ilya asks earnestly how Max expects that to work in practice.
-- 'Easy! The winner will take the whole sum afterward.' Max favors one sharp piece in earnest: "pobeditel" means "winner", and it carries the main weight of what Max is saying.
+- 'Are we dividing up the tips?' Discussing the tips during the talk, Ilya keeps normal statement word order here, turning the line into a question for Vika purely through rising pitch.
+- 'Seven thousand each today. Not much.' Vika reacts warmly in this moment, steering the talk right where she wants it.
+- 'They gave me fifteen, and I have to take seven?' Underscoring the fifteen thousand in front of Vika, Ilya brings in "pyatnashku" ("fifteen thousand", from "pyatnashka") as the key Russian word here.
+- 'Why do I have to work for big-eared rookies?' Weighing in briskly right here, Ilya puts the question word "pochemu" right at the start so Max hears the focus immediately.
+- 'What? Do I not work?' Max prompts openly what Ilya is actually getting at here.
+- 'I also put money into the common pool.' Touching on the cash register around Ilya, Max lands on "obshchuyu" ("common, shared", built on "obshchiy") to keep the statement grounded.
+- 'You have arranged things nicely for yourself, haven't you?' Turning smoothly around Vika, the "-sya" ending on "ustroilsya" ("to settle, to get a job") marks an action that unfolds mutually or turns back on the speaker.
+- 'Everyone works, not just you alone.' Vika answers bluntly in this moment, refusing to let the moment slip past.
+- 'That is all. Goodbye.' Vika smoothly drops this polite farewell as they meet using "do svidaniya" ("goodbye") — literally "until the next meeting", the standard Russian farewell.
+- 'Redhead, wait.' Speaking firmly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Shall we bet all the tips for the shift?' Ilya asks earnestly while looking straight at Max here.
+- 'Easy! The winner will take the whole sum afterward.' Addressing the winner to Ilya, Max lands on "pobeditel" ("winner") as the key everyday word here.

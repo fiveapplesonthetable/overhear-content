@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, shall we talk calmly about our evening yesterday?' Eva stresses one familiar term on cue: "vcherashnego" means "yesterday's" (from "vcherashniy"), giving the line its exact edge.
-- 'Of course, let's talk, I am listening to you closely.' Barinov states that point right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'Vitya, I wanted to make sure that everything is fine.' Eva answers promptly toward Barinov, grounding the moment in plain reality.
-- 'I hope you understood everything between us correctly.' Eva centers this clear detail at once: "pravilno" means "right", and it carries the main weight of what Eva is saying.
-- 'Eva, dear, please, do not even worry!' Barinov delivers the reply at once: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
-- 'I am a modern man and understood everything correctly.' Barinov answers lightly as they talk, watching Eva's face to see how the news lands.
-- 'There is no need to attach great importance to this evening.' Barinov underscores one loaded choice with Eva: "znacheniya" means "meaning" (from "znacheniye"), giving the line its exact edge.
-- 'After all, for us it is like brushing our teeth!' Barinov chimes in briskly with a sigh, refusing to let the moment slip past.
-- 'So, that is how you feel about me?' Eva prompts skeptically what Barinov is actually getting at here.
-- 'Eva, wait, you misunderstood me!' Barinov favors one direct choice on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Honestly speaking, I had a better opinion of you.' Eva weighs in briskly with a smile, refusing to let the moment slip past.
-- 'You will deeply regret your words yet!' Eva weighs in right away without holding back, making her position completely clear.
+- 'Hello, shall we talk calmly about our evening yesterday?' Touching on her evening with Barinov, Eva centers the thought on "vcherashnego" ("yesterday's", from "vcherashniy") without wasting a word.
+- 'Of course, let's talk, I am listening to you closely.' Weighing in candidly to Eva, Barinov starts with "davay" ("come on, let's") to invite Eva right into the action.
+- 'Vitya, I wanted to make sure that everything is fine.' Eva reacts promptly with a sigh, leaving no doubt about where she stands.
+- 'I hope you understood everything between us correctly.' Eva steps in directly in front of Barinov and centers the remark on "pravilno" ("right") without any extra fuss.
+- 'Eva, dear, please, do not even worry!' Barinov reacts warmly around Eva and lands on "dorogaya" ("expensive", built on "dorogoy") to keep the statement grounded.
+- 'I am a modern man and understood everything correctly.' Barinov reacts lightly on the spot, shifting the mood of the conversation in a single beat.
+- 'There is no need to attach great importance to this evening.' Emphasizing the meaning at once, Barinov brings in "znacheniya" ("meaning", from "znacheniye") as the key Russian word here.
+- 'After all, for us it is like brushing our teeth!' Touching on the tooth before Eva, Barinov lands on "pochistit" ("to potatoes") as the key everyday word here.
+- 'So, that is how you feel about me?' Eva prompts skeptically to see how Barinov will answer on the spot.
+- 'Eva, wait, you misunderstood me!' Barinov cuts in sharply around Eva and brings in "podozhdi" ("wait", from "podozhdat") as the key Russian word here.
+- 'Honestly speaking, I had a better opinion of you.' Underscoring a better opinion during the talk, Eva reaches for the Russian word "luchshego" ("best", built from "luchshiy") right at the center of the line.
+- 'You will deeply regret your words yet!' Eva steps in right away beside Barinov, letting the remark speak for itself.

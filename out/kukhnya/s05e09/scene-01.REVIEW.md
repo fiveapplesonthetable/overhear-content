@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning.' Elena anchors this telling element toward Barinov: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
-- 'Go have breakfast later.' Elena offers that line at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'You have an incomplete rib fracture.' The doctor fires back warmly with a sigh, without trying to dress up how he really feels.
-- 'Just as I assumed.' The doctor features one sharp word at once: "predpolagal" means "supposed, assumed" (from "predpolagat"), giving the line its exact edge.
-- 'You said it was a crack.' Barinov drops this update briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Well, that is what it is.' The doctor proceeds wryly with a smile, refusing to let the moment slip past.
-- 'Be glad. How was the injury sustained?' The doctor centers one familiar piece right here: "poluchena" means "received, sustained" (from "poluchit"), giving the line its exact edge.
-- 'Only a wardrobe fell.' Barinov puts the reaction in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'A big one?' The doctor quizzes deadpan how Barinov expects that to work in practice.
-- 'About a hundred kilograms.' Barinov chooses one sharp detail on cue: "kilogrammov" means "kilograms" (from "kilogramm"), giving the line its exact edge.
-- 'It is even heavier than that.' Elena delivers the remark plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'One hundred and twenty.' Barinov reacts steadily as they talk, so Elena knows he is not just making small talk.
+- 'Good morning.' Elena evenly uses this morning greeting in one quick breath using "dobroye utro" ("good morning") — literally "kind morning", with the neuter ending matching "utro" ("morning").
+- 'Go have breakfast later.' Looking over dryly right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'You have an incomplete rib fracture.' The doctor jumps in warmly watching Elena, to clear the air between them once and for all.
+- 'Just as I assumed.' The doctor counters smoothly to Barinov and chooses "predpolagal" ("supposed, assumed", from the root "predpolagat") so Barinov hears the exact meaning.
+- 'You said it was a crack.' Holding firm dryly on the spot, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Well, that is what it is.' The doctor weighs in wryly across the room, testing Barinov's reaction in the middle of the exchange.
+- 'Be glad. How was the injury sustained?' Highlighting the injury on the spot, the doctor chooses "poluchena" ("received, sustained", from the root "poluchit") so Barinov hears the exact meaning.
+- 'Only a wardrobe fell.' Turning to a wardrobe right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'A big one?' The doctor quizzes deadpan to see how Barinov will answer on the spot.
+- 'About a hundred kilograms.' Addressing a hundred kilograms in front of the doctor, Barinov reaches for the Russian word "kilogrammov" ("kilograms", built from "kilogramm") right at the center of the line.
+- 'It is even heavier than that.' Talking about the bit right here, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'One hundred and twenty.' Barinov reacts wryly with a nod, without trying to dress up how he really feels.

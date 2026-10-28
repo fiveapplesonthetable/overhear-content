@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My friends, forgive me that things turned out so foolishly.' Barinov counters plainly without any doubt, steering the talk right where he wants it.
-- 'I really wanted to make it as good as possible.' Barinov chooses this direct expression in earnest: "pravda" means "honestly", and it carries the main weight of what Barinov is saying.
-- 'Come on, Chef, it is no big deal!' Senya phrases this warning toward Barinov: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
-- 'It is just a pity we did not get to eat the main course!' Senya speaks up quietly watching Tanya, leaving no doubt about where he stands.
-- 'Sorry, Vitya, but it is already time for us to go home.' Tanya chooses one classic piece in earnest: "izvini" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
-- 'Dad, that was your very best birthday party!' Tanya picks this direct touch toward Senya: "luchshiy" means "best", and it carries the main weight of what Tanya is saying.
-- 'Thank you, my darling, see you soon!' Barinov cuts in steadily as things stand, refusing to let the moment slip past.
-- 'Chef, maybe we can still continue the celebration?' Senya spotlights this clear detail in reply: "prodolzhim" means "will continue" (from "prodolzhit"), giving the line its exact edge.
-- 'Only let's sit in a normal quiet place.' Senya offers that point before Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
-- 'We can, after all we already saved the leopards today!' Barinov answers right away before Tanya, without trying to dress up how he really feels.
-- 'Fedya, hurry up, grab a bottle of whiskey!' Barinov frames one key touch in earnest: "butylku" means "a bottle" (from "butylka"), giving the line its exact edge.
-- 'Dad, I hope I have not missed anything yet?' Tanya brings this answer right away: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'My friends, forgive me that things turned out so foolishly.' Barinov weighs in plainly watching Senya, refusing to let the moment slip past.
+- 'I really wanted to make it as good as possible.' Discussing the honestly before Senya, Barinov centers the remark on "pravda" ("honestly") without any extra fuss.
+- 'Come on, Chef, it is no big deal!' Pointing out how terrible things are in front of Barinov, Senya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'It is just a pity we did not get to eat the main course!' Senya jumps in quietly with a sigh, grounding the moment in plain reality.
+- 'Sorry, Vitya, but it is already time for us to go home.' Tanya pushes back earnestly in this beat and leans on "izvini" ("sorry, excuse me", a form of "izvinit") to give the remark its edge.
+- 'Dad, that was your very best birthday party!' Tanya weighs in quietly with a sigh, without trying to dress up how she really feels.
+- 'Thank you, my darling, see you soon!' Barinov follows up steadily around Tanya, keeping the focus on what actually matters here.
+- 'Chef, maybe we can still continue the celebration?' Talking about the holiday to Barinov, Senya leans on "prazdnik" ("holiday") to give the whole sentence its punch.
+- 'Only let's sit in a normal quiet place.' Mentioning the place in the exchange, Senya starts with "davay" ("come on, let's") to invite Barinov right into the action.
+- 'We can, after all we already saved the leopards today!' Turning to the leopards on the spot, Barinov cuts straight through the tension with Senya.
+- 'Fedya, hurry up, grab a bottle of whiskey!' Touching on a bottle before Tanya, Barinov chooses "butylku" ("a bottle", from the root "butylka") so Tanya hears the exact meaning.
+- 'Dad, I hope I have not missed anything yet?' Talking about the dad right here, Tanya pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.

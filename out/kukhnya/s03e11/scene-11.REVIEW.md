@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, what are you doing here right now?' Nagiyev frames the reply without pause: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
-- 'Vitya, I am actually talking to you!' Nagiyev holds firm bluntly as they talk, leaving no doubt about where he stands.
-- 'It is already two o'clock in the afternoon outside!' Nagiyev features one pointed detail at once: "ulitse" means "street" (from "ulitsa"), giving the line its exact edge.
-- 'Were you drinking here all night again?' Nagiyev phrases this update with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
-- 'No, Dima, I did not drink at all.' Barinov cuts in pointedly toward Nagiyev, shifting the whole mood of the room in a single beat.
-- 'I was making the new menu all night!' Barinov leans on this direct word at once: "novoye" means "new" (from "novyy"), giving the line its exact edge.
-- 'I see very well what kind of menu you made.' Nagiyev frames one loaded touch in reply: "prekrasno" means "perfectly", and it carries the main weight of what Nagiyev is saying.
-- 'I will cook a new dish for you right now!' Barinov fires back evenly to settle things, so Nagiyev knows he is not just making small talk.
-- 'What will you cook when you are so tired?' Nagiyev sharpens one sharp touch for Barinov: "prigotovish" means "will prepare" (from "prigotovit"), giving the line its exact edge.
-- 'Dima, for some reason I cannot feel my arm!' Barinov speaks at once in this moment, refusing to let the moment slip past.
-- 'Wait, Dima, look, I am fine.' Barinov speaks up right away before Nagiyev, to clear the air between them once and for all.
-- 'Come on, I just slept badly.' Barinov features one telling word in reply: "prosto" means "just", and it carries the main weight of what Barinov is saying.
-- 'Here look, water got on me too.' Barinov speaks wryly to be clear, leaving no doubt about where he stands.
+- 'Vitya, what are you doing here right now?' Speaking calmly at once, Nagiyev puts the question word "chto" right at the start so Barinov hears the focus immediately.
+- 'Vitya, I am actually talking to you!' Nagiyev reacts bluntly with a shrug, leaving no doubt about where he stands.
+- 'It is already two o'clock in the afternoon outside!' Highlighting the street beside Barinov, Nagiyev lands on "ulitse" ("street", built on "ulitsa") to keep the statement grounded.
+- 'Were you drinking here all night again?' Jumping in boldly before Barinov, Nagiyev keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'No, Dima, I did not drink at all.' Barinov opens up pointedly with Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'I was making the new menu all night!' Talking about the night right here, Barinov centers the thought on "novoye" ("new", from "novyy") without wasting a word.
+- 'I see very well what kind of menu you made.' Nagiyev responds bluntly with a smile, steering the talk right where he wants it.
+- 'I will cook a new dish for you right now!' Barinov counters evenly watching Nagiyev, grounding the moment in plain reality.
+- 'What will you cook when you are so tired?' Nagiyev proceeds pointedly at once and lands on "prigotovish" ("will prepare", built on "prigotovit") to keep the statement grounded.
+- 'Dima, for some reason I cannot feel my arm!' Highlighting the hand at once, Barinov uses "pochemu-to" ("for some reason") to carry the main weight of the thought.
+- 'Wait, Dima, look, I am fine.' Barinov proceeds right away watching Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'Come on, I just slept badly.' Barinov speaks up candidly at once and centers the remark on "plokho" ("badly") without any extra fuss.
+- 'Here look, water got on me too.' Bringing up the water to Nagiyev, Barinov reaches for the Russian word "voda" ("water") right at the heart of the line.

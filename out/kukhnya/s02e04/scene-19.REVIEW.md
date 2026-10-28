@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am almost ready and my suitcase is packed too.' Vika emphasizes one clear piece at once: "chemodan" means "suitcase, luggage bag", and it carries the main weight of what Vika is saying.
-- 'How about you?' Kostya delivers the comment facing Vika: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
-- 'I mean, I am not.' Max follows up right away without holding back, leaving no doubt about where he stands.
-- 'I mean, I am in the middle of it.' Kostya features one loaded term right here: "protsesse" means "process, trial" (from "protsess"), giving the line its exact edge.
-- 'Kisses. Yes.' Max delivers that line with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
-- 'Max, I think we really do need to talk.' Kostya speaks warmly as things stand, grounding the moment in plain reality.
-- 'Can you come over to my place tonight?' Max reaches for one memorable element in reply: "priyekhat" means "to come, arrive", and it carries the main weight of what Max is saying.
-- 'Or are you busy?' Kostya phrases that point facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'As a matter of fact, tonight I am completely free.' Max pushes back promptly to be clear, leaving no doubt about where he stands.
-- 'I will be waiting.' Kostya chooses one direct word in earnest: "zhdat" means "to wait", and it carries the main weight of what Kostya is saying.
-- 'Still, Valdemar is a good man.' Max brings this warning facing Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Yes, and if he is good, that means I am bad.' Kostya holds firm evenly facing Vika, grounding the moment in plain reality.
-- 'And I am not bad.' Max stresses this sharp word right here: "plokhoy" means "bad", and it carries the main weight of what Max is saying.
+- 'I am almost ready and my suitcase is packed too.' Highlighting her suitcase beside Kostya, Vika chooses "chemodan" ("suitcase, luggage bag") so Kostya gets the point right away.
+- 'How about you?' Weighing in warmly on the spot, Kostya puts the question word "kak" right at the start so Max hears the focus immediately.
+- 'I mean, I am not.' Max reacts right away in this moment, before Kostya can change the subject.
+- 'I mean, I am in the middle of it.' Turning to the process in front of Max, Kostya brings in "protsesse" ("process, trial", from "protsess") as the key Russian word here.
+- 'Kisses. Yes.' Stepping in openly in the exchange, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Max, I think we really do need to talk.' Kostya jumps in warmly toward Max, bringing things back to earth after the buildup.
+- 'Can you come over to my place tonight?' Max counters naturally in front of Kostya and lands on "priyekhat" ("to come, arrive") as the key everyday word here.
+- 'Or are you busy?' Describing how busy things are on the spot, Kostya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'As a matter of fact, tonight I am completely free.' Max follows up promptly without a pause, keeping the focus on what actually matters here.
+- 'I will be waiting.' Kostya cuts in decisively on the spot and chooses "zhdat" ("to wait") so Max gets the point right away.
+- 'Still, Valdemar is a good man.' Making clear how good things are in front of Kostya, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Yes, and if he is good, that means I am bad.' Kostya answers evenly during the talk, leaving no doubt about where he stands.
+- 'And I am not bad.' Max fires back candidly in this beat and puts the emphasis on "plokhoy" ("bad") in the middle of the talk.

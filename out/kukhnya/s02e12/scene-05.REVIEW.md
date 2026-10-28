@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You must fight for this life.' Senya colors one classic expression toward Elena: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
-- 'You have such an amazing daughter.' Fedya answers promptly with a shrug, leaving no doubt about where he stands.
-- 'Do it for her sake.' Senya features this key detail in earnest: "sdelayte" means "make" (from "sdelat"), giving the line its exact edge.
-- 'Well, and for mine too.' Fedya drops that reply with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'I do not know.' Senya speaks up promptly to be clear, before Elena can change the subject.
-- 'I did not do anything.' Elena favors one vivid choice on cue: "delala" means "did" (from "delat"), giving the line its exact edge.
-- 'I did not taste anything.' Elena shapes that point without fuss: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'That is just, that is just...' Fedya jumps in evenly without any doubt, shifting the whole mood of the room in a single beat.
-- 'How can anyone lie like that?' Senya frames one familiar element right here: "mozhno" means "may, can", and it carries the main weight of what Senya is saying.
-- 'Calm down. Calm down.' Fedya makes that reply with warmth: the "-sya" ending on "uspokoytes" ("calm down") turns the action inward or makes it happen between people naturally.
-- 'I understand.' Senya weighs in calmly watching Elena, grounding the moment in plain reality.
-- 'I do not want to.' Fedya leans on this key touch in reply: "khochu" means "want" (from "khotet"), giving the line its exact edge.
-- 'Do me a favor.' Senya aims this answer to Elena: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'You must fight for this life.' Senya chimes in calmly on the spot, without trying to dress up how he really feels.
+- 'You have such an amazing daughter.' Fedya continues promptly across the room, grounding the moment in plain reality.
+- 'Do it for her sake.' Senya reacts boldly in this moment, keeping the focus on what actually matters here.
+- 'Well, and for mine too.' Weighing in firmly during the talk, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'I do not know.' Senya steps in promptly during the talk, refusing to let the moment slip past.
+- 'I did not do anything.' Reacting quietly on the spot, Elena pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'I did not taste anything.' Turning boldly to Fedya, Elena pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'That is just, that is just...' Fedya weighs in evenly with Elena, before Elena can change the subject.
+- 'How can anyone lie like that?' Senya weighs in promptly on the spot and brings in "mozhno" ("may, can") to make the meaning unmistakable.
+- 'Calm down. Calm down.' Reacting boldly beside Senya, the "-sya" ending on "uspokoytes" ("calm down") marks an action that unfolds mutually or turns back on the speaker.
+- 'I understand.' Senya jumps in calmly with a sigh, without trying to dress up how he really feels.
+- 'I do not want to.' Looking over warmly on the spot, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'Do me a favor.' Focusing on the favour with Fedya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.

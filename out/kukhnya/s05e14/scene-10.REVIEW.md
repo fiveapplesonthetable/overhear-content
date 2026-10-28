@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, it is simply impossible to assemble this model!' Elena features one familiar detail right here: "nevozmozhno" means "impossible", and it carries the main weight of what Elena is saying.
-- 'Hi, Vitya, are we heading to the stadium soon?' Elena drops that line around Barinov: opening with the casual greeting "privet" ("hi") signals right away that Elena and Barinov are on familiar terms.
-- 'Lenochka, apparently, I will not be able to go.' Barinov replies at once with a smile, steering the talk right where he wants it.
-- 'Vitya, what suddenly happened over there?' Elena reaches for one direct expression right here: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
-- 'I am completely swamped at work today.' Barinov hands over that thought before Elena: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'Why, can nobody cover for you?' Elena wonders wryly whether Barinov really thought this through.
-- 'Nobody can, Lyova has a bad flu.' Barinov leans on one colorful word in reply: "silnyy" means "the strong", and it carries the main weight of what Barinov is saying.
-- 'Vika sent several more cooks to an off-site event.' Barinov fires back warmly with Elena, keeping the focus on what actually matters here.
-- 'And on top of that a very important guest arrived.' Barinov speaks up dryly watching Elena, steering the talk right where he wants it.
-- 'Vitya, just please do not get so worked up.' Elena spotlights this vivid word right here: "nervnichay" means "be nervous" (from "nervnichat"), giving the line its exact edge.
-- 'Where are my orders? Important guests are waiting out there!' Barinov brings this warning right away: putting the question word "gde" right at the front of the line lets Elena hear the point of the question on the very first beat.
-- 'Well, we will go to the football match next time.' Elena replies warmly as they talk, steering the talk right where she wants it.
+- 'Chef, it is simply impossible to assemble this model!' Highlighting the model with Barinov, Elena uses "nevozmozhno" ("impossible") to carry the main weight of the thought.
+- 'Hi, Vitya, are we heading to the stadium soon?' Talking about the stadium before Barinov, Elena keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Lenochka, apparently, I will not be able to go.' Barinov jumps in at once on the spot, watching Elena's face to see how the news lands.
+- 'Vitya, what suddenly happened over there?' Elena proceeds smoothly with Barinov and reaches for the Russian word "sluchilos" ("happened", built from "sluchitsya") right at the center of the line.
+- 'I am completely swamped at work today.' Pointing out how total he is on the spot, Barinov links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Why, can nobody cover for you?' Elena wonders wryly where this conversation is heading next.
+- 'Nobody can, Lyova has a bad flu.' Talking about a bad flu with Elena, Barinov reaches for the Russian word "silnyy" ("the strong") right at the heart of the line.
+- 'Vika sent several more cooks to an off-site event.' Highlighting the cooks in this beat, Barinov puts the weight on "povarov" ("cooks", from "povar") as the exchange unfolds.
+- 'And on top of that a very important guest arrived.' Barinov proceeds dryly facing Elena, refusing to let the moment slip past.
+- 'Vitya, just please do not get so worked up.' Elena speaks up calmly during the talk and leans on "nervnichay" ("be nervous", a form of "nervnichat") to give the remark its edge.
+- 'Where are my orders? Important guests are waiting out there!' Pointing out how important things are in this beat, Barinov puts the question word "gde" right at the start so Elena hears the focus immediately.
+- 'Well, we will go to the football match next time.' Elena steps in warmly in this moment, refusing to let the moment slip past.

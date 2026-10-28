@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, consider that I have reserved this seat.' Barinov colors one familiar piece in earnest: "zabroniroval" means "reserved, booked" (from "zabronirovat"), giving the line its exact edge.
-- 'Do not go anywhere, I will be back soon.' Barinov pushes back right away without holding back, testing the guest's reaction in the middle of the exchange.
-- 'Please get acquainted, this is my Viktor Petrovich.' Elena steps in steadily facing Barinov, refusing to let the moment slip past.
-- 'Very nice to meet you, we are so glad to see you.' The guest reaches for one memorable piece in earnest: "priyatno" means "pleasant", and it carries the main weight of what the guest is saying.
-- 'At least a decent chef has finally appeared in Moscow.' The guest makes that thought before Barinov: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
-- 'Tell me, and what do you do in general?' Barinov quizzes openly if there is more going on behind the scenes.
-- 'What do you have there, elephants?' Barinov centers this sharp detail right here: "slony" means "elephants" (from "slon"), giving the line its exact edge.
-- 'Pay no attention, Viktor Petrovich is joking.' Elena follows up promptly to be clear, testing the guest's reaction in the middle of the exchange.
-- 'Well, let us start our match quickly.' The guest replies steadily without any doubt, bringing things back to earth after the buildup.
-- 'In general, by the way, how long do you play this golf?' Barinov leans on one loaded choice toward the guest: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
-- 'To complete everything, it takes five hours.' The guest puts this line in earnest: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
-- 'But you are beginners, we will play a short version and finish in two hours.' The guest responds plainly during the talk, watching Elena's face to see how the news lands.
+- 'Hi, consider that I have reserved this seat.' Emphasizing the place on the spot, Barinov puts the weight on "zabroniroval" ("reserved, booked", from "zabronirovat") as the exchange unfolds.
+- 'Do not go anywhere, I will be back soon.' Barinov proceeds naturally right here and uses "nikuda" ("nowhere, anywhere") to carry the main weight of the thought.
+- 'Please get acquainted, this is my Viktor Petrovich.' Elena speaks up steadily on the spot, so Barinov knows she is not just making small talk.
+- 'Very nice to meet you, we are so glad to see you.' The guest reacts warmly in front of Elena and brings in "priyatno" ("pleasant") to make the meaning unmistakable.
+- 'At least a decent chef has finally appeared in Moscow.' Holding firm warmly during the talk, the guest pivots with "zato" ("on the bright side, to make up for it") to flip a drawback into a plus.
+- 'Tell me, and what do you do in general?' Barinov quizzes openly how the guest expects that to work in practice.
+- 'What do you have there, elephants?' Turning to the elephants in this beat, Barinov uses "slony" ("elephants", from "slon") to make the point stick.
+- 'Pay no attention, Viktor Petrovich is joking.' Talking about the attention with Barinov, Elena leans on "obrashchayte" ("to turn, to direct", a form of "obrashchat") to give the remark its edge.
+- 'Well, let us start our match quickly.' The guest speaks up steadily without holding back, refusing to let the moment slip past.
+- 'In general, by the way, how long do you play this golf?' Addressing the golf to the guest, Barinov uses "voobshche" ("at all") to carry the main weight of the thought.
+- 'To complete everything, it takes five hours.' Turning to the clock right here, the guest leans on "nuzhno" ("it is needed, one has to"), which carries the whole predicate in Russian without needing "it is".
+- 'But you are beginners, we will play a short version and finish in two hours.' The guest follows up plainly on the spot, testing Barinov's reaction in the middle of the exchange.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could I possibly borrow it.' Max voices the reaction plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'The money is not mine.' Sasha shares this answer without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'I wanted to get her a special gift.' Lyova proceeds wryly beside Max, bringing things back to earth after the buildup.
-- 'A mother is sacred.' Max reaches for this clear piece for Sasha: "svyatoye" means "holy, sacred" (from "svyatoy"), giving the line its exact edge.
-- 'I will definitely pay it back.' Sasha hands over this warning beside Lyova: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'And the salad is already ready.' Lyova counters boldly without holding back, testing Sasha's reaction in the middle of the exchange.
-- 'Sasha, listen.' Max stresses one memorable piece at once: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
-- 'I can see that you are not entirely comfortable staying at our place.' Sasha drops that reply before Max: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
-- 'I found the money.' Lyova weighs in openly on the spot, steering the talk right where he wants it.
-- 'You know.' Max reaches for one sharp piece with Sasha: "znayesh" means "know" (from "znat"), giving the line its exact edge.
-- 'Because I had such a bad fight with the landlady the other day.' Sasha pushes back steadily watching Lyova, so Lyova knows she is not just making small talk.
-- 'Let me go talk to her myself.' Lyova fires back right away with a nod, watching Sasha's face to see how the news lands.
-- 'Really? Really?' Max aims that reply calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'Could I possibly borrow it.' Replying openly in the exchange, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'The money is not mine.' Pressing on evenly with Max, Sasha links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I wanted to get her a special gift.' Lyova replies wryly without holding back, to clear the air between them once and for all.
+- 'A mother is sacred.' Making clear how holy things are to Lyova, Max puts the weight on "svyatoye" ("holy, sacred", from "svyatoy") as the exchange unfolds.
+- 'I will definitely pay it back.' Jumping in candidly in front of Max, spoken Russian compresses the whole thought into just 3 words, skipping the extra helper words English needs.
+- 'And the salad is already ready.' Lyova steps in boldly with Sasha, shifting the mood of the conversation in a single beat.
+- 'Sasha, listen.' Max jumps in plainly at once and leans on "slushay" ("listen", a form of "slushat") to give the remark its edge.
+- 'I can see that you are not entirely comfortable staying at our place.' Speaking naturally right here, Sasha reaches for "u nas" ("by us, at our place") to talk about what they share.
+- 'I found the money.' Lyova proceeds openly with Sasha, refusing to let the moment slip past.
+- 'You know.' Leaning in briskly on the spot, spoken Russian compresses the whole thought into just 2 words, skipping the extra helper words English needs.
+- 'Because I had such a bad fight with the landlady the other day.' Pointing to the landlady with Max, Sasha centers the remark on "khozyayka" ("landlady") without any extra fuss.
+- 'Let me go talk to her myself.' Lyova proceeds right away watching Sasha, making his position completely clear.
+- 'Really? Really?' Max firmly shares this direct affirmation in front of Lyova using "da" ("yes") — a crisp "da" ("yes") that confirms the point without extra words.

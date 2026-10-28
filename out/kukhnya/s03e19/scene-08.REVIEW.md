@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Chef! How is your mood today?' Max puts that point for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Rodion Sergeyevich, you promised to live it up at the station for a week!' Barinov weighs in warmly beside Rodion, refusing to let the moment slip past.
-- 'I beg your forgiveness, Viktor Petrovich, that is how it happened.' Rodion frames one classic term on cue: "prostit" means "forgive", and it carries the main weight of what Rodion is saying.
-- 'I walked into a shop yesterday and bought a bottle of port wine with the whole sum.' Rodion steps in candidly as things stand, before Max can change the subject.
-- 'And very good Portuguese port wine at that.' Rodion replies right away hearing Barinov, testing Barinov's reaction in the middle of the exchange.
-- 'Would you have a bite to eat? Not a crumb since yesterday.' Rodion grounds this clear word in earnest: "vcherashnego" means "yesterday's" (from "vcherashniy"), giving the line its exact edge.
-- 'Officers, I am the one who called you, here is this man.' Max focuses on one sharp touch at once: "politseyskiye" means "police officers" (from "politseyskiy"), giving the line its exact edge.
-- 'Wait a second, he is not going anywhere with you from here!' Barinov replies right away around Rodion, saying out loud what both of them already know.
-- 'Careful, please, I only found this new shirt yesterday.' Rodion colors one key term for Barinov: "ostorozhno" means "careful, carefully", and it carries the main weight of what Rodion is saying.
-- 'Citizen, do not interfere in our work, understood?' Max gives the thought around Rodion: Russian keeps the exact word order of a normal statement here, turning it into a question for Rodion purely through rising pitch at the end.
-- 'Step back from the Chef! Rodion Sergeyevich will stay here!' Barinov continues earnestly on the spot, before Max can change the subject.
-- 'Viktor Petrovich, no need, we always meet our fate.' Rodion centers one classic expression on cue: "vstrechayem" means "to meet, to welcome" (from "vstrechat"), giving the line its exact edge.
+- 'Good morning, Chef! How is your mood today?' Turning to the mood on the spot, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Rodion Sergeyevich, you promised to live it up at the station for a week!' Barinov steps in warmly during the talk, refusing to let the moment slip past.
+- 'I beg your forgiveness, Viktor Petrovich, that is how it happened.' Rodion answers warmly beside Barinov and reaches for the Russian word "prostit" ("forgive") right at the heart of the line.
+- 'I walked into a shop yesterday and bought a bottle of port wine with the whole sum.' Highlighting the port wine on the spot, Rodion leans on "portveyna" ("of port wine", a form of "portveyn") to give the remark its edge.
+- 'And very good Portuguese port wine at that.' Rodion speaks right away in their talk, shifting the mood of the conversation in a single beat.
+- 'Would you have a bite to eat? Not a crumb since yesterday.' Discussing a crumb in front of Max, Rodion lands on "vcherashnego" ("yesterday's", built on "vcherashniy") to keep the statement grounded.
+- 'Officers, I am the one who called you, here is this man.' Max steps in evenly with a shrug, letting the remark speak for itself.
+- 'Wait a second, he is not going anywhere with you from here!' Barinov fires back right away with a shrug, without trying to dress up how he really feels.
+- 'Careful, please, I only found this new shirt yesterday.' Pointing to the shirt before Barinov, Rodion puts the weight on "rubashku" ("shirt", from "rubashka") as the exchange unfolds.
+- 'Citizen, do not interfere in our work, understood?' Weighing in warmly on the spot, Max keeps normal statement word order here, turning the line into a question for Barinov purely through rising pitch.
+- 'Step back from the Chef! Rodion Sergeyevich will stay here!' Barinov reacts earnestly facing Rodion, leaving no doubt about where he stands.
+- 'Viktor Petrovich, no need, we always meet our fate.' Turning to his fate beside Barinov, Rodion lands on "vstrechayem" ("to meet, to welcome", built on "vstrechat") to keep the statement grounded.

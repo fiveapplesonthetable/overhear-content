@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello! Mom, here is our chef Viktor Petrovich.' Max voices this answer for Barinov: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
-- 'Very nice to meet you, I am Viktor Petrovich, Katya's father.' Barinov speaks dryly during the talk, bringing things back to earth after the buildup.
-- 'Where are we going to celebrate our wedding?' Max underscores this sharp word at once: "prazdnovat" means "to celebrate", and it carries the main weight of what Max is saying.
-- 'Max, you can end this performance already.' Katya stands firm boldly with Max, shifting the whole mood of the room in a single beat.
-- 'I told Dad that there was nothing between us.' Katya responds lightly around Barinov, letting the remark speak for itself.
-- 'Chef, I told you this truth right away!' Max emphasizes one classic expression for Katya: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
-- 'Thank you very much, here is your money for the act.' Max aims that thought right away: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
-- 'Every person has their own secret fears.' Max weighs in calmly as things stand, leaving no doubt about where he stands.
-- 'Some people try never to open that door.' Max highlights one pointed piece for Barinov: "starayutsya" means "to try" (from "staratsya"), giving the line its exact edge.
-- 'Others try to hide their fears from everyone.' Max makes the comeback with ease: the "-sya" ending on "pytayutsya" ("to try, to attempt") turns the action inward or makes it happen between people naturally.
-- 'And some people in life are very lucky.' Max steps in briskly without holding back, so Barinov knows he is not just making small talk.
-- 'They have no fear in their soul at all.' Max focuses on one colorful word in earnest: "strakha" means "fear" (from "strakh"), giving the line its exact edge.
-- 'Because brave guys are not afraid of anything.' Max directs that line facing Barinov: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Hello! Mom, here is our chef Viktor Petrovich.' Touching on the mum in front of Barinov, Max centers the remark on "zdravstvuyte" ("hello") without any extra fuss.
+- 'Very nice to meet you, I am Viktor Petrovich, Katya's father.' Barinov jumps in dryly in this moment, testing Max's reaction in the middle of the exchange.
+- 'Where are we going to celebrate our wedding?' Emphasizing his wedding in the exchange, Max reaches for the Russian word "prazdnovat" ("to celebrate") right at the heart of the line.
+- 'Max, you can end this performance already.' Touching on the performance during the talk, Katya chooses "zakanchivat" ("to finish, to end") so Max gets the point right away.
+- 'I told Dad that there was nothing between us.' Katya pushes back lightly around Max, steering the talk right where she wants it.
+- 'Chef, I told you this truth right away!' Highlighting the truth in the exchange, Max reaches for the Russian word "pravdu" ("truth", built from "pravda") right at the center of the line.
+- 'Thank you very much, here is your money for the act.' Focusing on the thank at once, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Every person has their own secret fears.' Max weighs in calmly without any doubt, so Katya knows he is not just making small talk.
+- 'Some people try never to open that door.' Touching on the door in this beat, Max brings in "starayutsya" ("to try", from "staratsya") as the key Russian word here.
+- 'Others try to hide their fears from everyone.' Returning to the fears in front of Katya, the "-sya" ending on "pytayutsya" ("to try, to attempt") marks an action that unfolds mutually or turns back on the speaker.
+- 'And some people in life are very lucky.' Max jumps in briskly with Katya, making his position completely clear.
+- 'They have no fear in their soul at all.' Turning to the fear with Katya, Max brings in "strakha" ("fear", from "strakh") as the key Russian word here.
+- 'Because brave guys are not afraid of anything.' Emphasizing how bold things are with Katya, Max pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.

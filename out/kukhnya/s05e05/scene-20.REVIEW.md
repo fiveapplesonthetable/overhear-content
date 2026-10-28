@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When you lose love, life loses all meaning.' Max directs that thought without fuss: the "-sya" ending on "lishayetsya" ("is deprived of") turns the action inward or makes it happen between people naturally.
-- 'Vika, your doctor told me everything.' Max chimes in candidly with a sigh, saying out loud what both of them already know.
-- 'Great, so you know everything.' Vika chooses one sharp detail at once: "otlichno" means "perfect, great", and it carries the main weight of what Vika is saying.
-- 'And who is the father?' Max makes this statement with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'And that is none of your business anymore.' Vika fires back calmly in this moment, without trying to dress up how she really feels.
-- 'Bad day?' Max reaches for this vivid term in earnest: "plokhoy" means "bad", and it carries the main weight of what Max is saying.
-- 'Where are you off to, on vacation?' Max directs this point calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'An indefinite one, things did not work out for me here.' Denis opens up promptly watching Vika, shifting the whole mood of the room in a single beat.
-- 'Den, forgive me, I behaved like a jerk.' Max emphasizes one clear expression at once: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
-- 'Hello, good evening.' Vika hands over the comeback facing Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
-- 'Your husband turned out to be very persistent.' Vika chimes in candidly across the room, to clear the air between them once and for all.
-- 'I told him just as you asked.' Vika features this sharp touch right here: "skazala" means "told" (from "skazat"), giving the line its exact edge.
+- 'When you lose love, life loses all meaning.' Checking on the love in this beat, the "-sya" ending on "lishayetsya" ("is deprived of") marks an action that unfolds mutually or turns back on the speaker.
+- 'Vika, your doctor told me everything.' Max responds candidly around Vika, shifting the mood of the conversation in a single beat.
+- 'Great, so you know everything.' Vika jumps in vividly in front of Max and reaches for the Russian word "otlichno" ("perfect, great") right at the heart of the line.
+- 'And who is the father?' Returning to the father during the talk, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'And that is none of your business anymore.' Vika jumps in calmly across the room, without trying to dress up how she really feels.
+- 'Bad day?' Max follows up readily during the talk and puts the emphasis on "plokhoy" ("bad") in the middle of the talk.
+- 'Where are you off to, on vacation?' Turning to the vacation right here, Max links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'An indefinite one, things did not work out for me here.' Denis answers promptly with a shrug, bringing things back to earth after the buildup.
+- 'Den, forgive me, I behaved like a jerk.' Underscoring the freak beside Denis, Max lands on "urod" ("freak, creep") as the key everyday word here.
+- 'Hello, good evening.' Vika quietly directs this evening greeting toward Max using "dobryy vecher" ("good evening") — the standard Russian evening hello, literally "good evening".
+- 'Your husband turned out to be very persistent.' Vika follows up candidly beside Max, making her position completely clear.
+- 'I told him just as you asked.' Vika steps in earnestly in the exchange and lands on "prosili" ("asked, requested", built on "prosit") to keep the statement grounded.

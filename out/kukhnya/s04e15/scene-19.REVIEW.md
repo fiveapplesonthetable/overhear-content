@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, Yura, it is me, Vitya Barinov!' Denis points to one colorful word in reply: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
-- 'Hello, Vitya, glad to see you here!' Denis grounds this key element in reply: "videt" means "to see", and it carries the main weight of what Denis is saying.
-- 'It seemed to me you were cooking at another place.' Denis counters steadily with a nod, keeping the focus on what actually matters here.
-- 'Yes, I work nearby, and my daughter is here!' Barinov sharpens one pointed piece right here: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
-- 'So your daughter is the main kingpin here?' Denis gives that line at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
-- 'Thank you very much, Yura, you really bailed me out!' Barinov replies firmly without holding back, making his position completely clear.
-- 'Sorry, Vitya, my eagles are to blame today.' Denis features one pointed detail in reply: "vinovaty" means "guilty, at fault" (from "vinovatyy"), giving the line its exact edge.
-- 'I will send these two detectives to the north!' Denis reacts dryly to settle things, leaving no doubt about where he stands.
-- 'All right, do not punish them too harshly, they just made a mistake.' Barinov follows up quietly around Denis, before Denis can change the subject.
-- 'Katya, wait, please, hear me out right now!' Denis uses one direct expression in reply: "vyslushay" means "hear out, listen to" (from "vyslushat"), giving the line its exact edge.
-- 'Leave me alone, I do not want to talk!' Katya holds firm frankly across the room, saying out loud what both of them already know.
-- 'Katya, forgive me, it was a foolish misunderstanding!' Denis answers plainly in this moment, testing Katya's reaction in the middle of the exchange.
+- 'Wait, Yura, it is me, Vitya Barinov!' Denis fires back smoothly with Barinov and brings in "podozhdite" ("wait", from "podozhdat") as the key Russian word here.
+- 'Hello, Vitya, glad to see you here!' Denis proceeds honestly watching Barinov, shifting the mood of the conversation in a single beat.
+- 'It seemed to me you were cooking at another place.' Denis replies steadily with Barinov, to clear the air between them once and for all.
+- 'Yes, I work nearby, and my daughter is here!' Highlighting his daughter in the exchange, Barinov brings in "rabotayu" ("work", from "rabotat") as the key Russian word here.
+- 'So your daughter is the main kingpin here?' Explaining how main things are right here, Denis links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'Thank you very much, Yura, you really bailed me out!' Barinov replies firmly toward Denis, grounding the moment in plain reality.
+- 'Sorry, Vitya, my eagles are to blame today.' Highlighting how guilty things are beside Barinov, Denis uses "vinovaty" ("guilty, at fault", from "vinovatyy") to make the point stick.
+- 'I will send these two detectives to the north!' Emphasizing the detective story during the talk, Denis brings in "detektivov" ("detective story", from "detektiv") as the key Russian word here.
+- 'All right, do not punish them too harshly, they just made a mistake.' Barinov responds quietly with a smile, so Denis knows he is not just making small talk.
+- 'Katya, wait, please, hear me out right now!' Denis speaks up decisively around Katya and centers the thought on "vyslushay" ("hear out, listen to", from "vyslushat") without wasting a word.
+- 'Leave me alone, I do not want to talk!' Katya jumps in decisively in this beat and uses "razgovarivat" ("to talk, to speak") to carry the main weight of the thought.
+- 'Katya, forgive me, it was a foolish misunderstanding!' Denis cuts in plainly on the spot, making his position completely clear.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything that you have.' Nastya shapes the thought right away: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
-- 'Even your civic stance.' Vika states this warning beside Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
-- 'Is thanks to my cows and pigs.' Nastya speaks firmly with a nod, shifting the whole mood of the room in a single beat.
-- 'I do not need anything from you.' Vika leans on one clear word toward Nastya: "nado" means "it is necessary", and it carries the main weight of what Vika is saying.
-- 'He thought I would not survive without his money.' Nastya opens up pointedly during the talk, keeping the focus on what actually matters here.
-- 'So I up and walked right out of the house.' Vika chimes in pointedly with a smile, without trying to dress up how she really feels.
-- 'And he got offended.' Nastya points to one familiar touch right here: "obidelsya" means "got offended" (from "obidetsya"), giving the line its exact edge.
-- 'He has never understood me.' Vika gives this statement toward Nastya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
-- 'And on top of that, you beat him up.' Nastya proceeds frankly with a sigh, bringing things back to earth after the buildup.
-- 'Nastya, listen, give me his phone number.' Vika emphasizes one colorful element in reply: "telefona" means "phone" (from "telefon"), giving the line its exact edge.
-- 'Tomorrow is my day off.' Nastya offers the comment on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
-- 'I will give him a call and sort everything out.' Vika counters calmly as they talk, letting the remark speak for itself.
-- 'Stupid meat, it causes nothing but trouble.' Nastya colors this key word right here: "duratskoye" means "foolish, stupid" (from "duratskiy"), giving the line its exact edge.
+- 'Everything that you have.' Cutting in earnestly in this beat, Nastya uses "u tebya" (literally "by you") where English says "you have" or "your".
+- 'Even your civic stance.' Reacting dryly to Nastya, spoken Russian compresses the whole thought into just 4 words, skipping the extra helper words English needs.
+- 'Is thanks to my cows and pigs.' Nastya steps in firmly watching Vika, watching Vika's face to see how the news lands.
+- 'I do not need anything from you.' Vika responds promptly in this beat and chooses "nado" ("it is necessary") so Nastya gets the point right away.
+- 'He thought I would not survive without his money.' Bringing up the money with Vika, Nastya lands on "deneg" ("money", built on "dengi") to keep the statement grounded.
+- 'So I up and walked right out of the house.' Vika opens up pointedly without a pause, keeping the focus on what actually matters here.
+- 'And he got offended.' Nastya replies firmly around Vika and chooses "obidelsya" ("got offended", from the root "obidetsya") so Vika hears the exact meaning.
+- 'He has never understood me.' Speaking candidly in the exchange, Vika pairs the negative word with "ne" ("not"), since Russian naturally doubles its negatives for emphasis.
+- 'And on top of that, you beat him up.' Nastya speaks frankly around Vika, so Vika knows she is not just making small talk.
+- 'Nastya, listen, give me his phone number.' Highlighting the phone on the spot, Vika uses "telefona" ("phone", from "telefon") to make the point stick.
+- 'Tomorrow is my day off.' Jumping in quietly in the exchange, Nastya links the Russian words directly in the present with no word for "am", "is", or "are" needed.
+- 'I will give him a call and sort everything out.' Vika fires back calmly in this moment, so Nastya knows she is not just making small talk.
+- 'Stupid meat, it causes nothing but trouble.' Focusing on the meat with Vika, Nastya reaches for the Russian word "duratskoye" ("foolish, stupid", built from "duratskiy") right at the center of the line.

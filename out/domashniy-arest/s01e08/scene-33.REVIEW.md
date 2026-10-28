@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I said, you are not going anywhere!' The guide repeats herself with cold finality.
 - 'Listen here, we bought tickets after all!' Samson tries to intervene with the organizer.
 - 'Because I have no strength left dealing with you!' Literally, 'there are no forces left with you'.
-- 'Please, let us onto the bus!' Nina pleads with the woman, pointing to her disappointed son.
+- 'Please, let us onto the bus!' Nina begs the woman, pointing to her disappointed son.
 - 'People are right about your family.' The organizer refuses to budge for the troublemaking mayoral candidate.
 - 'The apple doesn't fall far from the tree!' This classic Russian proverb means children take after their parents' bad habits.
