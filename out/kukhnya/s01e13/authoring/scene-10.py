@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'angelina_h': 'Ангелина', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Max decides to fix his mistake by making a fake phone call. He calls the restaurant hostess Angelina, pretending to be from the Milan trade show. Let's listen to his brilliant plan in Russian."
-OPENER = "Now let's go back through the exchange around A Call from Milan line by line and unpack how the Russian works."
+INTRO = "Max realises he's caused a mess, and he has an idea to fix it: a fake phone call. He rings the restaurant pretending to be an Italian and tells the hostess the trade show is cancelled. Here it is in Russian first."
+OPENER = "Let's go through it again, and watch the little acting job."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max's crazy plan actually worked, and Vika is heading back to the restaurant. Let's see what happens next. Next time you watch the episode, listen for the Russian expressions for 'signora' and 'kind' — you will catch every word right away. See you next time!"
+OUTRO = "Max's trick works, and Vika is on her way back. When you watch the episode, see whether you can spot how he is trying not to laugh. Catch you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Бонжорно, синьоры.', 'Buongiorno, signori.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Спасибо, что предупредили.', 'Thank you for warning me.', [(141, 'Спасибо, что предупредили.')], ''),
 ]
 WALK = [
-    (0, None, "'Buongiorno, signori.' Max puts on a fake accent. He greets the staff in Italian to sound convincing."),
-    (1, None, "'Good afternoon, Claude Monet restaurant.' Angelina answers professionally. She states the restaurant's name clearly."),
-    (2, None, "'My name is Alexander.' Max introduces his fabricated persona. He gives himself a generic name."),
-    (3, None, "'The exhibition is cancelled.' He delivers the fake bad news. Max claims the entire event has been called off."),
-    (4, None, "'Pass this on to Victoria.' He makes sure the message reaches his target. Max specifically asks her to tell Vika."),
-    (5, None, "'All right, I will pass it on.' Angelina accepts the message without suspicion. She promises to relay the information."),
-    (6, None, "'Grazie, signora, ciao-ciao.' Max signs off in character. He throws in a few more Italian words for good measure."),
-    (7, None, "'Yes, hello. Victoria Sergeyevna, hello.' Angelina calls Vika to deliver the news. She starts with a polite greeting."),
-    (8, None, "'A representative of the exhibition from Milan called.' She passes on the fabricated story. Angelina reports that the organizers called."),
-    (9, None, "'He said that it is cancelled.' She relays the crucial detail. Angelina tells Vika the trip is off."),
-    (10, None, "'Oh, really? I am already in Domodedovo.' Vika is shocked by the sudden change. She mentions she is already at the airport."),
-    (11, None, "'I almost flew away.' Vika realizes how close she came to leaving. She notes that she nearly boarded the plane."),
-    (12, None, "'Thank you for warning me.' She expresses gratitude for the timely update. Vika genuinely appreciates the heads-up."),
+    (0, None, "'Buongiorno, signori.' These are Italian words written in Russian letters, so Max's fake accent does the talking. It sounds like 'bonzhorno', not quite right, which is the joke."),
+    (1, None, "'Good afternoon, Claude Monet restaurant.' 'Dobry den' is 'good day', and Russians use it for the afternoon, too. The name of the restaurant doesn't change, whatever the sentence."),
+    (2, None, "'My name is Alexander.' 'Menya zovut' is literally 'me they call', which is the usual way to give your name. There's no 'my name is' in Russian."),
+    (3, None, "'The exhibition is cancelled.' 'Otmenyaetsya' ends in 'sya', so it's 'cancels itself'. Russians use this form for events and trains that are called off."),
+    (4, None, "'Pass this on to Victoria.' 'Peredayte' is 'pass on!', in the polite form. 'Viktorii' ends in 'i', which is the 'to' ending for a name like Viktoria."),
+    (5, None, "'All right, I will pass it on.' 'Peredam' is 'I will pass on'. It comes from the same word as Max's 'peredayte', but now it's the future."),
+    (6, None, "'Grazie, signora, ciao-ciao.' More fake Italian. 'Chao' is how Russians write 'ciao', and they use it as a casual goodbye with friends."),
+    (7, None, "'Yes, hello. Victoria Sergeyevna, hello.' 'Allo' is only for answering the phone. 'Zdravstvuyte' is the polite hello for people you don't know well."),
+    (8, None, "'A representative of the exhibition from Milan called.' 'Zvonil' means 'phoned', and it ends in 'l' for 'he'. 'Predstavitel' is 'representative', and 'iz Milana' is 'from Milan'."),
+    (9, None, "'He said that it is cancelled.' 'Ona' is 'she', because 'vystavka' is feminine in Russian, so a trade show counts as a 'she'. 'Chto' here means 'that'."),
+    (10, None, "'Oh, really? I am already in Domodedovo.' 'Pravda' means 'truth', and Russians say it to mean 'really?'. Vika is at one of Moscow's airports, and she says 'v' for 'in' with no change to the name."),
+    (11, None, "'I almost flew away.' 'Chut ne' is 'barely not', and it means 'almost'. 'Uletela' is 'flew off', with the 'u' that means 'away'."),
+    (12, None, "'Thank you for warning me.' 'Spasibo, chto' means 'thanks that', which is how you thank someone for something. 'Predupredili' is 'warned' in the polite plural form."),
 ]

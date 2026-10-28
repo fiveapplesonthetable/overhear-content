@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Шеф опять с ней ругается. | The boss is arguing with her again. | #164: Шеф опять с ней рукается. | verbatim |
-| 2 | Костя | Да ладно, Настя, всё образуется. | Come on, Nastya, everything will work out. | #165: Да ладно, Нась, все образуется. | verbatim |
-| 3 | Настя | Сегодня у нас тоже ничего не получится? | Things won't work out for us today either? | #166: сегодня у нас тоже ничего не получится? | verbatim |
-| 4 | Костя | Нет, Настя, ну ты просто обещала. | No, Nastya, you simply promised. | #168: Да нет, Нась, ну ты просто обещала. | verbatim |
-| 5 | Костя | Хочешь, я пойду к шефу? | Do you want me to go to the boss? | #169: хочешь, я пойду к шефу | verbatim |
-| 6 | Костя | Я скажу, что это я сломал зеркало. | I will say that I broke the mirror. | #169: и скажу, что это я сломал его зеркало? | verbatim |
-| 7 | Настя | Не надо, он тебя уволит. | Do not do it, he will fire you. | #170: Не надо, он тебя уволит. | verbatim |
-| 8 | Костя | Я сказал, значит, я пойду. | I said it, which means I will go. | #172: Я сказал, значит, я пойду. | verbatim |
-| 9 | Настя | Костик, подожди, не ходи. | Kostik, wait, do not go. | #173: Костик, подожди, не ходи. | verbatim |
-| 10 | Костя | Шеф, это я сломал ваше зеркало. | Boss, it was me who broke your mirror. | #164: шеф | verbatim |
-| 11 | Настя | Нет, не верьте ему. | No, do not believe him. | #168: нет | verbatim |
-| 12 | Настя | Это я сломала ваше зеркало. | I broke your mirror. | #169: это | verbatim |
-| 13 | Настя | Он просто хочет меня прикрыть. | He just wants to cover for me. | #168: просто | verbatim |
+| 1 | Настя | Шеф опять с ней ругается. | The boss is arguing with her again. | #164 00:13:17: Шеф опять с ней рукается. | verbatim |
+| 2 | Костя | Да ладно, Настя, всё образуется. | Come on, Nastya, everything will work out. | #165 00:13:24: Да ладно, Нась, все образуется. | verbatim |
+| 3 | Настя | Сегодня у нас тоже ничего не получится? | Things won't work out for us today either? | #166 00:13:27: сегодня у нас тоже ничего не получится? | verbatim |
+| 4 | Костя | Нет, Настя, ну ты просто обещала. | No, Nastya, you simply promised. | #168 00:13:35: Да нет, Нась, ну ты просто обещала. | verbatim |
+| 5 | Костя | Хочешь, я пойду к шефу? | Do you want me to go to the boss? | #169 00:13:39: хочешь, я пойду к шефу | verbatim |
+| 6 | Костя | Я скажу, что это я сломал зеркало. | I will say that I broke the mirror. | #169 00:13:39: и скажу, что это я сломал его зеркало? | verbatim |
+| 7 | Настя | Не надо, он тебя уволит. | Do not do it, he will fire you. | #170 00:13:44: Не надо, он тебя уволит. | verbatim |
+| 8 | Костя | Я сказал, значит, я пойду. | I said it, which means I will go. | #172 00:13:49: Я сказал, значит, я пойду. | verbatim |
+| 9 | Настя | Костик, подожди, не ходи. | Kostik, wait, do not go. | #173 00:13:53: Костик, подожди, не ходи. | verbatim |
+| 10 | Костя | Шеф, это я сломал ваше зеркало. | Boss, it was me who broke your mirror. | #164 00:13:17: шеф | verbatim |
+| 11 | Настя | Нет, не верьте ему. | No, do not believe him. | #168 00:13:35: нет | verbatim |
+| 12 | Настя | Это я сломала ваше зеркало. | I broke your mirror. | #169 00:13:39: это | verbatim |
+| 13 | Настя | Он просто хочет меня прикрыть. | He just wants to cover for me. | #168 00:13:35: просто | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The boss is arguing with her again.' Nastya is anxious about the ongoing conflict. She sees the Chef fighting with Elena again.
-- 'Come on, Nastya, everything will work out.' Kostya tries to comfort her. He casually assures her that things will resolve themselves.
-- 'Things won't work out for us today either?' Nastya is pessimistic about their plans. She worries this ruins their chances for the evening.
-- 'No, Nastya, you simply promised.' Kostya reminds her of her commitment. He playfully points out that she gave her word.
-- 'Do you want me to go to the boss?' He offers a heroic solution. Kostya volunteers to face the Chef himself.
-- 'I will say that I broke the mirror.' He reveals his plan. Kostya intends to take the blame for the broken mirror.
-- 'Do not do it, he will fire you.' Nastya panics at his suggestion. She warns him that such a move will get him fired.
-- 'I said it, which means I will go.' Kostya stands firm. He insists on following through with his brave promise.
-- 'Kostik, wait, do not go.' Nastya begs him to stop. She desperately asks him to reconsider.
-- 'Boss, it was me who broke your mirror.' Kostya makes his false confession. He steps up and takes the fall.
-- 'No, do not believe him.' Nastya immediately jumps in. She urges the Chef not to listen to Kostya.
-- 'I broke your mirror.' She tells the actual truth. Nastya admits she is the real culprit.
-- 'He just wants to cover for me.' She explains Kostya's lie. Nastya says he was only trying to protect her.
+- 'The boss is arguing with her again.' 'Ruzhaetsya' is rowdier than a calm disagreement, as there is shouting. It ends in 'sya', since a row takes two. 'S ney' is 'with her', and 'opyat' is 'again'.
+- 'Come on, Nastya, everything will work out.' 'Da ladno' is a cheerful 'come on, it's fine'. 'Obrazuetsya' means 'will take shape' and is used for 'it'll sort itself out'.
+- 'Things won't work out for us today either?' 'Poluchitsya' is 'will turn out', and with 'nichego ne' it means 'nothing will work'. 'Tozhe' is 'also'.
+- 'No, Nastya, you simply promised.' 'Obeshchala' is 'promised', in a woman's form. 'Nu' is a 'well' that pleads, and that's the way Kostya says it.
+- 'Do you want me to go to the boss?' 'Khochesh, ya poydu' is literally 'want, I'll go', with no word for 'that'. 'K shefu' is 'to the boss'.
+- 'I will say that I broke the mirror.' 'It was me who' is a handy structure for confessions or praise. The man's 'l' ending on 'broke' is one of the first things to notice.
+- 'Do not do it, he will fire you.' 'Ne nado' keeps coming up for 'don't', and it's softer than a shouted order. Nastya begs rather than commands.
+- 'I said it, which means I will go.' 'Znachit' means 'so' or 'therefore', and Kostya's logic is that he said he would, so he must.
+- 'Kostik, wait, do not go.' 'Ne khodi' is 'don't go', and it uses 'khodit' rather than 'poyti'. Russians use that form for a negative order. 'Podozhdi' is 'wait'.
+- 'Boss, it was me who broke your mirror.' 'Vashe' is the polite 'your', with 'e' because the mirror is neuter. 'Eto ya slomal' is the same line as before, now said to the boss.
+- 'No, do not believe him.' 'Ne verte' is 'don't believe', and the thing believed takes an ending: 'on' becomes 'emu'. In Russian you believe 'to' somebody.
+- 'I broke your mirror.' It's the same sentence as Kostya's, with one letter different. 'Slomala' has an 'a', because the person who broke it is a woman.
+- 'He just wants to cover for me.' 'Prikryt' means 'to cover', in the sense of protecting. 'Menya' is 'me', and 'prosto' means 'simply'.

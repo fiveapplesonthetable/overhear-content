@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Max finally confronts Vika about her leaving for a business trip. He wants to explain his earlier behaviour, but she is hurt that he avoided her all day. We will hear it in Russian first; don't worry about catching every word."
-OPENER = "Now let's go back through the conversation line by line."
+INTRO = 'Vika has been about to fly to Milan for work, and Max has been avoiding her all day. He finally corners her before she leaves. Here is the argument in Russian first.'
+OPENER = "Let's go through it again, line by line, and watch Vika's mood."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "That's it for this scene! Max really ruined Vika's plans. Next time you watch the episode, listen for the Russian expressions for 'why' and 'to say' — you will catch every word right away. See you next time!"
+OUTRO = 'Max has spoiled her trip, and Vika is furious. When you watch, notice that the coffee never gets drunk. See you next time.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Почему ты не сказала, что уезжаешь?', "Why didn't you tell me you were leaving?", [(124, 'что')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Я из-за тебя не полетела в Милан!', 'I missed the Milan trip because of you!', [(122, 'Я из-за тебя не полетела на выставку в Милан')], ''),
 ]
 WALK = [
-    (0, None, "'Why didn't you tell me you were leaving?' Max confronts Vika about her secret departure. He is hurt that she kept it from him."),
-    (1, None, "'Let's talk later.' Vika tries to brush him off. She suggests they delay the conversation."),
-    (2, None, "'No, we're talking now!' Max refuses to wait. He insists they have this out right now."),
-    (3, None, "'Let me explain what's going on.' He asks for a chance to clear the air. Max wants to explain his side of the story."),
-    (4, None, "'You've been avoiding me all day!' Vika is angry about his earlier behavior. She accuses him of dodging her all day."),
-    (5, None, "'I need to think.' She needs some space to process everything. Vika wants time alone to figure things out."),
-    (6, None, "'We'll talk in three days when I get back.' Vika sets a firm timeline. She tells him to wait until she returns from her trip."),
-    (7, None, "'Vika, good morning!' The next morning, Max confidently walks into her office. He greets her with a cheerful smile."),
-    (8, None, "'I brought you coffee.' Max presents a peace offering. He hopes a hot drink will smooth things over."),
-    (9, None, "'I hate you!' Vika responds with pure fury. She clearly has not forgiven him."),
-    (10, None, "'You don't like coffee?' Max plays dumb. He jokingly wonders if she has lost her taste for the beverage."),
-    (11, None, "'What the hell coffee!' Vika rejects the joke completely. She dismisses his offering with an angry outburst."),
-    (12, None, "'I missed the Milan trip because of you!' She reveals the disastrous consequence of their fight. Vika missed her important flight."),
+    (0, None, "'Why didn't you tell me you were leaving?' 'Skazala' ends in 'a' because Vika is a woman. 'Uezzhaesh' is 'you're leaving', and the 'u' at the front means 'away' for something that goes by vehicle."),
+    (1, None, "'Let's talk later.' 'Davay' begins a suggestion. 'Pozzhe' is 'later', and 'pogovorim' is 'let's have a talk'. Vika wants the talk to happen, but not now."),
+    (2, None, "'No, we're talking now!' It's the same 'pogovorim' as before, and the only thing that changes is 'seychas', 'now'. Max copies her words, which is a good way to answer."),
+    (3, None, "'Let me explain what's going on.' The phrase for 'what's going on' is literally 'in what is the matter'. It's a set expression, so learn it as a lump and use it whenever you want an explanation."),
+    (4, None, "'You've been avoiding me all day!' 'Running around' is how Russian says 'avoiding', so she says 'you run from me'. English uses 'have been' for this, but Russian just uses the present."),
+    (5, None, "'I need to think.' 'Podumat' is 'to think for a bit', and the 'po' at the front means a short time. 'Mne nado' is 'to me it's necessary'."),
+    (6, None, "'We'll talk in three days when I get back.' The prefix 'pri' means 'arrive', and the rest is the verb for flying. So the word says 'I'll arrive by air', which a plane trip needs."),
+    (7, None, "'Vika, good morning!' 'Utro' is a neuter word, so 'good' becomes 'dobroe'. Max is trying to start again with a smile."),
+    (8, None, "'I brought you coffee.' The word order is 'to you coffee brought', and Russian is perfectly happy with that. 'Prinyos' is 'brought', and 'kofe' never changes its ending."),
+    (9, None, "'I hate you!' The word for 'hate' is a very strong word, and the object, 'you', is in the form it takes after it. Russians keep it for real anger."),
+    (10, None, "'You don't like coffee?' Max is baffled. 'Lyubish' is 'you like' or 'you love', depending on what's coming. It's the only everyday word for 'like'."),
+    (11, None, "'What the hell coffee!' 'Kakoy' plus a noun gives a scornful 'what do you mean, ...!'. 'K chyortu' means 'to the devil', a mild way of dismissing the coffee."),
+    (12, None, "'I missed the Milan trip because of you!' 'Ne poletela' is 'didn't fly', with an 'a' for a woman. 'Iz-za tebya' is 'because of you', the same 'iz-za' that means 'because of' in lots of arguments."),
 ]

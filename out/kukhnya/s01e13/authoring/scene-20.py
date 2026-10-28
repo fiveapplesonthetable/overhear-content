@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Focused on the exposure, Nagiev confronts Vika about her fake excuse and forces her to pay for the trip herself. Let's listen closely to Vika and Dmitry Nagiyev's exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around The Exposure line by line and unpack how the Russian works."
+INTRO = 'Vika told the restaurant owner that her trip was cancelled, and Nagiyev has checked. She comes into his office, and he is smiling. Here is the scene in Russian first.'
+OPENER = "Now Nagiyev's questions, taken one at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Nagiev confronts Vika about her fake excuse and forces her to pay for the trip herself. Next time you watch the episode, listen for the Russian expressions for 'kind' and 'morning' — you will catch every word right away. See you next time!"
+OUTRO = 'Nagiyev has caught her, politely. When you watch, notice how he never raises his voice. Speak soon.'
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('vika', 'Доброе утро, Дмитрий Владимирович.', 'Good morning, Dmitry Vladimirovich.', [(280, 'дмитрий')], ''),
@@ -35,17 +35,21 @@ STORY = [
     ('nagiyev', 'И за свой счет.', 'And at your own expense.', [(283, 'свой')], ''),
 ]
 WALK = [
-    (0, None, "'Good morning, Dmitry Vladimirovich.' Vika offers a polite, standard greeting. She addresses Nagiyev formally."),
-    (1, None, "'I would say it is afternoon, Vika.' Nagiyev corrects her with a hint of sarcasm. He points out it is already later in the day."),
-    (2, None, "'Why didn't you fly out to the exhibition?' He interrogates her about her missed trip. Nagiyev asks why she did not depart as planned."),
-    (3, None, "'It was cancelled.' Vika sticks to her fabricated story. She casually claims the event was called off."),
-    (4, None, "'I called my contacts.' She invents a source for her information. Vika says she checked with her own contacts."),
-    (5, None, "'Some businessman called you, right?' Nagiyev reveals he knows more than she thinks. He mentions the mysterious caller."),
-    (6, None, "'Who?' Vika plays dumb. she asks for clarification on who he means."),
-    (7, None, "'Yeah, he called.' She quickly agrees to maintain the lie. Vika confirms she received a call."),
-    (8, None, "'Let's see.' Nagiyev prepares to reveal his trump card. He playfully promises to check the details."),
-    (9, None, "'Alexander Del Piero.' He reads out the ridiculous fake name Max used. Nagiyev exposes the obvious lie."),
-    (10, None, "'He said the exhibition was cancelled.' Nagiyev repeats the lie one last time. She insists the man delivered the cancellation news."),
-    (11, None, "'Was it a call from a Moscow number?' Nagiyev traps her with logic. He points out the absurdity of a local call for an international event."),
-    (12, None, "'Yeah, here is the number.' He presents the undeniable proof. Nagiyev shows her the local caller ID on the phone."),
+    (0, None, "'Good morning, Dmitry Vladimirovich.' First name plus father's name, as always for the boss. 'Dobroe utro' is a neuter 'good'."),
+    (1, None, "'I would say it is afternoon, Vika.' 'Dobry den' is 'good day', in a masculine ending, since 'den' is masculine. 'Pozhaluy' is 'perhaps', and Nagiyev says it with a smile."),
+    (2, None, "'Why didn't you fly out to the exhibition?' 'Vik' is the short form of Vika, which only the boss uses. 'Uleteli' is 'flew off', and 'na vystavku' is 'to the exhibition'."),
+    (3, None, "'It was cancelled.' 'Tak' starts it like 'well'. 'Eyo' is 'it', but a feminine one, because 'vystavka' is. 'Otmenili' means 'they cancelled', with nobody named."),
+    (4, None, "'I called my contacts.' 'Zvonila' is 'phoned', with an 'a' for a woman. 'Svoim druzyam' is 'to my friends', where 'ym' and 'yam' show 'to'."),
+    (5, None, "'Some businessman called you, right?' 'Vam' is 'to you', in the polite form. 'Kakoy-to' is 'some', and 'predprinimatel' is 'entrepreneur', a long word that sounds like what it is."),
+    (6, None, "'Who?' It's just 'kakoy', 'which one', in the masculine because it asks about a man. A short question that buys time."),
+    (7, None, "'Yeah, he called.' 'Zvonil' is 'phoned', in a man's form. Vika is cornered and confirms it."),
+    (8, None, "'Let's see.' 'Seychas skazhem' is literally 'now we'll say'. Nagiyev uses 'we', as bosses often do."),
+    (9, None, "'Alexander Del Piero.' Nagiyev reads out a name that he knows is fake. Russians spell foreign names the way they sound, letter by letter, so it looks very different on the page."),
+    (10, None, "'He said the exhibition was cancelled.' 'Skazal' is 'said'. 'Otmenyaetsya' ends in 'sya', so 'the exhibition cancels itself'."),
+    (11, None, "'Was it a call from a Moscow number?' 'Moskovskogo' means 'Moscow', made from 'Moskva' with a new ending. 'Zvonyat' is 'they call', with nobody specified."),
+    (12, None, "'Yeah, here is the number.' 'Vot' is 'here is', and it's what you say when you hand something over."),
+    (13, None, "'Call it.' 'Nabirayte' is 'dial!', for a number. It's the polite plural."),
+    (14, None, "'I would have fired you.' 'By' turns 'I fired' into 'I would fire', and it's a tiny word that adds 'would'. 'Vas' is 'you', polite."),
+    (15, None, "'As it is, you are going to the exhibition.' 'A tak' is 'but as it is', so 'otherwise'. 'Letite' is 'you fly', and Russians use the present for 'you are going'."),
+    (16, None, "'And at your own expense.' 'Za svoy schyot' is 'at your own account', and it's the standard way to say 'at your own cost'. 'Svoy' means 'own'."),
 ]
