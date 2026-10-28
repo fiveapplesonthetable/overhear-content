@@ -26,15 +26,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you come back so angry?' 'Vernulas'' means 'came back', with an 'as' ending for a woman. 'Takaya zlaya' is 'so angry', and both end in 'aya'.
+- 'Why did you come back so angry?' 'Vernulas'' means 'came back': the woman's 'la' plus 's', a short 'sya'. 'Takaya zlaya' is 'so angry', and both end in 'aya'.
 - 'Nastya just saw me in here!' 'Tolko chto' means 'just now', and not 'only what'. 'Videla' has the 'a' of Nastya as a woman.
-- 'She simply lives in this apartment.' After 'in', 'kvartira' loses its final 'a' and picks up an 'e', so it's 'kvartire'. Max says it casually, as though it were obvious.
-- 'Did you invite our whole restaurant here?' She puts 'whole' in front of 'our restaurant', as if he had invited everybody. It is a plain word of exaggeration.
+- 'She simply lives in this apartment.' After 'in', 'kvartira' loses its final 'a' and picks up an 'e', so it's 'kvartire'.
+- 'Did you invite our whole restaurant here?' 'Ves nash restoran' is 'all our restaurant', and 'ves' matches the masculine 'restoran'. 'Priglasil', invited, ends in 'l' for Max.
 - 'In my opinion, you are exaggerating greatly now.' 'Po-moemu' is 'in my opinion', built like 'po-russki', in Russian. 'Preuvelichivaesh' grows from 'velik', great.
-- 'My reputation at the restaurant will be ruined.' 'Ruined' picks up an 'a' because 'reputation' is feminine. It's built on 'destroy'.
+- 'My reputation at the restaurant will be ruined.' 'Razrushena', ruined, ends in 'a' because 'reputatsiya' is feminine. 'Budet razrushena' is literally 'will be destroyed'.
 - 'Nastya is a kind girl and knows how to keep quiet.' 'Umeet' means 'knows how', so it's about a skill. 'Molchat' is 'to be silent'. Max is soothing.
 - 'Waiters always discuss the management's personal life.' 'Ofitsianty' is waiters, in the plural. 'Nachalstva' is the management as a body, and the ending 'a' shows 'of'.
-- 'No one will discuss you, calm down.' Max's 'will not begin' works as a plain 'won't'. The calming order has a 'sya'.
+- 'No one will discuss you, calm down.' 'Ne stanet obsuzhdat' is literally 'will not start to discuss', a common way to say 'won't'. The calming order has a 'sya'.
 - 'I will never come here again.' Literally, 'more never not'. The triple negative is correct Russian. 'Pridu' is the on-foot kind of 'come'.
 - 'Perhaps it is already time for you to go to work.' 'Pozhaluy' means 'perhaps' or 'I suppose', and it softens a suggestion. 'Tebe pora' is literally 'to you time'.
 - 'We must leave the building separately.' 'Razdelno' comes from the verb 'to divide'. 'Iz doma' is 'out of the house', with 'a' after 'dom'.

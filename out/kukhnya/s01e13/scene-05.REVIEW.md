@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hi to everyone.' 'Vsem' means 'to everyone'. Max says 'privet vsem', 'hi to all', and there's no 'I say'.
 - 'Boss, excuse me, I simply overslept.' 'Prospal' means 'overslept', made from 'spat', to sleep, with 'pro' meaning 'through'. 'Izvinite' is the polite form for a boss.
-- 'Such a thing will not happen again.' Russian says 'will not repeat itself', and the 'itself' is the 'sya'. 'Any more' is a single word, and Max sounds almost solemn.
-- 'Today you are working in the stockroom.' 'Rabotaesh' is 'you work', and Russian uses it for 'you are working' and 'you will work'. 'Na sklade' is 'in the warehouse', with 'na' again, and it's the usual way to say it.
+- 'Such a thing will not happen again.' Russian says 'will not repeat itself', and the 'itself' is the 'sya'. 'Bolshe', more, stands in for 'any more' at the front.
+- 'Today you are working in the stockroom.' 'Rabotaesh' is 'you work', and Russian uses it for 'you are working' and 'you will work'. 'Na sklade' is 'in the stockroom', literally 'on the store', and 'na' is the usual word with it.
 - 'Oversleep one more time and I will fire you.' No 'if' appears in the Russian. It's 'one more time you oversleep, I fire you', and the dash does the work of 'then'.
 - 'But boss, I am an excellent cook.' With no 'am' it's just 'I excellent cook', which makes it sound blunt. 'Otlichny' is a word you'll hear for 'excellent' and for the top mark in school.
-- 'A cook must arrive at work on time.' 'Vovremya' is literally 'in time', glued together from 'v' and 'vremya'. 'Prikhodit' is the verb for arriving on foot, with an 'dolzhen' in front for 'must'.
+- 'A cook must arrive at work on time.' 'Vovremya' is literally 'in time', glued together from 'v' and 'vremya'. 'Prikhodit' is the verb for arriving on foot, with 'dolzhen', must, in front.
 - 'I promise to never be late again.' Russian happily piles up 'more', 'never' and 'not', literally 'more never not be late'. That triple negative is correct, and the verb 'opazdyvat' is 'to be late'.
 - 'I have said my word.' 'Svoyo slovo' is 'my own word', neuter to match 'slovo'. It's a set phrase, a bit like saying 'my word is final'.
-- 'Victoria Sergeyevna, why are you so silent?' Barinov uses the polite 'vy' with Vika here, in front of the staff. 'Molchite' is 'you are silent'. 'Tak' means 'so'.
+- 'Victoria Sergeyevna, why are you so silent?' Barinov uses the polite 'vy' and her full name with patronymic. 'Molchite' is 'you are silent'. 'Tak' means 'so'.
 - 'It is necessary to go to bed earlier to not oversleep.' Russians say 'lay yourself to sleep' for going to bed. Then 'chtoby', in order to, brings in the thing to avoid.
-- 'Here you see, she agrees with me.' The pointing word 'vot' does the work of 'there'. The ending 'a' on 'soglasna' shows that the agreeing person is a woman.
+- 'Here you see, she agrees with me.' 'Vot vidite', there, you see, is the stock way to say 'told you so'. The ending 'a' on 'soglasna' shows that the agreeing person is a woman.

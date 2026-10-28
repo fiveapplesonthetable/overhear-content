@@ -27,13 +27,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Damn, damn, damn, damn.' 'Blin' is literally a pancake. It is a mild 'damn' that Russians use because it sounds like a stronger word and is safe. Max says it four times.
 - 'I dropped the box onto the floor.' 'Uronil' means 'dropped', literally 'made fall', and it is a man's past form. 'Na pol' is 'onto the floor', and 'na' means 'on' with a direction.
-- 'They run very fast.' Russian splits 'run' in two. The kind used here is for running around, here and there, and not in a straight line.
+- 'They run very fast.' Russian splits 'run' in two. 'Begayut' is the running-around kind, here and there, not 'begut', in one direction.
 - 'What did you do again, Max?' 'Natvoril' is 'got up to', for trouble. It's built on 'tvorit', 'to create', so Barinov asks what Max has 'created' this time. 'Opyat' is 'again'.
-- 'I just wanted to take the products.' 'Produkty' covers any food, and Max picks the vaguest option on the shelf. His 'wanted' picks up an 'l' because he's a man.
+- 'I just wanted to take the products.' 'Produkty' looks like 'products' but means groceries, any food. His 'wanted' picks up an 'l' because he's a man.
 - 'Quickly get all the nets!' Orders to a crowd take 'ite', so it's 'berite'. 'Seti' is the plural of 'set', and the singular also means a computer network.
 - 'Take the big and small ones.' Russian drops 'nets' here, since everybody knows what's meant. The two describing words stand alone.
-- 'Take everything that we have.' Russian has no verb for 'to have' in this sense. It says 'at us there is', so the thing you own sits in the middle of an 'at' phrase.
-- 'We need to catch them all.' 'Poymat' means to catch successfully, and it has the sense that you've got it. Both 'them' and 'all' change their shape after it.
+- 'Take everything that we have.' 'U nas est' is literally 'at us there is', the everyday way to say 'we have'. 'Vsyo, chto' is 'everything that'.
+- 'We need to catch them all.' 'Poymat' means to catch successfully, and it has the sense that you've got it. 'Ikh vsekh', them all, is the form of 'oni vse' for the people or things being caught.
 - 'One hid under the table.' The creature hid itself, so the action ends in 'sya'. 'Under the table' puts 'om' on 'table'.
 - 'Do not just stand like that, search!' 'Just like that' is a stock phrase for 'for no reason'. The negative order and the positive one sit side by side, which is typical of an angry boss.
-- 'I will catch it now.' The little word for 'him' or 'it' is masculine here, because the Russian word for the runaway creature is masculine. Gender decides the pronoun, even for animals.
+- 'I will catch it now.' 'Ego' is 'him' or 'it', masculine to match 'odin', the one that hid. 'Poymayu', I will catch, has no helper word, like 'kuplyu' earlier.

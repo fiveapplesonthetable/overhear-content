@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Vika wakes up in a flat she doesn't know and quickly works out whose it is. Max has an explanation, and she doesn't like it. Listen to it in Russian before we pick it apart."
 OPENER = 'The morning-after argument again, one line at a time.'
 TRANSITION = 'Now the argument in full.'
-OUTRO = 'Vika is horrified and Max is rather pleased with himself. Watch how carefully she reaches for her clothes. Catch you next time.'
+OUTRO = "Vika wants out, and Max points her to the chair. 'Lezhit', lies, is the verb to reuse for anything left on a table or a chair. Catch you next time."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Где я нахожусь? Что это такое?', 'Where am I? What is this?', [(221, 'где я?')], ''),
@@ -34,14 +34,14 @@ WALK = [
     (0, None, "'Where am I? What is this?' Vika asks 'where do I find myself', which is the usual Russian 'where am I?'. The extra word 'takoe' makes the second question urgent."),
     (1, None, "'Did you drag me here again?' The 'za' on the front of the verb adds the feel of pulling someone in. 'Here' is the direction kind, 'to here'."),
     (2, None, "'Of course, tied you up and brought you here myself.' It's obviously a joke. 'Svyazal' is 'tied up', and 'sam' is 'myself', in a man's form. 'Prinyos' means 'carried here'."),
-    (3, None, "'Do not laugh at me, tell the truth.' Russians laugh 'over' somebody, so the phrase is 'nado mnoy', and the 'sya' ending makes it 'laugh oneself'. 'Truth' takes the form it has after 'tell'."),
-    (4, None, "'You called me yourself at night from the club.' In Russian a woman's verb takes the ending 'a', so 'pozvonila' tells you Vika is the caller. 'At night' is one word."),
-    (5, None, "'I could not do such a foolish thing.' Russian builds 'a foolish thing' from the word for 'foolish' with a new ending. Vika is saying 'I couldn't do such a stupidity'."),
-    (6, None, "'You were crying into the phone at three o'clock.' Russian says 'into the receiver', since 'trubka' literally means 'pipe', and a phone used to look like one. 'At three o'clock' puts the number and 'hour' in the special form."),
+    (3, None, "'Do not laugh at me, tell the truth.' Russians laugh 'over' somebody, so the phrase is 'nado mnoy', and the 'sya' ending makes it 'laugh oneself'. 'Pravda', truth, becomes 'pravdu' as the thing being told."),
+    (4, None, "'You called me yourself at night from the club.' In Russian a woman's verb takes the ending 'a', so 'pozvonila' tells you Vika is the caller. 'Nochyu', at night, comes from 'noch', night."),
+    (5, None, "'I could not do such a foolish thing.' 'Glupost' is a foolish thing, from 'glupy', foolish, so 'takuyu glupost' is literally 'such a stupidity'. 'Mogla' ends in 'a' for a woman."),
+    (6, None, "'You were crying into the phone at three o'clock.' Russian says 'into the receiver', since 'trubka' literally means 'pipe', and a phone used to look like one. 'V tri chasa' is 'at three o'clock': after 'tri', three, 'chas', hour, becomes 'chasa'."),
     (7, None, "'What was I telling you then, Max?' 'Govorila' has an 'a' for a woman, and it means 'was saying'. 'Togda' is 'then', and 'tebe' is 'to you'."),
     (8, None, "'You were begging me to take you home.' 'Prosila' is 'asked', and Russians use it for begging. 'Zabrat' is to pick up, and 'domoy' is homewards."),
     (9, None, "'You simply took advantage of my momentary weakness.' 'Vospolzovalsya' means 'used', with 'sya'. 'Minutnoy' is 'of a minute', so 'momentary'. 'Slabost' comes from 'slaby', weak."),
-    (10, None, "'I simply saved you from trouble.' 'Nepriyatnost' is the opposite of 'priyatny', pleasant, so it's literally an 'unpleasantness'. It's plural here."),
+    (10, None, "'I simply saved you from trouble.' 'Nepriyatnost' is the opposite of 'priyatny', pleasant, so it's literally an 'unpleasantness'. Here it's plural, 'ot nepriyatnostey', from troubles."),
     (11, None, "'I need to leave here urgently, Max.' 'Mne nuzhno' is 'to me it's needed', and Russian makes need happen to you. 'Uyti' starts with 'u', the prefix for 'away'."),
     (12, None, "'Your clothes are lying on that chair.' Russians use 'lies', 'lezhit', for things on flat surfaces, where English says 'is'. 'Na tom stule' is 'on that chair', and 'odezhda' is always singular."),
 ]

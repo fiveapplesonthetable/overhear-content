@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Viktor Petrovich, you have a broken mirror here.' 'At you here' is the polite way to say 'you have'. 'Broken' ends in 'oe' to go with 'mirror', which is a neuter word.
-- 'Well, would you look at that!' 'Nado zhe' is an old idiom meaning 'well I never!' It's made out of 'nado', 'necessary', and the little 'zhe' that adds feeling. Barinov is laying a trap.
-- 'Didn't you notice?' Barinov uses the formal 'you' for his ex-wife, and it sounds icy. A man shouting at his ex rarely sounds so polite.
+- 'Well, would you look at that!' 'Nado zhe' is an old idiom meaning 'well I never!' It's made out of 'nado', 'necessary', and the little 'zhe' that adds feeling.
+- 'Didn't you notice?' Barinov keeps the polite 'vy' with his ex-wife. 'Zametili', noticed, ends in 'li', the past ending that goes with 'vy' even for one person.
 - 'That yours is too?' It is only 'at you also', which is Russian for 'yours too'. 'Tozhe' is the part to take away.
 - 'Mine? How? Where?' Three question words fire in a row, with no verb between them. 'At me' is literally Russian for 'mine', and the other two are 'how' and 'where'.
 - 'Right there.' Three tiny words, 'nu vot zhe', pile up to mean 'look, right there'. The particle 'zhe' adds the weight, and 'vot' is the pointing word.
 - 'Now we're even.' 'Kvity' is the same word as the English 'quits', and it means the same. 'Teper' is 'now', and 'my' is 'we'.
-- 'Kostya, did you see?' A man's 'videl' ends in 'l'. A woman's would end in 'la', and the question stays the same. Nastya whispers it with as few words as she can.
+- 'Kostya, did you see?' A man's 'videl' ends in 'l'. A woman's would end in 'la', and the question stays the same.
 - 'He smashes the mirror on her car.' The verb 'razbivaet' means smashing to bits, and the everyday verb 'slomat' is for breaking, as of a mechanism. 'Ee mashiny' has the ending 'y' that means 'of'.
-- 'And she acts like she had nothing to do with it.' 'Tipa' is teenage slang meaning 'sort of', and 'ne pri delakh' is slang for 'not involved'. Nastya sounds casual and annoyed in equal measure.
+- 'And she acts like she had nothing to do with it.' 'Tipa' is casual speech for 'sort of' or 'like'. 'Ne pri delakh', literally 'not at the deals', is slang for 'nothing to do with it'.
 - 'I am sure.' The 'a' at the end tells you Nastya is speaking, since a man would say it without. Two words are all it takes.
 - 'This won't just blow over.' 'Prosto tak' is 'just like that'. 'Zakonchitsya' means 'will end', with 'sya' because things end by themselves.

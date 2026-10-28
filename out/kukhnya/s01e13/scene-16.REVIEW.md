@@ -29,13 +29,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where am I? What is this?' Vika asks 'where do I find myself', which is the usual Russian 'where am I?'. The extra word 'takoe' makes the second question urgent.
 - 'Did you drag me here again?' The 'za' on the front of the verb adds the feel of pulling someone in. 'Here' is the direction kind, 'to here'.
 - 'Of course, tied you up and brought you here myself.' It's obviously a joke. 'Svyazal' is 'tied up', and 'sam' is 'myself', in a man's form. 'Prinyos' means 'carried here'.
-- 'Do not laugh at me, tell the truth.' Russians laugh 'over' somebody, so the phrase is 'nado mnoy', and the 'sya' ending makes it 'laugh oneself'. 'Truth' takes the form it has after 'tell'.
-- 'You called me yourself at night from the club.' In Russian a woman's verb takes the ending 'a', so 'pozvonila' tells you Vika is the caller. 'At night' is one word.
-- 'I could not do such a foolish thing.' Russian builds 'a foolish thing' from the word for 'foolish' with a new ending. Vika is saying 'I couldn't do such a stupidity'.
-- 'You were crying into the phone at three o'clock.' Russian says 'into the receiver', since 'trubka' literally means 'pipe', and a phone used to look like one. 'At three o'clock' puts the number and 'hour' in the special form.
+- 'Do not laugh at me, tell the truth.' Russians laugh 'over' somebody, so the phrase is 'nado mnoy', and the 'sya' ending makes it 'laugh oneself'. 'Pravda', truth, becomes 'pravdu' as the thing being told.
+- 'You called me yourself at night from the club.' In Russian a woman's verb takes the ending 'a', so 'pozvonila' tells you Vika is the caller. 'Nochyu', at night, comes from 'noch', night.
+- 'I could not do such a foolish thing.' 'Glupost' is a foolish thing, from 'glupy', foolish, so 'takuyu glupost' is literally 'such a stupidity'. 'Mogla' ends in 'a' for a woman.
+- 'You were crying into the phone at three o'clock.' Russian says 'into the receiver', since 'trubka' literally means 'pipe', and a phone used to look like one. 'V tri chasa' is 'at three o'clock': after 'tri', three, 'chas', hour, becomes 'chasa'.
 - 'What was I telling you then, Max?' 'Govorila' has an 'a' for a woman, and it means 'was saying'. 'Togda' is 'then', and 'tebe' is 'to you'.
 - 'You were begging me to take you home.' 'Prosila' is 'asked', and Russians use it for begging. 'Zabrat' is to pick up, and 'domoy' is homewards.
 - 'You simply took advantage of my momentary weakness.' 'Vospolzovalsya' means 'used', with 'sya'. 'Minutnoy' is 'of a minute', so 'momentary'. 'Slabost' comes from 'slaby', weak.
-- 'I simply saved you from trouble.' 'Nepriyatnost' is the opposite of 'priyatny', pleasant, so it's literally an 'unpleasantness'. It's plural here.
+- 'I simply saved you from trouble.' 'Nepriyatnost' is the opposite of 'priyatny', pleasant, so it's literally an 'unpleasantness'. Here it's plural, 'ot nepriyatnostey', from troubles.
 - 'I need to leave here urgently, Max.' 'Mne nuzhno' is 'to me it's needed', and Russian makes need happen to you. 'Uyti' starts with 'u', the prefix for 'away'.
 - 'Your clothes are lying on that chair.' Russians use 'lies', 'lezhit', for things on flat surfaces, where English says 'is'. 'Na tom stule' is 'on that chair', and 'odezhda' is always singular.

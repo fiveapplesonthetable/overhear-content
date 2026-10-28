@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Kostya has come to Nastya's flat expecting a romantic evening. Nastya, though, has something honest to say. Their conversation comes first, in Russian."
-OPENER = 'Gently, a line at a time.'
+INTRO = "Kostya has come to Nastya's flat expecting a romantic evening. Nastya, though, has something honest to say. Hear how she says it in Russian first."
+OPENER = 'Back through it slowly.'
 TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "Kostya takes it well, and the two of them settle for a calm night. If you ever need to say 'I feel obliged', you have the words now. Until next time."
+OUTRO = "Kostya takes it well, and the two of them settle for a calm night. Keep 'blagodarna', grateful, for the next time someone helps you, or 'blagodaren' if you're a man. Until next time."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, подожди секунду, не спеши.', 'Kostya, wait a second, do not rush.', [], ''),
@@ -40,8 +40,8 @@ WALK = [
     (6, None, "'I am simply very grateful for your help.' 'Blagodarna' is 'grateful', in a woman's form. It's built from 'blago', good, and 'darit', to give. 'Za' is 'for'."),
     (7, None, "'Do you think that you owe me?' 'Obyazana' is a woman's 'obliged', and the 'a' gives her away. After 'dumaesh' comes 'chto', and the comma in front of it is mandatory in Russian."),
     (8, None, "'Yes, I feel like a dishonest person.' 'Chuvstvuyu sebya' is literally 'I feel myself'. 'Nechestny' is 'ne' plus 'chestny', and 'ne' is how Russians make opposites."),
-    (9, None, "'Let us just sleep quietly tonight.' 'Pospim' is a short sleep, and the 'po' makes it brief. 'Spokoyno' means calmly, and it sits right after it."),
-    (10, None, "'All right, let us just sleep tonight.' Kostya copies her sentence and trims it, and echoing someone's words is how Russians agree. It's the same 'let's' form."),
+    (9, None, "'Let us just sleep quietly tonight.' 'Pospim' is a short sleep, and the 'po' makes it brief. 'Spokoyno', calmly, sits just in front of it."),
+    (10, None, "'All right, let us just sleep tonight.' Kostya repeats her words, minus 'spokoyno'. 'Davay' with a 'we' verb is the same 'let's' form as before."),
     (11, None, "'Kostya, do you really understand my feelings?' 'Chuvstva' means 'feelings' and belongs to the family of 'chuvstvuyu', 'I feel'. 'Pravda' means 'truth', but here it means 'really'."),
-    (12, None, "'Yes, Nastya, everything is completely fine.' 'Normalno' is the English 'normal' with an 'o', because Russian adverbs end in 'o'. 'Completely' and 'everything' are two short words in front."),
+    (12, None, "'Yes, Nastya, everything is completely fine.' 'Normalno' is the English 'normal' with an 'o', because Russian adverbs end in 'o'. 'Sovershenno', completely, is the word Max used in the car for 'absolutely right'."),
 ]

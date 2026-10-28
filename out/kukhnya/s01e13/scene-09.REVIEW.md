@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you tell me you were leaving?' A woman did the telling, so the verb ends in 'a'. The 'leaving' word starts with 'u', the prefix that means 'away' for a vehicle.
+- 'Why didn't you tell me you were leaving?' 'Skazala' ends in 'a' because 'ty' here is Vika. 'Uezzhaesh', you're leaving, has 'u', away, on a verb for going by vehicle.
 - 'Let's talk later.' 'Davay' begins a suggestion. 'Pozzhe' is 'later', and 'pogovorim' is 'let's have a talk'. Vika wants the talk to happen, but not now.
 - 'No, we're talking now!' It's the same 'pogovorim' as before, and the only thing that changes is 'seychas', 'now'. Max copies her words, which is a good way to answer.
 - 'Let me explain what's going on.' The phrase for 'what's going on' is literally 'in what is the matter'. It's a set expression, so learn it as a lump and use it whenever you want an explanation.
 - 'You've been avoiding me all day!' 'Running around' is how Russian says 'avoiding', so she says 'you run from me'. English uses 'have been' for this, but Russian just uses the present.
 - 'I need to think.' 'Podumat' has a 'po' that makes the thinking short, as in 'think for a bit'. 'Mne nado' is 'to me it's necessary', Russian for 'I need'.
 - 'We'll talk in three days when I get back.' The prefix 'pri' means 'arrive', and the rest is the action of flying. So Vika says 'I'll arrive by air', which suits a plane trip.
-- 'Vika, good morning!' 'Utro' is a neuter word, so 'good' becomes 'dobroe'. Max is trying to start again with a smile.
+- 'Vika, good morning!' 'Utro' is a neuter word, so 'good' becomes 'dobroe'. Here, and on the coffee line, Max talks as if nothing has happened.
 - 'I brought you coffee.' The word order is 'to you coffee brought', and Russian is perfectly happy with that. 'Prinyos' is 'brought', and 'kofe' never changes its ending.
-- 'I hate you!' It's a very strong word, so Russians use it only when they mean it. The 'you' that follows takes a different shape.
-- 'You don't like coffee?' Max is baffled. 'Lyubish' is 'you like' or 'you love', depending on what's coming. It's the only everyday word for 'like'.
+- 'I hate you!' 'Nenavizhu' is 'I hate', and it's every bit as strong as the English. 'Tebya' is the form of 'ty' for the person on the receiving end.
+- 'You don't like coffee?' Max is baffled. 'Lyubish' is 'you like' or 'you love', depending on what's coming. For liking a thing, Russians also say 'tebe nravitsya', literally 'to you it is pleasing'.
 - 'What the hell coffee!' 'Kakoy' plus a noun gives a scornful 'what do you mean, ...!'. 'K chyortu' means 'to the devil', a mild way of dismissing the coffee.
 - 'I missed the Milan trip because of you!' 'Didn't fly' ends in 'a' for a woman. The phrase 'because of you' is the one Russians use for blame.

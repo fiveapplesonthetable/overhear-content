@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I need to tell you something.' The 'koe' on the front of 'something' means 'a certain', so it comes out 'a certain something'. 'To me' and 'to you' both sit in the sentence.
+- 'Kostya, I need to tell you something.' The 'koe' on the front of 'something' means 'a certain', so it comes out 'a certain something'. 'Mne nado' is 'to me it's necessary', I need to, and 'tebe' is 'to you', the person being told.
 - 'I acted wrongly.' Nastya's 'a' on 'postupila' tells you a woman speaks. 'Nepravilno' is simply 'pravilno', correctly, with 'ne' in front.
 - 'Nastya, did you change your mind about tonight?' 'Peredumala' is 'changed your mind', built from 'dumat', 'to think', and 'pere', 'over again'. 'Naschyot' means 'regarding' and is common in speech.
 - 'That's not what I'm talking about.' Russian says 'I not about this', with no action word. It is a good phrase for steering a conversation back.
@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Wow!' It's literally 'nothing to oneself', and nobody can say why it means 'wow', but it does. It's a good one to say when you are surprised.
 - 'And what do we do now?' Russian says 'what to do', with no 'we' and no 'should'. The basic form of the action carries all of it.
 - 'So, is everything still on for tonight?' 'Stalo byt' means 'so', literally 'it has become to be'. 'V sile' is 'in force', so 'still on'. Kostya is thinking only about the date.
-- 'Kostya!' It is just his name, said as a telling-off. She calls him 'Kostya' here, and not the pet name 'Kostik', which she uses only when she is pleased.
+- 'Kostya!' It is just his name, said as a telling-off. She uses plain 'Kostya' here, not the pet name 'Kostik' from the bar.
 - 'How could you?' 'Mozhesh' is 'you can', so literally 'how can you'. In Russian it works as a reproach when someone has done something unthinkable.
 - 'You only think about one thing!' 'Ob odnom' uses 'ob' before a vowel, which makes the phrase easier to say. A small 'i' in the sentence gives 'only' extra bite.

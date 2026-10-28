@@ -31,11 +31,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And I want to stay at your place today.' 'At your place' is 'u tebya', literally 'at you'. Russians use it for anyone's home: 'u menya' is my place, 'u nego' is his.
 - 'At my place? Did someone kick you out?' He answers with the same 'u menya', now as a question. 'Someone kicked you out' puts 'you' first, 'tebya kto-to vygnal', and the little 'to' on the end of 'kto-to' is what turns 'who' into 'someone'.
 - 'No, it is time for us to take the next step.' Word for word, 'to us time', which gives 'it's time for us'. 'Next' comes from a word meaning 'to follow'.
-- 'Do you want to get married?' Careful with this one: 'vyyti zamuzh' is 'to go out behind a husband', and only a woman can do it. A man would say something else, so Kostya has asked Nastya whether she wants to marry him, and not the other way round.
+- 'Do you want to get married?' Careful with this one: 'vyyti zamuzh' is 'to go out behind a husband', and only a woman can do it. A man would use a different verb, zhenitsya, so this is a question you can only put to a woman.
 - 'Kostik, you are so funny!' 'Kostik' is a pet name made from Kostya with a small-making ending, the way English adds 'ie' to a name. 'Smeshnoy' is 'funny', and 'takoy' is 'such'.
 - 'We will simply spend this evening together.' Spending time takes its own verb in Russian, and it's never used for money. 'Vmeste', together, is a first-week word that you can reuse everywhere.
 - 'And we will not tell anyone anything?' Three negatives pile up: 'nikomu', 'nichego', 'ne'. That's how Russian makes it emphatic, and it isn't a mistake. Literally, 'to no one nothing we won't say'.
-- 'This will be our little secret.' Here 'will be' is spoken out loud, and 'malenky' makes the secret sound cosy, which is exactly what Nastya wants.
-- 'Great, that sounds very logical.' Kostya has gone slightly formal, which is the joke: 'zvuchit logichno' is how a lecturer might say it. 'Logichno' looks just like the English, and that's no accident.
+- 'This will be our little secret.' Here 'will be' is spoken out loud, and 'malenky' makes the secret sound cosy. 'Nash', our, has no ending added because 'sekret' is masculine.
+- 'Great, that sounds very logical.' 'Zvuchit' is 'it sounds', from the same root as 'zvuk', a sound. 'Logichno' is 'logical' with an 'o' on the end, the 'how' form.
 - 'I will quickly buy beautiful candles.' 'Kuplyu' is 'I will buy', and there's no helper word in it. 'Svechi' is candles, a plural, and the word for beautiful has a plural ending to match.
 - 'Good, make this evening magical!' Nastya gives an order, then names what the evening should turn into. 'Magical' is the adjective of 'volshebnik', a wizard, with the 'ym' ending of 'made into'.
