@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vika, I have been thinking about your words.' "Thought over" has the little word "over". "Here" in the middle of the line is a filler. Max has been brooding, and he is about to explain.
 - 'And what did you come up with, Max?' "Thought up" or "decided" is the sense. The little "zhe" adds "on earth". Vika is curious, and she suspects nothing yet.
 - 'I called mom, my parents are coming soon.' "Phoned to mom" has the "to" in the ending. "Will arrive" is the by-vehicle word. Max is acting quickly, as a man does when he's frightened.
-- 'We will definitely have a big wedding!' Russians "play" a wedding, the same word as for a game. "Definitely" is longer than "definitely" in English. Max is determined, and the determination is new.
+- 'We will definitely have a big wedding!' Russians "play" a wedding, the same word as for a game. The Russian "definitely" is a long, firm word. Max is determined, and the determination is new.
 - 'Max, are you saying this seriously right now?' "Seriously" is the adverb from the serious conversation. Vika is cautious. She thinks he might be joking.
 - 'If there is not enough money, we will take a loan.' "Will not suffice" is the future of "enough". "Of money" has the "of" ending. "Take" is the command word. Max has solved the problem.
 - 'On Monday I will move in with you.' "On Monday" uses the small word for "in". "Move across" has the prefix for "across". Max has worked out the whole plan, and he's cheerful.

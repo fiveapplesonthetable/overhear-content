@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'But it was working perfectly yesterday evening!' "Yesterday evening" is two words that rhyme in rhythm. The stove is "she" in Russian, so "worked" has the feminine ending. Senya argues, and he has a point.
 - 'I turned it in for important preventive maintenance.' "Turned in" means handed over. "Prophylaxis" is a doctor's word, and Barinov uses it on a stove. It sounds impressive, and that's why he uses it.
 - 'And on what are we to cook today?' Russians cook "on" a stove, so it's "on what". The question comes up in a few scenes, and it is the cook's real problem. Senya is practical.
-- 'For now cook the dishes on this little hotplate.' "For now" is the same word as "while" and "bye". The little hotplate is the stove with a diminutive ending, -ka. Barinov uses the polite plural for the whole kitchen.
+- 'For now cook the dishes on this little hotplate.' "For now" echoes "while" and "bye". The little hotplate is the stove with a diminutive ending, -ka. Barinov uses the polite plural for the whole kitchen.
 - 'This little hotplate heats up much too slowly!' "Heats up" has the -sya, "heats itself". "Too" and "slowly" are two words you've heard before. Senya complains, and he has every right.
 - 'Stop whining, cooks must know how to do everything!' "Enough" starts the line, as in "enough chatting". And "must" and "know how" are two words that stand side by side. Barinov doesn't apologise for anything.
 - 'The guests will wait for their orders very long!' "Will wait" uses the "will be" trick. "Very long" is "long" with the term for "very" in front. Senya is blunt, and he's only reporting the facts.

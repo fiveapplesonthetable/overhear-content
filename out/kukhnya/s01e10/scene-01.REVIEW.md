@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Sorry, mom, I was very late today.' "Izvini" is a bare command, "excuse me", and it is the casual one. His "was late" ends in -l because he is a boy. Russians sometimes say "strongly" where English says "very".
-- 'Why did you come home so late?' The Russian for "home", as in "come home", is one little word that already carries the "to". So there's no separate word for it. His mother's question is more worry than anger.
+- 'Why did you come home so late?' What Russian calls "home", as in "come home", is one little word that already carries the "to". So there's no separate word for it. His mother's question is more worry than anger.
 - 'I walked for a long time with my friends.' The word he uses means to stroll or hang about, not to walk somewhere. "With my friends" has the usual ending for "with" on the last word. It's a boy's story, and it's probably true.
 - 'You got lucky that dad is sleeping.' Russian doesn't say "you got lucky". It says "to you it was lucky", which turns you into the person who just happens to benefit. She is on his side.
 - 'Is dad really angry with me?' The little word at the start is "really?", a bit of doubt. And Russians are angry "on" someone, with the -sya ending that makes it "angers himself". The boy is worried, which is natural.

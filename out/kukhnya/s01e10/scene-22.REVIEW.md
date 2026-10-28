@@ -27,10 +27,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Chef, here is everything, just as we agreed.' Timur says "as we agreed", built on a word that means "reach an agreement", with the -sya. It is a businessman's greeting. He has delivered, and he wants that noticed.
 - 'Did you bring the complete order of black caviar?' "Of black caviar" has the "of" ending on both words. The chef checks the delivery like a customs officer. He says "ty" to the supplier, as old business partners do.
-- 'Here are exactly five kilograms of prime caviar.' "Exactly" is the same word as in the bet, and it also means "level". In speech, "kilogram" often loses its ending after a number. Timur is quick and precise.
+- 'Here are exactly five kilograms of prime caviar.' "Exactly" is what you heard in the bet, and it also means "level". In speech, "kilogram" often loses its ending after a number. Timur is quick and precise.
 - 'Are you definitely sure that it is fresh?' Caviar is a feminine word, so "it" is "she" in Russian, and the describing word is feminine too. Barinov asks, though he knows what the answer will be. He has been burned before.
 - 'You offend me with such strange questions, dear brother!' "Offend" is the word that gave "don't be offended". Russian men call each other "brother" when they're being warm or sly. Timur is theatrical about it.
-- 'Only the highest grade is suitable for our restaurant.' What russian calls "suitable" is "approaches", the walking-up word used earlier. Things that come up to a standard are "suitable". Barinov plays the fussy chef.
+- 'Only the highest grade is suitable for our restaurant.' What Russian calls "suitable" is "approaches", the walking-up word used earlier. Things that come up to a standard are "suitable". Barinov plays the fussy chef.
 - 'This is the freshest caviar in all of Moscow.' "The most fresh" gives the superlative, with the "most" word before the describing word. "In all Moscow" has "all" in the ending form. Timur's sales talk is the same in any language.
 - 'Such a product requires strict quality control.' "Requires" is what the pastry chef used for patience. "Quality" gives "of quality", and "control" is borrowed. Barinov is acting. He wants to taste it.
 - 'Officials eat yesterday's inferior caviar in the morning.' "Yesterday's" grows out of "yesterday". "Worse" is what Barinov used on the stove. Timur says that even the powerful get second-rate caviar. His claim is bold.

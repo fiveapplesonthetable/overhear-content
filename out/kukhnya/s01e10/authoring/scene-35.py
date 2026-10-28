@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'first_guest': 'Первый гость', 'second_guest': 'Второй гость'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "The dyed caviar has gone out to the dining room, and the guests are tasting it. They know good caviar when they eat it, or think they do. Here's the scene in Russian first."
-OPENER = "Let's go through it, one line at a time."
-TRANSITION = 'Now the whole scene again.'
-OUTRO = 'The guests are delighted, and the pike has passed its first test. Whether it passes the second test, with the owner, is another matter. Until next time.'
+INTRO = "The dyed caviar has gone out to the dining room, and the guests are tasting it. They know good caviar when they eat it, or think they do. We'll hear it through once before I say a word about it."
+OPENER = "I'll take you through it now."
+TRANSITION = 'Everything again, from the beginning.'
+OUTRO = 'The guests are delighted, and the pike has passed its first test. Whether it passes the second test, with the owner, is another matter. Until then.'
 CLOSING = ('second_guest', 'Пока!')
 STORY = [
     ('first_guest', 'Попробуйте эту закуску, господа.', 'Taste this appetizer, gentlemen.', [], ''),

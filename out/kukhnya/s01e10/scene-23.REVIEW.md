@@ -29,11 +29,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'How much money did you prepare for five kilograms?' "How much of money" uses the "of" ending, as with the chocolate. Timur gets down to business at once. Pleasantries have been done with.
 - 'Name the exact price for all these goods.' "Goods" is a singular word in Russian, so "all this goods". "Name" is a command, and it's how you'd ask for a figure. Barinov stalls by asking for it again.
 - 'That will be exactly two hundred thousand rubles right now.' Russian says "from you", meaning "you owe". "From you two hundred thousand" is the usual way to ask for payment. Timur is blunt, and the sum is firm.
-- 'Timur, leave the caviar, and I will pay later.' "Leave" is what Max used for the decoration. "Give back" works for paying a debt, as it did with the borrowed money. "Later" is back from the bar scene.
+- 'Timur, leave the caviar, and I will pay later.' "Leave" is what Max used for the decoration. "Give back" works for paying a debt, as it did with the borrowed money. "Later" returns from the bar scene.
 - 'No money — no delicious caviar.' It is "no of money, no of any caviar", two short halves. Short, clipped sayings like this are common in Russian. Timur says it as a rule of his trade.
 - 'I bet all the money on your advice!' "Put" is the bet word. "By your advice" is built on the little word for "by" that you met in "by the recipe". Barinov blames Timur's tip, and it's the tip that has failed.
-- 'You lost on your favorite fast horses.' Timur is teasing: a bet on a football match is a bet on the "horses", the players. "Lost" is back from the first scene. His joke stings, and Barinov hears it.
-- 'You yourself swore by their victory!' "Swore" has the -sya, "swore himself". What russian calls "victory" is the one from the stove scene. Barinov accuses Timur of having sworn the bet was safe.
+- 'You lost on your favorite fast horses.' Timur is teasing: a bet on a football match is a bet on the "horses", the players. "Lost" reappears from the first scene. His joke stings, and Barinov hears it.
+- 'You yourself swore by their victory!' "Swore" has the -sya, "swore himself". What Russian calls "victory" was heard in the stove scene. Barinov accuses Timur of having sworn the bet was safe.
 - 'Let your horses bring caviar to you now.' "Let" starts the line, and "bring" is in a form that means "bring again and again". Timur is sarcastic, and it is a good insult. He has the upper hand.
 - 'Why are you taking this merchandise back?' The word for "take back" also means "tidy up". Barinov watches the caviar disappear. His "why" is a worry and not a question.
 - 'By the way, return three hundred rubles for this spoon!' "By the way" is a casual way to add a point. "Give back" is the word again, now in a new meaning. Barinov must pay for the taste, which is a cruel twist.

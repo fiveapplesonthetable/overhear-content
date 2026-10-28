@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "The owner of the restaurant, Dmitry Nagiyev, has a plate of caviar in front of him, and he does not like what he sees. Barinov has to explain, which is difficult. Here's the scene in Russian first."
-OPENER = "Let's go through it slowly."
-TRANSITION = 'Now the whole scene again.'
-OUTRO = 'The chef is under pressure, and the truth is about to come out. Nagiyev is not fooled. See you in the next scene.'
+INTRO = 'The owner of the restaurant, Dmitry Nagiyev, has a plate of caviar in front of him, and he does not like what he sees. Barinov has to explain, which is difficult. Here they are, in Russian.'
+OPENER = "Let's go through it again, line by line."
+TRANSITION = 'And now without my interruptions.'
+OUTRO = 'The chef is under pressure, and the truth is about to come out. Nagiyev is not fooled. See you next time.'
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Витя, иди скорее сюда к столу!', 'Vitya, come quickly here to the table!', [], ''),

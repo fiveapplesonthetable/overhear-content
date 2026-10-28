@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will we submit an official application to the registry office?' "Zags" is an acronym from the Soviet years for the civil registry office, and Russians still say it. "Submit" is the same as "serve". Max is practical, as people are in a panic.
+- 'Will we submit an official application to the registry office?' "Zags" is an acronym from the Soviet years for the civil registry office, and Russians still say it. "Submit" equals "serve". Max is practical, as people are in a panic.
 - 'Tanya, do you have acquaintances at the registry office?' "Acquaintances" grows from "get acquainted". Vika gets her sister involved. Her words are casual, but the plan is serious.
 - 'Please help us sign the register as fast as possible.' "Sign" in this sense means to get married officially. "As possible" uses "can", so "as quickly as can be". Max sounds anxious.
 - 'Let's tell this news to all the guests of the restaurant!' "Let's tell" is a polite "let's". "To all the guests" has the ending for "to". Vika is half joking. She wants Max to panic.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'tanya': 'Таня', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "A new customer sits at the corner table: Tanya, Vika's sister and Alisa's mother. She has heard something from the chef. Here's the scene in Russian first."
-OPENER = "Now let's slow it down."
-TRANSITION = 'One more time, all the way through.'
-OUTRO = 'The rumour has come from Barinov, and Vika knows it is not true. She has a few words to say to him. Speak soon.'
+INTRO = "A new customer sits at the corner table: Tanya, Vika's sister and Alisa's mother. She has heard something from the chef. See what you can catch."
+OPENER = "Here's what is going on, line by line."
+TRANSITION = 'Now you can hear it all again.'
+OUTRO = 'The rumour has come from Barinov, and Vika knows it is not true. She has a few words to say to him. Until the next scene.'
 CLOSING = ('tanya', 'Пока!')
 STORY = [
     ('tanya', 'Здравствуй, Вика! Я села за угловой столик.', 'Hello, Vika! I sat down at the corner table.', [(254, 'Угловой столик')], ''),

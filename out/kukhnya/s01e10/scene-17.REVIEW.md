@@ -31,8 +31,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Its main handle simply broke down.' The term for "handle" is a small form of "hand", so it is a little hand. "Broke" has the -sya, "broke itself". The stove is "she", so "at her" is the way to say "its". It's a good lie.
 - 'Why am I finding out about this last?' "Last" has the feminine ending, because Vika is speaking about herself. "Find out" is what Kostya used for Max. She's the manager, and she is the last to hear.
 - 'It did not have time to leave you a note!' "Have time" is a single word in Russian. The stove is the subject, and "it" is a woman, so the ending is feminine. Barinov's sarcasm is dry, and it is also a bad idea.
-- 'But the stove asked you not to worry.' "Asked" is the same as the one used for the message of goodbye. The stove, once again, is a person. Barinov keeps up the joke with a straight face.
-- 'Stop clowning around and return it immediately!' What russian calls "clown around" comes from the old word for a clown. "Immediately" is a long one. Vika is no longer polite in tone, but she still uses the polite "you".
+- 'But the stove asked you not to worry.' "Asked" equals the one used for the message of goodbye. The stove, once again, is a person. Barinov keeps up the joke with a straight face.
+- 'Stop clowning around and return it immediately!' What Russian calls "clown around" comes from the old word for a clown. "Immediately" is a long one. Vika is no longer polite in tone, but she still uses the polite "you".
 - 'The repairmen promise to return everything very soon.' "Masters" stands for craftsmen, so the repairmen are the masters. "Promise" is the one Alisa used. Barinov keeps inventing, and each lie needs another.
 - 'On what should the cooks prepare hot food?' "Hot" with a neuter ending means "hot dishes", so it works as a noun. "On what" is the cook's question. Vika is practical, and she wants an answer.
 - 'We have a small electric burner.' "At us there is" is the pattern for having a thing. "Electric" is easy to recognise. Barinov's answer to the problem is a toy, and he says it as if it were fine.

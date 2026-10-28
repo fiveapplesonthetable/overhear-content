@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The stove will return to the kitchen on time, Lyova.' "Will return" has the -sya, "come back". "On time" is one word. Barinov promises again, but this time to a gentler audience.
 - 'Do not say later that I do not listen.' "Listen" here means to hear someone and do as they say. It's the same word as in "I am listening to you". Barinov says it to nobody in particular.
 - 'I am simply worried about the evening service.' "Worry" is a "live through" word, and it takes the little word for "for". "Service" is borrowed. Lyova worries, as a good sous-chef should.
-- 'Tonight our restaurant will make a fortune.' "Will earn" is a short future. What russian calls "fortune" is also the word for "state" or "condition". Barinov is full of himself, and the walls are listening.
+- 'Tonight our restaurant will make a fortune.' "Will earn" is a short future. What Russian calls "fortune" is also the word for "state" or "condition". Barinov is full of himself, and the walls are listening.
 - 'All right, chef, I will get back to work.' "Return to work" uses the small word for "to". Lyova gives up trying to understand his boss. It's the most sensible thing he does all day.
 - 'Go and supervise the hot kitchen section.' "Keep an eye on" is the sense of the word. "Section" is the workshop, and "hot" is the cooking part. Barinov gives a real order at last.
 - 'I will do everything in the best way, chef.' "In the best form" is the idiom for "to the best of my ability". "Form" echoes "pretend". Lyova repeats his boss's confidence, in a lower voice.

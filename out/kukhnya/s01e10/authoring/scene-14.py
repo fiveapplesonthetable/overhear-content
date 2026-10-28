@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Something is wrong in the kitchen: the big stove has disappeared. Senya, the meat cook, wants to know where it has gone, and Barinov has an answer ready. Here's the scene in Russian first."
-OPENER = "Let's go back through it slowly."
-TRANSITION = 'Now the whole scene again.'
-OUTRO = "The stove is gone, and the kitchen is cooking on a toy. Barinov says it will be back in a day or two. We'll see how that goes. Catch you next time."
+INTRO = "Something is wrong in the kitchen: the big stove has disappeared. Senya, the meat cook, wants to know where it has gone, and Barinov has an answer ready. Listen first, and I'll explain afterwards."
+OPENER = "Let's unpack it."
+TRANSITION = 'Back to the full version.'
+OUTRO = "The stove is gone, and the kitchen is cooking on a toy. Barinov says it will be back in a day or two. We'll see how that goes. Take care until then."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('senya', 'Шеф, куда пропала наша большая плита?', 'Chef, where has our big stove disappeared to?', [(125, 'Шеф, а где наша плита')], ''),
@@ -35,7 +35,7 @@ WALK = [
     (2, None, '\'But it was working perfectly yesterday evening!\' "Yesterday evening" is two words that rhyme in rhythm. The stove is "she" in Russian, so "worked" has the feminine ending. Senya argues, and he has a point.'),
     (3, None, '\'I turned it in for important preventive maintenance.\' "Turned in" means handed over. "Prophylaxis" is a doctor\'s word, and Barinov uses it on a stove. It sounds impressive, and that\'s why he uses it.'),
     (4, None, '\'And on what are we to cook today?\' Russians cook "on" a stove, so it\'s "on what". The question comes up in a few scenes, and it is the cook\'s real problem. Senya is practical.'),
-    (5, None, '\'For now cook the dishes on this little hotplate.\' "For now" is the same word as "while" and "bye". The little hotplate is the stove with a diminutive ending, -ka. Barinov uses the polite plural for the whole kitchen.'),
+    (5, None, '\'For now cook the dishes on this little hotplate.\' "For now" echoes "while" and "bye". The little hotplate is the stove with a diminutive ending, -ka. Barinov uses the polite plural for the whole kitchen.'),
     (6, None, '\'This little hotplate heats up much too slowly!\' "Heats up" has the -sya, "heats itself". "Too" and "slowly" are two words you\'ve heard before. Senya complains, and he has every right.'),
     (7, None, '\'Stop whining, cooks must know how to do everything!\' "Enough" starts the line, as in "enough chatting". And "must" and "know how" are two words that stand side by side. Barinov doesn\'t apologise for anything.'),
     (8, None, '\'The guests will wait for their orders very long!\' "Will wait" uses the "will be" trick. "Very long" is "long" with the term for "very" in front. Senya is blunt, and he\'s only reporting the facts.'),

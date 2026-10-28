@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "The kitchen is warming up when Kostya, the bartender, comes in with news: a young woman is asking for the chef. Barinov is not in the mood. Here's the scene in Russian first."
-OPENER = "Now let's slow it down."
-TRANSITION = "Now we'll hear the whole thing again."
-OUTRO = 'In the end Barinov agrees to go out and see who she is. He wants his tea first, which is typical. Catch you next time.'
+INTRO = 'The kitchen is warming up when Kostya, the bartender, comes in with news: a young woman is asking for the chef. Barinov is not in the mood. Here is the whole exchange.'
+OPENER = 'Back through it, one line at a time.'
+TRANSITION = 'Here it all is again, without interruption.'
+OUTRO = 'In the end Barinov agrees to go out and see who she is. He wants his tea first, which is typical. More soon.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Шеф, вас там какая-то девушка зовёт.', 'Chef, some young woman is calling for you over there.', [(6, 'Вас там какая-то девушка зовет.')], ''),
@@ -31,11 +31,11 @@ STORY = [
     ('kostya', 'Конечно, шеф, сделаю прямо сейчас.', 'Of course, chef, I will do it right now.', [], ''),
 ]
 WALK = [
-    (0, None, '\'Chef, some young woman is calling for you over there.\' The "-to" on the end of "which" makes it "some" or "some or other", so Kostya doesn\'t know her. The russian for "calls" is a summons. He speaks politely to the boss.'),
+    (0, None, '\'Chef, some young woman is calling for you over there.\' The "-to" on the end of "which" makes it "some" or "some or other", so Kostya doesn\'t know her. The Russian for "calls" is a summons. He speaks politely to the boss.'),
     (1, None, '\'Who is she and what does she need?\' "Who she such" adds a touch of "who is she anyway". And "what to her needed" is the usual pattern again. Barinov throws two questions at once, as he does.'),
     (2, None, '\'She said that she came from television.\' "From television" starts with the little word for "from". Both "said" and "came" end in -la because the woman is the subject. Kostya passes the message like a messenger.'),
     (3, None, '\'I do not want to talk to anyone.\' Russian says "with nobody" and then "not", and both are required. It is a double negative that is simply right. Barinov, as ever, would rather shout than talk.'),
-    (4, None, '\'She says that the matter is very important.\' "Matter" is the same word as in "what is the matter". The woman is stubborn, and Kostya passes it on. He is trying to persuade the chef without saying so.'),
+    (4, None, '\'She says that the matter is very important.\' "Matter" matches the one in "what is the matter". The woman is stubborn, and Kostya passes it on. He is trying to persuade the chef without saying so.'),
     (5, None, '\'I currently have absolutely no time.\' It is "at me now absolutely no of time". The "of" ending on time is the one that follows "no". It sounds a bit formal in English, but it is plain in Russian.'),
     (6, None, '\'She is waiting for you near the main entrance.\' "Waits you" has no "for", as before. The entrance grows out of the word "to enter", so it\'s "the going in". Kostya is patient, and he keeps trying.'),
     (7, None, '\'Let her come into my office.\' The "let" word is back, and the "come" here means "drop in". "To me" is the little word for "to a person" plus the person. Barinov wants to be visited, as chefs do.'),

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Barinov has lost money and wants more to bet. He phones Dmitry Nagiyev, the owner of Claude Monet, in the hope of an advance. Here's the call in Russian first."
-OPENER = "Let's take it slowly now."
-TRANSITION = 'And once more, the whole call.'
-OUTRO = "Nagiyev won't lend a kopeck, and Barinov hangs up in a temper. The chef will have to look for money elsewhere. Speak soon."
+INTRO = "Barinov has lost money and wants more to bet. He phones Dmitry Nagiyev, the owner of Claude Monet, in the hope of an advance. Take it in once, and don't worry about the details."
+OPENER = 'Now the same thing, but slowly.'
+TRANSITION = 'Now put it all together.'
+OUTRO = "Nagiyev won't lend a kopeck, and Barinov hangs up in a temper. The chef will have to look for money elsewhere. Bye for now."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Дмитрий Владимирович, доброе вам утро!', 'Dmitry Vladimirovich, good morning to you!', [(67, 'Дмитрий Владимирович, доброе вам утро.')], ''),
@@ -42,7 +42,7 @@ WALK = [
     (7, None, '\'Is your beloved Spartak playing again?\' "Beloved" is "favourite", the same as in the first scene. Nagiyev knows his chef well. The name of the club is masculine, so the word before it is too.'),
     (8, None, '\'Yes, and I have reliable insider info!\' The little "there is" appears again: "at me there is". "Reliable" also means "faithful". A tip from a friend of a friend is, for a gambler, solid truth.'),
     (9, None, '\'Viktor, sports betting is dangerous.\' "Bets on sport" has the plural, so "dangerous" does too. Nagiyev sounds like a wise uncle. It is good advice, and he knows it won\'t be taken.'),
-    (10, None, '\'I need a small advance until tomorrow.\' What russian calls "advance" is just the English word. "Until tomorrow" is "to tomorrow". Barinov makes it sound like a tiny favour, and the word "small" does the work.'),
+    (10, None, '\'I need a small advance until tomorrow.\' What Russian calls "advance" is just the English word. "Until tomorrow" is "to tomorrow". Barinov makes it sound like a tiny favour, and the word "small" does the work.'),
     (11, None, '\'I know your advances, Viktor.\' Nagiyev puts "advance" into the plural. That is a joke, since it means there have been many. He sees through the chef and enjoys it.'),
     (12, None, '\'You will not get a single kopeck!\' "Not of a kopeck" has the double negative for emphasis. A kopeck is the hundredth part of a ruble. Nagiyev is a rich man, and his refusal is complete.'),
     (13, None, '\'Dmitry, you will regret this!\' Barinov drops the father\'s name, and with it the politeness. "Regret" means feel sorry. The chef is furious. He ends the call with a threat that he cannot carry out.'),

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Max is on his way to the kitchen when Vika stops him. She says she has something to tell him, something she has no right to keep from him. Here's the scene in Russian first."
-OPENER = "Let's go back through it slowly."
-TRANSITION = 'Here it all is again.'
-OUTRO = 'Max is left with the biggest piece of news of his life. He has no answer. See you in the next scene.'
+INTRO = 'Max is on his way to the kitchen when Vika stops him. She says she has something to tell him, something she has no right to keep from him. Just listen, and see how much you pick up.'
+OPENER = 'This time, with explanations.'
+TRANSITION = 'Once more, at the pace of a real conversation.'
+OUTRO = 'Max is left with the biggest piece of news of his life. He has no answer. Back soon.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Привет, Вика. Как твои дела?', 'Hi, Vika. How are you doing?', [(156, 'Привет'), (156, 'Как дела?')], ''),

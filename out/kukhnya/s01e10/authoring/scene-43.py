@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'guest': 'Гость'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "The pike caviar has passed, the owner is out of sight, and the guests are happy. Barinov is on the floor, charming them, and checking the score. Here's the scene in Russian first."
-OPENER = "Let's go through it, one line at a time."
-TRANSITION = 'And the whole scene again.'
-OUTRO = 'The caviar is a success, and the football is a disaster. Barinov finds out in the next scene. Catch you next time.'
+INTRO = 'The pike caviar has passed, the owner is out of sight, and the guests are happy. Barinov is on the floor, charming them, and checking the score. Listen out for the little words.'
+OPENER = "Let's see how it's put together."
+TRANSITION = 'Now it should sound clearer.'
+OUTRO = 'The caviar is a success, and the football is a disaster. Barinov finds out in the next scene. See you soon.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('guest', 'Шеф, налейте мне ещё немного вина.', 'Chef, pour me some more wine.', [(314, 'мне')], ''),
@@ -37,7 +37,7 @@ WALK = [
     (3, None, '\'We fly it here on special Boeings.\' "Transport regularly" is the word, here with a plane. "Boeings" is plural and has the "by means of" ending. Barinov\'s lie gets wilder, and the guests are charmed.'),
     (4, None, '\'Well, in taste everything is simply excellent!\' "By taste" uses the small word for "by". The guest is satisfied. He has no idea what he has tasted.'),
     (5, None, '\'In our restaurant it cannot be any other way.\' "Otherwise" and "cannot be" are two short phrases. Barinov preens, and it\'s his best performance.'),
-    (6, None, '\'Waiter, what is the score in the match now?\' "Score" is the same word as in the owner\'s scene. "In the match" has the ending for "in". He asks a waiter in the middle of a sales pitch.'),
+    (6, None, '\'Waiter, what is the score in the match now?\' "Score" echoes the one in the owner\'s scene. "In the match" has the ending for "in". He asks a waiter in the middle of a sales pitch.'),
     (7, None, '\'The score there is three-three now, our guys tied it up!\' "Played back" is how Russian says "equalised". "Ours" is a way to say "our guys", our team. The guest shares the football news.'),
     (8, None, '\'They had not tied it up like that for twenty years in a row.\' "In a row" is one word. "Twenty years" uses "let", the form after twenty. The guest is amazed, and so is everyone.'),
     (9, None, '\'And today they suddenly scored three quick goals!\' "Suddenly" is the "vdrug" from the cooks\' scene. "Hit in" is how you score a goal. The guest recounts it with joy.'),

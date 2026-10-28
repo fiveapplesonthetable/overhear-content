@@ -26,11 +26,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, some young woman is calling for you over there.' The "-to" on the end of "which" makes it "some" or "some or other", so Kostya doesn't know her. The russian for "calls" is a summons. He speaks politely to the boss.
+- 'Chef, some young woman is calling for you over there.' The "-to" on the end of "which" makes it "some" or "some or other", so Kostya doesn't know her. The Russian for "calls" is a summons. He speaks politely to the boss.
 - 'Who is she and what does she need?' "Who she such" adds a touch of "who is she anyway". And "what to her needed" is the usual pattern again. Barinov throws two questions at once, as he does.
 - 'She said that she came from television.' "From television" starts with the little word for "from". Both "said" and "came" end in -la because the woman is the subject. Kostya passes the message like a messenger.
 - 'I do not want to talk to anyone.' Russian says "with nobody" and then "not", and both are required. It is a double negative that is simply right. Barinov, as ever, would rather shout than talk.
-- 'She says that the matter is very important.' "Matter" is the same word as in "what is the matter". The woman is stubborn, and Kostya passes it on. He is trying to persuade the chef without saying so.
+- 'She says that the matter is very important.' "Matter" matches the one in "what is the matter". The woman is stubborn, and Kostya passes it on. He is trying to persuade the chef without saying so.
 - 'I currently have absolutely no time.' It is "at me now absolutely no of time". The "of" ending on time is the one that follows "no". It sounds a bit formal in English, but it is plain in Russian.
 - 'She is waiting for you near the main entrance.' "Waits you" has no "for", as before. The entrance grows out of the word "to enter", so it's "the going in". Kostya is patient, and he keeps trying.
 - 'Let her come into my office.' The "let" word is back, and the "come" here means "drop in". "To me" is the little word for "to a person" plus the person. Barinov wants to be visited, as chefs do.

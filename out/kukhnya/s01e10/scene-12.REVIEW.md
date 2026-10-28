@@ -25,8 +25,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, what is happening with our Max?' Russians put "our" in front of a person they're fond of, like a friend or a colleague. The russian for "happens" is a general one, "goes on". Vika asks it quite calmly, at first.
-- 'And what is happening with Max at all?' Kostya stalls by asking the same question back. It's the oldest trick in the book. The "at all" filler is the one from the knife scene. Vika is not fooled for a second.
+- 'Kostya, what is happening with our Max?' Russians put "our" in front of a person they're fond of, like a friend or a colleague. The Russian for "happens" is a general one, "goes on". Vika asks it quite calmly, at first.
+- 'And what is happening with Max at all?' Kostya stalls by asking the same question back. It's the oldest trick in the book. The "at all" filler was heard in the knife scene. Vika is not fooled for a second.
 - 'It is I who is asking you directly right now!' "It's me who asks you" is a natural way to insist. "Directly" is the word meaning "straight". Vika is losing patience, and she says so.
 - 'I honestly know nothing, Vika.' "Honestly" is built on "honest". And "nothing not know" gives you two negatives for one. Kostya says it softly, as if saying it softly made it more believable.
 - 'He is your best friend in the restaurant!' "Best" is related to "better", which is why they sound alike. Vika points out the obvious. She knows what friends tell each other.

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Vika is not satisfied with Kostya's first answers, so she questions him again, more sharply. She can tell Max is hiding, and she thinks Kostya knows why. Here's the scene in Russian first."
-OPENER = "Right, let's go back and take it slowly."
-TRANSITION = "Now we'll hear it all again."
-OUTRO = "Kostya has said too much, and Vika has noticed. It's a good example of how not to keep a secret. See you in the next scene."
+INTRO = "Vika is not satisfied with Kostya's first answers, so she questions him again, more sharply. She can tell Max is hiding, and she thinks Kostya knows why. Here is how it goes."
+OPENER = "Let's see what each line is doing."
+TRANSITION = "Let's hear it as a whole again."
+OUTRO = "Kostya has said too much, and Vika has noticed. It's a good example of how not to keep a secret. Happy listening."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Костя, что происходит с нашим Максом?', 'Kostya, what is happening with our Max?', [(88, 'А что происходит с Максом')], ''),
@@ -30,8 +30,8 @@ STORY = [
     ('kostya', 'Вика, я правда ничего не знаю!', 'Vika, I truly know nothing!', [(94, 'Да')], ''),
 ]
 WALK = [
-    (0, None, '\'Kostya, what is happening with our Max?\' Russians put "our" in front of a person they\'re fond of, like a friend or a colleague. The russian for "happens" is a general one, "goes on". Vika asks it quite calmly, at first.'),
-    (1, None, '\'And what is happening with Max at all?\' Kostya stalls by asking the same question back. It\'s the oldest trick in the book. The "at all" filler is the one from the knife scene. Vika is not fooled for a second.'),
+    (0, None, '\'Kostya, what is happening with our Max?\' Russians put "our" in front of a person they\'re fond of, like a friend or a colleague. The Russian for "happens" is a general one, "goes on". Vika asks it quite calmly, at first.'),
+    (1, None, '\'And what is happening with Max at all?\' Kostya stalls by asking the same question back. It\'s the oldest trick in the book. The "at all" filler was heard in the knife scene. Vika is not fooled for a second.'),
     (2, None, '\'It is I who is asking you directly right now!\' "It\'s me who asks you" is a natural way to insist. "Directly" is the word meaning "straight". Vika is losing patience, and she says so.'),
     (3, None, '\'I honestly know nothing, Vika.\' "Honestly" is built on "honest". And "nothing not know" gives you two negatives for one. Kostya says it softly, as if saying it softly made it more believable.'),
     (4, None, '\'He is your best friend in the restaurant!\' "Best" is related to "better", which is why they sound alike. Vika points out the obvious. She knows what friends tell each other.'),

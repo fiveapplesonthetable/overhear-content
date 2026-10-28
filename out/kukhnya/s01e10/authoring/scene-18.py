@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "The day goes on, and Vika remembers something she forgot: the money for the caviar that the restaurant needs for tonight. She gives it to Barinov, who has other ideas for it. Here's the scene in Russian first."
-OPENER = "Let's take it slowly now."
-TRANSITION = 'Here it all is once more.'
-OUTRO = 'Barinov has the money and gives his word. It will not be spent on caviar. See you in the next scene.'
+INTRO = 'The day goes on, and Vika remembers something she forgot: the money for the caviar that the restaurant needs for tonight. She gives it to Barinov, who has other ideas for it. Listen out for the little words.'
+OPENER = "Let's see how it's put together."
+TRANSITION = 'Now it should sound clearer.'
+OUTRO = 'Barinov has the money and gives his word. It will not be spent on caviar. See you soon.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Виктор Петрович, я совсем забыла.', 'Viktor Petrovich, I completely forgot.', [(152, 'Забыла совсем')], ''),
@@ -41,5 +41,5 @@ WALK = [
     (8, None, '\'And what is going on with our stove?\' "There" in the middle of the sentence is a filler. "With our stove" has the "with" endings. Vika asks again, because she doesn\'t believe the first answer.'),
     (9, None, '\'The craftsmen are already finishing the complex repair.\' "Finish" is the one from the dessert. "Complex" is the same word as "difficult". Barinov invents a repair, and each word is more official than the last.'),
     (10, None, '\'I rely on your honesty, chef.\' "Hope on" is the Russian for "rely on". The word for honesty grows from "honest". It\'s a trust she gives him, and he does not deserve it.'),
-    (11, None, '\'I always keep my manly word.\' Russians "hold" their word, where English says "keep". The russian for "manly" comes from "husband" or "man". Barinov swears on his word, and the audience knows better.'),
+    (11, None, '\'I always keep my manly word.\' Russians "hold" their word, where English says "keep". The Russian for "manly" comes from "husband" or "man". Barinov swears on his word, and the audience knows better.'),
 ]

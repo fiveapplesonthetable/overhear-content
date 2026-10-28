@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Back in the kitchen of Claude Monet, the morning after a football match. Barinov has a hangover, and Senya, the meat cook, arrives with the traditional Russian cure. Here's their talk in Russian first."
-OPENER = "Let's take it again, slowly."
-TRANSITION = 'Now the whole conversation again, from the top.'
-OUTRO = 'Barinov has his brine and his bad mood. Spartak has lost again, so the day will be a hard one for everybody in the kitchen. Until next time.'
+INTRO = 'Back in the kitchen of Claude Monet, the morning after a football match. Barinov has a hangover, and Senya, the meat cook, arrives with the traditional Russian cure. No need to catch everything on the first pass.'
+OPENER = 'Now, step by step.'
+TRANSITION = 'Listen to it once more.'
+OUTRO = 'Barinov has his brine and his bad mood. Spartak has lost again, so the day will be a hard one for everybody in the kitchen. Talk soon.'
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('senya', 'Шеф, как ваше здоровье сегодня утром?', 'Chef, how is your health this morning?', [(4, 'Шеф!')], ''),
@@ -36,7 +36,7 @@ WALK = [
     (2, None, '\'I brought you cold fresh brine.\' Brine from a jar of pickled cucumbers is the Russian hangover cure, and everybody knows it. Senya\'s "brought" has the man\'s -l, and the "you" is the polite one.'),
     (3, None, '\'Oh, Senya, you are a true loyal friend.\' Two describing words come before "friend": real and faithful. The second is the word that also means "reliable". Barinov is moved, because the pain has gone down a little.'),
     (4, None, '\'Drink a little, it will immediately become much easier.\' Senya drops the polite "you" and says "drink" the casual way, one old kitchen hand to another. "Easier" is "light" with a new ending, and "much" sits in front of it.'),
-    (5, None, '\'This drink helps me very much.\' Russian says "helps to me", where English says "helps me". What russian calls the drink comes from a word meaning to sip or drink. Barinov says it like a man giving a review.'),
+    (5, None, '\'This drink helps me very much.\' Russian says "helps to me", where English says "helps me". What Russian calls the drink comes from a word meaning to sip or drink. Barinov says it like a man giving a review.'),
     (6, None, '\'Did Spartak lose an important match again yesterday?\' Senya is brave. "Yesterday" is a small word that rhymes with nothing in English. The question is cautious, and he knows he is poking a sore spot.'),
     (7, None, '\'Do not talk to me about that nightmare.\' "Nightmare" in Russian is used for anything awful, not just bad dreams. And "about" is a small word that you\'ve met in "talk about". Barinov wants the subject closed.'),
     (8, None, '\'Understood, chef, no more unnecessary words.\' Russian says "it is clear" for "understood". And "no unnecessary words" has the "not any" form with the double negative. Senya gets the message, and he stops.'),

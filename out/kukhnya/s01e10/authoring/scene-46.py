@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'host': 'Ведущий', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'The episode ends with a cooking show on television, "Delicious Morning". The host fries an egg, and Max\'s voice comments on life. Here\'s the scene in Russian first.'
-OPENER = "Let's take it again, slowly."
-TRANSITION = 'Now the whole thing once more.'
-OUTRO = 'That is the end of the episode: a fried egg and a few wise words from Max. When you watch, look for the moment he says that fate may not give a second chance. Until next time.'
+INTRO = 'The episode ends with a cooking show on television, "Delicious Morning". The host fries an egg, and Max\'s voice comments on life. Hear it first, then we\'ll pick it apart.'
+OPENER = "We'll go slowly this time."
+TRANSITION = "This time you'll hear more."
+OUTRO = 'That is the end of the episode: a fried egg and a few wise words from Max. When you watch, look for the moment he says that fate may not give a second chance. Carry on listening, and see you soon.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('host', 'Доброе утро всем ранним зрителям нашего шоу!', 'Good morning to all early viewers of our show!', [(342, 'Доброе утро всем тем, кому не спится в такую рань.')], ''),

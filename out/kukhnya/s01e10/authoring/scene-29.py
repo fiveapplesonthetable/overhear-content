@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "The box is open, and the chef is looking at what Senya has brought: pike caviar, not black caviar. The price is low and the colour is wrong. Here's the scene in Russian first."
-OPENER = "Let's go through it slowly."
-TRANSITION = "Now we'll hear it all again."
-OUTRO = 'The caviar is cheap and yellow, and the chef already has a plan to fix both. Senya is ready to help. See you in the next scene.'
+INTRO = 'The box is open, and the chef is looking at what Senya has brought: pike caviar, not black caviar. The price is low and the colour is wrong. The Russian comes first.'
+OPENER = "We'll take it a bit at a time."
+TRANSITION = 'And again, the whole conversation.'
+OUTRO = 'The caviar is cheap and yellow, and the chef already has a plan to fix both. Senya is ready to help. On to the next.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('senya', 'Вот товар, как вы заказывали, шеф.', 'Here is the goods, as you ordered, chef.', [(204, 'вы заказывали')], ''),

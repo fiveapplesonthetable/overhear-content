@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In the office, Barinov speaks to Max about Vika's family. He has some experience of them, and not good experience. Here's the scene in Russian first."
-OPENER = "Right, let's go back through it."
-TRANSITION = 'Here it all is once more.'
-OUTRO = "Barinov tells Max he must take responsibility. It's the first time the chef has sounded fatherly. Catch you next time."
+INTRO = "In the office, Barinov speaks to Max about Vika's family. He has some experience of them, and not good experience. No need to catch everything on the first pass."
+OPENER = 'Now, step by step.'
+TRANSITION = 'Listen to it once more.'
+OUTRO = "Barinov tells Max he must take responsibility. It's the first time the chef has sounded fatherly. Talk soon."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Вот это ты сильно попал, парень.', 'Now you are in deep trouble, lad.', [(189, 'Вот это ты попал')], ''),
@@ -31,14 +31,14 @@ STORY = [
     ('barinov', 'Мужчина обязан отвечать за свои поступки.', 'A man is obliged to answer for his actions.', [(201, 'За свои поступки надо отвечать')], ''),
 ]
 WALK = [
-    (0, None, '\'Now you are in deep trouble, lad.\' "Hit" means hitting a target, used for "landed in". What russian calls "lad" is casual. Barinov is gruff, and also a little amused.'),
+    (0, None, '\'Now you are in deep trouble, lad.\' "Hit" means hitting a target, used for "landed in". What Russian calls "lad" is casual. Barinov is gruff, and also a little amused.'),
     (1, None, '\'Chef, believe me, it just happened accidentally.\' "Believe" is the polite command. "Accidentally" is the one from "chance". "Turned out" stands for a result. Max talks like a man giving a statement.'),
     (2, None, '\'You had to think with your head in advance.\' "It was necessary" is the past of "it\'s necessary", so it means "you should have". Russian thinks "with the head", with the instrument ending. Barinov is blunt.'),
     (3, None, '\'What am I to do now?\' The little "zhe" gives it the "on earth". "To me to do" is the Russian pattern. Max\'s question is a prayer, and he asks it of the wrong man.'),
     (4, None, '\'Their family will not leave you alone now.\' "Fall behind" is how Russians say "leave alone". "Their" is "of them". Barinov warns him, and his warning comes from experience.'),
     (5, None, '\'Do you know this family so well?\' "This family" takes an ending for the thing known. Max asks politely, with "you". It\'s a clever question, because the answer will be a surprise.'),
     (6, None, '\'I myself used to live in this family.\' "Lived" is the past of "live", the root of "life". "Earlier" covers "formerly". Barinov was once married to Vika\'s sister, and he says so lightly.'),
-    (7, None, '\'And did they drive you out of the house?\' "Drive out" is back from the kitchen scene. "From the house" is the ending for "from". Max guesses at the story. His guess is close.'),
+    (7, None, '\'And did they drive you out of the house?\' "Drive out" returns from the kitchen scene. "From the house" is the ending for "from". Max guesses at the story. His guess is close.'),
     (8, None, '\'They took all strength from me.\' Russian uses "at me" for "from me" with a verb of taking. They "took at me" all strength. It is a handy bit of Russian to learn. Barinov sounds worn out.'),
     (9, None, '\'Maybe I should just leave for Voronezh?\' "Leave" is the by-vehicle word that the stove used. Voronezh is Max\'s home town. His idea is to run, and it isn\'t a bad idea, in his own mind.'),
     (10, None, '\'You will not go anywhere now.\' "Nowhere" and "not" are both there. "Will go" is by vehicle. Barinov says it flatly. He has decided for Max.'),

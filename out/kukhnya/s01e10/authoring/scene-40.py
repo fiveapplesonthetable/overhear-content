@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "A big football match is on, and Barinov wants to watch it in peace. Senya tells him that the owner is calling for him, urgently. Here's the scene in Russian first."
-OPENER = "Let's take it again, slowly."
-TRANSITION = "Here's the whole scene once more."
-OUTRO = 'Barinov goes to see Nagiyev, and Senya stays with the television. The score is two-nil, but not for long. Until next time.'
+INTRO = 'A big football match is on, and Barinov wants to watch it in peace. Senya tells him that the owner is calling for him, urgently. Listen to who says what.'
+OPENER = "Let's take the lines one by one."
+TRANSITION = "Let's play it through again."
+OUTRO = "Barinov goes to see Nagiyev, and Senya stays with the television. The score is two-nil, but not for long. That's it for this one."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Сеня, не мешай мне смотреть футбол!', "Senya, don't disturb me watching football!", [], ''),

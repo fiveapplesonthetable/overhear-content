@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, my dear friend!' "Dear" is the same word as "expensive". Barinov is suddenly sweet, and every cook in the kitchen would smell trouble. He uses the word "my", which sounds close.
+- 'Fedya, my dear friend!' "Dear" repeats "expensive". Barinov is suddenly sweet, and every cook in the kitchen would smell trouble. He uses the word "my", which sounds close.
 - 'Chef, why are you so kind?' "Kind" echoes "kind day". Fedya says "vy", the polite "you", but he is plainly suspicious. People are not usually kind to a cook in the chef's kitchen without a reason.
 - 'I urgently need your help.' "Help" is feminine in Russian, so "needed" ends in -a. It's the same "to me needed" pattern, with "urgently" in front. Barinov is not asking for a favour. He is begging.
 - 'No, chef, I am completely broke!' Fedya says a short "ne" instead of the full "net". "Empty" is the Russian way to say "broke". He uses it with a clear conscience, because it is the truth.

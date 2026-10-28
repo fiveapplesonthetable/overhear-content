@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "The pretend engagement is going further than either of them expected. They talk about the registry office, and then both of them get cold feet. Here's the scene in Russian first."
-OPENER = "Now let's go through it slowly."
-TRANSITION = 'And the whole scene again.'
-OUTRO = 'The wedding is on hold, at least for now, and the football match is about to begin. Max goes back to work. See you in the next scene.'
+INTRO = "The pretend engagement is going further than either of them expected. They talk about the registry office, and then both of them get cold feet. Listen first, and I'll explain afterwards."
+OPENER = "Let's unpack it."
+TRANSITION = 'Back to the full version.'
+OUTRO = 'The wedding is on hold, at least for now, and the football match is about to begin. Max goes back to work. Take care until then.'
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Мы подадим официальное заявление в загс?', 'Will we submit an official application to the registry office?', [(276, 'подадим заявление')], ''),
@@ -31,7 +31,7 @@ STORY = [
     ('vika', 'Иди работай, свадьба пока точно подождёт!', 'Go work, the wedding will definitely wait for now!', [(287, 'Идите, идите')], ''),
 ]
 WALK = [
-    (0, None, '\'Will we submit an official application to the registry office?\' "Zags" is an acronym from the Soviet years for the civil registry office, and Russians still say it. "Submit" is the same as "serve". Max is practical, as people are in a panic.'),
+    (0, None, '\'Will we submit an official application to the registry office?\' "Zags" is an acronym from the Soviet years for the civil registry office, and Russians still say it. "Submit" equals "serve". Max is practical, as people are in a panic.'),
     (1, None, '\'Tanya, do you have acquaintances at the registry office?\' "Acquaintances" grows from "get acquainted". Vika gets her sister involved. Her words are casual, but the plan is serious.'),
     (2, None, '\'Please help us sign the register as fast as possible.\' "Sign" in this sense means to get married officially. "As possible" uses "can", so "as quickly as can be". Max sounds anxious.'),
     (3, None, '\'Let\'s tell this news to all the guests of the restaurant!\' "Let\'s tell" is a polite "let\'s". "To all the guests" has the ending for "to". Vika is half joking. She wants Max to panic.'),

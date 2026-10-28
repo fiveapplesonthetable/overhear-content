@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Vika has seen the empty space where the stove used to be, and she is not amused. Barinov spins a story about repairs and handles. Here's the scene in Russian first."
-OPENER = "Let's go back through it slowly."
-TRANSITION = 'And now the whole scene again.'
-OUTRO = 'Vika threatens to phone the owner, and Barinov says he will sort it out. He has no idea how. Speak soon.'
+INTRO = 'Vika has seen the empty space where the stove used to be, and she is not amused. Barinov spins a story about repairs and handles. Let the Russian wash over you first.'
+OPENER = 'Time to look at it properly.'
+TRANSITION = 'Now, from the top, in one go.'
+OUTRO = "Vika threatens to phone the owner, and Barinov says he will sort it out. He has no idea how. That's all for now."
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('vika', 'Что здесь происходит? Где наша плита?', 'What is happening here? Where is our stove?', [(144, 'Что такое?'), (145, 'Где наша плита?')], ''),
@@ -36,8 +36,8 @@ WALK = [
     (2, None, '\'Its main handle simply broke down.\' The term for "handle" is a small form of "hand", so it is a little hand. "Broke" has the -sya, "broke itself". The stove is "she", so "at her" is the way to say "its". It\'s a good lie.'),
     (3, None, '\'Why am I finding out about this last?\' "Last" has the feminine ending, because Vika is speaking about herself. "Find out" is what Kostya used for Max. She\'s the manager, and she is the last to hear.'),
     (4, None, '\'It did not have time to leave you a note!\' "Have time" is a single word in Russian. The stove is the subject, and "it" is a woman, so the ending is feminine. Barinov\'s sarcasm is dry, and it is also a bad idea.'),
-    (5, None, '\'But the stove asked you not to worry.\' "Asked" is the same as the one used for the message of goodbye. The stove, once again, is a person. Barinov keeps up the joke with a straight face.'),
-    (6, None, '\'Stop clowning around and return it immediately!\' What russian calls "clown around" comes from the old word for a clown. "Immediately" is a long one. Vika is no longer polite in tone, but she still uses the polite "you".'),
+    (5, None, '\'But the stove asked you not to worry.\' "Asked" equals the one used for the message of goodbye. The stove, once again, is a person. Barinov keeps up the joke with a straight face.'),
+    (6, None, '\'Stop clowning around and return it immediately!\' What Russian calls "clown around" comes from the old word for a clown. "Immediately" is a long one. Vika is no longer polite in tone, but she still uses the polite "you".'),
     (7, None, '\'The repairmen promise to return everything very soon.\' "Masters" stands for craftsmen, so the repairmen are the masters. "Promise" is the one Alisa used. Barinov keeps inventing, and each lie needs another.'),
     (8, None, '\'On what should the cooks prepare hot food?\' "Hot" with a neuter ending means "hot dishes", so it works as a noun. "On what" is the cook\'s question. Vika is practical, and she wants an answer.'),
     (9, None, '\'We have a small electric burner.\' "At us there is" is the pattern for having a thing. "Electric" is easy to recognise. Barinov\'s answer to the problem is a toy, and he says it as if it were fine.'),

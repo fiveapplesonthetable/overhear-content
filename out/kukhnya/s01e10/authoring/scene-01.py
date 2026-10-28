@@ -11,9 +11,9 @@ LABELS = {'mama': 'Мама', 'son': 'Сын'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "This is Kukhnya, a Russian comedy set in the kitchen of Claude Monet, a smart restaurant in Moscow, where the chef, Barinov, shouts and young Max cooks. This episode is about bets: the chef gambles on football, and Max gets a surprise that frightens him. It opens away from the kitchen, in an ordinary flat late at night, where a boy creeps in and his mother whispers about his father's luck. You'll hear it in Russian first, and you don't need to catch every word."
-OPENER = "Now we'll go back through it, one line at a time."
-TRANSITION = 'And once more, the whole scene.'
-OUTRO = 'So there is no money and a father who bets on football. Keep that in mind, because the chef is about to do the same. See you next time.'
+OPENER = "Let's slow it down."
+TRANSITION = "Now let's hear it once more, start to finish."
+OUTRO = 'So there is no money and a father who bets on football. Keep that in mind, because the chef is about to do the same. Enjoy the rest of the episode.'
 CLOSING = ('son', 'Пока!')
 STORY = [
     ('son', 'Извини, мама, я сильно опоздал сегодня.', 'Sorry, mom, I was very late today.', [(1, 'Извини')], ''),
@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Sorry, mom, I was very late today.\' "Izvini" is a bare command, "excuse me", and it is the casual one. His "was late" ends in -l because he is a boy. Russians sometimes say "strongly" where English says "very".'),
-    (1, None, '\'Why did you come home so late?\' The Russian for "home", as in "come home", is one little word that already carries the "to". So there\'s no separate word for it. His mother\'s question is more worry than anger.'),
+    (1, None, '\'Why did you come home so late?\' What Russian calls "home", as in "come home", is one little word that already carries the "to". So there\'s no separate word for it. His mother\'s question is more worry than anger.'),
     (2, None, '\'I walked for a long time with my friends.\' The word he uses means to stroll or hang about, not to walk somewhere. "With my friends" has the usual ending for "with" on the last word. It\'s a boy\'s story, and it\'s probably true.'),
     (3, None, '\'You got lucky that dad is sleeping.\' Russian doesn\'t say "you got lucky". It says "to you it was lucky", which turns you into the person who just happens to benefit. She is on his side.'),
     (4, None, '\'Is dad really angry with me?\' The little word at the start is "really?", a bit of doubt. And Russians are angry "on" someone, with the -sya ending that makes it "angers himself". The boy is worried, which is natural.'),
