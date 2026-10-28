@@ -256,11 +256,14 @@ Done by script (all checked in, each with its output in a separate commit): `too
 the app validator (`--require-notes`): **lenient 3536 of 3536 scenes pass, strict 3157 of 3536**. Re-run the scripts on any new episode
 (`migrate_v1.py`, `fix_tokens.py`, `fill_stress.py`, `fix_invariable_forms.py`, `fix_placeholder_narration.py`; all idempotent).
 
-Still failing strictly, none of it mechanical:
-- **Closing line (379 scripts).** Needs a new farewell segment and its annotation entry per script (item 5).
-- **Source ties outside the scene (18 scripts)** (item 6) and **role keys missing from `characters.md`** (item 8). Writing
-  the character entries needs a human decision about who each extra is.
-- **Show-wide**: voices and role keys (item 7), lexicon conflicts (item 10), duplicated pictures (item 11).
+Update 2026-10-28 (after the Domashniy Arest remediation merge and the tools below): **strict 3536 of 3536 scenes pass**
+(app validator without `--lenient`); `tools/validate.py out --require-notes` reports 1 error. Before: strict 3157 of 3536 and
+461 errors under both validators. `tools/add_farewells.py` (closing farewell; 379 scripts) and `tools/fix_source_cues.py`
+(18 scripts: 2 citations re-tied, 61 dropped because no cue of the scene contains them) are idempotent; re-run them on new
+episodes. Role keys, voices and lexicon: 0 errors (characters.md now covers every key in use; the keys `gost`, `leva`, `shef`,
+`vrach`, `sokolov`, `nagiev` no longer occur: the rewrite uses other keys).
+
+Still failing: **art**, 154 pictures shared by 341 scenes (the pictures are being regenerated; not touched).
 
 ## Needs human (not done on purpose)
 
