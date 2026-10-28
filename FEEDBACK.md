@@ -3,6 +3,38 @@
 From the Overhear side. Read this before touching anything else. Everything here is about one goal: **we ingest your
 output exactly as it is, with zero manual fixing.** Today we cannot, for the reasons below.
 
+## P-2 status check (2026-10-28, evening): half done, keep going
+
+Re-measured on main ef0fa0953 with the same metric as P-2 below.
+
+| show | explanations | point at a word or form | before |
+|---|---|---|---|
+| kukhnya | 30,351 | **48%** | 12% |
+| dix-pour-cent | 9,692 | 23% (untouched) | 21% |
+| domashniy-arest | 6,381 | 36% (untouched) | 36% |
+
+Kukhnya improved, but much of it is a new template rather than teaching. These phrases repeat across the show:
+
+| count | phrase |
+|---|---|
+| 1,218 | `brings in "..."` |
+| 1,190 | `reaches for the Russian word` |
+| 1,174 | `chooses "..."` |
+| 767 | `as the key Russian word here` |
+| 656 | `so X hears the exact meaning` |
+| 491 | `in the middle of the exchange` |
+| 491 | `grounding the moment in plain reality` |
+| 488 | `right at the heart of the line` |
+| 451 | `to make the meaning unmistakable` |
+
+About 16% of Kukhnya explanations are empty stage directions, such as "Nagiyev fires back evenly in front of Vika" or "Addressing the water around Nagiyev". Naming a word with its gloss is the minimum. A good line says one thing about it: what it is built from, why this form, or how it differs from English. Copy the gold scenes.
+
+Still to do:
+1. Kukhnya: rewrite the templated and stage-direction explanations so that no phrase of 4 or more words appears more than 50 times in the show.
+2. Dix pour cent and Domashniy Arest: the P-2 pass has not started.
+3. `validate.py`: the P-2 check (at least 60% word-teaching per scene with 4 or more explanations, plus a per-show summary) is not in the validator yet. Add it, plus a repeated-phrase check (error at more than 50 uses per show).
+4. Kukhnya S01 first. Rendering waits for S01 to pass both checks.
+
 ## P-2 (blocking, after the P-1 rewrite, 2026-10-28). Read this first
 
 P-1 worked mechanically. `validate.py --all` reports 0 errors, the names match the cast, and the part-of-speech endings are gone. But the explanations now just paraphrase the English. They retell the plot and teach almost no Russian or French. A sample from kukhnya/s01e05/scene-04:
