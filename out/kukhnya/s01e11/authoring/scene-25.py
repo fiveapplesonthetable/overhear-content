@@ -39,7 +39,7 @@ WALK = [
     (5, None, '\'Has the critic already released his devastating review?\' "Released" is related to the "episode" in the TV woman\'s scene. "Devastating" grows from "rout", an army\'s defeat. Barinov fears the worst.'),
     (6, None, '\'He says that our main virtue is integrity.\' "Virtue" is also what Russian calls "dignity". "Integrity" comes from the word for "principle", the one in "silly principles". The critic\'s praise is not what anyone expected.'),
     (7, None, '\'Really? And what did he say about the kitchen?\' "Truth?" is how Russians ask "really?". Barinov is cautious. He wants to hear about the kitchen, which is his own domain.'),
-    (8, None, '\'He called all our food simply delicious!\' "Called" is followed by an "as" ending, "called the food as delightful". The Russian for "delicious" here is a grand one. Nagiyev reads the praise with relish.'),
+    (8, None, '\'He called all our food simply delicious!\' "Called" is followed by an "as" ending, "called the food as delightful". In Russian, "delicious" here is a grand one. Nagiyev reads the praise with relish.'),
     (9, None, '\'And he called bartender Kostya a real professional.\' The "as" ending again, on "professional". The critic noticed Kostya, the man who was about to be fired. Nagiyev stresses the name.'),
     (10, None, '\'The critic gave the restaurant nine points out of ten!\' Russians "put" a mark, the same word as "put a bet". "Out of" is the small word for "from". Nagiyev announces the score like a sports result.'),
     (11, None, '\'Nine out of ten? That is an incredible success!\' "Incredible" is built on "believe", so "unbelievable". Barinov repeats the score, delighted. His sulking has turned into joy in a second.'),

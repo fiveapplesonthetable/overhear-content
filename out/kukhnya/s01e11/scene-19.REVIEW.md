@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'What happened? Do you have problems?' "At you problems" is the usual pattern for "do you have". Kostya notices that something is wrong and drops his own apology at once. He is a good boyfriend.
 - 'I have a difficult guest at the table.' "Problem guest" is the literal Russian. A "problem" guest is a guest who causes trouble. Nastya says it quietly, in a low voice.
 - 'Is he being rude to you?' "Khamit" comes from "kham", a boor. It means to behave boorishly. Kostya goes straight to the likeliest cause. He guessed it right.
-- 'Worse. He is constantly bothering me.' The Russian for "bothering" means to pester, to keep at someone. "Constantly" recalls "regular guests". Nastya says it with a hint of tears.
+- 'Worse. He is constantly bothering me.' In Russian, "bothering" means to pester, to keep at someone. "Constantly" recalls "regular guests". Nastya says it with a hint of tears.
 - 'What? I will go sort it out right now!' Kostya says "go sort out" without an "and", as Russians do. The chef used the same word for solving the stove. He is angry now, and ready to fight.
 - 'Kostya, stop! Do not go there.' Negative commands in Russian prefer the repeated form of "go", so it's "ne khodi", not "ne idi". "There" means "to there". Nastya grabs his arm.
 - 'Why should I stand and watch?' "Must" is "dolzhen", the cousin of "owe". Kostya's question is half protest and half plea. He cannot see why he should stand still while someone bothers his girlfriend.

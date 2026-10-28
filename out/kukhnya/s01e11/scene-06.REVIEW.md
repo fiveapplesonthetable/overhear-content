@@ -31,9 +31,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Kostya, what happened in the dining room?' Barinov is calm for a moment. It's the quiet before the shout. "What happened" is a phrase you know well by now, and "in the hall" is the dining room.
 - 'A suspected restaurant critic has been spotted!' The grammar is bureaucratic: "has been discovered a supposed critic". Kostya sounds like a police bulletin, and he knows it. The joke is in the formality.
 - 'She is sitting at table seven.' Russians sit "behind" a table, so the Russian is "behind the seventh little table". Kostya reports the precise position, like a lookout.
-- 'And I have a salad rejection!' "At me a refusal" is how Russian says "I have one". A "refusal" is the waiters' term for a dish sent back, and it's a serious word in a kitchen.
+- 'And I have a salad rejection!' "At me a refusal" is how Russians say "I have one". A "refusal" is the waiters' term for a dish sent back, and it's a serious word in a kitchen.
 - 'How, a rejection? My perfect salad?' Barinov repeats "refusal" with a rising voice. "Perfect" is the word "ideal" with a Russian ending. The chef thinks his salad faultless, and his pride is hurt.
-- 'She sent the plate back, chef.' The Russian for "gave back" is the one used for returning things. "Back" is the one in "half an hour ago". Kostya is nervous, and the plain words show it.
+- 'She sent the plate back, chef.' In Russian, "gave back" is the one used for returning things. "Back" is the one in "half an hour ago". Kostya is nervous, and the plain words show it.
 - 'Which table? Definitely the seventh?' Barinov wants to be sure he has the right guest. "Definitely" is the word he used about everything today. He is already planning how to win her back.
 - 'Yes, a strict lady in glasses.' The term for "lady" is a formal one, borrowed from French. And glasses are always plural in Russian, so it's "in glasses", never "in a glass". Kostya gives a quick, clear description.
 - 'What exactly did she not like?' Russian says "what exactly to her did not please", the same pattern as "do you like it". Barinov wants details, and he wants them now.

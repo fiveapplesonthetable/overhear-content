@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Did you see what just happened in the hall?' Senya asks with "ty", as friends do. "Saw" has the man's -l. "Happened" is the longer, more serious cousin of "what happened". The gossip begins.
 - 'Our bartender boldly stepped up to the critic's table.' "Boldly" grows from the word for courage that Vika used. "Stepped up" is the walking-up word. Fedya tells the story as if he were at a football match.
 - 'This critic was rudely insulting our Nastya again.' "Was insulting" is a repeated action, and the form shows it. "Our Nastya" puts "our" in front of the name, as Russians do with those they're fond of. Senya is outraged.
-- 'Kostya did not start tolerating such insolent behavior.' "Did not become tolerating" is the Russian for "didn't put up with it". The Russian for "behaviour" comes from the "leads himself" phrase. Fedya is full of admiration.
+- 'Kostya did not start tolerating such insolent behavior.' "Did not become tolerating" is the Russian for "didn't put up with it". In Russian, "behaviour" comes from the "leads himself" phrase. Fedya is full of admiration.
 - 'What, did the guest order a drink from the bar now?' Senya's "what" is a surprised one. "A drink" echoes "drinks". "From the bar" is one small word. He is curious about the details.
 - 'Exactly, he received an order to the fullest program!' "By the full programme" is the idiom for "the works", all that there was. Fedya gives the best part of the story a flourish. The critic got what was coming to him.
 - 'Kostya poured a glass right onto his suit!' The prefix "vy-" in "poured" means "out", the opposite of "in". The "glass" is the tall kind, and the suit is the target. Senya says it with relish.

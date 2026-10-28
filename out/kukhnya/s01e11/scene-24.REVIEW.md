@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I was very mistaken and deeply regret it.' "Was mistaken" has the -las ending, "mistook herself". "Regret" is related to the word Barinov used when threatening Nagiyev. Nastya apologises in full.
 - 'Kostya, you are fired, quickly pack your things!' "You are fired" is a short passive form. "Pack" is literally "collect". "Things" is the word you've heard in "an important thing". Barinov is blunt.
 - 'Chef, are you really driving me out of work?' "Drive out" is the same word as for the family. "Out of work" is shown by the small word for "from". Kostya cannot believe it.
-- 'You caused a scandal with an important restaurant critic!' "Arranged" is how Russian says "staged" a scene. "With" shows in the ending of the critic. Barinov is stern. He thinks the harm has been done.
+- 'You caused a scandal with an important restaurant critic!' "Arranged" is the Russian way to say "staged" a scene. "With" shows in the ending of the critic. Barinov is stern. He thinks the harm has been done.
 - 'Chef, it is I who am to blame for everything!' "Guilty" is a short form that ends in -a for a woman. "For everything" is two words. Nastya takes the blame, and it is a brave thing to do.
 - 'I do not care, the bartender leaves right now.' "To me all the same" is the idiom you heard in the soup scene. "Bartender" is the English word. Barinov is cold. His decision is final.
 - 'All right, chef, I will take off the uniform immediately.' The Russian for "uniform" is the same as "form" or "shape". "Take off" is a short word. Kostya accepts, with dignity, and the uniform comes off.

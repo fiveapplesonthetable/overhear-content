@@ -37,7 +37,7 @@ WALK = [
     (3, None, '\'I was very mistaken and deeply regret it.\' "Was mistaken" has the -las ending, "mistook herself". "Regret" is related to the word Barinov used when threatening Nagiyev. Nastya apologises in full.'),
     (4, None, '\'Kostya, you are fired, quickly pack your things!\' "You are fired" is a short passive form. "Pack" is literally "collect". "Things" is the word you\'ve heard in "an important thing". Barinov is blunt.'),
     (5, None, '\'Chef, are you really driving me out of work?\' "Drive out" is the same word as for the family. "Out of work" is shown by the small word for "from". Kostya cannot believe it.'),
-    (6, None, '\'You caused a scandal with an important restaurant critic!\' "Arranged" is how Russian says "staged" a scene. "With" shows in the ending of the critic. Barinov is stern. He thinks the harm has been done.'),
+    (6, None, '\'You caused a scandal with an important restaurant critic!\' "Arranged" is the Russian way to say "staged" a scene. "With" shows in the ending of the critic. Barinov is stern. He thinks the harm has been done.'),
     (7, None, '\'Chef, it is I who am to blame for everything!\' "Guilty" is a short form that ends in -a for a woman. "For everything" is two words. Nastya takes the blame, and it is a brave thing to do.'),
     (8, None, '\'I do not care, the bartender leaves right now.\' "To me all the same" is the idiom you heard in the soup scene. "Bartender" is the English word. Barinov is cold. His decision is final.'),
     (9, None, '\'All right, chef, I will take off the uniform immediately.\' The Russian for "uniform" is the same as "form" or "shape". "Take off" is a short word. Kostya accepts, with dignity, and the uniform comes off.'),

@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Hi, Nastya, why are you in a bad mood?' Russians say "without mood" to mean a bad mood, as if mood were something you can be short of. Kostya greets her warmly and offers a friendly ear.
 - 'People tore live flowers for pleasure.' "Live flowers" means freshly cut flowers, which were alive before somebody picked them. Nastya looks after animals and nature, so this really upsets her. "For the sake of pleasure" is one small word plus the thing.
-- 'Do not be sad, Nastya, everything will be fine.' "Don't be sad" grows from the noun "sadness". "Everything will be good" is how Russians say "all will be well". Kostya reaches for the simplest comfort there is.
+- 'Do not be sad, Nastya, everything will be fine.' "Don't be sad" grows from the noun "sadness". "Everything will be good" is what Russians say for "all will be well". Kostya reaches for the simplest comfort there is.
 - 'This is terrible, wicked people act like that.' "Act" comes from the same root as "deeds" in the chef's lecture. And "wicked" is the root of "do not anger me". Nastya has strong views and says them plainly.
 - 'Let us go somewhere this weekend.' The "-nibud" tacked on to "to where" gives "to somewhere or other". A weekend is "the days off", and Kostya uses "let's go and come back". He changes the subject, hopefully.
 - 'I also wanted to suggest a meeting to you.' Nastya's "wanted" ends in -a, since she's a woman. The term for "suggest" matches the TV woman's "offer". A "meeting" here also means a date. She is as keen as he is.

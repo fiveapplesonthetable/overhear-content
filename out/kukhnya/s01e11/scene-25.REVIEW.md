@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Has the critic already released his devastating review?' "Released" is related to the "episode" in the TV woman's scene. "Devastating" grows from "rout", an army's defeat. Barinov fears the worst.
 - 'He says that our main virtue is integrity.' "Virtue" is also what Russian calls "dignity". "Integrity" comes from the word for "principle", the one in "silly principles". The critic's praise is not what anyone expected.
 - 'Really? And what did he say about the kitchen?' "Truth?" is how Russians ask "really?". Barinov is cautious. He wants to hear about the kitchen, which is his own domain.
-- 'He called all our food simply delicious!' "Called" is followed by an "as" ending, "called the food as delightful". The Russian for "delicious" here is a grand one. Nagiyev reads the praise with relish.
+- 'He called all our food simply delicious!' "Called" is followed by an "as" ending, "called the food as delightful". In Russian, "delicious" here is a grand one. Nagiyev reads the praise with relish.
 - 'And he called bartender Kostya a real professional.' The "as" ending again, on "professional". The critic noticed Kostya, the man who was about to be fired. Nagiyev stresses the name.
 - 'The critic gave the restaurant nine points out of ten!' Russians "put" a mark, the same word as "put a bet". "Out of" is the small word for "from". Nagiyev announces the score like a sports result.
 - 'Nine out of ten? That is an incredible success!' "Incredible" is built on "believe", so "unbelievable". Barinov repeats the score, delighted. His sulking has turned into joy in a second.
