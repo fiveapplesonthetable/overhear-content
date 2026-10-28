@@ -36,10 +36,10 @@ WALK = [
     (3, None, "'I don't understand.' 'I understand' is a long word with a clear 'I' ending. The 'not' stands in front."),
     (4, None, "'You stole my recipe.' The past form of 'steal' ends in a bare 'l' for a man. 'My recipe' is masculine, with no extra ending."),
     (5, None, "'I didn't take anything.' 'Nothing' and 'not' are both there, as the rule requires. 'Take' is the everyday word for grabbing."),
-    (6, None, "'Well, Senya, you're dead meat.' The word for 'corpse' is used as a threat, literally 'you are a corpse'. There's no 'are' in the line."),
+    (6, None, "'Well, Senya, you're dead meat.' 'Corpse' is used as a threat, literally 'you are a corpse'. There's no 'are' in the line."),
     (7, None, "'Chef, it wasn't me!' It reads 'this not I', with no verb at all. Senya is panicking."),
     (8, None, "'Who then?' Two tiny words, 'who' and 'then'. The short question is Barinov's whole interrogation."),
     (9, None, "'Maybe Fedya.' The phrase for 'maybe' is built from 'can be'. Senya throws his friend under the bus."),
     (10, None, "'I don't believe you.' Russians 'believe to' someone, so 'you' takes the 'to you' form. The 'not' sits before 'believe'."),
-    (11, None, "'Word of honor!' It is literally 'honest word'. The word for 'honest' is the same one used for 'honestly'."),
+    (11, None, "'Word of honor!' It is literally 'honest word'. 'Honest' is the same one used for 'honestly'."),
 ]

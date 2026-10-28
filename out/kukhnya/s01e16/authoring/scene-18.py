@@ -40,7 +40,7 @@ WALK = [
     (6, None, "'Because another chef cooked it.' Russian says 'her' for the food, because the word for food is feminine. The first two words are 'because'."),
     (7, None, "'I simply love good cuisine.' The word for cuisine is the same as for 'kitchen', which is the title of the show. 'Good' ends in 'uyu' because it's what is loved."),
     (8, None, "'Also you constantly touch your head.' 'Your own' is a special little word, which always points back to the person doing the action. 'Constantly' is built from a word meaning 'constant'."),
-    (9, None, "'At work you always wear a cap.' Russians say 'on work' for 'at work', and the work takes an 'e'. The word for 'wear' is the one for something you carry on yourself regularly."),
+    (9, None, "'At work you always wear a cap.' Russians say 'on work' for 'at work', and the work takes an 'e'. 'Wear' is the one for something you carry on yourself regularly."),
     (10, None, "'And you aren't drinking the wine at all.' 'Not at all' appears again, now in front of 'drink'. The wine itself stays in its basic form, because it isn't being drunk."),
     (11, None, "'Because you can't drink at work.' This 'can't' is the 'not allowed' word, and you'll see it on signs. It's followed by the plain 'to drink', with no 'you' at all."),
     (12, None, "'Yes, you told the pure truth.' Literally 'clean truth', so truth is something that can be clean. The ending on 'told' is the polite plural."),

@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Nastya, bring me a clean glass.' 'Bring' is the command for carrying a thing. The 'glass' is the kind with a stem."),
-    (1, None, "'I'll bring it right away, Chef.' 'Right away' is the word for 'now' or 'soon'. 'I'll bring' is a finished action."),
+    (1, None, "'I'll bring it right away, Chef.' 'Right away' is 'now' or 'soon'. 'I'll bring' is a finished action."),
     (2, None, "'We must drink to the holiday.' 'Must' is plural to go with 'we'. For a toast, Russian uses the little word 'za' for 'to'."),
     (3, None, "'Chef, this is very nice.' 'Pleasant' is a word with an 'o' ending, used on its own. There's no 'is'."),
     (4, None, "'Pour good wine for everyone.' 'Pour' is the command for pouring drinks. 'Wine' is neuter, so 'good' ends in 'ee'."),
     (5, None, "'Here is your glass, Chef.' 'Here' points at the glass, and 'your' is polite and masculine. There's no 'is'."),
-    (6, None, "'Thank you, Nastya, well done.' The word for 'well done' is masculine, but it is used for women too. It literally means something like 'fine fellow'."),
+    (6, None, "'Thank you, Nastya, well done.' 'Well done' is masculine, but it is used for women too. It literally means something like 'fine fellow'."),
     (7, None, "'What a beautiful glass!' The word 'kakoy' in front of an adjective makes an exclamation. 'Beautiful' has a masculine ending."),
     (8, None, "'A beautiful glass is needed for good wine.' 'For good wine' has the 'ogo' and 'a' endings. 'Needed' is masculine, as the glass is."),
     (9, None, "'I brought glasses for everyone.' The 'a' on the end of 'brought' marks Nastya as a woman. 'For everyone' uses a plural ending."),
     (10, None, "'Now everyone has glasses.' 'At everyone there are' is the Russian for 'everyone has'. 'Glasses' is plural."),
     (11, None, "'Raise your glasses.' The command is polite and plural. 'Your' is plural too, to go with 'glasses'."),
-    (12, None, "'Let's drink to friendship!' 'Let's drink' is a polite 'give' plus a 'we' form. 'Friendship' is built from the word for 'friend'."),
+    (12, None, "'Let's drink to friendship!' 'Let's drink' is a polite 'give' plus a 'we' form. 'Friendship' is built from 'friend'."),
 ]

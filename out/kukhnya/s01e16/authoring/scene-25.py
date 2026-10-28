@@ -32,7 +32,7 @@ STORY = [
 WALK = [
     (0, None, "'Beef pâté.' 'Beef' is an adjective here, so it's 'beefy pâté'. That is how Russian says 'beef pâté': one describing word and one noun."),
     (1, None, "'Absolutely revolting.' The first word is 'filth', and the second means 'terrible'. Together they work as 'extremely nasty'."),
-    (2, None, "'But when you mix it all together...' 'If' is followed by the plain 'to mix', which gives it a general sense of 'if you mix'. The word for 'all' has an 'o' at the end."),
+    (2, None, "'But when you mix it all together...' 'If' is followed by the plain 'to mix', which gives it a general sense of 'if you mix'. 'All' has an 'o' at the end."),
     (3, None, "'Eleonora likes it.' Russian says 'to-her it-pleases', so the food does the pleasing. The little word for 'to her' takes the place of 'she'."),
     (4, None, "'Are you kidding me?' The 'sya' ending makes the verb 'mock' and means you are doing it to someone. Max uses the polite 'you' with the boss."),
     (5, None, "'Why?' One word again. Barinov is pretending to be surprised."),

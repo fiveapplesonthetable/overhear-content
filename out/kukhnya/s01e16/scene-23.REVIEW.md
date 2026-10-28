@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I made your pâté.' Max says 'your' in the polite form, matching the masculine pâté. A casual 'your' would be 'tvoy', but that's for friends.
 - 'My pâté?' He says just 'my pâté' and the rising voice turns it into a question. There's no extra word for 'what'.
 - 'It came out exactly the same.' The first word is 'it got obtained', a very Russian way of saying 'it turned out'. 'One in one' is the picture for identical.
-- 'I must taste it.' The word for 'must' ends in 'en' for a man, and a woman would say a different ending. After it comes the plain 'to try'.
+- 'I must taste it.' 'Must' ends in 'en' for a man, and a woman would say a different ending. After it comes the plain 'to try'.
 - 'Even a little better.' The doubled 'chut' is a bit like 'teeny-weeny', and Russians double a word to make it smaller or bigger. 'Better' is the short form.
 - 'No way!' Literally 'yes okay?', and it works as 'really?'. It is a casual line, the sort a friend would use.
 - 'Yeah.' Max answers with the same first word of the chef's phrase. In Russian 'da' is the plain 'yes'.

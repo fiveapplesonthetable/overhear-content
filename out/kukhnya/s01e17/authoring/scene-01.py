@@ -41,7 +41,7 @@ WALK = [
     (7, None, "'And now he scratched his nose.' The 'po' on the front of 'scratch' means he did it briefly. Barinov reads a scratch of the nose like a confession."),
     (8, None, "'This fish is already five days old.' After 'five' the days switch back to the longer form, just like after 'how many'. Two, three or four days take the short one, and five or more take the long."),
     (9, None, "'And it was definitely frozen before.' 'They froze' is built on the word for frost, and again has no 'they'. 'Definitely' and 'before' are tiny words, easy to lift into other sentences."),
-    (10, None, "'Chef, you're a real master of your craft.' 'Real' is also the word for 'present', as in the present moment. 'Of your own business' is a phrase for a trade, and the word for 'business' is a very common one."),
-    (11, None, "'Learn from me while I'm kind.' The word for 'while' is spelled and said like the casual 'bye', so it does double duty. 'From me' uses the same little word as 'at me'."),
+    (10, None, "'Chef, you're a real master of your craft.' 'Real' is also 'present', as in the present moment. 'Of your own business' is a phrase for a trade, and 'business' is a very common one."),
+    (11, None, "'Learn from me while I'm kind.' 'While' is spelled and said like the casual 'bye', so it does double duty. 'From me' uses the same little word as 'at me'."),
     (12, None, "'Thank you for this important lesson, chef.' 'Thanks for' needs a small word for 'for', then the lesson with its masculine endings. It's the polite, schoolboy thanks."),
 ]

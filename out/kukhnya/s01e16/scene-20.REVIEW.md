@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Louis, why didn't you hide?' Barinov uses the casual 'you' with Louis. The 'sya' on the end of 'hide' makes it 'hide yourself'.
 - 'You deceived me for nothing, Viktor Petrovich.' The first word means 'in vain' and is a good short word to have. 'Were deceiving' shows an ongoing action, which makes it sound like a long campaign.
 - 'I wanted to protect my best chef.' 'Own' is the small word that points back to the speaker, and 'best' is the irregular one. Barinov says it simply, without self-pity.
-- 'You should have confessed to everything right away.' 'It was necessary' is how Russian says 'should have'. The word for 'confess' has 'sya' at the end, and it's the 'to everything' that follows.
+- 'You should have confessed to everything right away.' 'It was necessary' is how Russian says 'should have'. 'Confess' has 'sya' at the end, and it's the 'to everything' that follows.
 - 'Then you would have received a simple warning.' The little word 'by' after the past form is what makes it 'would have'. 'Warning' comes from the verb 'to warn'.
 - 'Can we come to an agreement with you now?' The verb ends in 'sya' as an agreement is something people do with each other. 'With you' changes shape to 'vami' after 'with'.
 - 'No, it's already too late now.' 'Late' is the same sort of word as 'quickly', ending in 'o'. 'Too' is a single word, built to go in front of an adjective or adverb.

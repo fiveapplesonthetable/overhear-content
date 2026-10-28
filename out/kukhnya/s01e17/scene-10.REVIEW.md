@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He didn't even taste my food!' 'Even' sits before 'not', and the word is the one for tasting once. 'Food' has a 'u' ending as the thing that was not tasted.
 - 'Well, I came first.' 'First' takes an 'ym' ending, as if Senya came 'as first'. 'Came' has the masculine 'l' ending.
 - 'I cooked these chops all morning.' Russian says 'all morning' with no 'during', just 'all' plus the morning. The 'ongoing' form of 'cook' suggests a long job.
-- 'Don't be so upset, friend.' 'Not necessary' plus the plain action word means 'don't'. The word for 'be upset' ends in 'sya' as it is something that happens to you.
+- 'Don't be so upset, friend.' 'Not necessary' plus the plain action word means 'don't'. 'Be upset' ends in 'sya' as it is something that happens to you.
 - 'But these are lamb chops with asparagus!' 'Lamb' becomes an adjective, as 'of lamb'. 'With' comes out as 'so' before a cluster of consonants, to make it easy to say.
 - 'Next time you'll definitely win.' 'Next time' is 'in the next time', with a small word for 'in'. 'Will win' is a finished action, which gives a future sense.
 - 'Do you want to try my new chops?' 'You want' is irregular and ends in 'sh' for the casual 'you'. The new chops are plural, so 'new' ends in 'ye'.

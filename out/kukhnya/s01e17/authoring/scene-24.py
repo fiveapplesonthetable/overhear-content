@@ -32,12 +32,12 @@ STORY = [
 ]
 WALK = [
     (0, None, "'It's hard to fix the mistakes of a lie.' 'Hard' is the word with an 'o' ending, used for things that are complicated. 'Mistakes' is plural."),
-    (1, None, "'A lie always creates a new lie.' The word for 'lie' is feminine and ends in a soft sign. It looks the same as the object form."),
+    (1, None, "'A lie always creates a new lie.' 'Lie' is feminine and ends in a soft sign. It looks the same as the object form."),
     (2, None, "'And sometimes finding a way out is impossible.' 'Exit' also means 'way out'. 'Impossible' is made by putting 'ne' in front of 'possible'."),
     (3, None, "'The main thing is to tell the truth.' The dash takes the place of 'is'. 'Truth' takes a 'u' ending after 'speak'."),
     (4, None, "'You must believe in your strength.' Russians believe 'in' things, with a small word for 'in'. 'Strength' is plural, as in 'strengths'."),
-    (5, None, "'And believe in your true self.' The word for 'self' is a special one. 'True' means 'real', and takes an ending to go with it."),
-    (6, None, "'I want to start everything over.' The word for 'anew' is built from 'new', with a prefix. 'Start' is the finished kind."),
+    (5, None, "'And believe in your true self.' 'Self' is a special one. 'True' means 'real', and takes an ending to go with it."),
+    (6, None, "'I want to start everything over.' 'Anew' is built from 'new', with a prefix. 'Start' is the finished kind."),
     (7, None, "'You can fix everything, Max.' 'You can' uses the casual 'you'. 'Fix' is a finished action."),
     (8, None, "'I'm starting everything with a clean slate.' Russian says 'from a clean sheet' where English says 'slate'. 'Sheet' means a sheet of paper."),
     (9, None, "'You have a good future ahead.' 'Ahead' is one word. 'Future' is a neuter word that looks like an adjective."),

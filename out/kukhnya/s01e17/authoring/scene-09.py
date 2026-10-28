@@ -38,7 +38,7 @@ WALK = [
     (4, None, "'And what is this?' The two words 'what such' make it more pointed, as in 'what exactly is this?'. A bit suspicious, and a bit curious."),
     (5, None, "'It's tender meat with thin ham.' 'With' makes 'ham' take an 'oy' ending, and 'thin' follows it. 'Tender' and 'meat' both end in 'oe'."),
     (6, None, "'Very tasty, I like this recipe!' 'Tasty' ends in 'o' when it describes a thing. 'I like' is 'to me pleases', so the recipe does the pleasing."),
-    (7, None, "'Congratulations, your dish is now on the menu.' The word for 'menu' never changes its ending, even after 'in'. It is a borrowed word that stays put."),
+    (7, None, "'Congratulations, your dish is now on the menu.' 'Menu' never changes its ending, even after 'in'. It is a borrowed word that stays put."),
     (8, None, "'Chef, wait, this is completely unfair!' 'Unfair' is 'not' plus 'honestly', stuck together. 'Completely' is a handy intensifier."),
     (9, None, "'Thank you very much, Chef, I'm very glad!' The short form for 'glad' ends in a bare consonant for a man. 'Thanks' is a neuter noun, so 'big' ends in 'oe'."),
     (10, None, "'Congratulations on your win, colleague.' Russians say 'I congratulate with victory', using the little word for 'with'. 'Colleague' ends in 'a' but is masculine."),

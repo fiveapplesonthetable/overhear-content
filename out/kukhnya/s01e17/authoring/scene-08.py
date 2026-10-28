@@ -37,7 +37,7 @@ WALK = [
     (2, None, "'Get used to it.' One word, a command, with the 'get used to' in it. It's blunt, but it's what Max says."),
     (3, None, "'Should I bring my mom here then?' The opening 'or maybe' signals sarcasm. 'Own' mom, with a 'u' ending, makes it clear whose mother."),
     (4, None, "'I want to spend a lot of time with them, too.' After 'with', 'them' picks up an 'n', so it becomes 'nimi'. 'Too' is a tiny word that comes after 'I'."),
-    (5, None, "'It's fine, you'll get along.' 'Become friends' is built from the word for 'friend' and ends in 'sya'. Max uses the plural 'you', as he's speaking to both women."),
+    (5, None, "'It's fine, you'll get along.' 'Become friends' is built from 'friend' and ends in 'sya'. Max uses the plural 'you', as he's speaking to both women."),
     (6, None, "'That has never happened.' Russian has two negatives: 'was not' and 'never'. 'Such' sits at the front."),
     (7, None, "'For some reason, I'm not surprised.' 'For some reason' is 'why' plus 'to', which makes it vague. 'Surprised' ends in 'a' because Vika is a woman."),
     (8, None, "'Anyway, you stay a while.' The first two words are 'in general', used the way we say 'anyway'. 'Sit a while' has the 'po' prefix for 'a bit'."),
@@ -45,5 +45,5 @@ WALK = [
     (10, None, "'It's time for us to go home.' 'Home' as a direction is a separate word from 'at home'. 'It's time' is one short word."),
     (11, None, "'Because it's not allowed at work.' The opening words mean 'otherwise', and are used here as 'because'. 'Forbidden' ends in 'o', since it has no subject."),
     (12, None, "'Right! You might as well dance on the bar too.' The 'you would' is made by adding a small word after the past form. 'On the bar counter' is built with 'on', and both nouns take an ending."),
-    (13, None, "'Guys, what is going on?' The word for 'guys' means 'lads' and is plural. 'What are you at' is a casual way to ask what's the matter."),
+    (13, None, "'Guys, what is going on?' 'Guys' means 'lads' and is plural. 'What are you at' is a casual way to ask what's the matter."),
 ]

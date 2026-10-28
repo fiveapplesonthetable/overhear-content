@@ -39,9 +39,9 @@ WALK = [
     (5, None, "'So, is that all? Is the conflict over?' The verb for 'ended' has 'sya' on it, so the conflict ended by itself. 'Is that all' is just 'all?', said as a question."),
     (6, None, "'Yes, Chef, the conflict is over.' Max simply repeats what Barinov said. Repeating the question's own words is how Russians say yes."),
     (7, None, "'But only until someone makes a mistake again.' 'Until' is built from 'while' plus 'not'. 'Makes a mistake' is a finished action."),
-    (8, None, "'We all want peace in the kitchen.' The word for 'peace' also means 'world'. After 'want', 'peace' takes an 'a' ending."),
-    (9, None, "'Peace in the kitchen is the main thing.' The dash takes the place of 'is'. 'Main' comes from the word for 'head'."),
+    (8, None, "'We all want peace in the kitchen.' 'Peace' also means 'world'. After 'want', 'peace' takes an 'a' ending."),
+    (9, None, "'Peace in the kitchen is the main thing.' The dash takes the place of 'is'. 'Main' comes from 'head'."),
     (10, None, "'Thank you all for the kind words.' 'To all' is a short word for 'thank everyone'. 'Kind' is the same as in 'good day'."),
     (11, None, "'Now we can work calmly.' 'Now' and 'calmly' are the two small words. 'We can' is a single word."),
-    (12, None, "'I'm very glad we made up.' 'Glad' has a bare ending for a man. 'Made up' is built from the word for 'peace', plus 'sya'."),
+    (12, None, "'I'm very glad we made up.' 'Glad' has a bare ending for a man. 'Made up' is built from 'peace', plus 'sya'."),
 ]

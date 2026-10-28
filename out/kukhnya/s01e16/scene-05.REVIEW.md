@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, this is simply amazing pâté!' Max says 'simply' as a way of piling on the praise. Russian's 'amazing' is built from the Russian for 'shake', so the pâté literally shakes him up.
-- 'Of course, this is my best signature recipe.' The 'ch' in the first word is pronounced 'sh', which surprises learners. Russian's 'signature' is built from the word for 'firm' or company, so it's the house's own recipe.
+- 'Of course, this is my best signature recipe.' The 'ch' in the first word is pronounced 'sh', which surprises learners. Russian's 'signature' is built from 'firm' or company, so it's the house's own recipe.
 - 'And what ingredients did you put in there?' The Russian word looks like 'products', but it's used for food items and ingredients. The one at the end of the line means 'you put', plural, as Max is being polite.
 - 'This is my biggest personal secret.' To say 'biggest', Russian puts the little word 'most' in front of 'big'. There's no special ending on 'big' to remember.
 - 'At least tell me one secret ingredient.' The first word is a command made polite for a boss, and the next two words mean 'at least'. A word like 'secret' is easy to spot since it looks the same as in English.
@@ -36,6 +36,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you seriously want to bet with me?' Russian's 'argue' is also the Russian for 'bet', and the meaning depends on the situation. 'With me' is one short word that borrows a helper vowel to make it easier to say.
 - 'Yes, tonight I will repeat the dish.' The first word is pronounced 'sevodnya', so the g sounds like a v. 'In the evening' is a single word ending in 'om', and 'I will repeat' is a one-word promise.
 - 'Here, take a piece.' Barinov points with 'here you go' and hands him a command, 'take'. Russian's 'piece' gets a tiny ending that makes it 'a little piece'.
-- 'If I guess it, will you give me a day off?' The word for 'if' opens the deal. The Russian for 'day off' comes from 'exit', so it's a day to go out.
+- 'If I guess it, will you give me a day off?' 'If' opens the deal. The Russian for 'day off' comes from 'exit', so it's a day to go out.
 - 'Fine, if you repeat it, you will get two days off.' The chef raises the stakes: two instead of one. After 'two' the word changes, and 'days off' is really a word that describes the day.
 - 'It's a deal, tonight I will bring my dish!' The first word ends in 'sya' because it means 'we have come to terms with each other'. 'Bring' is a promise for the future, and 'my own' makes it clear whose dish it is.

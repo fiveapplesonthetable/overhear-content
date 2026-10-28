@@ -39,7 +39,7 @@ WALK = [
     (5, None, "'Why didn't you warn us?' Here the 'why' is the ordinary one. 'Warned' is a finished action, and 'us' is a short word with an 'as' ending."),
     (6, None, "'You wouldn't ever have come.' A small word 'by' after 'you' makes it 'would'. 'Never' and 'not' are both there."),
     (7, None, "'You're my friends.' There's no 'are'. It's just 'you my friends', and the plural of 'friend' is irregular."),
-    (8, None, "'I wanted to celebrate the birthday together.' The word for 'celebrate' comes from the word for 'mark'. 'Birthday' is 'day of birth', and 'together' is one word."),
+    (8, None, "'I wanted to celebrate the birthday together.' 'Celebrate' comes from 'mark'. 'Birthday' is 'day of birth', and 'together' is one word."),
     (9, None, "'You needn't worry.' Russian says 'you can not worry'. The 'sya' on the end of 'worry' is the little 'oneself'."),
     (10, None, "'Thank you for a lovely evening.' Max is being sarcastic here, since the evening has been a disaster. 'Lovely' is the word from 'beautiful', in the masculine."),
     (11, None, "'Bye.' It's the casual goodbye, short and sharp. Max slams the door with it."),
