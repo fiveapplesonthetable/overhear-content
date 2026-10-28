@@ -10,30 +10,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Что он сказал? | What did he say? | new | new |
-| 2 | Настя | Он сказал нам уходить. | He told us to leave. | new | new |
-| 3 | Шеф | Я не верю в это. | I do not believe this. | new | new |
-| 4 | Настя | Это конец? | Is this the end? | new | new |
-| 5 | Шеф | Я не знаю. | I do not know. | new | new |
-| 6 | Макс | Шеф, что делать? | Chef, what to do? | new | new |
-| 7 | Шеф | Мы должны уйти. | We must leave. | new | new |
-| 8 | Настя | Мне очень жаль. | I am very sorry. | new | new |
-| 9 | Настя | Собирайтесь. | Pack your things. | #285 00:20:48: Собирайтесь. | verbatim |
-| 10 | Настя | Извините. | I am sorry. | #286 00:20:50: Извините, | verbatim |
-| 11 | Настя | Это мой долг. | It is my duty. | #286 00:20:50: это мой долг. | verbatim |
-| 12 | Шеф | Хорошо. | Good. | new | new |
+| 1 | Инспектор | Собирайтесь. | Pack your things. | #285 00:20:48: Собирайтесь. | verbatim |
+| 2 | Федя | Куда? | Where to? | new | new |
+| 3 | Инспектор | Домой, в Молдову. | Home, to Moldova. | new | new |
+| 4 | Шеф | Неужели ничего нельзя сделать? | Is there really nothing to be done? | new | new |
+| 5 | Инспектор | Извините, это мой долг. | I'm sorry, it's my duty. | #286 00:20:50: Извините, это мой долг. | verbatim |
+| 6 | Федя | Шеф, мне очень жаль. | Chef, I'm really sorry. | new | new |
+| 7 | Шеф | Ты ни в чём не виноват. | It's not your fault at all. | new | new |
+| 8 | Федя | Я ещё вернусь. | I'll be back. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What did he say?' The order is just like English. The past form of 'say' ends in a bare 'l' because the one who spoke is a man.
-- 'He told us to leave.' Russian says 'said to us', with an 'am' type ending, and then simply 'to leave'. It leaves out the 'that'.
-- 'I don't believe it.' Russians believe 'in' something, so a small word for 'in' comes before 'this'. The 'u' at the end of 'believe' is the 'I' ending.
-- 'Is this the end?' There's no word for 'is', and the question comes only from the rising voice. 'End' ends in a hard 'ts'.
-- 'I don't know.' This time the 'I' is spelled out, which gives the line a heavier tone. Without it, the line would sound a touch more casual.
-- 'Chef, what do we do?' It's just 'what to do', in the basic form, with no 'we' at all. Max talks to the boss with a plain title.
-- 'We have to leave.' 'Must' is plural to go with 'we'. 'Leave' is a once-and-done action, meaning to go away for good.
-- 'I'm very sorry.' Russian says 'to me very pity', so the sorrow is something that happens to you. It's a gentle way to give bad news.
-- 'Pack your things.' The 'sya' on the end means 'gather yourselves', and 'te' makes it a command to several people. In real life it also means 'get ready to go'.
-- 'Excuse me.' It's the standard word for apologising to a stranger, like bumping into someone. It carries 'ite', the polite command ending again.
-- 'It's my duty.' 'Duty' is also 'debt', so duty is what you owe. 'My' is masculine to match.
-- 'Good.' It sounds resigned here, like 'fine' or 'all right'. Barinov has nothing left to argue with.
+- 'Pack your things.' 'Sobiraytes' is literally 'gather yourselves': '-sya' means 'oneself' and '-te' makes it polite. It also means 'get ready to go'.
+- 'Where to?' Russian has two words for 'where': 'gde' for a place and 'kuda' for a direction. Fedya asks 'kuda', 'where to'.
+- 'Home, to Moldova.' 'Domoy' already means 'to home', so it needs no preposition. 'V Moldovu', 'to Moldova', has the '-u' ending for movement into a place.
+- 'Is there really nothing to be done?' 'Neuzheli' means 'can it really be', a word of disbelief. 'Nichego nelzya sdelat', 'nothing can be done', is a stock phrase.
+- 'I'm sorry, it's my duty.' 'Izvinite' is the polite 'excuse me' or 'I'm sorry'. 'Dolg' means 'duty', and the same word means 'debt'.
+- 'Chef, I'm really sorry.' 'Mne zhal' is literally 'to me it is a pity', so the feeling happens to you. 'Ochen' means 'very'.
+- 'It's not your fault at all.' 'Ni v chyom ne vinovat' is literally 'not guilty in anything'. Russian stacks 'ni' and 'ne' in one sentence, and that's correct.
+- 'I'll be back.' 'Vernus' means 'I will return', from 'vernutsya', 'to come back'. 'Eshchyo', 'yet' or 'still', adds 'you haven't seen the last of me'.

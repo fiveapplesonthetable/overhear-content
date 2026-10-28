@@ -7,39 +7,47 @@ SCENE = 25
 TITLE = 'Секрет паштета  (The Secret of the Pâté)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
+LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = 'Barinov has led Max to the kitchen to show him what his famous pâté really contains. It is not what Max expected, and Eleonora Andreyevna, who loves the stuff, comes into it. The Russian comes first.'
+INTRO = 'Barinov shows Max what his famous pâté really is: a shop-bought tin that Eleonora Andreyevna happens to love. Then, at the end of the day, a familiar face walks back into the kitchen.'
 OPENER = 'Now for a closer look.'
-TRANSITION = 'Now the whole conversation once more, from start to finish.'
-OUTRO = "So the famous pâté is a very ordinary recipe, and Max is left to digest it. You've now heard how Russians say 'by the way' and 'are you kidding me?', which will be handy for a lot of conversations. See you next time!"
-CLOSING = ('max', 'До свидания!')
+TRANSITION = 'Now the whole scene once more, from start to finish.'
+OUTRO = "The famous pâté comes out of a tin, and Fedya is back with a new name. 'Zdorovo' with the stress at the end is a hearty 'hi', while 'zdorovo' stressed on the first syllable means 'great'. See you next time!"
+CLOSING = ('barinov', 'Ну, до встречи!')
 STORY = [
-    ('barinov', 'Паштет говяжий.', 'Beef pâté.', [(297, 'Паштет говяжий,')], ''),
-    ('barinov', 'Гадость страшная.', 'Absolutely revolting.', [(300, 'гадость страшная,')], ''),
-    ('barinov', 'Но если всё смешать...', 'But when you mix it all together...', [(300, 'но если все смешать,')], ''),
-    ('barinov', 'Ей нравится.', 'She likes it.', [(300, 'нравится.')], ''),
-    ('max', 'Вы издеваетесь?', 'Are you kidding me?', [(301, 'вы что, издеваетесь?')], ''),
-    ('barinov', 'Почему?', 'Why?', [(302, 'Почему')], ''),
-    ('barinov', 'Ты самовоспитывался.', 'You were learning to discipline yourself.', [(302, 'Ты самовоспитывался.')], ''),
-    ('barinov', 'Ну, пойдём.', "Well, let's go.", [(303, 'Ну, пойдем')], ''),
-    ('barinov', 'Кстати, хороший паштет.', "By the way, it's good pâté.", [(304, 'Кстати, хороший паштет.')], ''),
-    ('barinov', 'Как делаешь?', 'How do you make it?', [(305, 'Как делаешь?')], ''),
-    ('barinov', 'Что добавлял?', 'What did you put in?', [(305, 'Что добавлял?')], ''),
-    ('max', 'Говядина, печень.', 'Beef, liver.', [(306, 'Говядина, печень,')], ''),
+    ('barinov', 'Паштет говяжий, печёночный, куриный.', 'Beef, liver and chicken pâté.', [(297, 'Паштет говяжий, печеночный, куриный.')], ''),
+    ('barinov', 'Печень куриная, сало, соль, перец, лук.', 'Chicken liver, fat, salt, pepper, onion.', [(298, 'Так, печень куриная, сало шпик,'), (299, 'свиная шкурка, соль, перец, уксус, лук, эмульгатор Е-250.')], ''),
+    ('barinov', 'В общем, гадость страшная.', "In short, it's absolutely revolting.", [(300, 'В общем, гадость страшная,')], ''),
+    ('barinov', 'Но если всё смешать, ей нравится.', 'But mix it all together, and she likes it.', [(300, 'но если все смешать, Елеоноре Андреевне нравится.')], ''),
+    ('max', 'Шеф, вы что, издеваетесь?', 'Chef, are you kidding me?', [(301, 'Шеф, вы что, издеваетесь?')], ''),
+    ('barinov', 'Почему? Ты самовоспитывался.', 'Why? You were building character.', [(302, 'Почему просто так? Ты самовоспитывался.')], ''),
+    ('barinov', 'Кстати, хороший паштет.', "By the way, it's a good pâté.", [(304, 'Кстати, хороший паштет.')], ''),
+    ('barinov', 'Что добавлял?', 'What did you put in it?', [(305, 'Что добавлял?')], ''),
+    ('max', 'Говядина, печень, оливковое масло, базилик.', 'Beef, liver, olive oil, basil.', [(306, 'Говядина, печень, оливковое масло, базилик.')], ''),
+    ('fedya', 'Здорово!', 'Hi there!', [(338, 'Здорово! Привет!')], ''),
+    ('max', 'Так он тебя отпустил?', 'So he let you go?', [(340, 'Так что, он тебя отпустил, что-то?')], ''),
+    ('fedya', 'Ага. Депортировали меня.', 'Yep. They deported me.', [(341, 'Ага. Депортировали меня.')], ''),
+    ('fedya', 'Я с пограничниками договорился.', 'I made a deal with the border guards.', [(342, 'Ну, я с пограничниками договорился.')], ''),
+    ('fedya', 'Они меня из базы удалили.', 'They deleted me from the database.', [(343, 'Они меня из базы удалили.')], ''),
+    ('fedya', 'Теперь я не Федя, я Миша.', "Now I'm not Fedya, I'm Misha.", [(345, 'я теперь не Федя, я Миша.')], ''),
+    ('barinov', 'Здорово, Миша.', 'Hi, Misha.', [(346, 'Здорово, Миша.')], ''),
 ]
 WALK = [
-    (0, None, "'Beef pâté.' 'Beef' is an adjective here, so it's 'beefy pâté'. That is how Russian says 'beef pâté': one describing word and one noun."),
-    (1, None, "'Absolutely revolting.' The first word is 'filth', and the second means 'terrible'. Together they work as 'extremely nasty'."),
-    (2, None, "'But when you mix it all together...' 'If' is followed by the plain 'to mix', which gives it a general sense of 'if you mix'. 'All' has an 'o' at the end."),
-    (3, None, "'Eleonora likes it.' Russian says 'to-her it-pleases', so the food does the pleasing. The little word for 'to her' takes the place of 'she'."),
-    (4, None, "'Are you kidding me?' The 'sya' ending makes the verb 'mock' and means you are doing it to someone. Max uses the polite 'you' with the boss."),
-    (5, None, "'Why?' One word again. Barinov is pretending to be surprised."),
-    (6, None, "'You were educating yourself.' It's a made-up kind of word, built from 'self' plus 'bring up', plus 'sya'. Barinov enjoys the sound of it."),
-    (7, None, "'Well, let's go.' The opening word is the 'well' that Russians use when they change the subject. The second is the 'we' form, standing in for 'let's go'."),
-    (8, None, "'By the way, it's good pâté.' 'By the way' is just one word. The 'good' has the masculine ending to go with the pâté."),
-    (9, None, "'How do you make it?' Barinov uses the casual 'you', and the ending 'sh' shows it. He has gone from bossy to curious."),
-    (10, None, "'What did you put in?' There's no word for 'you'. The question about 'did you add' relies on the 'l' ending, and the context."),
-    (11, None, "'Beef, liver.' A list of two nouns, with no verb. Max replies with the plainest possible words."),
+    (0, None, "'Beef, liver and chicken pate.' Barinov reads the label on the tin. 'Govyazhiy', 'beef', and 'kuriny', 'chicken', are adjectives, so Russian says 'beefy pate', not 'pate of beef'."),
+    (1, None, "'Chicken liver, fat, salt, pepper, onion.' 'Pechen', 'liver', is feminine, so 'kurinaya', 'chicken', ends in '-aya'. 'Salo' is salted pork fat, often eaten in thin slices on black bread."),
+    (2, None, "'In short, it's absolutely revolting.' 'V obshchem', literally 'in the general', means 'in short' or 'basically'. 'Gadost strashnaya' is literally 'a terrible nastiness'."),
+    (3, None, "'But mix it all together, and she likes it.' Russian says 'ey nravitsya', literally 'to her it is pleasing', so the food does the pleasing. 'Ey' means 'to her', and she is Eleonora Andreyevna."),
+    (4, None, "'Chef, are you kidding me?' 'Vy chto' is literally 'you what', and it turns the question into 'have you lost your mind?'. 'Izdevatsya' means 'to mock', a stronger word than 'to joke'."),
+    (5, None, "'Why? You were building character.' 'Samovospityvalsya' joins 'samo-', 'self', to 'vospityvat', 'to bring up', so it means 'brought yourself up'. Barinov enjoys the long, pompous word."),
+    (6, None, "'By the way, it's a good pate.' 'Kstati' means 'by the way', written as one word. 'Khoroshiy', 'good', has the masculine ending to match 'pashtet'."),
+    (7, None, "'What did you put in it?' 'Dobavlyal' means 'were adding', from 'dobavlyat', 'to add'. The past tense shows gender but not person, so without 'ty' only the context tells you Barinov means Max."),
+    (8, None, "'Beef, liver, olive oil, basil.' 'Govyadina' means 'beef' as meat, the noun that goes with the adjective 'govyazhiy'. 'Maslo' means both 'butter' and 'oil'."),
+    (9, None, "'Hi there!' 'Zdorovo', with the stress on the last syllable, is a hearty 'hi' between friends. It comes from 'zdorov', 'healthy'."),
+    (10, None, "'So he let you go?' 'Otpustil' means 'let go' or 'released'. 'Tak', 'so', at the start asks for the end of the story."),
+    (11, None, "'Yep. They deported me.' 'Aga' is the casual 'yep'. 'Deportirovali', 'they deported', has no 'they': Russian uses a plural verb on its own when it does not matter exactly who did it."),
+    (12, None, "'I made a deal with the border guards.' 'Pogranichniki', 'border guards', comes from 'granitsa', 'border'. 'Dogovoritsya s' means 'to come to an arrangement with', and here it hints at a bribe."),
+    (13, None, "'They deleted me from the database.' 'Baza' is short for 'baza dannykh', 'database'. 'Iz bazy', 'from the database', has the '-y' ending after 'iz', 'from'."),
+    (14, None, "'Now I'm not Fedya, I'm Misha.' Russian needs no 'am': 'ya Misha' is literally 'I Misha'. 'Teper' means 'now', in the sense of 'from now on'."),
+    (15, None, "'Hi, Misha.' Barinov greets him with the same 'zdorovo' and the new name at once. Misha is the everyday short form of Mikhail."),
 ]

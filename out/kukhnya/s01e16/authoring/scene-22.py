@@ -7,39 +7,31 @@ SCENE = 22
 TITLE = 'Мой долг  (My duty)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nastya': 'Настя'}
+LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'inspector': 'Инспектор'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "At Claude Monet, the news is bad. Barinov asks what has just been said, and Nastya tells him they've been told to go; for a moment it looks like the end of everything. Here it is in Russian."
+INTRO = 'The inspector comes back to the kitchen for Fedya. Barinov makes one last try, but the inspector has made up his mind, and he even apologises for it.'
 OPENER = "Now we'll take it apart."
-TRANSITION = 'Now it all together again, from the top.'
-OUTRO = "Nobody in the kitchen is sure what happens next. Remember that 'dolg' means both 'duty' and 'debt', which is why Russians use it for obligations of any kind. See you next time!"
-CLOSING = ('nastya', 'До свидания!')
+TRANSITION = 'Now all of it together again, from the top.'
+OUTRO = "Fedya is led away, and the kitchen is a cook short. Remember that 'dolg' means both 'duty' and 'debt': a duty is something you owe. See you next time!"
+CLOSING = ('fedya', 'До свидания!')
 STORY = [
-    ('barinov', 'Что он сказал?', 'What did he say?', [], ''),
-    ('nastya', 'Он сказал нам уходить.', 'He told us to leave.', [], ''),
-    ('barinov', 'Я не верю в это.', 'I do not believe this.', [], ''),
-    ('nastya', 'Это конец?', 'Is this the end?', [], ''),
-    ('barinov', 'Я не знаю.', 'I do not know.', [], ''),
-    ('max', 'Шеф, что делать?', 'Chef, what to do?', [], ''),
-    ('barinov', 'Мы должны уйти.', 'We must leave.', [], ''),
-    ('nastya', 'Мне очень жаль.', 'I am very sorry.', [], ''),
-    ('nastya', 'Собирайтесь.', 'Pack your things.', [(285, 'Собирайтесь.')], ''),
-    ('nastya', 'Извините.', 'I am sorry.', [(286, 'Извините,')], ''),
-    ('nastya', 'Это мой долг.', 'It is my duty.', [(286, 'это мой долг.')], ''),
-    ('barinov', 'Хорошо.', 'Good.', [], ''),
+    ('inspector', 'Собирайтесь.', 'Pack your things.', [(285, 'Собирайтесь.')], ''),
+    ('fedya', 'Куда?', 'Where to?', [], ''),
+    ('inspector', 'Домой, в Молдову.', 'Home, to Moldova.', [], ''),
+    ('barinov', 'Неужели ничего нельзя сделать?', 'Is there really nothing to be done?', [], ''),
+    ('inspector', 'Извините, это мой долг.', "I'm sorry, it's my duty.", [(286, 'Извините, это мой долг.')], ''),
+    ('fedya', 'Шеф, мне очень жаль.', "Chef, I'm really sorry.", [], ''),
+    ('barinov', 'Ты ни в чём не виноват.', "It's not your fault at all.", [], ''),
+    ('fedya', 'Я ещё вернусь.', "I'll be back.", [], ''),
 ]
 WALK = [
-    (0, None, "'What did he say?' The order is just like English. The past form of 'say' ends in a bare 'l' because the one who spoke is a man."),
-    (1, None, "'He told us to leave.' Russian says 'said to us', with an 'am' type ending, and then simply 'to leave'. It leaves out the 'that'."),
-    (2, None, "'I don't believe it.' Russians believe 'in' something, so a small word for 'in' comes before 'this'. The 'u' at the end of 'believe' is the 'I' ending."),
-    (3, None, "'Is this the end?' There's no word for 'is', and the question comes only from the rising voice. 'End' ends in a hard 'ts'."),
-    (4, None, "'I don't know.' This time the 'I' is spelled out, which gives the line a heavier tone. Without it, the line would sound a touch more casual."),
-    (5, None, "'Chef, what do we do?' It's just 'what to do', in the basic form, with no 'we' at all. Max talks to the boss with a plain title."),
-    (6, None, "'We have to leave.' 'Must' is plural to go with 'we'. 'Leave' is a once-and-done action, meaning to go away for good."),
-    (7, None, "'I'm very sorry.' Russian says 'to me very pity', so the sorrow is something that happens to you. It's a gentle way to give bad news."),
-    (8, None, "'Pack your things.' The 'sya' on the end means 'gather yourselves', and 'te' makes it a command to several people. In real life it also means 'get ready to go'."),
-    (9, None, "'Excuse me.' It's the standard word for apologising to a stranger, like bumping into someone. It carries 'ite', the polite command ending again."),
-    (10, None, "'It's my duty.' 'Duty' is also 'debt', so duty is what you owe. 'My' is masculine to match."),
-    (11, None, "'Good.' It sounds resigned here, like 'fine' or 'all right'. Barinov has nothing left to argue with."),
+    (0, None, "'Pack your things.' 'Sobiraytes' is literally 'gather yourselves': '-sya' means 'oneself' and '-te' makes it polite. It also means 'get ready to go'."),
+    (1, None, "'Where to?' Russian has two words for 'where': 'gde' for a place and 'kuda' for a direction. Fedya asks 'kuda', 'where to'."),
+    (2, None, "'Home, to Moldova.' 'Domoy' already means 'to home', so it needs no preposition. 'V Moldovu', 'to Moldova', has the '-u' ending for movement into a place."),
+    (3, None, "'Is there really nothing to be done?' 'Neuzheli' means 'can it really be', a word of disbelief. 'Nichego nelzya sdelat', 'nothing can be done', is a stock phrase."),
+    (4, None, "'I'm sorry, it's my duty.' 'Izvinite' is the polite 'excuse me' or 'I'm sorry'. 'Dolg' means 'duty', and the same word means 'debt'."),
+    (5, None, "'Chef, I'm really sorry.' 'Mne zhal' is literally 'to me it is a pity', so the feeling happens to you. 'Ochen' means 'very'."),
+    (6, None, "'It's not your fault at all.' 'Ni v chyom ne vinovat' is literally 'not guilty in anything'. Russian stacks 'ni' and 'ne' in one sentence, and that's correct."),
+    (7, None, "'I'll be back.' 'Vernus' means 'I will return', from 'vernutsya', 'to come back'. 'Eshchyo', 'yet' or 'still', adds 'you haven't seen the last of me'."),
 ]

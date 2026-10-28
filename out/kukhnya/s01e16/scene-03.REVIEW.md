@@ -23,21 +23,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 11 | Нагиев | Аркабалена. | Arcobaleno. | #32 00:02:26: Аркабалена. | verbatim |
 | 12 | Шеф | Что вы делаете? | What are you doing? | new | new |
 | 13 | Нагиев | Я решаю наши проблемы. | I am solving our problems. | new | new |
-| 14 | Шеф | Молодец, так держать. | Well done, keep it up. | new | new |
+| 14 | Шеф | Теперь у соседей будут проблемы. | Now the neighbors will have problems. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you want a war?' The Russian for 'want' is the one you'll use for ordering and wishing, and 'war' changes its last letter because it is what is wanted. It's a theatrical way to start.
-- 'There will be a war for you.' The words run in a different order from English: 'will be, to you, war'. The little word for 'to you' carries the threat, as if the war is being delivered to them.
-- 'Hello, good afternoon.' The first word is what Russians say when they pick up the phone or call someone. It sounds friendly, and Nagiyev's sweet voice is what makes it funny.
-- 'What do they pay you money for?' 'Money' is always plural in Russian, one of those words that never has a singular. 'For what' is two small words that work as a complaint.
-- 'Where are you looking?' This one uses 'where to', not 'where at'. Russians have two different words for the two ideas, and the first is the one for direction.
-- 'There are migrants in my courtyard.' Russian drops the 'are' here, so it is just 'in my courtyard, migrants'. 'Courtyard' takes an 'e' ending after the Russian for 'in'.
-- 'From the restaurant Arcobaleno.' The Russian spelling bends the Italian name to fit Russian sounds. The small word for 'from' and an ending on 'restaurant' tell you where the migrants supposedly come from.
-- 'They are slaughtering a live ram.' Russian's 'live' comes from the Russian for 'to live', and the 'ogo' and 'a' endings on 'live' and 'ram' show he is talking about a living animal being acted on.
-- 'Are you sleeping over there?' Russian's 'sleep' has an ending that says 'you', and the little word for 'there' makes it sarcastic. It's a rude question, meant to sting the official.
-- 'Come quickly.' The ending on the first word makes it an order to more than one person, or a polite one to a stranger. 'Quickly' ends in 'o', the same way as 'badly' did earlier in this episode.
-- 'Arcobaleno.' He repeats the name so the official can write it down. Spelling out a name is the same trick on any phone line.
-- 'What are you doing?' The ending on the Russian for 'do' says 'you', polite or plural. Barinov has caught him mid-call and is clearly amused.
-- 'I am solving our problems.' 'I solve' is one word, and Russian's 'our' has the ending that goes with 'problems'. Nagiyev sounds quite pleased with himself.
-- 'Well done, keep it up.' The opening word is a compliment that is roughly 'a fine fellow', used for anyone who does a thing well. The second part, 'keep it up', is a stock phrase you can use for any good effort.
+- 'Do you want a war?' 'Voyna' means 'war', and it becomes 'voynu' because it is the thing wanted. The same '-a' to '-u' swap happens to 'kasha', 'pizza' or 'vodka' when you ask for them.
+- 'There will be a war for you.' 'Budet vam voyna' is a set threat, literally 'there will be to you a war'. 'Budet' is the future of 'to be', 'there will be'.
+- 'Hello, good afternoon.' 'Allo', often said 'alyo', is the telephone hello only. Face to face, Russians say 'zdravstvuyte' or 'dobry den'.
+- 'For what do they pay you money?' 'Za chto' means 'for what', and it asks the reason something is paid for. On its own, 'za chto?!' is the cry of someone who feels unfairly punished.
+- 'Where are you looking?' 'Kuda' is 'where to', the direction word, so 'kuda smotrite' asks which way your eyes are pointed. For a place, Russian uses 'gde'.
+- 'There are migrants in my courtyard.' In Russian, after 'v', 'in', 'moy dvor' becomes 'moyom dvore': both words change to say where.
+- 'From the restaurant Arcobaleno.' 'Iz', 'out of', turns 'restoran' into 'restorana'. The name after it stays as it is, the way restaurant names usually do.
+- 'They are slaughtering a live ram.' 'Baran' means 'ram', and it becomes 'barana' because it is the one being slaughtered: living things take '-a' here. 'Baran' is also an insult, 'blockhead'.
+- 'And are you sleeping there?' 'Spite', 'you sleep', is not the English word. 'Spat', 'to sleep', loses its 'a' in 'splyu', 'I sleep', and 'spite', 'you sleep'.
+- 'Come quickly.' 'Priezzhayte' is a polite command to come by car or other transport. Someone coming on foot would be told 'prikhodite'.
+- 'Arcobaleno.' The subtitles write the name as 'Arkabalena', the way it sounds: in Russian an unstressed o is said like a.
+- 'What are you doing?' 'Delaete' is the 'vy' form of 'delat', 'to do'. Barinov says 'vy' to Nagiyev, who owns the restaurant.
+- 'I am solving our problems.' 'Reshayu', 'I solve', comes from 'reshat', which also means 'to decide'. 'Ya reshil' can be 'I solved it' or 'I've decided'.
+- 'Now the neighbors will have problems.' This is the 'u' pattern for 'have' moved into the future. 'Budut', 'there will be', is plural because 'problemy' is.

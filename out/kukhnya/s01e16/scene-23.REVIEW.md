@@ -11,29 +11,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Шеф, я сделал это. | Chef, I did it. | #287 00:21:02: Шеф, я сделал это. | verbatim |
-| 2 | Шеф | Что ты сделал? | What did you make? | new | new |
-| 3 | Макс | Я сделал ваш паштет. | I made your pâté. | new | new |
+| 2 | Шеф | Что сделал? | Did what? | new | new |
+| 3 | Макс | Ваш паштет. | Your pâté. | new | new |
 | 4 | Шеф | Мой паштет? | My pâté? | new | new |
 | 5 | Макс | Получилось один в один. | It came out exactly the same. | #288 00:21:04: Получилось один в один. | verbatim |
-| 6 | Шеф | Я должен попробовать. | I must taste it. | new | new |
-| 7 | Макс | Даже чуть-чуть лучше. | Even a little better. | #289 00:21:05: Даже чуть-чуть лучше. | verbatim |
-| 8 | Шеф | Да ладно? | No way! | #289 00:21:05: Да ладно? | verbatim |
-| 9 | Макс | Да. | Yeah. | #290 00:21:08: Да. | verbatim |
-| 10 | Шеф | Это невозможно. | This is impossible. | new | new |
-| 11 | Макс | Я хороший повар. | I am a good cook. | new | new |
-| 12 | Шеф | Мы посмотрим. | We will see. | new | new |
+| 6 | Макс | Даже чуть-чуть лучше. | Even a little better. | #289 00:21:05: Даже чуть-чуть лучше. | verbatim |
+| 7 | Шеф | Да ладно? | No way! | #289 00:21:05: Да ладно? | verbatim |
+| 8 | Макс | Да. | Yeah. | #290 00:21:08: Да. | verbatim |
+| 9 | Шеф | Не может быть. | That can't be. | new | new |
+| 10 | Макс | Попробуйте сами. | Taste it yourself. | new | new |
+| 11 | Шеф | Ну, посмотрим. | Well, we'll see. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I did it.' 'Did' is a finished action, ending in the masculine 'l'. The little word for 'it' follows.
-- 'What did you make?' The order is the same as English. Barinov uses the casual 'you', as a boss does.
-- 'I made your pâté.' Max says 'your' in the polite form, matching the masculine pâté. A casual 'your' would be 'tvoy', but that's for friends.
-- 'My pâté?' He says just 'my pâté' and the rising voice turns it into a question. There's no extra word for 'what'.
-- 'It came out exactly the same.' The word at the start is 'it got obtained', a very Russian way of saying 'it turned out'. 'One in one' is the picture for identical.
-- 'I must taste it.' 'Must' ends in 'en' for a man, and a woman would say a different ending. After it comes the plain 'to try'.
-- 'Even a little better.' The doubled 'chut' is a bit like 'teeny-weeny', and Russians double a word to make it smaller or bigger. 'Better' is the short form.
-- 'No way!' Literally 'yes okay?', and it works as 'really?'. It is a casual line, the sort a friend would use.
-- 'Yeah.' Max answers with the same first word of the chef's phrase. In Russian 'da' is the plain 'yes'.
-- 'It's impossible.' The 'ne' in front of 'possible' does what 'im' does in English. It's a long word, but you can recognise its parts.
-- 'I'm a good cook.' It has no 'am' and no 'a', just 'I good cook'. 'Good' has a masculine ending.
-- 'We will see.' It's literally 'we will look', and the future 'we' form is used for 'let's see'. A neat, ominous closing.
+- 'Chef, I did it.' 'Sdelal' means 'did' or 'made', a finished action, and its '-l' ending is the masculine past. 'Eto', 'it', comes after, as in English.
+- 'Did what?' Barinov drops the 'you': 'chto sdelal?', literally 'what did?'. In quick speech Russians often leave out a pronoun that is obvious.
+- 'Your pâté.' Max says 'vash', the polite 'your', to his boss. 'Pashtet' is the French 'pâté' with a Russian 'sh' sound in the middle.
+- 'My pâté?' 'Moy pashtet?' is a statement turned into a question by the voice alone. Russian has no word order change for questions like this.
+- 'It came out exactly the same.' 'Poluchilos' means 'it turned out', and Russians say it about any dish or plan that worked. 'Odin v odin', literally 'one into one', means 'identical'.
+- 'Even a little better.' 'Chut-chut' means 'a tiny bit', and doubling the word makes it smaller. 'Luchshe', 'better', looks nothing like 'khorosho', 'good'.
+- 'No way!' 'Da ladno', literally 'yes, all right', is said with a rising voice to mean 'come off it'. It is casual, the way a boss talks to his cook.
+- 'Yeah.' 'Da' is the plain 'yes'. Max takes Barinov's question at face value and simply agrees.
+- 'That can't be.' 'Ne mozhet byt', literally 'cannot be', is the standard 'that's impossible'. The same three words with a different tone can also mean 'really?'.
+- 'Taste it yourself.' 'Poprobuyte' means 'try' and also 'taste', the word for sampling food. 'Sami' means 'yourself', in the polite plural form.
+- 'Well, we'll see.' 'Posmotrim', literally 'we'll look', is the everyday 'we'll see'. 'Nu', 'well', makes it sound sceptical.

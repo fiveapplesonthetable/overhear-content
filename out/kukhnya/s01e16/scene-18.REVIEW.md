@@ -10,32 +10,32 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Инспектор | Можно посмотреть на ваши документы? | May I look at your documents? | #261 00:18:35: ваши документы? | verbatim |
-| 2 | Луи | Я просто обычный гость ресторана. | I am just an ordinary guest of the restaurant. | new | new |
-| 3 | Инспектор | Нет, вы работаете здесь поваром. | No, you work here as a chef. | #261 00:18:35: Вы же повар в этом ресторане | verbatim |
-| 4 | Луи | Почему вы вдруг так решили? | Why did you suddenly decide so? | new | new |
-| 5 | Инспектор | Вы очень внимательно смотрите на блюдо. | You are looking at the dish very carefully. | #262 00:18:38: только повар может так придирчиво рассматривать | verbatim |
-| 6 | Инспектор | Вам эта еда совсем не нравится. | You do not like this food at all. | #263 00:18:43: ему оно не понравится | verbatim |
-| 7 | Инспектор | Потому что готовил её другой повар. | Because another chef cooked it. | #264 00:18:46: готовил-то его кто-то другой | verbatim |
-| 8 | Луи | Я просто люблю хорошую кухню. | I simply love good cuisine. | new | new |
-| 9 | Инспектор | Ещё вы постоянно трогаете свою голову. | Also you are constantly touching your head. | #265 00:18:48: Вы все время трогаете голову | verbatim |
-| 10 | Инспектор | На работе вы всегда носите шапку. | At work you always wear a cap. | new | new |
-| 11 | Инспектор | И вы совсем не пьёте вино. | And you are not drinking the wine at all. | #266 00:18:52: Вы не прикоснулись вообще | verbatim |
-| 12 | Инспектор | Потому что на работе нельзя пить. | Because at work one must not drink. | #267 00:18:56: потому что на работе пить | verbatim |
-| 13 | Луи | Да, вы сказали чистую правду. | Yes, you told the pure truth. | new | new |
+| 1 | Инспектор | А вот вы-то мне и нужны. | And you're just the one I need. | #260 00:18:32: А вот вас-то мне кажется и нужно, уважаемый. | verbatim |
+| 2 | Инспектор | Можно взглянуть на ваши документы? | May I take a look at your papers? | #261 00:18:35: Я могу взглянуть на ваши документы? | verbatim |
+| 3 | Федя | Я просто гость. | I'm just a guest. | new | new |
+| 4 | Инспектор | Вы же повар в этом ресторане. | But you're the cook in this restaurant. | #261 00:18:35: Вы же повар в этом ресторане, правильно? | verbatim |
+| 5 | Федя | С чего вы взяли? | What makes you think that? | new | new |
+| 6 | Инспектор | Только повар так смотрит на блюдо. | Only a cook looks at a dish like that. | #262 00:18:38: Потому что только повар может так придирчиво рассматривать<br>#263 00:18:43: блюдо. | verbatim |
+| 7 | Инспектор | Потому что готовил его кто-то другой. | Because someone else cooked it. | #264 00:18:46: потому что готовил-то его кто-то другой, а не вы. | verbatim |
+| 8 | Инспектор | Вы всё время трогаете голову. | You keep touching your head. | #265 00:18:48: Вы все время трогаете голову | verbatim |
+| 9 | Инспектор | Вы привыкли к колпаку. | You're used to the chef's hat. | #265 00:18:48: потому что привыкли быть в колпаке. | verbatim |
+| 10 | Инспектор | И вы не пьёте своё вино. | And you aren't drinking your wine. | #266 00:18:52: Вы не прикоснулись вообще к замечательному шардоне, | verbatim |
+| 11 | Инспектор | Потому что на работе пить нельзя. | Because you're not allowed to drink at work. | #267 00:18:56: потому что на работе пить запрещено. | verbatim |
+| 12 | Федя | Да, вы правы. | Yes, you're right. | new | new |
+| 13 | Инспектор | Вуаля. | Voilà. | #269 00:19:02: Вуаля. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'May I look at your documents?' It opens with the ask-permission word, followed by 'look at'. 'Your' is plural to match 'documents', and the plural ending is a simple 'y'.
-- 'I am just an ordinary guest of the restaurant.' There is no word for 'of'. The restaurant simply takes an 'a' ending and goes after 'guest'.
-- 'No, you work here as a chef.' There's no word for 'as' either. The chef takes an 'om' ending, and that does the job.
-- 'Why did you suddenly decide that?' 'Suddenly' is a good little word to keep, and it sits right after the 'why'. 'Decided' has the 'li' ending since the inspector is addressed as 'you', politely.
-- 'You are looking at the dish very carefully.' 'Carefully' is a describing word with an 'o' ending, like many of the 'how' words. 'Look at' takes the tiny word for 'on'.
-- 'You don't like this food at all.' Again it's 'to you not pleasing', so 'you' takes the 'am' ending. 'At all' is the pair 'altogether not'.
-- 'Because another chef cooked it.' Russian says 'her' for the food, because the word for food is feminine. The first two words are 'because'.
-- 'I simply love good cuisine.' The word for cuisine is the same as for 'kitchen', which is the title of the show. 'Good' carries 'uyu' because it's what is loved.
-- 'Also you constantly touch your head.' 'Your own' is a special little word, which always points back to the person doing the action. 'Constantly' is built from a word meaning 'constant'.
-- 'At work you always wear a cap.' Russians say 'on work' for 'at work', and the work takes an 'e'. 'Wear' is the one for something you carry on yourself regularly.
-- 'And you aren't drinking the wine at all.' 'Not at all' appears again, now in front of 'drink'. The wine itself stays in its basic form, because it isn't being drunk.
-- 'Because you can't drink at work.' This 'can't' is the 'not allowed' word, and you'll see it on signs. It's followed by the plain 'to drink', with no 'you' at all.
-- 'Yes, you told the pure truth.' Literally 'clean truth', so truth is something that can be clean. The ending on 'told' is the polite plural.
+- 'And you're just the one I need.' 'Vy-to mne i nuzhny' is literally 'you, then, to me are needed': Russian says what you need is 'needed to you'. The little '-to' and 'i' add the sense of 'you're the very one'.
+- 'May I take a look at your papers?' 'Mozhno', 'it is possible', is the everyday way to ask permission. 'Vzglyanut na' means 'to take a glance at', a quicker, more polite word than plain 'look'.
+- 'I'm just a guest.' 'Gost' means 'guest', and in a restaurant it's also the word for a customer. 'Prosto', 'simply', does the job of English 'just'.
+- 'But you're the cook in this restaurant.' 'Zhe' after 'vy' is a small word of insistence, like 'but you are, aren't you'. 'Povar' means 'cook', from the old verb 'varit', 'to boil'.
+- 'What makes you think that?' 'S chego vy vzyali?' is literally 'from what did you take it?', the usual way to challenge a guess. It sounds a little defensive, which is the point.
+- 'Only a cook looks at a dish like that.' 'Tak', 'so' or 'like that', points to the way he looks. 'Bliudo' means 'dish', both the plate of food and the course on a menu.
+- 'Because someone else cooked it.' 'Kto-to drugoy' means 'someone else': 'kto-to' is 'someone', and 'drugoy' is 'other'. 'Ego', 'it', points back to the dish, which is neuter.
+- 'You keep touching your head.' 'Vsyo vremya', literally 'all the time', is how Russian says 'keep doing' something. Russian needs no 'your' before 'head'.
+- 'You're used to the chef's hat.' 'Privyknut k' means 'to get used to', and 'kolpak' is the tall white cook's hat. 'K kolpaku' adds '-u' to the hat after 'k'.
+- 'And you aren't drinking your wine.' 'Svoyo' means 'your own', and Russian uses it whenever the owner is the person doing the action. 'Vino' is 'wine', a word that never changes its ending.
+- 'Because you're not allowed to drink at work.' 'Nelzya' means 'it is not allowed', and it is followed by the plain 'pit', 'to drink'. Russian says 'na rabote', literally 'on work', for 'at work'.
+- 'Yes, you're right.' 'Vy pravy' is literally 'you are right', with no word for 'are'. A man would say 'ty prav' to a friend; 'pravy' is the polite form for 'vy'.
+- 'Voila.' The inspector borrows the French word, like a conjurer finishing a trick. Russians write it in their own letters and say it much as the French do.

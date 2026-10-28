@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'inspector': 'Инспектор', 'nagiyev': 'Нагиев', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "The inspector is still in the dining room at Claude Monet, now hunting for the one extinguisher that is actually hanging where it should. Then the owner, Dmitry Nagiyev, walks in and asks him straight out why this restaurant. We'll hear it in Russian first."
-OPENER = "Now we'll take it apart."
-TRANSITION = "Let's hear the whole thing again, start to finish."
+INTRO = 'The inspector is still in the dining room at Claude Monet, now hunting for the one extinguisher that is actually hanging where it should. Then the owner, Dmitry Nagiyev, walks in and asks him straight out why this restaurant. Listen for the moment the inspector lets slip who called him.'
+OPENER = 'Now the hunt for the extinguisher, one line at a time.'
+TRANSITION = 'And the whole visit once more, at the speed they really talk.'
 OUTRO = "So the tip came from the restaurant next door, and the inspector is coming back tomorrow. Listen out for the little word that means 'here you are' or 'there it is', because Vika uses it and Russians say it constantly. See you next time!"
-CLOSING = ('inspector', 'Пока!')
+CLOSING = ('nagiyev', 'До свидания!')
 STORY = [
     ('inspector', 'Где ваш огнетушитель?', 'Where is your fire extinguisher?', [(10, 'А где огнетушитель?')], ''),
     ('vika', 'Он висел здесь в прошлый раз.', 'It was hanging here last time.', [(11, 'Он же висел у вас в прошлый раз.')], ''),
@@ -24,7 +24,7 @@ STORY = [
     ('inspector', 'А где его пломба?', 'And where is its seal?', [(16, 'А пломба где?')], ''),
     ('nagiyev', 'Добрый день.', 'Good afternoon.', [], ''),
     ('nagiyev', 'Можно узнать одну вещь?', 'May I know one thing?', [(19, 'А можно узнать, чем вызван столь бурный интерес к пожарной безопасности моего')], ''),
-    ('nagiyev', 'Почему у вас такой интерес к ресторану?', 'Why do you have such an interest in the restaurant?', [(20, 'ресторана? Можно.')], ''),
+    ('nagiyev', 'Почему у вас такой интерес к моему ресторану?', 'Why are you so interested in my restaurant?', [(20, 'ресторана? Можно.')], ''),
     ('inspector', 'Мы боремся с плохим руководством.', 'We are fighting with bad management.', [(21, 'Интерес вызван борьбой с халатностью руководства,')], ''),
     ('inspector', 'Был звонок моему начальнику.', 'There was a call to my boss.', [(22, 'а также с безобразным состоянием пожарной техники и звонком моему')], ''),
     ('inspector', 'Из соседнего ресторана.', 'From the neighboring restaurant.', [(23, 'начальнику из соседнего ресторана.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('inspector', 'Ну что, до завтра.', 'Well then, until tomorrow.', [(26, 'Ну что, до завтра.')], ''),
 ]
 WALK = [
-    (0, None, "'Where is your fire extinguisher?' Russian's 'where' is one you'll hear in every shop and station, and 'your' is the polite-or-plural form, matching a masculine thing."),
-    (1, None, "'It was hanging here last time.' A masculine speaker or thing gets a past form that just carries 'l', no extra ending. 'Last time' is literally 'in the past time'."),
-    (2, None, "'Are you laughing at me?' Russian laughs 'over' someone, so the little word 'over' stands where English puts 'at'. The inspector also throws in a small 'what' at the start, which works like our 'what, are you kidding me?'."),
-    (3, None, "'This one is not suitable.' The Russian for 'suits' literally means 'walks up to', which makes sense if you picture something that comes up to the mark. Here it's negated, and the inspector says 'this one' with the masculine word for it."),
-    (4, None, "'Here is a normal fire extinguisher.' Vika points with the little word 'vot', 'here you go', and she doesn't need any 'is' after it. Russian's 'normal' you will recognise at once."),
-    (5, None, "'And where is its seal?' Its spelling is 'ego', but Russians say 'yevo', so the g sounds like a v. 'Seal' also means a dental filling, which is the same idea: something that plugs a gap."),
-    (6, None, "'Good afternoon.' Nagiyev walks in with the polite greeting, literally 'kind day'. You can use it from late morning until evening, which makes it very handy."),
-    (7, None, "'May I find out one thing?' The Russian for 'may' or 'it is possible' is the key to asking permission in Russian, and you'll use it a lot. 'One' changes its ending here to match Russian's 'thing'."),
-    (8, None, "'Why do you have such an interest in the restaurant?' The Russian for 'why' is a single piece, and 'you have' is again 'at you'. The little word before 'restaurant' means 'toward', and the restaurant takes an ending to go with it."),
-    (9, None, "'We are fighting bad management.' Russian's 'management' is built from 'hand' and 'lead', so it is leadership in the literal sense. Russian says 'fight with', where English just says 'fight'."),
-    (10, None, "'There was a call to my boss.' 'Call' comes from the verb for ringing a bell, so a phone call is a ring. Both 'my' and 'boss' end in 'u' sounds because the call went to him."),
-    (11, None, "'From the neighboring restaurant.' The Russian for 'neighbor' is the root of the one for 'next door', and the 'ogo' ending is the 'of' form, matching the restaurant it describes."),
-    (12, None, "'Everything is clear.' The word is a one-word reply that Russians use for 'I see' or 'got it', and it means 'understandable' at heart. Nagiyev has put two and two together."),
-    (13, None, "'Well then, until tomorrow.' The small word for 'until' plus Russian's 'tomorrow' is the standard way to say goodbye till the next day. The inspector sounds almost cheerful, which is the threatening part."),
+    (0, None, "'Where is your fire extinguisher?' 'Vash', 'your', is the polite form. It stays as plain 'vash' because 'ognetushitel' is a masculine word."),
+    (1, None, "'It was hanging here last time.' 'Visel', 'was hanging', ends in a bare '-l' because the extinguisher is masculine; for a feminine thing it would be 'visela'. 'V proshly raz', 'last time', is literally 'in the past time'."),
+    (2, None, "'Are you laughing at me?' Russian laughs 'over' someone: 'smeyatsya nad'. Before 'mnoy', 'me', 'nad' gets an extra o and becomes 'nado mnoy'."),
+    (3, None, "'This one is not suitable.' 'Podkhodit', 'suits', is literally 'walks up to', as if the thing comes up to the mark. It's also what you say about clothes that fit."),
+    (4, None, "'Here is a normal fire extinguisher.' 'Vot', 'here it is', is what you say when you point at something, and nothing more than the thing itself needs to follow."),
+    (5, None, "'And where is its seal?' 'Ego', 'its', is spelled with a g but said 'yevo'. 'Plomba', the seal on the extinguisher, is also the Russian word for a tooth filling."),
+    (6, None, "'Good afternoon.' 'Dobry den' is literally 'kind day', the polite greeting from late morning until evening."),
+    (7, None, "'May I find out one thing?' 'Mozhno', 'it is possible', is the simplest way to ask permission: 'mozhno' plus the action, here 'uznat', 'to find out'."),
+    (8, None, "'Why are you so interested in my restaurant?' Russian takes an interest 'toward' something, with 'k', and after 'k', 'moy restoran' becomes 'moemu restoranu'."),
+    (9, None, "'We are fighting bad management.' 'Rukovodstvo', 'management', is built from 'ruka', 'hand', and 'vodit', 'to lead'. And you fight 'with' something in Russian: 'boremsya s'."),
+    (10, None, "'There was a call to my boss.' 'Zvonok', 'a call', comes from 'zvonit', 'to ring', and it is also the word for a doorbell or a school bell."),
+    (11, None, "'From the neighboring restaurant.' 'Sosedny', 'neighboring', comes from 'sosed', 'neighbor'. After 'iz', 'from', it becomes 'sosednego', which is said 'sosednevo'."),
+    (12, None, "'Everything is clear.' 'Ponyatno' is built on 'ponyat', 'to understand', so it is literally 'understandable'. It's the usual reply for 'I see' or 'got it'."),
+    (13, None, "'Well then, until tomorrow.' 'Do zavtra', 'until tomorrow', is a set goodbye. Swap in another time and it still works, as in 'do vechera', 'until this evening'."),
 ]

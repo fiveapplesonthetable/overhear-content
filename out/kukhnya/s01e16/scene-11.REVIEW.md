@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, let's just be quick.' Russian's 'let's' is the plural, polite form, used between two people who don't know each other. The little word for 'only' makes 'but quickly' sound like a request.
-- 'I'll get straight to the point.' The key chunk is 'to the matter', and the verb that goes with it means 'move over to'. The Russian for 'immediately' sits in the middle.
-- 'Have you heard anything about me?' Russian's 'anything' is 'what' plus a small tail that makes it 'any'. 'About me' squeezes in an extra 'o', so the small word for 'about' and 'me' flow together.
-- 'Yes, I have heard.' Barinov answers in one word, and the word needs no 'I'. The 'l' on the end says the speaker is a man.
-- 'Do you know what they call me?' 'They call' has no 'they' in front of it, only the ending. It's the way Russian says it when nobody in particular is named.
-- 'They call me a scary person.' When someone is called something, the title takes a special ending, 'ym' on the describing word and 'om' on the person. The Russian for 'scary' is built from the word for fear.
-- 'A month ago there was an inspection.' Russian puts 'ago' after the time, so it says 'month ago'. The 'was' ends in 'a' because 'inspection' is feminine.
-- 'They didn't find anything here.' Russia says 'nothing' and 'not' together, and both are required. 'Here' is the casual word for it.
-- 'Would you like a mint candy?' The offer begins with the thing, and then comes 'not wish', which is how Russians make an offer polite. 'Mint' and 'candy' both end in 'u' sounds because that's what is being offered.
-- 'No, I don't need it.' The structure is 'to me not necessary', and the last word is the one you'll use whenever you want to say you need something. It is short and absolutely clear.
-- 'Our service is like birds.' Russian's 'is like' finishes with 'a' to match 'service', which is feminine. 'Birds' has no ending after 'on', since it's the plural form.
-- 'We always look at you from above.' 'From above' is just one word. 'We look' has an 'm' ending for 'we', and 'always' sits in the middle.
+- 'Alright, let's just do it quickly.' 'Davayte' is the polite 'let's', said to someone you call 'vy'. 'Tolko', 'only', turns 'quickly' into a condition: fine, but quickly.
+- 'I will get straight to the point.' 'K delu' means 'to the matter'. 'Pereyti k delu' is literally 'to cross over to the matter', and 'srazu' means 'at once'.
+- 'Have you heard anything about me?' 'Chto-nibud', 'anything', is 'chto', 'what', with the '-nibud' tail that means 'any'. Before 'mne', 'o', 'about', becomes 'obo'.
+- 'Yes, I have heard.' Russian answers with the verb, 'slyshal', 'heard', and drops 'I'. The '-l' ending marks the speaker as a man.
+- 'Do you know what they call me?' Russian leaves 'they' out: 'menya nazyvayut' is literally 'me they call'. This is how Russian talks about people in general.
+- 'They call me a scary person.' After 'nazyvat', 'to call', the name you are given changes ending: 'strashny chelovek' becomes 'strashnym chelovekom'. 'Strashny' comes from 'strakh', 'fear'.
+- 'A month ago there was an inspection.' Russian says 'mesyats nazad', literally 'month back': 'nazad', 'ago', comes after the time. 'Byla' ends in '-a' because 'proverka' is feminine.
+- 'They did not find anything here.' Russian says 'nichego ne nashli', literally 'nothing not found', and the double 'not' is required.
+- 'Would you like a mint candy?' 'Ne zhelaete?', literally 'you don't wish?', is a polite way to offer. 'Myatnaya konfeta' becomes 'myatnuyu konfetu' because it is the thing offered.
+- 'No, I don't need it.' 'Mne ne nuzhno' is literally 'to me not needed'. Russians say 'mne nuzhno' for 'I need' all the time.
+- 'Our service is like birds.' 'Pokhozha na' means 'is like', and 'pokhozha' ends in '-a' to match the feminine 'sluzhba'. 'Ptitsy', 'birds', becomes 'ptits' after 'na'.
+- 'We always look at you from above.' 'Sverkhu', 'from above', is a single word built from 'verkh', 'top'. Its opposite is 'snizu', 'from below'.

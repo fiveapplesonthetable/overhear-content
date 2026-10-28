@@ -10,38 +10,42 @@ PAIR = 'ru-en'
 LABELS = {'ainura': 'Айнура', 'inspector': 'Инспектор'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "To keep Ainura out of the inspector's sight, the staff have dressed her as a guest at a table in the dining room. The inspector sits down right opposite her and orders dessert, and what he says over it is far from friendly. First, the Russian."
-OPENER = "Let's pull it apart a little."
-TRANSITION = 'Here is the whole conversation again.'
-OUTRO = "The strudel saves Ainura, and the inspector walks off with a full stomach. Look out for 'nravitsya' next time, the odd verb Russians use for 'like', as in 'to you it pleases'. See you next time!"
+INTRO = "To keep Ainura out of the inspector's sight, the staff have dressed her as a guest at a table in the dining room. The inspector sits down right opposite her, orders dessert, and talks about his work, and what he says over it is far from friendly."
+OPENER = "Now the inspector's dinner talk, one line at a time."
+TRANSITION = 'And the whole dinner once more, from the first word to the strudel.'
+OUTRO = "The strudel saves Ainura, and the inspector walks off with a full stomach. Remember 'te, kto poumnee', 'the cleverer ones', a handy way to talk about a group of people by what they are like. See you next time!"
 CLOSING = ('inspector', 'До свидания!')
 STORY = [
-    ('inspector', 'Добрый вечер, можно сесть за столик?', 'Good evening, may I sit at the table?', [(224, 'Добрый вечер')], ''),
-    ('ainura', 'Да, пожалуйста, садитесь сюда.', 'Yes, please, sit down here.', [], ''),
-    ('inspector', 'Вы уже готовы сделать заказ?', 'Are you ready to place an order already?', [(225, 'Готовы сделать заказ?')], ''),
-    ('ainura', 'Я хочу заказать этот дорогой коньяк.', 'I want to order this expensive cognac.', [(229, 'Этот коньяк очень дорогой')], ''),
-    ('inspector', 'А я закажу вкусный яблочный штрудель.', 'And I will order the delicious apple strudel.', [(234, 'яблочный штрудель')], ''),
-    ('inspector', 'Я всегда везде нахожу нелегальных работников.', 'I always find illegal workers everywhere.', [(239, 'я их всегда везде нахожу')], ''),
-    ('ainura', 'Вам очень нравится ваша работа?', 'Do you like your job very much?', [], ''),
-    ('inspector', 'Да, я занимаюсь этим пять лет.', 'Yes, I have been doing this for five years.', [(248, 'этим я уже занимаюсь пять лет')], ''),
-    ('inspector', 'Обычно работников прячут на складе.', 'Usually they hide workers in the storeroom.', [(250, 'прячут их в туалете, на складе')], ''),
-    ('inspector', 'А умные люди сажают их в зале.', 'And smart people seat them in the dining room.', [(251, 'А те, кто поумнее')], ''),
-    ('inspector', 'Но этот яблочный штрудель просто прекрасный!', 'But this apple strudel is simply wonderful!', [(255, 'самый прекрасный яблочный штрудель')], ''),
-    ('inspector', 'Сегодня вкусный десерт спас вас.', 'Today the delicious dessert saved you.', [(257, 'сегодня кое-кого спас')], ''),
-    ('ainura', 'Хорошо, спасибо вам большое!', 'All right, thank you very much!', [(259, 'Хорошо. Спасибо')], ''),
+    ('inspector', 'Вы не будете против, если я составлю вам компанию?', 'Would you mind if I joined you?', [(222, 'Вы не будете против, если я составлю вам компанию?')], ''),
+    ('ainura', 'Да, пожалуйста, садитесь.', 'Yes, please, sit down.', [], ''),
+    ('inspector', 'Дама, будьте любезны, прошу вас.', 'Madam, if you would be so kind.', [(226, 'Дама, будьте любезны, прошу вас.')], ''),
+    ('ainura', 'Вот эту, и ещё вот эту.', 'This one, and this one too.', [(227, 'И вот эту, вот'), (228, 'эту, вот эту, и еще вот эту.')], ''),
+    ('inspector', 'Этот коньяк очень дорогой.', 'This cognac is very expensive.', [(229, 'Этот коньяк очень дорогой.')], ''),
+    ('inspector', 'Ну, желание дамы закон.', "Well, a lady's wish is the law.", [(231, 'Александр, ну вы же желание дамы закона.')], ''),
+    ('inspector', 'А я закажу яблочный штрудель со сливками.', "And I'll order the apple strudel with cream.", [(234, 'я отведаю чудный яблочный штрудель.'), (235, 'Со сливками.')], ''),
+    ('inspector', 'Знаете, почему меня называют охотником на гастарбайтеров?', 'Do you know why they call me the migrant-worker hunter?', [(238, 'Вы знаете, почему меня называют охотник на гастарбайтеров?')], ''),
+    ('inspector', 'Потому что я их всегда везде нахожу.', 'Because I always find them, wherever they are.', [(239, 'Потому что я их всегда везде нахожу.')], ''),
+    ('inspector', 'Те, кто поглупее, прячут их в туалете.', 'The less clever ones hide them in the bathroom.', [(250, 'Те, кто поглупее, прячут их в туалете, на складе, ну, и так далее.')], ''),
+    ('inspector', 'А те, кто поумнее, выдают их за гостей.', 'And the cleverer ones pass them off as guests.', [(251, 'А те, кто поумнее,'), (252, 'выдавая их за гостей.')], ''),
+    ('inspector', 'Среди нас может быть нелегал.', 'There could be an illegal worker among us.', [(254, 'Среди нас может быть нелегал.')], ''),
+    ('inspector', 'Передайте шефу, что его штрудель сегодня кое-кого спас.', 'Tell the chef his strudel saved someone today.', [(257, 'Передайте шефу, что его восхитительный яблочный штрудель сегодня кое-кого спас.')], ''),
+    ('inspector', 'А вы сделайте, пожалуйста, разрешение на работу.', 'And you, please, do get a work permit.', [(258, 'А вас, я очень прошу, сделайте, пожалуйста, разрешение на работу.')], ''),
+    ('ainura', 'Хорошо. Спасибо.', 'All right. Thank you.', [(259, 'Хорошо. Спасибо.')], ''),
 ]
 WALK = [
-    (0, None, "'Good evening, may I sit at the table?' 'Kind evening' is the literal greeting. 'Sit down' is the verb for the moment of sitting, and 'table' is shrunk to a 'little table' with an 'ik' ending, which is typical of restaurants."),
-    (1, None, "'Yes, please, sit down here.' The command ends in 'sya', so it's 'seat yourselves'. 'Here' means 'to here', as the table is where they'll sit, and it's not the same as 'here' as a place."),
-    (2, None, "'Are you ready to place an order already?' Russian 'makes' an order, much as English does. 'Ready' is in the plural, polite form, with a short ending."),
-    (3, None, "'I want to order this expensive cognac.' 'Expensive' is also 'dear', as in a dear friend. The ending on it matches the masculine cognac."),
-    (4, None, "'And I will order the delicious apple strudel.' 'I will order' changes the last consonant, so 'z' turns into 'zh'. 'Apple' is built from the word for apple, with an 'ny' ending that turns it into 'apple-y'."),
-    (5, None, "'I always find illegal workers everywhere.' 'Always' and 'everywhere' are a neat pair of small words. The 'ne' at the front of 'legal' works like 'il' in English."),
-    (6, None, "'Do you like your job very much?' Russian doesn't say 'you like' here. It says 'to you is pleasing', so the job is the one doing the pleasing."),
-    (7, None, "'Yes, I've been doing this for five years.' Russian uses a plain present, 'I do this', where English needs 'have been doing'. After 'five' the year changes to a special form, 'let'."),
-    (8, None, "'Usually they hide workers in the storeroom.' Nobody is named as 'they', only the ending on 'hide'. 'On the storeroom' is how Russians say 'in', with the 'e' ending."),
-    (9, None, "'And clever people seat them in the dining room.' 'People' is irregular, a plural that looks nothing like 'person'. 'Seat' is the verb that means to make someone sit."),
-    (10, None, "'But this apple strudel is simply wonderful!' No 'is' again, just 'strudel simply wonderful'. The strudel is a German loan, and the sentence is the inspector's only flash of joy."),
-    (11, None, "'Today the delicious dessert saved you.' The 'saved' of a masculine thing ends in a bare 's', with no extra letter. Word order is the same as English, with the dessert as the hero."),
-    (12, None, "'All right, thank you very much!' 'Thanks' is a neuter noun, so 'big' finishes with 'oe' to agree with it. Ainura puts 'you' in between, which is polite."),
+    (0, None, "'Would you mind if I joined you?' 'Sostavit kompaniyu' is literally 'to make up company', the polite way to ask to join someone. 'Ne budete protiv', literally 'you won't be against', means 'do you mind'."),
+    (1, None, "'Yes, please, sit down.' 'Sadites', 'sit down', is a command for someone you call 'vy'. Its '-s' ending is a short '-sya', 'yourself', so it is literally 'seat yourself'."),
+    (2, None, "'Madam, if you would be so kind.' 'Dama' means 'lady', and as a form of address it sounds old-fashioned and gallant. 'Proshu vas', literally 'I ask you', here means 'please, go ahead'."),
+    (3, None, "'This one, and this one too.' 'Etu', 'this one', ends in '-u' because the thing pointed at is feminine and it's being ordered. 'Eshchyo' means 'more' or 'also'."),
+    (4, None, "'This cognac is very expensive.' 'Dorogoy' means both 'expensive' and 'dear', as in 'dorogoy drug', 'dear friend'. It ends in '-oy' because 'konyak' is masculine."),
+    (5, None, "'Well, a lady's wish is the law.' 'Zhelanie damy' is literally 'wish of the lady': 'dama' becomes 'damy' to show whose wish. Russian needs no 'is' here."),
+    (6, None, "'And I'll order the apple strudel with cream.' 'Yablochny', 'apple', comes from 'yabloko', 'apple'. 'So slivkami', 'with cream', has 's', 'with', turned into 'so' before two consonants."),
+    (7, None, "'Do you know why they call me the migrant-worker hunter?' 'Gastarbaytery' is the German word for guest workers, the usual Russian word for labour migrants. 'Okhotnik', 'hunter', comes from 'okhota', 'the hunt'."),
+    (8, None, "'Because I always find them, wherever they are.' 'Vsegda', 'always', and 'vezde', 'everywhere', make a neat pair. 'Nakhozhu', 'I find', is how 'nakhodit' sounds for 'I': the 'd' turns into 'zh'."),
+    (9, None, "'The less clever ones hide them in the bathroom.' 'Te, kto' means 'those who'. 'Poglupee' is built from 'glupy', 'stupid', with 'po-' and '-ee', so it means 'a bit stupider'."),
+    (10, None, "'And the cleverer ones pass them off as guests.' 'Vydavat za' means 'to pass off as': 'vydayut ikh za gostey', 'they pass them off as guests'. 'Poumnee', from 'umny', 'clever', means 'a bit cleverer'."),
+    (11, None, "'There could be an illegal worker among us.' 'Sredi nas' means 'among us'. 'Mozhet byt', literally 'can be', is also the everyday Russian 'maybe'."),
+    (12, None, "'Tell the chef his strudel saved someone today.' 'Peredayte', 'pass on', is what you say for 'tell him that'. 'Koe-kogo' means 'a certain someone', a person the speaker would rather not name."),
+    (13, None, "'And you, please, do get a work permit.' 'Razreshenie na rabotu', literally 'permission for work', is the work permit. The inspector says 'sdelayte', 'make', the usual word for getting a document done."),
+    (14, None, "'All right. Thank you.' 'Khorosho', 'good', is the everyday 'all right' or 'okay'. It is all Ainura can answer to a man who has just seen through her."),
 ]

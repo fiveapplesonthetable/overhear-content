@@ -4,190 +4,144 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "In this world rats are enemies.",
+      "trans": "In our world, rats are the enemy.",
       "words": [
         {
           "t": "В",
+          "gloss": "in, into",
+          "gram": "preposition",
           "lemma": "в",
           "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
+          "stress": null
         },
         {
-          "t": "этом",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́том",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, prepositional"
+          "t": "нашем",
+          "gloss": "our",
+          "gram": "prepositional singular, neuter",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́шем"
         },
         {
           "t": "мире",
+          "gloss": "world",
+          "gram": "prepositional singular, masculine",
           "lemma": "мир",
           "pos": "noun",
-          "stress": "ми́ре",
-          "gloss": "world",
-          "gram": "prepositional singular, masculine"
+          "stress": "ми́ре"
         },
         {
           "t": "крысы",
+          "gloss": "rats",
+          "gram": "nominative plural",
           "lemma": "крыса",
           "pos": "noun",
-          "stress": "кры́сы",
-          "gloss": "rat, mole",
-          "gram": "noun rat, mole"
+          "stress": "кры́сы"
+        },
+        {
+          "t": "это",
+          "gloss": "this, (here) are",
+          "gram": "linking word",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то"
         },
         {
           "t": "враги.",
+          "gloss": "enemy",
+          "gram": "noun m pl nom",
           "lemma": "враг",
           "pos": "noun",
-          "stress": "враги́",
-          "gloss": "enemy",
-          "gram": "noun m pl nom"
+          "stress": "враги́"
         }
       ]
     },
     {
       "seg": 2,
-      "trans": "Everyone hates them very much.",
+      "trans": "Everyone hates them.",
       "words": [
         {
           "t": "Их",
+          "gloss": "them",
+          "gram": "accusative plural",
           "lemma": "они",
           "pos": "pron",
-          "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "stress": null
         },
         {
           "t": "все",
+          "gloss": "all",
+          "gram": "nominative plural",
           "lemma": "весь",
           "pos": "det",
-          "stress": null,
-          "gloss": "all",
-          "gram": "nominative plural"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
+          "stress": null
         },
         {
           "t": "ненавидят.",
+          "gloss": "hate",
+          "gram": "3rd person plural present, imperfective",
           "lemma": "ненавидеть",
           "pos": "verb",
-          "stress": "ненави́дят",
-          "gloss": "hate",
-          "gram": "3rd person plural present, imperfective"
+          "stress": "ненави́дят"
         }
       ]
     },
     {
       "seg": 3,
-      "trans": "And you also do not like rats.",
+      "trans": "You don't like rats either, do you?",
       "words": [
         {
-          "t": "И",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction"
-        },
-        {
-          "t": "вы",
+          "t": "Вы",
+          "gloss": "you",
+          "gram": "2nd person plural, nominative",
           "lemma": "вы",
           "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "stress": null
+        },
+        {
+          "t": "ведь",
+          "gloss": "after all",
+          "gram": "particle",
+          "lemma": "ведь",
+          "pos": "part",
+          "stress": null
         },
         {
           "t": "тоже",
+          "gloss": "too",
+          "gram": "adverb",
           "lemma": "тоже",
           "pos": "adv",
-          "stress": "то́же",
-          "gloss": "too",
-          "gram": "adverb"
+          "stress": "то́же"
         },
         {
           "t": "крыс",
+          "gloss": "rats",
+          "gram": "accusative/genitive plural",
           "lemma": "крыса",
           "pos": "noun",
-          "stress": null,
-          "gloss": "rat, mole",
-          "gram": "noun rat, mole"
+          "stress": null
         },
         {
           "t": "не",
+          "gloss": "not",
+          "gram": "negation",
           "lemma": "не",
           "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
+          "stress": null
         },
         {
           "t": "любите.",
+          "gloss": "like",
+          "gram": "present, 2nd person plural (polite)",
           "lemma": "любить",
           "pos": "verb",
-          "stress": "люби́те",
-          "gloss": "to love, to like",
-          "gram": "verb to love, to like"
+          "stress": "люби́те"
         }
       ]
     },
     {
       "seg": 4,
-      "trans": "Mice are very similar to them.",
-      "words": [
-        {
-          "t": "Мыши",
-          "lemma": "мышь",
-          "pos": "noun",
-          "stress": "мы́ши",
-          "gloss": "mouse",
-          "gram": "noun mouse"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "похожи",
-          "lemma": "похожий",
-          "pos": "adj",
-          "stress": "похо́жи",
-          "gloss": "similar, look like",
-          "gram": "short form, plural"
-        },
-        {
-          "t": "на",
-          "lemma": "на",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
-        },
-        {
-          "t": "них.",
-          "lemma": "они",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "them",
-          "gram": "3rd plural, genitive"
-        }
-      ]
-    },
-    {
-      "seg": 5,
       "trans": "Yes, I do not like them.",
       "words": [
         {
@@ -233,78 +187,132 @@
       ]
     },
     {
-      "seg": 6,
-      "trans": "They are like cute mice.",
+      "seg": 5,
+      "trans": "But they are like cute squirrels.",
       "words": [
         {
-          "t": "Они",
+          "t": "Но",
+          "gloss": "but",
+          "gram": "conjunction",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null
+        },
+        {
+          "t": "они",
+          "gloss": "they",
+          "gram": "3rd person plural, nominative",
           "lemma": "они",
           "pos": "pron",
-          "stress": "они́",
-          "gloss": "they",
-          "gram": "3rd person plural, nominative"
+          "stress": "они́"
         },
         {
-          "t": "как",
-          "lemma": "как",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
+          "t": "похожи",
+          "gloss": "similar, look like",
+          "gram": "short form, plural",
+          "lemma": "похожий",
+          "pos": "adj",
+          "stress": "похо́жи"
         },
         {
-          "t": "милые",
+          "t": "на",
+          "gloss": "on; (похожи на) like",
+          "gram": "preposition",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "милых",
           "lemma": "милый",
           "pos": "adj",
-          "stress": "ми́лые",
-          "gloss": "sweet",
-          "gram": "plural, nominative"
+          "stress": "ми́лых",
+          "gloss": "cute, sweet",
+          "gram": "accusative plural (animate)"
         },
         {
-          "t": "мыши.",
-          "lemma": "мышь",
+          "t": "белок.",
+          "gloss": "squirrels",
+          "gram": "accusative plural",
+          "lemma": "белка",
           "pos": "noun",
-          "stress": "мы́ши",
-          "gloss": "mouse",
-          "gram": "noun mouse"
+          "stress": "бе́лок"
+        }
+      ]
+    },
+    {
+      "seg": 6,
+      "trans": "Only everyone loves squirrels.",
+      "words": [
+        {
+          "t": "Только",
+          "gloss": "only",
+          "gram": "limiting adverb",
+          "lemma": "только",
+          "pos": "adv",
+          "stress": "то́лько"
+        },
+        {
+          "t": "белок",
+          "gloss": "squirrels",
+          "gram": "accusative plural",
+          "lemma": "белка",
+          "pos": "noun",
+          "stress": "бе́лок"
+        },
+        {
+          "t": "все",
+          "gloss": "all",
+          "gram": "nominative plural",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null
+        },
+        {
+          "t": "любят.",
+          "gloss": "love, like",
+          "gram": "present, 3rd person plural, imperfective",
+          "lemma": "любить",
+          "pos": "verb",
+          "stress": "лю́бят"
         }
       ]
     },
     {
       "seg": 7,
-      "trans": "But everyone hates rats.",
+      "trans": "And everyone hates rats.",
       "words": [
         {
-          "t": "Но",
-          "lemma": "но",
+          "t": "А",
+          "gloss": "and, but",
+          "gram": "conjunction",
+          "lemma": "а",
           "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
+          "stress": null
         },
         {
           "t": "крыс",
+          "gloss": "rats",
+          "gram": "accusative plural",
           "lemma": "крыса",
           "pos": "noun",
-          "stress": null,
-          "gloss": "rat, mole",
-          "gram": "noun rat, mole"
+          "stress": null
         },
         {
           "t": "все",
+          "gloss": "all",
+          "gram": "nominative plural",
           "lemma": "весь",
           "pos": "det",
-          "stress": null,
-          "gloss": "all",
-          "gram": "nominative plural"
+          "stress": null
         },
         {
           "t": "ненавидят.",
+          "gloss": "hate",
+          "gram": "3rd person plural present, imperfective",
           "lemma": "ненавидеть",
           "pos": "verb",
-          "stress": "ненави́дят",
-          "gloss": "hate",
-          "gram": "3rd person plural present, imperfective"
+          "stress": "ненави́дят"
         }
       ]
     },
@@ -340,39 +348,31 @@
     },
     {
       "seg": 9,
-      "trans": "Yes, I am listening to you.",
+      "trans": "Yes, I'm listening.",
       "words": [
         {
           "t": "Да,",
+          "gloss": "yes",
+          "gram": "particle",
           "lemma": "да",
           "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "stress": null
         },
         {
           "t": "я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
           "lemma": "я",
           "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "вас",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural / polite, accusative"
+          "stress": null
         },
         {
           "t": "слушаю.",
+          "gloss": "I'm listening",
+          "gram": "present, 1st person singular, imperfective",
           "lemma": "слушать",
           "pos": "verb",
-          "stress": "слу́шаю",
-          "gloss": "I'm listening",
-          "gram": "present, 1st person singular, imperfective"
+          "stress": "слу́шаю"
         }
       ]
     },
@@ -500,190 +500,144 @@
     },
     {
       "seg": 14,
-      "trans": "In this world rats are enemies.",
+      "trans": "In our world, rats are the enemy.",
       "words": [
         {
           "t": "В",
+          "gloss": "in, into",
+          "gram": "preposition",
           "lemma": "в",
           "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
+          "stress": null
         },
         {
-          "t": "этом",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́том",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, prepositional"
+          "t": "нашем",
+          "gloss": "our",
+          "gram": "prepositional singular, neuter",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́шем"
         },
         {
           "t": "мире",
+          "gloss": "world",
+          "gram": "prepositional singular, masculine",
           "lemma": "мир",
           "pos": "noun",
-          "stress": "ми́ре",
-          "gloss": "world",
-          "gram": "prepositional singular, masculine"
+          "stress": "ми́ре"
         },
         {
           "t": "крысы",
+          "gloss": "rats",
+          "gram": "nominative plural",
           "lemma": "крыса",
           "pos": "noun",
-          "stress": "кры́сы",
-          "gloss": "rat, mole",
-          "gram": "noun rat, mole"
+          "stress": "кры́сы"
+        },
+        {
+          "t": "это",
+          "gloss": "this, (here) are",
+          "gram": "linking word",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то"
         },
         {
           "t": "враги.",
+          "gloss": "enemy",
+          "gram": "noun m pl nom",
           "lemma": "враг",
           "pos": "noun",
-          "stress": "враги́",
-          "gloss": "enemy",
-          "gram": "noun m pl nom"
+          "stress": "враги́"
         }
       ]
     },
     {
       "seg": 16,
-      "trans": "Everyone hates them very much.",
+      "trans": "Everyone hates them.",
       "words": [
         {
           "t": "Их",
+          "gloss": "them",
+          "gram": "accusative plural",
           "lemma": "они",
           "pos": "pron",
-          "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "stress": null
         },
         {
           "t": "все",
+          "gloss": "all",
+          "gram": "nominative plural",
           "lemma": "весь",
           "pos": "det",
-          "stress": null,
-          "gloss": "all",
-          "gram": "nominative plural"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
+          "stress": null
         },
         {
           "t": "ненавидят.",
+          "gloss": "hate",
+          "gram": "3rd person plural present, imperfective",
           "lemma": "ненавидеть",
           "pos": "verb",
-          "stress": "ненави́дят",
-          "gloss": "hate",
-          "gram": "3rd person plural present, imperfective"
+          "stress": "ненави́дят"
         }
       ]
     },
     {
       "seg": 18,
-      "trans": "And you also do not like rats.",
+      "trans": "You don't like rats either, do you?",
       "words": [
         {
-          "t": "И",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction"
-        },
-        {
-          "t": "вы",
+          "t": "Вы",
+          "gloss": "you",
+          "gram": "2nd person plural, nominative",
           "lemma": "вы",
           "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "stress": null
+        },
+        {
+          "t": "ведь",
+          "gloss": "after all",
+          "gram": "particle",
+          "lemma": "ведь",
+          "pos": "part",
+          "stress": null
         },
         {
           "t": "тоже",
+          "gloss": "too",
+          "gram": "adverb",
           "lemma": "тоже",
           "pos": "adv",
-          "stress": "то́же",
-          "gloss": "too",
-          "gram": "adverb"
+          "stress": "то́же"
         },
         {
           "t": "крыс",
+          "gloss": "rats",
+          "gram": "accusative/genitive plural",
           "lemma": "крыса",
           "pos": "noun",
-          "stress": null,
-          "gloss": "rat, mole",
-          "gram": "noun rat, mole"
+          "stress": null
         },
         {
           "t": "не",
+          "gloss": "not",
+          "gram": "negation",
           "lemma": "не",
           "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
+          "stress": null
         },
         {
           "t": "любите.",
+          "gloss": "like",
+          "gram": "present, 2nd person plural (polite)",
           "lemma": "любить",
           "pos": "verb",
-          "stress": "люби́те",
-          "gloss": "to love, to like",
-          "gram": "verb to love, to like"
+          "stress": "люби́те"
         }
       ]
     },
     {
       "seg": 20,
-      "trans": "Mice are very similar to them.",
-      "words": [
-        {
-          "t": "Мыши",
-          "lemma": "мышь",
-          "pos": "noun",
-          "stress": "мы́ши",
-          "gloss": "mouse",
-          "gram": "noun mouse"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "похожи",
-          "lemma": "похожий",
-          "pos": "adj",
-          "stress": "похо́жи",
-          "gloss": "similar, look like",
-          "gram": "short form, plural"
-        },
-        {
-          "t": "на",
-          "lemma": "на",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
-        },
-        {
-          "t": "них.",
-          "lemma": "они",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "them",
-          "gram": "3rd plural, genitive"
-        }
-      ]
-    },
-    {
-      "seg": 22,
       "trans": "Yes, I do not like them.",
       "words": [
         {
@@ -729,78 +683,132 @@
       ]
     },
     {
-      "seg": 24,
-      "trans": "They are like cute mice.",
+      "seg": 22,
+      "trans": "But they are like cute squirrels.",
       "words": [
         {
-          "t": "Они",
+          "t": "Но",
+          "gloss": "but",
+          "gram": "conjunction",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null
+        },
+        {
+          "t": "они",
+          "gloss": "they",
+          "gram": "3rd person plural, nominative",
           "lemma": "они",
           "pos": "pron",
-          "stress": "они́",
-          "gloss": "they",
-          "gram": "3rd person plural, nominative"
+          "stress": "они́"
         },
         {
-          "t": "как",
-          "lemma": "как",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
+          "t": "похожи",
+          "gloss": "similar, look like",
+          "gram": "short form, plural",
+          "lemma": "похожий",
+          "pos": "adj",
+          "stress": "похо́жи"
         },
         {
-          "t": "милые",
+          "t": "на",
+          "gloss": "on; (похожи на) like",
+          "gram": "preposition",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "милых",
           "lemma": "милый",
           "pos": "adj",
-          "stress": "ми́лые",
-          "gloss": "sweet",
-          "gram": "plural, nominative"
+          "stress": "ми́лых",
+          "gloss": "cute, sweet",
+          "gram": "accusative plural (animate)"
         },
         {
-          "t": "мыши.",
-          "lemma": "мышь",
+          "t": "белок.",
+          "gloss": "squirrels",
+          "gram": "accusative plural",
+          "lemma": "белка",
           "pos": "noun",
-          "stress": "мы́ши",
-          "gloss": "mouse",
-          "gram": "noun mouse"
+          "stress": "бе́лок"
+        }
+      ]
+    },
+    {
+      "seg": 24,
+      "trans": "Only everyone loves squirrels.",
+      "words": [
+        {
+          "t": "Только",
+          "gloss": "only",
+          "gram": "limiting adverb",
+          "lemma": "только",
+          "pos": "adv",
+          "stress": "то́лько"
+        },
+        {
+          "t": "белок",
+          "gloss": "squirrels",
+          "gram": "accusative plural",
+          "lemma": "белка",
+          "pos": "noun",
+          "stress": "бе́лок"
+        },
+        {
+          "t": "все",
+          "gloss": "all",
+          "gram": "nominative plural",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null
+        },
+        {
+          "t": "любят.",
+          "gloss": "love, like",
+          "gram": "present, 3rd person plural, imperfective",
+          "lemma": "любить",
+          "pos": "verb",
+          "stress": "лю́бят"
         }
       ]
     },
     {
       "seg": 26,
-      "trans": "But everyone hates rats.",
+      "trans": "And everyone hates rats.",
       "words": [
         {
-          "t": "Но",
-          "lemma": "но",
+          "t": "А",
+          "gloss": "and, but",
+          "gram": "conjunction",
+          "lemma": "а",
           "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
+          "stress": null
         },
         {
           "t": "крыс",
+          "gloss": "rats",
+          "gram": "accusative plural",
           "lemma": "крыса",
           "pos": "noun",
-          "stress": null,
-          "gloss": "rat, mole",
-          "gram": "noun rat, mole"
+          "stress": null
         },
         {
           "t": "все",
+          "gloss": "all",
+          "gram": "nominative plural",
           "lemma": "весь",
           "pos": "det",
-          "stress": null,
-          "gloss": "all",
-          "gram": "nominative plural"
+          "stress": null
         },
         {
           "t": "ненавидят.",
+          "gloss": "hate",
+          "gram": "3rd person plural present, imperfective",
           "lemma": "ненавидеть",
           "pos": "verb",
-          "stress": "ненави́дят",
-          "gloss": "hate",
-          "gram": "3rd person plural present, imperfective"
+          "stress": "ненави́дят"
         }
       ]
     },
@@ -836,39 +844,31 @@
     },
     {
       "seg": 30,
-      "trans": "Yes, I am listening to you.",
+      "trans": "Yes, I'm listening.",
       "words": [
         {
           "t": "Да,",
+          "gloss": "yes",
+          "gram": "particle",
           "lemma": "да",
           "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "stress": null
         },
         {
           "t": "я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
           "lemma": "я",
           "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "вас",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural / polite, accusative"
+          "stress": null
         },
         {
           "t": "слушаю.",
+          "gloss": "I'm listening",
+          "gram": "present, 1st person singular, imperfective",
           "lemma": "слушать",
           "pos": "verb",
-          "stress": "слу́шаю",
-          "gloss": "I'm listening",
-          "gram": "present, 1st person singular, imperfective"
+          "stress": "слу́шаю"
         }
       ]
     },
@@ -996,190 +996,144 @@
     },
     {
       "seg": 38,
-      "trans": "In this world rats are enemies.",
+      "trans": "In our world, rats are the enemy.",
       "words": [
         {
           "t": "В",
+          "gloss": "in, into",
+          "gram": "preposition",
           "lemma": "в",
           "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
+          "stress": null
         },
         {
-          "t": "этом",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́том",
-          "gloss": "that",
-          "gram": "demonstrative pronoun, prepositional"
+          "t": "нашем",
+          "gloss": "our",
+          "gram": "prepositional singular, neuter",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́шем"
         },
         {
           "t": "мире",
+          "gloss": "world",
+          "gram": "prepositional singular, masculine",
           "lemma": "мир",
           "pos": "noun",
-          "stress": "ми́ре",
-          "gloss": "world",
-          "gram": "prepositional singular, masculine"
+          "stress": "ми́ре"
         },
         {
           "t": "крысы",
+          "gloss": "rats",
+          "gram": "nominative plural",
           "lemma": "крыса",
           "pos": "noun",
-          "stress": "кры́сы",
-          "gloss": "rat, mole",
-          "gram": "noun rat, mole"
+          "stress": "кры́сы"
+        },
+        {
+          "t": "это",
+          "gloss": "this, (here) are",
+          "gram": "linking word",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то"
         },
         {
           "t": "враги.",
+          "gloss": "enemy",
+          "gram": "noun m pl nom",
           "lemma": "враг",
           "pos": "noun",
-          "stress": "враги́",
-          "gloss": "enemy",
-          "gram": "noun m pl nom"
+          "stress": "враги́"
         }
       ]
     },
     {
       "seg": 39,
-      "trans": "Everyone hates them very much.",
+      "trans": "Everyone hates them.",
       "words": [
         {
           "t": "Их",
+          "gloss": "them",
+          "gram": "accusative plural",
           "lemma": "они",
           "pos": "pron",
-          "stress": null,
-          "gloss": "their",
-          "gram": "possessive / genitive plural"
+          "stress": null
         },
         {
           "t": "все",
+          "gloss": "all",
+          "gram": "nominative plural",
           "lemma": "весь",
           "pos": "det",
-          "stress": null,
-          "gloss": "all",
-          "gram": "nominative plural"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
+          "stress": null
         },
         {
           "t": "ненавидят.",
+          "gloss": "hate",
+          "gram": "3rd person plural present, imperfective",
           "lemma": "ненавидеть",
           "pos": "verb",
-          "stress": "ненави́дят",
-          "gloss": "hate",
-          "gram": "3rd person plural present, imperfective"
+          "stress": "ненави́дят"
         }
       ]
     },
     {
       "seg": 40,
-      "trans": "And you also do not like rats.",
+      "trans": "You don't like rats either, do you?",
       "words": [
         {
-          "t": "И",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction"
-        },
-        {
-          "t": "вы",
+          "t": "Вы",
+          "gloss": "you",
+          "gram": "2nd person plural, nominative",
           "lemma": "вы",
           "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "stress": null
+        },
+        {
+          "t": "ведь",
+          "gloss": "after all",
+          "gram": "particle",
+          "lemma": "ведь",
+          "pos": "part",
+          "stress": null
         },
         {
           "t": "тоже",
+          "gloss": "too",
+          "gram": "adverb",
           "lemma": "тоже",
           "pos": "adv",
-          "stress": "то́же",
-          "gloss": "too",
-          "gram": "adverb"
+          "stress": "то́же"
         },
         {
           "t": "крыс",
+          "gloss": "rats",
+          "gram": "accusative/genitive plural",
           "lemma": "крыса",
           "pos": "noun",
-          "stress": null,
-          "gloss": "rat, mole",
-          "gram": "noun rat, mole"
+          "stress": null
         },
         {
           "t": "не",
+          "gloss": "not",
+          "gram": "negation",
           "lemma": "не",
           "pos": "part",
-          "stress": null,
-          "gloss": "not",
-          "gram": "negation"
+          "stress": null
         },
         {
           "t": "любите.",
+          "gloss": "like",
+          "gram": "present, 2nd person plural (polite)",
           "lemma": "любить",
           "pos": "verb",
-          "stress": "люби́те",
-          "gloss": "to love, to like",
-          "gram": "verb to love, to like"
+          "stress": "люби́те"
         }
       ]
     },
     {
       "seg": 41,
-      "trans": "Mice are very similar to them.",
-      "words": [
-        {
-          "t": "Мыши",
-          "lemma": "мышь",
-          "pos": "noun",
-          "stress": "мы́ши",
-          "gloss": "mouse",
-          "gram": "noun mouse"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "похожи",
-          "lemma": "похожий",
-          "pos": "adj",
-          "stress": "похо́жи",
-          "gloss": "similar, look like",
-          "gram": "short form, plural"
-        },
-        {
-          "t": "на",
-          "lemma": "на",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "on, onto",
-          "gram": "preposition"
-        },
-        {
-          "t": "них.",
-          "lemma": "они",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "them",
-          "gram": "3rd plural, genitive"
-        }
-      ]
-    },
-    {
-      "seg": 42,
       "trans": "Yes, I do not like them.",
       "words": [
         {
@@ -1225,78 +1179,132 @@
       ]
     },
     {
-      "seg": 43,
-      "trans": "They are like cute mice.",
+      "seg": 42,
+      "trans": "But they are like cute squirrels.",
       "words": [
         {
-          "t": "Они",
+          "t": "Но",
+          "gloss": "but",
+          "gram": "conjunction",
+          "lemma": "но",
+          "pos": "conj",
+          "stress": null
+        },
+        {
+          "t": "они",
+          "gloss": "they",
+          "gram": "3rd person plural, nominative",
           "lemma": "они",
           "pos": "pron",
-          "stress": "они́",
-          "gloss": "they",
-          "gram": "3rd person plural, nominative"
+          "stress": "они́"
         },
         {
-          "t": "как",
-          "lemma": "как",
-          "pos": "adv",
-          "stress": null,
-          "gloss": "how",
-          "gram": "question word"
+          "t": "похожи",
+          "gloss": "similar, look like",
+          "gram": "short form, plural",
+          "lemma": "похожий",
+          "pos": "adj",
+          "stress": "похо́жи"
         },
         {
-          "t": "милые",
+          "t": "на",
+          "gloss": "on; (похожи на) like",
+          "gram": "preposition",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "милых",
           "lemma": "милый",
           "pos": "adj",
-          "stress": "ми́лые",
-          "gloss": "sweet",
-          "gram": "plural, nominative"
+          "stress": "ми́лых",
+          "gloss": "cute, sweet",
+          "gram": "accusative plural (animate)"
         },
         {
-          "t": "мыши.",
-          "lemma": "мышь",
+          "t": "белок.",
+          "gloss": "squirrels",
+          "gram": "accusative plural",
+          "lemma": "белка",
           "pos": "noun",
-          "stress": "мы́ши",
-          "gloss": "mouse",
-          "gram": "noun mouse"
+          "stress": "бе́лок"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "Only everyone loves squirrels.",
+      "words": [
+        {
+          "t": "Только",
+          "gloss": "only",
+          "gram": "limiting adverb",
+          "lemma": "только",
+          "pos": "adv",
+          "stress": "то́лько"
+        },
+        {
+          "t": "белок",
+          "gloss": "squirrels",
+          "gram": "accusative plural",
+          "lemma": "белка",
+          "pos": "noun",
+          "stress": "бе́лок"
+        },
+        {
+          "t": "все",
+          "gloss": "all",
+          "gram": "nominative plural",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": null
+        },
+        {
+          "t": "любят.",
+          "gloss": "love, like",
+          "gram": "present, 3rd person plural, imperfective",
+          "lemma": "любить",
+          "pos": "verb",
+          "stress": "лю́бят"
         }
       ]
     },
     {
       "seg": 44,
-      "trans": "But everyone hates rats.",
+      "trans": "And everyone hates rats.",
       "words": [
         {
-          "t": "Но",
-          "lemma": "но",
+          "t": "А",
+          "gloss": "and, but",
+          "gram": "conjunction",
+          "lemma": "а",
           "pos": "conj",
-          "stress": null,
-          "gloss": "but",
-          "gram": "conjunction"
+          "stress": null
         },
         {
           "t": "крыс",
+          "gloss": "rats",
+          "gram": "accusative plural",
           "lemma": "крыса",
           "pos": "noun",
-          "stress": null,
-          "gloss": "rat, mole",
-          "gram": "noun rat, mole"
+          "stress": null
         },
         {
           "t": "все",
+          "gloss": "all",
+          "gram": "nominative plural",
           "lemma": "весь",
           "pos": "det",
-          "stress": null,
-          "gloss": "all",
-          "gram": "nominative plural"
+          "stress": null
         },
         {
           "t": "ненавидят.",
+          "gloss": "hate",
+          "gram": "3rd person plural present, imperfective",
           "lemma": "ненавидеть",
           "pos": "verb",
-          "stress": "ненави́дят",
-          "gloss": "hate",
-          "gram": "3rd person plural present, imperfective"
+          "stress": "ненави́дят"
         }
       ]
     },
@@ -1332,39 +1340,31 @@
     },
     {
       "seg": 46,
-      "trans": "Yes, I am listening to you.",
+      "trans": "Yes, I'm listening.",
       "words": [
         {
           "t": "Да,",
+          "gloss": "yes",
+          "gram": "particle",
           "lemma": "да",
           "pos": "part",
-          "stress": null,
-          "gloss": "yes (да ну = really?)",
-          "gram": "particle in the set phrase да ну"
+          "stress": null
         },
         {
           "t": "я",
+          "gloss": "I",
+          "gram": "1st person singular, nominative",
           "lemma": "я",
           "pos": "pron",
-          "stress": null,
-          "gloss": "I",
-          "gram": "1st person singular, nominative"
-        },
-        {
-          "t": "вас",
-          "lemma": "вы",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person plural / polite, accusative"
+          "stress": null
         },
         {
           "t": "слушаю.",
+          "gloss": "I'm listening",
+          "gram": "present, 1st person singular, imperfective",
           "lemma": "слушать",
           "pos": "verb",
-          "stress": "слу́шаю",
-          "gloss": "I'm listening",
-          "gram": "present, 1st person singular, imperfective"
+          "stress": "слу́шаю"
         }
       ]
     },
@@ -1492,15 +1492,23 @@
     },
     {
       "seg": 51,
-      "trans": "Bye!",
+      "trans": "All the best!",
       "words": [
         {
-          "t": "Пока!",
-          "lemma": "пока",
-          "pos": "adv",
-          "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "t": "Всего",
+          "gloss": "all",
+          "gram": "genitive neuter singular",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": "всего́"
+        },
+        {
+          "t": "хорошего!",
+          "gloss": "good, the best",
+          "gram": "genitive neuter singular",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шего"
         }
       ]
     }
@@ -2066,44 +2074,6 @@
         }
       ]
     },
-    "и": {
-      "lemma": "и",
-      "stress": "и",
-      "pos": "conj",
-      "gloss": "and",
-      "meanings": [
-        {
-          "en": "and",
-          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я родился и вырос здесь.",
-          "trans": "I was born and grew up here."
-        },
-        {
-          "text": "Папа и мама.",
-          "trans": "Dad and Mum."
-        },
-        {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
-        }
-      ],
-      "related": [
-        {
-          "word": "а",
-          "gloss": "and, but"
-        },
-        {
-          "word": "тоже",
-          "gloss": "also"
-        }
-      ]
-    },
     "идти": {
       "lemma": "идти",
       "stress": "идти́",
@@ -2330,44 +2300,6 @@
         }
       ]
     },
-    "как": {
-      "lemma": "как",
-      "stress": "как",
-      "pos": "adv",
-      "gloss": "how; as",
-      "meanings": [
-        {
-          "en": "how",
-          "note": "Question word. Core Russian adv meaning 'how; as' in everyday speech."
-        },
-        {
-          "en": "as",
-          "note": "Как вы знаете = as you know. Core Russian adv meaning 'how; as' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Как там в Венгрии?",
-          "trans": "How was it in Hungary?"
-        },
-        {
-          "text": "Как вы все знаете...",
-          "trans": "As you all know..."
-        },
-        {
-          "text": "Здравствуйте! Как там в Венгрии?",
-          "trans": "Hello! How was it in Hungary?"
-        }
-      ],
-      "related": [
-        {
-          "word": "очень как",
-          "gloss": "intensified / related adverb (how)"
-        }
-      ]
-    },
     "крыса": {
       "lemma": "крыса",
       "stress": "кры́са",
@@ -2580,113 +2512,6 @@
         }
       ]
     },
-    "милый": {
-      "lemma": "милый",
-      "stress": "ми́лый",
-      "pos": "adj",
-      "gloss": "sweet, nice; darling",
-      "meanings": [
-        {
-          "en": "sweet, nice",
-          "note": "милый / милая used as a form of address"
-        },
-        {
-          "en": "darling",
-          "note": "милый / милая used as a form of address"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "милый",
-              "милая",
-              "милое",
-              "милые"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "милого",
-              "милой",
-              "милого",
-              "милых"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "милому",
-              "милой",
-              "милому",
-              "милым"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "милый / милого",
-              "милую",
-              "милое",
-              "милые / милых"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "милым",
-              "милой",
-              "милым",
-              "милыми"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "милом",
-              "милой",
-              "милом",
-              "милых"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        },
-        {
-          "text": "Она очень милая.",
-          "trans": "She's very sweet."
-        },
-        {
-          "text": "Нет, милая, не жди.",
-          "trans": "No, darling, don't wait."
-        }
-      ],
-      "related": [
-        {
-          "word": "мило",
-          "gloss": "in a sweet way (adv.)"
-        },
-        {
-          "word": "милость",
-          "gloss": "quality of being sweet"
-        }
-      ]
-    },
     "мир": {
       "lemma": "мир",
       "stress": "мир",
@@ -2859,138 +2684,6 @@
         }
       ]
     },
-    "мышь": {
-      "lemma": "мышь",
-      "stress": "мышь",
-      "pos": "noun",
-      "gloss": "mouse",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "mouse, small rodent",
-          "note": "Declinable feminine noun meaning 'mouse', changing its case ending across all six Russian grammatical cases to mark its role in the clause."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "мышь",
-              "мыши"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "мыши",
-              "мышей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "мыши",
-              "мышам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "мышь",
-              "мышей"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "мышью",
-              "мышами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "мыши",
-              "мышах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Маленькая мышь попала в мышеловку.",
-          "trans": "A small mouse got caught in the mousetrap."
-        },
-        {
-          "text": "Боже мой, это же мёртвая мышь!",
-          "trans": "My God, that is a dead mouse!"
-        },
-        {
-          "text": "Ты погубил маленькую беззащитную мышь!",
-          "trans": "You destroyed a little defenseless mouse!"
-        }
-      ],
-      "related": [
-        {
-          "word": "дело",
-          "gloss": "matter, business"
-        },
-        {
-          "word": "место",
-          "gloss": "place"
-        }
-      ]
-    },
-    "на": {
-      "lemma": "на",
-      "stress": "на",
-      "pos": "prep",
-      "gloss": "on, onto; for",
-      "meanings": [
-        {
-          "en": "on",
-          "note": "+ prepositional: на сайте. Core Russian prep meaning 'on, onto; for' in everyday speech."
-        },
-        {
-          "en": "onto, to; for",
-          "note": "+ accusative: на второй срок. Core Russian prep meaning 'on, onto; for' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Программа на сайте.",
-          "trans": "The programme is on the website."
-        },
-        {
-          "text": "Он идёт на второй срок.",
-          "trans": "He is running for a second term."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ],
-      "related": [
-        {
-          "word": "над",
-          "gloss": "above, over"
-        },
-        {
-          "word": "в",
-          "gloss": "in, at"
-        }
-      ]
-    },
     "не": {
       "lemma": "не",
       "stress": "не",
@@ -3117,44 +2810,6 @@
         }
       ]
     },
-    "но": {
-      "lemma": "но",
-      "stress": "но",
-      "pos": "conj",
-      "gloss": "but",
-      "meanings": [
-        {
-          "en": "but",
-          "note": "Stronger contrast than 'а'. Core Russian conj meaning 'but' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Мы сделали много, но надо ещё.",
-          "trans": "We've done a lot, but we need more."
-        },
-        {
-          "text": "Я хочу, но не могу.",
-          "trans": "I want to, but I can't."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "а",
-          "gloss": "and, but"
-        },
-        {
-          "word": "однако",
-          "gloss": "however"
-        }
-      ]
-    },
     "они": {
       "lemma": "они",
       "stress": "они́",
@@ -3238,44 +2893,6 @@
         {
           "word": "их",
           "gloss": "their, them"
-        }
-      ]
-    },
-    "очень": {
-      "lemma": "очень",
-      "stress": "о́чень",
-      "pos": "adv",
-      "gloss": "very, very much",
-      "meanings": [
-        {
-          "en": "very",
-          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
-        },
-        {
-          "en": "very much",
-          "note": "With verbs: очень люблю. Core Russian adv meaning 'very, very much' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я очень люблю наш город.",
-          "trans": "I love our town very much."
-        },
-        {
-          "text": "Это очень трудно.",
-          "trans": "It's very hard."
-        },
-        {
-          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
-          "trans": "I love our town very much. That's why I'm running for a second term."
-        }
-      ],
-      "related": [
-        {
-          "word": "совсем",
-          "gloss": "intensified / related adverb (very)"
         }
       ]
     },
@@ -3381,169 +2998,6 @@
         {
           "word": "идти",
           "gloss": "to go"
-        }
-      ]
-    },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye",
-      "meanings": [
-        {
-          "en": "bye, see you",
-          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
-        },
-        {
-          "en": "while, for now",
-          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока!",
-          "trans": "Bye!"
-        },
-        {
-          "text": "Пока, папа!",
-          "trans": "Bye, Dad!"
-        },
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        }
-      ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
-        }
-      ]
-    },
-    "похожий": {
-      "lemma": "похожий",
-      "stress": "похо́жий",
-      "pos": "adj",
-      "gloss": "similar, looking like",
-      "meanings": [
-        {
-          "en": "similar (to), looking like, resembling",
-          "note": "usually short form похож/похожа/похожи + на + accusative"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "похожий",
-              "похожая",
-              "похожее",
-              "похожие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "похожего",
-              "похожей",
-              "похожего",
-              "похожих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "похожему",
-              "похожей",
-              "похожему",
-              "похожим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "похожий/похожего",
-              "похожую",
-              "похожее",
-              "похожие/похожих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "похожим",
-              "похожей",
-              "похожим",
-              "похожими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "похожем",
-              "похожей",
-              "похожем",
-              "похожих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short forms",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "похож",
-                "похожа",
-                "похоже",
-                "похожи"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "На дворников похожи.",
-          "trans": "You look like janitors."
-        },
-        {
-          "text": "Он очень похож на отца.",
-          "trans": "He looks very much like his father."
-        },
-        {
-          "text": "Нормально у вас тут, просторно. И маскировка хорошая, на дворников похожи.",
-          "trans": "It's nice in here, roomy. And good disguises—you look like janitors."
-        }
-      ],
-      "related": [
-        {
-          "word": "похожо",
-          "gloss": "in a similar way (adv.)"
-        },
-        {
-          "word": "похожость",
-          "gloss": "quality of being similar"
         }
       ]
     },
@@ -4038,6 +3492,724 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "наш": {
+      "lemma": "наш",
+      "stress": "наш",
+      "pos": "det",
+      "gloss": "our, ours",
+      "meanings": [
+        {
+          "en": "our, ours",
+          "note": "наш, наша, наше, наши; agrees with the noun"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "наш",
+              "наша",
+              "наше",
+              "наши"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нашего",
+              "нашей",
+              "нашего",
+              "наших"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нашему",
+              "нашей",
+              "нашему",
+              "нашим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "наш / нашего",
+              "нашу",
+              "наше",
+              "наши / наших"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нашим",
+              "нашей",
+              "нашим",
+              "нашими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нашем",
+              "нашей",
+              "нашем",
+              "наших"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я люблю наш город.",
+          "trans": "I love our town."
+        },
+        {
+          "text": "Это наша квартира.",
+          "trans": "This is our flat."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "мы",
+          "gloss": "we"
+        },
+        {
+          "word": "ваш",
+          "gloss": "your"
+        }
+      ]
+    },
+    "ведь": {
+      "lemma": "ведь",
+      "stress": "ведь",
+      "pos": "part",
+      "gloss": "after all, you know",
+      "meanings": [
+        {
+          "en": "after all, you know",
+          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я ведь говорил!",
+          "trans": "I did tell you, you know!"
+        },
+        {
+          "text": "Ты ведь мой друг.",
+          "trans": "You're my friend, after all."
+        },
+        {
+          "text": "Садись, не бойся. Я ведь сам чуть тебя не отпустил.",
+          "trans": "Sit down, don't be afraid. I very nearly let you go myself."
+        }
+      ],
+      "related": [
+        {
+          "word": "ведать",
+          "gloss": "to know (archaic root)"
+        },
+        {
+          "word": "же",
+          "gloss": "after all (emphatic particle)"
+        }
+      ]
+    },
+    "только": {
+      "lemma": "только",
+      "stress": "то́лько",
+      "pos": "adv",
+      "gloss": "only, just",
+      "meanings": [
+        {
+          "en": "only, just",
+          "note": "softens a request: только не сердись = just don't be angry"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я только посмотрел.",
+          "trans": "I was only looking."
+        },
+        {
+          "text": "Только одну.",
+          "trans": "Just one."
+        },
+        {
+          "text": "Я только посмотрел!",
+          "trans": "I was only looking!"
+        }
+      ],
+      "related": [
+        {
+          "word": "столько",
+          "gloss": "so much"
+        }
+      ]
+    },
+    "а": {
+      "lemma": "а",
+      "stress": "а",
+      "pos": "conj",
+      "gloss": "and, but; so",
+      "meanings": [
+        {
+          "en": "and, while",
+          "note": "Contrast. Core Russian conj meaning 'and, but; so' in everyday speech."
+        },
+        {
+          "en": "so, and what about",
+          "note": "Starting a question: а жвачку?. Core Russian conj meaning 'and, but; so' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "А это тебе.",
+          "trans": "And this is for you."
+        },
+        {
+          "text": "А где машинка?",
+          "trans": "And where's the toy car?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "но",
+          "gloss": "but (stronger contrast)"
+        },
+        {
+          "word": "и",
+          "gloss": "and"
+        }
+      ]
+    },
+    "хороший": {
+      "lemma": "хороший",
+      "stress": "хоро́ший",
+      "pos": "adj",
+      "gloss": "good, nice",
+      "meanings": [
+        {
+          "en": "good, nice, lovely",
+          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "хороший",
+              "хорошая",
+              "хорошее",
+              "хорошие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "хорошего",
+              "хорошей",
+              "хорошего",
+              "хороших"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "хорошему",
+              "хорошей",
+              "хорошему",
+              "хорошим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "хороший / хорошего",
+              "хорошую",
+              "хорошее",
+              "хорошие / хороших"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "хорошим",
+              "хорошей",
+              "хорошим",
+              "хорошими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "хорошем",
+              "хорошей",
+              "хорошем",
+              "хороших"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хороший день.",
+          "trans": "A good day."
+        },
+        {
+          "text": "Какое хорошее утро!",
+          "trans": "What a lovely morning!"
+        },
+        {
+          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
+          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
+        }
+      ],
+      "related": [
+        {
+          "word": "хорошо",
+          "gloss": "well"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
+        }
+      ]
+    },
+    "но": {
+      "lemma": "но",
+      "stress": "но",
+      "pos": "conj",
+      "gloss": "but",
+      "meanings": [
+        {
+          "en": "but",
+          "note": "Stronger contrast than 'а'. Core Russian conj meaning 'but' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Мы сделали много, но надо ещё.",
+          "trans": "We've done a lot, but we need more."
+        },
+        {
+          "text": "Я хочу, но не могу.",
+          "trans": "I want to, but I can't."
+        },
+        {
+          "text": "Мы сделали много, но надо сделать ещё больше.",
+          "trans": "We've done a lot, but we need to do even more."
+        }
+      ],
+      "related": [
+        {
+          "word": "а",
+          "gloss": "and, but"
+        },
+        {
+          "word": "однако",
+          "gloss": "however"
+        }
+      ]
+    },
+    "похожий": {
+      "lemma": "похожий",
+      "stress": "похо́жий",
+      "pos": "adj",
+      "gloss": "similar, looking like",
+      "meanings": [
+        {
+          "en": "similar (to), looking like, resembling",
+          "note": "usually short form похож/похожа/похожи + на + accusative"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "похожий",
+              "похожая",
+              "похожее",
+              "похожие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "похожего",
+              "похожей",
+              "похожего",
+              "похожих"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "похожему",
+              "похожей",
+              "похожему",
+              "похожим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "похожий/похожего",
+              "похожую",
+              "похожее",
+              "похожие/похожих"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "похожим",
+              "похожей",
+              "похожим",
+              "похожими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "похожем",
+              "похожей",
+              "похожем",
+              "похожих"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Short forms",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "short",
+                "похож",
+                "похожа",
+                "похоже",
+                "похожи"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "На дворников похожи.",
+          "trans": "You look like janitors."
+        },
+        {
+          "text": "Он очень похож на отца.",
+          "trans": "He looks very much like his father."
+        },
+        {
+          "text": "Нормально у вас тут, просторно. И маскировка хорошая, на дворников похожи.",
+          "trans": "It's nice in here, roomy. And good disguises—you look like janitors."
+        }
+      ],
+      "related": [
+        {
+          "word": "похожо",
+          "gloss": "in a similar way (adv.)"
+        },
+        {
+          "word": "похожость",
+          "gloss": "quality of being similar"
+        }
+      ]
+    },
+    "на": {
+      "lemma": "на",
+      "stress": "на",
+      "pos": "prep",
+      "gloss": "on, onto; for",
+      "meanings": [
+        {
+          "en": "on",
+          "note": "+ prepositional: на сайте. Core Russian prep meaning 'on, onto; for' in everyday speech."
+        },
+        {
+          "en": "onto, to; for",
+          "note": "+ accusative: на второй срок. Core Russian prep meaning 'on, onto; for' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Программа на сайте.",
+          "trans": "The programme is on the website."
+        },
+        {
+          "text": "Он идёт на второй срок.",
+          "trans": "He is running for a second term."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "над",
+          "gloss": "above, over"
+        },
+        {
+          "word": "в",
+          "gloss": "in, at"
+        }
+      ]
+    },
+    "милый": {
+      "lemma": "милый",
+      "stress": "ми́лый",
+      "pos": "adj",
+      "gloss": "sweet, nice; darling",
+      "meanings": [
+        {
+          "en": "sweet, nice",
+          "note": "милый / милая used as a form of address"
+        },
+        {
+          "en": "darling",
+          "note": "милый / милая used as a form of address"
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "милый",
+              "милая",
+              "милое",
+              "милые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "милого",
+              "милой",
+              "милого",
+              "милых"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "милому",
+              "милой",
+              "милому",
+              "милым"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "милый / милого",
+              "милую",
+              "милое",
+              "милые / милых"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "милым",
+              "милой",
+              "милым",
+              "милыми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "милом",
+              "милой",
+              "милом",
+              "милых"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Пока, милый!",
+          "trans": "Bye, darling!"
+        },
+        {
+          "text": "Она очень милая.",
+          "trans": "She's very sweet."
+        },
+        {
+          "text": "Нет, милая, не жди.",
+          "trans": "No, darling, don't wait."
+        }
+      ],
+      "related": [
+        {
+          "word": "мило",
+          "gloss": "in a sweet way (adv.)"
+        },
+        {
+          "word": "милость",
+          "gloss": "quality of being sweet"
+        }
+      ]
+    },
+    "белка": {
+      "lemma": "белка",
+      "stress": "бе́лка",
+      "pos": "noun",
+      "gloss": "squirrel",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "squirrel",
+          "note": "The genitive and animate accusative plural is белок, which looks like белок, 'egg white'."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "белка",
+              "белки"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "белки",
+              "белок"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "белке",
+              "белкам"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "белку",
+              "белок"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "белкой",
+              "белками"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "белке",
+              "белках"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Они похожи на милых белок.",
+          "trans": "They are like cute squirrels."
+        },
+        {
+          "text": "Белок все любят.",
+          "trans": "Everyone loves squirrels."
+        }
+      ],
+      "related": [
+        {
+          "word": "крыса",
+          "gloss": "rat"
         }
       ]
     }

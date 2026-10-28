@@ -7,43 +7,31 @@ SCENE = 15
 TITLE = "Освобождение Феди  (Fedya's Release)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'fedya': 'Федя', 'inspector': 'Инспектор', 'barinov': 'Шеф'}
+LABELS = {'fedya': 'Федя', 'inspector': 'Инспектор', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = 'Fedya is still in the fridge, and the inspector has finally got it open. He checks him, finds him clean, and apologises, while Barinov takes the credit. First the Russian.'
-OPENER = "Let's go over what we just heard."
-TRANSITION = 'Once more, all the way through.'
-OUTRO = "Fedya is out of the fridge, and nobody is any wiser. The chef's last line, 'let him think so', is one you can borrow whenever you want to let someone believe what they like. See you next time!"
-CLOSING = ('barinov', 'Пока!')
+INTRO = "The inspector has opened the fridge with his own key, and someone is inside, just not the cook everyone was worried about. The man's papers are in order, and the inspector has to apologise. Meanwhile Fedya, who really was hiding, wants to know who got him out."
+OPENER = 'Now what happens at the fridge, one line at a time.'
+TRANSITION = 'And the fridge scene once more, all the way through.'
+OUTRO = "Fedya is out of the fridge, and the chef has no idea how. Senya's last line, 'pust on tak dumaet', 'let him think so', is one you can borrow whenever you let someone believe what they like. See you next time!"
+CLOSING = ('fedya', 'Всё, пока!')
 STORY = [
-    ('fedya', 'Шеф, мне очень холодно.', 'Chef, I am very cold.', [(180, 'Шеф, я понял. Вы в паштет базилик добавили, да?')], ''),
-    ('fedya', 'Я тут замёрз.', 'I froze in here.', [(180, 'Шеф, я понял. Вы в паштет базилик добавили, да?')], ''),
-    ('inspector', 'Чист.', 'Clear.', [(181, 'Чист. Проверили.')], ''),
-    ('inspector', 'Проверили.', 'Checked.', [(181, 'Чист. Проверили.')], ''),
-    ('barinov', 'Я так и знал.', 'I knew it.', [(182, 'Я так и знал.')], ''),
-    ('inspector', 'Виктор Петрович, ошибочка вышла.', 'Viktor Petrovich, a mistake happened.', [(183, 'Ну что же, Виктор Петрович, ошибочка вышла.')], ''),
-    ('inspector', 'Мои люди проверили этого человека.', 'My people checked this person.', [(184, 'Оказывается, мои люди уже проверили этого человечка.')], ''),
-    ('inspector', 'Абсолютно чист.', 'Completely clean.', [], ''),
-    ('barinov', 'А я всегда знал.', 'And I always knew.', [], ''),
-    ('barinov', 'Федя, ты как?', 'Fedya, how are you?', [(187, 'Федь, ты как? Нормально.')], ''),
-    ('fedya', 'Нормально.', 'Fine.', [(187, 'Федь, ты как? Нормально.')], ''),
-    ('fedya', 'Как вы меня вытащили?', 'How did you get me out?', [(188, 'Ты как меня оттуда вытащил?')], ''),
-    ('fedya', 'Ключ был только у вас.', 'Only you had the key.', [(189, 'Ключи же только у шефа были.')], ''),
-    ('barinov', 'Пусть он так думает.', 'Let him think so.', [(190, 'Вот пусть он и дальше так думает.')], ''),
+    ('inspector', 'Чист. Мы его проверили.', "He's clean. We checked him.", [(181, 'Чист. Проверили.')], ''),
+    ('inspector', 'Виктор Петрович, ошибочка вышла.', 'Viktor Petrovich, there has been a little mistake.', [(183, 'Ну что же, Виктор Петрович, ошибочка вышла.')], ''),
+    ('inspector', 'Мои люди уже проверили этого человека.', 'My people have already checked this man.', [(184, 'Оказывается, мои люди уже проверили этого человечка.')], ''),
+    ('inspector', 'Он абсолютно чист.', "He's completely clean.", [(185, 'Абсолютно чист.')], ''),
+    ('senya', 'Федя, ты как?', 'Fedya, how are you?', [(187, 'Федь, ты как? Нормально.')], ''),
+    ('fedya', 'Нормально. Как ты меня вытащил?', 'Fine. How did you get me out?', [(187, 'Нормально.'), (188, 'Ты как меня оттуда вытащил?')], ''),
+    ('fedya', 'Ключ же был только у шефа.', 'Only the chef had the key.', [(189, 'Ключи же только у шефа были.')], ''),
+    ('senya', 'Пусть он и дальше так думает.', 'Let him keep thinking that.', [(190, 'Вот пусть он и дальше так думает.')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, I'm very cold.' Russian says 'to me cold', as if the cold happens to you. 'Cold' carries 'o' and is cousin to the word for the fridge he was stuck in."),
-    (1, None, "'I froze in here.' The past form of 'freeze' ends in a bare consonant for a man, and a woman would add an 'a'. The little word for 'here' is the casual one."),
-    (2, None, "'Clean.' The short form drops its ending, so what's left is a bare 'clean', as if reading from a form. It's the inspector's dry verdict."),
-    (3, None, "'Checked.' There's no 'he' and no 'we', just the 'li' ending, which says somebody did it. Officials talk like this."),
-    (4, None, "'I knew it.' The line is 'I so and knew', and 'so and' is a way of saying 'just as I thought'. The masculine 'l' ending is back."),
-    (5, None, "'Viktor Petrovich, a little mistake happened.' 'Little mistake' is a diminutive, a gentler version of 'mistake'. Russian says the mistake 'came out', which also hides who made it."),
-    (6, None, "'My people checked this man.' The plural of 'person' is 'lyudi', which looks nothing like the singular. 'This man' takes an 'ogo' ending because it's the thing that was checked."),
-    (7, None, "'Completely clean.' The opening word is a borrowed 'absolutely', and the second is the same short 'clean' as before. Two words, no sentence needed."),
-    (8, None, "'And I always knew.' The small opening 'a' means 'and' with a bit of contrast. 'Always' is the same one you use for habits."),
-    (9, None, "'Fedya, how are you?' Literally just 'you how', with no verb at all. The casual 'you' shows how close they are."),
-    (10, None, "'Fine.' Literally 'normally', and it's the standard reply to 'how are you'. Russians don't say it with much more enthusiasm than this."),
-    (11, None, "'How did you get me out?' Fedya uses the polite 'you' with his boss. 'Pull out' is the picture, as if he was dragged from the fridge."),
-    (12, None, "'Only you had the key.' 'The key was only at you' is the literal order. It's the same 'at you' pattern that stands in for 'you have'."),
-    (13, None, "'Let him think so.' It begins with 'let', the little word that goes in front of 'he thinks'. Barinov doesn't correct anybody, and the line is quiet and satisfied."),
+    (0, None, "'He's clean. We checked him.' 'Chist', 'clean', is the short form of 'chisty', the kind used after 'he is'. It's the inspector's word for someone whose papers are in order."),
+    (1, None, "'Viktor Petrovich, there has been a little mistake.' 'Oshibochka' is the softened form of 'oshibka', 'mistake'. Russian says the mistake 'vyshla', 'came out', which hides who made it."),
+    (2, None, "'My people have already checked this man.' 'Lyudi', 'people', is the plural of 'chelovek', 'person', though the two look nothing alike. 'Etot chelovek' becomes 'etogo cheloveka' because he is the one checked."),
+    (3, None, "'He's completely clean.' 'Absolyutno', 'absolutely', is borrowed and easy to spot. 'Chist' is the same short 'clean' as two lines back."),
+    (4, None, "'Fedya, how are you?' 'Ty kak?' is literally 'you how?', a friendly check without any verb. Senya uses 'ty' because he and Fedya are mates."),
+    (5, None, "'Fine. How did you get me out?' 'Normalno', literally 'normally', is the usual reply to 'how are you'. 'Vytashchil', 'pulled out', is built from 'vy-', 'out', and 'tashchit', 'to drag'."),
+    (6, None, "'Only the chef had the key.' 'U shefa', 'at the chef', is the 'have' pattern: after 'u', 'shef' becomes 'shefa'. 'Zhe' means 'after all' here."),
+    (7, None, "'Let him keep thinking that.' 'Pust' means 'let', and 'i dalshe' means 'from now on as well', so the line is 'let him go on thinking so'. Senya has a key of his own, and the chef doesn't need to know."),
 ]

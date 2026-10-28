@@ -10,32 +10,36 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Инспектор | Добрый вечер, можно сесть за столик? | Good evening, may I sit at the table? | #224 00:15:58: Добрый вечер | verbatim |
-| 2 | Айнура | Да, пожалуйста, садитесь сюда. | Yes, please, sit down here. | new | new |
-| 3 | Инспектор | Вы уже готовы сделать заказ? | Are you ready to place an order already? | #225 00:16:05: Готовы сделать заказ? | verbatim |
-| 4 | Айнура | Я хочу заказать этот дорогой коньяк. | I want to order this expensive cognac. | #229 00:16:26: Этот коньяк очень дорогой | verbatim |
-| 5 | Инспектор | А я закажу вкусный яблочный штрудель. | And I will order the delicious apple strudel. | #234 00:16:40: яблочный штрудель | verbatim |
-| 6 | Инспектор | Я всегда везде нахожу нелегальных работников. | I always find illegal workers everywhere. | #239 00:17:03: я их всегда везде нахожу | verbatim |
-| 7 | Айнура | Вам очень нравится ваша работа? | Do you like your job very much? | new | new |
-| 8 | Инспектор | Да, я занимаюсь этим пять лет. | Yes, I have been doing this for five years. | #248 00:17:30: этим я уже занимаюсь пять лет | verbatim |
-| 9 | Инспектор | Обычно работников прячут на складе. | Usually they hide workers in the storeroom. | #250 00:17:36: прячут их в туалете, на складе | verbatim |
-| 10 | Инспектор | А умные люди сажают их в зале. | And smart people seat them in the dining room. | #251 00:17:40: А те, кто поумнее | verbatim |
-| 11 | Инспектор | Но этот яблочный штрудель просто прекрасный! | But this apple strudel is simply wonderful! | #255 00:17:59: самый прекрасный яблочный штрудель | verbatim |
-| 12 | Инспектор | Сегодня вкусный десерт спас вас. | Today the delicious dessert saved you. | #257 00:18:10: сегодня кое-кого спас | verbatim |
-| 13 | Айнура | Хорошо, спасибо вам большое! | All right, thank you very much! | #259 00:18:23: Хорошо. Спасибо | verbatim |
+| 1 | Инспектор | Вы не будете против, если я составлю вам компанию? | Would you mind if I joined you? | #222 00:15:51: Вы не будете против, если я составлю вам компанию? | verbatim |
+| 2 | Айнура | Да, пожалуйста, садитесь. | Yes, please, sit down. | new | new |
+| 3 | Инспектор | Дама, будьте любезны, прошу вас. | Madam, if you would be so kind. | #226 00:16:09: Дама, будьте любезны, прошу вас. | verbatim |
+| 4 | Айнура | Вот эту, и ещё вот эту. | This one, and this one too. | #227 00:16:14: И вот эту, вот<br>#228 00:16:18: эту, вот эту, и еще вот эту. | verbatim |
+| 5 | Инспектор | Этот коньяк очень дорогой. | This cognac is very expensive. | #229 00:16:26: Этот коньяк очень дорогой. | verbatim |
+| 6 | Инспектор | Ну, желание дамы закон. | Well, a lady's wish is the law. | #231 00:16:31: Александр, ну вы же желание дамы закона. | verbatim |
+| 7 | Инспектор | А я закажу яблочный штрудель со сливками. | And I'll order the apple strudel with cream. | #234 00:16:40: я отведаю чудный яблочный штрудель.<br>#235 00:16:46: Со сливками. | verbatim |
+| 8 | Инспектор | Знаете, почему меня называют охотником на гастарбайтеров? | Do you know why they call me the migrant-worker hunter? | #238 00:16:58: Вы знаете, почему меня называют охотник на гастарбайтеров? | verbatim |
+| 9 | Инспектор | Потому что я их всегда везде нахожу. | Because I always find them, wherever they are. | #239 00:17:03: Потому что я их всегда везде нахожу. | verbatim |
+| 10 | Инспектор | Те, кто поглупее, прячут их в туалете. | The less clever ones hide them in the bathroom. | #250 00:17:36: Те, кто поглупее, прячут их в туалете, на складе, ну, и так далее. | verbatim |
+| 11 | Инспектор | А те, кто поумнее, выдают их за гостей. | And the cleverer ones pass them off as guests. | #251 00:17:40: А те, кто поумнее,<br>#252 00:17:43: выдавая их за гостей. | verbatim |
+| 12 | Инспектор | Среди нас может быть нелегал. | There could be an illegal worker among us. | #254 00:17:52: Среди нас может быть нелегал. | verbatim |
+| 13 | Инспектор | Передайте шефу, что его штрудель сегодня кое-кого спас. | Tell the chef his strudel saved someone today. | #257 00:18:10: Передайте шефу, что его восхитительный яблочный штрудель сегодня кое-кого спас. | verbatim |
+| 14 | Инспектор | А вы сделайте, пожалуйста, разрешение на работу. | And you, please, do get a work permit. | #258 00:18:16: А вас, я очень прошу, сделайте, пожалуйста, разрешение на работу. | verbatim |
+| 15 | Айнура | Хорошо. Спасибо. | All right. Thank you. | #259 00:18:23: Хорошо. Спасибо. | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, may I sit at the table?' 'Kind evening' is the literal greeting. 'Sit down' is the verb for the moment of sitting, and 'table' is shrunk to a 'little table' with an 'ik' ending, which is typical of restaurants.
-- 'Yes, please, sit down here.' The command ends in 'sya', so it's 'seat yourselves'. 'Here' means 'to here', as the table is where they'll sit, and it's not the same as 'here' as a place.
-- 'Are you ready to place an order already?' Russian 'makes' an order, much as English does. 'Ready' is in the plural, polite form, with a short ending.
-- 'I want to order this expensive cognac.' 'Expensive' is also 'dear', as in a dear friend. The ending on it matches the masculine cognac.
-- 'And I will order the delicious apple strudel.' 'I will order' changes the last consonant, so 'z' turns into 'zh'. 'Apple' is built from the word for apple, with an 'ny' ending that turns it into 'apple-y'.
-- 'I always find illegal workers everywhere.' 'Always' and 'everywhere' are a neat pair of small words. The 'ne' at the front of 'legal' works like 'il' in English.
-- 'Do you like your job very much?' Russian doesn't say 'you like' here. It says 'to you is pleasing', so the job is the one doing the pleasing.
-- 'Yes, I've been doing this for five years.' Russian uses a plain present, 'I do this', where English needs 'have been doing'. After 'five' the year changes to a special form, 'let'.
-- 'Usually they hide workers in the storeroom.' Nobody is named as 'they', only the ending on 'hide'. 'On the storeroom' is how Russians say 'in', with the 'e' ending.
-- 'And clever people seat them in the dining room.' 'People' is irregular, a plural that looks nothing like 'person'. 'Seat' is the verb that means to make someone sit.
-- 'But this apple strudel is simply wonderful!' No 'is' again, just 'strudel simply wonderful'. The strudel is a German loan, and the sentence is the inspector's only flash of joy.
-- 'Today the delicious dessert saved you.' The 'saved' of a masculine thing ends in a bare 's', with no extra letter. Word order is the same as English, with the dessert as the hero.
-- 'All right, thank you very much!' 'Thanks' is a neuter noun, so 'big' finishes with 'oe' to agree with it. Ainura puts 'you' in between, which is polite.
+- 'Would you mind if I joined you?' 'Sostavit kompaniyu' is literally 'to make up company', the polite way to ask to join someone. 'Ne budete protiv', literally 'you won't be against', means 'do you mind'.
+- 'Yes, please, sit down.' 'Sadites', 'sit down', is a command for someone you call 'vy'. Its '-s' ending is a short '-sya', 'yourself', so it is literally 'seat yourself'.
+- 'Madam, if you would be so kind.' 'Dama' means 'lady', and as a form of address it sounds old-fashioned and gallant. 'Proshu vas', literally 'I ask you', here means 'please, go ahead'.
+- 'This one, and this one too.' 'Etu', 'this one', ends in '-u' because the thing pointed at is feminine and it's being ordered. 'Eshchyo' means 'more' or 'also'.
+- 'This cognac is very expensive.' 'Dorogoy' means both 'expensive' and 'dear', as in 'dorogoy drug', 'dear friend'. It ends in '-oy' because 'konyak' is masculine.
+- 'Well, a lady's wish is the law.' 'Zhelanie damy' is literally 'wish of the lady': 'dama' becomes 'damy' to show whose wish. Russian needs no 'is' here.
+- 'And I'll order the apple strudel with cream.' 'Yablochny', 'apple', comes from 'yabloko', 'apple'. 'So slivkami', 'with cream', has 's', 'with', turned into 'so' before two consonants.
+- 'Do you know why they call me the migrant-worker hunter?' 'Gastarbaytery' is the German word for guest workers, the usual Russian word for labour migrants. 'Okhotnik', 'hunter', comes from 'okhota', 'the hunt'.
+- 'Because I always find them, wherever they are.' 'Vsegda', 'always', and 'vezde', 'everywhere', make a neat pair. 'Nakhozhu', 'I find', is how 'nakhodit' sounds for 'I': the 'd' turns into 'zh'.
+- 'The less clever ones hide them in the bathroom.' 'Te, kto' means 'those who'. 'Poglupee' is built from 'glupy', 'stupid', with 'po-' and '-ee', so it means 'a bit stupider'.
+- 'And the cleverer ones pass them off as guests.' 'Vydavat za' means 'to pass off as': 'vydayut ikh za gostey', 'they pass them off as guests'. 'Poumnee', from 'umny', 'clever', means 'a bit cleverer'.
+- 'There could be an illegal worker among us.' 'Sredi nas' means 'among us'. 'Mozhet byt', literally 'can be', is also the everyday Russian 'maybe'.
+- 'Tell the chef his strudel saved someone today.' 'Peredayte', 'pass on', is what you say for 'tell him that'. 'Koe-kogo' means 'a certain someone', a person the speaker would rather not name.
+- 'And you, please, do get a work permit.' 'Razreshenie na rabotu', literally 'permission for work', is the work permit. The inspector says 'sdelayte', 'make', the usual word for getting a document done.
+- 'All right. Thank you.' 'Khorosho', 'good', is the everyday 'all right' or 'okay'. It is all Ainura can answer to a man who has just seen through her.

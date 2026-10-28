@@ -1468,15 +1468,23 @@
     },
     {
       "seg": 51,
-      "trans": "Bye!",
+      "trans": "All the best!",
       "words": [
         {
-          "t": "Пока!",
-          "lemma": "пока",
-          "pos": "adv",
-          "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "t": "Всего",
+          "gloss": "all",
+          "gram": "genitive neuter singular",
+          "lemma": "весь",
+          "pos": "det",
+          "stress": "всего́"
+        },
+        {
+          "t": "хорошего!",
+          "gloss": "good, the best",
+          "gram": "genitive neuter singular",
+          "lemma": "хороший",
+          "pos": "adj",
+          "stress": "хоро́шего"
         }
       ]
     }
@@ -1669,48 +1677,6 @@
         {
           "word": "побыть",
           "gloss": "to stay for a while"
-        }
-      ]
-    },
-    "в": {
-      "lemma": "в",
-      "stress": "в",
-      "pos": "prep",
-      "gloss": "in, into",
-      "meanings": [
-        {
-          "en": "in",
-          "note": "+ prepositional (where). Core Russian prep meaning 'in, into' in everyday speech."
-        },
-        {
-          "en": "into, to",
-          "note": "+ accusative (where to). Core Russian prep meaning 'in, into' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Как там в Венгрии?",
-          "trans": "How is it in Hungary?"
-        },
-        {
-          "text": "Я вырос в коммуналке.",
-          "trans": "I grew up in a communal flat."
-        },
-        {
-          "text": "Здравствуйте! Как там в Венгрии?",
-          "trans": "Hello! How was it in Hungary?"
-        }
-      ],
-      "related": [
-        {
-          "word": "во",
-          "gloss": "in, into (before consonant clusters)"
-        },
-        {
-          "word": "внутри",
-          "gloss": "inside"
         }
       ]
     },
@@ -3676,44 +3642,6 @@
         }
       ]
     },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye",
-      "meanings": [
-        {
-          "en": "bye, see you",
-          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
-        },
-        {
-          "en": "while, for now",
-          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока!",
-          "trans": "Bye!"
-        },
-        {
-          "text": "Пока, папа!",
-          "trans": "Bye, Dad!"
-        },
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        }
-      ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
-        }
-      ]
-    },
     "похожий": {
       "lemma": "похожий",
       "stress": "похо́жий",
@@ -4375,100 +4303,6 @@
         }
       ]
     },
-    "страна": {
-      "lemma": "страна",
-      "stress": "страна́",
-      "pos": "noun",
-      "gloss": "country",
-      "gender": "f",
-      "meanings": [
-        {
-          "en": "country, nation",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'трана'). Common feminine noun meaning 'country' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "страна",
-              "страны"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "страны",
-              "стран"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "стране",
-              "странам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "страну",
-              "страны"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "страной",
-              "странами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "стране",
-              "странах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Над тобой вся страна смеётся!",
-          "trans": "The whole country is laughing at you!"
-        },
-        {
-          "text": "Это большая страна.",
-          "trans": "It is a big country."
-        },
-        {
-          "text": "Над тобой вся страна смеётся! Все видели, как ты из окна летел.",
-          "trans": "The whole country is laughing at you! Everyone saw you fly out the window."
-        }
-      ],
-      "related": [
-        {
-          "word": "странно",
-          "gloss": "strange"
-        },
-        {
-          "word": "странный",
-          "gloss": "strange"
-        },
-        {
-          "word": "страница",
-          "gloss": "page"
-        }
-      ]
-    },
     "страшный": {
       "lemma": "страшный",
       "stress": "стра́шный",
@@ -4945,6 +4779,113 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "хороший": {
+      "lemma": "хороший",
+      "stress": "хоро́ший",
+      "pos": "adj",
+      "gloss": "good, nice",
+      "meanings": [
+        {
+          "en": "good, nice, lovely",
+          "note": "Agrees in gender, number, and case with the noun it modifies ('good, nice')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "хороший",
+              "хорошая",
+              "хорошее",
+              "хорошие"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "хорошего",
+              "хорошей",
+              "хорошего",
+              "хороших"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "хорошему",
+              "хорошей",
+              "хорошему",
+              "хорошим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "хороший / хорошего",
+              "хорошую",
+              "хорошее",
+              "хорошие / хороших"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "хорошим",
+              "хорошей",
+              "хорошим",
+              "хорошими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "хорошем",
+              "хорошей",
+              "хорошем",
+              "хороших"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Хороший день.",
+          "trans": "A good day."
+        },
+        {
+          "text": "Какое хорошее утро!",
+          "trans": "What a lovely morning!"
+        },
+        {
+          "text": "Какое хорошее утро! Лидия Алексеевна, чашку кофе, пожалуйста.",
+          "trans": "What a lovely morning! Lidia Alekseyevna, a cup of coffee, please."
+        }
+      ],
+      "related": [
+        {
+          "word": "хорошо",
+          "gloss": "well"
+        },
+        {
+          "word": "нехорошо",
+          "gloss": "not nice"
+        },
+        {
+          "word": "похоронить",
+          "gloss": "to bury"
         }
       ]
     }

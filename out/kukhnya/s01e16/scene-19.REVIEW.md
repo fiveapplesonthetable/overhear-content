@@ -11,31 +11,31 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Инспектор | Где ваше разрешение на работу? | Where is your work permit? | new | new |
-| 2 | Луи | Мои документы лежат в кабинете шефа. | My documents are lying in the chef's office. | new | new |
-| 3 | Инспектор | У вас нет нужных бумаг? | Do you not have the necessary papers? | new | new |
-| 4 | Луи | Я просто забыл сделать новые документы. | I simply forgot to make new documents. | new | new |
-| 5 | Инспектор | Это очень большая проблема для ресторана. | This is a very big problem for the restaurant. | new | new |
-| 6 | Луи | Я делаю здесь лучшие десерты! | I make the best desserts here! | new | new |
-| 7 | Инспектор | Закон один для всех людей. | The law is one for all people. | new | new |
-| 8 | Луи | Что вы теперь будете делать? | What are you going to do now? | new | new |
-| 9 | Инспектор | Мне нужно поговорить с вашим начальником. | I need to talk to your boss. | new | new |
-| 10 | Луи | Наш шеф сейчас очень занят. | Our chef is very busy right now. | new | new |
-| 11 | Инспектор | Он быстро найдёт время для меня. | He will quickly find time for me. | new | new |
-| 12 | Инспектор | Вставайте, сейчас пройдёмте со мной. | Get up, now come with me. | #270 00:19:13: Пройдемте | verbatim |
-| 13 | Луи | Хорошо, пойдёмте в кабинет шефа. | All right, let's go to the chef's office. | new | new |
+| 2 | Федя | Оно у меня дома. | It's at home. | new | new |
+| 3 | Инспектор | Откуда вы приехали? | Where have you come from? | new | new |
+| 4 | Федя | Из Молдовы. | From Moldova. | new | new |
+| 5 | Инспектор | Значит, разрешение вам нужно. | So you do need a permit. | new | new |
+| 6 | Федя | Я просто не успел его сделать. | I just haven't had time to get it done. | new | new |
+| 7 | Инспектор | Это большая проблема для ресторана. | This is a big problem for the restaurant. | new | new |
+| 8 | Федя | Я лучший повар на этой кухне! | I'm the best cook in this kitchen! | new | new |
+| 9 | Инспектор | Закон один для всех. | The law is the same for everyone. | new | new |
+| 10 | Федя | Что вы теперь будете делать? | What are you going to do now? | new | new |
+| 11 | Инспектор | Мне нужно поговорить с вашим начальником. | I need to talk to your boss. | new | new |
+| 12 | Инспектор | Вставайте. Пройдёмте. | Get up. Come with me. | #270 00:19:13: Пройдемте. | verbatim |
+| 13 | Федя | Ну, пойдёмте. | Well, let's go. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is your work permit?' 'Permit' comes from the verb 'to allow', so it's a permission. 'For work' is two small words, with the work in a form ending in 'u'.
-- 'My documents are in the chef's office.' Russians say that papers 'lie' somewhere, as if they were people having a rest. The chef's office has two endings, 'e' for 'in' and 'a' for 'of the chef'.
-- 'Don't you have the necessary papers?' After 'there isn't', the missing thing takes a different ending, here on both 'necessary' and 'papers'. The first words are the 'at you there isn't' pattern.
-- 'I simply forgot to make new documents.' 'Forgot' has the masculine 'l', and it is followed by the plain 'to make', as in English. 'New documents' are plural, and so are the endings.
-- 'This is a very big problem for the restaurant.' 'Big' ends in 'aya' because 'problem' is feminine. 'For the restaurant' is a short word and the 'a' ending.
-- 'I make the best desserts here!' 'Best' is irregular, and it doesn't look like 'good'. 'Desserts' is plural, so it has a 'y' ending.
-- 'The law is one for all people.' It has no 'is' and is shaped like a proverb. 'For all people' puts both words in the plural 'for' form.
-- 'What are you going to do now?' 'Will you do' is made from 'will be' plus 'do', as in English. 'Now' is a word you'll hear every day.
-- 'I need to speak to your boss.' The pattern is 'to me needed', then 'to have a talk' with the 'po' prefix that makes it a short chat. 'With your boss' has an 'im' ending.
-- 'Our chef is very busy right now.' 'Busy' is a short form, and the ending would change for a woman. 'Right now' is a good one-word reply to a request for someone's time.
-- 'He will quickly find time for me.' 'Will find' is a future made from a finished action. The 'me' after 'for' has the ending that Russian puts on it whenever it is the one affected.
-- 'Get up, now come with me.' The opening word is the polite plural order for 'stand up'. The second word, with the 'te' at the end, is the formal 'come along'.
-- 'Alright, let's go to the chef's office.' Louis uses the same 'te' form but this time as 'let's go'. The office doesn't change since it's a direction.
+- 'Where is your work permit?' 'Razreshenie', 'permit', comes from 'razreshit', 'to allow'. 'Na rabotu', literally 'onto work', is the 'for work' part.
+- 'It's at home.' 'U menya doma' is literally 'at me at home', the usual way to say 'at my place'. 'Ono', 'it', is neuter because 'razreshenie' is neuter.
+- 'Where have you come from?' 'Otkuda' means 'from where', a single word. 'Priekhali' means 'came' by transport, not on foot, and it's what Russians ask a newcomer.
+- 'From Moldova.' 'Iz', 'from', changes 'Moldova' to 'Moldovy'. Many Russians still say the older name 'Moldaviya'.
+- 'So you do need a permit.' 'Znachit', literally 'it means', is the everyday 'so' when you draw a conclusion. 'Vam nuzhno' is literally 'to you it is needed'.
+- 'I just haven't had time to get it done.' 'Ne uspel' means 'didn't manage in time', from 'uspet', 'to make it in time'. English has no single word for it.
+- 'This is a big problem for the restaurant.' 'Problema' is feminine, so 'bolshaya', 'big', ends in '-aya'. 'Dlya restorana', 'for the restaurant', adds '-a' after 'dlya', 'for'.
+- 'I'm the best cook in this kitchen!' 'Luchshiy' means 'the best', a word that looks nothing like 'khoroshiy', 'good'. Russians work 'na kukhne', literally 'on the kitchen'.
+- 'The law is the same for everyone.' 'Zakon odin' is literally 'the law is one', and it sounds like a saying. 'Dlya vsekh' means 'for all'.
+- 'What are you going to do now?' 'Budete delat' is 'will be doing': the future of 'byt', 'to be', plus the plain verb. 'Teper' means 'now', in the sense of 'from now on'.
+- 'I need to talk to your boss.' 'Mne nuzhno', 'to me it is needed', is the usual 'I need to'. 'Pogovorit' means 'to have a talk', and 'nachalnik' means 'boss'.
+- 'Get up. Come with me.' 'Vstavayte', 'get up', speaks to him as 'vy'. 'Proydyomte' is literally 'let's go through', with the polite '-te' on the end, and it is what police and officials say.
+- 'Well, let's go.' 'Poydyomte' is the ordinary polite 'let's go'. 'Nu', 'well', makes it sound like giving in.

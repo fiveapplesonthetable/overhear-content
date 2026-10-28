@@ -7,41 +7,41 @@ SCENE = 18
 TITLE = 'Метод дедукции  (Method of Deduction)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'inspector': 'Инспектор', 'louis': 'Луи'}
+LABELS = {'fedya': 'Федя', 'inspector': 'Инспектор'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
-INTRO = "The inspector is still working his way around the dining room. He stops at the table of Louis, who says he is just a customer, and then lists three small habits that prove otherwise. Russian first, then we'll take it apart."
-OPENER = "Now we'll look at each line."
-TRANSITION = "Let's finish by hearing it all again."
-OUTRO = "Louis admits he is a cook, and the inspector gets his way. Keep 'nelzya' in mind from this scene, since it's the word on every sign that tells you what you can't do. See you next time!"
+INTRO = 'The inspector is still working his way around the dining room. He stops at the table where Fedya sits dressed as a guest, and when Fedya insists he is just a customer, the inspector lists three small habits that give him away.'
+OPENER = "Now the inspector's case against Fedya, line by line."
+TRANSITION = 'And the whole conversation again, without stopping.'
+OUTRO = "Fedya has to admit he is a cook. Keep 'nelzya' from this scene: it's the word on every sign that tells you what you're not allowed to do. See you next time!"
 CLOSING = ('inspector', 'До свидания!')
 STORY = [
-    ('inspector', 'Можно посмотреть на ваши документы?', 'May I look at your documents?', [(261, 'ваши документы?')], ''),
-    ('louis', 'Я просто обычный гость ресторана.', 'I am just an ordinary guest of the restaurant.', [], ''),
-    ('inspector', 'Нет, вы работаете здесь поваром.', 'No, you work here as a chef.', [(261, 'Вы же повар в этом ресторане')], ''),
-    ('louis', 'Почему вы вдруг так решили?', 'Why did you suddenly decide so?', [], ''),
-    ('inspector', 'Вы очень внимательно смотрите на блюдо.', 'You are looking at the dish very carefully.', [(262, 'только повар может так придирчиво рассматривать')], ''),
-    ('inspector', 'Вам эта еда совсем не нравится.', 'You do not like this food at all.', [(263, 'ему оно не понравится')], ''),
-    ('inspector', 'Потому что готовил её другой повар.', 'Because another chef cooked it.', [(264, 'готовил-то его кто-то другой')], ''),
-    ('louis', 'Я просто люблю хорошую кухню.', 'I simply love good cuisine.', [], ''),
-    ('inspector', 'Ещё вы постоянно трогаете свою голову.', 'Also you are constantly touching your head.', [(265, 'Вы все время трогаете голову')], ''),
-    ('inspector', 'На работе вы всегда носите шапку.', 'At work you always wear a cap.', [], ''),
-    ('inspector', 'И вы совсем не пьёте вино.', 'And you are not drinking the wine at all.', [(266, 'Вы не прикоснулись вообще')], ''),
-    ('inspector', 'Потому что на работе нельзя пить.', 'Because at work one must not drink.', [(267, 'потому что на работе пить')], ''),
-    ('louis', 'Да, вы сказали чистую правду.', 'Yes, you told the pure truth.', [], ''),
+    ('inspector', 'А вот вы-то мне и нужны.', "And you're just the one I need.", [(260, 'А вот вас-то мне кажется и нужно, уважаемый.')], ''),
+    ('inspector', 'Можно взглянуть на ваши документы?', 'May I take a look at your papers?', [(261, 'Я могу взглянуть на ваши документы?')], ''),
+    ('fedya', 'Я просто гость.', "I'm just a guest.", [], ''),
+    ('inspector', 'Вы же повар в этом ресторане.', "But you're the cook in this restaurant.", [(261, 'Вы же повар в этом ресторане, правильно?')], ''),
+    ('fedya', 'С чего вы взяли?', 'What makes you think that?', [], ''),
+    ('inspector', 'Только повар так смотрит на блюдо.', 'Only a cook looks at a dish like that.', [(262, 'Потому что только повар может так придирчиво рассматривать'), (263, 'блюдо.')], ''),
+    ('inspector', 'Потому что готовил его кто-то другой.', 'Because someone else cooked it.', [(264, 'потому что готовил-то его кто-то другой, а не вы.')], ''),
+    ('inspector', 'Вы всё время трогаете голову.', 'You keep touching your head.', [(265, 'Вы все время трогаете голову')], ''),
+    ('inspector', 'Вы привыкли к колпаку.', "You're used to the chef's hat.", [(265, 'потому что привыкли быть в колпаке.')], ''),
+    ('inspector', 'И вы не пьёте своё вино.', "And you aren't drinking your wine.", [(266, 'Вы не прикоснулись вообще к замечательному шардоне,')], ''),
+    ('inspector', 'Потому что на работе пить нельзя.', "Because you're not allowed to drink at work.", [(267, 'потому что на работе пить запрещено.')], ''),
+    ('fedya', 'Да, вы правы.', "Yes, you're right.", [], ''),
+    ('inspector', 'Вуаля.', 'Voilà.', [(269, 'Вуаля.')], ''),
 ]
 WALK = [
-    (0, None, "'May I look at your documents?' It opens with the ask-permission word, followed by 'look at'. 'Your' is plural to match 'documents', and the plural ending is a simple 'y'."),
-    (1, None, "'I am just an ordinary guest of the restaurant.' There is no word for 'of'. The restaurant simply takes an 'a' ending and goes after 'guest'."),
-    (2, None, "'No, you work here as a chef.' There's no word for 'as' either. The chef takes an 'om' ending, and that does the job."),
-    (3, None, "'Why did you suddenly decide that?' 'Suddenly' is a good little word to keep, and it sits right after the 'why'. 'Decided' has the 'li' ending since the inspector is addressed as 'you', politely."),
-    (4, None, "'You are looking at the dish very carefully.' 'Carefully' is a describing word with an 'o' ending, like many of the 'how' words. 'Look at' takes the tiny word for 'on'."),
-    (5, None, "'You don't like this food at all.' Again it's 'to you not pleasing', so 'you' takes the 'am' ending. 'At all' is the pair 'altogether not'."),
-    (6, None, "'Because another chef cooked it.' Russian says 'her' for the food, because the word for food is feminine. The first two words are 'because'."),
-    (7, None, "'I simply love good cuisine.' The word for cuisine is the same as for 'kitchen', which is the title of the show. 'Good' carries 'uyu' because it's what is loved."),
-    (8, None, "'Also you constantly touch your head.' 'Your own' is a special little word, which always points back to the person doing the action. 'Constantly' is built from a word meaning 'constant'."),
-    (9, None, "'At work you always wear a cap.' Russians say 'on work' for 'at work', and the work takes an 'e'. 'Wear' is the one for something you carry on yourself regularly."),
-    (10, None, "'And you aren't drinking the wine at all.' 'Not at all' appears again, now in front of 'drink'. The wine itself stays in its basic form, because it isn't being drunk."),
-    (11, None, "'Because you can't drink at work.' This 'can't' is the 'not allowed' word, and you'll see it on signs. It's followed by the plain 'to drink', with no 'you' at all."),
-    (12, None, "'Yes, you told the pure truth.' Literally 'clean truth', so truth is something that can be clean. The ending on 'told' is the polite plural."),
+    (0, None, "'And you're just the one I need.' 'Vy-to mne i nuzhny' is literally 'you, then, to me are needed': Russian says what you need is 'needed to you'. The little '-to' and 'i' add the sense of 'you're the very one'."),
+    (1, None, "'May I take a look at your papers?' 'Mozhno', 'it is possible', is the everyday way to ask permission. 'Vzglyanut na' means 'to take a glance at', a quicker, more polite word than plain 'look'."),
+    (2, None, "'I'm just a guest.' 'Gost' means 'guest', and in a restaurant it's also the word for a customer. 'Prosto', 'simply', does the job of English 'just'."),
+    (3, None, "'But you're the cook in this restaurant.' 'Zhe' after 'vy' is a small word of insistence, like 'but you are, aren't you'. 'Povar' means 'cook', from the old verb 'varit', 'to boil'."),
+    (4, None, "'What makes you think that?' 'S chego vy vzyali?' is literally 'from what did you take it?', the usual way to challenge a guess. It sounds a little defensive, which is the point."),
+    (5, None, "'Only a cook looks at a dish like that.' 'Tak', 'so' or 'like that', points to the way he looks. 'Bliudo' means 'dish', both the plate of food and the course on a menu."),
+    (6, None, "'Because someone else cooked it.' 'Kto-to drugoy' means 'someone else': 'kto-to' is 'someone', and 'drugoy' is 'other'. 'Ego', 'it', points back to the dish, which is neuter."),
+    (7, None, "'You keep touching your head.' 'Vsyo vremya', literally 'all the time', is how Russian says 'keep doing' something. Russian needs no 'your' before 'head'."),
+    (8, None, "'You're used to the chef's hat.' 'Privyknut k' means 'to get used to', and 'kolpak' is the tall white cook's hat. 'K kolpaku' adds '-u' to the hat after 'k'."),
+    (9, None, "'And you aren't drinking your wine.' 'Svoyo' means 'your own', and Russian uses it whenever the owner is the person doing the action. 'Vino' is 'wine', a word that never changes its ending."),
+    (10, None, "'Because you're not allowed to drink at work.' 'Nelzya' means 'it is not allowed', and it is followed by the plain 'pit', 'to drink'. Russian says 'na rabote', literally 'on work', for 'at work'."),
+    (11, None, "'Yes, you're right.' 'Vy pravy' is literally 'you are right', with no word for 'are'. A man would say 'ty prav' to a friend; 'pravy' is the polite form for 'vy'."),
+    (12, None, "'Voila.' The inspector borrows the French word, like a conjurer finishing a trick. Russians write it in their own letters and say it much as the French do."),
 ]

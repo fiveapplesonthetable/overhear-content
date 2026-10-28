@@ -1816,15 +1816,23 @@
     },
     {
       "seg": 59,
-      "trans": "Bye!",
+      "trans": "Goodbye!",
       "words": [
         {
-          "t": "Пока!",
-          "lemma": "пока",
-          "pos": "adv",
-          "stress": "пока́",
-          "gloss": "bye!",
-          "gram": "informal farewell interjection"
+          "t": "До",
+          "gloss": "until",
+          "gram": "preposition + genitive",
+          "lemma": "до",
+          "pos": "prep",
+          "stress": null
+        },
+        {
+          "t": "свидания!",
+          "gloss": "meeting (goodbye)",
+          "gram": "genitive neuter singular",
+          "lemma": "свидание",
+          "pos": "noun",
+          "stress": "свида́ния"
         }
       ]
     }
@@ -4222,53 +4230,6 @@
         }
       ]
     },
-    "под": {
-      "lemma": "под",
-      "stress": "под",
-      "pos": "prep",
-      "gloss": "under",
-      "governs": "+ instrumental / + accusative",
-      "meanings": [
-        {
-          "en": "under, below",
-          "note": "+ instrumental (where). Core Russian prep meaning 'under' in everyday speech."
-        },
-        {
-          "en": "under (towards)",
-          "note": "+ accusative (where to). Core Russian prep meaning 'under' in everyday speech."
-        },
-        {
-          "en": "on (someone's responsibility)",
-          "note": "Под мою ответственность. Core Russian prep meaning 'under' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Кот под столом.",
-          "trans": "The cat is under the table."
-        },
-        {
-          "text": "Под мою ответственность.",
-          "trans": "On my responsibility."
-        },
-        {
-          "text": "Хорошо, давайте три. Под мою личную ответственность.",
-          "trans": "All right, let's say three. On my personal responsibility."
-        }
-      ],
-      "related": [
-        {
-          "word": "над",
-          "gloss": "above, over"
-        },
-        {
-          "word": "внизу",
-          "gloss": "below"
-        }
-      ]
-    },
     "пожар": {
       "lemma": "пожар",
       "stress": "пожа́р",
@@ -4352,44 +4313,6 @@
         {
           "word": "пожарный",
           "gloss": "related to fire (adj.)"
-        }
-      ]
-    },
-    "пока": {
-      "lemma": "пока",
-      "stress": "пока́",
-      "pos": "adv",
-      "gloss": "bye",
-      "meanings": [
-        {
-          "en": "bye, see you",
-          "note": "Informal. Core Russian interj meaning 'bye' in everyday speech."
-        },
-        {
-          "en": "while, for now",
-          "note": "As an adverb. Core Russian interj meaning 'bye' in everyday speech."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Пока!",
-          "trans": "Bye!"
-        },
-        {
-          "text": "Пока, папа!",
-          "trans": "Bye, Dad!"
-        },
-        {
-          "text": "Пока, милый!",
-          "trans": "Bye, darling!"
-        }
-      ],
-      "related": [
-        {
-          "word": "пока",
-          "gloss": "bye (as an adverb/interjection)"
         }
       ]
     },
@@ -4877,92 +4800,6 @@
         }
       ]
     },
-    "стол": {
-      "lemma": "стол",
-      "stress": "стол",
-      "pos": "noun",
-      "gloss": "table, desk",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "table, desk",
-          "note": "End-stressed in all oblique cases. Common masculine noun meaning 'table, desk' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "стол",
-              "столы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "стола",
-              "столов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "столу",
-              "столам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "стол",
-              "столы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "столом",
-              "столами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "столе",
-              "столах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Посидим дружно за столом.",
-          "trans": "We will sit together in a friendly way at the table."
-        },
-        {
-          "text": "Не бойся, всё в порядке! Посидим дружно за столом.",
-          "trans": "Don't be afraid, everything is fine! We will sit together in a friendly way at the table."
-        },
-        {
-          "text": "Ноги со стола быстро убери!",
-          "trans": "Take your feet off the table quickly!"
-        }
-      ],
-      "related": [
-        {
-          "word": "столный",
-          "gloss": "related to table (adj.)"
-        }
-      ]
-    },
     "три": {
       "lemma": "три",
       "stress": "три",
@@ -5307,6 +5144,138 @@
         {
           "word": "место",
           "gloss": "place"
+        }
+      ]
+    },
+    "до": {
+      "lemma": "до",
+      "stress": "до",
+      "pos": "prep",
+      "gloss": "until, before; up to",
+      "meanings": [
+        {
+          "en": "until, till",
+          "note": "+ genitive. Core Russian prep meaning 'until, before; up to' in everyday speech."
+        },
+        {
+          "en": "до свидания = goodbye",
+          "note": "Core Russian prep meaning 'until, before; up to' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "До завтра!",
+          "trans": "See you tomorrow!"
+        },
+        {
+          "text": "До вечера!",
+          "trans": "See you tonight!"
+        }
+      ],
+      "related": [
+        {
+          "word": "дойти",
+          "gloss": "to reach, walk as far as"
+        },
+        {
+          "word": "после",
+          "gloss": "after"
+        }
+      ]
+    },
+    "свидание": {
+      "lemma": "свидание",
+      "stress": "свида́ние",
+      "pos": "noun",
+      "gloss": "meeting; date",
+      "gender": "n",
+      "meanings": [
+        {
+          "en": "до свидания = goodbye",
+          "note": "Literally 'until the meeting'. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+        },
+        {
+          "en": "date (romantic)",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'видание'). Verbal action/result neuter noun formed with '-ение'/'-ание'. Common neuter noun meaning 'meeting; date' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "свидание",
+              "свидания"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "свидания",
+              "свиданий"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "свиданию",
+              "свиданиям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "свидание",
+              "свидания"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "свиданием",
+              "свиданиями"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "свидании",
+              "свиданиях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "До свидания!",
+          "trans": "Goodbye!"
+        },
+        {
+          "text": "У меня сегодня свидание.",
+          "trans": "I have a date today."
+        },
+        {
+          "text": "У неё свидание.",
+          "trans": "She has a date."
+        }
+      ],
+      "related": [
+        {
+          "word": "видать",
+          "gloss": "to see"
         }
       ]
     }
