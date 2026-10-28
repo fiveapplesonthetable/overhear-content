@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Focused on here and now, Max concludes that it is important to cherish the present. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
-OPENER = 'Now let us examine the conversation line by line.'
+INTRO = "This is the last scene of the episode. Max sums up what he has learned, in the simplest words he can, and Vika asks the questions that lead him there. We'll hear it in Russian first."
+OPENER = "Let's go through it at a gentle pace."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max concludes that it is important to cherish the present. Next time you watch the episode, listen for the Russian expressions for 'to know' and 'main' — you will catch every word right away. See you next time!"
+OUTRO = "That's the end of the episode, with a lesson that fits on a postcard. 'Here and now' is just two words in Russian, and it sounds as good as in English. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
     ('max', 'Знаешь, что главное?', 'Do you know what is the main thing?', [(383, 'Главное — ценить то, что у нас есть здесь и сейчас.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('vika', 'Хорошо.', 'Good.', [], ''),
 ]
 WALK = [
-    (0, None, "'Do you know what is the main thing?' Max poses a rhetorical question to get her attention."),
-    (1, None, "'What?' Vika plays along and asks for the answer."),
-    (2, None, "'The main thing is to cherish.' Max states his main realization about appreciation."),
-    (3, None, "'Cherish what?' Vika wants him to be more specific."),
-    (4, None, "'What we have.' Max emphasizes valuing their current possessions and relationship."),
-    (5, None, "'Where?' Vika asks for clarification on the setting."),
-    (6, None, "'Here.' Max firmly grounds his thought in the present location."),
-    (7, None, "'And when?' Vika extends his thought to the concept of time."),
-    (8, None, "'And now.' Max completes her thought by emphasizing the present moment."),
-    (9, None, "'Here and now.' Vika summarizes their shared conclusion."),
-    (10, None, "'Exactly.' Max confirms she understood perfectly."),
-    (11, None, "'Good.' Vika is satisfied with this realization."),
+    (0, None, "'Do you know what the main thing is?' 'You know' ends in 'sh', for the casual 'you'. 'The main thing' is one word."),
+    (1, None, "'What?' A bare 'chto', said 'shto'. It's all Vika needs to say."),
+    (2, None, "'The main thing is to appreciate.' The dash takes the place of 'is'. 'Appreciate' is built from 'price'."),
+    (3, None, "'Appreciate what?' The question word follows the verb. It echoes Max's own sentence."),
+    (4, None, "'What we have.' 'That which at us is' is the literal order. 'At us' stands for 'we have'."),
+    (5, None, "'Where?' One word. Russian 'gde' asks about a place."),
+    (6, None, "'Here.' One word again. It is the answer to 'where'."),
+    (7, None, "'And when?' 'When' is 'kogda'. The 'and' in front links it to the last question."),
+    (8, None, "'And now.' 'Now' is a word you'll hear every day. It is the other half of the pair."),
+    (9, None, "'Here and now.' Vika puts the two answers together in a set phrase. It sounds good in Russian, too."),
+    (10, None, "'Exactly.' One word, 'tochno', which comes from 'exact'. It's a quick, warm agreement."),
+    (11, None, "'Good.' 'Khorosho' is 'good' used as 'okay'. It ends the whole episode quietly."),
 ]

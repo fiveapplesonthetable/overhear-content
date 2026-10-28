@@ -7,18 +7,18 @@ SCENE = 5
 TITLE = "Секрет шефа  (The Chef's Secret)"
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'guest': 'Гость', 'igor': 'Игорь', 'vika': 'Вика'}
+LABELS = {'igor': 'Игорь', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "After touring Claude Monet with owner Dmitry Nagiyev, wealthy visitor Igor Valentinovich stops to thank art director Victoria Sergeyevna and wish her a pleasant evening. Let's listen to their polite exchange in Russian first."
-OPENER = "Let's walk through Igor and Victoria's polite farewell line by line."
+INTRO = "The tour is over, and Igor, a wealthy visitor, thanks Vika for showing him round. Their exchange is very polite, as business talk in Russian tends to be. We'll hear it in Russian first."
+OPENER = "Now let's look at it line by line."
 TRANSITION = "Now let's hear the whole scene once more from start to finish."
-OUTRO = 'Charmed by Victoria during his visit to Claude Monet, Igor bids her a warm farewell at the door. See you next time!'
-CLOSING = ('guest', 'Пока!')
+OUTRO = "The two part on perfectly polite terms. If you want to say goodbye formally in Russian, 'do svidaniya' is what to use, and it literally means 'until the meeting'. See you next time!"
+CLOSING = ('igor', 'До свидания!')
 STORY = [
-    ('guest', 'Виктория Сергеевна, спасибо за экскурсию.', 'Victoria Sergeyevna, thank you for the tour.', [(116, 'Виктория Сергеевна')], ''),
+    ('igor', 'Виктория Сергеевна, спасибо за экскурсию.', 'Viktoria Sergeyevna, thank you for the tour.', [(116, 'Виктория Сергеевна')], ''),
     ('vika', 'Пожалуйста, мы всегда рады гостям.', 'You are welcome, we are always glad to have guests.', [], ''),
-    ('guest', 'У вас очень красивый и уютный ресторан.', 'You have a very beautiful and cozy restaurant.', [], ''),
+    ('igor', 'У вас очень красивый и уютный ресторан.', 'You have a very beautiful and cozy restaurant.', [], ''),
     ('vika', 'Спасибо, мы очень стараемся каждый день.', 'Thank you, we try very hard every day.', [], ''),
     ('vika', 'И кухня здесь действительно прекрасная.', 'And the cuisine here is truly wonderful.', [], ''),
     ('vika', 'Наш шеф-повар знает своё дело.', 'Our head chef knows his craft.', [], ''),
@@ -30,15 +30,16 @@ STORY = [
     ('igor', 'Приятного вечера, Виктория Сергеевна.', 'Have a pleasant evening, Victoria Sergeyevna.', [(116, 'Виктория Сергеевна'), (118, 'Приятного вечера')], ''),
 ]
 WALK = [
-    (0, None, "'Victoria Sergeyevna, thank you for the tour.' The guest addresses Victoria formally using her first name and patronymic."),
-    (1, None, "'You are welcome, we are always glad to have guests.' Victoria responds with warm professional courtesy."),
-    (2, None, "'You have a very beautiful and cozy restaurant.' He compliments the atmosphere of Claude Monet."),
-    (3, None, "'Thank you, we try very hard every day.' Victoria takes pride in the team's daily work."),
-    (4, None, "'And the cuisine here is truly wonderful.' He praises the food as well."),
-    (5, None, "'It was a great pleasure meeting you.' Literally 'to me it was extremely pleasant to get acquainted with you'."),
-    (6, None, "'Likewise, it was very pleasant for me too.' The single word for 'mutually' or 'likewise' is the natural reply to a compliment."),
-    (7, None, "'I hope we will see each other again soon.' Igor hints that he wants to see Victoria again."),
-    (8, None, "'We will be waiting for you in our restaurant.' Victoria keeps her response polite and professional."),
-    (9, None, "'Goodbye.' She bids the guest farewell."),
-    (10, None, "'Have a pleasant evening, Victoria Sergeyevna.' Igor wishes her a lovely evening as he heads out."),
+    (0, None, "'Viktoria, thank you for the tour.' Igor uses her first name and patronymic. The word for 'thanks for' needs a small word after it, and the tour takes a 'yu' ending."),
+    (1, None, "'You're welcome, we're always glad to have guests.' The same word means 'please' and 'you're welcome'. 'Glad' is a plural short form, and 'guests' takes the 'am' ending."),
+    (2, None, "'You have a very beautiful and cozy restaurant.' 'At you' stands for 'you have'. The two describing words both end in 'yy', for the masculine restaurant."),
+    (3, None, "'Thank you, we try very hard every day.' The word for 'we try' ends in 'sya'. 'Every day' needs no word for 'on'."),
+    (4, None, "'And the cooking here is truly wonderful.' 'Kitchen' stands for 'cuisine' once more. 'Truly' and 'wonderful' are both adverbs, or describing words."),
+    (5, None, "'Our chef knows his craft.' The Russian word for the head cook is a compound, and 'his own business' is the phrase used for 'his craft'."),
+    (6, None, "'It was a great pleasure to meet you.' 'Extremely' is built from 'edge'. 'Meet' ends in 'sya', since it means 'get acquainted'."),
+    (7, None, "'Likewise, it was very pleasant for me too.' The Russian word 'mutually' means 'likewise'. 'To me' is how Russian says it."),
+    (8, None, "'I hope we'll see each other again soon.' The word for 'I hope' ends in 'sya', and 'see each other' ends in 's', which means 'each other'."),
+    (9, None, "'We'll be waiting for you at our restaurant.' The word for 'we'll wait' is 'we will be' plus the plain 'wait'. 'For you' takes the 'a' form."),
+    (10, None, "'Goodbye.' The Russian is 'until the meeting', a phrase that has been in use for generations. It is the formal goodbye."),
+    (11, None, "'Have a pleasant evening.' The wish is 'of pleasant evening', with 'ogo' and 'a' endings. The same pattern turns up in 'bon appétit'."),
 ]

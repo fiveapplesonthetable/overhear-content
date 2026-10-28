@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'nagiyev': 'Нагиев', 'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Owner Dmitry Nagiyev is giving a grand tour of his restaurant to his friend Igor. He proudly shows off the staff and the decor. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Tour for Igor line by line and unpack how the Russian works."
+INTRO = "Nagiyev is showing his friend Igor around Claude Monet, boasting about everything. He calls the staff by the wrong names and proudly introduces his art director. We'll hear it in Russian first."
+OPENER = "Let's go through it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Igor is very impressed with the restaurant and its beautiful art director. Next time you watch the episode, listen for the Russian expressions for 'oasis' and 'kitchen' — you will catch every word right away. See you next time!"
-CLOSING = ('vika', 'До свидания.')
+OUTRO = "Nagiyev has no idea who half his staff are, but he makes the tour sound grand. 'Voobshche-to' is a handy phrase for 'actually' when you're correcting someone. See you next time!"
+CLOSING = ('vika', 'До свидания!')
 STORY = [
     ('nagiyev', 'Вот, Игорь.', 'Here you go, Igor.', [(44, 'Вот, Игорек, это и есть оазис французской кухни.')], ''),
     ('nagiyev', 'Это оазис французской кухни.', 'This is an oasis of French cuisine.', [(44, 'Вот, Игорек, это и есть оазис французской кухни.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('vika', 'Добрый день.', 'Good afternoon.', [(59, 'Добрый день. Здравствуйте, Игорь.')], ''),
 ]
 WALK = [
-    (0, None, "'Here you go, Igor.' — Built around the key proper name meaning 'Igor'."),
-    (1, None, "'This is an oasis of French cuisine.' Nagiyev boasts about his restaurant, comparing it to an oasis to impress his guest."),
-    (2, None, "'A bastion of quality.' Nagiyev continues his grand speech, using high-class words to emphasize the premium nature of his establishment."),
-    (3, None, "'So much effort went into this place.' Nagiyev dramatically points out all the hard work he poured into building the business."),
-    (4, None, "'A waiter is like my own child.' Nagiyev flatters himself as a paternal figure to his staff, comparing the servers to his own children."),
-    (5, None, "'Oh, hi, Vilyash.' Nagiyev casually greets a passing waitress, entirely butchering her real name in the process."),
-    (6, None, "'I am Nastya, actually.' Nastya awkwardly corrects him, pointing out her actual name while trying not to offend her boss."),
-    (7, None, "'She must be new.' Nagiyev brushes off his mistake by assuming she was just hired, skipping the verb 'to be' entirely."),
-    (8, None, "'Well, let's keep going.' Nagiyev smoothly moves the tour along, eager to show off more of the dining room."),
-    (9, None, "'Make us two coffees.' Nagiyev barks an order for drinks, acting every bit the demanding owner in front of his friend."),
-    (10, None, "'This is Viktoria Sergeyevna.' Nagiyev introduces his art director formally, using her patronymic to show respect."),
-    (11, None, "'The art director of our restaurant.' Nagiyev proudly states her impressive title, showcasing his top-level staff to his guest."),
-    (12, None, "'Good afternoon.' Vika offers a polite and professional greeting to the owner and his VIP friend."),
+    (0, None, "'Here you go, Igor.' The small word 'vot' points at the dining room. Igor's name needs no change here."),
+    (1, None, "'This is an oasis of French cuisine.' 'Of French cuisine' has an 'oy' ending on 'French' and an 'i' on 'cuisine'. 'Oasis' is a borrowed word."),
+    (2, None, "'A bastion of quality.' 'Enclave' is borrowed too. 'Of quality' needs an 'a' ending."),
+    (3, None, "'So much effort has gone into this place.' 'How much' is used here as an exclamation. 'Effort' is literally 'strengths'."),
+    (4, None, "'A waiter is like my own child.' 'Own' here means 'by blood', which makes the staff almost family. 'Child' is an irregular word."),
+    (5, None, "'Oh, hi, Vilyash.' He greets the wrong person with the casual hello. The name he uses is wrong, which is the joke."),
+    (6, None, "'I'm Nastya, actually.' 'Actually' has the little 'to' added, which sharpens the correction. There's no 'am'."),
+    (7, None, "'She must be new.' 'New girl' is made by adding a small ending to 'new'. 'Probably' is one word."),
+    (8, None, "'Well, let's keep going.' 'We'll go' works as 'let's go'. 'Further' is another handy small word."),
+    (9, None, "'Make us two coffees.' Coffee is masculine and never changes, so 'two' takes its masculine form. 'Make' is the casual command."),
+    (10, None, "'This is Viktoria Sergeyevna.' He gives her first name and patronymic, the formal way. There's no 'is'."),
+    (11, None, "'The art director of our restaurant.' 'Art director' is a hyphenated compound. 'Of our restaurant' takes an 'ogo' and an 'a'."),
+    (12, None, "'Good afternoon.' The greeting means 'kind day'. Vika keeps it short and formal."),
 ]

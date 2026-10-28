@@ -14,9 +14,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Макс | Мы много работали утром. | We worked a lot in the morning. | new | new |
 | 3 | Макс | Давайте немного отдохнем. | Let's rest a bit. | new | new |
 | 4 | Сеня | Привет, повара! | Hello, cooks! | new | new |
-| 5 | Федя | Что встали, инвалиды? | What are you standing around for, cripples? | #233: Что встали, инвалиды | verbatim |
-| 6 | Федя | Не видите? | Can't you see? | #234: Не видите | verbatim |
-| 7 | Сеня | Профессионалы пришли. | The pros are here. | #235: Профессионалы пришли | verbatim |
+| 5 | Федя | Что встали, инвалиды? | What are you standing around for, cripples? | #233 00:14:27: Что встали, инвалиды | verbatim |
+| 6 | Федя | Не видите? | Can't you see? | #234 00:14:33: Не видите | verbatim |
+| 7 | Сеня | Профессионалы пришли. | The pros are here. | #235 00:14:34: Профессионалы пришли | verbatim |
 | 8 | Макс | Вы не профессионалы. | You are not professionals. | new | new |
 | 9 | Макс | Вы просто много говорите. | You just talk a lot. | new | new |
 | 10 | Федя | Мы говорим правду. | We are telling the truth. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am very tired today.' Max complains about feeling very tired today.
-- 'We worked a lot in the morning.' Max mentions that they worked incredibly hard all morning.
-- 'Let's rest a bit.' Max suggests taking a break. You can hear the word for 'a bit'.
-- 'Hello, cooks!' Senya cheerfully greets the cooks in the kitchen.
-- 'What are you standing around for, cripples?' Fedya uses a harsh word for people who are standing and doing nothing. Notice that 'are' is missing in Russian.
-- 'Can't you see?' Fedya questions if they can see who just arrived.
-- 'The pros are here.' Senya sarcastically announces the arrival of the kitchen professionals.
-- 'You are not professionals.' Max retorts that they are not real professionals.
-- 'You just talk a lot.' Max accuses the two of them of just talking a lot.
-- 'We are telling the truth.' Fedya defends them. In Russian, it's just 'We speak truth'.
-- 'Go to work!' Senya orders the cooks to get back to work immediately.
-- 'Okay, we are going.' Max gives up and heads back to his station. The word 'are' is not translated.
+- 'I'm very tired today.' 'Tired' is a short masculine form, since Max is a man. 'Today' sits at the end.
+- 'We worked a lot this morning.' 'A lot' is a single small word. 'In the morning' has an 'om' ending.
+- 'Let's rest a bit.' 'A bit' is literally 'not much'. 'Let's' is made from 'davayte' and a 'we' form.
+- 'Hello, cooks!' The plural of 'cook' ends in a stressed 'a'. It's an odd plural, but a common one.
+- 'Why are you standing around, cripples?' Literally, 'what did you get up for'. 'Cripples' is Barinov's pet insult, borrowed by the cooks.
+- 'Can't you see?' It is only 'don't you see', with the polite plural. Fedya is mocking.
+- 'The pros have arrived.' 'Professionals' is a borrowed word, in the plural. 'Arrived' has the plural ending 'li'.
+- 'You aren't professionals.' The 'not' goes in front of the noun. There's no 'are'.
+- 'You just talk a lot.' 'Just' and 'a lot' flank the verb. 'Talk' ends in 'ite', the polite plural.
+- 'We're telling the truth.' 'We tell' ends in 'im'. 'Truth' takes a 'u' ending.
+- 'Go and work!' 'Go' is a polite plural command. The next word is the plain form 'to work'.
+- 'Okay, we're going.' 'We go' ends in 'yom'. The first word is a quick 'okay'.

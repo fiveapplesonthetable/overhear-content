@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'artyom': 'Артём', 'barinov': 'Шеф', 'fedya': 'Федя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Chef Viktor is angry because Senya and Fedya got fired. He reassigns their names to the remaining cooks in the kitchen. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around New names line by line and unpack how the Russian works."
+INTRO = "In the kitchen, Senya and Fedya are gone, and Barinov refuses to accept it. He calls the cooks who are left by the old names, whether they like it or not. We'll hear it in Russian first."
+OPENER = "Now let's take it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The cooks confusedly accept their new identities to avoid making the Chef even angrier. Next time you watch the episode, listen for the Russian expressions for 'sauce' and 'ready' — you will catch every word right away. See you next time!"
-CLOSING = ('fedya', 'До свидания.')
+OUTRO = "Names are something you have to earn in this kitchen. When you hear a Russian say 'ya' and then a name, with no 'am' in between, that is the plain way to introduce yourself. See you next time!"
+CLOSING = ('fedya', 'До свидания!')
 STORY = [
     ('barinov', 'Сеня, соус готов?', 'Senya, is the sauce ready?', [(16, 'Сеня, соус готов?')], ''),
     ('artyom', 'А я не Сеня.', 'I am not Senya.', [(17, 'А я не Сеня, я Артем.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('fedya', 'Да, шеф.', 'Yes, Chef.', [(26, 'Да, шеф.')], ''),
 ]
 WALK = [
-    (0, None, "'Senya, is the sauce ready?' Barinov barks an order about the sauce, aggressively addressing his cook by the wrong name."),
-    (1, None, "'I am not Senya.' Artyom tentatively corrects his boss, dropping the verb 'to be' as is standard in Russian."),
-    (2, None, "'I am Artyom.' Artyom states his actual name simply and directly, omitting the present-tense verb."),
-    (3, None, "'Senya got fired.' Barinov dismisses the correction, bluntly stating that the real Senya was just fired."),
-    (4, None, "'I do not care who you are.' Barinov aggressively declares his indifference to his employee's true identity."),
-    (5, None, "'Today you are Senya.' Barinov forces the new name upon him for the day, connecting the words directly without a verb."),
-    (6, None, "'Fedya would have done it fast.' Barinov complains about the slow pace by comparing another cook to the recently fired Fedya."),
-    (7, None, "'I am Fedya too, Chef.' Fedya chimes in to say that he is also named Fedya, pointing out the coincidence."),
-    (8, None, "'No, you are not Fedya.' Barinov instantly strips him of his real name, aggressively denying his identity."),
-    (9, None, "'You have to earn the name Fedya.' Barinov absurdly elevates the name to a title of honor that must be earned through hard work."),
-    (10, None, "'Now you are Artyom.' Barinov reassigns the name Artyom to him, treating his staff completely interchangeably."),
-    (11, None, "'Yes, Chef.' — Built around the key proper name meaning 'chef, boss'. Now listen to the whole scene again."),
+    (0, None, "'Senya, is the sauce ready?' 'Ready' is a short masculine form, since the word for sauce is masculine. 'Sauce' is borrowed from French."),
+    (1, None, "'But I'm not Senya.' The small 'a' means 'but' and contrasts the two ideas. There's no 'am', only 'I not Senya'."),
+    (2, None, "'I'm Artyom.' Just 'I Artyom', with no word for 'am'. It's the plain way to say your name."),
+    (3, None, "'Senya was fired.' The name changes its ending to 'yu' because Senya is the one affected. 'Fired' has the plural 'li', for an unnamed 'they'."),
+    (4, None, "'I don't care who you are.' The phrase is literally 'to me, to spit'. It's a rude, informal way to say you don't care."),
+    (5, None, "'Today you're Senya.' No 'are' again. 'Today' sits in front of 'you', and the name stays as it is."),
+    (6, None, "'Fedya would have done that quickly.' The small word 'by' after the name is what makes it 'would'. 'Did' is the finished kind, ending in 'l'."),
+    (7, None, "'I'm Fedya too, Chef.' 'Too' goes after 'I'. Again there's no 'am', just a name."),
+    (8, None, "'No, you're not Fedya.' The 'not' stands right before the name. It's as blunt as it sounds."),
+    (9, None, "'You have to earn the name Fedya.' The Russian puts the verb first, 'earn', and 'necessary' at the end, which gives the line weight. 'Name' ends in 'ya', and is neuter."),
+    (10, None, "'Now you're Artyom.' 'Now' stands at the start. The line is just 'now you Artyom'."),
+    (11, None, "'Yes, Chef.' Two words, and no more is needed. It's the classic reply of a cook to a chef."),
 ]

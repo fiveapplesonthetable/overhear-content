@@ -10,34 +10,34 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Мы приготовили яйцо по-парижски. | We prepared a Parisian-style egg. | #248: мы вместе с вами приготовили<br>#248: яйцом по-парижски | verbatim |
-| 2 | Шеф | Ждем вас в ресторане Клод Моне! | We wait for you at the Claude Monet restaurant! | #250: вы можете попробовать в ресторане Клод Моне | verbatim |
-| 3 | Режиссёр | Не снято! Вы не назвали спонсора! | Don't cut! You didn't name the sponsor! | #255: Не снято<br>#256: вы ни разу не упомянули нашего спонсора | verbatim |
-| 4 | Режиссёр | Вы уволены! Вон отсюда! | You're fired! Get out of here! | #258: Уволим<br>#259: Вон отсюда | verbatim |
-| 5 | Вика | Как дела, Виктор Петрович? | How are things, Viktor Petrovich? | #263: как дела<br>#264: Виктор Петрович | verbatim |
-| 6 | Вика | Завтра будет аншлаг. | Tomorrow it will be packed. | #265: Завтра будет аншлаг | verbatim |
-| 7 | Вика | Даже Бьянка приедет. | Even Bianca will come. | #265: Даже Бьянка приедет | verbatim |
-| 8 | Шеф | Кто такая Бьянка? | Who is Bianca? | #266: Кто | verbatim |
-| 9 | Вика | Ее все знают. | Everyone knows her. | #267: ее же все знают | verbatim |
-| 10 | Шеф | У меня есть еще один козырь. | I have another ace up my sleeve. | #272: У меня есть еще один козырной душ | verbatim |
-| 11 | Шеф | Забронируй столик для Прохора Михайлова. | Book a table for Prokhor Mikhailov. | #273: Забронируй столик | verbatim |
-| 12 | Вика | Олигарх будет ужинать у нас? | The oligarch will dine with us? | #274: Олигарх Прохора Михайлов будет ужинать у нас | verbatim |
-| 13 | Шеф | Будет. | He will. | #275: Будет | verbatim |
-| 14 | Шеф | Его точно все знают. | Everyone definitely knows him. | #275: его-то точно все знают | verbatim |
+| 1 | Шеф | Мы приготовили яйцо по-парижски. | We prepared a Parisian-style egg. | #248 00:16:09: мы вместе с вами приготовили<br>#248 00:16:09: яйцом по-парижски | verbatim |
+| 2 | Шеф | Ждем вас в ресторане Клод Моне! | We wait for you at the Claude Monet restaurant! | #250 00:16:18: вы можете попробовать в ресторане Клод Моне | verbatim |
+| 3 | Режиссёр | Не снято! Вы не назвали спонсора! | Don't cut! You didn't name the sponsor! | #255 00:16:40: Не снято<br>#256 00:16:43: вы ни разу не упомянули нашего спонсора | verbatim |
+| 4 | Режиссёр | Вы уволены! Вон отсюда! | You're fired! Get out of here! | #258 00:16:50: Уволим<br>#259 00:16:52: Вон отсюда | verbatim |
+| 5 | Вика | Как дела, Виктор Петрович? | How are things, Viktor Petrovich? | #263 00:17:06: как дела<br>#264 00:17:08: Виктор Петрович | verbatim |
+| 6 | Вика | Завтра будет аншлаг. | Tomorrow it will be packed. | #265 00:17:11: Завтра будет аншлаг | verbatim |
+| 7 | Вика | Даже Бьянка приедет. | Even Bianca will come. | #265 00:17:11: Даже Бьянка приедет | verbatim |
+| 8 | Шеф | Кто такая Бьянка? | Who is Bianca? | #266 00:17:14: Кто | verbatim |
+| 9 | Вика | Ее все знают. | Everyone knows her. | #267 00:17:15: ее же все знают | verbatim |
+| 10 | Шеф | У меня есть еще один козырь. | I have another ace up my sleeve. | #272 00:17:29: У меня есть еще один козырной душ | verbatim |
+| 11 | Шеф | Забронируй столик для Прохора Михайлова. | Book a table for Prokhor Mikhailov. | #273 00:17:32: Забронируй столик | verbatim |
+| 12 | Вика | Олигарх будет ужинать у нас? | The oligarch will dine with us? | #274 00:17:35: Олигарх Прохора Михайлов будет ужинать у нас | verbatim |
+| 13 | Шеф | Будет. | He will. | #275 00:17:38: Будет | verbatim |
+| 14 | Шеф | Его точно все знают. | Everyone definitely knows him. | #275 00:17:38: его-то точно все знают | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We prepared a Parisian-style egg.' Barinov announces to the camera that they prepared the special egg.
-- 'We wait for you at the Claude Monet restaurant!' The chef enthusiastically invites everyone. We skip 'the' in Russian.
-- 'Don't cut! You didn't name the sponsor!' The director yells that he forgot to name their sponsor.
-- 'You're fired! Get out of here!' The director kicks him out of the studio. The word for 'are' is skipped.
-- 'How are things, Viktor Petrovich?' Later, Vika greets the Chef at the restaurant.
-- 'Tomorrow it will be packed.' The word for 'packed' comes from German and means a full house. We use 'it' in English, but Russian relies on the context.
-- 'Even Bianca will come.' Vika excitedly mentions that even Bianca is coming to the party.
-- 'Who is Bianca?' The Chef is not impressed. He adds a word to mean 'what kind of person'.
-- 'Everyone knows her.' Vika defends her VIP guest. The object 'her' comes first in the sentence.
-- 'I have another ace up my sleeve.' Barinov claims he has another trick up his sleeve.
-- 'Book a table for Prokhor Mikhailov.' Barinov orders her to book a table for the wealthy oligarch.
-- 'The oligarch will dine with us?' Vika is shocked. To dine means 'to have supper' in Russian.
-- 'He will.' Barinov confirms the oligarch will definitely attend.
-- 'Everyone definitely knows him.' He takes a jab at Bianca's fame. The word 'him' is placed at the front.
+- 'We prepared a Parisian-style egg.' 'Parisian-style' is made with 'po' and a describing ending, 'po-parizhski'. 'We prepared' ends in 'li'.
+- 'We're waiting for you at Claude Monet!' 'We wait' ends in 'yom', and 'for you' takes the 'a' form. 'At the restaurant' needs an 'e'.
+- 'Cut! You didn't name the sponsor!' 'Not filmed' is a short neuter form, since a take is neuter. 'Sponsor' is borrowed.
+- 'You're fired! Get out of here!' 'Fired' is a short plural form, with no 'are'. 'Von' is a one-word shove, 'out'.
+- 'How are you, Viktor Petrovich?' 'How are matters' is the standard way to ask. Vika uses his name and patronymic.
+- 'Tomorrow it'll be a full house.' 'Anshlag' is a borrowed German word used in theatres. 'It will be' is a single word.
+- 'Even Bianca's coming.' 'Even' sits in front of the name. 'Will arrive' is a finished action, for arriving by vehicle.
+- 'Who's Bianca?' The Russian is 'who such Bianca', and 'such' is feminine. It makes the question sound dismissive.
+- 'Everyone knows her.' 'Her' goes first, and 'everyone knows' follows. That puts the stress on her.
+- 'I've got another ace up my sleeve.' 'Trump card' is a card-game term. 'Another' is 'one more'.
+- 'Book a table for the oligarch.' 'Book' is borrowed from French, and the 'irovat' ending makes it a Russian action word. 'Table' is a little table.
+- 'Will the oligarch dine with us?' 'Oligarch' is a borrowed word. 'Dine' is built from the word for supper.
+- 'He will.' Russians say yes by repeating the verb. Here the single word 'will be' is the answer.
+- 'Everyone definitely knows him.' 'Him' comes first, as 'ego'. 'Definitely' is a handy one-word adverb.

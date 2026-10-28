@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Max and the other cooks are taking a quick break in the kitchen. They are just standing around chatting when Senya and Fedya walk in and mock them for being lazy. Let's listen."
-OPENER = "Now let's go back through the exchange around The Cripples line by line and unpack how the Russian works."
+INTRO = "In the kitchen, Max and some of the cooks are having a quick rest after a long morning when two familiar faces walk in. Senya and Fedya are back, and they have something to say about the people who stayed. We'll hear it in Russian first."
+OPENER = "Now let's walk through it one line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The kitchen is always a battlefield. Next time you watch the episode, listen for the Russian expressions for 'very' and 'to get tired' — you will catch every word right away. See you next time!"
-CLOSING = ('max', 'До встречи!')
+OUTRO = "The old pair are back, as cheeky as ever. The word the cooks throw at each other, 'invalidy', is Barinov's favourite insult, and it has become the kitchen's password. See you next time!"
+CLOSING = ('max', 'До свидания!')
 STORY = [
     ('max', 'Я очень устал сегодня.', 'I am very tired today.', [], ''),
     ('max', 'Мы много работали утром.', 'We worked a lot in the morning.', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Хорошо, мы идем.', 'Okay, we are going.', [], ''),
 ]
 WALK = [
-    (0, None, "'I am very tired today.' Max complains about feeling very tired today."),
-    (1, None, "'We worked a lot in the morning.' Max mentions that they worked incredibly hard all morning."),
-    (2, None, "'Let's rest a bit.' Max suggests taking a break. You can hear the word for 'a bit'."),
-    (3, None, "'Hello, cooks!' Senya cheerfully greets the cooks in the kitchen."),
-    (4, None, "'What are you standing around for, cripples?' Fedya uses a harsh word for people who are standing and doing nothing. Notice that 'are' is missing in Russian."),
-    (5, None, "'Can't you see?' Fedya questions if they can see who just arrived."),
-    (6, None, "'The pros are here.' Senya sarcastically announces the arrival of the kitchen professionals."),
-    (7, None, "'You are not professionals.' Max retorts that they are not real professionals."),
-    (8, None, "'You just talk a lot.' Max accuses the two of them of just talking a lot."),
-    (9, None, "'We are telling the truth.' Fedya defends them. In Russian, it's just 'We speak truth'."),
-    (10, None, "'Go to work!' Senya orders the cooks to get back to work immediately."),
-    (11, None, "'Okay, we are going.' Max gives up and heads back to his station. The word 'are' is not translated."),
+    (0, None, "'I'm very tired today.' 'Tired' is a short masculine form, since Max is a man. 'Today' sits at the end."),
+    (1, None, "'We worked a lot this morning.' 'A lot' is a single small word. 'In the morning' has an 'om' ending."),
+    (2, None, "'Let's rest a bit.' 'A bit' is literally 'not much'. 'Let's' is made from 'davayte' and a 'we' form."),
+    (3, None, "'Hello, cooks!' The plural of 'cook' ends in a stressed 'a'. It's an odd plural, but a common one."),
+    (4, None, "'Why are you standing around, cripples?' Literally, 'what did you get up for'. 'Cripples' is Barinov's pet insult, borrowed by the cooks."),
+    (5, None, "'Can't you see?' It is only 'don't you see', with the polite plural. Fedya is mocking."),
+    (6, None, "'The pros have arrived.' 'Professionals' is a borrowed word, in the plural. 'Arrived' has the plural ending 'li'."),
+    (7, None, "'You aren't professionals.' The 'not' goes in front of the noun. There's no 'are'."),
+    (8, None, "'You just talk a lot.' 'Just' and 'a lot' flank the verb. 'Talk' ends in 'ite', the polite plural."),
+    (9, None, "'We're telling the truth.' 'We tell' ends in 'im'. 'Truth' takes a 'u' ending."),
+    (10, None, "'Go and work!' 'Go' is a polite plural command. The next word is the plain form 'to work'."),
+    (11, None, "'Okay, we're going.' 'We go' ends in 'yom'. The first word is a quick 'okay'."),
 ]

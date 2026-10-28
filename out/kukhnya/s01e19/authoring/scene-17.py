@@ -10,11 +10,11 @@ PAIR = 'ru-en'
 LABELS = {'kristina': 'Кристина', 'max': 'Макс', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.19'
 SOURCE_FILE = 'sources/kukhnya/s01/e19.ru.dual.srt'
-INTRO = "Dima's wife, Kristina, returns early from Monaco. She storms into the restaurant and accuses Dima of having an affair with Vika. Max bravely steps in to defend his boss."
-OPENER = "Now let's go back through the exchange around My Girlfriend line by line and unpack how the Russian works."
+INTRO = "Kristina has come home early from Monaco, and she isn't happy. She marches into the restaurant and demands to know who a certain woman is. Max steps in with a surprising claim. We'll hear it in Russian first."
+OPENER = "Let's replay it a line at a time."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max saved the day, and maybe he even meant what he said. That's all for this episode. Goodbye! Next time you watch the episode, listen for the Russian expressions for 'here' and 'to do' — you will catch every word right away. See you next time!"
-CLOSING = ('max', 'До встречи!')
+OUTRO = "Max has made a very public claim about Vika, and the owner and his wife head off for a holiday. As you listen again, notice 'izvinit'sya': in Russian you apologise by 'excusing yourself'. See you next time!"
+CLOSING = ('nagiyev', 'До свидания!')
 STORY = [
     ('nagiyev', 'Что ты здесь делаешь?', 'What are you doing here?', [(354, 'ты что здесь делаешь')], ''),
     ('nagiyev', 'Ты должна быть в Монако!', 'You are supposed to be in Monaco!', [(355, 'Ты в Монако должна')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('nagiyev', 'Завтра полетим отдыхать, хорошо?', 'Tomorrow we will fly to rest, okay?', [(368, 'в Анага полетим')], ''),
 ]
 WALK = [
-    (0, None, "'What are you doing here?' Dima is caught by surprise. We use 'are' in English, but Russian skips it."),
-    (1, None, "'You are supposed to be in Monaco!' The word for 'supposed' or 'must' has a matching ending, because Dima is talking to a woman."),
-    (2, None, "'But I came back!' Kristina announces her unexpected return from the trip."),
-    (3, None, "'You sent me there on purpose.' Kristina accuses him of sending her away on purpose to cheat."),
-    (4, None, "'Who is this woman, Dima?' She demands to know the truth. The word 'is' is not translated."),
-    (5, None, "'I don't know anything.' Dima plays dumb. Notice the double negative in Russian: 'nothing not know'."),
-    (6, None, "'Sasha told me everything.' At this point, Sasha is the waitress who gossips. The object 'me' comes first."),
-    (7, None, "'She works here and sees everything.' Kristina points out that Sasha works here and sees everything."),
-    (8, None, "'Can I say something?' Max steps in to save Vika. Literally, 'Is it possible I will say?'."),
-    (9, None, "'Victoria Sergeyevna is my girlfriend.' Max uses Vika's formal name to show respect. The word for 'is' is replaced by a dash in writing."),
-    (10, None, "'We have a serious relationship.' Literally, 'By us with her are serious relations'."),
-    (11, None, "'Let your wife apologize to my girlfriend!' Max demands respect. The word for 'let' is used to make a strong suggestion or command."),
-    (12, None, "'Let's go home, my dear.' Nagiyev gently suggests to his wife that they go home."),
-    (13, None, "'Tomorrow we will fly to rest, okay?' Nagiyev promises they will fly out for a relaxing vacation tomorrow."),
+    (0, None, "'What are you doing here?' The casual 'you' gives 'esh'. 'What' goes first."),
+    (1, None, "'You're supposed to be in Monaco!' 'Must' ends in 'a' because Kristina is a woman. 'In Monaco' leaves 'Monaco' unchanged."),
+    (2, None, "'But I came back!' 'Came back' ends in 'las', for a woman. The opening 'a' means 'but'."),
+    (3, None, "'You sent me there on purpose.' 'Sent' ends in 'l' for the masculine speaker. 'On purpose' is a single word."),
+    (4, None, "'Who is this woman?' 'This' ends in 'a' to match the feminine noun. There's no 'is'."),
+    (5, None, "'I don't know anything.' 'Nothing' and 'not' are both there. 'I know' ends in 'u'."),
+    (6, None, "'Sasha told me everything.' 'To me' comes first for emphasis. 'Told' ends in 'a' for a woman."),
+    (7, None, "'She works here and sees everything.' 'Works' and 'sees' both end in 't' for 'she'. 'Everything' is the object of the second."),
+    (8, None, "'May I say something?' The pattern is 'possible I will say'. 'Say' is a finished action."),
+    (9, None, "'Viktoria Sergeyevna is my girlfriend.' The dash takes the place of 'is'. 'My girlfriend' is feminine."),
+    (10, None, "'We have a serious relationship.' 'At us with her' is a Russian way of saying 'between us'. 'Relationship' is plural."),
+    (11, None, "'Let your wife apologise to my girlfriend!' 'Apologise' means 'excuse oneself', which is why it ends in 'sya'. 'Before' is the small word used here for 'to'."),
+    (12, None, "'Let's go home, my dear.' 'Let's go' is the 'we' form of going on foot. 'Dear' is a word that means 'own' or 'native'."),
+    (13, None, "'Tomorrow we'll fly off to rest, okay?' 'We'll fly' is the 'we' form of the word for flying. 'Okay?' is a rising word, 'khorosho'."),
 ]
