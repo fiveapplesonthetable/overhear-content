@@ -10,10 +10,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Дмитрий, сейчас ты попробуешь шедевр! | Dmitry, right now you will taste a masterpiece! | #192: Сейчас попробуешь произведение искусства | verbatim |
+| 1 | Шеф | Дмитрий, сейчас ты попробуешь шедевр! | Dmitry, right now you will taste a masterpiece! | #192 00:12:33: Сейчас попробуешь произведение искусства | verbatim |
 | 2 | Нагиев | Виктор, ты снова хвалишь себя? | Viktor, are you praising yourself again? | new | new |
-| 3 | Шеф | Это настоящее кулинарное произведение искусства! | This is a real culinary work of art! | #192: произведение искусства | verbatim |
-| 4 | Нагиев | Мне не терпится отведать твоего соуса. | I cannot wait to taste your sauce. | #195: не терпится отведать | verbatim |
+| 3 | Шеф | Это настоящее кулинарное произведение искусства! | This is a real culinary work of art! | #192 00:12:33: произведение искусства | verbatim |
+| 4 | Нагиев | Мне не терпится отведать твоего соуса. | I cannot wait to taste your sauce. | #195 00:12:39: не терпится отведать | verbatim |
 | 5 | Шеф | Я готовил этот соус всё утро. | I was preparing this sauce all morning. | new | new |
 | 6 | Нагиев | Надеюсь, ты положил правильные специи. | I hope you put the right spices. | new | new |
 | 7 | Шеф | Там только самые свежие ингредиенты. | There are only the freshest ingredients there. | new | new |
@@ -26,7 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry, right now you will taste a masterpiece!' Barinov boasts confidently about his dish. He calls Dmitry by his first name, showing their close relationship.
-- 'This is a real culinary work of art!' He is incredibly proud of the sauce. The Russian phrase for "work of art" literally means a piece of production.
-- 'I cannot wait to taste your sauce.' Nagiyev is eager to try it. He says literally "to me it does not endure", which is a common way to say you cannot wait.
-- 'First try the sauce with bread.' Barinov tells him exactly how to eat it. The chef wants Dmitry to appreciate the pure flavor before anything else.
+- 'Dmitry, right now you will taste a masterpiece!' 'Masterpiece' comes from French. 'Will taste' is a one-word future.
+- 'Viktor, are you praising yourself again?' 'Praise' is followed by 'yourself'. 'Again' is a short word.
+- 'This is a real culinary work of art!' 'Work' is built on 'produce'. 'Of art' ends in 'a'.
+- 'I cannot wait to taste your sauce.' Russian says 'to me it is not endured', which means 'I can't wait'. 'Taste' is a rather literary word.
+- 'I was preparing this sauce all morning.' 'All morning' has no word for 'during'. 'Was preparing' is the long kind of past.
+- 'I hope you put the right spices.' 'Spices' is a plural. 'Put in' is the finished form.
+- 'There are only the freshest ingredients there.' 'Freshest' is 'most fresh'. 'There' is a short word.
+- 'The aroma is indeed very pleasant and subtle.' 'Subtle' is 'thin'. 'Aroma' is also 'smell'.
+- 'One piece of meat will change everything.' 'Little piece' has the diminutive 'ochek'. 'Of meat' ends in 'a'.
+- 'Do not exaggerate, give me a fork.' 'Don't exaggerate' is 'not' plus a command. 'Give' is a short word.
+- 'First try the sauce with bread.' 'With bread' uses 'om'. 'First' is made of 'from the start'.
+- 'Alright, let us begin this tasting.' 'Tasting' is borrowed. 'Let us begin' is the form that ends in 'em'.
+- 'Bon appetit, my dear owner!' The Russian phrase is literally 'pleasant appetite'. 'Dear' also means 'expensive'.

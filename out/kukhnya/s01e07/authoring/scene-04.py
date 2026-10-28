@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = 'In the restaurant kitchen, prankster cook Fedya catches his buddy Senya secretly stealing a bottle of culinary vinegar. Senya invents hilarious excuses about starving children, and the two rush to prepare meat before Chef Barinov returns from the morning market. Listen to their funny dialogue in Russian first, and then we will examine every line.'
-OPENER = "Let's examine this kitchen conversation step by step."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "That concludes our fourth scene. In Kukhnya, petty kitchen mischief is always cut short by the fear of the head chef's wrath. See you next time!"
+INTRO = "The chef is out, so two of his cooks have a moment to themselves. Fedya catches Senya with a bottle of vinegar that doesn't belong to him, and Senya's excuses get wilder. It's in Russian first, and it should make you smile."
+OPENER = "Let's go through the excuses. Senya has a new one in every line."
+TRANSITION = 'Here is the whole theft once more.'
+OUTRO = "The scene ends with 'I'm working and not stealing anymore', which is a promise nobody believes. Meanwhile you've learned 'to steal', 'to take' and 'to tear off'. See you next time."
 CLOSING = ('fedya', 'До встречи!')
 STORY = [
     ('fedya', 'Ты что, совсем с ума сошёл?', 'Have you completely lost your mind?', [(24, 'Ты что, совсем что ли уже')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('senya', 'Всё, я работаю и больше не ворую!', 'That is all, I am working and not stealing anymore!', [(33, 'Мужчины')], ''),
 ]
 WALK = [
-    (0, None, "'Have you completely lost your mind?' Fedya is absolutely baffled by his friend's reckless behavior."),
-    (1, None, "'Why are you stealing our vinegar?' He demands to know why Senya is taking basic ingredients."),
-    (2, None, "'Its expiration date will end soon!' Senya comes up with a weak excuse about the date on the bottle."),
-    (3, None, "'And at home my children want to eat.' He throws in a dramatic plea about his hungry family."),
-    (4, None, "'Of course, the children at home really ask for vinegar!' Fedya sarcastically mocks the idea of kids begging for sour liquid."),
-    (5, None, "'I just took a little for salad.' Senya tries to downplay the theft as a tiny, harmless amount."),
-    (6, None, "'The chef will see and tear off your hands!' The boss will lose his temper if he catches them."),
-    (7, None, "'Fedya, don't tell the chef anything, please!' He desperately pleads with his coworker to keep quiet."),
-    (8, None, "'The chef is just leaving for the market now.' Fedya reveals they have a lucky break since the boss is out."),
-    (9, None, "'Great, that means we have a little time.' Senya breathes a sigh of relief at the temporary reprieve."),
-    (10, None, "'The chef will return, and everything must be ready!' They need to hustle before the tyrant returns from shopping."),
-    (11, None, "'Let's quickly start cutting the meat together.' He suggests they team up and get to work on the prep."),
-    (12, None, "'Put the bottle back in place and take a knife.' Fedya orders him to drop the loot and grab a tool."),
-    (13, None, "'That is all, I am working and not stealing anymore!' Senya quickly complies, swearing off his sticky fingers for now."),
+    (0, None, "'Have you completely lost your mind?' The phrase literally says 'went off the mind'. It's a very common way to ask 'are you crazy?'."),
+    (1, None, "'Why are you stealing our vinegar?' 'Steal' comes from 'thief'. 'Our vinegar' is the thing being stolen, and Russian shows it with its ending."),
+    (2, None, "'Its expiration date will end soon!' 'Term' is also 'deadline', and 'term of validity' is the best-before date. 'At it' stands for 'its'."),
+    (3, None, "'And at home my children want to eat.' 'to eat' also means 'there is', and the context tells you which. 'At home' is one word, while 'home' as a direction is another."),
+    (4, None, "'Of course, the children at home really ask for vinegar!' Fedya is sarcastic and turns Senya's excuse upside-down. 'Ask for' is followed directly by 'vinegar'."),
+    (5, None, "'I just took a little for salad.' 'Took' is the finished kind of the word, so it means 'I took it'. 'A little' is one word."),
+    (6, None, "'The chef will see and tear off your hands!' The idiom 'tear off hands' is a common Russian threat. It doesn't mean it literally."),
+    (7, None, "'Fedya, don't tell the chef anything, please!' 'To the chef' ends in 'u'. 'Anything' has its 'not' as usual."),
+    (8, None, "'The chef is just leaving for the market now.' 'Just' is a very useful pair: 'kak raz', meaning 'exactly now'. 'Leaves' begins with a piece that means 'away'."),
+    (9, None, "'Great, that means we have a little time.' 'That means' is one word in Russian. 'We have' is 'at us there is', and 'time' takes the 'of' form."),
+    (10, None, "'The chef will return, and everything must be ready!' 'Return' ends in 'sya', so it is 'return himself'. 'Must be ready' is one neuter phrase, because 'everything' is neuter."),
+    (11, None, "'Let's quickly start cutting the meat together.' 'Let's start' ends in 'em', for 'we'. 'Cut' is a plain word that you'll hear in every kitchen."),
+    (12, None, "'Put the bottle back in its place and take a knife.' 'Put' comes from 'stand', since bottles stand. 'Take' is the command from 'to take'."),
+    (13, None, "'That is all, I am working and not stealing anymore!' 'That's all' opens as a flat 'everything'. 'No longer' is two small words."),
 ]

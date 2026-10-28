@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "Two weeks after leaving Voronezh, Max arrives early at the Claude Monet restaurant. Chatting with bartender Kostya before the morning rush, Max reflects on working at Moscow's most prestigious culinary destination and boasts about living right in the city center without paying a penny. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Max and Kostya's morning chat line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
+INTRO = "This is Kukhnya, which means The Kitchen, a Russian comedy set in Claude Monet, a smart Moscow restaurant where Chef Barinov shouts and the cooks try to keep their jobs. Episode seven opens with Max, a young cook from Voronezh who has been in Moscow for two weeks, chatting with Kostya, the bartender. Max is hiding something about where he lives. You'll hear it in Russian first, and it's fine to miss words."
+OPENER = "Now slowly. It's a friendly chat, and the sentences are short enough to follow."
+TRANSITION = 'And the whole chat once more.'
+OUTRO = "Max says he doesn't pay a single kopeck, and Kostya doesn't believe him, which is how a secret gets started. You can already say how long you've lived somewhere and where you're from. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Я живу в Москве уже две недели.', 'I have been living in Moscow for two weeks already.', [(1, 'Две недели, как я уехал из Воронежа')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'У меня есть один секретный план.', 'I have one secret plan.', [], ''),
 ]
 WALK = [
-    (0, None, "'I have been living in Moscow for two weeks already.' Max points out how long he has been in the capital."),
-    (1, None, "'Have you already gotten used to life in Moscow?' Kostya wonders if his friend has settled into the rhythm of the big city."),
-    (2, None, "'I came here from Voronezh for a dream.' He speaks of his arrival as a grand pursuit of a life goal."),
-    (3, None, "'And now you work in the best restaurant.' The bartender reminds him that he has already landed a job at the top spot."),
-    (4, None, "'Claude Monet restaurant is the most famous in the city.' Claude Monet is indeed widely known, and Max makes sure to emphasize its prestige."),
-    (5, None, "'Here there are very strict rules and an expensive menu.' Working there comes with intense pressure and high prices, as Kostya notes."),
-    (6, None, "'But for me this is wonderful experience.' For the ambitious young cook, the strict environment is a valuable learning opportunity."),
-    (7, None, "'And where did you find yourself housing?' Kostya shifts the topic to the reality of finding an apartment."),
-    (8, None, "'I live right in the center of the city.' He proudly announces that he resides right in the heart of Moscow."),
-    (9, None, "'Apartments in the center cost huge money.' Kostya says this because real estate in the city center is incredibly expensive."),
-    (10, None, "'And I do not pay a single kopeck!' Max boasts about living rent-free, not spending a single coin."),
-    (11, None, "'That sounds very strange and suspicious.' This claim sounds completely unbelievable to the seasoned bartender."),
-    (12, None, "'I have one secret plan.' A mysterious scheme is keeping Max off the streets, but he keeps it vague."),
+    (0, None, "'I have been living in Moscow for two weeks already.' Russian has no 'have been living'. It says 'I live already two weeks', and the plain present covers it. 'Two weeks' uses the feminine 'two', since 'week' is a she-word."),
+    (1, None, "'Have you already gotten used to life in Moscow?' 'Get used to' is followed by a small 'to' word, so it's 'used to to life'. 'In Moscow' puts an 'e' on the city."),
+    (2, None, "'I came here from Voronezh for a dream.' 'Came' means arriving by some vehicle, such as a train. 'For a dream' uses the Russian 'za', which here is 'in pursuit of'."),
+    (3, None, "'And now you work in the best restaurant.' 'The best' is a short word that ends in 'em' here, because it comes after 'in'. 'Now' is 'at this moment'."),
+    (4, None, "'Claude Monet restaurant is the most famous in the city.' 'Most' in front of a describing word makes 'the most'. A dash replaces 'is', as Russian leaves it out."),
+    (5, None, "'Here there are very strict rules and an expensive menu.' 'Menu' is borrowed and doesn't change. 'Expensive' ends in 'oe', since 'menu' counts as neuter in Russian."),
+    (6, None, "'But for me this is a wonderful experience.' 'Experience' is also 'experiment'. 'For me' is two short words."),
+    (7, None, "'And where did you find yourself housing?' The extra 'yourself' is a Russian habit that makes it friendlier, like 'for yourself'. 'Housing' is built on 'to live'."),
+    (8, None, "'I live right in the center of the city.' 'The very' and 'the most' are the same word, which here means 'right in'. 'Of the city' is shown by the ending."),
+    (9, None, "'Apartments in the center cost huge money.' Russian says apartments 'stand' a lot, with the word that also means 'to stand'. 'Huge money' puts the money in the 'of' form."),
+    (10, None, "'And I do not pay a single kopeck!' 'Not a single' is a neat chunk, made of 'not even' and 'one'. A kopeck is one hundredth of a rouble."),
+    (11, None, "'That sounds very strange and suspicious.' 'Sounds' comes from 'sound'. 'Suspicious' comes from 'suspect'."),
+    (12, None, "'I have one secret plan.' Here Russian does use 'there is', for 'I have a particular thing'. 'Secret' looks like English with a different ending."),
 ]

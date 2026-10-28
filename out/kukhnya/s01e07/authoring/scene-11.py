@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, restaurant owner Dmitry Nagiyev drops by to taste Chef Barinov's much-praised signature sauce. Before taking a bite, Dmitry accidentally drops his bread and rushes off to an urgent meeting, promising to return for dinner. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the polite host formulas, culinary vocabulary, and time expressions."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Nagiyev's sudden departure gives the kitchen staff a brief reprieve before the evening dinner rush. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'big' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = "Barinov's new sauce is ready, and the owner, Dmitry Nagiyev, comes into the kitchen to try it. He is in a hurry, and a piece of bread goes on the floor, so the tasting is put off until the evening. It's in Russian first."
+OPENER = "Let's go through the visit. Nagiyev is breezy, and Barinov keeps trying to hold him in place."
+TRANSITION = 'Here is the whole visit again.'
+OUTRO = "Nagiyev's promise is a neat one to remember: 'at seven o'clock this evening'. It's the kind of phrase you need all the time. See you next time."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('nagiyev', 'Ну-ка, попробуем ваш знаменитый фирменный соус.', "Well, let's try your famous signature sauce.", [(196, 'попробуем ваш хваленый соус')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'Ждём вас на кухне с большой радостью.', 'We await you in the kitchen with great joy.', [(204, 'Тогда вечером')], ''),
 ]
 WALK = [
-    (0, None, '\'Well, let\'s try your famous signature sauce.\' Nagiyev rubs his hands in anticipation. The little particle "nu-ka" is a friendly, informal way to encourage action.'),
-    (1, None, "'This sauce is true high culinary art.' Barinov cannot stop praising his own creation. He truly believes it belongs in a museum."),
-    (2, None, "'Oh, the fresh bread fell on the floor.' Nagiyev drops the crucial piece of bread. He sounds a bit careless about it, ruining the chef's perfect presentation."),
-    (3, None, "'Right now we will quickly bring you new bread.' Barinov immediately scrambles to fix the situation. He wants the tasting to proceed exactly as planned."),
-    (4, None, "'No, I am in a big hurry for an important meeting.' Nagiyev brushes off the tasting. He always prioritizes his business deals over the food."),
-    (5, None, '\'But you must taste this rare masterpiece!\' Barinov is desperate for validation. He uses the word for "obligated" to stress how important this is to him.'),
-    (6, None, "'I will return at exactly seven o' Nagiyev promises to come back later. He sets a precise time for his dinner."),
-    (7, None, "'We will prepare the very best sauce for you.' Barinov promises perfection. He wants to make sure the owner is blown away tonight."),
-    (8, None, '\'Agreed, Viktor, do not let me down tonight.\' Nagiyev warns the chef not to disappoint him. The phrase for "let down" literally means to lead someone under.'),
-    (9, None, "'The Chef never deceives his favorite guests.' Barinov refers to himself in the third person to sound authoritative. He reassures Dmitry with a confident tone."),
-    (10, None, "'Until tonight then, I wish you great work.' Nagiyev says a polite goodbye. He leaves the kitchen bustling with energy."),
-    (11, None, '\'We await you in the kitchen with great joy.\' Barinov puts on a hospitable smile. He uses "we await" to speak for the entire kitchen staff.'),
+    (0, None, "'Well, let's try your famous signature sauce.' The opening 'nu-ka' is a nudge, like 'come on then'. 'Signature' comes from the word for a firm or company, so it means 'the house's own'."),
+    (1, None, "'This sauce is true high culinary art.' 'True' and 'high' and 'culinary' all end in 'oe', to match 'art'. A dash stands in for 'is'."),
+    (2, None, "'Oh, the fresh bread fell on the floor.' 'Fell' ends in a consonant because bread is a he-word. 'Onto the floor' uses 'na' with the plain form of 'floor'."),
+    (3, None, "'Right now we will quickly bring you new bread.' 'We will bring' begins with 'pri', which means 'toward'. 'To you' is the polite 'vam'."),
+    (4, None, "'No, I am in a big hurry for an important meeting.' 'I hurry' is the usual way to say you're in a rush. 'Meeting' comes from 'to meet'."),
+    (5, None, "'But you must taste this rare masterpiece!' 'Taste' begins with a prefix that means 'fully', so it's 'taste properly'. 'Obliged' is the strong form of 'must'."),
+    (6, None, "'I will return at exactly seven o'clock tonight.' Russians say 'seven hours', so the clock time uses 'hours'. 'Of the evening' is shown by the ending 'a'."),
+    (7, None, "'We will prepare the very best sauce for you.' 'The very best' is 'most best', as often. 'For you' is two short words."),
+    (8, None, "'Agreed, Viktor, do not let me down tonight.' 'Agreed' ends in 'lis', for 'we came to terms'. 'Let down' is literally 'lead under'."),
+    (9, None, "'The Chef never deceives his favorite guests.' 'Never' and 'not' go together. 'His own' is a special word that points back at the chef."),
+    (10, None, "'Until tonight then, I wish you great work.' 'Until the evening' is the Russian for 'see you tonight'. 'I wish' is the natural opener for a good wish."),
+    (11, None, "'We await you in the kitchen with great joy.' 'We wait for you' is a polite way to say 'we expect you'. 'With great joy' is a fixed bit of formal speech."),
 ]
