@@ -242,10 +242,26 @@
     },
     {
       "seg": 6,
-      "trans": "Hi, Kristina, you look great!",
+      "trans": "Oh, all right, hi! You look great!",
       "words": [
         {
-          "t": "Привет,",
+          "t": "Ну",
+          "lemma": "ну",
+          "pos": "part",
+          "stress": null,
+          "gloss": "oh, come on",
+          "gram": "particle of impatience"
+        },
+        {
+          "t": "ладно,",
+          "lemma": "ладно",
+          "pos": "part",
+          "stress": "ла́дно",
+          "gloss": "all right",
+          "gram": "particle of agreement"
+        },
+        {
+          "t": "привет!",
           "lemma": "привет",
           "pos": "interj",
           "stress": "приве́т",
@@ -253,15 +269,7 @@
           "gram": "informal greeting"
         },
         {
-          "t": "Кристина,",
-          "lemma": "кристина",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Kristina",
-          "gram": "proper name, feminine vocative"
-        },
-        {
-          "t": "ты",
+          "t": "Ты",
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
@@ -834,10 +842,26 @@
     },
     {
       "seg": 24,
-      "trans": "Hi, Kristina, you look great!",
+      "trans": "Oh, all right, hi! You look great!",
       "words": [
         {
-          "t": "Привет,",
+          "t": "Ну",
+          "lemma": "ну",
+          "pos": "part",
+          "stress": null,
+          "gloss": "oh, come on",
+          "gram": "particle of impatience"
+        },
+        {
+          "t": "ладно,",
+          "lemma": "ладно",
+          "pos": "part",
+          "stress": "ла́дно",
+          "gloss": "all right",
+          "gram": "particle of agreement"
+        },
+        {
+          "t": "привет!",
           "lemma": "привет",
           "pos": "interj",
           "stress": "приве́т",
@@ -845,15 +869,7 @@
           "gram": "informal greeting"
         },
         {
-          "t": "Кристина,",
-          "lemma": "кристина",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Kristina",
-          "gram": "proper name, feminine vocative"
-        },
-        {
-          "t": "ты",
+          "t": "Ты",
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
@@ -1426,10 +1442,26 @@
     },
     {
       "seg": 43,
-      "trans": "Hi, Kristina, you look great!",
+      "trans": "Oh, all right, hi! You look great!",
       "words": [
         {
-          "t": "Привет,",
+          "t": "Ну",
+          "lemma": "ну",
+          "pos": "part",
+          "stress": null,
+          "gloss": "oh, come on",
+          "gram": "particle of impatience"
+        },
+        {
+          "t": "ладно,",
+          "lemma": "ладно",
+          "pos": "part",
+          "stress": "ла́дно",
+          "gloss": "all right",
+          "gram": "particle of agreement"
+        },
+        {
+          "t": "привет!",
           "lemma": "привет",
           "pos": "interj",
           "stress": "приве́т",
@@ -1437,15 +1469,7 @@
           "gram": "informal greeting"
         },
         {
-          "t": "Кристина,",
-          "lemma": "кристина",
-          "pos": "name",
-          "stress": null,
-          "gloss": "Kristina",
-          "gram": "proper name, feminine vocative"
-        },
-        {
-          "t": "ты",
+          "t": "Ты",
           "lemma": "ты",
           "pos": "pron",
           "stress": null,
@@ -5299,6 +5323,82 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "ну": {
+      "lemma": "ну",
+      "stress": "ну",
+      "pos": "part",
+      "gloss": "well; come on",
+      "meanings": [
+        {
+          "en": "well",
+          "note": "hesitation, at the start of a sentence"
+        },
+        {
+          "en": "oh come on!",
+          "note": "Ну, папа!. Core Russian part meaning 'well; come on' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ну, папа!",
+          "trans": "Oh, come on, Dad!"
+        },
+        {
+          "text": "Ну что?",
+          "trans": "Well?"
+        },
+        {
+          "text": "Ну что, очкарик? Видишь, ничего не осталось.",
+          "trans": "Well, four-eyes? See, there's nothing left."
+        }
+      ],
+      "related": [
+        {
+          "word": "ну-ка",
+          "gloss": "come on, let's see"
+        },
+        {
+          "word": "ладно",
+          "gloss": "alright"
+        }
+      ]
+    },
+    "ладно": {
+      "lemma": "ладно",
+      "stress": "ла́дно",
+      "pos": "part",
+      "gloss": "all right, OK",
+      "meanings": [
+        {
+          "en": "all right, OK",
+          "note": "Agreeing, often reluctantly. Core Russian part meaning 'all right, OK' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ладно, держи.",
+          "trans": "All right, here you go."
+        },
+        {
+          "text": "Ладно, я иду.",
+          "trans": "OK, I'm coming."
+        },
+        {
+          "text": "Ладно, держи. Вот, смотри.",
+          "trans": "All right, here you go. There, look."
+        }
+      ],
+      "related": [
+        {
+          "word": "ладный",
+          "gloss": "all right (adjective)"
         }
       ]
     }

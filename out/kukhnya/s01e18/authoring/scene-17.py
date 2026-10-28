@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Kristina's plans for the budget have landed on Nagiyev's desk, and he has decided to dismiss the highest-paid cooks. Barinov hears about it, and the two have a furious argument in the office. Here it is in Russian."
-OPENER = "Let's walk through what each line is doing."
-TRANSITION = "Let's finish by hearing it all again."
-OUTRO = "Barinov threatens to quit, and Nagiyev has to talk him round. 'Uvolit'' means 'to fire', and add 'sya' and it becomes 'to quit', which is a neat little pair to remember. See you next time!"
+INTRO = "Kristina's plans for the budget have landed on Nagiyev's desk, and he has decided to dismiss the highest-paid cooks. Barinov hears about it, and the two have a furious argument in the office. Listen for the moment Barinov plays his last card."
+OPENER = 'Now the row, one blow at a time.'
+TRANSITION = 'Now the whole row, as it happened.'
+OUTRO = 'Barinov threatens to quit, and Nagiyev has to talk him round. Keep the pair: "uvolit", to fire, and "uvolitsya", to quit. See you next time!'
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
     ('nagiyev', 'Я должен уволить твоих поваров.', 'I must fire your cooks.', [(308, 'уволить')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('nagiyev', 'Подожди, мы всё решим.', 'Wait, we will solve everything.', [], ''),
 ]
 WALK = [
-    (0, None, "'I have to fire your cooks.' 'Must' ends in a bare consonant, for a man. The cooks end in 'ov', which is the form for living things being acted on."),
-    (1, None, "'Have you gone completely mad?' The words mean 'gone out of your mind'. Barinov uses the casual 'you'."),
-    (2, None, "'They cost too much.' Russian says 'stand expensively' where English says 'cost a lot'. 'Expensively' finishes with 'o', like many words that say how."),
-    (3, None, "'That's nearly half a million every month.' 'Half a million' comes as one word, with 'pol' for 'half'. 'Every month' needs no word for 'during'."),
-    (4, None, "'You can't fire them.' 'Fire' is the ongoing form, which suits a refusal. 'Them' is a short word."),
-    (5, None, "'It's the best team in Moscow.' 'Best' is the irregular word that doesn't look like 'good'. 'In Moscow' needs an 'e' on the end of the city's name."),
-    (6, None, "'It's cheaper to find new people.' 'Cheaper' is the comparative of 'cheaply', in a single word. 'People' is the irregular plural."),
-    (7, None, "'What difference does it make who cuts carrots?' 'Which difference' is the Russian for 'what difference'. 'Carrots' is a singular collective word."),
-    (8, None, "'It's my team!' There's no 'is'. 'My' carries 'ya', since 'team' is feminine."),
-    (9, None, "'If you fire them, you'll lose me.' 'If' opens the condition, and both verbs are future ones. 'Lose' is the completed kind."),
-    (10, None, "'Just sit down and calm down.' Nagiyev uses a pet form of Barinov's name. 'Calm down' ends in 'sya', so it's 'calm yourself'."),
-    (11, None, "'All right, sort it out yourselves.' 'Sort out' finishes with 'sya' and is plural and polite. 'Yourselves' is a handy little word."),
-    (12, None, "'And meanwhile I'm quitting.' The word is the one for 'fire', with 'sya' added, so it's 'fire myself'. 'Meanwhile' is a small word that is also used for 'bye'."),
-    (13, None, "'Wait, we'll work it all out.' 'Wait' is the casual command. 'We'll decide' is an action seen as complete."),
+    (0, None, '\'I have to fire your cooks.\' "Povar", cook, becomes "povarov": people on the receiving end of a plural action take that ending.'),
+    (1, None, '\'Have you gone completely mad?\' "Soyti s uma" is \'to go off your mind\'.'),
+    (2, None, '\'They cost too much.\' "Stoyat", cost, is stressed on the first syllable; with the stress at the end, "stoyat" means they stand.'),
+    (3, None, '\'That\'s nearly half a million every month.\' "Pol-", half, is glued on: "polmilliona", like "polchasa", half an hour.'),
+    (4, None, '\'You can\'t fire them.\' Barinov picks "uvolnyat", the ongoing partner of "uvolit": that\'s the usual choice when something is ruled out.'),
+    (5, None, '\'It\'s the best team in Moscow.\' "Luchshaya", the best, agrees with feminine "komanda". After "v", "Moskva" becomes "Moskve".'),
+    (6, None, '\'It\'s cheaper to find new people.\' "Deshevle", cheaper, from "deshevo", cheap. "Lyudi", people, becomes "lyudey".'),
+    (7, None, '\'What difference does it make who chops carrots?\' "Kakaya raznitsa" is the everyday \'who cares\'. "Morkov" covers one carrot or a pile of them.'),
+    (8, None, '\'It\'s my team!\' "Komanda" means a team, and also an order, a command.'),
+    (9, None, '\'If you fire them, you\'ll lose me.\' Russian puts both halves in the future: \'if you will fire them\', "uvolish".'),
+    (10, None, '\'Just sit down and calm down.\' "Syad", sit down!, and "uspokoysya", calm yourself, with "-sya" on the end.'),
+    (11, None, '\'All right, sort it out yourselves.\' "Razbiraytes" speaks to more than one person. "Sami", yourselves.'),
+    (12, None, '\'And meanwhile I\'m quitting.\' "Uvolnyayus" is \'I fire myself\'. "Poka", meanwhile, is the same word as the casual bye.'),
+    (13, None, '\'Wait, we\'ll sort it all out.\' "Podozhdi", wait!, is friendly. "Reshim", we\'ll decide, promises a result.'),
 ]

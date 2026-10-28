@@ -10,38 +10,38 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "At the bar of Claude Monet, Kostya is serving a drink with a smile, and Max drops by for a chat. The talk turns to how honest a bartender should be. Russian first, then we'll take it apart."
-OPENER = 'Slowly this time.'
-TRANSITION = "Let's finish by hearing it all again."
-OUTRO = "Kostya comes out of the chat with a clear conscience and a glass of juice. Remember 'zato', which means 'but on the plus side' and turns a complaint around. See you next time!"
+INTRO = 'At the Claude Monet bar, Kostya serves a drink with a smile, and Max leans on the counter to talk shop. The question is how honest a bartender has to be. Listen to the Russian once and catch who is tempting whom.'
+OPENER = "Here's the first line again, and we'll go from there."
+TRANSITION = 'Now let the two of them talk without interruption.'
+OUTRO = 'Kostya stays honest and sticks to pouring juice. Keep "zato" in mind: it means \'but at least\', and it turns a loss into something good. See you next time!'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Пожалуйста, вот ваш вкусный напиток.', 'Here you go, here is your delicious drink.', [(133, 'Пожалуйста.')], ''),
     ('max', 'Костя, ты отлично работаешь за этой стойкой.', 'Kostya, you work excellently behind this bar.', [], ''),
     ('kostya', 'Спасибо, я стараюсь быть очень вежливым.', 'Thank you, I try to be very polite.', [], ''),
     ('max', 'Гости всегда любят свежие и вкусные напитки.', 'Guests always love fresh and delicious drinks.', [], ''),
-    ('kostya', 'Наш бар предлагает самые лучшие дорогие напитки.', 'Our bar offers the very best expensive drinks.', [], ''),
+    ('kostya', 'В нашем баре самые лучшие напитки.', 'Our bar has the very best drinks.', [], ''),
     ('max', 'Люди в зале готовы платить любые деньги.', 'People in the dining room are ready to pay any money.', [], ''),
     ('kostya', 'Главное — всегда честно делать свою работу.', 'The main thing is always to do your work honestly.', [], ''),
     ('max', 'Но некоторые бармены знают хитрые секреты.', 'However, some barmen know clever secrets.', [], ''),
     ('kostya', 'Я не хочу обманывать наших гостей.', 'I do not want to deceive our guests.', [], ''),
     ('max', 'Ты просто слишком честный и добрый парень.', 'You are simply too honest and kind a guy.', [], ''),
-    ('kostya', 'Зато моя совесть абсолютно чиста сегодня.', 'On the other hand, my conscience is absolutely clean today.', [], ''),
+    ('kostya', 'Зато совесть у меня чиста.', 'But at least my conscience is clear.', [], ''),
     ('max', 'Ладно, продолжай наливать сок и вино.', 'All right, keep pouring juice and wine.', [], ''),
     ('kostya', 'Я с радостью налью гостям сок!', 'I will gladly pour juice for the guests!', [], ''),
 ]
 WALK = [
-    (0, None, "'Here you go, here's your delicious drink.' 'Please' is also what you say when you hand something over. 'Drink' comes from the verb for drinking."),
-    (1, None, "'Kostya, you do a great job behind that bar.' 'Behind this bar' takes an 'oy' ending. 'Bar counter' comes from 'to stand'."),
-    (2, None, "'Thanks, I try to be very polite.' 'I try' ends in 'sya'. After 'to be', 'polite' takes an 'ym' ending."),
-    (3, None, "'Guests always love fresh, tasty drinks.' 'They love' is a plural form. 'Fresh' and 'tasty' both end in 'ie', matching the plural."),
-    (4, None, "'Our bar offers the very best, most expensive drinks.' 'Offers' is a long word, but the sense is clear. 'The most best' is how Russian stresses 'the very best'."),
-    (5, None, "'People in the dining room are ready to pay any money.' 'Any' is a single word that comes before 'money'. 'Ready' takes the plural, and 'pay' follows it."),
-    (6, None, "'The main thing is always to do your work honestly.' 'Honestly' finishes with 'o', like many words that say how. 'Your own work' uses the special pointing-back word."),
-    (7, None, "'But some bartenders know clever tricks.' 'Some' is made from 'which' with a tail. 'They know' has a plural ending."),
-    (8, None, "'I don't want to deceive our guests.' 'I want' is irregular, so 'khochu' is the form to learn. The guests take the 'ey' ending."),
-    (9, None, "'You're simply too honest and kind a guy.' 'Too' sits in front of the describing words. 'Guy' is informal."),
-    (10, None, "'But my conscience is absolutely clean today.' 'On the plus side' is the small word 'zato'. 'Clean' is a short feminine form to match 'conscience'."),
-    (11, None, "'All right, keep pouring juice and wine.' 'Keep going' is followed by the plain 'pour'. 'Juice' and 'wine' are just two short nouns."),
-    (12, None, "'I'll gladly pour the guests juice!' 'With joy' stands for 'gladly'. The guests take the 'am' ending because the juice goes to them."),
+    (0, None, '\'Here you go, here\'s your delicious drink.\' "Pozhaluysta" means please, and also \'here you go\' as you hand something over. A "napitok" is a drink, from "pit", to drink.'),
+    (1, None, '\'Kostya, you do a great job behind this bar.\' "Za", behind, makes \'this counter\' "etoy stoykoy". "Stoyka", a bar counter, comes from "stoyat", to stand.'),
+    (2, None, '\'Thanks, I try to be very polite.\' "Starayus", I try, belongs to \"staratsya\", to make an effort. After "byt", to be, polite becomes "vezhlivym".'),
+    (3, None, '\'Guests always love fresh, tasty drinks.\' "Lyubyat", they love. "Svezhie i vkusnye" both end in \'e\' to match the plural drinks.'),
+    (4, None, '\'Our bar has the very best drinks.\' Literally \'in our bar the most best drinks\', with no \'has\' or \'is\'. "Samye luchshie" doubles up for \'the very best\'.'),
+    (5, None, '\'People in the dining room will pay any money.\' "Gotovy", ready, plus "platit", to pay. "Lyubye dengi", literally any money: whatever it costs.'),
+    (6, None, '\'The main thing is to always do your job honestly.\' "Glavnoe", the main thing, opens the sentence. "Svoyu rabotu": "svoy" means one\'s own, so it points back to whoever is working.'),
+    (7, None, '\'But some bartenders know cunning tricks.\' "Nekotorye", some, is "kotorye", which, with "ne" in front. "Khitrye sekrety", sly secrets.'),
+    (8, None, '\'I don\'t want to deceive our guests.\' "Khochu", I want, comes from "khotet", an irregular verb. "Obmanyvat" means to cheat, to fool.'),
+    (9, None, '\'You\'re just too honest and kind a guy.\' "Slishkom" means too, as in too much. "Paren" is a guy, a casual word between friends.'),
+    (10, None, '\'But at least my conscience is clear.\' "Zato" means \'but at least\'. "U menya", at me, is how Russian says \'my\' here; "chista", clear, is short and feminine to match "sovest".'),
+    (11, None, '\'All right, keep pouring juice and wine.\' "Prodolzhay", keep going, is followed by the plain "nalivat", to pour.'),
+    (12, None, '\'I\'ll happily pour the guests some juice!\' "S radostyu", literally \'with joy\'. "Gostyam", to the guests, ends in "-am" because the juice goes to them.'),
 ]

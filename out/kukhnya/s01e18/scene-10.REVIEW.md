@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, are you all right?' 'At you everything good' is the Russian for 'are you okay?'. There's no 'are' in it.
-- 'No, I feel really bad.' Feelings are 'to me': 'to me very bad'. 'Bad' ends in 'o', as it describes a state.
-- 'I told you not to eat that fish.' The small word 'zhe' means 'didn't I?'. 'Don't eat' uses the ongoing form of 'eat', which is how Russian does negative commands.
-- 'Did you take activated charcoal?' Russians 'drink' tablets, so the word is 'drink'. 'Charcoal' and 'coal' are the same word.
-- 'Yes, I've already taken two packs.' 'Drank up' is a once-and-done action. 'Two' takes a feminine form, because 'pack' is feminine.
-- 'But it didn't help me at all.' It's 'to me it didn't help', with a neuter ending because of 'it'. 'At all' is a handy phrase.
-- 'When I served in the navy, I accidentally ate a jellyfish.' 'In the navy' uses 'on' plus an 'e' ending. 'Accidentally' comes as one word.
-- 'Then the boatswain immediately poured me something strong.' 'Strong' is used as a noun, meaning 'something strong', with an 'ogo' ending. The boatswain is a borrowed word.
-- 'Do you hear what I'm saying?' Russian has one word for hearing and another for listening on purpose. This is the first, the one for catching sounds.
-- 'You need to drink something strong.' 'To you necessary' is the pattern. 'Something' is built with a small tail, and it has the 'ogo' ending.
-- 'All right, I'll go and look for some at the bar now.' 'I'll go, I'll look' are two words side by side, with no 'and'. 'At the bar' has an 'e' ending.
-- 'If I survive, I'll stop stealing food!' 'Stop' is followed by the plain 'steal'. 'Steal' comes from 'thief'.
+- 'Senya, are you all right?' "U tebya vsyo khorosho?", literally 'at you all good?', is the everyday way to ask if someone is okay.
+- 'No, I feel really bad.' How you feel goes to 'me': "mne ochen plokho", 'to me very bad'.
+- 'I told you not to eat that fish.' "Zhe" adds 'didn't I'. In "ne yesh etu rybu", don't eat that fish, "ryba" becomes "rybu" as the thing eaten.
+- 'Did you take activated charcoal?' Russians drink their medicine: "pit", to drink, covers tablets too. "Ugol" is coal, and charcoal.
+- 'Yes, I've already taken two packs.' "Vypil" means drank down, all of it. It's "dve", not "dva", because "pachka", pack, is feminine.
+- 'But it didn't help me at all.' Help goes 'to me': "mne ne pomoglo". "Sovsem ne" is not at all.
+- 'When I served in the navy, I accidentally ate a jellyfish.' You serve 'on' the fleet: "na flote". "Nechayanno" means by accident.
+- 'Then the boatswain poured me something strong.' "Botsman", boatswain, is an old sailors' borrowing. "Nalil mne krepkogo" leaves out the drink itself: 'poured me some strong'.
+- 'Do you hear what I'm saying?' "Slyshish", you hear, is about catching sounds. On its own, "slyshish" is also a rough 'hey, listen'.
+- 'You need to drink something strong.' "Tebe nado", 'to you it's needed'. Tagging "-nibud" onto "chego" makes 'anything at all'.
+- 'All right, I'll go and look for some at the bar.' "Poydu poishchu", 'I'll go, I'll look', with no 'and': very spoken Russian. "V bare", at the bar.
+- 'If I survive, I'll stop stealing food!' "Vorovat", to steal, comes from "vor", thief. "Produkty" means groceries, not products.

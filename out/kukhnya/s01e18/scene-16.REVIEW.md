@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, have a pleasant evening.' The wish is 'of pleasant evening', with the 'ogo' and 'a' endings. 'Excuse me' is the polite word.
-- 'What do you need from me?' Barinov uses the casual 'you', and 'what to you needed' is the order. 'From me' is a little word and the 'menya' form.
-- 'I need this bottle.' 'Needed' finishes with 'a' to match 'bottle', which is feminine. For a masculine thing, it would be 'nuzhen'.
-- 'What are you talking about?' 'About what' is written as two words and said as one. 'You speak' carries 'sh'.
-- 'I'll take this bottle.' 'I will take' is an irregular word. 'This bottle' ends in 'u', as it is being taken.
-- 'And I'll put another one down for you.' Russian says 'put' with a word that means to stand something up. 'For you' is the polite form.
-- 'Don't you have anything better to do?' 'Nothing to do' is one word plus the plain 'do'. The 'chto' in the middle is a filler like 'what, ...?'.
-- 'No, I just want to give you another one.' 'Just' is the word you hear everywhere. 'Another' finishes with 'uyu' for the feminine bottle.
-- 'Don't touch anything, get out of here!' A negative command uses the ongoing form of 'touch'. 'From here' is one word.
-- 'But I have to take it.' 'Must' carries 'en', for a man. 'It' is 'her' in Russian, because the bottle is feminine.
-- 'I said, get out of here!' 'Said' ends in 'l', for the masculine speaker. Barinov repeats himself because he isn't obeyed.
-- 'All right, sorry, I'll go.' 'I'll go' is a plain future form. 'Sorry' is 'excuse me' once more.
+- 'Excuse me, have a pleasant evening.' A wish hides an unspoken 'I wish you', so the evening takes the 'of' endings: "priyatnogo vechera".
+- 'What do you want from me?' "Chto tebe nuzhno?", 'what to you is needed?'. "Ot menya", from me.
+- 'I need this bottle.' "Nuzhna" matches the bottle, which is feminine; for a knife it would be "nuzhen".
+- 'What are you on about?' To the bartender the chef says "ty govorish"; to the new boss it was "vy govorite".
+- 'I'll take this bottle.' "Vozmu", I'll take, belongs to "vzyat", even though the two look quite different.
+- 'And I'll put another one out for you.' "Postavlyu" is literally 'I'll stand': bottles are stood, not laid. "Vam", for you, is polite.
+- 'Have you got nothing better to do?' "Nechego delat", nothing to do: "ne" and "chego" fused into one word.
+- 'No, I just want to give you another one.' "Prosto", just, simply. "Dat", to give.
+- 'Don't touch anything, get out of here!' Russian stacks the 'not': "ne trogay nichego", 'don't touch nothing'. "Otsyuda", from here.
+- 'But I have to take it.' "Eyo", her: the bottle is a she in Russian.
+- 'I said, get out!' "Idi", go!, is the friendly-form command from "idti", to go on foot. Said twice, it's an order.
+- 'All right, sorry, I'll go.' "Izvinite" is the polite sorry; to a friend it would be "izvini".

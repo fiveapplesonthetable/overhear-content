@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have to fire your cooks.' 'Must' ends in a bare consonant, for a man. The cooks end in 'ov', which is the form for living things being acted on.
-- 'Have you gone completely mad?' The words mean 'gone out of your mind'. Barinov uses the casual 'you'.
-- 'They cost too much.' Russian says 'stand expensively' where English says 'cost a lot'. 'Expensively' finishes with 'o', like many words that say how.
-- 'That's nearly half a million every month.' 'Half a million' comes as one word, with 'pol' for 'half'. 'Every month' needs no word for 'during'.
-- 'You can't fire them.' 'Fire' is the ongoing form, which suits a refusal. 'Them' is a short word.
-- 'It's the best team in Moscow.' 'Best' is the irregular word that doesn't look like 'good'. 'In Moscow' needs an 'e' on the end of the city's name.
-- 'It's cheaper to find new people.' 'Cheaper' is the comparative of 'cheaply', in a single word. 'People' is the irregular plural.
-- 'What difference does it make who cuts carrots?' 'Which difference' is the Russian for 'what difference'. 'Carrots' is a singular collective word.
-- 'It's my team!' There's no 'is'. 'My' carries 'ya', since 'team' is feminine.
-- 'If you fire them, you'll lose me.' 'If' opens the condition, and both verbs are future ones. 'Lose' is the completed kind.
-- 'Just sit down and calm down.' Nagiyev uses a pet form of Barinov's name. 'Calm down' ends in 'sya', so it's 'calm yourself'.
-- 'All right, sort it out yourselves.' 'Sort out' finishes with 'sya' and is plural and polite. 'Yourselves' is a handy little word.
-- 'And meanwhile I'm quitting.' The word is the one for 'fire', with 'sya' added, so it's 'fire myself'. 'Meanwhile' is a small word that is also used for 'bye'.
-- 'Wait, we'll work it all out.' 'Wait' is the casual command. 'We'll decide' is an action seen as complete.
+- 'I have to fire your cooks.' "Povar", cook, becomes "povarov": people on the receiving end of a plural action take that ending.
+- 'Have you gone completely mad?' "Soyti s uma" is 'to go off your mind'.
+- 'They cost too much.' "Stoyat", cost, is stressed on the first syllable; with the stress at the end, "stoyat" means they stand.
+- 'That's nearly half a million every month.' "Pol-", half, is glued on: "polmilliona", like "polchasa", half an hour.
+- 'You can't fire them.' Barinov picks "uvolnyat", the ongoing partner of "uvolit": that's the usual choice when something is ruled out.
+- 'It's the best team in Moscow.' "Luchshaya", the best, agrees with feminine "komanda". After "v", "Moskva" becomes "Moskve".
+- 'It's cheaper to find new people.' "Deshevle", cheaper, from "deshevo", cheap. "Lyudi", people, becomes "lyudey".
+- 'What difference does it make who chops carrots?' "Kakaya raznitsa" is the everyday 'who cares'. "Morkov" covers one carrot or a pile of them.
+- 'It's my team!' "Komanda" means a team, and also an order, a command.
+- 'If you fire them, you'll lose me.' Russian puts both halves in the future: 'if you will fire them', "uvolish".
+- 'Just sit down and calm down.' "Syad", sit down!, and "uspokoysya", calm yourself, with "-sya" on the end.
+- 'All right, sort it out yourselves.' "Razbiraytes" speaks to more than one person. "Sami", yourselves.
+- 'And meanwhile I'm quitting.' "Uvolnyayus" is 'I fire myself'. "Poka", meanwhile, is the same word as the casual bye.
+- 'Wait, we'll sort it all out.' "Podozhdi", wait!, is friendly. "Reshim", we'll decide, promises a result.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you acting like a little girl?' 'Behave' is 'lead oneself', and 'little girl' is a small version of 'girl'. Nagiyev uses the casual 'you'.
-- 'Do what you want.' The command is the plural and polite one. 'Whatever you want' is just 'what you want'.
-- 'You can quit at any moment.' 'Quit' is 'fire' with 'sya' on it. 'Any' is one word on its own that goes before 'moment'.
-- 'But who will pay your bills?' Russians pay 'according to' bills, using a small word for 'by'. 'Bills' takes an 'am' ending after it.
-- 'I'll always be able to find work.' 'I'll be able' is a future form of 'can'. 'Find' treats the action as done of 'look for'.
-- 'Your daughter studies in Paris.' 'Studies' carries 'sya', so it means 'teaches herself'. 'Daughter' is irregular.
-- 'It costs twenty thousand a year.' After 'twenty', 'thousands' takes the 'of' plural. 'A year' is 'in a year', and the year takes its object ending.
-- 'I know my debts.' The word for 'own' is a special one that always points back to the speaker. 'Debts' is the plural of the word that also means 'duty'.
-- 'They'll kick you out after the first binge.' 'Kick out' has no 'they' beyond its ending. 'After' brings in the 'of' form, so 'first' and 'binge' both change.
-- 'Nobody will put up with your temper.' 'Nobody' and 'not' appear together. 'Character' is borrowed.
-- 'Fine, pour.' 'Pour' is the ongoing form of the command, which is the normal one for this kind of order. The opening word is a resigned 'fine'.
-- 'Here, let's just have a drink and talk.' Two 'we' forms of finished actions, side by side, mean 'let's do this and that'. 'Here' is the pointing word.
+- 'Why are you acting like a little girl?' "Vesti sebya", to behave, is literally 'to lead yourself'. "Devochka", little girl.
+- 'Do what you want.' "Delayte" ends in "-te": he's waving off the whole lot of them, not just one man.
+- 'You can quit at any moment.' "Lyuboy" means any, whichever you like: "v lyuboy moment".
+- 'But who'll pay your bills?' You pay "po schetam", 'along the bills'. "Schyot" is a bill, and also a bank account.
+- 'I'll always be able to find work.' "Smogu", I'll be able, is the future of "moch", can.
+- 'Your daughter studies in Paris.' "Uchitsya", studies, is "uchit", to teach, plus "-sya": 'teaches herself'.
+- 'That's twenty thousand a year.' After twenty, "tysyacha" becomes "tysyach". "V god", a year: literally 'in a year'.
+- 'I know my own debts.' "Svoi", my own, points back to the speaker. "Dolg", debt, also means duty.
+- 'They'll kick you out after the first binge.' "Vygonyat", they'll throw out, needs no 'they'. "Pyanka", a binge, comes from "pyanyy", drunk.
+- 'Nobody will put up with your temper.' "Nikto ne", 'nobody not': Russian keeps both. "Kharakter" often means temper.
+- 'Fine, pour.' "Ladno" is giving in. "Nalivay", pour!, said to a friend.
+- 'Here, let's just have a drink and talk.' "Davay" plus a 'we' form makes 'let's': "davay vypyem", let's drink.

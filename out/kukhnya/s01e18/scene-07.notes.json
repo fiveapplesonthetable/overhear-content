@@ -4,15 +4,15 @@
   "lines": [
     {
       "seg": 1,
-      "trans": "Dmitry, why did they turn off the bright light here?",
+      "trans": "Dima, why did they turn off the bright lights here?",
       "words": [
         {
-          "t": "Дмитрий,",
-          "lemma": "дмитрий",
+          "t": "Дима,",
+          "lemma": "дима",
           "pos": "name",
           "stress": null,
-          "gloss": "Dmitry",
-          "gram": "masculine name, nominative"
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
         },
         {
           "t": "почему",
@@ -51,8 +51,8 @@
           "lemma": "свет",
           "pos": "noun",
           "stress": null,
-          "gloss": "light; electricity",
-          "gram": "m inan nom sg"
+          "gloss": "light",
+          "gram": "masculine singular, accusative"
         }
       ]
     },
@@ -120,7 +120,7 @@
     },
     {
       "seg": 3,
-      "trans": "However, it is hard for cooks to prepare food in a dark hall!",
+      "trans": "But it's hard for the cooks to cook in the dark!",
       "words": [
         {
           "t": "Но",
@@ -163,26 +163,18 @@
           "gram": "preposition"
         },
         {
-          "t": "тёмном",
-          "lemma": "тёмный",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "dark",
-          "gram": "masculine prepositional singular"
-        },
-        {
-          "t": "зале!",
-          "lemma": "зал",
+          "t": "темноте!",
+          "lemma": "темнота",
           "pos": "noun",
-          "stress": "за́ле",
-          "gloss": "hall",
-          "gram": "prepositional masculine singular"
+          "stress": "темноте́",
+          "gloss": "darkness",
+          "gram": "feminine singular prepositional"
         }
       ]
     },
     {
       "seg": 4,
-      "trans": "On the other hand, our restaurant will save many useful rubles.",
+      "trans": "But at least we'll save a lot of money.",
       "words": [
         {
           "t": "Зато",
@@ -193,28 +185,20 @@
           "gram": "adversative conjunction"
         },
         {
-          "t": "наш",
-          "lemma": "наш",
-          "pos": "det",
+          "t": "мы",
+          "lemma": "мы",
+          "pos": "pron",
           "stress": null,
-          "gloss": "our",
-          "gram": "accusative masculine singular, inanimate"
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
         },
         {
-          "t": "ресторан",
-          "lemma": "ресторан",
-          "pos": "noun",
-          "stress": "рестора́н",
-          "gloss": "restaurant",
-          "gram": "nominative singular, masculine"
-        },
-        {
-          "t": "сохранит",
-          "lemma": "сохранить",
+          "t": "сэкономим",
+          "lemma": "сэкономить",
           "pos": "verb",
-          "stress": "сохрани́т",
+          "stress": "сэконо́мим",
           "gloss": "will save",
-          "gram": "3rd person singular"
+          "gram": "future, 1st person plural, perfective"
         },
         {
           "t": "много",
@@ -225,20 +209,12 @@
           "gram": "adverb of quantity"
         },
         {
-          "t": "полезных",
-          "lemma": "полезный",
-          "pos": "adj",
-          "stress": "поле́зных",
-          "gloss": "useful",
-          "gram": "nominative masculine singular"
-        },
-        {
-          "t": "рублей.",
-          "lemma": "рубль",
+          "t": "денег.",
+          "lemma": "деньги",
           "pos": "noun",
-          "stress": "рубле́й",
-          "gloss": "roubles",
-          "gram": "masculine, genitive plural"
+          "stress": "де́нег",
+          "gloss": "money",
+          "gram": "genitive plural (after много)"
         }
       ]
     },
@@ -306,7 +282,7 @@
     },
     {
       "seg": 6,
-      "trans": "This meat costs far too much expensive money!",
+      "trans": "This meat costs far too much!",
       "words": [
         {
           "t": "Это",
@@ -322,15 +298,15 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative"
         },
         {
           "t": "стоит",
-          "lemma": "стоять",
+          "lemma": "стоить",
           "pos": "verb",
           "stress": "стои́т",
-          "gloss": "is parked (stands)",
-          "gram": "present, 3rd person singular, imperfective"
+          "gloss": "costs",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "слишком",
@@ -341,28 +317,12 @@
           "gram": "adverb of degree"
         },
         {
-          "t": "много",
-          "lemma": "много",
+          "t": "дорого!",
+          "lemma": "дорого",
           "pos": "adv",
-          "stress": "мно́го",
-          "gloss": "a lot",
-          "gram": "adverb of quantity"
-        },
-        {
-          "t": "дорогих",
-          "lemma": "дорогой",
-          "pos": "adj",
-          "stress": "дороги́х",
-          "gloss": "expensive",
-          "gram": "nominative masculine singular"
-        },
-        {
-          "t": "денег!",
-          "lemma": "деньги",
-          "pos": "noun",
-          "stress": "де́нег",
-          "gloss": "money",
-          "gram": "genitive plural (after не хватило)"
+          "stress": "до́рого",
+          "gloss": "expensive, a lot of money",
+          "gram": "adverb"
         }
       ]
     },
@@ -670,7 +630,7 @@
     },
     {
       "seg": 12,
-      "trans": "This is a wonderful and cheap romantic move!",
+      "trans": "It's a great marketing move!",
       "words": [
         {
           "t": "Это",
@@ -681,66 +641,50 @@
           "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "прекрасный",
-          "lemma": "прекрасный",
+          "t": "отличный",
+          "lemma": "отличный",
           "pos": "adj",
-          "stress": "прекра́сный",
-          "gloss": "beautiful",
-          "gram": "nominative, masculine singular"
+          "stress": "отли́чный",
+          "gloss": "excellent, great",
+          "gram": "masculine singular, nominative"
         },
         {
-          "t": "и",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction"
-        },
-        {
-          "t": "дешёвый",
-          "lemma": "дешёвый",
+          "t": "маркетинговый",
+          "lemma": "маркетинговый",
           "pos": "adj",
-          "stress": null,
-          "gloss": "cheap",
-          "gram": "masculine accusative singular inanimate adjective"
-        },
-        {
-          "t": "романтический",
-          "lemma": "романтический",
-          "pos": "adj",
-          "stress": "романти́ческий",
-          "gloss": "romantic",
-          "gram": "accusative singular, masculine"
+          "stress": "маркети́нговый",
+          "gloss": "marketing",
+          "gram": "masculine singular, nominative"
         },
         {
           "t": "ход!",
           "lemma": "ход",
           "pos": "noun",
           "stress": null,
-          "gloss": "course, progress",
-          "gram": "accusative singular masculine"
+          "gloss": "move (as in a game)",
+          "gram": "masculine singular, nominative"
         }
       ]
     },
     {
       "seg": 13,
-      "trans": "You are becoming too greedy an owner, Dmitry!",
+      "trans": "You're turning into far too greedy an owner, Dima!",
       "words": [
         {
-          "t": "Вы",
-          "lemma": "вы",
+          "t": "Ты",
+          "lemma": "ты",
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "gram": "2nd person singular, nominative, informal"
         },
         {
-          "t": "становитесь",
+          "t": "становишься",
           "lemma": "становиться",
           "pos": "verb",
-          "stress": "стано́витесь",
+          "stress": "стано́вишься",
           "gloss": "are becoming",
-          "gram": "2nd person plural / imperative"
+          "gram": "present, 2nd person singular"
         },
         {
           "t": "слишком",
@@ -756,7 +700,7 @@
           "pos": "adj",
           "stress": "жа́дным",
           "gloss": "greedy",
-          "gram": "instrumental singular / dative plural"
+          "gram": "masculine singular, instrumental (after становиться)"
         },
         {
           "t": "хозяином,",
@@ -764,29 +708,29 @@
           "pos": "noun",
           "stress": "хозя́ином",
           "gloss": "owner, proprietor, host",
-          "gram": "inst m sg anim"
+          "gram": "masculine singular, instrumental"
         },
         {
-          "t": "Дмитрий!",
-          "lemma": "дмитрий",
+          "t": "Дима!",
+          "lemma": "дима",
           "pos": "name",
           "stress": null,
-          "gloss": "Dmitry",
-          "gram": "masculine name, nominative"
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
         }
       ]
     },
     {
       "seg": 15,
-      "trans": "Dmitry, why did they turn off the bright light here?",
+      "trans": "Dima, why did they turn off the bright lights here?",
       "words": [
         {
-          "t": "Дмитрий,",
-          "lemma": "дмитрий",
+          "t": "Дима,",
+          "lemma": "дима",
           "pos": "name",
           "stress": null,
-          "gloss": "Dmitry",
-          "gram": "masculine name, nominative"
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
         },
         {
           "t": "почему",
@@ -825,8 +769,8 @@
           "lemma": "свет",
           "pos": "noun",
           "stress": null,
-          "gloss": "light; electricity",
-          "gram": "m inan nom sg"
+          "gloss": "light",
+          "gram": "masculine singular, accusative"
         }
       ]
     },
@@ -894,7 +838,7 @@
     },
     {
       "seg": 19,
-      "trans": "However, it is hard for cooks to prepare food in a dark hall!",
+      "trans": "But it's hard for the cooks to cook in the dark!",
       "words": [
         {
           "t": "Но",
@@ -937,26 +881,18 @@
           "gram": "preposition"
         },
         {
-          "t": "тёмном",
-          "lemma": "тёмный",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "dark",
-          "gram": "masculine prepositional singular"
-        },
-        {
-          "t": "зале!",
-          "lemma": "зал",
+          "t": "темноте!",
+          "lemma": "темнота",
           "pos": "noun",
-          "stress": "за́ле",
-          "gloss": "hall",
-          "gram": "prepositional masculine singular"
+          "stress": "темноте́",
+          "gloss": "darkness",
+          "gram": "feminine singular prepositional"
         }
       ]
     },
     {
       "seg": 21,
-      "trans": "On the other hand, our restaurant will save many useful rubles.",
+      "trans": "But at least we'll save a lot of money.",
       "words": [
         {
           "t": "Зато",
@@ -967,28 +903,20 @@
           "gram": "adversative conjunction"
         },
         {
-          "t": "наш",
-          "lemma": "наш",
-          "pos": "det",
+          "t": "мы",
+          "lemma": "мы",
+          "pos": "pron",
           "stress": null,
-          "gloss": "our",
-          "gram": "accusative masculine singular, inanimate"
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
         },
         {
-          "t": "ресторан",
-          "lemma": "ресторан",
-          "pos": "noun",
-          "stress": "рестора́н",
-          "gloss": "restaurant",
-          "gram": "nominative singular, masculine"
-        },
-        {
-          "t": "сохранит",
-          "lemma": "сохранить",
+          "t": "сэкономим",
+          "lemma": "сэкономить",
           "pos": "verb",
-          "stress": "сохрани́т",
+          "stress": "сэконо́мим",
           "gloss": "will save",
-          "gram": "3rd person singular"
+          "gram": "future, 1st person plural, perfective"
         },
         {
           "t": "много",
@@ -999,20 +927,12 @@
           "gram": "adverb of quantity"
         },
         {
-          "t": "полезных",
-          "lemma": "полезный",
-          "pos": "adj",
-          "stress": "поле́зных",
-          "gloss": "useful",
-          "gram": "nominative masculine singular"
-        },
-        {
-          "t": "рублей.",
-          "lemma": "рубль",
+          "t": "денег.",
+          "lemma": "деньги",
           "pos": "noun",
-          "stress": "рубле́й",
-          "gloss": "roubles",
-          "gram": "masculine, genitive plural"
+          "stress": "де́нег",
+          "gloss": "money",
+          "gram": "genitive plural (after много)"
         }
       ]
     },
@@ -1080,7 +1000,7 @@
     },
     {
       "seg": 25,
-      "trans": "This meat costs far too much expensive money!",
+      "trans": "This meat costs far too much!",
       "words": [
         {
           "t": "Это",
@@ -1096,15 +1016,15 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative"
         },
         {
           "t": "стоит",
-          "lemma": "стоять",
+          "lemma": "стоить",
           "pos": "verb",
           "stress": "стои́т",
-          "gloss": "is parked (stands)",
-          "gram": "present, 3rd person singular, imperfective"
+          "gloss": "costs",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "слишком",
@@ -1115,28 +1035,12 @@
           "gram": "adverb of degree"
         },
         {
-          "t": "много",
-          "lemma": "много",
+          "t": "дорого!",
+          "lemma": "дорого",
           "pos": "adv",
-          "stress": "мно́го",
-          "gloss": "a lot",
-          "gram": "adverb of quantity"
-        },
-        {
-          "t": "дорогих",
-          "lemma": "дорогой",
-          "pos": "adj",
-          "stress": "дороги́х",
-          "gloss": "expensive",
-          "gram": "nominative masculine singular"
-        },
-        {
-          "t": "денег!",
-          "lemma": "деньги",
-          "pos": "noun",
-          "stress": "де́нег",
-          "gloss": "money",
-          "gram": "genitive plural (after не хватило)"
+          "stress": "до́рого",
+          "gloss": "expensive, a lot of money",
+          "gram": "adverb"
         }
       ]
     },
@@ -1444,7 +1348,7 @@
     },
     {
       "seg": 37,
-      "trans": "This is a wonderful and cheap romantic move!",
+      "trans": "It's a great marketing move!",
       "words": [
         {
           "t": "Это",
@@ -1455,66 +1359,50 @@
           "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "прекрасный",
-          "lemma": "прекрасный",
+          "t": "отличный",
+          "lemma": "отличный",
           "pos": "adj",
-          "stress": "прекра́сный",
-          "gloss": "beautiful",
-          "gram": "nominative, masculine singular"
+          "stress": "отли́чный",
+          "gloss": "excellent, great",
+          "gram": "masculine singular, nominative"
         },
         {
-          "t": "и",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction"
-        },
-        {
-          "t": "дешёвый",
-          "lemma": "дешёвый",
+          "t": "маркетинговый",
+          "lemma": "маркетинговый",
           "pos": "adj",
-          "stress": null,
-          "gloss": "cheap",
-          "gram": "masculine accusative singular inanimate adjective"
-        },
-        {
-          "t": "романтический",
-          "lemma": "романтический",
-          "pos": "adj",
-          "stress": "романти́ческий",
-          "gloss": "romantic",
-          "gram": "accusative singular, masculine"
+          "stress": "маркети́нговый",
+          "gloss": "marketing",
+          "gram": "masculine singular, nominative"
         },
         {
           "t": "ход!",
           "lemma": "ход",
           "pos": "noun",
           "stress": null,
-          "gloss": "course, progress",
-          "gram": "accusative singular masculine"
+          "gloss": "move (as in a game)",
+          "gram": "masculine singular, nominative"
         }
       ]
     },
     {
       "seg": 39,
-      "trans": "You are becoming too greedy an owner, Dmitry!",
+      "trans": "You're turning into far too greedy an owner, Dima!",
       "words": [
         {
-          "t": "Вы",
-          "lemma": "вы",
+          "t": "Ты",
+          "lemma": "ты",
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "gram": "2nd person singular, nominative, informal"
         },
         {
-          "t": "становитесь",
+          "t": "становишься",
           "lemma": "становиться",
           "pos": "verb",
-          "stress": "стано́витесь",
+          "stress": "стано́вишься",
           "gloss": "are becoming",
-          "gram": "2nd person plural / imperative"
+          "gram": "present, 2nd person singular"
         },
         {
           "t": "слишком",
@@ -1530,7 +1418,7 @@
           "pos": "adj",
           "stress": "жа́дным",
           "gloss": "greedy",
-          "gram": "instrumental singular / dative plural"
+          "gram": "masculine singular, instrumental (after становиться)"
         },
         {
           "t": "хозяином,",
@@ -1538,29 +1426,29 @@
           "pos": "noun",
           "stress": "хозя́ином",
           "gloss": "owner, proprietor, host",
-          "gram": "inst m sg anim"
+          "gram": "masculine singular, instrumental"
         },
         {
-          "t": "Дмитрий!",
-          "lemma": "дмитрий",
+          "t": "Дима!",
+          "lemma": "дима",
           "pos": "name",
           "stress": null,
-          "gloss": "Dmitry",
-          "gram": "masculine name, nominative"
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
         }
       ]
     },
     {
       "seg": 41,
-      "trans": "Dmitry, why did they turn off the bright light here?",
+      "trans": "Dima, why did they turn off the bright lights here?",
       "words": [
         {
-          "t": "Дмитрий,",
-          "lemma": "дмитрий",
+          "t": "Дима,",
+          "lemma": "дима",
           "pos": "name",
           "stress": null,
-          "gloss": "Dmitry",
-          "gram": "masculine name, nominative"
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
         },
         {
           "t": "почему",
@@ -1599,8 +1487,8 @@
           "lemma": "свет",
           "pos": "noun",
           "stress": null,
-          "gloss": "light; electricity",
-          "gram": "m inan nom sg"
+          "gloss": "light",
+          "gram": "masculine singular, accusative"
         }
       ]
     },
@@ -1668,7 +1556,7 @@
     },
     {
       "seg": 43,
-      "trans": "However, it is hard for cooks to prepare food in a dark hall!",
+      "trans": "But it's hard for the cooks to cook in the dark!",
       "words": [
         {
           "t": "Но",
@@ -1711,26 +1599,18 @@
           "gram": "preposition"
         },
         {
-          "t": "тёмном",
-          "lemma": "тёмный",
-          "pos": "adj",
-          "stress": null,
-          "gloss": "dark",
-          "gram": "masculine prepositional singular"
-        },
-        {
-          "t": "зале!",
-          "lemma": "зал",
+          "t": "темноте!",
+          "lemma": "темнота",
           "pos": "noun",
-          "stress": "за́ле",
-          "gloss": "hall",
-          "gram": "prepositional masculine singular"
+          "stress": "темноте́",
+          "gloss": "darkness",
+          "gram": "feminine singular prepositional"
         }
       ]
     },
     {
       "seg": 44,
-      "trans": "On the other hand, our restaurant will save many useful rubles.",
+      "trans": "But at least we'll save a lot of money.",
       "words": [
         {
           "t": "Зато",
@@ -1741,28 +1621,20 @@
           "gram": "adversative conjunction"
         },
         {
-          "t": "наш",
-          "lemma": "наш",
-          "pos": "det",
+          "t": "мы",
+          "lemma": "мы",
+          "pos": "pron",
           "stress": null,
-          "gloss": "our",
-          "gram": "accusative masculine singular, inanimate"
+          "gloss": "we",
+          "gram": "1st person plural, nominative"
         },
         {
-          "t": "ресторан",
-          "lemma": "ресторан",
-          "pos": "noun",
-          "stress": "рестора́н",
-          "gloss": "restaurant",
-          "gram": "nominative singular, masculine"
-        },
-        {
-          "t": "сохранит",
-          "lemma": "сохранить",
+          "t": "сэкономим",
+          "lemma": "сэкономить",
           "pos": "verb",
-          "stress": "сохрани́т",
+          "stress": "сэконо́мим",
           "gloss": "will save",
-          "gram": "3rd person singular"
+          "gram": "future, 1st person plural, perfective"
         },
         {
           "t": "много",
@@ -1773,20 +1645,12 @@
           "gram": "adverb of quantity"
         },
         {
-          "t": "полезных",
-          "lemma": "полезный",
-          "pos": "adj",
-          "stress": "поле́зных",
-          "gloss": "useful",
-          "gram": "nominative masculine singular"
-        },
-        {
-          "t": "рублей.",
-          "lemma": "рубль",
+          "t": "денег.",
+          "lemma": "деньги",
           "pos": "noun",
-          "stress": "рубле́й",
-          "gloss": "roubles",
-          "gram": "masculine, genitive plural"
+          "stress": "де́нег",
+          "gloss": "money",
+          "gram": "genitive plural (after много)"
         }
       ]
     },
@@ -1854,7 +1718,7 @@
     },
     {
       "seg": 46,
-      "trans": "This meat costs far too much expensive money!",
+      "trans": "This meat costs far too much!",
       "words": [
         {
           "t": "Это",
@@ -1870,15 +1734,15 @@
           "pos": "noun",
           "stress": "мя́со",
           "gloss": "meat",
-          "gram": "noun n acc"
+          "gram": "neuter singular, nominative"
         },
         {
           "t": "стоит",
-          "lemma": "стоять",
+          "lemma": "стоить",
           "pos": "verb",
           "stress": "стои́т",
-          "gloss": "is parked (stands)",
-          "gram": "present, 3rd person singular, imperfective"
+          "gloss": "costs",
+          "gram": "present, 3rd person singular"
         },
         {
           "t": "слишком",
@@ -1889,28 +1753,12 @@
           "gram": "adverb of degree"
         },
         {
-          "t": "много",
-          "lemma": "много",
+          "t": "дорого!",
+          "lemma": "дорого",
           "pos": "adv",
-          "stress": "мно́го",
-          "gloss": "a lot",
-          "gram": "adverb of quantity"
-        },
-        {
-          "t": "дорогих",
-          "lemma": "дорогой",
-          "pos": "adj",
-          "stress": "дороги́х",
-          "gloss": "expensive",
-          "gram": "nominative masculine singular"
-        },
-        {
-          "t": "денег!",
-          "lemma": "деньги",
-          "pos": "noun",
-          "stress": "де́нег",
-          "gloss": "money",
-          "gram": "genitive plural (after не хватило)"
+          "stress": "до́рого",
+          "gloss": "expensive, a lot of money",
+          "gram": "adverb"
         }
       ]
     },
@@ -2218,7 +2066,7 @@
     },
     {
       "seg": 52,
-      "trans": "This is a wonderful and cheap romantic move!",
+      "trans": "It's a great marketing move!",
       "words": [
         {
           "t": "Это",
@@ -2229,66 +2077,50 @@
           "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "прекрасный",
-          "lemma": "прекрасный",
+          "t": "отличный",
+          "lemma": "отличный",
           "pos": "adj",
-          "stress": "прекра́сный",
-          "gloss": "beautiful",
-          "gram": "nominative, masculine singular"
+          "stress": "отли́чный",
+          "gloss": "excellent, great",
+          "gram": "masculine singular, nominative"
         },
         {
-          "t": "и",
-          "lemma": "и",
-          "pos": "conj",
-          "stress": null,
-          "gloss": "and",
-          "gram": "conjunction"
-        },
-        {
-          "t": "дешёвый",
-          "lemma": "дешёвый",
+          "t": "маркетинговый",
+          "lemma": "маркетинговый",
           "pos": "adj",
-          "stress": null,
-          "gloss": "cheap",
-          "gram": "masculine accusative singular inanimate adjective"
-        },
-        {
-          "t": "романтический",
-          "lemma": "романтический",
-          "pos": "adj",
-          "stress": "романти́ческий",
-          "gloss": "romantic",
-          "gram": "accusative singular, masculine"
+          "stress": "маркети́нговый",
+          "gloss": "marketing",
+          "gram": "masculine singular, nominative"
         },
         {
           "t": "ход!",
           "lemma": "ход",
           "pos": "noun",
           "stress": null,
-          "gloss": "course, progress",
-          "gram": "accusative singular masculine"
+          "gloss": "move (as in a game)",
+          "gram": "masculine singular, nominative"
         }
       ]
     },
     {
       "seg": 53,
-      "trans": "You are becoming too greedy an owner, Dmitry!",
+      "trans": "You're turning into far too greedy an owner, Dima!",
       "words": [
         {
-          "t": "Вы",
-          "lemma": "вы",
+          "t": "Ты",
+          "lemma": "ты",
           "pos": "pron",
           "stress": null,
           "gloss": "you",
-          "gram": "2nd person plural, nominative"
+          "gram": "2nd person singular, nominative, informal"
         },
         {
-          "t": "становитесь",
+          "t": "становишься",
           "lemma": "становиться",
           "pos": "verb",
-          "stress": "стано́витесь",
+          "stress": "стано́вишься",
           "gloss": "are becoming",
-          "gram": "2nd person plural / imperative"
+          "gram": "present, 2nd person singular"
         },
         {
           "t": "слишком",
@@ -2304,7 +2136,7 @@
           "pos": "adj",
           "stress": "жа́дным",
           "gloss": "greedy",
-          "gram": "instrumental singular / dative plural"
+          "gram": "masculine singular, instrumental (after становиться)"
         },
         {
           "t": "хозяином,",
@@ -2312,15 +2144,15 @@
           "pos": "noun",
           "stress": "хозя́ином",
           "gloss": "owner, proprietor, host",
-          "gram": "inst m sg anim"
+          "gram": "masculine singular, instrumental"
         },
         {
-          "t": "Дмитрий!",
-          "lemma": "дмитрий",
+          "t": "Дима!",
+          "lemma": "дима",
           "pos": "name",
           "stress": null,
-          "gloss": "Dmitry",
-          "gram": "masculine name, nominative"
+          "gloss": "Dima (Dmitry)",
+          "gram": "first name, used to address him"
         }
       ]
     },
@@ -2515,88 +2347,6 @@
         {
           "word": "навсегда",
           "gloss": "forever"
-        }
-      ]
-    },
-    "вы": {
-      "lemma": "вы",
-      "stress": "вы",
-      "pos": "pron",
-      "gloss": "you (polite or plural)",
-      "meanings": [
-        {
-          "en": "you",
-          "note": "polite to one person, or to several people"
-        },
-        {
-          "en": "other forms: вас (gen/acc), вам (dat), вами (instr), вас (prep)",
-          "note": "Case forms. Core Russian pron meaning 'you (polite or plural)' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "form"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "вы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "вас"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "вам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "вас"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "вами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "вас"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Как вы все знаете...",
-          "trans": "As you all know..."
-        },
-        {
-          "text": "Губернатор вас поддерживает?",
-          "trans": "Does the governor support you?"
-        },
-        {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
-        }
-      ],
-      "related": [
-        {
-          "word": "вас",
-          "gloss": "you (genitive/accusative)"
         }
       ]
     },
@@ -3155,131 +2905,6 @@
         }
       ]
     },
-    "дорогой": {
-      "lemma": "дорогой",
-      "stress": "дорого́й",
-      "pos": "adj",
-      "gloss": "expensive; dear",
-      "meanings": [
-        {
-          "en": "expensive",
-          "note": "to a loved one, and at the start of letters"
-        },
-        {
-          "en": "dear",
-          "note": "to a loved one, and at the start of letters"
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дорогой",
-              "дорогая",
-              "дорогое",
-              "дорогие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "дорогого",
-              "дорогой",
-              "дорогого",
-              "дорогих"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "дорогому",
-              "дорогой",
-              "дорогому",
-              "дорогим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "дорогой/дорогого",
-              "дорогую",
-              "дорогое",
-              "дорогие/дорогих"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "дорогим",
-              "дорогой",
-              "дорогим",
-              "дорогими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "дорогом",
-              "дорогой",
-              "дорогом",
-              "дорогих"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Short form",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "short",
-                "дорог",
-                "дорога",
-                "дорого",
-                "дороги"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Это дорогая одежда.",
-          "trans": "These are expensive clothes."
-        },
-        {
-          "text": "Дорогая, я дома!",
-          "trans": "Darling, I'm home!"
-        },
-        {
-          "text": "В Москве вам дают деньги на дорогую одежду, а мозги не дают.",
-          "trans": "In Moscow they give you money for expensive clothes, but they don't give you brains."
-        }
-      ],
-      "related": [
-        {
-          "word": "дёшево",
-          "gloss": "cheap(ly)"
-        }
-      ]
-    },
     "жадный": {
       "lemma": "жадный",
       "stress": "жа́дный",
@@ -3526,96 +3151,6 @@
         }
       ]
     },
-    "зал": {
-      "lemma": "зал",
-      "stress": "зал",
-      "pos": "noun",
-      "gloss": "hall, large room; courtroom",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "hall, large room",
-          "note": "Зал суда = courtroom. Common masculine noun meaning 'hall, large room; courtroom' in everyday Russian."
-        },
-        {
-          "en": "living room",
-          "note": "Regional/colloquial. Common masculine noun meaning 'hall, large room; courtroom' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "зал",
-              "залы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "зала",
-              "залов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "залу",
-              "залам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "зал",
-              "залы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "залом",
-              "залами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "зале",
-              "залах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Прошу в зал суда.",
-          "trans": "Please enter the courtroom."
-        },
-        {
-          "text": "Большой зал.",
-          "trans": "A big hall."
-        },
-        {
-          "text": "Понятно. А кто руководит залом?",
-          "trans": "Understood. And who is managing the dining room?"
-        }
-      ],
-      "related": [
-        {
-          "word": "залный",
-          "gloss": "related to hall (adj.)"
-        }
-      ]
-    },
     "заметить": {
       "lemma": "заметить",
       "stress": "заме́тить",
@@ -3794,44 +3329,6 @@
         {
           "word": "тут",
           "gloss": "here (colloquial)"
-        }
-      ]
-    },
-    "и": {
-      "lemma": "и",
-      "stress": "и",
-      "pos": "conj",
-      "gloss": "and",
-      "meanings": [
-        {
-          "en": "and",
-          "note": "emphasis: вот поэтому ты и... = that's exactly why you..."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я родился и вырос здесь.",
-          "trans": "I was born and grew up here."
-        },
-        {
-          "text": "Папа и мама.",
-          "trans": "Dad and Mum."
-        },
-        {
-          "text": "Спасибо, спасибо! Как вы все знаете, я родился и вырос в Синеозерске.",
-          "trans": "Thank you, thank you! As you all know, I was born and grew up in Sineozersk."
-        }
-      ],
-      "related": [
-        {
-          "word": "а",
-          "gloss": "and, but"
-        },
-        {
-          "word": "тоже",
-          "gloss": "also"
         }
       ]
     },
@@ -5197,105 +4694,6 @@
         }
       ]
     },
-    "полезный": {
-      "lemma": "полезный",
-      "stress": "поле́зный",
-      "pos": "adj",
-      "gloss": "useful, helpful",
-      "meanings": [
-        {
-          "en": "useful, helpful, wholesome",
-          "note": "Beneficial or practical. Prefix 'по-' forms perfective verbs or marks a brief/onset action (stem 'лезный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('useful, helpful')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "полезный",
-              "полезная",
-              "полезное",
-              "полезные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "полезного",
-              "полезной",
-              "полезного",
-              "полезных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "полезному",
-              "полезной",
-              "полезному",
-              "полезным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "полезный",
-              "полезную",
-              "полезное",
-              "полезные"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "полезным",
-              "полезной",
-              "полезным",
-              "полезными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "полезном",
-              "полезной",
-              "полезном",
-              "полезных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Полезный совет.",
-          "trans": "Useful advice."
-        },
-        {
-          "text": "Посоветуй мне что-нибудь полезное.",
-          "trans": "Give me some useful advice."
-        },
-        {
-          "text": "Очень полезные планы.",
-          "trans": "Very useful plans."
-        }
-      ],
-      "related": [
-        {
-          "word": "полезно",
-          "gloss": "usefully"
-        }
-      ]
-    },
     "помочь": {
       "lemma": "помочь",
       "stress": "помо́чь",
@@ -5440,109 +4838,6 @@
         {
           "word": "почему-то",
           "gloss": "for some reason"
-        }
-      ]
-    },
-    "прекрасный": {
-      "lemma": "прекрасный",
-      "stress": "прекра́сный",
-      "pos": "adj",
-      "gloss": "beautiful, wonderful",
-      "meanings": [
-        {
-          "en": "beautiful, wonderful",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('beautiful, wonderful')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "прекрасный",
-              "прекрасная",
-              "прекрасное",
-              "прекрасные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "прекрасного",
-              "прекрасной",
-              "прекрасного",
-              "прекрасных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "прекрасному",
-              "прекрасной",
-              "прекрасному",
-              "прекрасным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "прекрасный / прекрасного",
-              "прекрасную",
-              "прекрасное",
-              "прекрасные / прекрасных"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "прекрасным",
-              "прекрасной",
-              "прекрасным",
-              "прекрасными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "прекрасном",
-              "прекрасной",
-              "прекрасном",
-              "прекрасных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Прекрасный город!",
-          "trans": "A beautiful town!"
-        },
-        {
-          "text": "Прекрасная идея.",
-          "trans": "A wonderful idea."
-        },
-        {
-          "text": "Посмотри, какой у нас город прекрасный. Озёра, луга.",
-          "trans": "Look what a beautiful town we have. Lakes, meadows."
-        }
-      ],
-      "related": [
-        {
-          "word": "прекрасно",
-          "gloss": "perfectly"
-        },
-        {
-          "word": "прекратить",
-          "gloss": "to stop"
         }
       ]
     },
@@ -5784,289 +5079,6 @@
         {
           "word": "допустить",
           "gloss": "to allow"
-        }
-      ]
-    },
-    "ресторан": {
-      "lemma": "ресторан",
-      "stress": "рестора́н",
-      "pos": "noun",
-      "gloss": "restaurant",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "restaurant",
-          "note": "Dining establishment. Borrowed from French 'restaurant' (from 'restaurer', to restore strength with rich broth); entered Russian in the early 19th century."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "ресторан",
-              "рестораны"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "ресторана",
-              "ресторанов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "ресторану",
-              "ресторанам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "ресторан",
-              "рестораны"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "рестораном",
-              "ресторанами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "ресторане",
-              "ресторанах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Звонили из итальянского ресторана.",
-          "trans": "They called from the Italian restaurant."
-        },
-        {
-          "text": "Вечером они пошли в ресторан.",
-          "trans": "In the evening they went to a restaurant."
-        },
-        {
-          "text": "Кстати, звонили из итальянского ресторана. Дарят папе романтический ужин на двоих.",
-          "trans": "By the way, they called from the Italian restaurant. They're giving Dad a romantic dinner for two."
-        }
-      ],
-      "related": [
-        {
-          "word": "реструктурировать",
-          "gloss": "to restructure"
-        },
-        {
-          "word": "ресторанный",
-          "gloss": "restaurant"
-        }
-      ]
-    },
-    "романтический": {
-      "lemma": "романтический",
-      "stress": "романти́ческий",
-      "pos": "adj",
-      "gloss": "romantic",
-      "meanings": [
-        {
-          "en": "romantic",
-          "note": "Relational adjective formed with the Slavic suffix '-ский' ('pertaining to'). Agrees in gender, number, and case with the noun it modifies ('romantic')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "романтический",
-              "романтическая",
-              "романтическое",
-              "романтические"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "романтического",
-              "романтической",
-              "романтического",
-              "романтических"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "романтическому",
-              "романтической",
-              "романтическому",
-              "романтическим"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "романтический/романтического",
-              "романтическую",
-              "романтическое",
-              "романтические/романтических"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "романтическим",
-              "романтической",
-              "романтическим",
-              "романтическими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "романтическом",
-              "романтической",
-              "романтическом",
-              "романтических"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Дарят папе романтический ужин на двоих.",
-          "trans": "They're giving Dad a romantic dinner for two."
-        },
-        {
-          "text": "Это очень романтическое место.",
-          "trans": "This is a very romantic place."
-        },
-        {
-          "text": "Кстати, звонили из итальянского ресторана. Дарят папе романтический ужин на двоих.",
-          "trans": "By the way, they called from the Italian restaurant. They're giving Dad a romantic dinner for two."
-        }
-      ],
-      "related": [
-        {
-          "word": "романтика",
-          "gloss": "romance"
-        },
-        {
-          "word": "романтично",
-          "gloss": "romantically"
-        },
-        {
-          "word": "роман",
-          "gloss": "romance"
-        }
-      ]
-    },
-    "рубль": {
-      "lemma": "рубль",
-      "stress": "рубль",
-      "pos": "noun",
-      "gloss": "rouble",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "rouble",
-          "note": "The Russian currency. Common masculine noun meaning 'rouble' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "рубль",
-              "рубли"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "рубля",
-              "рублей"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "рублю",
-              "рублям"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "рубль",
-              "рубли"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "рублём",
-              "рублями"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "рубле",
-              "рублях"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это стоит сто рублей.",
-          "trans": "This costs a hundred roubles."
-        },
-        {
-          "text": "У меня нет ни рубля.",
-          "trans": "I haven't got a single rouble."
-        },
-        {
-          "text": "Наша задача — взять у взяточников миллиард рублей.",
-          "trans": "Our task is to take a billion roubles from the bribe-takers."
-        }
-      ],
-      "related": [
-        {
-          "word": "рублный",
-          "gloss": "related to rouble (adj.)"
         }
       ]
     },
@@ -6494,123 +5506,6 @@
         }
       ]
     },
-    "сохранить": {
-      "lemma": "сохранить",
-      "stress": "сохрани́ть",
-      "pos": "verb",
-      "gloss": "to keep, to preserve, to save",
-      "aspect": "pf",
-      "pair": "сохранять",
-      "meanings": [
-        {
-          "en": "to keep, to preserve",
-          "note": "Сохранить тайну = to keep a secret. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'охранить'). Used as an perfective (single completed action) verb meaning 'to keep, to preserve, to save', paired with 'сохранять'."
-        },
-        {
-          "en": "to save",
-          "note": "A file. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'охранить'). Used as an perfective (single completed action) verb meaning 'to keep, to preserve, to save', paired with 'сохранять'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "сохраню",
-              "сохраним"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "сохранишь",
-              "сохраните"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "сохранит",
-              "сохранят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "сохранил",
-                "сохранила",
-                "сохранило",
-                "сохранили"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "сохрани",
-                "сохраните"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "А ты мою тайну вчера сохранил?",
-          "trans": "And did you keep my secret yesterday?"
-        },
-        {
-          "text": "Сохрани этот документ.",
-          "trans": "Save this document."
-        },
-        {
-          "text": "В тайне? А ты мою тайну вчера сохранил?",
-          "trans": "A secret? And did you keep my secret yesterday?"
-        }
-      ],
-      "related": [
-        {
-          "word": "сохранять",
-          "gloss": "to keep"
-        },
-        {
-          "word": "охрана",
-          "gloss": "security"
-        },
-        {
-          "word": "охранник",
-          "gloss": "guard"
-        }
-      ]
-    },
     "спасти": {
       "lemma": "спасти",
       "stress": "спасти́",
@@ -6915,115 +5810,6 @@
         }
       ]
     },
-    "стоять": {
-      "lemma": "стоять",
-      "stress": "стоя́ть",
-      "pos": "verb",
-      "gloss": "to stand",
-      "aspect": "impf",
-      "pair": "постоять",
-      "meanings": [
-        {
-          "en": "to stand",
-          "note": "the infinitive 'Стоять!' as a police order"
-        },
-        {
-          "en": "freeze!",
-          "note": "the infinitive 'Стоять!' as a police order"
-        }
-      ],
-      "forms": {
-        "title": "Present",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "стою",
-              "стоим"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "стоишь",
-              "стоите"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "стоит",
-              "стоят"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "стоял",
-                "стояла",
-                "стояло",
-                "стояли"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "стой",
-                "стойте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Стоять!",
-          "trans": "Freeze!"
-        },
-        {
-          "text": "Я стою здесь.",
-          "trans": "I'm standing here."
-        },
-        {
-          "text": "То есть просто стоять и смотреть?",
-          "trans": "So we just stand and watch?"
-        }
-      ],
-      "related": [
-        {
-          "word": "постоять",
-          "gloss": "to stand for a while"
-        }
-      ]
-    },
     "только": {
       "lemma": "только",
       "stress": "то́лько",
@@ -7206,109 +5992,6 @@
         {
           "word": "трудовая",
           "gloss": "employment record book"
-        }
-      ]
-    },
-    "тёмный": {
-      "lemma": "тёмный",
-      "stress": "тёмный",
-      "pos": "adj",
-      "gloss": "dark",
-      "meanings": [
-        {
-          "en": "dark",
-          "note": "Qualitative or relational adjective formed with the productive '-н-' suffix, meaning 'dark' and agreeing in gender, number, and case."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "тёмный",
-              "тёмная",
-              "тёмное",
-              "тёмные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "тёмного",
-              "тёмной",
-              "тёмного",
-              "тёмных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "тёмному",
-              "тёмной",
-              "тёмному",
-              "тёмным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "тёмный",
-              "тёмную",
-              "тёмное",
-              "тёмные"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "тёмным",
-              "тёмной",
-              "тёмным",
-              "тёмными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "тёмном",
-              "тёмной",
-              "тёмном",
-              "тёмных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "На нём были большие тёмные очки.",
-          "trans": "He was wearing large dark glasses."
-        },
-        {
-          "text": "Он просто наденет тёмные чёрные очки.",
-          "trans": "He will simply put on dark black glasses."
-        },
-        {
-          "text": "Он надел тёмные очки в солнечный день.",
-          "trans": "He put on dark glasses on a sunny day."
-        }
-      ],
-      "related": [
-        {
-          "word": "очень",
-          "gloss": "very"
-        },
-        {
-          "word": "такой",
-          "gloss": "such"
         }
       ]
     },
@@ -8016,6 +6699,583 @@
         {
           "word": "такой",
           "gloss": "such"
+        }
+      ]
+    },
+    "маркетинговый": {
+      "lemma": "маркетинговый",
+      "stress": "маркети́нговый",
+      "pos": "adj",
+      "gloss": "marketing",
+      "meanings": [
+        {
+          "en": "marketing (as in a marketing move)",
+          "note": "Borrowed from English marketing plus the adjective ending -овый. маркетинговый ход = a marketing ploy."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "маркетинговый",
+              "маркетинговая",
+              "маркетинговое",
+              "маркетинговые"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "маркетингового",
+              "маркетинговой",
+              "маркетингового",
+              "маркетинговых"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это отличный маркетинговый ход!",
+          "trans": "It is a great marketing move!"
+        },
+        {
+          "text": "У нас новый маркетинговый план.",
+          "trans": "We have a new marketing plan."
+        }
+      ],
+      "related": [
+        {
+          "word": "маркетинг",
+          "gloss": "marketing"
+        }
+      ]
+    },
+    "темнота": {
+      "lemma": "темнота",
+      "stress": "темнота́",
+      "pos": "noun",
+      "gloss": "darkness",
+      "gender": "f",
+      "meanings": [
+        {
+          "en": "darkness, the dark",
+          "note": "Common feminine noun meaning 'darkness' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "темнота",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "темноты",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "темноте",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "темноту",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "темнотой",
+              "—"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "темноте",
+              "—"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "В темноте ничего не видно.",
+          "trans": "Nothing can be seen in the dark."
+        },
+        {
+          "text": "Давай резко напугаем его в темноте!",
+          "trans": "Let us suddenly scare him in the dark!"
+        },
+        {
+          "text": "Ты что здесь делаешь в темноте?",
+          "trans": "What are you doing here in the dark?"
+        }
+      ],
+      "related": [
+        {
+          "word": "дело",
+          "gloss": "matter, business"
+        },
+        {
+          "word": "место",
+          "gloss": "place"
+        }
+      ]
+    },
+    "сэкономить": {
+      "lemma": "сэкономить",
+      "stress": "сэконо́мить",
+      "pos": "verb",
+      "gloss": "to save (money, resources)",
+      "aspect": "pf",
+      "pair": "экономить",
+      "meanings": [
+        {
+          "en": "to save (money, time, resources)",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'экономить'). Used as an perfective (single completed action) verb meaning 'to save (money, resources)', paired with 'экономить'."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "сэкономлю",
+              "сэкономим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "сэкономишь",
+              "сэкономите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "сэкономит",
+              "сэкономят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "сэкономил",
+                "сэкономила",
+                "сэкономило",
+                "сэкономили"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "сэкономь",
+                "сэкономьте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "В день можно много сэкономить.",
+          "trans": "In a day you can save a lot."
+        },
+        {
+          "text": "Так за день можно много сэкономить!",
+          "trans": "That way in a day you can save a lot!"
+        },
+        {
+          "text": "Мы сэкономили на бармене.",
+          "trans": "We saved on the bartender."
+        }
+      ],
+      "related": [
+        {
+          "word": "экономить",
+          "gloss": "save money"
+        },
+        {
+          "word": "экономика",
+          "gloss": "economy"
+        }
+      ]
+    },
+    "стоить": {
+      "lemma": "стоить",
+      "stress": "сто́ить",
+      "pos": "verb",
+      "gloss": "to cost; to be worth",
+      "aspect": "impf",
+      "pair": null,
+      "meanings": [
+        {
+          "en": "to cost",
+          "note": "Сколько стоит? = how much is it?. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'тоить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to cost; to be worth'."
+        },
+        {
+          "en": "to be worth",
+          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'тоить'). Used as an imperfective (ongoing/repeated action) verb meaning 'to cost; to be worth'."
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "стою",
+              "стоим"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "стоишь",
+              "стоите"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "стоит",
+              "стоят"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "стоил",
+                "стоила",
+                "стоило",
+                "стоили"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Сколько это стоит?",
+          "trans": "How much does it cost?"
+        },
+        {
+          "text": "Приставка стоит пять тысяч.",
+          "trans": "The console costs five thousand."
+        },
+        {
+          "text": "А сколько стоит приставка?",
+          "trans": "And how much does the console cost?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тоить",
+          "gloss": "aspect/prefix relative (to cost)"
+        }
+      ]
+    },
+    "дорого": {
+      "lemma": "дорого",
+      "stress": "до́рого",
+      "pos": "adv",
+      "gloss": "expensive, expensively",
+      "meanings": [
+        {
+          "en": "expensive, expensively, dear",
+          "note": "Prefix 'до-' marks reaching a boundary or finishing the remainder of an action (stem 'рого'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это слишком дорого.",
+          "trans": "That is too expensive."
+        },
+        {
+          "text": "Англия — это слишком дорого.",
+          "trans": "England is too expensive."
+        },
+        {
+          "text": "Французские десерты всегда стоят очень дорого.",
+          "trans": "French desserts always cost very much."
+        }
+      ],
+      "related": [
+        {
+          "word": "дорогой",
+          "gloss": "expensive"
+        }
+      ]
+    },
+    "отличный": {
+      "lemma": "отличный",
+      "stress": "отли́чный",
+      "pos": "adj",
+      "gloss": "excellent",
+      "meanings": [
+        {
+          "en": "excellent",
+          "note": "Prefix 'от-' ('away from, off') marks separation, completion, or response (stem 'личный'). Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('excellent')."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "отличный",
+              "отличная",
+              "отличное",
+              "отличные"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "отличного",
+              "отличной",
+              "отличного",
+              "отличных"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "отличному",
+              "отличной",
+              "отличному",
+              "отличным"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "отличный / отличного",
+              "отличную",
+              "отличное",
+              "отличные / отличных"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "отличным",
+              "отличной",
+              "отличным",
+              "отличными"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "отличном",
+              "отличной",
+              "отличном",
+              "отличных"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Квартира будет отличная.",
+          "trans": "It'll be an excellent flat."
+        },
+        {
+          "text": "Отличный район!",
+          "trans": "An excellent area!"
+        },
+        {
+          "text": "Квартира будет отличная. На Симашко есть новый дом.",
+          "trans": "It'll be an excellent flat. There's a new building on Simashko Street."
+        }
+      ],
+      "related": [
+        {
+          "word": "личный",
+          "gloss": "personal"
+        },
+        {
+          "word": "отлично",
+          "gloss": "perfectly"
+        },
+        {
+          "word": "лично",
+          "gloss": "personally"
+        }
+      ]
+    },
+    "ты": {
+      "lemma": "ты",
+      "stress": "ты",
+      "pos": "pron",
+      "gloss": "you (informal)",
+      "meanings": [
+        {
+          "en": "you",
+          "note": "One person, informal. Core Russian pron meaning 'you (informal)' in everyday speech."
+        },
+        {
+          "en": "other forms: тебя (gen/acc), тебе (dat), тобой (instr), тебе (prep)",
+          "note": "Case forms. Core Russian pron meaning 'you (informal)' in everyday speech."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ты"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "тебе"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "тебя"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "тобой"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "тебе"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Ты жадина!",
+          "trans": "You're greedy!"
+        },
+        {
+          "text": "У тебя есть ещё?",
+          "trans": "Have you got any more?"
+        },
+        {
+          "text": "Папа, а жвачку ты привёз?",
+          "trans": "Dad, did you bring any gum?"
+        }
+      ],
+      "related": [
+        {
+          "word": "тебя",
+          "gloss": "you (genitive/accusative)"
+        },
+        {
+          "word": "тебе",
+          "gloss": "to you (dative)"
         }
       ]
     }

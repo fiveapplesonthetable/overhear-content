@@ -182,7 +182,7 @@
     },
     {
       "seg": 4,
-      "trans": "And what did you come up with doing now?",
+      "trans": "And what have you come up with now?",
       "words": [
         {
           "t": "И",
@@ -209,28 +209,20 @@
           "gram": "2nd person singular, nominative, informal"
         },
         {
-          "t": "придумал",
+          "t": "уже",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "уже́",
+          "gloss": "already, now",
+          "gram": "adverb"
+        },
+        {
+          "t": "придумал?",
           "lemma": "придумать",
           "pos": "verb",
           "stress": "приду́мал",
           "gloss": "came up with",
           "gram": "past, masculine singular, perfective"
-        },
-        {
-          "t": "сделать",
-          "lemma": "сделать",
-          "pos": "verb",
-          "stress": "сде́лать",
-          "gloss": "to do",
-          "gram": "infinitive, perfective"
-        },
-        {
-          "t": "сейчас?",
-          "lemma": "сейчас",
-          "pos": "adv",
-          "stress": "сейча́с",
-          "gloss": "now",
-          "gram": "adverb of time"
         }
       ]
     },
@@ -530,55 +522,39 @@
     },
     {
       "seg": 10,
-      "trans": "The law is strictly against such dangerous business.",
+      "trans": "That's illegal, Max!",
       "words": [
         {
-          "t": "Закон",
-          "lemma": "закон",
-          "pos": "noun",
-          "stress": "зако́н",
-          "gloss": "law",
-          "gram": "masculine singular, nominative"
-        },
-        {
-          "t": "строго",
-          "lemma": "строго",
-          "pos": "adv",
-          "stress": "стро́го",
-          "gloss": "sternly, strictly",
-          "gram": "adverb"
-        },
-        {
-          "t": "против",
-          "lemma": "против",
-          "pos": "prep",
-          "stress": "про́тив",
-          "gloss": "against (it)",
-          "gram": "used alone, without a noun"
-        },
-        {
-          "t": "таких",
-          "lemma": "такой",
+          "t": "Это",
+          "lemma": "это",
           "pos": "pron",
-          "stress": "таки́х",
-          "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "опасных",
-          "lemma": "опасный",
-          "pos": "adj",
-          "stress": "опа́сных",
-          "gloss": "dangerous",
-          "gram": "genitive plural"
-        },
-        {
-          "t": "дел.",
-          "lemma": "дело",
-          "pos": "noun",
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
           "stress": null,
-          "gloss": "things to do",
-          "gram": "genitive plural, neuter (after много)"
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "незаконно,",
+          "lemma": "незаконно",
+          "pos": "adv",
+          "stress": "незако́нно",
+          "gloss": "illegal",
+          "gram": "adverb used as predicate"
+        },
+        {
+          "t": "Макс!",
+          "lemma": "макс",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Max",
+          "gram": "masculine name, nominative"
         }
       ]
     },
@@ -638,7 +614,7 @@
     },
     {
       "seg": 12,
-      "trans": "I will not defend such dangerous schemes.",
+      "trans": "I'm not going to defend you!",
       "words": [
         {
           "t": "Я",
@@ -657,44 +633,28 @@
           "gram": "negation"
         },
         {
-          "t": "стану",
-          "lemma": "стать",
+          "t": "буду",
+          "lemma": "быть",
           "pos": "verb",
-          "stress": "ста́ну",
-          "gloss": "will become",
-          "gram": "future, 1st person singular, perfective"
+          "stress": "бу́ду",
+          "gloss": "will",
+          "gram": "future helper, 1st person singular"
         },
         {
-          "t": "защищать",
+          "t": "тебя",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, accusative"
+        },
+        {
+          "t": "защищать!",
           "lemma": "защищать",
           "pos": "verb",
           "stress": "защища́ть",
           "gloss": "to defend",
           "gram": "infinitive, imperfective"
-        },
-        {
-          "t": "такие",
-          "lemma": "такой",
-          "pos": "pron",
-          "stress": "таки́е",
-          "gloss": "such, so much",
-          "gram": "nominative plural"
-        },
-        {
-          "t": "опасные",
-          "lemma": "опасный",
-          "pos": "adj",
-          "stress": "опа́сные",
-          "gloss": "dangerous",
-          "gram": "plural nominative"
-        },
-        {
-          "t": "дела.",
-          "lemma": "дело",
-          "pos": "noun",
-          "stress": "дела́",
-          "gloss": "things, affairs",
-          "gram": "nominative plural, neuter; как дела? = how are you?"
         }
       ]
     },
@@ -932,7 +892,7 @@
     },
     {
       "seg": 21,
-      "trans": "And what did you come up with doing now?",
+      "trans": "And what have you come up with now?",
       "words": [
         {
           "t": "И",
@@ -959,28 +919,20 @@
           "gram": "2nd person singular, nominative, informal"
         },
         {
-          "t": "придумал",
+          "t": "уже",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "уже́",
+          "gloss": "already, now",
+          "gram": "adverb"
+        },
+        {
+          "t": "придумал?",
           "lemma": "придумать",
           "pos": "verb",
           "stress": "приду́мал",
           "gloss": "came up with",
           "gram": "past, masculine singular, perfective"
-        },
-        {
-          "t": "сделать",
-          "lemma": "сделать",
-          "pos": "verb",
-          "stress": "сде́лать",
-          "gloss": "to do",
-          "gram": "infinitive, perfective"
-        },
-        {
-          "t": "сейчас?",
-          "lemma": "сейчас",
-          "pos": "adv",
-          "stress": "сейча́с",
-          "gloss": "now",
-          "gram": "adverb of time"
         }
       ]
     },
@@ -1280,55 +1232,39 @@
     },
     {
       "seg": 33,
-      "trans": "The law is strictly against such dangerous business.",
+      "trans": "That's illegal, Max!",
       "words": [
         {
-          "t": "Закон",
-          "lemma": "закон",
-          "pos": "noun",
-          "stress": "зако́н",
-          "gloss": "law",
-          "gram": "masculine singular, nominative"
-        },
-        {
-          "t": "строго",
-          "lemma": "строго",
-          "pos": "adv",
-          "stress": "стро́го",
-          "gloss": "sternly, strictly",
-          "gram": "adverb"
-        },
-        {
-          "t": "против",
-          "lemma": "против",
-          "pos": "prep",
-          "stress": "про́тив",
-          "gloss": "against (it)",
-          "gram": "used alone, without a noun"
-        },
-        {
-          "t": "таких",
-          "lemma": "такой",
+          "t": "Это",
+          "lemma": "это",
           "pos": "pron",
-          "stress": "таки́х",
-          "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "опасных",
-          "lemma": "опасный",
-          "pos": "adj",
-          "stress": "опа́сных",
-          "gloss": "dangerous",
-          "gram": "genitive plural"
-        },
-        {
-          "t": "дел.",
-          "lemma": "дело",
-          "pos": "noun",
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
           "stress": null,
-          "gloss": "things to do",
-          "gram": "genitive plural, neuter (after много)"
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "незаконно,",
+          "lemma": "незаконно",
+          "pos": "adv",
+          "stress": "незако́нно",
+          "gloss": "illegal",
+          "gram": "adverb used as predicate"
+        },
+        {
+          "t": "Макс!",
+          "lemma": "макс",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Max",
+          "gram": "masculine name, nominative"
         }
       ]
     },
@@ -1388,7 +1324,7 @@
     },
     {
       "seg": 37,
-      "trans": "I will not defend such dangerous schemes.",
+      "trans": "I'm not going to defend you!",
       "words": [
         {
           "t": "Я",
@@ -1407,44 +1343,28 @@
           "gram": "negation"
         },
         {
-          "t": "стану",
-          "lemma": "стать",
+          "t": "буду",
+          "lemma": "быть",
           "pos": "verb",
-          "stress": "ста́ну",
-          "gloss": "will become",
-          "gram": "future, 1st person singular, perfective"
+          "stress": "бу́ду",
+          "gloss": "will",
+          "gram": "future helper, 1st person singular"
         },
         {
-          "t": "защищать",
+          "t": "тебя",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, accusative"
+        },
+        {
+          "t": "защищать!",
           "lemma": "защищать",
           "pos": "verb",
           "stress": "защища́ть",
           "gloss": "to defend",
           "gram": "infinitive, imperfective"
-        },
-        {
-          "t": "такие",
-          "lemma": "такой",
-          "pos": "pron",
-          "stress": "таки́е",
-          "gloss": "such, so much",
-          "gram": "nominative plural"
-        },
-        {
-          "t": "опасные",
-          "lemma": "опасный",
-          "pos": "adj",
-          "stress": "опа́сные",
-          "gloss": "dangerous",
-          "gram": "plural nominative"
-        },
-        {
-          "t": "дела.",
-          "lemma": "дело",
-          "pos": "noun",
-          "stress": "дела́",
-          "gloss": "things, affairs",
-          "gram": "nominative plural, neuter; как дела? = how are you?"
         }
       ]
     },
@@ -1682,7 +1602,7 @@
     },
     {
       "seg": 44,
-      "trans": "And what did you come up with doing now?",
+      "trans": "And what have you come up with now?",
       "words": [
         {
           "t": "И",
@@ -1709,28 +1629,20 @@
           "gram": "2nd person singular, nominative, informal"
         },
         {
-          "t": "придумал",
+          "t": "уже",
+          "lemma": "уже",
+          "pos": "adv",
+          "stress": "уже́",
+          "gloss": "already, now",
+          "gram": "adverb"
+        },
+        {
+          "t": "придумал?",
           "lemma": "придумать",
           "pos": "verb",
           "stress": "приду́мал",
           "gloss": "came up with",
           "gram": "past, masculine singular, perfective"
-        },
-        {
-          "t": "сделать",
-          "lemma": "сделать",
-          "pos": "verb",
-          "stress": "сде́лать",
-          "gloss": "to do",
-          "gram": "infinitive, perfective"
-        },
-        {
-          "t": "сейчас?",
-          "lemma": "сейчас",
-          "pos": "adv",
-          "stress": "сейча́с",
-          "gloss": "now",
-          "gram": "adverb of time"
         }
       ]
     },
@@ -2030,55 +1942,39 @@
     },
     {
       "seg": 50,
-      "trans": "The law is strictly against such dangerous business.",
+      "trans": "That's illegal, Max!",
       "words": [
         {
-          "t": "Закон",
-          "lemma": "закон",
-          "pos": "noun",
-          "stress": "зако́н",
-          "gloss": "law",
-          "gram": "masculine singular, nominative"
-        },
-        {
-          "t": "строго",
-          "lemma": "строго",
-          "pos": "adv",
-          "stress": "стро́го",
-          "gloss": "sternly, strictly",
-          "gram": "adverb"
-        },
-        {
-          "t": "против",
-          "lemma": "против",
-          "pos": "prep",
-          "stress": "про́тив",
-          "gloss": "against (it)",
-          "gram": "used alone, without a noun"
-        },
-        {
-          "t": "таких",
-          "lemma": "такой",
+          "t": "Это",
+          "lemma": "это",
           "pos": "pron",
-          "stress": "таки́х",
-          "gloss": "such, that kind of",
-          "gram": "accusative plural animate"
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
         },
         {
-          "t": "опасных",
-          "lemma": "опасный",
-          "pos": "adj",
-          "stress": "опа́сных",
-          "gloss": "dangerous",
-          "gram": "genitive plural"
-        },
-        {
-          "t": "дел.",
-          "lemma": "дело",
-          "pos": "noun",
+          "t": "же",
+          "lemma": "же",
+          "pos": "part",
           "stress": null,
-          "gloss": "things to do",
-          "gram": "genitive plural, neuter (after много)"
+          "gloss": "but, after all",
+          "gram": "emphatic particle"
+        },
+        {
+          "t": "незаконно,",
+          "lemma": "незаконно",
+          "pos": "adv",
+          "stress": "незако́нно",
+          "gloss": "illegal",
+          "gram": "adverb used as predicate"
+        },
+        {
+          "t": "Макс!",
+          "lemma": "макс",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Max",
+          "gram": "masculine name, nominative"
         }
       ]
     },
@@ -2138,7 +2034,7 @@
     },
     {
       "seg": 52,
-      "trans": "I will not defend such dangerous schemes.",
+      "trans": "I'm not going to defend you!",
       "words": [
         {
           "t": "Я",
@@ -2157,44 +2053,28 @@
           "gram": "negation"
         },
         {
-          "t": "стану",
-          "lemma": "стать",
+          "t": "буду",
+          "lemma": "быть",
           "pos": "verb",
-          "stress": "ста́ну",
-          "gloss": "will become",
-          "gram": "future, 1st person singular, perfective"
+          "stress": "бу́ду",
+          "gloss": "will",
+          "gram": "future helper, 1st person singular"
         },
         {
-          "t": "защищать",
+          "t": "тебя",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, accusative"
+        },
+        {
+          "t": "защищать!",
           "lemma": "защищать",
           "pos": "verb",
           "stress": "защища́ть",
           "gloss": "to defend",
           "gram": "infinitive, imperfective"
-        },
-        {
-          "t": "такие",
-          "lemma": "такой",
-          "pos": "pron",
-          "stress": "таки́е",
-          "gloss": "such, so much",
-          "gram": "nominative plural"
-        },
-        {
-          "t": "опасные",
-          "lemma": "опасный",
-          "pos": "adj",
-          "stress": "опа́сные",
-          "gloss": "dangerous",
-          "gram": "plural nominative"
-        },
-        {
-          "t": "дела.",
-          "lemma": "дело",
-          "pos": "noun",
-          "stress": "дела́",
-          "gloss": "things, affairs",
-          "gram": "nominative plural, neuter; как дела? = how are you?"
         }
       ]
     },
@@ -2792,100 +2672,6 @@
         }
       ]
     },
-    "дело": {
-      "lemma": "дело",
-      "stress": "де́ло",
-      "pos": "noun",
-      "gloss": "matter; thing to do",
-      "gender": "n",
-      "meanings": [
-        {
-          "en": "thing to do, task",
-          "note": "Много дел = a lot to do. Common neuter noun meaning 'matter; thing to do' in everyday Russian."
-        },
-        {
-          "en": "matter, business",
-          "note": "Common neuter noun meaning 'matter; thing to do' in everyday Russian."
-        },
-        {
-          "en": "case (in court)",
-          "note": "Common neuter noun meaning 'matter; thing to do' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "дело",
-              "дела"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "дела",
-              "дел"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "делу",
-              "делам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "дело",
-              "дела"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "делом",
-              "делами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "деле",
-              "делах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "У меня много дел.",
-          "trans": "I have a lot to do."
-        },
-        {
-          "text": "Как дела?",
-          "trans": "How are things?"
-        },
-        {
-          "text": "Мне некогда об этом думать. Слишком много дел.",
-          "trans": "I have no time to think about that. There's too much to do."
-        }
-      ],
-      "related": [
-        {
-          "word": "деловой",
-          "gloss": "business"
-        }
-      ]
-    },
     "деньги": {
       "lemma": "деньги",
       "stress": "де́ньги",
@@ -3195,92 +2981,6 @@
         {
           "word": "под",
           "gloss": "under"
-        }
-      ]
-    },
-    "закон": {
-      "lemma": "закон",
-      "stress": "зако́н",
-      "pos": "noun",
-      "gloss": "law, statute",
-      "gender": "m",
-      "meanings": [
-        {
-          "en": "law, legal code, statute",
-          "note": "Inanimate masculine noun. Common masculine noun meaning 'law, statute' in everyday Russian."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "закон",
-              "законы"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "закона",
-              "законов"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "закону",
-              "законам"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "закон",
-              "законы"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "законом",
-              "законами"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "законе",
-              "законах"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это закон страны.",
-          "trans": "This is the law of the country."
-        },
-        {
-          "text": "Соблюдайте закон.",
-          "trans": "Obey the law."
-        },
-        {
-          "text": "Я помню все установленные законом правила.",
-          "trans": "I remember all the rules established by law."
-        }
-      ],
-      "related": [
-        {
-          "word": "законный",
-          "gloss": "related to law (adj.)"
         }
       ]
     },
@@ -4423,113 +4123,6 @@
         }
       ]
     },
-    "опасный": {
-      "lemma": "опасный",
-      "stress": "опа́сный",
-      "pos": "adj",
-      "gloss": "dangerous",
-      "meanings": [
-        {
-          "en": "dangerous, hazardous",
-          "note": "Adjective formed with the common Slavic suffix '-н-' from a noun/verb root. Agrees in gender, number, and case with the noun it modifies ('dangerous')."
-        }
-      ],
-      "forms": {
-        "title": "Declension",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "опасный",
-              "опасная",
-              "опасное",
-              "опасные"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "опасного",
-              "опасной",
-              "опасного",
-              "опасных"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "опасному",
-              "опасной",
-              "опасному",
-              "опасным"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "опасный",
-              "опасную",
-              "опасное",
-              "опасные"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "опасным",
-              "опасной",
-              "опасным",
-              "опасными"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "опасном",
-              "опасной",
-              "опасном",
-              "опасных"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "У меня много опасных друзей.",
-          "trans": "I have many dangerous friends."
-        },
-        {
-          "text": "Это очень опасная работа.",
-          "trans": "This is a very dangerous job."
-        },
-        {
-          "text": "У меня много опасных друзей. А иначе я позвоню ребятам.",
-          "trans": "I have many dangerous friends. Otherwise I'll call the guys."
-        }
-      ],
-      "related": [
-        {
-          "word": "безопасно",
-          "gloss": "safe"
-        },
-        {
-          "word": "безопасность",
-          "gloss": "safety"
-        },
-        {
-          "word": "опасность",
-          "gloss": "danger"
-        }
-      ]
-    },
     "парень": {
       "lemma": "парень",
       "stress": "па́рень",
@@ -5360,45 +4953,6 @@
         }
       ]
     },
-    "против": {
-      "lemma": "против",
-      "stress": "про́тив",
-      "pos": "prep",
-      "gloss": "against",
-      "governs": "+ genitive",
-      "meanings": [
-        {
-          "en": "against",
-          "note": "+ genitive; can stand alone: Я против = I'm against it"
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я против.",
-          "trans": "I'm against it."
-        },
-        {
-          "text": "Он против кластера.",
-          "trans": "He is against the cluster."
-        },
-        {
-          "text": "Все в городе хотят этот кластер. Только ты против.",
-          "trans": "Everyone in town wants this cluster. Only you are against it."
-        }
-      ],
-      "related": [
-        {
-          "word": "противник",
-          "gloss": "opponent"
-        },
-        {
-          "word": "за",
-          "gloss": "in favour of"
-        }
-      ]
-    },
     "разбираться": {
       "lemma": "разбираться",
       "stress": "разбира́ться",
@@ -5638,157 +5192,6 @@
         {
           "word": "без",
           "gloss": "without"
-        }
-      ]
-    },
-    "сделать": {
-      "lemma": "сделать",
-      "stress": "сде́лать",
-      "pos": "verb",
-      "gloss": "to do, to make",
-      "aspect": "pf",
-      "pair": "делать",
-      "meanings": [
-        {
-          "en": "to do, to make",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'делать'). Used as an perfective (single completed action) verb meaning 'to do, to make', paired with 'делать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "сделаю",
-              "сделаем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "сделаешь",
-              "сделаете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "сделает",
-              "сделают"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "сделал",
-                "сделала",
-                "сделало",
-                "сделали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "сделай",
-                "сделайте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Мы сделали много.",
-          "trans": "We've done a lot."
-        },
-        {
-          "text": "Я сделаю это завтра.",
-          "trans": "I'll do it tomorrow."
-        },
-        {
-          "text": "Мы сделали много, но надо сделать ещё больше.",
-          "trans": "We've done a lot, but we need to do even more."
-        }
-      ],
-      "related": [
-        {
-          "word": "делать",
-          "gloss": "to do"
-        },
-        {
-          "word": "переделать",
-          "gloss": "to redo"
-        },
-        {
-          "word": "сделанный",
-          "gloss": "made"
-        }
-      ]
-    },
-    "сейчас": {
-      "lemma": "сейчас",
-      "stress": "сейча́с",
-      "pos": "adv",
-      "gloss": "now, right now",
-      "meanings": [
-        {
-          "en": "now",
-          "note": "'сейчас буду' = I'll be right there"
-        },
-        {
-          "en": "in a moment",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'ейчас')."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я сейчас в кабинете.",
-          "trans": "I'm in the office now."
-        },
-        {
-          "text": "Сейчас приду.",
-          "trans": "I'll be right there."
-        },
-        {
-          "text": "Конечно, помогу. Кто у вас сейчас начальник?",
-          "trans": "Of course I'll help. Who's your boss now?"
-        }
-      ],
-      "related": [
-        {
-          "word": "теперь",
-          "gloss": "now (after a change)"
         }
       ]
     },
@@ -6290,269 +5693,6 @@
         {
           "word": "очень сразу",
           "gloss": "intensified / related adverb (at once)"
-        }
-      ]
-    },
-    "стать": {
-      "lemma": "стать",
-      "stress": "стать",
-      "pos": "verb",
-      "gloss": "to become",
-      "aspect": "pf",
-      "pair": "становиться",
-      "governs": "+ instrumental",
-      "meanings": [
-        {
-          "en": "to become",
-          "note": "+ instrumental: стал сентиментальным"
-        },
-        {
-          "en": "to start (doing)",
-          "note": "+ infinitive. Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'тать'). Used as an perfective (single completed action) verb meaning 'to become', paired with 'становиться'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "стану",
-              "станем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "станешь",
-              "станете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "станет",
-              "станут"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "стал",
-                "стала",
-                "стало",
-                "стали"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Imperative",
-          "columns": [
-            "",
-            "sg",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "imperative",
-                "стань",
-                "станьте"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Он стал мэром.",
-          "trans": "He became mayor."
-        },
-        {
-          "text": "Ты стал другим.",
-          "trans": "You've changed."
-        },
-        {
-          "text": "Ты слишком сентиментальным стал. А лидер должен быть жёстким.",
-          "trans": "You've become too sentimental. And a leader has to be tough."
-        }
-      ],
-      "related": [
-        {
-          "word": "становиться",
-          "gloss": "to become"
-        },
-        {
-          "word": "статья",
-          "gloss": "article"
-        }
-      ]
-    },
-    "строго": {
-      "lemma": "строго",
-      "stress": "стро́го",
-      "pos": "adv",
-      "gloss": "strictly, sternly",
-      "meanings": [
-        {
-          "en": "sternly, strictly, severely",
-          "note": "Prefix 'с-' ('together' or 'down from') marks convergence or completion (stem 'трого'). Manner/predicative adverb in '-о', derived from the neuter short form of the corresponding adjective."
-        }
-      ],
-      "forms": null,
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Я нормально его пугал, строго!",
-          "trans": "I scared him properly, sternly!"
-        },
-        {
-          "text": "Учитель посмотрел на нас строго.",
-          "trans": "The teacher looked at us sternly."
-        },
-        {
-          "text": "Нет, я нормально его пугал, строго!",
-          "trans": "No, I scared him properly, sternly!"
-        }
-      ],
-      "related": [
-        {
-          "word": "трогать",
-          "gloss": "to touch"
-        },
-        {
-          "word": "строгий",
-          "gloss": "strict"
-        },
-        {
-          "word": "растрогать",
-          "gloss": "to move"
-        }
-      ]
-    },
-    "такой": {
-      "lemma": "такой",
-      "stress": "тако́й",
-      "pos": "pron",
-      "gloss": "such, like this",
-      "meanings": [
-        {
-          "en": "such, so",
-          "note": "'что я за мэр такой' = what kind of mayor am I"
-        },
-        {
-          "en": "что такое? = what's this?",
-          "note": "Core Russian pron meaning 'such, like this' in everyday speech."
-        }
-      ],
-      "forms": {
-        "title": "Forms",
-        "columns": [
-          "",
-          "m",
-          "f",
-          "n",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "nominative",
-              "такой",
-              "такая",
-              "такое",
-              "такие"
-            ]
-          },
-          {
-            "cells": [
-              "genitive",
-              "такого",
-              "такой",
-              "такого",
-              "таких"
-            ]
-          },
-          {
-            "cells": [
-              "dative",
-              "такому",
-              "такой",
-              "такому",
-              "таким"
-            ]
-          },
-          {
-            "cells": [
-              "accusative",
-              "такой / такого",
-              "такую",
-              "такое",
-              "такие / таких"
-            ]
-          },
-          {
-            "cells": [
-              "instrumental",
-              "таким",
-              "такой",
-              "таким",
-              "такими"
-            ]
-          },
-          {
-            "cells": [
-              "prepositional",
-              "таком",
-              "такой",
-              "таком",
-              "таких"
-            ]
-          }
-        ]
-      },
-      "moreForms": [],
-      "examples": [
-        {
-          "text": "Это что такое?",
-          "trans": "What is this?"
-        },
-        {
-          "text": "Он такой добрый.",
-          "trans": "He's so kind."
-        },
-        {
-          "text": "Павел Юрьевич, это что такое?",
-          "trans": "Pavel Yuryevich, what is this?"
-        }
-      ],
-      "related": [
-        {
-          "word": "тако",
-          "gloss": "in a such way (adv.)"
-        },
-        {
-          "word": "такость",
-          "gloss": "quality of being such"
         }
       ]
     },
@@ -7729,6 +6869,264 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "незаконно": {
+      "lemma": "незаконно",
+      "stress": "незако́нно",
+      "pos": "adv",
+      "gloss": "illegally; it is illegal",
+      "meanings": [
+        {
+          "en": "illegally, against the law",
+          "note": "не- (not) + законно (lawfully), from закон, law. Often used alone as a verdict: Это незаконно! That is illegal!"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это же незаконно, Макс!",
+          "trans": "That is illegal, Max!"
+        },
+        {
+          "text": "Так делать незаконно.",
+          "trans": "Doing that is illegal."
+        }
+      ],
+      "related": [
+        {
+          "word": "закон",
+          "gloss": "law"
+        },
+        {
+          "word": "законный",
+          "gloss": "legal, lawful"
+        }
+      ]
+    },
+    "уже": {
+      "lemma": "уже",
+      "stress": "уже́",
+      "pos": "adv",
+      "gloss": "already",
+      "meanings": [
+        {
+          "en": "already",
+          "note": "уже четыре года = for four years now"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я уже четыре года работаю мэром.",
+          "trans": "I've been mayor for four years now."
+        },
+        {
+          "text": "Папа уже дома.",
+          "trans": "Dad is already home."
+        },
+        {
+          "text": "Я уже дома.",
+          "trans": "I'm already home."
+        }
+      ],
+      "related": [
+        {
+          "word": "очень уже",
+          "gloss": "intensified / related adverb (already)"
+        }
+      ]
+    },
+    "же": {
+      "lemma": "же",
+      "stress": "же",
+      "pos": "part",
+      "gloss": "but, after all (emphasis)",
+      "meanings": [
+        {
+          "en": "but, after all",
+          "note": "adds emphasis to the word before it"
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "У тебя же есть ещё.",
+          "trans": "But you've still got some."
+        },
+        {
+          "text": "Я же знаю.",
+          "trans": "But I know."
+        },
+        {
+          "text": "У тебя же есть ещё. Дай хоть одну.",
+          "trans": "But you've still got some. Give me just one."
+        }
+      ],
+      "related": [
+        {
+          "word": "ведь",
+          "gloss": "after all, you know"
+        },
+        {
+          "word": "тоже",
+          "gloss": "also, too"
+        }
+      ]
+    },
+    "быть": {
+      "lemma": "быть",
+      "stress": "быть",
+      "pos": "verb",
+      "gloss": "to be; there is",
+      "aspect": "impf",
+      "pair": null,
+      "meanings": [
+        {
+          "en": "to be",
+          "note": "the present tense is normally left out: я мэр = I am the mayor"
+        },
+        {
+          "en": "there is, there are",
+          "note": "Present есть; у меня есть = I have. Used as an imperfective (ongoing/repeated action) verb meaning 'to be; there is'."
+        },
+        {
+          "en": "will (with an imperfective infinitive)",
+          "note": "future: буду / будешь ... + infinitive"
+        }
+      ],
+      "forms": {
+        "title": "Present",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "есть",
+              "есть"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "есть",
+              "есть"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "есть",
+              "есть"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Future",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "1st",
+                "буду",
+                "будем"
+              ]
+            },
+            {
+              "cells": [
+                "2nd",
+                "будешь",
+                "будете"
+              ]
+            },
+            {
+              "cells": [
+                "3rd",
+                "будет",
+                "будут"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "был",
+                "была",
+                "было",
+                "были"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Imperative",
+          "columns": [
+            "",
+            "sg",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "imperative",
+                "будь",
+                "будьте"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "У меня есть машинка.",
+          "trans": "I have a toy car."
+        },
+        {
+          "text": "Детство было трудное.",
+          "trans": "Childhood was hard."
+        },
+        {
+          "text": "Ты будешь просить прощения.",
+          "trans": "You will be asking for forgiveness."
+        }
+      ],
+      "related": [
+        {
+          "word": "забыть",
+          "gloss": "to forget"
+        },
+        {
+          "word": "добыть",
+          "gloss": "to get"
+        },
+        {
+          "word": "побыть",
+          "gloss": "to stay for a while"
         }
       ]
     }

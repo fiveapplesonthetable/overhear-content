@@ -16,26 +16,26 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Вика | Он заставил выключить свет даже в зале. | He forced the light to be turned off even in the dining hall. | new | new |
 | 5 | Шеф | И он требует покупать самое дешёвое мясо. | And he demands to buy the cheapest meat. | new | new |
 | 6 | Вика | Гости уже начинают громко ругать наш ресторан. | Guests are already starting to loudly criticize our restaurant. | new | new |
-| 7 | Шеф | Мы должны срочно остановить этот ужасный кошмар. | We must urgently stop this terrible nightmare. | #170 00:10:16: Ну надо же что-то делать. | verbatim |
+| 7 | Шеф | Надо срочно что-то делать. | We have to do something, fast. | #170 00:10:16: надо же что-то делать | verbatim |
 | 8 | Вика | Но что именно мы можем сейчас сделать? | However, what exactly can we do right now? | #171 00:10:18: Что? | verbatim |
 | 9 | Шеф | Мы должны действовать вместе против общего врага. | We must act together against a common enemy. | new | new |
 | 10 | Вика | Ты предлагаешь бороться против нашего жадного хозяина? | Are you proposing to fight against our greedy owner? | new | new |
 | 11 | Шеф | Мы защитим ресторан и вернём нормальный порядок. | We will protect the restaurant and restore normal order. | new | new |
-| 12 | Вика | Хорошо, давай вместе спокойно придумаем хороший план. | Fine, let us calmly devise a good plan together. | #172 00:10:20: Ну, надо подумать. | verbatim |
+| 12 | Вика | Ладно, давай вместе подумаем. | All right, let's think it over together. | #172 00:10:20: надо подумать | verbatim |
 | 13 | Шеф | Отлично, вместе мы обязательно победим эту жадность! | Great, together we will definitely defeat this greed! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, our owner is behaving like a madman.' 'Behaves' is 'leads himself', and 'madman' is built from 'gone out of one's mind'. 'Owner' is a very useful one.
-- 'I never thought I would agree with you.' The 'a' on 'thought' tells you a woman is speaking. 'With you' is the irregular 'toboy', which has to be learned.
-- 'He wants to wreck all the work of our restaurant.' Two 'of' forms stack up: 'of the work', 'of the restaurant'. 'Wreck' is a strong word, close to 'ruin'.
-- 'He made us turn off the light, even in the dining room.' 'Made' is a word followed by the plain 'turn off'. 'Even' goes before 'in the hall'.
-- 'And he demands that we buy the cheapest meat.' 'Cheapest' is made with 'most' in front of 'cheap'. 'Meat' is neuter, so 'cheap' carries 'oe'.
-- 'Guests are already starting to criticise our restaurant loudly.' 'Start' is followed by the plain 'scold'. 'Loudly' comes from the word for thunder.
-- 'We must urgently stop this terrible nightmare.' 'Nightmare' is borrowed from French. 'Urgently' is a word that sounds like an order.
-- 'But what exactly can we do right now?' 'Exactly' is one word. 'We can' is just one word too.
-- 'We have to act together against a common enemy.' 'Against' brings the 'of' form, so 'common' and 'enemy' both change. 'Together' is another handy word.
-- 'Are you proposing to fight our greedy owner?' 'Fight' ends in 'sya' and is followed by 'against'. 'Greedy' and 'owner' both take the 'of' ending.
-- 'We'll protect the restaurant and restore normal order.' 'Order' is the word that Russians use for 'in order', as in 'all is in order'. 'We'll protect' treats the action as done.
-- 'Fine, let's calmly work out a good plan together.' 'Let's' is made with 'davay' and the 'we' form. Vika uses the casual 'you' for the first time with him.
-- 'Great, together we will certainly defeat this greed!' 'Defeat' comes from 'victory'. 'Greed' is made from 'greedy' by adding the ending 'ost'.
+- 'Vika, our owner is behaving like a madman.' "Vedyot sebya", literally 'leads himself', is how Russian says 'behaves'. "Sumasshedshiy" is literally 'gone out of his mind'.
+- 'I never thought I'd agree with you.' "Dumala" ends in "-la" because Vika is a woman. "S toboy", with you, is the friendly "ty" form.
+- 'He wants to wreck the whole restaurant's work.' "Razrushit" is to wreck, to tear down. "Nashego restorana", of our restaurant, ends in "-ego" and "-a" to say whose work.
+- 'He made them turn the lights off even in the dining room.' "Zastavil" means forced, made someone do it. "Dazhe", even, goes right before 'in the hall'.
+- 'And he insists on buying the cheapest meat.' Russian makes 'cheapest' with "samoe", most, plus cheap. Both end in 'oe' to match "myaso", meat.
+- 'Guests are already starting to complain loudly about our restaurant.' "Rugat" is to scold, to tell off. "Nachinayut", they're starting, is followed by the plain "rugat".
+- 'We have to do something, fast.' "Nado", it's necessary, is the everyday 'we have to'. "Chto-to", something: "chto" with "-to" on the end.
+- 'But what exactly can we do right now?' "Imenno" means exactly, precisely. "Mozhem", we can, from "moch", to be able.
+- 'We have to act together against a common enemy.' After "protiv", against, both words change: "obshchego vraga". "Vrag" is an enemy.
+- 'Are you suggesting we fight our greedy owner?' "Predlagaesh", you're suggesting, is the friendly "ty" form. "Borotsya protiv", to fight against: "protiv" turns the owner into "nashego zhadnogo khozyaina".
+- 'We'll save the restaurant and bring back proper order.' "Vernyom" means we'll bring back. "Poryadok" is order; "vsyo v poryadke" means everything's fine.
+- 'All right, let's think it over together.' "Ladno", all right, is a grudging yes. "Davay podumaem", let's think: "davay" plus the 'we' form.
+- 'Great, together we'll beat this greed for sure!' "Pobedim", we'll defeat, shares a root with "pobeda", victory. "Zhadnost", greed, comes from "zhadnyy", greedy.

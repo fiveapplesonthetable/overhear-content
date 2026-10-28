@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
-INTRO = "Max has come up with a plan to cover the rent for the flat he shares with Kostya, and it involves the bar's cognac. Kostya doesn't see how rent comes into it, so Max sets out the scheme. The Russian comes first."
-OPENER = "Now we'll look at each line."
-TRANSITION = 'Now it all together again, from the top.'
-OUTRO = "Max's logic is, shall we say, creative, and Kostya is not at all convinced. Look out for 'besplatno', which means 'free' and is literally 'without pay'. See you next time!"
+INTRO = "Max has a plan to cover the rent on the flat he shares with Kostya, and it runs through the bar's cognac. Kostya can't see what rent has to do with it, so Max spells it out. Listen once in Russian and try to follow the scheme."
+OPENER = 'Now the plan, one step at a time.'
+TRANSITION = 'Now hear the plan in one breath.'
+OUTRO = 'Max\'s maths is creative, and Kostya isn\'t convinced. Keep "besplatno", free, literally \'without payment\': "bez" plus "plata", the same "plata" as in rent. See you next time!'
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('kostya', 'Наша квартплата?', 'Our rent?', [(173, 'Наша кварплата?')], ''),
@@ -21,25 +21,25 @@ STORY = [
     ('max', 'В прямом смысле.', 'In the literal sense.', [(174, 'В прямом')], ''),
     ('max', 'Сейчас я тебе всё объясню.', 'Now I will explain everything to you.', [(174, 'Сейчас объясню')], ''),
     ('kostya', 'Я ничего не понимаю.', 'I do not understand anything.', [], ''),
-    ('max', 'Предположим одну простую ситуацию.', 'Let us suppose one simple situation.', [(175, 'Предположим')], ''),
+    ('max', 'Представь себе простую ситуацию.', 'Picture a simple situation.', [(175, 'Предположим')], ''),
     ('max', 'Тимур привозит нам коньяк.', 'Timur brings us cognac.', [(175, 'Тимур'), (175, 'коньяка')], ''),
     ('max', 'Пять литров коньяка каждую неделю.', 'Five liters of cognac every week.', [(175, 'каждую неделю')], ''),
-    ('max', 'Он привозит его бесплатно?', 'Does he bring it for free?', [(176, 'бесплатно')], ''),
+    ('kostya', 'Он привозит его бесплатно?', 'Does he bring it for free?', [(176, 'бесплатно')], ''),
     ('max', 'Да, абсолютно бесплатно.', 'Yes, absolutely free.', [(175, 'абсолютно'), (176, 'бесплатно')], ''),
     ('kostya', 'И что мы делаем с ним?', 'And what do we do with it?', [], ''),
     ('max', 'Мы меняем бутылки и платим за квартиру.', 'We swap the bottles and pay for the apartment.', [(178, 'меняем на настоящий коньяк')], ''),
 ]
 WALK = [
-    (0, None, "'Our rent?' The word for rent is glued together from 'apartment' and 'pay'. Kostya repeats it as a question."),
-    (1, None, "'What do you mean?' Russian says 'in the sense?', with a small word for 'in'. It's a short phrase you can use anywhere."),
-    (2, None, "'Exactly what I said.' The same phrase again, now 'in the direct sense', or 'literally'. 'Direct' also means 'straight'."),
-    (3, None, "'I'll explain everything to you now.' 'Explain' is built from 'clear'. 'To you everything' has the 'to you' form first."),
-    (4, None, "'I don't understand anything.' 'Nothing' and 'not' appear together, as Russian requires. 'I understand' has a clear 'u' ending."),
-    (5, None, "'Let's suppose one simple situation.' 'Suppose' is the 'we' form, used as an invitation. 'One' and 'simple' both take the 'u' ending."),
-    (6, None, "'Timur brings us cognac.' 'Brings' is the word for bringing by vehicle. 'Us' takes the 'to us' form."),
-    (7, None, "'Five liters of cognac every week.' After 'five', 'liters' takes an 'ov' ending. 'Every week' needs no word for 'during'."),
-    (8, None, "'Does he bring it for free?' 'For free' is built from 'without' and 'pay'. It's the same 'pay' word as in 'rent'."),
-    (9, None, "'Yes, absolutely free.' 'Absolutely' is a borrowed word, and it sits right before 'free'."),
-    (10, None, "'And what do we do with it?' 'With it' picks up an 'n', so 'nim'. 'We do' finishes with 'em'."),
-    (11, None, "'We swap the bottles and pay for the apartment.' 'We swap' carries 'em'. 'For' brings the apartment into the 'u' form."),
+    (0, None, '\'Our rent?\' "Kvartplata" is glued together from "kvartira", flat, and "plata", payment.'),
+    (1, None, '\'What do you mean?\' "V smysle?", literally \'in the sense?\', is the everyday way to ask someone to explain.'),
+    (2, None, '\'Just what I said.\' Max answers "v pryamom smysle", \'in the direct sense\': literally. "Pryamoy" also means straight.'),
+    (3, None, '\'I\'ll explain it all to you now.\' "Obyasnyu", I\'ll explain, is about something to come. "Tebe", to you, is the friendly "ty" form.'),
+    (4, None, '\'I don\'t understand a thing.\' "Nichego ne ponimayu", literally \'nothing not I understand\'. "Ponimayu" ends in \'u\' for \'I\'.'),
+    (5, None, '\'Picture a simple situation.\' "Predstav sebe", literally \'present to yourself\': imagine. Situation, "situatsiya", becomes "situatsiyu" as the thing imagined.'),
+    (6, None, '\'Timur brings us cognac.\' "Privozit" means he brings it by car, regularly. "Nam", to us, is the \'to us\' form of "my".'),
+    (7, None, '\'Five litres of cognac every week.\' After five, litres become "litrov", and cognac becomes "konyaka". "Kazhduyu nedelyu", every week, needs no \'on\' or \'during\'.'),
+    (8, None, '\'He brings it for free?\' A plain statement turns into a question just by the voice going up. "Ego" here means it, the cognac.'),
+    (9, None, '\'Yes, completely free.\' "Absolyutno" is easy to recognise: absolutely. "Besplatno" is "bez", without, plus "plata", payment.'),
+    (10, None, '\'And what do we do with it?\' "S nim", with it: after a preposition, "ego" gains an \'n\' and becomes "nim".'),
+    (11, None, '\'We switch the bottles and pay for the flat.\' "Menyaem", we swap. "Platim za kvartiru": after "za", for, "kvartira" ends in \'u\'.'),
 ]

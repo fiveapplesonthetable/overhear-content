@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In my restaurant I will control everything!' 'Control' is borrowed, and 'irovat' at the end turns it into a Russian action word. 'In my restaurant' has an 'e' ending on both words.
-- 'Turn off all the extra lights right now!' 'Immediately' is built from 'not slowly'. 'Light' is uncountable in Russian, which is why 'lights' is one word.
-- 'Where can we get so much money in a week?' 'To us to take' stands for 'where can we get'. 'So much' is followed by the 'of' form of money.
-- 'Listen, how about we sell your watch?' 'Watch' is always plural in Russian, so 'chasy' is 'watches'. 'Davay' plus a 'we' form means 'let's'.
-- 'No way, it's my grandfather's old watch.' 'Not allowed' is used here as 'no way'. 'My grandfather's' is a word that ends in an 'i'.
-- 'You're a bartender, you always have money.' 'Bartender' is borrowed. 'At you there is' is the pattern for 'you have'.
-- 'I've never cheated our guests!' 'Never' and 'not' sit side by side. The guests take the 'ey' ending, which Russians use for living things being acted on.
-- 'You're simply the first honest bartender in the world.' 'In the world' needs 'v' and an 'e' ending. 'World' is also 'peace'.
-- 'But we really need to get money fast.' 'Get hold of' is a bit more effort than just 'take'. The money takes the 'of' form again.
-- 'Then listen, there's a clever way.' 'Clever' also means 'sly'. 'There is' and 'way' close the sentence.
-- 'You need to put more ice in the glass.' 'Put' is the word for putting something flat. After 'more', ice takes an 'a' ending.
-- 'That way you can save a lot in a day.' 'In a day' is 'for a day'. 'Save' is a finished action, and means 'save up' for money.
+- 'In my restaurant I will control everything!' "Kontrolirovat" is borrowed: the root 'control' plus "-irovat", which turns foreign words into Russian verbs. "V moyom restorane": after "v", restaurant gains an 'e'.
+- 'Turn off all the extra lights right now!' "Nemedlenno", immediately, is literally 'not slowly': "ne" plus "medlenno". Russian says "ves svet", all the light, in the singular.
+- 'Where can we get so much money in a week?' "Gde nam vzyat", literally 'where to us to take'. After "stolko", so much, money becomes "deneg".
+- 'Listen, how about we sell your watch?' "Davay" plus the 'we' form "prodadim" makes 'let's sell'. A watch, "chasy", is always plural, so it's "tvoi chasy".
+- 'No way, it's my grandfather's old watch.' "Nelzya" means 'it's not allowed'; here it shuts the idea down. "Moego dedushki", of my grandfather: "dedushka" ends in 'i' to show whose watch.
+- 'You're a bartender, you always have money.' "U tebya est dengi", literally 'at you there is money': you have money.
+- 'I've never cheated our guests!' "Nikogda ne", never not: Russian keeps both negatives. People as the object in the plural look like the 'of' form, so it's "nashikh gostey".
+- 'You're simply the first honest bartender in the world.' "V mire", in the world: "mir" gains an 'e' after "v". "Mir" also means peace.
+- 'But we really need to get some money fast.' "Dostat" means to get hold of, with some effort. "Dostat deneg", with money in the 'of' form, means 'get some money'.
+- 'Then listen, there's a clever way.' "Khitryy" is clever in a sly, cunning way, and "sposob" is a way of doing something.
+- 'You need to put more ice in the glass.' "Klast", to put, to lay in. Ice is "lyod", but after "bolshe", more, it shrinks to "lda".
+- 'That way you can save a lot in a day.' "Za den", over one day. "Sekonomit", to save, comes from the same root as "ekonomiya", economy.
