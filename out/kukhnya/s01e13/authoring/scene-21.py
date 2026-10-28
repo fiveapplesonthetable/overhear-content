@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Focused on the crashed car, Elena assesses the damage to her car while Barinov tries to prevent her from filing a police report. Let's listen closely to Chef Barinov and Elena's exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around The Crashed Car line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Elena assesses the damage to her car while Barinov tries to prevent her from filing a police report. Next time you watch the episode, listen for the Russian expressions for 'bumper' and 'headlight' — you will catch every word right away. See you next time!"
+INTRO = 'Elena has found her car, and it is not in one piece. She stands next to it, assessing the damage while Barinov tries to talk her out of calling the police. First, the Russian.'
+OPENER = 'Taking the damage report again, bit by bit.'
+TRANSITION = 'Now the damage report, all together.'
+OUTRO = "Elena says she will think about it, and that is all Barinov gets. 'Kak luchshe' and 'kak khuzhe' make a pair worth keeping. Until the next one."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Ну что, бампера нет...', 'Well, the bumper is gone...', [(291, 'что')], ''),
@@ -34,16 +34,20 @@ STORY = [
     ('elena', 'Я подумаю.', 'I will think about it.', [(296, 'подумаю')], ''),
 ]
 WALK = [
-    (0, None, "'Well, the bumper is gone...' Elena assesses the missing parts. She notes the front end is damaged."),
-    (1, None, "'And the headlight is smashed.' She inspects the rest of the destruction. Elena sees the light is shattered."),
-    (2, None, "'I am fine. I was not driving.' She reassures him about her safety. Elena clarifies she was not the one involved in the crash."),
-    (3, None, "'It is a long story...' Elena avoids giving a full explanation. She waves it off as too complicated."),
-    (4, None, "'I will tell you later, okay?' She promises to explain later. Elena asks for his patience."),
-    (5, None, "'All right, bye.' Elena hastily ends the conversation. She says a quick goodbye."),
-    (6, None, "'Do not worry, I will fix everything.' Chef Barinov tries to calm her down. He promises to repair all the damage himself."),
-    (7, None, "'I was only trying to help.' He offers a weak defense for his actions. Barinov claims his intentions were good."),
-    (8, None, "'I can imagine what you would have done...' Elena sarcastically contemplates his 'help'. She wonders about his true capabilities."),
-    (9, None, "'If you meant to make things worse.' She considers the alternative. Elena shudders to think what he would do if he meant harm."),
-    (10, None, "'Do you realize...' Elena checks if he understands the gravity of the situation. She demands his attention."),
-    (11, None, "'I could file a complaint?' She reminds him of her legal options. Elena threatens to make an official police report."),
+    (0, None, "'Well, the bumper is gone...' Russian says 'bumper not', and the bumper changes to 'bampera' after 'net'. That 'net' stands for 'there isn't'."),
+    (1, None, "'and the headlight is smashed.' 'Fara' is a car headlight. 'Razbita' is 'smashed', with an 'a' to go with 'fara'."),
+    (2, None, "'I am fine. I was not driving.' 'V poryadke', literally 'in order', means 'fine'. 'Za rulyom', behind the wheel, is the standard way to say who was driving."),
+    (3, None, "'It is a long story...' 'Istoriya' means 'story' and 'history', so you could use it for a school subject as well. 'Dlinnaya' has the 'aya' ending to match 'istoriya'."),
+    (4, None, "'I will tell you later, okay?' The 'okay' is the little word 'ladno', which Russians use all the time. 'Rasskazhu', I will tell, is a future with no helper word."),
+    (5, None, "'All right, bye.' 'Vsyo, davay, poka' is a chain of little words that Russians use to end a phone call. 'Poka' is a casual 'bye'."),
+    (6, None, "'Do not worry, I will fix everything.' The polite plural 'don't worry' ends in 'te'. 'Pochinyu', I will fix, is from the same verb as 'pochinil' in the kitchen."),
+    (7, None, "'I was only trying to help.' 'Khotel kak luchshe' is 'wanted as better', a famous Russian phrase for good intentions. People often finish it with 'but it turned out as always'."),
+    (8, None, "'I can imagine what you would have done...' The little 'by' means 'would'. It turns 'what was' into 'what would have been'."),
+    (9, None, "'if you meant to make things worse.' She plays on his phrase: 'kak khuzhe' is 'as worse', the opposite of his 'kak luchshe'. 'Zakhoteli' is 'you wanted'."),
+    (10, None, "'Do you realize...' 'Vy voobshche ponimaete' is 'do you even understand', with 'voobshche' adding the edge, as it did in the kitchen."),
+    (11, None, "'that I could file a complaint?' Russians say 'write a statement' where English says 'file a complaint'. It's the thing you do at a police desk."),
+    (12, None, "'And your chef could go to prison.' Literally, 'they will seat', and it means 'jail'. The same action also means 'sit someone down' and 'plant a tree'."),
+    (13, None, "'I understand.' One word, 'ponimayu'. Barinov is, for once, brief."),
+    (14, None, "'Maybe we can settle this without a complaint?' 'Bez' makes the next word change its ending, so 'complaint' turns into 'zayavleniya'. 'Oboydemsya', we'll manage, is literally 'we will go around'."),
+    (15, None, "'I will think about it.' It's a polite way of not saying yes. The 'po' in front means 'for a while'."),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'elena': 'Елена', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = "In the dining room, a woman introduces Max as a French culinary expert. Let's listen closely to their exchange in Russian first, and then walk through each line together."
-OPENER = "Now let's go back through the exchange around Meeting the Chef line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "The guests are thrilled, but Max now has to actually cook a complex dish. Next time you watch the episode, listen for the Russian expressions for 'expensive' and 'friend' — you will catch every word right away. See you next time!"
+INTRO = 'The VIP guests are waiting in the dining room, and Elena stands up to introduce a very special chef. The chef, of course, is Max, who has no idea what is coming. Listen to it in Russian first.'
+OPENER = 'Back through the speech, slowly.'
+TRANSITION = 'Now the speech in one piece.'
+OUTRO = "Max is now the French expert, with a recipe in a language he can't read. How long does he keep smiling? Find out in the next scene."
 CLOSING = ('elena', 'Пока!')
 STORY = [
     ('elena', 'Дорогие друзья, минуточку внимания.', 'Dear friends, a moment of attention.', [(233, 'Макс')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('elena', 'Мы ждем ваш кулинарный шедевр.', 'We are waiting for your culinary masterpiece.', [(233, 'Макс')], ''),
 ]
 WALK = [
-    (0, None, "'Dear friends, a moment of attention.' Elena calls for the room's attention. She asks the dear friends for a moment of quiet."),
-    (1, None, "'I want to introduce you to the best chef.' She prepares to present the guest of honor. Elena announces she wants to introduce the best chef."),
-    (2, None, "'Good evening, dear guests.' Max greets the room confidently. He wishes the dear guests a good evening."),
-    (3, None, "'This is Maximilian, an expert in French cuisine.' Elena introduces Max with a fake title. She calls him an expert in French cuisine."),
-    (4, None, "'I am very glad to be here.' Max plays along with the charade. He politely expresses how glad he is to be there."),
-    (5, None, "'He kindly agreed to prepare an old dish.' Elena explains the special occasion. She says he kindly agreed to prepare an old dish."),
-    (6, None, "'We took it from this French book.' She mentions the source of the recipe. Elena notes they took it from a French book."),
-    (7, None, "'I chose this dish for us.' Elena reveals her specific selection. She proudly states she chose this exact dish for them."),
-    (8, None, "'This is an excellent choice for tonight.' Max compliments her taste. He calls it an excellent choice for the evening."),
-    (9, None, "'Maximilian will prepare it for us today.' Elena sets the expectation for the guests. She announces Max will prepare it today."),
-    (10, None, "'I will do everything in the best way.' Max makes a confident promise. He guarantees he will make it in the best possible way."),
-    (11, None, "'We are waiting for your culinary masterpiece.' Elena expresses her eager anticipation. She says they are waiting for his culinary masterpiece."),
+    (0, None, "'Dear friends, a moment of attention.' 'Minutochku' is a tiny 'minute', the small form of minuta, and it's how Russians ask for a moment. 'Vnimanie', attention, becomes vnimaniya, the 'of' form."),
+    (1, None, "'I want to introduce you to the best chef.' 'Poznakomit' is 'to make acquainted'. 'With the best chef' is s luchshim shef-povarom: after 's', both words take the 'with' ending, 'im' and 'om'."),
+    (2, None, "'Good evening, dear guests.' Max copies her tone. 'Dorogie' means 'dear' here, and in a shop the same word means 'expensive'."),
+    (3, None, "'This is Maximilian, an expert in French cuisine.' Russians say 'specialist po', 'on', a subject. And kukhne is a form of kukhnya, the show's own title: it means both kitchen and cuisine."),
+    (4, None, "'I am very glad to be here.' 'Rad' is the short word for 'glad', and it's the man's form. A woman would say rada."),
+    (5, None, "'He kindly agreed to prepare an old dish.' 'Soglasilsya' is 'agreed', and the 'l' before 'sya' tells you it's a man. 'Starinnoe' means old in the sense of antique, from long ago; plain 'old' would be staroe."),
+    (6, None, "'We took it from this French book.' Iz means 'out of', and it puts the book in the 'of' form: kniga becomes knigi, and etoy frantsuzskoy agree with it."),
+    (7, None, "'I chose this dish for us.' 'Vybrala' ends in 'a' because Elena, the one who chose, is a woman. The little vot in vot eto bludo points: 'this one right here'."),
+    (8, None, "'This is an excellent choice for tonight.' 'Vybor', choice, shares its root with vybrala, chose. 'Segodnyashnego vechera' is 'of today's evening', the Russian 'tonight'."),
+    (9, None, "'Maximilian will prepare it for us today.' Ego here means 'it', the dish. The same word ego is also 'him', so it covers both."),
+    (10, None, "'I will do everything in the best way.' V luchshem vide is literally 'in the best form', a set phrase for 'done perfectly'. 'Vse', everything, is the whole object."),
+    (11, None, "'We are waiting for your culinary masterpiece.' No 'for' in Russian: you simply wait something, zhdem vash shedevr. 'Shedevr' is French chef-d'oeuvre in Russian spelling."),
 ]

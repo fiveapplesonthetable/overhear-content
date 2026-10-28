@@ -36,7 +36,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gram": "interrogative pronoun, nominative"
         },
         {
           "t": "это",
@@ -58,7 +58,7 @@
     },
     {
       "seg": 2,
-      "trans": "Did you drag me into bed again?",
+      "trans": "Did you drag me here again?",
       "words": [
         {
           "t": "Ты",
@@ -90,23 +90,15 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive"
+          "gram": "1st person singular, accusative"
         },
         {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "постель?",
-          "lemma": "постель",
-          "pos": "noun",
-          "stress": "посте́ль",
-          "gloss": "bed",
-          "gram": "feminine singular accusative"
+          "t": "сюда?",
+          "lemma": "сюда",
+          "pos": "adv",
+          "stress": "сюда́",
+          "gloss": "here (direction)",
+          "gram": "adverb of direction"
         }
       ]
     },
@@ -151,7 +143,7 @@
           "lemma": "сюда",
           "pos": "adv",
           "stress": "сюда́",
-          "gloss": "here (to me)",
+          "gloss": "here (direction)",
           "gram": "adverb of direction"
         },
         {
@@ -159,7 +151,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself",
           "gram": "masculine singular nominative"
         }
       ]
@@ -186,11 +178,11 @@
         },
         {
           "t": "надо",
-          "lemma": "надо",
-          "pos": "adv",
+          "lemma": "над",
+          "pos": "prep",
           "stress": "на́до",
-          "gloss": "it is necessary",
-          "gram": "predicative adverb + infinitive"
+          "gloss": "over, at (laugh at)",
+          "gram": "preposition + instrumental (надо before мной)"
         },
         {
           "t": "мной,",
@@ -235,7 +227,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": "сама́",
-          "gloss": "myself, on my own",
+          "gloss": "yourself, on your own",
           "gram": "emphatic pronoun, feminine singular"
         },
         {
@@ -251,7 +243,7 @@
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me (мне некогда = I have no time)",
+          "gloss": "to me",
           "gram": "1st person singular, dative"
         },
         {
@@ -330,7 +322,7 @@
           "pos": "noun",
           "stress": "глу́пость",
           "gloss": "nonsense, foolishness",
-          "gram": "feminine nominative singular"
+          "gram": "feminine accusative singular"
         }
       ]
     },
@@ -392,7 +384,7 @@
           "pos": "noun",
           "stress": "часа́",
           "gloss": "hours",
-          "gram": "genitive singular, masculine (after полтора)"
+          "gram": "genitive singular, masculine (after три)"
         }
       ]
     },
@@ -406,7 +398,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gram": "interrogative pronoun, nominative"
         },
         {
           "t": "я",
@@ -492,7 +484,7 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, genitive"
+          "gram": "2nd person singular, accusative"
         },
         {
           "t": "домой.",
@@ -538,7 +530,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "instrumental singular, feminine"
         },
         {
           "t": "минутной",
@@ -592,7 +584,7 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, genitive"
+          "gram": "2nd person singular, accusative"
         },
         {
           "t": "от",
@@ -722,230 +714,6 @@
     },
     {
       "seg": 15,
-      "trans": "Did you drag me into bed again?",
-      "words": [
-        {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "опять",
-          "lemma": "опять",
-          "pos": "adv",
-          "stress": "опя́ть",
-          "gloss": "again",
-          "gram": "adverb"
-        },
-        {
-          "t": "затащил",
-          "lemma": "затащить",
-          "pos": "verb",
-          "stress": "затащи́л",
-          "gloss": "dragged, hauled",
-          "gram": "masculine singular past"
-        },
-        {
-          "t": "меня",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": "меня́",
-          "gloss": "me",
-          "gram": "1st person singular, genitive"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "постель?",
-          "lemma": "постель",
-          "pos": "noun",
-          "stress": "посте́ль",
-          "gloss": "bed",
-          "gram": "feminine singular accusative"
-        }
-      ]
-    },
-    {
-      "seg": 17,
-      "trans": "You called me yourself at night from the club.",
-      "words": [
-        {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "сама",
-          "lemma": "сам",
-          "pos": "pron",
-          "stress": "сама́",
-          "gloss": "myself, on my own",
-          "gram": "emphatic pronoun, feminine singular"
-        },
-        {
-          "t": "позвонила",
-          "lemma": "позвонить",
-          "pos": "verb",
-          "stress": "позвони́ла",
-          "gloss": "phoned",
-          "gram": "past, feminine singular, perfective"
-        },
-        {
-          "t": "мне",
-          "lemma": "я",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "to me (мне некогда = I have no time)",
-          "gram": "1st person singular, dative"
-        },
-        {
-          "t": "ночью",
-          "lemma": "ночь",
-          "pos": "noun",
-          "stress": "но́чью",
-          "gloss": "night",
-          "gram": "ins.f.sg"
-        },
-        {
-          "t": "из",
-          "lemma": "из",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "from/out of",
-          "gram": "preposition with genitive"
-        },
-        {
-          "t": "клуба.",
-          "lemma": "клуб",
-          "pos": "noun",
-          "stress": "клу́ба",
-          "gloss": "club",
-          "gram": "masculine singular genitive"
-        }
-      ]
-    },
-    {
-      "seg": 19,
-      "trans": "You were begging me to take you home.",
-      "words": [
-        {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "просила",
-          "lemma": "просить",
-          "pos": "verb",
-          "stress": "проси́ла",
-          "gloss": "asked",
-          "gram": "past, feminine singular, imperfective"
-        },
-        {
-          "t": "забрать",
-          "lemma": "забрать",
-          "pos": "verb",
-          "stress": "забра́ть",
-          "gloss": "take",
-          "gram": "infinitive, perfective"
-        },
-        {
-          "t": "тебя",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": "тебя́",
-          "gloss": "you",
-          "gram": "2nd person singular, genitive"
-        },
-        {
-          "t": "домой.",
-          "lemma": "домой",
-          "pos": "adv",
-          "stress": "домо́й",
-          "gloss": "home",
-          "gram": "adverb of direction"
-        }
-      ]
-    },
-    {
-      "seg": 21,
-      "trans": "You simply took advantage of my momentary weakness.",
-      "words": [
-        {
-          "t": "Ты",
-          "lemma": "ты",
-          "pos": "pron",
-          "stress": null,
-          "gloss": "you",
-          "gram": "2nd person singular, nominative, informal"
-        },
-        {
-          "t": "просто",
-          "lemma": "просто",
-          "pos": "adv",
-          "stress": "про́сто",
-          "gloss": "just",
-          "gram": "adverb"
-        },
-        {
-          "t": "воспользовался",
-          "lemma": "воспользоваться",
-          "pos": "verb",
-          "stress": "воспо́льзовался",
-          "gloss": "took advantage of",
-          "gram": "masculine singular past"
-        },
-        {
-          "t": "моей",
-          "lemma": "мой",
-          "pos": "det",
-          "stress": "мое́й",
-          "gloss": "my",
-          "gram": "prepositional singular, feminine"
-        },
-        {
-          "t": "минутной",
-          "lemma": "минутный",
-          "pos": "adj",
-          "stress": "мину́тной",
-          "gloss": "momentary",
-          "gram": "feminine singular instrumental"
-        },
-        {
-          "t": "слабостью.",
-          "lemma": "слабость",
-          "pos": "noun",
-          "stress": "сла́бостью",
-          "gloss": "weakness",
-          "gram": "instrumental singular, feminine (governed by пользоваться)"
-        }
-      ]
-    },
-    {
-      "seg": 23,
       "trans": "Where am I? What is this?",
       "words": [
         {
@@ -978,7 +746,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gram": "interrogative pronoun, nominative"
         },
         {
           "t": "это",
@@ -999,8 +767,8 @@
       ]
     },
     {
-      "seg": 24,
-      "trans": "Did you drag me into bed again?",
+      "seg": 17,
+      "trans": "Did you drag me here again?",
       "words": [
         {
           "t": "Ты",
@@ -1032,28 +800,20 @@
           "pos": "pron",
           "stress": "меня́",
           "gloss": "me",
-          "gram": "1st person singular, genitive"
+          "gram": "1st person singular, accusative"
         },
         {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "постель?",
-          "lemma": "постель",
-          "pos": "noun",
-          "stress": "посте́ль",
-          "gloss": "bed",
-          "gram": "feminine singular accusative"
+          "t": "сюда?",
+          "lemma": "сюда",
+          "pos": "adv",
+          "stress": "сюда́",
+          "gloss": "here (direction)",
+          "gram": "adverb of direction"
         }
       ]
     },
     {
-      "seg": 25,
+      "seg": 19,
       "trans": "Of course, tied you up and brought you here myself.",
       "words": [
         {
@@ -1093,7 +853,7 @@
           "lemma": "сюда",
           "pos": "adv",
           "stress": "сюда́",
-          "gloss": "here (to me)",
+          "gloss": "here (direction)",
           "gram": "adverb of direction"
         },
         {
@@ -1101,13 +861,13 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": null,
-          "gloss": "yourself",
+          "gloss": "myself",
           "gram": "masculine singular nominative"
         }
       ]
     },
     {
-      "seg": 26,
+      "seg": 21,
       "trans": "Do not laugh at me, tell the truth.",
       "words": [
         {
@@ -1128,11 +888,11 @@
         },
         {
           "t": "надо",
-          "lemma": "надо",
-          "pos": "adv",
+          "lemma": "над",
+          "pos": "prep",
           "stress": "на́до",
-          "gloss": "it is necessary",
-          "gram": "predicative adverb + infinitive"
+          "gloss": "over, at (laugh at)",
+          "gram": "preposition + instrumental (надо before мной)"
         },
         {
           "t": "мной,",
@@ -1161,7 +921,7 @@
       ]
     },
     {
-      "seg": 27,
+      "seg": 23,
       "trans": "You called me yourself at night from the club.",
       "words": [
         {
@@ -1177,7 +937,7 @@
           "lemma": "сам",
           "pos": "pron",
           "stress": "сама́",
-          "gloss": "myself, on my own",
+          "gloss": "yourself, on your own",
           "gram": "emphatic pronoun, feminine singular"
         },
         {
@@ -1193,7 +953,7 @@
           "lemma": "я",
           "pos": "pron",
           "stress": null,
-          "gloss": "to me (мне некогда = I have no time)",
+          "gloss": "to me",
           "gram": "1st person singular, dative"
         },
         {
@@ -1223,7 +983,7 @@
       ]
     },
     {
-      "seg": 28,
+      "seg": 25,
       "trans": "I could not do such a foolish thing.",
       "words": [
         {
@@ -1272,12 +1032,12 @@
           "pos": "noun",
           "stress": "глу́пость",
           "gloss": "nonsense, foolishness",
-          "gram": "feminine nominative singular"
+          "gram": "feminine accusative singular"
         }
       ]
     },
     {
-      "seg": 29,
+      "seg": 27,
       "trans": "You were crying into the phone at three o'clock.",
       "words": [
         {
@@ -1334,12 +1094,12 @@
           "pos": "noun",
           "stress": "часа́",
           "gloss": "hours",
-          "gram": "genitive singular, masculine (after полтора)"
+          "gram": "genitive singular, masculine (after три)"
         }
       ]
     },
     {
-      "seg": 30,
+      "seg": 29,
       "trans": "What was I telling you then, Max?",
       "words": [
         {
@@ -1348,7 +1108,7 @@
           "pos": "pron",
           "stress": null,
           "gloss": "what",
-          "gram": "relative pronoun, accusative"
+          "gram": "interrogative pronoun, nominative"
         },
         {
           "t": "я",
@@ -1434,7 +1194,7 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, genitive"
+          "gram": "2nd person singular, accusative"
         },
         {
           "t": "домой.",
@@ -1447,7 +1207,7 @@
       ]
     },
     {
-      "seg": 32,
+      "seg": 33,
       "trans": "You simply took advantage of my momentary weakness.",
       "words": [
         {
@@ -1480,7 +1240,7 @@
           "pos": "det",
           "stress": "мое́й",
           "gloss": "my",
-          "gram": "prepositional singular, feminine"
+          "gram": "instrumental singular, feminine"
         },
         {
           "t": "минутной",
@@ -1501,7 +1261,7 @@
       ]
     },
     {
-      "seg": 33,
+      "seg": 35,
       "trans": "I simply saved you from trouble.",
       "words": [
         {
@@ -1534,7 +1294,7 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, genitive"
+          "gram": "2nd person singular, accusative"
         },
         {
           "t": "от",
@@ -1555,7 +1315,7 @@
       ]
     },
     {
-      "seg": 34,
+      "seg": 37,
       "trans": "I need to leave here urgently, Max.",
       "words": [
         {
@@ -1609,7 +1369,7 @@
       ]
     },
     {
-      "seg": 35,
+      "seg": 39,
       "trans": "Your clothes are lying on that chair.",
       "words": [
         {
@@ -1663,7 +1423,717 @@
       ]
     },
     {
-      "seg": 37,
+      "seg": 41,
+      "trans": "Where am I? What is this?",
+      "words": [
+        {
+          "t": "Где",
+          "lemma": "где",
+          "pos": "adv",
+          "stress": null,
+          "gloss": "where",
+          "gram": "question word"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "нахожусь?",
+          "lemma": "находиться",
+          "pos": "verb",
+          "stress": "нахожу́сь",
+          "gloss": "am (located)",
+          "gram": "1st person singular present"
+        },
+        {
+          "t": "Что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "interrogative pronoun, nominative"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "такое?",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "тако́е",
+          "gloss": "(what) on earth",
+          "gram": "nominative singular, neuter; что такое = what is"
+        }
+      ]
+    },
+    {
+      "seg": 42,
+      "trans": "Did you drag me here again?",
+      "words": [
+        {
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "опять",
+          "lemma": "опять",
+          "pos": "adv",
+          "stress": "опя́ть",
+          "gloss": "again",
+          "gram": "adverb"
+        },
+        {
+          "t": "затащил",
+          "lemma": "затащить",
+          "pos": "verb",
+          "stress": "затащи́л",
+          "gloss": "dragged, hauled",
+          "gram": "masculine singular past"
+        },
+        {
+          "t": "меня",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": "меня́",
+          "gloss": "me",
+          "gram": "1st person singular, accusative"
+        },
+        {
+          "t": "сюда?",
+          "lemma": "сюда",
+          "pos": "adv",
+          "stress": "сюда́",
+          "gloss": "here (direction)",
+          "gram": "adverb of direction"
+        }
+      ]
+    },
+    {
+      "seg": 43,
+      "trans": "Of course, tied you up and brought you here myself.",
+      "words": [
+        {
+          "t": "Конечно,",
+          "lemma": "конечно",
+          "pos": "adv",
+          "stress": "коне́чно",
+          "gloss": "of course",
+          "gram": "adverb"
+        },
+        {
+          "t": "связал",
+          "lemma": "связать",
+          "pos": "verb",
+          "stress": "связа́л",
+          "gloss": "tied up",
+          "gram": "masculine singular past"
+        },
+        {
+          "t": "и",
+          "lemma": "и",
+          "pos": "conj",
+          "stress": null,
+          "gloss": "and",
+          "gram": "conjunction"
+        },
+        {
+          "t": "принёс",
+          "lemma": "принести",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "brought",
+          "gram": "past, masculine singular, perfective"
+        },
+        {
+          "t": "сюда",
+          "lemma": "сюда",
+          "pos": "adv",
+          "stress": "сюда́",
+          "gloss": "here (direction)",
+          "gram": "adverb of direction"
+        },
+        {
+          "t": "сам.",
+          "lemma": "сам",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "myself",
+          "gram": "masculine singular nominative"
+        }
+      ]
+    },
+    {
+      "seg": 44,
+      "trans": "Do not laugh at me, tell the truth.",
+      "words": [
+        {
+          "t": "Не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "смейся",
+          "lemma": "смеяться",
+          "pos": "verb",
+          "stress": "сме́йся",
+          "gloss": "laugh",
+          "gram": "imperative, 2nd person singular, imperfective, reflexive"
+        },
+        {
+          "t": "надо",
+          "lemma": "над",
+          "pos": "prep",
+          "stress": "на́до",
+          "gloss": "over, at (laugh at)",
+          "gram": "preposition + instrumental (надо before мной)"
+        },
+        {
+          "t": "мной,",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "me",
+          "gram": "instrumental 1st person singular"
+        },
+        {
+          "t": "говори",
+          "lemma": "говорить",
+          "pos": "verb",
+          "stress": "говори́",
+          "gloss": "say, talk",
+          "gram": "imperative, 2nd person singular, imperfective"
+        },
+        {
+          "t": "правду.",
+          "lemma": "правда",
+          "pos": "noun",
+          "stress": "пра́вду",
+          "gloss": "truth",
+          "gram": "accusative singular feminine"
+        }
+      ]
+    },
+    {
+      "seg": 45,
+      "trans": "You called me yourself at night from the club.",
+      "words": [
+        {
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "сама",
+          "lemma": "сам",
+          "pos": "pron",
+          "stress": "сама́",
+          "gloss": "yourself, on your own",
+          "gram": "emphatic pronoun, feminine singular"
+        },
+        {
+          "t": "позвонила",
+          "lemma": "позвонить",
+          "pos": "verb",
+          "stress": "позвони́ла",
+          "gloss": "phoned",
+          "gram": "past, feminine singular, perfective"
+        },
+        {
+          "t": "мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me",
+          "gram": "1st person singular, dative"
+        },
+        {
+          "t": "ночью",
+          "lemma": "ночь",
+          "pos": "noun",
+          "stress": "но́чью",
+          "gloss": "night",
+          "gram": "ins.f.sg"
+        },
+        {
+          "t": "из",
+          "lemma": "из",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from/out of",
+          "gram": "preposition with genitive"
+        },
+        {
+          "t": "клуба.",
+          "lemma": "клуб",
+          "pos": "noun",
+          "stress": "клу́ба",
+          "gloss": "club",
+          "gram": "masculine singular genitive"
+        }
+      ]
+    },
+    {
+      "seg": 46,
+      "trans": "I could not do such a foolish thing.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "не",
+          "lemma": "не",
+          "pos": "part",
+          "stress": null,
+          "gloss": "not",
+          "gram": "negation"
+        },
+        {
+          "t": "могла",
+          "lemma": "мочь",
+          "pos": "verb",
+          "stress": "могла́",
+          "gloss": "could",
+          "gram": "past, feminine singular, imperfective"
+        },
+        {
+          "t": "сделать",
+          "lemma": "сделать",
+          "pos": "verb",
+          "stress": "сде́лать",
+          "gloss": "to do",
+          "gram": "infinitive, perfective"
+        },
+        {
+          "t": "такую",
+          "lemma": "такой",
+          "pos": "pron",
+          "stress": "таку́ю",
+          "gloss": "such",
+          "gram": "feminine accusative singular"
+        },
+        {
+          "t": "глупость.",
+          "lemma": "глупость",
+          "pos": "noun",
+          "stress": "глу́пость",
+          "gloss": "nonsense, foolishness",
+          "gram": "feminine accusative singular"
+        }
+      ]
+    },
+    {
+      "seg": 47,
+      "trans": "You were crying into the phone at three o'clock.",
+      "words": [
+        {
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "плакала",
+          "lemma": "плакать",
+          "pos": "verb",
+          "stress": "пла́кала",
+          "gloss": "were crying",
+          "gram": "feminine singular past"
+        },
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "трубку",
+          "lemma": "трубка",
+          "pos": "noun",
+          "stress": "тру́бку",
+          "gloss": "the receiver",
+          "gram": "accusative singular, feminine"
+        },
+        {
+          "t": "в",
+          "lemma": "в",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "in, into",
+          "gram": "preposition"
+        },
+        {
+          "t": "три",
+          "lemma": "три",
+          "pos": "num",
+          "stress": null,
+          "gloss": "three",
+          "gram": "accusative"
+        },
+        {
+          "t": "часа.",
+          "lemma": "час",
+          "pos": "noun",
+          "stress": "часа́",
+          "gloss": "hours",
+          "gram": "genitive singular, masculine (after три)"
+        }
+      ]
+    },
+    {
+      "seg": 48,
+      "trans": "What was I telling you then, Max?",
+      "words": [
+        {
+          "t": "Что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "interrogative pronoun, nominative"
+        },
+        {
+          "t": "я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "тебе",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебе́",
+          "gloss": "for you, to you",
+          "gram": "2nd person singular, dative"
+        },
+        {
+          "t": "тогда",
+          "lemma": "тогда",
+          "pos": "adv",
+          "stress": "тогда́",
+          "gloss": "back then",
+          "gram": "adverb of time"
+        },
+        {
+          "t": "говорила,",
+          "lemma": "говорить",
+          "pos": "verb",
+          "stress": "говори́ла",
+          "gloss": "said",
+          "gram": "past, feminine singular, imperfective"
+        },
+        {
+          "t": "Макс?",
+          "lemma": "макс",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Max",
+          "gram": "masculine name, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 49,
+      "trans": "You were begging me to take you home.",
+      "words": [
+        {
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "очень",
+          "lemma": "очень",
+          "pos": "adv",
+          "stress": "о́чень",
+          "gloss": "very much",
+          "gram": "adverb of degree"
+        },
+        {
+          "t": "просила",
+          "lemma": "просить",
+          "pos": "verb",
+          "stress": "проси́ла",
+          "gloss": "asked",
+          "gram": "past, feminine singular, imperfective"
+        },
+        {
+          "t": "забрать",
+          "lemma": "забрать",
+          "pos": "verb",
+          "stress": "забра́ть",
+          "gloss": "take",
+          "gram": "infinitive, perfective"
+        },
+        {
+          "t": "тебя",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, accusative"
+        },
+        {
+          "t": "домой.",
+          "lemma": "домой",
+          "pos": "adv",
+          "stress": "домо́й",
+          "gloss": "home",
+          "gram": "adverb of direction"
+        }
+      ]
+    },
+    {
+      "seg": 50,
+      "trans": "You simply took advantage of my momentary weakness.",
+      "words": [
+        {
+          "t": "Ты",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "you",
+          "gram": "2nd person singular, nominative, informal"
+        },
+        {
+          "t": "просто",
+          "lemma": "просто",
+          "pos": "adv",
+          "stress": "про́сто",
+          "gloss": "just",
+          "gram": "adverb"
+        },
+        {
+          "t": "воспользовался",
+          "lemma": "воспользоваться",
+          "pos": "verb",
+          "stress": "воспо́льзовался",
+          "gloss": "took advantage of",
+          "gram": "masculine singular past"
+        },
+        {
+          "t": "моей",
+          "lemma": "мой",
+          "pos": "det",
+          "stress": "мое́й",
+          "gloss": "my",
+          "gram": "instrumental singular, feminine"
+        },
+        {
+          "t": "минутной",
+          "lemma": "минутный",
+          "pos": "adj",
+          "stress": "мину́тной",
+          "gloss": "momentary",
+          "gram": "feminine singular instrumental"
+        },
+        {
+          "t": "слабостью.",
+          "lemma": "слабость",
+          "pos": "noun",
+          "stress": "сла́бостью",
+          "gloss": "weakness",
+          "gram": "instrumental singular, feminine (governed by пользоваться)"
+        }
+      ]
+    },
+    {
+      "seg": 51,
+      "trans": "I simply saved you from trouble.",
+      "words": [
+        {
+          "t": "Я",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "I",
+          "gram": "1st person singular, nominative"
+        },
+        {
+          "t": "просто",
+          "lemma": "просто",
+          "pos": "adv",
+          "stress": "про́сто",
+          "gloss": "just",
+          "gram": "adverb"
+        },
+        {
+          "t": "спас",
+          "lemma": "спасти",
+          "pos": "verb",
+          "stress": null,
+          "gloss": "saved",
+          "gram": "past masculine singular"
+        },
+        {
+          "t": "тебя",
+          "lemma": "ты",
+          "pos": "pron",
+          "stress": "тебя́",
+          "gloss": "you",
+          "gram": "2nd person singular, accusative"
+        },
+        {
+          "t": "от",
+          "lemma": "от",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "from",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "неприятностей.",
+          "lemma": "неприятность",
+          "pos": "noun",
+          "stress": "неприя́тностей",
+          "gloss": "trouble",
+          "gram": "feminine plural genitive"
+        }
+      ]
+    },
+    {
+      "seg": 52,
+      "trans": "I need to leave here urgently, Max.",
+      "words": [
+        {
+          "t": "Мне",
+          "lemma": "я",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "to me (мне некогда = I have no time)",
+          "gram": "1st person singular, dative"
+        },
+        {
+          "t": "нужно",
+          "lemma": "нужно",
+          "pos": "adv",
+          "stress": "ну́жно",
+          "gloss": "(it is) necessary",
+          "gram": "predicative, + dative of the person + infinitive"
+        },
+        {
+          "t": "срочно",
+          "lemma": "срочно",
+          "pos": "adv",
+          "stress": "сро́чно",
+          "gloss": "urgent, urgently",
+          "gram": "predicative adverb"
+        },
+        {
+          "t": "уйти",
+          "lemma": "уйти",
+          "pos": "verb",
+          "stress": "уйти́",
+          "gloss": "to leave",
+          "gram": "infinitive, perfective"
+        },
+        {
+          "t": "отсюда,",
+          "lemma": "отсюда",
+          "pos": "adv",
+          "stress": "отсю́да",
+          "gloss": "from here",
+          "gram": "adverb of place"
+        },
+        {
+          "t": "Макс.",
+          "lemma": "макс",
+          "pos": "name",
+          "stress": null,
+          "gloss": "Max",
+          "gram": "masculine name, nominative"
+        }
+      ]
+    },
+    {
+      "seg": 53,
+      "trans": "Your clothes are lying on that chair.",
+      "words": [
+        {
+          "t": "Твоя",
+          "lemma": "твой",
+          "pos": "det",
+          "stress": "твоя́",
+          "gloss": "your",
+          "gram": "possessive, informal, feminine nominative singular"
+        },
+        {
+          "t": "одежда",
+          "lemma": "одежда",
+          "pos": "noun",
+          "stress": "оде́жда",
+          "gloss": "clothes",
+          "gram": "feminine singular nominative"
+        },
+        {
+          "t": "лежит",
+          "lemma": "лежать",
+          "pos": "verb",
+          "stress": "лежи́т",
+          "gloss": "is lying",
+          "gram": "3rd person singular, present, imperfective"
+        },
+        {
+          "t": "на",
+          "lemma": "на",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "on, onto",
+          "gram": "preposition"
+        },
+        {
+          "t": "том",
+          "lemma": "тот",
+          "pos": "det",
+          "stress": null,
+          "gloss": "that",
+          "gram": "prep m sg"
+        },
+        {
+          "t": "стуле.",
+          "lemma": "стул",
+          "pos": "noun",
+          "stress": "сту́ле",
+          "gloss": "chair",
+          "gram": "masculine singular prepositional"
+        }
+      ]
+    },
+    {
+      "seg": 55,
       "trans": "Bye!",
       "words": [
         {
@@ -6105,6 +6575,31 @@
           "gloss": "to me (dative)"
         }
       ]
+    },
+    "над": {
+      "lemma": "над",
+      "stress": "над",
+      "pos": "prep",
+      "gloss": "over, above; at (laugh at)",
+      "meanings": [
+        {
+          "en": "over, above; at (with смеяться)",
+          "note": "+ instrumental. Becomes 'надо' before 'мной': 'надо мной', over me, at me."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Не смейся надо мной.",
+          "trans": "Don't laugh at me."
+        },
+        {
+          "text": "Лампа висит над столом.",
+          "trans": "The lamp hangs over the table."
+        }
+      ],
+      "related": []
     }
   }
 }

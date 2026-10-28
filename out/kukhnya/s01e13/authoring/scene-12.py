@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
-INTRO = "Inside the kitchen, Nastya is very worried about breaking the Chef's car mirror earlier. Kostya wants their date to happen, so he offers a brave sacrifice. Let's hear them in Russian."
-OPENER = "Now let's go back through the exchange around The Confession line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Kostya was ready to lose his job to save Nastya, but she bravely confessed the truth. Let's see what happens next! Next time you watch the episode, listen for the Russian expressions for 'again' and 'to quarrel' — you will catch every word right away. See you next time!"
+INTRO = "Nastya knows she should confess to breaking the mirror, but she can't bring herself to do it. Kostya offers to take the blame instead. Their talk comes first, in Russian."
+OPENER = 'Again, and listen to who is being brave.'
+TRANSITION = 'And the whole exchange again.'
+OUTRO = "Kostya is ready to take the blame, and Nastya won't let him. Which of them says 'I broke it' first? Speak soon."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Шеф опять с ней ругается.', 'The boss is arguing with her again.', [(164, 'Шеф опять с ней рукается.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Он просто хочет меня прикрыть.', 'He just wants to cover for me.', [(168, 'просто')], ''),
 ]
 WALK = [
-    (0, None, "'The boss is arguing with her again.' Nastya is anxious about the ongoing conflict. She sees the Chef fighting with Elena again."),
-    (1, None, "'Come on, Nastya, everything will work out.' Kostya tries to comfort her. He casually assures her that things will resolve themselves."),
-    (2, None, "'Things won't work out for us today either?' Nastya is pessimistic about their plans. She worries this ruins their chances for the evening."),
-    (3, None, "'No, Nastya, you simply promised.' Kostya reminds her of her commitment. He playfully points out that she gave her word."),
-    (4, None, "'Do you want me to go to the boss?' He offers a heroic solution. Kostya volunteers to face the Chef himself."),
-    (5, None, "'I will say that I broke the mirror.' He reveals his plan. Kostya intends to take the blame for the broken mirror."),
-    (6, None, "'Do not do it, he will fire you.' Nastya panics at his suggestion. She warns him that such a move will get him fired."),
-    (7, None, "'I said it, which means I will go.' Kostya stands firm. He insists on following through with his brave promise."),
-    (8, None, "'Kostik, wait, do not go.' Nastya begs him to stop. She desperately asks him to reconsider."),
-    (9, None, "'Boss, it was me who broke your mirror.' Kostya makes his false confession. He steps up and takes the fall."),
-    (10, None, "'No, do not believe him.' Nastya immediately jumps in. She urges the Chef not to listen to Kostya."),
-    (11, None, "'I broke your mirror.' She tells the actual truth. Nastya admits she is the real culprit."),
-    (12, None, "'He just wants to cover for me.' She explains Kostya's lie. Nastya says he was only trying to protect her."),
+    (0, None, "'The boss is arguing with her again.' 'Rugaetsya' means quarrelling loudly, or even swearing, and 'sya' is part of the verb. 'S ney' is 'with her'. 'S ney' is 'with her'."),
+    (1, None, "'Come on, Nastya, everything will work out.' 'Da ladno' is a cheerful 'come on, it's fine'. 'Obrazuetsya' means 'will take shape' and is used for 'it'll sort itself out'."),
+    (2, None, "'Things won't work out for us today either?' 'Poluchitsya' is 'will turn out', and with 'nichego ne' it means 'nothing will work'. 'Tozhe' is 'also'."),
+    (3, None, "'No, Nastya, you simply promised.' The verb 'obeshchala' carries a woman's ending in 'a'. Kostya's 'nu' is a pleading 'well', in the way Russians use it."),
+    (4, None, "'Do you want me to go to the boss?' 'Khochesh, ya poydu' is literally 'want, I'll go', with no word for 'that'. 'K shefu' is 'to the boss'."),
+    (5, None, "'I will say that I broke the mirror.' 'Eto ya slomal', literally 'it's I broke', is the handy shape for owning up. 'Slomal' ends in 'l' because Kostya is a man."),
+    (6, None, "'Do not do it, he will fire you.' 'Ne nado' keeps coming up for 'don't', and it's softer than a shouted order. Nastya begs rather than commands."),
+    (7, None, "'I said it, which means I will go.' 'Znachit' means 'so' or 'therefore', and Kostya's logic is that he said he would, so he must."),
+    (8, None, "'Kostik, wait, do not go.' After 'ne', Russians say 'ne khodi', from 'khodit', rather than the 'idi' they'd use for a plain 'go'. 'Wait' is an order for a friend."),
+    (9, None, "'Boss, it was me who broke your mirror.' 'Vashe' is the polite 'your', with 'e' because the mirror is neuter. 'Eto ya slomal' is the same line as before, now said to the boss."),
+    (10, None, "'No, do not believe him.' You believe 'to' someone in Russian, so 'him' is 'emu'. The order is the polite plural."),
+    (11, None, "'I broke your mirror.' Nastya's sentence differs from Kostya's by one ending. The verb 'slomala' has an 'a', because the person who broke it is a woman."),
+    (12, None, "'He just wants to cover for me.' 'Prikryt' means 'to cover', in the sense of protecting. 'Menya' is 'me', and 'prosto' means 'simply'."),
 ]
