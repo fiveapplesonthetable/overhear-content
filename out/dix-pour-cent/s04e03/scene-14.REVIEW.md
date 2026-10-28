@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, he is no longer here!' Andrea confirms that Jose disappeared without a word. The adverb 'plus' indicates that he was there before.
 - 'Production is waiting on set.' The driver warns that the filming crew cannot afford delays. The noun 'plateau' refers to a film set.
 - 'I call you back immediately.' Andrea ends the phone call to investigate the apartment. The idiom 'tout de suite' means right away.
-- 'Sweetheart, you must wake up.' Andrea enters the nursery to get her baby daughter ready. The pet name 'mon coeur' is a loving term of endearment.
+- 'Sweetheart, you must wake up.' Andrea enters the nursery to get her baby daughter ready. The reflexive pronoun sits right in front of the verb for 'is necessary', turning the action back onto the subject.
 - 'We are late for the daycare.' Andrea rushes over to the small bed. The feminine noun 'creche' designates a daycare center for infants.
 - 'Flora? Where is my baby?' Andrea stares at the unoccupied sheets in disbelief. The possessive adjective 'mon' agrees with the masculine noun 'bebe'.
-- 'No, this is not possible!' Andrea panics when she realizes that both Jose and Flora are gone. The demonstrative phrase 'ce n'est pas possible' expresses utter disbelief.
+- 'No, this is not possible!' Andrea panics when she realizes that both Jose and Flora are gone. The adverb meaning 'no' gives the reply its conversational emphasis.

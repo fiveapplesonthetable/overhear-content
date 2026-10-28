@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is wrong with her suddenly?' Colette wonders why baby Flora is crying softly. The idiom 'tout a coup' means suddenly or all of a sudden.
+- 'What is wrong with her suddenly?' Colette wonders why baby Flora is crying softly. Notice how 'has' leads directly into the noun meaning 'blow'.
 - 'These are tears of relief.' Andrea understands that the baby feels the tension releasing. The plural noun 'pleurs' designates weeping or crying.
-- 'Do not worry, it will be fine.' Colette offers calm reassurance. The imperative 'ne t'inquiete pas' means do not worry.
+- 'Do not worry, it will be fine.' Colette offers calm reassurance. The two-part French negation brackets the verb for 'worry' on both sides.
 - 'I was very angry with you.' Andrea admits her initial resentment after the breakup. The phrase 'en colere contre' expresses anger toward someone.
 - 'I understand your initial anger.' Colette acknowledges the pain she caused. The noun 'depart' in this context means beginning or onset.
 - 'You had no other choice.' Andrea recognizes that leaving was necessary. The masculine noun 'choix' means choice.
 - 'That forced me to reflect.' Andrea explains how the shock made her look at herself. The verb 'forcer' means to compel or force.
-- 'To reflect on our shared future?' Colette asks gently about Andrea's thoughts. The adjective 'commun' describes something shared together.
+- 'To reflect on our shared future?' Colette asks gently about Andrea's thoughts. Notice how 'reflect' leads directly into the noun meaning 'future'.
 - 'I cannot change who I am.' Andrea accepts her nature as a dedicated agent. The verb 'changer' signifies changing or altering.
 - 'I love you, but let us be honest.' Andrea speaks from a place of deep sincerity. The imperative 'soyons' comes from 'etre' in the first-person plural.
 - 'It is better that we stop there.' Andrea makes the painful decision to end their relationship. The impersonal idiom 'il vaut mieux' means it is better.
 - 'It is undoubtedly the best decision.' Colette nods in quiet agreement. The adverbial expression 'sans doute' means undoubtedly or without doubt.
-- 'We will take care of Flora together.' Andrea confirms their lifelong parental commitment. The pronominal verb 's'occuper de' means to take care of.
+- 'We will take care of Flora together.' Andrea confirms their lifelong parental commitment. French forms the near future by pairing the present tense of 'to go' directly with 'take care'.
 - 'Yes, we will always be a family.' Colette confirms that their bond as co-parents remains unbroken. The adverb 'toujours' means always.

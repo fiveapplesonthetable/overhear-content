@@ -117,5 +117,5 @@ WALK = [
 ]
 
 TRANSITION = "Now, listen to the complete dialogue again at normal conversational pace."
-OUTRO = "Sharing late-night room service allows Jose and Andrea to open up about life beyond the screen."
+OUTRO = "Sharing late-night room service allows Jose and Andrea to open up about life beyond the screen. When you watch the episode, listen out for the expressions meaning 'service' and 'room'. You'll catch them now. See you next time."
 CLOSING = ("lea", "C'est plus facile à dire qu'à faire.")

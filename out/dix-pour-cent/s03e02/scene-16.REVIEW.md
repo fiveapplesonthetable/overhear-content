@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come into my office, Noémie.' Mathias welcomes his assistant inside. The imperative entrez expresses a formal professional request.
-- 'I must talk to you very seriously.' Noémie sets a solemn tone. The modal verb dois expresses an obligation.
-- 'Your behavior yesterday was very embarrassing.' Mathias recalls the previous scene. The possessive determiner votre shows formal address.
-- 'A headhunter contacted me.' Noémie announces external interest in her career. The noun phrase chasseur de têtes denotes a corporate recruiter.
-- 'A headhunter for you?' Mathias reacts with disbelief. The preposition pour indicates the beneficiary.
-- 'My profile is very sought after today.' Noémie asserts her professional value. The passive participle recherché agrees with profil.
-- 'What offer did you receive exactly?' Mathias asks about specifics. The interrogative determiner quelle agrees with feminine proposition.
-- 'I received a very advantageous offer.' Noémie confirms the appealing package. The feminine adjective avantageuse agrees with offre.
-- 'Where is this new company located?' Mathias asks for location details. The reflexive verb se trouver indicates location.
-- 'This new post is in Boulogne.' Noémie names the Parisian suburb. The preposition à precedes town names.
-- 'And what is your final decision?' Mathias faces the inevitable outcome. The feminine adjective finale agrees with décision.
-- 'I accepted and I am leaving the agency.' Noémie states her resignation plainly. The verb quitter takes a direct object.
-- 'When do you leave our team?' Mathias asks about her departure schedule. The interrogative adverb quand asks when.
-- 'I leave with immediate effect!' Noémie refuses any transitional delay. The phrase avec effet immédiat means effective immediately.
+- 'Come into my office, Noemie.' Mathias welcomes his assistant inside. The verb meaning 'enter' pairs naturally with the noun for 'office' in everyday conversation.
+- 'I must talk to you very seriously.' Noemie sets a solemn tone. The clause hinges on the everyday verb meaning 'must'.
+- 'Your behavior yesterday was very embarrassing.' Mathias recalls the previous scene. The verb meaning 'was' pairs naturally with the noun for 'behavior' in everyday conversation.
+- 'A headhunter contacted me.' Noemie announces external interest in her career. In spoken French, the little word before 'has me' drops its final vowel and attaches with an apostrophe.
+- 'A headhunter for you?' Mathias reacts with disbelief. Mathias uses the polite 'you' form alongside 'hunter' to keep a respectful professional tone.
+- 'My profile is very sought after today.' Noemie asserts her professional value. The verb meaning 'sought after' pairs naturally with the noun for 'profile' in everyday conversation.
+- 'What offer did you receive exactly?' Mathias asks about specifics. The verb meaning 'did you have' pairs naturally with the noun for 'offer' in everyday conversation.
+- 'I received a very advantageous offer.' Noemie confirms the appealing package. Notice how 'I have' leads directly into the noun meaning 'offer'.
+- 'Where is this new company located?' Mathias asks for location details. Notice how 'is located' leads directly into the noun meaning 'company'.
+- 'This new post is in Boulogne.' Noemie names the Parisian suburb. The key noun here means 'position', anchored by its matching French article.
+- 'And what is your final decision?' Mathias faces the inevitable outcome. The adjective meaning 'final' takes its feminine form here to match the noun it describes.
+- 'I accepted and I am leaving the agency.' Noemie states her resignation plainly. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
+- 'When do you leave our team?' Mathias asks about her departure schedule. The verb meaning 'do you leave' pairs naturally with the noun for 'team' in everyday conversation.
+- 'I leave with immediate effect!' Noemie refuses any transitional delay. Notice how 'leave' leads directly into the noun meaning 'effect'.

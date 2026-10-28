@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'That is great, are you happy?' Sofia asks while masking her true reaction. The adjective 'content' describes happiness.
 - 'I am afraid of making a mistake.' Gabriel confesses his self-doubt. The idiom 'avoir peur de' expresses fear or apprehension.
 - 'We will rehearse together like in cinema.' Sofia suggests a practical acting exercise. The verb 'repeter' means to rehearse or repeat.
-- 'Me, I am Sarah, action!' Sofia adopts the character of Gabriel's date. The word 'action' signals the start of a take in filmmaking.
+- 'Me, I am Sarah, action!' Sofia adopts the character of Gabriel's date. The key noun here means 'action', anchored by its matching French article.
 - 'Why did you break up with me?' Sofia begins the simulated confrontation. The compound past 'as rompu' comes from 'rompre', to break up.
 - 'Sarah will not speak like that!' Gabriel objects to the hostile greeting. The near-future 'va parler' describes imminent speech.
 - 'Do you still have feelings for Sofia?' Sofia uses the roleplay to question Gabriel about herself. The plural noun 'sentiments' refers to emotional feelings.
@@ -39,5 +39,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You hesitated before answering!' Sofia detects doubt in his immediate reply. The verb 'hesiter' signifies hesitating.
 - 'Promise me that you no longer love her.' Sofia pushes for total reassurance. The imperative 'promets-moi' comes from 'promettre'.
 - 'Sofia, we should stop there.' Gabriel recognizes that the exercise has gone too far. The conditional 'devrait' softens a recommendation.
-- 'Are you talking to Sarah or to me?' Sofia challenges him to face his authentic emotions. The interrogative 'qui' asks whom.
+- 'Are you talking to Sarah or to me?' Sofia challenges him to face his authentic emotions. The clause hinges on the everyday verb meaning 'are speaking'.
 - 'I no longer know at all.' Gabriel admits his helplessness in front of her. The phrase 'du tout' emphasizes the negative totality.

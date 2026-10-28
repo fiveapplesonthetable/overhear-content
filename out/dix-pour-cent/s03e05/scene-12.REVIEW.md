@@ -30,11 +30,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Valentin? What are you doing in there?' Camille discovers Valentin exploring. The compound adverb 'la-dedans' refers to the interior space.
 - 'Oh, I love this huge, luminous room!' Valentin marvels at the luxurious office. The adjective 'lumineuse' describes good lighting.
 - 'No, get out quickly, that is Mathias's office!' Camille panics at the intrusion. The imperative 'sors vite' urges him to leave.
-- 'It will be yours soon, won't it?' Valentin teases Camille about her future. The tag question 'non' seeks playful agreement.
+- 'It will be yours soon, won't it?' Valentin teases Camille about her future. The clause hinges on the everyday verb meaning 'will be'.
 - 'Camille Valentini Agency, that sounds great!' Valentin invents her agency name. The verb 'sonner' means to sound.
-- 'Stop it, Valentin, do not touch anything.' Camille warns him against snooping. The negative structure 'ne touche a rien' forbids handling objects.
-- 'Look at all these beautiful prestigious bottles.' Valentin spots Mathias's private bar. The noun 'bouteilles' refers to liquor bottles.
-- 'Mathias will be furious if he finds out.' Camille fears her boss's wrath. The adjective 'furieux' denotes intense anger.
+- 'Stop it, Valentin, do not touch anything.' Camille warns him against snooping. The clause hinges on the everyday verb meaning 'stop it'.
+- 'Look at all these beautiful prestigious bottles.' Valentin spots Mathias's private bar. The adjective meaning 'beautiful' takes its feminine form here to match the noun it describes.
+- 'Mathias will be furious if he finds out.' Camille fears her boss's wrath. The descriptive adjective for 'furious' agrees in gender and number with its noun.
 - 'Do not worry, we are safe and quiet here.' Valentin tries to calm her anxieties. The adjective 'tranquille' means undisturbed or peaceful.
 - 'Sit down comfortably on this sofa.' Valentin makes himself at home. The reflexive imperative 'assieds-toi' invites someone to take a seat.
 - 'What if we rehearsed my casting scene?' Valentin proposes an impromptu rehearsal. The structure 'si on' with the imperfect suggests an activity.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you okay Noemie? Do you need help?' Camille kindly asks if Noemie requires any assistance with her belongings.
-- 'No, I will be fine, thank you Camille.' Noemie thanks Camille warmly while managing her boxes alone.
-- 'Are you leaving already with your boxes?' Herve spots Noemie with her packed items in the hallway.
-- 'Herve, I put the bonsai on your desk.' Noemie explains that she left a small desk plant as a parting gift.
-- 'I know that you will take great care of it.' Noemie expresses full confidence in Herve's attentiveness.
-- 'I am going to water it every day.' Herve promises faithful dedication to keeping the plant alive.
-- 'I could not leave without greeting you.' Noemie explains why she wanted to bid personal farewells to her friends.
-- 'We are not savages!' Noemie quips that they have always shared real human warmth despite office rivalries.
-- 'I hope that you will be bored without me.' Noemie playfully suggests the agency will lose its spark without her.
-- 'You can count on us for that!' Herve jokes back that they will miss her presence dearly.
-- 'We could have a drink together tonight?' Camille invites Noemie to share a drink after working hours.
-- 'Yes, a farewell drink just between us!' Noemie eagerly embraces the proposal for an assistants' gathering.
-- 'That is perfect, without the annoying bosses!' Herve celebrates the idea of an evening free from agency drama.
+- 'Are you okay Noemie? Do you need help?' Camille kindly asks if Noemie requires any assistance with her belongings. The informal 'you' form around 'goes' marks a direct, personal relationship.
+- 'No, I will be fine, thank you Camille.' Noemie thanks Camille warmly while managing her boxes alone. The verb meaning 'will go' pairs naturally with the noun for 'thank you' in everyday conversation.
+- 'Are you leaving already with your boxes?' Herve spots Noemie with her packed items in the hallway. Herve uses the casual singular 'you' with 'are leaving', showing close familiarity.
+- 'Herve, I put the bonsai on your desk.' Noemie explains that she left a small desk plant as a parting gift. Notice how the short vowel drops before a vowel sound around 'I have', making the phrase flow smoothly as one unit.
+- 'I know that you will take great care of it.' Noemie expresses full confidence in Herve's attentiveness. Notice how 'know' leads directly into the noun meaning 'care.'.
+- 'I am going to water it every day.' Herve promises faithful dedication to keeping the plant alive. In spoken French, the little word before 'am going' drops its final vowel and attaches with an apostrophe.
+- 'I could not leave without greeting you.' Noemie explains why she wanted to bid personal farewells to her friends. Notice the classic French sandwich negation wrapping right around 'could'.
+- 'We are not savages!' Noemie quips that they have always shared real human warmth despite office rivalries. The key noun here means 'savages!', anchored by its matching French article.
+- 'I hope that you will be bored without me.' Noemie playfully suggests the agency will lose its spark without her. The formal 'you' pronoun sets a courteous, professional distance around 'I hope'.
+- 'You can count on us for that!' Herve jokes back that they will miss her presence dearly. The informal 'you' form around 'can' marks a direct, personal relationship.
+- 'We could have a drink together tonight?' Camille invites Noemie to share a drink after working hours. Notice how 'could' leads directly into the noun meaning 'drink'.
+- 'Yes, a farewell drink just between us!' Noemie eagerly embraces the proposal for an assistants' gathering. The key noun here means 'drink', anchored by its matching French article.
+- 'That is perfect, without the annoying bosses!' Herve celebrates the idea of an evening free from agency drama. In spoken French, the little word before 'it is' drops its final vowel and attaches with an apostrophe.

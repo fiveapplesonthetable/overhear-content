@@ -118,5 +118,5 @@ WALK = [
      "The adjective 'termine' signals the painful rupture of their relationship."),
 ]
 
-OUTRO = "Camille walks out of the building, leaving Mathias standing alone in his empty office."
+OUTRO = "Camille walks out of the building, leaving Mathias standing alone in his empty office. When you watch the episode, listen out for the expressions meaning 'brought' and 'glasses'. You'll catch them now. See you next time."
 CLOSING = ("lea", "C'est terminé entre nous, monsieur Barneville.")

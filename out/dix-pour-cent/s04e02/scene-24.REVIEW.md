@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Camille, did you see Gabriel here?' Sofia searches the room and asks about Gabriel.
-- 'Good evening Sofia, you arrive quite late.' Camille notices that Sofia came after the rush.
-- 'I was looking for Gabriel in the agency.' Sofia explains her reason for dropping by.
-- 'The party is almost over now.' Camille points to the emptying office.
-- 'I wanted to speak to him tonight.' Sofia shares her desire to reconnect with Gabriel.
-- 'Did you finish your work today?' Camille asks about her busy schedule.
-- 'Yes, my audition went very well.' Sofia mentions that her successful performance.
-- 'That is excellent news for you.' Camille offers sincere congratulations.
-- 'I wanted to celebrate that with him.' Sofia confesses her hope to celebrate together.
-- 'Everyone has already left.' Camille gently prepares her for disappointment.
-- 'He is no longer in his office?' Sofia wonders if he might still be upstairs.
-- 'No, his office is completely dark.' Camille confirms that his room is shut down.
-- 'So, where did he go now?' Sofia asks anxiously about his current location.
+- 'Camille, did you see Gabriel here?' Sofia searches the room and asks about Gabriel. This conversational past tense combines a helper verb with the past participle for 'seen'.
+- 'Good evening Sofia, you arrive quite late.' Camille notices that Sofia came after the rush. The informal 'you' form around 'arrive' marks a direct, personal relationship.
+- 'I was looking for Gabriel in the agency.' Sofia explains her reason for dropping by. The verb meaning 'was looking for' pairs naturally with the noun for 'agency' in everyday conversation.
+- 'The party is almost over now.' Camille points to the emptying office. This conversational past tense combines a helper verb with the past participle for 'finished'.
+- 'I wanted to speak to him tonight.' Sofia shares her desire to reconnect with Gabriel. The verb meaning 'wanted' pairs naturally with the noun for 'evening' in everyday conversation.
+- 'Did you finish your work today?' Camille asks about her busy schedule. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'Yes, my audition went very well.' Sofia mentions that her successful performance. This conversational past tense combines a helper verb with the past participle for 'gone'.
+- 'That is excellent news for you.' Camille offers sincere congratulations. The informal 'you' form around 'piece of news' marks a direct, personal relationship.
+- 'I wanted to celebrate that with him.' Sofia confesses her hope to celebrate together. The clause hinges on the everyday verb meaning 'wanted'.
+- 'Everyone has already left.' Camille gently prepares her for disappointment. The clause hinges on the everyday verb meaning 'left'.
+- 'He is no longer in his office?' Sofia wonders if he might still be upstairs. In everyday spoken French, rising intonation on 'office' at the end is enough to turn the sentence into a question.
+- 'No, his office is completely dark.' Camille confirms that his room is shut down. The key noun here means 'office', anchored by its matching French article.
+- 'So, where did he go now?' Sofia asks anxiously about his current location. This conversational past tense combines a helper verb with the past participle for 'gone'.
 - 'Wait, I will tell you everything.' Camille pauses before sharing the difficult truth.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You must take the plunge now, Camille.' Mathias encourages his daughter to take the next career step. The pronominal verb 'se lancer' means to launch oneself or take the plunge.
+- 'You must take the plunge now, Camille.' Mathias encourages his daughter to take the next career step. Mathias uses the casual singular 'you' with 'must', showing close familiarity.
 - 'I want to create my own agency.' Camille shares her dream of independence. The adjective 'propre' indicates personal ownership.
 - 'Do you think we could be partners?' Camille boldly suggests a joint venture. The plural noun 'associes' refers to business partners.
 - 'You and me in the same agency?' Mathias reflects with cautious amusement. The adjective 'meme' means same.
 - 'Yes, like real equal partners!' Camille envisions a modern professional partnership. The plural adjective 'egaux' means equal.
 - 'You have already worked with your mother.' Mathias brings up family work experience. The adverb 'deja' means already.
-- 'It was horrible during the holidays!' Camille recalls the tense summer job. The adjective 'horrible' describes a dreadful experience.
+- 'It was horrible during the holidays!' Camille recalls the tense summer job. The verb meaning 'was' pairs naturally with the noun for 'holidays' in everyday conversation.
 - 'But that gave you strength.' Mathias highlights how challenges build character. The noun 'force' signifies strength and resilience.
 - 'I no longer need a boss.' Camille states her professional maturity. The noun 'patron' designates a boss or employer.
-- 'I am the one who needs you.' Mathias humbles himself with emotional honesty. The emphatic structure 'c'est moi qui' focuses on the subject.
+- 'I am the one who needs you.' Mathias humbles himself with emotional honesty. Notice how 'have' leads directly into the noun meaning 'need'.
 - 'I want to do this job differently.' Mathias expresses his desire for a fresh start. The adverb 'autrement' means differently or in another way.
 - 'Do you really mean it, Dad?' Camille looks at him with affectionate respect. The noun 'papa' is an affectionate term for father.
 - 'Yes, let us create beautiful memories together.' Mathias seals their shared vision. The noun 'souvenirs' means memories.
-- 'Then here we go for the adventure!' Camille smiles enthusiastically at their future. The idiom 'c'est parti' indicates an enthusiastic kickoff.
+- 'Then here we go for the adventure!' Camille smiles enthusiastically at their future. Notice how 'off' leads directly into the noun meaning 'adventure'.

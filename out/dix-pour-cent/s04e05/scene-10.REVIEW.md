@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Colette, it is me on the phone.' Andrea begins her voicemail message. The emphatic pronoun 'moi' indicates identity.
-- 'I wanted to know how you are doing.' Andrea inquires softly after Colette's well-being. The verb form 'voulais' comes from 'vouloir' in the imperfect tense.
+- 'I wanted to know how you are doing.' Andrea inquires softly after Colette's well-being. The informal 'you' form around 'wanted' marks a direct, personal relationship.
 - 'You no longer answer my messages.' Andrea notes the absence of communication. The negative structure 'ne... plus' expresses no longer.
-- 'I worry a lot about you.' Andrea confesses her anxiety. The pronominal verb 's'inquieter' means to worry.
-- 'Flora and I, we think of you.' Andrea highlights their shared family bond. The verb phrase 'pense a' means to think of someone.
+- 'I worry a lot about you.' Andrea confesses her anxiety. The informal 'you' form around 'worry' marks a direct, personal relationship.
+- 'Flora and I, we think of you.' Andrea highlights their shared family bond. The clause hinges on the everyday verb meaning 'think'.
 - 'Call me back soon, please.' Andrea requests an answer without demanding. The imperative 'rappelle-moi' comes from 'rappeler'.
 - 'Take good care of yourself.' Andrea closes with a warm expression of care. The idiom 'prendre soin de' translates to take care of.
 - 'The silence is very heavy tonight.' Andrea reflects on the loneliness of her home. The adjective 'lourd' means heavy.
 - 'Andrea, I have good news!' Elise sends an enthusiastic message. The adjective 'bonne' qualifies the feminine noun 'nouvelle'.
-- 'My niece is looking for new work.' Elise presents her niece's job search. The noun 'niece' indicates a sibling's daughter.
+- 'My niece is looking for new work.' Elise presents her niece's job search. The verb meaning 'is looking for' pairs naturally with the noun for 'niece' in everyday conversation.
 - 'She can babysit Flora day and night.' Elise proposes round-the-clock childcare. The temporal phrase 'jour et nuit' means day and night.
 - 'It is a completely unexpected offer.' Andrea marvels at the convenient timing. The adjective 'inattendue' means unexpected.
 - 'That saves my work week!' Andrea feels a huge burden lifted from her shoulders. The verb 'sauve' comes from 'sauver', to save.

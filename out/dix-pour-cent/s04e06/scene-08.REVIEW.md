@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Francois Ozon left for StarMedia.' Andrea laments that another prestigious director has defected.
-- 'This fine project can save the agency.' Mathias argues that his proposed film package could rescue ASK.
-- 'You demolished everything here before.' Andrea accuses Mathias of sabotaging the agency from within.
-- 'You are the ones who fired me!' Mathias fires back that the partners ousted him first.
-- 'The departure of talent is on you.' Andrea pins the blame for recent client losses squarely on Mathias.
-- 'I wanted to become an independent producer.' Mathias explains that he left agent work to pursue film production.
-- 'But you are no longer a producer today!' Andrea reminds him that his independent production company collapsed.
-- 'You have become a mere manipulator.' Andrea attacks his credibility and motives.
-- 'Does it comfort you to shout like this?' Mathias asks if venting her rage makes her feel any better.
-- 'You let Elise Formain enter.' Mathias reminds her that she was the one who hired the corporate saboteur.
-- 'Look, here comes Arlette in a panic.' Andrea notices Arlette entering the room in great distress.
-- 'What is going on with Jean?' Mathias asks about the state of her beloved pet dog.
-- 'The poor little dog is ice cold.' Mathias examines the motionless dog and senses the worst.
+- 'Francois Ozon left for StarMedia.' Andrea laments that another prestigious director has defected. This conversational past tense combines a helper verb with the past participle for 'left'.
+- 'This fine project can save the agency.' Mathias argues that his proposed film package could rescue ASK. The descriptive adjective for 'fine' agrees in gender and number with its noun.
+- 'You demolished everything here before.' Andrea accuses Mathias of sabotaging the agency from within. This conversational past tense combines a helper verb with the past participle for 'demolished'.
+- 'You are the ones who fired me!' Mathias fires back that the partners ousted him first. Mathias uses the polite 'you' form alongside 'have' to keep a respectful professional tone.
+- 'The departure of talent is on you.' Andrea pins the blame for recent client losses squarely on Mathias. Andrea uses the casual singular 'you' with 'departure', showing close familiarity.
+- 'I wanted to become an independent producer.' Mathias explains that he left agent work to pursue film production. The verb meaning 'wanted' pairs naturally with the noun for 'producer' in everyday conversation.
+- 'But you are no longer a producer today!' Andrea reminds him that his independent production company collapsed. In spoken French, the little word before 'producer' drops its final vowel and attaches with an apostrophe.
+- 'You have become a mere manipulator.' Andrea attacks his credibility and motives. The descriptive adjective for 'mere' agrees in gender and number with its noun.
+- 'Does it comfort you to shout like this?' Mathias asks if venting her rage makes her feel any better. Mathias uses the casual singular 'you' with 'relieves', showing close familiarity.
+- 'You let Elise Formain enter.' Mathias reminds her that she was the one who hired the corporate saboteur. The clause hinges on the everyday verb meaning 'have'.
+- 'Look, here comes Arlette in a panic.' Andrea notices Arlette entering the room in great distress. The adjective meaning 'panicked' takes its feminine form here to match the noun it describes.
+- 'What is going on with Jean?' Mathias asks about the state of her beloved pet dog. In spoken French, the little word before 'happens' drops its final vowel and attaches with an apostrophe.
+- 'The poor little dog is ice cold.' Mathias examines the motionless dog and senses the worst. The descriptive adjective for 'poor' agrees in gender and number with its noun.
 - 'I am sorry, he has passed away.' Mathias gently informs Arlette that her dog has died.

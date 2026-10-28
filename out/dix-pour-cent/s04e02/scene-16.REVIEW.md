@@ -27,16 +27,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am sorry about my agent.' Franck apologizes for Gabriel's clumsy and confrontational behavior. The adjective 'desole' expresses regret.
+- 'I am sorry about my agent.' Franck apologizes for Gabriel's clumsy and confrontational behavior. The descriptive adjective for 'sorry' agrees in gender and number with its noun.
 - 'Is he still your official agent?' Dylan is astonished that Franck keeps Gabriel after the incident. The adverb 'encore' indicates continuity.
 - 'Yeah, he still remains my agent.' Franck confirms his bond with Gabriel despite the recent drama. The colloquial affirmative 'ouais' means yeah.
 - 'I think I will keep him.' Franck explains his decision to stand by Gabriel. The verb phrase 'vais le garder' uses the near future tense.
 - 'After all his recent blunders?' Dylan questions the wisdom of keeping such a chaotic agent. The preposition 'apres' marks temporal succession.
 - 'He made a real mistake.' Franck honestly admits that Gabriel made an embarrassing error. The noun 'erreur' designates a mistake or blunder.
-- 'But he means very well.' Franck defends Gabriel's genuine heart and loyalty. The compound adjective 'bien intentionne' means well-intentioned.
+- 'But he means very well.' Franck defends Gabriel's genuine heart and loyalty. The descriptive adjective for 'well-meaning' agrees in gender and number with its noun.
 - 'And he restored my confidence.' Franck reveals how much Gabriel supported him in moments of insecurity. The idiom 'redonner confiance' means to restore morale.
 - 'As if you needed confidence!' Dylan scoffs at the thought of a major star feeling insecure. The conjunction 'comme si' introduces a hypothetical comparison.
-- 'You are a very famous actor.' Dylan points out Franck's massive commercial popularity and success. The adjective 'celebre' describes public renown.
+- 'You are a very famous actor.' Dylan points out Franck's massive commercial popularity and success. The key noun here means 'actor', anchored by its matching French article.
 - 'Everyone doubts sometimes, Dylan.' Franck offers a vulnerable truth about the acting profession. The indefinite pronoun 'tout le monde' functions as singular.
 - 'As if you needed help?' Franck gently probes whether Dylan also hides private struggles. The noun 'aide' denotes assistance or support.
 - 'As if you needed a speech therapist?' Franck brings up the medical care sheet he discovered. The noun 'orthophoniste' refers to a speech therapist.

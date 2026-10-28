@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you ready?' Herve checks if his partner is prepared for the plan. The interrogative phrase asks about readiness.
-- 'Here are the phones for Camille Valentini.' Camille presents the new mobile devices. The demonstrative adverb introduces the phones.
-- 'One for you, one for me.' She divides the matching handsets fairly. The numbers establish an equal partnership.
-- 'But that is truly genius!' Herve expresses his genuine admiration for the setup. The exclamative statement praises the scheme.
-- 'I created a shared address.' Camille explains their new shared inbox. The compound past verb describes setting up the email.
-- 'We are going to be everywhere at once.' She shares their ambitious vision for the agency. The near future verb promises complete coverage.
-- 'Wait, it is my mother.' Camille notices an incoming phone call. The present demonstrative identifies the caller.
-- 'Above all, you do not tell her anything.' She warns Herve to keep quiet about the identity trick. The negative imperative requests strict secrecy.
-- 'Camille, what is going on?' Annick senses something unusual right away. The familiar interrogative asks for an explanation.
-- 'We are going to be Camille together.' Herve proudly reveals their shared professional persona. The near future phrase explains the partnership.
-- 'You are completely out of your minds!' Annick reacts with disbelief at the dangerous idea. The descriptive adjective marks total astonishment.
-- 'You always say that I work too much.' Camille defends their secret workload sharing. The frequency adverb emphasizes her mother's past complaints.
-- 'Do you trust him?' Annick questions whether Herve is genuinely dependable. The direct question expresses maternal suspicion.
+- 'Are you ready?' Herve checks if his partner is prepared for the plan. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'Here are the phones for Camille Valentini.' Camille presents the new mobile devices. The key noun here means 'phones', anchored by its matching French article.
+- 'One for you, one for me.' She divides the matching handsets fairly. Camille uses the casual singular 'you' with 'this line', showing close familiarity.
+- 'But that is truly genius!' Herve expresses his genuine admiration for the setup. The descriptive adjective for 'brilliant' agrees in gender and number with its noun.
+- 'I created a shared address.' Camille explains their new shared inbox. Notice how 'I have' leads directly into the noun meaning 'address'.
+- 'We are going to be everywhere at once.' She shares their ambitious vision for the agency. French forms the near future by pairing the present tense of 'to go' directly with 'to be'.
+- 'Wait, it is my mother.' Camille notices an incoming phone call. Notice how 'wait' leads directly into the noun meaning 'mother'.
+- 'Above all, you do not tell her anything.' She warns Herve to keep quiet about the identity trick. The informal 'you' form around 'tell' marks a direct, personal relationship.
+- 'Camille, what is going on?' Annick senses something unusual right away. Notice how the short vowel drops before a vowel sound around 'happens', making the phrase flow smoothly as one unit.
+- 'We are going to be Camille together.' Herve proudly reveals their shared professional persona. French forms the near future by pairing the present tense of 'to go' directly with 'to be'.
+- 'You are completely out of your minds!' Annick reacts with disbelief at the dangerous idea. The clause hinges on the everyday verb meaning 'out of your minds'.
+- 'You always say that I work too much.' Camille defends their secret workload sharing. Camille uses the casual singular 'you' with 'say', showing close familiarity.
+- 'Do you trust him?' Annick questions whether Herve is genuinely dependable. The verb meaning 'make' pairs naturally with the noun for 'trust' in everyday conversation.
 - 'Mom, he can hear you right now!' Camille reminds her mother that speakerphone is on. The present verb signals Herve is listening.

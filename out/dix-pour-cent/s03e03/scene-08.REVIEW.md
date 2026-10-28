@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We are going to do it together.' Camille announces their joint decision. The near future 'on va le faire' conveys mutual commitment.
 - 'Are you really sure about it?' Camille Valentini asks for certainty. The phrase 'sur de toi' questions his inner resolve.
 - 'Yes, Camille and Valentini, both of us.' Camille emphasizes their union. The expression 'tous les deux' highlights a shared partnership.
-- 'I completely agree.' Camille Valentini gives wholehearted assent. The adverbial idiom 'tout a fait d'accord' indicates complete consensus.
+- 'I completely agree.' Camille Valentini gives wholehearted assent. The adverb meaning 'completely' gives the reply its conversational emphasis.
 - 'I love you, I want to marry you.' Camille declares his love and intention to marry. The modal verb 'vouloir' expresses a deep desire.
 - 'That works out very well for us.' Camille Valentini notes the happy coincidence. The idiom 'ca tombe bien' means that is fortunate or timely.
 - 'We already share the same first name.' Camille Valentini jokes about their identical names. The adjective 'meme' denotes identity.
 - 'Our life is going to change completely.' Camille foresees exciting transformations ahead. The adverb 'completement' modifies the verb 'changer'.
 - 'Yours will change too.' Camille Valentini replies in kind. The possessive pronoun 'la tienne' refers back to life.
 - 'Now, you must hurry to the casting.' Camille Valentini directs him to take action. The verb 'foncer' colloquially means to dash forward.
-- 'What are you saying?' Camille is taken aback by the sudden shift. The interrogative phrase 'qu'est-ce que' asks for clarification.
+- 'What are you saying?' Camille is taken aback by the sudden shift. Notice how the short vowel drops before a vowel sound around 'say', making the phrase flow smoothly as one unit.
 - 'Go there quickly to fix things.' Camille Valentini urges him to save the day. The idiom 'rattraper le coup' means to make up for a blunder.
-- 'I love you with all my heart.' Camille reaffirms his love before leaving. The prepositional phrase 'de tout mon coeur' expresses intense sincerity.
+- 'I love you with all my heart.' Camille reaffirms his love before leaving. The verb meaning 'love' pairs naturally with the noun for 'heart' in everyday conversation.
 - 'I love you very much too.' Camille Valentini returns the sentiment warmly. The disjunctive pronoun 'moi aussi' expresses reciprocity.

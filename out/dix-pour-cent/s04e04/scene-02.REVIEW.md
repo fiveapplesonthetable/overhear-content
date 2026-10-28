@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Always marvelous, always the best, Sandrine!' Gabriel showers the actress with affectionate compliments in her dressing room.
-- 'That is very kind of you.' Sandrine responds with gentle humor to Gabriel's unreserved flattery.
-- 'Tomorrow is the final performance of Barillet.' Sandrine notes that the long stage engagement is drawing to a close.
-- 'So, what do we do now?' Gabriel turns the conversation toward their subsequent professional commitments.
-- 'Now, we prepare the next movie.' Gabriel underscores the importance of transitioning promptly from stage to screen.
-- 'It is the biopic on the Countess.' Gabriel points to the prestigious period piece awaiting her signature.
-- 'I am talking about right now, let us go out!' Sandrine brushes aside serious career planning in favor of immediate fun.
-- 'But we must discuss the movie.' Gabriel insists that the filmmakers need an official confirmation.
-- 'Do you have nothing better?' Sandrine laments that conventional biopics feel uninspired and stale.
-- 'The producers want a quick answer.' Gabriel reminds her that financiers cannot hold production schedules indefinitely.
-- 'Let us go instead to a comedy club.' Sandrine pushes Gabriel toward discovering fresh comedic talent.
-- 'All right, but let us stay very sensible tonight.' Gabriel agrees to accompany her while urging moderation.
-- 'I have completely missed out on my comedic career!' Sandrine confesses her secret longing to perform raw stand-up comedy.
-- 'You are an immense actress, Sandrine.' Gabriel reassures her that her theatrical stature remains beyond question.
+- 'Always marvelous, always the best, Sandrine!' Gabriel showers the actress with affectionate compliments in her dressing room. The adjective meaning 'marvelous' takes its feminine form here to match the noun it describes.
+- 'That is very kind of you.' Sandrine responds with gentle humor to Gabriel's unreserved flattery. The informal 'you' form around 'part' marks a direct, personal relationship.
+- 'Tomorrow is the final performance of Barillet.' Sandrine notes that the long stage engagement is drawing to a close. The adjective meaning 'final' takes its feminine form here to match the noun it describes.
+- 'So, what do we do now?' Gabriel turns the conversation toward their subsequent professional commitments. The clause hinges on the everyday verb meaning 'do'.
+- 'Now, we prepare the next movie.' Gabriel underscores the importance of transitioning promptly from stage to screen. The descriptive adjective for 'next' agrees in gender and number with its noun.
+- 'It is the biopic on the Countess.' Gabriel points to the prestigious period piece awaiting her signature. The key noun here means 'biopic', anchored by its matching French article.
+- 'I am talking about right now, let us go out!' Sandrine brushes aside serious career planning in favor of immediate fun. The clause hinges on the everyday verb meaning 'am talking'.
+- 'But we must discuss the movie.' Gabriel insists that the filmmakers need an official confirmation. Notice how 'is necessary' leads directly into the noun meaning 'movie'.
+- 'Do you have nothing better?' Sandrine laments that conventional biopics feel uninspired and stale. In everyday spoken French, rising intonation on 'have' at the end is enough to turn the sentence into a question.
+- 'The producers want a quick answer.' Gabriel reminds her that financiers cannot hold production schedules indefinitely. Notice how 'want' leads directly into the noun meaning 'producers'.
+- 'Let us go instead to a comedy club.' Sandrine pushes Gabriel toward discovering fresh comedic talent. The descriptive adjective for 'comedic' agrees in gender and number with its noun.
+- 'All right, but let us stay very sensible tonight.' Gabriel agrees to accompany her while urging moderation. The verb meaning 'let us remain' pairs naturally with the noun for 'agreement' in everyday conversation.
+- 'I have completely missed out on my comedic career!' Sandrine confesses her secret longing to perform raw stand-up comedy. This conversational past tense combines a helper verb with the past participle for 'missed out on'.
+- 'You are an immense actress, Sandrine.' Gabriel reassures her that her theatrical stature remains beyond question. The informal 'you' form around 'actress' marks a direct, personal relationship.

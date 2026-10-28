@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The lawyer confirmed our secret meeting.' A confidential declaration confirming an essential legal appointment.
-- 'Perfect, we must remain very discreet.' An imperative warning emphasizing extreme professional secrecy.
-- 'Hicham must suspect nothing.' A protective modal phrase guarding against agency executive suspicion.
-- 'We want to create our own agency.' A bold declaration stating collective entrepreneurial independence.
-- 'What are the legal risks?' A direct interrogative inquiring into commercial compliance constraints.
-- 'We must avoid asset stripping ASK.' A serious legal caution preventing illegal corporate dismantling.
-- 'What does the law say exactly?' A precise inquiry demanding exact statutory boundaries.
-- 'Our combined figures remain under fifty percent.' A reassuring statistical compliance statement.
-- 'We respect this essential rule.' A confident confirmation adhering strictly to statutory norms.
-- 'Do not sign any new big contract.' A strategic negative imperative freezing new business acquisition.
-- 'I will drag out the negotiations.' A pragmatic near-future promise to delay impending deals.
-- 'The new agency will open soon.' An optimistic temporal anticipation looking forward to launch day.
-- 'It is our great professional future.' An inspiring summary expressing long-term career ambition.
-- 'Let us keep this great secret to ourselves.' A mutual imperative pact pledging total discretion.
+- 'The lawyer confirmed our secret meeting.' Notice how 'has' leads directly into the noun meaning 'lawyer'. Notice how 'has' leads directly into the noun meaning 'lawyer'.
+- 'Perfect, we must remain very discreet.' The clause hinges on the everyday verb meaning 'must'.
+- 'Hicham must suspect nothing.' The two-part negative frame surrounds 'must' to mean 'nothing at all'. The two-part negative frame surrounds 'must' to mean 'nothing at all'.
+- 'We want to create our own agency.' Notice how 'want' leads directly into the noun meaning 'talent firm'. Notice how 'want' leads directly into the noun meaning 'talent firm'.
+- 'What are the legal risks?' A direct interrogative inquiring into commercial compliance constraints. In everyday spoken French, rising intonation on 'risks' at the end is enough to turn the sentence into a question.
+- 'We must avoid asset stripping ASK.' A serious legal caution preventing illegal corporate dismantling. Notice how 'is necessary' leads directly into the noun meaning 'dismantling'.
+- 'What does the law say exactly?' Notice how 'says' leads directly into the noun meaning 'law'. Notice how 'says' leads directly into the noun meaning 'law'.
+- 'Our combined figures remain under fifty percent.' The descriptive adjective for 'combined' agrees in gender and number with its noun. The descriptive adjective for 'combined' agrees in gender and number with its noun.
+- 'We respect this essential rule.' The verb meaning 'respect' pairs naturally with the noun for 'rule' in everyday conversation.
+- 'Do not sign any new big contract.' Notice how 'sign' leads directly into the noun meaning 'business contract'. Notice how 'sign' leads directly into the noun meaning 'business contract'.
+- 'I will drag out the negotiations.' French forms the near future by pairing the present tense of 'to go' directly with 'to drag out'. French forms the near future by pairing the present tense of 'to go' directly with 'to drag out'.
+- 'The new agency will open soon.' An optimistic temporal anticipation looking forward to launch day. The verb meaning 'will open' pairs naturally with the noun for 'talent firm' in everyday conversation.
+- 'It is our great professional future.' An inspiring summary expressing long-term career ambition. The descriptive adjective for 'large' agrees in gender and number with its noun.
+- 'Let us keep this great secret to ourselves.' The descriptive adjective for 'large' agrees in gender and number with its noun. The descriptive adjective for 'large' agrees in gender and number with its noun.

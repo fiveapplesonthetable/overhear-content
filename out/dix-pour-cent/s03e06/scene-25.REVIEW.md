@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I knew nothing about this secret plan.' Camille rushes to reassure Mathias of her loyalty. The negative past sentence clarifies her total innocence.
-- 'I was not in the loop, I promise you!' Camille emphasizes her sincerity. The idiomatic phrase with the verb expresses complete lack of prior knowledge.
-- 'Do not worry my daughter, I know.' Mathias comforts her with gentle tenderness. The negative imperative soothes her immediate distress.
-- 'Where are you going to go now, dad?' Camille asks about his next steps. The near-future question inquires about his uncertain destination.
-- 'I will work as an agent elsewhere in Paris.' Mathias announces his fresh start. The verbal idiom describes continuing his profession independently.
-- 'Do you want to come work with me over there?' Mathias makes a heartfelt offer. The inverted modal question invites her to build a new agency together.
-- 'I am sorry, I would like to stay here.' Camille chooses her own independent path at ASK. The polite conditional phrase affirms her desire to remain.
-- 'It is your choice, they will keep you.' Mathias respects her autonomy completely. The near-future verb reassures her about her secure position.
-- 'You are gifted and full of talent.' Mathias praises her professional aptitude. The descriptive adjectives celebrate her proven skills as an agent.
-- 'You are a good person, Camille.' Mathias pays her the highest personal compliment. The warm character evaluation serves as a fatherly blessing.
-- 'Thank you for everything you taught me.' Camille honors his mentorship. The compound past verb acknowledges all the valuable guidance received.
-- 'Take good care of yourself and of them.' Mathias bids a touching farewell. The caring imperative formula offers protective best wishes.
-- 'Look dad, Noemie is arriving running!' Camille points down the hallway. The imperative verb draws attention to Noemie sprinting toward the exit.
+- 'I knew nothing about this secret plan.' Camille rushes to reassure Mathias of her loyalty. The descriptive adjective for 'secret' agrees in gender and number with its noun.
+- 'I was not in the loop, I promise you!' Camille emphasizes her sincerity. The reflexive pronoun sits right in front of the verb for 'was', turning the action back onto the subject.
+- 'Do not worry my daughter, I know.' Mathias comforts her with gentle tenderness. Notice how 'worry' leads directly into the noun meaning 'daughter'.
+- 'Where are you going to go now, dad?' Camille asks about his next steps. The verb meaning 'are you going' pairs naturally with the noun for 'dad' in everyday conversation.
+- 'I will work as an agent elsewhere in Paris.' Mathias announces his fresh start. Notice how 'am going' leads directly into the noun meaning 'agent'.
+- 'Do you want to come work with me over there?' Mathias makes a heartfelt offer. Inverting the verb and pronoun around 'do you want' creates a crisp, polished question.
+- 'I am sorry, I would like to stay here.' Camille chooses her own independent path at ASK. The clause hinges on the everyday verb meaning 'would like'.
+- 'It is your choice, they will keep you.' Mathias respects her autonomy completely. French forms the near future by pairing the present tense of 'to go' directly with 'keep'.
+- 'You are gifted and full of talent.' Mathias praises her professional aptitude. The informal 'you' form around 'talent' marks a direct, personal relationship.
+- 'You are a good person, Camille.' Mathias pays her the highest personal compliment. The informal 'you' form around 'this line' marks a direct, personal relationship.
+- 'Thank you for everything you taught me.' Camille honors his mentorship. Camille uses the casual singular 'you' with 'have', showing close familiarity.
+- 'Take good care of yourself and of them.' Mathias bids a touching farewell. The verb meaning 'take' pairs naturally with the noun for 'care' in everyday conversation.
+- 'Look dad, Noemie is arriving running!' Camille points down the hallway. The verb meaning 'look' pairs naturally with the noun for 'dad' in everyday conversation.
 - 'She has ultimately decided to follow you!' Camille smiles through her emotion. The compound past verb reveals that Mathias will not be alone after all.

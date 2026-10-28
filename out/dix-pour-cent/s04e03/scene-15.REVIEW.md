@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Flora! Oh, my beloved baby!' Andrea bursts into tears of relief upon spotting her child. The possessive adjective 'mon' introduces the masculine noun 'bebe'.
-- 'Andrea, everything is going very well here.' Jose is startled by Andrea's frantic entrance. The phrase 'tout va bien' indicates that all is fine.
-- 'It is a child abduction!' Andrea furiously accuses Jose of taking her daughter without consent. The compound noun 'enlevement d'enfant' means kidnapping.
+- 'Andrea, everything is going very well here.' Jose is startled by Andrea's frantic entrance. The clause hinges on the everyday verb meaning 'goes'.
+- 'It is a child abduction!' Andrea furiously accuses Jose of taking her daughter without consent. The key noun here means 'abduction', anchored by its matching French article.
 - 'Of course not, I left a note!' Jose defends himself by pointing to the note he wrote. The past tense 'ai laisse' comes from 'laisser'.
 - 'You are completely crazy, Jose!' Andrea vents her fury at his reckless behavior. The adjective 'fou' describes someone out of their mind.
 - 'Look, she is very happy.' Jose points out that baby Flora is cooing and smiling peacefully. The feminine adjective 'heureuse' describes joy.
 - 'Hello Princess Chubby-cheeks!' Jose affectionately nicknames the baby after her round face. The compound term 'joues-rebondies' refers to plump cheeks.
 - 'Where is the director?' Andrea demands to know who authorized Jose to bring Flora in. The question 'elle est ou' is colloquial for where is she.
-- 'Capucine takes care of the other children.' Jose explains that the daycare supervisor is in the next room. The verb phrase 's'occuper de' means to look after.
+- 'Capucine takes care of the other children.' Jose explains that the daycare supervisor is in the next room. Notice how 'takes care' leads directly into the noun meaning 'children'.
 - 'Come on, calm down and breathe a bit.' Jose coaches his stressed agent through breathing exercises. The imperative 'calme-toi' urges relaxation.
 - 'Look, we are totally zen.' Jose demonstrates how peaceful the nursery atmosphere is. The adjective 'zen' means relaxed and calm.
 - 'A car is waiting for you for the shoot.' Andrea reminds Jose of his strict filming schedule. The noun 'tournage' denotes a film shoot.
 - 'All right, I am leaving immediately.' Jose hands Flora over and prepares for his work day. The adverb 'immediatement' indicates promptness.
-- 'Never touch my baby again!' Andrea sets a firm boundary with her unpredictable star client. The negative structure 'ne ... plus jamais' means never again.
+- 'Never touch my baby again!' Andrea sets a firm boundary with her unpredictable star client. The verb meaning 'touch' pairs naturally with the noun for 'baby' in everyday conversation.

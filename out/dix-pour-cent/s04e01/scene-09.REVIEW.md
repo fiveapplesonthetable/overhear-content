@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes Andrea? What is the matter?' Mathias wonders what further request remains. The phrase 'qu'est-ce qu'il y a' inquires about an unexpected issue.
 - 'You must give back your agency keys.' Andrea requests the surrender of his keys. The verb 'rendre' means to return or give back an item.
 - 'Are you treating me like a thief now?' Mathias feels insulted by the demand. The noun 'voleur' denotes a thief or burglar.
-- 'Noemie already gave back hers this morning.' Andrea mentions Noemie's compliance. The possessive pronoun 'les siennes' refers to feminine plural objects.
+- 'Noemie already gave back hers this morning.' Andrea mentions Noemie's compliance. The verb meaning 'has' pairs naturally with the noun for 'morning' in everyday conversation.
 - 'I ran this agency for thirty years!' Mathias recalls his long-standing authority. The passe compose 'ai dirige' marks his executive career.
 - 'We simply want to protect our new contracts.' Andrea defends client confidentiality. The verb 'proteger' expresses preservation and defense.
 - 'Are you afraid of my future competition?' Mathias suspects fear of his new firm. The idiom 'avoir peur de' expresses fear or apprehension.

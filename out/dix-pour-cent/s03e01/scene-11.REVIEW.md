@@ -32,14 +32,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I know that it is not easy.' Hicham acknowledges the workplace pressure. The introductory clause 'je sais que' validates personal difficulty.
 - 'We each have our temperament, it is human.' Hicham makes an empathetic concession. The indefinite pronoun 'chacun' refers to each individual.
 - 'We agreed that I would manage my pregnancy alone.' Andrea sets firm boundaries. The imperfect 'gerais' recalls past verbal commitments.
-- 'I care about the health of my employees.' Hicham defends his managerial intervention. The pronominal verb 'se soucier de' expresses active concern.
+- 'I care about the health of my employees.' Hicham defends his managerial intervention. Notice how 'care' leads directly into the noun meaning 'health'.
 - 'Yes, I thank you for your benevolence.' Andrea responds with polite formality. The abstract noun 'bienveillance' denotes goodwill or kindness.
-- 'I remain at your disposal for your leave.' Hicham offers administrative support. The formal idiom 'rester a disposition' expresses ongoing availability.
+- 'I remain at your disposal for your leave.' Hicham offers administrative support. The verb meaning 'remain' pairs naturally with the noun for 'leave' in everyday conversation.
 - 'I will ask you when I feel the need.' Andrea defers taking maternity leave. The future tense 'ressentirai' sets a conditional timeline.
 - 'It is noted. Is everything going well with your partner?' Hicham inquires courteously about family life. The noun 'compagne' designates a domestic partner.
 - 'Very well, thank you.' Andrea keeps her personal life concise. The polite formula 'tres bien' provides a brief reassuring reply.
-- 'I am delighted. Pass along my warm regards to her.' Hicham closes the personal inquiry warmly. The future imperative 'transmettras' functions as a polite request.
-- 'I will not fail to do so.' Andrea confirms with standard polite phrasing. The idiomatic verb phrase 'ne pas y manquer' promises compliance.
+- 'I am delighted. Pass along my warm regards to her.' Hicham closes the personal inquiry warmly. Notice how 'pass along to her' leads directly into the noun meaning 'regards'.
+- 'I will not fail to do so.' Andrea confirms with standard polite phrasing. The clause hinges on the everyday verb meaning 'will fail'.
 - 'Have a good day, Andrea.' Hicham brings the formal discussion to an end. The customary greeting 'bonne journee' wraps up the meeting.
 - 'Cordially, Hicham.' Andrea delivers a delightfully brisk, email-style farewell. The formal closing adverb 'cordialement' creates dry office humor.
 - 'I am going to see Jean Dujardin now.' Andrea announces her immediate off-site priority. The present tense 'viens voir' indicates purposeful motion.

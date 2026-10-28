@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Look, this lamb is truly perfect.' Noemie admires the roasted meat she cooked for the guests. The masculine noun 'agneau' designates lamb.
-- 'Do you think his wife will like me?' Noemie reveals her nervous desire to make a great impression. The verb phrase 'va m'aimer' expresses near future.
+- 'Do you think his wife will like me?' Noemie reveals her nervous desire to make a great impression. Notice how 'think' leads directly into the noun meaning 'wife'.
 - 'She will adore you, without any doubt.' Mathias offers warm and unconditional encouragement. The prepositional phrase 'sans aucun doute' means without doubt.
-- 'And Catherine, what would she have prepared?' Noemie cannot help measuring herself against Mathias's ex-wife. The conditional verb 'aurait' expresses hypothesis.
+- 'And Catherine, what would she have prepared?' Noemie cannot help measuring herself against Mathias's ex-wife. Inverting the verb and pronoun around 'would she have' creates a crisp, polished question.
 - 'Stop comparing yourself to Catherine.' Mathias firmly urges Noemie to let go of old ghosts. The imperative 'arrete de' governs an infinitive verb.
-- 'It is you that I love passionately.' Mathias reminds Noemie of his romantic devotion. The emphatic cleft sentence 'c'est toi que' highlights the object.
+- 'It is you that I love passionately.' Mathias reminds Noemie of his romantic devotion. Mathias uses the casual singular 'you' with 'love', showing close familiarity.
 - 'Everything will go very well.' Mathias promises that the dinner will be a great success. The pronominal verb 'se passer' means to unfold or happen.
-- 'What are her areas of interest?' Noemie prepares dinner conversation topics in advance. The plural noun phrase 'centres d'interet' means hobbies or interests.
-- 'She is very pro-environment and committed.' Mathias shares background on the director's wife. The shortened colloquial adjective 'ecolo' means environmentalist.
-- 'That is to say? Give me an example.' Noemie asks for specific details on the guest's causes. The transitional expression 'c'est-a-dire' requests clarification.
-- 'She defends endangered species.' Mathias describes the guest's passionate activism. The feminine noun 'espece' designates a biological species.
+- 'What are her areas of interest?' Noemie prepares dinner conversation topics in advance. The key noun here means 'centers', anchored by its matching French article.
+- 'She is very pro-environment and committed.' Mathias shares background on the director's wife. The descriptive adjective for 'environmentalist' agrees in gender and number with its noun.
+- 'That is to say? Give me an example.' Noemie asks for specific details on the guest's causes. Notice how 'give me' leads directly into the noun meaning 'example'.
+- 'She defends endangered species.' Mathias describes the guest's passionate activism. Notice how 'defends' leads directly into the noun meaning 'species'.
 - 'She fights slaughterhouse cruelty.' Mathias casually mentions that she campaigns against meat production. The noun 'abattoir' means slaughterhouse.
 - 'You tell me that now?' Noemie is horrified that she cooked a meat feast for an animal activist. The adverb 'maintenant' marks present urgency.
 - 'My fine roast is ruined!' Noemie realizes with despair that her main dish cannot be served. The colloquial adjective 'foutu' means ruined or wasted.

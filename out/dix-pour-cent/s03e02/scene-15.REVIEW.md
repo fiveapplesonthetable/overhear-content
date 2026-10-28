@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was like a curled-up hedgehog!' Gabriel uses a self-deprecating animal metaphor. The preposition comme introduces the vivid comparison.
-- 'You always exaggerate your emotions, Gabriel.' Andrea gently teases his dramatic nature. The adverb toujours modifies the verb exagères.
-- 'She is so beautiful and sensual.' Gabriel recalls Monica's mesmerizing presence. The adverb tellement intensifies the adjectives.
-- 'She is a magnificent and kind woman.' Andrea reinforces her admiration. The feminine adjective magnifique describes high elegance.
-- 'I ruined everything with my fears!' Gabriel laments his missed chance. The compound past ai gâché comes from gâcher.
-- 'You panic over a simple meeting.' Andrea offers a grounded perspective. The verb paniquer means to panic.
-- 'I could have been her ideal man!' Gabriel mourns the lost possibility. The past conditional aurais pu expresses an unfulfilled potential.
-- 'Where are you going to sleep tonight then?' Andrea inquires about his immediate shelter. The adverb alors concludes the inquiry.
-- 'I cannot go home alone.' Gabriel reveals his vulnerability. The adjective seul expresses solitude.
-- 'Do you want to come to my place tonight?' Andrea offers her hospitality. The preposition chez indicates someone's home.
-- 'Prepare your sofa for me, Andrea!' Gabriel eagerly accepts the invitation. The imperative prépare addresses a close friend.
-- 'My sofa is ready for you.' Andrea confirms her warm welcome. The adjective prêt agrees with the masculine noun canapé.
-- 'Thank you, my taxi is arriving there soon.' Gabriel watches the street approach. The adverb bientôt indicates near future arrival.
-- 'Rest well during the trip, Gabriel.' Andrea closes the late-night call kindly. The reflexive imperative repose-toi urges relaxation.
+- 'I was like a curled-up hedgehog!' Gabriel uses a self-deprecating animal metaphor. Notice how 'I was' leads directly into the noun meaning 'hedgehog'.
+- 'You always exaggerate your emotions, Gabriel.' Andrea gently teases his dramatic nature. The verb meaning 'exaggerate' pairs naturally with the noun for 'emotions' in everyday conversation.
+- 'She is so beautiful and sensual.' Gabriel recalls Monica's mesmerizing presence. The adverb meaning 'so' gives the reply its conversational emphasis.
+- 'She is a magnificent and kind woman.' Andrea reinforces her admiration. In spoken French, the little word before 'she is' drops its final vowel and attaches with an apostrophe.
+- 'I ruined everything with my fears!' Gabriel laments his missed chance. The verb meaning 'I have' pairs naturally with the noun for 'fears' in everyday conversation.
+- 'You panic over a simple meeting.' Andrea offers a grounded perspective. Andrea uses the casual singular 'you' with 'panic', showing close familiarity.
+- 'I could have been her ideal man!' Gabriel mourns the lost possibility. The descriptive adjective for 'ideal' agrees in gender and number with its noun.
+- 'Where are you going to sleep tonight then?' Andrea inquires about his immediate shelter. French forms the near future by pairing the present tense of 'to go' directly with 'to sleep'.
+- 'I cannot go home alone.' Gabriel reveals his vulnerability. The clause hinges on the everyday verb meaning 'can'.
+- 'Do you want to come to my place tonight?' Andrea offers her hospitality. Inverting the verb and pronoun around 'do you want' creates a crisp, polished question.
+- 'Prepare your sofa for me, Andrea!' Gabriel eagerly accepts the invitation. Gabriel uses the casual singular 'you' with 'prepare', showing close familiarity.
+- 'My sofa is ready for you.' Andrea confirms her warm welcome. Andrea uses the casual singular 'you' with 'sofa', showing close familiarity.
+- 'Thank you, my taxi is arriving there soon.' Gabriel watches the street approach. Notice how 'arrives' leads directly into the noun meaning 'taxi'.
+- 'Rest well during the trip, Gabriel.' Andrea closes the late-night call kindly. The verb meaning 'rest' pairs naturally with the noun for 'journey' in everyday conversation.

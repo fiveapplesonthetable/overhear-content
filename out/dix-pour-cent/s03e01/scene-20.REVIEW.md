@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This story torments me endlessly.' Colette confesses her constant obsession. The verb tourmenter means to torment or distress.
-- 'Why did you sleep with Hicham?' Colette asks the painful direct question. The compound past as couché comes from coucher.
-- 'I had drunk a lot of champagne.' Andrea cites the alcohol at the party. The pluperfect tense avais bu expresses a prior action.
-- 'That is not a sufficient explanation.' Colette demands deeper emotional honesty. The adjective suffisante agrees with explication.
-- 'It is difficult to explain calmly.' Andrea struggles to put her feelings into words. The adverb calmement means in a calm manner.
-- 'I need to understand that night.' Colette seeks clarity for their relationship. The phrase avoir besoin de means to need.
-- 'At first, I was looking at a girl.' Andrea recounts the beginning of the evening. The phrase au départ means initially.
-- 'Hicham seduced that young woman.' Andrea describes Hicham's competitive behavior. The verb séduire means to charm or seduce.
-- 'And that made you angry?' Colette asks about the emotional trigger. The idiom mettre en colère means to make someone angry.
-- 'Yes, the tension became electric.' Andrea recalls the intense rivalry between them. The adjective électrique describes palpable tension.
-- 'I absolutely wanted to dominate him.' Andrea admits her aggressive competitive impulse. The infinitive dominer expresses a desire for control.
-- 'Stop, that image hurts me!' Colette feels hurt by the mental picture. The verbal phrase faire mal à means to hurt.
-- 'I should not have told everything.' Andrea regrets being overly candid. The past conditional n'aurais pas dû expresses regret.
-- 'We come from different worlds.' Colette reflects on their divergent perspectives. The preposition de indicates origin.
+- 'This story torments me endlessly.' Colette confesses her constant obsession. Notice how 'torments' leads directly into the noun meaning 'story'.
+- 'Why did you sleep with Hicham?' Colette asks the painful direct question. This conversational past tense combines a helper verb with the past participle for 'sleep'.
+- 'I had drunk a lot of champagne.' Andrea cites the alcohol at the party. Notice how 'I had' leads directly into the noun meaning 'champagne'.
+- 'That is not a sufficient explanation.' Colette demands deeper emotional honesty. In spoken French, the little word before 'is not' drops its final vowel and attaches with an apostrophe.
+- 'It is difficult to explain calmly.' Andrea struggles to put her feelings into words. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
+- 'I need to understand that night.' Colette seeks clarity for their relationship. Notice how 'I have' leads directly into the noun meaning 'need'.
+- 'At first, I was looking at a girl.' Andrea recounts the beginning of the evening. The verb meaning 'was looking at' pairs naturally with the noun for 'start' in everyday conversation.
+- 'Hicham seduced that young woman.' Andrea describes Hicham's competitive behavior. The adjective meaning 'young' takes its feminine form here to match the noun it describes.
+- 'And that made you angry?' Colette asks about the emotional trigger. In spoken French, the little word before 'put you' drops its final vowel and attaches with an apostrophe.
+- 'Yes, the tension became electric.' Andrea recalls the intense rivalry between them. Notice how 'became' leads directly into the noun meaning 'tension'.
+- 'I absolutely wanted to dominate him.' Andrea admits her aggressive competitive impulse. The clause hinges on the everyday verb meaning 'wanted'.
+- 'Stop, that image hurts me!' Colette feels hurt by the mental picture. Dropping the subject pronoun turns the verb for 'stop' into a direct, punchy command.
+- 'I should not have told everything.' Andrea regrets being overly candid. The two-part French negation brackets the verb for 'would not have' on both sides.
+- 'We come from different worlds.' Colette reflects on their divergent perspectives. The descriptive adjective for 'different' agrees in gender and number with its noun.

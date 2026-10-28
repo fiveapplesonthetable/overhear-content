@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Andrea, Xavier Beauvois said yes!' Colette shares her major breakthrough. The passe compose 'a dit' announces the director's agreement.
+- 'Andrea, Xavier Beauvois said yes!' Colette shares her major breakthrough. The clause hinges on the everyday verb meaning 'has'.
 - 'That is not true! That is amazing!' Andrea reacts with pure delight. The adjective 'genial' expresses enthusiastic approval.
-- 'Of course yes, he loves the project.' Colette confirms the director's backing. The phrase 'bien sur que oui' confirms a positive statement with emphasis.
+- 'Of course yes, he loves the project.' Colette confirms the director's backing. Notice how 'loves' leads directly into the noun meaning 'project'.
 - 'I am so proud of you, my love.' Andrea conveys affectionate praise. The adjective 'fiere' denotes personal pride in someone.
 - 'Do we meet at home tonight?' Colette proposes meeting at their apartment. The reflexive verb 'se retrouver' means to meet up.
 - 'Yes, at home, it is much simpler.' Andrea agrees to an intimate celebration. The comparative structure 'beaucoup plus simple' favors convenience.
 - 'We are going to celebrate properly both together.' Colette envisions a celebratory evening. The adverb 'dignement' means in a fitting or proper manner.
-- 'Well done my darling, you deserve this success.' Andrea validates Colette's talent. The verb 'meriter' means to deserve or earn.
+- 'Well done my darling, you deserve this success.' Andrea validates Colette's talent. Andrea uses the casual singular 'you' with 'deserve', showing close familiarity.
 - 'Kisses all over, see you in a bit!' Colette signs off with warm affection. The noun 'bisou' is a familiar term for a kiss.
 - 'See you soon, I love you deeply.' Andrea returns the loving goodbye. The adverb 'fort' reinforces the intensity of love.
-- 'Right, where were we with our file?' Andrea pivots back to her desk tasks. The idiom 'ou en etions-nous' asks where a discussion left off.
+- 'Right, where were we with our file?' Andrea pivots back to her desk tasks. In everyday spoken French, rising intonation on 'were we' at the end is enough to turn the sentence into a question.
 - 'Do not forget our housewarming party!' Colette calls out a happy reminder. The fixed idiom 'pendaison de cremaillere' means a housewarming party.
 - 'I will be on time, promised!' Andrea pledges to make the party without delay. The past participle 'promis' confirms a firm promise.
-- 'Perfect, I am preparing champagne for us!' Colette readies drinks for their victory. The noun 'champagne' denotes the celebratory French sparkling wine.
+- 'Perfect, I am preparing champagne for us!' Colette readies drinks for their victory. The verb meaning 'prepare' pairs naturally with the noun for 'champagne' in everyday conversation.

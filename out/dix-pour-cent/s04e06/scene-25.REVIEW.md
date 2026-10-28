@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone is left now.' Andrea observes the quiet agency after the party.
-- 'Yes, the office is finally empty.' Gabriel agrees with a gentle nod.
-- 'Look at all these empty chairs.' Andrea looks at the deserted space.
-- 'It is strange without all this noise.' Gabriel feels that the silence is strange.
-- 'We experienced wonderful moments.' Andrea recalls the wonderful years that they shared.
-- 'Ten years of work together.' Gabriel reflects on the long years of shared work.
-- 'I will never forget this adventure.' Andrea says that this adventure was unforgettable.
-- 'Me neither, dear Andrea.' Gabriel reassures her that he feels the same way.
-- 'Are you ready to leave now?' Andrea asks if he is ready to go.
-- 'Yes, let us take our coats.' Gabriel gathers his coat to prepare for the cold.
-- 'Wait! The lights!' Andrea reminds him to turn off the lights.
-- 'Oh yes, I was going to forget.' Gabriel smiles and moves to the wall switch.
-- 'Turn off the big hallway.' Andrea points to the switch in the long corridor.
+- 'Everyone has left now.' Andrea observes the quiet agency after the party. The verb meaning 'left' pairs naturally with the noun for 'world' in everyday conversation.
+- 'Yes, the office is finally empty.' Gabriel agrees with a gentle nod. The descriptive adjective for 'empty' agrees in gender and number with its noun.
+- 'Look at all these empty chairs.' Andrea looks at the deserted space. The adjective meaning 'empty' takes its feminine form here to match the noun it describes.
+- 'It is strange without all this noise.' Gabriel feels that the silence is strange. The descriptive adjective for 'strange' agrees in gender and number with its noun.
+- 'We experienced wonderful moments.' Andrea recalls the wonderful years that they shared. The descriptive adjective for 'wonderful' agrees in gender and number with its noun.
+- 'Ten years of work together.' Gabriel reflects on the long years of shared work. The key noun here means 'years', anchored by its matching French article.
+- 'I will never forget this adventure.' Andrea says that this adventure was unforgettable. Notice how 'will forget' leads directly into the noun meaning 'adventure'.
+- 'Me neither, dear Andrea.' Gabriel reassures her that he feels the same way. The adjective meaning 'dear' takes its feminine form here to match the noun it describes.
+- 'Are you ready to leave now?' Andrea asks if he is ready to go. The informal 'you' form around 'leave' marks a direct, personal relationship.
+- 'Yes, let us take our coats.' Gabriel gathers his coat to prepare for the cold. The verb meaning 'let us take' pairs naturally with the noun for 'coats' in everyday conversation.
+- 'Wait! The lights!' Andrea reminds him to turn off the lights. Notice how 'wait' leads directly into the noun meaning 'lights'.
+- 'Oh yes, I was going to forget.' Gabriel smiles and moves to the wall switch. French forms the near future by pairing the present tense of 'to go' directly with 'forget'.
+- 'Turn off the big hallway.' Andrea points to the switch in the long corridor. The verb meaning 'turn off' pairs naturally with the noun for 'corridor' in everyday conversation.
 - 'There, everything is dark now.' Gabriel turns off the lamps and it is now dark.

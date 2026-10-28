@@ -28,10 +28,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hello Mathias? Yes, it is finally done.' Elise delivers the long-awaited news. The telephone greeting 'allo' opens a phone call.
-- 'Is Dany Boon signing with us?' Mathias asks about the star client's signature. The near-future 'va signer' denotes an imminent agreement.
-- 'Yes, he accepted our offer.' Elise confirms the client's consent. The compound past verb 'a accepte' notes formal agreement.
+- 'Is Dany Boon signing with us?' Mathias asks about the star client's signature. The clause hinges on the everyday verb meaning 'is going'.
+- 'Yes, he accepted our offer.' Elise confirms the client's consent. This conversational past tense combines a helper verb with the past participle for 'accepted'.
 - 'That is very good news, thank you.' Mathias expresses measured appreciation. The noun phrase 'bonne nouvelle' celebrates positive development.
-- 'You do not seem very thrilled.' Elise detects a lack of genuine joy. The verbal idiom 'avoir l'air' means to appear or seem.
+- 'You do not seem very thrilled.' Elise detects a lack of genuine joy. Elise uses the casual singular 'you' with 'have', showing close familiarity.
 - 'I am tired from these negotiations.' Mathias admits the weariness of endless wrangling. The past participle 'fatigue' conveys physical and mental strain.
 - 'Are you never ashamed of manipulating?' Elise confronts him with an uncomfortable moral truth. The verbal phrase 'avoir honte de' means to feel ashamed of.
 - 'Ashamed of what? Of getting contracts?' Mathias defends his business results. The infinitive 'obtenir' designates securing tangible outcomes.

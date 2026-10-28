@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have an offer to make.' Mathias tells Gabriel they have a mutually beneficial proposal for the agency.
-- 'It's called an exchange of friendly services.' Gabriel remains skeptical of his former rival's seemingly generous intentions.
-- 'And we created a production company.' Noémie reveals that they have started their own film production business.
-- 'We've obtained American funding.' She explains they have secured international backing for a major historical film.
-- 'But we'd need a very well-known actor.' Mathias adds that they need an internationally recognized star for the lead role.
-- 'Who do you have in mind?' Gabriel asks which specific actor they are hoping to cast.
-- 'Jean Reno.' Noémie names the famous French actor, who happens to be represented by Gabriel's agency.
-- 'He wouldn't be working for me.' Mathias clarifies that he won't be managing the actor directly due to his health.
-- 'Production and heart problems don't mix well.' Gabriel notes that producing films is too stressful for someone with a weak heart.
-- 'Noémie is producing the film.' Mathias states that his partner will be the sole producer of the movie.
-- 'OK, that way you avoid having to ask us.' Gabriel realizes Mathias orchestrated this to avoid asking for a direct favor.
-- 'And what about Jean-Jacques Annaud's film?' Gabriel wonders about the actor's current commitment to another director's project.
-- 'Annaud is out.' An assistant interrupts to inform them that the director has abandoned the other film.
-- 'That was Jean... He's leaving us?' After taking a phone call, Gabriel announces shocking news about his star client.
+- 'FIXME translation' Mathias tells Gabriel they have a mutually beneficial proposal for the agency. Notice how 'to have' leads directly into the noun meaning 'offer'.
+- 'FIXME translation' Gabriel remains skeptical of his former rival's seemingly generous intentions. The verb meaning 'to call' pairs naturally with the noun for 'exchange' in everyday conversation.
+- 'FIXME translation' Noemie reveals that they have started their own film production business. Notice how 'to have' leads directly into the noun meaning 'company'.
+- 'FIXME translation' She explains they have secured international backing for a major historical film. This conversational past tense combines a helper verb with the past participle for 'to get'.
+- 'FIXME translation' Mathias adds that they need an internationally recognized star for the lead role. The verb meaning 'to be necessary' pairs naturally with the noun for 'actor' in everyday conversation.
+- 'FIXME translation' Gabriel asks which specific actor they are hoping to cast. The verb meaning 'to have' pairs naturally with the noun for 'head' in everyday conversation.
+- 'FIXME translation' Noemie names the famous French actor, who happens to be represented by Gabriel's agency. A short, idiomatic conversational reply that keeps the exchange moving naturally.
+- 'FIXME translation' Mathias clarifies that he won't be managing the actor directly due to his health. Notice the classic French sandwich negation wrapping right around 'to work'.
+- 'FIXME translation' Gabriel notes that producing films is too stressful for someone with a weak heart. Notice how 'to do' leads directly into the noun meaning 'film production'.
+- 'FIXME translation' Mathias states that his partner will be the sole producer of the movie. The verb meaning 'to be' pairs naturally with the noun for 'product' in everyday conversation.
+- 'FIXME translation' Gabriel realizes Mathias orchestrated this to avoid asking for a direct favor. The informal 'you' form around 'to avoid' marks a direct, personal relationship.
+- 'FIXME translation' Gabriel wonders about the actor's current commitment to another director's project. In everyday spoken French, rising intonation on 'movie' at the end is enough to turn the sentence into a question.
+- 'FIXME translation' An assistant interrupts to inform them that the director has abandoned the other film. The clause hinges on the everyday verb meaning 'to be'.
+- 'FIXME translation' After taking a phone call, Gabriel announces shocking news about his star client. The descriptive adjective for 'even' agrees in gender and number with its noun.

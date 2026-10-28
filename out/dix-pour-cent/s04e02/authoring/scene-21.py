@@ -117,5 +117,5 @@ WALK = [
 ]
 
 TRANSITION = "Now, listen to the complete dialogue again at normal conversational pace."
-OUTRO = "Elise's revelation of sexism at StarMedia exposes the brutal reality of agency politics."
+OUTRO = "Elise's revelation of sexism at StarMedia exposes the brutal reality of agency politics. When you watch the episode, listen out for the expressions meaning 'sure' and 'to find'. You'll catch them now. See you next time."
 CLOSING = ("lea", "Je suis vraiment désolée pour toi.")

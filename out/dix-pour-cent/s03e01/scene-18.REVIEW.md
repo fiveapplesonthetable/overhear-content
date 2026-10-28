@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your mother is right, go to bed.' Mathias agrees with Annick about resting. The idiom avoir raison means to be right.
-- 'Is she going to succeed in this job?' Annick inquires about her daughter's future. The verb réussir means to succeed.
-- 'Camille has all the qualities of an agent.' Mathias acknowledges her professional promise. The plural noun qualités means strengths or qualities.
-- 'What are her real strengths?' Annick wants specific details. The feminine plural noun forces refers to strong attributes.
-- 'She is courageous and very sharp.' Mathias praises her instincts. The feminine adjective fine denotes subtlety and intelligence.
-- 'I feel a big flaw coming!' Annick anticipates a reservation. The verb phrase sentir venir means to sense something approaching.
-- 'She still lacks confidence in herself.' Mathias identifies her main challenge. The phrase manquer de means to lack.
-- 'Stop talking like psychiatrists!' Camille protests being analyzed. The plural imperative arrêtez expresses frustration.
-- 'Listen to your father for once.' Annick encourages Camille to pay attention. The imperative écoute addresses Camille.
-- 'I am here in the room!' Camille insists on being acknowledged. The noun pièce means room.
-- 'Remember the lesson of Samuel Kerr.' Mathias invokes the legendary founder. The reflexive imperative rappelle-toi means remember.
-- 'What was his favorite rule?' Camille asks about Samuel's wisdom. The feminine adjective préférée agrees with règle.
-- 'Never show your need to actors.' Mathias shares an essential agency principle. The negative imperative ne montre jamais means never show.
-- 'Make them believe that they need you.' Mathias delivers Samuel's famous rule. The causative structure faire croire means to make someone believe.
+- 'Your mother is right, go to bed.' Mathias agrees with Annick about resting. Mathias uses the casual singular 'you' with 'has', showing close familiarity.
+- 'Is she going to succeed in this job?' Annick inquires about her daughter's future. The standard spoken question formula at the front turns the statement about 'is going' into a natural inquiry.
+- 'Camille has all the qualities of an agent.' Mathias acknowledges her professional promise. Notice how the short vowel drops before a vowel sound around 'has', making the phrase flow smoothly as one unit.
+- 'What are her real strengths?' Annick wants specific details. In everyday spoken French, rising intonation on 'strengths' at the end is enough to turn the sentence into a question.
+- 'She is courageous and very sharp.' Mathias praises her instincts. The adjective meaning 'courageous' takes its feminine form here to match the noun it describes.
+- 'I feel a big flaw coming!' Annick anticipates a reservation. Notice how 'feel' leads directly into the noun meaning 'flaw'.
+- 'She still lacks confidence in herself.' Mathias identifies her main challenge. The verb meaning 'lacks' pairs naturally with the noun for 'confidence' in everyday conversation.
+- 'Stop talking like psychiatrists!' Camille protests being analyzed. The verb meaning 'stop' pairs naturally with the noun for 'psychiatrists' in everyday conversation.
+- 'Listen to your father for once.' Annick encourages Camille to pay attention. The verb meaning 'listen to' pairs naturally with the noun for 'father' in everyday conversation.
+- 'I am here in the room!' Camille insists on being acknowledged. The key noun here means 'room', anchored by its matching French article.
+- 'Remember the lesson of Samuel Kerr.' Mathias invokes the legendary founder. The verb meaning 'remember' pairs naturally with the noun for 'lesson' in everyday conversation.
+- 'What was his favorite rule?' Camille asks about Samuel's wisdom. Notice how 'was' leads directly into the noun meaning 'rule'.
+- 'Never show your need to actors.' Mathias shares an essential agency principle. The verb meaning 'show' pairs naturally with the noun for 'need' in everyday conversation.
+- 'Make them believe that they need you.' Mathias delivers Samuel's famous rule. In spoken French, the little word before 'make' drops its final vowel and attaches with an apostrophe.

@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'So, let us find our seats, over here.' Mathias navigates the busy foyer. The imperative 'trouvons' suggests moving to locate their reserved spots.
 - 'Wait, Mathias, my dress is a disaster!' Noemie is struck by sudden insecurity. The adjective 'catastrophique' expresses acute dramatic distress.
 - 'Not at all, your dress is stunning.' Mathias counters her worry with praise. The phrase 'mais non' softly contradicts a negative claim.
-- 'It is too flashy!' Noemie fears looking conspicuous among celebrities. The idiomatic adjective 'tape-a-l'oeil' means flashy or gaudy.
+- 'It is too flashy!' Noemie fears looking conspicuous among celebrities. Notice how the short vowel drops before a vowel sound around 'the next word', making the phrase flow smoothly as one unit.
 - 'You are elegant and very radiant.' Mathias praises her graceful appearance. The adjective 'lumineuse' denotes glowing, bright beauty.
 - 'A friend is coming toward us, look.' Noemie notes an approaching guest. The preposition 'vers' indicates movement toward a person.
-- 'Hello Mathilde, how are you tonight?' Mathias welcomes an old associate. The greeting 'comment vas-tu' asks about someone's well-being.
-- 'She called me your little assistant!' Noemie expresses righteous resentment. The compound past verb 'a appelee' recounts the condescending remark.
+- 'Hello Mathilde, how are you tonight?' Mathias welcomes an old associate. Notice how 'are going' leads directly into the noun meaning 'hello'.
+- 'She called me your little assistant!' Noemie expresses righteous resentment. This conversational past tense combines a helper verb with the past participle for 'called'.
 - 'I was not able to correct her.' Mathias defends his hesitation in the moment. The verb 'corriger' means to set the record straight.
 - 'You should have defended my status.' Noemie demands proper professional recognition. The conditional 'aurais du' indicates an unfulfilled obligation.
 - 'I am sorry for that word.' Mathias recognizes her genuine hurt. The adjective 'desole' expresses regret and empathy.
 - 'This circle remains cruel to me.' Noemie laments the snobbish film elite. The noun 'milieu' refers to a social or professional environment.
 - 'Our two seats are right here.' Mathias finds their numbered row. The noun 'sieges' refers to theater seats.
-- 'Let us sit down to watch the ceremony.' Noemie prepares for the evening program. The reflexive imperative 'asseyons-nous' invites both of them to sit.
+- 'Let us sit down to watch the ceremony.' Noemie prepares for the evening program. The verb meaning 'let us sit' pairs naturally with the noun for 'ceremony' in everyday conversation.

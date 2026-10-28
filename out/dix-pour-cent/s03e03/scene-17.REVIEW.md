@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Andrea, we never leave each other anymore!' Guy jokes about seeing Andrea all day. The reflexive reciprocal verb expresses constant running into each other.
-- 'Hello Guy, how are you today?' Andrea greets her client with pleasant cheer. The familiar question asks about his current state.
-- 'I saw you this morning.' Guy mentions having spotted her earlier in Paris. The compound past verb with a direct object pronoun refers to their earlier crossing.
-- 'You were walking on Avenue de Trudaine.' Guy specifies the street where he saw her. The imperfect verb depicts ongoing past motion on the street.
-- 'Yes, I was visiting a small apartment.' Andrea quickly manufactures an alibi. The imperfect verb describes a plausible past activity.
-- 'We are looking for housing with Colette.' Andrea mentions her partner to sell the excuse. The present tense verb indicates an ongoing family search.
-- 'It is a very pleasant neighborhood.' Guy compliments the Parisian area. The presentative construction with an adjective praises the location.
-- 'Are you coming for a new role?' Andrea steers the conversation back to career business. The present verb inquires about his reason for visiting the agency.
-- 'I had a doubt about this project.' Guy admits having second thoughts about a script. The imperfect verb reveals his hesitation over a part.
-- 'My fortune teller reads the cards.' Guy reveals his supernatural consulting habit. The present verb describes tarot card divination.
-- 'Are you still listening to that woman?' Andrea questions his reliance on clairvoyance. The adverb of continuation expresses incredulous exasperation.
-- 'I am your official agent!' Andrea insists on her primary advisory role. The emphatic cleft construction asserts legitimate professional guidance.
-- 'Do not be jealous, Andrea!' Guy playfully dismisses her annoyance. The negative subjunctive imperative teases her possessiveness.
+- 'Andrea, we never leave each other anymore!' Guy jokes about seeing Andrea all day. The reflexive pronoun sits right in front of the verb for 'leave', turning the action back onto the subject.
+- 'Hello Guy, how are you today?' Andrea greets her client with pleasant cheer. Notice how the short vowel drops before a vowel sound around 'are you doing', making the phrase flow smoothly as one unit.
+- 'I saw you this morning.' Guy mentions having spotted her earlier in Paris. The verb meaning 'have' pairs naturally with the noun for 'morning' in everyday conversation.
+- 'You were walking on Avenue de Trudaine.' Guy specifies the street where he saw her. The verb meaning 'were walking' pairs naturally with the noun for 'avenue' in everyday conversation.
+- 'Yes, I was visiting a small apartment.' Andrea quickly manufactures an alibi. The descriptive adjective for 'small' agrees in gender and number with its noun.
+- 'We are looking for housing with Colette.' Andrea mentions her partner to sell the excuse. The verb meaning 'are looking for' pairs naturally with the noun for 'housing' in everyday conversation.
+- 'It is a very pleasant neighborhood.' Guy compliments the Parisian area. The key noun here means 'district', anchored by its matching French article.
+- 'Are you coming for a new role?' Andrea steers the conversation back to career business. Andrea uses the casual singular 'you' with 'are coming', showing close familiarity.
+- 'I had a doubt about this project.' Guy admits having second thoughts about a script. Notice how 'had' leads directly into the noun meaning 'doubt'.
+- 'My fortune teller reads the cards.' Guy reveals his supernatural consulting habit. The verb meaning 'reads' pairs naturally with the noun for 'clairvoyant' in everyday conversation.
+- 'Are you still listening to that woman?' Andrea questions his reliance on clairvoyance. The informal 'you' form around 'listen to' marks a direct, personal relationship.
+- 'I am your official agent!' Andrea insists on her primary advisory role. The descriptive adjective for 'official' agrees in gender and number with its noun.
+- 'Do not be jealous, Andrea!' Guy playfully dismisses her annoyance. The two-part French negation brackets the verb for 'be' on both sides.
 - 'You remain my little queen.' Guy charms Andrea with his favorite affectionate title. The present linking verb reaffirms their warm, longstanding bond.

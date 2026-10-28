@@ -118,5 +118,5 @@ WALK = [
      "The imperative verb rentrons promises recovery and peace."),
 ]
 
-OUTRO = "Mathias smiles gently and takes Noemie's hand, grateful for her fierce love and protective strength."
+OUTRO = "Mathias smiles gently and takes Noemie's hand, grateful for her fierce love and protective strength. When you watch the episode, listen out for the expressions meaning 'doctor' and 'placed'. You'll catch them now. See you next time."
 CLOSING = ("mathias", "Rentrons chez nous nous reposer ensemble.")

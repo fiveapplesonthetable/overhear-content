@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Jean's phone is completely turned off.' Gabriel fails repeatedly to contact his missing lead actor.
-- 'His wife's phone does not answer.' Camille reports that all family contacts have gone completely silent.
-- 'Jean never jokes with his contracts.' Gabriel emphasizes that financial negotiations are always strictly professional.
-- 'This contract really smells like a dead animal!' Camille holds the putrid document away from her face.
-- 'The pages are completely moldy and dirty.' Camille examines the damaged paperwork sent back from the woods.
-- 'Go look for a product to clean the paper!' Gabriel issues an absurd command in a state of growing panic.
-- 'There is no such thing as a cleaner for paper!' Camille points out the impossibility of washing documents.
-- 'And what will the producer say about the signature?' Camille worries about explaining the fake name.
-- 'Stop acting clever with me!' Gabriel lashes out defensively as pressure mounts on his shoulders.
-- 'Gabriel, your meeting with the producer is arriving.' Andrea interrupts with urgent news about the lobby.
-- 'Tell her that the legal department has a delay.' Gabriel invents an administrative delay to hide the disaster.
-- 'I am going to keep her waiting in my office.' Andrea volunteers to distract the visiting executive.
-- 'Let us find a solution very quickly for this contract.' Gabriel tries to regain control before the deal collapses.
+- 'Jean's phone is completely turned off.' Gabriel fails repeatedly to contact his missing lead actor. The descriptive adjective for 'cut off.' agrees in gender and number with its noun.
+- 'His wife's phone does not answer.' Camille reports that all family contacts have gone completely silent. Notice the classic French sandwich negation wrapping right around 'answer'.
+- 'Jean never jokes with his contracts.' Gabriel emphasizes that financial negotiations are always strictly professional. Notice how 'joke' leads directly into the noun meaning 'contracts.'.
+- 'This contract really smells like a dead animal!' Camille holds the putrid document away from her face. Notice how 'smells like' leads directly into the noun meaning 'contract'.
+- 'The pages are completely moldy and dirty.' Camille examines the damaged paperwork sent back from the woods. The adjective meaning 'moldy' takes its feminine form here to match the noun it describes.
+- 'Go look for a product to clean the paper!' Gabriel issues an absurd command in a state of growing panic. Dropping the subject pronoun turns the verb for 'go' into a direct, punchy command.
+- 'There is no such thing as a cleaner for paper!' Camille points out the impossibility of washing documents. In spoken French, the little word before 'does not exist' drops its final vowel and attaches with an apostrophe.
+- 'And what will the producer say about the signature?' Camille worries about explaining the fake name. Notice how 'is going' leads directly into the noun meaning 'producer'.
+- 'Stop acting clever with me!' Gabriel lashes out defensively as pressure mounts on his shoulders. The clause hinges on the everyday verb meaning 'stop'.
+- 'Gabriel, your meeting with the producer is arriving.' Andrea interrupts with urgent news about the lobby. The informal 'you' form around 'is arriving.' marks a direct, personal relationship.
+- 'Tell her that the legal department has a delay.' Gabriel invents an administrative delay to hide the disaster. The verb meaning 'tell her' pairs naturally with the noun for 'department' in everyday conversation.
+- 'I am going to keep her waiting in my office.' Andrea volunteers to distract the visiting executive. Notice how 'am going' leads directly into the noun meaning 'office.'.
+- 'Let us find a solution very quickly for this contract.' Gabriel tries to regain control before the deal collapses. The verb meaning 'let us find' pairs naturally with the noun for 'solution' in everyday conversation.

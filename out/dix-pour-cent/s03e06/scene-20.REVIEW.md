@@ -29,9 +29,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Good evening, I am looking for the organizers.' Corinne arrives at the celebration. The present verb 'cherche' indicates what she is looking for.
 - 'Good evening, I am Noemie, assistant.' Noemie politely presents her role at the agency. The verb 'suis' identifies her name and position.
-- 'I am the famous ghost.' Corinne refers to her stand-in film role. The phrase 'c'est moi' emphasizes personal identity.
-- 'Are you Isabelle's double?' Noemie connects the clues immediately. The noun 'double' designates an on-screen stand-in.
-- 'Yes, I did my best.' Corinne describes her earnest effort on the set. The idiom 'faire de son mieux' means to do one's best.
+- 'I am the famous ghost.' Corinne refers to her stand-in film role. The descriptive adjective for 'famous' agrees in gender and number with its noun.
+- 'Are you Isabelle's double?' Noemie connects the clues immediately. The formal 'you' pronoun sets a courteous, professional distance around 'double'.
+- 'Yes, I did my best.' Corinne describes her earnest effort on the set. This conversational past tense combines a helper verb with the past participle for 'done'.
 - 'Are you a theater actress?' Noemie inquires about her dramatic training. The noun 'actrice' specifies a stage performer.
 - 'No, I am an ordinary nurse.' Corinne reveals her true day job in hospital care. The feminine noun 'infirmiere' refers to a registered nurse.
 - 'You are not a professional actress?' Noemie expresses growing astonishment. The negative structure 'ne... pas' questions her professional status.

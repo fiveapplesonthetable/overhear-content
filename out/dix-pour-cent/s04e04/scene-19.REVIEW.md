@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have crazy stage fright tonight.' Sandrine shivers backstage before going on. The idiomatic noun phrase un trac fou conveys acute performance anxiety.
-- 'Breathe, the audience will love you.' Gabriel tries to calm her nerves. The imperative verb respire encourages steady composure.
-- 'My jokes about vegetables were terrible!' Sandrine groans after coming off stage. The adjective nulles reflects her harsh self-assessment.
-- 'It was your very first stage.' Gabriel puts the rocky debut in perspective. The adjective phrase toute première softens the blow.
-- 'Nobody laughed in the room.' Sandrine recalls the icy silence of the club. The negative pronoun personne underscores the absence of humor.
-- 'You showed great courage.' Gabriel praises her daring attempt at stand-up. The expression faire preuve de acknowledges genuine bravery.
-- 'It is entirely your fault, Gabriel!' Sandrine directs her frustration at her agent. The adverb entièrement places full blame on him.
-- 'Why do you accuse me of this failure?' Gabriel protests her sudden hostility. The interrogative verb phrase m'accuses-tu questions her reaction.
-- 'You insisted on this show.' Sandrine reminds him who orchestrated the comedy booking. The compound past verb insisté recalls his pressure.
-- 'I just wanted to broaden your horizons.' Gabriel explains his artistic motives. The infinitive phrase élargir tes horizons justifies his advice.
-- 'I want to do this costume film!' Sandrine states her true artistic desire. The noun phrase en costumes specifies the period genre.
-- 'All right, you won, Sandrine.' Gabriel surrenders to her demand. The compound past verb as gagné signals his concession.
-- 'Do you promise to sign this contract?' Sandrine secures her victory. The present verb promets demands immediate confirmation.
-- 'I will call the producer for you tomorrow.' Gabriel pledges to close the deal. The temporal phrase dès demain guarantees prompt action.
+- 'I have crazy stage fright tonight.' Sandrine shivers backstage before going on. The verb meaning 'have' pairs naturally with the noun for 'stage fright' in everyday conversation.
+- 'Breathe, the audience will love you.' Gabriel tries to calm her nerves. Notice how 'breathe' leads directly into the noun meaning 'public'.
+- 'My jokes about vegetables were terrible!' Sandrine groans after coming off stage. The adjective meaning 'terrible' takes its feminine form here to match the noun it describes.
+- 'It was your very first stage.' Gabriel puts the rocky debut in perspective. The verb meaning 'was' pairs naturally with the noun for 'stage' in everyday conversation.
+- 'Nobody laughed in the room.' Sandrine recalls the icy silence of the club. Notice how 'has' leads directly into the noun meaning 'room'.
+- 'You showed great courage.' Gabriel praises her daring attempt at stand-up. Gabriel uses the casual singular 'you' with 'have', showing close familiarity.
+- 'It is entirely your fault, Gabriel!' Sandrine directs her frustration at her agent. The informal 'you' form around 'fault' marks a direct, personal relationship.
+- 'Why do you accuse me of this failure?' Gabriel protests her sudden hostility. Notice how 'accuse' leads directly into the noun meaning 'failure'.
+- 'You insisted on this show.' Sandrine reminds him who orchestrated the comedy booking. The verb meaning 'have' pairs naturally with the noun for 'show' in everyday conversation.
+- 'I just wanted to broaden your horizons.' Gabriel explains his artistic motives. The verb meaning 'wanted' pairs naturally with the noun for 'horizons' in everyday conversation.
+- 'I want to do this costume film!' Sandrine states her true artistic desire. Notice how 'want' leads directly into the noun meaning 'film'.
+- 'All right, you won, Sandrine.' Gabriel surrenders to her demand. Notice how the short vowel drops before a vowel sound around 'have', making the phrase flow smoothly as one unit.
+- 'Do you promise to sign this contract?' Sandrine secures her victory. The informal 'you' form around 'promise' marks a direct, personal relationship.
+- 'I will call the producer for you tomorrow.' Gabriel pledges to close the deal. The verb meaning 'call' pairs naturally with the noun for 'producer' in everyday conversation.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Congratulations on this beautiful evening, Sandrine!' Gabriel applauds the star actress as she steps off the stage.
-- 'Thank you Gabriel, I am very moved.' Sandrine shares her deep emotional gratitude with her agent.
-- 'The audience loved the play.' Gabriel highlights the standing ovation from the packed auditorium.
-- 'It was a truly intense performance.' Sandrine recalls the demanding energy demanded by her stage lines.
-- 'You acted with so much energy!' Gabriel praises her expressive and dynamic comedic timing.
-- 'The end of the tour is already approaching.' Sandrine realizes the long theatrical season is almost over.
-- 'Tomorrow night will be the big finale.' Gabriel marks the final curtain call scheduled for the next evening.
-- 'I feel a strange nostalgia.' Sandrine describes the bittersweet emotion of finishing a long-running show.
-- 'Everyone will talk about you.' Gabriel guarantees that reviews in the Parisian press will be glowing.
-- 'I am exhausted but very happy.' Sandrine acknowledges her fatigue while savoring the theatrical triumph.
-- 'Come, your fans are waiting at the dressing rooms.' Gabriel guides the leading lady toward greeting her guests.
-- 'I am coming, let us let the stage rest.' Sandrine takes a last look back at the quiet empty stage.
-- 'A big bravo for your talent.' Gabriel reiterates his boundless admiration for her artistic dedication.
-- 'Thank you for your faithful support, Gabriel.' Sandrine expresses deep appreciation for Gabriel's companionship.
+- 'Congratulations on this beautiful evening, Sandrine!' Gabriel applauds the star actress as she steps off the stage. The key noun here means 'congratulations', anchored by its matching French article.
+- 'Thank you Gabriel, I am very moved.' Sandrine shares her deep emotional gratitude with her agent. The adjective meaning 'moved' takes its feminine form here to match the noun it describes.
+- 'The audience loved the play.' Gabriel highlights the standing ovation from the packed auditorium. This conversational past tense combines a helper verb with the past participle for 'loved'.
+- 'It was a truly intense performance.' Sandrine recalls the demanding energy demanded by her stage lines. The verb meaning 'was' pairs naturally with the noun for 'performance' in everyday conversation.
+- 'You acted with so much energy!' Gabriel praises her expressive and dynamic comedic timing. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'The end of the tour is already approaching.' Sandrine realizes the long theatrical season is almost over. The verb meaning 'approaches' pairs naturally with the noun for 'end' in everyday conversation.
+- 'Tomorrow night will be the big finale.' Gabriel marks the final curtain call scheduled for the next evening. The verb meaning 'will be' pairs naturally with the noun for 'evening' in everyday conversation.
+- 'I feel a strange nostalgia.' Sandrine describes the bittersweet emotion of finishing a long-running show. Notice how 'feel' leads directly into the noun meaning 'nostalgia'.
+- 'Everyone will talk about you.' Gabriel guarantees that reviews in the Parisian press will be glowing. The informal 'you' form around 'will speak' marks a direct, personal relationship.
+- 'I am exhausted but very happy.' Sandrine acknowledges her fatigue while savoring the theatrical triumph. The adjective meaning 'exhausted' takes its feminine form here to match the noun it describes.
+- 'Come, your fans are waiting at the dressing rooms.' Gabriel guides the leading lady toward greeting her guests. Notice how 'come' leads directly into the noun meaning 'admirers'.
+- 'I am coming, let us let the stage rest.' Sandrine takes a last look back at the quiet empty stage. The verb meaning 'am coming' pairs naturally with the noun for 'stage' in everyday conversation.
+- 'A big bravo for your talent.' Gabriel reiterates his boundless admiration for her artistic dedication. The informal 'you' form around 'bravo' marks a direct, personal relationship.
+- 'Thank you for your faithful support, Gabriel.' Sandrine expresses deep appreciation for Gabriel's companionship. Sandrine uses the casual singular 'you' with 'support', showing close familiarity.

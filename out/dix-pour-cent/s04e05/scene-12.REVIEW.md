@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, I chose the lindy hop!' Sigourney reveals that she updated the dance to swing jazz. The compound past 'ai choisi' comes from 'choisir'.
 - 'The lindy hop? That is very fast!' Bernard worries about the intense physical exertion. The adjective 'rapide' means quick or speedy.
 - 'Look, I am going to show you.' Sigourney offers a live demonstration right in the dining room. The infinitive 'montrer' means to show.
-- 'But what are you doing?' Bernard gasps as Sigourney hops energetically across the floor. The question 'qu'est-ce que' asks what.
+- 'But what are you doing?' Bernard gasps as Sigourney hops energetically across the floor. The clause hinges on the everyday verb meaning 'are doing'.
 - 'Dance with me, it is wonderful!' Sigourney invites him to share her joy of movement. The imperative 'dansez' addresses Bernard with polite respect.
 - 'No, that is too many steps!' Bernard grabs his coat and flees in terror of exceeding his quota. The quantifier 'trop de' expresses an excessive amount.

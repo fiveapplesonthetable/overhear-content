@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come here, stay a little longer.' Helene invites Jose to relax in bed.
-- 'I must go down to reception.' Jose makes an excuse to leave the room.
-- 'Why are you in such a hurry now?' Helene wonders about his sudden haste.
-- 'I have a problem with my card.' Jose claims his payment card malfunctioned.
-- 'You can settle that later.' Helene urges him not to worry about the bill.
-- 'No, the receptionist is waiting downstairs.' Jose insists on sorting it out immediately.
-- 'Are you coming back to the room afterwards?' Helene asks for reassurance.
-- 'Put everything on the hotel bill.' Jose tells her to charge any extras.
-- 'You forgot your black jacket.' Helene notices his jacket on the chair.
-- 'I am taking it with me now.' Jose grabs his jacket in readiness.
-- 'I will settle this matter very quickly.' Jose promises a prompt return.
-- 'Wait, are you leaving without me, Jose?' Helene grows suspicious of his departure.
-- 'Do not worry, I am just going down.' Jose attempts to allay her concerns.
+- 'Come here, stay a little longer.' Helene invites Jose to relax in bed. The clause hinges on the everyday verb meaning 'come'.
+- 'I must go down to reception.' Jose makes an excuse to leave the room. The verb meaning 'must' pairs naturally with the noun for 'reception' in everyday conversation.
+- 'Why are you in such a hurry now?' Helene wonders about his sudden haste. The descriptive adjective for 'hurried' agrees in gender and number with its noun.
+- 'I have a problem with my card.' Jose claims his payment card malfunctioned. The verb meaning 'have' pairs naturally with the noun for 'problem' in everyday conversation.
+- 'You can settle that later.' Helene urges him not to worry about the bill. Helene uses the casual singular 'you' with 'can', showing close familiarity.
+- 'No, the receptionist is waiting downstairs.' Jose insists on sorting it out immediately. The verb meaning 'waits for' pairs naturally with the noun for 'receptionist' in everyday conversation.
+- 'Are you coming back to the room afterwards?' Helene asks for reassurance. The informal 'you' form around 'come back' marks a direct, personal relationship.
+- 'Put everything on the hotel bill.' Jose tells her to charge any extras. The verb meaning 'put' pairs naturally with the noun for 'bill' in everyday conversation.
+- 'You forgot your black jacket.' Helene notices his jacket on the chair. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'I am taking it with me now.' Jose grabs his jacket in readiness. The clause hinges on the everyday verb meaning 'take'.
+- 'I will settle this matter very quickly.' Jose promises a prompt return. Notice how 'settle' leads directly into the noun meaning 'matter'.
+- 'Wait, are you leaving without me, Jose?' Helene grows suspicious of his departure. Helene uses the casual singular 'you' with 'wait', showing close familiarity.
+- 'Do not worry, I am just going down.' Jose attempts to allay her concerns. The clause hinges on the everyday verb meaning 'worry'.
 - 'Huh? Jose, where are you going?' Helene calls out as the door clicks shut.

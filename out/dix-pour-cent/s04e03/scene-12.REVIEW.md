@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'There, we have finally finished!' Sofia breathes a sigh of relief as the photoshoot concludes. The adverb 'enfin' marks the completion of an effort.
-- 'It was truly a wonderful session.' Camille applauds Sofia's performance in front of the lens. The adjective 'formidable' expresses high appreciation.
+- 'It was truly a wonderful session.' Camille applauds Sofia's performance in front of the lens. The verb meaning 'was' pairs naturally with the noun for 'session' in everyday conversation.
 - 'Thanks to the entire studio team!' Sofia graciously acknowledges the stylists and technicians. The feminine noun 'equipe' refers to a work crew or team.
-- 'The photographer loved your energy.' Camille shares the glowing feedback from the camera operator. The past tense 'a adore' conveys strong enthusiasm.
+- 'The photographer loved your energy.' Camille shares the glowing feedback from the camera operator. The informal 'you' form around 'has' marks a direct, personal relationship.
 - 'Sorry for my delay at the beginning.' Sofia offers a polite apology for her hesitation earlier. The masculine noun 'retard' designates lateness or delay.
-- 'Do not worry about that.' Camille tells her that minor bumps do not matter in the end. The pronominal verb 's'inquieter' is negated in the imperative.
-- 'You were very professional today.' Camille commends Sofia's poised demeanor throughout the shoot. The feminine adjective 'professionnelle' describes expert conduct.
+- 'Do not worry about that.' Camille tells her that minor bumps do not matter in the end. The clause hinges on the everyday verb meaning 'worry'.
+- 'You were very professional today.' Camille commends Sofia's poised demeanor throughout the shoot. Notice how the short vowel drops before a vowel sound around 'have', making the phrase flow smoothly as one unit.
 - 'Do you think the photos are beautiful?' Sofia seeks reassurance about the final portraits. The verb 'croire' asks for Camille's opinion.
 - 'They are gorgeous, believe me.' Camille guarantees that the photographic images look stunning. The imperative 'crois-moi' invites total trust.
-- 'It is thanks to your valuable support.' Sofia credits Camille for giving her emotional backing. The prepositional phrase 'grace a' means thanks to.
-- 'I am very proud of you.' Camille expresses sincere pride in her client's growth and talent. The adjective 'fiere' is the feminine form of proud.
+- 'It is thanks to your valuable support.' Sofia credits Camille for giving her emotional backing. The key noun here means 'thanks', anchored by its matching French article.
+- 'I am very proud of you.' Camille expresses sincere pride in her client's growth and talent. The descriptive adjective for 'proud' agrees in gender and number with its noun.
 - 'Now, can we have a coffee?' Sofia proposes a quiet moment away from studio lights. The verb 'prendre' is commonly used for ordering or consuming a drink.
 - 'Yes, let's go celebrate this fine day!' Camille enthusiastically welcomes the idea of a break. The verb 'feter' means to celebrate an accomplishment.
 - 'I feel peaceful at last today.' Sofia leaves behind her rivalry and feels confident in her career. The adjective 'tranquille' conveys calm peace of mind.

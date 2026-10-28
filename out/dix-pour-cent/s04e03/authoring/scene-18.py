@@ -118,5 +118,5 @@ WALK = [
      "The imperative phrase conveys maternal love."),
 ]
 
-OUTRO = "Camille hangs up the phone, deeply moved by her mother's devotion and reassured about her own path."
+OUTRO = "Camille hangs up the phone, deeply moved by her mother's devotion and reassured about her own path. When you watch the episode, listen out for the expressions meaning 'work' and 'moment'. You'll catch them now. See you next time."
 CLOSING = ("suzanne", "Prends soin de toi avant tout, chérie.")

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is Isabelle not in her dressing room?' Cedric worries about his missing lead actress. The negative question shows rising panic.
-- 'I know, we are waiting for her return.' Gabriel stalls the director diplomatically. The acknowledgment buys precious time.
-- 'It is her last scene tonight!' The director stresses the tight deadline. The exclamation emphasizes schedule constraints.
-- 'Isabelle, where had you gone?' Cedric demands an explanation for her absence. The direct question seeks accountability.
-- 'I was at the late-night pharmacy.' Isabelle offers a clever medical alibi. The locational phrase accounts for her delay.
-- 'I wanted to be discreet for you.' She feigns embarrassment over health issues. The polite explanation disarms suspicion.
-- 'We are waiting for you on set now.' Cedric accepts the excuse and heads to set. The imperative urgency requests immediate presence.
-- 'Alright, I am coming right away.' Isabelle promises prompt arrival on set. The responsive phrase confirms readiness.
-- 'How did you manage to get away?' Gabriel marvels at her miraculous escape. The curious question asks for the secret trick.
-- 'Everything fell apart with Ben Stiller.' Isabelle explains the collapse of the American shoot. The dramatic verb describes total chaos.
-- 'They started arguing with each other.' She details how she provoked creative conflict. The past tense narrative recounts the confrontation.
-- 'The American shoot is suspended.' Isabelle delivers the triumphant news. The passive construction marks her artistic victory.
-- 'That is truly genius, isn't it?' She boasts of her cunning sabotage. The rhetorical question seeks admiration.
+- 'Is Isabelle not in her dressing room?' Cedric worries about his missing lead actress. Notice how 'is not' leads directly into the noun meaning 'dressing room'.
+- 'I know, we are waiting for her return.' Gabriel stalls the director diplomatically. The verb meaning 'know' pairs naturally with the noun for 'return' in everyday conversation.
+- 'It is her last scene tonight!' The director stresses the tight deadline. In spoken French, the little word before 'scene' drops its final vowel and attaches with an apostrophe.
+- 'Isabelle, where had you gone?' Cedric demands an explanation for her absence. This conversational past tense combines a helper verb with the past participle for 'gone'.
+- 'I was at the late-night pharmacy.' Isabelle offers a clever medical alibi. Notice how 'I was' leads directly into the noun meaning 'chemist'.
+- 'I wanted to be discreet for you.' She feigns embarrassment over health issues. The adjective meaning 'unobtrusive' takes its feminine form here to match the noun it describes.
+- 'We are waiting for you on set now.' Cedric accepts the excuse and heads to set. Notice how 'waits for you' leads directly into the noun meaning 'movie set'.
+- 'Alright, I am coming right away.' Isabelle promises prompt arrival on set. In spoken French, the little word before 'I arrive' drops its final vowel and attaches with an apostrophe.
+- 'How did you manage to get away?' Gabriel marvels at her miraculous escape. The clause hinges on the everyday verb meaning 'did you'.
+- 'Everything fell apart with Ben Stiller.' Isabelle explains the collapse of the American shoot. This conversational past tense combines a helper verb with the past participle for 'got out of hand'.
+- 'They started arguing with each other.' She details how she provoked creative conflict. The reflexive pronoun sits right in front of the verb for 'have', turning the action back onto the subject.
+- 'The American shoot is suspended.' Isabelle delivers the triumphant news. This conversational past tense combines a helper verb with the past participle for 'shut down'.
+- 'That is truly genius, isn't it?' She boasts of her cunning sabotage. The adverb meaning 'truly' gives the reply its conversational emphasis.
 - 'You are incredible, Isabelle!' Gabriel expresses utter astonishment and relief. The admiring exclamation praises her audacity.

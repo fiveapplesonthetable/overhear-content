@@ -27,8 +27,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I forgive you for everything, my child.' Isabelle begins her character's deathbed scene. The verb 'pardonner' takes an indirect object.
-- 'Ah, my leg hurts very badly.' The character cries out in agony. The expression 'avoir mal a' indicates bodily pain.
+- 'I forgive you for everything, my child.' Isabelle begins her character's deathbed scene. Notice how 'forgive' leads directly into the noun meaning 'child'.
+- 'Ah, my leg hurts very badly.' The character cries out in agony. Notice how 'have' leads directly into the noun meaning 'pain'.
 - 'Are you going to cut off my leg?' The character fears surgical amputation. The near future 'vous allez couper' expresses imminent action.
 - 'No, madam, have no fear.' The co-star comforts her in character. The formal subjunctive 'soyez sans crainte' means do not be afraid.
 - 'Henri, I see you in the light.' The character experiences a vision of her lost love. The noun 'lumiere' signifies light.
@@ -37,7 +37,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'My heart will go join his.' She declares an eternal romantic bond. The possessive pronoun 'le sien' stands for his heart.
 - 'I promise you, rest in peace.' The doctor makes a solemn deathbed pledge. The formula 'reposez en paix' is equivalent to rest in peace.
 - 'Farewell, the world is slowly fading.' The heroine breathes her final breath. The farewell 'adieu' marks a permanent departure.
-- 'Cut! That is a wrap on this take!' The director halts the filming. The French phrase 'c'est dans la boite' means it is safely in the can.
-- 'Magnificent, Isabelle, bravo for this scene.' The director praises the actress enthusiastically. The exclamation 'bravo' expresses warm approval.
+- 'Cut! That is a wrap on this take!' The director halts the filming. Dropping the subject pronoun turns the verb for 'cut' into a direct, punchy command.
+- 'Magnificent, Isabelle, bravo for this scene.' The director praises the actress enthusiastically. The key noun here means 'scene', anchored by its matching French article.
 - 'Thank you, this take was very intense.' Isabelle steps out of character. The feminine noun 'prise' refers to a film take.
-- 'Your emotion was absolutely perfect.' The director reiterates his admiration. The feminine noun 'emotion' describes deep feeling.
+- 'Your emotion was absolutely perfect.' The director reiterates his admiration. the director uses the polite 'you' form alongside 'was' to keep a respectful professional tone.

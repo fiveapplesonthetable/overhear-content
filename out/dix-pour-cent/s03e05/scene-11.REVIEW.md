@@ -34,10 +34,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'My office is right at the end of the hall.' Camille indicates the layout. The noun 'couloir' designates a corridor.
 - 'Have you worked here for a long time?' Valentin asks about her career history. The preposition 'depuis' expresses duration.
 - 'Only for a few months as an assistant.' Camille clarifies her current position. The adverb 'seulement' limits the time frame.
-- 'But you want to become a full agent?' Valentin inquires about her ambitions. The idiom 'a part entiere' means fully fledged.
+- 'But you want to become a full agent?' Valentin inquires about her ambitions. Valentin uses the casual singular 'you' with 'want', showing close familiarity.
 - 'Yes, that is my great professional dream.' Camille shares her career goal. The adjective 'professionnel' relates to work.
-- 'You have a lot of talent for that.' Valentin offers encouragement. The noun 'talent' praises her aptitude.
-- 'Thank you, Valentin, that is kind to say.' Camille appreciates his support. The polite phrase 'c'est gentil' acknowledges a compliment.
+- 'You have a lot of talent for that.' Valentin offers encouragement. The verb meaning 'have' pairs naturally with the noun for 'talent' in everyday conversation.
+- 'Thank you, Valentin, that is kind to say.' Camille appreciates his support. The descriptive adjective for 'kind' agrees in gender and number with its noun.
 - 'Then show me where you work every day.' Valentin urges a tour. The imperative 'montre-moi' asks for a demonstration.
 - 'Okay, walk forward slowly this way.' Camille leads the way quietly. The adverb 'lentement' warns him to tread softly.
 - 'There, I am following you with great pleasure.' Valentin follows her down the hallway. The verb 'suivre' means to follow.

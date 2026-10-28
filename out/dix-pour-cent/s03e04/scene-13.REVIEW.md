@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your scene with Creon was magnificent.' Camille compliments a young student after the showcase. The descriptive adjective praises the dramatic performance.
-- 'Thank you very much, that is very kind.' The young actress accepts the praise politely. The polite expression shows gratitude.
-- 'Do you have an agent?' Camille inquires about her professional representation. The direct question explores potential representation.
-- 'No, I do not have one yet.' The student confirms she is currently unrepresented. The temporal adverb indicates availability for signing.
-- 'Here, this is my business card.' Camille hands over her contact details. The demonstrative phrase initiates a professional connection.
-- 'Watch out, you touched my shoulder!' A handsome student actor playfully protests a bump. The exclamation calls attention to the collision.
-- 'Sorry, I do not control my strength well.' Camille jokingly apologizes for the contact. The light apology eases the encounter.
-- 'I am Camille Valentini, a new agent.' She introduces herself with her agency title. The proper noun states her professional identity.
-- 'As for me, I had a very small part.' Valentin downplays his brief performance in the show. The limiting phrase expresses modest experience.
-- 'There are no small parts.' Camille quotes the classic theatre maxim. The negative existential phrase encourages the student.
-- 'You are a promising junior agent?' Valentin teasingly asks about her career ambition. The playful question continues their friendly banter.
-- 'Exactly, I scout future stars.' Camille affirms her talent scouting mission. The professional phrase defines her purpose at the conservatory.
-- 'Wait, what is your name?' She asks for his identity before parting. The familiar question seeks his first name.
+- 'Your scene with Creon was magnificent.' Camille compliments a young student after the showcase. Notice how 'was' leads directly into the noun meaning 'stage'.
+- 'Thank you very much, that is very kind.' The young actress accepts the praise politely. Notice how the short vowel drops before a vowel sound around 'the next word', making the phrase flow smoothly as one unit.
+- 'Do you have an agent?' Camille inquires about her professional representation. The verb meaning 'have' pairs naturally with the noun for 'talent agent' in everyday conversation.
+- 'No, I do not have one yet.' The student confirms she is currently unrepresented. Notice how the short vowel drops before a vowel sound around 'have', making the phrase flow smoothly as one unit.
+- 'Here, this is my business card.' Camille hands over her contact details. Notice how 'here' leads directly into the noun meaning 'card'.
+- 'Watch out, you touched my shoulder!' A handsome student actor playfully protests a bump. Dropping the subject pronoun turns the verb for 'have me' into a direct, punchy command.
+- 'Sorry, I do not control my strength well.' Camille jokingly apologizes for the contact. Notice how 'control' leads directly into the noun meaning 'sorry'.
+- 'I am Camille Valentini, a new agent.' She introduces herself with her agency title. The descriptive adjective for 'new' agrees in gender and number with its noun.
+- 'As for me, I had a very small part.' Valentin downplays his brief performance in the show. Notice how the short vowel drops before a vowel sound around 'I had', making the phrase flow smoothly as one unit.
+- 'There are no small parts.' Camille quotes the classic theatre maxim. The descriptive adjective for 'small' agrees in gender and number with its noun.
+- 'You are a promising junior agent?' Valentin teasingly asks about her career ambition. The key noun here means 'talent agent', anchored by its matching French article.
+- 'Exactly, I scout future stars.' Camille affirms her talent scouting mission. The adjective meaning 'future' takes its feminine form here to match the noun it describes.
+- 'Wait, what is your name?' She asks for his identity before parting. In spoken French, the little word before 'wait' drops its final vowel and attaches with an apostrophe.
 - 'Valentin, like Valentini without the i.' He reveals the witty resemblance to her surname. The humorous comparison seals their connection.

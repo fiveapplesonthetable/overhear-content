@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The day was particularly exhausting.' Andrea pours herself a drink at her desk. The compound past emphasizes the long day.
-- 'Will you pour me a glass too?' Elise asks from the office doorway. The adverbial pronoun en refers back to the drink.
-- 'Elise? What are you still doing here?' Andrea looks up in utter surprise. The inverted question marks her shock.
-- 'The entrance door had remained open.' Elise explains her quiet arrival. The pluperfect passive tense justifies her sudden presence.
-- 'I was not expecting you.' Andrea sets down her bottle with caution. The reflexive imperfect conveys her complete surprise.
-- 'I need to drink a glass.' Elise steps into the dim room. The common phrase avoir besoin de expresses urgent need.
-- 'Sit down, here is a glass for you.' Andrea offers hospitality despite their rivalry. The imperative sets a cooperative tone.
-- 'Thank you Andrea, I really appreciate this gesture.' Elise takes the tumbler. The polite verb acknowledges the small kindness.
-- 'You look really very troubled.' Andrea studies the rival agent closely. The idiom avoir l'air describes her tense appearance.
-- 'I had an absolutely terrible evening.' Elise takes a deep sip of alcohol. The strong descriptive adjective signals bad news.
-- 'A serious problem with your clients?' Andrea tries to guess the crisis. The noun phrase investigates potential agency drama.
-- 'No, it is much worse than that.' Elise shakes her head grimly. The comparative adverb highlights the gravity of the shock.
-- 'So tell me what is going on.' Andrea leans across the desk attentively. The imperative verb invites an honest explanation.
+- 'The day was particularly exhausting.' Andrea pours herself a drink at her desk. This conversational past tense combines a helper verb with the past participle for 'been'.
+- 'Will you pour me a glass too?' Elise asks from the office doorway. In everyday spoken French, rising intonation on 'pour' at the end is enough to turn the sentence into a question.
+- 'Elise? What are you still doing here?' Andrea looks up in utter surprise. Inverting the verb and pronoun around 'do you do' creates a crisp, polished question.
+- 'The entrance door had remained open.' Elise explains her quiet arrival. The adjective meaning 'open' takes its feminine form here to match the noun it describes.
+- 'I was not expecting you.' Andrea sets down her bottle with caution. The informal 'you' form around 'was expecting' marks a direct, personal relationship.
+- 'I need to drink a glass.' Elise steps into the dim room. Notice how 'have' leads directly into the noun meaning 'need'.
+- 'Sit down, here is a glass for you.' Andrea offers hospitality despite their rivalry. The verb meaning 'sit down' pairs naturally with the noun for 'glass' in everyday conversation.
+- 'Thank you Andrea, I really appreciate this gesture.' Elise takes the tumbler. Notice how 'appreciate' leads directly into the noun meaning 'thank you'.
+- 'You look really very troubled.' Andrea studies the rival agent closely. The informal 'you' form around 'have' marks a direct, personal relationship.
+- 'I had an absolutely terrible evening.' Elise takes a deep sip of alcohol. Notice how 'have' leads directly into the noun meaning 'evening'.
+- 'A serious problem with your clients?' Andrea tries to guess the crisis. Andrea uses the casual singular 'you' with 'problem', showing close familiarity.
+- 'No, it is much worse than that.' Elise shakes her head grimly. The adverb meaning 'much' gives the reply its conversational emphasis.
+- 'So tell me what is going on.' Andrea leans across the desk attentively. The reflexive pronoun sits right in front of the verb for 'tell me', turning the action back onto the subject.
 - 'Prepare yourself for quite a surprise.' Elise leans forward with a weary smile. The expressive adjective foreshadows big news.

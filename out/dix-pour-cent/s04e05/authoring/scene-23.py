@@ -118,5 +118,5 @@ WALK = [
      "The urgent imperative lâche-moi signals sudden chaos."),
 ]
 
-OUTRO = "Shaken and bruised, Elise wrenches herself free, leaving Andrea standing in the corridor amid the wreckage of her career."
+OUTRO = "Shaken and bruised, Elise wrenches herself free, leaving Andrea standing in the corridor amid the wreckage of her career. When you watch the episode, listen out for the expressions meaning 'been able' and 'to betray'. You'll catch them now. See you next time."
 CLOSING = ("elise", "Lâche-moi immédiatement le bras, arrête!")

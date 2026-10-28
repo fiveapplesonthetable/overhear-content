@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is Elise Formain doing in our offices?' Andrea asks angrily why their fiercest competitor has appeared.
-- 'Close the door before this urgent meeting.' Andrea orders the boardroom doors shut to avoid office eavesdropping.
-- 'Is StarMedia trying to buy out our agency?' Gabriel questions whether StarMedia intends to swallow ASK whole.
-- 'Nobody is buying us, we are hiring her!' Hicham shocks the agents by stating that ASK is hiring Elise instead.
-- 'Elise Formain is joining us with her clients.' Hicham explains that her lucrative client roster comes along with her.
-- 'This is a bad joke, I hope?' Andrea reacts with disgust, refusing to believe Hicham's announcement.
-- 'This woman is a monster without scruples!' Andrea warns that Elise represents everything toxic in talent representation.
-- 'She possesses an impressive portfolio of stars though.' Gabriel weighs the indisputable revenue her star clients bring.
-- 'I have no available cash left.' Hicham bluntly confesses that the agency's bank reserves are entirely depleted.
-- 'Without her, our agency is ruined.' Hicham makes it clear that without Elise's revenues, ASK will collapse.
-- 'We must vote between partners now.' Andrea insists that the managing partners must decide together by formal vote.
-- 'Who votes to save our jobs?' Hicham asks who is prepared to vote for survival over personal pride.
-- 'I vote to welcome Elise into our firm.' Gabriel reluctantly votes yes to protect the company's financial future.
+- 'What is Elise Formain doing in our offices?' Andrea asks angrily why their fiercest competitor has appeared. The verb meaning 'is doing' pairs naturally with the noun for 'offices?' in everyday conversation.
+- 'Close the door before this urgent meeting.' Andrea orders the boardroom doors shut to avoid office eavesdropping. Notice how 'close' leads directly into the noun meaning 'door'.
+- 'Is StarMedia trying to buy out our agency?' Gabriel questions whether StarMedia intends to swallow ASK whole. Inverting the verb and pronoun around 'is it trying' creates a crisp, polished question.
+- 'Nobody is buying us, we are hiring her!' Hicham shocks the agents by stating that ASK is hiring Elise instead. The two-part French negation brackets the verb for 'buys out' on both sides.
+- 'Elise Formain is joining us with her clients.' Hicham explains that her lucrative client roster comes along with her. Notice how 'is joining' leads directly into the noun meaning 'clients.'.
+- 'This is a bad joke, I hope?' Andrea reacts with disgust, refusing to believe Hicham's announcement. Notice how the short vowel drops before a vowel sound around 'it is', making the phrase flow smoothly as one unit.
+- 'This woman is a monster without scruples!' Andrea warns that Elise represents everything toxic in talent representation. The key noun here means 'woman', anchored by its matching French article.
+- 'She possesses an impressive portfolio of stars though.' Gabriel weighs the indisputable revenue her star clients bring. Notice how 'possesses' leads directly into the noun meaning 'portfolio'.
+- 'I have no available cash left.' Hicham bluntly confesses that the agency's bank reserves are entirely depleted. Notice the classic French sandwich negation wrapping right around 'have'.
+- 'Without her, our agency is ruined.' Hicham makes it clear that without Elise's revenues, ASK will collapse. The verb meaning 'ruined.' pairs naturally with the noun for 'agency' in everyday conversation.
+- 'We must vote between partners now.' Andrea insists that the managing partners must decide together by formal vote. Notice how 'is necessary' leads directly into the noun meaning 'partners'.
+- 'Who votes to save our jobs?' Hicham asks who is prepared to vote for survival over personal pride. In everyday spoken French, rising intonation on 'votes' at the end is enough to turn the sentence into a question.
+- 'I vote to welcome Elise into our firm.' Gabriel reluctantly votes yes to protect the company's financial future. The clause hinges on the everyday verb meaning 'vote'.
