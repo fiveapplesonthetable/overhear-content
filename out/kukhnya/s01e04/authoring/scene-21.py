@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'fedya': 'Федя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, Chef Viktor Barinov discovers that Max's experiment with food coloring turned a guest's soup bright blue. Enraged by the embarrassment, Barinov loses his patience entirely and delivers an ultimatum to his rookie cook. Let's listen to their heated kitchen confrontation in Russian first."
-OPENER = "Now let's examine Chef Barinov's furious ultimatum in the kitchen line by line."
+INTRO = "A guest in the dining room has been served the blue soup, and his tongue has turned blue. Barinov is furious, and gives Max two minutes to pack up and leave. Here's the Russian first."
+OPENER = "Let's hear the chef lose his patience."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Furious and unwilling to listen, Chef Barinov casts Max out of Claude Monet, leaving the young cook's career hanging by a thread. Next time you watch the episode, listen for the Russian expressions for 'to thank' and 'more' — you will catch every word right away. See you next time!"
+OUTRO = 'Barinov has no patience left and no interest in listening. Notice "dve minuty", two minutes, where the noun ends in "-y" after "two".'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('fedya', 'Шеф, наш новичок снова сильно отличился.', 'Chef, our newcomer stood out again.', [(281, 'опять отличился')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Я больше ничего не хочу слышать!', 'I do not want to hear anything anymore!', [(289, 'Не желаю ничего слышать.')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, our newcomer stood out again.' Fedya informs the head chef of yet another kitchen mishap."),
-    (1, None, "'What did you do in the kitchen again?' Barinov angrily demands an explanation for the disturbance."),
-    (2, None, "'In the dining room the guest's tongue turned blue!' Fedya reveals the bizarre cosmetic side effect of the dish."),
-    (3, None, "'Did you ruin the soup with food coloring?' Barinov identifies the pastry dye that colored the soup."),
-    (4, None, "'Chef, the soup turned out very delicious!' Max naively defends the taste despite the outrageous color."),
-    (5, None, "'This is how you thank me for kindness!' The head chef feels his generosity has been thoroughly mocked."),
-    (6, None, "'I gave you a chance to become a good cook.' Barinov laments the wasted opportunity he offered his apprentice."),
-    (7, None, "'Please, listen to me for at least a minute.' Max desperately begs for an opportunity to explain his actions."),
-    (8, None, "'You have exactly two minutes!' Barinov gives a strict and merciless deadline for departure."),
-    (9, None, "'Quickly pack all your things!' The chef orders the young apprentice to clear his locker immediately."),
-    (10, None, "'Chef, I did not want to offend anyone.' Max tries to express that he had no malicious intent."),
-    (11, None, "'Leave here, you are fired from the restaurant!' Barinov delivers the devastating final verdict."),
-    (12, None, "'I do not want to hear anything anymore!' The head chef firmly slams the door on any further debate."),
+    (0, None, '\'Chef, our newcomer stood out again.\' "Otlichilsya" means "distinguished himself", and Fedya says it sarcastically. "Otlichnyy", excellent, is from the same root.'),
+    (1, None, '\'What did you do in the kitchen again?\' "Natvoril" is "to get up to mischief", built on "tvorit\'", to create. The chef sounds exhausted.'),
+    (2, None, '\'In the dining room the guest\'s tongue turned blue!\' "Yazyk" is both tongue and language. "Stal sinim" is "became blue", with the "as" ending.'),
+    (3, None, '\'Did you ruin the soup with food coloring?\' "Pishchevym" is "food" as a describing word, from "pishcha". "Krasitelem" ends in "-em", the "with" ending.'),
+    (4, None, '\'Chef, the soup turned out very delicious!\' "Poluchilsya" is "turned out", masculine to match "sup". "Vkusnym" has the "as" ending after it.'),
+    (5, None, '\'This is how you thank me for kindness!\' "Blagodarish\'" is "you thank", and it grows from "blago", good, and "dar", gift. "Za dobrotu" is "for kindness".'),
+    (6, None, '\'I gave you a chance to become a good cook.\' The chef "gave" Max a chance "to become" a good cook. The cook takes "-om", and "good" takes "-im", the "as" endings.'),
+    (7, None, '\'Please, listen to me for at least a minute.\' "Vyslushayte" has "vy-", out, so it\'s "hear out". "Khotya by" is "at least".'),
+    (8, None, '\'You have exactly two minutes!\' "Rovno" is "exactly". "Dve" is the feminine "two", and "minuty" is the form after "two".'),
+    (9, None, '\'Quickly pack all your things!\' "Pack" is really "gather", and "your own" is the word Russians use whenever the owner is the one acting.'),
+    (10, None, '\'Chef, I did not want to offend anyone.\' "Nikogo" is "nobody", in the object form. "Obidet\'" comes from "obida", offense.'),
+    (11, None, '\'Leave here, you are fired from the restaurant!\' "Uvolen iz" is "fired from". "Ukhodi" is the command "leave".'),
+    (12, None, '\'I do not want to hear anything anymore!\' "Bol\'she nichego ne" is "more nothing not", the double negative once more.'),
 ]

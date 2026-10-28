@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = 'Near the bar of Claude Monet, Max notices bartender Kostya staring admiringly at waitress Nastya. Teasing his friend about his secret crush, Max pushes the nervous bartender to give Nastya a compliment. Listen to their playful conversation in Russian first.'
-OPENER = "Let's review this romantic encounter by the bar line by line."
+INTRO = "Max notices that Kostya keeps staring at Nastya, and he decides to help. He teases his friend until Kostya admits he likes her, and then pushes him into giving her a compliment. Here's the Russian first."
+OPENER = "Let's go through the matchmaking."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Thrilled by Nastya's warm reaction, Kostya gains newfound confidence behind the bar. See you next time!"
+OUTRO = 'Kostya gets a compliment back, and a lot more confidence than before. Remember "ona mne nravitsya", "I like her", which is "she is pleasing to me".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Костя, посмотри на Настю.', 'Kostya, look at Nastya.', [(59, 'Костян, смотри')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Видишь? Главное — всегда быть смелым!', 'See? The main thing is to always be brave!', [(74, 'будь смелее')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, look at Nastya.' Max draws his friend's attention to the hostess."),
-    (1, None, "'She is a very pretty girl.' Kostya admires the appearance of the young woman."),
-    (2, None, "'Do you like her? Admit it honestly!' Pressing his buddy, the cook demands a true confession of feelings."),
-    (3, None, "'Well all right, I like her very much.' The bartender finally admits his strong attraction to her."),
-    (4, None, "'Then give her a nice compliment.' Giving advice, the friend encourages a flattering remark."),
-    (5, None, "'I am afraid, I cannot talk smoothly.' Fear of stumbling over words makes the bartender hesitate."),
-    (6, None, "'Hi, boys! What are you talking about?' Nastya approaches the bar and greets the two friends."),
-    (7, None, "'Kostya wants to tell you important words.' Setting his friend up, the cook prompts the compliment."),
-    (8, None, "'Nastya, you have a very pretty hairstyle!' Kostya praises the way her hair looks today."),
-    (9, None, "'Thank you, Kostya! You are a very sweet guy.' Accepting the praise, the hostess calls him endearing."),
-    (10, None, "'Did you hear? She called me sweet!' Eagerly checking with his buddy, the bartender shares his excitement."),
-    (11, None, "'See? The main thing is to always be brave!' Courage pays off in these situations."),
+    (0, None, '\'Kostya, look at Nastya.\' "Posmotri na" is "look at", and "Nastya" becomes "Nastyu" as the thing you look at.'),
+    (1, None, '\'She is a very pretty girl.\' Kostya says "devushka", the word for a girl or a young woman. There\'s no "is" in it.'),
+    (2, None, '\'Do you like her? Admit it honestly!\' "Ona tebe nravitsya" is literally "she to you is pleasing". "Priznaysya" has "-sya" at the end, since you "admit yourself".'),
+    (3, None, '\'Well all right, I like her very much.\' Kostya gives in with "nu ladno", "well, fine", and then says "I like her" the Russian way: "she is pleasing to me". The one who likes is "me".'),
+    (4, None, '\'Then give her a nice compliment.\' Max sets him a task: "say to her" a nice compliment. The "to her" form is "yey", a tiny word that slips into the middle.'),
+    (5, None, '\'I am afraid, I cannot talk smoothly.\' "Boyus\'" is "I\'m afraid", with "-s\'" at the end. "Ne umeyu" is "I don\'t know how".'),
+    (6, None, '\'Hi, boys! What are you talking about?\' "Privet" is the casual hello. "Mal\'chiki" is "boys", with a small ending. "O chyom" is "about what".'),
+    (7, None, '\'Kostya wants to tell you important words.\' Max passes the message on with a flourish. "Important words" is plural, so both words end alike, and "to you" is the short "tebe".'),
+    (8, None, '\'Nastya, you have a very pretty hairstyle!\' "U tebya" is "at you", the "have" pattern. "Prichyoska" comes from "to comb", so it\'s a "combing".'),
+    (9, None, '\'Thank you, Kostya! You are a very sweet guy.\' "Milyy" is "sweet" or "nice", and it\'s the word Vika used in the very first episode. "Paren\'" is "guy".'),
+    (10, None, '\'Did you hear? She called me sweet!\' "Nazvala" is "called", with a woman\'s -a. "Milym" has "-ym", the ending that goes after "call".'),
+    (11, None, '\'See? The main thing is to always be brave!\' Max is proud of his coaching. "Do you see?" is one word, and "brave" ends in "-ym" after "to be".'),
 ]

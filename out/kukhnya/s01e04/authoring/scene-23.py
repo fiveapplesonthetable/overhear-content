@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = 'In his private office, Chef Viktor Barinov confides in his pet fish Arkady, while a dejected Max packs his bag in the locker room, receiving heartfelt comfort from waitress Nastya.'
-OPENER = "Let's explore Chef Barinov's venting and Nastya's comforting words to Max."
+INTRO = "In his office, the chef is complaining to his pet fish, Arkady, while in the locker room Max packs his bag, and Nastya tries to comfort him. Here's the Russian first."
+OPENER = "Let's go through the two sad scenes."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Comforted by Nastya's loyal support, Max prepares to leave Claude Monet behind. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'main' — you will catch every word right away. See you next time!"
+OUTRO = 'Nastya promises that Max won\'t be alone, and the two of them will think of something. If you take one phrase from here, make it "u tebya est\' ya", "you have me".'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('barinov', 'Только ты, Аркадий, меня понимаешь.', 'Only you, Arkady, understand me.', [(317, 'Только ты, Аркадий, меня и понимаешь.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('nastya', 'Мы обязательно что-нибудь придумаем!', 'We will definitely come up with something!', [], ''),
 ]
 WALK = [
-    (0, None, "'Only you, Arkady, understand me.' Barinov tells Arkady he is the only one who understands him."),
-    (1, None, "'Around me are only slackers and fools!' Barinov complains about being surrounded by lazy and incompetent people."),
-    (2, None, "'Maxim, where are you getting ready to go now?' Nastya asks Maxim where he is heading."),
-    (3, None, "'Anywhere, the chef just fired me.' Max replies he could go anywhere since he was just fired."),
-    (4, None, "'Maybe the chef was just joking unsuccessfully?' Nastya suggests the boss might have made a bad joke."),
-    (5, None, "'No, he never jokes like that.' Max confirms the boss never jokes like that."),
-    (6, None, "'I really do not want you to leave!' Nastya expresses that she really does not want him to leave."),
-    (7, None, "'I also wanted to stay in this kitchen.' Max admits he also wanted to stay in this kitchen."),
-    (8, None, "'Let me hide you right here!' Nastya offers to hide him right there."),
-    (9, None, "'Thank you, Nastya, but hiding is silly.' Max appreciates the offer but calls the idea silly."),
-    (10, None, "'The main thing is do not worry because of the chef.' Nastya tells him not to worry about the boss."),
-    (11, None, "'Now you have me in the restaurant!' Nastya points out that he has her support in the restaurant now."),
-    (12, None, "'Thank you for the support, you are a true friend.' Max thanks her and calls her a true friend."),
-    (13, None, "'We will definitely come up with something!' Nastya promises they will come up with a solution."),
+    (0, None, '\'Only you, Arkady, understand me.\' "Tol\'ko ty" is "only you". Barinov talks to a fish, and "ponimayesh\'" is "you understand".'),
+    (1, None, '\'Around me are only slackers and fools!\' "Odni" here means "nothing but". "Lentyai" comes from "len\'", laziness, and "neumekhi" is "ne-" plus "umet\'", know how.'),
+    (2, None, '\'Maxim, where are you getting ready to go now?\' "Sobirayesh\'sya" is "gather yourself", so "get ready". "Kuda" is "where to".'),
+    (3, None, '\'Anywhere, the chef just fired me.\' "Kuda-nibud\'" is "anywhere", with the "-nibud\'" for "any". "Uvolil" is "fired".'),
+    (4, None, '\'Maybe the chef was just joking unsuccessfully?\' "Neudachno" is "ne-" plus "udacha", luck. "Poshutil" is "joked", from "shutka", a joke.'),
+    (5, None, '\'No, he never jokes like that.\' The answer is a stack of negatives, "never so not", and "jokes" grows out of "shutka", a joke.'),
+    (6, None, '\'I really do not want you to leave!\' "Chtoby" is "so that", and what follows goes in the past: "chtoby ty ukhodil". It\'s Russian\'s way to say "I want you to".'),
+    (7, None, '\'I also wanted to stay in this kitchen.\' "Ostat\'sya" is "to stay", with the little "self". "Na etoy kukhne" is "in this kitchen".'),
+    (8, None, '\'Let me hide you right here!\' "Davay ya" followed by an "I" form is "let me". "Spryachu" is "I will hide".'),
+    (9, None, '\'Thank you, Nastya, but hiding is silly.\' "Pryatat\'sya" is "to hide oneself", with "-sya". "Glupo" is "silly".'),
+    (10, None, '\'The main thing is do not worry because of the chef.\' "Ne perezhivay" is "don\'t worry", and it\'s built on "pere-" plus "zhit\'", to live: live through. "Iz-za" is "because of".'),
+    (11, None, '\'Now you have me in the restaurant!\' "U tebya yest\' ya" is literally "at you there is I", the full "have" pattern.'),
+    (12, None, '\'Thank you for the support, you are a true friend.\' "Podderzhka" is "pod-" plus "derzhat\'", to hold: hold up. "Nastoyashchiy" is "true".'),
+    (13, None, '\'We will definitely come up with something!\' "Pridumayem" is "we will think up", from "dumat\'". "Chto-nibud\'" is "something".'),
 ]

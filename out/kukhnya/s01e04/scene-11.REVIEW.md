@@ -14,9 +14,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Макс | Она кажется такой недоступной сегодня. | She seems so unapproachable today. | new | new |
 | 3 | Костя | Хватит стоять и просто смотреть. | Stop standing and merely watching. | new | new |
 | 4 | Макс | А что мне делать, Костя? | And what should I do, Kostya? | new | new |
-| 5 | Костя | Прояви инициативу прямо сейчас! | Take the initiative right now! | #145: Прояви инициативу | verbatim |
+| 5 | Костя | Прояви инициативу прямо сейчас! | Take the initiative right now! | #145 00:10:46: Прояви инициативу | verbatim |
 | 6 | Макс | Думаешь, это хорошая идея? | Do you think that is a good idea? | new | new |
-| 7 | Костя | Девчонки любят смелых парней. | Girls like brave guys. | #145: Девчонки любят смелых | verbatim |
+| 7 | Костя | Девчонки любят смелых парней. | Girls like brave guys. | #145 00:10:46: Девчонки любят смелых | verbatim |
 | 8 | Макс | А если она прогонит меня? | And what if she sends me away? | new | new |
 | 9 | Костя | Тогда ты хотя бы попробовал. | Then at least you tried. | new | new |
 | 10 | Макс | Ты прав, нельзя вечно бояться. | You are right, one cannot be afraid forever. | new | new |
@@ -26,7 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She seems so unapproachable today.' Observing his love interest, the cook notes she looks distant.
-- 'Take the initiative right now!' Urging his friend, the bartender says to make a move.
-- 'Girls love brave guys.' Kostya points out that women appreciate confident men.
-- 'Thanks for the advice, I'll do it!' Accepting the suggestion, the cook resolves to act.
+- 'Watching her from afar again?' "Izdaleka" is "from afar", built on "daleko", far. "Na neyo" is "at her", with an "n" added to "her".
+- 'She seems so unapproachable today.' "Unapproachable" is built from "ne" plus "accessible", with the "-oy" ending that follows "seems". Max makes Vika sound like a distant planet.
+- 'Stop standing and merely watching.' "Khvatit" is "enough", the one that comes with an infinitive. "Prosto" adds "merely".
+- 'And what should I do, Kostya?' "Chto mne delat'" is the standard advice question: "what to me to do".
+- 'Take the initiative right now!' "Proyavi initsiativu" is "show initiative", the Russian for "take the initiative". "Initsiativa" is borrowed.
+- 'Do you think that is a good idea?' "Dumayesh'" is "you think", and a rising voice is all it takes to turn the statement into a question.
+- 'Girls like brave guys.' "Devchonki" is the casual plural of "girl", and "smelykh" is "brave", in the form that goes with "like".
+- 'And what if she sends me away?' "Prognat'" means "to drive away", and it's what you do to stray animals. Max is worried.
+- 'Then at least you tried.' Kostya sounds like a coach: "at least you tried". Russian packs "at least" into "khotya by".
+- 'You are right, one cannot be afraid forever.' "Prav" is the short form for "right". "Nel'zya" is "not allowed", here "one mustn't". "Vechno" is "forever".
+- 'Walk over and talk with her confidently.' Walking up has "pod-", up to, in front of "go". And "confidently" grows out of "uveren", sure.
+- 'Thanks for the advice, I will do it!' "Sovet" is "advice", and it's the same word as the Soviet "council". "Sdelayu" is "I will do".
+- 'Good luck, my friend, show your courage.' "Udachi" is "of luck", with "I wish you" left out, like "good night". "Smelost'" is "courage", from "smelyy", brave.

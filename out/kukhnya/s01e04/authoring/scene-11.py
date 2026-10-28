@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "Near the dining room entrance, novice cook Max hesitates anxiously, uncertain whether to approach glamorous art director Vika. Bartender Kostya notices his hesitation and offers encouraging romantic advice, urging Max to take the initiative with confidence. Let's listen to their conversation in Russian first."
-OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
+INTRO = "Max is hovering near the dining room, trying to work up the nerve to talk to Vika. Kostya notices and gives him some very direct advice. Here's the Russian first."
+OPENER = "Now let's hear Kostya's pep talk."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max takes a deep breath and prepares to walk toward Vika. Next time you watch the episode, listen for the Russian expressions for 'to be afraid' and 'forever' — you will catch every word right away. See you next time!"
+OUTRO = 'Max takes a deep breath, and Kostya wishes him luck. A good phrase for the end: "udachi", which literally means "of luck".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('kostya', 'Опять смотришь на неё издалека?', 'Watching her from afar again?', [], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('kostya', 'Удачи, друг, покажи свою смелость.', 'Good luck, my friend, show your courage.', [], ''),
 ]
 WALK = [
-    (0, None, "'She seems so unapproachable today.' Observing his love interest, the cook notes she looks distant."),
-    (1, None, "'Take the initiative right now!' Urging his friend, the bartender says to make a move."),
-    (2, None, "'Girls love brave guys.' Kostya points out that women appreciate confident men."),
-    (3, None, "'Thanks for the advice, I'll do it!' Accepting the suggestion, the cook resolves to act."),
+    (0, None, '\'Watching her from afar again?\' "Izdaleka" is "from afar", built on "daleko", far. "Na neyo" is "at her", with an "n" added to "her".'),
+    (1, None, '\'She seems so unapproachable today.\' "Unapproachable" is built from "ne" plus "accessible", with the "-oy" ending that follows "seems". Max makes Vika sound like a distant planet.'),
+    (2, None, '\'Stop standing and merely watching.\' "Khvatit" is "enough", the one that comes with an infinitive. "Prosto" adds "merely".'),
+    (3, None, '\'And what should I do, Kostya?\' "Chto mne delat\'" is the standard advice question: "what to me to do".'),
+    (4, None, '\'Take the initiative right now!\' "Proyavi initsiativu" is "show initiative", the Russian for "take the initiative". "Initsiativa" is borrowed.'),
+    (5, None, '\'Do you think that is a good idea?\' "Dumayesh\'" is "you think", and a rising voice is all it takes to turn the statement into a question.'),
+    (6, None, '\'Girls like brave guys.\' "Devchonki" is the casual plural of "girl", and "smelykh" is "brave", in the form that goes with "like".'),
+    (7, None, '\'And what if she sends me away?\' "Prognat\'" means "to drive away", and it\'s what you do to stray animals. Max is worried.'),
+    (8, None, '\'Then at least you tried.\' Kostya sounds like a coach: "at least you tried". Russian packs "at least" into "khotya by".'),
+    (9, None, '\'You are right, one cannot be afraid forever.\' "Prav" is the short form for "right". "Nel\'zya" is "not allowed", here "one mustn\'t". "Vechno" is "forever".'),
+    (10, None, '\'Walk over and talk with her confidently.\' Walking up has "pod-", up to, in front of "go". And "confidently" grows out of "uveren", sure.'),
+    (11, None, '\'Thanks for the advice, I will do it!\' "Sovet" is "advice", and it\'s the same word as the Soviet "council". "Sdelayu" is "I will do".'),
+    (12, None, '\'Good luck, my friend, show your courage.\' "Udachi" is "of luck", with "I wish you" left out, like "good night". "Smelost\'" is "courage", from "smelyy", brave.'),
 ]

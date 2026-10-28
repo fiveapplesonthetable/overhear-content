@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.04'
 SOURCE_FILE = 'sources/kukhnya/s01/e04.ru.dual.srt'
-INTRO = "Max approaches waitress Nastya to fulfill his promise to Kostya. He tries to explain that a close friend has feelings for her and wants to go out. However, Nastya completely misunderstands his awkward explanation and assumes Max is secretly confessing his own love. Let's listen to their humorous misunderstanding in Russian."
-OPENER = "Let's analyze the conversation step by step. Pay close attention to how romantic intentions can easily get lost in translation."
+INTRO = 'Max goes to Nastya to put in a good word for Kostya, but he explains it so clumsily that she is sure Max is talking about himself. Here is the misunderstanding in Russian first.'
+OPENER = "Let's follow the mix-up."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Instead of helping Kostya, Max finds himself accidentally caught in an imaginary romance. Keep practicing your Russian conversational skills! Next time you watch the episode, listen for the Russian expressions for 'to be' and 'always' — you will catch every word right away. See you next time!"
+OUTRO = 'Instead of helping Kostya, Max has talked himself into an imaginary romance. You\'ve learned how Russians say "a friend of mine": "odin drug", literally "one friend".'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Настя, мне надо с тобой поговорить.', 'Nastya, I need to talk to you.', [(221, 'Мне надо с тобой поговорить')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Вот это я помог Косте...', 'Now I really helped Kostya...', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, I need to talk to you.' Max tells Nastya he needs to talk to her."),
-    (1, None, "'Yes, Max, what did you want to discuss?' Nastya asks what he wants to discuss."),
-    (2, None, "'I have a good friend.' Max starts by mentioning he has a good friend."),
-    (3, None, "'And he really likes you very much.' Max adds that this friend really likes her."),
-    (4, None, "'A friend who likes me so much?' Nastya is surprised by the idea of a friend liking her so much."),
-    (5, None, "'Yes, he wants to ask you on a date.' Max reveals the friend wants to ask her out on a date."),
-    (6, None, "'I immediately understood everything perfectly!' Nastya confidently claims she understands the situation perfectly."),
-    (7, None, "'Guys always say that about friends!' Nastya points out guys always use the friend excuse to talk about themselves."),
-    (8, None, "'Wait, you understood completely wrong.' Max tries to correct her misunderstanding."),
-    (9, None, "'There is a real cosmic connection between us!' Nastya excitedly declares they share a cosmic connection."),
-    (10, None, "'It is so great that you said this!' Nastya is thrilled he brought this up."),
-    (11, None, "'I must run, the chef is calling for hot food!' Nastya rushes off because the chef is calling for hot food."),
-    (12, None, "'Now I really helped Kostya...' Max realizes his attempt to help his buddy backfired completely."),
+    (0, None, '\'Nastya, I need to talk to you.\' "Mne nado" is the usual "to me necessary". "S toboy" is "with you", and the friendly form of "you" does the work.'),
+    (1, None, '\'Yes, Max, what did you want to discuss?\' Nastya asks "about what did you want?", and the question trails off, as English questions can. "O chyom" is the "about what".'),
+    (2, None, '\'I have a good friend.\' Russian says "at me there is one good friend", and "one" here means "a certain". It\'s how you introduce a friend with no name.'),
+    (3, None, '\'And he really likes you very much.\' "Ty yemu nravishsya" is "you to him are pleasing", so you are the subject and he is "to him".'),
+    (4, None, '\'A friend who likes me so much?\' "Kotoromu" is "to whom", a relative word that joins the friend to the liking. And "ya nravlyus\'" is "I am pleasing".'),
+    (5, None, '\'Yes, he wants to ask you on a date.\' Max says it straight: his friend wants to invite her on a date. "To a date" takes "na" and a motion ending.'),
+    (6, None, '\'I immediately understood everything perfectly!\' "Ponyala" ends in "-a" for Nastya. "Srazu" is "immediately" and "otlichno" is "perfectly".'),
+    (7, None, '\'Guys always say that about friends!\' "Parni" is the plural of "paren\'", guy. "Pro druzey" is "about friends", with "druzey" the plural "of" form of "drug".'),
+    (8, None, '\'Wait, you understood completely wrong.\' "Nepravil\'no" is "ne" plus "pravil\'no", correctly: incorrectly. "Sovsem" adds "completely".'),
+    (9, None, '\'There is a real cosmic connection between us!\' Nastya declares that "between us there is a real cosmic connection". The word for connection comes from "to tie", so it\'s a tie between them.'),
+    (10, None, '\'It is so great that you said this!\' "Zdorovo" is casual for "great", from "zdorov\'ye", health. "Tak... chto" joins "so great" to "that you said it".'),
+    (11, None, '\'I must run, the chef is calling for hot food!\' "Pobegu" is "I will run", with "po-" for the start. "Goryacheye" is "hot" used as a noun, "the hot course".'),
+    (12, None, '\'Now I really helped Kostya...\' "Vot eto" at the start is sarcastic, like "well, that went well". "Koste" is "to Kostya", the "to" form of his name.'),
 ]
