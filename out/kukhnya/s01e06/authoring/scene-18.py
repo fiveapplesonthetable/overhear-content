@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'louis': 'Луи'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Sasha has failed: the inspector refused the free wine. Barinov isn't giving up. If the man won't drink it, he'll eat it, and he gives orders to his pastry chef, Louis, to put alcohol into every course. It's in Russian first."
-OPENER = "Let's go back through the scheme. Barinov is pleased with himself, and Louis is horrified."
-TRANSITION = 'Back to the full version.'
-OUTRO = "Look at 'give drink' and 'give food' once more, since the two words sound alike and mean what they say. It's a neat pair to remember. See you next time."
+INTRO = "In the kitchen at Claude Monet, Barinov has just heard that the inspector turned down the free wine. He isn't giving up. If the man won't drink it, he'll eat it, and he tells Louis, the pastry chef, to put alcohol in everything. It's in Russian first."
+OPENER = "Let's go back through the scheme. Barinov is very pleased with himself, and Louis is horrified."
+TRANSITION = 'Now the whole scheme again, at full speed.'
+OUTRO = 'Keep "napoit" and "nakormit" together: to get someone drunk and to feed someone up. Both have na- on the front, and Barinov makes a slogan of them. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Этот инспектор отказался пить наше вино!', 'This inspector refused to drink our wine!', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Зато наш ресторан будет спасён, работай!', 'At least our restaurant will be saved, work!', [(236, 'Папочка будет готовить')], ''),
 ]
 WALK = [
-    (0, None, "'This inspector refused to drink our wine!' 'Refused' ends in 'sya', and it's followed by the plain 'to drink'. 'Our wine' comes last, with the same ending as the word 'wine' itself."),
-    (1, None, "'Chef, what are we to do now?' 'Then' adds a note of 'so what now'. There's no 'should', just 'to us now to do'."),
-    (2, None, "'Since we can't give him drink, we will feed him!' 'Give drink' and 'give food' are two sibling words, built on 'drink' and 'feed'. 'Since' means 'if that's so'."),
-    (3, None, "'Do you want to add alcohol to food?' 'To add' is a bare word with no 'to'. 'Into the food' has a movement ending."),
-    (4, None, "'Louis, prepare a dessert with cognac for him!' 'Prepare' is a command. 'With cognac' has an 'om' on the end, which is what 'with' asks for."),
-    (5, None, "'How many spoonfuls of cognac to add to the cream?' 'How many' is followed by the 'of' form, so 'spoons' and 'cognac' both change. 'Cream' here is a single word, not a plural."),
-    (6, None, "'Pour from the heart, do not spare the cognac!' 'From the soul' means 'wholeheartedly'. 'Spare' is also 'pity', so don't pity the cognac."),
-    (7, None, "'And how to deal with hot dishes?' 'How to act' is a bare pair of words. 'With hot dishes' has plural endings."),
-    (8, None, "'We will generously pour dry wine into the meat.' 'Dry' is the Russian for wine that isn't sweet. 'We will pour' is a one-word future."),
-    (9, None, "'The inspector will definitely taste strong alcohol.' 'Definitely' also means 'exactly'. 'Strong' is a word you use for drinks and for coffee."),
-    (10, None, "'He will not notice anything in the sauce!' 'Not notice anything' keeps the 'not' and the 'nothing' together. 'In the sauce' ends in 'e'."),
-    (11, None, "'Chef, this is a very daring and dangerous plan.' 'Daring' is close to 'cheeky'. 'Dangerous' is related to 'danger'."),
-    (12, None, "'At least our restaurant will be saved, work!' The word at the start means 'but in return', and it is a favourite of Kostya. 'Saved' is from the same family as the Russian for 'thank you', which began as 'God save you'."),
+    (0, None, '\'This inspector refused to drink our wine!\' "Otkazalsya", refused, ends in -sya and takes a plain verb after it: "otkazalsya" pit. "Vino", wine, stays "vino" because it\'s neuter.'),
+    (1, None, '\'Chef, what are we to do now?\' "Zhe" adds urgency to "chto", so "chto zhe" is \'what on earth\'. "Nam teper delat", \'to us now to do\', needs no \'should\'.'),
+    (2, None, '\'Since we cannot give him drink, we will feed him!\' "Napoit" is to get someone drunk and "nakormit" to feed someone up. "Raz", here \'since\', otherwise means \'once\'.'),
+    (3, None, '\'Do you want to add alcohol to food?\' Louis says "Vy khotite", the polite form for the chef. "V edu", into the food, changes "eda" to "edu" because the alcohol goes into it.'),
+    (4, None, '\'Louis, prepare a dessert with cognac for him!\' "Prigotov", prepare, tells one person to "prigotovit". "S konyakom", with cognac, adds -om after s.'),
+    (5, None, '\'How many spoonfuls of cognac to add to the cream?\' After "skolko", how many, both words change: "lozhka" becomes "lozhek" and "konyak" becomes "konyaka". "Krem", cream, is the pastry kind, not the dairy kind.'),
+    (6, None, '\'Pour from the heart, do not spare cognac!\' "Ot dushi", \'from the soul\', means generously. "Ne zhaley", don\'t spare, uses "zhalet", a word that can also mean \'to pity\'.'),
+    (7, None, '\'And how to deal with hot dishes?\' "Kak postupit" is \'how to act\' or \'what to do about\'. "S goryachimi blyudami", with hot dishes, has -imi and -ami after s.'),
+    (8, None, '\'We will generously pour dry wine into the meat.\' "Sukhoe vino", dry wine, is wine that isn\'t sweet, just as in English. "Nalyom", we\'ll pour, goes back to "nalit", to pour in.'),
+    (9, None, '\'The inspector will definitely taste strong alcohol.\' "Pochuvstvuet vkus", will feel the taste, means he\'ll really taste it. "Krepkiy", strong, is the word for strong drinks, coffee and tea.'),
+    (10, None, '\'He will not notice anything in the sauce!\' "Nichego ne zametit", \'nothing not notice\', keeps both negatives. "V souse", in the sauce, has -e for the place.'),
+    (11, None, '\'Chef, this is a very daring and dangerous plan.\' "Derzkiy", daring, can also mean cheeky or rude. "Opasnyy", dangerous, is from "opasnost", danger, which the inspector used about the floor.'),
+    (12, None, '\'At least our restaurant will be saved, work!\' "Zato", \'but on the other hand\', is how Russians find the silver lining. "Rabotay", work, said to one person, ends the conversation.'),
 ]

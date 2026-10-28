@@ -19,23 +19,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Саша | Я слушаю вас внимательно, шеф. | I am listening to you carefully, Chef. | new | new |
 | 8 | Шеф | Видишь того лысого мужчину за столиком? | Do you see that bald man at the table? | #223 00:16:01: Видишь, вон он там тип сидит | verbatim |
 | 9 | Саша | Да, он сидит с очень хмурым видом. | Yes, he sits with a very gloomy expression. | new | new |
-| 10 | Шеф | Предложи ему самое лучшее дорогое вино. | Offer him the very best expensive wine. | #225 00:16:05: Предложи ему какого-нибудь хорошего вина от заведения | verbatim |
+| 10 | Шеф | Предложи ему самое лучшее вино. | Offer him the very best wine. | #225 00:16:05: Предложи ему какого-нибудь хорошего вина от заведения | verbatim |
 | 11 | Саша | А если он откажется от алкоголя? | And what if he refuses alcohol? | new | new |
 | 12 | Шеф | Скажи, что это подарок от заведения! | Say that this is a gift on the house! | new | new |
 | 13 | Саша | Хорошо, шеф, я всё поняла. | Fine, Chef, I understood everything. | #226 00:16:09: Окей, хорошо | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, why is this health inspector so angry?' Russian says 'such angry', with the Russian for 'such' in front. The Russian for 'angry' is one you can also use for a dog or a boss.
-- 'I get it, this strict man is on the wagon!' The slang for 'on the wagon' is literally 'in a knot', as if he had tied himself up. 'I understood' is how Russians say 'I get it'.
-- 'Do you think he quit drinking completely?' The Russian for 'quit' literally means 'threw', so he threw drinking away. 'Completely' sits right in front of it.
-- 'Yes, that is why he is so nervous.' 'That is why' is made from 'by this', and it joins two ideas neatly. 'Nervous' is the same word you use in English.
-- 'And how are we to calm him now?' 'To us now him to calm' has no 'should', and 'him' sits in the middle. The command 'calm down' comes from the same word.
-- 'Sasha, come here to me quickly.' 'Come up' and 'to me' both show direction, so Barinov says it twice for force. 'here' is the kind you use for movement.
-- 'I am listening to you carefully, Chef.' It's the waiter's way of saying 'I'm all ears'. 'Carefully' grows out of 'attention'.
-- 'Do you see that bald man at the table?' 'That' and 'bald' both end in the same way, as they describe one man. 'At the table' uses 'behind', since you sit behind a table in Russian.
-- 'Yes, he sits with a very gloomy expression.' 'With a gloomy look' uses 'with' and a changed ending. 'Look' is the word that also means 'view' or 'sort'.
-- 'Offer him the very best expensive wine.' The term for 'offer' is a command. 'Him' takes the 'to' form, and 'very best' is literally 'most best'.
-- 'And what if he refuses alcohol?' 'refuses' ends in 'sya' and takes 'from' with the thing refused. 'Alcohol' is borrowed, so you know it.
-- 'Say that this is a gift on the house!' The Russian is 'a gift from the establishment', and a restaurant is one kind of 'establishment'. You could use the same phrase in any shop.
-- 'Fine, Chef, I understood everything.' The expression for 'understood' ends in 'la' because Sasha is a woman. 'Everything' follows it.
+- 'Chef, why is this health inspector so angry?' "Takoy zloy", 'such angry', is how Russian says 'so angry' about a person. "Zloy", angry, can also mean mean or wicked.
+- 'I get it, this strict man is on the wagon!' "V zavyazke", 'in a tie-up', is slang for having quit drinking for a while. "Ya ponyal", 'I understood', works as 'I get it'.
+- 'Do you think he quit drinking completely?' "Brosil" pit, 'threw drinking', is the normal way to say someone quit. Sasha says "Vy dumaete", because she uses "vy" with the chef.
+- 'Yes, that is why he is so nervous.' "Poetomu", that's why, is "po" plus "etomu", 'by this'. "Nervnichaet", he is nervous, is a verb in Russian, 'he nervouses'.
+- 'And how are we to calm him now?' "Kak nam uspokoit" is 'how for us to calm', and no 'should' is needed. "Uspokoit" is the verb behind "uspokoysya", calm down.
+- 'Sasha, come here to me quickly.' "Podoydi", come over, has pod-, up to, on it, so it's a short walk to someone. "Syuda", here, is the 'to here' kind.
+- 'I am listening to you carefully, Chef.' "Ya slushayu vas" is the waiter's 'yes, go ahead'. Sasha uses "vas", the polite 'you', with her boss.
+- 'Do you see that bald man at the table?' "Togo lysogo muzhchinu" is all 'that bald man' as the thing seen, with -ogo endings. "Za stolikom", at the table, uses "za", behind, because you sit behind a table in Russian.
+- 'Yes, he sits with a very gloomy expression.' "S khmurym vidom", 'with a gloomy look', has -ym and -om after s. "Vid", look, also means 'view' and 'kind'.
+- 'Offer him the very best wine.' "Predlozhi", offer, is an order to one person, and "emu", to him, is who gets the offer. "Samoe luchshee", 'the most best', is a normal way to say 'the very best'.
+- 'And what if he refuses alcohol?' "Otkazhetsya ot", refuses, takes "ot", from, with the thing refused. "Alkogolya" is "alkogol" with -ya after "ot".
+- 'Say that this is a gift on the house!' "Podarok ot zavedeniya" is 'a gift from the establishment', the Russian 'on the house'. "Zavedenie" is the formal word for any bar, cafe or restaurant.
+- 'Fine, Chef, I understood everything.' "Ponyala", understood, has the -la of a woman speaking. "Ya vsyo ponyala" is how you'd say 'got it, all clear'.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wake up, Lyova, we have an inspection!' 'We are not sleeping' is the Russian way of saying 'get moving'. 'At us an inspection' is how you say 'we have'.
-- 'Chef, the inspector is already entering the hall!' 'enters' has a prefix that means 'in' or 'dropping in'. 'Into the hall' takes the 'movement' shape.
-- 'Quickly clear everything extra off the tables.' 'Clear away' is a group command. 'Extra' is a word that also means 'unnecessary', and 'off the tables' uses a short word meaning 'from'.
-- 'Where to hide these old products?' There is no 'should' in the Russian, only 'where hide'. 'Where to' is the movement word.
-- 'Carry all this straight into the refrigerator.' 'Carry' is the command for taking something on foot. 'Straight' means 'directly'.
-- 'And what to do with dirty aprons?' 'With dirty aprons' puts 'with' in front and an 'imi' ending on the plural. 'What to do' has no 'should' either.
-- 'Lyova, immediately throw them into the wash!' Russian has one word for washing clothes and another for washing dishes. This one is for the laundry.
-- 'I already sent Senya for cloths.' 'For' here means 'to fetch', and the cloths end in 'ami'. The name Senya has a changed ending because he is the one being sent.
-- 'Wipe the floor, it is too slippery!' 'Wipe' is another group command. 'Too' is one word, and 'slippery' comes from 'slide'.
-- 'The cooks are already washing their workstations.' 'Wash' is for hands, floors and plates. 'Their own' points back at the cooks.
-- 'The kitchen must be ideally clean!' 'Must be' is a feminine form to agree with 'kitchen'. 'Clean' ends in 'oy', the shape it takes after 'be'.
-- 'We will manage to do everything in time, chef!' 'We will manage' is a nice word, and it means 'we'll have enough time'.
-- 'To your stations, the inspector is already here!' 'To places' is a military-style call, and it has no verb. 'Here' is the Russian way to put where you are.
+- 'Wake up, Lyova, we have an inspection!' "Ne spim", 'we're not sleeping', is a Russian way of saying 'look alive'. "U nas proverka", 'at us an inspection', is how 'we have' works.
+- 'Chef, the inspector is already entering the hall!' "Zakhodit", he's coming in, is the same word as "zakhodi", come in, just with the 'he' ending. "V zal", into the hall, says where he's heading.
+- 'Quickly clear everything extra off the tables.' "Ubirayte", clear away, is said to the whole team, so it ends in -te. "Vsyo lishnee" is 'everything superfluous', and so "stolov", off the tables, uses so, 'off'.
+- 'Where to hide these old products?' Russian needs no 'should': "kuda spryatat", 'where to hide', is a plain dictionary form after the question word. "Kuda" asks 'where to', for a destination.
+- 'Carry all this straight into the refrigerator.' "Nesi", carry, tells one person to "nesti", carry by hand. "Pryamo", straight, also means 'directly' or 'right'.
+- 'And what to do with dirty aprons?' "S gryaznymi fartukami", with dirty aprons, puts -ymi and -ami on the two words after s, 'with'. "Chto delat", 'what to do', is the classic Russian question.
+- 'Lyova, immediately throw them into the wash!' "Stirka" is washing clothes, from "stirat"; dishes and floors take "myt" instead. "Brosay", throw, is what you'd say for tossing anything into a pile.
+- 'I already sent Senya for cloths.' "Za tryapkami" is 'for rags', in the sense of 'to fetch rags'. Senya becomes "Senyu" because he's the one sent.
+- 'Wipe the floor, it is too slippery!' "Vytrite", wipe, is said to everyone, so it has -te. "Slishkom", too, goes before any adjective, like "slishkom dorogo", too expensive.
+- 'The cooks are already washing their workstations.' "Moyut", they wash, is from "myt", the word for washing plates, hands and floors. "Svoi", their own, points back at the cooks.
+- 'The kitchen must be ideally clean!' "Dolzhna", must, ends in -a to match "kukhnya". After "byt", "chistaya", clean, turns into "chistoy".
+- 'We will manage to do everything in time, chef!' "Uspeem", we'll make it in time, has no neat English equivalent. "Vovremya", on time, is v plus "vremya", 'in time', written as one word.
+- 'To your stations, the inspector is already here!' "Po mestam", 'to places', is a call with no verb, like 'places, everyone' in a theatre. "Zdes", here, is where you are right now.

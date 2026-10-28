@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Шеф | Огузок, ты оплатишь этот дорогой счёт! | Runt, you will pay this expensive bill! | new | new |
+| 1 | Шеф | Огузок, ты оплатишь этот дорогой счёт! | Rump, you will pay this expensive bill! | new | new |
 | 2 | Макс | Шеф, но это очень большие деньги. | Chef, but this is very big money. | #309 00:23:25: это | verbatim |
 | 3 | Шеф | Будешь работать бесплатно целый месяц! | You will work for free a whole month! | new | new |
 | 4 | Макс | Жизнь постоянно испытывает нас на прочность. | Life is constantly putting us to the test. | #309 00:23:25: жизнь | verbatim |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Rump, you will pay this expensive bill!' 'Rump' is the usual nickname for Max. 'Will pay' is a one-word future, and 'this' agrees with 'bill'.
-- 'Chef, but this is very big money.' 'Money' is plural in Russian, so 'big' is plural. It's the kind of thing you can use for any large sum.
-- 'You will work for free for a whole month!' 'For free' comes from 'without payment'. 'Whole' is placed in front of 'month' to stress it.
-- 'Life is constantly putting us to the test.' 'Tests' is a strong word, and 'for strength' means 'to see if we hold'. The line sounds like something from a poster.
-- 'Some people easily cope with difficulties.' 'Someone' is 'who' with a tiny 'to'. 'Difficulties' comes from 'labour', and 'cope' goes with 'with'.
-- 'And some people give up right away.' 'Lowers the hands' is the Russian for 'gives up'. English says it the same way, with the arms dropping.
-- 'For some, life is a kaleidoscope of adventures.' 'For some' is 'for ones', as 'one' can be a plural. 'Kaleidoscope' is borrowed, so it is easy.
-- 'For others, a series of bitter disappointments.' 'For others' is 'for different', and it matches the previous line. 'Bitter' is the taste word, used for feelings.
-- 'Stop daydreaming, go wash the frying pans!' 'Enough' is followed by 'dreaming'. 'Go wash' needs no word for 'and'.
-- 'In any case one must be ready for everything.' 'In any case' is a fixed phrase. 'Must be ready' has 'ready' in a form that agrees with 'one'.
-- 'Life teaches us unexpected turns of fate.' 'Unexpected' is assembled from 'not' and 'expected'. 'Turn' and 'fate' are two related ideas.
-- 'I will definitely deal with this problem.' 'Deal with' ends in 'sya', and the problem takes the 'with' ending. 'Definitely' is a handy word.
-- 'Now that is the right attitude for a cook!' 'Attitude' is a word for 'mood' or 'tuning'. 'For a cook' uses a changed form of 'cook'.
-- 'Tomorrow new culinary victories await me!' 'Await me' is literally 'wait for me', with the plural 'victories' as the subject.
+- 'Rump, you will pay this expensive bill!' Oguzok is the chef's nickname for Max one more time. "Oplatish", you'll pay, has -ish, the "ty" ending, on a future verb.
+- 'Chef, but this is very big money.' "Dengi", money, is always plural, so "bolshie", big, is plural too. "Bolshie dengi", 'big money', is what Russians say for 'a lot of money'.
+- 'You will work for free a whole month!' Besplatno, for free, is bes-, without, plus "plata", pay. "Budesh rabotat", you'll be working, is the long future for something that goes on.
+- 'Life is constantly putting us to the test.' "Ispytyvaet na prochnost", 'tests for strength', is the phrase engineers use for materials. Max uses it about himself.
+- 'Some people easily cope with difficulties.' "Kto-to", someone, is "kto", who, with -to added. "Spravlyaetsya" s, copes with, takes s, and "trudnosti" becomes "trudnostyami".
+- 'And some people give up right away.' "Opuskaet ruki", 'lowers the hands', is the Russian idiom for giving up. "Kto-to" and "kto-to" in a row mean 'some... others'.
+- 'For some life is a kaleidoscope of adventures.' "Dlya odnikh", 'for some', uses "odin", one, in the plural. "Priklyucheniy" means 'of adventures', the shape the word takes after "kaleydoskop".
+- 'For others, a series of bitter disappointments.' "Dlya drugikh", for others, answers "dlya odnikh" from the line before. "Gorkiy", bitter, is the taste word, used for feelings too.
+- 'Stop daydreaming, go wash the frying pans!' "Khvatit mechtat", enough dreaming, is "khvatit" plus a plain verb again. "Idi myt", go wash, needs no 'and' between the verbs.
+- 'In any case one must be ready for everything.' "V lyubom sluchae", in any case, is a fixed phrase to learn whole. "Gotovym", ready, ends in -ym because it comes after "byt".
+- 'Life teaches us unexpected turns of fate.' "Uchit nas", teaches us, puts what's taught in the 'to' form: "neozhidannym povorotam". "Sudba", fate, becomes "sudby", 'of fate'.
+- 'I will definitely deal with this problem.' "Spravlyus", I'll cope, is the finished form of "spravlyatsya" from three lines earlier. "Obyazatelno", definitely, also means 'without fail'.
+- 'Now that is the right attitude for a cook!' "Nastroy", attitude, is from nastroit, to tune a guitar, so it's how you're tuned. "Dlya povara", for a cook, adds -a to "povar".
+- 'Tomorrow new culinary victories await me!' "Menya zhdut", 'me they wait', puts the victories in the subject's place at the end. "Pobedy", victories, is "pobeda" with -y for more than one.

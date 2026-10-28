@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Barinov needs a truffle for table seven, and Max knows exactly where the truffles are not: in the trash, where he put them. He grabs Nastya and tries to get her to talk the guest out of the order. It's in Russian first."
+INTRO = "In the kitchen at Claude Monet, Barinov needs a truffle for table seven, and Max knows exactly where the truffles are not: they went out with the rubbish. He grabs Nastya, the waitress, and begs her to talk the guest out of it. It's in Russian first."
 OPENER = "Let's replay it. Barinov shouts, Max panics, and Nastya keeps her head."
-TRANSITION = 'One more time, at normal pace.'
-OUTRO = "Max has said 'I need help' and 'tell the guest', and Nastya has said 'I can't'. That's a useful trio when you're trying to cover a mistake. See you next time."
+TRANSITION = 'And now the panic over the truffle, straight through.'
+OUTRO = 'Max gave you "mne nuzhna pomoshch", I need help, and "skazhi gostyu", tell the guest, and Nastya gave you "ne mogu", I can\'t. Useful when you\'re covering up a mistake. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, тащи сюда скорее один трюфель!', 'Rump, bring one truffle here quickly!', [(238, 'Агузок, тащи сюда один трюфель')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('nastya', 'Торопись, шеф уже очень сильно злится.', 'Hurry, the chef is already getting very angry.', [], ''),
 ]
 WALK = [
-    (0, None, "'Rump, bring one truffle here quickly!' The nickname is a cut of meat from the rear of the animal. 'Bring' is slangy, and it means 'haul'."),
-    (1, None, "'Table seven ordered a salad with truffles.' A table is named by an ordinal, so it's literally 'the seventh little table'. 'With truffles' puts an 'ami' on the end."),
-    (2, None, "'Chef, I will bring everything quickly now.' 'I will bring' starts with 'pri', the piece that means 'toward'. 'Now' and 'quickly' stand side by side."),
-    (3, None, "'Nastya, stop, I urgently need help!' 'Stop' comes from 'stand'. 'Help' is one of the she-words, so 'needed' ends in 'a'."),
-    (4, None, "'What happened, Max? What is it?' 'What is it' is two small words that mean 'what's up'. 'Happened' is related to 'chance'."),
-    (5, None, "'Tell the guest that the truffles are bad today.' 'To the guest' has an 'u' on the end. 'Bad' is in the plural to match the truffles."),
-    (6, None, "'Let him order any other dish!' 'Any' and 'other' agree with 'dish'."),
-    (7, None, "'No, I cannot say that.' 'I can't' is the flat 'cannot'. 'Like that' is two words glued together."),
-    (8, None, "'The guest came especially for this salad.' 'Especially' rests on 'special'. 'For the sake of' takes the next word in an 'of' form."),
-    (9, None, "'But I do not have this truffle!' 'At me there isn't' is the way to say 'I don't have', and the truffle changes its ending. 'This' changes with it."),
-    (10, None, "'He is a very strict and important person.' 'Person' is a word that works for men and women. 'Strict' and 'important' are in the same shape."),
-    (11, None, "'By the way, he asked to pass you a note.' 'By the way' is a one-word way to change the subject. 'Note' comes from 'to write down'."),
-    (12, None, "'Oh no, this is a disaster for the kitchen!' 'Disaster' is the English word, written with Russian letters. 'For the kitchen' has the changed ending."),
-    (13, None, "'Hurry, the chef is already getting very angry.' 'Hurry' ends in 'sya', so it's 'hurry yourself'. 'Is angry' ends in 'sya' too."),
+    (0, None, '\'Rump, bring one truffle here quickly!\' Oguzok, rump, is a cut of beef and Barinov\'s rude nickname for Max. "Tashchi", haul it, is a rougher word than "nesi".'),
+    (1, None, '\'Table seven ordered a salad with truffles.\' Russians number tables with "sedmoy", seventh, so it\'s \'the seventh table\'. "S tryufelyami", with truffles, has -ami after s.'),
+    (2, None, '\'Chef, I will bring everything quickly now.\' "Prinesu", I\'ll bring, is pri-, here, plus "nesti", carry. It\'s a future form, so it\'s a promise.'),
+    (3, None, '\'Nastya, stop, I urgently need help!\' "Stoy", stop, is the order form of "stoyat", to stand, so it\'s literally \'stand still\'. "Pomoshch", help, is feminine, which is why it\'s "nuzhna" with -a.'),
+    (4, None, '\'What happened, Max? What is it?\' "Chto sluchilos" is the standard \'what happened?\'. "Chto takoe", \'what\'s up?\', is said with a worried rise.'),
+    (5, None, '\'Tell the guest that the truffles are bad today.\' "Gost", guest, becomes "gostyu", \'to the guest\', the one being told. "Plokhie", bad, has the plural -ie for "tryufeli".'),
+    (6, None, '\'Let him order any other dish!\' "Pust", let, plus a future verb is how you say \'let him do it\'. "Lyuboe", any, ends in -oe to match "blyudo".'),
+    (7, None, '\'No, I cannot say that.\' "Ne mogu", I can\'t, is from "moch", can. "Tak skazat", \'say so\', is how you\'d say \'say that\' here.'),
+    (8, None, '\'The guest came especially for this salad.\' "Radi", for the sake of, changes "salat" to "salata". "Spetsialno" is easy: \'specially\'.'),
+    (9, None, '\'But I do not have this truffle!\' After "net", "etot tryufel" becomes "etogo tryufelya", both words changing. That\'s what "u menya net" always does to the missing thing.'),
+    (10, None, '\'He is a very strict and important person.\' "Chelovek", person, is masculine, but Russians use it for women too. "Strogiy", strict, is the same word as in "strogo", strictly.'),
+    (11, None, '\'By the way, he asked to give you a note.\' "Kstati", by the way, is how Russians change the subject. "Peredat", to pass on, is what you do with a note or a message.'),
+    (12, None, '\'Oh no, this is a disaster for the kitchen!\' "Katastrofa" sounds just like it looks. "Dlya kukhni", for the kitchen, changes "kukhnya" to "kukhni".'),
+    (13, None, '\'Hurry, the chef is already getting very angry.\' "Toropis", hurry, ends in -s, the short form of -sya. "Zlitsya", to be angry, is from "zloy", angry, with -sya on the end.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Max has just found out that the shaving story was a prank, and now he has the real inspection to worry about. In the kitchen, Vika, who runs the dining room, tells Barinov that the sanitary inspector is coming, and Barinov has his own idea of how to deal with it. It's in Russian first."
+INTRO = "Max has just learned that the shaving story was a prank, and now there's a real inspection on the way. In the kitchen at Claude Monet, Vika, who runs the dining room, warns Chef Barinov that the sanitary inspector is coming, and Barinov has his own idea of how to deal with it. It's in Russian first."
 OPENER = "Let's go back through it. Vika is exasperated, and Barinov is relaxed in a way that should worry you."
-TRANSITION = 'Here goes the full scene.'
-OUTRO = "Look at 'if there were order, we wouldn't pay': that one small word, doing the work twice, is how Russian says 'would'. It's a handy shape to know. See you next time."
+TRANSITION = 'Now the full scene once more.'
+OUTRO = 'Hold on to "esli by", if only. Put "by" after "esli" and again after "my", and the two together make \'would\'. See you next time.'
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('max', 'Они всех новичков так обманывают?', 'Do they trick all newcomers like that?', [(53, 'Они всех новичков так разводят')], ''),
@@ -22,7 +22,7 @@ STORY = [
     ('vika', 'Скоро придёт санитарная инспекция ресторана.', "Soon the restaurant's sanitary inspection will arrive.", [(61, 'Придет СЭС')], ''),
     ('vika', 'А у тебя на кухне опять бардак!', 'And in your kitchen there is a mess again!', [(61, 'а у тебя тут опять бардак')], ''),
     ('barinov', 'Где ты видишь беспорядок, дорогая?', 'Where do you see a mess, my dear?', [(62, 'Где бардак'), (66, 'Дорогуша')], ''),
-    ('barinov', 'Посмотри сама, какая вокруг чистая полка!', 'Look for yourself what a clean shelf this is!', [(63, 'Посмотри, какая чистая полка')], ''),
+    ('barinov', 'Посмотри сама, какая здесь чистая полка!', 'Look for yourself what a clean shelf this is!', [(63, 'Посмотри, какая чистая полка')], ''),
     ('barinov', 'Маленькие деньги решают любые большие проблемы.', 'A little money solves any big problems.', [(64, 'Маленькие деньги решают большие проблемы')], ''),
     ('vika', 'Если бы был порядок, мы бы не платили!', "If there were order, we wouldn't pay!", [(65, 'Если бы у тебя на кухне был порядок, мы бы не платили')], ''),
     ('barinov', 'На кухне ресторана всегда много работы.', 'There is always a lot of work in a restaurant kitchen.', [(67, 'тут никто не готовил')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Я пойду мыть полы на кухне.', 'I will go wash the floors in the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Do they trick all newcomers like that?' 'newcomers' is made from 'new'. 'Like that' is two short words that are useful in many sentences."),
-    (1, None, "'I must quickly put on my chef's hat.' Russian has one word for putting on clothes yourself, and another for dressing someone else. 'Cook's' is made from 'cook', which makes it the cook's cap."),
-    (2, None, "'Chef, today is the fifteenth, do you remember?' Vika uses the informal 'you' with her boss, which tells you how close they are. 'Remember' grows out of 'memory'."),
-    (3, None, "'Soon the restaurant's sanitary inspection will arrive.' 'Will arrive' is a one-word future. 'Of the restaurant' is shown by a changed ending, with no word for 'of'."),
-    (4, None, "'And in your kitchen there is a mess again!' 'At you in the kitchen' is Russian for 'in your kitchen'. 'mess' is slang, and it sounds rude to a chef."),
-    (5, None, "'Where do you see a mess, my dear?' 'mess' is formed from 'without' and 'order'. 'My dear' is a sweet word used with a sharp edge here."),
-    (6, None, "'Look for yourself what a clean shelf this is!' 'Which' turns into 'what a' in an exclamation. 'Yourself' adds 'go and see for yourself'."),
-    (7, None, "'A little money solves any big problems.' 'Money' is always plural in Russian, so 'solve' is plural too. 'Any' and 'big' agree with 'problems'."),
-    (8, None, "'If there were order, we wouldn't pay!' The little word 'by' appears twice, which is how Russian builds 'would'. It means 'if there were order, we would not be paying'."),
-    (9, None, "'There is always a lot of work in a restaurant kitchen.' 'A lot of' is followed by the 'of' ending, so 'work' changes. 'Always' is a very common small word."),
-    (10, None, "'Inspectors look for violations only for money.' 'For the sake of money' is a short phrase meaning 'because of'. 'Look for' is the same as 'seek'."),
-    (11, None, "'We must urgently establish perfect cleanliness.' 'Cleanliness' is put together from 'clean'. 'Urgently' comes from 'urgent'."),
-    (12, None, "'It seems today we have big problems.' 'We have' is 'at us', as it always is in Russian."),
-    (13, None, "'I will go wash the floors in the kitchen.' 'Floors' is plural, as Russian says 'floors' for a floor surface. 'I will go' is a single word, and 'wash' comes right after it."),
+    (0, None, '\'Do they trick all newcomers like that?\' "Novichok", newcomer, is built on "novyy", new. "Obmanyvayut", they deceive, is the general word for cheating or fooling someone.'),
+    (1, None, '\'I must quickly put on my chef\'s hat.\' "Nadet" is putting clothes on yourself; dressing someone else is "odet". "Kolpak" is the tall cook\'s hat, and "povarskoy", cook\'s, comes from "povar".'),
+    (2, None, '\'Chef, today is the fifteenth, do you remember?\' "Pomnish", you remember, is the "ty" form, and Vika says "ty" to the chef as an equal. "Ty pomnish" at the end of a sentence is a nudge: \'you haven\'t forgotten, have you?\''),
+    (3, None, '\'Soon the restaurant\'s sanitary inspection will arrive.\' "Pridyot", will come, is from the same family as "prikhodit", comes. "Restoran" becomes "restorana" for \'of the restaurant\'.'),
+    (4, None, '\'And in your kitchen there is a mess again!\' "U tebya na kukhne", \'at you in the kitchen\', is how Russian says \'in your kitchen\'. "Bardak" is a colloquial, slightly rough word for a mess.'),
+    (5, None, '\'Where do you see a mess, my dear?\' Barinov swaps her "bardak" for the proper word, "besporyadok", which is "bez", without, plus "poryadok", order. "Dorogaya" is \'my dear\' for a woman, said with an edge.'),
+    (6, None, '\'Look for yourself what a clean shelf this is!\' "Sama", yourself, ends in -a because he\'s talking to a woman. "Kakaya", which, turns into \'what a\' when you exclaim it.'),
+    (7, None, '\'A little money solves any big problems.\' "Dengi", money, is always plural in Russian, so \'solve\' is plural too: "reshayut". It\'s Barinov\'s whole philosophy in one sentence.'),
+    (8, None, '\'If there were order, we wouldn\'t pay!\' The little word "by" turns up twice, once after "esli", if, and once after "my", we. Together they make \'if there were... we would\'.'),
+    (9, None, '\'There is always a lot of work in a restaurant kitchen.\' After "mnogo", a lot, the noun changes: "rabota" becomes "mnogo raboty". "Na kukhne restorana" stacks it up: \'in the kitchen of the restaurant\'.'),
+    (10, None, '\'Inspectors look for violations only for money.\' "Ishchut", they look for, comes from "iskat", with sk turning into shch. After "radi", for the sake of, "dengi" becomes "deneg".'),
+    (11, None, '\'We must urgently establish perfect cleanliness.\' "Navesti chistotu" is the set phrase for cleaning a place up properly. "Chistota", cleanliness, is from "chistyy", clean, which you heard on the shelf.'),
+    (12, None, '\'It seems today we have big problems.\' "Kazhetsya", it seems, is a handy way to start any cautious remark. "U nas", \'at us\', is the \'we have\' you\'ve heard all scene.'),
+    (13, None, '\'I will go wash the floors in the kitchen.\' "Poydu myt" is \'I\'ll go and wash\', with the second verb left in its plain form. Russians wash "poly", floors, in the plural, even in one room.'),
 ]

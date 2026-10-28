@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I really feel awkward impersonating a writer.' 'To me awkward' is how Russians say 'I feel awkward'. 'Pass oneself off as' is a neat phrase, and it ends in 'za', meaning 'as'.
-- 'Stop being afraid, nobody knows his face.' 'Stop' is a command followed by 'to be afraid'. 'Nobody knows' keeps the usual 'not'.
-- 'What if Sasha read his smart books?' 'What if' is a single word at the front of the line. The 'a' on 'read' shows the reader is a woman.
-- 'Then she will admire you even more.' 'Admire' ends in 'sya' and is followed by 'you' in the 'by' form.
-- 'What should I do if she asks about the plot?' 'What to me to do' is the Russian way to ask 'what should I do'. 'Plot' is borrowed from French.
-- 'Speak mysteriously and look straight into her eyes.' 'Mysteriously' is a long how-word that comes from 'riddle'. 'Into the eyes' uses a movement shape.
-- 'I cannot speak that mysteriously at all.' 'I can' here is Russian for skill, 'know how'. 'At all' sits before the 'not'.
-- 'Just put on these dark glasses, friend.' 'Put on' is the command for clothes and glasses. 'Friend' at the end is warm.
-- 'Do you think dark glasses will solve all problems?' 'Will solve' is one word, and the plural 'all' agrees with 'problems'. 'Think' ends in 'esh', the 'you' ending.
-- 'Real writers always wear dark glasses!' 'Wear' is the word that also means 'carry'. 'Real' is the word that means 'genuine'.
-- 'Okay, I will try to play this role.' 'I will try' is a one-word future. 'Play' is the term for acting a part.
-- 'Go ahead and win her heart!' 'Forward' works as 'go on'. 'Win' is based on a word for conquering.
-- 'I hope this deception ends well.' 'Ends' ends in 'sya', since the deception ends itself. 'Well' is the plain word for 'well'.
+- 'I really feel awkward impersonating a writer.' "Mne nelovko", 'to me awkward', is how Russians say they feel awkward. "Vydavat sebya za" is 'to pass oneself off as', with "za" meaning 'as'.
+- 'Stop being afraid, nobody knows his face.' "Perestan boyatsya", stop being afraid, is "perestan" plus the plain dictionary form. "Boyatsya", to fear, always ends in -sya.
+- 'What if Sasha read his smart books?' "Vdrug" again: 'suddenly', and here 'what if'. "Chitala", read, ends in -la because Sasha is a woman.
+- 'Then she will admire you even more.' "Voskhishchatsya", to admire, wants the person in the 'by' form, so "ty" becomes "toboy". "Eshchyo silnee", 'even stronger', stands in for 'even more'.
+- 'What should I do if she asks about the plot?' "Chto mne delat", 'what to me to do', is a common way to ask for advice. "Syuzhet", plot, comes from the French sujet.
+- 'Speak mysteriously and look straight into her eyes.' "Govori" and "smotri" are two "ty" commands in a row. "V glaza", into the eyes, uses "glaza", eyes, where one eye is "glaz".
+- 'I cannot speak that mysteriously at all.' "Ne umeyu" is 'I don't know how', a missing skill, not a ban. "Sovsem ne", 'not at all', puts "sovsem" in front.
+- 'Just put on these dark glasses, friend.' "Naden", put on, is the command from "nadet", the verb for anything you wear. "Drug", friend, at the end makes it warm.
+- 'Do you think dark glasses will solve all problems?' "Dumaesh", you think, opens the question with the -esh ending of "ty". "Reshat", they'll solve, has the future built in, with no separate 'will'.
+- 'Real writers always wear dark glasses!' "Nosyat", they wear, is for what people regularly have on. "Nastoyashchie", real, is the word for 'genuine' or 'proper'.
+- 'Okay, I will try to play this role.' "Poprobuyu", I'll try, is from "poprobovat", which also means 'to taste'. "Sygrat rol", to play a part, uses the same "igrat", play, as sport and music.
+- 'Go ahead and win her heart!' "Vperyod", forward, turns "idi" into 'go on, get in there'. "Pokori", conquer, is the old romantic verb for winning a heart.
+- 'I hope this deception ends well.' "Nadeyus", I hope, can open any wish. "Obman", deception, and "obmanut", to trick someone, share a root.

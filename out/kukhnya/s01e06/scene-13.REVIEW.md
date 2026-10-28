@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did you find this box?' Max uses the informal 'you' with a stranger, which is rude, and Rodion will answer politely. 'Found' ends in a consonant because it's about a man.
-- 'You were looking for expensive truffles in the trash.' Rodion answers with the polite 'you', which is a contrast. 'At the dump' uses 'on', not 'in'.
-- 'Please, give them back to us quickly!' 'Give back' has a prefix that means 'away'. 'Them' and 'to us' are two small words, one after the other.
-- 'First introduce yourself politely, young man.' 'Introduce yourself' ends in 'sya', meaning 'present yourself'. 'Young man' is the usual way to address a man you don't know.
-- 'My name is Max, and this is Kostya.' Russian says 'they call me Max', and the 'they' is not named. 'And this is' is a handy way to present a friend.
-- 'Very pleased, and I am Rodion Sergeyevich.' 'Pleasant' is what Russians say when they meet someone, as in 'nice to meet you'. The second name is the father's, so 'Sergeyevich' is 'son of Sergey'.
-- 'What do you want for these mushrooms?' Max calls truffles 'mushrooms', which is what they are. 'For' here means 'in return for'.
-- 'I need one small friendly favor.' 'Small' is 'not big', made from the two words. 'Friendly' is derived from 'friend'.
-- 'We can pay you a little money.' 'A little' is followed by the 'of' form of 'money', as if it were 'a little of money'. 'To you' is a single short word.
-- 'No, I want a luxurious lunch here.' The meal in the middle of the day is a main one in Russia, and this word names it. 'Luxurious' comes from 'luxury'.
-- 'But the guards won't let you in!' 'Won't let in' is made from 'let' with a negative. 'Inside' is the movement word for 'to the inside'.
-- 'Then find me some suitable clean clothes.' 'Clothes' is singular in Russian, as if it were a mass noun. 'Suitable' comes from 'to approach' or 'to fit'.
-- 'Alright, let's go quickly to our locker room.' 'Let's go' is the invitation form. 'Locker room' comes from 'undressing', which is what happens there.
+- 'Where did you find this box?' Max says "ty" to a total stranger, which is pushy, and Rodion will notice. "Nashyol", found, has no ending because the finder is a man.
+- 'You were looking for expensive truffles in the trash.' Rodion answers with "vy", the polite form, so he's already the better-mannered one. "Na pomoyke", at the dump, uses "na", 'on', the way Russians talk about open places.
+- 'Please, give them back to us quickly!' "Otday", give back, adds ot-, away, to day, give. "Obratno", back, makes the 'return' even clearer.
+- 'First introduce yourself politely, young man.' "Predstavtes", introduce yourself, ends in -tes, the polite command with -sya on it. "Molodoy" chelovek, young man, is how you address a man you don't know.
+- 'My name is Max, and this is Kostya.' "Menya zovut Maks" is 'me they call Max', with no 'they' ever said. "A eto", 'and this is', is the way to present a friend.
+- 'Very pleased, and I am Rodion Sergeyevich.' "Ochen priyatno", 'very pleasant', is what you say on meeting someone. Sergeyevich, the father's name, means his father was Sergey.
+- 'What do you want for these mushrooms?' Max calls the truffles "griby", mushrooms, which technically they are. "Za" here means 'in exchange for', as in "za eti griby".
+- 'I need one small friendly favour.' "Mne nuzhna", 'to me needed', gets its -a from "usluga", favour. "Nebolshaya", small, is just "ne", not, joined to "bolshaya", big.
+- 'We can pay you a little money.' After "nemnogo", a little, "dengi", money, turns into "deneg". "Tebe", to you, is the person being paid.
+- 'No, I want a luxurious lunch here.' "Obed" is the main meal of the Russian day, eaten around one or two. "Roskoshnyy", luxurious, comes from roskosh, luxury.
+- 'But the guards won't let you inside!' "Ne pustyat", they won't let him in, uses "pustit", to let go or let in. "Vnutr", inside, is used for going in; for being inside it's "vnutri".
+- 'Then find me suitable clean clothes.' "Odezhda", clothes, is a singular word, like 'clothing'. "Naydite", find, is the "vy" command, because now Rodion is talking to both of them.
+- 'Alright, let's go quickly into our locker room.' "Poydyom", let's go, is 'we will go' used as an invitation. "Razdevalka", changing room, grows out of "razdevatsya", to get undressed.

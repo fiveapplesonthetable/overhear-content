@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me honestly, did this sheep die of old age?' The animal is a ram, and in slang the same word is an insult for a dull person. 'Of old age' is literally 'from oldness', built on 'old'.
-- 'Why insult me? This is a young and tasty lamb!' 'Why' here asks 'what for', as in 'why bother'. 'Lamb' is a different word from 'sheep', and Timur uses it to correct the chef.
-- 'I already have enough sheep in the kitchen.' Here the sheep are people, Barinov's cooks. Russian says 'at me in the kitchen enough sheep', so 'at me' is how it says 'I have'.
-- 'Wait, look at this excellent meat!' 'This here' is two small words that work like 'this one right here'. 'Excellent' is the word you would hear for top marks.
-- 'I swear, this is the best fresh meat!' 'I swear' is a single word, and it is how a seller promises. 'The best' is built as 'most' plus 'better', which is the Russian way to put 'the very best'.
-- 'Yes, this lamb is really good.' Barinov gives in quickly. 'Really' is the same long word that means 'in fact'.
-- 'Fine, I will take this meat.' 'I take' is an irregular form that looks nothing like the word 'to take', so it's worth learning as a lump. 'Fine' is the plain word for 'good'.
-- 'Chef, my dear, do you need truffles?' Timur calls him by a word that means both 'dear' and 'expensive', which is a salesman's joke. 'To you needed' is 'do you need', with no word for 'do'.
-- 'Are you offering me contraband again?' 'Again' is a very useful small word. 'Contraband' is borrowed and has an ending that shows it's the thing being offered.
-- 'Of course I do! How much are you selling them for?' 'Of course I need' is one short answer, because Barinov says 'need' by itself. 'How much' is one word that asks for a price.
-- 'For you as a friend, only six hundred euros per kilogram.' The first word ends in a way that means 'brotherly', so it is 'like a brother'. Six hundred is 'six' and 'hundred' joined up.
-- 'Great, I will take these truffles!' Barinov doesn't haggle, which is how Timur knows to raise the price. 'These' changes its ending to agree with the plural.
-- 'Then the price has risen to seven hundred euros!' 'Grew' is the word Russian uses for a price going up. 'Up to' introduces the new number.
-- 'Timur, don't get cheeky and hand over the goods!' 'Don't get cheeky' is a negative command built from 'brazen'. 'Hand over' means 'give back', and it has a commanding ending.
+- 'Tell me honestly, did this sheep die of old age?' "Baran" is a ram, and calling a person "baran" is calling them a blockhead. "Ot starosti", of old age, is literally 'from oldness', with "starost" built on "staryy", old.
+- 'Why insult me? This is a young and tasty lamb!' "Zachem" is 'what for?', a bit sharper than the plain "pochemu". "Yagnyonok", lamb, has the -yonok ending Russian uses for baby animals, as in "kotyonok", kitten.
+- 'I already have enough sheep in the kitchen.' Here the sheep are Barinov's cooks. "Khvataet", there's enough, makes what follows change, so barany becomes "baranov".
+- 'Wait, look at this excellent meat!' "Podozhdi", wait, is how you'd stop someone who's about to walk off. "Vot eto" works like 'this one right here', with a pointing finger.
+- 'I swear, this is the best fresh meat!' "Klyanus", I swear, is a single verb, and you'll hear it from every market seller. "Samoe luchshee" piles 'most' on top of 'best', the way people do when they're selling.
+- 'Yes, this lamb is really good.' "Deystvitelno", really or indeed, is the serious word for it; "pravda", truly, is the chattier one.
+- 'Fine, I will take this meat.' "Beru", I take, comes from "brat", to take, though it barely looks like it, so learn it as it is. "Khorosho", good, is also the everyday 'fine, OK'.
+- 'Chef, my dear, do you need truffles?' "Dorogoy" means 'dear' and 'expensive' at once, which suits a man selling truffles. "Tebe nado" is 'to you is needed', the usual way to ask 'do you need'.
+- 'Are you offering me contraband again?' "Opyat", again, is often a complaint, as it is here. "Kontrabanda" turns into "kontrabandu" as the thing on offer.
+- 'Of course I do! How much are you selling them for?' Barinov answers with Timur's own word, "nado", needed. "Pochyom", how much each, is the market way of asking a price.
+- 'For you as a friend, only six hundred euros per kilogram.' "Po-bratski", 'brotherly', is from "brat", brother, built like "po-russki", in Russian. "Za kilogramm" is 'per kilo', the "za" you'll see on every price tag.
+- 'Great, I will take these truffles!' "Eti", these, is the plural of "etot", this, from the lamb line. Barinov says yes at once, which is a mistake at a market.
+- 'Then the price has risen to seven hundred euros!' "Vyrosla", it has grown, has -a for "tsena", price, a feminine word. "Do", up to, changes the number too: "semsot" becomes "do semisot".
+- 'Timur, don't get cheeky and hand over the goods!' "Ne nagley", don't be cheeky, comes from "naglyy", cheeky or brazen. "Otdavay" is 'give over', from ot-, away, and "davat", to give.
