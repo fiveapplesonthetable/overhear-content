@@ -376,5 +376,81 @@ class T(unittest.TestCase):
         self.assertFalse(any("source subtitles missing" in e for e in rep.errors), rep.errors)
 
 
+    # ---- P-2: teaching share and show-wide repeated phrases
+    PLOT = ["Max tries to greet his tense friend.", "Kostya aggressively warns his friend to back off.", "Vika finds the waitress crying in the corridor.",
+            "Nastya admits how painful the sudden rejection feels.", "Barinov loudly summons his team for a crucial tasting."]
+    TEACHING = ["The Russian word for 'reigns' is built from the word for tsar, so chaos is literally on the throne.",
+                "Kostya's little word \"zato\" means \"but on the plus side\".", "Russian happily doubles the no here, and that's correct.",
+                "Where English says \"get ready for\", Russian says something closer to \"get ready to a new workday\".",
+                "It's a handy sentence for any job you find tough, so swap in your own work."]
+
+    def teach_run(self, explanations, strict=False):
+        v.TEACH_SEEN.clear(); v.STRICT_TEACH[0] = strict; rep = v.Report()
+        try: v.check_teaching("w", v.explanations(self.segs_with(explanations)["segments"]), "kukhnya", rep)
+        finally: v.STRICT_TEACH[0] = False
+        return rep
+
+    def test_teaching_heuristic(self):
+        for t in self.TEACHING: self.assertTrue(v.teaches(t), t)
+        for t in self.PLOT: self.assertFalse(v.teaches(t), t)
+
+    def test_teaching_share_warns_or_errors(self):
+        rep = self.teach_run(self.PLOT)
+        self.assertEqual(rep.errors, []); self.assertEqual(len(rep.warnings), 1)
+        self.assertIn("0 of 5", rep.warnings[0])
+        rep = self.teach_run(self.PLOT, strict=True)
+        self.assertEqual(len(rep.errors), 1); self.assertEqual(rep.warnings, [])
+        for strict in (False, True):                      # 4 of 5 teach: fine
+            rep = self.teach_run(self.TEACHING[:4] + self.PLOT[:1], strict)
+            self.assertEqual((rep.errors, rep.warnings), ([], []))
+        rep = self.teach_run(self.TEACHING[:3] + self.PLOT[:3])      # 3 of 6: below 60%
+        self.assertEqual(len(rep.warnings), 1)
+        rep = self.teach_run(self.TEACHING[:3] + self.PLOT[:0], strict=True)      # too few lines to judge
+        self.assertEqual((rep.errors, rep.warnings), ([], []))
+        rep = self.teach_run(self.TEACHING[:3] + self.PLOT[:1], strict=True)      # 3 of 4 = 75% but fewer than 4 teaching
+        self.assertEqual(len(rep.errors), 1)
+
+    def test_gold_scenes_score_high_and_draft_low(self):
+        gold = [ROOT / "examples" / "kukhnya-s01e02-knife" / "scene.json", ROOT / "examples" / "kukhnya-s01e05-orders" / "scene.json"]
+        gold += [ROOT / "out" / "kukhnya" / "s01e02" / f"scene-0{k}.json" for k in (1, 2, 3)]
+        for g in gold:
+            if not g.is_file(): continue
+            ex = v.explanations(json.loads(g.read_text(encoding="utf-8"))["segments"])
+            self.assertGreaterEqual(sum(v.teaches(e) for _, _, e in ex) / len(ex), v.TEACH_MIN_SHARE, g.name)
+        draft = ROOT / "out" / "kukhnya" / "s01e07" / "scene-05.json"
+        if draft.is_file():
+            ex = v.explanations(json.loads(draft.read_text(encoding="utf-8"))["segments"])
+            self.assertLess(sum(v.teaches(e) for _, _, e in ex) / len(ex), 0.3)
+
+    def phrase_run(self, texts, show="kukhnya"):
+        v.PHRASE_SEEN.clear(); rep = v.Report()
+        for t in texts: v.count_phrases({"segments": [{"v": "narrator", "t": "Intro."}, {"v": "x", "t": "Привет."}, {"v": "narrator", "t": "'Hi.' " + t}]}, show, None)
+        v.check_phrases(rep)
+        return rep
+
+    def test_repeated_phrase_check(self):
+        texts = ["Max %s reaches for the Russian word for %d." % (n, k) for k, n in enumerate(["a", "b"] * (v.PHRASE_MAX // 2 + 1))]
+        rep = self.phrase_run(texts)            # PHRASE_MAX + 2 uses, names and quoted spans do not matter
+        self.assertTrue(any("reaches for the" in e for e in rep.errors), rep.errors)
+        self.assertEqual(self.phrase_run(texts[:v.PHRASE_MAX]).errors, [])             # exactly the limit is fine
+        mixed = ['Kostya reaches for the Russian word "x".', 'Nastya reaches for the Russian word "y".'] * v.PHRASE_MAX
+        self.assertTrue(self.phrase_run(mixed).errors)
+        self.assertEqual(self.phrase_run(["Pattern %d: %s %s %s." % (k, *("alpha beta gamma delta epsilon zeta eta theta".split()[(k * m) % 8] for m in (1, 3, 5))) for k in range(80)]).errors, [])
+
+    def test_phrase_counts_each_text_once_and_per_show(self):
+        v.PHRASE_SEEN.clear()
+        seg = lambda t: {"segments": [{"v": "x", "t": "Привет."}, {"v": "narrator", "t": "'Hi.' " + t}]}
+        v.count_phrases(seg("Some long phrase here. Some long phrase here."), "a", None)
+        self.assertEqual(v.PHRASE_SEEN["a"]["some long phrase here"], 1)
+        v.count_phrases(seg("Some long phrase here."), "b", None)
+        self.assertEqual(v.PHRASE_SEEN["b"]["some long phrase here"], 1)
+
+    def test_show_summary_line(self):
+        self.teach_run(self.TEACHING[:2] + self.PLOT[:2])
+        v.PHRASE_SEEN.clear(); v.PHRASE_SEEN["kukhnya"] = {"brings in Q to": 7}
+        line = v.show_summary()[0]
+        self.assertIn("kukhnya", line); self.assertIn("word-teaching: 50%", line); self.assertIn("'brings in Q to' x7", line)
+
+
 if __name__ == "__main__":
     unittest.main()

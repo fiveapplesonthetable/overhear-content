@@ -6,6 +6,7 @@
   python3 tools/validate.py --script FILE.json            # one scene script (examples/*/scene.json)
   options: --require-notes  every target-language line must be annotated (final check)
            --strict         warnings count as errors
+           --strict-teaching  a scene with < 60% (or < 4) teaching explanations is an error, not a warning
            --all            list every error (default: the first 150 and a tally by kind)
 Exit 0 = clean, 1 = errors. Warnings (e.g. subtitle gaps) are printed but pass unless --strict.
 Checks: spec/*.md describes each rule; FEEDBACK.md "P-1" describes the cast, narrator-name and explanation rules.
@@ -419,6 +420,8 @@ def check_explanations(w, d, show, cast, rep):
         if GRAMMAR_TERM.search(unquote(expl)): gram += 1
         sk, n = skeleton(expl, names)
         if n >= SKEL_MIN_WORDS: TEMPLATE_SEEN.setdefault(show, {}).setdefault(sk, []).append((f"{w} segment {i}", d.get("id")))
+    check_teaching(w, ex, show, rep)
+    count_phrases(d, show, cast)
     if len(ex) >= GRAMMAR_DENSITY_MIN_N and gram / len(ex) > GRAMMAR_DENSITY_MAX:
         rep.err(w, f"{gram} of {len(ex)} explanations ({100 * gram // len(ex)}%) use grammar terms; at most {int(GRAMMAR_DENSITY_MAX * 100)}% (aim for one in five)")
 
@@ -430,6 +433,105 @@ def check_templates(rep):
             if len(uses) > TEMPLATE_MAX:
                 for where, _ in uses:
                     rep.err(where, f"explanation is a reused template ({len(uses)} uses in {show}, max {TEMPLATE_MAX}): skeleton {k!r}")
+
+
+# ---------------------------------------------------------------- teaching share (FEEDBACK.md P-2)
+# An explanation "teaches" when, beyond retelling the plot, it points at the target language: names a word/form/chunk,
+# says what it is built from or literally means, compares it with English, or says how to reuse it. Heuristic (regex +
+# quoted foreign words), tuned on the hand-written gold scenes (out/kukhnya/s01e02 scene-01..03, examples/) which must
+# score high, against plot-only drafts (out/kukhnya/s01e07 scene-05) which must score low.
+TEACH = re.compile(
+    r"\b(?:the|this|that|its|a|another|one|little|tiny|small|short|same|single|polite|formal|informal|common|everyday|key|plain|simple)\s+(?:(?:russian|french|english)\s+)?(?:words?|chunks?|phrases?|expressions?|idioms?|sentences?|endings?|forms?|verbs?|nouns?|particles?|prefix|suffix|roots?|stems?|diminutives?|slang|nicknames?|surnames?|first names?|contractions?|abbreviations?)\b\s*(?:for|means?|is|are|comes|sounds|works|here|there|in|can|stands|carries|adds|does|changes|literally|from|of)\b"
+    r"|\bliterally\b|\bbuilt (?:from|on|out of)\b|\bcomes from\b|\bshort for\b|\bstands for\b|\bderived\b|\bcloser to\b|\bword[- ]for[- ]word\b"
+    r"|\b(?:russian|french|russians)\s+(?:happily|simply|often|always|never|usually|typically|also|just|really|does|doesn't|says?|uses?|has|have|keeps?|drops?|adds?|puts?|marks?|likes?|loves?|speakers?|word|words|phrase|phrases|sentences?|grammar|verbs?|nouns?|endings?|can|would|reaches|prefers|treats|splits|doubles|needs?|requires?|lets?|makes?|gives?|turns?|builds?|stresses|rolls)\b"
+    r"|\b(?:in|to) (?:russian|french)\b|\bwhere english\b|\bunlike english\b|\bthan english\b|\bin english\b|\benglish (?:says?|uses?|speakers?|has|would|needs?|adds?|drops?|doesn't|lacks?|calls?|prefers?|puts?)\b"
+    r"|\b(?:past|present|future) tense\b|\b(?:perfective|imperfective|plural|singular|feminine|masculine|neuter|genitive|dative|accusative|instrumental|nominative|diminutive)\b|\bpronounc|\btransliterat|\bsounds like\b|\bspelled\b|\bstress(?:ed)?\b|\bcognate\b"
+    r"|\bswap in\b|\bhandy (?:sentence|phrase|word|way|chunk)\b|\breusable\b|\bre-?use\b|\byou(?:'d| would| can| could)\s+(?:say|shout|use|hear|reach)\b|\bwhat you(?:'d| would) (?:say|shout|use)\b"
+    r"|\bmeans? [\"“']|\bcan mean\b|\bboth mean\b|\bdoubles? the\b|\bsurname\b|\bnickname\b|\b(?:tiny|little|small) word\b|\bthe (?:polite|formal|informal) version\b"
+    r"|\brather than\b|\bin the (?:russian|french|negative)\b|\b(?:casual|formal|polite|informal) [\"“']?you\b|[\"“']you[\"”']"
+    r"|\b(?:one|two|three|first|last|next|same|opposite|extra|special) (?:words?|endings?|forms?)\b|\b(?:command|negative|question|polite|short|plural|casual) forms?\b|\b(?:endings?|nouns?|verbs?|adjectives?|adverbs?)\b"
+    r"|\byou(?:'ll| will) (?:hear|see|say|use|notice)\b|\buseful (?:sentences?|phrases?|words?|chunks?)\b|\bin the language\b|\bjoined by\b|\brepeats? the words\b|\b(?:expression|idiom)s?\b|\b(?:polite|formal|informal|casual)(?:,| and) (?:formal |polite |informal |casual )?version\b|\b(?:a|an) (?:\w+ ){0,2}words?\b"
+    r"|[\"”]\s+(?:is|are|twice|says it all|lands|sounds|stands)\b|\bthe (?:prize|key|big|small|tiny|little) word\b", re.I)
+CYR_OR_ACCENT = re.compile(r"[Ѐ-ӿ]|[à-ÿ]")
+TEACH_MIN_SHARE = 0.60          # FEEDBACK.md P-2: at least 60% of a scene's explanations must teach...
+TEACH_MIN_N = 4                 # ...in scenes with at least this many explanations (and at least this many must teach)
+TEACH_SEEN = {}                 # show -> [teaching, total] over all scenes; summarised by show_summary
+STRICT_TEACH = [False]          # --strict-teaching: a scene below the bar is an error instead of a warning
+
+
+def teaches(expl):
+    """True if the explanation says something about the target language (not just plot). See TEACH."""
+    if TEACH.search(expl) or CYR_OR_ACCENT.search(expl): return True
+    # a quoted transliterated/foreign word, e.g. Kostya's little word "zato": one quoted token that is not ordinary English
+    for q in re.findall(r"\"([^\"]+)\"|“([^”]+)”", expl):
+        q = "".join(q).strip(" .,!?")
+        if q and q.isalpha() and q.lower() not in common_words() and q.lower() not in ENG: return True
+    return False
+
+
+def check_teaching(w, ex, show, rep):
+    """Per scene: share of explanations that teach. Warn below 60% (or fewer than 4 teaching lines); error with --strict-teaching."""
+    n = len(ex)
+    t = sum(1 for _, _, e in ex if teaches(e))
+    tot = TEACH_SEEN.setdefault(show, [0, 0])
+    tot[0] += t; tot[1] += n
+    if n < TEACH_MIN_N: return
+    if t < TEACH_MIN_N or t / n < TEACH_MIN_SHARE:
+        (rep.err if STRICT_TEACH[0] else rep.warn)(w, f"only {t} of {n} explanations ({100 * t // n}%) teach something about the target language (need at least {int(TEACH_MIN_SHARE * 100)}% and {TEACH_MIN_N}); add the word, what it is built from, or how it differs from English")
+
+
+# ---------------------------------------------------------------- show-wide repeated phrases (FEEDBACK.md P-2)
+PHRASE_N = 4                    # a repeated phrase is 4 or more words...
+PHRASE_MAX = 50                 # ...used more than this many times in the explanations (narrator text after each quoted gloss) of one show
+PHRASE_SEEN = {}                # show -> {phrase: count}; judged by check_phrases
+
+
+def narrator_phrases(text, names=frozenset()):
+    """Distinct 4-word shingles of explanation text, within a sentence, with quoted spans -> Q and names -> N (the same
+    normalisation as skeleton(), so 'Max chooses "x"' and 'Kostya chooses "y"' are the same phrase)."""
+    toks, prev_end = [], True
+    for m in re.finditer(r"Q(?![\w'’])|[^\W\d_][\w'’-]*|[.!?…]", unquote(text)):
+        t = m[0]
+        if t in ".!?…": toks.append("."); prev_end = True; continue
+        base = strip_possessive(t)
+        if t == "Q": toks.append("Q")
+        elif base[:1].isupper() and (not prev_end or base in names or base.lower() not in common_words()): toks.append("N")
+        else: toks.append(base.lower())
+        prev_end = False
+    out, run = set(), []
+    for t in toks + ["."]:
+        if t != ".": run.append(t); continue
+        run = [x for i, x in enumerate(run) if not (x == "N" and i and run[i - 1] == "N")]
+        for i in range(len(run) - PHRASE_N + 1):
+            g = run[i:i + PHRASE_N]
+            if g.count("N") + g.count("Q") <= 1: out.add(" ".join(g))      # skip phrases that are mostly placeholders
+        run = []
+    return out
+
+
+def count_phrases(d, show, cast):
+    names = set().union(*(cast_names(e) for e in cast.values())) if cast else set()
+    seen = PHRASE_SEEN.setdefault(show, {})
+    for _, _, expl in explanations(d["segments"]):      # the part-3 explanations only: the mandated scaffolding (transitions, closing line) repeats by design
+        for ph in narrator_phrases(expl, names): seen[ph] = seen.get(ph, 0) + 1
+
+
+def check_phrases(rep):
+    """A 4+ word phrase in narrator text used more than PHRASE_MAX times in one show is an error (one error per phrase)."""
+    for show, seen in sorted(PHRASE_SEEN.items()):
+        for ph, n in sorted(seen.items(), key=lambda kv: -kv[1]):
+            if n > PHRASE_MAX: rep.err(show, f"narrator phrase repeated {n} times in the show (max {PHRASE_MAX}): {ph!r}")
+
+
+def show_summary():
+    """One line per show: teaching share and the most repeated narrator phrases."""
+    lines = []
+    for show in sorted(set(TEACH_SEEN) | set(PHRASE_SEEN)):
+        t, n = TEACH_SEEN.get(show, [0, 0])
+        top = sorted(PHRASE_SEEN.get(show, {}).items(), key=lambda kv: -kv[1])[:3]
+        lines.append(f"SHOW {show}: word-teaching: {100 * t // n if n else 0}% ({t}/{n} explanations); top repeated phrases: "
+                     + (", ".join(f"{ph!r} x{c}" for ph, c in top) or "none"))
+    return lines
 
 
 # ---------------------------------------------------------------- notes
@@ -621,7 +723,7 @@ LIST_CAP = 150          # errors listed in full; beyond that a tally by kind
 
 def main(argv):
     REQ[0] = "--require-notes" in argv
-    TEMPLATE_SEEN.clear(); LEX_SEEN.clear(); ART_SEEN.clear()
+    TEMPLATE_SEEN.clear(); TEACH_SEEN.clear(); PHRASE_SEEN.clear(); STRICT_TEACH[0] = "--strict-teaching" in argv; LEX_SEEN.clear(); ART_SEEN.clear()
     strict = "--strict" in argv
     show_all = "--all" in argv
     LENIENT_VERSION[0] = "--script" in argv
@@ -640,6 +742,7 @@ def main(argv):
             if show not in SHOWS: rep.err(str(ep), f"show folder must be one of {sorted(SHOWS)}"); continue
             check_scenes(ep, show, rep)
     check_templates(rep)
+    check_phrases(rep)
     check_lexicon(rep)
     check_art(rep)
     for x in rep.warnings[:LIST_CAP]: print("WARN ", x)
@@ -652,6 +755,7 @@ def main(argv):
             tally[k] = tally.get(k, 0) + 1
         print(f"... {len(rep.errors) - LIST_CAP} more errors; by kind:")
         for k, n in sorted(tally.items(), key=lambda kv: -kv[1])[:20]: print(f"  {n:6d}  {k}")
+    for x in show_summary(): print(x)
     bad = rep.errors or (strict and rep.warnings)
     print(f"{'FAIL' if bad else 'OK'}: {len(rep.errors)} errors, {len(rep.warnings)} warnings")
     return 1 if bad else 0
