@@ -1,43 +1,31 @@
-# dix-pour-cent-s04e04-scene-09: review sheet
+# Review: `dix-pour-cent-s04e04-scene-09` — Le refuge des loups  (The Wolves' Shelter)
 
-Title: Le refuge des loups  (The Wolves' Shelter)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S04E04
-Cues 616-641. In order to charm author Ulrika Desrosières and win her book's adaptation rights, Mathias visits her animal shelter. Posing as an animal lover, he finds himself invited into the pen to feed wolves.
+- **Source**: `sources/dix-pour-cent/s04/e04.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "ulrika": "emilie"}`
+- **Labels**: `{"mathias": "Mathias", "ulrika": "Ulrika"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Aiming to secure the lucrative film rights to Ulrika Desrosieres's bestselling novel, Mathias Barneville travels to an animal sanctuary. He poses as an ardent philanthropist who deeply cares for retired circus performers. Ulrika welcomes the polished producer and invites him to participate in a surprisingly dangerous feeding routine. Let's listen to their meeting in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Ulrika | Bienvenue dans notre refuge pour animaux âgés. | Welcome to our shelter for elderly animals. | #619 00:30:31: Comme refuge pour eux | adapted: Ulrika introduces the sanctuary |
-| 2 | Léa | Votre travail ici est vraiment admirable, Ulrika. | Your work here is truly admirable, Ulrika. | #631 00:30:57: Vous faites un travail formidable | adapted: Mathias begins his flattery |
-| 3 | Ulrika | Vous aimez vraiment les bêtes de cirque? | Do you really like circus animals? | #618 00:30:28: cet endroit | adapted: Ulrika checks his motives |
-| 4 | Léa | J'ai toujours adoré protéger les animaux. | I have always loved protecting animals. | #630 00:30:54: ce qu'il advenait des animaux | adapted: Mathias claims a passion for animals |
-| 5 | Ulrika | C'est rare pour un producteur parisien. | That is rare for a Parisian producer. | #623 00:30:39: Je vous présente Mathias | adapted: Ulrika notes the contrast |
-| 6 | Léa | Je suis un homme de cœur d'abord. | I am a man of heart first. | #632 00:30:58: C'est la moindre des choses | adapted: Mathias presents himself warmly |
-| 7 | Ulrika | Nous cherchons de nouveaux donateurs très généreux. | We look for very generous new donors. | #624 00:30:41: Un nouveau donateur<br>#625 00:30:43: Et très généreux ! | adapted: Ulrika mentions funding needs |
-| 8 | Léa | Je souhaite soutenir votre magnifique projet. | I wish to support your magnificent project. | #626 00:30:45: Merci, on en a vraiment besoin ! | adapted: Mathias pledges financial backing |
-| 9 | Ulrika | Venez m'aider avec notre travail quotidien. | Come help me with our daily work. | #633 00:31:00: Vous voulez venir avec moi ? | adapted: Ulrika invites him to pitch in |
-| 10 | Léa | Avec plaisir, que devons-nous faire ensemble? | With pleasure, what must we do together? | #634 00:31:03: Avec plaisir | adapted: Mathias gallantly agrees |
-| 11 | Ulrika | Nous allons nourrir les loups sauvages! | We are going to feed wild wolves! | #634 00:31:03: Je vais nourrir les loups<br>#635 00:31:06: Les loups | adapted: Ulrika reveals the task |
-| 12 | Léa | Les loups? Dans cet enclos fermé? | Wolves? Inside this enclosed pen? | #635 00:31:06: Les loups | adapted: Mathias feels sudden panic |
-| 13 | Ulrika | N'ayez pas peur, ils sont affamés! | Do not be afraid, they are hungry! | #638 00:31:16: Vous n'avez pas peur ? | adapted: Ulrika laughs off the danger |
-| 14 | Léa | Très bien, avançons avec grand courage. | Very well, let us advance with great courage. | #639 00:31:17: Non, non | adapted: Mathias puts on a brave face |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `ulrika` (Ulrika) | Bienvenue dans notre refuge pour animaux âgés. | Welcome to our shelter for elderly animals. | 619:Comme refuge pour eux |
+| 1 | `mathias` (Mathias) | Votre travail ici est vraiment admirable, Ulrika. | Your work here is truly admirable, Ulrika. | 631:Vous faites un travail formidable |
+| 2 | `ulrika` (Ulrika) | Vous aimez vraiment les bêtes de cirque? | Do you really like circus animals? | 618:cet endroit |
+| 3 | `mathias` (Mathias) | J'ai toujours adoré protéger les animaux. | I have always loved protecting animals. | 630:ce qu'il advenait des animaux |
+| 4 | `ulrika` (Ulrika) | C'est rare pour un producteur parisien. | That is rare for a Parisian producer. | 623:Je vous présente Mathias |
+| 5 | `mathias` (Mathias) | Je suis un homme de cœur d'abord. | I am a man of heart first. | 632:C'est la moindre des choses |
+| 6 | `ulrika` (Ulrika) | Nous cherchons de nouveaux donateurs très généreux. | We look for very generous new donors. | 624:Un nouveau donateur, 625:Et très généreux ! |
+| 7 | `mathias` (Mathias) | Je souhaite soutenir votre magnifique projet. | I wish to support your magnificent project. | 626:Merci, on en a vraiment besoin ! |
+| 8 | `ulrika` (Ulrika) | Venez m'aider avec notre travail quotidien. | Come help me with our daily work. | 633:Vous voulez venir avec moi ? |
+| 9 | `mathias` (Mathias) | Avec plaisir, que devons-nous faire ensemble? | With pleasure, what must we do together? | 634:Avec plaisir |
+| 10 | `ulrika` (Ulrika) | Nous allons nourrir les loups sauvages! | We are going to feed wild wolves! | 634:Je vais nourrir les loups, 635:Les loups |
+| 11 | `mathias` (Mathias) | Les loups? Dans cet enclos fermé? | Wolves? Inside this enclosed pen? | 635:Les loups |
+| 12 | `ulrika` (Ulrika) | N'ayez pas peur, ils sont affamés! | Do not be afraid, they are hungry! | 638:Vous n'avez pas peur ? |
+| 13 | `mathias` (Mathias) | Très bien, avançons avec grand courage. | Very well, let us advance with great courage. | 639:Non, non |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Welcome to our shelter for elderly animals.' Ulrika shows the stylish Parisian producer around the grounds. The masculine noun 'refuge' means sanctuary or shelter.
-- 'Your work here is truly admirable, Ulrika.' Mathias begins his flattery to gain the author's favor. Mathias uses the polite 'you' form alongside 'work' to keep a respectful professional tone.
-- 'Do you really like circus animals?' Ulrika checks whether his interest in rescue beasts is genuine. The feminine noun 'betes' means animals or beasts.
-- 'I have always loved protecting animals.' Mathias fabricates a lifelong commitment to animal welfare. The infinitive 'proteger' means to protect.
-- 'That is rare for a Parisian producer.' Ulrika notes that film executives rarely spend time around farm animals. The key noun here means 'producer', anchored by its matching French article.
-- 'I am a man of heart first.' Mathias lays on his charm with polished elegance. The key noun here means 'man', anchored by its matching French article.
-- 'We look for very generous new donors.' Ulrika highlights the severe operating expenses of the sanctuary. The adjective 'genereux' describes generous contributors.
-- 'I wish to support your magnificent project.' Mathias promises generous financial assistance to win her book rights. The verb 'soutenir' means to support.
-- 'Come help me with our daily work.' Ulrika invites him past the visitor gates into the pens. The adjective 'quotidien' means daily.
-- 'With pleasure, what must we do together?' Mathias accepts eagerly before knowing the details of the job. In everyday spoken French, rising intonation on 'must we' at the end is enough to turn the sentence into a question.
-- 'We are going to feed wild wolves!' Ulrika announces the terrifying chore with cheerful enthusiasm. The masculine noun 'loups' means wolves.
-- 'Wolves? Inside this enclosed pen?' Mathias stammers as his suave composure quickly evaporates. The masculine noun 'enclos' refers to an animal pen.
-- 'Do not be afraid, they are hungry!' Ulrika laughs and encourages the pale agent to enter. The adjective 'affames' describes starving beasts.
-- 'Very well, let us advance with great courage.' Mathias forces a smile while stepping trembling toward the wolves. The verb meaning 'let us move forward' pairs naturally with the noun for 'courage' in everyday conversation.
+## Part 5 — Outro & Closing
+> Trapped by his own polite lies, Mathias steps cautiously into the pen beside the howling wolves. When you watch the episode, listen out for the expressions meaning 'welcome' and 'shelter'. You'll catch them now. See you next time.
+- **Closing**: `mathias`: *À demain!*

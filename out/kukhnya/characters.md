@@ -4,6 +4,76 @@ Show: Кухня (*Kukhnya*, "The Kitchen"), S1–S2. Setting: Moscow's upscale 
 
 Story role keys: the protagonist key `anya` (voice `alisa`) is the viewpoint character of each scene (Max Lavrov whenever he is in a scene; otherwise Vika, Nastya, Chef Barinov, or the scene's viewpoint speaker), with `LABELS` giving the speaker's canonical Russian display name (`Макс`, `Вика`, `Шеф`, `Настя`, etc.). Supporting speakers use role keys (`chef`, `vika`, `kostya`, `nastya`, `senya`, `fedya`, `lyova`, `louis`, `nagiyev`, `elena`, `sasha`, `ilya`, `ainura`, `kristina`, etc.) mapped to voices `anja` and `angelina`. Grammar always follows the character's gender, never the voice key.
 
+<!-- CANONICAL_TABLE_START -->
+## Canonical Role Keys and Voices
+
+One character (label) = one role key = one voice across the entire show:
+
+| role key | label | voice |
+|---|---|---|
+| `anya` | Макс | `alisa` |
+| `chef` | Шеф | `anja` |
+| `vika` | Вика | `angelina` |
+| `kostya` | Костя | `anja` |
+| `nagiyev` | Нагиев | `angelina` |
+| `senya` | Сеня | `angelina` |
+| `katya` | Катя | `angelina` |
+| `nastya` | Настя | `angelina` |
+| `lyova` | Лёва | `angelina` |
+| `guest` | Гость | `anja` |
+| `denis` | Денис | `anja` |
+| `fedya` | Федя | `anja` |
+| `elena` | Елена | `angelina` |
+| `eleonora` | Элеонора | `angelina` |
+| `mikhail` | Михаил | `anja` |
+| `sasha` | Саша | `anja` |
+| `german` | Герман | `anja` |
+| `inspector` | Инспектор | `angelina` |
+| `nikita` | Никита | `anja` |
+| `timur` | Тимур | `angelina` |
+| `ainura` | Айнура | `angelina` |
+| `gulya` | Гуля | `anja` |
+| `louis` | Луи | `anja` |
+| `kristina` | Кристина | `anja` |
+| `doctor` | Врач | `anja` |
+| `rodion` | Родион | `anja` |
+| `sveta` | Света | `angelina` |
+| `ilya` | Илья | `anja` |
+| `eva` | Ева | `angelina` |
+| `hostess` | Хостес | `anja` |
+| `tanya` | Таня | `anja` |
+| `alisa` | Алиса | `angelina` |
+| `mama` | Мама | `anja` |
+| `vadim` | Вадим | `anja` |
+| `igor` | Игорь | `angelina` |
+| `lanovsky` | Лановский | `angelina` |
+| `marina` | Марина | `anja` |
+| `master` | Мастер | `anja` |
+| `girl` | Девушка | `angelina` |
+| `angelina_h` | Ангелина | `anja` |
+| `diana` | Диана | `anja` |
+| `mark` | Марк | `anja` |
+| `jindi` | Джинди | `anja` |
+| `judge` | Судья | `angelina` |
+| `elvira` | Эльвира | `angelina` |
+| `expert` | Эксперт | `angelina` |
+| `seller` | Продавец | `angelina` |
+| `passerby` | Прохожий | `angelina` |
+| `son` | Сын | `angelina` |
+| `tamara` | Тамара | `angelina` |
+| `first_guest` | Первый гость | `angelina` |
+| `second_guest` | Второй гость | `anja` |
+| `host` | Ведущий | `anja` |
+| `jacques` | Жак | `anja` |
+| `lyuba` | Люба | `angelina` |
+| `artyom` | Артём | `angelina` |
+| `director` | Режиссёр | `angelina` |
+| `old_man` | Старик | `anja` |
+| `suslan` | Суслан | `angelina` |
+| `nastya_father` | Отец Насти | `anja` |
+| `valya` | Валя | `anja` |
+<!-- CANONICAL_TABLE_END -->
+
 ## Макс Лавров, "Огузок" (Max Lavrov; young chef from Voronezh; first seen s01e01)
 - Who: enthusiastic, charming, slightly reckless young cook from Voronezh who bluffs his way into the kitchen of *Claude Monet*. Constantly gets into scrapes with Chef Barinov (who nicknames him "Огузок"), shares a Moscow flat with his best friend Kostya, and falls for art director Vika Goncharova.
 - Appearance for the art: young man about 23, slim, light skin `#F6D2B5`, neat side-parted chestnut-brown hair `#6B4423`, clean-shaven, bright expressive eyes and a wry grin. In the kitchen: crisp double-breasted white chef jacket `#FFF6EA` with two rows of dark buttons `#2E2A3A`, slate-grey collar piping `#6E86A0`, and a navy-striped waist apron `#3D5A80`. Outside the kitchen: casual teal shirt `#2E8B78` under a brown leather or denim jacket `#5A4638`, often holding a chef's knife or tasting spoon.
@@ -112,3 +182,71 @@ Story role keys: the protagonist key `anya` (voice `alisa`) is the viewpoint cha
 - **Внутренний двор / Служебный вход (Back Courtyard & Alley)**: brick exterior wall `#B86B5A` behind the restaurant, metal service door with steps, green waste bins `#5E9A78`, and stacked wooden delivery crates. Dominant colour: brick terracotta `#C97B63` or evening slate `#4B6B8A`.
 - **Раздевалка и коридор (Staff Locker Room & Corridor)**: row of tall grey-blue metal staff lockers `#6E86A0`, wooden changing bench, and mirror. Dominant colour: sage teal `#5E9A78` or slate `#6E86A0`.
 - **Квартира Макса и Кости / Квартира Вики (Max & Kostya's Flat / Vika's Flat)**: cosy Moscow apartment with warm patterned wallpaper, a plush sofa, floor lamp, window with curtains, and a small kitchen table with tea mugs. Dominant colour: warm peach `#D97B66` or soft mustard `#F2C14E`.
+
+<!-- CANONICAL_EXTRAS_START -->
+## Complete Show-Wide Role Key & Voice Directory (All Speaking Roles & Extras)
+
+Every role key used in any episode of this show is listed below with its character label, visual appearance notes, and fixed voice:
+
+- **Макс** (label: `Макс`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `anya` -> alisa
+- **Шеф** (label: `Шеф`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `chef` -> anja
+- **Вика** (label: `Вика`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `vika` -> angelina
+- **Костя** (label: `Костя`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `kostya` -> anja
+- **Нагиев** (label: `Нагиев`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `nagiyev` -> angelina
+- **Сеня** (label: `Сеня`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `senya` -> angelina
+- **Катя** (label: `Катя`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `katya` -> angelina
+- **Настя** (label: `Настя`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `nastya` -> angelina
+- **Лёва** (label: `Лёва`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `lyova` -> angelina
+- **Гость** (label: `Гость`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `guest` -> anja
+- **Денис** (label: `Денис`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `denis` -> anja
+- **Федя** (label: `Федя`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `fedya` -> anja
+- **Елена** (label: `Елена`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `elena` -> angelina
+- **Элеонора** (label: `Элеонора`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `eleonora` -> angelina
+- **Михаил** (label: `Михаил`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `mikhail` -> anja
+- **Саша** (label: `Саша`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `sasha` -> anja
+- **Герман** (label: `Герман`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `german` -> anja
+- **Инспектор** (label: `Инспектор`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `inspector` -> angelina
+- **Никита** (label: `Никита`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `nikita` -> anja
+- **Тимур** (label: `Тимур`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `timur` -> angelina
+- **Айнура** (label: `Айнура`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `ainura` -> angelina
+- **Гуля** (label: `Гуля`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `gulya` -> anja
+- **Луи** (label: `Луи`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `louis` -> anja
+- **Кристина** (label: `Кристина`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `kristina` -> anja
+- **Врач** (label: `Врач`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `doctor` -> anja
+- **Родион** (label: `Родион`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `rodion` -> anja
+- **Света** (label: `Света`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `sveta` -> angelina
+- **Илья** (label: `Илья`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `ilya` -> anja
+- **Ева** (label: `Ева`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `eva` -> angelina
+- **Хостес** (label: `Хостес`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `hostess` -> anja
+- **Таня** (label: `Таня`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `tanya` -> anja
+- **Алиса** (label: `Алиса`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `alisa` -> angelina
+- **Мама** (label: `Мама`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `mama` -> anja
+- **Вадим** (label: `Вадим`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `vadim` -> anja
+- **Игорь** (label: `Игорь`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `igor` -> angelina
+- **Лановский** (label: `Лановский`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `lanovsky` -> angelina
+- **Марина** (label: `Марина`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `marina` -> anja
+- **Мастер** (label: `Мастер`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#8E3B46`) — Story role key / voice: `master` -> anja
+- **Девушка** (label: `Девушка`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#3B5368`) — Story role key / voice: `girl` -> angelina
+- **Ангелина** (label: `Ангелина`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#7A5843`) — Story role key / voice: `angelina_h` -> anja
+- **Диана** (label: `Диана`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2C3E58`) — Story role key / voice: `diana` -> anja
+- **Марк** (label: `Марк`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#6E2B42`) — Story role key / voice: `mark` -> anja
+- **Джинди** (label: `Джинди`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2E7D7A`) — Story role key / voice: `jindi` -> anja
+- **Судья** (label: `Судья`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#5A4638`) — Story role key / voice: `judge` -> angelina
+- **Эльвира** (label: `Эльвира`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#4B5D3A`) — Story role key / voice: `elvira` -> angelina
+- **Эксперт** (label: `Эксперт`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#8E3B46`) — Story role key / voice: `expert` -> angelina
+- **Продавец** (label: `Продавец`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#3B5368`) — Story role key / voice: `seller` -> angelina
+- **Прохожий** (label: `Прохожий`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#7A5843`) — Story role key / voice: `passerby` -> angelina
+- **Сын** (label: `Сын`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#2C3E58`) — Story role key / voice: `son` -> angelina
+- **Тамара** (label: `Тамара`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#6E2B42`) — Story role key / voice: `tamara` -> angelina
+- **Первый гость** (label: `Первый гость`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2E7D7A`) — Story role key / voice: `first_guest` -> angelina
+- **Второй гость** (label: `Второй гость`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#5A4638`) — Story role key / voice: `second_guest` -> anja
+- **Ведущий** (label: `Ведущий`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#4B5D3A`) — Story role key / voice: `host` -> anja
+- **Жак** (label: `Жак`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#8E3B46`) — Story role key / voice: `jacques` -> anja
+- **Люба** (label: `Люба`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#3B5368`) — Story role key / voice: `lyuba` -> angelina
+- **Артём** (label: `Артём`; appearance: distinct silhouette with sandy-brown hair `#8C6239` and tailored outfit in `#7A5843`) — Story role key / voice: `artyom` -> angelina
+- **Режиссёр** (label: `Режиссёр`; appearance: distinct silhouette with auburn hair `#8B3A2B` and tailored outfit in `#2C3E58`) — Story role key / voice: `director` -> angelina
+- **Старик** (label: `Старик`; appearance: distinct silhouette with silver-streaked hair `#7A7E85` and tailored outfit in `#6E2B42`) — Story role key / voice: `old_man` -> anja
+- **Суслан** (label: `Суслан`; appearance: distinct silhouette with dark wavy hair `#241C18` and tailored outfit in `#2E7D7A`) — Story role key / voice: `suslan` -> angelina
+- **Отец Насти** (label: `Отец Насти`; appearance: distinct silhouette with honey-blond hair `#D4A459` and tailored outfit in `#5A4638`) — Story role key / voice: `nastya_father` -> anja
+- **Валя** (label: `Валя`; appearance: distinct silhouette with dark chestnut hair `#3B261E` and tailored outfit in `#4B5D3A`) — Story role key / voice: `valya` -> anja
+<!-- CANONICAL_EXTRAS_END -->

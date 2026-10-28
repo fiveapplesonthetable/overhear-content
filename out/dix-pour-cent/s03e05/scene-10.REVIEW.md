@@ -1,43 +1,31 @@
-# dix-pour-cent-s03e05-scene-10: review sheet
+# Review: `dix-pour-cent-s03e05-scene-10` — Réunion de crise  (Crisis Meeting)
 
-Title: Réunion de crise  (Crisis Meeting)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S03E05
-Cues 351-383. At ASK, Andrea convenes an urgent meeting where Mathias and Hicham clash over who should negotiate with the movie producers. Adapted for A1 French.
+- **Source**: `sources/dix-pour-cent/s03/e05.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "mathias": "marcel", "lea": "lucie"}`
+- **Labels**: `{"mathias": "Mathias", "lea": "Andréa"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> In the ASK conference room, Andrea calls a crisis meeting to address Beatrice's walkout. Both Mathias and Hicham argue over who is best equipped to negotiate with the demanding producers. Let's listen to their confrontation in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Réunion de crise pour le film de Béatrice. | Crisis meeting for Beatrice's film. | #351 00:16:19: Ok, réunion de crise sur le hyper guette | adapted: Convening meeting |
-| 2 | Léa | Je veux du concret et des solutions. | I want concrete ideas and solutions. | #352 00:16:21: Je veux du précis, je veux du concret, je vous écoute | adapted: Demanding action |
-| 3 | Mathias | L'épreuve de force va être très rude. | The power struggle will be very tough. | #364 00:16:52: On sait que l'épreuve de force va être difficile | adapted: Assessing standoff |
-| 4 | Mathias | Il faut envoyer notre meilleur négociateur. | We must send our best negotiator. | #365 00:16:55: Donc il faut envoyer le meilleur d'entre nous au casse-pipe | adapted: Suggesting strategy |
-| 5 | Mathias | C'est pour cela que je dois y aller. | That is why I must go. | #366 00:16:58: C'est pour ça que j'ai pensé qu'il fallait que ça soit moi | adapted: Offering himself |
-| 6 | Hicham | Pardon? Qui a décidé ce classement? | Excuse me? Who decided this ranking? | #367 00:17:01: Pardon ?<br>#369 00:17:05: Mais il y a un classement officiel ? | adapted: Challenging hierarchy |
-| 7 | Mathias | J'ai vingt ans d'expérience juridique. | I have twenty years of legal experience. | #374 00:17:15: Moi j'ai l'expérience, l'expertise juridique | adapted: Listing legal expertise |
-| 8 | Mathias | Et je sais parfaitement bien bluffer. | And I know perfectly well how to bluff. | #375 00:17:18: Et je sais très bien bluffer | adapted: Claiming bluffing skill |
-| 9 | Hicham | Moi, j'ai bâti ma fortune rapidement. | I built my fortune quickly. | #376 00:17:19: Et moi j'ai fait fortune en moins de 10 ans | adapted: Listing business success |
-| 10 | Hicham | Et je joue au poker tous les mardis. | And I play poker every Tuesday. | #378 00:17:25: Et je joue au poker tous les mardis soir | adapted: Citing poker game |
-| 11 | Hicham | C'est moi qui vais gérer ce producteur. | I am the one who will handle this producer. | #379 00:17:28: Donc je pense que c'est moi qui vais y aller | adapted: Declaring leadership |
-| 12 | Léa | Très bien, Hicham, vas-y alors. | Very well, Hicham, go ahead then. | #380 00:17:30: Tu voudras | adapted: Accepting Hicham |
-| 13 | Mathias | Mais laisse-moi te briefer avant de partir. | But let me brief you before leaving. | #383 00:17:36: Mais tu me laisseras te briefer un peu avant d'y aller | adapted: Offering briefing |
-| 14 | Hicham | D'accord pour un brief rapide de dix minutes. | Agreed for a quick ten-minute briefing. | #383 00:17:36: Mais tu me laisseras te briefer un peu avant d'y aller | adapted: Agreeing to brief |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `lea` (Andréa) | Réunion de crise pour le film de Béatrice. | Crisis meeting for Beatrice | 351:Ok, réunion de crise sur le hyper guette |
+| 1 | `lea` (Andréa) | Je veux du concret et des solutions. | I want concrete ideas and solutions. | 352:Je veux du précis, je veux du concret, je vous écoute |
+| 2 | `mathias` (Mathias) | L'épreuve de force va être très rude. | The power struggle will be very tough. | 364:On sait que l'épreuve de force va être difficile |
+| 3 | `mathias` (Mathias) | Il faut envoyer notre meilleur négociateur. | We must send our best negotiator. | 365:Donc il faut envoyer le meilleur d'entre nous au casse-pipe |
+| 4 | `mathias` (Mathias) | C'est pour cela que je dois y aller. | That is why I must go. | 366:C'est pour ça que j'ai pensé qu'il fallait que ça soit moi |
+| 5 | `lea` (Andréa) | Pardon? Qui a décidé ce classement? | Excuse me? Who decided this ranking? | 367:Pardon ?, 369:Mais il y a un classement officiel ? |
+| 6 | `mathias` (Mathias) | J'ai vingt ans d'expérience juridique. | I have twenty years of legal experience. | 374:Moi j'ai l'expérience, l'expertise juridique |
+| 7 | `mathias` (Mathias) | Et je sais parfaitement bien bluffer. | And I know perfectly well how to bluff. | 375:Et je sais très bien bluffer |
+| 8 | `lea` (Andréa) | Moi, j'ai bâti ma fortune rapidement. | I built my fortune quickly. | 376:Et moi j'ai fait fortune en moins de 10 ans |
+| 9 | `lea` (Andréa) | Et je joue au poker tous les mardis. | And I play poker every Tuesday. | 378:Et je joue au poker tous les mardis soir |
+| 10 | `lea` (Andréa) | C'est moi qui vais gérer ce producteur. | I am the one who will handle this producer. | 379:Donc je pense que c'est moi qui vais y aller |
+| 11 | `lea` (Andréa) | Très bien, Hicham, vas-y alors. | Very well, Hicham, go ahead then. | 380:Tu voudras |
+| 12 | `mathias` (Mathias) | Mais laisse-moi te briefer avant de partir. | But let me brief you before leaving. | 383:Mais tu me laisseras te briefer un peu avant d'y aller |
+| 13 | `lea` (Andréa) | D'accord pour un brief rapide de dix minutes. | Agreed for a quick ten-minute briefing. | 383:Mais tu me laisseras te briefer un peu avant d'y aller |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Crisis meeting for Beatrice's film.' Andrea convenes the emergency meeting. The noun phrase 'reunion de crise' designates an urgent conference.
-- 'I want concrete ideas and solutions.' Andrea demands practical action. The adjective 'concret' describes practical proposals.
-- 'The power struggle will be very tough.' Mathias assesses the intense standoff. The compound noun 'epreuve de force' means showdown or trial of strength.
-- 'We must send our best negotiator.' Mathias emphasizes the stakes. The superlative 'notre meilleur negociateur' designates the top advocate.
-- 'That is why I must go.' Mathias volunteers himself as chief negotiator. The modal verb 'devoir' conveys duty.
-- 'Excuse me? Who decided this ranking?' Hicham challenges Mathias's claim. In everyday spoken French, rising intonation on 'has' at the end is enough to turn the sentence into a question.
-- 'I have twenty years of legal experience.' Mathias lists his professional credentials. The adjective 'juridique' relates to law.
-- 'And I know perfectly well how to bluff.' Mathias boasts of negotiation prowess. The verb 'bluffer' means to bluff in negotiations or poker.
-- 'I built my fortune quickly.' Hicham asserts his business authority. This conversational past tense combines a helper verb with the past participle for 'built'.
-- 'And I play poker every Tuesday.' Hicham cites his weekly card game. Notice how 'play' leads directly into the noun meaning 'poker'.
-- 'I am the one who will handle this producer.' Hicham claims the mission. Notice how 'go' leads directly into the noun meaning 'producer'.
-- 'Very well, Hicham, go ahead then.' Andrea yields to Hicham's determination. The clause hinges on the everyday verb meaning 'go ahead'.
-- 'But let me brief you before leaving.' Mathias insists on providing tactical advice. The borrowed verb 'briefer' means to give instructions.
-- 'Agreed for a quick ten-minute briefing.' Hicham accepts the preparation time. The adjective 'rapide' modifies the brief.
+## Part 5 — Outro & Closing
+> Hicham prepares to face the furious production team with Mathias's strategic notes in hand. When you watch the episode, listen out for the expressions meaning 'meeting' and 'crisis'. You'll catch them now. See you next time.
+- **Closing**: `lea`: *Bonne soirée!*

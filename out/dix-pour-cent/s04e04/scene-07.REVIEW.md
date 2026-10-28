@@ -1,43 +1,31 @@
-# dix-pour-cent-s04e04-scene-07: review sheet
+# Review: `dix-pour-cent-s04e04-scene-07` — La dernière prise d'Hervé  (Hervé's Last Take)
 
-Title: La dernière prise d'Hervé  (Hervé's Last Take)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S04E04
-Cues 469-491. Finishing his final take on set, Hervé is surprised by the director Valérie with white lilies and glowing praise. Deeply impressed by his performance, she offers him an additional day of shooting with a brand new scene written for his character.
+- **Source**: `sources/dix-pour-cent/s04/e04.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "herve": "marcel", "valerie": "emilie"}`
+- **Labels**: `{"herve": "Hervé", "valerie": "Valérie"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> On the movie set, director Valerie calls cut on Herve's final scene to warm applause from the crew. Presenting him with white lilies, Valerie makes an unexpected offer that delights the aspiring actor. Let's listen to their conversation in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Coupez, c'est dans la boîte! | Cut, that is a wrap! | #469 00:22:29: Coupez !<br>#471 00:22:31: Super, on l'a ! | adapted: Valérie calls cut on Hervé's final scene |
-| 2 | Léa | Dernière prise pour Hervé André-Jezak! | Last take for Herve Andre-Jezak! | #475 00:22:42: C'était la dernière prise pour Hervé | adapted: Valérie announces the wrap to the crew |
-| 3 | Hervé | Merci à toute l'équipe formidable! | Thanks to the whole wonderful team! | #477 00:22:51: Merci. | adapted: Hervé receives warm applause |
-| 4 | Léa | Voici des lys blancs pour toi. | Here are some white lilies for you. | #478 00:22:55: Oh, des lys blancs ! | adapted: Valérie offers him his favorite flowers |
-| 5 | Hervé | Oh, ce sont mes fleurs préférées! | Oh, those are my favorite flowers! | #478 00:22:55: Mes fleurs préférées. | adapted: Hervé is deeply moved by the gift |
-| 6 | Léa | Ton jeu était tellement authentique aujourd'hui. | Your acting was so authentic today. | #481 00:23:01: être aussi authentique. | adapted: Valérie praises his acting talent |
-| 7 | Hervé | J'essaie simplement de rester naturel. | I simply try to remain natural. | #482 00:23:05: je ne le remarque pas | adapted: Hervé responds with modest grace |
-| 8 | Léa | Es-tu libre pour un verre ce soir? | Are you free for a drink tonight? | #484 00:23:09: Tu es libre pour un verre ? | adapted: Valérie invites him to celebrate |
-| 9 | Hervé | Bien sûr, avec grand plaisir! | Of course, with great pleasure! | #485 00:23:11: C'est juste que je | adapted: Hervé gladly accepts her invitation |
-| 10 | Léa | J'ai imaginé une nouvelle scène superbe. | I imagined a superb new scene. | #486 00:23:13: Ça m'a donné une idée de nouvelle scène. | adapted: Valérie pitches an unexpected creative idea |
-| 11 | Hervé | Une autre scène pour mon personnage? | Another scene for my character? | #487 00:23:17: Une autre scène avec toi. | adapted: Hervé is pleasantly surprised |
-| 12 | Léa | Oui, un jour de tournage supplémentaire! | Yes, an extra day of shooting! | #488 00:23:19: jour de tournage supplémentaire ? | adapted: Valérie confirms the extended shoot |
-| 13 | Hervé | Je vais recevoir un autre bouquet? | Will I receive another bouquet? | #490 00:23:23: Et un autre bouquet ? | adapted: Hervé jokes about receiving more flowers |
-| 14 | Hervé | Je suis vraiment très heureux! | I am really very happy! | #491 00:23:24: je suis trop content ! | adapted: Hervé celebrates his expanded movie role |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `valerie` (Valérie) | Coupez, c'est dans la boîte! | Cut, that is a wrap! | 469:Coupez !, 471:Super, on l'a ! |
+| 1 | `valerie` (Valérie) | Dernière prise pour Hervé André-Jezak! | Last take for Herve Andre-Jezak! | 475:C'était la dernière prise pour Hervé |
+| 2 | `herve` (Hervé) | Merci à toute l'équipe formidable! | Thanks to the whole wonderful team! | 477:Merci. |
+| 3 | `valerie` (Valérie) | Voici des lys blancs pour toi. | Here are some white lilies for you. | 478:Oh, des lys blancs ! |
+| 4 | `herve` (Hervé) | Oh, ce sont mes fleurs préférées! | Oh, those are my favorite flowers! | 478:Mes fleurs préférées. |
+| 5 | `valerie` (Valérie) | Ton jeu était tellement authentique aujourd'hui. | Your acting was so authentic today. | 481:être aussi authentique. |
+| 6 | `herve` (Hervé) | J'essaie simplement de rester naturel. | I simply try to remain natural. | 482:je ne le remarque pas |
+| 7 | `valerie` (Valérie) | Es-tu libre pour un verre ce soir? | Are you free for a drink tonight? | 484:Tu es libre pour un verre ? |
+| 8 | `herve` (Hervé) | Bien sûr, avec grand plaisir! | Of course, with great pleasure! | 485:C'est juste que je |
+| 9 | `valerie` (Valérie) | J'ai imaginé une nouvelle scène superbe. | I imagined a superb new scene. | 486:Ça m'a donné une idée de nouvelle scène. |
+| 10 | `herve` (Hervé) | Une autre scène pour mon personnage? | Another scene for my character? | 487:Une autre scène avec toi. |
+| 11 | `valerie` (Valérie) | Oui, un jour de tournage supplémentaire! | Yes, an extra day of shooting! | 488:jour de tournage supplémentaire ? |
+| 12 | `herve` (Hervé) | Je vais recevoir un autre bouquet? | Will I receive another bouquet? | 490:Et un autre bouquet ? |
+| 13 | `herve` (Hervé) | Je suis vraiment très heureux! | I am really very happy! | 491:je suis trop content ! |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Cut, that is a wrap!' Valerie announces the completion of the scene. The verb meaning 'cut' pairs naturally with the noun for 'can!' in everyday conversation.
-- 'Last take for Herve Andre-Jezak!' The director announces the end of Herve's scheduled filming. The adjective meaning 'last' takes its feminine form here to match the noun it describes.
-- 'Thanks to the whole wonderful team!' Herve graciously thanks the film crew for their support. The key noun here means 'thanks', anchored by its matching French article.
-- 'Here are some white lilies for you.' Valerie presents him with a thoughtful floral gift. Valerie uses the casual singular 'you' with 'lilies', showing close familiarity.
-- 'Oh, those are my favorite flowers!' Herve is touched that she remembered his personal preference. The key noun here means 'flowers', anchored by its matching French article.
-- 'Your acting was so authentic today.' Valerie praises the emotional sincerity of his performance. Notice how the short vowel drops before a vowel sound around 'was', making the phrase flow smoothly as one unit.
-- 'I simply try to remain natural.' Herve humbly deflects her generous compliment. The descriptive adjective for 'natural.' agrees in gender and number with its noun.
-- 'Are you free for a drink tonight?' Valerie invites him out to celebrate his success. The key noun here means 'drink', anchored by its matching French article.
-- 'Of course, with great pleasure!' Herve enthusiastically accepts her celebratory invitation. The key noun here means 'pleasure!', anchored by its matching French article.
-- 'I imagined a superb new scene.' Valerie reveals an unexpected creative idea. The verb meaning 'have' pairs naturally with the noun for 'scene' in everyday conversation.
-- 'Another scene for my character?' Herve is astonished by the chance to expand his role. The key noun here means 'scene', anchored by its matching French article.
-- 'Yes, an extra day of shooting!' Valerie confirms that production will extend his contract. The descriptive adjective for 'additional!' agrees in gender and number with its noun.
-- 'Will I receive another bouquet?' Herve jokes playfully about receiving more flowers. French forms the near future by pairing the present tense of 'to go' directly with 'to receive'.
-- 'I am really very happy!' Herve expresses pure joy at his growing acting prospects. The descriptive adjective for 'happy!' agrees in gender and number with its noun.
+## Part 5 — Outro & Closing
+> That's it for this scene around herve's last take. When you watch the episode, listen out for the expressions meaning 'can!' and 'last'. You'll catch them now. See you next time.
+- **Closing**: `herve`: *À bientôt!*

@@ -1,47 +1,33 @@
-# dix-pour-cent-s01e05-scene-07: review sheet
+# Review: `dix-pour-cent-s01e05-scene-07` — Comme un aimant  (Like a Magnet)
 
-Title: Comme un aimant  (Like a Magnet)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S01E05
-Cues 116-138. Inside JoeyStarr's trailer on the film set, JoeyStarr complains to Gabriel about Julie Gayet, while Gabriel is distracted by texts from Sofia. Coarse slang in cues 122, 130, 132, and 135-136 is softened or trimmed for A1.
+- **Source**: `sources/dix-pour-cent/s01/e05.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "gabriel": "theo", "joey": "marcel", "lea": "lucie"}`
+- **Labels**: `{"gabriel": "Gabriel", "joey": "JoeyStarr", "lea": "Andréa"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> While Andréa calms Julie Gayet down in her trailer by promising the costume film could win her an award, Gabriel follows JoeyStarr into his trailer. JoeyStarr is furious about how Julie treats him on set, but Gabriel cannot stop looking at his phone. Listen to the French first, without worrying about catching every word.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | JoeyStarr | Dis-le si je t'ennuie. | Say it if I'm boring you. | #116 00:07:41: Dis-le si je t'ennuie | verbatim |
-| 2 | Gabriel | Non, excuse-moi! Regarde, j'écoute. Vas-y, je suis tout à toi. | No, excuse me! Look, I'm listening. Go ahead, I'm all yours. | #117 00:07:44: Non, excuse-moi<br>#118 00:07:47: regarde<br>#119 00:07:48: J'écoute. Vas-y, je suis tout à toi | adapted: combined and trimmed for A1 |
-| 3 | JoeyStarr | Je n'en ai plus envie maintenant. | I don't feel like it anymore now. | #120 00:07:51: ai plus envie maintenant | adapted: spoken 'J'en ai' restored to 'Je n'en ai' for A1 |
-| 4 | Gabriel | Allez, j'écoute! Et alors? | Come on, I'm listening! And then? | #120 00:07:51: Allez, j'écoute<br>#121 00:07:55: Et alors | verbatim |
-| 5 | JoeyStarr | Je finis par passer pour un idiot! Tu sais ce qu'elle a fait? | I end up looking like an idiot! Do you know what she did? | #122 00:07:56: Je finis par passer pour un<br>#123 00:07:58: Tu sais ce qu'elle a fait | adapted: 'grand con' softened to 'idiot' for A1 |
-| 6 | Gabriel | Non. | No. | #123 00:07:58: Non | verbatim |
-| 7 | JoeyStarr | Elle n'avait pas son script avec elle. | She didn't have her script with her. | #124 00:08:00: Elle n'avait pas son script avec elle | verbatim |
-| 8 | JoeyStarr | Alors moi, sympa, je lui donne le mien. | So me, being nice, I give her mine. | #125 00:08:02: Alors moi, sympa, je lui donne le mien | verbatim |
-| 9 | JoeyStarr | Elle le prend comme un torchon sale! C'est agaçant. | She takes it like a dirty rag! It's annoying. | #126 00:08:05: Elle le prend<br>#126 00:08:05: comme un torchon sale<br>#127 00:08:09: C'est agaçant | adapted: 'du bout des doigts' omitted for A1 |
-| 10 | Gabriel | Non, ça va. | No, it's fine. | #127 00:08:09: Non, ça va | verbatim |
-| 11 | JoeyStarr | Réponds! | Answer it! | #128 00:08:12: Réponds | verbatim |
-| 12 | Gabriel | D'accord. J'ai rencontré cette fille. | Okay. I met this girl. | #129 00:08:13: D'accord<br>#130 00:08:19: j'ai rencontré cette | adapted: 'nana' adapted to 'fille' for A1 |
-| 13 | Gabriel | Ce n'est pas mon genre. Elle est blonde, elle est normale! | She's not my type. She's blonde, she's normal! | #131 00:08:24: pas mon genre<br>#132 00:08:26: elle est blonde<br>#132 00:08:26: elle est normale | adapted: spoken 'C'est pas' restored to 'Ce n'est pas' and 'elle se drogue pas' omitted for A1 |
-| 14 | Gabriel | Mais je suis attiré par elle comme un aimant. | But I'm drawn to her like a magnet. | #133 00:08:29: Mais je suis attiré par elle comme un aimant | verbatim |
-| 15 | Gabriel | Tu vois? C'est très puissant. | You see? It's very powerful. | #134 00:08:32: Tu vois<br>#134 00:08:32: puissant | adapted: 'super' adapted to 'très' and cues 135-136 omitted for A1 |
-| 16 | JoeyStarr | Mon inconscient et celui de Julie Gayet se heurtent de partout. | My subconscious and Julie Gayet's clash everywhere. | #138 00:08:41: Mon inconscient et celui de Julie Gayet se heurtent de partout | verbatim |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `joey` (JoeyStarr) | Dis-le si je t'ennuie. | Say it if I | 116:Dis-le si je t'ennuie |
+| 1 | `gabriel` (Gabriel) | Non, excuse-moi! Regarde, j'écoute. Vas-y, je suis tout à toi. | No, excuse me! Look, I | 117:Non, excuse-moi, 118:regarde, 119:J'écoute. Vas-y, je suis tout à toi |
+| 2 | `joey` (JoeyStarr) | Je n'en ai plus envie maintenant. | I don | 120:ai plus envie maintenant |
+| 3 | `gabriel` (Gabriel) | Allez, j'écoute! Et alors? | Come on, I | 120:Allez, j'écoute, 121:Et alors |
+| 4 | `joey` (JoeyStarr) | Je passe pour un idiot! Tu sais ce qu'elle fait? | I look like an idiot! Do you know what she is doing? | 122:Je finis par passer pour un, 123:Tu sais ce qu'elle a fait |
+| 5 | `gabriel` (Gabriel) | Non. | No. | 123:Non |
+| 6 | `joey` (JoeyStarr) | Elle n'avait pas son script avec elle. | She didn | 124:Elle n'avait pas son script avec elle |
+| 7 | `joey` (JoeyStarr) | Alors moi, sympa, je lui donne le mien. | So me, being nice, I give her mine. | 125:Alors moi, sympa, je lui donne le mien |
+| 8 | `joey` (JoeyStarr) | Elle le prend comme un torchon sale! C'est agaçant. | She takes it like a dirty rag! It | 126:Elle le prend, 126:comme un torchon sale, 127:C'est agaçant |
+| 9 | `gabriel` (Gabriel) | Non, ça va. | No, it | 127:Non, ça va |
+| 10 | `joey` (JoeyStarr) | Réponds! | Answer it! | 128:Réponds |
+| 11 | `gabriel` (Gabriel) | D'accord. J'ai rencontré cette fille. | Okay. I met this girl. | 129:D'accord, 130:j'ai rencontré cette |
+| 12 | `gabriel` (Gabriel) | Ce n'est pas mon genre. Elle est blonde, elle est normale! | She | 131:pas mon genre, 132:elle est blonde, 132:elle est normale |
+| 13 | `gabriel` (Gabriel) | Mais je suis attiré par elle comme un aimant. | But I | 133:Mais je suis attiré par elle comme un aimant |
+| 14 | `gabriel` (Gabriel) | Tu vois? C'est très puissant. | You see? It | 134:Tu vois, 134:puissant |
+| 15 | `joey` (JoeyStarr) | Mon inconscient et celui de Julie Gayet se heurtent de partout. | My subconscious and Julie Gayet | 138:Mon inconscient et celui de Julie Gayet se heurtent de partout |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Say it if I'm boring you.' In an affirmative command, the object pronoun 'it' attaches after the verb with a hyphen.
-- 'No, excuse me! Look, I'm listening. Go ahead, I'm all yours.' Gabriel puts his phone down on the table to prove he is paying attention.
-- 'I don't feel like it anymore now.' The expression 'to have desire of it' means 'to feel like it', and 'no more' wraps around the verb.
-- 'Come on, I'm listening! And then?' Gabriel urges his client to continue his story.
-- 'I end up looking like an idiot! Do you know what she did?' The phrase 'to finish by passing for' means 'to end up looking like'.
-- 'No.' Gabriel waits to hear Julie's latest offense on set.
-- 'She didn't have her script with her.' The imperfect tense of 'to have' describes the background situation during rehearsal.
-- 'So me, being nice, I give her mine.' The possessive pronoun 'the mine' stands in for 'my script' without repeating the noun.
-- 'She takes it like a dirty rag! It's annoying.' In French, the adjective 'dirty' comes after the noun 'rag'.
-- 'No, it's fine.' Gabriel's phone buzzes again on the table, and he tries to ignore it.
-- 'Answer it!' JoeyStarr tells Gabriel to just read his message.
-- 'Okay. I met this girl.' Instead of answering the message, Gabriel confesses why he has been so distracted: he cannot stop thinking about Anna, the blonde woman he met at the cinema.
-- 'She's not my type. She's blonde, she's normal!' Literally 'It is not my type' — the word for 'genre' or 'sort' also means someone's romantic type.
-- 'But I'm drawn to her like a magnet.' The passive participle 'attracted' is followed by the preposition 'by'.
-- 'You see? It's very powerful.' Gabriel describes the sudden attraction he feels for a woman who is the complete opposite of his usual girlfriends.
-- 'My subconscious and Julie Gayet's clash everywhere.' Hearing Gabriel talk about attraction between opposites makes JoeyStarr think about his own explosive tension with Julie Gayet.
+## Part 5 — Outro & Closing
+> Gabriel's confession about being drawn to his opposite gives JoeyStarr food for thought about Julie Gayet. Next, out at the catering tent in the courtyard, Sofia spots Gabriel and proudly introduces him as her agent. See you there.
+- **Closing**: `gabriel`: *Bonne soirée!*

@@ -1,43 +1,31 @@
-# dix-pour-cent-s03e05-scene-23: review sheet
+# Review: `dix-pour-cent-s03e05-scene-23` — La lettre d'Hicham  (Hicham's Letter)
 
-Title: La lettre d'Hicham  (Hicham's Letter)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S03E05
-Cues 989-1000. Returning home after resolving the film crisis, Andréa finds Colette holding a letter from Hicham addressed to the family court judge. In the letter, Hicham officially waives his parental claim so that Colette can legitimately become Flora's recognized second parent.
+- **Source**: `sources/dix-pour-cent/s03/e05.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "colette": "emilie", "lea": "lucie"}`
+- **Labels**: `{"colette": "Colette", "lea": "Andréa"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Returning home after resolving the film crisis, Andrea finds Colette holding a letter from Hicham addressed to the family court judge. In the letter, Hicham officially waives his parental claim so that Colette can legitimately become Flora's recognized second parent. Let's listen to the scene in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Tout s'est arrangé avec Béatrice Dalle! | Everything worked out with Beatrice Dalle! | #989 00:45:22: bien passé avec Béatrice | adapted: Andrea announces the shoot's salvation |
-| 2 | Colette | C'est formidable, mais regarde cette lettre. | That is wonderful, but look at this letter. | #991 00:45:40: lettre d'Hicham | adapted: Colette presents a surprising document |
-| 3 | Léa | Qu'est-ce qu'il se passe, Colette? | What is going on, Colette? | #990 00:45:35: Qu'est-ce qu'il se passe | adapted: Andrea senses something serious |
-| 4 | Colette | C'est une lettre officielle d'Hicham. | It is an official letter from Hicham. | #991 00:45:40: lettre d'Hicham | adapted: Colette reveals the author |
-| 5 | Colette | Elle est adressée au juge familial. | It is addressed to the family judge. | #991 00:45:40: affaires familiales | adapted: Colette explains the legal recipient |
-| 6 | Léa | Que dit Hicham dans ce courrier? | What does Hicham say in this letter? | #992 00:45:51: Hicham Janowski | adapted: Andrea asks for the contents |
-| 7 | Colette | Il rappelle qu'il est le père. | He recalls that he is the father. | #992 00:45:51: père biologique | adapted: Colette quotes the biological fact |
-| 8 | Colette | Mais il admire notre beau couple. | But he admires our beautiful couple. | #995 00:46:07: Andrea et Colette | adapted: Colette shares his praise |
-| 9 | Colette | Il veut protéger notre petite fille. | He wants to protect our little daughter. | #997 00:46:18: Flora grandisse | adapted: Colette explains his protective motive |
-| 10 | Léa | Hicham a écrit tout cela? | Hicham wrote all that? | #994 00:46:02: même si je suis | adapted: Andrea is stunned by his words |
-| 11 | Colette | Il renonce à reconnaître l'enfant. | He renounces legal recognition of the child. | #998 00:46:26: renonce à reconnaître | adapted: Colette delivers the central legal concession |
-| 12 | Colette | Je deviens officiellement le deuxième parent! | I officially become the second parent! | #999 00:46:30: deuxième parent | adapted: Colette celebrates her full parental status |
-| 13 | Léa | C'est un geste d'une générosité immense. | It is a gesture of immense generosity. | #1000 00:46:35: respect entre les parents | adapted: Andrea is moved by his noble sacrifice |
-| 14 | Colette | Nous formons une vraie belle famille! | We form a truly beautiful family! | #997 00:46:18: Flora grandisse | adapted: Colette rejoices in their united future |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `lea` (Andréa) | Tout s'est arrangé avec Béatrice Dalle! | Everything worked out with Beatrice Dalle! | 989:bien passé avec Béatrice |
+| 1 | `colette` (Colette) | C'est formidable, mais regarde cette lettre. | That is wonderful, but look at this letter. | 991:lettre d'Hicham |
+| 2 | `lea` (Andréa) | Qu'est-ce qu'il se passe, Colette? | What is going on, Colette? | 990:Qu'est-ce qu'il se passe |
+| 3 | `colette` (Colette) | C'est une lettre officielle d'Hicham. | It is an official letter from Hicham. | 991:lettre d'Hicham |
+| 4 | `colette` (Colette) | Elle est adressée au juge familial. | It is addressed to the family judge. | 991:affaires familiales |
+| 5 | `lea` (Andréa) | Que dit Hicham dans ce courrier? | What does Hicham say in this letter? | 992:Hicham Janowski |
+| 6 | `colette` (Colette) | Il rappelle qu'il est le père. | He recalls that he is the father. | 992:père biologique |
+| 7 | `colette` (Colette) | Mais il admire notre beau couple. | But he admires our beautiful couple. | 995:Andrea et Colette |
+| 8 | `colette` (Colette) | Il veut protéger notre petite fille. | He wants to protect our little daughter. | 997:Flora grandisse |
+| 9 | `lea` (Andréa) | Hicham a écrit tout cela? | Hicham wrote all that? | 994:même si je suis |
+| 10 | `colette` (Colette) | Il renonce à reconnaître l'enfant. | He renounces legal recognition of the child. | 998:renonce à reconnaître |
+| 11 | `colette` (Colette) | Je deviens officiellement le deuxième parent! | I officially become the second parent! | 999:deuxième parent |
+| 12 | `lea` (Andréa) | C'est un geste d'une générosité immense. | It is a gesture of immense generosity. | 1000:respect entre les parents |
+| 13 | `colette` (Colette) | Nous formons une vraie belle famille! | We form a truly beautiful family! | 997:Flora grandisse |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'Everything worked out with Beatrice Dalle!' Andrea shares the successful production rescue. The clause hinges on the everyday verb meaning 'worked out'.
-- 'That is wonderful, but look at this letter.' Colette redirects Andrea's focus. The descriptive adjective for 'wonderful' agrees in gender and number with its noun.
-- 'What is going on, Colette?' Andrea senses an important family development. The standard spoken question formula at the front turns the statement about 'is happening' into a natural inquiry.
-- 'It is an official letter from Hicham.' Colette reveals who sent the document. The adjective meaning 'official' takes its feminine form here to match the noun it describes.
-- 'It is addressed to the family judge.' Colette specifies the legal context. Notice how 'addressed' leads directly into the noun meaning 'judge'.
-- 'What does Hicham say in this letter?' Andrea eagerly inquires about the contents. The verb meaning 'says' pairs naturally with the noun for 'mail' in everyday conversation.
-- 'He recalls that he is the father.' Colette notes his initial statement of biological fact. Notice how 'recalls' leads directly into the noun meaning 'father'.
-- 'But he admires our beautiful couple.' Colette shares his respect for their partnership. The descriptive adjective for 'beautiful' agrees in gender and number with its noun.
-- 'He wants to protect our little daughter.' Colette describes his deeper intent. The verb meaning 'wants' pairs naturally with the noun for 'girl' in everyday conversation.
-- 'Hicham wrote all that?' Andrea is amazed by his personal maturity. The clause hinges on the everyday verb meaning 'has'.
-- 'He renounces legal recognition of the child.' Colette shares the life-changing waiver. Notice how 'waives' leads directly into the noun meaning 'child'.
-- 'I officially become the second parent!' Colette celebrates her secured legal standing. The verb meaning 'become' pairs naturally with the noun for 'parent' in everyday conversation.
-- 'It is a gesture of immense generosity.' Andrea is deeply touched by his gift. The key noun here means 'gesture', anchored by its matching French article.
-- 'We form a truly beautiful family!' Colette looks forward to raising Flora together. The present verb celebrates full, recognized parental harmony.
+## Part 5 — Outro & Closing
+> With a single generous legal letter, Hicham cements Andrea and Colette's family, bringing peace to their coparenting journey. When you watch the episode, listen out for the expressions meaning 'worked out' and 'wonderful'. You'll catch them now. See you next time.
+- **Closing**: `colette`: *Au revoir!*

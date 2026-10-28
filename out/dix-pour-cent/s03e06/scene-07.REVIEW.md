@@ -1,41 +1,30 @@
-# dix-pour-cent-s03e06-scene-07: review sheet
+# Review: `dix-pour-cent-s03e06-scene-07` — La confidence d'Andréa  (Andréa's Breakdown)
 
-Title: La confidence d'Andréa  (Andréa's Breakdown)
-Level: A1 — débutant
-Pair: fr-en
-Source: Dix pour cent (Call My Agent!) S03E06
-Cues 388-420. Outside the hospital, Andrea breaks down over postpartum exhaustion and agency panic, touching the nurse's heart with her raw honesty. Adapted for A1 French.
+- **Source**: `sources/dix-pour-cent/s03/e06.fr.dual.srt`
+- **Level**: A1 — débutant
+- **Voices**: `{"narrator": "sky", "lea": "lucie", "isabelle": "emilie"}`
+- **Labels**: `{"lea": "Andréa", "isabelle": "Isabelle"}`
 
-Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
+## Part 1 — Intro
+> Outside the hospital, Andrea Martel continues trying to persuade nurse Isabelle Huppert to help her agency. When the nurse firmly refuses, Andrea's professional armor cracks, revealing her exhaustion as a new mother. Let's listen to their conversation in French first.
 
-| # | Speaker | Script line | English meaning | Source subtitle line | Note |
-|---|---|---|---|---|---|
-| 1 | Léa | Je viens d'avoir l'actrice au téléphone. | I just had the actress on the phone. | #388 00:16:39: Je viens d'avoir Isabelle Huppert au téléphone. | adapted: Andrea conveys the urgency |
-| 2 | Léa | C'est vraiment très important pour elle. | It is really very important to her. | #389 00:16:43: C'est très important pour elle. | adapted: Andrea emphasizes the stakes |
-| 3 | Isabelle | Les patients à l'hôpital sont importants aussi! | Patients at the hospital are important too! | #392 00:16:46: Les patients qui m'attendent à l'hôpital, eux aussi, ils sont importants. | adapted: Isabelle defends healthcare priorities |
-| 4 | Léa | Je peux vous offrir des places gratuites. | I can offer you free tickets. | #394 00:16:51: places pour des avant-premières ? | adapted: Andrea attempts a VIP incentive |
-| 5 | Isabelle | Nous avons surtout besoin de personnel ici. | We mostly need staff here. | #396 00:16:54: on a surtout besoin de moyens et de personnel. | adapted: Isabelle grounds the discussion in reality |
-| 6 | Léa | Venez à notre grande fête ce soir! | Come to our big party tonight! | #402 00:17:09: ce soir, il y a une grosse fête. Je vous invite. | adapted: Andrea extends an invitation to the ASK gala |
-| 7 | Isabelle | Je serais beaucoup trop embarrassée là-bas. | I would be much too embarrassed there. | #404 00:17:14: Moi, je serais trop embarrassée. | adapted: Isabelle declines the celebrity party |
-| 8 | Léa | Mon agence traverse une crise terrible. | My agency is going through a terrible crisis. | #411 00:17:34: Je suis dans la merde. | adapted: Andrea's defenses start slipping |
-| 9 | Léa | Je suis tellement fatiguée ces jours-ci. | I am so exhausted these days. | #412 00:17:36: Je suis fatiguée. | adapted: Andrea confesses her burnout |
-| 10 | Léa | Mon bébé ne dort pas la nuit! | My baby does not sleep at night! | #413 00:17:40: mon bébé, il dort pas la nuit. | adapted: Andrea breaks down over sleep deprivation |
-| 11 | Isabelle | Vous venez d'avoir un nouveau-né? | Did you just have a newborn? | #418 00:17:55: Vous venez d'avoir un bébé, c'est ça ? | adapted: Isabelle softens with motherly concern |
-| 12 | Isabelle | C'est normal de se sentir épuisée. | It is normal to feel exhausted. | #419 00:17:58: C'est normal, hein, de se sentir à cran | adapted: Isabelle offers professional reassurance |
-| 13 | Isabelle | Tenez, prenez cette petite pastille douce. | Here, take this sweet little mint. | #420 00:18:02: je vais vous donner une petite pastille | adapted: Isabelle comforts Andrea with simple kindness |
+## Part 2 — Story Lines
+| # | Role | French | English | Source Cues |
+|---|------|--------|---------|-------------|
+| 0 | `lea` (Andréa) | Je viens d'avoir l'actrice au téléphone. | I just had the actress on the phone. | 388:Je viens d'avoir Isabelle Huppert au téléphone. |
+| 1 | `lea` (Andréa) | C'est vraiment très important pour elle. | It is really very important to her. | 389:C'est très important pour elle. |
+| 2 | `isabelle` (Isabelle) | Les patients à l'hôpital sont importants aussi! | Patients at the hospital are important too! | 392:Les patients qui m'attendent à l'hôpital, eux aussi, ils sont importants. |
+| 3 | `lea` (Andréa) | Je peux vous offrir des places gratuites. | I can offer you free tickets. | 394:places pour des avant-premières ? |
+| 4 | `isabelle` (Isabelle) | Nous avons surtout besoin de personnel ici. | We mostly need staff here. | 396:on a surtout besoin de moyens et de personnel. |
+| 5 | `lea` (Andréa) | Venez à notre grande fête ce soir! | Come to our big party tonight! | 402:ce soir, il y a une grosse fête. Je vous invite. |
+| 6 | `isabelle` (Isabelle) | Je serais beaucoup trop embarrassée là-bas. | I would be much too embarrassed there. | 404:Moi, je serais trop embarrassée. |
+| 7 | `lea` (Andréa) | Mon agence traverse une crise terrible. | My agency is going through a terrible crisis. | 411:Je suis dans la merde. |
+| 8 | `lea` (Andréa) | Je suis tellement fatiguée ces jours-ci. | I am so exhausted these days. | 412:Je suis fatiguée. |
+| 9 | `lea` (Andréa) | Mon bébé ne dort pas la nuit! | My baby does not sleep at night! | 413:mon bébé, il dort pas la nuit. |
+| 10 | `isabelle` (Isabelle) | Vous venez d'avoir un nouveau-né? | Did you just have a newborn? | 418:Vous venez d'avoir un bébé, c'est ça ? |
+| 11 | `isabelle` (Isabelle) | C'est normal de se sentir épuisée. | It is normal to feel exhausted. | 419:C'est normal, hein, de se sentir à cran |
+| 12 | `isabelle` (Isabelle) | Tenez, prenez cette petite pastille douce. | Here, take this sweet little mint. | 420:je vais vous donner une petite pastille |
 
-## Walk-through narration (English only, no target-language words quoted)
-
-- 'I just had the actress on the phone.' Andrea explains that star Isabelle Huppert herself is calling. Notice how 'have just' leads directly into the noun meaning 'the actress'.
-- 'It is really very important to her.' Andrea underlines the urgency of the production problem. The descriptive adjective for 'important' agrees in gender and number with its noun.
-- 'Patients at the hospital are important too!' Isabelle counters that healthcare duties matter more than movies. In spoken French, the little word before 'patients' drops its final vowel and attaches with an apostrophe.
-- 'I can offer you free tickets.' Andrea tries to sweeten the deal with exclusive premiere passes. The adjective meaning 'free.' takes its feminine form here to match the noun it describes.
-- 'We mostly need staff here.' Isabelle emphasizes the critical shortage facing public hospitals. Notice how 'have' leads directly into the noun meaning 'need'.
-- 'Come to our big party tonight!' Andrea invites the nurse to ASK's glamorous anniversary celebration. The verb meaning 'come' pairs naturally with the noun for 'party' in everyday conversation.
-- 'I would be much too embarrassed there.' Isabelle feels completely out of place at a celebrity gala. The clause hinges on the everyday verb meaning 'would be'.
-- 'My agency is going through a terrible crisis.' Andrea's professional composure begins to fracture. Notice how 'is going through' leads directly into the noun meaning 'agency'.
-- 'I am so exhausted these days.' Andrea admits her deep physical and emotional depletion. The key noun here means 'days.', anchored by its matching French article.
-- 'My baby does not sleep at night!' Andrea reveals the sleepless nights behind her frantic pace. Notice how 'sleeps' leads directly into the noun meaning 'baby'.
-- 'Did you just have a newborn?' Isabelle immediately shifts from annoyance to maternal empathy. Notice how the short vowel drops before a vowel sound around 'have just', making the phrase flow smoothly as one unit.
-- 'It is normal to feel exhausted.' The experienced nurse validates Andrea's postpartum struggle. The descriptive adjective for 'normal' agrees in gender and number with its noun.
-- 'Here, take this sweet little mint.' Isabelle offers a gesture of human warmth to soothe Andrea's distress. The verb meaning 'here' pairs naturally with the noun for 'lozenge' in everyday conversation.
+## Part 5 — Outro & Closing
+> That's it for this scene around andrea's breakdown. When you watch the episode, listen out for the expressions meaning 'have just' and 'the actress'. You'll catch them now. See you next time.
+- **Closing**: `isabelle`: *Au revoir!*

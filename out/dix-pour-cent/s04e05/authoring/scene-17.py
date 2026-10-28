@@ -1,126 +1,50 @@
-# Authoring module for dix-pour-cent s04e05 scene 17 (cues 736-742).
-# Build: python3 tools/compose.py overhear-content/out/dix-pour-cent/s04e05/authoring/scene-17.py --out overhear-content/out/dix-pour-cent/s04e05/scene-17.json
-
-ID = "dix-pour-cent-s04e05-scene-17"
-SHOW = "dix-pour-cent"
+# Authoring module for dix-pour-cent-s04e05-scene-17.
+ID = 'dix-pour-cent-s04e05-scene-17'
+SHOW = 'dix-pour-cent'
 SEASON = 4
 EPISODE = 5
 SCENE = 17
 TITLE = "L'aveu d'Hervé  (Hervé's Confession)"
 LEVEL = "A1 — débutant"
-PAIR = "fr-en"
-VOICES = {"narrator": "sky", "lea": "lucie", "gabriel": "theo"}
-LABELS = {"lea": "Hervé", "gabriel": "Gabriel"}
-SOURCE_NAME = "Dix pour cent (Call My Agent!) S04E05"
-SOURCE_FILE = "sources/dix-pour-cent/s04/e05.fr.dual.srt"
-SOURCE_NOTE = (
-    "Cues 736-742. In the agency hallway, Hervé nervously confesses to Gabriel that he played a role in a "
-    "feature film, only to discover that Élise Formain already leaked his secret to everyone."
-)
-
-INTRO = (
-    "In the hallway at ASK, Hervé stops Gabriel to make a nervous confession about his secret acting career. "
-    "However, Gabriel reveals that the secret is already out across the agency. "
-    "Let's listen to their exchange in French first."
-)
-
+PAIR = 'fr-en'
+VOICES = {"narrator": "sky", "herve": "marcel", "gabriel": "theo"}
+LABELS = {"herve": "Hervé", "gabriel": "Gabriel"}
+SOURCE_NAME = 'Dix pour cent (Call My Agent!) S04E05'
+SOURCE_FILE = 'sources/dix-pour-cent/s04/e05.fr.dual.srt'
+INTRO = "In the hallway at ASK, Herve stops Gabriel to make a nervous confession about his secret acting career. However, Gabriel reveals that the secret is already out across the agency. Let's listen to their exchange in French first."
 OPENER = "Let's examine the conversation line by line and explore the French expressions."
 TRANSITION = "Now let's listen to the complete discussion once more to reinforce the vocabulary."
-
+OUTRO = "Herve realizes to his dismay that his secret acting debut is already common knowledge at ASK. When you watch the episode, listen out for the expressions meaning 'minute' and 'is happening'. You'll catch them now. See you next time."
+CLOSING = ("gabriel", "Au revoir!")
 STORY = [
-    ("lea", "Gabriel, vous avez une minute?",
-     "Gabriel, do you have a minute?",
-     [(736, "Gabriel")], "Hervé stops Gabriel in the hallway"),
-    ("gabriel", "Oui, qu'est-ce qui se passe?",
-     "Yes, what is going on?",
-     [(737, "Quoi")], "Gabriel pauses to listen"),
-    ("lea", "J'ai quelque chose à vous avouer.",
-     "I have something to confess to you.",
-     [(737, "J'ai quelque chose à vous avouer")], "Hervé looks nervous"),
-    ("gabriel", "Quoi donc? Rien de grave?",
-     "What then? Nothing serious?",
-     [(737, "Quoi"), (738, "Rien de grave")], "Gabriel asks with concern"),
-    ("lea", "Non, mais c'est très délicat.",
-     "No, but it is very delicate.",
-     [], "Hervé hesitates"),
-    ("gabriel", "Allez, parlez, je vous écoute!",
-     "Come on, speak, I am listening to you!",
-     [], "Gabriel urges him to speak"),
-    ("lea", "J'ai joué un rôle au cinéma.",
-     "I played a role in a movie.",
-     [(739, "J'ai joué un rôle")], "Hervé makes his confession"),
-    ("lea", "J'ai tourné dans un vrai film!",
-     "I acted in a real movie!",
-     [(739, "dans un film")], "Hervé admits his secret"),
-    ("gabriel", "Le film de Donzelli? Je sais.",
-     "The Donzelli movie? I know.",
-     [(740, "Le Donzelli? Je sais")], "Gabriel is completely unsurprised"),
-    ("gabriel", "Élise me l'a déjà dit.",
-     "Elise already told me.",
-     [(740, "Élise me l'a dit")], "Gabriel reveals his source"),
-    ("lea", "Quoi? Ce n'est pas vrai!",
-     "What? That is not true!",
-     [], "Hervé is shocked"),
-    ("lea", "Elle devait garder le secret!",
-     "She was supposed to keep the secret!",
-     [(741, "garder le secret")], "Hervé is outraged at the leak"),
-    ("gabriel", "Mon Dieu, vous êtes tellement naïf!",
-     "My God, you are so naive!",
-     [(742, "Mon Dieu, vous êtes")], "Gabriel shakes his head"),
-    ("lea", "On ne peut faire confiance à personne.",
-     "You cannot trust anyone.",
-     [], "Hervé sighs in disappointment"),
+    ('herve', 'Gabriel, vous avez une minute?', 'Gabriel, do you have a minute?', [(736, 'Gabriel')], ''),
+    ('gabriel', "Oui, qu'est-ce qui se passe?", 'Yes, what is going on?', [(737, 'Quoi')], ''),
+    ('herve', "J'ai quelque chose à vous avouer.", 'I have something to confess to you.', [(737, "J'ai quelque chose à vous avouer")], ''),
+    ('gabriel', 'Quoi donc? Rien de grave?', 'What then? Nothing serious?', [(737, 'Quoi'), (738, 'Rien de grave')], ''),
+    ('herve', "Non, mais c'est très délicat.", 'No, but it is very delicate.', [], ''),
+    ('gabriel', 'Allez, parlez, je vous écoute!', 'Come on, speak, I am listening to you!', [], ''),
+    ('herve', "J'ai joué un rôle au cinéma.", 'I played a role in a movie.', [(739, "J'ai joué un rôle")], ''),
+    ('herve', "J'ai tourné dans un vrai film!", 'I acted in a real movie!', [(739, 'dans un film')], ''),
+    ('gabriel', 'Le film de Donzelli? Je sais.', 'The Donzelli movie? I know.', [(740, 'Le Donzelli? Je sais')], ''),
+    ('gabriel', "Élise me l'a déjà dit.", 'Elise already told me.', [(740, "Élise me l'a dit")], ''),
+    ('herve', "Quoi? Ce n'est pas vrai!", 'What? That is not true!', [], ''),
+    ('herve', 'Elle devait garder le secret!', 'She was supposed to keep the secret!', [(741, 'garder le secret')], ''),
+    ('gabriel', 'Mon Dieu, vous êtes tellement naïf!', 'My God, you are so naive!', [(742, 'Mon Dieu, vous êtes')], ''),
+    ('herve', 'On ne peut faire confiance à personne.', 'You cannot trust anyone.', [], ''),
 ]
-
 WALK = [
-    (0, None,
-     "'Gabriel, do you have a minute?' Hervé approaches his boss with a hesitant expression. "
-     "The question 'vous avez une minute' politely asks for someone's time."),
-    (1, None,
-     "'Yes, what is going on?' Gabriel stops and gives his assistant his attention. "
-     "The interrogative phrase 'qu'est-ce qui se passe' asks what is happening."),
-    (2, None,
-     "'I have something to confess to you.' Hervé prepares to admit his secret acting job. "
-     "The verb 'avouer' means to confess or admit."),
-    (3, None,
-     "'What then? Nothing serious?' Gabriel hopes there is no crisis at the agency. "
-     "The phrase 'rien de grave' asks whether anything bad happened."),
-    (4, None,
-     "'No, but it is very delicate.' Hervé tries to soften the news before speaking. "
-     "The adjective 'delicat' describes a sensitive matter."),
-    (5, None,
-     "'Come on, speak, I am listening to you!' Gabriel impatiently gestures for him to get to the point. "
-     "The imperative 'parlez' is the polite command form."),
-    (6, None,
-     "'I played a role in a movie.' Hervé finally reveals his appearance on the big screen. "
-     "The noun 'role' refers to a character part."),
-    (7, None,
-     "'I acted in a real movie!' Hervé emphasizes that it was a legitimate feature production. "
-     "The verb 'tourner' means to shoot or act in a film."),
-    (8, None,
-     "'The Donzelli movie? I know.' Gabriel immediately names the director without surprise. "
-     "The verb phrase 'je sais' means I know."),
-    (9, None,
-     "'Elise already told me.' Gabriel explains how the news reached him first. "
-     "The adverb 'deja' indicates that something already happened."),
-    (10, None,
-     "'What? That is not true!' Hervé is stunned that his confidence was betrayed. "
-     "The negative clause 'ce n'est pas vrai' expresses disbelief."),
-    (11, None,
-     "'She was supposed to keep the secret!' Hervé complains that Elise promised not to tell. "
-     "The expression 'garder le secret' means to keep a secret."),
-    (12, None,
-     "'My God, you are so naive!' Gabriel teases Hervé for trusting a rival agency head. "
-     "The adjective 'naif' means gullible or innocent."),
-    (13, None,
-     "'You cannot trust anyone.' Hervé laments the lack of discretion in the film industry. "
-     "The phrase 'faire confiance' means to trust."),
+    (0, None, "'Gabriel, do you have a minute?' Herve approaches his boss with a hesitant expression. The formal 'you' pronoun sets a courteous, professional distance around 'have'."),
+    (1, None, "'Yes, what is going on?' Gabriel stops and gives his assistant his attention. Notice how the short vowel drops before a vowel sound around 'is happening', making the phrase flow smoothly as one unit."),
+    (2, None, "'I have something to confess to you.' Herve prepares to admit his secret acting job. The clause hinges on the everyday verb meaning 'have'."),
+    (3, None, "'What then? Nothing serious?' Gabriel hopes there is no crisis at the agency. The adverb meaning 'then' gives the reply its conversational emphasis."),
+    (4, None, "'No, but it is very delicate.' Herve tries to soften the news before speaking. The adverb meaning 'very' gives the reply its conversational emphasis."),
+    (5, None, "'Come on, speak, I am listening to you!' Gabriel impatiently gestures for him to get to the point. Gabriel uses the polite 'you' form alongside 'speak' to keep a respectful professional tone."),
+    (6, None, "'I played a role in a movie.' Herve finally reveals his appearance on the big screen. Notice how 'have' leads directly into the noun meaning 'role'."),
+    (7, None, "'I acted in a real movie!' Herve emphasizes that it was a legitimate feature production. This conversational past tense combines a helper verb with the past verb form for 'have'."),
+    (8, None, "'The Donzelli movie? I know.' Gabriel immediately names the director without surprise. Notice how 'know' leads directly into the noun meaning 'movie'."),
+    (9, None, "'Elise already told me.' Gabriel explains how the news reached him first. The short 'self' word sits right in front of the verb for 'has', turning the action back onto the subject."),
+    (10, None, "'What? That is not true!' Herve is stunned that his confidence was betrayed. A short, idiomatic conversational reply that keeps the exchange moving naturally."),
+    (11, None, "'She was supposed to keep the secret!' Herve complains that Elise promised not to tell. The verb meaning 'was supposed to' pairs naturally with the noun for 'secret' in everyday conversation."),
+    (12, None, "'My God, you are so naive!' Gabriel teases Herve for trusting a rival agency head. The formal 'you' pronoun sets a courteous, professional distance around 'God'."),
+    (13, None, "'You cannot trust anyone.' Herve laments the lack of discretion in the film industry. The two-part French negation brackets the verb for 'can' on both sides."),
 ]
-
-OUTRO = (
-    "Hervé realizes to his dismay that his secret acting debut is already common knowledge at ASK. "
-    "Gabriel laughs off his assistant's naivety before heading back to his office. "
-    "Now let's listen to the scene one last time."
-)
-
-CLOSING = ("gabriel", "Revenez au travail!")
