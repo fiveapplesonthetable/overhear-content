@@ -151,6 +151,9 @@ if __name__ == "__main__":
     for f in SHOW_FIELDS:
         if hasattr(mod, f): spec[f.lower()] = getattr(mod, f)
     spec["source"]["file"] = str(mod.SOURCE_FILE)
+    m = re.fullmatch(r"([a-z-]+)-s(\d\d)e(\d\d)-scene-(\d\d)", mod.ID)      # show/season/episode/scene come from the id
+    if m: spec.update(show=m[1], season=int(m[2]), episode=int(m[3]), scene=int(m[4]))
+    spec = {"schemaVersion": 1, **spec}                                    # spec/schema/script.schema.json
     if problems:
         print("PROBLEMS:\n  " + "\n  ".join(problems))
         sys.exit(1)

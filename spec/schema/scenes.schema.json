@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://overhear.invalid/schema/scenes.v1.json",
+  "title": "scenes.json (episode scene breakdown)",
+  "description": "out/<show>/sNNeNN/scenes.json. See spec/scenes-format.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "show",
+    "season",
+    "episode",
+    "title",
+    "scenes"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1,
+      "description": "Schema version of this file format. Bump only when the schema changes incompatibly."
+    },
+    "show": {
+      "enum": [
+        "kukhnya",
+        "domashniy-arest",
+        "dix-pour-cent"
+      ]
+    },
+    "season": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "episode": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "title": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Official episode title or null. No bilingual double-space form."
+    },
+    "scenes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "scene",
+          "start",
+          "end",
+          "title",
+          "summary",
+          "characters",
+          "location",
+          "merge"
+        ],
+        "properties": {
+          "scene": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "start": {
+            "type": "string",
+            "pattern": "^\\d\\d:\\d\\d:\\d\\d,\\d\\d\\d$"
+          },
+          "end": {
+            "type": "string",
+            "pattern": "^\\d\\d:\\d\\d:\\d\\d,\\d\\d\\d$"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^\\S(?:(?:\\S| (?! ))*\\S)?$",
+            "description": "English working title, one language only: no '  (' bilingual form, no double spaces."
+          },
+          "summary": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "^\\S(?:(?:\\S| (?! ))*\\S)?$",
+            "description": "One English line saying what happens. No placeholder text, no double spaces."
+          },
+          "characters": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "location": {
+            "type": "string",
+            "minLength": 1
+          },
+          "merge": {
+            "enum": [
+              null,
+              "prev",
+              "next"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://overhear.invalid/schema/script.v1.json",
+  "title": "scene-NN.json (scene script)",
+  "description": "out/<show>/sNNeNN/scene-NN.json. See spec/script-format.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "id",
+    "pair",
+    "show",
+    "season",
+    "episode",
+    "scene",
+    "title",
+    "level",
+    "voices",
+    "labels",
+    "segments",
+    "source"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1,
+      "description": "Schema version of this file format. Bump only when the schema changes incompatibly."
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^(kukhnya|domashniy-arest|dix-pour-cent)-s\\d\\de\\d\\d-scene-\\d\\d$",
+      "description": "<show>-sNNeNN-scene-NN; never changes once published."
+    },
+    "pair": {
+      "enum": [
+        "ru-en",
+        "fr-en"
+      ]
+    },
+    "show": {
+      "enum": [
+        "kukhnya",
+        "domashniy-arest",
+        "dix-pour-cent"
+      ]
+    },
+    "season": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "episode": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "scene": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "title": {
+      "type": "string",
+      "pattern": "^\\S(?:(?:\\S| (?! ))*\\S)?  \\(\\S(?:(?:\\S| (?! ))*\\S)?\\)$",
+      "description": "<target title>  (<English title>): exactly two spaces before the bracket, no other double spaces, no leading/trailing space."
+    },
+    "level": {
+      "enum": [
+        "A1 — Duolingo Section 2",
+        "A1 — débutant"
+      ]
+    },
+    "voices": {
+      "type": "object",
+      "minProperties": 2,
+      "propertyNames": {
+        "pattern": "^[a-z][a-z0-9_]*$"
+      },
+      "additionalProperties": {
+        "enum": [
+          "sky",
+          "alisa",
+          "anja",
+          "angelina",
+          "lucie",
+          "emilie",
+          "theo",
+          "marcel"
+        ]
+      }
+    },
+    "labels": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "segments": {
+      "type": "array",
+      "minItems": 20,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "v",
+          "t",
+          "gap"
+        ],
+        "properties": {
+          "v": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_]*$"
+          },
+          "t": {
+            "type": "string",
+            "minLength": 1
+          },
+          "gap": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 3
+          }
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "show",
+        "file",
+        "lines"
+      ],
+      "properties": {
+        "show": {
+          "type": "string",
+          "minLength": 1
+        },
+        "file": {
+          "type": "string",
+          "pattern": "^sources/[a-z-]+/s\\d\\d/e\\d\\d\\.(ru|fr)(\\.dual)?\\.srt$"
+        },
+        "lines": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "line",
+              "cue",
+              "fragment"
+            ],
+            "properties": {
+              "line": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "cue": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "fragment": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

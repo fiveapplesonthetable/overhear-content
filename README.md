@@ -1,5 +1,8 @@
 # overhear-content: brief for the content agent
 
+> **Latest review: read FEEDBACK.md first.** It lists what must change in the existing output (with counts and the exact
+> expected form), the new rules, and the command that has to print `OK`.
+
 You are making the story content for **Overhear**, an app that teaches Russian and French by turning scenes of TV shows
 into short narrated listening stories. You have **no app code and no other context**: this repository is everything.
 Work through it all day without asking questions; where something is ambiguous, pick the reading that follows the rules
@@ -11,7 +14,7 @@ a script, annotations and one picture:
 
 | show | slug | language | sidecars in `sources/` |
 |---|---|---|---|
-| Кухня (Kukhnya) | `kukhnya` | ru | S1 e01-20, S2 e01-03 dual; S2 e04-S6 e20 Russian only (see `sources/INDEX.md`) |
+| Кухня (Kukhnya) | `kukhnya` | ru | S1 e01-20, S2 e01-03 dual; S2 e04-S6 e20 Russian only, `eNN.ru.srt` (see `sources/INDEX.md`) |
 | Dix pour cent (Call My Agent!) | `dix-pour-cent` | fr | S1-S4, 6 episodes each |
 | Домашний арест (Domashniy Arest) | `domashniy-arest` | ru | S1 e01-12 |
 
@@ -26,7 +29,7 @@ The narrator speaks **English only**, calm, no hype. Target-language text must r
 ## What is where
 | path | what |
 |---|---|
-| `sources/<show>/sNN/eNN.<lang>.dual.srt` | the subtitles: for each cue the original line, then its English. Copyrighted show material, input only. |
+| `sources/<show>/sNN/eNN.<lang>.dual.srt` or `eNN.ru.srt` | the subtitles: `dual` = for each cue the original line, then its English; `eNN.ru.srt` = Russian only (Whisper transcript, may contain recognition errors; Kukhnya S2 e04 - S6 e20). Copyrighted show material, input only. |
 | `sources/INDEX.md` | coverage, cue counts, running time per episode |
 | `spec/recipe.md` | cast, voices, level, tone, 5 parts, gaps, text rules |
 | `spec/script-format.md` | `scene-NN.json` field by field |
@@ -34,6 +37,7 @@ The narrator speaks **English only**, calm, no hype. Target-language text must r
 | `spec/annotations.md` | `scene-NN.notes.json`: translations, word notes, lemma, POS, stress, meanings, forms |
 | `art/style/` | house style, reusable prompt (`STYLE.md`), 9 reference pictures, SVG sources |
 | `examples/` | three finished models: `kukhnya-s01e02-knife`, `kukhnya-s01e05-orders`, `dix-pour-cent-s04e01-agence` (each: `scene.json`, `authoring.py`, `REVIEW.md`, `art.webp`, `sample.mp3` (a low-bitrate sample of how it sounds); the knife one also has `scene.notes.json`, an excerpt of the annotation format). Read them before starting. |
+| `spec/schema/*.schema.json` | JSON Schemas (draft 2020-12, versioned by `schemaVersion`) for `scenes.json`, `scene-NN.json`, `scene-NN.notes.json`; `validate.py` enforces them |
 | `tools/validate.py` | the checker (stdlib only) |
 | `tools/compose.py` | authoring module -> `scene-NN.json` with correct gaps + `REVIEW.md` |
 | `tools/gaps.py` | lists silences between cues to find scene breaks |
@@ -46,15 +50,17 @@ The narrator speaks **English only**, calm, no hype. Target-language text must r
 2. Dix pour cent S1, e01 -> e06.
 3. Domashniy Arest S1, e01 -> e12.
 4. Kukhnya S2 e01-03, then Dix pour cent S2, S3, S4.
-5. Kukhnya S2 e04 -> S6 e20 last. These are `eNN.ru.srt` (Russian only, machine transcribed, no English yet). Do them
-   only after everything above, and prefer waiting: when an `eNN.ru.dual.srt` appears next to one, use that instead.
-   If you do work from a Russian-only file, translate it yourself for your own understanding, and note in
-   `out/kukhnya/NOTES.md` that the transcript may have recognition errors.
+5. Kukhnya S2 e04 -> S6 e20 last. These are `eNN.ru.srt`: Russian only, machine transcribed (Whisper), complete for every
+   episode; **no English dual subtitles are coming, so do not wait for them**. Do them only after everything above, in
+   order, working from the Russian-only file: translate it yourself for your own understanding, and in
+   `out/kukhnya/NOTES.md` note that the transcript may have recognition errors (and list any line you suspected was
+   misheard and how you read it). Where a cue looks garbled, prefer a line you are sure of or leave it out. If an
+   `eNN.ru.dual.srt` ever does appear next to one, use that instead.
 
 Finish an episode completely (all scenes, notes, art, validated, pushed) before starting the next.
 
 ## Workflow for one episode (`<show>`, `sNNeNN`)
-1. **Read the subtitles** in `sources/<show>/sNN/eNN.<lang>.dual.srt` (skim all of it; you need the plot). Read the
+1. **Read the subtitles** in `sources/<show>/sNN/eNN.<lang>.dual.srt` (or `eNN.ru.srt` for the Russian-only Kukhnya episodes; skim all of it; you need the plot). Read the
    previous episode's `scenes.json`/`NOTES.md` and `out/<show>/characters.md` for continuity.
 2. **Break it into scenes.** Run `python3 tools/gaps.py <srt>` to list silences, then read the lines around each gap.
    Split on **time gaps, a change of who is speaking or present, and a change of location**. Capture **every** scene,
@@ -108,4 +114,10 @@ out/
 - Don't invent plot: the story must match what happens in that stretch of the episode. Don't quote long runs of
   dialogue: short lines only.
 - Never output audio; never edit `examples/`, `sources/`, `tools/`, `spec/`; never commit secrets or credentials.
-- Run the validator before every push.
+- Every JSON file you write carries `"schemaVersion": 1` and follows `spec/schema/` exactly (no extra fields, no renamed
+  fields). `compose.py` writes it for scripts; you add it to `scenes.json` and `scene-NN.notes.json`.
+- Scene ids and filenames are stable: once published, `<show>-sNNeNN-scene-NN` never changes meaning. Editing a published
+  scene in place is fine (and expected when FEEDBACK.md asks for it); renumbering scenes is not.
+- The last segment of a script is a short new farewell (`Пока!`, `À bientôt!`), never a repeat of a story line.
+- A character keeps one voice for the whole show; every role key is listed in `characters.md`.
+- Run the validator before every push: `python3 -I tools/validate.py out --require-notes` must print `OK`.
