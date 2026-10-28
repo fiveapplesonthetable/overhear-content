@@ -4,7 +4,7 @@ Title: Приёмчик губернатора  (The Governor's Trick)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.07
-Cues 240–284 (00:11:58–00:13:11). Outside Marina's door in the communal flat corridor, Arkady begs Ilona to help him break up Marina and Eduard Valentinovich. For the three-role limit, Marina's brief replies inside the room in cues 275–276, 279, and 284 are narrated in WALK and echoed by Eduard, while Arkady, Ilona, and Eduard Valentinovich hold the three voices. Crude 'старый урод' (245) and Arkady's slip in 246–247 are cleaned up to 'Этот старик крадёт у девушки лучшие годы', ASR 'Это мне губернатор научил' (271) is restored to 'Это меня губернатор научил', Eduard's pill in 277–279 is retold cleanly ('принял одну таблетку ... буду как молодой герой'), and ASR hallucinations 'Иду, Артём Юрьевич. Кардаконов.' (281–282, over the sound of Arkady crashing down the stairs) are omitted.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -22,10 +22,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Илона | Фу, отдай ноги, говорю! Всё, хватит, стоп! Я согласна. | Ugh, give me my feet back, I say! That's it, enough, stop! I agree. | #260 00:12:29: Фу<br>#262 00:12:31: Отдай ноги, говорю<br>#265 00:12:33: Все, хватит, стоп | adapted: 'Я согласна' from 266-268 'Согласилась? Хватит, да' |
 | 11 | Аня | Ура, работает приёмчик! Это меня губернатор научил. | Hooray, the little trick works! The governor taught me this. | #269 00:12:38: Работает приемчик<br>#271 00:12:41: губернатор научил | adapted: ASR 'Это мне губернатор научил' -> 'Это меня губернатор научил' |
 | 12 | Аня | Он так каждый раз президента просит. Чтобы его с работы не сняли. | He begs the president like that every time. So that they don't fire him from his job. | #272 00:12:44: Он каждый раз так президента | adapted: 'уговаривает его с должности не снимать' split and simplified for A1 |
-| 13 | Эдуард Валентинович | Марина, иди ко мне! Я сегодня принял одну таблетку. | Marina, come to me! I took a pill today. | #274 00:12:49: Иди ко мне<br>#277 00:12:54: я сегодня принял | adapted: diminutive 'таблеточку' -> 'таблетку' |
-| 14 | Эдуард Валентинович | Так что сегодня я буду как молодой герой! | So today I will be like a young hero! | #277 00:12:54: так что я сегодня буду | adapted: 'Просто Казанова' (278) simplified to A1 'как молодой герой' |
-| 15 | Эдуард Валентинович | Давление? Ничего, от тебя у меня просто кружится голова. | Blood pressure? It's nothing, you just make my head spin. | #279 00:12:59: давление<br>#280 00:13:01: А от тебя | adapted: echoes Marina's warning in 279; 'головокружение' (280) -> 'кружится голова' (A1) |
-| 16 | Эдуард Валентинович | Ой, что это там за шум? Я не знаю, пойдём посмотрим. | Oh, what is that noise out there? I don't know, let's go look. | #283 00:13:06: Что это<br>#284 00:13:11: Я не знаю | adapted: adds context for the loud crash on the stairs in 281-283 |
+| 13 | Эдуард Владимирович | Марина, иди ко мне! Я сегодня принял одну таблетку. | Marina, come to me! I took a pill today. | #274 00:12:49: Иди ко мне<br>#277 00:12:54: я сегодня принял | adapted: diminutive 'таблеточку' -> 'таблетку' |
+| 14 | Эдуард Владимирович | Так что сегодня я буду как молодой герой! | So today I will be like a young hero! | #277 00:12:54: так что я сегодня буду | adapted: 'Просто Казанова' (278) simplified to A1 'как молодой герой' |
+| 15 | Эдуард Владимирович | Давление? Ничего, от тебя у меня просто кружится голова. | Blood pressure? It's nothing, you just make my head spin. | #279 00:12:59: давление<br>#280 00:13:01: А от тебя | adapted: echoes Marina's warning in 279; 'головокружение' (280) -> 'кружится голова' (A1) |
+| 16 | Эдуард Владимирович | Ой, что это там за шум? Я не знаю, пойдём посмотрим. | Oh, what is that noise out there? I don't know, let's go look. | #283 00:13:06: Что это<br>#284 00:13:11: Я не знаю | adapted: adds context for the loud crash on the stairs in 281-283 |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -48,7 +48,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Ugh, give me my feet back, I say!' Ilona tries to shake him off her boots.
 - 'That's it, enough, stop! I agree.' Exhausted by his shameless antics, Ilona finally surrenders.
 - 'Hooray, the little trick works!' Arkady jumps up with a victorious grin.
-- 'The governor taught me this.' Notice that in Russian you teach someone in the accusative case.
+- 'The governor taught me this.' Notice that in Russian you teach someone in the direct-object form.
 - 'He begs the president like that every time.' Arkady explains that the governor uses this trick to keep his post.
 - 'So that they don't fire him from his job.' The conjunction introduces a clause of purpose.
 - 'Marina, come to me!' Inside the room, Eduard tries to entice Marina into bed.

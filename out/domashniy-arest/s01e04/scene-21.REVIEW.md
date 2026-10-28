@@ -4,7 +4,7 @@ Title: Задание для адвоката  (A Task for the Lawyer)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.04
-Cues 825-851. In cue 828 'мордатый' is dropped and 'лисицын' capitalised as the surname 'Лисицын'; 'пододвигай' (832) -> 'двигай'; 'Прониктоненно' (834) dropped. Cue 835 ('А я мне мерзость', garbled for 'А по-моему, это мерзость') is retold cleanly with A1 'гадость' and 'Я не буду давать взятку'. '150' in cue 842 is written out as 'сто пятьдесят'. Cue 844 ('Пользуйтесь, мой слабый') is restored to 'Вы пользуетесь моей слабостью!'; cues 848-851 (Samson and Nina leaving in the background) are covered by Scene 22.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -27,10 +27,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Danila, let's go. Look, there's nothing complicated.' After 'nothing', the adjective takes the genitive ending: 'nothing of complicated'.
-- 'There at the cemetery is the main entrance.' After 'at', the word for 'cemetery' is in the prepositional case.
+- 'Danila, let's go. Look, there's nothing complicated.' After 'nothing', the adjective takes the 'of'-form ending: 'nothing of complicated'.
+- 'There at the cemetery is the main entrance.' After 'at', the word for 'cemetery' is in the location form.
 - 'You go in and turn straight left, to the administrator. A fellow named Lisitsyn sits there.' Russian uses the present tense 'you go in' to give step-by-step directions, just like English.
-- 'He'll tell you rudely right away: there are no plots, go away.' With 'there are no', the word for 'places' takes the genitive plural, which has no ending at all.
+- 'He'll tell you rudely right away: there are no plots, go away.' With 'there are no', the word for 'places' takes the plural 'of' form, which has no ending at all.
 - 'And you say: where am I supposed to go? Understand?' That helpless question is the signal that you are ready to pay.
 - 'And slide the envelope over to him yourself. And above all, look him in the eyes.' Literally, 'and yourself move the envelope to him'. Honest Golovkin is horrified.
 - 'In my opinion, this is disgusting! I won't pay a bribe.' Literally, 'to give a bribe'. Arkady doesn't argue; he simply pulls the lever he has over the lovesick lawyer.
@@ -38,6 +38,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And you'll never see your Nina again!' Because Golovkin only comes to the flat to catch a glimpse of his childhood sweetheart Nina, he caves in within half a second.
 - 'I agree! I agree!' The short masculine form matches a male speaker. Arkady doesn't miss a beat.
 - 'Then listen. There must be a hundred and fifty thousand in the envelope.' And of course, since Arkady has no money, Golovkin has to pay that out of his own pocket too.
-- 'You're taking advantage of my weakness!' The verb for 'making use of' takes the instrumental case: 'with my weakness'. Arkady grins.
+- 'You're taking advantage of my weakness!' The verb for 'making use of' takes the 'with/as' form: 'with my weakness'. Arkady grins.
 - 'Of course I am. It's blackmail.' He admits it cheerfully.
 - 'Come on, Danya, go. Get to work!' The last command literally means 'act!' or 'take action!'.

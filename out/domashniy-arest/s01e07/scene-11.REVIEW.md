@@ -1,10 +1,10 @@
 # domashniy-arest-s01e07-scene-11: review sheet
 
 Title: Мэр на коленях  (Mayor on His Knees)
-Level: beginner
+Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест, Сезон 1, Эпизод 7
-Cues 444-482 (00:20:25-00:21:53). Arkady and Ilona try to get a fake cast from a trauma doctor.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -38,7 +38,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And I will immediately make you the chief doctor of this hospital!' Arkady promises a promotion.
 - 'You are offering me a bribe too, aren't you?' The doctor is outraged when Ilona pulls out cash.
 - 'This is just gratitude. Twenty thousand.' Ilona offers twenty thousand rubles on the desk.
-- 'Please leave the office!' The formal imperative tells them to get out at once.
+- 'Please leave the office!' The formal command tells them to get out at once.
 - 'I beg you, Doctor! This is all for the sake of love!' Arkady pleads for sympathy.
 - 'Look, the mayor is standing on his knees!' Arkady drops to the floor in front of the doctor.
 - 'Stop this performance!' Literally, put an end to this theatrical show.

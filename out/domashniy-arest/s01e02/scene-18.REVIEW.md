@@ -4,30 +4,30 @@ Title: Губернатор не поможет  (The Governor Won't Help)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Arkady is `anya` (label Аркадий); the governor speaks (`governor`, label Виктор Степанович). The judo coach, the secretary who puts the second call through and the aide are not voiced. The governor's crude lines (548, 551, 576, 584, 591, 595) are retold cleanly or left out; Arkady's self-insults (570-571) and the sewage (583) are told by the narrator. Merged scenes 19 (the staged judo photo) and 20 (Slavik calls a friend on the iPhone) are told in the OUTRO.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Виктор Степанович, Аникеев беспокоит. | Viktor Stepanovich, it's Anikeev calling. | #539 00:30:35: Виктор Степанович, Аникеев беспокоит | adapted: 'вас' dropped |
-| 2 | Виктор Степанович | Ой, какие люди! Ну, Аркаша, как дела? | Well, look who it is! So, Arkasha, how are things? | #540 00:30:43: Ой, какие люди<br>#541 00:30:44: Ну, Аркаша, как дела | verbatim |
+| 2 | Губернатор | Ой, какие люди! Ну, Аркаша, как дела? | Well, look who it is! So, Arkasha, how are things? | #540 00:30:43: Ой, какие люди<br>#541 00:30:44: Ну, Аркаша, как дела | verbatim |
 | 3 | Аня | Плохо. Очень плохо, Виктор Степанович. | Bad. Very bad, Viktor Stepanovich. | #542 00:30:47: Плохо<br>#543 00:30:49: очень плохо, Виктор Степанович | adapted: 'К сожалению' (unfortunately) dropped |
-| 4 | Виктор Степанович | Я знаю. А зачем ты мне звонишь? | I know. So why are you calling me? | #544 00:30:50: Я знаю | adapted: second sentence: plain version of cue 545 'А мне-то чего звонишь?' |
+| 4 | Губернатор | Я знаю. А зачем ты мне звонишь? | I know. So why are you calling me? | #544 00:30:50: Я знаю | adapted: second sentence: plain version of cue 545 'А мне-то чего звонишь?' |
 | 5 | Аня | Мне очень нужна ваша помощь. | I really need your help. | #546 00:30:55: Мне очень | adapted: cue 546 'Мне очень помощь ваша нужна' in standard word order |
-| 6 | Виктор Степанович | Как интересно! А в Москве ты про меня гадости рассказываешь. | How interesting! And in Moscow you go around saying nasty things about me. | #547 00:30:56: как интересно<br>#549 00:31:01: про меня<br>#549 00:31:01: гадости рассказываешь | adapted: 'всякие' dropped; the crude insults of cues 548 and 551 left out |
-| 7 | Виктор Степанович | Я знаю, как я у тебя в телефоне записан. Свин. | I know what I'm saved as in your phone. 'Pig'. | #552 00:31:10: Я знаю, как я у тебя в телефоне записан<br>#553 00:31:13: Свин | verbatim |
+| 6 | Губернатор | Как интересно! А в Москве ты про меня гадости рассказываешь. | How interesting! And in Moscow you go around saying nasty things about me. | #547 00:30:56: как интересно<br>#549 00:31:01: про меня<br>#549 00:31:01: гадости рассказываешь | adapted: 'всякие' dropped; the crude insults of cues 548 and 551 left out |
+| 7 | Губернатор | Я знаю, как я у тебя в телефоне записан. Свин. | I know what I'm saved as in your phone. 'Pig'. | #552 00:31:10: Я знаю, как я у тебя в телефоне записан<br>#553 00:31:13: Свин | verbatim |
 | 8 | Аня | Это неправда! Вы у меня записаны как Батя. | That's not true! I have you saved as 'Dad'. | #557 00:31:20: Вы у меня<br>#557 00:31:20: записаны | adapted: 'Это неправда' replaces 'это поклёп' (slander, garbled 'поклёб' in cues 555-556); 'как' added |
-| 9 | Виктор Степанович | Мне некогда. | I haven't got time. | #560 00:31:25: Мне некогда | verbatim |
+| 9 | Губернатор | Мне некогда. | I haven't got time. | #560 00:31:25: Мне некогда | verbatim |
 | 10 | Аня | Не бросайте трубку, умоляю вас! Я перед вами стою на коленях. | Don't hang up, I'm begging you! I'm on my knees in front of you. | #568 00:31:44: не бросайте трубку, умоляю вас<br>#569 00:31:48: перед вами стою на коленях | adapted: Arkady calls back after being cut off (cues 561-567) |
 | 11 | Аня | Простите меня. Вы самый эффективный! | Forgive me. You're the most effective of all! | #570 00:31:53: простите меня<br>#573 00:32:04: Вы самый эффективный | adapted: the self-insults of cues 570-571 left out |
-| 12 | Виктор Степанович | Ну всё. Что ты хочешь? | All right, that's enough. What do you want? | #576 00:32:08: Ну все<br>#577 00:32:11: хочешь | adapted: 'Чего хочешь?' -> 'Что ты хочешь?' (standard) |
+| 12 | Губернатор | Ну всё. Что ты хочешь? | All right, that's enough. What do you want? | #576 00:32:08: Ну все<br>#577 00:32:11: хочешь | adapted: 'Чего хочешь?' -> 'Что ты хочешь?' (standard) |
 | 13 | Аня | Меня жена бросила. Два пальца сломаны. | My wife has left me. Two of my fingers are broken. | #581 00:32:18: Меня жена бросила<br>#582 00:32:20: два пальца сломаны | verbatim |
-| 14 | Виктор Степанович | Правильно. | Serves you right. | #584 00:32:27: Правильно | adapted: the rest of cue 584 left out |
+| 14 | Губернатор | Правильно. | Serves you right. | #584 00:32:27: Правильно | adapted: the rest of cue 584 left out |
 | 15 | Аня | Помогите мне! Я в долгу не останусь. | Help me! I'll pay you back, I promise. | #587 00:32:34: Я в долгу не останусь | adapted: 'Помогите мне!' new: plain version of cue 586 (get me out of here) |
-| 16 | Виктор Степанович | Ты у Третьякова под личным контролем. | You're under Tretyakov's personal control. | #590 00:32:42: Ты у Третьякова под личным контролем | verbatim |
+| 16 | Губернатор | Ты у Третьякова под личным контролем. | You're under Tretyakov's personal control. | #590 00:32:42: Ты у Третьякова под личным контролем | verbatim |
 | 17 | Аня | А может быть, вы ему сами позвоните? | But maybe you could call him yourself? | #593 00:32:53: а может быть, вы ему сами | adapted: 'наберёте' -> 'позвоните' (plain word) |
-| 18 | Виктор Степанович | Позвонить Третьякову? Я что, с ума сошёл? | Call Tretyakov? What, have I lost my mind? | #594 00:32:56: Позвонить Третьякову<br>#594 00:32:56: Я что, с ума | adapted: 'что ли' dropped |
+| 18 | Губернатор | Позвонить Третьякову? Я что, с ума сошёл? | Call Tretyakov? What, have I lost my mind? | #594 00:32:56: Позвонить Третьякову<br>#594 00:32:56: Я что, с ума | adapted: 'что ли' dropped |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

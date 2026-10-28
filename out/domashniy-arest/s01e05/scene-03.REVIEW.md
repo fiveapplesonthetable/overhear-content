@@ -4,7 +4,7 @@ Title: Трезвый водитель  (The Sober Driver)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.05
-Cues 83-145. Crude words ('рожа' in 96-97, 'лапать' in 107, 'шлюхой' in 110, 'уроды конченые' in 127) and the English phrase 'Take your time' in 145 are cleaned up or omitted; Ilona's brief greeting (142) is folded into narrator context.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -36,18 +36,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'As if you don't remember last night?' Nina asks sceptically, assuming he knows what he did.
 - 'I don't remember.' As soon as Arkady hears those three words, his eyes light up and he cuts Nina off.
 - 'Nina is joking! Everything was super! Everything was very good!' Notice that 'everything was' uses the neuter past tense.
-- 'You, Vanya, didn't do anything bad.' Literally 'nothing bad', with 'bad' in the genitive singular after 'nothing'.
-- 'Then why is my face beaten up?' Literally 'by me then face is beaten', using the short passive participle in the neuter form to match 'face'.
+- 'You, Vanya, didn't do anything bad.' Literally 'nothing bad', with 'bad' in the 'of' form singular after 'nothing'.
+- 'Then why is my face beaten up?' Literally 'by me then face is beaten', using the short passive form in the neuter form to match 'face'.
 - 'Your face is beaten up, Vanya!' Arkady repeats Samson's words to buy a second to think.
-- 'You stopped hooligans in the restaurant!' Because 'hooligans' is an animate plural noun, its accusative direct object ending matches the genitive plural.
-- 'They were pestering Nina.' The verb 'to pester' or 'to bother' takes the preposition 'to' with the dative case.
+- 'You stopped hooligans in the restaurant!' Because 'hooligans' is an animate plural noun, its object-form direct object ending matches the plural 'of' form.
+- 'They were pestering Nina.' The verb 'to pester' or 'to bother' takes the preposition 'to' with the 'to/for' form.
 - 'Nina, come on, tell him!' Arkady nudges Nina to back up his story.
-- 'We were dancing. First they were rude and insulting over there.' Both verbs are imperfective past plural, setting the scene.
+- 'We were dancing. First they were rude and insulting over there.' Both verbs are ongoing-action form plural, setting the scene.
 - 'And when you came running, you sorted everything out!' The prefix on 'ran' adds the meaning of 'arriving by running', and 'decided everything' means 'settled the whole thing'.
 - 'Then the police arrived.' That sparks a faint memory in Samson's head.
-- 'That's right, the police were there! And what about the car?' Literally 'and what with the car?', using the instrumental case.
+- 'That's right, the police were there! And what about the car?' Literally 'and what with the car?', using the 'with/as' form.
 - 'Everything is fine with the car, Vanya!' Arkady doesn't blink.
-- 'There wasn't a single scratch on it.' With 'was not', the thing that was absent goes into the genitive case: 'not one scratch'.
+- 'There wasn't a single scratch on it.' With 'was not', the thing that was absent goes into the 'of' form: 'not one scratch'.
 - 'You don't remember anything, after all.' The particle reminds Samson of what he just admitted.
 - 'You called a sober driver!' In Russian cities, a 'sober driver' is a service where a professional driver comes to drive you home in your own car.
 - 'Thank goodness!' Literally 'glory to God!'

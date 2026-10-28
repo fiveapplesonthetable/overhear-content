@@ -4,7 +4,7 @@ Title: Вы сегодня самый настоящий мэр  (You're a Real 
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.06
-Cues 975-1035. 'оказался не такой отвратительный' (975) -> A1 'не такой плохой'; cue 989 cleaned up ('на меня упал мусор с ветки'); 'с вашим тортиком средней паршивости' (993) -> 'с тортом'; garbled 'Ливайте' (1000) -> 'Наливайте'; 'придомовую территорию' (1007) -> 'двор наш'; 'мать-одиночку' (1008) -> 'одинокую маму'; 'стоп' (1012) -> 'ног'; ASR 'Алина' (1020) -> 'Марина'; 'из Иванушек... на гастроли' (1021-1024) simplified to A1 'певца! Они приезжали к нам на концерт'; crude 'мразота' (1030) -> 'подлец'; ASR 'чужой металл' (1032) -> 'тяжёлый металл'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -35,13 +35,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'May I have another slice? And can I drink the champagne?' Still in tears after discovering that her lover Edik lied about divorcing his wife, Marina waves her hand.
 - 'Take it and go. I want to be alone.' Notice the feminine word for 'alone' at the end. Arkady spots the bouquet of flowers Edik brought her.
 - 'Very bad flowers. Klavdia Viktorovna will pick them up.' He tosses Edik's flowers straight out into the corridor, and sits down to tell Marina about his own terrible afternoon.
-- 'You know, Marina, I nearly got killed today.' The two words before the verb mean 'almost' or 'nearly', and the reflexive verb means 'smashed himself up' from falling out the window.
+- 'You know, Marina, I nearly got killed today.' The two words before the verb mean 'almost' or 'nearly', and This phrase means 'smashed himself up' from falling out the window.
 - 'And then rubbish fell on me from a branch.' Remember he was trying to knock down the litter stuck on the tree outside Klavdia Viktorovna's window.
 - 'Awful. Why are you telling me this?' Arkady answers with unexpected warmth.
 - 'Because you and your cake lifted my spirits.' Literally, 'raised mood to me'.
 - 'And now I simply must lift yours.' The short adjective means 'obliged' or 'bound to'. He pops open the bottle of champagne, and Marina holds out her glass.
 - 'Pour it. You're a real mayor today!' Literally, 'the most real mayor'. She counts off his good deeds on her fingers.
-- 'You helped a pensioner and cleared our yard.' After 'helped', 'pensioner' takes the dative ending.
+- 'You helped a pensioner and cleared our yard.' After 'helped', 'pensioner' takes the 'to/for' ending.
 - 'And now you're consoling a single mother.' Arkady laughs and adds one more indignity from his day.
 - 'And Klavdia Viktorovna ordered me to give her a foot massage!' In the show he jokes that the skin on Klavdia's feet is as thick as a hobbit's. Then he changes the subject.
 - 'Marina, tell me, who does your boy get that red hair from?' Literally, 'into whom is your boy so red-haired?' — the Russian idiom for whom a child takes after. Marina keeps a completely straight face.

@@ -4,7 +4,7 @@ Title: Жучок работает!  (The Bug Works!)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.03
-Cues 1022-1042 (flashback to the communal flat before the court session, then cut to the listening post). Because of the three-role limit (Arkady, Marina, Zavarzin), old Klavdia's question to the little dog (cue 1038) is narrated, and Major Lavrov's permission to order pizza (cues 1041-1042) is folded into Zavarzin's role. Subtitle typos 'Разведите' (1024) and 'разовяжу' (1025) are corrected to 'Развяжите' and 'развяжу'; 'затек совсем' (1027) is simplified to 'я устал сидеть'; 'бабка' (1040) is softened to 'старушка'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -20,17 +20,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Аня | Ой! | Ouch! | #1034 00:55:32: Ой | verbatim |
 | 9 | Марина | У вас упало это. | You dropped this. | #1035 00:55:40: У вас упало это | adapted: she hands him the empty foil wrapper as a cover |
 | 10 | Аня | Да? Ну, я понял. | Really? Well, I see. | #1022 00:55:02: Да<br>#1037 00:55:46: Ну, я понял | verbatim |
-| 11 | Заварзин | О, заработала! | Oh, it's working! | #1039 00:56:39: О, заработала | adapted: at the listening post, the bug turns on when Klavdia walks into the room |
-| 12 | Заварзин | Ну вот! А ты говоришь — старушка! | There you go! And you called her an old lady! | #1040 00:56:42: Ну вот, а ты говоришь | adapted: 'бабка' -> 'старушка'; split into two short sentences |
-| 13 | Заварзин | Ладно, звони в свою пиццу. Заказывай! | All right, call your pizza place. Go ahead and order! | #1041 00:56:51: Ладно, звони в свою пиццу<br>#1042 00:56:52: Заказывай | adapted: Lavrov's reply folded into Zavarzin's role for the three-voice limit |
+| 11 | Марина | О, заработала! | Oh, it's working! | #1039 00:56:39: О, заработала | adapted: at the listening post, the bug turns on when Klavdia walks into the room |
+| 12 | Марина | Ну вот! А ты говоришь — старушка! | There you go! And you called her an old lady! | #1040 00:56:42: Ну вот, а ты говоришь | adapted: 'бабка' -> 'старушка'; split into two short sentences |
+| 13 | Марина | Ладно, звони в свою пиццу. Заказывай! | All right, call your pizza place. Go ahead and order! | #1041 00:56:51: Ладно, звони в свою пиццу<br>#1042 00:56:52: Заказывай | adapted: Lavrov's reply folded into Zavarzin's role for the three-voice limit |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Excuse me.' She uses the polite plural command form as she steps inside. Arkady is delighted to see anyone who can untie him.
 - 'Marina! Please untie me.' He also uses the polite plural command form with his neighbour. Marina steps behind his chair.
-- 'Let me untie you.' The first word, 'let's', followed by 'I will untie you' in the perfective future, is the natural Russian way to offer 'let me do that for you'.
-- 'I'll be very grateful to you.' The word for 'grateful' is in the short masculine form, because Arkady is a man, and 'to you' is in the dative case.
-- 'Because I'm tired of sitting.' The two small words at the start mean 'otherwise' or 'because', and 'got tired' is masculine past tense followed by the infinitive 'to sit'. Marina needs him not to turn around while she takes out the microphone.
+- 'Let me untie you.' The first word, 'let's', followed by 'I will untie you' in the future-tense form, is the natural Russian way to offer 'let me do that for you'.
+- 'I'll be very grateful to you.' The word for 'grateful' is in the short masculine form, because Arkady is a man, and 'to you' is in the 'to/for' form.
+- 'Because I'm tired of sitting.' The two small words at the start mean 'otherwise' or 'because', and 'got tired' is masculine past tense followed by the basic verb form 'to sit'. Marina needs him not to turn around while she takes out the microphone.
 - 'Just stay leaning back.' Literally, 'stay behind better', telling him to keep his back to her. Once his hands are free, he points down.
 - 'Oh, thank you! And my legs, my legs.' The word for 'legs' or 'feet' is plural here. Marina crouches down.
 - 'Just a moment, just a moment.' Repeating the word for 'now' means 'one second, coming right up'. While she is down there, she sticks the tiny bug onto the furniture.

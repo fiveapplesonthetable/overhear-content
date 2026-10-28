@@ -4,7 +4,7 @@ Title: Времени нет  (No Time for Elections)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Cues 263-287. Samson's 'поправишься?' (a hangover cure, i.e. a drink) -> 'как ты?'. Cue 278 ('А главам Зюк ждёт') is a mistranscription of 'А Головамзюк ждёт' (your boss Golovamzyuk is waiting) -> 'Тебя начальник ждёт'. Arkady says вы to Nina here, as in the source (ironic politeness); Nina says ты to him.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -35,17 +35,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Go on, tell her. Nina doesn't believe it.' The first word, a little pointing word, makes the order sound more urgent, like 'go on'. And Nina is ready to say so herself.
 - 'I don't believe it.' No 'I' is needed: the ending of the verb already says who. Then a scornful question.
 - 'What kind of mayor would he make?' Word for word, 'what kind of mayor out of him'. It's a handy pattern for doubting that someone is up to a job. Samson turns to Arkady for support.
-- 'Tell her I could become mayor.' Notice the word for 'mayor' gets an extra ending after the verb 'become'. Russians say you become 'as a mayor', using the instrumental case, the one that often means 'with' or 'as'. Arkady, too tired to argue, agrees.
+- 'Tell her I could become mayor.' Notice the word for 'mayor' gets an extra ending after the verb 'become'. Russians say you become 'as a mayor', using the 'with/as' form, the one that often means 'with' or 'as'. Arkady, too tired to argue, agrees.
 - 'He could, yes.' Three short words, and the 'yes' comes last, almost as an afterthought. Samson is delighted.
-- 'There you go! When do we start?' The verb has the ending for 'we', and it's a perfective verb, so it points to the future, even though it looks like a present tense. Arkady seems to have forgotten all about it.
+- 'There you go! When do we start?' The verb has the ending for 'we', and it's a single-action form, so it points to the future, even though it looks like a present tense. Arkady seems to have forgotten all about it.
 - 'Start what?' He simply repeats Samson's verb with the word for 'what' in front. Samson can't believe it.
 - 'What do you mean, what? The election!' The first two words are the classic way to say 'what do you mean?' when the answer seems obvious. Now Arkady has to explain.
 - 'Listen, Samson.' A very common way to start saying something the other person won't like. Then the bad news.
-- 'The plan works, but there's no time for it at all.' The word for 'time' changes its ending after 'there is no'; that's the genitive case, the one that means 'of'. Samson protests.
+- 'The plan works, but there's no time for it at all.' The word for 'time' changes its ending after 'there is no'; that's the 'of' form, the one that means 'of'. Samson protests.
 - 'What do you mean, no time? You came up with all this yourself!' The little word after 'you' adds a reproach, something like 'after all'. Arkady cuts him short.
 - 'That's it, the election is over. Your boss is waiting for you.' The boss is Nikolai Filippovich on the building site, the man Samson insulted and was told to apologise to. Samson is curious.
 - 'And what are you going to do?' The future here is built from 'will' plus the verb 'to do', just like English. Arkady has a plan of his own.
-- 'I need to call the governor. Give me a phone.' Literally, 'to me it is necessary to call'. The person who needs something goes into the dative case, and the governor, the one being called, is in the dative too. Samson asks the obvious question.
+- 'I need to call the governor. Give me a phone.' Literally, 'to me it is necessary to call'. The person who needs something goes into the 'to/for' form, and the governor, the one being called, is in the 'to/for' form too. Samson asks the obvious question.
 - 'And where's your iPhone?' Same word as in English, just spelled in Russian letters. Arkady explains, and tries his luck with Nina.
 - 'It's blocked.' The phone is masculine, so it's 'he' in Russian. The authorities have cut it off.
 - 'Ninochka, please let me use your phone to make a call.' Ninochka is a sweet, affectionate form of Nina, and he uses the polite form of 'give', laying on the charm. Nina isn't charmed.

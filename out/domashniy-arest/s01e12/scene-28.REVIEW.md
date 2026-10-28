@@ -4,7 +4,7 @@ Title: Всё за пост министра  (All for the Minister Post)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.12
-Cues 713-732. Arkady watches the money bags being loaded for the minister post; Viktor Stepanovich promises to make him the next governor.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is all of this only for the post of minister?' Interrogative question with demonstrative pronoun and prepositional purpose phrase.
-- 'And what did you think? Everything is serious there.' Conversational question followed by a short predicative clause.
-- 'Maybe it is worth bargaining a little?' Modal phrase governing an impersonal predicative and reflexive infinitive.
-- 'Arkasha, they never bargain in Moscow.' Direct address with locative prepositional phrase and negative reflexive present verb.
-- 'I will quickly win all this money back.' First person future perfective verb with manner adverb and demonstrative object.
-- 'The sum really seems enormous.' Nominative feminine subject with modal adverb and instrumental predicate adjective.
-- 'I decided to make you governor of the region.' Past perfective transitive verb with infinitive governing instrumental title.
-- 'Are you really speaking completely seriously?' Interrogative question with second person plural present verb and two manner adverbs.
-- 'You are a young and very promising leader.' Descriptive predicate noun phrase with two coordinated qualifying adjectives.
-- 'I will not give the region to strangers.' Negative future transitive verb with direct object and dative recipient phrase.
-- 'Load all the bags into the trunk quickly.' Imperative plural verb with comparative adverb and prepositional destination.
-- 'Viktor Stepanovich, huge thanks for your trust.' Polite gratitude formula with patronymic address and prepositional object.
-- 'That's it, relax, now you are under protection.' Interjection with imperative verb and prepositional state expression.
-- 'I will never let you down.' Negative future perfective transitive verb with temporal adverb and accusative pronoun.
+- 'Is all of this only for the post of minister?' Question word question with demonstrative pronoun and location purpose phrase.
+- 'And what did you think? Everything is serious there.' Conversational question followed by a short descriptive word clause.
+- 'Maybe it is worth bargaining a little?' Modal phrase governing an impersonal descriptive word and self-action verb form basic verb form.
+- 'Arkasha, they never bargain in Moscow.' Direct address with location location phrase and negative self-action verb form verb.
+- 'I will quickly win all this money back.' First person future-tense form with manner adverb and demonstrative object.
+- 'The sum really seems enormous.' Subject-form feminine subject with modal adverb and 'with'-form descriptive phrase.
+- 'I decided to make you governor of the region.' Past single-action form action verb with basic verb form governing 'with'-form title.
+- 'Are you really speaking completely seriously?' Question word question with second person plural present verb and two manner adverbs.
+- 'You are a young and very promising leader.' Descriptive descriptive phrase phrase with two coordinated qualifying adjectives.
+- 'I will not give the region to strangers.' Negative future action verb with direct object and 'to'-form recipient phrase.
+- 'Load all the bags into the trunk quickly.' Command plural verb with comparative adverb and location destination.
+- 'Viktor Stepanovich, huge thanks for your trust.' Polite gratitude formula with patronymic address and location object.
+- 'That's it, relax, now you are under protection.' Interjection with command form and location state expression.
+- 'I will never let you down.' Negative future-tense form action verb with temporal adverb and object pronoun.

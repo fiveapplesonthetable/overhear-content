@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Arkasha, my dear, you are a real monster to me!' Affectionate diminutive address followed by an evaluative colloquial predicate.
-- 'By the way, they broke a finger on my hand.' Parenthetical phrase with an indefinite-personal past plural verb and locative phrase.
-- 'On the other hand, seventeen thousand followers appeared on the internet!' Contrastive conjunction with numerical subject governing genitive plural.
-- 'Viktor Stepanovich, when will they take off this bracelet from me?' Respectful name-patronymic address with future plural verb and dative recipient.
-- 'Do not worry yourself about this bracelet.' Negative colloquial imperative governing genitive case with a complex preposition.
-- 'I want to become an absolutely free person again.' Modal verb governing copular infinitive with instrumental case predicate noun phrase.
-- 'Consider that you don't have it anymore.' Imperative of assumption governing a negative existential clause with genitive pronoun.
-- 'Can you really resolve this important issue?' Modal verb of capability governing a perfective infinitive and accusative object.
+- 'Arkasha, my dear, you are a real monster to me!' Affectionate diminutive address followed by an evaluative colloquial descriptive phrase.
+- 'By the way, they broke a finger on my hand.' Parenthetical phrase with an indefinite-personal past plural verb and location phrase.
+- 'On the other hand, seventeen thousand followers appeared on the internet!' Contrastive conjunction with numerical subject governing plural 'of' form.
+- 'Viktor Stepanovich, when will they take off this bracelet from me?' Respectful name-patronymic address with future plural verb and 'to'-form recipient.
+- 'Do not worry yourself about this bracelet.' Negative colloquial command governing 'of'-form case with a complex preposition.
+- 'I want to become an absolutely free person again.' Modal verb governing copular basic verb form with 'with/as' form descriptive phrase phrase.
+- 'Consider that you don't have it anymore.' command of assumption governing a negative existential clause with 'of me/you' pronoun.
+- 'Can you really resolve this important issue?' Modal verb of capability governing a single-action form and object-form object.
 - 'That is it, you are golden, there are no more problems!' Fixed idiom of prosperity followed by a negative existential phrase.
-- 'Thank you very much, I appreciate your support very much.' Gratitude formula followed by present transitive verb with accusative direct object.
-- 'I never forget such important services.' Negative temporal adverb with present imperfective verb governing accusative plural.
-- 'Come on quickly help yourself to this tasty caviar.' Imperative exhortation governing directional prepositional phrase of culinary enjoyment.
-- 'With pleasure I will try this wonderful black caviar!' Prepositional manner phrase followed by first-person future verb with feminine accusative modifiers.
+- 'Thank you very much, I appreciate your support very much.' Gratitude formula followed by present action verb with object-form direct object.
+- 'I never forget such important services.' Negative temporal adverb with present ongoing-action form governing object-form plural.
+- 'Come on quickly help yourself to this tasty caviar.' Command exhortation governing directional location phrase of culinary enjoyment.
+- 'With pleasure I will try this wonderful black caviar!' Location manner phrase followed by first-person future verb with feminine object-form modifiers.

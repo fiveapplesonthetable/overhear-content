@@ -4,7 +4,7 @@ Title: Один-один  (One-All)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.01
-Arkady is `anya` (label Аркадий). Samson's word 'раб' (slave, cue 681) is softened to 'слуга' (servant), which also sets up his 'servant of the people' joke.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

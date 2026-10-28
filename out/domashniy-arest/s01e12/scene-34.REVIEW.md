@@ -12,18 +12,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Самсон | Нина, хорош там возиться на кухне! | Nina, stop fussing around in the kitchen! | #868 01:07:42: Нина, хорош там возиться. | adapted: Samson calls Nina |
 | 2 | Самсон | Давайте скорее присядем на дорожку. | Come on, let us sit for a moment before the road. | #869 01:07:44: Давайте, присели на дорожку. | adapted: tradition of sitting before travel |
-| 3 | Аня | Я уже собрала все наши вещи. | I have already packed all our things. | new | new: Nina packed bags |
-| 4 | Клавдия | Деткам вы жизнь, конечно, перечеркнули! | You have certainly ruined those children's lives! | #873 01:07:55: Деткам вы жизнь, конечно, перечеркнули. | adapted: Klavdiya scolds them |
-| 5 | Клавдия | Как вы будете жить в Сибири? | How will you live in Siberia? | #874 01:07:58: Как они там будут в этой Сибири? | adapted: dismay over Siberia |
-| 6 | Аня | Клавдия Викторовна, можете помолчать хотя бы минуту? | Klavdiya Viktorovna, can you be quiet for at least a minute? | #877 01:08:09: Клавдия Викторовна, вы можете помолчать? | adapted: Nina asks for quiet |
+| 3 | Нина | Я уже собрала все наши вещи. | I have already packed all our things. | new | new: Nina packed bags |
+| 4 | Нина | Деткам вы жизнь, конечно, перечеркнули! | You have certainly ruined those children's lives! | #873 01:07:55: Деткам вы жизнь, конечно, перечеркнули. | adapted: Klavdiya scolds them |
+| 5 | Нина | Как вы будете жить в Сибири? | How will you live in Siberia? | #874 01:07:58: Как они там будут в этой Сибири? | adapted: dismay over Siberia |
+| 6 | Нина | Клавдия Викторовна, можете помолчать хотя бы минуту? | Klavdiya Viktorovna, can you be quiet for at least a minute? | #877 01:08:09: Клавдия Викторовна, вы можете помолчать? | adapted: Nina asks for quiet |
 | 7 | Самсон | Нина, проверь билеты, паспорта и деньги. | Nina, check the tickets, passports, and money. | #883 01:08:24: Билеты, паспорта, деньги? | adapted: checking travel documents |
-| 8 | Аня | Все наши документы лежат в сумке. | All our documents are lying in the bag. | #884 01:08:29: Да. | adapted: documents safe |
+| 8 | Нина | Все наши документы лежат в сумке. | All our documents are lying in the bag. | #884 01:08:29: Да. | adapted: documents safe |
 | 9 | Самсон | Такси уже подъехало к нашему дому. | The taxi has already driven up to our house. | #886 01:08:35: Машина пришла. | adapted: taxi arrives |
 | 10 | Самсон | Всё, берём чемоданы и выходим! | That is it, we take the suitcases and go out! | #885 01:08:32: Все, выходим, выходим. | adapted: departing |
-| 11 | Клавдия | Я буду очень скучать по вам. | I will miss you very much. | new | new: neighbor's affection |
-| 12 | Аня | Спасибо вам за всё, соседка дорогая. | Thank you for everything, dear neighbor. | new | new: gratitude expressed |
+| 11 | Нина | Я буду очень скучать по вам. | I will miss you very much. | new | new: neighbor's affection |
+| 12 | Нина | Спасибо вам за всё, соседка дорогая. | Thank you for everything, dear neighbor. | new | new: gratitude expressed |
 | 13 | Самсон | Прощайте, наш старый коммунальный дом! | Farewell, our old communal apartment! | new | new: farewell to apartment |
-| 14 | Аня | Начинается наша совершенно новая жизнь. | Our completely new life is beginning. | new | new: fresh start |
+| 14 | Нина | Начинается наша совершенно новая жизнь. | Our completely new life is beginning. | new | new: fresh start |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

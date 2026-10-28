@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Marina, listen to me very carefully.' Imperative singular verb followed by an accusative pronoun and an adverb of manner.
-- 'Arkady, what do you want to say again?' Interrogative pronoun with a modal verb and an infinitive.
-- 'I am leaving the city forever today.' Present verb of departure governing a prepositional phrase with the genitive case.
-- 'And where will you go now?' Directional question word with an emphatic particle and a future perfective verb.
-- 'I am flying abroad, let's go together!' Unidirectional motion verb followed by an accusative destination and an inclusive imperative.
-- 'Please, immediately leave our family alone!' Polite particle followed by a perfective imperative with the genitive case.
+- 'Marina, listen to me very carefully.' Command singular verb followed by an object pronoun and an adverb of manner.
+- 'Arkady, what do you want to say again?' Question word with a modal verb and an action verb.
+- 'I am leaving the city forever today.' Present verb of departure governing a location phrase with the 'of' form.
+- 'And where will you go now?' Directional question word with an emphatic particle and a future-tense form.
+- 'I am flying abroad, let's go together!' Unidirectional motion verb followed by an object-form destination and an inclusive command.
+- 'Please, immediately leave our family alone!' Polite particle followed by a single-action form command with the 'of' form.
 - 'I am not joking and am seriously getting out of here.' Negative present verb coordinated with a colloquial verb of departure.
-- 'I am completely not interested in your plans.' Dative experiencer with a negative short-form plural adjective.
-- 'Do you really not care at all?' Rhetorical question particle with a dative pronoun and a fixed adverbial predicate.
-- 'Yes, I completely do not care about you.' Affirmative particle with an intensifying adverb and a prepositional phrase.
-- 'Huge money and freedom await us there.' Transitive third-person plural verb governing an accusative direct object.
-- 'Go away from here, I do not need your money!' Imperative of dismissal paired with a short-form plural adjective.
-- 'Then farewell, I must urgently leave.' Parting farewell formula followed by a masculine modal adjective and a perfective infinitive.
+- 'I am completely not interested in your plans.' 'to'-form experiencer with a negative short-form plural adjective.
+- 'Do you really not care at all?' Rhetorical question particle with a 'to me/you' pronoun and a fixed adverbial descriptive phrase.
+- 'Yes, I completely do not care about you.' Affirmative particle with an intensifying adverb and a location phrase.
+- 'Huge money and freedom await us there.' Direct-action third-person plural verb governing an object-form direct object.
+- 'Go away from here, I do not need your money!' Command of dismissal paired with a short-form plural adjective.
+- 'Then farewell, I must urgently leave.' Parting farewell formula followed by a masculine modal adjective and a single-action form.

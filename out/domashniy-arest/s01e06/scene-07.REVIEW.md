@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Аня | Я выйду отсюда и верну свои деньги! | I'll get out of here and get my money back! | #245 00:14:16: выйду отсюда, верну<br>#245 00:14:16: свои деньги | verbatim |
 | 4 | Аня | Послушай, не клади трубку! Ах ты, неблагодарная! | Listen, don't hang up! Oh, you ungrateful girl! | #247 00:14:21: Послушай, не клади трубку<br>#249 00:14:24: Ах ты, неблагодарная | adapted: cue 249 'содержанка' omitted |
 | 5 | Илона | Так, Сизов отказал, Гапоненко отказал. Добрецова вообще в городе нет. | Right, Sizov refused, Gaponenko refused. Dobretsov isn't in town at all. | #250 00:14:28: Так<br>#250 00:14:28: отказал<br>#251 00:14:30: отказал<br>#252 00:14:33: вообще в городе нет | adapted: cues 250-252 ASR 'Сиземов/Габуленко/Добрецка' -> 'Сизов/Гапоненко/Добрецова' |
-| 6 | Илона | Мы не можем продолжать кампанию без спонсоров. Нам даже плакаты напечатать не на что. | We cannot continue the campaign without sponsors. We don't even have money to print posters. | #253 00:14:36: Мы не можем продолжать<br>#253 00:14:36: без спонсоров<br>#254 00:14:38: Нам даже<br>#254 00:14:38: плакаты напечатать не на что | adapted: cue 253 ASR 'компанию' -> 'кампанию' |
+| 6 | Илона | Мы не можем без спонсоров. Нам даже плакаты напечатать не на что. | We cannot continue the campaign without sponsors. We don't even have money to print posters. | #253 00:14:36: Мы не можем<br>#253 00:14:36: без спонсоров<br>#254 00:14:38: Нам даже<br>#254 00:14:38: плакаты напечатать не на что | adapted: cue 253 ASR 'компанию' -> 'кампанию' |
 | 7 | Аня | Ничего, она ещё пожалеет! Да слышу я, слышу. | Never mind, she'll regret it yet! Yes, I hear you, I hear you. | #255 00:14:41: Ничего, она еще пожалеет<br>#257 00:14:45: Да слышу я, слышу | verbatim |
 | 8 | Илона | Ну и что делать будем? | So what are we going to do? | #258 00:14:46: Ну и что делать будем | verbatim |
 | 9 | Аня | А вот что будем делать. Иди сюда, ну пожалуйста! | Here is what we're going to do. Come here, please! | #259 00:14:48: А вот что будем делать<br>#261 00:14:55: Иди сюда<br>#263 00:14:56: Ну пожалуйста | verbatim |
@@ -31,17 +31,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Listen, Lyolya, I invested so much in you! I want to see you.' Then he tries threatening to cut off her allowance.
 - 'Come over right now! Otherwise I'll stop giving you money!' Lyolya points out that his accounts are frozen anyway.
-- 'I'll get out of here and get my money back!' Notice the future tense of two perfective verbs: 'I will walk out' and 'I will return'. Lyolya hangs up on him.
+- 'I'll get out of here and get my money back!' Notice the future tense of two single-action form: 'I will walk out' and 'I will return'. Lyolya hangs up on him.
 - 'Listen, don't hang up! Oh, you ungrateful girl!' Literally 'do not lay down the receiver'. Meanwhile, Ilona has finished calling local businessmen.
 - 'Right, Sizov refused, Gaponenko refused. Dobretsov isn't in town at all.' Every single businessman is afraid to back Samsonov.
-- 'We cannot continue the campaign without sponsors. We don't even have money to print posters.' Still staring at his phone, Arkady mutters about Lyolya before answering Ilona.
+- 'We cannot go on without sponsors. We don't even have money to print posters.' Still staring at his phone, Arkady mutters about Lyolya before answering Ilona.
 - 'Never mind, she'll regret it yet! Yes, I hear you, I hear you.' Ilona demands a plan.
 - 'So what are we going to do?' Arkady suddenly reaches over to hug Ilona.
 - 'Here is what we're going to do. Come here, please!' Ilona immediately pushes him back and whacks him with her notebook.
 - 'Have you lost your mind? Between you and me it's strictly business!' Arkady rubs his cheek with big sad eyes.
 - 'Don't look at me like a panda beaten with bamboo!' And she brings him straight back to the campaign.
 - 'Better think of where we can get money!' Arkady sighs that all the local businessmen are broke after paying into Pasha's cluster — except one.
-- 'Nobody in town has any money, except Ignatyev.' Notice the double negative with the preposition 'except' plus the genitive case. Ilona doesn't know the name.
+- 'Nobody in town has any money, except Ignatyev.' Notice the double negative with the preposition 'except' plus the 'of' form. Ilona doesn't know the name.
 - 'And who is that?' Arkady explains.
 - 'That's the meatpacking plant. But he won't give any, he hates us.' Why does Ignatyev hate City Hall?
 - 'I just wanted to get into his business. Come on, let's kiss!' Even after explaining how he tried to squeeze Ignatyev's plant, Arkady still tries his luck, and Ilona walks out to visit Ignatyev herself.

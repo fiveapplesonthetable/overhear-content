@@ -10,20 +10,20 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Соколов | Генерал только что положил трубку. | The general just hung up the phone. | new | new: call finished |
-| 2 | Аня | И что же сказал наш начальник? | And what did our boss say? | new | new: Lavrov asks |
-| 3 | Соколов | Он не принял твой рапорт. | He did not accept your resignation report. | new | new: report rejected |
-| 4 | Аня | Правда? Он отказался его подписать? | Really? Did he refuse to sign it? | new | new: Lavrov surprised |
-| 5 | Соколов | Он приказал продолжать нашу операцию. | He ordered our operation to continue. | new | new: mission ordered |
-| 6 | Аня | Значит, меня не выгонят со службы? | Does that mean I won't be fired from service? | new | new: job secured |
-| 7 | Соколов | Ты остаёшься майором, Анатолий. | You remain a major, Anatoliy. | new | new: rank confirmed |
-| 8 | Аня | Какое это огромное облегчение для меня! | What a huge relief this is for me! | new | new: relief expressed |
-| 9 | Соколов | Мы теперь снова коллеги! | We are colleagues again now! | #1151 01:10:33: Мы теперь снова коллеги. | adapted: colleagues again |
-| 10 | Аня | Я очень рад работать с тобой. | I am very glad to work with you. | new | new: partnership confirmed |
-| 11 | Соколов | Тогда садись скорее за аппаратуру. | Then sit down at the surveillance equipment quickly. | new | new: back to work |
-| 12 | Аня | Надо следить за каждым шагом кандидата. | We must monitor every step of the candidate. | new | new: focus on mission |
-| 13 | Соколов | Наша работа ещё только начинается. | Our work is only just beginning. | new | new: looking forward |
-| 14 | Аня | Тогда продолжаем слушать этот эфир. | Then let us continue listening to this broadcast. | new | new: listening in |
+| 1 | Лёва | Генерал только что положил трубку. | The general just hung up the phone. | new | new: call finished |
+| 2 | Лавров | И что же сказал наш начальник? | And what did our boss say? | new | new: Lavrov asks |
+| 3 | Лёва | Он не принял твой рапорт. | He did not accept your resignation report. | new | new: report rejected |
+| 4 | Лавров | Правда? Он отказался его подписать? | Really? Did he refuse to sign it? | new | new: Lavrov surprised |
+| 5 | Лёва | Он приказал продолжать нашу операцию. | He ordered our operation to continue. | new | new: mission ordered |
+| 6 | Лавров | Значит, меня не выгонят со службы? | Does that mean I won't be fired from service? | new | new: job secured |
+| 7 | Лёва | Ты остаёшься майором, Анатолий. | You remain a major, Anatoliy. | new | new: rank confirmed |
+| 8 | Лавров | Какое это огромное облегчение для меня! | What a huge relief this is for me! | new | new: relief expressed |
+| 9 | Лёва | Мы теперь снова коллеги! | We are colleagues again now! | #1151 01:10:33: Мы теперь снова коллеги. | adapted: colleagues again |
+| 10 | Лавров | Я очень рад работать с тобой. | I am very glad to work with you. | new | new: partnership confirmed |
+| 11 | Лёва | Тогда садись скорее за аппаратуру. | Then sit down at the surveillance equipment quickly. | new | new: back to work |
+| 12 | Лавров | Надо следить за каждым шагом кандидата. | We must monitor every step of the candidate. | new | new: focus on mission |
+| 13 | Лёва | Наша работа ещё только начинается. | Our work is only just beginning. | new | new: looking forward |
+| 14 | Лавров | Тогда продолжаем слушать этот эфир. | Then let us continue listening to this broadcast. | new | new: listening in |
 
 ## Walk-through narration (English only, no target-language words quoted)
 

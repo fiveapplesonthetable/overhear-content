@@ -4,7 +4,7 @@ Title: Народный герой  (A People's Hero)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.04
-Cues 1092-1116; merged scene 27 (cues 1085-1091: outside the restaurant tipsy Nina scolds Samson for drinking, and Samson convinces her that it is only 400 metres through the courtyards and promises to drive very carefully) is covered in the INTRO bridge. Arkady is `anya` (label Аркадий), Golovkin is `golovkin` (anja, label Головкин), and Ilona is `ilona` (angelina, label Илона). Mistranscriptions 'Санова' (1093) -> 'снова' and 'Пошла' (1101, said to Golovkin) -> 'Пошёл'; 'пока я тебя не придушил' (1101) -> 'Уходи быстро!'; Lavrov and Zavarzin groaning at their listening post (1108-1110, swearing in 1108) are narrated in the walkthrough; 'бабки' (1115) -> 'деньги'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

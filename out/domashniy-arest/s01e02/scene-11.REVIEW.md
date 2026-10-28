@@ -4,29 +4,29 @@ Title: Партнёры из Москвы  (The Moscow Partners)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Cues 288-338, plus merged scene 12 (cues 339-344, a radio voice calls off an undercover operation: 'Отбой операции... Пропустите их'), told in the outro. Arkady is absent: Pasha is the viewpoint (anya, label Паша). The polite, unnamed Moscow partner is 'partner'; the angry Stepan Gennadyevich says ты to Pasha, the partner says вы. Insults ('чудила', 'валенок', 'приперся', 'сопли жует') are cleaned or dropped. Who says cues 299-301 and 330 is not certain; they are given to Stepan, whose tone they match.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Добрый день! С прилётом. | Good afternoon! Welcome. | #288 00:19:50: Добрый день<br>#290 00:19:51: С прилетом | adapted: two cues joined |
-| 2 | Партнёр | Добрый день. Спасибо. | Good afternoon. Thank you. | #291 00:19:52: Спасибо | adapted: 'Добрый день' echoes cue 288-289 |
-| 3 | Аня | Господа, прошу прощения. Деньги будут. | Gentlemen, I apologise. The money will be there. | #293 00:19:55: господа, прошу прощения<br>#294 00:20:01: Деньги будут | adapted: 'Я' and 'произошла техническая задержка' (there's been a technical delay) dropped; the narrator mentions it |
-| 4 | Партнёр | Будут когда? | And when will it be there? | #295 00:20:09: Будут когда | verbatim |
-| 5 | Аня | Мне нужно немножко поработать с бывшим мэром. | I need to do a little work on the former mayor. | #296 00:20:11: Мне нужно немножко поработать с бывшим мэром | verbatim |
-| 6 | Партнёр | Вы мне сказали, деньги будут сегодня. | You told me the money would be here today. | #297 00:20:15: Вы мне сказали, деньги будут сегодня | verbatim |
+| 1 | Паша | Добрый день! С прилётом. | Good afternoon! Welcome. | #288 00:19:50: Добрый день<br>#290 00:19:51: С прилетом | adapted: two cues joined |
+| 2 | Паша | Добрый день. Спасибо. | Good afternoon. Thank you. | #291 00:19:52: Спасибо | adapted: 'Добрый день' echoes cue 288-289 |
+| 3 | Паша | Господа, прошу прощения. Деньги будут. | Gentlemen, I apologise. The money will be there. | #293 00:19:55: господа, прошу прощения<br>#294 00:20:01: Деньги будут | adapted: 'Я' and 'произошла техническая задержка' (there's been a technical delay) dropped; the narrator mentions it |
+| 4 | Паша | Будут когда? | And when will it be there? | #295 00:20:09: Будут когда | verbatim |
+| 5 | Паша | Мне нужно немножко поработать с бывшим мэром. | I need to do a little work on the former mayor. | #296 00:20:11: Мне нужно немножко поработать с бывшим мэром | verbatim |
+| 6 | Паша | Вы мне сказали, деньги будут сегодня. | You told me the money would be here today. | #297 00:20:15: Вы мне сказали, деньги будут сегодня | verbatim |
 | 7 | Степан Геннадьевич | Мы сюда зачем прилетели? Я сразу сказал: с ним ничего не получится. | What did we even fly out here for? I said from the start: nothing will come of it with him. | #299 00:20:17: Мы сюда зачем прилетели<br>#301 00:20:20: Я сразу сказал | adapted: 'вообще' dropped; 'с ним ловить нечего' (slang) -> 'с ним ничего не получится' |
-| 8 | Партнёр | Мы всё подготовили и прилетели на сделку. | We got everything ready and flew in for the deal. | #307 00:20:33: подготовили<br>#308 00:20:34: Прилетели на сделку | adapted: simplified from cues 306-308 ('we cleared it with the ministry, prepared all the documents') |
-| 9 | Аня | Я прекрасно понимаю. | I understand perfectly. | #309 00:20:36: Я прекрасно понимаю | verbatim |
+| 8 | Паша | Мы всё подготовили и прилетели на сделку. | We got everything ready and flew in for the deal. | #307 00:20:33: подготовили<br>#308 00:20:34: Прилетели на сделку | adapted: simplified from cues 306-308 ('we cleared it with the ministry, prepared all the documents') |
+| 9 | Паша | Я прекрасно понимаю. | I understand perfectly. | #309 00:20:36: Я прекрасно понимаю | verbatim |
 | 10 | Степан Геннадьевич | Зачем ты сюда приехал? Пустой! | Why did you even come here? Empty-handed! | #316 00:20:51: сюда<br>#316 00:20:51: Пустой | adapted: the rude 'Чего ты ... приперся' -> 'Зачем ты ... приехал' |
-| 11 | Аня | Степан Геннадьевич, я же внёс аванс! | Stepan Gennadyevich, I did pay the advance! | #315 00:20:48: Степан Геннадьевич<br>#315 00:20:48: я же внес аванс | adapted: 'почему чудила?' (why a clown?) dropped |
-| 12 | Партнёр | Давайте так: два дня. Или мы переводим проект в Калугу. | Here's what we'll do: two days. Or we move the project to Kaluga. | #324 00:21:06: Давайте так<br>#325 00:21:08: два дня<br>#325 00:21:08: мы переводим проект в Калугу | adapted: the 'if... then' of cue 325 simplified to 'two days, or...' |
+| 11 | Паша | Степан Геннадьевич, я же внёс аванс! | Stepan Gennadyevich, I did pay the advance! | #315 00:20:48: Степан Геннадьевич<br>#315 00:20:48: я же внес аванс | adapted: 'почему чудила?' (why a clown?) dropped |
+| 12 | Паша | Давайте так: два дня. Или мы переводим проект в Калугу. | Here's what we'll do: two days. Or we move the project to Kaluga. | #324 00:21:06: Давайте так<br>#325 00:21:08: два дня<br>#325 00:21:08: мы переводим проект в Калугу | adapted: the 'if... then' of cue 325 simplified to 'two days, or...' |
 | 13 | Степан Геннадьевич | А аванс остаётся у нас. | And the advance stays with us. | #326 00:21:13: остается у нас | adapted: from cue 326 ('ваш аванс, конечно же'), given to Stepan |
-| 14 | Аня | Подождите! Два дня — это же очень мало. | Hold on! Two days is far too little. | #327 00:21:16: Подождите<br>#329 00:21:19: Это же очень мало | adapted: 'Как два дня?' (328) folded in |
+| 14 | Паша | Подождите! Два дня — это же очень мало. | Hold on! Two days is far too little. | #327 00:21:16: Подождите<br>#329 00:21:19: Это же очень мало | adapted: 'Как два дня?' (328) folded in |
 | 15 | Степан Геннадьевич | Мало для тех, кто ничего не делает. | Too little for people who do nothing. | #330 00:21:21: Для тех, кто | adapted: the idiom 'кто сопли жует' (who dawdle) -> 'кто ничего не делает' |
-| 16 | Аня | Хорошо, давайте три. Под мою личную ответственность. | All right, let's say three. On my personal responsibility. | #332 00:21:24: Хорошо, давайте три<br>#333 00:21:26: Под мою личную ответственность | verbatim |
-| 17 | Партнёр | Три дня. Больше не могу. | Three days. I can't give you more. | #336 00:21:31: Три дня. Больше не могу | verbatim |
+| 16 | Паша | Хорошо, давайте три. Под мою личную ответственность. | All right, let's say three. On my personal responsibility. | #332 00:21:24: Хорошо, давайте три<br>#333 00:21:26: Под мою личную ответственность | verbatim |
+| 17 | Паша | Три дня. Больше не могу. | Three days. I can't give you more. | #336 00:21:31: Три дня. Больше не могу | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Gentlemen, I apologise.' Literally, 'I ask forgiveness'. It's a formal, businesslike way to say sorry. He calls it a technical delay.
 - 'The money will be there.' The word for money is always plural in Russian, so the verb 'will be' is plural too. The partner wants a date.
 - 'And when will it be there?' He puts the question word last, which makes it sound sharp and impatient. Pasha has an excuse ready.
-- 'I need to do a little work on the former mayor.' After the word for 'with', both 'former' and 'mayor' take the instrumental case endings. The former mayor is Arkady, and Pasha's 'work' means squeezing the money out of him. The partner reminds him of his promise.
+- 'I need to do a little work on the former mayor.' After the word for 'with', both 'former' and 'mayor' take the 'with/as' form. The former mayor is Arkady, and Pasha's 'work' means squeezing the money out of him. The partner reminds him of his promise.
 - 'You told me the money would be here today.' In Russian you keep the tense of the original promise: word for word, 'you told me, the money will be today'. Then Stepan Gennadyevich, the older partner, loses patience.
 - 'What did we even fly out here for?' The verb means 'to arrive by flying'; the same root was in the greeting at the start.
 - 'I said from the start: nothing will come of it with him.' He means Pasha. The partner explains how much they have already done.

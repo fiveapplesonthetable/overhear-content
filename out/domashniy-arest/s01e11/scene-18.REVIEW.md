@@ -27,9 +27,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here, Marina, take a good look, please.' The imperative verb expresses an ironic invitation to look.
-- 'She has a very big and kind heart.' Possessive construction using a genitive pronoun and neuter accusative adjectives.
-- 'She came and simply saved me today.' Past tense perfective verbs describing a completed rescue action.
-- 'I came here to say goodbye to you forever.' Past motion verb coupled with an infinitive expressing purpose and an instrumental pronoun.
-- 'There is your true nature! Let's go, Lyolya.' Demonstrative particle combined with a feminine adjective and an invitation imperative.
-- 'Do not worry, son, we will find someone else.' Negative imperative followed by a future perfective transitive verb.
+- 'Here, Marina, take a good look, please.' This phrase expresses an ironic invitation to look.
+- 'She has a very big and kind heart.' Possessive construction using a 'of me/you' pronoun and neuter object-form adjectives.
+- 'She came and simply saved me today.' Past tense single-action form describing a completed rescue action.
+- 'I came here to say goodbye to you forever.' Past motion verb coupled with an action verb expressing purpose and an 'with' pronoun.
+- 'There is your true nature! Let's go, Lyolya.' Demonstrative particle combined with a feminine adjective and an invitation command.
+- 'Do not worry, son, we will find someone else.' Negative command followed by a future-tense form action verb.

@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Good evening! Welcome to dinner!' Arkady cheerfully welcomes Marina to the kitchen with an enthusiastic greeting.
-- 'Tonight for dinner we have pasta with sauce!' Arkady presents his gourmet cooking using a prepositional phrase.
+- 'Tonight for dinner we have pasta with sauce!' Arkady presents his gourmet cooking.
 - 'Arkady, what is the matter again?' Marina enters the kitchen visibly upset and demands an explanation.
-- 'Why are you doing all this?' The interrogative adverb opens a frustrated question about his motives.
+- 'Why are you doing all this?' The question word opens a frustrated question about his motives.
 - 'My god, what a fool I was!' Marina laments her naivety with an exclamatory evaluative noun phrase.
-- 'You deceived me and my son!' Marina accuses him directly using a past perfective transitive verb.
-- 'Marina, please listen to me calmly.' Arkady pleads for patience with a polite imperative.
-- 'I simply really wanted to help you.' Arkady tries to justify his actions using an infinitive of purpose.
+- 'You deceived me and my son!' Marina accuses him directly using a past single-action form action verb.
+- 'Marina, please listen to me calmly.' Arkady pleads for patience.
+- 'I simply really wanted to help you.' Arkady tries to justify his actions.
 - 'I wanted you to be happy.' The subjunctive clause with a plural short adjective expresses his intended goal.
 - 'And did anyone ever ask you for that?' Marina counters with an accusatory rhetorical question.
 - 'You do everything only for yourself.' Marina denounces his selfishness with an emphatic limiting particle.
 - 'Leave our family alone.' Marina demands that he stop interfering in her personal life.
-- 'Marina, forgive my foolish mistakes.' Arkady offers an apology using a direct imperative of forgiveness.
+- 'Marina, forgive my foolish mistakes.' Arkady offers an apology using a direct command of forgiveness.

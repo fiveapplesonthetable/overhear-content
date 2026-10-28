@@ -25,21 +25,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 13 | Аня | Он выдвигает свою кандидатуру на пост мэра города! | He is putting forward his candidacy for the post of mayor of the city! | #408 00:25:14: Он выдвигает свою кандидатуру на пост мэра города | verbatim |
 | 14 | Журналистка | Вы подтверждаете это, Иван Васильевич? | Do you confirm this, Ivan Vasilyevich? | #409 00:25:17: Вы подтверждаете<br>#409 00:25:17: Иван Васильевич | adapted: 'эту информацию' -> 'это' |
 | 15 | Самсон | Да, да! Я выдвигаю свою кандидатуру. | Yes, yes! I am putting forward my candidacy. | #410 00:25:20: Да, да. Я выдвигаю свою кандидатуру | verbatim |
-| 16 | Аня | У Самсонова есть главное — честность и порядочность. Все говорят, а он делает! | Samsonov has the main thing — honesty and decency. Everyone talks, while he gets things done! | #413 00:25:29: У Самсонова есть главное<br>#413 00:25:29: порядочность<br>#419 00:25:50: Все говорят, а он делает | adapted: 'честность и' added; cue 419 from Nina folded into Arkady's closing line |
+| 16 | Аня | У Самсонова главное — честность и порядочность. Все говорят, а он делает! | Samsonov has the main thing — honesty and decency. Everyone talks, while he gets things done! | #413 00:25:29: главное<br>#413 00:25:29: порядочность<br>#419 00:25:50: Все говорят, а он делает | adapted: 'честность и' added; cue 419 from Nina folded into Arkady's closing line |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'I learned a lesson.' Literally 'I received a lesson'.
-- 'I am grateful to Ivan Vasilyevich for his honest opinion.' 'Grateful' is a short masculine adjective, followed by the dative case for the person and 'for' plus the accusative for the reason. A reporter jumps in.
+- 'I am grateful to Ivan Vasilyevich for his honest opinion.' 'Grateful' is a short masculine adjective, followed by the 'to/for' form for the person and 'for' plus the object-form for the reason. A reporter jumps in.
 - 'So you admit that you took bribes?' The pair of words at the start means 'that is, so'. Arkady quickly corrects her.
-- 'No, I didn't take bribes.' With the negated verb, 'bribes' goes into the genitive plural and moves to the front for emphasis.
+- 'No, I didn't take bribes.' With the negated verb, 'bribes' goes into the plural 'of' form and moves to the front for emphasis.
 - 'But I thought too little about people.' Then he plays for sympathy.
-- 'I got into trouble. And I understood how hard life is for the people.' Literally 'how hard it is lived to the people', an impersonal reflexive verb with the dative case. The reporter turns to Samson.
-- 'Ivan Vasilyevich, is throwing a person out the window normal?' Notice how 'into the window' uses the accusative case, which is how Russian says 'out of the window'. Samson answers bluntly.
-- 'And what are we supposed to do with them?' In Russian, 'what' leads into 'to do' in a very natural everyday phrasing.
+- 'I got into trouble. And I understood how hard life is for the people.' Literally 'how hard it is lived to the people', an impersonal self-action verb form with the 'to/for' form. The reporter turns to Samson.
+- 'Ivan Vasilyevich, is throwing a person out the window normal?' Notice how 'into the window' uses the direct-object form, which is how Russian says 'out of the window'. Samson answers bluntly.
+- 'And what are we supposed to do with them?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'to do'.
 - 'They've completely lost their conscience!' Meaning the town officials. The reporter presses him.
 - 'And what do you propose? Throwing all officials out the window?' Samson starts to agree, then remembers what Arkady coached him to say.
-- 'Could do all of them!' Listen for the word meaning 'one could' right alongside 'one could' in this line.
+- 'Could do all of them!' The key word here means 'one could', anchored at the close by 'one could'.
 - 'Only that won't help.' Arkady jumps in on cue to steer the conversation.
 - 'Right, that won't help! People need to do it themselves now.' Samson forgets his next line.
 - 'Do what themselves?' Luckily, the reporter guesses it for him.
@@ -48,5 +48,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He is putting forward his candidacy for the post of mayor of the city!' The reporters gasp and ask Samson directly.
 - 'Do you confirm this, Ivan Vasilyevich?' Prompted by a nod from Arkady, Samson repeats the long phrase.
 - 'Yes, yes! I am putting forward my candidacy.' And Arkady wraps up with a campaign pitch and their new slogan.
-- 'Samsonov has the main thing — honesty and decency.' The key word here means 'Samsonov', which Arkady combines with 'there is'.
+- 'Samsonov has the main thing — honesty and decency.' Listen for the word meaning 'there is', which leads straight into 'decency'.
 - 'Everyone talks, while he gets things done!' Nina immediately steps up to give reporters the phone number of their campaign headquarters, and soon the news is on every screen in town.

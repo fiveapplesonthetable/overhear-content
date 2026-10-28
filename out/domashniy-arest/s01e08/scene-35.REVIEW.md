@@ -4,7 +4,7 @@ Title: Сказать забыл!  (Forgot to Tell Her!)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.08
-Cues 776-800. Arkady is present -> anya = Аркадий (alisa), klavdia = Клавдия Викторовна (angelina), lyolya = Лёля (anja). Hospital gurney intercut lines in cues 779-782 narrated in WALK. Colloquial 'малому поль чиню' (786) and self-rebuke 'Что ж я за идиот' (789) adapted to clean A1.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
@@ -20,15 +20,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Лёля | Подожди! Куда ты побежал? | Wait! Where are you running off to? | #793 00:47:32: А я что, не срочно | verbatim |
 | 9 | Аня | Жди здесь! Я сейчас вернусь. | Wait here! I'll be right back. | #794 00:47:33: Жди здесь | verbatim |
 | 10 | Аня | Марина! Где Марина? | Marina! Where is Marina? | #795 00:47:37: Марина<br>#796 00:47:39: а где Марина | verbatim |
-| 11 | Клавдия Викторовна | Чего ты кричишь на весь дом? | Why are you shouting at the whole house? | #796 00:47:39: Клавдия Викторовна | adapted: Klavdia comes out of kitchen |
+| 11 | Лёля | Чего ты кричишь на весь дом? | Why are you shouting at the whole house? | #796 00:47:39: Клавдия Викторовна | adapted: Klavdia comes out of kitchen |
 | 12 | Аня | Клавдия Викторовна, где Марина? | Klavdia Viktorovna, where is Marina? | #796 00:47:39: Клавдия Викторовна, а где Марина | verbatim |
-| 13 | Клавдия Викторовна | В больнице она, с Лёхой на операции. | She's at the hospital, with Lyokha having surgery. | #797 00:47:41: В больнице Марина с Лехой на операции | verbatim |
+| 13 | Лёля | В больнице она, с Лёхой на операции. | She's at the hospital, with Lyokha having surgery. | #797 00:47:41: В больнице Марина с Лехой на операции | verbatim |
 | 14 | Аня | Как на операции? О господи, какой кошмар! | What do you mean, surgery? Good grief, what a nightmare! | #798 00:47:45: Как на операции | verbatim |
 | 15 | Аня | Какой же я тупой! | How stupid I am! | #800 00:47:48: Тупой, тупой | verbatim |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ow! Something sharp poked into my foot!' The reflexive verb means to dig in or pierce into something.
+- 'Ow! Something sharp poked into my foot!' This phrase means to dig in or pierce into something.
 - 'What is that there? Is it a screw?' The noun refers to a standard wood screw with threads.
 - 'Yes, a screw from the old floor.' Samson had dropped it earlier while fixing the floorboards for Lyoshka.
 - 'My goodness! What an idiot I am!' Seeing the screw triggers Arkady's memory of the hospital mix-up.

@@ -29,23 +29,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The prosecution witness is reliable.' Literally 'the witness of the accusation'. That second noun is in the 'of' case, the genitive.
-- 'I found no errors.' Literally 'of violations I did not find'. Because the verb is negated, 'violations' goes into the genitive plural, and he puts it first for emphasis.
-- 'You have no chance of a travel ban.' Again, 'no chances' uses the genitive plural with the word for 'there is not'. A signed promise not to leave town is what Arkady was hoping for instead of house arrest. Instead of arguing law, Arkady mocks the way Golovkin speaks.
+- 'The prosecution witness is reliable.' Literally 'the witness of the accusation'. That second noun is in the 'of' case, the 'of'-form.
+- 'I found no errors.' Literally 'of violations I did not find'. Because the verb is negated, 'violations' goes into the plural 'of' form, and he puts it first for emphasis.
+- 'You have no chance of a travel ban.' Again, 'no chances' uses the plural 'of' form with the word for 'there is not'. A signed promise not to leave town is what Arkady was hoping for instead of house arrest. Instead of arguing law, Arkady mocks the way Golovkin speaks.
 - 'Tell me, do you always talk like that?' He uses the polite 'you', but the question is rude. Golovkin answers plainly.
-- 'Yes. I stutter.' The verb has the reflexive ending at the end. Arkady pounces on it.
+- 'Yes. I stutter.' The verb has the self-action verb form at the end. Arkady pounces on it.
 - 'Then you're a bad lawyer!' Golovkin defends his profession with quiet dignity.
 - 'The main thing in our work is knowing how to work with documents.' In Russian a dash stands in for 'is' between two nouns. Then Golovkin gets up to leave.
-- 'And anyway, I can leave.' 'I can' is followed by the infinitive 'to leave'.
+- 'And anyway, I can leave.' 'I can' is followed by the basic verb form 'to leave'.
 - 'They pay me very little for you.' Because he is a state-appointed defender, the state pays him tiny fees. Arkady realises he has no other lawyer and quickly changes his tone.
 - 'Listen, sit down. Sit down, please.' Both commands carry the polite plural ending. Then Arkady sits down to business.
 - 'Right, fine. What are we going to do, Golovkin?' Literally 'what to do will we'. He continues.
-- 'How are we going to build our defence?' Notice how Russian forms the future of an ongoing action: the future of 'to be' plus the infinitive 'to build'. Golovkin gives his grand strategy.
+- 'How are we going to build our defence?' Notice how Russian forms the future of an ongoing action: the future of 'to be' plus the basic verb form 'to build'. Golovkin gives his grand strategy.
 - 'I suggest a full confession.' The long adjective literally means 'pure-hearted' — the standard legal phrase for confessing everything.
-- 'They'll give you only eight years.' 'Only' here is a little word that means 'in total, merely'. After numbers from five upwards, 'years' takes the special genitive plural form. Arkady is outraged and drops straight to the informal 'you'.
-- 'What, are you laughing at me?' The verb 'to laugh' takes the preposition 'over' plus the instrumental case: 'over me'.
+- 'They'll give you only eight years.' 'Only' here is a little word that means 'in total, merely'. After numbers from five upwards, 'years' takes the special plural 'of' form form. Arkady is outraged and drops straight to the informal 'you'.
+- 'What, are you laughing at me?' The verb 'to laugh' takes the preposition 'over' plus the 'with/as' form: 'over me'.
 - 'What do you mean, eight years?' Literally 'what kind of eight years?'. Golovkin stays calm.
 - 'That's much better than twelve years. Don't you agree?' 'Much better' uses a word that strengthens comparisons. Then Arkady thinks of another angle.
 - 'Wait. And who is the judge?' Golovkin answers.
-- 'The chairman of the city court. Ilya Olegovich Berg.' 'Of the city court' is in the genitive case after 'chairman'. And suddenly Arkady's face lights up.
+- 'The chairman of the city court. Ilya Olegovich Berg.' 'Of the city court' is in the 'of' form after 'chairman'. And suddenly Arkady's face lights up.
 - 'Berg? Ilyusha? Why, that's my neighbour!' 'Ilyusha' is the warm diminutive of Ilya. In their rich cottage village, the judge lives right next door to Arkady.

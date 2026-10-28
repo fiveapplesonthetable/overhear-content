@@ -1,18 +1,18 @@
 # domashniy-arest-s01e11-scene-31: review sheet
 
 Title: Электронный браслет  (The Ankle Monitor)
-Level: beginner
+Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест, Сезон 1, Эпизод 11
-Cues 918-921. An officer attaches the electronic tracking bracelet as Arkady returns to house arrest.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Офицер | Аркадий Борисович, приготовьтесь к процедуре. | Arkady Borisovich, prepare for the procedure. | #918 00:56:37: Аркадий Борисович, | adapted: formal address |
+| 1 | Офицер | Аркадий Борисович, приготовьтесь к процедуре. | Arkady Borisovich, prepare for the procedure. | new | new: formal address |
 | 2 | Аня | Я готов, проходите в коридор. | I am ready, come into the hallway. | new | new: Arkady's compliance |
-| 3 | Офицер | Это обязательная техническая процедура. | This is a mandatory technical procedure. | #919 00:56:38: небольшая техническая процедура. | adapted: adapted cue |
+| 3 | Офицер | Это обязательная техническая процедура. | This is a mandatory technical procedure. | new | new: adapted cue |
 | 4 | Аня | Я уже носил этот электронный браслет. | I already wore this electronic bracelet. | new | new: Arkady's reminder |
 | 5 | Офицер | Мы должны зафиксировать датчик на ноге. | We must fasten the sensor on your leg. | new | new: officer's instruction |
 | 6 | Аня | Пожалуйста, не затягивайте ремень слишком сильно. | Please do not tighten the strap too tightly. | new | new: Arkady's polite request |
@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This is a mandatory technical procedure.' Official bureaucratic terminology explaining the fitting.
 - 'I already wore this electronic bracelet.' Arkady notes his familiarity with the tracking device.
 - 'We must fasten the sensor on your leg.' The officer describes the physical installation process.
-- 'Please do not tighten the strap too tightly.' A polite negative imperative asking for physical comfort.
+- 'Please do not tighten the strap too tightly.' A polite negative command asking for physical comfort.
 - 'Everything is ready, the electronic bracelet is working.' Confirmation that the monitoring signal is active.
 - 'You know everything very well yourself from here.' An acknowledgment of the prisoner's prior experience.
 - 'I remember all the rules established by law.' A formal confirmation of legal compliance.

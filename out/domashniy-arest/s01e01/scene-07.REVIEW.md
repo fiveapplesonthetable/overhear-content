@@ -4,7 +4,7 @@ Title: Одна формальность  (One Small Formality)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.01
-Cues 290-322. The condition in the source is a crude 'kiss my backside'; the story keeps it as a plain, humiliating kiss, and the narrator explains it neutrally. The toilet-dunking memory is kept as 'the toilet in the communal flat'.
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Earlier I trusted Eduard Valentinovich.' The verb of trusting takes the dative case for the trusted person.
-- 'And now I understand that he is deceiving me.' Subordinate clause introduced by the conjunction that.
-- 'So that means I have a chance now?' Conversational particle introducing an inference with genitive of possession.
-- 'Well, on the whole I find you likable.' Plural short adjective of attraction with dative experiencer pronoun.
-- 'So what is the problem then?' Idiomatic interrogative formula asking for the reason behind hesitation.
-- 'I still know you very poorly.' Adverbs of time and manner modifying the transitive verb.
-- 'Here I am, sitting right in front of you.' Pointing particle with prepositional phrase of spatial location.
-- 'Ask about anything, I will answer honestly.' Imperative followed by prepositional pronoun phrase of scope.
+- 'Earlier I trusted Eduard Valentinovich.' The verb of trusting takes the 'to/for' form for the trusted person.
+- 'And now I understand that he is deceiving me.' Second half of the sentence introduced by the conjunction that.
+- 'So that means I have a chance now?' Conversational particle introducing an inference with 'of'-form of possession.
+- 'Well, on the whole I find you likable.' Plural short adjective of attraction with 'to'-form experiencer pronoun.
+- 'So what is the problem then?' Idiomatic question word formula asking for the reason behind hesitation.
+- 'I still know you very poorly.' Adverbs of time and manner modifying the action verb.
+- 'Here I am, sitting right in front of you.' Pointing particle with location phrase of spatial location.
+- 'Ask about anything, I will answer honestly.' Command followed by location pronoun phrase of scope.
 - 'About absolutely anything at all?' Indefinite relative phrase expressing an open-ended question.
 - 'Yes, about absolutely everything in the world.' Set idiom meaning literally on the light, or in the whole world.
-- 'Only you must not deceive me.' Impersonal modal expression of prohibition with dative pronoun.
-- 'For a former official, that is very hard to do.' Dative noun phrase with predicative neuter adverb of difficulty.
-- 'But I will definitely try not to lie.' Future perfective verb followed by negative imperfective infinitive.
+- 'Only you must not deceive me.' Impersonal modal expression of prohibition with 'to me/you' pronoun.
+- 'For a former official, that is very hard to do.' 'to'-form noun phrase with descriptive word neuter adverb of difficulty.
+- 'But I will definitely try not to lie.' Future-tense form followed by negative ongoing-action form basic verb form.

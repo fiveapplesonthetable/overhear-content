@@ -32,27 +32,27 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - Twisting Arkady's ear, Uncle Grisha calls his bluff: 'Call those guys of yours!'
 - 'Now that's a mistake, guys. One second!' Arkady still tries to sound confident as he dials his former chief bodyguard Vitalik.
-- 'Hello, Vitalik, come quickly!' Notice the informal imperative as Arkady begs his driver to hurry.
+- 'Hello, Vitalik, come quickly!' Notice the informal command as Arkady begs his driver to hurry.
 - 'Can you come over here right now? They're killing me here!' On the other end of the line, Vitalik and his twin brother Valerik politely reply that they cannot come because they no longer guard him.
 - 'What do you mean you can't?' Arkady is stunned by their refusal.
 - 'Get over here right now, quickly, both of you!' Vitalik calmly says goodbye and hangs up on him, so Arkady pretends to the collectors that help is on the way.
 - 'Right, I'm waiting for you,' he says into the dead phone.
-- 'They'll be here in five minutes.' Notice how Russian uses the preposition meaning 'through' or 'across' with an accusative time span to mean 'in five minutes'. Uncle Grisha sees straight through the act.
-- 'You see, Kostik, what it means to think with your head?' The noun for 'head' is in the instrumental case, 'with your head'.
+- 'They'll be here in five minutes.' Notice how Russian uses the preposition meaning 'through' or 'across' with an object-form time span to mean 'in five minutes'. Uncle Grisha sees straight through the act.
+- 'You see, Kostik, what it means to think with your head?' The noun for 'head' is in the 'with/as' form, 'with your head'.
 - 'Well, yes,' Kostik agrees with a nod.
 - 'Serious people don't get thrown out of a window!' Grisha twists Arkady's ear harder and moves with Kostik to beat him up.
 - 'Ow, my sore ear!' Arkady winces in pain as Grisha pulls harder.
 - 'Stop, wait! What are you doing? Don't!' Four frantic exclamations in a row.
 - Terrified, Arkady begs them to stop: 'Listen, I'll pay this woman's entire debt!'
-- 'I swear, the whole debt!' He uses the reflexive present tense of 'to swear'.
+- 'I swear, the whole debt!' He uses the self-action verb form tense of 'to swear'.
 - 'Then hand over the money right now! Otherwise we'll take him apart right now.' Having no cash on him, Arkady holds up his left wrist.
 - 'Here on my left hand I have a gold watch!' Remember that the Russian word for 'watch' or 'clock' is always plural.
-- 'Take it!' A polite or plural imperative addressed to both men.
+- 'Take it!' A polite or plural command addressed to both men.
 - 'It costs ten thousand dollars!' Because 'watch' is plural in Russian, he says 'they cost'.
 - 'Definitely gold?' Kostik checks suspiciously.
 - 'Well, of course gold!' Arkady insists.
 - 'I'm the mayor, after all!' Uncle Grisha inspects the heavy Swiss watch and nods.
 - 'Nice watch, we're taking it,' Grisha decides with satisfaction.
 - 'Alright, let him go,' he tells Kostik.
-- 'He was a boss, he became nobody.' Notice how 'was' takes the nominative here.
+- 'He was a boss, he became nobody.' Notice how 'was' takes the subject-form here.
 - 'Thus passes earthly glory!' Grisha translates his favourite Latin saying as they head for the door.

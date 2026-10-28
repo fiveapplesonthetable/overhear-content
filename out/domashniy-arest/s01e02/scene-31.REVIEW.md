@@ -4,7 +4,7 @@ Title: Обед с губернатором  (Lunch with the Governor)
 Level: A1 — Duolingo Section 2
 Pair: ru-en
 Source: Домашний арест (Domashniy Arest) S1.02
-Arkady is `anya` (label Аркадий), the governor Viktor Stepanovich is `governor` (anja). Merged scene 30 (officers come, Arkady thinks he is being taken to court and freed) is told in the bridge. Arkady's crude impression (1146-1151: insults about the governor's weight and body) is replaced by a clean line in Tretyakov's style; «Хэппи-энда не будет» -> «Счастливого конца не будет»; «денежку-то» -> «деньги»; «присаживайся» -> «садись». The governor's need for the cluster project (1161-1163), the focaccia and the parting insults (1169-1176) are told by the narrator, except his last word, «Клоун».
+
 
 Each script line, its English meaning, and the subtitle line(s) it was taken from (cue number and time in the sidecar). `new` = written for the story, no subtitle behind it; `adapted` = a source line changed as noted.
 

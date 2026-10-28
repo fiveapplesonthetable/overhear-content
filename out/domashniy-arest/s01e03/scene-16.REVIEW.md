@@ -30,14 +30,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Lyolya, this is very simple.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Lyolya' straight to 'simple'.
 - 'You come to our park today.' He uses the present tense to lay out instructions step by step, just as we do in English.
-- 'A girl walks a little dog there.' Literally 'there walks a girl with a doggy', using the instrumental case after 'with'.
-- 'Every day from three to four.' Both numbers are in the genitive case after 'from' and 'until'.
+- 'A girl walks a little dog there.' Literally 'there walks a girl with a doggy', using the 'with/as' form after 'with'.
+- 'Every day from three to four.' Both numbers are in the 'of' form after 'from' and 'until'.
 - 'The little dog is small and friendly.' Both adjectives have the feminine ending to match the word for 'little dog'. Lyolya is not convinced at all.
 - 'Arkashenka, come on, this is nonsense!' Even while calling his plan nonsense, she uses a sweet pet form of his name.
-- 'I'm not going to steal a dog.' Literally 'I will not steal a dog', with the accusative ending on 'dog'. Arkady tries to reassure her.
+- 'I'm not going to steal a dog.' Literally 'I will not steal a dog', with the object ending on 'dog'. Arkady tries to reassure her.
 - 'That's not stealing, listen! It's completely safe.' He adds a detail about the rich cottage village where he and the judge live.
-- 'You remember our village, don't you?' Here 'you' sets up the idea, while 'village' comes at the end for emphasis.
-- 'There's no security there at all.' With the word for 'there is not', both 'security' and 'no kind of' go into the genitive case. Lyolya stands firm.
+- 'You remember our village, don't you?' Arkady uses the informal singular 'you' here with 'village', as friends and close colleagues do.
+- 'There's no security there at all.' With the word for 'there is not', both 'security' and 'no kind of' go into the 'of' form. Lyolya stands firm.
 - 'No, I already told you! No, Arkasha.' Notice the feminine past ending on 'said'. So Arkady pulls out the same argument he just used on the judge.
 - 'Lyolechka, have you forgotten who got you your little flat?' And it turns out Lyolya got her flat through the very same housing scheme!
 - 'Under the Affordable Housing programme! Did you forget?' So Arkady handed out social-housing flats both to the judge's mother and to his own girlfriend! Lyolya is outraged.
