@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "This is Kukhnya, which means The Kitchen: a Russian comedy set in a smart Moscow restaurant called Claude Monet, where the chef shouts and everyone else tries to get through the shift. In this story, from episode five, the bartender Kostya has just heard that his best friend Max kissed Nastya, the waitress he likes. Max has to talk his way out of it. You'll hear it in Russian first, and you don't need to catch every word."
-OPENER = 'Now back through it slowly. Kostya is angry, so he talks in short, blunt lines, which is good news for us.'
-TRANSITION = 'Now the story in one go.'
-OUTRO = "The angry-friend lines are worth keeping: you now have a way to ask why someone is cross and a way to say it doesn't matter. If it all went by fast, the second listen will feel easier. See you next time."
+INTRO = "This is Kukhnya, which means The Kitchen: a Russian comedy set in a smart Moscow restaurant called Claude Monet, where the chef shouts and everyone else tries to get through the shift. In this story, from episode five, the bartender Kostya has just heard that his best friend Max kissed Nastya, the waitress he likes. Max has to talk his way out of it. Listen to it in Russian first, and don't worry about catching every word."
+OPENER = "Let's go back through it line by line. Kostya is too angry for long sentences, which makes him easy to follow."
+TRANSITION = "Here's the whole quarrel again, without stopping."
+OUTRO = 'Keep two lines from this one: "za chto", for when you\'re blamed and don\'t know why, and "ne imeet znacheniya", for waving something away. Kostya\'s last word is "poka", and you\'ll hear it once more as a goodbye.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('max', 'Костя, привет. Почему ты сердишься?', 'Kostya, hi. Why are you angry?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Посмотрим, как ты это докажешь.', 'We will see how you prove it.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, hi. Why are you angry?' Max starts with the casual greeting you use for a friend, then asks why. The last word ends in 'sya', a little tail Russian often adds when you do something to yourself, so you could say he is 'angry-ing' himself."),
-    (1, None, "'Back off, or I will break your nose!' Russian doesn't say 'your nose' here. It says 'I will break to-you the nose', and the small word for 'to you' does the job of 'your'. The opening word is a rude, bossy 'get lost'."),
-    (2, None, "'What for? What did I do to you?' The first question is two short words, and it is what you say when you're blamed for something and don't know why. The second one is built in the same way as the nose line, with 'to you' tucked in the middle."),
-    (3, None, "'Yesterday you kissed my girl!' Russian uses one word for both 'young woman' and 'girlfriend', and 'my' has the ending that shows it's a woman. 'kissed' carries that 'sya' again, because kissing is something two people do to each other."),
-    (4, None, "'It was a completely accidental misunderstanding.' Max reaches for the longest, most official-sounding word he can find. 'Accidental' comes from 'a chance event', so it simply means it happened by chance."),
-    (5, None, "'You were kissing right in the restaurant!' Kostya now says 'you' for two people, Max and Nastya, and 'kissing' changes to match. The small word in front of the place means 'right there'."),
-    (6, None, "'I wanted to sleep all day yesterday.' Max's excuse is built just like English, 'wanted' and then 'to sleep'. His 'wanted' ends in a consonant because he is a man. A woman would add an 'a'."),
-    (7, None, "'By the way, technically she is not yours yet.' 'by the way' is the one you use to slip in a point you hope the other person ignores. Then comes 'yet', which in another setting also means 'bye', as in the goodbye you'll hear at the end."),
-    (8, None, "'For me that does not matter.' Literally it's 'does not have significance'. You can use the whole chunk to wave anything away, and it works for 'it doesn't matter' in nearly any situation."),
-    (9, None, "'There is nothing between me and Nastya!' Russian says 'nothing is-not' here, so 'nothing' and 'there isn't' both appear. In English that would be a double negative, but in Russian it is correct. Nastya's name also changes its ending after 'between'."),
-    (10, None, "'You betrayed our friendship, Max.' 'friendship' comes from 'friend', so it's easy to remember. Kostya ends with Max's name, which makes the accusation sound heavier."),
-    (11, None, "'I will prove that she means nothing to me.' 'I will prove' is the key to the line, and Kostya will pick it up in a moment. 'indifferent' is made from 'without' and 'difference', and Russian puts it as 'she to me is indifferent'."),
-    (12, None, "'We will see how you prove it.' Kostya doesn't believe a word. The line opens with the standard 'we'll see', and the last is Max's own word for 'prove', now with the ending for 'you'."),
+    (0, None, '\'Kostya, hi. Why are you angry?\' "Pochemu" is the everyday \'why\'. "Serdishsya" is the \'you\' form of the verb "serditsya", \'to be angry\', and the -sya on the end belongs to the verb, so it stays on in every form.'),
+    (1, None, '\'Back off, or I will break your nose!\' "Otvali" is a rude \'get lost\', not something to say to your boss. Then Russian says \'I will break to-you the nose\': "tebe", \'to you\', does the work of \'your\'.'),
+    (2, None, '\'What for? What did I do to you?\' "Za chto", two short words, is what you say when you\'re blamed and can\'t see why. The second question has the same "tebe" in the middle: "chto ya tebe sdelal".'),
+    (3, None, '\'Yesterday you kissed my girl!\' In Russian you kiss \'with\' someone: "tselovalsya s moey devushkoy", and after "s" the words take the endings -oy. "Devushka" covers both \'young woman\' and \'girlfriend\'.'),
+    (4, None, '\'It was a completely accidental misunderstanding.\' Max goes for long, official-sounding words. "Sluchaynoe" comes from "sluchay", \'a chance\' or \'an occasion\', and "nedorazumenie" is the standard word for a misunderstanding.'),
+    (5, None, '\'You were kissing right in the restaurant!\' Now the \'you\' is "vy", Max and Nastya together, and the verb turns plural: "tselovalis". "Pryamo" means \'right\' or \'straight\', and "v restorane" takes -e because it says where.'),
+    (6, None, '\'I wanted to sleep all day yesterday.\' "Ves den", \'the whole day\', needs no little word in front, just as in English. "Khotel" is the man\'s form of \'wanted\'; Nastya would say "khotela".'),
+    (7, None, '\'By the way, technically she is not yours yet.\' "Kstati" is \'by the way\', perfect for slipping in an awkward point. "Poka" here means \'yet\' or \'for now\', and the same word is also an everyday \'bye\'.'),
+    (8, None, '\'For me that does not matter.\' Word for word: \'for me this not has meaning\'. "Dlya menya" means \'for me\', and "ne imeet znacheniya" is a ready-made way to say something doesn\'t matter.'),
+    (9, None, '\'There is nothing between me and Nastya!\' After "mezhdu", \'between\', both names take instrumental endings: "mezhdu mnoy i Nastey". "Nichego net" uses two negatives, and in Russian that\'s correct.'),
+    (10, None, '\'You betrayed our friendship, Max.\' "Druzhba", \'friendship\', is built on "drug", \'friend\'. Here it\'s "druzhbu", with -u, because it\'s the thing being betrayed.'),
+    (11, None, '\'I will prove that she means nothing to me.\' "Dokazhu" is \'I will prove\'. Then she is "bezrazlichna mne", \'indifferent to me\', with "bez", \'without\', stuck on the front.'),
+    (12, None, '\'We will see how you prove it.\' "Posmotrim", \'we\'ll see\', is what you say when you don\'t believe a word. Max\'s "dokazhu" comes back as "dokazhesh", the form for \'you\'.'),
 ]

@@ -10,14 +10,14 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "The evening shift at Claude Monet is over. Max, who has survived his first day as a fish cook, talks us through the day and the people in it, and we hear Kostya and Barinov in passing. It's in Russian first."
+INTRO = 'The evening shift at Claude Monet is finally over. Max has survived his first day as a fish cook, and he looks back on it and on the people around him, while we catch Kostya and Chef Barinov in passing. Listen in Russian first.'
 OPENER = 'Now through it slowly. Most of this is Max thinking aloud, so the sentences are calm.'
-TRANSITION = 'Quick replay now.'
-OUTRO = "That was the last scene of the episode, and you've now heard a lot of Russian about a very bad day. Good days are easier to describe. See you next time."
+TRANSITION = 'One last time, the end of the day.'
+OUTRO = 'Max ends with "pora otdokhnut", \'time to rest\', and after a day like that he\'s earned it. "Byvayut dni", \'there are days\', is a line you\'ll find a use for too.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Бывают дни, когда всё идёт не так.', 'There are days when everything goes wrong.', [(314, 'бывают дни, когда у тебя все идет не так.')], ''),
-    ('max', 'На кухне сегодня была настоящая запара.', 'In the kitchen today there was real rush.', [], ''),
+    ('max', 'На кухне сегодня была настоящая запара.', 'In the kitchen today there was a real rush.', [], ''),
     ('max', 'Шеф кричал, а заказы не заканчивались.', 'The chef shouted, and the orders did not end.', [], ''),
     ('max', 'Но такие трудные дни всегда заканчиваются.', 'But such difficult days always end.', [(315, 'такие дни всегда заканчиваются.')], ''),
     ('max', 'Кому-то этот день принёс что-то новое.', 'To someone this day brought something new.', [(316, 'Кому-то этот день принес что-то новое.')], ''),
@@ -26,24 +26,24 @@ STORY = [
     ('kostya', 'Надеюсь, твоя смена прошла хорошо.', 'I hope your shift went well.', [], ''),
     ('barinov', 'Семь тысяч рублей на Спартак!', 'Seven thousand rubles on Spartak!', [(319, 'Семь тысяч на Спартак.')], ''),
     ('barinov', 'Моя любимая команда обязательно победит!', 'My favorite team will definitely win!', [], ''),
-    ('max', 'Кто-то искренне рад этому дню.', 'Someone is sincerely happy with this day.', [(320, 'Кто-то рад этому дню.')], ''),
+    ('max', 'Кто-то искренне рад этому дню.', 'Someone is truly glad about this day.', [(320, 'Кто-то рад этому дню.')], ''),
     ('max', 'А я счастлив, что он закончился.', 'And I am happy that it ended.', [(321, 'А'), (322, 'я счастлив, что он закончился.')], ''),
     ('max', 'Завтра на кухне начнётся новая работа.', 'Tomorrow in the kitchen new work will begin.', [], ''),
     ('max', 'А сегодня пора немного отдохнуть.', 'And today it is time to rest a little.', [], ''),
 ]
 WALK = [
-    (0, None, "'There are days when everything goes wrong.' 'There are' here is 'happen', which Russians use for things that come round. 'Goes wrong' is literally 'goes not so'."),
-    (1, None, "'In the kitchen today there was a real rush.' 'Was' ends in 'a' to match 'rush', which counts as a she-word. 'Real' is the same word that means 'true', as in 'true love'."),
-    (2, None, "'The chef shouted, and the orders did not end.' The little word 'a' in the middle is a contrast, like 'while'. 'Did not end' ends in 'sya', which is 'finish themselves'."),
-    (3, None, "'But such difficult days always end.' 'Difficult' comes from 'labour'. 'Such' and 'difficult' have the same plural ending."),
-    (4, None, "'To someone this day brought something new.' 'Someone' is 'who' plus a tiny 'to', and here it is in the 'to' form. 'Something' is 'what' with the same little piece."),
-    (5, None, "'For someone everything stays the same.' 'The same' is literally 'in the old way'. 'Stays' ends in 'sya'."),
-    (6, None, "'Hi, Nastya, glad to see you.' 'Glad' is the man's form. 'To see you' has 'you' in a changed shape."),
-    (7, None, "'I hope your shift went well.' 'Your shift went' uses 'went' in the sense of 'passed', as if the shift walked by."),
-    (8, None, "'Seven thousand rubles on Spartak!' Barinov loves Spartak, a Moscow football club, so he bets on them. 'Thousand' has a plural form after 'seven'."),
-    (9, None, "'My favorite team will definitely win!' 'Favorite' comes from 'to love'. 'Will win' is a one-word future."),
-    (10, None, "'Someone is sincerely happy with this day.' 'Sincerely' is assembled from the same family as 'sincere'. 'Glad' is followed by the 'to' form, so it's 'glad to this day'."),
-    (11, None, "'And I am happy that it ended.' 'Happy' ends in a consonant because Max is a man. 'It ended' is about the day, which is masculine in Russian."),
-    (12, None, "'Tomorrow in the kitchen new work will begin.' 'Will begin' ends in 'sya', so the work begins itself."),
-    (13, None, "'And today it is time to rest a little.' 'Time to' is one word with no 'is'. 'Rest' comes from 'a break'."),
+    (0, None, '\'There are days when everything goes wrong.\' "Byvayut", from "byvat", is \'there are\', with a sense of \'it happens now and then\'. "Idyot ne tak" is literally \'goes not so\'.'),
+    (1, None, '\'In the kitchen today there was a real rush.\' "Byla" has -a to match "zapara", which is feminine. "Nastoyashchaya", \'real\', is the same word that means \'true\'.'),
+    (2, None, '\'The chef shouted, and the orders did not end.\' The little a in the middle sets up a contrast, like \'while\'. "Zakanchivalis" is \'were coming to an end\', and with the "ne" in front the orders just kept coming.'),
+    (3, None, '\'But such difficult days always end.\' "Trudnye", \'difficult\', comes from "trud", \'labour\'. "Takie" and "trudnye" share the plural ending -ie, -ye with "dni".'),
+    (4, None, '\'To someone this day brought something new.\' "Komu-to" is "kto-to", \'someone\', changed to mean \'to someone\'. "Chto-to novoe", \'something new\', has neuter -oe.'),
+    (5, None, '\'For someone everything stays the same.\' "Po-staromu", \'the same as before\', is literally \'in the old way\'. After "dlya", \'for\', "kto-to" becomes "kogo-to".'),
+    (6, None, '\'Hi, Nastya, glad to see you.\' Kostya says "rad" as a man, and drops the "ya", as people often do in greetings. "Tebya", \'you\', is the accusative after "videt".'),
+    (7, None, '\'I hope your shift went well.\' "Proshla", \'went\' or \'passed\', has -a to match "smena", \'shift\'. "Khorosho", \'well\', also does duty as \'good\'.'),
+    (8, None, '\'Seven thousand rubles on Spartak!\' Spartak is a Moscow football club. After "sem", \'seven\', both words go into the genitive plural: "tysyach rubley".'),
+    (9, None, '\'My favorite team will definitely win!\' "Lyubimaya", \'favourite\', comes from "lyubit", \'to love\'. "Pobedit" looks like the present, but it means \'will win\'.'),
+    (10, None, '\'Someone is truly glad about this day.\' "Iskrenne", \'sincerely\', is the adverb from "iskrenniy". "Rad etomu dnyu" is literally \'glad to this day\'.'),
+    (11, None, '\'And I am happy that it ended.\' "Schastliv", \'happy\', is the short form for a man. On, \'it\', refers to "den", \'day\', which is masculine.'),
+    (12, None, '\'Tomorrow in the kitchen new work will begin.\' "Nachnyotsya", \'will begin\', means \'will begin\', and the -sya stays on the end. "Novaya" ends in -aya to match "rabota".'),
+    (13, None, '\'And today it is time to rest a little.\' "Pora", \'it\'s time\', needs no \'is\': it\'s just \'time to rest\'. "Otdokhnut" shares "dokh" with "vdokh" and "vydokh", so it\'s close to \'catch your breath\'.'),
 ]

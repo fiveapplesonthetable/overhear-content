@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Like that, Max, keep the right rhythm.' 'Rhythm' is the English word with a Russian ending. 'Hold' is 'keep', as when you keep a beat.
-- 'The fish is almost ready on the hot pan.' 'Ready' ends in 'a' because fish is a she in Russian. The pan is a 'skovoroda', and it takes an 'e' ending after 'on'.
-- 'Great, carefully transfer the fish to the plate.' The command begins with a piece that means 'across', so it's 'lay across'. 'Fish' has an 'u' ending because it's the thing being moved.
-- 'I add fresh greens and sauce.' 'Greens' comes from 'green', so it's a nice one to remember. 'I add' ends in 'yu'.
-- 'Well done, take your time.' The first word is the cheerful 'good for you'. 'Don't hurry' ends in 'sya'.
-- 'Each dish must look beautiful.' 'Must' ends in 'o' to match 'dish', which is neuter. 'Beautifully' is made from 'beautiful'.
-- 'Inhale and exhale, I am calm.' The two breath words are 'in' and 'out' with prefixes. 'Calm' ends in a consonant because Max is a man.
-- 'See, the panic disappears by itself.' 'You see' is the usual way to say 'see?'. 'By itself' is literally 'self by self'.
-- 'Now I control this entire process.' 'Control' is borrowed from English, with the Russian ending 'yu'. 'Process' is borrowed too.
-- 'This order is ready to serve.' 'Ready' ends in a consonant because the order is masculine. 'To serve' is a noun here, the word for serving.
-- 'The waiter can already take the plate.' 'Can' is the 'he can' form, and 'take away' is the word for collecting a plate. 'Already' again does a lot of work.
-- 'You are doing great on the shift today.' 'You cope' means 'you manage', which is how Russians praise someone's work. 'On the shift' has the 'e' place ending.
-- 'Thank you, Fedya, I am ready for work!' 'Ready for' is a short phrase and the work comes after it. 'Work' ends in 'e'.
+- 'Like that, Max, keep the right rhythm.' "Ritm" is borrowed, so it's easy to catch. "Derzhi", 'hold', also covers keeping a beat or a pace.
+- 'The fish is almost ready on the hot pan.' "Gotova" has -a because "ryba" is feminine. After "na", the pan, "skovoroda", takes -e: "na goryachey skovorode".
+- 'Great, carefully transfer the fish to the plate.' "Perelozhi" starts with "pere-", 'across', so it's 'lay over'. "Rybu", the fish being moved, has -u, and so does "na tarelku", where it goes.
+- 'I add fresh greens and sauce.' "Zelen", 'greens' or 'herbs', is simply "zelyonyy", 'green', turned into a thing. "Dobavlyayu", 'I add', has the 'I' form -yu.
+- 'Well done, take your time.' "Molodets" is the warm 'good job' you give someone younger or junior. "Ne toropis", 'don't hurry', ends in -s, the short form of -sya.
+- 'Each dish must look beautiful.' "Dolzhno" ends in -o to match "blyudo", which is neuter. "Krasivo" is the adverb, so Russian literally says 'look beautifully'.
+- 'Inhale and exhale, I am calm.' "Vdokh i vydokh" come back from Fedya's lesson. "Spokoen", 'calm', is the short form for a man; Nastya would say "spokoyna".
+- 'See, the panic disappears by itself.' "Vidish", 'you see', is the usual 'see?'. "Sama soboy", literally 'itself by itself', means 'on its own', and "sama" is feminine to match "panika".
+- 'Now I control this entire process.' "Kontroliruyu" and "protsess" are borrowed, with Russian endings. "Ves etot", 'all this', piles up two words before "protsess".
+- 'This order is ready to serve.' "Gotov" has no ending because "zakaz" is masculine. "K podache", 'for serving', uses the noun "podacha", after "k" with the dative -e.
+- 'The waiter can already take the plate.' "Mozhet" is 'he can', and "zabirat" is to come and take something away. "Tarelku", the plate being taken, ends in -u.
+- 'You are doing great on the shift today.' "Spravlyaeshsya", 'you're coping', is how Russians praise someone's work. "Na smene", 'on the shift', has the place ending -e.
+- 'Thank you, Fedya, I am ready for work!' Max answers with the same "gotov k rabote" he gave Barinov earlier. This time he sounds as if he means it.

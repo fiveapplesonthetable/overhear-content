@@ -10,17 +10,17 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "The duel is on, and Chef Barinov has decided that Max needs help, but he can't be seen giving it. So he rings the kitchen phone and pretends to be Max's mother. Max, who is not stupid, plays along in front of the other cooks. Listen to it in Russian first."
-OPENER = "Let's replay the phone call. It starts with Max not knowing who this could be."
-TRANSITION = 'Now put it all back together.'
-OUTRO = "Phone calls have their own small words: the hello, the 'I'll call you back', and the 'bye'. You've heard all three. See you next time."
+INTRO = "The cook-off is on in the Claude Monet kitchen, and Chef Barinov has decided Max needs help, but he can't be seen giving it. So he rings the kitchen phone and pretends to be Max's mother, with the recipe. Max catches on and plays along in front of the other cooks. Listen in Russian first."
+OPENER = "Let's replay the phone call, from the moment Max hears who's on the line."
+TRANSITION = 'Now the call in one go.'
+OUTRO = 'That\'s a whole phone call in miniature: "allo" to pick up, "perezvonyu" to promise you\'ll call back, "tseluyu" and "poka" to hang up. Max now has the chef\'s recipe, and nobody knows it.'
 CLOSING = ('max', 'До скорого!')
 STORY = [
     ('max', 'Кто? Мама?', 'Who? Mom?', [(124, 'Кто? Мама?')], ''),
     ('max', 'А откуда она знает этот номер?', 'And how does she know this number?', [(125, 'А откуда она знает этот номер')], ''),
     ('max', 'Алло, мама?', 'Hello, Mom?', [(126, 'Алло, мама?')], ''),
     ('barinov', 'Да, мама я, твоя мама.', 'Yes, it is Mom, your mom.', [(126, 'Да, мама я, твоя мама')], ''),
-    ('barinov', 'Будешь готовить форель с обычным жульеном.', 'You will cook trout with classic julienne.', [(127, 'Будешь готовить форель с обычным')], ''),
+    ('barinov', 'Будешь готовить форель с обычным жюльеном.', 'You will cook trout with classic julienne.', [(127, 'Будешь готовить форель с обычным')], ''),
     ('barinov', 'Для начала выпотроши свежую рыбу.', 'First, clean the fresh fish.', [(128, 'Для начала выпотроши рыбу')], ''),
     ('barinov', 'Потом аккуратно удали хребет.', 'Then carefully remove the backbone.', [(128, 'удали хребет')], ''),
     ('barinov', 'И положи филе в холодильник.', 'And put the fillet in the fridge.', [(128, 'и положи филе в холодильник')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Это звонила мама из Воронежа.', 'That was Mom calling from Voronezh.', [(132, 'Мама из Воронежа')], ''),
 ]
 WALK = [
-    (0, None, "'Who? Mom?' Max says it twice, once as 'who' and once as 'mom'. 'mom' sounds just like it does in English."),
-    (1, None, "'And how does she know this number?' Russian opens with 'from where', which it uses for 'how come'. 'Knows' is the form from 'I don't know'."),
-    (2, None, "'Hello, Mom?' 'hello' that Max uses is only for the phone. You'd say a different one in person."),
-    (3, None, "'Yes, it is Mom, your mom.' Barinov puts 'mom' first, which makes it sound funnier than 'I am your mother'. Notice the lack of 'is' again."),
-    (4, None, "'You will cook trout with classic julienne.' The future is built with 'you will be' plus a second word, 'to cook'. That is a very common way to say 'you will do'. 'Classic' is closer to 'usual'."),
-    (5, None, "'First, clean the fresh fish.' Now it's the chef giving the instructions. 'For a start' is literally 'for a beginning', and the command means 'gut', which is how you clean a fish."),
-    (6, None, "'Then carefully remove the backbone.' The first word means 'then', or 'after that'. 'carefully' is also used for 'neatly', and the command ends with 'backbone'."),
-    (7, None, "'And put the fillet in the fridge.' 'Fillet' is borrowed from French, and 'fridge' starts from 'cold'. The command is from 'lay down'."),
-    (8, None, "'Did you understand everything, Mommy?' The pet name for 'mom' is longer and sweeter. 'Understood' ends in a consonant, as Max is a man."),
-    (9, None, "'I will call you back later, I am busy.' 'Call back' is 'call' with a prefix meaning 'again'. The last word is a short way of saying 'no time', from 'not when'."),
-    (10, None, "'Kisses to you, bye.' 'I kiss' is the verb for kissing, in the same family as 'kiss'. The last word is 'bye', which is also 'for now'."),
-    (11, None, "'That was Mom calling from Voronezh.' Max says it to the room. Voronezh is his home town. 'Called' ends in 'la', because it agrees with 'mom'."),
+    (0, None, "'Who? Mom?' Two one-word questions. Mama is the word Russian children use, just like English 'mama'."),
+    (1, None, '\'And how does she know this number?\' "Otkuda" is literally \'from where\', and Russians use it for \'how come\'. "Etot nomer" is \'this number\'.'),
+    (2, None, '\'Hello, Mom?\' "Allo" is the hello you say when you pick up the phone. Face to face you\'d say "privet" or "zdravstvuyte".'),
+    (3, None, '\'Yes, it is Mom, your mom.\' Barinov says "mama ya", \'mom I\', with no \'am\'. "Tvoya" is the feminine \'your\', to go with "mama".'),
+    (4, None, '\'You will cook trout with classic julienne.\' "Budesh gotovit", \'you will cook\', is "budu", \'will\', in its \'you\' form plus a plain verb. After "s", \'with\', "zhyulen" becomes "zhyulenom".'),
+    (5, None, '\'First, clean the fresh fish.\' "Dlya nachala" is \'for a start\'. "Vypotroshi" literally means \'gut it\', which is exactly how you clean a fish.'),
+    (6, None, '\'Then carefully remove the backbone.\' "Potom" means \'then\', \'after that\'. "Akkuratno" looks like \'accurately\' but means \'carefully\' or \'neatly\'.'),
+    (7, None, '\'And put the fillet in the fridge.\' "Kholodilnik", \'fridge\', grows out of "kholod", \'cold\'. "Polozhi" means \'put\', for laying something down.'),
+    (8, None, '\'Did you understand everything, Mommy?\' "Mamulya" is an extra-tender \'mommy\'. Coming from the chef, it\'s pure comedy.'),
+    (9, None, '\'I will call you back later, I am busy.\' "Perezvonyu" is "zvonit", \'to call\', with "pere-", \'again\'. "Nekogda" means \'there\'s no time\', and "popozzhe" is \'a bit later\'.'),
+    (10, None, '\'Kisses to you, bye.\' "Tseluyu tebya", \'I kiss you\', is how Russians end calls with family. Then "poka", the casual \'bye\'.'),
+    (11, None, '\'That was Mom calling from Voronezh.\' "Zvonila" ends in -la to agree with "mama". After "iz", \'from\', Voronezh, a city south of Moscow, becomes "Voronezha".'),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, why are you crying so bitterly?' 'bitterly' is the one for the taste. Russians cry 'bitterly', just as the English cry bitter tears.
-- 'Max treated me very badly.' Russian says 'acted with me', and the small word for 'with me' has a different form from 'me' alone. The two words 'very badly' do the rest.
-- 'What did this guy do again?' Vika says 'this guy' rather than his name, which shows she's fed up. 'did' carries the sense of 'gone and done something bad'.
-- 'He said that we are just friends.' 'just' here means 'merely'. 'Friends' is the plural of 'friend', and it changes the vowel at the end.
-- 'Do not be upset over a foolish cook.' Russian makes 'don't' by putting 'not' before the command. It ends in 'sya', so it is really 'don't upset yourself'.
-- 'I feel very hurt and sad.' She says 'to me hurtful and hard', with the feelings sitting outside her. This is the standard way to talk about a feeling in Russian.
-- 'Wash your face with cold water and calm down.' Both commands end in 'sya': 'wash yourself' and 'calm yourself'. 'With cold water' changes both words' endings to show 'using'.
-- 'Thank you for the support, Victoria Sergeevna.' Nastya uses the full name and the father's name, which is the respectful way to address a senior colleague. Vika is usually 'Vika' in the kitchen, but here she's treated with respect.
-- 'Go back to the dining room, the guests are waiting for their order.' 'Go back' ends in 'sya' too: 'return yourself'. The word for the dining room is short, and 'wait' is followed directly by what you're waiting for.
-- 'I have already dried my tears and I am ready.' 'Dried' ends in 'la' because Nastya is a woman. 'ready' also takes a woman's ending, an 'a'.
-- 'Good girl, work cures everything!' The line begins with a pet word for a clever woman, from 'mind'. Then 'cures' is a doctor's word, so work is the medicine.
-- 'You are absolutely right, I am going to work!' She switches to the polite 'you' again, and 'right' takes the plural ending to match. 'I am going' is the term for walking, and it takes 'to work' straight after it.
+- 'Nastya, why are you crying so bitterly?' "Gorko" comes from "gorkiy", 'bitter', the word for the taste. Russians cry 'bitterly' just as English speakers shed bitter tears.
+- 'Max treated me very badly.' "Postupil so mnoy" is literally 'acted with me'. Before "mnoy", the little "s", 'with', takes an extra vowel and becomes so.
+- 'What did this guy do again?' "Etot paren", 'this guy', instead of his name tells you Vika is fed up. "Natvoril" means 'got up to', always about something bad.
+- 'He said that we are just friends.' "Prosto", 'just', here means 'merely'. "Drug", 'friend', has an irregular plural: "druzya".
+- 'Do not be upset over a foolish cook.' "Ne" before a command makes 'don't'. "Iz-za" means 'because of', and after it the cook becomes "glupogo povara".
+- 'I feel very hurt and sad.' Literally 'to me very hurtful and heavy'. Feelings in Russian often work like this: "mne" plus a word ending in -o, like "obidno" or "tyazhelo".
+- 'Wash your face with cold water and calm down.' "Kholodnoy vodoy", 'with cold water', has instrumental endings and no word for 'with' at all, because the water is what you use.
+- 'Thank you for the support, Victoria Sergeevna.' "Spasibo za" means 'thanks for', and "podderzhka" becomes "podderzhku" after it. A first name plus a father's name, "Viktoriya Sergeevna" in Russian, is how you address a boss.
+- 'Return to the dining hall, the guests are waiting for their order.' "V zal", 'into the hall', is about direction. "Zhdut", 'they wait', takes "zakaz", 'the order', straight after it.
+- 'I already dried my tears and am ready.' "Vyterla" and "gotova" both end in -a, the woman's forms. "Slyozy", 'tears', is the plural of "slyoza".
+- 'Good girl, work cures everything!' "Umnitsa", a warm 'clever girl', comes from um, 'mind'. "Lechit" is a doctor's verb, 'treats' or 'heals'.
+- 'You are absolutely right, I am going to work!' With the polite "vy", 'right' takes a plural form: "pravy", even for one person. "Idu rabotat" is 'I'm going to work'.

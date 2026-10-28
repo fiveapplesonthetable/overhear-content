@@ -22,22 +22,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 10 | Макс | А ты думаешь, ты готовишь лучше меня? | And do you think you cook better than me? | #82 00:05:12: ты лучше готовишь | verbatim |
 | 11 | Федя | Уж точно намного лучше тебя! | Certainly much better than you! | #83 00:05:15: уж не хуже | verbatim |
 | 12 | Макс | Тогда давай устроим кулинарный спор! | Then let's make a culinary bet! | #84 00:05:20: Спорим | verbatim |
-| 13 | Федя | Спорим, огузок! Я легко тебя выиграю! | Wanna bet, runt! I will easily beat you! | #84 00:05:20: Спорим | verbatim |
+| 13 | Федя | Спорим, огузок! Я легко тебя обыграю! | Wanna bet, runt! I will easily beat you! | #84 00:05:20: Спорим | verbatim |
 | 14 | Макс | Посмотрим, кто из нас лучший повар! | We will see which of us is the best cook! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Chef!' Literally the greeting is 'kind morning', and the 'kind' takes the same ending as the morning does. 'chef' is borrowed from French, and in this kitchen it works as 'boss'.
-- 'Runt, you are constantly late for work.' The chef's nickname for Max is back. The verb for 'be late' is in the present, which in Russian can mean 'you keep being late'.
-- 'Chef, they did not issue my uniform on time.' Max says 'to me they didn't issue', with no one named, which is the standard way to blame nobody. The phrase for 'on time' is written as a single word.
-- 'Enough excuses, quickly go to work!' The line opens with 'enough', and the thing you've had enough of comes after it. The last two words are 'go' and 'work', with no 'to' between them, which is how Russian says 'go and work'.
-- 'You joke as badly as you cook.' The two halves are built to match: 'as badly' and then 'as you cook'. The verb for 'cook' is also the one for 'prepare', so Fedya uses it for any food.
-- 'I didn't understand your joke, Fedya.' It's the polite way of saying 'I didn't get it'. 'Joke' changes its ending after 'your', because the joke is the thing that wasn't understood.
-- 'This is a normal state for your brain.' 'normal' is closer to 'usual' or 'ordinary'. It is a good insult because it sounds almost calm.
-- 'Do you want to say that I cook badly?' Russian builds it as 'you want to say' with no 'to' needed. The little word for 'that' is the same as 'what'.
-- 'Yes, that is exactly what I say.' 'exactly' comes before 'this', and the 'and' in front of the verb adds weight. In English you'd stress 'that's exactly what I am saying'.
-- 'And do you think you cook better than me?' Russian says 'better of me', putting 'me' in a different form instead of using a word for 'than'. That is the usual way to compare two people.
-- 'Certainly much better than you!' It's the same comparison, with 'you' in the same changed form. 'much' is stuck on the front of 'better' to make 'far better'.
-- 'Then let's make a culinary bet!' 'let's' is literally 'give', and it's how Russians propose something. The thing they propose is 'a dispute', and the same word also means 'bet' in this context.
-- 'Wanna bet, runt! I will easily beat you!' Fedya's first word stems from 'dispute' from the line before. 'easily' comes from 'light', as in light weight.
-- 'We will see which of us is the best cook!' The first word is the 'we'll see' you use when you want the last word. 'Of us' is a nice chunk: 'which of us' becomes 'who from us'.
+- 'Good morning, Chef!' Literally 'kind morning'. "Dobroe" ends in -oe to match "utro", a word ending in -o. "Shef" is borrowed from French, and in this kitchen it simply means 'boss'.
+- 'Runt, you are constantly late for work.' Oguzok, Barinov's name for Max, is really the rump cut of beef. "Opazdyvaesh" is a present-tense verb, and with "postoyanno", 'constantly', it means 'you keep being late'.
+- 'Chef, they did not issue my uniform on time.' Max says "mne ne vydali", 'to me they didn't issue', so nobody in particular gets the blame. "Vovremya", 'on time', is written as one word.
+- 'Enough excuses, quickly go to work!' After "khvatit", 'enough', the thing you've had enough of takes a genitive ending: "opravdaniy". "Idi rabotat" is just 'go work', two verbs side by side.
+- 'You joke as badly as you cook.' The two halves match: "tak zhe plokho", 'just as badly', and "kak i", 'as also'. "Gotovish", 'you cook', also means 'you prepare'.
+- 'I didn't understand your joke, Fedya.' After "ne ponyal", 'didn't understand', the joke turns into "shutki", and "tvoya" into "tvoey". "Ponyal", without -a, tells you a man is talking.
+- 'This is a normal state for your brain.' "Dlya", 'for', changes what follows it: "tvoy mozg" becomes "tvoego mozga". It's an insult said almost calmly.
+- 'Do you want to say that I cook badly?' "Khochesh skazat" is 'you want to say', two verbs and no 'to'. "Chto" here means 'that', though it's also the word for 'what'.
+- 'Yes, that is exactly what I say.' "Imenno" means 'exactly' or 'precisely'. The small "i" before "govoryu" isn't 'and' here: it just leans on the word for emphasis.
+- 'And do you think you cook better than me?' No word for 'than'. Russian puts 'me' into the form "menya" and says "luchshe menya", 'better of me'.
+- 'Certainly much better than you!' The same pattern, "luchshe tebya". "Namnogo" in front makes it 'much better', and "uzh tochno" is a cocky 'that's for sure'.
+- 'Then let's make a culinary bet!' "Davay" comes from the verb 'to give', and before another verb it means 'let's'. "Spor" is an argument; "kulinarnyy spor" makes it a cook-off on a bet.
+- 'Wanna bet, runt! I will easily beat you!' "Sporim", from "sporit", 'to argue', is how Russians say 'wanna bet?'. "Obygrayu" means 'I'll beat you at it', with the loser as the object, "tebya".
+- 'We will see which of us is the best cook!' "Posmotrim" again, the 'we'll see' Kostya used. "Kto iz nas" is 'who out of us', a handy chunk for comparing people.

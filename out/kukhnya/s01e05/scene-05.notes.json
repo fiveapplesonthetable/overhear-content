@@ -676,14 +676,14 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, genitive"
+          "gram": "2nd person singular, accusative"
         },
         {
-          "t": "выиграю!",
-          "lemma": "выиграть",
+          "t": "обыграю!",
+          "lemma": "обыграть",
           "pos": "verb",
-          "stress": "вы́играю",
-          "gloss": "will win",
+          "stress": "обыгра́ю",
+          "gloss": "will beat",
           "gram": "1st person singular future, perfective"
         }
       ]
@@ -1416,14 +1416,14 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, genitive"
+          "gram": "2nd person singular, accusative"
         },
         {
-          "t": "выиграю!",
-          "lemma": "выиграть",
+          "t": "обыграю!",
+          "lemma": "обыграть",
           "pos": "verb",
-          "stress": "вы́играю",
-          "gloss": "will win",
+          "stress": "обыгра́ю",
+          "gloss": "will beat",
           "gram": "1st person singular future, perfective"
         }
       ]
@@ -2156,14 +2156,14 @@
           "pos": "pron",
           "stress": "тебя́",
           "gloss": "you",
-          "gram": "2nd person singular, genitive"
+          "gram": "2nd person singular, accusative"
         },
         {
-          "t": "выиграю!",
-          "lemma": "выиграть",
+          "t": "обыграю!",
+          "lemma": "обыграть",
           "pos": "verb",
-          "stress": "вы́играю",
-          "gloss": "will win",
+          "stress": "обыгра́ю",
+          "gloss": "will beat",
           "gram": "1st person singular future, perfective"
         }
       ]
@@ -2568,102 +2568,6 @@
         {
           "word": "отдать",
           "gloss": "to give"
-        }
-      ]
-    },
-    "выиграть": {
-      "lemma": "выиграть",
-      "stress": "вы́играть",
-      "pos": "verb",
-      "gloss": "to win",
-      "aspect": "pf",
-      "pair": "выигрывать",
-      "meanings": [
-        {
-          "en": "to win",
-          "note": "Prefix 'вы-' ('out of') marks outward movement or thorough completion (stem 'играть'). Used as an perfective (single completed action) verb meaning 'to win', paired with 'выигрывать'."
-        }
-      ],
-      "forms": {
-        "title": "Future",
-        "columns": [
-          "",
-          "sg",
-          "pl"
-        ],
-        "rows": [
-          {
-            "cells": [
-              "1st",
-              "выиграю",
-              "выиграем"
-            ]
-          },
-          {
-            "cells": [
-              "2nd",
-              "выиграешь",
-              "выиграете"
-            ]
-          },
-          {
-            "cells": [
-              "3rd",
-              "выиграет",
-              "выиграют"
-            ]
-          }
-        ]
-      },
-      "moreForms": [
-        {
-          "title": "Past",
-          "columns": [
-            "",
-            "m",
-            "f",
-            "n",
-            "pl"
-          ],
-          "rows": [
-            {
-              "cells": [
-                "past",
-                "выиграл",
-                "выиграла",
-                "выиграло",
-                "выиграли"
-              ]
-            }
-          ]
-        }
-      ],
-      "examples": [
-        {
-          "text": "Эти выборы ты не выиграешь.",
-          "trans": "You won't win this election."
-        },
-        {
-          "text": "Мы выиграли!",
-          "trans": "We won!"
-        },
-        {
-          "text": "Паша, эти выборы ты не выиграешь.",
-          "trans": "Pasha, you won't win this election."
-        }
-      ],
-      "related": [
-        {
-          "word": "выигрывать",
-          "gloss": "to win"
-        },
-        {
-          "word": "поиграть",
-          "gloss": "to play for a while"
-        },
-        {
-          "word": "проиграть",
-          "gloss": "to lose"
         }
       ]
     },
@@ -6895,6 +6799,98 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "обыграть": {
+      "lemma": "обыграть",
+      "stress": "обыгра́ть",
+      "pos": "verb",
+      "gloss": "to beat (in a game)",
+      "aspect": "pf",
+      "pair": "обыгрывать",
+      "meanings": [
+        {
+          "en": "to beat (someone at a game)",
+          "note": "Takes the person beaten as a direct object: обыграть кого-то. Perfective (one completed win), paired with обыгрывать."
+        }
+      ],
+      "forms": {
+        "title": "Future",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "1st",
+              "обыграю",
+              "обыграем"
+            ]
+          },
+          {
+            "cells": [
+              "2nd",
+              "обыграешь",
+              "обыграете"
+            ]
+          },
+          {
+            "cells": [
+              "3rd",
+              "обыграет",
+              "обыграют"
+            ]
+          }
+        ]
+      },
+      "moreForms": [
+        {
+          "title": "Past",
+          "columns": [
+            "",
+            "m",
+            "f",
+            "n",
+            "pl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "past",
+                "обыграл",
+                "обыграла",
+                "обыграло",
+                "обыграли"
+              ]
+            }
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "text": "Я легко тебя обыграю!",
+          "trans": "I will easily beat you!"
+        },
+        {
+          "text": "Он обыграл меня в шахматы.",
+          "trans": "He beat me at chess."
+        }
+      ],
+      "related": [
+        {
+          "word": "обыгрывать",
+          "gloss": "to beat (imperfective)"
+        },
+        {
+          "word": "выиграть",
+          "gloss": "to win"
+        },
+        {
+          "word": "играть",
+          "gloss": "to play"
         }
       ]
     }

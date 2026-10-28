@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'max': 'Макс', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Max and Fedya have agreed to a cooking duel, and the whole kitchen has noticed. Senya, who works the meat station, is running the betting. The dish will be built around cod, the very fish that someone thawed too early. You'll hear it in Russian first, so just enjoy the noise."
+INTRO = "In the Claude Monet kitchen, Max and Fedya have agreed to a cook-off, and everyone has heard. Senya, the meat cook and Fedya's partner in pranks, is taking the bets. The main ingredient will be cod, the fish someone thawed too early. Just enjoy the noise in Russian first."
 OPENER = "Let's go back. Senya talks like a market trader, and Fedya like a boxer before a fight."
 TRANSITION = 'Same lines, no pauses this time.'
-OUTRO = "You now have a few ways to talk about winning, betting and showing off. They'll show up again in a cooking contest. See you next time."
+OUTRO = 'Betting talk is simple in Russian: "stavki" for the bets, "stavit na" for \'bet on\', and "vremya poshlo" when it starts. The cod is on the board.'
 CLOSING = ('max', 'До встречи!')
 STORY = [
     ('senya', 'Итак, повара, делаем ставки и записываемся!', 'So, cooks, place bets and sign up!', [(85, 'Итак, ставим и записываемся')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Я сделаю самый лучший соус.', 'I will make the best sauce.', [], ''),
 ]
 WALK = [
-    (0, None, "'So, cooks, place bets and sign up!' Senya opens like a market trader. 'Place bets' is 'make' plus 'bets', and the last word carries 'sya' since the cooks sign themselves up."),
-    (1, None, "'Now Fedya and Max will prepare a dish each.' The little word 'po' in front of the dish means 'each', so it's one dish apiece. 'Will prepare' is the 'they will' form, ending in 'yat'."),
-    (2, None, "'And the chef will taste and choose the winner.' Both actions are in the future. 'winner' is derived from 'victory', which also gives the name of the Russian holiday on May ninth."),
-    (3, None, "'What is the main ingredient for our dish?' 'main' comes from 'head', as in head chef. The question word 'which' changes its ending to match 'ingredient'."),
-    (4, None, "'The main ingredient of today's contest is cod!' 'today's' is assembled from 'today' by adding endings. 'Contest' is borrowed, and the word for the fish is an easy one to remember, since the whole kitchen is about to cook it."),
-    (5, None, "'You are finished, runt!' There's no 'are' here, just 'to you, an end'. It's how you'd say 'you're done for' in Russian."),
-    (6, None, "'I have cooked all the fish in the ocean!' It's pure boasting, and the 'cooked' is the form for a man. 'In the ocean' gets a little 'e' on the end because it's a place."),
-    (7, None, "'I also know how to cook fish.' 'know how to' talks about a skill rather than a fact. Max puts 'fish' first in the line, as if to say 'fish, I can do'."),
-    (8, None, "'We will see your pathetic skills.' 'skills' comes from the same family as Max's 'know how to', so Fedya turns Max's own word against him."),
-    (9, None, "'Who bets five hundred rubles on Fedya?' Five hundred is 'five' and 'hundred' joined up. 'Bets' springs from 'stakes' from the first line."),
-    (10, None, "'All the cooks in the kitchen bet on me.' 'all' leads the line. The last two words are 'on me', and 'me' takes a different form there."),
-    (11, None, "'And I will prove my talent anyway!' 'anyway' is literally 'everything equal'. 'my own' is a small one that you can use whenever the owner is the speaker."),
-    (12, None, "'The clock has started, begin cooking right now!' Russian says 'time has gone', as in a clock that has started running. The last words, 'right now', are a handy pair."),
-    (13, None, "'I will make the best sauce.' 'the best' is taken from 'most' plus 'best', so 'the most best'. Russian does that to make something more than best."),
+    (0, None, '\'So, cooks, place bets and sign up!\' "Delaem" and "zapisyvaemsya" are \'we\' forms, used here as \'let\'s\'. "Stavki" are the bets, and the -sya on "zapisyvaemsya" means they\'re signing themselves up.'),
+    (1, None, '\'Now Fedya and Max will prepare a dish each.\' "Po" in front of "blyudu" means \'one each\'. "Prigotovyat" ends in -yat, the \'they will\' form.'),
+    (2, None, '\'And the chef will taste and choose the winner.\' "Poprobuet" and "vyberet" are both future. "Pobeditel", \'winner\', comes from "pobeda", \'victory\', as in "Den Pobedy", Victory Day, on the ninth of May.'),
+    (3, None, '\'What is the main ingredient for our dish?\' "Glavnyy", \'main\', grows from "glava", \'head\'. After "dlya", \'for\', the dish becomes "nashego blyuda".'),
+    (4, None, '\'The main ingredient of today\'s contest is cod!\' The dash stands in for \'is\'. "Segodnyashnego konkursa" means \'of today\'s contest\', with "segodnya", \'today\', inside the adjective.'),
+    (5, None, '\'You are finished, runt!\' Literally \'to you an end\'. "Tebe konets" is the stock Russian way to say \'you\'re done for\'.'),
+    (6, None, '\'I have cooked all the fish in the ocean!\' Fedya is the fish cook, so the boast fits. "V okeane" takes -e because it\'s a place, and "rybu" takes -u as the thing cooked.'),
+    (7, None, '\'I also know how to cook fish.\' "Umeyu" is \'I know how\', for a skill. Max puts "rybu" first, like saying \'fish, I can do too\'.'),
+    (8, None, '\'We will see your pathetic skills.\' "Umeniya", \'skills\', comes from "umet", so Fedya throws Max\'s own "umeyu" back at him. "Posmotrim na" means \'we\'ll look at\'.'),
+    (9, None, '\'Who bets five hundred rubles on Fedya?\' "Pyatsot", \'five hundred\', joins "pyat" and "sto". You bet "na" someone, and Fedya becomes "Fedyu" after it.'),
+    (10, None, '\'All the cooks in the kitchen bet on me.\' The same "na", now with "na menya", \'on me\'. "Stavyat" is the \'they\' form of "stavit".'),
+    (11, None, '\'And I will prove my talent anyway!\' "Vsyo ravno", \'all the same\', means \'anyway\'. "Svoy" is the \'my\' you use when the owner is the one doing the action.'),
+    (12, None, '\'Time has started, begin cooking right now!\' "Vremya poshlo", literally \'time went\', is the call that starts the clock. "Pryamo seychas", \'right now\', is worth keeping.'),
+    (13, None, '\'I will make the best sauce.\' "Samyy luchshiy" is \'the most best\', a doubled-up superlative that\'s normal in everyday Russian. "Sous" comes from French.'),
 ]

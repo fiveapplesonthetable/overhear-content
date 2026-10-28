@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Nastya has just heard from Max that there was never anything between them, and she is crying in the staff corridor behind the dining room. Vika, the restaurant's art director, finds her there. It's in Russian first, and you don't need to catch everything."
-OPENER = 'Now through it slowly. Vika is brisk and kind in a no-nonsense way.'
-TRANSITION = 'Time to hear it as it was told.'
-OUTRO = "Vika gives a lot of good Russian commands: don't, wash, calm down, go back. They all end in the same few sounds, which makes them easy to spot. See you next time."
+INTRO = "After Max's breakup speech, Nastya is crying in the staff corridor behind the Claude Monet dining room. Vika, the art director who runs the dining room, finds her there. Here it is in Russian first."
+OPENER = 'Now through it slowly. Vika is kind, but in a brisk, no-nonsense way.'
+TRANSITION = 'Now the whole scene as it was told.'
+OUTRO = 'Listen to Vika\'s commands again: "umoysya", "uspokoysya", "vozvrashchaysya". Every one ends in -sya, because each tells Nastya to do something to herself.'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('vika', 'Настя, почему ты так горько плачешь?', 'Nastya, why are you crying so bitterly?', [(111, 'Настя, что случилось')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Вы абсолютно правы, иду работать!', 'You are absolutely right, I am going to work!', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, why are you crying so bitterly?' 'bitterly' is the one for the taste. Russians cry 'bitterly', just as the English cry bitter tears."),
-    (1, None, "'Max treated me very badly.' Russian says 'acted with me', and the small word for 'with me' has a different form from 'me' alone. The two words 'very badly' do the rest."),
-    (2, None, "'What did this guy do again?' Vika says 'this guy' rather than his name, which shows she's fed up. 'did' carries the sense of 'gone and done something bad'."),
-    (3, None, "'He said that we are just friends.' 'just' here means 'merely'. 'Friends' is the plural of 'friend', and it changes the vowel at the end."),
-    (4, None, "'Do not be upset over a foolish cook.' Russian makes 'don't' by putting 'not' before the command. It ends in 'sya', so it is really 'don't upset yourself'."),
-    (5, None, "'I feel very hurt and sad.' She says 'to me hurtful and hard', with the feelings sitting outside her. This is the standard way to talk about a feeling in Russian."),
-    (6, None, "'Wash your face with cold water and calm down.' Both commands end in 'sya': 'wash yourself' and 'calm yourself'. 'With cold water' changes both words' endings to show 'using'."),
-    (7, None, "'Thank you for the support, Victoria Sergeevna.' Nastya uses the full name and the father's name, which is the respectful way to address a senior colleague. Vika is usually 'Vika' in the kitchen, but here she's treated with respect."),
-    (8, None, "'Go back to the dining room, the guests are waiting for their order.' 'Go back' ends in 'sya' too: 'return yourself'. The word for the dining room is short, and 'wait' is followed directly by what you're waiting for."),
-    (9, None, "'I have already dried my tears and I am ready.' 'Dried' ends in 'la' because Nastya is a woman. 'ready' also takes a woman's ending, an 'a'."),
-    (10, None, "'Good girl, work cures everything!' The line begins with a pet word for a clever woman, from 'mind'. Then 'cures' is a doctor's word, so work is the medicine."),
-    (11, None, "'You are absolutely right, I am going to work!' She switches to the polite 'you' again, and 'right' takes the plural ending to match. 'I am going' is the term for walking, and it takes 'to work' straight after it."),
+    (0, None, '\'Nastya, why are you crying so bitterly?\' "Gorko" comes from "gorkiy", \'bitter\', the word for the taste. Russians cry \'bitterly\' just as English speakers shed bitter tears.'),
+    (1, None, '\'Max treated me very badly.\' "Postupil so mnoy" is literally \'acted with me\'. Before "mnoy", the little "s", \'with\', takes an extra vowel and becomes so.'),
+    (2, None, '\'What did this guy do again?\' "Etot paren", \'this guy\', instead of his name tells you Vika is fed up. "Natvoril" means \'got up to\', always about something bad.'),
+    (3, None, '\'He said that we are just friends.\' "Prosto", \'just\', here means \'merely\'. "Drug", \'friend\', has an irregular plural: "druzya".'),
+    (4, None, '\'Do not be upset over a foolish cook.\' "Ne" before a command makes \'don\'t\'. "Iz-za" means \'because of\', and after it the cook becomes "glupogo povara".'),
+    (5, None, '\'I feel very hurt and sad.\' Literally \'to me very hurtful and heavy\'. Feelings in Russian often work like this: "mne" plus a word ending in -o, like "obidno" or "tyazhelo".'),
+    (6, None, '\'Wash your face with cold water and calm down.\' "Kholodnoy vodoy", \'with cold water\', has instrumental endings and no word for \'with\' at all, because the water is what you use.'),
+    (7, None, '\'Thank you for the support, Victoria Sergeevna.\' "Spasibo za" means \'thanks for\', and "podderzhka" becomes "podderzhku" after it. A first name plus a father\'s name, "Viktoriya Sergeevna" in Russian, is how you address a boss.'),
+    (8, None, '\'Return to the dining hall, the guests are waiting for their order.\' "V zal", \'into the hall\', is about direction. "Zhdut", \'they wait\', takes "zakaz", \'the order\', straight after it.'),
+    (9, None, '\'I already dried my tears and am ready.\' "Vyterla" and "gotova" both end in -a, the woman\'s forms. "Slyozy", \'tears\', is the plural of "slyoza".'),
+    (10, None, '\'Good girl, work cures everything!\' "Umnitsa", a warm \'clever girl\', comes from um, \'mind\'. "Lechit" is a doctor\'s verb, \'treats\' or \'heals\'.'),
+    (11, None, '\'You are absolutely right, I am going to work!\' With the polite "vy", \'right\' takes a plural form: "pravy", even for one person. "Idu rabotat" is \'I\'m going to work\'.'),
 ]

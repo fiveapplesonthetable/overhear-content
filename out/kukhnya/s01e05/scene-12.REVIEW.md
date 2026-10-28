@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, I agree to this plan.' The line opens with a casual 'fine, okay'. 'Agree' gets 'a' since Nastya is a woman; a man would say it with no ending.
-- 'That's a good girl, you made a decision.' 'good girl' is a masculine word, even though it is said to a woman. In Russian you 'take' a decision, rather than 'make' one, and the 'la' on the end marks her as female.
-- 'But I am still a little bit afraid.' The phrase for 'still' is literally 'everything equal', which here means 'all the same'. 'A little' is one word, a combination of 'not' and 'much'.
-- 'What exactly are you afraid of right now?' 'what' takes a different shape after 'afraid', so it comes out as 'of what'. 'exactly' appears again, which is typical of Sasha.
-- 'What if Kostya won't want to talk?' The word that starts the line normally means 'suddenly', but here it means 'what if'. 'Won't want' is 'not will-want', which is a future.
-- 'Kostya has been looking at you for a long time.' Russian uses the present for something that started in the past and is still going: 'he looks at you, for a long time'. 'Looks at' comes out as 'looks on'.
-- 'Really? Did you notice his looks?' 'Really' is 'truth' used as a question. 'His looks' is a plural word for glances, and the long word is the past of 'to notice'.
-- 'Of course, he likes you very much.' Here the 'like' word flips: it says 'you to him are pleasing', so you do the pleasing. It's a good pattern to learn once.
-- 'Then I will go to the bar counter.' 'Will go' is a one-word future. The little word 'k' in front of the counter means 'toward', and the counter changes its ending after it.
-- 'Smile at him warmly and openly.' The command for 'smile' ends in 'sya', so it's 'smile yourself'. The two how-words, 'warmly' and 'openly', both end in 'o'.
-- 'Max will definitely regret his behavior.' 'regret' belongs to the family of 'sorry'. 'His own' is a special word that points back to the speaker of the sentence.
-- 'I wish you great luck, my friend!' 'I wish' is a handy opening for any good wish. 'Luck' gets a different ending after it, because the thing you wish is in a special shape.
-- 'Thanks for the support, dear Sasha!' 'dear' is the same as 'expensive', so a close friend is a 'dear' one in both senses. 'For the support' is 'for' plus the word with its ending changed.
+- 'Alright, I agree to this plan.' "Ladno" is a relaxed 'okay, fine'. "Soglasna", 'agreed', is the woman's form; a man would say "soglasen".
+- 'That's a good girl, you made a decision.' "Molodets", 'well done', is a masculine word that Russians happily say to women too. A decision is something you 'take': "prinyala reshenie".
+- 'But I am still a little bit afraid.' "Nemnogo", 'a little', is simply "ne" plus "mnogo", 'not much'. "Vsyo ravno", 'all the same', comes back here as 'still'.
+- 'What exactly are you afraid of right now?' After "boyatsya", 'to be afraid', "chto" turns into "chego". Russians are afraid 'of' things in that form.
+- 'What if Kostya won't want to talk?' "Vdrug" normally means 'suddenly', but at the start of a worried question it's 'what if'. "Ne zakhochet" is 'won't want', a future.
+- 'Kostya has already been looking at you for a long time.' Russian keeps the verb in the present, "smotrit", 'looks', for something that started long ago and is still going. You look "na" someone: "na tebya".
+- 'Really? Did you notice his looks?' "Vzglyady" is the plural of "vzglyad", 'a glance'. "Zamechala" means 'were you noticing', over a stretch of time.
+- 'Of course, he likes you very much.' "Ty emu nravishsya", 'you to him are pleasing'. This time it's Nastya doing the pleasing, and Kostya in the 'to him' slot.
+- 'Then I will go to the bar counter.' "Poydu", 'I'll go', is a future in one word. "K", 'towards', makes "barnaya stoyka" into "k barnoy stoyke".
+- 'Smile at him warmly and openly.' "Ulybnis", 'smile', has the -sya shortened to -s after a vowel. "Teplo" and "otkryto", 'warmly' and 'openly', are both -o words.
+- 'Max will definitely regret his behavior.' "Pozhaleet" is related to "zhal", 'sorry' or 'a pity'. "Svoyom" points back to Max, the one doing the regretting.
+- 'I wish you great luck, my friend!' "Zhelayu tebe", 'I wish you', opens any good wish. What you wish goes into the 'of' form: "bolshoy udachi".
+- 'Thanks for the support, dear Sasha!' "Dorogaya", 'dear', also means 'expensive'. "Spasibo za podderzhku" is what Nastya said to Vika, word for word.

@@ -58,7 +58,7 @@
     },
     {
       "seg": 2,
-      "trans": "What are you saying? I hear poorly.",
+      "trans": "What are you saying? I can't hear well.",
       "words": [
         {
           "t": "Что",
@@ -212,7 +212,7 @@
     },
     {
       "seg": 5,
-      "trans": "Max wants to tell us important words.",
+      "trans": "Max wants to tell us something important.",
       "words": [
         {
           "t": "Макс",
@@ -247,20 +247,20 @@
           "gram": "1st person plural dative"
         },
         {
-          "t": "важные",
-          "lemma": "важный",
-          "pos": "adj",
-          "stress": "ва́жные",
-          "gloss": "important",
-          "gram": "plural accusative"
+          "t": "что-то",
+          "lemma": "что-то",
+          "pos": "pron",
+          "stress": "что́-то",
+          "gloss": "something",
+          "gram": "accusative"
         },
         {
-          "t": "слова.",
-          "lemma": "слово",
-          "pos": "noun",
-          "stress": "слова́",
-          "gloss": "words",
-          "gram": "nominative plural, neuter"
+          "t": "важное.",
+          "lemma": "важный",
+          "pos": "adj",
+          "stress": "ва́жное",
+          "gloss": "important",
+          "gram": "neuter singular, accusative (agrees with что-то)"
         }
       ]
     },
@@ -312,7 +312,7 @@
     },
     {
       "seg": 7,
-      "trans": "You are an excellent experienced cook, and I am not.",
+      "trans": "You're an excellent, experienced cook, and I'm not.",
       "words": [
         {
           "t": "Ты",
@@ -790,7 +790,7 @@
     },
     {
       "seg": 18,
-      "trans": "What are you saying? I hear poorly.",
+      "trans": "What are you saying? I can't hear well.",
       "words": [
         {
           "t": "Что",
@@ -944,7 +944,7 @@
     },
     {
       "seg": 24,
-      "trans": "Max wants to tell us important words.",
+      "trans": "Max wants to tell us something important.",
       "words": [
         {
           "t": "Макс",
@@ -979,20 +979,20 @@
           "gram": "1st person plural dative"
         },
         {
-          "t": "важные",
-          "lemma": "важный",
-          "pos": "adj",
-          "stress": "ва́жные",
-          "gloss": "important",
-          "gram": "plural accusative"
+          "t": "что-то",
+          "lemma": "что-то",
+          "pos": "pron",
+          "stress": "что́-то",
+          "gloss": "something",
+          "gram": "accusative"
         },
         {
-          "t": "слова.",
-          "lemma": "слово",
-          "pos": "noun",
-          "stress": "слова́",
-          "gloss": "words",
-          "gram": "nominative plural, neuter"
+          "t": "важное.",
+          "lemma": "важный",
+          "pos": "adj",
+          "stress": "ва́жное",
+          "gloss": "important",
+          "gram": "neuter singular, accusative (agrees with что-то)"
         }
       ]
     },
@@ -1044,7 +1044,7 @@
     },
     {
       "seg": 28,
-      "trans": "You are an excellent experienced cook, and I am not.",
+      "trans": "You're an excellent, experienced cook, and I'm not.",
       "words": [
         {
           "t": "Ты",
@@ -1522,7 +1522,7 @@
     },
     {
       "seg": 45,
-      "trans": "What are you saying? I hear poorly.",
+      "trans": "What are you saying? I can't hear well.",
       "words": [
         {
           "t": "Что",
@@ -1676,7 +1676,7 @@
     },
     {
       "seg": 48,
-      "trans": "Max wants to tell us important words.",
+      "trans": "Max wants to tell us something important.",
       "words": [
         {
           "t": "Макс",
@@ -1711,20 +1711,20 @@
           "gram": "1st person plural dative"
         },
         {
-          "t": "важные",
-          "lemma": "важный",
-          "pos": "adj",
-          "stress": "ва́жные",
-          "gloss": "important",
-          "gram": "plural accusative"
+          "t": "что-то",
+          "lemma": "что-то",
+          "pos": "pron",
+          "stress": "что́-то",
+          "gloss": "something",
+          "gram": "accusative"
         },
         {
-          "t": "слова.",
-          "lemma": "слово",
-          "pos": "noun",
-          "stress": "слова́",
-          "gloss": "words",
-          "gram": "nominative plural, neuter"
+          "t": "важное.",
+          "lemma": "важный",
+          "pos": "adj",
+          "stress": "ва́жное",
+          "gloss": "important",
+          "gram": "neuter singular, accusative (agrees with что-то)"
         }
       ]
     },
@@ -1776,7 +1776,7 @@
     },
     {
       "seg": 50,
-      "trans": "You are an excellent experienced cook, and I am not.",
+      "trans": "You're an excellent, experienced cook, and I'm not.",
       "words": [
         {
           "t": "Ты",
@@ -6766,6 +6766,88 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "что-то": {
+      "lemma": "что-то",
+      "stress": "что́-то",
+      "pos": "pron",
+      "gloss": "something",
+      "meanings": [
+        {
+          "en": "something",
+          "note": "Only что declines; -то stays the same: чего-то, чем-то."
+        },
+        {
+          "en": "somehow, for some reason",
+          "note": "As an adverb at the start of a sentence: Что-то я устал."
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "Case",
+          "Form"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "что-то"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "чего-то"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "чему-то"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "что-то"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "чем-то"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "о чём-то"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Что-то случилось?",
+          "trans": "Has something happened?"
+        },
+        {
+          "text": "Он хочет сказать что-то важное.",
+          "trans": "He wants to say something important."
+        }
+      ],
+      "related": [
+        {
+          "word": "что-нибудь",
+          "gloss": "anything, something"
+        },
+        {
+          "word": "кто-то",
+          "gloss": "someone"
         }
       ]
     }
