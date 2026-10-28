@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'rodion': 'Родион'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "In the staff changing room, Rodion has the truffles and the upper hand. He wants a proper lunch in the restaurant, and Kostya is trying to talk him out of it. It's in Russian first."
-OPENER = 'Slowly now. Rodion speaks like a gentleman, and Kostya sounds more and more nervous.'
-TRANSITION = 'Time to hear it as it was told.'
-OUTRO = "Rodion's lines are a lesson in being elegant: 'bargaining is out of place', 'bon appétit', and a full name. You can use any of them to make a request sound grand. See you next time."
+INTRO = "In the staff changing room at Claude Monet, Rodion has the truffles and the upper hand. He wants a proper lunch in the restaurant, and Kostya is trying to talk him out of it. It's in Russian first."
+OPENER = 'Slowly now. Rodion speaks like a gentleman, and Kostya gets more nervous with every line.'
+TRANSITION = 'Now the bargaining from the start.'
+OUTRO = 'Rodion\'s lines are a lesson in sounding grand: "torg zdes neumesten", "vesti sebya akkuratno", and "priyatnogo appetita". Any of them makes a simple request sound elegant. See you next time.'
 CLOSING = ('rodion', 'Пока!')
 STORY = [
     ('kostya', 'Подожди, давай мы просто заплатим деньги.', "Wait, let's just pay you money.", [(197, 'мы тебе денег заплатим')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('rodion', 'Тогда пожелайте мне приятного аппетита, Константин.', 'Then wish me bon appétit, Konstantin.', [], ''),
 ]
 WALK = [
-    (0, None, "'Wait, let's just pay you money.' 'Let's' here is 'give', as in 'let us'. 'We will pay' is a one-word future."),
-    (1, None, "'Bargaining is completely inappropriate here, young man.' 'Inappropriate' is made of 'not' plus 'fitting'. Rodion keeps the grand word and the 'young man' to sound lofty."),
-    (2, None, "'But this is a very expensive restaurant!' The little word in the middle adds 'after all', as if it were obvious. 'Expensive' is the word that also means 'dear'."),
-    (3, None, "'I know this fine restaurant perfectly well.' The same word is used twice, as 'finely' and 'fine', which makes it sound like Rodion enjoys it. 'Know' here is about a place."),
-    (4, None, "'The administrator will throw you out into the street immediately.' 'Throw out' has a prefix that means 'out', and the street is the place you are thrown to."),
-    (5, None, "'In a decent suit nobody will recognize me.' 'In a suit' means 'wearing a suit', and Russian uses 'in' for clothes. 'Recognize' comes from 'know'."),
-    (6, None, "'And what if you accidentally ruin someone else's clothes?' 'Accidentally' comes from 'chance'. 'Someone else's' is a single word that stands for 'not mine'."),
-    (7, None, "'I promise to behave extremely neatly.' 'To behave' is 'to lead oneself'. 'Extremely' is also 'at the edge', which is how Russian exaggerates."),
-    (8, None, "'Where exactly are our missing truffles hidden?' 'Hidden' ends in a plural, to agree with 'truffles'. 'Missing' means 'having gone missing'."),
-    (9, None, "'You will receive the truffles right after lunch.' 'Will receive' is a polite future, with 'you' as a group. 'After lunch' puts 'after' before a changed ending."),
-    (10, None, "'The Chef will get very angry if he finds out the truth.' 'Get angry' ends in 'sya'. 'If he finds out' is two words, and the 'truth' is its own word, related to 'true'."),
-    (11, None, "'Then wish me bon appétit, Konstantin.' The Russian phrase is literally 'pleasant appetite'. Kostya's full name is used by Rodion to sound formal."),
+    (0, None, '\'Wait, let\'s just pay money.\' "Podozhdi", wait, is the "ty" command, the one you\'ll hear most. "Zaplatim", we\'ll pay, is za- plus "platit", so a single payment and done.'),
+    (1, None, '\'Bargaining is completely inappropriate here, young man.\' "Torg", bargaining, is the word you\'d hear at a market. "Neumesten", out of place, is "ne" plus umesten, fitting.'),
+    (2, None, '\'But this is a very expensive restaurant!\' "Zhe" adds an \'after all\', as if Kostya is stating the obvious. "Dorogoy", expensive, also means \'dear\', the word that opens a letter.'),
+    (3, None, '\'I know this fine restaurant perfectly well.\' Rodion uses "prekrasno" and "prekrasnyy" back to back, \'perfectly\' and \'fine\', and he clearly enjoys it. "Znayu", I know, is the plain \'I know\' for facts and places.'),
+    (4, None, '\'The administrator will throw you out into the street immediately.\' "Vygonit", will throw out, is vy-, out, plus "gnat", to chase. "Na ulitsu", onto the street, has -u because that\'s where he\'ll land.'),
+    (5, None, '\'In a decent suit nobody will recognize me.\' Russians say "v kostyume", \'in a suit\', just as in English. "Uznaet", will recognize, is "znat", to know, with u- in front.'),
+    (6, None, '\'And what if you accidentally ruin someone else\'s clothes?\' A "esli", \'and if\', is how \'what if\' begins. "Sluchayno", by accident, is from "sluchay", a chance event.'),
+    (7, None, '\'I promise to behave extremely neatly.\' "Vesti sebya", to behave, is literally \'to lead oneself\'. "Krayne", extremely, is from "kray", edge.'),
+    (8, None, '\'Where exactly are our missing truffles hidden?\' "Spryatany", hidden, ends in -y because the truffles are plural. "Propavshie", missing, belongs with "propast", to vanish.'),
+    (9, None, '\'You will receive the truffles right after lunch.\' "Poluchite", you\'ll receive, is a future form with "vy". After "posle", after, "obed" becomes "obeda".'),
+    (10, None, '\'The Chef will get very angry if he finds out the truth.\' "Razozlitsya", will get angry, is from "zloy", angry, with raz- and -sya around it. "Uznaet pravdu", finds out the truth, uses "uznaet" again, now as \'find out\' rather than \'recognize\'.'),
+    (11, None, '\'Then wish me bon appétit, Konstantin.\' "Priyatnogo appetita", \'of pleasant appetite\', is the Russian \'enjoy your meal\', with the -ogo and -a coming from "pozhelat". Konstantin is Kostya\'s full name, which Rodion uses to sound lofty.'),
 ]

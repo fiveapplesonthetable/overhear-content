@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Careful, you impaled me with your sausage!' 'Careful' is the same short warning you hear at the kitchen door. 'With your own sausage' ends in 'oy', which is the Russian 'with'.
-- 'Louis, stop screaming so loudly.' 'Stop' is a command you can use on anyone. 'Loudly' and 'to shout' come from the same family.
-- 'Tell Maria that I loved her!' 'Tell' is followed by 'to Maria', in which the name ends in 'i'. 'Loved' carries 'l' since Louis is a man.
-- 'Stop dying, we need to clean the kitchen.' 'Enough' is followed by 'dying', so it comes out as 'enough dying'. The verb 'clean up' means to put things away and make a place tidy.
-- 'Does Chef force us to wash these shelves?' 'Forces' is a strong word, close to 'makes us'. 'Us' takes a short form, and 'shelves' is the plural.
-- 'Yes, Chef demands perfect cleanliness everywhere.' 'Demands' is followed by 'cleanliness' with a different ending. 'Everywhere' is a handy word for 'in every place'.
-- 'Dust has been lying here for a whole year!' Russian says dust 'lies', as in lies on a shelf. 'Whole' is placed in front of 'year' to emphasize it.
-- 'Since the restaurant opened nobody has cleaned here.' 'Since the opening' is one small word and then a changed noun. 'Nobody' comes with 'not', as it must.
-- 'Then quickly take a rag and water.' 'Take' is a command. 'Water' has an 'u' ending because it's the thing you take.
-- 'I am ready, let's finish this work.' 'Let's finish' is the form that sounds like 'we will finish'. 'Ready' is the man's form.
-- 'The main thing is that Chef is very pleased.' 'So that' makes the next part a wish, and it is why the past form follows. 'Pleased' is the man's form of 'satisfied'.
-- 'Exactly, otherwise we will really get it!' 'Otherwise' is a handy single word. 'We'll get it' is literally 'it will reach us', which is the way to say we'll catch it.
+- 'Careful, you impaled me with your sausage!' "Kolbasa", sausage, becomes "svoey kolbasoy", and that -oy ending alone means 'with', as in 'using'. "Ostorozhno", careful, is the word you'd shout at someone backing into a hot stove.
+- 'Louis, stop screaming so loudly.' "Perestan", stop, goes with the plain dictionary form: "perestan krichat", stop shouting. It works for any habit you want someone to drop.
+- 'Tell Maria that I loved her!' "Mariya" becomes "Marii", 'to Maria', the person you tell something to. "Lyubil", I loved, ends in -l because Louis is a man.
+- 'Stop dying, we need to clean the kitchen.' "Khvatit", enough, also goes with a plain verb: "khvatit umirat", 'enough dying'. "Umirat" and "ubirat", to die and to clean up, differ by one letter, which Max seems to enjoy.
+- 'Does Chef force us to wash these shelves?' "Zastavlyaet nas myt" is 'makes us wash': the person, then the action. "Polka", shelf, is "polki" in the plural.
+- 'Yes, Chef demands perfect cleanliness everywhere.' "Trebovat", to demand, changes the word after it, so "chistota" turns into "chistoty". "Vezde", everywhere, is worth having alongside "zdes", here.
+- 'Dust has been lying here for a whole year!' Russian keeps the present tense for something still going on: 'dust lies here already a whole year'. And dust lies, "lezhit", the way a book lies on a table.
+- 'Since the restaurant opened nobody cleaned here.' S, since, makes "otkrytie", the opening, into "s otkrytiya". "Nikto ne", 'nobody not', is the normal double negative.
+- 'Then take a rag and water quickly.' "Beri", take, is said to one person, from "brat", the word behind "beru", I take. "Voda", water, becomes "vodu" because it's what you take.
+- 'I am ready, let's finish this work.' "Davay" plus a 'we' form, "zakonchim", makes 'let's finish'. "Gotov", ready, is the form for a man; Nastya would say "gotova".
+- 'The main thing is that Chef is very pleased.' After "chtoby", so that, Russian uses the past form, "byl", even about the future. "Dovolen", pleased, is a word you'll hear about every boss.
+- 'Exactly, otherwise we will really get it!' "Nam dostanetsya" is literally 'it will reach us', the Russian 'we'll catch it'. "Inache", otherwise, is the word to put before any threat.

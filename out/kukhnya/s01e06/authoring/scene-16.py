@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'rodion': 'Родион'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Rodion is now dressed as the famous writer, dark glasses included, and he is not at ease. Max tries to give him confidence before they go into the dining room. It's in Russian first."
-OPENER = 'Slowly now. Rodion is afraid, Max has an answer for everything, and the answers are all about glasses.'
-TRANSITION = 'It comes round again, in order.'
-OUTRO = "Max says 'stop being afraid', 'speak mysteriously', 'put these on'. Short commands like that are what you hear from a friend. See you next time."
+INTRO = "In the changing room at Claude Monet, Rodion is now dressed as the famous writer, dark glasses and all, and he is losing his nerve. Max tries to talk him up before he walks into the dining room, where Sasha will be serving him. It's in Russian first."
+OPENER = 'Slowly now. Rodion is afraid, and Max has an answer for everything, mostly about the glasses.'
+TRANSITION = 'Now the pep talk in one go.'
+OUTRO = 'Max hands out short friendly orders: "perestan boyatsya", "govori zagadochno", "naden ochki". That\'s how a friend pushes you through a door. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('rodion', 'Мне правда неловко выдавать себя за писателя.', 'I really feel awkward impersonating a writer.', [(209, 'Мне правда неловко выдавать себя за такого человека')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('rodion', 'Надеюсь, этот обман закончится хорошо.', 'I hope this deception ends well.', [], ''),
 ]
 WALK = [
-    (0, None, "'I really feel awkward impersonating a writer.' 'To me awkward' is how Russians say 'I feel awkward'. 'Pass oneself off as' is a neat phrase, and it ends in 'za', meaning 'as'."),
-    (1, None, "'Stop being afraid, nobody knows his face.' 'Stop' is a command followed by 'to be afraid'. 'Nobody knows' keeps the usual 'not'."),
-    (2, None, "'What if Sasha read his smart books?' 'What if' is a single word at the front of the line. The 'a' on 'read' shows the reader is a woman."),
-    (3, None, "'Then she will admire you even more.' 'Admire' ends in 'sya' and is followed by 'you' in the 'by' form."),
-    (4, None, "'What should I do if she asks about the plot?' 'What to me to do' is the Russian way to ask 'what should I do'. 'Plot' is borrowed from French."),
-    (5, None, "'Speak mysteriously and look straight into her eyes.' 'Mysteriously' is a long how-word that comes from 'riddle'. 'Into the eyes' uses a movement shape."),
-    (6, None, "'I cannot speak that mysteriously at all.' 'I can' here is Russian for skill, 'know how'. 'At all' sits before the 'not'."),
-    (7, None, "'Just put on these dark glasses, friend.' 'Put on' is the command for clothes and glasses. 'Friend' at the end is warm."),
-    (8, None, "'Do you think dark glasses will solve all problems?' 'Will solve' is one word, and the plural 'all' agrees with 'problems'. 'Think' ends in 'esh', the 'you' ending."),
-    (9, None, "'Real writers always wear dark glasses!' 'Wear' is the word that also means 'carry'. 'Real' is the word that means 'genuine'."),
-    (10, None, "'Okay, I will try to play this role.' 'I will try' is a one-word future. 'Play' is the term for acting a part."),
-    (11, None, "'Go ahead and win her heart!' 'Forward' works as 'go on'. 'Win' is based on a word for conquering."),
-    (12, None, "'I hope this deception ends well.' 'Ends' ends in 'sya', since the deception ends itself. 'Well' is the plain word for 'well'."),
+    (0, None, '\'I really feel awkward impersonating a writer.\' "Mne nelovko", \'to me awkward\', is how Russians say they feel awkward. "Vydavat sebya za" is \'to pass oneself off as\', with "za" meaning \'as\'.'),
+    (1, None, '\'Stop being afraid, nobody knows his face.\' "Perestan boyatsya", stop being afraid, is "perestan" plus the plain dictionary form. "Boyatsya", to fear, always ends in -sya.'),
+    (2, None, '\'What if Sasha read his smart books?\' "Vdrug" again: \'suddenly\', and here \'what if\'. "Chitala", read, ends in -la because Sasha is a woman.'),
+    (3, None, '\'Then she will admire you even more.\' "Voskhishchatsya", to admire, wants the person in the \'by\' form, so "ty" becomes "toboy". "Eshchyo silnee", \'even stronger\', stands in for \'even more\'.'),
+    (4, None, '\'What should I do if she asks about the plot?\' "Chto mne delat", \'what to me to do\', is a common way to ask for advice. "Syuzhet", plot, comes from the French sujet.'),
+    (5, None, '\'Speak mysteriously and look straight into her eyes.\' "Govori" and "smotri" are two "ty" commands in a row. "V glaza", into the eyes, uses "glaza", eyes, where one eye is "glaz".'),
+    (6, None, '\'I cannot speak that mysteriously at all.\' "Ne umeyu" is \'I don\'t know how\', a missing skill, not a ban. "Sovsem ne", \'not at all\', puts "sovsem" in front.'),
+    (7, None, '\'Just put on these dark glasses, friend.\' "Naden", put on, is the command from "nadet", the verb for anything you wear. "Drug", friend, at the end makes it warm.'),
+    (8, None, '\'Do you think dark glasses will solve all problems?\' "Dumaesh", you think, opens the question with the -esh ending of "ty". "Reshat", they\'ll solve, has the future built in, with no separate \'will\'.'),
+    (9, None, '\'Real writers always wear dark glasses!\' "Nosyat", they wear, is for what people regularly have on. "Nastoyashchie", real, is the word for \'genuine\' or \'proper\'.'),
+    (10, None, '\'Okay, I will try to play this role.\' "Poprobuyu", I\'ll try, is from "poprobovat", which also means \'to taste\'. "Sygrat rol", to play a part, uses the same "igrat", play, as sport and music.'),
+    (11, None, '\'Go ahead and win her heart!\' "Vperyod", forward, turns "idi" into \'go on, get in there\'. "Pokori", conquer, is the old romantic verb for winning a heart.'),
+    (12, None, '\'I hope this deception ends well.\' "Nadeyus", I hope, can open any wish. "Obman", deception, and "obmanut", to trick someone, share a root.'),
 ]

@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Вика | Скоро придёт санитарная инспекция ресторана. | Soon the restaurant's sanitary inspection will arrive. | #61 00:04:11: Придет СЭС | verbatim |
 | 5 | Вика | А у тебя на кухне опять бардак! | And in your kitchen there is a mess again! | #61 00:04:11: а у тебя тут опять бардак | verbatim |
 | 6 | Шеф | Где ты видишь беспорядок, дорогая? | Where do you see a mess, my dear? | #62 00:04:14: Где бардак<br>#66 00:04:25: Дорогуша | verbatim |
-| 7 | Шеф | Посмотри сама, какая вокруг чистая полка! | Look for yourself what a clean shelf this is! | #63 00:04:17: Посмотри, какая чистая полка | verbatim |
+| 7 | Шеф | Посмотри сама, какая здесь чистая полка! | Look for yourself what a clean shelf this is! | #63 00:04:17: Посмотри, какая чистая полка | verbatim |
 | 8 | Шеф | Маленькие деньги решают любые большие проблемы. | A little money solves any big problems. | #64 00:04:20: Маленькие деньги решают большие проблемы | verbatim |
 | 9 | Вика | Если бы был порядок, мы бы не платили! | If there were order, we wouldn't pay! | #65 00:04:22: Если бы у тебя на кухне был порядок, мы бы не платили | verbatim |
 | 10 | Шеф | На кухне ресторана всегда много работы. | There is always a lot of work in a restaurant kitchen. | #67 00:04:28: тут никто не готовил | verbatim |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do they trick all newcomers like that?' 'newcomers' is made from 'new'. 'Like that' is two short words that are useful in many sentences.
-- 'I must quickly put on my chef's hat.' Russian has one word for putting on clothes yourself, and another for dressing someone else. 'Cook's' is made from 'cook', which makes it the cook's cap.
-- 'Chef, today is the fifteenth, do you remember?' Vika uses the informal 'you' with her boss, which tells you how close they are. 'Remember' grows out of 'memory'.
-- 'Soon the restaurant's sanitary inspection will arrive.' 'Will arrive' is a one-word future. 'Of the restaurant' is shown by a changed ending, with no word for 'of'.
-- 'And in your kitchen there is a mess again!' 'At you in the kitchen' is Russian for 'in your kitchen'. 'mess' is slang, and it sounds rude to a chef.
-- 'Where do you see a mess, my dear?' 'mess' is formed from 'without' and 'order'. 'My dear' is a sweet word used with a sharp edge here.
-- 'Look for yourself what a clean shelf this is!' 'Which' turns into 'what a' in an exclamation. 'Yourself' adds 'go and see for yourself'.
-- 'A little money solves any big problems.' 'Money' is always plural in Russian, so 'solve' is plural too. 'Any' and 'big' agree with 'problems'.
-- 'If there were order, we wouldn't pay!' The little word 'by' appears twice, which is how Russian builds 'would'. It means 'if there were order, we would not be paying'.
-- 'There is always a lot of work in a restaurant kitchen.' 'A lot of' is followed by the 'of' ending, so 'work' changes. 'Always' is a very common small word.
-- 'Inspectors look for violations only for money.' 'For the sake of money' is a short phrase meaning 'because of'. 'Look for' is the same as 'seek'.
-- 'We must urgently establish perfect cleanliness.' 'Cleanliness' is put together from 'clean'. 'Urgently' comes from 'urgent'.
-- 'It seems today we have big problems.' 'We have' is 'at us', as it always is in Russian.
-- 'I will go wash the floors in the kitchen.' 'Floors' is plural, as Russian says 'floors' for a floor surface. 'I will go' is a single word, and 'wash' comes right after it.
+- 'Do they trick all newcomers like that?' "Novichok", newcomer, is built on "novyy", new. "Obmanyvayut", they deceive, is the general word for cheating or fooling someone.
+- 'I must quickly put on my chef's hat.' "Nadet" is putting clothes on yourself; dressing someone else is "odet". "Kolpak" is the tall cook's hat, and "povarskoy", cook's, comes from "povar".
+- 'Chef, today is the fifteenth, do you remember?' "Pomnish", you remember, is the "ty" form, and Vika says "ty" to the chef as an equal. "Ty pomnish" at the end of a sentence is a nudge: 'you haven't forgotten, have you?'
+- 'Soon the restaurant's sanitary inspection will arrive.' "Pridyot", will come, is from the same family as "prikhodit", comes. "Restoran" becomes "restorana" for 'of the restaurant'.
+- 'And in your kitchen there is a mess again!' "U tebya na kukhne", 'at you in the kitchen', is how Russian says 'in your kitchen'. "Bardak" is a colloquial, slightly rough word for a mess.
+- 'Where do you see a mess, my dear?' Barinov swaps her "bardak" for the proper word, "besporyadok", which is "bez", without, plus "poryadok", order. "Dorogaya" is 'my dear' for a woman, said with an edge.
+- 'Look for yourself what a clean shelf this is!' "Sama", yourself, ends in -a because he's talking to a woman. "Kakaya", which, turns into 'what a' when you exclaim it.
+- 'A little money solves any big problems.' "Dengi", money, is always plural in Russian, so 'solve' is plural too: "reshayut". It's Barinov's whole philosophy in one sentence.
+- 'If there were order, we wouldn't pay!' The little word "by" turns up twice, once after "esli", if, and once after "my", we. Together they make 'if there were... we would'.
+- 'There is always a lot of work in a restaurant kitchen.' After "mnogo", a lot, the noun changes: "rabota" becomes "mnogo raboty". "Na kukhne restorana" stacks it up: 'in the kitchen of the restaurant'.
+- 'Inspectors look for violations only for money.' "Ishchut", they look for, comes from "iskat", with sk turning into shch. After "radi", for the sake of, "dengi" becomes "deneg".
+- 'We must urgently establish perfect cleanliness.' "Navesti chistotu" is the set phrase for cleaning a place up properly. "Chistota", cleanliness, is from "chistyy", clean, which you heard on the shelf.
+- 'It seems today we have big problems.' "Kazhetsya", it seems, is a handy way to start any cautious remark. "U nas", 'at us', is the 'we have' you've heard all scene.
+- 'I will go wash the floors in the kitchen.' "Poydu myt" is 'I'll go and wash', with the second verb left in its plain form. Russians wash "poly", floors, in the plural, even in one room.

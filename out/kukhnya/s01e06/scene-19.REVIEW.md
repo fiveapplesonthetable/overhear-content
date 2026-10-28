@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Rump, bring one truffle here quickly!' The nickname is a cut of meat from the rear of the animal. 'Bring' is slangy, and it means 'haul'.
-- 'Table seven ordered a salad with truffles.' A table is named by an ordinal, so it's literally 'the seventh little table'. 'With truffles' puts an 'ami' on the end.
-- 'Chef, I will bring everything quickly now.' 'I will bring' starts with 'pri', the piece that means 'toward'. 'Now' and 'quickly' stand side by side.
-- 'Nastya, stop, I urgently need help!' 'Stop' comes from 'stand'. 'Help' is one of the she-words, so 'needed' ends in 'a'.
-- 'What happened, Max? What is it?' 'What is it' is two small words that mean 'what's up'. 'Happened' is related to 'chance'.
-- 'Tell the guest that the truffles are bad today.' 'To the guest' has an 'u' on the end. 'Bad' is in the plural to match the truffles.
-- 'Let him order any other dish!' 'Any' and 'other' agree with 'dish'.
-- 'No, I cannot say that.' 'I can't' is the flat 'cannot'. 'Like that' is two words glued together.
-- 'The guest came especially for this salad.' 'Especially' rests on 'special'. 'For the sake of' takes the next word in an 'of' form.
-- 'But I do not have this truffle!' 'At me there isn't' is the way to say 'I don't have', and the truffle changes its ending. 'This' changes with it.
-- 'He is a very strict and important person.' 'Person' is a word that works for men and women. 'Strict' and 'important' are in the same shape.
-- 'By the way, he asked to pass you a note.' 'By the way' is a one-word way to change the subject. 'Note' comes from 'to write down'.
-- 'Oh no, this is a disaster for the kitchen!' 'Disaster' is the English word, written with Russian letters. 'For the kitchen' has the changed ending.
-- 'Hurry, the chef is already getting very angry.' 'Hurry' ends in 'sya', so it's 'hurry yourself'. 'Is angry' ends in 'sya' too.
+- 'Rump, bring one truffle here quickly!' Oguzok, rump, is a cut of beef and Barinov's rude nickname for Max. "Tashchi", haul it, is a rougher word than "nesi".
+- 'Table seven ordered a salad with truffles.' Russians number tables with "sedmoy", seventh, so it's 'the seventh table'. "S tryufelyami", with truffles, has -ami after s.
+- 'Chef, I will bring everything quickly now.' "Prinesu", I'll bring, is pri-, here, plus "nesti", carry. It's a future form, so it's a promise.
+- 'Nastya, stop, I urgently need help!' "Stoy", stop, is the order form of "stoyat", to stand, so it's literally 'stand still'. "Pomoshch", help, is feminine, which is why it's "nuzhna" with -a.
+- 'What happened, Max? What is it?' "Chto sluchilos" is the standard 'what happened?'. "Chto takoe", 'what's up?', is said with a worried rise.
+- 'Tell the guest that the truffles are bad today.' "Gost", guest, becomes "gostyu", 'to the guest', the one being told. "Plokhie", bad, has the plural -ie for "tryufeli".
+- 'Let him order any other dish!' "Pust", let, plus a future verb is how you say 'let him do it'. "Lyuboe", any, ends in -oe to match "blyudo".
+- 'No, I cannot say that.' "Ne mogu", I can't, is from "moch", can. "Tak skazat", 'say so', is how you'd say 'say that' here.
+- 'The guest came especially for this salad.' "Radi", for the sake of, changes "salat" to "salata". "Spetsialno" is easy: 'specially'.
+- 'But I do not have this truffle!' After "net", "etot tryufel" becomes "etogo tryufelya", both words changing. That's what "u menya net" always does to the missing thing.
+- 'He is a very strict and important person.' "Chelovek", person, is masculine, but Russians use it for women too. "Strogiy", strict, is the same word as in "strogo", strictly.
+- 'By the way, he asked to give you a note.' "Kstati", by the way, is how Russians change the subject. "Peredat", to pass on, is what you do with a note or a message.
+- 'Oh no, this is a disaster for the kitchen!' "Katastrofa" sounds just like it looks. "Dlya kukhni", for the kitchen, changes "kukhnya" to "kukhni".
+- 'Hurry, the chef is already getting very angry.' "Toropis", hurry, ends in -s, the short form of -sya. "Zlitsya", to be angry, is from "zloy", angry, with -sya on the end.

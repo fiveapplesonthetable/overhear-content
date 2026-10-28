@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Back in the kitchen, Barinov is at the pass, the shelf where finished plates wait for the waiters. He is checking one dish, and he wants to show Max the last step. It's in Russian first, so don't worry about catching every word."
+INTRO = "Back in the kitchen at Claude Monet, Chef Barinov is at the pass, the shelf where finished plates wait for the waiters. He is checking one dish, and he wants Max, his trainee, to see the last step. It's in Russian first, so don't worry about catching every word."
 OPENER = "Let's go through the plate. Barinov inspects it, and Max asks careful questions."
-TRANSITION = 'And now in one piece.'
-OUTRO = "Barinov's last step is herbs, and yours is to remember a few kitchen words: plate, dish, herbs, hot. They'll come back. See you next time."
+TRANSITION = 'And now the whole exchange in one piece.'
+OUTRO = 'Barinov\'s last step is herbs, and yours is to keep a few kitchen words: "tarelka", plate, "blyudo", dish, "zelen", herbs. They\'ll come back. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Огузок, посмотри на эту тарелку.', 'Oguzok, look at this plate.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Отлично, продолжаем работать дальше.', 'Great, we continue working further.', [], ''),
 ]
 WALK = [
-    (0, None, "'Oguzok, look at this plate.' The nickname comes first, as it often does. 'This plate' has an 'u' ending because the plate is what's being looked at."),
-    (1, None, "'Chef, is this dish already ready?' There is no word for 'is' or 'do': the voice goes up and that's the question. 'Ready' ends in 'o' to match 'dish'."),
-    (2, None, "'The main thing remains: to garnish it with herbs.' 'Remains' is in a neutral form with no person in it, like 'what's left'. 'Garnish' is related to 'beautiful', and 'with herbs' ends in 'yu', which is Russian's 'with'."),
-    (3, None, "'Every detail has important meaning.' 'Detail' is the French word, with a soft ending. 'Has meaning' is the usual way of saying 'matters'."),
-    (4, None, "'Food is obliged to look beautiful and appetizing.' 'Obliged' gets 'a' since 'food' is grammatically a she-word. The two ways of saying 'beautifully' and 'appetizingly' both end in 'o'."),
-    (5, None, "'Shall we put fresh herbs here?' 'Let's put' is the form that sounds like 'shall we'. 'Herbs' is a word for greens, and it comes from 'green'."),
-    (6, None, "'Carefully! Do not ruin the expensive presentation.' One word is enough for 'careful!'. 'expensive' also means 'dear', so a good presentation is a precious one."),
-    (7, None, "'I do everything very carefully, chef.' 'I do' ends in 'yu', and 'everything' is a short, handy word. Max repeats the word 'carefully' to show he heard."),
-    (8, None, "'Beautiful presentation is very important for guests.' 'Important' ends in 'a' to match 'presentation'. 'For guests' needs a changed ending on 'guests'."),
-    (9, None, "'The waiters are already waiting in the kitchen.' 'Waiting' ends in 'ut', the 'they' ending again. 'Already' is followed by it."),
-    (10, None, "'Call the waiter, let them carry the order.' 'Let them' is a single little word. 'carry' has the same 'ut' ending."),
-    (11, None, "'Sasha, take the ready hot dish!' 'Take' starts with 'za' and means 'pick up'. 'Ready' and 'hot' both end in 'oe' to agree with 'dish'."),
-    (12, None, "'Great, we continue working further.' 'We continue' ends in 'em', which is the 'we' ending. 'Further' means 'on', as in 'keep going'."),
+    (0, None, '\'Oguzok, look at this plate.\' Barinov uses his nickname for Max before anything else. "Tarelka", plate, becomes "tarelku" because it\'s the thing being looked at.'),
+    (1, None, '\'Chef, is this dish already ready?\' No \'is\', no \'do\': the voice rises and that makes it a question. "Gotovo", ready, ends in -o to match "blyudo".'),
+    (2, None, '\'The main thing remains: to garnish it with herbs.\' "Ukrasit", to decorate, shares a root with "krasivyy", beautiful. "Zelen", greens, becomes "zelenyu", and that ending alone says \'with\', as in \'using\'.'),
+    (3, None, '\'Every detail has important meaning.\' "Detal", detail, ends in a soft sign and is a feminine word, which is why \'every\' is "kazhdaya" here. "Imet znachenie", to have meaning, is a stiff way of saying \'it matters\'.'),
+    (4, None, '\'Food is obliged to look beautiful and appetizing.\' "Eda", food, is feminine, so \'obliged\' comes out as "obyazana". Russian food looks "krasivo", \'beautifully\', with the -o of a how-word.'),
+    (5, None, '\'Shall we put fresh herbs here?\' "Polozhim" is \'we\'ll put\', and as a question it works like \'shall we put\'. "Syuda" means \'to here\', because putting something is a movement.'),
+    (6, None, '\'Carefully! Do not ruin the expensive presentation.\' "Ne isporti" is the warning \'don\'t go and spoil it\'. "Dorogoy" means both \'expensive\' and \'dear\', so the plate is precious either way.'),
+    (7, None, '\'I do everything very carefully, chef.\' "Delayu", I do, has the -yu ending for \'I\'. Max hands Barinov\'s own word back to him, "akkuratno", carefully.'),
+    (8, None, '\'Beautiful presentation is very important for guests.\' "Podacha", presentation, comes from "podavat", to serve. "Vazhna", important, ends in -a to agree with it.'),
+    (9, None, '\'The waiters are already waiting in the kitchen.\' "Zhdut", they wait, is from "zhdat", with the -ut ending for \'they\'. "Na kukhne" again: the kitchen is a place you\'re \'on\'.'),
+    (10, None, '\'Call the waiter, let them carry the order.\' "Pust" is \'let\', and you put it before any verb to mean \'let them do it\'. "Nesut", they carry, is from "nesti", carrying something in your hands as you go.'),
+    (11, None, '\'Sasha, take the ready hot dish!\' "Zaberi", take it away, is the command \'take\' with za- in front, the sense of collecting something. On a menu, "goryachee" alone means the hot main courses.'),
+    (12, None, '\'Great, we continue working further.\' "Otlichno" is also the top school grade, so it\'s a real \'excellent\'. "Prodolzhaem rabotat" is literally \'we continue to work\'.'),
 ]

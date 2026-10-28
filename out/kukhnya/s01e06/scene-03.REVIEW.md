@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, cooks, chop all the vegetables.' The command starts with 'na' and ends in 'te', which is for a group. 'Vegetables' is a plural that ends in 'i'.
-- 'Chef, we are already chopping onions.' 'We chop' ends in 'em'. 'onion' also means 'a bow', as in bow and arrow.
-- 'Chop faster, guests will come soon.' This is the same word 'chop', now as a group command. 'Will come' is the future of 'arrive'.
-- 'And where will we get fresh meat?' 'Where' asks about a place, not a direction. 'Will take' is the Russian phrase for saying 'will get'.
-- 'First a cook selects the best products.' 'First' is made from 'from' and 'beginning', so 'from the start'. 'Best' ends in 'ie', to match the plural 'products'.
-- 'Do we buy meat in a shop?' Again no word for 'do', just the rising voice. 'In a shop' ends in 'e' for the place.
-- 'No, I choose everything myself at the market.' 'Myself' sits before the action it stresses. The market takes 'na', not 'v', which is why it says 'on the market'.
-- 'Do you personally inspect every piece?' Max says 'you' politely, so the action ends in 'ete'. 'Personally' is taken from 'personal'.
-- 'A real chef does not trust strangers.' 'Trust' starts from 'faith', so it comes out as 'to give faith to'. 'Strangers' is made from 'someone else's', with an ending for 'to'.
-- 'May I go with you?' 'Is it possible to me' is the standard way to ask permission. 'With you' is the courteous 'you', in the 'with' form.
-- 'You will stay in the kitchen peeling potatoes.' 'You will stay' ends in 'sya'. 'potato' here is the everyday one.
-- 'I dreamed of selecting the best products.' 'Dreamed' is pieced together from 'a dream'. The 'l' at the end shows the speaker is a man.
-- 'First learn to cut without mistakes!' 'Learn' ends in 'sya', meaning 'teach yourself'. 'Without mistakes' puts the ending 'ok' on 'mistake'.
+- 'So, cooks, chop all the vegetables.' "Tak" at the start is a boss's 'right then'. "Narezhte", chop up, is a command to the whole group, and the na- makes it one finished job.
+- 'Chef, we are already chopping onions.' "Rezhem", we chop, comes from "rezat", and the z turns into zh. "Luk" is onions, and it's also the word for a bow and arrow.
+- 'Chop faster, guests will come soon.' Now it's "rezhte", without the na-: 'keep chopping'. "Bystree", faster, is "bystro", fast, with -ee added.
+- 'And where will we get fresh meat?' Russian says 'where will we take it', "gde my vozmyom", for 'where will we get it'. "Myaso", meat, is neuter, so 'fresh' is "svezhee".
+- 'First a cook selects the best products.' "Snachala", first, is s, from, plus "nachalo", the beginning. "Produkty" means groceries, not 'products' in the factory sense.
+- 'Do we buy meat in a shop?' Careful with "magazin": it means a shop, never a magazine. After v it becomes v magazine, in the shop.
+- 'No, I choose everything myself at the market.' "Sam" is 'myself', and it sits right next to "ya", I. Remember "na rynke", at the market, from the first scene.
+- 'Do you personally inspect every piece?' Max calls the chef "vy", the polite 'you', so 'inspect' ends in -ete: "proveryaete". "Kusok" is a piece, a word you'll use for cake and bread too.
+- 'A real chef does not trust strangers.' "Doveryat", to trust, has "vera", faith, inside it. "Chuzhoy" means 'someone else's', so "chuzhie lyudi" are strangers, and after "doveryat" they become "chuzhim lyudyam", 'to strangers'.
+- 'May I go with you?' "Mozhno mne", literally 'possible to me', is the standard way to ask permission. "Poekhat" means going by car, not on foot.
+- 'You will stay in the kitchen peeling potatoes.' "Chistit" means to clean, and it's also how you peel vegetables. "Kartoshka" is the everyday word for potatoes.
+- 'I dreamed of selecting the best products.' "Mechtal", I dreamed, is a daydream word, from "mechta"; a dream in your sleep is a different word. The -l ending tells you a man is speaking.
+- 'First learn to cut without mistakes!' "Nauchis", learn, ends in -s, short for 'yourself': literally 'teach yourself'. "Bez", without, turns "oshibki", mistakes, into "bez oshibok".

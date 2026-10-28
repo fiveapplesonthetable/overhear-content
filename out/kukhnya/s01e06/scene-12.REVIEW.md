@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A slippery floor is a source of danger.' The dash stands in for 'is'. 'Source' also means 'spring', as in water, and 'danger' starts from 'dangerous'.
-- 'We will wipe up this water immediately.' 'Right now' has a tiny extra word that makes it 'this very minute'. 'We will wipe' ends in 'em', the 'we' ending.
-- 'Why is this bottle open by the grill?' 'Open' ends in 'a' to agree with 'bottle'. 'By the grill' is the short 'at' word plus a changed ending.
-- 'This wine is needed for meat sauce.' 'Wine' is neuter, so 'needed' ends in 'o'. 'Of meat' becomes a describing word, giving 'meaty sauce'.
-- 'Understood, but that is still a violation.' 'Understood' is a handy one-word answer. 'Still' is literally 'all equal', which here means 'regardless'.
-- 'I will personally put the bottle in the cupboard.' 'Put away' begins with the little piece 'u' that gives the sense of 'out of sight'. 'Into the cupboard' has no ending change on the cupboard.
-- 'You won't get off with a simple fine here!' The long word at the end is the Russian for 'get off lightly'. It ends in 'sya', and the fine takes a 'with' ending.
-- 'Believe me, we have an exemplary restaurant!' 'Believe' is the formal command. 'Exemplary' comes from 'a sample' or 'a model'.
-- 'Let's move on, I will inspect the storage.' 'Let's go' has a polite 'te' on the end, which turns it into an invitation. 'Inspect' begins with a piece that means 'around'.
-- 'Please, walk right behind me.' 'I ask you' is the formal way to say 'please'. 'Behind me' is 'behind' plus a changed form of 'me'.
-- 'And what is located behind this door?' 'Is located' comes from 'to find', so it's literally 'finds itself'. 'Behind this door' uses the same 'behind' as before.
-- 'There is our storage for unopened bottles.' 'Closed' is the opposite of 'open', and Barinov uses it for 'sealed'. 'Of bottles' has a changed ending.
-- 'Open the lock, I must see everything.' 'lock' also means 'castle', and only the stress tells them apart. 'I must' is the man's form.
+- 'A slippery floor is a source of danger.' The dash stands in for 'is', which Russian doesn't say in the present. "Istochnik", source, is also the word for a natural spring.
+- 'We will wipe up this water immediately.' "Seychas zhe", 'this very minute', adds "zhe" for urgency. "Vytrem", we'll wipe, is a finished-action form, so it means the future.
+- 'Why is this bottle open by the grill?' "Otkryta", open, takes its -a from "butylka", bottle. "U grilya", by the grill, adds -ya to "gril" after u.
+- 'This wine is needed for meat sauce.' "Vino", wine, is neuter, so "nuzhno", needed, ends in -o. "Myasnoy sous", 'meaty sauce', turns "myaso" into a describing word.
+- 'Understood, but that is still a violation.' "Ponyatno", understood, is the everyday 'got it'. "Vsyo ravno", 'all equal', means 'anyway' or 'still'.
+- 'I will personally put the bottle in the cupboard.' "Uberu", I'll put away, is from "ubrat", the finished partner of "ubirat". "V shkaf", into the cupboard, keeps "shkaf" unchanged because it's masculine.
+- 'You won't get off with a simple fine here!' "Otdelaetes", you'll get off, needs the -s at the end. "Prostym shtrafom", with a simple fine, has -ym and -om because it means 'by means of'.
+- 'Believe me, we have an exemplary restaurant!' "Pover'te", believe me, is the polite command from "poverit". "Obraztsovyy", exemplary, is from obrazets, a model or sample.
+- 'Let's move on, I will inspect the storage.' "Poydyomte", let's go, takes "poydyom" and adds -te to make it polite. "Osmotryu", I'll inspect, starts with o-, around: to look all over.
+- 'Please, walk right behind me.' "Proshu vas", 'I ask you', is a formal 'please'. "Za mnoy", behind me, turns "ya" into "mnoy" after "za".
+- 'And what is located behind this door?' "Nakhoditsya", is located, is literally 'finds itself'. "Za etoy dveryu", behind this door, turns "dver" into "dveryu" after "za".
+- 'There is our storage for unopened bottles.' "Zakrytykh", closed, here means 'sealed'. "Dlya", for, turns "butylki" into "butylok".
+- 'Open the lock, I must see everything.' "Zamok", lock, is stressed at the end; stressed on the first syllable, the same spelling means 'castle'. "Dolzhen", I must, is the form a man uses.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Rump, where is my fresh expensive truffle?' The nickname shows up again. 'My' agrees with 'truffle', which is a he-word.
-- 'Am I going to wait for it until next Easter?' 'Until next Easter' is Barinov's sarcasm, like 'until the cows come home'. The term for 'I will wait' is literally 'I will be' plus 'to wait'.
-- 'Chef, I am already bringing it, all is well!' 'I am carrying' is the plain present, which Russians use for what's happening now. 'All is well' is the usual cover story.
-- 'You work too slowly in the kitchen!' The term for 'too' is a single word. 'Slowly' stems from the Russian for 'slow', with an 'o' ending that makes it a how-word.
-- 'The important guest is waiting for his order.' 'waits' takes the order directly, with no word for 'for'. 'His own' is the word that points back at the guest.
-- 'I am looking for the best mushroom.' 'I look for' changes its middle letters, from 'iskat' to 'ishchu'. 'Mushroom' is the plain word for the whole family.
-- 'You have exactly one minute!' 'At you there is' means 'you have'. 'Exactly' comes from 'flat' or 'even'.
-- 'Otherwise I will personally fire you today!' 'Otherwise' is a handy word. 'I will fire' is a one-word future.
-- 'Do not worry, Chef, the order will be ready.' 'Worry' also means 'live through'. 'Will be ready' is made of 'will be' plus 'ready'.
-- 'I want to see the result right now.' 'I want' changes its stem to 'khochu'. 'Right now' means the pair 'straight' and 'now', as it does in many of Barinov's orders.
-- 'We fulfilled all your difficult conditions.' 'Fulfilled' is a business word. 'Your' and 'difficult' both agree with the plural 'conditions'.
-- 'What are you muttering under your breath there?' The Russian says 'to yourself under the nose'. 'Mutter' sounds like a mutter.
-- 'I am saying that everything is under control.' 'Under control' literally has the same shape as 'under the nose', with 'under' and a changed ending. 'control' is borrowed.
-- 'Then bring the truffle to the chef's table.' The Russian for 'carry' is the command for taking something on foot. 'Chef's table' is literally 'table of the chef', with an 'a' ending on 'chef'.
+- 'Rump, where is my fresh expensive truffle?' Oguzok again, the chef's nickname for Max. "Moy", "svezhiy", "dorogoy" all end in masculine forms because "tryufel" is masculine.
+- 'Am I going to wait for it until next Easter?' Do "sleduyushchey Paskhi" is sarcasm, like 'till the cows come home'. "Budu zhdat", 'will be waiting', is the long future for a drawn-out action.
+- 'Chef, I am already bringing it, all is well!' "Nesu", I'm carrying, is the present, used for something happening right now. "Vsyo khorosho", 'all is good', is the usual cover story.
+- 'You work too slowly in the kitchen!' "Medlenno", slowly, is "medlennyy", slow, with -o, which makes it describe how. "Slishkom", too, goes in front of it.
+- 'The important guest is waiting for his order.' "Zhdyot svoy zakaz", 'waits his order', needs no word for 'for'. "Svoy", his own, points back at the guest.
+- 'I am looking for the best mushroom.' "Ishchu", I'm looking for, is from "iskat", with the sk turning into shch. "Samyy luchshiy", the very best, is a normal Russian double.
+- 'You have exactly one minute!' "U tebya est" is 'at you there is', which is Russian for 'you have'. "Rovno", exactly, also means 'evenly'.
+- 'Otherwise I will personally fire you today!' "Uvolyu", I'll fire, comes from "uvolit", the official verb for sacking someone. "Lichno", personally, makes the threat sound official.
+- 'Do not worry, Chef, the order will be ready.' "Ne perezhivayte" is 'don't worry' said with -te, the way Max talks to his boss. "Budet gotov", will be ready, uses "budet", 'will be'.
+- 'I want to see the result right now.' "Khochu", I want, is from "khotet", and it's "khochu", not khotyu. "Pryamo seychas", 'straight now', is Barinov's favourite deadline.
+- 'We fulfilled all your difficult conditions.' "Vypolnili", fulfilled, is a formal word that makes Max sound like a contractor. "Uslovie", condition, has the plural "usloviya".
+- 'What are you muttering under your breath there?' "Sebe pod nos", 'to yourself under the nose', is how Russians say 'under your breath'. "Bormochesh", you mutter, even sounds like muttering.
+- 'I am saying that everything is under control.' "Pod kontrolem", under control, has -em after "pod". "Govoryu", "chto" is 'I'm saying that', the start of any excuse.
+- 'Then bring the truffle to the chef table!' "Nesi", carry it, is the order you heard a few scenes ago. "Na stol shefa", onto the chef's table, has "shef" with -a for 'of the chef'.

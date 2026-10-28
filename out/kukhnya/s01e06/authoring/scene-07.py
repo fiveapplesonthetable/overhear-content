@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'louis': 'Луи', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "The whole kitchen is cleaning for the inspection, and Louis, the French pastry chef, is not exactly working. He is fencing with Max, with a sausage for a sword. It's in Russian first, and Louis's drama will help you follow it."
-OPENER = 'Now slowly. Louis is dramatic, Max is practical, and the Russian is short enough for you to follow.'
-TRANSITION = 'One last listen, from line one.'
-OUTRO = "The scene gives you the Russian for dust, rag, water and clean, which is enough to start a spring-clean. It also gives you 'otherwise we'll get it', which you can use all year. See you next time."
+INTRO = "The whole kitchen at Claude Monet is cleaning for the inspection, and Louis, the French pastry chef, is not exactly working. He is fencing with Max, using a sausage for a sword. It's in Russian first, and Louis's drama will help you follow it."
+OPENER = 'Now slowly. Louis is dramatic, Max is practical, and the sentences are short.'
+TRANSITION = 'One last listen, from the first line.'
+OUTRO = 'The scene gives you "pyl", dust, "tryapka", rag, and "voda", water, which is enough to start a spring-clean. It also gives you "nam dostanetsya", we\'ll catch it, which you can use all year. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('louis', 'Осторожно, ты пронзил меня своей колбасой!', 'Careful, you impaled me with your sausage!', [(75, 'Ты пронзил меня своей колбасой')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Точно, иначе нам сильно достанется!', 'Exactly, otherwise we will really get it!', [], ''),
 ]
 WALK = [
-    (0, None, "'Careful, you impaled me with your sausage!' 'Careful' is the same short warning you hear at the kitchen door. 'With your own sausage' ends in 'oy', which is the Russian 'with'."),
-    (1, None, "'Louis, stop screaming so loudly.' 'Stop' is a command you can use on anyone. 'Loudly' and 'to shout' come from the same family."),
-    (2, None, "'Tell Maria that I loved her!' 'Tell' is followed by 'to Maria', in which the name ends in 'i'. 'Loved' carries 'l' since Louis is a man."),
-    (3, None, "'Stop dying, we need to clean the kitchen.' 'Enough' is followed by 'dying', so it comes out as 'enough dying'. The verb 'clean up' means to put things away and make a place tidy."),
-    (4, None, "'Does Chef force us to wash these shelves?' 'Forces' is a strong word, close to 'makes us'. 'Us' takes a short form, and 'shelves' is the plural."),
-    (5, None, "'Yes, Chef demands perfect cleanliness everywhere.' 'Demands' is followed by 'cleanliness' with a different ending. 'Everywhere' is a handy word for 'in every place'."),
-    (6, None, "'Dust has been lying here for a whole year!' Russian says dust 'lies', as in lies on a shelf. 'Whole' is placed in front of 'year' to emphasize it."),
-    (7, None, "'Since the restaurant opened nobody has cleaned here.' 'Since the opening' is one small word and then a changed noun. 'Nobody' comes with 'not', as it must."),
-    (8, None, "'Then quickly take a rag and water.' 'Take' is a command. 'Water' has an 'u' ending because it's the thing you take."),
-    (9, None, "'I am ready, let's finish this work.' 'Let's finish' is the form that sounds like 'we will finish'. 'Ready' is the man's form."),
-    (10, None, "'The main thing is that Chef is very pleased.' 'So that' makes the next part a wish, and it is why the past form follows. 'Pleased' is the man's form of 'satisfied'."),
-    (11, None, "'Exactly, otherwise we will really get it!' 'Otherwise' is a handy single word. 'We'll get it' is literally 'it will reach us', which is the way to say we'll catch it."),
+    (0, None, '\'Careful, you impaled me with your sausage!\' "Kolbasa", sausage, becomes "svoey kolbasoy", and that -oy ending alone means \'with\', as in \'using\'. "Ostorozhno", careful, is the word you\'d shout at someone backing into a hot stove.'),
+    (1, None, '\'Louis, stop screaming so loudly.\' "Perestan", stop, goes with the plain dictionary form: "perestan krichat", stop shouting. It works for any habit you want someone to drop.'),
+    (2, None, '\'Tell Maria that I loved her!\' "Mariya" becomes "Marii", \'to Maria\', the person you tell something to. "Lyubil", I loved, ends in -l because Louis is a man.'),
+    (3, None, '\'Stop dying, we need to clean the kitchen.\' "Khvatit", enough, also goes with a plain verb: "khvatit umirat", \'enough dying\'. "Umirat" and "ubirat", to die and to clean up, differ by one letter, which Max seems to enjoy.'),
+    (4, None, '\'Does Chef force us to wash these shelves?\' "Zastavlyaet nas myt" is \'makes us wash\': the person, then the action. "Polka", shelf, is "polki" in the plural.'),
+    (5, None, '\'Yes, Chef demands perfect cleanliness everywhere.\' "Trebovat", to demand, changes the word after it, so "chistota" turns into "chistoty". "Vezde", everywhere, is worth having alongside "zdes", here.'),
+    (6, None, '\'Dust has been lying here for a whole year!\' Russian keeps the present tense for something still going on: \'dust lies here already a whole year\'. And dust lies, "lezhit", the way a book lies on a table.'),
+    (7, None, '\'Since the restaurant opened nobody cleaned here.\' S, since, makes "otkrytie", the opening, into "s otkrytiya". "Nikto ne", \'nobody not\', is the normal double negative.'),
+    (8, None, '\'Then take a rag and water quickly.\' "Beri", take, is said to one person, from "brat", the word behind "beru", I take. "Voda", water, becomes "vodu" because it\'s what you take.'),
+    (9, None, '\'I am ready, let\'s finish this work.\' "Davay" plus a \'we\' form, "zakonchim", makes \'let\'s finish\'. "Gotov", ready, is the form for a man; Nastya would say "gotova".'),
+    (10, None, '\'The main thing is that Chef is very pleased.\' After "chtoby", so that, Russian uses the past form, "byl", even about the future. "Dovolen", pleased, is a word you\'ll hear about every boss.'),
+    (11, None, '\'Exactly, otherwise we will really get it!\' "Nam dostanetsya" is literally \'it will reach us\', the Russian \'we\'ll catch it\'. "Inache", otherwise, is the word to put before any threat.'),
 ]

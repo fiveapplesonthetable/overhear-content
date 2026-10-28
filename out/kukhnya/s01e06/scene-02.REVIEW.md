@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, look at this plate.' The nickname comes first, as it often does. 'This plate' has an 'u' ending because the plate is what's being looked at.
-- 'Chef, is this dish already ready?' There is no word for 'is' or 'do': the voice goes up and that's the question. 'Ready' ends in 'o' to match 'dish'.
-- 'The main thing remains: to garnish it with herbs.' 'Remains' is in a neutral form with no person in it, like 'what's left'. 'Garnish' is related to 'beautiful', and 'with herbs' ends in 'yu', which is Russian's 'with'.
-- 'Every detail has important meaning.' 'Detail' is the French word, with a soft ending. 'Has meaning' is the usual way of saying 'matters'.
-- 'Food is obliged to look beautiful and appetizing.' 'Obliged' gets 'a' since 'food' is grammatically a she-word. The two ways of saying 'beautifully' and 'appetizingly' both end in 'o'.
-- 'Shall we put fresh herbs here?' 'Let's put' is the form that sounds like 'shall we'. 'Herbs' is a word for greens, and it comes from 'green'.
-- 'Carefully! Do not ruin the expensive presentation.' One word is enough for 'careful!'. 'expensive' also means 'dear', so a good presentation is a precious one.
-- 'I do everything very carefully, chef.' 'I do' ends in 'yu', and 'everything' is a short, handy word. Max repeats the word 'carefully' to show he heard.
-- 'Beautiful presentation is very important for guests.' 'Important' ends in 'a' to match 'presentation'. 'For guests' needs a changed ending on 'guests'.
-- 'The waiters are already waiting in the kitchen.' 'Waiting' ends in 'ut', the 'they' ending again. 'Already' is followed by it.
-- 'Call the waiter, let them carry the order.' 'Let them' is a single little word. 'carry' has the same 'ut' ending.
-- 'Sasha, take the ready hot dish!' 'Take' starts with 'za' and means 'pick up'. 'Ready' and 'hot' both end in 'oe' to agree with 'dish'.
-- 'Great, we continue working further.' 'We continue' ends in 'em', which is the 'we' ending. 'Further' means 'on', as in 'keep going'.
+- 'Oguzok, look at this plate.' Barinov uses his nickname for Max before anything else. "Tarelka", plate, becomes "tarelku" because it's the thing being looked at.
+- 'Chef, is this dish already ready?' No 'is', no 'do': the voice rises and that makes it a question. "Gotovo", ready, ends in -o to match "blyudo".
+- 'The main thing remains: to garnish it with herbs.' "Ukrasit", to decorate, shares a root with "krasivyy", beautiful. "Zelen", greens, becomes "zelenyu", and that ending alone says 'with', as in 'using'.
+- 'Every detail has important meaning.' "Detal", detail, ends in a soft sign and is a feminine word, which is why 'every' is "kazhdaya" here. "Imet znachenie", to have meaning, is a stiff way of saying 'it matters'.
+- 'Food is obliged to look beautiful and appetizing.' "Eda", food, is feminine, so 'obliged' comes out as "obyazana". Russian food looks "krasivo", 'beautifully', with the -o of a how-word.
+- 'Shall we put fresh herbs here?' "Polozhim" is 'we'll put', and as a question it works like 'shall we put'. "Syuda" means 'to here', because putting something is a movement.
+- 'Carefully! Do not ruin the expensive presentation.' "Ne isporti" is the warning 'don't go and spoil it'. "Dorogoy" means both 'expensive' and 'dear', so the plate is precious either way.
+- 'I do everything very carefully, chef.' "Delayu", I do, has the -yu ending for 'I'. Max hands Barinov's own word back to him, "akkuratno", carefully.
+- 'Beautiful presentation is very important for guests.' "Podacha", presentation, comes from "podavat", to serve. "Vazhna", important, ends in -a to agree with it.
+- 'The waiters are already waiting in the kitchen.' "Zhdut", they wait, is from "zhdat", with the -ut ending for 'they'. "Na kukhne" again: the kitchen is a place you're 'on'.
+- 'Call the waiter, let them carry the order.' "Pust" is 'let', and you put it before any verb to mean 'let them do it'. "Nesut", they carry, is from "nesti", carrying something in your hands as you go.
+- 'Sasha, take the ready hot dish!' "Zaberi", take it away, is the command 'take' with za- in front, the sense of collecting something. On a menu, "goryachee" alone means the hot main courses.
+- 'Great, we continue working further.' "Otlichno" is also the top school grade, so it's a real 'excellent'. "Prodolzhaem rabotat" is literally 'we continue to work'.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, look, what is that lying there?' Russian says things 'lie', so a bag 'lies' on a shelf. 'What is that' has a small extra word in the middle that makes it 'what is that thing'.
-- 'It looks like some rotten potato.' 'It seems' is 'looks like'. 'Some kind of' is 'which' with the little 'to' at the end.
-- 'It looks very strange and dirty.' Potato is a she-word in Russian, so the line says 'she'. 'Strange' and 'dirty' both end in 'o'.
-- 'Let's just throw out this old bag.' 'Throw out' starts with 'vy', which means 'out'. 'Old' ends in 'y'.
-- 'Or maybe we will sell it online?' 'We will sell' is a one-word future. 'Through the internet' uses 'through' to mean 'online'.
-- 'Who needs rotten and black potatoes?' 'To whom needed' is how you say 'who needs'. 'Rotten' and 'black' agree with 'potato', as it's a she-word.
-- 'People on the internet buy absolutely everything!' 'On the internet' puts an 'e' on the end. 'Absolutely everything' is two words, and they sound as emphatic as they look.
-- 'Kostyan, don't be dense, drop these jokes.' 'Kostyan' is the casual form of Kostya's name. 'Don't be dense' is slang, and 'drop' is the command 'throw'.
-- 'Okay, I will take it to the dump.' 'Carry away' starts with 'ot', which means 'off'. 'dump' is informal.
-- 'Take it quickly to the garbage bin outside.' 'Garbage' is assembled from 'rubbish'. 'Outside' is literally 'onto the street'.
-- 'I'll be back quickly and we will carry on cleaning.' 'I'll return' ends in 'sya'. 'Cleaning' comes from the same word as 'clean up'.
-- 'Great, we still have a lot to wash today.' 'To us still much to wash' is the way Russian says 'we have a lot to wash'. 'Today' is pronounced with a 'v'.
+- 'Max, look, what is that lying there?' "Chto eto takoe" is 'what on earth is this', a little longer than plain "chto eto". "Lezhit", it lies, is the normal word for something just sitting there.
+- 'It looks like some rotten potato.' "Pokhozhe", it looks like, is a good way to start a guess. "Kakaya-to" is 'which' with -to added, and it turns into 'some kind of'.
+- 'It looks very strange and dirty.' "Kartoshka", potato, is feminine, so Kostya calls it "ona", she. "Vyglyadit" takes how-words: "stranno", strangely, "gryazno", dirtily.
+- 'Let's just throw out this old bag.' "Vykinem", let's throw out, has vy-, out, at the front. "Paket" is a plastic bag, not a packet in the English sense.
+- 'Or maybe we will sell it online?' A "mozhet", 'or maybe', is a casual way to float an idea. Online is cherez internet, 'through the internet'.
+- 'Who needs rotten and black potatoes?' "Komu nuzhna" is 'to whom is it needed', the way Russians say 'who needs it?'. Ask it with a shrug.
+- 'People on the internet buy absolutely everything!' Internet gets an -e after v: "v internete", on the internet. "Absolyutno" is easy to guess, and it's said with feeling.
+- 'Kostyan, do not be silly, drop these jokes.' "Kostyan" is a matey form of Kostya. "Ne tupi" is slang from "tupoy", blunt, so 'don't be dense', and "bros" is the command 'throw it away'.
+- 'Okay, I will take it to the dumpster.' "Otnesu", I'll carry it off, is ot-, away, plus "nesti", to carry. "Pomoyka" is a rubbish tip, and people use it for any filthy place.
+- 'Take it quickly to the garbage bin outside.' "Musornyy bak", rubbish bin, takes "musornyy" from "musor", rubbish. "Na ulitsu", onto the street, has -u because it's where the bag is going.
+- 'I will return quickly now and we will continue cleaning.' "Vernus", I'll be back, ends in -s, the short form of -sya. "Uborka", cleaning, is from "ubirat", to clean up, which Max used with Louis.
+- 'Great, we still have a lot to wash today.' "Nam mnogo myt" is literally 'to us a lot to wash'. "Segodnya", today, is said 'sevodnya': that g sounds like a v.

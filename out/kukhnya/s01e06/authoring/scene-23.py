@@ -10,13 +10,13 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "The week of the inspection is over, and the bill for the truffles is a month of unpaid work for Max. He takes it with an odd calm and ends the episode with a speech about life. It's in Russian first."
-OPENER = "Let's go through the end of the day. Barinov has the practical lines and Max has the philosophy."
-TRANSITION = 'Hear it again with that help.'
-OUTRO = "Max's speech is in short Russian sentences about big ideas: life, difficulties, fate. They're a good way to practise longer thoughts without long words. See you next time."
+INTRO = "At Claude Monet the inspection is behind them, and the bill for Rodion's dinner has landed on Max: a month of work for free. He takes it oddly calmly and ends the episode with a speech about life. It's in Russian first."
+OPENER = "Let's go through the end of the day. Barinov has the practical lines, and Max has the philosophy."
+TRANSITION = "And now Max's speech, all the way through."
+OUTRO = 'Max\'s speech is all short Russian sentences about big ideas: "zhizn", life, "trudnosti", difficulties, "sudba", fate. They\'re a good way to practise long thoughts without long words. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
-    ('barinov', 'Огузок, ты оплатишь этот дорогой счёт!', 'Runt, you will pay this expensive bill!', [], ''),
+    ('barinov', 'Огузок, ты оплатишь этот дорогой счёт!', 'Rump, you will pay this expensive bill!', [], ''),
     ('max', 'Шеф, но это очень большие деньги.', 'Chef, but this is very big money.', [(309, 'это')], ''),
     ('barinov', 'Будешь работать бесплатно целый месяц!', 'You will work for free a whole month!', [], ''),
     ('max', 'Жизнь постоянно испытывает нас на прочность.', 'Life is constantly putting us to the test.', [(309, 'жизнь')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Завтра меня ждут новые кулинарные победы!', 'Tomorrow new culinary victories await me!', [], ''),
 ]
 WALK = [
-    (0, None, "'Rump, you will pay this expensive bill!' 'Rump' is the usual nickname for Max. 'Will pay' is a one-word future, and 'this' agrees with 'bill'."),
-    (1, None, "'Chef, but this is very big money.' 'Money' is plural in Russian, so 'big' is plural. It's the kind of thing you can use for any large sum."),
-    (2, None, "'You will work for free for a whole month!' 'For free' comes from 'without payment'. 'Whole' is placed in front of 'month' to stress it."),
-    (3, None, "'Life is constantly putting us to the test.' 'Tests' is a strong word, and 'for strength' means 'to see if we hold'. The line sounds like something from a poster."),
-    (4, None, "'Some people easily cope with difficulties.' 'Someone' is 'who' with a tiny 'to'. 'Difficulties' comes from 'labour', and 'cope' goes with 'with'."),
-    (5, None, "'And some people give up right away.' 'Lowers the hands' is the Russian for 'gives up'. English says it the same way, with the arms dropping."),
-    (6, None, "'For some, life is a kaleidoscope of adventures.' 'For some' is 'for ones', as 'one' can be a plural. 'Kaleidoscope' is borrowed, so it is easy."),
-    (7, None, "'For others, a series of bitter disappointments.' 'For others' is 'for different', and it matches the previous line. 'Bitter' is the taste word, used for feelings."),
-    (8, None, "'Stop daydreaming, go wash the frying pans!' 'Enough' is followed by 'dreaming'. 'Go wash' needs no word for 'and'."),
-    (9, None, "'In any case one must be ready for everything.' 'In any case' is a fixed phrase. 'Must be ready' has 'ready' in a form that agrees with 'one'."),
-    (10, None, "'Life teaches us unexpected turns of fate.' 'Unexpected' is assembled from 'not' and 'expected'. 'Turn' and 'fate' are two related ideas."),
-    (11, None, "'I will definitely deal with this problem.' 'Deal with' ends in 'sya', and the problem takes the 'with' ending. 'Definitely' is a handy word."),
-    (12, None, "'Now that is the right attitude for a cook!' 'Attitude' is a word for 'mood' or 'tuning'. 'For a cook' uses a changed form of 'cook'."),
-    (13, None, "'Tomorrow new culinary victories await me!' 'Await me' is literally 'wait for me', with the plural 'victories' as the subject."),
+    (0, None, '\'Rump, you will pay this expensive bill!\' Oguzok is the chef\'s nickname for Max one more time. "Oplatish", you\'ll pay, has -ish, the "ty" ending, on a future verb.'),
+    (1, None, '\'Chef, but this is very big money.\' "Dengi", money, is always plural, so "bolshie", big, is plural too. "Bolshie dengi", \'big money\', is what Russians say for \'a lot of money\'.'),
+    (2, None, '\'You will work for free a whole month!\' Besplatno, for free, is bes-, without, plus "plata", pay. "Budesh rabotat", you\'ll be working, is the long future for something that goes on.'),
+    (3, None, '\'Life is constantly putting us to the test.\' "Ispytyvaet na prochnost", \'tests for strength\', is the phrase engineers use for materials. Max uses it about himself.'),
+    (4, None, '\'Some people easily cope with difficulties.\' "Kto-to", someone, is "kto", who, with -to added. "Spravlyaetsya" s, copes with, takes s, and "trudnosti" becomes "trudnostyami".'),
+    (5, None, '\'And some people give up right away.\' "Opuskaet ruki", \'lowers the hands\', is the Russian idiom for giving up. "Kto-to" and "kto-to" in a row mean \'some... others\'.'),
+    (6, None, '\'For some life is a kaleidoscope of adventures.\' "Dlya odnikh", \'for some\', uses "odin", one, in the plural. "Priklyucheniy" means \'of adventures\', the shape the word takes after "kaleydoskop".'),
+    (7, None, '\'For others, a series of bitter disappointments.\' "Dlya drugikh", for others, answers "dlya odnikh" from the line before. "Gorkiy", bitter, is the taste word, used for feelings too.'),
+    (8, None, '\'Stop daydreaming, go wash the frying pans!\' "Khvatit mechtat", enough dreaming, is "khvatit" plus a plain verb again. "Idi myt", go wash, needs no \'and\' between the verbs.'),
+    (9, None, '\'In any case one must be ready for everything.\' "V lyubom sluchae", in any case, is a fixed phrase to learn whole. "Gotovym", ready, ends in -ym because it comes after "byt".'),
+    (10, None, '\'Life teaches us unexpected turns of fate.\' "Uchit nas", teaches us, puts what\'s taught in the \'to\' form: "neozhidannym povorotam". "Sudba", fate, becomes "sudby", \'of fate\'.'),
+    (11, None, '\'I will definitely deal with this problem.\' "Spravlyus", I\'ll cope, is the finished form of "spravlyatsya" from three lines earlier. "Obyazatelno", definitely, also means \'without fail\'.'),
+    (12, None, '\'Now that is the right attitude for a cook!\' "Nastroy", attitude, is from nastroit, to tune a guitar, so it\'s how you\'re tuned. "Dlya povara", for a cook, adds -a to "povar".'),
+    (13, None, '\'Tomorrow new culinary victories await me!\' "Menya zhdut", \'me they wait\', puts the victories in the subject\'s place at the end. "Pobedy", victories, is "pobeda" with -y for more than one.'),
 ]

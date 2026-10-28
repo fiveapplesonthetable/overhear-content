@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'guest': 'Гость', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "In the dining room of Claude Monet, a guest has found a hair in his dinner and has called over the waitress, Nastya. She is very calm. He is not. It's in Russian first, and you'll hear plenty of polite phrases."
+INTRO = "Out in the dining room of Claude Monet, a guest has found a hair in his dinner and has called over Nastya, the waitress. She is very calm. He is not. It's in Russian first, and you'll hear plenty of polite phrases."
 OPENER = "Let's go back through the complaint. The guest raises his voice, and Nastya keeps hers very flat, which is where the joke is."
-TRANSITION = 'That was the detail; here is the sweep.'
-OUTRO = "Nastya's politeness is worth borrowing: 'good day', 'I'm listening', 'I'll call the chef'. With those three you can handle most complaints. See you next time."
+TRANSITION = "Here's the whole complaint again, from the top."
+OUTRO = 'Nastya\'s polite phrases are worth borrowing: "dobryy den", "slushayu vas", and "ya pozovu shef-povara". With those three you can handle most complaints. See you next time.'
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('guest', 'Девушка, подойдите немедленно к нашему столу!', 'Miss, come over to our table immediately!', [(85, 'Бевушка')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Хорошо, я сейчас позову шеф-повара.', 'Fine, I will call the head chef right now.', [(96, 'Зову')], ''),
 ]
 WALK = [
-    (0, None, "'Miss, come over to our table immediately!' Russians call a waitress by the word for 'girl', just as you might say 'miss'. The command ends in 'te', which is the polite form, and 'to our table' puts a 'u' ending on the table."),
-    (1, None, "'Good day, I am listening to you very attentively.' 'Good day' is the usual daytime hello. 'I listen to you' is how a waitress says 'how can I help', and 'you' is the polite one."),
-    (2, None, "'Look at this, what is that?' 'look' is the polite form, since he doesn't know her. The little word 'such' at the end of 'what is that' means the question sounds more irritated."),
-    (3, None, "'I see that this is an ordinary hair.' 'I see' is irregular, because the 'd' changes to 'zh'. 'Hair' is singular here, which Russian does not often use."),
-    (4, None, "'I also see this long hair perfectly well!' He copies her sentence word for word, which is how people mock each other. 'Perfectly' comes from 'excellent'."),
-    (5, None, "'Then why are you asking about it?' This 'why' means 'for what purpose', and it is blunt. 'About this' has the form of 'about' that is used before a vowel."),
-    (6, None, "'How did this hair get onto the plate?' The Russian for 'got' literally means 'landed' or 'hit', as if the hair had flown there. 'Into the plate' ends in 'u', the ending that shows movement into something."),
-    (7, None, "'Probably it simply fell out of your head.' The prefix at the start of 'fell out' means 'out', as in 'out of'. 'Out of your head' is the short word 'from' plus the changed head."),
-    (8, None, "'Such a long hair cannot be mine!' 'Cannot be' is a neat two-word chunk, and it literally means 'is not able to be'. 'mine' ends in 'im', which is the ending it takes after 'be'."),
-    (9, None, "'Then probably it fell out of a beard.' 'Probably' is a long word that you can use for anything you guess. The beard also changes shape after 'out of'."),
-    (10, None, "'I do not have a beard, call the chef!' 'At me there is no beard' is the Russian way to say 'I have no beard', and the beard takes a different ending after 'there is no'. The Russian for 'call' is the formal command."),
-    (11, None, "'Fine, I will call the head chef right now.' 'I will call' is a one-word future. The head chef is written as two words joined by a hyphen, 'chef-cook'."),
+    (0, None, '\'Miss, come over to our table immediately!\' "Devushka", girl, is how Russians call a waitress, much like \'miss\'. "K nashemu stolu", to our table, puts -u on "stol" after k, \'towards\'.'),
+    (1, None, '\'Good day, I am listening to you very attentively.\' "Slushayu vas", \'I\'m listening to you\', is what a waiter says for \'yes, how can I help?\'. "Vnimatelno", attentively, comes from "vnimanie", attention.'),
+    (2, None, '\'Look at this, what is that?\' "Posmotrite" is the polite version of the \'look\' you\'ve heard all episode; the -te on the end does it. He doesn\'t wait for an answer.'),
+    (3, None, '\'I see that this is an ordinary hair.\' "Vizhu", I see, comes from "videt", and the d turns into zh. "Volos" is one single hair; a head of hair is "volosy".'),
+    (4, None, '\'I also see this long hair perfectly well!\' He takes her sentence and throws it back with "tozhe", also, added. "Otlichno", excellent, works here like \'perfectly well\'.'),
+    (5, None, '\'Then why are you asking about it?\' "Ob etom", about it, is o with a b slipped in before the vowel. "Zachem", what for, is blunter than "pochemu".'),
+    (6, None, '\'How did this hair get onto the plate?\' "Popal" means \'landed\' or \'hit\', the word for hitting a target. "V tarelku" has -u because the hair ended up inside the plate.'),
+    (7, None, '\'Probably it simply fell out of your head.\' "Vypal", fell out, is vy-, out, plus "padat", to fall. "Iz vashey golovy", out of your head, changes "golova" to "golovy" after "iz".'),
+    (8, None, '\'Such a long hair cannot be mine!\' "Ne mozhet byt", \'cannot be\', is a chunk you\'ll use for anything unbelievable. After "byt", "moy", mine, becomes "moim".'),
+    (9, None, '\'Then probably it fell out of a beard.\' "Navernoe", probably, is the word to put in front of any guess. "Boroda", beard, becomes "borody" after "iz", just as "golova" did.'),
+    (10, None, '\'I do not have a beard, call the chef!\' "U menya net borody" is \'at me no beard\', and "net" changes "boroda" the same way. "Pozovite", call, is the polite command.'),
+    (11, None, '\'Fine, I will call the head chef right now.\' "Pozovu", I\'ll call, is a single word that already means the future. "Shef-povar" is \'chef-cook\', the full title for the head chef.'),
 ]

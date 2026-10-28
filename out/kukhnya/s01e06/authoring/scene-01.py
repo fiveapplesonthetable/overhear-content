@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
-INTRO = "Kukhnya means The Kitchen. It's a Russian comedy about Claude Monet, a smart Moscow restaurant where the chef, Barinov, rules the kitchen and everyone else survives as best they can. This is from episode six. Before the evening rush, Max and Kostya, the young cook and the bartender who share a flat, look out at the guests and talk about what they don't see. You'll hear it in Russian first, and it's fine to miss words."
-OPENER = "Now slowly. It's a calm scene, so the sentences are short and nearly all useful."
-TRANSITION = 'It should feel more familiar now.'
-OUTRO = "Keep 'every evening' and 'every dish' in mind, since the same little word does both jobs. Kostya and Max have talked about a journey and a plate, and you've followed it in Russian. See you next time."
+INTRO = "Kukhnya means The Kitchen. It's a Russian comedy about Claude Monet, a smart Moscow restaurant where the chef, Barinov, rules the kitchen and everyone else survives as best they can. This is from episode six. Before the evening rush, Max, the young cook, and Kostya, the bartender he shares a flat with, look out at the guests and talk about what they never see. You'll hear it in Russian first, and it's fine to miss words."
+OPENER = "Now slowly. It's a calm scene, so the sentences are short and nearly all of them are worth keeping."
+TRANSITION = 'Here it is again in one go. It should feel more familiar now.'
+OUTRO = 'Keep "kazhdyy vecher", every evening, and "kazhdoe blyudo", every dish: one word for \'every\', with its ending changed to fit. See you next time.'
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Макс, посмотри на гостей в зале.', 'Max, look at the guests in the dining room.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Скоро начнётся наш обычный рабочий вечер.', 'Soon our usual working evening will begin.', [], ''),
 ]
 WALK = [
-    (0, None, "'Max, look at the guests in the dining room.' 'Look' is the command you give a friend, and 'at the guests' needs a short word for 'at' in front. 'In the hall' is just 'in' plus a short word with an 'e' at the end, which is how Russian shows a place."),
-    (1, None, "'They are ordering our specialty dishes.' The long describing word for 'specialty' comes from 'firm' or 'company', so it means 'the house's own'. You'll see it on menus."),
-    (2, None, "'People come here every evening.' 'People' is a plural-only word; Russian has a different word when you mean one person. 'Every evening' needs no 'in' or 'on', just the two words side by side."),
-    (3, None, "'Everyone chooses their favorite dish.' 'Favorite' is rooted in 'to love'. 'Their own' is a word that points back at the person doing the choosing."),
-    (4, None, "'They do not think about the food's journey.' Russian shows 'of' by changing the end of the word, so 'journey of food' needs no word for 'of'. 'Think about' is followed by a short 'about' word."),
-    (5, None, "'Which dish travels a long way?' The question word 'which' matches 'dish' in its ending. 'Travels' is 'passes through', which fits a dish going from the market to the table."),
-    (6, None, "'Every dish begins its journey at the market.' Russian uses 'on' for markets, so it says 'on the market'. 'Begins' ends in 'et', which is the ending for 'it' or 'he'."),
-    (7, None, "'Then the cooks prepare the order in the kitchen.' 'Cooks' ends in 'a', one of the few plurals that does. 'Prepare' ends in 'yat', which is how 'they' sounds."),
-    (8, None, "'The whole kitchen works for one plate.' 'For the sake of' is a single short word, and it asks for the next word to change: 'one plate' becomes 'of one plate'. 'Whole' agrees with 'kitchen' and ends in 'a'."),
-    (9, None, "'The cooks rush very much and get nervous.' 'Get nervous' comes from 'nerves'. Both actions end in 'yut' or 'ayut', the 'they' ending."),
-    (10, None, "'And guests only see the delicious result.' 'Delicious' is based on 'taste'. 'Result' is borrowed and looks like the English one."),
-    (11, None, "'For them this is a real celebration of taste.' 'For them' is two small words. 'Celebration' is also the word for a public holiday, and 'of taste' is the same 'of' by ending."),
-    (12, None, "'Soon our usual working evening will begin.' 'Soon' is the same word that means 'quickly' in some sentences. 'Working' is made from 'work', so 'a working evening' is an evening of work."),
+    (0, None, '\'Max, look at the guests in the dining room.\' "Posmotri" is the friendly \'look\', the one you\'d say to a mate. Russian looks \'on\' things, "na gostey", and the hall, "zal", becomes "v zale" when it\'s where something is.'),
+    (1, None, '\'They are ordering our specialty dishes.\' "Firmennye" comes from "firma", a company, so "firmennoe blyudo" is the house\'s own dish. You\'ll see that phrase on Russian menus.'),
+    (2, None, '\'People come here every evening.\' "Lyudi", people, has nothing to do with the word for one person, chelovek. And "kazhdyy vecher", every evening, needs no \'on\' or \'in\' in front of it.'),
+    (3, None, '\'Everyone chooses their favorite dish.\' "Lyubimoe", favourite, grows from "lyubit", to love, so it\'s literally \'the loved dish\'. "Svoyo" means \'their own\' and always points back to whoever is doing the choosing.'),
+    (4, None, '\'They do not think about the food\'s journey.\' "Eda", food, turns into "edy" to mean \'of food\', so "o puti edy" is \'about the journey of food\' with no word for \'of\' anywhere.'),
+    (5, None, '\'Which dish travels a long way?\' "Kakoe", which, takes the same -oe ending as "blyudo". "Prokhodit" is \'goes through\', from pro-, through, and "khodit", to walk.'),
+    (6, None, '\'Every dish begins its journey at the market.\' "Kazhdoe" ends in -oe here because "blyudo" does; a line earlier it was "kazhdyy vecher". And a market is something you\'re \'on\', not \'in\': "na rynke".'),
+    (7, None, '\'Then the cooks prepare the order in the kitchen.\' One cook is "povar", several are "povara", with a stressed -a instead of the usual -y. The kitchen, like the market, takes "na": "na kukhne".'),
+    (8, None, '\'The whole kitchen works for one plate.\' "Radi" means \'for the sake of\', and it changes what follows: "odna tarelka", one plate, becomes "radi odnoy tarelki".'),
+    (9, None, '\'The cooks rush very much and get nervous.\' "Nervnichat", to be nervous, is built on "nerv", nerve, so it\'s a word you can almost guess. Both verbs end in the \'they\' ending, -at and -ayut.'),
+    (10, None, '\'And guests only see the delicious result.\' "Vkusnyy", delicious, comes from "vkus", taste, which you\'ll hear again in the next line. "Rezultat" is just \'result\' said the Russian way.'),
+    (11, None, '\'For them this is a real celebration of taste.\' "Dlya nikh" is \'for them\'; after a little word like "dlya", \'them\' picks up an extra n at the front. "Prazdnik" is also what Russians call a public holiday.'),
+    (12, None, '\'Soon our usual working evening will begin.\' "Nachnyotsya", will begin, is a single verb with the future built in. "Rabochiy vecher", a working evening, takes "rabochiy" from "rabota", work.'),
 ]

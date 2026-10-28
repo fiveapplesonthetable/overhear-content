@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in, please, here is our kitchen.' 'Come through' is the courteous way to invite someone to walk ahead. 'Here is' points at things without needing a verb.
-- 'Regarding the hall, I have no complaints.' 'Regarding' makes the next word change its shape. 'Complaints' follows the 'there are none' phrase and is therefore in the 'of' form.
-- 'We strictly monitor cleanliness everywhere.' The word for 'strictly' is built on the Russian for 'strict'. 'Monitor' is followed by the small word 'over' and then 'cleanliness', so Russians say 'watch over cleanliness'.
-- 'Now let's look at your kitchen carefully.' 'Let's look' ends in 'im', as 'we' does. 'Your' is the polite form because he is speaking to the staff.
-- 'We have the best cooks working here.' 'At us here' is the phrase for saying 'we have'. 'Best' is in the plural to match 'cooks'.
-- 'I am interested only in sanitary rules.' Russian turns the sentence round: 'me interest only the rules'. The rules are the thing doing the interesting.
-- 'All employees wear a clean uniform.' 'employees' is literally 'co-workers', built from 'with' and 'work'. The term for 'wear' is also the term for 'carry'.
-- 'I myself will check every workstation.' 'myself' stresses that he will not trust anyone's report. 'Every' has an ending that agrees with 'workstation'.
-- 'Our head chef personally oversees everything.' 'personally' stems from the expression for 'personal'. 'oversees' ends in 'et', as it is about one person.
-- 'In the kitchen one must not violate rules.' The Russian for 'must not' is a flat 'forbidden', and it means the opposite of 'allowed'. It is the word you see on prohibition signs.
-- 'You can see everything yourselves.' 'You can' is the respectful form. 'Yourselves' ends in a plural, because Vika addresses him politely.
-- 'Then we begin a full sanitary inspection.' The word for 'we begin' ends in 'em', which is the 'we' ending. 'Full' and 'sanitary' both take the ending that agrees with 'inspection'.
-- 'Welcome to our kitchen!' The opening phrase is a formal word for 'welcome', and it is literally close to 'good to come'. It is what you see on a doormat or hear at a door.
+- 'Come in, please, here is our kitchen.' "Prokhodite", come through, is what a host says to wave a guest further in. "Vot" i, 'and here is', points at something you've been heading for.
+- 'Regarding the hall, I have no complaints.' "Po zalu", 'as for the hall', is "po" with -u added to "zal". After "net", no, "pretenzii", complaints, becomes "pretenziy".
+- 'We strictly monitor cleanliness everywhere.' "Sledim za", 'we watch over', takes "za", and "chistota" changes to "chistotoy" after it. "Strogo", strictly, is from "strogiy", strict.
+- 'Now let's look at your kitchen carefully.' "Posmotrim", let's look, uses the 'we' ending to mean 'let's'. "Na vashu kukhnyu", at your kitchen, has -u twice because it's what he's looking at.
+- 'We have the best cooks working here.' "Rabotayut luchshie povara" is 'work the best cooks', with the subject coming last. "Povara", cooks, is the plural of "povar", with the stress at the end.
+- 'I am interested only in sanitary rules.' "Menya interesuyut" is 'me interest', so the rules do the interesting and he is the object. That's why it's "menya", not "ya".
+- 'All employees wear a clean uniform.' "Sotrudniki", staff, is the formal word, built from so-, with, and "trud", labour. "Nosyat", they wear, is from "nosit", which also means 'to carry around'.
+- 'I myself will check every workstation.' "Sam", myself, is a way of saying he won't take anyone's word for it. "Kazhdoe", every, ends in -oe to match "mesto", place.
+- 'Our head chef personally oversees everything.' "Lichno", personally, is from "lichnyy", personal. "Kontroliruet", he oversees, is a borrowed word with the regular -et ending for 'he'.
+- 'In the kitchen one must not violate rules.' "Nelzya", 'not allowed', is followed by a plain verb: "nelzya narushat", mustn't break. It's the word you'll see on prohibition signs.
+- 'You can see everything yourself.' "Vy mozhete", you can, is the polite form. "Sami", yourself, is plural because it goes with "vy", even for one person.
+- 'Then we begin a full sanitary inspection.' "Nachinaem", we begin, ends in -em, the 'we' ending. "Polnuyu" and "sanitarnuyu" both end in -uyu to match "proverku".
+- 'Welcome to our kitchen!' "Dobro pozhalovat", welcome, is a fixed phrase you'll see on signs at every town gate. It's "na kukhnyu", not v, because Russians work 'on' a kitchen.
