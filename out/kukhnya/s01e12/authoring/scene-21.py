@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'The cooks are outside on a smoke break when something catches their eye: the new restaurant next door is on fire. This is what Senya and Fedya say, in Russian first.'
 OPENER = 'Slowly now, from the cigarette to the door.'
 TRANSITION = 'Once again, the whole scene, without stopping.'
-OUTRO = "The two of them rush off to tell the chef. Watch how quickly Barinov's face changes. See you in the next one."
+OUTRO = "The two of them rush off to tell the chef. Remember the difference: 'ogon' is a flame, 'pozhar' is a fire you call for help about. Bye for now."
 CLOSING = ('fedya', 'Пока!')
 STORY = [
     ('senya', 'Эта сигарета уже горчит на вкус.', 'This cigarette already tastes bitter.', [(278, 'Горчит уже.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('fedya', 'Я бегу за тобой, открывай дверь.', 'I am running after you, open the door.', [], ''),
 ]
 WALK = [
-    (0, None, "'This cigarette already tastes bitter.' The bitter-tasting action comes from the adjective 'bitter'. Cigarette is a feminine noun, so 'this' becomes 'eta'."),
-    (1, None, "'Just throw it out quickly into the trash bin.' The 'it' is 'her', since cigarettes are feminine in Russian. Objects have a gender, and the little word for 'it' follows suit."),
-    (2, None, "'All right, I want to go to the bathroom.' 'Khochu' is 'I want', and the thing he wants follows it straight, 'to go'. 'Tualet' is the same as the English word, borrowed ages ago from French."),
-    (3, None, "'Wait, there is fire over there, friends!' 'Fire' is the flame kind. 'Friends' is an odd plural, because one friend is a different-looking word."),
-    (4, None, "'The neighboring restaurant is burning right now!' 'Neighbouring' is built from 'neighbour'. 'Burns' is a short action."),
-    (5, None, "'Are you sure that this is a real fire?' 'Uveren' is 'sure', with a man's bare ending. 'Pozhar' is a fire as a disaster, and 'ogon' is a flame, which is why Fedya asks if it's the serious kind."),
-    (6, None, "'Of course, look at this black smoke.' 'Look at' is built from an order plus the little word for 'at'. 'Black' goes in front of 'smoke', as in English."),
+    (0, None, "'This cigarette already tastes bitter.' 'Gorchit' is a verb, 'tastes bitter', made from 'gorkiy', bitter. 'Sigareta' is feminine, so 'this' is 'eta', and 'na vkus' is 'to the taste'."),
+    (1, None, "'Just throw it out quickly into the trash bin.' The 'it' is 'her', since cigarettes are feminine in Russian. 'V urnu' is 'into the bin': 'urna' ends in 'u' because the cigarette is going into it."),
+    (2, None, "'All right, I want to go to the bathroom.' 'Khochu' is 'I want', and the thing he wants follows it straight, 'to go'. 'V tualet' is 'to the toilet', and the word itself comes from the French 'toilette'."),
+    (3, None, "'Wait, there is fire over there, friends!' 'Ogon' is fire, the flames themselves. 'Druzya' is 'friends', an irregular plural of 'drug', a friend."),
+    (4, None, "'The neighboring restaurant is burning right now!' 'Sosedniy' is 'neighbouring', from 'sosed', neighbour. 'Gorit' is 'is burning', and Russian uses the plain present for something going on right now."),
+    (5, None, "'Are you sure that this is a real fire?' 'Uveren' is 'sure', with a man's bare ending. 'Pozhar' is a fire as a disaster, a building on fire, while 'ogon' is just flame. Fedya switches to 'pozhar' to ask if it's the serious kind."),
+    (6, None, "'Of course, look at this black smoke.' 'Posmotri na' is 'look at', with 'na' doing the job of 'at'. 'Chyornyy dym' is 'black smoke', and both are masculine."),
     (7, None, "'People are running out of the building onto the street.' 'Vybegayut' is 'they run out', from 'vy', 'out', and 'begat', 'run'. 'Na ulitsu' is 'onto the street', and the 'u' ending shows direction."),
-    (8, None, "'We urgently need to tell the boss about this.' Needing is expressed with 'to us', so the people who need go in the 'to' form. The boss gets a 'u' because he is the one told."),
-    (9, None, "'Yes, he must know about this fire.' 'About' here is a casual word. 'Must' is short, and 'know' follows in its basic form."),
+    (8, None, "'We urgently need to tell the boss about this.' 'Nam nado' is literally 'to us it's needed', so the people who need it are in the 'to' form, 'nam'. 'Shefu' is 'to the chef', with the same 'to' ending, 'u'."),
+    (9, None, "'Yes, he must know about this fire.' 'Pro' is a casual 'about', while Senya used the neutral 'ob' a line ago. 'Dolzhen' is 'must', and 'znat', to know, follows in its basic form."),
     (10, None, "'Drop the cigarette and let's go inside faster.' 'Poshli' looks like 'they went', but in speech it's an invitation, 'let's go'. Say it to friends. 'Brosay' is an order, and it can mean 'drop' or 'throw'."),
-    (11, None, "'I am running after you, open the door.' 'After you' is literally 'behind you', in the form with 'oy' on the end. The order 'open!' is a friend's order."),
+    (11, None, "'I am running after you, open the door.' 'After you' is literally 'behind you', in the form with 'oy' on the end. 'Otkryvay' is 'open!', the 'ty' form, said to one friend."),
 ]

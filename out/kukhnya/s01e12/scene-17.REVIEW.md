@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, please stop torturing me.' It's a joke, since 'muchit' is a heavy word for what Nastya is doing, 'to torment'. 'Perestan' is the order 'stop', and the next action follows in its basic form.
+- 'Nastya, please stop torturing me.' 'Muchit' is a strong word, 'to torment', for a girlfriend who isn't talking to him. 'Perestan' is the order 'stop', and the next action follows in its basic form.
 - 'And why are you angry with me?' 'Serdishsya' ends in 'sya', so it's something like 'you anger yourself'. 'Na menya' is 'at me', since Russians are angry 'at' people, not 'with' them.
 - 'You and I argued over a trifle.' 'My s toboy' is literally 'we with you', and it means 'you and I'. 'Posporili' is 'had an argument', and 'iz-za pustyaka' is 'over a trifle'.
 - 'For me this question was important.' Russian says 'was' out loud only in the past, and here it is. In the present the same sentence would drop it.
 - 'You yourself wanted to argue a bit yesterday.' 'Sama khotela' is 'you yourself wanted', with 'a' endings because Kostya is talking to a woman. 'Vchera' is 'yesterday'.
-- 'But I did not want such a foolish offense.' 'Obida' means 'hurt feelings' or 'a grievance', which Nastya is happy to feel. 'Ne khotela' is 'did not want', with the 'a' of a woman speaking.
+- 'But I did not want such a foolish offense.' 'Obida' means 'hurt feelings' or 'a grievance'. 'Takoy glupoy' is 'such a foolish', both with the 'oy' ending that matches 'obidy' after 'not want'. 'Ne khotela' is 'did not want', with the 'a' of a woman speaking.
 - 'Forgive me if I hurt you badly.' 'Izvini' is 'sorry' in the friendly form. 'Yesli' means 'if', and 'obidel' means 'hurt', as in 'hurt someone's feelings'.
-- 'Do you really regret your words?' 'Sozhaleesh' means 'you regret' and 'o svoikh slovakh' is 'about your own words'. 'Svoikh' is 'your own', another way to say 'yours' when the owner is the speaker.
+- 'Do you really regret your words?' 'Sozhaleesh' means 'you regret' and 'o svoikh slovakh' is 'about your own words'. 'Svoikh' is 'your own'. Russian uses 'svoy' when the owner is the subject of the sentence, here 'you', so it replaces 'tvoikh'.
 - 'I very sincerely ask your forgiveness.' 'Proshu proshcheniya' is the set phrase for 'I apologise', literally 'I ask forgiveness'. 'U tebya' is 'from you'. 'Iskrenne' means 'sincerely'.
 - 'It is also very hard for me to stay angry long.' 'Mne tyazhelo' is 'to me hard', with no 'is', as usual for feelings. 'Zlitsya' means 'to be angry' and 'dolgo' means 'for a long time'.
-- 'Let us forget this argument right now.' The usual 'give' does the work of 'let's'. 'Argument' shares a root with the word Kostya used a moment ago for arguing.
+- 'Let us forget this argument right now.' The usual 'give' does the work of 'let's'. 'Spor', argument, is the noun behind 'posporili', 'we argued', from earlier in the scene.
 - 'Good, I agree to make peace with you.' 'Soglasna' is 'agreeing', with an 'a' for a woman. 'Pomiritsya' is 'to make peace', built from 'mir', which means both 'peace' and 'world'.
-- 'You are the kindest and most beautiful girl.' 'The most' goes in front of the describing words, which makes it as easy as English 'most'.
+- 'You are the kindest and most beautiful girl.' 'Samaya dobraya' is 'the most kind', so 'the kindest'. 'Samaya' goes in front and ends in 'aya' to match 'devushka', just like the describing words after it.

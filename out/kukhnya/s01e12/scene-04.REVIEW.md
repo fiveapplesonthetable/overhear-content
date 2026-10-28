@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Sasha, hi! How are things?' 'Privet' is the casual hi, for friends only. 'Kak dela' is literally 'how deeds', and it's what Russians say instead of 'how are you'.
 - 'Hi, little cook! Everything is normal.' Sasha's nickname is the word for 'cook' plus an ending that means 'young one'. Baby animals get the same ending, like 'volchonok', a wolf cub.
-- 'Oh, ow! How painful!' 'Oy' really is the Russian 'ouch', so that one's easy. 'How painful' has no 'is' in it, as you'd expect by now.
+- 'Oh, ow! How painful!' 'Ay' is the Russian 'ow', while 'oy' is closer to 'oh'. 'Kak bolno', 'how painful', has no 'is' in it, as you'd expect by now.
 - 'What happened to you?' 'Happened' ends in 'los' because 'what' counts as neuter in Russian. 'S toboy' is 'with you', and 'chto s toboy' is the standard way to ask what's wrong.
-- 'I have a sharp pain in my side.' Russian says 'at me strongly stabs in the side'. 'U menya', literally 'at me', is how you say 'I have', and 'side' takes an odd 'u' ending after 'in'.
+- 'I have a sharp pain in my side.' Russian says 'at me strongly stabs in the side'. 'U menya', literally 'at me', is how you say 'I have'. 'In the side' is v boku: bok takes an unusual stressed 'u' after v.
 - 'On which side exactly?' The first part is literally 'from what side'. 'Imenno' means 'exactly' and it's a useful word for asking someone to be specific.
-- 'Right here, on the right side.' 'Vot' points, so 'vot zdes' is almost the spoken version of jabbing a finger. The word for 'right' is the one that means the side, as well as 'correct'.
+- 'Right here, on the right side.' 'Vot' points, so 'vot zdes' is almost the spoken version of jabbing a finger. 'S pravoy storony' is the same 'from the right side' Vika used.
 - 'On the right? That could be appendicitis!' 'Mozhet byt' means 'can be', and it's also how Russians say 'maybe'. The word for appendicitis is nearly the English one, wearing a Russian ending.
 - 'Shall I urgently call an ambulance?' The word for ambulance is really 'quick', short for 'quick help'. It's feminine, so it ends in 'uyu' when it is the thing being called.
-- 'No, no need for any ambulance!' 'No' plus 'not' appear together again, 'nikakoy' and 'ne'. 'Ne nado' is 'not necessary', the everyday way to say 'no need'.
-- 'Look, I have two tickets!' It's 'u menya' again, but now it means 'I have'. 'Smotri' is the order 'look', which you'd say to a friend.
-- 'What? You are just a jerk, Max!' 'Prosto' means 'simply', and it makes the insult sound friendly, not furious. A friend can say 'you're just a jerk' and mean it fondly.
+- 'No, no need for any ambulance!' Two negatives sit together again: nikakoy, 'no kind of', and ne. 'Ne nado' is 'not necessary', the everyday way to say 'no need'.
+- 'Look, I have two tickets!' 'U menya' again: this time he has tickets, not a pain. After dva, 'two', bilet takes an 'a': dva bileta.
+- 'What? You are just a jerk, Max!' 'Prosto' means 'simply' or 'just'. 'Pridurok' is the same everyday insult Vika used, roughly 'jerk'.
 - 'Will you go with me to the movies tonight?' The 'you' form of 'go' does the job of 'will you go', with no helper word. 'Vecherom' is 'in the evening', and the 'om' ending is what makes it 'in'.
 - 'All right, let's go! See you tonight, actor.' 'Do vechera' is 'until evening', the usual way to say 'see you later today'. The last word is 'actor', and Sasha is teasing him about the performance.

@@ -30,13 +30,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Max, what are you doing here?' 'Chto ty delaesh' is 'what you do', and it covers both 'what do you do' and 'what are you doing'. 'Zdes' is 'here'.
 - 'I brought fresh oranges to the bar.' 'Prinyos' is 'brought', ending in a bare consonant because Max is a man. 'K baru' is 'to the bar', where 'k' means 'towards' and the bar gets a 'u'.
 - 'Then attend to your oranges in the kitchen!' 'Zanimaysya' ends in 'sya', so it's 'busy yourself', and it's followed by 'with your oranges'. 'Svoimi' means 'your own', with a plural 'with' ending.
-- 'All right, I am already leaving.' 'Ukhozhu' means 'I am going away'. 'Uzhe' is 'already' and 'obratno' is 'back', so he leaves 'already back'.
+- 'All right, I am already leaving.' 'Ukhozhu' is 'I'm leaving', a present tense for something already under way. 'Obratno' is 'back'.
 - 'So, have all the waitstaff gathered here?' 'Tak' is the 'so' or 'right' that people use before an announcement. 'Sobralis' ends like 'sya' words do, so it's literally 'gathered themselves'.
-- 'Yes, everyone is listening to you very attentively.' 'Slushayut' is 'they listen', with no 'they' written. 'Vnimatelno' means 'attentively', and Max says it a little too eagerly.
+- 'Yes, everyone is listening to you very attentively.' 'Slushayut' is 'they listen', with no 'they' written. 'Vnimatelno' means 'attentively', from vnimanie, 'attention'.
 - 'Starting today we have a strict ban.' 'S segodnyashnego dnya' is literally 'from today's day'. 'U nas' is 'at us', and Russians use it for 'we have'. 'Zapret' is 'ban'.
-- 'What sort of ban in our restaurant?' 'Kakoy eshchyo' is 'what, then', with the little 'eshchyo' making it a challenge. 'V nashem restorane' is 'in our restaurant'.
-- 'Any personal relationships at work are forbidden.' 'Zapreshchenny' is related to 'zapret', ban, as 'forbidden' is to 'ban'. 'Lyubye' means 'any' and 'otnosheniya' is 'relationships', always in the plural.
-- 'But why do we need such a new rule?' 'Zachem nam' is 'what for to us'. 'Takoe' is 'such' and 'pravilo' is 'rule'.
+- 'What sort of ban in our restaurant?' 'Kakoy eshchyo' is literally 'what other', and it turns the question into a challenge: 'what ban now?'. 'V nashem restorane' is 'in our restaurant'.
+- 'Any personal relationships at work are forbidden.' 'Zapreshchenny' is related to 'zapret', ban, as 'forbidden' is to 'ban'. 'Lyubye' means 'any' and otnosheniya, 'relationships', is normally plural in this sense.
+- 'But why do we need such a new rule?' 'Zachem nam' is 'what for to us'. 'Pravilo', rule, is neuter, so both 'such' and 'new' end in 'oe': 'takoe novoe pravilo'.
 - 'Now the restaurant has very difficult times.' 'U restorana' is 'at the restaurant', so 'the restaurant has'. 'Slozhnoe vremya' is 'difficult time', and 'vremya' is neuter, so 'slozhnoe' ends in 'oe'.
 - 'You must think only about work!' Vika isn't speaking to Max alone but to the whole room, so it's the plural 'vy dolzhny'. 'About work' is 'o rabote', and 'work' picks up an 'e' on the end.
 - 'And what will happen for breaking the rule?' 'Chto budet' is 'what will be', which Russians use for 'what will happen'. 'Za narushenie' is literally 'for the breaking', the way you'd say 'as the price of'.

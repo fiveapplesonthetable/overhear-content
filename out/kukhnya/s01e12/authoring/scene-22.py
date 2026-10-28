@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'The fire next door is out, and Kostya has helped everyone get outside safely. Nastya is proud of him, and some hungry guests are looking for somewhere new to eat. The Russian first.'
 OPENER = 'Slowly, from the relief to the rush of customers.'
 TRANSITION = 'Here it is again, start to finish.'
-OUTRO = "The neighbours' bad luck turns into a full house for Claude Monet. Count how many guests walk through the door. Speak soon."
+OUTRO = "The neighbours' bad luck turns into a full house for Claude Monet. Next time you see a closed door in Russia, you'll know 'po tekhnicheskim prichinam'. Speak soon."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('kostya', 'Настя, не бойся, огонь уже потушили.', 'Nastya, do not be afraid, they already put out the fire.', [], ''),
@@ -22,8 +22,8 @@ STORY = [
     ('nastya', 'Ты у меня такой смелый парень!', 'You are such a brave guy to me!', [(282, 'Ты у меня такой смелый.')], ''),
     ('kostya', 'Я просто помог людям выйти на улицу.', 'I simply helped the people go outside.', [], ''),
     ('nastya', 'Ты настоящий герой нашего ресторана!', 'You are a real hero of our restaurant!', [], ''),
-    ('guest', 'Просим прощения за эти неудобства.', 'We ask for forgiveness for this inconvenience.', [(283, 'неудобства.')], ''),
-    ('guest', 'Соседнее кафе закрыто по техническим причинам.', 'The neighboring cafe is closed for technical reasons.', [(284, 'по техническим причинам.')], ''),
+    ('guest', 'Перед нами там извинились за неудобства.', 'They apologised to us there for the inconvenience.', [(283, 'неудобства.')], 'adapted: in the source staff next door make the apology; here a guest reports it'),
+    ('guest', 'Соседний ресторан закрыт по техническим причинам.', 'The restaurant next door is closed for technical reasons.', [(284, 'по техническим причинам.')], ''),
     ('guest', 'А где же нам теперь поужинать?', 'And where do we have dinner now?', [], ''),
     ('guest', 'Слушайте, пойдём лучше в тот ресторан!', "Hey, let's go to that other restaurant instead!", [(285, 'Слушайте, пойдем лучше в тот ресторан.')], ''),
     ('nastya', 'Все гости идут прямо к нам!', 'All the guests are coming straight to us!', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('nastya', 'Пойдём скорее на работу, любимый бармен!', "Let's go quickly to work, beloved bartender!", [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, do not be afraid, they already put out the fire.' 'Ne boysya' has the 'sya' in it, so fear is something you do to yourself. Nobody is named as putting the fire out, just 'they put out', and Russian happily does this."),
+    (0, None, "'Nastya, do not be afraid, they already put out the fire.' 'Ne boysya' is 'don't be afraid', from 'boyatsya', a verb that always carries 'sya'. 'Potushili' is 'they put out' with no 'they' at all: Russian often leaves out who did it."),
     (1, None, "'All the people here are safe now.' 'V bezopasnosti' is 'in safety'. 'Bezopasnost' is built from 'bez', 'without', and 'opasnost', 'danger'."),
     (2, None, "'Kostya, thank you so much for the help.' 'Ogromnoe' means 'huge', so 'huge thanks' is a warm 'thank you so much'. 'Za pomoshch' is 'for the help'."),
-    (3, None, "'You are such a brave guy to me!' The phrase 'you at me' means 'in my eyes you are'. 'Brave' ends in 'y', and the word for a guy can also mean boyfriend."),
+    (3, None, "'You are such a brave guy to me!' The phrase 'you at me' means 'in my eyes you are'. 'Smelyy paren' is 'brave guy', and 'paren' with 'moy', my, is how you say 'my boyfriend'."),
     (4, None, "'I simply helped the people go outside.' 'Pomog' is 'helped', and the people being helped take an ending: 'lyudi' becomes 'lyudyam'. 'Vyyti' is 'to go out'."),
-    (5, None, "'You are a real hero of our restaurant!' 'Real' means genuine. 'Of our restaurant' gives 'restaurant' an ending that says 'of'."),
-    (6, None, "'We ask for forgiveness for this inconvenience.' 'Inconvenience' is built from 'not' plus 'comfort'. A polite 'we ask forgiveness' opens it."),
-    (7, None, "'The neighboring cafe is closed for technical reasons.' 'Zakryto' is 'closed' with an 'o' because 'kafe' counts as neuter. 'Po tekhnicheskim prichinam' is the standard way to say 'for technical reasons'."),
+    (5, None, "'You are a real hero of our restaurant!' 'Nastoyashchiy geroy' is 'a real hero'. 'Nashego restorana' is 'of our restaurant', both words with the 'of' ending, 'ego' and 'a'."),
+    (6, None, "'They apologised to us there for the inconvenience.' Russian apologises 'pered', in front of, someone: 'pered nami', literally 'in front of us'. No 'they' is said. 'Neudobstva' is 'ne', not, plus 'udobstvo', convenience, here in the plural."),
+    (7, None, "'The restaurant next door is closed for technical reasons.' 'Zakryt' is 'closed', in the short form with no ending, to match masculine 'restoran'. 'Po tekhnicheskim prichinam' is the standard notice-on-the-door way to say 'for technical reasons'."),
     (8, None, "'And where do we have dinner now?' 'Pouzhinat' is 'to have supper', from 'uzhin', supper. 'Gde zhe' is 'where, then'. 'Nam' is 'for us'."),
     (9, None, "'Hey, let's go to that other restaurant instead!' 'Slushayte' is 'listen', in the plural form. 'Luchshe' means 'better', but here it means 'instead', and 'tot' means 'that one over there'."),
-    (10, None, "'All the guests are coming straight to us!' The little word for 'towards' sits in front of 'us', which turns into 'nam'. 'Straight' goes in front of it."),
+    (10, None, "'All the guests are coming straight to us!' 'K nam' is 'to us', literally 'towards us', with 'my' turning into 'nam'. 'Pryamo' is 'straight', and 'idut' is 'are coming', on foot."),
     (11, None, "'Today our dining room will be full of people.' The 'of' in 'full of people' is hidden in the ending: 'lyudi' turns into 'lyudey'. English needs a word there, but Russian just changes the last syllable."),
-    (12, None, "'Let's go quickly to work, beloved bartender!' 'Lyubimy' is 'beloved', from the action 'to love'. 'Skoree' is 'quickly'. 'Na rabotu' is 'to work', with 'u' for direction."),
+    (12, None, "'Let's go quickly to work, beloved bartender!' 'Lyubimyy' is 'beloved', from 'lyubit', to love, and it's a common way to say 'darling'. 'Skoree' is 'quicker'. 'Na rabotu' is 'to work', with 'u' for direction."),
 ]

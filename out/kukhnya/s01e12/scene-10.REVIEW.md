@@ -30,10 +30,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where did this strange hookah come from here?' 'Otkuda' means 'from where'. 'Vzyalsya' is a nice word: it's 'took itself', and it's what Russians say when something just appeared.
 - 'Hookah has long become part of French culture.' 'Davno' means 'long ago', and 'stal' is 'became'. 'Chastyu' is 'part' in the form it takes after 'became', and 'frantsuzskoy' means 'French'.
 - 'We are a French restaurant, not a noisy bar!' Again, no 'are': it's literally 'we French restaurant'. 'Shumny' is 'noisy', from 'shum', noise.
-- 'Vitya, do not shout, our restaurant is changing.' 'Vitya' is a short, friendly form of Viktor, which Vika uses to take the heat out. 'Menyaetsya' ends in 'sya', so the restaurant is literally 'changing itself'.
-- 'Why change what is already working excellently?' Word for word it runs 'that which already excellently works'. 'Works' is built from 'work', and Barinov puts 'excellently' in front to push his point.
-- 'Life requires moving forward and fresh ideas.' 'Trebuet' means 'demands', which is a big word for a plain claim. 'Vperyod' is 'forward', and 'svezhikh idey' is 'of fresh ideas'.
+- 'Vitya, do not shout, our restaurant is changing.' 'Ne krichi' is 'don't shout': ne in front of the ty order krichi. 'Menyaetsya' ends in 'sya', so the restaurant is literally 'changing itself'.
+- 'Why change what is already working excellently?' Word for word it runs 'that which already excellently works'. 'To, chto', 'that which', is how Russian says 'what' in the middle of a sentence.
+- 'Life requires moving forward and fresh ideas.' 'Trebuet' means 'demands', and what is demanded takes the 'of' endings: dvizheniya, 'of movement', and svezhikh idey, 'of fresh ideas'.
 - 'I will not allow ruining my dear kitchen!' 'Ne pozvolyu' is 'I won't allow'. 'Dorogoy' means 'dear' and 'expensive', and here Barinov means 'dear to me'.
-- 'You promised me complete freedom in the hall yourself.' 'Sam' means 'yourself' or 'personally', and it pins the blame on him. 'Obeshchal' is 'promised', and 'svobodu' is 'freedom' in the form it takes after a promise.
+- 'You promised me complete freedom in the hall yourself.' 'Sam' means 'yourself' or 'personally', and it pins the blame on him. 'Obeshchal' is 'promised', and svoboda, 'freedom', becomes svobodu as the thing promised.
 - 'That is it, I am calling Nagiyev right now!' 'Vsyo' on its own means 'that's it', like a door shutting. 'Zvonyu' is 'I call', and Nagiyev takes an 'u' ending because the call is to him.
 - 'Call, the owner will fully support this new plan.' 'Zvoni' is the order 'call!'. 'Polnostyu' means 'fully', and 'podderzhit' is 'will support'.

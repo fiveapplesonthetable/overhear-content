@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Виктор Петрович, зачем вы позвали меня сюда? | Viktor Petrovich, why did you call me here? | #184 00:11:57: Что такое? Зачем ты меня позвал? | verbatim |
+| 1 | Вика | Зачем ты позвал меня сюда? | Why did you call me here? | #184 00:11:57: Что такое? Зачем ты меня позвал? | verbatim |
 | 2 | Шеф | Доброе утро, Вика! У меня для тебя сюрприз. | Good morning, Vika! I have a surprise for you. | #185 00:12:01: Доброе утро<br>#186 00:12:03: У меня для тебя сюрприз | verbatim |
 | 3 | Шеф | Я наконец придумал абсолютно новое меню ресторана. | I finally came up with an absolutely new restaurant menu. | #187 00:12:06: Новое меню | verbatim |
 | 4 | Вика | Действительно новое? Покажи мне твои свежие идеи. | Really new? Show me your fresh ideas. | #188 00:12:12: Действительно новое | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, why did you call me here?' 'Vy' and 'pozvali' are both in the polite form, so Vika is using the formal 'you'. 'Syuda' is 'to here', as in coming over, while 'zdes' would be 'at here'.
+- 'Why did you call me here?' Vika says 'ty' to the chef, so the verb is 'pozval', the plain past of 'pozvat', to call someone over. 'Syuda' is 'here' with motion, 'over here'; for just being somewhere, Russian uses 'zdes'.
 - 'Good morning, Vika! I have a surprise for you.' 'Morning' is a neuter word, so 'good' ends in 'oe' and not 'y'. The 'I have' part is the Russian 'at me', followed by the surprise.
-- 'I finally came up with an absolutely new restaurant menu.' 'Nakonets' is 'finally', 'pridumal' is 'thought up', and 'absolyutno' is 'absolutely'. 'Menyu' is neuter and never changes, so 'new' is 'novoe'.
+- 'I finally came up with an absolutely new restaurant menu.' 'Pridumal' is 'thought up', from 'dumat', to think, with 'pri-' added for coming up with something. 'Menyu' is a borrowed word that never changes its ending, and it's neuter, so 'new' is 'novoe'. 'Restorana' after it means 'of the restaurant'.
 - 'Really new? Show me your fresh ideas.' 'Deystvitelno' means 'really' and is a good one for expressing doubt. 'Pokazhi' is 'show!', in the friendly form.
-- 'Taste this soup, it is a real culinary masterpiece!' 'Poprobuy' means both 'try' and 'taste', in the friendly form. 'Shedevr' is the French 'chef-d'oeuvre' reworked, and 'kulinarny' is the same word as 'culinary'.
+- 'Taste this soup, it is a real culinary masterpiece!' 'Poprobuy' means both 'try' and 'taste', in the friendly form. 'Shedevr' is the French 'chef-d'oeuvre' spelled the Russian way. 'Nastoyashchiy' means 'real' in the sense of 'genuine'.
 - 'Wait, this is your usual old soup after all.' 'Podozhdi' is 'wait a moment'. 'Obychny' means 'usual' and 'stary' means 'old', and the little 'zhe' says 'it's the same one'.
-- 'But I added very tasty spices here!' Barinov stresses 'here', 'syuda', which actually means 'to here', as if he were pouring them in. The tasty bit is 'vkusny', and it's what you'd say about food you like.
+- 'But I added very tasty spices here!' 'Syuda' again, the 'here' with motion, because the spices went into the soup. 'Vkusnye' is 'tasty', the everyday word for food you like. 'Dobavil' is 'added'.
 - 'And is this your usual fish from the past menu?' 'Ryba' is fish, and 'iz proshlogo menyu' is 'from the past menu'. 'Proshly' means 'past' or 'last', as in 'last year'.
 - 'No, this is a special French dish from the chef!' The describing words for 'special' and 'French' match the neuter word for 'dish', so both end in 'oe'. 'From the chef' puts an 'a' on the end of 'chef'.
-- 'You simply changed old names to new ones!' 'Nazvaniya' are names of things, not people, and that is the word to use for dish names. Russian leaves out the word 'ones', so it's just 'into new'.
+- 'You simply changed old names to new ones!' 'Nazvaniya' are names of things, not people, and that is the word to use for dish names. The end is just 'na novye', 'onto new', with no word for 'ones'.
 - 'Does that not sound magnificent for the guests?' 'Razve' starts a question where the speaker expects a 'yes'. 'Zvuchit' is 'sounds', and 'velikolepno' means 'magnificent'.
-- 'You will not be able to stop these important changes.' 'Ne smozhesh' is 'you won't be able', so Vika is predicting the future. 'Peremeny' is 'changes' and it's always plural.
+- 'You will not be able to stop these important changes.' 'Ne smozhesh' is 'you won't be able', so Vika is predicting the future. 'Peremeny' is 'changes', and like the English it's usually heard in the plural.

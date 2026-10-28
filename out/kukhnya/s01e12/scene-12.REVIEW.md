@@ -27,16 +27,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, this new ban is because of us!' There is a small phrase for blaming someone, and it is only used when the cause is bad. After it, 'we' turns into 'us'.
-- 'But what makes you think that?' 'S chego' is literally 'from what', which is how Russians ask 'what makes you say that?'. 'Vzyala' is 'took', and an 'a' tells you a woman is speaking.
-- 'Because only we have a secret relationship.' 'Potomu chto' means 'because'. 'U nas' is 'at us', or 'we have'. 'Tainye' is 'secret' and 'otnosheniya' is 'relationship', which in Russian is always plural.
-- 'Victoria simply cares about the dining room discipline.' 'Zabotitsya' is 'cares', with an ending that means 'looks after itself'. 'O discipline' is 'about discipline'. 'Prosto' means 'simply'.
-- 'She looked at us very suspiciously.' 'Posmotrela' is 'looked' with an 'a' for 'she', and the 'po' at the front means one glance. 'Podozritelno' is 'suspiciously'.
+- 'Kostya, this new ban is because of us!' 'Iz-za nas' is 'because of us': iz-za is the 'because of' for a bad cause, and my, 'we', becomes nas after it.
+- 'But what makes you think that?' 'S chego' is literally 'from what', which is how Russians ask 'what makes you say that?'. 'Vzyala' is 'took', and it ends in 'a' because the 'you' is Nastya.
+- 'Because only we have a secret relationship.' 'U nas' is 'at us', or 'we have'. In the sense of a romance, otnosheniya is plural, so 'secret' is plural too: taynye otnosheniya.
+- 'Victoria simply cares about the dining room discipline.' 'Zabotitsya o' is 'cares about'. This verb always carries its sya, and after o the noun ends in 'e': o distsipline.
+- 'She looked at us very suspiciously.' 'Posmotrela' is the completed form of smotret, 'to look': one look, done. The 'a' is for 'she'. 'Podozritelno' is 'suspiciously'.
 - 'You imagined it, she was looking at everyone.' 'Smotrela' is 'was looking', without the 'po', so it means she kept looking. Compare it with Nastya's glance in the line before. 'Tebe pokazalos' is literally 'to you it seemed'.
-- 'I know that strict look very well!' 'Prekrasno' means 'beautifully', but here it means 'perfectly well'. 'Vzglyad' is a look. 'Strogiy' is 'strict'.
+- 'I know that strict look very well!' 'Prekrasno' means 'beautifully', but here it means 'perfectly well'. 'Etot strogiy vzglyad', 'that strict look': vzglyad is a masculine thing, so it keeps its plain shape as the object.
 - 'And what should we do now?' The line is 'what to us to do', which covers 'what should we do'. The little 'zhe' makes it urgent.
-- 'We need to quarrel in front of her right away.' 'Porugatsya' is 'to have a row', and the 'sya' makes it mutual, since a quarrel takes two. 'Pered ney' is 'in front of her'.
-- 'Why should we quarrel in the restaurant?' 'Rugatsya' is 'to quarrel', and the 'po' at the front of Nastya's version means 'to have a quarrel'. 'V restorane' is 'in the restaurant'.
+- 'We need to quarrel in front of her right away.' Without the sya, rugat means 'to scold' someone; with it, porugatsya is 'to have a row' with each other. 'Pered ney' is 'in front of her'.
+- 'Why should we quarrel in the restaurant?' 'Rugatsya' is 'to quarrel', and Nastya's porugatsya is its completed partner, one quarrel and done. 'V restorane' is 'in the restaurant'.
 - 'We will quarrel in pretend, only for show.' 'Ponaroshku' is the childish 'just pretend', the word kids use in games. 'Dlya vida' is literally 'for the look', so for appearance.
 - 'Are you sure that this is a good plan?' 'Uverena' ends in 'a' because Kostya is asking a woman. A man would be 'uveren'. 'Chto' means 'that' here, though it also means 'what'.
 - 'Vika must believe that we broke up.' 'Dolzhna' ends in 'a' for a woman. 'Poverit' is 'to believe', and 'rasstalis' is 'we parted', with the same 'ourselves' ending as before.
