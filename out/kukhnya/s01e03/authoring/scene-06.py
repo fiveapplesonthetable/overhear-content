@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.03'
 SOURCE_FILE = 'sources/kukhnya/s01/e03.ru.dual.srt'
 INTRO = "Max sprints to the bar and accuses bartender Kostya of betraying him to the prosecutor. To Max's immense relief, it turns out the scary customer was only asking for directions to the restroom. Listen to the conversation in Russian first, and then we will examine every line."
 OPENER = "Let's break down this hilarious misunderstanding line by line."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "In Kukhnya, high tension often turns into pure comedy in a matter of seconds. Next time you watch the episode, listen for the Russian expressions for 'water' and 'at all' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'До встречи!')
 STORY = [
@@ -32,19 +32,19 @@ STORY = [
     ('max', 'Неважно, налей мне скорее воды.', 'Never mind, pour me some water quickly.', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, why did you tell him?' Max puts the word for 'why' together with 'told' in a crisp, natural spoken turn of phrase."),
-    (1, None, "'I am completely finished now.' Convinced that Kostya leaked his secret to the prosecutor."),
-    (2, None, "'Who did I tell?' Kostya has no idea what Max is talking about."),
-    (3, None, "'That man in the suit.' Russian omits the present-tense verb 'to be' here, linking 'man' directly with 'suit', combining 'man' with 'suit'."),
-    (4, None, "'What was he asking you?' Max uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have' around the word meaning 'asked'."),
-    (5, None, "'Oh, calm down already.' The bartender tells him to stop overreacting."),
-    (6, None, "'He was simply asking about the restroom.' The phrasing opens with 'simply' before bringing in 'asked' and 'restroom' to make the point clear."),
-    (7, 'Серьёзно?', "'Seriously?' Max cannot believe his sudden change of fortune."),
-    (7, 'Только про туалет?', "'Only about the restroom?' Double checking that no names were mentioned."),
-    (8, None, "'Yes, he was looking for the restroom.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'And he didn't ask about me?' Max turns a statement into a question purely through rising intonation on the word meaning 'did ask' to make the point directly in conversation."),
-    (10, None, "'Who needs you anyway?' Russian omits the present-tense verb 'to be' here, linking 'at all' directly with 'needed', combining 'at all' with 'needed'."),
-    (11, None, "'Thank goodness, dodged a bullet.' Max puts the word for 'glory' together with 'to God' and 'trouble passed' in a crisp, natural spoken turn of phrase."),
-    (12, None, "'Why are you so nervous today?' Russian omits the present-tense verb 'to be' here, linking 'nervous' directly with 'today', combining 'nervous' with 'today'."),
-    (13, None, "'Never mind, pour me some water quickly.' Max leads with the direct command form meaning 'pour', pairing it with 'never mind' and 'quickly'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Kostya, why did you tell him?' Furious accusations of betrayal fly across the room."),
+    (1, None, "'I am completely finished now.' Max laments that his life is essentially over because of this leak."),
+    (2, None, "'Who did I tell?' Genuine confusion meets the wild claims of revealing sensitive secrets."),
+    (3, None, "'That man in the suit.' The sharply dressed interrogator is finally identified as the recipient of the information."),
+    (4, None, "'What was he asking you?' Demanding to know the exact contents of that conversation is the only next step."),
+    (5, None, "'Oh, calm down already.' Kostya tells his panicked friend to take a deep breath and relax."),
+    (6, None, "'He was simply asking about the restroom.' Revealing the incredibly mundane topic of their brief interaction defuses the tension."),
+    (7, None, "'Seriously?' Staring in disbelief, the terrified worker hopes this is not a cruel joke."),
+    (8, None, "'Only about the restroom?' Max asks for reassurance that the conversation went no further than plumbing."),
+    (9, None, "'Yes, he was looking for the restroom.' Kostya confirms the stranger only wanted directions to the facilities."),
+    (10, None, "'And he didn't ask about me?' Checking one last time ensures that no personal names were ever mentioned."),
+    (11, None, "'Who needs you anyway?' Kostya dismisses the concern and asks who would even care about him."),
+    (12, None, "'Thank goodness, dodged a bullet.' Max breathes a massive sigh of relief at narrowly avoiding disaster."),
+    (13, None, "'Why are you so nervous today?' Such incredibly jumpy behavior raises serious questions from the bartender."),
+    (14, None, "'Never mind, pour me some water quickly.' Brushing off the inquiry, the relieved man urgently requests a calming drink."),
 ]

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Chef!' Max greets Barinov nervously as he arrives late.
-- 'Runt, you are constantly late for work.' Here Chef Barinov anchors the line on the word meaning 'runt' and builds the thought around 'constantly' and 'are late'.
-- 'Chef, they did not issue my uniform on time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Enough excuses, quickly go to work!' Chef Barinov leads with the direct command form meaning 'go', combining 'enough' with 'excuses' and 'quickly'.
-- 'You joke as badly as you cook.' Fish chef Fedya throws a sharp culinary insult.
-- 'I didn' t understand your joke, Fedya.' Max uses the action verb meaning 'understood' to focus on the single completed result, pairing it with 'joke'.
+- 'Good morning, Chef!' Max greets the boss nervously as he arrives late.
+- 'Runt, you are constantly late for work.' Barinov loudly calls out the rookie for his poor punctuality.
+- 'Chef, they did not issue my uniform on time.' Max tries to blame the delay on a wardrobe issue.
+- 'Enough excuses, quickly go to work!' Barinov cuts off the excuses and orders him to his station.
+- 'You joke as badly as you cook.' Fedya throws a sharp insult at the new guy's abilities.
+- 'I didn't understand your joke, Fedya.' Max defensively pretends not to get the dig.
 - 'This is a normal state for your brain.' Fedya mocks his intelligence with another zinger.
-- 'Do you want to say that I cook badly?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, that is exactly what I say.' Fedya delivers a punchy one-word reaction built around the Russian word meaning 'am saying'.
-- 'And do you think you cook better than me?' Max questions the veteran's culinary superiority.
-- 'Certainly much better than you!' Russian omits the present-tense verb 'to be' here, linking 'definitely' directly with 'much', combining 'definitely' with 'much' and 'better'.
-- 'Then let's make a culinary bet!' Max leads with the direct command form meaning 'let's', pairing it with 'then' and 'arrange'.
-- 'Wanna bet, runt! I will easily beat you!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will see which of us is the best cook!' Max uses the action verb meaning 'we will see' to focus on the single completed result, pairing it with 'best' and 'cook'.
+- 'Do you want to say that I cook badly?' Max challenges the veteran's assessment of his skills.
+- 'Yes, that is exactly what I say.' Fedya bluntly confirms his low opinion.
+- 'And do you think you cook better than me?' Max questions whether the veteran is actually any better.
+- 'Certainly much better than you!' Fedya confidently asserts his culinary superiority.
+- 'Then let's make a culinary bet!' Max proposes a formal challenge to settle the matter.
+- 'Wanna bet, runt! I will easily beat you!' Fedya eagerly accepts the challenge, predicting an easy win.
+- 'We will see which of us is the best cook!' Max vows to prove his worth on the line.

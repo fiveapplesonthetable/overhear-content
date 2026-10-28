@@ -12,12 +12,12 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Focused on borders, Vika angrily breaks up with Max, while the narrator reflects on the walls people build between themselves. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around Borders line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Vika angrily breaks up with Max, while the narrator reflects on the walls people build between themselves. Next time you watch the episode, listen for the Russian expressions for 'matter' and 'today' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Вик, что с тобой?', 'Vik, what is wrong?', [(303, 'вик')], ''),
-    ('max', 'В чём дело, Макс?', 'What is the matter, Max?', [(305, 'чем')], ''),
+    ('vika', 'В чём дело, Макс?', 'What is the matter, Max?', [(305, 'чем')], ''),
     ('vika', 'В чем дело?', 'What is the matter?', [(305, 'чем')], ''),
     ('vika', 'Меня сегодня чуть не уволили с работы.', 'I almost got fired today.', [(309, 'меня')], ''),
     ('vika', 'И все благодаря тебе.', 'And it is all thanks to you.', [(304, 'все')], ''),
@@ -35,17 +35,17 @@ STORY = [
     ('max', 'чтобы с удовольствием их разрушить.', 'so we can enjoy tearing them down.', [(316, 'чтобы')], ''),
 ]
 WALK = [
-    (0, None, "'Vik, what is wrong?' Russian omits the present-tense verb 'to be' here, linking 'Vika' directly with 'what', combining 'Vika' with 'what' and 'with'."),
-    (1, None, "'What is the matter, Max?' Max turns a statement into a question purely through rising intonation on the word meaning 'matter' to make the point directly in conversation."),
-    (2, None, "'What is the matter?' Vika turns a statement into a question purely through rising intonation on the word meaning 'matter' to make the point directly in conversation."),
-    (3, None, "'I almost got fired today.' Vika expresses this naturally by combining the word for 'today' with 'nearly' and 'to fire'."),
-    (4, None, "'And it is all thanks to you.' Russian omits the present-tense verb 'to be' here, linking 'and' directly with 'all', pairing it with 'thanks to' and 'for you'."),
-    (5, None, "'Max, you are ruining my life.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'That is it.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'all'."),
-    (7, None, "'I do not want to see you.' Vika uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'want' and 'to see'."),
-    (8, None, "'Want me to tell you what is going on?' Vika turns a statement into a question purely through rising intonation on the word meaning 'do you want', pairing it with 'I'll tell' and 'matter'."),
-    (9, None, "'You make everything so complicated.' Here Vika anchors the line on the word meaning 'constantly' and builds the thought around 'to complicate'."),
-    (10, None, "'Then you blame everyone else.' The phrasing opens with 'guilty' before bringing in 'are you doing' and 'other' to make the point clear."),
-    (11, None, "'Maybe you should look at yourself for the reasons?' Vika turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'is parked' and 'to look for'."),
-    (12, None, "'I have always wondered...' Max puts the word for 'always' together with 'to surprise' in a crisp, natural spoken turn of phrase. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Vik, what is wrong?' Max is genuinely confused by her anger. He asks Vika what is troubling her."),
+    (1, None, "'What is the matter, Max?' He pushes for an explanation. Max wants to know what he did wrong."),
+    (2, None, "'What is the matter?' Vika repeats his question in disbelief. She is amazed he does not know."),
+    (3, None, "'I almost got fired today.' She reveals the severe consequence of his actions. Vika explains she nearly lost her job."),
+    (4, None, "'And it is all thanks to you.' She places the blame entirely on him. Vika says it is all his fault."),
+    (5, None, "'Max, you are ruining my life.' Vika expresses her deep frustration. She accuses him of destroying her peace."),
+    (6, None, "'That is it.' She reaches her breaking point. Vika declares they are finished."),
+    (7, None, "'I do not want to see you.' She sets a firm boundary. Vika tells him to stay out of her sight."),
+    (8, None, "'Want me to tell you what is going on?' Vika offers to spell it out for him. She asks if he really wants the harsh truth."),
+    (9, None, "'You make everything so complicated.' She criticizes his chaotic nature. Vika claims he makes everything harder than it needs to be."),
+    (10, None, "'Then you blame everyone else.' She points out his inability to take responsibility. Vika accuses him of shifting the blame."),
+    (11, None, "'Maybe you should look at yourself for the reasons?' She suggests some self-reflection. Vika tells him to look in the mirror for once."),
+    (12, None, "'I have always wondered...' Max begins to respond thoughtfully. He reflects on his own continuous surprise."),
 ]

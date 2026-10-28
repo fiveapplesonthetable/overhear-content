@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'What are you going to do?' Vika asks directly. Notice the word for 'to do' is at the end.
-- 'Are you talking about the restaurant?' Literally, 'You about restaurant?'. The verb 'are' is skipped in Russian.
-- 'Dima gave you two weeks.' The verb 'gave' is in the past tense matching, because Dima is a man. It is placed before the word for 'you'.
-- 'A week' s already gone by.' The verb 'passed' is matching here, because 'week' is a matching noun.
+- 'Are you talking about the restaurant?' Barinov asks if she is referring to the restaurant.
+- 'Dima gave you two weeks.' Vika reminds him that Dima only gave him two weeks.
+- 'A week's already gone by.' Vika points out that a whole week has already passed.
 - 'Don't worry, I have an idea.' Literally 'By me there is an idea'. We often use this structure in Russian for possession.
-- 'Let me guess. You'll get drunk?' Vika is skeptical. The second verb is in the future tense.
+- 'Let me guess. You'll get drunk?' Vika guesses that he will just get drunk to deal with it.
 - 'Naturally. Such an occasion.' The Chef is very proud. The word 'an' is not translated.
 - 'The birthday of the Claude Monet restaurant.' In Russian, we say 'Day of birth'. We do not use 'the'.
 - 'We'll throw a party for the whole world.' This is a popular Russian rhyming phrase: 'pir na ves mir'.
-- 'And how will the world hear about it?' Vika wonders how people will know. The verb is future tense.
-- 'I'll take care of that.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to take'.
+- 'And how will the world hear about it?' Vika questions how the world will find out about the party.
+- 'I'll take care of that.' Barinov confidently takes responsibility for spreading the word.
 - 'Got it. Good luck.' Vika isn't convinced. The second word is a wish for success.
-- 'Thanks.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'thank you'.
+- 'Thanks.' Barinov thanks her for the luck.

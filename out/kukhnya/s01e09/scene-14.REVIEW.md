@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alisa, what is that in your hands?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Papa, this is just sweet chocolate.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'My god, you cannot have chocolate!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I ate only a small piece.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Who gave the child this chocolate?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nobody gave it, I took it myself.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'You will have a strong allergy starting now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nothing hurts on me at all.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Mama will see and immediately kill me!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Papa, do not shout at the cooks, please.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Quickly put the chocolate on the table!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Alright, I will not eat anymore.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Urgently drink water and show your face.' Coordinated action verb imperatives governing partitive and matching form objects.
+- 'Alisa, what is that in your hands?' Pulling Alisa out from under the table, Barinov notices her hands and asks what she is holding.
+- 'Papa, this is just sweet chocolate.' Alisa innocently replies that it is just sweet chocolate.
+- 'My god, you cannot have chocolate!' Horrified, Viktor gasps that she is strictly forbidden from touching chocolate.
+- 'I ate only a small piece.' Alisa tries to minimize it, saying she only ate a tiny piece.
+- 'Who gave the child this chocolate?' Spinning around toward his cooks, Barinov demands to know who gave the child chocolate.
+- 'Nobody gave it, I took it myself.' Protecting her friend Max, Alisa claims nobody gave it to her and that she took it herself.
+- 'You will have a strong allergy starting now!' Viktor panics that a severe allergic reaction is about to start any second.
+- 'Nothing hurts on me at all.' Alisa insists she feels fine and nothing hurts at all.
+- 'Mama will see and immediately kill me!' Viktor groans that when her mother sees the rash, she will kill him on the spot.
+- 'Papa, do not shout at the cooks, please.' Seeing her dad lose his temper, Alisa asks him gently not to yell at the cooks.
+- 'Quickly put the chocolate on the table!' Barinov tells her to set the remaining chocolate down on the table immediately.
+- 'Alright, I will not eat anymore.' Alisa agrees and promises she will not eat any more of it.
+- 'Urgently drink water and show your face.' Viktor urgently tells her to drink some water and let him check her face for spots.

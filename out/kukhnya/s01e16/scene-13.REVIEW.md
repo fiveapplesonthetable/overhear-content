@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The inspector is here.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'inspector' straight to 'here'.
-- 'I know.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'know'.
-- 'He wants to check the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let him check.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'is testing'.
-- 'He is looking for illegals.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We do not have them.' To express possession, Russian uses the preposition 'by' plus the matching word ending word followed by 'no'. Then Chef Viktor responds.
-- 'Where is Fedya?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'where'.
-- 'He is in the fridge.' Senya delivers a punchy one-word reaction built around the Russian word meaning 'fridge'.
-- 'Excellent.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'perfect'.
-- 'Viktor Petrovich, would you be so kind.' the inspector leads with the direct command form meaning 'be', followed by 'kind'.
-- 'Open the fridge, please.' the inspector leads with the direct command form meaning 'open', followed by 'fridge'.
-- 'I am waiting.' the inspector delivers a punchy conversational reaction built around the Russian word meaning 'I'm waiting'.
+- 'The inspector is here.' Barinov urgently warns his colleague that the immigration officer has arrived on the premises.
+- 'I know.' Senya acknowledges the warning calmly, indicating he is already aware of the situation.
+- 'He wants to check the kitchen.' Explaining the immediate threat, the chef clarifies what the unexpected guest intends to do.
+- 'Let him check.' Displaying casual confidence, the cook dismisses the danger and welcomes the search.
+- 'He is looking for illegals.' The chef spells out the exact reason for the visit, highlighting the danger to their undocumented staff.
+- 'We do not have them.' Playing dumb, the kitchen worker insists that there is no one breaking the law in their restaurant.
+- 'Where is Fedya?' Barinov cuts to the chase, demanding the location of their specific vulnerable employee.
+- 'He is in the fridge.' Senya casually reveals the freezing hiding place chosen for their coworker.
+- 'Excellent.' The chef responds with sarcastic or genuine relief, depending on how safe he thinks that spot is.
+- 'Viktor Petrovich, would you be so kind.' Using a highly formal and polite phrase, the guest commands the head cook to assist him.
+- 'Open the fridge, please.' The officer politely but firmly demands access to the very place where the worker is hiding.
+- 'I am waiting.' Adding pressure, the official makes it clear that he will not leave until his request is fulfilled.

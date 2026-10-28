@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, dear guests of our restaurant!' A courteous welcome greeting from the head chef.
-- 'Good evening, head chef!' The guest replies politely using Barinov's professional title.
-- 'I brought you a special surprise.' The past verb indicates a delivered personal treat.
-- 'This is a compliment in honor of the birthday.' A formal culinary term for a gift on the house.
-- 'Thank you very much, everything looks very delicious!' The guest compliments the visual presentation.
-- 'I see that you are an excellent cook.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I can help you in the city.' A hint of political influence and useful administrative connections.
-- 'Call me tomorrow at any time.' , combining 'call' with 'tomorrow' and 'any'.
-- 'Thank you, this is a great honor for me!' An expression of deep professional gratitude.
-- 'Wait, I will taste the dish myself first.' Chef Barinov leads with the direct command form meaning 'wait', pairing it with 'first' and 'will taste'.
-- 'Oh, the cook put way too much pepper in the sauce!' The phrasing opens with 'oh' before bringing in 'cook' and 'too' to make the point clear.
-- 'And in my opinion, it turned out quite delicious.' The guest tries to be polite about the spicy food.
-- 'No, I will immediately redo everything!' A perfectionist refusal to serve subpar cooking.
-- 'I will personally bring you an ideal dish.' A solemn culinary promise delivered by the master. Alright, let's hear the whole thing once more.
+- 'Good evening, dear guests of our restaurant!' Barinov greets the guests of the restaurant in the evening.
+- 'Good evening, head chef!' Vadim returns the greeting to the head chef.
+- 'I brought you a special surprise.' He announces he has brought a special surprise.
+- 'This is a compliment in honor of the birthday.' Barinov explains this is a complimentary dish for the birthday celebration.
+- 'Thank you very much, everything looks very delicious!' Vadim expresses gratitude and says everything looks delicious.
+- 'I see that you are an excellent cook.' He compliments him as an excellent cook.
+- 'I can help you in the city.' Vadim offers his help in the city.
+- 'Call me tomorrow at any time.' He invites him to call tomorrow at any time.
+- 'Thank you, this is a great honor for me!' Barinov thanks him, calling it a great honor.
+- 'Wait, I will taste the dish myself first.' The chef asks them to wait while he tastes the dish first.
+- 'Oh, the cook put way too much pepper in the sauce!' Barinov complains that the cook added way too much pepper to the sauce.
+- 'And in my opinion, it turned out quite delicious.' Vadim thinks it actually turned out quite tasty.
+- 'No, I will immediately redo everything!' He refuses and insists on redoing everything immediately.
+- 'I will personally bring you an ideal dish.' Barinov promises to personally bring a perfect dish.

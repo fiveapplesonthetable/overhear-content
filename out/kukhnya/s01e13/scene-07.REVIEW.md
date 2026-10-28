@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, you have a broken mirror here.' Eleonora uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'here' with 'mirror' and 'broken'.
-- 'Well, would you look at that!' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'it is necessary'.
-- 'Didn't you notice?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'noticed' to make the point directly in conversation.
-- 'That yours is too?' Chef Barinov uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have' around the word meaning 'too'.
-- 'Mine? How? Where?' Eleonora uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'how' with 'where'.
-- 'Right there.' He points to the broken mirror he just smashed.
-- 'Now we're even.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'even', combining 'now' with 'even'.
-- 'Kostya, did you see?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'saw' to make the point directly in conversation.
-- 'He smashes the mirror on her car.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And she acts like she had nothing to do with it.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'affairs'.
-- 'I am sure.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'sure'.
-- 'This won't just blow over.' She knows the Chef's temper. Let's break down the language.
+- 'Viktor Petrovich, you have a broken mirror here.' Eleonora points out the damage. She uses the classic Russian way of saying 'you have' by literally saying 'at you'.
+- 'Well, would you look at that!' Chef Barinov feigns surprise. He acts like he had no idea it was broken.
+- 'Didn't you notice?' He turns the situation around on her. Barinov asks if she saw anything suspicious.
+- 'That yours is too?' Chef Barinov gestures to her car. He suggests her mirror might have met a similar fate.
+- 'Mine? How? Where?' Eleonora is totally confused. She has no idea what he is talking about.
+- 'Right there.' He points to the broken mirror he just smashed. Barinov proudly displays his revenge.
+- 'Now we're even.' Chef Barinov declares them equal. He feels justice has been served.
+- 'Kostya, did you see?' Nastya is shocked by what she just witnessed. She checks if Kostya saw it too.
+- 'He smashes the mirror on her car.' She describes the vandalism in plain terms. Nastya cannot believe the Chef actually did it.
+- 'And she acts like she had nothing to do with it.' Nastya notes Eleonora's confusion. The owner clearly has no clue why this is happening.
+- 'I am sure.' Nastya is absolutely certain about the consequences. She knows this will escalate.
+- 'This won't just blow over.' She knows the Chef's temper. Nastya predicts this feud is far from over.

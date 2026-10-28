@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In the dining room a guest found a knife in the fish!' The kitchen staff realizes an enormous disaster is unfolding.
-- 'Chef, we must urgently do something.' Max alerts the head chef to the catastrophic mistake.
-- 'I will go out to the dining room myself.' Barinov braces himself to confront the outraged guest.
-- 'Will you explain to me what this is?' The wealthy diner angrily demands an explanation for the blade.
-- 'Allow me to explain everything to the guest.' Max boldly steps forward to take command of the crisis.
-- 'Before you is a unique ancient recipe.' Max begins weaving an astonishing historical legend.
-- 'The Crusaders prepared fish right on their swords.' The young cook invents a glamorous medieval culinary technique.
-- 'Yes, this is indeed very delicious!' Russian omits the present-tense verb 'to be' here, linking 'really' directly with 'very', combining 'really' with 'very' and 'tasty'.
-- 'This is true poetry of haute cuisine.' The guest completely buys into the captivating story.
-- 'Bring me another fish just like this!' The guest enthusiastically orders a second portion.
-- 'We will prepare everything right away, bon appetit.' Barinov smoothly closes the sale with immense relief.
-- 'Max, let's head quickly to the kitchen.' The head chef hurries his clever rookie back to safety.
-- 'Chef, you called me by my name!' Max proudly notices that Barinov recognized his true identity.
-- 'Runt, do not come out to the dining room without permission!' Barinov reasserts authority while hiding his relief.
+- 'In the dining room a guest found a knife in the fish!' Barinov announces the catastrophic news that a diner has discovered the missing blade embedded in his meal.
+- 'Chef, we must urgently do something.' Max immediately recognizes the impending doom and urges the head chef to take swift, decisive action.
+- 'I will go out to the dining room myself.' Barinov bravely takes personal responsibility, deciding to face the furious patron head-on.
+- 'Will you explain to me what this is?' The outraged customer demands a rational explanation for the deadly weapon hiding inside his expensive entree.
+- 'Allow me to explain everything to the guest.' Max boldly interrupts, offering to handle the delicate situation with his own quick thinking.
+- 'Before you is a unique ancient recipe.' Max spins a wildly creative lie, framing the kitchen's massive blunder as a rare culinary masterpiece.
+- 'The Crusaders prepared fish right on their swords.' Max invents an elaborate historical myth about medieval warriors to justify the bizarre presentation.
+- 'Yes, this is indeed very delicious!' The wealthy diner completely falls for the tall tale, praising the incredible flavor of the dish.
+- 'This is true poetry of haute cuisine.' The gullible patron elevates the absurd mistake to the level of exquisite culinary art.
+- 'Bring me another fish just like this!' The satisfied customer enthusiastically demands a second serving of the supposedly historical delicacy.
+- 'We will prepare everything right away, bon appetit.' Barinov plays along smoothly, wishing the man a good meal while hiding his profound relief.
+- 'Max, let's head quickly to the kitchen.' Barinov aggressively ushers his quick-witted subordinate back behind closed doors before the illusion shatters.
+- 'Chef, you called me by my name!' Max beams with pride, thrilled that the formidable boss finally acknowledged him respectfully.
+- 'Runt, do not come out to the dining room without permission!' Barinov instantly reverts to his harsh persona, reminding the rookie of his lowly place in the hierarchy.

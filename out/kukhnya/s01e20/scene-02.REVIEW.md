@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, we are good together, right?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'good', followed by 'together'.
-- 'Well yes, of course it is good.' Russian omits the present-tense verb 'to be' here, linking 'of course' directly with 'good', combining 'of course' with 'good'.
-- 'It is as if we are walking on a staircase.' The phrasing opens with 'how' before bringing in 'are going' and 'stairs' to make the point clear.
-- 'We are walking up, straight to the sun.' Nastya chooses the action verb meaning 'are going' for the ongoing action, followed by 'up' and 'right'.
-- 'We are walking high, step by step.' Nastya chooses the action verb meaning 'are going' for the ongoing action, followed by 'highly' and 'step'.
-- 'We are not rushing to climb, right?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'are hurrying', followed by 'go up'.
-- 'Seems not, we are not rushing.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'are hurrying'.
-- 'If we stop, we might fall.' Notice the self-directed ending on the verb for 'to stop', which directs the action back onto the subject.
-- 'We might fall down and break.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Under no circumstances must we stop.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'us' straight to 'stop'.
-- 'We must always only walk forward.' The phrasing opens with 'always' before bringing in 'must' and 'to go' to make the point clear.
-- 'Yes, I agree with you.' Russian omits the present-tense verb 'to be', connecting 'yes' directly with 'you'.
+- 'Kostya, we are good together, right?' Nastya seeks validation about their relationship.
+- 'Well yes, of course it is good.' Kostya quickly agrees to reassure her.
+- 'It is as if we are walking on a staircase.' Nastya introduces a metaphor for their progress.
+- 'We are walking up, straight to the sun.' Nastya elaborates on her metaphor with positive imagery.
+- 'We are walking high, step by step.' Nastya continues to describe their steady climb.
+- 'We are not rushing to climb, right?' Kostya interprets her words cautiously.
+- 'Seems not, we are not rushing.' Nastya agrees they are taking their time.
+- 'If we stop, we might fall.' Nastya introduces a sense of danger to her metaphor.
+- 'We might fall down and break.' Nastya emphasizes the catastrophic consequences of pausing.
+- 'Under no circumstances must we stop.' Nastya firmly states her rule for their relationship.
+- 'We must always only walk forward.' Nastya insists on continuous forward momentum.
+- 'Yes, I agree with you.' Kostya passively agrees to avoid conflict.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will eat my chef's hat!' Barinov makes an outrageous bet on the phone.
-- 'None of my people will go to you!' Here Chef Barinov anchors the line on the word meaning 'people' and builds the thought around 'will go'.
-- 'Then bon appétit to you, Viktor!' Russian omits the present-tense verb 'to be' here, linking 'then' directly with 'pleasant', combining 'then' with 'pleasant' and 'appetite'.
-- 'Oh you, ungrateful people!' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'ungrateful', combining 'oh' with 'ungrateful' and 'people'.
-- 'Whose résumé is lying on the table?' Chef Barinov puts the word for 'résumé' together with 'is lying' and 'table' in a crisp, natural spoken turn of phrase.
-- 'Who went for an interview to the competitors?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, we know nothing about this.' Max tries to deflect the dangerous suspicion.
-- 'Why are you all silent?' Infuriated by the guilty silence of the cooks.
-- 'Do you think I won't find out anything?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'think', followed by 'will find out'.
-- 'We are loyal to our restaurant.' Russian omits the present-tense verb 'to be' here, linking 'loyal' directly with 'restaurant', combining 'loyal' with 'restaurant'.
-- 'Well then, I will find out everything myself!' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'will clarify'.
-- 'The traitor will be immediately fired!' Chef Barinov expresses this naturally by combining the word for 'traitor' with 'will be' and 'immediately'.
-- 'It seems the chef is in a real fury.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Must be very careful today.' Here Max anchors the line on the word meaning 'necessary' and builds the thought around 'to be' and 'very'.
+- 'I will eat my chef's hat!' Barinov promises to eat his own headwear if his prediction proves wrong.
+- 'None of my people will go to you!' He firmly tells Elena that his team members will not switch to her side.
+- 'Then bon appétit to you, Viktor!' Elena wishes him a good meal, mocking his promise about eating the hat.
+- 'Oh you, ungrateful people!' Turning to his kitchen staff, the boss calls them unappreciative.
+- 'Whose résumé is lying on the table?' Finding a job application on the counter, the chef demands to know its owner.
+- 'Who went for an interview to the competitors?' Barinov asks his team who secretly met with their rivals.
+- 'Chef, we know nothing about this.' Max tries to reassure the boss that the staff is unaware of the situation.
+- 'Why are you all silent?' Confronting the cooks, the boss questions their silence.
+- 'Do you think I won't find out anything?' He warns the team that he will uncover the truth eventually.
+- 'We are loyal to our restaurant.' The young cook insists that the kitchen crew remains dedicated to their workplace.
+- 'Well then, I will find out everything myself!' Deciding to investigate personally, the chef vows to find answers.
+- 'The traitor will be immediately fired!' Anyone caught betraying the restaurant will be dismissed right away.
+- 'It seems the chef is in a real fury.' Max notes the extreme anger radiating from his boss.
+- 'Must be very careful today.' Caution is necessary around the kitchen today.

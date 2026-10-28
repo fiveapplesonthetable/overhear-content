@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is not a shelter, but work!' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'shelter', combining 'here' with 'shelter' and 'work'.
-- 'Chef, you still won't let me cook.' Here Max anchors the line on the word meaning 'the same' and builds the thought around 'let' and 'to cook'.
-- 'I already peeled all labels from the bananas.' The phrasing opens with 'already' before bringing in 'peeled off' and 'labels' to make the point clear.
-- 'Fine, you want to cook — you will cook!' The chef unexpectedly takes him up on the challenge.
-- 'Attention, cooks of the restaurant!' Russian omits the present-tense verb 'to be' here, linking 'attention' directly with 'cooks', combining 'attention' with 'cooks' and 'of restaurant'.
-- 'Today our runt is cooking lunch for the staff.' Here Chef Barinov anchors the line on the word meaning 'today' and builds the thought around 'lunch' and 'staff'.
-- 'This is a very important assignment.' Russian omits the present-tense verb 'to be' here, linking 'very' directly with 'responsible', combining 'very' with 'responsible' and 'assignment'.
-- 'If they don' t like it, they will eat you.' Chef Barinov uses the action verb meaning 'they like' to focus on the single completed result, pairing it with 'will eat'.
-- 'Did you understand me?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'understood' to make the point directly in conversation.
-- 'Yes, Chef, I understood everything.' Max delivers a punchy one-word reaction built around the Russian word meaning 'understood'.
-- 'I dreamed so much of cooking in the kitchen.' The phrasing opens with 'so much' before bringing in 'dreamed' and 'to cook' to make the point clear.
-- 'Well, are you pleased?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'pleased'.
-- 'I am very glad, Chef, just let me drink coffee.' Max puts the word for 'very' together with 'glad' and 'will drink' in a crisp, natural spoken turn of phrase.
-- 'Quickly change clothes, let's get to work!' Chef Barinov leads with the direct command form meaning 'change clothes', pairing it with 'quickly' and 'let's work'.
+- 'This is not a shelter, but work!' Barinov declares this is a workplace, not a shelter.
+- 'Chef, you still won't let me cook.' Max complains to the chef that he still will not let him cook.
+- 'I already peeled all labels from the bananas.' He points out he already peeled all the labels from the bananas.
+- 'Fine, you want to cook — you will cook!' Barinov agrees to let him cook since he wants to so badly.
+- 'Attention, cooks of the restaurant!' He calls for the attention of the restaurant cooks.
+- 'Today our runt is cooking lunch for the staff.' Barinov announces their runt is cooking lunch for the staff today.
+- 'This is a very important assignment.' He calls this a very important assignment.
+- 'If they don't like it, they will eat you.' The chef warns that if they do not like it, they will eat him.
+- 'Did you understand me?' Barinov asks if he understood.
+- 'Yes, Chef, I understood everything.' Max confirms to the chef that he understood everything.
+- 'I dreamed so much of cooking in the kitchen.' He expresses how much he dreamed of cooking in the kitchen.
+- 'Well, are you pleased?' Barinov asks if he is pleased now.
+- 'I am very glad, Chef, just let me drink coffee.' Max tells the chef he is very glad, asking only to drink some coffee first.
+- 'Quickly change clothes, let's get to work!' He tells him to quickly change clothes and get to work.

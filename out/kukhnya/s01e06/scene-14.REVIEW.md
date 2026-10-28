@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, let' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Bargaining is completely inappropriate here, young man.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But this is a very expensive restaurant!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I know this fine restaurant perfectly well.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The administrator will throw you out into the street immediately.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'In a decent suit nobody will recognize me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what if you accidentally ruin someone else's clothes?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'accidentally', pairing it with 'ruin' and 'someone else's'.
-- 'I promise to behave extremely neatly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where exactly are our missing truffles hidden?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You will receive the truffles right after lunch.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The Chef will get very angry if he finds out the truth.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then wish me bon appétit, Konstantin.' Consequential adverb with polite command form governing matching form word, matching form formula of well-wishing, and personal matching form.
+- 'Wait, let' Making one last desperate attempt, Kostya tries to buy their way out of this trap.
+- 'Bargaining is completely inappropriate here, young man.' Waving off the cash, Rodion quotes a famous literary phrase to shut him down.
+- 'But this is a very expensive restaurant!' Kostya stresses that fine dining is way out of bounds for this situation.
+- 'I know this fine restaurant perfectly well.' Confidently asserting his taste, Rodion claims familiarity with high-end establishments.
+- 'The administrator will throw you out into the street immediately.' Kostya warns him that the hawkeyed manager will spot an imposter instantly.
+- 'In a decent suit nobody will recognize me.' Rodion assures them that clothes make the man in these environments.
+- 'And what if you accidentally ruin someone else's clothes?' He is fretting about liability, Kostya worries about lending out a customer's expensive jacket.
+- 'I promise to behave extremely neatly.' Giving his aristocratic word, Rodion promises not to stain the borrowed suit.
+- 'Where exactly are our missing truffles hidden?' Impatiently demanding answers, Kostya wants the location of their hostage ingredients.
+- 'You will receive the truffles right after lunch.' Slyly refusing to hand over his leverage, Rodion waits until he is fully fed.
+- 'The Chef will get very angry if he finds out the truth.' Trembling at the thought of Barinov, Kostya fears the discovery of their massive deception.
+- 'Then wish me bon appétit, Konstantin.' Cheerfully concluding the negotiation, Rodion savors his impending meal.

@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry, right now you will taste a masterpiece!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'This is a real culinary work of art!' The expressive noun phrase uses everyday and descriptive adjectives with a matching form noun complement.
-- 'I cannot wait to taste your sauce.' An impersonal construction with a self-directed form the matching word ending expresses keen anticipation.
-- 'First try the sauce with bread.' The chef gives guidance with an command form and matching form showing accompaniment. Now, let's listen to Chef Barinov presenting the sauce to Dmitry once more. Now let's listen to the whole conversation again from start to finish.
+- 'Dmitry, right now you will taste a masterpiece!' Barinov boasts confidently about his dish. He calls Dmitry by his first name, showing their close relationship.
+- 'This is a real culinary work of art!' He is incredibly proud of the sauce. The Russian phrase for "work of art" literally means a piece of production.
+- 'I cannot wait to taste your sauce.' Nagiyev is eager to try it. He says literally "to me it does not endure", which is a common way to say you cannot wait.
+- 'First try the sauce with bread.' Barinov tells him exactly how to eat it. The chef wants Dmitry to appreciate the pure flavor before anything else.

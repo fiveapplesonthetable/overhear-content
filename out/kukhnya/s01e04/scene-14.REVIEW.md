@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, look at me for one second.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What happened, Kostya?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You have a really cool hairstyle today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Really? Do you really like it?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, it is so unusual and beautiful.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'You have very sweet, soft curls.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thank you, I took a long time doing this styling.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They are curled like a little lamb' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What did you just say like that?' Nastya puts the word for 'now' together with 'such' and 'said' in a crisp, natural spoken turn of phrase.
-- 'I meant a fluffy little lamb.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are a foolish sheep yourself, got it?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Sorry, I just wanted to make a compliment!' Apologetic command form with restrictive word and past modal verb governing basic verb form.
+- 'Nastya, look at me for one second.' Kostya asks for the hostess's attention.
+- 'What happened, Kostya?' Asking what is wrong, the hostess turns to him.
+- 'You have a really cool hairstyle today.' Praising her new look, the bartender smiles.
+- 'Really? Do you really like it?' Eager to check if he is sincere, she responds.
+- 'Yes, it is so unusual and beautiful.' Admiration for the unique style is confirmed.
+- 'You have very sweet, soft curls.' The texture of her hair gets a compliment.
+- 'Thank you, I took a long time doing this styling.' Explaining the effort, she mentions it took a long time.
+- 'They are curled like a little lamb' A comparison to a farm animal is made.
+- 'What did you just say like that?' Reacting with sudden offense, she questions his words.
+- 'I meant a fluffy little lamb.' Trying to salvage the situation, he clarifies his meaning.
+- 'You are a foolish sheep yourself, got it?' Insulting him right back, she shows her anger.
+- 'Sorry, I just wanted to make a compliment!' Apologizing for his clumsy words, the bartender retreats.

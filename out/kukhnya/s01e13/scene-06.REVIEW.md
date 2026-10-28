@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Damn, damn, damn, damn.' Russian omits the present-tense verb 'to be' here, linking 'damn' directly with 'damn', combining 'damn' with 'damn'.
-- 'I dropped the box onto the floor.' He explains the sudden disaster in the stockroom.
-- 'They run very fast.' Max watches helplessly as the escaped animals scatter.
-- 'What did you do again, Max?' The Chef bursts into the room in extreme anger.
-- 'I just wanted to take the products.' Max claims he was only trying to do his assigned job.
-- 'Quickly get all the nets!' The Chef orders his team into immediate action.
-- 'Take the big and small ones.' He wants every single piece of equipment they own.
-- 'Take everything that we have.' The Chef prepares to catch whatever got loose.
-- 'We need to catch them all.' He refuses to let a single one escape the building.
-- 'One hid under the table.' Here Max anchors the line on the word meaning 'one' and builds the thought around 'hid' and 'the table'.
-- 'Do not just stand like that, search!' The Chef demands everyone participate in the hunt.
-- 'I will catch it now.' Max lunges forward to fix his foolish mistake.
+- 'Damn, damn, damn, damn.' Max panics as things go wrong. He repeats the Russian word for 'pancake', a common mild curse.
+- 'I dropped the box onto the floor.' He explains the sudden disaster in the stockroom. Max confesses to dropping the box.
+- 'They run very fast.' Max watches helplessly as the escaped animals scatter. He is amazed at their speed.
+- 'What did you do again, Max?' The Chef bursts into the room in extreme anger. He cannot believe Max has caused more trouble.
+- 'I just wanted to take the products.' Max claims he was only trying to do his assigned job. He insists it was an accident.
+- 'Quickly get all the nets!' The Chef orders his team into immediate action. He needs everyone to grab a net.
+- 'Take the big and small ones.' He wants every single piece of equipment they own. Size does not matter right now.
+- 'Take everything that we have.' The Chef prepares to catch whatever got loose. He demands they bring everything available.
+- 'We need to catch them all.' He refuses to let a single one escape the building. Barinov is determined to round them all up.
+- 'One hid under the table.' Max spots one of the escapees. He points out where it took cover.
+- 'Do not just stand like that, search!' The Chef demands everyone participate in the hunt. He yells at them to stop staring and start looking.
+- 'I will catch it now.' Max lunges forward to fix his foolish mistake. He confidently promises to grab it.

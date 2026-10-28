@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Chef, pour me some more wine.' The relaxed guest enjoys his lavish meal at the table."),
-    (1, None, "'What an incredibly delicious black caviar you have!' , combining 'incredibly' with 'tasty' and 'black'."),
-    (2, None, "'Of course, this is the best caviar straight from Astrakhan.' Russian omits the present-tense verb 'to be' here, linking 'of course' directly with 'best', combining 'of course' with 'best' and 'caviar'."),
+    (1, None, "'What an incredibly delicious black caviar you have!' To Viktor's relief, the VIP guest raves about how delicious the black caviar is."),
+    (2, None, "'Of course, this is the best caviar straight from Astrakhan.' Playing along smoothly, Barinov boasts that the caviar came straight from Astrakhan."),
     (3, None, "'We fly it here on special Boeings.' The chef adds ridiculous claims about luxury transport."),
     (4, None, "'Well, in taste everything is simply excellent!' The guest remains totally unaware of the deception."),
-    (5, None, "'In our restaurant it cannot be any other way.' Here Chef Barinov anchors the line on the word meaning 'restaurant' and builds the thought around 'otherwise' and 'to be'."),
-    (6, None, "'Waiter, what is the score in the match now?' Russian omits the present-tense verb 'to be' here, linking 'waiter' directly with 'now', combining 'waiter' with 'now' and 'account'."),
+    (5, None, "'In our restaurant it cannot be any other way.' When the guest praises the flavor, Viktor replies proudly that Claude Monet accepts nothing less."),
+    (6, None, "'Waiter, what is the score in the match now?' Turning anxiously to a passing waiter, Viktor whispers to ask the current score of the football match."),
     (7, None, "'The score there is three-three now, our guys tied it up!' the guest expresses this naturally by combining the word for 'there' with 'now' and 'account'."),
     (8, None, "'They had not tied it up like that for twenty years in a row.' the guest puts the word for 'twenty' together with 'year' and 'in a row' in a crisp, natural spoken turn of phrase."),
     (9, None, "'And today they suddenly scored three quick goals!' Here the guest anchors the line on the word meaning 'today' and builds the thought around 'suddenly' and 'to score'."),
-    (10, None, "'Did Spartak really let victory slip away in the end again?!' The phrasing opens with 'again' before bringing in 'to miss' and 'victory' to make the point clear."),
+    (10, None, "'Did Spartak really let victory slip away in the end again?!' Hearing that Spartak just scored three goals to tie the game at three-all — ruining his huge bet on CSKA — Viktor gasps in disbelief."),
     (11, None, "'Football today turned out very nervous and strange.' the guest expresses this naturally by combining the word for 'football' with 'today' and 'to turn out'."),
     (12, None, "'Indeed, they play like real slackers!' Barinov vents his deep sports frustration under his breath."),
 ]

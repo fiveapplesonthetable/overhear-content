@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'On the other hand she is calm and polite.' The coordinating conjunction contrasts an advantage against a previous mild criticism.
-- 'That is true, she never yells.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I returned to restore complete order!' The past tense action verb pairs with a purpose basic verb form to express forceful intent.
-- 'Stop chatting and take your knives!' Two command form verbs command immediate cessation of talking and return to culinary duties. Now, let's hear the cooks reacting to Chef Barinov's chaotic arrival once more. Now let's listen to the whole conversation again from start to finish.
+- 'On the other hand she is calm and polite.' Senya admits that working without constant screaming is a nice change of pace.
+- 'That is true, she never yells.' Fedya agrees, relaxing into the surprisingly peaceful kitchen atmosphere.
+- 'I returned to restore complete order!' The illusion of peace shatters as Chef Barinov bursts in, determined to reclaim his territory.
+- 'Stop chatting and take your knives!' He immediately barks direct orders to remind everyone who is really in charge.

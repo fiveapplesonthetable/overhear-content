@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, please forgive us.' Vika leads with the direct command form meaning 'sorry' to make the point directly in conversation.
-- 'We ruined a great holiday for you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am not angry at you.' Max delivers a punchy conversational reaction built around the Russian word meaning 'to be angry'.
-- 'Please forgive them from the heart.' Vika leads with the direct command form meaning 'sorry', followed by 'soul'.
-- 'Well and forgive me too.' Chef Barinov leads with the direct command form meaning 'sorry', followed by 'too'.
-- 'So, is that all? The conflict is over?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'conflict', followed by 'ended'.
-- 'Yes, chef, the conflict is over.' The phrasing opens with 'conflict' before bringing in 'ended' to make the point clear.
-- 'But only until someone makes a mistake again.' Chef Barinov expresses this naturally by combining the word for 'only' with 'bye' and 'again'.
-- 'We all want peace in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Peace in the kitchen is key.' Russian omits the present-tense verb 'to be' here, linking 'peace' directly with 'kitchen', followed by 'important'.
-- 'Thank you all for the kind words.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'good', followed by 'words'.
-- 'Now we can work calmly.' Vika expresses this naturally by combining the word for 'now' with 'can' and 'calmly'.
-- 'I am very glad that we reconciled.' Max puts the word for 'very much' together with 'glad' and 'reconciled' in a crisp, natural spoken turn of phrase.
+- 'Maxim, please forgive us.' Vika starts with a sincere plea for forgiveness.
+- 'We ruined a great holiday for you.' She admits fault, acknowledging the damage done to the occasion.
+- 'I am not angry at you.' Max responds generously, letting go of any resentment.
+- 'Please forgive them from the heart.' Vika urges him to extend that same grace to the others.
+- 'Well and forgive me too.' Barinov chimes in, casually asking to be included in the pardon.
+- 'So, is that all? The conflict is over?' He then asks for confirmation that the drama is officially resolved.
+- 'Yes, chef, the conflict is over.' Max agrees respectfully, putting the issue to rest.
+- 'But only until someone makes a mistake again.' Barinov adds a cynical caveat, warning that peace is fragile.
+- 'We all want peace in the kitchen.' Vika expresses a collective desire for a harmonious work environment.
+- 'Peace in the kitchen is key.' Barinov reinforces this, stating it as a fundamental requirement.
+- 'Thank you all for the kind words.' Max shows appreciation for their willingness to make amends.
+- 'Now we can work calmly.' Vika looks forward to resuming normal operations without the tension.
+- 'I am very glad that we reconciled.' Max concludes by sharing his genuine relief at the reconciliation.

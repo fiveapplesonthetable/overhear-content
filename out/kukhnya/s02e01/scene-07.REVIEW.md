@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, wait for me for one minute!' Max leads with the direct command form meaning 'wait', pairing it with 'one' and 'a minute'.
+- 'Vika, wait for me for one minute!' Max hurries after Vika and asks her to wait for just a minute.
 - 'We really need to talk seriously.' The impersonal construction with the matching word ending word expresses strong necessity.
 - 'I have a lot of work in the hall right now.' Victoria uses her duties as a reason not to speak with him.
 - 'And I have nothing to talk to you about.' Victoria makes it clear she does not want to hear his excuses.
-- 'Please listen to me at least once!' Max leads with the direct command form meaning 'hear out', followed by 'time'.
-- 'I already saw everything with my own eyes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Please listen to me at least once!' He begs her to let him explain himself at least once.
+- 'I already saw everything with my own eyes.' Vika retorts that she already saw everything with her own eyes.
 - 'It was a terrible and foolish mistake.' Max admits that what he did was completely wrong.
-- 'Leave me alone, Maxim.' Vika leads with the direct command form meaning 'keep', followed by 'peace'.
-- 'No, I will not leave so easily!' Max puts the word for 'just' together with 'will leave' in a crisp, natural spoken turn of phrase.
+- 'Leave me alone, Maxim.' She tells Maxim to leave her in peace.
+- 'No, I will not leave so easily!' Max refuses to give up and walk away so easily.
 - 'And I think we need to talk, Vika.' Max insists that their relationship is worth discussing.
-- 'What are you doing by the door?' Vika chooses the action verb meaning 'are you doing' for the ongoing action, followed by 'door'.
+- 'What are you doing by the door?' Vika notices him tampering with the door and demands to know what he is doing.
 - 'Now you will definitely listen to me calmly.' Max believes he can force her to hear him out.
-- 'Open this door right now!' Victoria angrily orders him to step aside.
+- 'Open this door right now!' Victoria angrily orders him to step aside. Now listen to the confrontation in the hall again.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, well where are you?' Vika delivers a punchy one-word reaction built around the Russian word meaning 'where'.
-- 'Are you coming soon?' Vika turns a statement into a question purely through rising intonation on the word meaning 'soon' to make the point directly in conversation.
-- 'I am already here.' Russian omits the present-tense verb 'to be' here, linking 'already' directly with 'here', combining 'already' with 'here'.
-- 'Why are you standing there?' Vika expresses this naturally by combining the word for 'why' with 'there' and 'stand'.
-- 'I am waiting for my friends.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What friends?' Russian omits the present-tense verb 'to be' here, linking 'what kind of' directly with 'friends', combining 'what kind of' with 'friends'.
-- 'Nastya and Kostya.' Russian omits the present-tense verb 'to be' here, linking 'Nastya' directly with 'and', combining 'Nastya' with 'and' and 'Kostya'.
-- 'Did you invite them here?' Vika turns a statement into a question purely through rising intonation on the word meaning 'invited', followed by 'here'.
-- 'Yes, it is a surprise.' Max delivers a punchy one-word reaction built around the Russian word meaning 'surprise'.
-- 'I am not ready for guests.' Russian omits the present-tense verb 'to be' here, linking 'ready' directly with 'guests', combining 'ready' with 'guests'.
-- 'Everything will be fine.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Come in faster.' Vika leads with the direct command form meaning 'come in', followed by 'faster'.
+- 'Max, well where are you?' Vika demands to know his location, sounding impatient.
+- 'Are you coming soon?' She presses him for an arrival time, clearly in a rush.
+- 'I am already here.' Max replies calmly, confirming his presence.
+- 'Why are you standing there?' Vika questions his lack of movement, annoyed by the delay.
+- 'I am waiting for my friends.' Max explains his reason for waiting, setting up the upcoming reveal.
+- 'What friends?' Vika asks for clarification, confused by his mention of companions.
+- 'Nastya and Kostya.' Max names the specific individuals, answering her question directly.
+- 'Did you invite them here?' Vika is taken aback and asks if he actually brought them along.
+- 'Yes, it is a surprise.' Max confirms enthusiastically, framing it as a fun twist.
+- 'I am not ready for guests.' Vika panics, bluntly stating her lack of preparation for company.
+- 'Everything will be fine.' Max tries to soothe her anxiety, promising a smooth outcome.
+- 'Come in faster.' Vika urges him to hurry up, still stressed by the situation.

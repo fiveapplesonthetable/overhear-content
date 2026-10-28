@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this?' Here 'what' sets up the idea, while 'on earth' comes at the end for emphasis.
-- 'What kind of restaurant is this?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'what' straight to 'restaurant'.
-- 'I' m sorry, I didn't mean to.' The '-a' on the end of the past-tense verb for 'wanted' tells you the subject is matching. Chef Viktor answers straight away.
-- 'Any plans for tonight?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'plans' straight to 'evening'.
-- 'I don't have any.' Notice the word order: 'me' comes first, and 'me' finishes the sentence.
-- 'Got something in mind?' Elena starts with 'what' and pairs it with 'there is' to make the point clear. Then Chef Viktor replies.
-- 'One thing.' Chef Viktor puts 'option' up front so the listener immediately catches the tone, followed by 'one'.
-- 'But it takes two.' You'll hear 'necessary' all the time in the show, here connected with 'the two of us together'.
-- 'What a subtle hint.' The question word for 'what a' comes right at the start, followed directly by 'hint'.
-- 'I wanted to go shopping.' The key word here means 'I', which Elena combines with 'wanted'.
-- 'But I like your idea.' The first content word means 'option', and 'is pleasing' rounds out the thought.
-- 'Excellent.' A compact expression built around 'perfect' and 'perfect'.
+- 'What is this?' When Elena accidentally bumps a diner, the guest exclaims in annoyance.
+- 'What kind of restaurant is this?' The upset customer complains about what kind of restaurant is being run here.
+- 'I'm sorry, I didn't mean to.' Elena quickly apologizes and explains it was an accident. Chef Viktor answers straight away.
+- 'Any plans for tonight?' Stepping in smoothly, Barinov changes the subject and asks Elena what her plans are for tonight.
+- 'I don't have any.' Still flustered, Elena admits she has no plans at all.
+- 'Got something in mind?' Catching his tone, she asks if he has a suggestion in mind. Then Chef Viktor replies.
+- 'One thing.' Viktor says he has one great option.
+- 'But it takes two.' He hints playfully that his plan requires the two of them together.
+- 'What a subtle hint.' Elena smiles and teases him for such a 'subtle' hint.
+- 'I wanted to go shopping.' She says she had been thinking of going shopping after work.
+- 'But I like your idea.' However, she admits she likes Viktor's idea much better.
+- 'Excellent.' Delighted that she said yes to a date, Viktor replies 'excellent'. Now let us listen to the conversation once again.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, can I help?' There is no question word here — in Russian, rising intonation on 'to help' is enough to make it a question. And Chef jumps in.
-- 'I don' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'He fined me.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to fine'.
-- 'You must be deported.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'deport'.
-- 'I'm thinking, what is this?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'I think'.
-- 'I don't think so.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'I think'.
-- 'Maybe with another...' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'can'.
-- 'We could negotiate.' Chef Barinov uses the action verb meaning 'to agree' to focus on the single completed result, pairing it with 'to succeed'.
-- 'There.' Ainura delivers a punchy one-word reaction built around the Russian word meaning 'there'.
-- 'Though...' Ainura delivers a punchy one-word reaction built around the Russian word meaning 'at least'.
-- 'If you save his life...' The phrasing opens with 'life' before bringing in 'to save' to make the point clear.
-- 'Maybe he will forgive us.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A chair, right?' Ainura turns a statement into a question purely through rising intonation on the word meaning 'little chair' to make the point directly in conversation.
+- 'Chef, can I help?' Ainura offers her assistance, turning a simple phrase into a question just by raising her pitch at the end.
+- 'I don' Feeling completely defeated, the head cook admits he has no idea what to do next.
+- 'He fined me.' Barinov gives a blunt update, stating that the restaurant has been hit with a financial penalty.
+- 'You must be deported.' The harsh reality comes out as he tells her she is going to be sent away.
+- 'I'm thinking, what is this?' Pausing to collect his thoughts, the boss tries to figure out their current predicament.
+- 'I don't think so.' Quickly dismissing an idea, he rejects the possibility out of hand.
+- 'Maybe with another...' A flicker of hope appears as he wonders if dealing with a different official might change things.
+- 'We could negotiate.' The possibility of reaching a mutual agreement or paying a bribe is briefly entertained.
+- 'There.' Handing something over, the cleaner uses a tiny word to focus attention on the object.
+- 'Though...' A sudden afterthought makes her pause, hinting that she has an alternative plan.
+- 'If you save his life...' Suggesting a wild hypothetical scenario, she brings up the idea of a dramatic rescue.
+- 'Maybe he will forgive us.' The optimistic conclusion is that such an extreme favor might cancel out their rule-breaking.
+- 'A chair, right?' Picking up a heavy object, she checks if this makeshift weapon is what he needs.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You cannot fry.' The key word here means 'you', which Senya combines with 'fry'.
-- 'The meat is tough as a shoe sole.' The first content word means 'meat', and 'shoe sole' rounds out the thought.
-- 'In the navy we ate boots.' You'll hear 'we' all the time in the show, here connected with 'were eating'.
-- 'And we ate belts too.' Notice the word order: 'belt' comes first, and 'were eating' finishes the sentence.
-- 'You are lying about the boots.' The key word here means 'you', which Senya combines with 'are lying'.
-- 'You don't believe me?' In Russian, 'do you believe' leads into 'to me' in a very natural everyday phrasing.
-- 'Let's bet five grand.' A compact expression built around 'let's' and 'pieces/grand'.
-- 'You'll eat my belt for five grand?' In Russian, 'eat' leads into 'pieces/grand' in a very natural everyday phrasing.
-- 'Well, I'll eat it.' Fedya starts with 'to eat up' and pairs it with 'to eat up' to make the point clear. Then Senya replies.
-- 'Louis, break it.' Senya puts 'Louis' up front so the listener immediately catches the tone, followed by 'to break'.
-- 'Okay.' The key word here means 'good', which Louis combines with 'good'.
-- 'Here is the belt.' Here 'here you go' sets up the idea, while 'belt' comes at the end for emphasis.
+- 'You cannot fry.' Tasting Fedya's pan-fried meat, Senya mocks him for not knowing how to fry properly.
+- 'The meat is tough as a shoe sole.' Senya complains that the cut came out as tough as the sole of a boot.
+- 'In the navy we ate boots.' Never one to back down, Fedya brags that when he served in the navy, they could cook and eat actual boots.
+- 'And we ate belts too.' Pushing the tall tale further, he claims they ate leather belts too.
+- 'You are lying about the boots.' Senya laughs in his face and says he is lying about eating boots.
+- 'You don't believe me?' Fedya challenges Senya for doubting his navy stories.
+- 'Let's bet five grand.' To settle it, Fedya offers to bet five thousand rubles right now.
+- 'You'll eat my belt for five grand?' Senya asks if Fedya will really eat Senya's own leather belt for five grand.
+- 'Well, I'll eat it.' Realizing what he just walked into, Fedya bluffs and says sure, he will eat it. Then Senya replies.
+- 'Louis, break it.' Calling the bet immediately, Senya asks Louis to break their handshake to seal the wager.
+- 'Okay.' Louis steps in and slices their hands apart to make the kitchen bet official.
+- 'Here is the belt.' Grinning, Senya unbuckles his leather belt and hands it straight to Fedya.

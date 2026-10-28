@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Tamara, hello, this is Vitya Barinov calling.' The chef opens the phone call using a polite greeting and a third person identifier.
-- 'Hi, Vitya, do you want to place a bet?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, put money on the Spartak match.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you betting on your native Spartak's victory?' The bookmaker assumes his traditional sports allegiance with an adjective.
+- 'Hi, Vitya, do you want to place a bet?' Tamara greets 'Vitya' at the betting office.
+- 'Yes, put money on the Spartak match.' Barinov wants to gamble on 'Spartak'.
+- 'Are you betting on your native Spartak's victory?' Tamara asks if he backs his favorite.
 - 'No, I am betting on a CSKA victory!' The chef drops a bombshell by wagering on his bitter rival team.
-- 'Are you not joking? They are your enemies!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I bet exactly one hundred thousand rubles!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you have that kind of money with you?' Tamara verifies payment ability with an existential construction.
-- 'Reserve the bet, I will bring cash soon.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'All right, your bet is accepted at the office.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thank you, money right now matters more than anything to me.' Barinov justifies his betrayal of loyalty using a comparative adjective.
+- 'Are you not joking? They are your enemies!' Tamara is shocked he bets against them.
+- 'I bet exactly one hundred thousand rubles!' Barinov confirms his massive wager.
+- 'Do you have that kind of money with you?' Tamara asks if he has cash ready.
+- 'Reserve the bet, I will bring cash soon.' Barinov promises to bring the cash soon.
+- 'All right, your bet is accepted at the office.' Tamara accepts the reservation for him.
+- 'Thank you, money right now matters more than anything to me.' Barinov admits cash is his priority now.
 - 'I hope you understand your huge risk.' The bookmaker concludes the conversation with a cautionary statement.

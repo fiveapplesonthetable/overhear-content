@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, do not panic, I am already carrying the hot dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you sure you are carrying it to the right guest?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am delivering this masterpiece to your chief critic.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Well done, only I am no longer sure about her.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What changed during these five short minutes?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It seems the real critic is sitting by the other window.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And that is already your personal problem!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wait a second, bring the expensive plate back.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The guest is already waiting and looking right here.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Tell her that this is a special gift from the Chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will smile and say the most polite words.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Go quickly, do not make an important person wait.' Motion command form with comparative adverb, negated causative command form, matching form noun phrase, and basic verb form.
+- 'Vika, do not panic, I am already carrying the hot dish.' Max tries to calm his manager down. He announces that he is already bringing the food.
+- 'Are you sure you are carrying it to the right guest?' Vika questions his direction. She wants to be absolutely sure he is going to the correct table.
+- 'I am delivering this masterpiece to your chief critic.' He replies with confidence. The waiter calls the dish a masterpiece and says it is for the main reviewer.
+- 'Well done, only I am no longer sure about her.' She praises him but adds a doubt. The manager admits she is no longer certain that the woman is the critic.
+- 'What changed during these five short minutes?' Max is confused by the sudden change. He asks what could have happened in such a short time.
+- 'It seems the real critic is sitting by the other window.' The manager shares her new theory. She believes the actual reviewer is the person near the other window.
+- 'And that is already your personal problem!' He refuses to take responsibility for this mess. He tells her that this mistake is on her.
+- 'Wait a second, bring the expensive plate back.' Vika stops him in his tracks. She demands that he return the fancy dish immediately.
+- 'The guest is already waiting and looking right here.' Max points out a big issue. The woman is already watching him and expecting her food.
+- 'Tell her that this is a special gift from the Chef.' She comes up with a quick lie. The manager tells him to pretend the dish is a complimentary gift.
+- 'I will smile and say the most polite words.' He agrees to the fake plan. The waiter promises to be charming and polite while delivering the excuse.
+- 'Go quickly, do not make an important person wait.' Vika rushes him along. She does not want to keep the potentially important customer waiting any longer.

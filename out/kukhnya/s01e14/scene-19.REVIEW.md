@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, we will figure this out.' the self-directed ending on the verb for 'will sort this out' turns the action back onto the subject.
-- 'Everything will be fine.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What should we do now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let's go.' Max replies with a single verb form meaning 'here we go' — in Russian, the verb ending alone carries the subject and tense.
-- 'Where are we going?' The question opens with the everyday word for 'where to' and builds toward 'are going'.
-- 'We are not going anywhere.' Here Max anchors the line on the word meaning 'nowhere' and builds the thought around 'are going'.
-- 'It means that we are starting.' The phrasing opens with 'then' before bringing in 'are starting' to make the point clear.
-- 'Now I understand everything.' Ilya expresses this naturally by combining the word for 'now' with 'understood?'.
-- 'Then let's work.' Sasha leads with the direct command form meaning 'let's', pairing it with 'back then' and 'to work'.
-- 'Yes, back to work.' Russian omits the present-tense verb 'to be', connecting 'yes' directly with 'job'.
-- 'We have little time.' Ilya uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'little' with 'time'.
-- 'We must be in time.' Sasha expresses this naturally by combining the word for 'must' with 'to make it'.
-- 'Of course we will be in time.' Max puts the word for 'of course' together with 'we'll make it' in a crisp, natural spoken turn of phrase.
-- 'Then we start right now.' Here Ilya anchors the line on the word meaning 'back then' and builds the thought around 'are starting' and 'right'.
+- 'Alright, we will figure this out.' Max tries to calm the situation. He promises they will figure this out together.
+- 'Everything will be fine.' He offers a general reassurance. Max insists that everything will be fine in the end.
+- 'What should we do now?' Ilya is confused about their next steps. He asks what they should do right now.
+- 'Let's go.' Max gives a simple command. He tells everyone it is time to go.
+- 'Where are we going?' Sasha is still confused by the instruction. She asks where exactly they are going.
+- 'We are not going anywhere.' Max clarifies his statement. He explains they are not literally going anywhere.
+- 'It means that we are starting.' He explains the metaphor. Max says it just means they are starting the work.
+- 'Now I understand everything.' Ilya finally grasps the concept. He announces that he understands everything now.
+- 'Then let's work.' Sasha is ready to begin. She suggests they start working immediately.
+- 'Yes, back to work.' Max agrees with her enthusiasm. He echoes her call to get back to work.
+- 'We have little time.' Ilya points out the urgency of their task. He reminds everyone they have very little time left.
+- 'We must be in time.' Sasha emphasizes the goal. She says they absolutely must be in time.
+- 'Of course we will be in time.' Max projects total confidence. He assures them that they will certainly make it.
+- 'Then we start right now.' Ilya calls for immediate action. He declares they are starting right this second.

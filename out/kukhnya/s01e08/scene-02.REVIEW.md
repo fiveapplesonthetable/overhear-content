@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I will prepare meat of a young lamb.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What an interesting and complex meat dish!' Elena politely observes the culinary demonstration with exclamatory adjectives.
-- 'Men prepare such a dish best of all.' Barinov injects a controversial gender generalization with a superlative adverb.
-- 'Why do you say such strange things?' Elena challenges Barinov's bizarre professional commentary.
-- 'Women often cut meat completely incorrectly.' Barinov criticizes female butchering techniques with a manner adverb.
-- 'You simply do not respect female talent.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A woman is not capable of becoming a great chef.' Barinov doubles down on his provocative claim using a short adjective.
-- 'I run the kitchen of the famous Arcobaleno restaurant!' Elena cites her successful leadership of a premier dining venue.
-- 'A real head chef requires strong willpower.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have experience and strong willpower.' Elena affirms her professional resilience with noun coordinates.
-- 'For you the kitchen remains an ordinary job.' Barinov questions her genuine culinary dedication.
-- 'The kitchen is my whole life, Viktor!' Elena passionately asserts her lifelong vocation.
-- 'We will soon check your bold words.' Barinov issues a quiet challenge with a future verb and matching form noun phrase.
+- 'Today I will prepare meat of a young lamb.' Barinov kicks off the television broadcast with a grand announcement of his culinary plans.
+- 'What an interesting and complex meat dish!' Elena jumps in with polite but slightly theatrical praise for his recipe choice.
+- 'Men prepare such a dish best of all.' Barinov smoothly pivots to a sexist remark, claiming this level of cooking is for men.
+- 'Why do you say such strange things?' Elena questions his sudden hostile turn in front of the live camera.
+- 'Women often cut meat completely incorrectly.' He doubles down on his prejudice, specifically attacking women's knife skills.
+- 'You simply do not respect female talent.' Elena calls out his blatant disrespect for female professionals.
+- 'A woman is not capable of becoming a great chef.' Barinov makes a sweeping statement that women cannot reach the top ranks of the kitchen.
+- 'I run the kitchen of the famous Arcobaleno restaurant!' Elena immediately fires back with her own prestigious head chef title as proof.
+- 'A real head chef requires strong willpower.' Barinov implies that she lacks the inner strength required to run a real kitchen.
+- 'I have experience and strong willpower.' Elena fiercely defends her competence and mental toughness.
+- 'For you the kitchen remains an ordinary job.' He dismissively suggests that for her, cooking is just a job, not a calling.
+- 'The kitchen is my whole life, Viktor!' Elena passionately corrects him, declaring that gastronomy is her entire existence.
+- 'We will soon check your bold words.' Barinov issues a quiet challenge, setting the stage for their upcoming kitchen battle.

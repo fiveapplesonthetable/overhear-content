@@ -28,7 +28,7 @@ STORY = [
     ('barinov', 'И только я имею право их ругать.', 'And only I have the right to scold them.', [(352, 'И только я имею право их так называть.')], ''),
     ('barinov', 'Работа шефа — сделать из них команду!', "The chef's job is to make a team out of them!", [(353, 'И разве не в этом состоит работа шефа?'), (354, 'высококлассную команду?')], ''),
     ('elena', 'Вы умеете красиво оправдать любой беспорядок.', 'You know how to beautifully justify any mess.', [], ''),
-    ('barinov', 'Шеф, вы мне должны отличный ужин!', 'Chef, you owe me a great dinner!', [(355, 'А? Шеф?'), (356, 'Вы мне ужин должны.')], ''),
+    ('elena', 'Шеф, вы мне должны отличный ужин!', 'Chef, you owe me a great dinner!', [(355, 'А? Шеф?'), (356, 'Вы мне ужин должны.')], ''),
 ]
 WALK = [
     (0, None, "'That proves my point, Elena Pavlovna!' Viktor Barinov gloats about his victory with undisguised pleasure."),
@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'And only I have the right to scold them.' The chef claims exclusive ownership of his kitchen family."),
     (10, None, "'The chef's job is to make a team out of them!' Barinov eloquently articulates the true essence of leadership."),
     (11, None, "'You know how to beautifully justify any disorder.' Elena shakes her head at Viktor's brazen charm."),
-    (12, None, "'Chef, you owe me a great dinner!' Barinov happily claims his wager prize with a triumphant grin."),
+    (12, None, "'Chef, you owe me a great dinner!' Elena happily claims his wager prize with a triumphant grin."),
 ]

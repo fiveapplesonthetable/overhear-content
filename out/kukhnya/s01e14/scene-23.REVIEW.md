@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim did great.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Maxim' straight to 'well done'.
-- 'He helped Vika.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'helped'.
-- 'He saved the evening.' Kostya uses the action verb meaning 'saved' to focus on the single completed result, pairing it with 'evening'.
-- 'Yeah, she said awful things.' The '-a' ending on the past-tense verb for 'said' shows that the subject is matching.
-- 'All sorts of awful things to him.' Russian omits the present-tense verb 'to be' here, linking 'any' directly with 'nasty things', combining 'any' with 'nasty things'.
-- 'And she feels terrible.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'shameful', combining 'very much' with 'shameful'.
-- 'So how's she going to make it right?' The phrasing opens with 'how' before bringing in 'to fix' to make the point clear.
-- 'What will she do?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Ah, vodka.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'vodka'.
-- 'She will pour him vodka.' Nastya uses the action verb meaning 'will pour' to focus on the single completed result, pairing it with 'vodka'.
-- 'That's a good plan.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'plan', combining 'good' with 'plan'.
-- 'She knows what to do.' The question word for 'what' comes right at the start, followed directly by 'do'.
+- 'Maxim did great.' Kostya praises Max's performance. He tells Nastya that Maxim did a great job.
+- 'He helped Vika.' He highlights Max's good deed. Kostya points out that Max helped Vika.
+- 'He saved the evening.' Kostya summarizes the impact of Max's actions. He says Max saved the entire evening.
+- 'Yeah, she said awful things.' Nastya recalls Vika's earlier behavior. She notes that Vika said some awful things.
+- 'All sorts of awful things to him.' She emphasizes how mean Vika was. Nastya mentions Vika said all sorts of nasty things to him.
+- 'And she feels terrible.' Nastya knows how Vika is feeling now. She says Vika feels terrible and ashamed.
+- 'So how's she going to make it right?' Kostya wonders about the next steps. He asks how Vika plans to fix the situation.
+- 'What will she do?' He is curious about Vika's strategy. Kostya asks what she is going to do.
+- 'Ah, vodka.' Nastya spots the solution immediately. She simply points out the vodka.
+- 'She will pour him vodka.' She explains Vika's apology method. Nastya predicts Vika will pour him a drink.
+- 'That's a good plan.' Kostya approves of the strategy. He agrees that it is a very good plan.
+- 'She knows what to do.' Nastya is confident in Vika's abilities. She notes that Vika always knows exactly what to do.

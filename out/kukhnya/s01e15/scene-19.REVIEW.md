@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Viktor.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'good' straight to 'Viktor'.
-- 'Good morning.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', combining 'good' with 'morning'.
-- 'Victor prepared such an omelet.' — Notice the proper name meaning 'Viktor' paired with the verb for 'cooked'.
-- 'Is this a kind of apology?' Lyova turns a statement into a question purely through rising intonation on the word meaning 'guy', followed by 'apologies'.
-- 'This is a kind of omelet.' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'omelette'.
-- 'Come on, eat.' Chef Barinov leads with the direct command form meaning 'eat', followed by 'let's'.
-- 'I will be late for work.' Chef Barinov uses the action verb meaning 'to be late' to focus on the single completed result, pairing it with 'job'.
-- 'Yes, eat faster.' the speaker leads with the direct command form meaning 'eat', followed by 'faster'.
-- 'Alright, I will eat this.' Lyova delivers a punchy one-word reaction built around the Russian word meaning 'to eat up'.
-- 'This is very delicious.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'it's tasty', combining 'very much' with 'it's tasty'.
-- 'It is time for us to go.' The phrasing opens with 'it's time' before bringing in 'to go' to make the point clear.
-- 'Thank you for the breakfast.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'thank you' straight to 'breakfast'.
+- 'Good morning, Viktor.' Barinov starts the day with a standard morning greeting directed at himself or another Viktor.
+- 'Good morning.' Mama returns the pleasantry simply and warmly.
+- 'Victor prepared such an omelet.' She praises his cooking, drawing attention to how special the dish turned out.
+- 'Is this a kind of apology?' Lyova questions the motive behind the meal, wondering if it serves as a peace offering.
+- 'This is a kind of omelet.' Barinov deflects the question with dry humor, pointing out the obvious nature of the food instead.
+- 'Come on, eat.' He issues a blunt instruction to dig in without further discussion.
+- 'I will be late for work.' The chef adds pressure by bringing up his tight morning schedule.
+- 'Yes, eat faster.' Mama echoes the urgency, encouraging everyone to speed up their meal.
+- 'Alright, I will eat this.' Lyova gives in to the pressure and agrees to try the dish.
+- 'This is very delicious.' Barinov boasts a little about the quality of his own cooking.
+- 'It is time for us to go.' She signals the end of breakfast, noting they need to leave.
+- 'Thank you for the breakfast.' Lyova wraps up the scene with a polite expression of gratitude.

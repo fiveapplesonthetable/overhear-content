@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, let' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This sauce is true high culinary art.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Oh, the fresh bread fell on the floor.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Right now we will quickly bring you new bread.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'No, I am in a big hurry for an important meeting.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But you must taste this rare masterpiece!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will return at exactly seven o' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will prepare the very best sauce for you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Agreed, Viktor, do not let me down tonight.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The Chef never deceives his favorite guests.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Until tonight then, I wish you great work.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We await you in the kitchen with great joy.' First-person everyday verb governing matching form word, everyday matching form, and matching form matching form.
+- 'Well, let' Nagiyev rubs his hands in anticipation. The little particle "nu-ka" is a friendly, informal way to encourage action.
+- 'This sauce is true high culinary art.' Barinov cannot stop praising his own creation. He truly believes it belongs in a museum.
+- 'Oh, the fresh bread fell on the floor.' Nagiyev drops the crucial piece of bread. He sounds a bit careless about it, ruining the chef's perfect presentation.
+- 'Right now we will quickly bring you new bread.' Barinov immediately scrambles to fix the situation. He wants the tasting to proceed exactly as planned.
+- 'No, I am in a big hurry for an important meeting.' Nagiyev brushes off the tasting. He always prioritizes his business deals over the food.
+- 'But you must taste this rare masterpiece!' Barinov is desperate for validation. He uses the word for "obligated" to stress how important this is to him.
+- 'I will return at exactly seven o' Nagiyev promises to come back later. He sets a precise time for his dinner.
+- 'We will prepare the very best sauce for you.' Barinov promises perfection. He wants to make sure the owner is blown away tonight.
+- 'Agreed, Viktor, do not let me down tonight.' Nagiyev warns the chef not to disappoint him. The phrase for "let down" literally means to lead someone under.
+- 'The Chef never deceives his favorite guests.' Barinov refers to himself in the third person to sound authoritative. He reassures Dmitry with a confident tone.
+- 'Until tonight then, I wish you great work.' Nagiyev says a polite goodbye. He leaves the kitchen bustling with energy.
+- 'We await you in the kitchen with great joy.' Barinov puts on a hospitable smile. He uses "we await" to speak for the entire kitchen staff.

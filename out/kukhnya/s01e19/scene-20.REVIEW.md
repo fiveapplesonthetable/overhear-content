@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'People often doubt.' the self-directed ending on the verb for 'to doubt' turns the action back onto the subject.
-- 'In what?' Vika asks this with a single word meaning 'than', using rising intonation to turn it into a quick question.
-- 'In what they have.' Max delivers a punchy one-word reaction built around the Russian word meaning 'to have'.
-- 'That is true.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'honestly'.
-- 'They do not know.' Max delivers a punchy one-word reaction built around the Russian word meaning 'know'.
-- 'What do they not know?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'know'.
-- 'How dear is what there is.' The phrasing opens with 'as far as' before bringing in 'expensive' and 'there is' to make the point clear.
-- 'We know.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'know'.
-- 'Yes, we know.' Max delivers a punchy one-word reaction built around the Russian word meaning 'know'.
-- 'This is good.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'good'.
-- 'Very good.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'good', combining 'very much' with 'good'.
-- 'I agree.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'I' straight to 'agree'.
+- 'People often doubt.' Max reflects on how people often doubt.
+- 'In what?' Vika asks what they usually doubt.
+- 'In what they have.' Max says they doubt what they already have.
+- 'That is true.' Vika completely agrees with his assessment.
+- 'They do not know.' Max adds that they simply do not know.
+- 'What do they not know?' Vika asks what they do not know.
+- 'How dear is what there is.' Max explains they do not know how dear their possessions are.
+- 'We know.' Vika points out that they themselves know.
+- 'Yes, we know.' Max agrees that they know better.
+- 'This is good.' Vika calls this a good thing.
+- 'Very good.' Max agrees it is a very good thing.
+- 'I agree.' Vika voices her total agreement.

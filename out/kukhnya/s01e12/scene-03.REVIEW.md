@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, listen, it was so good for us together.' Max leads with the direct command form meaning 'listen', pairing it with 'was' and 'so'.
-- 'Listen to me carefully, my dear friend.' Vika leads with the direct command form meaning 'listen', pairing it with 'carefully' and 'dear'.
-- 'What is with you? You are so angry today.' Russian omits the present-tense verb 'to be' here, linking 'angry' directly with 'today' to make the point directly in conversation.
-- 'Joke your stupid jokes in the kitchen!' Vika leads with the direct command form meaning 'joke', pairing it with 'foolish' and 'jokes'.
-- 'Why are you talking to me so rudely?' Max puts the word for 'why' together with 'so' and 'rudely' in a crisp, natural spoken turn of phrase.
-- 'There are many of the same idiots behind the door.' Russian omits the present-tense verb 'to be' here, linking 'there' directly with 'the door', pairing it with 'many' and 'idiots'.
-- 'But I brought us tickets to the cinema.' Max uses the action verb meaning 'brought' to focus on the single completed result, pairing it with 'tickets' and 'the cinema'.
-- 'I am not interested in your tickets to the cinema.' Russian omits the present-tense verb 'to be' here, linking 'interesting' directly with 'tickets', followed by 'the cinema'.
-- 'Why do you not want to go with me?' Max puts the word for 'why' together with 'want' and 'to go' in a crisp, natural spoken turn of phrase.
-- 'Because you are an empty place to me.' Russian omits the present-tense verb 'to be' here, linking 'because' directly with 'empty', followed by 'place'.
-- 'An empty place? You are a very kind girl.' Russian omits the present-tense verb 'to be' here, linking 'an empty' directly with 'place', pairing it with 'very' and 'kind'.
-- 'Have you understood everything? And now leave from here.' Vika leads with the direct command form meaning 'go away', pairing it with 'understood' and 'now'.
-- 'Alright, excuse me, I am leaving right now.' Max leads with the direct command form meaning 'excuse me', pairing it with 'alright' and 'am leaving'.
+- 'Vika, listen, it was so good for us together.' Max tries to remind Vika of the good times they had.
+- 'Listen to me carefully, my dear friend.' Vika tells him to pay close attention. Calling him her dear friend sounds very sarcastic here.
+- 'What is with you? You are so angry today.' Max wonders why she is acting so angry with him.
+- 'Joke your stupid jokes in the kitchen!' Vika tells him to take his silly jokes back to the kitchen.
+- 'Why are you talking to me so rudely?' Max asks why she is speaking to him so harshly.
+- 'There are many of the same idiots behind the door.' Vika points out that there are plenty of other idiots out there.
+- 'But I brought us tickets to the cinema.' Max mentions the movie tickets again to win her over.
+- 'I am not interested in your tickets to the cinema.' Vika clearly states she does not care about his tickets. Literally she says the tickets are not interesting to me.
+- 'Why do you not want to go with me?' Max asks why she refuses to go out with him.
+- 'Because you are an empty place to me.' Vika says he means absolutely nothing to her. She calls him an empty place.
+- 'An empty place? You are a very kind girl.' Max repeats her harsh words and sarcastically calls her a very kind girl.
+- 'Have you understood everything? And now leave from here.' Vika checks if he got the message and tells him to leave.
+- 'Alright, excuse me, I am leaving right now.' Max apologizes and says he is leaving immediately.

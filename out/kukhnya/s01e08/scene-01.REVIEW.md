@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, why did you call me here?' Barinov questions the restaurant owner's sudden summons.
-- 'You will perform on television, Viktor.' Nagiev announces the PR appearance using a future verb.
-- 'I am a head chef, not a famous actor!' Barinov protests his suitability for television.
-- 'You are the main face of our expensive restaurant.' Nagiev flatters the chef with a status metaphor.
-- 'My place is in the kitchen at the stove.' Barinov insists on his true culinary workstation.
-- 'The viewers want to see a real chef.' Nagiev explains the public demand for authenticity.
-- 'Let me go back to Claude Monet.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Stop arguing and go forward.' Nagiev cuts off debate and pushes him toward the studio stage.
-- 'Will that Sokolova perform there?' Barinov discovers his competitor's presence on the show.
-- 'Yes, Elena Sokolova from Arcobaleno restaurant.' Nagiev confirms the rival head chef's participation.
-- 'I will prove my high caliber to everyone.' Barinov's competitive pride is instantly triggered.
-- 'Now that is a great attitude, chef!' Russian omits the present-tense verb 'to be' here, linking 'great' directly with 'attitude', combining 'great' with 'attitude' and 'chef'.
-- 'Live broadcast begins right now.' Barinov prepares for airtime as cameras roll.
+- 'Dima, why did you call me here?' Barinov uses the owner's informal nickname. He is annoyed to be dragged out of his kitchen.
+- 'You will perform on television, Viktor.' Nagiyev drops the big news casually. He expects the chef to be thrilled about the exposure.
+- 'I am a head chef, not a famous actor!' Barinov immediately rejects the idea. He hates the thought of performing for a camera.
+- 'You are the main face of our expensive restaurant.' Nagiyev tries to flatter him into compliance. He reminds Viktor that he represents their luxury brand.
+- 'My place is in the kitchen at the stove.' Barinov stubbornly defends his professional territory. He believes a cook belongs behind the scenes.
+- 'The viewers want to see a real chef.' Nagiyev explains the marketing strategy. He needs Viktor's authentic grumpy persona for the show.
+- 'Let me go back to Claude Monet.' Barinov begs to be released from this PR stunt. He just wants to return to his comfortable domain.
+- 'Stop arguing and go forward.' Nagiyev physically pushes him toward the stage. He leaves the chef no room for debate.
+- 'Will that Sokolova perform there?' Barinov suddenly stops when he hears his rival's name. His competitive instincts flare up instantly.
+- 'Yes, Elena Sokolova from Arcobaleno restaurant.' Nagiyev confirms the presence of the other head chef. He knows this will motivate Viktor better than anything else.
+- 'I will prove my high caliber to everyone.' Barinov changes his tune completely. He is now determined to crush his competitor on live television.
+- 'Now that is a great attitude, chef!' Nagiyev celebrates his successful manipulation. He is pleased to see the chef finally fired up.
+- 'Live broadcast begins right now.' Barinov prepares himself for the cameras. He marches onto the stage ready for a fight.

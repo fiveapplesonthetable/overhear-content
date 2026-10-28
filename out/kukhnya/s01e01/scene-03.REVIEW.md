@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, are you almost falling asleep?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'No, I am simply admiring you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you really love cooking so much?' Vika asks about his passion with an basic verb form.
-- 'Food is true love and passion!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'You speak about food like a poet.' Vika smiles at his lyricism with a comparative preposition.
-- 'Good food gives people immense happiness.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'At which restaurant is your interview?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'In the very best French restaurant in Moscow.' Max names his dream venue with superlative adjectives.
-- 'Our city is full of surprising coincidences.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am glad that I met you today.' Max expresses gratitude for their meeting with a past action verb.
-- 'Go to sleep, you need to rest well.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Good night, beautiful Vika.' Max wishes her restful sleep with a standard Russian nighttime greeting.
-- 'Good night, my brave cook.' Vika returns the greeting affectionately with a matching form phrase.
+- 'Max, are you almost falling asleep?' Vika checks if he is still awake in the quiet darkness of the bedroom.
+- 'No, I am simply admiring you.' Max replies that his attention is entirely focused on her beauty rather than sleeping.
+- 'Do you really love cooking so much?' She questions the depth of his dedication to the culinary arts.
+- 'Food is true love and passion!' He emphatically confirms that the kitchen is his true calling in life.
+- 'You speak about food like a poet.' Vika remarks on his lyrical and romantic way of describing his profession.
+- 'Good food gives people immense happiness.' Max explains his philosophy that preparing great meals is about bringing joy to others.
+- 'At which restaurant is your interview?' She casually asks where he will be trying his luck the following morning.
+- 'In the very best French restaurant in Moscow.' He confidently names the top dining establishment in the city as his destination.
+- 'Our city is full of surprising coincidences.' Vika notes how small the world is, hinting at a connection she has yet to reveal.
+- 'I am glad that I met you today.' He reflects on his good fortune in crossing paths with her outside the club.
+- 'Go to sleep, you need to rest well.' She gently urges him to get some rest for his big day.
+- 'Good night, beautiful Vika.' Max wishes her a peaceful sleep, clearly smitten with his new companion.
+- 'Good night, my brave cook.' Vika returns the sentiment with a tender nickname for her protector.

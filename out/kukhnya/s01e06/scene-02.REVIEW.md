@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, look at this plate.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, is this dish already ready?' Max asks about the state of preparation with a short adjective.
-- 'The main thing remains: to garnish it with herbs.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Every detail has important meaning.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Food is obliged to look beautiful and appetizing.' Barinov insists on high culinary standards using adverbs of manner.
-- 'Shall we put fresh herbs here?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Carefully! Do not ruin the expensive presentation.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I do everything very carefully, chef.' Max reassures his superior using an adverb of manner.
-- 'Beautiful presentation is very important for guests.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'The waiters are already waiting in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Call the waiter, let them carry the order.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Sasha, take the ready hot dish!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Great, we continue working further.' Barinov moves on to the next task with an adverb of approval.
+- 'Oguzok, look at this plate.' Calling out across the pass, Barinov commands his trainee to closely inspect the dish.
+- 'Chef, is this dish already ready?' Max asks if the hot plate is fully finished and ready to serve.
+- 'The main thing remains: to garnish it with herbs.' Firmly, Barinov insists that the presentation is incomplete without the final green touch.
+- 'Every detail has important meaning.' Hoping to impress, Max tries to show he understands the high culinary standards.
+- 'Food is obliged to look beautiful and appetizing.' Barinov preaches about the absolute necessity of visual appeal in high-end dining.
+- 'Shall we put fresh herbs here?' Holding a sprig, Max tentatively asks for guidance on placing the garnish.
+- 'Carefully! Do not ruin the expensive presentation.' Loudly, Barinov barks a warning not to mess up the delicate arrangement.
+- 'I do everything very carefully, chef.' Max nervously defends his careful handling of the delicate ingredients.
+- 'Beautiful presentation is very important for guests.' He reiterates his philosophy, Barinov states that visual aesthetics make a huge difference.
+- 'The waiters are already waiting in the kitchen.' Glancing backward, Max points out that the service staff is hovering and ready to carry the food.
+- 'Call the waiter, let them carry the order.' Barinov gives the green light to dispatch the meal to the customer.
+- 'Sasha, take the ready hot dish!' Max calls out to the waitress to grab the plate while it is still steaming.
+- 'Great, we continue working further.' Immediately pivoting, Barinov focuses the kitchen on the next ticket.

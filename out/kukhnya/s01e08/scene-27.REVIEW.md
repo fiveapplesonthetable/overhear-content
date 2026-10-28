@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How did you find me, Ainura?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I have been working for you for a long time.' — using the present tense to express an action continuing from the past.
-- 'I know all your secret places.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Dear Chef, you need to return to the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You sound right now like my former mother-in-law.' — a witty comparison introduced by the comparative conjunction.
-- 'Seriously, it is very hard for the cooks without you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They are not coping at all with orders.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The new female chef will soon fall completely ill.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'When have I ever lied to you?' — rhetorical question emphasizing past honesty.
-- 'All right, let us drink to victory then.' Here Chef Barinov anchors the line on the word meaning 'all right' and builds the thought around 'then' and 'let us drink'.
-- 'Chef, I am at work after all!' — short emphatic phrase rejecting a drink during working hours. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'How did you find me, Ainura?' Barinov wonders how the cleaner managed to track him down.
+- 'I have been working for you for a long time.' Ainura reminds him she is a long-time employee.
+- 'I know all your secret places.' Ainura knows every single hiding spot in the restaurant.
+- 'Dear Chef, you need to return to the kitchen.' Ainura pleads with the boss to return to his station.
+- 'You sound right now like my former mother-in-law.' Barinov compares her nagging to a strict mother-in-law.
+- 'Seriously, it is very hard for the cooks without you.' Ainura stresses that the kitchen brigade is suffering without him.
+- 'They are not coping at all with orders.' Ainura reports that the staff is completely failing the service.
+- 'The new female chef will soon fall completely ill.' Ainura warns that the temporary boss is nearing a breakdown.
+- 'When have I ever lied to you?' Ainura asks him to trust her honest assessment of the chaos.
+- 'All right, let us drink to victory then.' Barinov finally agrees and proposes a toast to his return.
+- 'Chef, I am at work after all!' Ainura once again refuses alcohol during her working hours.

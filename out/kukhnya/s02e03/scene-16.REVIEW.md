@@ -27,8 +27,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, have you seen my salad?' The verb for 'saw' is in the matching past tense, marked by the '-l' ending.
-- 'It was my best salad.' The verb for 'was' is in the matching past tense, marked by the '-l' ending.
-- 'Make a new one, there is time.' Fedya leads with the direct command form meaning 'make', pairing it with 'new' and 'time'.
-- 'I will not have time to make a new one.' Senya uses the action verb meaning 'will manage' to focus on the single completed result, pairing it with 'to do' and 'new'.
-- 'Then think of something else.' Fedya leads with the direct command form meaning 'think up', pairing it with 'back then' and 'another'. Now let's listen to the whole conversation again from start to finish.
+- 'Hey, have you seen my salad?' Coming back to his station, Senya asks Louis if he has seen his special salad.
+- 'It was my best salad.' Not wanting to admit the leather belt was hidden in it, Senya claims it was his finest salad.
+- 'Make a new one, there is time.' Unaware of what was in the bowl, Fedya tells him to just toss a fresh one while there is time.
+- 'I will not have time to make a new one.' Senya panics because he knows the belt salad has already gone out to a guest.
+- 'Then think of something else.' Fedya shrugs and tells him to come up with something else then.

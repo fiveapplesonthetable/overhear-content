@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "Furious that someone took his prized Japanese chef's knife and served an unauthorized dish, Viktor Barinov storms back into the kitchen. Confronting cooks Senya and Fedya, Barinov maliciously lies that the rival chef found their fricassee utterly revolting, triggering a frantic blame game between the panicked staff. Let's listen in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Senya and Fedya scurry away as Barinov stands alone fuming in the kitchen. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('barinov', 'Убирайтесь с моей кухни прямо сейчас!', 'Get out of my kitchen right now!', [], ''),
 ]
 WALK = [
-    (2, None, "'And all of you get out of here quickly!' Chef Barinov bellows, clearing the line in fury."),
-    (3, None, "'Chef, we were only trying to help!' Here Senya anchors the line on the word meaning 'Chef' and builds the thought around 'wanted' and 'as'."),
-    (7, None, "'She said that it was disgusting!' Barinov lies gleefully to terrify his subordinate cooks."),
-    (8, None, "'Chef, I told them right away!' Senya exclaims, instantly throwing his fellow cooks under the bus. Now listen to the full kitchen confrontation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'And all of you get out of here quickly!' Chef Barinov bellows, clearing the line in fury."),
+    (1, None, "'Chef, we were only trying to help!' Senya tries to explain they were only trying to help."),
+    (2, None, "'She said that it was disgusting!' Barinov lies gleefully to terrify his subordinate cooks."),
+    (3, None, "'Chef, I told them right away!' Senya exclaims, instantly throwing his fellow cooks under the bus."),
 ]

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I heard everything.' Kostya delivers a punchy conversational reaction built around the Russian word meaning 'heard'.
-- 'What did she tell him, Kostya?' Max delivers a punchy one-word reaction built around the Russian word meaning 'told'.
-- 'She says thank you for the beautiful flowers.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Is that so, and what about him?' Max delivers a punchy conversational reaction built around the Russian word meaning 'how'.
-- 'He speaks about an important business meeting.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What meeting is he talking about?' Here Max anchors the line on the word meaning 'meeting' and builds the thought around 'talks'.
-- 'He said they need to leave soon.' Kostya uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'soon' and 'it is necessary'.
-- 'So she has a business meeting now.' Russian omits the present-tense verb 'to be' here, linking 'then' directly with 'now', pairing it with 'business-' and 'a meeting'.
-- 'Vika said that she is already free.' Kostya uses the action verb meaning 'told' to focus on the single completed result, pairing it with 'already' and 'free'.
-- 'Is she really going to go with him?' Max turns a statement into a question purely through rising intonation on the word meaning 'honestly', pairing it with 'plans' and 'to go'.
-- 'Yes, she is already ready to leave.' The phrasing opens with 'already' before bringing in 'ready' and 'to drive' to make the point clear.
-- 'I will not allow them to leave together.' Max uses the action verb meaning 'will allow' to focus on the single completed result, pairing it with 'to leave' and 'the two of us together'.
-- 'Max, do not do any foolish things today.' Kostya leads with the direct command form meaning 'do', pairing it with 'foolish things' and 'today'.
+- 'Max, I heard everything.' Kostya returns from his spying mission to report back with the details.
+- 'What did she tell him, Kostya?' Max anxiously presses for every detail of the exchange.
+- 'She says thank you for the beautiful flowers.' Kostya relays that she was simply expressing gratitude for the massive bouquet.
+- 'Is that so, and what about him?' Max is instantly suspicious of her polite response and demands to know the man's next move.
+- 'He speaks about an important business meeting.' Kostya explains that the stranger brought up professional matters.
+- 'What meeting is he talking about?' Max is immediately on edge, trying to figure out what business they could possibly share.
+- 'He said they need to leave soon.' Kostya drops the bomb that the two are preparing to depart together.
+- 'So she has a business meeting now.' Max nervously tries to rationalize the situation, clinging to the excuse she gave him earlier.
+- 'Vika said that she is already free.' Kostya reveals the painful truth that she told the stranger her schedule is clear.
+- 'Is she really going to go with him?' Max is devastated and struggling to process that she is actually leaving with another man.
+- 'Yes, she is already ready to leave.' Kostya confirms the worst, stating that they are wrapping up and heading out.
+- 'I will not allow them to leave together.' Max angrily decides to intervene, unwilling to let his love interest slip away.
+- 'Max, do not do any foolish things today.' Kostya tries to stop his impulsive friend from making a huge mistake in front of a VIP guest.

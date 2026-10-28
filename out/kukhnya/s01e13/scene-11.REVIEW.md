@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I handled one of your trash bins.' Chef Barinov puts the word for 'one' together with 'trash bin' and 'to manage' in a crisp, natural spoken turn of phrase.
-- 'Here is a document that proves it.' Here Elena anchors the line on the word meaning 'document' and builds the thought around 'to confirm'.
-- 'This is the plan from the district office.' Russian omits the present-tense verb 'to be' here, linking 'plan' directly with 'district office' to make the point directly in conversation.
-- 'The bins must stand exactly in this place.' Elena expresses this naturally by combining the word for 'tank' with 'must' and 'to stand'.
-- 'Are there any more questions for me?' Elena turns a statement into a question purely through rising intonation on the word meaning 'questions', pairing it with 'there is' and 'still'.
-- 'Timur? You decided to supply her with food?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'has decided', pairing it with 'to supply' and 'groceries'.
-- 'Viktor Petrovich, my respects.' Timur delivers a punchy conversational reaction built around the Russian word meaning 'respect'.
-- 'Keep in mind, I will not return the debt.' Chef Barinov leads with the direct command form meaning 'bear in mind', pairing it with 'debt' and 'I'll return'.
-- 'Excuse me, our cooperation has come to an end.' Timur leads with the direct command form meaning 'sorry', pairing it with 'cooperation' and 'to come up'.
-- 'I cannot contradict an older man.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Especially since you owe me fifteen thousand.' Russian omits the present-tense verb 'to be' here, linking 'more' directly with 'must', pairing it with 'fifteen' and 'thousand'.
-- 'Ten.' Chef Barinov delivers a punchy conversational reaction built around the Russian word meaning 'ten'.
+- 'I handled one of your trash bins.' Chef Barinov boasts about his victory. He claims he already took care of one obstacle.
+- 'Here is a document that proves it.' Elena pulls out some paperwork. She has official proof to back up her claim.
+- 'This is the plan from the district office.' She reveals the source of her authority. Elena shows him a map from the local government.
+- 'The bins must stand exactly in this place.' Elena points out the exact location required. She insists the containers must stay right there.
+- 'Are there any more questions for me?' She challenges him to argue further. Elena confidently asks if he has any other issues.
+- 'Timur? You decided to supply her with food?' Chef Barinov spots his supplier. He demands to know why Timur is working with the enemy.
+- 'Viktor Petrovich, my respects.' Timur greets him formally. He tries to remain polite despite the tension.
+- 'Keep in mind, I will not return the debt.' Chef Barinov issues a threat. He warns Timur that he will not pay back what he owes.
+- 'Excuse me, our cooperation has come to an end.' Timur breaks the bad news. He formally ends their business relationship.
+- 'I cannot contradict an older man.' He explains his reasoning. Timur claims he cannot go against someone with more authority.
+- 'Especially since you owe me fifteen thousand.' Timur brings up the outstanding balance. He reminds Barinov of the exact sum owed.
+- 'Ten.' Chef Barinov immediately disputes the amount. He tries to negotiate the debt down.

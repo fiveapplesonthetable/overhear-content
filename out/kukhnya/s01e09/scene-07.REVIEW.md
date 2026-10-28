@@ -27,11 +27,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Chef, I finally retrieved your favorite knife.' Max reports recovering the missing kitchen tool to his boss.
 - 'Where did you find it at all, Oguzok?' Barinov demands an explanation using his customary dismissive nickname for Max.
-- 'Your daughter was playing with it in the kitchen!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Your daughter was playing with it in the kitchen!' Max exclaims that he caught the chef's young daughter playing with the sharp knife in the kitchen.
 - 'Could she hurt herself or you?' The chef asks whether anyone suffered real harm during the encounter.
-- 'She almost injured me with this knife!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nothing terrible, you are still alive.' Barinov brushes off Max's panic with a common reassuring phrase.
-- 'Do I need to continue preparing dishes?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'She almost injured me with this knife!' He complains that the little girl nearly nicked him with the blade.
+- 'Nothing terrible, you are still alive.' Barinov shrugs off the close call, pointing out that Max is still in one piece.
+- 'Do I need to continue preparing dishes?' Seeing the chef is unbothered, Max asks if he should just go back to prepping dishes.
 - 'Stop chattering, go work immediately!' The chef barks a firm command to resume cooking without unnecessary delays.
 - 'And what will you do with your daughter?' Max wonders how the chef plans to handle the mischievous child.
 - 'Alice, what am I to do with you now?' Barinov addresses his daughter with an affectionate yet exasperated question.

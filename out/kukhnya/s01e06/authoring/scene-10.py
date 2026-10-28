@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = "Panic strikes Claude Monet as word spreads that a health inspector has just entered the restaurant. Chef Viktor Barinov and his faithful sous-chef Lyova scramble across the kitchen, shouting orders to hide violations before the doors open. Let's listen to their frantic exchange in Russian first."
 OPENER = "Let's examine how the kitchen staff organizes a rapid emergency cleanup."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how Russian restaurant staff urgently cleans up before a health check. Listen for these fast-paced commands next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'to throw' and 'fast' — you will catch every word right away. See you next time!"
 CLOSING = ('lyova', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('barinov', 'По местам, инспектор уже здесь!', 'To your stations, the inspector is already here!', [], ''),
 ]
 WALK = [
-    (0, None, "'Wake up, Lyova, we have an inspection!' The negative everyday verb literally means 'we are not sleeping', a common colloquial way to order people to hurry up."),
-    (2, None, "'Quickly clear everything extra off the tables.' The adverb leads the sentence, followed by an command form governing the matching word ending noun phrase."),
-    (6, None, "'Lyova, immediately throw them into the wash!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'Wipe the floor, it is too slippery!' a direct command commands immediate cleaning, followed by a word describing the dangerous condition. Okay, let's hear the whole kitchen rush once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Wake up, Lyova, we have an inspection!' Yelling at his sous-chef, Barinov jolts the kitchen into emergency mode."),
+    (1, None, "'Quickly clear everything extra off the tables.' Barinov commands the crew to hide any messy evidence from sight."),
+    (2, None, "'Lyova, immediately throw them into the wash!' Urgently, Barinov orders his deputy to ditch the dirty rags and aprons fast."),
+    (3, None, "'Wipe the floor, it is too slippery!' Barinov barks a warning about the hazardous wet tiles."),
 ]

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, the new order for the guests is ready.' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'order', pairing it with 'guests' and 'ready'.
-- 'Great, show me these beautiful plates.' Kostya leads with the direct command form meaning 'show', pairing it with 'perfect' and 'beautiful'.
-- 'Here is a delicious French steak and hot fish.' Russian omits the present-tense verb 'to be' here, linking 'delicious' directly with 'French', pairing it with 'steak' and 'hot'.
-- 'This dish looks very appetizing and expensive.' Kostya expresses this naturally by combining the word for 'dish' with 'looks' and 'very much'.
-- 'I cooked this rare recipe for a long time.' Max puts the word for 'for a long time' together with 'prepared' and 'rare' in a crisp, natural spoken turn of phrase.
-- 'Our guests in the hall are very hungry.' Russian omits the present-tense verb 'to be' here, linking 'visitors' directly with 'hall', pairing it with 'very much' and 'hungry'.
-- 'Then carry these plates right now.' Max leads with the direct command form meaning 'bring', pairing it with 'back then' and 'plate'.
-- 'I will quickly take the hot food to the guests.' Kostya expresses this naturally by combining the word for 'quickly' with 'to carry to' and 'hot'.
-- 'Be sure to wish them bon appétit.' Max puts the word for 'surely' together with 'wish' and 'pleasant' in a crisp, natural spoken turn of phrase.
-- 'Of course, I will do everything very politely.' Here Kostya anchors the line on the word meaning 'of course' and builds the thought around 'I'll do' and 'very much'.
-- 'Say that the chef cooked for them.' Max leads with the direct command form meaning 'say', followed by 'prepared'.
-- 'Good, I will pass on your warm words.' Kostya expresses this naturally by combining the word for 'good' with 'will pass on' and 'warm'.
-- 'Go quickly, the guests are already waiting for the order!' Max leads with the direct command form meaning 'go', pairing it with 'quickly' and 'visitors'.
+- 'Kostya, the new order for the guests is ready.' Max proudly announces the food is ready. He tells Kostya the VIP order is complete.
+- 'Great, show me these beautiful plates.' Kostya asks to see the masterpiece. He wants to look at the beautiful plates.
+- 'Here is a delicious French steak and hot fish.' Max presents his culinary creations. He points out the French steak and the hot fish.
+- 'This dish looks very appetizing and expensive.' Kostya is impressed by the presentation. He remarks that it looks very appetizing and expensive.
+- 'I cooked this rare recipe for a long time.' Max highlights the effort he put in. He mentions it took a long time to prepare this rare recipe.
+- 'Our guests in the hall are very hungry.' Kostya reminds him of the urgency. He points out that the guests are very hungry.
+- 'Then carry these plates right now.' Max tells Kostya to hurry up. He orders him to take the plates out right now.
+- 'I will quickly take the hot food to the guests.' Kostya promises swift delivery. He assures Max he will carry the hot food out quickly.
+- 'Be sure to wish them bon appétit.' Max gives a final instruction. He tells Kostya to be sure to wish them bon appetit.
+- 'Of course, I will do everything very politely.' Kostya promises to be professional. He says he will do everything very politely.
+- 'Say that the chef cooked for them.' Max wants to ensure he gets the credit. He specifically asks Kostya to mention the chef cooked it.
+- 'Good, I will pass on your warm words.' Kostya agrees to the request. He promises to pass on the warm words.
+- 'Go quickly, the guests are already waiting for the order!' Max urges him out the door. He yells at Kostya to go because the guests are waiting.

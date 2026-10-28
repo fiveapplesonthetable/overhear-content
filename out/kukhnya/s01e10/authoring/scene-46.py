@@ -32,8 +32,8 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Good morning to all early viewers of our show!' The upbeat TV host greets early risers brightly."),
-    (1, None, "'With you again is your favorite show Delicious Morning.' Russian omits the present-tense verb 'to be' here, linking 'again' directly with 'favourite', combining 'again' with 'favourite' and 'broadcast'."),
-    (2, None, "'Today we will prepare simple appetizing sunny-side-up eggs.' The phrasing opens with 'today' before bringing in 'to prepare' and 'simple' to make the point clear."),
+    (1, None, "'With you again is your favorite show Delicious Morning.' On the television screen the next morning, the cheerful host welcomes viewers back to 'Delicious Morning' — the very show Barinov turned down."),
+    (2, None, "'Today we will prepare simple appetizing sunny-side-up eggs.' The host announces that today's simple breakfast recipe is sunny-side-up eggs."),
     (3, None, "'Every morning opens a new day before us.' Max reflects on the fresh possibilities of dawn."),
     (4, None, "'We take fresh eggs and heat the frying pan.' The culinary demonstration begins on television."),
     (5, None, "'Sometimes simple things turn out to be the most important.' Max realizes that life's joys are uncomplicated."),

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Responsibility is a strange thing.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'responsibility' straight to 'thing'.
-- 'On the one hand, we are afraid of it.' Notice the self-directed ending on the verb for 'to be afraid', which directs the action back onto the subject.
-- 'And on the other hand...' Russian omits the present-tense verb 'to be' here, linking 'other' directly with 'side', combining 'other' with 'side'.
-- 'It is what earns us respect.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And brings us closer together.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'When we act irresponsibly...' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We draw the right conclusions.' Max chooses the action verb meaning 'are doing' for the ongoing action, followed by 'right' and 'conclusions'.
-- 'That's it, I won't drink at work anymore.' Chef Barinov expresses this naturally by combining the word for 'work' with 'more' and 'to drink'.
-- 'I've decided.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'has decided'.
-- 'I definitely won't drink.' Here Chef Barinov anchors the line on the word meaning 'definitely' and builds the thought around 'to drink'.
-- 'But we should celebrate that.' The phrasing opens with 'it is necessary' before bringing in 'to celebrate' to make the point clear.
-- 'Pour!' Viktor uses an urgent command built around the verb for 'to pour'.
+- 'Responsibility is a strange thing.' Max reflects on the nature of duty. He calls responsibility a very strange thing.
+- 'On the one hand, we are afraid of it.' He explains the common fear associated with it. Max notes that on the one hand, people are afraid of it.
+- 'And on the other hand...' Max introduces the opposing view. He transitions to the other hand of his argument.
+- 'It is what earns us respect.' He explains the positive side of taking charge. Max says it is exactly how we earn respect.
+- 'And brings us closer together.' Max highlights the bonding power of shared challenges. He notes it brings people closer together.
+- 'When we act irresponsibly...' He points out the value of making mistakes. Max mentions that acting irresponsibly has a purpose.
+- 'We draw the right conclusions.' Max concludes his philosophical thought. He says our mistakes help us draw the right conclusions.
+- 'That's it, I won't drink at work anymore.' Chef Barinov makes a grand declaration. He swears he will never drink at work again.
+- 'I've decided.' He insists he has made a firm choice. Barinov says he has finally decided for good.
+- 'I definitely won't drink.' Barinov repeats his promise for emphasis. He firmly states he definitely will not drink.
+- 'But we should celebrate that.' He immediately finds an excuse to break his new rule. Barinov says they need to celebrate his decision.
+- 'Pour!' Barinov gives a joyful command to start the party. He enthusiastically yells to pour the drinks.

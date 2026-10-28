@@ -12,8 +12,8 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
 INTRO = 'Max has been tasked with peeling stickers off crates of bananas, but he longs to show off his real skills. He pitches his signature chicken dish to the Chef, who mocks him but offers an unexpected test. Listen carefully to the Russian dialogue first, and then we will examine every sentence.'
 OPENER = 'Now let us walk through each phrase to see how it works.'
-TRANSITION = "Now let's listen to the conversation again without interruption."
-OUTRO = 'Max has secured his chance to cook, confident that his dessert will win over Eleonora Andreyevna. See you soon!'
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = 'Max has secured his chance to cook, confident that his dessert will win over Eleonora Andreyevna. See you next time!'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Шеф, у меня есть отличная идея.', 'Chef, I have an excellent idea.', [(218, 'есть идея')], ''),
@@ -32,19 +32,19 @@ STORY = [
     ('max', 'Договорились, шеф! Я сделаю лучший десерт.', 'Agreed, chef! I will make the best dessert.', [(240, 'Окей'), (241, 'Ну, держитесь')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, I have an excellent idea.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (1, None, "'I can prepare my signature dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, None, "'It is tender chicken in cream sauce.' Adjectives describe the texture and flavor of the proposed dish."),
-    (3, None, "'A magnificent idea from an unknown person.' The chef uses heavy irony to dismiss the suggestion."),
-    (4, None, "'You came to my kitchen by accident.' The adverb underlines that Max has not earned any trust yet."),
-    (5, None, "'Better keep peeling bananas!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'Why peel off these stickers at all?' The question adverb challenges the purpose of the chore."),
-    (7, None, "'For ideal order in the universe.' A grand philosophical excuse for giving meaningless busywork."),
-    (8, None, "'But I know how to prepare wonderful desserts.' Max asserts another branch of his culinary skills."),
-    (9, None, "'All right, I will give you one chance.' The future tense promises a single opportunity to impress."),
-    (10, None, "'Our regular guest has arrived.' The noun phrase refers to a frequent restaurant customer."),
-    (11, None, "'You will prepare dessert for Eleonora Andreyevna.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (12, None, "'If the dessert is liked, you will stay here.' A conditional structure outlining the stakes."),
-    (13, 'Договорились, шеф!', "'Agreed, chef!' A short past-passive idiom confirming that a deal has been struck."),
-    (13, 'Я сделаю лучший десерт.', "'I will make the best dessert.' Max vows to produce his finest pastry. Alright, let's hear the whole thing once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Chef, I have an excellent idea.' Max interrupts the peeling chore to propose something far more exciting."),
+    (1, None, "'I can prepare my signature dish.' He offers to show off his personal culinary masterpiece."),
+    (2, None, "'It is tender chicken in cream sauce.' Max eagerly describes the appealing flavor profile of his recipe."),
+    (3, None, "'A magnificent idea from an unknown person.' Chef Barinov drips with sarcasm while rejecting the unsolicited menu change."),
+    (4, None, "'You came to my kitchen by accident.' He coldly reminds the young cook of his utterly unearned position."),
+    (5, None, "'Better keep peeling bananas!' Chef Barinov dismissively orders him back to the menial fruit prep."),
+    (6, None, "'Why peel off these stickers at all?' Max questions the pointless nature of this ridiculous task."),
+    (7, None, "'For ideal order in the universe.' Chef Barinov provides a mockingly philosophical reason for the busywork."),
+    (8, None, "'But I know how to prepare wonderful desserts.' Max pivots to pitching his pastry skills instead."),
+    (9, None, "'All right, I will give you one chance.' Chef Barinov surprisingly relents and agrees to a single test."),
+    (10, None, "'Our regular guest has arrived.' He mentions that a frequent VIP is currently in the dining room."),
+    (11, None, "'You will prepare dessert for Eleonora Andreyevna.' Chef Barinov assigns the rookie to cook for a supposedly important lady."),
+    (12, None, "'If the dessert is liked, you will stay here.' He sets the absolute condition for the young man keeping his job."),
+    (13, None, "'Agreed, chef!' Max immediately accepts the high-stakes culinary challenge."),
+    (14, None, "'I will make the best dessert.' He confidently promises to deliver a phenomenal sweet treat."),
 ]

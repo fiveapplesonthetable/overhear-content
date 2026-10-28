@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What cocktail will you drink, Vika?' Max asks her drink preference using an everyday word and future verb.
-- 'I like dry white wine.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Bartender, bring us a glass of white wine!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what will you drink yourself?' Vika turns the question back with an emphatic self-directed form word.
-- 'I will drink a little good juice.' Max uses the action verb meaning 'will drink' to focus on the single completed result, pairing it with 'a little' and 'good'.
-- 'Do you not drink strong drinks at all?' Vika turns a statement into a question purely through rising intonation on the word meaning 'at all', pairing it with 'drink' and 'strong'.
-- 'Tomorrow morning I need a clear head.' Russian omits the present-tense verb 'to be' here, linking 'tomorrow' directly with 'in the morning', combining 'tomorrow' with 'in the morning' and 'needed'.
-- 'You take your work very seriously.' Vika expresses this naturally by combining the word for 'very' with 'seriously' and 'treat'.
-- 'I dream of becoming the very best chef!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I like your big dream very much.' Here Vika anchors the line on the word meaning 'very' and builds the thought around 'pleases' and 'big'.
-- 'You look simply stunning tonight.' The phrasing opens with 'tonight' before bringing in 'look' and 'simply' to make the point clear.
-- 'Thank you, Max, I am very pleased.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'very', combining 'thank you' with 'very' and 'pleasant'.
-- 'Let' s go dance to this beautiful music!' Max uses the action verb meaning 'let's go' to focus on the single completed result, pairing it with 'to dance' and 'beautiful'.
+- 'What cocktail will you drink, Vika?' Max asks his new acquaintance what she would like to have now that they are settled inside the bar.
+- 'I like dry white wine.' Vika shares her beverage preference, keeping it classy and simple for the evening.
+- 'Bartender, bring us a glass of white wine!' He confidently orders her chosen drink from the staff at the counter.
+- 'And what will you drink yourself?' Flipping the attention back to him, she is curious about what he plans to have.
+- 'I will drink a little good juice.' Max keeps his order strictly non-alcoholic to ensure he stays sharp for the next day.
+- 'Do you not drink strong drinks at all?' Vika is slightly amused and wonders if he generally avoids alcohol or if it is just a temporary choice.
+- 'Tomorrow morning I need a clear head.' Explaining his practical reasoning, he shows his dedication to making a good impression at his meeting.
+- 'You take your work very seriously.' She admires his level of commitment and professional attitude toward his culinary goals.
+- 'I dream of becoming the very best chef!' Max passionately declares his ultimate ambition in life, wearing his heart on his sleeve.
+- 'I like your big dream very much.' Smiling warmly at his bold aspirations, she is clearly charmed by his drive and enthusiasm.
+- 'You look simply stunning tonight.' He shifts the focus away from his career to give her a very direct and romantic compliment.
+- 'Thank you, Max, I am very pleased.' Vika bashfully accepts his sweet words, feeling flattered by his attention.
+- 'Let's go dance to this beautiful music!' Max proposes a toast to celebrate the lucky chance that brought them together tonight.

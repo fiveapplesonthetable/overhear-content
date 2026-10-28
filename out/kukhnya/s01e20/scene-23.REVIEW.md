@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Morning has come.' Max puts the word for 'morning' together with 'to come' in a crisp, natural spoken turn of phrase.
-- 'Now everything is clear.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'clear?', combining 'now' with 'clear?'.
-- 'But it is already late.' Russian omits the present-tense verb 'to be' here, linking 'already' directly with 'too late', combining 'already' with 'too late'.
-- 'Time has gone.' Max expresses this naturally by combining the word for 'time' with 'to leave'.
-- 'This is our common mistake.' Russian omits the present-tense verb 'to be' here, linking 'common' directly with 'mistake', combining 'common' with 'mistake'.
-- 'Maybe we should have woken up?' Max turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'be' and 'to cost'.
-- 'Woken up sooner?' Max turns a statement into a question purely through rising intonation on the word meaning 'wake up', followed by 'earlier'.
-- 'I don' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nobody knows.' Max delivers a punchy one-word reaction built around the Russian word meaning 'knows'.
-- 'Life goes on.' Here Max anchors the line on the word meaning 'life' and builds the thought around 'continues'.
-- 'Need to go.' The phrasing opens with 'necessary' before bringing in 'to go' to make the point clear.
-- 'Go only forward.' Max chooses the action verb meaning 'to go' for the ongoing action, followed by 'only' and 'forward'.
+- 'Morning has come.' Max notes the arrival of a new day, signaling the end of their period of willful ignorance.
+- 'Now everything is clear.' Max realizes that the truth is finally obvious, connecting the concept of now directly to clarity.
+- 'But it is already late.' Max regrets that this sudden understanding has arrived after the opportunity to act has passed.
+- 'Time has gone.' Max laments that they have missed their chance because the moment has completely slipped away.
+- 'This is our common mistake.' Max accepts shared responsibility for their failure, directly labeling it as a collective error.
+- 'Maybe we should have woken up?' Max wonders aloud if they should have faced reality sooner, phrasing his regret as a lingering question.
+- 'Woken up sooner?' Max repeats his thought, asking specifically if coming to their senses earlier would have changed things.
+- 'I don' Max admits that he has no solution for the philosophical dilemma he just outlined.
+- 'Nobody knows.' Max expands his own uncertainty, claiming that no one really has the answers to these deep questions.
+- 'Life goes on.' Max accepts that despite all their mistakes and lost time, existence simply moves forward.
+- 'Need to go.' Max resolves that they must keep moving, using a strong word indicating necessity.
+- 'Go only forward.' Max ends on a determined note, insisting that their only option is to continue advancing into the future.

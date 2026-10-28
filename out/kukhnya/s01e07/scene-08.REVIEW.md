@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, do you know where to rent a flat?' Max casually asks if she has any apartment leads.
-- 'I was looking for a place myself this morning.' Nastya explains that she was recently displaced herself.
-- 'And did you manage to find a room?' Max asks whether she had any luck on the rental market.
-- 'Kostik helped me, I am moving to his place.' Nastya uses the action verb meaning 'helped' to focus on the single completed result, pairing it with 'am moving'.
-- 'Wait, Kostya invited you to live together?' Max freezes upon realizing his flatmate offered up their shared apartment.
-- 'Yes, after all he and I are dating.' Nastya treats moving in together as the natural next step.
-- 'To be honest, I do not envy you at all.' The phrasing opens with 'honestly' before bringing in 'speaking' and 'at all' to make the point clear.
-- 'Why? Kostya is such a sweet guy.' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'sweet', combining 'why' with 'sweet' and 'guy'.
-- 'At night he snores terribly and loudly!' Max fabricates a severe sleep disruption to scare her off.
-- 'Oh, I cannot stand snoring at all!' Nastya admits that nighttime noise is her biggest pet peeve.
-- 'Think well before agreeing.' Max feigns brotherly concern as he protects his bachelor pad.
-- 'You are right, I will look for another option.' Nastya gratefully takes his advice and cancels her move.
+- 'Nastya, do you know where to rent a flat?' Max fishes for information about the local real estate market.
+- 'I was looking for a place myself this morning.' Nastya shares that she was just hunting for a spot herself.
+- 'And did you manage to find a room?' He hopes she found a good lead he might be able to use.
+- 'Kostik helped me, I am moving to his place.' She happily announces that she is taking the spare room at Kostya's.
+- 'Wait, Kostya invited you to live together?' Max panics internally, realizing his sweet deal is in jeopardy.
+- 'Yes, after all he and I are dating.' Nastya sees it as a perfectly normal step for a couple.
+- 'To be honest, I do not envy you at all.' He quickly pivots, pretending to pity her future situation.
+- 'Why? Kostya is such a sweet guy.' She is taken aback, defending her supposedly perfect boyfriend.
+- 'At night he snores terribly and loudly!' Max invents a horrible nocturnal habit to scare her away.
+- 'Oh, I cannot stand snoring at all!' Nastya instantly reacts with disgust, revealing her weak spot.
+- 'Think well before agreeing.' He pretends to offer wise counsel while secretly sabotaging the move.
+- 'You are right, I will look for another option.' She falls for the trick and decides to keep looking.

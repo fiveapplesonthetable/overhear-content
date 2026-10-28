@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, hurry up the order already!' Kostya rushes the kitchen line during service.
-- 'The guest at table five is waiting.' Here Kostya anchors the line on the word meaning 'guest' and builds the thought around 'fifth' and 'table'.
-- 'Everything is ready, you can take the dish.' The phrasing opens with 'ready' before bringing in 'can' and 'take' to make the point clear.
-- 'Great, taking it to the dining room.' Kostya expresses this naturally by combining the word for 'great' with 'am carrying' and 'dining room'.
-- 'Wait, one second, wait for me here!' Chef Barinov leads with the direct command form meaning 'wait', pairing it with 'one second' and 'wait for'.
+- 'The guest at table five is waiting.' Kostya says the customer at five is waiting.
+- 'Everything is ready, you can take the dish.' Barinov tells him to grab the finished meal.
+- 'Great, taking it to the dining room.' Kostya grabs the plate for the main floor.
+- 'Wait, one second, wait for me here!' Barinov stops him right there for a moment.
 - 'Chef, I need to work right now.' Kostya points to his busy dining room duties.
-- 'Kostya, tell me, how are your affairs?' Chef Barinov leads with the direct command form meaning 'tell', pairing it with 'how' and 'affairs'.
+- 'Kostya, tell me, how are your affairs?' Barinov asks about his life in general.
 - 'Fine, tips are good today.' Kostya mentions his successful shift at the tables.
 - 'Really good? You are a wealthy man!' Viktor flatters him with exaggerated compliments.
-- 'I just need to borrow a little.' Here Chef Barinov anchors the line on the word meaning 'simply' and builds the thought around 'to borrow' and 'a little'.
-- 'Chef, you want my tips?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'want', followed by 'tips'.
-- 'Only a couple of thousand until morning!' Russian omits the present-tense verb 'to be' here, linking 'only' directly with 'a couple', combining 'only' with 'a couple' and 'thousand'.
+- 'I just need to borrow a little.' Barinov asks for a small amount of cash.
+- 'Chef, you want my tips?' Kostya questions if his boss wants his tips.
+- 'Only a couple of thousand until morning!' Barinov begs for a few thousand until tomorrow.
 - 'Chef, let us talk later!' Kostya makes a swift excuse and hurries away.
 - 'All right, go, but I will return!' Viktor calls after him with stubborn persistence. Now, let us listen to the complete scene again to practice your comprehension.

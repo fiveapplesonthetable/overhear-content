@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have an announcement.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have' around the word meaning 'advertisement'.
-- 'We need a seasonal dish.' Russian omits the present-tense verb 'to be' here, linking 'necessary' directly with 'seasonal', combining 'necessary' with 'seasonal' and 'dish'.
-- 'Chef, wait.' Max leads with the direct command form meaning 'wait' to make the point directly in conversation.
-- 'You said you wouldn' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And I won't be.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'will be'.
-- 'You will.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'will be'.
-- 'The winner gets a bonus.' The phrasing opens with 'winner' before bringing in 'will get' and 'bonus' to make the point clear.
-- 'And I won' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And the bonus is right away?' Max turns a statement into a question purely through rising intonation on the word meaning 'bonus', followed by 'at once'.
-- 'The bonus is at the end of the month.' Russian omits the present-tense verb 'to be' here, linking 'bonus' directly with 'end', combining 'bonus' with 'end' and 'months'.
-- 'But I'll stop calling you disabled right away.' The phrasing opens with 'disabled person' before bringing in 'will stop' and 'to call' to make the point clear.
-- 'Everyone understood. Yes, Chef!' Max confirms they accept the challenge.
+- 'I have an announcement.' Barinov gathers the kitchen staff to deliver an announcement.
+- 'We need a seasonal dish.' Barinov explains that they need a new seasonal dish.
+- 'Chef, wait.' Max interrupts to ask his boss to wait.
+- 'You said you wouldn' Max reminds him of his previous claim that he wouldn't be inventing anything.
+- 'And I won't be.' Barinov confirms that he still has no intention of doing the work.
+- 'You will.' Barinov drops the bombshell that the staff will be the ones creating the dish.
+- 'The winner gets a bonus.' Barinov motivates them by offering a cash bonus to the winner.
+- 'And I won' Barinov adds a personal incentive for his apprentice, promising to stop insulting him.
+- 'And the bonus is right away?' Max eagerly asks if the prize money will be paid out immediately.
+- 'The bonus is at the end of the month.' Barinov clarifies that the money only comes at the end of the month.
+- 'But I'll stop calling you disabled right away.' Barinov promises that the name-calling will stop right away, at least.
+- 'Everyone understood. Yes, Chef!' Max enthusiastically confirms that everyone understands the challenge.

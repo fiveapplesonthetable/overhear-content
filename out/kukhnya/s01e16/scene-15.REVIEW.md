@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Boss, I got it.' — Notice the proper name meaning 'chef, boss' paired with the word for 'I'.
-- 'You added basil, right?' Fedya turns a statement into a question purely through rising intonation on the word meaning 'to add', followed by 'basil'.
-- 'Clear.' the inspector delivers a punchy conversational reaction built around the Russian word meaning 'clean'.
-- 'Checked.' — in Russian, the verb ending alone carries the subject and tense.
-- 'I knew it.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'knew'.
-- 'Viktor Petrovich, a mistake happened.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'.
-- 'My people checked this person.' The phrasing opens with 'people' before bringing in 'checked' and 'a man' to make the point clear.
-- 'Completely clean.' Russian omits the present-tense verb 'to be' here, linking 'completely' directly with 'clean', combining 'completely' with 'clean'.
-- 'And I always knew.' Chef Barinov puts the word for 'always' together with 'knew' in a crisp, natural spoken turn of phrase.
-- 'Fedya, how are you?' — Notice the proper name meaning 'Fedya' paired with the word for 'you'.
-- 'Fine.' Fedya delivers a punchy one-word reaction built around the Russian word meaning 'fine'.
-- 'How did you get me out?' Fedya expresses this naturally by combining the word for 'how' with 'to drag out'.
-- 'Only the boss had keys.' Fedya puts the word for 'the keys' together with 'only' and 'chef' in a crisp, natural spoken turn of phrase.
-- 'Let him think so.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'thinks'.
+- 'Boss, I got it.' Fedya eagerly reports back, showing that he comprehended the previous instructions.
+- 'You added basil, right?' The cook asks for confirmation about a recipe detail, completely ignoring the tension of the raid.
+- 'Clear.' The officer gives a crisp, one-word confirmation that the inspection revealed no problems.
+- 'Checked.' Following up his previous statement, the official confirms that the examination is complete.
+- 'I knew it.' Barinov smugly asserts that he was right all along, projecting total confidence.
+- 'Viktor Petrovich, a mistake happened.' The disappointed guest admits that their raid was based on incorrect information.
+- 'My people checked this person.' Explaining the process, the officer confirms that his team looked into the worker's background.
+- 'Completely clean.' Reassuring the chef, the official declares the employee entirely free of any legal issues.
+- 'And I always knew.' The boss repeats his smug claim of prior knowledge, rubbing his victory in the officer's face.
+- 'Fedya, how are you?' Barinov checks in on his employee, asking about his well-being after the stressful event.
+- 'Fine.' Fedya gives a short, casual response, brushing off the intensity of the situation.
+- 'How did you get me out?' Puzzled by his sudden rescue, the cook asks his boss to explain the trick.
+- 'Only the boss had keys.' The worker points out a logical flaw in the rescue, noting that access was restricted to one person.
+- 'Let him think so.' Barinov slyly suggests allowing the inspector to believe a false version of events.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, is the sauce ready?' — Notice the proper name meaning 'Senya' paired with the noun for 'sauce'.
-- 'I am not Senya.' Russian omits the present-tense verb 'to be' here, linking 'and' directly with 'I', combining 'and' with 'I' and 'not'.
-- 'I am Artyom.' Russian omits the present-tense verb 'to be' here, linking 'I' directly with 'Artyom', combining 'I' with 'Artyom'.
-- 'Senya got fired.' — Notice the proper name meaning 'Senya' paired with the verb for 'to fire, to dismiss'.
-- 'I do not care who you are.' Chef Viktor uses the informal everyday 'you' here with 'you', as friends and close colleagues do.
-- 'Today you are Senya.' Russian omits the present-tense verb 'to be', connecting 'today' directly with 'Senya'.
-- 'Fedya would have done it fast.' — Notice the proper name meaning 'Fedya' paired with the word for 'this'.
-- 'I am Fedya too, Chef.' Russian omits the present-tense verb 'to be', connecting 'I' directly with 'chef'.
-- 'No, you are not Fedya.' Russian omits the present-tense verb 'to be' here, linking 'no' directly with 'you', combining 'no' with 'you' and 'not'.
-- 'You have to earn the name Fedya.' Here Chef Barinov anchors the line on the word meaning 'name' and builds the thought around 'to earn' and 'it is necessary'.
-- 'Now you are Artyom.' Chef Viktor uses the informal everyday 'you' here with 'Artyom', as friends and close colleagues do. Then Fedya responds.
-- 'Yes, Chef.' — Built around the key proper name meaning 'chef, boss'.
+- 'Senya, is the sauce ready?' Barinov barks an order about the sauce, aggressively addressing his cook by the wrong name.
+- 'I am not Senya.' Artyom tentatively corrects his boss, dropping the verb 'to be' as is standard in Russian.
+- 'I am Artyom.' Artyom states his actual name simply and directly, omitting the present-tense verb.
+- 'Senya got fired.' Barinov dismisses the correction, bluntly stating that the real Senya was just fired.
+- 'I do not care who you are.' Barinov aggressively declares his indifference to his employee's true identity.
+- 'Today you are Senya.' Barinov forces the new name upon him for the day, connecting the words directly without a verb.
+- 'Fedya would have done it fast.' Barinov complains about the slow pace by comparing another cook to the recently fired Fedya.
+- 'I am Fedya too, Chef.' Fedya chimes in to say that he is also named Fedya, pointing out the coincidence.
+- 'No, you are not Fedya.' Barinov instantly strips him of his real name, aggressively denying his identity.
+- 'You have to earn the name Fedya.' Barinov absurdly elevates the name to a title of honor that must be earned through hard work.
+- 'Now you are Artyom.' Barinov reassigns the name Artyom to him, treating his staff completely interchangeably.
+- 'Yes, Chef.' — Built around the key proper name meaning 'chef, boss'. Now listen to the whole scene again.

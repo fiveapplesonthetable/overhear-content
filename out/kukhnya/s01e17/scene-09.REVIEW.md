@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, try the new dish.' Senya leads with the direct command form meaning 'try', pairing it with 'new' and 'dish'.
-- 'What? What dish?' Russian omits the present-tense verb 'to be' here, linking 'what a' directly with 'more', followed by 'dish'.
-- 'Yesterday you gave us an assignment.' The phrasing opens with 'yesterday' before bringing in 'gave' and 'assignment' to make the point clear.
-- 'All right, let us try it.' Chef Barinov leads with the direct command form meaning 'let's', pairing it with 'will' and 'to try'.
-- 'And what is this?' Russian omits the present-tense verb 'to be' here, linking 'and' directly with 'this', pairing it with 'what' and 'on earth'.
-- 'This is tender meat with thin ham.' Russian omits the present-tense verb 'to be' here, linking 'tender' directly with 'meat', pairing it with 'subtle' and 'ham'.
-- 'Very tasty, I like this recipe!' The phrasing opens with 'very much' before bringing in 'it's tasty' and 'is pleasing' to make the point clear.
-- 'Congratulations, your dish is now on the menu.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, wait, this is completely unfair!' Fedya leads with the direct command form meaning 'wait', pairing it with 'at all' and 'unfair'.
-- 'Thank you very much, Chef, I am very glad!' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'big', pairing it with 'very much' and 'glad'.
-- 'Congratulations on the victory, colleague.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, what about our dishes?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'of dish' to make the point directly in conversation.
-- 'I do not need anything else, I found it.' Chef Barinov puts the word for 'more' together with 'necessary' and 'found' in a crisp, natural spoken turn of phrase.
+- 'Chef, try the new dish.' Senya eagerly presents his culinary creation to the boss.
+- 'What? What dish?' Barinov acts confused, pretending he forgot about the competition.
+- 'Yesterday you gave us an assignment.' Senya reminds him of the assignment given the day before.
+- 'All right, let us try it.' Barinov agrees to give the plate a try.
+- 'And what is this?' Barinov asks his chef to explain what is on the plate.
+- 'This is tender meat with thin ham.' Senya proudly describes the combination of tender meat and thin ham.
+- 'Very tasty, I like this recipe!' Barinov loves the recipe, praising its fantastic taste.
+- 'Congratulations, your dish is now on the menu.' Barinov declares the dish a winner and adds it to the menu.
+- 'Chef, wait, this is completely unfair!' Fedya complains loudly that the immediate decision is completely unfair.
+- 'Thank you very much, Chef, I am very glad!' Senya ignores the complaint, thanking the boss profusely.
+- 'Congratulations on the victory, colleague.' Fedya sarcastically congratulates his coworker on the victory.
+- 'Chef, what about our dishes?' Fedya asks about the fate of the remaining dishes.
+- 'I do not need anything else, I found it.' Barinov dismisses the rest of the staff, completely satisfied with his choice.

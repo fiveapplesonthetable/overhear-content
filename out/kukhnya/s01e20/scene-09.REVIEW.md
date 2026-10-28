@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now let us talk.' Nastya leads with the direct command form meaning 'let's', pairing it with 'now' and 'we'll have a talk'.
-- 'Remember, we should take a new step?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'do you remember', pairing it with 'must' and 'do'.
-- 'I have a feeling you are not ready yet.' Instead of a verb for 'to have', Russian says 'by me' or 'with you' followed by 'ready'.
-- 'Me?' Kostya asks this with a single word meaning 'I', using rising intonation to turn it into a quick question.
-- 'I am ready.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'ready'.
-- 'Are you sure?' Nastya asks this with a single word meaning 'definitely', using rising intonation to turn it into a quick question.
-- 'I am sure.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'definitely'.
-- 'Then I will invite my parents over for the weekend.' Nastya expresses this naturally by combining the word for 'back then' with 'weekends' and 'to call'.
-- 'Okay.' A crisp, everyday conversational reply meaning 'all right' that you will hear constantly in Russian dialogue.
-- 'Wait, your parents?' Kostya uses a direct command command form of the verb meaning 'wait'. Then Nastya responds.
-- 'Yes, my mother and father.' Russian omits the present-tense verb 'to be' here, linking 'mother' directly with 'daddy', combining 'mother' with 'daddy'.
-- 'To our apartment?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'flat' to make the point directly in conversation.
-- 'Of course, where else?' Russian omits the present-tense verb 'to be' here, linking 'of course' directly with 'where to', combining 'of course' with 'where to' and 'more'.
-- 'I need to clean the room.' Here Kostya anchors the line on the word meaning 'it is necessary' and builds the thought around 'to remove' and 'the room'.
+- 'Now let us talk.' Nastya takes charge of the conversation, telling him 'let us' talk right 'now'.
+- 'Remember, we should take a new step?' Nastya checks if he recalls their plan, raising her pitch to make 'remember' a question.
+- 'I have a feeling you are not ready yet.' Nastya expresses her doubts about his readiness.
+- 'Me?' Kostya acts surprised, asking 'me' with a quick upward inflection.
+- 'I am ready.' Kostya defensively insists he is 'ready' with a single word.
+- 'Are you sure?' Nastya double-checks his commitment by asking 'definitely' with a questioning tone.
+- 'I am sure.' Kostya confidently repeats 'definitely' as a statement of fact.
+- 'Then I will invite my parents over for the weekend.' Nastya announces her plan to call her parents for the weekend.
+- 'Okay.' Kostya gives a simple, everyday agreement.
+- 'Wait, your parents?' Kostya suddenly panics, telling her to 'wait' before confirming who is coming.
+- 'Yes, my mother and father.' Nastya clarifies exactly who she means by placing 'mother' and 'father' together.
+- 'To our apartment?' Kostya questions the location in disbelief.
+- 'Of course, where else?' Nastya states the obvious, asking 'where else' they would possibly go.
+- 'I need to clean the room.' Kostya realizes he has work to do, deciding it is necessary to clean up.

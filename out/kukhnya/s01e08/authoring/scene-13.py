@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "In the quiet vegetable storeroom of Claude Monet, Max and Sasha scramble to hide Dmitry Nagiyev's unconscious dog among sacks of potatoes. Desperate to conceal the animal until nightfall, they use fragrant cilantro before art director Victoria walks in unexpectedly. Let's listen to their nervous conversation in Russian."
 OPENER = "Let's explore how Max and Sasha attempt to conceal their secret in the restaurant storeroom."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to talk about hiding items, giving excuses, and handling unexpected workplace interruptions in Russian. Listen for these practical expressions in the upcoming scenes. Next time you watch the episode, listen for the Russian expressions for 'fast' and 'evening' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('vika', 'Быстро уходите, это вам не мотель.', 'Leave quickly, this is no motel for you.', [(162, 'заканчивайте здесь фритюриться, это вам не мотель')], ''),
 ]
 WALK = [
-    (1, None, "'Let her lie here until evening.' The introductory hortative word expresses third-person permission and resignation for the characters."),
-    (4, None, "'It will easily cover any odor.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'Tablecloths in the vegetable storeroom?' Victoria expresses skeptical disbelief through an everyday question the matching word ending."),
-    (12, None, "'Leave quickly, this is no motel for you.' A firm command form followed by a humorous colloquial dismissal. Now, let's listen to the storeroom conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Let her lie here until evening.' Sasha suggests leaving the dog hidden among the vegetables until the shift ends."),
+    (1, None, "'It will easily cover any odor.' He notes that the strong smell of herbs will mask any unwanted dog odors."),
+    (2, None, "'Tablecloths in the vegetable storeroom?' Vika enters the storeroom and immediately spots the highly suspicious setup."),
+    (3, None, "'Leave quickly, this is no motel for you.' She kicks them out, reminding them this is a professional kitchen, not a hideout."),
 ]

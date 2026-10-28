@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, a terrible scandal happened in the dining room.' Vika rushes to the office in a state of distress.
-- 'Calm down, Vika, we will show the video to the inspection.' Barinov points out the surveillance footage will prove their innocence.
-- 'We will surely successfully pass the inspection.' The chef confidently reassures his administrator.
-- 'But this vagrant caused a real nightmare!' Vika reminds him of the utter chaos in the dining area.
-- 'He shouted and scared off all the guests!' She highlights the immediate damage to their business.
-- 'And then he beat up the writer Pelevin!' Vika is horrified that a celebrity author was attacked.
-- 'Is this really complete nonsense to you?' She questions Barinov's dismissive attitude toward the catastrophe.
-- 'Of course, this is not nonsense at all.' Viktor Barinov reveals his surprising perspective on the brawl.
-- 'This is a very big important event!' The head chef views the incident as extraordinary publicity.
-- 'And what benefit is there in this for the restaurant?' Russian omits the present-tense verb 'to be' here, linking 'benefit' directly with 'restaurant', combining 'benefit' with 'restaurant'.
-- 'Now we are not just a good restaurant.' Viktor prepares to deliver his cynical punchline.
-- 'Here they punched a famous person in the face!' Barinov boasts about the unique notoriety of their establishment.
-- 'You will always find a reason for joy!' Vika sighs at the chef's uncanny ability to spin any disaster.
+- 'Viktor, a terrible scandal happened in the dining room.' Bursting into the office, Vika is panicked by the catastrophic event out front.
+- 'Calm down, Vika, we will show the video to the inspection.' Smoothly attempting to pacify her, Barinov mentions the security footage.
+- 'We will surely successfully pass the inspection.' He arrogantly dismissing her concerns, Barinov is confident they survived the health check.
+- 'But this vagrant caused a real nightmare!' He is redirecting his attention, Vika focuses on the insane brawl involving the homeless man.
+- 'He shouted and scared off all the guests!' Listing the immediate financial damage, Vika notes patrons fleeing the restaurant.
+- 'And then he beat up the writer Pelevin!' Horrified by the violence, Vika shouts that a legendary author was assaulted on their premises.
+- 'Is this really complete nonsense to you?' Bewildered, Vika cannot fathom how the chef is so remarkably unbothered by a fistfight.
+- 'Of course, this is not nonsense at all.' Smirking at the chaos, Barinov finally acknowledges the gravity of the chaotic event.
+- 'This is a very big important event!' Revealing his twisted perspective, Barinov sees the brawl as a monumental triumph.
+- 'And what benefit is there in this for the restaurant?' Vika bewilderingly asks how a violent scandal could possibly help their business.
+- 'Now we are not just a good restaurant.' Dramatically building up to his punchline, Barinov relishes their new reputation.
+- 'Here they punched a famous person in the face!' Celebrating the absurd notoriety, Barinov boasts about hosting a celebrity beatdown.
+- 'You will always find a reason for joy!' Shaking her head, Vika sighs at the chef's uncanny ability to spin absolute disasters.

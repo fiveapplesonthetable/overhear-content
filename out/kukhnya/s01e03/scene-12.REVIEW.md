@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, show me this goose.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Here it is, chef, I already finished.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why is it so strangely small?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It turned out like that because of feathers.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It turned out that it has very thick feathers.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'We bought a huge bird after all!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I was surprised myself when I was plucking it.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'There is completely little meat here for the guests.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What should we do with it now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Prepare a special sauce and a beautiful side dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Alright, chef, I will do everything quickly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The guests must be pleased with our banquet!' everyday subject with modal adjective governing basic verb form everyday and matching form complement.
+- 'Lyova, show me this goose.' Barinov demands to see the bird.
+- 'Here it is, chef, I already finished.' Lyova presents the prepared bird.
+- 'Why is it so strangely small?' Barinov questions the size of the bird.
+- 'It turned out like that because of feathers.' Lyova explains the deceptive appearance.
+- 'It turned out that it has very thick feathers.' Lyova adds more detail about the plumage.
+- 'We bought a huge bird after all!' Barinov recalls the original size of their purchase.
+- 'I was surprised myself when I was plucking it.' Lyova shares his own shock during the preparation.
+- 'There is completely little meat here for the guests.' Barinov worries about the small portion size.
+- 'What should we do with it now?' Lyova asks for instructions.
+- 'Prepare a special sauce and a beautiful side dish.' Barinov suggests a way to hide the flaw.
+- 'Alright, chef, I will do everything quickly.' Lyova agrees to the plan.
+- 'The guests must be pleased with our banquet!' Barinov emphasizes the importance of the event.

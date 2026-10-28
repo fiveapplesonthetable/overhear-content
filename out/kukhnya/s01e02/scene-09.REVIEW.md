@@ -28,12 +28,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Look, the waiter has already served our dish.' Senya watches the dining room through the kitchen window.
 - 'She picked up the fork and is tasting the sauce.' Fedya monitors every movement of the food critic.
 - 'Is she smiling or frowning?' Max tries to read the woman's subtle facial expression from afar.
-- 'She is chewing the first piece very attentively.' Senya expresses this naturally by combining the word for 'very' with 'attentively' and 'is chewing'.
-- 'And for some reason she is completely silent.' Fedya grows increasingly nervous in the kitchen.
-- 'Is that good or bad?' Max asks the agonizing question as they hold their breath.
+- 'She is chewing the first piece very attentively.' Senya observes her chewing the first piece very attentively.
+- 'And for some reason she is completely silent.' Fedya grows increasingly nervous as the VIP remains silent.
+- 'Is that good or bad?' Max asks the agonizing question while they hold their breath.
 - 'I do not understand anything yet myself.' Senya confesses his total inability to predict her verdict.
-- 'The main thing is that she does not call the director.' Fedya expresses this naturally by combining the word for 'the main thing' with 'calls' and 'director'.
+- 'The main thing is that she does not call the director.' Fedya hopes she does not call the director over.
 - 'Look, she took another bite.' Max reports positive progress at the VIP table.
 - 'It seems she liked our fricassee!' Senya feels a sudden surge of kitchen optimism.
-- 'Do not celebrate too early.' Fedya leads with the direct command form meaning 'rejoice', pairing it with 'earlier' and 'of time'.
-- 'Oh, she is calling the waitress to the table!' Max spots the ominous gesture that sets up the next scene.
+- 'Do not celebrate too early.' Fedya advises against celebrating too early.
+- 'Oh, she is calling the waitress to the table!' Max spots the ominous gesture of her calling the waitress to the table.

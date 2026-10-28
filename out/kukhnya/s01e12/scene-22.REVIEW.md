@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, do not be afraid, they already put out the fire.' Kostya reassures his anxious girlfriend on the street.
-- 'All the people here are safe now.' He checks that everyone escaped the smoke safely.
-- 'Kostya, thank you so much for the help.' Russian omits the present-tense verb 'to be' here, linking 'huge' directly with 'thank you', combining 'huge' with 'thank you' and 'help'.
-- 'You are such a brave guy to me!' Nastya uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'brave' with 'boyfriend'.
-- 'I simply helped the people go outside.' Kostya puts the word for 'just' together with 'to help' and 'person' in a crisp, natural spoken turn of phrase.
-- 'You are a real hero of our restaurant!' Russian omits the present-tense verb 'to be' here, linking 'real' directly with 'hero', combining 'real' with 'hero' and 'restaurant'.
-- 'We ask for forgiveness for this inconvenience.' The neighboring venue announces its sudden closure.
-- 'The neighboring cafe is closed for technical reasons.' A displaced diner reads the hasty warning sign.
-- 'And where do we have dinner now?' Hungry patrons look around for an open kitchen.
-- 'Hey, let's go to that other restaurant instead!' A cheerful diner spots the inviting lights of Claude Monet.
-- 'All the guests are coming straight to us!' Nastya watches the crowd cross the street eagerly.
-- 'Today our dining room will be full of people.' Kostya welcomes the unexpected wave of evening customers.
-- 'Let's go quickly to work, beloved bartender!' Nastya leads the way back inside the lively dining room.
+- 'Nastya, do not be afraid, they already put out the fire.' Kostya comforts Nastya and tells her the fire is out.
+- 'All the people here are safe now.' Kostya reassures her that everyone is perfectly safe.
+- 'Kostya, thank you so much for the help.' Nastya thanks Kostya for stepping in to help during the fire.
+- 'You are such a brave guy to me!' Nastya proudly calls him a very brave guy.
+- 'I simply helped the people go outside.' Kostya acts humble and says he only helped people get out.
+- 'You are a real hero of our restaurant!' Nastya insists that he is a real hero.
+- 'We ask for forgiveness for this inconvenience.' A guest from the other restaurant apologizes for the chaos.
+- 'The neighboring cafe is closed for technical reasons.' The guest notes that the burning cafe is obviously closed now.
+- 'And where do we have dinner now?' The guest wonders where they can eat dinner instead.
+- 'Hey, let's go to that other restaurant instead!' The guest suggests they all go eat at Barinov's restaurant.
+- 'All the guests are coming straight to us!' Nastya excitedly notices that the crowd is coming their way.
+- 'Today our dining room will be full of people.' Kostya realizes they are going to be completely packed with customers.
+- 'Let's go quickly to work, beloved bartender!' Nastya tells her favorite bartender that they need to get to work fast.

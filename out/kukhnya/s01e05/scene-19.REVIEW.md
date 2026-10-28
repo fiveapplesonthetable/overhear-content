@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, well, did you tell Max?' The bartender eagerly asks about the conversation.
-- 'Yes, I said that I forgot him.' Sasha reports that she delivered the harsh message.
-- 'And how did he react to that?' Kostya wants to know the rival's emotional response.
-- 'He was very surprised and upset.' Sasha describes Max's visible disappointment.
-- 'I even felt a little sorry for him.' A momentary pang of sympathy for the heartbroken cook.
-- 'Just do not tell anyone the truth.' Sasha insists on keeping their secret deception quiet.
-- 'Of course, no one will find out anything.' The phrasing opens with 'of course' before bringing in 'will find out' to make the point clear.
-- 'Thank you, you are a true loyal friend!' Sasha expresses heartfelt gratitude for his loyalty.
-- 'Listen, maybe we should go somewhere?' Kostya seizes the chance to suggest spending time together.
-- 'Where exactly do you suggest going?' A curious question about potential date plans.
-- 'Let us go to the movies together.' Kostya leads with the direct command form meaning 'let us', pairing it with 'go' and 'cinema'.
-- 'This is needed for the believability of our plan.' A clever pretext to justify a romantic outing.
-- 'Great idea, let us go tonight!' Sasha enthusiastically agrees to the evening movie plan.
-- 'Agreed, then let us meet after work.' Kostya confirms the exciting date after their shifts. Alright, let's hear the whole thing once more.
+- 'Sasha, well, did you tell Max?' Kostya eagerly asks for an update on the situation.
+- 'Yes, I said that I forgot him.' Sasha reports that she successfully delivered the fake news.
+- 'And how did he react to that?' Kostya wants to know exactly how the target reacted.
+- 'He was very surprised and upset.' Sasha describes the visible shock and dismay.
+- 'I even felt a little sorry for him.' Kostya admits to a brief flash of sympathy for his friend.
+- 'Just do not tell anyone the truth.' Sasha firmly reminds him to keep the charade going.
+- 'Of course, no one will find out anything.' Kostya assures her that their secret is safe.
+- 'Thank you, you are a true loyal friend!' Sasha praises his reliable partnership.
+- 'Listen, maybe we should go somewhere?' Kostya smoothly transitions to suggesting a real outing.
+- 'Where exactly do you suggest going?' Sasha playfully asks for specifics about the destination.
+- 'Let us go to the movies together.' Kostya proposes a classic evening activity.
+- 'This is needed for the believability of our plan.' Kostya humorously pretends it is all for the sake of the mission.
+- 'Great idea, let us go tonight!' Sasha happily agrees to the evening plans.
+- 'Agreed, then let us meet after work.' Kostya finalizes the details for their upcoming rendezvous.

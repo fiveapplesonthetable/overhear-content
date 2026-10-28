@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, cooks, chop all the vegetables.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, we are already chopping onions.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chop faster, guests will come soon.' Barinov urges greater speed with a comparative adverb and future verb.
-- 'And where will we get fresh meat?' Max inquires about the main ingredient using a question adverb and future verb.
-- 'First a cook selects the best products.' Barinov reveals a foundational culinary principle using a superlative adjective.
-- 'Do we buy meat in a shop?' Max asks about standard commercial purchasing channels.
-- 'No, I choose everything myself at the market.' Barinov rejects commercial shortcuts, highlighting his personal selection.
-- 'Do you personally inspect every piece?' Max asks with curiosity about the chef's hands-on inspection.
-- 'A real chef does not trust strangers.' Barinov explains his philosophy of kitchen control with a negated verb.
-- 'May I go with you?' Max eagerly asks for permission to join the shopping trip with a modal everyday.
-- 'You will stay in the kitchen peeling potatoes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I dreamed of selecting the best products.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'First learn to cut without mistakes!' Barinov shuts down the request with an command form and matching form.
+- 'So, cooks, chop all the vegetables.' Clapping his hands, Barinov barks orders at the kitchen staff to speed up their prep work.
+- 'Chef, we are already chopping onions.' Max tries to show they are already on top of the chopping tasks.
+- 'Chop faster, guests will come soon.' Demanding a quicker pace, Barinov notes the dinner rush is approaching.
+- 'And where will we get fresh meat?' Max asks where the restaurant sources its primary protein.
+- 'First a cook selects the best products.' Explaining a fundamental rule, Barinov stresses starting with top-tier ingredients.
+- 'Do we buy meat in a shop?' Max naively assumes they just go to a regular commercial supplier.
+- 'No, I choose everything myself at the market.' Proudly, Barinov states he personally handpicks their supplies.
+- 'Do you personally inspect every piece?' Max is impressed by the chef's hands-on approach to quality control.
+- 'A real chef does not trust strangers.' Revealing his paranoid but effective philosophy, Barinov scoffs at trusting suppliers.
+- 'May I go with you?' Eagerly, Max asks to tag along on the important market run.
+- 'You will stay in the kitchen peeling potatoes.' Barinov bluntly assigns him to the most tedious prep job instead.
+- 'I dreamed of selecting the best products.' He sighs, Max expresses disappointment at being left behind with the peeling.
+- 'First learn to cut without mistakes!' Barinov firmly tells him to master the basics before dreaming of higher duties.

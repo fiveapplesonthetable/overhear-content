@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kristina, do you know one thing?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'know', pairing it with 'one' and 'thing'.
-- 'Which exact thing?' Kristina delivers a punchy one-word reaction built around the Russian word meaning 'thing'.
-- 'I truly cook not badly.' The phrasing opens with 'really' before bringing in 'not bad' and 'prepare' to make the point clear.
-- 'Yes, I know that perfectly well.' Kristina expresses this naturally by combining the word for 'perfectly' with 'know'.
-- 'These are very tasty rolls.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'tasty', combining 'very much' with 'tasty' and 'sushi roll'.
-- 'Did you prepare them yourself?' Kristina uses the informal everyday 'you' here with 'myself', as friends and close colleagues do.
-- 'Yes, specially for you.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'on purpose'.
-- 'They look very appetizing.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you want to taste a little?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'do you want', pairing it with 'a bit' and 'to taste'.
-- 'Yes, with great pleasure.' Russian omits the present-tense verb 'to be' here, linking 'great' directly with 'pleasure', combining 'great' with 'pleasure'.
-- 'I am sure you will like it very much.' Notice the self-directed ending on the verb for 'will please', which directs the action back onto the subject.
-- 'Your food is always the best.' Russian omits the present-tense verb 'to be', connecting 'your' directly with 'best'.
+- 'Kristina, do you know one thing?' Setting a plate of sushi down before Kristina, Barinov asks if she knows one thing.
+- 'Which exact thing?' Kristina looks up and asks what thing he means.
+- 'I truly cook not badly.' With understatement, the master chef remarks that he actually cooks pretty well.
+- 'Yes, I know that perfectly well.' Kristina admits she already knows how talented he is.
+- 'These are very tasty rolls.' Viktor points to the plate and says these rolls turned out delicious.
+- 'Did you prepare them yourself?' Surprised that the stubborn French chef made sushi, Kristina asks if he rolled them himself.
+- 'Yes, specially for you.' Barinov says yes, he made them specially for her to honor their deal.
+- 'They look very appetizing.' Kristina admires the plating and admits the rolls look very appetizing.
+- 'Do you want to taste a little?' Viktor invites her to taste one — knowing full well the fish came from the suspect batch.
+- 'Yes, with great pleasure.' Unsuspecting, Kristina replies that she will try them with great pleasure.
+- 'I am sure you will like it very much.' Viktor smiles slyly and says he is sure she will love them.
+- 'Your food is always the best.' Tasting a roll, Kristina praises his cooking as always the best.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "While standing in Claude Monet, waitress Sasha receives a sudden telephone call from restaurant owner Dmitry Nagiyev. Nervously pretending that his small dog Tyson is healthy and playing happily, Sasha asks for the exact breed before realizing they must urgently buy a lookalike. Let's listen to their phone call and aftermath in Russian."
 OPENER = "Let's follow how Sasha manages a stressful telephone inquiry from the restaurant owner."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
 CLOSING = ('sasha', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('max', 'Но где мы найдём такую собаку?', 'But where will we find such a dog?', [(202, 'Куда?')], ''),
 ]
 WALK = [
-    (2, None, "'He runs around and plays very merrily.' Two present tense verbs describe continuous active play with an expressive adverb in the sentence."),
-    (5, None, "'I simply fell in love with this dog.' A self-directed form past tense verb paired with a matching form matching form expresses affectionate admiration."),
-    (8, None, "'He and I get along wonderfully.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (11, None, "'We need to go buy a dog urgently!' A modal everyday construction combined with multiple dependent infinitives conveys immediate urgency. Now, let's hear Sasha's deceptive phone conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'He runs around and plays very merrily.' Sasha desperately paints a picture of a healthy dog to avoid alarming the owner."),
+    (1, None, "'I simply fell in love with this dog.' She pours on the charm, hoping her supposed affection will buy them some time."),
+    (2, None, "'He and I get along wonderfully.' The waitress keeps up the lie about her deep bond with a pet she just met."),
+    (3, None, "'We need to go buy a dog urgently!' Once off the phone, she drops the sweet act and panics over their missing animal problem."),
 ]

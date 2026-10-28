@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, is everything ready for the festive banquet?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, the guests are already sitting at the table.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Has the chef already finished cooking the main dish?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The cooks are just now carrying the roasted goose.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Excellent, it is time to congratulate the birthday girl!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Shall we light beautiful candles on the cake?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, and open the most expensive champagne.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The judge looks very happy today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She is a strict person, but loves attention.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Her husband gave her a magnificent bouquet of flowers.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I hope our restaurant gives her joy.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'All the waiters are ready to greet guests with a smile.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then we begin the celebration at the highest level!' Adverb of time with present everyday verb and superlative matching form.
+- 'Sasha, is everything ready for the festive banquet?' Vika checks on the preparations.
+- 'Yes, the guests are already sitting at the table.' Sasha confirms the attendees are seated.
+- 'Has the chef already finished cooking the main dish?' Vika asks about the primary meal.
+- 'The cooks are just now carrying the roasted goose.' Sasha reports the food is on its way.
+- 'Excellent, it is time to congratulate the birthday girl!' Vika signals the start of the celebration.
+- 'Shall we light beautiful candles on the cake?' Sasha asks about the dessert presentation.
+- 'Yes, and open the most expensive champagne.' Vika orders the premium drinks to be served.
+- 'The judge looks very happy today.' Sasha observes the mood of the guest of honor.
+- 'She is a strict person, but loves attention.' Vika comments on the guest's personality.
+- 'Her husband gave her a magnificent bouquet of flowers.' Sasha mentions a gift the guest received.
+- 'I hope our restaurant gives her joy.' Vika wishes for a successful event.
+- 'All the waiters are ready to greet guests with a smile.' Sasha assures the staff is prepared.
+- 'Then we begin the celebration at the highest level!' Vika officially starts the festivities.

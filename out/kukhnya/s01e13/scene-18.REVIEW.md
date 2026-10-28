@@ -29,4 +29,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Nastya just saw me in here!' A frantic exclamation revealing sudden fear of discovery by a coworker.
 - 'Did you invite our whole restaurant here?' A hyperbolic accusation expressing frustration over lack of privacy.
 - 'My reputation at the restaurant will be ruined.' A dramatic expression of worry concerning professional standing.
-- 'We must leave the building separately.' A cautious instruction intended to prevent coworkers from suspecting a romance. Now, let's hear Victoria and Max settle their departure once more. Now let's listen to the whole conversation again from start to finish.
+- 'We must leave the building separately.' A cautious instruction intended to prevent coworkers from suspecting a romance. Now, let's hear Victoria and Max settle their departure once more.

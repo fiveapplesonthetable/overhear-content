@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, my friend, hop in.' The verb ending here turns the action back onto the listener, meaning 'take a seat'.
-- 'Timur, what are you doing here?' Chef Viktor uses the casual everyday 'you' with 'Timur', as close colleagues and friends do.
-- 'Elena told me to drive you.' In Russian, 'Yelena' leads into 'you' in a very natural everyday phrasing.
-- 'I hope you have a nice friend.' Timur uses the casual everyday 'you' with 'hope so', as close colleagues and friends do.
-- 'Justice is giving someone their due.' The key word here means 'justice', which Max combines with 'this'.
-- 'Cicero said so.' Max starts with 'said' and pairs it with 'Cicero' to make the point clear.
-- 'But that's nonsense.' Max puts 'this' up front so the listener immediately catches the tone, followed by 'nonsense'.
-- 'Cicero didn't live now.' The first content word means 'Cicero', and 'now' rounds out the thought.
-- 'People lie.' You'll hear 'people' all the time in the show, here connected with 'cheat'.
-- 'Someone gets punished for someone else.' Notice the word order: 'someone' comes first, and 'other' finishes the sentence.
-- 'Life is complicated.' Listen for the word meaning 'life' right alongside 'complicated' in this line.
-- 'But there is justice in that.' The first content word means 'that', and 'justice' rounds out the thought.
+- 'Hey, my friend, hop in.' Pulling up outside the restaurant, supplier Timur waves Viktor over and tells him to hop in.
+- 'Timur, what are you doing here?' Expecting Elena, a surprised Barinov asks what Timur is doing here.
+- 'Elena told me to drive you.' Timur explains that Elena asked him to chauffeur the injured chef on his 'errand'.
+- 'I hope you have a nice friend.' Guessing Viktor was hoping for a date, Timur jokes that he hopes Viktor has a nice girlfriend waiting.
+- 'Justice is giving someone their due.' In the closing voiceover, Max quotes the definition of justice as giving each person their due.
+- 'Cicero said so.' He notes that the Roman philosopher Cicero said that centuries ago.
+- 'But that's nonsense.' Max shrugs that in real life, that lofty theory is nonsense.
+- 'Cicero didn't live now.' After all, Cicero never lived in modern-day Moscow.
+- 'People lie.' People cut corners and deceive each other every day.
+- 'Someone gets punished for someone else.' Sometimes one person ends up paying the price for someone else's scheme.
+- 'Life is complicated.' Max concludes that life is a complicated thing.
+- 'But there is justice in that.' Yet somehow, in its own crooked way, justice still finds a way through. Now let us listen to the conversation once again.

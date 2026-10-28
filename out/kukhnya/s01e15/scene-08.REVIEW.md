@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well? Did you talk to Kostya?' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to have a talk'.
-- 'Yes, he begs me not to move.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why does he strongly not want this?' The phrasing opens with 'why' before bringing in 'strongly' and 'wants' to make the point clear.
-- 'He has a problem with money now.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'the money', combining 'now' with 'the money' and 'problem'.
-- 'But you still decided and moved out.' Vika uses the action verb meaning 'make up one’s mind' to focus on the single completed result, pairing it with 'to move out'.
-- 'Yes so fast that I forgot the wallet.' Here Max anchors the line on the word meaning 'quickly' and builds the thought around 'forgot' and 'wallet'.
-- 'And where do you live?' The phrasing opens with 'where' before bringing in 'live' to make the point clear.
-- 'Nowhere for now.' Russian omits the present-tense verb 'to be' here, linking 'bye' directly with 'nowhere', combining 'bye' with 'nowhere'.
-- 'So better nowhere than with me?' Vika turns a statement into a question purely through rising intonation on the word meaning 'there is', pairing it with 'better' and 'nowhere'.
-- 'Well alright, let me come to you.' Max leads with the direct command form meaning 'let's', followed by 'will come'.
-- 'No, you do not need to do me a favor.' The phrasing opens with 'favour' before bringing in 'do' and 'it is necessary' to make the point clear.
-- 'So you will not come?' Max turns a statement into a question purely through rising intonation on the word meaning 'there is', followed by 'to arrive'.
-- 'You understand, it is important that we want.' Vika leads with the direct command form meaning 'understand', pairing it with 'important' and 'wanted'.
+- 'Well? Did you talk to Kostya?' Vika checks in to see if the conversation with Kostya happened.
+- 'Yes, he begs me not to move.' Max confirms, explaining that his friend is pleading with him to stay.
+- 'Why does he strongly not want this?' Curious about the strong reaction, Vika asks why Kostya is so opposed to the move.
+- 'He has a problem with money now.' Explaining the situation, Max points out that his roommate is currently struggling with money.
+- 'But you still decided and moved out.' Vika notes that despite the plea, he went ahead and moved out anyway.
+- 'Yes so fast that I forgot the wallet.' Max admits he left in such a hurry that he actually forgot his wallet behind.
+- 'And where do you live?' Wondering about his current living situation, Vika asks where he is staying now.
+- 'Nowhere for now.' Admitting his homelessness, Max says he has no place to live at the moment.
+- 'So better nowhere than with me?' Vika takes offense, interpreting his situation to mean he would rather be homeless than live with her.
+- 'Well alright, let me come to you.' Giving in, Max casually offers to come over to her place.
+- 'No, you do not need to do me a favor.' Rejecting the half-hearted offer, Vika states she does not want him doing her any favors.
+- 'So you will not come?' Max acts confused, asking if this means she will not be coming over either.
+- 'You understand, it is important that we want.' Vika tries to explain that a relationship only works if both people genuinely want to be together.

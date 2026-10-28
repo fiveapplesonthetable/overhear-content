@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, pour a little water, please.' Max makes a polite request using an command form and a matching form quantifier.
-- 'Kostya will pour for you, and I have no time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wow, I did not know about your children!' Max expresses surprise using an interjection and a past tense verb.
-- 'This is not my daughter, but my niece.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She looks very much like you externally.' Max points out physical similarities with a short form adjective.
-- 'Her name is Alice, and she is a good girl.' Victoria introduces the child with a standard naming construction.
-- 'And why is she talking about our chef?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Because our chef is her own dad!' Victoria reveals the startling truth with an explanatory conjunction.
+- 'Vika, pour a little water, please.' Stopping by the bar, Max politely asks Vika to pour him a little water.
+- 'Kostya will pour for you, and I have no time.' Busy watching the child beside her, Vika tells him Kostya will pour it because she has no time.
+- 'Wow, I did not know about your children!' Spotting the little girl with Vika, Max teases her that he had no idea she had kids.
+- 'This is not my daughter, but my niece.' Vika clarifies that the girl is her niece, not her daughter.
+- 'She looks very much like you externally.' Max remarks that the two of them look a lot alike.
+- 'Her name is Alice, and she is a good girl.' Vika introduces the girl as Alisa and calls her a good kid.
+- 'And why is she talking about our chef?' Hearing Alisa mention Chef Barinov, Max asks why she is talking about their boss.
+- 'Because our chef is her own dad!' Vika drops the surprise: their head chef is actually Alisa's father.
 - 'Can it be that the chef is your close relative?' Max expresses disbelief using a modal word of surprise.
 - 'That is completely none of your business, Max!' Victoria deflects his curiosity with a firm defensive retort.
-- 'Now I understand many strange things.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Go to the kitchen and work quietly!' Victoria sends him back to cooking duties with two command form verbs.
+- 'Now I understand many strange things.' Connecting the dots between Vika's sister and Chef Barinov, Max says a lot of strange things make sense now.
+- 'Go to the kitchen and work quietly!' Annoyed by his nosiness, Vika orders him back to the kitchen to work in silence.

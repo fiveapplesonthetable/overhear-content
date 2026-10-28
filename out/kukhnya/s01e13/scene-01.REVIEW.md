@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, what are you doing right now?' — informal present tense question with a temporal adverb.
-- 'And I want to stay at your place today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'No, it is time for us to take the next step.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you want to get married?' — idiomatic verbal expression for a woman getting married.
-- 'Kostik, you are so funny!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'We will simply spend this evening together.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And we will not tell anyone anything?' — negative future sentence with double negative pronouns.
-- 'This will be our little secret.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I will quickly buy beautiful candles.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Good, make this evening magical!' — informal command form governing an matching form adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Kostya, what are you doing right now?' Nastya asks this playfully. She just wants to know what he is up to.
+- 'And I want to stay at your place today.' She makes her romantic intentions very clear.
+- 'No, it is time for us to take the next step.' Nastya pushes the relationship forward. The Russian literally means it is time to make the next step.
+- 'Do you want to get married?' Kostya panics a little. The phrase he uses specifically means a woman taking a husband.
+- 'Kostik, you are so funny!' She laughs off his panic. The word for funny here can also mean ridiculous.
+- 'We will simply spend this evening together.' Nastya calms him down. She suggests a simple, quiet evening.
+- 'And we will not tell anyone anything?' Kostya wants to make sure this stays between them. In Russian, stacking no and nothing in the same sentence is the standard way to say this.
+- 'This will be our little secret.' She agrees to keep it quiet. Calling it their little secret makes it sound like a fun game.
+- 'I will quickly buy beautiful candles.' Kostya is eager to impress her. He promises to grab some nice candles to set the mood.
+- 'Good, make this evening magical!' Nastya leaves him with a sweet instruction. She wants the night to be magical.

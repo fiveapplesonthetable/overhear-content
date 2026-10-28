@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I broke your car mirror.' Kostya uses the action verb meaning 'broke' to focus on the single completed result, pairing it with 'mirror' and 'cars'.
-- 'Chef, do not believe him at all!' Nastya urgently interrupts to tell the truth.
-- 'I broke your side mirror myself!' Nastya uses the action verb meaning 'broke' to focus on the single completed result, pairing it with 'mirror'.
-- 'Did you both break my mirror together?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'both', pairing it with 'broke' and 'mirror'.
-- 'I was riding a bicycle and grazed it.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I was simply trying to protect Nastya, chef.' Here Kostya anchors the line on the word meaning 'just' and builds the thought around 'wanted' and 'to protect'.
-- 'Chef, please forgive both of us!' Nastya leads with the direct command form meaning 'excuse me', followed by 'both'.
-- 'I was fighting with the neighbor for two days!' Chef Barinov expresses this naturally by combining the word for 'two' with 'days' and 'argued'.
-- 'Go back to work, you clumsy people!' He gruffly dismisses them without punishment.
-- 'Nastya, thank you, you acted very bravely.' Here Kostya anchors the line on the word meaning 'thank you' and builds the thought around 'to enter' and 'very much'.
-- 'And you protected me so nicely, Kostya.' Nastya appreciates his chivalry with gratitude.
-- 'Maybe you will come visit me tonight?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'today' and 'will come'.
-- 'I will gladly come visit you tonight!' Kostya accepts the invitation with excitement.
+- 'Chef, I broke your car mirror.' Kostya repeats his false confession. He insists he is the one who caused the damage.
+- 'Chef, do not believe him at all!' Nastya urgently interrupts to tell the truth. She begs the Chef to ignore Kostya.
+- 'I broke your side mirror myself!' She claims full responsibility. Nastya emphasizes that she did it herself.
+- 'Did you both break my mirror together?' Chef Barinov is utterly confused. He wonders if they somehow did it together.
+- 'I was riding a bicycle and grazed it.' Nastya explains exactly how it happened. She admits she clipped it while riding past.
+- 'I was simply trying to protect Nastya, chef.' Kostya explains his noble motive. He admits he was just trying to shield Nastya.
+- 'Chef, please forgive both of us!' Nastya pleads for mercy. She asks the Chef to pardon them both.
+- 'I was fighting with the neighbor for two days!' Chef Barinov reveals his own exhaustion. He complains about his ongoing feud next door.
+- 'Go back to work, you clumsy people!' He gruffly dismisses them without punishment. Barinov calls them clumsy but lets them go.
+- 'Nastya, thank you, you acted very bravely.' Kostya praises her courage. He admires how bravely she faced the angry Chef.
+- 'And you protected me so nicely, Kostya.' Nastya appreciates his chivalry with gratitude. She thanks him for trying to save her.
+- 'Maybe you will come visit me tonight?' She shyly extends an invitation. Nastya asks if he still wants to come over.
+- 'I will gladly come visit you tonight!' Kostya accepts the invitation with excitement. He happily agrees to the plan.

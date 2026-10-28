@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Сеня | Потому что нельзя брать его нож. | Because no one is allowed to take his knife. | #226: Потому что нельзя брать мой нож | verbatim |
 | 3 | Шеф | Он сказал, что это только его нож. | He said that it is only his knife. | #227: Это мой нож | verbatim |
 | 4 | Сеня | Японский бог, он сейчас всех напугает! | Good heavens, he will scare everyone right now! | #228: Японский бог | verbatim |
-| 5 | Кристина | Я просто хотел быстро нарезать рыбу. | I just wanted to slice the fish quickly. | new | new |
+| 5 | Шеф | Я просто хотел быстро нарезать рыбу. | I just wanted to slice the fish quickly. | new | new |
 | 6 | Сеня | С его острым ножом лучше не шутить. | It is better not to joke with his sharp knife. | new | new |
 | 7 | Шеф | Этот новый повар меня очень бесит. | This new cook really annoys me. | #230: Он меня бесит | verbatim |
 | 8 | Шеф | Он мешает нам нормально работать. | He stops us from working normally. | new | new |

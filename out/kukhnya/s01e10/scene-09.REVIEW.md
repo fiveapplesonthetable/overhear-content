@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Fedya, my dear friend!' Viktor approaches his fish chef with suspicious warmth.
-- 'Chef, why are you so kind?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'kind', combining 'why' with 'kind'.
+- 'Chef, why are you so kind?' Russian leaves out the word for 'to be' here, linking 'why' directly with 'kind', combining 'why' with 'kind'.
 - 'I urgently need your help.' Viktor reveals that he has a special request.
 - 'No, chef, I am completely broke!' Fedya guesses the request and denies having cash.
-- 'Not even a couple of thousand can be found?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'a couple', pairing it with 'thousand' and 'can be found'.
-- 'You still owe me five thousand!' Russian omits the present-tense verb 'to be' here, linking 'still' directly with 'five', combining 'still' with 'five' and 'thousand'.
+- 'Not even a couple of thousand can be found?' Barinov asks this purely through rising tone on the word for 'a couple', pairing it with 'thousand' and 'can be found'.
+- 'You still owe me five thousand!' Russian leaves out the word for 'to be' here, linking 'still' directly with 'five', combining 'still' with 'five' and 'thousand'.
 - 'I will return everything tomorrow morning!' Viktor gives his customary optimistic pledge.
 - 'You always promise that, chef.' Fedya remains skeptical after hearing this many times.
 - 'But today Spartak will definitely win!' Viktor reveals his secret source of guaranteed wealth.
-- 'Spartak is playing against a strong opponent.' Fedya chooses the action verb meaning 'is playing' for the ongoing action, followed by 'strong' and 'rival'.
-- 'They have roster problems!' Russian omits the present-tense verb 'to be' here, linking 'problems' directly with 'lineup', combining 'problems' with 'lineup'.
+- 'Spartak is playing against a strong opponent.' Fedya chooses the word for 'is playing' for the ongoing action, followed by 'strong' and 'rival'.
+- 'They have roster problems!' Russian leaves out the word for 'to be' here, linking 'problems' directly with 'lineup', combining 'problems' with 'lineup'.
 - 'Chef, football is pure lottery.' Fedya argues against risking wages on sporting events.
 - 'Do you not believe in our football?' Viktor accuses him of lacking patriotic faith.
 - 'I believe only in cash money!' Fedya concludes his refusal with practical humor. Now, let us listen to the complete scene again to practice your comprehension.

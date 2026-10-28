@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, this is simply amazing pâté!' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'amazing', followed by 'pâté'.
-- 'Of course, this is my best signature recipe.' Russian omits the present-tense verb 'to be' here, linking 'of course' directly with 'best', pairing it with 'signature' and 'recipe'.
-- 'And what products did you put in there?' The phrasing opens with 'groceries' before bringing in 'there' and 'to put' to make the point clear.
-- 'This is my biggest personal secret.' Russian omits the present-tense verb 'to be' here, linking 'the most' directly with 'big', pairing it with 'personal' and 'secret'.
-- 'Tell me at least one secret ingredient.' Max leads with the direct command form meaning 'tell', pairing it with 'one' and 'secret'.
-- 'You will never guess this by yourself.' Here Chef Barinov anchors the line on the word meaning 'never' and builds the thought around 'will guess'.
-- 'I will be able to make such a masterpiece myself!' Max uses the action verb meaning 'will be able to' to focus on the single completed result, pairing it with 'to cook' and 'masterpiece'.
-- 'Do you seriously want to bet with me?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'seriously', pairing it with 'do you want' and 'to argue'.
-- 'Yes, tonight I will reproduce the dish.' Max puts the word for 'today' together with 'in the evening' and 'will repeat' in a crisp, natural spoken turn of phrase.
-- 'Take a piece so that you can compare your taste.' Chef Barinov leads with the direct command form meaning 'take', pairing it with 'slice' and 'to compare'.
-- 'If I guess, will you give a day off?' Max leads with the direct command form meaning 'will give', pairing it with 'guess' and 'a day off'.
-- 'Fine, if you repeat it, you will get two days off.' Chef Barinov expresses this naturally by combining the word for 'good' with 'repeat' and 'will receive'.
-- 'It is a deal, tonight I will bring my dish!' Max uses the action verb meaning 'agreed' to focus on the single completed result, pairing it with 'in the evening' and 'I will bring'.
+- 'Chef, this is simply amazing pâté!' Max offers high praise here, sounding very enthusiastic about the food he just tried.
+- 'Of course, this is my best signature recipe.' Barinov proudly accepts the compliment, pointing out that this is his ultimate creation.
+- 'And what products did you put in there?' Curiosity takes over as the young cook asks what went into the mysterious mixture.
+- 'This is my biggest personal secret.' Keeping things close to the chest, the chef refuses to share his special trick.
+- 'Tell me at least one secret ingredient.' Begging for a tiny hint, the junior cook hopes to learn just one small detail.
+- 'You will never guess this by yourself.' Dismissing the attempt, the master confidently tells him he lacks the skill to figure it out.
+- 'I will be able to make such a masterpiece myself!' Full of confidence, the young man claims he can recreate the culinary masterpiece on his own.
+- 'Do you seriously want to bet with me?' Barinov challenges his bold claim, asking if he really wants to make a wager out of it.
+- 'Yes, tonight I will reproduce the dish.' Accepting the dare, the ambitious cook promises to have a duplicate ready by the end of the day.
+- 'Take a piece so that you can compare your taste.' Handing over a sample, the boss tells him to use it as a reference for his attempt.
+- 'If I guess, will you give a day off?' Raising the stakes, the challenger asks for a free day off as his reward.
+- 'Fine, if you repeat it, you will get two days off.' The chef agrees and even doubles the prize, confident that the task is impossible.
+- 'It is a deal, tonight I will bring my dish!' Sealing the agreement, the junior cook promises to bring his finished work later.

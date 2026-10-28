@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I did stupid things today.' Kostya puts the word for 'today' together with 'to do' and 'stupid' in a crisp, natural spoken turn of phrase.
-- 'Do not worry, all cooks make mistakes.' Max offers comfort to his distressed roommate.
-- 'But the chef shouted so loudly at me!' The young bartender winces recalling the chef's wrath.
-- 'We cannot help making various mistakes.' Max begins his philosophical reflection on human nature.
-- 'Do you really think that this is normal?' Kostya seeks validation from his thoughtful friend.
-- 'Mistakes are an important part of our life.' Max explains that errors are completely inevitable in life.
-- 'And what can they teach us?' Kostya questions the deeper meaning behind failure.
-- 'They help us find the right path.' Max reveals that blunders guide people toward wisdom.
-- 'So every blunder makes us stronger?' Kostya grasps the encouraging lesson with a smile.
-- 'That is exactly how we become true masters.' Max confirms the path of growth in the craft.
-- 'Then I will not get so upset anymore.' Kostya regains his confidence after the heartfelt conversation.
-- 'The main thing is to remember one's lessons and move forward.' Max expresses this naturally by combining the word for 'main' with 'to remember' and 'lesson'.
-- 'Thank you for the support, you are a great friend.' Kostya appreciates the uplifting encouragement.
-- 'Tomorrow we will show top class in the kitchen!' Max finishes his reflection with bright optimism.
+- 'Max, I did stupid things today.' Kostya sighs, admitting to a series of blunders during his shift.
+- 'Do not worry, all cooks make mistakes.' Max calmly tells his friend that cooking always involves learning.
+- 'But the chef shouted so loudly at me!' Kostya remembers the loud yelling and winces at the memory.
+- 'We cannot help making various mistakes.' Max notes that everyone is bound to slip up sometimes.
+- 'Do you really think that this is normal?' Kostya asks for reassurance that he is not a failure.
+- 'Mistakes are an important part of our life.' Max points out that everyday life is full of lessons.
+- 'And what can they teach us?' Kostya questions the value of getting yelled at.
+- 'They help us find the right path.' Max argues that these moments guide people to improvement.
+- 'So every blunder makes us stronger?' Kostya grasps the silver lining and brightens up slightly.
+- 'That is exactly how we become true masters.' Max agrees, adding that true expertise requires time and patience.
+- 'Then I will not get so upset anymore.' Kostya promises to take the harsh criticism more lightly next time.
+- 'The main thing is to remember one's lessons and move forward.' Max emphasizes the importance of learning from failure and pushing ahead.
+- 'Thank you for the support, you are a great friend.' Kostya expresses gratitude for the much-needed pep talk.
+- 'Tomorrow we will show top class in the kitchen!' Max smiles, looking forward to doing better the next morning.

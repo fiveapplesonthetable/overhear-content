@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Cooks, quickly stand at your places, everyone!' Chef Barinov puts the word for 'cook' together with 'quickly' and 'stand' in a crisp, natural spoken turn of phrase.
-- 'Right now our restaurant is opening its doors for guests.' Here Chef Barinov anchors the line on the word meaning 'now' and builds the thought around 'restaurant' and 'opens'.
-- 'Get started immediately with your work in the kitchen!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, why are you so very angry today?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'today', pairing it with 'very much' and 'evil'.
-- 'The new owner took away all my expensive alcohol!' Chef Barinov puts the word for 'new' together with 'owner' and 'takes it back' in a crisp, natural spoken turn of phrase.
-- 'Did he really forbid you to drink at work?' Max turns a statement into a question purely through rising intonation on the word meaning 'really', pairing it with 'forbade' and 'to drink'.
-- 'Yes, now a dry law is in effect in the kitchen.' The phrasing opens with 'now' before bringing in 'kitchen' and 'is in effect' to make the point clear.
-- 'Without wine it will be hard for you to cook dishes.' Senya expresses this naturally by combining the word for 'of wine' with 'will be' and 'difficult'.
-- 'Enough chatting, start cutting the fresh meat!' Chef Barinov leads with the direct command form meaning 'start', pairing it with 'enough' and 'chatting'.
-- 'I already prepared a delicious sauce for the fish.' Here Max anchors the line on the word meaning 'already' and builds the thought around 'cooked' and 'delicious'.
-- 'And I will now put the hot soup on the stove.' The phrasing opens with 'now' before bringing in 'will set' and 'hot' to make the point clear.
-- 'Today every dish of ours must be ideal.' Chef Barinov expresses this naturally by combining the word for 'today' with 'every' and 'dish'.
-- 'Fine, chef, we will do everything very quickly!' Max puts the word for 'good' together with 'we'll do' and 'very much' in a crisp, natural spoken turn of phrase.
+- 'Cooks, quickly stand at your places, everyone!' Barinov barks at the cooks to take their stations at once.
+- 'Right now our restaurant is opening its doors for guests.' The dining room doors are opening and the first guests are arriving.
+- 'Get started immediately with your work in the kitchen!' Viktor orders everyone to dive straight into their kitchen prep.
+- 'Chef, why are you so very angry today?' Senya cautiously asks why the chef is in such a foul mood today.
+- 'The new owner took away all my expensive alcohol!' Barinov fumes that the new owner confiscated his entire stash of fine liquor.
+- 'Did he really forbid you to drink at work?' Max asks in disbelief whether Igor really banned him from drinking at work.
+- 'Yes, now a dry law is in effect in the kitchen.' Viktor grimly calls the new rule a total 'dry law' in the kitchen.
+- 'Without wine it will be hard for you to cook dishes.' Senya jokes that cooking without wine is going to be tough for the chef.
+- 'Enough chatting, start cutting the fresh meat!' Barinov snaps at them to stop chatting and start slicing the fresh meat.
+- 'I already prepared a delicious sauce for the fish.' Max reports that his fish sauce is already prepped and ready.
+- 'And I will now put the hot soup on the stove.' Senya quickly adds that he is putting the hot soup on the stove right now.
+- 'Today every dish of ours must be ideal.' With the new boss watching, Viktor demands perfection on every single plate.
+- 'Fine, chef, we will do everything very quickly!' Max promises that the team will get everything out fast.

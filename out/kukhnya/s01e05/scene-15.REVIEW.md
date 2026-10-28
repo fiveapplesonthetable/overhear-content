@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, it seems the end has come for me now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Keep quiet and listen to the jury' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Victoria chose this first dish in particular.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And the second fish she called awful?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She didn' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Congratulations, our cook won fairly today!' Performative present verb with subject noun phrase, manner adverb, and past verb.
-- 'Thank you very much for the great, fair evaluation.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Lord, how incredibly delicious this is!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Chef, let me taste a little too.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wait, I haven' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And the losing cook must finish eating everything himself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I hope our guests will remain very pleased.' Parenthetic present verb introducing coordinated future action verb and everyday adjective complement.
+- 'Chef, it seems the end has come for me now.' Max nervously anticipates a harsh judgment.
+- 'Keep quiet and listen to the jury' Barinov commands silence before announcing the result.
+- 'Victoria chose this first dish in particular.' Barinov reveals the manager's favorite plate.
+- 'And the second fish she called awful?' Max anxiously asks for feedback on the other entry.
+- 'She didn' Barinov reports the brutal feedback on the loser's effort.
+- 'Congratulations, our cook won fairly today!' Barinov happily declares the official winner of the bet.
+- 'Thank you very much for the great, fair evaluation.' Max expresses sarcastic gratitude for the devastating review.
+- 'Lord, how incredibly delicious this is!' Barinov excitedly praises the winning entry.
+- 'Chef, let me taste a little too.' Max humbly requests a bite of the superior creation.
+- 'Wait, I haven' Barinov selfishly refuses to share his prize.
+- 'And the losing cook must finish eating everything himself.' Barinov gleefully announces the punishment for the loser.
+- 'I hope our guests will remain very pleased.' Max tries to save face by focusing on customer satisfaction.

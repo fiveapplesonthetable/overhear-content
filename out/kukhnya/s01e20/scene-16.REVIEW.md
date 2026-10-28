@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not need them anymore.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'they' straight to 'needed'.
-- 'Here, take it, old man.' Max leads with the direct command form meaning 'hang in there', followed by 'old man'.
-- 'You need it more than I do.' Max delivers a punchy one-word reaction built around the Russian word meaning 'more needed'.
-- 'You are a very kind person.' Russian omits the present-tense verb 'to be', connecting 'you' directly with 'a man'. Now let's listen to the whole conversation again from start to finish.
+- 'I do not need them anymore.' Max drunkenly decides he has no use for his possessions now.
+- 'Here, take it, old man.' Max hands his expensive ring over to a random homeless man.
+- 'You need it more than I do.' Max insists the stranger will get more value out of it.
+- 'You are a very kind person.' old man sincerely thanks him for the incredible generosity.

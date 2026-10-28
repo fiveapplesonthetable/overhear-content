@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our stove has now gone for diagnostics.' The personified past tense verb creates a humorous deflection about absent equipment in the kitchen.
+- 'Our stove has now gone for diagnostics.' Barinov repeats his lie to her.
 - 'It did not have time to leave you a note!' An absurd comedic excuse attributing human actions to an inanimate appliance for the listener.
-- 'Stop clowning around and return it immediately!' Two urgent imperatives reject playful banter and demand direct compliance for the restaurant.
-- 'I will call Dmitry Nagiyev right now.' A future tense threat invoking the restaurant owner's authority to enforce discipline. Now, let's listen to Victoria and Barinov's sharp exchange once more. Now let's listen to the whole conversation again from start to finish.
+- 'Stop clowning around and return it immediately!' Vika demands the equipment back immediately.
+- 'I will call Dmitry Nagiyev right now.' Vika threatens to call 'Dmitry Nagiyev'.

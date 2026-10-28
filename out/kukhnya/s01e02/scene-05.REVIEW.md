@@ -28,17 +28,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Why can't we buy such a knife?' Nastya wonders why replacing the tool is so complicated.
-- 'You can't buy such a knife in a hurry.' Senya explains using the impersonal verb indicating that something will not work out.
-- 'And how much does it cost?' The phrasing opens with 'how much' before bringing in 'costs' to make the point clear.
-- 'This is an expensive Japanese knife.' Russian omits the present-tense verb 'to be' here, linking 'expensive' directly with 'Japanese', combining 'expensive' with 'Japanese' and 'knife'.
-- 'The chef ordered it for a very long time.' Senya puts the word for 'chef' together with 'ordered' and 'very' in a crisp, natural spoken turn of phrase.
-- 'And is it very sharp?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'very', followed by 'sharp'.
-- 'The sharpest knife in the kitchen.' A superlative construction meaning 'the most sharp'.
-- 'Where could it possibly be?' The emphatic word adds urgency to the question.
-- 'We already looked everywhere.' Senya puts the word for 'already' together with 'everywhere' and 'searched' in a crisp, natural spoken turn of phrase.
-- 'Maybe someone took it home?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'maybe', pairing it with 'took' and 'home'.
-- 'Nobody would dare do that.' The verb expresses courage or audacity to commit a forbidden act.
-- 'The chef will fire everyone immediately.' Senya expresses this naturally by combining the word for 'chef' with 'immediately' and 'will fire'.
-- 'Come on, look for the knife quickly.' A renewed push to continue the kitchen search.
-- 'All right.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'all right'.
-- 'I will look here.' Nastya uses the action verb meaning 'will look' to focus on the single completed result, pairing it with 'here'. Now let's listen to the whole conversation again from start to finish.
+- 'You can't buy such a knife in a hurry.' Senya explains that buying such a blade in a hurry is impossible.
+- 'And how much does it cost?' Nastya asks about the price of the item.
+- 'This is an expensive Japanese knife.' Senya points out that it is an expensive Japanese knife.
+- 'The chef ordered it for a very long time.' Senya mentions that the head cook ordered it and waited a very long time.
+- 'And is it very sharp?' Nastya inquires if the knife is extremely sharp.
+- 'The sharpest knife in the kitchen.' Senya confirms it is the sharpest piece of equipment in the kitchen.
+- 'Where could it possibly be?' Nastya wonders where the missing object could possibly be hidden.
+- 'We already looked everywhere.' Senya states that they have already searched everywhere.
+- 'Maybe someone took it home?' Nastya asks if maybe someone took it home.
+- 'Nobody would dare do that.' Senya believes nobody would dare to do that.
+- 'The chef will fire everyone immediately.' Senya warns that Barinov will fire everyone immediately.
+- 'Come on, look for the knife quickly.' Senya urges her to keep looking for the knife quickly.
+- 'All right.' Nastya agrees with a short confirmation.
+- 'I will look here.' Nastya decides to search in her current area.

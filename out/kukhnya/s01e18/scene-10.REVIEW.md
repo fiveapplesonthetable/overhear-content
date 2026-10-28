@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Do you hear what I am saying?' Fedya makes sure the miserable Senya is paying attention.
 - 'You need to drink something strong.' He advises Senya to find a strong drink at the bar.
 - 'Alright, I will go look for some at the bar now.' Senya agrees to go search for a drink.
-- 'If I survive, I will stop stealing food!' Miserable and regretful, Senya vows to give up pilfering kitchen ingredients.
+- 'If I survive, I will stop stealing food!' Miserable and regretful, Senya vows to give up pilfering kitchen ingredients. Now let's listen to the conversation again without interruption.

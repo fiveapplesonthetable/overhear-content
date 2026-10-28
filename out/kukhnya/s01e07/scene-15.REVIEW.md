@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, please taste this hot dish.' The nervous cook invites his mentor to sample the food.
-- 'Give the plate here, I will taste it now.' Barinov prepares to evaluate the culinary attempt.
-- 'Very tasty, we can serve it to the guests.' The head chef gives his rare and coveted approval.
-- 'Are you really telling me the pure truth?' Max cannot believe he is receiving genuine praise.
-- 'Yes, the dish turned out truly magnificent.' Barinov confirms the high quality of the cooking.
-- 'Chef, you are smiling so joyfully now!' Max points out the unusual happiness on Barinov's face.
-- 'Why, can a cook no longer smile?' The chef defends his right to show positive emotion.
-- 'Do not smile like that, you look like a clown.' Max delivers a cheeky observation about the grin.
-- 'Be quiet right now, insolent rump!' Barinov snaps back with his familiar kitchen insult.
-- 'From this moment on, all truth is canceled!' The head chef declares the end of brutal honesty.
-- 'I understood you, we return to work.' Max uses the action verb meaning 'understood' to focus on the single completed result, pairing it with 'we return' and 'work'.
-- 'And one more important word, Maxim.' Barinov calls him by his real name to deliver a message.
-- 'Thank you for the excellent work in the kitchen.' A quiet moment of sincere gratitude from the master.
-- 'Thank you very much, chef!' Max warmly thanks his tough mentor for the acknowledgement. Alright, let's hear the whole thing once more.
+- 'Chef, please taste this hot dish.' Max nervously presents his work. He hopes the boss will actually like it.
+- 'Give the plate here, I will taste it now.' Barinov grabs it without hesitation. He is ready to find flaws in the young cook's attempt.
+- 'Very tasty, we can serve it to the guests.' Barinov is pleasantly surprised. He gives a straightforward approval, which is incredibly rare for him.
+- 'Are you really telling me the pure truth?' Max is shocked by the compliment. He wonders if the chef is just playing a trick on him.
+- 'Yes, the dish turned out truly magnificent.' Barinov doubles down on the praise. He uses a strong word like "magnificent" to show his genuine appreciation.
+- 'Chef, you are smiling so joyfully now!' Max pushes his luck by pointing out the chef's good mood. He is amazed to see his boss actually look happy.
+- 'Why, can a cook no longer smile?' Barinov defensively questions the observation. He tries to act like his smile is perfectly normal.
+- 'Do not smile like that, you look like a clown.' Max immediately regrets his cheeky comment. He teases the boss about his unnatural expression.
+- 'Be quiet right now, insolent rump!' Barinov instantly reverts to his angry self. He uses his favorite nickname to put Max back in his place.
+- 'From this moment on, all truth is canceled!' Barinov officially ends his experiment with brutal honesty. He decides the truth is just too annoying.
+- 'I understood you, we return to work.' Max wisely backs down. He gets the message and drops the joke.
+- 'And one more important word, Maxim.' Barinov pauses to say something serious. He even uses Max's real name instead of an insult.
+- 'Thank you for the excellent work in the kitchen.' Barinov expresses sincere gratitude for the help. It is a rare moment of humility from the proud chef.
+- 'Thank you very much, chef!' Max warmly accepts the thanks. He is touched by the master's acknowledgement.

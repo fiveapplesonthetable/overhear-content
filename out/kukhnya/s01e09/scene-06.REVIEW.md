@@ -28,16 +28,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Max, faster! It is time to add the eggs.' Louis urges his kitchen assistant with impatient energy.
-- 'Louis, I am doing everything according to the recipe.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Usually I make the filling right away.' The phrasing opens with 'usually' before bringing in 'make' and 'filling' to make the point clear.
+- 'Louis, I am doing everything according to the recipe.' Max assures the fussy pastry chef that he is following the recipe step by step.
+- 'Usually I make the filling right away.' Louis explains that he normally prepares the cake filling right from the start.
 - 'Stir evenly, so there are no lumps.' Louis explains the proper stirring technique.
-- 'How much chocolate needs to be melted?' Max puts the word for 'how much' together with 'chocolate' and 'it is necessary' in a crisp, natural spoken turn of phrase.
+- 'How much chocolate needs to be melted?' Checking the next step, Max asks how much chocolate he needs to melt.
 - 'And melt the chocolate in a water bath.' Louis gives specific instructions on heating.
 - 'All right, white or dark chocolate?' Max checks which variety to use for the dessert.
-- 'Only white, for the bank logo!' Russian omits the present-tense verb 'to be' here, linking 'only' directly with 'white', combining 'only' with 'white' and 'logo'.
-- 'Oh, the phone is ringing, one second.' Louis puts the word for 'oh' together with 'phone' and 'is ringing' in a crisp, natural spoken turn of phrase.
-- 'Hello? No, right now I am in the kitchen.' Russian omits the present-tense verb 'to be' here, linking 'hello' directly with 'right now', combining 'hello' with 'right now' and 'kitchen'.
-- 'Louis, I finished whipping the cream.' Max uses the action verb meaning 'finished' to focus on the single completed result, pairing it with 'whipping' and 'cream'.
+- 'Only white, for the bank logo!' Louis specifies that only white chocolate will do for the bank's logo on top.
+- 'Oh, the phone is ringing, one second.' Hearing his phone ring, Louis excuses himself for a second.
+- 'Hello? No, right now I am in the kitchen.' Answering the call, Louis tells the caller he cannot talk long because he is in the kitchen.
+- 'Louis, I finished whipping the cream.' Once Louis hangs up, Max reports that he has finished whipping the cream.
 - 'Oh, thank you, great job!' Louis compliments his assistant with warm praise.
 - 'Wait, where is my favorite knife?' Louis looks around in confusion for his tool.
 - 'I did not touch your knife, Louis.' Max denies taking the missing kitchen knife. Now, let us listen to the complete scene again to practice your comprehension.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, did you already bring that belt?' Fedya turns a statement into a question purely through rising intonation on the word meaning 'already', pairing it with 'brought' and 'belt'.
-- 'Just do not eat it all at once by yourself!' Fedya leads with the direct command form meaning 'eat', combining 'only' with 'at once' and 'one'.
-- 'Leave a small piece for me too.' Fedya leads with the direct command form meaning 'keep', pairing it with 'short' and 'slice'.
-- 'You are joking very amusingly today.' Senya expresses this naturally by combining the word for 'very much' with 'ridiculous' and 'today'.
+- 'Senya, did you already bring that belt?' Wait — after tricking Senya into switching sides of the bet, Fedya asks if Senya brought the belt.
+- 'Just do not eat it all at once by yourself!' Fedya teases his friend not to gobble the whole leather strap down at once.
+- 'Leave a small piece for me too.' He jokes that Senya should save a little piece of leather for him too.
+- 'You are joking very amusingly today.' Annoyed, Senya sarcastically praises Fedya's sense of humor today.
 - 'I will slice it finely with a knife first.' Senya plans to cut the leather into tiny strips.
-- 'And then I will calmly eat it all.' The action verb verb means 'I will eat it all up'.
-- 'Yes, you thought of everything rightly.' The phrasing opens with 'right' before bringing in 'came up with' to make the point clear.
-- 'Just tenderize it well first!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'And then I will calmly eat it all.' Senya says that once he slices the leather thin enough, he will calmly eat it all.
+- 'Yes, you thought of everything rightly.' Fedya grins and says Senya has the right strategy.
+- 'Just tenderize it well first!' He suggests pounding the leather with a meat mallet first to soften it.
 - 'Otherwise it will be very tough.' Fedya warns that the leather will be hard to chew.
-- 'Just like your steak from yesterday!' Russian omits the present-tense verb 'to be' here, linking 'right' directly with 'how', combining 'right' with 'how' and 'yesterday's'.
+- 'Just like your steak from yesterday!' Fedya takes a jab at Senya by comparing the tough leather to Senya's steak from yesterday.
 - 'My meat dishes are always delicious!' As the meat chef, Senya proudly defends his steaks.
-- 'Leave me alone, did you understand?' Senya leads with the direct command form meaning 'leave alone', followed by 'understood?'.
-- 'Got it, I wish you a good appetite!' Fedya leaves him with a parting joke.
+- 'Leave me alone, did you understand?' Senya loses his patience at the teasing and snaps at Fedya to back off.
+- 'Got it, I wish you a good appetite!' Fedya leaves him with a parting joke. Now listen to the kitchen banter between Senya and Fedya again.

@@ -12,8 +12,8 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
 INTRO = 'Max proudly presents his dessert for Eleonora Andreyevna, only to discover that she is a dog, and she completely refuses to eat sweet pastry! Indignant, Max challenges the Chef to a high-stakes bet. Listen to the dialogue in Russian first, then we will break down each line in English.'
 OPENER = 'Now let us go through the scene line by line to understand every expression.'
-TRANSITION = "Now let's listen to the conversation again without interruption."
-OUTRO = 'The stakes could not be higher: Max must cook a dish that truly impresses Chef Viktor Barinov, or lose his place at Claude Monet for good. See you then!'
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
+OUTRO = 'The stakes could not be higher: Max must cook a dish that truly impresses Chef Viktor Barinov, or lose his place at Claude Monet for good. See you next time!'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Шеф, праздничный десерт уже готов!', 'Chef, the festive dessert is already ready!', [(244, 'Десерт'), (244, 'готов')], ''),
@@ -32,22 +32,22 @@ STORY = [
     ('barinov', 'Посмотрим, какой из тебя повар!', 'We will see what kind of cook you are!', [(274, 'Папочка готовить будет')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, the festive dessert is already ready!' Max announces completion with the short adjective."),
-    (1, 'Все внимание!', "'Attention everyone!' The chef calls out to gather the kitchen staff."),
-    (1, 'Гостья пробует блюдо новичка.', "'The guest is tasting the newcomer' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, 'Иди сюда, милая собачка!', "'Come here, sweet little doggy!' The chef reveals the guest is actually a dog."),
-    (2, 'Попробуй десерт.', "'Taste the dessert.' Chef Barinov leads with the direct command form meaning 'taste', followed by 'dessert'."),
-    (3, None, "'She doesn't even look at the plate.' The verb takes the preposition for directing attention."),
-    (4, 'Шеф, это нечестно!', "'Chef, that is unfair!' An adverb expressing indignation at the unfair test."),
-    (4, 'Это же собака.', "'After all, it is a dog.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (5, None, "'The world is not ideal at all, young man.' Russian omits the present-tense verb 'to be' here, linking 'world' directly with 'at all', combining 'world' with 'at all' and 'ideal'."),
-    (6, None, "'Let' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (7, None, "'What will we bet about?' the matching word ending question form asks for the terms."),
-    (8, None, "'An ordinary person will like my hot dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, 'Хорошо!', "'Good!' The chef accepts the idea of a culinary challenge."),
-    (9, 'Ты приготовишь блюдо для меня.', "'You will cook a dish for me.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (10, None, "'If I like it, you stay here.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (11, None, "'If not, you will leave here forever.' The future verb states the severe penalty for defeat."),
-    (12, None, "'I agree to this bet!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (13, None, "'We will see what kind of cook you are!' An idiomatic phrase expressing anticipation of the trial. Alright, let's hear the whole thing once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Chef, the festive dessert is already ready!' Max excitedly announces that his masterpiece is fully plated."),
+    (1, None, "'Attention everyone!' Chef Barinov calls the staff over for a public spectacle."),
+    (2, None, "'The guest is tasting the newcomer' He directs all eyes to the dramatic tasting moment."),
+    (3, None, "'Come here, sweet little doggy!' Chef Barinov shockingly summons a canine to evaluate the food."),
+    (4, None, "'Taste the dessert.' He playfully encourages the animal to eat the fancy pastry."),
+    (5, None, "'She doesn't even look at the plate.' Chef Barinov points out the dog's complete lack of interest."),
+    (6, None, "'Chef, that is unfair!' Max bursts out in anger at the rigged evaluation."),
+    (7, None, "'After all, it is a dog.' He points out the absurdity of feeding sweets to a pet."),
+    (8, None, "'The world is not ideal at all, young man.' Chef Barinov smugly dismisses the complaint with a cynical life lesson."),
+    (9, None, "'Let' Max angrily challenges his boss to a real contest."),
+    (10, None, "'What will we bet about?' Chef Barinov pauses, intrigued by the rookie's sudden boldness."),
+    (11, None, "'An ordinary person will like my hot dish.' Max wagers that any human being would love his cooking."),
+    (12, None, "'Good!' Chef Barinov accepts the premise of the challenge."),
+    (13, None, "'You will cook a dish for me.' He decides to be the final judge of the boy's talent."),
+    (14, None, "'If I like it, you stay here.' Chef Barinov reiterates the reward of permanent employment."),
+    (15, None, "'If not, you will leave here forever.' He clearly states the devastating consequence of failure."),
+    (16, None, "'I agree to this bet!' Max fearlessly accepts the all-or-nothing deal."),
+    (17, None, "'We will see what kind of cook you are!' Chef Barinov looks forward to destroying the young man's ego."),
 ]

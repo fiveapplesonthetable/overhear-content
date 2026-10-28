@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Careful, where are you hiding the poor dog?' Vika puts the word for 'careful' together with 'where to' and 'hide' in a crisp, natural spoken turn of phrase.
-- 'Here in the locker room nobody will find her.' Max suggests a temporary hiding spot among the staff lockers.
-- 'My God, what will I tell Dmitry?' Victoria worries about facing the furious restaurant owner.
-- 'Tell him the truth, that the dog simply ran away.' Max devises a quick cover story to buy them time.
-- 'Dmitry Vladimirovich will be simply furious!' Victoria anticipates an explosive reaction from Nagiyev.
-- 'Calm down, she will soon come to her senses herself.' Max reassures her that the animal is merely stunned.
-- 'Why are you standing in front of me without pants?' Victoria suddenly notices Max's complete lack of trousers.
-- 'My jeans are being washed in the machine right now.' Max expresses this naturally by combining the word for 'jeans' with 'now' and 'are being washed'.
-- 'Put at least something on yourself quickly!' Victoria demands that he cover up immediately.
-- 'First let us carefully put the dog here.' Max prioritizes concealing the unconscious pet.
-- 'Fine, put her quietly on the bottom shelf.' Victoria points out an out-of-the-way locker.
-- 'Everything will be fine, nobody will find out anything!' Max offers confident comfort to calm her nerves.
+- 'Careful, where are you hiding the poor dog?' Vika walks into the locker room and catches Max doing something incredibly suspicious.
+- 'Here in the locker room nobody will find her.' Max explains his desperate plan to stash the unconscious dog where no one looks.
+- 'My God, what will I tell Dmitry?' Vika panics, realizing she will have to answer to the restaurant owner.
+- 'Tell him the truth, that the dog simply ran away.' Max suggests a simple lie about the dog escaping on its own.
+- 'Dmitry Vladimirovich will be simply furious!' She imagines Nagiyev's terrifying reaction to losing his beloved pet.
+- 'Calm down, she will soon come to her senses herself.' Max tries to reassure her that the dog will wake up perfectly fine soon.
+- 'Why are you standing in front of me without pants?' Vika suddenly notices that Max is standing there half-naked.
+- 'My jeans are being washed in the machine right now.' Max sheepishly explains his pants are in the laundry after the dog incident.
+- 'Put at least something on yourself quickly!' She demands he cover up his embarrassing state immediately.
+- 'First let us carefully put the dog here.' Max insists they prioritize hiding the animal before dealing with his wardrobe.
+- 'Fine, put her quietly on the bottom shelf.' Vika reluctantly agrees, pointing to a secluded spot for the dog.
+- 'Everything will be fine, nobody will find out anything!' Max confidently promises that their disastrous secret is completely safe.

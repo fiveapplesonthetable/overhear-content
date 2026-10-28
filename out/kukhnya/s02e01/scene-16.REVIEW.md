@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a bunch of idiots?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'disabled person'.
-- 'Which idiot left a plate here?' Here Chef Barinov anchors the line on the word meaning 'idiot' and builds the thought around 'plate' and 'here'.
+- 'What a bunch of idiots?' Sober and furious, Barinov storms in and insults the whole crew.
+- 'Which idiot left a plate here?' He spots a stray plate and demands to know which idiot left it out.
 - 'Do I have to keep an eye on everything?' Russian builds this impersonally with the matching word ending ('to me' or 'to you') and 'it is necessary'.
-- 'You have half an hour to clean everything.' To express possession, Russian uses the preposition 'by' plus the matching word ending word followed by 'to remove'.
+- 'You have half an hour to clean everything.' Viktor gives the staff half an hour to scrub the entire kitchen spotless.
 - 'He has completely lost his mind.' Literally, 'his roof has completely slid off' — the classic Russian idiom for going crazy.
-- 'We need to urgently give him a drink.' Here Fedya anchors the line on the word meaning 'it is necessary' and builds the thought around 'urgent' and 'to give'.
-- 'But how? There are cameras all around here.' Russian omits the present-tense verb 'to be', connecting 'yes' directly with 'all around'.
-- 'Well, who else came there?' Chef Barinov expresses this naturally by combining the word for 'there' with 'more' and 'came'.
-- 'Chef, do you want to drink some tea?' Lyova turns a statement into a question purely through rising intonation on the word meaning 'want', pairing it with 'to drink' and 'some tea'.
-- 'What the hell kind of tea?' Russian omits the present-tense verb 'to be', connecting 'what a' directly with 'tea'.
-- 'Get out, I told you!' Chef Barinov uses the action verb meaning 'let's go' to focus on the single completed result, pairing it with 'said'.
-- 'Chef, please try this tea.' Lyova uses a direct command command form of the verb meaning 'try'.
-- 'Chef, you will definitely like it.' Lyova puts the word for 'surely' together with 'will please' in a crisp, natural spoken turn of phrase.
+- 'We need to urgently give him a drink.' Fedya whispers that they urgently need to get a drink into the chef to calm him down.
+- 'But how? There are cameras all around here.' Lyova reminds him that they cannot pour liquor openly with security cameras everywhere.
+- 'Well, who else came there?' Hearing whispers, Barinov barks to ask who else just walked in.
+- 'Chef, do you want to drink some tea?' Lyova approaches cautiously and offers the chef a cup of tea.
+- 'What the hell kind of tea?' Viktor explodes, asking why on earth he would want tea.
+- 'Get out, I told you!' He yells at them to get out of his sight.
+- 'Chef, please try this tea.' Lyova gently insists that the chef take just one sip of this special tea.
+- 'Chef, you will definitely like it.' Dropping a hint, Lyova promises that Viktor will definitely enjoy what is in the cup.

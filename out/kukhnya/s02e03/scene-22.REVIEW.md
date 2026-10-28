@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to apologize.' The first content word means 'I', and 'to apologise' rounds out the thought.
-- 'A lot of problems because of me.' Notice the word order: 'pile' comes first, and 'me' finishes the sentence.
-- 'Drive me for an important matter.' Notice the word order: 'take' comes first, and 'case' finishes the sentence.
-- 'I will send the address.' Listen for the word meaning 'I' right alongside 'will send' in this line.
-- 'You lost the bet. Five thousand?' In Russian, 'lose a bet' leads into 'thousand' in a very natural everyday phrasing. Senya answers straight away.
-- 'What?' Senya starts with 'what?' and pairs it with 'what?' to make the point clear.
-- 'We bet.' Fedya puts 'we' up front so the listener immediately catches the tone, followed by 'to argue'.
-- 'If a person could eat a belt.' Fedya starts with 'can' and pairs it with 'a man' to make the point clear. Then Senya replies.
-- 'Yes.' Senya puts 'yes' up front so the listener immediately catches the tone, followed by 'yes'.
-- 'You proved they could.' Listen for the word meaning 'you' right alongside 'to prove' in this line.
-- 'Pay up.' Here 'chase away' sets up the idea, while 'money' comes at the end for emphasis. And Senya jumps in.
-- 'I will kill you.' Senya uses the casual everyday 'you' with 'I', as close colleagues and friends do.
+- 'I wanted to apologize.' Calling Elena on the phone, Barinov says he wanted to apologize for earlier.
+- 'A lot of problems because of me.' He admits she has dealt with a pile of trouble today because of him.
+- 'Drive me for an important matter.' Then he slyly asks her to drive him on one 'important errand' across town.
+- 'I will send the address.' He promises to text her the address right away.
+- 'You lost the bet. Five thousand?' Back in the kitchen, after watching the guest force Senya to eat the belt, Fedya asks for his five thousand rubles. Senya answers straight away.
+- 'What?' Still recovering from chewing leather, Senya stares at him and asks 'what?'.
+- 'We bet.' Fedya reminds him of the exact wording of their bet.
+- 'If a person could eat a belt.' They bet on whether a human being could eat a leather belt. Then Senya replies.
+- 'Yes.' Senya reluctantly mutters 'yes'.
+- 'You proved they could.' Fedya grins and points out that Senya himself just proved a person can eat one.
+- 'Pay up.' Laughing, Fedya tells him to cough up the five grand. And Senya jumps in.
+- 'I will kill you.' Outraged by the loophole, Senya vows to kill him. Now let us listen to the conversation once again.

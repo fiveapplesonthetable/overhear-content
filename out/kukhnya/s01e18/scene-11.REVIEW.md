@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Well yes, that is completely right.' In this moment, Chef Viktor nods eagerly, expecting to be put back in charge.
 - 'That person is right here among us.' Nagiyev builds suspense in front of the staff.
 - 'Dima, I am always ready to help.' In response, Viktor steps forward to accept the role.
-- 'This is my wife Kristina.' Instead, Nagiyev surprises everyone by naming Kristina as the new boss.
+- 'This is my wife Kristina.' Instead, Nagiyev surprises everyone by naming Kristina as the new boss. Now let's listen to the scene again without interruption.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This inspector refused to drink our wine!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, what are we to do now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Since we cannot give him drink, we will feed him!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you want to add alcohol to food?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Louis, prepare a dessert with cognac for him!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'How many spoonfuls of cognac to add to the cream?' Here Louis anchors the line on the word meaning 'how much' and builds the thought around 'spoons' and 'cognac'.
-- 'Pour from the heart, do not spare cognac!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And how to deal with hot dishes?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will generously pour dry wine into the meat.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The inspector will definitely taste strong alcohol.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He will not notice anything in the sauce!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, this is a very daring and dangerous plan.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'At least our restaurant will be saved, work!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
+- 'This inspector refused to drink our wine!' Outraged that his brilliant tactic failed, Barinov curses the complimentary booze.
+- 'Chef, what are we to do now?' Louis asks for guidance as their primary method of bribery is off the table.
+- 'Since we cannot give him drink, we will feed him!' Declaring a devious alternative, Barinov decides to intoxicate the stubborn official with food.
+- 'Do you want to add alcohol to food?' Realizing the plot, Louis confirms the chef plans to sneak liquor into the actual dishes.
+- 'Louis, prepare a dessert with cognac for him!' Barinov orders his pastry chef to spike the sweet course heavily.
+- 'How many spoonfuls of cognac to add to the cream?' Assuming a standard culinary dash, Louis asks for precise measurements.
+- 'Pour from the heart, do not spare cognac!' Commanding him to dump it in, Barinov says to use booze without holding back.
+- 'And how to deal with hot dishes?' Louis inquires how they will lace the savory courses of the meal.
+- 'We will generously pour dry wine into the meat.' Plotting a heavy reduction, Barinov plans to saturate the main course with an excessive wine.
+- 'The inspector will definitely taste strong alcohol.' Warning of the obvious taste, Louis notes that such massive amounts of liquor will be noticeable.
+- 'He will not notice anything in the sauce!' He arrogantly assuming success, Barinov claims his rich sauces will mask the heavy boozy punch.
+- 'Chef, this is a very daring and dangerous plan.' Expressing deep concern, Louis worries about intentionally drugging a government official.
+- 'At least our restaurant will be saved, work!' He is justifying the extreme risk, Barinov sees it as the only way to avoid closure.

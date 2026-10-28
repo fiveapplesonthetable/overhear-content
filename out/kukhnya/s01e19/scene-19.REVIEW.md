@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does that mean yes?' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'yes'.
-- 'Yes.' A crisp, everyday conversational reply meaning 'yes' that you will hear constantly in Russian dialogue.
-- 'I am so glad.' Max delivers a punchy one-word reaction built around the Russian word meaning 'glad'.
-- 'I am also glad.' Russian omits the present-tense verb 'to be' here, linking 'too' directly with 'glad', combining 'too' with 'glad'.
-- 'Now we are together.' Russian omits the present-tense verb 'to be', connecting 'now' directly with 'together'.
-- 'Yes, we are together.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'together'.
-- 'This is wonderful.' Max delivers a punchy one-word reaction built around the Russian word meaning 'perfectly'.
-- 'Very.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'very much'.
-- 'I love you.' Max delivers a punchy one-word reaction built around the Russian word meaning 'love'.
-- 'I love you, Max.' Vika uses the informal everyday 'you' here with 'Max', as friends and close colleagues do.
-- 'Finally.' Max delivers a punchy one-word reaction built around the Russian word meaning 'at last'.
-- 'I am so glad, Max.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'I' straight to 'Max'.
+- 'Does that mean yes?' Max hopes her hesitation means yes.
+- 'Yes.' Vika confirms her answer with a simple yes.
+- 'I am so glad.' Max expresses how incredibly glad he is.
+- 'I am also glad.' Vika shares his happiness and relief.
+- 'Now we are together.' Max states that they are now officially together.
+- 'Yes, we are together.' Vika agrees they are together.
+- 'This is wonderful.' Max finds this new development wonderful.
+- 'Very.' Vika thinks it is very wonderful as well.
+- 'I love you.' Max tells her that he loves her.
+- 'I love you, Max.' Vika returns his declaration of love.
+- 'Finally.' Max feels relieved that they finally figured things out.
+- 'I am so glad, Max.' Vika tells Max she is very glad they are together.

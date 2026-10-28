@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you acting like a little girl?' Dmitry uses the informal everyday 'you' here with 'girl', as friends and close colleagues do.
-- 'Go ahead, do whatever you want.' Chef Barinov leads with the direct command form meaning 'let's', pairing it with 'do' and 'want'.
-- 'You can quit at any moment.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But who will pay your bills?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will always be able to find work.' Chef Barinov puts the word for 'always' together with 'will be able to' and 'to find' in a crisp, natural spoken turn of phrase.
-- 'Your daughter studies in Paris.' Here Nagiyev anchors the line on the word meaning 'daughter' and builds the thought around 'to study'.
-- 'This costs twenty thousand a year.' Nagiyev chooses the action verb meaning 'is parked' for the ongoing action, followed by 'twenty' and 'thousand'.
-- 'I know my debts.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They will kick you out after the first drinking binge.' Dmitry uses the informal everyday 'you' here with 'drinking party', as friends and close colleagues do.
-- 'No one will tolerate your character.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Alright, pour.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to pour'.
-- 'Here, let's just drink and talk.' The key word here means 'let's', which Dmitry combines with 'just'.
+- 'Why are you acting like a little girl?' Nagiyev mocks the chef's dramatic exit, comparing his behavior to a child throwing a tantrum.
+- 'Go ahead, do whatever you want.' Chef Barinov angrily tells him to do whatever he pleases without him.
+- 'You can quit at any moment.' Nagiyev points out that walking away is technically an option anytime.
+- 'But who will pay your bills?' He quickly brings up the harsh reality of living expenses to ground the conversation.
+- 'I will always be able to find work.' Chef Barinov confidently claims he will have no trouble finding another kitchen to run.
+- 'Your daughter studies in Paris.' Nagiyev strategically mentions the expensive tuition for the chef's kid.
+- 'This costs twenty thousand a year.' He throws out the exact cost to remind him just how high the stakes really are.
+- 'I know my debts.' Chef Barinov snaps back, insisting he knows perfectly well what he owes.
+- 'They will kick you out after the first drinking binge.' Nagiyev brutally predicts that a new boss would fire him after his very first bender.
+- 'No one will tolerate your character.' He bluntly states that nobody else will put up with such a terrible attitude.
+- 'Alright, pour.' Chef Barinov gives up the fight, quietly asking for a drink instead.
+- 'Here, let's just drink and talk.' Nagiyev gladly agrees, suggesting they relax and discuss things calmly.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = 'Max agrees to help behind the restaurant bar and marvels at the computerized cash register. When Nastya comes in to order two espressos, she is surprised to see a cook posing as the new bartender. Listen to their playful exchange in Russian first, and then we will review it in English.'
 OPENER = "Let's review this funny encounter behind the bar line by line."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "That concludes our sixth scene. In Kukhnya, Max's endless self-confidence and quick wit get him into and out of all kinds of trouble. See you next time!"
 CLOSING = ('nastya', 'До встречи!')
 STORY = [
@@ -33,18 +33,18 @@ STORY = [
 ]
 WALK = [
     (0, None, "'So this is what this system looks like.' Max inspects the computerized cash register at the bar."),
-    (1, None, "'I thought it was just a cash register.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, None, "'Make two espressos, please.' Nastya arrives at the bar with a beverage order."),
-    (3, None, "'What are you doing here?' Surprised to find a kitchen helper standing behind the bar counter."),
+    (1, None, "'I thought it was just a cash register.' Max thought it was just a simple cash register."),
+    (2, None, "'Make two espressos, please.' Nastya arrives at the counter with a beverage order."),
+    (3, None, "'What are you doing here?' Nastya is surprised to find a kitchen helper standing behind the bar."),
     (4, None, "'And I am now the new bartender.' Max confidently invents a new position for himself."),
-    (5, None, "'Oh, stop making things up.' Here Nastya anchors the line on the word meaning 'all right' and builds the thought around 'to make up'."),
-    (6, None, "'I saw you in the kitchen.' The phrasing opens with 'kitchen' before bringing in 'saw' to make the point clear."),
-    (7, None, "'You are a cook after all.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'cook'."),
-    (8, None, "'I have very many talents.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'very' with 'many' and 'talents'."),
-    (9, None, "'And at heart I am a bartender.' A poetic Russian idiom meaning deep down inside his soul."),
-    (10, None, "'Did Kostya already fix the machine?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'already', pairing it with 'fixed' and 'machine'."),
-    (11, None, "'Of course, everything works wonderfully.' Max expresses this naturally by combining the word for 'of course' with 'wonderfully' and 'works'."),
-    (12, None, "'Then make coffee faster.' Nastya leads with the direct command form meaning 'brew', pairing it with 'then' and 'faster'."),
-    (13, 'Сию секунду.', "'Right away.' An idiom literally meaning 'this very second'."),
-    (13, 'Всё будет готово.', "'Everything will be ready.' Max chooses the action verb meaning 'will be' for the ongoing action, followed by 'ready'. Now let's listen to the whole conversation again from start to finish."),
+    (5, None, "'Oh, stop making things up.' Nastya tells him to stop making things up."),
+    (6, None, "'I saw you in the kitchen.' Nastya mentions she saw him working in the kitchen."),
+    (7, None, "'You are a cook after all.' Nastya points out that he is a cook after all."),
+    (8, None, "'I have very many talents.' Max boasts that he has very many talents."),
+    (9, None, "'And at heart I am a bartender.' Max claims that deep down inside his soul he is a bartender."),
+    (10, None, "'Did Kostya already fix the machine?' Nastya asks if Kostya has already fixed the machine."),
+    (11, None, "'Of course, everything works wonderfully.' Max confirms that everything works wonderfully."),
+    (12, None, "'Then make coffee faster.' Nastya tells him to make the coffee faster."),
+    (13, None, "'Right away.' Max promises to do it this very second."),
+    (14, None, "'Everything will be ready.' Max assures her that everything will be ready soon."),
 ]

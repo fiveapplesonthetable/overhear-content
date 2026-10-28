@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you ready to place an order already?' A polite question commonly used at a restaurant table.
-- 'And I will order the delicious apple strudel.' A statement of intent using the future tense to choose a dessert.
-- 'Yes, I have been doing this for five years.' Russian uses the present tense to describe an action that started in the past and continues now.
-- 'Today the delicious dessert saved you.' A playful admission that the high quality of the food earned her a pardon. Now, let's hear the dining room scene between the inspector and Aynura once more. Now let's listen to the whole conversation again from start to finish.
+- 'Are you ready to place an order already?' inspector drops a standard dining room question to find out if the supposed customer is prepared to eat.
+- 'And I will order the delicious apple strudel.' Pointing out his choice, the official decides on a sweet dessert for himself.
+- 'Yes, I have been doing this for five years.' A casual remark follows, confirming his long experience dealing with these exact situations.
+- 'Today the delicious dessert saved you.' Playfully admitting that the high quality of the food earned them a temporary pardon, the officer finishes his thought.

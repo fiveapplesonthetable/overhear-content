@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = "During the busy afternoon prep shift at Claude Monet, Chef Viktor Barinov storms through the kitchen, furious about mess and delays. Catching his cooks hesitating at their stations, Barinov aggressively reprimands Senya and demands strict kitchen discipline. Let's listen to their fast-paced kitchen exchange in Russian."
 OPENER = "Let's explore how Chef Barinov demands discipline and reprimands his cooks for kitchen slowdowns."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to give urgent kitchen commands, address mess at workstations, and ask for quiet in Russian. Listen for these intense workplace phrases in the upcoming scene. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -30,8 +30,8 @@ STORY = [
     ('barinov', 'Спокойнее, я проверю каждое блюдо лично.', 'Calm down, I will check every dish personally.', [(71, 'Покойнее')], ''),
 ]
 WALK = [
-    (2, None, "'Are you waiting until a gnome sprinkles cinnamon?' A sarcastic rhetorical question criticizing hesitation at the prep station for the cook."),
-    (5, None, "'And always clean up your table.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'Chef, please speak a bit quieter.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'There must be perfect order in my kitchen.' A firm modal statement establishing high professional standards for the restaurant brigade. Now, let's hear Chef Barinov command his kitchen brigade once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Are you waiting until a gnome sprinkles cinnamon?' Barinov yells at a cook for being slow. He asks if a magic gnome is going to do the work."),
+    (1, None, "'And always clean up your table.' Barinov reminds the cook to clean his workspace."),
+    (2, None, "'Chef, please speak a bit quieter.' Senya politely asks his boss to lower his voice."),
+    (3, None, "'There must be perfect order in my kitchen.' Barinov demands absolute order in his kitchen and will not quiet down."),
 ]

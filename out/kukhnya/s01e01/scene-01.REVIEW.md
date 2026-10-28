@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Miss, are you all right?' Max turns a statement into a question purely through rising intonation on the word meaning 'miss', followed by 'order'.
-- 'Yes, thank you for your help.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'help', combining 'thank you' with 'help'.
-- 'Oh, it looks like your nose is broken!' Vika uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'oh' with 'it seems' and 'broken'.
-- 'My nose is my main instrument.' Russian omits the present-tense verb 'to be' here, linking 'nose' directly with 'main', combining 'nose' with 'main' and 'instrument'.
-- 'Why is your nose so important to you?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'nose', combining 'why' with 'nose' and 'so'.
-- 'Tomorrow I have an important job interview.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'tomorrow' with 'important' and 'interview'.
-- 'What job do you want to get?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I want to work as a cook in a restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Really? I work in a restaurant too!' Vika puts the word for 'really' together with 'also' and 'work' in a crisp, natural spoken turn of phrase.
-- 'So you and I have a lot in common.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'so' with 'much' and 'common'.
-- 'You are a very sweet and brave guy.' Vika compliments his courage with descriptive adjectives.
-- 'Maybe we should go drink coffee together?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'With great pleasure, let's go quickly!' Vika puts the word for 'great' together with 'pleasure' and 'let's go' in a crisp, natural spoken turn of phrase.
+- 'Miss, are you all right?' Max checks on her well-being immediately after taking a punch meant for her.
+- 'Yes, thank you for your help.' Vika expresses her gratitude toward the stranger who just stepped in to protect her outside the club.
+- 'Oh, it looks like your nose is broken!' Noticing the injury on his face, she reacts with sudden concern for his bleeding nose.
+- 'My nose is my main instrument.' Max tries to play it cool while emphasizing how important his sense of smell is for his career.
+- 'Why is your nose so important to you?' Intrigued by his unusual statement, she asks for clarification about his facial feature.
+- 'Tomorrow I have an important job interview.' Max reveals his upcoming opportunity, showing that his mind is entirely focused on his future in Moscow.
+- 'What job do you want to get?' Vika probes further to learn more about the ambitions of this brave guy she just met.
+- 'I want to work as a cook in a restaurant.' He proudly states his dream of becoming a culinary professional in a bustling kitchen.
+- 'Really? I work in a restaurant too!' Pleasantly surprised by this coincidence, she shares that they belong to the same industry.
+- 'So you and I have a lot in common.' Max playfully points out their shared background to build a connection with the beautiful stranger.
+- 'You are a very sweet and brave guy.' Vika warmly compliments him for stepping up earlier and being so charming during their chat.
+- 'Maybe we should go drink coffee together?' Taking a shot, he invites her out to continue their conversation somewhere more comfortable.
+- 'With great pleasure, let's go quickly!' Vika enthusiastically accepts his invitation, eager to spend more time together.

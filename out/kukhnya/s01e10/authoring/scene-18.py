@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "Victoria briefly steps into Chef Barinov's office to hand over cash allocated for purchasing gourmet caviar for the restaurant. Seeing an unexpected pile of money right in front of him, Viktor instantly realizes he can fund his secret bet. Let's listen to their conversation in Russian."
 OPENER = "Let's explore how Victoria delivers the kitchen funds and how Barinov secures the cash for his own plans."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to talk about cash deliveries, give instructions about suppliers, and offer reassurances in Russian. Listen for these practical business expressions in the following scene. Next time you watch the episode, listen for the Russian expressions for 'jar' and 'banquet' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -30,8 +30,8 @@ STORY = [
     ('barinov', 'Я всегда держу своё мужское слово.', 'I always keep my manly word.', [], ''),
 ]
 WALK = [
-    (1, None, "'Here is the cash for fresh caviar.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (4, None, "'The supplier will bring the jar in an hour.' A future tense verb indicates a scheduled delivery time for the staff."),
-    (7, None, "'Do not worry, everything is under my control.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (11, None, "'I always keep my manly word.' A proud first person assertion used to build trust with a colleague. Now, let's hear Victoria deliver the restaurant funds once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Here is the cash for fresh caviar.' Vika hands over cash for ingredients."),
+    (1, None, "'The supplier will bring the jar in an hour.' Vika says the delivery arrives soon."),
+    (2, None, "'Do not worry, everything is under my control.' Barinov assures her everything is fine."),
+    (3, None, "'I always keep my manly word.' A proud first person assertion used to build trust with a colleague. Now, let's hear Victoria deliver the restaurant funds once more."),
 ]

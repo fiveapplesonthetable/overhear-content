@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let her lie here until evening.' The introductory hortative word expresses third-person permission and resignation for the characters.
-- 'It will easily cover any odor.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Tablecloths in the vegetable storeroom?' Victoria expresses skeptical disbelief through an everyday question the matching word ending.
-- 'Leave quickly, this is no motel for you.' A firm command form followed by a humorous colloquial dismissal. Now, let's listen to the storeroom conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Let her lie here until evening.' Sasha suggests leaving the dog hidden among the vegetables until the shift ends.
+- 'It will easily cover any odor.' He notes that the strong smell of herbs will mask any unwanted dog odors.
+- 'Tablecloths in the vegetable storeroom?' Vika enters the storeroom and immediately spots the highly suspicious setup.
+- 'Leave quickly, this is no motel for you.' She kicks them out, reminding them this is a professional kitchen, not a hideout.

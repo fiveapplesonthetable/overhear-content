@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = "In the kitchen of Claude Monet, Chef Viktor is desperate for a drink after the new owner bans him from having alcohol. He searches Louis's pastry counter and stops Senya, confiscating a box of chocolates filled with cognac."
 OPENER = 'Listen to Chef Viktor searching the kitchen for hidden alcohol.'
-TRANSITION = "Now listen to the whole kitchen search again without pauses. Now let's listen to the whole conversation again from start to finish."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Even when every bottle in the kitchen is hidden, Chef Viktor manages to find cognac inside a box of chocolates. Next time you watch the episode, listen for the Russian expressions for 'table' and 'quietly' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Louis, what do you have here on the table?' Viktor approaches the pastry table looking for something to drink."),
-    (1, None, "'Come on, chef, please, easy!' Louis delivers a punchy one-word reaction built around the Russian word meaning 'easy'."),
+    (1, None, "'Come on, chef, please, easy!' Louis nervously tries to shush the chef before anyone notices."),
     (2, None, "'What is in this nice bottle?' Viktor spots an interesting bottle on the counter."),
     (3, None, "'I am not allowed to tell you anything.' The new owner ordered the staff to keep alcohol away from Viktor."),
-    (4, None, "'Tell me quickly what this is!' Chef Barinov leads with the direct command form meaning 'say', followed by 'quickly'."),
+    (4, None, "'Tell me quickly what this is!' Barinov loses patience and demands to know what is inside the bottle."),
     (5, None, "'It is French syrup for a cake.' Louis claims the bottle only contains sweet baking syrup."),
     (6, None, "'Senya, hold it right there!' Viktor catches Senya trying to sneak across the kitchen."),
-    (7, None, "'Who is this box for?' The preposition with the matching word ending asks who the recipient is."),
+    (7, None, "'Who is this box for?' Spotting a box in Senya's hands, Viktor asks who it belongs to."),
     (8, None, "'Well, this is a gift for you, chef!' Senya pretends the stolen box is a present for Viktor."),
     (9, None, "'Ah, right, of course, for the chef.' Viktor gladly accepts the excuse and takes the box."),
     (10, None, "'If I see this again, I will fire you!' Viktor warns Senya not to steal from the kitchen again."),
     (11, None, "'Chef, and what kind of candies are in there?' Senya is curious about the chocolates inside."),
-    (12, None, "'Great candies with French cognac!' Viktor is delighted to find liquor inside the chocolates."),
+    (12, None, "'Great candies with French cognac!' Viktor is delighted to find liquor inside the chocolates. Now listen to the whole kitchen search again without pauses."),
 ]

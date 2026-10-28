@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, this black caviar is indeed very tasty.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'How much money did you prepare for five kilograms?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Name the exact price for all these goods.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'That will be exactly two hundred thousand rubles right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Timur, leave the caviar, and I will pay later.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'No money — no delicious caviar.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I bet all the money on your advice!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You lost on your favorite fast horses.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You yourself swore by their victory!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let your horses bring caviar to you now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why are you taking this merchandise back?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'By the way, return three hundred rubles for this spoon!' Parenthetical conversational adverb with command form, compound numeral phrase, and causal matching form.
+- 'Yes, this black caviar is indeed very tasty.' Barinov simply draws that point by fusing 'yes' and 'caviar' plus 'tasty'.
+- 'How much money did you prepare for five kilograms?' Timur softly draws that thought by combining 'how' with 'you' along with 'kilograms'.
+- 'Name the exact price for all these goods.' Barinov clearly shapes the idea through connecting 'name' and 'for' and 'goods'.
+- 'That will be exactly two hundred thousand rubles right now.' Timur neatly makes that meaning through connecting 'that' with 'hundred' along with 'now'.
+- 'Timur, leave the caviar, and I will pay later.' Barinov clearly draws this concept through fusing 'timur' and 'i' as well as 'later'.
+- 'No money — no delicious caviar.' Timur warmly shapes the concept by grouping 'no' and 'no' along with 'caviar'.
+- 'I bet all the money on your advice!' Barinov truly gives such idea through merging 'i' with 'money' plus 'advice'.
+- 'You lost on your favorite fast horses.' Timur softly shapes this image through blending 'you' and 'favorite' along with 'horses'.
+- 'You yourself swore by their victory!' Barinov clearly draws the concept by blending 'you' and 'by' along with 'victory'.
+- 'Let your horses bring caviar to you now.' Timur plainly gives that picture through matching 'let' and 'bring' and 'now'.
+- 'Why are you taking this merchandise back?' Barinov simply forms the thought by fusing 'why' with 'this' as well as 'back'.
+- 'By the way, return three hundred rubles for this spoon!' Timur calmly brings some thought by pairing 'by' with 'hundred' as well as 'spoon'.

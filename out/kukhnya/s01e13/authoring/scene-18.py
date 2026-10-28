@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Returning to Max's bedroom in a panic after bumping into Nastya, Victoria furiously rebukes him for exposing her presence to the staff. While Max tries to downplay her fears and urges her to hurry to the restaurant, Victoria insists that they leave the apartment separately. Let's listen to their confrontation in Russian."
 OPENER = "Let's see how Victoria vents her frustration and how Max attempts to calm her down."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to express anger over a ruined reputation, dismiss exaggerated fears, and plan a discreet exit in Russian. Listen for these lively dialogue patterns in future episodes. Next time you watch the episode, listen for the Russian expressions for 'why' and 'to come back' — you will catch every word right away. See you next time!"
 CLOSING = ('vika', 'Увидимся на кухне ресторана, Макс.')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('max', 'Я согласен, иди первой, Вика.', 'I agree, you go first, Vika.', [], ''),
 ]
 WALK = [
-    (1, None, "'Nastya just saw me in here!' A frantic exclamation revealing sudden fear of discovery by a coworker."),
-    (3, None, "'Did you invite our whole restaurant here?' A hyperbolic accusation expressing frustration over lack of privacy."),
-    (5, None, "'My reputation at the restaurant will be ruined.' A dramatic expression of worry concerning professional standing."),
-    (11, None, "'We must leave the building separately.' A cautious instruction intended to prevent coworkers from suspecting a romance. Now, let's hear Victoria and Max settle their departure once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Nastya just saw me in here!' A frantic exclamation revealing sudden fear of discovery by a coworker."),
+    (1, None, "'Did you invite our whole restaurant here?' A hyperbolic accusation expressing frustration over lack of privacy."),
+    (2, None, "'My reputation at the restaurant will be ruined.' A dramatic expression of worry concerning professional standing."),
+    (3, None, "'We must leave the building separately.' A cautious instruction intended to prevent coworkers from suspecting a romance. Now, let's hear Victoria and Max settle their departure once more."),
 ]

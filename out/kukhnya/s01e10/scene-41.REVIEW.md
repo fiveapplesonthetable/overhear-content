@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Vitya, come quickly here to the table!' Nagiyev calls the head chef into the dining room.
-- 'What happened, Dmitry Vladimirovich, what is the matter?' Chef Barinov uses the action verb meaning 'to happen' to focus on the single completed result, pairing it with 'matter'.
-- 'Vitya, tell me straight, what is this?' Nagiyev uses the action verb meaning 'to say' to focus on the single completed result, pairing it with 'straight'.
+- 'What happened, Dmitry Vladimirovich, what is the matter?' Approaching Nagiyev's table, Barinov asks what the urgent matter is.
+- 'Vitya, tell me straight, what is this?' Pointing down at the bowl on the table, Nagiyev demands to know what he is looking at.
 - 'What? What is this on the plate?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'plate'.
-- 'This is real fresh Russian caviar.' Russian omits the present-tense verb 'to be' here, linking 'real' directly with 'fresh', combining 'real' with 'fresh' and 'Russian'.
-- 'And very expensive and very good caviar!' Russian omits the present-tense verb 'to be' here, linking 'very' directly with 'expensive', combining 'very' with 'expensive'.
-- 'Vitya, are you a complete fool or pretending?' Nagiyev turns a statement into a question purely through rising intonation on the word meaning 'quite', pairing it with 'fool' and 'to pretend'.
-- 'In what sense a fool, I do not understand you!' Chef Barinov expresses this naturally by combining the word for 'sense' with 'fool' and 'to understand'.
-- 'What is this, I am strictly asking you?!' Nagiyev puts the word for 'strictly' together with 'to ask' in a crisp, natural spoken turn of phrase.
-- 'The guests asked for black caviar for the holiday table.' Here Chef Barinov anchors the line on the word meaning 'guest' and builds the thought around 'to ask' and 'black'.
-- 'But the color of this caviar is strange and suspicious.' Russian omits the present-tense verb 'to be' here, linking 'colour' directly with 'caviar', combining 'colour' with 'caviar' and 'strange'.
-- 'Special lighting in the hall changes all shades.' Chef Barinov expresses this naturally by combining the word for 'special' with 'light' and 'hall'.
-- 'Do not lie to me, tell the whole truth now!' Nagiyev chooses the action verb meaning 'to lie' for the ongoing action, followed by 'to speak' and 'now'.
+- 'This is real fresh Russian caviar.' Putting on a confident front, Viktor declares it is genuine fresh Russian caviar.
+- 'And very expensive and very good caviar!' He piles on the praise, calling it top-shelf luxury roe.
+- 'Vitya, are you a complete fool or pretending?' Having seen the black food dye bleeding onto the plate, Nagiyev asks if Viktor thinks he is a complete fool.
+- 'In what sense a fool, I do not understand you!' Viktor plays innocent and claims he has no idea what Dmitry means.
+- 'What is this, I am strictly asking you?!' Nagiyev taps the stained plate and demands an honest answer right now.
+- 'The guests asked for black caviar for the holiday table.' Viktor reminds him that the VIP guests ordered black caviar for their celebration.
+- 'But the color of this caviar is strange and suspicious.' Nagiyev points out that the 'black' caviar is leaking a very suspicious dark ring.
+- 'Special lighting in the hall changes all shades.' Thinking fast, Viktor blames the restaurant's lighting for playing tricks on the color.
+- 'Do not lie to me, tell the whole truth now!' Nagiyev cuts him off and orders him to stop lying and confess the truth.

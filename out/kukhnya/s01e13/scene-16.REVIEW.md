@@ -29,4 +29,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Did you drag me into bed again?' A sharp accusatory question expressing indignation and shock upon waking up.
 - 'You called me yourself at night from the club.' A defensive assertion clarifying who actually initiated the late-night contact.
 - 'You were begging me to take you home.' An explanation revealing an earnest plea for rescue during the night.
-- 'You simply took advantage of my momentary weakness.' A resentful claim deflecting personal responsibility for an embarrassing situation. Now, let's hear Victoria and Max confront each other once more. Now let's listen to the whole conversation again from start to finish.
+- 'You simply took advantage of my momentary weakness.' A resentful claim deflecting personal responsibility for an embarrassing situation. Now, let's hear Victoria and Max confront each other once more.

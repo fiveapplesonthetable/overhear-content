@@ -27,19 +27,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me honestly, did this sheep die of old age?' Barinov questions the suspicious meat quality.
-- 'Why insult me?' Timur takes theatrical offense at the accusation.
-- 'This is a young and tasty lamb!' Russian omits the present-tense verb 'to be' here, linking 'young' directly with 'tasty', combining 'young' with 'tasty' and 'lamb'.
-- 'I already have enough sheep in the kitchen.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'kitchen' with 'already' and 'is enough'.
-- 'Wait, look at this excellent meat!' Timur leads with the direct command form meaning 'wait', pairing it with 'look' and 'excellent'.
-- 'I swear, this is the best fresh meat!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, this lamb is really good.' Barinov grudgingly acknowledges the genuine quality.
-- 'Fine, I will take this meat.' Chef Barinov expresses this naturally by combining the word for 'fine' with 'take' and 'meat'.
-- 'Chef, my dear, do you need truffles?' The supplier pitches an exclusive underground luxury.
-- 'Are you offering me contraband again?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'again', pairing it with 'are offering' and 'contraband'.
-- 'Of course I do!' Barinov cannot resist premium French truffles.
-- 'How much are you selling them for?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'how much', followed by 'sell'.
-- 'For you as a friend, only six hundred euros per kilogram.' Russian omits the present-tense verb 'to be' here, linking 'as a friend' directly with 'only', combining 'as a friend' with 'only' and 'six hundred'.
-- 'Great, I will take these truffles!' Here Chef Barinov anchors the line on the word meaning 'great' and builds the thought around 'take' and 'truffles'.
-- 'Then the price has risen to seven hundred euros!' Timur audaciously hikes the price on the spot.
-- 'Timur, don't get cheeky and hand over the goods!' Chef Barinov leads with the direct command form meaning 'get cheeky', pairing it with 'hand over' and 'goods'. Now let's listen to the whole conversation again from start to finish.
+- 'Tell me honestly, did this sheep die of old age?' Insulting the tough-looking meat, Barinov tries to gain leverage in bargaining.
+- 'Why insult me?' Timur acts deeply offended by the attack on his livelihood.
+- 'This is a young and tasty lamb!' Passionately defending his product, Timur promises the lamb is fresh.
+- 'I already have enough sheep in the kitchen.' Barinov makes a witty pun, comparing his clumsy cooks to actual sheep.
+- 'Wait, look at this excellent meat!' Scrambling to showcase a better cut, Timur tries to appease the picky chef.
+- 'I swear, this is the best fresh meat!' Timur dramatically promises that this selection is unmatched in quality.
+- 'Yes, this lamb is really good.' Finally satisfied, Barinov admits the better cut is acceptable.
+- 'Fine, I will take this meat.' Barinov agrees to the purchase and concludes the main transaction.
+- 'Chef, my dear, do you need truffles?' Dropping his voice, Timur pitches an under-the-table luxury item.
+- 'Are you offering me contraband again?' Barinov calls out his supplier for pushing illegally imported goods.
+- 'Of course I do!' Eagerly, Barinov accepts, knowing how much diners pay for European delicacies.
+- 'How much are you selling them for?' Getting straight to business, Barinov demands the price.
+- 'For you as a friend, only six hundred euros per kilogram.' Timur offers a supposedly friendly discount that is still exorbitantly expensive.
+- 'Great, I will take these truffles!' Enthusiastically, Barinov snaps up the rare ingredients.
+- 'Then the price has risen to seven hundred euros!' Sensing desperation, Timur instantly hikes the price up.
+- 'Timur, don't get cheeky and hand over the goods!' Furious, Barinov angrily orders the supplier to honor the original deal.

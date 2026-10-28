@@ -29,4 +29,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, please do not turn on the device!' Senya begs, sweating profusely before the machine is even attached.
 - 'I took this fish after the banquet!' the line cook confesses, voluntarily admitting to kitchen pilfering.
 - 'And the half-kilo of expensive caviar?' Chef Barinov presses, seizing the chance to uncover other thefts.
-- 'Did you go to the neighboring restaurant?' Barinov demands, ignoring the petty food thefts to find the real secret. Now listen to the full office confession once more. Now let's listen to the whole conversation again from start to finish.
+- 'Did you go to the neighboring restaurant?' Barinov demands, ignoring the petty food thefts to find the real secret. Now listen to the full office confession once more.

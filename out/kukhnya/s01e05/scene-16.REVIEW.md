@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There, nobody will bother us here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nastya, why did we come here quickly?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We need to talk quietly without witnesses.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It is indeed very quiet and peaceful here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you ready to help me a little?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Of course, I am always glad to help you.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Only promise not to tell anyone anything.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I promise, this will be our shared secret.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Great, then listen to me very carefully.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am all ears, speak quickly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will play out a very clever show!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Well yeah, I do not understand anything yet.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Soon you will understand everything perfectly yourself!' Temporal future word with an emphatic word and manner adverb.
+- 'There, nobody will bother us here.' Nastya ensures they have a secure spot to talk.
+- 'Nastya, why did we come here quickly?' Kostya is curious about the sudden need for secrecy.
+- 'We need to talk quietly without witnesses.' Nastya emphasizes the importance of a private conversation.
+- 'It is indeed very quiet and peaceful here.' Kostya agrees that they are safely hidden away.
+- 'Are you ready to help me a little?' Nastya asks for his cooperation in a special project.
+- 'Of course, I am always glad to help you.' Kostya eagerly offers his unconditional support.
+- 'Only promise not to tell anyone anything.' Nastya swears him to absolute secrecy first.
+- 'I promise, this will be our shared secret.' Kostya promises to keep his mouth shut.
+- 'Great, then listen to me very carefully.' Nastya prepares to outline her complex strategy.
+- 'I am all ears, speak quickly.' Kostya urges her to spill the details.
+- 'We will play out a very clever show!' Nastya reveals her intention to stage a fake scenario.
+- 'Well yeah, I do not understand anything yet.' Kostya admits he is completely lost.
+- 'Soon you will understand everything perfectly yourself!' Nastya promises that everything will make sense shortly.

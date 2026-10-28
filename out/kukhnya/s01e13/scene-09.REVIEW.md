@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you tell me you were leaving?' Max puts the word for 'why' together with 'told' and 'are leaving' in a crisp, natural spoken turn of phrase.
-- 'Let's talk later.' Vika leads with the direct command form meaning 'let's', pairing it with 'later' and 'we'll have a talk'.
-- 'No, we' re talking now!' Max uses the action verb meaning 'we'll have a talk' to focus on the single completed result, pairing it with 'now'.
-- 'Let me explain what's going on.' Max leads with the direct command form meaning 'allow', pairing it with 'to explain' and 'matter'.
-- 'You've been avoiding me all day!' Vika puts the word for 'day' together with 'run' in a crisp, natural spoken turn of phrase.
-- 'I need to think.' Here Vika anchors the line on the word meaning 'it is necessary' and builds the thought around 'to think'.
-- 'We' ll talk in three days when I get back.' Vika uses the action verb meaning 'we'll have a talk' to focus on the single completed result, pairing it with 'three' and 'days'.
-- 'Vika, good morning!' The next morning, Max confidently walks into her office. 'Vika, good morning!'
-- 'I brought you coffee.' Max puts the word for 'of coffee' together with 'brought' in a crisp, natural spoken turn of phrase.
-- 'I hate you!' Vika delivers a punchy one-word reaction built around the Russian word meaning 'hate'.
-- 'You don't like coffee?' Max turns a statement into a question purely through rising intonation on the word meaning 'love', followed by 'of coffee'.
-- 'What the hell coffee!' Russian omits the present-tense verb 'to be' here, linking 'the devil' directly with 'of coffee', combining 'the devil' with 'of coffee'.
-- 'I missed the Milan trip because of you!' She reveals that their argument made her miss her flight. Let's break down the language.
+- 'Why didn't you tell me you were leaving?' Max confronts Vika about her secret departure. He is hurt that she kept it from him.
+- 'Let's talk later.' Vika tries to brush him off. She suggests they delay the conversation.
+- 'No, we' Max refuses to wait. He insists they have this out right now.
+- 'Let me explain what's going on.' He asks for a chance to clear the air. Max wants to explain his side of the story.
+- 'You've been avoiding me all day!' Vika is angry about his earlier behavior. She accuses him of dodging her all day.
+- 'I need to think.' She needs some space to process everything. Vika wants time alone to figure things out.
+- 'We' Vika sets a firm timeline. She tells him to wait until she returns from her trip.
+- 'Vika, good morning!' The next morning, Max confidently walks into her office. He greets her with a cheerful smile.
+- 'I brought you coffee.' Max presents a peace offering. He hopes a hot drink will smooth things over.
+- 'I hate you!' Vika responds with pure fury. She clearly has not forgiven him.
+- 'You don't like coffee?' Max plays dumb. He jokingly wonders if she has lost her taste for the beverage.
+- 'What the hell coffee!' Vika rejects the joke completely. She dismisses his offering with an angry outburst.
+- 'I missed the Milan trip because of you!' She reveals the disastrous consequence of their fight. Vika missed her important flight.

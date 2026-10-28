@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I have been thinking about your words.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I called mom, my parents are coming soon.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'We will definitely have a big wedding!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'If there is not enough money, we will take a loan.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'On Monday I will move in with you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will wait for the baby together peacefully.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Maybe we will name him Zhenya?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Vika, I have been thinking about your words.' Having learned from Kostya or figured out that Vika made up the pregnancy to scare him, Max corners her and says he thought about her news.
+- 'I called mom, my parents are coming soon.' Keeping a straight face, Max claims he already called his mother in Voronezh and invited his parents to Moscow.
+- 'We will definitely have a big wedding!' He enthusiastically declares that they are going to throw a huge wedding.
+- 'If there is not enough money, we will take a loan.' Pushing the bluff further, he says if they are short on cash, they can take out a big bank loan.
+- 'On Monday I will move in with you.' Max announces that he will pack his bags and move into Vika's apartment on Monday.
+- 'We will wait for the baby together peacefully.' He paints a cozy picture of the two of them waiting for the baby together.
+- 'Maybe we will name him Zhenya?' Then he suggests naming the baby 'Zhenya'.
 - 'It will be a handsome name — Evgeny Maksimovich!' — full name with traditional Russian patronymic.
-- 'And if a girl is born, we will name her Evgeniya.' — conditional future sentence expressing contingency.
-- 'Do you like this plan, darling?' — matching form construction of liking with an affectionate address. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'And if a girl is born, we will name her Evgeniya.' He adds that if it is a girl, 'Zhenya' works as 'Evgeniya' too.
+- 'Do you like this plan, darling?' Watching Vika squirm as her prank backfires, Max sweetly asks 'darling' how she likes the plan. Now listen to the full conversation once more.

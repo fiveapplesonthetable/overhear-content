@@ -27,18 +27,18 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I always knew I would be a chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Not a firefighter and not an astronaut.' Negative particles are repeated before each profession the matching word ending.
-- 'Not even president.' The word at the start means 'even', adding emphasis.
-- 'Specifically a chef.' The contrastive conjunction is paired with an adverb meaning 'namely' or 'precisely'.
-- 'Here he is, our hero!' A proud exclamation introducing the talented cook.
-- 'I really liked your solyanka.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Thank you! I tried very hard.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Well done.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'well done'.
-- 'Practically a masterpiece out of nothing.' High praise from the celebrity guest, noting how great food can be made from basic ingredients.
-- 'Would you like to work in a good restaurant?' An invitation framed politely as a question about what the cook wants to do.
-- 'Of course! That is my dream.' A passionate response using the common word for 'dream'.
-- 'You are welcome. I will be glad.' A warm traditional Russian formula of hospitality followed by a promise of being delighted to see them.
-- 'I am speaking completely seriously.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Restaurant Claude Monet in Moscow.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'restaurant'.
-- 'Thank you very much! I will definitely come.' An enthusiastic promise using the adverb for 'definitely'. Now let's listen to the whole conversation again from start to finish.
+- 'I always knew I would be a chef.' Max reflects on his lifelong certainty about his chosen career path.
+- 'Not a firefighter and not an astronaut.' He lists the typical childhood dreams that he never cared for.
+- 'Not even president.' Even the highest office in the country couldn't tempt him away from the kitchen.
+- 'Specifically a chef.' His focus was always laser-targeted on culinary mastery.
+- 'Here he is, our hero!' Nagiyev warmly greets the young army cook who prepared his meal.
+- 'I really liked your solyanka.' The famous guest praises the traditional soup that was served.
+- 'Thank you! I tried very hard.' Max humbly accepts the compliment, proud of his effort in the kitchen.
+- 'Well done.' Nagiyev offers a short and simple nod of approval for a job well done.
+- 'Practically a masterpiece out of nothing.' The celebrity is amazed at the high quality achieved with basic military ingredients.
+- 'Would you like to work in a good restaurant?' He floats a life-changing proposition to the talented young man.
+- 'Of course! That is my dream.' Max eagerly agrees, seeing his ultimate ambition suddenly within reach.
+- 'You are welcome. I will be glad.' Nagiyev formally welcomes him, pleased to recruit such raw talent.
+- 'I am speaking completely seriously.' He assures the young cook that the offer is completely genuine.
+- 'Restaurant Claude Monet in Moscow.' The famous owner drops the name of his elite establishment in the capital.
+- 'Thank you very much! I will definitely come.' Max expresses deep gratitude and promises to show up for the opportunity.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alice, sit down at this table quickly.' Victoria gives a direct instruction using an command form and an matching form matching form.
-- 'Aunt Vika, will we play here?' Alisa eagerly inquires about activities using a compound future tense verb.
-- 'No, I need to work a lot right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Alice, sit down at this table quickly.' Seating her niece at a corner table in the dining room, Vika tells Alisa to sit down quickly.
+- 'Aunt Vika, will we play here?' Alisa perks up and asks if the two of them are going to play a game here.
+- 'No, I need to work a lot right now.' Vika apologizes and explains that she has a ton of work to handle right now.
 - 'And what am I to do here alone?' The little girl wonders about spending time independently.
-- 'Sit quietly and play calmly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Will important restaurant guests arrive soon?' Alisa asks about the expected visitors with a future tense verb.
-- 'Yes, a big banquet will begin soon.' Victoria explains the upcoming occasion with an adjective and a noun.
-- 'I promise to behave very well.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You definitely will not let me down today?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Sit quietly and play calmly.' She asks Alisa to sit quietly and play by herself for a little while.
+- 'Will important restaurant guests arrive soon?' Alisa asks if the important restaurant guests are arriving soon.
+- 'Yes, a big banquet will begin soon.' Vika confirms that a big banquet is about to start in the hall.
+- 'I promise to behave very well.' Putting on her best manners, Alisa promises to behave very well.
+- 'You definitely will not let me down today?' Knowing how mischievous her niece can be, Vika double-checks that Alisa will not let her down.
 - 'I will be calmness itself, honest word!' The niece quotes a playful idiom expressing total composure.
-- 'You are a real clever girl, dear niece.' Victoria warmly praises the child with an affectionate noun phrase.
+- 'You are a real clever girl, dear niece.' Touched by the promise, Vika praises her niece as a truly clever girl.
 - 'I will simply draw pictures quietly.' Alisa settles into her seat with a calm creative plan.

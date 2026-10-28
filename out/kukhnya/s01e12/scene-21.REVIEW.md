@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This cigarette already tastes bitter.' Senya puts the word for 'cigarette' together with 'already' and 'tastes bitter' in a crisp, natural spoken turn of phrase.
-- 'Just throw it out quickly into the trash bin.' Senya uses the action verb meaning 'throw out' to focus on the single completed result, pairing it with 'quickly' and 'trash bin'.
-- 'All right, I want to go to the bathroom.' The phrasing opens with 'all right' before bringing in 'want' and 'go' to make the point clear.
-- 'Wait, it is on fire over there, friends!' Fedya suddenly spots huge flames across the street.
-- 'The neighboring restaurant is burning right now!' Senya stares in absolute disbelief at the burning building.
-- 'Are you sure that this is a real fire?' Fedya asks nervously while looking at the flames.
-- 'Of course, look at this black smoke.' Senya gestures toward the dark clouds above the roof.
-- 'People are running out of the building onto the street.' Fedya observes the panicked evacuation in front of them.
-- 'We urgently need to tell the boss about this.' Senya realizes they cannot just stand there doing nothing.
-- 'Yes, he must know about this fire.' Fedya nods, recognizing the severity of the chaotic situation.
-- 'Drop the cigarette and let's go inside faster.' Senya hurries back toward their own safe kitchen doors.
-- 'I am running after you, open the door.' Fedya follows right behind his frightened coworker.
+- 'This cigarette already tastes bitter.' Senya complains that his cigarette tastes bad now.
+- 'Just throw it out quickly into the trash bin.' Senya tells himself to just throw the cigarette away.
+- 'All right, I want to go to the bathroom.' Fedya says he needs to go use the restroom.
+- 'Wait, it is on fire over there, friends!' Fedya suddenly notices flames and calls out to his friends.
+- 'The neighboring restaurant is burning right now!' Senya realizes that the new restaurant next door is on fire.
+- 'Are you sure that this is a real fire?' Fedya asks if it is actually a real fire.
+- 'Of course, look at this black smoke.' Senya points to the black smoke as proof of the fire.
+- 'People are running out of the building onto the street.' Fedya watches people escape from the burning building.
+- 'We urgently need to tell the boss about this.' Senya says they must warn their boss right away.
+- 'Yes, he must know about this fire.' Fedya agrees that the boss needs to hear about the fire.
+- 'Drop the cigarette and let's go inside faster.' Senya tells Fedya to drop the cigarette and hurry back inside.
+- 'I am running after you, open the door.' Fedya follows Senya and tells him to open the door quickly.

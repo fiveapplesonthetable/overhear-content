@@ -36,4 +36,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Yes, I remember that time well.' Viktor recalls the days before Kristina married the owner.
 - 'In short, please welcome and respect her.' This classic Russian idiom means 'please give her a warm welcome'.
 - 'Here is your new boss.' Here, Nagiyev officially hands authority over to Kristina.
-- 'Welcome, Kristina Semyonovna.' Viktor forces a polite smile for his new boss.
+- 'Welcome, Kristina Semyonovna.' Viktor forces a polite smile for his new boss. Now let's listen to the conversation again without interruption.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here are my tasty chops for the Chef.' Russian omits the present-tense verb 'to be' here, linking 'tasty' directly with 'cutlets', followed by 'chef'.
-- 'The Chef already chose my meat dish.' Here Senya anchors the line on the word meaning 'already' and builds the thought around 'chose' and 'meat'.
-- 'He did not even taste my food!' Fedya uses the action verb meaning 'tried' to focus on the single completed result, pairing it with 'am driving'.
-- 'Because my recipe is the very best.' Russian omits the present-tense verb 'to be' here, linking 'because' directly with 'recipe', pairing it with 'the most' and 'best'.
-- 'I cooked these chops all morning.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do not be so upset, friend.' Here Senya anchors the line on the word meaning 'it is necessary' and builds the thought around 'strongly' and 'to get upset'.
-- 'You were simply first in line.' The phrasing opens with 'just' before bringing in 'was' and 'first' to make the point clear.
-- 'Next time you will definitely win.' Senya expresses this naturally by combining the word for 'next' with 'time' and 'definitely'.
-- 'Do you want to try my new chops?' Fedya turns a statement into a question purely through rising intonation on the word meaning 'do you want', pairing it with 'to taste' and 'new'.
-- 'Go ahead, I will gladly try them.' Senya leads with the direct command form meaning 'let's', pairing it with 'pleasure' and 'will try'.
-- 'Well how is the taste to you, tell me honestly?' Fedya leads with the direct command form meaning 'say', pairing it with 'how' and 'taste'.
-- 'Listen, this is really very tasty!' Senya leads with the direct command form meaning 'listen', pairing it with 'really' and 'very much'.
-- 'Then we will eat this ourselves for lunch.' Fedya puts the word for 'back then' together with 'to eat' and 'lunch' in a crisp, natural spoken turn of phrase.
+- 'Here are my tasty chops for the Chef.' Fedya mournfully presents his tasty chops, completely ignored by the boss.
+- 'The Chef already chose my meat dish.' Senya gloats that his own meat dish was already selected.
+- 'He did not even taste my food!' Fedya complains that his food wasn't even given a chance.
+- 'Because my recipe is the very best.' Senya arrogantly claims his recipe won because it is simply the best.
+- 'I cooked these chops all morning.' Fedya laments spending his entire morning preparing the chops.
+- 'Do not be so upset, friend.' Senya tries to comfort his friend, telling him not to be so upset.
+- 'You were simply first in line.' Fedya dismisses the victory, pointing out Senya was simply first in line.
+- 'Next time you will definitely win.' Senya encourages him, promising he will win the next contest.
+- 'Do you want to try my new chops?' Fedya offers a taste of his rejected creation.
+- 'Go ahead, I will gladly try them.' Senya gladly accepts the offer to try the chops.
+- 'Well how is the taste to you, tell me honestly?' Fedya anxiously demands an honest opinion on the taste.
+- 'Listen, this is really very tasty!' Senya is genuinely impressed, admitting the food is incredibly tasty.
+- 'Then we will eat this ourselves for lunch.' Fedya decides they might as well eat the masterpiece themselves for lunch.

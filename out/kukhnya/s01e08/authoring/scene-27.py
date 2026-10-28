@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = 'In the quiet storage room, Ainura urges Chef Barinov to return to the restaurant. She warns him that the kitchen is falling apart without his guidance and the replacement chef is on the verge of tears. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around Time to Return line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "In the storage room, Ainura urges Chef Barinov to return to the kitchen, warning him that the replacement chef is falling apart and orders are collapsing. Next time you watch the episode, listen for the Russian expressions for 'victory' and 'to work' — you will catch every word right away. See you next time!"
 CLOSING = ('ainura', 'Пока!')
 STORY = [
@@ -31,15 +31,15 @@ STORY = [
     ('ainura', 'Шеф, я же на работе!', 'Chef, I am at work after all!', [(323, 'Я ж на работе.')], ''),
 ]
 WALK = [
-    (0, None, "'How did you find me, Ainura?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (1, None, "'I have been working for you for a long time.' — using the present tense to express an action continuing from the past."),
-    (2, None, "'I know all your secret places.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (4, None, "'Dear Chef, you need to return to the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'You sound right now like my former mother-in-law.' — a witty comparison introduced by the comparative conjunction."),
-    (6, None, "'Seriously, it is very hard for the cooks without you.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (7, None, "'They are not coping at all with orders.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'The new female chef will soon fall completely ill.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (10, None, "'When have I ever lied to you?' — rhetorical question emphasizing past honesty."),
-    (11, None, "'All right, let us drink to victory then.' Here Chef Barinov anchors the line on the word meaning 'all right' and builds the thought around 'then' and 'let us drink'."),
-    (12, None, "'Chef, I am at work after all!' — short emphatic phrase rejecting a drink during working hours. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'How did you find me, Ainura?' Barinov wonders how the cleaner managed to track him down."),
+    (1, None, "'I have been working for you for a long time.' Ainura reminds him she is a long-time employee."),
+    (2, None, "'I know all your secret places.' Ainura knows every single hiding spot in the restaurant."),
+    (3, None, "'Dear Chef, you need to return to the kitchen.' Ainura pleads with the boss to return to his station."),
+    (4, None, "'You sound right now like my former mother-in-law.' Barinov compares her nagging to a strict mother-in-law."),
+    (5, None, "'Seriously, it is very hard for the cooks without you.' Ainura stresses that the kitchen brigade is suffering without him."),
+    (6, None, "'They are not coping at all with orders.' Ainura reports that the staff is completely failing the service."),
+    (7, None, "'The new female chef will soon fall completely ill.' Ainura warns that the temporary boss is nearing a breakdown."),
+    (8, None, "'When have I ever lied to you?' Ainura asks him to trust her honest assessment of the chaos."),
+    (9, None, "'All right, let us drink to victory then.' Barinov finally agrees and proposes a toast to his return."),
+    (10, None, "'Chef, I am at work after all!' Ainura once again refuses alcohol during her working hours."),
 ]

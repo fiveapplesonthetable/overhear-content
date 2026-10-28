@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened?' Listen for the word meaning 'what' right alongside 'happened' in this line.
-- 'You' re one to talk about cripples.' The verb for 'said' is in the matching past tense, marked by that 'l' sound at the end. Then Viktor replies.
-- 'I am on sick leave.' Here 'I' sets up the idea, while 'sick leave' comes at the end for emphasis.
-- 'I am not here.' You'll hear 'me' all the time in the show, here connected with 'me'.
-- 'Are you fumigating cockroaches?' A compact expression built around 'you' and 'cockroaches'.
-- 'There is a stink in the dining room.' Here 'hall' sets up the idea, while 'stench' comes at the end for emphasis.
-- 'It is Fedya making breakfast.' You'll hear 'this' all the time in the show, here connected with 'breakfast'.
-- 'He is boiling a belt.' Notice the word order: 'he' comes first, and 'belt' finishes the sentence. Viktor answers straight away.
-- 'Why is he boiling a belt?' The first content word means 'what for', and 'belt' rounds out the thought.
-- 'He made a bet for money.' A compact expression built around 'he' and 'money'.
-- 'You are like children.' Viktor starts with 'you' and pairs it with 'how' to make the point clear.
-- 'Go to work!' Viktor uses an urgent command built around the verb for 'come'. Let's hear it again.
+- 'What happened?' Seeing Chef Barinov hobble into the kitchen with a cane, Louis asks what happened to him.
+- 'You're one to talk about cripples.' Before Viktor can answer, Senya cracks a joke about the chef calling the staff 'cripples'. Then Viktor replies.
+- 'I am on sick leave.' Viktor announces that he is officially on sick leave today.
+- 'I am not here.' He tells the crew to pretend he is not even here.
+- 'Are you fumigating cockroaches?' Holding his nose, Louis asks if someone is fumigating cockroaches in the kitchen.
+- 'There is a stink in the dining room.' He complains that a terrible stench is drifting out into the dining room.
+- 'It is Fedya making breakfast.' Senya grins and explains that Fedya is just making his 'breakfast'.
+- 'He is boiling a belt.' He reveals that Fedya is boiling a leather belt in a pot. Viktor answers straight away.
+- 'Why is he boiling a belt?' Barinov stares in disbelief and asks why on earth Fedya is boiling a belt.
+- 'He made a bet for money.' Senya explains that they made a five-thousand-ruble bet.
+- 'You are like children.' Viktor shakes his head and says his cooks behave like little children.
+- 'Go to work!' He barks at everyone to drop the nonsense and get back to work. Let's hear it again.

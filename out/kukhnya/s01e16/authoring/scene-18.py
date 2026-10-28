@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Still searching the dining room for disguised employees, the migration inspector stops at the table of French pastry chef Louis. Like a seasoned detective, the inspector points out three telltale habits that prove Louis is actually a chef working at the restaurant rather than a guest. Let's listen to his clever deduction in Russian."
 OPENER = "Let's examine how the inspector uses observation to uncover Louis's true profession."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to ask for documents, describe someone's profession, and explain workplace rules in Russian. Listen to what happens next when the inspector escorts Louis away. Next time you watch the episode, listen for the Russian expressions for 'may' and 'to have a look' — you will catch every word right away. See you next time!"
 CLOSING = ('inspector', 'Покажите мне ваш французский паспорт.')
 STORY = [
@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'May I look at your documents?' A formal request used by an official during an inspection."),
-    (2, None, "'No, you work here as a chef.' Russian uses the matching word ending for the profession after the verb to work."),
-    (8, None, "'Also you are constantly touching your head.' A sharp observation pointing out a physical habit."),
-    (11, None, "'Because at work one must not drink.' An explanation referencing workplace rules with an impersonal modal word. Now, let's listen to the inspector's deduction from start to finish. Now let's listen to the whole conversation again from start to finish."),
+    (1, None, "'No, you work here as a chef.' Russian uses the matching word ending for the profession after the verb to work."),
+    (2, None, "'Also you are constantly touching your head.' A sharp observation pointing out a physical habit."),
+    (3, None, "'Because at work one must not drink.' An explanation referencing workplace rules with an impersonal modal word. Now, let's listen to the inspector's deduction from start to finish."),
 ]

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
 INTRO = "Desperate to avoid being seen by Vika before his job interview, Max dives behind a marble pillar in the Claude Monet dining room. Holding a large menu upside down to mask his face, he attracts the curious attention of a busy waiter who politely intervenes. Let's listen to the scene in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and grammar."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max ducks away and heads toward the bar counter. Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'bar' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('ilya', 'Бармен нальёт вам отличный напиток.', 'The bartender will pour you an excellent drink.', [], ''),
 ]
 WALK = [
-    (2, None, "'But you are holding the menu upside down.' Ilya remarks with amusement, using the idiom meaning upside down."),
-    (6, None, "'The owner definitely is not standing behind this pillar.' Here Ilya anchors the line on the word meaning 'owner' and builds the thought around 'definitely' and 'is standing'."),
-    (10, None, "'You can wait at the bar counter.' Ilya suggests, pointing him away from the busy service lane."),
-    (11, None, "'Great idea, I will go to the bar!' Max agrees enthusiastically, relieved to find a safe refuge. Now listen to the full dining room dialogue once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'But you are holding the menu upside down.' Ilya gently points out the absurdity of the hiding tactic being used by the stranger."),
+    (1, None, "'The owner definitely is not standing behind this pillar.' The observant waiter remarks that the boss is nowhere near the architectural feature being clung to."),
+    (2, None, "'You can wait at the bar counter.' Suggesting a more natural waiting spot, the staff member directs the man away from the floor."),
+    (3, None, "'Great idea, I will go to the bar!' Max jumps at the suggestion, grateful for an excuse to escape the center of attention."),
 ]

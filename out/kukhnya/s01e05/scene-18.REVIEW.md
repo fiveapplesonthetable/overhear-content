@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are handling all the fish orders!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, Chef, I am ready to work!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let us see what kind of fish master you are.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I will prepare all dishes very quickly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Maxim, take the order: two cod Florentines!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, Chef, I am already starting to cook.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And two more portions of cod with almonds!' Conjunction introducing an additional quantificational noun phrase.
-- 'But I already took two dishes!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Do not argue, Fedya managed somehow!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I do not have enough fresh fish here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Search in the storage and hustle faster!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will handle all orders myself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Prove it with action then, rump!' Modal command form challenge with an matching form noun and character nickname.
+- 'You are handling all the fish orders!' Barinov intentionally overloads the rookie with responsibilities.
+- 'Yes, Chef, I am ready to work!' Max confidently accepts the massive workload.
+- 'Let us see what kind of fish master you are.' Barinov challenges the young cook to prove his worth.
+- 'I will prepare all dishes very quickly.' Max boldly promises to deliver everything on time.
+- 'Maxim, take the order: two cod Florentines!' Barinov calls out another challenging ticket.
+- 'Yes, Chef, I am already starting to cook.' Max assures the boss he is already on it.
+- 'And two more portions of cod with almonds!' Barinov piles on even more portions to test him.
+- 'But I already took two dishes!' Max protests the sudden increase in volume.
+- 'Do not argue, Fedya managed somehow!' Barinov shuts down the complaints by comparing him to a veteran.
+- 'I do not have enough fresh fish here.' Max points out a critical shortage of ingredients.
+- 'Search in the storage and hustle faster!' Barinov tells him to solve the problem himself and hurry up.
+- 'I will handle all orders myself.' Max stubbornly insists he can handle the pressure.
+- 'Prove it with action then, rump!' Barinov demands that he stop talking and start cooking.

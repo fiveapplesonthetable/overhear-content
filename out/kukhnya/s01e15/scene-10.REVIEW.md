@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One hundred sixty over ninety.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'a hundred' straight to 'ninety'.
-- 'Viktor Petrovich, this is not a joke.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'.
-- 'Such pressure is very dangerous.' Russian omits the present-tense verb 'to be' here, linking 'blood pressure' directly with 'very much', combining 'blood pressure' with 'very much' and 'dangerous'.
-- 'Yes, everything will be fine.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Any stress and it will be bad.' Lyova puts the word for 'any' together with 'stress' and 'will be' in a crisp, natural spoken turn of phrase.
-- 'Hi, Mom.' Russian omits the present-tense verb 'to be' here, linking 'hi' directly with 'mum', combining 'hi' with 'mum'.
-- 'How was your workday?' The phrasing opens with 'how' before bringing in 'passed' and 'working' to make the point clear.
-- 'Fine, they fired me.' Lyova expresses this naturally by combining the word for 'fine' with 'to fire'.
-- 'Not fired, but demoted.' the speaker uses the action verb meaning 'to fire' to focus on the single completed result, pairing it with 'demote'.
-- 'Mom, I am not guilty of anything.' Russian omits the present-tense verb 'to be' here, linking 'mum' directly with 'at fault', combining 'mum' with 'at fault'.
-- 'You must know how to answer for your actions.' The phrasing opens with 'it is necessary' before bringing in 'to know how' and 'to answer' to make the point clear.
-- 'Thank you for the support, Mom.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'support', combining 'thank you' with 'support' and 'mum'.
+- 'One hundred sixty over ninety.' Lyova reads out the blood pressure numbers with concern.
+- 'Viktor Petrovich, this is not a joke.' Addressing his boss respectfully, he emphasizes that this medical reading is no laughing matter.
+- 'Such pressure is very dangerous.' Pointing out the severity, he explains how dangerous such high pressure can be.
+- 'Yes, everything will be fine.' Barinov waves off the concern, insisting that everything is perfectly fine.
+- 'Any stress and it will be bad.' Warning him of the consequences, Lyova states that any additional strain could lead to a bad outcome.
+- 'Hi, Mom.' Greeting his mother, Lyova shifts the conversation entirely.
+- 'How was your workday?' Mama asks about his day at the restaurant.
+- 'Fine, they fired me.' Lyova casually drops the bombshell that he lost his job.
+- 'Not fired, but demoted.' Mama corrects him, clarifying that he was only demoted, not fired.
+- 'Mom, I am not guilty of anything.' Defending himself, Lyova insists he did absolutely nothing wrong.
+- 'You must know how to answer for your actions.' Mama offers a stern lesson, telling him he needs to take responsibility for his choices.
+- 'Thank you for the support, Mom.' Lyova sarcastically thanks his mother for her less-than-helpful encouragement.

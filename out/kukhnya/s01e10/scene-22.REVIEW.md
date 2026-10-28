@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, here is everything, just as we agreed.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Did you bring the complete order of black caviar?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Here are exactly five kilograms of prime caviar.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you definitely sure that it is fresh?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You offend me with such strange questions, dear brother!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Only the highest grade is suitable for our restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This is the freshest caviar in all of Moscow.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Such a product requires strict quality control.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Officials eat yesterday' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then let' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Here, take a spoon and try it yourself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Now I will immediately evaluate your expensive goods.' Temporal adverb with subject word, adverb, future everyday verb, and compound matching form noun phrase.
+- 'Chef, here is everything, just as we agreed.' Timur truly makes this concept through pairing 'chef' with 'just' along with 'agreed'.
+- 'Did you bring the complete order of black caviar?' Barinov clearly shapes some message through linking 'did' with 'complete' plus 'caviar'.
+- 'Here are exactly five kilograms of prime caviar.' Timur clearly makes this message by joining 'here' and 'kilograms' and 'caviar'.
+- 'Are you definitely sure that it is fresh?' Barinov warmly forms this picture through combining 'you' with 'sure' along with 'fresh'.
+- 'You offend me with such strange questions, dear brother!' Timur truly shapes the idea by fusing 'you' with 'such' as well as 'brother'.
+- 'Only the highest grade is suitable for our restaurant.' Barinov plainly gives this view through blending 'only' with 'suitable' plus 'restaurant'.
+- 'This is the freshest caviar in all of Moscow.' Timur plainly draws that feeling by pairing 'this' and 'caviar' and 'moscow'.
+- 'Such a product requires strict quality control.' Barinov warmly shows this concept by merging 'such' with 'strict' and 'control'.
+- 'Officials eat yesterday' Timur clearly brings that picture through pairing 'officials' with 'eat' along with 'yesterday'.
+- 'Then let' Barinov neatly shows such idea by matching 'then' and 'then' plus 'let'.
+- 'Here, take a spoon and try it yourself.' Timur truly shapes that view through linking 'here' with 'and' and 'yourself'.
+- 'Now I will immediately evaluate your expensive goods.' Barinov calmly shapes this message through matching 'now' and 'evaluate' as well as 'goods'.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I express to you my extreme outrage!' Right then, Barinov's formidable mother scolds him in the kitchen.
-- 'I am deeply disappointed by the bad service in the restaurant.' Here the speaker anchors the line on the word meaning 'deeply' and builds the thought around 'to disappoint' and 'bad'.
-- 'Mom, do not shout here, we are busy with work.' The embarrassed head chef whispers pleadingly.
-- 'Be home at twelve o'clock sharp!' She lays down an uncompromising curfew before departing.
-- 'Chef, turn on the TV quickly, the food critic is on!' Nagiyev puts the word for 'boss' together with 'faster' and 'to turn on' in a crisp, natural spoken turn of phrase.
-- 'Has the critic already released his devastating review?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'critic', pairing it with 'already' and 'to let out'.
-- 'He says that our main virtue is integrity.' Nagiyev quotes the critic's surprisingly glowing words.
-- 'Really? And what did he say about the kitchen?' Chef Barinov expresses this naturally by combining the word for 'Really?' with 'to say' and 'kitchen'.
-- 'He called all our food simply delicious!' The restaurant owner beams with pure delight.
-- 'And he called bartender Kostya a real professional.' Here Nagiyev anchors the line on the word meaning 'bartender' and builds the thought around 'to call' and 'real'.
-- 'The critic gave the restaurant nine points out of ten!' The phrasing opens with 'critic' before bringing in 'to put' and 'restaurant' to make the point clear.
-- 'Nine out of ten? That is an incredible success!' Russian omits the present-tense verb 'to be' here, linking 'nine' directly with 'ten', combining 'nine' with 'ten' and 'incredible'.
-- 'Vitya, urgently bring Kostya back to work!' Nagiyev orders an instant reversal of the dismissal.
+- 'Vitya, I express to you my extreme outrage!' Mama aggressively expresses her extreme outrage to him. She is absolutely furious about her visit.
+- 'I am deeply disappointed by the bad service in the restaurant.' Mama complains that she is deeply disappointed by the awful service. Everything was terrible in her opinion.
+- 'Mom, do not shout here, we are busy with work.' Barinov begs his mother not to shout while they are working. This is very embarrassing for him.
+- 'Be home at twelve o'clock sharp!' Mama strictly orders him to be home at exactly twelve o'clock. She still treats him like a child.
+- 'Chef, turn on the TV quickly, the food critic is on!' Nagiyev bursts in telling the chef to quickly turn on the TV. The food reviewer is on right now.
+- 'Has the critic already released his devastating review?' Barinov panics, wondering if the devastating review is already out. He expects the absolute worst.
+- 'He says that our main virtue is integrity.' Nagiyev quotes the man saying their main virtue is having strong principles. This is a very surprising turn.
+- 'Really? And what did he say about the kitchen?' Barinov is shocked and asks what was said about the actual cooking. That is all he really cares about.
+- 'He called all our food simply delicious!' Nagiyev happily announces that all the food was called simply amazing. It is the best possible compliment.
+- 'And he called bartender Kostya a real professional.' Nagiyev adds that the young guy was even called a true professional. The spilled drink somehow worked in their favor.
+- 'The critic gave the restaurant nine points out of ten!' Nagiyev reveals the incredible final score of nine out of ten. This is a massive victory for them.
+- 'Nine out of ten? That is an incredible success!' Barinov is stunned by the high score, calling it an unbelievable success. He can barely process the good news.
+- 'Vitya, urgently bring Kostya back to work!' Nagiyev urgently orders him to bring the fired employee back immediately. They need their star worker.

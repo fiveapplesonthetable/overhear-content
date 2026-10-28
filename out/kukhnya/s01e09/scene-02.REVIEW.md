@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, I have a lot of work today.' Vika uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'today' and 'much'.
-- 'What is the matter, dear Victoria?' Russian omits the present-tense verb 'to be' here, linking 'matter' directly with 'dear' to make the point directly in conversation.
-- 'My sister asked me to babysit Alisa.' The phrasing opens with 'sister' before bringing in 'asked' and 'to babysit' to make the point clear.
-- 'And why with you and not with me?' Chef Barinov delivers a punchy conversational reaction built around the Russian word meaning 'why'.
-- 'Because you are always busy in the kitchen.' Russian omits the present-tense verb 'to be' here, linking 'because' directly with 'always', pairing it with 'busy' and 'kitchen'.
-- 'I want to spend time with my daughter myself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Alisa, who do you want to stay with?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'My daughter wants to stay with her dad.' Chef Barinov expresses this naturally by combining the word for 'daughter' with 'wants' and 'to stay'.
-- 'Well, you decided everything yourselves.' Vika puts the word for 'well' together with 'decided' in a crisp, natural spoken turn of phrase.
-- 'I will buy her delicious sweet chocolate.' Chef Barinov uses the action verb meaning 'will buy' to focus on the single completed result, pairing it with 'delicious' and 'sweet'.
-- 'Remember, she is not allowed to eat chocolate.' Vika leads with the direct command form meaning 'remember', pairing it with 'forbidden' and 'to eat'.
-- 'Do not worry, Vika, I know everything.' Chef Barinov leads with the direct command form meaning 'worry', followed by 'know'.
-- 'Watch her attentively until the evening.' Vika leads with the direct command form meaning 'watch', pairing it with 'attentively' and 'evening'.
+- 'Viktor, I have a lot of work today.' With her niece visiting during a busy shift, Vika tells Viktor she is swamped with work today.
+- 'What is the matter, dear Victoria?' Barinov asks Victoria what the problem is.
+- 'My sister asked me to babysit Alisa.' Vika explains that her sister asked her to look after little Alisa for the day.
+- 'And why with you and not with me?' Since Alisa is Viktor's own daughter, he feels hurt and asks why Tanya trusted Vika instead of him.
+- 'Because you are always busy in the kitchen.' Vika reminds him frankly that he is always tied up running the kitchen.
+- 'I want to spend time with my daughter myself.' Stung by the remark, Viktor insists he wants to spend time with his daughter himself.
+- 'Alisa, who do you want to stay with?' To settle it fairly, Vika bends down and asks Alisa who she wants to stay with.
+- 'My daughter wants to stay with her dad.' Viktor proudly answers for her, declaring that his little girl wants to stay with her dad.
+- 'Well, you decided everything yourselves.' Seeing the two of them team up, Vika smiles and says they have made their choice.
+- 'I will buy her delicious sweet chocolate.' Wanting to spoil his daughter, Viktor promises to buy her delicious sweet chocolate.
+- 'Remember, she is not allowed to eat chocolate.' Vika immediately warns him to stop, reminding him that Alisa is not allowed to eat chocolate.
+- 'Do not worry, Vika, I know everything.' Brushing off the warning, Barinov tells Vika not to worry because he knows all about his daughter.
+- 'Watch her attentively until the evening.' Vika tells him to keep a close eye on the girl until evening.

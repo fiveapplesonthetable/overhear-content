@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, quickly clear the fifth table!' Vika leads with the direct command form meaning 'take away', pairing it with 'quickly' and 'fifth'.
-- 'Have you completely lost your nerve at this job?' Vika turns a statement into a question purely through rising intonation on the word meaning 'at all', pairing it with 'lost nerve' and 'work'.
-- 'One must work here, not cuddle.' The phrasing opens with 'here' before bringing in 'it is necessary' and 'to work' to make the point clear.
-- 'We were just calmly talking, Victoria Sergeevna.' Kostya expresses this naturally by combining the word for 'just' with 'calmly' and 'were talking'.
-- 'Any relationships are strictly forbidden here!' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'sternly' and 'are forbidden'.
-- 'We did nothing bad.' Here Kostya anchors the line on the word meaning 'bad' and builds the thought around 'did'.
-- 'Quickly go work in the hall.' Vika leads with the direct command form meaning 'come', pairing it with 'quickly' and 'to work'.
-- 'Vika, why are you so tense?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'tense' to make the point directly in conversation.
-- 'I have very many difficult matters.' Vika uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'very much' and 'a lot'.
-- 'Shall we go to an awesome place tonight?' Max turns a statement into a question purely through rising intonation on the word meaning 'let's go', pairing it with 'today' and 'in the evening'.
-- 'Max, I am too tired.' The phrasing opens with 'too' before bringing in 'strongly' and 'are tired' to make the point clear.
-- 'There you will rest wonderfully with me.' Max expresses this naturally by combining the word for 'there' with 'perfect' and 'will rest'.
-- 'We will see, I need to think about this.' Vika uses the action verb meaning 'have a look' to focus on the single completed result, pairing it with 'it is necessary' and 'to think'.
+- 'Nastya, quickly clear the fifth table!' Vika snaps at her staff, demanding a table be cleared quickly.
+- 'Have you completely lost your nerve at this job?' Vika rhetorically asks if the waitstaff have completely lost their minds on the job.
+- 'One must work here, not cuddle.' Vika reminds them they are at work and not a place to cuddle.
+- 'We were just calmly talking, Victoria Sergeevna.' Kostya defends himself and Nastya, claiming they were just having a quiet chat.
+- 'Any relationships are strictly forbidden here!' Vika insists that any workplace romance is strictly forbidden.
+- 'We did nothing bad.' Kostya points out they haven't actually done anything wrong.
+- 'Quickly go work in the hall.' Vika abruptly ends the argument by ordering him back to the dining room.
+- 'Vika, why are you so tense?' Max questions why his manager is acting so stressed out.
+- 'I have very many difficult matters.' Vika explains that she has too many difficult things to handle.
+- 'Shall we go to an awesome place tonight?' Max invites her out for a nice evening to relax.
+- 'Max, I am too tired.' Vika declines, stating she is far too exhausted.
+- 'There you will rest wonderfully with me.' Max promises she will have a perfect rest with him.
+- 'We will see, I need to think about this.' Vika leaves the door open, saying she will think about it.

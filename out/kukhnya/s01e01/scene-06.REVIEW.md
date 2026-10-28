@@ -27,21 +27,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why is the kitchen so quiet?' A question asking about the unusually tense atmosphere on the kitchen floor.
-- 'Chef is coming.' A short subject and verb warning that the boss is approaching.
-- 'Angry again.' The adverb for 'again' paired with the short adjective describing the chef's foul mood.
-- 'What happened?' The standard past-tense question for finding out what went wrong.
-- 'Football again?' Nastya guesses the reason behind the chef's predictable anger.
-- 'Yes, yesterday Spartak played.' Here Senya anchors the line on the word meaning 'yesterday' and builds the thought around 'played'.
-- 'And how much did he lose?' The phrasing opens with 'how much' before bringing in 'lost' to make the point clear.
-- 'A hundred grand.' Russian omits the present-tense verb 'to be' here, linking 'hundred' directly with 'pieces', combining 'hundred' with 'pieces'.
-- 'Unbelievable!' A very common Russian idiom expressing shock and astonishment.
-- 'A hundred thousand rubles?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'hundred', pairing it with 'thousand' and 'rubles'.
-- 'Yes, exactly one hundred thousand.' The adverb emphasizes the precise and painful total.
-- 'They always lose before his shift.' Senya complains about the terrible timing of the football club's losses.
-- 'And what do we do now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Stay silent and just work.' Two sharp imperatives advising head-down survival.
-- 'Do not anger the chef today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Understood.' A single word expressing comprehension and readiness.
-- 'I will be very careful.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'To work!' A short and spirited call to action. Alright, let's hear the whole conversation once again. Now let's listen to the whole conversation again from start to finish.
+- 'Why is the kitchen so quiet?' Nastya wonders about the unusual silence among the kitchen staff this morning.
+- 'Chef is coming.' Senya quietly warns her that their terrifying boss is on his way.
+- 'Angry again.' He adds that the boss is in one of his notorious bad moods.
+- 'What happened?' She asks what triggered the boss's fury this time.
+- 'Football again?' Nastya guesses that sports betting might be the cause again.
+- 'Yes, yesterday Spartak played.' Senya confirms that a match involving a specific team took place the night before.
+- 'And how much did he lose?' She inquires about the financial damage the boss suffered.
+- 'A hundred grand.' He reveals the massive sum of money lost on the bet.
+- 'Unbelievable!' Nastya is stunned by the sheer size of the gambling loss.
+- 'A hundred thousand rubles?' She repeats the amount just to make sure she heard it correctly.
+- 'Yes, exactly one hundred thousand.' Senya confirms the exact devastating figure without hesitation.
+- 'They always lose before his shift.' He points out the recurring pattern of bad luck right before work.
+- 'And what do we do now?' She asks for advice on how to survive the upcoming storm.
+- 'Stay silent and just work.' Senya recommends keeping their heads down and focusing purely on tasks.
+- 'Do not anger the chef today.' He specifically warns against doing anything that might set the boss off.
+- 'Understood.' Nastya acknowledges the survival strategy for the day.
+- 'I will be very careful.' She promises to tread lightly around the explosive head cook.
+- 'To work!' Senya abruptly ends the chat to get back to his station before disaster strikes.

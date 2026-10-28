@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Runt, kneel down on one knee before us!' Barinov solemnly opens the kitchen knighting ceremony.
-- 'Chef, what will happen to me now?' Max nervously wonders what initiation trials await him.
-- 'We solemnly accept you into our kitchen!' The head chef announces the official initiation.
-- 'In the name of the hot oven and baking tray!' Russian omits the present-tense verb 'to be' here, linking 'name' directly with 'hot', combining 'name' with 'hot' and 'oven'.
-- 'In the name of the heavy frying pan and ladle!' The chef bestows kitchen knighthood upon the rookie.
-- 'Congratulations on your culinary baptism of fire!' Senya and the cooks warmly cheer for the new member.
-- 'Chef, are you not even going to punish me?' Max is astonished to escape without harsh consequences.
-- 'Was this ritual not enough for you?' Barinov asks with a sly grin if more trials were needed.
-- 'You are the first person who passed the initiation!' The chef praises Max for enduring the ordeal.
-- 'We should initiate all future newcomers like this!' Senya enthusiastically suggests making the ritual a tradition.
-- 'Life is full of various losses and gains.' Max begins his poignant closing philosophical reflection.
-- 'Some people grieve, while others always rejoice.' The young cook reflects on human reactions to hardship.
-- 'But true friends always help in trouble.' Max finds genuine camaraderie among his chaotic colleagues.
-- 'The main thing is to understand that this is only the beginning!' Max embraces his culinary future with optimism.
+- 'Runt, kneel down on one knee before us!' Barinov commands the runt to kneel before them.
+- 'Chef, what will happen to me now?' Max asks the chef what will happen to him now.
+- 'We solemnly accept you into our kitchen!' Barinov solemnly accepts him into the kitchen.
+- 'In the name of the hot oven and baking tray!' Barinov swears by the hot oven and baking tray.
+- 'In the name of the heavy frying pan and ladle!' He continues the oath by the heavy frying pan and ladle.
+- 'Congratulations on your culinary baptism of fire!' Senya congratulates him on his culinary baptism of fire.
+- 'Chef, are you not even going to punish me?' Max asks the chef if he will even be punished.
+- 'Was this ritual not enough for you?' Barinov asks if that ritual was not enough for him.
+- 'You are the first person who passed the initiation!' He tells him he is the first person to pass the initiation.
+- 'We should initiate all future newcomers like this!' Senya suggests they initiate all future newcomers this way.
+- 'Life is full of various losses and gains.' Max reflects that life is full of various losses and gains.
+- 'Some people grieve, while others always rejoice.' He observes that some people grieve while others always rejoice.
+- 'But true friends always help in trouble.' True friends always help in times of trouble.
+- 'The main thing is to understand that this is only the beginning!' Max concludes the main thing is to understand this is only the beginning.

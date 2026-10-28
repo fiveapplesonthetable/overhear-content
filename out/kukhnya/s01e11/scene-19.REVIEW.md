@@ -26,12 +26,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, please forgive me for yesterday.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya, now is really not the time.' — colloquial negative idiom expressing inappropriate timing.
-- 'I have a difficult guest at the table.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Worse. He is constantly bothering me.' — comparative adverb paired with a verb of unwelcome attention.
-- 'What? I will go sort it out right now!' — interjection followed by future verbs of intention.
-- 'Kostya, stop! Do not go there.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This man is an important restaurant critic.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'He can write a terrible article.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Make the order faster, I will go to the hall.' — compound sentence with command form and future motion. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Nastya, please forgive me for yesterday.' Kostya begs his girlfriend to forgive him for what happened yesterday. He feels very guilty.
+- 'Kostya, now is really not the time.' Nastya brushes him off because she is too busy. Now is absolutely not the right time for this talk.
+- 'I have a difficult guest at the table.' Nastya explains she has a very difficult customer at her table. This guy is causing her a lot of stress.
+- 'Worse. He is constantly bothering me.' Nastya clarifies that it is worse than just being difficult. The man keeps hitting on her constantly.
+- 'What? I will go sort it out right now!' Kostya gets angry and offers to go sort things out immediately. He wants to protect his girlfriend.
+- 'Kostya, stop! Do not go there.' Nastya urgently stops him from going over there. She knows it will cause a huge disaster.
+- 'This man is an important restaurant critic.' Nastya reveals the terrible truth that this annoying man is actually the important critic. They cannot upset him.
+- 'He can write a terrible article.' Nastya points out that he could write a ruinous article about them. The whole restaurant is in danger.
+- 'Make the order faster, I will go to the hall.' Nastya just tells him to prepare the order quickly so she can go back out. She has to keep working.

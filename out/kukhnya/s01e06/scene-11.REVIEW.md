@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in, please, here is our kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Regarding the hall, I have no complaints.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Now let's look at your kitchen carefully.' The future inclusive form expresses shared action, with the adverb placed at the end for emphasis.
-- 'I myself will check every workstation.' The emphatic word underscores personal oversight, governing the matching word ending noun phrase. Okay, let's hear the formal dialogue once more. Now let's listen to the whole conversation again from start to finish.
+- 'Come in, please, here is our kitchen.' Politely gesturing the official forward, Vika leads the way into the kitchen.
+- 'Regarding the hall, I have no complaints.' Granting a rare shred of approval, the inspector praises the dining room.
+- 'Now let's look at your kitchen carefully.' Making his intentions clear, the official prepares for serious scrutiny.
+- 'I myself will check every workstation.' The inspector insists on conducting a thorough, hands-on sweep.

@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'Does he bring it for free?' Rising intonation turns this statement into a question."),
     (9, None, "'Yes, absolutely free.' Max confirms that the first supply costs nothing."),
     (10, None, "'And what do we do with it?' Kostya asks how that turns into rent money."),
-    (11, None, "'We swap the bottles and pay for the apartment.' Max reveals the core of his risky scheme."),
+    (11, None, "'We swap the bottles and pay for the apartment.' Max reveals the core of his risky scheme. Now let's listen to the conversation again without interruption."),
 ]

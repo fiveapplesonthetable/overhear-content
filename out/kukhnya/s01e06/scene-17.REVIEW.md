@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, why is this health inspector so angry?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I get it, this strict man is on the wagon!' Cognitive verb with a colloquial idiom of abstinence.
-- 'Do you think he quit drinking completely?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, that is why he is so nervous.' Causal statement with an intensifying manner adverb.
-- 'And how are we to calm him now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Sasha, come here to me quickly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am listening to you carefully, Chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you see that bald man at the table?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, he sits with a very gloomy expression.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Offer him the very best expensive wine.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what if he refuses alcohol?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Say that this is a gift on the house!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fine, Chef, I understood everything.' Acknowledgment word with a past cognitive verb and direct object.
+- 'Chef, why is this health inspector so angry?' Asking about the hostile mood, Sasha wonders why the official is so angry.
+- 'I get it, this strict man is on the wagon!' Proudly announcing his deduction, Barinov guesses the inspector's sobriety.
+- 'Do you think he quit drinking completely?' Sasha seeks clarification on the chef's bold theory about alcohol withdrawal.
+- 'Yes, that is why he is so nervous.' Connecting the lack of booze to his rage, Barinov explains the official's nervousness.
+- 'And how are we to calm him now?' Sasha wonders what strategy they can use to pacify the irritable guest.
+- 'Sasha, come here to me quickly.' Waving the waitress over, Barinov prepares to quietly brief her on his covert plan.
+- 'I am listening to you carefully, Chef.' Leaning in, Sasha gets ready to receive her delicate diplomatic mission.
+- 'Do you see that bald man at the table?' Subtly pointing him out, Barinov identifies the target of their impending charm offensive.
+- 'Yes, he sits with a very gloomy expression.' Sasha confirms she sees the miserable-looking official in the dining room.
+- 'Offer him the very best expensive wine.' Barinov instructs her to tempt the man with top-shelf liquor to break his streak.
+- 'And what if he refuses alcohol?' Pointing out a flaw, Sasha notes that a recovering alcoholic might simply say no.
+- 'Say that this is a gift on the house!' Insisting it be free, Barinov hopes a complimentary gift will lower the inspector's defenses.
+- 'Fine, Chef, I understood everything.' Accepting the risky assignment, Sasha heads out to offer the bribe.

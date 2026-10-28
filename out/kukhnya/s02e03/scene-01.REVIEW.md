@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say we are masters of our fate.' The question word for 'what' comes right at the start, followed directly by 'fate'.
-- 'We decide everything ourselves.' Max puts 'we' up front so the listener immediately catches the tone, followed by 'yourselves'.
-- 'We decide who we want to be with.' The key word here means 'we', which Max combines with 'decide'.
-- 'Everything depends only on us.' Here 'depends' sets up the idea, while 'us' comes at the end for emphasis.
-- 'But fate brings us a surprise.' The key word here means 'fate', which Max combines with 'present'.
-- 'When we start believing in this.' Max starts with 'when' and pairs it with 'we' to make the point clear.
-- 'It usually does this.' Listen for the word meaning 'it' right alongside 'does' in this line.
-- 'All right, Timur.' In Russian, 'good' leads into 'Timur' in a very natural everyday phrasing.
-- 'Bring me some lamb meat.' A compact expression built around 'to bring' and 'lamb'.
-- 'A young lamb, not a pensioner.' A compact expression built around 'young' and 'pensioner'.
-- 'Not like yesterday.' A compact expression built around 'how' and 'yesterday'.
-- 'Yesterday the meat was bad.' Chef Viktor puts 'yesterday' up front so the listener immediately catches the tone, followed by 'was'.
+- 'They say we are masters of our fate.' In his opening voiceover, Max reflects on the old saying that we are masters of our own fate.
+- 'We decide everything ourselves.' We like to believe that we make all our own choices in life.
+- 'We decide who we want to be with.' That includes choosing who we want to be with.
+- 'Everything depends only on us.' At first glance, it feels as if everything depends entirely on us.
+- 'But fate brings us a surprise.' Right when we feel in control, fate likes to throw us a surprise.
+- 'When we start believing in this.' Max notes that destiny strikes the moment we start believing we are in charge.
+- 'It usually does this.' In fact, life pulls that trick on us all the time.
+- 'All right, Timur.' Meanwhile outside the kitchen, Barinov wraps up a call with his supplier Timur.
+- 'Bring me some lamb meat.' Viktor orders Timur to bring him fresh lamb for today's menu.
+- 'A young lamb, not a pensioner.' He jokes sharply that he wants a young lamb, not an tough old pensioner.
+- 'Not like yesterday.' He warns Timur not to repeat yesterday's terrible delivery.
+- 'Yesterday the meat was bad.' Viktor reminds him that yesterday's meat was completely unusable.

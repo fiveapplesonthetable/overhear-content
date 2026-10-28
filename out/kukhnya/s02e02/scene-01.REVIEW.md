@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Business is going well?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'let's go'.
-- 'A lot of work.' Russian omits the present-tense verb 'to be' here, linking 'a lot' directly with 'of work', combining 'a lot' with 'of work'.
-- 'I hired my nephew.' Timur uses the action verb meaning 'got' to focus on the single completed result, pairing it with 'nephew'.
-- 'His name is Suslan.' Timur delivers a punchy one-word reaction built around the Russian word meaning 'call'.
-- 'What did you bring?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'brought'.
-- 'Suslan, unload.' Timur delivers a punchy one-word reaction built around the Russian word meaning 'unload'.
-- 'I was hired as a driver.' Notice the self-directed ending on the verb for 'sign up for', which directs the action back onto the subject.
-- 'Not as a loader.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'mover'.
-- 'What a bastard.' Timur delivers a punchy one-word reaction built around the Russian word meaning 'brute'.
-- 'Here is your fish, Chef.' Timur delivers a punchy one-word reaction built around the Russian word meaning 'fish'.
-- 'Why do I need fish?' Russian omits the present-tense verb 'to be' here, linking 'what for' directly with 'fish', combining 'what for' with 'fish'.
-- 'Take it back.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'take away' straight to 'back'.
+- 'Business is going well?' Barinov greets his supplier Timur and asks if business is going well.
+- 'A lot of work.' Timur replies that he has his hands full with work lately.
+- 'I hired my nephew.' Because he is so busy, Timur explains that he hired his nephew to help.
+- 'His name is Suslan.' He introduces the young man as Suslan.
+- 'What did you bring?' Looking at the crates, Viktor asks what supplies Timur brought today.
+- 'Suslan, unload.' Timur turns and orders his nephew to unload the van.
+- 'I was hired as a driver.' Suslan protests that he took the job to be a driver.
+- 'Not as a loader.' He insists he did not sign up to carry heavy boxes.
+- 'What a bastard.' Annoyed by his nephew's attitude, Timur mutters an insult under his breath.
+- 'Here is your fish, Chef.' Carrying the crate himself, Timur presents a batch of fish to the chef.
+- 'Why do I need fish?' Barinov stares at the crate and asks why on earth he would need fish.
+- 'Take it back.' Viktor did not order fish and tells Timur to haul it right back.

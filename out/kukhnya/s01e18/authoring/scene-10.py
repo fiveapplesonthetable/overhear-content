@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'Do you hear what I am saying?' Fedya makes sure the miserable Senya is paying attention."),
     (9, None, "'You need to drink something strong.' He advises Senya to find a strong drink at the bar."),
     (10, None, "'Alright, I will go look for some at the bar now.' Senya agrees to go search for a drink."),
-    (11, None, "'If I survive, I will stop stealing food!' Miserable and regretful, Senya vows to give up pilfering kitchen ingredients."),
+    (11, None, "'If I survive, I will stop stealing food!' Miserable and regretful, Senya vows to give up pilfering kitchen ingredients. Now let's listen to the conversation again without interruption."),
 ]

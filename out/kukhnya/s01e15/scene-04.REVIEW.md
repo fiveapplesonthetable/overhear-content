@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, come on, get up already, come on!' Lyova leads with the direct command form meaning 'get up', followed by 'already'.
-- 'Lyova, let me sleep for five more minutes.' Chef Barinov leads with the direct command form meaning 'give', pairing it with 'sleep a bit' and 'more'.
-- 'First, Mom baked pancakes for you.' The phrasing opens with 'first of all' before bringing in 'mum' and 'pancakes' to make the point clear.
-- 'Fresh pancakes are a very good reason.' Russian omits the present-tense verb 'to be' here, linking 'fresh' directly with 'pancakes', pairing it with 'very much' and 'good'.
-- 'She prepared sweet jam and tea.' Lyova uses the action verb meaning 'to prepare' to focus on the single completed result, pairing it with 'sweets' and 'jam'.
-- 'Your mom makes simply amazing breakfasts.' Here Chef Barinov anchors the line on the word meaning 'mum' and builds the thought around 'cooks' and 'just'.
-- 'And second, you really will be late.' The phrasing opens with 'second' before bringing in 'really' and 'will be late' to make the point clear.
-- 'Where do I have to rush so much now?' Chef Barinov expresses this naturally by combining the word for 'where to' with 'now' and 'strongly'.
-- 'Both of us are already expected in our kitchen.' Lyova puts the word for 'both' together with 'already' and 'are waiting' in a crisp, natural spoken turn of phrase.
-- 'What an annoying person you are, Lyova!' Russian omits the present-tense verb 'to be' here, linking 'annoying' directly with 'a man' to make the point directly in conversation.
-- 'I am simply caring about our shared work.' The phrasing opens with 'just' before bringing in 'care about' and 'mutual' to make the point clear.
-- 'Alright, I am getting up, bring the hot pancakes soon!' Chef Barinov leads with the direct command form meaning 'bring', pairing it with 'getting up' and 'quickly'.
+- 'Viktor Petrovich, come on, get up already, come on!' Urging his boss to wake up, Lyova tries to coax him out of bed with repeated encouragement.
+- 'Lyova, let me sleep for five more minutes.' Begging for just a little more rest, the tired man tries to negotiate for extra time.
+- 'First, Mom baked pancakes for you.' Using a clever tactic, the sous-chef tempts his boss with the promise of a homemade breakfast.
+- 'Fresh pancakes are a very good reason.' The mention of food immediately grabs his attention, giving him the motivation he needs.
+- 'She prepared sweet jam and tea.' Adding to the appeal, he lists the delicious sides waiting in the kitchen.
+- 'Your mom makes simply amazing breakfasts.' The chef utters a genuine compliment to express his deep appreciation for the cooking.
+- 'And second, you really will be late.' Bringing the focus back to reality, Lyova reminds him of the pressing time constraint.
+- 'Where do I have to rush so much now?' Still feeling lazy, the older man questions why there is such a desperate need to hurry.
+- 'Both of us are already expected in our kitchen.' Pointing out their shared responsibility, he notes that the staff is waiting for them to arrive.
+- 'What an annoying person you are, Lyova!' Expressing a mix of fondness and irritation, the boss playfully complains about being pestered.
+- 'I am simply caring about our shared work.' Defending his actions, the loyal assistant explains that he only wants the restaurant to succeed.
+- 'Alright, I am getting up, bring the hot pancakes soon!' Finally yielding, the chef agrees to get out of bed on the condition that breakfast is served immediately.

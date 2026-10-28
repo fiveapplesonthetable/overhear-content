@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, a strange guest is sitting in the corner of the dining room.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What is this person doing at his table?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He does not order anything and constantly writes.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Could it be a famous writer or journalist?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He studies everything around us too attentively.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But you yourself considered that young woman to be the critic!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'That young woman also behaves very suspiciously.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Does it turn out that I have two critics at once in the restaurant?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We must feed both guests at the highest level.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will prepare my best dishes for them.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The main thing is that the waiters do not make foolish mistakes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will personally oversee every finished order!' Subject word with manner adverb, future self-directed form, and matching form matching form.
+- 'Chef, a strange guest is sitting in the corner of the dining room.' Vika reports to the boss. She points out that there is a weird customer sitting in the corner.
+- 'What is this person doing at his table?' Barinov wants to know more details. He asks what the man is up to while sitting there.
+- 'He does not order anything and constantly writes.' She explains the suspicious behavior. The guy is just writing and has not asked for any food.
+- 'Could it be a famous writer or journalist?' He guesses who the man might be. The chef wonders if they have a famous author in the hall.
+- 'He studies everything around us too attentively.' The manager points out how observant the man is. He is looking at everything a little too closely.
+- 'But you yourself considered that young woman to be the critic!' Barinov is confused by the changing story. He reminds her that she previously thought the woman was the reviewer.
+- 'That young woman also behaves very suspiciously.' Vika defends her earlier guess. She notes that the woman is also acting in a weird way.
+- 'Does it turn out that I have two critics at once in the restaurant?' He repeats his fear. The boss cannot believe he might be dealing with two reviewers at the same time.
+- 'We must feed both guests at the highest level.' She suggests a safe plan. They need to provide top quality service to both of these people.
+- 'I will prepare my best dishes for them.' The chef agrees to the strategy. He promises to cook his absolute best food for them.
+- 'The main thing is that the waiters do not make foolish mistakes.' Vika worries about the rest of the staff. She hopes the waiters will not mess things up.
+- 'I will personally oversee every finished order!' Barinov takes full control. He vows to check every single plate before it leaves the kitchen.

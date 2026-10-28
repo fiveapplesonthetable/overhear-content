@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here everything is in French.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'here' straight to 'in French'.
-- 'For our chef this is not a problem.' Russian omits the present-tense verb 'to be', connecting 'for' directly with 'problem'.
-- 'Right, Maximilian?' Elena turns a statement into a question purely through rising intonation on the word meaning 'honestly' to make the point directly in conversation.
-- 'Si.' A crisp, everyday conversational reply meaning 'oui' that you will hear constantly in Russian dialogue.
-- 'Si? Idiot.' Russian omits the present-tense verb 'to be' here, linking 'oui' directly with 'idiot', combining 'oui' with 'idiot'.
-- 'Si is in Italian.' Russian omits the present-tense verb 'to be' here, linking 'oui' directly with 'in Italian', combining 'oui' with 'in Italian'.
-- 'In French it will be oui.' The phrasing opens with 'in French' before bringing in 'will be' and 'oui' to make the point clear.
-- 'Yes, of course, I know this.' Max expresses this naturally by combining the word for 'of course' with 'know'.
-- 'Maximilian, do you understand the French language?' Elena uses the polite everyday 'you' alongside 'language', keeping a formal or respectful register. Then Max responds.
-- 'Of course, I understand French perfectly.' Here Max anchors the line on the word meaning 'of course' and builds the thought around 'perfectly' and 'understand'.
-- 'Well, what will you do now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will read this recipe and prepare the dish.' Max uses the action verb meaning 'to read' to focus on the single completed result, pairing it with 'recipe' and 'will prepare'.
-- 'This will be very funny.' Louis chooses the action verb meaning 'will be' for the ongoing action, followed by 'very much' and 'ridiculous'.
+- 'Here everything is in French.' Elena points out a potential issue. She notices that the entire recipe is in French.
+- 'For our chef this is not a problem.' She quickly dismisses the concern. Elena confidently states this is not a problem for their chef.
+- 'Right, Maximilian?' Elena asks Max for confirmation. She prompts him to agree with her.
+- 'Si.' Max gives a confident but incorrect answer. He replies with the Italian word for yes.
+- 'Si? Idiot.' Louis mutters an insult under his breath. He calls Max an idiot for the mistake.
+- 'Si is in Italian.' Louis corrects the language error privately. He points out that 'si' is Italian.
+- 'In French it will be oui.' He provides the correct French translation. Louis notes that it should be 'oui'.
+- 'Yes, of course, I know this.' Max tries to cover his tracks. He quickly agrees and claims he knew that all along.
+- 'Maximilian, do you understand the French language?' Elena is slightly suspicious now. She directly asks if he understands the French language.
+- 'Of course, I understand French perfectly.' Max doubles down on his lie. He confidently asserts that he understands French perfectly.
+- 'Well, what will you do now?' Louis watches with amusement. He wonders aloud how Max is going to get out of this one.
+- 'I will read this recipe and prepare the dish.' Max announces his plan to the room. He says he will read the recipe and cook the dish.
+- 'This will be very funny.' Louis anticipates a disaster. He happily predicts that this will be very funny to watch.

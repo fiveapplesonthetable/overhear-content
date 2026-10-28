@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello! How are things, bartender?' The tired customer greets Kostya at the counter.
-- 'Hello! How are you feeling today?' Here Kostya anchors the line on the word meaning 'hello' and builds the thought around 'how' and 'today'.
-- 'Ugh, today I feel worse than yesterday.' Russian omits the present-tense verb 'to be' here, linking 'ugh' directly with 'today', combining 'ugh' with 'today' and 'worse'.
-- 'Did you happen to find my phone?' , combining 'by chance' with 'found' and 'phone'.
-- 'Yes, I found it near the counter.' Kostya uses the action verb meaning 'found' to focus on the single completed result, pairing it with 'counter'.
-- 'Huge thanks for the help, friend!' Russian omits the present-tense verb 'to be' here, linking 'huge' directly with 'thanks', combining 'huge' with 'thanks' and 'help'.
-- 'Tell me honestly, did my girlfriend not call?' , combining 'tell' with 'honestly' and 'girlfriend'.
-- 'No, no one has called here yet.' Kostya expresses this naturally by combining the word for 'here' with 'yet' and 'called'.
-- 'She has not returned from Saratov yet.' the guest puts the word for 'yet' together with 'returned' in a crisp, natural spoken turn of phrase.
-- 'Yesterday you spoke about her for a long time.' Kostya recalls their conversation of the previous night.
-- 'Yes, my memory is slowly returning to me.' The phrasing opens with 'memory' before bringing in 'slowly' and 'returns' to make the point clear.
-- 'Here is a drink for you on the house.' Russian omits the present-tense verb 'to be' here, linking 'drink' directly with 'expense', combining 'drink' with 'expense' and 'establishment'.
-- 'Thank you for your kindness, buddy!' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'kindness', combining 'thank you' with 'kindness' and 'buddy'.
+- 'Hello! How are things, bartender?' The guest says hello and asks how things are with the bartender. He is friendly. He calls the bartender 'barmen'.
+- 'Hello! How are you feeling today?' Kostya says hello and asks how he is feeling today. He remembers the man was drinking yesterday. 'Chuvstvuete' relates to feeling.
+- 'Ugh, today I feel worse than yesterday.' The guest groans that today he feels worse than yesterday. He has a hangover. 'Khuzhe chem vchera' means worse than yesterday.
+- 'Did you happen to find my phone?' The guest asks if he happened to find his phone. He lost it while drinking. 'Sluchayno ne nakhodil' means did not happen to find.
+- 'Yes, I found it near the counter.' Kostya confirms he found it near the counter. He is being helpful. 'Vozle stoyki' means near the bar counter.
+- 'Huge thanks for the help, friend!' The guest gives huge thanks for the help, calling him a friend. He is very relieved. 'Ogromnoe spasibo' means huge thanks.
+- 'Tell me honestly, did my girlfriend not call?' The guest asks him to tell honestly if his girlfriend called. He is worried he missed her call. 'Skazhi chestno' means tell honestly.
+- 'No, no one has called here yet.' Kostya replies no one has called there yet. The phone has been quiet. 'Poka nikto' means no one yet.
+- 'She has not returned from Saratov yet.' The guest mentions she has not returned from another city yet. He is explaining why she might call. He is referring to another Russian city.
+- 'Yesterday you spoke about her for a long time.' Kostya notes he spoke about her for a long time yesterday. The man was very talkative while drunk. 'Dolgo govorili' means talked for a long time.
+- 'Yes, my memory is slowly returning to me.' The guest admits his memory is slowly returning to him. He was very drunk. 'Medlenno vozvrashchaetsya' means slowly returning.
+- 'Here is a drink for you on the house.' Kostya offers a drink on the house. He is being a good bartender. 'Za schyot zavedeniya' means at the establishment's expense.
+- 'Thank you for your kindness, buddy!' The guest thanks his buddy for his kindness. He appreciates the free drink. 'Dobrotu' means kindness.

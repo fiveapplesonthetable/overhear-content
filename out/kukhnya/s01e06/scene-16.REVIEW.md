@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I really feel awkward impersonating a writer.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Stop being afraid, nobody knows his face.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What if Sasha read his smart books?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then she will admire you even more.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What should I do if she asks about the plot?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Speak mysteriously and look straight into her eyes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I cannot speak that mysteriously at all.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Just put on these dark glasses, friend.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you think dark glasses will solve all problems?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Real writers always wear dark glasses!' Here Max anchors the line on the word meaning 'real' and builds the thought around 'writers' and 'always'.
-- 'Okay, I will try to play this role.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Go ahead and win her heart!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I hope this deception ends well.' Present cognitive verb governing a future action verb subject word.
+- 'I really feel awkward impersonating a writer.' He is squirming uncomfortably, Kostya admits his fear of the elaborate romantic lie.
+- 'Stop being afraid, nobody knows his face.' Max tells his roommate to chill out, leaning on the author's legendary anonymity.
+- 'What if Sasha read his smart books?' Kostya worries that the waitress will ask him deep literary questions.
+- 'Then she will admire you even more.' Spinning the potential danger, Max turns it into a massive romantic advantage.
+- 'What should I do if she asks about the plot?' Frantically searching for a backup plan, Kostya panics about being interrogated about novels.
+- 'Speak mysteriously and look straight into her eyes.' Max advises him to use intense eye contact and vague nonsense as a shield.
+- 'I cannot speak that mysteriously at all.' Admitting his lack of charisma, Kostya fears he cannot pull off brooding genius vibes.
+- 'Just put on these dark glasses, friend.' Forcing the cheap shades onto Kostya, Max completes the transformation.
+- 'Do you think dark glasses will solve all problems?' Skeptically questioning the disguise, Kostya doubts the magical protective power of sunglasses.
+- 'Real writers always wear dark glasses!' Stating a hilariously stupid stereotype, Max speaks with absolute conviction.
+- 'Okay, I will try to play this role.' Reluctantly agreeing, Kostya commits to the ridiculous charade.
+- 'Go ahead and win her heart!' Enthusiastically pushing his friend, Max sends him toward his crush.
+- 'I hope this deception ends well.' Muttering a dark premonition, Kostya fears this fake identity will end in disaster.

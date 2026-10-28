@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Fedya, hi!' Russian omits the present-tense verb 'to be' here, linking 'hello?' directly with 'hi', combining 'hello?' with 'hi'.
-- 'Hello, chef, how are you?' Russian omits the present-tense verb 'to be' here, linking 'hello' directly with 'how', combining 'hello' with 'how' and 'things'.
-- 'Fedya, quit acting.' Chef Barinov uses the action verb meaning 'enough' to focus on the single completed result, pairing it with 'break' and 'comedy'.
-- 'Come back, I really need you.' Chef Barinov leads with the direct command form meaning 'return', pairing it with 'ago' and 'very much'.
-- 'Chef, I will not return to the kitchen.' Fedya uses the action verb meaning 'will come back' to focus on the single completed result, pairing it with 'kitchen'.
-- 'I know that I was at fault.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Sorry, but Senya has already agreed to return.' Chef Barinov leads with the direct command form meaning 'sorry', pairing it with 'already' and 'agreed'.
-- 'Did Senya really agree?' Fedya turns a statement into a question purely through rising intonation on the word meaning 'honestly', followed by 'agreed'.
-- 'Senya was the first to agree to everything.' Chef Barinov puts the word for 'first' together with 'agreed' in a crisp, natural spoken turn of phrase.
-- 'Then make me the new sous-chef.' Fedya leads with the direct command form meaning 'make', pairing it with 'back then' and 'new'.
-- 'No, no sous-chefs, Fedya.' Chef Barinov delivers a punchy conversational reaction built around the Russian word meaning 'sous-chefs'.
-- 'Fine, then I will come tomorrow morning.' Fedya expresses this naturally by combining the word for 'good' with 'back then' and 'will come'.
-- 'I expect you at exactly ten o'clock.' Chef Barinov uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'I'm waiting' and 'exactly'.
+- 'Hello, Fedya, hi!' Barinov tries to sound cheerful and casual over the phone to his recently fired employee.
+- 'Hello, chef, how are you?' Fedya replies formally, keeping a cool distance after being wrongly dismissed.
+- 'Fedya, quit acting.' Barinov drops the friendly act and orders him to stop pretending, literally telling him to stop 'breaking comedy'.
+- 'Come back, I really need you.' Barinov finally swallows his pride and outright begs his talented cook to return to the kitchen.
+- 'Chef, I will not return to the kitchen.' Fedya stubbornly refuses, making it clear that he will not simply walk back in after being mistreated.
+- 'I know that I was at fault.' Barinov offers a rare apology, admitting that he was wrong to fire them in a fit of rage.
+- 'Sorry, but Senya has already agreed to return.' Barinov uses a cunning tactic, claiming his best friend has already taken the deal to pressure him.
+- 'Did Senya really agree?' Fedya is taken aback, using a word that expresses strong doubt to ask if his friend really betrayed their pact.
+- 'Senya was the first to agree to everything.' Barinov lies effortlessly, insisting that Senya jumped at the chance to get his job back.
+- 'Then make me the new sous-chef.' Fedya tries to leverage the situation, demanding a promotion to a senior kitchen role in exchange for his return.
+- 'No, no sous-chefs, Fedya.' Barinov instantly shuts down the bold demand, refusing to give up any extra power.
+- 'Fine, then I will come tomorrow morning.' Fedya caves in and accepts the old terms, promising to show up for the morning shift.
+- 'I expect you at exactly ten o'clock.' Barinov immediately shifts back into boss mode, barking out a strict arrival time.

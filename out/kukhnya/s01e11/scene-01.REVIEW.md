@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, who is the most important in our restaurant?' Russian omits the present-tense verb 'to be' here, linking 'important' directly with 'restaurant' to make the point directly in conversation.
-- 'Maybe our strict head chef?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'be' and 'strict'.
-- 'Or the rich restaurant owner Dmitry?' Max turns a statement into a question purely through rising intonation on the word meaning 'rich', pairing it with 'owner' and 'restaurant'.
-- 'Or maybe our strict director Victoria?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'maybe', pairing it with 'strict' and 'director'.
-- 'No, the most important here are the guests.' Russian omits the present-tense verb 'to be' here, linking 'important' directly with 'here', combining 'important' with 'here' and 'guests'.
-- 'That is true, our guests can be very different.' Here Kostya anchors the line on the word meaning 'truth' and builds the thought around 'guests' and 'can be'.
-- 'Some guests can be too stingy.' The phrasing opens with 'some' before bringing in 'guests' and 'can be' to make the point clear.
-- 'Other guests can be very cheerful.' Kostya expresses this naturally by combining the word for 'guests' with 'can be' and 'very'.
-- 'And do they often hug you?' Max turns a statement into a question purely through rising intonation on the word meaning 'often', followed by 'hug'.
-- 'Yes, they constantly say various kind words.' Here Kostya anchors the line on the word meaning 'constantly' and builds the thought around 'say' and 'different'.
-- 'They pay money for this lunch.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Therefore we always smile at every guest.' Kostya expresses this naturally by combining the word for 'therefore' with 'always' and 'smile'.
-- 'The guest always remains the most important.' Max puts the word for 'guest' together with 'always' and 'remains' in a crisp, natural spoken turn of phrase.
+- 'Kostya, who is the most important in our restaurant?' Max asks Kostya who the most important person is in their restaurant. He uses 'samyy glavnyy' to mean the main one. He wonders who is the boss.
+- 'Maybe our strict head chef?' Kostya guesses it might be their strict head chef. He adds 'mozhet byt' to mean maybe. It is a logical guess.
+- 'Or the rich restaurant owner Dmitry?' Max suggests it could be the rich restaurant owner, Dmitry. He uses 'ili' meaning or. Owners usually hold the most power.
+- 'Or maybe our strict director Victoria?' Kostya proposes another option, their strict director Victoria. He says 'a mozhet' as or maybe. She definitely acts like the boss.
+- 'No, the most important here are the guests.' Max corrects him, stating that the guests are the most important here. He is sharing a service industry motto. The word 'gosti' means guests.
+- 'That is true, our guests can be very different.' Kostya agrees this is true but notes their guests can be very different. He says 'eto pravda' for that is true. They see all kinds of people.
+- 'Some guests can be too stingy.' Max points out that some guests can be too stingy. He uses 'odni' to mean some here. The word 'zhadnymi' describes greedy people.
+- 'Other guests can be very cheerful.' Kostya adds that other guests can be very cheerful. He starts with 'drugie' meaning others. Cheerful guests are much better.
+- 'And do they often hug you?' Max jokes by asking if they often hug the bartender. He is making a funny observation. 'Obnimayut' means they are hugging.
+- 'Yes, they constantly say various kind words.' Kostya confirms and says they constantly say various kind words. He uses 'postoyanno' to mean constantly. It is nice when people are polite.
+- 'They pay money for this lunch.' Max reminds him that they pay money for this lunch. This is the real reason they are important. Cash makes them the boss.
+- 'Therefore we always smile at every guest.' Kostya concludes that therefore they always smile at every guest. He says 'poetomu' meaning for this reason. Smiling is part of their job.
+- 'The guest always remains the most important.' Max states firmly that the guest always remains the most important. He sums up his initial point. The customer is king.

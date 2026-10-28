@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You deceived me in vain, Viktor Petrovich.' The adverb at the start expresses that an effort was pointless or a mistake.
-- 'You should have confessed to everything right away.' An impersonal past construction expressing what ought to have been done.
-- 'Unfortunately, you will have to pay a fine.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will send this young man home.' A firm statement of future action using the matching word ending for the animate object. Now, let's listen to the entire office confrontation once again. Now let's listen to the whole conversation again from start to finish.
+- 'You deceived me in vain, Viktor Petrovich.' Opening with the word 'zrya' meaning pointless or for nothing, the official scolds the chef for trying to lie.
+- 'You should have confessed to everything right away.' inspector points out that coming clean from the very beginning would have been the right move.
+- 'Unfortunately, you will have to pay a fine.' Delivering the bad news, the officer announces that a financial penalty is completely unavoidable.
+- 'We will send this young man home.' A stern promise is made to put the pastry cook on a plane back to his home country.

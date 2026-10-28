@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, bring me a clean glass.' Chef Barinov leads with the direct command form meaning 'bring', pairing it with 'clean' and 'glass'.
-- 'I will bring it right away, chef.' Here Nastya anchors the line on the word meaning 'now' and builds the thought around 'I will bring'.
-- 'We must drink to the holiday.' The phrasing opens with 'must' before bringing in 'to drink' and 'holiday' to make the point clear.
-- 'Chef, this is very pleasant.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'pleasant' to make the point directly in conversation.
-- 'Pour good wine for everyone.' Chef Barinov leads with the direct command form meaning 'pour', pairing it with 'lovely' and 'wine'.
-- 'Here is your glass, chef.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'glass'.
-- 'Thank you, Nastya, well done.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'well done', combining 'thank you' with 'well done'.
-- 'What a beautiful glass!' Russian omits the present-tense verb 'to be' here, linking 'beautiful' directly with 'glass' to make the point directly in conversation.
-- 'For good wine one needs a beautiful glass.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'of wine', combining 'good' with 'of wine' and 'is needed'.
-- 'I brought glasses for everyone.' Nastya uses the action verb meaning 'brought' to focus on the single completed result, pairing it with 'glasses'.
-- 'Now everyone has glasses.' The phrasing opens with 'now' before bringing in 'there is' and 'glasses' to make the point clear.
-- 'Raise your glasses.' Chef Barinov leads with the direct command form meaning 'lift up', followed by 'glasses'.
-- 'Let us drink to friendship!' Chef Barinov leads with the direct command form meaning 'let's', pairing it with 'will drink' and 'friendship'.
+- 'Nastya, bring me a clean glass.' Barinov barks an order, requiring specific equipment for the toast.
+- 'I will bring it right away, chef.' Nastya responds with immediate compliance.
+- 'We must drink to the holiday.' Barinov declares the necessity of marking the occasion with a drink.
+- 'Chef, this is very pleasant.' Max expresses genuine delight at the unexpected gesture.
+- 'Pour good wine for everyone.' Barinov gives a broader command to ensure everyone is included.
+- 'Here is your glass, chef.' Nastya returns quickly, delivering the requested item.
+- 'Thank you, Nastya, well done.' Barinov offers a brief word of thanks and approval.
+- 'What a beautiful glass!' Max compliments the aesthetic quality of the item.
+- 'For good wine one needs a beautiful glass.' Barinov philosophizes slightly, linking the quality of the drink to its presentation.
+- 'I brought glasses for everyone.' Nastya confirms that she has supplied everyone with what they need.
+- 'Now everyone has glasses.' Max points out that the group is now fully prepared.
+- 'Raise your glasses.' Barinov commands the room to prepare for the toast.
+- 'Let us drink to friendship!' He delivers the final dedication, focusing on camaraderie.

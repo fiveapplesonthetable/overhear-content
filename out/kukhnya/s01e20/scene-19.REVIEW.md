@@ -29,9 +29,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Am I interrupting? Viktor Petrovich, I know what happened.' Eleonora uses the action verb meaning 'to disturb' to focus on the single completed result, pairing it with 'course' and 'happened'.
-- 'What are you talking about?' Russian omits the present-tense verb 'to be', connecting 'you' directly with 'than'.
-- 'Did you sell the restaurant?' The question word for 'what' comes right at the start, followed directly by 'restaurant'.
-- 'Dima, how could you? We fixed everything.' Chef Barinov expresses this naturally by combining the word for 'how' with 'could' and 'to fix'.
-- 'Do not yell. Vit, it is business. Just business.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Trust me, it is better to sell while on the upswing.' Nagiyev leads with the direct command form meaning 'believe', pairing it with 'better' and 'to sell'. Now let's listen to the whole conversation again from start to finish.
+- 'Am I interrupting? Viktor Petrovich, I know what happened.' Eleonora enters politely by asking if she is interrupting before revealing that she knows about the recent events.
+- 'What are you talking about?' Barinov is completely confused and asks her what she means directly.
+- 'Did you sell the restaurant?' Barinov confronts his boss in disbelief, asking outright if he actually sold their workplace.
+- 'Dima, how could you? We fixed everything.' Barinov feels betrayed, asking how Dima could do this right after the team solved all the restaurant's issues.
+- 'Do not yell. Vit, it is business. Just business.' Nagiyev casually tells his friend to calm down, dismissing the emotional betrayal as simply a business decision.
+- 'Trust me, it is better to sell while on the upswing.' Nagiyev tries to justify the sale by instructing Barinov to trust his logic that cashing out during a peak is the smartest move.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi! Here we are.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'hi'.
-- 'Oh, meet Vika.' Max leads with the direct command form meaning 'get acquainted' to make the point directly in conversation.
-- 'Actually, we know Victoria Sergeyevna.' Russian omits the present-tense verb 'to be' here, linking 'actually' directly with 'acquainted' to make the point directly in conversation.
-- 'No, stop. She is just Vika, my girlfriend.' Russian omits the present-tense verb 'to be' here, linking 'stop' directly with 'just', followed by 'girlfriend'.
-- 'Vika, this is just Nastya and Kostya.' Max delivers a punchy one-word reaction built around the Russian word meaning 'just'.
-- 'Well, from work.' Vika delivers a punchy conversational reaction built around the Russian word meaning 'of work'.
-- 'All right, sit down. Sit here.' Max leads with the direct command form meaning 'sit down', followed by 'here'.
-- 'Make yourself comfortable.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will go grab us something to drink, okay?' Max turns a statement into a question purely through rising intonation on the word meaning 'go', pairing it with 'I will bring' and 'to drink'.
-- 'I mean, if we didn't have our restaurant...' Here Nastya anchors the line on the word meaning 'sense' and builds the thought around 'was' and 'restaurant'.
-- 'I would work here.' The phrasing opens with 'here' before bringing in 'to work for a while' to make the point clear.
-- 'Well, here comes the fun.' Max delivers a punchy one-word reaction built around the Russian word meaning 'fun'.
-- 'Let's dig in.' Max leads with the direct command form meaning 'let's', followed by 'to take apart'.
-- 'Let's drink to seeing each other.' Max leads with the direct command form meaning 'let's', followed by 'meeting'.
+- 'Hi! Here we are.' Nastya cheerfully announces their arrival at the table.
+- 'Oh, meet Vika.' Max formally introduces his girlfriend to the couple.
+- 'Actually, we know Victoria Sergeyevna.' Nastya points out they are already acquainted from work.
+- 'No, stop. She is just Vika, my girlfriend.' Max tries to keep things casual, referring to her simply as his girlfriend.
+- 'Vika, this is just Nastya and Kostya.' Max introduces the other two by their first names.
+- 'Well, from work.' Vika coldly clarifies that they only know each other from work.
+- 'All right, sit down. Sit here.' Max gestures for everyone to take a seat at the table.
+- 'Make yourself comfortable.' Max encourages his friends to get comfortable.
+- 'I will go grab us something to drink, okay?' Max offers to go fetch some drinks for the table.
+- 'I mean, if we didn't have our restaurant...' Nastya makes a passive-aggressive comment about their workplace.
+- 'I would work here.' Nastya implies she wouldn't mind taking a shift at their restaurant.
+- 'Well, here comes the fun.' Max returns with drinks, hoping to kick off the fun.
+- 'Let's dig in.' Max encourages everyone to grab a glass.
+- 'Let's drink to seeing each other.' Max proposes a toast to their get-together.

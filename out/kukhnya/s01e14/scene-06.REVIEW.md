@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I cannot manage the whole kitchen!' Lyova uses the action verb meaning 'will be able to' to focus on the single completed result, pairing it with 'to manage' and 'kitchen'.
-- 'You will definitely do absolutely great!' Senya uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'surely' and 'perfect'.
-- 'I have never replaced the chef before.' The phrasing opens with 'never' before bringing in 'earlier' and 'replace' to make the point clear.
-- 'Because you are our sous-chef, that is super-chef!' Senya expresses this naturally by combining the word for 'sous-chef' with 'there is' and 'super-chef'.
-- 'But the chef always shouts so loudly.' Lyova puts the word for 'always' together with 'strongly' and 'yells' in a crisp, natural spoken turn of phrase.
-- 'And you simply shout at everyone louder.' Senya leads with the direct command form meaning 'shout', pairing it with 'just' and 'louder'.
-- 'I completely do not know how to shout terribly.' The phrasing opens with 'at all' before bringing in 'to know how to' and 'scary' to make the point clear.
-- 'Come on, try to shout loudly at me.' Senya leads with the direct command form meaning 'let's', pairing it with 'to try' and 'on speaker'.
-- 'Senya, go cut these vegetables immediately!' Lyova leads with the direct command form meaning 'go', pairing it with 'immediately' and 'to cut'.
-- 'Very weak, Leva, we need more anger!' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'weakly', pairing it with 'necessary' and 'more'.
-- 'All right, now I will gather my strength.' The phrasing opens with 'good' before bringing in 'now' and 'to get ready' to make the point clear.
-- 'You are our absolute best head chef today!' Russian omits the present-tense verb 'to be' here, linking 'the most' directly with 'best', pairing it with 'main' and 'chef'.
-- 'Yes, I can do it, I definitely can!' Lyova uses the action verb meaning 'will be able to' to focus on the single completed result, pairing it with 'definitely'.
-- 'Now I see a real chef!' Senya uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'now' and 'see'.
+- 'I cannot manage the whole kitchen!' Lyova is terrified of the responsibility. He claims he cannot run the kitchen alone.
+- 'You will definitely do absolutely great!' Senya tries to build his confidence. He assures Lyova he will do a fantastic job.
+- 'I have never replaced the chef before.' Lyova points out his lack of experience. He admits he has never replaced the Chef before.
+- 'Because you are our sous-chef, that is super-chef!' Senya hypes him up with a pun. He calls him not just a sous-chef, but a super-chef.
+- 'But the chef always shouts so loudly.' Lyova worries about his leadership style. He notes that the Chef always yells so much.
+- 'And you simply shout at everyone louder.' Senya gives him simple advice. He tells Lyova to just yell louder than everyone else.
+- 'I completely do not know how to shout terribly.' Lyova confesses his gentle nature. He says he does not know how to be scary.
+- 'Come on, try to shout loudly at me.' Senya offers to be his practice target. He challenges Lyova to yell at him right now.
+- 'Senya, go cut these vegetables immediately!' Lyova gives it a try. He orders Senya to chop vegetables immediately.
+- 'Very weak, Leva, we need more anger!' Senya critiques the performance. He tells Lyova he needs much more anger in his voice.
+- 'All right, now I will gather my strength.' Lyova prepares for a second attempt. He promises to gather his strength and try again.
+- 'You are our absolute best head chef today!' Senya continues his aggressive encouragement. He calls Lyova the best head chef today.
+- 'Yes, I can do it, I definitely can!' Lyova finally finds his confidence. He excitedly declares that he can actually do this.
+- 'Now I see a real chef!' Senya validates his success. He proudly announces that Lyova finally sounds like a real boss.

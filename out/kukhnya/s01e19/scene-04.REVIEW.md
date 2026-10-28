@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here you go, Igor.' — Built around the key proper name meaning 'Igor'.
-- 'This is an oasis of French cuisine.' Russian omits the present-tense verb 'to be' here, linking 'oasis' directly with 'French', combining 'oasis' with 'French' and 'kitchen'.
-- 'A bastion of quality.' Russian omits the present-tense verb 'to be' here, linking 'enclave' directly with 'quality', combining 'enclave' with 'quality'.
-- 'So much effort went into this place.' Russian omits the present-tense verb 'to be', connecting 'how much' directly with 'here'.
-- 'A waiter is like my own child.' The question word for 'how' comes right at the start, followed directly by 'child'.
-- 'Oh, hi, Vilyash.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'hi'.
-- 'I am Nastya, actually.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'actually'.
-- 'She must be new.' Russian omits the present-tense verb 'to be' here, linking 'new girl' directly with 'probably', combining 'new girl' with 'probably'.
-- 'Well, let' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Make us two coffees.' Dmitry uses a direct command command form of the verb meaning 'make'.
-- 'This is Viktoria Sergeyevna.' Russian omits the present-tense verb 'to be' here, linking 'this' directly with 'Viktoriya', combining 'this' with 'Viktoriya' and 'Sergeyevna'.
-- 'The art director of our restaurant.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'art director' straight to 'restaurant'.
-- 'Good afternoon.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day'.
+- 'This is an oasis of French cuisine.' Nagiyev boasts about his restaurant, comparing it to an oasis to impress his guest.
+- 'A bastion of quality.' Nagiyev continues his grand speech, using high-class words to emphasize the premium nature of his establishment.
+- 'So much effort went into this place.' Nagiyev dramatically points out all the hard work he poured into building the business.
+- 'A waiter is like my own child.' Nagiyev flatters himself as a paternal figure to his staff, comparing the servers to his own children.
+- 'Oh, hi, Vilyash.' Nagiyev casually greets a passing waitress, entirely butchering her real name in the process.
+- 'I am Nastya, actually.' Nastya awkwardly corrects him, pointing out her actual name while trying not to offend her boss.
+- 'She must be new.' Nagiyev brushes off his mistake by assuming she was just hired, skipping the verb 'to be' entirely.
+- 'Well, let' Nagiyev smoothly moves the tour along, eager to show off more of the dining room.
+- 'Make us two coffees.' Nagiyev barks an order for drinks, acting every bit the demanding owner in front of his friend.
+- 'This is Viktoria Sergeyevna.' Nagiyev introduces his art director formally, using her patronymic to show respect.
+- 'The art director of our restaurant.' Nagiyev proudly states her impressive title, showcasing his top-level staff to his guest.
+- 'Good afternoon.' Vika offers a polite and professional greeting to the owner and his VIP friend.

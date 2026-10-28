@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I feel good with you.' The first content word means 'good', and 'you' rounds out the thought.
-- 'I feel good too.' Notice the word order: 'to me' comes first, and 'good' finishes the sentence.
-- 'Especially when you are without clothes.' In Russian, 'especially' leads into 'clothes' in a very natural everyday phrasing.
-- 'You are very funny.' You'll hear 'you' all the time in the show, here connected with 'funny'.
-- 'I am serious.' The key word here means 'I', which Sasha combines with 'seriously'. Then Max replies.
-- 'I know.' The key word here means 'I', which Max combines with 'know'.
-- 'Should I call you a taxi?' Notice the word order: 'for you' comes first, and 'taxi' finishes the sentence.
-- 'Why?' In Russian, 'what for' leads into 'what for' in a very natural everyday phrasing. And Sasha jumps in.
-- 'You are without a car today.' Sasha puts 'you' up front so the listener immediately catches the tone, followed by 'today'.
-- 'How will you get home?' Sasha starts with 'how' and pairs it with 'you' to make the point clear.
-- 'I will go by subway.' The first content word means 'I', and 'metro' rounds out the thought. Sasha answers straight away.
-- 'The subway is already closed.' A compact expression built around 'metro' and 'to close'. Let's hear it again.
+- 'I feel good with you.' Relaxing together, Max tells Sasha how good it feels to be with her.
+- 'I feel good too.' Sasha smiles and says she feels great with him too.
+- 'Especially when you are without clothes.' She teases him playfully that she likes him even better without his work uniform.
+- 'You are very funny.' Max laughs and calls her very funny.
+- 'I am serious.' Sasha grins and says she means it seriously. Then Max replies.
+- 'I know.' Max replies smoothly that he knows.
+- 'Should I call you a taxi?' Glancing at the clock, Sasha asks if she should call him a cab.
+- 'Why?' Max asks why he would need a taxi. And Sasha jumps in.
+- 'You are without a car today.' Sasha reminds him that he does not have a car today.
+- 'How will you get home?' She wonders how he plans to get back to his apartment.
+- 'I will go by subway.' Max says he will just hop on the Moscow metro. Sasha answers straight away.
+- 'The subway is already closed.' Sasha points out that it is late and the subway is already closed for the night. Let's hear it again.

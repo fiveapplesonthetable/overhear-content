@@ -20,7 +20,7 @@ STORY = [
     ('senya', 'Потому что нельзя брать его нож.', 'Because no one is allowed to take his knife.', [(226, 'Потому что нельзя брать мой нож')], ''),
     ('barinov', 'Он сказал, что это только его нож.', 'He said that it is only his knife.', [(227, 'Это мой нож')], ''),
     ('senya', 'Японский бог, он сейчас всех напугает!', 'Good heavens, he will scare everyone right now!', [(228, 'Японский бог')], ''),
-    ('kristina', 'Я просто хотел быстро нарезать рыбу.', 'I just wanted to slice the fish quickly.', [], ''),
+    ('barinov', 'Я просто хотел быстро нарезать рыбу.', 'I just wanted to slice the fish quickly.', [], ''),
     ('senya', 'С его острым ножом лучше не шутить.', 'It is better not to joke with his sharp knife.', [], ''),
     ('barinov', 'Этот новый повар меня очень бесит.', 'This new cook really annoys me.', [(230, 'Он меня бесит')], ''),
     ('barinov', 'Он мешает нам нормально работать.', 'He stops us from working normally.', [], ''),

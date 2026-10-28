@@ -32,7 +32,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You know, I cannot tonight.' Victoria politely turns down the invitation for that evening.
 - 'I have an important business meeting.' She explains that she already has work plans.
 - 'Excuse me, are you Victoria Goncharova, the art director?' A delivery courier interrupts their conversation.
-- 'Yes, that is me.' Victoria confirms her name with a simple two-word phrase.
+- 'Yes, that is me.' Victoria confirms her identity simply.
 - 'Then this is for you, sign right here.' The courier presents a massive bouquet and asks for her signature.
 - 'How beautiful! Max, hold these, please.' Ironically, Victoria hands the rival's giant bouquet to Max while she signs.
 - 'Thank you for the wonderful flowers.' She thanks the courier warmly.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, have you finished preparing the drinks?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, all orders are already ready.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Why did Max run away from here so quickly?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He was simply in a big hurry to get to the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It seems to me that he is behaving strangely.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Max is always a slightly strange guy.' Kostya deflects concern by characterizing his friend with an adjective and a noun.
-- 'Did he not say anything to you about me?' Victoria asks directly using a negative word and a matching form.
-- 'We spoke only about our work.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you definitely telling me the pure truth?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Of course, I never deceive you.' Kostya offers an emphatic denial with a negative adverb and a present tense verb.
-- 'Fine, then I will ask him myself.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'It is better not to disturb him right now, Vika.' Kostya suggests leaving Max alone with a comparative everyday.
+- 'Kostya, have you finished preparing the drinks?' Vika checks if the drinks are ready.
+- 'Yes, all orders are already ready.' Kostya confirms the completion of all orders.
+- 'Why did Max run away from here so quickly?' Vika asks why he left so fast.
+- 'He was simply in a big hurry to get to the kitchen.' Kostya explains his friend was in a rush.
+- 'It seems to me that he is behaving strangely.' Vika notes his odd behavior lately.
+- 'Max is always a slightly strange guy.' Kostya brushes it off as normal behavior.
+- 'Did he not say anything to you about me?' Vika probes for any conversations about herself.
+- 'We spoke only about our work.' Kostya insists they only discussed work.
+- 'Are you definitely telling me the pure truth?' Vika doubts his honesty.
+- 'Of course, I never deceive you.' Kostya swears he would never lie.
+- 'Fine, then I will ask him myself.' Vika decides to investigate on her own.
+- 'It is better not to disturb him right now, Vika.' Kostya warns her against bothering him now.

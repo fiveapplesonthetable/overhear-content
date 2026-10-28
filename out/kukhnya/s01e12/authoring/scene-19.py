@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.12'
 SOURCE_FILE = 'sources/kukhnya/s01/e12.ru.dual.srt'
 INTRO = 'In the kitchen back room of Claude Monet, cook Fedya returns from scouting out their new rival restaurant. Relieved to hear that the competitor is empty and quiet, Chef Viktor happily concludes that Claude Monet does not need any changes to stay on top. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around The Scout's Report line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "In the back room, cook Fedya returns from scouting the rival restaurant and reports to Chef Viktor that the competitor is empty, confirming that Claude Monet needs no changes. Next time you watch the episode, listen for the Russian expressions for 'to tell' and 'for now' — you will catch every word right away. See you next time!"
 CLOSING = ('fedya', 'Пока!')
 STORY = [
@@ -31,14 +31,14 @@ STORY = [
     ('fedya', 'Спасибо, шеф, я очень голодный!', 'Thank you, Chef, I am very hungry!', [], ''),
 ]
 WALK = [
-    (0, None, "'Fedya, well, how are things at the competitors' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (1, None, "'Chef, our scout has returned with a report.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, None, "'Tell me faster. Did you go inside?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (3, None, "'Yes, I looked at their new hall.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'To tell the truth, the interior is so-so.' — conversational parenthetical phrase with an idiomatic qualifier."),
-    (7, None, "'In the hall there is silence, plenty of empty seats.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'You see what I was talking about!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'We do not need to change anything yet.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (11, None, "'Go to the kitchen, you earned a hot lunch.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (12, None, "'Thank you, Chef, I am very hungry!' — polite expression of thanks followed by a everyday adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Fedya, well, how are things at the competitors' Barinov eagerly asks Fedya for news about the rival restaurant."),
+    (1, None, "'Chef, our scout has returned with a report.' Fedya jokingly calls himself a spy returning with news."),
+    (2, None, "'Tell me faster. Did you go inside?' Barinov tells him to hurry up and asks if he went in."),
+    (3, None, "'Yes, I looked at their new hall.' Fedya confirms he checked out the interior of the new place."),
+    (4, None, "'To tell the truth, the interior is so-so.' Fedya admits that the new restaurant does not look very impressive inside."),
+    (5, None, "'In the hall there is silence, plenty of empty seats.' Fedya reports that the place is quiet and completely empty."),
+    (6, None, "'You see what I was talking about!' Barinov feels vindicated and says this proves he was right all along."),
+    (7, None, "'We do not need to change anything yet.' Barinov decides they do not need to make any changes to their own restaurant."),
+    (8, None, "'Go to the kitchen, you earned a hot lunch.' Barinov rewards Fedya with a hot meal for his spying work."),
+    (9, None, "'Thank you, Chef, I am very hungry!' Fedya thanks him and says he is starving."),
 ]

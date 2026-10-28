@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.01'
 SOURCE_FILE = 'sources/kukhnya/s01/e01.ru.dual.srt'
 INTRO = 'We learn about the passion for cooking that started in childhood and led to military kitchen duty. Celebrity restaurant owner Dmitry Nagiyev visits the mess hall, tastes the soup, and offers an incredible opportunity. Listen to the story in Russian first, and then we will examine every line together.'
 OPENER = "Let's examine how a simple army soup opened the door to Moscow's culinary elite."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That is our fifth scene. In Kukhnya, this fateful meeting sets the entire story in motion, leading our cook straight to the prestigious kitchen of Claude Monet. See you next time!'
 CLOSING = ('max', 'До встречи!')
 STORY = [
@@ -32,19 +32,19 @@ STORY = [
     ('max', 'Спасибо огромное! Я обязательно приду.', 'Thank you very much! I will definitely come.', [], ''),
 ]
 WALK = [
-    (0, None, "'I always knew I would be a chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (1, None, "'Not a firefighter and not an astronaut.' Negative particles are repeated before each profession the matching word ending."),
-    (2, 'Даже не президентом.', "'Not even president.' The word at the start means 'even', adding emphasis."),
-    (2, 'А именно поваром.', "'Specifically a chef.' The contrastive conjunction is paired with an adverb meaning 'namely' or 'precisely'."),
-    (3, None, "'Here he is, our hero!' A proud exclamation introducing the talented cook."),
-    (4, None, "'I really liked your solyanka.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (5, None, "'Thank you! I tried very hard.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (6, 'Молодец.', "'Well done.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'well done'."),
-    (6, 'Из ничего практически шедевр.', "'Practically a masterpiece out of nothing.' High praise from the celebrity guest, noting how great food can be made from basic ingredients."),
-    (7, None, "'Would you like to work in a good restaurant?' An invitation framed politely as a question about what the cook wants to do."),
-    (8, None, "'Of course! That is my dream.' A passionate response using the common word for 'dream'."),
-    (9, None, "'You are welcome. I will be glad.' A warm traditional Russian formula of hospitality followed by a promise of being delighted to see them."),
-    (10, None, "'I am speaking completely seriously.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (12, None, "'Restaurant Claude Monet in Moscow.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'restaurant'."),
-    (13, None, "'Thank you very much! I will definitely come.' An enthusiastic promise using the adverb for 'definitely'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'I always knew I would be a chef.' Max reflects on his lifelong certainty about his chosen career path."),
+    (1, None, "'Not a firefighter and not an astronaut.' He lists the typical childhood dreams that he never cared for."),
+    (2, None, "'Not even president.' Even the highest office in the country couldn't tempt him away from the kitchen."),
+    (3, None, "'Specifically a chef.' His focus was always laser-targeted on culinary mastery."),
+    (4, None, "'Here he is, our hero!' Nagiyev warmly greets the young army cook who prepared his meal."),
+    (5, None, "'I really liked your solyanka.' The famous guest praises the traditional soup that was served."),
+    (6, None, "'Thank you! I tried very hard.' Max humbly accepts the compliment, proud of his effort in the kitchen."),
+    (7, None, "'Well done.' Nagiyev offers a short and simple nod of approval for a job well done."),
+    (8, None, "'Practically a masterpiece out of nothing.' The celebrity is amazed at the high quality achieved with basic military ingredients."),
+    (9, None, "'Would you like to work in a good restaurant?' He floats a life-changing proposition to the talented young man."),
+    (10, None, "'Of course! That is my dream.' Max eagerly agrees, seeing his ultimate ambition suddenly within reach."),
+    (11, None, "'You are welcome. I will be glad.' Nagiyev formally welcomes him, pleased to recruit such raw talent."),
+    (12, None, "'I am speaking completely seriously.' He assures the young cook that the offer is completely genuine."),
+    (13, None, "'Restaurant Claude Monet in Moscow.' The famous owner drops the name of his elite establishment in the capital."),
+    (14, None, "'Thank you very much! I will definitely come.' Max expresses deep gratitude and promises to show up for the opportunity."),
 ]

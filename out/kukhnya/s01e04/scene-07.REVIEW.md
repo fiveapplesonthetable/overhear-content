@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, look at Nastya.' Max directs his friend's attention toward the dining room.
-- 'She is a very pretty girl.' Kostya cannot hide his genuine admiration for the waitress.
-- 'Do you like her? Admit it honestly!' Max leads with the direct command form meaning 'admit', pairing it with 'pleases' and 'honestly'.
-- 'Well all right, I like her very much.' Kostya expresses this naturally by combining the word for 'very' with 'pleases'.
-- 'Then give her a nice compliment.' Max leads with the direct command form meaning 'say', pairing it with 'then' and 'nice'.
-- 'I am afraid, I cannot talk smoothly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Hi, boys! What are you talking about?' The phrasing opens with 'hi' before bringing in 'boys' and 'are talking' to make the point clear.
-- 'Kostya wants to tell you important words.' Max leaves no room for his friend to back down.
-- 'Nastya, you have a very pretty hairstyle!' Kostya delivers his compliment with nervous sincerity.
-- 'Thank you, Kostya! You are a very sweet guy.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'very', combining 'thank you' with 'very' and 'sweet'.
-- 'Did you hear? She called me sweet!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'See? The main thing is to always be brave!' Max chooses the action verb meaning 'see' for the ongoing action, followed by 'the main thing' and 'always'.
+- 'Kostya, look at Nastya.' Max draws his friend's attention to the hostess.
+- 'She is a very pretty girl.' Kostya admires the appearance of the young woman.
+- 'Do you like her? Admit it honestly!' Pressing his buddy, the cook demands a true confession of feelings.
+- 'Well all right, I like her very much.' The bartender finally admits his strong attraction to her.
+- 'Then give her a nice compliment.' Giving advice, the friend encourages a flattering remark.
+- 'I am afraid, I cannot talk smoothly.' Fear of stumbling over words makes the bartender hesitate.
+- 'Hi, boys! What are you talking about?' Nastya approaches the bar and greets the two friends.
+- 'Kostya wants to tell you important words.' Setting his friend up, the cook prompts the compliment.
+- 'Nastya, you have a very pretty hairstyle!' Kostya praises the way her hair looks today.
+- 'Thank you, Kostya! You are a very sweet guy.' Accepting the praise, the hostess calls him endearing.
+- 'Did you hear? She called me sweet!' Eagerly checking with his buddy, the bartender shares his excitement.
+- 'See? The main thing is to always be brave!' Courage pays off in these situations.

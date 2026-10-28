@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have just finished it off!' Max announces proudly, pretending he personally slaughtered the goose.
-- 'There is not a drop of blood on you!' Russian omits the present-tense verb 'to be' here, linking 'drop' directly with 'of blood', combining 'drop' with 'of blood'.
-- 'Chef, I simply strangled it!' Max invents on the spot, creating a bizarre excuse.
-- 'Lyova, start preparing the goose quickly!' Barinov commands the sous-chef without further delay. Now listen to the full kitchen exchange once more. Now let's listen to the whole conversation again from start to finish.
+- 'I have just finished it off!' Max announces he completed the task.
+- 'There is not a drop of blood on you!' Barinov points out the lack of mess.
+- 'Chef, I simply strangled it!' Max explains his clean method of killing.
+- 'Lyova, start preparing the goose quickly!' Barinov orders the cook to begin working on the bird.

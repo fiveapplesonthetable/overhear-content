@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = 'In the restaurant locker room, pranksters Senya and Fedya set up an elaborate trick for rookie Max. They pretend that health inspectors require all cooks to shave their arms completely bare before the shift. Listen to their hilarious conversation in Russian first, and then we will examine every line.'
 OPENER = "Let's examine this hilarious locker room prank line by line."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That concludes our fifth scene. In Kukhnya, trusting senior cooks about sanitation rules is a guaranteed recipe for personal embarrassment. See you next time!'
 CLOSING = ('max', 'До встречи!')
 STORY = [
@@ -32,21 +32,21 @@ STORY = [
     ('max', 'Спасибо, Федя, я быстро всё побрею.', 'Thank you, Fedya, I will quickly shave everything.', [(47, 'Спасибо')], ''),
 ]
 WALK = [
-    (0, 'Привет, парни!', "'Hello, guys!' Max walks into the locker room before the shift."),
-    (0, 'Как ваши дела?', "'How are your things?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'things', combining 'how' with 'things'."),
-    (1, 'Сеня, ты скоро?', "'Senya, are you nearly done?' Fedya waits impatiently with shaving cream in hand."),
-    (1, 'Мне нужна пена!', "'I need the foam!' Russian omits the present-tense verb 'to be' here, linking 'needed' directly with 'foam', combining 'needed' with 'foam'."),
-    (2, None, "'I will just shave my right arm, and that's it.' Senya acts out the ridiculous shaving ritual."),
-    (3, 'А что вы делаете?', "'And what are you doing?' Max delivers a punchy one-word reaction built around the Russian word meaning 'are doing'."),
-    (3, 'Руки бреете?', "'Shaving your arms?' Max turns a statement into a question purely through rising intonation on the word meaning 'arms', followed by 'are shaving'."),
-    (4, None, "'Today is the fifteenth, a big sanitary inspection!' Russian omits the present-tense verb 'to be' here, linking 'today' directly with 'fifteenth', combining 'today' with 'fifteenth' and 'date'."),
-    (5, None, "'Hair must not fall into the food!' Senya puts the word for 'hair' together with 'must' and 'fall into' in a crisp, natural spoken turn of phrase."),
-    (6, None, "'Come on, this is complete nonsense!' Max delivers a punchy one-word reaction built around the Russian word meaning 'nonsense'."),
-    (7, None, "'This is a strict rule of the sanitary inspection.' Russian omits the present-tense verb 'to be' here, linking 'strict' directly with 'rule', combining 'strict' with 'rule' and 'sanitary'."),
-    (8, None, "'If they find even one hair — you' ll be fired immediately!' Senya uses the action verb meaning 'find' to focus on the single completed result, pairing it with 'one' and 'hair'."),
-    (9, None, "'Why didn't you warn me earlier?' Max puts the word for 'why' together with 'warned' and 'earlier' in a crisp, natural spoken turn of phrase."),
-    (10, None, "'I don't even have a razor with me.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have' around the word meaning 'razor'."),
-    (11, None, "'All right, runt, take my razor.' Generously offering his personal razor to seal the prank."),
-    (12, None, "'For arms I don't mind the razor at all.' Russian omits the present-tense verb 'to be' here, linking 'arms' directly with 'razor', combining 'arms' with 'razor' and 'at all'."),
-    (13, None, "'Thank you, Fedya, I will quickly shave everything.' Max puts the word for 'thank you' together with 'quickly' and 'shave' in a crisp, natural spoken turn of phrase. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Hello, guys!' Walking in cheerfully, Max greets his colleagues before the shift."),
+    (1, None, "'How are your things?' Max casually checks in on them before unpacking his things."),
+    (2, None, "'Senya, are you nearly done?' Holding a can of shaving cream, Fedya pretends to be in a rush."),
+    (3, None, "'I need the foam!' Fedya demands the shaving supplies to sell the prank to the rookie."),
+    (4, None, "'I will just shave my right arm, and that's it.' Playing along, Senya acts like shaving his forearms is a normal routine."),
+    (5, None, "'And what are you doing?' Stopping in his tracks, Max is completely bewildered by their strange behavior."),
+    (6, None, "'Shaving your arms?' Max asks for confirmation, unable to believe his eyes."),
+    (7, None, "'Today is the fifteenth, a big sanitary inspection!' Inventing a fake inspection, Fedya attempts to panic Max."),
+    (8, None, "'Hair must not fall into the food!' Earnestly reciting a fake hygiene rule, Senya backs up their charade."),
+    (9, None, "'Come on, this is complete nonsense!' Laughing it off initially, Max suspects they are messing with him."),
+    (10, None, "'This is a strict rule of the sanitary inspection.' With a deadpan face, Fedya insists the requirement is mandatory."),
+    (11, None, "'If they find even one hair — you'll be fired immediately!' Raising the stakes, Senya threatens extreme disciplinary action."),
+    (12, None, "'Why didn't you warn me earlier?' Falling for the lie, Max panics over being unprepared."),
+    (13, None, "'I don't even have a razor with me.' Max frantically realizes he lacks the tools to comply with the fake rule."),
+    (14, None, "'All right, runt, take my razor.' He magnanimously, Fedya offers his own gear to trap Max completely."),
+    (15, None, "'For arms I don't mind the razor at all.' Fedya adds a humorous detail to ensure the prank goes all the way."),
+    (16, None, "'Thank you, Fedya, I will quickly shave everything.' Gratefully accepting the trap, Max rushes to shave himself completely bare."),
 ]

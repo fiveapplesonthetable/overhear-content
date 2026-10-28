@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, wait a second, listen to me please.' Nastya catches up with the despondent bartender.
-- 'Forgive me for stupidly calling you a coward.' Nastya uses the action verb meaning 'to forgive' to focus on the single completed result, pairing it with 'stupidly' and 'to call'.
-- 'You treated me very unfairly.' Kostya uses the action verb meaning 'to enter' to focus on the single completed result, pairing it with 'very' and 'unfairly'.
-- 'I was very mistaken and deeply regret it.' Nastya expresses this naturally by combining the word for 'strongly' with 'to make a mistake' and 'very'.
-- 'Kostya, you are fired, quickly pack your things!' Barinov shouts ruthlessly across the dining room.
-- 'Chef, are you really driving me out of work?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'boss', pairing it with 'to drive out' and 'work'.
-- 'You caused a scandal with an important restaurant critic!' Chef Barinov uses the action verb meaning 'to arrange' to focus on the single completed result, pairing it with 'scandal' and 'important'.
-- 'Chef, it is I who am to blame for everything!' Russian omits the present-tense verb 'to be' here, linking 'boss' directly with 'guilty', combining 'boss' with 'guilty'.
-- 'I do not care, the bartender leaves right now.' Chef Barinov puts the word for 'equally' together with 'bartender' and 'to leave' in a crisp, natural spoken turn of phrase.
-- 'All right, chef, I will take off the uniform immediately.' Here Kostya anchors the line on the word meaning 'well' and builds the thought around 'boss' and 'now'.
-- 'We cannot lose the restaurant' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our restaurant will have huge problems now.' Chef Barinov expresses this naturally by combining the word for 'restaurant' with 'now' and 'to be'.
-- 'We must fix everything before the article comes out.' Nastya puts the word for 'due' together with 'to fix' and 'exit' in a crisp, natural spoken turn of phrase.
+- 'Kostya, wait a second, listen to me please.' Nastya begs her boyfriend to wait a second and listen to her. She desperately wants to talk.
+- 'Forgive me for stupidly calling you a coward.' Nastya apologizes for foolishly calling him a coward earlier. She feels terrible about what she said.
+- 'You treated me very unfairly.' Kostya tells her that she treated him very unfairly. He is deeply hurt by her words.
+- 'I was very mistaken and deeply regret it.' Nastya admits she made a huge mistake and regrets it deeply. She knows she was completely wrong.
+- 'Kostya, you are fired, quickly pack your things!' Barinov angrily fires the bartender on the spot and tells him to pack his things fast. He is furious.
+- 'Chef, are you really driving me out of work?' Kostya is shocked and asks if the boss is really kicking him out. He cannot believe this is happening.
+- 'You caused a scandal with an important restaurant critic!' Barinov yells about the massive scandal caused with the VIP guest. It is an unforgivable offense.
+- 'Chef, it is I who am to blame for everything!' Nastya bravely steps in and claims all the blame for herself. She wants to save his job.
+- 'I do not care, the bartender leaves right now.' Barinov coldly says he does not care and the guy leaves immediately. He has made up his mind.
+- 'All right, chef, I will take off the uniform immediately.' Kostya accepts his fate and agrees to take off his uniform right away. He will not fight it.
+- 'We cannot lose the restaurant' Nastya argues they cannot afford to lose their best employee. She is trying everything to change his mind.
+- 'Our restaurant will have huge problems now.' Barinov points out the huge problems heading their way now. The business might not survive this.
+- 'We must fix everything before the article comes out.' Nastya insists they must fix everything before the terrible article is published. They still have a chance.

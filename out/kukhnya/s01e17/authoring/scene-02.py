@@ -16,7 +16,7 @@ TRANSITION = "Now let's listen to the whole conversation again from start to fin
 OUTRO = "Arriving at the back entrance of Claude Monet, Viktor and Max step inside, ready to face another demanding day in the restaurant kitchen. Next time you watch the episode, listen for the Russian expressions for 'to hold' and 'fish' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
-    ('barinov', 'Витя, держи рыбу крепче!', 'Vitya, hold the fish tighter!', [(33, 'Вить!'), (34, 'Сынче,')], ''),
+    ('max', 'Витя, держи рыбу крепче!', 'Vitya, hold the fish tighter!', [(33, 'Вить!'), (34, 'Сынче,')], ''),
     ('max', 'Шеф, я держу всё очень крепко.', 'Chef, I am holding everything very tightly.', [], ''),
     ('barinov', 'Мы уже почти пришли в ресторан.', 'We have already almost arrived at the restaurant.', [], ''),
     ('max', 'Вы действительно пойдёте в соседний ресторан?', 'Will you really go to the neighboring restaurant?', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Тогда быстро иди работать на кухню.', 'Then quickly go work in the kitchen.', [], ''),
 ]
 WALK = [
-    (0, None, "'Vitya, hold the fish tighter!' Chef Barinov leads with the direct command form meaning 'here you go', pairing it with 'fish' and 'tighter'."),
-    (1, None, "'Chef, I am holding everything very tightly.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, None, "'We have already almost arrived at the restaurant.' The phrasing opens with 'already' before bringing in 'almost' and 'have come' to make the point clear."),
-    (3, None, "'Will you really go to the neighboring restaurant?' Max turns a statement into a question purely through rising intonation on the word meaning 'really', pairing it with 'will go' and 'neighboring'."),
-    (4, None, "'I have nothing better to do, Max.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'They say they cook pretty good dishes there.' Max chooses the action verb meaning 'talks' for the ongoing action, followed by 'there' and 'are preparing'."),
-    (6, None, "'Who told you such foolishness?' Chef Barinov uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'such' and 'nonsense'."),
-    (7, None, "'A good friend of mine told me.' Max expresses this naturally by combining the word for 'one' with 'good' and 'friend'."),
-    (8, None, "'Your friend understands nothing about food.' Chef Barinov puts the word for 'friend' together with 'understands' and 'food' in a crisp, natural spoken turn of phrase."),
-    (9, None, "'Probably you are right, chef.' Russian omits the present-tense verb 'to be' here, linking 'probably' directly with 'right' to make the point directly in conversation."),
-    (10, None, "'Our restaurant is the best in the city.' Russian omits the present-tense verb 'to be' here, linking 'restaurant' directly with 'the most', pairing it with 'best' and 'town'."),
-    (11, None, "'I agree with you one hundred percent.' Russian omits the present-tense verb 'to be' here, linking 'agreed' directly with 'a hundred', followed by 'percent'."),
-    (12, None, "'Then quickly go work in the kitchen.' Chef Barinov leads with the direct command form meaning 'go', pairing it with 'back then' and 'quickly'."),
+    (0, None, "'Vitya, hold the fish tighter!' Max barks an order to hold the fish tighter on their walk back."),
+    (1, None, "'Chef, I am holding everything very tightly.' Max protests that he is already gripping it as tight as he can."),
+    (2, None, "'We have already almost arrived at the restaurant.' Barinov points out they are almost at their restaurant anyway."),
+    (3, None, "'Will you really go to the neighboring restaurant?' Max questions if his boss really intends to visit the competing restaurant next door."),
+    (4, None, "'I have nothing better to do, Max.' Barinov sarcastically replies that he has nothing better to do."),
+    (5, None, "'They say they cook pretty good dishes there.' Max mentions rumors that the competitor prepares decent food."),
+    (6, None, "'Who told you such foolishness?' Barinov demands to know who has been spreading such nonsense."),
+    (7, None, "'A good friend of mine told me.' Max vaguely credits a good friend with the information."),
+    (8, None, "'Your friend understands nothing about food.' Barinov dismisses the source, claiming the friend understands nothing about food."),
+    (9, None, "'Probably you are right, chef.' Max quickly backs down and agrees with his boss."),
+    (10, None, "'Our restaurant is the best in the city.' Barinov proudly declares their establishment the best in the city."),
+    (11, None, "'I agree with you one hundred percent.' Max emphatically agrees one hundred percent."),
+    (12, None, "'Then quickly go work in the kitchen.' Barinov orders his apprentice to hurry up and get to work in the kitchen."),
 ]

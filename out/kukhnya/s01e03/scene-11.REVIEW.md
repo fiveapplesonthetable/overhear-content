@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, we need to talk seriously.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I already told you everything.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Come on, don' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You know my real feelings.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Leave me alone right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Vadik, darling, there you are!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'We are just discussing an important banquet.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Get acquainted, this is my wife Elvira.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And she and I have already met!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Viktoria Sergeyevna helped me a lot today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Vadik, good for you for choosing this restaurant!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are my absolute best husband.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thank you, I am always glad to help you.' Polite conversational formula of gratitude with short adjective governing an basic verb form and matching form word.
+- 'Vika, we need to talk seriously.' Vadim initiates an important conversation.
+- 'I already told you everything.' Vika dismisses his attempt to talk.
+- 'Come on, don' Vadim asks her to let go of her anger.
+- 'You know my real feelings.' Vadim reminds her of his true emotions.
+- 'Leave me alone right now!' Vika demands to be left in peace.
+- 'Vadik, darling, there you are!' Elvira joyfully finds her husband.
+- 'We are just discussing an important banquet.' Vadim creates a cover story for their conversation.
+- 'Get acquainted, this is my wife Elvira.' Vadim introduces his spouse.
+- 'And she and I have already met!' Elvira reveals their prior encounter.
+- 'Viktoria Sergeyevna helped me a lot today.' Elvira praises the assistance she received.
+- 'Vadik, good for you for choosing this restaurant!' Elvira approves of the dining location.
+- 'You are my absolute best husband.' Elvira expresses her affection.
+- 'Thank you, I am always glad to help you.' Vika politely responds to the compliment.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = "Fearing the mystery visitor may also be a secret inspector, Chef Barinov urgently interrogates waitress Nastya about the man taking notes at her table. As Nastya reports that the guest has ordered nothing and writes continuously, Barinov panics at the thought of facing two food critics at once. Let's listen to their panicked exchange in Russian."
 OPENER = "Let's explore how Chef Barinov questions Nastya and realizes he might be dealing with two simultaneous food critics."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to interrogate staff about guests, discuss suspicious writing habits, and handle service pressure in Russian. Keep practicing these dynamic conversational skills as the story develops. Next time you watch the episode, listen for the Russian expressions for 'water' and 'time' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('nastya', 'Я всё сделаю в лучшем виде.', 'I will do everything in the best way.', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, how long have you had this guest?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (6, None, "'He is writing something the whole time.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'It turns out I have two critics now?' A rhetorical question conveying disbelief and escalating panic for the kitchen management."),
-    (11, None, "'Immediately take him our signature menu.' An urgent command form directing the server to provide special service to the visitor. Now, let's hear Chef Barinov interrogate Nastya once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Nastya, how long have you had this guest?' Barinov asks his employee about her customer. He wants to know how much time the man has spent there."),
+    (1, None, "'He is writing something the whole time.' Nastya answers by describing his actions. The man has not stopped taking notes since he arrived."),
+    (2, None, "'It turns out I have two critics now?' He panics a little bit. The chef wonders if there are suddenly two reviewers in his restaurant."),
+    (3, None, "'Immediately take him our signature menu.' The boss gives a strict order. He wants the man to see their best dishes right away."),
 ]

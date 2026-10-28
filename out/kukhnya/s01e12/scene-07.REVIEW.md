@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you waiting until a gnome sprinkles cinnamon?' A sarcastic rhetorical question criticizing hesitation at the prep station for the cook.
-- 'And always clean up your table.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, please speak a bit quieter.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'There must be perfect order in my kitchen.' A firm modal statement establishing high professional standards for the restaurant brigade. Now, let's hear Chef Barinov command his kitchen brigade once more. Now let's listen to the whole conversation again from start to finish.
+- 'Are you waiting until a gnome sprinkles cinnamon?' Barinov yells at a cook for being slow. He asks if a magic gnome is going to do the work.
+- 'And always clean up your table.' Barinov reminds the cook to clean his workspace.
+- 'Chef, please speak a bit quieter.' Senya politely asks his boss to lower his voice.
+- 'There must be perfect order in my kitchen.' Barinov demands absolute order in his kitchen and will not quiet down.

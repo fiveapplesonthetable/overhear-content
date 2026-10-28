@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you sick? Get down immediately!' The question word for 'what' comes right at the start, followed directly by 'immediately'.
-- 'Vika, I cannot live without you.' The little negative word sits right in front of the verb for 'can', just like 'not' in English. Vika answers straight away.
-- 'Stop this circus!' Vika leads with the direct command form meaning 'stop it', followed by 'circus'.
-- 'Do not blame yourself for anything.' Max delivers a punchy one-word reaction built around the Russian word meaning 'to blame'.
-- 'I understand that this is your trick.' Vika uses the informal everyday 'you' here with 'trick', as friends and close colleagues do.
-- 'You want to hang yourself — hang yourself, I do not care.' Notice the self-directed ending on the verb for 'hang oneself', which directs the action back onto the subject.
-- 'Wait, I want you to know.' Max uses the informal everyday 'you' here with 'knew', as friends and close colleagues do.
-- 'I truly love you!' Max expresses this naturally by combining the word for 'really' with 'love'.
-- 'Help! Kostya, help!' Max leads with the direct command form meaning 'help' to make the point directly in conversation.
-- 'The guy loves you, and what about you?' Here Kostya anchors the line on the word meaning 'boyfriend' and builds the thought around 'loves'.
-- 'You shoved him into a noose.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya, urgently help him!' Vika uses an urgent command built around the verb for 'help'.
-- 'Did you really hang yourself?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'hang oneself'.
+- 'Are you sick? Get down immediately!' Finding Max standing with a rope, Vika asks if he has lost his mind and orders him down.
+- 'Vika, I cannot live without you.' Max dramtically declares that he cannot live without her. Vika answers straight away.
+- 'Stop this circus!' Unmoved, Vika tells him to stop this foolish circus at once.
+- 'Do not blame yourself for anything.' Staying in character, Max tells her not to blame herself for what happens next.
+- 'I understand that this is your trick.' Vika replies flatly that she knows the whole thing is a trick.
+- 'You want to hang yourself — hang yourself, I do not care.' Calling his bluff, she tells him to go ahead and hang himself if he wants to.
+- 'Wait, I want you to know.' Startled that she is walking away, Max asks her to wait and listen.
+- 'I truly love you!' He shouts that he genuinely loves her.
+- 'Help! Kostya, help!' When the crate slips from under his feet, Max's harness jams and he yells for Kostya in real panic.
+- 'The guy loves you, and what about you?' Not realizing Max is actually choking, Kostya enters on cue and scolds Vika for being cold.
+- 'You shoved him into a noose.' Kostya dramatically accuses her of driving Max into the noose.
+- 'Kostya, urgently help him!' Seeing Max turning red, Vika realizes something is wrong and yells at Kostya to help him.
+- 'Did you really hang yourself?' Kostya finally notices Max is really choking and rushes to lift him up.

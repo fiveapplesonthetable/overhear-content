@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, did you like our restaurant today?' Vika turns a statement into a question purely through rising intonation on the word meaning 'hello', pairing it with 'pleased' and 'restaurant'.
-- 'Please forgive us, for the love of God.' the guest leads with the direct command form meaning 'forgive', followed by 'God'.
-- 'Did something happen with your wife?' Vika turns a statement into a question purely through rising intonation on the word meaning 'happened', followed by 'wife'.
-- 'My wife told me everything in detail.' the guest expresses this naturally by combining the word for 'wife' with 'in detail' and 'told'.
-- 'Did she get poisoned by some dish of ours?' Vika turns a statement into a question purely through rising intonation on the word meaning 'got poisoned', followed by 'dish'.
-- 'No, she was not poisoned by food at all.' Here the guest anchors the line on the word meaning 'at all' and builds the thought around 'got poisoned' and 'food'.
-- 'Why then did she feel so ill?' The phrasing opens with 'why' before bringing in 'became' and 'so' to make the point clear.
-- 'She is pregnant, already in the third month.' Russian omits the present-tense verb 'to be' here, linking 'pregnant' directly with 'already', pairing it with 'third' and 'month'.
-- 'So she just has bad morning sickness?' Vika turns a statement into a question purely through rising intonation on the word meaning 'so', pairing it with 'simply' and 'strong'.
-- 'Yes, the smells of food make her nauseous.' Here the guest anchors the line on the word meaning 'smells' and builds the thought around 'of food' and 'makes nauseous'.
-- 'We were very worried about her health.' The phrasing opens with 'very' before bringing in 'worried' and 'health' to make the point clear.
-- 'Thank you for your understanding and care.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'understanding', followed by 'care'.
-- 'So this woman is definitely not the critic.' Russian omits the present-tense verb 'to be' here, linking 'it means' directly with 'woman', pairing it with 'definitely' and 'critic'.
+- 'Hello, did you like our restaurant today?' Vika politely asks the guest if they enjoyed the restaurant today. She is checking on their experience.
+- 'Please forgive us, for the love of God.' The guest apologizes profusely to the staff. They literally ask for forgiveness for the sake of goodness.
+- 'Did something happen with your wife?' Vika is concerned and asks if something happened to the guest's wife. She wants to know why they are apologizing.
+- 'My wife told me everything in detail.' The guest explains that his wife told him everything in detail. He knows the whole story now.
+- 'Did she get poisoned by some dish of ours?' Vika worries that the woman got food poisoning from their dish. She is trying to find the problem.
+- 'No, she was not poisoned by food at all.' The guest reassures her that it is not food poisoning at all. The food is perfectly fine.
+- 'Why then did she feel so ill?' Vika is confused about why the woman felt so bad then. She wants to understand the situation.
+- 'She is pregnant, already in the third month.' The guest reveals the secret that she is actually pregnant. She is already three months along.
+- 'So she just has bad morning sickness?' Vika realizes the woman just has severe morning sickness. It was never about the restaurant food.
+- 'Yes, the smells of food make her nauseous.' The guest confirms this by saying food smells make her sick. It is a normal pregnancy symptom.
+- 'We were very worried about her health.' Vika expresses relief and mentions how worried they were. They really cared about her well-being.
+- 'Thank you for your understanding and care.' The guest thanks her for being so understanding and caring. They appreciate the restaurant's kind attitude.
+- 'So this woman is definitely not the critic.' Vika concludes that this woman is definitely not the restaurant critic. They were panicking over nothing.

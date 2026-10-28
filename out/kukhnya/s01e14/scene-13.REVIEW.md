@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, wake up!' The character uses a direct command command form of the verb meaning 'wake up'.
-- 'He will not wake up.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'wake up'.
-- 'It is useless to wake him.' The phrasing opens with 'useless' before bringing in 'wake up' to make the point clear.
-- 'Maximilian, there you are.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, I am here.' Max delivers a punchy one-word reaction built around the Russian word meaning 'here'.
-- 'You are hiding from us.' Dmitry uses a direct command command form of the verb meaning 'to hide'. Then Max responds.
-- 'I am not hiding from anyone.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Prepare a little masterpiece for us.' Nagiyev leads with the direct command form meaning 'prepare', pairing it with 'short' and 'masterpiece'.
-- 'We want classic French cuisine.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A chef needs to rest.' Here Max anchors the line on the word meaning 'head chef' and builds the thought around 'necessary' and 'relax'.
-- 'We have a production meeting.' Nagiyev uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'work-related' with 'meeting'.
-- 'Maximilian, I am waiting for you.' Dmitry uses the polite everyday 'you' here alongside 'person name', keeping a formal or respectful tone.
-- 'I will come to you now.' Max puts the word for 'now' together with 'will come' in a crisp, natural spoken turn of phrase.
+- 'Vitya, wake up!' Diana tries to wake the Chef. She playfully tells him to get up.
+- 'He will not wake up.' Nagiyev knows it is a lost cause. He flatly states that Barinov will not wake up.
+- 'It is useless to wake him.' He tells Diana to stop trying. Nagiyev explains that waking him is completely useless.
+- 'Maximilian, there you are.' Nagiyev finally spots Max. He says he has been looking for him everywhere.
+- 'Yes, I am here.' Max confirms his presence. He simply states that he is here.
+- 'You are hiding from us.' Nagiyev accuses Max of avoiding him. He says Max has been hiding from them.
+- 'I am not hiding from anyone.' Max denies the accusation. He calmly claims he is not hiding from anyone.
+- 'Prepare a little masterpiece for us.' Nagiyev gives Max a daunting task. He orders him to prepare a little masterpiece.
+- 'We want classic French cuisine.' He specifies the exact type of food. Nagiyev requests classic French cuisine for the guests.
+- 'A chef needs to rest.' Max tries to buy some time. He suggests the head chef needs to rest first.
+- 'We have a production meeting.' Nagiyev dismisses the excuse. He insists they have a production meeting right now.
+- 'Maximilian, I am waiting for you.' Nagiyev demands Max's immediate attention. He says he is waiting for him.
+- 'I will come to you now.' Max realizes he has no choice. He agrees to come over right away.

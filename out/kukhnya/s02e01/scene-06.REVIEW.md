@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Louis, what do you have here on the table?' Viktor approaches the pastry table looking for something to drink.
-- 'Come on, chef, please, easy!' Louis delivers a punchy one-word reaction built around the Russian word meaning 'easy'.
+- 'Come on, chef, please, easy!' Louis nervously tries to shush the chef before anyone notices.
 - 'What is in this nice bottle?' Viktor spots an interesting bottle on the counter.
 - 'I am not allowed to tell you anything.' The new owner ordered the staff to keep alcohol away from Viktor.
-- 'Tell me quickly what this is!' Chef Barinov leads with the direct command form meaning 'say', followed by 'quickly'.
+- 'Tell me quickly what this is!' Barinov loses patience and demands to know what is inside the bottle.
 - 'It is French syrup for a cake.' Louis claims the bottle only contains sweet baking syrup.
 - 'Senya, hold it right there!' Viktor catches Senya trying to sneak across the kitchen.
-- 'Who is this box for?' The preposition with the matching word ending asks who the recipient is.
+- 'Who is this box for?' Spotting a box in Senya's hands, Viktor asks who it belongs to.
 - 'Well, this is a gift for you, chef!' Senya pretends the stolen box is a present for Viktor.
 - 'Ah, right, of course, for the chef.' Viktor gladly accepts the excuse and takes the box.
 - 'If I see this again, I will fire you!' Viktor warns Senya not to steal from the kitchen again.
 - 'Chef, and what kind of candies are in there?' Senya is curious about the chocolates inside.
-- 'Great candies with French cognac!' Viktor is delighted to find liquor inside the chocolates.
+- 'Great candies with French cognac!' Viktor is delighted to find liquor inside the chocolates. Now listen to the whole kitchen search again without pauses.

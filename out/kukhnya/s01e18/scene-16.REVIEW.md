@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, have a pleasant evening.' Kostya uses the polite everyday 'you' here alongside 'sorry', keeping a formal or respectful tone.
-- 'What do you need from me?' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'me'. Then Kostya replies.
-- 'I need this bottle.' Russian omits the present-tense verb 'to be' here, linking 'needed' directly with 'bottle', combining 'needed' with 'bottle'.
-- 'What are you talking about?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'you say'.
-- 'I will take this bottle.' Kostya uses the action verb meaning 'will get' to focus on the single completed result, pairing it with 'a bottle'.
-- 'And I will put another one for you.' Kostya uses the action verb meaning 'will set' to focus on the single completed result, pairing it with 'the other one'.
-- 'Do you have absolutely nothing to do?' The phrasing opens with 'at all' before bringing in 'do' to make the point clear.
-- 'No, I just want to give another one.' Kostya expresses this naturally by combining the word for 'just' with 'want' and 'to give'.
-- 'Do not touch anything, get out of here!' Chef Barinov leads with the direct command form meaning 'touch', pairing it with 'go' and 'from here'.
-- 'But I must take it.' Here Kostya anchors the line on the word meaning 'has to' and builds the thought around 'take'.
-- 'I said, get out of here!' Chef Barinov leads with the direct command form meaning 'go', pairing it with 'said' and 'from here'.
-- 'Got it, let's move on.' Kostya leads with the direct command form meaning 'let's', pairing it with 'clear' and 'next'.
+- 'Excuse me, have a pleasant evening.' Kostya approaches carefully, offering a very polite greeting to soften the blow.
+- 'What do you need from me?' Chef Barinov sounds deeply annoyed by the interruption, bluntly asking what the bartender wants.
+- 'I need this bottle.' Kostya straight up asks for the item back, keeping his request as simple as possible.
+- 'What are you talking about?' Chef Barinov is completely baffled by this bizarre demand.
+- 'I will take this bottle.' Kostya awkwardly announces his intention to grab it right off the table.
+- 'And I will put another one for you.' He tries to negotiate by offering a replacement drink.
+- 'Do you have absolutely nothing to do?' Chef Barinov gets furious, asking if the bartender is completely out of his mind.
+- 'No, I just want to give another one.' Kostya stammers out a weak excuse, still trying to push the swap.
+- 'Do not touch anything, get out of here!' Chef Barinov yells at him to back off and leave immediately.
+- 'But I must take it.' Kostya stubbornly insists that he really has to do this.
+- 'I said, get out of here!' Chef Barinov repeats his angry dismissal, making it clear the conversation is over.
+- 'Got it, let's move on.' Kostya realizes he failed and awkwardly tries to move past the embarrassing moment.

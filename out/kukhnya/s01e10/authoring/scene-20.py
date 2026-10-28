@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "In the quiet service corridor of Claude Monet, waitress Sasha stops Max as he hurries past. After an awkward exchange of casual pleasantries, Sasha drops all pretense and delivers a stunning personal revelation that catches Max completely off guard. Let's listen to their dramatic corridor encounter in Russian."
 OPENER = "Let's explore how Sasha halts Max in the corridor and delivers an unexpected life-changing announcement."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to initiate serious conversations, share urgent personal news, and express disbelief in Russian. Listen for these impactful interpersonal phrases as the story continues. Next time you watch the episode, listen for the Russian expressions for 'to run' and 'pregnant' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('sasha', 'Ты слышал меня отлично с первого раза.', 'You heard me perfectly the first time.', [], ''),
 ]
 WALK = [
-    (3, None, "'Wait, wait at least one second.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'I urgently need to talk to you.' An impersonal construction with an adverb expressing pressing necessity for a private conversation."),
-    (9, None, "'I know that you like me.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (10, None, "'I am pregnant with your child, Max.' A direct revelation using a short adjective construction that abruptly changes the entire situation. Now, let's listen to Sasha break the stunning news to Max once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Wait, wait at least one second.' Sasha boldly makes such point through pairing 'wait' and 'least' as well as 'second'."),
+    (1, None, "'I urgently need to talk to you.' Sasha simply builds this picture through joining 'i' and 'need' along with 'you'."),
+    (2, None, "'I know that you like me.' Sasha softly gives this meaning through blending 'i' and 'you' and 'me'."),
+    (3, None, "'I am pregnant with your child, Max.' Sasha neatly gives this image by blending 'i' and 'your' as well as 'max'."),
 ]

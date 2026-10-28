@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you see what just happened in the hall?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our bartender boldly stepped up to the critic' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This critic was rudely insulting our Nastya again.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya did not start tolerating such insolent behavior.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What, did the guest order a drink from the bar now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Exactly, he received an order to the fullest program!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya poured a glass right onto his suit!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our quiet bartender turned out to be a real brave hero.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Now this important critic sits completely wet.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'But the chef will be terribly angry because of the scandal.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Victoria is already quickly running into the dining hall.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'A very swift dismissal definitely threatens Kostya right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'At least he courageously protected his beloved girl!' Contrastive conjunction with subject word, manner adverb, past verb, and matching form everyday-adjective-noun phrase.
+- 'Did you see what just happened in the hall?' Senya asks his friend excitedly if he saw what just went down in the dining room. He loves gossip.
+- 'Our bartender boldly stepped up to the critic' Fedya confirms that their bartender bravely walked right up to the VIP table. It was a shocking move.
+- 'This critic was rudely insulting our Nastya again.' Senya mentions that the mean guy was insulting the waitress again. He really crossed the line this time.
+- 'Kostya did not start tolerating such insolent behavior.' Fedya explains how their friend refused to tolerate that arrogant behavior anymore. He finally snapped.
+- 'What, did the guest order a drink from the bar now?' Senya jokingly asks if the customer ordered a drink from the bar. He is making fun of the situation.
+- 'Exactly, he received an order to the fullest program!' Fedya laughs and says the guy definitely got his order in full. It is a clever play on words.
+- 'Kostya poured a glass right onto his suit!' Senya excitedly reveals that the drink was poured directly onto the man's suit. It was a spectacular mess.
+- 'Our quiet bartender turned out to be a real brave hero.' Fedya is amazed that their usually quiet friend turned out to be a brave hero. He really stepped up.
+- 'Now this important critic sits completely wet.' Senya chuckles at the image of the important man sitting there completely soaked. It serves him right.
+- 'But the chef will be terribly angry because of the scandal.' Fedya worries that the boss will be terribly angry about the huge scandal. They are definitely in trouble.
+- 'Victoria is already quickly running into the dining hall.' Senya notices the manager rushing quickly into the dining room. She is going to try to fix it.
+- 'A very swift dismissal definitely threatens Kostya right now.' Fedya points out that their friend is almost certainly going to get fired very fast now. His job is doomed.
+- 'At least he courageously protected his beloved girl!' Senya uses the word zato to say that at least he bravely protected his beloved girl. It was totally worth it.

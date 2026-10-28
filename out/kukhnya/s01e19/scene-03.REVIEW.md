@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Max puts the word for 'here' together with 'are you doing' in a crisp, natural spoken turn of phrase.
-- 'Why aren't you at work?' Max delivers a punchy one-word reaction built around the Russian word meaning 'work'.
-- 'Another interrogation.' Russian omits the present-tense verb 'to be' here, linking 'again' directly with 'interrogation', combining 'again' with 'interrogation'.
-- 'Did you plan this or something?' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'conspired'.
-- 'I am on the second shift today.' Russian omits the present-tense verb 'to be' here, linking 'today' directly with 'second', combining 'today' with 'second' and 'shift'.
-- 'Great. I will go with you.' Here Kostya anchors the line on the word meaning 'perfect' and builds the thought around 'will go'.
-- 'Maybe you forgot,' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yeah, I remember.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'remember'.
-- 'I got fired.' Here the verb for 'to fire' takes the everyday past-tense ending '-li', which is also used for the polite 'you'.
-- 'Why didn' t you stay at Vika's?' Max uses the informal everyday 'you' here with 'remained', as friends and close colleagues do.
-- 'She wouldn' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'She started making everything complicated.' Kostya chooses the action verb meaning 'complicate' for the ongoing action, followed by 'beginning'.
+- 'What are you doing here?' Max is confused to find his friend lingering at the apartment in the morning.
+- 'Why aren't you at work?' Max bluntly asks why his friend is not at his shift at the restaurant.
+- 'Another interrogation.' Kostya deflects the question by complaining about being interrogated, mirroring Max's earlier argument with Vika.
+- 'Did you plan this or something?' Kostya gets defensive and accuses his friends of conspiring against him.
+- 'I am on the second shift today.' Max explains his own presence at home by noting his later work schedule.
+- 'Great. I will go with you.' Kostya eagerly seizes the chance to catch a ride to work later with his roommate.
+- 'Maybe you forgot,' Max gently reminds his friend of the unfortunate situation from the previous day.
+- 'Yeah, I remember.' Kostya sighs, acknowledging his painful reality.
+- 'I got fired.' Kostya states his predicament plainly, noting that he was let go from his job.
+- 'Why didn't you stay at Vika's?' Max uses the informal everyday 'you' here with 'remained', as friends and close colleagues do.
+- 'She wouldn' Max admits that she refused to let him stay over, highlighting the tension between them.
+- 'She started making everything complicated.' Kostya complains that her reaction is making a simple situation overly complex.

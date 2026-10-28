@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bye.' A crisp, everyday conversational reply meaning 'bye' that you will hear constantly in Russian dialogue.
-- 'Oh, you are leaving already?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'already', followed by 'are leaving'.
-- 'Yeah. It is kind of a downer here.' Russian omits the present-tense verb 'to be' here, linking 'yeah' directly with 'somehow', combining 'yeah' with 'somehow' and 'here'.
-- 'Please, hear me out.' Kostya leads with the direct command form meaning 'hear out' to make the point directly in conversation. Now let's listen to the whole conversation again from start to finish.
+- 'Bye.' Nastya offers a quick, informal farewell as she tries to leave the boring party early.
+- 'Oh, you are leaving already?' Kostya expresses his surprise that she is departing so soon just by raising his voice on the words for leaving already.
+- 'Yeah. It is kind of a downer here.' Nastya agrees and explains her mood by directly linking words meaning somehow and joyless to describe the atmosphere.
+- 'Please, hear me out.' Kostya begs her to stay, using a direct request for her to listen because he has something crucial to share.

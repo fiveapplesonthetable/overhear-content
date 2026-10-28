@@ -25,12 +25,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, look how the caviar shines!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I told you, the dye is great.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It looks like genuine black caviar.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This dish is called pike easter.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Because it is a real culinary miracle!' — causal conjunction followed by an emphatic noun phrase.
-- 'Give me a spoon, I want to taste.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Listen, the taste is simply magnificent.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our guests will be in total delight.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef will not find out anything, hide the jar!' — negative future word paired with an command form. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Senya, look how the caviar shines!' Looking closely into the bowl, Fedya admires how glossy the dyed caviar looks.
+- 'I told you, the dye is great.' Senya smugly reminds him that he said the food dye would work wonders.
+- 'It looks like genuine black caviar.' Fedya agrees that visually it passes for genuine black caviar.
+- 'This dish is called pike easter.' Repeating his joke, Senya christens their invention 'pike Easter'.
+- 'Because it is a real culinary miracle!' He laughs that turning cheap roe into luxury caviar is a true kitchen miracle.
+- 'Give me a spoon, I want to taste.' Curious about the flavor, Fedya asks for a spoon to taste a bite.
+- 'Listen, the taste is simply magnificent.' After tasting it, Fedya admits it actually tastes great.
+- 'Our guests will be in total delight.' Senya predicts the guests at the banquet table will be thrilled.
+- 'Chef will not find out anything, hide the jar!' Hearing footsteps, Senya tells Fedya to hide the dye bottle before anyone sees. Now listen to the full conversation once more.

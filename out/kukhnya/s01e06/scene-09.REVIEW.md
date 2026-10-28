@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Miss, come over to our table immediately!' The angry customer demands instant attention from the waitstaff.
-- 'Good day, I am listening to you very attentively.' Nastya greets him with calm professional courtesy.
-- 'Look at this, what is that?' The customer points aggressively down at his meal.
-- 'I see that this is an ordinary hair.' Nastya offers a calm and literal observation of the offending item.
-- 'I also see this long hair perfectly well!' the guest puts the word for 'perfectly' together with 'see' and 'long' in a crisp, natural spoken turn of phrase.
-- 'Then why are you asking about it?' Nastya innocently questions why he posed a question he already knew the answer to.
-- 'How did this hair get onto the plate?' The guest presses for an institutional explanation.
-- 'Probably it simply fell out of your head.' Nastya neutrally suggests the customer might be the origin.
-- 'Such a long hair cannot be mine!' The short-haired diner rejects the suggestion out of hand.
-- 'Then probably it fell out of a beard.' Nastya helpfully suggests another facial source.
-- 'I do not have a beard, call the chef!' The clean-shaven customer reaches his boiling point and demands management.
-- 'Fine, I will call the head chef right now.' Nastya unhurriedly walks off toward the kitchen to fetch Barinov.
+- 'Miss, come over to our table immediately!' Snapping at the waitstaff, the outraged diner demands urgent attention.
+- 'Good day, I am listening to you very attentively.' Nastya responds with unwavering, slightly robotic politeness.
+- 'Look at this, what is that?' Furiously pointing at his plate, the guest expects her to be horrified.
+- 'I see that this is an ordinary hair.' Nastya states the obvious with completely deadpan delivery.
+- 'I also see this long hair perfectly well!' Growing angrier, the guest shouts at her literal and unemotional response.
+- 'Then why are you asking about it?' Nastya logically questions why he asked if he already knew the answer.
+- 'How did this hair get onto the plate?' Demanding an explanation, the guest wants to know the mechanics of the hygiene failure.
+- 'Probably it simply fell out of your head.' He blithely, Nastya suggests the diner himself is to blame for the contamination.
+- 'Such a long hair cannot be mine!' Defensively gesturing to his short haircut, the man rejects the theory.
+- 'Then probably it fell out of a beard.' Casually pivoting, Nastya suggests another absurd theory about his facial hair.
+- 'I do not have a beard, call the chef!' Losing all patience, the guest escalates the complaint to management.
+- 'Fine, I will call the head chef right now.' Calmly accepting the demand, Nastya turns to fetch Barinov.

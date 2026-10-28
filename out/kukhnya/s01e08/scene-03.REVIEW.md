@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will never take a woman into the kitchen.' Barinov expresses his dogmatic hiring rule with a negated future verb.
-- 'What foolish thoughts, Viktor?' Elena dismisses his sexist ideas using an exclamatory phrase.
-- 'Women talk too much at work.' Barinov justifies his bias by claiming excessive chatter among female cooks.
-- 'In my kitchen there is always perfect order.' Elena points out the impeccable cleanliness and discipline at Arcobaleno.
-- 'In a restaurant kitchen strict control is needed.' Barinov stresses the demand for absolute authority.
-- 'My cooks work calmly and neatly.' Elena highlights professional composure over chaotic yelling.
-- 'You will not cope with our hard work.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I cope with any difficult task.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'At Claude Monet restaurant it is very hard.' Barinov describes the brutal physical demands of his kitchen.
-- 'I am not afraid of hard work, chef!' Elena declares her fearlessness in the face of long shifts.
-- 'You do not understand our male rules.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The rules in the kitchen are the same for everyone.' Russian omits the present-tense verb 'to be' here, linking 'rules' directly with 'kitchen', combining 'rules' with 'kitchen' and 'are the same'.
-- 'Then prove it in deed, Elena!' Barinov throws down the gauntlet with an command form challenge.
+- 'I will never take a woman into the kitchen.' Barinov bluntly states his hiring policy against female cooks.
+- 'What foolish thoughts, Viktor?' Elena calls out the absurdity of his outdated mindset.
+- 'Women talk too much at work.' He throws out another stereotype about women being too chatty during service.
+- 'In my kitchen there is always perfect order.' Elena counters by highlighting the pristine discipline in her own restaurant.
+- 'In a restaurant kitchen strict control is needed.' Barinov insists that a top-tier kitchen requires a firm hand to keep things running.
+- 'My cooks work calmly and neatly.' Elena emphasizes that her staff operates smoothly without unnecessary yelling.
+- 'You will not cope with our hard work.' He bluntly predicts that she would fail under the immense pressure of his kitchen.
+- 'I cope with any difficult task.' Elena confidently asserts her ability to handle any culinary crisis.
+- 'At Claude Monet restaurant it is very hard.' Barinov tries to intimidate her by talking up the punishing environment at Claude Monet.
+- 'I am not afraid of hard work, chef!' Elena refuses to back down, stating she does not fear a demanding shift.
+- 'You do not understand our male rules.' He implies there is an unspoken brotherhood that she could never grasp.
+- 'The rules in the kitchen are the same for everyone.' Elena rejects his exclusivity, arguing that professional standards apply to everyone.
+- 'Then prove it in deed, Elena!' Barinov finally dares her to put her skills to the ultimate test.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You have a partial ligament tear.' Here 'you' sets up the idea, while 'ligament' comes at the end for emphasis.
-- 'It's not too serious.' Notice the word order: 'this' comes first, and 'scary' finishes the sentence.
-- 'Keep your weight off that leg.' Here 'load' sets up the idea, while 'foot' comes at the end for emphasis.
-- 'Thank you.' The key word here means 'thank you', which Chef Viktor combines with 'thank you'.
-- 'What is the cause of your injury?' There is no question word here — in Russian, rising intonation on 'injury' is enough to make it a question. Chef Viktor answers straight away.
-- 'I got hit by a car.' Chef Viktor starts with 'I' and pairs it with 'hit' to make the point clear.
+- 'You have a partial ligament tear.' After examining Viktor's leg at the hospital, the doctor diagnoses a partial ligament tear.
+- 'It's not too serious.' He reassures the chef that the injury is not too serious.
+- 'Keep your weight off that leg.' Still, the doctor warns Viktor to keep his weight off that leg while it heals.
+- 'Thank you.' Barinov thanks the doctor for the exam.
+- 'What is the cause of your injury?' Filling out his report, the doctor asks how the injury happened. Chef Viktor answers straight away.
+- 'I got hit by a car.' Viktor admits that he got hit by a car.
 - 'Will you report to the police?' the speaker puts 'will be' up front so the listener immediately catches the tone, followed by 'declare'.
-- 'No.' Listen for the word meaning 'no' right alongside 'no' in this line.
-- 'I forgot to put the car on handbrake.' The first content word means 'I', and 'handbrake' rounds out the thought.
-- 'And it ran over me.' A compact expression built around 'it' and 'confront'.
-- 'I see.' In Russian, 'clear' leads into 'clear' in a very natural everyday phrasing. And Chef Viktor jumps in.
-- 'I will not report it.' The little negative word sits right in front of the verb for 'will be', just like 'not' in English.
+- 'No.' When asked if he will file a police report against the driver, Viktor says no.
+- 'I forgot to put the car on handbrake.' To protect Elena from losing her license, Viktor makes up a story about forgetting his own handbrake.
+- 'And it ran over me.' He claims his own parked car rolled forward and bumped into him.
+- 'I see.' The doctor nods and takes down the excuse without pressing further. And Chef Viktor jumps in.
+- 'I will not report it.' Viktor repeats firmly that he will not be reporting the accident.

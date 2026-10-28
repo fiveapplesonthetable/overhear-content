@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = 'Outside the restaurant after their evening shift, Max tells Sasha not to worry because he can catch a cab home. Sasha insists on driving him herself, though she grows annoyed when Max asks why she seems upset.'
 OPENER = 'Listen to Max and Sasha talking outside the restaurant before driving home.'
-TRANSITION = "Now listen to the conversation between Max and Sasha again. Now let's listen to the whole conversation again from start to finish."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Even though Sasha claims they are only friends, offering Max a ride home shows she still cares about him. Next time you watch the episode, listen for the Russian expressions for 'to worry' and 'strongly' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Спасибо, что отвезёшь меня домой.', 'Thank you for driving me home.', [(183, 'Саша')], ''),
 ]
 WALK = [
-    (0, None, "'Do not worry so much.' Max leads with the direct command form meaning 'worry', followed by 'strongly'."),
-    (1, None, "'I will quickly catch a car right now.' Here Max anchors the line on the word meaning 'now' and builds the thought around 'quickly' and 'to catch'."),
+    (0, None, "'Do not worry so much.' Stepping outside after work, Max tells Sasha not to fuss over how he will get home."),
+    (1, None, "'I will quickly catch a car right now.' He says he can easily hail a cab on the street right now."),
     (2, None, "'I will drive you home myself.' Sasha insists on giving him a ride in her car."),
-    (3, None, "'Sasha, is everything alright with you?' Max uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have' around the word meaning 'fine'."),
-    (4, None, "'Yes, everything is fine with me.' Sasha uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have' around the word meaning 'good'."),
+    (3, None, "'Sasha, is everything alright with you?' Noticing Sasha seems quiet, Max asks if everything is alright with her."),
+    (4, None, "'Yes, everything is fine with me.' Sasha insists that everything is fine."),
     (5, None, "'Why are you so sad all evening?' Max wonders why she has been quiet all shift."),
     (6, None, "'Well here you go starting again!' Sasha is frustrated that he keeps bringing up their relationship."),
     (7, None, "'After all, we already talked this morning.' They agreed earlier not to complicate things between them."),
-    (8, None, "'I just wanted to ask you.' Max puts the word for 'just' together with 'wanted' and 'to ask' in a crisp, natural spoken turn of phrase."),
-    (9, None, "'You and I are just good friends.' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'good', combining 'just' with 'good' and 'friends'."),
-    (10, None, "'Fine, I understood you very well.' The phrasing opens with 'perfectly' before bringing in 'understood?' to make the point clear."),
-    (11, None, "'Then get into the car quickly.' Sasha leads with the direct command form meaning 'sit down', pairing it with 'back then' and 'quickly'."),
-    (12, None, "'Thank you for driving me home.' Max appreciates the ride home."),
+    (8, None, "'I just wanted to ask you.' When Sasha snaps at him for asking, Max says he only meant to check on her."),
+    (9, None, "'You and I are just good friends.' Trying to keep her guard up, Sasha insists that the two of them are just good friends."),
+    (10, None, "'Fine, I understood you very well.' Max backs off and says he understands her point."),
+    (11, None, "'Then get into the car quickly.' Dropping the argument, Sasha tells him to hop into her car quickly."),
+    (12, None, "'Thank you for driving me home.' Max appreciates the ride home. Now listen to the conversation between Max and Sasha again."),
 ]

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, what did the guest say about the salad?' Vika puts the word for 'chef' together with 'guest' and 'said' in a crisp, natural spoken turn of phrase.
-- 'She said the salad had a strange taste.' Chef Barinov uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'salad' and 'strange'.
-- 'Chef, I made everything strictly by the recipe!' Max defends his culinary precision with confidence.
-- 'I warned you that he must not be allowed!' Victoria reminds the chef of her earlier caution.
-- 'Are you convinced of everything yourself now?' She demands an honest admission from Barinov.
-- 'Vika, go say that we will fix everything.' Chef Barinov leads with the direct command form meaning 'go', pairing it with 'say' and 'will fix'.
-- 'I hope this guest will not write a complaint.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Max, urgently remake this dish yourself!' Barinov gives a strict command to his junior cook.
-- 'Chef, I will prepare the freshest salad.' Max puts the word for 'chef' together with 'will prepare' and 'most' in a crisp, natural spoken turn of phrase.
-- 'Do you understand that the situation is very serious?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will not let our restaurant down, chef!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then work faster and do not talk too much!' Barinov orders him to focus entirely on cooking.
-- 'And I will meet a new guest in the dining room.' Vika uses the action verb meaning 'will meet' to focus on the single completed result, pairing it with 'new' and 'guest'.
+- 'Chef, what did the guest say about the salad?' Vika asks the chef what the guest said about the salad. She wants the details. She calls the customer 'gostya', a female guest.
+- 'She said the salad had a strange taste.' Barinov replies she said the salad had a strange taste. He is relaying the bad news. 'Strannyy vkus' means weird flavor.
+- 'Chef, I made everything strictly by the recipe!' Max defends himself, saying he made everything strictly by the recipe. He does not want to be blamed. 'Strogo po retseptu' means strictly by the recipe.
+- 'I warned you that he must not be allowed!' Vika reminds everyone she warned that he must not be allowed in the kitchen. She is angry at the young cook. 'Preduprezhdala' means I warned.
+- 'Are you convinced of everything yourself now?' Vika asks the chef if he is convinced of everything himself now. She is saying 'I told you so'. 'Ubedilsya' means got convinced.
+- 'Vika, go say that we will fix everything.' Barinov tells the director to go say they will fix everything. He wants to calm the customer down. 'Vsyo ispravim' means we will fix everything.
+- 'I hope this guest will not write a complaint.' Vika hopes this guest will not write a complaint. A bad review would be a disaster. 'Zhalobu' means a formal complaint.
+- 'Max, urgently remake this dish yourself!' Barinov orders his cook to urgently remake this dish himself. He is giving him a chance to fix his mistake. 'Srochno peredelay' means urgently remake.
+- 'Chef, I will prepare the freshest salad.' Max promises he will prepare the freshest salad. He wants to redeem himself. 'Samyy svezhiy' means the most fresh.
+- 'Do you understand that the situation is very serious?' Barinov asks if he understands the situation is very serious. He wants to make sure his cook is focused. 'Seryoznaya' means serious.
+- 'I will not let our restaurant down, chef!' Max vows he will not let their restaurant down. He is determined to do well. 'Ne podvedu' means I will not let down.
+- 'Then work faster and do not talk too much!' Barinov tells him to work faster and not talk too much. He wants action, not words. 'Ne boltay lishnego' means do not chatter unnecessarily.
+- 'And I will meet a new guest in the dining room.' Vika says she will go meet a new guest in the dining room. She has other work to do. 'Vstrechu' means I will meet.

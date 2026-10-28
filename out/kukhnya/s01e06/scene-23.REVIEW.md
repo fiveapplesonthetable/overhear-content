@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Runt, you will pay this expensive bill!' Chef Barinov holds Max accountable for the dinner tab.
-- 'Chef, but this is very big money.' Max is shocked by the astronomical cost of the truffles.
-- 'You will work for free a whole month!' Barinov imposes a strict penalty on the young cook.
-- 'Life is constantly putting us to the test.' Max begins his philosophical reflection on survival in the world.
-- 'Some people easily cope with difficulties.' Some kitchen staff navigate daily stress with grace.
-- 'And some people give up right away.' Others buckle under pressure when things fall apart in the kitchen.
-- 'For some life is a kaleidoscope of adventures.' Optimists find thrill and excitement in every challenge.
-- 'For others, a series of bitter disappointments.' Pessimists struggle through the hardships and pain.
-- 'Stop daydreaming, go wash the frying pans!' The head chef abruptly snaps Max back to reality.
-- 'In any case one must be ready for everything.' Here Max anchors the line on the word meaning 'case' and builds the thought around 'it is necessary' and 'to be'.
-- 'Life teaches us unexpected turns of fate.' Wisdom comes from facing the surprises thrown at us.
-- 'I will definitely deal with this problem.' Max shows resilience and determination to overcome the debt.
-- 'Now that is the right attitude for a cook!' Barinov nods in approval of the young cook's spirit.
-- 'Tomorrow new culinary victories await me!' Max looks forward with confidence to the next day.
+- 'Runt, you will pay this expensive bill!' Harshly sentencing Max, Barinov demands he cover the massive financial loss.
+- 'Chef, but this is very big money.' Max protests the staggering cost of the missing truffles.
+- 'You will work for free a whole month!' Firmly establishing the brutal terms, Barinov sentences him to indentured servitude.
+- 'Life is constantly putting us to the test.' Dramatically narrating his realization, Max ponders the unpredictable nature of survival.
+- 'Some people easily cope with difficulties.' Observing resilience, Max notes how some individuals bounce back from disaster.
+- 'And some people give up right away.' Max notes the alternative path of simply surrendering to bad luck.
+- 'For some life is a kaleidoscope of adventures.' Romantically describing the chaos, Max sees the optimistic view of constant adventures.
+- 'For others, a series of bitter disappointments.' Contrasting this with pessimism, Max reflects on the reality of endless suffering.
+- 'Stop daydreaming, go wash the frying pans!' Barking an order, Barinov instantly shatters the young cook's philosophical monologue.
+- 'In any case one must be ready for everything.' Concluding his thoughts, Max decides that eternal vigilance is the only way to survive the kitchen.
+- 'Life teaches us unexpected turns of fate.' Max accepts that bizarre surprises are just part of the journey.
+- 'I will definitely deal with this problem.' Resolving to put his head down, Max prepares to work off the massive debt.
+- 'Now that is the right attitude for a cook!' Grudgingly approving, Barinov nods at his trainee's refusal to break.
+- 'Tomorrow new culinary victories await me!' Cheerfully looking forward, Max is ready for the next ridiculous day on the line.

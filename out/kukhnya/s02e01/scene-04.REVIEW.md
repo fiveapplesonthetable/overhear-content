@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kristina, hi, I wanted to call you today.' Sasha puts the word for 'hi' together with 'wanted' and 'to call' in a crisp, natural spoken turn of phrase.
-- 'Hi, Sasha, what happened with you right now?' Kristina uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'hi' with 'now' and 'happened'.
-- 'Can you imagine, Victoria just angrily fired me!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why did she suddenly decide to fire you today?' Kristina expresses this naturally by combining the word for 'why' with 'suddenly' and 'decided'.
-- 'She is very angry because of a foolish mistake yesterday.' Sasha puts the word for 'very much' together with 'is angry' and 'silly' in a crisp, natural spoken turn of phrase.
-- 'Can you talk with your husband Dima?' Sasha turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'to talk' and 'husband'.
-- 'Let him help me return to the restaurant.' Sasha uses the action verb meaning 'will help' to focus on the single completed result, pairing it with 'to return' and 'restaurant'.
-- 'Sasha, sorry, however I will not be able to.' Kristina uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'sorry' and 'will come out'.
-- 'But why can you not ask Dima?' Sasha puts the word for 'why' together with 'can' and 'to ask' in a crisp, natural spoken turn of phrase.
-- 'Because Dima and I are getting divorced soon.' Here Kristina anchors the line on the word meaning 'because' and builds the thought around 'soon' and 'are getting divorced'.
-- 'How terrible, I did not know that at all!' The phrasing opens with 'horror' before bringing in 'at all' and 'knew' to make the point clear.
-- 'Kostya, quickly pour me a glass of good wine!' Kristina leads with the direct command form meaning 'pour', pairing it with 'quickly' and 'glass'.
-- 'One moment, right now I will pour you wine.' Kostya puts the word for 'one' together with 'moment' and 'now' in a crisp, natural spoken turn of phrase.
+- 'Kristina, hi, I wanted to call you today.' Sasha catches Kristina near the bar and says she was just about to call her.
+- 'Hi, Sasha, what happened with you right now?' Kristina asks what happened to make Sasha look so upset.
+- 'Can you imagine, Victoria just angrily fired me!' Sasha vents that Victoria just fired her in a fit of anger.
+- 'Why did she suddenly decide to fire you today?' Kristina is surprised and asks why Vika suddenly decided to let her go.
+- 'She is very angry because of a foolish mistake yesterday.' Sasha admits that Vika is furious over a foolish mistake from yesterday.
+- 'Can you talk with your husband Dima?' She asks if Kristina can put in a word with her husband Dima.
+- 'Let him help me return to the restaurant.' Sasha hopes Nagiyev can overrule Vika and bring her back to the restaurant.
+- 'Sasha, sorry, however I will not be able to.' Kristina apologizes and says she will not be able to help.
+- 'But why can you not ask Dima?' Sasha is confused about why Kristina cannot simply ask her own husband.
+- 'Because Dima and I are getting divorced soon.' Kristina reveals the real reason: she and Dima are getting divorced soon.
+- 'How terrible, I did not know that at all!' Sasha gasps, saying she had no idea their marriage was ending.
+- 'Kostya, quickly pour me a glass of good wine!' Needing a drink after sharing the news, Kristina asks Kostya for a glass of good wine.
+- 'One moment, right now I will pour you wine.' Kostya promises to pour her wine right away.

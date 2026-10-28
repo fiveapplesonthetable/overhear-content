@@ -25,13 +25,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your soup, buddy, enjoy your meal.' — friendly informal address paired with the standard Russian dining wish.
-- 'Viktor Petrovich, what are you doing?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I am doing what I must do.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'But an important critic is sitting right there!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I do not care who is sitting there.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This guest ordered soup earlier.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let him leave if he does not know how to wait.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'You are risking our restaurant' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Even if he were three times a critic!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'In my kitchen everyone is equal!' — everyday location phrase with short form everyday adjective. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Your soup, buddy, enjoy your meal.' Barinov friendly gives the soup to the regular customer. He wishes his buddy a good meal.
+- 'Viktor Petrovich, what are you doing?' Vika is horrified and asks what on earth he is doing. She cannot believe he just did that.
+- 'I am doing what I must do.' Barinov simply replies that he is doing what must be done. He is following his own rules.
+- 'But an important critic is sitting right there!' Vika frantically points out the important VIP sitting out there. She thinks this is a huge mistake.
+- 'I do not care who is sitting there.' Barinov stubbornly declares that he does not care who is sitting there. Status means nothing to him.
+- 'This guest ordered soup earlier.' Barinov defends his choice by saying the other person ordered first. It is just basic fairness.
+- 'Let him leave if he does not know how to wait.' Barinov adds that the impatient man can leave if he cannot wait. He refuses to be bossed around.
+- 'You are risking our restaurant' Vika warns him that he is risking their entire reputation. This could destroy everything they built.
+- 'Even if he were three times a critic!' Barinov yells back that it does not matter if the guy is a critic three times over. He stands his ground.
+- 'In my kitchen everyone is equal!' Barinov proudly announces that everyone is equal in his kitchen. He serves food fairly to all.

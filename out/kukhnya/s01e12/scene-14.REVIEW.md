@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, are you ready to start our loud performance?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, only do not say overly rude words.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Hey, pour me strong tea right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Pour it yourself, I do not listen to a foolish waitress!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya, after all we agreed to act completely differently!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Shut up, redhead, do not disturb me working peacefully!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Well, did our cunning plan work perfectly?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do not touch me and never come near me again!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Nastya, wait, I was trying for our sake!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You hurt me deeply with your mean words.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'That was only an act for the strict management!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I do not care, I do not want to see you.' matching form word with adverbial idiom, subject word, negated present verb, word object, and basic verb form.
+- 'Nastya, are you ready to start our loud performance?' Kostya asks Nastya if she is ready to start their fake fight.
+- 'Yes, only do not say overly rude words.' Nastya is ready but warns him not to be too mean.
+- 'Hey, pour me strong tea right now!' Nastya starts the show by rudely demanding a cup of tea.
+- 'Pour it yourself, I do not listen to a foolish waitress!' Kostya snaps back and calls her a stupid waitress.
+- 'Kostya, after all we agreed to act completely differently!' Nastya breaks character because he is being way too harsh.
+- 'Shut up, redhead, do not disturb me working peacefully!' Kostya tells her to shut up and calls her redhead. He is getting carried away.
+- 'Well, did our cunning plan work perfectly?' Kostya drops the act and proudly asks how he did.
+- 'Do not touch me and never come near me again!' Nastya is genuinely upset now and tells him to stay away.
+- 'Nastya, wait, I was trying for our sake!' Kostya begs her to wait. He explains he was just trying to make it look real.
+- 'You hurt me deeply with your mean words.' Nastya says his mean words actually hurt her feelings.
+- 'That was only an act for the strict management!' Kostya reminds her that it was all just a show for the boss.
+- 'I do not care, I do not want to see you.' Nastya does not care about the excuse. She is too hurt to look at him.

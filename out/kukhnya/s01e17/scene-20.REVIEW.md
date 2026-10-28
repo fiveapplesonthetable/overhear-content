@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'hello'.
-- 'Is this your party?' Vika turns a statement into a question purely through rising intonation on the word meaning 'party' to make the point directly in conversation.
-- 'You said she would not be here.' Nastya uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'will be'.
-- 'How can I not be at home?' Vika points out the absurdity of the situation.
-- 'Why did you bring them?' Vika puts the word for 'what for' together with 'to bring' in a crisp, natural spoken turn of phrase.
-- 'Why did you not warn us?' Here Nastya anchors the line on the word meaning 'why' and builds the thought around 'warned'.
-- 'You would never have come.' The phrasing opens with 'never' before bringing in 'have come' to make the point clear.
-- 'You are my friends.' Max delivers a punchy one-word reaction built around the Russian word meaning 'friends'.
-- 'I wanted to celebrate the birthday together.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You do not have to worry.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thank you for a lovely evening.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'beautiful', combining 'thank you' with 'beautiful' and 'evening'.
-- 'Bye.' Max delivers a punchy one-word reaction built around the Russian word meaning 'bye'.
-- 'Max, wait!' Vika leads with the direct command form meaning 'stop' to make the point directly in conversation.
+- 'Hello.' Nastya offers a simple, somewhat tense greeting as she arrives.
+- 'Is this your party?' Vika immediately questions the nature of the gathering, sounding defensive.
+- 'You said she would not be here.' Nastya points out a discrepancy in what they were told.
+- 'How can I not be at home?' Vika defends her presence in her own residence with a rhetorical question.
+- 'Why did you bring them?' She then turns her frustration on Max, demanding an explanation.
+- 'Why did you not warn us?' Nastya echoes the sentiment, asking why they were kept in the dark.
+- 'You would never have come.' Max defends his actions, stating a blunt truth about their reluctance.
+- 'You are my friends.' He emphasizes their bond to justify his extreme measures.
+- 'I wanted to celebrate the birthday together.' Max explains his core motivation for the entire setup.
+- 'You do not have to worry.' He tries to de-escalate the tension, telling them to relax.
+- 'Thank you for a lovely evening.' Max offers a sarcastic token of gratitude as the situation falls apart.
+- 'Bye.' He delivers a final, abrupt farewell.
+- 'Max, wait!' Vika calls out to stop him, realizing things have gone too far.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Waking up disoriented in an unfamiliar bedroom, Victoria is horrified to discover that she has spent the night in Max's apartment. When she angrily accuses him of taking advantage of her, Max playfully reminds her of her desperate late-night phone call begging for a rescue. Let's listen to their morning argument in Russian."
 OPENER = "Let's explore how Victoria reacts upon waking up in Max's apartment and how Max defends his actions."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('max', 'Твоя одежда лежит на том стуле.', 'Your clothes are lying on that chair.', [], ''),
 ]
 WALK = [
-    (1, None, "'Did you drag me into bed again?' A sharp accusatory question expressing indignation and shock upon waking up."),
-    (4, None, "'You called me yourself at night from the club.' A defensive assertion clarifying who actually initiated the late-night contact."),
-    (8, None, "'You were begging me to take you home.' An explanation revealing an earnest plea for rescue during the night."),
-    (9, None, "'You simply took advantage of my momentary weakness.' A resentful claim deflecting personal responsibility for an embarrassing situation. Now, let's hear Victoria and Max confront each other once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Did you drag me into bed again?' A sharp accusatory question expressing indignation and shock upon waking up."),
+    (1, None, "'You called me yourself at night from the club.' A defensive assertion clarifying who actually initiated the late-night contact."),
+    (2, None, "'You were begging me to take you home.' An explanation revealing an earnest plea for rescue during the night."),
+    (3, None, "'You simply took advantage of my momentary weakness.' A resentful claim deflecting personal responsibility for an embarrassing situation. Now, let's hear Victoria and Max confront each other once more."),
 ]

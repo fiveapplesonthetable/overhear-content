@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, why are you slacking off here?' Viktor scolds his idle apprentice with sharp irritation.
-- 'What else am I to do, chef?' Max defends his inactivity with a helpless gesture.
-- 'I was suspended from work today.' Max explains the disciplinary action taken against him.
-- 'Who suspended you? Me?' Viktor bristles at hearing about someone else giving orders.
-- 'Viktoria Sergeyevna told me to sit here.' Max names the management authority responsible.
-- 'Since when do you listen to her?' Viktor angrily rejects any of her administrative interference.
-- 'In this kitchen, only I am the boss!' Viktor asserts his absolute control over the crew.
-- 'She promised to fire me, chef.' Max recalls her strict warning about being fired.
-- 'Only I can fire cooks!' Viktor insists on his exclusive right to dismiss staff.
-- 'Now march to the kitchen!' Viktor barks a direct order to return to duty.
-- 'A pile of orders is waiting for you there.' Viktor points out the growing queue of tickets.
-- 'Thank you, chef, I am running!' Max expresses his relief at getting back to work.
-- 'Wait, where are you carrying that pan?' Chef Barinov leads with the direct command form meaning 'stop', pairing it with 'where' and 'carried'.
-- 'To the workstation, chef!' Max replies eagerly as he hurries toward the stoves. Now, let us listen to the complete scene again to practice your comprehension.
+- 'Max, why are you slacking off here?' Barinov demands to know why his cook is slacking off here. He says 'prokhlazhdaeshsya', meaning chilling out. He expects everyone to be working.
+- 'What else am I to do, chef?' Max asks the chef what else he is supposed to do. He sounds helpless. He is just following orders.
+- 'I was suspended from work today.' Max explains he was suspended from work today. He uses 'otstranili', which means they removed him. He is not allowed to cook.
+- 'Who suspended you? Me?' Barinov asks who suspended him and points out it was not him. He is confused and a bit angry. He asks 'kto' meaning who.
+- 'Viktoria Sergeyevna told me to sit here.' Max tells him the director told him to sit here. He is just following her rules. 'Skazala sidet' means told to sit.
+- 'Since when do you listen to her?' Barinov asks since when the young man listens to her. He is annoyed. 'S kakikh por' means since what times.
+- 'In this kitchen, only I am the boss!' Barinov proudly states that in this kitchen, only he is the boss. He is asserting his authority. 'Glavnyy' means the main one.
+- 'She promised to fire me, chef.' Max mentions she promised to fire him. He is worried about his job. 'Obeshchala' means she promised.
+- 'Only I can fire cooks!' Barinov insists that only he can fire cooks. He wants to show the director does not control the kitchen. 'Uvolnyat' means to fire.
+- 'Now march to the kitchen!' Barinov orders him to march to the kitchen right now. He says 'marsh' just like the English word. He wants his cook back to work.
+- 'A pile of orders is waiting for you there.' Barinov says a pile of orders is waiting for him there. 'Kucha chekov' literally means a pile of receipts. They are busy.
+- 'Thank you, chef, I am running!' Max thanks the chef and says he is running. He is happy to be back. 'Ya begu' means I am running.
+- 'Wait, where are you carrying that pan?' Barinov stops him and asks where he is carrying that pan. He notices his cook has something. 'Kuda' means where to.
+- 'To the workstation, chef!' Max replies he is taking it to his workstation. He is ready to cook. 'Rabochee mesto' is his working place.

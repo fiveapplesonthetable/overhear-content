@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, stop the car near this corner.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let us have you walk the rest on foot.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Colleagues should not see us together.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you afraid of silly rumors at work?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This will cause unnecessary questions in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are completely right, darling.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'This could ruin my important reputation.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am just joking, calm down.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then get out faster, I am in a hurry.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'All right, see you in the kitchen, administrator!' — conversational farewell with a playful vocational title. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Max, stop the car near this corner.' Vika gives a firm direction. She wants to be dropped off before they reach the restaurant.
+- 'Let us have you walk the rest on foot.' She suggests he continue on foot. Vika is trying to keep some distance between them.
+- 'Colleagues should not see us together.' Vika explains her reasoning. She wants to avoid any workplace gossip about their relationship.
+- 'Are you afraid of silly rumors at work?' Max teases her. He thinks her fear of rumors is a bit silly.
+- 'This will cause unnecessary questions in the kitchen.' She defends her caution. Vika believes arriving together will only cause trouble.
+- 'You are completely right, darling.' Max pretends to agree. He uses an affectionate term while mocking her concern.
+- 'This could ruin my important reputation.' He jokes about his own status. Max ironically claims he has a reputation to protect too.
+- 'I am just joking, calm down.' Max quickly drops the joke. He tells her to relax.
+- 'Then get out faster, I am in a hurry.' Vika is still stressed. She urges him to hurry up and leave the car.
+- 'All right, see you in the kitchen, administrator!' Max says goodbye with a playful salute. He calls her by her formal job title to tease her one last time.

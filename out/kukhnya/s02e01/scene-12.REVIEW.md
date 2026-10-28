@@ -29,12 +29,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe if something happened to you.' the self-directed ending on the verb for 'happened' turns the action back onto the subject.
-- 'When I was a kid, I had a dog.' To express possession, Russian uses the preposition 'by' plus the matching word ending word followed by 'dog'.
-- 'Ralph. And one day he bit me really badly.' — Notice the proper name meaning 'Ralph' paired with the word for 'he'.
-- 'I was mad at him for a long time.' Kostya expresses this naturally by combining the word for 'very much' with 'for a long time' and 'to take offence'.
-- 'Then a car hit him.' Kostya puts the word for 'a car' together with 'knock down' and 'then' in a crisp, natural spoken turn of phrase.
-- 'Too bad he didn't appreciate it.' Here Max anchors the line on the word meaning 'it is a pity' and builds the thought around 'only' and 'to appreciate'.
-- 'What, he died?' Max delivers a punchy one-word reaction built around the Russian word meaning 'died'.
-- 'No, of course not. He bit me again.' The verb for 'bit' is in the matching past tense, marked by the '-l' ending.
-- 'Better a live, angry dog than no dog at all.' Russian omits the present-tense verb 'to be' here, linking 'better' directly with 'alive', combining 'better' with 'alive' and 'evil'. Now let's listen to the whole conversation again from start to finish.
+- 'Maybe if something happened to you.' Kostya says he might forgive Max only if some bad accident happened to him.
+- 'When I was a kid, I had a dog.' To explain what he means, Kostya recalls a dog he owned as a kid.
+- 'Ralph. And one day he bit me really badly.' The dog's name was Ralph, and one day he bit Kostya badly.
+- 'I was mad at him for a long time.' Kostya says he stayed angry at the dog for a long time afterward.
+- 'Then a car hit him.' Then one day a car hit the dog in the street.
+- 'Too bad he didn't appreciate it.' Max jokes that it is a shame the dog did not appreciate Kostya's forgiveness.
+- 'What, he died?' Shocked, Max asks if the dog died in the accident.
+- 'No, of course not. He bit me again.' Kostya says no — once the dog recovered, it bit him all over again.
+- 'Better a live, angry dog than no dog at all.' Still, Kostya concludes that having an angry live dog beats having no dog at all.

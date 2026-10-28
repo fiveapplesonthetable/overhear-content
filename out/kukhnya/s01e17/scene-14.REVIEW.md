@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, happy birthday to you!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thank you very much, my loyal friend.' Russian omits the present-tense verb 'to be' here, linking 'big' directly with 'thank you', pairing it with 'faithful' and 'friend'.
-- 'I also congratulate you from the heart!' The phrasing opens with 'too' before bringing in 'soul' and 'congratulations' to make the point clear.
-- 'Thank you, Nastya, I am very pleased.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'very much', followed by 'pleasant'.
-- 'And here is this gift for you.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'gift'.
-- 'What kind of nice tickets are these?' Russian omits the present-tense verb 'to be' here, linking 'beautiful' directly with 'tickets' to make the point directly in conversation.
-- 'These are tickets to a good evening concert.' Russian omits the present-tense verb 'to be' here, linking 'tickets' directly with 'good', pairing it with 'evening' and 'a concert'.
-- 'We will have a great time together tonight.' Nastya expresses this naturally by combining the word for 'perfect' with 'will have fun' and 'today'.
-- 'You, me, and Nastya will go there.' Kostya uses the action verb meaning 'let's go' to focus on the single completed result, pairing it with 'there'.
-- 'We will dance there all night!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thanks, guys, you are real friends.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'the boys', pairing it with 'real' and 'friends'.
-- 'Come on, it is your holiday after all!' Kostya uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', followed by 'holiday'.
-- 'After all, today is your birthday.' Nastya uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'today' and 'day'.
-- 'Happy birthday once again, Max!' Russian omits the present-tense verb 'to be' here, linking 'more' directly with 'time', pairing it with 'day' and 'of birth'.
+- 'Max, happy birthday to you!' Kostya starts the celebration with a cheerful, straightforward congratulation.
+- 'Thank you very much, my loyal friend.' Max expresses deep gratitude to his close companion.
+- 'I also congratulate you from the heart!' Nastya chimes in, adding her own warm wishes to the mix.
+- 'Thank you, Nastya, I am very pleased.' Max tells her how much he appreciates the gesture.
+- 'And here is this gift for you.' Kostya builds the excitement by presenting their surprise.
+- 'What kind of nice tickets are these?' Max reacts with genuine curiosity as he looks at what they handed him.
+- 'These are tickets to a good evening concert.' Kostya reveals the nature of the present, setting up their plans for later.
+- 'We will have a great time together tonight.' Nastya hypes up the upcoming event, promising a fun experience.
+- 'You, me, and Nastya will go there.' Kostya clarifies exactly who will be going, keeping it a tight-knit group.
+- 'We will dance there all night!' Nastya adds to the anticipation by mentioning how active they will be.
+- 'Thanks, guys, you are real friends.' Max is touched and praises their strong bond.
+- 'Come on, it is your holiday after all!' Kostya brushes off the thanks, reminding him that it is a special occasion.
+- 'After all, today is your birthday.' Nastya echoes this sentiment, focusing on the reason for the celebration.
+- 'Happy birthday once again, Max!' Kostya wraps up the exchange by offering one more round of well wishes.

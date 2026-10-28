@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you want a war?' Nagiyev turns a statement into a question purely through rising intonation on the word meaning 'want', followed by 'the war'.
-- 'There will be a war for you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Hello, good afternoon.' Russian omits the present-tense verb 'to be' here, linking 'hello?' directly with 'good', combining 'hello?' with 'good' and 'day'.
-- 'For what do they pay you money?' Dmitry uses the polite everyday 'you' alongside 'money', keeping a formal or respectful register.
-- 'Where are you looking?' The question word for 'where to' comes right at the start, followed directly by 'look'.
-- 'There are migrants in my courtyard.' Russian omits the present-tense verb 'to be' here, linking 'yard' directly with 'migrant', combining 'yard' with 'migrant'.
-- 'From the restaurant Arcobaleno.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'restaurant'.
-- 'They are slaughtering a live ram.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And are you sleeping there?' Nagiyev leads with the direct command form meaning 'to sleep', followed by 'there'.
-- 'Come quickly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Arcobaleno.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'Arcobaleno'.
-- 'What are you doing?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'are you doing'.
-- 'I am solving our problems.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Well done, keep it up.' Here Chef Barinov anchors the line on the word meaning 'well done' and builds the thought around 'to keep'.
+- 'Do you want a war?' Nagiyev aggressively challenges his unseen opponent, setting a hostile tone.
+- 'There will be a war for you.' He promises severe retaliation against those who crossed him.
+- 'Hello, good afternoon.' Switching gears quickly, he offers a polite greeting on the phone.
+- 'For what do they pay you money?' Nagiyev berates the person on the other end for failing at their job.
+- 'Where are you looking?' He demands to know how they managed to miss something so obvious.
+- 'There are migrants in my courtyard.' Reporting a fabricated or exaggerated disturbance, he sets his trap.
+- 'From the restaurant Arcobaleno.' Nagiyev specifically targets the rival establishment with his complaint.
+- 'They are slaughtering a live ram.' He invents a wild, chaotic scenario to ensure an immediate official response.
+- 'And are you sleeping there?' Mocking the authorities, he accuses them of being completely useless.
+- 'Come quickly.' He issues an urgent command for them to show up right away.
+- 'Arcobaleno.' Repeating the name makes sure the authorities hit the right target.
+- 'What are you doing?' Barinov walks in confused by the chaotic phone call.
+- 'I am solving our problems.' Nagiyev smugly claims he is taking care of their mutual enemies.
+- 'Well done, keep it up.' Barinov praises the ruthless tactic, encouraging his boss to continue.

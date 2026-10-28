@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Attention, cooks! Let us begin our meeting.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, what happened in the kitchen today?' Sasha asks about the emergency with an informal past verb.
-- 'Someone thawed five kilograms of cod yesterday.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what are we to do now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We must sell all the fish today!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Guests only order meat and pasta.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Sasha, come to me immediately.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am listening to you carefully, chef.' Sasha answers respectfully using a present active verb.
-- 'Tell the waiters: today we actively offer cod.' The chef gives marketing instructions with an adverb of manner.
-- 'Maybe we will give a special discount?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, twenty percent discount on fish.' Barinov approves the promotion using a numerical phrase.
-- 'Understood, chef, we will organize everything.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'If fish remains, I will fine you!' Barinov concludes with a stern disciplinary threat in the conditional.
+- 'Attention, cooks! Let us begin our meeting.' Barinov calls his kitchen staff to attention.
+- 'Chef, what happened in the kitchen today?' Sasha asks about the emergency.
+- 'Someone thawed five kilograms of cod yesterday.' Barinov reveals the disastrous mistake with the seafood.
+- 'And what are we to do now?' Sasha wonders how they can possibly fix this.
+- 'We must sell all the fish today!' Barinov insists they have to move the product immediately.
+- 'Guests only order meat and pasta.' Sasha points out that the customers usually prefer other dishes.
+- 'Sasha, come to me immediately.' Barinov orders the waitress to come closer for instructions.
+- 'I am listening to you carefully, chef.' Sasha gives him her full attention.
+- 'Tell the waiters: today we actively offer cod.' Barinov commands her to push the special menu item hard.
+- 'Maybe we will give a special discount?' Sasha suggests a financial incentive for the customers.
+- 'Yes, twenty percent discount on fish.' Barinov quickly agrees to the price cut.
+- 'Understood, chef, we will organize everything.' Sasha promises to get the front of house on board.
+- 'If fish remains, I will fine you!' Barinov threatens strict punishment if they fail.

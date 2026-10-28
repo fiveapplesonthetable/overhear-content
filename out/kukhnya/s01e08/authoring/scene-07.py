@@ -7,14 +7,14 @@ SCENE = 7
 TITLE = 'Проверка на прочность  (Testing the Crew)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'elena': 'Елена', 'max': 'Макс'}
+LABELS = {'barinov': 'Шеф', 'elena': 'Елена'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "On the kitchen pass, guest chef Elena Pavlovna repeats the ticket orders to Viktor Barinov's cooks and complains about their slow pace. Sensing a chance to test Elena's resolve, Barinov calmly leaves the kitchen to let her manage the chaotic dinner rush alone. Listen to their sharp conversation in Russian first, and then we will examine every line."
 OPENER = "Let's examine this kitchen showdown step by step."
 TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That concludes our seventh scene. In Kukhnya, leaving a rival chef alone with a loyal brigade is the ultimate high-stakes psychological game. See you next time!'
-CLOSING = ('max', 'До встречи!')
+CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('elena', 'Повторяю для всех, заказ уже ждёт!', 'I repeat for everyone, the order is already waiting!', [(93, 'я повторю. Всем понятно')], ''),
     ('barinov', 'Елена, они прекрасно тебя услышали.', 'Elena, they heard you perfectly well.', [(94, 'Всем понятно')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Посмотрим, кто здесь останется победителем!', "We'll see who stays the winner here!", [(97, 'Так, работаем')], ''),
 ]
 WALK = [
-    (0, None, "'I repeat for everyone, the order is already waiting!' Elena calls out the dinner order firmly a second time."),
-    (1, None, "'Elena, they heard you perfectly well.' Viktor defends his kitchen staff against her sharp tone."),
-    (2, None, "'Why then is nobody working?' The phrasing opens with 'why' before bringing in 'then' and 'is working' to make the point clear."),
-    (3, None, "'In my kitchen there is always strict order.' Barinov insists on his controlled culinary rhythm."),
-    (4, None, "'You work too slowly for a restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'Every good dish needs its own time.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'dish', combining 'good' with 'dish' and 'needed'."),
-    (6, None, "'Guests do not like to wait long for food.' The phrasing opens with 'guests' before bringing in 'like' and 'long' to make the point clear."),
-    (7, None, "'Our guests appreciate high taste.' Chef Barinov expresses this naturally by combining the word for 'guests' with 'appreciate' and 'high'."),
-    (8, None, "'I will show myself how one must work!' Elena uses the action verb meaning 'will show' to focus on the single completed result, pairing it with 'how' and 'must'."),
-    (9, None, "'Great, I will go calmly rest.' Here Chef Barinov anchors the line on the word meaning 'great' and builds the thought around 'will go' and 'calmly'."),
-    (10, None, "'Are you abandoning your kitchen to me?' Elena realizes Barinov is leaving her with his stubborn cooks."),
-    (11, None, "'I am sure that you will manage excellently.' Barinov patronizingly leaves the kitchen in her hands."),
-    (12, None, "'Return soon, otherwise I will take the restaurant!' Elena leads with the direct command form meaning 'return', pairing it with 'soon' and 'otherwise'."),
-    (13, None, "'We' ll see who stays the winner here!' Chef Barinov uses the action verb meaning 'we will see' to focus on the single completed result, pairing it with 'here' and 'will remain'."),
+    (0, None, "'I repeat for everyone, the order is already waiting!' Elena shouts the ticket again, frustrated by the lack of immediate action."),
+    (1, None, "'Elena, they heard you perfectly well.' Barinov calmly tells her that screaming twice does not make the food cook faster."),
+    (2, None, "'Why then is nobody working?' She demands to know why the cooks seem completely frozen."),
+    (3, None, "'In my kitchen there is always strict order.' He claims his kitchen operates on a precise, disciplined rhythm, not panic."),
+    (4, None, "'You work too slowly for a restaurant.' Elena criticizes their pace as entirely unacceptable for fine dining."),
+    (5, None, "'Every good dish needs its own time.' Barinov defends the slow speed as necessary for true culinary perfection."),
+    (6, None, "'Guests do not like to wait long for food.' She points out the practical reality that customers hate waiting."),
+    (7, None, "'Our guests appreciate high taste.' He counters that their elite clientele prefers quality over speed."),
+    (8, None, "'I will show myself how one must work!' Elena decides to jump onto the line herself to demonstrate proper urgency."),
+    (9, None, "'Great, I will go calmly rest.' Barinov sarcastically steps back, offering her full control while he takes a break."),
+    (10, None, "'Are you abandoning your kitchen to me?' Elena is shocked that he is actually walking away during a dinner rush."),
+    (11, None, "'I am sure that you will manage excellently.' He mocks her earlier confidence, assuring her she can handle it alone."),
+    (12, None, "'Return soon, otherwise I will take the restaurant!' She warns him to come back soon before she completely takes over his territory."),
+    (13, None, "'We'll see who stays the winner here!' Barinov tosses a final taunt over his shoulder about who will ultimately win."),
 ]

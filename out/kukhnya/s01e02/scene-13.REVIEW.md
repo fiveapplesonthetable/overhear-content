@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, have you already fixed our register?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'No, I am still working on this register.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What are you even doing behind our bar counter?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am simply calmly adjusting this complex system.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Leave here quickly, out of the bar!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Woman, wait, I am a repair technician.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I said to get out of here immediately!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why are you shouting so loudly at me?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Outsiders are strictly forbidden to be here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fine, calm down, I am already leaving here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Waiter, quickly find bartender Kostya for me!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I want to know who let this person in.' Modal verb governing an basic verb form and indirect question with a past everyday verb.
+- 'Kostya, have you already fixed our register?' Vika asks Kostya if the register is finally fixed.
+- 'No, I am still working on this register.' The repairman states he is still working on the machine.
+- 'What are you even doing behind our bar counter?' Vika demands to know what he is doing behind the bar counter.
+- 'I am simply calmly adjusting this complex system.' The repairman explains he is simply adjusting the complex system.
+- 'Leave here quickly, out of the bar!' Vika orders him to leave the bar quickly.
+- 'Woman, wait, I am a repair technician.' The repairman asks her to wait, clarifying his job.
+- 'I said to get out of here immediately!' Vika insists that he gets out immediately.
+- 'Why are you shouting so loudly at me?' The repairman wonders why she is shouting so loudly.
+- 'Outsiders are strictly forbidden to be here.' Vika explains that outsiders are strictly forbidden to be there.
+- 'Fine, calm down, I am already leaving here.' The repairman agrees to calm down and leave.
+- 'Waiter, quickly find bartender Kostya for me!' Vika tells the waiter to find bartender Kostya quickly.
+- 'I want to know who let this person in.' Vika wants to find out who let this person in.

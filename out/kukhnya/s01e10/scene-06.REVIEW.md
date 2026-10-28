@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, it seems Vika loves me!' Max shares his surprising realization with a troubled expression.
+- 'Kostya, it seems Vika loves me!' Max shares this surprising realization with a troubled look.
 - 'Great! Or is it?' Kostya wonders about his friend's mixed reaction.
 - 'Damn, Kostya, this is a dangerous situation.' Max expresses his growing anxiety about romance.
 - 'If she loves me, a relationship is needed.' Max worries about serious emotional commitments.
-- 'And what is bad about a relationship?' Russian omits the present-tense verb 'to be' here, linking 'bad' directly with 'relationships', combining 'bad' with 'relationships'.
+- 'And what is bad about a relationship?' Russian leaves out the word for 'to be' here, linking 'bad' directly with 'relationships', combining 'bad' with 'relationships'.
 - 'Then a wedding, and then kids!' Max lists the inevitable stages of family life.
-- 'Why do I need all of this right now?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'right now', combining 'why' with 'right now'.
+- 'Why do I need all of this right now?' Russian leaves out the word for 'to be' here, linking 'why' directly with 'right now', combining 'why' with 'right now'.
 - 'You are simply afraid of adult life.' Kostya expresses this naturally by combining the word for 'simply' with 'are afraid of' and 'adult'.
-- 'I love freedom and adventures!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'I love freedom and adventures!' Max conveys the message naturally in this line.
 - 'Vika is a mature and smart girl.' Kostya reminds him of Victoria's serious character.
-- 'She will not tolerate your nonsense.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'She will not tolerate your nonsense.' Kostya speaks the thought naturally and directly.
 - 'Exactly, she will start educating me.' Max dreads losing control over his daily routine.
 - 'Then talk to her honestly.' Kostya offers sensible advice for resolving the issue.
 - 'No, better that I keep quiet.' Max chooses avoidance instead of an open conversation. Now, let us listen to the complete scene again to practice your comprehension.

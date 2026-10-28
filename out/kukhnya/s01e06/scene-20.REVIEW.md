@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Rump, where is my fresh expensive truffle?' Chef Barinov aggressively interrogates his assistant.
-- 'Am I going to wait for it until next Easter?' A sarcastic complaint about the intolerable delay.
-- 'Chef, I am already bringing it, all is well!' Max offers empty assurances while trying to solve the problem.
-- 'You work too slowly in the kitchen!' The head chef scolds the young cook for poor pace.
-- 'The important guest is waiting for his order.' Barinov stresses that a VIP customer is seated.
-- 'I am looking for the best mushroom.' Max invents a perfectionist excuse for the holdup.
-- 'You have exactly one minute!' Chef Barinov uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'there is' with 'exactly' and 'one'.
-- 'Otherwise I will personally fire you today!' Chef Barinov expresses this naturally by combining the word for 'otherwise' with 'personally' and 'will fire'.
-- 'Do not worry, chef, the order will be ready.' Max desperately promises that the dish will leave the pass.
-- 'I want to see the result right now.' Barinov demands immediate tangible proof on the line.
-- 'We fulfilled all your difficult conditions.' Max quotes the harsh demands of the mystery holder.
-- 'What are you muttering under your breath there?' The chef catches the suspicious quiet comment.
-- 'I am saying that everything is under control.' Max quickly covers up his slip of the tongue.
-- 'Then bring the truffle to the chef table!' Barinov gives a final directive to deliver the delicacy. Alright, let's hear the whole thing once more.
+- 'Rump, where is my fresh expensive truffle?' Demanding the missing luxury item, Barinov interrogates his assistant with rising fury.
+- 'Am I going to wait for it until next Easter?' Using sharp sarcasm, Barinov emphasizes how long the intolerable delay has been.
+- 'Chef, I am already bringing it, all is well!' Babbling fake reassurances, Max tries to placate the roaring head chef.
+- 'You work too slowly in the kitchen!' Harshly criticizing his pace, Barinov yells at the rookie's inability to keep up with the line.
+- 'The important guest is waiting for his order.' Barinov points out that a VIP is sitting out there empty-handed.
+- 'I am looking for the best mushroom.' Inventing a desperate lie, Max claims to be meticulously selecting the perfect specimen.
+- 'You have exactly one minute!' Issuing a strict and terrifying deadline, Barinov gives him one minute to produce the ingredient.
+- 'Otherwise I will personally fire you today!' Explicitly threatening termination, Barinov promises to throw Max out on the street immediately.
+- 'Do not worry, chef, the order will be ready.' Promising the impossible, Max just wants Barinov to back off.
+- 'I want to see the result right now.' Demanding immediate tangible proof, Barinov wants to see the physical dish rather than excuses.
+- 'We fulfilled all your difficult conditions.' Accidentally speaking aloud, Max mutters his thoughts about the vagrant's ransom demands.
+- 'What are you muttering under your breath there?' Snapping at the weird murmuring, Barinov catches the suspicious quiet comment.
+- 'I am saying that everything is under control.' Quickly lying to cover his slip, Max reassures him before the chef gets suspicious.
+- 'Then bring the truffle to the chef table!' Barking his final order, Barinov commands the expensive plate out to the dining room.

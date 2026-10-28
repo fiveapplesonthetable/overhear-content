@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, wait at least one second.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I urgently need to talk to you.' An impersonal construction with an adverb expressing pressing necessity for a private conversation.
-- 'I know that you like me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am pregnant with your child, Max.' A direct revelation using a short adjective construction that abruptly changes the entire situation. Now, let's listen to Sasha break the stunning news to Max once more. Now let's listen to the whole conversation again from start to finish.
+- 'Wait, wait at least one second.' Sasha boldly makes such point through pairing 'wait' and 'least' as well as 'second'.
+- 'I urgently need to talk to you.' Sasha simply builds this picture through joining 'i' and 'need' along with 'you'.
+- 'I know that you like me.' Sasha softly gives this meaning through blending 'i' and 'you' and 'me'.
+- 'I am pregnant with your child, Max.' Sasha neatly gives this image by blending 'i' and 'your' as well as 'max'.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, chef!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Hello, oguzok. Here is your work.' Barinov answers gruffly using his favorite derogatory nickname.
-- 'Chef, this is a live goose!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We have a very important banquet today.' The head chef emphasizes the event with an adverb and adjective.
-- 'Why do we need a live goose in the kitchen?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The guests need the freshest product!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But I am a cook, not a butcher.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Every chef is obliged to know how to butcher meat.' The chef states kitchen standards with paired infinitives.
-- 'What, do I need to kill it?' Max asks in disbelief using an impersonal expression of necessity.
-- 'Did you think meat grows on trees?' Barinov uses a sarcastic rhetorical question in the past tense.
-- 'I have never done this in my life.' Max confesses his complete lack of butchery experience.
-- 'Kill the goose, or you are fired!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fine, I will try to do it.' Max reluctantly accepts the challenge using a future action verb.
+- 'Good morning, chef!' Cheerful greetings kick off the morning as the young cook addresses his boss.
+- 'Hello, oguzok. Here is your work.' Barinov welcomes his new cook with a slightly derogatory nickname and immediately hands him an assignment.
+- 'Chef, this is a live goose!' Seeing the unusual task in front of him, the young chef reacts with pure surprise.
+- 'We have a very important banquet today.' The upcoming evening event carries high stakes for their restaurant.
+- 'Why do we need a live goose in the kitchen?' Max questions the necessity of bringing an unslaughtered bird into their workspace.
+- 'The guests need the freshest product!' Top-tier ingredients are required for their demanding patrons, according to the boss.
+- 'But I am a cook, not a butcher.' Preparing meat from scratch is far outside the usual job description of a standard line cook.
+- 'Every chef is obliged to know how to butcher meat.' Every culinary professional must know how to properly handle a butcher knife.
+- 'What, do I need to kill it?' Max asks directly if he is expected to end the animal's life.
+- 'Did you think meat grows on trees?' Growing meat on trees is sadly impossible, as the head chef mockingly points out.
+- 'I have never done this in my life.' This kind of gruesome task is completely foreign to the inexperienced worker.
+- 'Kill the goose, or you are fired!' Barinov issues a harsh ultimatum, demanding compliance or immediate termination.
+- 'Fine, I will try to do it.' Reluctantly, the terrified cook agrees to make an attempt in order to keep his job.

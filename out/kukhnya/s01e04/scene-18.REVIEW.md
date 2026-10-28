@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have a very simple question for you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'From one head chef to another?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Which of my cooks came to see you?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I do not rat out my people, Viktor.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He is my cook, not yours!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'He wants to work in a good kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have the best kitchen in this city!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then why are your people looking for work?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will definitely find out his name myself!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It is time for me to go to the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Will you find the way out yourself?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will, I remember the way very well.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wonderful then, all the best to you!' Conversational word with an idiomatic polite parting formula.
+- 'I have a very simple question for you.' Barinov states he has a very simple question.
+- 'From one head chef to another?' Elena asks if it is from one head chef to another.
+- 'Which of my cooks came to see you?' Barinov demands to know which of his cooks visited her.
+- 'I do not rat out my people, Viktor.' Elena refuses to betray her people.
+- 'He is my cook, not yours!' Barinov insists the cook belongs to him.
+- 'He wants to work in a good kitchen.' Elena explains the cook just wants to work in a good kitchen.
+- 'I have the best kitchen in this city!' Barinov proudly claims his kitchen is the best in the city.
+- 'Then why are your people looking for work?' Elena questions why his staff would look for work elsewhere then.
+- 'I will definitely find out his name myself!' Barinov vows to discover the name himself.
+- 'It is time for me to go to the kitchen.' Elena notes it is time for her to return to work.
+- 'Will you find the way out yourself?' Elena asks if he can find his own way out.
+- 'I will, I remember the way very well.' Barinov confirms he remembers the route perfectly.
+- 'Wonderful then, all the best to you!' Elena bids him a cheerful goodbye.

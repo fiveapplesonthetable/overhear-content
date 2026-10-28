@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dear friends, a moment of attention.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'dear' straight to 'attention'.
-- 'I want to introduce you to the best chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Good evening, dear guests.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'evening', combining 'good' with 'evening' and 'dear'.
-- 'This is Maximilian, an expert in French cuisine.' Russian omits the present-tense verb 'to be' here, linking 'specialist' directly with 'French', combining 'specialist' with 'French' and 'kitchen'.
-- 'I am very glad to be here.' Max puts the word for 'very much' together with 'glad' and 'be' in a crisp, natural spoken turn of phrase.
-- 'He kindly agreed to prepare an old dish.' Here Elena anchors the line on the word meaning 'kind' and builds the thought around 'agreed' and 'to cook'.
-- 'We took it from this French book.' Elena uses the action verb meaning 'took' to focus on the single completed result, pairing it with 'French' and 'books'.
-- 'I chose this dish for us.' Elena uses the action verb meaning 'chose' to focus on the single completed result, pairing it with 'dish'.
-- 'This is an excellent choice for tonight.' Russian omits the present-tense verb 'to be' here, linking 'beautiful' directly with 'choice', combining 'beautiful' with 'choice' and 'of today's'.
-- 'Maximilian will prepare it for us today.' Elena uses the action verb meaning 'makes' to focus on the single completed result, pairing it with 'today'.
-- 'I will do everything in the best way.' Max uses the action verb meaning 'I'll do' to focus on the single completed result, pairing it with 'best' and 'state'.
-- 'We are waiting for your culinary masterpiece.' Elena chooses the action verb meaning 'wait for' for the ongoing action, followed by 'culinary' and 'masterpiece'.
+- 'Dear friends, a moment of attention.' Elena calls for the room's attention. She asks the dear friends for a moment of quiet.
+- 'I want to introduce you to the best chef.' She prepares to present the guest of honor. Elena announces she wants to introduce the best chef.
+- 'Good evening, dear guests.' Max greets the room confidently. He wishes the dear guests a good evening.
+- 'This is Maximilian, an expert in French cuisine.' Elena introduces Max with a fake title. She calls him an expert in French cuisine.
+- 'I am very glad to be here.' Max plays along with the charade. He politely expresses how glad he is to be there.
+- 'He kindly agreed to prepare an old dish.' Elena explains the special occasion. She says he kindly agreed to prepare an old dish.
+- 'We took it from this French book.' She mentions the source of the recipe. Elena notes they took it from a French book.
+- 'I chose this dish for us.' Elena reveals her specific selection. She proudly states she chose this exact dish for them.
+- 'This is an excellent choice for tonight.' Max compliments her taste. He calls it an excellent choice for the evening.
+- 'Maximilian will prepare it for us today.' Elena sets the expectation for the guests. She announces Max will prepare it today.
+- 'I will do everything in the best way.' Max makes a confident promise. He guarantees he will make it in the best possible way.
+- 'We are waiting for your culinary masterpiece.' Elena expresses her eager anticipation. She says they are waiting for his culinary masterpiece.

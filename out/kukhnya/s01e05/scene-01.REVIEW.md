@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, hi. Why are you angry?' Max tries to greet his tense friend with an informal greeting.
-- 'Back off, or I will break your nose!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What for? What did I do to you?' Max questions the sudden hostility with paired past questions.
-- 'Yesterday you kissed my girl!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It was a completely accidental misunderstanding.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'You were kissing right in the restaurant!' Kostya emphasizes the public location with an adverb.
-- 'I wanted to sleep all day yesterday.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'By the way, technically she is not yours yet.' Max makes a technical point with an introductory parenthetical.
-- 'For me that does not matter.' Kostya dismisses the technicality using a fixed negative idiom.
-- 'There is nothing between me and Nastya!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You betrayed our friendship, Max.' Kostya expresses deep hurt with a past action verb.
-- 'I will prove that she means nothing to me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will see how you prove it.' Kostya remains skeptical with a future 1st person everyday verb.
+- 'Kostya, hi. Why are you angry?' Max tries to greet his tense friend.
+- 'Back off, or I will break your nose!' Kostya aggressively warns his friend to back off.
+- 'What for? What did I do to you?' Max questions the sudden hostility, genuinely confused about what he did wrong.
+- 'Yesterday you kissed my girl!' Kostya cuts to the chase, furious about the perceived betrayal.
+- 'It was a completely accidental misunderstanding.' Max frantically tries to downplay the situation as a total misunderstanding.
+- 'You were kissing right in the restaurant!' Kostya emphasizes the public location of their encounter.
+- 'I wanted to sleep all day yesterday.' Max offers a weak excuse about being sleep-deprived.
+- 'By the way, technically she is not yours yet.' Max makes a technical point that they are not officially a couple yet.
+- 'For me that does not matter.' Kostya dismisses the technicality completely.
+- 'There is nothing between me and Nastya!' Max insists that his relationship with the waitress is strictly professional.
+- 'You betrayed our friendship, Max.' Kostya expresses deep hurt over his friend's actions.
+- 'I will prove that she means nothing to me.' Max promises to show how little he cares about her.
+- 'We will see how you prove it.' Kostya remains deeply skeptical of this promise.

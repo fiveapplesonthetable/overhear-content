@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, why do you not eat meat?' Ainura asks her colleague curiously with a question word.
-- 'Because I am a strict vegetarian.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Really? And here I thought you were Russian.' Ainura expresses genuine surprise at the foreign concept.
-- 'Vegetarians are people who do not eat meat.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I used to be a vegetarian too.' Ainura relates her own past experience using a temporal adverb.
-- 'Really? When did you not eat meat?' Nastya inquires about the past using a time conjunction.
-- 'In the nineties there was no money at all.' Ainura explains the economic hardship using an impersonal negative past.
-- 'I ate only potatoes for a whole year.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I consider killing animals unacceptable.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But juicy meat cutlets are so tasty!' Ainura defends traditional cooking with descriptive adjectives.
-- 'Every cow has the right to life.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Oh my! You tell stories so beautifully!' Ainura compliments Nastya's passionate storytelling.
-- 'I hope you finally understood me.' Nastya wraps up the conversation with a hopeful present verb.
+- 'Nastya, why do you not eat meat?' Curiosity prompts a question about dietary choices during a kitchen break.
+- 'Because I am a strict vegetarian.' Nastya proudly identifies herself as someone who strictly avoids animal products.
+- 'Really? And here I thought you were Russian.' Assuming her background meant eating traditional foods, her colleague expresses deep surprise.
+- 'Vegetarians are people who do not eat meat.' The definition of a meat-free lifestyle requires some basic clarification here.
+- 'I used to be a vegetarian too.' Ainura claims she used to follow the exact same diet in the past.
+- 'Really? When did you not eat meat?' Intrigued by this revelation, the young woman asks for more details.
+- 'In the nineties there was no money at all.' Severe financial struggles decades ago forced many people into difficult situations.
+- 'I ate only potatoes for a whole year.' Surviving solely on cheap root vegetables for twelve straight months is no easy feat.
+- 'I consider killing animals unacceptable.' Nastya states her moral objection to harming living creatures.
+- 'But juicy meat cutlets are so tasty!' Delicious cooked meals offer a strong counterargument to ethical concerns.
+- 'Every cow has the right to life.' Defending the inherent value of every creature's existence remains the main priority.
+- 'Oh my! You tell stories so beautifully!' Ainura mockingly compliments her coworker's passionate speech.
+- 'I hope you finally understood me.' Hoping for some mutual understanding, the strict eater delivers her final thought.

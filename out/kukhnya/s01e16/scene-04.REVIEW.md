@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef.' — Built around the key proper name meaning 'chef, boss'.
-- 'What do you need?' Russian omits the present-tense verb 'to be', connecting 'what' directly with 'it is necessary'.
-- 'And what are you preparing?' Max leads with the direct command form meaning 'to cook' to make the point directly in conversation.
-- 'And what is it to you?' Viktor uses the casual everyday 'you' with 'for you', as close colleagues and friends do.
-- 'Do you have nothing to do?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'to attend to' to make the point directly in conversation.
-- 'I have five minutes.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'there is' with 'five' and 'minutes'.
-- 'I wanted to learn from you.' Max uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'wanted' with 'learn from'.
-- 'Go work.' Chef Barinov leads with the direct command form meaning 'go', followed by 'work'.
-- 'And can I try it?' Max turns a statement into a question purely through rising intonation on the word meaning 'may', followed by 'to taste'.
-- 'No, you cannot.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'not allowed'.
-- 'Why?' Max asks this with a single word meaning 'why', using rising intonation to turn it into a quick question.
-- 'Because I said so.' The question word for 'what' comes right at the start, followed directly by 'said'.
-- 'Alright, I understand.' Max delivers a punchy one-word reaction built around the Russian word meaning 'understood?'.
-- 'Then go from here.' Chef Barinov leads with the direct command form meaning 'go', pairing it with 'back then' and 'from here'.
+- 'Chef.' Max tries to grab his boss's attention with a respectful title.
+- 'What do you need?' Barinov snaps back, annoyed by the interruption.
+- 'And what are you preparing?' Curious about the dish, Max attempts to start a conversation about cooking.
+- 'And what is it to you?' The chef dismisses the question entirely, refusing to share his process.
+- 'Do you have nothing to do?' Barinov implies that his subordinate should be busy with his own tasks instead of hovering.
+- 'I have five minutes.' Max defends his presence by pointing out his brief break.
+- 'I wanted to learn from you.' He flatters the older man, expressing a desire to pick up some culinary skills.
+- 'Go work.' Unmoved by the compliment, the boss orders him back to his station.
+- 'And can I try it?' Max pushes his luck, asking for a taste of the mysterious dish.
+- 'No, you cannot.' Barinov flatly denies the request without any hesitation.
+- 'Why?' Max whines a little, looking for a reason behind the strict refusal.
+- 'Because I said so.' The chef shuts down the argument using his absolute authority.
+- 'Alright, I understand.' Defeated, Max backs off and accepts the rejection.
+- 'Then go from here.' Barinov delivers a final, harsh instruction for the younger man to leave the area.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, we need to urgently talk about work.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Dima, the restaurant is full and all guests are happy.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Tonight I invited competitors over to our place.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Why are you inviting these strange people?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Our neighbor is opening a new restaurant next door.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will prepare the very best dish for them.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They brought a new chef straight from India.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They would have done better finding a cook from Tajikistan.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You must greatly surprise our guests.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'My signature cuisine will amaze absolutely everyone.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'If you make a mistake, I will fire you immediately.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do not worry, the chef always keeps his word.' Negative self-directed form command form followed by an idiomatic verbal phrase governing a self-directed form everyday noun.
+- 'Viktor, we need to urgently talk about work.' Nagiyev initiates a serious conversation, setting a tone of immediate business urgency for his employee.
+- 'Dima, the restaurant is full and all guests are happy.' Barinov defends his current performance by gesturing at the bustling and satisfied dining room.
+- 'Tonight I invited competitors over to our place.' Dropping a bombshell, the owner reveals his provocative guest list for the evening service.
+- 'Why are you inviting these strange people?' The head chef reacts with confusion and annoyance at the prospect of feeding industry rivals.
+- 'Our neighbor is opening a new restaurant next door.' Explaining the tactical move, the celebrity host mentions the impending threat of a nearby establishment.
+- 'We will prepare the very best dish for them.' Accepting the challenge, the culinary master promises to deliver a show-stopping meal for them.
+- 'They brought a new chef straight from India.' Raising the stakes, the businessman shares a detail about the exotic talent hired by the opposition.
+- 'They would have done better finding a cook from Tajikistan.' A dismissive joke is cracked to belittle the culinary origins of the newly imported competition.
+- 'You must greatly surprise our guests.' The boss sets an incredibly high bar, demanding an unforgettable gastronomic experience for the visitors.
+- 'My signature cuisine will amaze absolutely everyone.' Overflowing with ego, the master cook guarantees his unique creations will leave everyone completely stunned.
+- 'If you make a mistake, I will fire you immediately.' A ruthless ultimatum is delivered, making it clear that failure tonight means instant termination.
+- 'Do not worry, the chef always keeps his word.' Confidently brushing off the threat, the head cook reassures his boss of his flawless track record.

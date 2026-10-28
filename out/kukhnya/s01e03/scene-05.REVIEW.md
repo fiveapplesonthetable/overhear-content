@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I have big problems.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'chef' with 'big' and 'problems'.
-- 'What happened again, runt?' Here Chef Barinov anchors the line on the word meaning 'again' and builds the thought around 'happened' and 'runt'.
-- 'A terrible prosecutor is looking for me.' Max chooses the action verb meaning 'is looking for' for the ongoing action, followed by 'formidable' and 'prosecutor'.
-- 'And why is he looking for you?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'is looking for'.
-- 'He knows about me and Vika.' Max delivers a punchy one-word reaction built around the Russian word meaning 'knows'.
-- 'You slept with someone else's woman?' Barinov instantly identifies the romantic mess.
-- 'I did not know that she is married.' Max pleads ignorance about her past relationship.
-- 'He was the most talented cook.' Barinov starts mockingly delivering Max's eulogy.
-- 'Whom I ever knew.' Chef Barinov puts the word for 'ever' together with 'knew' in a crisp, natural spoken turn of phrase.
-- 'Chef, are you already burying me?' Max turns a statement into a question purely through rising intonation on the word meaning 'chef', pairing it with 'already' and 'are burying'.
-- 'You don't mess with a prosecutor.' A standard warning about cross-examining law enforcement.
-- 'He will quickly send you behind bars.' Chef Barinov expresses this naturally by combining the word for 'quickly' with 'bars' and 'will send'.
-- 'What should I do now?' Max puts the word for 'now' together with 'to do' in a crisp, natural spoken turn of phrase.
-- 'Go work and do not chat.' The chef orders him back to his culinary duties. Alright, let's hear the whole conversation once again.
+- 'Chef, I have big problems.' Deep trouble brings the frantic cook straight into his manager's office.
+- 'What happened again, runt?' Barinov groans and asks what disaster his subordinate has caused this time.
+- 'A terrible prosecutor is looking for me.' A frightening legal official is actively hunting down the newest kitchen staff member.
+- 'And why is he looking for you?' Discovering the exact nature of the supposed crime takes some prodding.
+- 'He knows about me and Vika.' Max reveals that the official has discovered his secret workplace romance.
+- 'You slept with someone else's woman?' Connecting the dots leads to the realization of a dangerous affair with a married woman.
+- 'I did not know that she is married.' Ignorance of her marital status serves as the only possible defense.
+- 'He was the most talented cook.' Barinov sarcastically eulogizes his employee's culinary potential.
+- 'Whom I ever knew.' Acting as if the young man is already gone adds a dark humor to the moment.
+- 'Chef, are you already burying me?' Max asks in a panic if his boss truly believes his life is over.
+- 'You don't mess with a prosecutor.' Powerful legal figures make incredibly dangerous enemies in any scenario.
+- 'He will quickly send you behind bars.' A swift trip to prison seems like the most likely outcome here.
+- 'What should I do now?' Desperate pleas for survival advice fall on deaf ears.
+- 'Go work and do not chat.' Barinov heartlessly commands him to stop whining and get back to his kitchen duties.

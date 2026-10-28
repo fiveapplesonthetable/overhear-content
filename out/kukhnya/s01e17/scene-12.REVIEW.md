@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who are you? What is this?' Russian omits the present-tense verb 'to be' here, linking 'you' directly with 'who', combining 'you' with 'who' and 'such'.
-- 'It is the chef's new seasonal dish.' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'seasonal', pairing it with 'dish' and 'head chef'.
-- 'You know, veal rolls with thin slices of ham.' Russian omits the present-tense verb 'to be' here, linking 'meat' directly with 'little roll', combining 'meat' with 'little roll' and 'veal'.
-- 'I came up with it, and the chef approved it.' Senya uses the action verb meaning 'came up with' to focus on the single completed result, pairing it with 'to approve'.
-- 'The guy came up with the chef's dish for the chef.' Nagiyev puts the word for 'a man' together with 'came up with' and 'dish' in a crisp, natural spoken turn of phrase.
-- 'The chef is going to flip.' Here Nagiyev anchors the line on the word meaning 'head chef' and builds the thought around 'to flip'.
-- 'Really not bad. Thanks.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'not bad', combining 'very much' with 'not bad' and 'thank you'.
-- 'You know, we need a slicer in the kitchen for this dish.' Russian omits the present-tense verb 'to be' here, linking 'kitchen' directly with 'is needed', combining 'kitchen' with 'is needed' and 'still'.
-- 'What is it? I hope it is legal.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It is a gadget for slicing ham really thin.' Russian omits the present-tense verb 'to be' here, linking 'thing' directly with 'slicing', combining 'thing' with 'slicing' and 'ham'.
-- 'I thought, buy him this slicer.' Nagiyev leads with the direct command form meaning 'buy', pairing it with 'thought' and 'slicer'.
-- 'Let the man slice away.' Nagiyev expresses this naturally by combining the word for 'a man' with 'slice' and 'to cut'.
-- 'After all, someone has got to give birth to the chef's dish.' Nagiyev uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'end' with 'of ends' and 'has to'.
+- 'Who are you? What is this?' Nagiyev demands to know who is presenting the dish.
+- 'It is the chef's new seasonal dish.' Senya smoothly claims it is the chef's new seasonal creation.
+- 'You know, veal rolls with thin slices of ham.' Senya describes the mouth-watering veal rolls with thin ham slices.
+- 'I came up with it, and the chef approved it.' Senya takes credit for the idea, noting the boss approved it.
+- 'The guy came up with the chef's dish for the chef.' Nagiyev is amused that an employee is doing the chef's work.
+- 'The chef is going to flip.' Nagiyev predicts the boss will lose his mind over this.
+- 'Really not bad. Thanks.' Nagiyev praises the taste and thanks the cook.
+- 'You know, we need a slicer in the kitchen for this dish.' Senya seizes the moment to ask for a new kitchen slicer.
+- 'What is it? I hope it is legal.' Nagiyev cautiously asks if this gadget is something legal.
+- 'It is a gadget for slicing ham really thin.' Senya explains the tool is simply for cutting ham very thinly.
+- 'I thought, buy him this slicer.' Nagiyev agrees, deciding to buy the equipment.
+- 'Let the man slice away.' Nagiyev jokes about letting the man slice away to his heart's content.
+- 'After all, someone has got to give birth to the chef's dish.' Nagiyev reasons that someone has to actually create the food around here.

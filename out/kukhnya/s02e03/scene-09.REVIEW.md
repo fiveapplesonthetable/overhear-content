@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi.' You'll hear 'hi' all the time in the show, here connected with 'hi'. Nastya answers straight away.
-- 'Hi, Ilya.' Notice the word order: 'hi' comes first, and 'Ilya' finishes the sentence.
-- 'Was there a girl in a green dress here?' Notice the word order: 'here' comes first, and 'a dress' finishes the sentence.
-- 'Yes, actually.' You'll hear 'at all' all the time in the show, here connected with 'at all'. Then Ilya replies.
-- 'Where is she?' The key word here means 'where', which Ilya combines with 'it'.
-- 'I don't know.' Nastya starts with 'I' and pairs it with 'know' to make the point clear.
-- 'You didn't see her?' Ilya starts with 'you' and pairs it with 'her' to make the point clear. And Nastya jumps in.
-- 'That's strange, I didn't see.' Here 'strange' sets up the idea, while 'saw' comes at the end for emphasis.
-- 'Maybe she left?' You'll hear 'can' all the time in the show, here connected with 'left'.
-- 'Maybe.' Here 'can' sets up the idea, while 'be' comes at the end for emphasis. Ilya answers straight away.
-- 'I need to find her.' Listen for the word meaning 'to me' right alongside 'necessary' in this line.
-- 'Look in the bar.' Notice the word order: 'look' comes first, and 'bar' finishes the sentence. Let's hear it again.
+- 'Hi.' Walking up to the host stand, Ilya greets Nastya. Nastya answers straight away.
+- 'Hi, Ilya.' Nastya smiles and says hello back to him.
+- 'Was there a girl in a green dress here?' Ilya asks if she noticed a girl in a green dress in the dining room earlier.
+- 'Yes, actually.' Nastya thinks for a second and says yes, she actually did see her. Then Ilya replies.
+- 'Where is she?' Ilya eagerly asks where that girl went.
+- 'I don't know.' Nastya shrugs and says she does not know.
+- 'You didn't see her?' Ilya asks if Nastya saw her walk out. And Nastya jumps in.
+- 'That's strange, I didn't see.' Nastya admits it is strange, because she never saw the girl leave.
+- 'Maybe she left?' Ilya wonders aloud if she slipped out while nobody was looking.
+- 'Maybe.' Nastya agrees that she might have left. Ilya answers straight away.
+- 'I need to find her.' Ilya says he really needs to track her down.
+- 'Look in the bar.' Nastya suggests he check over by the bar. Let's hear it again.

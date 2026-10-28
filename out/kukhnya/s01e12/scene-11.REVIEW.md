@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, what are you doing here?' Vika puts the word for 'here' together with 'are doing' in a crisp, natural spoken turn of phrase.
-- 'I brought fresh oranges to the bar.' Max uses the action verb meaning 'brought' to focus on the single completed result, pairing it with 'fresh' and 'oranges'.
-- 'Then attend to your oranges in the kitchen!' Vika leads with the direct command form meaning 'attend to', pairing it with 'oranges' and 'kitchen'.
-- 'All right, I am already leaving.' Max expresses this naturally by combining the word for 'all right' with 'already' and 'am leaving'.
-- 'So, have all the waitstaff gathered here?' Vika turns a statement into a question purely through rising intonation on the word meaning 'so', pairing it with 'waiters' and 'gathered'.
-- 'Yes, everyone is listening to you very attentively.' Max chooses the action verb meaning 'are listening to' for the ongoing action, followed by 'very' and 'attentively'.
-- 'Starting today we have a strict ban.' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'today's' and 'day'.
-- 'What sort of ban in our restaurant?' Russian omits the present-tense verb 'to be' here, linking 'else' directly with 'ban', followed by 'restaurant'.
-- 'Any personal relationships at work are forbidden.' Vika uses the action verb meaning 'are forbidden' to focus on the single completed result, pairing it with 'personal' and 'relationships'.
-- 'But why do we need such a new rule?' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'new', followed by 'rule'.
-- 'Now the restaurant has very difficult times.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'restaurant', pairing it with 'very' and 'difficult'.
-- 'You must think only about work!' Vika expresses this naturally by combining the word for 'must' with 'to think' and 'work'.
-- 'And what will happen for breaking the rule?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'For breaking this rule there will be dismissal!' Here Vika anchors the line on the word meaning 'violation' and builds the thought around 'of the rule' and 'will be'.
+- 'Max, what are you doing here?' Vika asks Max why he is out in the dining room.
+- 'I brought fresh oranges to the bar.' Max explains he was just dropping off oranges at the bar.
+- 'Then attend to your oranges in the kitchen!' Vika tells him to deal with his oranges back in the kitchen.
+- 'All right, I am already leaving.' Max agrees to go back and says he is already leaving.
+- 'So, have all the waitstaff gathered here?' Vika checks if all her staff are present for a meeting.
+- 'Yes, everyone is listening to you very attentively.' Max cheekily answers for everyone, saying they are all ears.
+- 'Starting today we have a strict ban.' Vika announces a new strict rule for the team.
+- 'What sort of ban in our restaurant?' Max asks what this new ban is all about.
+- 'Any personal relationships at work are forbidden.' Vika states that workplace romances are no longer allowed.
+- 'But why do we need such a new rule?' Max questions why they suddenly need this rule.
+- 'Now the restaurant has very difficult times.' Vika explains that the business is going through a tough time.
+- 'You must think only about work!' Vika tells the staff they need to focus entirely on their jobs.
+- 'And what will happen for breaking the rule?' Max asks what the punishment will be if someone breaks the rule.
+- 'For breaking this rule there will be dismissal!' Vika warns that anyone who breaks the rule will be fired.

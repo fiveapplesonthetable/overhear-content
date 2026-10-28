@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.18'
 SOURCE_FILE = 'sources/kukhnya/s01/e18.ru.dual.srt'
 INTRO = "Owner Dmitry Nagiyev gathers the restaurant staff and admits he went too far with his strict cost-cutting measures. He announces that someone experienced will now run the restaurant: his wife Kristina. Let's listen to the scene in Russian first."
 OPENER = "Let's walk through the Dmitry Nagiyev's announcement line by line."
-TRANSITION = "Now let's listen to the scene again without interruption."
+TRANSITION = "Now let's listen to the conversation again without interruption."
 OUTRO = 'Expecting to regain full authority, Chef Viktor is stunned when Dmitry appoints his wife Kristina to run Claude Monet. See you next time!'
 CLOSING = ('max', 'До встречи!')
 STORY = [
@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'Well yes, that is completely right.' In this moment, Chef Viktor nods eagerly, expecting to be put back in charge."),
     (9, None, "'That person is right here among us.' Nagiyev builds suspense in front of the staff."),
     (10, None, "'Dima, I am always ready to help.' In response, Viktor steps forward to accept the role."),
-    (11, None, "'This is my wife Kristina.' Instead, Nagiyev surprises everyone by naming Kristina as the new boss."),
+    (11, None, "'This is my wife Kristina.' Instead, Nagiyev surprises everyone by naming Kristina as the new boss. Now let's listen to the scene again without interruption."),
 ]

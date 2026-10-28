@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is your fire extinguisher?' Russian omits the present-tense verb 'to be' here, linking 'where' directly with 'fire extinguisher', combining 'where' with 'fire extinguisher'.
-- 'It was hanging here last time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you laughing at me?' the inspector chooses the action verb meaning 'are laughing' for the ongoing action, followed by 'it is necessary'.
-- 'This one is not suitable.' the inspector delivers a punchy conversational reaction built around the Russian word meaning 'is coming up'.
-- 'Here is a normal fire extinguisher.' Russian omits the present-tense verb 'to be' here, linking 'decent' directly with 'fire extinguisher', combining 'decent' with 'fire extinguisher'.
-- 'And where is its seal?' Russian omits the present-tense verb 'to be', connecting 'and' directly with 'seal'.
-- 'Good afternoon.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day'.
-- 'May I know one thing?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'thing'.
-- 'Why do you have such an interest in the restaurant?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We are fighting with bad management.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'There was a call to my boss.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'From the neighboring restaurant.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'neighboring' straight to 'restaurant'. Dmitry answers straight away.
-- 'Everything is clear.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'clear'.
-- 'Well then, until tomorrow.' the inspector delivers a punchy conversational reaction built around the Russian word meaning 'tomorrow'.
+- 'Where is your fire extinguisher?' The official demands to see the safety equipment once again.
+- 'It was hanging here last time.' Vika sounds confused, pointing out where the item used to be.
+- 'Are you laughing at me?' Frustrated by the disappearing equipment, the inspector feels he is being mocked.
+- 'This one is not suitable.' He rejects the replacement they offer as completely inadequate.
+- 'Here is a normal fire extinguisher.' Vika presents another option, hoping this one meets the standard.
+- 'And where is its seal?' The official immediately finds another flaw, pointing out a missing safety marker.
+- 'Good afternoon.' Nagiyev enters the scene smoothly, offering a polite daytime greeting.
+- 'May I know one thing?' He asks for permission to bring up a specific question.
+- 'Why do you have such an interest in the restaurant?' Nagiyev probes the official's unusually intense focus on their establishment.
+- 'We are fighting with bad management.' The official justifies his harshness by claiming to crusade against poor leadership.
+- 'There was a call to my boss.' He reveals that a complaint from higher up triggered the strict review.
+- 'From the neighboring restaurant.' The source of the trouble is finally unmasked as a rival business.
+- 'Everything is clear.' Nagiyev quickly connects the dots, understanding the true motive behind the harassment.
+- 'Well then, until tomorrow.' The official leaves with a threatening promise to return the next day.

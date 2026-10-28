@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You see, we are an ideal and harmonious couple.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We love animals very much and take care of them.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'In our good apartment it is always warm and peaceful.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Hector will be able to walk in the beautiful park every day.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And sleep on the soft couch by the bed.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The owner is very glad about our kind words.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She sees how much we suit each other.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Careful, Max, this is just our clever game.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The main thing is that the dog finally found its home.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am sincerely happy to take this good dog.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let' s go quickly, Hector is waiting for us by the door.' Cohortative motion command form with comparative adverb, proper subject name, present verb, matching form word, and everyday phrase.
-- 'Now our life will become much better together.' Temporal adverb with matching form phrase, future verb, comparative adverb, and cooperative adverb.
+- 'You see, we are an ideal and harmonious couple.' Max lays on the charm, presenting them as a perfectly harmonious household.
+- 'We love animals very much and take care of them.' Vika plays along, confirming their shared dedication to giving pets a wonderful life.
+- 'In our good apartment it is always warm and peaceful.' He casually drops details about their supposedly comfortable and stable living situation.
+- 'Hector will be able to walk in the beautiful park every day.' Vika adds a picturesque image of daily strolls to win over the sentimental owner.
+- 'And sleep on the soft couch by the bed.' Max throws in a cozy detail about where the dog will sleep to seal the deal.
+- 'The owner is very glad about our kind words.' Vika notices that their combined performance is working flawlessly.
+- 'She sees how much we suit each other.' He whispers that the owner is completely buying their soulmate routine.
+- 'Careful, Max, this is just our clever game.' Vika warns him not to get carried away with his own fictional romance.
+- 'The main thing is that the dog finally found its home.' Max brushes off the awkwardness, thrilled that their mission was a success.
+- 'I am sincerely happy to take this good dog.' She drops the act for a moment to express genuine joy about adopting the animal.
+- 'Let's go quickly, Hector is waiting for us by the door.' Max urges a swift exit before their web of lies starts to unravel.
+- 'Now our life will become much better together.' Vika delivers one last convincingly sweet line for the owner's benefit.

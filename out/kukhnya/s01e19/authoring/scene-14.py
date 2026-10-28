@@ -32,16 +32,16 @@ STORY = [
 ]
 WALK = [
     (0, None, "'What are you going to do?' Vika asks directly. Notice the word for 'to do' is at the end."),
-    (1, None, "'Are you talking about the restaurant?' Literally, 'You about restaurant?'. The verb 'are' is skipped in Russian."),
-    (2, None, "'Dima gave you two weeks.' The verb 'gave' is in the past tense matching, because Dima is a man. It is placed before the word for 'you'."),
-    (3, None, "'A week' s already gone by.' The verb 'passed' is matching here, because 'week' is a matching noun."),
+    (1, None, "'Are you talking about the restaurant?' Barinov asks if she is referring to the restaurant."),
+    (2, None, "'Dima gave you two weeks.' Vika reminds him that Dima only gave him two weeks."),
+    (3, None, "'A week's already gone by.' Vika points out that a whole week has already passed."),
     (4, None, "'Don't worry, I have an idea.' Literally 'By me there is an idea'. We often use this structure in Russian for possession."),
-    (5, None, "'Let me guess. You'll get drunk?' Vika is skeptical. The second verb is in the future tense."),
+    (5, None, "'Let me guess. You'll get drunk?' Vika guesses that he will just get drunk to deal with it."),
     (6, None, "'Naturally. Such an occasion.' The Chef is very proud. The word 'an' is not translated."),
     (7, None, "'The birthday of the Claude Monet restaurant.' In Russian, we say 'Day of birth'. We do not use 'the'."),
     (8, None, "'We'll throw a party for the whole world.' This is a popular Russian rhyming phrase: 'pir na ves mir'."),
-    (9, None, "'And how will the world hear about it?' Vika wonders how people will know. The verb is future tense."),
-    (10, None, "'I'll take care of that.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to take'."),
+    (9, None, "'And how will the world hear about it?' Vika questions how the world will find out about the party."),
+    (10, None, "'I'll take care of that.' Barinov confidently takes responsibility for spreading the word."),
     (11, None, "'Got it. Good luck.' Vika isn't convinced. The second word is a wish for success."),
-    (12, None, "'Thanks.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'thank you'."),
+    (12, None, "'Thanks.' Barinov thanks her for the luck."),
 ]

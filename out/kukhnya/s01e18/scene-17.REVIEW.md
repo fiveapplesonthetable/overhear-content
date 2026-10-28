@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I must fire your cooks.' Nagiyev puts the word for 'has to' together with 'to fire' and 'cooks' in a crisp, natural spoken turn of phrase.
-- 'Have you gone completely crazy?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'at all', pairing it with 'gone' and 'mind'.
-- 'They cost too much.' The phrasing opens with 'too' before bringing in 'expensive' and 'cost' to make the point clear.
-- 'This is almost half a million every month.' Russian omits the present-tense verb 'to be' here, linking 'almost' directly with 'half a million', combining 'almost' with 'half a million' and 'every'.
-- 'You cannot fire them.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This is the best team in Moscow.' Russian omits the present-tense verb 'to be' here, linking 'best' directly with 'team', combining 'best' with 'team'.
-- 'It is cheaper to find new people.' The phrasing opens with 'cheaper' before bringing in 'to find' and 'new' to make the point clear.
-- 'What difference does it make who cuts carrots?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This is my team!' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'team'.
-- 'If you fire them, you will lose me.' Chef Barinov uses the action verb meaning 'will fire' to focus on the single completed result, pairing it with 'to lose'.
-- 'Vitya, just sit and calm down.' Nagiyev leads with the direct command form meaning 'sit down', pairing it with 'just' and 'calm down'.
-- 'Alright, sort it out yourselves.' the self-directed ending on the verb for 'to understand well' turns the action back onto the subject.
-- 'And I am quitting in the meantime.' Notice the self-directed ending on the verb for 'quit', which directs the action back onto the subject.
-- 'Wait, we will solve everything.' Nagiyev leads with the direct command form meaning 'wait', followed by 'will sort out'.
+- 'I must fire your cooks.' Nagiyev bluntly states that the kitchen staff needs to be let go.
+- 'Have you gone completely crazy?' Chef Barinov is outraged, asking if the owner has lost his mind entirely.
+- 'They cost too much.' Nagiyev complains about the massive expense of keeping everyone around.
+- 'This is almost half a million every month.' He throws out a huge number to emphasize just how much cash they are bleeding.
+- 'You cannot fire them.' Chef Barinov stands his ground, strictly forbidding the owner from doing this.
+- 'This is the best team in Moscow.' He proudly defends his crew as the greatest group of culinary experts around.
+- 'It is cheaper to find new people.' Nagiyev brushes off the sentiment, arguing that fresh hires would cost less.
+- 'What difference does it make who cuts carrots?' He dismisses the skill required for basic prep work, making it sound trivial.
+- 'This is my team!' Chef Barinov yells fiercely, showing his fierce loyalty to his people.
+- 'If you fire them, you will lose me.' He delivers an ultimatum, threatening to walk away if the crew gets the boot.
+- 'Vitya, just sit and calm down.' Nagiyev tries to defuse the tension, telling him to take a seat and relax.
+- 'Alright, sort it out yourselves.' Chef Barinov angrily tells him to figure it all out without his help.
+- 'And I am quitting in the meantime.' He dramatically announces his resignation right on the spot.
+- 'Wait, we will solve everything.' Nagiyev desperately tells him to hold on, promising they can work things out.

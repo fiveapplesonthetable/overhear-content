@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = 'A furious customer calls the waitress over after finding something completely unacceptable hidden inside his fancy turkey salad. He demands an immediate explanation for the horrible mistake.'
 OPENER = "Now let's go back through the exchange around A Belt in the Salad line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The waitress runs to the kitchen to fetch the person responsible for this cooking disaster. Next time you watch the episode, listen for the Russian expressions for 'waiter' and 'to come up' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -32,8 +32,8 @@ STORY = [
     ('max', 'Я сейчас разберусь с этим.', 'I will sort this out now.', [], ''),
 ]
 WALK = [
-    (4, None, "'What is this?' Russian omits the present-tense verb 'to be' here, linking 'this' directly with 'what', combining 'this' with 'what'."),
-    (5, None, "'Turkey salad.' Russian omits the present-tense verb 'to be' here, linking 'salad' directly with 'turkey', combining 'salad' with 'turkey'."),
-    (7, None, "'Was the turkey wearing pants and a belt?' , combining 'turkey' with 'was' and 'trousers'."),
-    (10, None, "'Go get the idiot who made this.' the guest leads with the direct command form meaning 'let's', pairing it with 'call' and 'here'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'What is this?' Holding up a strip of boiled leather on his fork, a tough guest demands to know what this is."),
+    (1, None, "'Turkey salad.' Not seeing the leather yet, Vika politely answers that it is the turkey salad."),
+    (2, None, "'Was the turkey wearing pants and a belt?' The guest sarcastically asks whether the turkey was wearing trousers and a belt when they cooked it."),
+    (3, None, "'Go get the idiot who made this.' Furious, he orders them to bring out the fool who prepared the dish."),
 ]

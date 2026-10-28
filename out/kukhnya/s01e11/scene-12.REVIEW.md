@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, how long have you had this guest?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He is writing something the whole time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It turns out I have two critics now?' A rhetorical question conveying disbelief and escalating panic for the kitchen management.
-- 'Immediately take him our signature menu.' An urgent command form directing the server to provide special service to the visitor. Now, let's hear Chef Barinov interrogate Nastya once more. Now let's listen to the whole conversation again from start to finish.
+- 'Nastya, how long have you had this guest?' Barinov asks his employee about her customer. He wants to know how much time the man has spent there.
+- 'He is writing something the whole time.' Nastya answers by describing his actions. The man has not stopped taking notes since he arrived.
+- 'It turns out I have two critics now?' He panics a little bit. The chef wonders if there are suddenly two reviewers in his restaurant.
+- 'Immediately take him our signature menu.' The boss gives a strict order. He wants the man to see their best dishes right away.

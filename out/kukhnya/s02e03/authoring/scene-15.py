@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "In the kitchen, Victoria complains that guests in the dining room have been waiting ages for their salad while Senya is nowhere to be found. Trying to help, Max grabs the bowl sitting on Senya's counter and puts it on the pass, unaware that it contains Senya's sliced leather belt."
 OPENER = 'Listen to Victoria and Max looking for the missing salad order in the kitchen.'
-TRANSITION = "Now listen to Victoria and Max in the kitchen again. Now let's listen to the whole conversation again from start to finish."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Thinking they have solved the delay, Max and Victoria accidentally send Senya's leather belt salad out to a guest. Next time you watch the episode, listen for the Russian expressions for 'to say' and 'now' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -34,14 +34,14 @@ WALK = [
     (0, None, "'Max, tell me, where is Senya right now?' Victoria enters the kitchen looking for the cook."),
     (1, None, "'He just stepped out of the kitchen.' Max explains that Senya left his station a moment ago."),
     (2, None, "'The guests in the hall are waiting for their order!' Victoria stresses that the customers are getting impatient."),
-    (3, None, "'They have been waiting for this salad for a very long time.' Russian uses the present tense for an action that started in the past and continues now."),
+    (3, None, "'They have been waiting for this salad for a very long time.' Vika complains that the table has been waiting ages for their salad."),
     (4, None, "'Senya prepared the salad a long time ago.' Max recalls seeing Senya make a salad earlier."),
-    (5, None, "'Then why is the dish still in the kitchen?' Russian omits the present-tense verb 'to be' here, linking 'back then' directly with 'why', combining 'back then' with 'why' and 'dish'."),
+    (5, None, "'Then why is the dish still in the kitchen?' When Max says Senya already made it, Vika asks why the bowl is still sitting in the kitchen."),
     (6, None, "'Well what a strange person!' This exclamatory phrase expresses frustration."),
     (7, None, "'Is it really hard to put the plate on the table?' Cooks must place finished dishes on the pass table for the waiters."),
     (8, None, "'Look, here stands some plate.' Max notices a finished salad sitting on Senya's counter."),
     (9, None, "'Probably this is our salad.' Neither of them realizes Senya mixed his leather belt into that bowl."),
-    (10, None, "'Let me quickly take it to the waiter.' Max leads with the direct command form meaning 'let's', pairing it with 'quickly' and 'to carry to'."),
+    (10, None, "'Let me quickly take it to the waiter.' Trying to be helpful, Max offers to run the salad out to the waiter right now."),
     (11, None, "'Yes, put it on the table quickly!' Victoria tells him to hurry so the waiter can serve it."),
-    (12, None, "'Done, now the guests will be satisfied.' Max unwittingly sends the belt salad out to the dining room."),
+    (12, None, "'Done, now the guests will be satisfied.' Max unwittingly sends the belt salad out to the dining room. Now listen to Victoria and Max in the kitchen again."),
 ]

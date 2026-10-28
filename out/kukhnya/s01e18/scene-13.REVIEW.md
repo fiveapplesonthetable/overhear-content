@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You look completely bad.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Does your stomach hurt?' To express possession, Russian uses the preposition 'by' plus the matching word ending word followed by 'belly'. Then Senya responds.
-- 'Yes, I feel really bad.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'badly', combining 'very much' with 'badly'.
-- 'I told you so.' Fedya delivers a punchy one-word reaction built around the Russian word meaning 'said'.
-- 'You should not have eaten the fish.' Fedya puts the word for 'it is necessary' together with 'was' and 'there is' in a crisp, natural spoken turn of phrase.
-- 'I thought it was normal.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do you know what to do?' Fedya chooses the action verb meaning 'know' for the ongoing action, followed by 'it is necessary' and 'do'.
-- 'You need to drink pepper and water.' Fedya expresses this naturally by combining the word for 'it is necessary' with 'to drink' and 'pepper'.
-- 'Oh, I can not take it anymore.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Senya, what is wrong with you?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'you'.
-- 'Senya, open your eyes! Senya!' Fedya uses the action verb meaning 'to open' to focus on the single completed result, pairing it with 'eyes'.
-- 'Got it, let's move on.' Fedya leads with the direct command form meaning 'let's', pairing it with 'clear' and 'next'.
+- 'You look completely bad.' Fedya bluntly tells his friend he looks like death warmed over.
+- 'Does your stomach hurt?' Fedya asks about physical pain using a common phrasing that implies a hurting belly.
+- 'Yes, I feel really bad.' Senya weakly admits to feeling awful, keeping his words short as he struggles.
+- 'I told you so.' Fedya delivers a classic reminder that he warned him, offering absolutely no sympathy.
+- 'You should not have eaten the fish.' Fedya scolds him for a poor dietary choice, pointing out his obvious mistake.
+- 'I thought it was normal.' Senya weakly defends himself, claiming he had no idea the food was rotten.
+- 'Do you know what to do?' Fedya steps up with some unsolicited medical advice.
+- 'You need to drink pepper and water.' Fedya suggests a terrible homemade remedy, recommending a disgusting mix of water and spice.
+- 'Oh, I can not take it anymore.' Senya groans in absolute misery, feeling like he might pass out.
+- 'Senya, what is wrong with you?' Fedya suddenly gets worried as his friend's condition rapidly gets worse.
+- 'Senya, open your eyes! Senya!' Fedya panics and shouts at him to stay conscious.
+- 'Got it, let's move on.' Fedya gives up on helping when Senya stops responding, deciding to simply walk away.

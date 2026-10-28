@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My friends, I sold our entire restaurant.' Nagiyev puts the word for 'friends' together with 'sold' and 'restaurant' in a crisp, natural spoken turn of phrase.
-- 'Dmitry, to whom did you sell this wonderful restaurant?' Chef Barinov uses the action verb meaning 'sold' to focus on the single completed result, pairing it with 'beautiful' and 'restaurant'.
-- 'Meet Igor, he is now your new main owner.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Good afternoon, Viktor, let us talk seriously right away.' the speaker leads with the direct command form meaning 'let's', pairing it with 'good' and 'day'.
-- 'What do you want to talk about with me?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Dmitry said that you often drink alcohol.' the speaker leads with the direct command form meaning 'drink', pairing it with 'said' and 'often'.
-- 'I have no problems with alcohol at all.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'at all' and 'problems'.
-- 'You understand very well what I am talking about.' the speaker expresses this naturally by combining the word for 'perfectly' with 'do you understand' and 'am telling'.
+- 'My friends, I sold our entire restaurant.' Nagiyev drops the bombshell on the whole staff that he has sold the restaurant.
+- 'Dmitry, to whom did you sell this wonderful restaurant?' Barinov is stunned and demands to know who bought his beloved kitchen.
+- 'Meet Igor, he is now your new main owner.' Nagiyev introduces Igor as the new boss in charge of everyone.
+- 'Good afternoon, Viktor, let us talk seriously right away.' Igor greets Viktor politely and asks for a serious private talk right away.
+- 'What do you want to talk about with me?' Barinov wonders what the new owner wants to discuss with him.
+- 'Dmitry said that you often drink alcohol.' Igor brings up the rumor from Dmitry about Viktor drinking on the job.
+- 'I have no problems with alcohol at all.' Viktor immediately denies having any trouble with alcohol at all.
+- 'You understand very well what I am talking about.' Igor does not buy the excuse and tells Viktor he knows the truth.
 - 'Today I strictly decided to forbid drinking here.' the speaker puts the word for 'today' together with 'sternly' and 'has decided' in a crisp, natural spoken turn of phrase.
-- 'And what if I drink a little at home in the evening?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'drink', pairing it with 'a bit' and 'in the evening'.
-- 'Before work you also cannot drink any alcohol.' The phrasing opens with 'of work' before bringing in 'too' and 'not allowed' to make the point clear.
+- 'And what if I drink a little at home in the evening?' Barinov tries to bargain for a little evening drink at home.
+- 'Before work you also cannot drink any alcohol.' Igor shuts that down too, banning alcohol even before a shift starts.
 - 'Otherwise we will quickly part ways with you forever.' the speaker expresses this naturally by combining the word for 'otherwise' with 'quickly' and 'will break up'.
-- 'Fine, boss, I understood your new rules.' Chef Barinov puts the word for 'good' together with 'owner' and 'understood?' in a crisp, natural spoken turn of phrase.
+- 'Fine, boss, I understood your new rules.' Left with no choice, Viktor reluctantly accepts the new owner's strict rules.

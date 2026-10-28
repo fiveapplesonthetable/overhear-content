@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Cooks, quickly come over here, everyone!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Everyone taste the new sauce. Quickly!' The inclusive present tense verb invites collective action, emphasized by an energetic adverb.
-- 'Amazing sauce, chef, pure delight!' The enthusiastic compliment uses an expressive adjective and an emotional noun phrase.
-- 'I have never tasted anything better.' The negative construction employs a double negative with a comparative adverb for superlative praise. Okay, let's hear the sauce tasting dialogue once more. Now let's listen to the whole conversation again from start to finish.
+- 'Cooks, quickly come over here, everyone!' Barinov loudly summons his team for a crucial tasting.
+- 'Everyone taste the new sauce. Quickly!' He demands immediate attention and participation from everyone.
+- 'Amazing sauce, chef, pure delight!' Max heaps extreme praise on the culinary creation.
+- 'I have never tasted anything better.' He flatters the boss by claiming it is the finest thing he has ever eaten. Okay, let's hear the sauce tasting dialogue once more.

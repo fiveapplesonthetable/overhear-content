@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena, are you hiring cooks through an ad?' Barinov starts the banter with an matching form noun.
-- 'Hello, Viktor Petrovich. Yes, we are expanding.' Elena greets him politely and mentions business growth.
-- 'You had better put a sign near the metro!' The chef suggests a sarcastic alternative with a comparative adverb.
-- 'There is no need for that.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Normal professionals do not look for work in newspapers.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Excellent candidates have already come to me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And from which restaurants are these people?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Some work in very respectable places.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Could someone really be leaving good restaurants?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Maybe even from your restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I will eat my chef' s hat if my cooks leave!' Barinov makes an outrageous wager using a future everyday verb.
-- 'Then in advance I wish you bon appétit!' Elena playfully retorts with a polite festive greeting.
-- 'My people are loyal to me to the end.' Barinov reasserts team loyalty with a short everyday adjective.
+- 'Elena, are you hiring cooks through an ad?' Barinov asks Elena if she is hiring cooks through an ad.
+- 'Hello, Viktor Petrovich. Yes, we are expanding.' Elena greets Viktor Petrovich and confirms they are expanding.
+- 'You had better put a sign near the metro!' He tells her she had better put a sign near the metro.
+- 'There is no need for that.' She says there is no need for that.
+- 'Normal professionals do not look for work in newspapers.' Barinov claims normal professionals do not look for work in newspapers.
+- 'Excellent candidates have already come to me.' Elena says excellent candidates have already come to her.
+- 'And from which restaurants are these people?' He asks which restaurants these people are from.
+- 'Some work in very respectable places.' She says some work in very respectable places.
+- 'Could someone really be leaving good restaurants?' Barinov wonders if someone could really be leaving good restaurants.
+- 'Maybe even from your restaurant.' Elena hints they might even be from his restaurant.
+- 'I will eat my chef's hat if my cooks leave!' He swears he will eat his chef hat if his cooks leave.
+- 'Then in advance I wish you bon appétit!' She preemptively wishes him bon appetit.
+- 'My people are loyal to me to the end.' Barinov insists his people are loyal to him to the end.

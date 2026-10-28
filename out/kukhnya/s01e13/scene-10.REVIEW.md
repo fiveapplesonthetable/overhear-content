@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Buongiorno, signori.' Russian omits the present-tense verb 'to be' here, linking 'buongiorno' directly with 'signora' to make the point directly in conversation.
-- 'Good afternoon, Claude Monet restaurant.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', combining 'good' with 'day' and 'restaurant'.
-- 'My name is Alexander.' Max delivers a punchy conversational reaction built around the Russian word meaning 'call'.
-- 'The exhibition is cancelled.' Max expresses this naturally by combining the word for 'exhibition' with 'is canceled'.
-- 'Pass this on to Victoria.' Max leads with the direct command form meaning 'to pass on' to make the point directly in conversation.
-- 'All right, I will pass it on.' Here Angelina anchors the line on the word meaning 'good' and builds the thought around 'will pass on'.
-- 'Grazie, signora, ciao-ciao.' Russian omits the present-tense verb 'to be' here, linking 'grazie' directly with 'signora', followed by 'ciao-ciao'.
-- 'Yes, hello. Victoria Sergeyevna, hello.' Russian omits the present-tense verb 'to be' here, linking 'hello?' directly with 'hello', combining 'hello?' with 'hello'.
-- 'A representative of the exhibition from Milan called.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He said that it is cancelled.' Angelina uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'is canceled'.
-- 'Oh, really? I am already in Domodedovo.' Russian omits the present-tense verb 'to be' here, linking 'honestly' directly with 'already', combining 'honestly' with 'already'.
-- 'I almost flew away.' Vika expresses this naturally by combining the word for 'nearly' with 'to fly away'.
-- 'Thank you for warning me.' Vika puts the word for 'thank you' together with 'warned' in a crisp, natural spoken turn of phrase.
+- 'Buongiorno, signori.' Max puts on a fake accent. He greets the staff in Italian to sound convincing.
+- 'Good afternoon, Claude Monet restaurant.' Angelina answers professionally. She states the restaurant's name clearly.
+- 'My name is Alexander.' Max introduces his fabricated persona. He gives himself a generic name.
+- 'The exhibition is cancelled.' He delivers the fake bad news. Max claims the entire event has been called off.
+- 'Pass this on to Victoria.' He makes sure the message reaches his target. Max specifically asks her to tell Vika.
+- 'All right, I will pass it on.' Angelina accepts the message without suspicion. She promises to relay the information.
+- 'Grazie, signora, ciao-ciao.' Max signs off in character. He throws in a few more Italian words for good measure.
+- 'Yes, hello. Victoria Sergeyevna, hello.' Angelina calls Vika to deliver the news. She starts with a polite greeting.
+- 'A representative of the exhibition from Milan called.' She passes on the fabricated story. Angelina reports that the organizers called.
+- 'He said that it is cancelled.' She relays the crucial detail. Angelina tells Vika the trip is off.
+- 'Oh, really? I am already in Domodedovo.' Vika is shocked by the sudden change. She mentions she is already at the airport.
+- 'I almost flew away.' Vika realizes how close she came to leaving. She notes that she nearly boarded the plane.
+- 'Thank you for warning me.' She expresses gratitude for the timely update. Vika genuinely appreciates the heads-up.

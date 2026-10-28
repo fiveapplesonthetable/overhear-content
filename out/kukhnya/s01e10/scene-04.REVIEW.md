@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, I am listening to you attentively.' Chef Barinov leads with the direct command form meaning 'hello', pairing it with 'attentively' and 'am listening'.
+- 'Hello, I am listening to you attentively.' Barinov leads with the direct word for 'hello', pairing it with 'attentively' and 'am listening'.
 - 'You performed wonderfully on our culinary show.' Here the speaker anchors the line on the word meaning 'wonderfully' and builds the thought around 'performed' and 'culinary'.
-- 'And what did your strict producers decide?' Chef Barinov uses the action verb meaning 'decided' to focus on the single completed result, pairing it with 'strict' and 'producers'.
-- 'We want to offer you a permanent job.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'At how much did you value my work?' Chef Barinov puts the word for 'how much' together with 'valued' and 'work' in a crisp, natural spoken turn of phrase.
-- 'Ten thousand for each new broadcast.' Russian omits the present-tense verb 'to be' here, linking 'ten' directly with 'thousand', pairing it with 'new' and 'broadcast'.
-- 'Ten thousand euros for one episode?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'ten', pairing it with 'thousand' and 'euros'.
-- 'No, we pay ten thousand rubles.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then goodbye, or rather farewell!' Chef Barinov leads with the direct command form meaning 'farewell', pairing it with 'then' and 'meeting'.
+- 'And what did your strict producers decide?' Barinov uses the word for 'decided' to focus on the completed action, pairing it with 'strict' and 'producers'.
+- 'We want to offer you a permanent job.' Woman voices the thought smoothly and naturally.
+- 'At how much did you value my work?' Barinov puts the word for 'how much' together with 'valued' and 'work' in a natural spoken line.
+- 'Ten thousand for each new broadcast.' Russian leaves out the word for 'to be' here, linking 'ten' directly with 'thousand', pairing it with 'new' and 'broadcast'.
+- 'Ten thousand euros for one episode?' Barinov asks this purely through rising tone on the word for 'ten', pairing it with 'thousand' and 'euros'.
+- 'No, we pay ten thousand rubles.' Woman puts the idea across in a natural everyday manner.
+- 'Then goodbye, or rather farewell!' Barinov leads with the direct word for 'farewell', pairing it with 'then' and 'meeting'.
 - 'Wait, Viktor, let us calmly discuss everything.' the speaker leads with the direct command form meaning 'wait', pairing it with 'let us' and 'calmly'.
-- 'You propose that I work on my day off.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This will make your restaurant very famous.' the speaker uses the action verb meaning 'will make' to focus on the single completed result, pairing it with 'restaurant' and 'very'.
-- 'I do not work for such ridiculous kopecks!' Chef Barinov chooses the action verb meaning 'work' for the ongoing action, followed by 'ridiculous' and 'kopecks'.
+- 'You propose that I work on my day off.' Barinov articulates the point with simple everyday clarity.
+- 'This will make your restaurant very famous.' Woman uses the word for 'will make' to focus on the completed action, pairing it with 'restaurant' and 'very'.
+- 'I do not work for such ridiculous kopecks!' Barinov chooses the word for 'work' for the ongoing action, followed by 'ridiculous' and 'kopecks'.

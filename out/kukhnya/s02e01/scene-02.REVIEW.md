@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Max, why did you run away early in the morning?' Sasha puts the word for 'hi' together with 'why' and 'this morning' in a crisp, natural spoken turn of phrase.
-- 'I had to quickly go home in the morning.' Here Max anchors the line on the word meaning 'it is necessary' and builds the thought around 'was' and 'quickly'.
-- 'Sasha, yesterday we made a very big mistake.' The phrasing opens with 'yesterday' before bringing in 'did' and 'very much' to make the point clear.
-- 'Do not worry, everything was simply very good.' Sasha leads with the direct command form meaning 'worry', pairing it with 'was' and 'just'.
-- 'Hello, Sasha, today you no longer work here.' Vika puts the word for 'hello' together with 'today' and 'more' in a crisp, natural spoken turn of phrase.
-- 'You are fired, pack all your things immediately.' Vika leads with the direct command form meaning 'pack', pairing it with 'fired' and 'at once'.
-- 'Excuse me, Victoria, what did you fire me for?' Sasha leads with the direct command form meaning 'excuse me', followed by 'fired'.
-- 'Tomorrow morning you will receive all your money.' Vika expresses this naturally by combining the word for 'tomorrow' with 'this morning' and 'will receive'.
-- 'Vika, wait, one cannot act like this with people!' Max leads with the direct command form meaning 'wait', pairing it with 'not allowed' and 'to treat'.
-- 'For you I am now only Victoria Sergeyevna.' Russian omits the present-tense verb 'to be' here, linking 'now' directly with 'only' to make the point directly in conversation.
-- 'And now go to the kitchen and work!' Vika leads with the direct command form meaning 'go', pairing it with 'now' and 'kitchen'.
-- 'Please, let us calmly talk about this in the evening.' Max leads with the direct command form meaning 'let's', pairing it with 'calmly' and 'we'll have a talk'.
-- 'I hope I explained everything very clearly to you!' Vika chooses the action verb meaning 'hope so' for the ongoing action, followed by 'very much' and 'clear'.
+- 'Hi, Max, why did you run away early in the morning?' Sasha greets Max warmly and asks why he slipped out so early that morning.
+- 'I had to quickly go home in the morning.' Max makes up a quick excuse about needing to rush home.
+- 'Sasha, yesterday we made a very big mistake.' He tries to tell Sasha gently that last night was a huge mistake.
+- 'Do not worry, everything was simply very good.' Sasha brushes off his worry and says she thought everything was great.
+- 'Hello, Sasha, today you no longer work here.' Vika walks up and coldly announces that Sasha no longer works at the restaurant.
+- 'You are fired, pack all your things immediately.' Furious after catching them together, Vika fires Sasha on the spot and tells her to pack.
+- 'Excuse me, Victoria, what did you fire me for?' Stunned, Sasha politely asks Victoria why she is being let go.
+- 'Tomorrow morning you will receive all your money.' Vika refuses to explain and simply says Sasha will get her final pay tomorrow morning.
+- 'Vika, wait, one cannot act like this with people!' Max steps in and protests that Vika cannot treat people that way.
+- 'For you I am now only Victoria Sergeyevna.' Vika icily demands that Max address her only by her formal full name from now on.
+- 'And now go to the kitchen and work!' She orders him to march straight back to the kitchen and do his job.
+- 'Please, let us calmly talk about this in the evening.' Max begs her to talk things over calmly after the shift ends.
+- 'I hope I explained everything very clearly to you!' Vika cuts him off sharply, warning him that she has made herself crystal clear.

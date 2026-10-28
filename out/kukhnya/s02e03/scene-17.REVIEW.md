@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have a problem with our order.' the guest uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'problem' and 'order'.
-- 'I asked for no onions.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'We have a problem with our order.' In the dining room, an irritable customer flags down the staff about a problem with his order.
+- 'I asked for no onions.' He complains that he specifically asked for his dish without onions.
 - 'Excuse me.' the guest delivers a punchy conversational reaction built around the Russian word meaning 'respected'.
-- 'I want to speak with the chef.' the guest chooses the action verb meaning 'want' for the ongoing action, followed by 'to talk' and 'as a cook'. Now let's listen to the whole conversation again from start to finish.
+- 'I want to speak with the chef.' Still unhappy with the service, the guest demands to speak with the chef in person.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do they trick all newcomers like that?' Max realizes he was tricked by the senior cooks.
-- 'I must quickly put on my chef's hat.' Here Max anchors the line on the word meaning 'must' and builds the thought around 'quickly' and 'put on'.
-- 'Chef, today is the fifteenth, do you remember?' Vika enters the kitchen with an urgent reminder.
-- 'Soon the restaurant's sanitary inspection will arrive.' Vika expresses this naturally by combining the word for 'soon' with 'will arrive' and 'sanitary'.
-- 'And in your kitchen there is a mess again!' Vika uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', combining 'kitchen' with 'again' and 'mess'.
-- 'Where do you see a mess, my dear?' Here Chef Barinov anchors the line on the word meaning 'where' and builds the thought around 'see' and 'mess'.
-- 'Look for yourself what a clean shelf this is!' Chef Barinov leads with the direct command form meaning 'look', pairing it with 'around' and 'clean'.
-- 'A little money solves any big problems.' The chef openly boasts about paying off inspectors.
-- 'If there were order, we wouldn' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'There is always a lot of work in a restaurant kitchen.' Russian omits the present-tense verb 'to be' here, linking 'kitchen' directly with 'restaurant', combining 'kitchen' with 'restaurant' and 'always'.
-- 'Inspectors look for violations only for money.' Cynically explaining how local bureaucracy functions.
-- 'We must urgently establish perfect cleanliness.' Vika expresses this naturally by combining the word for 'must' with 'urgently' and 'establish'.
-- 'It seems today we have big problems.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'it seems' with 'today' and 'big'.
-- 'I will go wash the floors in the kitchen.' Max uses the action verb meaning 'will go' to focus on the single completed result, pairing it with 'wash' and 'floors'.
+- 'Do they trick all newcomers like that?' Bitterly wiping his arms, Max wonders if every new hire falls for the shaving joke.
+- 'I must quickly put on my chef's hat.' Max hurries to cover up as much as possible before heading to the line.
+- 'Chef, today is the fifteenth, do you remember?' Warning the chef with a sharp tone, Vika mentions the date.
+- 'Soon the restaurant's sanitary inspection will arrive.' Vika announces the imminent arrival of the actual health officials.
+- 'And in your kitchen there is a mess again!' Scolding the chef, Vika points out the disastrous state of his workspace.
+- 'Where do you see a mess, my dear?' Feigning innocence, Barinov acts blindly defensive of his domain.
+- 'Look for yourself what a clean shelf this is!' Barinov points to a single tidy spot while ignoring the chaos everywhere else.
+- 'A little money solves any big problems.' Brazenly, Barinov implies that a small bribe will make any violations disappear.
+- 'If there were order, we wouldn' Snapping back, Vika says corruption wouldn't be necessary if he just cleaned up.
+- 'There is always a lot of work in a restaurant kitchen.' Barinov excuses the clutter by citing their immense workload.
+- 'Inspectors look for violations only for money.' Cynically dismissing the officials, Barinov calls them nothing but extortionists.
+- 'We must urgently establish perfect cleanliness.' Vika demands an immediate and thorough deep clean of the premises.
+- 'It seems today we have big problems.' Realizing the gravity of the situation, Max feels the panic settling in.
+- 'I will go wash the floors in the kitchen.' Quickly volunteering for a chore, Max escapes the escalating argument.

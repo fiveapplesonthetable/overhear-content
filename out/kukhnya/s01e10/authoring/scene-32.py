@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = 'In the Claude Monet kitchen, Fedya and Senya marvel at their newly dyed caviar as it gleams under the lights. Senya jokes that their creation looks like a traditional festive pike delicacy, perfectly disguised for the banquet. Listen to their conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around Pike Caviar Dish line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Fedya and Senya marvel at the dyed black caviar glistening in the bowl, joking that the festive pike delicacy will easily pass as real caviar for the banquet. Next time you watch the episode, listen for the Russian expressions for 'that's why' and 'caviar' — you will catch every word right away. See you next time!"
 CLOSING = ('senya', 'Пока!')
 STORY = [
@@ -30,13 +30,13 @@ STORY = [
     ('senya', 'Шеф ничего не узнает, прячь банку!', 'Chef will not find out anything, hide the jar!', [], ''),
 ]
 WALK = [
-    (0, None, "'Senya, look how the caviar shines!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (1, None, "'I told you, the dye is great.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (2, None, "'It looks like genuine black caviar.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (3, None, "'This dish is called pike easter.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'Because it is a real culinary miracle!' — causal conjunction followed by an emphatic noun phrase."),
-    (6, None, "'Give me a spoon, I want to taste.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'Listen, the taste is simply magnificent.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'Our guests will be in total delight.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (11, None, "'Chef will not find out anything, hide the jar!' — negative future word paired with an command form. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Senya, look how the caviar shines!' Looking closely into the bowl, Fedya admires how glossy the dyed caviar looks."),
+    (1, None, "'I told you, the dye is great.' Senya smugly reminds him that he said the food dye would work wonders."),
+    (2, None, "'It looks like genuine black caviar.' Fedya agrees that visually it passes for genuine black caviar."),
+    (3, None, "'This dish is called pike easter.' Repeating his joke, Senya christens their invention 'pike Easter'."),
+    (4, None, "'Because it is a real culinary miracle!' He laughs that turning cheap roe into luxury caviar is a true kitchen miracle."),
+    (5, None, "'Give me a spoon, I want to taste.' Curious about the flavor, Fedya asks for a spoon to taste a bite."),
+    (6, None, "'Listen, the taste is simply magnificent.' After tasting it, Fedya admits it actually tastes great."),
+    (7, None, "'Our guests will be in total delight.' Senya predicts the guests at the banquet table will be thrilled."),
+    (8, None, "'Chef will not find out anything, hide the jar!' Hearing footsteps, Senya tells Fedya to hide the dye bottle before anyone sees. Now listen to the full conversation once more."),
 ]

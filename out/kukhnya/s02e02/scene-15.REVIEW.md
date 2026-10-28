@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You fired her.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to fire'.
-- 'She quit herself.' Kristina delivers a punchy one-word reaction built around the Russian word meaning 'quit'.
-- 'What difference does it make?' Russian omits the present-tense verb 'to be' here, linking 'what' directly with 'difference', combining 'what' with 'difference'.
-- 'I propose a deal.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What kind?' Kristina asks this with a single word meaning 'what', using rising intonation to turn it into a quick question.
-- 'I will make sushi.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And you will bring Vika back.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'will get back'.
-- 'This is funny.' Kristina delivers a punchy one-word reaction built around the Russian word meaning 'ridiculous'.
-- 'The customers are waiting.' Chef Barinov puts the word for 'visitors' together with 'are waiting' in a crisp, natural spoken turn of phrase.
-- 'Fine.' A crisp, everyday conversational reply meaning 'good' that you will hear constantly in Russian dialogue.
-- 'I agree.' Kristina delivers a punchy one-word reaction built around the Russian word meaning 'agree'.
-- 'That is excellent.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'perfect'.
-- 'I am starting.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'am starting'.
+- 'You fired her.' Barinov confronts Kristina and reminds her that she was the one who drove Vika away.
+- 'She quit herself.' Kristina stubbornly repeats her story that Vika quit on her own.
+- 'What difference does it make?' Viktor waves that detail aside, asking what difference it makes now.
+- 'I propose a deal.' Seeing an opportunity, the chef offers Kristina a bargain.
+- 'What kind?' Intrigued, Kristina asks what kind of deal he has in mind.
+- 'I will make sushi.' After the sushi chef disaster, Viktor offers to personally make sushi for her.
+- 'And you will bring Vika back.' In exchange, he demands that Kristina bring Vika back as art director.
+- 'This is funny.' Kristina laughs and calls his ultimatum ridiculous.
+- 'The customers are waiting.' Viktor calmly points out that hungry guests in the dining room are waiting for their sushi.
+- 'Fine.' Cornered, Kristina relents and says fine.
+- 'I agree.' She agrees to his terms.
+- 'That is excellent.' Pleased that his bluff worked, Barinov calls that settled.
+- 'I am starting.' Keeping his side of the bargain, the French chef steps up to start rolling sushi.

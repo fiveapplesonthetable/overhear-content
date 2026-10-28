@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, I came here for an important interview.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Who are you and how did you get in here?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I brought my résumé for the head chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What are you even doing in my office?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Another cook said that the chef is already here.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'The real head chef of this restaurant is me!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'That person already hired me for the job.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Who dared hire you without my permission?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I dream of cooking delicious dishes in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Only I command here and no one else.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Please, give me one small chance.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fine, now we will test your real culinary skills.' Conversational word with a future action verb governing an matching form noun phrase.
+- 'Hello, I came here for an important interview.' Max greets the room, announcing his formal purpose while hoping to make a good impression.
+- 'Who are you and how did you get in here?' Barinov explodes with suspicion, demanding immediate answers about the stranger trespassing in his sanctuary.
+- 'I brought my résumé for the head chef.' Holding up his paperwork, the naive candidate tries to legitimize his presence in the back room.
+- 'What are you even doing in my office?' The furious boss zeroes in on the inappropriate location chosen for this impromptu meeting.
+- 'Another cook said that the chef is already here.' Explaining his mistake, the young man blames a colleague for misdirecting him into the trap.
+- 'The real head chef of this restaurant is me!' Asserting his absolute dominance, the veteran cook makes his supreme identity known with forceful pride.
+- 'That person already hired me for the job.' Still confused by the prank, the newcomer claims he has already been granted a position.
+- 'Who dared hire you without my permission?' Outraged by the idea of bypassed authority, the head honcho demands the name of the traitor.
+- 'I dream of cooking delicious dishes in the kitchen.' Max pivots to his passion, sharing his heartfelt desire to create amazing food.
+- 'Only I command here and no one else.' A stern reminder of the hierarchy is delivered to ensure the rookie understands who holds power.
+- 'Please, give me one small chance.' Begging for an opportunity, the underdog pleads for just a moment to demonstrate his worth.
+- 'Fine, now we will test your real culinary skills.' Reluctantly agreeing, the master cook declares that a practical trial will determine the boy's fate.

@@ -37,7 +37,7 @@ WALK = [
     (4, None, "'You know, I cannot tonight.' Victoria politely turns down the invitation for that evening."),
     (5, None, "'I have an important business meeting.' She explains that she already has work plans."),
     (6, None, "'Excuse me, are you Victoria Goncharova, the art director?' A delivery courier interrupts their conversation."),
-    (7, None, "'Yes, that is me.' Victoria confirms her name with a simple two-word phrase."),
+    (7, None, "'Yes, that is me.' Victoria confirms her identity simply."),
     (8, None, "'Then this is for you, sign right here.' The courier presents a massive bouquet and asks for her signature."),
     (9, None, "'How beautiful! Max, hold these, please.' Ironically, Victoria hands the rival's giant bouquet to Max while she signs."),
     (10, None, "'Thank you for the wonderful flowers.' She thanks the courier warmly."),

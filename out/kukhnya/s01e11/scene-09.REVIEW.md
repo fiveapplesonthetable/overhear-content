@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, she and I were too different.' The customer explains the irreconcilable differences in his relationship.
-- 'Why do you think so, my friend?' Here Kostya anchors the line on the word meaning 'why' and builds the thought around 'so' and 'think'.
-- 'She considered me a real coward.' The man reveals the painful label his girlfriend gave him.
-- 'But I did not want to jump with a parachute!' He justifies refusing an extreme sports dare.
-- 'Why stupidly risk one's life at all?' He argues that survival should come before reckless thrills.
-- 'I completely agree with you.' Kostya sides wholeheartedly with sensible caution.
-- 'She dumped me right here yesterday.' The visitor describes where the sudden separation happened.
-- 'What is going on here at the bar?' Chef Barinov approaches and examines the scene.
-- 'Where is the restroom located here, tell me?' The guest politely asks where to find the bathroom.
-- 'The restroom is located immediately to the left of the bar.' Kostya provides concise directions to the guest.
-- 'Friend, you need hot soup right now!' Barinov recognizes the signs of physical exhaustion and hangover.
-- 'I am not at all against tasty soup.' The visitor gratefully accepts the dining suggestion.
-- 'Kostya, urgently order bouillabaisse for our guest!' Barinov prescribes the famous rich seafood stew.
+- 'Kostya, she and I were too different.' The guest is heartbroken and explains that they were just too different. Literally it means we with her were too different.
+- 'Why do you think so, my friend?' Kostya asks for more details. He uses formal language and calls the customer his friend to show support.
+- 'She considered me a real coward.' The heartbroken man explains her opinion. The woman thought he was a coward because of his actions.
+- 'But I did not want to jump with a parachute!' He justifies his fear. He really had no desire to jump out of a plane.
+- 'Why stupidly risk one's life at all?' This feels like a foolish risk to him. He questions the point of skydiving.
+- 'I completely agree with you.' Kostya plays the role of a good bartender. He supports his customer completely.
+- 'She dumped me right here yesterday.' The sad event took place right at this bar the day before. He reveals where the breakup happened.
+- 'What is going on here at the bar?' Barinov walks in and demands to know what is happening. He sounds a bit annoyed by the scene.
+- 'Where is the restroom located here, tell me?' He suddenly changes the subject. The customer urgently needs to find the restroom.
+- 'The restroom is located immediately to the left of the bar.' Kostya gives polite directions. He points out that the restroom is just to the left.
+- 'Friend, you need hot soup right now!' Barinov decides the man needs food. He suggests hot soup to help him feel better.
+- 'I am not at all against tasty soup.' The customer agrees to the food. He would not mind eating something tasty right now.
+- 'Kostya, urgently order bouillabaisse for our guest!' Barinov takes charge of the order. He tells the bartender to urgently get a fancy fish soup for the sad man.

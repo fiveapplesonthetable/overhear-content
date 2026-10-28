@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I brought you the secret order.' Senya uses the action verb meaning 'brought' to focus on the single completed result, pairing it with 'secret' and 'order'.
-- 'Did you check that no one saw you?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'checked', followed by 'saw'.
-- 'In the corridor it was completely empty.' The phrasing opens with 'corridor' before bringing in 'was' and 'completely' to make the point clear.
-- 'Excellent, put this box on the table.' Chef Barinov leads with the direct command form meaning 'put', pairing it with 'excellent' and 'box'.
-- 'The box turned out to be very heavy.' Senya puts the word for 'box' together with 'turned out to be' and 'very' in a crisp, natural spoken turn of phrase.
-- 'The main thing is that the goods are fresh.' Here Chef Barinov anchors the line on the word meaning 'the main thing' and builds the thought around 'goods' and 'was'.
-- 'I chose the very best fresh goods.' Senya uses the action verb meaning 'chose' to focus on the single completed result, pairing it with 'best' and 'fresh'.
-- 'Our restaurant cannot wait long.' Chef Barinov expresses this naturally by combining the word for 'restaurant' with 'can' and 'to wait'.
-- 'I completed everything quickly and on time.' Senya uses the action verb meaning 'completed' to focus on the single completed result, pairing it with 'quickly' and 'on time'.
-- 'I hope this secret remains between us.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Of course, chef, I know how to keep silent.' The phrasing opens with 'of course' before bringing in 'know how to' and 'to keep silent' to make the point clear.
-- 'Now we will open and inspect the goods.' Chef Barinov expresses this naturally by combining the word for 'now' with 'will open' and 'will check'.
-- 'You will be very pleased with the purchase.' Senya chooses the action verb meaning 'will be' for the ongoing action, followed by 'very' and 'pleased'.
+- 'Chef, I brought you the secret order.' Meanwhile, Senya slips into the storage room with a heavy box to solve the chef's caviar crisis.
+- 'Did you check that no one saw you?' Looking around nervously, Barinov asks if Senya made sure nobody saw him carry it in.
+- 'In the corridor it was completely empty.' Senya reassures him that the hallway was completely empty.
+- 'Excellent, put this box on the table.' Relieved, Viktor tells him to set the box down on the table.
+- 'The box turned out to be very heavy.' With a deep sigh, Senya remarks that the five-kilo crate was really heavy.
+- 'The main thing is that the goods are fresh.' Viktor says the only thing that matters is whether the roe inside is fresh.
+- 'I chose the very best fresh goods.' Senya boasts that he picked out the freshest batch on the market.
+- 'Our restaurant cannot wait long.' With VIP guests already seated, Viktor notes that the kitchen cannot afford to wait.
+- 'I completed everything quickly and on time.' Senya proudly points out that he pulled off the errand right on time.
+- 'I hope this secret remains between us.' Barinov reminds him that this little substitution must stay strictly between the two of them.
+- 'Of course, chef, I know how to keep silent.' Senya taps his lips and promises he knows how to keep a secret.
+- 'Now we will open and inspect the goods.' Viktor leans over to open the lid and inspect what Senya bought.
+- 'You will be very pleased with the purchase.' Senya grins and promises the chef will be thrilled with the bargain.

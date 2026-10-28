@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Привет. | Hi. | new | new |
-| 2 | Вика | Привет, Вика. | Hi, Vika. | new | new |
+| 2 | Макс | Привет, Вика. | Hi, Vika. | new | new |
 | 3 | Макс | Вот твоя вещь. | Here is your thing. | new | new |
 | 4 | Макс | Возьми это. | Take this. | new | new |
 | 5 | Макс | Держи. | Here you go. | #157: Держи | verbatim |
@@ -19,23 +19,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 7 | Вика | Это мне? | Is this for me? | new | new |
 | 8 | Макс | Да, тебе. | Yes, for you. | new | new |
 | 9 | Вика | Очень хорошо. | Very good. | new | new |
-| 10 | Вика | Я рад. | I am glad. | new | new |
+| 10 | Макс | Я рад. | I am glad. | new | new |
 | 11 | Макс | Пожалуйста. | You're welcome. | new | new |
 | 12 | Макс | Я пойду. | I will go. | new | new |
 | 13 | Вика | Пока. | Bye. | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi.' Max delivers a punchy one-word reaction built around the Russian word meaning 'hi'.
-- 'Hi, Vika.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'hi'.
-- 'Here is your thing.' Max delivers a punchy one-word reaction built around the Russian word meaning 'thing'.
-- 'Take this.' Max leads with the direct command form meaning 'take' to make the point directly in conversation.
-- 'Here you go.' Max leads with the direct command form meaning 'here you go' to make the point directly in conversation.
-- 'Thanks.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'thank you'.
-- 'Is this for me?' Vika turns a statement into a question purely through rising intonation on the word meaning 'this', followed by 'to me'.
-- 'Yes, for you.' Russian omits the present-tense verb 'to be' here, linking 'yes' directly with 'for you', combining 'yes' with 'for you'.
-- 'Very good.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'good', combining 'very much' with 'good'.
-- 'I am glad.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'glad'.
-- 'You're welcome.' Max delivers a punchy one-word reaction built around the Russian word meaning 'please'.
-- 'I will go.' Max delivers a punchy one-word reaction built around the Russian word meaning 'go'.
-- 'Bye.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'bye'.
+- 'Hi.' Max catches up with Vika and greets her.
+- 'Hi, Vika.' The greeting is returned as they pause for a brief handoff.
+- 'Here is your thing.' Max holds out an item she left behind.
+- 'Take this.' He tells her to go ahead and take it.
+- 'Here you go.' Handing it over, he uses the everyday Russian word for 'here you go'.
+- 'Thanks.' Vika takes the item and thanks him.
+- 'Is this for me?' Surprised, she double-checks whether it is really meant for her.
+- 'Yes, for you.' Max confirms that yes, it is for her.
+- 'Very good.' Vika nods that that is very good.
+- 'I am glad.' She adds a quick word of appreciation.
+- 'You're welcome.' Max replies with a polite 'you are welcome'.
+- 'I will go.' Not wanting to linger awkwardly, Max says he will head off now.
+- 'Bye.' Vika says a brief goodbye as they part ways.

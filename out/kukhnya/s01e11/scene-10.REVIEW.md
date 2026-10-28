@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how is she behaving?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She is simply dining in our dining room.' A descriptive present tense statement about the customer's activity for the staff.
-- 'Is she a restaurant critic or not?' A direct alternative question expressing acute uncertainty about the visitor's true identity.
-- 'We need to urgently find out the whole truth.' An impersonal modal phrase indicating pressing necessity for the restaurant team. Now, let's hear Victoria and Chef Barinov discuss the guest once more. Now let's listen to the whole conversation again from start to finish.
+- 'Well, how is she behaving?' Vika wants to know about the woman. She is curious if the guest is acting like a normal customer.
+- 'She is simply dining in our dining room.' Barinov replies that the woman is just eating. There is nothing suspicious about her behavior in the hall.
+- 'Is she a restaurant critic or not?' He really needs to know if this woman will write a review about them. This is the main question on his mind.
+- 'We need to urgently find out the whole truth.' This situation makes him stressed. He insists that they figure out the truth immediately.

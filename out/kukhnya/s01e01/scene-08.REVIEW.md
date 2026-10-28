@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chop the onion finer, this is a restaurant!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Alright, Chef, I try to cut thinner.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Now tenderize the fresh meat properly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I already prepared a special wooden mallet.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The meat must become tender and juicy.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'How much time does each piece need tenderizing?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do not ask stupid questions, work faster!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I do everything exactly according to your order.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Keep watch over the order on your work table.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I always have complete cleanliness here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Now the pieces are cut beautifully and neatly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thank you, Chef, I am preparing the next batch!' Courtesy formula with first-person present verb and matching form noun phrase.
+- 'Chop the onion finer, this is a restaurant!' Barinov harshly critiques the size of the cuts, demanding absolute perfection.
+- 'Alright, Chef, I try to cut thinner.' Max nervously agrees to slice the vegetables even thinner.
+- 'Now tenderize the fresh meat properly.' The head cook moves on to the next task, ordering him to pound the protein.
+- 'I already prepared a special wooden mallet.' Max eagerly shows off the specific tool he has ready for the job.
+- 'The meat must become tender and juicy.' Barinov sets the standard for the final texture of the dish.
+- 'How much time does each piece need tenderizing?' The young cook asks for precise timing instructions to avoid another mistake.
+- 'Do not ask stupid questions, work faster!' The boss shuts down the inquiry and demands faster execution instead of talking.
+- 'I do everything exactly according to your order.' Max promises to follow every single command to the letter.
+- 'Keep watch over the order on your work table.' Barinov snaps at him to maintain a pristine station while working.
+- 'I always have complete cleanliness here.' The rookie defensively claims his area is already spotless.
+- 'Now the pieces are cut beautifully and neatly.' The head cook finally acknowledges that the prep work looks acceptable.
+- 'Thank you, Chef, I am preparing the next batch!' Max expresses relief and quickly moves on to the next set of ingredients.

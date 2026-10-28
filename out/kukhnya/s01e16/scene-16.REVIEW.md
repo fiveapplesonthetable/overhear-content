@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did you get that?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'got'.
-- 'Another illegal.' Russian omits the present-tense verb 'to be', connecting 'more' directly with 'illegal immigrant'.
-- 'Lord, where to put you?' Chef Viktor uses the polite everyday 'you' alongside 'to put', keeping a formal or respectful register.
-- 'You will sit in the toilet.' Chef Barinov leads with the direct command form meaning 'to sit out', followed by 'the toilet'.
-- 'Then leave through the entrance.' Chef Barinov puts the word for 'then' together with 'to leave' and 'entrance' in a crisp, natural spoken turn of phrase.
-- 'They are on guard at the entrance.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He will sit in the hall.' Chef Barinov uses the action verb meaning 'to sit down' to focus on the single completed result, pairing it with 'the hall'.
-- 'Go to the bar, take clothes.' Chef Barinov leads with the direct command form meaning 'go', pairing it with 'bar' and 'take'.
-- 'Endure, come on.' Chef Barinov leads with the direct command form meaning 'bear', followed by 'let's'.
-- 'I congratulate you.' the inspector delivers a punchy conversational reaction built around the Russian word meaning 'congratulations'.
-- 'Everything is clean with you.' the inspector uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', followed by 'clean'.
-- 'I told you right away.' Chef Viktor uses the polite everyday 'you' here alongside 'I', keeping a formal or respectful tone.
-- 'I have no right to believe.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We are professionals.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'professionals'.
+- 'Where did you get that?' Barinov questions the source of the surprising information, demanding to know the origin of the claim.
+- 'Another illegal.' Max drops a bombshell, revealing the presence of a second undocumented person in the restaurant.
+- 'Lord, where to put you?' Expressing extreme exasperation, the chef complains to the heavens about having to hide so many people.
+- 'You will sit in the toilet.' Barinov issues a direct command, assigning a rather undignified hiding spot to the newcomer.
+- 'Then leave through the entrance.' Outlining the escape plan, the boss instructs the person to walk out the front door once the coast is clear.
+- 'They are on guard at the entrance.' Max quickly points out a fatal flaw in the escape plan, noting that the exits are watched.
+- 'He will sit in the hall.' Changing strategies on the fly, the chef decides to hide the person in plain sight among the customers.
+- 'Go to the bar, take clothes.' Barinov barks out a rapid series of orders, telling someone to fetch a disguise.
+- 'Endure, come on.' Urging the person to hold on, the speaker offers rough encouragement to tough out the difficult situation.
+- 'I congratulate you.' The inspector offers formal praise, likely hiding his disappointment at finding nothing.
+- 'Everything is clean with you.' Admitting defeat, the official confirms that the restaurant passed the inspection flawlessly.
+- 'I told you right away.' The chef smugly reminds the officer that he had claimed innocence from the very beginning.
+- 'I have no right to believe.' Defending his actions, the official explains that his job requires him to doubt everyone.
+- 'We are professionals.' Barinov delivers a proud closing statement, attributing their success to their high level of expertise.

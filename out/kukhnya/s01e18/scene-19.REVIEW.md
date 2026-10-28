@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was just doing my job.' The verb for 'were doing' is in the matching past tense, marked by that 'l' sound at the end.
-- 'We are saving on everything.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'save money'.
-- 'We saved on the bartender.' Nagiyev uses the action verb meaning 'to save' to focus on the single completed result, pairing it with 'bartender'.
-- 'You cannot fire me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are fired, idiot.' Dmitry uses the informal everyday 'you' here with 'blockhead', as friends and close colleagues do.
-- 'An idiot, huh?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'blockhead' to make the point directly in conversation.
-- 'This is very unfair.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'unfairly', combining 'very much' with 'unfairly'.
-- 'The restaurant is in a difficult situation.' Russian omits the present-tense verb 'to be' here, linking 'restaurant' directly with 'difficult', combining 'restaurant' with 'difficult' and 'position'.
-- 'Who will pour drinks?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This is no longer your problem.' Russian omits the present-tense verb 'to be' here, linking 'more' directly with 'problem', combining 'more' with 'problem'.
-- 'Fine, I will leave today.' The phrasing opens with 'good' before bringing in 'will leave' and 'today' to make the point clear.
-- 'That is excellent.' Nagiyev delivers a punchy one-word reaction built around the Russian word meaning 'perfect'.
+- 'I was just doing my job.' Kostya tries to defend himself, arguing that he was merely performing his regular duties.
+- 'We are saving on everything.' Nagiyev bluntly explains that the entire place is cutting costs right now.
+- 'We saved on the bartender.' He ruthlessly announces that the bar is the latest place they are trimming the fat.
+- 'You cannot fire me.' Kostya can hardly believe it, claiming the boss has no right to do this.
+- 'You are fired, idiot.' Nagiyev insults him and confirms the termination without any sympathy.
+- 'An idiot, huh?' Kostya is taken aback by the harsh name-calling.
+- 'This is very unfair.' He protests the decision, feeling completely wronged by the sudden move.
+- 'The restaurant is in a difficult situation.' Nagiyev justifies the cuts by pointing out the dire financial state of the business.
+- 'Who will pour drinks?' Kostya tries to appeal to logic, asking who will handle the bar if he leaves.
+- 'This is no longer your problem.' Nagiyev coldly brushes off the concern, stating it does not concern the bartender anymore.
+- 'Fine, I will leave today.' Kostya finally accepts his fate, agreeing to pack up and leave.
+- 'That is excellent.' Nagiyev sounds entirely satisfied with that quick resolution.

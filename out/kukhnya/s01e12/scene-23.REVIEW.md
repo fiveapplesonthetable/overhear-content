@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, the dining hall is full of people again.' Kostya looks out at the packed tables cheerfully.
-- 'Yes, our evening ended very successfully.' Max takes in the vibrant atmosphere with relief.
-- 'Still, changes always happen unexpectedly.' He begins his philosophical reflection on life.
-- 'You are right, life constantly changes around us.' Kostya expresses this naturally by combining the word for 'right' with 'life' and 'constantly'.
-- 'Sometimes we get something completely different.' Max recalls how their plans took unexpected turns.
-- 'We get not what we wanted before.' He considers how destiny rearranges our desires.
-- 'But often everything turns out even better.' Kostya finds a silver lining in every surprise.
-- 'Sometimes we realize that we were right.' Max affirms the quiet instincts that guide us.
-- 'And our old friends remain by our side.' Kostya celebrates the bonds that endure through chaos.
-- 'And sometimes we arrive back at the starting point.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The main thing is not to lose faith and hope.' Kostya looks forward to tomorrow with steady confidence.
-- 'The main thing is to believe in all changes.' Max summarizes the wisdom of embracing the unknown.
-- 'All changes in life lead to the better!' He closes the night with bright and unwavering optimism.
+- 'Max, the dining hall is full of people again.' Kostya tells Max that the dining room is packed.
+- 'Yes, our evening ended very successfully.' Max agrees that the night turned out to be a big success.
+- 'Still, changes always happen unexpectedly.' Max reflects on how changes tend to happen when you least expect them.
+- 'You are right, life constantly changes around us.' Kostya agrees that life is always changing.
+- 'Sometimes we get something completely different.' Max says that sometimes people get completely different things than they expected.
+- 'We get not what we wanted before.' Max explains that we do not always get what we initially wanted.
+- 'But often everything turns out even better.' Kostya adds a positive thought, saying things often work out for the best.
+- 'Sometimes we realize that we were right.' Max notes that sometimes you find out you were right all along.
+- 'And our old friends remain by our side.' Kostya smiles about having good old friends stick around.
+- 'And sometimes we arrive back at the starting point.' Max reflects that sometimes people end up exactly where they started.
+- 'The main thing is not to lose faith and hope.' Kostya says the most important thing is to keep hoping.
+- 'The main thing is to believe in all changes.' Max adds that it is crucial to trust in the changes happening.
+- 'All changes in life lead to the better!' Max concludes happily that all changes eventually lead to something better.

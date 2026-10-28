@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It turned out somewhat awkward, Kostya.' Max acknowledges the uncomfortable situation with an adverbial phrase.
-- 'You almost broke my nose!' An emphatic statement with the adverb meaning nearly or almost.
-- 'Old buddy, forgive me, please!' An informal friendly address followed by an apology.
-- 'What good is your simple apology to me?' Kostya points out that words alone do not fix a bruised nose.
-- 'Now you owe me big time.' The noun phrase literally indicates a substantial debt.
-- 'What can I do for you?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Make me some fresh orange juice.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'My head is spinning very much.' A common Russian physical idiom for feeling dizzy.
-- 'I will do everything quickly right now.' Max puts the word for 'right now' together with 'quickly' and 'will do' in a crisp, natural spoken turn of phrase.
-- 'It is very loud in the kitchen right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Is the chef shouting at the cooks again?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He is still looking for the knife.' Max expresses this naturally by combining the word for 'times' with 'is looking for' and 'knife'.
-- 'Then it is better for us to be quieter.' Comparative adverbs advise staying under the radar.
-- 'Here is your juice, my friend.' Max hands over the glass with the familiar command form. Alright, let's hear the whole thing once more.
+- 'It turned out somewhat awkward, Kostya.' Max awkwardly admits that his impulsive action created a really terrible situation.
+- 'You almost broke my nose!' Kostya angrily points out that the reckless punch nearly caused a serious facial fracture.
+- 'Old buddy, forgive me, please!' Max pleads for forgiveness using a warm, informal nickname to soothe his injured buddy.
+- 'What good is your simple apology to me?' Kostya sharply dismisses the hollow apology, making it clear that mere words aren't enough.
+- 'Now you owe me big time.' Kostya informs his friend that he will have to work hard to make up for the painful assault.
+- 'What can I do for you?' Max eagerly offers to perform any task necessary to get back in his friend's good graces.
+- 'Make me some fresh orange juice.' Kostya orders a healthy beverage to help him recover from the stunning blow to the face.
+- 'My head is spinning very much.' Kostya complains about severe dizziness resulting from the unexpected strike.
+- 'I will do everything quickly right now.' Max jumps to action, promising to prepare the restorative drink as swiftly as possible.
+- 'It is very loud in the kitchen right now.' Max notes the chaotic noise coming from the back of the house to distract from the tension.
+- 'Is the chef shouting at the cooks again?' Kostya correctly guesses that the booming sounds are just the head chef berating his staff again.
+- 'He is still looking for the knife.' Max reveals that the boss is still tearing the place apart searching for his beloved tool.
+- 'Then it is better for us to be quieter.' Kostya wisely suggests that they keep a low profile to avoid drawing the angry boss's attention.
+- 'Here is your juice, my friend.' Max hands over the freshly squeezed remedy while trying to reestablish their close bond.

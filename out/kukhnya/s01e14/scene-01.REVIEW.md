@@ -16,7 +16,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 4 | Вика | У меня сегодня очень много дел. | I have a lot of things today. | new | new |
 | 5 | Макс | А как же наш вкусный завтрак? | And what about our tasty breakfast? | new | new |
 | 6 | Вика | Ты можешь приготовить его сам. | You can prepare it yourself. | new | new |
-| 7 | Макс | И Макс, я озабоченный человек-паук. | And Max, I am a horny Spider-Man. | #1: И Макс, я озабоченный человек-паук. | verbatim |
+| 7 | Вика | И Макс, я озабоченный человек-паук. | And Max, I am a horny Spider-Man. | #1: И Макс, я озабоченный человек-паук. | verbatim |
 | 8 | Вика | Очень смешно, но мне надо идти. | Very funny, but I need to go. | new | new |
 | 9 | Макс | Сейчас я тебя. Какой я тебя? | I will get you now. What am I getting you? | #2: Сейчас я тебя. Какой я тебя? | verbatim |
 | 10 | Вика | Макс, прекрати это немедленно! | Max, stop this immediately! | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, are you awake already today?' Max turns a statement into a question purely through rising intonation on the word meaning 'already', pairing it with 'wake up' and 'today'.
-- 'Yes, I have not been sleeping for a long time.' Here Vika anchors the line on the word meaning 'already' and builds the thought around 'for a long time' and 'sleep'.
-- 'Why did you get up so early?' The phrasing opens with 'why' before bringing in 'early' and 'get up!' to make the point clear.
-- 'I have a lot of things today.' Vika uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'today' and 'very much'.
-- 'And what about our tasty breakfast?' Russian omits the present-tense verb 'to be' here, linking 'how' directly with 'delicious', combining 'how' with 'delicious' and 'breakfast'.
-- 'You can prepare it yourself.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And Max, I am a horny Spider-Man.' Max delivers a punchy conversational reaction built around the Russian word meaning 'preoccupied'.
-- 'Very funny, but I need to go.' Vika expresses this naturally by combining the word for 'very much' with 'ridiculous' and 'it is necessary'.
-- 'I will get you now. What am I getting you?' Max delivers a punchy one-word reaction built around the Russian word meaning 'now'.
-- 'Max, stop this immediately!' Vika leads with the direct command form meaning 'stop it', followed by 'immediately'.
-- 'Alright, I am going to brew coffee for us.' The phrasing opens with 'good' before bringing in 'going' and 'to boil' to make the point clear.
-- 'Before you go take a shower.' Vika expresses this naturally by combining the word for 'bye' with 'to go' and 'shower'.
+- 'Vika, are you awake already today?' Max asks Vika playfully if she is up. He tries to start the morning with a joke.
+- 'Yes, I have not been sleeping for a long time.' Vika shuts him down quickly. She informs him she has been awake for a while.
+- 'Why did you get up so early?' Max wonders why she is up so early. He still wants to relax in bed.
+- 'I have a lot of things today.' Vika explains she is very busy today. She does not have time for games.
+- 'And what about our tasty breakfast?' Max tries to tempt her with breakfast. He hopes food will change her mind.
+- 'You can prepare it yourself.' Vika tells him to make it himself. She is completely focused on getting ready.
+- 'And Max, I am a horny Spider-Man.' Vika makes a silly joke about being spider-man. He is trying his best to charm her.
+- 'Very funny, but I need to go.' Vika is not amused. She calls it funny but insists she has to leave.
+- 'I will get you now. What am I getting you?' Max playfully threatens to grab her. He pretends to be a monster.
+- 'Max, stop this immediately!' Vika commands him to stop. She tells him to quit playing around right now.
+- 'Alright, I am going to brew coffee for us.' Max finally gives up. He agrees to go make coffee for them both.
+- 'Before you go take a shower.' Vika gives him a strict condition. She tells him to take a shower first.

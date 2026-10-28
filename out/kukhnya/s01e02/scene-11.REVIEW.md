@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How can I be of service?' Viktor asks courteously as he approaches Elena's table.
+- 'How can I be of service?' Barinov asks courteously as he approaches Elena's table.
 - 'You know, I liked it very much.' Elena admits graciously, praising the improvised meal.
-- 'Partridge was left over, and it was a shame to throw it out.' The phrasing opens with 'partridge' before bringing in 'remained' and 'to throw out' to make the point clear.
-- 'Your chef's special took far too long to prepare.' Elena remarks pointedly before leaving. Now listen to the full dining room dialogue once more. Now let's listen to the whole conversation again from start to finish.
+- 'Partridge was left over, and it was a shame to throw it out.' Barinov explains that the partridge was left over and it was a shame to throw it out.
+- 'Your chef's special took far too long to prepare.' Elena remarks pointedly that the dish took far too long to prepare before leaving.

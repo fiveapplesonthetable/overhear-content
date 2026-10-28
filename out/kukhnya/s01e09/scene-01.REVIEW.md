@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I have big problems.' Louis uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'chef' and 'big'.
-- 'What happened in the kitchen again?' Here Chef Barinov anchors the line on the word meaning 'again' and builds the thought around 'happened' and 'kitchen'.
-- 'I urgently need a good assistant.' Russian omits the present-tense verb 'to be' here, linking 'urgently' directly with 'needed', pairing it with 'good' and 'assistant'.
-- 'Why are you not working alone?' Chef Barinov expresses this naturally by combining the word for 'why' with 'work' and 'alone'.
-- 'I alone will not manage today.' Louis puts the word for 'alone' together with 'today' and 'will manage' in a crisp, natural spoken turn of phrase.
-- 'Do you have too much work?' Chef Barinov uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'too' and 'much'.
-- 'A very big banquet order arrived.' Louis uses the action verb meaning 'arrived' to focus on the single completed result, pairing it with 'very' and 'big'.
-- 'What exactly needs to be prepared?' Chef Barinov expresses this naturally by combining the word for 'exactly' with 'necessary' and 'to prepare'.
-- 'Fresh croissants and a big cake.' Russian omits the present-tense verb 'to be' here, linking 'fresh' directly with 'croissants', pairing it with 'big' and 'cake'.
-- 'Max will work with you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But he does not know how to do anything.' Louis delivers a punchy conversational reaction built around the Russian word meaning 'knows how'.
-- 'He will peel and cut.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fine, let him wash the dishes.' Louis puts the word for 'fine' together with 'washes' and 'dishes' in a crisp, natural spoken turn of phrase.
+- 'Chef, I have big problems.' Overwhelmed at the pastry station, Louis runs to the chef and says he is in big trouble.
+- 'What happened in the kitchen again?' Barinov sighs and asks what crisis has hit his kitchen this time.
+- 'I urgently need a good assistant.' Louis insists that he urgently needs a capable assistant today.
+- 'Why are you not working alone?' Viktor asks why the pastry chef cannot handle his section on his own as usual.
+- 'I alone will not manage today.' Louis explains that there is simply too much baking for one person today.
+- 'Do you have too much work?' Barinov asks if the workload has really piled up that high.
+- 'A very big banquet order arrived.' Louis points to a massive banquet order that just came in.
+- 'What exactly needs to be prepared?' Viktor asks what items the banquet menu requires from the pastry station.
+- 'Fresh croissants and a big cake.' Louis lists fresh croissants along with an enormous celebration cake.
+- 'Max will work with you.' To get Louis off his back, Barinov assigns rookie cook Max to help him.
+- 'But he does not know how to do anything.' Louis protests that Max has no idea how to bake fine French pastries.
+- 'He will peel and cut.' Viktor shrugs and says Max can peel fruit and chop ingredients.
+- 'Fine, let him wash the dishes.' Giving in, Louis decides he will at least put Max on dishwashing duty.

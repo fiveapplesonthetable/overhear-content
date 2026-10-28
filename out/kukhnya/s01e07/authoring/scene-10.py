@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.07'
 SOURCE_FILE = 'sources/kukhnya/s01/e07.ru.dual.srt'
 INTRO = "Chef Viktor Barinov personally brings his latest culinary creation to the VIP table of restaurant owner Dmitry Nagiyev. Confident in his culinary genius, the chef boasts about the exquisite flavor while Dmitry prepares to judge the dish. Let's listen to their conversation in Russian first."
 OPENER = "Let's explore how Chef Barinov presents his signature sauce to the restaurant owner."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
 CLOSING = ('nagiyev', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('barinov', 'Приятного аппетита, дорогой хозяин!', 'Bon appetit, my dear owner!', [], ''),
 ]
 WALK = [
-    (0, None, "'Dmitry, right now you will taste a masterpiece!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (2, None, "'This is a real culinary work of art!' The expressive noun phrase uses everyday and descriptive adjectives with a matching form noun complement."),
-    (3, None, "'I cannot wait to taste your sauce.' An impersonal construction with a self-directed form the matching word ending expresses keen anticipation."),
-    (10, None, "'First try the sauce with bread.' The chef gives guidance with an command form and matching form showing accompaniment. Now, let's listen to Chef Barinov presenting the sauce to Dmitry once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Dmitry, right now you will taste a masterpiece!' Barinov boasts confidently about his dish. He calls Dmitry by his first name, showing their close relationship."),
+    (1, None, '\'This is a real culinary work of art!\' He is incredibly proud of the sauce. The Russian phrase for "work of art" literally means a piece of production.'),
+    (2, None, '\'I cannot wait to taste your sauce.\' Nagiyev is eager to try it. He says literally "to me it does not endure", which is a common way to say you cannot wait.'),
+    (3, None, "'First try the sauce with bread.' Barinov tells him exactly how to eat it. The chef wants Dmitry to appreciate the pure flavor before anything else."),
 ]

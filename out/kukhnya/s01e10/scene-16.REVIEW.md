@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not look at me like that.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Now money is more important than any silly principles.' The comparative adjective phrase highlights a cynical prioritization of immediate financial gain.
-- 'Why are the dishes being prepared so slowly?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Unhappy guests are already leaving the restaurant!' An alarming present tense statement describing customer dissatisfaction and departure for the staff. Now, let's hear the heated office dispute once more. Now let's listen to the whole conversation again from start to finish.
+- 'Do not look at me like that.' Barinov tells her not to judge him.
+- 'Now money is more important than any silly principles.' Barinov abandons his loyalties for money.
+- 'Why are the dishes being prepared so slowly?' Vika complains about the kitchen speed.
+- 'Unhappy guests are already leaving the restaurant!' Vika warns that customers are leaving.

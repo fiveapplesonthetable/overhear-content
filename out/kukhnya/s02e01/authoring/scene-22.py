@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = "Max confidently walks into the restaurant's main dining area during his shift. He immediately spots Vika talking with their new strict boss near the bar. Max completely fails to understand the gravity of the situation and speaks out loud without thinking."
 OPENER = "Now let's go back through the exchange around A Successful Plan line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max quickly realizes he has said something wrong at a very bad moment. Next time you watch the episode, listen for the Russian expressions for 'to go' and 'from here' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('max', 'Я пойду на кухню.', 'I will go to the kitchen.', [], ''),
 ]
 WALK = [
-    (4, None, "'Vik,' Max delivers a punchy one-word reaction built around the Russian word meaning 'Vika'."),
-    (5, None, "'Looks like your plan worked.' Here Max anchors the line on the word meaning 'apparently' and builds the thought around 'worked' and 'plan'."),
-    (6, None, "'Shut up, please.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'to fall silent'."),
-    (10, None, "'This is our new owner.' Russian omits the present-tense verb 'to be' here, linking 'new' directly with 'owner', combining 'new' with 'owner'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Vik,' Walking into the hall, Max calls out casually to Vika."),
+    (1, None, "'Looks like your plan worked.' Still dizzy from his stunt, he blurts out that the plan actually worked."),
+    (2, None, "'Shut up, please.' Standing beside the new boss, Vika hisses at Max to shut up."),
+    (3, None, "'This is our new owner.' She quickly reminds him that the man next to her is their new owner."),
 ]

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Please talk to dad.' Max leads with the direct command form meaning 'talk', followed by 'dad'.
-- 'I will try.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'to try'.
-- 'And what is this?' Russian omits the present-tense verb 'to be' here, linking 'and' directly with 'what', combining 'and' with 'what' and 'this'.
-- 'This is my dessert.' the speaker delivers a punchy conversational reaction built around the Russian word meaning 'dessert'.
-- 'Just like the Chef's.' Russian omits the present-tense verb 'to be' here, linking 'right' directly with 'how', combining 'right' with 'how' and 'chef'.
-- 'Thank you very much.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'big', combining 'thank you' with 'big'.
-- 'Can I taste it?' Max turns a statement into a question purely through rising intonation on the word meaning 'may', followed by 'to taste'.
-- 'Of course, take it.' The character uses a direct command command form of the verb meaning 'take'.
-- 'This is very tasty.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'it's tasty', combining 'very much' with 'it's tasty'.
-- 'Yes, I like it too.' Here Nastya anchors the line on the word meaning 'too' and builds the thought around 'is pleasing'.
-- 'I studied this for a long time.' The phrasing opens with 'for a long time' before bringing in 'studied' to make the point clear.
-- 'Well done, Valya.' Max delivers a punchy one-word reaction built around the Russian word meaning 'well done'.
-- 'The Chef will be happy.' Nastya chooses the action verb meaning 'will be' for the ongoing action, followed by 'glad'.
+- 'Please talk to dad.' Still worried about Nastya's father, Max begs her again to clear things up with her dad.
+- 'I will try.' Nastya promises she will try to talk to him when the time is right.
+- 'And what is this?' Changing the subject, Max spots an elaborate dish on the counter and asks what it is.
+- 'This is my dessert.' The kitchen helper proudly explains that it is his own dessert creation.
+- 'Just like the Chef's.' Max is amazed and says it looks just like something Chef Barinov would plate.
+- 'Thank you very much.' Beaming with pride, Valya thanks him warmly for the praise.
+- 'Can I taste it?' Curious to see if it tastes as good as it looks, Max asks if he can try a bite.
+- 'Of course, take it.' Valya gladly invites him to go ahead and taste it.
+- 'This is very tasty.' After one bite, Max declares the dessert genuinely delicious.
+- 'Yes, I like it too.' Tasting it too, Nastya agrees that she really likes it.
+- 'I studied this for a long time.' Valya explains that he practiced for a long time to master the recipe.
+- 'Well done, Valya.' Max pats him on the back and tells him he did a great job.
+- 'The Chef will be happy.' Nastya adds that the head chef will be thrilled when he sees it.

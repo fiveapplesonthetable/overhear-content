@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not worry so much.' Max leads with the direct command form meaning 'worry', followed by 'strongly'.
-- 'I will quickly catch a car right now.' Here Max anchors the line on the word meaning 'now' and builds the thought around 'quickly' and 'to catch'.
+- 'Do not worry so much.' Stepping outside after work, Max tells Sasha not to fuss over how he will get home.
+- 'I will quickly catch a car right now.' He says he can easily hail a cab on the street right now.
 - 'I will drive you home myself.' Sasha insists on giving him a ride in her car.
-- 'Sasha, is everything alright with you?' Max uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have' around the word meaning 'fine'.
-- 'Yes, everything is fine with me.' Sasha uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have' around the word meaning 'good'.
+- 'Sasha, is everything alright with you?' Noticing Sasha seems quiet, Max asks if everything is alright with her.
+- 'Yes, everything is fine with me.' Sasha insists that everything is fine.
 - 'Why are you so sad all evening?' Max wonders why she has been quiet all shift.
 - 'Well here you go starting again!' Sasha is frustrated that he keeps bringing up their relationship.
 - 'After all, we already talked this morning.' They agreed earlier not to complicate things between them.
-- 'I just wanted to ask you.' Max puts the word for 'just' together with 'wanted' and 'to ask' in a crisp, natural spoken turn of phrase.
-- 'You and I are just good friends.' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'good', combining 'just' with 'good' and 'friends'.
-- 'Fine, I understood you very well.' The phrasing opens with 'perfectly' before bringing in 'understood?' to make the point clear.
-- 'Then get into the car quickly.' Sasha leads with the direct command form meaning 'sit down', pairing it with 'back then' and 'quickly'.
-- 'Thank you for driving me home.' Max appreciates the ride home.
+- 'I just wanted to ask you.' When Sasha snaps at him for asking, Max says he only meant to check on her.
+- 'You and I are just good friends.' Trying to keep her guard up, Sasha insists that the two of them are just good friends.
+- 'Fine, I understood you very well.' Max backs off and says he understands her point.
+- 'Then get into the car quickly.' Dropping the argument, Sasha tells him to hop into her car quickly.
+- 'Thank you for driving me home.' Max appreciates the ride home. Now listen to the conversation between Max and Sasha again.

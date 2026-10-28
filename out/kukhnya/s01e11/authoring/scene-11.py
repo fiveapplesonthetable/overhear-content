@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.11'
 SOURCE_FILE = 'sources/kukhnya/s01/e11.ru.dual.srt'
 INTRO = "Noticing an unfamiliar man sitting quietly at a corner table with a notebook, Victoria becomes increasingly suspicious. She quickly calls over waitress Sasha to investigate who the silent visitor is and which server is assigned to his table. Let's listen to their urgent hallway exchange in Russian."
 OPENER = "Let's examine how Victoria questions Sasha about the quiet man taking notes in the dining area."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('vika', 'Да, позови её прямо сейчас.', 'Yes, call her right now.', [], ''),
 ]
 WALK = [
-    (2, None, "'Who is sitting at the fifth table?' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'I do not know, this is Nastya's guest.' A disclaimer of knowledge followed by a statement of table responsibility for the staff."),
-    (9, None, "'He is constantly writing in his notebook.' A continuous descriptive sentence detailing suspicious note-taking activity by the visitor."),
-    (10, None, "'This looks very much like an inspection.' An apprehensive assessment comparing a patron's behavior to an official audit. Now, let's hear Victoria question Sasha about the mystery guest once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Who is sitting at the fifth table?' Vika notices someone new. She wants to know the identity of the person at table five."),
+    (1, None, "'I do not know, this is Nastya's guest.' Sasha has no idea who the man is. He points out that the other waitress is serving that table."),
+    (2, None, "'He is constantly writing in his notebook.' He shares an observation. The man keeps writing things down in a little book."),
+    (3, None, "'This looks very much like an inspection.' Vika gets suspicious right away. To her, taking notes looks exactly like what a critic would do."),
 ]

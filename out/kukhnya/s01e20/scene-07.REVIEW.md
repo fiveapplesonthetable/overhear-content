@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you serious right now?' Kostya uses the informal everyday 'you' here with 'seriously', as friends and close colleagues do.
-- 'Yes, I am completely serious.' Russian omits the present-tense verb 'to be' here, linking 'completely' directly with 'serious', combining 'completely' with 'serious'.
-- 'I did not expect this.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'expected'.
-- 'You should have expected it.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yesterday everything was so good.' Kostya puts the word for 'yesterday' together with 'was' and 'good' in a crisp, natural spoken turn of phrase.
-- 'Yesterday is in the past.' Here Nastya anchors the line on the word meaning 'yesterday' and builds the thought around 'was left' and 'last'.
-- 'What do you want from me?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I want a serious relationship.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am trying my best.' Kostya puts the word for 'very much' together with 'try' in a crisp, natural spoken turn of phrase.
-- 'It is not enough, Kostya.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'not enough'.
-- 'You are not...' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'more'.
-- 'Not what?' Russian omits the present-tense verb 'to be' here, linking 'not' directly with 'what', combining 'not' with 'what'.
-- 'You are not happy with me?' Kostya uses the informal everyday 'you' here with 'me', as friends and close colleagues do.
+- 'Are you serious right now?' Kostya is in disbelief at what he is hearing.
+- 'Yes, I am completely serious.' Nastya confirms her stance without any doubt.
+- 'I did not expect this.' Kostya admits he was completely blindsided.
+- 'You should have expected it.' Nastya implies he should have seen the signs.
+- 'Yesterday everything was so good.' Kostya reminisces about their recent positive past.
+- 'Yesterday is in the past.' Nastya dismisses the past as irrelevant now.
+- 'What do you want from me?' Kostya asks for clear demands.
+- 'I want a serious relationship.' Nastya bluntly states her ultimate goal.
+- 'I am trying my best.' Kostya defends his current efforts in the relationship.
+- 'It is not enough, Kostya.' Nastya tells him his efforts are falling short.
+- 'You are not...' Kostya trails off, unsure of how to respond.
+- 'Not what?' Nastya prompts him to finish his thought.
+- 'You are not happy with me?' Kostya voices his ultimate fear about her feelings.

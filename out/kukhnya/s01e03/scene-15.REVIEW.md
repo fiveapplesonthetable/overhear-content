@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, come here quickly!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What happened, Nastya?' A direct question asking about the unexpected situation.
-- 'Look, a live goose is sitting in the box!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where did this goose come from?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The chef wanted to prepare a dish out of it.' The past-tense verb explains the culinary fate of the bird.
-- 'Did you decide to save this bird?' The matching past verb asks about her rescue intentions.
-- 'Yes, I cannot abandon him.' The modal verb with negated basic verb form expresses moral duty.
-- 'The chef will be furious if he finds out!' A conditional warning describing Barinov's temper.
-- 'I will hide the goose in a safe place.' The future verb states her plan to protect the animal.
-- 'Just do it very carefully.' Adverbs of degree and manner urge extreme stealth.
-- 'The guests almost found him.' The adverb meaning nearly explains the close call.
-- 'Carry him away from the kitchen right now!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will find a warm corner for him.' Nastya uses the action verb meaning 'will find' to focus on the single completed result, pairing it with 'warm' and 'corner'.
-- 'And return to work quickly!' A practical reminder to resume waitressing duties. Alright, let's hear the whole thing once more.
+- 'Sasha, come here quickly!' Nastya calls for urgent attention.
+- 'What happened, Nastya?' Sasha asks what is wrong.
+- 'Look, a live goose is sitting in the box!' Nastya points out a surprising discovery.
+- 'Where did this goose come from?' Sasha wonders about the bird's origin.
+- 'The chef wanted to prepare a dish out of it.' Nastya explains the intended fate of the animal.
+- 'Did you decide to save this bird?' Sasha questions her intentions.
+- 'Yes, I cannot abandon him.' Nastya confirms her choice to rescue the creature.
+- 'The chef will be furious if he finds out!' Sasha warns of the potential consequences.
+- 'I will hide the goose in a safe place.' Nastya shares her plan for concealment.
+- 'Just do it very carefully.' Sasha advises caution.
+- 'The guests almost found him.' Nastya mentions a close call.
+- 'Carry him away from the kitchen right now!' Sasha urges immediate action.
+- 'I will find a warm corner for him.' Nastya promises to secure a comfortable spot.
+- 'And return to work quickly!' Sasha reminds her of her duties.

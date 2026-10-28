@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you tell the truth right away?' Kostya asks why Max kept his homelessness a secret.
-- 'I was very ashamed to admit it, Kostya.' Max confesses his embarrassment using an impersonal construction.
-- 'Move in with me into a big apartment.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'How many rooms are in your apartment?' Max inquires about the size of the accommodations.
-- 'I have two separate rooms.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Will we pay for the apartment fifty-fifty?' Max checks the financial arrangement with an adverb.
-- 'Yes, each pays exactly half the amount.' Kostya confirms splitting the expenses equally.
-- 'And does Nastya come over to you often?' Max checks for awkward romantic entanglements.
-- 'She does not come, we are not dating.' Kostya clarifies his relationship status with present verbs.
-- 'So there is no serious relationship between you?' Max confirms the absence of romantic tension.
-- 'We are simply good friends and colleagues.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Then I gladly agree to move in!' Max enthusiastically accepts the offer using a short adjective.
-- 'Great, this evening I expect your things.' Kostya looks forward to welcoming his new roommate.
+- 'Why didn't you tell the truth right away?' Kostya cannot understand why his friend hid such a major problem.
+- 'I was very ashamed to admit it, Kostya.' Max admits that his pride kept him from asking for help.
+- 'Move in with me into a big apartment.' An unexpected offer of a place to stay comes from the kind bartender.
+- 'How many rooms are in your apartment?' He cautiously asks about the layout to see if there is enough space.
+- 'I have two separate rooms.' Kostya reassures him that privacy will not be an issue.
+- 'Will we pay for the apartment fifty-fifty?' Max immediately brings up splitting the rent to keep things fair.
+- 'Yes, each pays exactly half the amount.' They quickly agree on a strict fifty-fifty financial split.
+- 'And does Nastya come over to you often?' He delicately checks if Nastya will be around a lot.
+- 'She does not come, we are not dating.' Kostya firmly shoots down any romantic rumors between them.
+- 'So there is no serious relationship between you?' Max wants to be absolutely sure he will not be a third wheel.
+- 'We are simply good friends and colleagues.' The relationship is strictly platonic, which makes things much easier.
+- 'Then I gladly agree to move in!' He jumps at the chance to sleep in a real bed again.
+- 'Great, this evening I expect your things.' Kostya cheerfully anticipates his new roommate's arrival later that day.

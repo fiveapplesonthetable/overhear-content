@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, respected guests of our restaurant.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'day', pairing it with 'respected' and 'visitors'.
-- 'I hope you enjoyed everything today.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Hello, yes, everything was very delicious.' The phrasing opens with 'hello' before bringing in 'was' and 'very much' to make the point clear.
-- 'You have a simply great kitchen here.' Nagiyev uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'here' and 'just'.
-- 'Almost as delicious as at home.' Russian omits the present-tense verb 'to be' here, linking 'almost' directly with 'it's tasty', pairing it with 'how' and 'at home'.
-- 'Do you agree with me, dear friend?' Nagiyev turns a statement into a question purely through rising intonation on the word meaning 'agreed', pairing it with 'dear' and 'friend'.
-- 'Well, overall this food is fine.' Russian omits the present-tense verb 'to be' here, linking 'whole' directly with 'food', followed by 'normal'.
-- 'Thank you for such kind words.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'such', pairing it with 'good' and 'words'.
-- 'We spent a very pleasant day here.' Nagiyev uses the action verb meaning 'conducted' to focus on the single completed result, pairing it with 'here' and 'very much'.
-- 'But our restaurant is still better.' Russian omits the present-tense verb 'to be' here, linking 'restaurant' directly with 'the same', followed by 'better'.
-- 'Come visit us again.' the hostess leads with the direct command form meaning 'come', pairing it with 'visitors' and 'again'.
-- 'We will definitely come here next time.' Nagiyev expresses this naturally by combining the word for 'surely' with 'will come' and 'here'.
-- 'All right, it is time for us to head back.' Chef Barinov puts the word for 'already' together with 'it's time' and 'to drive' in a crisp, natural spoken turn of phrase.
-- 'All the best, until we meet again soon!' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'new', combining 'good' with 'new' and 'ambulance'.
+- 'Good afternoon, respected guests of our restaurant.' The hostess delivers a formal and highly respectful greeting as they prepare to leave.
+- 'I hope you enjoyed everything today.' She follows standard hospitality protocol by asking about their experience.
+- 'Hello, yes, everything was very delicious.' Nagiyev answers politely, offering a positive review of the meal.
+- 'You have a simply great kitchen here.' He lays on the compliments, praising the quality of the food.
+- 'Almost as delicious as at home.' Nagiyev goes as far as comparing the professional cooking to a comforting home meal.
+- 'Do you agree with me, dear friend?' He turns to his companion, prompting him to agree.
+- 'Well, overall this food is fine.' Barinov gives a lukewarm response, refusing to show too much enthusiasm.
+- 'Thank you for such kind words.' The hostess gracefully accepts the praise, focusing on the positive feedback.
+- 'We spent a very pleasant day here.' Nagiyev reiterates how much they enjoyed the visit.
+- 'But our restaurant is still better.' Barinov cannot resist throwing in a competitive jab, asserting his own superiority.
+- 'Come visit us again.' The hostess ignores the slight and delivers a standard invitation to return.
+- 'We will definitely come here next time.' Nagiyev promises a future visit, keeping the tone friendly.
+- 'All right, it is time for us to head back.' Barinov cuts the pleasantries short, signaling that it is time to go.
+- 'All the best, until we meet again soon!' The hostess offers a final, cheerful farewell as they depart.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Rump, bring one truffle here quickly!' The head chef urgently barks an order across the line.
-- 'Table seven ordered a salad with truffles.' Barinov specifies the high-priority luxury dish.
-- 'Chef, I will bring everything quickly now.' Max stalls for time while panicking internally.
-- 'Nastya, stop, I urgently need help!' The desperate cook rushes to intercept the waitress.
-- 'What happened, Max? What is it?' Nastya asks in surprise at his sudden anxiety.
-- 'Tell the guest that the truffles are bad today.' Max leads with the direct command form meaning 'tell', pairing it with 'to the guest' and 'truffles'.
-- 'Let him order any other dish!' A frantic attempt to redirect the customer away from truffles.
-- 'No, I cannot say that.' Nastya firmly refuses to lie to a dining room guest.
-- 'The guest came especially for this salad.' The customer specifically requested the delicacy.
-- 'But I do not have this truffle!' Max confesses his terrifying culinary dilemma.
-- 'He is a very strict and important person.' Nastya emphasizes the high stakes at the table.
-- 'By the way, he asked to give you a note.' Nastya expresses this naturally by combining the word for 'by the way' with 'asked' and 'to give'.
-- 'Oh no, this is a disaster for the kitchen!' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'disaster', combining 'oh' with 'disaster' and 'kitchen'.
-- 'Hurry, the chef is already getting very angry.' Nastya warns him of Barinov's fiery temper. Alright, let's hear the whole thing once more.
+- 'Rump, bring one truffle here quickly!' Screaming across the line, Barinov demands the luxury item for an important ticket.
+- 'Table seven ordered a salad with truffles.' Barinov specifies the dish that absolutely requires the missing ingredients.
+- 'Chef, I will bring everything quickly now.' Lying through his teeth, Max buys time while internally freaking out.
+- 'Nastya, stop, I urgently need help!' Frantically grabbing the waitress, Max tries to plot an escape.
+- 'What happened, Max? What is it?' Startled by his sheer panic, Nastya asks what is wrong.
+- 'Tell the guest that the truffles are bad today.' Desperately begging her to lie, Max wants to deceive the customer about product quality.
+- 'Let him order any other dish!' Max asks her to steer the diner toward literally anything else on the menu.
+- 'No, I cannot say that.' Instantly shutting him down, Nastya refuses to make up unethical excuses for a patron.
+- 'The guest came especially for this salad.' Nastya points out that the diner is specifically here for that exact item.
+- 'But I do not have this truffle!' Cracking under pressure, Max confesses the terrifying truth that the ingredient is gone.
+- 'He is a very strict and important person.' Warning him of the stakes, Nastya says this particular table will not accept excuses.
+- 'By the way, he asked to give you a note.' Casually handing over a note, Nastya delivers a threatening message from the mysterious guest.
+- 'Oh no, this is a disaster for the kitchen!' Realizing he is trapped, Max foresees a massive disaster for the kitchen.
+- 'Hurry, the chef is already getting very angry.' Reminding him of the temper, Nastya notes that Barinov is about to explode.

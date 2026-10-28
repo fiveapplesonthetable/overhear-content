@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.16'
 SOURCE_FILE = 'sources/kukhnya/s01/e16.ru.dual.srt'
 INTRO = "Having seen right through Louis's disguise in the dining room, the migration officer demands to inspect his official work papers. When the French pastry chef admits that his documents are not in order, the inspector firmly escorts him toward Chef Barinov's office. Let's listen to their exchange in Russian."
 OPENER = "Let's see how the migration officer questions Louis and orders him to the office."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
 CLOSING = ('inspector', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('louis', 'Хорошо, пойдёмте в кабинет шефа.', "All right, let's go to the chef's office.", [], ''),
 ]
 WALK = [
-    (0, None, "'Where is your work permit?' A direct question asking for official authorization to work in the country."),
-    (3, None, "'I simply forgot to make new documents.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'I need to talk to your boss.' A firm statement expressing the necessity of speaking with the manager."),
-    (11, None, "'Get up, now come with me.' A polite but authoritative command instructing someone to follow an official. Now, let's hear the confrontation between the inspector and Louis once again. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Where is your work permit?' A direct demand is fired off, asking for official authorization to hold a job in the country."),
+    (1, None, "'I simply forgot to make new documents.' Louis tries to excuse himself by claiming he merely slipped up on renewing his paperwork."),
+    (2, None, "'I need to talk to your boss.' Firm and serious, the migration officer insists on speaking directly with the manager in charge."),
+    (3, None, "'Get up, now come with me.' An authoritative command tells the cook to stand and follow him immediately."),
 ]

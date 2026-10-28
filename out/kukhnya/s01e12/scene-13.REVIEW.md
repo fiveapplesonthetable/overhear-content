@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, why did you ban relationships at work?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Because work requires order and discipline.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Did you make this strange decision because of Sasha?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Stop asking these foolish personal questions.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I just want to understand your real feelings.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have no feelings towards you!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But you will forget this rule yourself!' Max uses the action verb meaning 'will forget' to focus on the single completed result, pairing it with 'rule'.
-- 'I always strictly observe all my rules.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'If you fall in love, will you fire yourself?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Max, go to the kitchen and work quietly.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will go, but you will still remember me.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Go already, the cooks have long been waiting for your help.' Motion command form with word, subject noun, temporal adverb, present verb, and matching form everyday phrase.
+- 'Vika, why did you ban relationships at work?' Max directly asks Vika about her new rule.
+- 'Because work requires order and discipline.' Vika gives a professional excuse about keeping order at work.
+- 'Did you make this strange decision because of Sasha?' Max guesses she made the rule because she is jealous of Sasha.
+- 'Stop asking these foolish personal questions.' Vika tells him to stop asking about her personal reasons.
+- 'I just want to understand your real feelings.' Max says he is just trying to figure out how she really feels.
+- 'I have no feelings towards you!' Vika claims she feels absolutely nothing for him.
+- 'But you will forget this rule yourself!' Max bets that she will break her own rule soon enough.
+- 'I always strictly observe all my rules.' Vika insists that she always follows her own strict rules.
+- 'If you fall in love, will you fire yourself?' Max asks what happens if she falls in love at work.
+- 'Max, go to the kitchen and work quietly.' Vika orders him back to the kitchen and tells him to be quiet.
+- 'I will go, but you will still remember me.' Max agrees to leave but promises she will not forget him.
+- 'Go already, the cooks have long been waiting for your help.' Vika pushes him to go because the kitchen needs his help.

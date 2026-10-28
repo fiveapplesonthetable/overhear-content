@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, you broke my poor heart!' the speaker uses the action verb meaning 'wrecked' to focus on the single completed result, pairing it with 'poor' and 'heart'.
-- 'Wait, let us talk calmly about this.' Max leads with the direct command form meaning 'wait', pairing it with 'let's' and 'calmly'.
-- 'You are simply a terrible and vile deceiver!' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'horrible', pairing it with 'despicable' and 'cheat'.
-- 'I did not want to offend you back then.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You promised to call me every single day.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I had a huge amount of work.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'was' and 'very much'.
-- 'Forget my personal phone number forever!' the speaker leads with the direct command form meaning 'forget', pairing it with 'forever' and 'personal'.
-- 'Do not be angry, please, listen to me now.' Max leads with the direct command form meaning 'be angry', pairing it with 'hear out' and 'now'.
-- 'Forget that I even have a phone at all!' the speaker uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'forget' and 'at all'.
-- 'I am sincerely sorry, forgive me, please.' Max leads with the direct command form meaning 'sorry', pairing it with 'sincerely' and 'it is a pity'.
-- 'I will never believe you anymore.' The phrasing opens with 'more' before bringing in 'never' and 'to believe' to make the point clear.
-- 'Give me one small last chance.' Max leads with the direct command form meaning 'give', pairing it with 'one' and 'short'.
-- 'Leave immediately, I do not want to listen!' the speaker leads with the direct command form meaning 'go away', pairing it with 'immediately' and 'want'.
+- 'Max, you broke my poor heart!' The girl dramatically confronts Max. She accuses him of breaking her poor heart.
+- 'Wait, let us talk calmly about this.' Max tries to defuse the situation. He asks her to calm down and talk.
+- 'You are simply a terrible and vile deceiver!' The girl refuses to listen. She calls him a terrible and vile deceiver.
+- 'I did not want to offend you back then.' Max offers a weak excuse. He claims he never meant to offend her.
+- 'You promised to call me every single day.' The girl points out his broken promises. She reminds him he promised to call every day.
+- 'I had a huge amount of work.' Max blames his busy schedule. He says he had a huge amount of work to do.
+- 'Forget my personal phone number forever!' The girl angrily cuts ties with him. She orders him to forget her phone number forever.
+- 'Do not be angry, please, listen to me now.' Max pleads for a chance to explain. He asks her not to be angry and to just listen.
+- 'Forget that I even have a phone at all!' She escalates her demand. The girl tells him to forget she even has a phone.
+- 'I am sincerely sorry, forgive me, please.' Max offers a desperate apology. He says he is sincerely sorry and begs for forgiveness.
+- 'I will never believe you anymore.' The girl refuses to forgive him. She states she will never believe a word he says again.
+- 'Give me one small last chance.' Max asks for one last opportunity. He begs for just one small last chance.
+- 'Leave immediately, I do not want to listen!' The girl rejects him completely. She orders him to leave immediately and refuses to listen.

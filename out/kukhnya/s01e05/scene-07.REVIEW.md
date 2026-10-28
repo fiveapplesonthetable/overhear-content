@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, why are you crying so bitterly?' Victoria finds the distraught waitress in the back corridor.
+- 'Nastya, why are you crying so bitterly?' Vika finds the distraught waitress crying in the corridor.
 - 'Max treated me very badly.' Nastya reveals her deep disappointment in the new cook.
-- 'What did this guy do again?' Victoria asks for specific details about Max's latest offense.
-- 'He said that we are just friends.' Nastya tearfully recounts how Max downplayed their romance.
-- 'Do not be upset over a foolish cook.' Victoria tries to put the situation into realistic perspective.
+- 'What did this guy do again?' Vika asks for specific details about the latest offense.
+- 'He said that we are just friends.' Nastya tearfully recounts how she was rejected.
+- 'Do not be upset over a foolish cook.' Vika tries to put the situation into realistic perspective.
 - 'I feel very hurt and sad.' Nastya admits how painful the sudden rejection feels.
-- 'Wash your face with cold water and calm down.' Victoria offers practical advice to restore composure.
-- 'Thank you for the support, Victoria Sergeevna.' Nastya expresses gratitude to her restaurant manager.
-- 'Return to the dining hall, the guests are waiting for their order.' Vika leads with the direct command form meaning 'return', pairing it with 'hall' and 'guests'.
+- 'Wash your face with cold water and calm down.' Vika offers practical advice to restore composure.
+- 'Thank you for the support, Victoria Sergeevna.' Nastya expresses gratitude to her manager for the comfort.
+- 'Return to the dining hall, the guests are waiting for their order.' Vika reminds her that the customers need her attention.
 - 'I already dried my tears and am ready.' Nastya gathers herself with quiet determination.
-- 'Good girl, work cures everything!' Victoria encourages her with reassuring confidence.
-- 'You are absolutely right, I am going to work!' Nastya expresses this naturally by combining the word for 'absolutely' with 'right' and 'am going'.
+- 'Good girl, work cures everything!' Vika encourages her with reassuring confidence.
+- 'You are absolutely right, I am going to work!' Nastya agrees and heads back to her duties.

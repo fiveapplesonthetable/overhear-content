@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, did you understand everything about the order?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'understood', followed by 'order'.
-- 'Yes, Chef, I understood everything perfectly!' Here Max anchors the line on the word meaning 'chef' and builds the thought around 'excellently' and 'understood'.
-- 'The soup must be ideal and hot.' Barinov lays down non-negotiable culinary standards.
-- 'I use the best vegetables and cream.' Max highlights the premium quality of his ingredients.
-- 'Our guests do not tolerate foolish mistakes.' The Chef reminds him of the restaurant's reputation.
-- 'I guarantee the flawless taste of this dish.' Max boldly offers a personal guarantee of success.
-- 'Stop chattering away, Lavrov.' Barinov cuts short the any boastful kitchen chatter.
-- 'Well get to work quickly!' The Chef issues an immediate command to begin culinary operations.
-- 'Already starting to cook right now, Chef!' Max puts the word for 'already' together with 'am starting' and 'to cook' in a crisp, natural spoken turn of phrase.
-- 'And watch this stove attentively!' Barinov reinforces the necessity of constant temperature control.
-- 'I will not step away from it anywhere!' Max promises complete devotion to the simmering pot.
-- 'We will see what kind of cook you are in practice.' The Chef leaves him with a demanding challenge.
+- 'Lavrov, did you understand everything about the order?' Barinov questions the new cook to ensure clarity.
+- 'Yes, Chef, I understood everything perfectly!' Eagerly confirming, the cook says he knows exactly what to do.
+- 'The soup must be ideal and hot.' High standards are required for the dish.
+- 'I use the best vegetables and cream.' Mentioning his ingredients, the cook promises top quality.
+- 'Our guests do not tolerate foolish mistakes.' The customers are very demanding.
+- 'I guarantee the flawless taste of this dish.' Perfection is guaranteed for this meal.
+- 'Stop chattering away, Lavrov.' Telling the young cook to quiet down, the chef shows impatience.
+- 'Well get to work quickly!' Orders are given to begin the task immediately.
+- 'Already starting to cook right now, Chef!' Max springs into action and announces his start.
+- 'And watch this stove attentively!' Keeping a close eye on the heat is crucial.
+- 'I will not step away from it anywhere!' Max springs to action and grabs the pan.
+- 'We will see what kind of cook you are in practice.' A challenge is issued to prove actual culinary skills.

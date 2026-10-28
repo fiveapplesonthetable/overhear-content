@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = 'In the restaurant Claude Monet, Chef Barinov has just found and returned Tyson the pet dog. At that exact moment, Victoria arrives holding an identical Shih Tzu puppy she frantically bought to replace him. Listen to their funny conversation in Russian first, then we will break down each line in English.'
 OPENER = "Now let's go back through the exchange around Two Dogs line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Chef Barinov brings back the lost dog Tyson, only for Vika to walk in holding an identical Shih Tzu puppy she frantically bought to replace him. Next time you watch the episode, listen for the Russian expressions for 'to be liked' and 'to call' — you will catch every word right away. See you next time!"
 CLOSING = ('vika', 'Пока!')
 STORY = [
@@ -32,15 +32,15 @@ STORY = [
     ('vika', 'Как и ваша собака. Я пойду!', 'Just like your dog. I will go!', [(309, 'Как и ваша.'), (310, 'Ну, я пойду.')], ''),
 ]
 WALK = [
-    (0, 'Это что такое?', "'What is this?' — a common way to express confusion or surprise at a sight."),
-    (1, None, "'Chef, this is my new little dog!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (2, None, "'I bought her this morning.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (4, None, "'I just really liked your Dyson.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'I could not resist and bought a puppy.' — a natural colloquial expression for an impulsive purchase."),
-    (7, None, "'Sorry, I still mix them up.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (8, None, "'It seems this one is yours, and this one is mine.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (9, None, "'Vika, what is your dog's name?' — a standard Russian question to ask what an animal is called."),
-    (10, 'Его зовут Максик!', "'His name is Maxik!' — an affectionate diminutive name blurted out in panic."),
-    (12, 'Ой, шицу!', "'Oh, Shih Tzu!' — a humorous mix-up between a food term and dog breed."),
-    (13, 'Как и ваша собака.', "'Just like your dog.' — wrapping up quickly to escape an awkward situation. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'What is this?' Barinov stares in total confusion at the second identical dog."),
+    (1, None, "'Chef, this is my new little dog!' Vika introduces her impulsive new purchase to the head chef."),
+    (2, None, "'I bought her this morning.' Vika explains that she went shopping earlier that day."),
+    (3, None, "'I just really liked your Dyson.' Vika admits she fell in love with his pet."),
+    (4, None, "'I could not resist and bought a puppy.' Vika says she simply had to get one for herself."),
+    (5, None, "'Sorry, I still mix them up.' Vika apologizes for losing track of which dog is which."),
+    (6, None, "'It seems this one is yours, and this one is mine.' Vika guesses the ownership based on a quick glance."),
+    (7, None, "'Vika, what is your dog's name?' Barinov asks what she decided to name her new companion."),
+    (8, None, "'His name is Maxik!' Vika blurts out the first name that comes to mind."),
+    (9, None, "'Oh, Shih Tzu!' Vika immediately corrects herself with the actual breed name."),
+    (10, None, "'Just like your dog.' Vika awkwardly points out the similarity to his own pet."),
 ]

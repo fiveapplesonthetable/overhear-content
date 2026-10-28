@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maksim, I carefully read your résumé.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I hope you liked my experience.' Max expresses politeness using a past self-directed form.
-- 'You are a very capable and promising cook.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Thank you, I truly want to learn a lot.' Max displays enthusiasm using paired verbs of desire and study.
-- 'I will gladly take you into the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'At the Claude Monet restaurant they do not appreciate me.' Max vents his frustration using a negative present verb.
-- 'I do not understand why they act like that.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'There they only give me vegetables to peel.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'With us you will cook complex dishes.' Elena promises creative culinary freedom using a compound future verb.
-- 'This is exactly what I dreamed about!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Here are my contacts just in case.' Elena gives him her business card with an idiomatic matching form.
-- 'When should I expect your call?' Max asks about next steps using an basic verb form of expectation.
-- 'I will call you in a couple of days.' Elena concludes the meeting with a future time expression.
+- 'Maksim, I carefully read your résumé.' Elena tells Maksim she carefully read his resume.
+- 'I hope you liked my experience.' Max hopes she liked his experience.
+- 'You are a very capable and promising cook.' She calls him a very capable and promising cook.
+- 'Thank you, I truly want to learn a lot.' Max thanks her and says he truly wants to learn a lot.
+- 'I will gladly take you into the kitchen.' Elena says she will gladly take him into the kitchen.
+- 'At the Claude Monet restaurant they do not appreciate me.' He complains they do not appreciate him at the Claude Monet restaurant.
+- 'I do not understand why they act like that.' Elena does not understand why they act that way.
+- 'There they only give me vegetables to peel.' Max says they only let him peel vegetables there.
+- 'With us you will cook complex dishes.' She promises he will cook complex dishes with them.
+- 'This is exactly what I dreamed about!' Max says this is exactly what he dreamed about.
+- 'Here are my contacts just in case.' Elena gives him her contact information just in case.
+- 'When should I expect your call?' He asks when he should expect her call.
+- 'I will call you in a couple of days.' Elena promises to call him in a couple of days.

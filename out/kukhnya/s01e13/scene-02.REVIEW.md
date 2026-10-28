@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who parked this old car here?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Woman, move the automobile from my spot.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where does it say this is your spot?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'It only says about icicles there.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am the head chef of this famous restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And I am the head chef of the neighboring restaurant.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then you must understand the rules.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will not move my car.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Over there is another open spot.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Have a nice working day, Mr. Chef!' — polite farewell wish the matching word ending with formal title. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Who parked this old car here?' Chef Barinov is annoyed. He returns to his favorite spot only to find it taken.
+- 'Woman, move the automobile from my spot.' He demands she move it. Barinov uses the formal 'you' to show his authority over a stranger.
+- 'Where does it say this is your spot?' Elena is not intimidated. She calmly challenges his claim to the space.
+- 'It only says about icicles there.' She points out the only warning sign around. It is just about falling ice, not reserved parking.
+- 'I am the head chef of this famous restaurant.' The Chef tries to pull rank. He mentions his prestigious job title to impress her.
+- 'And I am the head chef of the neighboring restaurant.' Elena counters immediately. She holds the exact same position right next door.
+- 'Then you must understand the rules.' He insists she should know better. Barinov thinks professional courtesy means he gets the spot.
+- 'I will not move my car.' Elena flatly refuses. She has no intention of moving her vehicle.
+- 'Over there is another open spot.' She points out an alternative. Elena suggests he park elsewhere instead.
+- 'Have a nice working day, Mr. Chef!' Elena leaves with a sarcastic farewell. Calling him 'Mr. Chef' is her way of mocking his self-importance.

@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I have almost finished this cake.' Louis puts the word for 'almost' together with 'finished' and 'cake' in a crisp, natural spoken turn of phrase.
-- 'Show it to me, Louis.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I think the cake can be served soon.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wait, what on earth is this?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Oh, this is an iron clamp!' — an exclamation expressing surprise at finding a metal tool.
-- 'This is a celebration cake for the guests!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Probably the little girl was playing here.' — modal word expressing probability in the past.
-- 'Chef, calm down, no need to shout.' — an adverb of reassurance with a negative modal phrase.
-- 'I will quickly fix everything right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Make it pretty so the guests notice nothing.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'I promise, the cake will be perfect.' — 1st person present verb followed by an matching form everyday. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Chef, I have almost finished this cake.' In the pastry section, Louis proudly tells the chef that the banquet cake is nearly finished.
+- 'Show it to me, Louis.' Barinov steps over and asks Louis to show him the cake.
+- 'I think the cake can be served soon.' Louis says the dessert is almost ready to go out to the dining room.
+- 'Wait, what on earth is this?' Leaning in closer, Viktor freezes and asks what on earth is sticking out of the frosting.
+- 'Oh, this is an iron clamp!' Louis gasps as he recognizes an iron clamp wedged into the cake.
+- 'This is a celebration cake for the guests!' Barinov reminds him in horror that this cake is for the VIP banquet guests.
+- 'Probably the little girl was playing here.' Louis guesses that the little girl must have left the tool there while playing.
+- 'Chef, calm down, no need to shout.' Seeing the chef's face turn red, Louis begs him to stay calm and not shout.
+- 'I will quickly fix everything right now.' The pastry chef promises to patch up the frosting right away.
+- 'Make it pretty so the guests notice nothing.' Viktor orders him to smooth it over cleanly so the guests never suspect a thing.
+- 'I promise, the cake will be perfect.' Louis swears the cake will look flawless when it hits the table. Now listen to the full conversation once more.

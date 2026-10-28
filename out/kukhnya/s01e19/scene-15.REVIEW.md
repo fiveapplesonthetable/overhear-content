@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We prepared a Parisian-style egg.' The chef finishes his TV segment. The verb is in the past tense everyday.
+- 'We prepared a Parisian-style egg.' Barinov announces to the camera that they prepared the special egg.
 - 'We wait for you at the Claude Monet restaurant!' The chef enthusiastically invites everyone. We skip 'the' in Russian.
-- 'Don't cut! You didn't name the sponsor!' The director is furious. The word for 'not' is placed before the verb.
+- 'Don't cut! You didn't name the sponsor!' The director yells that he forgot to name their sponsor.
 - 'You're fired! Get out of here!' The director kicks him out of the studio. The word for 'are' is skipped.
 - 'How are things, Viktor Petrovich?' Later, Vika greets the Chef at the restaurant.
 - 'Tomorrow it will be packed.' The word for 'packed' comes from German and means a full house. We use 'it' in English, but Russian relies on the context.
-- 'Even Bianca will come.' Vika is excited about a minor celebrity. The verb is in the future tense.
+- 'Even Bianca will come.' Vika excitedly mentions that even Bianca is coming to the party.
 - 'Who is Bianca?' The Chef is not impressed. He adds a word to mean 'what kind of person'.
 - 'Everyone knows her.' Vika defends her VIP guest. The object 'her' comes first in the sentence.
-- 'I have another ace up my sleeve.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'there is' with 'still' and 'one'.
-- 'Book a table for Prokhor Mikhailov.' The verb is an command form command addressed to Vika.
+- 'I have another ace up my sleeve.' Barinov claims he has another trick up his sleeve.
+- 'Book a table for Prokhor Mikhailov.' Barinov orders her to book a table for the wealthy oligarch.
 - 'The oligarch will dine with us?' Vika is shocked. To dine means 'to have supper' in Russian.
-- 'He will.' The Chef confidently repeats the verb for 'will be'.
+- 'He will.' Barinov confirms the oligarch will definitely attend.
 - 'Everyone definitely knows him.' He takes a jab at Bianca's fame. The word 'him' is placed at the front.

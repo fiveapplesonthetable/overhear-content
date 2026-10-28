@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = 'The kitchen staff is very busy preparing food for the evening guests. One of the cooks suddenly realizes that a dish he just prepared has mysteriously disappeared from his table.'
 OPENER = "Now let's go back through the exchange around Where is My Salad? line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The cook continues searching for his missing dish while the others ignore him and focus on their own work. Next time you watch the episode, listen for the Russian expressions for 'salad' and 'to take' — you will catch every word right away. See you next time!"
 CLOSING = ('senya', 'Пока!')
 STORY = [
@@ -32,9 +32,9 @@ STORY = [
     ('fedya', 'Тогда придумай что-нибудь другое.', 'Then think of something else.', [], ''),
 ]
 WALK = [
-    (4, None, "'Hey, have you seen my salad?' The verb for 'saw' is in the matching past tense, marked by the '-l' ending."),
-    (8, None, "'It was my best salad.' The verb for 'was' is in the matching past tense, marked by the '-l' ending."),
-    (9, None, "'Make a new one, there is time.' Fedya leads with the direct command form meaning 'make', pairing it with 'new' and 'time'."),
-    (12, None, "'I will not have time to make a new one.' Senya uses the action verb meaning 'will manage' to focus on the single completed result, pairing it with 'to do' and 'new'."),
-    (13, None, "'Then think of something else.' Fedya leads with the direct command form meaning 'think up', pairing it with 'back then' and 'another'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Hey, have you seen my salad?' Coming back to his station, Senya asks Louis if he has seen his special salad."),
+    (1, None, "'It was my best salad.' Not wanting to admit the leather belt was hidden in it, Senya claims it was his finest salad."),
+    (2, None, "'Make a new one, there is time.' Unaware of what was in the bowl, Fedya tells him to just toss a fresh one while there is time."),
+    (3, None, "'I will not have time to make a new one.' Senya panics because he knows the belt salad has already gone out to a guest."),
+    (4, None, "'Then think of something else.' Fedya shrugs and tells him to come up with something else then."),
 ]

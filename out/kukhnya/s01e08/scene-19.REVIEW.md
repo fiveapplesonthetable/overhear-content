@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, why did you lie about our future wedding?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She will give this dog only to a married couple.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I do not know how to lie so foolishly to people.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You yourself desperately wanted to take this puppy!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But you and I are not even dating!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Play along with me a little while she pours tea.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She will immediately realize that we are just coworkers.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then quickly hug me right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you out of your mind, stop shouting immediately!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Smile, the owner is already coming back here.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will kill you after this strange meeting.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'At least this sweet dog will live with us.' Compensatory conjunction with matching form noun phrase, compound future verb, and everyday matching form.
+- 'Max, why did you lie about our future wedding?' Vika fiercely whispers her frustration about the fake marriage he just invented.
+- 'She will give this dog only to a married couple.' Max defends his lie as the only possible way to satisfy the strict dog owner.
+- 'I do not know how to lie so foolishly to people.' She complains about being dragged into such an awkward and transparent deception.
+- 'You yourself desperately wanted to take this puppy!' Max reminds her that she was the one begging to bring the animal home.
+- 'But you and I are not even dating!' Vika points out the massive leap from coworkers to engaged couple.
+- 'Play along with me a little while she pours tea.' He begs her to just act the part for a few minutes to secure the deal.
+- 'She will immediately realize that we are just coworkers.' She worries that their lack of chemistry will immediately expose the scam.
+- 'Then quickly hug me right now.' Max instructs her to show some physical affection to sell the romantic illusion.
+- 'Are you out of your mind, stop shouting immediately!' Vika snaps at him for barking orders while trying to look like a loving partner.
+- 'Smile, the owner is already coming back here.' He spots the owner returning and quickly forces a bright, happy face.
+- 'I will kill you after this strange meeting.' She promises severe consequences once they are finally out of this house.
+- 'At least this sweet dog will live with us.' Max focuses entirely on the prize, ignoring her death threats for the sake of the pet.

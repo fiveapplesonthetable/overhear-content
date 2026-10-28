@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, have you completely lost your mind?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'What happened, Senya, why are you shouting so?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'All the meat on your stove is burning!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Oh, forgive me, I accidentally forgot the frying pan.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Quickly take the hot frying pan off the high flame.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have already taken it off and turned off the flame.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What are you even thinking about during work?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I was simply thinking long about our complicated life.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The Chef will see this black smoke and kill us!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will quickly prepare a new fresh portion right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Hurry up quickly, the guests have been waiting for their order for a long time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'In five minutes the fine dish will be ready.' Temporal matching form with matching form noun phrase and compound future everyday construction.
+- 'Fedya, have you completely lost your mind?' Senya warmly gives such meaning by blending 'fedya' and 'completely' plus 'mind'.
+- 'What happened, Senya, why are you shouting so?' Fedya plainly gives the idea through grouping 'what' and 'why' along with 'so'.
+- 'All the meat on your stove is burning!' Senya boldly builds the thought through matching 'all' with 'your' along with 'burning'.
+- 'Oh, forgive me, I accidentally forgot the frying pan.' Fedya plainly shows some idea by merging 'oh' with 'accidentally' along with 'pan'.
+- 'Quickly take the hot frying pan off the high flame.' Senya boldly shares such view by combining 'quickly' and 'pan' and 'flame'.
+- 'I have already taken it off and turned off the flame.' Fedya simply shapes such meaning through linking 'i' and 'off' plus 'flame'.
+- 'What are you even thinking about during work?' Senya plainly forms that feeling through pairing 'what' and 'thinking' as well as 'work'.
+- 'I was simply thinking long about our complicated life.' Fedya gladly casts the image by linking 'i' with 'long' and 'life'.
+- 'The Chef will see this black smoke and kill us!' Senya simply gives the concept by linking 'chef' and 'black' along with 'us'.
+- 'I will quickly prepare a new fresh portion right now.' Fedya truly makes that idea through matching 'i' with 'new' as well as 'now'.
+- 'Hurry up quickly, the guests have been waiting for their order for a long time.' Senya neatly casts that picture by grouping 'hurry' with 'waiting' as well as 'time'.
+- 'In five minutes the fine dish will be ready.' Fedya gladly shows the idea by blending 'five' and 'dish' plus 'ready'.

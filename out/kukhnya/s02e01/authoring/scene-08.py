@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.01'
 SOURCE_FILE = 'sources/kukhnya/s02/e01.ru.dual.srt'
 INTRO = 'Outside the restaurant, Max chains himself in a foolish attempt to prove his devotion and force Victoria to talk. Instead of being moved, Victoria calls him a complete fool and walks away, leaving him stuck alone.'
 OPENER = "Listen to Victoria reacting to Max's ridiculous stunt outside Claude Monet."
-TRANSITION = "Now listen to the entire scene outside the restaurant again. Now let's listen to the whole conversation again from start to finish."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Max's grand romantic gesture backfires completely, leaving him trapped outside while Victoria goes back to work. Next time you watch the episode, listen for the Russian expressions for 'to see' and 'now' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -33,15 +33,15 @@ STORY = [
 WALK = [
     (0, None, "'See, now I am not going anywhere.' Max proudly shows that he has locked himself in place."),
     (1, None, "'Max, what is that on your hand?' Victoria looks at the lock on his wrist in shock."),
-    (2, None, "'I did this only for your sake!' The preposition with the matching word ending word means 'for your sake'."),
+    (2, None, "'I did this only for your sake!' Max claims he handcuffed himself there purely for her sake."),
     (3, None, "'You are just a complete fool!' Victoria is completely unimpressed by his dramatic gesture."),
-    (4, None, "'At least now we have time.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'now' with 'there is' and 'time'."),
+    (4, None, "'At least now we have time.' He points out that at least now they have time to talk."),
     (5, None, "'I have no time for your nonsense.' Victoria refuses to waste a single minute on his prank."),
-    (6, None, "'Wait, do not walk away from me!' Max leads with the direct command form meaning 'wait', followed by 'go away'."),
+    (6, None, "'Wait, do not walk away from me!' Seeing her turn away, Max begs Vika not to walk off."),
     (7, None, "'Sit here alone with your ideas.' Victoria leaves him to deal with the consequences himself."),
-    (8, None, "'Where are you going, Vika?' Max puts the word for 'where to' together with 'are coming' in a crisp, natural spoken turn of phrase."),
+    (8, None, "'Where are you going, Vika?' He calls out in panic to ask where she is going."),
     (9, None, "'Vika, well where did you go?' Unable to move from the spot, Max watches her disappear."),
-    (10, None, "'I am going back to my work!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (11, None, "'Stop, please come back to me!' Max leads with the direct command form meaning 'stop', followed by 'come back'."),
-    (12, None, "'Do not leave me here alone!' Max is trapped outside by his own foolish plan."),
+    (10, None, "'I am going back to my work!' Vika yells back that she is heading inside to do her job."),
+    (11, None, "'Stop, please come back to me!' Trapped by the handcuffs, Max pleads with her to stop and come back."),
+    (12, None, "'Do not leave me here alone!' Max is trapped outside by his own foolish plan. Now listen to the entire scene outside the restaurant again."),
 ]

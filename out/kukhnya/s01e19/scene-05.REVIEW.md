@@ -30,7 +30,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You have a very beautiful and cozy restaurant.' He compliments the atmosphere of Claude Monet.
 - 'Thank you, we try very hard every day.' Victoria takes pride in the team's daily work.
 - 'And the cuisine here is truly wonderful.' He praises the food as well.
-- In this moment, 'Our head chef knows his craft.' Victoria credits Chef Viktor's culinary skill.
 - 'It was a great pleasure meeting you.' Literally 'to me it was extremely pleasant to get acquainted with you'.
 - 'Likewise, it was very pleasant for me too.' The single word for 'mutually' or 'likewise' is the natural reply to a compliment.
 - 'I hope we will see each other again soon.' Igor hints that he wants to see Victoria again.

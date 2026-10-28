@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Relax, my friend, do not be so nervous.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He simply wants to get a rise out of me.' Max replies, explaining his visible frustration.
-- 'Do you want to drink some juice with me?' the bartender offers generously to distract his friend.
-- 'No, thank you, I am at work right now.' Max answers responsibly, declining the drink. Now listen to the full bar conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Relax, my friend, do not be so nervous.' Kostya urges his friend to calm down.
+- 'He simply wants to get a rise out of me.' Max believes someone is trying to provoke him.
+- 'Do you want to drink some juice with me?' Kostya offers a beverage to lighten the mood.
+- 'No, thank you, I am at work right now.' Max declines the offer because of his job.

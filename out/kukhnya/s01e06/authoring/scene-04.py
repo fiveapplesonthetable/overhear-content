@@ -7,14 +7,14 @@ SCENE = 4
 TITLE = 'Баранина и трюфели  (Mutton and Truffles)'
 LEVEL = 'A1 — Duolingo Section 2'
 PAIR = 'ru-en'
-LABELS = {'barinov': 'Шеф', 'max': 'Макс', 'timur': 'Тимур'}
+LABELS = {'barinov': 'Шеф', 'timur': 'Тимур'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.06'
 SOURCE_FILE = 'sources/kukhnya/s01/e06.ru.dual.srt'
 INTRO = 'Outside restaurant Claude Monet, Chef Viktor Barinov inspects meat from supplier Timur. After haggling over the quality of a lamb, Timur offers Barinov smuggled European truffles at a steep price. Listen to their funny bargaining dialogue in Russian first, and then we will examine every line.'
 OPENER = "Let's examine this humorous black-market negotiation step by step."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That concludes our fourth scene. In Kukhnya, sourcing gourmet culinary ingredients is often an adventure of its own behind the kitchen doors. See you next time!'
-CLOSING = ('max', 'До встречи!')
+CLOSING = ('barinov', 'До встречи!')
 STORY = [
     ('barinov', 'Скажи честно, этот баран умер от старости?', 'Tell me honestly, did this sheep die of old age?', [(7, 'Скажи честно, Тимур, ведь этот баран умер от старости')], ''),
     ('timur', 'Зачем обижаешь? Это молодой и вкусный ягнёнок!', 'Why insult me? This is a young and tasty lamb!', [(8, 'зачем обижаешь'), (9, 'молодой и вкусный ягненок')], ''),
@@ -32,20 +32,20 @@ STORY = [
     ('barinov', 'Тимур, не наглей и отдавай товар!', "Timur, don't get cheeky and hand over the goods!", [(24, 'Тимур, не наглей')], ''),
 ]
 WALK = [
-    (0, None, "'Tell me honestly, did this sheep die of old age?' Barinov questions the suspicious meat quality."),
-    (1, 'Зачем обижаешь?', "'Why insult me?' Timur takes theatrical offense at the accusation."),
-    (1, 'Это молодой и вкусный ягнёнок!', "'This is a young and tasty lamb!' Russian omits the present-tense verb 'to be' here, linking 'young' directly with 'tasty', combining 'young' with 'tasty' and 'lamb'."),
-    (2, None, "'I already have enough sheep in the kitchen.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'kitchen' with 'already' and 'is enough'."),
-    (3, None, "'Wait, look at this excellent meat!' Timur leads with the direct command form meaning 'wait', pairing it with 'look' and 'excellent'."),
-    (4, None, "'I swear, this is the best fresh meat!' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (5, None, "'Yes, this lamb is really good.' Barinov grudgingly acknowledges the genuine quality."),
-    (6, None, "'Fine, I will take this meat.' Chef Barinov expresses this naturally by combining the word for 'fine' with 'take' and 'meat'."),
-    (7, None, "'Chef, my dear, do you need truffles?' The supplier pitches an exclusive underground luxury."),
-    (8, None, "'Are you offering me contraband again?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'again', pairing it with 'are offering' and 'contraband'."),
-    (9, 'Конечно надо!', "'Of course I do!' Barinov cannot resist premium French truffles."),
-    (9, 'Почём ты их продаёшь?', "'How much are you selling them for?' Chef Barinov turns a statement into a question purely through rising intonation on the word meaning 'how much', followed by 'sell'."),
-    (10, None, "'For you as a friend, only six hundred euros per kilogram.' Russian omits the present-tense verb 'to be' here, linking 'as a friend' directly with 'only', combining 'as a friend' with 'only' and 'six hundred'."),
-    (11, None, "'Great, I will take these truffles!' Here Chef Barinov anchors the line on the word meaning 'great' and builds the thought around 'take' and 'truffles'."),
-    (12, None, "'Then the price has risen to seven hundred euros!' Timur audaciously hikes the price on the spot."),
-    (13, None, "'Timur, don't get cheeky and hand over the goods!' Chef Barinov leads with the direct command form meaning 'get cheeky', pairing it with 'hand over' and 'goods'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Tell me honestly, did this sheep die of old age?' Insulting the tough-looking meat, Barinov tries to gain leverage in bargaining."),
+    (1, None, "'Why insult me?' Timur acts deeply offended by the attack on his livelihood."),
+    (2, None, "'This is a young and tasty lamb!' Passionately defending his product, Timur promises the lamb is fresh."),
+    (3, None, "'I already have enough sheep in the kitchen.' Barinov makes a witty pun, comparing his clumsy cooks to actual sheep."),
+    (4, None, "'Wait, look at this excellent meat!' Scrambling to showcase a better cut, Timur tries to appease the picky chef."),
+    (5, None, "'I swear, this is the best fresh meat!' Timur dramatically promises that this selection is unmatched in quality."),
+    (6, None, "'Yes, this lamb is really good.' Finally satisfied, Barinov admits the better cut is acceptable."),
+    (7, None, "'Fine, I will take this meat.' Barinov agrees to the purchase and concludes the main transaction."),
+    (8, None, "'Chef, my dear, do you need truffles?' Dropping his voice, Timur pitches an under-the-table luxury item."),
+    (9, None, "'Are you offering me contraband again?' Barinov calls out his supplier for pushing illegally imported goods."),
+    (10, None, "'Of course I do!' Eagerly, Barinov accepts, knowing how much diners pay for European delicacies."),
+    (11, None, "'How much are you selling them for?' Getting straight to business, Barinov demands the price."),
+    (12, None, "'For you as a friend, only six hundred euros per kilogram.' Timur offers a supposedly friendly discount that is still exorbitantly expensive."),
+    (13, None, "'Great, I will take these truffles!' Enthusiastically, Barinov snaps up the rare ingredients."),
+    (14, None, "'Then the price has risen to seven hundred euros!' Sensing desperation, Timur instantly hikes the price up."),
+    (15, None, "'Timur, don't get cheeky and hand over the goods!' Furious, Barinov angrily orders the supplier to honor the original deal."),
 ]

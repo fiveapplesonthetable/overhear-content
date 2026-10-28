@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Well then, I congratulate you.' the doctor delivers a punchy conversational reaction built around the Russian word meaning 'congratulations'.
-- 'Your rash is a pseudoallergic reaction.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'rash' straight to 'reaction'.
-- 'This is a typical manifestation of helminthiasis.' Russian omits the present-tense verb 'to be' here, linking 'typical' directly with 'manifestation', combining 'typical' with 'manifestation' and 'helminthiasis'.
-- 'And is it possible to say it humanly?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'tell'.
-- 'You simply have worms.' the doctor uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'just' and 'parasitic worms'.
-- 'Are you serious? I have worms?' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'seriously' with 'parasitic worms'.
-- 'Well, it is not me who has them.' Instead of a verb for 'to have', Russian says 'by me' or 'with you' followed by 'me'. And Max jumps in.
-- 'But where do I have worms from?' Instead of a verb for 'to have', Russian says 'by me' or 'with you' followed by 'parasitic worms'.
+- 'Your rash is a pseudoallergic reaction.' Looking over the test results, the doctor calls the rash a pseudo-allergic reaction.
+- 'This is a typical manifestation of helminthiasis.' He uses heavy medical jargon to say it is a classic sign of a parasite infection.
+- 'And is it possible to say it humanly?' Baffled by the long medical words, Max asks the doctor to put it in plain human Russian.
+- 'You simply have worms.' Dropping the medical terms, the doctor states bluntly that Max has worms.
+- 'Are you serious? I have worms?' Horrified, Max asks if the doctor is serious that he has worms.
+- 'Well, it is not me who has them.' The doctor dryly jokes that they certainly are not his own worms. And Max jumps in.
+- 'But where do I have worms from?' Max cannot understand where he could have caught parasites.
 - 'Well, the causes can be the most diverse.' the doctor puts the word for 'reason' together with 'can' and 'be' in a crisp, natural spoken turn of phrase.
-- 'Poor hygiene or contacts with soil.' Russian omits the present-tense verb 'to be' here, linking 'bad' directly with 'hygiene', combining 'bad' with 'hygiene' and 'contacts'.
-- 'Perhaps, you like to eat raw fish.' , combining 'perhaps' with 'to love' and 'there is'.
-- 'Tell me, do you like sushi?' , combining 'tell' with 'sushi' and 'to love'.
+- 'Poor hygiene or contacts with soil.' Listing common causes, the doctor mentions poor hygiene or contact with dirt.
+- 'Perhaps, you like to eat raw fish.' Then the doctor guesses the real culprit: eating raw fish.
+- 'Tell me, do you like sushi?' He asks pointedly whether Max happens to enjoy sushi — justlike the spoiled fish from Timur.

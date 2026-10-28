@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this strange note?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let's see what he wrote here.' The question word for 'what' comes right at the start, followed directly by 'wrote'.
-- 'He writes that he cannot live.' Vika chooses the action verb meaning 'is writing' for the ongoing action, followed by 'can' and 'to live'.
-- 'He writes that life has no meaning.' The negative word sits directly before the verb for 'is writing' to negate the action.
-- 'And he asks not to blame for anything.' Vika chooses the action verb meaning 'is asking for' for the ongoing action, followed by 'to blame'.
-- 'What an idiot he is after all.' Vika delivers a punchy one-word reaction built around the Russian word meaning 'idiot'.
-- 'This is another stupid joke.' Russian omits the present-tense verb 'to be' here, linking 'another' directly with 'silly', combining 'another' with 'silly' and 'joke'.
-- 'I do not believe a single word of his.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He thinks that I am stupid?' Russian forms this yes-or-no question without a question word, relying on rising pitch on 'silly'.
-- 'I will go and tell him everything to his face.' Vika uses the action verb meaning 'go' to focus on the single completed result, pairing it with 'I'll tell' and 'face'.
-- 'He made me really angry.' The phrasing opens with 'very much' before bringing in 'strongly' and 'to anger' to make the point clear.
-- 'I will cause a scandal for him right now.' Vika expresses this naturally by combining the word for 'now' with 'to arrange' and 'scandal'.
-- 'This circus must end.' Vika puts the word for 'circus' together with 'has to' and 'to end' in a crisp, natural spoken turn of phrase.
+- 'What is this strange note?' Vika unfolds the paper and wonders what this strange note is.
+- 'Let's see what he wrote here.' Recognising Max's handwriting, she reads aloud to see what he wrote.
+- 'He writes that he cannot live.' The note melodramatically claims that he cannot go on living.
+- 'He writes that life has no meaning.' Reading on, Vika sees the claim that without her, life has lost all meaning.
+- 'And he asks not to blame for anything.' He even adds the classic tragic line asking nobody to take the blame.
+- 'What an idiot he is after all.' Rather than panicking, Vika rolls her eyes at what an idiot Max is.
+- 'This is another stupid joke.' She immediately sees through the note as another one of his foolish pranks.
+- 'I do not believe a single word of his.' Vika says she does not believe a single word he wrote.
+- 'He thinks that I am stupid?' She is insulted that Max thinks she is gullible enough to fall for it.
+- 'I will go and tell him everything to his face.' Furious, she decides to march into the back and tell him off to his face.
+- 'He made me really angry.' Instead of winning her sympathy, Max's stunt has only made her furious.
+- 'I will cause a scandal for him right now.' She vows to give him a piece of her mind right now.
+- 'This circus must end.' Vika is determined to put an end to his ridiculous circus.

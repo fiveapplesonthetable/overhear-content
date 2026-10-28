@@ -25,12 +25,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, are you sure about this idea?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Of course, this is a brilliant plan!' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Now we will carefully dye it.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have a special black food coloring.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And the guests will not notice anything?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They will think that this is expensive caviar.' — future verb introducing an indirect statement.
-- 'Take the big spoon and stir.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Look, the color is already starting to change.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Excellent, it is turning out like real sturgeon caviar!' — everyday adverb with a self-directed form. Now listen to the full conversation once more. Now let's listen to the whole conversation again from start to finish.
+- 'Senya, are you sure about this idea?' When Fedya walks in on the caviar dyeing operation, he asks if Senya is sure about this crazy idea.
+- 'Of course, this is a brilliant plan!' Senya brushes off his worry and calls the plan pure genius.
+- 'Now we will carefully dye it.' He explains that they only need to tint the roe evenly.
+- 'I have a special black food coloring.' He holds up the bottle of natural black food coloring.
+- 'And the guests will not notice anything?' Still nervous, Fedya asks whether the wealthy guests will notice the swap.
+- 'They will think that this is expensive caviar.' Senya is sure the diners will think they are eating top-shelf sturgeon caviar.
+- 'Take the big spoon and stir.' He hands Fedya a big spoon and tells him to help stir.
+- 'Look, the color is already starting to change.' Watching the bowl darken, Fedya admits the color is transforming right before their eyes.
+- 'Excellent, it is turning out like real sturgeon caviar!' Senya declares triumphantly that it looks just like real black caviar now. Now listen to the full conversation once more.

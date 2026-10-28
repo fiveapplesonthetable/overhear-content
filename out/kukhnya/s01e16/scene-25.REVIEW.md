@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Beef pâté.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'pâté' straight to 'beef'.
-- 'Absolutely revolting.' Russian omits the present-tense verb 'to be' here, linking 'a disgusting thing' directly with 'terrible', combining 'a disgusting thing' with 'terrible'.
-- 'But when you mix it all together...' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'mix'.
-- 'She likes it.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'is pleasing'.
-- 'Are you kidding me?' Max turns a statement into a question purely through rising intonation on the word meaning 'are you mocking' to make the point directly in conversation.
-- 'Why?' Chef Viktor asks this with a single word meaning 'why', using rising intonation to turn it into a quick question.
-- 'You were learning to discipline yourself.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'educate oneself'.
-- 'Well, let's go.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'let's go'.
-- 'By the way, it's good pâté.' Russian omits the present-tense verb 'to be' here, linking 'by the way' directly with 'good', combining 'by the way' with 'good' and 'pâté'.
-- 'How do you make it?' Here Chef Barinov anchors the line on the word meaning 'how' and builds the thought around 'are you doing'.
-- 'What did you put in?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to add'.
-- 'Beef, liver.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'beef' straight to 'liver'.
+- 'Beef pâté.' Introducing the true nature of the dish, the phrasing places the focus on the meat type right after naming the spread.
+- 'Absolutely revolting.' To describe how awful it tastes, the speaker pairs words that literally mean "terrible muck" or "frightful filth."
+- 'But when you mix it all together...' Setting up a surprising contrast, the chef explains what happens if someone were to blend everything into one.
+- 'She likes it.' Referring to his pet, he notes that the concoction is pleasing to her.
+- 'Are you kidding me?' Realizing he was tricked, the frustrated cook asks if he is being mocked or made a fool of.
+- 'Why?' Feigning innocence, the older man offers a one-word question to act as if nothing wrong happened.
+- 'You were learning to discipline yourself.' Framing the cruel joke as a life lesson, the statement implies a process of self-education or personal growth.
+- 'Well, let's go.' Dismissing the argument entirely, this casual conversational filler is followed by a prompt to leave the room.
+- 'By the way, it's good pâté.' Changing the subject completely, a transition word meaning "incidentally" leads into a genuine compliment about the food.
+- 'How do you make it?' Showing actual culinary interest, the chef asks about the preparation process using a very direct phrasing.
+- 'What did you put in?' Pushing for recipe details, the question seeks to uncover which extra elements were added to the mix.
+- 'Beef, liver.' Still stunned by the revelation, the reply simply lists the two main animal products used in the preparation.

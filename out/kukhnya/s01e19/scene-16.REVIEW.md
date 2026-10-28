@@ -29,15 +29,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Vitya, what is going on?' Dima demands an explanation. Vitya is short for Viktor.
 - 'Why aren't customers being let in?' Dima is worried about the empty dining room. The word 'are' is missing in Russian.
-- 'We didn' t let Sobchak and her mom in.' The Chef admits they turned away a celebrity. The past tense verb is everyday.
+- 'We didn't let Sobchak and her mom in.' Barinov admits they turned away Sobchak and her mother at the door.
 - 'We have a private party.' The Chef defends the decision. Literally, 'By us is a closed party'.
-- 'She will raise a stink on the internet.' Dima fears the bad PR. The verb is in the future tense.
+- 'She will raise a stink on the internet.' Nagiyev worries she will complain about it on the internet.
 - 'The restaurant's value could drop a lot.' Dima's real worry is the money. We skip 'the' in Russian.
 - 'So you really are selling it?' The Chef finally catches on. The word 'it' refers to the restaurant.
-- 'I tried, Vitya.' Dima admits his secret plan. The verb is in the past tense matching.
+- 'I tried, Vitya.' Nagiyev admits he tried to sell the place.
 - 'Who wants an empty restaurant?' Literally, 'To whom is needed an empty restaurant?'. The word for 'is' is skipped.
-- 'This was your idea.' The Chef refuses to take the blame. The verb 'was' is matching, matching the word for 'idea'.
+- 'This was your idea.' Barinov deflects the blame back onto the owner.
 - 'Chef, can I go home?' Max interrupts at a bad moment. The word 'can' translates to 'is it possible'.
-- 'Will tomorrow's prep do itself?' The Chef takes his anger out on Max. The verb is future tense.
+- 'Will tomorrow's prep do itself?' Barinov sarcastically asks if the prep work will magically do itself.
 - 'Yes, Chef.' In the kitchen, this word is the military 'Yes, sir'. It is a sign of obedience.
-- 'I am going to the kitchen.' Max chooses the action verb meaning 'going' for the ongoing action, followed by 'kitchen'.
+- 'I am going to the kitchen.' Max quickly retreats back to the kitchen.

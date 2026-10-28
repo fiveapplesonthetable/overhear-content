@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What to do if friends and girlfriend quarreled?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Clearly, one must reconcile them quickly.' Here Kostya anchors the line on the word meaning 'clear' and builds the thought around 'it is necessary' and 'quickly'.
-- 'But how can I do this today?' The phrasing opens with 'how' before bringing in 'to do' and 'today' to make the point clear.
-- 'A good reason for a shared holiday is needed.' Russian omits the present-tense verb 'to be' here, linking 'is needed' directly with 'good', pairing it with 'reason' and 'common'.
-- 'For example, a cheerful birthday!' Russian omits the present-tense verb 'to be' here, linking 'for example' directly with 'cheerful', pairing it with 'day' and 'of birth'.
-- 'On such a day everyone must forget grudges.' Here Kostya anchors the line on the word meaning 'day' and builds the thought around 'must' and 'forget'.
-- 'Exactly! Tomorrow is my birthday!' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'definitely' and 'tomorrow'.
-- 'How could I forget about this myself?' Max expresses this naturally by combining the word for 'how' with 'could' and 'forget'.
-- 'Seriously, how could you forget your holiday?' Kostya puts the word for 'seriously' together with 'how' and 'could' in a crisp, natural spoken turn of phrase.
-- 'I did not tell anyone anything before.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And then suddenly tomorrow is your birthday.' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'suddenly', combining 'here' with 'suddenly' and 'tomorrow'.
-- 'They will not believe me just like that.' Max expresses this naturally by combining the word for 'just' with 'they will believe'.
-- 'That means you need to invent a clever plan.' Kostya puts the word for 'then' together with 'it is necessary' and 'to think up' in a crisp, natural spoken turn of phrase.
+- 'What to do if friends and girlfriend quarreled?' Max asks for advice on handling a fight between his friends and girlfriend.
+- 'Clearly, one must reconcile them quickly.' Kostya states the obvious need to quickly reconcile the group.
+- 'But how can I do this today?' Max wonders how he can possibly pull that off in a single day.
+- 'A good reason for a shared holiday is needed.' Kostya suggests finding a good excuse for a shared celebration.
+- 'For example, a cheerful birthday!' Max sarcastically suggests a cheerful birthday party.
+- 'On such a day everyone must forget grudges.' Kostya notes that people are forced to forget their grudges on such occasions.
+- 'Exactly! Tomorrow is my birthday!' Max suddenly realizes his own birthday is tomorrow.
+- 'How could I forget about this myself?' Max is shocked that he managed to forget his own special day.
+- 'Seriously, how could you forget your holiday?' Kostya shares the disbelief, wondering how anyone forgets their own holiday.
+- 'I did not tell anyone anything before.' Max points out he hasn't mentioned his birthday to anyone yet.
+- 'And then suddenly tomorrow is your birthday.' Kostya realizes the sudden announcement will look incredibly suspicious.
+- 'They will not believe me just like that.' Max agrees that his friends will think he is making it up.
+- 'That means you need to invent a clever plan.' Kostya concludes that they need to invent a clever trick to make it convincing.

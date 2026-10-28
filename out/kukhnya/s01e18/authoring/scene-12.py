@@ -41,5 +41,5 @@ WALK = [
     (8, None, "'Yes, I remember that time well.' Viktor recalls the days before Kristina married the owner."),
     (9, None, "'In short, please welcome and respect her.' This classic Russian idiom means 'please give her a warm welcome'."),
     (10, None, "'Here is your new boss.' Here, Nagiyev officially hands authority over to Kristina."),
-    (11, None, "'Welcome, Kristina Semyonovna.' Viktor forces a polite smile for his new boss."),
+    (11, None, "'Welcome, Kristina Semyonovna.' Viktor forces a polite smile for his new boss. Now let's listen to the conversation again without interruption."),
 ]

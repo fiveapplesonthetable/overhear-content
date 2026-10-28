@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, where has our big stove disappeared to?' Senya questions the mysterious absence using a past tense verb.
-- 'I personally took it to a reliable repair service.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But it was working perfectly yesterday evening!' The cook challenges the claim with an adverb of manner and a time expression.
-- 'I turned it in for important preventive maintenance.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And on what are we to cook today?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Chef, where has our big stove disappeared to?' Senya asks where the equipment went.
+- 'I personally took it to a reliable repair service.' Barinov lies about taking it for repairs.
+- 'But it was working perfectly yesterday evening!' Senya points out it was working fine.
+- 'I turned it in for important preventive maintenance.' Barinov makes up an excuse about maintenance.
+- 'And on what are we to cook today?' Senya wonders how they will work now.
 - 'For now cook the dishes on this little hotplate.' Barinov orders them to improvise on the domestic electric hotplate.
-- 'This little hotplate heats up much too slowly!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Stop whining, cooks must know how to do everything!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The guests will wait for their orders very long!' Senya cautions about kitchen bottlenecks using a compound future construction.
-- 'Set the heat to four and get to work!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'When will they return our old stove to us?' Senya inquires about the return schedule with a future tense verb.
-- 'In a day or two they will bring everything!' The chef gives an optimistic estimate using an matching form time phrase.
+- 'This little hotplate heats up much too slowly!' Senya complains about the slow heat.
+- 'Stop whining, cooks must know how to do everything!' Barinov tells him to deal with it.
+- 'The guests will wait for their orders very long!' Senya worries about customer wait times.
+- 'Set the heat to four and get to work!' Barinov barks orders to keep moving.
+- 'When will they return our old stove to us?' Senya asks for a return timeline.
+- 'In a day or two they will bring everything!' Barinov gives a vague delivery window.

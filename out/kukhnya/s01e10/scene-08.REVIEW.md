@@ -32,12 +32,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I already paid you two paychecks.' Dmitry reminds the chef of his previous advance payments.
 - 'What did you want?' Dmitry demands to know the real reason behind the phone call.
 - 'Why, I am not calling for money!' Viktor pretends that his intention is purely social.
-- 'Really? Then why are you calling?' Here Nagiyev anchors the line on the word meaning 'why' and builds the thought around 'then' and 'are calling'.
+- 'Really? Then why are you calling?' Dmitry anchors the line on the word for 'why' and builds the thought around 'then' and 'are calling'.
 - 'Tonight is an important football match.' Viktor tries to steer the topic toward sports.
 - 'Is your beloved Spartak playing again?' Dmitry brings up the chef's well-known obsession.
 - 'Yes, and I have reliable insider info!' Viktor hints at his guaranteed secret source.
 - 'Viktor, sports betting is dangerous.' Dmitry warns his impulsive head chef against gambling.
 - 'I need a small advance until tomorrow.' Viktor finally confesses his urgent monetary need.
 - 'I know your advances, Viktor.' Dmitry remains completely unmoved by the plea.
-- 'You will not get a single kopeck!' Nagiyev puts the word for 'kopeck' together with 'will get' in a crisp, natural spoken turn of phrase.
+- 'You will not get a single kopeck!' Dmitry puts the word for 'kopeck' together with 'will get' in a natural spoken line.
 - 'Dmitry, you will regret this!' Viktor shouts frustratedly before hanging up. Now, let us listen to the complete scene again to practice your comprehension.

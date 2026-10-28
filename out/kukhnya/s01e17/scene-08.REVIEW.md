@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why didn't you tell me they would be here?' Vika puts the word for 'why' together with 'said' and 'here' in a crisp, natural spoken turn of phrase.
-- 'They are my friends. We spend a lot of time together.' Here Max anchors the line on the word meaning 'friends' and builds the thought around 'a lot' and 'time'.
-- 'You should get used to it.' Max leads with the direct command form meaning 'get used to' to make the point directly in conversation.
-- 'Maybe I should bring my mom here then?' Vika turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'back then' and 'here'.
-- 'I want to spend a lot of time with them, too.' Vika puts the word for 'too' together with 'want' and 'a lot' in a crisp, natural spoken turn of phrase.
-- 'It is fine. You will get along.' Max leads with the direct command form meaning 'to make friends', followed by 'fine'.
-- 'That never happened.' The phrasing opens with 'such' before bringing in 'was' and 'never' to make the point clear.
-- 'For some reason, I am not surprised.' Vika expresses this naturally by combining the word for 'for some reason' with 'to surprise'.
-- 'All right, you can stay a while...' Nastya leads with the direct command form meaning 'to sit for a while', pairing it with 'short' and 'still'.
-- 'And we should probably get going.' Here Nastya anchors the line on the word meaning 'probably' and builds the thought around 'go'.
-- 'We should head home.' Russian omits the present-tense verb 'to be' here, linking 'home' directly with 'already', combining 'home' with 'already' and 'it's time'.
-- 'Can't do that at work.' Nastya expresses this naturally by combining the word for 'work' with 'to forbid'.
-- 'You might as well have started having sex right on the bar.' Vika puts the word for 'still' together with 'right' and 'bar' in a crisp, natural spoken turn of phrase.
-- 'Guys, what is going on?' Max delivers a punchy one-word reaction built around the Russian word meaning 'the boys'.
+- 'Why didn't you tell me they would be here?' Vika angrily confronts her boyfriend about hiding his friends' presence.
+- 'They are my friends. We spend a lot of time together.' Max defends his decision, explaining how close he is with them.
+- 'You should get used to it.' Max bluntly tells his girlfriend she will just have to get used to it.
+- 'Maybe I should bring my mom here then?' Vika sarcastically suggests bringing her mother along next time.
+- 'I want to spend a lot of time with them, too.' Vika doubles down on the sarcasm, claiming she wants to spend time with them too.
+- 'It is fine. You will get along.' Max reassures her that everything will be fine and they will become friends.
+- 'That never happened.' Nastya mutters that such a disaster has never happened before.
+- 'For some reason, I am not surprised.' Vika dryly replies that she isn't surprised by the awkwardness.
+- 'All right, you can stay a while...' Nastya decides to cut the evening short, telling the couple to stay.
+- 'And we should probably get going.' Nastya announces that she and Kostya will be leaving instead.
+- 'We should head home.' Nastya uses the excuse that it is time to head home.
+- 'Can't do that at work.' Nastya takes a final jab, mentioning that socializing is forbidden at work.
+- 'You might as well have started having sex right on the bar.' Vika snaps back, accusing them of inappropriate behavior at the bar.
+- 'Guys, what is going on?' Max looks around in confusion as the double date falls apart.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I cannot kill this goose.' Max admits his inability to butcher the bird.
-- 'Maybe you will try once more?' Kostya encourages his friend with a modal word.
-- 'No, I definitely cannot do this.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let us suddenly scare him in the dark!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Kostya, this is complete nonsense.' Max dismisses the plan with a colloquial noun.
-- 'Birds have a very weak heart.' Kostya attempts to justify his scheme with pseudo-science.
-- 'See, he is standing and hissing loudly.' Max points out the healthy goose with active verbs.
-- 'I urgently need a real specialist.' Max decides to seek outside help using an adverb and noun.
-- 'Ainura, help us solve the problem!' Max turns to the cleaner with an command form.
-- 'What needs to be done with this bird?' Ainura inquires about the job with an impersonal modal.
-- 'The goose needs to be removed quickly and neatly.' The phrasing opens with 'necessary' before bringing in 'quickly' and 'neatly' to make the point clear.
-- 'A thousand rubles, and you will never see him.' Ainura names her price using a numeral phrase.
-- 'Deal, here is your money!' Max happily pays the fee with an agreement word.
+- 'I cannot kill this goose.' Admitting defeat, the young man realizes he cannot go through with the slaughter.
+- 'Maybe you will try once more?' Kostya suggests giving the grim task another shot.
+- 'No, I definitely cannot do this.' Lacking the stomach for violence, the novice absolutely refuses to try again.
+- 'Let us suddenly scare him in the dark!' An unorthodox method involving darkness and a sudden shock might just do the trick.
+- 'Kostya, this is complete nonsense.' Max dismisses his friend's idea as completely ridiculous.
+- 'Birds have a very weak heart.' Frightening an avian to death is apparently a viable strategy according to the bartender.
+- 'See, he is standing and hissing loudly.' Standing tall and hissing aggressively, the intended victim seems far from terrified.
+- 'I urgently need a real specialist.' Dealing with this situation clearly requires professional assistance.
+- 'Ainura, help us solve the problem!' Max begs their experienced coworker to step in and handle the mess.
+- 'What needs to be done with this bird?' Ainura asks exactly what they want her to do with the animal.
+- 'The goose needs to be removed quickly and neatly.' Fast and clean disposal is the only acceptable outcome at this point.
+- 'A thousand rubles, and you will never see him.' Making problems disappear always comes with a specific price tag.
+- 'Deal, here is your money!' Max quickly agrees to the terms and hands over the cash.

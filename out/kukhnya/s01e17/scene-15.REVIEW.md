@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We already have the menu, thank you very much.' Chef Barinov uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'menu' and 'already'.
-- 'So what do we have here?' Chef Barinov uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', followed by 'here'.
-- 'Here is Russian, French, and Japanese cuisine.' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'Russian', pairing it with 'French' and 'Japanese'.
-- 'They call this cuisine from all over the world.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They have pizza, sushi, and borscht here.' Chef Barinov puts the word for 'here' together with 'there is' and 'pizza' in a crisp, natural spoken turn of phrase.
-- 'Max, how are things going in the kitchen?' Here Vika anchors the line on the word meaning 'how' and builds the thought around 'go' and 'things'.
-- 'Everything is fine, we are working calmly.' The phrasing opens with 'good' before bringing in 'calmly' and 'we work' to make the point clear.
-- 'I thought of a dish for the holiday dinner.' Vika uses the action verb meaning 'thought up' to focus on the single completed result, pairing it with 'dish' and 'festive'.
-- 'That is simply great, thank you very much.' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'great', pairing it with 'big' and 'thank you'.
-- 'Wait, what kind of ticket is this?' Vika leads with the direct command form meaning 'wait', followed by 'ticket'.
-- 'Nastya and Kostya gave me a ticket to the club.' Max uses the action verb meaning 'gave' to focus on the single completed result, pairing it with 'ticket' and 'club'.
-- 'So there is only one ticket there?' Vika turns a statement into a question purely through rising intonation on the word meaning 'then', pairing it with 'there' and 'only'.
-- 'Should I cook dinner tonight or not?' Vika turns a statement into a question purely through rising intonation on the word meaning 'to cook', pairing it with 'today' and 'dinner'.
-- 'Vika, my friends will definitely understand me.' Here Max anchors the line on the word meaning 'friends' and builds the thought around 'definitely' and 'will realise'.
+- 'We already have the menu, thank you very much.' Barinov abruptly cuts off any further service, indicating they have what they need.
+- 'So what do we have here?' He then dives into inspecting the options with a critical eye.
+- 'Here is Russian, French, and Japanese cuisine.' Barinov lists the diverse culinary styles offered, sounding slightly unimpressed by the variety.
+- 'They call this cuisine from all over the world.' He mockingly summarizes their overly broad theme.
+- 'They have pizza, sushi, and borscht here.' Barinov points out the chaotic mix of dishes to highlight the lack of focus.
+- 'Max, how are things going in the kitchen?' Vika checks in to see how the team is managing the workload.
+- 'Everything is fine, we are working calmly.' Max assures her that everything is running smoothly and without panic.
+- 'I thought of a dish for the holiday dinner.' Vika shares her latest idea for the upcoming special event.
+- 'That is simply great, thank you very much.' Max responds with enthusiastic approval of her concept.
+- 'Wait, what kind of ticket is this?' Vika suddenly spots the pass and asks about it with clear suspicion.
+- 'Nastya and Kostya gave me a ticket to the club.' Max quickly explains the source of the pass to avoid any misunderstanding.
+- 'So there is only one ticket there?' Vika points out a crucial detail that complicates his plans.
+- 'Should I cook dinner tonight or not?' She poses a rhetorical question, highlighting the clash between his social life and his responsibilities.
+- 'Vika, my friends will definitely understand me.' Max tries to reassure her, confident that his buddies will not mind the change of plans.

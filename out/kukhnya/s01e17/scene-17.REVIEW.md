@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hold it right there.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'to stand'.
-- 'What is the matter?' Elena delivers a punchy one-word reaction built around the Russian word meaning 'matter'.
-- 'You stole our dish.' Chef Barinov uses the action verb meaning 'stole' to focus on the single completed result, pairing it with 'dish'.
-- 'We invented it ourselves.' Elena delivers a punchy one-word reaction built around the Russian word meaning 'to think up'.
-- 'I knew it.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'knew'.
-- 'You cannot do anything yourselves.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'can'.
-- 'Look at this date.' Elena leads with the direct command form meaning 'look', followed by 'date'.
-- 'Well, well.' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'oh', combining 'oh' with 'oh'.
-- 'Give me the menu, please.' Elena leads with the direct command form meaning 'give', followed by 'menu'.
-- 'Can you see clearly?' Elena turns a statement into a question purely through rising intonation on the word meaning 'good', followed by 'see'.
-- 'Yes, fine.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'fine'.
-- 'Sorry.' Chef Barinov leads with the direct command form meaning 'sorry' to make the point directly in conversation.
+- 'Hold it right there.' Barinov commands attention, stopping the interaction instantly.
+- 'What is the matter?' Elena demands to know the reason for his sudden interruption.
+- 'You stole our dish.' Barinov makes a blunt accusation of theft regarding the recipe.
+- 'We invented it ourselves.' Elena fires back, firmly claiming originality.
+- 'I knew it.' Barinov expresses his lack of surprise at the situation.
+- 'You cannot do anything yourselves.' He insults their competence, insisting they rely on stealing ideas.
+- 'Look at this date.' Elena presents evidence to counter his claim, drawing attention to a specific detail.
+- 'Well, well.' Barinov reacts with slight hesitation as he takes in the new information.
+- 'Give me the menu, please.' Elena confidently asks for the item back, knowing she has the upper hand.
+- 'Can you see clearly?' She mocks his observation skills, driving her point home.
+- 'Yes, fine.' Barinov curtly acknowledges the evidence, realizing he was wrong.
+- 'Sorry.' He offers a brief, somewhat reluctant apology to end the dispute.

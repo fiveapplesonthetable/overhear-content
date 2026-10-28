@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The boss is arguing with her again.' Nastya puts the word for 'again' together with 'to quarrel' in a crisp, natural spoken turn of phrase.
-- 'Come on, Nastya, everything will work out.' Kostya delivers a punchy conversational reaction built around the Russian word meaning 'will work out'.
-- 'Things won't work out for us today either?' Nastya uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'today' and 'too'.
-- 'No, Nastya, you simply promised.' Kostya expresses this naturally by combining the word for 'just' with 'promised'.
-- 'Do you want me to go to the boss?' Kostya turns a statement into a question purely through rising intonation on the word meaning 'do you want', pairing it with 'go' and 'chef'.
-- 'I will say that I broke the mirror.' Kostya uses the action verb meaning 'I'll tell' to focus on the single completed result, pairing it with 'broke' and 'mirror'.
-- 'Do not do it, he will fire you.' The phrasing opens with 'it is necessary' before bringing in 'will fire' to make the point clear.
-- 'I said it, which means I will go.' Kostya uses the action verb meaning 'said' to focus on the single completed result, pairing it with 'then' and 'go'.
-- 'Kostik, wait, do not go.' Nastya leads with the direct command form meaning 'wait', followed by 'go'.
-- 'Boss, it was me who broke your mirror.' Kostya uses the action verb meaning 'broke' to focus on the single completed result, pairing it with 'mirror'.
-- 'No, do not believe him.' Nastya delivers a punchy conversational reaction built around the Russian word meaning 'to believe'.
-- 'I broke your mirror.' Nastya uses the action verb meaning 'to break' to focus on the single completed result, pairing it with 'mirror'.
-- 'He just wants to cover for me.' Nastya puts the word for 'just' together with 'wants' and 'to cover' in a crisp, natural spoken turn of phrase.
+- 'The boss is arguing with her again.' Nastya is anxious about the ongoing conflict. She sees the Chef fighting with Elena again.
+- 'Come on, Nastya, everything will work out.' Kostya tries to comfort her. He casually assures her that things will resolve themselves.
+- 'Things won't work out for us today either?' Nastya is pessimistic about their plans. She worries this ruins their chances for the evening.
+- 'No, Nastya, you simply promised.' Kostya reminds her of her commitment. He playfully points out that she gave her word.
+- 'Do you want me to go to the boss?' He offers a heroic solution. Kostya volunteers to face the Chef himself.
+- 'I will say that I broke the mirror.' He reveals his plan. Kostya intends to take the blame for the broken mirror.
+- 'Do not do it, he will fire you.' Nastya panics at his suggestion. She warns him that such a move will get him fired.
+- 'I said it, which means I will go.' Kostya stands firm. He insists on following through with his brave promise.
+- 'Kostik, wait, do not go.' Nastya begs him to stop. She desperately asks him to reconsider.
+- 'Boss, it was me who broke your mirror.' Kostya makes his false confession. He steps up and takes the fall.
+- 'No, do not believe him.' Nastya immediately jumps in. She urges the Chef not to listen to Kostya.
+- 'I broke your mirror.' She tells the actual truth. Nastya admits she is the real culprit.
+- 'He just wants to cover for me.' She explains Kostya's lie. Nastya says he was only trying to protect her.

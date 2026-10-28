@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.02'
 SOURCE_FILE = 'sources/kukhnya/s01/e02.ru.dual.srt'
 INTRO = "Summoned from his back office by cleaner Ainura, Chef Viktor Barinov walks into the dining room to meet Elena Sokolova. Elena, the head chef of the competing restaurant Arcobaleno, delivers a surprisingly positive verdict on the fricassee, though she makes sure to criticize the agonizingly long wait. Let's listen to their encounter in Russian first."
 OPENER = "Let's replay a few lines to examine key phrases and vocabulary."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Elena walks out of the restaurant, leaving Barinov puzzled by the mixed compliments. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'to be' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('elena', 'До свидания, шеф-повар.', 'Goodbye, head chef.', [(168, 'До свидания')], ''),
 ]
 WALK = [
-    (3, None, "'How can I be of service?' Viktor asks courteously as he approaches Elena's table."),
-    (6, None, "'You know, I liked it very much.' Elena admits graciously, praising the improvised meal."),
-    (8, None, "'Partridge was left over, and it was a shame to throw it out.' The phrasing opens with 'partridge' before bringing in 'remained' and 'to throw out' to make the point clear."),
-    (11, None, "'Your chef's special took far too long to prepare.' Elena remarks pointedly before leaving. Now listen to the full dining room dialogue once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'How can I be of service?' Barinov asks courteously as he approaches Elena's table."),
+    (1, None, "'You know, I liked it very much.' Elena admits graciously, praising the improvised meal."),
+    (2, None, "'Partridge was left over, and it was a shame to throw it out.' Barinov explains that the partridge was left over and it was a shame to throw it out."),
+    (3, None, "'Your chef's special took far too long to prepare.' Elena remarks pointedly that the dish took far too long to prepare before leaving."),
 ]

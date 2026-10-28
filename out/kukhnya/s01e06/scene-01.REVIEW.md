@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, look at the guests in the dining room.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They are ordering our specialty dishes.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'People come here every evening.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'Everyone chooses their favorite dish.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They do not think about the food's journey.' Kostya remarks on diner unawareness with a negated present verb.
-- 'Which dish travels a long way?' Max asks an open question with a question determiner and adjective.
-- 'Every dish begins its journey at the market.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then the cooks prepare the order in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'The whole kitchen works for one plate.' Kostya emphasizes collective effort with a preposition of purpose.
-- 'The cooks rush very much and get nervous.' Max portrays the kitchen pressure using paired present verbs.
-- 'And guests only see the delicious result.' Kostya contrasts the back of house with the dining experience.
-- 'For them this is a real celebration of taste.' Max concludes with an appreciative metaphor about gastronomy.
-- 'Soon our usual working evening will begin.' Kostya wraps up the chat as service begins with a future verb.
+- 'Max, look at the guests in the dining room.' He gestures toward the dining room, Kostya draws his friend's attention to the crowd.
+- 'They are ordering our specialty dishes.' Max observes the customers confidently picking the restaurant's signature items.
+- 'People come here every evening.' Pointedly, Kostya remarks on the predictable nightly routine of their patrons.
+- 'Everyone chooses their favorite dish.' The young cook notes how diners gravitate toward their preferred meals.
+- 'They do not think about the food's journey.' Laughing softly, Kostya remarks on how little thought customers give to what happens behind the scenes.
+- 'Which dish travels a long way?' Max wonders which menu item demands the most effort from the kitchen.
+- 'Every dish begins its journey at the market.' Reminding him of the basics, Kostya says all culinary creations start with sourcing ingredients.
+- 'Then the cooks prepare the order in the kitchen.' Max chimes in about the intense preparation phase inside the restaurant.
+- 'The whole kitchen works for one plate.' Highlighting the team's dedication, Kostya explains the collective effort required to produce a single perfect serving.
+- 'The cooks rush very much and get nervous.' Max describes the frantic, high-pressure reality of the cooking line.
+- 'And guests only see the delicious result.' Contrasting the back of house, Kostya reflects on the diners' serene experience.
+- 'For them this is a real celebration of taste.' Max appreciates that the end product brings joy to the people eating it.
+- 'Soon our usual working evening will begin.' Wrapping up their chat, Kostya prepares for the dinner rush to hit.

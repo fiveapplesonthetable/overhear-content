@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will not celebrate my birthday.' The little negative word sits right in front of the verb for 'will be', just like 'not' in English.
-- 'And there is no need to gift me anything.' Vika chooses the action verb meaning 'to gift' for the ongoing action, followed by 'it is necessary'.
-- 'Maybe we will just sit with Max.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I did not even know about the holiday.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I just woke up.' Max puts the word for 'only' together with 'wake up' in a crisp, natural spoken turn of phrase.
-- 'And I already brewed coffee.' Here Vika anchors the line on the word meaning 'already' and builds the thought around 'of coffee' and 'to cook'.
-- 'Good morning, thank you for the coffee.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', combining 'good' with 'morning' and 'thank you'.
-- 'And have you not seen my watch?' The '-a' on the end of the past-tense verb for 'saw' tells you the subject is matching. And Vika jumps in.
-- 'Ah, you mean this watch?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'you' straight to 'watch'.
-- 'Maybe buy you a new one?' Vika turns a statement into a question purely through rising intonation on the word meaning 'can', pairing it with 'buy' and 'new'.
-- 'This watch already barely works.' The phrasing opens with 'watch' before bringing in 'already' and 'barely' to make the point clear.
-- 'No, this is my grandfather's antique.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'this' straight to 'antiques'.
+- 'I will not celebrate my birthday.' Vika declares her intention to skip the festivities.
+- 'And there is no need to gift me anything.' Vika explicitly tells him not to buy her anything.
+- 'Maybe we will just sit with Max.' Vika suggests a quiet alternative plan.
+- 'I did not even know about the holiday.' Max admits his complete ignorance of the occasion.
+- 'I just woke up.' Max uses his recent awakening as an excuse.
+- 'And I already brewed coffee.' Vika points out she has already started the day's tasks.
+- 'Good morning, thank you for the coffee.' Max greets her and shows appreciation for her effort.
+- 'And have you not seen my watch?' Max casually shifts the topic to his missing item.
+- 'Ah, you mean this watch?' Vika points out the item in question.
+- 'Maybe buy you a new one?' Vika suggests replacing the old item.
+- 'This watch already barely works.' Vika justifies her suggestion by noting its poor condition.
+- 'No, this is my grandfather's antique.' Max defends the item due to its sentimental family value.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, do not worry so much!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'How not to worry? I lost my sense of taste!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Everything will definitely be fine and calm.' The phrasing opens with 'definitely' before bringing in 'will be' and 'well' to make the point clear.
-- 'I cannot prepare the signature sauce.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will help you, the whole team is with you!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But you do not know the exact recipe.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Direct us, command our every step!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Has the broth already boiled for this sauce?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The broth is ready, and fresh vegetables are chopped.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Who then will taste the finished dish?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will taste everything carefully ourselves!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'To work then, everything will turn out well for us!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Of course, Chef, we will not let you down!' Lyova puts the word for 'of course' together with 'chef' and 'let down' in a crisp, natural spoken turn of phrase.
+- 'Chef, do not worry so much!' Lyova tries to calm his panicked boss. He uses the formal "you" to show respect even in a crisis.
+- 'How not to worry? I lost my sense of taste!' Barinov is absolutely frantic. He cannot imagine cooking without his most important tool.
+- 'Everything will definitely be fine and calm.' Lyova reassures him with soothing words. He acts as the voice of reason for the dramatic chef.
+- 'I cannot prepare the signature sauce.' Barinov feels completely helpless. He is terrified of failing before a big dinner service.
+- 'We will help you, the whole team is with you!' Lyova pledges the kitchen's full support. He reminds the boss that they are all in this together.
+- 'But you do not know the exact recipe.' Barinov is hesitant to trust them with his secret creation. He usually keeps his recipes closely guarded.
+- 'Direct us, command our every step!' Lyova offers to be the chef's hands. He tells Barinov to just give the orders.
+- 'Has the broth already boiled for this sauce?' Barinov tentatively starts managing the process. He checks on the very first step.
+- 'The broth is ready, and fresh vegetables are chopped.' Lyova proudly reports that prep is already done. He shows that the team is fully prepared.
+- 'Who then will taste the finished dish?' Barinov points out the final problem. He still needs a reliable palate to approve the sauce.
+- 'We will taste everything carefully ourselves!' Lyova volunteers the entire staff for the job. He promises they will be extremely thorough.
+- 'To work then, everything will turn out well for us!' Barinov finally regains his confidence. He rallies the team with a burst of energy.
+- 'Of course, Chef, we will not let you down!' Lyova vows to deliver. The phrase for "let down" literally means to lead someone under.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, come here right now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, can I already go to the kitchen?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Wait! Did you cook lunch for the cooks?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes, of course, I already made everything.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Is everything definitely ready? You aren' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Well, almost cooked, very little is left.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are lying to my face again!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, I never lie to you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The lie detector shows something completely different!' Compound subject noun phrase with present verb governing generalized substantive adjective.
-- 'This stupid machine simply broke.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, you are like my own father to me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Quickly run to the kitchen and feed people!' Manner adverb with coordinated imperatives governing directional and direct object complements.
-- 'Understood, chef, I will do everything instantly.' Formal military formula of obedience with future action verb and rapid manner adverb.
+- 'Lavrov, come here right now.' Barinov calls Lavrov to come over right away.
+- 'Chef, can I already go to the kitchen?' Max asks if he can go to the kitchen yet.
+- 'Wait! Did you cook lunch for the cooks?' Barinov stops him and asks if he made lunch for the cooks.
+- 'Yes, of course, I already made everything.' Max confirms he already made everything.
+- 'Is everything definitely ready? You aren' Barinov questions if it is truly ready and if his employee is deceiving him.
+- 'Well, almost cooked, very little is left.' Max clarifies that the meal is almost done.
+- 'You are lying to my face again!' Barinov accuses him of lying straight to his face again.
+- 'Chef, I never lie to you.' Max insists he never lies to his boss.
+- 'The lie detector shows something completely different!' Barinov points out that the lie detector indicates otherwise.
+- 'This stupid machine simply broke.' Max claims the machine just malfunctioned.
+- 'Chef, you are like my own father to me.' Max tries to appeal to their relationship by calling him a father figure.
+- 'Quickly run to the kitchen and feed people!' Barinov orders him to run to the kitchen and feed everyone quickly.
+- 'Understood, chef, I will do everything instantly.' Max agrees to do it instantly.

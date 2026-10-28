@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, I am glad to see you here.' the hostess puts the word for 'good' together with 'day' and 'glad' in a crisp, natural spoken turn of phrase.
-- 'Welcome to our new restaurant.' Here the hostess anchors the line on the word meaning 'good' and builds the thought around 'to welcome' and 'new'.
-- 'Would you like the smoking room or not?' the hostess turns a statement into a question purely through rising intonation on the word meaning 'the hall', followed by 'smokers'.
-- 'Do you have separate sections here?' Chef Barinov uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'here' and 'there is'.
-- 'Yes, we have two dining rooms.' the hostess uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'there is' and 'two'.
-- 'Well now, there are even two rooms!' Here Chef Barinov anchors the line on the word meaning 'it is necessary' and builds the thought around 'two' and 'hall'.
-- 'And the air conditioner works well here too.' The phrasing opens with 'air conditioner' before bringing in 'here' and 'too' to make the point clear.
-- 'This is simply a real palace of an eastern sheikh.' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'real', pairing it with 'palace' and 'eastern'.
-- 'You have very funny jokes today.' the hostess uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'today' and 'very much'.
-- 'We need a regular room for smokers.' Russian omits the present-tense verb 'to be' here, linking 'is needed' directly with 'simple', pairing it with 'the hall' and 'smokers'.
-- 'Very well, please follow me.' the hostess uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'good' and 'beg'.
-- 'Thank you very much, we are following you.' Chef Barinov expresses this naturally by combining the word for 'big' with 'thank you' and 'are going'.
-- 'Here is your comfortable table by the window.' Russian omits the present-tense verb 'to be' here, linking 'comfortable' directly with 'table', combining 'comfortable' with 'table' and 'window'.
-- 'Great, bring us the menu, please.' Chef Barinov leads with the direct command form meaning 'bring', pairing it with 'perfect' and 'menu'.
+- 'Good afternoon, I am glad to see you here.' The hostess greets them warmly, setting a welcoming tone right from the start.
+- 'Welcome to our new restaurant.' She continues by formally introducing them to the new establishment.
+- 'Would you like the smoking room or not?' To figure out where they should sit, the hostess asks a direct question about their preferences.
+- 'Do you have separate sections here?' Barinov sounds a bit skeptical as he asks about the seating arrangements.
+- 'Yes, we have two dining rooms.' The hostess replies clearly, confirming the restaurant layout.
+- 'Well now, there are even two rooms!' Barinov lays on the sarcasm thick, acting overly impressed by the basic amenities.
+- 'And the air conditioner works well here too.' He continues mocking the place by pointing out something as trivial as the air conditioning.
+- 'This is simply a real palace of an eastern sheikh.' Barinov takes his sarcastic praise to the extreme by comparing the dining room to a royal residence.
+- 'You have very funny jokes today.' The hostess remains polite but gently acknowledges his obvious mockery.
+- 'We need a regular room for smokers.' Barinov drops the act and bluntly states what they actually require.
+- 'Very well, please follow me.' She stays professional and asks them to walk with her.
+- 'Thank you very much, we are following you.' Barinov responds with feigned politeness as they head to their table.
+- 'Here is your comfortable table by the window.' The hostess gestures to their spot, highlighting its pleasant location.
+- 'Great, bring us the menu, please.' Barinov demands the menu immediately, wanting to get straight to business.

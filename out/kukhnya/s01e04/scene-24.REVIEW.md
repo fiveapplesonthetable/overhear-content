@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, wait a minute!' Vika rushes out to stop Max before he leaves.
-- 'Vika? What happened?' Max turns around in surprise with his packed bag.
-- 'You are not leaving anywhere.' The dining room director delivers the surprising news.
-- 'But the chef just fired me.' Max expresses this naturally by combining the word for 'boss' with 'to fire'.
-- 'I spoke with the chef.' Vika reveals that she intervened on his behalf.
-- 'And what did he tell you?' Max delivers a punchy one-word reaction built around the Russian word meaning 'to say'.
-- 'He allowed you to stay in the kitchen.' Vika uses the action verb meaning 'to allow' to focus on the single completed result, pairing it with 'to remain' and 'kitchen'.
-- 'Really? You saved me!' Max expresses this naturally by combining the word for 'truth' with 'to save'.
-- 'Just do not make stupid mistakes anymore.' Vika puts the word for 'more' together with 'to commit' and 'stupid' in a crisp, natural spoken turn of phrase.
-- 'I promise, I will work very diligently.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Return to your work station.' Vika instructs him to get back to the kitchen.
-- 'Thank you very much for your help, Vika!' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'huge', combining 'thank you' with 'huge' and 'help'.
-- 'Go, before the chef changes his mind.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I got a second chance!' Max celebrates his narrow escape from being fired.
+- 'Max, wait a minute!' Vika asks Max to wait a minute.
+- 'Vika? What happened?' Max turns around to see what she wants.
+- 'You are not leaving anywhere.' Vika tells him he is not going anywhere.
+- 'But the chef just fired me.' Max reminds her that he just got fired.
+- 'I spoke with the chef.' Vika reveals she spoke with the boss.
+- 'And what did he tell you?' Max asks about the outcome of that conversation.
+- 'He allowed you to stay in the kitchen.' Vika announces he is allowed to stay in the kitchen.
+- 'Really? You saved me!' Max expresses immense gratitude for being saved.
+- 'Just do not make stupid mistakes anymore.' Vika warns him not to make stupid mistakes anymore.
+- 'I promise, I will work very diligently.' Max promises to work very diligently.
+- 'Return to your work station.' Vika instructs him to return to his work station.
+- 'Thank you very much for your help, Vika!' Max thanks her again for the help.
+- 'Go, before the chef changes his mind.' Vika tells him to go before the boss changes his mind.
+- 'I got a second chance!' Max celebrates getting a second chance.

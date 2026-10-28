@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is hard to fix the mistakes of deceit.' Max puts the word for 'difficult' together with 'to fix' and 'mistakes' in a crisp, natural spoken turn of phrase.
-- 'A lie always creates a new lie.' Here Kostya anchors the line on the word meaning 'lie' and builds the thought around 'always' and 'creates'.
-- 'And finding an exit can be impossible.' Max uses the action verb meaning 'to find' to focus on the single completed result, pairing it with 'way out' and 'there can be'.
-- 'The main thing is to speak the truth.' Kostya expresses this naturally by combining the word for 'important' with 'to talk' and 'truth'.
-- 'One must believe in one's strength.' Max puts the word for 'it is necessary' together with 'to believe' and 'strength' in a crisp, natural spoken turn of phrase.
-- 'And believe in your true self.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I want to start everything over.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You can fix everything, Max.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am starting everything with a clean slate.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You have a good future ahead.' Kostya uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'ahead' and 'lovely'.
-- 'Your destiny depends only on you.' The phrasing opens with 'fate' before bringing in 'depends' and 'only' to make the point clear.
-- 'We believe in you, friend.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Thank you, Kostya, for your support.' Russian omits the present-tense verb 'to be' here, linking 'thank you' directly with 'support' to make the point directly in conversation.
+- 'It is hard to fix the mistakes of deceit.' Max reflects on the difficulty of undoing the damage caused by his actions.
+- 'A lie always creates a new lie.' Kostya points out how dishonesty tends to multiply.
+- 'And finding an exit can be impossible.' Max expresses a feeling of being trapped by his own choices.
+- 'The main thing is to speak the truth.' Kostya offers a simple, guiding principle for moving forward.
+- 'One must believe in one's strength.' Max talks about the importance of self-reliance.
+- 'And believe in your true self.' Kostya adds that authenticity is just as vital.
+- 'I want to start everything over.' Max declares his intention to wipe the slate clean.
+- 'You can fix everything, Max.' Kostya offers encouragement, assuring him that redemption is possible.
+- 'I am starting everything with a clean slate.' Max reiterates his commitment to a fresh start.
+- 'You have a good future ahead.' Kostya speaks optimistically about what lies ahead.
+- 'Your destiny depends only on you.' Max acknowledges that he is in control of his own path.
+- 'We believe in you, friend.' Kostya offers a final word of solidarity and support.
+- 'Thank you, Kostya, for your support.' Max expresses sincere gratitude for the comforting words.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, can the cooks go smoke?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you mad? Plenty of orders!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But there are no meat orders now.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then quickly switch over to poultry!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The cooks are very tired from this work.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'No smoke breaks, everyone stays in the kitchen!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You are too strict with our team.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I need you to work excellently!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The kitchen has run out of fresh arugula.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Lyova, quickly bring arugula from the storeroom!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am a sous-chef, not a courier!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I decide myself who will go there!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Fine, Chef, I will bring this greenery.' Concessive agreement word followed by a future everyday commitment.
+- 'Chef, can the cooks go smoke?' Lyova asks for a simple break, expecting the usual relaxed kitchen atmosphere.
+- 'Are you mad? Plenty of orders!' Elena reacts with pure outrage, pointing to the endless stream of waiting orders.
+- 'But there are no meat orders now.' He tries to justify the request logically by noting a lull in his specific station.
+- 'Then quickly switch over to poultry!' Elena demands absolute efficiency, ordering him to immediately pivot to a different task.
+- 'The cooks are very tired from this work.' Lyova attempts to appeal to her sympathy, explaining the crew's exhaustion.
+- 'No smoke breaks, everyone stays in the kitchen!' She completely shuts down any talk of rest, enforcing a strict lockdown on the line.
+- 'You are too strict with our team.' He bravely calls out her dictatorial management style right to her face.
+- 'I need you to work excellently!' Elena does not care about being liked, only about achieving flawless culinary results.
+- 'The kitchen has run out of fresh arugula.' Lyova reports a missing ingredient, expecting someone else to handle the logistics.
+- 'Lyova, quickly bring arugula from the storeroom!' She barks a direct order at him to fetch it himself from the basement.
+- 'I am a sous-chef, not a courier!' Lyova protests the severe demotion, insulted that a sous-chef is being sent on errands.
+- 'I decide myself who will go there!' Elena brutally reminds him that her word is absolute law in this kitchen.
+- 'Fine, Chef, I will bring this greenery.' Defeated, he bites his tongue and accepts the humiliating task.

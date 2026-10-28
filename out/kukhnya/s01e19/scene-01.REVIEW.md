@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did I wake you?' Vika asks this with a single word meaning 'to wake up', using rising intonation to turn it into a quick question.
-- 'Please forgive me.' Max uses a direct command command form of the verb meaning 'sorry'. Then Vika responds.
-- 'Where were you, anyway?' The phrasing opens with 'where' before bringing in 'at all' and 'was' to make the point clear.
-- 'What is this, an interrogation?' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'interrogation', combining 'here' with 'interrogation'.
-- 'You think you can wander off anywhere?' the self-directed ending on the verb for 'wander' turns the action back onto the subject.
-- 'And stroll in at three o'clock?' Vika turns a statement into a question purely through rising intonation on the word meaning 'to come', pairing it with 'three' and 'hours'.
-- 'Quarter to.' Max delivers a punchy one-word reaction built around the Russian word meaning 'fifteen'.
-- 'What kind of relationship do we have?' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have' around the word meaning 'relations'.
-- 'We have an open relationship.' Max uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'free' with 'relations'.
-- 'Everything is fine.' Max delivers a punchy one-word reaction built around the Russian word meaning 'good'.
-- 'Since we have an open relationship,' Vika uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'time' with 'free' and 'relations'.
-- 'You are free for tonight.' Vika uses the informal everyday 'you' here with 'free', as friends and close colleagues do.
+- 'Did I wake you?' Vika is jolted awake and asks this with a single word, using rising intonation to express her annoyance.
+- 'Please forgive me.' Max begs for forgiveness using a direct command form, hoping to calm her down.
+- 'Where were you, anyway?' Vika demands to know his whereabouts, adding a word meaning 'at all' to emphasize her frustration.
+- 'What is this, an interrogation?' Max gets defensive and calls her questioning an interrogation, dropping the verb 'to be' which is typical in spoken Russian.
+- 'You think you can wander off anywhere?' Vika calls him out for wandering around late at night, using a reflexive ending to highlight his irresponsible behavior.
+- 'And stroll in at three o'clock?' Vika points out the absurdly late hour of his arrival, turning her statement into a sharp question with rising intonation.
+- 'Quarter to.' Max stubbornly corrects her on the exact time, literally saying 'without fifteen' to mean a quarter to the hour.
+- 'What kind of relationship do we have?' Vika questions the nature of their bond, using the literal phrasing 'at us' instead of a verb for possession.
+- 'We have an open relationship.' Max casually reminds her that they agreed to be uncommitted, using the word for 'free' to describe their relationship status.
+- 'Everything is fine.' Max tries to brush off the conflict, assuring her that everything is perfectly fine.
+- 'Since we have an open relationship,' Vika seizes upon his own words about their open status to turn the argument against him.
+- 'You are free for tonight.' Vika throws him out for the night, cleverly using the same word 'free' to tell him he is dismissed.

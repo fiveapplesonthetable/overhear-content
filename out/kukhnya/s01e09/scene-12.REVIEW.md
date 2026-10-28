@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, the girl is not in the bathroom either.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Where can she possibly be right now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She definitely did not leave the restaurant building.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Did you check recordings from all interior cameras?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'The interior cameras were ordered to be turned off this morning.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What foolish person thought of doing that?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You gave such a strange order yourself, Chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Now it definitely cannot get any worse.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Her mother is calling you on the phone, Chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Hello, Tanya, everything is fine with our daughter.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We will turn the whole kitchen upside down and find her!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Get out of here with your foolish advice!' Idiomatic past command form motion expression with directional adverb and matching form matching form.
+- 'Chef, the girl is not in the bathroom either.' Running back from the restrooms, Fedya reports to the chef that the girl is not in there either.
+- 'Where can she possibly be right now?' Barinov paces in panic, wondering where on earth his daughter could have gone.
+- 'She definitely did not leave the restaurant building.' Fedya reassures him that she definitely did not walk out of the restaurant building.
+- 'Did you check recordings from all interior cameras?' Viktor asks if they checked the footage from the indoor security cameras.
+- 'The interior cameras were ordered to be turned off this morning.' Fedya reminds him that someone ordered the indoor cameras switched off this morning.
+- 'What foolish person thought of doing that?' Furious, Barinov demands to know what idiot came up with the idea of turning them off.
+- 'You gave such a strange order yourself, Chef.' Fedya sheepishly reminds the chef that Viktor himself gave that order earlier.
+- 'Now it definitely cannot get any worse.' Groaning at his own mistake, Viktor mutters that things cannot possibly get any worse.
+- 'Her mother is calling you on the phone, Chef.' Right on cue, Fedya hands him the phone and says Alisa's mother is calling.
+- 'Hello, Tanya, everything is fine with our daughter.' Putting on a cheerful voice, Barinov answers and lies to his ex-wife that everything is fine with their daughter.
+- 'We will turn the whole kitchen upside down and find her!' Trying to help, Fedya whispers loudly that the crew will turn the kitchen upside down to find her.
+- 'Get out of here with your foolish advice!' Terrified that Tanya will hear Fedya over the phone, Viktor snaps at him to get lost.

@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.09'
 SOURCE_FILE = 'sources/kukhnya/s01/e09.ru.dual.srt'
 INTRO = "In the elegant dining room of Claude Monet, art director Victoria tries her best to entertain Chef Barinov's outspoken young daughter Alisa. After the little girl makes hilariously blunt remarks to arriving diners, Chef Barinov appears and immediately heads to the kitchen to demand speed. Let's listen to their lively exchanges in Russian."
 OPENER = "Let's examine how Victoria and young Alisa welcome guests before Chef Barinov inspects the kitchen."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Now you know how to talk about welcoming restaurant guests, childish frankness, and urgent kitchen instructions in Russian. Listen for these conversational patterns in the upcoming scene. Next time you watch the episode, listen for the Russian expressions for 'dish' and 'faster' — you will catch every word right away. See you next time!"
 CLOSING = ('barinov', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('vika', 'Твой папа — настоящий хозяин кухни.', 'Your dad is the true master of the kitchen.', [(236, 'Папина дочка')], ''),
 ]
 WALK = [
-    (1, None, "'Hello, is that your girlfriend?' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation."),
-    (2, None, "'Alisa, behave decently with the guests.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (7, None, "'First I will check our cooks' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (10, None, "'Move faster, the guests have been waiting long for the order.' A brisk command form followed by an explanation of customer delays for the team. Now, let's hear the lively dining room and kitchen dialogue once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Hello, is that your girlfriend?' Despite promising to sit quietly, Alisa walks right up to a guest and asks if the woman with him is his girlfriend."),
+    (1, None, "'Alisa, behave decently with the guests.' Mortified, Vika hurries over and tells Alisa to behave properly around the diners."),
+    (2, None, "'First I will check our cooks' When Barinov arrives, he says he will check on how the cooks are doing first."),
+    (3, None, "'Move faster, the guests have been waiting long for the order.' Stepping into the kitchen, the chef barks at the crew to move faster because the guests are waiting. Now, let's hear the lively dining room and kitchen dialogue once more."),
 ]

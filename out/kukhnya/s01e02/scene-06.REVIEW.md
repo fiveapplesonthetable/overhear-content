@@ -28,17 +28,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'So this is what this system looks like.' Max inspects the computerized cash register at the bar.
-- 'I thought it was just a cash register.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Make two espressos, please.' Nastya arrives at the bar with a beverage order.
-- 'What are you doing here?' Surprised to find a kitchen helper standing behind the bar counter.
+- 'I thought it was just a cash register.' Max thought it was just a simple cash register.
+- 'Make two espressos, please.' Nastya arrives at the counter with a beverage order.
+- 'What are you doing here?' Nastya is surprised to find a kitchen helper standing behind the bar.
 - 'And I am now the new bartender.' Max confidently invents a new position for himself.
-- 'Oh, stop making things up.' Here Nastya anchors the line on the word meaning 'all right' and builds the thought around 'to make up'.
-- 'I saw you in the kitchen.' The phrasing opens with 'kitchen' before bringing in 'saw' to make the point clear.
-- 'You are a cook after all.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'cook'.
-- 'I have very many talents.' Max uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', combining 'very' with 'many' and 'talents'.
-- 'And at heart I am a bartender.' A poetic Russian idiom meaning deep down inside his soul.
-- 'Did Kostya already fix the machine?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'already', pairing it with 'fixed' and 'machine'.
-- 'Of course, everything works wonderfully.' Max expresses this naturally by combining the word for 'of course' with 'wonderfully' and 'works'.
-- 'Then make coffee faster.' Nastya leads with the direct command form meaning 'brew', pairing it with 'then' and 'faster'.
-- 'Right away.' An idiom literally meaning 'this very second'.
-- 'Everything will be ready.' Max chooses the action verb meaning 'will be' for the ongoing action, followed by 'ready'. Now let's listen to the whole conversation again from start to finish.
+- 'Oh, stop making things up.' Nastya tells him to stop making things up.
+- 'I saw you in the kitchen.' Nastya mentions she saw him working in the kitchen.
+- 'You are a cook after all.' Nastya points out that he is a cook after all.
+- 'I have very many talents.' Max boasts that he has very many talents.
+- 'And at heart I am a bartender.' Max claims that deep down inside his soul he is a bartender.
+- 'Did Kostya already fix the machine?' Nastya asks if Kostya has already fixed the machine.
+- 'Of course, everything works wonderfully.' Max confirms that everything works wonderfully.
+- 'Then make coffee faster.' Nastya tells him to make the coffee faster.
+- 'Right away.' Max promises to do it this very second.
+- 'Everything will be ready.' Max assures her that everything will be ready soon.

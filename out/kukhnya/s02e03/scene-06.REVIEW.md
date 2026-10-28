@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, this is a leather belt.' Notice the word order: 'look' comes first, and 'belt' finishes the sentence. Then Senya replies.
-- 'Why do you have it in the kitchen?' The key word here means 'what for', which Senya combines with 'he'.
-- 'I am going to eat it.' The first content word means 'I', and 'there is' rounds out the thought.
-- 'Is it a leather belt?' Senya starts with 'this' and pairs it with 'leather' to make the point clear.
-- 'It is very long.' The key word here means 'he', which Senya combines with 'very much'.
-- 'I am a chef.' Fedya starts with 'I' and pairs it with 'chef' to make the point clear.
-- 'I will cook it and eat it.' Fedya puts 'I' up front so the listener immediately catches the tone, followed by 'will prepare'. Senya answers straight away.
-- 'Nobody eats belts.' In Russian, 'nobody' leads into 'belt' in a very natural everyday phrasing.
-- 'But I will.' Here 'I' sets up the idea, while 'will be' comes at the end for emphasis.
-- 'All right, cook it.' You'll hear 'good' all the time in the show, here connected with 'prepare'.
-- 'I will watch this.' Notice the word order: 'I' comes first, and 'this' finishes the sentence.
-- 'It will be very delicious.' Listen for the word meaning 'this' right alongside 'will be' in this line. Let's hear it again.
+- 'Look, this is a leather belt.' Holding up the strap at his station, Fedya shows off the leather belt. Then Senya replies.
+- 'Why do you have it in the kitchen?' Senya teases him by asking why he has a belt on a kitchen prep table.
+- 'I am going to eat it.' Fedya declares stubbornly that he is about to cook and eat it.
+- 'Is it a leather belt?' Senya double-checks that it is genuine, tough leather.
+- 'It is very long.' He points out that the belt is very long too.
+- 'I am a chef.' Fedya puffs out his chest and reminds Senya that he is a professional chef.
+- 'I will cook it and eat it.' He vows to prepare the leather like a proper dish and eat every bite. Senya answers straight away.
+- 'Nobody eats belts.' Senya laughs that nobody in the world eats leather belts.
+- 'But I will.' Fedya retorts that he is going to be the first.
+- 'All right, cook it.' Amused, Senya tells him to go ahead and start cooking.
+- 'I will watch this.' He says he cannot wait to watch this spectacle.
+- 'It will be very delicious.' Putting on a brave face, Fedya claims the belt is going to taste delicious. Let's hear it again.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now you are in deep trouble, lad.' Chef Barinov puts the word for 'badly' together with 'got into trouble' and 'lad' in a crisp, natural spoken turn of phrase.
-- 'Chef, believe me, it just happened accidentally.' Max leads with the direct command form meaning 'believe me', pairing it with 'so' and 'accidentally'.
-- 'You had to think with your head in advance.' The phrasing opens with 'it was necessary' before bringing in 'was' and 'in advance' to make the point clear.
-- 'What am I to do now?' Max expresses this naturally by combining the word for 'now' with 'to do'.
-- 'Their family will not leave you alone now.' Chef Barinov puts the word for 'family' together with 'now' and 'will leave alone' in a crisp, natural spoken turn of phrase.
-- 'Do you know this family so well?' Max turns a statement into a question purely through rising intonation on the word meaning 'so', pairing it with 'well' and 'know'.
-- 'I myself used to live in this family.' The phrasing opens with 'earlier' before bringing in 'lived' and 'family' to make the point clear.
-- 'And did they drive you out of the house?' Max turns a statement into a question purely through rising intonation on the word meaning 'threw out', followed by 'house'.
-- 'They took all strength from me.' Chef Barinov uses the classic Russian possession phrasing — literally 'at me' rather than a verb meaning 'to have', pairing it with 'took away' and 'forces'.
-- 'Maybe I should just leave for Voronezh?' Max turns a statement into a question purely through rising intonation on the word meaning 'maybe', pairing it with 'simply' and 'to leave'.
-- 'You will not go anywhere now.' The phrasing opens with 'nowhere' before bringing in 'now' and 'will go' to make the point clear.
-- 'But I am very afraid of such responsibility.' Max expresses this naturally by combining the word for 'very' with 'fear' and 'responsibility'.
-- 'A man is obliged to answer for his actions.' Chef Barinov puts the word for 'man' together with 'obliged' and 'to answer' in a crisp, natural spoken turn of phrase.
+- 'Now you are in deep trouble, lad.' Barinov plainly builds some meaning through combining 'now' with 'deep' and 'lad'.
+- 'Chef, believe me, it just happened accidentally.' Max warmly gives such idea by combining 'chef' and 'just' along with 'accidentally'.
+- 'You had to think with your head in advance.' Barinov warmly draws some feeling by combining 'you' with 'with' and 'advance'.
+- 'What am I to do now?' Max neatly draws this point through pairing 'what' with 'do' plus 'now'.
+- 'Their family will not leave you alone now.' Speaking as Vika's former brother-in-law, Viktor warns that her family will never let him off the hook.
+- 'Do you know this family so well?' Max simply gives some view by connecting 'do' with 'this' along with 'well'.
+- 'I myself used to live in this family.' Barinov calmly shapes the thought through pairing 'i' with 'live' and 'family'.
+- 'And did they drive you out of the house?' Max plainly shapes the message through matching 'and' and 'drive' along with 'house'.
+- 'They took all strength from me.' Barinov boldly shares this view through grouping 'they' with 'strength' plus 'me'.
+- 'Maybe I should just leave for Voronezh?' Max clearly shares that image by blending 'maybe' with 'just' as well as 'voronezh'.
+- 'You will not go anywhere now.' Barinov warmly casts such picture through connecting 'you' and 'go' and 'now'.
+- 'But I am very afraid of such responsibility.' Max boldly shows such concept through grouping 'but' and 'afraid' and 'responsibility'.
+- 'A man is obliged to answer for his actions.' Barinov simply builds this image by combining 'man' and 'for' and 'actions'.

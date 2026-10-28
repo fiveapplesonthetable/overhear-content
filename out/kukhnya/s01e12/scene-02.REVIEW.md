@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ouch! How it hurts me in the stomach!' Russian omits the present-tense verb 'to be' here, linking 'ouch' directly with 'how', pairing it with 'hurts' and 'stomach'.
-- 'Max, what is it? Does it hurt you a lot?' Russian omits the present-tense verb 'to be' here, linking 'a lot' directly with 'hurts' to make the point directly in conversation.
-- 'I do not know what this is.' Max delivers a punchy conversational reaction built around the Russian word meaning 'know'.
-- 'Oh, on the right side this is very bad!' Russian omits the present-tense verb 'to be' here, linking 'oh' directly with 'right', pairing it with 'side' and 'very'.
-- 'My god, how much it hurts me now.' Russian omits the present-tense verb 'to be' here, linking 'God' directly with 'how', pairing it with 'now' and 'hurts'.
-- 'Let me quickly call a doctor for you.' Here Vika anchors the line on the word meaning 'quickly' and builds the thought around 'will call' and 'doctor'.
-- 'No, seriously, do not call doctors.' The phrasing opens with 'seriously' before bringing in 'must' and 'to call' to make the point clear.
-- 'Why? You need urgent help after all.' Russian omits the present-tense verb 'to be' here, linking 'why' directly with 'needed', pairing it with 'urgent' and 'help'.
-- 'Look, here are two tickets to the cinema.' Max leads with the direct command form meaning 'look', pairing it with 'two' and 'tickets'.
-- 'Well you are a jerk, honestly!' Russian omits the present-tense verb 'to be' here, linking 'jerk' directly with 'honest', followed by 'word'.
-- 'Shall we go to the cinema tonight, eh?' Max turns a statement into a question purely through rising intonation on the word meaning 'shall we go', pairing it with 'cinema' and 'today'.
-- 'You are a real idiot, I will not go anywhere!' Vika expresses this naturally by combining the word for 'real' with 'idiot' and 'nowhere'.
-- 'Alright, then I will go to the cinema alone.' Max puts the word for 'alright' together with 'then' and 'will go' in a crisp, natural spoken turn of phrase.
+- 'Ouch! How it hurts me in the stomach!' Max cries out because his stomach hurts a lot. Literally he says how it is painful to me in the stomach.
+- 'Max, what is it? Does it hurt you a lot?' Vika asks Max what is wrong and if he is in a lot of pain.
+- 'I do not know what this is.' Max says he does not know what is happening to him.
+- 'Oh, on the right side this is very bad!' Vika worries because pain on the right side can be dangerous.
+- 'My god, how much it hurts me now.' Max groans about how much pain he is feeling right now.
+- 'Let me quickly call a doctor for you.' Vika offers to get a doctor for him right away.
+- 'No, seriously, do not call doctors.' Max tells her not to call any doctors. He is pretending to be sick.
+- 'Why? You need urgent help after all.' Vika asks why because she thinks he needs help right now.
+- 'Look, here are two tickets to the cinema.' Max suddenly shows her two movie tickets. His pain was just a trick.
+- 'Well you are a jerk, honestly!' Vika calls him a jerk for tricking her. She is really annoyed.
+- 'Shall we go to the cinema tonight, eh?' Max invites her to the movies for tonight.
+- 'You are a real idiot, I will not go anywhere!' Vika refuses to go anywhere with him because he acted like an idiot.
+- 'Alright, then I will go to the cinema alone.' Max says he will just go to the movies by himself then.

@@ -28,14 +28,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Sorry, mom, I was very late today.' the speaker leads with the direct command form meaning 'sorry', pairing it with 'mom' and 'very'.
 - 'Why did you come home so late?' Here the speaker anchors the line on the word meaning 'why' and builds the thought around 'came' and 'so'.
-- 'I walked for a long time with my friends.' The phrasing opens with 'for a long time' before bringing in 'walked' and 'friends' to make the point clear.
-- 'You got lucky that dad is sleeping.' the speaker uses the action verb meaning 'were lucky' to focus on the single completed result, pairing it with 'dad' and 'is sleeping'.
+- 'I walked for a long time with my friends.' Son opens with 'for a long time' before bringing in 'walked' and 'friends' to make the point clear.
+- 'You got lucky that dad is sleeping.' Mother uses the word for 'were lucky' to focus on the completed action, pairing it with 'dad' and 'is sleeping'.
 - 'Is dad really angry with me?' the speaker turns a statement into a question purely through rising intonation on the word meaning 'dad', followed by 'is angry'.
 - 'Dad lost all our money again.' Here the speaker anchors the line on the word meaning 'dad' and builds the thought around 'again' and 'lost'.
 - 'Did he play with our money again?' the speaker turns a statement into a question purely through rising intonation on the word meaning 'again', pairing it with 'played' and 'money'.
-- 'Yes, he placed bets on football.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
+- 'Yes, he placed bets on football.' Mother expresses the thought naturally and directly.
 - 'And his favorite team lost again?' the speaker turns a statement into a question purely through rising intonation on the word meaning 'favorite', pairing it with 'team' and 'again'.
 - 'Yes, his favorite Spartak lost again.' Here the speaker anchors the line on the word meaning 'favorite' and builds the thought around 'again' and 'lost'.
-- 'Now do we have no money at all?' the speaker uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'now' and 'at all'.
+- 'Now do we have no money at all?' Son uses the classic style — literally 'at us' rather than a word for 'to have', pairing it with 'now' and 'at all'.
 - 'It is alright, son, we will cope with everything.' the speaker expresses this naturally by combining the word for 'never mind' with 'son' and 'will cope'.
 - 'Tomorrow I will find myself a good job.' the speaker puts the word for 'tomorrow' together with 'will find' and 'good' in a crisp, natural spoken turn of phrase.

@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Having some tea, Viktor Petrovich?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'tea' straight to 'Petrovich'.
-- 'That is right.' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'right'.
-- 'You must work.' The phrasing opens with 'must' before bringing in 'to work' to make the point clear.
-- 'This is simply outrageous.' Russian omits the present-tense verb 'to be', connecting 'this' directly with 'outrageous'. Now let's listen to the whole conversation again from start to finish.
+- 'Having some tea, Viktor Petrovich?' Igor catches Barinov relaxing with his 'tea' and asks sarcastically if he is enjoying himself.
+- 'That is right.' Tipsy from the cognac in the teapot, Viktor cheerfully agrees.
+- 'You must work.' Igor sternly reminds the chef that he is supposed to be working.
+- 'This is simply outrageous.' The new boss calls Viktor's behavior during service completely outrageous.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is my loofah, and this one is Kostya's.' Russian omits the present-tense verb 'to be' here, linking 'loofah' directly with 'Kostya's', combining 'loofah' with 'Kostya's'.
-- 'Hey, guys, let us go to the cinema?' Max leads with the direct command form meaning 'let's', pairing it with 'listen here' and 'the people'.
-- 'Max, we have been sleeping for a long time.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Yes. More precisely, we were sleeping.' Nastya expresses this naturally by combining the word for 'definitely' with 'were sleeping'.
-- 'Well, let us go later together.' Max leads with the direct command form meaning 'let's', pairing it with 'later' and 'go'.
-- 'You see that we are resting.' Kostya chooses the action verb meaning 'see' for the ongoing action, followed by 'are resting'.
-- 'Go to sleep, please, Max!' Nastya leads with the direct command form meaning 'go', followed by 'to sleep'.
-- 'Well, understood, I am going to my room.' Max expresses this naturally by combining the word for 'clear' with 'am leaving'.
-- 'That is it, I cannot take this anymore!' Nastya puts the word for 'more' together with 'can' in a crisp, natural spoken turn of phrase.
-- 'Nastya, calm down, he is just our friend.' Kostya leads with the direct command form meaning 'calm down', pairing it with 'just' and 'friend'.
-- 'He constantly walks into our room!' The phrasing opens with 'constantly' before bringing in 'enters' and 'the room' to make the point clear.
-- 'I want Max to move out of here!' Nastya chooses the action verb meaning 'want' for the ongoing action, followed by 'move out' and 'from here'.
+- 'This is my loofah, and this one is Kostya's.' Nastya attempts to establish some boundaries in the shared bathroom by clearly labeling their personal items.
+- 'Hey, guys, let us go to the cinema?' Max busts into the room with casual energy, throwing out a spontaneous invitation to hang out.
+- 'Max, we have been sleeping for a long time.' Waking up groggy, the speaker tries to explain that they were already in the middle of resting.
+- 'Yes. More precisely, we were sleeping.' She sharply corrects her boyfriend's phrasing, making it clear they were interrupted.
+- 'Well, let us go later together.' He is unfazed by their annoyance, simply suggesting to push the plan back to a different time.
+- 'You see that we are resting.' Pointing out the obvious, Kostya tries to make their clueless friend understand they want to be left alone.
+- 'Go to sleep, please, Max!' Losing her patience, she delivers a direct command for him to leave and go to bed.
+- 'Well, understood, I am going to my room.' Finally taking the hint, the intruder agrees to back off and head to his own space.
+- 'That is it, I cannot take this anymore!' Hitting her breaking point, she bursts out with total frustration over the lack of privacy.
+- 'Nastya, calm down, he is just our friend.' Trying to defuse the situation, he gently reminds her that their roommate means no harm.
+- 'He constantly walks into our room!' She angrily highlights the main issue, pointing out his annoying habit of entering without asking.
+- 'I want Max to move out of here!' Reaching her limit, Nastya firmly states her ultimate demand to resolve the living situation.

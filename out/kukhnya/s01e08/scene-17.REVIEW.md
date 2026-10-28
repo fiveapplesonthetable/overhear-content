@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are all I have left, dear Arkasha.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, why are you sitting here in the dark?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'My fish is the only loyal organism in the world.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'But our entire kitchen misses you very much!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'All the cooks in the kitchen are true traitors.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They just got scared of the new strict order.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'They gladly abandoned their old chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'We all sincerely love only you, chef.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Only Arkasha listens to me attentively and keeps quiet.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I will not go anywhere out of this office.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then I will bring you some hot tea here.' Consequential adverb with subject word, future everyday verb, matching form word, partitive matching form noun phrase, and everyday adverb.
+- 'You are all I have left, dear Arkasha.' Barinov leans over his fishbowl, feeling entirely abandoned by his human staff.
+- 'Chef, why are you sitting here in the dark?' Lyova finds him sulking in the shadows and wants to understand his gloomy mood.
+- 'My fish is the only loyal organism in the world.' The head chef bitterly concludes that only a silent pet can be trusted.
+- 'But our entire kitchen misses you very much!' The sous-chef tries to reassure his boss that the team still needs him.
+- 'All the cooks in the kitchen are true traitors.' Barinov refuses to listen, firmly believing everyone has turned their backs on him.
+- 'They just got scared of the new strict order.' Lyova explains that the crew was simply intimidated by Elena's harsh demands.
+- 'They gladly abandoned their old chef.' He takes their compliance with the guest chef as a deeply personal betrayal.
+- 'We all sincerely love only you, chef.' Lyova declares their unwavering devotion, hoping to pull him out of his misery.
+- 'Only Arkasha listens to me attentively and keeps quiet.' Barinov praises his goldfish for never talking back or following other orders.
+- 'Let' Lyova tries a practical approach, hoping a culinary emergency will spark some action.
+- 'I will not go anywhere out of this office.' Barinov stubbornly plants himself in his chair, refusing to step foot outside.
+- 'Then I will bring you some hot tea here.' The loyal sous-chef gives up and offers to serve him right there.

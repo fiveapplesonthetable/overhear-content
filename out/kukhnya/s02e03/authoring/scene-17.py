@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S2.03'
 SOURCE_FILE = 'sources/kukhnya/s02/e03.ru.dual.srt'
 INTRO = "At Claude Monet, a demanding guest complains about his food and demands to see the chef. A demanding guest sits in the restaurant and waits for someone to assist him. He becomes increasingly annoyed by the lack of attention and decides to call a waiter. Let's listen closely to the conversation in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around A Dissatisfied Guest line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "The waiter quickly approaches the unhappy customer to resolve the problem and calm him down. Next time you watch the episode, listen for the Russian expressions for 'girl' and 'may' — you will catch every word right away. See you next time!"
 CLOSING = ('max', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('max', 'Я передам вашу просьбу.', 'I will pass on your request.', [], ''),
 ]
 WALK = [
-    (2, None, "'We have a problem with our order.' the guest uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', pairing it with 'problem' and 'order'."),
-    (4, None, "'I asked for no onions.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'Excuse me.' the guest delivers a punchy conversational reaction built around the Russian word meaning 'respected'."),
-    (11, None, "'I want to speak with the chef.' the guest chooses the action verb meaning 'want' for the ongoing action, followed by 'to talk' and 'as a cook'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'We have a problem with our order.' In the dining room, an irritable customer flags down the staff about a problem with his order."),
+    (1, None, "'I asked for no onions.' He complains that he specifically asked for his dish without onions."),
+    (2, None, "'Excuse me.' the guest delivers a punchy conversational reaction built around the Russian word meaning 'respected'."),
+    (3, None, "'I want to speak with the chef.' Still unhappy with the service, the guest demands to speak with the chef in person."),
 ]

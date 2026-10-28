@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet everyone, I need complete silence!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Chef, we have already turned off all noisy equipment.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Be quiet, I demand absolute calm in the kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'All the cooks fell silent and are standing in place.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Do not breathe, I want to hear every quiet sound.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you sure our little guest is here?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'She definitely hid somewhere in this dining room.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I hear a strange faint rustling near the table.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Who is standing there near the big refrigerator right now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'There is no one there, only large boxes of groceries.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Look carefully, the girl is sitting right under the table!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What joy, we finally found our missing one!' Exclamatory noun phrase followed by subject word, temporal adverb, past everyday verb, and matching form noun phrase.
+- 'Quiet everyone, I need complete silence!' Desperate to hear where Alisa is hiding, Barinov yells at the whole kitchen to be completely silent.
+- 'Chef, we have already turned off all noisy equipment.' Lyova reports that the staff has already switched off all the noisy appliances.
+- 'Be quiet, I demand absolute calm in the kitchen.' Viktor orders everyone to hold their tongues so the kitchen is dead quiet.
+- 'All the cooks fell silent and are standing in place.' Lyova whispers that every cook has frozen in place without a word.
+- 'Do not breathe, I want to hear every quiet sound.' Barinov tells them not to even breathe so he can catch the faintest sound.
+- 'Are you sure our little guest is here?' After a moment of silence, Lyova asks if the chef is sure their little guest is still in this room.
+- 'She definitely hid somewhere in this dining room.' Viktor is convinced she is hiding somewhere right here.
+- 'I hear a strange faint rustling near the table.' Listening closely, Lyova notices a faint rustling sound over by a prep table.
+- 'Who is standing there near the big refrigerator right now?' Barinov points toward the large fridge and asks who is standing over there.
+- 'There is no one there, only large boxes of groceries.' Lyova checks and says nobody is by the fridge except stacks of grocery boxes.
+- 'Look carefully, the girl is sitting right under the table!' Spotting her at last, Viktor tells Lyova to look right under the table where Alisa is sitting.
+- 'What joy, we finally found our missing one!' Relieved, Lyova celebrates that they have finally found their missing runaway.

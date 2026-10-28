@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'On your feet!' Senya starts with 'stood still' and pairs it with 'stood still' to make the point clear. And Fedya jumps in.
-- 'He didn't like your salad.' Fedya starts with 'salad' and pairs it with 'was liked' to make the point clear.
-- 'He didn't try it.' Listen for the word meaning 'he' right alongside 'him' in this line.
-- 'Actually, he has.' You'll hear 'actually' all the time in the show, here connected with 'tried'. the guest answers straight away.
-- 'There was a belt in my salad.' The key word here means 'me', which the guest combines with 'salad'.
-- 'We just had a bet.' Senya starts with 'we' and pairs it with 'just' to make the point clear.
-- 'To see if I'd eat a belt?' A compact expression built around 'so that' and 'eat'. Then Senya replies.
-- 'It wasn't me.' In Russian, 'this' leads into 'I' in a very natural everyday phrasing.
+- 'On your feet!' When the furious guest marches into the kitchen, Senya calls the line to attention. And Fedya jumps in.
+- 'He didn't like your salad.' Before seeing the belt, Fedya smugly jokes that the guest did not like Senya's salad.
+- 'He didn't try it.' Senya protests that the customer barely even tasted it.
+- 'Actually, he has.' Fedya remarks that the guest clearly tried a bite. the guest answers straight away.
+- 'There was a belt in my salad.' Slamming the bowl down, the burly guest announces that he found a leather belt in his salad.
+- 'We just had a bet.' Backing away nervously, Senya stammers that he and Fedya only had a harmless kitchen bet.
+- 'To see if I'd eat a belt?' The guest glares at him and asks if the bet was to trick a customer into eating a belt. Then Senya replies.
+- 'It wasn't me.' Senya frantically insists he did not serve the bowl on purpose.
 - 'You're going to eat the belt.' Putting 'you' at the very end emphasizes that Senya himself has to eat the belt.
-- 'You're not leaving until you eat it all.' A compact expression built around 'until' and 'you'll leave'. And Senya jumps in.
-- 'Could I have some bread?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'may' straight to 'bread'.
-- 'Here you go.' The guest uses this short everyday word when handing something directly to someone.
+- 'You're not leaving until you eat it all.' Forcing Senya to sit down with the bowl, the guest warns he cannot leave until every piece of leather is eaten. And Senya jumps in.
+- 'Could I have some bread?' Chewing the tough leather, Senya meekly asks if he can at least have some bread with it.
+- 'Here you go.' The guest uses this short everyday word when handing something directly to someone. Now let us listen to the conversation once again.

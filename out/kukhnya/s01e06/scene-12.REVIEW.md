@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A slippery floor is a source of danger.' The everyday word links the descriptive subject to the everyday noun phrase.
-- 'Why is this bottle open by the grill?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'You won' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Let' s move on, I will inspect the storage.' The inclusive command form suggests forward movement, followed by a simple future verb. Okay, let's hear the inspection confrontation once more. Now let's listen to the whole conversation again from start to finish.
+- 'A slippery floor is a source of danger.' Formally citing a blatant safety violation, the inspector points at the floor.
+- 'Why is this bottle open by the grill?' The official sharply questions an obvious fire hazard near the flames.
+- 'You won' Threatening severe consequences, the inspector promises more than a mere fine.
+- 'Let's move on, I will inspect the storage.' Marching onward, the official moves to uncover more infractions in the back room.

@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is the cash for fresh caviar.' Notice how naturally this everyday Russian phrase expresses the speaker's point in the conversation.
-- 'The supplier will bring the jar in an hour.' A future tense verb indicates a scheduled delivery time for the staff.
-- 'Do not worry, everything is under my control.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I always keep my manly word.' A proud first person assertion used to build trust with a colleague. Now, let's hear Victoria deliver the restaurant funds once more. Now let's listen to the whole conversation again from start to finish.
+- 'Here is the cash for fresh caviar.' Vika hands over cash for ingredients.
+- 'The supplier will bring the jar in an hour.' Vika says the delivery arrives soon.
+- 'Do not worry, everything is under my control.' Barinov assures her everything is fine.
+- 'I always keep my manly word.' A proud first person assertion used to build trust with a colleague. Now, let's hear Victoria deliver the restaurant funds once more.

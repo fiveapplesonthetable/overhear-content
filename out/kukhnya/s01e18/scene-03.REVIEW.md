@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In my restaurant I will control everything!' Nagiyev puts the word for 'restaurant' together with 'will be' and 'to keep an eye on' in a crisp, natural spoken turn of phrase.
-- 'Immediately turn off all the extra lights!' Nagiyev leads with the direct command form meaning 'turn off', pairing it with 'immediately' and 'extra'.
-- 'Where can we get so much money in a week?' The phrasing opens with 'where' before bringing in 'to get' and 'so many' to make the point clear.
-- 'Listen, how about we sell your watch?' Max leads with the direct command form meaning 'listen', pairing it with 'let's' and 'watch'.
-- 'No way, this is my grandfather's old watch.' Russian omits the present-tense verb 'to be' here, linking 'not allowed' directly with 'old', pairing it with 'watch' and 'grandfathers'.
-- 'You are a bartender, you always have money.' Max uses the classic Russian possession phrasing — literally 'at you' rather than a verb meaning 'to have', pairing it with 'bartender' and 'always'.
-- 'I have never cheated our guests!' The phrasing opens with 'never' before bringing in 'cheated' and 'guests' to make the point clear.
-- 'You are simply the first honest bartender in the world.' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'first', combining 'just' with 'first' and 'the honest'.
-- 'But we really need to get money quickly.' Max puts the word for 'very much' together with 'necessary' and 'quickly' in a crisp, natural spoken turn of phrase.
-- 'Then listen, there is a clever way.' Max leads with the direct command form meaning 'listen', pairing it with 'back then' and 'there is'.
-- 'You need to put more ice into the glass.' The phrasing opens with 'necessary' before bringing in 'to put' and 'glass' to make the point clear.
-- 'That way in a day you can save a lot!' Max expresses this naturally by combining the word for 'day' with 'may' and 'a lot'.
+- 'In my restaurant I will control everything!' Nagiyev declares absolute authority over his business, insisting he will personally watch every little detail.
+- 'Immediately turn off all the extra lights!' Nagiyev issues a strict command to save electricity by plunging the restaurant into darkness.
+- 'Where can we get so much money in a week?' Kostya panics about their new financial quota, wondering how they could possibly gather that much cash.
+- 'Listen, how about we sell your watch?' Max casually suggests pawning his friend's belongings as a quick solution to their problem.
+- 'No way, this is my grandfather's old watch.' Kostya fiercely protects his family heirloom, stating firmly that selling it is entirely out of the question.
+- 'You are a bartender, you always have money.' Max leans on a common stereotype, assuming his friend makes plenty of cash behind the counter.
+- 'I have never cheated our guests!' Kostya fiercely defends his honor, stating he has never stolen a single coin from the customers.
+- 'You are simply the first honest bartender in the world.' Max playfully mocks his friend's extreme morality, calling him the only honest man in their profession.
+- 'But we really need to get money quickly.' Max brings the focus back to their urgent deadline, reminding him they have to hustle.
+- 'Then listen, there is a clever way.' Max leans in with a sneaky idea, preparing to share a questionable trick of the trade.
+- 'You need to put more ice into the glass.' Max reveals a classic bartending scam, explaining that extra ice means less expensive alcohol in the cup.
+- 'That way in a day you can save a lot!' Max enthusiastically calculates the potential profits of their dishonest new strategy.

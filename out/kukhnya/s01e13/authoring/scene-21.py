@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.13'
 SOURCE_FILE = 'sources/kukhnya/s01/e13.ru.dual.srt'
 INTRO = "Focused on the crashed car, Elena assesses the damage to her car while Barinov tries to prevent her from filing a police report. Let's listen closely to Chef Barinov and Elena's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let's go back through the exchange around The Crashed Car line by line and unpack how the Russian works."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = "Elena assesses the damage to her car while Barinov tries to prevent her from filing a police report. Next time you watch the episode, listen for the Russian expressions for 'bumper' and 'headlight' — you will catch every word right away. See you next time!"
 CLOSING = ('elena', 'Пока!')
 STORY = [
@@ -34,16 +34,16 @@ STORY = [
     ('elena', 'Я подумаю.', 'I will think about it.', [(296, 'подумаю')], ''),
 ]
 WALK = [
-    (0, None, "'Well, the bumper is gone...' Elena delivers a punchy one-word reaction built around the Russian word meaning 'bumper'."),
-    (1, None, "'And the headlight is smashed.' Russian omits the present-tense verb 'to be' here, linking 'headlight' directly with 'broken', combining 'headlight' with 'broken'."),
-    (2, None, "'I am fine. I was not driving.' The phrasing opens with 'order' before bringing in 'was' and 'steering wheel' to make the point clear."),
-    (3, None, "'It is a long story...' Russian omits the present-tense verb 'to be' here, linking 'long' directly with 'history', combining 'long' with 'history'."),
-    (4, None, "'I will tell you later, okay?' Elena turns a statement into a question purely through rising intonation on the word meaning 'then', followed by 'will tell'."),
-    (5, None, "'All right, bye.' Elena leads with the direct command form meaning 'let's', followed by 'bye'."),
-    (6, None, "'Do not worry, I will fix everything.' Chef Barinov leads with the direct command form meaning 'worry', followed by 'to fix'."),
-    (7, None, "'I was only trying to help.' Chef Barinov expresses this naturally by combining the word for 'just' with 'wanted' and 'how'."),
-    (8, None, "'I can imagine what you would have done...' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (9, None, "'If you meant to make things worse.' Elena uses the action verb meaning 'wanted' to focus on the single completed result, pairing it with 'how' and 'worse'."),
-    (10, None, "'Do you realize...' The phrasing opens with 'at all' before bringing in 'do you understand' to make the point clear."),
-    (11, None, "'I could file a complaint?' Elena chooses the action verb meaning 'can' for the ongoing action, followed by 'to write' and 'statement'. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Well, the bumper is gone...' Elena assesses the missing parts. She notes the front end is damaged."),
+    (1, None, "'And the headlight is smashed.' She inspects the rest of the destruction. Elena sees the light is shattered."),
+    (2, None, "'I am fine. I was not driving.' She reassures him about her safety. Elena clarifies she was not the one involved in the crash."),
+    (3, None, "'It is a long story...' Elena avoids giving a full explanation. She waves it off as too complicated."),
+    (4, None, "'I will tell you later, okay?' She promises to explain later. Elena asks for his patience."),
+    (5, None, "'All right, bye.' Elena hastily ends the conversation. She says a quick goodbye."),
+    (6, None, "'Do not worry, I will fix everything.' Chef Barinov tries to calm her down. He promises to repair all the damage himself."),
+    (7, None, "'I was only trying to help.' He offers a weak defense for his actions. Barinov claims his intentions were good."),
+    (8, None, "'I can imagine what you would have done...' Elena sarcastically contemplates his 'help'. She wonders about his true capabilities."),
+    (9, None, "'If you meant to make things worse.' She considers the alternative. Elena shudders to think what he would do if he meant harm."),
+    (10, None, "'Do you realize...' Elena checks if he understands the gravity of the situation. She demands his attention."),
+    (11, None, "'I could file a complaint?' She reminds him of her legal options. Elena threatens to make an official police report."),
 ]

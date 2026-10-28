@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What's with your phones?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'what' straight to 'telephone'.
-- 'I can' t get through.' Notice the self-directed ending on the verb for 'to get through', which directs the action back onto the subject.
-- 'My phone was stolen.' The phrasing opens with 'phone' before bringing in 'stole' to make the point clear.
-- 'Mom called me.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Dad met Kostya.' Nastya puts the word for 'Dad' together with 'to get acquainted' in a crisp, natural spoken turn of phrase.
-- 'But he thinks it' s you.' Nastya uses the casual everyday 'you' with 'he', as close colleagues and friends do. Then Max replies.
-- 'I don't get it.' Max delivers a punchy one-word reaction built around the Russian word meaning 'understood?'.
-- 'He thinks that you are Kostya.' Nastya delivers a punchy one-word reaction built around the Russian word meaning 'thinks'.
-- 'Why did he come?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He threatened me.' Kostya delivers a punchy one-word reaction built around the Russian word meaning 'to threaten'.
-- 'Tell him the truth.' Max leads with the direct command form meaning 'say', followed by 'truth'.
-- 'I can't.' The little negative word sits right in front of the verb for 'can', just like 'not' in English.
-- 'He is very cruel.' Russian omits the present-tense verb 'to be' here, linking 'very much' directly with 'cruel', combining 'very much' with 'cruel'.
-- 'What should I do?' Max delivers a punchy one-word reaction built around the Russian word meaning 'do'.
+- 'What's with your phones?' Back at the restaurant, a rattled Max asks why neither Kostya nor Nastya answered their phones.
+- 'I can't get through.' He complains that he has been trying to reach them all morning.
+- 'My phone was stolen.' Kostya explains that somebody stole his phone while he was out.
+- 'Mom called me.' Nastya joins them and says her mother just called with news.
+- 'Dad met Kostya.' She happily reports that her father finally met 'Kostya' at the apartment.
+- 'But he thinks it's you.' Turning to Max, Nastya realizes her dad actually met Max by mistake. Then Max replies.
+- 'I don't get it.' Max plays dumb for a second as the realization sinks in.
+- 'He thinks that you are Kostya.' Nastya spells it out: her terrifying father now believes Max is her boyfriend Kostya.
+- 'Why did he come?' Max asks why her father showed up at the apartment in the first place.
+- 'He threatened me.' Speaking from experience, Max notes that the man threatened him.
+- 'Tell him the truth.' Max begs Nastya to call her father and tell him the truth about who is who.
+- 'I can't.' Nastya shakes her head and says she cannot do that.
+- 'He is very cruel.' She admits that her father has a fierce, unforgiving temper.
+- 'What should I do?' Trapped in the mix-up, Max despairs over what he is supposed to do now.

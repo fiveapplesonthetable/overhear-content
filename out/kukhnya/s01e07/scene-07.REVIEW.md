@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, what happened with you today?' Kostya asks his tearful girlfriend what caused her distress.
-- 'My wicked landlady kicked me out.' Nastya announces the sudden eviction from her rented flat.
-- 'What did she kick you out for?' Kostya asks for the backstory behind the dispute.
-- 'I brought live carp home.' Nastya reveals her unconventional choice of roommates.
-- 'Why do you need live fish at home?' Kostya struggles to understand the domestic aquatic setup.
-- 'In the store they could simply kill them!' Nastya explains her compassionate vegetarian intervention.
-- 'And where are they swimming now?' The phrasing opens with 'where' before bringing in 'swim' and 'now' to make the point clear.
-- 'They live wonderfully in the bathtub.' Nastya proudly describes their temporary pool.
-- 'I see, the landlady was very unhappy.' Kostya sympathizes with the bewildered homeowner.
-- 'I cannot live with cruel people.' Nastya defends her unyielding ethical principles.
-- 'Listen, you can stay at my place for now.' Kostya offers her a spare room in his apartment.
-- 'Thank you, Kostik, you are a true friend!' Nastya beams with heartfelt gratitude at the kind offer.
+- 'Nastya, what happened with you today?' Kostya gently checks in on his distressed colleague.
+- 'My wicked landlady kicked me out.' Nastya blurts out the tragic news of losing her home.
+- 'What did she kick you out for?' He is confused about what could have triggered such a harsh reaction.
+- 'I brought live carp home.' She confesses to bringing live sea creatures into her flat.
+- 'Why do you need live fish at home?' Kostya is completely baffled by this bizarre choice of pets.
+- 'In the store they could simply kill them!' Nastya defends her actions as a necessary rescue mission.
+- 'And where are they swimming now?' He asks the most logical question about their current location.
+- 'They live wonderfully in the bathtub.' She casually mentions they are occupying the bathroom plumbing.
+- 'I see, the landlady was very unhappy.' Kostya easily understands why the property owner lost her patience.
+- 'I cannot live with cruel people.' Nastya stands her ground, refusing to compromise her morals.
+- 'Listen, you can stay at my place for now.' He kindly offers her a safe haven in his own place.
+- 'Thank you, Kostik, you are a true friend!' She is overwhelmed by his generosity in her time of need.

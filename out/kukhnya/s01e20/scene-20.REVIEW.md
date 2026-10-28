@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello.' Elena delivers a punchy one-word reaction built around the Russian word meaning 'hello'.
-- 'Good morning.' Russian omits the present-tense verb 'to be' here, linking 'good' directly with 'morning', combining 'good' with 'morning'.
+- 'Hello.' Elena offers a very casual, shortened greeting as she arrives at the apartment early in the morning.
+- 'Good morning.' Elena follows up with a standard morning greeting.
 - 'Is this Max?' She wants to make sure she is talking to the right person.
-- 'Yes, it is me.' Russian omits the present-tense verb 'to be' here, linking 'yes' directly with 'this', combining 'yes' with 'this' and 'I'.
-- 'I am looking for him.' Elena delivers a punchy one-word reaction built around the Russian word meaning 'am looking for'.
-- 'At home I can't reach him.' Here Elena anchors the line on the word meaning 'at home' and builds the thought around 'can' and 'to get through'.
-- 'Where is he?' Elena delivers a punchy one-word reaction built around the Russian word meaning 'where'.
-- 'I don't know.' Max delivers a punchy one-word reaction built around the Russian word meaning 'know'.
-- 'Probably, the keys are hanging.' Max puts the word for 'probably' together with 'the keys' and 'to hang' in a crisp, natural spoken turn of phrase.
-- 'So, he is home.' Russian omits the present-tense verb 'to be' here, linking 'then' directly with 'at home', combining 'then' with 'at home'.
-- 'Do you want to come in?' Max turns a statement into a question purely through rising intonation on the word meaning 'want', followed by 'to come in'.
-- 'Come in.' Max leads with the direct command form meaning 'come in' to make the point directly in conversation.
+- 'Yes, it is me.' Max confirms his identity using a simple phrase that directly connects the word for this with himself.
+- 'I am looking for him.' Elena states her purpose immediately, using a single action word to explain she is trying to find the Chef.
+- 'At home I can't reach him.' Elena explains her early visit by noting she could not reach him by phone at his own place.
+- 'Where is he?' Elena demands to know his location with a blunt, one-word question.
+- 'I don't know.' Max answers honestly that he has no idea where his roommate is.
+- 'Probably, the keys are hanging.' Max notices the keys are on the hook, guessing that this means the Chef has not left.
+- 'So, he is home.' Max concludes logically that the Chef must be around, linking the word for means directly to at home.
+- 'Do you want to come in?' Max politely asks if she would like to step inside, raising his voice at the end of the sentence to form the question.
+- 'Come in.' Max invites her to enter by using a direct, formal request.

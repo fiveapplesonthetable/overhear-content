@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, wait a second, do not rush.' Nastya leads with the direct command form meaning 'wait', pairing it with 'second' and 'hurry'.
-- 'Nastya, what happened, why are you sad?' Kostya uses the action verb meaning 'happened' to focus on the single completed result, pairing it with 'why' and 'sad'.
-- 'Nothing will work out between us today.' Nastya uses the classic Russian possession phrasing — literally 'at us' rather than a verb meaning 'to have', combining 'today' with 'will come out'.
-- 'Let us drink a little more juice!' Kostya suggests a refreshing beverage to relax.
-- 'No, Kostya, that is not the point.' She clarifies that drinks cannot solve her dilemma.
-- 'I do not want to act without love.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I am simply very grateful for your help.' Russian omits the present-tense verb 'to be' here, linking 'just' directly with 'very much', combining 'just' with 'very much' and 'grateful'.
-- 'Do you think that you owe me?' Kostya reassures her that he expects nothing in return.
-- 'Yes, I feel like a dishonest person.' Nastya shares her inner moral conflict with him.
-- 'Let us just sleep quietly tonight.' Nastya leads with the direct command form meaning 'let's', pairing it with 'today' and 'just'.
-- 'All right, let us just sleep tonight.' Kostya leads with the direct command form meaning 'let's', pairing it with 'good' and 'today'.
-- 'Kostya, do you really understand my feelings?' Nastya turns a statement into a question purely through rising intonation on the word meaning 'honestly', pairing it with 'do you understand' and 'feelings'.
-- 'Yes, Nastya, everything is completely fine.' Russian omits the present-tense verb 'to be' here, linking 'quite' directly with 'fine', combining 'quite' with 'fine'.
+- 'Kostya, wait a second, do not rush.' Nastya halts the romantic progression. She asks Kostya to slow things down.
+- 'Nastya, what happened, why are you sad?' Kostya is concerned by her change in mood. He notices she looks unhappy.
+- 'Nothing will work out between us today.' Nastya breaks the bad news. She gently tells him nothing is going to happen tonight.
+- 'Let us drink a little more juice!' Kostya suggests a refreshing beverage to relax. He tries to keep the atmosphere light.
+- 'No, Kostya, that is not the point.' She clarifies that drinks cannot solve her dilemma. Nastya says the issue is deeper than that.
+- 'I do not want to act without love.' Nastya explains her core principle. She refuses to do anything unless it comes from genuine affection.
+- 'I am simply very grateful for your help.' She admits her true feelings. Nastya realizes she is acting out of gratitude, not love.
+- 'Do you think that you owe me?' Kostya reassures her that he expects nothing in return. He asks if she feels indebted to him.
+- 'Yes, I feel like a dishonest person.' Nastya shares her inner moral conflict with him. She confesses she feels like a fraud.
+- 'Let us just sleep quietly tonight.' She proposes a platonic alternative. Nastya suggests they just get some rest.
+- 'All right, let us just sleep tonight.' Kostya agrees to her boundaries. He kindly accepts the simple sleepover.
+- 'Kostya, do you really understand my feelings?' Nastya seeks reassurance. She wants to be absolutely sure he is not hurt.
+- 'Yes, Nastya, everything is completely fine.' Kostya provides total comfort. He promises her that everything is perfectly fine.

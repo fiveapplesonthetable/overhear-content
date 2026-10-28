@@ -12,7 +12,7 @@ SOURCE_NAME = 'Кухня (Kukhnya) S1.08'
 SOURCE_FILE = 'sources/kukhnya/s01/e08.ru.dual.srt'
 INTRO = "While Chef Barinov is away, guest chef Elena Sokolova introduces a remarkably calm and respectful atmosphere to Claude Monet's kitchen. Praising the cooks and gently managing an urgent food ticket for waitress Sasha, Elena demonstrates an entirely different leadership style. Let's listen to their polite kitchen dialogue in Russian."
 OPENER = "Let's observe how Elena Sokolova introduces calm professionalism and constructive compliments to the restaurant kitchen."
-TRANSITION = "Now let's listen to the conversation again without interruption."
+TRANSITION = "Now let's listen to the whole conversation again from start to finish."
 OUTRO = 'That wraps up this scene from Kukhnya. Listen for these everyday Russian expressions when you watch the episode. See you next time!'
 CLOSING = ('elena', 'Пока!')
 STORY = [
@@ -31,8 +31,8 @@ STORY = [
     ('senya', 'Мы всё сделаем вовремя, шеф!', 'We will make everything on time, chef!', [(184, 'Да, шеф')], ''),
 ]
 WALK = [
-    (2, None, "'Arseny, you deserve respectful treatment.' The polite address uses the formal everyday word and a verb governing matching form."),
-    (4, None, "'You have the cleanest workstation.' The superlative adjective phrase highlights excellence in workplace cleanliness."),
-    (7, None, "'Sasha, calmly, let us breathe deeply.' Notice how naturally this everyday Russian phrase expresses the speaker's point."),
-    (10, None, "'Ask the guests to wait a little longer.' The polite command form guides the front-of-house staff with an basic verb form complement. Now, let's review Elena's respectful kitchen guidance once more. Now let's listen to the whole conversation again from start to finish."),
+    (0, None, "'Arseny, you deserve respectful treatment.' Elena surprises the cooks with an uncharacteristically formal and dignified address."),
+    (1, None, "'You have the cleanest workstation.' She singles out a specific cook to offer genuine praise for his organization."),
+    (2, None, "'Sasha, calmly, let us breathe deeply.' When the waitress rushes in, Elena de-escalates the tension rather than yelling."),
+    (3, None, "'Ask the guests to wait a little longer.' She gives clear instructions on how to handle the delay in the dining room."),
 ]

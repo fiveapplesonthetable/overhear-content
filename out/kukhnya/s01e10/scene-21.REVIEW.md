@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, why are you looking so strangely?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Max, I must tell you an important thing.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you angry again because of yesterday' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'No, I am pregnant with your child.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Are you absolutely sure that the baby is mine?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I have not been with anyone since you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'But we are completely young people!' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Just do not worry so much, Max.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'What on earth should we do with this now?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'I do not need anything at all from you.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Then why did you decide to tell me the truth?' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'This is just so that you would know.' everyday subject word with restrictive word, compound purpose conjunction, subject word, and past subjunctive verb.
+- 'Vika, why are you looking so strangely?' Max clearly shows some view through fusing 'vika' with 'looking' along with 'strangely'.
+- 'Max, I must tell you an important thing.' Vika calmly shows such feeling through combining 'max' and 'tell' plus 'thing'.
+- 'Are you angry again because of yesterday' Max truly makes the view by pairing 'you' and 'again' plus 'yesterday'.
+- 'No, I am pregnant with your child.' Vika plainly forms some point through joining 'no' with 'with' plus 'child'.
+- 'Are you absolutely sure that the baby is mine?' Max warmly casts the picture through linking 'you' and 'that' plus 'mine'.
+- 'I have not been with anyone since you.' Vika neatly builds that thought by pairing 'i' with 'with' plus 'you'.
+- 'But we are completely young people!' Max simply casts some message by matching 'but' and 'completely' as well as 'people'.
+- 'Just do not worry so much, Max.' Vika plainly makes that thought by merging 'just' with 'worry' plus 'max'.
+- 'What on earth should we do with this now?' Max boldly gives some point by matching 'what' and 'do' along with 'now'.
+- 'I do not need anything at all from you.' Vika plainly forms such view by blending 'i' with 'anything' and 'you'.
+- 'Then why did you decide to tell me the truth?' Max neatly shares that feeling through grouping 'then' with 'decide' plus 'truth'.
+- 'This is just so that you would know.' Vika softly forms this point through fusing 'this' with 'that' as well as 'know'.

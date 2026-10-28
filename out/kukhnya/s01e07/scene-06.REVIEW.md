@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Respected chef, step right up and choose knives!' , combining 'respected' with 'step up' and 'choose'.
-- 'Look what a sharp and thin blade!' the speaker leads with the direct command form meaning 'look', pairing it with 'sharp' and 'thin'.
-- 'Careful, this blade is sharp as a dagger.' Russian omits the present-tense verb 'to be' here, linking 'careful' directly with 'blade', combining 'careful' with 'blade' and 'sharp'.
-- 'But here the metal is too soft.' Russian omits the present-tense verb 'to be' here, linking 'here' directly with 'metal', combining 'here' with 'metal' and 'too'.
-- 'This is the best strong steel for the kitchen!' Russian omits the present-tense verb 'to be' here, linking 'best' directly with 'strong', combining 'best' with 'strong' and 'steel'.
-- 'Don't deceive me, I am an experienced chef.' Chef Barinov leads with the direct command form meaning 'deceive', pairing it with 'experienced' and 'chef'.
-- 'One cannot cut meat with such a knife.' The phrasing opens with 'knife' before bringing in 'meat' and 'cut' to make the point clear.
-- 'Then look at this Japanese knife.' , combining 'then' with 'look at' and 'Japanese'.
-- 'Craftsmen made it from hard steel.' the speaker uses the action verb meaning 'made' to focus on the single completed result, pairing it with 'craftsmen' and 'hard'.
-- 'Yes, this knife rests in the hand perfectly.' Here Chef Barinov anchors the line on the word meaning 'knife' and builds the thought around 'rests' and 'hand'.
-- 'How much does such an excellent tool cost?' The phrasing opens with 'how much' before bringing in 'costs' and 'excellent' to make the point clear.
-- 'For you I will give it for only three thousand.' the speaker uses the action verb meaning 'will give' to focus on the single completed result, pairing it with 'only' and 'three'.
-- 'Fine, I am taking this knife.' Chef Barinov puts the word for 'fine' together with 'am taking' and 'knife' in a crisp, natural spoken turn of phrase.
-- 'In my kitchen sharp order is needed!' Viktor prepares to bring his new purchase to the restaurant.
+- 'Respected chef, step right up and choose knives!' The merchant eagerly tries to lure a professional customer.
+- 'Look what a sharp and thin blade!' He highlights the physical qualities of his merchandise.
+- 'Careful, this blade is sharp as a dagger.' Barinov examines the edge and agrees it is incredibly dangerous.
+- 'But here the metal is too soft.' He quickly finds a fatal flaw in the material quality.
+- 'This is the best strong steel for the kitchen!' The vendor stubbornly defends the durability of his wares.
+- 'Don't deceive me, I am an experienced chef.' Barinov shuts down the sales pitch by asserting his expertise.
+- 'One cannot cut meat with such a knife.' He points out that the tool would fail at a basic kitchen task.
+- 'Then look at this Japanese knife.' The seller immediately pivots to a much higher-end option.
+- 'Craftsmen made it from hard steel.' He emphasizes the artisanal origin and tough material of this piece.
+- 'Yes, this knife rests in the hand perfectly.' Barinov appreciates the perfect balance and grip of the handle.
+- 'How much does such an excellent tool cost?' He cuts to the chase and asks for the price.
+- 'For you I will give it for only three thousand.' The vendor offers a supposed discount to seal the deal.
+- 'Fine, I am taking this knife.' Barinov accepts the offer without any further haggling.
+- 'In my kitchen sharp order is needed!' He walks away ready to enforce strict discipline back at work.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fedya, please help me with the orders.' Max desperately turns to his kitchen colleague.
-- 'What are you saying? I hear poorly.' Fedya pretends to struggle to hear the quiet plea.
-- 'I am saying that I ask for forgiveness.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'Colleagues, could you be quieter in the kitchen, please?' Fedya commands the attention of the whole line.
-- 'Max wants to tell us important words.' The line cook dramatically sets the stage for a spectacle.
-- 'Fedya, forgive me for everything.' Max swallows his pride and offers an open apology.
-- 'You are an excellent experienced cook, and I am not.' The rookie acknowledges the veteran chef's superiority.
-- 'Help me quickly prepare these dishes.' Max urgently begs for assistance with the tickets.
-- 'I heard everything very well.' Fedya acknowledges receiving the humble speech.
-- 'But I do not believe you at all.' Here Fedya anchors the line on the word meaning 'at all' and builds the thought around 'believe'.
-- 'In your words there is no real sincerity.' Fedya demands a much more convincing delivery.
-- 'Come on, repeat everything once more louder!' The cook urges him to perform the confession again.
-- 'I will not repeat anything anymore!' Max furiously refuses to be humiliated any further.
-- 'Alright, calm down, I will help now.' Fedya relents with a smile and steps in to assist. Alright, let's hear the whole thing once more.
+- 'Fedya, please help me with the orders.' Max swallows his pride and begs his rival for assistance.
+- 'What are you saying? I hear poorly.' Fedya pretends he cannot hear the quiet plea.
+- 'I am saying that I ask for forgiveness.' Max clarifies that he is officially apologizing.
+- 'Colleagues, could you be quieter in the kitchen, please?' Fedya loudly calls for silence to draw everyone's attention.
+- 'Max wants to tell us important words.' Fedya dramatically sets the stage for a public humiliation.
+- 'Fedya, forgive me for everything.' Max openly asks for forgiveness in front of the crew.
+- 'You are an excellent experienced cook, and I am not.' Max humbles himself by admitting the veteran is better.
+- 'Help me quickly prepare these dishes.' Max repeats his desperate request for backup on the line.
+- 'I heard everything very well.' Fedya acknowledges that he heard the speech clearly.
+- 'But I do not believe you at all.' Fedya bluntly states that he does not buy the apology.
+- 'In your words there is no real sincerity.' Fedya criticizes the lack of genuine emotion in the delivery.
+- 'Come on, repeat everything once more louder!' Fedya demands a louder, more convincing performance.
+- 'I will not repeat anything anymore!' Max furiously refuses to play along with the joke any longer.
+- 'Alright, calm down, I will help now.' Fedya finally takes pity and agrees to step in.

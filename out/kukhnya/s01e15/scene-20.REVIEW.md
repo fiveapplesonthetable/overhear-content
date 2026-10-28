@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Does this worry you too?' Ilya turns a statement into a question purely through rising intonation on the word meaning 'too', followed by 'to worry'.
-- 'What exactly?' Russian omits the present-tense verb 'to be' here, linking 'what' directly with 'exactly', combining 'what' with 'exactly'.
-- 'For example, will Max come or not?' Ilya turns a statement into a question purely through rising intonation on the word meaning 'for example', followed by 'will come'.
-- 'I think he will come.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'He loves our kitchen.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And he loves to work.' Notice how naturally this everyday Russian phrase expresses the speaker's point.
-- 'And what about the chef?' Ilya delivers a punchy one-word reaction built around the Russian word meaning 'how'.
-- 'The chef will forgive him.' — Notice the proper name meaning 'chef, boss' paired with the word for 'him'.
-- 'They will make peace.' Ilya delivers a punchy one-word reaction built around the Russian word meaning 'to make up'.
-- 'Of course they will make peace.' Here Senya anchors the line on the word meaning 'of course' and builds the thought around 'to make up'.
-- 'Then everything will be fine.' The phrasing opens with 'back then' before bringing in 'will be' and 'good' to make the point clear.
-- 'Yes, we are just waiting.' Senya expresses this naturally by combining the word for 'just' with 'we wait'.
+- 'Does this worry you too?' Ilya checks if his colleague shares his anxiety about the current situation.
+- 'What exactly?' Senya asks for clarification, wanting to know which specific issue is causing concern.
+- 'For example, will Max come or not?' Ilya points to the uncertainty surrounding their coworker's arrival.
+- 'I think he will come.' Senya offers a reassuring opinion that the guy will show up.
+- 'He loves our kitchen.' Pointing out his dedication, Ilya mentions how much their friend enjoys the workplace.
+- 'And he loves to work.' Senya adds to the thought, highlighting their colleague's strong work ethic.
+- 'And what about the chef?' Ilya brings up a potential obstacle by mentioning their intimidating boss.
+- 'The chef will forgive him.' Senya expresses confidence that the boss will let things slide.
+- 'They will make peace.' He predicts a smooth reconciliation between the two men.
+- 'Of course they will make peace.' Senya strongly agrees, leaving no doubt about the upcoming truce.
+- 'Then everything will be fine.' Ilya feels relieved, concluding that the conflict will blow over.
+- 'Yes, we are just waiting.' Senya wraps up the chat by suggesting they simply see how things unfold.
