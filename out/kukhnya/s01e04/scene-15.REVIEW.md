@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, come here right now.' "Podoydi" is "walk up". The chef uses the surname for a serious talk.
-- 'Chef, can I already go to the kitchen?' "Mogu uzhe idti" is "I can already go". Max sounds hopeful.
-- 'Wait! Did you cook lunch for the cooks?' "Podozhdi" is a short, sharp "wait". "Obed" is the main midday meal.
-- 'Yes, of course, I already made everything.' "Sdelal" is "did" or "made", and a man ends it in -l.
-- 'Is everything definitely ready? You aren't deceiving me?' "Obmanyvayesh'" comes from "obman", deceit. The chef asks the same thing twice.
-- 'Well, almost cooked, very little is left.' Max hedges with "almost" and "very little is left". The "left" word ends in "-o", because it agrees with a neuter idea: "it remained".
-- 'You are lying to my face again!' "Vryosh'" is a rude, colloquial "you lie". "V litso" is "in the face", literally "to the face".
-- 'Chef, I never lie to you.' "Ne vru" is "I don't lie". Max says "never" and "not" together, as ever.
-- 'The lie detector shows something completely different!' The detector shows something "completely different", with the neuter "drugoye" for "other thing".
-- 'This stupid machine simply broke.' "Slomalas'" is "broke", with "-s'" for "broke by itself".
-- 'Chef, you are like my own father to me.' "Rodnoy" comes from "rod", kin, so it means "own by blood". Max is laying on flattery.
-- 'Quickly run to the kitchen and feed people!' "Begi" is the command "run", and "kormi" is "feed". The two commands are joined by "and".
-- 'Understood, chef, I will do everything instantly.' "Slushayus'" is what a soldier says: "yes, sir". "Momental'no" is "instantly", from "moment".
+- 'Lavrov, come here right now.' "Podoydi" is "come up", with "pod-", up to. The surname, "Lavrov", marks a serious talk.
+- 'Chef, can I already go to the kitchen?' "Mogu" is "I can", and "uzhe idti" is "already go".
+- 'Wait! Did you cook lunch for the cooks?' "Podozhdi" is the familiar "wait". "Dlya povarov" is "for the cooks", with -ov.
+- 'Yes, of course, I already made everything.' "Sdelal" is "did" or "made", with the man's -l. "Uzhe" is "already".
+- 'Is everything definitely ready? You aren't deceiving me?' "Tochno" is "for sure". "Obmanyvayesh'" is from "obman", a deception.
+- 'Well, almost cooked, very little is left.' "Pochti" is "almost". "Ostalos'", is left, takes the neuter -o because nothing named is the subject.
+- 'You are lying to my face again!' "Vryosh'" is the blunt everyday "you lie", from "vrat'". "V litso" is "into the face".
+- 'Chef, I never lie to you.' "Nikogda ne vru" is "never not lie", the double negative. "Vam" is the polite "to you".
+- 'The lie detector shows something completely different!' "Pokazyvayet" is "shows". "Sovsem drugoye" is "something else entirely", neuter for an unnamed thing.
+- 'This stupid machine simply broke.' "Slomalas'" is "broke", with -s' for breaking by itself and -a for "mashina".
+- 'Chef, you are like my own father to me.' "Rodnoy", one's own, is from "rod", kin. "Kak rodnoy otets" is "like a blood father".
+- 'Quickly run to the kitchen and feed people!' "Begi" is "run", and "kormi" is "feed", two commands joined by "i".
+- 'Understood, chef, I will do everything instantly.' "Slushayus'" is the soldier's "yes, sir", literally "I obey". "Momental'no" is "instantly", from "moment".

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come in, Fedya. Sit down on the chair.' "Zakhodi" is "come in", with "za-", and "sadis'" is "sit yourself down", so the "-s'" at the end is a little "self".
-- 'Chef, what is this thing?' "Chto eto takoye" is "what is this such", a very handy way to ask what something is.
-- 'This is a real lie detector, Fedya.' "Lozh'" is a lie, and "lzhi" is "of a lie", with some letters dropped. The machine's name is a phrase, "detector of lies".
-- 'I must catch the rat in the kitchen.' Russians say "rat" for a traitor, just as English does. "Poymat'" is "to catch".
-- 'Answer only yes or no.' "Otvechayte" ends in "-te", the ending of a command to a formal "you".
-- 'Fine, that is completely clear to me.' "Vpolne" is "in full", so "completely". "Ponyatno" means "it's clear" and needs no "I".
-- 'Tell me, is today really Wednesday?' "Sreda" is Wednesday, and it also means "middle", since it's the middle of the week. "Deystvitel'no" is "really".
-- 'Yes, today is Wednesday.' Fedya answers with the same word and no verb, because Russian leaves out "is".
-- 'Is your real name Fyodor?' The expert asks for Fedya's real name, which is the full form, "Fyodor", of the short "Fedya". "Real" ends in a neuter "-oye", because "imya", name, is neuter.
-- 'Yes.' "Da" is the simplest word in the scene. It's the one he is allowed to say.
-- 'Did you go to the neighboring restaurant?' "Khodil" is "went and came back", the round-trip kind of "go". "Sosedniy" comes from "sosed", neighbour.
-- 'No, I did not go anywhere.' "Nikuda" is "nowhere", and with "ne" it's the double negative. Fedya answers with a bigger "no" than the question needed.
-- 'You are free to go. Call Senya in here.' "Svoboden" is "free", the short form for a man. "Pozovi" is "call", a command. "Senyu" is the object form of "Senya".
+- 'Come in, Fedya. Sit down on the chair.' "Zakhodi" is "come in", with "za-" for going inside. "Sadis'" is "seat yourself", with -s' for the self.
+- 'Chef, what is this thing?' "Chto eto takoye?" is "what is this such?", a handy way to ask what something is.
+- 'This is a real lie detector, Fedya.' "Lozh'", a lie, drops its vowel in "lzhi", of a lie. The machine is "detektor lzhi", detector of a lie.
+- 'I must catch the rat in the kitchen.' "Krysa", rat, is also Russian slang for a traitor. "Poymat'" is "to catch", and "dolzhen" is "must" for a man.
+- 'Answer only yes or no.' "Otvechayte" is a command with the polite -te. "Tol'ko" is "only", and "ili" is "or".
+- 'Fine, that is completely clear to me.' "Vpolne" is "in full", from "polnyy", full. "Mne ponyatno", to me it's clear, needs no "I".
+- 'Tell me, is today really Wednesday?' "Sreda", Wednesday, is related to "seredina", middle, since it falls mid-week. "Deystvitel'no" is "really".
+- 'Yes, today is Wednesday.' Fedya repeats "sreda" with no verb, because Russian leaves out "is".
+- 'Is your real name Fyodor?' "Fyodor" is the full name behind "Fedya". "Nastoyashcheye", real, ends in -eye because "imya", name, is neuter.
+- 'Yes.' Just "da", which is what the expert asked for.
+- 'Did you go to the neighboring restaurant?' "Khodil" is "went and came back". "Sosedniy", neighbouring, is from "sosed", neighbour.
+- 'No, I did not go anywhere.' "Nikuda ne khodil" is "nowhere not went", the double negative.
+- 'You are free to go. Call Senya in here.' "Svoboden" is the man's short "free". "Pozovi" is "call", and "Senya" turns into "Senyu" as the one called.

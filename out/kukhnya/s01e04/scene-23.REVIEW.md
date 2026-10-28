@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Only you, Arkady, understand me.' "Tol'ko ty" is "only you". Barinov talks to a fish, and "ponimayesh'" is "you understand".
-- 'Around me are only slackers and fools!' "Odni" here means "nothing but". "Lentyai" comes from "len'", laziness, and "neumekhi" is "ne-" plus "umet'", know how.
-- 'Maxim, where are you getting ready to go now?' "Sobirayesh'sya" is "gather yourself", so "get ready". "Kuda" is "where to".
-- 'Anywhere, the chef just fired me.' "Kuda-nibud'" is "anywhere", the "-nibud'" giving "any". "Uvolil" is "fired".
-- 'Maybe the chef was just joking unsuccessfully?' "Neudachno" is "ne-" plus "udacha", luck. "Poshutil" is "joked", from "shutka", a joke.
-- 'No, he never jokes like that.' The answer is a stack of negatives, "never so not", and "jokes" grows out of "shutka", a joke.
-- 'I really do not want you to leave!' "Chtoby" is "so that", and what follows goes in the past: "chtoby ty ukhodil". It's Russian's way to say "I want you to".
-- 'I also wanted to stay in this kitchen.' "Ostat'sya" is "to stay", plus the little "self". "Na etoy kukhne" is "in this kitchen".
-- 'Let me hide you right here!' "Davay ya" followed by an "I" form is "let me". "Spryachu" is "I will hide".
-- 'Thank you, Nastya, but hiding is silly.' "Pryatat'sya" is "to hide oneself", with "-sya". "Glupo" is "silly".
-- 'The main thing is do not worry because of the chef.' "Ne perezhivay" is "don't worry", and underneath it is "pere-" plus "zhit'", to live: live through it. "Iz-za" is "because of".
-- 'Now you have me in the restaurant!' "U tebya yest' ya" is literally "at you there is I", the full "have" pattern.
-- 'Thank you for the support, you are a true friend.' "Podderzhka" is "pod-" plus "derzhat'", to hold: hold up. "Nastoyashchiy" is "true".
-- 'We will definitely come up with something!' "Pridumayem" is "we will think up", from "dumat'". "Chto-nibud'" is "something".
+- 'Only you, Arkady, understand me.' "Tol'ko ty" is "only you". Barinov tells his fish "ponimayesh'", you understand.
+- 'Around me are only slackers and fools!' "Odni" here is "nothing but". "Lentyai" is from "len'", laziness, and "neumekhi" from "ne umet'", not know how.
+- 'Maxim, where are you getting ready to go now?' "Sobirayesh'sya" is "you gather yourself", meaning get ready. "Kuda" is "where to".
+- 'Anywhere, the chef just fired me.' "Kuda-nibud'" is "somewhere or other", with "-nibud'" for any. "Tol'ko chto" is "just now".
+- 'Maybe the chef was just joking unsuccessfully?' "Neudachno" is "ne-" plus "udachno", luckily. "Poshutil" is from "shutka", a joke.
+- 'No, he never jokes like that.' "Nikogda tak ne shutit" is "never so doesn't joke", the double negative.
+- 'I really do not want you to leave!' After "ne khochu, chtoby", the next verb goes in the past: "chtoby ty ukhodil".
+- 'I also wanted to stay in this kitchen.' "Ostat'sya" is "to stay", with -sya. "Na etoy kukhne" is "in this kitchen".
+- 'Let me hide you right here!' "Davay ya" plus an "I" verb means "let me". "Spryachu" is "I'll hide".
+- 'Thank you, Nastya, but hiding is silly.' "Pryatat'sya" is "to hide oneself". "Glupo", silly, is the adverb of "glupyy", stupid.
+- 'The main thing is do not worry because of the chef.' "Ne perezhivay" is "don't fret", with "pere-" and "zhit'", to live: to live through. "Iz-za" is "because of".
+- 'Now you have me in the restaurant!' "U tebya yest' ya" is "at you there is me", the "have" pattern in full.
+- 'Thank you for the support, you are a true friend.' "Podderzhka" is "pod-", under, plus "derzhat'", to hold. "Nastoyashchiy" is "real".
+- 'We will definitely come up with something!' "Pridumayem" is "we'll think up", from "dumat'". "Chto-nibud'" is "something".

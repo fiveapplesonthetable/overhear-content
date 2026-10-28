@@ -15,7 +15,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Макс | Я уже отклеил все этикетки от бананов. | I already peeled all labels from the bananas. | #39 00:02:54: этикетки от бананов я уже | verbatim |
 | 4 | Шеф | Хорошо, хочешь готовить — будешь готовить! | Fine, you want to cook — you will cook! | #40 00:02:57: Хочешь готовить, будешь готовить | verbatim |
 | 5 | Шеф | Внимание, повара ресторана! | Attention, cooks of the restaurant! | #41 00:03:02: Внимание | verbatim |
-| 6 | Шеф | Сегодня обед для персонала готовит наш огузок. | Today our runt is cooking lunch for the staff. | #42 00:03:04: Сегодня обед для персонала готовит | verbatim |
+| 6 | Шеф | Сегодня обед для персонала готовит наш огузок. | Today our Oguzok is cooking lunch for the staff. | #42 00:03:04: Сегодня обед для персонала готовит | verbatim |
 | 7 | Шеф | Это очень ответственное задание. | This is a very important assignment. | #43 00:03:08: Это очень ответственное задание | verbatim |
 | 8 | Шеф | Если им не понравится, они съедят тебя. | If they don't like it, they will eat you. | #44 00:03:10: Если им не понравится<br>#44 00:03:10: съесть тебя | verbatim |
 | 9 | Шеф | Ты меня понял? | Did you understand me? | #45 00:03:15: Понял | verbatim |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is not a shelter, but work!' "Nochlezhka" is a place to sleep for the night, from "noch'", night, and "lech'", to lie down. "Ne... a" is the Russian "not X but Y".
-- 'Chef, you still won't let me cook.' "Vsyo ravno" is "all the same" or "still". "Ne dayote mne gotovit'" is "you don't give me to cook", the Russian for "you don't let me".
-- 'I already peeled all labels from the bananas.' "Otkleil" has "ot-", off, in front of "kleit'", to stick, so it means "unstuck". "Etiketki" is the borrowed "label".
-- 'Fine, you want to cook — you will cook!' The two halves mirror each other: "khochesh' gotovit'", "budesh' gotovit'". The chef is turning Max's wish against him.
-- 'Attention, cooks of the restaurant!' "Vnimaniye" is "attention". "Povara" is the plural of "cook", with the odd "-a" plural.
-- 'Today our runt is cooking lunch for the staff.' "Obed" is the midday meal. The cook comes at the end, so the news is saved for last.
-- 'This is a very important assignment.' "Otvetstvennoye" comes from "otvet", an answer, so it's a job you answer for. "Zadaniye" is an assignment, something "set" for you.
-- 'If they don't like it, they will eat you.' The joke is built from "to them it won't please" and "they will eat up". The "s-" on the front of "eat" means all of it, so Max would be eaten whole.
-- 'Did you understand me?' "Ponyal" is "understood", and the -l marks a man. The chef uses the friendly "you", as usual.
-- 'Yes, Chef, I understood everything.' Max repeats "ponyal" and adds "vsyo", everything. It's the answer a boss wants.
-- 'I dreamed so much of cooking in the kitchen.' "Mechtal" is a man's past of "to dream", and "tak" makes it "so". "Na kukhne" is "in the kitchen".
-- 'Well, are you pleased?' "Dovolen" is "content", and a woman would say "dovol'na".
-- 'I am very glad, Chef, just let me drink coffee.' "Rad" is "glad", short for a man. "Vypyu" has the "vy-" that means "drink up".
-- 'Quickly change clothes, let's get to work!' Barinov tells Max to change with a word that starts "pere-", re-, and ends "-sya", yourself: re-dress yourself. Then "we work" does the job of "let's work".
+- 'This is not a shelter, but work!' "Nochlezhka" is a dosshouse, from "nochleg", a night's lodging. "Ne... a" is Russian for "not X but Y".
+- 'Chef, you still won't let me cook.' "Vsyo ravno" is "all the same", meaning still. "Ne dayote mne gotovit'" is "you don't give me to cook", Russian for "won't let me".
+- 'I already peeled all labels from the bananas.' "Otkleil" is "ot-", off, with "kleit'", to glue: unglued. "Etiketki" are labels, and "ot bananov" is "from the bananas".
+- 'Fine, you want to cook — you will cook!' The halves mirror each other: "khochesh' gotovit'", you want to cook, then "budesh' gotovit'", you will cook.
+- 'Attention, cooks of the restaurant!' "Vnimaniye" is "attention". "Povara", cooks, takes -a for its plural, and "restorana" is "of the restaurant".
+- 'Today our Oguzok is cooking lunch for the staff.' "Obed" is the midday meal. The subject, "nash oguzok", comes last, so the news lands at the end.
+- 'This is a very important assignment.' "Otvetstvennoye", responsible, has "otvet", answer, inside: a job you answer for. "Zadaniye" is something "zadano", set, for you.
+- 'If they don't like it, they will eat you.' "Im ne ponravitsya" is "to them it won't be pleasing". "S''yedyat", they will eat up, has "s-" for finishing the whole thing.
+- 'Did you understand me?' "Ty menya ponyal?" is "you me understood?". "Ponyal" ends in -l for a man.
+- 'Yes, Chef, I understood everything.' Max repeats "ponyal" and adds "vsyo", everything.
+- 'I dreamed so much of cooking in the kitchen.' "Mechtal" is the man's past of "mechtat'", to dream. "Tak" is "so much", and "na kukhne" is "in the kitchen".
+- 'Well, are you pleased?' "Dovolen", pleased, is the man's short form, and a woman says "dovol'na". "Nu chto" is "well then".
+- 'I am very glad, Chef, just let me drink coffee.' "Rad" is "glad" for a man. "Vypyu", I'll drink, has "vy-" for drinking it up, and "tol'ko" is "just".
+- 'Quickly change clothes, let's get to work!' "Pereodevaysya" is "pere-", again, plus "odevaysya", dress yourself: change. "Rabotayem", we work, serves as "let's work".

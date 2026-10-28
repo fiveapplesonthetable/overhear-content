@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, our newcomer stood out again.' "Otlichilsya" means "distinguished himself", and Fedya says it sarcastically. "Otlichnyy", excellent, is from the same root.
-- 'What did you do in the kitchen again?' "Natvoril" means "to get up to mischief", and "tvorit'", to create, is inside it. The chef sounds exhausted.
-- 'In the dining room the guest's tongue turned blue!' "Yazyk" is both tongue and language. "Stal sinim" is "became blue", the "as" ending on "blue".
-- 'Did you ruin the soup with food coloring?' "Pishchevym" is "food" as a describing word, from "pishcha". "Krasitelem" ends in "-em", the "with" ending.
-- 'Chef, the soup turned out very delicious!' "Poluchilsya" is "turned out", masculine to match "sup". "Vkusnym" has the "as" ending after it.
-- 'This is how you thank me for kindness!' "Blagodarish'", "you thank", grows from "blago", good, and "dar", gift. "Za dobrotu" is "for kindness".
-- 'I gave you a chance to become a good cook.' The chef "gave" Max a chance "to become" a good cook. The cook takes "-om", and "good" takes "-im", the "as" endings.
-- 'Please, listen to me for at least a minute.' "Vyslushayte" has "vy-", out, so it's "hear out". "Khotya by" is "at least".
-- 'You have exactly two minutes!' "Rovno" is "exactly". "Dve" is the feminine "two". "Minuty" is the form after "two".
-- 'Quickly pack all your things!' "Pack" is really "gather", and "your own" is what Russians say whenever the owner is the one acting.
-- 'Chef, I did not want to offend anyone.' "Nikogo" is "nobody", in the object form. "Obidet'" comes from "obida", offense.
-- 'Leave here, you are fired from the restaurant!' "Uvolen iz" is "fired from". "Ukhodi" is the command "leave".
-- 'I do not want to hear anything anymore!' "Bol'she nichego ne" is "more nothing not", the double negative once more.
+- 'Chef, our newcomer stood out again.' "Otlichilsya" is "distinguished himself", said here with irony. "Otlichnyy", excellent, comes from the same root.
+- 'What did you do in the kitchen again?' "Natvoril" is "got up to mischief", with "tvorit'", to create, inside.
+- 'In the dining room the guest's tongue turned blue!' "U gostya yazyk" is "at the guest the tongue". "Stal sinim" is "became blue", with -im after "stal".
+- 'Did you ruin the soup with food coloring?' "Pishchevym" is "food" as an adjective, from "pishcha". "Krasitelem" ends in -em for "with".
+- 'Chef, the soup turned out very delicious!' "Poluchilsya", turned out, is masculine for "sup". After it, "vkusnyy" becomes "vkusnym".
+- 'This is how you thank me for kindness!' "Blagodarish'" joins "blago", good, and "dar", gift. "Za dobrotu" is "for kindness".
+- 'I gave you a chance to become a good cook.' "Stat'" is "to become", and after it "khoroshiy povar" becomes "khoroshim povarom".
+- 'Please, listen to me for at least a minute.' "Vyslushayte" has "vy-", out: hear me out. "Khotya by minutu" is "at least a minute".
+- 'You have exactly two minutes!' "Rovno" is "exactly". "Dve" is "two" for feminine nouns, and after it "minuta" becomes "minuty".
+- 'Quickly pack all your things!' "Soberi" is "gather", Russian for packing. "Svoi veshchi" is "your own things".
+- 'Chef, I did not want to offend anyone.' "Nikogo" is "nobody" as the object, with "ne" too. "Obidet'" is from "obida", a hurt.
+- 'Leave here, you are fired from the restaurant!' "Ukhodi" is the command "leave". "Uvolen iz" is "fired from".
+- 'I do not want to hear anything anymore!' "Bol'she nichego ne" is "more nothing not", the double negative.

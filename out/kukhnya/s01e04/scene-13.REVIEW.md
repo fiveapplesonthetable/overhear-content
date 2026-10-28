@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, prepare an urgent order for the guests.' "Prigotov'" is "prepare", a friendly command. "Srochnyy" is "urgent", and "dlya gostey" is "for the guests".
-- 'I am listening to you very attentively.' Kostya says he is listening "attentively", but he is staring at Nastya instead. Russian packs "I am listening" into one word, because it has no "-ing" form.
-- 'I need three hundred grams of good cognac.' Nastya's amounts go with "of" forms: "of good cognac" puts both words in the "of" shape, "-ogo" and "-a". "Three hundred" is "trista", where the "-sta" is a form of "hundred".
-- 'And pour two whiskeys of a hundred grams each.' "Po sto" is "a hundred each", with "po" for "each". "Viski" never changes.
-- 'And also bring three hot pots of tea.' "Chaynik" is a teapot, from "chay", tea. After "tri", three, the noun takes "-a", and "hot" takes "-ikh".
-- 'Of course, we will do everything quickly and neatly.' Kostya answers for the whole bar with a "we" future, where English needs "will do". "Neatly" suits a tidy job.
-- 'Why are you standing and not working?' Russians say a person "stands" when they're idle. "Ne rabotayesh'" is "not working".
-- 'Nastya, I wanted to ask something.' "Koye-chto" is "something", with "koye-" for a specific thing you don't name. "Sprosit'" is "to ask".
-- 'What exactly do you want to find out?' Nastya says "exactly" with "imenno", the word that points right at the thing. "Find out" is the single word "uznat'".
-- 'How much whiskey exactly do I need to pour into the glasses?' "Skol'ko" asks "how much". "Into the glasses" takes the plural, in the form for movement into.
-- 'Two times a hundred grams, as usual!' "Dva raza" is "two times", with "raz" turning into "raza". "Kak obychno" is "as usual".
-- 'Got it, now I will prepare everything in the best way.' "V luchshem vide" is "in the best form", a ready phrase for doing something properly.
+- 'Kostya, prepare an urgent order for the guests.' "Prigotov'" is the familiar command "prepare". "Srochnyy" is "urgent", and "dlya gostey" is "for the guests".
+- 'I am listening to you very attentively.' "Slushayu" is the present "I listen", which also covers "I am listening". "Vnimatel'no" is "attentively".
+- 'I need three hundred grams of good cognac.' "Trista", three hundred, has "sta", a form of "sto", hundred. "Khoroshego kon'yaka" takes the "of" endings -ego and -a.
+- 'And pour two whiskeys of a hundred grams each.' "Po sto" is "a hundred each", with "po" for each. "Viski" never changes its ending.
+- 'And also bring three hot pots of tea.' "Chaynik", teapot, is from "chay", tea. After "tri", it becomes "chaynika", and "goryachiy" becomes "goryachikh".
+- 'Of course, we will do everything quickly and neatly.' "Sdelayem" is "we'll do", one word. "Akkuratno" is "neatly", a borrowed word.
+- 'Why are you standing and not working?' "Stoish'" is "you stand", Russian for being idle. "Ne rabotayesh'" is "not working".
+- 'Nastya, I wanted to ask something.' "Koye-chto" is "something" in particular. "Khotel sprosit'" is "wanted to ask".
+- 'What exactly do you want to find out?' "Imenno" is "exactly", pointing at the very thing. "Uznat'" is "to find out".
+- 'How much whiskey exactly do I need to pour into the glasses?' "Skol'ko", how much, also covers "how many". "V stakany" is "into the glasses", with the motion form of "v".
+- 'Two times a hundred grams, as usual!' "Dva raza" is "two times", with "raz" turning into "raza" after "dva". "Kak obychno" is "as usual".
+- 'Got it, now I will prepare everything in the best way.' "V luchshem vide" is "in the best form", a fixed phrase for doing a thing properly. "Prigotovlyu" is "I'll prepare".

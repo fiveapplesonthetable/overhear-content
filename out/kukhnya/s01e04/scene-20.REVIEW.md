@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of strange dish is this?' "Chto eto za" means "what kind of", the same "chto za" you may remember. The dish ends in "-oye" because "blyudo" is neuter.
-- 'This is my new delicious soup!' Max uses the proud "my". The describing words "new" and "delicious" come before the soup.
-- 'Why is it such a blue color?' "Takogo sinego tsveta" is "of such a blue colour", and Russians put colours in this "of" form. "Tsvet" also gives "flowers" in another form.
-- 'This is an original creator's recipe.' "Avtorskiy" is "author's", the word behind "avtorskaya kukhnya", a chef's signature cooking.
-- 'Thanks, I am on a diet today.' "Spasibo" is also a polite "no, thank you" here. "Na diete" is "on a diet": the "on" word, then -e.
-- 'Wait, this is really very delicious!' Max sounds surprised himself. "Deystvitel'no" grows out of "action", which is why it means "really".
-- 'Pardon, that is my food coloring!' "Pardon" is borrowed from French. "Krasitel'", "dye", comes from "krasit'", to paint, a relative of "krasivyy", beautiful.
-- 'I looked for it for so long!' "Iskal" is "looked for", the -l a man's again. "Tak dolgo" is "so long".
-- 'Wait, where are you all going?' Max asks where everyone is going with "kuda", where to, and "you all" is two little words.
-- 'We do not want to eat chemicals.' "Khimiya" is chemistry, but Russians use it for artificial food. "Khimiyu" ends in -u as the object.
-- 'But this is actually delicious!' "Real'no" is slang for "actually" or "really". "Eto zhe" adds "after all".
-- 'What an interesting pretty little soup.' "Supchik" is "soup" with a diminutive ending, and here it sounds ironic.
-- 'Like you are eating the sea directly.' Senya uses "you eat" for the general "one eats". "As if" opens the comparison.
-- 'I told you it was delicious!' "Ya zhe govoril" is "I told you so", the "zhe" carrying "after all".
+- 'What kind of strange dish is this?' "Chto eto za" is "what kind of". "Strannoye", strange, ends in -oye because "blyudo" is neuter.
+- 'This is my new delicious soup!' "Moy novyy vkusnyy sup": every word is masculine to match "sup".
+- 'Why is it such a blue color?' Russian gives colour in the "of" form: "takogo sinego tsveta", of such a blue colour. "Tsveta" is also the plural "colours", while "tsvety" are flowers.
+- 'This is an original creator's recipe.' "Avtorskiy", author's, is the word in "avtorskaya kukhnya", a chef's own cooking. "Original'nyy" is borrowed.
+- 'Thanks, I am on a diet today.' "Spasibo" here is a polite no. "Na diete" is "on a diet", with -e after "na".
+- 'Wait, this is really very delicious!' "Podozhdi" is the familiar "wait". "Deystvitel'no" is "really", and "vkusno" is "tasty".
+- 'Pardon, that is my food coloring!' "Pardon" is borrowed. "Krasitel'", dye, is from "krasit'", to paint, and "eto zhe" is "why, that's".
+- 'I looked for it for so long!' "Iskal" is "looked for", with the man's -l. "Tak dolgo" is "so long".
+- 'Wait, where are you all going?' "Kuda" asks "where to", for movement. "Vy vse" is "you all", and "ukhodite" is "you are leaving".
+- 'We do not want to eat chemicals.' "Khimiya", chemistry, is the Russian word for artificial additives. As the object, it becomes "khimiyu".
+- 'But this is actually delicious!' "Real'no" is slang for "really". "Eto zhe" adds "after all".
+- 'What an interesting pretty little soup.' "Supchik" is "sup" with the little -chik, a fond word for soup. "Kakoy" opens the exclamation.
+- 'Like you are eating the sea directly.' "Kak budto" is "as if". "Yesh'", you eat, means "one eats", said to nobody in particular.
+- 'I told you it was delicious!' "Ya zhe govoril" is "I did say", with "zhe" for "after all".

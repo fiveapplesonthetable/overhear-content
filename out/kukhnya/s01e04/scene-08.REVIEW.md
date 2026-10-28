@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here are your croutons, cream, and carrot.' "Sukhariki" are little croutons, and the word grows from "sukhoy", dry, as in dry wine. "Slivki", cream, is always plural, and a carrot is the singular "morkovka".
-- 'Great, and where is the fresh onion?' "Luk" is the onion, and "svezhiy" is fresh. Max uses the little "a" to move on to the next item on his list.
-- 'Here is the onion, start boiling the soup.' "Varit'" means to boil or cook in water, so it's the right word for soup, and for coffee too. "Nachinay" is the command "begin".
-- 'I will make the most delicious cream soup.' "Samyy vkusnyy" is "the tastiest", made with "samyy" in front. "Krem-sup" is borrowed, "cream soup".
-- 'The main thing is do not oversalt the broth on the stove.' "Peresoli" is "pere-", over, plus "sol'", salt: over-salt. The "pere-" prefix is also in "redo" and "overcook".
-- 'Do not worry, I know the exact recipe.' "Ne volnuysya" is the friendly "don't worry", with "-sya" at the end. "Znayu" is "I know" for facts.
-- 'First chop the onion and carrot finely.' "Melko", "finely", has "melkiy", small, behind it. "Narezh'" has "na-" and "rezat'", to cut: cut it all up.
-- 'I will cut the vegetables into even pieces.' "Ravnymi kusochkami" is "with even little pieces". Both words end in "-ymi" and "-ami", the "with" ending.
-- 'Then add butter and warm cream.' Senya's recipe goes on with "after that, add", and "add" shares a root with "seconds". "Maslo" is butter, and it can also be oil.
-- 'Everything will be ready on time, Senya.' "Budet gotovo" is "will be ready", and "gotovo" ends in -o to match "vsyo". "Vovremya" is "on time".
-- 'I will come and check your dish.' Senya promises to check, and both actions are single words: "I will come", "I will check". Russian needs no "will" in front.
-- 'You will be pleasantly surprised by this soup!' "Udivlyon" is "surprised", the short form for a man. "Etim supom" ends in "-om", the "by" ending. Max is sure of himself.
+- 'Here are your croutons, cream, and carrot.' "Sukhariki" are little croutons, from "sukhoy", dry. "Slivki", cream, only exists in the plural, and "morkovka" is the everyday word for one carrot.
+- 'Great, and where is the fresh onion?' "A" moves on to the next item. "Svezhiy luk" is "fresh onion", and "luk" stands for onions in general.
+- 'Here is the onion, start boiling the soup.' "Varit'" is cooking in water, so you "varit'" soup, eggs and coffee. "Nachinay" is the command "begin".
+- 'I will make the most delicious cream soup.' "Samyy vkusnyy" is "the most tasty", made with "samyy" in front. "Krem-sup" is borrowed.
+- 'The main thing is do not oversalt the broth on the stove.' "Peresoli" is "pere-", over, plus "solit'", to salt. The same "pere-" gives "perezharit'", to overfry.
+- 'Do not worry, I know the exact recipe.' "Ne volnuysya" is the familiar "don't worry". "Tochnyy retsept" is "exact recipe".
+- 'First chop the onion and carrot finely.' "Melko", finely, is from "melkiy", small. "Narezh'" is "na-" plus "rezat'", to cut: cut up.
+- 'I will cut the vegetables into even pieces.' "Rovnymi kusochkami" is "with even little pieces", with -ymi and -ami for "with".
+- 'Then add butter and warm cream.' "Zatem" is "after that", and "dobav'" is the command "add". "Maslo" covers both butter and oil.
+- 'Everything will be ready on time, Senya.' "Budet gotovo" is "will be ready", with -o to match "vsyo". "Vovremya" is "in time", written as one word.
+- 'I will come and check your dish.' "Pridu" and "proveryu" are single-word futures, I'll come and I'll check, with no "budu".
+- 'You will be pleasantly surprised by this soup!' "Udivlyon" is the man's short "surprised". "Etim supom" takes -im and -om for "by".

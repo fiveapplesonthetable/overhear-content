@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, did you understand everything about the order?' Barinov uses Max's surname, the way a stern boss does. "Po zakazu" is "regarding the order".
-- 'Yes, Chef, I understood everything perfectly!' "Ponyal" has a man's -l. "Otlichno" is "perfectly", the how-form of "otlichnyy".
-- 'The soup must be ideal and hot.' "Dolzhen byt'" is "must be", and the describing words after it take the "-ym" ending: "ideal'nym", "goryachim".
-- 'I use the best vegetables and cream.' "Ispol'zuyu" is "I use", a relative of "ispol'zuy" from the cognac scene. "Luchshiye" is "the best", plural.
-- 'Our guests do not tolerate foolish mistakes.' "Terpyat" means "they bear" or "tolerate", and it comes from "terpet'", to suffer. "Oshibok" is the plural "of" form of "oshibka", mistake.
-- 'I guarantee the flawless taste of this dish.' "Bezuprechnyy" is "bez" plus "uprek", reproach: without blame. Max sounds like a brochure.
-- 'Stop chattering away, Lavrov.' The chef's idiom is "chatter with the tongue", which means stop talking. Tongue and language are one word.
-- 'Well get to work quickly!' "Pristupay k" means "set about", and "k rabote" means "to work", with an -e.
-- 'Already starting to cook right now, Chef!' Russian has no "-ing" form, so "nachinayu" means "I'm starting".
-- 'And watch this stove attentively!' "Sledi za" is "keep an eye on", literally "follow behind". The stove ends in "-oy".
-- 'I will not step away from it anywhere!' "Ot neyo" is "from it", with an added "n". "Nikuda" is "nowhere", and "ne" stands next to it.
-- 'We will see what kind of cook you are in practice.' "Na dele" is "in the deed", meaning "in practice". "Posmotrim" is "we shall see".
+- 'Lavrov, did you understand everything about the order?' Barinov calls Max by his surname, "Lavrov", as a stern boss does. "Po zakazu" is "on the order", meaning about it.
+- 'Yes, Chef, I understood everything perfectly!' "Ponyal" ends in -l for a man. "Otlichno", perfectly, is the adverb of "otlichnyy", excellent.
+- 'The soup must be ideal and hot.' "Dolzhen byt'" is "must be", and after it both adjectives take -ym or -im: "ideal'nym", "goryachim".
+- 'I use the best vegetables and cream.' "Ispol'zuyu" is "I use", from "pol'za", benefit. "Luchshiye", the best, is plural for "ovoshchi i slivki".
+- 'Our guests do not tolerate foolish mistakes.' "Terpyat" is "they put up with", from "terpet'", to endure. After "ne", "oshibki" becomes the "of" form "oshibok", and "glupyye" becomes "glupykh".
+- 'I guarantee the flawless taste of this dish.' "Bezuprechnyy" is "bez", without, plus "uprek", reproach. "Etogo blyuda" is "of this dish".
+- 'Stop chattering away, Lavrov.' "Khvatit", enough, is a verb meaning "it suffices". "Boltat' yazykom" is "to wag with the tongue", and "yazyk" means both tongue and language.
+- 'Well get to work quickly!' "Pristupay k" is "set about", and "k rabote" puts -e on "rabota" after "k". "Skoreye" is "quicker".
+- 'Already starting to cook right now, Chef!' "Nachinayu" is the plain present, "I start", which also covers "I'm starting". "Pryamo seychas" is "right now".
+- 'And watch this stove attentively!' "Sledi za" is "follow behind", meaning keep an eye on. After "za", "plita" becomes "plitoy", and "eta" becomes "etoy".
+- 'I will not step away from it anywhere!' "Ot neyo" is "from her", since the stove is feminine, with an "n" added after "ot". "Otoydu" is "I'll step away", and "nikuda" doubles the negative.
+- 'We will see what kind of cook you are in practice.' "Posmotrim" is "we'll see". "Na dele" is "in the deed", meaning in practice.

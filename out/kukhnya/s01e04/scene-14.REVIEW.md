@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya, look at me for one second.' Kostya asks her to look at him, and Russian gives a length of time an "-u": "one second" becomes "odnu sekundu".
-- 'What happened, Kostya?' Nastya asks the standard question, "chto sluchilos'".
-- 'You have a really cool hairstyle today.' "Prikol'naya" is slang for "cool", from "prikol", a gag. "U tebya" is "at you", the "have" pattern.
-- 'Really? Do you really like it?' "Tebe nravitsya" is "to you it pleases". Nastya asks "pravda", truth, twice.
-- 'Yes, it is so unusual and beautiful.' "Neobychnaya" is "ne-" plus "obychnaya", usual. The "-aya" endings agree with "prichyoska".
-- 'You have very sweet, soft curls.' "Kudri" is "curls", always plural. "Myagkiye" is "soft", plural to match.
-- 'Thank you, I took a long time doing this styling.' "Dolgo delala" is "for a long time did", with "-la" for a woman. "Ukladka" is "styling", from "laying" the hair.
-- 'They are curled like a little lamb's.' "Ovechka" is a little sheep, and Kostya thinks it's sweet. "Zakrucheny" is "twisted", plural. "Kak u" is "like on".
-- 'What did you just say like that?' "Chto ty takoye skazal" is "what such did you say", a way of showing offense.
-- 'I meant a fluffy little lamb.' "Imel v vidu" is literally "had in view", and it means "I meant". "Pushistyy" comes from "pukh", down.
-- 'You are a foolish sheep yourself, got it?' "Sam ty" at the start is how Russians throw an insult back: "you yourself". "Ovtsa" is the ordinary sheep, and there's no "little" now.
-- 'Sorry, I just wanted to make a compliment!' "Izvini" is the friendly "sorry". Russians "make" a compliment, as the English "pay" one.
+- 'Nastya, look at me for one second.' "Posmotri na menya" is "look at me". A length of time takes -u: "odnu sekundu".
+- 'What happened, Kostya?' "Chto sluchilos'?" is "what has happened?". "Sluchilos'" shares a root with "sluchay", an event.
+- 'You have a really cool hairstyle today.' "Prikol'naya" is slang for "cool", from "prikol", a gag. "U tebya" is the "have" pattern.
+- 'Really? Do you really like it?' "Pravda", truth, is used here for "really?", twice. "Tebe nravitsya" is "to you it's pleasing".
+- 'Yes, it is so unusual and beautiful.' "Neobychnaya" is "ne-" plus "obychnaya", usual. The -aya endings match "prichyoska".
+- 'You have very sweet, soft curls.' "Kudri", curls, is a plural word. "Milyye myagkiye" both carry plural -ye.
+- 'Thank you, I took a long time doing this styling.' "Dolgo delala" is "long did", with -la for a woman. "Ukladka", styling, is from "ukladyvat'", to lay in place.
+- 'They are curled like a little lamb's.' "Zakrucheny", twisted, is plural. "Kak u ovechki" is "as at a little sheep", and "ovechka" is a pet form of "ovtsa".
+- 'What did you just say like that?' "Chto ty takoye skazal?" is "what such did you say?", a question that signals offence.
+- 'I meant a fluffy little lamb.' "Imel v vidu" is "had in view", Russian for "meant". "Pushistyy", fluffy, comes from "pukh", down.
+- 'You are a foolish sheep yourself, got it?' "Sam ty" throws an insult back: "you yourself are". "Ovtsa" is the plain sheep, without the pet ending.
+- 'Sorry, I just wanted to make a compliment!' "Izvini" is the familiar "sorry". Russians "make" a compliment, "sdelat' kompliment", where English pays one.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I take it you won't have a date?' "Ya ponyal" is literally "I understood", and Russians use it for "I take it". Then "u tebya ne budet", "at you there will not be", and the date takes an "of" ending.
-- 'Yes, I said something completely stupid again.' Russians say they "said a stupidity", with "glupost'" as the thing said. "Polnuyu", "complete", ends in "-uyu" for the object.
-- 'You get way too nervous around her.' "Slishkom" is "too". "Nervnichayesh'" grows out of "nervy", nerves. "Pered ney" is "in front of her".
-- 'I cannot manage to speak beautifully!' "Ne poluchayetsya u menya" is literally "it doesn't work out at me", and it's how Russians say they just can't do it. You may remember "ne poluchitsya" from the knife scene.
-- 'One needs to learn this long and patiently.' "Terpelivo" is "patiently", from "terpet'", to bear or suffer. "Uchit'sya" is "to learn", and what you learn takes the "to" ending.
-- 'Listen, maybe you could talk with her?' Kostya's idea begins with "and maybe" and ends with "you will have a talk", where the "po-" means a short one.
-- 'What exactly am I supposed to tell her?' "Dolzhen" is "must" or "supposed to", the male form. "Yey" is "to her", the short word that fits in the middle.
-- 'Explain that I really like her.' "Ona mne nravitsya" is "she is pleasing to me", the usual way to say "I like her". The person liked is the subject.
-- 'Okay, I will try to talk with Nastya.' "S Nastey" is "with Nastya", and the name changes to "-ey" after "with".
-- 'Thank you, friend, you will really help me out!' "Vyruchish'" means "you'll get me out of a tight spot", a warmer word than just "help".
-- 'I have about seven minutes right now.' Russian puts the number after the noun for "about": "minut sem'" is "about seven minutes", where "sem' minut" would be exactly seven.
-- 'Just say everything as gently as possible.' "Maksimal'no" is "maximally", borrowed. "Nezhno" comes from "nezhnyy", tender, as in the fillet.
-- 'Do not worry, I am a natural diplomat!' "Prirozhdyonnyy" is "pri-" plus "rozhdyonnyy", born, so "born into it". Max is bragging.
+- 'I take it you won't have a date?' "Ya ponyal", I understood, opens the line as "I take it". "U tebya ne budet" is "at you there won't be", and after "ne budet", "svidaniye" becomes "svidaniya".
+- 'Yes, I said something completely stupid again.' Russian says "skazal glupost'", said a stupidity. "Polnuyu", complete, takes -uyu as the object.
+- 'You get way too nervous around her.' "Slishkom" is "too". "Nervnichayesh'" is from "nervy", nerves, and "pered ney" is "in front of her".
+- 'I cannot manage to speak beautifully!' "Ne poluchayetsya u menya" is "it doesn't work out at me", the Russian for failing at something. "Krasivo" is "beautifully".
+- 'One needs to learn this long and patiently.' "Terpelivo", patiently, is from "terpet'", to endure. "Uchit'sya" takes "to" for the subject learned, so "eto" becomes "etomu".
+- 'Listen, maybe you could talk with her?' "A mozhet" is "and maybe". "Pogovorish'" is "you'll have a talk", with "po-" for a short one.
+- 'What exactly am I supposed to tell her?' "Dolzhen" is "must" for a man. "Yey" is "to her".
+- 'Explain that I really like her.' "Ob''yasni" is "explain". In "ona mne nravitsya", she does the pleasing and "mne" receives it.
+- 'Okay, I will try to talk with Nastya.' After "s", with, "Nastya" becomes "Nastey".
+- 'Thank you, friend, you will really help me out!' "Vyruchish'" is "you'll get me out of a jam", warmer than "pomozhesh'", you'll help.
+- 'I have about seven minutes right now.' Putting the number after the noun makes it rough: "minut sem'" is about seven, "sem' minut" is seven.
+- 'Just say everything as gently as possible.' "Maksimal'no" is borrowed, "maximally". "Nezhno", gently, is from "nezhnyy", tender.
+- 'Do not worry, I am a natural diplomat!' "Prirozhdyonnyy" is "pri-" plus "rozhdyonnyy", born: born to it. "Diplomat" was borrowed into Russian unchanged.
