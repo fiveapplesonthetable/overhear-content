@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Darn it.' Max shares a candid approach at this moment, letting the single Russian word "chyort" ("darn, heck") carry the entire reaction on its own.
-- 'She really is ideal after all.' Max sustains an earnest footing in front of Vika, pairing "idealna" ("after") with "vsyo-taki" ("after all") to get the point across in plain spoken Russian.
-- 'Max, are you at it again?' Vika prompts candidly in front of Max, placing "opyat" ("again") straight beside "maks" ("Max") with no word for "to be" needed.
-- 'I asked you not to shave with my razor.' Vika chooses an earnest bearing without hesitation, linking "prosila" ("asked"), "britsya" ("to razor"), and "stankom" ("razor") in one brisk exchange.
-- 'Mom, why are you standing there? Come in.' Nastya queries briskly in the scene, putting "mama" ("mum, mother") alongside "stoite" ("are standing") in a tight, everyday turn of phrase.
-- 'Mom has arrived.' Nastya presents a natural note straight away, building the phrase around "mama" ("mum, mother") and "priyekhala" ("came, arrived") for a crisp, natural delivery.
-- 'Hello there.' Max shares a firm view in their talk, putting all the weight on "privet" ("hi") so the reply lands immediately.
-- 'Stepan Andreyevich got sick, so he can't come home.' Nastya favors a measured tempo in the conversation, building the phrase around "andreyevich" ("andreyevich") and "zabolel" ("to fall ill") for a crisp, natural delivery.
-- 'I will stay with you for a while.' Nastya sustains a wry rhythm in front of Max, joining "pozhivu" ("to live for a while") to "ya" ("I") so every word pulls its weight.
-- 'I will help out.' Nastya shows an unhurried bearing during the exchange, leaning on "pomogu" ("I'll help") as a compact, one-word response that needs no extra words.
-- 'Mom will hear us.' Nastya takes a thoughtful mood straight away, combining "mama" ("mum, mother") and "uslyshit" ("to hear") so the key meaning lands right away.
-- 'She has been asleep for a long time.' Max shows an honest angle in front of Vika, linking "spit" ("is sleeping"), "uzhe" ("already, now"), and "davno" ("for a long time") in one brisk exchange.
+- 'Darn it.' Max phrases the comeback for Nastya: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'She really is ideal after all.' Max stands firm calmly in their talk, grounding the moment in plain reality.
+- 'Max, are you at it again?' Vika frames one pointed choice with Max: "opyat" means "again", and it carries the main weight of what Vika is saying.
+- 'I asked you not to shave with my razor.' Vika reaches for one telling expression in earnest: "stankom" means "razor" (from "stank"), giving the line its exact edge.
+- 'Mom, why are you standing there? Come in.' Nastya asks eagerly while looking straight at Max here.
+- 'Mom has arrived.' Nastya reaches for one familiar detail in earnest: "priyekhala" means "came, arrived" (from "priyekhat"), giving the line its exact edge.
+- 'Hello there.' Max states this answer in earnest: opening with the casual greeting "privet" ("hi") signals right away that Max and Nastya are on familiar terms.
+- 'Stepan Andreyevich got sick, so he can't come home.' Nastya speaks up briskly without a pause, shifting the whole mood of the room in a single beat.
+- 'I will stay with you for a while.' Nastya uses one vivid piece toward Max: "pozhivu" means "to live for a while" (from "pozhit"), giving the line its exact edge.
+- 'I will help out.' Nastya lays out that line without fuss: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'Mom will hear us.' Nastya speaks decisively facing Max, steering the talk right where she wants it.
+- 'She has been asleep for a long time.' Max focuses on one loaded piece for Vika: "davno" means "for a long time", and it carries the main weight of what Max is saying.

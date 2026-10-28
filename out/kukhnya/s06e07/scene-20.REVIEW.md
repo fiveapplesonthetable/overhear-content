@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So you think I am unattractive, got it?' Elena queries firmly beside Barinov, putting "znachit" ("then, so") alongside "schitayesh" ("to count, to think") in a tight, everyday turn of phrase.
-- 'Hello, yes, chef, I am listening to you.' Lyova projects a steady style in the scene, weaving "slushayu" ("I'm listening") together with "allo" ("hello") just the way native speakers do.
-- 'Well alright, let me tell her everything.' Lyova strikes an honest course with Barinov, linking "khorosho" ("good, fine"), "davayte" ("let's"), and "skazhu" ("I'll tell") in one brisk exchange.
-- 'Hello, respected Elena Pavlovna.' Lyova shares a grounded attitude in the room, weaving "zdravstvuyte" ("hello") together with "uvazhayemaya" ("respected, esteemed") just the way native speakers do.
-- 'I really did go take the medical tests in the chef's place.' Lyova offers a wry stance in their talk, pairing "deystvitelno" ("really, indeed") with "yezdil" ("to go, to drive") to get the point across in plain spoken Russian.
-- 'Forgive us, please, for this deception.' Lyova maintains an unhurried manner in this beat, anchoring the Russian line on "prostite" ("excuse me") and "obman" ("a trick") without extra filler.
-- 'Yes, all the best, goodbye.' Lyova displays a wry posture in the room, anchoring the Russian line on "dobrogo" ("good") and "svidaniya" ("meeting") without extra filler.
-- 'So you did not go to the hospital because of an illness?' Barinov probes openly without hesitation, weaving "znachit" ("then, so") together with "yezdil" ("to go, to drive") just the way native speakers do.
-- 'No, on the contrary, my test results are excellent!' Lyova presents a playful manner during the exchange, combining "naoborot" ("contrary") and "otlichnyye" ("excellent") so the key meaning lands right away.
-- 'And why did you suddenly ask about that?' Lyova queries bluntly in front of Elena, leaning on "pochemu" ("why") before closing the thought with "vdrug" ("suddenly, what if").
-- 'Oh no, nothing, everything is very good.' Barinov favors a thoughtful note on the spot, leaning on "ochen" ("very much") before closing the thought with "khorosho" ("good, fine").
-- 'What a strange evening it has turned out to be today!' Lyova takes a serious direction toward Elena, joining "strannyy" ("strange, odd") to "segodnya" ("today") so every word pulls its weight.
+- 'So you think I am unattractive, got it?' Elena sends this point facing Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Hello, yes, chef, I am listening to you.' Lyova jumps in sharply to settle things, leaving no doubt about where he stands.
+- 'Well alright, let me tell her everything.' Lyova leans on this vivid detail toward Barinov: "khorosho" means "good, fine", and it carries the main weight of what Lyova is saying.
+- 'Hello, respected Elena Pavlovna.' Lyova voices this answer frankly here: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'I really did go take the medical tests in the chef's place.' Lyova weighs in evenly without any doubt, bringing things back to earth after the buildup.
+- 'Forgive us, please, for this deception.' Lyova frames one classic choice in earnest: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
+- 'Yes, all the best, goodbye.' Lyova pushes back decisively without a pause, saying out loud what both of them already know.
+- 'So you did not go to the hospital because of an illness?' Barinov quizzes plainly what Lyova is actually getting at here.
+- 'No, on the contrary, my test results are excellent!' Lyova emphasizes one concrete touch in reply: "otlichnyye" means "excellent" (from "otlichnyy"), giving the line its exact edge.
+- 'And why did you suddenly ask about that?' Lyova gives the thought facing Elena: putting the question word "pochemu" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'Oh no, nothing, everything is very good.' Barinov speaks up earnestly across the room, shifting the whole mood of the room in a single beat.
+- 'What a strange evening it has turned out to be today!' Lyova grounds one loaded word right here: "poluchilsya" means "to turn out" (from "poluchitsya"), giving the line its exact edge.

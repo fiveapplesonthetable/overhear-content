@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We will just scare him a little, right?' Kostya wonders calmly at this point, combining the softening word "prosto" ("simply, just") with "pripugnem" ("we'll scare a little") to give the line its natural spoken rhythm.
-- 'What do you need this knife for?' Nastya tests honestly as the beat lands, leaning on "zachem" ("what for") before closing the thought with "nozh" ("knife").
-- 'Just in case.' Kostya offers a measured bearing in their talk, putting "sluchay" ("case, occasion") alongside "na" ("on, onto") in a tight, everyday turn of phrase.
-- 'In case you suddenly need to slice some bread?' Nastya challenges boldly in the room, combining "khleba" ("bread") and "vdrug" ("suddenly, what if") so the key meaning lands right away.
-- 'We agreed we are only going to scare him.' Kostya conveys an emphatic approach in their talk, anchoring the Russian line on "dogovorili" ("to finish speaking") and "prosto" ("just") without extra filler.
-- 'Go on, you go ahead and I will keep watch.' Nastya keeps an earnest stance during the exchange, joining "davay" ("let's") to "idi" ("go") so every word pulls its weight.
-- 'It is nothing, come on, get going.' Kostya picks a direct course in the conversation, weaving "idi" ("go") together with "davay" ("let's") just the way native speakers do.
-- 'Guys, what on earth is going on?' Nastya quizzes firmly in the scene, putting "rebyata" ("the boys, the lads") alongside "voobshche" ("at all") in a tight, everyday turn of phrase.
-- 'Keep quiet, keep quiet, hush!' Kostya favors an unhurried footing during the exchange, leaning on "tikho" ("easy, quiet") before closing the thought with "ty" ("you").
-- 'What have you done?' Nastya wonders bluntly beside Kostya, linking "nadelal-to" ("make, cause"), "ty" ("you"), and "chyo" ("what") in one brisk exchange.
-- 'I just wanted to scare him a little.' Kostya establishes a serious direction in the conversation, anchoring the Russian line on "pripugnut" ("to scare a little") and "khotel" ("wanted") without extra filler.
-- 'Why did you even touch him at all?' Nastya questions boldly in this moment, anchoring the Russian line on "zachem" ("what for") and "trogal" ("touched") without extra filler.
-- 'Listen, why on earth did I go with you?' Kostya tests directly to make the point, building the phrase around "slushay" ("listen") and "zachem" ("what for") for a crisp, natural delivery.
+- 'We will just scare him a little, right?' Kostya checks quietly in front of Nastya without any preamble.
+- 'What do you need this knife for?' Nastya anchors this clear element on cue: "nozh" means "knife", and it carries the main weight of what Nastya is saying.
+- 'Just in case.' Kostya shares the reply without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'In case you suddenly need to slice some bread?' Nastya wonders wryly what Kostya is actually getting at here.
+- 'We agreed we are only going to scare him.' Kostya leans on one classic expression for Nastya: "dogovorili" means "to finish speaking" (from "dogovorit"), giving the line its exact edge.
+- 'Go on, you go ahead and I will keep watch.' Nastya gives the comeback facing Kostya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'It is nothing, come on, get going.' Kostya holds firm pointedly in this moment, refusing to let the moment slip past.
+- 'Guys, what on earth is going on?' Nastya centers this key choice on cue: "proiskhodit" means "is going on", and it carries the main weight of what Nastya is saying.
+- 'Keep quiet, keep quiet, hush!' Kostya underscores one key element toward Nastya: "tikho" means "easy, quiet", and it carries the main weight of what Kostya is saying.
+- 'What have you done?' Nastya wonders firmly to see how Kostya will answer on the spot.
+- 'I just wanted to scare him a little.' Kostya centers one key detail at once: "pripugnut" means "to scare a little", and it carries the main weight of what Kostya is saying.
+- 'Why did you even touch him at all?' Nastya delivers that remark with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Listen, why on earth did I go with you?' Kostya questions frankly what Nastya is actually getting at here.

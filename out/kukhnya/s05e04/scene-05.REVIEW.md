@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why does he not want me?' Katya checks warmly to make the point, linking "pochemu" ("why"), "khochet" ("wants"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Because you turned him down. He is under stress.' Nastya establishes a wry view toward Katya, linking "otkazala" ("turned down"), "stress" ("stress"), and "tak" ("so") in one brisk exchange.
-- 'When I yell at Senya, he cannot do anything for a week afterward.' Nastya shares a natural tone with Katya, joining "naoru" ("I yell at") to "potom" ("then") so every word pulls its weight.
-- 'He is stressed, and I am the one suffering.' Katya brings a wry rhythm in the room, pairing "stress" ("stress") with "muchayus" ("I suffer") to get the point across in plain spoken Russian.
-- 'You need to help him relax.' Nastya shows a frank tack in this beat, putting "nuzhno" ("necessary") alongside "rasslabit" ("to relax") in a tight, everyday turn of phrase.
-- 'How about arranging a romantic evening?' Nastya wonders bluntly to Katya here, linking "ustroim" ("arrange"), "romanticheskiy" ("romantic"), and "vecher" ("evening") in one brisk exchange.
-- 'A bubble bath, candles, music.' Nastya favors a direct note at this moment, weaving "vanna" ("bathtub, bath") together with "penoy" ("with foam, bubbles") just the way native speakers do.
-- 'He comes home, and you stand up like that,' Nastya projects a natural direction right away, combining "prikhodit" ("comes by") and "vstayesh" ("you stand up") so the key meaning lands right away.
-- 'walk up to him, and take his face in your hands.' Nastya presents a sharp position for Katya, putting "podkhodish" ("to approach") alongside "beresh" ("do you take") in a tight, everyday turn of phrase.
-- 'Anyway, Kostya is working the night shift on room service tonight.' Nastya brings a thoughtful position right away, placing "koroche" ("long story short") straight beside "segodnya" ("today") with no word for "to be" needed.
-- 'I will go stay with a friend.' Nastya establishes a brisk attitude beside Katya, putting "podruge" ("friend") alongside "poydu" ("go") in a tight, everyday turn of phrase.
-- 'The apartment is at your disposal.' Nastya sustains a steady position in their talk, combining "kvartira" ("flat") and "rasporyazhenii" ("disposal") so the key meaning lands right away.
-- 'You can do it everywhere.' Nastya offers a resolute footing in front of Katya, using "mozhete" (from "moch", "can, may") alongside "sdelat" ("to do") to shape the meaning.
-- 'Except on my bed, of course.' Nastya sets a lively rhythm straight away, pairing "krovati" ("bed") with "konechno" ("of course") to get the point across in plain spoken Russian.
+- 'Why does he not want me?' Katya aims the thought in earnest: putting the question word "pochemu" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'Because you turned him down. He is under stress.' Nastya cuts in openly on the spot, so Katya knows she is not just making small talk.
+- 'When I yell at Senya, he cannot do anything for a week afterward.' Nastya colors one telling choice at once: "nedelyu" means "for a week" (from "nedelya"), giving the line its exact edge.
+- 'He is stressed, and I am the one suffering.' Katya voices the comeback at once: the "-sya" ending on "stress" ("stress") turns the action inward or makes it happen between people naturally.
+- 'You need to help him relax.' Nastya steps in firmly with a sigh, testing Katya's reaction in the middle of the exchange.
+- 'How about arranging a romantic evening?' Nastya emphasizes one clear word toward Katya: "romanticheskiy" means "romantic", and it carries the main weight of what Nastya is saying.
+- 'A bubble bath, candles, music.' Nastya speaks up calmly without holding back, letting the remark speak for itself.
+- 'He comes home, and you stand up like that,' Nastya jumps in firmly without holding back, saying out loud what both of them already know.
+- 'walk up to him, and take his face in your hands.' Nastya chooses this clear touch on cue: "podkhodish" means "to approach" (from "podkhodit"), giving the line its exact edge.
+- 'Anyway, Kostya is working the night shift on room service tonight.' Nastya shares the comeback on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I will go stay with a friend.' Nastya cuts in earnestly to settle things, steering the talk right where she wants it.
+- 'The apartment is at your disposal.' Nastya picks one familiar element at once: "rasporyazhenii" means "disposal" (from "rasporyazheniye"), giving the line its exact edge.
+- 'You can do it everywhere.' Nastya delivers that line frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Except on my bed, of course.' Nastya answers briskly across the room, testing Katya's reaction in the middle of the exchange.

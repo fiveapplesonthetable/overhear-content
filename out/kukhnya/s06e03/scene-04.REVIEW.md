@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nagiyev is filming a movie today.' Nikita brings a serious tack without hesitation, linking "segodnya" ("today"), "kino" ("cinema, movies"), and "snimayet" ("is filming") in one brisk exchange.
-- 'There will be no work, you can go home.' Nikita sets a natural tack at this moment, putting "raboty" ("of work") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'I forgot to ask you.' Denis shows a wry angle in the room, linking "zabyl" ("forgot"), "sprosit" ("to ask"), and "tebya" ("you") in one brisk exchange.
-- 'How much longer can this go on?' Denis quizzes steadily during the talk, weaving "skolko" ("how much, so much") together with "mozhno" ("may, can") just the way native speakers do.
-- 'Sorry, we did it accidentally.' Nagiyev shows a warm line right away, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "nechayanno" ("by accident") to shape the meaning.
-- 'Listen, Nagiyev's movie is here, and the plumbing got clogged.' Nagiyev presents an unhurried approach at once, linking "slushay" ("listen"), "kino" ("cinema, movies"), and "kanalizatsiya" ("sewage, plumbing") in one brisk exchange.
-- 'I do not think that is a coincidence.' Nagiyev chooses an emphatic bearing right away, linking "dumayu" ("I think"), "prosto" ("just"), and "ne" ("not") in one brisk exchange.
-- 'I was just thinking, maybe we should play football?' Nagiyev quizzes naturally right away, joining "tut" ("here") to "podumal" ("would think") so every word pulls its weight.
-- 'I do not want to play.' Denis brings an emphatic attitude in the room, leaning on "khochu" ("want") before closing the thought with "igrat" ("to play").
-- 'Why, he just got scared.' Nikita sustains a sharp view on the spot, combining "prosto" ("just") and "ispugalsya" ("got scared") so the key meaning lands right away.
-- 'Fine, let's play.' Denis chooses an unhurried tempo on the spot, using "davay" (from "davat", "let's") alongside "sygrayem" ("will play, will hold") to shape the meaning.
-- 'Pass the ball, please.' Nagiyev favors an honest tack right away, using "podayte" (from "podat", "to submit, file") alongside "myach" ("ball") to shape the meaning.
+- 'Nagiyev is filming a movie today.' Nikita reaches for one clear touch in earnest: "segodnya" means "today", and it carries the main weight of what Nikita is saying.
+- 'There will be no work, you can go home.' Nikita answers at once facing Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'I forgot to ask you.' Denis steps in bluntly watching Nagiyev, letting the remark speak for itself.
+- 'How much longer can this go on?' Denis features one loaded touch in reply: "mozhno" means "may, can", and it carries the main weight of what Denis is saying.
+- 'Sorry, we did it accidentally.' Nagiyev lays out this line without pause: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Nagiyev steps in.
+- 'Listen, Nagiyev's movie is here, and the plumbing got clogged.' Nagiyev follows up earnestly to settle things, leaving no doubt about where he stands.
+- 'I do not think that is a coincidence.' Nagiyev chooses this telling touch at once: "dumayu" means "I think" (from "dumat"), giving the line its exact edge.
+- 'I was just thinking, maybe we should play football?' Nagiyev hands over this answer right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Nikita purely through rising pitch at the end.
+- 'I do not want to play.' Denis continues earnestly with a shrug, steering the talk right where he wants it.
+- 'Why, he just got scared.' Nikita uses this clear element toward Nagiyev: "ispugalsya" means "got scared" (from "ispugatsya"), giving the line its exact edge.
+- 'Fine, let's play.' Denis gives this statement with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Pass the ball, please.' Nagiyev speaks up boldly with Nikita, letting the remark speak for itself.

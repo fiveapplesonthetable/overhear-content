@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I turned out to be a bad dad, didn't I?' Barinov inquires decisively during the talk, pairing "plokhoy" ("bad") with "poluchilsya" ("to turn out") to get the point across in plain spoken Russian.
-- 'Well, to be honest, not a very good one.' Katya conveys a direct line right away, weaving "chestno" ("honestly") together with "ochen" ("very much") just the way native speakers do.
-- 'You never missed a single soccer match.' Katya adopts a playful style on the spot, combining "propuskal" ("to single") and "futbolnogo" ("football, soccer") so the key meaning lands right away.
-- 'Being a father is not your strong suit.' Katya displays a clear tack with Barinov, weaving "byt" ("be") together with "ottsom" ("father") just the way native speakers do.
-- 'Your calling is to be a great head chef.' Katya displays a sharp tack during the exchange, anchoring the Russian line on "prizvaniye" ("great") and "byt" ("be") without extra filler.
-- 'Creating masterpieces—that is where your strength lies.' Katya adopts an honest tack across the room, weaving "sozdavat" ("to create, cause") together with "shedevry" ("masterpiece") just the way native speakers do.
-- 'That is the exact thing I admire in you.' Katya sustains a playful approach with Barinov, placing "voskhishchayet" ("admire") straight beside "imenno" ("exactly, precisely") with no word for "to be" needed.
-- 'But if you give up right now...' Katya shares a warm course without hesitation, anchoring the Russian line on "seychas" ("now") and "opustish" ("to right") without extra filler.
-- 'Then you will never see me again.' Katya holds a measured posture in front of Barinov, weaving "bolshe" ("more") together with "nikogda" ("never") just the way native speakers do.
-- 'You understand that Nagiyev will not let me win.' Barinov chooses a frank note without hesitation, pairing "ponimayesh" ("do you understand") with "dast" ("will give") to get the point across in plain spoken Russian.
-- 'And perhaps this will help you?' Katya presses calmly as they speak, leaning on "mozhet" ("can") before closing the thought with "byt" ("be").
-- 'What is this? It is a little gift for you.' Katya challenges pointedly beside Barinov, placing "malenkiy" ("short, little") straight beside "podarok" ("gift, voucher") with no word for "to be" needed.
+- 'I turned out to be a bad dad, didn't I?' Barinov frames this key touch in reply: "poluchilsya" means "to turn out" (from "poluchitsya"), giving the line its exact edge.
+- 'Well, to be honest, not a very good one.' Katya fires back sharply without any doubt, refusing to let the moment slip past.
+- 'You never missed a single soccer match.' Katya reacts bluntly during the talk, refusing to let the moment slip past.
+- 'Being a father is not your strong suit.' Katya features one direct expression at once: "ottsom" means "father" (from "otets"), giving the line its exact edge.
+- 'Your calling is to be a great head chef.' Katya spotlights this clear expression for Barinov: "shef-povarom" means "head chef" (from "shef-povar"), giving the line its exact edge.
+- 'Creating masterpieces—that is where your strength lies.' Katya reacts warmly as they talk, leaving no doubt about where she stands.
+- 'That is the exact thing I admire in you.' Katya grounds one classic piece on cue: "voskhishchayet" means "admire", and it carries the main weight of what Katya is saying.
+- 'But if you give up right now...' Katya features one loaded word for Barinov: "opustish" means "to right" (from "opustit"), giving the line its exact edge.
+- 'Then you will never see me again.' Katya proceeds briskly around Barinov, refusing to let the moment slip past.
+- 'You understand that Nagiyev will not let me win.' Barinov emphasizes one pointed choice in earnest: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
+- 'And perhaps this will help you?' Katya lays out the remark at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'What is this? It is a little gift for you.' Katya wonders evenly about what Barinov just brought up.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A guy on the forum has the exact same problem.' Kostya projects an earnest direction on the spot, linking "chuvaka" ("guy, dude"), "forume" ("forum"), and "problema" ("problem") in one brisk exchange.
-- 'My ex is pregnant and says it is not mine.' Kostya maintains a measured posture as the scene unfolds, putting "byvshaya" ("former") alongside "beremenna" ("pregnant") in a tight, everyday turn of phrase.
-- 'But I know for sure that the child is mine.' Kostya presents a clear view in the conversation, combining "tochno" ("definitely") and "znayu" ("know") so the key meaning lands right away.
-- 'What do they advise?' Max questions warmly from the start, combining "sovetuyut" ("advise") and "chto" ("what") so the key meaning lands right away.
-- 'Relax and enjoy life.' Kostya shares an unhurried tempo on the spot, combining "rasslabsya" ("relax") and "naslazhdaysya" ("enjoy") so the key meaning lands right away.
-- 'Will you have tea?' Nastya quizzes directly in this moment, joining "chay" ("tea") to "budete" ("will be") so every word pulls its weight.
-- 'Maybe this child really is not mine?' Max queries warmly as they speak, building the phrase around "mozhet" ("can") and "rebyonok" ("a child") for a crisp, natural delivery.
-- 'You and Vika broke up, and she immediately found someone?' Nastya presses warmly without a pause, weaving "rasstalis" ("broke up, separated") together with "srazu" ("at once") just the way native speakers do.
-- 'Making sure that the child is yours is very simple.' Nastya establishes a grounded position with Kostya, putting "ubeditsya" ("to become convinced") alongside "rebyonok" ("a child") in a tight, everyday turn of phrase.
-- 'Right before my departure.' Max picks a lively note straight away, anchoring the Russian line on "kak" ("how") and "raz" ("time, once") without extra filler.
-- 'That means five months ago.' Nastya shows an easygoing bearing for Kostya, pairing "poluchayetsya" ("works out") with "mesyatsev" ("months") so the "-sya" ending carries the action.
-- 'All that is left is to check this.' Max sustains a warm style in the scene, using "ostalos" (from "ostatsya", "was left") alongside "tolko" ("only") to shape the meaning.
+- 'A guy on the forum has the exact same problem.' Kostya jumps in frankly hearing Max, letting the remark speak for itself.
+- 'My ex is pregnant and says it is not mine.' Kostya colors one familiar piece at once: "beremenna" means "pregnant" (from "beremennyy"), giving the line its exact edge.
+- 'But I know for sure that the child is mine.' Kostya follows up plainly beside Max, watching Max's face to see how the news lands.
+- 'What do they advise?' Max questions earnestly whether Nastya really thought this through.
+- 'Relax and enjoy life.' Kostya spotlights one sharp detail right here: "naslazhdaysya" means "enjoy" (from "naslazhdatsya"), giving the line its exact edge.
+- 'Will you have tea?' Nastya hands over this warning without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Maybe this child really is not mine?' Max presses eagerly while looking straight at Kostya here.
+- 'You and Vika broke up, and she immediately found someone?' Nastya chooses this telling term for Max: "rasstalis" means "broke up, separated" (from "rasstatsya"), giving the line its exact edge.
+- 'Making sure that the child is yours is very simple.' Nastya aims this point without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Right before my departure.' Max holds firm boldly beside Nastya, leaving no doubt about where he stands.
+- 'That means five months ago.' Nastya picks this sharp expression in reply: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
+- 'All that is left is to check this.' Max brings that reply without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

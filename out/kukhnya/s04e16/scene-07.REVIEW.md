@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What am I to do with a face like this?' Nagiyev checks lightly in the scene, joining "delat" ("do") to "litsom" ("face") so every word pulls its weight.
-- 'Let's hold a Halloween celebration in our restaurant!' German chooses a steady tack across the room, anchoring the Russian line on "davayte" ("let's") and "sdelayem" ("we'll do") without extra filler.
-- 'We will put stage makeup on you nicely before you go out into the hall.' German sets a measured position as they talk, putting "krasivo" ("beautifully") alongside "zagrimiruyem" ("to makeup") in a tight, everyday turn of phrase.
-- 'I wonder who you will make me up as?' Nagiyev inquires directly as they speak, putting "interesno" ("interesting") alongside "zagrimiruyete" ("to as") in a tight, everyday turn of phrase.
-- 'We will dress you up like the real Count Dracula!' German takes a direct note in the room, linking "odenem" ("to up"), "kak" ("how"), and "nastoyashchego" ("real, genuine") in one brisk exchange.
-- 'Look, Vika, our new chef thinks creatively!' Nagiyev chooses a playful manner at this moment, leaning on "smotri" ("look") before closing the thought with "novyy" ("new").
-- 'Vika Sergeyevna and I are working toward a common goal.' German offers a direct note as the scene unfolds, weaving "delayem" ("are doing") together with "obshcheye" ("joint") just the way native speakers do.
-- 'Good, then you are responsible for a fun party script.' Nagiyev sets a frank bearing at once, putting "khorosho" ("good, fine") alongside "togda" ("back then") in a tight, everyday turn of phrase.
-- 'And you, German, are responsible for unusual festive cuisine!' Nagiyev picks a warm footing without hesitation, combining "neobychnaya" ("unusual") and "prazdnichnaya" ("festive, holiday") so the key meaning lands right away.
-- 'And I am quietly going to go to sleep right now, guys.' Nagiyev presents a frank stance at this moment, pairing "seychas" ("now") with "tikho" ("easy, quiet") to get the point across in plain spoken Russian.
-- 'I am again being pulled strongly into a deep sleep.' Nagiyev keeps a calm tempo for German, combining "snova" ("again") and "silno" ("strongly, much") so the key meaning lands right away.
-- 'That is a great idea, German, thank you very much!' Vika offers a grounded manner on the spot, linking "otlichnaya" ("excellent"), "ideya" ("idea"), and "bolshoye" ("big, very much") in one brisk exchange.
+- 'What am I to do with a face like this?' Nagiyev anchors one concrete choice right here: "litsom" means "face" (from "litso"), giving the line its exact edge.
+- 'Let's hold a Halloween celebration in our restaurant!' German makes the reply on cue: the word "davayte" is the polite or group version of "let's", inviting Vika into the plan right away.
+- 'We will put stage makeup on you nicely before you go out into the hall.' German answers calmly as they talk, so Nagiyev knows he is not just making small talk.
+- 'I wonder who you will make me up as?' Nagiyev frames this telling word right here: "zagrimiruyete" means "to as" (from "zagrimirut"), giving the line its exact edge.
+- 'We will dress you up like the real Count Dracula!' German frames one loaded choice toward Nagiyev: "nastoyashchego" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
+- 'Look, Vika, our new chef thinks creatively!' Nagiyev responds quietly during the talk, watching Vika's face to see how the news lands.
+- 'Vika Sergeyevna and I are working toward a common goal.' German points to this clear element on cue: "obshcheye" means "joint" (from "obshchiy"), giving the line its exact edge.
+- 'Good, then you are responsible for a fun party script.' Nagiyev puts this statement around Vika: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'And you, German, are responsible for unusual festive cuisine!' Nagiyev holds firm dryly as they talk, bringing things back to earth after the buildup.
+- 'And I am quietly going to go to sleep right now, guys.' Nagiyev anchors one direct expression toward Vika: "rebyata" means "the boys, the lads", and it carries the main weight of what Nagiyev is saying.
+- 'I am again being pulled strongly into a deep sleep.' Nagiyev counters lightly toward German, to clear the air between them once and for all.
+- 'That is a great idea, German, thank you very much!' Vika weighs in right away with a nod, refusing to let the moment slip past.

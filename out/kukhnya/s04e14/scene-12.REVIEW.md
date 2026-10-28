@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, and what should we do right now?' Senya presses promptly to keep things clear, joining "seychas" ("now") to "delat" ("do") so every word pulls its weight.
-- 'The restaurant is closed, maybe we will go home?' Senya inquires wryly beside Katya, putting "restoran" ("restaurant") alongside "zakryt" ("is closed") in a tight, everyday turn of phrase.
-- 'Clean up your workstations and go.' German displays a clear style in their talk, combining "ubirayte" ("clear, remove") and "rabochiye" ("workers") so the key meaning lands right away.
-- 'Although wait, just one moment, stop!' German strikes a grounded course straight away, building the phrase around "podozhdite" ("wait") and "minutochku" ("a minute") for a crisp, natural delivery.
-- 'Tonight I will need two cooks.' German sets a calm tack in front of Katya, combining "segodnya" ("today") and "vecherom" ("in the evening") so the key meaning lands right away.
-- 'You will stay here in the kitchen until ten.' German offers a playful direction as the scene unfolds, anchoring the Russian line on "ostanetes" ("to remain, to be left") and "zdes" ("here") without extra filler.
-- 'But why do I in particular have to stay?' Senya quizzes plainly with German now, putting "pochemu" ("why") alongside "dolzhen" ("has to, must") in a tight, everyday turn of phrase.
-- 'Until eleven then, are there any more questions?' German probes lightly as they speak, joining "togda" ("back then") to "odinnadtsati" ("to then") so every word pulls its weight.
-- 'And I also need two waiters.' German sustains a thoughtful posture without hesitation, building the phrase around "takzhe" ("also") and "nuzhny" ("needed") for a crisp, natural delivery.
-- 'Ekaterina, I already said everyone is free to go.' German projects a thoughtful direction in the conversation, using "skazal" (from "skazat", "said") alongside "svobodny" ("free") to shape the meaning.
-- 'I need to calmly finish one task.' Katya projects a direct approach straight away, combining "nado" ("it is necessary") and "spokoyno" ("calmly") so the key meaning lands right away.
-- 'All right, see for yourself, just do not take long.' German holds a measured note at this moment, anchoring the Russian line on "khorosho" ("good, fine") and "smotrite" ("look") without extra filler.
+- 'German Mikhailovich, and what should we do right now?' Senya wonders calmly in front of German without any preamble.
+- 'The restaurant is closed, maybe we will go home?' Senya stresses one loaded piece on cue: "restoran" means "restaurant", and it carries the main weight of what Senya is saying.
+- 'Clean up your workstations and go.' German pushes back lightly without a pause, refusing to let the moment slip past.
+- 'Although wait, just one moment, stop!' German replies dryly facing Senya, so Senya knows he is not just making small talk.
+- 'Tonight I will need two cooks.' German highlights one familiar detail on cue: "ponadobyatsya" means "to be needed" (from "ponadobitsya"), giving the line its exact edge.
+- 'You will stay here in the kitchen until ten.' German voices the thought beside Senya: the "-sya" ending on "ostanetes" ("to remain, to be left") turns the action inward or makes it happen between people naturally.
+- 'But why do I in particular have to stay?' Senya prompts calmly if there is more going on behind the scenes.
+- 'Until eleven then, are there any more questions?' German uses one practical word right here: "odinnadtsati" means "to then", and it carries the main weight of what German is saying.
+- 'And I also need two waiters.' German stands firm frankly to be clear, watching Katya's face to see how the news lands.
+- 'Ekaterina, I already said everyone is free to go.' German jumps in dryly as they talk, bringing things back to earth after the buildup.
+- 'I need to calmly finish one task.' Katya stresses one concrete element for German: "zakonchit" means "to finish", and it carries the main weight of what Katya is saying.
+- 'All right, see for yourself, just do not take long.' German drops this answer on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".

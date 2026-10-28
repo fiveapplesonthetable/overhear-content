@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You should quit cards, you do not know how to play.' Barinov holds a thoughtful position in the conversation, weaving "zavyazyval" ("would quit") together with "kartami" ("with cards") just the way native speakers do.
-- 'Practice with Katya here.' Barinov strikes an earnest angle during the exchange, building the phrase around "potreniruysya" ("practice") and "ty" ("you") for a crisp, natural delivery.
-- 'Take your hand off!' Barinov favors a serious manner with the doctor, pairing "ruku" ("hand") with "ubral" ("to remove, to take away") to get the point across in plain spoken Russian.
-- 'How could you drag our child to an underground casino?' Eleonora inquires warmly from the start, putting "kak" ("how") alongside "mozhno" ("may, can") in a tight, everyday turn of phrase.
-- 'I wanted to save her from depression.' Barinov displays a brisk tack in the scene, pairing "khotel" ("wanted") with "spasti" ("to save") to get the point across in plain spoken Russian.
-- 'It perks you up.' Barinov projects a natural posture on the spot, anchoring the Russian line on "bodrit" ("invigorates") and "eto" ("this") without extra filler.
-- 'Hello, come on in.' Eleonora sustains an earnest angle in this beat, putting "zdravstvuyte" ("hello") alongside "prokhodite" ("come in") in a tight, everyday turn of phrase.
-- 'Who is this now?' Barinov questions frankly in their exchange, combining "yeshchyo" ("more, still") and "eto" ("this") so the key meaning lands right away.
-- 'Doctor of psychological sciences.' The doctor shares a natural posture in the conversation, linking "doktor" ("Doctor"), "psikhologicheskikh" ("psychological"), and "nauk" ("sciences") in one brisk exchange.
-- 'Sweetheart, please talk with the doctor, he will help you.' Eleonora conveys a brisk view on the spot, leaning on "dochenka" ("sweetheart") before closing the thought with "pogovori" ("talk").
-- 'My daughter does not need a doctor.' Barinov adopts a candid bearing in the room, combining "docheri" ("of daughter") and "nuzhen" ("is needed") so the key meaning lands right away.
-- 'You certainly need him more, but you can wait.' Eleonora establishes a clear mood in the conversation, joining "konechno" ("of course") to "nuzhneye" ("more needed") so every word pulls its weight.
+- 'You should quit cards, you do not know how to play.' Barinov points to this key word at once: "zavyazyval" means "would quit" (from "zavyazyvat"), giving the line its exact edge.
+- 'Practice with Katya here.' Barinov replies earnestly without any doubt, letting the remark speak for itself.
+- 'Take your hand off!' Barinov sharpens this clear term with the doctor: "ruku" means "hand" (from "ruka"), giving the line its exact edge.
+- 'How could you drag our child to an underground casino?' Eleonora gives the thought to the doctor: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'I wanted to save her from depression.' Barinov pushes back evenly on the spot, refusing to let the moment slip past.
+- 'It perks you up.' Barinov highlights this clear element in reply: "bodrit" means "invigorates", and it carries the main weight of what Barinov is saying.
+- 'Hello, come on in.' Eleonora delivers the comment to Barinov: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Who is this now?' Barinov inquires curiously if there is more going on behind the scenes.
+- 'Doctor of psychological sciences.' The doctor spotlights this sharp term toward Barinov: "psikhologicheskikh" means "psychological" (from "psikhologicheskiy"), giving the line its exact edge.
+- 'Sweetheart, please talk with the doctor, he will help you.' Eleonora shares the reaction at once: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'My daughter does not need a doctor.' Barinov reacts calmly with the doctor, watching the doctor's face to see how the news lands.
+- 'You certainly need him more, but you can wait.' Eleonora anchors this direct detail for the doctor: "poterpish" means "will wait, endure" (from "poterpet"), giving the line its exact edge.

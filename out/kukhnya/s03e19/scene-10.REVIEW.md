@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I really need one glass of wine right now.' Vika favors a brisk stance for Max, leaning on "seychas" ("now") before closing the thought with "ochen" ("very much").
-- 'I mean not for me, I never drink at work.' Vika shares a frank style across the room, weaving "smysle" ("sense") together with "rabote" ("work") just the way native speakers do.
-- 'And when do you drink? At a café with the girls?' Max asks quietly right away, pairing "kogda" ("when") with "pyosh" ("drink") to get the point across in plain spoken Russian.
-- 'Yes, or if some handsome guy treats me.' Vika displays a firm angle at once, weaving "ugostit" ("will treat") together with "simpatichnyy" ("handsome, cute") just the way native speakers do.
-- 'And where do you usually go in the evening with your friends?' Max presses plainly across the room, leaning on "kuda" ("where to") before closing the thought with "obychno" ("usually").
-- 'I will drop by and treat you, if I am handsome, of course.' Max adopts an easygoing attitude toward Vika, anchoring the Russian line on "zaydu" ("to come in") and "sluchayno" ("by any chance") without extra filler.
-- 'Well, maybe you really are very handsome.' Vika shares an earnest note across the room, putting "mozhet" ("can") alongside "byt" ("be") in a tight, everyday turn of phrase.
-- 'Vika wants to play spies with me? Fine!' Max asks earnestly in front of Vika, linking "khochet" ("wants"), "poigrat" ("to play for a bit"), and "shpionov" ("spies") in one brisk exchange.
-- 'Tonight our most important guests are in the dining room.' Max keeps a firm bearing in this beat, putting "segodnya" ("today") alongside "vecherom" ("in the evening") in a tight, everyday turn of phrase.
-- 'Hello, Viktor Petrovich! Rodion Sergeyevich in person!' Vika offers an honest course in the room, leaning on "zdravstvuyte" ("hello") before closing the thought with "sobstvennoy" ("own, proper").
-- 'And I have come with a complete package of all documents.' Rodion shows a firm tempo during the exchange, using "prishyol" (from "priyti", "came, have come") alongside "polnym" ("full, complete") to shape the meaning.
-- 'Come on, show us your new passport, Rodion.' Max sets a firm style at once, pairing "pokazhite" ("show") with "novyy" ("new") to get the point across in plain spoken Russian.
+- 'Kostya, I really need one glass of wine right now.' Vika highlights one practical choice in reply: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'I mean not for me, I never drink at work.' Vika brings the remark at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'And when do you drink? At a café with the girls?' Max inquires briskly about what Rodion just brought up.
+- 'Yes, or if some handsome guy treats me.' Vika colors one colorful term in earnest: "simpatichnyy" means "handsome, cute", and it carries the main weight of what Vika is saying.
+- 'And where do you usually go in the evening with your friends?' Max shares the thought before Rodion: putting the question word "kuda" right at the front of the line lets Rodion hear the point of the question on the very first beat.
+- 'I will drop by and treat you, if I am handsome, of course.' Max reacts pointedly during the talk, testing Vika's reaction in the middle of the exchange.
+- 'Well, maybe you really are very handsome.' Vika colors one familiar detail in earnest: "simpatichnyy" means "handsome, cute", and it carries the main weight of what Vika is saying.
+- 'Vika wants to play spies with me? Fine!' Max delivers the reaction with candor: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Tonight our most important guests are in the dining room.' Max counters lightly with Rodion, bringing things back to earth after the buildup.
+- 'Hello, Viktor Petrovich! Rodion Sergeyevich in person!' Vika grounds this direct word toward Rodion: "sobstvennoy" means "own, proper" (from "sobstvennyy"), giving the line its exact edge.
+- 'And I have come with a complete package of all documents.' Rodion steps in dryly without a pause, saying out loud what both of them already know.
+- 'Come on, show us your new passport, Rodion.' Max answers evenly with a sigh, keeping the focus on what actually matters here.

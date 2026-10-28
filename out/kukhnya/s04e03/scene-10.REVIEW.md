@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Disgusting.' German favors a firm style beside Max, using "otvratitelno" ("disgusting") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Actually, this one is disgusting, and that one was just bad.' German chooses a wry manner as they talk, putting "otvratitelno" ("disgusting") alongside "bylo" ("was") in a tight, everyday turn of phrase.
-- 'Here, this one is the ideal béchamel.' German chooses an emphatic style during the exchange, weaving "idealnyy" ("perfect") together with "beshamel" ("béchamel") just the way native speakers do.
-- 'Excuse me. Mine was ideal too.' Max shares a calm tone right away, building the phrase around "izvinite" ("sorry, excuse me") and "tozhe" ("too") for a crisp, natural delivery.
-- 'Delicious. Let's sum up the results.' German sustains a pointed line beside Max, linking "vkusnyatina" ("delicious"), "davayte" ("let's"), and "podvedyom" ("to let down") in one brisk exchange.
-- 'You no longer work for us.' German picks a thoughtful position as they talk, anchoring the Russian line on "bolshe" ("more") and "rabotayete" ("work") without extra filler.
-- 'Congratulations to the rest of you. You passed the evaluation.' German displays a serious bearing as the scene unfolds, anchoring the Russian line on "ostalnykh" ("the others") and "pozdravlyayu" ("congratulations") without extra filler.
-- 'German Mikhailovich, Nagiyev has arrived out there.' Max conveys a pointed tone right away, weaving "tam" ("there") together with "priyekhal" ("came") just the way native speakers do.
-- 'The top scorer of the evaluation will handle the main course.' German shares a thoughtful tone as the scene unfolds, pairing "osnovnym" ("top") with "blyudom" ("dish, course") to get the point across in plain spoken Russian.
-- 'Yes, Chef.' Max brings an unhurried course in the conversation, joining "da" ("yes") to "shef" ("Chef") so every word pulls its weight.
-- 'Get to work, friends, what is the matter?' German checks naturally on the spot, building the phrase around "rabotu" ("job") and "druzya" ("friends") for a crisp, natural delivery.
-- 'Don't worry, I will cook everything myself.' Max conveys a thoughtful course across the room, leaning on "volnuysya" ("worry") before closing the thought with "prigotovlyu" ("will prepare").
+- 'Disgusting.' German sharpens one vivid word at once: "otvratitelno" means "disgusting", and it carries the main weight of what German is saying.
+- 'Actually, this one is disgusting, and that one was just bad.' German phrases the comment with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Here, this one is the ideal béchamel.' German responds boldly watching Max, leaving no doubt about where he stands.
+- 'Excuse me. Mine was ideal too.' Max colors one direct piece toward German: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'Delicious. Let's sum up the results.' German puts this line facing Max: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
+- 'You no longer work for us.' German holds firm boldly with a nod, refusing to let the moment slip past.
+- 'Congratulations to the rest of you. You passed the evaluation.' German spotlights this clear touch with Max: "attestatsiyu" means "evaluation" (from "attestatsiya"), giving the line its exact edge.
+- 'German Mikhailovich, Nagiyev has arrived out there.' Max fires back honestly in this moment, making his position completely clear.
+- 'The top scorer of the evaluation will handle the main course.' German opens up briskly with a sigh, letting the remark speak for itself.
+- 'Yes, Chef.' Max directs this statement without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Get to work, friends, what is the matter?' German aims this statement without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Don't worry, I will cook everything myself.' Max fires back lightly around German, watching German's face to see how the news lands.

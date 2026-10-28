@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do whatever you want.' Barinov picks a direct direction straight away, putting "delayte" ("do") alongside "khotite" ("want") in a tight, everyday turn of phrase.
-- 'But the sauté pan must be with me.' Barinov shares a direct angle in the room, linking "soteynik" ("pan"), "dolzhen" ("has to, must"), and "byt" ("be") in one brisk exchange.
-- 'Maybe it is simpler to buy a new one?' Senya checks frankly in this moment, weaving "mozhet" ("can") together with "proshche" ("simpler, easier") just the way native speakers do.
-- 'I need mine.' Barinov sustains a warm tempo in the scene, building the phrase around "nuzhen" ("is needed") and "mne" ("to me") for a crisp, natural delivery.
-- 'Chef, that is impossible.' Senya picks a firm course without hesitation, anchoring the Russian line on "nevozmozhno" ("impossible") and "shef" ("Chef") without extra filler.
-- 'German hid the sauté pan in the safe.' Senya strikes a firm tempo in this beat, linking "spryatal" ("hid"), "soteynik" ("pan"), and "seyf" ("safe") in one brisk exchange.
-- 'So first we have to steal the keys.' Senya adopts a firm mood in this beat, anchoring the Russian line on "znachit" ("then, so") and "snachala" ("first, at first") without extra filler.
-- 'You will not abandon me in a difficult moment?' Barinov inquires briskly toward Senya here, weaving "brosite" ("to throw, to leave") together with "trudnuyu" ("difficult, hard") just the way native speakers do.
-- 'Fine, I am taking you to the banya.' Barinov keeps a sharp rhythm in front of Louis, putting "vedu" ("lead, am ahead") alongside "banyu" ("bathhouse") in a tight, everyday turn of phrase.
-- 'How will we pull the keys out of his pocket?' Senya asks wryly without a pause, combining "kak" ("how") and "klyuchi" ("the keys") so the key meaning lands right away.
-- 'We can put him to sleep first.' Louis brings a brisk course as they talk, linking "mozhno" ("may, can"), "snachala" ("first, at first"), and "usypit" ("to first") in one brisk exchange.
-- 'I have sleeping medicine.' Louis picks a measured angle in this beat, combining "yest" ("there is") and "snotvornoye" ("medicine") so the key meaning lands right away.
-- 'Louis, let's skip the details.' Barinov shares a frank angle without hesitation, weaving "davay" ("let's") together with "podrobnostey" ("detail") just the way native speakers do.
-- 'But the thoughts are good, friends.' Barinov conveys an honest attitude for Senya, putting "mysli" ("thoughts") alongside "khoroshiye" ("good") in a tight, everyday turn of phrase.
+- 'Do whatever you want.' Barinov holds firm steadily as things stand, to clear the air between them once and for all.
+- 'But the sauté pan must be with me.' Barinov spotlights this key detail for Senya: "soteynik" means "pan", and it carries the main weight of what Barinov is saying.
+- 'Maybe it is simpler to buy a new one?' Senya makes this update on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'I need mine.' Barinov stands firm earnestly around Senya, leaving no doubt about where he stands.
+- 'Chef, that is impossible.' Listen to how Senya counters Barinov without pause — the Russian word "nevozmozhno" ("impossible") gives the whole sentence its punch.
+- 'German hid the sauté pan in the safe.' Senya replies pointedly as things stand, saying out loud what both of them already know.
+- 'So first we have to steal the keys.' Senya reacts warmly across the room, bringing things back to earth after the buildup.
+- 'You will not abandon me in a difficult moment?' Barinov uses this vivid expression right here: "trudnuyu" means "difficult, hard" (from "trudnyy"), giving the line its exact edge.
+- 'Fine, I am taking you to the banya.' Barinov shapes that thought right away: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Louis is on board.
+- 'How will we pull the keys out of his pocket?' Senya quizzes calmly in front of Louis without any preamble.
+- 'We can put him to sleep first.' Louis leans on one vivid expression on cue: "snachala" means "first, at first", and it carries the main weight of what Louis is saying.
+- 'I have sleeping medicine.' Louis hands over that point briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Louis, let's skip the details.' Barinov opens up frankly watching Louis, shifting the whole mood of the room in a single beat.
+- 'But the thoughts are good, friends.' Barinov stresses one key piece in reply: "khoroshiye" means "good" (from "khoroshiy"), giving the line its exact edge.

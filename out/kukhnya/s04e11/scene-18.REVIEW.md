@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, let's begin our exam.' Nagiyev shares a serious style beside Kostya, anchoring the Russian line on "davay" ("let's") and "nachnyom" ("we start") without extra filler.
-- 'Why are you gulping wine like water?' Nagiyev checks frankly to keep things clear, weaving "pyosh" ("drink") together with "vino" ("wine") just the way native speakers do.
-- 'Name the country and the year for me.' Nagiyev displays a clear line without hesitation, combining "nazyvay" ("name, call") and "stranu" ("country") so the key meaning lands right away.
-- 'This is France, the year two thousand eight.' Kostya offers a warm manner during the exchange, anchoring the Russian line on "tysyachi" ("thousands") and "vosmoy" ("eighth") without extra filler.
-- 'Well, suppose so, and what region?' Nagiyev challenges briskly toward Kostya here, linking "dopustim" ("let's say"), "region" ("region"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Wait, I will tell you right now.' Kostya adopts a resolute attitude as the scene unfolds, pairing "podozhdite" ("wait") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'Hey, musician, stop playing over there!' Nagiyev shares a direct stance without hesitation, putting "muzykant" ("musician") alongside "zakanchivay" ("to finish, to conclude") in a tight, everyday turn of phrase.
-- 'Oh no, he is not bothering me at all.' Kostya maintains a measured rhythm in their talk, combining "sovsem" ("at all") and "meshayet" ("bothers") so the key meaning lands right away.
-- 'He is bothering me, silence in the room!' Nagiyev sustains a pointed line on the spot, weaving "meshayet" ("bothers") together with "tishina" ("silence, quiet") just the way native speakers do.
-- 'France, two thousand eight, Bordeaux region.' Kostya sustains a playful attitude as the scene unfolds, leaning on "vosmoy" ("eighth") before closing the thought with "god" ("year").
-- 'Fine, then try the second bottle.' Nagiyev shows a serious footing at this moment, joining "togda" ("back then") to "probuy" ("to try, to taste") so every word pulls its weight.
-- 'Italy, two thousand seven, Tuscany!' Kostya conveys a sharp tone across the room, combining "italiya" ("italy") and "tysyachi" ("thousands") so the key meaning lands right away.
-- 'Could you really be a genuine sommelier?' Nagiyev prompts briskly as the talk turns, combining "nastoyashchiy" ("real, genuine") and "somelye" ("moscow") so the key meaning lands right away.
+- 'Well, let's begin our exam.' Nagiyev opens up evenly during the talk, shifting the whole mood of the room in a single beat.
+- 'Why are you gulping wine like water?' Nagiyev underscores this direct piece at once: "vino" means "wine", and it carries the main weight of what Nagiyev is saying.
+- 'Name the country and the year for me.' Nagiyev pushes back promptly without a pause, letting the remark speak for itself.
+- 'This is France, the year two thousand eight.' Kostya weighs in earnestly on the spot, shifting the whole mood of the room in a single beat.
+- 'Well, suppose so, and what region?' Notice how Nagiyev turns to Kostya on cue — the Russian word "dopustim" ("let's say", built from "dopustit") does the heavy lifting.
+- 'Wait, I will tell you right now.' Kostya shapes that thought to Nagiyev: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Hey, musician, stop playing over there!' Nagiyev opens up evenly without a pause, so Kostya knows he is not just making small talk.
+- 'Oh no, he is not bothering me at all.' Kostya highlights one loaded expression in earnest: "meshayet" means "bothers" (from "meshat"), giving the line its exact edge.
+- 'He is bothering me, silence in the room!' Nagiyev stands firm promptly to be clear, leaving no doubt about where he stands.
+- 'France, two thousand eight, Bordeaux region.' Kostya stands firm evenly as things stand, leaving no doubt about where he stands.
+- 'Fine, then try the second bottle.' Nagiyev grounds this clear expression right here: "vtoruyu" means "second" (from "vtoroy"), giving the line its exact edge.
+- 'Italy, two thousand seven, Tuscany!' Kostya fires back lightly around Nagiyev, keeping the focus on what actually matters here.
+- 'Could you really be a genuine sommelier?' Nagiyev challenges sharply what Kostya is actually getting at here.

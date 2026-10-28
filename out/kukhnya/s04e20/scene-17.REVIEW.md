@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, back off, I have no time for you right now.' Katya offers a steady position in front of Denis, joining "slushayte" ("listen") to "otstante" ("to fall behind") so every word pulls its weight.
-- 'Hey, what are you two doing right here?' Denis checks directly from the start, pairing "tut" ("here") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'Take your hands off my girlfriend right now!' Denis favors a steady footing toward Katya, building the phrase around "bystro" ("quickly") and "ruki" ("hands") for a crisp, natural delivery.
-- 'Come on, get out of here right now!' Denis strikes a resolute tempo without hesitation, leaning on "bystro" ("quickly") before closing the thought with "ushli" ("we have gone").
-- 'I will call our guys out here right now!' Denis brings a firm stance as they talk, pairing "seychas" ("now") with "syuda" ("here") to get the point across in plain spoken Russian.
-- 'Denis, tell me, does it hurt very much right now?' Katya presses evenly on the spot, anchoring the Russian line on "skazhi" ("say") and "seychas" ("now") without extra filler.
-- 'Wait, let me take a careful look.' Katya keeps a sharp tone in the room, using "podozhdi" (from "podozhdat", "wait") alongside "day" ("give") to shape the meaning.
-- 'Everything is fine with me, it does not hurt at all.' Denis chooses a pointed angle in the conversation, leaning on "normalno" ("fine, OK") before closing the thought with "sovsem" ("at all").
-- 'Katya, I beg you, forgive me, please.' Denis shares a thoughtful bearing in the room, anchoring the Russian line on "proshu" ("beg, ask") and "prosti" ("sorry, forgive me") without extra filler.
-- 'I really never cheated on you.' Denis brings a playful line straight away, pairing "pravda" ("honestly") with "nikogda" ("never") to get the point across in plain spoken Russian.
-- 'Katya, I do not want to lose you.' Denis strikes an unhurried course in the room, using "khochu" (from "khotet", "want") alongside "poteryat" ("to lose") to shape the meaning.
-- 'Quiet, I forgave you a long time ago.' Katya favors an earnest stance straight away, building the phrase around "tikho" ("easy, quiet") and "uzhe" ("already, now") for a crisp, natural delivery.
+- 'Listen, back off, I have no time for you right now.' Katya grounds one vivid detail right here: "slushayte" means "listen" (from "slushat"), giving the line its exact edge.
+- 'Hey, what are you two doing right here?' Denis challenges bluntly how Katya expects that to work in practice.
+- 'Take your hands off my girlfriend right now!' Denis favors this clear element in earnest: "devushki" means "a girl" (from "devushka"), giving the line its exact edge.
+- 'Come on, get out of here right now!' Denis replies warmly with a sigh, letting the remark speak for itself.
+- 'I will call our guys out here right now!' Denis continues at once with a sigh, refusing to let the moment slip past.
+- 'Denis, tell me, does it hurt very much right now?' Katya grounds this telling detail right here: "seychas" means "now", and it carries the main weight of what Katya is saying.
+- 'Wait, let me take a careful look.' Katya counters honestly in their talk, bringing things back to earth after the buildup.
+- 'Everything is fine with me, it does not hurt at all.' Denis responds right away to settle things, leaving no doubt about where he stands.
+- 'Katya, I beg you, forgive me, please.' Denis spotlights one practical expression toward Katya: "proshu" means "beg, ask" (from "prosit"), giving the line its exact edge.
+- 'I really never cheated on you.' Denis brings the comeback on cue: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Katya, I do not want to lose you.' Denis replies frankly to settle things, grounding the moment in plain reality.
+- 'Quiet, I forgave you a long time ago.' Katya underscores one concrete detail with Denis: "prostila" means "would forgive" (from "prostit"), giving the line its exact edge.

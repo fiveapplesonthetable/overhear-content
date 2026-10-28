@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is no theft at all.' Barinov shares a lively manner at once, joining "krazha" ("all") to "nikakaya" ("no ... at all") so every word pulls its weight.
-- 'I took back my own sauté pan.' Barinov shares a resolute stance in the room, combining "zabral" ("takes it back") and "soteynik" ("pan") so the key meaning lands right away.
-- 'I bought this pan in France.' Barinov strikes a sharp tone toward German, using "skovorodku" (from "skovorodka", "frying pan") alongside "kupil" ("bought") to shape the meaning.
-- 'Now I am the head chef at the restaurant.' German holds a measured footing straight away, placing "teper" ("now") straight beside "shef-povar" ("head chef") with no word for "to be" needed.
-- 'Everything in the kitchen is mine now.' German picks a steady line without hesitation, linking "kukhne" ("kitchen") directly with "teper" ("now"), since Russian drops "is" and "are" in the present.
-- 'I want to get it back.' German takes a pointed footing in this beat, weaving "khochu" ("want") together with "vernut" ("give back, get back") just the way native speakers do.
-- 'The conversation is over.' German sets a frank tack right away, combining "razgovor" ("conversation") and "okonchen" ("is finished") so the key meaning lands right away.
-- 'In your place, I would not argue.' German keeps an earnest posture at once, linking "meste" ("place"), "sporil" ("to argue, to dispute"), and "na" ("on, onto") in one brisk exchange.
-- 'You do not need problems with the police.' German presents a warm tempo as they talk, anchoring the Russian line on "nuzhny" ("needed") and "problemy" ("problems") without extra filler.
-- 'Hello, Max, hi, how are you doing there?' Kostya queries earnestly on the spot, anchoring the Russian line on "kak" ("how") and "tam" ("there") without extra filler.
-- 'How is Styopa, is everything good?' Kostya questions directly without a pause, pairing "kak" ("how") with "styopka" ("styopa") to get the point across in plain spoken Russian.
-- 'Styopa is fine, he fell asleep.' Barinov presents a firm course during the exchange, anchoring the Russian line on "styopka" ("styopa") and "poryadke" ("order") without extra filler.
-- 'Strange, he usually does not sleep right now.' Kostya projects a thoughtful attitude on the spot, building the phrase around "stranno" ("strange") and "obychno" ("usually") for a crisp, natural delivery.
-- 'Above all, do not worry.' Kostya sustains an earnest style without hesitation, linking "glavnoye" ("important"), "perezhivay" ("worry"), and "ty" ("you") in one brisk exchange.
+- 'This is no theft at all.' Barinov drops that point at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I took back my own sauté pan.' Barinov phrases the comeback right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I bought this pan in France.' Barinov replies plainly with a smile, grounding the moment in plain reality.
+- 'Now I am the head chef at the restaurant.' German focuses on one colorful word right here: "shef-povar" means "head chef", and it carries the main weight of what German is saying.
+- 'Everything in the kitchen is mine now.' German makes this point around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I want to get it back.' German speaks dryly with a shrug, shifting the whole mood of the room in a single beat.
+- 'The conversation is over.' German features this telling touch in reply: "razgovor" means "conversation", and it carries the main weight of what German is saying.
+- 'In your place, I would not argue.' German counters sharply without a pause, grounding the moment in plain reality.
+- 'You do not need problems with the police.' German follows up sharply across the room, before Barinov can change the subject.
+- 'Hello, Max, hi, how are you doing there?' Kostya sends the thought on cue: opening with the casual greeting "privet" ("hi") signals right away that Kostya and German are on familiar terms.
+- 'How is Styopa, is everything good?' Kostya brings that remark at once: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Styopa is fine, he fell asleep.' Barinov follows up firmly with Kostya, saying out loud what both of them already know.
+- 'Strange, he usually does not sleep right now.' Kostya sharpens one key touch for Barinov: "stranno" means "strange", and it carries the main weight of what Kostya is saying.
+- 'Above all, do not worry.' Kostya voices that thought for German: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

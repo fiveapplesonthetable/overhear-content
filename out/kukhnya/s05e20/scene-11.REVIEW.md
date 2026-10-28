@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, go on, taste your dish boldly.' Barinov projects a sharp direction in front of Max, pairing "davay" ("let's") with "smeleye" ("bolder, braver") to get the point across in plain spoken Russian.
-- 'Viktor Petrovich, I invite you to evaluate the dish first.' Max favors an honest approach in their talk, weaving "predlagayu" ("suggest") together with "pervym" ("first") just the way native speakers do.
-- 'Alright, now it is your move, taste it.' Barinov holds a resolute tempo as the scene unfolds, linking "khorosho" ("good, fine"), "teper" ("now"), and "khod" ("course, progress") in one brisk exchange.
-- 'What great herring, prepare some like this for me.' Nagiyev picks a calm line straight away, pairing "otlichnaya" ("excellent") with "selyodka" ("herring") to get the point across in plain spoken Russian.
-- 'And slice up some of this fish for me too.' Nagiyev adopts a lively bearing as they talk, putting "ryby" ("of fish") alongside "nastrogayte" ("slice up") in a tight, everyday turn of phrase.
-- 'Nikita, did my advice about the cocoa help you?' Nagiyev questions openly without holding back, building the phrase around "pomog" ("helped") and "sovet" ("council") for a crisp, natural delivery.
-- 'Bring us the very best champagne.' Nagiyev presents an easygoing tack as they talk, putting "prinesi" ("bring") alongside "shampanskogo" ("of champagne") in a tight, everyday turn of phrase.
-- 'Naturally, on my tab, today there is a special occasion.' Nagiyev shows a candid course for Max, pairing "yestestvenno" ("naturally") with "schyot" ("counting, account") to get the point across in plain spoken Russian.
-- 'Strange, I seem to be completely alive.' Max sets an unhurried approach with Barinov, putting "stranno" ("strange") alongside "sovershenno" ("quite, completely") in a tight, everyday turn of phrase.
-- 'Of course you are alive, you did not eat your own fugu.' Barinov strikes a brisk position in front of Nagiyev, building the phrase around "konechno" ("of course") and "zhivoy" ("alive") for a crisp, natural delivery.
-- 'I quietly replaced your piece of fillet with mine.' Barinov maintains a serious line beside Max, anchoring the Russian line on "nezametno" ("inconspicuously") and "zamenil" ("to replace") without extra filler.
-- 'Why did you do that, Viktor Petrovich?' Max probes steadily to keep things clear, linking "zachem" ("what for"), "sdelali" ("did, have done"), and "vy" ("you") in one brisk exchange.
+- 'Well, go on, taste your dish boldly.' Barinov states that thought with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Viktor Petrovich, I invite you to evaluate the dish first.' Max speaks up earnestly on the spot, so Nagiyev knows he is not just making small talk.
+- 'Alright, now it is your move, taste it.' Barinov uses one practical element for Max: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
+- 'What great herring, prepare some like this for me.' Nagiyev holds firm pointedly as things stand, refusing to let the moment slip past.
+- 'And slice up some of this fish for me too.' Nagiyev reacts boldly during the talk, keeping the focus on what actually matters here.
+- 'Nikita, did my advice about the cocoa help you?' Nagiyev points to one concrete word in reply: "sovet" means "council", and it carries the main weight of what Nagiyev is saying.
+- 'Bring us the very best champagne.' Nagiyev follows up decisively with a shrug, grounding the moment in plain reality.
+- 'Naturally, on my tab, today there is a special occasion.' Nagiyev steps in candidly as things stand, grounding the moment in plain reality.
+- 'Strange, I seem to be completely alive.' Max colors one vivid element right here: "sovershenno" means "quite, completely", and it carries the main weight of what Max is saying.
+- 'Of course you are alive, you did not eat your own fugu.' Barinov stresses one pointed piece with Nagiyev: "konechno" means "of course", and it carries the main weight of what Barinov is saying.
+- 'I quietly replaced your piece of fillet with mine.' Barinov chimes in candidly as they talk, letting the remark speak for itself.
+- 'Why did you do that, Viktor Petrovich?' Max stresses one memorable piece in reply: "sdelali" means "did, have done" (from "sdelat"), giving the line its exact edge.

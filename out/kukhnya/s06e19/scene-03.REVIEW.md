@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You look simply like a princess.' Eleonora favors a pointed bearing during the exchange, putting "vyglyadish" ("look") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'And you have an excellent prince.' Eleonora maintains a firm approach with Katya, combining "prints" ("prince") and "otlichnyy" ("excellent, great") so the key meaning lands right away.
-- 'All my life I was afraid for you.' Eleonora chooses a grounded note as the scene unfolds, pairing "zhizn" ("life") with "boyalas" ("to be afraid") to get the point across in plain spoken Russian.
-- 'Just do not scare me.' Eleonora shares a warm line beside Katya, joining "tolko" ("only") to "pugay" ("to scare, frighten") so every word pulls its weight.
-- 'Although I am calm about you.' Eleonora holds a calm manner toward Katya, building the phrase around "spokoyna" ("calm, at ease") and "khotya" ("at least") for a crisp, natural delivery.
-- 'At the wedding I will not be alone.' Eleonora sustains an easygoing direction at once, weaving "svadbe" ("wedding") together with "budu" ("will be") just the way native speakers do.
-- 'Really, and who is this man?' Katya prompts evenly for Eleonora's benefit, anchoring the Russian line on "pravda" ("honestly") and "muzhchina" ("man") without extra filler.
-- 'He saved me from bankruptcy.' Eleonora presents an earnest manner in their talk, pairing "spas" ("saved") with "bankrotstva" ("bankruptcy") to get the point across in plain spoken Russian.
-- 'Now he is our new investor.' Eleonora picks a thoughtful line for Katya, joining "teper" ("now") to "novyy" ("new") so every word pulls its weight.
-- 'And he is a very interesting man.' Eleonora projects a natural stance with Katya, linking "ochen" ("very much"), "interesnyy" ("interesting"), and "muzhchina" ("man") in one brisk exchange.
-- 'I will definitely introduce you at the wedding.' Eleonora favors a calm view in their talk, using "svadbe" (from "svadba", "wedding") alongside "obyazatelno" ("surely, without fail") to shape the meaning.
-- 'Alright, Mom, I am very glad.' Katya establishes a thoughtful footing in the room, joining "khorosho" ("good, fine") to "mama" ("mum, mother") so every word pulls its weight.
+- 'You look simply like a princess.' Eleonora speaks up honestly across the room, letting the remark speak for itself.
+- 'And you have an excellent prince.' Eleonora highlights one sharp word toward Katya: "otlichnyy" means "excellent, great", and it carries the main weight of what Eleonora is saying.
+- 'All my life I was afraid for you.' Eleonora emphasizes one vivid expression right here: "zhizn" means "life", and it carries the main weight of what Eleonora is saying.
+- 'Just do not scare me.' Eleonora opens up wryly with Katya, steering the talk right where she wants it.
+- 'Although I am calm about you.' Eleonora picks this telling choice toward Katya: "spokoyna" means "calm, at ease" (from "spokoynyy"), giving the line its exact edge.
+- 'At the wedding I will not be alone.' Eleonora stands firm calmly around Katya, leaving no doubt about where she stands.
+- 'Really, and who is this man?' Katya checks bluntly before Eleonora can change the subject.
+- 'He saved me from bankruptcy.' Eleonora emphasizes one telling expression with Katya: "bankrotstva" means "bankruptcy" (from "bankrotstvo"), giving the line its exact edge.
+- 'Now he is our new investor.' Eleonora phrases that remark frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And he is a very interesting man.' Eleonora jumps in promptly without a pause, steering the talk right where she wants it.
+- 'I will definitely introduce you at the wedding.' Eleonora underscores one telling touch for Katya: "obyazatelno" means "surely, without fail", and it carries the main weight of what Eleonora is saying.
+- 'Alright, Mom, I am very glad.' Katya gives that answer facing Eleonora: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".

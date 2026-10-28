@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how is that?' Max asks directly in front of Kostya, combining "nu" ("oh, come on") and "chego" ("what") so the key meaning lands right away.
-- 'That does not work either.' Kostya takes a clear mood without hesitation, linking "tozhe" ("too"), "podkhodit" ("is coming up"), and "ne" ("not") in one brisk exchange.
-- 'Come on, they look convincing enough.' Max favors an honest direction in the scene, linking "poryadke" ("order"), "da" ("yes"), and "ladno" ("all right") in one brisk exchange.
-- 'Kostya, where were you two?' Max asks honestly without hesitation, anchoring the Russian line on "gde" ("where") and "byli" ("be") without extra filler.
-- 'What happened to you?' Max inquires briskly at this point, anchoring the Russian line on "chto" ("what") and "vami" ("you") without extra filler.
-- 'Did the two of you get into a fight because of us?' Kostya quizzes plainly in their exchange, pairing "podralis" ("to fight, have a brawl") with "vy" ("you") so the "-sya" ending carries the action.
-- 'What is the big deal?' Max asks candidly in their exchange, building the phrase around "chto" ("what") and "iz-za" ("because of") for a crisp, natural delivery.
-- 'Well, we had a fight.' Kostya picks an earnest stance straight away, combining "podralis" ("to fight, have a brawl") and "nu" ("oh, come on") so the key meaning lands right away.
-- 'Everything is fine now anyway.' Max displays an emphatic direction at this moment, combining "uzhe" ("already, now") and "poryadke" ("order") so the key meaning lands right away.
-- 'Let us go have some tea.' Kostya shows a steady angle in front of Max, building the phrase around "poydemte" ("come on, let's go") and "chay" ("tea") for a crisp, natural delivery.
-- 'Yes, let us do that.' Max brings a resolute approach as the scene unfolds, combining "davayte" ("let's") and "da" ("yes") so the key meaning lands right away.
-- 'You two get changed while we get everything ready.' Kostya picks a candid approach with Max, anchoring the Russian line on "razdevaytes" ("to take off one's coat") and "prigotovimsya" ("to prepare") without extra filler.
-- 'We have something saved specially for an occasion like this.' Max keeps an honest line in front of Kostya, putting "spetsialno" ("on purpose") alongside "sluchaya" ("case, occasion") in a tight, everyday turn of phrase.
+- 'Well, how is that?' Max brings this warning in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'That does not work either.' Kostya speaks openly without a pause, steering the talk right where he wants it.
+- 'Come on, they look convincing enough.' Max underscores one vivid expression right here: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
+- 'Kostya, where were you two?' Max brings this statement at once: putting the question word "gde" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'What happened to you?' Max presses curiously if there is more going on behind the scenes.
+- 'Did the two of you get into a fight because of us?' Kostya sharpens this vivid touch with Max: "podralis" means "to fight, have a brawl" (from "podratsya"), giving the line its exact edge.
+- 'What is the big deal?' Max brings the comment before Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, we had a fight.' Kostya holds firm earnestly watching Max, leaving no doubt about where he stands.
+- 'Everything is fine now anyway.' Max highlights one concrete word in earnest: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
+- 'Let us go have some tea.' Kostya puts that reply toward Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Yes, let us do that.' Max continues promptly without a pause, testing Kostya's reaction in the middle of the exchange.
+- 'You two get changed while we get everything ready.' Kostya anchors one concrete element on cue: "prigotovimsya" means "to prepare" (from "prigotovitsya"), giving the line its exact edge.
+- 'We have something saved specially for an occasion like this.' Max voices the reaction facing Kostya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.

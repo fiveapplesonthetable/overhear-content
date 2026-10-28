@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will bring you something to drink.' Max projects a calm angle with Lyova, linking "prinesu" ("I will bring"), "vypit" ("to drink"), and "vam" ("you") in one brisk exchange.
-- 'An excellent plan! That way she will definitely notice you.' Max offers an emphatic tack right away, joining "otlichnyy" ("excellent, great") to "plan" ("plan") so every word pulls its weight.
-- 'What?' Lyova presses calmly to Max here, letting the single Russian word "chego" ("what") carry the entire reaction on its own.
-- 'Lyova, stand and watch like this for a couple more days.' Max chooses a wry course in their talk, putting "yeshchyo" ("more, still") alongside "paru" ("couple") in a tight, everyday turn of phrase.
-- 'How this guy over here hits on Gulya.' Max brings a calm footing in the scene, joining "kak" ("how") to "pristayot" ("bothers, pesters") so every word pulls its weight.
-- 'I have no chances against him.' Lyova presents a sharp attitude in the room, joining "shansov" ("chances") to "menya" ("me") so every word pulls its weight.
-- 'Lyova, imagine that you have one day left to live.' Max sets a natural attitude toward Lyova, pairing "ostalos" ("was left") with "predstav" ("imagine") so the "-sya" ending carries the action.
-- 'You would do everything that you wanted!' Max offers a grounded manner with Lyova, joining "sdelal" ("did") to "khotel" ("wanted") so every word pulls its weight.
-- 'Because tomorrow will no longer come.' Max picks a frank tack during the exchange, building the phrase around "potomu" ("because") and "zavtra" ("tomorrow") for a crisp, natural delivery.
-- 'So why wait? Take action!' Max prompts directly right away, anchoring the Russian line on "zhdat" ("to wait") and "deystvuy" ("act, take action") without extra filler.
-- 'Do you think it is worth trying?' Lyova prompts decisively to Max here, anchoring the Russian line on "dumayesh" ("think") and "stoit" ("is parked") without extra filler.
-- 'Of course, go to her!' Max maintains a measured style for Lyova, anchoring the Russian line on "konechno" ("of course") and "idi" ("go") without extra filler.
+- 'I will bring you something to drink.' Max delivers that reply with candor: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'An excellent plan! That way she will definitely notice you.' Max weighs in frankly on the spot, testing Lyova's reaction in the middle of the exchange.
+- 'What?' Lyova lays out the comeback beside Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Lyova, stand and watch like this for a couple more days.' Max responds bluntly as they talk, grounding the moment in plain reality.
+- 'How this guy over here hits on Gulya.' Max continues briskly to be clear, letting the remark speak for itself.
+- 'I have no chances against him.' Lyova centers one colorful piece with Max: "shansov" means "chances" (from "shans"), giving the line its exact edge.
+- 'Lyova, imagine that you have one day left to live.' Max spotlights one direct word in reply: "predstav" means "imagine" (from "predstavit"), giving the line its exact edge.
+- 'You would do everything that you wanted!' Max weighs in steadily during the talk, watching Lyova's face to see how the news lands.
+- 'Because tomorrow will no longer come.' Max chooses one vivid choice in earnest: "potomu" means "because", and it carries the main weight of what Max is saying.
+- 'So why wait? Take action!' Max puts the remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'Do you think it is worth trying?' Lyova presses wryly what Max is actually getting at here.
+- 'Of course, go to her!' Max highlights this vivid piece for Lyova: "konechno" means "of course", and it carries the main weight of what Max is saying.

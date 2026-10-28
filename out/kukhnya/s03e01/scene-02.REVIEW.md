@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Beauty! Even in the boxes.' Nagiyev offers a calm angle across the room, linking "krasota" ("beauty"), "korobkakh" ("boxes"), and "dazhe" ("even") in one brisk exchange.
-- 'Dima, what is this?' Barinov wonders dryly to keep things clear, weaving "dima" ("Dima") together with "chto" ("what") just the way native speakers do.
-- 'You want to be fashionable, don't you.' Nagiyev keeps a calm footing at this moment, weaving "khochesh" ("do you want") together with "byt" ("be") just the way native speakers do.
-- 'This is equipment for molecular cuisine.' Nagiyev conveys a serious line with Barinov, pairing "oborudovaniye" ("equipment") with "molekulyarnoy" ("molecular") to get the point across in plain spoken Russian.
-- 'For molecular cuisine. Clear?' Nagiyev quizzes evenly during the talk, weaving "molekulyarnoy" ("molecular") together with "kukhni" ("kitchen") just the way native speakers do.
-- 'Who am I talking to about fashion?' Nagiyev presses earnestly to Barinov here, putting "govoryu" ("am telling") alongside "mode" ("fashion") in a tight, everyday turn of phrase.
-- 'We are a classic French restaurant.' Barinov establishes a clear posture in front of Nagiyev, placing "klassicheskiy" ("classic, classical") straight beside "frantsuzskiy" ("French") with no word for "to be" needed.
-- 'And classics never go out of fashion.' Barinov holds a wry view as they talk, leaning on "klassika" ("classics") before closing the thought with "nikogda" ("never").
-- 'We do not need this cuisine.' Barinov takes a pointed manner straight away, combining "kukhnya" ("kitchen") and "nuzhna" ("needed") so the key meaning lands right away.
-- 'People are tired of eating the same thing.' Nagiyev favors a thoughtful tack in this beat, using "ustali" (from "ustat", "got tired") alongside "lyudi" ("people") to shape the meaning.
-- 'Look for a person this very day.' Nagiyev adopts a grounded line in this beat, combining "segodnya" ("today") and "ishchi" ("look for") so the key meaning lands right away.
-- 'Yes, my little chicken.' Barinov shows a playful tack with Nagiyev, anchoring the Russian line on "kurochka" ("little chicken") and "da" ("yes") without extra filler.
+- 'Beauty! Even in the boxes.' Nagiyev aims this statement with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Dima, what is this?' Barinov tests plainly whether Nagiyev really thought this through.
+- 'You want to be fashionable, don't you.' Nagiyev favors one pointed touch in reply: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'This is equipment for molecular cuisine.' Nagiyev directs that remark in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'For molecular cuisine. Clear?' Nagiyev presses evenly before Barinov can change the subject.
+- 'Who am I talking to about fashion?' Nagiyev chooses one classic word toward Barinov: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
+- 'We are a classic French restaurant.' Barinov gives this answer facing Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And classics never go out of fashion.' Barinov proceeds quietly as they talk, grounding the moment in plain reality.
+- 'We do not need this cuisine.' Barinov points to one direct detail toward Nagiyev: "kukhnya" means "kitchen", and it carries the main weight of what Barinov is saying.
+- 'People are tired of eating the same thing.' Nagiyev speaks up wryly on the spot, saying out loud what both of them already know.
+- 'Look for a person this very day.' Nagiyev reacts calmly without any doubt, letting the remark speak for itself.
+- 'Yes, my little chicken.' Barinov picks this vivid detail for Nagiyev: "kurochka" means "little chicken", and it carries the main weight of what Barinov is saying.

@@ -43,5 +43,5 @@ WALK = [
     (9, None, "'I am Max.' He introduces himself by his real name, Max."),
     (10, None, "'And I am here to fix the internet.' Panicking further, Max even pretends he is only the internet repairman himself."),
     (11, None, "'Which one of you is Konstantin?' Looking around the room in confusion, Max asks who is supposed to be Konstantin."),
-    (12, None, "'Me.' Meanwhile, Nastya's father delivers a punchy one-word reaction built around the Russian word meaning 'I'."),
+    (12, None, "'Me.' Believing Nastya's father has come to praise him, Max proudly steps forward and says 'It is me.'"),
 ]

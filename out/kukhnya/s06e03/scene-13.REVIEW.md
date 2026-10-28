@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your dad picked a strange neighborhood.' Kostya chooses a serious position with the guest, leaning on "strannyy" ("strange, odd") before closing the thought with "rayon" ("area").
-- 'Bread at the store is very expensive.' Kostya chooses a serious bearing for Nastya, joining "khleb" ("bread") to "magazine" ("shop") so every word pulls its weight.
-- 'The stores here are fine, and there is no line.' Nastya adopts a calm course as they talk, building the phrase around "normalnyye" ("normal") and "zdes" ("here") for a crisp, natural delivery.
-- 'Kostik, I invited my parents over to celebrate the surprise.' Nastya keeps a frank position right away, using "roditeley" (from "roditeli", "parents") alongside "pozvala" ("calls, summons") to shape the meaning.
-- 'Have you not managed to buy a TV for the living room yet?' The guest challenges firmly with Kostya now, linking "televizor" ("television"), "gostinuyu" ("living room"), and "yeshche" ("still") in one brisk exchange.
-- 'That is alright, I will buy you a new TV.' The guest sets a serious style for Nastya, putting "kuplyu" ("will buy") alongside "novyy" ("new") in a tight, everyday turn of phrase.
-- 'No need, thank you, we will buy it ourselves.' Kostya chooses a grounded direction across the room, joining "nado" ("it is necessary") to "spasibo" ("thank you") so every word pulls its weight.
-- 'After all, this is our home, and we will set the table here.' Kostya holds a direct footing at once, anchoring the Russian line on "dom" ("home, house") and "stol" ("table") without extra filler.
-- 'Maybe we should drink our cognac?' The guest presses boldly in the scene, leaning on "konyak" ("cognac, brandy") before closing the thought with "mozhet" ("can").
-- 'No, I bought cognac myself.' Kostya maintains an unhurried style in front of Nastya, leaning on "kupil" ("bought") before closing the thought with "konyak" ("cognac, brandy").
-- 'It is a good region, and this cognac is good too.' Kostya takes a thoughtful footing beside the guest, weaving "khoroshiy" ("good") together with "region" ("region") just the way native speakers do.
-- 'And affordable for ordinary people.' Kostya shares a playful rhythm during the exchange, anchoring the Russian line on "lyudyam" ("people") and "obychnym" ("ordinary, usual") without extra filler.
+- 'Your dad picked a strange neighborhood.' Kostya emphasizes this vivid word for the guest: "strannyy" means "strange, odd", and it carries the main weight of what Kostya is saying.
+- 'Bread at the store is very expensive.' Kostya lays out the thought beside Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'The stores here are fine, and there is no line.' Nastya reacts dryly with a smile, so the guest knows she is not just making small talk.
+- 'Kostik, I invited my parents over to celebrate the surprise.' Nastya underscores this direct word at once: "roditeley" means "parents" (from "roditeli"), giving the line its exact edge.
+- 'Have you not managed to buy a TV for the living room yet?' The guest frames that remark calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'That is alright, I will buy you a new TV.' The guest answers candidly beside Nastya, leaving no doubt about where he stands.
+- 'No need, thank you, we will buy it ourselves.' Kostya anchors one classic piece right here: "spasibo" means "thank you", and it carries the main weight of what Kostya is saying.
+- 'After all, this is our home, and we will set the table here.' Kostya proceeds openly as things stand, letting the remark speak for itself.
+- 'Maybe we should drink our cognac?' The guest probes earnestly why things suddenly took this turn between them.
+- 'No, I bought cognac myself.' Kostya colors one concrete piece in reply: "konyak" means "cognac, brandy", and it carries the main weight of what Kostya is saying.
+- 'It is a good region, and this cognac is good too.' Kostya frames this line for the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And affordable for ordinary people.' Kostya opens up wryly in their talk, leaving no doubt about where he stands.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, here is some news for you.' Kostya shows a warm tempo in the scene, placing "novost" ("the news") straight beside "vot" ("there, here") with no word for "to be" needed.
-- 'But you said so yourself before.' Nastya favors a firm style on the spot, weaving "govorila" ("said") together with "ty" ("you") just the way native speakers do.
-- 'Well, what does it matter what I said before?' Nastya asks promptly at this point, combining "malo" ("little, not enough") and "govorila" ("said") so the key meaning lands right away.
-- 'Do you not want to get married yourself?' Nastya quizzes warmly in front of Kostya, using "khochesh" (from "khotet", "do you want") alongside "ty" ("you") to shape the meaning.
-- 'Nastya, of course I want to.' Kostya keeps an unhurried course straight away, anchoring the Russian line on "konechno" ("of course") and "khochu" ("want") without extra filler.
-- 'What do you mean, let us just go?' Nastya checks steadily toward Kostya here, linking "znachit" ("then, so"), "poydem" ("let's go"), and "chto" ("what") in one brisk exchange.
-- 'There is something I do not understand here.' Kostya strikes a brisk tempo in the scene, building the phrase around "ponimayu" ("understand") and "ya" ("I") for a crisp, natural delivery.
-- 'Let us go to the registry office tomorrow and submit our application.' Nastya chooses a thoughtful line during the exchange, anchoring the Russian line on "poydem" ("let's go") and "zavtra" ("tomorrow") without extra filler.
-- 'What kind of proposal is that to you?' Kostya challenges pointedly across the room, combining "eto" ("this") and "tebe" ("for you, to you") so the key meaning lands right away.
-- 'I want it to be a romantic marriage proposal, do you understand?' Nastya inquires quietly to keep things clear, weaving "khochu" ("want") together with "bylo" ("was") just the way native speakers do.
-- 'Guys, I beg you, please go talk to him.' Kostya chooses a resolute rhythm right away, pairing "rebyat" ("kids, guys") with "proshu" ("beg, ask") to get the point across in plain spoken Russian.
-- 'Because he does not even want to listen to me.' Nastya keeps a calm direction for Kostya, combining "slushat" ("to listen to") and "khochet" ("wants") so the key meaning lands right away.
-- 'Of course we will talk to him.' Kostya brings a warm line with Nastya, pairing "konechno" ("of course") with "pogovorim" ("we'll have a talk") to get the point across in plain spoken Russian.
+- 'Well, here is some news for you.' Kostya focuses on one colorful expression right here: "novost" means "the news", and it carries the main weight of what Kostya is saying.
+- 'But you said so yourself before.' Nastya offers the comeback for Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Well, what does it matter what I said before?' Nastya asks point-blank what Kostya is actually getting at here.
+- 'Do you not want to get married yourself?' Nastya focuses on this key choice in earnest: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'Nastya, of course I want to.' Kostya drops this line around Nastya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'What do you mean, let us just go?' Nastya presses sharply to see how Kostya will answer on the spot.
+- 'There is something I do not understand here.' Kostya sharpens this direct element in reply: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
+- 'Let us go to the registry office tomorrow and submit our application.' Nastya responds sharply to settle things, to clear the air between them once and for all.
+- 'What kind of proposal is that to you?' Kostya checks plainly to see how Nastya will answer on the spot.
+- 'I want it to be a romantic marriage proposal, do you understand?' Nastya uses one direct piece in reply: "romantichnoye" means "more romantic" (from "romantichnyy"), giving the line its exact edge.
+- 'Guys, I beg you, please go talk to him.' Kostya emphasizes one colorful choice with Nastya: "pogovorite" means "have a word" (from "pogovorit"), giving the line its exact edge.
+- 'Because he does not even want to listen to me.' Nastya counters honestly without holding back, steering the talk right where she wants it.
+- 'Of course we will talk to him.' Kostya reaches for one concrete expression in reply: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.

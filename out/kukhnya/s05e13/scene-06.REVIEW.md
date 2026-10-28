@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems we will have another wedding.' Fedya conveys a warm rhythm straight away, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "budet" ("will be") without extra filler.
-- 'They have not even held hands yet.' Fedya presents a firm line on the spot, pairing "derzhalis" ("to hold on") with "yeshchyo" ("more, still") so the "-sya" ending carries the action.
-- 'Today marks a week since we started dating.' Lyova keeps an earnest angle across the room, weaving "segodnya" ("today") together with "nedelya" ("week") just the way native speakers do.
-- 'This is a gift for you, dear Gulya.' Lyova picks an earnest view in front of Gulya, leaning on "podarok" ("gift, voucher") before closing the thought with "dorogaya" ("expensive").
-- 'How sweet, this is already the seventh teddy bear!' Gulya maintains a calm view right away, leaning on "kak" ("how") before closing the thought with "milo" ("nice, sweet").
-- 'Thank you, Lyova, I have to run to work.' Gulya takes a direct position for Lyova, leaning on "spasibo" ("thank you") before closing the thought with "pobezhala" ("ran").
-- 'Fedya, actually Gulya is my girlfriend!' Lyova brings a natural course in the room, weaving "voobshche-to" ("actually") together with "devushka" ("girlfriend") just the way native speakers do.
-- 'Gulya is certainly a very pretty girl.' Fedya establishes an earnest stance for Lyova, weaving "konechno" ("of course") together with "ochen" ("very much") just the way native speakers do.
-- 'Sorry, Fedya, I did that completely by accident.' Lyova maintains a resolute approach beside Fedya, combining "prosti" ("sorry, forgive me") and "sovsem" ("at all") so the key meaning lands right away.
-- 'It is no big deal, everything is fine.' Fedya shares a brisk position in their talk, weaving "strashnogo" ("terrible, serious") together with "normalno" ("fine, OK") just the way native speakers do.
-- 'Senya, they delivered fresh meat over there.' Lyova shows a brisk mood on the spot, pairing "tam" ("there") with "svezheye" ("fresh") to get the point across in plain spoken Russian.
-- 'I have not weighed it yet today.' Lyova holds a sharp tack right away, linking "yeshchyo" ("more, still"), "vzveshival" ("weigh"), and "segodnya" ("today") in one brisk exchange.
+- 'It seems we will have another wedding.' Fedya fires back boldly before Gulya, saying out loud what both of them already know.
+- 'They have not even held hands yet.' Fedya emphasizes one colorful touch in earnest: "derzhalis" means "to hold on" (from "derzhatsya"), giving the line its exact edge.
+- 'Today marks a week since we started dating.' Lyova directs this update in earnest: the "-sya" ending on "vstrechayemsya" ("have been going out") turns the action inward or makes it happen between people naturally.
+- 'This is a gift for you, dear Gulya.' Lyova holds firm decisively without a pause, testing Gulya's reaction in the middle of the exchange.
+- 'How sweet, this is already the seventh teddy bear!' Gulya highlights one sharp term toward Fedya: "sedmoy" means "seventh", and it carries the main weight of what Gulya is saying.
+- 'Thank you, Lyova, I have to run to work.' Gulya lays out this warning around Lyova: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Fedya, actually Gulya is my girlfriend!' Lyova continues calmly with Fedya, making his position completely clear.
+- 'Gulya is certainly a very pretty girl.' Fedya centers this clear word at once: "krasivaya" means "pretty, beautiful" (from "krasivyy"), giving the line its exact edge.
+- 'Sorry, Fedya, I did that completely by accident.' Lyova offers that line at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'It is no big deal, everything is fine.' Fedya opens up honestly without holding back, keeping the focus on what actually matters here.
+- 'Senya, they delivered fresh meat over there.' Lyova picks one memorable detail for Fedya: "svezheye" means "fresh" (from "svezhiy"), giving the line its exact edge.
+- 'I have not weighed it yet today.' Lyova proceeds promptly around Gulya, without trying to dress up how he really feels.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want it to be only me, do you understand?' Nagiyev queries naturally in their exchange, using "khochu" (from "khotet", "want") alongside "byl" ("was") to shape the meaning.
-- 'Of course, you have known me for so many years.' Nagiyev chooses a steady manner right away, weaving "konechno" ("of course") together with "znayesh" ("know") just the way native speakers do.
-- 'You know me from a not very good side.' Nagiyev projects an earnest manner right away, building the phrase around "znayesh" ("know") and "ochen" ("very much") for a crisp, natural delivery.
-- 'That I am such a cheerful eccentric.' Nagiyev picks a frank posture in the scene, leaning on "vesyolyy" ("cheerful, merry") before closing the thought with "chudak" ("oddball").
-- 'But I really can be different, honest word.' Nagiyev shares a brisk position as they talk, linking "pravda" ("honestly"), "mogu" ("can"), and "byt" ("be") in one brisk exchange.
-- 'Please, just give me one chance.' Nagiyev chooses a sharp manner toward Max, pairing "prosto" ("just") with "day" ("give") to get the point across in plain spoken Russian.
-- 'Do not be afraid, I will not touch him, let him work.' Nagiyev projects a resolute bearing at once, anchoring the Russian line on "boysya" ("be afraid") and "tronu" ("will touch") without extra filler.
-- 'Sometimes your life is like a long TV series.' Max shows a frank attitude during the exchange, leaning on "inogda" ("sometimes, at times") before closing the thought with "zhizn" ("life").
-- 'Which has been running for very many years already.' Max strikes an unhurried angle right away, building the phrase around "idyot" ("goes, is going") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'You stop being the main character of this story.' Max displays a firm manner with Nagiyev, anchoring the Russian line on "perestayosh" ("stop") and "byt" ("be") without extra filler.
-- 'You can hide from this story for a while.' Max keeps a sharp course at this moment, anchoring the Russian line on "mozhesh" ("can") and "vremya" ("time") without extra filler.
-- 'Or you can start a completely new storyline.' Max picks an emphatic note on the spot, pairing "mozhesh" ("can") with "nachat" ("to begin, to start") to get the point across in plain spoken Russian.
-- 'But first decide whether you want the previous storyline to end.' Max takes a measured direction in the room, joining "snachala" ("first, at first") to "reshi" ("sort out") so every word pulls its weight.
+- 'I want it to be only me, do you understand?' Nagiyev states that answer briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Of course, you have known me for so many years.' Nagiyev responds quietly with a sigh, keeping the focus on what actually matters here.
+- 'You know me from a not very good side.' Nagiyev sharpens one vivid word at once: "khoroshey" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'That I am such a cheerful eccentric.' Nagiyev drops this point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'But I really can be different, honest word.' Nagiyev opens up briskly before Max, making his position completely clear.
+- 'Please, just give me one chance.' Nagiyev chooses one memorable detail with Max: "shans" means "chance", and it carries the main weight of what Nagiyev is saying.
+- 'Do not be afraid, I will not touch him, let him work.' Nagiyev jumps in at once with a sigh, so Max knows he is not just making small talk.
+- 'Sometimes your life is like a long TV series.' Max steps in frankly across the room, without trying to dress up how he really feels.
+- 'Which has been running for very many years already.' Max sharpens one classic term right here: "idyot" means "goes, is going" (from "idti"), giving the line its exact edge.
+- 'You stop being the main character of this story.' Max spotlights one key term toward Nagiyev: "perestayosh" means "stop" (from "perestavat"), giving the line its exact edge.
+- 'You can hide from this story for a while.' Max counters briskly without any doubt, bringing things back to earth after the buildup.
+- 'Or you can start a completely new storyline.' Max points to one memorable expression on cue: "syuzhet" means "segment", and it carries the main weight of what Max is saying.
+- 'But first decide whether you want the previous storyline to end.' Max puts the thought to Nagiyev: the "-sya" ending on "zakonchilsya" ("ended") turns the action inward or makes it happen between people naturally.

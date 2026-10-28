@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, how did you get in here?' Katya tests frankly without a pause, combining "kak" ("how") and "syuda" ("here") so the key meaning lands right away.
-- 'I wanted to talk with you.' Denis shows a resolute tempo with Katya, linking "khotel" ("wanted"), "pogovorit" ("to talk"), and "ya" ("I") in one brisk exchange.
-- 'Before the wedding you must not see me.' Katya picks a lively bearing straight away, pairing "svadby" ("wedding") with "nelzya" ("not allowed") to get the point across in plain spoken Russian.
-- 'I am allowed, I am not the groom.' Denis takes a sharp approach in the conversation, putting "mozhno" ("may, can") alongside "zhenikh" ("groom, fiancé") in a tight, everyday turn of phrase.
-- 'I came to ask your forgiveness.' Denis shares an unhurried note during the exchange, combining "u tebya" (literally "by you") with "prishyol" ("came, have come") rather than a separate word for "have".
-- 'I am not angry with you.' Katya conveys an earnest note at once, anchoring the Russian line on "obizhayus" ("am offended") and "ya" ("I") without extra filler.
-- 'All of that is already in the past.' Katya holds an earnest manner in front of Denis, linking "uzhe" ("already, now") directly with "proshlom" ("last, past"), since Russian drops "is" and "are" in the present.
-- 'Let us leave here together today.' Denis takes a grounded direction in the conversation, leaning on "davay" ("let's") before closing the thought with "segodnya" ("today").
-- 'We will start our life over.' Denis sustains a sharp note across the room, weaving "nachnyom" ("we start") together with "zhizn" ("life") just the way native speakers do.
-- 'And where will we go?' Katya asks openly in their exchange, combining "kuda" ("where to") and "poyedem" ("will be off") so the key meaning lands right away.
-- 'Anywhere at all, choose for yourself.' Denis shares a calm position with Katya, combining "kuda" ("where to") and "vybiray" ("to choose, select") so the key meaning lands right away.
-- 'Believe me, right now it is not too late.' Denis displays a warm position beside Katya, putting "pover" ("believe") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Denis, how did you get in here?' Katya colors one familiar term right here: "popal" means "hit" (from "popast"), giving the line its exact edge.
+- 'I wanted to talk with you.' Denis steps in frankly without any doubt, making his position completely clear.
+- 'Before the wedding you must not see me.' Katya holds firm frankly hearing Denis, steering the talk right where she wants it.
+- 'I am allowed, I am not the groom.' Denis points to this sharp word in earnest: "zhenikh" means "groom, fiancé", and it carries the main weight of what Denis is saying.
+- 'I came to ask your forgiveness.' Denis gives that reply without pause: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'I am not angry with you.' Katya fires back sharply with a smile, saying out loud what both of them already know.
+- 'All of that is already in the past.' Katya grounds one vivid element right here: "proshlom" means "last, past" (from "proshlyy"), giving the line its exact edge.
+- 'Let us leave here together today.' Denis drops that point right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'We will start our life over.' Denis stands firm evenly before Katya, to clear the air between them once and for all.
+- 'And where will we go?' Katya leans on one colorful touch at once: "poyedem" means "will be off" (from "poyekhat"), giving the line its exact edge.
+- 'Anywhere at all, choose for yourself.' Denis opens up earnestly with a shrug, refusing to let the moment slip past.
+- 'Believe me, right now it is not too late.' Denis pushes back warmly to settle things, steering the talk right where he wants it.

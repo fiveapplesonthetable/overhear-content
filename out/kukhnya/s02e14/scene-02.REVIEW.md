@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No work whatsoever, do you understand?' Barinov wonders quietly with Vika now, joining "raboty" ("of work") to "ponyali" ("did you understand") so every word pulls its weight.
-- 'Yes, yes, no work at all.' Vika projects an easygoing tempo in front of Barinov, using "raboty" (from "rabota", "of work") alongside "da" ("yes") to shape the meaning.
-- 'Do you understand? Yes?' Barinov asks lightly on the spot, using "ponyali" (from "ponyat", "did you understand") alongside "vy" ("you") to shape the meaning.
-- 'I should drop by your restaurant sometime to take a look.' Vika maintains a resolute style in their talk, putting "nado" ("it is necessary") alongside "kak-to" ("somehow, a bit") in a tight, everyday turn of phrase.
-- 'Where are you rushing off to like that?' Barinov probes calmly as they speak, anchoring the Russian line on "kuda" ("where to") and "toropites" ("to be in a hurry") without extra filler.
-- 'If you also stop by to have a meal.' Vika maintains a warm mood at once, pairing "zakhodite" ("come in") with "yeshche" ("still") to get the point across in plain spoken Russian.
-- 'Viktor Petrovich.' Vika establishes an easygoing attitude toward Barinov, joining "viktor" ("Viktor") to "petrovich" ("Petrovich") so every word pulls its weight.
-- 'Your plane leaves in four hours.' Vika conveys a firm approach in front of Barinov, joining "chasa" ("hours") to "samolet" ("plane") so every word pulls its weight.
-- 'Well, why are you reacting like that.' Barinov sustains a measured approach beside Vika, weaving "reagiruyete" ("to react, respond") together with "nu" ("oh, come on") just the way native speakers do.
-- 'Wait, right now?' Vika tests candidly for Barinov's benefit, putting "pryamo" ("right, just") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Right this minute? Well?' Barinov checks candidly to Vika here, putting "pryamo" ("right, just") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Well, no.' Vika chooses a sharp manner at once, leaning on "da" ("yes") before closing the thought with "net" ("no").
-- 'I am ready.' Barinov holds a natural note straight away, building the phrase around "gotov" ("ready") and "ya" ("I") for a crisp, natural delivery.
+- 'No work whatsoever, do you understand?' Barinov shapes that reply frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Yes, yes, no work at all.' Vika jumps in calmly to be clear, refusing to let the moment slip past.
+- 'Do you understand? Yes?' Barinov leans on this sharp detail in reply: "ponyali" means "did you understand" (from "ponyat"), giving the line its exact edge.
+- 'I should drop by your restaurant sometime to take a look.' Vika shares this line toward Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Where are you rushing off to like that?' Barinov inquires frankly while looking straight at Vika here.
+- 'If you also stop by to have a meal.' Vika spotlights one key piece in reply: "zakhodite" means "come in" (from "zakhodit"), giving the line its exact edge.
+- 'Viktor Petrovich.' Vika brings that reply before Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Your plane leaves in four hours.' Vika fires back decisively as they talk, testing Barinov's reaction in the middle of the exchange.
+- 'Well, why are you reacting like that.' Barinov grounds one vivid touch for Vika: "reagiruyete" means "to react, respond" (from "reagirovat"), giving the line its exact edge.
+- 'Wait, right now?' Vika phrases the reply around Barinov: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Right this minute? Well?' Barinov checks evenly where this conversation is heading next.
+- 'Well, no.' Vika gives this point briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I am ready.' Barinov puts this line calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

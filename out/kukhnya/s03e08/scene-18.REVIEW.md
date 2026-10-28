@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, a train ticket from Moscow to Voronezh.' Barinov shares an unhurried style as the scene unfolds, putting "smotrite" ("look") alongside "bilet" ("ticket") in a tight, everyday turn of phrase.
-- 'That hell of yours turned out to be not far at all.' Barinov brings an easygoing bearing in their talk, linking "sovsem" ("at all"), "nedaleko" ("not far"), and "ad" ("hell") in one brisk exchange.
-- 'So what, are you really going to Voronezh?' Barinov inquires bluntly as the beat lands, putting "pravda" ("honestly") alongside "yedesh" ("are driving") in a tight, everyday turn of phrase.
-- 'Give it back, that is none of your business at all.' Max offers a direct angle in this beat, anchoring the Russian line on "otdayte" ("give, hand over") and "sovsem" ("at all") without extra filler.
-- 'Then you are not a traitor, I see that you are simply a coward and a liar.' Barinov sets an honest footing for Kostya, combining "togda" ("back then") and "predatel" ("traitor") so the key meaning lands right away.
-- 'What, do you really see, and I thought you were blind!' Max sustains a direct tack in front of Kostya, pairing "pravda" ("honestly") with "vidite" ("see") to get the point across in plain spoken Russian.
-- 'Otherwise you would have seen how hard I tried in order to please you!' Max favors an easygoing direction in front of Barinov, weaving "inache" ("otherwise") together with "uvideli" ("to see") just the way native speakers do.
-- 'So that Viktor Petrovich would say: good job, Max, you are growing!' Kostya brings a frank style at this moment, joining "skazal" ("said") to "molodets" ("well done, good boy") so every word pulls its weight.
-- 'Never mind, I endured everything, and you fired me anyway!' Max projects a wry mood as the scene unfolds, joining "terpel" ("put up with") to "ravno" ("the same") so every word pulls its weight.
-- 'Because I stood up for the girl I love?' Max inquires lightly with Kostya now, building the phrase around "lyubimuyu" ("favourite, beloved") and "devushku" ("young woman") for a crisp, natural delivery.
-- 'Would you yourself really have acted differently then?' Max prompts dryly during the talk, combining "po-drugomu" ("differently") and "togda" ("back then") so the key meaning lands right away.
-- 'Because you love only yourself, and you do not care about the rest!' Max projects a candid direction right away, joining "potomu" ("because") to "tolko" ("only") so every word pulls its weight.
-- 'I wanted to be like you, and now I understand everything!' Max conveys a serious course in the scene, linking "khotel" ("wanted"), "byt" ("be"), and "pokhozhim" ("similar, like") in one brisk exchange.
+- 'Look, a train ticket from Moscow to Voronezh.' Barinov opens up boldly around Kostya, refusing to let the moment slip past.
+- 'That hell of yours turned out to be not far at all.' Barinov chooses this telling piece right here: "okazalsya" means "turned up" (from "okazatsya"), giving the line its exact edge.
+- 'So what, are you really going to Voronezh?' Barinov gives that thought facing Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Give it back, that is none of your business at all.' Max weighs in wryly before Kostya, refusing to let the moment slip past.
+- 'Then you are not a traitor, I see that you are simply a coward and a liar.' Barinov colors one key element toward Kostya: "predatel" means "traitor", and it carries the main weight of what Barinov is saying.
+- 'What, do you really see, and I thought you were blind!' Max focuses on one colorful element in earnest: "pravda" means "honestly", and it carries the main weight of what Max is saying.
+- 'Otherwise you would have seen how hard I tried in order to please you!' Max speaks up warmly across the room, without trying to dress up how he really feels.
+- 'So that Viktor Petrovich would say: good job, Max, you are growing!' Kostya anchors one colorful element at once: "molodets" means "well done, good boy", and it carries the main weight of what Kostya is saying.
+- 'Never mind, I endured everything, and you fired me anyway!' Max sharpens one direct element at once: "uvolili" means "to fire, to dismiss" (from "uvolit"), giving the line its exact edge.
+- 'Because I stood up for the girl I love?' Max inquires sharply what Kostya is actually getting at here.
+- 'Would you yourself really have acted differently then?' Max uses one clear touch right here: "po-drugomu" means "differently", and it carries the main weight of what Max is saying.
+- 'Because you love only yourself, and you do not care about the rest!' Max stresses one sharp term toward Kostya: "ostalnykh" means "the others" (from "ostalnoy"), giving the line its exact edge.
+- 'I wanted to be like you, and now I understand everything!' Max fires back calmly before Barinov, shifting the whole mood of the room in a single beat.

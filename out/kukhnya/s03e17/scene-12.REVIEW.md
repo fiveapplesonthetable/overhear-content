@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, what are we going to do in the dark now?' Max probes openly toward Barinov here, joining "teper" ("now") to "budem" ("will") so every word pulls its weight.
-- 'Nothing, we have already cooked everything.' Barinov chooses a warm direction straight away, anchoring the Russian line on "uzhe" ("already, now") and "prigotovili" ("cooked, prepared") without extra filler.
-- 'And the rest is no longer our problem.' Barinov shares a measured mood as they talk, putting "ostalnoye" ("remaining, other") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'Guys, what on earth is going on in here?' Nagiyev asks sharply toward Max here, building the phrase around "rebyata" ("the boys, the lads") and "tut" ("here") for a crisp, natural delivery.
-- 'We have a banquet scheduled for an oligarch today.' Nagiyev brings a thoughtful footing with Barinov, putting "segodnya" ("today") alongside "banket" ("banquet") in a tight, everyday turn of phrase.
-- 'Wait, Dima, what oligarch are you talking about?' Barinov challenges lightly to Nagiyev here, joining "podozhdi" ("wait") to "yeshchyo" ("more, still") so every word pulls its weight.
-- 'If you cannot remember, buy yourself a notebook.' Nagiyev keeps an earnest manner during the exchange, linking "mozhesh" ("can"), "zapomnit" ("to remember"), and "pokupay" ("buy") in one brisk exchange.
-- 'I told you in plain Russian yesterday.' Nagiyev keeps a firm line right away, joining "russkim" ("Russian") to "yazykom" ("language") so every word pulls its weight.
-- 'This man wants to invest money in us.' Nagiyev displays a firm approach beside Barinov, putting "chelovek" ("a man, a person") alongside "khochet" ("wants") in a tight, everyday turn of phrase.
-- 'I put in a kopeck, and pull back a whole sack.' Nagiyev adopts a wry stance straight away, pairing "vkladyvayu" ("I invest, put in") with "kopeyku" ("kopeck") to get the point across in plain spoken Russian.
-- 'Wait, is this banquet not for Andrey?' Barinov prompts lightly for Max's benefit, placing "banket" ("banquet") straight beside "razve" ("really, can it be") with no word for "to be" needed.
-- 'Vitya, wake up, this is a very generous offer!' Nagiyev displays a warm angle in front of Max, combining "prosnis" ("wake up") and "ochen" ("very much") so the key meaning lands right away.
+- 'Chef, what are we going to do in the dark now?' Max presses quietly why things suddenly took this turn between them.
+- 'Nothing, we have already cooked everything.' Barinov reaches for this direct piece right here: "prigotovili" means "cooked, prepared" (from "prigotovit"), giving the line its exact edge.
+- 'And the rest is no longer our problem.' Barinov shapes the thought frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Guys, what on earth is going on in here?' Nagiyev inquires plainly where this conversation is heading next.
+- 'We have a banquet scheduled for an oligarch today.' Nagiyev chooses one key touch in earnest: "zaplanirovan" means "planned, scheduled" (from "zaplanirovat"), giving the line its exact edge.
+- 'Wait, Dima, what oligarch are you talking about?' Barinov frames this point around Nagiyev: putting the question word "kakoy" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'If you cannot remember, buy yourself a notebook.' Nagiyev counters earnestly in their talk, grounding the moment in plain reality.
+- 'I told you in plain Russian yesterday.' Nagiyev stresses this direct detail in reply: "russkim" means "Russian" (from "russkiy"), giving the line its exact edge.
+- 'This man wants to invest money in us.' Nagiyev pushes back bluntly as they talk, watching Barinov's face to see how the news lands.
+- 'I put in a kopeck, and pull back a whole sack.' Nagiyev reacts sharply toward Max, steering the talk right where he wants it.
+- 'Wait, is this banquet not for Andrey?' Barinov uses one colorful detail in reply: "banket" means "banquet", and it carries the main weight of what Barinov is saying.
+- 'Vitya, wake up, this is a very generous offer!' Nagiyev pushes back boldly during the talk, making his position completely clear.

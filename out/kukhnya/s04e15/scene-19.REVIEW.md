@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, Yura, it is me, Vitya Barinov!' Denis chooses an honest manner beside Barinov, leaning on "podozhdite" ("wait") before closing the thought with "yura" ("yura").
-- 'Hello, Vitya, glad to see you here!' Denis holds a sharp tempo in the room, anchoring the Russian line on "rad" ("glad") and "zdes" ("here") without extra filler.
-- 'It seemed to me you were cooking at another place.' Denis keeps a candid direction on the spot, leaning on "kazalos" ("to seem") before closing the thought with "gotovish" ("prepare, make").
-- 'Yes, I work nearby, and my daughter is here!' Barinov strikes a warm tempo as they talk, building the phrase around "rabotayu" ("work") and "ryadom" ("nearby") for a crisp, natural delivery.
-- 'So your daughter is the main kingpin here?' Denis queries briskly to make the point, putting "dochka" ("dear, daughter") alongside "zdes" ("here") in a tight, everyday turn of phrase.
-- 'Thank you very much, Yura, you really bailed me out!' Barinov strikes a calm bearing toward Katya, weaving "spasibo" ("thank you") together with "bolshoye" ("big, very much") just the way native speakers do.
-- 'Sorry, Vitya, my eagles are to blame today.' Denis displays a steady direction toward Barinov, anchoring the Russian line on "izvini" ("sorry, excuse me") and "orly" ("today") without extra filler.
-- 'I will send these two detectives to the north!' Denis adopts a firm direction in this beat, pairing "detektivov" ("detective story") with "otpravlyu" ("will send") to get the point across in plain spoken Russian.
-- 'All right, do not punish them too harshly, they just made a mistake.' Barinov presents a playful line right away, combining the easygoing tag "ladno" ("okay, fine") with "silno" ("strongly, much") to give the line its natural spoken rhythm.
-- 'Katya, wait, please, hear me out right now!' Denis sustains an unhurried stance for Katya, pairing "seychas" ("now") with "podozhdi" ("wait") so the "-sya" ending carries the action.
-- 'Leave me alone, I do not want to talk!' Katya picks a wry line straight away, combining "otstan" ("leave alone") and "khochu" ("want") so the key meaning lands right away.
-- 'Katya, forgive me, it was a foolish misunderstanding!' Denis sets a warm mood as they talk, pairing "prosti" ("sorry, forgive me") with "bylo" ("was") to get the point across in plain spoken Russian.
+- 'Wait, Yura, it is me, Vitya Barinov!' Denis points to one colorful word in reply: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Hello, Vitya, glad to see you here!' Denis grounds this key element in reply: "videt" means "to see", and it carries the main weight of what Denis is saying.
+- 'It seemed to me you were cooking at another place.' Denis counters steadily with a nod, keeping the focus on what actually matters here.
+- 'Yes, I work nearby, and my daughter is here!' Barinov sharpens one pointed piece right here: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
+- 'So your daughter is the main kingpin here?' Denis gives that line at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Thank you very much, Yura, you really bailed me out!' Barinov replies firmly without holding back, making his position completely clear.
+- 'Sorry, Vitya, my eagles are to blame today.' Denis features one pointed detail in reply: "vinovaty" means "guilty, at fault" (from "vinovatyy"), giving the line its exact edge.
+- 'I will send these two detectives to the north!' Denis reacts dryly to settle things, leaving no doubt about where he stands.
+- 'All right, do not punish them too harshly, they just made a mistake.' Barinov follows up quietly around Denis, before Denis can change the subject.
+- 'Katya, wait, please, hear me out right now!' Denis uses one direct expression in reply: "vyslushay" means "hear out, listen to" (from "vyslushat"), giving the line its exact edge.
+- 'Leave me alone, I do not want to talk!' Katya holds firm frankly across the room, saying out loud what both of them already know.
+- 'Katya, forgive me, it was a foolish misunderstanding!' Denis answers plainly in this moment, testing Katya's reaction in the middle of the exchange.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, please enjoy.' Max offers a direct manner in the room, building the phrase around "vot" ("there, here") and "pozhaluysta" ("please") for a crisp, natural delivery.
-- 'Oh my, Max, you have outdone yourself again.' Barinov favors a wry line as they talk, pairing "opyat" ("again") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'Do not worry at all, it is my pleasure.' Vika conveys a firm bearing beside Barinov, using "bespokoytes" (from "bespokoitsya", "worry") alongside "priyatno" ("pleasant") to shape the meaning.
-- 'Do you mind if I sit?' Max tests steadily in this moment, building the phrase around "vy" ("you") and "ne" ("not") for a crisp, natural delivery.
-- 'No, no, I do not mind at all.' Barinov adopts an earnest view in this beat, pairing "net" ("no") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'What a wonderful aroma.' Vika maintains an earnest posture for Max, pairing "aromat" ("aroma") with "kakoy" ("what a, how") to get the point across in plain spoken Russian.
-- 'You are a magician, Max.' Barinov conveys a pointed approach during the exchange, combining "volshebnik" ("a wizard, magician") and "vy" ("you") so the key meaning lands right away.
-- 'I did my very best, specially for you.' Barinov sustains a natural style across the room, leaning on "staralsya" ("tried") before closing the thought with "spetsialno" ("on purpose").
-- 'Hello there, Viktoriya Sergeyevna.' Max takes a steady course in the conversation, pairing "zdraste" ("hello, hi") with "viktoriya" ("Victoria") to get the point across in plain spoken Russian.
-- 'Have a seat, Viktoriya Sergeyevna.' Max holds a brisk style in this beat, joining "sadis" ("sit down") to "viktoriya" ("Victoria") so every word pulls its weight.
-- 'Everything in the restaurant is going fine.' Barinov presents a steady bearing during the exchange, linking "restorane" ("restaurant"), "normalno" ("fine, OK"), and "vse" ("all") in one brisk exchange.
-- 'Aha, well thank goodness for that.' Vika shows a serious mood across the room, anchoring the Russian line on "slava" ("glory") and "bogu" ("to God") without extra filler.
-- 'What are you staring at?' Max probes promptly across the room, combining "smotrish" ("are staring") and "chto" ("what") so the key meaning lands right away.
+- 'Here you go, please enjoy.' Max frames that remark calmly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Oh my, Max, you have outdone yourself again.' Barinov sharpens this telling piece toward Vika: "opyat" means "again", and it carries the main weight of what Barinov is saying.
+- 'Do not worry at all, it is my pleasure.' Vika fires back steadily around Barinov, saying out loud what both of them already know.
+- 'Do you mind if I sit?' Max offers the remark for Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'No, no, I do not mind at all.' Barinov reacts plainly across the room, so Max knows he is not just making small talk.
+- 'What a wonderful aroma.' Vika chimes in at once without any doubt, bringing things back to earth after the buildup.
+- 'You are a magician, Max.' Barinov leans on one vivid element toward Max: "volshebnik" means "a wizard, magician", and it carries the main weight of what Barinov is saying.
+- 'I did my very best, specially for you.' Barinov makes that answer beside Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Hello there, Viktoriya Sergeyevna.' Max speaks decisively across the room, making his position completely clear.
+- 'Have a seat, Viktoriya Sergeyevna.' Max focuses on this vivid touch at once: "sadis" means "sit down" (from "saditsya"), giving the line its exact edge.
+- 'Everything in the restaurant is going fine.' Barinov directs the remark without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Aha, well thank goodness for that.' Vika steps in openly before Max, leaving no doubt about where she stands.
+- 'What are you staring at?' Max reaches for one colorful piece on cue: "smotrish" means "are staring" (from "smotret"), giving the line its exact edge.

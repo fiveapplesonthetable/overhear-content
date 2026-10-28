@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not understand at all what is happening with her.' Denis sets a steady manner in front of Barinov, putting "voobshche" ("at all") alongside "ponimayu" ("understand") in a tight, everyday turn of phrase.
-- 'In my opinion, everything is clear, you spoiled her with attention.' Nikita keeps a clear manner in the conversation, anchoring the Russian line on "po-moyemu" ("in my opinion") and "ponyatno" ("clear") without extra filler.
-- 'And what am I supposed to do about this now?' Denis quizzes lightly as the talk turns, weaving "teper" ("now") together with "delat" ("do") just the way native speakers do.
-- 'You can try to make her a little jealous.' Nikita projects an emphatic view beside Denis, joining "mozhno" ("may, can") to "poprobovat" ("to taste") so every word pulls its weight.
-- 'For example, come to the birthday party with another girl.' Nikita displays a frank style during the exchange, anchoring the Russian line on "naprimer" ("for example") and "priyti" ("to come") without extra filler.
-- 'Chef, are you going to the birthday party today?' Denis inquires wryly in the scene, building the phrase around "segodnya" ("today") and "den" ("day") for a crisp, natural delivery.
-- 'Ask one more time and I will chip in for your funeral wreath!' Barinov shows a playful line in the conversation, linking "yeshchyo" ("more, still"), "raz" ("time, once"), and "sprosish" ("to ask") in one brisk exchange.
-- 'Viktor, I know what to do with Eleonora.' Nikita sustains a sharp style in the room, using "znayu" (from "znat", "know") alongside "delat" ("do") to shape the meaning.
-- 'Agreed, only we will carry her in the trunk of your car.' Barinov establishes a calm style toward Denis, putting "soglasen" ("agreed") alongside "tolko" ("only") in a tight, everyday turn of phrase.
-- 'I am serious, we need to urgently bring Nagiyev here.' Nikita chooses a measured line in this beat, putting "seryozno" ("seriously") alongside "nuzhno" ("necessary") in a tight, everyday turn of phrase.
-- 'They need to talk, her mental state will improve.' Nikita offers a sharp approach as the scene unfolds, leaning on "nado" ("it is necessary") before closing the thought with "pogovorit" ("to talk").
-- 'Hello, Dima, this is the ex-husband of your ex-wife!' Barinov brings a natural approach across the room, putting "byvshiy" ("ex") alongside "muzh" ("husband") in a tight, everyday turn of phrase.
+- 'I do not understand at all what is happening with her.' Denis favors one clear piece right here: "proiskhodit" means "is going on", and it carries the main weight of what Denis is saying.
+- 'In my opinion, everything is clear, you spoiled her with attention.' Nikita leans on this sharp touch right here: "vnimaniyem" means "attention" (from "vnimaniye"), giving the line its exact edge.
+- 'And what am I supposed to do about this now?' Denis questions plainly in front of Barinov without any preamble.
+- 'You can try to make her a little jealous.' Nikita leans on one loaded choice right here: "poprobovat" means "to taste", and it carries the main weight of what Nikita is saying.
+- 'For example, come to the birthday party with another girl.' Nikita pushes back candidly toward Barinov, watching Barinov's face to see how the news lands.
+- 'Chef, are you going to the birthday party today?' Denis quizzes firmly why things suddenly took this turn between them.
+- 'Ask one more time and I will chip in for your funeral wreath!' Barinov focuses on one colorful expression in reply: "skidyvatsya" means "to chip in", and it carries the main weight of what Barinov is saying.
+- 'Viktor, I know what to do with Eleonora.' Nikita stands firm decisively as they talk, bringing things back to earth after the buildup.
+- 'Agreed, only we will carry her in the trunk of your car.' Barinov cuts in decisively to be clear, keeping the focus on what actually matters here.
+- 'I am serious, we need to urgently bring Nagiyev here.' Nikita chooses one key piece with Denis: "seryozno" means "seriously", and it carries the main weight of what Nikita is saying.
+- 'They need to talk, her mental state will improve.' Nikita phrases that point before Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Hello, Dima, this is the ex-husband of your ex-wife!' Barinov continues steadily on the spot, making his position completely clear.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Come on, guys, let us do this.' Kostya establishes an easygoing note in the room, linking "rebyat" ("kids, guys"), "davayte" ("let's"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Who has not chipped in yet, guys?' Sasha quizzes firmly across the room, leaning on "sdal" ("gave up, ratted out") before closing the thought with "rebyata" ("the boys, the lads").
-- 'We are still coming up short.' Senya strikes a candid footing straight away, building the phrase around "nabirayetsya" ("to gather, accumulate") and "chto-to" ("somehow") for a crisp, natural delivery.
-- 'Who has not chipped in?' Kostya quizzes plainly in this moment, building the phrase around "sdal" ("gave up, ratted out") and "kto" ("who") for a crisp, natural delivery.
-- 'You have not chipped in.' Sasha offers an honest approach in the room, linking "sdal" ("gave up, ratted out"), "ty" ("you"), and "ne" ("not") in one brisk exchange.
-- 'Oh, right, that is true.' Senya chooses a steady tack for Sasha, linking "tochno" ("definitely") directly with "da" ("yes"), since Russian drops "is" and "are" in the present.
-- 'Senka has sailed his last boat.' Kostya strikes a clear mood in the scene, using "otborozdil" (from "otborozdit", "to sail across") alongside "barkasu" ("launch, boat") to shape the meaning.
-- 'Farewell, Senka.' Sasha establishes a serious tone straight away, leaning on "proshchay" ("farewell") before closing the thought with "senka" ("Senya").
-- 'Kostya, those are not my panties.' Senya displays a grounded bearing without hesitation, building the phrase around "kost" ("bones") and "trusiki" ("briefs, underwear") for a crisp, natural delivery.
-- 'Have you seen mine?' Kostya questions lightly toward Senya here, weaving "videla" ("saw") together with "ty" ("you") just the way native speakers do.
-- 'Were you the one hanging laundry in the bathroom?' Sasha queries naturally as the talk turns, leaning on "tam" ("there") before closing the thought with "razveshivala" ("to hang up").
-- 'Listen, Sasha, do you know where my shorts are?' Senya presses firmly to Sasha here, weaving "slushay" ("listen") together with "znayesh" ("know") just the way native speakers do.
-- 'Can you imagine, all of your things fit right in here.' Kostya presents a warm mood in front of Sasha, putting "predstavlyayesh" ("can you imagine") alongside "veshchi" ("things") in a tight, everyday turn of phrase.
+- 'Come on, guys, let us do this.' Kostya reaches for this telling touch in earnest: "rebyat" means "kids, guys" (from "rebyata"), giving the line its exact edge.
+- 'Who has not chipped in yet, guys?' Sasha hands over that remark without pause: putting the question word "kto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'We are still coming up short.' Senya replies briskly with a shrug, keeping the focus on what actually matters here.
+- 'Who has not chipped in?' Kostya sharpens one practical element for Senya: "sdal" means "gave up, ratted out" (from "sdat"), giving the line its exact edge.
+- 'You have not chipped in.' Sasha drops that line on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Oh, right, that is true.' Senya responds plainly with a shrug, refusing to let the moment slip past.
+- 'Senka has sailed his last boat.' Kostya stresses this sharp choice at once: "otborozdil" means "to sail across" (from "otborozdit"), giving the line its exact edge.
+- 'Farewell, Senka.' Sasha drops the comment with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Kostya, those are not my panties.' Senya pushes back warmly toward Kostya, refusing to let the moment slip past.
+- 'Have you seen mine?' Kostya underscores this clear expression on cue: "videla" means "saw" (from "videt"), giving the line its exact edge.
+- 'Were you the one hanging laundry in the bathroom?' Sasha sends that remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Listen, Sasha, do you know where my shorts are?' Senya checks sharply about what Sasha just brought up.
+- 'Can you imagine, all of your things fit right in here.' Kostya anchors one concrete touch toward Sasha: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.

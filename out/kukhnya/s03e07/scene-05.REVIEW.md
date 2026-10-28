@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What on earth is this, honest word!' Barinov favors a grounded manner in the room, building the phrase around "chestnoye" ("honest") and "slovo" ("word") for a crisp, natural delivery.
-- 'I really do not know anything anymore.' Barinov maintains an emphatic posture without hesitation, pairing "pryamo" ("right, just") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
-- 'Well what, did you not have enough yesterday?' Barinov tests decisively at this point, leaning on "malo" ("little, not enough") before closing the thought with "vchera" ("yesterday").
-- 'Dima, please, stop immediately!' Max maintains a brisk tone across the room, building the phrase around "nemedlenno" ("immediately") and "perestan" ("stop") for a crisp, natural delivery.
-- 'Chef, a guest out there found a cockroach in his dish.' Lyova adopts a direct approach as they talk, leaning on "tam" ("there") before closing the thought with "gost" ("guest").
-- 'What cockroach, whose dish is it?' Barinov challenges naturally across the room, placing "yeshchyo" ("more, still") straight beside "tarakana" ("cockroach") with no word for "to be" needed.
-- 'Unfortunately, it is your dish, Chef.' Lyova adopts a serious tack with Barinov, leaning on "sozhaleniyu" ("regret") before closing the thought with "blyudo" ("dish").
-- 'That is precisely why I do not love traditional cuisine.' Max displays a measured direction toward Lyova, linking "poetomu" ("that's why"), "lyublyu" ("love"), and "traditsionnuyu" ("traditional") in one brisk exchange.
-- 'And in molecular cuisine no one would have noticed it.' Max displays a thoughtful posture beside Barinov, leaning on "molekulyarnoy" ("molecular") before closing the thought with "kukhne" ("kitchen").
-- 'Hey, where is he driving right now?' Barinov tests candidly without holding back, anchoring the Russian line on "kuda" ("where to") and "seychas" ("now") without extra filler.
-- 'Brake quickly, that is Nagiyev himself!' Lyova displays a pointed rhythm beside Barinov, leaning on "tormozi" ("to brake, slow down") before closing the thought with "skoreye" ("quickly, right away").
-- 'Let us drive away from here quickly!' Barinov maintains a direct bearing as they talk, building the phrase around "davay" ("let's") and "bystro" ("quickly") for a crisp, natural delivery.
+- 'What on earth is this, honest word!' Barinov frames that thought plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I really do not know anything anymore.' Barinov chimes in bluntly hearing Max, letting the remark speak for itself.
+- 'Well what, did you not have enough yesterday?' Barinov colors one loaded detail on cue: "vchera" means "yesterday", and it carries the main weight of what Barinov is saying.
+- 'Dima, please, stop immediately!' Max lays out this update facing Lyova: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Chef, a guest out there found a cockroach in his dish.' Lyova reacts warmly with a sigh, refusing to let the moment slip past.
+- 'What cockroach, whose dish is it?' Barinov chooses this telling piece toward Max: "tarakana" means "cockroach" (from "tarakan"), giving the line its exact edge.
+- 'Unfortunately, it is your dish, Chef.' Lyova phrases the remark at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'That is precisely why I do not love traditional cuisine.' Max pushes back bluntly with a shrug, leaving no doubt about where he stands.
+- 'And in molecular cuisine no one would have noticed it.' Max picks this clear word right here: "molekulyarnoy" means "molecular" (from "molekulyarnyy"), giving the line its exact edge.
+- 'Hey, where is he driving right now?' Barinov lays out the reply beside Max: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Brake quickly, that is Nagiyev himself!' Lyova pushes back dryly without a pause, steering the talk right where he wants it.
+- 'Let us drive away from here quickly!' Barinov frames this vivid piece in reply: "uyezzhayem" means "we leave, drive away" (from "uyezzhat"), giving the line its exact edge.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just an ordinary broom.' Barinov sustains a resolute stance in the conversation, anchoring the Russian line on "prostoy" ("simple, ordinary") and "venik" ("a broom") without extra filler.
-- 'As if he were still right here with us.' Vika adopts a direct angle at this moment, anchoring the Russian line on "kak" ("how") and "zdes" ("here") without extra filler.
-- 'Dmitriy Vladimirovich.' Barinov presents a calm course across the room, combining "dmitriy" ("Dmitry") and "vladimirovich" ("Vladimirovich") so the key meaning lands right away.
-- 'I am afraid things will not work the way they used to.' Barinov chooses an unhurried position beside Vika, pairing "kak" ("how") with "prezhde" ("before") to get the point across in plain spoken Russian.
-- 'Today guests have already canceled their banquet.' Vika chooses an honest style in the scene, pairing "otkazalis" ("to refuse, decline") with "segodnya" ("today") so the "-sya" ending carries the action.
-- 'Because Viktor Petrovich will not be doing the cooking.' Nagiyev projects a warm posture toward Vika, anchoring the Russian line on "gotovit" ("to cook") and "budet" ("will be") without extra filler.
-- 'We all pitch in and work at full capacity.' Barinov picks a direct position without hesitation, putting "navalivayemsya" ("to pile on") alongside "rabotayem" ("we work, let's work") in a tight, everyday turn of phrase.
-- 'Where were you?' Vika probes naturally on the spot, joining "gde" ("where") to "byl" ("was") so every word pulls its weight.
-- 'We were mopping the floors.' Nagiyev strikes an honest stance beside Barinov, joining "poly" ("floors") to "myli" ("to wash") so every word pulls its weight.
-- 'Nastya and I did that too.' Barinov shares a frank tone straight away, combining "tozhe" ("too") and "my" ("we") so the key meaning lands right away.
-- 'Ironing the laundry.' Vika presents a serious manner toward Barinov, putting "belye" ("laundry, linen") alongside "pogladit" ("ironed") in a tight, everyday turn of phrase.
-- 'Nastya came up with that idea.' Nagiyev shows a measured tempo toward Vika, using "pridumala" (from "pridumat", "thought up") alongside "eto" ("this") to shape the meaning.
-- 'Why did I even tell you about that.' Barinov adopts a brisk style across the room, putting "skazal" ("said") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'Just an ordinary broom.' Barinov stands firm decisively around Nagiyev, bringing things back to earth after the buildup.
+- 'As if he were still right here with us.' Vika features this vivid detail right here: "po-prezhnemu" means "still, as before", and it carries the main weight of what Vika is saying.
+- 'Dmitriy Vladimirovich.' Barinov frames this answer beside Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I am afraid things will not work the way they used to.' Barinov responds warmly hearing Vika, before Vika can change the subject.
+- 'Today guests have already canceled their banquet.' Vika anchors one familiar touch toward Barinov: "otkazalis" means "to refuse, decline" (from "otkazatsya"), giving the line its exact edge.
+- 'Because Viktor Petrovich will not be doing the cooking.' Nagiyev jumps in briskly to be clear, watching Vika's face to see how the news lands.
+- 'We all pitch in and work at full capacity.' Barinov holds firm steadily during the talk, so Nagiyev knows he is not just making small talk.
+- 'Where were you?' Vika hands over this warning to Nagiyev: putting the question word "gde" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'We were mopping the floors.' Nagiyev frames this answer to Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Nastya and I did that too.' Barinov opens up boldly without a pause, steering the talk right where he wants it.
+- 'Ironing the laundry.' Vika chooses one clear touch in earnest: "pogladit" means "ironed", and it carries the main weight of what Vika is saying.
+- 'Nastya came up with that idea.' Nagiyev offers that thought toward Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Why did I even tell you about that.' Barinov reacts frankly across the room, without trying to dress up how he really feels.

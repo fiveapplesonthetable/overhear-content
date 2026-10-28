@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what is this person doing here?' Elena presses firmly across the room, leaning on "osoba" ("person, individual") before closing the thought with "zdes" ("here").
-- 'She works here. As a cook.' Barinov establishes a calm note without hesitation, using "rabotayet" (from "rabotat", "works") alongside "povarom" ("as a cook") to shape the meaning.
-- 'A female cook in your kitchen?' Elena prompts candidly in the scene, anchoring the Russian line on "zhenshchina-povar" ("female cook") and "tebya" ("you") without extra filler.
-- 'Well, Nagiyev forced her on me, she is a molecular cuisine specialist.' Barinov maintains an unhurried note on the spot, leaning on "navyazal" ("forced on, imposed") before closing the thought with "spetsialist" ("specialist").
-- 'And why did you actually drop by?' Barinov quizzes earnestly toward Elena here, weaving "sobstvenno" ("actually") together with "zashla" ("dropped in") just the way native speakers do.
-- 'I need a car for a couple of hours.' Elena shows a frank position on the spot, pairing "mashina" ("a car") with "nuzhna" ("needed") to get the point across in plain spoken Russian.
-- 'Will you lend me yours?' Elena wonders lightly without hesitation, pairing "dash" ("to give") with "svoyu" ("your") to get the point across in plain spoken Russian.
-- 'For heaven's sake, be careful.' Barinov maintains a clear tack without hesitation, anchoring the Russian line on "boga" ("God") and "akkuratneye" ("more carefully") without extra filler.
-- 'Who are you worrying about right now?' Elena probes earnestly to keep things clear, leaning on "seychas" ("now") before closing the thought with "perezhivayesh" ("worry").
-- 'About the car or about me?' Elena presses frankly without a pause, weaving "mashinu" ("car") together with "za" ("for") just the way native speakers do.
-- 'Both of you are dear to me in different ways.' Barinov brings a sharp bearing in front of Elena, pairing "po-raznomu" ("in different ways") with "dorogiye" ("dear") to get the point across in plain spoken Russian.
-- 'Thank you, Vitya.' Elena chooses a frank mood for Barinov, leaning on "spasibo" ("thank you") before closing the thought with "vitya" ("Vitya").
+- 'And what is this person doing here?' Elena prompts sharply to see how Barinov will answer on the spot.
+- 'She works here. As a cook.' Barinov chooses one direct choice right here: "rabotayet" means "works" (from "rabotat"), giving the line its exact edge.
+- 'A female cook in your kitchen?' Elena shapes the comment without pause: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Well, Nagiyev forced her on me, she is a molecular cuisine specialist.' Barinov chimes in frankly beside Elena, bringing things back to earth after the buildup.
+- 'And why did you actually drop by?' Barinov focuses on one pointed expression on cue: "sobstvenno" means "actually", and it carries the main weight of what Barinov is saying.
+- 'I need a car for a couple of hours.' Elena steps in honestly beside Barinov, grounding the moment in plain reality.
+- 'Will you lend me yours?' Elena checks calmly while looking straight at Barinov here.
+- 'For heaven's sake, be careful.' Barinov features one telling choice in reply: "akkuratneye" means "more carefully" (from "akkuratno"), giving the line its exact edge.
+- 'Who are you worrying about right now?' Elena brings this line briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'About the car or about me?' Elena asks skeptically about what Barinov just brought up.
+- 'Both of you are dear to me in different ways.' Barinov emphasizes this clear piece on cue: "po-raznomu" means "in different ways", and it carries the main weight of what Barinov is saying.
+- 'Thank you, Vitya.' Elena aims that remark without pause: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.

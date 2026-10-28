@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, where do you keep looking all the time?' Barinov asks dryly as they speak, combining "kuda" ("where to") and "vremya" ("time") so the key meaning lands right away.
-- 'That guest has a very familiar face.' Nagiyev establishes a lively line at once, anchoring the Russian line on "gostya" ("guest, visitor") and "ochen" ("very much") without extra filler.
-- 'I do not remember strangers' Nagiyev sets an unhurried stance beside Barinov, anchoring the Russian line on "prosto" ("just") and "chuzhiye" ("someone else's") without extra filler.
-- 'Either he is a big shot, or I owe him money.' Nagiyev shares a firm direction with Max, weaving "vazhnaya" ("important") together with "shishka" ("big shot") just the way native speakers do.
-- 'Give me the plate, I will take it to the guest myself.' Max projects a brisk mood straight away, combining the polite invitation "davayte" ("let us") with "tarelku" ("plate, platter") to give the line its natural spoken rhythm.
-- 'Look, that is definitely the Michelin inspector!' Barinov sets an honest manner without hesitation, leaning on "posmotri" ("look") before closing the thought with "tochno" ("definitely").
-- 'Here you go, your signature dish from the chef.' Max shares a resolute note right away, putting "firmennoye" ("signature, specialty") alongside "blyudo" ("dish") in a tight, everyday turn of phrase.
-- 'It is definitely him, I am never mistaken.' Nagiyev presents an easygoing footing in the conversation, doubling the negative with "ne" ("not") and "tochno" ("definitely"), which is standard and required in Russian.
-- 'An important contact passed this information to me.' Nagiyev maintains an earnest footing toward Barinov, pairing "informatsiyu" ("information") with "vazhnyy" ("important") to get the point across in plain spoken Russian.
-- 'It is a long story, I bought this tip for good money.' Nagiyev chooses a steady approach as the scene unfolds, anchoring the Russian line on "obyasnyat" ("to explain") and "dolgo" ("for a long time") without extra filler.
-- 'Then I will cook him the best dinner right now.' Barinov brings a measured line in front of Max, anchoring the Russian line on "togda" ("back then") and "seychas" ("now") without extra filler.
-- 'Bon appétit, I hope you like it.' Max chooses a warm posture at this moment, linking "priyatnogo" ("pleasant"), "appetita" ("appetite"), and "nadeyus" ("hope so") in one brisk exchange.
+- 'Dima, where do you keep looking all the time?' Barinov spotlights one colorful word in reply: "vremya" means "time", and it carries the main weight of what Barinov is saying.
+- 'That guest has a very familiar face.' Nagiyev cuts in evenly with Max, watching Max's face to see how the news lands.
+- 'I do not remember strangers' Nagiyev answers quietly without holding back, watching Barinov's face to see how the news lands.
+- 'Either he is a big shot, or I owe him money.' Nagiyev picks one colorful choice with Max: "vazhnaya" means "important" (from "vazhnyy"), giving the line its exact edge.
+- 'Give me the plate, I will take it to the guest myself.' Max brings that remark plainly here: the word "davayte" is the polite or group version of "let's", inviting Barinov into the plan right away.
+- 'Look, that is definitely the Michelin inspector!' Barinov answers frankly during the talk, without trying to dress up how he really feels.
+- 'Here you go, your signature dish from the chef.' Max highlights one key choice in earnest: "firmennoye" means "signature, specialty" (from "firmennyy"), giving the line its exact edge.
+- 'It is definitely him, I am never mistaken.' Nagiyev drops this update right away: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'An important contact passed this information to me.' Nagiyev chimes in firmly before Barinov, grounding the moment in plain reality.
+- 'It is a long story, I bought this tip for good money.' Nagiyev centers one clear piece toward Max: "informatsiyu" means "information" (from "informatsiya"), giving the line its exact edge.
+- 'Then I will cook him the best dinner right now.' Barinov continues openly to settle things, steering the talk right where he wants it.
+- 'Bon appétit, I hope you like it.' Max responds lightly in this moment, to clear the air between them once and for all.

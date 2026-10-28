@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is three times more than you paid!' Max picks a candid course beside Kostya, combining "raza" ("time") and "bolshe" ("more") so the key meaning lands right away.
-- 'And what did you expect, Dima? It is business!' Max tests briskly for Vika's benefit, weaving "kak" ("how") together with "khotel" ("wanted") just the way native speakers do.
-- 'Alright, I am completely ready! Well, where am I going?' Max queries evenly right away, leaning on "polnostyu" ("completely") before closing the thought with "gotov" ("ready").
-- 'Forgive me for interfering, I overheard that you are having a wedding.' Kostya adopts a wry tack right away, weaving "izvinite" ("sorry, excuse me") together with "vmeshivayus" ("I interfere") just the way native speakers do.
-- 'That means your house is full of relatives right now.' Kostya offers a brisk attitude in front of Max, weaving "znachit" ("then, so") together with "doma" ("at home") just the way native speakers do.
-- 'And our patient needs good care and above all peace and quiet.' Kostya keeps a direct attitude during the exchange, weaving "bolnomu" ("to the patient") together with "nuzhen" ("is needed") just the way native speakers do.
-- 'That is very important for his speedy recovery.' Kostya holds a playful tempo as they talk, leaning on "ochen" ("very much") before closing the thought with "vazhno" ("important, mattering").
-- 'Wait a second, where should I go right now then?' Max challenges warmly in the scene, building the phrase around "podozhdite" ("wait") and "kuda" ("where to") for a crisp, natural delivery.
-- 'Viktoriya Sergeyevna, maybe he could stay at your place?' Kostya challenges calmly as they speak, leaning on "mozhet" ("can") before closing the thought with "byt" ("be").
-- 'No, Doctor, that will definitely not do!' Vika offers an emphatic posture beside Max, weaving "doktor" ("Doctor") together with "sovershenno" ("quite, completely") just the way native speakers do.
-- 'Vika, wait, did I live with you before?' Max asks honestly for Kostya's benefit, weaving "podozhdi" ("wait") together with "ranshe" ("earlier, previously") just the way native speakers do.
-- 'A hotel has poor care, he needs to live among familiar people.' Kostya shows a direct style in the room, linking "gostinitse" ("hotel"), "plokhoy" ("bad"), and "ukhod" ("care, nursing") in one brisk exchange.
-- 'Kostya, tell me, what other options do we have?' Vika tests directly without a pause, putting "skazhi" ("say") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'That is three times more than you paid!' Max holds firm earnestly with a nod, steering the talk right where he wants it.
+- 'And what did you expect, Dima? It is business!' Max underscores this telling detail for Vika: "biznes" means "business", and it carries the main weight of what Max is saying.
+- 'Alright, I am completely ready! Well, where am I going?' Max states that answer around Kostya: putting the question word "kuda" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Forgive me for interfering, I overheard that you are having a wedding.' Kostya reacts quietly watching Vika, watching Vika's face to see how the news lands.
+- 'That means your house is full of relatives right now.' Kostya focuses on one direct choice right here: "rodstvennikov" means "relatives" (from "rodstvennik"), giving the line its exact edge.
+- 'And our patient needs good care and above all peace and quiet.' Kostya counters firmly as things stand, steering the talk right where he wants it.
+- 'That is very important for his speedy recovery.' Kostya proceeds promptly in this moment, without trying to dress up how he really feels.
+- 'Wait a second, where should I go right now then?' Max spotlights one classic choice in reply: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Viktoriya Sergeyevna, maybe he could stay at your place?' Kostya aims the comeback calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'No, Doctor, that will definitely not do!' Vika weighs in calmly around Max, testing Max's reaction in the middle of the exchange.
+- 'Vika, wait, did I live with you before?' Max grounds one vivid detail on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'A hotel has poor care, he needs to live among familiar people.' Kostya hands over this warning with warmth: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Kostya, tell me, what other options do we have?' Vika prompts briskly whether Kostya really thought this through.

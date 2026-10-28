@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is our head chef, Viktor Petrovich.' Vika projects a pointed bearing straight away, leaning on "shef-povar" ("head chef") before closing the thought with "eto" ("this").
-- 'By the way, Viktor Petrovich is a huge football fan.' Vika displays a firm approach with Kristina, combining the casual transition "kstati" ("by the way") with "bolshoy" ("big") to give the line its natural spoken rhythm.
-- 'And he roots for your football club.' Kristina presents a direct mood in this beat, pairing "boleyet" ("is ill") with "futbolnyy" ("football") to get the point across in plain spoken Russian.
-- 'She is joking.' Barinov chooses a natural angle as the scene unfolds, building the phrase around "shutit" ("is joking") and "ona" ("it") for a crisp, natural delivery.
-- 'I noticed.' Vika establishes a lively direction at once, anchoring the Russian line on "zametil" ("noticed") and "ya" ("I") without extra filler.
-- 'I know.' Kristina conveys a candid rhythm as they talk, leaning on "znayu" ("know") before closing the thought with "ya" ("I").
-- 'Enjoy your meal.' Barinov displays a direct position as the scene unfolds, anchoring the Russian line on "priyatnogo" ("pleasant") and "appetita" ("appetite") without extra filler.
-- 'Good luck to you tomorrow.' Vika projects an honest footing across the room, weaving "udachi" ("luck") together with "zavtra" ("tomorrow") just the way native speakers do.
-- 'Chef, well, how did it go out there?' Kristina inquires lightly in this moment, leaning on "tam" ("there") before closing the thought with "shef" ("Chef").
-- 'Nothing at all!' Barinov takes a frank view in the scene, anchoring the Russian line on "da" ("yes") and "nichego" ("nothing") without extra filler.
-- 'How could you mix up Makeev with Malafeev?' Vika prompts briskly in the room, pairing "kak" ("how") with "mozhno" ("may, can") to get the point across in plain spoken Russian.
-- 'Mixing up Spartak with Zenit.' Kristina shows a thoughtful bearing with Vika, putting "myaso" ("meat") alongside "bomzhami" ("homeless person") in a tight, everyday turn of phrase.
+- 'This is our head chef, Viktor Petrovich.' Vika favors this key choice on cue: "shef-povar" means "head chef", and it carries the main weight of what Vika is saying.
+- 'By the way, Viktor Petrovich is a huge football fan.' Vika makes this answer beside Kristina: opening with "kstati" ("by the way") lets Vika drop a new detail into the conversation as if it just crossed her mind.
+- 'And he roots for your football club.' Kristina follows up pointedly on the spot, letting the remark speak for itself.
+- 'She is joking.' Barinov centers one vivid choice on cue: "shutit" means "is joking", and it carries the main weight of what Barinov is saying.
+- 'I noticed.' Vika drops this line at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I know.' Kristina fires back firmly beside Vika, without trying to dress up how she really feels.
+- 'Enjoy your meal.' Barinov frames this sharp touch for Kristina: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
+- 'Good luck to you tomorrow.' Vika states that line around Kristina: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Chef, well, how did it go out there?' Kristina presses quietly whether Barinov really thought this through.
+- 'Nothing at all!' Barinov offers the reaction on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'How could you mix up Makeev with Malafeev?' Vika puts this line at once: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Mixing up Spartak with Zenit.' Kristina steps in briskly without holding back, shifting the whole mood of the room in a single beat.

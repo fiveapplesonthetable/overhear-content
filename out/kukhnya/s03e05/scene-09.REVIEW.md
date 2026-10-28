@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, I am burning, burning, burning!' Senya shows an easygoing bearing during the exchange, joining "goryu" ("am burning") to "oy" ("oh") so every word pulls its weight.
-- 'Guys, help me, help!' Senya sets a serious note for Lyova, building the phrase around "rebyata" ("the boys, the lads") and "pomogite" ("help") for a crisp, natural delivery.
-- 'What is that hard thing you have there?' Lyova queries earnestly right away, putting "tvyordoye" ("hard, firm") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'That is none of your business at all.' Senya shares a serious posture for Lyova, combining "sovsem" ("at all") and "delo" ("matter") so the key meaning lands right away.
-- 'Come on, stand right here quickly.' Lyova brings an easygoing course in their talk, putting "bystro" ("quickly") alongside "stoy" ("stop, wait") in a tight, everyday turn of phrase.
-- 'What else is this that you have?' Lyova questions earnestly at this point, leaning on "yeshchyo" ("more, still") before closing the thought with "eto" ("this").
-- 'Lyova, this is not mine at all.' Senya keeps a direct line at this moment, putting "voobshche" ("at all") alongside "lyova" ("Lyova") in a tight, everyday turn of phrase.
-- 'Really, this is not yours at all?' Lyova probes directly to Senya here, combining "pravda" ("honestly") and "sovsem" ("at all") so the key meaning lands right away.
-- 'No, of course, this is not mine.' Senya keeps a thoughtful tone across the room, combining "konechno" ("of course") and "net" ("no") so the key meaning lands right away.
-- 'Well yes, of course, as if I believed that.' Lyova presents a measured style in the scene, building the phrase around "konechno" ("of course") and "poveril" ("to believe") for a crisp, natural delivery.
-- 'I will search you personally.' Lyova shares an emphatic line beside Senya, anchoring the Russian line on "budu" ("will be") and "personalno" ("personally") without extra filler.
-- 'At the end of every working day.' Lyova chooses a grounded manner for Senya, combining "kontse" ("end") and "kazhdogo" ("everyone") so the key meaning lands right away.
+- 'Oh, I am burning, burning, burning!' Senya steps in sharply across the room, keeping the focus on what actually matters here.
+- 'Guys, help me, help!' Senya picks one key piece right here: "rebyata" means "the boys, the lads", and it carries the main weight of what Senya is saying.
+- 'What is that hard thing you have there?' Lyova gives the thought to Senya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'That is none of your business at all.' Senya opens up lightly with a sigh, refusing to let the moment slip past.
+- 'Come on, stand right here quickly.' Lyova reaches for this clear term with Senya: "bystro" means "quickly", and it carries the main weight of what Lyova is saying.
+- 'What else is this that you have?' Lyova drops the thought at once: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Lyova, this is not mine at all.' Senya counters pointedly with a shrug, letting the remark speak for itself.
+- 'Really, this is not yours at all?' Lyova uses this key word on cue: "pravda" means "honestly", and it carries the main weight of what Lyova is saying.
+- 'No, of course, this is not mine.' Senya brings that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well yes, of course, as if I believed that.' Lyova follows up briskly as things stand, bringing things back to earth after the buildup.
+- 'I will search you personally.' Lyova features one colorful detail in earnest: "personalno" means "personally", and it carries the main weight of what Lyova is saying.
+- 'At the end of every working day.' Lyova responds at once without any doubt, making his position completely clear.

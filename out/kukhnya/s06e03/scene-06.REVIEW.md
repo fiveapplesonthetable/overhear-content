@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I bought this exact mattress for my daughter and her husband.' Kostya displays a direct view without hesitation, pairing "matras" ("mattress") with "kupil" ("bought") so the "-sya" ending carries the action.
-- 'And I also bought them the apartment and the furniture.' Kostya maintains a calm mood in the scene, anchoring the Russian line on "takzhe" ("also") and "kupil" ("bought") without extra filler.
-- 'I bought them everything, and it is all mine!' Kostya offers a lively attitude as the scene unfolds, joining "kupil" ("bought") to "ya" ("I") so every word pulls its weight.
-- 'And we have the sunny side.' Kostya brings a frank angle in the conversation, anchoring the Russian line on "solnechnaya" ("sunny") and "storona" ("side") without extra filler.
-- 'There are air conditioners here, but do you know how the meter will spin?' Kostya challenges warmly right away, joining "tut" ("here") to "konditsionery" ("air conditioners") so every word pulls its weight.
-- 'On the bright side, you have a day off today, Vitya.' Eleonora brings a resolute manner in this beat, anchoring the Russian line on "segodnya" ("today") and "vykhodnoy" ("a day off") without extra filler.
-- 'And what good is it to me?' Barinov inquires pointedly without holding back, building the phrase around "zachem" ("what for") and "sdalsya" ("to surrender") for a crisp, natural delivery.
-- 'Eleonora demands a report on the auteur cuisine.' Barinov maintains a direct bearing as they talk, anchoring the Russian line on "trebuyet" ("demands") and "otchet" ("report, account") without extra filler.
-- 'If there is no profit, she will shut everything down.' Barinov strikes a firm attitude with Eleonora, using "budet" (from "byt", "will be") alongside "pribyli" ("profit") to shape the meaning.
-- 'And I will never see a star.' Barinov sustains an unhurried stance straight away, putting "vidat" ("to see") alongside "zvezdy" ("stars") in a tight, everyday turn of phrase.
-- 'Listen, I have something to talk to you about.' Eleonora picks a playful rhythm in the scene, building the phrase around "slushay" ("listen") and "razgovor" ("conversation") for a crisp, natural delivery.
-- 'Let's talk face to face.' Eleonora takes a direct mood in this beat, weaving "davay" ("let's") together with "pogovorim" ("we'll have a talk") just the way native speakers do.
+- 'I bought this exact mattress for my daughter and her husband.' Kostya pushes back at once as things stand, without trying to dress up how he really feels.
+- 'And I also bought them the apartment and the furniture.' Kostya features one key detail toward Eleonora: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'I bought them everything, and it is all mine!' Kostya weighs in briskly with a sigh, keeping the focus on what actually matters here.
+- 'And we have the sunny side.' Kostya continues promptly hearing Eleonora, leaving no doubt about where he stands.
+- 'There are air conditioners here, but do you know how the meter will spin?' Kostya leans on one pointed choice toward Barinov: "konditsionery" means "air conditioners" (from "konditsioner"), giving the line its exact edge.
+- 'On the bright side, you have a day off today, Vitya.' Eleonora puts that point plainly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'And what good is it to me?' Barinov tests plainly why things suddenly took this turn between them.
+- 'Eleonora demands a report on the auteur cuisine.' Barinov features this telling expression at once: "avtorskoy" means "auteur, signature" (from "avtorskiy"), giving the line its exact edge.
+- 'If there is no profit, she will shut everything down.' Barinov replies at once as they talk, watching Eleonora's face to see how the news lands.
+- 'And I will never see a star.' Barinov stands firm warmly on the spot, making his position completely clear.
+- 'Listen, I have something to talk to you about.' Eleonora anchors this sharp choice in earnest: "razgovor" means "conversation", and it carries the main weight of what Eleonora is saying.
+- 'Let's talk face to face.' Eleonora sends that point plainly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

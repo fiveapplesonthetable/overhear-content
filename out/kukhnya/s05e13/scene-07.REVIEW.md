@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, do you need some help here?' Kostya tests naturally without a pause, building the phrase around "tut" ("here") and "nuzhno" ("necessary") for a crisp, natural delivery.
-- 'Wait, what are you hitting me for?' Kostya asks bluntly for Lyova's benefit, anchoring the Russian line on "postoy" ("wait") and "byosh" ("to beat, to hit") without extra filler.
-- 'Sorry, Kostya, but Gulya works here.' Lyova chooses a firm style beside Ainura, anchoring the Russian line on "prosti" ("sorry, forgive me") and "zdes" ("here") without extra filler.
-- 'You never know what might happen.' Lyova presents a firm angle as they talk, pairing "sluchitsya" ("to happen") with "malo" ("little, not enough") so the "-sya" ending carries the action.
-- 'Thank you for your help, Lyova.' Ainura favors a brisk view in their talk, building the phrase around "spasibo" ("thank you") and "pomoshch" ("help") for a crisp, natural delivery.
-- 'I will not tell anyone about this.' Ainura chooses an earnest manner across the room, putting "rasskazhu" ("will tell") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'Lyova, we have bad news!' Ainura takes a thoughtful tack in the conversation, putting "plokhiye" ("bad") alongside "novosti" ("the news") in a tight, everyday turn of phrase.
-- 'People have suddenly started disappearing in the kitchen.' Ainura takes a firm style during the exchange, joining "kukhne" ("kitchen") to "lyudi" ("people") so every word pulls its weight.
-- 'I think I need to take Gulya away.' Ainura strikes a wry rhythm as they talk, building the phrase around "dumayu" ("I think") and "nado" ("it is necessary") for a crisp, natural delivery.
-- 'It is time for us to return back home.' Ainura establishes a firm stance beside Lyova, anchoring the Russian line on "pora" ("it's time") and "nazad" ("ago") without extra filler.
-- 'Who gives driver's licenses to these drivers?' Lyova queries decisively as they speak, linking "voditelyam" ("driver"), "prava" ("right, correct"), and "dayot" ("gives, yields") in one brisk exchange.
-- 'Gulya must stay here with me.' Lyova keeps a sharp attitude in front of Kostya, pairing "dolzhna" ("should, must") with "ostatsya" ("to remain, to be left") to get the point across in plain spoken Russian.
+- 'Lyova, do you need some help here?' Kostya underscores one loaded term right here: "nuzhno" means "necessary", and it carries the main weight of what Kostya is saying.
+- 'Wait, what are you hitting me for?' Kostya delivers that thought at once: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'Sorry, Kostya, but Gulya works here.' Lyova responds quietly beside Ainura, bringing things back to earth after the buildup.
+- 'You never know what might happen.' Lyova anchors one classic detail in earnest: "sluchitsya" means "to happen", and it carries the main weight of what Lyova is saying.
+- 'Thank you for your help, Lyova.' Ainura shares the reply with warmth: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'I will not tell anyone about this.' Ainura responds decisively without holding back, to clear the air between them once and for all.
+- 'Lyova, we have bad news!' Listen to how Ainura answers Kostya at once — the Russian word "plokhiye" ("bad", built from "plokhoy") does the heavy lifting.
+- 'People have suddenly started disappearing in the kitchen.' Ainura speaks boldly on the spot, refusing to let the moment slip past.
+- 'I think I need to take Gulya away.' Ainura replies boldly to be clear, without trying to dress up how she really feels.
+- 'It is time for us to return back home.' Ainura reaches for one sharp detail with Lyova: "vernutsya" means "to return", and it carries the main weight of what Ainura is saying.
+- 'Who gives driver's licenses to these drivers?' Lyova sends the thought without fuss: putting the question word "kto" right at the front of the line lets Ainura hear the point of the question on the very first beat.
+- 'Gulya must stay here with me.' Lyova counters dryly to be clear, saying out loud what both of them already know.

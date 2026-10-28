@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, tell me, what happened again?' Vika asks openly in front of Max, leaning on "skazhi" ("say") before closing the thought with "opyat" ("again").
-- 'Listen, Vika, just do not get too angry.' Max projects a warm line during the exchange, linking "slushay" ("listen"), "tolko" ("only"), and "silno" ("strongly, much") in one brisk exchange.
-- 'Do you remember how we made up last night?' Max inquires wryly without holding back, pairing "pomnish" ("do you remember") with "kak" ("how") to get the point across in plain spoken Russian.
-- 'You and I drank tasty wine back then.' Max takes a frank tone on the spot, combining "togda" ("back then") and "pili" ("to drink") so the key meaning lands right away.
-- 'Well then, I took it from the bar.' Max conveys a warm rhythm without hesitation, joining "vzyal" ("took") to "bara" ("of the bar") so every word pulls its weight.
-- 'And it suddenly turned out to be very expensive.' Max favors a steady view without hesitation, joining "vdrug" ("suddenly, what if") to "okazalos" ("turned out") so every word pulls its weight.
-- 'And just how much does this bottle of wine cost?' Vika inquires sharply without holding back, building the phrase around "skolko" ("how much, so much") and "stoit" ("is parked") for a crisp, natural delivery.
-- 'It costs a whole five thousand dollars.' Max holds a warm direction with Vika, using "stoit" (from "stoyat", "is parked") alongside "tselykh" ("whole, entire") to shape the meaning.
-- 'Vika, do not worry, I will solve everything.' Max maintains a playful rhythm at once, linking "volnuysya" ("worry"), "reshu" ("I'll solve"), and "vika" ("Vika") in one brisk exchange.
-- 'I know well how this usually ends.' Vika holds a resolute bearing without hesitation, linking "khorosho" ("good, fine"), "znayu" ("know"), and "obychno" ("usually") in one brisk exchange.
-- 'I have to clean up your problems myself afterwards!' Vika strikes a frank stance for Max, linking "potom" ("then"), "prikhoditsya" ("to have to"), and "razgrebat" ("to afterwards") in one brisk exchange.
-- 'Stop lecturing me, I will fix everything myself!' Max keeps a pointed style in the scene, combining "khvatit" ("enough") and "otchityvat" ("to fix") so the key meaning lands right away.
+- 'Max, tell me, what happened again?' Vika quizzes bluntly why things suddenly took this turn between them.
+- 'Listen, Vika, just do not get too angry.' Max favors one familiar detail in reply: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
+- 'Do you remember how we made up last night?' Max states this statement frankly here: the "-sya" ending on "pomirilis" ("reconciled") turns the action inward or makes it happen between people naturally.
+- 'You and I drank tasty wine back then.' Max speaks steadily as they talk, without trying to dress up how he really feels.
+- 'Well then, I took it from the bar.' Max stresses one key choice for Vika: "bara" means "of the bar", and it carries the main weight of what Max is saying.
+- 'And it suddenly turned out to be very expensive.' Max speaks up plainly without holding back, keeping the focus on what actually matters here.
+- 'And just how much does this bottle of wine cost?' Vika checks evenly before Max can change the subject.
+- 'It costs a whole five thousand dollars.' Max focuses on one memorable detail toward Vika: "dollarov" means "dollars" (from "dollar"), giving the line its exact edge.
+- 'Vika, do not worry, I will solve everything.' Max makes that reply right away: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
+- 'I know well how this usually ends.' Vika proceeds boldly in their talk, steering the talk right where she wants it.
+- 'I have to clean up your problems myself afterwards!' Vika leans on one direct piece at once: "prikhoditsya" means "to have to", and it carries the main weight of what Vika is saying.
+- 'Stop lecturing me, I will fix everything myself!' Max counters evenly without holding back, making his position completely clear.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, the main thing is, just do not get upset.' Katya keeps a calm stance across the room, linking "tolko" ("only"), "glavnoye" ("important"), and "rasstraivaysya" ("be upset, worry") in one brisk exchange.
-- 'Because of my sore arm I could not play.' Denis brings a calm rhythm in this beat, anchoring the Russian line on "bolnoy" ("crazy") and "ruki" ("hands") without extra filler.
-- 'Your mom fired him and me along with him.' Gulya sustains a natural angle without hesitation, putting "mama" ("mum, mother") alongside "uvolila" ("fired") in a tight, everyday turn of phrase.
-- 'Wait, I will definitely talk to her.' Katya chooses an easygoing tone in the room, combining "podozhdite" ("wait") and "obyazatelno" ("surely, without fail") so the key meaning lands right away.
-- 'Gulya, stop being offended over nonsense already.' Denis displays a thoughtful angle during the exchange, putting "khvatit" ("enough") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'Mom suddenly has a young unmarried friend.' Gulya shows a natural stance beside Katya, pairing "mamy" ("mum, mother") with "vdrug" ("suddenly, what if") to get the point across in plain spoken Russian.
-- 'Larisa just moved to Moscow very recently.' Denis holds a wry tack in the room, combining the softening word "prosto" ("simply, just") with "sovsem" ("at all") to give the line its natural spoken rhythm.
-- 'You do not understand, mom is purposefully setting you up.' Gulya takes a warm style in this beat, linking "ponimayesh" ("do you understand"), "mama" ("mum, mother"), and "spetsialno" ("on purpose") in one brisk exchange.
-- 'Sveta, do not be upset, Katya will talk to her mom.' Denis strikes a thoughtful position in their talk, combining "sveta" ("electricity") and "rasstraivaysya" ("be upset, worry") so the key meaning lands right away.
-- 'That means we are definitely fired, there is nothing left to lose.' Gulya favors an unhurried posture without hesitation, pairing "znachit" ("then, so") with "tochno" ("definitely") to get the point across in plain spoken Russian.
-- 'Everything is clearly recorded on my dashcam.' Gulya shows an easygoing rhythm in the conversation, linking "chyotko" ("clearly") directly with "zapisano" ("recorded"), since Russian drops "is" and "are" in the present.
-- 'Listen, but we drove away from there.' Denis holds a thoughtful tack toward Katya, using "slushay" (from "slushat", "listen") alongside "uyekhali" ("drove off, left by car") to shape the meaning.
-- 'My own brother works in the police!' Gulya jumps in wryly in front of Denis, using the everyday "u menya" ("by me") alongside "rodnoy" ("dear friend") to show what belongs to the speaker.
+- 'Denis, the main thing is, just do not get upset.' Katya stresses one key piece at once: "rasstraivaysya" means "be upset, worry" (from "rasstraivatsya"), giving the line its exact edge.
+- 'Because of my sore arm I could not play.' Denis continues promptly in their talk, bringing things back to earth after the buildup.
+- 'Your mom fired him and me along with him.' Gulya stands firm decisively with a smile, before Denis can change the subject.
+- 'Wait, I will definitely talk to her.' Katya chooses one pointed piece on cue: "obyazatelno" means "surely, without fail", and it carries the main weight of what Katya is saying.
+- 'Gulya, stop being offended over nonsense already.' Denis aims this update with ease: the "-sya" ending on "obizhatsya" ("feel offended") turns the action inward or makes it happen between people naturally.
+- 'Mom suddenly has a young unmarried friend.' Gulya steps in firmly with a smile, letting the remark speak for itself.
+- 'Larisa just moved to Moscow very recently.' Denis points to one familiar expression in earnest: "pereyekhala" means "moved" (from "pereyekhat"), giving the line its exact edge.
+- 'You do not understand, mom is purposefully setting you up.' Gulya picks one direct touch at once: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
+- 'Sveta, do not be upset, Katya will talk to her mom.' Denis replies decisively as they talk, letting the remark speak for itself.
+- 'That means we are definitely fired, there is nothing left to lose.' Gulya underscores this direct choice with Katya: "znachit" means "then, so", and it carries the main weight of what Gulya is saying.
+- 'Everything is clearly recorded on my dashcam.' Gulya gives this point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Listen, but we drove away from there.' Denis proceeds openly with a smile, bringing things back to earth after the buildup.
+- 'My own brother works in the police!' Gulya grounds one clear detail on cue: "politsii" means "the police" (from "politsiya"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, Kostya, open your eyes, you can look!' Nastya sustains a candid note in the conversation, building the phrase around "otkryvay" ("to open") and "glaza" ("eyes") for a crisp, natural delivery.
-- 'Here, look, I bought the car from Eva!' Nastya presents a steady tack without hesitation, putting "smotri" ("look") alongside "kupila" ("bought") in a tight, everyday turn of phrase.
-- 'Wait, Nastya, why did you buy it?' Max asks calmly as the talk turns, building the phrase around "podozhdi" ("wait") and "zachem" ("what for") for a crisp, natural delivery.
-- 'What do you mean why, we are having a baby soon, we cannot manage without a car!' Nastya strikes a frank posture toward Max, building the phrase around "kak" ("how") and "zachem" ("what for") for a crisp, natural delivery.
-- 'Kostya, are you not happy about the purchase at all?' Nastya questions boldly to Kostya here, leaning on "sovsem" ("at all") before closing the thought with "rad" ("glad").
-- 'I am very happy, congratulations on the acquisition!' Max sets a serious footing across the room, putting "ochen" ("very much") alongside "rad" ("glad") in a tight, everyday turn of phrase.
-- 'Would you like us to drive you home today?' Nastya questions naturally for Kostya's benefit, using "khotite" (from "khotet", "want") alongside "segodnya" ("today") to shape the meaning.
-- 'No, thank you, then you would have to drive a whole three meters.' Max takes a calm mood in this beat, weaving "spasibo" ("thank you") together with "togda" ("back then") just the way native speakers do.
-- 'Attention everyone in the kitchen, the inspector is coming!' Max projects a pointed course at this moment, joining "vnimaniye" ("attention") to "kukhne" ("kitchen") so every word pulls its weight.
-- 'I do not doubt it, only let's make sure everything is fair.' Kostya adopts an emphatic angle in front of Nastya, combining "somnevayus" ("doubt") and "tolko" ("only") so the key meaning lands right away.
-- 'Have all your cooks step out of the kitchen right now!' Kostya brings an honest rhythm without hesitation, putting "seychas" ("now") alongside "povara" ("cook") in a tight, everyday turn of phrase.
-- 'There are almost no guests in the hall, let them leave the kitchen!' Kostya establishes a clear tempo for Nastya, combining "naroda" ("of the people") and "zale" ("hall") so the key meaning lands right away.
+- 'Alright, Kostya, open your eyes, you can look!' Nastya stands firm pointedly to settle things, bringing things back to earth after the buildup.
+- 'Here, look, I bought the car from Eva!' Nastya follows up frankly across the room, grounding the moment in plain reality.
+- 'Wait, Nastya, why did you buy it?' Max favors one key element for Kostya: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'What do you mean why, we are having a baby soon, we cannot manage without a car!' Nastya puts this update for Max: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Kostya, are you not happy about the purchase at all?' Nastya prompts frankly while looking straight at Kostya here.
+- 'I am very happy, congratulations on the acquisition!' Max favors one colorful term right here: "priobreteniyem" means "with the purchase" (from "priobreteniye"), giving the line its exact edge.
+- 'Would you like us to drive you home today?' Nastya states this warning calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'No, thank you, then you would have to drive a whole three meters.' Max speaks right away during the talk, testing Nastya's reaction in the middle of the exchange.
+- 'Attention everyone in the kitchen, the inspector is coming!' Max underscores one telling expression for Kostya: "vnimaniye" means "attention", and it carries the main weight of what Max is saying.
+- 'I do not doubt it, only let's make sure everything is fair.' Kostya offers the reaction around Nastya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Have all your cooks step out of the kitchen right now!' Kostya continues calmly with a smile, grounding the moment in plain reality.
+- 'There are almost no guests in the hall, let them leave the kitchen!' Kostya chooses this vivid touch on cue: "naroda" means "of the people" (from "narod"), giving the line its exact edge.

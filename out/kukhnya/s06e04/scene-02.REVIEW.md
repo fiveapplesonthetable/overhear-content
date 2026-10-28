@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seemed to me that you winked at me.' The guest chooses an easygoing footing in front of Eleonora, using "pokazalos" (from "pokazatsya", "seemed") alongside "podmignuli" ("wink") to shape the meaning.
-- 'No, you imagined it.' Katya sets a thoughtful line in front of the guest, leaning on "pokazalos" ("seemed") before closing the thought with "net" ("no").
-- 'So many years have passed, and you still use that line!' Katya sets a warm course as the scene unfolds, anchoring the Russian line on "stolko" ("so many") and "let" ("years") without extra filler.
-- 'Katya, how long has it been since we saw each other?' The guest wonders decisively to Katya here, weaving "skolko" ("how much, so much") together with "videlis" ("have seen each other") just the way native speakers do.
-- 'We have not seen each other since they expelled me.' Katya takes an honest note in the room, combining "videlis" ("have seen each other") and "por" ("time") so the key meaning lands right away.
-- 'And what are you doing here?' Katya presses bluntly in their exchange, putting "zdes" ("here") alongside "delayesh" ("are you doing") in a tight, everyday turn of phrase.
-- 'It is a small business trip, and how about you?' The guest tests warmly in the scene, putting "nebolshoy" ("small, modest") alongside "biznes" ("business") in a tight, everyday turn of phrase.
-- 'I am doing great working here in the restaurant.' Katya establishes a clear note as they talk, linking "otlichno" ("perfect, great"), "rabotayu" ("work"), and "zdes" ("here") in one brisk exchange.
-- 'Do you remember our old professor?' The guest probes dryly from the start, putting "pomnish" ("do you remember") alongside "starogo" ("old") in a tight, everyday turn of phrase.
-- 'When he fell asleep in class, I studied a month longer than you.' The guest brings a frank manner for Katya, pairing "prouchilsya" ("studied") with "kogda" ("when") so the "-sya" ending carries the action.
-- 'And who is that, Katya?' Eleonora asks pointedly without a pause, anchoring the Russian line on "kto" ("who") and "eto" ("this") without extra filler.
-- 'That is Olivier, he and I studied together in Paris at the culinary academy.' Katya keeps a measured manner as the scene unfolds, anchoring the Russian line on "uchilis" ("studied") and "kulinarnoy" ("culinary") without extra filler.
+- 'It seemed to me that you winked at me.' The guest emphasizes one classic expression in earnest: "podmignuli" means "wink" (from "podmignut"), giving the line its exact edge.
+- 'No, you imagined it.' Katya answers evenly on the spot, before the guest can change the subject.
+- 'So many years have passed, and you still use that line!' Katya spotlights one classic word at once: "polzuyeshsya" means "use" (from "polzovatsya"), giving the line its exact edge.
+- 'Katya, how long has it been since we saw each other?' The guest shapes that thought on cue: the "-sya" ending on "videlis" ("have seen each other") turns the action inward or makes it happen between people naturally.
+- 'We have not seen each other since they expelled me.' Katya speaks warmly with a nod, bringing things back to earth after the buildup.
+- 'And what are you doing here?' Katya favors one practical touch right here: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
+- 'It is a small business trip, and how about you?' The guest lays out that thought at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I am doing great working here in the restaurant.' Katya cuts in plainly before the guest, shifting the whole mood of the room in a single beat.
+- 'Do you remember our old professor?' The guest highlights one sharp touch toward Eleonora: "professora" means "professor" (from "professor"), giving the line its exact edge.
+- 'When he fell asleep in class, I studied a month longer than you.' The guest voices the comment frankly here: the "-sya" ending on "prouchilsya" ("studied") turns the action inward or makes it happen between people naturally.
+- 'And who is that, Katya?' Eleonora checks straight out in front of the guest without any preamble.
+- 'That is Olivier, he and I studied together in Paris at the culinary academy.' Katya underscores one pointed expression toward the guest: "kulinarnoy" means "culinary" (from "kulinarnyy"), giving the line its exact edge.

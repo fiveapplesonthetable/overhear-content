@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And I have a surprise for you!' Nastya shows a pointed posture on the spot, putting "syurpriz" ("surprise") alongside "menya" ("me") in a tight, everyday turn of phrase.
-- 'Could it be that our guest finally moved out?' Kostya asks steadily beside Nastya, anchoring the Russian line on "gost" ("guest") and "nakonets" ("at last, finally") without extra filler.
-- 'No, you did not guess right at all.' Nastya brings a wry view at once, pairing "sovsem" ("at all") with "ugadal" ("to guess correctly") to get the point across in plain spoken Russian.
-- 'Tell me, is everything ready in the room already?' Nastya prompts bluntly in the room, leaning on "skazhite" ("tell") before closing the thought with "komnate" ("room").
-- 'Yes, everything is ready, come on in!' The guest displays an easygoing mood without hesitation, combining "gotovo" ("ready") and "zakhodite" ("come in") so the key meaning lands right away.
-- 'This is all his excellent work.' Nastya keeps a wry style in the room, joining "otlichnaya" ("excellent") to "rabota" ("job") so every word pulls its weight.
-- 'It is big, just like you wanted.' Nastya offers an easygoing position during the exchange, putting "bolshoy" ("big") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'Only I wanted to buy my own television.' Kostya favors a steady position in the conversation, building the phrase around "tolko" ("only") and "khotel" ("wanted") for a crisp, natural delivery.
-- 'And I do not want anything at all from him!' Kostya brings a firm course right away, putting "nado" ("it is necessary") alongside "ot" ("from") in a tight, everyday turn of phrase.
-- 'I do not get it, where did you get the money?' Kostya challenges bluntly to keep things clear, combining "ponyal" ("understood") and "gde" ("where") so the key meaning lands right away.
-- 'They were stolen from you on the metro!' Kostya conveys a grounded position toward the guest, building the phrase around "ukrali" ("stole") and "metro" ("metro") for a crisp, natural delivery.
-- 'Or did they not steal all your money?' Kostya queries briskly in this moment, combining "dengi" ("money") and "ukrali" ("stole") so the key meaning lands right away.
+- 'And I have a surprise for you!' Nastya frames one colorful word toward the guest: "syurpriz" means "surprise", and it carries the main weight of what Nastya is saying.
+- 'Could it be that our guest finally moved out?' Kostya delivers the comeback with ease: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
+- 'No, you did not guess right at all.' Nastya continues calmly hearing the guest, refusing to let the moment slip past.
+- 'Tell me, is everything ready in the room already?' Nastya highlights this telling expression right here: "komnate" means "room" (from "komnata"), giving the line its exact edge.
+- 'Yes, everything is ready, come on in!' The guest pushes back right away with Kostya, refusing to let the moment slip past.
+- 'This is all his excellent work.' Nastya counters frankly hearing Kostya, grounding the moment in plain reality.
+- 'It is big, just like you wanted.' Nastya focuses on one practical element with the guest: "bolshoy" means "big", and it carries the main weight of what Nastya is saying.
+- 'Only I wanted to buy my own television.' Kostya speaks up warmly with a nod, testing Nastya's reaction in the middle of the exchange.
+- 'And I do not want anything at all from him!' Kostya continues at once around the guest, grounding the moment in plain reality.
+- 'I do not get it, where did you get the money?' Kostya chooses one practical piece on cue: "dengi" means "money", and it carries the main weight of what Kostya is saying.
+- 'They were stolen from you on the metro!' Kostya frames that thought right away: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Or did they not steal all your money?' Kostya quizzes firmly to see how Nastya will answer on the spot.

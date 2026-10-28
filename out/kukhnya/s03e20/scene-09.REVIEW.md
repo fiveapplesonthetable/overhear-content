@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, you and I really were in a relationship.' Vika takes a candid tempo in their talk, weaving "deystvitelno" ("really, indeed") together with "byli" ("be") just the way native speakers do.
-- 'And perhaps I even loved you very much back then.' Vika presents a natural bearing across the room, joining "vozmozhno" ("perhaps, possible") to "togda" ("back then") so every word pulls its weight.
-- 'I loved you until one day you cheated on me.' Vika sustains a lively tack as the scene unfolds, using "lyubila" (from "lyubit", "loved") alongside "poka" ("bye") to shape the meaning.
-- 'Yeah, that old Max was a real fool.' Vika maintains an unhurried style as the scene unfolds, pairing "prezhniy" ("former, previous") with "byl" ("was") to get the point across in plain spoken Russian.
-- 'How does it always work out so easily for you?' Vika tests candidly on the spot, building the phrase around "kak" ("how") and "vsegda" ("always") for a crisp, natural delivery.
-- 'You know how to turn everything in the world to your advantage.' Vika holds an earnest position as the scene unfolds, weaving "svete" ("world") together with "umeyesh" ("know how to") just the way native speakers do.
-- 'You just bumped your head like that and immediately forgot everything!' Vika brings an emphatic direction in front of Max, using "stuknulsya" (from "stuknutsya", "hit, bumped") alongside "golovoy" ("with one's head") to shape the meaning.
-- 'And maybe it is a good thing that I forgot everything?' Max asks decisively as the beat lands, pairing "mozhet" ("can") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
-- 'Maybe now we will be able to start everything from the beginning?' Max inquires dryly in front of Vika, putting "mozhet" ("can") alongside "teper" ("now") in a tight, everyday turn of phrase.
-- 'There is one small problem here: I did not hit my head.' Vika chooses a serious stance during the exchange, combining "tut" ("here") and "yest" ("there is") so the key meaning lands right away.
-- 'Alright, I will leave, it was a bad idea to stay at your place.' Max projects a steady view in this beat, combining "poydu" ("go") and "byla" ("was") so the key meaning lands right away.
-- 'Wait, what is wrong with you? Does your head hurt badly again?' Vika probes bluntly in their exchange, anchoring the Russian line on "podozhdi" ("wait") and "opyat" ("again") without extra filler.
+- 'Yes, you and I really were in a relationship.' Vika speaks steadily in this moment, saying out loud what both of them already know.
+- 'And perhaps I even loved you very much back then.' Vika anchors one practical word right here: "vozmozhno" means "perhaps, possible", and it carries the main weight of what Vika is saying.
+- 'I loved you until one day you cheated on me.' Vika grounds this sharp detail for Max: "odnazhdy" means "once, one day", and it carries the main weight of what Vika is saying.
+- 'Yeah, that old Max was a real fool.' Vika chimes in dryly without any doubt, watching Max's face to see how the news lands.
+- 'How does it always work out so easily for you?' Vika anchors one sharp detail for Max: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
+- 'You know how to turn everything in the world to your advantage.' Vika points to this sharp word on cue: "umeyesh" means "know how to" (from "umet"), giving the line its exact edge.
+- 'You just bumped your head like that and immediately forgot everything!' Vika continues honestly with Max, steering the talk right where she wants it.
+- 'And maybe it is a good thing that I forgot everything?' Max spotlights one classic element in earnest: "khorosho" means "good, fine", and it carries the main weight of what Max is saying.
+- 'Maybe now we will be able to start everything from the beginning?' Max gives the thought on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'There is one small problem here: I did not hit my head.' Vika responds steadily as things stand, testing Max's reaction in the middle of the exchange.
+- 'Alright, I will leave, it was a bad idea to stay at your place.' Max underscores one sharp choice for Vika: "plokhaya" means "bad" (from "plokhoy"), giving the line its exact edge.
+- 'Wait, what is wrong with you? Does your head hurt badly again?' Vika hands over the comment at once: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.

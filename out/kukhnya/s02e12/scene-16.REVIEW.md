@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, where were you?' Max wonders earnestly toward Barinov here, pairing "gde" ("where") with "byl" ("was") to get the point across in plain spoken Russian.
-- 'And where were the rest of you?' Barinov wonders bluntly as the talk turns, anchoring the Russian line on "gde" ("where") and "byli" ("be") without extra filler.
-- 'My stomach really started hurting.' Vika projects a direct direction in the scene, anchoring the Russian line on "realno" ("really possible") and "zhivot" ("belly") without extra filler.
-- 'Yeah, right, and his fingers are really missing.' Max sustains a clear direction right away, putting "realno" ("really possible") alongside "paltsev" ("finger, toe") in a tight, everyday turn of phrase.
-- 'Here is how it is going to be.' Barinov brings a warm footing with Max, placing "znachit" ("then, so") straight beside "tak" ("so") with no word for "to be" needed.
-- 'You now have a new sous-chef.' Vika displays an unhurried attitude with Max, leaning on "teper" ("now") before closing the thought with "novyy" ("new").
-- 'What is your patronymic?' Max presses decisively on the spot, combining "kak" ("how") and "otchestvu" ("patronymic") so the key meaning lands right away.
-- 'Is that clear to everyone?' Barinov tests wryly in the scene, combining "ponyatno" ("clear") and "vsem" ("everyone") so the key meaning lands right away.
-- 'I do not know about this.' Vika takes a sharp note in the room, building the phrase around "znayu" ("know") and "ya" ("I") for a crisp, natural delivery.
-- 'Come on, do not sweat it, you will figure it out as you go.' Max establishes a frank view as the scene unfolds, linking "parsya" ("to steam oneself in a bathhouse"), "khodu" ("course, progress"), and "razberyoshsya" ("to sort out") in one brisk exchange.
-- 'Besides, orders from management are not up for discussion.' Barinov sets a clear footing during the exchange, leaning on "voobshche" ("at all") before closing the thought with "prikazy" ("orders").
-- 'And we will celebrate your promotion right away.' Vika adopts a thoughtful line at once, linking "srazu" ("at once"), "povysheniye" ("raise"), and "otmetim" ("to celebrate") in one brisk exchange.
-- 'I am inviting all of you.' Max chooses a clear mood at this moment, putting "priglashayu" ("invite") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'Lyova, where were you?' Max directs that line at once: putting the question word "gde" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'And where were the rest of you?' Barinov puts this point facing Vika: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'My stomach really started hurting.' Vika jumps in warmly during the talk, leaving no doubt about where she stands.
+- 'Yeah, right, and his fingers are really missing.' Max grounds this key word in reply: "paltsev" means "finger, toe" (from "palets"), giving the line its exact edge.
+- 'Here is how it is going to be.' Barinov voices this answer plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You now have a new sous-chef.' Vika pushes back calmly during the talk, grounding the moment in plain reality.
+- 'What is your patronymic?' Max chooses this direct detail right here: "otchestvu" means "patronymic" (from "otchestvo"), giving the line its exact edge.
+- 'Is that clear to everyone?' Barinov shares this statement frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I do not know about this.' Vika speaks briskly to settle things, watching Barinov's face to see how the news lands.
+- 'Come on, do not sweat it, you will figure it out as you go.' Max emphasizes one direct choice in reply: "razberyoshsya" means "to sort out" (from "razobratsya"), giving the line its exact edge.
+- 'Besides, orders from management are not up for discussion.' Barinov makes this line without fuss: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'And we will celebrate your promotion right away.' Vika reacts sharply as they talk, steering the talk right where she wants it.
+- 'I am inviting all of you.' Max chooses this telling expression toward Barinov: "priglashayu" means "invite" (from "priglashat"), giving the line its exact edge.

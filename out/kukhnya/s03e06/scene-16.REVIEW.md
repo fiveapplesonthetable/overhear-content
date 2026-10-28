@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, outside there is a heavy downpour with wind.' Max shows a frank position straight away, building the phrase around "ulitse" ("street") and "silnyy" ("the strong") for a crisp, natural delivery.
-- 'The guests are all wet, they are unhappy, what should we do?' Max prompts frankly from the start, leaning on "gosti" ("visitors, guests") before closing the thought with "mokryye" ("wet").
-- 'Alas, there is nothing to be done here now.' Barinov sets a measured tone during the exchange, putting "tut" ("here") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'Tell Vika to move the banquet into the hall.' Barinov projects an easygoing mood as they talk, building the phrase around "skazhi" ("say") and "perenosit" ("moves, transfers") for a crisp, natural delivery.
-- 'Vitya, we cannot hold two banquets together.' Vika offers an emphatic stance in their talk, joining "mozhem" ("can") to "provesti" ("to spend, to lead") so every word pulls its weight.
-- 'Why is that, the guests got cold.' Barinov adopts a frank line in this beat, building the phrase around "yeshchyo" ("more, still") and "pochemu" ("why") for a crisp, natural delivery.
-- 'And what are we going to do now?' Vika prompts candidly in their exchange, anchoring the Russian line on "teper" ("now") and "delat" ("do") without extra filler.
-- 'Calmly, just without any panic.' Barinov picks an emphatic rhythm on the spot, anchoring the Russian line on "spokoyno" ("calmly") and "tolko" ("only") without extra filler.
-- 'Right now they will sit for a while and leave.' Barinov sustains a natural stance right away, joining "seychas" ("now") to "nemnogo" ("a bit") so every word pulls its weight.
-- 'My guests over there are asking for cheerful music.' Vika favors a resolute manner toward Max, pairing "tam" ("there") with "gosti" ("visitors, guests") to get the point across in plain spoken Russian.
-- 'No music can be turned on right now!' Barinov maintains a thoughtful mood in their talk, putting "muzyki" ("music") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Why are we forced to endure this outrage?' Vika quizzes decisively to keep things clear, linking "pochemu" ("why"), "vynuzhdeny" ("forced"), and "terpet" ("to hold on") in one brisk exchange.
-- 'Excuse us, right now we will fix everything quickly.' Vika sustains a grounded note with Barinov, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "seychas" ("now") to shape the meaning.
+- 'Chef, outside there is a heavy downpour with wind.' Max points to this telling detail in earnest: "ulitse" means "street" (from "ulitsa"), giving the line its exact edge.
+- 'The guests are all wet, they are unhappy, what should we do?' Max directs this point without fuss: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Alas, there is nothing to be done here now.' Barinov answers candidly to settle things, steering the talk right where he wants it.
+- 'Tell Vika to move the banquet into the hall.' Barinov sharpens one key term with Vika: "perenosit" means "moves, transfers", and it carries the main weight of what Barinov is saying.
+- 'Vitya, we cannot hold two banquets together.' Vika weighs in sharply with a sigh, keeping the focus on what actually matters here.
+- 'Why is that, the guests got cold.' Barinov reacts promptly during the talk, grounding the moment in plain reality.
+- 'And what are we going to do now?' Vika frames one memorable touch with Barinov: "teper" means "now", and it carries the main weight of what Vika is saying.
+- 'Calmly, just without any panic.' Barinov holds firm warmly to be clear, before Vika can change the subject.
+- 'Right now they will sit for a while and leave.' Barinov stands firm firmly watching Max, keeping the focus on what actually matters here.
+- 'My guests over there are asking for cheerful music.' Vika underscores one colorful choice for Max: "vesyoluyu" means "cheerful, merry" (from "vesyolyy"), giving the line its exact edge.
+- 'No music can be turned on right now!' Barinov gives this update at once: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'Why are we forced to endure this outrage?' Vika challenges evenly where this conversation is heading next.
+- 'Excuse us, right now we will fix everything quickly.' Vika grounds one familiar touch at once: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.

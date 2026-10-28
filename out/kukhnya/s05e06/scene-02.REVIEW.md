@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Olive oil, two bottles.' Barinov adopts a natural stance in this beat, putting "maslo" ("butter") alongside "olivkovoye" ("olive") in a tight, everyday turn of phrase.
-- 'Shrimp, one pack.' Barinov sets a thoughtful bearing at once, combining "krevetki" ("shrimp, prawns") and "pachka" ("pack") so the key meaning lands right away.
-- 'Oysters, five pieces, salt and pepper.' Barinov shares a measured position at this moment, pairing "perets" ("pepper") with "ustritsy" ("waste") so the "-sya" ending carries the action.
-- 'This is what you tried to steal this week.' Barinov shares a brisk mood as they talk, weaving "pytalsya" ("tried") together with "ukrast" ("to steal") just the way native speakers do.
-- 'Or maybe he has kleptomania?' Lyova queries boldly to Barinov here, pairing "mozhet" ("can") with "kleptomaniya" ("kleptomania") to get the point across in plain spoken Russian.
-- 'Maybe he needs to be treated?' Lyova wonders naturally as they speak, putting "mozhet" ("can") alongside "lechit" ("to lecture") in a tight, everyday turn of phrase.
-- 'For starters, I will fire him.' Barinov shows a warm tone without hesitation, building the phrase around "nachala" ("beginning") and "uvolyu" ("will fire") for a crisp, natural delivery.
-- 'And after that let him get treated.' Barinov conveys a thoughtful line in the conversation, joining "potom" ("then") to "lechitsya" ("is treated") so every word pulls its weight.
-- 'I will not do that anymore, I swear.' Senya chooses an earnest footing toward Barinov, pairing "klyanus" ("I swear") with "bolshe" ("more") so the "-sya" ending carries the action.
-- 'If you catch me one more time, fire me.' Senya strikes an honest approach on the spot, weaving "yeshchyo" ("more, still") together with "raz" ("time, once") just the way native speakers do.
-- 'Fine.' Barinov conveys an unhurried course in their talk, using "khorosho" ("good, fine") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Well, this time does not count, alright?' Senya presses firmly beside Lyova, joining "raz" ("time, once") to "schyot" ("counting, account") so every word pulls its weight.
+- 'Olive oil, two bottles.' Barinov sends the reply facing Lyova: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Shrimp, one pack.' Barinov answers evenly as they talk, saying out loud what both of them already know.
+- 'Oysters, five pieces, salt and pepper.' Barinov frames this sharp piece in earnest: "ustritsy" means "waste", and it carries the main weight of what Barinov is saying.
+- 'This is what you tried to steal this week.' Barinov colors one familiar touch on cue: "nedelyu" means "for a week" (from "nedelya"), giving the line its exact edge.
+- 'Or maybe he has kleptomania?' Lyova inquires frankly if there is more going on behind the scenes.
+- 'Maybe he needs to be treated?' Lyova features one pointed word in reply: "mozhet" means "can" (from "moch"), giving the line its exact edge.
+- 'For starters, I will fire him.' Barinov steps in briskly across the room, shifting the whole mood of the room in a single beat.
+- 'And after that let him get treated.' Barinov fires back earnestly as things stand, saying out loud what both of them already know.
+- 'I will not do that anymore, I swear.' Senya anchors this direct word in earnest: "klyanus" means "I swear" (from "klyastsya"), giving the line its exact edge.
+- 'If you catch me one more time, fire me.' Senya hands over this line toward Lyova: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Fine.' Barinov fires back sharply around Lyova, grounding the moment in plain reality.
+- 'Well, this time does not count, alright?' Senya grounds one classic piece in reply: "schyot" means "counting, account", and it carries the main weight of what Senya is saying.

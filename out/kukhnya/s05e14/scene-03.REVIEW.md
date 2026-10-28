@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, bring me a fresh little lemon slice.' Barinov displays an honest rhythm as the scene unfolds, putting "prinesi-ka" ("bring") alongside "svezhiy" ("fresh") in a tight, everyday turn of phrase.
-- 'I still have plenty of time right now.' Barinov picks a natural note with Senya, using the everyday "u menya" ("by me") alongside "vremeni" ("time") to show what belongs to the speaker.
-- 'Alright, Viktor Petrovich, I will bring it right now.' Senya offers a playful tone in the conversation, building the phrase around "khorosho" ("good, fine") and "seychas" ("now") for a crisp, natural delivery.
-- 'I propose a toast to the easiest victory!' Barinov projects a pointed bearing across the room, joining "predlagayu" ("suggest") to "tost" ("toast") so every word pulls its weight.
-- 'Wait, what kind of trick is this here?' Barinov wonders warmly on the spot, building the phrase around "podozhdi" ("wait") and "yeshchyo" ("more, still") for a crisp, natural delivery.
-- 'Vitya, do not touch my glasses with your hands, remember?' Mikhail checks lightly to make the point, linking "bokaly" ("glasses"), "rukami" ("hands"), and "trogat" ("to touch") in one brisk exchange.
-- 'Otherwise you immediately lost our bet!' Mikhail adopts an unhurried stance as the scene unfolds, joining "inache" ("otherwise") to "srazu" ("at once") so every word pulls its weight.
-- 'Then how am I supposed to get the shot glass?' Barinov presses candidly in the scene, putting "kak" ("how") alongside "togda" ("back then") in a tight, everyday turn of phrase.
-- 'In no way, Vitya, you cannot get it at all!' Mikhail conveys an honest line in their talk, pairing "nikak" ("in no way") with "sovsem" ("at all") to get the point across in plain spoken Russian.
-- 'You thought this up on purpose in advance!' Barinov strikes a brisk direction in the room, joining "spetsialno" ("on purpose") to "zaraneye" ("in advance") so every word pulls its weight.
-- 'A deal is a deal, hand the ticket over to me.' Mikhail keeps a frank rhythm at once, building the phrase around "ugovor" ("deal") and "dorozhe" ("dearer") for a crisp, natural delivery.
-- 'Fine, take it, but I will remember this!' Barinov chooses an honest tone in their talk, combining "zabiray" ("take, collect") and "zapomnyu" ("will remember") so the key meaning lands right away.
+- 'Senya, bring me a fresh little lemon slice.' Barinov pushes back warmly without holding back, making his position completely clear.
+- 'I still have plenty of time right now.' Barinov reaches for one classic word on cue: "vremeni" means "time" (from "vremya"), giving the line its exact edge.
+- 'Alright, Viktor Petrovich, I will bring it right now.' Senya delivers this line with candor: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'I propose a toast to the easiest victory!' Barinov jumps in sharply without any doubt, refusing to let the moment slip past.
+- 'Wait, what kind of trick is this here?' Barinov sharpens one loaded detail right here: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Vitya, do not touch my glasses with your hands, remember?' Mikhail makes that point facing Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'Otherwise you immediately lost our bet!' Mikhail reacts quietly toward Barinov, to clear the air between them once and for all.
+- 'Then how am I supposed to get the shot glass?' Barinov favors one vivid choice in reply: "ryumku" means "shot glass" (from "ryumka"), giving the line its exact edge.
+- 'In no way, Vitya, you cannot get it at all!' Mikhail hands over this warning on cue: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'You thought this up on purpose in advance!' Barinov replies steadily to be clear, saying out loud what both of them already know.
+- 'A deal is a deal, hand the ticket over to me.' Mikhail favors one sharp expression in earnest: "dorozhe" means "dearer" (from "dorogoy"), giving the line its exact edge.
+- 'Fine, take it, but I will remember this!' Barinov directs the comment with ease: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.

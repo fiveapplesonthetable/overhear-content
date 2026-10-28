@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Believe me, I do not want to lose you anymore.' Barinov sustains a resolute position with Elena, linking "pover" ("believe"), "bolshe" ("more"), and "khochu" ("want") in one brisk exchange.
-- 'I do!' Elena offers an honest bearing in the conversation, anchoring the Russian line on "soglasna" ("agree") and "ya" ("I") without extra filler.
-- 'Lena, some kind of mistake happened.' Barinov strikes an honest style across the room, linking "proizoshla" ("occurred, there was"), "oshibka" ("mistake"), and "lena" ("Lena") in one brisk exchange.
-- 'That is not what I meant.' Barinov establishes a firm tack at once, anchoring the Russian line on "imel" ("had") and "vidu" ("view, mind") without extra filler.
-- 'I bought a pendant, you see, and not this ring!' Barinov favors a lively tack on the spot, using "pokupal" (from "pokupat", "bought, were buying") alongside "kulon" ("pendant") to shape the meaning.
-- 'It turned out funny.' Elena conveys a candid approach across the room, joining "smeshno" ("ridiculous") to "poluchilos" ("worked out") so every word pulls its weight.
-- 'The evening was wonderful.' Elena offers an honest tone in their talk, weaving "vecher" ("evening") together with "byl" ("was") just the way native speakers do.
-- 'Lena, wait, hear me out!' Barinov holds an honest view as the scene unfolds, building the phrase around "postoy" ("wait") and "vyslushay" ("hear out, listen to") for a crisp, natural delivery.
-- 'There is no need to explain anything.' Elena shares an easygoing approach with Barinov, combining "nado" ("it is necessary") and "obyasnyat" ("to explain") so the key meaning lands right away.
-- 'It is not for nothing that people recommend you! So pleasant.' Vika sustains a playful direction in the room, pairing "zrya" ("for nothing") with "sovetuyut" ("advise") to get the point across in plain spoken Russian.
-- 'Who put a ring in here?!' Barinov inquires sharply as the beat lands, leaning on "polozhil" ("laid, put down") before closing the thought with "syuda" ("here").
-- 'My back is completely better, thank you!' Vika sets a sharp tack in this beat, combining the intensifier "sovsem" ("completely, at all") with "spina" ("back") to give the line its natural spoken rhythm.
+- 'Believe me, I do not want to lose you anymore.' Barinov picks one colorful element at once: "bolshe" means "more", and it carries the main weight of what Barinov is saying.
+- 'I do!' Elena weighs in steadily to settle things, bringing things back to earth after the buildup.
+- 'Lena, some kind of mistake happened.' Barinov leans on one classic touch for Elena: "proizoshla" means "occurred, there was" (from "proizoyti"), giving the line its exact edge.
+- 'That is not what I meant.' Barinov cuts in honestly watching Vika, saying out loud what both of them already know.
+- 'I bought a pendant, you see, and not this ring!' Barinov speaks up calmly on the spot, leaving no doubt about where he stands.
+- 'It turned out funny.' Elena sharpens one classic touch for Vika: "poluchilos" means "worked out" (from "poluchitsya"), giving the line its exact edge.
+- 'The evening was wonderful.' Elena hands over that line around Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Lena, wait, hear me out!' Barinov proceeds boldly with a nod, steering the talk right where he wants it.
+- 'There is no need to explain anything.' Elena colors one clear detail on cue: "obyasnyat" means "to explain", and it carries the main weight of what Elena is saying.
+- 'It is not for nothing that people recommend you! So pleasant.' Vika picks this clear piece in earnest: "sovetuyut" means "advise" (from "sovetovat"), giving the line its exact edge.
+- 'Who put a ring in here?!' Barinov probes eagerly where this conversation is heading next.
+- 'My back is completely better, thank you!' Vika frames one practical detail for Elena: "spasibo" means "thank you", and it carries the main weight of what Vika is saying.

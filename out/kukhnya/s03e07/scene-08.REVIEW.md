@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, a guest out there found a cockroach in his dish.' Max picks a grounded rhythm without hesitation, putting "tam" ("there") alongside "gost" ("guest") in a tight, everyday turn of phrase.
-- 'A cockroach again, whose dish is it?' Barinov challenges plainly in the room, leaning on "opyat" ("again") before closing the thought with "tarakana" ("cockroach").
-- 'It is your dish again, Chef.' Max projects an earnest view beside Barinov, linking "snova" ("again") directly with "blyudo" ("dish"), since Russian drops "is" and "are" in the present.
-- 'Quieter, he was just yelling at a cat.' Nagiyev offers a natural posture beside Max, pairing "tishe" ("quiet, more quietly") with "prosto" ("just") to get the point across in plain spoken Russian.
-- 'Quickly catch up with my car, mine!' Nagiyev picks a direct angle in the scene, linking "bystro" ("quickly"), "mashinu" ("car"), and "dogonyay" ("catch up with") in one brisk exchange.
-- 'Here is a thousand rubles for you right away.' Nagiyev takes a pointed stance in the scene, weaving "srazu" ("at once") together with "tysyacha" ("thousand") just the way native speakers do.
-- 'If you catch up, I will give you five thousand.' Nagiyev shows a candid view in this beat, using "dogonish" (from "dognat", "catch up") alongside "tysyach" ("thousand") to shape the meaning.
-- 'Well that is it, let us go quickly!' Nagiyev displays a sharp style with Max, pairing "davay" ("let's") with "skoreye" ("quickly, right away") to get the point across in plain spoken Russian.
-- 'In short, my son will be named Dmitry.' Max holds an easygoing attitude in this beat, combining "koroche" ("long story short") and "syna" ("son") so the key meaning lands right away.
-- 'Give birth to a son yourself and name him Dmitry.' Barinov keeps a clear view during the exchange, using "rodish" (from "rodit", "give birth to") alongside "syna" ("son") to shape the meaning.
-- 'Chef, what are we going to do with the guest?' Max wonders steadily to make the point, using "budem" (from "byt", "will") alongside "delat" ("do") to shape the meaning.
-- 'Right now I will go out to him myself.' Barinov holds a grounded position with Nagiyev, leaning on "seychas" ("now") before closing the thought with "vyydu" ("I'll get out").
+- 'Chef, a guest out there found a cockroach in his dish.' Max holds firm pointedly as they talk, without trying to dress up how he really feels.
+- 'A cockroach again, whose dish is it?' Barinov inquires sharply where this conversation is heading next.
+- 'It is your dish again, Chef.' Max favors one colorful touch in earnest: "blyudo" means "dish", and it carries the main weight of what Max is saying.
+- 'Quieter, he was just yelling at a cat.' Nagiyev shapes that point with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Quickly catch up with my car, mine!' Nagiyev holds firm warmly with a sigh, to clear the air between them once and for all.
+- 'Here is a thousand rubles for you right away.' Nagiyev grounds this vivid expression at once: "tysyacha" means "thousand", and it carries the main weight of what Nagiyev is saying.
+- 'If you catch up, I will give you five thousand.' Nagiyev grounds this clear element on cue: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
+- 'Well that is it, let us go quickly!' Nagiyev pushes back pointedly as things stand, saying out loud what both of them already know.
+- 'In short, my son will be named Dmitry.' Max centers one classic term in earnest: "koroche" means "long story short", and it carries the main weight of what Max is saying.
+- 'Give birth to a son yourself and name him Dmitry.' Barinov counters bluntly without any doubt, bringing things back to earth after the buildup.
+- 'Chef, what are we going to do with the guest?' Max probes firmly to see how Barinov will answer on the spot.
+- 'Right now I will go out to him myself.' Barinov points to one loaded expression on cue: "seychas" means "now", and it carries the main weight of what Barinov is saying.

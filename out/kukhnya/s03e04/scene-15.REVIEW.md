@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That's it, I placed my bet.' Barinov strikes an unhurried attitude with Elena, building the phrase around "postavil" ("put") and "vsyo" ("everything") for a crisp, natural delivery.
-- 'Vitya, were you drinking all night?' Elena challenges quietly as they speak, anchoring the Russian line on "pil" ("was drinking") and "noch" ("night") without extra filler.
-- 'I drank. I lost so much that I had to have a drink.' Barinov establishes a calm stance for Elena, anchoring the Russian line on "pil" ("was drinking") and "stolko" ("so many") without extra filler.
-- 'So you were gambling too?' Elena presses bluntly in front of Ilya, leaning on "yest" ("there is") before closing the thought with "yeshchyo" ("more, still").
-- 'Well, you are the one to blame for that.' Barinov keeps an unhurried course toward Elena, joining "kak" ("how") to "raz" ("time, once") so every word pulls its weight.
-- 'You gave me that wretched elephant.' Barinov chooses an honest tempo for Ilya, putting "podarila" ("gave as a gift") alongside "slona" ("an elephant") in a tight, everyday turn of phrase.
-- 'So I am to blame too?' Elena prompts directly beside Barinov, linking "yest" ("there is"), "yeshchyo" ("more, still"), and "vinovata" ("at fault, to blame") in one brisk exchange.
-- 'Fine, when you come to your senses, we will talk.' Elena establishes a clear approach as the scene unfolds, building the phrase around "khorosho" ("good, fine") and "pridyosh" ("will come") for a crisp, natural delivery.
-- 'Lena, well you aren't to blame, it's that elephant that I lost!' Barinov strikes an unhurried course without hesitation, using "vinovata" (from "vinovatyy", "at fault, to blame") alongside "slon" ("elephant") to shape the meaning.
-- 'What, did they rehire you? No, I came for my final pay.' Ilya probes quietly in the scene, weaving "vernuli" ("returned") together with "raschyotom" ("final pay, settlement") just the way native speakers do.
-- 'Hello everyone! Don't you worry.' Ilya maintains an earnest direction in this beat, combining "perezhivay" ("worry") and "vsem" ("everyone") so the key meaning lands right away.
-- 'Nagiyev has been eating Katya's molecular food for two days now.' Ilya establishes a brisk approach as they talk, anchoring the Russian line on "uzhe" ("already, now") and "dnya" ("day") without extra filler.
+- 'That's it, I placed my bet.' Barinov replies dryly toward Elena, saying out loud what both of them already know.
+- 'Vitya, were you drinking all night?' Elena spotlights this clear word toward Ilya: "noch" means "night", and it carries the main weight of what Elena is saying.
+- 'I drank. I lost so much that I had to have a drink.' Barinov offers that answer right away: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'So you were gambling too?' Elena inquires evenly as Ilya tries to explain the situation.
+- 'Well, you are the one to blame for that.' Barinov stresses this sharp detail in reply: "vinovata" means "at fault, to blame" (from "vinovatyy"), giving the line its exact edge.
+- 'You gave me that wretched elephant.' Barinov responds earnestly in this moment, before Ilya can change the subject.
+- 'So I am to blame too?' Elena wonders plainly as Barinov tries to explain the situation.
+- 'Fine, when you come to your senses, we will talk.' Elena chooses one memorable expression in reply: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
+- 'Lena, well you aren't to blame, it's that elephant that I lost!' Barinov leans on this telling element on cue: "vinovata" means "at fault, to blame" (from "vinovatyy"), giving the line its exact edge.
+- 'What, did they rehire you? No, I came for my final pay.' Ilya wonders evenly as Elena tries to explain the situation.
+- 'Hello everyone! Don't you worry.' Ilya features one vivid word right here: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
+- 'Nagiyev has been eating Katya's molecular food for two days now.' Ilya cuts in boldly across the room, to clear the air between them once and for all.

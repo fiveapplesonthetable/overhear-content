@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, hide so that nobody sees you.' Kostya adopts a lively approach in the scene, linking "spryachsya" ("to hide"), "videl" ("saw, have seen"), and "senya" ("Senya") in one brisk exchange.
-- 'I just need to quickly wipe the glasses here.' Senya maintains an earnest posture at this moment, weaving "tolko" ("only") together with "bystro" ("quickly") just the way native speakers do.
-- 'If you had warned me in advance, I would have poured something cheaper.' Kostya presents a playful tack in front of Denis, leaning on "predupredil" ("warned") before closing the thought with "zaraneye" ("in advance").
-- 'I thought you were worrying badly because of Sveta.' Kostya displays a lively tone right away, anchoring the Russian line on "dumal" ("thought") and "silno" ("strongly, much") without extra filler.
-- 'No, I am not worrying about that at all.' Denis brings a direct note toward Kostya, anchoring the Russian line on "sovsem" ("at all") and "perezhivayu" ("worry") without extra filler.
-- 'She just acts as if we are dating.' Denis presents an easygoing style as they talk, linking "prosto" ("just"), "vedyot" ("leads, behaves"), and "vstrechayemsya" ("have been going out") in one brisk exchange.
-- 'And to be honest, that stresses me out a bit.' Denis holds a thoughtful stance in this beat, putting "chestno" ("honestly") alongside "nemnogo" ("a bit") in a tight, everyday turn of phrase.
-- 'Maybe it is simpler to explain everything to her in detail?' Kostya challenges firmly in their exchange, combining "mozhet" ("can") and "byt" ("be") so the key meaning lands right away.
-- 'It is hard for her right now, because she broke up with her boyfriend.' Denis maintains a serious bearing during the exchange, anchoring the Russian line on "seychas" ("now") and "tyazhelo" ("hard") without extra filler.
-- 'I do not want to make her hurt even more.' Denis adopts a measured posture toward Senya, putting "khochu" ("want") alongside "delat" ("do") in a tight, everyday turn of phrase.
-- 'Wait, but now I smell like vodka.' Denis establishes a playful direction with Kostya, pairing "podozhdi" ("wait") with "teper" ("now") to get the point across in plain spoken Russian.
-- 'And rightly so, let her think that it is hard for you to talk about it!' Kostya establishes an unhurried rhythm in the conversation, leaning on "pravilno" ("right") before closing the thought with "dumayet" ("thinks").
+- 'Senya, hide so that nobody sees you.' Kostya reacts quietly in their talk, bringing things back to earth after the buildup.
+- 'I just need to quickly wipe the glasses here.' Senya colors this key detail on cue: "stakany" means "glasses" (from "stakan"), giving the line its exact edge.
+- 'If you had warned me in advance, I would have poured something cheaper.' Kostya follows up warmly on the spot, steering the talk right where he wants it.
+- 'I thought you were worrying badly because of Sveta.' Kostya pushes back plainly without holding back, so Senya knows he is not just making small talk.
+- 'No, I am not worrying about that at all.' Denis reaches for this clear choice at once: "perezhivayu" means "worry" (from "perezhivat"), giving the line its exact edge.
+- 'She just acts as if we are dating.' Denis shapes that point calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'And to be honest, that stresses me out a bit.' Denis proceeds dryly with Kostya, before Kostya can change the subject.
+- 'Maybe it is simpler to explain everything to her in detail?' Kostya spotlights this vivid touch for Senya: "proshche" means "simpler, easier", and it carries the main weight of what Kostya is saying.
+- 'It is hard for her right now, because she broke up with her boyfriend.' Denis delivers that thought toward Kostya: the "-sya" ending on "rasstalas" ("to break up") turns the action inward or makes it happen between people naturally.
+- 'I do not want to make her hurt even more.' Denis reacts candidly as they talk, to clear the air between them once and for all.
+- 'Wait, but now I smell like vodka.' Denis emphasizes one pointed expression toward Kostya: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'And rightly so, let her think that it is hard for you to talk about it!' Kostya emphasizes this sharp piece for Senya: "pravilno" means "right", and it carries the main weight of what Kostya is saying.

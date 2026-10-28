@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna, what is going on?' German quizzes naturally to Kostya here, joining "proiskhodit" ("is going on") to "viktoriya" ("Victoria") so every word pulls its weight.
-- 'We have a banquet in two days!' German shares an unhurried tone in the conversation, leaning on "u nas" ("by us, at our place") and "banket" ("banquet") the way natural Russian does.
-- 'And I find out about it right now!' German strikes an emphatic footing during the exchange, putting "uznayu" ("to recognise") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'We might simply fail to finish in time.' German sustains a pointed attitude on the spot, building the phrase around "mozhem" ("can") and "prosto" ("just") for a crisp, natural delivery.
-- 'I will not have time to order the alcohol!' Kostya adopts a frank tempo toward German, anchoring the Russian line on "uspeyu" ("will manage") and "zakazat" ("to order") without extra filler.
-- 'And how much meat and fish should we order?' German quizzes frankly as the beat lands, linking "skolko" ("how much, so much"), "myasa" ("meat"), and "ryby" ("of fish") in one brisk exchange.
-- 'That is simply unprofessional on your part!' German maintains an earnest line on the spot, linking "prosto" ("just") directly with "neprofessionalno" ("part"), since Russian drops "is" and "are" in the present.
-- 'I am a professional at my job!' Vika chooses a warm approach on the spot, putting "professional" ("professional") alongside "dela" ("things, affairs") in a tight, everyday turn of phrase.
-- 'All right, stop, wait and calm down.' Vika displays a resolute position in front of German, leaning on "podozhdite" ("wait") before closing the thought with "uspokoytes" ("calm down").
-- 'There will not be a banquet for a hundred people.' Vika maintains a grounded footing toward Kostya, putting "banketa" ("banquet") alongside "chelovek" ("a man, a person") in a tight, everyday turn of phrase.
-- 'But for thirty people, there will be.' Vika shares a pointed manner with German, putting "chelovek" ("a man, a person") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'So there really will be a banquet for thirty?' German questions candidly to keep things clear, pairing "znachit" ("then, so") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'Viktoriya Sergeyevna, what is going on?' German hands over this answer for Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'We have a banquet in two days!' German opens up promptly across the room, so Vika knows he is not just making small talk.
+- 'And I find out about it right now!' German underscores one sharp word right here: "seychas" means "now", and it carries the main weight of what German is saying.
+- 'We might simply fail to finish in time.' German offers the reaction with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I will not have time to order the alcohol!' Kostya reacts promptly with German, watching German's face to see how the news lands.
+- 'And how much meat and fish should we order?' German focuses on this direct element in reply: "myasa" means "meat" (from "myaso"), giving the line its exact edge.
+- 'That is simply unprofessional on your part!' German phrases the comment calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I am a professional at my job!' Vika responds decisively with a smile, before Kostya can change the subject.
+- 'All right, stop, wait and calm down.' Vika features this vivid piece on cue: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'There will not be a banquet for a hundred people.' Vika chimes in at once across the room, watching Kostya's face to see how the news lands.
+- 'But for thirty people, there will be.' Vika opens up sharply around German, grounding the moment in plain reality.
+- 'So there really will be a banquet for thirty?' German points to one direct piece right here: "banket" means "banquet", and it carries the main weight of what German is saying.

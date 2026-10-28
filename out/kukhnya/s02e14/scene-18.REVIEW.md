@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes. Okay.' Barinov projects a wry approach without hesitation, putting "da" ("yes") alongside "okey" ("okay") in a tight, everyday turn of phrase.
-- 'Then you have nothing to worry about.' Sasha presents a serious manner in front of Senya, combining "togda" ("back then") and "bespokoitsya" ("to worry") so the key meaning lands right away.
-- 'What are you hinting at?' Senya queries frankly in the scene, anchoring the Russian line on "namekayesh" ("are hinting") and "ty" ("you") without extra filler.
-- 'What do you mean?' Barinov questions decisively without holding back, putting all the weight on "smysle" ("sense") so the reply lands immediately.
-- 'Why are you getting so worked up all of a sudden?' Sasha inquires openly as the beat lands, putting "razvolnovalsya" ("to get nervous") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'Everything is going great between you two, right?' Senya questions openly in the scene, placing "khorosho" ("good, fine") straight beside "vas" ("you") with no word for "to be" needed.
-- 'I am not worked up at all.' Barinov conveys a steady mood on the spot, linking "volnuyus" ("am nervous"), "ya" ("I"), and "ne" ("not") in one brisk exchange.
-- 'Yes, Chef.' Sasha sets a direct note right away, building the phrase around "da" ("yes") and "shef" ("Chef") for a crisp, natural delivery.
-- 'Shrimp and arugula salad.' Senya sets a frank view across the room, building the phrase around "salat" ("salad") and "krevetkami" ("shrimp, prawn") for a crisp, natural delivery.
-- 'Have you seen Sasha anywhere?' Barinov challenges plainly from the start, pairing "videl" ("saw, have seen") with "ty" ("you") to get the point across in plain spoken Russian.
-- 'The day before yesterday, yesterday, and today.' Sasha projects a grounded tempo beside Barinov, combining "pozavchera" ("the day before yesterday") and "vchera" ("yesterday") so the key meaning lands right away.
-- 'I saw Sasha.' Senya keeps a steady angle with Sasha, using "videl" (from "videt", "saw, have seen") alongside "sashu" ("Sasha") to shape the meaning.
-- 'And I hope I will see her tomorrow too.' Barinov shows a wry tack on the spot, anchoring the Russian line on "nadeyus" ("hope so") and "zavtra" ("tomorrow") without extra filler.
+- 'Yes. Okay.' Barinov jumps in candidly before Sasha, steering the talk right where he wants it.
+- 'Then you have nothing to worry about.' Sasha chooses one memorable touch with Senya: "bespokoitsya" means "to worry", and it carries the main weight of what Sasha is saying.
+- 'What are you hinting at?' Senya aims that answer toward Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'What do you mean?' Barinov questions eagerly whether Senya really thought this through.
+- 'Why are you getting so worked up all of a sudden?' Sasha highlights one memorable element in reply: "razvolnovalsya" means "to get nervous" (from "razvolnovatsya"), giving the line its exact edge.
+- 'Everything is going great between you two, right?' Senya delivers the reply calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'I am not worked up at all.' Barinov fires back firmly with a nod, bringing things back to earth after the buildup.
+- 'Yes, Chef.' Sasha hands over that reply without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Shrimp and arugula salad.' Senya answers promptly toward Barinov, watching Barinov's face to see how the news lands.
+- 'Have you seen Sasha anywhere?' Barinov wonders point-blank what Senya is actually getting at here.
+- 'The day before yesterday, yesterday, and today.' Sasha highlights this telling expression toward Barinov: "pozavchera" means "the day before yesterday", and it carries the main weight of what Sasha is saying.
+- 'I saw Sasha.' Senya offers this answer without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And I hope I will see her tomorrow too.' Barinov steps in promptly with a sigh, leaving no doubt about where he stands.

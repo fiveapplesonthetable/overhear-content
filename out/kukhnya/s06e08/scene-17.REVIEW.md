@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You almost strangled me completely just now!' Nagiyev sustains an earnest footing in their talk, combining the intensifier "sovsem" ("completely, at all") with "seychas" ("now") to give the line its natural spoken rhythm.
-- 'Who would host the show on television then?' Nagiyev queries frankly across the room, building the phrase around "togda" ("back then") and "vyol" ("led, behaved") for a crisp, natural delivery.
-- 'And what on earth are the two of you doing in here?' Eleonora queries boldly to make the point, joining "tut" ("here") to "vdvoyom" ("the two of us together") so every word pulls its weight.
-- 'Tell me quickly, where is our Katya right now?' Barinov checks promptly across the room, weaving "govori" ("say, talk") together with "bystro" ("quickly") just the way native speakers do.
-- 'What Katya, who are you talking about?' Nagiyev wonders evenly to make the point, anchoring the Russian line on "yeshchyo" ("more, still") and "govorish" ("you say") without extra filler.
-- 'Do not move, you have your knee right on my stomach!' Nagiyev projects a sharp posture toward Eleonora, anchoring the Russian line on "shevelis" ("move, stir") and "kolenom" ("knee") without extra filler.
-- 'Wait, what on earth is going on in here right now?' Eleonora challenges naturally in front of Barinov, pairing "seychas" ("now") with "podozhdite" ("wait") so the "-sya" ending carries the action.
-- 'Elya, darling, this is not at all what you think!' Nagiyev keeps a serious direction across the room, joining "dorogaya" ("expensive") to "sovsem" ("at all") so every word pulls its weight.
-- 'So that was not Katya in the shower just now?' Barinov probes promptly in the room, weaving "znachit" ("then, so") together with "dushe" ("soul") just the way native speakers do.
-- 'Dima, how could you deceive me again?' Eleonora challenges earnestly in the scene, linking "kak" ("how"), "mog" ("can, to be able"), and "snova" ("again") in one brisk exchange.
-- 'Elya, wait, let me explain everything to you!' Nagiyev adopts a serious view straight away, anchoring the Russian line on "postoy" ("wait") and "day" ("give") without extra filler.
-- 'It seems I had better quietly head back to the kitchen.' Barinov shares a resolute line beside Nagiyev, combining "kazhetsya" ("it seems, I think") and "luchshe" ("better") so the key meaning lands right away.
+- 'You almost strangled me completely just now!' Nagiyev delivers this update facing Barinov: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Who would host the show on television then?' Nagiyev wonders wryly if there is more going on behind the scenes.
+- 'And what on earth are the two of you doing in here?' Eleonora focuses on one vivid expression toward Barinov: "voobshche" means "at all", and it carries the main weight of what Eleonora is saying.
+- 'Tell me quickly, where is our Katya right now?' Barinov frames the remark for Nagiyev: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'What Katya, who are you talking about?' Nagiyev presses straight out if there is more going on behind the scenes.
+- 'Do not move, you have your knee right on my stomach!' Nagiyev underscores this direct element on cue: "kolenom" means "knee" (from "koleno"), giving the line its exact edge.
+- 'Wait, what on earth is going on in here right now?' Eleonora makes that answer toward Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Elya, darling, this is not at all what you think!' Nagiyev counters at once without holding back, making his position completely clear.
+- 'So that was not Katya in the shower just now?' Barinov stresses one clear expression for Eleonora: "znachit" means "then, so", and it carries the main weight of what Barinov is saying.
+- 'Dima, how could you deceive me again?' Eleonora shapes this line to Nagiyev: putting the question word "kak" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Elya, wait, let me explain everything to you!' Nagiyev reacts decisively as things stand, bringing things back to earth after the buildup.
+- 'It seems I had better quietly head back to the kitchen.' Barinov colors one clear choice in earnest: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.

@@ -38,4 +38,4 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I am Max.' He introduces himself by his real name, Max.
 - 'And I am here to fix the internet.' Panicking further, Max even pretends he is only the internet repairman himself.
 - 'Which one of you is Konstantin?' Looking around the room in confusion, Max asks who is supposed to be Konstantin.
-- 'Me.' Meanwhile, Nastya's father delivers a punchy one-word reaction built around the Russian word meaning 'I'.
+- 'Me.' Believing Nastya's father has come to praise him, Max proudly steps forward and says 'It is me.'

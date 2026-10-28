@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems to me that I love you.' Nagiyev maintains a clear course in their talk, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "lyublyu" ("love") without extra filler.
-- 'Dmitry Vladimirovich, you are very drunk.' Vika establishes a natural direction on the spot, anchoring the Russian line on "ochen" ("very much") and "pyany" ("drunk") without extra filler.
-- 'I thought and thought and finally decided.' Nagiyev sustains a pointed posture in this beat, pairing "dumal" ("thought") with "nakonets" ("at last, finally") to get the point across in plain spoken Russian.
-- 'After all, we have been together for four years already.' Nagiyev shares a grounded manner straight away, pairing "uzhe" ("already, now") with "vmeste" ("together") to get the point across in plain spoken Russian.
-- 'You are the most wonderful woman on earth.' Nagiyev chooses a calm tack in front of Vika, joining "samaya" ("most") to "zamechatelnaya" ("wonderful") so every word pulls its weight.
-- 'Vika, Victoria, I love you.' Nagiyev takes a clear posture at once, weaving "lyublyu" ("love") together with "vika" ("Vika") just the way native speakers do.
-- 'I will bring you some water right now.' Vika holds a firm stance right away, weaving "seychas" ("now") together with "prinesu" ("I will bring") just the way native speakers do.
-- 'Please, you need to get a good sleep.' Vika keeps a candid posture at once, linking "nuzhno" ("necessary"), "khorosho" ("good, fine"), and "vyspatsya" ("get enough sleep") in one brisk exchange.
-- 'Go home calmly right now.' Vika projects a pointed posture on the spot, combining "poyezzhayte" ("go, drive") and "seychas" ("now") so the key meaning lands right away.
-- 'No, I will not go home.' Nagiyev shares a serious position at once, weaving "domoy" ("home") together with "poyedu" ("will go") just the way native speakers do.
-- 'I will go to my second home.' Nagiyev sets a natural tone as the scene unfolds, putting "poyedu" ("will go") alongside "vtoroy" ("second") in a tight, everyday turn of phrase.
-- 'Well why go to the restaurant?' Vika inquires honestly at this point, leaning on "zachem" ("what for") before closing the thought with "yekhat" ("to drive, to go").
-- 'Do not persuade me to stay here in the warmth.' Nagiyev offers a warm tempo without hesitation, putting "ugovarivay" ("persuade") alongside "ostatsya" ("to remain, to be left") in a tight, everyday turn of phrase.
+- 'It seems to me that I love you.' Nagiyev features one clear piece toward Vika: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'Dmitry Vladimirovich, you are very drunk.' Vika makes the comment around Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I thought and thought and finally decided.' Nagiyev stands firm promptly beside Vika, shifting the whole mood of the room in a single beat.
+- 'After all, we have been together for four years already.' Nagiyev highlights one sharp touch at once: "vmeste" means "together", and it carries the main weight of what Nagiyev is saying.
+- 'You are the most wonderful woman on earth.' Nagiyev sends that thought with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Vika, Victoria, I love you.' Nagiyev speaks lightly as things stand, watching Vika's face to see how the news lands.
+- 'I will bring you some water right now.' Vika grounds one colorful word at once: "seychas" means "now", and it carries the main weight of what Vika is saying.
+- 'Please, you need to get a good sleep.' Vika makes this answer to Nagiyev: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Go home calmly right now.' Vika jumps in right away as things stand, bringing things back to earth after the buildup.
+- 'No, I will not go home.' Nagiyev spotlights one telling piece in reply: "poyedu" means "will go" (from "poyekhat"), giving the line its exact edge.
+- 'I will go to my second home.' Nagiyev answers warmly before Vika, testing Vika's reaction in the middle of the exchange.
+- 'Well why go to the restaurant?' Vika probes frankly in front of Nagiyev without any preamble.
+- 'Do not persuade me to stay here in the warmth.' Nagiyev focuses on one loaded piece toward Vika: "ugovarivay" means "persuade" (from "ugovarivat"), giving the line its exact edge.

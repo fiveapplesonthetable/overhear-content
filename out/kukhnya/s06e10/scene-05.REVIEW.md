@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you imagine, Katya just came up to me.' Denis chooses a calm tack as they talk, using "predstavlyayesh" (from "predstavlyat", "can you imagine") alongside "seychas" ("now") to shape the meaning.
-- 'She asked outright whether we have a relationship.' Denis strikes a serious line on the spot, linking "pryamo" ("right, just"), "sprosila" ("asked"), and "yest" ("there is") in one brisk exchange.
-- 'And what did you answer her to that?' Fedya wonders warmly right away, combining "otvetila" ("answered") and "chto" ("what") so the key meaning lands right away.
-- 'She told the truth, that you and I are just friends.' Katya conveys a measured approach in the conversation, anchoring the Russian line on "skazala" ("told") and "pravdu" ("truth") without extra filler.
-- 'Senya, your birthday is in three weeks!' Fedya projects a natural footing in the room, linking "den" ("day"), "rozhdeniya" ("of birth"), and "nedeli" ("weeks") in one brisk exchange.
-- 'And the discounts on the fishfinder end tomorrow already.' Katya chooses a serious line in their talk, combining "skidki" ("discount") and "ekholot" ("fishfinder") so the key meaning lands right away.
-- 'Later you will thank me on our fishing trip.' Katya holds a natural attitude for Denis, linking "potom" ("then"), "yeshchyo" ("more, still"), and "spasibo" ("thank you") in one brisk exchange.
-- 'Gulya said tonight I can stay overnight at their place again.' Denis maintains a sharp note for Katya, putting "skazala" ("told") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'Guys, are you coming to my birthday party?' Katya tests frankly in front of Denis, leaning on "rebyata" ("the boys, the lads") before closing the thought with "den" ("day").
-- 'Honestly speaking, we do not know for sure yet.' Fedya shares a measured rhythm in front of Katya, linking "chestno" ("honestly"), "govorya" ("speaking"), and "poka" ("bye") in one brisk exchange.
-- 'Decide faster, I need to count everything up.' Katya chooses a measured position in the scene, putting "reshaytes" ("to be resolved") alongside "bystreye" ("faster") in a tight, everyday turn of phrase.
-- 'Whether I have enough money or need to ask the waiters too.' Katya favors a lively rhythm at once, weaving "deneg" ("money") together with "khvatayet" ("grabs") just the way native speakers do.
+- 'Can you imagine, Katya just came up to me.' Denis responds wryly beside Fedya, making his position completely clear.
+- 'She asked outright whether we have a relationship.' Denis replies calmly around Katya, refusing to let the moment slip past.
+- 'And what did you answer her to that?' Fedya features one memorable choice in earnest: "otvetila" means "answered" (from "otvetit"), giving the line its exact edge.
+- 'She told the truth, that you and I are just friends.' Katya offers that answer with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Senya, your birthday is in three weeks!' Fedya jumps in promptly toward Denis, making his position completely clear.
+- 'And the discounts on the fishfinder end tomorrow already.' Katya chooses one sharp term in reply: "zakanchivayutsya" means "to end, to finish" (from "zakanchivatsya"), giving the line its exact edge.
+- 'Later you will thank me on our fishing trip.' Katya makes the reply around Denis: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Gulya said tonight I can stay overnight at their place again.' Denis chimes in lightly in their talk, grounding the moment in plain reality.
+- 'Guys, are you coming to my birthday party?' Katya points to this key choice on cue: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
+- 'Honestly speaking, we do not know for sure yet.' Fedya opens up steadily to be clear, bringing things back to earth after the buildup.
+- 'Decide faster, I need to count everything up.' Katya responds dryly without holding back, grounding the moment in plain reality.
+- 'Whether I have enough money or need to ask the waiters too.' Katya sharpens one key term with Fedya: "ofitsiantov" means "waiter, server" (from "ofitsiant"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Meet my fiancé Denis.' Katya offers a playful note straight away, putting "znakomtes" ("meet") alongside "zhenikh" ("groom, fiancé") in a tight, everyday turn of phrase.
-- 'He is the head chef of our restaurant.' Katya shares an emphatic course during the exchange, linking "glavnyy" ("main, chief"), "shef-povar" ("head chef"), and "restorana" ("restaurant") in one brisk exchange.
-- 'Good evening, how do you like it here?' Denis challenges wryly to Katya here, pairing "dobryy" ("good") with "vecher" ("evening") to get the point across in plain spoken Russian.
-- 'I must go back to the stove.' Denis offers an easygoing note across the room, putting "dolzhen" ("has to, must") alongside "idti" ("to go") in a tight, everyday turn of phrase.
-- 'Denis, come over here quickly!' Nagiyev picks a firm angle in this beat, pairing "denis" ("Denis") with "idi" ("go") so the "-sya" ending carries the action.
-- 'We are going to drink delicious wine right now.' Nagiyev establishes a brisk note as they talk, pairing "seychas" ("now") with "budem" ("will") so the "-sya" ending carries the action.
-- 'And at the grand piano you will play something romantic.' Nagiyev picks a grounded tempo at this moment, leaning on "royalem" ("to something") before closing the thought with "sygrayesh" ("to play, perform").
-- 'But you planned the date for tomorrow.' Denis conveys an earnest course in their talk, using "planirovali" (from "planirovat", "to tomorrow") alongside "svidaniye" ("date") to shape the meaning.
-- 'Never put off love until tomorrow!' Nagiyev strikes a firm stance toward Denis, leaning on "nikogda" ("never") before closing the thought with "otkladyvay" ("off").
-- 'Friends, I prepared a musical gift for you.' Denis establishes a frank course right away, leaning on "druzya" ("friends") before closing the thought with "prigotovil" ("cooked").
-- 'Yes, my fiancé plays wonderfully.' Katya holds a brisk tempo as the scene unfolds, putting "prekrasno" ("perfectly") alongside "igrayet" ("plays") in a tight, everyday turn of phrase.
-- 'A talented person is talented in everything.' Katya shows an unhurried stance as the scene unfolds, linking "talantlivyy" ("talented"), "chelovek" ("a man, a person"), and "talantliv" ("talented") in one brisk exchange.
+- 'Meet my fiancé Denis.' Katya makes that remark plainly here: the "-sya" ending on "znakomtes" ("meet") turns the action inward or makes it happen between people naturally.
+- 'He is the head chef of our restaurant.' Katya opens up wryly on the spot, so Nagiyev knows she is not just making small talk.
+- 'Good evening, how do you like it here?' Denis spotlights one sharp word in earnest: "dobryy" means "good", and it carries the main weight of what Denis is saying.
+- 'I must go back to the stove.' Denis weighs in lightly facing Nagiyev, before Nagiyev can change the subject.
+- 'Denis, come over here quickly!' Nagiyev holds firm pointedly as things stand, keeping the focus on what actually matters here.
+- 'We are going to drink delicious wine right now.' Nagiyev anchors one classic piece with Katya: "vkusnoye" means "tasty, delicious" (from "vkusnyy"), giving the line its exact edge.
+- 'And at the grand piano you will play something romantic.' Nagiyev points to this telling expression in earnest: "romantiku" means "romantic" (from "romantik"), giving the line its exact edge.
+- 'But you planned the date for tomorrow.' Denis fires back steadily with a smile, bringing things back to earth after the buildup.
+- 'Never put off love until tomorrow!' Nagiyev favors one pointed detail on cue: "otkladyvay" means "off", and it carries the main weight of what Nagiyev is saying.
+- 'Friends, I prepared a musical gift for you.' Denis chooses one key touch on cue: "muzykalnyy" means "gift", and it carries the main weight of what Denis is saying.
+- 'Yes, my fiancé plays wonderfully.' Katya proceeds quietly in their talk, leaving no doubt about where she stands.
+- 'A talented person is talented in everything.' Katya points to one vivid expression on cue: "talantlivyy" means "talented", and it carries the main weight of what Katya is saying.

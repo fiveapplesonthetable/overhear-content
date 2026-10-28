@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Whoa, long time no see, hello!' Katya shares a warm stance at this moment, linking "skolko" ("how much, so much"), "let" ("years"), and "zim" ("winters") in one brisk exchange.
-- 'Thank you very much, I am so glad to hear from you.' Katya chooses a resolute mood at this moment, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "ochen" ("very much") in one brisk exchange.
-- 'Let us meet up tonight and celebrate.' Katya conveys a warm footing at once, joining "davay" ("let's") to "vstretimsya" ("we'll meet") so every word pulls its weight.
-- 'Who is going to forbid me, I am already an adult!' Katya projects a direct posture for Nagiyev, putting "zapretit" ("to forbid, to ban") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'I missed you very much, Dimochka.' Kristina displays a playful posture straight away, anchoring the Russian line on "ochen" ("very much") and "soskuchilas" ("missed") without extra filler.
-- 'And do you not miss me at all?' Kristina checks directly in the room, combining the intensifier "sovsem" ("completely, at all") with "skuchayesh" ("to miss, yearn for") to give the line its natural spoken rhythm.
-- 'I do not miss you at all right now!' Nagiyev conveys a steady note in the room, leaning on "seychas" ("now") before closing the thought with "sovsem" ("at all").
-- 'Understand, we cannot see each other anymore.' Nagiyev displays a candid tack as the scene unfolds, anchoring the Russian line on "poymi" ("understand") and "mozhem" ("can") without extra filler.
-- 'You are a young and very beautiful woman.' Nagiyev presents a grounded approach as they talk, joining "devushka" ("girlfriend") to "molodaya" ("young") so every word pulls its weight.
-- 'And I am a serious and married man now.' Nagiyev adopts a warm style in front of Kristina, weaving "teper" ("now") together with "chelovek" ("a man, a person") just the way native speakers do.
-- 'If my wife finds out, it will be the end of us both!' Nagiyev keeps a steady footing in their talk, leaning on "zhena" ("wife") before closing the thought with "uznayet" ("will find out").
-- 'In short, I am waiting for you in the room upstairs!' Kristina brings an emphatic mood right away, joining "koroche" ("long story short") to "zhdu" ("I wait, expect") so every word pulls its weight.
+- 'Whoa, long time no see, hello!' Katya aims this answer to Kristina: opening with the casual greeting "privet" ("hi") signals right away that Katya and Kristina are on familiar terms.
+- 'Thank you very much, I am so glad to hear from you.' Katya voices the reply for Nagiyev: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Let us meet up tonight and celebrate.' Pushing back facing Kristina, Katya cuts straight through the tension in the room.
+- 'Who is going to forbid me, I am already an adult!' Katya emphasizes one concrete expression toward Nagiyev: "vzroslaya" means "grown-up, adult" (from "vzroslyy"), giving the line its exact edge.
+- 'I missed you very much, Dimochka.' Kristina sends this warning around Katya: the "-sya" ending on "soskuchilas" ("missed") turns the action inward or makes it happen between people naturally.
+- 'And do you not miss me at all?' Kristina challenges bluntly whether Nagiyev really thought this through.
+- 'I do not miss you at all right now!' Nagiyev sharpens one colorful piece in reply: "skuchayu" means "to miss, yearn for" (from "skuchat"), giving the line its exact edge.
+- 'Understand, we cannot see each other anymore.' Nagiyev sends the remark around Kristina: the "-sya" ending on "vstrechatsya" ("to meet") turns the action inward or makes it happen between people naturally.
+- 'You are a young and very beautiful woman.' Nagiyev follows up firmly as they talk, shifting the whole mood of the room in a single beat.
+- 'And I am a serious and married man now.' Nagiyev favors one familiar piece with Kristina: "seryoznyy" means "important, serious", and it carries the main weight of what Nagiyev is saying.
+- 'If my wife finds out, it will be the end of us both!' Nagiyev aims the comeback with ease: the "-sya" ending on "konets" ("end") turns the action inward or makes it happen between people naturally.
+- 'In short, I am waiting for you in the room upstairs!' Kristina continues plainly without holding back, refusing to let the moment slip past.

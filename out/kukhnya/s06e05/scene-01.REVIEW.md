@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will tell you the whole truth.' Eva projects an honest style straight away, using "pravdu" (from "pravda", "truth") alongside "skazhu" ("I'll tell") to shape the meaning.
-- 'I do not believe in these tricks.' Barinov strikes a steady line as the scene unfolds, using "shtuchki" (from "shtuchka", "tricks, little things") alongside "veryu" ("believe") to shape the meaning.
-- 'I see that you are connected with food.' Eva brings a brisk tempo with Barinov, leaning on "vizhu" ("see") before closing the thought with "svyazan" ("connected, tied").
-- 'Everything about me is written on the internet.' Barinov favors a thoughtful direction as they talk, combining "tam" ("there") and "napisano" ("is written") so the key meaning lands right away.
-- 'Just look into my eyes.' Eva holds a serious course as they talk, building the phrase around "glaza" ("eyes") and "posmotri" ("look") for a crisp, natural delivery.
-- 'A big promotion awaits you today.' Eva keeps an emphatic line straight away, pairing "segodnya" ("today") with "zhdyot" ("is waiting") to get the point across in plain spoken Russian.
-- 'What kind of promotion awaits me?' Barinov questions lightly to Eva here, anchoring the Russian line on "yeshchyo" ("more, still") and "povysheniye" ("raise") without extra filler.
-- 'Two people will ask to help a friend.' Eva favors a warm stance without hesitation, weaving "cheloveka" ("a man, a person") together with "poprosyat" ("to ask, to request") just the way native speakers do.
-- 'Mikhail Dzhekovich needs help right now.' Barinov holds an unhurried style right away, linking "seychas" ("now"), "nuzhna" ("needed"), and "pomoshch" ("help") in one brisk exchange.
-- 'Are you a normal person at all?' Nastya probes quietly in the scene, combining "voobshche" ("at all") and "normalnyy" ("decent, normal") so the key meaning lands right away.
-- 'Do you mind that this is our sink?' Nastya checks evenly in the scene, joining "rakovina" ("sink") to "nichego" ("nothing") so every word pulls its weight.
-- 'I still need to stop by the store.' Nastya conveys a measured tone during the exchange, putting "yeshchyo" ("more, still") alongside "magazin" ("shop") in a tight, everyday turn of phrase.
+- 'I will tell you the whole truth.' Eva underscores one sharp word in earnest: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
+- 'I do not believe in these tricks.' Barinov replies wryly during the talk, before Nastya can change the subject.
+- 'I see that you are connected with food.' Eva continues earnestly before Barinov, letting the remark speak for itself.
+- 'Everything about me is written on the internet.' Barinov favors one clear touch with Nastya: "internete" means "internet" (from "internet"), giving the line its exact edge.
+- 'Just look into my eyes.' Eva centers this clear element toward Barinov: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
+- 'A big promotion awaits you today.' Eva counters quietly to be clear, grounding the moment in plain reality.
+- 'What kind of promotion awaits me?' Barinov colors one loaded word toward Eva: "povysheniye" means "raise" (from "povysheniy"), giving the line its exact edge.
+- 'Two people will ask to help a friend.' Eva speaks up plainly during the talk, bringing things back to earth after the buildup.
+- 'Mikhail Dzhekovich needs help right now.' Barinov proceeds evenly with a nod, so Eva knows he is not just making small talk.
+- 'Are you a normal person at all?' Nastya reaches for one clear choice in reply: "normalnyy" means "decent, normal", and it carries the main weight of what Nastya is saying.
+- 'Do you mind that this is our sink?' Nastya makes this answer with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I still need to stop by the store.' Nastya fires back decisively with Eva, steering the talk right where she wants it.

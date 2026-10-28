@@ -41,7 +41,7 @@ WALK = [
     (7, None, "'I need one small friendly favor.' Smoothly outlining his terms, Rodion explains his price for returning the cargo."),
     (8, None, "'We can pay you a little money.' Max offers a standard cash bribe, hoping to resolve it cheaply."),
     (9, None, "'No, I want a luxurious lunch here.' Rejecting the cash, Rodion insists on a five-star dining experience."),
-    (10, None, "'But the guards won' Max points out the obvious flaw that a homeless man won't get past the door."),
+    (10, None, "'But the guards won't let you inside!' Max points out the obvious flaw that a homeless man won't get past the door."),
     (11, None, "'Then find me suitable clean clothes.' Calmly instructing them, Rodion demands a disguise for his grand entrance."),
     (12, None, "'Alright, let's go quickly into our locker room.' Max relents and leads the strange man inside to raid the staff lockers."),
 ]

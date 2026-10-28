@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, good afternoon.' Max favors an unhurried direction at once, combining "zdravstvuyte" ("hello") and "allo" ("hello") so the key meaning lands right away.
-- 'He cannot come to the phone right now.' Vika displays a natural note without hesitation, combining "seychas" ("now") and "mozhet" ("can") so the key meaning lands right away.
-- 'Hello, I am a friend of his.' Nastya keeps a measured position at this moment, combining "drug" ("friend") and "zdraste" ("hello, hi") so the key meaning lands right away.
-- 'Oh, it is good that you called.' Max maintains a candid posture on the spot, anchoring the Russian line on "khorosho" ("good, fine") and "pozvonili" ("called") without extra filler.
-- 'I have bad news for you.' Vika takes a sharp tempo straight away, building the phrase around "plokhiye" ("bad") and "novosti" ("the news") for a crisp, natural delivery.
-- 'We lost him.' Nastya strikes a sharp attitude right away, using "poteryali" (from "poteryat", "lost") alongside "my" ("we") to shape the meaning.
-- 'He walked out into the hallway and disappeared somewhere.' Max favors a candid note as they talk, anchoring the Russian line on "vyshel" ("stepped out") and "koridor" ("hall, corridor") without extra filler.
-- 'Now we cannot find him anywhere.' Vika chooses a lively angle in front of Nastya, building the phrase around "teper" ("now") and "mozhem" ("can") for a crisp, natural delivery.
-- 'Wait a second, so he is alive?' Nastya queries briskly beside Max, using "podozhdite" (from "podozhdat", "wait") alongside "zhivoy" ("alive") to shape the meaning.
-- 'Listen, was that you playing a prank?' Max queries directly at this point, building the phrase around "slushay" ("listen") and "poshutil" ("to joke") for a crisp, natural delivery.
-- 'Well, where are you?' Vika asks quietly on the spot, placing "gde" ("where") straight beside "nu" ("oh, come on") with no word for "to be" needed.
-- 'It looks like I ate something bad.' Nastya takes a resolute posture right away, leaning on "pokhodu" ("apparently") before closing the thought with "sel" ("to sit down").
-- 'So here I am lying down and resting.' Max sustains a natural bearing beside Nastya, linking "lezhu" ("to lie, to rest"), "otdykhayu" ("am resting"), and "vot" ("there, here") in one brisk exchange.
+- 'Hello, good afternoon.' Max favors one clear element at once: "zdravstvuyte" means "hello", and it carries the main weight of what Max is saying.
+- 'He cannot come to the phone right now.' Vika offers the reply frankly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Hello, I am a friend of his.' Nastya counters firmly hearing Max, to clear the air between them once and for all.
+- 'Oh, it is good that you called.' Max frames one telling detail on cue: "pozvonili" means "called" (from "pozvonit"), giving the line its exact edge.
+- 'I have bad news for you.' Vika frames the remark beside Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'We lost him.' Nastya replies sharply with Vika, making her position completely clear.
+- 'He walked out into the hallway and disappeared somewhere.' Max highlights this telling term toward Nastya: "koridor" means "hall, corridor", and it carries the main weight of what Max is saying.
+- 'Now we cannot find him anywhere.' Vika responds plainly toward Nastya, keeping the focus on what actually matters here.
+- 'Wait a second, so he is alive?' Nastya presses earnestly how Max expects that to work in practice.
+- 'Listen, was that you playing a prank?' Max sharpens this telling detail in earnest: "poshutil" means "to joke" (from "poshutit"), giving the line its exact edge.
+- 'Well, where are you?' Vika brings that line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It looks like I ate something bad.' Nastya speaks right away beside Vika, so Vika knows she is not just making small talk.
+- 'So here I am lying down and resting.' Max picks this direct touch right here: "otdykhayu" means "am resting" (from "otdykhat"), giving the line its exact edge.

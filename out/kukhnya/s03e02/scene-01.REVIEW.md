@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is the most important thing in a waiter's job?' Max queries lightly as they speak, linking "samoye" ("the most"), "vazhnoye" ("important"), and "rabote" ("work") in one brisk exchange.
-- 'Manners? Politeness?' Max queries candidly in the room, leaning on "manery" ("manners") before closing the thought with "vezhlivost" ("politeness").
-- 'Spectacular presentation of dishes makes them tastier.' Max establishes a measured course as the scene unfolds, combining "effektnaya" ("spectacular") and "podacha" ("presentation") so the key meaning lands right away.
-- 'An individual approach?' Max prompts naturally in this moment, pairing "individualnyy" ("individual") with "podkhod" ("approach") to get the point across in plain spoken Russian.
-- 'Right, I am not allowed to have this. This either.' The guest brings a calm note for Max, linking "nelzya" ("not allowed") directly with "tozhe" ("too"), since Russian drops "is" and "are" in the present.
-- 'In my opinion, the main thing is patience.' Max establishes a sharp attitude at once, weaving "po-moyemu" ("in my opinion") together with "glavnoye" ("important") just the way native speakers do.
-- 'You know what, give me a coffee.' The guest displays a direct style without hesitation, putting "znayete" ("know") alongside "dayte" ("give") in a tight, everyday turn of phrase.
-- 'And that is all.' The guest holds a candid position with Max, leaning on "vsyo" ("everything") as a compact, one-word response that needs no extra words.
-- 'What are you doing? He ordered just coffee!' Max prompts steadily as the beat lands, linking "delayesh" ("are you doing"), "zakazal" ("ordered"), and "prosto" ("just") in one brisk exchange.
-- 'Coffee? Yes, give me an espresso coffee.' The guest probes naturally in the room, linking "kofe" ("of coffee"), "dayte" ("give"), and "espresso" ("espresso") in one brisk exchange.
-- 'And here, keep the change.' The guest shares a candid direction on the spot, combining "sdachi" ("change, surrender") and "nado" ("it is necessary") so the key meaning lands right away.
-- 'Sometimes patience is very generously rewarded.' Max displays a candid view toward the guest, pairing "poroy" ("at times, occasionally") with "terpeniye" ("patience") to get the point across in plain spoken Russian.
+- 'What is the most important thing in a waiter's job?' Max emphasizes one colorful word in reply: "ofitsianta" means "waiter" (from "ofitsiant"), giving the line its exact edge.
+- 'Manners? Politeness?' Max gives the reply with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'Spectacular presentation of dishes makes them tastier.' Max cuts in firmly to be clear, grounding the moment in plain reality.
+- 'An individual approach?' Max reaches for one key element right here: "individualnyy" means "individual", and it carries the main weight of what Max is saying.
+- 'Right, I am not allowed to have this. This either.' The guest aims the thought for Max: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'In my opinion, the main thing is patience.' Max cuts in promptly without a pause, bringing things back to earth after the buildup.
+- 'You know what, give me a coffee.' The guest features one key piece at once: "znayete" means "know" (from "znat"), giving the line its exact edge.
+- 'And that is all.' The guest hands over this answer to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What are you doing? He ordered just coffee!' Max tests calmly about what the guest just brought up.
+- 'Coffee? Yes, give me an espresso coffee.' The guest reaches for one sharp expression for Max: "espresso" means "espresso", and it carries the main weight of what the guest is saying.
+- 'And here, keep the change.' The guest drops the comeback before Max: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Sometimes patience is very generously rewarded.' Max pushes back bluntly with the guest, saying out loud what both of them already know.

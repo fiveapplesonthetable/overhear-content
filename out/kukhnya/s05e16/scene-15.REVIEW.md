@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dasha, I urgently need to go back right this second!' Max establishes a calm attitude in the scene, pairing "seychas" ("now") with "srochno" ("urgent, urgently") so the "-sya" ending carries the action.
-- 'Why? What suddenly happened with you in Moscow?' Eleonora asks firmly to Mikhail here, anchoring the Russian line on "zachem" ("what for") and "vdrug" ("suddenly, what if") without extra filler.
-- 'My ex-wife is giving birth to my baby right now!' Max chooses an easygoing manner beside Eleonora, linking "byvshaya" ("former"), "zhena" ("wife"), and "pryamo" ("right, just") in one brisk exchange.
-- 'Alright, once we land in Sochi you will fly back on the very first flight.' Eleonora chooses a direct posture in the conversation, pairing "khorosho" ("good, fine") with "priletim" ("to arrive, to fly in") to get the point across in plain spoken Russian.
-- 'No, tell me, can we turn the plane around right now?' Max tests evenly in this moment, putting "skazhi" ("say") alongside "mozhem" ("can") in a tight, everyday turn of phrase.
-- 'Max, what are you talking about, that costs a lot of money!' Eleonora presents a lively manner in the scene, pairing "stoit" ("is parked") with "bolshikh" ("big") to get the point across in plain spoken Russian.
-- 'Dasha, is there a parachute anywhere on this plane?' Max queries calmly without a pause, leaning on "zdes" ("here") before closing the thought with "samolyote" ("airplane, aircraft").
-- 'Max, have you lost your mind? Call them one more time!' Eleonora asks openly without holding back, combining "uma" ("mind") and "soshyol" ("gone") so the key meaning lands right away.
-- 'We just took off, I will jump and catch a car!' Max strikes an earnest direction in front of Eleonora, joining "tolko" ("only") to "vzleteli" ("take off") so every word pulls its weight.
-- 'Gulya, well then, has Eleonora Andreyevna arrived in the hall yet?' Mikhail asks warmly beside Max, combining "uzhe" ("already, now") and "prishla" ("came") so the key meaning lands right away.
-- 'She asked to have dinner brought to her room for two people.' Eleonora takes a serious note at this moment, building the phrase around "poprosila" ("asked") and "otnesti" ("to carry to") for a crisp, natural delivery.
-- 'That means one person is waiting in the room for the second person!' Mikhail adopts a steady attitude as they talk, leaning on "znachit" ("then, so") before closing the thought with "persona" ("person").
+- 'Dasha, I urgently need to go back right this second!' Max cuts in sharply toward Eleonora, letting the remark speak for itself.
+- 'Why? What suddenly happened with you in Moscow?' Eleonora leans on one telling word with Mikhail: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'My ex-wife is giving birth to my baby right now!' Max responds calmly in this moment, bringing things back to earth after the buildup.
+- 'Alright, once we land in Sochi you will fly back on the very first flight.' Eleonora responds dryly before Mikhail, before Mikhail can change the subject.
+- 'No, tell me, can we turn the plane around right now?' Max colors this telling element in reply: "samolyot" means "plane", and it carries the main weight of what Max is saying.
+- 'Max, what are you talking about, that costs a lot of money!' Eleonora emphasizes one concrete element in reply: "bolshikh" means "big" (from "bolshoy"), giving the line its exact edge.
+- 'Dasha, is there a parachute anywhere on this plane?' Max questions quietly how Eleonora expects that to work in practice.
+- 'Max, have you lost your mind? Call them one more time!' Eleonora spotlights one vivid word right here: "yeshchyo" means "more, still", and it carries the main weight of what Eleonora is saying.
+- 'We just took off, I will jump and catch a car!' Max replies briskly before Eleonora, to clear the air between them once and for all.
+- 'Gulya, well then, has Eleonora Andreyevna arrived in the hall yet?' Mikhail challenges evenly why things suddenly took this turn between them.
+- 'She asked to have dinner brought to her room for two people.' Eleonora points to one classic detail in earnest: "poprosila" means "asked" (from "poprosit"), giving the line its exact edge.
+- 'That means one person is waiting in the room for the second person!' Mikhail reacts warmly around Max, making his position completely clear.

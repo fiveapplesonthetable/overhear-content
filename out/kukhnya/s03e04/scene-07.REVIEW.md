@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Timur.' Barinov maintains a clear attitude toward Senya, leaning on "spasibo" ("thank you") before closing the thought with "timur" ("Timur").
-- 'Don't mention it, Chef. You owe me three thousand.' Timur brings an unhurried position in this beat, putting "tysyachi" ("thousands") alongside "tri" ("three") in a tight, everyday turn of phrase.
-- 'What three thousand? You said it was a gift!' Barinov checks lightly without holding back, using "tysyachi" (from "tysyacha", "thousands") alongside "skazal" ("said") to shape the meaning.
-- 'Chef, well you know how much the tickets cost.' Timur maintains a natural bearing at once, combining "znayesh" ("know") and "skolko" ("how much, so much") so the key meaning lands right away.
-- 'For three thousand, consider it a gift.' Timur presents a warm style with Barinov, pairing "tysyachi" ("thousands") with "schitay" ("consider, count it") to get the point across in plain spoken Russian.
-- 'Ten thousand on Spartak for tomorrow's game.' Barinov holds a resolute view straight away, joining "tysyach" ("thousand") to "zavtrashnyuyu" ("tomorrow's") so every word pulls its weight.
-- 'I am just having a lucky day today!' Barinov sustains a sharp footing during the exchange, linking "prosto" ("just"), "segodnya" ("today"), and "vezyot" ("is lucky") in one brisk exchange.
-- 'Chef, are you all right?' Senya probes honestly during the talk, anchoring the Russian line on "poryadke" ("order") and "shef" ("Chef") without extra filler.
-- 'Better than ever! This is my gold cutter for cigars.' Barinov conveys a steady footing with Senya, pairing "yeshchyo" ("more, still") with "zolotaya" ("golden, gold") to get the point across in plain spoken Russian.
-- 'I have been looking for it for a year, and it is lying around here.' Barinov chooses a frank direction as they talk, combining "god" ("year") and "ishchu" ("am looking for") so the key meaning lands right away.
-- 'And you thought I stole it! Chef, I demand an apology.' Senya conveys an earnest style in the conversation, joining "dumali" ("thought") to "ukral" ("stole") so every word pulls its weight.
-- 'Anything that is not edible, he doesn't steal.' Barinov takes an earnest tack at this moment, joining "syedobno" ("edible") to "voruyet" ("steals") so every word pulls its weight.
+- 'Thank you, Timur.' Barinov spotlights one direct word at once: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
+- 'Don't mention it, Chef. You owe me three thousand.' Timur reaches for this sharp touch for Senya: "tysyachi" means "thousands" (from "tysyacha"), giving the line its exact edge.
+- 'What three thousand? You said it was a gift!' Barinov quizzes briskly how Senya expects that to work in practice.
+- 'Chef, well you know how much the tickets cost.' Timur spotlights one colorful choice right here: "bilety" means "tickets" (from "bilet"), giving the line its exact edge.
+- 'For three thousand, consider it a gift.' Timur follows up earnestly as things stand, bringing things back to earth after the buildup.
+- 'Ten thousand on Spartak for tomorrow's game.' Barinov proceeds promptly in this moment, bringing things back to earth after the buildup.
+- 'I am just having a lucky day today!' Barinov focuses on one classic expression for Senya: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
+- 'Chef, are you all right?' Senya voices this update briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Better than ever! This is my gold cutter for cigars.' Barinov fires back openly around Senya, testing Senya's reaction in the middle of the exchange.
+- 'I have been looking for it for a year, and it is lying around here.' Barinov reaches for one classic element in earnest: "valyayetsya" means "is lying around" (from "valyatsya"), giving the line its exact edge.
+- 'And you thought I stole it! Chef, I demand an apology.' Senya sharpens one vivid touch in reply: "izvineniy" means "apologies" (from "izvineniye"), giving the line its exact edge.
+- 'Anything that is not edible, he doesn't steal.' Barinov speaks quietly as things stand, steering the talk right where he wants it.

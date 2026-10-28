@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well that is it, pal, you are trapped now.' Senya projects an easygoing mood in this beat, pairing "paren" ("boyfriend") with "popal" ("hit") to get the point across in plain spoken Russian.
-- 'Why am I suddenly trapped?' Max presses directly in this moment, putting "vdrug" ("suddenly, what if") alongside "popal" ("hit") in a tight, everyday turn of phrase.
-- 'Our Chef breaks up with a woman.' Senya projects a pointed tempo in front of Barinov, using "rasstayotsya" (from "rasstavatsya", "breaks up, parts ways") alongside "zhenshchinoy" ("a woman") to shape the meaning.
-- 'Then he sinks into a deep sadness.' Senya strikes a calm angle as the scene unfolds, joining "potom" ("then") to "ukhodit" ("leaves") so every word pulls its weight.
-- 'He gets very bored being alone there.' Senya keeps an easygoing tempo in the room, building the phrase around "tam" ("there") and "ochen" ("very much") for a crisp, natural delivery.
-- 'Stop lecturing me, I am working.' Max shares a direct posture on the spot, putting "khvatit" ("enough") alongside "lechit" ("to lecture") in a tight, everyday turn of phrase.
-- 'The next stage of friendship awaits you.' Senya displays a brisk approach in front of Barinov, leaning on "zhdyot" ("is waiting") before closing the thought with "sleduyushchaya" ("next, following").
-- 'Buddy, I really need you right now.' Barinov sustains an honest manner at this moment, linking "druzhishche" ("buddy"), "ochen" ("very much"), and "nuzhen" ("is needed") in one brisk exchange.
-- 'Chef, it is the middle of the night right now.' Max displays an earnest view in front of Barinov, weaving "seychas" ("now") together with "uzhe" ("already, now") just the way native speakers do.
-- 'Take a taxi and come to me.' Barinov chooses a warm attitude across the room, putting "beri" ("take, grab") alongside "taksi" ("taxi") in a tight, everyday turn of phrase.
-- 'This is a matter of life and death.' Barinov establishes a clear footing in the scene, pairing "delo" ("matter") with "zhizni" ("life") to get the point across in plain spoken Russian.
-- 'Alright, Chef, I am heading out now.' Max favors a resolute posture with Senya, linking "khorosho" ("good, fine"), "uzhe" ("already, now"), and "vyyezzhayu" ("am driving out") in one brisk exchange.
+- 'Well that is it, pal, you are trapped now.' Senya jumps in sharply with a smile, without trying to dress up how he really feels.
+- 'Why am I suddenly trapped?' Max grounds one sharp element on cue: "vdrug" means "suddenly, what if", and it carries the main weight of what Max is saying.
+- 'Our Chef breaks up with a woman.' Senya jumps in openly with a nod, leaving no doubt about where he stands.
+- 'Then he sinks into a deep sadness.' Senya replies firmly before Max, so Max knows he is not just making small talk.
+- 'He gets very bored being alone there.' Senya underscores this clear element for Barinov: "skuchno" means "boring", and it carries the main weight of what Senya is saying.
+- 'Stop lecturing me, I am working.' Max opens up warmly before Senya, to clear the air between them once and for all.
+- 'The next stage of friendship awaits you.' Senya pushes back evenly on the spot, grounding the moment in plain reality.
+- 'Buddy, I really need you right now.' Barinov uses this vivid touch on cue: "druzhishche" means "buddy", and it carries the main weight of what Barinov is saying.
+- 'Chef, it is the middle of the night right now.' Max voices this update around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Take a taxi and come to me.' Barinov responds lightly with a smile, before Senya can change the subject.
+- 'This is a matter of life and death.' Barinov reaches for this vivid touch on cue: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
+- 'Alright, Chef, I am heading out now.' Max voices the reaction with ease: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".

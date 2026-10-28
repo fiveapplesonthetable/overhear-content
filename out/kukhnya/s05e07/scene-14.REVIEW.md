@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We got hungry after yoga.' Vika presents a warm angle across the room, anchoring the Russian line on "progolodalis" ("to get hungry") and "yogi" ("yoga") without extra filler.
-- 'You will gladly treat the girls to dinner.' Vika strikes a grounded angle without hesitation, using "udovolstviyem" (from "udovolstviye", "pleasure") alongside "ugostish" ("will treat") to shape the meaning.
-- 'After all, this is your restaurant and hotel.' Vika keeps a calm bearing as the scene unfolds, leaning on "restoran" ("restaurant") before closing the thought with "otel" ("hotel").
-- 'And here is the owner of this splendor.' Vika strikes a direct style in front of Max, joining "khozyain" ("owner") to "velikolepiya" ("splendor") so every word pulls its weight.
-- 'It is so beautiful here, thank you for inviting us.' Kostya holds a wry direction at once, joining "krasivo" ("beautifully") to "spasibo" ("thank you") so every word pulls its weight.
-- 'You are welcome, excuse my appearance.' Max shares a resolute approach for Vika, pairing "izvinite" ("sorry, excuse me") with "vneshniy" ("outward, external") to get the point across in plain spoken Russian.
-- 'I love cooking, it is my passion.' Max displays a calm line in the scene, pairing "lyublyu" ("love") with "gotovit" ("to cook") to get the point across in plain spoken Russian.
-- 'And I also have to keep an eye on the subordinates.' Max adopts a sharp view in front of Vika, leaning on "podchinyonnymi" ("with subordinates") before closing the thought with "nuzhno" ("necessary").
-- 'Good evening, a bottle of red wine, the best in our cellar.' Kostya takes a measured attitude beside Max, joining "dobryy" ("good") to "vecher" ("evening") so every word pulls its weight.
-- 'Are pregnant women really allowed wine?' Max inquires candidly without holding back, combining "beremennym" ("pregnant women") and "mozhno" ("may, can") so the key meaning lands right away.
-- 'Such expensive wine is allowed, one bottle for six people.' Vika maintains a measured bearing in this beat, anchoring the Russian line on "dorogoye" ("expensive") and "mozhno" ("may, can") without extra filler.
-- 'Darling, thank you for your generosity.' Vika projects a firm position in the room, weaving "dorogoy" ("dear") together with "spasibo" ("thank you") just the way native speakers do.
+- 'We got hungry after yoga.' Vika shapes this point in earnest: the "-sya" ending on "progolodalis" ("to get hungry") turns the action inward or makes it happen between people naturally.
+- 'You will gladly treat the girls to dinner.' Vika replies dryly with Max, steering the talk right where she wants it.
+- 'After all, this is your restaurant and hotel.' Vika highlights one sharp choice right here: "restoran" means "restaurant", and it carries the main weight of what Vika is saying.
+- 'And here is the owner of this splendor.' Vika hands over that line with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It is so beautiful here, thank you for inviting us.' Kostya proceeds briskly without a pause, letting the remark speak for itself.
+- 'You are welcome, excuse my appearance.' Max frames one key term right here: "vneshniy" means "outward, external", and it carries the main weight of what Max is saying.
+- 'I love cooking, it is my passion.' Max pushes back evenly with a nod, bringing things back to earth after the buildup.
+- 'And I also have to keep an eye on the subordinates.' Max reacts steadily without any doubt, bringing things back to earth after the buildup.
+- 'Good evening, a bottle of red wine, the best in our cellar.' Kostya focuses on one clear word in reply: "butylochka" means "little bottle", and it carries the main weight of what Kostya is saying.
+- 'Are pregnant women really allowed wine?' Max states that reply on cue: starting the question with "razve" ("really?, is it true that...?") shows Max is pushing back against what he just heard.
+- 'Such expensive wine is allowed, one bottle for six people.' Vika chimes in dryly with a nod, to clear the air between them once and for all.
+- 'Darling, thank you for your generosity.' Vika leans on one colorful term in reply: "shchedrost" means "generosity", and it carries the main weight of what Vika is saying.

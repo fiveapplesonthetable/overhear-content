@@ -30,7 +30,7 @@ STORY = [
     ('fedya', 'Спасибо, я вижу.', 'Thank you, I see it.', [], ''),
 ]
 WALK = [
-    (0, None, "'I didn' Senya expresses his surprise at how pleasant the kitchen is today."),
+    (0, None, "'I didn't think it was so great here.' Senya expresses his surprise at how pleasant the kitchen is today."),
     (1, None, "'It is great everywhere when there is no Max.' Fedya points out that any place is better without Max around."),
     (2, None, "'Yes, it is very quiet today.' Agreeing with the sentiment, Senya remarks on the unusual quietness of the kitchen."),
     (3, None, "'We need to work.' Bringing them back to reality, Fedya reminds his colleague that they still have jobs to do."),

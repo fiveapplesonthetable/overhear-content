@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, why did you take so long?' Mikhail challenges sharply in their exchange, combining "skazhite" ("tell") and "pochemu" ("why") so the key meaning lands right away.
-- 'Do you think it is very easy to lose to them on purpose?' Mikhail checks dryly across the room, weaving "dumayete" ("think") together with "ochen" ("very much") just the way native speakers do.
-- 'They had to rejoice first.' Mikhail maintains a lively view beside Denis, building the phrase around "dolzhny" ("must, should") and "byli" ("be") for a crisp, natural delivery.
-- 'Katya, I have a serious reason.' Denis picks a candid line right away, pairing "yest" ("there is") with "seryoznaya" ("serious") to get the point across in plain spoken Russian.
-- 'Are you simply running away from Sveta right now?' Katya queries steadily with Denis now, combining "seychas" ("now") and "prosto" ("just") so the key meaning lands right away.
-- 'You supposedly proposed to her.' Katya adopts a steady tack right away, putting "predlozheniye" ("offer, proposal") alongside "sdelal" ("did") in a tight, everyday turn of phrase.
-- 'No, she mixed everything up back then.' Denis takes a thoughtful posture toward Katya, pairing "togda" ("back then") with "pereputala" ("to mix up, to confuse") to get the point across in plain spoken Russian.
-- 'We simply misunderstood each other.' Denis presents a sharp stance for Mikhail, anchoring the Russian line on "prosto" ("just") and "nepravilno" ("wrongly") without extra filler.
-- 'So there is nothing between you and Sveta?' Katya inquires honestly at this point, combining "znachit" ("then, so") and "vas" ("you") so the key meaning lands right away.
-- 'I do not know how it happened like this.' Denis displays a calm stance across the room, pairing "znayu" ("know") with "kak" ("how") to get the point across in plain spoken Russian.
-- 'But I love you very much, Katya.' Denis favors a grounded position during the exchange, leaning on "ochen" ("very much") before closing the thought with "lyublyu" ("love").
-- 'Denis, I have decided, I am going with you.' Katya sets a thoughtful style toward Mikhail, linking "reshila" ("decided"), "yedu" ("am driving"), and "denis" ("Denis") in one brisk exchange.
-- 'Nothing holds me here anymore.' Katya brings a frank angle as the scene unfolds, combining "zdes" ("here") and "bolshe" ("more") so the key meaning lands right away.
+- 'Tell me, why did you take so long?' Mikhail makes the remark with ease: putting the question word "pochemu" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'Do you think it is very easy to lose to them on purpose?' Mikhail quizzes plainly how Katya expects that to work in practice.
+- 'They had to rejoice first.' Mikhail spotlights this telling word with Denis: "poradovatsya" means "to rejoice", and it carries the main weight of what Mikhail is saying.
+- 'Katya, I have a serious reason.' Denis gives the comeback without fuss: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Are you simply running away from Sveta right now?' Katya checks earnestly why things suddenly took this turn between them.
+- 'You supposedly proposed to her.' Katya highlights this clear choice on cue: "predlozheniye" means "offer, proposal", and it carries the main weight of what Katya is saying.
+- 'No, she mixed everything up back then.' Denis speaks quietly before Katya, refusing to let the moment slip past.
+- 'We simply misunderstood each other.' Denis follows up promptly with a smile, letting the remark speak for itself.
+- 'So there is nothing between you and Sveta?' Katya stresses this telling detail in reply: "znachit" means "then, so", and it carries the main weight of what Katya is saying.
+- 'I do not know how it happened like this.' Denis directs the reply beside Mikhail: the "-sya" ending on "poluchilos" ("worked out") turns the action inward or makes it happen between people naturally.
+- 'But I love you very much, Katya.' Denis speaks up calmly without holding back, letting the remark speak for itself.
+- 'Denis, I have decided, I am going with you.' Katya spotlights this telling expression right here: "reshila" means "decided" (from "reshit"), giving the line its exact edge.
+- 'Nothing holds me here anymore.' Katya brings the comeback right away: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.

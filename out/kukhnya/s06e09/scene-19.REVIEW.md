@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is my old debt and a new bet.' Barinov brings an emphatic tone in this beat, placing "staryy" ("old") straight beside "dolg" ("debt") with no word for "to be" needed.
-- 'Hello, Lena, hi, I am listening to you carefully.' Barinov displays a pointed footing on the spot, linking "vnimatelno" ("carefully, attentively"), "slushayu" ("I'm listening"), and "allo" ("hello") in one brisk exchange.
-- 'No, not at all, I have been at work for a long time already.' Barinov shows a frank stance toward Denis, linking "uzhe" ("already, now"), "davno" ("for a long time"), and "rabote" ("work") in one brisk exchange.
-- 'Listen, yesterday we both lost our tempers.' Katya takes a grounded view at once, putting "poslushay" ("listen") alongside "vchera" ("yesterday") in a tight, everyday turn of phrase.
-- 'Come home early this evening, alright?' Katya queries steadily with Barinov now, leaning on "vozvrashchaysya" ("return") before closing the thought with "segodnya" ("today").
-- 'Alright, darling, I will definitely come home tonight.' Barinov picks a grounded stance right away, putting "khorosho" ("good, fine") alongside "lyubimaya" ("favourite, beloved") in a tight, everyday turn of phrase.
-- 'Denis, congratulations, you and Sveta are not fired.' Katya sets an honest tempo in front of Barinov, joining "pozdravlyayu" ("congratulations") to "uvoleny" ("to fire") so every word pulls its weight.
-- 'Thank you very much, you simply saved us.' Denis takes a grounded footing beside Katya, leaning on "spasibo" ("thank you") before closing the thought with "bolshoye" ("big, very much").
-- 'If I can still help, just say so.' Katya picks a grounded position straight away, anchoring the Russian line on "yeshchyo" ("more, still") and "mogu" ("can") without extra filler.
-- 'Maybe we can drink coffee together after our shift?' Denis quizzes boldly at this point, weaving "mozhet" ("can") together with "vypyem" ("will drink") just the way native speakers do.
-- 'Maybe we will, if you are free.' Katya keeps a firm approach in this beat, linking "mozhet" ("can"), "vypyem" ("will drink"), and "svoboden" ("free") in one brisk exchange.
-- 'How about we go right this evening?' Denis probes openly to keep things clear, leaning on "davay" ("let's") before closing the thought with "skhodim" ("go, pop over").
-- 'Alright, then get ready quickly after work.' Katya holds a clear manner right away, combining the easygoing tag "ladno" ("okay, fine") with "togda" ("back then") to give the line its natural spoken rhythm.
+- 'Here is my old debt and a new bet.' Barinov emphasizes this telling word on cue: "staryy" means "old", and it carries the main weight of what Barinov is saying.
+- 'Hello, Lena, hi, I am listening to you carefully.' Barinov frames that answer to Katya: opening with the casual greeting "privet" ("hi") signals right away that Barinov and Katya are on familiar terms.
+- 'No, not at all, I have been at work for a long time already.' Barinov steps in quietly to be clear, making his position completely clear.
+- 'Listen, yesterday we both lost our tempers.' Katya frames one loaded element right here: "pogoryachilis" means "lost our temper" (from "pogoryachitsya"), giving the line its exact edge.
+- 'Come home early this evening, alright?' Katya gives this line without pause: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Alright, darling, I will definitely come home tonight.' Barinov holds firm candidly watching Katya, testing Katya's reaction in the middle of the exchange.
+- 'Denis, congratulations, you and Sveta are not fired.' Katya highlights one colorful touch at once: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
+- 'Thank you very much, you simply saved us.' Denis voices this line beside Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'If I can still help, just say so.' Katya holds firm steadily to be clear, steering the talk right where she wants it.
+- 'Maybe we can drink coffee together after our shift?' Denis sharpens one pointed detail on cue: "smeny" means "shift" (from "smena"), giving the line its exact edge.
+- 'Maybe we will, if you are free.' Katya leans on one telling element in earnest: "svoboden" means "free" (from "svobodnyy"), giving the line its exact edge.
+- 'How about we go right this evening?' Denis checks straight out in front of Katya without any preamble.
+- 'Alright, then get ready quickly after work.' Katya frames one key term right here: "sobiraysya" means "gather yourself" (from "sobiratsya"), giving the line its exact edge.

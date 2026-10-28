@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The car is nice, but the owner parked very badly.' Katya shares a lively attitude straight away, combining "mashina" ("a car") and "krasivaya" ("pretty, beautiful") so the key meaning lands right away.
-- 'You certainly cannot buy brains with daddy's money!' Katya conveys a direct note across the room, pairing "um" ("mind, sense") with "papiny" ("dad's, father's") to get the point across in plain spoken Russian.
-- 'Women need surprises full of intrigue and romance.' Max takes an earnest stance straight away, weaving "zhenshchinam" ("women") together with "nuzhny" ("needed") just the way native speakers do.
-- 'Even if they come from some mysterious stranger.' Max shares a direct rhythm as the scene unfolds, putting "tainstvennogo" ("mysterious") alongside "neznakomtsa" ("stranger") in a tight, everyday turn of phrase.
-- 'Max Lavrov? Hi, let's hug right away!' The guest probes frankly right away, putting "davay" ("let's") alongside "skoreye" ("quickly, right away") in a tight, everyday turn of phrase.
-- 'Hi, Dasha, how glad I am to see you!' Max adopts a warm tack across the room, leaning on "kak" ("how") before closing the thought with "rad" ("glad").
-- 'You and I stayed good friends, remember?' The guest presses firmly across the room, pairing "ostalis" ("stayed, were left") with "khoroshimi" ("good, nice") to get the point across in plain spoken Russian.
-- 'Yes, of course I remember, that did happen.' Max keeps a resolute footing with Katya, joining "konechno" ("of course") to "pomnyu" ("remember") so every word pulls its weight.
-- 'Tell me honestly, Max, are you married now?' The guest quizzes plainly in this moment, joining "skazhi" ("say") to "chestno" ("honestly") so every word pulls its weight.
-- 'Why no, not at all, I am already divorced.' Max brings a serious tone toward Katya, linking "uzhe" ("already, now"), "razvedyon" ("divorced"), and "da" ("yes") in one brisk exchange.
-- 'Then why is there a wedding ring on your finger?' The guest challenges calmly from the start, pairing "pochemu" ("why") with "togda" ("back then") to get the point across in plain spoken Russian.
-- 'It just will not come off at all, it is completely stuck!' Max keeps a thoughtful course as the scene unfolds, leaning on "prosto" ("just") before closing the thought with "nikak" ("in no way").
+- 'The car is nice, but the owner parked very badly.' Katya colors this vivid piece right here: "priparkovalsya" means "park" (from "priparkovatsya"), giving the line its exact edge.
+- 'You certainly cannot buy brains with daddy's money!' Katya fires back decisively with a smile, before Max can change the subject.
+- 'Women need surprises full of intrigue and romance.' Max speaks right away in this moment, steering the talk right where he wants it.
+- 'Even if they come from some mysterious stranger.' Max highlights one classic piece at once: "tainstvennogo" means "mysterious" (from "tainstvennyy"), giving the line its exact edge.
+- 'Max Lavrov? Hi, let's hug right away!' The guest hands over that point right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Hi, Dasha, how glad I am to see you!' Max reacts openly watching Katya, so Katya knows he is not just making small talk.
+- 'You and I stayed good friends, remember?' The guest favors one colorful piece with Katya: "khoroshimi" means "good, nice" (from "khoroshiy"), giving the line its exact edge.
+- 'Yes, of course I remember, that did happen.' Max counters bluntly with a shrug, testing Katya's reaction in the middle of the exchange.
+- 'Tell me honestly, Max, are you married now?' The guest questions point-blank where this conversation is heading next.
+- 'Why no, not at all, I am already divorced.' Max reaches for one familiar term on cue: "razvedyon" means "divorced" (from "razvedyonnyy"), giving the line its exact edge.
+- 'Then why is there a wedding ring on your finger?' The guest makes that line frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It just will not come off at all, it is completely stuck!' Max counters plainly with Katya, so Katya knows he is not just making small talk.

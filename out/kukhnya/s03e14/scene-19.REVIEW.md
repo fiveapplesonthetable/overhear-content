@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You forgot to add nutmeg to the sauce again!' Barinov establishes an unhurried position as the scene unfolds, building the phrase around "opyat" ("again") and "zabyl" ("forgot") for a crisp, natural delivery.
-- 'I have not taught you enough in the kitchen!' Barinov sets a pointed angle toward Max, joining "malo" ("little, not enough") to "uchil" ("to learn, to teach") so every word pulls its weight.
-- 'You scoundrel, where do you think you are going!' Barinov adopts a wry position with the guest, pairing "negodyay" ("scoundrel, rascal") with "kuda" ("where to") to get the point across in plain spoken Russian.
-- 'What a wild man, God forbid working for him!' The guest presents an unhurried footing across the room, building the phrase around "muzhik" ("a real man") and "day" ("give") for a crisp, natural delivery.
-- 'Somehow I am afraid to go back in there now.' The guest chooses a frank rhythm as they talk, anchoring the Russian line on "uzhe" ("already, now") and "boyus" ("am afraid") without extra filler.
-- 'If I take the fork in the wrong hand, he will stab me right away!' The guest holds a thoughtful footing toward Max, joining "ruku" ("hand") to "vilku" ("a fork") so every word pulls its weight.
-- 'Alright, fellas, take care, good luck to everyone!' The guest chooses a grounded position at once, weaving "muzhiki" ("lads, guys") together with "davayte" ("let's") just the way native speakers do.
-- 'Thank you so much for your help, Chef!' Max picks a candid tempo for the guest, leaning on "ogromnoye" ("huge, so very much") before closing the thought with "spasibo" ("thank you").
-- 'Get back into the kitchen and work immediately!' Barinov brings a resolute stance in the scene, pairing "nemedlenno" ("immediately") with "poshyol" ("went, set off") to get the point across in plain spoken Russian.
-- 'I think I will head home right now too.' Max sustains a candid approach as they talk, joining "tozhe" ("too") to "seychas" ("now") so every word pulls its weight.
-- 'In short, Katya, you and I need to break up.' Max sustains a clear footing without hesitation, putting "obshchem" ("short, so") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'I am not right for you, I wish you happiness in your personal life!' Max brings a measured direction for the guest, pairing "podkhozhu" ("walk up, approach") with "schastya" ("happiness") to get the point across in plain spoken Russian.
+- 'You forgot to add nutmeg to the sauce again!' Barinov leans on this key term on cue: "muskat" means "nutmeg", and it carries the main weight of what Barinov is saying.
+- 'I have not taught you enough in the kitchen!' Barinov features one classic term for Max: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'You scoundrel, where do you think you are going!' Barinov reacts boldly before the guest, keeping the focus on what actually matters here.
+- 'What a wild man, God forbid working for him!' The guest leans on one telling piece with Max: "muzhik" means "a real man", and it carries the main weight of what the guest is saying.
+- 'Somehow I am afraid to go back in there now.' The guest frames the reaction in earnest: the "-sya" ending on "vozvrashchatsya" ("to return") turns the action inward or makes it happen between people naturally.
+- 'If I take the fork in the wrong hand, he will stab me right away!' The guest proceeds candidly beside Max, grounding the moment in plain reality.
+- 'Alright, fellas, take care, good luck to everyone!' The guest anchors this clear element toward Barinov: "muzhiki" means "lads, guys" (from "muzhik"), giving the line its exact edge.
+- 'Thank you so much for your help, Chef!' Max puts that reply with ease: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Get back into the kitchen and work immediately!' Barinov continues decisively as they talk, grounding the moment in plain reality.
+- 'I think I will head home right now too.' Max grounds one loaded touch in earnest: "seychas" means "now", and it carries the main weight of what Max is saying.
+- 'In short, Katya, you and I need to break up.' Max shapes that answer plainly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'I am not right for you, I wish you happiness in your personal life!' Max continues decisively as things stand, to clear the air between them once and for all.

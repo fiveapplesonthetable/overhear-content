@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am married to an ideal woman.' Max strikes a frank posture in the scene, putting "zhenat" ("married") alongside "idealnoy" ("ideal, perfect") in a tight, everyday turn of phrase.
-- 'That is a good thing, isn't it?' Kostya presses firmly in front of Max, anchoring the Russian line on "khorosho" ("good, fine") and "eto" ("this") without extra filler.
-- 'Kostya, what is good about that?' Max probes wryly as the talk turns, putting "khoroshego" ("good, the best") alongside "kostya" ("Kostya") in a tight, everyday turn of phrase.
-- 'She has no flaws at all.' Max offers a sharp stance with Kostya, using "nedostatkov" (from "nedostatk", "all") alongside "neyo" ("her") to shape the meaning.
-- 'It is impossible to find fault with her.' Max picks a sharp line for Kostya, pairing "nevozmozhno" ("impossible") with "pridratsya" ("to fault") to get the point across in plain spoken Russian.
-- 'Well, I don't know, Max.' Kostya brings a direct footing toward Max, leaning on "znayu" ("know") before closing the thought with "nu" ("oh, come on").
-- 'It is a sin for the two of us to complain.' Kostya adopts an easygoing note across the room, linking "voobshche" ("at all"), "grekh" ("sin"), and "zhalovatsya" ("complain") in one brisk exchange.
-- 'You and I got lucky.' Kostya picks an emphatic angle at once, putting "povezlo" ("it was lucky") alongside "nam" ("us") in a tight, everyday turn of phrase.
-- 'Who else would fry pancakes like these?' Kostya tests lightly as the beat lands, building the phrase around "yeshchyo" ("more, still") and "blinov" ("pancakes") for a crisp, natural delivery.
-- 'Listen, Vika has never baked pancakes for me.' Max projects an easygoing footing straight away, joining "slushay" ("listen") to "nikogda" ("never") so every word pulls its weight.
-- 'She has never cooked anything for me at all.' Max conveys a candid position in front of Kostya, leaning on "voobshche" ("at all") before closing the thought with "gotovila" ("to cook, to prepare").
-- 'She has been my wife for half a year.' Max offers a sharp angle for Kostya, linking "uzhe" ("already, now"), "polgoda" ("six months"), and "zhena" ("wife") in one brisk exchange.
+- 'I am married to an ideal woman.' Max stresses one pointed word for Kostya: "zhenshchine" means "a woman" (from "zhenshchina"), giving the line its exact edge.
+- 'That is a good thing, isn't it?' Kostya lays out this warning right away: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Kostya, what is good about that?' Max questions frankly where this conversation is heading next.
+- 'She has no flaws at all.' Max voices the comment at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'It is impossible to find fault with her.' Max states that answer with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Well, I don't know, Max.' Kostya continues earnestly across the room, steering the talk right where he wants it.
+- 'It is a sin for the two of us to complain.' Kostya frames one key word toward Max: "zhalovatsya" means "complain", and it carries the main weight of what Kostya is saying.
+- 'You and I got lucky.' Kostya shares the reaction plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Who else would fry pancakes like these?' Kostya prompts calmly as Max tries to explain the situation.
+- 'Listen, Vika has never baked pancakes for me.' Max sharpens this clear detail toward Kostya: "blinov" means "pancakes" (from "blin"), giving the line its exact edge.
+- 'She has never cooked anything for me at all.' Max directs this answer with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'She has been my wife for half a year.' Max weighs in evenly facing Kostya, so Kostya knows he is not just making small talk.

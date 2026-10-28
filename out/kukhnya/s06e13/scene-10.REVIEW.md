@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, they just completely fired me.' Denis adopts a frank rhythm in the conversation, pairing "tolko" ("only") with "sovsem" ("at all") to get the point across in plain spoken Russian.
-- 'You and I did not take that into account.' Kostya offers a calm footing in this beat, using "uchli" (from "uchest", "to take into account") alongside "etogo" ("that") to shape the meaning.
-- 'Alright, then we move on to a new plan.' Kostya shows a direct course in the scene, building the phrase around "togda" ("back then") and "perekhodim" ("to cross, to move on to") for a crisp, natural delivery.
-- 'But I do not have another plan.' Denis sustains a warm view with Kostya, weaving "drugogo" ("other, another") together with "plana" ("plan") just the way native speakers do.
-- 'I need to go and tell everyone the truth.' Denis takes a clear attitude across the room, combining "nado" ("it is necessary") and "poyti" ("go") so the key meaning lands right away.
-- 'I will say that I am not going anywhere.' Denis holds an earnest stance in the scene, building the phrase around "skazhu" ("I'll tell") and "nikuda" ("nowhere, anywhere") for a crisp, natural delivery.
-- 'Alright, please just do not panic right now.' Kostya displays a direct tempo in the scene, pairing "tolko" ("only") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'Did you already talk calmly with Katya?' Kostya inquires lightly toward Denis here, leaning on "uzhe" ("already, now") before closing the thought with "spokoyno" ("calmly").
-- 'I did not have time, everyone came running there.' Denis conveys a candid tack during the exchange, joining "uspel" ("managed in time") to "tam" ("there") so every word pulls its weight.
-- 'First you go and talk with Katya.' Kostya sustains a resolute course beside Denis, joining "snachala" ("first, at first") to "idyosh" ("are coming") so every word pulls its weight.
-- 'Just be sure to return this suit to me.' Barinov sets a candid direction in the room, building the phrase around "tolko" ("only") and "kostyum" ("suit") for a crisp, natural delivery.
-- 'You look simply great in it.' Barinov shows a serious line in this beat, combining the softening word "prosto" ("simply, just") with "otlichno" ("perfect, great") to give the line its natural spoken rhythm.
+- 'Kostya, they just completely fired me.' Denis spotlights one colorful detail toward Barinov: "uvolili" means "to fire, to dismiss" (from "uvolit"), giving the line its exact edge.
+- 'You and I did not take that into account.' Kostya weighs in right away with a sigh, grounding the moment in plain reality.
+- 'Alright, then we move on to a new plan.' Kostya steps in steadily with a shrug, steering the talk right where he wants it.
+- 'But I do not have another plan.' Denis points to one memorable piece with Kostya: "drugogo" means "other, another" (from "drugoy"), giving the line its exact edge.
+- 'I need to go and tell everyone the truth.' Denis puts that reply around Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'I will say that I am not going anywhere.' Denis proceeds candidly as things stand, so Kostya knows he is not just making small talk.
+- 'Alright, please just do not panic right now.' Kostya features this clear detail right here: "seychas" means "now", and it carries the main weight of what Kostya is saying.
+- 'Did you already talk calmly with Katya?' Kostya gives the reaction before Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'I did not have time, everyone came running there.' Denis fires back wryly to settle things, making his position completely clear.
+- 'First you go and talk with Katya.' Kostya uses one loaded choice for Denis: "snachala" means "first, at first", and it carries the main weight of what Kostya is saying.
+- 'Just be sure to return this suit to me.' Barinov answers calmly around Denis, making his position completely clear.
+- 'You look simply great in it.' Barinov steps in firmly with a smile, steering the talk right where he wants it.

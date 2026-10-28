@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today I am accepting the fish myself.' Senya offers a firm tack in the room, joining "segodnya" ("today") to "prinimayu" ("to receive") so every word pulls its weight.
-- 'It has a rather exhausted look.' Senya adopts an easygoing footing for Timur, pairing "zamuchennyy" ("exhausted, worn-out") with "vid" ("view") to get the point across in plain spoken Russian.
-- 'Ride half a day in a truck, you will get tired.' Timur displays a calm tone in the room, linking "pokataysya" ("go for a ride"), "poldnya" ("half a day"), and "gruzovike" ("truck") in one brisk exchange.
-- 'Fyodor, I will sort this out without you.' Senya keeps a frank view without hesitation, building the phrase around "razberus" ("I will sort out") and "fyodor" ("Fyodor") for a crisp, natural delivery.
-- 'Why, it is completely fresh, for sure.' Timur strikes a grounded course in this beat, placing "sovsem" ("at all") straight beside "svezhaya" ("fresh") with no word for "to be" needed.
-- 'I will also give you a good discount.' Timur chooses a pointed tack in front of Senya, putting "yeshchyo" ("more, still") alongside "khoroshuyu" ("good") in a tight, everyday turn of phrase.
-- 'Fine, but take two crates.' Timur presents a sharp mood for Fedya, joining "beri" ("take, grab") to "yashchika" ("box, crate") so every word pulls its weight.
-- 'Listen, well done, you know how to bargain well.' Timur strikes a frank position in front of Senya, pairing "slushay" ("listen") with "molodets" ("well done, good boy") to get the point across in plain spoken Russian.
-- 'Why did you take so much fish?' Fedya wonders promptly to make the point, anchoring the Russian line on "kuda" ("where to") and "stolko" ("so many") without extra filler.
-- 'A Japanese delegation has checked in with us.' Senya shows an unhurried tack in their talk, using "zayekhala" (from "zayekhat", "stopped by") alongside "yaponskaya" ("Japanese") to shape the meaning.
-- 'Mikhail Jekovich demands that we prepare fish.' Senya sustains a brisk rhythm in the conversation, weaving "trebuyet" ("demands") together with "prigotovit" ("to cook, to prepare") just the way native speakers do.
-- 'And tomorrow we will buy even more fish.' Senya keeps a direct note in front of Timur, leaning on "zavtra" ("tomorrow") before closing the thought with "yeshchyo" ("more, still").
+- 'Today I am accepting the fish myself.' Senya weighs in plainly on the spot, bringing things back to earth after the buildup.
+- 'It has a rather exhausted look.' Senya reacts calmly around Timur, before Timur can change the subject.
+- 'Ride half a day in a truck, you will get tired.' Timur features this direct element on cue: "gruzovike" means "truck" (from "gruzovik"), giving the line its exact edge.
+- 'Fyodor, I will sort this out without you.' Senya phrases this update with candor: the "-sya" ending on "razberus" ("I will sort out") turns the action inward or makes it happen between people naturally.
+- 'Why, it is completely fresh, for sure.' Timur replies briskly to settle things, refusing to let the moment slip past.
+- 'I will also give you a good discount.' Timur reaches for one telling detail on cue: "khoroshuyu" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'Fine, but take two crates.' Timur hands over the reaction toward Fedya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Fedya is on board.
+- 'Listen, well done, you know how to bargain well.' Timur replies warmly during the talk, shifting the whole mood of the room in a single beat.
+- 'Why did you take so much fish?' Fedya features one practical expression on cue: "stolko" means "so many", and it carries the main weight of what Fedya is saying.
+- 'A Japanese delegation has checked in with us.' Senya steps in promptly toward Timur, shifting the whole mood of the room in a single beat.
+- 'Mikhail Jekovich demands that we prepare fish.' Senya stands firm warmly with a sigh, making his position completely clear.
+- 'And tomorrow we will buy even more fish.' Senya stresses this clear element at once: "yeshchyo" means "more, still", and it carries the main weight of what Senya is saying.

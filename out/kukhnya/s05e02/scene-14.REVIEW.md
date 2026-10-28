@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A new order for our room.' Senya sets a frank attitude in the scene, combining "novyy" ("new") and "zakaz" ("order") so the key meaning lands right away.
-- 'I am carrying this myself today!' Senya projects a playful direction right away, joining "segodnya" ("today") to "nesu" ("am I babbling") so every word pulls its weight.
-- 'What huge tips they give in there!' Senya picks a natural attitude beside Barinov, combining "tam" ("there") and "ogromnyye" ("huge") so the key meaning lands right away.
-- 'I have never had tips like these before.' Senya shares a sharp tone in this beat, weaving "chayevykh" ("tips") together with "yeshchyo" ("more, still") just the way native speakers do.
-- 'You could at least share with your friends.' Barinov takes a resolute posture in the scene, using "druzyami" (from "drug", "friends") alongside "podelilsya" ("shared") to shape the meaning.
-- 'Immediately take this off the table.' Mikhail brings a direct course in front of Senya, leaning on "nemedlenno" ("immediately") before closing the thought with "uberite" ("take away, remove").
-- 'I do not like it when the meat is poorly cooked.' Mikhail brings a sharp tempo for Barinov, combining "lyublyu" ("love") and "kogda" ("when") so the key meaning lands right away.
-- 'Right now I will redo everything quickly.' Barinov holds a steady angle in the conversation, leaning on "seychas" ("now") before closing the thought with "bystro" ("quickly").
-- 'No need anymore. Bring some coffee.' Mikhail adopts an unhurried tack in this beat, putting "uzhe" ("already, now") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'He is just joking like that today.' Mikhail picks a grounded attitude in this beat, pairing "prosto" ("just") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'This guest got really lucky, right?' Senya inquires frankly in the scene, leaning on "gostyu" ("to the guest") before closing the thought with "ochen" ("very much").
-- 'The president himself would envy service like this.' Senya adopts a sharp posture during the exchange, pairing "obsluzhivaniyu" ("service") with "pozaviduyet" ("will envy") to get the point across in plain spoken Russian.
+- 'A new order for our room.' Senya answers honestly beside Barinov, to clear the air between them once and for all.
+- 'I am carrying this myself today!' Senya jumps in calmly during the talk, before Mikhail can change the subject.
+- 'What huge tips they give in there!' Senya chooses one sharp choice with Barinov: "ogromnyye" means "huge" (from "ogromnyy"), giving the line its exact edge.
+- 'I have never had tips like these before.' Senya sends this warning beside Mikhail: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'You could at least share with your friends.' Barinov speaks openly on the spot, testing Mikhail's reaction in the middle of the exchange.
+- 'Immediately take this off the table.' Mikhail anchors one loaded element right here: "nemedlenno" means "immediately", and it carries the main weight of what Mikhail is saying.
+- 'I do not like it when the meat is poorly cooked.' Mikhail makes that remark right away: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
+- 'Right now I will redo everything quickly.' Barinov proceeds earnestly to be clear, to clear the air between them once and for all.
+- 'No need anymore. Bring some coffee.' Mikhail favors one loaded term toward Barinov: "prinesite" means "bring" (from "prinesti"), giving the line its exact edge.
+- 'He is just joking like that today.' Mikhail aims this warning in earnest: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'This guest got really lucky, right?' Senya quizzes openly as Barinov tries to explain the situation.
+- 'The president himself would envy service like this.' Senya frames one classic expression in earnest: "obsluzhivaniyu" means "service" (from "obsluzhivaniye"), giving the line its exact edge.

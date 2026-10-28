@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will deduct it from your pension.' Senya brings a measured posture in their talk, leaning on "vychtu" ("salary") before closing the thought with "pensii" ("pension, retirement").
-- 'I did not take it.' Max strikes an earnest angle in the room, joining "bral" ("took") to "ya" ("I") so every word pulls its weight.
-- 'Senya. Lyosha.' Max sets a resolute tone without hesitation, leaning on "senya" ("Senya") before closing the thought with "lesha" ("Lyosha").
-- 'Did you take the pastry from right here?' Max tests frankly as they speak, joining "bral" ("took") to "otsyuda" ("from here") so every word pulls its weight.
-- 'No. Senya?' Max checks boldly right away, pairing "net" ("no") with "senya" ("Senya") to get the point across in plain spoken Russian.
-- 'I am crying here.' Max displays a frank tone straight away, building the phrase around "plachu" ("pay") and "ya" ("I") for a crisp, natural delivery.
-- 'And you did not feel anything hard inside?' Senya presses steadily right away, anchoring the Russian line on "pochuvstvoval" ("felt") and "ty" ("you") without extra filler.
-- 'The owner is demanding the dessert right now.' Max sets a brisk manner in the scene, building the phrase around "khozyain" ("owner") and "trebuyet" ("demands") for a crisp, natural delivery.
-- 'It was delicious.' Senya shows a frank view across the room, building the phrase around "bylo" ("was") and "vkusno" ("it's tasty") for a crisp, natural delivery.
-- 'Right around here somewhere.' Max presents an unhurried tone toward Senya, leaning on "gde-to" ("somewhere") before closing the thought with "zdes" ("here").
-- 'This guy already ate it.' Senya projects a serious mood at this moment, building the phrase around "paren" ("boyfriend") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'And where is our dessert?' Max asks evenly for Senya's benefit, building the phrase around "gde" ("where") and "desert" ("dessert") for a crisp, natural delivery.
-- 'Just a couple more minutes.' Senya presents a steady view at once, anchoring the Russian line on "yeshche" ("still") and "paru" ("couple") without extra filler.
+- 'I will deduct it from your pension.' Senya chooses one pointed expression right here: "vychtu" means "salary" (from "vychta"), giving the line its exact edge.
+- 'I did not take it.' Max puts that thought with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Senya. Lyosha.' Max answers openly with a shrug, refusing to let the moment slip past.
+- 'Did you take the pastry from right here?' Max underscores one practical word in reply: "pirozhnoye" means "pastries, cakes", and it carries the main weight of what Max is saying.
+- 'No. Senya?' Max makes that remark around Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'I am crying here.' Max pushes back pointedly with a nod, testing Senya's reaction in the middle of the exchange.
+- 'And you did not feel anything hard inside?' Senya leans on one telling choice with Max: "pochuvstvoval" means "felt" (from "pochuvstvovat"), giving the line its exact edge.
+- 'The owner is demanding the dessert right now.' Max states the comment at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'It was delicious.' Senya steps in lightly watching Max, without trying to dress up how he really feels.
+- 'Right around here somewhere.' Max anchors one telling term for Senya: "gde-to" means "somewhere", and it carries the main weight of what Max is saying.
+- 'This guy already ate it.' Senya jumps in warmly in this moment, letting the remark speak for itself.
+- 'And where is our dessert?' Max quizzes evenly what Senya is actually getting at here.
+- 'Just a couple more minutes.' Senya emphasizes one classic expression at once: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.

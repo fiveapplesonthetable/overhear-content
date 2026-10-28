@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a sweet girl.' Barinov takes a warm stance toward Lyova, combining "milaya" ("darling") and "devochka" ("girl") so the key meaning lands right away.
-- 'Right, Lyova?' Vika presses steadily without holding back, pairing "pravda" ("honestly") with "lyova" ("Lyova") to get the point across in plain spoken Russian.
-- 'When is the wedding?' Lyova probes sharply in the scene, anchoring the Russian line on "kogda" ("when") and "svadba" ("wedding") without extra filler.
-- 'We cannot go to my place.' Barinov chooses a frank attitude as they talk, anchoring the Russian line on "nikak" ("in no way") and "ko" ("to") without extra filler.
-- 'Besides coffee, I also have my mother at home.' Vika picks a direct stance in their talk, weaving "kofe" ("of coffee") together with "yeshchyo" ("more, still") just the way native speakers do.
-- 'She does not like late-night guests.' Lyova maintains a playful angle at this moment, putting "lyubit" ("loves") alongside "pozdnikh" ("hour") in a tight, everyday turn of phrase.
-- 'Actually, she lives with me.' Barinov offers a serious tone across the room, building the phrase around "zhivyot" ("lives") and "eto" ("this") for a crisp, natural delivery.
-- 'Well, then let us both head home.' Vika chooses a measured angle right away, anchoring the Russian line on "togda" ("back then") and "domam" ("homes") without extra filler.
-- 'Ah, apparently so.' Lyova shares a steady view as the scene unfolds, leaning on "vidimo" ("apparently") before closing the thought with "da" ("yes").
-- 'Sorry, forgive me.' Barinov takes a candid approach in the conversation, leaning on "prosti" ("sorry, forgive me") as a compact, one-word response that needs no extra words.
-- 'My car is parked over there.' Vika shares a frank mood without hesitation, joining "tam" ("there") to "mashina" ("a car") so every word pulls its weight.
-- 'Good evening, Viktor Petrovich.' Lyova sustains a playful view in this beat, combining "dobryy" ("good") and "vecher" ("evening") so the key meaning lands right away.
-- 'We are watching the ballet here.' Barinov holds a measured line without hesitation, weaving "tut" ("here") together with "balet" ("ballet") just the way native speakers do.
+- 'What a sweet girl.' Barinov speaks boldly on the spot, to clear the air between them once and for all.
+- 'Right, Lyova?' Vika leans on one telling word on cue: "pravda" means "honestly", and it carries the main weight of what Vika is saying.
+- 'When is the wedding?' Lyova offers that answer on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We cannot go to my place.' Barinov responds boldly during the talk, grounding the moment in plain reality.
+- 'Besides coffee, I also have my mother at home.' Vika emphasizes one colorful piece at once: "yeshchyo" means "more, still", and it carries the main weight of what Vika is saying.
+- 'She does not like late-night guests.' Lyova chimes in plainly on the spot, refusing to let the moment slip past.
+- 'Actually, she lives with me.' Barinov weighs in earnestly during the talk, to clear the air between them once and for all.
+- 'Well, then let us both head home.' Vika reaches for one practical piece toward Lyova: "domam" means "homes", and it carries the main weight of what Vika is saying.
+- 'Ah, apparently so.' Lyova brings that reply in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Sorry, forgive me.' Barinov speaks pointedly in this moment, saying out loud what both of them already know.
+- 'My car is parked over there.' Vika spotlights one vivid expression at once: "mashina" means "a car", and it carries the main weight of what Vika is saying.
+- 'Good evening, Viktor Petrovich.' Lyova directs this answer around Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'We are watching the ballet here.' Barinov proceeds honestly to settle things, leaving no doubt about where he stands.

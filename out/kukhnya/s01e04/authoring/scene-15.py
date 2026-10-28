@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'Chef, can I already go to the kitchen?' Max asks if he can go to the kitchen yet."),
     (2, None, "'Wait! Did you cook lunch for the cooks?' Barinov stops him and asks if he made lunch for the cooks."),
     (3, None, "'Yes, of course, I already made everything.' Max confirms he already made everything."),
-    (4, None, "'Is everything definitely ready? You aren' Barinov questions if it is truly ready and if his employee is deceiving him."),
+    (4, None, "'Is everything definitely ready? You aren't deceiving me?' Barinov questions if it is truly ready and if his employee is deceiving him."),
     (5, None, "'Well, almost cooked, very little is left.' Max clarifies that the meal is almost done."),
     (6, None, "'You are lying to my face again!' Barinov accuses him of lying straight to his face again."),
     (7, None, "'Chef, I never lie to you.' Max insists he never lies to his boss."),

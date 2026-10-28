@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Iosif! Sorry.' Max strikes a grounded stance at once, building the phrase around "izvini" ("sorry, excuse me") and "privet" ("hi") for a crisp, natural delivery.
-- 'What is that on you?' The guest challenges candidly beside Vika, placing "chto" ("what") straight beside "eto" ("this") with no word for "to be" needed.
-- 'I wanted to look like you.' Max strikes an honest line without hesitation, using "khotel" (from "khotet", "wanted") alongside "byt" ("be") to shape the meaning.
-- 'You would have done better to grow it here.' The guest offers a measured bearing in the scene, building the phrase around "luchshe" ("better") and "zdes" ("here") for a crisp, natural delivery.
-- 'Oh, are you really Iosif Prigozhin?' Vika checks candidly to make the point, pairing "pravda" ("honestly") with "oy" ("oh") to get the point across in plain spoken Russian.
-- 'And thank goodness!' The guest takes a resolute tempo right away, putting "slava" ("glory") alongside "bogu" ("to God") in a tight, everyday turn of phrase.
-- 'No way!' Vika holds a playful angle in this beat, leaning on "da" ("yes") before closing the thought with "ladno" ("all right").
-- 'Forgive me for not believing you.' Vika conveys an easygoing view in this beat, building the phrase around "prosti" ("sorry, forgive me") and "poverila" ("I believed") for a crisp, natural delivery.
-- 'In your place I would not have believed it either.' Max picks a brisk attitude straight away, putting "meste" ("place") alongside "tozhe" ("too") in a tight, everyday turn of phrase.
-- 'We are going to have a girl.' Vika sets a clear attitude in this beat, putting "budet" ("will be") alongside "devochka" ("girl") in a tight, everyday turn of phrase.
-- 'Really? A girl?' Max tests frankly in the scene, putting "pravda" ("honestly") alongside "devochka" ("girl") in a tight, everyday turn of phrase.
-- 'I knew it all along!' Max displays a natural tempo straight away, combining "znal" ("knew") and "ya" ("I") so the key meaning lands right away.
+- 'Hello, Iosif! Sorry.' Max sharpens one memorable piece on cue: "izvini" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'What is that on you?' The guest frames the reply without fuss: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'I wanted to look like you.' Max replies plainly watching the guest, testing the guest's reaction in the middle of the exchange.
+- 'You would have done better to grow it here.' The guest centers this direct piece on cue: "otrastil" means "grew out" (from "otrastit"), giving the line its exact edge.
+- 'Oh, are you really Iosif Prigozhin?' Vika frames the comment with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And thank goodness!' The guest speaks honestly in this moment, so Vika knows he is not just making small talk.
+- 'No way!' Vika gives that answer in earnest: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that the guest is on board.
+- 'Forgive me for not believing you.' Vika puts that answer on cue: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'In your place I would not have believed it either.' Max holds firm steadily watching the guest, shifting the whole mood of the room in a single beat.
+- 'We are going to have a girl.' Vika frames one clear word with Max: "devochka" means "girl", and it carries the main weight of what Vika is saying.
+- 'Really? A girl?' Max phrases this point on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'I knew it all along!' Max pushes back plainly watching Vika, making his position completely clear.

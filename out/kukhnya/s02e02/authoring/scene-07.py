@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'This is your fault.' Viktor blames the newcomer directly for making the customer sick."),
     (2, None, "'You nearly killed a man.' He fumes that the bad fish nearly killed a guest in his dining room."),
     (3, None, "'Chef, enough.' Lyova steps in and asks the chef to calm down."),
-    (4, None, "'He doesn' He reminds Viktor that the sushi chef does not understand a word of Russian."),
+    (4, None, "'He doesn't understand Russian.' He reminds Viktor that the sushi chef does not understand a word of Russian."),
     (5, None, "'These are products from Timur.' Barinov realizes the raw fish came from Timur's shady delivery earlier."),
     (6, None, "'Timur, come here.' Lyova calls Timur over to answer for the spoiled ingredients."),
     (7, None, "'A person got poisoned.' He informs the supplier that a customer suffered food poisoning because of his fish."),

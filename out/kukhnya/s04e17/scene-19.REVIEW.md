@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My dad is an irresponsible eccentric.' Denis takes an earnest footing beside Katya, leaning on "papa" ("Dad") before closing the thought with "bezotvetstvennyy" ("irresponsible").
-- 'And I have been waiting for my prince for a long time.' Denis adopts a pointed style during the exchange, pairing "printsa" ("prince") with "zhdu" ("I wait, expect") to get the point across in plain spoken Russian.
-- 'Probably his horse fell ill.' Denis favors a firm manner in the scene, weaving "navernoye" ("probably") together with "kon" ("knight, horse") just the way native speakers do.
-- 'And the restaurant owner is no better than the horse.' Denis offers a measured footing on the spot, building the phrase around "khozyain" ("owner") and "restorana" ("restaurant") for a crisp, natural delivery.
-- 'He parties himself, yet scolds me.' Denis picks an emphatic note across the room, leaning on "gulyayet" ("walks, is walking") before closing the thought with "rugayet" ("to scold, berate").
-- 'But you should perceive everything like this!' Denis conveys a thoughtful approach as they talk, using "dolzhna" (from "dolzhen", "should, must") alongside "vosprinimat" ("to like") to shape the meaning.
-- 'My dad is still full of energy!' Denis chooses a natural bearing in their talk, weaving "papasha" ("daddy, pop") together with "yeshchyo" ("more, still") just the way native speakers do.
-- 'And soon I will have a brother!' Denis sets a natural line in their talk, using the everyday "u menya" ("by me") alongside "skoro" ("soon") to show what belongs to the speaker.
-- 'There will be no prince, there will be a king instead!' Denis shares a frank tack at this moment, pairing "printsa" ("prince") with "budet" ("will be") to get the point across in plain spoken Russian.
-- 'The owner shouted for no reason today.' Denis sets a thoughtful course across the room, combining "khozyain" ("owner") and "segodnya" ("today") so the key meaning lands right away.
-- 'On the bright side, I am young and beautiful!' Denis holds a firm mood on the spot, linking "yuna" ("young"), "krasiva" ("beautiful"), and "zato" ("but on the other hand") in one brisk exchange.
-- 'Denis, this song is simply wonderful!' Katya adopts a playful attitude with Denis, linking "pesnya" ("song") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.
+- 'My dad is an irresponsible eccentric.' Denis grounds this sharp touch on cue: "bezotvetstvennyy" means "irresponsible", and it carries the main weight of what Denis is saying.
+- 'And I have been waiting for my prince for a long time.' Denis reacts candidly across the room, leaving no doubt about where he stands.
+- 'Probably his horse fell ill.' Denis speaks up lightly as they talk, bringing things back to earth after the buildup.
+- 'And the restaurant owner is no better than the horse.' Denis uses one vivid touch in reply: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'He parties himself, yet scolds me.' Denis holds firm lightly across the room, bringing things back to earth after the buildup.
+- 'But you should perceive everything like this!' Denis fires back steadily hearing Katya, refusing to let the moment slip past.
+- 'My dad is still full of energy!' Denis reaches for one concrete piece on cue: "papasha" means "daddy, pop", and it carries the main weight of what Denis is saying.
+- 'And soon I will have a brother!' Denis offers this warning on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'There will be no prince, there will be a king instead!' Denis opens up openly without a pause, keeping the focus on what actually matters here.
+- 'The owner shouted for no reason today.' Denis spotlights one vivid word toward Katya: "khozyain" means "owner", and it carries the main weight of what Denis is saying.
+- 'On the bright side, I am young and beautiful!' Denis voices this update calmly now: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
+- 'Denis, this song is simply wonderful!' Katya reacts earnestly before Denis, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, put on shoe covers immediately!' The doctor takes an earnest tone as they talk, weaving "nadente" ("to put on") together with "bakhily" ("shoe covers") just the way native speakers do.
-- 'Vika, is that you here?' Max quizzes dryly on the spot, leaning on "zdes" ("here") before closing the thought with "vika" ("Vika").
-- 'No, my name is Masha.' The doctor presents a candid tone as the scene unfolds, leaning on "zovut" ("call") before closing the thought with "net" ("no").
-- 'Wait, where is Goncharova?' Max quizzes steadily as the beat lands, combining "podozhdite" ("wait") and "gde" ("where") so the key meaning lands right away.
-- 'I am Goncharova too.' The doctor conveys a lively note in front of Max, building the phrase around "tozhe" ("too") and "ya" ("I") for a crisp, natural delivery.
-- 'And where is the other Goncharova?' Max steps in quietly during the talk, putting "gde" ("where") alongside "drugaya" ("different, other") in a tight, everyday turn of phrase.
-- 'The baby just does not want to be born yet.' The doctor keeps a frank position in this beat, pairing "rebyonok" ("a child") with "nikak" ("in no way") to get the point across in plain spoken Russian.
-- 'Hello, Vika, where are you?' Max questions decisively with Vika now, combining "gde" ("where") and "allo" ("hello") so the key meaning lands right away.
-- 'I am at work right now.' Vika offers a wry note in their talk, placing "seychas" ("now") straight beside "rabote" ("work") with no word for "to be" needed.
-- 'Are you not giving birth yet?' Max inquires firmly from the start, building the phrase around "yeshchyo" ("more, still") and "rozhayesh" ("to give birth") for a crisp, natural delivery.
-- 'No, I am very busy.' Vika conveys a candid bearing in this beat, linking "ochen" ("very much"), "zanyata" ("busy, occupied"), and "net" ("no") in one brisk exchange.
-- 'I am coming to the hotel right now.' Max sets a pointed manner on the spot, combining "seychas" ("now") and "priyedu" ("will come, visit") so the key meaning lands right away.
+- 'Hey, put on shoe covers immediately!' The doctor aims the reply right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Vika, is that you here?' Max inquires firmly whether Vika really thought this through.
+- 'No, my name is Masha.' The doctor points to one loaded touch toward Max: "zovut" means "call" (from "zvat"), giving the line its exact edge.
+- 'Wait, where is Goncharova?' Max hands over the comeback beside Vika: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'I am Goncharova too.' The doctor fires back wryly on the spot, testing Max's reaction in the middle of the exchange.
+- 'And where is the other Goncharova?' Max leans on this key element toward Vika: "drugaya" means "different, other" (from "drugoy"), giving the line its exact edge.
+- 'The baby just does not want to be born yet.' The doctor drops this warning frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Hello, Vika, where are you?' Max inquires earnestly what Vika is actually getting at here.
+- 'I am at work right now.' Vika grounds this direct choice with the doctor: "rabote" means "work" (from "rabota"), giving the line its exact edge.
+- 'Are you not giving birth yet?' Max gives the remark without fuss: starting the question with "razve" ("really?, is it true that...?") shows Max is pushing back against what he just heard.
+- 'No, I am very busy.' Vika fires back evenly to be clear, letting the remark speak for itself.
+- 'I am coming to the hotel right now.' Max highlights one colorful term in reply: "seychas" means "now", and it carries the main weight of what Max is saying.

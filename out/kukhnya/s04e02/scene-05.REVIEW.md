@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, come on, don't start.' Max chooses a lively angle for Nagiyev, putting "nachinay" ("start") alongside "vik" ("Vika") in a tight, everyday turn of phrase.
-- 'Today I will get him a job.' Max offers a thoughtful mood in their talk, building the phrase around "segodnya" ("today") and "ustroyu" ("to arrange") for a crisp, natural delivery.
-- 'He will start earning money and move out.' Max chooses a calm approach in the scene, leaning on "nachnyot" ("to begin, to start") before closing the thought with "zarabatyvat" ("to earn money").
-- 'You will get him a job? And where?' Vika presses calmly in their exchange, combining "ustroish" ("arrange, put on") and "kuda" ("where to") so the key meaning lands right away.
-- 'No, I will pull some strings.' Max brings a brisk note in the conversation, leaning on "svyazi" ("of the connection") before closing the thought with "podklyuchu" ("strings").
-- 'My wife is the director at a certain French restaurant.' Max displays an easygoing manner for Vika, anchoring the Russian line on "frantsuzskom" ("French") and "restorane" ("restaurant") without extra filler.
-- 'I will ask her and she will hire him as a waiter.' Max brings a pointed angle in front of Nagiyev, leaning on "poproshu" ("will ask") before closing the thought with "ofitsiantom" ("waiter, server").
-- 'So you decided to shift the whole problem onto me?' Vika presses firmly in the scene, building the phrase around "yest" ("there is") and "reshil" ("has decided") for a crisp, natural delivery.
-- 'It is me. It was slippery, but everything is fine now.' Nagiyev projects a warm attitude in this beat, joining "skolzko" ("fine") to "uzhe" ("already, now") so every word pulls its weight.
-- 'Hello, Aslan.' Nagiyev takes a steady mood in the conversation, putting "aslan" ("aslan") alongside "allo" ("hello") in a tight, everyday turn of phrase.
-- 'Hello, my dear friend.' Nagiyev keeps a steady note in front of Max, weaving "dorogoy" ("dear") together with "zdravstvuy" ("hello") just the way native speakers do.
-- 'Well, I will call back. Take care.' Nagiyev sets a direct position in this beat, pairing "perezvonyu" ("will call back") with "davay" ("let's") to get the point across in plain spoken Russian.
+- 'Vika, come on, don't start.' Max frames the thought briskly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Today I will get him a job.' Max weighs in decisively with Vika, to clear the air between them once and for all.
+- 'He will start earning money and move out.' Max chooses one classic term at once: "zarabatyvat" means "to earn money", and it carries the main weight of what Max is saying.
+- 'You will get him a job? And where?' Vika phrases that reply right away: putting the question word "kuda" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'No, I will pull some strings.' Max continues honestly without a pause, bringing things back to earth after the buildup.
+- 'My wife is the director at a certain French restaurant.' Max features one pointed detail with Vika: "frantsuzskom" means "French" (from "frantsuzskiy"), giving the line its exact edge.
+- 'I will ask her and she will hire him as a waiter.' Max continues briskly on the spot, before Nagiyev can change the subject.
+- 'So you decided to shift the whole problem onto me?' Vika wonders calmly where this conversation is heading next.
+- 'It is me. It was slippery, but everything is fine now.' Nagiyev sharpens one sharp detail toward Max: "normalno" means "fine, OK", and it carries the main weight of what Nagiyev is saying.
+- 'Hello, Aslan.' Nagiyev shapes the remark with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Hello, my dear friend.' Nagiyev counters evenly before Max, without trying to dress up how he really feels.
+- 'Well, I will call back. Take care.' Nagiyev picks one practical expression with Vika: "perezvonyu" means "will call back" (from "perezvonit"), giving the line its exact edge.

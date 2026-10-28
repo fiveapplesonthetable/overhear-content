@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, are you waiting for the head chef?' Lyova wonders earnestly without a pause, pairing "dobryy" ("good") with "vecher" ("evening") to get the point across in plain spoken Russian.
-- 'Viktor Petrovich, I cannot run to every table!' Lyova takes a grounded style in the scene, linking "mogu" ("can"), "begat" ("to run"), and "kazhdomu" ("each") in one brisk exchange.
-- 'How will I find out whom exactly you are waiting for?' Lyova asks bluntly to Barinov here, anchoring the Russian line on "kak" ("how") and "uznayu" ("to recognise") without extra filler.
-- 'Photograph the guests on your phone and send it to me.' Barinov chooses a pointed course in the scene, building the phrase around "sfotografiruy" ("photograph") and "gostey" ("guests") for a crisp, natural delivery.
-- 'Lyova, eat a carrot, it is good for the brain!' Barinov keeps a sharp posture as the scene unfolds, weaving "yesh" ("eat") together with "morkovku" ("carrot") just the way native speakers do.
-- 'And here is your friend, greet him quickly!' Barinov projects a sharp tempo across the room, combining "drug" ("friend") and "bystro" ("quickly") so the key meaning lands right away.
-- 'Hello, Viktor Petrovich, your guests are already in the hall.' Lyova picks a playful direction as the scene unfolds, anchoring the Russian line on "zdravstvuyte" ("hello") and "gosti" ("visitors, guests") without extra filler.
-- 'Excellent, right now I will quickly cook them a hot dish.' Barinov conveys a direct tempo right away, weaving "otlichno" ("perfect, great") together with "seychas" ("now") just the way native speakers do.
-- 'And then I will immediately run back to Lena.' Barinov favors a direct approach with Lyova, joining "potom" ("then") to "srazu" ("at once") so every word pulls its weight.
-- 'Just make sure that Elena Pavlovna does not notice anything!' Lyova holds a sharp posture in the conversation, putting "smotrite" ("look") alongside "tolko" ("only") in a tight, everyday turn of phrase.
-- 'And here I am back in the dining room again!' Barinov shares a frank view without hesitation, anchoring the Russian line on "snova" ("again") and "zale" ("hall") without extra filler.
-- 'I hope they will not bring our dessert anytime soon.' Barinov brings a direct tone in front of Lyova, building the phrase around "nadeyus" ("hope so") and "desert" ("dessert") for a crisp, natural delivery.
+- 'Good evening, are you waiting for the head chef?' Lyova sharpens this clear term with Barinov: "glavnogo" means "main" (from "glavnyy"), giving the line its exact edge.
+- 'Viktor Petrovich, I cannot run to every table!' Lyova speaks warmly across the room, saying out loud what both of them already know.
+- 'How will I find out whom exactly you are waiting for?' Lyova checks bluntly as Barinov tries to explain the situation.
+- 'Photograph the guests on your phone and send it to me.' Barinov anchors one key choice for Lyova: "sfotografiruy" means "photograph", and it carries the main weight of what Barinov is saying.
+- 'Lyova, eat a carrot, it is good for the brain!' Barinov counters bluntly in their talk, refusing to let the moment slip past.
+- 'And here is your friend, greet him quickly!' Barinov jumps in quietly in their talk, without trying to dress up how he really feels.
+- 'Hello, Viktor Petrovich, your guests are already in the hall.' Lyova centers one familiar word in reply: "zdravstvuyte" means "hello", and it carries the main weight of what Lyova is saying.
+- 'Excellent, right now I will quickly cook them a hot dish.' Barinov gives this point before Lyova: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'And then I will immediately run back to Lena.' Barinov speaks up lightly to settle things, saying out loud what both of them already know.
+- 'Just make sure that Elena Pavlovna does not notice anything!' Lyova focuses on one practical expression at once: "smotrite" means "look" (from "smotret"), giving the line its exact edge.
+- 'And here I am back in the dining room again!' Barinov puts the comeback to Lyova: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I hope they will not bring our dessert anytime soon.' Barinov continues lightly before Lyova, refusing to let the moment slip past.

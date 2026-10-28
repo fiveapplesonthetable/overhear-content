@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'They gladly abandoned their old chef.' He takes their compliance with the guest chef as a deeply personal betrayal.
 - 'We all sincerely love only you, chef.' Lyova declares their unwavering devotion, hoping to pull him out of his misery.
 - 'Only Arkasha listens to me attentively and keeps quiet.' Barinov praises his goldfish for never talking back or following other orders.
-- 'Let' Lyova tries a practical approach, hoping a culinary emergency will spark some action.
+- 'Let's go to the kitchen before the soup gets cold.' Lyova tries a practical approach, hoping a culinary emergency will spark some action.
 - 'I will not go anywhere out of this office.' Barinov stubbornly plants himself in his chair, refusing to step foot outside.
 - 'Then I will bring you some hot tea here.' The loyal sous-chef gives up and offers to serve him right there.

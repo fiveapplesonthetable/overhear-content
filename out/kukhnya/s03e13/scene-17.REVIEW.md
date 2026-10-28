@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take this lemon so you do not get sick.' Max takes a wry attitude at once, building the phrase around "derzhi" ("here you go") and "limon" ("lemon") for a crisp, natural delivery.
-- 'Nothing happened between you and Katya.' Max adopts a measured mood for Vika, combining "bylo" ("was") and "vas" ("you") so the key meaning lands right away.
-- 'Well that is great, I am very glad.' Max displays an emphatic stance beside Nagiyev, weaving "super" ("super, great") together with "ochen" ("very much") just the way native speakers do.
-- 'Dima, it is me, are you home?' Vika inquires frankly across the room, linking "doma" ("at home") directly with "dima" ("Dima"), since Russian drops "is" and "are" in the present.
-- 'Dima, where are you hiding?' Vika inquires dryly as the beat lands, anchoring the Russian line on "gde" ("where") and "pryacheshsya" ("are hiding") without extra filler.
-- 'Hi, how are things with you overall?' Nagiyev presses steadily during the talk, linking "tselom" ("whole") directly with "kak" ("how"), since Russian drops "is" and "are" in the present.
-- 'Dima, you and I are breaking up.' Vika chooses a resolute rhythm in the conversation, pairing "rasstayomsya" ("are breaking up") with "dima" ("Dima") to get the point across in plain spoken Russian.
-- 'I hope in this particular situation you do not mind?' Vika presses directly as the talk turns, combining "nadeyus" ("hope so") and "dannoy" ("this, given") so the key meaning lands right away.
-- 'In this particular situation, apparently not.' Nagiyev displays a steady manner without hesitation, putting "dannoy" ("this, given") alongside "konkretnoy" ("specific, particular") in a tight, everyday turn of phrase.
-- 'I had better pack my things tomorrow.' Vika maintains a calm style across the room, combining "veshchi" ("things") and "luchshe" ("better") so the key meaning lands right away.
-- 'I think so, today it would be awkward for everyone.' Nagiyev holds a measured style at once, weaving "dumayu" ("I think") together with "segodnya" ("today") just the way native speakers do.
-- 'Farewell, Dmitry Vladimirovich.' Vika maintains a brisk view across the room, putting "proshchay" ("farewell") alongside "dmitriy" ("Dmitry") in a tight, everyday turn of phrase.
+- 'Take this lemon so you do not get sick.' Max speaks frankly watching Nagiyev, shifting the whole mood of the room in a single beat.
+- 'Nothing happened between you and Katya.' Max reacts warmly around Vika, leaving no doubt about where he stands.
+- 'Well that is great, I am very glad.' Max frames this key choice with Nagiyev: "super" means "super, great", and it carries the main weight of what Max is saying.
+- 'Dima, it is me, are you home?' Vika gives that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Dima, where are you hiding?' Vika presses wryly before Max can change the subject.
+- 'Hi, how are things with you overall?' Nagiyev spotlights one colorful touch in reply: "tselom" means "whole" (from "tseloye"), giving the line its exact edge.
+- 'Dima, you and I are breaking up.' Vika phrases the comeback with warmth: the "-sya" ending on "rasstayomsya" ("are breaking up") turns the action inward or makes it happen between people naturally.
+- 'I hope in this particular situation you do not mind?' Vika wonders sharply if there is more going on behind the scenes.
+- 'In this particular situation, apparently not.' Nagiyev highlights one telling expression with Max: "konkretnoy" means "specific, particular" (from "konkretnyy"), giving the line its exact edge.
+- 'I had better pack my things tomorrow.' Vika chimes in sharply to settle things, testing Nagiyev's reaction in the middle of the exchange.
+- 'I think so, today it would be awkward for everyone.' Nagiyev proceeds steadily with a sigh, so Max knows he is not just making small talk.
+- 'Farewell, Dmitry Vladimirovich.' Vika sends this point in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

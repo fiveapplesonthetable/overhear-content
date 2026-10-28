@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was walking past and thought I would drop in.' Nagiyev displays a serious tempo for Barinov, combining "idu" ("going, running") and "mimo" ("past, by") so the key meaning lands right away.
-- 'I will visit my old comrade-in-arms.' Nagiyev displays an unhurried mood as they talk, pairing "naveshchu" ("I will visit") with "starogo" ("old") to get the point across in plain spoken Russian.
-- 'Remember how you and I were in the trenches together?' Nagiyev prompts lightly without holding back, anchoring the Russian line on "pomnish" ("do you remember") and "kak" ("how") without extra filler.
-- 'Dima, you are a professional actor after all.' Barinov sets a frank position in their talk, linking "professionalnyy" ("professional"), "aktyor" ("actor"), and "dima" ("Dima") in one brisk exchange.
-- 'Why are you acting so poorly right now?' Barinov wonders bluntly in front of Nagiyev, linking "seychas" ("now"), "plokho" ("badly"), and "igrayesh" ("to play") in one brisk exchange.
-- 'Oh, I have missed your jokes.' Nagiyev maintains a grounded attitude on the spot, linking "soskuchilsya" ("missed"), "shutkam" ("joke"), and "oy" ("oh") in one brisk exchange.
-- 'Dima, speak plainly, what do you want?' Barinov quizzes steadily from the start, using "govori" (from "govorit", "say, talk") alongside "pryamo" ("right, just") to shape the meaning.
-- 'Come back, Vitya, back to our restaurant.' Nagiyev projects a thoughtful angle for Barinov, combining "vozvrashchaysya" ("return") and "obratno" ("back") so the key meaning lands right away.
-- 'After all, you and I are of the same blood.' Nagiyev favors a calm tone on the spot, linking "krovi" ("blood"), "odnoy" ("one, a single"), and "ved" ("after all") in one brisk exchange.
-- 'Have you completely lost your mind, why would I do that?' Barinov quizzes candidly in their exchange, leaning on "sovsem" ("at all") before closing the thought with "sdurel" ("lost your mind").
-- 'I will pay five hundred thousand rubles a month!' Nagiyev favors a sharp angle for Barinov, pairing "mesyats" ("month") with "plachu" ("pay") so the "-sya" ending carries the action.
-- 'Do not even dream of it, just forget about it.' Barinov establishes a steady manner across the room, combining "mechtay" ("dream") and "prosto" ("just") so the key meaning lands right away.
+- 'I was walking past and thought I would drop in.' Nagiyev spotlights one loaded choice toward Barinov: "dumayu" means "I think" (from "dumat"), giving the line its exact edge.
+- 'I will visit my old comrade-in-arms.' Nagiyev pushes back dryly before Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Remember how you and I were in the trenches together?' Nagiyev questions eagerly in front of Barinov without any preamble.
+- 'Dima, you are a professional actor after all.' Barinov spotlights this sharp element in earnest: "professionalnyy" means "professional", and it carries the main weight of what Barinov is saying.
+- 'Why are you acting so poorly right now?' Barinov directs the reply without fuss: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
+- 'Oh, I have missed your jokes.' Nagiyev chimes in decisively without a pause, saying out loud what both of them already know.
+- 'Dima, speak plainly, what do you want?' Catch how Barinov speaks to Nagiyev right away — the Russian word "govori" ("say, talk", built from "govorit") does the heavy lifting.
+- 'Come back, Vitya, back to our restaurant.' Nagiyev drops this update without pause: the "-sya" ending on "vozvrashchaysya" ("return") turns the action inward or makes it happen between people naturally.
+- 'After all, you and I are of the same blood.' Nagiyev speaks up sharply around Barinov, keeping the focus on what actually matters here.
+- 'Have you completely lost your mind, why would I do that?' Barinov centers this vivid touch at once: "sovsem" means "at all", and it carries the main weight of what Barinov is saying.
+- 'I will pay five hundred thousand rubles a month!' Nagiyev speaks up calmly watching Barinov, before Barinov can change the subject.
+- 'Do not even dream of it, just forget about it.' Barinov cuts in promptly across the room, bringing things back to earth after the buildup.

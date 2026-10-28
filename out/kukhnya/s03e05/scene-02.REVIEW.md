@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, please wake up.' Max establishes an earnest stance in front of Nagiyev, leaning on "prosypaytes" ("wake up") before closing the thought with "dmitriy" ("Dmitry").
-- 'Excuse me, it is just that the restaurant is opening already.' Max offers an emphatic tone in the scene, combining "izvinite" ("sorry, excuse me") and "prosto" ("just") so the key meaning lands right away.
-- 'Did you spend the night here again?' Max challenges promptly on the spot, joining "opyat" ("again") to "zdes" ("here") so every word pulls its weight.
-- 'Well what business is it of yours?' Nagiyev wonders pointedly to make the point, placing "delo" ("matter") straight beside "nu" ("oh, come on") with no word for "to be" needed.
-- 'What did she find in you?' Nagiyev inquires warmly toward Max here, putting "nashla" ("found, did you find") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'After all, I am a real prince.' Nagiyev displays a thoughtful direction without hesitation, linking "nastoyashchiy" ("real, genuine") directly with "prints" ("prince"), since Russian drops "is" and "are" in the present.
-- 'What are you talking about at all?' Max questions calmly at this point, linking "voobshche" ("at all"), "govorite" ("say, speak"), and "vy" ("you") in one brisk exchange.
-- 'About our Victoria Sergeyevna.' Nagiyev picks a firm approach for Max, anchoring the Russian line on "nashey" ("our") and "viktorii" ("Victoria") without extra filler.
-- 'And what does she have to do with this?' Max challenges boldly to make the point, joining "zdes" ("here") to "ona" ("it") so every word pulls its weight.
-- 'I did not get enough sleep all night.' Nagiyev keeps a warm view in front of Max, leaning on "vyspalsya" ("got enough sleep") before closing the thought with "noch" ("night").
-- 'She and I talked about love.' Nagiyev chooses a brisk note with Max, leaning on "lyubvi" ("love") before closing the thought with "govorili" ("talked").
-- 'Do you understand me now?' Nagiyev questions promptly with Max now, leaning on "ponimayesh" ("do you understand") before closing the thought with "teper" ("now").
+- 'Dmitry Vladimirovich, please wake up.' Max sends this statement around Nagiyev: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Excuse me, it is just that the restaurant is opening already.' Max weighs in earnestly hearing Nagiyev, saying out loud what both of them already know.
+- 'Did you spend the night here again?' Max favors one telling detail for Nagiyev: "nochevali" means "spent the night" (from "nochevat"), giving the line its exact edge.
+- 'Well what business is it of yours?' Nagiyev shapes this point without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What did she find in you?' Nagiyev wonders calmly while looking straight at Max here.
+- 'After all, I am a real prince.' Nagiyev favors one key touch on cue: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Nagiyev is saying.
+- 'What are you talking about at all?' Max delivers the comeback with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'About our Victoria Sergeyevna.' Nagiyev holds firm wryly as they talk, testing Max's reaction in the middle of the exchange.
+- 'And what does she have to do with this?' Max makes the remark for Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'I did not get enough sleep all night.' Nagiyev sends that thought with ease: the "-sya" ending on "vyspalsya" ("got enough sleep") turns the action inward or makes it happen between people naturally.
+- 'She and I talked about love.' Nagiyev responds frankly without any doubt, shifting the whole mood of the room in a single beat.
+- 'Do you understand me now?' Nagiyev colors this telling term in reply: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.

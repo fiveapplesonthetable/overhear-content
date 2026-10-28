@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our Katya is already a completely grown-up girl.' Nagiyev takes a thoughtful mood in their talk, linking "uzhe" ("already, now"), "sovsem" ("at all"), and "vzroslaya" ("grown-up, adult") in one brisk exchange.
-- 'I thought for a long time about what to give her today.' Nagiyev shows a serious tone straight away, joining "dolgo" ("for a long time") to "dumal" ("thought") so every word pulls its weight.
-- 'And I decided to give her a grown-up gift.' Nagiyev favors an honest tempo in front of Barinov, linking "reshil" ("has decided"), "podarit" ("give as a gift"), and "vzroslyy" ("grown-up, adult") in one brisk exchange.
-- 'Please bring my gift into the studio!' Nagiyev conveys an earnest position as the scene unfolds, linking "proshu" ("beg, ask"), "vnesti" ("to pay in, to carry in"), and "podarok" ("gift, voucher") in one brisk exchange.
-- 'Wow, hold my box for a second.' Barinov keeps a calm stance right away, leaning on "poderzhi" ("hold") before closing the thought with "korobku" ("box, carton").
-- 'Oh my goodness, thank you very much, this is so expensive!' Katya maintains an easygoing manner for Nagiyev, combining "bozhe" ("good lord, God") and "spasibo" ("thank you") so the key meaning lands right away.
-- 'Nothing is too much for people close to me.' Nagiyev adopts a lively style right away, joining "blizkikh" ("close, near") to "lyudey" ("people") so every word pulls its weight.
-- 'After all, I am a young and very observant man.' Nagiyev favors a resolute manner right away, weaving "chelovek" ("a man, a person") together with "molodoy" ("young") just the way native speakers do.
-- 'I saw that your motorcycle is already old.' Nagiyev presents a candid posture at this moment, anchoring the Russian line on "uvidel" ("saw") and "mototsikl" ("motorcycle") without extra filler.
-- 'It immediately reminded me of your dad.' Nagiyev shares a lively view in the room, anchoring the Russian line on "srazu" ("at once") and "napomnil" ("to remind") without extra filler.
-- 'So I decided to do something nice for you.' Nagiyev offers a sharp tone right away, using "reshil" (from "reshit", "has decided") alongside "sdelat" ("to do") to shape the meaning.
-- 'Why are we standing around, let us congratulate the birthday girl!' Nagiyev sustains a frank tempo in their talk, combining the polite invitation "davayte" ("let us") with "stoim" ("to stand") to give the line its natural spoken rhythm.
+- 'Our Katya is already a completely grown-up girl.' Nagiyev hands over the reaction to Barinov: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'I thought for a long time about what to give her today.' Nagiyev steps in openly as they talk, watching Katya's face to see how the news lands.
+- 'And I decided to give her a grown-up gift.' Nagiyev leans on one key term toward Barinov: "vzroslyy" means "grown-up, adult", and it carries the main weight of what Nagiyev is saying.
+- 'Please bring my gift into the studio!' Nagiyev fires back firmly hearing Katya, keeping the focus on what actually matters here.
+- 'Wow, hold my box for a second.' Barinov counters honestly without a pause, testing Katya's reaction in the middle of the exchange.
+- 'Oh my goodness, thank you very much, this is so expensive!' Katya highlights one memorable piece right here: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Nothing is too much for people close to me.' Nagiyev lays out this warning calmly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'After all, I am a young and very observant man.' Nagiyev speaks up steadily without holding back, making his position completely clear.
+- 'I saw that your motorcycle is already old.' Nagiyev emphasizes one practical term right here: "mototsikl" means "motorcycle", and it carries the main weight of what Nagiyev is saying.
+- 'It immediately reminded me of your dad.' Nagiyev opens up calmly on the spot, leaving no doubt about where he stands.
+- 'So I decided to do something nice for you.' Nagiyev weighs in honestly facing Barinov, to clear the air between them once and for all.
+- 'Why are we standing around, let us congratulate the birthday girl!' Nagiyev grounds this clear term at once: "imeninnitsu" means "birthday girl" (from "imeninnitsa"), giving the line its exact edge.

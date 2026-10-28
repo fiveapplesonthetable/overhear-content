@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our head chef is a contender to receive a star.' Eleonora takes a steady manner without hesitation, weaving "shef-povar" ("head chef") together with "pretendent" ("contender, candidate") just the way native speakers do.
-- 'Eleonora Andreyevna, this is my wedding gift.' Barinov establishes a serious manner as they talk, building the phrase around "svadebnyy" ("wedding") and "podarok" ("gift, voucher") for a crisp, natural delivery.
-- 'Why, these are Mom's cookies!' Eleonora offers a serious tone on the spot, linking "mamino" ("Mom's") directly with "pechenye" ("cookies, pastry"), since Russian drops "is" and "are" in the present.
-- 'Congratulations once again.' Barinov strikes an emphatic tone across the room, weaving "yeshche" ("still") together with "raz" ("time, once") just the way native speakers do.
-- 'Vitya, wait!' Eleonora projects a serious direction as the scene unfolds, combining "podozhdi" ("wait") and "vitya" ("Vitya") so the key meaning lands right away.
-- 'I hope this is the last time wedding cookies are made for you.' Barinov adopts a playful manner without hesitation, linking "nadeyus" ("hope so"), "posledniy" ("last"), and "raz" ("time, once") in one brisk exchange.
-- 'Mom told me that at every wedding.' Eleonora shares an earnest stance in their talk, anchoring the Russian line on "mama" ("mum, mother") and "kazhduyu" ("every, each") without extra filler.
-- 'And Dima is the last train car for me.' Eleonora presents an earnest tone in the conversation, joining "posledniy" ("last") to "vagon" ("train") so every word pulls its weight.
-- 'My bald last train car.' Eleonora projects a firm stance in the conversation, joining "lysyy" ("bald") to "posledniy" ("last") so every word pulls its weight.
-- 'Old age with him will not be boring.' Eleonora sustains a measured view in this beat, combining "starost" ("old age") and "budet" ("will be") so the key meaning lands right away.
-- 'Believe me, I am truly happy.' Eleonora presents a calm course right away, putting "verish" ("do you believe") alongside "samom" ("very") in a tight, everyday turn of phrase.
-- 'Thank you, and forgive me for everything.' Eleonora brings an easygoing tone at this moment, anchoring the Russian line on "spasibo" ("thank you") and "prosti" ("sorry, forgive me") without extra filler.
+- 'Our head chef is a contender to receive a star.' Eleonora picks one colorful element for Barinov: "polucheniye" means "receipt", and it carries the main weight of what Eleonora is saying.
+- 'Eleonora Andreyevna, this is my wedding gift.' Barinov shapes that thought in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Why, these are Mom's cookies!' Eleonora weighs in bluntly during the talk, shifting the whole mood of the room in a single beat.
+- 'Congratulations once again.' Barinov favors this sharp word right here: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
+- 'Vitya, wait!' Eleonora delivers the remark frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I hope this is the last time wedding cookies are made for you.' Barinov reacts bluntly to settle things, refusing to let the moment slip past.
+- 'Mom told me that at every wedding.' Eleonora frames one telling detail with Barinov: "kazhduyu" means "every, each" (from "kazhdyy"), giving the line its exact edge.
+- 'And Dima is the last train car for me.' Eleonora gives the comeback without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'My bald last train car.' Eleonora jumps in pointedly with Barinov, saying out loud what both of them already know.
+- 'Old age with him will not be boring.' Eleonora points to one practical choice in reply: "skuchnaya" means "boring, dull" (from "skuchnyy"), giving the line its exact edge.
+- 'Believe me, I am truly happy.' Eleonora follows up pointedly hearing Barinov, making her position completely clear.
+- 'Thank you, and forgive me for everything.' Eleonora continues right away facing Barinov, letting the remark speak for itself.

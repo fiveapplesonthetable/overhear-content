@@ -30,7 +30,7 @@ STORY = [
     ('doctor', 'Скажите, вы суши любите?', 'Tell me, do you like sushi?', [(317, 'Суши любите?')], ''),
 ]
 WALK = [
-    (0, None, "'Well then, I congratulate you.' the doctor delivers a punchy conversational reaction built around the Russian word meaning 'congratulations'."),
+    (0, None, "'Well then, I congratulate you.' Looking up from the test results with dry medical humor, the doctor 'congratulates' Max on his diagnosis."),
     (1, None, "'Your rash is a pseudoallergic reaction.' Looking over the test results, the doctor calls the rash a pseudo-allergic reaction."),
     (2, None, "'This is a typical manifestation of helminthiasis.' He uses heavy medical jargon to say it is a classic sign of a parasite infection."),
     (3, None, "'And is it possible to say it humanly?' Baffled by the long medical words, Max asks the doctor to put it in plain human Russian."),
@@ -38,7 +38,7 @@ WALK = [
     (5, None, "'Are you serious? I have worms?' Horrified, Max asks if the doctor is serious that he has worms."),
     (6, None, "'Well, it is not me who has them.' The doctor dryly jokes that they certainly are not his own worms. And Max jumps in."),
     (7, None, "'But where do I have worms from?' Max cannot understand where he could have caught parasites."),
-    (8, None, "'Well, the causes can be the most diverse.' the doctor puts the word for 'reason' together with 'can' and 'be' in a crisp, natural spoken turn of phrase."),
+    (8, None, "'Well, the causes can be the most diverse.' When Max asks how he could have caught the rash, the doctor replies that the causes can vary widely."),
     (9, None, "'Poor hygiene or contacts with soil.' Listing common causes, the doctor mentions poor hygiene or contact with dirt."),
     (10, None, "'Perhaps, you like to eat raw fish.' Then the doctor guesses the real culprit: eating raw fish."),
     (11, None, "'Tell me, do you like sushi?' He asks pointedly whether Max happens to enjoy sushi — justlike the spoiled fish from Timur."),

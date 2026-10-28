@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fine, let the car stay right here.' Max displays a direct line as the scene unfolds, anchoring the Russian line on "mashina" ("a car") and "tut" ("here") without extra filler.
-- 'Do you have any more questions?' Barinov tests openly without hesitation, putting "yeshchyo" ("more, still") alongside "yest" ("there is") in a tight, everyday turn of phrase.
-- 'I have one, do you run fast?' Max wonders decisively as the beat lands, building the phrase around "yest" ("there is") and "begayesh" ("run") for a crisp, natural delivery.
-- 'And what business is that of yours?' Barinov tests calmly right away, combining "delo" ("matter") and "tebe" ("for you, to you") so the key meaning lands right away.
-- 'Hi, why do you keep calling me?' Katya questions naturally at this point, leaning on "nazvanivayesh" ("keep calling") before closing the thought with "privet" ("hi").
-- 'Where were you, I cannot get through to you!' Barinov keeps a frank view at once, joining "gde" ("where") to "byla" ("was") so every word pulls its weight.
-- 'I was busy last night.' Katya maintains a frank style in their talk, anchoring the Russian line on "vchera" ("yesterday") and "vecherom" ("in the evening") without extra filler.
-- 'Were you with that biker?' Barinov queries evenly as the talk turns, anchoring the Russian line on "byla" ("was") and "baykerom" ("with a biker") without extra filler.
-- 'But he is a total creep!' Barinov sets a serious tempo in the conversation, anchoring the Russian line on "prosto" ("just") and "moralnyy" ("moral") without extra filler.
-- 'I forbid you to date him.' Barinov displays a lively style across the room, combining "zapreshchayu" ("forbid") and "vstrechatsya" ("to meet") so the key meaning lands right away.
-- 'Do you know why they call him Piston?' Katya inquires plainly from the start, putting "znayesh" ("know") alongside "pochemu" ("why") in a tight, everyday turn of phrase.
-- 'Imagine that, I know very well!' Barinov holds a frank attitude in the conversation, using "predstav" (from "predstavit", "imagine") alongside "prekrasno" ("perfectly") to shape the meaning.
-- 'Because he pumps up motorcycle tires by hand!' Katya sets a candid posture straight away, combining "potomu" ("because") and "kolesa" ("wheels, tires") so the key meaning lands right away.
+- 'Fine, let the car stay right here.' Max pushes back dryly in their talk, testing Barinov's reaction in the middle of the exchange.
+- 'Do you have any more questions?' Barinov points to this key term with Max: "voprosy" means "questions" (from "vopros"), giving the line its exact edge.
+- 'I have one, do you run fast?' Max shapes that line to Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'And what business is that of yours?' Barinov inquires plainly as Max tries to explain the situation.
+- 'Hi, why do you keep calling me?' Katya points to one vivid detail at once: "nazvanivayesh" means "keep calling" (from "nazvanivat"), giving the line its exact edge.
+- 'Where were you, I cannot get through to you!' Barinov aims this answer frankly here: the "-sya" ending on "dozvonitsya" ("to get through") turns the action inward or makes it happen between people naturally.
+- 'I was busy last night.' Katya chimes in right away with a shrug, testing Barinov's reaction in the middle of the exchange.
+- 'Were you with that biker?' Barinov features one direct element for Max: "baykerom" means "with a biker" (from "bayker"), giving the line its exact edge.
+- 'But he is a total creep!' Barinov puts that remark without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I forbid you to date him.' Barinov pushes back honestly hearing Max, letting the remark speak for itself.
+- 'Do you know why they call him Piston?' Katya reaches for this direct touch in reply: "porshnem" means "Piston" (from "porshen"), giving the line its exact edge.
+- 'Imagine that, I know very well!' Barinov shares that point before Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Because he pumps up motorcycle tires by hand!' Katya answers lightly with a shrug, grounding the moment in plain reality.

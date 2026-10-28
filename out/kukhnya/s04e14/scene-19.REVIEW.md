@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, I have been waiting so long for you here!' Vika sustains a grounded stance straight away, building the phrase around "uzhe" ("already, now") and "tut" ("here") for a crisp, natural delivery.
-- 'Ainura, what on earth are you doing here in the dark?' German questions dryly in front of Vika, building the phrase around "voobshche" ("at all") and "zdes" ("here") for a crisp, natural delivery.
-- 'And what are you all doing here, who let you in?' German challenges wryly right away, joining "zdes" ("here") to "zabyli" ("have you forgotten") so every word pulls its weight.
-- 'It seems, guys, we walked in at a slightly bad time!' Barinov favors a natural posture right away, leaning on "kazhetsya" ("it seems, I think") before closing the thought with "rebyata" ("the boys, the lads").
-- 'German Mikhailovich, we will just sit here quietly.' Barinov picks a candid bearing for German, anchoring the Russian line on "tut" ("here") and "prosto" ("just") without extra filler.
-- 'After all, your restaurant is closed today anyway.' Barinov sustains an unhurried attitude for Vika, joining "restoran" ("restaurant") to "segodnya" ("today") so every word pulls its weight.
-- 'I do not understand, what are you allowing yourselves?' German tests frankly to Barinov here, pairing "ponimayu" ("understand") with "pozvolyayete" ("allow, permit") to get the point across in plain spoken Russian.
-- 'It was I who allowed our friends to come in here.' Vika favors a direct mood across the room, weaving "razreshila" ("to allow, to permit") together with "druzyam" ("friend") just the way native speakers do.
-- 'Let's all sit together and have a nice rest.' Vika maintains a lively note with Barinov, leaning on "davayte" ("let's") before closing the thought with "vmeste" ("together").
-- 'We will harmoniously discuss the development plans of our beloved restaurant.' Vika brings a serious note toward German, putting "druzhno" ("in a friendly way") alongside "obsudim" ("will discuss") in a tight, everyday turn of phrase.
-- 'German Mikhailovich, you wanted this yourself after all!' Vika shows an emphatic mood as the scene unfolds, using "khoteli" (from "khotet", "wanted") alongside "german" ("German") to shape the meaning.
-- 'All right, do as you please, let's go!' German conveys a brisk course for Vika, leaning on "delayte" ("do") before closing the thought with "kak" ("how").
+- 'German Mikhailovich, I have been waiting so long for you here!' Vika uses one direct word on cue: "zazhdalas" means "to long" (from "zazhdatsya"), giving the line its exact edge.
+- 'Ainura, what on earth are you doing here in the dark?' German delivers the reaction beside Vika: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'And what are you all doing here, who let you in?' German questions straight out while looking straight at Barinov here.
+- 'It seems, guys, we walked in at a slightly bad time!' Barinov stresses one telling choice at once: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'German Mikhailovich, we will just sit here quietly.' Barinov aims the comment before German: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'After all, your restaurant is closed today anyway.' Barinov stands firm quietly to settle things, letting the remark speak for itself.
+- 'I do not understand, what are you allowing yourselves?' German picks this key word on cue: "pozvolyayete" means "allow, permit" (from "pozvolyat"), giving the line its exact edge.
+- 'It was I who allowed our friends to come in here.' Vika speaks up warmly to be clear, refusing to let the moment slip past.
+- 'Let's all sit together and have a nice rest.' Vika chimes in steadily without a pause, keeping the focus on what actually matters here.
+- 'We will harmoniously discuss the development plans of our beloved restaurant.' Vika reaches for one memorable choice on cue: "razvitiya" means "development" (from "razvitiye"), giving the line its exact edge.
+- 'German Mikhailovich, you wanted this yourself after all!' Vika focuses on this clear term for Barinov: "khoteli" means "wanted" (from "khotet"), giving the line its exact edge.
+- 'All right, do as you please, let's go!' German fires back dryly to be clear, testing Vika's reaction in the middle of the exchange.

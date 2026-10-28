@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Therefore I bless you from the bottom of my heart.' Barinov shows a playful rhythm in front of Katya, building the phrase around "poetomu" ("that's why") and "dushi" ("soul, heart") for a crisp, natural delivery.
-- 'Wait, pops, in what sense?' Max prompts directly without a pause, linking "podozhdi" ("wait"), "batya" ("Dad, the old man"), and "smysle" ("sense") in one brisk exchange.
-- 'You are simply such a wonderful couple!' Barinov sustains a pointed line right away, leaning on "prosto" ("just") before closing the thought with "chudesnaya" ("wonderful").
-- 'Looking at you two immediately gladdens the eye.' Barinov displays a candid manner in the room, weaving "smotrish" ("are staring") together with "srazu" ("at once") just the way native speakers do.
-- 'Dad, are you speaking seriously right now, really?' Katya checks candidly toward Barinov here, combining "papa" ("Dad") and "seychas" ("now") so the key meaning lands right away.
-- 'Katya, bring me a little ice, please.' Max projects a warm position as the scene unfolds, joining "prinesi" ("bring") to "nemnogo" ("a bit") so every word pulls its weight.
-- 'I need to have a word with your father.' Max projects a wry angle for Barinov, using "ottsom" (from "otets", "father") alongside "pogovorit" ("to talk") to shape the meaning.
-- 'Pops, we agreed on five hundred thousand, after all!' Max sets a thoughtful posture beside Katya, pairing "dogovorilis" ("agreed, deal") with "batya" ("Dad, the old man") so the "-sya" ending carries the action.
-- 'No, you suit her so well, son!' Barinov shares an emphatic course on the spot, weaving "khorosho" ("good, fine") together with "podkhodish" ("to approach") just the way native speakers do.
-- 'Fine, give me at least three hundred thousand.' Max offers an unhurried tone on the spot, linking "davay" ("let's"), "tysyach" ("thousand"), and "trista" ("three hundred") in one brisk exchange.
-- 'No, live together in harmony and love!' Barinov conveys a calm posture for Katya, weaving "zhivite" ("to live") together with "vmeste" ("together") just the way native speakers do.
-- 'One hundred thousand, how predictable you are, let's go to the safe.' Barinov shares a resolute course beside Max, combining "tysyach" ("thousand") and "predskazuyemyy" ("predictable") so the key meaning lands right away.
-- 'We will quickly crack open my safe right now.' Barinov strikes a serious mood as they talk, joining "seychas" ("now") to "bystro" ("quickly") so every word pulls its weight.
+- 'Therefore I bless you from the bottom of my heart.' Barinov steps in at once across the room, without trying to dress up how he really feels.
+- 'Wait, pops, in what sense?' Max stresses one memorable term in earnest: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'You are simply such a wonderful couple!' Barinov shares this point before Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Looking at you two immediately gladdens the eye.' Barinov pushes back lightly in this moment, before Max can change the subject.
+- 'Dad, are you speaking seriously right now, really?' Katya colors one direct expression with Barinov: "govorish" means "you say" (from "govorit"), giving the line its exact edge.
+- 'Katya, bring me a little ice, please.' Max puts that remark briskly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I need to have a word with your father.' Max jumps in wryly to be clear, steering the talk right where he wants it.
+- 'Pops, we agreed on five hundred thousand, after all!' Max picks this direct word right here: "dogovorilis" means "agreed, deal" (from "dogovoritsya"), giving the line its exact edge.
+- 'No, you suit her so well, son!' Barinov aims that point at once: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Fine, give me at least three hundred thousand.' Max weighs in calmly without any doubt, letting the remark speak for itself.
+- 'No, live together in harmony and love!' Barinov sharpens one key choice in earnest: "lyubov" means "love", and it carries the main weight of what Barinov is saying.
+- 'One hundred thousand, how predictable you are, let's go to the safe.' Barinov spotlights one loaded word toward Max: "predskazuyemyy" means "predictable", and it carries the main weight of what Barinov is saying.
+- 'We will quickly crack open my safe right now.' Barinov replies boldly with Katya, refusing to let the moment slip past.

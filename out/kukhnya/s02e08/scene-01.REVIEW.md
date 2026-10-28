@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let us go to the movies together tonight.' Kostya establishes an easygoing course in the conversation, pairing "poydemte" ("come on, let's go") with "vecherom" ("in the evening") to get the point across in plain spoken Russian.
-- 'That is exactly what I would have said.' Nastya keeps a clear footing as the scene unfolds, joining "skazala" ("told") to "ya" ("I") so every word pulls its weight.
-- 'Behind your back, Kostya, let us go to the movies.' Kostya maintains a brisk course for Nastya, linking "spina" ("back"), "kost" ("bones"), and "poydem" ("let's go") in one brisk exchange.
-- 'Nastya, I am actually staying completely faithful to you.' Kostya adopts a natural tone as they talk, combining "voobshche-to" ("actually") and "vernost" ("loyalty") so the key meaning lands right away.
-- 'She keeps making eyes at me.' Kostya presents a measured stance in the conversation, anchoring the Russian line on "glazki" ("eyes") and "stroit" ("to build") without extra filler.
-- 'And I am paying no attention to her at all.' Nastya keeps an earnest direction as the scene unfolds, linking "obrashchayu" ("to turn, to direct"), "vnimaniya" ("attention"), and "ya" ("I") in one brisk exchange.
-- 'I am going to go have a word with her right now.' Kostya shares a wry tone at this moment, pairing "seychas" ("now") with "pogovoryu" ("I'll talk") so the "-sya" ending carries the action.
-- 'Mom, what are you doing here?' Nastya asks calmly at this point, weaving "mam" ("Mum") together with "zdes" ("here") just the way native speakers do.
-- 'No, Vitya, have you seen this, huh?' Kostya prompts sharply as they speak, building the phrase around "videl" ("saw, have seen") and "ne" ("not") for a crisp, natural delivery.
-- 'A two-page interview on top of that.' Nastya conveys a grounded posture in the room, building the phrase around "yeshche" ("still") and "intervyu" ("interview") for a crisp, natural delivery.
-- 'Why did they pick her instead of you?' Kostya checks pointedly for Nastya's benefit, weaving "pochemu" ("why") together with "ona" ("it") just the way native speakers do.
-- 'On that question I trust you completely.' Nastya maintains a measured note in front of Kostya, combining "voprose" ("question, matter") and "polnostyu" ("completely") so the key meaning lands right away.
-- 'While somebody sits around here acting smart.' Kostya sustains a pointed course right away, putting "poka" ("bye") alongside "tut" ("here") in a tight, everyday turn of phrase.
+- 'Let us go to the movies together tonight.' Kostya anchors one clear piece for Nastya: "poydemte" means "come on, let's go" (from "poyti"), giving the line its exact edge.
+- 'That is exactly what I would have said.' Nastya counters decisively to be clear, steering the talk right where she wants it.
+- 'Behind your back, Kostya, let us go to the movies.' Kostya chimes in earnestly with a sigh, leaving no doubt about where he stands.
+- 'Nastya, I am actually staying completely faithful to you.' Kostya colors one loaded word toward Nastya: "voobshche-to" means "actually", and it carries the main weight of what Kostya is saying.
+- 'She keeps making eyes at me.' Kostya offers the reaction with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And I am paying no attention to her at all.' Nastya counters dryly in this moment, grounding the moment in plain reality.
+- 'I am going to go have a word with her right now.' Kostya frames this clear piece for Nastya: "pogovoryu" means "I'll talk" (from "pogovorit"), giving the line its exact edge.
+- 'Mom, what are you doing here?' Nastya sends the comment calmly now: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'No, Vitya, have you seen this, huh?' Kostya prompts point-blank if there is more going on behind the scenes.
+- 'A two-page interview on top of that.' Nastya favors one key choice in reply: "stranitsy" means "page" (from "stranitsa"), giving the line its exact edge.
+- 'Why did they pick her instead of you?' Kostya aims that answer on cue: putting the question word "pochemu" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'On that question I trust you completely.' Nastya chimes in right away with a shrug, grounding the moment in plain reality.
+- 'While somebody sits around here acting smart.' Kostya uses this key term on cue: "umnichayet" means "to act smart" (from "umnichat"), giving the line its exact edge.

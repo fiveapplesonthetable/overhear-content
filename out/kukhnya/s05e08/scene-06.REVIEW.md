@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Anything else?' Nastya asks plainly without hesitation, combining "yeshchyo" ("more, still") and "chto-nibud" ("something") so the key meaning lands right away.
-- 'Yes, His Highness has shown an interest in you.' The guest projects a calm course during the exchange, leaning on "svetlost" ("Highness") before closing the thought with "proyavil" ("showed, displayed").
-- 'And he would like to get to know you more closely.' The guest presents a sharp course at this moment, building the phrase around "khotel" ("wanted") and "poznakomitsya" ("to meet") for a crisp, natural delivery.
-- 'I cannot return his feelings.' Nastya presents an honest tone in front of Kostya, pairing "mogu" ("can") with "otvetit" ("answer") to get the point across in plain spoken Russian.
-- 'He is not accustomed to refusal.' The guest picks a natural manner with Kostya, combining "privyk" ("got used") and "otkazu" ("refusal") so the key meaning lands right away.
-- 'And the sheikh invited me on a date.' Nastya sustains a sharp angle right away, weaving "sheykh" ("sheikh") together with "svidaniye" ("date") just the way native speakers do.
-- 'Nastya, what are you making up?' Kostya queries steadily right away, pairing "vydumyvayesh" ("to invent, to fabricate") with "nastya" ("Nastya") to get the point across in plain spoken Russian.
-- 'When I leave you, we will see what tune you sing.' Nastya maintains a firm stance on the spot, anchoring the Russian line on "uydu" ("will leave") and "posmotrim" ("have a look") without extra filler.
-- 'And how will you see what tune I sing if you leave?' Kostya prompts sharply on the spot, anchoring the Russian line on "kak" ("how") and "posmotrish" ("you will see") without extra filler.
-- 'Do you not feel sorry to lose me at all?' Nastya prompts calmly for Kostya's benefit, leaning on "sovsem" ("at all") before closing the thought with "zhalko" ("feel sorry for").
-- 'Go work, daydreamer.' Kostya favors an honest tempo in their talk, using "idi" (from "idti", "go") alongside "rabotay" ("work") to shape the meaning.
-- 'Fine then, you will regret it yourself later.' Nastya brings an unhurried direction in this beat, combining "potom" ("then") and "pozhaleyesh" ("regret") so the key meaning lands right away.
+- 'Anything else?' Nastya questions evenly how the guest expects that to work in practice.
+- 'Yes, His Highness has shown an interest in you.' The guest sharpens one memorable expression right here: "svetlost" means "Highness", and it carries the main weight of what the guest is saying.
+- 'And he would like to get to know you more closely.' The guest brings that answer at once: the "-sya" ending on "poznakomitsya" ("to meet") turns the action inward or makes it happen between people naturally.
+- 'I cannot return his feelings.' Nastya follows up lightly across the room, steering the talk right where she wants it.
+- 'He is not accustomed to refusal.' The guest reaches for one sharp piece right here: "otkazu" means "refusal" (from "otkaz"), giving the line its exact edge.
+- 'And the sheikh invited me on a date.' Nastya stands firm plainly toward Kostya, leaving no doubt about where she stands.
+- 'Nastya, what are you making up?' Kostya probes briskly how the guest expects that to work in practice.
+- 'When I leave you, we will see what tune you sing.' Nastya frames this key term with Kostya: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.
+- 'And how will you see what tune I sing if you leave?' Kostya shapes the remark briskly now: putting the question word "kak" right at the front of the line lets the guest hear the point of the question on the very first beat.
+- 'Do you not feel sorry to lose me at all?' Nastya wonders skeptically if there is more going on behind the scenes.
+- 'Go work, daydreamer.' Kostya underscores one vivid expression toward the guest: "fantazyorka" means "daydreamer", and it carries the main weight of what Kostya is saying.
+- 'Fine then, you will regret it yourself later.' Nastya aims that remark around Kostya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kostya is on board.

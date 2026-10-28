@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, what on earth is that you have?' Barinov asks plainly for Katya's benefit, placing "yeshchyo" ("more, still") straight beside "senya" ("Senya") with no word for "to be" needed.
-- 'You must not drag good groceries home.' Barinov displays a grounded tempo in this beat, putting "normalnyye" ("normal") alongside "produkty" ("groceries") in a tight, everyday turn of phrase.
-- 'Chef, honestly I did not steal anything.' Max shows a brisk manner across the room, putting "chestnoye" ("honest") alongside "slovo" ("word") in a tight, everyday turn of phrase.
-- 'Keep in mind, I know all your hiding places well.' Barinov picks an earnest course in front of Max, pairing "uchti" ("bear in mind") with "tayniki" ("hiding place") to get the point across in plain spoken Russian.
-- 'So do not even try to argue.' Barinov holds a brisk angle in the conversation, putting "pytaysya" ("try") alongside "sporit" ("to argue") in a tight, everyday turn of phrase.
-- 'Done, I cleaned all the contacts here.' Max offers an honest angle in the room, joining "gotovo" ("ready") to "tut" ("here") so every word pulls its weight.
-- 'Wow, what an electrician you are!' Katya holds a frank tempo in front of Barinov, pairing "elektrik" ("electrician") with "ukh" ("oh, wow") to get the point across in plain spoken Russian.
-- 'Never hold onto an electrician with your hands.' Max takes a lively direction toward Katya, putting "nikogda" ("never") alongside "derzhis" ("hang in there") in a tight, everyday turn of phrase.
-- 'Let us go to the kitchen, we still have to cook.' Katya chooses a candid footing in their talk, combining "poshli" ("let's go") and "kukhnyu" ("kitchen") so the key meaning lands right away.
-- 'Max, get me the rice from the top shelf.' Katya sustains a calm note in the scene, building the phrase around "dostan" ("to take out") and "ris" ("rice") for a crisp, natural delivery.
-- 'And why do I have to be the one to get it?' Max asks directly without hesitation, anchoring the Russian line on "pochemu" ("why") and "srazu" ("at once") without extra filler.
-- 'Tall Lyova is standing right there, ask him.' Max shows a wry line at this moment, weaving "ryadom" ("nearby") together with "stoit" ("is parked") just the way native speakers do.
+- 'Senya, what on earth is that you have?' Barinov chooses one sharp detail in earnest: "yeshchyo" means "more, still", and it carries the main weight of what Barinov is saying.
+- 'You must not drag good groceries home.' Barinov aims that answer right away: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Chef, honestly I did not steal anything.' Max steps in lightly with a smile, making his position completely clear.
+- 'Keep in mind, I know all your hiding places well.' Barinov emphasizes one colorful word with Max: "tayniki" means "hiding place" (from "taynik"), giving the line its exact edge.
+- 'So do not even try to argue.' Barinov puts this statement right away: the "-sya" ending on "pytaysya" ("try") turns the action inward or makes it happen between people naturally.
+- 'Done, I cleaned all the contacts here.' Max weighs in boldly as things stand, testing Katya's reaction in the middle of the exchange.
+- 'Wow, what an electrician you are!' Katya frames one concrete term with Barinov: "elektrik" means "electrician", and it carries the main weight of what Katya is saying.
+- 'Never hold onto an electrician with your hands.' Max sends the comment before Katya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Let us go to the kitchen, we still have to cook.' Katya responds evenly on the spot, grounding the moment in plain reality.
+- 'Max, get me the rice from the top shelf.' Katya uses this clear touch in earnest: "verkhney" means "top, upper" (from "verkhniy"), giving the line its exact edge.
+- 'And why do I have to be the one to get it?' Max delivers this warning on cue: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Tall Lyova is standing right there, ask him.' Max steps in dryly during the talk, without trying to dress up how he really feels.

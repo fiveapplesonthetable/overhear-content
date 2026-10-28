@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, is this a very unexpected twist?' Denis wonders evenly beside the guest, placing "ochen" ("very much") straight beside "neozhidannyy" ("unexpected") with no word for "to be" needed.
-- 'Oh, just shut up right now!' Nikita shows a wry direction at once, leaning on "zamolchi" ("to fall silent") before closing the thought with "voobshche" ("at all").
-- 'Hello, Mom, hi, we are working.' The guest adopts an easygoing course in the room, pairing "mama" ("mum, mother") with "rabotayem" ("we work, let's work") to get the point across in plain spoken Russian.
-- 'Yes, of course, we will meet as we agreed.' The guest displays a measured style at this moment, pairing "vstretimsya" ("we'll meet") with "konechno" ("of course") so the "-sya" ending carries the action.
-- 'Could you not face me one on one?' Denis asks openly in front of the guest, putting "mog" ("can, to be able") alongside "vyyti" ("to marry") in a tight, everyday turn of phrase.
-- 'I did not want to dirty my hands on you.' Nikita sets a wry approach with the guest, putting "khotel" ("wanted") alongside "ruki" ("hands") in a tight, everyday turn of phrase.
-- 'You are to blame for everything yourself!' Denis picks a candid bearing toward the guest, joining "vinovat" ("at fault, guilty") to "ty" ("you") so every word pulls its weight.
-- 'Well, have you calmed down now?' The guest checks dryly with Nikita now, pairing "uzhe" ("already, now") with "uspokoilis" ("have calmed down") to get the point across in plain spoken Russian.
-- 'Your business is postponed for a little while.' The guest picks a lively attitude as they talk, pairing "otkladyvayutsya" ("are postponed") with "dela" ("things, affairs") so the "-sya" ending carries the action.
-- 'You are staying here to guard these two.' The guest keeps an emphatic bearing across the room, joining "ostayoshsya" ("remain") to "okhranyat" ("to house") so every word pulls its weight.
-- 'And we will drive back here soon.' The guest strikes a wry position in this beat, weaving "skoro" ("soon") together with "syuda" ("here") just the way native speakers do.
-- 'We need to get out of here urgently.' Denis sets a clear stance at this moment, pairing "vybiratsya" ("to run for office") with "nado" ("it is necessary") so the "-sya" ending carries the action.
+- 'Well, is this a very unexpected twist?' Denis asks skeptically how the guest expects that to work in practice.
+- 'Oh, just shut up right now!' Nikita picks this sharp expression on cue: "voobshche" means "at all", and it carries the main weight of what Nikita is saying.
+- 'Hello, Mom, hi, we are working.' The guest puts the reply beside Denis: opening with the casual greeting "privet" ("hi") signals right away that the guest and Denis are on familiar terms.
+- 'Yes, of course, we will meet as we agreed.' The guest pushes back warmly to settle things, grounding the moment in plain reality.
+- 'Could you not face me one on one?' Denis chooses this vivid choice in reply: "vyyti" means "to marry", and it carries the main weight of what Denis is saying.
+- 'I did not want to dirty my hands on you.' Nikita colors one colorful choice on cue: "khotel" means "wanted" (from "khotet"), giving the line its exact edge.
+- 'You are to blame for everything yourself!' Denis holds firm firmly beside the guest, grounding the moment in plain reality.
+- 'Well, have you calmed down now?' The guest anchors this sharp term right here: "uspokoilis" means "have calmed down" (from "uspokoitsya"), giving the line its exact edge.
+- 'Your business is postponed for a little while.' The guest gives this statement frankly here: the "-sya" ending on "otkladyvayutsya" ("are postponed") turns the action inward or makes it happen between people naturally.
+- 'You are staying here to guard these two.' The guest counters steadily with a sigh, leaving no doubt about where he stands.
+- 'And we will drive back here soon.' The guest stresses one clear piece right here: "podyedem" means "to drive up" (from "podyekhat"), giving the line its exact edge.
+- 'We need to get out of here urgently.' Denis voices this answer to Nikita: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".

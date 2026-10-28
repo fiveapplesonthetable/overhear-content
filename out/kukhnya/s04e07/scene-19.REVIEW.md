@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What an amazing atmosphere you have in here!' The guest holds a candid line across the room, building the phrase around "zdes" ("here") and "udivitelnaya" ("surprising") for a crisp, natural delivery.
-- 'Live pigeons are flying in the hall, just like in Paris!' The guest picks a wry style right away, pairing "zale" ("hall") with "letayut" ("to flying") to get the point across in plain spoken Russian.
-- 'Gavriil Ilyich, wait, I will explain everything right now!' Nagiyev shows a lively tack on the spot, weaving "gavriil" ("to ilyich") together with "ilich" ("Ilyich") just the way native speakers do.
-- 'No, thank you, gentlemen, all the very best to you!' The guest strikes an earnest manner in their talk, building the phrase around "spasibo" ("thank you") and "gospoda" ("gentlemen") for a crisp, natural delivery.
-- 'All the best, goodbye, respected Gavriil Ilyich.' Nagiyev chooses a thoughtful style on the spot, putting "dobrogo" ("good") alongside "svidaniya" ("meeting") in a tight, everyday turn of phrase.
-- 'Oh no, this simply cannot be!' Denis keeps an earnest course in this beat, linking "prosto" ("just"), "mozhet" ("can"), and "byt" ("be") in one brisk exchange.
-- 'Where did that live pigeon under the cover come from?' Denis asks steadily to the guest here, weaving "otkuda" ("where from") together with "kryshkoy" ("pigeon") just the way native speakers do.
-- 'Sasha, please, just shut your mouth and leave!' Nagiyev takes a measured note in this beat, joining "prosto" ("just") to "zakroy" ("shut, close") so every word pulls its weight.
-- 'Go away from here quickly, do not make me angry right now!' Nagiyev sustains a lively footing toward Denis, joining "idi" ("go") to "skoreye" ("quickly, right away") so every word pulls its weight.
-- 'Denis, was it you who hid a street pigeon in there?' The guest probes calmly in the room, leaning on "spryatal" ("hid") before closing the thought with "tuda" ("there").
-- 'Such an important banquet fell through because of a silly bird!' Nagiyev chooses a grounded rhythm across the room, pairing "sorvalsya" ("to slip off") with "vazhnyy" ("important") so the "-sya" ending carries the action.
-- 'All right, Dima, then it was just not meant to be today.' Denis shares a serious posture with Nagiyev, pairing "znachit" ("then, so") with "sudba" ("fate, destiny") to get the point across in plain spoken Russian.
+- 'What an amazing atmosphere you have in here!' The guest uses one sharp expression toward Denis: "udivitelnaya" means "surprising" (from "udivitelnyy"), giving the line its exact edge.
+- 'Live pigeons are flying in the hall, just like in Paris!' The guest holds firm dryly with a smile, refusing to let the moment slip past.
+- 'Gavriil Ilyich, wait, I will explain everything right now!' Nagiyev steps in briskly on the spot, making his position completely clear.
+- 'No, thank you, gentlemen, all the very best to you!' The guest underscores one familiar term at once: "spasibo" means "thank you", and it carries the main weight of what the guest is saying.
+- 'All the best, goodbye, respected Gavriil Ilyich.' Nagiyev responds quietly with Denis, saying out loud what both of them already know.
+- 'Oh no, this simply cannot be!' Denis counters pointedly toward Nagiyev, letting the remark speak for itself.
+- 'Where did that live pigeon under the cover come from?' Denis grounds one pointed word right here: "kryshkoy" means "pigeon", and it carries the main weight of what Denis is saying.
+- 'Sasha, please, just shut your mouth and leave!' Nagiyev frames the remark calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Go away from here quickly, do not make me angry right now!' Nagiyev stands firm candidly to be clear, testing Denis's reaction in the middle of the exchange.
+- 'Denis, was it you who hid a street pigeon in there?' The guest frames one memorable expression in earnest: "ulichnogo" means "pigeon" (from "ulichnyy"), giving the line its exact edge.
+- 'Such an important banquet fell through because of a silly bird!' Nagiyev responds calmly to be clear, shifting the whole mood of the room in a single beat.
+- 'All right, Dima, then it was just not meant to be today.' Denis opens up right away watching Nagiyev, grounding the moment in plain reality.

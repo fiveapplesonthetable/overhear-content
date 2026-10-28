@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was sure that Viktor Petrovich would not resist a bet.' Elena establishes a wry position with Barinov, putting "byla" ("was") alongside "uverena" ("sure, confident") in a tight, everyday turn of phrase.
-- 'Everything is fine with you. Both your eyesight and your memory.' Elena offers a lively footing as they talk, using "poryadke" (from "poryadok", "order") alongside "zreniyem" ("to memory") to shape the meaning.
-- 'Your conscience, however, is not doing so well.' Elena strikes a serious posture without hesitation, pairing "sovestyu" ("conscience") with "kak-to" ("somehow, a bit") to get the point across in plain spoken Russian.
-- 'You ought to fire me for that.' Barinov sets a playful tempo for German, putting "uvolit" ("to fire") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'Not a chance. You will keep working for me as sous-chef.' Elena maintains an emphatic note toward Barinov, anchoring the Russian line on "sluchaye" ("case, event") and "budete" ("will be") without extra filler.
-- 'I will deduct the ruined dishes and ingredients from your salary.' Elena presents a thoughtful position toward German, leaning on "isporchennyye" ("deduct") before closing the thought with "blyuda" ("of dish").
-- 'Is my fish ready?' Barinov queries honestly with Elena now, placing "ryba" ("fish") straight beside "gotova" ("ready") with no word for "to be" needed.
-- 'Here is your order. No need to light it on fire?' Barinov quizzes firmly to keep things clear, weaving "zakaz" ("order") together with "podzhigat" ("to set on fire") just the way native speakers do.
-- 'I am waiting for a young lady.' German keeps a serious style with Barinov, linking "zhdu" ("I wait, expect"), "devushku" ("young woman"), and "ya" ("I") in one brisk exchange.
-- 'Please bring a bottle of your best wine in the meantime.' German establishes a calm position in the room, putting "prinesite" ("bring") alongside "butylochku" ("bottle") in a tight, everyday turn of phrase.
-- 'Just a moment.' Barinov shows a natural tempo across the room, letting the single Russian word "minutochku" ("a minute") carry the entire reaction on its own.
-- 'Well now. Viktor Petrovich Barinov, in person.' German sets a resolute angle at once, pairing "nado" ("it is necessary") with "sobstvennoy" ("own, proper") to get the point across in plain spoken Russian.
+- 'I was sure that Viktor Petrovich would not resist a bet.' Elena cuts in firmly with a nod, saying out loud what both of them already know.
+- 'Everything is fine with you. Both your eyesight and your memory.' Elena grounds one key detail in reply: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
+- 'Your conscience, however, is not doing so well.' Elena shares the reaction calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You ought to fire me for that.' Barinov answers bluntly across the room, testing German's reaction in the middle of the exchange.
+- 'Not a chance. You will keep working for me as sous-chef.' Elena highlights one direct element in reply: "su-shefom" means "sous-chef" (from "su-shef"), giving the line its exact edge.
+- 'I will deduct the ruined dishes and ingredients from your salary.' Elena follows up firmly with a nod, grounding the moment in plain reality.
+- 'Is my fish ready?' Barinov asks openly in front of Elena without any preamble.
+- 'Here is your order. No need to light it on fire?' Barinov centers one clear piece toward German: "podzhigat" means "to set on fire", and it carries the main weight of what Barinov is saying.
+- 'I am waiting for a young lady.' German states the reaction to Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Please bring a bottle of your best wine in the meantime.' German cuts in quietly with a smile, keeping the focus on what actually matters here.
+- 'Just a moment.' Barinov uses one classic term with Elena: "minutochku" means "a minute" (from "minutochka"), giving the line its exact edge.
+- 'Well now. Viktor Petrovich Barinov, in person.' German brings that remark facing Elena: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".

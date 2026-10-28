@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vera Ivanovna, I washed all the windows.' Gulya brings a serious line with the guest, anchoring the Russian line on "pomyla" ("to wash") and "okna" ("window") without extra filler.
-- 'Thank you, Gulya.' The guest adopts a thoughtful position in the conversation, anchoring the Russian line on "spasibo" ("thank you") and "tebe" ("for you, to you") without extra filler.
-- 'Rest for now, sit for a bit.' The guest brings a serious rhythm in this beat, putting "otdokhni" ("rest") alongside "poka" ("bye") in a tight, everyday turn of phrase.
-- 'You can watch television in the room.' The guest picks an unhurried tack beside Gulya, pairing "mozhesh" ("can") with "televizor" ("television") to get the point across in plain spoken Russian.
-- 'Alright, thank you very much.' Gulya favors a thoughtful angle beside the guest, putting "khorosho" ("good, fine") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
-- 'Of course, be glad, but still be careful.' The guest displays an honest style in the conversation, pairing "konechno" ("of course") with "raduysya" ("rejoice, celebrate") to get the point across in plain spoken Russian.
-- 'My friend also had a housekeeper just like this.' The guest holds a natural approach at this moment, joining "podrugi" ("female friends") to "tozhe" ("too") so every word pulls its weight.
-- 'Such a quiet and modest girl.' The guest favors a lively note across the room, building the phrase around "tikhaya" ("quiet") and "skromnaya" ("modest, humble") for a crisp, natural delivery.
-- 'And one day suddenly all the money disappeared.' The guest sets an emphatic footing at once, leaning on "den" ("day") before closing the thought with "vdrug" ("suddenly, what if").
-- 'I am not like that at all.' Gulya sustains a measured footing for the guest, combining "sovsem" ("at all") and "ya" ("I") so the key meaning lands right away.
-- 'Vera, will you lend me five thousand until my pension?' The guest wonders honestly across the room, combining "tysyach" ("thousand") and "dash" ("to give") so the key meaning lands right away.
-- 'Yes, I will bring it right now.' The guest holds a warm bearing as the scene unfolds, linking "seychas" ("now"), "prinesu" ("I will bring"), and "da" ("yes") in one brisk exchange.
+- 'Vera Ivanovna, I washed all the windows.' Gulya continues pointedly with the guest, so the guest knows she is not just making small talk.
+- 'Thank you, Gulya.' The guest reacts promptly across the room, testing Gulya's reaction in the middle of the exchange.
+- 'Rest for now, sit for a bit.' The guest centers one key word on cue: "otdokhni" means "rest" (from "otdokhnut"), giving the line its exact edge.
+- 'You can watch television in the room.' The guest holds firm calmly in their talk, grounding the moment in plain reality.
+- 'Alright, thank you very much.' Gulya speaks up pointedly on the spot, steering the talk right where she wants it.
+- 'Of course, be glad, but still be careful.' The guest features one concrete touch in reply: "ostorozhna" means "cautious" (from "ostorozhnyy"), giving the line its exact edge.
+- 'My friend also had a housekeeper just like this.' The guest proceeds pointedly during the talk, bringing things back to earth after the buildup.
+- 'Such a quiet and modest girl.' The guest speaks up quietly watching Gulya, watching Gulya's face to see how the news lands.
+- 'And one day suddenly all the money disappeared.' The guest frames one loaded word in earnest: "propali" means "disappeared" (from "propast"), giving the line its exact edge.
+- 'I am not like that at all.' Gulya gives this answer toward the guest: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Vera, will you lend me five thousand until my pension?' The guest tests straight out before Gulya can change the subject.
+- 'Yes, I will bring it right now.' The guest frames one direct piece for Gulya: "seychas" means "now", and it carries the main weight of what the guest is saying.

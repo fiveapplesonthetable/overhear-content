@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, tonight we are celebrating!' Max maintains an earnest note toward Kostya, putting "patsany" ("boys, lads") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'Nagiyev hired me as a musician.' Max shares a frank tempo in front of Vika, pairing "vzyal" ("took") with "muzykantom" ("musician") to get the point across in plain spoken Russian.
-- 'Congratulations, that is great!' Kostya picks a lively manner right away, pairing "pozdravlyayu" ("congratulations") with "otlichno" ("perfect, great") to get the point across in plain spoken Russian.
-- 'Only we are not staying out long today.' Kostya sustains a frank bearing during the exchange, joining "tolko" ("only") to "sidim" ("we are sitting") so every word pulls its weight.
-- 'Hello, my beloved wife.' Max presents a playful manner for Kostya, anchoring the Russian line on "lyubimaya" ("favourite, beloved") and "zhena" ("wife") without extra filler.
-- 'Did you even look at the clock?' Vika questions candidly right away, putting "voobshche" ("at all") alongside "chasy" ("watch") in a tight, everyday turn of phrase.
-- 'I do not even have a watch.' Max pushes back candidly in the room, using the everyday "u menya" ("by me") alongside "chasov" ("o'clock") to show what belongs to the speaker.
-- 'Vikulya, forgive me, please.' Max establishes a serious stance as the scene unfolds, putting "prosti" ("sorry, forgive me") alongside "vikulya" ("Vikulya") in a tight, everyday turn of phrase.
-- 'Fine, come inside quietly.' Vika shows a serious rhythm in their talk, leaning on "tikho" ("easy, quiet") before closing the thought with "zakhodi" ("come in").
-- 'Did you change the wheels on the car?' Vika queries dryly at this point, joining "kolyosa" ("wheels") to "mashine" ("car") so every word pulls its weight.
-- 'No, I will change them tomorrow.' Max chooses an unhurried view on the spot, anchoring the Russian line on "zavtra" ("tomorrow") and "pomenyayu" ("to change, to swap") without extra filler.
-- 'There was a huge line there today.' Max presents an earnest tempo in front of Vika, building the phrase around "tam" ("there") and "segodnya" ("today") for a crisp, natural delivery.
+- 'Guys, tonight we are celebrating!' Max chimes in bluntly with Kostya, letting the remark speak for itself.
+- 'Nagiyev hired me as a musician.' Max spotlights one direct piece on cue: "muzykantom" means "musician" (from "muzykant"), giving the line its exact edge.
+- 'Congratulations, that is great!' Kostya makes the reaction before Max: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'Only we are not staying out long today.' Kostya stands firm decisively with a smile, watching Vika's face to see how the news lands.
+- 'Hello, my beloved wife.' Max emphasizes one loaded expression at once: "lyubimaya" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.
+- 'Did you even look at the clock?' Vika brings that reply around Max: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'I do not even have a watch.' Max chimes in at once across the room, making his position completely clear.
+- 'Vikulya, forgive me, please.' Max chooses one vivid element with Vika: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
+- 'Fine, come inside quietly.' Vika puts that thought at once: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kostya is on board.
+- 'Did you change the wheels on the car?' Vika quizzes eagerly whether Max really thought this through.
+- 'No, I will change them tomorrow.' Max anchors one colorful term on cue: "pomenyayu" means "to change, to swap" (from "pomenyat"), giving the line its exact edge.
+- 'There was a huge line there today.' Max follows up at once watching Vika, making his position completely clear.

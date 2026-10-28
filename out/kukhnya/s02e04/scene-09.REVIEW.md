@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I lost track of you.' Kristina sets a sharp tone at once, anchoring the Russian line on "poteryala" ("lost, wasted") and "ya" ("I") without extra filler.
-- 'Forgive me, Kristina.' Barinov establishes a grounded attitude for Kristina, joining "prostite" ("excuse me") to "kristina" ("Kristina") so every word pulls its weight.
-- 'Are you aware of this?' Barinov challenges firmly without hesitation, linking "kurse" ("course, regimen") directly with "vy" ("you"), since Russian drops "is" and "are" in the present.
-- 'What your old friend just pulled off?' Kristina probes sharply across the room, leaning on "ustroil" ("caused") before closing the thought with "staryy" ("old").
-- 'Just look at that.' Barinov displays a candid position at this moment, building the phrase around "smotri" ("look") and "ty" ("you") for a crisp, natural delivery.
-- 'Gentlemen, it was a pleasure meeting you.' Kristina chooses a resolute approach beside Barinov, pairing "poznakomitsya" ("to meet") with "gospoda" ("gentlemen") so the "-sya" ending carries the action.
-- 'See you tomorrow.' Barinov conveys a pointed position as the scene unfolds, joining "zavtra" ("tomorrow") to "do" ("until") so every word pulls its weight.
-- 'Chef, maybe we should kill him, huh?' Kristina inquires dryly to Barinov here, leaning on "mozhet" ("can") before closing the thought with "ubit" ("kill").
-- 'Or at least scratch up his car.' Barinov shows a resolute footing in front of Kristina, linking "mashina" ("a car"), "pokotsa" ("to scratch"), and "ili" ("or") in one brisk exchange.
-- 'You know, that sheep's car.' Kristina brings a wry position as the scene unfolds, pairing "barana" ("ram, sheep") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'Leave Volodka alone.' Barinov offers a wry note with Kristina, weaving "ostavte" ("leave") together with "pokoye" ("peace") just the way native speakers do.
-- 'It broke the man.' Kristina chooses a candid approach straight away, combining "slomala" ("to break") and "muzhika" ("man, real man") so the key meaning lands right away.
-- 'We will see who beats whom.' Barinov sustains a pointed line without hesitation, weaving "yeshche" ("still") together with "posmotrim" ("have a look") just the way native speakers do.
+- 'I lost track of you.' Kristina answers warmly as things stand, letting the remark speak for itself.
+- 'Forgive me, Kristina.' Barinov emphasizes this direct expression in earnest: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
+- 'Are you aware of this?' Barinov aims this warning without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What your old friend just pulled off?' Kristina presses calmly if there is more going on behind the scenes.
+- 'Just look at that.' Barinov colors one pointed touch in reply: "smotri" means "look" (from "smotret"), giving the line its exact edge.
+- 'Gentlemen, it was a pleasure meeting you.' Kristina frames this answer beside Barinov: the "-sya" ending on "poznakomitsya" ("to meet") turns the action inward or makes it happen between people naturally.
+- 'See you tomorrow.' Barinov fires back earnestly with a nod, to clear the air between them once and for all.
+- 'Chef, maybe we should kill him, huh?' Kristina highlights one classic word in reply: "mozhet" means "can" (from "moch"), giving the line its exact edge.
+- 'Or at least scratch up his car.' Barinov steps in bluntly without a pause, letting the remark speak for itself.
+- 'You know, that sheep's car.' Kristina continues firmly with a smile, without trying to dress up how she really feels.
+- 'Leave Volodka alone.' Barinov uses one classic expression at once: "pokoye" means "peace" (from "pokoy"), giving the line its exact edge.
+- 'It broke the man.' Kristina puts this point in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'We will see who beats whom.' Barinov stands firm sharply with a shrug, keeping the focus on what actually matters here.

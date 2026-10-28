@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There she is, pouring wine.' Mikhail shows a measured approach in front of Barinov, pairing "vino" ("wine") with "nalivayet" ("pours") to get the point across in plain spoken Russian.
-- 'And mine is flirting with Louis.' Mikhail projects a thoughtful view beside Eleonora, joining "zaigryvayet" ("flirts") to "moya" ("my") so every word pulls its weight.
-- 'Let's drink to our girls, they are the very best.' Mikhail strikes a brisk manner toward Barinov, combining "davay" ("let's") and "vypyem" ("will drink") so the key meaning lands right away.
-- 'You should not have been rude to the prefect.' Mikhail strikes an emphatic line in the scene, linking "zrya" ("for nothing"), "prefektu" ("district prefect"), and "nakhamil" ("was rude to") in one brisk exchange.
-- 'We have democracy, one citizen has the right to be rude to another.' Barinov adopts a clear stance for Eleonora, leaning on "u nas" ("by us, at our place") and "demokratiya" ("democracy") the way natural Russian does.
-- 'Is it forbidden to be rude to a prefect?' Barinov probes earnestly to keep things clear, joining "khamit" ("to be rude") to "prefektu" ("district prefect") so every word pulls its weight.
-- 'I do not understand, what is this celebration?' Eleonora wonders dryly across the room, anchoring the Russian line on "ponyala" ("understood") and "prazdnik" ("holiday") without extra filler.
-- 'We have a new menu, Eleonora Andreyevna.' Barinov presents an honest manner on the spot, putting "novoye" ("new") alongside "menyu" ("menu") in a tight, everyday turn of phrase.
-- 'I am aware of that.' Eleonora sustains a pointed style toward Barinov, combining "kurse" ("course, regimen") and "ya" ("I") so the key meaning lands right away.
-- 'And I am also aware that you kicked out the prefect.' Eleonora establishes a warm style in front of Mikhail, putting "prefekta" ("prefect") alongside "vygnal" ("kicked out") in a tight, everyday turn of phrase.
-- 'Vitya, this is my restaurant!' Eleonora adopts a measured manner right away, pairing "restoran" ("restaurant") with "vitya" ("Vitya") to get the point across in plain spoken Russian.
-- 'Bring back the old menu tomorrow, understood?' Eleonora prompts lightly to make the point, anchoring the Russian line on "zavtra" ("tomorrow") and "vernul" ("give back") without extra filler.
+- 'There she is, pouring wine.' Mikhail drops this warning plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And mine is flirting with Louis.' Mikhail jumps in right away to settle things, to clear the air between them once and for all.
+- 'Let's drink to our girls, they are the very best.' Mikhail stresses this clear choice in earnest: "luchshiye" means "best" (from "luchshiy"), giving the line its exact edge.
+- 'You should not have been rude to the prefect.' Mikhail highlights one clear element toward Eleonora: "prefektu" means "district prefect" (from "prefekt"), giving the line its exact edge.
+- 'We have democracy, one citizen has the right to be rude to another.' Barinov reacts sharply with a smile, watching Eleonora's face to see how the news lands.
+- 'Is it forbidden to be rude to a prefect?' Barinov highlights one classic piece with Mikhail: "prefektu" means "district prefect" (from "prefekt"), giving the line its exact edge.
+- 'I do not understand, what is this celebration?' Eleonora shapes the reaction toward Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'We have a new menu, Eleonora Andreyevna.' Barinov follows up calmly toward Mikhail, to clear the air between them once and for all.
+- 'I am aware of that.' Eleonora centers one clear touch in reply: "kurse" means "course, regimen" (from "kurs"), giving the line its exact edge.
+- 'And I am also aware that you kicked out the prefect.' Eleonora centers one classic piece toward Mikhail: "prefekta" means "prefect" (from "prefekt"), giving the line its exact edge.
+- 'Vitya, this is my restaurant!' Eleonora reacts bluntly watching Barinov, shifting the whole mood of the room in a single beat.
+- 'Bring back the old menu tomorrow, understood?' Eleonora stresses one familiar expression at once: "staroye" means "old" (from "staryy"), giving the line its exact edge.

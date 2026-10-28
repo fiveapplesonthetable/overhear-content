@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And how many Moscow homeless people eat at my expense?' Max asks directly across the room, putting "skolko" ("how much, so much") alongside "moskovskikh" ("Moscow") in a tight, everyday turn of phrase.
-- 'Only this one, but please do not worry.' Vika displays a serious angle during the exchange, pairing "tolko" ("only") with "volnuytes" ("worry") to get the point across in plain spoken Russian.
-- 'Rodion Sergeyevich is a very cleanly and decent man.' Vika establishes a serious course in their talk, anchoring the Russian line on "ochen" ("very much") and "chistoplotnyy" ("cleanly, neat") without extra filler.
-- 'You will talk about that with the police tomorrow.' Max sets an unhurried footing in the conversation, building the phrase around "zavtra" ("tomorrow") and "pogovorite" ("have a word") for a crisp, natural delivery.
-- 'I would not like to end up at the police station at all.' Max establishes a playful line in their talk, leaning on "politsiyu" ("the police") before closing the thought with "popadat" ("to end up, get into").
-- 'They both feed you poorly there and the people are unfriendly.' Max conveys a frank angle across the room, putting "tam" ("there") alongside "kormyat" ("to feed") in a tight, everyday turn of phrase.
-- 'Sasha, wait, what do you mean the baby is not Ilya's?' Max quizzes pointedly from the start, weaving "podozhdi" ("wait") together with "kak" ("how") just the way native speakers do.
-- 'I mean, and what are you going to do now?' Max presses pointedly from the start, pairing "smysle" ("sense") with "teper" ("now") to get the point across in plain spoken Russian.
-- 'I am calmly planning to have this baby.' Sasha establishes a grounded course during the exchange, leaning on "spokoyno" ("calmly") before closing the thought with "dumayu" ("I think").
-- 'Yes, hi, Vika! No, I am not at work yet.' Max takes a direct view without hesitation, building the phrase around "yeshchyo" ("more, still") and "rabote" ("work") for a crisp, natural delivery.
-- 'I think that I will be at our restaurant soon.' Max takes a candid bearing in front of Sasha, joining "dumayu" ("I think") to "skoro" ("soon") so every word pulls its weight.
-- 'Why did you just tell her a lie on the phone?' Sasha presses boldly across the room, anchoring the Russian line on "zachem" ("what for") and "seychas" ("now") without extra filler.
+- 'And how many Moscow homeless people eat at my expense?' Max drops this warning to Sasha: putting the question word "skolko" right at the front of the line lets Sasha hear the point of the question on the very first beat.
+- 'Only this one, but please do not worry.' Vika pushes back firmly across the room, letting the remark speak for itself.
+- 'Rodion Sergeyevich is a very cleanly and decent man.' Vika emphasizes one pointed touch in earnest: "chistoplotnyy" means "cleanly, neat", and it carries the main weight of what Vika is saying.
+- 'You will talk about that with the police tomorrow.' Max spotlights one colorful expression for Vika: "politsiyey" means "with the police" (from "politsiya"), giving the line its exact edge.
+- 'I would not like to end up at the police station at all.' Max cuts in quietly beside Sasha, testing Sasha's reaction in the middle of the exchange.
+- 'They both feed you poorly there and the people are unfriendly.' Max emphasizes this telling touch with Vika: "neprivetlivyye" means "unfriendly" (from "neprivetlivyy"), giving the line its exact edge.
+- 'Sasha, wait, what do you mean the baby is not Ilya's?' Max voices that point calmly now: putting the question word "kak" right at the front of the line lets Sasha hear the point of the question on the very first beat.
+- 'I mean, and what are you going to do now?' Max checks quietly in front of Vika without any preamble.
+- 'I am calmly planning to have this baby.' Sasha chooses one telling word for Max: "rebyonka" means "child" (from "rebyonok"), giving the line its exact edge.
+- 'Yes, hi, Vika! No, I am not at work yet.' Max directs the reaction before Vika: opening with the casual greeting "privet" ("hi") signals right away that Max and Vika are on familiar terms.
+- 'I think that I will be at our restaurant soon.' Max speaks honestly without holding back, making his position completely clear.
+- 'Why did you just tell her a lie on the phone?' Sasha chooses this direct piece for Vika: "nepravdu" means "untruth, lie" (from "nepravda"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, fellas, have a conscience!' The guest chooses a direct direction in their talk, joining "zdravstvuyte" ("hello") to "muzhiki" ("lads, guys") so every word pulls its weight.
-- 'I did not get out of my taxi all day, driving people.' The guest establishes a sharp line in the room, linking "sutki" ("day and night"), "taksi" ("taxi"), and "vylezal" ("got out") in one brisk exchange.
-- 'Turn off the drill, I just lay down to sleep!' The guest strikes a calm direction in the room, joining "vyrubite" ("shut off") to "drel" ("power drill") so every word pulls its weight.
-- 'Listen, friend, we have another hour of work here.' Barinov shares an easygoing tack as the scene unfolds, building the phrase around "slushay" ("listen") and "drug" ("friend") for a crisp, natural delivery.
-- 'Bear with us, tomorrow he picks up his wife from the hospital.' Barinov takes a frank posture in the scene, linking "poterpi" ("to be patient for a while"), "zavtra" ("tomorrow"), and "zhenu" ("wife") in one brisk exchange.
-- 'Please, put yourself in our shoes.' Barinov displays a resolute tack at this moment, anchoring the Russian line on "voydi" ("enter") and "polozheniye" ("position, situation") without extra filler.
-- 'Is a baby going to be screaming in here too?' The guest queries wryly as the beat lands, building the phrase around "tut" ("here") and "yeshchyo" ("more, still") for a crisp, natural delivery.
-- 'Yes, my child is going to live in my home.' Max offers a wry posture right away, using "dome" (from "dom", "house") alongside "budet" ("will be") to shape the meaning.
-- 'Do you have some kind of problem with that?' Max checks briskly without a pause, leaning on "problemy" ("problems") before closing the thought with "tebya" ("you").
-- 'You will have problems if I hear the drill again!' The guest strikes an earnest note toward Max, leaning on "problemy" ("problems") before closing the thought with "budut" ("there will be").
-- 'Actually today is Saturday, you have no right.' The guest conveys a calm line on the spot, weaving "voobshche-to" ("actually") together with "segodnya" ("today") just the way native speakers do.
-- 'Pay no attention to him, let's continue.' Barinov chooses a steady angle at once, leaning on "obrashchay" ("pay") before closing the thought with "vnimaniya" ("attention").
+- 'Hello, fellas, have a conscience!' The guest responds bluntly with a nod, shifting the whole mood of the room in a single beat.
+- 'I did not get out of my taxi all day, driving people.' The guest emphasizes one classic word in earnest: "sutki" means "day and night", and it carries the main weight of what the guest is saying.
+- 'Turn off the drill, I just lay down to sleep!' The guest replies candidly with a smile, steering the talk right where he wants it.
+- 'Listen, friend, we have another hour of work here.' Barinov opens up honestly facing Max, keeping the focus on what actually matters here.
+- 'Bear with us, tomorrow he picks up his wife from the hospital.' Barinov picks this direct choice with the guest: "roddoma" means "maternity hospital" (from "roddom"), giving the line its exact edge.
+- 'Please, put yourself in our shoes.' Barinov delivers that remark plainly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Is a baby going to be screaming in here too?' The guest wonders point-blank whether Barinov really thought this through.
+- 'Yes, my child is going to live in my home.' Max focuses on one loaded element toward the guest: "rebyonok" means "a child", and it carries the main weight of what Max is saying.
+- 'Do you have some kind of problem with that?' Max frames the comeback with candor: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'You will have problems if I hear the drill again!' The guest replies calmly without a pause, bringing things back to earth after the buildup.
+- 'Actually today is Saturday, you have no right.' The guest stresses one classic piece toward Barinov: "voobshche-to" means "actually", and it carries the main weight of what the guest is saying.
+- 'Pay no attention to him, let's continue.' Barinov responds bluntly with a sigh, leaving no doubt about where he stands.

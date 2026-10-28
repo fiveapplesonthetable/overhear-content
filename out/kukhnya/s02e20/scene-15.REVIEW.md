@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe they will not even remember those dishes?' Barinov probes naturally on the spot, weaving "mozhet" ("can") together with "vspomnyat" ("to remember") just the way native speakers do.
-- 'Shut your mouth, Fedya.' Nagiyev presents a grounded tack at once, linking "rot" ("mouth"), "zakroy" ("shut, close"), and "fedya" ("Fedya") in one brisk exchange.
-- 'They will remember every single thing.' Nagiyev chooses a resolute approach straight away, leaning on "vspomnyat" ("to remember") before closing the thought with "oni" ("they").
-- 'They paid good money for that menu.' Barinov shares a calm footing without hesitation, putting "babki" ("grand") alongside "platili" ("pay") in a tight, everyday turn of phrase.
-- 'Cook it right now, fast.' Fedya shows a direct manner with Barinov, building the phrase around "bystro" ("quickly") and "gotovte" ("cook") for a crisp, natural delivery.
-- 'Dima, we will not make it in time.' Nagiyev shares a frank note in this beat, leaning on "uspeyem" ("we'll make it") before closing the thought with "dim" ("Dima").
-- 'We do not even have the ingredients here.' Barinov shows an honest tone in this beat, building the phrase around "nas" ("us") and "yego" ("him") for a crisp, natural delivery.
-- 'Chef, you will have your hour, I will handle everything.' Fedya sets an earnest tempo right away, leaning on "budet" ("will be") before closing the thought with "chas" ("hour").
-- 'Get out of here right now.' Nagiyev establishes a candid view right away, combining "poshel" ("go, off you go") and "otsyuda" ("from here") so the key meaning lands right away.
-- 'I am the one who decides who goes where and when.' Barinov establishes a measured footing at this moment, combining "reshayu" ("decide") and "kuda" ("where to") so the key meaning lands right away.
-- 'What did you just say, kid?' Fedya challenges firmly on the spot, weaving "skazal" ("said") together with "malysh" ("kid, little one") just the way native speakers do.
-- 'Did all of you hear that?' Nagiyev inquires frankly right away, putting "slyshali" ("did you hear") alongside "da" ("yes") in a tight, everyday turn of phrase.
-- 'Start prepping the appetizers, he will handle it.' Barinov offers a calm course at this moment, using "gotovte" (from "gotovit", "cook") alongside "zakuski" ("appetizer, snack") to shape the meaning.
+- 'Maybe they will not even remember those dishes?' Barinov quizzes quietly why things suddenly took this turn between them.
+- 'Shut your mouth, Fedya.' Nagiyev emphasizes one colorful term in earnest: "zakroy" means "shut, close" (from "zakryt"), giving the line its exact edge.
+- 'They will remember every single thing.' Nagiyev drops that reply frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'They paid good money for that menu.' Barinov opens up openly in their talk, testing Nagiyev's reaction in the middle of the exchange.
+- 'Cook it right now, fast.' Fedya focuses on one telling expression in earnest: "gotovte" means "cook" (from "gotovit"), giving the line its exact edge.
+- 'Dima, we will not make it in time.' Nagiyev states the comment before Fedya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'We do not even have the ingredients here.' Barinov steps in pointedly toward Fedya, watching Fedya's face to see how the news lands.
+- 'Chef, you will have your hour, I will handle everything.' Fedya colors one loaded term for Nagiyev: "chas" means "hour", and it carries the main weight of what Fedya is saying.
+- 'Get out of here right now.' Nagiyev drops the comeback plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I am the one who decides who goes where and when.' Barinov cuts in pointedly in their talk, to clear the air between them once and for all.
+- 'What did you just say, kid?' Fedya favors one direct detail in earnest: "malysh" means "kid, little one", and it carries the main weight of what Fedya is saying.
+- 'Did all of you hear that?' Nagiyev sends that point beside Fedya: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
+- 'Start prepping the appetizers, he will handle it.' Barinov weighs in quietly beside Fedya, watching Fedya's face to see how the news lands.

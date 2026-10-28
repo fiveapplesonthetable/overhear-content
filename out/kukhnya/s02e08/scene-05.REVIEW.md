@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I knew she would like it.' Max maintains a resolute tempo toward Barinov, leaning on "znal" ("knew") before closing the thought with "ponravitsya" ("will please").
-- 'In full detail. Just as I knew.' Barinov offers a steady angle without hesitation, using "podrobnostyakh" (from "podrobnost", "detail") alongside "znal" ("knew") to shape the meaning.
-- 'I told you, slowly and in full detail.' Max presents a lively tone in their talk, anchoring the Russian line on "skazal" ("said") and "medlenno" ("slowly") without extra filler.
-- 'No problem at all.' Max displays a resolute style during the exchange, pairing "vopros" ("question, matter") with "da" ("yes") so the "-sya" ending carries the action.
-- 'It is a social network.' Barinov brings a clear attitude across the room, putting "sotsialnaya" ("social") alongside "set" ("net, network") in a tight, everyday turn of phrase.
-- 'And here is a comment under her photographs.' Nastya holds a brisk attitude in this beat, building the phrase around "kommentariy" ("comment") and "fotografiyam" ("photograph") for a crisp, natural delivery.
-- 'What a sheep. Actually, he is.' Max chooses an earnest line with Barinov, pairing "baran" ("sheep") with "voobshche-to" ("actually") to get the point across in plain spoken Russian.
-- 'Chef, would you like me to register an account for you?' Nastya inquires lightly for Max's benefit, putting "khotite" ("want") alongside "zaregistriruyu" ("to register") in a tight, everyday turn of phrase.
-- 'A sheep. Chef?' Nastya challenges directly to make the point, anchoring the Russian line on "baran" ("sheep") and "shef" ("Chef") without extra filler.
-- 'You can ask her out on a date online, huh?' Max challenges pointedly for Nastya's benefit, joining "svidaniye" ("date") to "priglasite" ("call in, invite") so every word pulls its weight.
-- 'That is the second 'get out' Barinov projects a serious course in the conversation, pairing "vtoroy" ("second") with "poshel" ("go, off you go") to get the point across in plain spoken Russian.
-- 'Not on any network.' Nastya sustains a playful tack in this beat, leaning on "seti" ("nets") before closing the thought with "ni" ("not even, nor").
-- 'You have to ask women out on a date the good old-fashioned way.' Max establishes a playful view as they talk, anchoring the Russian line on "zhenshchin" ("women") and "nado" ("it is necessary") without extra filler.
+- 'I knew she would like it.' Max hands over that answer before Barinov: the "-sya" ending on "ponravitsya" ("will please") turns the action inward or makes it happen between people naturally.
+- 'In full detail. Just as I knew.' Barinov weighs in right away with a sigh, watching Nastya's face to see how the news lands.
+- 'I told you, slowly and in full detail.' Max anchors one colorful word for Barinov: "podrobnostyakh" means "detail" (from "podrobnost"), giving the line its exact edge.
+- 'No problem at all.' Max phrases this statement plainly here: the "-sya" ending on "vopros" ("question, matter") turns the action inward or makes it happen between people naturally.
+- 'It is a social network.' Barinov continues warmly with a nod, testing Max's reaction in the middle of the exchange.
+- 'And here is a comment under her photographs.' Nastya uses one concrete touch on cue: "fotografiyam" means "photograph" (from "fotografiya"), giving the line its exact edge.
+- 'What a sheep. Actually, he is.' Max sends that point without pause: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Chef, would you like me to register an account for you?' Nastya probes briskly about what Max just brought up.
+- 'A sheep. Chef?' Nastya favors one classic expression right here: "baran" means "sheep", and it carries the main weight of what Nastya is saying.
+- 'You can ask her out on a date online, huh?' Max aims this update beside Nastya: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'That is the second 'get out' Barinov jumps in quietly with Max, grounding the moment in plain reality.
+- 'Not on any network.' Nastya picks one concrete choice in earnest: "seti" means "nets", and it carries the main weight of what Nastya is saying.
+- 'You have to ask women out on a date the good old-fashioned way.' Max shares the remark to Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".

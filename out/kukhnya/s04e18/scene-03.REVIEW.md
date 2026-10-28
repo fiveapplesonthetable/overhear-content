@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They ordered a horsemeat steak out there.' Barinov strikes a candid style on the spot, joining "tam" ("there") to "steyk" ("steak") so every word pulls its weight.
-- 'Look, there is one more video clip.' Senya sets a direct mood at once, combining "smotri" ("look") and "yest" ("there is") so the key meaning lands right away.
-- 'It has the exact same title.' Fedya takes a wry tone in their talk, leaning on "nazvaniye" ("name, title") before closing the thought with "nego" ("him").
-- 'Wait, is that our German or what?' Senya queries briskly in the scene, weaving "eto" ("this") together with "chto" ("what") just the way native speakers do.
-- 'I wonder where all this took place?' Fedya queries bluntly toward Barinov here, building the phrase around "interesno" ("interesting") and "gde" ("where") for a crisp, natural delivery.
-- 'Stop it, I know him well.' Barinov displays a wry footing in the room, leaning on "ostanovi" ("stop") before closing the thought with "khorosho" ("good, fine").
-- 'He used to work in Riga.' Barinov conveys a natural approach right away, leaning on "ranshe" ("earlier, previously") before closing the thought with "rige" ("riga").
-- 'That is my acquaintance Markus.' Barinov adopts a measured line without hesitation, combining "znakomyy" ("familiar") and "markus" ("markus") so the key meaning lands right away.
-- 'Give me the phone, I will call him.' Barinov displays an honest tempo beside Fedya, putting "day" ("give") alongside "telefon" ("phone") in a tight, everyday turn of phrase.
-- 'Hello, Markus, hi there, my friend.' Barinov chooses a measured tempo during the exchange, pairing "markus" ("markus") with "dorogoy" ("dear") to get the point across in plain spoken Russian.
-- 'Tell me about this German.' Barinov conveys a serious note at this moment, weaving "rasskazhi" ("tell") together with "germana" ("german") just the way native speakers do.
-- 'Thank you very much for the information.' Barinov conveys a thoughtful tempo in the room, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "informatsiyu" ("information") in one brisk exchange.
+- 'They ordered a horsemeat steak out there.' Barinov replies evenly with a sigh, without trying to dress up how he really feels.
+- 'Look, there is one more video clip.' Senya colors one familiar choice toward Fedya: "yeshchyo" means "more, still", and it carries the main weight of what Senya is saying.
+- 'It has the exact same title.' Fedya speaks at once with Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Wait, is that our German or what?' Senya tests wryly whether Fedya really thought this through.
+- 'I wonder where all this took place?' Fedya focuses on this key expression for Barinov: "interesno" means "interesting", and it carries the main weight of what Fedya is saying.
+- 'Stop it, I know him well.' Barinov shares that thought frankly here: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'He used to work in Riga.' Barinov fires back sharply watching Fedya, to clear the air between them once and for all.
+- 'That is my acquaintance Markus.' Barinov frames one sharp term with Senya: "znakomyy" means "familiar", and it carries the main weight of what Barinov is saying.
+- 'Give me the phone, I will call him.' Barinov pushes back bluntly in their talk, to clear the air between them once and for all.
+- 'Hello, Markus, hi there, my friend.' Barinov responds lightly during the talk, leaving no doubt about where he stands.
+- 'Tell me about this German.' Barinov sharpens this key expression at once: "rasskazhi" means "tell" (from "rasskazat"), giving the line its exact edge.
+- 'Thank you very much for the information.' Barinov makes the thought on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.

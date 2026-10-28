@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, did you forget something again?' Max prompts evenly at this point, anchoring the Russian line on "zdravstvuyte" ("hello") and "opyat" ("again") without extra filler.
-- 'No, I was just taking out the trash.' Max projects a sharp bearing for Katya, leaning on "prosto" ("just") before closing the thought with "musor" ("rubbish").
-- 'Goodbye, young man.' The hostess establishes a serious line on the spot, anchoring the Russian line on "svidaniya" ("meeting") and "molodoy" ("young") without extra filler.
-- 'How am I supposed to understand this?' Max presses decisively to keep things clear, weaving "kak" ("how") together with "voobshche" ("at all") just the way native speakers do.
-- 'Quiet, this granny lives in the next-door apartment.' Katya sets a steady style in this beat, pairing "tishe" ("quiet, more quietly") with "babulya" ("granny, old lady") to get the point across in plain spoken Russian.
-- 'And what am I supposed to do now?' Max inquires steadily without hesitation, putting "teper" ("now") alongside "delat" ("do") in a tight, everyday turn of phrase.
-- 'I am telling you, move out of here quickly.' Katya chooses an emphatic manner toward the hostess, using "govoryu" (from "govorit", "am telling") alongside "bystreye" ("faster") to shape the meaning.
-- 'Listen, I paid for the first and the last month.' Max holds a playful line at once, anchoring the Russian line on "slushay" ("listen") and "pervyy" ("first") without extra filler.
-- 'And I left a deposit, I have no money at all.' Max strikes a natural direction in the scene, weaving "zalog" ("security deposit") together with "ostavil" ("left") just the way native speakers do.
-- 'Well and what do you suggest now?' Katya quizzes earnestly as the talk turns, joining "teper" ("now") to "predlagayesh" ("are suggesting") so every word pulls its weight.
-- 'Then let us live here together.' Max sets an easygoing bearing right away, putting "togda" ("back then") alongside "davay" ("let's") in a tight, everyday turn of phrase.
-- 'I warned you, alright, let me help.' Katya takes a grounded direction during the exchange, weaving "predupredila" ("warned") together with "davay" ("let's") just the way native speakers do.
+- 'Hello, did you forget something again?' Max presses deadpan how the hostess expects that to work in practice.
+- 'No, I was just taking out the trash.' Max favors one sharp detail toward Katya: "musor" means "rubbish", and it carries the main weight of what Max is saying.
+- 'Goodbye, young man.' The hostess lays out that line without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'How am I supposed to understand this?' Max wonders briskly where this conversation is heading next.
+- 'Quiet, this granny lives in the next-door apartment.' Katya picks one concrete term at once: "sosedney" means "neighboring" (from "sosedniy"), giving the line its exact edge.
+- 'And what am I supposed to do now?' Max states the comeback with candor: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'I am telling you, move out of here quickly.' Katya responds quietly watching the hostess, saying out loud what both of them already know.
+- 'Listen, I paid for the first and the last month.' Max focuses on one memorable touch for Katya: "posledniy" means "last", and it carries the main weight of what Max is saying.
+- 'And I left a deposit, I have no money at all.' Max shapes that line for the hostess: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Well and what do you suggest now?' Katya challenges straight out while looking straight at Max here.
+- 'Then let us live here together.' Max highlights one familiar piece with the hostess: "vmeste" means "together", and it carries the main weight of what Max is saying.
+- 'I warned you, alright, let me help.' Katya drops this statement calmly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

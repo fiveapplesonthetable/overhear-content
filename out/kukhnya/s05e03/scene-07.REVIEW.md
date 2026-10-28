@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, so you are staying with us?' Denis queries briskly across the room, pairing "ostayotes" ("stay") with "shef" ("Chef") to get the point across in plain spoken Russian.
-- 'The chef built this wonderful restaurant.' Denis favors a frank tone on the spot, weaving "sdelal" ("did") together with "prekrasnyy" ("beautiful") just the way native speakers do.
-- 'Thank goodness, we dodged a bullet today!' Barinov favors a direct angle with Denis, putting "slava" ("glory") alongside "bogu" ("to God") in a tight, everyday turn of phrase.
-- 'I will pay off the old loan and take a new one.' Barinov adopts a warm note at once, linking "staryy" ("old"), "kredit" ("loan, credit"), and "otdam" ("I give back") in one brisk exchange.
-- 'I will install a good air conditioner at home.' Barinov holds a direct line at this moment, putting "doma" ("at home") alongside "khoroshiy" ("good") in a tight, everyday turn of phrase.
-- 'My wife is hot at home in her fur coat.' Barinov sustains a pointed posture at once, linking "zhene" ("wife") directly with "doma" ("at home"), since Russian drops "is" and "are" in the present.
-- 'Why did she want to fire me?' Denis tests sharply in the scene, building the phrase around "khotela" ("wanted, meant") and "uvolit" ("to fire") for a crisp, natural delivery.
-- 'I just did not try hard enough yesterday.' Denis establishes a steady manner at this moment, combining "prosto" ("just") and "plokho" ("badly") so the key meaning lands right away.
-- 'Well, that is it, I am heading to the airport.' Katya presents a sharp tone beside Barinov, leaning on "yedu" ("am driving") before closing the thought with "aeroport" ("the airport").
-- 'Alright, bye, have a safe trip!' Denis shares a direct bearing toward Katya, weaving "davay" ("let's") together with "poka" ("bye") just the way native speakers do.
-- 'I love you. Do not miss me too much.' Katya maintains a playful bearing at once, pairing "lyublyu" ("love") with "skuchay" ("be bored, miss") to get the point across in plain spoken Russian.
-- 'I will miss you very much.' Denis holds a clear mood in the room, putting "ochen" ("very much") alongside "budu" ("will be") in a tight, everyday turn of phrase.
-- 'Mom, bye, see you soon!' Katya strikes a thoughtful stance in their talk, putting "mama" ("mum, mother") alongside "poka" ("bye") in a tight, everyday turn of phrase.
+- 'Chef, so you are staying with us?' Denis features one pointed piece for Barinov: "ostayotes" means "stay" (from "ostavatsya"), giving the line its exact edge.
+- 'The chef built this wonderful restaurant.' Denis speaks up openly facing Katya, keeping the focus on what actually matters here.
+- 'Thank goodness, we dodged a bullet today!' Barinov speaks up dryly with a nod, refusing to let the moment slip past.
+- 'I will pay off the old loan and take a new one.' Barinov features one familiar choice toward Katya: "staryy" means "old", and it carries the main weight of what Barinov is saying.
+- 'I will install a good air conditioner at home.' Barinov sends the reaction toward Denis: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'My wife is hot at home in her fur coat.' Barinov stands firm openly during the talk, steering the talk right where he wants it.
+- 'Why did she want to fire me?' Denis points to one key choice for Barinov: "khotela" means "wanted, meant" (from "khotet"), giving the line its exact edge.
+- 'I just did not try hard enough yesterday.' Denis frames that point before Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Well, that is it, I am heading to the airport.' Katya follows up frankly before Barinov, saying out loud what both of them already know.
+- 'Alright, bye, have a safe trip!' Denis colors one colorful term with Katya: "schastlivogo" means "happy" (from "schastlivyy"), giving the line its exact edge.
+- 'I love you. Do not miss me too much.' Katya gives this statement to Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I will miss you very much.' Denis proceeds steadily facing Katya, refusing to let the moment slip past.
+- 'Mom, bye, see you soon!' Katya underscores one pointed piece with Barinov: "vstrechi" means "meeting, next time" (from "vstrecha"), giving the line its exact edge.

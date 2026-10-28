@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, it is just a medicinal herb, thank you very much.' Barinov favors a playful bearing in this beat, building the phrase around "prosto" ("just") and "lekarstvennaya" ("medicinal") for a crisp, natural delivery.
-- 'Did you really spend the night together with Sveta?' Kostya checks openly without holding back, combining "provyol" ("to spend, to lead") and "noch" ("night") so the key meaning lands right away.
-- 'Wow, and how did you manage to get into that?' Kostya challenges dryly on the spot, joining "kak" ("how") to "ugorazdilo" ("possessed, managed to") so every word pulls its weight.
-- 'Very simply, yesterday at the party I drank too much.' Denis sets a frank position for Kostya, anchoring the Russian line on "ochen" ("very much") and "prosto" ("just") without extra filler.
-- 'Wait, well and what will happen with Katya now?' Kostya quizzes candidly to keep things clear, linking "podozhdi" ("wait"), "teper" ("now"), and "budet" ("will be") in one brisk exchange.
-- 'What about Katya, she is with Nikita anyway.' Denis shares a direct tack at this moment, anchoring the Russian line on "ravno" ("the same") and "chto" ("what") without extra filler.
-- 'And Sveta is already hinting at a wedding to me right away.' Denis sustains a frank position across the room, joining "sveta" ("electricity") to "uzhe" ("already, now") so every word pulls its weight.
-- 'Can you imagine, she barely mentions it in the morning.' Denis holds a lively bearing with Kostya, linking "predstavlyayesh" ("can you imagine"), "tolko" ("only"), and "utrom" ("this morning") in one brisk exchange.
-- 'And right away there is a call from a jewelry store.' Denis holds a resolute tone in the scene, leaning on "tut" ("here") before closing the thought with "srazu" ("at once").
-- 'They say that I won a big discount on rings.' Denis offers a calm mood at this moment, building the phrase around "govoryat" ("talks, says") and "vyigral" ("won") for a crisp, natural delivery.
-- 'What a coincidence, and is this discount big?' Kostya prompts frankly on the spot, building the phrase around "sovpadeniye" ("coincidence") and "bolshaya" ("large") for a crisp, natural delivery.
-- 'Fifty percent, in my opinion that is just very cool!' Denis offers a steady tack for Kostya, building the phrase around "protsentov" ("percent") and "po-moyemu" ("in my opinion") for a crisp, natural delivery.
+- 'Timur, it is just a medicinal herb, thank you very much.' Barinov makes the comment toward Denis: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Did you really spend the night together with Sveta?' Kostya challenges straight out why things suddenly took this turn between them.
+- 'Wow, and how did you manage to get into that?' Kostya chooses one telling detail on cue: "ugorazdilo" means "possessed, managed to" (from "ugorazdit"), giving the line its exact edge.
+- 'Very simply, yesterday at the party I drank too much.' Denis frames that reply right away: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Wait, well and what will happen with Katya now?' Kostya wonders evenly while looking straight at Barinov here.
+- 'What about Katya, she is with Nikita anyway.' Denis features one direct touch with Kostya: "ravno" means "the same", and it carries the main weight of what Denis is saying.
+- 'And Sveta is already hinting at a wedding to me right away.' Denis stands firm openly in this moment, bringing things back to earth after the buildup.
+- 'Can you imagine, she barely mentions it in the morning.' Denis proceeds dryly with a nod, without trying to dress up how he really feels.
+- 'And right away there is a call from a jewelry store.' Denis grounds one familiar detail at once: "yuvelirnogo" means "jewelry" (from "yuvelirnyy"), giving the line its exact edge.
+- 'They say that I won a big discount on rings.' Denis weighs in wryly with a nod, so Kostya knows he is not just making small talk.
+- 'What a coincidence, and is this discount big?' Weighing in with urgency, Kostya makes it clear that he means every single word.
+- 'Fifty percent, in my opinion that is just very cool!' Denis uses this telling word at once: "protsentov" means "percent" (from "protsent"), giving the line its exact edge.

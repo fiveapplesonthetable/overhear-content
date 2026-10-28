@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, call Ilya, a regular guest of his has arrived.' Sasha displays a playful tone in their talk, anchoring the Russian line on "pozovi" ("call, invite") and "postoyannyy" ("regular") without extra filler.
-- 'Yes, of course.' Max conveys a pointed approach in their talk, anchoring the Russian line on "konechno" ("of course") and "da" ("yes") without extra filler.
-- 'Good afternoon. You know, Ilya is not here today.' Max conveys a wry tempo as the scene unfolds, putting "dobryy" ("good") alongside "den" ("day") in a tight, everyday turn of phrase.
-- 'Can I help you with something?' Max tests candidly right away, using "mogu" (from "moch", "can") alongside "pomoch" ("to help") to shape the meaning.
-- 'Yes, I am in a big hurry.' Ilya holds an honest course in the room, leaning on "ochen" ("very much") before closing the thought with "toroplyus" ("I'm in a hurry").
-- 'Please bring me tartare and coffee.' Ilya presents a steady tone toward Sasha, combining "budte" ("be") and "dobry" ("kind") so the key meaning lands right away.
-- 'Bon appetit.' Max projects a firm attitude as they talk, pairing "priyatnogo" ("pleasant") with "appetita" ("appetite") to get the point across in plain spoken Russian.
-- 'Why are you standing here?' Max queries boldly at this point, putting "stoish" ("stand") alongside "chego" ("what") in a tight, everyday turn of phrase.
-- 'Oh nothing, I stepped out to get some air.' Ilya picks a candid bearing for Max, leaning on "vyshel" ("stepped out") before closing the thought with "podyshat" ("to breathe in").
-- 'Max, why didn't you take your table?' Ilya prompts bluntly in the room, combining "stolik" ("table") and "zabral" ("takes it back") so the key meaning lands right away.
-- 'That is Ilya's table. Pass the order to him.' Max shares a brisk rhythm in their talk, leaning on "stolik" ("table") before closing the thought with "pereday" ("pass on, give").
-- 'I brought out the order and brought the bill, he was just in a hurry.' Sasha offers a direct attitude in their talk, leaning on "vynesla" ("issued, handed down") before closing the thought with "zakaz" ("order").
+- 'Max, call Ilya, a regular guest of his has arrived.' Sasha pushes back plainly facing Ilya, refusing to let the moment slip past.
+- 'Yes, of course.' Max emphasizes this vivid touch toward Sasha: "konechno" means "of course", and it carries the main weight of what Max is saying.
+- 'Good afternoon. You know, Ilya is not here today.' Max fires back boldly with a sigh, shifting the whole mood of the room in a single beat.
+- 'Can I help you with something?' Max tests candidly if there is more going on behind the scenes.
+- 'Yes, I am in a big hurry.' Ilya centers one colorful piece on cue: "toroplyus" means "I'm in a hurry" (from "toropitsya"), giving the line its exact edge.
+- 'Please bring me tartare and coffee.' Ilya follows up decisively with a shrug, saying out loud what both of them already know.
+- 'Bon appetit.' Max jumps in evenly toward Ilya, bringing things back to earth after the buildup.
+- 'Why are you standing here?' Max centers one colorful detail with Sasha: "stoish" means "stand" (from "stoyat"), giving the line its exact edge.
+- 'Oh nothing, I stepped out to get some air.' Ilya drops this line for Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Max, why didn't you take your table?' Ilya checks bluntly if there is more going on behind the scenes.
+- 'That is Ilya's table. Pass the order to him.' Max features one clear word toward Ilya: "stolik" means "table", and it carries the main weight of what Max is saying.
+- 'I brought out the order and brought the bill, he was just in a hurry.' Sasha makes that reply around Max: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

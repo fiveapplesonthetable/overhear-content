@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, wait, where are you hurrying off to like that?' Katya prompts directly in the room, building the phrase around "podozhdi" ("wait") and "kuda" ("where to") for a crisp, natural delivery.
-- 'I need to quietly take some fresh fish home.' Senya picks a candid approach at once, weaving "nado" ("it is necessary") together with "svezhey" ("fresh") just the way native speakers do.
-- 'Can you imagine, the chef cooked such a terrible sauce in there!' Senya displays a wry note in the room, leaning on "predstavlyayete" ("to imagine") before closing the thought with "tam" ("there").
-- 'Anyway, Denis decided to propose to me.' Katya picks a measured view in their talk, anchoring the Russian line on "obshchem" ("short, so") and "reshil" ("has decided") without extra filler.
-- 'No way, Sveta, are you speaking seriously right now?' Katya inquires sharply toward Denis here, combining "sveta" ("electricity") and "seychas" ("now") so the key meaning lands right away.
-- 'Yes, yesterday he even bought me a beautiful ring.' Denis keeps an earnest posture across the room, joining "vchera" ("yesterday") to "krasivoye" ("beautiful") so every word pulls its weight.
-- 'My goodness, how quickly he decided on that.' Katya sustains a sharp attitude in the scene, building the phrase around "nado" ("it is necessary") and "kak" ("how") for a crisp, natural delivery.
-- 'Only it is a big secret, do not tell anyone, alright?' Denis presses warmly beside Senya, putting "tolko" ("only") alongside "bolshoy" ("big") in a tight, everyday turn of phrase.
-- 'Well then, we wish you great love.' Katya shares a direct course for Denis, combining "togda" ("back then") and "zhelayem" ("to wish") so the key meaning lands right away.
-- 'Katya, wait, did you get upset over this?' Denis inquires decisively toward Senya here, anchoring the Russian line on "podozhdi" ("wait") and "rasstroilas" ("got upset") without extra filler.
-- 'Why no, not at all, I am even happy for you.' Katya sustains an honest tack without hesitation, using "rada" (from "rad", "glad") alongside "da" ("yes") to shape the meaning.
-- 'After all, a real wedding is always very cool!' Katya adopts an earnest rhythm toward Senya, linking "nastoyashchaya" ("real, genuine") directly with "svadba" ("wedding"), since Russian drops "is" and "are" in the present.
+- 'Senya, wait, where are you hurrying off to like that?' Katya highlights one colorful expression for Denis: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'I need to quietly take some fresh fish home.' Senya offers that reply in earnest: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Can you imagine, the chef cooked such a terrible sauce in there!' Senya pushes back candidly facing Denis, letting the remark speak for itself.
+- 'Anyway, Denis decided to propose to me.' Katya points to one memorable expression at once: "predlozheniye" means "offer, proposal", and it carries the main weight of what Katya is saying.
+- 'No way, Sveta, are you speaking seriously right now?' Katya gives that answer plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Denis is on board.
+- 'Yes, yesterday he even bought me a beautiful ring.' Denis counters openly without any doubt, leaving no doubt about where he stands.
+- 'My goodness, how quickly he decided on that.' Katya uses this direct expression at once: "reshilsya" means "make up one’s mind" (from "reshitsya"), giving the line its exact edge.
+- 'Only it is a big secret, do not tell anyone, alright?' Denis lays out the thought plainly here: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Well then, we wish you great love.' Katya opens up earnestly with a nod, bringing things back to earth after the buildup.
+- 'Katya, wait, did you get upset over this?' Denis highlights one direct expression right here: "rasstroilas" means "got upset" (from "rasstroitsya"), giving the line its exact edge.
+- 'Why no, not at all, I am even happy for you.' Katya shapes this line facing Denis: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'After all, a real wedding is always very cool!' Katya reacts dryly as things stand, to clear the air between them once and for all.

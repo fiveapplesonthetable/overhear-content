@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, we have an ambush in the kitchen.' Max takes a calm bearing in front of Senya, pairing "kukhne" ("kitchen") with "zasada" ("kitchen") to get the point across in plain spoken Russian.
-- 'Our German has gone completely wild today.' Max offers a warm course toward Senya, weaving "segodnya" ("today") together with "uzhe" ("already, now") just the way native speakers do.
-- 'Next month he will slash everyone's salary.' Max projects a playful style in their talk, linking "sleduyushchem" ("next"), "mesyatse" ("month"), and "srezhet" ("salary") in one brisk exchange.
-- 'Now we will work twice as much.' Max shows a lively direction with Senya, linking "rabotat" ("to work"), "teper" ("now"), and "budem" ("will") in one brisk exchange.
-- 'And we will get paid twice as little.' Max maintains a candid footing in the conversation, leaning on "poluchat" ("to receive") before closing the thought with "budem" ("will").
-- 'Maksim Leonidovich, do they really want to cut salaries?' Senya presses evenly across the room, leaning on "zarplatu" ("salary") before closing the thought with "realno" ("really possible").
-- 'Keep quiet, please do not yell so loudly!' Max strikes a grounded angle straight away, linking "tikho" ("easy, quiet"), "gromko" ("on speaker"), and "ori" ("to yell, to bellow") in one brisk exchange.
-- 'Nobody knows about this yet.' Max sets a playful line as they talk, doubling the negative with "ne" ("not") and "poka" ("bye"), which is standard and required in Russian.
-- 'Let this stay strictly between us.' Max adopts a calm angle in their talk, combining "ostanetsya" ("will remain") and "strogo" ("sternly, strictly") so the key meaning lands right away.
-- 'By the way, the neighbors need a cook right now.' Max keeps a calm line in their talk, leaning on "kstati" ("by the way") before closing the thought with "sosedey" ("neighbors").
-- 'Only you need to bring your resume very quickly.' Max sets a firm view across the room, weaving "tolko" ("only") together with "rezyume" ("résumé") just the way native speakers do.
-- 'Go quickly, I will cover for you here.' Max picks a resolute position toward Senya, leaning on "idi" ("go") before closing the thought with "skoreye" ("quickly, right away").
+- 'Hi, we have an ambush in the kitchen.' Max speaks wryly with a nod, letting the remark speak for itself.
+- 'Our German has gone completely wild today.' Max focuses on one colorful choice toward Senya: "segodnya" means "today", and it carries the main weight of what Max is saying.
+- 'Next month he will slash everyone's salary.' Max jumps in earnestly as they talk, so Senya knows he is not just making small talk.
+- 'Now we will work twice as much.' Max steps in promptly with a nod, letting the remark speak for itself.
+- 'And we will get paid twice as little.' Max frames one vivid detail right here: "poluchat" means "to receive", and it carries the main weight of what Max is saying.
+- 'Maksim Leonidovich, do they really want to cut salaries?' Senya lays out this statement beside Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Keep quiet, please do not yell so loudly!' Max replies at once with Senya, saying out loud what both of them already know.
+- 'Nobody knows about this yet.' Max frames this key touch right here: "yeshchyo" means "more, still", and it carries the main weight of what Max is saying.
+- 'Let this stay strictly between us.' Max shares the comeback with warmth: the "-sya" ending on "ostanetsya" ("will remain") turns the action inward or makes it happen between people naturally.
+- 'By the way, the neighbors need a cook right now.' Max counters dryly as things stand, saying out loud what both of them already know.
+- 'Only you need to bring your resume very quickly.' Max spotlights one telling detail toward Senya: "rezyume" means "résumé", and it carries the main weight of what Max is saying.
+- 'Go quickly, I will cover for you here.' Max points to this telling term at once: "prikroyu" means "to cover" (from "prikryt"), giving the line its exact edge.

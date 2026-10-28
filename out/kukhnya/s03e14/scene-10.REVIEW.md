@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Timur, help me out, I have a problem.' Max displays a candid view in front of Barinov, building the phrase around "vyruchay" ("help out, rescue") and "yest" ("there is") for a crisp, natural delivery.
-- 'I warned you in advance, after all!' Katya strikes an unhurried attitude in the room, linking "zaraneye" ("in advance"), "preduprezhdal" ("warned"), and "ya" ("I") in one brisk exchange.
-- 'Today the shrimp are not of the first freshness.' Katya sets a warm footing during the exchange, linking "segodnya" ("today") directly with "krevetki" ("shrimp, prawns"), since Russian drops "is" and "are" in the present.
-- 'They are waiting for me in the back courtyard right now.' Max chooses a grounded direction in their talk, pairing "seychas" ("now") with "zadnem" ("back, rear") so the "-sya" ending carries the action.
-- 'Maybe you can talk to them calmly?' Max presses naturally in the scene, combining "mozhet" ("can") and "smozhesh" ("will you be able") so the key meaning lands right away.
-- 'Well then everything is fine, we will talk to them right now.' Katya establishes a steady manner in their talk, pairing "seychas" ("now") with "togda" ("back then") so the "-sya" ending carries the action.
-- 'Really, listen, I am in your debt now!' Max maintains a frank note on the spot, putting "pravda" ("honestly") alongside "slushay" ("listen") in a tight, everyday turn of phrase.
-- 'You do not owe me anything, you heard nothing about the shrimp.' Katya sustains an earnest footing in this beat, leaning on "dolzhen" ("has to, must") before closing the thought with "krevetki" ("shrimp, prawns").
-- 'Hello, Katya, just do not hang up, listen to me.' Barinov conveys a direct posture at once, leaning on "tolko" ("only") before closing the thought with "brosay" ("drop, abandon").
-- 'In short, I was wrong and I want to apologize.' Barinov shows a wry approach straight away, pairing "izvinitsya" ("to apologise") with "obshchem" ("short, so") so the "-sya" ending carries the action.
-- 'Come to our restaurant tonight together with Stas.' Barinov strikes a direct angle as they talk, building the phrase around "priyezzhayte" ("to come, to arrive") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Alright, we will sit together tonight, my treat!' Barinov maintains a pointed rhythm without hesitation, leaning on "khorosho" ("good, fine") before closing the thought with "posidim" ("we'll sit for a while").
+- 'Timur, help me out, I have a problem.' Max colors one colorful piece in earnest: "problema" means "problem", and it carries the main weight of what Max is saying.
+- 'I warned you in advance, after all!' Katya favors one colorful element toward Max: "preduprezhdal" means "warned" (from "preduprezhdat"), giving the line its exact edge.
+- 'Today the shrimp are not of the first freshness.' Katya answers steadily across the room, before Barinov can change the subject.
+- 'They are waiting for me in the back courtyard right now.' Max emphasizes one practical piece on cue: "zadnem" means "back, rear" (from "zadniy"), giving the line its exact edge.
+- 'Maybe you can talk to them calmly?' Max phrases this warning on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Well then everything is fine, we will talk to them right now.' Katya cuts in warmly to be clear, without trying to dress up how she really feels.
+- 'Really, listen, I am in your debt now!' Max colors one sharp word toward Barinov: "dolzhnik" means "debtor", and it carries the main weight of what Max is saying.
+- 'You do not owe me anything, you heard nothing about the shrimp.' Katya drops that line plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Hello, Katya, just do not hang up, listen to me.' Barinov fires back steadily in this moment, making his position completely clear.
+- 'In short, I was wrong and I want to apologize.' Barinov frames one practical element for Max: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
+- 'Come to our restaurant tonight together with Stas.' Barinov replies decisively with a shrug, shifting the whole mood of the room in a single beat.
+- 'Alright, we will sit together tonight, my treat!' Barinov chimes in evenly without holding back, making his position completely clear.

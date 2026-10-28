@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have to report it to the police. Understood?' Max probes sharply across the room, linking "nado" ("it is necessary"), "politsiyu" ("the police"), and "soobshchat" ("to report, inform") in one brisk exchange.
-- 'I did not understand. For silence, yes?' Mikhail presses promptly to keep things clear, pairing "ponyal" ("understood") with "molchaniye" ("silence") to get the point across in plain spoken Russian.
-- 'It is nothing, do not worry. We will solve this.' Mikhail picks a grounded footing straight away, using "bespokoytes" (from "bespokoitsya", "worry") alongside "reshim" ("will sort out") to shape the meaning.
-- 'Good afternoon. Are you ready to place an order?' Nastya presses naturally across the room, building the phrase around "dobryy" ("good") and "den" ("day") for a crisp, natural delivery.
-- 'Yes, please, a cocktail.' Mikhail keeps an easygoing rhythm with Max, linking "kokteyl" ("cocktail"), "da" ("yes"), and "pozhaluysta" ("please") in one brisk exchange.
-- 'A beach cocktail.' Mikhail presents a direct direction toward Nastya, anchoring the Russian line on "kokteyl" ("cocktail") and "plyazhe" ("beach") without extra filler.
-- 'Vika got very upset.' Max establishes a thoughtful angle during the exchange, anchoring the Russian line on "silno" ("strongly, much") and "rasstroilas" ("got upset") without extra filler.
-- 'What do you think, did I ruin the inspection?' Max questions frankly beside Nastya, pairing "kak" ("how") with "dumayesh" ("think") to get the point across in plain spoken Russian.
-- 'Of course you ruined it, Max.' Nastya presents a steady tempo right away, leaning on "konechno" ("of course") before closing the thought with "sorval" ("disrupted").
-- 'Kostya, make one beach cocktail!' Nastya adopts a direct tempo in their talk, combining "sdelay" ("make, do") and "kokteyl" ("cocktail") so the key meaning lands right away.
-- 'Wait, what did she order?' Max tests openly during the talk, putting "podozhdi" ("wait") alongside "zakazala" ("to order") in a tight, everyday turn of phrase.
-- 'Here you go, your cocktail.' Nastya picks a serious tone beside Mikhail, joining "kokteyl" ("cocktail") to "pozhaluysta" ("please") so every word pulls its weight.
+- 'We have to report it to the police. Understood?' Max hands over this answer without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'I did not understand. For silence, yes?' Mikhail asks bluntly why things suddenly took this turn between them.
+- 'It is nothing, do not worry. We will solve this.' Mikhail emphasizes one classic word at once: "bespokoytes" means "worry" (from "bespokoitsya"), giving the line its exact edge.
+- 'Good afternoon. Are you ready to place an order?' Nastya lays out this statement frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'Yes, please, a cocktail.' Mikhail counters earnestly without a pause, before Max can change the subject.
+- 'A beach cocktail.' Mikhail chooses one direct detail in earnest: "kokteyl" means "cocktail", and it carries the main weight of what Mikhail is saying.
+- 'Vika got very upset.' Max puts the comment plainly here: the "-sya" ending on "rasstroilas" ("got upset") turns the action inward or makes it happen between people naturally.
+- 'What do you think, did I ruin the inspection?' Max prompts plainly where this conversation is heading next.
+- 'Of course you ruined it, Max.' Nastya reaches for this vivid word at once: "konechno" means "of course", and it carries the main weight of what Nastya is saying.
+- 'Kostya, make one beach cocktail!' Nastya reacts decisively to settle things, refusing to let the moment slip past.
+- 'Wait, what did she order?' Max quizzes bluntly to see how Mikhail will answer on the spot.
+- 'Here you go, your cocktail.' Nastya centers one classic term for Mikhail: "kokteyl" means "cocktail", and it carries the main weight of what Nastya is saying.

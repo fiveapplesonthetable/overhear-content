@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Your father and I did not get along.' Mikhail keeps an easygoing footing across the room, building the phrase around "ottsom" ("father") and "ladili" ("got along") for a crisp, natural delivery.
-- 'But he is truly a good man.' Mikhail adopts a resolute line in the scene, putting "chelovek" ("a man, a person") alongside "pravda" ("honestly") in a tight, everyday turn of phrase.
-- 'Did you sell your horse after all?' Katya quizzes dryly on the spot, using "prodal" (from "prodat", "to sell") alongside "konya" ("horse, knight") to shape the meaning.
-- 'No, I kept the horse for myself.' Mikhail displays a grounded posture at once, putting "konya" ("horse, knight") alongside "ostavil" ("left") in a tight, everyday turn of phrase.
-- 'Timur found a stable for me nearby.' Mikhail projects a measured line in this beat, joining "konyushnyu" ("stable") to "nedaleko" ("not far") so every word pulls its weight.
-- 'Here, these are my personal savings.' Mikhail adopts a serious view in the room, joining "lichnyye" ("personal") to "sberezheniya" ("savings") so every word pulls its weight.
-- 'Thank you so very much, dear guys.' Katya picks a sharp tempo at once, joining "spasibo" ("thank you") to "ogromnoye" ("huge, so very much") so every word pulls its weight.
-- 'Elena Pavlovna, we found the money!' Katya maintains a natural posture in the scene, combining "nashli" ("found, did find") and "dengi" ("money") so the key meaning lands right away.
-- 'We collected almost the entire sum.' Katya picks an unhurried bearing straight away, putting "sobrali" ("to collect") alongside "pochti" ("almost") in a tight, everyday turn of phrase.
-- 'Lena, what happened just now?' Katya inquires firmly for Mikhail's benefit, linking "seychas" ("now"), "sluchilos" ("happened"), and "lena" ("Lena") in one brisk exchange.
-- 'They replied to me from the German clinic.' Elena holds a calm line toward Katya, linking "otvetili" ("answered"), "nemetskoy" ("German"), and "kliniki" ("clinic, hospital") in one brisk exchange.
-- 'The operation will be twice as expensive.' Elena establishes a clear view as the scene unfolds, combining "operatsiya" ("operation") and "budet" ("will be") so the key meaning lands right away.
+- 'Your father and I did not get along.' Mikhail sharpens one telling detail at once: "ottsom" means "father" (from "otets"), giving the line its exact edge.
+- 'But he is truly a good man.' Mikhail hands over the comeback calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Did you sell your horse after all?' Katya tests curiously to see how Elena will answer on the spot.
+- 'No, I kept the horse for myself.' Mikhail colors one classic element at once: "konya" means "horse, knight", and it carries the main weight of what Mikhail is saying.
+- 'Timur found a stable for me nearby.' Mikhail jumps in firmly with a smile, shifting the whole mood of the room in a single beat.
+- 'Here, these are my personal savings.' Mikhail reacts candidly with a smile, making his position completely clear.
+- 'Thank you so very much, dear guys.' Katya centers one key choice in earnest: "ogromnoye" means "huge, so very much" (from "ogromnyy"), giving the line its exact edge.
+- 'Elena Pavlovna, we found the money!' Katya chimes in sharply as things stand, grounding the moment in plain reality.
+- 'We collected almost the entire sum.' Katya holds firm warmly without a pause, before Elena can change the subject.
+- 'Lena, what happened just now?' Katya frames this clear detail for Mikhail: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'They replied to me from the German clinic.' Elena proceeds earnestly on the spot, leaving no doubt about where she stands.
+- 'The operation will be twice as expensive.' Elena cuts in wryly in this moment, testing Mikhail's reaction in the middle of the exchange.

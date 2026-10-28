@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yesterday's grand opening was a total failure.' Eleonora projects a firm position in the room, using "vcherashneye" (from "vcherashniy", "yesterday") alongside "otkrytiye" ("opening") to shape the meaning.
-- 'This happened in front of the prefect himself.' Eleonora chooses a grounded note across the room, building the phrase around "sluchilos" ("happened") and "samom" ("very") for a crisp, natural delivery.
-- 'I am not going to tolerate this.' Eleonora favors a candid rhythm as the scene unfolds, weaving "budu" ("will be") together with "terpet" ("to hold on") just the way native speakers do.
-- 'What a strict owner we have.' Senya establishes an earnest view without hesitation, weaving "strogaya" ("strict, stern") together with "khozyayka" ("landlady") just the way native speakers do.
-- 'This concerns everyone here.' Eleonora chooses an emphatic posture straight away, weaving "kasayetsya" ("concerns, applies to") together with "zdes" ("here") just the way native speakers do.
-- 'The main thing in a hotel is discipline.' Eleonora sets a grounded tone in this beat, weaving "glavnoye" ("important") together with "otele" ("in the hotel") just the way native speakers do.
-- 'Discipline and once again discipline.' Eleonora favors a steady direction at this moment, linking "distsiplina" ("discipline"), "yeshchyo" ("more, still"), and "raz" ("time, once") in one brisk exchange.
-- 'I hope we will avoid such conversations.' Eleonora displays a pointed rhythm at this moment, anchoring the Russian line on "nadeyus" ("hope so") and "izbezhim" ("we will avoid") without extra filler.
-- 'And where is your head chef right now?' Eleonora presses steadily on the spot, linking "gde" ("where") directly with "seychas" ("now"), since Russian drops "is" and "are" in the present.
-- 'He apologized to you profusely.' Barinov favors a lively direction at once, weaving "ochen" ("very much") together with "izvinyalsya" ("apologized") just the way native speakers do.
-- 'He is solving problems with suppliers.' Barinov conveys a candid direction without hesitation, weaving "reshayet" ("decides") together with "problemy" ("problems") just the way native speakers do.
-- 'Where is our chef right now, though?' Senya questions steadily without hesitation, putting "gde" ("where") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'Yesterday's grand opening was a total failure.' Eleonora jumps in lightly toward Barinov, steering the talk right where she wants it.
+- 'This happened in front of the prefect himself.' Eleonora responds dryly beside Senya, saying out loud what both of them already know.
+- 'I am not going to tolerate this.' Eleonora underscores this clear expression in reply: "terpet" means "to hold on", and it carries the main weight of what Eleonora is saying.
+- 'What a strict owner we have.' Senya states that remark facing Eleonora: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'This concerns everyone here.' Eleonora responds earnestly toward Barinov, bringing things back to earth after the buildup.
+- 'The main thing in a hotel is discipline.' Eleonora colors one key touch with Senya: "distsiplina" means "discipline", and it carries the main weight of what Eleonora is saying.
+- 'Discipline and once again discipline.' Eleonora speaks up promptly without any doubt, bringing things back to earth after the buildup.
+- 'I hope we will avoid such conversations.' Eleonora pushes back at once without a pause, making her position completely clear.
+- 'And where is your head chef right now?' Eleonora chooses this sharp detail for Barinov: "seychas" means "now", and it carries the main weight of what Eleonora is saying.
+- 'He apologized to you profusely.' Barinov sends the reaction with candor: the "-sya" ending on "izvinyalsya" ("apologized") turns the action inward or makes it happen between people naturally.
+- 'He is solving problems with suppliers.' Barinov fires back firmly on the spot, keeping the focus on what actually matters here.
+- 'Where is our chef right now, though?' Senya picks one memorable term at once: "seychas" means "now", and it carries the main weight of what Senya is saying.

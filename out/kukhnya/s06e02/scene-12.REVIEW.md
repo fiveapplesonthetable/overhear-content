@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, did you kiss Gulya?' Kostya wonders warmly with Barinov now, using "potseloval" (from "potselovat", "to kiss") alongside "nu" ("oh, come on") to shape the meaning.
-- 'Even you already know.' Lyova shares a direct mood during the exchange, combining "uzhe" ("already, now") and "znayesh" ("know") so the key meaning lands right away.
-- 'Do you know how Nastya and I kissed for the first time?' Kostya presses calmly beside Barinov, anchoring the Russian line on "znayesh" ("know") and "kak" ("how") without extra filler.
-- 'We were skating on rollerblades.' Kostya keeps a playful direction toward Lyova, combining "rolikakh" ("rollerblades") and "katalis" ("skated, rode") so the key meaning lands right away.
-- 'I caught her and dipped her.' Kostya strikes a thoughtful tempo in the room, building the phrase around "vzyal" ("took") and "naklonil" ("dipped, leaned") for a crisp, natural delivery.
-- 'I understood everything, I am ready.' Lyova adopts a brisk stance in their talk, leaning on "ponyal" ("understood") before closing the thought with "gotov" ("ready").
-- 'Viktor Petrovich, hello.' Kostya adopts a lively direction right away, building the phrase around "zdravstvuyte" ("hello") and "viktor" ("Viktor") for a crisp, natural delivery.
-- 'This is the show's producer, we are changing the concept of our program.' Kostya takes a playful posture during the exchange, weaving "prodyuser" ("producer") together with "programmy" ("apps, programs") just the way native speakers do.
-- 'And now we will film in real restaurants.' Kostya holds a direct mood in front of Barinov, weaving "teper" ("now") together with "budem" ("will") just the way native speakers do.
-- 'Why such an honor all of a sudden?' Barinov checks calmly to make the point, linking "vdrug" ("suddenly, what if"), "chest" ("honor"), and "chego" ("what") in one brisk exchange.
-- 'Rumors reached us that you introduced a new auteur menu.' Kostya brings a measured footing as the scene unfolds, combining "doshli" ("reached") and "slukhi" ("rumors") so the key meaning lands right away.
-- 'Who, if not you, is the best chef in the country?' Kostya quizzes bluntly with Lyova now, linking "luchshiy" ("best"), "povar" ("chef, cook"), and "strany" ("country") in one brisk exchange.
+- 'Well, did you kiss Gulya?' Kostya quizzes wryly in front of Barinov without any preamble.
+- 'Even you already know.' Lyova features one sharp expression on cue: "znayesh" means "know" (from "znat"), giving the line its exact edge.
+- 'Do you know how Nastya and I kissed for the first time?' Kostya phrases this line plainly here: the "-sya" ending on "potselovalis" ("kissed") turns the action inward or makes it happen between people naturally.
+- 'We were skating on rollerblades.' Kostya counters sharply with a sigh, so Lyova knows he is not just making small talk.
+- 'I caught her and dipped her.' Kostya highlights one loaded word at once: "naklonil" means "dipped, leaned" (from "naklonit"), giving the line its exact edge.
+- 'I understood everything, I am ready.' Lyova reacts openly hearing Kostya, so Kostya knows he is not just making small talk.
+- 'Viktor Petrovich, hello.' Kostya reacts briskly without any doubt, so Barinov knows he is not just making small talk.
+- 'This is the show's producer, we are changing the concept of our program.' Kostya picks one classic touch in reply: "kontseptsiyu" means "concept" (from "kontseptsiya"), giving the line its exact edge.
+- 'And now we will film in real restaurants.' Kostya proceeds warmly without any doubt, keeping the focus on what actually matters here.
+- 'Why such an honor all of a sudden?' Barinov challenges promptly what Lyova is actually getting at here.
+- 'Rumors reached us that you introduced a new auteur menu.' Kostya reaches for one telling element for Barinov: "avtorskoye" means "auteur, signature" (from "avtorskiy"), giving the line its exact edge.
+- 'Who, if not you, is the best chef in the country?' Kostya hands over the reply calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

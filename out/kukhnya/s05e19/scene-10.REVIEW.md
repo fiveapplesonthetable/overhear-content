@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, little fish, are you full now?' Katya asks firmly to make the point, joining "rybka" ("little fish") to "teper" ("now") so every word pulls its weight.
-- 'Will you stop growling at me now?' Katya asks dryly toward Max here, anchoring the Russian line on "budesh" ("will") and "bolshe" ("more") without extra filler.
-- 'The next clue is with the grandfather of your children.' Katya sustains a resolute rhythm with Barinov, linking "sleduyushchaya" ("next, following"), "podskazka" ("clue"), and "dedushki" ("grandfathers") in one brisk exchange.
-- 'I wonder where people get that kind of money.' Barinov asks sharply in the room, anchoring the Russian line on "interesno" ("interesting") and "otkuda" ("where from") without extra filler.
-- 'In Moscow, kiddo, you have to know how to hustle.' Barinov offers a grounded manner in the room, leaning on "malysh" ("kid, little one") before closing the thought with "nado" ("it is necessary").
-- 'But that, of course, is not given to everyone.' Barinov conveys a firm note in their talk, linking "konechno" ("of course"), "kazhdomu" ("each"), and "dano" ("given") in one brisk exchange.
-- 'They will return the missing item this evening by the botanical garden.' Katya sets a playful position on the spot, combining "vernut" ("will return") and "propazhu" ("missing thing") so the key meaning lands right away.
-- 'I wonder who arranged all of this for me.' Katya queries honestly beside Max, leaning on "interesno" ("interesting") before closing the thought with "ustroil" ("caused").
-- 'Friends, now I am in charge of our kitchen.' Max takes a measured tone without hesitation, weaving "druzya" ("friends") together with "teper" ("now") just the way native speakers do.
-- 'If you have fresh ideas, suggest them.' Max sustains a playful stance straight away, using "yest" (from "byt", "there is") alongside "svezhiye" ("fresh") to shape the meaning.
-- 'We must save a good amount of money today.' Max sets an honest line in the scene, putting "dolzhny" ("must, should") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'Good luck to you today as head chef!' Katya conveys a lively manner at this moment, using "udachi" (from "udacha", "luck") alongside "segodnya" ("today") to shape the meaning.
+- 'Well, little fish, are you full now?' Katya grounds one practical expression at once: "rybka" means "little fish", and it carries the main weight of what Katya is saying.
+- 'Will you stop growling at me now?' Katya brings the thought right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'The next clue is with the grandfather of your children.' Katya stands firm honestly facing Barinov, watching Barinov's face to see how the news lands.
+- 'I wonder where people get that kind of money.' Barinov grounds one pointed expression with Max: "interesno" means "interesting", and it carries the main weight of what Barinov is saying.
+- 'In Moscow, kiddo, you have to know how to hustle.' Barinov puts that thought in earnest: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'But that, of course, is not given to everyone.' Barinov fires back right away without holding back, to clear the air between them once and for all.
+- 'They will return the missing item this evening by the botanical garden.' Katya picks this key choice with Barinov: "botanicheskogo" means "botanical" (from "botanicheskiy"), giving the line its exact edge.
+- 'I wonder who arranged all of this for me.' Katya states that point on cue: putting the question word "kto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Friends, now I am in charge of our kitchen.' Max speaks wryly toward Barinov, saying out loud what both of them already know.
+- 'If you have fresh ideas, suggest them.' Max focuses on one key word with Katya: "predlagayte" means "to suggest" (from "predlagat"), giving the line its exact edge.
+- 'We must save a good amount of money today.' Max frames this line right away: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Good luck to you today as head chef!' Katya fires back wryly without a pause, steering the talk right where she wants it.

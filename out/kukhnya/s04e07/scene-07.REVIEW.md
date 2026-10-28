@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi everyone, my dear honest company!' Barinov sustains a direct line at once, weaving "rodnaya" ("dear, darling") together with "chestnaya" ("an honest one") just the way native speakers do.
-- 'I see you are all still holding a grudge against me?' Barinov challenges earnestly to Senya here, leaning on "smotryu" ("look") before closing the thought with "yeshchyo" ("more, still").
-- 'Forgive me for my bad behavior.' Barinov establishes a direct note right away, combining "prostite" ("excuse me") and "plokhoye" ("bad") so the key meaning lands right away.
-- 'After all, I did not say all those things out of malice.' Barinov chooses an unhurried line at once, anchoring the Russian line on "zla" ("evil, harm") and "nagovoril" ("told") without extra filler.
-- 'And life has already punished me for that.' Barinov shares a sharp posture without hesitation, pairing "zhizn" ("life") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
-- 'Yes, I know that I am no angel.' Barinov shares a warm attitude as the scene unfolds, combining "znayu" ("know") and "podarok" ("gift, voucher") so the key meaning lands right away.
-- 'But you are my closest people.' Barinov brings a warm note beside Fedya, linking "samyye" ("most, very"), "blizkiye" ("close, near"), and "lyudi" ("people") in one brisk exchange.
-- 'I am too old to look for new friends.' Barinov displays a clear direction during the exchange, linking "iskat" ("to look for"), "novykh" ("new"), and "druzey" ("friends") in one brisk exchange.
-- 'And besides, I do not need new friends.' Barinov brings a grounded approach across the room, putting "nuzhny" ("needed") alongside "novyye" ("new") in a tight, everyday turn of phrase.
-- 'I also wanted to pay back my old debts to you.' Barinov takes a sharp stance right away, putting "yeshchyo" ("more, still") alongside "khotel" ("wanted") in a tight, everyday turn of phrase.
-- 'Chef, that is what you should have started with!' Senya projects a serious view as they talk, building the phrase around "nado" ("it is necessary") and "bylo" ("was") for a crisp, natural delivery.
-- 'We are very glad to see you home, Chef!' Fedya displays a candid course in this beat, weaving "ochen" ("very much") together with "rady" ("glad") just the way native speakers do.
+- 'Hi everyone, my dear honest company!' Barinov grounds this sharp choice at once: "chestnaya" means "an honest one" (from "chestnyy"), giving the line its exact edge.
+- 'I see you are all still holding a grudge against me?' Barinov puts this answer in earnest: the "-sya" ending on "obizhayetes" ("to take offence") turns the action inward or makes it happen between people naturally.
+- 'Forgive me for my bad behavior.' Barinov cuts in evenly with a sigh, bringing things back to earth after the buildup.
+- 'After all, I did not say all those things out of malice.' Barinov anchors one classic detail in reply: "nagovoril" means "told" (from "nagovorit"), giving the line its exact edge.
+- 'And life has already punished me for that.' Barinov opens up steadily without holding back, to clear the air between them once and for all.
+- 'Yes, I know that I am no angel.' Barinov opens up evenly without any doubt, before Senya can change the subject.
+- 'But you are my closest people.' Barinov emphasizes one classic choice at once: "blizkiye" means "close, near" (from "blizkiy"), giving the line its exact edge.
+- 'I am too old to look for new friends.' Barinov pushes back candidly in this moment, letting the remark speak for itself.
+- 'And besides, I do not need new friends.' Barinov continues earnestly toward Fedya, shifting the whole mood of the room in a single beat.
+- 'I also wanted to pay back my old debts to you.' Barinov uses this key piece in reply: "staryye" means "old" (from "staryy"), giving the line its exact edge.
+- 'Chef, that is what you should have started with!' Senya sends that answer briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'We are very glad to see you home, Chef!' Fedya pushes back wryly to settle things, shifting the whole mood of the room in a single beat.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, do not cry, we will cover the bill ourselves.' Kostya conveys a resolute rhythm right away, using "plach" (from "plakat", "cry") alongside "schyot" ("counting, account") to shape the meaning.
-- 'Moustached in glasses? Does he live in the hotel?' Kostya questions lightly on the spot, pairing "usatyy" ("friend") with "ochkakh" ("glasses") to get the point across in plain spoken Russian.
-- 'What is happening? I thought that those were dollars.' Vika queries promptly on the spot, building the phrase around "proiskhodit" ("is going on") and "dumala" ("thought") for a crisp, natural delivery.
-- 'Wait, this is from the central office.' Vika offers a calm view toward Mikhail, using "podozhdi" (from "podozhdat", "wait") alongside "tsentralnogo" ("central, main") to shape the meaning.
-- 'The appearance of a fraudster and hypnotist in the hotel is possible.' Vika sets a lively bearing in front of Kostya, pairing "otele" ("in the hotel") with "vozmozhno" ("perhaps, possible") to get the point across in plain spoken Russian.
-- 'The victim is under hypnosis.' Vika brings a direct position in the room, pairing "zhertva" ("victim") with "nakhoditsya" ("to be located") to get the point across in plain spoken Russian.
-- 'Right, we need to call the police.' Kostya maintains an emphatic approach in the conversation, combining "nado" ("it is necessary") and "vyzvat" ("to call, to summon") so the key meaning lands right away.
-- 'No police! There is a commission in the hotel.' Mikhail offers an emphatic posture as they talk, linking "politsii" ("the police"), "otele" ("in the hotel"), and "komissiya" ("commission") in one brisk exchange.
-- 'We must not raise a commotion.' Mikhail displays a candid angle toward Kostya, building the phrase around "shum" ("noise") and "podnimat" ("to raise, stir up") for a crisp, natural delivery.
-- 'Eleonora Andreyevna asked me to oversee everything.' Mikhail displays an earnest mood as the scene unfolds, leaning on "prosila" ("asked") before closing the thought with "prosledit" ("to keep an eye on").
-- 'She even promised me a bonus if everything goes well.' Mikhail projects a steady view in the room, joining "premiyu" ("bonus, prize") to "obeshchala" ("promised") so every word pulls its weight.
-- 'What is with you? Hey, Dima!' Kostya quizzes boldly as they speak, linking "ty" ("you") directly with "chego" ("what"), since Russian drops "is" and "are" in the present.
+- 'Alright, do not cry, we will cover the bill ourselves.' Kostya puts this point toward Mikhail: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Mikhail is on board.
+- 'Moustached in glasses? Does he live in the hotel?' Kostya prompts openly about what Vika just brought up.
+- 'What is happening? I thought that those were dollars.' Vika emphasizes one colorful detail for Kostya: "proiskhodit" means "is going on", and it carries the main weight of what Vika is saying.
+- 'Wait, this is from the central office.' Vika weighs in quietly with a sigh, before Mikhail can change the subject.
+- 'The appearance of a fraudster and hypnotist in the hotel is possible.' Vika answers promptly without any doubt, testing Kostya's reaction in the middle of the exchange.
+- 'The victim is under hypnosis.' Vika reaches for one direct detail in reply: "nakhoditsya" means "to be located", and it carries the main weight of what Vika is saying.
+- 'Right, we need to call the police.' Kostya shapes that answer without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'No police! There is a commission in the hotel.' Mikhail weighs in pointedly with Vika, so Vika knows he is not just making small talk.
+- 'We must not raise a commotion.' Mikhail spotlights this vivid word on cue: "podnimat" means "to raise, stir up", and it carries the main weight of what Mikhail is saying.
+- 'Eleonora Andreyevna asked me to oversee everything.' Mikhail pushes back briskly without holding back, saying out loud what both of them already know.
+- 'She even promised me a bonus if everything goes well.' Mikhail jumps in honestly without any doubt, shifting the whole mood of the room in a single beat.
+- 'What is with you? Hey, Dima!' Kostya voices this warning to Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

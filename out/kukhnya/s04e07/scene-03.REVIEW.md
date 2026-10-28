@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, I am not crying because of the onion at all.' Denis picks a grounded posture with Senya, building the phrase around "plachu" ("pay") and "sovsem" ("at all") for a crisp, natural delivery.
-- 'I just remembered my beloved grandmother right now.' Denis holds a sharp tempo with Timur, combining the softening word "prosto" ("simply, just") with "seychas" ("now") to give the line its natural spoken rhythm.
-- 'The chef is clearly in a very bad mood today.' Senya takes a natural course during the exchange, weaving "segodnya" ("today") together with "yavno" ("clearly") just the way native speakers do.
-- 'We had better not make him nervous at all today.' Senya keeps a grounded footing for Timur, weaving "luchshe" ("better") together with "segodnya" ("today") just the way native speakers do.
-- 'Gentlemen cooks, I beg your pardon!' Timur presents a pointed footing in the scene, putting "gospoda" ("gentlemen") alongside "povara" ("cook") in a tight, everyday turn of phrase.
-- 'You know that I bring fresh groceries.' Timur chooses a measured position in the conversation, combining "znayete" ("know") and "privozhu" ("to bring") so the key meaning lands right away.
-- 'But my crates do not have hands or legs!' Timur shares a direct line at this moment, combining "yashchikov" ("box, crate") and "ruk" ("arms") so the key meaning lands right away.
-- 'They will not carry themselves to the storeroom!' Timur picks a thoughtful note as they talk, pairing "sklad" ("warehouse") with "otnesut" ("to carry to") to get the point across in plain spoken Russian.
-- 'I have been waiting ten minutes already, have a conscience!' Timur presents an easygoing course in the room, pairing "uzhe" ("already, now") with "minut" ("minutes") to get the point across in plain spoken Russian.
-- 'Go quickly, Denis, accept the fresh groceries.' Senya adopts a thoughtful direction across the room, leaning on "idi" ("go") before closing the thought with "skoreye" ("quickly, right away").
-- 'Why do I have to be the one to go to the storeroom?' Denis tests firmly without a pause, leaning on "pochemu" ("why") before closing the thought with "dolzhen" ("has to, must").
-- 'Of course you, after all that is the duty of all newcomers!' Senya holds a calm approach on the spot, anchoring the Russian line on "konechno" ("of course") and "obyazannost" ("to all") without extra filler.
+- 'Senya, I am not crying because of the onion at all.' Denis holds firm plainly toward Senya, bringing things back to earth after the buildup.
+- 'I just remembered my beloved grandmother right now.' Denis points to one practical term toward Timur: "lyubimuyu" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.
+- 'The chef is clearly in a very bad mood today.' Senya offers the reaction to Denis: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We had better not make him nervous at all today.' Senya counters steadily across the room, refusing to let the moment slip past.
+- 'Gentlemen cooks, I beg your pardon!' Timur chooses one key expression on cue: "proshcheniya" means "forgiveness" (from "proshcheniye"), giving the line its exact edge.
+- 'You know that I bring fresh groceries.' Timur reaches for one sharp expression with Senya: "svezhiye" means "fresh" (from "svezhiy"), giving the line its exact edge.
+- 'But my crates do not have hands or legs!' Timur opens up right away hearing Denis, grounding the moment in plain reality.
+- 'They will not carry themselves to the storeroom!' Timur reaches for one sharp word for Senya: "sklad" means "warehouse", and it carries the main weight of what Timur is saying.
+- 'I have been waiting ten minutes already, have a conscience!' Timur follows up honestly hearing Denis, before Denis can change the subject.
+- 'Go quickly, Denis, accept the fresh groceries.' Senya reacts pointedly hearing Timur, saying out loud what both of them already know.
+- 'Why do I have to be the one to go to the storeroom?' Denis underscores one familiar term toward Senya: "dolzhen" means "has to, must", and it carries the main weight of what Denis is saying.
+- 'Of course you, after all that is the duty of all newcomers!' Senya grounds one familiar term at once: "obyazannost" means "to all", and it carries the main weight of what Senya is saying.

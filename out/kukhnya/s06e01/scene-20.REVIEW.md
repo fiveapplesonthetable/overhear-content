@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My restaurant made it into the guide!' Barinov offers a serious attitude as they talk, linking "restoran" ("restaurant"), "gid" ("guide"), and "popal" ("hit") in one brisk exchange.
-- 'They might give us a star.' Barinov shows a serious line during the exchange, linking "mogut" ("can"), "zvezdu" ("star"), and "dat" ("to give") in one brisk exchange.
-- 'Viktor Petrovich, good evening.' The guest sustains a measured angle at once, joining "dobryy" ("good") to "vecher" ("evening") so every word pulls its weight.
-- 'We want to thank you for last night's dinner.' The guest brings a serious manner without hesitation, pairing "khotim" ("want") with "poblagodarit" ("to thank") to get the point across in plain spoken Russian.
-- 'Do not mention it, it is my job.' Barinov displays an honest note without hesitation, putting "stoit" ("is parked") alongside "rabota" ("job") in a tight, everyday turn of phrase.
-- 'By the way, regarding work.' The guest projects a playful attitude on the spot, linking "kstati" ("by the way"), "povodu" ("matter"), and "raboty" ("of work") in one brisk exchange.
-- 'I want to offer you to become my personal chef.' The guest keeps a natural tack across the room, using "khochu" (from "khotet", "want") alongside "predlozhit" ("to offer") to shape the meaning.
-- 'I understand you are used to other scales.' The guest keeps an unhurried manner as they talk, building the phrase around "ponimayu" ("understand") and "privykli" ("to get used to") for a crisp, natural delivery.
-- 'You will have a worthy salary, equipment, and staff.' The guest takes an unhurried view toward Barinov, joining "budet" ("will be") to "dostoynaya" ("worthy, decent") so every word pulls its weight.
-- 'And you will have only two regular guests.' The guest offers a sharp rhythm without hesitation, weaving "budet" ("will be") together with "postoyannykh" ("regular") just the way native speakers do.
-- 'Me and my wife.' The guest adopts a natural tone as the scene unfolds, leaning on "supruga" ("wife") before closing the thought with "ya" ("I").
-- 'Alright, I will think about it.' Barinov establishes a firm course beside the guest, pairing "khorosho" ("good, fine") with "podumayu" ("to think") to get the point across in plain spoken Russian.
+- 'My restaurant made it into the guide!' Barinov weighs in earnestly during the talk, refusing to let the moment slip past.
+- 'They might give us a star.' Barinov steps in wryly with a shrug, to clear the air between them once and for all.
+- 'Viktor Petrovich, good evening.' The guest uses one sharp term with Barinov: "dobryy" means "good", and it carries the main weight of what the guest is saying.
+- 'We want to thank you for last night's dinner.' The guest anchors this vivid element for Barinov: "vcherashniy" means "yesterday's", and it carries the main weight of what the guest is saying.
+- 'Do not mention it, it is my job.' Barinov pushes back openly before the guest, leaving no doubt about where he stands.
+- 'By the way, regarding work.' The guest emphasizes one concrete detail at once: "povodu" means "matter" (from "povod"), giving the line its exact edge.
+- 'I want to offer you to become my personal chef.' The guest stresses one key choice right here: "predlozhit" means "to offer", and it carries the main weight of what the guest is saying.
+- 'I understand you are used to other scales.' The guest counters lightly facing Barinov, refusing to let the moment slip past.
+- 'You will have a worthy salary, equipment, and staff.' The guest uses one clear detail with Barinov: "oborudovaniye" means "equipment", and it carries the main weight of what the guest is saying.
+- 'And you will have only two regular guests.' The guest lays out that reply calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Me and my wife.' The guest reacts warmly with a sigh, steering the talk right where he wants it.
+- 'Alright, I will think about it.' Barinov points to one loaded term right here: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.

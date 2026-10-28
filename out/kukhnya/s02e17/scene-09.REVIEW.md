@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How are you feeling today?' Elena asks dryly in front of Max, combining "kak" ("how") and "chuvstvuyete" ("feel") so the key meaning lands right away.
-- 'Thank you, quite well.' Max chooses a lively rhythm as they talk, combining "spasibo" ("thank you") and "khorosho" ("good, fine") so the key meaning lands right away.
-- 'Nothing is bothering you?' Elena checks earnestly during the talk, joining "bespokoit" ("is disturbing") to "nichego" ("nothing") so every word pulls its weight.
-- 'No, everything is fine.' Max strikes a steady approach at this moment, joining "normalno" ("fine, OK") to "net" ("no") so every word pulls its weight.
-- 'You mentioned that you needed a banquet, right?' Elena presses earnestly to Max here, putting "govorili" ("talked") alongside "nuzhen" ("is needed") in a tight, everyday turn of phrase.
-- 'Well, Elena told me.' Max projects a warm bearing right away, building the phrase around "skazala" ("told") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'Wait a second. What is going on here?' Elena questions honestly without holding back, linking "podozhdite" ("wait"), "eto" ("this"), and "chto" ("what") in one brisk exchange.
-- 'Now, now, Vitya, calm down.' Max chooses an easygoing note in the room, combining "tak" ("so") and "vitya" ("Vitya") so the key meaning lands right away.
-- 'After all, otherwise...' Elena shows a frank tack for Max, linking "kontse" ("end"), "kontsov" ("of ends"), and "to" ("that") in one brisk exchange.
-- 'Sit down at this damn table right now!' Max maintains a firm rhythm as the scene unfolds, leaning on "syadesh" ("to sit down") before closing the thought with "chert" ("darn, heck").
-- 'If you do not learn to control your anger.' Elena establishes a warm attitude toward Max, putting "budete" ("will be") alongside "kontrolirovat" ("to keep an eye on") in a tight, everyday turn of phrase.
-- 'Then what am I supposed to do?' Max prompts frankly in the scene, leaning on "delat" ("do") before closing the thought with "chto" ("what").
-- 'No. I have one special method.' Elena adopts a brisk style in their talk, building the phrase around "yest" ("there is") and "sposob" ("a way, a method") for a crisp, natural delivery.
+- 'How are you feeling today?' Elena challenges openly what Max is actually getting at here.
+- 'Thank you, quite well.' Max emphasizes one pointed detail at once: "spasibo" means "thank you", and it carries the main weight of what Max is saying.
+- 'Nothing is bothering you?' Elena aims the reaction frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'No, everything is fine.' Max replies promptly to be clear, bringing things back to earth after the buildup.
+- 'You mentioned that you needed a banquet, right?' Elena chooses this vivid word in reply: "govorili" means "talked" (from "govorit"), giving the line its exact edge.
+- 'Well, Elena told me.' Max sends the thought briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Wait a second. What is going on here?' Elena asks plainly where this conversation is heading next.
+- 'Now, now, Vitya, calm down.' Max sends that point to Elena: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'After all, otherwise...' Elena hands over this update toward Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Sit down at this damn table right now!' Max chimes in calmly as things stand, leaving no doubt about where he stands.
+- 'If you do not learn to control your anger.' Elena chooses one classic touch toward Max: "kontrolirovat" means "to keep an eye on", and it carries the main weight of what Elena is saying.
+- 'Then what am I supposed to do?' Max directs this update right away: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'No. I have one special method.' Elena reacts frankly without any doubt, making her position completely clear.

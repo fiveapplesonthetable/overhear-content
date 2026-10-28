@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And this is Kanat, he is our Kyrgyz cook.' Elena presents an earnest stance right away, joining "kanat" ("cook") to "kirgiz" ("cook") so every word pulls its weight.
-- 'He just cannot manage to get his citizenship.' Elena brings a serious tack in their talk, pairing "nikak" ("in no way") with "mozhet" ("can") to get the point across in plain spoken Russian.
-- 'This is Nadya. A true professional.' Elena conveys an emphatic tone on the spot, linking "nadya" ("true"), "nastoyashchiy" ("real, genuine"), and "professional" ("professional") in one brisk exchange.
-- 'Her hands are simply golden.' Elena keeps a grounded stance in the room, linking "ruki" ("hands"), "prosto" ("just"), and "zolotyye" ("golden") in one brisk exchange.
-- 'Though you have to keep a very close eye on those golden hands.' Elena takes an easygoing tone straight away, linking "zolotymi" ("golden, gold"), "rukami" ("hands"), and "inogda" ("sometimes, at times") in one brisk exchange.
-- 'Minestrone, steamed salmon, carpaccio.' Barinov sets a playful course on the spot, anchoring the Russian line on "minestrone" ("minestrone") and "syomga" ("salmon") without extra filler.
-- 'The carpaccio is yours, Viktor Petrovich.' Elena holds a serious course with Barinov, anchoring the Russian line on "karpachcho" ("carpaccio") and "viktor" ("Viktor") without extra filler.
-- 'Yes, Chef!' Max picks an honest style straight away, combining "da" ("yes") and "shef" ("Chef") so the key meaning lands right away.
-- 'What a mustachioed slacker.' Barinov projects a pointed course across the room, weaving "lentyay" ("slacker, idler") together with "usatyy" ("friend") just the way native speakers do.
-- 'People say he is an alcoholic.' Elena keeps an unhurried approach for Max, building the phrase around "pogovarivayut" ("people are saying") and "alkogolik" ("alcoholic") for a crisp, natural delivery.
-- 'You can tell right away just by looking at him.' Elena takes an unhurried attitude on the spot, joining "vidno" ("one can see") to "srazu" ("at once") so every word pulls its weight.
-- 'Be careful, Denis just cut my brother.' Max picks a thoughtful tone at once, combining "ostorozhney" ("careful") and "brata" ("of the brother") so the key meaning lands right away.
+- 'And this is Kanat, he is our Kyrgyz cook.' Elena centers one colorful word in earnest: "kirgiz" means "cook", and it carries the main weight of what Elena is saying.
+- 'He just cannot manage to get his citizenship.' Elena drops the reaction in earnest: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'This is Nadya. A true professional.' Elena fires back briskly in their talk, bringing things back to earth after the buildup.
+- 'Her hands are simply golden.' Elena favors this sharp choice in reply: "zolotyye" means "golden" (from "zolotoy"), giving the line its exact edge.
+- 'Though you have to keep a very close eye on those golden hands.' Elena speaks briskly with a sigh, before Barinov can change the subject.
+- 'Minestrone, steamed salmon, carpaccio.' Barinov answers decisively around Max, refusing to let the moment slip past.
+- 'The carpaccio is yours, Viktor Petrovich.' Elena centers one pointed touch in earnest: "karpachcho" means "carpaccio", and it carries the main weight of what Elena is saying.
+- 'Yes, Chef!' Max lays out this update beside Elena: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What a mustachioed slacker.' Barinov jumps in decisively with Elena, so Elena knows he is not just making small talk.
+- 'People say he is an alcoholic.' Elena highlights one classic piece for Max: "pogovarivayut" means "people are saying" (from "pogovarivat"), giving the line its exact edge.
+- 'You can tell right away just by looking at him.' Elena speaks earnestly in this moment, without trying to dress up how she really feels.
+- 'Be careful, Denis just cut my brother.' Max holds firm firmly with a shrug, before Elena can change the subject.

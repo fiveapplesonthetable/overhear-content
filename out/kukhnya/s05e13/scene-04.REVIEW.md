@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My mother-in-law is a former national champion.' Senya brings a grounded line during the exchange, anchoring the Russian line on "tyoshcha" ("mother-in-law") and "byvshaya" ("former") without extra filler.
-- 'I simply have no chance at home.' Senya brings a grounded stance without hesitation, combining "doma" ("at home") and "prosto" ("just") so the key meaning lands right away.
-- 'I would never raise a hand myself.' Kostya strikes an emphatic footing beside Nastya, building the phrase around "nikogda" ("never") and "ruku" ("hand") for a crisp, natural delivery.
-- 'And how did you almost break my nose?' Nastya checks plainly on the spot, weaving "kak" ("how") together with "nos" ("nose") just the way native speakers do.
-- 'You hit me once in your sleep!' Nastya adopts a frank footing right away, combining "udaril" ("hit, struck") and "odnazhdy" ("once, one day") so the key meaning lands right away.
-- 'Nastya, I was having a terrible dream then.' Kostya keeps a clear approach right away, joining "togda" ("back then") to "snilsya" ("to appear in a dream") so every word pulls its weight.
-- 'In the dream I was a brave gladiator.' Kostya conveys a warm view at this moment, joining "sne" ("dream, sleep") to "byl" ("was") so every word pulls its weight.
-- 'A huge hungry lion was running after me!' Kostya favors an easygoing direction for Senya, combining "ogromnyy" ("huge") and "golodnyy" ("hungry") so the key meaning lands right away.
-- 'And what if you had killed me?' Nastya prompts calmly from the start, building the phrase around "ubil" ("killed") and "vot" ("there, here") for a crisp, natural delivery.
-- 'What would you have done alone then?' Nastya asks candidly in the scene, combining "togda" ("back then") and "delal" ("were doing") so the key meaning lands right away.
-- 'If I were suddenly gone?' Nastya quizzes directly toward Kostya here, weaving "vdrug" ("suddenly, what if") together with "stalo" ("became, came over") just the way native speakers do.
-- 'Nastya, please do not interrupt me right now.' Kostya chooses a resolute course across the room, anchoring the Russian line on "perebivay" ("to interrupt") and "seychas" ("now") without extra filler.
+- 'My mother-in-law is a former national champion.' Senya emphasizes one classic touch on cue: "chempionka" means "champion", and it carries the main weight of what Senya is saying.
+- 'I simply have no chance at home.' Senya phrases that line for Nastya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I would never raise a hand myself.' Kostya replies bluntly across the room, before Nastya can change the subject.
+- 'And how did you almost break my nose?' Nastya underscores this direct detail on cue: "razbil" means "wrecked, crashed" (from "razbit"), giving the line its exact edge.
+- 'You hit me once in your sleep!' Nastya spotlights one concrete expression right here: "odnazhdy" means "once, one day", and it carries the main weight of what Nastya is saying.
+- 'Nastya, I was having a terrible dream then.' Kostya counters steadily across the room, leaving no doubt about where he stands.
+- 'In the dream I was a brave gladiator.' Kostya underscores one pointed detail for Nastya: "gladiatorom" means "gladiator" (from "gladiator"), giving the line its exact edge.
+- 'A huge hungry lion was running after me!' Kostya speaks up decisively around Senya, shifting the whole mood of the room in a single beat.
+- 'And what if you had killed me?' Nastya presses earnestly whether Kostya really thought this through.
+- 'What would you have done alone then?' Nastya chooses one concrete choice at once: "togda" means "back then", and it carries the main weight of what Nastya is saying.
+- 'If I were suddenly gone?' Nastya offers the remark on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Nastya, please do not interrupt me right now.' Kostya responds plainly to settle things, keeping the focus on what actually matters here.

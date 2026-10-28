@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Welcome back to us, Vitya!' Eleonora adopts an honest manner in the conversation, anchoring the Russian line on "vozvrashcheniyem" ("return") and "tebya" ("you") without extra filler.
-- 'Misha, thank you for everything.' Barinov strikes a measured rhythm in the room, anchoring the Russian line on "spasibo" ("thank you") and "misha" ("Misha") without extra filler.
-- 'And thank you all very much.' Barinov brings a brisk style at this moment, putting "bolshoye" ("big, very much") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
-- 'But a special thank you to my son-in-law.' Barinov picks an earnest direction for Katya, putting "osoboye" ("special") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
-- 'Dad, he is not your son-in-law yet.' Katya maintains a thoughtful posture on the spot, linking "papa" ("Dad") directly with "poka" ("bye"), since Russian drops "is" and "are" in the present.
-- 'That title will be his in twenty-four hours.' Katya adopts a calm posture toward Eleonora, joining "titul" ("title") to "budet" ("will be") so every word pulls its weight.
-- 'Let us go to the kitchen quickly.' Barinov brings a candid manner during the exchange, weaving "davayte" ("let's") together with "skoreye" ("quickly, right away") just the way native speakers do.
-- 'I want to look at my cooks.' Barinov brings a wry approach in the scene, pairing "khochu" ("want") with "posmotret" ("to look up") to get the point across in plain spoken Russian.
-- 'Vitya, wait here for a minute.' Eleonora holds a firm mood in this beat, using "podozhdi" (from "podozhdat", "wait") alongside "tut" ("here") to shape the meaning.
-- 'And where are all my guys?' Barinov tests honestly at this point, placing "gde" ("where") straight beside "rebyata" ("the boys, the lads") with no word for "to be" needed.
-- 'Vitya, get acquainted with this man.' Eleonora chooses a calm tone for Barinov, using "poznakomsya" (from "poznakomitsya", "to get acquainted") alongside "chelovekom" ("person, people") to shape the meaning.
-- 'This is our new head chef.' Eleonora adopts a calm stance in the conversation, joining "novyy" ("new") to "glavnyy" ("main, chief") so every word pulls its weight.
+- 'Welcome back to us, Vitya!' Eleonora frames one practical piece in reply: "vozvrashcheniyem" means "return" (from "vozvrashcheniye"), giving the line its exact edge.
+- 'Misha, thank you for everything.' Barinov directs that thought toward Katya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'And thank you all very much.' Barinov continues dryly with a nod, making his position completely clear.
+- 'But a special thank you to my son-in-law.' Barinov chooses one pointed word toward Katya: "osoboye" means "special" (from "osobyy"), giving the line its exact edge.
+- 'Dad, he is not your son-in-law yet.' Katya drops that reply calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'That title will be his in twenty-four hours.' Katya reacts right away without any doubt, letting the remark speak for itself.
+- 'Let us go to the kitchen quickly.' Barinov centers one loaded expression right here: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'I want to look at my cooks.' Barinov continues evenly toward Katya, letting the remark speak for itself.
+- 'Vitya, wait here for a minute.' Eleonora proceeds earnestly as they talk, to clear the air between them once and for all.
+- 'And where are all my guys?' Barinov picks one pointed detail right here: "rebyata" means "the boys, the lads", and it carries the main weight of what Barinov is saying.
+- 'Vitya, get acquainted with this man.' Eleonora makes that remark right away: the "-sya" ending on "poznakomsya" ("to get acquainted") turns the action inward or makes it happen between people naturally.
+- 'This is our new head chef.' Eleonora reacts dryly with Katya, so Katya knows she is not just making small talk.

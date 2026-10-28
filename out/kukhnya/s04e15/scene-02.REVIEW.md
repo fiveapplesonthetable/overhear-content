@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, my dear German Mikhailovich!' Ainura keeps a thoughtful line in this beat, joining "dobroye" ("good") to "utro" ("morning") so every word pulls its weight.
-- 'Hello, Ainura, how are you feeling?' German tests firmly as they speak, building the phrase around "zdravstvuyte" ("hello") and "kak" ("how") for a crisp, natural delivery.
-- 'Oh, I am already running very late for work!' Ainura strikes a frank bearing straight away, building the phrase around "uzhe" ("already, now") and "silno" ("strongly, much") for a crisp, natural delivery.
-- 'And I have a strict boss in the kitchen!' Ainura favors a warm note in this beat, using the everyday "u menya" ("by me") alongside "kukhne" ("kitchen") to show what belongs to the speaker.
-- 'Last night a big indiscretion happened between us.' German adopts a calm posture for Ainura, leaning on "vchera" ("yesterday") before closing the thought with "vecherom" ("in the evening").
-- 'I earnestly ask you to keep this secret.' German establishes a steady course in the room, weaving "ochen" ("very much") together with "proshu" ("beg, ask") just the way native speakers do.
-- 'Let all this remain strictly confidential.' German takes a grounded stance in this beat, putting "ostanetsya" ("will remain") alongside "strogo" ("sternly, strictly") in a tight, everyday turn of phrase.
-- 'Ainura, do you understand me well right now?' German wonders warmly to Barinov here, leaning on "seychas" ("now") before closing the thought with "khorosho" ("good, fine").
-- 'Yes, you always speak so romantically!' Ainura picks a pointed manner with Barinov, weaving "vsegda" ("always") together with "romantichno" ("romantic") just the way native speakers do.
-- 'Good morning, Viktor Petrovich, how did you sleep?' German inquires earnestly in the room, weaving "dobroye" ("good") together with "utro" ("morning") just the way native speakers do.
-- 'Good Lord, how on earth did I end up here?' Barinov wonders bluntly as they speak, linking "kak" ("how"), "voobshche" ("at all"), and "zdes" ("here") in one brisk exchange.
-- 'See you at our beloved restaurant!' Ainura takes an earnest bearing right away, weaving "vstrechi" ("meeting, next time") together with "lyubimom" ("beloved") just the way native speakers do.
+- 'Good morning, my dear German Mikhailovich!' Jumping in right away, Ainura lets Barinov know there is no turning back now.
+- 'Hello, Ainura, how are you feeling?' German questions calmly before Barinov can change the subject.
+- 'Oh, I am already running very late for work!' Ainura stresses this key detail in earnest: "opazdyvayu" means "am running late" (from "opazdyvat"), giving the line its exact edge.
+- 'And I have a strict boss in the kitchen!' Ainura shares the comment frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Last night a big indiscretion happened between us.' German reacts briskly toward Ainura, before Ainura can change the subject.
+- 'I earnestly ask you to keep this secret.' German anchors one classic detail at once: "khranit" means "to keep, to store", and it carries the main weight of what German is saying.
+- 'Let all this remain strictly confidential.' German speaks frankly with Ainura, testing Ainura's reaction in the middle of the exchange.
+- 'Ainura, do you understand me well right now?' German probes skeptically about what Barinov just brought up.
+- 'Yes, you always speak so romantically!' Ainura centers this sharp word at once: "romantichno" means "romantic", and it carries the main weight of what Ainura is saying.
+- 'Good morning, Viktor Petrovich, how did you sleep?' German states the reaction with ease: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Good Lord, how on earth did I end up here?' Barinov probes earnestly before Ainura can change the subject.
+- 'See you at our beloved restaurant!' Ainura uses one sharp touch on cue: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.

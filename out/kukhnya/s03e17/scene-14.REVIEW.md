@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are not giving up, guys, let us work fast and together!' Barinov offers a firm view on the spot, anchoring the Russian line on "sdayomsya" ("surrender") and "rebyata" ("the boys, the lads") without extra filler.
-- 'Steaks on charcoal turn out even tastier.' Barinov holds a firm view right away, weaving "steyki" ("steaks") together with "uglyakh" ("on coals, charcoal") just the way native speakers do.
-- 'Chef, the fridge is off, let me cook pilaf.' Max takes a brisk bearing right away, weaving "kholodilnik" ("fridge") together with "rabotayet" ("works") just the way native speakers do.
-- 'At least we will feed the kitchen today with this pilaf.' Max sets a sharp angle during the exchange, anchoring the Russian line on "plovom" ("with pilaf") and "kukhnyu" ("kitchen") without extra filler.
-- 'Go ahead and cook, just do not get underfoot.' Barinov maintains a wry approach as they talk, weaving "davay" ("let's") together with "gotov" ("prepare") just the way native speakers do.
-- 'Alright, Chef, a restaurant is nothing.' Fedya sustains a steady angle without hesitation, weaving "khorosho" ("good, fine") together with "restoran" ("restaurant") just the way native speakers do.
-- 'On our ship in the ocean all the generators failed.' Fedya establishes a direct tack at this moment, building the phrase around "korable" ("on the ship") and "okeane" ("ocean") for a crisp, natural delivery.
-- 'Storyteller, look, all your fish is burning!' Barinov picks an honest direction at this moment, pairing "skazochnik" ("storyteller") with "posmotri" ("look") to get the point across in plain spoken Russian.
-- 'Once, Chef, we drifted for a whole month without fuel.' Fedya maintains a pointed position in the scene, anchoring the Russian line on "odnazhdy" ("once, one day") and "tselyy" ("whole, all") without extra filler.
-- 'Then we refueled and calmly reached the shore.' Fedya offers a resolute stance as the scene unfolds, joining "potom" ("then") to "zapravilis" ("refueled") so every word pulls its weight.
-- 'Are you seriously telling me this right now?' Barinov questions promptly with Fedya now, combining "seychas" ("now") and "seryozno" ("seriously") so the key meaning lands right away.
-- 'Look, fire! All our meat has burned up!' Max chooses a serious position right away, linking "smotrite" ("look"), "ogon" ("fire"), and "myaso" ("meat") in one brisk exchange.
+- 'We are not giving up, guys, let us work fast and together!' Barinov gives the thought on cue: the "-sya" ending on "sdayomsya" ("surrender") turns the action inward or makes it happen between people naturally.
+- 'Steaks on charcoal turn out even tastier.' Barinov proceeds right away without any doubt, leaving no doubt about where he stands.
+- 'Chef, the fridge is off, let me cook pilaf.' Max grounds one pointed touch with Barinov: "kholodilnik" means "fridge", and it carries the main weight of what Max is saying.
+- 'At least we will feed the kitchen today with this pilaf.' Max answers bluntly facing Fedya, bringing things back to earth after the buildup.
+- 'Go ahead and cook, just do not get underfoot.' Barinov chimes in quietly with Fedya, watching Fedya's face to see how the news lands.
+- 'Alright, Chef, a restaurant is nothing.' Fedya uses one pointed element toward Max: "restoran" means "restaurant", and it carries the main weight of what Fedya is saying.
+- 'On our ship in the ocean all the generators failed.' Fedya states this warning on cue: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Storyteller, look, all your fish is burning!' Barinov holds firm frankly with a sigh, leaving no doubt about where he stands.
+- 'Once, Chef, we drifted for a whole month without fuel.' Fedya features this vivid word on cue: "mesyats" means "month", and it carries the main weight of what Fedya is saying.
+- 'Then we refueled and calmly reached the shore.' Fedya aims that remark to Max: the "-sya" ending on "zapravilis" ("refueled") turns the action inward or makes it happen between people naturally.
+- 'Are you seriously telling me this right now?' Barinov probes frankly how Fedya expects that to work in practice.
+- 'Look, fire! All our meat has burned up!' Max leans on one colorful choice for Fedya: "smotrite" means "look" (from "smotret"), giving the line its exact edge.

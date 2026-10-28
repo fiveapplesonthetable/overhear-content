@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, sit down, let's drink.' Mikhail sustains a playful angle right away, using "sadis" (from "saditsya", "sit down") alongside "vypyem" ("will drink") to shape the meaning.
-- 'After all, today is such a happy day.' Mikhail chooses an honest approach with Kristina, leaning on "segodnya" ("today") before closing the thought with "schastlivyy" ("lucky").
-- 'I certainly know.' Mikhail projects a brisk position in front of Barinov, using "znayu" (from "znat", "know") alongside "uzh" ("certainly") to shape the meaning.
-- 'And who is that?' Mikhail prompts calmly in their exchange, joining "eto" ("this") to "kto" ("who") so every word pulls its weight.
-- 'Nagiyev's ex-wife.' Barinov strikes a brisk direction during the exchange, building the phrase around "byvshaya" ("former") and "zhena" ("wife") for a crisp, natural delivery.
-- 'Misha, where are you going?' Barinov probes naturally at this point, combining "kuda" ("where to") and "misha" ("Misha") so the key meaning lands right away.
-- 'Where is my money?' Kristina queries honestly across the room, linking "gde" ("where") directly with "dengi" ("money"), since Russian drops "is" and "are" in the present.
-- 'There is no money!' Mikhail holds a natural bearing in the conversation, weaving "deneg" ("money") together with "net" ("no") just the way native speakers do.
-- 'Look what a moneybag you found.' Mikhail projects a firm direction as they talk, pairing "denezhnyy" ("money, monetary") with "meshok" ("sack, bag") to get the point across in plain spoken Russian.
-- 'Look at yourselves, right out of love, huh?' Kristina queries directly across the room, joining "posmotrite" ("look") to "pryamo" ("right, just") so every word pulls its weight.
-- 'Yes, out of love.' Mikhail favors a candid attitude across the room, linking "lyubvi" ("love"), "da" ("yes"), and "po" ("according to") in one brisk exchange.
-- 'Yes, you are right.' Kristina shows a pointed angle in their talk, anchoring the Russian line on "prav" ("right") and "da" ("yes") without extra filler.
+- 'Vitya, sit down, let's drink.' Mikhail brings the comeback to Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'After all, today is such a happy day.' Mikhail responds briskly without holding back, making his position completely clear.
+- 'I certainly know.' Mikhail stresses one memorable expression on cue: "znayu" means "know" (from "znat"), giving the line its exact edge.
+- 'And who is that?' Mikhail shapes that line at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Nagiyev's ex-wife.' Barinov replies pointedly without any doubt, to clear the air between them once and for all.
+- 'Misha, where are you going?' Barinov offers this statement at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Where is my money?' Kristina sends that point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'There is no money!' Mikhail proceeds decisively on the spot, without trying to dress up how he really feels.
+- 'Look what a moneybag you found.' Mikhail sharpens one familiar word in earnest: "denezhnyy" means "money, monetary", and it carries the main weight of what Mikhail is saying.
+- 'Look at yourselves, right out of love, huh?' Kristina states the remark with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'Yes, out of love.' Mikhail speaks up bluntly in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'Yes, you are right.' Kristina uses one practical touch toward Mikhail: "prav" means "right" (from "pravyy"), giving the line its exact edge.

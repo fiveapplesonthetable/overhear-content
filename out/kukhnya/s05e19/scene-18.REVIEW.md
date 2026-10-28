@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, have you completely lost your mind?' Barinov inquires plainly as the talk turns, combining "sovsem" ("at all") and "uzhe" ("already, now") so the key meaning lands right away.
-- 'Chef, wait, what happened?' Max quizzes pointedly toward Eleonora here, linking "podozhdite" ("wait"), "sluchilos" ("happened"), and "shef" ("Chef") in one brisk exchange.
-- 'You ruined my dream with your pâté!' Barinov favors an honest direction right away, building the phrase around "mechtu" ("dream") and "ugrobil" ("ruin, destroy") for a crisp, natural delivery.
-- 'Vitya, what exactly is the matter here?' Eleonora queries warmly from the start, linking "sobstvenno" ("actually"), "zdes" ("here"), and "delo" ("matter") in one brisk exchange.
-- 'Why is this guy cooking for the Michelin inspector?' Eleonora probes directly in the room, linking "pochemu" ("why"), "paren" ("boyfriend"), and "gotovit" ("cooks") in one brisk exchange.
-- 'I appointed him temporarily, gave him a chance.' Barinov adopts a steady direction across the room, pairing "shans" ("chance") with "vremenno" ("temporarily") so the "-sya" ending carries the action.
-- 'I was the one who gave you a chance to work in a prestigious hotel!' Eleonora sets a frank style across the room, joining "dala" ("gave") to "shans" ("chance") so every word pulls its weight.
-- 'Without me your hotel would have become a station flophouse!' Barinov displays a serious line as they talk, combining "otel" ("hotel") and "stal" ("to become") so the key meaning lands right away.
-- 'Do you think you are here because you are a great chef?' Eleonora wonders steadily from the start, joining "dumayesh" ("think") to "zdes" ("here") so every word pulls its weight.
-- 'When you were left without a job, Katya came to me.' Eleonora adopts a measured rhythm on the spot, pairing "kogda" ("when") with "raboty" ("of work") to get the point across in plain spoken Russian.
-- 'She cried that nobody would hire her dad anywhere.' Eleonora sets an emphatic angle during the exchange, leaning on "plakala" ("were crying") before closing the thought with "papu" ("daddy").
-- 'I simply felt sorry for you back then.' Eleonora maintains an unhurried course toward Max, anchoring the Russian line on "prosto" ("just") and "togda" ("back then") without extra filler.
+- 'Oguzok, have you completely lost your mind?' Barinov prompts eagerly as Eleonora tries to explain the situation.
+- 'Chef, wait, what happened?' Max sharpens one colorful expression on cue: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'You ruined my dream with your pâté!' Barinov sharpens one telling piece at once: "pashtetom" means "pâté, paste" (from "pashtet"), giving the line its exact edge.
+- 'Vitya, what exactly is the matter here?' Eleonora challenges earnestly as Max tries to explain the situation.
+- 'Why is this guy cooking for the Michelin inspector?' Eleonora stresses one direct expression in reply: "inspektora" means "inspector" (from "inspektor"), giving the line its exact edge.
+- 'I appointed him temporarily, gave him a chance.' Barinov reacts quietly with a smile, saying out loud what both of them already know.
+- 'I was the one who gave you a chance to work in a prestigious hotel!' Eleonora answers right away before Barinov, steering the talk right where she wants it.
+- 'Without me your hotel would have become a station flophouse!' Barinov colors one telling word on cue: "privokzalnoy" means "train-station" (from "privokzalnyy"), giving the line its exact edge.
+- 'Do you think you are here because you are a great chef?' Eleonora shapes the reply toward Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'When you were left without a job, Katya came to me.' Eleonora reacts candidly toward Max, so Max knows she is not just making small talk.
+- 'She cried that nobody would hire her dad anywhere.' Eleonora colors one practical choice in reply: "plakala" means "were crying" (from "plakat"), giving the line its exact edge.
+- 'I simply felt sorry for you back then.' Eleonora delivers that reply without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

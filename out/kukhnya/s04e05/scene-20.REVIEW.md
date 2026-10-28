@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lev, today showed you still have much to learn.' Elena offers a brisk rhythm in their talk, joining "segodnya" ("today") to "yeshchyo" ("more, still") so every word pulls its weight.
-- 'Viktor Petrovich will now take the position of sous-chef.' Elena projects a calm style at once, weaving "dolzhnost" ("post, job") together with "su-shefa" ("sous-chef") just the way native speakers do.
-- 'I understand everything and completely agree.' Lyova shares a candid direction toward Barinov, putting "ponimayu" ("understand") alongside "polnostyu" ("completely") in a tight, everyday turn of phrase.
-- 'All right, Lyova, do not be too upset.' Barinov picks an earnest posture in the scene, combining "silno" ("strongly, much") and "rasstraivaysya" ("be upset, worry") so the key meaning lands right away.
-- 'Hey, do you have a light right now?' Barinov challenges pointedly in front of Elena, combining "u tebya" (literally "by you") with "slyshish" ("hear") rather than a separate word for "have".
-- 'Whoa, my lighter, where did you find it?' Barinov checks bluntly with Lyova now, linking "zazhigalka" ("where"), "gde" ("where"), and "nashyol" ("found") in one brisk exchange.
-- 'Right where you left it yesterday, in the refrigerator.' Lyova brings a measured footing across the room, weaving "tam" ("there") together with "gde" ("where") just the way native speakers do.
-- 'Wait, and why did you stay silent then?' Barinov inquires boldly during the talk, putting "podozhdi" ("wait") alongside "pochemu" ("why") in a tight, everyday turn of phrase.
-- 'Why say anything, after all they would have fired you right away.' Lyova holds a lively angle in the scene, putting "zachem" ("what for") alongside "govorit" ("to talk") in a tight, everyday turn of phrase.
-- 'Take my money for this big fine.' Barinov adopts a frank stance right away, combining "vozmi" ("take, pick up") and "dengi" ("money") so the key meaning lands right away.
-- 'Lena, please put Lyova back in his position.' Barinov projects an easygoing style in the scene, linking "verni" ("return"), "lyovu" ("lyova"), and "mesto" ("place, post") in one brisk exchange.
-- 'I was the one who unplugged the refrigerator on purpose yesterday.' Barinov chooses a grounded rhythm as they talk, leaning on "vchera" ("yesterday") before closing the thought with "spetsialno" ("on purpose").
-- 'Deal, but now under your personal responsibility.' Elena displays a wry angle as they talk, joining "dogovorilis" ("agreed, deal") to "teper" ("now") so every word pulls its weight.
+- 'Lev, today showed you still have much to learn.' Elena focuses on one loaded piece in earnest: "segodnya" means "today", and it carries the main weight of what Elena is saying.
+- 'Viktor Petrovich will now take the position of sous-chef.' Elena jumps in openly as they talk, so Lyova knows she is not just making small talk.
+- 'I understand everything and completely agree.' Lyova features one memorable detail with Barinov: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
+- 'All right, Lyova, do not be too upset.' Barinov phrases the comeback briskly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Lyova is on board.
+- 'Hey, do you have a light right now?' Barinov checks promptly whether Elena really thought this through.
+- 'Whoa, my lighter, where did you find it?' Barinov colors one sharp term toward Lyova: "zazhigalka" means "where", and it carries the main weight of what Barinov is saying.
+- 'Right where you left it yesterday, in the refrigerator.' Lyova centers one memorable term at once: "kholodilnike" means "fridge" (from "kholodilnik"), giving the line its exact edge.
+- 'Wait, and why did you stay silent then?' Barinov quizzes openly whether Lyova really thought this through.
+- 'Why say anything, after all they would have fired you right away.' Lyova frames one key word with Barinov: "govorit" means "to talk", and it carries the main weight of what Lyova is saying.
+- 'Take my money for this big fine.' Barinov reacts warmly watching Lyova, letting the remark speak for itself.
+- 'Lena, please put Lyova back in his position.' Barinov jumps in openly in this moment, shifting the whole mood of the room in a single beat.
+- 'I was the one who unplugged the refrigerator on purpose yesterday.' Barinov emphasizes one practical expression on cue: "kholodilnik" means "fridge", and it carries the main weight of what Barinov is saying.
+- 'Deal, but now under your personal responsibility.' Elena pushes back quietly with a sigh, to clear the air between them once and for all.

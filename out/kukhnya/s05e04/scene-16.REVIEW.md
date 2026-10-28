@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, I am not hungry.' Eleonora establishes an emphatic bearing in the scene, pairing "spasibo" ("thank you") with "golodna" ("hungry") to get the point across in plain spoken Russian.
-- 'I do not eat after six.' Eleonora takes a warm direction in this beat, using "yem" (from "yest", "to eat") alongside "shesti" ("six") to shape the meaning.
-- 'Katya, please forgive me.' Denis displays a steady tone across the room, anchoring the Russian line on "prosti" ("sorry, forgive me") and "kat" ("Katya") without extra filler.
-- 'I really do have tons of work.' Denis shows a pointed style for Katya, building the phrase around "pravda" ("honestly") and "raboty" ("of work") for a crisp, natural delivery.
-- 'Alright, I am waiting for you.' Katya projects an earnest course right away, weaving "zhdu" ("I wait, expect") together with "ladno" ("all right") just the way native speakers do.
-- 'Come to the suite quickly.' Katya offers a wry line beside Eleonora, building the phrase around "prikhodi" ("come") and "skoreye" ("quickly, right away") for a crisp, natural delivery.
-- 'Kiss me.' Katya displays a brisk attitude as they talk, pairing "potseluy" ("kiss") with "menya" ("me") to get the point across in plain spoken Russian.
-- 'What are you doing, huh?' Denis inquires honestly at this point, leaning on "tvorish" ("are doing, creating") before closing the thought with "che" ("what").
-- 'The Chef will kill me.' Denis sustains a measured position straight away, using "ubyet" (from "ubit", "will kill") alongside "menya" ("me") to shape the meaning.
-- 'Calm down, I am talking to Siri.' Denis brings a pointed tone in this beat, linking "spokoyno" ("calmly"), "siri" ("Siri"), and "govoryu" ("am telling") in one brisk exchange.
-- 'You lie right here for now.' Katya favors a pointed approach in the room, weaving "poka" ("bye") together with "lezhi" ("lie down") just the way native speakers do.
-- 'Lie there for now and work up an appetite.' Katya holds a sharp style in their talk, pairing "poka" ("bye") with "lezhi" ("lie down") to get the point across in plain spoken Russian.
+- 'Thank you, I am not hungry.' Eleonora reaches for this telling piece with Denis: "spasibo" means "thank you", and it carries the main weight of what Eleonora is saying.
+- 'I do not eat after six.' Eleonora speaks at once around Katya, saying out loud what both of them already know.
+- 'Katya, please forgive me.' Denis pushes back sharply toward Eleonora, before Eleonora can change the subject.
+- 'I really do have tons of work.' Denis points to one familiar expression in earnest: "pravda" means "honestly", and it carries the main weight of what Denis is saying.
+- 'Alright, I am waiting for you.' Katya sends this point without pause: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Denis is on board.
+- 'Come to the suite quickly.' Katya weighs in boldly as they talk, to clear the air between them once and for all.
+- 'Kiss me.' Katya highlights this direct detail with Denis: "potseluy" means "kiss" (from "potselovat"), giving the line its exact edge.
+- 'What are you doing, huh?' Denis gives this point beside Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'The Chef will kill me.' Denis stands firm steadily watching Eleonora, bringing things back to earth after the buildup.
+- 'Calm down, I am talking to Siri.' Denis anchors one sharp word at once: "spokoyno" means "calmly", and it carries the main weight of what Denis is saying.
+- 'You lie right here for now.' Katya offers that reply with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Lie there for now and work up an appetite.' Katya proceeds promptly without holding back, grounding the moment in plain reality.

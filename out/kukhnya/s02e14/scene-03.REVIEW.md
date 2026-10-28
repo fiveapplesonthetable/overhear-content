@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, who is this Ilya?' Max quizzes warmly across the room, anchoring the Russian line on "nu" ("oh, come on") and "kto" ("who") without extra filler.
-- 'Senya, go away, will you.' Sasha strikes a firm posture with Senya, using "uydi" (from "uyti", "go away, step inside") alongside "senya" ("Senya") to shape the meaning.
-- 'It does not matter, he is my ex.' Senya projects a frank course without hesitation, joining "vazhno" ("important, mattering") to "byvshiy" ("ex") so every word pulls its weight.
-- 'And how long ago did you break up?' Max tests calmly in the room, combining "davno" ("for a long time") and "rasstalis" ("broke up, separated") so the key meaning lands right away.
-- 'Six months ago.' Sasha picks a brisk view across the room, anchoring the Russian line on "polgoda" ("six months") and "nazad" ("ago") without extra filler.
-- 'Oh, no, no, thank you.' Senya keeps an emphatic angle without hesitation, anchoring the Russian line on "spasibo" ("thank you") and "net" ("no") without extra filler.
-- 'In a week I will have a talk with Sasha.' Max offers a calm view across the room, using "nedelyu" (from "nedelya", "for a week") alongside "pogovorim" ("we'll have a talk") to shape the meaning.
-- 'Ah, speak of the devil.' Sasha presents a thoughtful mood on the spot, weaving "vot" ("there, here") together with "on" ("he") just the way native speakers do.
-- 'Dmitry Vladimirovich is busy right now.' Senya takes an earnest mood in the room, pairing "seychas" ("now") with "zanyat" ("busy") to get the point across in plain spoken Russian.
-- 'Please wait for him right here.' Max favors a serious mood as the scene unfolds, joining "podozhdite" ("wait") to "zdes" ("here") so every word pulls its weight.
-- 'And what happens now?' Sasha quizzes briskly toward Max here, building the phrase around "teper" ("now") and "chto" ("what") for a crisp, natural delivery.
-- 'Wait, are you jealous?' Senya wonders lightly during the talk, building the phrase around "revnuyesh" ("are jealous") and "ty" ("you") for a crisp, natural delivery.
-- 'I am with you now.' Max strikes a frank note as the scene unfolds, building the phrase around "ya" ("I") and "toboy" ("you") for a crisp, natural delivery.
+- 'So, who is this Ilya?' Max checks openly in front of Sasha without any preamble.
+- 'Senya, go away, will you.' Sasha underscores this sharp piece for Senya: "uydi" means "go away, step inside" (from "uyti"), giving the line its exact edge.
+- 'It does not matter, he is my ex.' Senya shapes this update in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And how long ago did you break up?' Max prompts firmly how Senya expects that to work in practice.
+- 'Six months ago.' Sasha chooses one telling element at once: "polgoda" means "six months", and it carries the main weight of what Sasha is saying.
+- 'Oh, no, no, thank you.' Senya gives this statement in earnest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'In a week I will have a talk with Sasha.' Max weighs in steadily watching Sasha, testing Sasha's reaction in the middle of the exchange.
+- 'Ah, speak of the devil.' Sasha hands over that reply around Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Dmitry Vladimirovich is busy right now.' Senya sends that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Please wait for him right here.' Max speaks up sharply on the spot, keeping the focus on what actually matters here.
+- 'And what happens now?' Sasha centers one loaded expression in reply: "teper" means "now", and it carries the main weight of what Sasha is saying.
+- 'Wait, are you jealous?' Senya puts this statement with ease: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
+- 'I am with you now.' Max replies decisively across the room, to clear the air between them once and for all.

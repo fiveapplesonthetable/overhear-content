@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, hello, how are you doing?' Elena presses promptly for Barinov's benefit, placing "kak" ("how") straight beside "dela" ("things, affairs") with no word for "to be" needed.
-- 'Lena, hi, what a pleasant surprise!' Barinov holds a steady rhythm during the exchange, joining "priyatnyy" ("nice, pleasant") to "syurpriz" ("surprise") so every word pulls its weight.
-- 'Have you been back in Moscow for long?' Barinov asks briskly without a pause, leaning on "uzhe" ("already, now") before closing the thought with "davno" ("for a long time").
-- 'Yes, I have been here for two months already.' Elena takes a thoughtful angle in the scene, building the phrase around "zdes" ("here") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'And what about your expensive restaurant?' Barinov inquires wryly beside Elena, building the phrase around "kak" ("how") and "dorogoy" ("dear") for a crisp, natural delivery.
-- 'Nothing came of it, it did not work out for me.' Elena sets a playful attitude as they talk, pairing "poluchilos" ("worked out") with "nikak" ("in no way") so the "-sya" ending carries the action.
-- 'The owner and I did not get along in temperament.' Elena picks an honest footing in the conversation, joining "soshlis" ("to converge") to "kharakterom" ("character, temper") so every word pulls its weight.
-- 'Now I cannot get hired at a good job.' Elena presents a thoughtful stance in their talk, anchoring the Russian line on "teper" ("now") and "mogu" ("can") without extra filler.
-- 'That is why I came to this show.' Elena conveys a lively angle at once, linking "poetomu" ("that's why"), "prishla" ("came"), and "shou" ("show") in one brisk exchange.
-- 'You should be working in the best restaurant!' Barinov displays a direct stance at this moment, anchoring the Russian line on "dolzhna" ("should, must") and "rabotat" ("to work") without extra filler.
-- 'All right, I will handle everything myself.' Elena keeps a warm note in the conversation, putting "spravlyus" ("will manage") alongside "ladno" ("all right") in a tight, everyday turn of phrase.
-- 'I was very glad to see you.' Elena picks an earnest rhythm with Barinov, anchoring the Russian line on "byla" ("was") and "ochen" ("very much") without extra filler.
+- 'Vitya, hello, how are you doing?' Elena grounds one colorful detail toward Barinov: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
+- 'Lena, hi, what a pleasant surprise!' Barinov voices that line right away: opening with the casual greeting "privet" ("hi") signals right away that Barinov and Elena are on familiar terms.
+- 'Have you been back in Moscow for long?' Barinov asks skeptically what Elena is actually getting at here.
+- 'Yes, I have been here for two months already.' Elena uses one practical word right here: "mesyatsa" means "months" (from "mesyats"), giving the line its exact edge.
+- 'And what about your expensive restaurant?' Barinov aims that remark with warmth: putting the question word "kak" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'Nothing came of it, it did not work out for me.' Elena answers warmly toward Barinov, so Barinov knows she is not just making small talk.
+- 'The owner and I did not get along in temperament.' Elena chooses one classic expression in reply: "kharakterom" means "character, temper" (from "kharakter"), giving the line its exact edge.
+- 'Now I cannot get hired at a good job.' Elena follows up quietly without any doubt, refusing to let the moment slip past.
+- 'That is why I came to this show.' Elena fires back candidly to settle things, making her position completely clear.
+- 'You should be working in the best restaurant!' Barinov features one telling term at once: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'All right, I will handle everything myself.' Elena voices this statement frankly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'I was very glad to see you.' Elena holds firm calmly without a pause, leaving no doubt about where she stands.

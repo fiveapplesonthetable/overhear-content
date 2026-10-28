@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Elena Pavlovna, you should go get some rest.' Barinov strikes an unhurried bearing with Elena, using "shli" (from "idti", "were going") alongside "otdykhat" ("relax") to shape the meaning.
-- 'We will manage fine here.' Barinov sets a resolute bearing with Max, pairing "spravimsya" ("will manage") with "tut" ("here") so the "-sya" ending carries the action.
-- 'Yes, I can see that you have plenty of free time.' Elena presents a steady direction in front of Barinov, combining "vizhu" ("see") and "mnogo" ("a lot") so the key meaning lands right away.
-- 'Enough for conversations and everything else.' Elena offers a playful angle toward Max, weaving "khvatayet" ("grabs") together with "razgovory" ("conversations") just the way native speakers do.
-- 'Take another order.' Elena establishes a firm angle at this moment, putting "vozmite" ("take") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
-- 'Here, a summer salad and bolognese.' Elena offers a thoughtful note as they talk, joining "letniy" ("summer") to "salat" ("salad") so every word pulls its weight.
-- 'So you don't want to talk?' Max queries steadily beside Barinov, building the phrase around "znachit" ("then, so") and "khochesh" ("do you want") for a crisp, natural delivery.
-- 'Okay, let's talk this way.' Max adopts a resolute rhythm as they talk, putting "davay" ("let's") alongside "pogovorim" ("we'll have a talk") in a tight, everyday turn of phrase.
-- 'Yesterday you were wrong. I was wrong too.' Max displays a lively footing in their talk, joining "vchera" ("yesterday") to "byla" ("was") so every word pulls its weight.
-- 'But since you and I are serious adults...' Max adopts a warm rhythm with Elena, pairing "kak" ("how") with "seryoznyye" ("serious") to get the point across in plain spoken Russian.
-- 'Right now?' Max quizzes dryly to Barinov here, weaving "pryamo" ("right, just") together with "seychas" ("now") just the way native speakers do.
-- 'Awesome, let's go.' Max chooses a brisk manner in front of Elena, putting "klass" ("cool, great") alongside "pognali" ("to let's") in a tight, everyday turn of phrase.
+- 'Elena Pavlovna, you should go get some rest.' Barinov replies at once around Elena, steering the talk right where he wants it.
+- 'We will manage fine here.' Barinov spotlights this clear expression in earnest: "spravimsya" means "will manage" (from "spravitsya"), giving the line its exact edge.
+- 'Yes, I can see that you have plenty of free time.' Elena shares that remark calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Enough for conversations and everything else.' Elena weighs in decisively with a nod, before Max can change the subject.
+- 'Take another order.' Elena chooses one classic piece in reply: "yeshchyo" means "more, still", and it carries the main weight of what Elena is saying.
+- 'Here, a summer salad and bolognese.' Elena aims this warning toward Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'So you don't want to talk?' Max quizzes candidly how Barinov expects that to work in practice.
+- 'Okay, let's talk this way.' Max highlights one key choice for Elena: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
+- 'Yesterday you were wrong. I was wrong too.' Max highlights one telling term at once: "prava" means "right, correct" (from "pravyy"), giving the line its exact edge.
+- 'But since you and I are serious adults...' Max reacts promptly as things stand, steering the talk right where he wants it.
+- 'Right now?' Max emphasizes this vivid word for Barinov: "seychas" means "now", and it carries the main weight of what Max is saying.
+- 'Awesome, let's go.' Max sends the reaction facing Elena: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

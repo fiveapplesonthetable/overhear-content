@@ -25,7 +25,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, I congratulate you.' the doctor delivers a punchy conversational reaction built around the Russian word meaning 'congratulations'.
+- 'Well then, I congratulate you.' Looking up from the test results with dry medical humor, the doctor 'congratulates' Max on his diagnosis.
 - 'Your rash is a pseudoallergic reaction.' Looking over the test results, the doctor calls the rash a pseudo-allergic reaction.
 - 'This is a typical manifestation of helminthiasis.' He uses heavy medical jargon to say it is a classic sign of a parasite infection.
 - 'And is it possible to say it humanly?' Baffled by the long medical words, Max asks the doctor to put it in plain human Russian.
@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Are you serious? I have worms?' Horrified, Max asks if the doctor is serious that he has worms.
 - 'Well, it is not me who has them.' The doctor dryly jokes that they certainly are not his own worms. And Max jumps in.
 - 'But where do I have worms from?' Max cannot understand where he could have caught parasites.
-- 'Well, the causes can be the most diverse.' the doctor puts the word for 'reason' together with 'can' and 'be' in a crisp, natural spoken turn of phrase.
+- 'Well, the causes can be the most diverse.' When Max asks how he could have caught the rash, the doctor replies that the causes can vary widely.
 - 'Poor hygiene or contacts with soil.' Listing common causes, the doctor mentions poor hygiene or contact with dirt.
 - 'Perhaps, you like to eat raw fish.' Then the doctor guesses the real culprit: eating raw fish.
 - 'Tell me, do you like sushi?' He asks pointedly whether Max happens to enjoy sushi — justlike the spoiled fish from Timur.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Son, why did you come home so early?' The guest prompts directly in the scene, combining "synok" ("son") and "pochemu" ("why") so the key meaning lands right away.
-- 'Close the door slightly, otherwise it is awkward for us.' The guest picks a measured position across the room, putting "prikroy" ("please") alongside "dver" ("door") in a tight, everyday turn of phrase.
-- 'You work together at the hotel after all.' The guest holds an earnest bearing on the spot, building the phrase around "vmeste" ("together") and "otele" ("in the hotel") for a crisp, natural delivery.
-- 'Hello, Kostya, where is your dad?' Nastya quizzes calmly beside Kostya, joining "zdravstvuyte" ("hello") to "gde" ("where") so every word pulls its weight.
-- 'Dad decided to take a warm bath.' Kostya displays an earnest angle as they talk, joining "papa" ("Dad") to "reshil" ("has decided") so every word pulls its weight.
-- 'Meet her, this is Mom's good friend Yevgeniya.' Nastya chooses an easygoing manner with Kostya, linking "poznakomtes" ("get acquainted"), "mamina" ("Mom's"), and "khoroshaya" ("good") in one brisk exchange.
-- 'Hello, we are also very pleased to meet you right now.' Kostya conveys a firm bearing right away, weaving "zdravstvuyte" ("hello") together with "tozhe" ("too") just the way native speakers do.
-- 'And this is my new friend Anzhelika.' The guest favors a sharp attitude in the conversation, using "novaya" (from "novyy", "new") alongside "podruga" ("female friend") to shape the meaning.
-- 'Maybe we can drink some tea together?' The guest checks openly as the beat lands, joining "mozhet" ("can") to "byt" ("be") so every word pulls its weight.
-- 'Look, I bought some fresh bagels here.' The guest favors a serious bearing without hesitation, building the phrase around "smotrite" ("look") and "tut" ("here") for a crisp, natural delivery.
-- 'Excuse me, but I will probably go now.' Nastya chooses a pointed bearing at this moment, leaning on "izvinite" ("sorry, excuse me") before closing the thought with "navernoye" ("probably").
-- 'Wait, I will walk you to the door.' The guest picks an honest tack at once, leaning on "podozhdite" ("wait") before closing the thought with "dveri" ("door").
+- 'Son, why did you come home so early?' The guest questions candidly what Kostya is actually getting at here.
+- 'Close the door slightly, otherwise it is awkward for us.' The guest anchors this sharp word for Nastya: "prikroy" means "please", and it carries the main weight of what the guest is saying.
+- 'You work together at the hotel after all.' The guest uses one telling element at once: "rabotayete" means "work" (from "rabotat"), giving the line its exact edge.
+- 'Hello, Kostya, where is your dad?' Nastya prompts frankly where this conversation is heading next.
+- 'Dad decided to take a warm bath.' Kostya frames this clear choice right here: "tyopluyu" means "warm" (from "tyoplyy"), giving the line its exact edge.
+- 'Meet her, this is Mom's good friend Yevgeniya.' Nastya responds plainly hearing Kostya, refusing to let the moment slip past.
+- 'Hello, we are also very pleased to meet you right now.' Kostya fires back frankly during the talk, steering the talk right where he wants it.
+- 'And this is my new friend Anzhelika.' The guest sharpens one practical detail in earnest: "podruga" means "female friend", and it carries the main weight of what the guest is saying.
+- 'Maybe we can drink some tea together?' The guest frames the comment around Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Look, I bought some fresh bagels here.' The guest speaks up firmly in their talk, steering the talk right where he wants it.
+- 'Excuse me, but I will probably go now.' Nastya points to one sharp touch toward the guest: "navernoye" means "probably", and it carries the main weight of what Nastya is saying.
+- 'Wait, I will walk you to the door.' The guest points to one vivid word toward Nastya: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.

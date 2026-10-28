@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor, attention, Dyagilev is on his way to us right now.' Mikhail brings a direct note beside Barinov, putting "vnimaniye" ("attention") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'He has an important meeting scheduled here today.' Mikhail offers a sharp mood without hesitation, joining "zdes" ("here") to "segodnya" ("today") so every word pulls its weight.
-- 'My reliable contact informed me about this.' Mikhail sets a warm note toward Barinov, building the phrase around "nadyozhnyy" ("reliable") and "chelovek" ("a man, a person") for a crisp, natural delivery.
-- 'Good morning, your contact is reliable, but very slow.' Barinov sustains an easygoing bearing at once, putting "dobroye" ("good") alongside "utro" ("morning") in a tight, everyday turn of phrase.
-- 'Because he has been sitting here for a long time already.' Barinov shows a serious bearing at once, weaving "potomu" ("because") together with "uzhe" ("already, now") just the way native speakers do.
-- 'So where did you and I leave off?' Eleonora wonders dryly in their exchange, leaning on "ostanovilis" ("to stop") before closing the thought with "tak" ("so").
-- 'You and I were talking about my Nikita.' Mikhail sustains a natural approach in the scene, linking "govorili" ("talked"), "my" ("we"), and "toboy" ("you") in one brisk exchange.
-- 'You know, he is handling the job very well.' Eleonora shows a brisk posture in the scene, pairing "spravlyayetsya" ("to cope, manage") with "znayesh" ("know") so the "-sya" ending carries the action.
-- 'That is good, because he tells me nothing at all.' Mikhail keeps a pointed posture at this moment, leaning on "khorosho" ("good, fine") before closing the thought with "rasskazyvayet" ("tells").
-- 'I understand you, I have a daughter of the same age.' Eleonora jumps in calmly to Mikhail here, using the everyday "u menya" ("by me") alongside "ponimayu" ("understand") to show what belongs to the speaker.
-- 'And you know, you cannot get a word out of her.' Eleonora favors a firm rhythm at once, joining "znayesh" ("know") to "slova" ("words") so every word pulls its weight.
-- 'Welcome to our restaurant, dear guest!' Barinov brings a resolute angle toward Mikhail, joining "dobro" ("good, kindness") to "pozhalovat" ("to welcome") so every word pulls its weight.
-- 'Listen, I did not know that you have a daughter.' Mikhail shares a calm approach during the exchange, using "slushay" (from "slushat", "listen") alongside "znal" ("knew") to shape the meaning.
+- 'Viktor, attention, Dyagilev is on his way to us right now.' Mikhail continues frankly around Barinov, bringing things back to earth after the buildup.
+- 'He has an important meeting scheduled here today.' Mikhail weighs in pointedly in this moment, so Eleonora knows he is not just making small talk.
+- 'My reliable contact informed me about this.' Mikhail spotlights one clear detail right here: "nadyozhnyy" means "reliable", and it carries the main weight of what Mikhail is saying.
+- 'Good morning, your contact is reliable, but very slow.' Barinov directs that point facing Mikhail: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Because he has been sitting here for a long time already.' Barinov steps in earnestly in their talk, grounding the moment in plain reality.
+- 'So where did you and I leave off?' Eleonora emphasizes one practical touch for Mikhail: "ostanovilis" means "to stop" (from "ostanovitsya"), giving the line its exact edge.
+- 'You and I were talking about my Nikita.' Mikhail stands firm warmly across the room, saying out loud what both of them already know.
+- 'You know, he is handling the job very well.' Eleonora steps in warmly without any doubt, letting the remark speak for itself.
+- 'That is good, because he tells me nothing at all.' Mikhail highlights one clear term on cue: "rasskazyvayet" means "tells" (from "rasskazyvat"), giving the line its exact edge.
+- 'I understand you, I have a daughter of the same age.' Eleonora makes this point right away: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'And you know, you cannot get a word out of her.' Eleonora speaks up right away without a pause, without trying to dress up how she really feels.
+- 'Welcome to our restaurant, dear guest!' Barinov centers one clear choice for Mikhail: "pozhalovat" means "to welcome", and it carries the main weight of what Barinov is saying.
+- 'Listen, I did not know that you have a daughter.' Mikhail gives this update plainly here: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.

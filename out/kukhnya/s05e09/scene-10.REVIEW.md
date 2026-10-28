@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, did you break the cognac?' Max quizzes firmly in this moment, weaving "konyak" ("cognac, brandy") together with "razbil" ("wrecked, crashed") just the way native speakers do.
-- 'I am simply tidying up here.' Kostya keeps a grounded tempo during the exchange, weaving "zdes" ("here") together with "prosto" ("just") just the way native speakers do.
-- 'And what is this?' Vika wonders honestly in their exchange, putting "chto" ("what") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'A baby crib.' Max presents a frank mood in the scene, putting "detskaya" ("children's") alongside "krovatka" ("baby crib, cot") in a tight, everyday turn of phrase.
-- 'Sign right here, please.' Vika takes an earnest direction on the spot, linking "raspishites" ("sign"), "zdes" ("here"), and "vot" ("there, here") in one brisk exchange.
-- 'Forgive me, I mixed everything up.' Max presents a pointed attitude for Vika, pairing "prostite" ("excuse me") with "pereputal" ("mixed up, confused") to get the point across in plain spoken Russian.
-- 'Instead of the home address I wrote the work one.' Max picks a frank view at once, anchoring the Russian line on "domashnego" ("house") and "adresa" ("address") without extra filler.
-- 'Next time you will be more careful.' Vika strikes a direct tack for Max, weaving "sleduyushchiy" ("next") together with "raz" ("time, once") just the way native speakers do.
-- 'Maybe I can pay you extra?' Vika asks evenly for Kostya's benefit, leaning on "mozhet" ("can") before closing the thought with "doplachu" ("will pay extra").
-- 'Vika, let me drive it over.' Max sustains a warm bearing in the scene, weaving "davay" ("let's") together with "zavezu" ("will drop off") just the way native speakers do.
-- 'I will load the car and then help carry it up.' Max projects a steady footing during the exchange, using "zagruzhu" (from "zagruzit", "to load") alongside "mashinu" ("car") to shape the meaning.
-- 'No need. Kostya, what is that smell?' Vika questions directly to Max here, combining "nado" ("it is necessary") and "pakhnet" ("it smells") so the key meaning lands right away.
+- 'Kostyan, did you break the cognac?' Max features one colorful element toward Kostya: "konyak" means "cognac, brandy", and it carries the main weight of what Max is saying.
+- 'I am simply tidying up here.' Kostya delivers this warning facing Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'And what is this?' Vika inquires bluntly about what Kostya just brought up.
+- 'A baby crib.' Max points to one sharp word in reply: "detskaya" means "children's" (from "detskiy"), giving the line its exact edge.
+- 'Sign right here, please.' Vika shapes that point briskly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Forgive me, I mixed everything up.' Max follows up sharply without any doubt, grounding the moment in plain reality.
+- 'Instead of the home address I wrote the work one.' Max emphasizes one direct touch for Kostya: "domashnego" means "house" (from "domashniy"), giving the line its exact edge.
+- 'Next time you will be more careful.' Vika replies plainly without a pause, letting the remark speak for itself.
+- 'Maybe I can pay you extra?' Vika prompts firmly while looking straight at Kostya here.
+- 'Vika, let me drive it over.' Max focuses on one vivid expression at once: "zavezu" means "will drop off" (from "zavezti"), giving the line its exact edge.
+- 'I will load the car and then help carry it up.' Max jumps in plainly on the spot, before Kostya can change the subject.
+- 'No need. Kostya, what is that smell?' Vika checks quietly to see how Max will answer on the spot.

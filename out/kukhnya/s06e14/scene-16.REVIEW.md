@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I saw bandits carry away our teacher.' The guest sets a thoughtful attitude as they talk, pairing "videl" ("saw, have seen") with "kak" ("how") to get the point across in plain spoken Russian.
-- 'We need to urgently do something about this.' The guest presents a natural bearing beside Senya, combining "nado" ("it is necessary") and "srochno" ("urgent, urgently") so the key meaning lands right away.
-- 'It is unpleasant when they stare at us like that.' Senya shows a pointed view in their talk, anchoring the Russian line on "nepriyatno" ("unpleasant") and "kogda" ("when") without extra filler.
-- 'Calm down, I will speak with their head chef.' The guest displays a firm mood for Senya, building the phrase around "uspokoytes" ("calm down") and "pogovoryu" ("I'll talk") for a crisp, natural delivery.
-- 'We will calmly find out everything here right now.' The guest adopts an honest direction in the scene, anchoring the Russian line on "seychas" ("now") and "spokoyno" ("calmly") without extra filler.
-- 'Hey, why are unauthorized people in the kitchen?' Barinov presses bluntly for Senya's benefit, weaving "pochemu" ("why") together with "postoronniye" ("outside, extraneous") just the way native speakers do.
-- 'Tell us, where did you put our prophet?' The guest probes candidly in their exchange, joining "skazhite" ("tell") to "kuda" ("where to") so every word pulls its weight.
-- 'What are you even talking about right now?' Barinov probes lightly toward Senya here, joining "voobshche" ("at all") to "seychas" ("now") so every word pulls its weight.
-- 'Chef, they want to blame us for everything!' Senya projects a playful bearing right away, building the phrase around "khotyat" ("want") and "obvinit" ("blame, accuse") for a crisp, natural delivery.
-- 'What are you saying about us?' The guest questions sharply to keep things clear, combining "govorite" ("say, speak") and "chto" ("what") so the key meaning lands right away.
-- 'Brothers, quickly defend yourselves from these cooks!' The guest chooses a resolute footing at this moment, joining "bratya" ("brother, cousin") to "bystro" ("quickly") so every word pulls its weight.
-- 'Wait, nobody touched anyone in here!' Barinov brings a clear mood at once, pairing "podozhdite" ("wait") with "zdes" ("here") to get the point across in plain spoken Russian.
+- 'I saw bandits carry away our teacher.' The guest spotlights one key detail toward Barinov: "uchitelya" means "the teachers" (from "uchitel"), giving the line its exact edge.
+- 'We need to urgently do something about this.' The guest puts the reply facing Senya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'It is unpleasant when they stare at us like that.' Senya steps in calmly around Barinov, making his position completely clear.
+- 'Calm down, I will speak with their head chef.' The guest spotlights one pointed choice with Senya: "shef-povarom" means "head chef" (from "shef-povar"), giving the line its exact edge.
+- 'We will calmly find out everything here right now.' The guest reacts right away in this moment, watching Barinov's face to see how the news lands.
+- 'Hey, why are unauthorized people in the kitchen?' Barinov questions straight out about what Senya just brought up.
+- 'Tell us, where did you put our prophet?' The guest stresses one vivid touch right here: "proroka" means "prophet" (from "prorok"), giving the line its exact edge.
+- 'What are you even talking about right now?' Barinov offers this point beside Senya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Chef, they want to blame us for everything!' Senya jumps in boldly beside Barinov, to clear the air between them once and for all.
+- 'What are you saying about us?' The guest anchors one familiar piece right here: "govorite" means "say, speak" (from "govorit"), giving the line its exact edge.
+- 'Brothers, quickly defend yourselves from these cooks!' The guest delivers that reply briskly now: the "-sya" ending on "zashchishchaytes" ("defend yourselves") turns the action inward or makes it happen between people naturally.
+- 'Wait, nobody touched anyone in here!' Barinov continues frankly with a smile, before Senya can change the subject.

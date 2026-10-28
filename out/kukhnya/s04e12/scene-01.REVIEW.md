@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, hi, how are you doing?' Sasha presses firmly in their exchange, linking "kak" ("how") directly with "dela" ("things, affairs"), since Russian drops "is" and "are" in the present.
-- 'And I decided to celebrate my wedding here.' Sasha sustains an easygoing tempo with Vika, joining "reshila" ("decided") to "otprazdnovat" ("to wedding") so every word pulls its weight.
-- 'That is great, isn't it?' Sasha asks promptly as the beat lands, anchoring the Russian line on "zdorovo" ("great, cool") and "pravda" ("honestly") without extra filler.
-- 'You want to celebrate your wedding here?' Vika asks firmly without a pause, weaving "khochesh" ("do you want") together with "prazdnovat" ("to celebrate") just the way native speakers do.
-- 'Well yes, Misha and I are getting married.' Sasha chooses a serious rhythm in the scene, weaving "mishey" ("married") together with "zhenimsya" ("to marry") just the way native speakers do.
-- 'We want to celebrate in a close circle.' Sasha offers an emphatic mood during the exchange, joining "khotim" ("want") to "otprazdnovat" ("to wedding") so every word pulls its weight.
-- 'A banquet for approximately thirty people.' Sasha picks an earnest manner straight away, building the phrase around "banket" ("banquet") and "primerno" ("approximately") for a crisp, natural delivery.
-- 'Check, please, is Thursday free at your place?' Sasha prompts openly as the talk turns, leaning on "posmotri" ("look") before closing the thought with "chetverg" ("place").
-- 'I will look in our logbook right now.' Vika favors a frank footing on the spot, weaving "seychas" ("now") together with "posmotryu" ("have a look") just the way native speakers do.
-- 'Unfortunately, everything is booked this week.' Vika establishes an easygoing note straight away, using "sozhaleniyu" (from "sozhaleniye", "regret") alongside "nedele" ("week") to shape the meaning.
-- 'So excuse me, please.' Vika shares a resolute approach in their talk, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "tak" ("so") without extra filler.
-- 'We cannot help you with anything.' Vika offers a sharp stance during the exchange, weaving "mozhem" ("can") together with "pomoch" ("to help") just the way native speakers do.
+- 'Vika, hi, how are you doing?' Sasha spotlights one pointed touch at once: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
+- 'And I decided to celebrate my wedding here.' Sasha stands firm calmly toward Vika, letting the remark speak for itself.
+- 'That is great, isn't it?' Sasha checks frankly whether Vika really thought this through.
+- 'You want to celebrate your wedding here?' Vika grounds one memorable term with Sasha: "prazdnovat" means "to celebrate", and it carries the main weight of what Vika is saying.
+- 'Well yes, Misha and I are getting married.' Sasha lays out the comeback right away: the "-sya" ending on "zhenimsya" ("to marry") turns the action inward or makes it happen between people naturally.
+- 'We want to celebrate in a close circle.' Sasha weighs in firmly as things stand, leaving no doubt about where she stands.
+- 'A banquet for approximately thirty people.' Sasha leans on this direct term toward Vika: "banket" means "banquet", and it carries the main weight of what Sasha is saying.
+- 'Check, please, is Thursday free at your place?' Sasha puts the reply in earnest: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'I will look in our logbook right now.' Vika speaks up firmly to settle things, to clear the air between them once and for all.
+- 'Unfortunately, everything is booked this week.' Vika emphasizes one clear touch on cue: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
+- 'So excuse me, please.' Vika shapes this answer briskly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'We cannot help you with anything.' Vika weighs in decisively to be clear, to clear the air between them once and for all.

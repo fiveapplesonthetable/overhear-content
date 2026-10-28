@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not be upset, so it did not work out today.' Max chooses an unhurried angle in the scene, combining "rasstraivaysya" ("be upset, worry") and "poluchilos" ("worked out") so the key meaning lands right away.
-- 'Maybe not everything is lost yet?' Max tests steadily right away, leaning on "mozhet" ("can") before closing the thought with "yeshchyo" ("more, still").
-- 'Hi, Max, I wanted to tell you something.' Katya shares a resolute style without hesitation, leaning on "khotela" ("wanted, meant") before closing the thought with "skazat" ("tell").
-- 'Maybe we could go have some coffee tonight?' Katya tests directly at this point, weaving "mozhet" ("can") together with "poydyom" ("let's go") just the way native speakers do.
-- 'Hi, what? Have coffee tonight?' Max queries sharply in this moment, leaning on "kofe" ("of coffee") before closing the thought with "vecherom" ("in the evening").
-- 'Yes, then it is settled between us.' Katya favors a lively mood right away, weaving "dogovorilis" ("agreed, deal") together with "da" ("yes") just the way native speakers do.
-- 'I do not understand anything at all now.' Lyova offers an easygoing tempo straight away, anchoring the Russian line on "voobshche" ("at all") and "teper" ("now") without extra filler.
-- 'I did everything according to your recipe.' Lyova shares a warm position right away, putting "sdelal" ("did") alongside "retseptu" ("recipe, prescription") in a tight, everyday turn of phrase.
-- 'You did nothing at all, and she is going with you.' Lyova projects a pointed stance in front of Katya, pairing "delal" ("were doing") with "ty" ("you") to get the point across in plain spoken Russian.
-- 'Honestly, I do not know why myself.' Max establishes a clear style as they talk, building the phrase around "chestno" ("honestly") and "govorya" ("speaking") for a crisp, natural delivery.
-- 'Tell me, why did it turn out like this?' Lyova wonders plainly right away, pairing "skazhi" ("say") with "pochemu" ("why") to get the point across in plain spoken Russian.
-- 'Because I am completely worthless.' Lyova displays a frank footing straight away, linking "potomu" ("because") directly with "sovsem" ("at all"), since Russian drops "is" and "are" in the present.
+- 'Do not be upset, so it did not work out today.' Max responds warmly during the talk, leaving no doubt about where he stands.
+- 'Maybe not everything is lost yet?' Max colors one classic choice in earnest: "poteryano" means "is lost" (from "poteryat"), giving the line its exact edge.
+- 'Hi, Max, I wanted to tell you something.' Katya lays out that answer without fuss: opening with the casual greeting "privet" ("hi") signals right away that Katya and Lyova are on familiar terms.
+- 'Maybe we could go have some coffee tonight?' Katya presses firmly why things suddenly took this turn between them.
+- 'Hi, what? Have coffee tonight?' Max centers one classic element at once: "vecherom" means "in the evening", and it carries the main weight of what Max is saying.
+- 'Yes, then it is settled between us.' Katya lays out this update on cue: the "-sya" ending on "dogovorilis" ("agreed, deal") turns the action inward or makes it happen between people naturally.
+- 'I do not understand anything at all now.' Lyova weighs in sharply on the spot, testing Katya's reaction in the middle of the exchange.
+- 'I did everything according to your recipe.' Lyova highlights one clear expression in earnest: "retseptu" means "recipe, prescription" (from "retsept"), giving the line its exact edge.
+- 'You did nothing at all, and she is going with you.' Lyova aims that point to Katya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Honestly, I do not know why myself.' Max cuts in warmly during the talk, so Lyova knows he is not just making small talk.
+- 'Tell me, why did it turn out like this?' Lyova emphasizes one practical choice for Katya: "skazhi" means "say" (from "skazat"), giving the line its exact edge.
+- 'Because I am completely worthless.' Lyova lays out this line right away: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey there, you really scared us yesterday!' Kostya favors a candid bearing in front of Denis, putting "zdorovo" ("great, cool") alongside "vchera" ("yesterday") in a tight, everyday turn of phrase.
-- 'Kostya, I got scared myself yesterday too.' Denis offers a steady bearing without hesitation, linking "vchera" ("yesterday"), "ispugalsya" ("got scared"), and "kostya" ("Kostya") in one brisk exchange.
-- 'Tell me, how did all of this happen yesterday?' Kostya challenges promptly to make the point, combining "rasskazhi" ("tell") and "kak" ("how") so the key meaning lands right away.
-- 'Do you remember I told you about my dreams?' Denis follows up candidly beside Kostya, joining "pomnish" ("do you remember") to "rasskazyval" ("told, recounted") so every word pulls its weight.
-- 'Well then, that woman was Vika.' Denis projects a natural direction with Kostya, using "zhenshchinoy" (from "zhenshchina", "a woman") alongside "byla" ("was") to shape the meaning.
-- 'Wait, you mean Vika in your dream?' Kostya quizzes dryly without a pause, putting "podozhdi" ("wait") alongside "sne" ("dream, sleep") in a tight, everyday turn of phrase.
-- 'Well, tell me about that in more detail.' Kostya picks a firm tempo in front of Denis, combining "rasskazhi" ("tell") and "podrobneye" ("detail") so the key meaning lands right away.
-- 'She called me into the office to help.' Denis sets a grounded rhythm at once, pairing "pozvala" ("calls, summons") with "kabinet" ("office") to get the point across in plain spoken Russian.
-- 'In there she kisses me on the couch.' Denis picks an earnest tempo right away, anchoring the Russian line on "tam" ("there") and "tseluyet" ("to kiss") without extra filler.
-- 'I say to her: Vika, do not do that!' Denis displays a serious approach across the room, anchoring the Russian line on "govoryu" ("am telling") and "nado" ("it is necessary") without extra filler.
-- 'Katya, I need to talk with you!' Denis brings a clear angle right away, putting "nuzhno" ("necessary") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.
-- 'Katya, wait, I will explain everything to you!' Denis chooses an honest tempo without hesitation, pairing "postoy" ("wait") with "obyasnyu" ("I'll explain") to get the point across in plain spoken Russian.
+- 'Hey there, you really scared us yesterday!' Kostya leans on one concrete choice toward Denis: "zdorovo" means "great, cool", and it carries the main weight of what Kostya is saying.
+- 'Kostya, I got scared myself yesterday too.' Denis weighs in plainly in this moment, so Kostya knows he is not just making small talk.
+- 'Tell me, how did all of this happen yesterday?' Kostya chooses this direct expression with Denis: "proizoshlo" means "happened" (from "proizoyti"), giving the line its exact edge.
+- 'Do you remember I told you about my dreams?' Denis lays out this warning without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Well then, that woman was Vika.' Denis jumps in right away watching Kostya, saying out loud what both of them already know.
+- 'Wait, you mean Vika in your dream?' Kostya centers one classic term toward Denis: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Well, tell me about that in more detail.' Kostya holds firm dryly without any doubt, watching Denis's face to see how the news lands.
+- 'She called me into the office to help.' Denis answers right away watching Kostya, saying out loud what both of them already know.
+- 'In there she kisses me on the couch.' Denis emphasizes one key detail toward Kostya: "tseluyet" means "to kiss" (from "tselovat"), giving the line its exact edge.
+- 'I say to her: Vika, do not do that!' Denis drops this warning calmly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Katya, I need to talk with you!' Denis continues earnestly during the talk, grounding the moment in plain reality.
+- 'Katya, wait, I will explain everything to you!' Denis emphasizes one practical choice for Kostya: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.

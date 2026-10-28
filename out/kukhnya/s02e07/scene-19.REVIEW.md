@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If you had not played along with us, I think.' Max takes a direct manner straight away, weaving "podygrali" ("to play along") together with "dumayu" ("I think") just the way native speakers do.
-- 'Because of you, she was threatening to move out of the apartment.' Barinov picks an earnest direction right away, leaning on "grozilas" ("to threaten") before closing the thought with "doma" ("at home").
-- 'It is a pleasure doing business with you, Maxim Leonidovich.' Vika favors a natural tempo with Barinov, building the phrase around "priyatno" ("pleasant") and "imet" ("to have, to do") for a crisp, natural delivery.
-- 'And from work as well.' Max sets a frank posture in their talk, leaning on "raboty" ("of work") before closing the thought with "tozhe" ("too").
-- 'Listen, that is a very good offer.' Barinov strikes an easygoing posture in the room, building the phrase around "slushayte" ("listen") and "khorosheye" ("lovely, good") for a crisp, natural delivery.
-- 'Take the metro instead.' Vika chooses an unhurried footing for Max, leaning on "poyedite" ("to eat") before closing the thought with "metro" ("metro").
-- 'You are looking great today, Chef.' Max offers a clear rhythm during the exchange, anchoring the Russian line on "segodnya" ("today") and "otlichno" ("perfect, great") without extra filler.
-- 'And what business is it of yours?' Barinov prompts boldly without holding back, putting "delo" ("matter") alongside "tvoye" ("your") in a tight, everyday turn of phrase.
-- 'Why are you standing around here?' Vika questions promptly right away, pairing "zdes" ("here") with "stoish" ("stand") to get the point across in plain spoken Russian.
-- 'Are you going to finish drinking that?' Max inquires earnestly to Vika here, building the phrase around "tam" ("there") and "dopyesh" ("to finish drinking") for a crisp, natural delivery.
-- 'You should not treat him like that, Viktor Petrovich.' Vika brings an honest posture on the spot, linking "zrya" ("for nothing"), "vy" ("you"), and "nim" ("him") in one brisk exchange.
-- 'And no hard feelings.' Vika sustains a candid bearing at once, combining "obid" ("hard feelings") and "bez" ("without") so the key meaning lands right away.
-- 'In your person, Viktor Petrovich.' Max sustains a frank direction beside Barinov, weaving "litse" ("face, person") together with "vashem" ("your") just the way native speakers do.
+- 'If you had not played along with us, I think.' Max points to one vivid word for Barinov: "podygrali" means "to play along" (from "podygrat"), giving the line its exact edge.
+- 'Because of you, she was threatening to move out of the apartment.' Barinov frames this warning toward Vika: the "-sya" ending on "grozilas" ("to threaten") turns the action inward or makes it happen between people naturally.
+- 'It is a pleasure doing business with you, Maxim Leonidovich.' Vika speaks up bluntly watching Barinov, bringing things back to earth after the buildup.
+- 'And from work as well.' Max favors one direct choice at once: "raboty" means "of work" (from "rabota"), giving the line its exact edge.
+- 'Listen, that is a very good offer.' Barinov states this warning with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Take the metro instead.' Vika responds plainly with a nod, without trying to dress up how she really feels.
+- 'You are looking great today, Chef.' Max focuses on one familiar choice on cue: "vyglyadite" means "look" (from "vyglyadet"), giving the line its exact edge.
+- 'And what business is it of yours?' Barinov puts this warning plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Why are you standing around here?' Vika checks bluntly in front of Barinov without any preamble.
+- 'Are you going to finish drinking that?' Max frames one practical word in earnest: "dopyesh" means "to finish drinking" (from "dopit"), giving the line its exact edge.
+- 'You should not treat him like that, Viktor Petrovich.' Vika leans on one pointed expression with Barinov: "zrya" means "for nothing", and it carries the main weight of what Vika is saying.
+- 'And no hard feelings.' Vika stands firm sharply in this moment, without trying to dress up how she really feels.
+- 'In your person, Viktor Petrovich.' Max uses one loaded piece toward Barinov: "litse" means "face, person" (from "litso"), giving the line its exact edge.

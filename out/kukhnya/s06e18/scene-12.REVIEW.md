@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is that foolish animal right now?' Mikhail questions frankly in this moment, leaning on "gde" ("where") before closing the thought with "glupoye" ("silly, foolish").
-- 'What is this horse's name at least?' Mikhail checks firmly during the talk, joining "kak" ("how") to "konya" ("horse, knight") so every word pulls its weight.
-- 'Look for him upstairs quickly!' Mikhail sustains a wry attitude in the conversation, using "ishchite" (from "iskat", "look for, search") alongside "bystreye" ("faster") to shape the meaning.
-- 'We have two kinds of ballots.' Timur presents a measured direction across the room, putting "vida" ("show, appearance") alongside "byulleteney" ("ballots") in a tight, everyday turn of phrase.
-- 'Take a ballot and go vote.' Timur takes an easygoing bearing as they talk, using "vzyal" (from "vzyat", "took") alongside "byulleten" ("ballot") to shape the meaning.
-- 'In the booth I am an independent observer.' Timur keeps a sharp manner at this moment, linking "kabinke" ("booth") directly with "nezavisimyy" ("independent"), since Russian drops "is" and "are" in the present.
-- 'Hello, they postponed my flight today.' Denis keeps a grounded posture in the room, anchoring the Russian line on "zdravstvuyte" ("hello") and "reys" ("flight") without extra filler.
-- 'That is why I am not in Japan yet.' Denis offers an easygoing mood at this moment, building the phrase around "poetomu" ("that's why") and "yeshchyo" ("more, still") for a crisp, natural delivery.
-- 'There is time before the business meeting.' Mikhail picks a steady bearing in the scene, linking "delovoy" ("business, businesslike"), "vstrechi" ("meeting, next time"), and "yest" ("there is") in one brisk exchange.
-- 'So we can have lunch.' Mikhail conveys a pointed note without hesitation, joining "mozhem" ("can") to "poobedat" ("to have lunch") so every word pulls its weight.
-- 'I cannot, I am on a diet.' Denis takes a warm line beside Mikhail, building the phrase around "mogu" ("can") and "diyete" ("diet") for a crisp, natural delivery.
-- 'Let us drink a glass of cognac.' Mikhail chooses a natural mood in the room, combining "davay" ("let's") and "vypyem" ("will drink") so the key meaning lands right away.
+- 'Where is that foolish animal right now?' Mikhail questions straight out to see how Denis will answer on the spot.
+- 'What is this horse's name at least?' Mikhail colors one memorable touch at once: "konya" means "horse, knight", and it carries the main weight of what Mikhail is saying.
+- 'Look for him upstairs quickly!' Mikhail brings this warning with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'We have two kinds of ballots.' Timur follows up lightly with a nod, watching Mikhail's face to see how the news lands.
+- 'Take a ballot and go vote.' Timur grounds this vivid term toward Denis: "progolosoval" means "voted" (from "progolosovat"), giving the line its exact edge.
+- 'In the booth I am an independent observer.' Timur frames that reply around Mikhail: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Hello, they postponed my flight today.' Denis counters evenly before Mikhail, leaving no doubt about where he stands.
+- 'That is why I am not in Japan yet.' Denis points to one memorable word with Timur: "yeshchyo" means "more, still", and it carries the main weight of what Denis is saying.
+- 'There is time before the business meeting.' Mikhail holds firm boldly in their talk, letting the remark speak for itself.
+- 'So we can have lunch.' Mikhail fires back pointedly with Timur, refusing to let the moment slip past.
+- 'I cannot, I am on a diet.' Denis uses this direct term at once: "diyete" means "diet" (from "diyeta"), giving the line its exact edge.
+- 'Let us drink a glass of cognac.' Mikhail brings the thought briskly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

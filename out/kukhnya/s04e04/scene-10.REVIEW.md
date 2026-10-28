@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So we are starving, then.' Barinov conveys a warm tack for Elena, pairing "golodayem" ("to starving") with "znachit" ("then, so") to get the point across in plain spoken Russian.
-- 'I added one new ingredient to the julienne over there.' Barinov conveys a direct approach for Elena, anchoring the Russian line on "tam" ("there") and "zhulyen" ("julienne") without extra filler.
-- 'Maybe you will take a look?' Barinov challenges naturally at this point, joining "mozhet" ("can") to "posmotrite" ("look") so every word pulls its weight.
-- 'Let's see it.' Elena shares a playful approach in the room, putting all the weight on "davayte" ("let's") so the reply lands immediately.
-- 'If you do not want your wife to see this,' Barinov conveys a steady line at this moment, weaving "khochesh" ("do you want") together with "uvidela" ("to see") just the way native speakers do.
-- 'simply be friendly and kind to me.' Barinov keeps a pointed angle at once, weaving "prosto" ("just") together with "bud" ("were he") just the way native speakers do.
-- 'Yes, Chef, you are regular godfather.' Elena strikes a grounded tack in this beat, combining "pryamo" ("right, just") and "kryostnyy" ("god") so the key meaning lands right away.
-- 'You are pulling everyone's strings.' Elena offers an honest direction in the scene, putting "nitochki" ("strings") alongside "dyorgayete" ("to strings") in a tight, everyday turn of phrase.
-- 'What is going on? Why are we sitting around?' Elena queries bluntly as they speak, putting "pochemu" ("why") alongside "sidim" ("we are sitting") in a tight, everyday turn of phrase.
-- 'Is there no work? Alright, I am coming.' Elena asks bluntly in their exchange, weaving "raboty" ("of work") together with "uzhe" ("already, now") just the way native speakers do.
-- 'I just stepped away for a minute.' Elena strikes a grounded tone straight away, linking "minutku" ("a minute"), "ukhodil" ("to leave, to go away"), and "ya" ("I") in one brisk exchange.
-- 'Mommy chased the godfather back home.' Barinov holds a lively position straight away, weaving "kryostnogo" ("god") together with "ottsa" ("father") just the way native speakers do.
+- 'So we are starving, then.' Barinov emphasizes one concrete piece toward Elena: "golodayem" means "to starving" (from "golodat"), giving the line its exact edge.
+- 'I added one new ingredient to the julienne over there.' Barinov fires back wryly without holding back, leaving no doubt about where he stands.
+- 'Maybe you will take a look?' Barinov tests quietly how Elena expects that to work in practice.
+- 'Let's see it.' Elena features this clear word at once: "davayte" means "let's" (from "davat"), giving the line its exact edge.
+- 'If you do not want your wife to see this,' Barinov underscores one practical expression toward Elena: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'simply be friendly and kind to me.' Barinov counters firmly before Elena, watching Elena's face to see how the news lands.
+- 'Yes, Chef, you are regular godfather.' Elena highlights this clear element at once: "kryostnyy" means "god", and it carries the main weight of what Elena is saying.
+- 'You are pulling everyone's strings.' Elena sends this line facing Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What is going on? Why are we sitting around?' Elena wonders point-blank before Barinov can change the subject.
+- 'Is there no work? Alright, I am coming.' Elena favors one vivid touch on cue: "raboty" means "of work" (from "rabota"), giving the line its exact edge.
+- 'I just stepped away for a minute.' Elena replies sharply around Barinov, watching Barinov's face to see how the news lands.
+- 'Mommy chased the godfather back home.' Barinov proceeds steadily across the room, saying out loud what both of them already know.

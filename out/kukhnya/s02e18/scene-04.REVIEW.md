@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oguzok, did you accept the produce delivery?' Max queries candidly toward Timur here, joining "aguzok" ("rookie, greenhorn") to "prinyal" ("received") so every word pulls its weight.
-- 'Yes, everything is in order.' Timur shows an earnest bearing as the scene unfolds, linking "poryadke" ("order") directly with "da" ("yes"), since Russian drops "is" and "are" in the present.
-- 'As our captain used to say, whoever does not lie.' Max sets an unhurried attitude as they talk, building the phrase around "kak" ("how") and "govoril" ("said, were saying") for a crisp, natural delivery.
-- 'Good job, Oguzok.' Timur establishes a wry approach for Max, building the phrase around "molodets" ("well done, good boy") and "aguzok" ("rookie, greenhorn") for a crisp, natural delivery.
-- 'Oguzok. Just like our captain used to say.' Max sustains a natural position at once, joining "aguzok" ("rookie, greenhorn") to "kak" ("how") so every word pulls its weight.
-- 'All of my produce is completely fresh.' Timur takes an earnest bearing in the conversation, linking "produkty" ("groceries") directly with "svezhiye" ("fresh"), since Russian drops "is" and "are" in the present.
-- 'Alright, goodbye then.' Max establishes an honest tone without hesitation, leaning on "davay" ("let's") before closing the thought with "svidaniya" ("meeting").
-- 'He already put his signature on it.' Timur establishes an easygoing footing right away, joining "podpis" ("signature") to "postavil" ("put") so every word pulls its weight.
-- 'She is nowhere to be found.' Max displays a playful attitude as the scene unfolds, building the phrase around "yeye" ("she, it") and "net" ("no") for a crisp, natural delivery.
-- 'What, we entrusted our child to you, and what did you do?' Timur asks naturally toward Max here, weaving "rebenka" ("child") together with "doverili" ("to entrust") just the way native speakers do.
-- 'It is all because of your money.' Max picks a direct rhythm at this moment, anchoring the Russian line on "deneg" ("money") and "iz-za" ("because of") without extra filler.
-- 'Find my child first, and then sort out your relationship.' Timur keeps a direct view in the room, weaving "naydite" ("find") together with "rebenka" ("child") just the way native speakers do.
-- 'Stop it, both of you.' Max favors an unhurried style during the exchange, leaning on "prekratite" ("stop it") before closing the thought with "oba" ("both").
+- 'Oguzok, did you accept the produce delivery?' Max focuses on one vivid expression on cue: "produkty" means "groceries" (from "produkt"), giving the line its exact edge.
+- 'Yes, everything is in order.' Timur brings this update before Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'As our captain used to say, whoever does not lie.' Max answers evenly with a shrug, testing Timur's reaction in the middle of the exchange.
+- 'Good job, Oguzok.' Timur points to this telling detail at once: "molodets" means "well done, good boy", and it carries the main weight of what Timur is saying.
+- 'Oguzok. Just like our captain used to say.' Max stands firm wryly as they talk, leaving no doubt about where he stands.
+- 'All of my produce is completely fresh.' Timur speaks frankly as they talk, making his position completely clear.
+- 'Alright, goodbye then.' Max anchors one vivid term for Timur: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
+- 'He already put his signature on it.' Timur makes the comeback toward Max: the "-sya" ending on "podpis" ("signature") turns the action inward or makes it happen between people naturally.
+- 'She is nowhere to be found.' Max pushes back sharply as things stand, refusing to let the moment slip past.
+- 'What, we entrusted our child to you, and what did you do?' Timur favors one practical expression in earnest: "rebenka" means "child" (from "rebyonok"), giving the line its exact edge.
+- 'It is all because of your money.' Max states the comeback to Timur: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Find my child first, and then sort out your relationship.' Timur counters decisively around Max, shifting the whole mood of the room in a single beat.
+- 'Stop it, both of you.' Max stresses this clear piece toward Timur: "prekratite" means "stop it" (from "prekratit"), giving the line its exact edge.

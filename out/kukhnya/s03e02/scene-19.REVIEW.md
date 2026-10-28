@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is this normal? Your waiter wanted to overcharge me!' Nagiyev inquires earnestly as the beat lands, putting "normalno" ("fine, OK") alongside "ofitsiant" ("waiter") in a tight, everyday turn of phrase.
-- 'Do you value your reputation at all?' Nagiyev asks lightly during the talk, building the phrase around "voobshche" ("at all") and "dorozhite" ("value, treasure") for a crisp, natural delivery.
-- 'She is the one who served me.' Nagiyev picks an honest note without hesitation, anchoring the Russian line on "obsluzhivala" ("served") and "eto" ("this") without extra filler.
-- 'No, well this is some kind of mistake!' Sasha shares a resolute mood right away, joining "oshibka" ("mistake") to "net" ("no") so every word pulls its weight.
-- 'I was simply framed!' Sasha presents a measured note in this beat, pairing "prosto" ("just") with "podstavili" ("framed, set up") to get the point across in plain spoken Russian.
-- 'I beg your pardon, we will sort this out right now.' Nagiyev takes a thoughtful manner in the conversation, pairing "proshu" ("beg, ask") with "proshcheniya" ("forgiveness") to get the point across in plain spoken Russian.
-- 'I apologize, I am the owner of this mess.' Nagiyev brings a direct rhythm during the exchange, building the phrase around "izvinyayus" ("apologize") and "khozyain" ("owner") for a crisp, natural delivery.
-- 'Did something happen? They tried to overcharge me.' Nagiyev presses wryly in their exchange, putting "proizoshlo" ("happened") alongside "pytalis" ("tried") in a tight, everyday turn of phrase.
-- 'You are fired. Shut your mouth and hand in your badge.' Nagiyev holds a clear footing at this moment, building the phrase around "uvolena" ("fired") and "rot" ("mouth") for a crisp, natural delivery.
-- 'Our life is always the result of our choice.' Max holds an honest tempo in front of Sasha, placing "zhizn" ("life") straight beside "vsegda" ("always") with no word for "to be" needed.
-- 'We choose to tell the truth or to keep silent.' Max sustains a wry rhythm beside Nagiyev, building the phrase around "vybirayem" ("choose") and "skazat" ("tell") for a crisp, natural delivery.
-- 'Or to turn everything into a joke that you will remember for a long time.' Max holds a resolute style as the scene unfolds, weaving "prevratit" ("to turn into") together with "shutku" ("joke") just the way native speakers do.
+- 'Is this normal? Your waiter wanted to overcharge me!' Nagiyev frames one loaded element on cue: "ofitsiant" means "waiter", and it carries the main weight of what Nagiyev is saying.
+- 'Do you value your reputation at all?' Nagiyev delivers this update with ease: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'She is the one who served me.' Nagiyev holds firm quietly as things stand, bringing things back to earth after the buildup.
+- 'No, well this is some kind of mistake!' Sasha favors one clear element with Nagiyev: "oshibka" means "mistake", and it carries the main weight of what Sasha is saying.
+- 'I was simply framed!' Sasha states the comeback without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I beg your pardon, we will sort this out right now.' Nagiyev speaks firmly with Sasha, letting the remark speak for itself.
+- 'I apologize, I am the owner of this mess.' Nagiyev emphasizes one practical choice for Max: "izvinyayus" means "apologize" (from "izvinyatsya"), giving the line its exact edge.
+- 'Did something happen? They tried to overcharge me.' Nagiyev shares that answer without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Sasha purely through rising pitch at the end.
+- 'You are fired. Shut your mouth and hand in your badge.' Nagiyev proceeds bluntly during the talk, keeping the focus on what actually matters here.
+- 'Our life is always the result of our choice.' Max focuses on one classic word right here: "rezultat" means "a result", and it carries the main weight of what Max is saying.
+- 'We choose to tell the truth or to keep silent.' Max stands firm pointedly with a smile, watching Nagiyev's face to see how the news lands.
+- 'Or to turn everything into a joke that you will remember for a long time.' Max proceeds frankly to be clear, before Sasha can change the subject.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My forecast for today is excellent.' Max sets a sharp posture in the scene, linking "segodnya" ("today") directly with "prognoz" ("forecast"), since Russian drops "is" and "are" in the present.
-- 'I feel like walking in through the front entrance.' Max maintains a grounded angle on the spot, leaning on "khochetsya" ("want, feel like") before closing the thought with "voyti" ("to come in").
-- 'Nothing will ruin my mood.' Max establishes a wry note for Kostya, combining "isportit" ("to spoil, ruin") and "nastroyeniye" ("mood") so the key meaning lands right away.
-- 'Sometimes forecasts lie.' Max shares an unhurried mood right away, leaning on "byvayet" ("there can be") before closing the thought with "prognozy" ("forecasts").
-- 'Go to the back courtyard.' Nagiyev keeps a frank footing straight away, using "idi" (from "idti", "go") alongside "zadniy" ("back, rear") to shape the meaning.
-- 'Do not disgrace our restaurant.' Nagiyev projects a grounded line across the room, joining "pozor" ("disgrace, embarrass") to "restoran" ("restaurant") so every word pulls its weight.
-- 'This is not my best day.' Max adopts a frank angle in the conversation, building the phrase around "luchshiy" ("best") and "den" ("day") for a crisp, natural delivery.
-- 'Friends will always support me.' Max brings a brisk posture without hesitation, anchoring the Russian line on "druzya" ("friends") and "vsegda" ("always") without extra filler.
-- 'Hey, Max, here is the thing.' Kostya strikes a firm mood across the room, combining "zdorovo" ("great, cool") and "tut" ("here") so the key meaning lands right away.
-- 'You need to move out of the apartment.' Kostya establishes a measured manner at this moment, weaving "nuzhno" ("necessary") together with "syekhat" ("to move out") just the way native speakers do.
-- 'Our baby will be born soon.' Kostya brings an earnest position straight away, weaving "malysh" ("kid, little one") together with "skoro" ("soon") just the way native speakers do.
-- 'I wish this day would end soon.' Max presents a lively position for Nagiyev, leaning on "skoreye" ("quickly, right away") before closing the thought with "den" ("day").
+- 'My forecast for today is excellent.' Max colors one telling choice right here: "otlichnyy" means "excellent, great", and it carries the main weight of what Max is saying.
+- 'I feel like walking in through the front entrance.' Max directs the thought around Nagiyev: the "-sya" ending on "khochetsya" ("want, feel like") turns the action inward or makes it happen between people naturally.
+- 'Nothing will ruin my mood.' Max cuts in wryly watching Kostya, watching Kostya's face to see how the news lands.
+- 'Sometimes forecasts lie.' Max favors one sharp touch right here: "prognozy" means "forecasts" (from "prognoz"), giving the line its exact edge.
+- 'Go to the back courtyard.' Nagiyev states the comment calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Do not disgrace our restaurant.' Nagiyev jumps in decisively to be clear, so Max knows he is not just making small talk.
+- 'This is not my best day.' Max colors this telling touch in earnest: "luchshiy" means "best", and it carries the main weight of what Max is saying.
+- 'Friends will always support me.' Max sends the remark with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Hey, Max, here is the thing.' Kostya replies firmly to settle things, bringing things back to earth after the buildup.
+- 'You need to move out of the apartment.' Kostya points to one clear detail in earnest: "kvartiry" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'Our baby will be born soon.' Kostya puts that thought calmly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'I wish this day would end soon.' Max follows up dryly before Nagiyev, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ladies and gentlemen, we are starting the final round!' Nagiyev conveys a warm approach toward Barinov, building the phrase around "damy" ("lady, woman") and "gospoda" ("gentlemen") for a crisp, natural delivery.
-- 'Without any doubts, I give my vote...' German keeps a clear attitude straight away, building the phrase around "somneniy" ("doubt") and "otdayu" ("deliver") for a crisp, natural delivery.
-- 'I give my vote, of course, to Oksana.' German sustains a measured view at this moment, building the phrase around "otdayu" ("deliver") and "golos" ("voice") for a crisp, natural delivery.
-- 'And I give my vote to Viktor.' Barinov offers an emphatic stance for Nagiyev, pairing "otdayu" ("deliver") with "golos" ("voice") to get the point across in plain spoken Russian.
-- 'Dmitry Vladimirovich, now your word is decisive.' German conveys a calm course in front of Barinov, anchoring the Russian line on "teper" ("now") and "slovo" ("word") without extra filler.
-- 'Both dishes turned out simply delicious.' Nagiyev establishes a direct tone toward German, pairing "blyuda" ("of dish") with "poluchilis" ("to turn out") to get the point across in plain spoken Russian.
-- 'Vitya, I have known you for a very long time.' Nagiyev keeps a natural manner right away, linking "znayu" ("know"), "ochen" ("very much"), and "davno" ("for a long time") in one brisk exchange.
-- 'But I truly got to know you only today.' Nagiyev shows a firm approach at this moment, linking "po-nastoyashchemu" ("truly"), "uznal" ("recognised"), and "tolko" ("only") in one brisk exchange.
-- 'I did not think that the choice would be so difficult.' Nagiyev projects a natural line at once, weaving "dumal" ("thought") together with "vybor" ("choice") just the way native speakers do.
-- 'I am making the choice not with my mind and not with my stomach.' Nagiyev holds an emphatic tack right away, linking "delayu" ("I make"), "vybor" ("choice"), and "razumom" ("stomach") in one brisk exchange.
-- 'I am making this difficult choice with my heart.' Nagiyev maintains a resolute style in this beat, leaning on "delayu" ("I make") before closing the thought with "slozhnyy" ("tough, difficult").
-- 'The winner of our show today becomes Oksana!' Nagiyev adopts an unhurried attitude beside German, building the phrase around "pobeditelem" ("winner") and "shou" ("show") for a crisp, natural delivery.
+- 'Ladies and gentlemen, we are starting the final round!' Nagiyev sharpens this key choice toward Barinov: "nachinayem" means "are starting" (from "nachinat"), giving the line its exact edge.
+- 'Without any doubts, I give my vote...' German counters honestly in this moment, refusing to let the moment slip past.
+- 'I give my vote, of course, to Oksana.' German stands firm dryly across the room, grounding the moment in plain reality.
+- 'And I give my vote to Viktor.' Barinov frames this telling expression in earnest: "golos" means "voice", and it carries the main weight of what Barinov is saying.
+- 'Dmitry Vladimirovich, now your word is decisive.' German states this update for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Both dishes turned out simply delicious.' Nagiyev cuts in candidly facing German, making his position completely clear.
+- 'Vitya, I have known you for a very long time.' Nagiyev emphasizes one loaded choice with Barinov: "znayu" means "know" (from "znat"), giving the line its exact edge.
+- 'But I truly got to know you only today.' Nagiyev uses this clear choice right here: "po-nastoyashchemu" means "truly", and it carries the main weight of what Nagiyev is saying.
+- 'I did not think that the choice would be so difficult.' Nagiyev jumps in at once without any doubt, leaving no doubt about where he stands.
+- 'I am making the choice not with my mind and not with my stomach.' Nagiyev picks one pointed touch at once: "zheludkom" means "stomach" (from "zheludk"), giving the line its exact edge.
+- 'I am making this difficult choice with my heart.' Nagiyev chimes in right away to be clear, steering the talk right where he wants it.
+- 'The winner of our show today becomes Oksana!' Nagiyev reacts warmly facing German, letting the remark speak for itself.

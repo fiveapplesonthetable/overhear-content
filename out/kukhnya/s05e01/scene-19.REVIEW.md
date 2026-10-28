@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Give me the microphone for a minute.' Denis establishes a steady rhythm in front of Barinov, leaning on "day" ("give") before closing the thought with "mikrofon" ("microphone").
-- 'Since then we have always been together.' Denis conveys a firm line toward Katya, building the phrase around "por" ("time") and "vsegda" ("always") for a crisp, natural delivery.
-- 'You fill my life with meaning!' Denis holds a firm tack in this beat, weaving "napolnyayesh" ("you fill") together with "zhizn" ("life") just the way native speakers do.
-- 'Vika, look what he is doing!' Barinov brings a resolute approach in the conversation, putting "smotri" ("look") alongside "delayet" ("does") in a tight, everyday turn of phrase.
-- 'You are my life!' Denis presents a clear angle during the exchange, building the phrase around "zhizn" ("life") and "ty" ("you") for a crisp, natural delivery.
-- 'You are my world!' Denis chooses a calm note in front of Katya, building the phrase around "mir" ("world") and "ty" ("you") for a crisp, natural delivery.
-- 'I need you so much, Katya.' Denis sustains a playful view for Barinov, building the phrase around "ochen" ("very much") and "nuzhna" ("needed") for a crisp, natural delivery.
-- 'What are you doing, Denis?' Katya tests evenly in their exchange, joining "delayesh" ("are you doing") to "chto" ("what") so every word pulls its weight.
-- 'I will tell you everything right now.' Denis shows an easygoing tack in the conversation, weaving "seychas" ("now") together with "skazhu" ("I'll tell") just the way native speakers do.
-- 'Katya, marry me!' Denis presents a measured posture toward Katya, putting "vykhodi" ("go out, marry") alongside "katya" ("Katya") in a tight, everyday turn of phrase.
-- 'What is that falling from above?' Katya inquires sharply in the room, leaning on "padayet" ("falls") before closing the thought with "sverkhu" ("upstairs, from above").
-- 'Where did these cockroaches come from?!' Barinov checks briskly in their exchange, linking "otkuda" ("where from"), "zdes" ("here"), and "tarakany" ("cockroaches") in one brisk exchange.
+- 'Give me the microphone for a minute.' Denis points to one familiar word toward Barinov: "mikrofon" means "microphone", and it carries the main weight of what Denis is saying.
+- 'Since then we have always been together.' Denis fires back wryly with a shrug, making his position completely clear.
+- 'You fill my life with meaning!' Denis proceeds evenly watching Barinov, bringing things back to earth after the buildup.
+- 'Vika, look what he is doing!' Barinov reaches for one clear detail in reply: "delayet" means "does" (from "delat"), giving the line its exact edge.
+- 'You are my life!' Denis puts the reply with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You are my world!' Denis responds steadily as things stand, watching Katya's face to see how the news lands.
+- 'I need you so much, Katya.' Denis focuses on one memorable element in earnest: "nuzhna" means "needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'What are you doing, Denis?' Katya phrases that remark around Denis: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'I will tell you everything right now.' Denis steps in calmly in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'Katya, marry me!' Denis centers one direct word toward Katya: "vykhodi" means "go out, marry" (from "vykhodit"), giving the line its exact edge.
+- 'What is that falling from above?' Katya gives this statement before Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Where did these cockroaches come from?!' Barinov tests bluntly if there is more going on behind the scenes.

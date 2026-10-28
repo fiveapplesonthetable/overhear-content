@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, Katya, this is specially for you.' Nikita picks a wry bearing right away, anchoring the Russian line on "derzhi" ("here you go") and "spetsialno" ("on purpose") without extra filler.
-- 'Hot cocoa with sweet little marshmallows!' Katya offers a playful tone with Nikita, joining "goryacheye" ("hot") to "kakao" ("cocoa") so every word pulls its weight.
-- 'I have adored it since early childhood.' Katya sustains a brisk footing in the room, using "samogo" (from "samyy", "the very") alongside "detstva" ("childhood") to shape the meaning.
-- 'Tell me, how did you find out about that?' Katya queries promptly from the start, joining "skazhi" ("say") to "otkuda" ("where from") so every word pulls its weight.
-- 'It seems to me there is a cosmic bond between us.' Nikita offers a candid tack as they talk, putting "kazhetsya" ("it seems, I think") alongside "kosmicheskaya" ("cosmic") in a tight, everyday turn of phrase.
-- 'Some higher intelligence is guiding me.' Nikita shows a playful line across the room, combining "vysshiy" ("highest, supreme") and "razum" ("mind") so the key meaning lands right away.
-- 'Well then, is it really tasty for you?' Nikita inquires wryly in the room, anchoring the Russian line on "deystvitelno" ("really, indeed") and "vkusno" ("it's tasty") without extra filler.
-- 'Katya, did you just kiss a waiter?' Fedya prompts calmly without a pause, linking "ofitsianta" ("waiter"), "potselovala" ("kissed"), and "katya" ("Katya") in one brisk exchange.
-- 'Now you will start turning into a waitress!' Fedya establishes a clear line straight away, combining "teper" ("now") and "ofitsiantku" ("waitress") so the key meaning lands right away.
-- 'Well fine, there is nothing terrible about that.' Katya maintains an emphatic attitude straight away, building the phrase around "strashnogo" ("terrible, serious") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'After all, you do not turn into Senya.' Katya shares a clear style as the scene unfolds, leaning on "prevrashchayeshsya" ("to turn into") before closing the thought with "ved" ("after all").
-- 'Have a nice time staying here, young lovebirds!' Fedya sustains a brisk tack in their talk, building the phrase around "schastlivo" ("take care") and "ostavatsya" ("to stay, to remain") for a crisp, natural delivery.
+- 'Here you go, Katya, this is specially for you.' Nikita holds firm honestly with a nod, to clear the air between them once and for all.
+- 'Hot cocoa with sweet little marshmallows!' Katya focuses on one practical detail for Nikita: "goryacheye" means "hot" (from "goryachiy"), giving the line its exact edge.
+- 'I have adored it since early childhood.' Katya stands firm at once facing Fedya, to clear the air between them once and for all.
+- 'Tell me, how did you find out about that?' Katya probes wryly whether Nikita really thought this through.
+- 'It seems to me there is a cosmic bond between us.' Nikita picks this key word right here: "kosmicheskaya" means "cosmic" (from "kosmicheskiy"), giving the line its exact edge.
+- 'Some higher intelligence is guiding me.' Nikita steps in plainly in this moment, refusing to let the moment slip past.
+- 'Well then, is it really tasty for you?' Nikita wonders wryly before Fedya can change the subject.
+- 'Katya, did you just kiss a waiter?' Fedya stresses this sharp term toward Nikita: "ofitsianta" means "waiter" (from "ofitsiant"), giving the line its exact edge.
+- 'Now you will start turning into a waitress!' Fedya lays out that answer with candor: the "-sya" ending on "prevrashchatsya" ("to turn into") turns the action inward or makes it happen between people naturally.
+- 'Well fine, there is nothing terrible about that.' Katya chimes in honestly without any doubt, watching Nikita's face to see how the news lands.
+- 'After all, you do not turn into Senya.' Katya features one concrete piece at once: "prevrashchayeshsya" means "to turn into" (from "prevrashchatsya"), giving the line its exact edge.
+- 'Have a nice time staying here, young lovebirds!' Fedya grounds one sharp term at once: "schastlivo" means "take care", and it carries the main weight of what Fedya is saying.

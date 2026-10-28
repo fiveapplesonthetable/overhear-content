@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How long do we have to wait? I want to eat.' Senya checks bluntly across the room, joining "skolko" ("how much, so much") to "nuzhno" ("necessary") so every word pulls its weight.
-- 'Denis, forgive me, I am a little late.' Katya sets a frank position at this moment, joining "prosti" ("sorry, forgive me") to "nemnogo" ("a bit") so every word pulls its weight.
-- 'I am not surprised at all, let's go upstairs.' Denis favors a warm manner straight away, joining "sovsem" ("at all") to "udivlyon" ("surprised") so every word pulls its weight.
-- 'Only I came for just a short while tonight.' Katya adopts an easygoing manner in front of Senya, putting "tolko" ("only") alongside "priyekhala" ("came, arrived") in a tight, everyday turn of phrase.
-- 'Yeah? Why did you even bother coming then?' Denis queries candidly across the room, building the phrase around "zachem" ("what for") and "togda" ("back then") for a crisp, natural delivery.
-- 'Well yes, you are right, I will head back.' Katya chooses an emphatic position in the conversation, combining "prav" ("right") and "poyedu" ("will go") so the key meaning lands right away.
-- 'Wait, you are not going anywhere right now.' Denis strikes a playful manner as they talk, anchoring the Russian line on "postoy" ("wait") and "nikuda" ("nowhere, anywhere") without extra filler.
-- 'Denis, why are you pretending to be a tough guy?' Katya questions steadily across the room, putting "zachem" ("what for") alongside "izobrazhayesh" ("to portray") in a tight, everyday turn of phrase.
-- 'Katya, I do not know who I should be.' Denis displays a direct rhythm during the exchange, pairing "znayu" ("know") with "byt" ("be") to get the point across in plain spoken Russian.
-- 'Always stay the way you are.' Katya sustains a pointed course in their talk, leaning on "ostavaysya" ("stay") before closing the thought with "vsegda" ("always").
-- 'That is the exact way I liked you.' Katya favors a firm course in the conversation, putting "ponravilsya" ("was liked, pleased") alongside "imenno" ("exactly, precisely") in a tight, everyday turn of phrase.
-- 'All right, I will definitely try to be myself.' Denis displays a thoughtful posture in the room, weaving "khorosho" ("good, fine") together with "obyazatelno" ("surely, without fail") just the way native speakers do.
+- 'How long do we have to wait? I want to eat.' Senya probes eagerly about what Denis just brought up.
+- 'Denis, forgive me, I am a little late.' Katya spotlights one classic touch with Senya: "opozdala" means "to be late" (from "opozdat"), giving the line its exact edge.
+- 'I am not surprised at all, let's go upstairs.' Denis makes the thought right away: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Only I came for just a short while tonight.' Katya reacts briskly on the spot, saying out loud what both of them already know.
+- 'Yeah? Why did you even bother coming then?' Denis sharpens this key piece toward Katya: "priyezzhala" means "to come, to arrive" (from "priyezzhat"), giving the line its exact edge.
+- 'Well yes, you are right, I will head back.' Katya anchors this direct detail in reply: "prav" means "right" (from "pravyy"), giving the line its exact edge.
+- 'Wait, you are not going anywhere right now.' Denis replies openly across the room, steering the talk right where he wants it.
+- 'Denis, why are you pretending to be a tough guy?' Katya points to one practical piece for Senya: "izobrazhayesh" means "to portray" (from "izobrazhat"), giving the line its exact edge.
+- 'Katya, I do not know who I should be.' Denis pushes back plainly around Katya, to clear the air between them once and for all.
+- 'Always stay the way you are.' Katya stands firm openly with a nod, keeping the focus on what actually matters here.
+- 'That is the exact way I liked you.' Katya stresses one telling expression for Denis: "ponravilsya" means "was liked, pleased" (from "ponravitsya"), giving the line its exact edge.
+- 'All right, I will definitely try to be myself.' Denis aims this line in earnest: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".

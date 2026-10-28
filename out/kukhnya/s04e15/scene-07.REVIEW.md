@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, shall we talk calmly about our evening yesterday?' Eva probes firmly without hesitation, joining "pogovorim" ("we'll have a talk") to "spokoyno" ("calmly") so every word pulls its weight.
-- 'Of course, let's talk, I am listening to you closely.' Barinov chooses an honest tack in their talk, pairing "konechno" ("of course") with "davay" ("let's") to get the point across in plain spoken Russian.
-- 'Vitya, I wanted to make sure that everything is fine.' Eva sets an emphatic stance as they talk, pairing "ubeditsya" ("to become convinced") with "khotela" ("wanted, meant") so the "-sya" ending carries the action.
-- 'I hope you understood everything between us correctly.' Eva chooses a frank stance without hesitation, joining "nadeyus" ("hope so") to "pravilno" ("right") so every word pulls its weight.
-- 'Eva, dear, please, do not even worry!' Barinov sets an emphatic approach toward Eva, pairing "dorogaya" ("expensive") with "bespokoysya" ("to worry") to get the point across in plain spoken Russian.
-- 'I am a modern man and understood everything correctly.' Barinov sets a thoughtful attitude with Eva, putting "chelovek" ("a man, a person") alongside "sovremennyy" ("modern") in a tight, everyday turn of phrase.
-- 'There is no need to attach great importance to this evening.' Barinov projects an honest approach as they talk, leaning on "nado" ("it is necessary") before closing the thought with "pridavat" ("to great").
-- 'After all, for us it is like brushing our teeth!' Barinov maintains a measured approach at once, linking "kak" ("how"), "zuby" ("tooth"), and "pochistit" ("to potatoes") in one brisk exchange.
-- 'So, that is how you feel about me?' Eva probes decisively as the talk turns, building the phrase around "znachit" ("then, so") and "kak" ("how") for a crisp, natural delivery.
-- 'Eva, wait, you misunderstood me!' Barinov shares a brisk rhythm for Eva, leaning on "podozhdi" ("wait") before closing the thought with "ponyala" ("understood").
-- 'Honestly speaking, I had a better opinion of you.' Eva offers a serious tone on the spot, linking "chestno" ("honestly"), "govorya" ("speaking"), and "byla" ("was") in one brisk exchange.
-- 'You will deeply regret your words yet!' Eva offers a resolute footing for Barinov, combining "yeshchyo" ("more, still") and "silno" ("strongly, much") so the key meaning lands right away.
+- 'Hello, shall we talk calmly about our evening yesterday?' Eva stresses one familiar term on cue: "vcherashnego" means "yesterday's" (from "vcherashniy"), giving the line its exact edge.
+- 'Of course, let's talk, I am listening to you closely.' Barinov states that point right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Vitya, I wanted to make sure that everything is fine.' Eva answers promptly toward Barinov, grounding the moment in plain reality.
+- 'I hope you understood everything between us correctly.' Eva centers this clear detail at once: "pravilno" means "right", and it carries the main weight of what Eva is saying.
+- 'Eva, dear, please, do not even worry!' Barinov delivers the reply at once: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I am a modern man and understood everything correctly.' Barinov answers lightly as they talk, watching Eva's face to see how the news lands.
+- 'There is no need to attach great importance to this evening.' Barinov underscores one loaded choice with Eva: "znacheniya" means "meaning" (from "znacheniye"), giving the line its exact edge.
+- 'After all, for us it is like brushing our teeth!' Barinov chimes in briskly with a sigh, refusing to let the moment slip past.
+- 'So, that is how you feel about me?' Eva prompts skeptically what Barinov is actually getting at here.
+- 'Eva, wait, you misunderstood me!' Barinov favors one direct choice on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Honestly speaking, I had a better opinion of you.' Eva weighs in briskly with a smile, refusing to let the moment slip past.
+- 'You will deeply regret your words yet!' Eva weighs in right away without holding back, making her position completely clear.

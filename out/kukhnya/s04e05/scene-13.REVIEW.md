@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lev, the important guests are already waiting in the hall.' Elena picks a firm note during the exchange, anchoring the Russian line on "vazhnyye" ("important") and "gosti" ("visitors, guests") without extra filler.
-- 'Please take out our royal crab quickly.' Elena chooses an honest angle in the scene, pairing "bystreye" ("faster") with "dostavayte" ("take out, get out") to get the point across in plain spoken Russian.
-- 'Good, right now we will quickly make the broth.' Lyova keeps a pointed angle in the conversation, joining "khorosho" ("good, fine") to "seychas" ("now") so every word pulls its weight.
-- 'Ugh, Lyova, what a terrible smell all around!' Barinov picks a frank angle during the exchange, building the phrase around "uzhasnyy" ("horrible") and "zapakh" ("the smell") for a crisp, natural delivery.
-- 'Elena Pavlovna, we have a big problem.' Lyova sets a candid tack without hesitation, putting "bolshaya" ("large") alongside "problema" ("problem") in a tight, everyday turn of phrase.
-- 'What happened here in the kitchen, Lev?' Elena probes evenly for Lyova's benefit, anchoring the Russian line on "sluchilos" ("happened") and "zdes" ("here") without extra filler.
-- 'It seems our royal crab has gone completely bad.' Lyova offers a clear note toward Barinov, pairing "kazhetsya" ("it seems, I think") with "korolevskiy" ("one") so the "-sya" ending carries the action.
-- 'It does not just seem so, Lev, it has rotted!' Elena displays a lively footing with Lyova, pairing "kazhetsya" ("it seems, I think") with "protukh" ("rotted") to get the point across in plain spoken Russian.
-- 'Maybe this crab should just take a shower?' Barinov inquires naturally at this point, combining "mozhet" ("can") and "krabu" ("crab") so the key meaning lands right away.
-- 'Lev, why was this refrigerator unplugged?' Elena queries earnestly without holding back, putting "pochemu" ("why") alongside "kholodilnik" ("fridge") in a tight, everyday turn of phrase.
-- 'I cannot even believe it, I did not unplug it!' Lyova sustains a steady course at this moment, weaving "veritsya" ("to believe") together with "vyklyuchal" ("to unplug") just the way native speakers do.
-- 'I did not expect this from you at all.' Elena conveys a calm attitude for Lyova, weaving "nikak" ("in no way") together with "ozhidala" ("to expect, to wait for") just the way native speakers do.
-- 'I will deduct twenty thousand from your salary!' Elena shares an unhurried tack in the conversation, anchoring the Russian line on "tysyach" ("thousand") and "vychtu" ("salary") without extra filler.
+- 'Lev, the important guests are already waiting in the hall.' Elena emphasizes one concrete touch in reply: "vazhnyye" means "important" (from "vazhnyy"), giving the line its exact edge.
+- 'Please take out our royal crab quickly.' Elena delivers this line calmly now: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Good, right now we will quickly make the broth.' Lyova counters honestly with a smile, keeping the focus on what actually matters here.
+- 'Ugh, Lyova, what a terrible smell all around!' Barinov anchors this clear element with Lyova: "uzhasnyy" means "horrible", and it carries the main weight of what Barinov is saying.
+- 'Elena Pavlovna, we have a big problem.' Lyova gives the reaction frankly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'What happened here in the kitchen, Lev?' Elena wonders candidly in front of Lyova without any preamble.
+- 'It seems our royal crab has gone completely bad.' Lyova grounds this sharp element on cue: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'It does not just seem so, Lev, it has rotted!' Elena delivers that point briskly now: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
+- 'Maybe this crab should just take a shower?' Barinov wonders point-blank as Elena tries to explain the situation.
+- 'Lev, why was this refrigerator unplugged?' Elena centers this vivid word with Lyova: "kholodilnik" means "fridge", and it carries the main weight of what Elena is saying.
+- 'I cannot even believe it, I did not unplug it!' Lyova stands firm evenly facing Barinov, leaving no doubt about where he stands.
+- 'I did not expect this from you at all.' Elena fires back promptly around Lyova, grounding the moment in plain reality.
+- 'I will deduct twenty thousand from your salary!' Elena spotlights this clear word with Barinov: "zarplaty" means "salaries" (from "zarplata"), giving the line its exact edge.

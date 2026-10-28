@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, didn't we settle all the questions?' Vika asks directly in the scene, combining "reshili" ("decided") and "voprosy" ("questions") so the key meaning lands right away.
-- 'I accidentally peeked into the order logbook.' Sasha favors an earnest approach right away, pairing "sluchayno" ("by any chance") with "zaglyanula" ("to into") to get the point across in plain spoken Russian.
-- 'And discovered that Thursday is free!' Sasha shares a wry view without hesitation, putting "obnaruzhila" ("to discover") alongside "chetverg" ("place") in a tight, everyday turn of phrase.
-- 'Oh, I just got completely run off my feet.' Vika offers a calm footing beside Sasha, putting "sovsem" ("at all") alongside "zamotalas" ("to off") in a tight, everyday turn of phrase.
-- 'And simply forgot to write it down.' Vika projects a natural line in their talk, weaving "prosto" ("just") together with "zabyla" ("forgot") just the way native speakers do.
-- 'On Thursday there is a banquet for a hundred people.' Vika establishes an emphatic tack as the scene unfolds, joining "chetverg" ("place") to "banket" ("banquet") so every word pulls its weight.
-- 'There, you see, we really are booked.' Vika shares a measured note in the scene, leaning on "vidish" ("see") before closing the thought with "deystvitelno" ("really, indeed").
-- 'What banquet for a hundred people?' Kostya inquires frankly in front of Vika, building the phrase around "yeshchyo" ("more, still") and "banket" ("banquet") for a crisp, natural delivery.
-- 'Why do I know nothing about this?' Kostya checks decisively without a pause, pairing "pochemu" ("why") with "znayu" ("know") to get the point across in plain spoken Russian.
-- 'My bar is half-empty, after all!' Kostya holds a playful manner toward Vika, placing "bar" ("bar") straight beside "polupustoy" ("all") with no word for "to be" needed.
-- 'I need to place an order urgently.' Kostya keeps a thoughtful stance with Sasha, leaning on "nuzhno" ("necessary") before closing the thought with "srochno" ("urgent, urgently").
-- 'Wait, we will do everything a little later.' Vika sustains an earnest view toward Sasha, using "podozhdi" (from "podozhdat", "wait") alongside "chut" ("almost, nearly") to shape the meaning.
-- 'Later they will not make it in time to deliver!' Kostya picks an easygoing tempo in front of Sasha, weaving "pozzhe" ("later") together with "uspeyut" ("to make it") just the way native speakers do.
-- 'Kostya, there will not be any fine!' Vika maintains a grounded style without hesitation, pairing "budet" ("will be") with "shtrafa" ("fine, penalty") to get the point across in plain spoken Russian.
+- 'Sasha, didn't we settle all the questions?' Vika spotlights one key choice in earnest: "voprosy" means "questions" (from "vopros"), giving the line its exact edge.
+- 'I accidentally peeked into the order logbook.' Sasha speaks up sharply with Vika, refusing to let the moment slip past.
+- 'And discovered that Thursday is free!' Sasha opens up at once with a sigh, grounding the moment in plain reality.
+- 'Oh, I just got completely run off my feet.' Vika grounds one loaded piece in reply: "zamotalas" means "to off" (from "zamotatsya"), giving the line its exact edge.
+- 'And simply forgot to write it down.' Vika hands over this update in earnest: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'On Thursday there is a banquet for a hundred people.' Vika cuts in evenly in this moment, keeping the focus on what actually matters here.
+- 'There, you see, we really are booked.' Vika favors one sharp piece with Kostya: "deystvitelno" means "really, indeed", and it carries the main weight of what Vika is saying.
+- 'What banquet for a hundred people?' Kostya sends this update to Vika: putting the question word "kakoy" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Why do I know nothing about this?' Kostya prompts firmly how Sasha expects that to work in practice.
+- 'My bar is half-empty, after all!' Kostya delivers that reply for Vika: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I need to place an order urgently.' Kostya lays out this warning without pause: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Wait, we will do everything a little later.' Vika stands firm firmly without holding back, keeping the focus on what actually matters here.
+- 'Later they will not make it in time to deliver!' Kostya points to one loaded expression with Sasha: "privezti" means "to bring", and it carries the main weight of what Kostya is saying.
+- 'Kostya, there will not be any fine!' Vika chimes in boldly during the talk, testing Sasha's reaction in the middle of the exchange.

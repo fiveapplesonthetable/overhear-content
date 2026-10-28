@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, Timur, how did the conversation go?' Max prompts bluntly in the room, pairing "kak" ("how") with "proshyol" ("passed") to get the point across in plain spoken Russian.
-- 'Everything is fine, bro, we agreed on everything.' Timur favors a clear direction beside Max, putting "poryadke" ("order") alongside "bratan" ("bro") in a tight, everyday turn of phrase.
-- 'One of them has a shop, we will supply meat to him.' Timur takes a firm bearing in front of Max, joining "magazin" ("shop") to "budem" ("will") so every word pulls its weight.
-- 'Listen, Timur, that is very good!' Max shows a candid tack at this moment, weaving "slushay" ("listen") together with "ochen" ("very much") just the way native speakers do.
-- 'We will deliver three times a week.' Timur adopts a calm stance straight away, pairing "budem" ("will") with "vozit" ("to carry, to haul") to get the point across in plain spoken Russian.
-- 'Great, and what about me then?' Max probes warmly during the talk, weaving "otlichno" ("perfect, great") together with "togda" ("back then") just the way native speakers do.
-- 'With you, however, things are really bad.' Timur takes a firm tempo on the spot, pairing "dela" ("things, affairs") with "sovsem" ("at all") to get the point across in plain spoken Russian.
-- 'Why did you not tell me about the pork?' Timur quizzes pointedly without holding back, weaving "pochemu" ("why") together with "svininu" ("pork") just the way native speakers do.
-- 'That changes everything completely now!' Timur holds an honest note for Max, building the phrase around "teper" ("now") and "voobshche" ("at all") for a crisp, natural delivery.
-- 'Maybe we had better call the police?' Max inquires firmly in the scene, building the phrase around "mozhet" ("can") and "byt" ("be") for a crisp, natural delivery.
-- 'No, then it will be even worse for you.' Timur displays an honest attitude toward Max, weaving "togda" ("back then") together with "yeshchyo" ("more, still") just the way native speakers do.
-- 'Go talk to them, I gave them my word!' Timur presents a measured course in the room, anchoring the Russian line on "idi" ("go") and "razgovarivay" ("talk") without extra filler.
+- 'So, Timur, how did the conversation go?' Max shapes that reply with ease: putting the question word "chto" right at the front of the line lets Timur hear the point of the question on the very first beat.
+- 'Everything is fine, bro, we agreed on everything.' Timur speaks up honestly to settle things, without trying to dress up how he really feels.
+- 'One of them has a shop, we will supply meat to him.' Timur grounds one telling choice in earnest: "postavlyat" means "to supply", and it carries the main weight of what Timur is saying.
+- 'Listen, Timur, that is very good!' Max directs this answer at once: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'We will deliver three times a week.' Timur reacts plainly without a pause, keeping the focus on what actually matters here.
+- 'Great, and what about me then?' Max highlights one sharp touch in earnest: "otlichno" means "perfect, great", and it carries the main weight of what Max is saying.
+- 'With you, however, things are really bad.' Timur puts that line facing Max: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Why did you not tell me about the pork?' Timur questions curiously what Max is actually getting at here.
+- 'That changes everything completely now!' Timur points to this sharp piece on cue: "voobshche" means "at all", and it carries the main weight of what Timur is saying.
+- 'Maybe we had better call the police?' Max gives the remark without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Timur purely through rising pitch at the end.
+- 'No, then it will be even worse for you.' Timur pushes back briskly facing Max, bringing things back to earth after the buildup.
+- 'Go talk to them, I gave them my word!' Timur reaches for one sharp detail toward Max: "razgovarivay" means "talk" (from "razgovarivat"), giving the line its exact edge.

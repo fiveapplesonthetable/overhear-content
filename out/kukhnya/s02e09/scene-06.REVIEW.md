@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, that is what he said.' Max brings a brisk style in their talk, combining "skazal" ("said") and "tak" ("so") so the key meaning lands right away.
-- 'He would have been joking.' Barinov takes an easygoing stance toward Timur, using "poshutil" (from "poshutit", "to joke") alongside "on" ("he") to shape the meaning.
-- 'Come on, do you guys not know the Chef?' Timur probes sharply in the scene, combining "shefa" ("chef") and "znayete" ("know") so the key meaning lands right away.
-- 'What, you do not believe me, right?' Max checks boldly in front of Timur, anchoring the Russian line on "verte" ("to believe") and "chto" ("what") without extra filler.
-- 'Let us follow him and see.' Barinov takes an unhurried style on the spot, joining "davayte" ("let's") to "prosledim" ("will keep an eye on it") so every word pulls its weight.
-- 'Max, the Chef is calling for you urgently.' Timur brings an easygoing course in the conversation, leaning on "shefu" ("chef") before closing the thought with "srochno" ("urgent, urgently").
-- 'Well, yes.' Max conveys a brisk tone across the room, leaning on "nu" ("oh, come on") before closing the thought with "da" ("yes").
-- 'What amazing partridges I set aside.' Barinov chooses a thoughtful line at once, putting "kuropatok" ("partridge") alongside "ostavil" ("left") in a tight, everyday turn of phrase.
-- 'You cannot even imagine.' Timur projects an honest position straight away, linking "predstavlyayesh" ("can you imagine"), "ty" ("you"), and "ne" ("not") in one brisk exchange.
-- 'Timur, I need something very special.' Max sustains a warm tack on the spot, putting "nuzhno" ("necessary") alongside "osobennoye" ("special, particular") in a tight, everyday turn of phrase.
-- 'Come on, you know me.' Barinov strikes a serious direction in front of Max, using "znayesh" (from "znat", "know") alongside "nu" ("oh, come on") to shape the meaning.
-- 'I can bring you anything at all.' Timur keeps a natural approach at this moment, linking "mogu" ("can"), "privezti" ("to bring"), and "ya" ("I") in one brisk exchange.
-- 'No, this time I need it right now.' Max conveys a sharp style right away, leaning on "teper" ("now") before closing the thought with "nado" ("it is necessary").
+- 'Well, that is what he said.' Max continues briskly toward Barinov, steering the talk right where he wants it.
+- 'He would have been joking.' Barinov grounds one concrete expression toward Timur: "poshutil" means "to joke" (from "poshutit"), giving the line its exact edge.
+- 'Come on, do you guys not know the Chef?' Timur hands over the remark without fuss: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'What, you do not believe me, right?' Max questions eagerly why things suddenly took this turn between them.
+- 'Let us follow him and see.' Barinov uses one memorable word in reply: "prosledim" means "will keep an eye on it" (from "prosledit"), giving the line its exact edge.
+- 'Max, the Chef is calling for you urgently.' Timur chooses one familiar word toward Max: "vyzyvayut" means "to cause, to raise" (from "vyzyvat"), giving the line its exact edge.
+- 'Well, yes.' Max fires back evenly with Barinov, watching Barinov's face to see how the news lands.
+- 'What amazing partridges I set aside.' Barinov reaches for one clear detail with Timur: "kuropatok" means "partridge" (from "kuropatka"), giving the line its exact edge.
+- 'You cannot even imagine.' Timur drops that thought with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Timur, I need something very special.' Max stands firm quietly in their talk, keeping the focus on what actually matters here.
+- 'Come on, you know me.' Barinov leans on one telling expression for Max: "znayesh" means "know" (from "znat"), giving the line its exact edge.
+- 'I can bring you anything at all.' Timur emphasizes this telling term right here: "privezti" means "to bring", and it carries the main weight of what Timur is saying.
+- 'No, this time I need it right now.' Max fires back briskly without holding back, steering the talk right where he wants it.

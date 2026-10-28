@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'When you lose love, life loses all meaning.' Max holds a steady style straight away, weaving "kogda" ("when") together with "teryayesh" ("lose") just the way native speakers do.
-- 'Vika, your doctor told me everything.' Max maintains an earnest bearing across the room, anchoring the Russian line on "vrach" ("doctor") and "rasskazal" ("told") without extra filler.
-- 'Great, so you know everything.' Vika presents an easygoing direction with Denis, putting "otlichno" ("perfect, great") alongside "znachit" ("then, so") in a tight, everyday turn of phrase.
-- 'And who is the father?' Max challenges wryly in this moment, linking "otets" ("father") directly with "kto" ("who"), since Russian drops "is" and "are" in the present.
-- 'And that is none of your business anymore.' Vika conveys a measured view during the exchange, combining "uzhe" ("already, now") and "delo" ("matter") so the key meaning lands right away.
-- 'Bad day?' Max prompts lightly without a pause, pairing "plokhoy" ("bad") with "den" ("day") to get the point across in plain spoken Russian.
-- 'Where are you off to, on vacation?' Max wonders honestly without a pause, anchoring the Russian line on "kuda" ("where to") and "otpusk" ("vacation") without extra filler.
-- 'An indefinite one, things did not work out for me here.' Denis shares a firm posture as the scene unfolds, pairing "bessrochnyy" ("indefinite") with "slozhilos" ("worked out") to get the point across in plain spoken Russian.
-- 'Den, forgive me, I behaved like a jerk.' Max strikes an unhurried manner for Denis, linking "prosti" ("sorry, forgive me"), "vyol" ("led, behaved"), and "kak" ("how") in one brisk exchange.
-- 'Hello, good evening.' Vika establishes a direct view as they talk, weaving "dobryy" ("good") together with "vecher" ("evening") just the way native speakers do.
-- 'Your husband turned out to be very persistent.' Vika maintains a pointed posture toward Denis, pairing "muzh" ("husband") with "okazalsya" ("turned up") to get the point across in plain spoken Russian.
-- 'I told him just as you asked.' Vika sets a playful mood straight away, combining "skazala" ("told") and "kak" ("how") so the key meaning lands right away.
+- 'When you lose love, life loses all meaning.' Max directs that thought without fuss: the "-sya" ending on "lishayetsya" ("is deprived of") turns the action inward or makes it happen between people naturally.
+- 'Vika, your doctor told me everything.' Max chimes in candidly with a sigh, saying out loud what both of them already know.
+- 'Great, so you know everything.' Vika chooses one sharp detail at once: "otlichno" means "perfect, great", and it carries the main weight of what Vika is saying.
+- 'And who is the father?' Max makes this statement with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And that is none of your business anymore.' Vika fires back calmly in this moment, without trying to dress up how she really feels.
+- 'Bad day?' Max reaches for this vivid term in earnest: "plokhoy" means "bad", and it carries the main weight of what Max is saying.
+- 'Where are you off to, on vacation?' Max directs this point calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'An indefinite one, things did not work out for me here.' Denis opens up promptly watching Vika, shifting the whole mood of the room in a single beat.
+- 'Den, forgive me, I behaved like a jerk.' Max emphasizes one clear expression at once: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
+- 'Hello, good evening.' Vika hands over the comeback facing Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Your husband turned out to be very persistent.' Vika chimes in candidly across the room, to clear the air between them once and for all.
+- 'I told him just as you asked.' Vika features this sharp touch right here: "skazala" means "told" (from "skazat"), giving the line its exact edge.

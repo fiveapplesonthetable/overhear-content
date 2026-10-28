@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you cut up this fish?' Max tests decisively toward Barinov here, putting "zachem" ("what for") alongside "rybu" ("fish") in a tight, everyday turn of phrase.
-- 'It is supposed to be cooked whole.' Max sets a calm manner in front of Elena, putting "tselikom" ("cooked") alongside "gotovyat" ("are preparing") in a tight, everyday turn of phrase.
-- 'Go bring another one. Was that the last one?' Max asks openly without hesitation, putting "idi" ("go") alongside "nesi" ("bring") in a tight, everyday turn of phrase.
-- 'I will run you ragged one last time, like in a proper restaurant.' Barinov establishes a thoughtful course at this moment, putting "pogonyayu" ("run") alongside "naposledok" ("favor") in a tight, everyday turn of phrase.
-- 'Dorado in a salt cocoon flambé.' Barinov favors a natural posture as the scene unfolds, putting "dorada" ("sea bream") alongside "solyanom" ("cocoon") in a tight, everyday turn of phrase.
-- 'Viktor Petrovich, let me take the orders.' Max picks a measured footing right away, joining "davayte" ("let's") to "zakazy" ("orders") so every word pulls its weight.
-- 'I will make it faster anyway. You are sick after all.' Max favors a serious posture at once, linking "bystreye" ("faster"), "sdelayu" ("I'll do"), and "ravno" ("the same") in one brisk exchange.
-- 'Even dead, I will work faster than you.' Barinov strikes a calm attitude beside Max, leaning on "myortvyy" ("dead, lifeless") before closing the thought with "srabotayu" ("to work, succeed").
-- 'Want to bet a thousand on it?' Max inquires frankly in the room, putting "sporim" ("wanna bet") alongside "shtuku" ("a grand, thing") in a tight, everyday turn of phrase.
-- 'Make it five. Let's go!' Barinov brings an emphatic course at this moment, pairing "poyekhali" ("here we go") with "pyat" ("five") to get the point across in plain spoken Russian.
-- 'Voilà! Dorado in a salt cocoon from the head chef.' Barinov conveys a playful posture in the room, building the phrase around "vualya" ("voilà") and "dorada" ("sea bream") for a crisp, natural delivery.
-- 'Actually, from the sous-chef.' Elena strikes a brisk position with Max, leaning on "voobshche-to" ("actually") before closing the thought with "su-shefa" ("sous-chef").
+- 'Why did you cut up this fish?' Max phrases this line with candor: putting the question word "zachem" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'It is supposed to be cooked whole.' Max answers steadily with a sigh, before Elena can change the subject.
+- 'Go bring another one. Was that the last one?' Max chooses this telling term on cue: "poslednyaya" means "last, final" (from "posledniy"), giving the line its exact edge.
+- 'I will run you ragged one last time, like in a proper restaurant.' Barinov reaches for this clear expression for Max: "naposledok" means "favor", and it carries the main weight of what Barinov is saying.
+- 'Dorado in a salt cocoon flambé.' Barinov speaks up honestly with a shrug, steering the talk right where he wants it.
+- 'Viktor Petrovich, let me take the orders.' Max anchors one key term with Elena: "zakazy" means "orders" (from "zakaz"), giving the line its exact edge.
+- 'I will make it faster anyway. You are sick after all.' Max stresses one key term for Barinov: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.
+- 'Even dead, I will work faster than you.' Barinov replies openly as they talk, before Max can change the subject.
+- 'Want to bet a thousand on it?' Max reaches for this key expression at once: "shtuku" means "a grand, thing" (from "shtuka"), giving the line its exact edge.
+- 'Make it five. Let's go!' Barinov delivers the thought plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Voilà! Dorado in a salt cocoon from the head chef.' Barinov fires back pointedly to settle things, watching Elena's face to see how the news lands.
+- 'Actually, from the sous-chef.' Elena favors this clear piece toward Max: "voobshche-to" means "actually", and it carries the main weight of what Elena is saying.

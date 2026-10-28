@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That was amazing.' Kristina chooses a frank approach without hesitation, joining "bylo" ("was") to "kruto" ("cool, awesome") so every word pulls its weight.
-- 'We should get divorced more often.' Max takes a sharp posture right away, leaning on "nado" ("it is necessary") before closing the thought with "pochashche" ("more often").
-- 'Why did you come here anyway?' Kristina prompts candidly in their exchange, anchoring the Russian line on "zachem" ("what for") and "prishel-to" ("arrived") without extra filler.
-- 'You know why.' Max sustains an earnest manner in their talk, putting "znayesh" ("know") alongside "ty" ("you") in a tight, everyday turn of phrase.
-- 'That is true.' Kristina favors a warm style for Max, leaning on "eto" ("this") before closing the thought with "da" ("yes").
-- 'Oh, shoot.' Max chooses an unhurried mood toward Kristina, joining "yelki" ("fir tree") to "oy" ("oh") so every word pulls its weight.
-- 'Phew, thank goodness.' Kristina chooses a pointed attitude with Max, anchoring the Russian line on "yelki" ("fir tree") and "fu" ("drop it") without extra filler.
-- 'Here is the thing.' Max takes an earnest attitude during the exchange, placing "tut" ("here") straight beside "delo" ("matter") with no word for "to be" needed.
-- 'Could you possibly give me yours?' Kristina queries calmly with Max now, joining "mogla" ("could") to "dat" ("to give") so every word pulls its weight.
-- 'Of course, my dear.' Max establishes a wry tack without hesitation, combining "konechno" ("of course") and "milaya" ("darling") so the key meaning lands right away.
-- 'Thank you very much.' Kristina presents a calm manner toward Max, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.
-- 'Yes, who is a bitch?' Max probes sharply in the room, building the phrase around "sterva" ("shrew, mean woman") and "da" ("yes") for a crisp, natural delivery.
-- 'Why did I not text you earlier?' Kristina checks promptly in the room, leaning on "ranshe-to" ("earlier") before closing the thought with "napisala" ("to write").
+- 'That was amazing.' Kristina responds sharply in this moment, leaving no doubt about where she stands.
+- 'We should get divorced more often.' Max points to this sharp element with Kristina: "razvoditsya" means "we are getting divorced", and it carries the main weight of what Max is saying.
+- 'Why did you come here anyway?' Kristina directs that thought with ease: putting the question word "zachem" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'You know why.' Max stands firm steadily without holding back, keeping the focus on what actually matters here.
+- 'That is true.' Kristina phrases the remark in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Oh, shoot.' Max voices the reaction without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Phew, thank goodness.' Kristina responds plainly on the spot, testing Max's reaction in the middle of the exchange.
+- 'Here is the thing.' Max grounds one pointed element in earnest: "delo" means "matter", and it carries the main weight of what Max is saying.
+- 'Could you possibly give me yours?' Kristina gives the reply with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Of course, my dear.' Max cuts in steadily during the talk, bringing things back to earth after the buildup.
+- 'Thank you very much.' Kristina anchors one colorful word on cue: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Yes, who is a bitch?' Max offers that answer calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Why did I not text you earlier?' Kristina asks deadpan if there is more going on behind the scenes.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Life once again places us before a difficult choice.' Max conveys a thoughtful course during the exchange, joining "zhizn" ("life") to "snova" ("again") so every word pulls its weight.
-- 'We must fight on or simply submit to fate.' Max sustains a warm approach on the spot, joining "nuzhno" ("necessary") to "borotsya" ("to fight") so every word pulls its weight.
-- 'Friends, may I ask for a minute of your attention?' The inspector queries briskly for Max's benefit, linking "druzya" ("friends"), "mozhno" ("may, can"), and "poprosit" ("to ask") in one brisk exchange.
-- 'Congratulations, colleagues, now you are part of our family.' The inspector favors a pointed tack across the room, building the phrase around "pozdravlyayu" ("congratulations") and "kollegi" ("colleagues") for a crisp, natural delivery.
-- 'Our rules will give you the opportunity for rapid growth.' The inspector favors a serious line for Max, using "pravila" (from "pravilo", "rules") alongside "dadut" ("they will give") to shape the meaning.
-- 'You will gain great experience in a good company.' The inspector chooses a playful rhythm in the conversation, putting "poluchite" ("you will get") alongside "bolshoy" ("big") in a tight, everyday turn of phrase.
-- 'We will start today with the main news.' The inspector adopts a natural view as they talk, anchoring the Russian line on "nachnyom" ("we start") and "segodnya" ("today") without extra filler.
-- 'Starting today, there is a new director in our restaurant.' The inspector sets a resolute stance in front of Vika, leaning on "segodnyashnego" ("of today's") before closing the thought with "dnya" ("day").
-- 'And here she comes walking right this way.' The inspector sets a wry note in the scene, leaning on "kak" ("how") before closing the thought with "raz" ("time, once").
-- 'Please welcome and respect—Viktoriya Sergeyevna!' The inspector establishes a calm bearing in the scene, leaning on "proshu" ("beg, ask") before closing the thought with "lyubit" ("love").
-- 'Hello, I am the new director of the Claude Monet restaurant.' Vika picks a calm rhythm as the scene unfolds, weaving "zdravstvuyte" ("hello") together with "novyy" ("new") just the way native speakers do.
-- 'While we are thinking, completely new circumstances appear.' Max maintains an earnest attitude with Vika, anchoring the Russian line on "poka" ("bye") and "dumayem" ("to think") without extra filler.
+- 'Life once again places us before a difficult choice.' Max leans on one vivid choice toward the inspector: "trudnym" means "difficult, hard" (from "trudnyy"), giving the line its exact edge.
+- 'We must fight on or simply submit to fate.' Max puts the thought around Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Friends, may I ask for a minute of your attention?' The inspector checks deadpan why things suddenly took this turn between them.
+- 'Congratulations, colleagues, now you are part of our family.' The inspector highlights one pointed element in earnest: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
+- 'Our rules will give you the opportunity for rapid growth.' The inspector leans on one loaded choice toward Max: "vozmozhnost" means "possibility", and it carries the main weight of what the inspector is saying.
+- 'You will gain great experience in a good company.' The inspector responds evenly in their talk, refusing to let the moment slip past.
+- 'We will start today with the main news.' The inspector spotlights one practical term at once: "glavnoy" means "main" (from "glavnyy"), giving the line its exact edge.
+- 'Starting today, there is a new director in our restaurant.' The inspector delivers this answer facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And here she comes walking right this way.' The inspector answers briskly beside Max, shifting the whole mood of the room in a single beat.
+- 'Please welcome and respect—Viktoriya Sergeyevna!' The inspector chooses one direct choice for Vika: "uvazhat" means "respect", and it carries the main weight of what the inspector is saying.
+- 'Hello, I am the new director of the Claude Monet restaurant.' Vika frames this warning at once: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'While we are thinking, completely new circumstances appear.' Max chimes in dryly toward Vika, to clear the air between them once and for all.

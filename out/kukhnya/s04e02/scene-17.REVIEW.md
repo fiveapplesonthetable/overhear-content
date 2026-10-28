@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fine, since you and I are no longer friends.' Barinov brings a brisk rhythm across the room, anchoring the Russian line on "raz" ("time, once") and "teper" ("now") without extra filler.
-- 'I am not going down to the bottom alone.' Barinov displays a grounded footing without hesitation, joining "dno" ("bottom") to "poydu" ("go") so every word pulls its weight.
-- 'I have a copy of it.' Barinov takes a measured tempo toward Lyova, pairing "kopiya" ("copy, photocopy") with "yest" ("there is") to get the point across in plain spoken Russian.
-- 'You are way too lazy to have a copy.' Nagiyev brings a lively footing at once, putting "lenivyy" ("lazy") alongside "kopiya" ("copy, photocopy") in a tight, everyday turn of phrase.
-- 'Go on, beat it from here, you grand schemer.' Nagiyev maintains a steady mood straight away, joining "davay" ("let's") to "cheshi" ("beat") so every word pulls its weight.
-- 'Wait, what is burning?' Lyova asks quietly in this moment, anchoring the Russian line on "gorit" ("is burning") and "chto" ("what") without extra filler.
-- 'Go get a cloth.' Lyova shows an emphatic posture with Barinov, joining "idi" ("go") to "tryapkoy" ("rag, cloth") so every word pulls its weight.
-- 'And here I was afraid that chaos would start without me.' Barinov shares a frank attitude as the scene unfolds, putting "boyalsya" ("was afraid") alongside "tut" ("here") in a tight, everyday turn of phrase.
-- 'Well, now my mind is at ease.' Barinov keeps a lively footing beside Lyova, pairing "teper" ("now") with "spokoyen" ("calm") to get the point across in plain spoken Russian.
-- 'I will pack my things and get out of here.' Barinov adopts a direct style in their talk, anchoring the Russian line on "soberu" ("I will pack") and "veshchichki" ("little thing") without extra filler.
-- 'Sorry, I will pay for everything out of my first paycheck.' Lyova keeps a frank note right away, joining "izvinite" ("sorry, excuse me") to "pervoy" ("first") so every word pulls its weight.
-- 'What first paycheck? You are fired.' Lyova presses evenly to make the point, anchoring the Russian line on "pervoy" ("first") and "zarplaty" ("salaries") without extra filler.
+- 'Fine, since you and I are no longer friends.' Barinov gives the comment right away: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Lyova is on board.
+- 'I am not going down to the bottom alone.' Barinov pushes back plainly during the talk, leaving no doubt about where he stands.
+- 'I have a copy of it.' Barinov points to one vivid touch in reply: "kopiya" means "copy, photocopy", and it carries the main weight of what Barinov is saying.
+- 'You are way too lazy to have a copy.' Nagiyev reaches for one memorable expression on cue: "lenivyy" means "lazy", and it carries the main weight of what Nagiyev is saying.
+- 'Go on, beat it from here, you grand schemer.' Nagiyev chimes in evenly with a smile, bringing things back to earth after the buildup.
+- 'Wait, what is burning?' Lyova favors this clear element in earnest: "gorit" means "is burning" (from "goret"), giving the line its exact edge.
+- 'Go get a cloth.' Lyova puts the thought in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'And here I was afraid that chaos would start without me.' Barinov opens up bluntly before Nagiyev, grounding the moment in plain reality.
+- 'Well, now my mind is at ease.' Barinov stresses one telling element with Lyova: "spokoyen" means "calm" (from "spokoynyy"), giving the line its exact edge.
+- 'I will pack my things and get out of here.' Barinov reacts boldly beside Nagiyev, bringing things back to earth after the buildup.
+- 'Sorry, I will pay for everything out of my first paycheck.' Lyova counters steadily beside Barinov, keeping the focus on what actually matters here.
+- 'What first paycheck? You are fired.' Lyova spotlights one key expression in earnest: "zarplaty" means "salaries" (from "zarplata"), giving the line its exact edge.

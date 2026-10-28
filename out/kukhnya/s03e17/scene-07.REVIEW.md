@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, do you know the joke about black coffee?' Max checks bluntly to make the point, pairing "znayesh" ("know") with "shutku" ("joke") to get the point across in plain spoken Russian.
-- 'No, tell me, why are you asking?' Katya challenges quietly right away, using "rasskazhi" (from "rasskazat", "tell") alongside "pochemu" ("why") to shape the meaning.
-- 'Because strong coffee does not let you sleep.' Max keeps a sharp bearing in the scene, anchoring the Russian line on "potomu" ("because") and "krepkiy" ("strong") without extra filler.
-- 'What a silly joke, but very funny.' Katya shares an unhurried stance straight away, leaning on "glupaya" ("silly, foolish") before closing the thought with "shutka" ("joke, prank").
-- 'Maxim, forgive me for interfering right now.' Rodion shares a calm attitude with Katya, linking "izvinite" ("sorry, excuse me"), "seychas" ("now"), and "vmeshivayus" ("I interfere") in one brisk exchange.
-- 'But I have two pieces of news for you.' Rodion shares a frank posture as the scene unfolds, joining "novosti" ("the news") to "dve" ("two") so every word pulls its weight.
-- 'One piece of news is good, and the other is bad.' Rodion chooses a pointed tempo in their talk, putting "novost" ("the news") alongside "khoroshaya" ("good") in a tight, everyday turn of phrase.
-- 'Then let us start with the good one, Rodion Sergeyevich.' Max keeps a pointed footing as the scene unfolds, building the phrase around "togda" ("back then") and "nachnyom" ("we start") for a crisp, natural delivery.
-- 'Katya undoubtedly likes you very much.' Rodion displays a sharp position during the exchange, putting "nesomnenno" ("undoubtedly") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'Some good news that is. And what is the bad one?' Max quizzes evenly in this moment, building the phrase around "tozhe" ("too") and "khoroshaya" ("good") for a crisp, natural delivery.
-- 'You have a terrible sense of humor, Maxim.' Rodion shares a candid position across the room, putting "uzhasnoye" ("awful, terrible") alongside "chuvstvo" ("feeling, emotion") in a tight, everyday turn of phrase.
-- 'They are completely skimping on our culture.' Rodion conveys an emphatic tempo in front of Max, weaving "sovsem" ("at all") together with "ekonomyat" ("save money") just the way native speakers do.
+- 'Katya, do you know the joke about black coffee?' Max anchors one concrete expression with Katya: "chyornyy" means "black", and it carries the main weight of what Max is saying.
+- 'No, tell me, why are you asking?' Katya aims the reply briskly now: putting the question word "pochemu" right at the front of the line lets Rodion hear the point of the question on the very first beat.
+- 'Because strong coffee does not let you sleep.' Max counters calmly with a smile, so Katya knows he is not just making small talk.
+- 'What a silly joke, but very funny.' Katya colors one loaded detail in reply: "glupaya" means "silly, foolish" (from "glupyy"), giving the line its exact edge.
+- 'Maxim, forgive me for interfering right now.' Rodion delivers this warning with warmth: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Rodion steps in.
+- 'But I have two pieces of news for you.' Rodion opens up warmly with a smile, without trying to dress up how he really feels.
+- 'One piece of news is good, and the other is bad.' Rodion chooses this vivid touch at once: "khoroshaya" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'Then let us start with the good one, Rodion Sergeyevich.' Max counters wryly on the spot, grounding the moment in plain reality.
+- 'Katya undoubtedly likes you very much.' Rodion pushes back right away facing Katya, grounding the moment in plain reality.
+- 'Some good news that is. And what is the bad one?' Max features one vivid element at once: "khoroshaya" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'You have a terrible sense of humor, Maxim.' Rodion voices that thought around Katya: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'They are completely skimping on our culture.' Rodion fires back briskly as things stand, testing Max's reaction in the middle of the exchange.

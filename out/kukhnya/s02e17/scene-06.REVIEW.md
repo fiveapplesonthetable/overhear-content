@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you not warn me you were coming?' Elena presses pointedly as the beat lands, linking "predupredil" ("warned"), "ty" ("you"), and "chego" ("what") in one brisk exchange.
-- 'Why, is it strictly necessary to give a warning?' Kostya quizzes plainly right away, joining "nuzhno" ("necessary") to "obyazatelno" ("surely, without fail") so every word pulls its weight.
-- 'Well, no.' Elena chooses a sharp position straight away, weaving "da" ("yes") together with "net" ("no") just the way native speakers do.
-- 'A brand-new aquarium.' Kostya favors a steady angle at this moment, pairing "novyy" ("new") with "akvarium" ("aquarium") to get the point across in plain spoken Russian.
-- 'So why did you stop by?' Elena presses quietly in their exchange, leaning on "zashla" ("dropped in") before closing the thought with "ty" ("you").
-- 'A party. And who else if not you.' Kostya establishes a natural footing at once, anchoring the Russian line on "vecherinku" ("party") and "kak" ("how") without extra filler.
-- 'Alright then, let her come over here.' Elena holds a serious line at once, linking "priyezzhayet" ("is arriving"), "nu" ("oh, come on"), and "ladno" ("all right") in one brisk exchange.
-- 'No, she asked for us to drive over to her place.' Kostya keeps a clear posture in the conversation, joining "prosila" ("asked") to "podyekhali" ("to drive up") so every word pulls its weight.
-- 'She has no free time at all.' Elena projects a brisk tone without hesitation, putting "sovershenno" ("quite, completely") alongside "vremeni" ("time") in a tight, everyday turn of phrase.
-- 'Come on, Vitya, please.' Kostya picks a thoughtful mood in the conversation, combining "nu" ("oh, come on") and "vitya" ("Vitya") so the key meaning lands right away.
-- 'And everything will be right there.' Elena maintains a lively view right away, putting "tam" ("there") alongside "vse" ("all") in a tight, everyday turn of phrase.
-- 'And then for me, well...' Kostya shows a pointed direction beside Elena, leaning on "potom" ("then") before closing the thought with "mne" ("to me").
-- 'There you go, just like that.' Elena displays a playful style toward Kostya, letting the single Russian word "vot" ("there, here") carry the entire reaction on its own.
+- 'Why did you not warn me you were coming?' Elena wonders frankly before Kostya can change the subject.
+- 'Why, is it strictly necessary to give a warning?' Kostya emphasizes this vivid choice right here: "preduprezhdat" means "to warn", and it carries the main weight of what Kostya is saying.
+- 'Well, no.' Elena hands over the comeback for Kostya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'A brand-new aquarium.' Kostya speaks up promptly with a nod, to clear the air between them once and for all.
+- 'So why did you stop by?' Elena favors one clear touch for Kostya: "zashla" means "dropped in" (from "zayti"), giving the line its exact edge.
+- 'A party. And who else if not you.' Kostya emphasizes one telling touch with Elena: "vecherinku" means "party" (from "vecherinka"), giving the line its exact edge.
+- 'Alright then, let her come over here.' Elena proceeds at once during the talk, letting the remark speak for itself.
+- 'No, she asked for us to drive over to her place.' Kostya underscores this clear piece on cue: "podyekhali" means "to drive up" (from "podyekhat"), giving the line its exact edge.
+- 'She has no free time at all.' Elena jumps in calmly with a shrug, bringing things back to earth after the buildup.
+- 'Come on, Vitya, please.' Kostya holds firm quietly beside Elena, watching Elena's face to see how the news lands.
+- 'And everything will be right there.' Elena directs the thought on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'And then for me, well...' Kostya steps in briskly to be clear, refusing to let the moment slip past.
+- 'There you go, just like that.' Elena pushes back earnestly in this moment, steering the talk right where she wants it.

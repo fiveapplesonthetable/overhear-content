@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what, he kept you on the job after that?' Barinov questions openly in their exchange, weaving "ostavil" ("left") together with "chto" ("what") just the way native speakers do.
-- 'Yes, he said I had guts.' Lyova shares a lively note toward Barinov, combining "skazal" ("said") and "muzhik" ("a real man") so the key meaning lands right away.
-- 'Lyova, did you really screw up too?' Barinov probes openly at this point, linking "tozhe" ("too"), "lazhal" ("to mess up"), and "lev" ("Lev") in one brisk exchange.
-- 'No way, I will never believe that.' Lyova takes a candid direction in the conversation, leaning on "nikogda" ("never") before closing the thought with "poveryu" ("to believe").
-- 'Oh really, never?' Barinov asks earnestly to Lyova here, joining "nikogda" ("never") to "da" ("yes") so every word pulls its weight.
-- 'Should I remind you?' Lyova tests directly in the room, weaving "napomnit" ("reminded") together with "tebe" ("for you, to you") just the way native speakers do.
-- 'My good man, bring me some cognac.' Barinov maintains a grounded tack without hesitation, weaving "uvazhayemyy" ("respected, esteemed") together with "prinesi-ka" ("bring") just the way native speakers do.
-- 'Which one would you like?' Lyova quizzes bluntly as they speak, joining "vam" ("you") to "kakogo" ("what") so every word pulls its weight.
-- 'The most expensive one.' Barinov adopts an earnest direction at this moment, putting "samogo" ("the very") alongside "dorogogo" ("expensive") in a tight, everyday turn of phrase.
-- 'I used to have a certain regular guest.' Lyova projects a sharp posture as they talk, building the phrase around "byl" ("was") and "postoyannyy" ("regular") for a crisp, natural delivery.
-- 'And I was the only one who cooked for that regular guest.' Barinov keeps a frank footing in this beat, linking "postoyannomu" ("regular, permanent"), "gostyu" ("to the guest"), and "gotovil" ("prepared, made") in one brisk exchange.
-- 'A warm seafood salad.' Lyova chooses a resolute manner at this moment, anchoring the Russian line on "teplyy" ("warm") and "salat" ("salad") without extra filler.
-- 'Well, one day, for instance, I was out sick.' Barinov holds a thoughtful approach in the room, putting "naprimer" ("for example") alongside "bolel" ("to be ill") in a tight, everyday turn of phrase.
+- 'And what, he kept you on the job after that?' Barinov underscores one classic touch in earnest: "ostavil" means "left" (from "ostavit"), giving the line its exact edge.
+- 'Yes, he said I had guts.' Lyova opens up promptly without a pause, watching Barinov's face to see how the news lands.
+- 'Lyova, did you really screw up too?' Barinov quizzes quietly where this conversation is heading next.
+- 'No way, I will never believe that.' Lyova focuses on one memorable expression on cue: "nikogda" means "never", and it carries the main weight of what Lyova is saying.
+- 'Oh really, never?' Barinov brings that thought facing Lyova: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Lyova is on board.
+- 'Should I remind you?' Lyova probes firmly if there is more going on behind the scenes.
+- 'My good man, bring me some cognac.' Barinov highlights one vivid piece at once: "uvazhayemyy" means "respected, esteemed", and it carries the main weight of what Barinov is saying.
+- 'Which one would you like?' Lyova delivers that point in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'The most expensive one.' Barinov reacts steadily with a nod, leaving no doubt about where he stands.
+- 'I used to have a certain regular guest.' Lyova underscores this sharp expression toward Barinov: "postoyannyy" means "regular", and it carries the main weight of what Lyova is saying.
+- 'And I was the only one who cooked for that regular guest.' Barinov counters sharply with a nod, grounding the moment in plain reality.
+- 'A warm seafood salad.' Lyova responds evenly around Barinov, leaving no doubt about where he stands.
+- 'Well, one day, for instance, I was out sick.' Barinov uses one key choice in reply: "naprimer" means "for example", and it carries the main weight of what Barinov is saying.

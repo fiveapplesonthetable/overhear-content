@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is your secret delicious dinner to the room.' Senya brings an honest angle for Barinov, building the phrase around "sekretnyy" ("secret") and "vkusnyy" ("delicious") for a crisp, natural delivery.
-- 'What real beauty and charm this is!' Fedya shares a warm attitude for Senya, weaving "nastoyashchaya" ("real, genuine") together with "krasota" ("beauty") just the way native speakers do.
-- 'By the way, we should settle up now.' Senya adopts a candid tone in the room, building the phrase around "kstati" ("by the way") and "teper" ("now") for a crisp, natural delivery.
-- 'Is one steak too little for this?' Fedya inquires honestly without hesitation, placing "steyk" ("steak") straight beside "slishkom" ("too") with no word for "to be" needed.
-- 'Feed me a couple more times tomorrow.' Senya brings a resolute stance straight away, anchoring the Russian line on "pokormite" ("to feed") and "zavtra" ("tomorrow") without extra filler.
-- 'And then we will settle up with you.' Senya picks a candid angle straight away, combining "togda" ("back then") and "rasschitayemsya" ("settle up, get even") so the key meaning lands right away.
-- 'Alright, we will calmly be patient until tomorrow.' Fedya projects an earnest tempo in the scene, weaving "zavtra" ("tomorrow") together with "spokoyno" ("calmly") just the way native speakers do.
-- 'Mister designer, please come in to see us.' Barinov keeps a frank view in the room, pairing "gospodin" ("Mr, sir") with "modelyer" ("fashion designer") to get the point across in plain spoken Russian.
-- 'Tell me, do you have a minute right now?' Barinov inquires calmly without hesitation, combining "skazhite" ("tell") and "seychas" ("now") so the key meaning lands right away.
-- 'Of course, what a pleasant smell in the kitchen!' Senya shows a frank attitude straight away, anchoring the Russian line on "konechno" ("of course") and "priyatnyy" ("nice, pleasant") without extra filler.
-- 'Look over there, is that your famous singer?' Senya probes dryly beside Barinov, leaning on "posmotrite" ("look") before closing the thought with "tuda" ("there").
-- 'Yes, that is my beloved future wife.' Barinov brings an honest approach in this beat, pairing "lyubimaya" ("favourite, beloved") with "budushchaya" ("future, next") to get the point across in plain spoken Russian.
+- 'Here is your secret delicious dinner to the room.' Senya anchors one concrete choice in reply: "sekretnyy" means "secret", and it carries the main weight of what Senya is saying.
+- 'What real beauty and charm this is!' Fedya brings this statement on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'By the way, we should settle up now.' Senya reacts briskly without any doubt, refusing to let the moment slip past.
+- 'Is one steak too little for this?' Fedya highlights this vivid term in reply: "slishkom" means "too", and it carries the main weight of what Fedya is saying.
+- 'Feed me a couple more times tomorrow.' Senya continues right away with a nod, without trying to dress up how he really feels.
+- 'And then we will settle up with you.' Senya holds firm quietly during the talk, before Fedya can change the subject.
+- 'Alright, we will calmly be patient until tomorrow.' Fedya sharpens this sharp element right here: "spokoyno" means "calmly", and it carries the main weight of what Fedya is saying.
+- 'Mister designer, please come in to see us.' Barinov directs this answer before Senya: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Tell me, do you have a minute right now?' Barinov prompts openly before Fedya can change the subject.
+- 'Of course, what a pleasant smell in the kitchen!' Senya grounds one pointed word in earnest: "priyatnyy" means "nice, pleasant", and it carries the main weight of what Senya is saying.
+- 'Look over there, is that your famous singer?' Senya hands over the comeback briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Yes, that is my beloved future wife.' Barinov continues boldly with a sigh, grounding the moment in plain reality.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, you did such a great job.' Nagiyev shows a direct bearing straight away, leaning on "molodets" ("well done, good boy") before closing the thought with "maks" ("Max").
-- 'The guest is thrilled with your vegetarian rolls.' Nagiyev displays a measured tack right away, linking "gost" ("guest"), "vostorge" ("delight"), and "vegetarianskikh" ("vegetarian") in one brisk exchange.
-- 'Well, I should think so.' Kristina favors a wry style during the exchange, building the phrase around "yeshchyo" ("more, still") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'After all, any vegetarian dish tastes better with meat.' Max holds a clear line with Nagiyev, using "lyuboye" (from "lyuboy", "any") alongside "vegetarianskoye" ("vegetarian") to shape the meaning.
-- 'And do you know what.' Nagiyev picks a lively stance during the exchange, anchoring the Russian line on "znayesh" ("know") and "ty" ("you") without extra filler.
-- 'He paid the price for mushroom rolls.' Kristina strikes a natural view right away, weaving "zaplatil" ("to pay") together with "rulety" ("roll, roulade") just the way native speakers do.
-- 'Hello, Dmitry Vladimirovich.' Max picks a playful line in the room, weaving "zdravstvuyte" ("hello") together with "dmitriy" ("Dmitry") just the way native speakers do.
-- 'Is that right?' Nagiyev checks wryly beside Max, placing "chto" ("what") straight beside "li" ("whether") with no word for "to be" needed.
-- 'They found out that Kristina and I are having problems.' Kristina shows a steady view in the scene, using "znali" (from "znat", "to know") alongside "problemy" ("problems") to shape the meaning.
-- 'Oh, what cunning people!' Max sets a serious tempo in the room, pairing "khitryye" ("clever") with "lyudi" ("people") to get the point across in plain spoken Russian.
-- 'I mean, what creeps.' Nagiyev sets a thoughtful stance at once, combining "smysle" ("sense") and "urody" ("freak, jerk") so the key meaning lands right away.
-- 'That is what I am saying.' Kristina takes a thoughtful direction in front of Nagiyev, combining "govoryu" ("am telling") and "ya" ("I") so the key meaning lands right away.
-- 'Have the guys get rid of him.' Max sustains an unhurried line during the exchange, linking "parni" ("guys, boys"), "ubrali" ("removed"), and "chtoby" ("so that") in one brisk exchange.
+- 'Max, you did such a great job.' Nagiyev voices this update right away: the "-sya" ending on "molodets" ("well done, good boy") turns the action inward or makes it happen between people naturally.
+- 'The guest is thrilled with your vegetarian rolls.' Nagiyev pushes back earnestly as things stand, testing Max's reaction in the middle of the exchange.
+- 'Well, I should think so.' Kristina sharpens one memorable piece toward Max: "yeshchyo" means "more, still", and it carries the main weight of what Kristina is saying.
+- 'After all, any vegetarian dish tastes better with meat.' Max proceeds frankly with a smile, to clear the air between them once and for all.
+- 'And do you know what.' Nagiyev holds firm pointedly in their talk, bringing things back to earth after the buildup.
+- 'He paid the price for mushroom rolls.' Kristina underscores one pointed expression on cue: "gribami" means "mushroom" (from "grib"), giving the line its exact edge.
+- 'Hello, Dmitry Vladimirovich.' Max hands over this update toward Kristina: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Is that right?' Nagiyev quizzes point-blank if there is more going on behind the scenes.
+- 'They found out that Kristina and I are having problems.' Kristina grounds one sharp detail with Max: "problemy" means "problems" (from "problema"), giving the line its exact edge.
+- 'Oh, what cunning people!' Max aims the reaction frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I mean, what creeps.' Nagiyev answers right away with a sigh, without trying to dress up how he really feels.
+- 'That is what I am saying.' Kristina points to this direct detail toward Nagiyev: "govoryu" means "am telling" (from "govorit"), giving the line its exact edge.
+- 'Have the guys get rid of him.' Max sends that point without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

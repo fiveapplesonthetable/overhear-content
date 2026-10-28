@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostyan, I have one more idea.' Max maintains a thoughtful posture in this beat, using the everyday "u menya" ("by me") alongside "yest" ("there is") to show what belongs to the speaker.
-- 'No way, I have had quite enough of your ideas.' Max picks an earnest posture at this moment, anchoring the Russian line on "znayesh" ("know") and "khvatit" ("enough") without extra filler.
-- 'Are you okay with that? What is wrong with you?' Kostya wonders promptly as they speak, leaning on "normalno" ("fine, OK") before closing the thought with "ty" ("you").
-- 'Of course, who else?' Max queries warmly from the start, putting "konechno" ("of course") alongside "yeshche" ("still") in a tight, everyday turn of phrase.
-- 'Why do you not keep an eye on your own woman?' Kostya questions plainly to keep things clear, leaning on "baboy" ("grandma, country woman") before closing the thought with "sledi" ("watch, look after").
-- 'What did you not understand?' Max challenges wryly without hesitation, linking "ponyal" ("understood"), "chego" ("what"), and "ty" ("you") in one brisk exchange.
-- 'Maybe we should step outside?' Kostya tests steadily in the room, building the phrase around "mozhet" ("can") and "vyydem" ("to go out, to get out") for a crisp, natural delivery.
-- 'Before the guests run off to the restaurant next door.' Max offers a sharp rhythm at once, linking "poka" ("bye"), "gosti" ("visitors, guests"), and "sosedniy" ("neighboring") in one brisk exchange.
-- 'Tell me, are you not ashamed of yourselves?' Kostya inquires candidly to keep things clear, building the phrase around "skazhite" ("tell") and "stydno" ("shameful") for a crisp, natural delivery.
-- 'Oh, excuse me, that was an accident.' Max presents a clear stance as the scene unfolds, leaning on "izvinite" ("sorry, excuse me") before closing the thought with "sluchayno" ("by any chance").
-- 'I was just...' Kostya holds a sharp note in the room, putting "prosto" ("just") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'A second time, really?' Max queries quietly without hesitation, building the phrase around "vtoroy" ("second") and "raz" ("time, once") for a crisp, natural delivery.
-- 'We need to take you right back to your ward.' Kostya takes a wry tack straight away, anchoring the Russian line on "nuzhno" ("necessary") and "opyat" ("again") without extra filler.
+- 'Kostyan, I have one more idea.' Max spotlights one clear term right here: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
+- 'No way, I have had quite enough of your ideas.' Max holds firm at once watching Kostya, shifting the whole mood of the room in a single beat.
+- 'Are you okay with that? What is wrong with you?' Kostya inquires point-blank in front of Max without any preamble.
+- 'Of course, who else?' Max emphasizes this vivid touch in earnest: "konechno" means "of course", and it carries the main weight of what Max is saying.
+- 'Why do you not keep an eye on your own woman?' Kostya drops the thought without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'What did you not understand?' Max wonders firmly what Kostya is actually getting at here.
+- 'Maybe we should step outside?' Kostya anchors one key expression in reply: "mozhet" means "can" (from "moch"), giving the line its exact edge.
+- 'Before the guests run off to the restaurant next door.' Max weighs in lightly with a nod, leaving no doubt about where he stands.
+- 'Tell me, are you not ashamed of yourselves?' Kostya presses frankly in front of Max without any preamble.
+- 'Oh, excuse me, that was an accident.' Max points to one classic touch right here: "sluchayno" means "by any chance", and it carries the main weight of what Max is saying.
+- 'I was just...' Kostya lays out that thought plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'A second time, really?' Max tests candidly while looking straight at Kostya here.
+- 'We need to take you right back to your ward.' Kostya grounds one practical expression right here: "palatu" means "the hospital ward" (from "palata"), giving the line its exact edge.

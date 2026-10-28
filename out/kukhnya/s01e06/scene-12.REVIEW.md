@@ -28,5 +28,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'A slippery floor is a source of danger.' Formally citing a blatant safety violation, the inspector points at the floor.
 - 'Why is this bottle open by the grill?' The official sharply questions an obvious fire hazard near the flames.
-- 'You won' Threatening severe consequences, the inspector promises more than a mere fine.
+- 'You won't get off with a simple fine here!' Threatening severe consequences, the inspector promises more than a mere fine.
 - 'Let's move on, I will inspect the storage.' Marching onward, the official moves to uncover more infractions in the back room.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My mood is great.' Barinov picks an unhurried style in front of Nastya, linking "nastroyeniye" ("mood") directly with "khorosheye" ("lovely, good"), since Russian drops "is" and "are" in the present.
-- 'And how are things going at your restaurant?' Nastya questions warmly from the start, putting "kak" ("how") alongside "vas" ("you") in a tight, everyday turn of phrase.
-- 'She replied that she is tired.' Barinov sets a resolute tone in the conversation, anchoring the Russian line on "otvetila" ("answered") and "ustala" ("are tired, got tired") without extra filler.
-- 'Chef, this is the perfect moment to invite her out somewhere.' Nastya shows a lively angle in this beat, linking "samoye" ("the most"), "vremya" ("time"), and "kuda-nibud" ("anywhere, somewhere") in one brisk exchange.
-- 'You cannot just blurt it out like that.' Barinov strikes a serious position during the exchange, building the phrase around "nelzya" ("not allowed") and "prosto" ("just") for a crisp, natural delivery.
-- 'Wait, what are you doing?' Nastya checks honestly without a pause, pairing "delayesh" ("are you doing") with "ty" ("you") to get the point across in plain spoken Russian.
-- 'I just invited her out on a date tomorrow in your name.' Barinov shows a direct rhythm in the scene, joining "priglasil" ("invited") to "imeni" ("name") so every word pulls its weight.
-- 'Because today you do not seem to be in top form.' Nastya shows a clear tack without hesitation, joining "segodnya" ("today") to "kazhetsya" ("it seems, I think") so every word pulls its weight.
-- 'Are you trying to be the death of me?' Barinov prompts promptly at this point, anchoring the Russian line on "smerti" ("death") and "khochesh" ("do you want") without extra filler.
-- 'Tell her that you were the one who typed that.' Nastya presents a direct position toward Barinov, putting "sdelal" ("did") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'I cannot look.' Barinov holds a frank bearing with Nastya, linking "mogu" ("can"), "ya" ("I"), and "ne" ("not") in one brisk exchange.
-- 'Let me read what she wrote.' Nastya projects an honest stance in front of Barinov, linking "davayte" ("let's"), "chitayu" ("am reading"), and "ya" ("I") in one brisk exchange.
-- 'I read it, and she replied positively.' Barinov maintains a measured posture right away, leaning on "prochital" ("read") before closing the thought with "otvetil" ("answered").
+- 'My mood is great.' Barinov anchors one clear choice at once: "nastroyeniye" means "mood", and it carries the main weight of what Barinov is saying.
+- 'And how are things going at your restaurant?' Nastya delivers the reaction without pause: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'She replied that she is tired.' Barinov answers calmly as they talk, letting the remark speak for itself.
+- 'Chef, this is the perfect moment to invite her out somewhere.' Nastya frames one concrete choice at once: "kuda-nibud" means "anywhere, somewhere", and it carries the main weight of what Nastya is saying.
+- 'You cannot just blurt it out like that.' Barinov drops this answer calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Wait, what are you doing?' Nastya quizzes eagerly before Barinov can change the subject.
+- 'I just invited her out on a date tomorrow in your name.' Barinov grounds this vivid expression in earnest: "svidaniye" means "date", and it carries the main weight of what Barinov is saying.
+- 'Because today you do not seem to be in top form.' Nastya hands over this warning toward Barinov: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
+- 'Are you trying to be the death of me?' Barinov presses quietly in front of Nastya without any preamble.
+- 'Tell her that you were the one who typed that.' Nastya centers one pointed touch toward Barinov: "sdelal" means "did" (from "sdelat"), giving the line its exact edge.
+- 'I cannot look.' Barinov shapes that remark toward Nastya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Let me read what she wrote.' Nastya jumps in right away with a smile, letting the remark speak for itself.
+- 'I read it, and she replied positively.' Barinov colors one clear touch in reply: "prochital" means "read" (from "prochitat"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How about you stop bothering me.' Nastya holds a natural attitude as the scene unfolds, putting "davayte" ("let's") alongside "budete" ("will be") in a tight, everyday turn of phrase.
-- 'I will go take a quiet walk outside instead.' Nastya favors a resolute tone on the spot, weaving "poydu" ("go") together with "luchshe" ("better") just the way native speakers do.
-- 'He called you by your name for the first time.' Nastya chooses a lively angle beside Barinov, combining "vpervyye" ("for the first time") and "imeni" ("name") so the key meaning lands right away.
-- 'I will be the first in Russia to get a star!' Barinov projects a grounded approach in front of Nastya, anchoring the Russian line on "pervyy" ("first") and "poluchu" ("to get, to receive") without extra filler.
-- 'Chef, we have already solved everything ourselves.' Denis adopts an unhurried line without hesitation, linking "uzhe" ("already, now"), "reshili" ("decided"), and "shef" ("Chef") in one brisk exchange.
-- 'What exactly did the two of you solve?' Barinov queries calmly toward Nastya here, putting "tam" ("there") alongside "vdvoyom" ("the two of us together") in a tight, everyday turn of phrase.
-- 'We planted a packet in the Frenchman's room.' Denis projects a clear view as they talk, linking "podbrosili" ("planted, tossed in"), "paket" ("the plastic bag"), and "nomer" ("number") in one brisk exchange.
-- 'And then we immediately called the police there.' Denis sustains a pointed posture right away, leaning on "potom" ("then") before closing the thought with "srazu" ("at once").
-- 'They will arrive now, find it, and deport him.' Denis chooses a grounded bearing without hesitation, pairing "seychas" ("now") with "priyedut" ("they'll come") to get the point across in plain spoken Russian.
-- 'Quickly to the room and clear everything out of there!' Barinov shares a resolute note with Nastya, linking "bystro" ("quickly"), "nomer" ("number"), and "ottuda" ("from there") in one brisk exchange.
-- 'We will not make it in time, the police are already coming!' Denis projects a natural posture without hesitation, linking "uspeyem" ("we'll make it"), "politsiya" ("police"), and "uzhe" ("already, now") in one brisk exchange.
-- 'I will meet them myself, run upstairs!' Barinov establishes a thoughtful manner across the room, combining "vstrechu" ("meeting") and "begom" ("at a run, quickly") so the key meaning lands right away.
+- 'How about you stop bothering me.' Nastya offers that answer toward Barinov: the word "davayte" is the polite or group version of "let's", inviting Barinov into the plan right away.
+- 'I will go take a quiet walk outside instead.' Nastya speaks up frankly as things stand, making her position completely clear.
+- 'He called you by your name for the first time.' Nastya leans on one pointed term right here: "vpervyye" means "for the first time", and it carries the main weight of what Nastya is saying.
+- 'I will be the first in Russia to get a star!' Barinov jumps in quietly with a nod, watching Nastya's face to see how the news lands.
+- 'Chef, we have already solved everything ourselves.' Denis reacts sharply in their talk, making his position completely clear.
+- 'What exactly did the two of you solve?' Barinov focuses on one memorable expression toward Nastya: "vdvoyom" means "the two of us together", and it carries the main weight of what Barinov is saying.
+- 'We planted a packet in the Frenchman's room.' Denis jumps in evenly in this moment, without trying to dress up how he really feels.
+- 'And then we immediately called the police there.' Denis stands firm sharply hearing Nastya, shifting the whole mood of the room in a single beat.
+- 'They will arrive now, find it, and deport him.' Denis emphasizes one memorable piece in reply: "priyedut" means "they'll come" (from "priyekhat"), giving the line its exact edge.
+- 'Quickly to the room and clear everything out of there!' Barinov opens up steadily across the room, without trying to dress up how he really feels.
+- 'We will not make it in time, the police are already coming!' Denis jumps in at once in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'I will meet them myself, run upstairs!' Listen to how Barinov faces Nastya with candor — the Russian word "vstrechu" ("meeting", built from "vstrecha") does the heavy lifting.

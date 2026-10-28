@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, and what is going on here right now?' German challenges plainly to keep things clear, pairing "zdes" ("here") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'We came out to do some workplace gymnastics!' Max offers an emphatic posture without hesitation, pairing "vyshli" ("came out") with "pozanimatsya" ("to workplace") to get the point across in plain spoken Russian.
-- 'Guys, let's quickly do bends to the right and left!' Max brings a pointed attitude as the scene unfolds, combining "parni" ("guys, boys") and "davayte" ("let's") so the key meaning lands right away.
-- 'They asked for gymnastics, and instead arranged smoke breaks.' German holds an earnest tone as the scene unfolds, linking "prosili" ("asked, requested"), "gimnastiku" ("gymnastics"), and "ustroili" ("to arrange") in one brisk exchange.
-- 'And what was the demonstration by my office about?' German prompts evenly to Denis here, anchoring the Russian line on "demonstratsiya" ("demonstration") and "kabineta" ("office") without extra filler.
-- 'Who said that I want to cut your salary?' German presses earnestly for Max's benefit, weaving "skazal" ("said") together with "khochu" ("want") just the way native speakers do.
-- 'German Mikhailovich, I will explain everything to you right now.' Max strikes an earnest line straight away, building the phrase around "seychas" ("now") and "obyasnyu" ("I'll explain") for a crisp, natural delivery.
-- 'Lavrov, you deceived our entire staff.' German brings a candid approach for Max, combining "obmanuli" ("cheated") and "kollektiv" ("staff, collective") so the key meaning lands right away.
-- 'In short, you are no longer my sous-chef!' German presents a thoughtful attitude in this beat, joining "koroche" ("long story short") to "bolshe" ("more") so every word pulls its weight.
-- 'Max, you are always true to form.' Denis shows a wry position in the room, building the phrase around "vsegda" ("always") and "repertuare" ("form") for a crisp, natural delivery.
-- 'Denis, forgive me, I accidentally spent your money.' Max strikes a lively line as the scene unfolds, combining "prosti" ("sorry, forgive me") and "sluchayno" ("by any chance") so the key meaning lands right away.
-- 'What have you done, after all that is my money!' Denis takes a thoughtful angle straight away, weaving "nadelal" ("make, cause") together with "dengi" ("money") just the way native speakers do.
+- 'Lavrov, and what is going on here right now?' German spotlights one telling piece in earnest: "proiskhodit" means "is going on", and it carries the main weight of what German is saying.
+- 'We came out to do some workplace gymnastics!' Max weighs in evenly without holding back, shifting the whole mood of the room in a single beat.
+- 'Guys, let's quickly do bends to the right and left!' Max continues lightly during the talk, shifting the whole mood of the room in a single beat.
+- 'They asked for gymnastics, and instead arranged smoke breaks.' German focuses on one concrete piece toward Max: "gimnastiku" means "gymnastics" (from "gimnastika"), giving the line its exact edge.
+- 'And what was the demonstration by my office about?' German puts that answer around Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'Who said that I want to cut your salary?' German presses firmly where this conversation is heading next.
+- 'German Mikhailovich, I will explain everything to you right now.' Max favors this clear element toward Denis: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
+- 'Lavrov, you deceived our entire staff.' German anchors this clear expression in reply: "kollektiv" means "staff, collective", and it carries the main weight of what German is saying.
+- 'In short, you are no longer my sous-chef!' German follows up evenly as things stand, saying out loud what both of them already know.
+- 'Max, you are always true to form.' Denis frames one loaded touch toward Max: "repertuare" means "form", and it carries the main weight of what Denis is saying.
+- 'Denis, forgive me, I accidentally spent your money.' Max states that line in earnest: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'What have you done, after all that is my money!' Denis speaks candidly facing Max, testing Max's reaction in the middle of the exchange.

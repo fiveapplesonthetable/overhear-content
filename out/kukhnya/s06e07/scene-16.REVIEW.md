@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It seems someone else has come to our place.' Nastya projects a direct bearing in the conversation, pairing "kazhetsya" ("it seems, I think") with "yeshchyo" ("more, still") so the "-sya" ending carries the action.
-- 'Wait, I will open the door myself right now.' Kostya keeps a playful tempo toward Nastya, building the phrase around "podozhdi" ("wait") and "seychas" ("now") for a crisp, natural delivery.
-- 'Hi, Kostya, I brought you the juicer.' Denis offers a sharp stance straight away, using "prinyos" (from "prinesti", "brought") alongside "sokovyzhimalku" ("juicer") to shape the meaning.
-- 'Listen, Denis, we are having a housewarming today!' Kostya displays a warm style toward Nastya, combining "slushay" ("listen") and "segodnya" ("today") so the key meaning lands right away.
-- 'Come on, step right in to our table.' Kostya picks an emphatic view in the conversation, leaning on "davay" ("let's") before closing the thought with "prokhodi" ("come in").
-- 'Kostik, there probably will not be enough clean plates for everyone.' Nastya chooses a grounded tone in the room, pairing "navernoye" ("probably") with "chistykh" ("clean") to get the point across in plain spoken Russian.
-- 'No big deal, I will unpack a box right now.' Kostya keeps a firm footing for Denis, anchoring the Russian line on "strashnogo" ("terrible, serious") and "seychas" ("now") without extra filler.
-- 'Why did you invite him into our home?' Nastya asks lightly across the room, pairing "zachem" ("what for") with "pozval" ("invited") to get the point across in plain spoken Russian.
-- 'It would be awkward not to, since the guy stopped by.' Kostya maintains a lively line straight away, pairing "neudobno" ("awkward, uncomfortable") with "kak-to" ("somehow, a bit") to get the point across in plain spoken Russian.
-- 'Nastya, you forgot the storage keys at work.' Denis shares a pointed note right away, combining "rabote" ("work") and "klyuchi" ("the keys") so the key meaning lands right away.
-- 'Thank you very much, come in and have dinner with us!' Nastya projects a pointed mood across the room, building the phrase around "spasibo" ("thank you") and "bolshoye" ("big, very much") for a crisp, natural delivery.
-- 'I will gladly stay at your place.' Denis chooses a warm note at this moment, building the phrase around "bolshim" ("great") and "udovolstviyem" ("pleasure") for a crisp, natural delivery.
+- 'It seems someone else has come to our place.' Nastya favors one colorful choice in earnest: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'Wait, I will open the door myself right now.' Kostya counters evenly facing Nastya, bringing things back to earth after the buildup.
+- 'Hi, Kostya, I brought you the juicer.' Denis weighs in steadily with a shrug, bringing things back to earth after the buildup.
+- 'Listen, Denis, we are having a housewarming today!' Kostya highlights one vivid touch on cue: "novoselye" means "housewarming", and it carries the main weight of what Kostya is saying.
+- 'Come on, step right in to our table.' Kostya delivers this warning right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Kostik, there probably will not be enough clean plates for everyone.' Nastya responds wryly hearing Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'No big deal, I will unpack a box right now.' Kostya leans on one concrete touch in reply: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.
+- 'Why did you invite him into our home?' Nastya brings this answer with ease: putting the question word "zachem" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'It would be awkward not to, since the guy stopped by.' Kostya chimes in candidly around Denis, keeping the focus on what actually matters here.
+- 'Nastya, you forgot the storage keys at work.' Denis spotlights one telling term at once: "klyuchi" means "the keys" (from "klyuch"), giving the line its exact edge.
+- 'Thank you very much, come in and have dinner with us!' Nastya gives the comment toward Denis: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'I will gladly stay at your place.' Denis responds pointedly with a sigh, steering the talk right where he wants it.

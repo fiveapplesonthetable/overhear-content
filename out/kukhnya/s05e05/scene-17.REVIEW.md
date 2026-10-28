@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, and what was all this clowning for?' The doctor quizzes briskly in the scene, joining "klounada" ("clowning, farce") to "nu" ("oh, come on") so every word pulls its weight.
-- 'Excuse me.' Max presents a playful approach in the conversation, putting all the weight on "izvinite" ("sorry, excuse me") so the reply lands immediately.
-- 'I really need to know whether this child is mine or not.' Max conveys an earnest rhythm for the doctor, combining "ochen" ("very much") and "nuzhno" ("necessary") so the key meaning lands right away.
-- 'My entire life depends on this.' Max chooses a brisk note in this beat, combining "zavisit" ("depends") and "zhizn" ("life") so the key meaning lands right away.
-- 'Please, tell me, how far along is Vika?' Max quizzes bluntly on the spot, using "proshu" (from "prosit", "beg, ask") alongside "skazhite" ("tell") to shape the meaning.
-- 'Victoria Sergeyevna Goncharova.' The doctor keeps a serious manner toward Max, pairing "viktoriya" ("Victoria") with "sergeyevna" ("Sergeyevna") to get the point across in plain spoken Russian.
-- 'Sixteen weeks.' The doctor projects a warm stance without hesitation, putting "nedel" ("weeks") alongside "shestnadtsat" ("sixteen") in a tight, everyday turn of phrase.
-- 'Does that work out to less than four months?' Max quizzes calmly from the start, pairing "poluchayetsya" ("works out") with "menshe" ("less") to get the point across in plain spoken Russian.
-- 'Yes.' The doctor maintains a pointed approach straight away, letting the single Russian word "da" ("yes") carry the entire reaction on its own.
-- 'Congratulations, daddy, a real bouncing boy.' The doctor chooses a grounded rhythm as they talk, anchoring the Russian line on "pozdravlyayu" ("congratulations") and "papasha" ("daddy, pop") without extra filler.
-- 'Daddy, where did you go?' The doctor quizzes naturally with Max now, linking "papasha" ("daddy, pop"), "kuda" ("where to"), and "ushli" ("we have gone") in one brisk exchange.
-- 'Come back, excuse me, please.' The doctor establishes a serious tack in the conversation, using "vernites" (from "vernutsya", "to come back") alongside "izvinite" ("sorry, excuse me") to shape the meaning.
+- 'Well, and what was all this clowning for?' The doctor hands over the comeback to Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Excuse me.' Max follows up briskly beside the doctor, shifting the whole mood of the room in a single beat.
+- 'I really need to know whether this child is mine or not.' Max stresses one colorful detail on cue: "rebyonok" means "a child", and it carries the main weight of what Max is saying.
+- 'My entire life depends on this.' Max responds frankly with a shrug, bringing things back to earth after the buildup.
+- 'Please, tell me, how far along is Vika?' Max probes candidly where this conversation is heading next.
+- 'Victoria Sergeyevna Goncharova.' The doctor delivers that thought at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Sixteen weeks.' The doctor gives that answer around Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Does that work out to less than four months?' Max asks briskly whether the doctor really thought this through.
+- 'Yes.' The doctor states the reply with warmth: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'Congratulations, daddy, a real bouncing boy.' The doctor directs that line without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Daddy, where did you go?' The doctor checks openly in front of Max without any preamble.
+- 'Come back, excuse me, please.' The doctor chooses one familiar word right here: "vernites" means "to come back" (from "vernutsya"), giving the line its exact edge.

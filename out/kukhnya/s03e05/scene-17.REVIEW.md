@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, may I go home a bit earlier today?' Senya challenges calmly with Fedya now, linking "mozhno" ("may, can"), "poranshe" ("a bit earlier"), and "segodnya" ("today") in one brisk exchange.
-- 'My tooth hurts, I really cannot stand it.' Senya shares a calm tone in their talk, weaving "zub" ("a tooth") together with "bolit" ("hurts, aches") just the way native speakers do.
-- 'Yes, of course, go home.' Lyova presents a sharp manner without hesitation, leaning on "konechno" ("of course") before closing the thought with "idi" ("go").
-- 'Listen, our friend's teeth hurt.' Fedya picks a candid rhythm as the scene unfolds, putting "slushay" ("listen") alongside "druga" ("the friend") in a tight, everyday turn of phrase.
-- 'Right now he will examine your mouth for free.' Fedya offers an honest manner as the scene unfolds, weaving "seychas" ("now") together with "rot" ("mouth") just the way native speakers do.
-- 'Oh no, thank you very much.' Senya favors a calm angle in the conversation, weaving "bolshoye" ("big, very much") together with "spasibo" ("thank you") just the way native speakers do.
-- 'He is a veterinarian, and I am a cook.' Senya favors a steady mood in this beat, joining "veterinar" ("veterinarian") to "povar" ("chef, cook") so every word pulls its weight.
-- 'And why are you so very nervous?' Lyova inquires decisively to keep things clear, putting "pochemu" ("why") alongside "silno" ("strongly, much") in a tight, everyday turn of phrase.
-- 'Maybe nothing hurts you at all?' Lyova checks firmly in the scene, leaning on "mozhet" ("can") before closing the thought with "bolit" ("hurts, aches").
-- 'What do you mean it does not hurt?' Senya wonders bluntly as they speak, building the phrase around "kak" ("how") and "bolit" ("hurts, aches") for a crisp, natural delivery.
-- 'Honestly, this is not mine at all.' Senya establishes a calm direction toward Fedya, using "chestnoye" (from "chestnyy", "honest") alongside "slovo" ("word") to shape the meaning.
-- 'I swear, they simply framed me.' Senya chooses an earnest bearing without hesitation, putting "klyanus" ("I swear") alongside "prosto" ("just") in a tight, everyday turn of phrase.
+- 'Lyova, may I go home a bit earlier today?' Senya makes the comeback briskly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'My tooth hurts, I really cannot stand it.' Senya opens up quietly toward Lyova, saying out loud what both of them already know.
+- 'Yes, of course, go home.' Lyova reaches for one direct touch at once: "konechno" means "of course", and it carries the main weight of what Lyova is saying.
+- 'Listen, our friend's teeth hurt.' Fedya holds firm firmly with a smile, so Senya knows he is not just making small talk.
+- 'Right now he will examine your mouth for free.' Fedya weighs in promptly without holding back, testing Lyova's reaction in the middle of the exchange.
+- 'Oh no, thank you very much.' Senya sharpens one colorful element with Lyova: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'He is a veterinarian, and I am a cook.' Senya directs the thought beside Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And why are you so very nervous?' Lyova presses eagerly while looking straight at Senya here.
+- 'Maybe nothing hurts you at all?' Lyova points to one familiar choice in earnest: "mozhet" means "can" (from "moch"), giving the line its exact edge.
+- 'What do you mean it does not hurt?' Senya puts this point to Lyova: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Honestly, this is not mine at all.' Senya cuts in pointedly with Fedya, leaving no doubt about where he stands.
+- 'I swear, they simply framed me.' Senya reaches for one memorable term right here: "podstavili" means "framed, set up" (from "podstavit"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I hid that I served time in prison.' The guest picks a steady direction at this moment, leaning on "skryl" ("hid, concealed") before closing the thought with "sidel" ("did time").
-- 'So my son got offended at me.' The guest shows a lively position in the conversation, joining "syn" ("son") to "obidelsya" ("got offended") so every word pulls its weight.
-- 'There was nothing really serious there.' The guest maintains a candid approach during the exchange, linking "tam" ("there"), "bylo" ("was"), and "sovsem" ("at all") in one brisk exchange.
-- 'I simply loved playing cards.' The guest adopts a frank position at once, putting "prosto" ("just") alongside "lyubil" ("loved") in a tight, everyday turn of phrase.
-- 'God gave me such a talent.' The guest picks a wry note right away, putting "dal" ("to give") alongside "bog" ("God") in a tight, everyday turn of phrase.
-- 'It is nothing terrible, you will make up soon.' Barinov takes an honest mood on the spot, putting "strashnogo" ("terrible, serious") alongside "skoro" ("soon") in a tight, everyday turn of phrase.
-- 'Excuse me, chef, Mikhail is raging over there right now.' Lyova shows a serious tack in front of Barinov, linking "prostite" ("excuse me"), "tam" ("there"), and "seychas" ("now") in one brisk exchange.
-- 'His important poker game fell through today.' Lyova sustains a grounded course as they talk, linking "segodnya" ("today"), "vazhnyy" ("important"), and "poker" ("poker") in one brisk exchange.
-- 'He wanted to play with a rich foreigner.' Lyova favors an emphatic tone on the spot, joining "khotel" ("wanted") to "igrat" ("to play") so every word pulls its weight.
-- 'I even know exactly with which one.' Barinov keeps a clear tack straight away, building the phrase around "tochno" ("definitely") and "znayu" ("know") for a crisp, natural delivery.
-- 'So now he is walking around getting angry.' Lyova offers a playful note in front of Barinov, building the phrase around "teper" ("now") and "khodit" ("walks") for a crisp, natural delivery.
-- 'It seems I can reconcile you with Kostya.' Barinov conveys a direct direction beside Lyova, pairing "kazhetsya" ("it seems, I think") with "mogu" ("can") to get the point across in plain spoken Russian.
+- 'I hid that I served time in prison.' The guest holds firm earnestly toward Barinov, to clear the air between them once and for all.
+- 'So my son got offended at me.' The guest focuses on one concrete element on cue: "obidelsya" means "got offended" (from "obidetsya"), giving the line its exact edge.
+- 'There was nothing really serious there.' The guest shares that point for Barinov: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'I simply loved playing cards.' The guest reacts frankly as things stand, steering the talk right where he wants it.
+- 'God gave me such a talent.' The guest chooses one key touch in earnest: "talant" means "talent", and it carries the main weight of what the guest is saying.
+- 'It is nothing terrible, you will make up soon.' Barinov picks this direct touch in reply: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.
+- 'Excuse me, chef, Mikhail is raging over there right now.' Lyova steps in briskly across the room, saying out loud what both of them already know.
+- 'His important poker game fell through today.' Lyova frames one classic term in reply: "vazhnyy" means "important", and it carries the main weight of what Lyova is saying.
+- 'He wanted to play with a rich foreigner.' Lyova speaks up earnestly in this moment, without trying to dress up how he really feels.
+- 'I even know exactly with which one.' Barinov counters decisively without holding back, saying out loud what both of them already know.
+- 'So now he is walking around getting angry.' Lyova points to one memorable choice on cue: "zlitsya" means "is angry", and it carries the main weight of what Lyova is saying.
+- 'It seems I can reconcile you with Kostya.' Barinov gives the reply for Lyova: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.

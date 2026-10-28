@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Believe me, it will be better this way!' Barinov maintains a calm note in the scene, putting "poverte" ("believe") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'It will be better if you stay in the back!' Senya brings a lively stance in the conversation, building the phrase around "luchshe" ("better") and "budet" ("will be") for a crisp, natural delivery.
-- 'Otherwise I will come out and kill all of you!' Barinov sets a sharp mood at once, putting "inache" ("otherwise") alongside "vyydu" ("I'll get out") in a tight, everyday turn of phrase.
-- 'Chef, you are not in your right mind!' Senya adopts a direct manner straight away, linking "neadekvatnyy" ("inappropriate") directly with "shef" ("Chef"), since Russian drops "is" and "are" in the present.
-- 'I am completely in my right mind!' Barinov brings a brisk mood as they talk, linking "adekvatnyy" ("reasonable") directly with "ya" ("I"), since Russian drops "is" and "are" in the present.
-- 'I need to go on a date!' Senya sets a warm note in their talk, linking "nuzhno" ("necessary"), "idti" ("to go"), and "svidaniye" ("date") in one brisk exchange.
-- 'Torture, Chef!' Senya brings a warm attitude straight away, weaving "popytka" ("attempt") together with "shef" ("Chef") just the way native speakers do.
-- 'I will show you torture!' Senya conveys a natural bearing as they talk, using "pokazhu" (from "pokazat", "will show") alongside "popytku" ("attempt, try") to shape the meaning.
-- 'I am going to kill Senya, damn it!' Barinov keeps a measured line in the conversation, weaving "ubyu" ("I'll kill") together with "rat" ("host, army") just the way native speakers do.
-- 'I want to kill Senya!' Barinov keeps an unhurried bearing at once, joining "khochu" ("want") to "ubivat" ("to kill") so every word pulls its weight.
-- 'What? Huh?' Barinov wonders earnestly from the start, leaning on "chto" ("what") as a compact, one-word response that needs no extra words.
-- 'Huh? What?' Senya challenges briskly as the beat lands, delivering "a" as a quick, idiomatic Russian response that keeps the exchange moving.
-- 'Huh? You scoundrels?' Barinov presses firmly in the scene, leaning on "podonki" ("scumbags") as a compact, one-word response that needs no extra words.
+- 'Believe me, it will be better this way!' Barinov delivers that line to Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'It will be better if you stay in the back!' Senya continues briskly to settle things, watching Barinov's face to see how the news lands.
+- 'Otherwise I will come out and kill all of you!' Barinov highlights one concrete piece right here: "inache" means "otherwise", and it carries the main weight of what Barinov is saying.
+- 'Chef, you are not in your right mind!' Senya states the thought calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I am completely in my right mind!' Barinov continues plainly toward Senya, letting the remark speak for itself.
+- 'I need to go on a date!' Senya features one clear piece in reply: "svidaniye" means "date", and it carries the main weight of what Senya is saying.
+- 'Torture, Chef!' Senya voices the reply to Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I will show you torture!' Senya fires back earnestly to settle things, watching Barinov's face to see how the news lands.
+- 'I am going to kill Senya, damn it!' Barinov favors one practical element in reply: "ubyu" means "I'll kill" (from "ubit"), giving the line its exact edge.
+- 'I want to kill Senya!' Barinov gives that thought for Senya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What? Huh?' Turning back with confidence, Barinov makes it clear that he means every single word.
+- 'Huh? What?' Senya aims this line toward Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Huh? You scoundrels?' Barinov phrases the remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.

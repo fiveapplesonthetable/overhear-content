@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'You deceived me in vain, Viktor Petrovich.' Opening with the word 'zrya' meaning pointless or for nothing, the official scolds the chef for trying to lie."),
-    (1, None, "'You should have confessed to everything right away.' inspector points out that coming clean from the very beginning would have been the right move."),
+    (1, None, "'You should have confessed to everything right away.' Standing sternly in the office, the inspector tells Barinov he should have come clean from the very start."),
     (2, None, "'Unfortunately, you will have to pay a fine.' Delivering the bad news, the officer announces that a financial penalty is completely unavoidable."),
     (3, None, "'We will send this young man home.' A stern promise is made to put the pastry cook on a plane back to his home country."),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, we brought you a delicious lunch.' Nastya chooses an easygoing view as the scene unfolds, anchoring the Russian line on "smotrite" ("look") and "vkusnyy" ("delicious") without extra filler.
-- 'Thank you very much, pleasant appetite to everyone.' Max presents a warm style toward Nastya, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.
-- 'Tell us, how are things with you?' Max inquires pointedly in their exchange, using "skazhite" (from "skazat", "tell") alongside "kak" ("how") to shape the meaning.
-- 'Everything is fine, our factory is working, everything is going well.' Kostya sets a calm direction in this beat, pairing "normalno" ("fine, OK") with "zavod" ("factory, plant") to get the point across in plain spoken Russian.
-- 'Alright, you eat, and we will head out now.' Nastya chooses a brisk tack in front of Kostya, using "kushayte" (from "kushat", "eat") alongside "seychas" ("now") to shape the meaning.
-- 'We still need to pick up the kids from school.' Nastya brings a warm tempo in the conversation, weaving "yeshchyo" ("more, still") together with "detey" ("children") just the way native speakers do.
-- 'The car does not just drive now, it flies!' Max conveys a direct position straight away, building the phrase around "mashina" ("a car") and "teper" ("now") for a crisp, natural delivery.
-- 'I should have thought earlier, Vika.' Max strikes a warm view in their talk, linking "ranshe" ("earlier, previously"), "nado" ("it is necessary"), and "bylo" ("was") in one brisk exchange.
-- 'At times we need to make a difficult decision.' Max picks a playful tempo right away, combining "poroy" ("at times, occasionally") and "nuzhno" ("necessary") so the key meaning lands right away.
-- 'A decision on which our fate will depend.' Max takes a steady rhythm for Nastya, building the phrase around "resheniye" ("decision") and "budet" ("will be") for a crisp, natural delivery.
-- 'To make a person happy, it is more right to let them go.' Max chooses an honest tack in the conversation, linking "sdelat" ("to do"), "cheloveka" ("a man, a person"), and "schastlivym" ("happy") in one brisk exchange.
-- 'Yes, that way it will be much better.' Max chooses a playful tone in this beat, combining "budet" ("will be") and "namnogo" ("much, far") so the key meaning lands right away.
+- 'Look, we brought you a delicious lunch.' Nastya emphasizes one telling choice in earnest: "vkusnyy" means "delicious", and it carries the main weight of what Nastya is saying.
+- 'Thank you very much, pleasant appetite to everyone.' Max follows up right away as things stand, refusing to let the moment slip past.
+- 'Tell us, how are things with you?' Max stresses one sharp touch at once: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
+- 'Everything is fine, our factory is working, everything is going well.' Kostya directs the reply at once: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Alright, you eat, and we will head out now.' Nastya responds pointedly with Kostya, refusing to let the moment slip past.
+- 'We still need to pick up the kids from school.' Nastya reaches for one vivid expression in reply: "yeshchyo" means "more, still", and it carries the main weight of what Nastya is saying.
+- 'The car does not just drive now, it flies!' Max shares this update plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I should have thought earlier, Vika.' Max replies steadily with Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'At times we need to make a difficult decision.' Max anchors this telling choice toward Kostya: "slozhnoye" means "complex" (from "slozhnyy"), giving the line its exact edge.
+- 'A decision on which our fate will depend.' Max speaks candidly as things stand, grounding the moment in plain reality.
+- 'To make a person happy, it is more right to let them go.' Max responds firmly during the talk, keeping the focus on what actually matters here.
+- 'Yes, that way it will be much better.' Max reaches for one direct element right here: "namnogo" means "much, far", and it carries the main weight of what Max is saying.

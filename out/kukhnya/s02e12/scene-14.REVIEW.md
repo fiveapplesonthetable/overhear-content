@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are glad to see you.' Vika adopts an emphatic tempo for Kostya, combining "rady" ("glad") and "videt" ("to see") so the key meaning lands right away.
-- 'Good evening.' Kostya keeps a playful direction straight away, anchoring the Russian line on "dobryy" ("good") and "vecher" ("evening") without extra filler.
-- 'Right this way. Give it a try.' Vika conveys a grounded position in the room, anchoring the Russian line on "prokhodite" ("come in") and "poprobuyte" ("try, taste") without extra filler.
-- 'Vika, I need to talk to you.' Kostya keeps an honest mood as the scene unfolds, leaning on "nado" ("it is necessary") before closing the thought with "pogovorit" ("to talk").
-- 'Get out of the dining room.' Max picks an emphatic bearing as the scene unfolds, combining "poshel" ("go, off you go") and "zala" ("hall, large room") so the key meaning lands right away.
-- 'I wanted to warn you.' Kostya chooses an honest attitude across the room, combining "khotel" ("wanted") and "predupredit" ("to warn") so the key meaning lands right away.
-- 'There is this guy here.' Vika adopts a warm angle across the room, joining "tut" ("here") to "paren" ("boyfriend") so every word pulls its weight.
-- 'He is lying.' Kostya shares an honest course at this moment, using "vret" (from "vrat", "is lying") alongside "on" ("he") to shape the meaning.
-- 'Are you talking about yourself?' Vika prompts boldly toward Kostya here, linking "rasskazyvayesh" ("tell"), "ty" ("you"), and "pro" ("about") in one brisk exchange.
-- 'And what business is it of yours?' Kostya quizzes wryly across the room, joining "delo" ("matter") to "tebe" ("for you, to you") so every word pulls its weight.
-- 'Well, I am worried about you.' Vika displays a brisk direction in the room, putting "perezhivayu" ("worry") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
-- 'And who are you to me?' Kostya quizzes evenly without hesitation, weaving "ty" ("you") together with "mne" ("to me") just the way native speakers do.
-- 'None of your business.' Vika shares a sharp tack in the room, building the phrase around "delo" ("matter") and "ne" ("not") for a crisp, natural delivery.
+- 'We are glad to see you.' Vika puts the thought frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Good evening.' Kostya counters dryly with a nod, letting the remark speak for itself.
+- 'Right this way. Give it a try.' Vika underscores one memorable term for Kostya: "prokhodite" means "come in" (from "prokhodit"), giving the line its exact edge.
+- 'Vika, I need to talk to you.' Kostya states this answer frankly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Get out of the dining room.' Max holds firm firmly without holding back, so Kostya knows he is not just making small talk.
+- 'I wanted to warn you.' Kostya anchors one vivid touch with Vika: "predupredit" means "to warn", and it carries the main weight of what Kostya is saying.
+- 'There is this guy here.' Vika aims this answer to Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He is lying.' Kostya opens up right away with a smile, to clear the air between them once and for all.
+- 'Are you talking about yourself?' Vika stresses this vivid expression right here: "rasskazyvayesh" means "tell" (from "rasskazyvat"), giving the line its exact edge.
+- 'And what business is it of yours?' Kostya hands over this statement on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, I am worried about you.' Vika pushes back candidly with Kostya, making her position completely clear.
+- 'And who are you to me?' Kostya offers that answer briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'None of your business.' Vika shares that answer beside Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

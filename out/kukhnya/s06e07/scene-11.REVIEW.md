@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He simply does not want to complain to you.' Ainura brings an emphatic line for Barinov, combining the softening word "prosto" ("simply, just") with "zhalovatsya" ("complain") to give the line its natural spoken rhythm.
-- 'He would have made a very good husband.' Ainura strikes a serious mood in the conversation, weaving "vyshel" ("stepped out") together with "ochen" ("very much") just the way native speakers do.
-- 'It is a great pity that he will die soon.' Ainura maintains a firm approach in front of Barinov, combining "ochen" ("very much") and "zhalko" ("feel sorry for") so the key meaning lands right away.
-- 'Listen to my good advice for you right now.' Ainura shows a candid mood across the room, pairing "seychas" ("now") with "poslushay" ("listen") so the "-sya" ending carries the action.
-- 'Later on it will be much harder for you.' Ainura holds a clear tone for Barinov, building the phrase around "potom" ("then") and "budet" ("will be") for a crisp, natural delivery.
-- 'Vitya, I decided to thank chief doctor Anya.' Elena picks a wry view in the room, anchoring the Russian line on "reshila" ("decided") and "glavvracha" ("chief doctor") without extra filler.
-- 'She and her husband can have lunch at your place.' Elena holds a thoughtful bearing in front of Ainura, anchoring the Russian line on "muzhem" ("husband") and "mogut" ("can") without extra filler.
-- 'Will you feed them something delicious today?' Elena questions promptly during the talk, combining "pokormish" ("will feed") and "segodnya" ("today") so the key meaning lands right away.
-- 'Of course, fine, let them come.' Barinov picks a pointed style with Ainura, pairing "konechno" ("of course") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
-- 'Only I will not be able to greet them myself.' Barinov holds an emphatic manner in their talk, leaning on "tolko" ("only") before closing the thought with "vstretit" ("to meet").
-- 'I need to leave urgently in an hour.' Barinov favors a grounded view at once, anchoring the Russian line on "chas" ("hour") and "nuzhno" ("necessary") without extra filler.
-- 'Go greet Anya, they have already arrived!' Elena chooses an emphatic tempo during the exchange, pairing "idi" ("go") with "vstrechay" ("to meet, to welcome") to get the point across in plain spoken Russian.
+- 'He simply does not want to complain to you.' Ainura lays out that line in earnest: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'He would have made a very good husband.' Ainura replies quietly in their talk, before Elena can change the subject.
+- 'It is a great pity that he will die soon.' Ainura picks one loaded piece right here: "zhalko" means "feel sorry for", and it carries the main weight of what Ainura is saying.
+- 'Listen to my good advice for you right now.' Ainura grounds one classic word toward Elena: "poslushay" means "listen" (from "poslushat"), giving the line its exact edge.
+- 'Later on it will be much harder for you.' Ainura proceeds evenly across the room, so Barinov knows she is not just making small talk.
+- 'Vitya, I decided to thank chief doctor Anya.' Elena reaches for one clear term right here: "glavvracha" means "chief doctor" (from "glavvrach"), giving the line its exact edge.
+- 'She and her husband can have lunch at your place.' Elena drops this statement calmly now: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Will you feed them something delicious today?' Elena inquires calmly while looking straight at Barinov here.
+- 'Of course, fine, let them come.' Hear how Barinov speaks to Ainura in earnest — the Russian word "prikhodyat" ("come", built from "prikhodit") does the heavy lifting.
+- 'Only I will not be able to greet them myself.' Barinov proceeds openly without a pause, keeping the focus on what actually matters here.
+- 'I need to leave urgently in an hour.' Barinov speaks up lightly with a sigh, saying out loud what both of them already know.
+- 'Go greet Anya, they have already arrived!' Elena leans on one familiar term for Barinov: "vstrechay" means "to meet, to welcome" (from "vstrechat"), giving the line its exact edge.

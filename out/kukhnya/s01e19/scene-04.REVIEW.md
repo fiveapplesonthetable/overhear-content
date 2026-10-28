@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Oh, hi, Vilyash.' Nagiyev casually greets a passing waitress, entirely butchering her real name in the process.
 - 'I am Nastya, actually.' Nastya awkwardly corrects him, pointing out her actual name while trying not to offend her boss.
 - 'She must be new.' Nagiyev brushes off his mistake by assuming she was just hired, skipping the verb 'to be' entirely.
-- 'Well, let' Nagiyev smoothly moves the tour along, eager to show off more of the dining room.
+- 'Well, let's keep going.' Nagiyev smoothly moves the tour along, eager to show off more of the dining room.
 - 'Make us two coffees.' Nagiyev barks an order for drinks, acting every bit the demanding owner in front of his friend.
 - 'This is Viktoria Sergeyevna.' Nagiyev introduces his art director formally, using her patronymic to show respect.
 - 'The art director of our restaurant.' Nagiyev proudly states her impressive title, showcasing his top-level staff to his guest.

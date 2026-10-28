@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And do you remember how the pistol at the duel suddenly became real?' Mikhail questions plainly beside Katya, anchoring the Russian line on "pomnish" ("do you remember") and "kak" ("how") without extra filler.
-- 'And your big problems with the prefect and other troubles?' Mikhail wonders bluntly to keep things clear, building the phrase around "bolshiye" ("big, serious") and "problemy" ("problems") for a crisp, natural delivery.
-- 'All your troubles brought me immense pleasure.' Mikhail favors a natural position toward Katya, weaving "nepriyatnosti" ("troubles") together with "dostavili" ("to deliver") just the way native speakers do.
-- 'Vitya, I will not hurt you all at once.' Mikhail picks an unhurried mood as the scene unfolds, combining "budu" ("will be") and "delat" ("do") so the key meaning lands right away.
-- 'I will try to stretch out this pleasure of mine for longer.' Mikhail sustains a playful tempo with Katya, building the phrase around "postarayus" ("to try") and "podolshe" ("longer") for a crisp, natural delivery.
-- 'Lyova, I thought it over here, come home today together with Gulya.' Katya displays a lively posture toward Nikita, weaving "tut" ("here") together with "podumala" ("thought") just the way native speakers do.
-- 'Live peacefully at our home all together now.' Nikita brings a direct manner during the exchange, building the phrase around "zhivite" ("to live") and "teper" ("now") for a crisp, natural delivery.
-- 'Nikita, what beautiful flowers, thank you very much.' Katya conveys an earnest course in their talk, joining "krasivyye" ("beautiful") to "tsvety" ("the flowers") so every word pulls its weight.
-- 'Tell me, are we celebrating something important this evening?' Katya prompts dryly as the talk turns, anchoring the Russian line on "skazhi" ("say") and "segodnya" ("today") without extra filler.
-- 'You could say that, listen to me carefully, Katya.' Nikita takes a resolute tempo toward Mikhail, linking "mozhno" ("may, can"), "skazat" ("tell"), and "poslushay" ("listen") in one brisk exchange.
-- 'I love you and want you to become my wife.' Nikita takes a candid mood during the exchange, building the phrase around "lyublyu" ("love") and "khochu" ("want") for a crisp, natural delivery.
-- 'Katya, tell me honestly, do you agree to marry me?' Nikita inquires warmly without a pause, combining "skazhi" ("say") and "chestno" ("honestly") so the key meaning lands right away.
-- 'Nikita, this is so unexpected, I need to think about it.' Katya offers an easygoing bearing as they talk, linking "neozhidanno" ("unexpected"), "nado" ("it is necessary"), and "podumat" ("to think") in one brisk exchange.
+- 'And do you remember how the pistol at the duel suddenly became real?' Mikhail delivers the comment before Katya: putting the question word "kak" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'And your big problems with the prefect and other troubles?' Mikhail inquires deadpan why things suddenly took this turn between them.
+- 'All your troubles brought me immense pleasure.' Mikhail underscores one loaded term right here: "nepriyatnosti" means "troubles" (from "nepriyatnost"), giving the line its exact edge.
+- 'Vitya, I will not hurt you all at once.' Mikhail chooses this clear element on cue: "bolno" means "it hurts", and it carries the main weight of what Mikhail is saying.
+- 'I will try to stretch out this pleasure of mine for longer.' Mikhail stands firm quietly as they talk, testing Katya's reaction in the middle of the exchange.
+- 'Lyova, I thought it over here, come home today together with Gulya.' Katya spotlights this key touch with Nikita: "podumala" means "thought" (from "podumat"), giving the line its exact edge.
+- 'Live peacefully at our home all together now.' Nikita phrases this statement beside Katya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Nikita, what beautiful flowers, thank you very much.' Katya fires back right away as things stand, testing Nikita's reaction in the middle of the exchange.
+- 'Tell me, are we celebrating something important this evening?' Katya frames this sharp element with Mikhail: "vazhnoye" means "important" (from "vazhnyy"), giving the line its exact edge.
+- 'You could say that, listen to me carefully, Katya.' Nikita offers that thought on cue: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'I love you and want you to become my wife.' Nikita speaks calmly without a pause, grounding the moment in plain reality.
+- 'Katya, tell me honestly, do you agree to marry me?' Nikita reaches for one concrete term in earnest: "soglasna" means "agree" (from "soglasnyy"), giving the line its exact edge.
+- 'Nikita, this is so unexpected, I need to think about it.' Katya offers the reply without fuss: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".

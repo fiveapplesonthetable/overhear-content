@@ -32,7 +32,7 @@ STORY = [
 WALK = [
     (0, None, "'This is my loofah, and this one is Kostya's.' Nastya attempts to establish some boundaries in the shared bathroom by clearly labeling their personal items."),
     (1, None, "'Hey, guys, let us go to the cinema?' Max busts into the room with casual energy, throwing out a spontaneous invitation to hang out."),
-    (2, None, "'Max, we have been sleeping for a long time.' Waking up groggy, the speaker tries to explain that they were already in the middle of resting."),
+    (2, None, "'Max, we have been sleeping for a long time.' Waking up groggy in the dark bedroom, Kostya reminds Max that they have been asleep for hours."),
     (3, None, "'Yes. More precisely, we were sleeping.' She sharply corrects her boyfriend's phrasing, making it clear they were interrupted."),
     (4, None, "'Well, let us go later together.' He is unfazed by their annoyance, simply suggesting to push the plan back to a different time."),
     (5, None, "'You see that we are resting.' Pointing out the obvious, Kostya tries to make their clueless friend understand they want to be left alone."),

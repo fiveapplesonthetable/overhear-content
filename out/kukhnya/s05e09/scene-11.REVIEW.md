@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you break something?' Vika questions naturally toward Kostya here, leaning on "razbil" ("wrecked, crashed") before closing the thought with "ty" ("you").
-- 'Me? No, I did not break anything.' Kostya wonders warmly in their exchange, using "razbival" (from "razbivat", "broke, smashed") alongside "ya" ("I") to shape the meaning.
-- 'Nobody saw a thing at all. Right, Max?' Kostya checks openly in their exchange, combining "voobshche" ("at all") and "videl" ("saw, have seen") so the key meaning lands right away.
-- 'Kostyan, sorry. I promised Vika not to lie.' Max shares a pointed tack as they talk, anchoring the Russian line on "izvini" ("sorry, excuse me") and "obeshchal" ("promised") without extra filler.
-- 'That is not true.' Max maintains a calm posture in their talk, pairing "nepravda" ("untrue, a lie") with "eto" ("this") to get the point across in plain spoken Russian.
-- 'There was cognac there, and it was cheap.' Max adopts a firm view toward Vika, leaning on "tam" ("there") before closing the thought with "byl" ("was").
-- 'Vika, listen, I really have changed.' Max picks a brisk approach at once, linking "slushay" ("listen"), "pravda" ("honestly"), and "izmenilsya" ("have changed") in one brisk exchange.
-- 'Let me help you, huh?' Max presses warmly as the beat lands, putting "davay" ("let's") alongside "pomogu" ("I'll help") in a tight, everyday turn of phrase.
-- 'Alright.' Vika presents a wry tack beside Kostya, putting all the weight on "ladno" ("all right") so the reply lands immediately.
-- 'Great! Then I will quickly run to change clothes.' Max displays a calm approach at once, combining "zdorovo" ("great, cool") and "togda" ("back then") so the key meaning lands right away.
-- 'Five minutes, and do not go anywhere, okay?' Max queries calmly from the start, joining "minut" ("minutes") to "nikuda" ("nowhere, anywhere") so every word pulls its weight.
-- 'Hey, who are you?' Max inquires frankly during the talk, pairing "ey" ("hey") with "ty" ("you") to get the point across in plain spoken Russian.
+- 'Did you break something?' Vika sends that line toward Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Me? No, I did not break anything.' Kostya questions straight out where this conversation is heading next.
+- 'Nobody saw a thing at all. Right, Max?' Kostya underscores one telling touch at once: "voobshche" means "at all", and it carries the main weight of what Kostya is saying.
+- 'Kostyan, sorry. I promised Vika not to lie.' Max directs that line on cue: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'That is not true.' Max chimes in earnestly as they talk, to clear the air between them once and for all.
+- 'There was cognac there, and it was cheap.' Max features this direct piece in earnest: "deshyovyy" means "cheap", and it carries the main weight of what Max is saying.
+- 'Vika, listen, I really have changed.' Max aims this answer without fuss: the "-sya" ending on "izmenilsya" ("have changed") turns the action inward or makes it happen between people naturally.
+- 'Let me help you, huh?' Max checks evenly whether Vika really thought this through.
+- 'Alright.' Vika states this line around Kostya: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kostya is on board.
+- 'Great! Then I will quickly run to change clothes.' Max directs that answer calmly now: the "-sya" ending on "pereodetsya" ("change clothes") turns the action inward or makes it happen between people naturally.
+- 'Five minutes, and do not go anywhere, okay?' Max tests openly where this conversation is heading next.
+- 'Hey, who are you?' Max sends that point facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

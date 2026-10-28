@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, may I have a drink with you?' Nikita inquires sharply as the beat lands, building the phrase around "mogu" ("can") and "vypit" ("to drink") for a crisp, natural delivery.
-- 'Let's drink to my mom and her wise advice.' Katya chooses a resolute rhythm without hesitation, combining the everyday invitation "davay" ("come on, let us") with "mamu" ("mother, mum") to give the line its natural spoken rhythm.
-- 'After all, you are nowhere without them, dismissed.' Katya shows an earnest course as the scene unfolds, joining "nikuda" ("nowhere, anywhere") to "svoboden" ("free") so every word pulls its weight.
-- 'Katya, hi.' Denis presents a sharp line in the scene, combining "katya" ("Katya") and "privet" ("hi") so the key meaning lands right away.
-- 'You want to have a drink with me too, right?' Katya probes lightly in the scene, weaving "tozhe" ("too") together with "vypit" ("to drink") just the way native speakers do.
-- 'To those who run away, will you drink?' Katya probes frankly across the room, joining "sbegayut" ("run away") to "vypyesh" ("will you drink") so every word pulls its weight.
-- 'No, I will not drink to that.' Denis chooses an earnest tack straight away, putting "budu" ("will be") alongside "net" ("no") in a tight, everyday turn of phrase.
-- 'Well I will drink, you are very good at that.' Katya sets an emphatic attitude in the scene, combining "vypyu" ("drink") and "ochen" ("very much") so the key meaning lands right away.
-- 'She is right, I am at fault.' Denis shows a resolute stance as they talk, anchoring the Russian line on "prava" ("right, correct") and "vinovat" ("at fault, guilty") without extra filler.
-- 'That is no reason to stay offended for so long.' Nikita shares a frank style with Katya, putting "povod" ("reason, occasion") alongside "dolgo" ("for a long time") in a tight, everyday turn of phrase.
-- 'I do not understand, does she work here with us?' Denis inquires sharply for Katya's benefit, leaning on "ponyal" ("understood") before closing the thought with "rabotayet" ("works").
-- 'Mine works here too.' Nikita establishes a resolute tone in this beat, pairing "tozhe" ("too") with "tut" ("here") to get the point across in plain spoken Russian.
+- 'Katya, may I have a drink with you?' Nikita uses this key element right here: "vypit" means "to drink", and it carries the main weight of what Nikita is saying.
+- 'Let's drink to my mom and her wise advice.' Katya frames this warning before Nikita: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'After all, you are nowhere without them, dismissed.' Katya steps in right away without holding back, leaving no doubt about where she stands.
+- 'Katya, hi.' Denis aims the reply with candor: opening with the casual greeting "privet" ("hi") signals right away that Denis and Nikita are on familiar terms.
+- 'You want to have a drink with me too, right?' Katya offers that point for Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'To those who run away, will you drink?' Katya wonders deadpan where this conversation is heading next.
+- 'No, I will not drink to that.' Denis responds at once as things stand, keeping the focus on what actually matters here.
+- 'Well I will drink, you are very good at that.' Katya voices that line before Nikita: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'She is right, I am at fault.' Denis steps in steadily as they talk, making his position completely clear.
+- 'That is no reason to stay offended for so long.' Nikita highlights one classic word at once: "obizhatsya" means "feel offended", and it carries the main weight of what Nikita is saying.
+- 'I do not understand, does she work here with us?' Denis sends this statement right away: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Mine works here too.' Nikita cuts in steadily in their talk, testing Katya's reaction in the middle of the exchange.

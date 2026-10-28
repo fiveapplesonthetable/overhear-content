@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This dish is simply utterly divine!' The inspector chooses a natural stance as the scene unfolds, joining "blyudo" ("dish") to "prosto" ("just") so every word pulls its weight.
-- 'Consider the star in your pocket.' The inspector projects a serious tone in the room, building the phrase around "schitayte" ("to consider") and "zvezda" ("a star") for a crisp, natural delivery.
-- 'What is happening, call the police quickly!' Denis adopts an earnest course as they talk, building the phrase around "proiskhodit" ("is going on") and "bystreye" ("faster") for a crisp, natural delivery.
-- 'I would not do that in your place.' Denis brings a natural tack during the exchange, anchoring the Russian line on "stal" ("to become") and "delat" ("do") without extra filler.
-- 'Everyone stand against the wall quickly!' Denis maintains a measured position at once, pairing "bystro" ("quickly") with "vstali" ("stood still") to get the point across in plain spoken Russian.
-- 'And what should we do with this chef?' Denis prompts boldly from the start, anchoring the Russian line on "povarom" ("as a cook") and "delat" ("do") without extra filler.
-- 'Let the disabled man sit quietly in his chair.' Denis keeps a direct direction in front of Barinov, anchoring the Russian line on "invalid" ("disabled person") and "tikho" ("easy, quiet") without extra filler.
-- 'Look how many people you brought trouble to.' Denis projects a steady rhythm straight away, building the phrase around "posmotri" ("look") and "skolkim" ("to how many") for a crisp, natural delivery.
-- 'Hey, do not touch my daughter!' Barinov sets a grounded tack straight away, pairing "trogay" ("touch") with "doch" ("daughter") to get the point across in plain spoken Russian.
-- 'Right now we are taking these two.' Denis chooses a grounded attitude toward the inspector, pairing "seychas" ("now") with "zabirayem" ("we are taking") to get the point across in plain spoken Russian.
-- 'We are leaving the restaurant quickly.' Denis establishes a clear note toward Barinov, leaning on "bystro" ("quickly") before closing the thought with "ukhodim" ("are leaving").
-- 'You sit quietly and do not make noise.' Denis projects a serious attitude at this moment, joining "sidite" ("sit, stay seated") to "tikho" ("easy, quiet") so every word pulls its weight.
+- 'This dish is simply utterly divine!' The inspector centers one pointed expression with Barinov: "bozhestvenno" means "divinely", and it carries the main weight of what the inspector is saying.
+- 'Consider the star in your pocket.' The inspector delivers the remark calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'What is happening, call the police quickly!' Denis reacts decisively beside Barinov, so Barinov knows he is not just making small talk.
+- 'I would not do that in your place.' Denis emphasizes one pointed detail at once: "stal" means "to become" (from "stat"), giving the line its exact edge.
+- 'Everyone stand against the wall quickly!' Denis chimes in quietly to settle things, without trying to dress up how he really feels.
+- 'And what should we do with this chef?' Denis wonders deadpan while looking straight at the inspector here.
+- 'Let the disabled man sit quietly in his chair.' Denis leans on one classic touch right here: "invalid" means "disabled person", and it carries the main weight of what Denis is saying.
+- 'Look how many people you brought trouble to.' Denis underscores one sharp detail in earnest: "problemy" means "problems" (from "problema"), giving the line its exact edge.
+- 'Hey, do not touch my daughter!' Barinov answers openly without a pause, to clear the air between them once and for all.
+- 'Right now we are taking these two.' Notice how Denis warns the inspector right away — the Russian word "zabirayem" ("we are taking", built from "zabirat") does the heavy lifting.
+- 'We are leaving the restaurant quickly.' Denis cuts in steadily during the talk, bringing things back to earth after the buildup.
+- 'You sit quietly and do not make noise.' Denis jumps in promptly facing the inspector, keeping the focus on what actually matters here.

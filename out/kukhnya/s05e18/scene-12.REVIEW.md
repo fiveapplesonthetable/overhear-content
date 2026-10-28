@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here again?' Eleonora checks frankly on the spot, weaving "zdes" ("here") together with "snova" ("again") just the way native speakers do.
-- 'I have a business meeting here right now.' Denis picks a steady posture in the room, joining "tut" ("here") to "seychas" ("now") so every word pulls its weight.
-- 'Right here, behind my car?' Eleonora prompts earnestly with Denis now, combining "pryamo" ("right, just") and "tut" ("here") so the key meaning lands right away.
-- 'Yes, I am waiting for someone.' Denis conveys a grounded direction during the exchange, linking "cheloveka" ("a man, a person"), "zhdu" ("I wait, expect"), and "odnogo" ("alone, on his own") in one brisk exchange.
-- 'Listen to me very carefully right now.' Eleonora strikes a resolute tone in the conversation, pairing "poslushay" ("listen") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'I forbid you to come near Katya.' Eleonora establishes a sharp tone in this beat, linking "zapreshchayu" ("forbid"), "priblizhatsya" ("to approach"), and "ya" ("I") in one brisk exchange.
-- 'She has forgotten you, do not dare ruin everything.' Eleonora sustains a warm footing toward Denis, linking "zabyla" ("forgot"), "smey" ("to dare"), and "isportit" ("to ruin") in one brisk exchange.
-- 'Denis, wait, where are you going?' Nikita questions candidly to Eleonora here, combining "podozhdi" ("wait") and "kuda" ("where to") so the key meaning lands right away.
-- 'Listen, sorry, it will not work out today.' Denis takes a playful posture in the scene, pairing "poluchitsya" ("will come out") with "slushay" ("listen") so the "-sya" ending carries the action.
-- 'An urgent matter simply came up for me.' Denis conveys a grounded tone at this moment, using the everyday "u menya" ("by me") alongside "prosto" ("just") to show what belongs to the speaker.
-- 'Wait, I will not have time to find anyone else.' Nikita takes a grounded course at once, linking "podozhdi" ("wait"), "uzhe" ("already, now"), and "uspeyu" ("will manage") in one brisk exchange.
-- 'You promised, do not let me down.' Nikita adopts a calm mood with Eleonora, combining "obeshchal" ("promised") and "podstavlyay" ("let down") so the key meaning lands right away.
-- 'Here, take it, the whole amount is right here.' Nikita sustains a sharp footing for Denis, weaving "derzhi" ("here you go") together with "tut" ("here") just the way native speakers do.
+- 'What are you doing here again?' Eleonora checks candidly while looking straight at Denis here.
+- 'I have a business meeting here right now.' Denis centers one memorable word on cue: "delovaya" means "business, businesslike" (from "delovoy"), giving the line its exact edge.
+- 'Right here, behind my car?' Eleonora shapes the reaction with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'Yes, I am waiting for someone.' Denis fires back frankly toward Nikita, testing Nikita's reaction in the middle of the exchange.
+- 'Listen to me very carefully right now.' Eleonora underscores this telling piece with Denis: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Eleonora is saying.
+- 'I forbid you to come near Katya.' Eleonora puts this update at once: the "-sya" ending on "priblizhatsya" ("to approach") turns the action inward or makes it happen between people naturally.
+- 'She has forgotten you, do not dare ruin everything.' Eleonora stands firm candidly as things stand, saying out loud what both of them already know.
+- 'Denis, wait, where are you going?' Nikita picks one pointed word right here: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Listen, sorry, it will not work out today.' Denis sends that remark before Eleonora: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'An urgent matter simply came up for me.' Denis fires back earnestly in this moment, to clear the air between them once and for all.
+- 'Wait, I will not have time to find anyone else.' Nikita frames one telling term on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'You promised, do not let me down.' Nikita spotlights this direct piece in earnest: "podstavlyay" means "let down" (from "podstavlyat"), giving the line its exact edge.
+- 'Here, take it, the whole amount is right here.' Nikita stands firm warmly to settle things, refusing to let the moment slip past.

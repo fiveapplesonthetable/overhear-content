@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, vegetables to the storage room, meat into the fridge.' Max maintains an honest tone in front of Barinov, anchoring the Russian line on "ovoshchi" ("vegetables") and "sklad" ("warehouse") without extra filler.
-- 'What, do you think they cannot figure that out themselves?' Barinov tests briskly in the scene, combining "dumayesh" ("think") and "dogadayutsya" ("to guess, to realise") so the key meaning lands right away.
-- 'I will go get busy with something useful, maybe cook something.' Lyova shares a steady tone without hesitation, anchoring the Russian line on "poydu" ("go") and "zaymus" ("will attend to") without extra filler.
-- 'Yeah, go right ahead.' Max chooses a serious line as the scene unfolds, anchoring the Russian line on "davay" ("let's") and "aga" ("yeah, right") without extra filler.
-- 'And here are the snails.' Barinov brings a wry rhythm at this moment, building the phrase around "yeshche" ("still") and "ulitki" ("snail, escargot") for a crisp, natural delivery.
-- 'No, they are simply sleeping.' Lyova sustains a resolute direction with Max, building the phrase around "prosto" ("just") and "spyat" ("have been sleeping") for a crisp, natural delivery.
-- 'The finest ones in the city.' Max offers a clear direction for Barinov, leaning on "luchshiye" ("best") before closing the thought with "gorode" ("town").
-- 'Why do we need so many spoiled snails?' Barinov probes boldly as the beat lands, joining "zachem" ("what for") to "stolko" ("so many") so every word pulls its weight.
-- 'Well, take a look for yourself.' Lyova establishes a serious rhythm in their talk, combining "posmotri" ("look") and "nu" ("oh, come on") so the key meaning lands right away.
-- 'Just look at the state of this one.' Max favors a measured line right away, building the phrase around "vid" ("view") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'It is obviously dead and spoiled.' Barinov strikes a serious footing without hesitation, anchoring the Russian line on "yavno" ("clearly") and "propavshaya" ("missing, lost") without extra filler.
-- 'Why did you say they are not the freshest?' Lyova prompts steadily in the room, leaning on "rasskazal" ("told") before closing the thought with "samyy" ("the most").
-- 'Man, you really are something, Oguzok.' Barinov keeps a frank rhythm in this beat, using "dayesh" (from "davat", "give") alongside "nu" ("oh, come on") to shape the meaning.
+- 'Alright, vegetables to the storage room, meat into the fridge.' Max chimes in dryly to settle things, leaving no doubt about where he stands.
+- 'What, do you think they cannot figure that out themselves?' Barinov anchors one pointed choice on cue: "dogadayutsya" means "to guess, to realise" (from "dogadatsya"), giving the line its exact edge.
+- 'I will go get busy with something useful, maybe cook something.' Lyova opens up right away with a sigh, grounding the moment in plain reality.
+- 'Yeah, go right ahead.' Max responds sharply with a sigh, so Lyova knows he is not just making small talk.
+- 'And here are the snails.' Barinov emphasizes one practical choice right here: "ulitki" means "snail, escargot" (from "ulitka"), giving the line its exact edge.
+- 'No, they are simply sleeping.' Lyova aims the remark with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'The finest ones in the city.' Max weighs in candidly without holding back, letting the remark speak for itself.
+- 'Why do we need so many spoiled snails?' Barinov stresses this clear element on cue: "propavshikh" means "missing, lost" (from "propavshiy"), giving the line its exact edge.
+- 'Well, take a look for yourself.' Lyova offers this warning beside Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Just look at the state of this one.' Max speaks up dryly to be clear, saying out loud what both of them already know.
+- 'It is obviously dead and spoiled.' Barinov stresses one sharp detail at once: "propavshaya" means "missing, lost" (from "propavshiy"), giving the line its exact edge.
+- 'Why did you say they are not the freshest?' Lyova directs that reply on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Man, you really are something, Oguzok.' Barinov counters briskly in their talk, to clear the air between them once and for all.

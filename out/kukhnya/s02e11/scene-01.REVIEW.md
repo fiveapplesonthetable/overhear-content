@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Nastenka.' Kostya presents a pointed course across the room, pairing "spasibo" ("thank you") with "tebe" ("for you, to you") to get the point across in plain spoken Russian.
-- 'I did not find them.' Nastya sustains a pointed tone in the scene, weaving "nashla" ("found, did you find") together with "ya" ("I") just the way native speakers do.
-- 'By the way, that is a cool color.' Kostya sets a resolute footing for Nastya, anchoring the Russian line on "kstati" ("by the way") and "prikolnyy" ("cool") without extra filler.
-- 'Wait, where is the trash can?' Nastya questions lightly to keep things clear, joining "gde" ("where") to "musorka" ("trash bin") so every word pulls its weight.
-- 'Right where it belongs.' Kostya sets a serious approach in their talk, combining "gde" ("where") and "dolzhna" ("should, must") so the key meaning lands right away.
-- 'Listen, stop imposing your own rules around here.' Nastya picks an easygoing footing at this moment, anchoring the Russian line on "slushay" ("listen") and "khvatit" ("enough") without extra filler.
-- 'You know what?' Kostya queries honestly to keep things clear, leaning on "znayesh" ("know") before closing the thought with "chto" ("what").
-- 'Do not worry, I already poisoned them.' Nastya projects a candid position for Kostya, joining "perezhivay" ("worry") to "uzhe" ("already, now") so every word pulls its weight.
-- 'And what about you.' Kostya shares a clear course in the conversation, using "ty" ("you") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Of course, I knew that turtles are slow.' Nastya conveys a sharp style straight away, combining "konechno" ("of course") and "znal" ("knew") so the key meaning lands right away.
-- 'I think our Pashka looks completely sluggish.' Kostya strikes a measured angle in the room, leaning on "po-moyemu" ("in my opinion") before closing the thought with "sovsem" ("at all").
-- 'Wait a second, Kostya.' Nastya adopts a playful footing in their talk, putting "reshet" ("to decide, to solve") alongside "kostya" ("Kostya") in a tight, everyday turn of phrase.
-- 'Do not touch him.' Kostya shows a sharp note beside Nastya, putting "trogay" ("touch") alongside "ne" ("not") in a tight, everyday turn of phrase.
+- 'Thank you, Nastenka.' Kostya anchors this vivid detail on cue: "spasibo" means "thank you", and it carries the main weight of what Kostya is saying.
+- 'I did not find them.' Nastya aims that reply at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'By the way, that is a cool color.' Kostya answers right away with Nastya, without trying to dress up how he really feels.
+- 'Wait, where is the trash can?' Nastya underscores one practical piece at once: "musorka" means "trash bin", and it carries the main weight of what Nastya is saying.
+- 'Right where it belongs.' Kostya delivers the reply without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Listen, stop imposing your own rules around here.' Nastya holds firm at once with a nod, to clear the air between them once and for all.
+- 'You know what?' Kostya focuses on this key piece in reply: "znayesh" means "know" (from "znat"), giving the line its exact edge.
+- 'Do not worry, I already poisoned them.' Nastya underscores one loaded detail in reply: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
+- 'And what about you.' Kostya opens up openly with a nod, shifting the whole mood of the room in a single beat.
+- 'Of course, I knew that turtles are slow.' Nastya stresses one concrete choice at once: "cherepakhi" means "turtle, tortoise" (from "cherepakha"), giving the line its exact edge.
+- 'I think our Pashka looks completely sluggish.' Kostya gives the remark at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Wait a second, Kostya.' Nastya reacts lightly as things stand, letting the remark speak for itself.
+- 'Do not touch him.' Kostya grounds this telling expression toward Nastya: "trogay" means "touch" (from "trogat"), giving the line its exact edge.

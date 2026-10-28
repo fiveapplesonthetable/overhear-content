@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, I will go, I need to pack for my trip already.' The guest sets a natural tack without hesitation, weaving "poydu" ("go") together with "uzhe" ("already, now") just the way native speakers do.
-- 'My plane for the north takes off very soon.' The guest conveys a steady note as they talk, using the everyday "u menya" ("by me") alongside "samolyot" ("plane") to show what belongs to the speaker.
-- 'Do not be sad, old friend, everything will be fine!' Barinov presents a candid angle beside Elena, combining "grusti" ("be sad") and "starik" ("old man") so the key meaning lands right away.
-- 'She probably still loves me a little bit after all.' The guest chooses a thoughtful footing in the scene, pairing "navernoye" ("probably") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
-- 'Forgive me, old friend, and take good care of her.' The guest picks a brisk tone as they talk, pairing "prosti" ("sorry, forgive me") with "starik" ("old man") to get the point across in plain spoken Russian.
-- 'Everyone knows that marriages are made in heaven.' Barinov sustains an honest stance on the spot, building the phrase around "izvestno" ("it is known") and "braki" ("marriages") for a crisp, natural delivery.
-- 'Even if it is already your fourth happy marriage!' Barinov presents a playful tempo as they talk, building the phrase around "uzhe" ("already, now") and "chetvyortyy" ("fourth") for a crisp, natural delivery.
-- 'Well then, Vitya, did you manage to submit the documents?' Elena checks evenly without holding back, linking "udalos" ("succeeded"), "podat" ("to submit, file"), and "dokumenty" ("the documents") in one brisk exchange.
-- 'Yes, today I finally submitted our application to the registry office!' Barinov holds a resolute tack in the room, building the phrase around "segodnya" ("today") and "nakonets" ("at last, finally") for a crisp, natural delivery.
-- 'True, our turn will come only in three months.' Barinov shows a thoughtful course in the scene, joining "pravda" ("honestly") to "ochered" ("turn in the queue") so every word pulls its weight.
-- 'That is alright, three months will fly by very quickly.' Elena takes an honest angle straight away, using "strashnogo" (from "strashnyy", "terrible, serious") alongside "mesyatsa" ("months") to shape the meaning.
-- 'The main thing is to move together in the same direction!' Barinov establishes a measured stance in the room, linking "glavnoye" ("important"), "dvigatsya" ("to move"), and "vmeste" ("together") in one brisk exchange.
+- 'Alright, I will go, I need to pack for my trip already.' The guest frames the comment around Barinov: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'My plane for the north takes off very soon.' The guest fires back lightly with a smile, saying out loud what both of them already know.
+- 'Do not be sad, old friend, everything will be fine!' Barinov chooses one direct element at once: "starik" means "old man", and it carries the main weight of what Barinov is saying.
+- 'She probably still loves me a little bit after all.' The guest responds pointedly with a nod, refusing to let the moment slip past.
+- 'Forgive me, old friend, and take good care of her.' The guest holds firm promptly in this moment, refusing to let the moment slip past.
+- 'Everyone knows that marriages are made in heaven.' Barinov points to this sharp word in earnest: "zaklyuchayutsya" means "be concluded" (from "zaklyuchatsya"), giving the line its exact edge.
+- 'Even if it is already your fourth happy marriage!' Barinov sends the reply toward Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well then, Vitya, did you manage to submit the documents?' Elena challenges eagerly how the guest expects that to work in practice.
+- 'Yes, today I finally submitted our application to the registry office!' See how Barinov reassures Elena right here — the Russian word "zayavleniye" ("statement") gives the whole sentence its punch.
+- 'True, our turn will come only in three months.' Barinov steps in bluntly with a nod, keeping the focus on what actually matters here.
+- 'That is alright, three months will fly by very quickly.' Elena speaks candidly with a shrug, bringing things back to earth after the buildup.
+- 'The main thing is to move together in the same direction!' Barinov reaches for this vivid detail toward the guest: "napravlenii" means "referral slip" (from "napravleniye"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why were you asking about Denis if you are with Nikita?' Senya queries decisively in the room, putting "zachem" ("what for") alongside "denisa" ("denis") in a tight, everyday turn of phrase.
-- 'Listen, drink your red wine, it is healthy.' Katya maintains a grounded mood for Senya, anchoring the Russian line on "slushay" ("listen") and "pey" ("drink") without extra filler.
-- 'Denis just thinks that you will feel jealous.' Senya shows a steady course as they talk, linking "prosto" ("just"), "dumayet" ("thinks"), and "budesh" ("will") in one brisk exchange.
-- 'That is total nonsense, because I am here with Nikita.' Katya adopts an earnest view as the scene unfolds, weaving "polnyy" ("total, complete") together with "bred" ("nonsense") just the way native speakers do.
-- 'And let Denis think whatever he wants.' Katya maintains an earnest footing in the conversation, combining "dumayet" ("thinks") and "khochet" ("wants") so the key meaning lands right away.
-- 'I did not understand at all, what was that just now?' Denis inquires quietly without a pause, weaving "voobshche" ("at all") together with "ponyal" ("understood") just the way native speakers do.
-- 'Perhaps she really likes director Nikita very much.' Senya projects an honest manner in the conversation, weaving "vozmozhno" ("perhaps, possible") together with "deystvitelno" ("really, indeed") just the way native speakers do.
-- 'And in this story you are simply the third wheel.' Senya adopts an earnest view in this beat, linking "istorii" ("stories"), "prosto" ("just"), and "tretiy" ("the third") in one brisk exchange.
-- 'Right now we will quickly see who is the third wheel!' Denis conveys an earnest tempo beside Katya, leaning on "seychas" ("now") before closing the thought with "bystro" ("quickly").
-- 'Senya, come over to me and kiss me quickly!' Katya holds a grounded footing without hesitation, using "podoydi" (from "podoyti", "approach, go up") alongside "bystro" ("quickly") to shape the meaning.
-- 'Alright, friends, good night to everyone, I am going to sleep.' Denis chooses an honest footing during the exchange, pairing "druzya" ("friends") with "spokoynoy" ("good") to get the point across in plain spoken Russian.
-- 'Good night, be careful not to step on anyone in the dark!' Senya projects a warm tempo in their talk, using "spokoynoy" (from "spokoynyy", "good") alongside "nochi" ("night") to shape the meaning.
+- 'Why were you asking about Denis if you are with Nikita?' Senya centers this sharp expression with Denis: "sprashivala" means "to ask" (from "sprashivat"), giving the line its exact edge.
+- 'Listen, drink your red wine, it is healthy.' Katya chimes in candidly as things stand, bringing things back to earth after the buildup.
+- 'Denis just thinks that you will feel jealous.' Senya steps in evenly without any doubt, testing Denis's reaction in the middle of the exchange.
+- 'That is total nonsense, because I am here with Nikita.' Katya highlights this direct term on cue: "polnyy" means "total, complete", and it carries the main weight of what Katya is saying.
+- 'And let Denis think whatever he wants.' Katya chimes in bluntly facing Denis, saying out loud what both of them already know.
+- 'I did not understand at all, what was that just now?' Denis presses quietly in front of Senya without any preamble.
+- 'Perhaps she really likes director Nikita very much.' Senya stresses this sharp word with Denis: "deystvitelno" means "really, indeed", and it carries the main weight of what Senya is saying.
+- 'And in this story you are simply the third wheel.' Senya frames the comeback toward Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Right now we will quickly see who is the third wheel!' Denis fires back calmly with Katya, letting the remark speak for itself.
+- 'Senya, come over to me and kiss me quickly!' Katya focuses on this sharp element in reply: "potseluy" means "kiss" (from "potselovat"), giving the line its exact edge.
+- 'Alright, friends, good night to everyone, I am going to sleep.' Denis shapes that line at once: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Katya is on board.
+- 'Good night, be careful not to step on anyone in the dark!' Senya jumps in firmly beside Katya, so Katya knows he is not just making small talk.

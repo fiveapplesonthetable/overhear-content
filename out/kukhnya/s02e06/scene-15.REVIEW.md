@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have an idea.' Vika projects a clear manner toward Nagiyev, using "menya" ("me") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Get out of here.' Nagiyev keeps a brisk rhythm beside Vika, leaning on "idi" ("go") before closing the thought with "otsyuda" ("from here").
-- 'We should put the ring inside a pastry.' Vika favors a pointed stance with Nagiyev, putting "pirozhnoye" ("pastries, cakes") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'You remember how much she loved that pastry, right?' Nagiyev prompts openly to make the point, building the phrase around "pomnite" ("remember") and "kak" ("how") for a crisp, natural delivery.
-- 'We will hide the ring inside her pastry.' Vika strikes an honest mood for Nagiyev, building the phrase around "polozhim" ("will put") and "koltso" ("ring") for a crisp, natural delivery.
-- 'That is an excellent idea.' Nagiyev conveys a clear stance for Vika, building the phrase around "otlichnaya" ("excellent") and "ideya" ("idea") for a crisp, natural delivery.
-- 'Not Vika—Vitya.' Nagiyev offers an honest course right away, anchoring the Russian line on "vika" ("Vika") and "net" ("no") without extra filler.
-- 'The ring is under your personal responsibility.' Nagiyev establishes an easygoing manner in the conversation, combining "koltso" ("ring") and "otvetstvennost" ("responsibility") so the key meaning lands right away.
-- 'I beg you, be very careful with it.' Vika shares a wry style with Nagiyev, weaving "ochen" ("very much") together with "proshu" ("beg, ask") just the way native speakers do.
-- 'First of all, it is expensive, and second, I bought it on credit...' Nagiyev favors a pointed footing at once, linking "vo-pervykh" ("first of all"), "dorogoye" ("expensive"), and "vo-vtorykh" ("second") in one brisk exchange.
-- 'Do not worry about it.' Vika sustains an easygoing posture for Nagiyev, pairing "volnuysya" ("worry") with "da" ("yes") so the "-sya" ending carries the action.
-- 'Everything will be fine.' Nagiyev shows a frank mood right away, linking "budet" ("will be"), "poryadke" ("order"), and "vse" ("all") in one brisk exchange.
-- 'How are things going with you?' Vika checks bluntly from the start, anchoring the Russian line on "kak" ("how") and "dela" ("things, affairs") without extra filler.
+- 'I have an idea.' Vika jumps in evenly to be clear, watching Nagiyev's face to see how the news lands.
+- 'Get out of here.' Nagiyev favors one vivid word in reply: "otsyuda" means "from here", and it carries the main weight of what Nagiyev is saying.
+- 'We should put the ring inside a pastry.' Vika states that remark for Nagiyev: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'You remember how much she loved that pastry, right?' Nagiyev prompts straight out why things suddenly took this turn between them.
+- 'We will hide the ring inside her pastry.' Vika sharpens one classic element toward Nagiyev: "pirozhnoye" means "pastries, cakes", and it carries the main weight of what Vika is saying.
+- 'That is an excellent idea.' Nagiyev makes the remark beside Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Not Vika—Vitya.' Nagiyev weighs in pointedly across the room, steering the talk right where he wants it.
+- 'The ring is under your personal responsibility.' Nagiyev reaches for this vivid touch in earnest: "otvetstvennost" means "responsibility", and it carries the main weight of what Nagiyev is saying.
+- 'I beg you, be very careful with it.' Vika spotlights one telling term at once: "akkuratneye" means "more carefully" (from "akkuratno"), giving the line its exact edge.
+- 'First of all, it is expensive, and second, I bought it on credit...' Nagiyev speaks up plainly with a nod, leaving no doubt about where he stands.
+- 'Do not worry about it.' Vika grounds one direct element on cue: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
+- 'Everything will be fine.' Nagiyev aims the comment calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'How are things going with you?' Vika wonders briskly while looking straight at Nagiyev here.

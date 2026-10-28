@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And it is the exact same way with our restaurant.' Barinov maintains a measured line in the scene, leaning on "restoran" ("restaurant") before closing the thought with "vot" ("there, here").
-- 'No, I do not want to right now.' Vika takes a warm attitude at this moment, leaning on "seychas" ("now") before closing the thought with "khochu" ("want").
-- 'Then what do you want right now?' Kostya tests directly from the start, building the phrase around "seychas" ("now") and "khotite" ("want") for a crisp, natural delivery.
-- 'Goodness, you head chefs seem like such tough guys.' Barinov shares a brisk manner during the exchange, leaning on "krepkiye" ("strong") before closing the thought with "rebyata" ("the boys, the lads").
-- 'So why are you so silly sometimes?' Vika checks naturally with Barinov now, weaving "glupyye" ("silly, stupid") together with "chego" ("what") just the way native speakers do.
-- 'For someone, that moment arrives with a first kiss.' Kostya conveys a thoughtful approach at this moment, building the phrase around "nastupayet" ("to advance") and "pervym" ("first") for a crisp, natural delivery.
-- 'Like something from a flea market.' Barinov sets an easygoing rhythm in the scene, linking "kak" ("how"), "kitayskogo" ("Chinese"), and "rynka" ("market") in one brisk exchange.
-- 'No, I will write it down right now.' Vika favors an unhurried attitude in the room, weaving "seychas" ("now") together with "napishu" ("will write") just the way native speakers do.
-- 'You need the letter K.' Kostya picks a steady style straight away, weaving "nuzhno" ("necessary") together with "tebe" ("for you, to you") just the way native speakers do.
-- 'Dad, are you not ashamed of yourself?' Barinov asks sharply toward Vika here, linking "pap" ("Dad") directly with "stydno" ("shameful"), since Russian drops "is" and "are" in the present.
-- 'In that case, I am heading home.' Vika strikes a serious mood as the scene unfolds, combining "togda" ("back then") and "uyezzhayu" ("am leaving") so the key meaning lands right away.
-- 'Well, the animal may have been poor.' Kostya offers a lively attitude in front of Vika, joining "zhivotnoye" ("animal") to "mozhet" ("can") so every word pulls its weight.
-- 'That today is the day it will definitely happen.' Barinov holds an unhurried line during the exchange, building the phrase around "segodnya" ("today") and "obyazatelno" ("surely, without fail") for a crisp, natural delivery.
+- 'And it is the exact same way with our restaurant.' Barinov chimes in quietly in this moment, keeping the focus on what actually matters here.
+- 'No, I do not want to right now.' Vika uses one vivid piece on cue: "seychas" means "now", and it carries the main weight of what Vika is saying.
+- 'Then what do you want right now?' Kostya offers this point without fuss: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'Goodness, you head chefs seem like such tough guys.' Barinov opens up warmly without any doubt, to clear the air between them once and for all.
+- 'So why are you so silly sometimes?' Vika picks one key term at once: "glupyye" means "silly, stupid" (from "glupyy"), giving the line its exact edge.
+- 'For someone, that moment arrives with a first kiss.' Kostya fires back evenly with a smile, steering the talk right where he wants it.
+- 'Like something from a flea market.' Barinov answers wryly around Kostya, to clear the air between them once and for all.
+- 'No, I will write it down right now.' Vika stresses this key touch toward Kostya: "seychas" means "now", and it carries the main weight of what Vika is saying.
+- 'You need the letter K.' Kostya directs that remark plainly here: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Dad, are you not ashamed of yourself?' Barinov wonders wryly to see how Vika will answer on the spot.
+- 'In that case, I am heading home.' Vika underscores one telling element at once: "uyezzhayu" means "am leaving" (from "uyezzhat"), giving the line its exact edge.
+- 'Well, the animal may have been poor.' Kostya weighs in honestly on the spot, grounding the moment in plain reality.
+- 'That today is the day it will definitely happen.' Barinov proceeds firmly before Kostya, so Kostya knows he is not just making small talk.

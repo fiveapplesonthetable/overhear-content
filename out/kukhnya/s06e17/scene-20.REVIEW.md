@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lord, why are you punishing me?' Barinov checks decisively to make the point, joining "nakazyvayesh" ("you punish") to "gospodi" ("Good Lord") so every word pulls its weight.
-- 'No breathing, we are starting resuscitation.' The doctor adopts an honest mood on the spot, putting "dykhaniya" ("breath") alongside "nachinayem" ("are starting") in a tight, everyday turn of phrase.
-- 'Our Lyova jammed up again.' Barinov sustains a clear footing during the exchange, linking "opyat" ("again"), "zaklinil" ("jammed"), and "nas" ("us") in one brisk exchange.
-- 'Vitya, what kind of person are you?' The doctor tests evenly in this moment, anchoring the Russian line on "chelovek" ("a man, a person") and "vitya" ("Vitya") without extra filler.
-- 'You ruined the whole wedding with a funeral.' Barinov offers an easygoing bearing straight away, weaving "svadbu" ("wedding") together with "isportil" ("to spoil, ruin") just the way native speakers do.
-- 'Let us drink to our optimism.' Barinov presents an easygoing attitude in this beat, combining the everyday invitation "davay" ("come on, let us") with "vypyem" ("will drink") to give the line its natural spoken rhythm.
-- 'Viktor Petrovich is in a coma.' The doctor projects a thoughtful posture as they talk, building the phrase around "nakhoditsya" ("to be located") and "kome" ("coma") for a crisp, natural delivery.
-- 'His condition is stable but serious.' The doctor establishes a measured style beside Eleonora, anchoring the Russian line on "sostoyaniye" ("state") and "stabilno" ("stably") without extra filler.
-- 'Vitya, forgive me, please.' Eleonora chooses an easygoing angle straight away, putting "prosti" ("sorry, forgive me") alongside "vitya" ("Vitya") in a tight, everyday turn of phrase.
-- 'That inspector was not real.' Eleonora shows a sharp footing straight away, combining "inspektor" ("inspector") and "byl" ("was") so the key meaning lands right away.
-- 'I staged all of this myself.' Eleonora sets a measured tone with Barinov, pairing "podstroila" ("to set up") with "eto" ("this") to get the point across in plain spoken Russian.
-- 'Who could have known it would turn out like this.' Eleonora establishes a pointed note beside the doctor, leaning on "znal" ("knew") before closing the thought with "poluchitsya" ("will come out").
+- 'Lord, why are you punishing me?' Barinov makes that thought without pause: putting the question word "chto" right at the front of the line lets the doctor hear the point of the question on the very first beat.
+- 'No breathing, we are starting resuscitation.' The doctor reacts firmly as they talk, steering the talk right where he wants it.
+- 'Our Lyova jammed up again.' Barinov frames one loaded word right here: "zaklinil" means "jammed" (from "zaklinit"), giving the line its exact edge.
+- 'Vitya, what kind of person are you?' The doctor phrases that answer around Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You ruined the whole wedding with a funeral.' Barinov weighs in decisively before the doctor, making his position completely clear.
+- 'Let us drink to our optimism.' Barinov anchors one familiar term on cue: "optimizm" means "optimism", and it carries the main weight of what Barinov is saying.
+- 'Viktor Petrovich is in a coma.' The doctor aims the reaction facing Barinov: the "-sya" ending on "nakhoditsya" ("to be located") turns the action inward or makes it happen between people naturally.
+- 'His condition is stable but serious.' The doctor cuts in honestly with a sigh, before Eleonora can change the subject.
+- 'Vitya, forgive me, please.' Eleonora centers one telling word in earnest: "prosti" means "sorry, forgive me" (from "prostit"), giving the line its exact edge.
+- 'That inspector was not real.' Eleonora steps in bluntly in this moment, leaving no doubt about where she stands.
+- 'I staged all of this myself.' Eleonora answers evenly without any doubt, letting the remark speak for itself.
+- 'Who could have known it would turn out like this.' Eleonora chooses one loaded expression in earnest: "poluchitsya" means "will come out", and it carries the main weight of what Eleonora is saying.

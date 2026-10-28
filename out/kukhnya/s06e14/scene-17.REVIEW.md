@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Calm down immediately and lower all knives!' Barinov brings an unhurried angle toward Katya, anchoring the Russian line on "nemedlenno" ("immediately") and "uspokoytes" ("calm down") without extra filler.
-- 'Chef, but this is not even a knife!' Senya sustains a natural direction in this beat, weaving "nozh" ("knife") together with "shef" ("Chef") just the way native speakers do.
-- 'I told you clearly, drop it quickly!' Barinov brings a direct tone toward Katya, joining "yasno" ("clear, got it") to "skazal" ("said") so every word pulls its weight.
-- 'Tell me, what is happening here right now?' Barinov questions evenly toward Senya here, leaning on "skazhite" ("tell") before closing the thought with "zdes" ("here").
-- 'Chef, it seems we fulfilled their prophecy.' Senya keeps a natural posture at this moment, pairing "kazhetsya" ("it seems, I think") with "ispolnili" ("to execute") so the "-sya" ending carries the action.
-- 'What prophecy did we fulfill here?' Barinov probes steadily to make the point, linking "yeshchyo" ("more, still"), "prorochestvo" ("prophecy"), and "tut" ("here") in one brisk exchange.
-- 'The spirit was reborn in you from the flame.' Senya chooses a clear mood as the scene unfolds, pairing "vozrodilsya" ("was reborn") with "dukh" ("spirit") so the "-sya" ending carries the action.
-- 'So now you are their new prophet.' Senya shows a wry angle without hesitation, combining "teper" ("now") and "novyy" ("new") so the key meaning lands right away.
-- 'Nastya, why are you not drinking your tea?' Katya questions frankly in front of Barinov, combining "pochemu" ("why") and "chay" ("tea") so the key meaning lands right away.
-- 'I do not know, I do not like it.' Katya maintains a grounded tempo as the scene unfolds, pairing "nravitsya" ("is pleasing") with "znayu" ("know") so the "-sya" ending carries the action.
-- 'Alright, it is time for me to go work already.' Katya conveys a thoughtful position on the spot, linking "uzhe" ("already, now"), "pora" ("it's time"), and "idti" ("to go") in one brisk exchange.
-- 'Nastya, look, what is that down there?' Katya queries earnestly on the spot, linking "posmotri" ("look"), "tam" ("there"), and "vnizu" ("downstairs") in one brisk exchange.
+- 'Calm down immediately and lower all knives!' Barinov continues briskly without a pause, refusing to let the moment slip past.
+- 'Chef, but this is not even a knife!' Senya stands firm dryly with a smile, before Katya can change the subject.
+- 'I told you clearly, drop it quickly!' Barinov centers this telling word in reply: "skazal" means "said" (from "skazat"), giving the line its exact edge.
+- 'Tell me, what is happening here right now?' Barinov drops this statement calmly now: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'Chef, it seems we fulfilled their prophecy.' Senya counters quietly with a smile, making his position completely clear.
+- 'What prophecy did we fulfill here?' Barinov stresses this clear expression in reply: "prorochestvo" means "prophecy", and it carries the main weight of what Barinov is saying.
+- 'The spirit was reborn in you from the flame.' Senya directs the reply plainly here: the "-sya" ending on "vozrodilsya" ("was reborn") turns the action inward or makes it happen between people naturally.
+- 'So now you are their new prophet.' Senya steps in candidly facing Katya, so Katya knows he is not just making small talk.
+- 'Nastya, why are you not drinking your tea?' Katya underscores this direct choice in reply: "chay" means "tea", and it carries the main weight of what Katya is saying.
+- 'I do not know, I do not like it.' Katya brings that line with ease: the "-sya" ending on "nravitsya" ("is pleasing") turns the action inward or makes it happen between people naturally.
+- 'Alright, it is time for me to go work already.' Katya fires back decisively as they talk, leaving no doubt about where she stands.
+- 'Nastya, look, what is that down there?' Katya focuses on one sharp detail in reply: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And now for the finishing touch.' Nagiyev presents a grounded course in front of Barinov, combining "posledniy" ("last") and "shtrikh" ("stroke, touch") so the key meaning lands right away.
-- 'What on earth is that?' Barinov probes candidly without hesitation, putting "eto" ("this") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'They will lick their fingers from the taste.' Nagiyev offers a clear manner in the room, pairing "vkus" ("taste") with "palchiki" ("fingers") to get the point across in plain spoken Russian.
-- 'So go on, carry it out.' Barinov maintains a warm view across the room, weaving "davay" ("let's") together with "nesi" ("bring") just the way native speakers do.
-- 'It is an ancient French recipe.' Nagiyev maintains a thoughtful angle without hesitation, combining "starinnyy" ("ancient, vintage") and "frantsuzskiy" ("French") so the key meaning lands right away.
-- 'Alright, you beauties.' Barinov takes an honest bearing straight away, leaning on "krasavtsy" ("handsome man") before closing the thought with "tak" ("so").
-- 'What difference does it make to you?' Nagiyev prompts openly in the room, pairing "raznitsa" ("difference") with "kakaya" ("what, which") to get the point across in plain spoken Russian.
-- 'Take a look at what you just cooked for me, huh?' Barinov presses dryly on the spot, pairing "posmotri" ("look") with "prigotovili" ("cooked, prepared") to get the point across in plain spoken Russian.
-- 'What is this filth, I am asking all of you!' Nagiyev probes sharply in their exchange, joining "gadost" ("a disgusting thing") to "sprashivayu" ("am asking") so every word pulls its weight.
-- 'Dima, we had no idea that plate was for you.' Barinov adopts a direct view in the scene, leaning on "znali" ("to know") before closing the thought with "dim" ("Dima").
-- 'What kind of chaos is going on in this kitchen?' Nagiyev questions steadily without holding back, linking "bardak" ("mess, disorder") directly with "kukhne" ("kitchen"), since Russian drops "is" and "are" in the present.
-- 'What difference does it make who it was for?' Barinov probes sharply beside Nagiyev, linking "raznitsa" ("difference"), "kakaya" ("what, which"), and "komu" ("to whom, who") in one brisk exchange.
-- 'Did you people set this up?' Nagiyev queries bluntly during the talk, building the phrase around "ustroili" ("to arrange") and "vy" ("you") for a crisp, natural delivery.
+- 'And now for the finishing touch.' Nagiyev follows up bluntly during the talk, saying out loud what both of them already know.
+- 'What on earth is that?' Barinov voices the reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'They will lick their fingers from the taste.' Nagiyev weighs in briskly toward Barinov, shifting the whole mood of the room in a single beat.
+- 'So go on, carry it out.' Barinov chimes in boldly in their talk, watching Nagiyev's face to see how the news lands.
+- 'It is an ancient French recipe.' Nagiyev colors one practical detail toward Barinov: "frantsuzskiy" means "French", and it carries the main weight of what Nagiyev is saying.
+- 'Alright, you beauties.' Barinov lays out the reaction toward Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What difference does it make to you?' Nagiyev asks straight out how Barinov expects that to work in practice.
+- 'Take a look at what you just cooked for me, huh?' Barinov spotlights one classic detail on cue: "prigotovili" means "cooked, prepared" (from "prigotovit"), giving the line its exact edge.
+- 'What is this filth, I am asking all of you!' Nagiyev hands over that remark calmly now: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Dima, we had no idea that plate was for you.' Barinov reacts briskly with a smile, to clear the air between them once and for all.
+- 'What kind of chaos is going on in this kitchen?' Nagiyev anchors one classic word with Barinov: "bardak" means "mess, disorder", and it carries the main weight of what Nagiyev is saying.
+- 'What difference does it make who it was for?' Barinov hands over this answer with candor: putting the question word "kakaya" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Did you people set this up?' Nagiyev presses promptly what Barinov is actually getting at here.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There is more whiskey in Nagiyev right now than in the bar, and nothing happened!' Max strikes a measured angle as they talk, anchoring the Russian line on "seychas" ("now") and "viski" ("whisky") without extra filler.
-- 'Alright, then make four more portions for the guests.' Katya sets a clear footing in the scene, combining "togda" ("back then") and "delayte" ("do") so the key meaning lands right away.
-- 'So, what are your plans, maybe we should celebrate our sauce?' Katya wonders sharply in the scene, combining "plany" ("plans") and "mozhet" ("can") so the key meaning lands right away.
-- 'And will Vika not mind that?' Katya prompts sharply during the talk, joining "budet" ("will be") to "vika" ("Vika") so every word pulls its weight.
-- 'No, she left far away and for a long time, she has a new life.' Max shares a direct footing in front of Katya, pairing "uyekhala" ("left, drove away") with "daleko" ("far away") to get the point across in plain spoken Russian.
-- 'In my new life I want to have a drink and cook salmon under Sauce Lavrov.' Max holds an emphatic mood right away, linking "novoy" ("new"), "zhizni" ("life"), and "khochu" ("want") in one brisk exchange.
-- 'Great, then maybe we should go to my place?' Katya probes firmly during the talk, weaving "otlichno" ("perfect, great") together with "togda" ("back then") just the way native speakers do.
-- 'Nagiyev has already ordered his seventh glass of whiskey!' Max displays a clear tone with Kostya, anchoring the Russian line on "uzhe" ("already, now") and "sedmoy" ("seventh") without extra filler.
-- 'Do you think it is hard to drink a liter of apple juice?' Kostya queries evenly to Katya here, linking "dumayesh" ("think"), "slozhno" ("difficult"), and "vypit" ("to drink") in one brisk exchange.
-- 'That is just his clever tactic tonight.' Kostya adopts a grounded rhythm as the scene unfolds, building the phrase around "prosto" ("just") and "khitraya" ("clever") for a crisp, natural delivery.
-- 'He pretends to be drunk, and at the end takes all the winnings!' Kostya projects a grounded tempo during the exchange, combining "pritvoryayetsya" ("pretends") and "pyanym" ("drunk") so the key meaning lands right away.
-- 'It looks like someone at the table just got sick!' Max favors an earnest tempo at this moment, putting "kazhetsya" ("it seems, I think") alongside "stolom" ("the table") in a tight, everyday turn of phrase.
+- 'There is more whiskey in Nagiyev right now than in the bar, and nothing happened!' Max hands over this answer with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Alright, then make four more portions for the guests.' Katya answers sharply in this moment, watching Max's face to see how the news lands.
+- 'So, what are your plans, maybe we should celebrate our sauce?' Katya features one pointed choice for Kostya: "plany" means "plans" (from "plan"), giving the line its exact edge.
+- 'And will Vika not mind that?' Katya shapes this statement around Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'No, she left far away and for a long time, she has a new life.' Max opens up boldly around Katya, to clear the air between them once and for all.
+- 'In my new life I want to have a drink and cook salmon under Sauce Lavrov.' Max frames one colorful choice in reply: "prigotovit" means "to cook, to prepare", and it carries the main weight of what Max is saying.
+- 'Great, then maybe we should go to my place?' Katya voices this warning beside Kostya: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'Nagiyev has already ordered his seventh glass of whiskey!' Max pushes back dryly without any doubt, shifting the whole mood of the room in a single beat.
+- 'Do you think it is hard to drink a liter of apple juice?' Kostya focuses on one loaded word right here: "yablochnogo" means "apple" (from "yablochnyy"), giving the line its exact edge.
+- 'That is just his clever tactic tonight.' Kostya lays out that remark beside Max: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'He pretends to be drunk, and at the end takes all the winnings!' Kostya jumps in firmly facing Katya, steering the talk right where he wants it.
+- 'It looks like someone at the table just got sick!' Max highlights one clear touch on cue: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.

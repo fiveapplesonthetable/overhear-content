@@ -31,7 +31,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'We see dreams.' Max continues his metaphor, stating that we all experience illusions.
 - 'Such is our life.' Max summarizes human existence, using a possession structure to say that this is just how our reality works.
 - 'Nobody sees the truth.' Max laments that people fail to acknowledge what is actually real.
-- 'We don' Max includes himself in this flaw, admitting that we ourselves miss the reality around us.
+- 'We do not see it ourselves.' Max includes himself in this flaw, admitting that we ourselves miss the reality around us.
 - 'Many close their eyes.' Max suggests that a large number of people actively choose to ignore the facts by shutting their eyes to them.
 - 'They are afraid.' Max identifies fear as the root cause of this willful ignorance.
 - 'Just wait for a miracle.' Max explains that instead of facing the truth, people merely hold out hope for something magical to happen.

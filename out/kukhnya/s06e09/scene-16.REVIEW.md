@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This article is my beloved serious work.' Elena offers a warm posture for Barinov, weaving "statya" ("article, paper") together with "lyubimaya" ("favourite, beloved") just the way native speakers do.
-- 'This is my new life, which I value.' Elena displays a direct tack at this moment, anchoring the Russian line on "novaya" ("new") and "zhizn" ("life") without extra filler.
-- 'Lena, please do not talk such nonsense.' Barinov picks a brisk line as they talk, putting "govori" ("say, talk") alongside "yerundy" ("nonsense, trifle") in a tight, everyday turn of phrase.
-- 'Tell me honestly, what is my magazine even called?' Elena asks promptly with Lyova now, combining the conversational booster "voobshche" ("in general, overall") with "skazhi" ("say") to give the line its natural spoken rhythm.
-- 'You yourself know very well what it is called.' Barinov offers a candid stance at this moment, building the phrase around "prekrasno" ("perfectly") and "znayesh" ("know") for a crisp, natural delivery.
-- 'Maybe you should not get married anymore at all?' Elena prompts briskly to make the point, anchoring the Russian line on "mozhet" ("can") and "voobshche" ("at all") without extra filler.
-- 'Egoists like you do not need anyone.' Elena conveys an earnest line at this moment, joining "egoistam" ("to egoists") to "kak" ("how") so every word pulls its weight.
-- 'Lena, forgive me, we just got carried away today.' Barinov establishes a frank approach on the spot, using "izvini" (from "izvinit", "sorry, excuse me") alongside "segodnya" ("today") to shape the meaning.
-- 'Let us right now just go ahead and forget everything.' Barinov displays a playful posture as the scene unfolds, anchoring the Russian line on "davay" ("let's") and "seychas" ("now") without extra filler.
-- 'And I cannot forget so easily.' Elena takes a measured stance at once, using "mogu" (from "moch", "can") alongside "legko" ("easy") to shape the meaning.
-- 'This is just some foolish misunderstanding.' Lyova sustains a steady view for Barinov, combining the softening word "prosto" ("simply, just") with "glupoye" ("silly, foolish") to give the line its natural spoken rhythm.
-- 'Right now we will discuss everything calmly at the table.' Lyova establishes a warm approach in the conversation, combining "seychas" ("now") and "spokoyno" ("calmly") so the key meaning lands right away.
-- 'Mom, may I have you for literally one minute?' Lyova questions bluntly from the start, combining "mama" ("mum, mother") and "mozhno" ("may, can") so the key meaning lands right away.
+- 'This article is my beloved serious work.' Elena focuses on one practical word at once: "seryoznaya" means "serious" (from "seryoznyy"), giving the line its exact edge.
+- 'This is my new life, which I value.' Elena pushes back wryly with a nod, making her position completely clear.
+- 'Lena, please do not talk such nonsense.' Barinov holds firm plainly without a pause, shifting the whole mood of the room in a single beat.
+- 'Tell me honestly, what is my magazine even called?' Elena spotlights one clear term right here: "nazyvayetsya" means "is called" (from "nazyvatsya"), giving the line its exact edge.
+- 'You yourself know very well what it is called.' Barinov voices this point around Elena: the "-sya" ending on "nazyvayetsya" ("is called") turns the action inward or makes it happen between people naturally.
+- 'Maybe you should not get married anymore at all?' Elena questions evenly while looking straight at Lyova here.
+- 'Egoists like you do not need anyone.' Elena leans on one memorable choice on cue: "egoistam" means "to egoists" (from "egoist"), giving the line its exact edge.
+- 'Lena, forgive me, we just got carried away today.' Barinov shapes the reply calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Let us right now just go ahead and forget everything.' Barinov pushes back right away as they talk, testing Elena's reaction in the middle of the exchange.
+- 'And I cannot forget so easily.' Elena grounds this key term at once: "legko" means "easy", and it carries the main weight of what Elena is saying.
+- 'This is just some foolish misunderstanding.' Lyova phrases that line to Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Right now we will discuss everything calmly at the table.' Lyova cuts in decisively with a shrug, bringing things back to earth after the buildup.
+- 'Mom, may I have you for literally one minute?' Lyova picks one colorful touch on cue: "bukvalno" means "literally", and it carries the main weight of what Lyova is saying.

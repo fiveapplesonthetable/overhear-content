@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She is the wife of a famous football player.' Barinov shares an unhurried style right away, combining "zhena" ("wife") and "izvestnogo" ("famous") so the key meaning lands right away.
-- 'Be so kind as to do it.' Lyova favors a measured approach at once, joining "bud" ("were he") to "lyubezen" ("kind, polite") so every word pulls its weight.
-- 'Which football player?' Barinov tests warmly without hesitation, putting "futbolista" ("footballer") alongside "kakogo" ("what") in a tight, everyday turn of phrase.
-- 'Well, how am I supposed to know?' Lyova checks pointedly to make the point, joining "otkuda" ("where from") to "znayu" ("know") so every word pulls its weight.
-- 'Maybe from Spartak.' Barinov keeps a candid attitude across the room, joining "mozhet" ("can") to "spartaka" ("Spartak's") so every word pulls its weight.
-- 'I am not going to go ask her.' Lyova strikes a direct footing in their talk, weaving "budu" ("will be") together with "sprashivat" ("am asking") just the way native speakers do.
-- 'Well, then try to remember.' Barinov sets a brisk rhythm in front of Lyova, weaving "togda" ("back then") together with "poprobuy" ("to try, to taste") just the way native speakers do.
-- 'He looks like that one.' Lyova holds a candid approach on the spot, putting "pokhozhe" ("like, similar") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
-- 'Like which one?' Barinov presses earnestly in front of Lyova, leaning on "na" ("on, onto") before closing the thought with "kogo" ("whom").
-- 'I just named your players.' Lyova maintains a frank note as the scene unfolds, leaning on "nazval" ("called") before closing the thought with "ya" ("I").
-- 'Like the first one.' Barinov conveys a brisk mood in the conversation, using "pervogo" (from "pervyy", "first") alongside "na" ("on, onto") to shape the meaning.
-- 'Zhenya is a good player.' Lyova adopts a resolute tempo on the spot, combining "khoroshiy" ("good") and "zhenya" ("Zhenya") so the key meaning lands right away.
-- 'Interesting. He stepped away.' Barinov keeps a candid bearing in the scene, joining "interesno" ("interesting") to "otoshel" ("wore off, moved away") so every word pulls its weight.
+- 'She is the wife of a famous football player.' Barinov colors one direct piece with Lyova: "izvestnogo" means "famous" (from "izvestnyy"), giving the line its exact edge.
+- 'Be so kind as to do it.' Lyova shares this statement around Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Which football player?' Barinov asks skeptically to see how Lyova will answer on the spot.
+- 'Well, how am I supposed to know?' Lyova underscores one clear expression right here: "znayu" means "know" (from "znat"), giving the line its exact edge.
+- 'Maybe from Spartak.' Barinov hands over this point frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I am not going to go ask her.' Lyova replies plainly with a shrug, so Barinov knows he is not just making small talk.
+- 'Well, then try to remember.' Barinov favors one concrete word for Lyova: "poprobuy" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
+- 'He looks like that one.' Lyova phrases the reply with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Like which one?' Barinov wonders briskly why things suddenly took this turn between them.
+- 'I just named your players.' Lyova highlights one direct element for Barinov: "nazval" means "called" (from "nazvat"), giving the line its exact edge.
+- 'Like the first one.' Barinov hands over the thought plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Zhenya is a good player.' Lyova reacts honestly as things stand, before Barinov can change the subject.
+- 'Interesting. He stepped away.' Barinov stresses one concrete term at once: "interesno" means "interesting", and it carries the main weight of what Barinov is saying.

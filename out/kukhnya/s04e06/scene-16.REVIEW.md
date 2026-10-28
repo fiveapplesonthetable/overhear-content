@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, I have never prepared this kind of sorbet.' Denis conveys a natural position across the room, leaning on "rebyata" ("the boys, the lads") before closing the thought with "nikogda" ("never").
-- 'Do not worry, there is nothing to it!' Senya adopts an unhurried note in this beat, pairing "volnuysya" ("worry") with "tut" ("here") to get the point across in plain spoken Russian.
-- 'You simply pour liquid nitrogen into the bowl with juice.' Senya conveys an emphatic line as they talk, leaning on "prosto" ("just") before closing the thought with "vylivayesh" ("to pour").
-- 'Then you stir quickly for a couple of minutes, and everything is ready.' Senya projects a warm line as they talk, joining "potom" ("then") to "bystro" ("quickly") so every word pulls its weight.
-- 'The main thing is not to be afraid, the first time is always scary!' Senya presents a measured note right away, putting "glavnoye" ("important") alongside "boysya" ("be afraid") in a tight, everyday turn of phrase.
-- 'Thank you very much, pals, I am heading to the hall.' Denis favors a playful position beside Senya, pairing "spasibo" ("thank you") with "bolshoye" ("big, very much") to get the point across in plain spoken Russian.
-- 'Wait, and why did you take hot water?' Senya wonders quietly on the spot, using "podozhdi" (from "podozhdat", "wait") alongside "zachem" ("what for") to shape the meaning.
-- 'Without hot water everything of his will freeze solid right now!' Senya takes a brisk tone toward Elena, leaning on "goryachey" ("hot") before closing the thought with "vody" ("water").
-- 'How on earth will he pull the whisk out of there?' Senya checks promptly to keep things clear, linking "kak" ("how"), "budet" ("will be"), and "vytaskivat" ("to out") in one brisk exchange.
-- 'Good evening, right now I will prepare sorbet for you.' Denis shows an earnest line for Senya, building the phrase around "dobryy" ("good") and "vecher" ("evening") for a crisp, natural delivery.
-- 'Tell me, please, what are you doing right now?' Elena questions firmly beside Denis, weaving "skazhite" ("tell") together with "seychas" ("now") just the way native speakers do.
-- 'This is not a restaurant, it is just a complete mess!' Elena holds an easygoing bearing as they talk, combining "restoran" ("restaurant") and "prosto" ("just") so the key meaning lands right away.
+- 'Guys, I have never prepared this kind of sorbet.' Denis sharpens one concrete expression toward Elena: "rebyata" means "the boys, the lads", and it carries the main weight of what Denis is saying.
+- 'Do not worry, there is nothing to it!' Senya frames that thought to Elena: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
+- 'You simply pour liquid nitrogen into the bowl with juice.' Senya fires back earnestly as they talk, shifting the whole mood of the room in a single beat.
+- 'Then you stir quickly for a couple of minutes, and everything is ready.' Senya sharpens one vivid word in reply: "pomeshivayesh" means "to quickly" (from "pomeshivat"), giving the line its exact edge.
+- 'The main thing is not to be afraid, the first time is always scary!' Senya follows up boldly to settle things, refusing to let the moment slip past.
+- 'Thank you very much, pals, I am heading to the hall.' Denis speaks up earnestly beside Senya, to clear the air between them once and for all.
+- 'Wait, and why did you take hot water?' Senya focuses on this direct detail in reply: "goryachuyu" means "hot" (from "goryachiy"), giving the line its exact edge.
+- 'Without hot water everything of his will freeze solid right now!' Senya speaks bluntly with a smile, refusing to let the moment slip past.
+- 'How on earth will he pull the whisk out of there?' Senya questions deadpan why things suddenly took this turn between them.
+- 'Good evening, right now I will prepare sorbet for you.' Denis grounds this vivid choice right here: "prigotovlyu" means "will prepare" (from "prigotovit"), giving the line its exact edge.
+- 'Tell me, please, what are you doing right now?' Elena drops this warning without pause: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'This is not a restaurant, it is just a complete mess!' Elena proceeds bluntly facing Senya, making her position completely clear.

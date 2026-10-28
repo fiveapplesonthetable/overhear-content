@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are overcooking the vegetables again, Maxim Leonidovich.' Vika establishes an emphatic tempo on the spot, weaving "opyat" ("again") together with "perederzhivayete" ("to overcook") just the way native speakers do.
-- 'That will not be al dente anymore.' Vika maintains a steady view without hesitation, combining "budet" ("will be") and "dente" ("dente") so the key meaning lands right away.
-- 'May I show you?' Max queries honestly to make the point, weaving "mozhno" ("may, can") together with "ya" ("I") just the way native speakers do.
-- 'Right after you drain the boiling water.' Vika picks a lively attitude in front of Max, anchoring the Russian line on "kak" ("how") and "slili" ("to pour off") without extra filler.
-- 'You have to plunge the vegetables into ice water.' Max holds a grounded manner during the exchange, leaning on "nado" ("it is necessary") before closing the thought with "opustit" ("to lower, put down").
-- 'That is what is called al dente.' Vika conveys a measured mood in this beat, building the phrase around "nazyvayetsya" ("is called") and "dente" ("dente") for a crisp, natural delivery.
-- 'Which translated from Italian means...' Max chooses an honest note in the room, leaning on "perevode" ("translation") before closing the thought with "italyanskogo" ("Italian").
-- 'Do you taste the difference? Not bad, right?' Vika presses quietly right away, leaning on "chuvstvuyete" ("feel") before closing the thought with "neplokho" ("not bad").
-- 'I never would have thought of that.' Max takes a firm view in this beat, leaning on "nikogda" ("never") before closing the thought with "podumal" ("would think").
-- 'You know what.' Vika holds a steady note in this beat, using "znayete" (from "znat", "know") alongside "vy" ("you") to shape the meaning.
-- 'No offense, Rodion Sergeyevich.' Max keeps a wry note straight away, weaving "obid" ("hard feelings") together with "bez" ("without") just the way native speakers do.
-- 'None taken at all.' Vika inquires quietly in the scene, leaning on "obidy" ("offense, resentment") before closing the thought with "kakiye" ("what").
-- 'I spotted something in your refrigerator earlier.' Max shares a calm style at once, leaning on "tam" ("there") before closing the thought with "kholodilnike" ("fridge").
+- 'You are overcooking the vegetables again, Maxim Leonidovich.' Vika cuts in frankly in this moment, steering the talk right where she wants it.
+- 'That will not be al dente anymore.' Vika spotlights one familiar detail in reply: "dente" means "dente", and it carries the main weight of what Vika is saying.
+- 'May I show you?' Max sends this update at once: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Right after you drain the boiling water.' Vika holds firm candidly without any doubt, shifting the whole mood of the room in a single beat.
+- 'You have to plunge the vegetables into ice water.' Max picks one key element for Vika: "ovoshchi" means "vegetables" (from "ovoshch"), giving the line its exact edge.
+- 'That is what is called al dente.' Vika phrases the comeback facing Max: the "-sya" ending on "nazyvayetsya" ("is called") turns the action inward or makes it happen between people naturally.
+- 'Which translated from Italian means...' Max responds decisively as they talk, making his position completely clear.
+- 'Do you taste the difference? Not bad, right?' Vika chooses one direct choice on cue: "chuvstvuyete" means "feel" (from "chuvstvovat"), giving the line its exact edge.
+- 'I never would have thought of that.' Max lays out that point calmly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'You know what.' Vika proceeds steadily to be clear, without trying to dress up how she really feels.
+- 'No offense, Rodion Sergeyevich.' Max sharpens one direct detail with Vika: "obid" means "hard feelings" (from "obida"), giving the line its exact edge.
+- 'None taken at all.' Vika states that line with warmth: putting the question word "kakiye" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'I spotted something in your refrigerator earlier.' Max opens up firmly before Vika, letting the remark speak for itself.

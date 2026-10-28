@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Young man, stop for a minute, please!' The inspector establishes a lively bearing during the exchange, putting "molodoy" ("young") alongside "chelovek" ("a man, a person") in a tight, everyday turn of phrase.
-- 'Good afternoon, Police Lieutenant Sudnik speaking.' The inspector shares an emphatic tack in the scene, pairing "dobryy" ("good") with "den" ("day") to get the point across in plain spoken Russian.
-- 'Tell me, what do you have in this bag?' The inspector challenges warmly without hesitation, building the phrase around "skazhite" ("tell") and "sumke" ("bag") for a crisp, natural delivery.
-- 'There are only my personal things here, why?' Denis questions wryly in the room, linking "tut" ("here") directly with "tolko" ("only"), since Russian drops "is" and "are" in the present.
-- 'Open your bag and show me, please.' The inspector shows a playful tempo as they talk, linking "otkroyte" ("open"), "sumku" ("bag, purse"), and "pokazhite" ("show") in one brisk exchange.
-- 'Whoa, and what kind of white packets are these?' The inspector asks decisively for Denis's benefit, linking "belyye" ("white") directly with "pakety" ("plastic bag"), since Russian drops "is" and "are" in the present.
-- 'Comrade Lieutenant, these are ordinary food additives!' Denis holds a natural mood in the scene, linking "tovarishch" ("comrade"), "leytenant" ("lieutenant"), and "obychnyye" ("ordinary") in one brisk exchange.
-- 'I work as a cook in a French restaurant.' Denis chooses a sharp style at once, anchoring the Russian line on "rabotayu" ("work") and "povarom" ("as a cook") without extra filler.
-- 'I am in a big hurry to get back to the kitchen right now!' Denis shows a frank rhythm as they talk, leaning on "seychas" ("now") before closing the thought with "ochen" ("very much").
-- 'No problem, our car will give you a quick ride right now!' The inspector keeps a pointed view in front of Denis, leaning on "mashina" ("a car") before closing the thought with "seychas" ("now").
-- 'I am telling you the honest truth, believe me!' Denis picks a thoughtful line in this beat, pairing "govoryu" ("am telling") with "chistuyu" ("clean") to get the point across in plain spoken Russian.
-- 'At the police station we will sort everything out!' The inspector shares a sharp line in the room, building the phrase around "otdelenii" ("station") and "politsii" ("the police") for a crisp, natural delivery.
+- 'Young man, stop for a minute, please!' The inspector centers this telling expression on cue: "ostanovites" means "to stop" (from "ostanovitsya"), giving the line its exact edge.
+- 'Good afternoon, Police Lieutenant Sudnik speaking.' The inspector features this telling detail with Denis: "leytenant" means "lieutenant", and it carries the main weight of what the inspector is saying.
+- 'Tell me, what do you have in this bag?' The inspector tests point-blank if there is more going on behind the scenes.
+- 'There are only my personal things here, why?' Denis anchors this clear expression on cue: "lichnyye" means "personal" (from "lichnyy"), giving the line its exact edge.
+- 'Open your bag and show me, please.' The inspector gives this answer with warmth: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Whoa, and what kind of white packets are these?' The inspector quizzes deadpan how Denis expects that to work in practice.
+- 'Comrade Lieutenant, these are ordinary food additives!' Denis centers one colorful term for the inspector: "pishchevyye" means "food, nutritional" (from "pishchevoy"), giving the line its exact edge.
+- 'I work as a cook in a French restaurant.' Denis responds candidly with a sigh, before the inspector can change the subject.
+- 'I am in a big hurry to get back to the kitchen right now!' Denis steps in steadily during the talk, grounding the moment in plain reality.
+- 'No problem, our car will give you a quick ride right now!' The inspector favors one colorful piece toward Denis: "podvezyot" means "right", and it carries the main weight of what the inspector is saying.
+- 'I am telling you the honest truth, believe me!' Denis leans on one clear element toward the inspector: "chistuyu" means "clean" (from "chistyy"), giving the line its exact edge.
+- 'At the police station we will sort everything out!' The inspector opens up calmly hearing Denis, testing Denis's reaction in the middle of the exchange.

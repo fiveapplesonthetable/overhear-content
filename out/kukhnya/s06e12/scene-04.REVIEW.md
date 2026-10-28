@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, Denis, our jewelry store welcomes you.' The guest favors a serious direction in front of Barinov, linking "dobryy" ("good"), "den" ("day"), and "privetstvuyet" ("to greet, to welcome") in one brisk exchange.
-- 'Congratulations, you won a big fifty-percent discount.' The guest maintains a natural note on the spot, putting "pozdravlyayem" ("we congratulate") alongside "vyigrali" ("won") in a tight, everyday turn of phrase.
-- 'This special discount applies only to gold rings.' The guest displays an easygoing posture in the conversation, combining "spetsialnaya" ("special") and "skidka" ("discount") so the key meaning lands right away.
-- 'If you are planning to give a girl a beautiful ring.' The guest conveys an honest direction right away, pairing "sobirayetes" ("to intend") with "podarit" ("give as a gift") to get the point across in plain spoken Russian.
-- 'Do not miss the chance, I will send you the website address.' The guest holds an unhurried mood right away, leaning on "upustite" ("to miss, to let slip") before closing the thought with "shans" ("chance").
-- 'Yes, alright, thank you very much for calling.' Denis favors a resolute approach for the guest, pairing "khorosho" ("good, fine") with "bolshoye" ("big, very much") to get the point across in plain spoken Russian.
-- 'It is fine, this bookmaker is not such a tough nut to crack.' Barinov favors an earnest position in this beat, combining "bukmeker" ("bookmaker") and "yeshchyo" ("more, still") so the key meaning lands right away.
-- 'For such a payout I will definitely be able to make him talk.' Barinov takes an earnest tone in the room, using "vyigrysha" (from "vyigrysh", "winnings, gain") alongside "tochno" ("definitely") to shape the meaning.
-- 'At the base of the truth serum lies belladonna extract.' Barinov sustains an honest direction beside Denis, joining "osnove" ("foundation") to "syvorotki" ("of the serum") so every word pulls its weight.
-- 'Timur, hi, I urgently need belladonna today.' Barinov presents a firm course in their talk, anchoring the Russian line on "segodnya" ("today") and "srochno" ("urgent, urgently") without extra filler.
-- 'Why no, Timur, it is not a woman at all!' Barinov conveys a clear tone on the spot, linking "sovsem" ("at all") directly with "zhenshchina" ("woman"), since Russian drops "is" and "are" in the present.
-- 'It is just such a rare useful herb for the kitchen.' Barinov conveys a measured position without hesitation, linking "prosto" ("just") directly with "redkaya" ("rare"), since Russian drops "is" and "are" in the present.
+- 'Good afternoon, Denis, our jewelry store welcomes you.' The guest emphasizes one concrete choice at once: "privetstvuyet" means "to greet, to welcome" (from "privetstvovat"), giving the line its exact edge.
+- 'Congratulations, you won a big fifty-percent discount.' The guest features one colorful word in earnest: "pozdravlyayem" means "we congratulate" (from "pozdravlyat"), giving the line its exact edge.
+- 'This special discount applies only to gold rings.' The guest pushes back wryly in this moment, making his position completely clear.
+- 'If you are planning to give a girl a beautiful ring.' The guest sharpens one memorable term at once: "sobirayetes" means "to intend" (from "sobiratsya"), giving the line its exact edge.
+- 'Do not miss the chance, I will send you the website address.' The guest focuses on one practical word at once: "upustite" means "to miss, to let slip" (from "upustit"), giving the line its exact edge.
+- 'Yes, alright, thank you very much for calling.' Denis speaks up dryly facing the guest, testing the guest's reaction in the middle of the exchange.
+- 'It is fine, this bookmaker is not such a tough nut to crack.' Barinov highlights one familiar choice for Denis: "bukmeker" means "bookmaker", and it carries the main weight of what Barinov is saying.
+- 'For such a payout I will definitely be able to make him talk.' Barinov speaks bluntly with a nod, letting the remark speak for itself.
+- 'At the base of the truth serum lies belladonna extract.' Barinov stands firm briskly hearing Denis, to clear the air between them once and for all.
+- 'Timur, hi, I urgently need belladonna today.' Barinov anchors one loaded word at once: "belladonna" means "belladonna", and it carries the main weight of what Barinov is saying.
+- 'Why no, Timur, it is not a woman at all!' Barinov brings the comeback to Denis: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'It is just such a rare useful herb for the kitchen.' Barinov fires back calmly on the spot, so the guest knows he is not just making small talk.

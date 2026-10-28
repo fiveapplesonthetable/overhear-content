@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, well how did your reconciliation dinner go?' Max presses naturally toward Louis here, building the phrase around "kak" ("how") and "proshyol" ("passed") for a crisp, natural delivery.
-- 'Nowhere, my wife got a bad toothache in the evening.' Senya keeps a serious line in the room, joining "nikak" ("in no way") to "zheny" ("wife") so every word pulls its weight.
-- 'She ate nothing at all during the whole evening.' Senya keeps an emphatic angle in the conversation, putting "vecher" ("evening") alongside "sovsem" ("at all") in a tight, everyday turn of phrase.
-- 'Folks, I wanted to ask you to cover for me.' Louis projects a natural view toward Senya, using "druzya" (from "drug", "friends") alongside "khotel" ("wanted") to shape the meaning.
-- 'My close friend is passing through Moscow today.' Louis chooses a clear approach at once, pairing "segodnya" ("today") with "proyezdom" ("through") to get the point across in plain spoken Russian.
-- 'Louis, spare us the details, we are busy right now.' Senya favors a resolute footing as the scene unfolds, combining the everyday invitation "davay" ("come on, let us") with "podrobnostey" ("detail") to give the line its natural spoken rhythm.
-- 'Look for a replacement among the free cooks.' Senya displays a lively style during the exchange, combining "ishchi" ("look for") and "zamenu" ("substitute") so the key meaning lands right away.
-- 'Denis, please do not worry about my work.' Louis shows a firm approach in the scene, linking "perezhivay" ("worry"), "rabotu" ("job"), and "denis" ("Denis") in one brisk exchange.
-- 'Tonight German will not be in the kitchen.' Louis adopts a clear course for Max, pairing "segodnya" ("today") with "vecherom" ("in the evening") to get the point across in plain spoken Russian.
-- 'And all my desserts are already completely ready.' Louis brings a measured course during the exchange, weaving "deserty" ("desserts") together with "uzhe" ("already, now") just the way native speakers do.
-- 'They are sitting neatly in my big refrigerator.' Louis conveys a warm manner with Max, leaning on "akkuratno" ("carefully, gently") before closing the thought with "stoyat" ("cost").
-- 'I labeled everything, you just need to hand them out!' Louis conveys a steady angle at once, linking "podpisal" ("signed"), "nuzhno" ("necessary"), and "prosto" ("just") in one brisk exchange.
+- 'Senya, well how did your reconciliation dinner go?' Max grounds one pointed expression for Louis: "primiritelnyy" means "dinner", and it carries the main weight of what Max is saying.
+- 'Nowhere, my wife got a bad toothache in the evening.' Senya counters steadily during the talk, saying out loud what both of them already know.
+- 'She ate nothing at all during the whole evening.' Senya counters wryly in their talk, refusing to let the moment slip past.
+- 'Folks, I wanted to ask you to cover for me.' Louis stresses one memorable word at once: "druzya" means "friends" (from "drug"), giving the line its exact edge.
+- 'My close friend is passing through Moscow today.' Louis frames that point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Louis, spare us the details, we are busy right now.' Senya speaks up frankly around Max, without trying to dress up how he really feels.
+- 'Look for a replacement among the free cooks.' Senya colors one practical term in earnest: "svobodnykh" means "free" (from "svobodnyy"), giving the line its exact edge.
+- 'Denis, please do not worry about my work.' Louis phrases this point on cue: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Tonight German will not be in the kitchen.' Louis reacts promptly without holding back, saying out loud what both of them already know.
+- 'And all my desserts are already completely ready.' Louis anchors this telling term on cue: "deserty" means "desserts" (from "desert"), giving the line its exact edge.
+- 'They are sitting neatly in my big refrigerator.' Louis fires back frankly beside Max, leaving no doubt about where he stands.
+- 'I labeled everything, you just need to hand them out!' Louis fires back firmly without any doubt, to clear the air between them once and for all.

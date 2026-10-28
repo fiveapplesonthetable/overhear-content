@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, tomorrow I am picking up Vika and our daughter.' Max shows a resolute note in the scene, weaving "zavtra" ("tomorrow") together with "dochkoy" ("daughter") just the way native speakers do.
-- 'I invite you to the discharge, will you come?' Max asks bluntly on the spot, combining "priglashayu" ("invite") and "vypisku" ("hospital discharge") so the key meaning lands right away.
-- 'I will try to come, did you want something else?' Barinov quizzes dryly without holding back, weaving "postarayus" ("to try") together with "priyti" ("to come") just the way native speakers do.
-- 'May I leave a bit early today?' Max quizzes boldly in this moment, weaving "mozhno" ("may, can") together with "uydu" ("will leave") just the way native speakers do.
-- 'You understand yourself, I need one last night out.' Max sets an emphatic bearing at this moment, combining "ponimayete" ("do you understand") and "gulnut" ("to party") so the key meaning lands right away.
-- 'Have you even assembled the crib for the baby?' Barinov wonders honestly right away, using "krovatku" (from "krovatka", "baby crib") alongside "rebyonka" ("child") to shape the meaning.
-- 'What did you think, that she would sleep on the floor?' Barinov checks candidly on the spot, combining "dumal" ("thought") and "polu" ("floor") so the key meaning lands right away.
-- 'An hour ago Tatyana stopped by here.' Barinov shares a direct manner without hesitation, leaning on "chas" ("hour") before closing the thought with "nazad" ("ago").
-- 'Here are the keys, go and assemble the crib.' Barinov chooses a clear line without hesitation, combining "klyuchi" ("the keys") and "yezzhay" ("go, drive") so the key meaning lands right away.
-- 'Chef, I called, she does not pick up the phone.' Max conveys an emphatic posture for Barinov, joining "zvonil" ("called") to "trubku" ("the receiver") so every word pulls its weight.
-- 'Maxim, get going, I still have work to do.' Barinov keeps a resolute direction during the exchange, joining "stupay" ("go on, off you go") to "yeshchyo" ("more, still") so every word pulls its weight.
-- 'Understood everything, thank you, Chef.' Max holds a thoughtful tempo right away, joining "ponyal" ("understood") to "spasibo" ("thank you") so every word pulls its weight.
+- 'Chef, tomorrow I am picking up Vika and our daughter.' Max focuses on one telling element right here: "dochkoy" means "daughter" (from "dochka"), giving the line its exact edge.
+- 'I invite you to the discharge, will you come?' Max brings the reaction without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'I will try to come, did you want something else?' Barinov questions briskly whether Max really thought this through.
+- 'May I leave a bit early today?' Max sharpens one practical element toward Barinov: "segodnya" means "today", and it carries the main weight of what Max is saying.
+- 'You understand yourself, I need one last night out.' Max puts the comment on cue: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Have you even assembled the crib for the baby?' Barinov questions evenly if there is more going on behind the scenes.
+- 'What did you think, that she would sleep on the floor?' Barinov colors one clear detail with Max: "polu" means "floor", and it carries the main weight of what Barinov is saying.
+- 'An hour ago Tatyana stopped by here.' Barinov opens up frankly during the talk, to clear the air between them once and for all.
+- 'Here are the keys, go and assemble the crib.' Barinov responds pointedly with a nod, keeping the focus on what actually matters here.
+- 'Chef, I called, she does not pick up the phone.' Max underscores one loaded choice right here: "trubku" means "the receiver" (from "trubka"), giving the line its exact edge.
+- 'Maxim, get going, I still have work to do.' Barinov directs the thought for Max: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Understood everything, thank you, Chef.' Max proceeds at once with a nod, so Barinov knows he is not just making small talk.

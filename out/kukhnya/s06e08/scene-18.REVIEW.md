@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, we are on fire, everyone outside immediately!' Fedya shares a candid tone right away, leaning on "smotrite" ("look") before closing the thought with "gorim" ("to burn, to shine").
-- 'Does anyone know where our fire extinguisher is?' Fedya queries warmly without hesitation, weaving "znayet" ("knows") together with "gde" ("where") just the way native speakers do.
-- 'Well that is it, I missed out on my sixty thousand.' Senya maintains a lively approach right away, anchoring the Russian line on "upustil" ("to miss, to let slip") and "tysyach" ("thousand") without extra filler.
-- 'After all, my happiness was so close today!' Senya keeps an easygoing approach for Fedya, linking "schastye" ("happiness"), "bylo" ("was"), and "segodnya" ("today") in one brisk exchange.
-- 'Yes, literally within reach of an outstretched finger.' Fedya strikes a direct course for Denis, putting "bukvalno" ("literally") alongside "rasstoyanii" ("distance") in a tight, everyday turn of phrase.
-- 'Alright, bye, Denis, see you tomorrow morning.' Senya sustains a resolute view in the room, combining the easygoing tag "ladno" ("okay, fine") with "poka" ("bye") to give the line its natural spoken rhythm.
-- 'Denis, and why are you so sad today?' Fedya challenges warmly to make the point, linking "segodnya" ("today") directly with "grustnyy" ("sad, gloomy"), since Russian drops "is" and "are" in the present.
-- 'Did Katya really not like your gift?' Fedya inquires directly to keep things clear, combining "podarok" ("gift, voucher") and "ponravilsya" ("was liked, pleased") so the key meaning lands right away.
-- 'I did not give her anything at all today.' Denis picks a playful posture toward Fedya, pairing "voobshche" ("at all") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'You see, everything is very complicated between her and me.' Denis picks a direct direction at once, joining "ponimayesh" ("do you understand") to "ochen" ("very much") so every word pulls its weight.
-- 'Actually I wrote a song for her.' Denis keeps a calm note in their talk, linking "samom" ("very"), "dele" ("case"), and "pesnyu" ("song") in one brisk exchange.
-- 'I simply do not want to pressure her with my feelings.' Denis maintains a grounded style in the conversation, pairing "prosto" ("just") with "khochu" ("want") to get the point across in plain spoken Russian.
+- 'Look, we are on fire, everyone outside immediately!' Fedya opens up openly with a sigh, keeping the focus on what actually matters here.
+- 'Does anyone know where our fire extinguisher is?' Fedya centers one concrete term in earnest: "ognetushitel" means "fire extinguisher", and it carries the main weight of what Fedya is saying.
+- 'Well that is it, I missed out on my sixty thousand.' Senya chimes in promptly beside Denis, grounding the moment in plain reality.
+- 'After all, my happiness was so close today!' Senya counters decisively to settle things, making his position completely clear.
+- 'Yes, literally within reach of an outstretched finger.' Fedya underscores one sharp expression with Denis: "rasstoyanii" means "distance" (from "rasstoyaniye"), giving the line its exact edge.
+- 'Alright, bye, Denis, see you tomorrow morning.' Senya puts that line at once: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Fedya is on board.
+- 'Denis, and why are you so sad today?' Fedya wonders evenly as Denis tries to explain the situation.
+- 'Did Katya really not like your gift?' Fedya highlights one clear piece at once: "ponravilsya" means "was liked, pleased" (from "ponravitsya"), giving the line its exact edge.
+- 'I did not give her anything at all today.' Denis shares the reply with ease: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'You see, everything is very complicated between her and me.' Denis holds firm firmly on the spot, watching Senya's face to see how the news lands.
+- 'Actually I wrote a song for her.' Denis leans on this sharp choice on cue: "pesnyu" means "song" (from "pesnya"), giving the line its exact edge.
+- 'I simply do not want to pressure her with my feelings.' Denis gives the remark around Senya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

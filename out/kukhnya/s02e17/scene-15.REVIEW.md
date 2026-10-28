@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A button. Louis.' Max holds an honest position for Louis, joining "pugovitsa" ("button") to "lui" ("Louis") so every word pulls its weight.
-- 'Right now I do not know how this...' Louis favors a measured line straight away, weaving "seychas" ("now") together with "znayu" ("know") just the way native speakers do.
-- 'Forgive us, we will fix everything at once.' Max keeps a clear manner during the exchange, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "ispravim" ("will fix, will correct") to shape the meaning.
-- 'Thank you, I can manage myself.' Nastya keeps a serious tempo at this moment, combining "spasibo" ("thank you") and "ya" ("I") so the key meaning lands right away.
-- 'Is what he told you really true?' Max quizzes firmly right away, building the phrase around "skazal" ("said") and "pravda" ("honestly") for a crisp, natural delivery.
-- 'That mustachioed guy even recites poetry to yours.' Louis displays an easygoing tone in front of Nastya, weaving "usatyy" ("friend") together with "stikhi" ("verses, rhymes") just the way native speakers do.
-- 'He is cheating on your Louis with a woman.' Max holds an earnest mood during the exchange, building the phrase around "izmenyayet" ("changes, alters") and "zhenshchinoy" ("a woman") for a crisp, natural delivery.
-- 'Well, did you talk to Max yet?' Louis tests warmly in the room, pairing "pogovorila" ("talked, had a talk") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'What are you waiting for?' Max quizzes pointedly with Louis now, joining "zhdesh" ("are waiting") to "chego" ("what") so every word pulls its weight.
-- 'Go over there and tell him right now.' Louis shows an unhurried note during the exchange, linking "idi" ("go"), "skazhi" ("say"), and "yemu" ("him") in one brisk exchange.
-- 'That is none of your business.' Max establishes a thoughtful view across the room, putting "delo" ("matter") alongside "da" ("yes") in a tight, everyday turn of phrase.
-- 'I do not have any lemons left.' Louis establishes an honest approach without hesitation, anchoring the Russian line on "limonov" ("lemon") and "da" ("yes") without extra filler.
-- 'Let us go to the walk-in cooler.' Max brings a brisk direction beside Louis, combining "poydem" ("let's go") and "kholodilnik" ("fridge") so the key meaning lands right away.
+- 'A button. Louis.' Max proceeds lightly with a sigh, shifting the whole mood of the room in a single beat.
+- 'Right now I do not know how this...' Louis stresses one direct piece right here: "seychas" means "now", and it carries the main weight of what Louis is saying.
+- 'Forgive us, we will fix everything at once.' Max gives this update facing Louis: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Max steps in.
+- 'Thank you, I can manage myself.' Nastya counters warmly to settle things, refusing to let the moment slip past.
+- 'Is what he told you really true?' Max centers this sharp choice for Louis: "pravda" means "honestly", and it carries the main weight of what Max is saying.
+- 'That mustachioed guy even recites poetry to yours.' Louis pushes back at once without any doubt, grounding the moment in plain reality.
+- 'He is cheating on your Louis with a woman.' Max proceeds frankly as things stand, making his position completely clear.
+- 'Well, did you talk to Max yet?' Louis picks one vivid expression for Nastya: "pogovorila" means "talked, had a talk" (from "pogovorit"), giving the line its exact edge.
+- 'What are you waiting for?' Max drops that thought without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Louis purely through rising pitch at the end.
+- 'Go over there and tell him right now.' Louis steps in warmly as things stand, making his position completely clear.
+- 'That is none of your business.' Max points to one sharp term in reply: "delo" means "matter", and it carries the main weight of what Max is saying.
+- 'I do not have any lemons left.' Louis sends the reply beside Nastya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Let us go to the walk-in cooler.' Max continues dryly to be clear, bringing things back to earth after the buildup.

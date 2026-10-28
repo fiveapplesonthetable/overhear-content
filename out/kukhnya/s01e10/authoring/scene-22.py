@@ -39,7 +39,7 @@ WALK = [
     (6, None, "'This is the freshest caviar in all of Moscow.' Timur plainly draws that feeling by pairing 'this' and 'caviar' and 'moscow'."),
     (7, None, "'Such a product requires strict quality control.' Barinov warmly shows this concept by merging 'such' with 'strict' and 'control'."),
     (8, None, "'Officials eat yesterday' Timur clearly brings that picture through pairing 'officials' with 'eat' along with 'yesterday'."),
-    (9, None, "'Then let' Barinov neatly shows such idea by matching 'then' and 'then' plus 'let'."),
+    (9, None, "'Then let's quickly check its taste.' Barinov neatly shows such idea by matching 'then' and 'then' plus 'let'."),
     (10, None, "'Here, take a spoon and try it yourself.' Timur truly shapes that view through linking 'here' with 'and' and 'yourself'."),
     (11, None, "'Now I will immediately evaluate your expensive goods.' Barinov calmly shapes this message through matching 'now' and 'evaluate' as well as 'goods'."),
 ]

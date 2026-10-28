@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, he is a superstar!' Fedya sustains an honest tone for Kostya, using "superstar" (from "superzvezda", "superstar") alongside "ay" ("ouch") to shape the meaning.
-- 'What about it?' Kostya checks lightly toward Fedya here, using "chto" ("what") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Come on, come on.' Fedya holds a serious footing during the exchange, using "nu" ("oh, come on") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Senya, when will the steak be ready?' Kostya presses candidly on the spot, putting "kogda" ("when") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'What, do you two have no work to do?' Fedya quizzes dryly to Kostya here, linking "raboty" ("of work"), "vas" ("you"), and "chego" ("what") in one brisk exchange.
-- 'For some reason nobody is ordering turbot today.' Kostya adopts a playful angle as the scene unfolds, doubling the negative with "ne" ("not") and "segodnya" ("today"), which is standard and required in Russian.
-- 'I do not need that.' Fedya takes a grounded tempo at this moment, leaning on "nado" ("it is necessary") before closing the thought with "ne" ("not").
-- 'I am listening to you.' Kostya takes a lively style as they talk, building the phrase around "slushayu" ("I'm listening") and "ya" ("I") for a crisp, natural delivery.
-- 'Listen to me.' Fedya conveys a playful style on the spot, pairing "poslushay" ("listen") with "menya" ("me") to get the point across in plain spoken Russian.
-- 'And who is Galkin anyway?' Kostya tests evenly to make the point, placing "galkin" ("Galkin") straight beside "kto" ("who") with no word for "to be" needed.
-- 'Are you completely out of your mind?' Fedya challenges lightly as they speak, placing "durak" ("fool, idiot") straight beside "sovsem" ("at all") with no word for "to be" needed.
-- 'Do not yell at me!' Kostya holds a firm direction in the room, anchoring the Russian line on "nado" ("it is necessary") and "orat" ("to yell, to bellow") without extra filler.
-- 'Look at the habit he picked up!' Fedya conveys a firm line in this beat, joining "modu" ("fashion, habit") to "vzyal" ("took") so every word pulls its weight.
+- 'Oh, he is a superstar!' Fedya stands firm warmly watching Kostya, leaving no doubt about where he stands.
+- 'What about it?' Kostya aims this update plainly here: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
+- 'Come on, come on.' Fedya brings the reaction frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Senya, when will the steak be ready?' Kostya quizzes candidly whether Fedya really thought this through.
+- 'What, do you two have no work to do?' Fedya emphasizes this key word for Kostya: "raboty" means "of work" (from "rabota"), giving the line its exact edge.
+- 'For some reason nobody is ordering turbot today.' Kostya phrases that thought in earnest: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I do not need that.' Fedya speaks firmly in their talk, steering the talk right where he wants it.
+- 'I am listening to you.' Kostya centers one sharp detail for Fedya: "slushayu" means "I'm listening" (from "slushat"), giving the line its exact edge.
+- 'Listen to me.' Fedya drops that thought to Kostya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And who is Galkin anyway?' Kostya tests earnestly to see how Fedya will answer on the spot.
+- 'Are you completely out of your mind?' Fedya leans on this vivid word at once: "durak" means "fool, idiot", and it carries the main weight of what Fedya is saying.
+- 'Do not yell at me!' Kostya brings the comment with ease: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Look at the habit he picked up!' Fedya fires back pointedly to be clear, without trying to dress up how he really feels.

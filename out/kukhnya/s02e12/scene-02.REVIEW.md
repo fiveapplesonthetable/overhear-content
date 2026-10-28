@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey there. Are you the new guy?' Max challenges honestly without hesitation, joining "zdorovo" ("great, cool") to "novenkiy" ("newcomer") so every word pulls its weight.
-- 'Yeah. I am Max.' Barinov holds a clear tempo at this moment, joining "aga" ("yeah, right") to "maks" ("Max") so every word pulls its weight.
-- 'That is Fedya.' Vika sets a firm tone right away, combining "eto" ("this") and "fedya" ("Fedya") so the key meaning lands right away.
-- 'They played the exact same prank on me when I started.' Max shares a sharp bearing in this beat, putting "syuda" ("here") alongside "shutili" ("to joke") in a tight, everyday turn of phrase.
-- 'Reporting for duty.' Barinov strikes a pointed mood in their talk, joining "prokhozhdeniya" ("undergoing") to "sluzhby" ("service, duty") so every word pulls its weight.
-- 'Viktor Petrovich.' Vika holds an unhurried course as they talk, joining "viktor" ("Viktor") to "petrovich" ("Petrovich") so every word pulls its weight.
-- 'I have good news for you.' Max picks an emphatic bearing across the room, using the everyday "u menya" ("by me") alongside "khoroshiye" ("good") to show what belongs to the speaker.
-- 'Your MRI results just came back.' Barinov sustains an earnest position at this moment, using "prishli" (from "priyti", "have come") alongside "rezultaty" ("results") to shape the meaning.
-- 'You simply cannot take your eyes off them.' Vika takes a thoughtful manner straight away, building the phrase around "prosto" ("just") and "glaz" ("of eyes") for a crisp, natural delivery.
-- 'Does that mean I can go back to work?' Max challenges quietly across the room, joining "znachit" ("then, so") to "mozhno" ("may, can") so every word pulls its weight.
-- 'You will have to forget about work for at least two months.' Barinov brings a lively tone on the spot, combining "rabote" ("work") and "pridetsya" ("will have to") so the key meaning lands right away.
-- 'What do you mean, for two months?' Vika quizzes candidly without hesitation, joining "kak" ("how") to "mesyatsa" ("months") so every word pulls its weight.
-- 'Two weeks here with us, and then bed rest at home.' Max establishes a direct footing in the scene, leaning on "nedeli" ("weeks") before closing the thought with "potom" ("then").
+- 'Hey there. Are you the new guy?' Max makes this update before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Yeah. I am Max.' Barinov proceeds warmly watching Vika, to clear the air between them once and for all.
+- 'That is Fedya.' Vika delivers that line without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'They played the exact same prank on me when I started.' Max opens up steadily to be clear, refusing to let the moment slip past.
+- 'Reporting for duty.' Barinov replies steadily in this moment, leaving no doubt about where he stands.
+- 'Viktor Petrovich.' Vika sends the comeback frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I have good news for you.' Max aims the remark before Barinov: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Your MRI results just came back.' Barinov stands firm evenly on the spot, refusing to let the moment slip past.
+- 'You simply cannot take your eyes off them.' Vika uses this key word in reply: "otorvat" means "to tear off", and it carries the main weight of what Vika is saying.
+- 'Does that mean I can go back to work?' Max aims the comeback on cue: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'You will have to forget about work for at least two months.' Barinov continues calmly without a pause, leaving no doubt about where he stands.
+- 'What do you mean, for two months?' Vika focuses on one direct term with Max: "mesyatsa" means "months" (from "mesyats"), giving the line its exact edge.
+- 'Two weeks here with us, and then bed rest at home.' Max aims that answer toward Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.

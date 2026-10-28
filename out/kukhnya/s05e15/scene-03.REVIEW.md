@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, not bad, it is quite lovely you have it here.' The guest favors an unhurried bearing in front of Eleonora, building the phrase around "tut" ("here") and "dovolno" ("quite, rather") for a crisp, natural delivery.
-- 'Thank you, please take a seat, well, how are you?' Eleonora checks briskly without a pause, linking "spasibo" ("thank you"), "proshu" ("beg, ask"), and "stolu" ("table") in one brisk exchange.
-- 'Half a year ago we opened a restaurant in Milan.' The guest sets an easygoing angle right away, combining "polgoda" ("six months") and "nazad" ("ago") so the key meaning lands right away.
-- 'And right now I have just flown in from London.' The guest holds an easygoing tack toward Eleonora, leaning on "seychas" ("now") before closing the thought with "tolko" ("only").
-- 'There we recently tried such an interesting thing.' The guest holds a steady stance straight away, putting "tam" ("there") alongside "interesnuyu" ("interesting") in a tight, everyday turn of phrase.
-- 'It is called an edible menu, I want to introduce it at my place.' The guest displays a calm bearing in the conversation, anchoring the Russian line on "nazyvayetsya" ("is called") and "syedobnoye" ("edible") without extra filler.
-- 'Big deal, that interesting thing is already a hundred years old!' Eleonora sustains an unhurried manner in the scene, linking "podumayesh" ("big deal, so what"), "interesnoy" ("interesting"), and "shtuke" ("thing, outfit") in one brisk exchange.
-- 'I know, but nobody in Moscow has it.' The guest sets a clear stance in this beat, pairing "znayu" ("know") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'Actually we already have it in our restaurant!' Eleonora keeps a grounded course for the guest, building the phrase around "voobshche-to" ("actually") and "restorane" ("restaurant") for a crisp, natural delivery.
-- 'Come on, really? Then show it to me!' The guest challenges calmly in front of Eleonora, joining "pravda" ("honestly") to "pokazhi" ("show") so every word pulls its weight.
-- 'Victoria, last week I spoke about the menu.' Eleonora adopts a brisk direction with the guest, combining "proshloy" ("last, past") and "nedele" ("week") so the key meaning lands right away.
-- 'About our new edible menu, do you remember?' Eleonora inquires wryly from the start, linking "novom" ("new"), "syedobnom" ("edible"), and "menyu" ("menu") in one brisk exchange.
+- 'Well, not bad, it is quite lovely you have it here.' The guest speaks up briskly on the spot, to clear the air between them once and for all.
+- 'Thank you, please take a seat, well, how are you?' Eleonora picks one sharp term at once: "spasibo" means "thank you", and it carries the main weight of what Eleonora is saying.
+- 'Half a year ago we opened a restaurant in Milan.' The guest answers openly without any doubt, making his position completely clear.
+- 'And right now I have just flown in from London.' The guest proceeds dryly toward Eleonora, refusing to let the moment slip past.
+- 'There we recently tried such an interesting thing.' The guest grounds this key expression on cue: "interesnuyu" means "interesting" (from "interesnyy"), giving the line its exact edge.
+- 'It is called an edible menu, I want to introduce it at my place.' The guest puts this warning to Eleonora: the "-sya" ending on "nazyvayetsya" ("is called") turns the action inward or makes it happen between people naturally.
+- 'Big deal, that interesting thing is already a hundred years old!' Eleonora stands firm at once on the spot, refusing to let the moment slip past.
+- 'I know, but nobody in Moscow has it.' The guest frames one telling word for Eleonora: "znayu" means "know" (from "znat"), giving the line its exact edge.
+- 'Actually we already have it in our restaurant!' Eleonora offers the reply to the guest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Come on, really? Then show it to me!' The guest tests eagerly as Eleonora tries to explain the situation.
+- 'Victoria, last week I spoke about the menu.' Eleonora spotlights one concrete touch at once: "proshloy" means "last, past" (from "proshlyy"), giving the line its exact edge.
+- 'About our new edible menu, do you remember?' Eleonora gives that line for the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, why are you not picking up the phone?' Max queries directly right away, using "trubku" (from "trubka", "the receiver") alongside "beryosh" ("do you take") to shape the meaning.
-- 'I will explain everything right now.' Max chooses a thoughtful position straight away, anchoring the Russian line on "seychas" ("now") and "obyasnyu" ("I'll explain") without extra filler.
-- 'Yesterday I walk into the locker room.' Max displays an unhurried stance across the room, weaving "vchera" ("yesterday") together with "zakhozhu" ("to come in") just the way native speakers do.
-- 'And I see someone rummaging through our things.' Max presents a grounded attitude in front of Vika, joining "vizhu" ("see") to "kak" ("how") so every word pulls its weight.
-- 'Probably a thief. I ran after him!' Max keeps a brisk mood on the spot, anchoring the Russian line on "navernoye" ("probably") and "vor" ("thief") without extra filler.
-- 'When I was running across the road, Iosif Prigozhin hit me.' Max sets a playful tack as they talk, joining "kogda" ("when") to "perebegal" ("ran across") so every word pulls its weight.
-- 'Lavrov, you are losing your touch.' Vika presents a clear manner without hesitation, putting "teryayesh" ("lose") alongside "kvalifikatsiyu" ("qualification") in a tight, everyday turn of phrase.
-- 'Some kind of low-quality lying.' Vika presents a serious mood across the room, leaning on "nekachestvennoye" ("low-quality") before closing the thought with "vranyo" ("never").
-- 'I told you the truth! What should I do?' Max presses frankly in this moment, using "pravdu" (from "pravda", "truth") alongside "skazal" ("said") to shape the meaning.
-- 'Well let Iosif Prigozhin come here and tell it.' Vika strikes a serious tempo across the room, building the phrase around "priyedet" ("will come, arrive") and "rasskazhet" ("will tell") for a crisp, natural delivery.
-- 'So you will believe Prigozhin, and not me?' Max questions plainly in the scene, leaning on "yest" ("there is") before closing the thought with "poverish" ("will believe").
-- 'Listen, could you not say that Prigozhin broke the cognac?' Kostya challenges firmly during the talk, putting "slushay" ("listen") alongside "mog" ("can, to be able") in a tight, everyday turn of phrase.
+- 'Vika, why are you not picking up the phone?' Max focuses on this telling choice in reply: "trubku" means "the receiver" (from "trubka"), giving the line its exact edge.
+- 'I will explain everything right now.' Max lays out the remark without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Yesterday I walk into the locker room.' Max pushes back dryly to settle things, without trying to dress up how he really feels.
+- 'And I see someone rummaging through our things.' Max emphasizes one classic term in reply: "veshchakh" means "thing" (from "veshch"), giving the line its exact edge.
+- 'Probably a thief. I ran after him!' Max counters wryly with a nod, making his position completely clear.
+- 'When I was running across the road, Iosif Prigozhin hit me.' Max answers right away before Vika, without trying to dress up how he really feels.
+- 'Lavrov, you are losing your touch.' Vika centers one sharp element in earnest: "kvalifikatsiyu" means "qualification" (from "kvalifikatsiya"), giving the line its exact edge.
+- 'Some kind of low-quality lying.' Vika makes this point without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I told you the truth! What should I do?' Max prompts quietly to see how Kostya will answer on the spot.
+- 'Well let Iosif Prigozhin come here and tell it.' Vika sharpens this telling choice right here: "rasskazhet" means "will tell" (from "rasskazat"), giving the line its exact edge.
+- 'So you will believe Prigozhin, and not me?' Max drops the thought right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Listen, could you not say that Prigozhin broke the cognac?' Kostya presses evenly whether Vika really thought this through.

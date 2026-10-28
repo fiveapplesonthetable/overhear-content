@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right, who ate the tenderloin with balsamic pearls?' Katya wonders directly during the talk, building the phrase around "syel" ("ate") and "vyrezku" ("tenderloin") for a crisp, natural delivery.
-- 'We didn't see anything.' Senya keeps a lively rhythm during the exchange, building the phrase around "videli" ("saw") and "my" ("we") for a crisp, natural delivery.
-- 'Is it delicious?' Katya questions candidly at this point, putting all the weight on "vkusno" ("it's tasty") so the reply lands immediately.
-- 'Honestly speaking, the dish is not tasty at all.' Senya displays an honest direction at this moment, combining "chestno" ("honestly") and "govorya" ("speaking") so the key meaning lands right away.
-- 'Well yes, what I made it from is what it turned out to be.' Katya brings a measured angle as they talk, building the phrase around "sdelala" ("have done, did") and "poluchilos" ("worked out") for a crisp, natural delivery.
-- 'I added the ingredient that you planted in my locker.' Katya shows a warm position right away, using "dobavila" (from "dobavit", "added") alongside "ingrediyent" ("ingredient") to shape the meaning.
-- 'What, did your mouth go dry?' Katya challenges frankly in their exchange, combining "rtu" ("mouth") and "peresokhlo" ("went dry") so the key meaning lands right away.
-- 'Did you want to poison us? She fed us that!' Senya asks warmly in the room, combining "khotela" ("wanted, meant") and "otravit" ("to poison") so the key meaning lands right away.
-- 'Finally someone put you idiots in your place.' Barinov projects an emphatic angle during the exchange, pairing "nakonets-to" ("at last, finally") with "idiotov" ("idiots") to get the point across in plain spoken Russian.
-- 'When the shift has ended. Right? What is this?' Barinov presses candidly right away, combining "kogda" ("when") and "zakonchilas" ("ended") so the key meaning lands right away.
-- 'And this is tenderloin and pearls with balsamic vinegar.' Katya brings a calm tack at this moment, placing "vyrezka" ("tenderloin") straight beside "zhemchuzhiny" ("pearls") with no word for "to be" needed.
-- 'Learn, student! It looks good and tastes pleasant.' Barinov shows a natural posture toward Senya, using "uchites" (from "uchitsya", "learn") alongside "student" ("student") to shape the meaning.
+- 'Right, who ate the tenderloin with balsamic pearls?' Katya puts that remark for Barinov: putting the question word "kto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'We didn't see anything.' Senya counters briskly without a pause, testing Katya's reaction in the middle of the exchange.
+- 'Is it delicious?' Katya underscores this telling detail with Barinov: "vkusno" means "it's tasty", and it carries the main weight of what Katya is saying.
+- 'Honestly speaking, the dish is not tasty at all.' Senya gives that line right away: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Well yes, what I made it from is what it turned out to be.' Katya continues promptly with a nod, before Barinov can change the subject.
+- 'I added the ingredient that you planted in my locker.' Katya focuses on one vivid word at once: "ingrediyent" means "ingredient", and it carries the main weight of what Katya is saying.
+- 'What, did your mouth go dry?' Katya makes this point frankly here: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Did you want to poison us? She fed us that!' Senya challenges promptly to see how Katya will answer on the spot.
+- 'Finally someone put you idiots in your place.' Barinov underscores one direct term toward Katya: "nakonets-to" means "at last, finally", and it carries the main weight of what Barinov is saying.
+- 'When the shift has ended. Right? What is this?' Barinov phrases that reply briskly now: the "-sya" ending on "zakonchilas" ("ended") turns the action inward or makes it happen between people naturally.
+- 'And this is tenderloin and pearls with balsamic vinegar.' Katya continues warmly without any doubt, steering the talk right where she wants it.
+- 'Learn, student! It looks good and tastes pleasant.' Barinov focuses on one clear word with Senya: "student" means "student", and it carries the main weight of what Barinov is saying.

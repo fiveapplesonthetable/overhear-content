@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Attention, everyone is chipping in three thousand for the birthday.' Senya conveys a calm bearing in front of Denis, weaving "vnimaniye" ("attention") together with "skidyvayemsya" ("are chipping in") just the way native speakers do.
-- 'And why so much, who is this gift for?' Denis probes warmly without hesitation, putting "pochemu" ("why") alongside "mnogo" ("a lot") in a tight, everyday turn of phrase.
-- 'For me of course, because I am having a crisis right now.' Senya maintains a serious stance for Denis, pairing "konechno" ("of course") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'Katya, tell me, where did you disappear to again?' Denis prompts calmly for Senya's benefit, combining "skazhi" ("say") and "kuda" ("where to") so the key meaning lands right away.
-- 'We were going to drink coffee, and you are silent.' Denis shows an earnest stance for Katya, pairing "sobiralis" ("to intend") with "kofe" ("of coffee") so the "-sya" ending carries the action.
-- 'You should better go to the cafe with Sveta.' Katya offers an earnest style in the room, weaving "luchshe" ("better") together with "kafe" ("café") just the way native speakers do.
-- 'At the same time you will drink tasty coffee and kiss again.' Katya conveys a grounded approach for Denis, linking "zaodno" ("at the same time"), "vkusnogo" ("tasty, delicious"), and "kofe" ("of coffee") in one brisk exchange.
-- 'Katya, wait, after all that means nothing.' Denis chooses a thoughtful tempo during the exchange, building the phrase around "postoy" ("wait") and "znachit" ("then, so") for a crisp, natural delivery.
-- 'It happened by accident, just in a friendly way.' Denis strikes a brisk mood toward Katya, building the phrase around "vyshlo" ("happened, came about") and "sluchayno" ("by any chance") for a crisp, natural delivery.
-- 'Then keep going to your friend.' Katya brings a direct rhythm in this beat, anchoring the Russian line on "idi" ("go") and "dalshe" ("next, go on") without extra filler.
-- 'Katya, there is nothing between Sveta and me.' Denis favors a brisk view at this moment, leaning on "katya" ("Katya") before closing the thought with "menya" ("me").
-- 'If you do not believe me, ask her.' Denis takes a lively footing at once, joining "verish" ("do you believe") to "sprosi" ("ask") so every word pulls its weight.
-- 'For me that will be an excellent gift!' Senya shares an honest stance at once, putting "budet" ("will be") alongside "otlichnyy" ("excellent, great") in a tight, everyday turn of phrase.
+- 'Attention, everyone is chipping in three thousand for the birthday.' Senya brings the remark in earnest: the "-sya" ending on "skidyvayemsya" ("are chipping in") turns the action inward or makes it happen between people naturally.
+- 'And why so much, who is this gift for?' Denis checks curiously before Senya can change the subject.
+- 'For me of course, because I am having a crisis right now.' Senya colors one telling piece at once: "konechno" means "of course", and it carries the main weight of what Senya is saying.
+- 'Katya, tell me, where did you disappear to again?' Denis directs the comment before Senya: putting the question word "kuda" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'We were going to drink coffee, and you are silent.' Denis steps in steadily watching Katya, to clear the air between them once and for all.
+- 'You should better go to the cafe with Sveta.' Katya picks this telling choice with Senya: "luchshe" means "better", and it carries the main weight of what Katya is saying.
+- 'At the same time you will drink tasty coffee and kiss again.' Katya shapes the comment with ease: the "-sya" ending on "potseluyetes" ("you will kiss") turns the action inward or makes it happen between people naturally.
+- 'Katya, wait, after all that means nothing.' Denis responds boldly with a shrug, steering the talk right where he wants it.
+- 'It happened by accident, just in a friendly way.' Denis underscores this key term at once: "po-druzheski" means "in a friendly way", and it carries the main weight of what Denis is saying.
+- 'Then keep going to your friend.' Katya continues calmly in their talk, steering the talk right where she wants it.
+- 'Katya, there is nothing between Sveta and me.' Denis speaks up steadily on the spot, leaving no doubt about where he stands.
+- 'If you do not believe me, ask her.' Denis uses one practical term with Senya: "verish" means "do you believe" (from "verit"), giving the line its exact edge.
+- 'For me that will be an excellent gift!' Senya opens up pointedly with a smile, without trying to dress up how he really feels.

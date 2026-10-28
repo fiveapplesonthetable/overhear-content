@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, will you have some hot tea right now?' Barinov prompts candidly in the room, building the phrase around "budesh" ("will") and "seychas" ("now") for a crisp, natural delivery.
-- 'No, Dad, I do not want anything.' Katya shows an earnest view across the room, building the phrase around "papa" ("Dad") and "khochu" ("want") for a crisp, natural delivery.
-- 'I am not offended at you at all.' Barinov establishes a candid manner in the scene, combining the intensifier "sovsem" ("completely, at all") with "obizhayus" ("am offended") to give the line its natural spoken rhythm.
-- 'I do not work there anymore, they fired me.' Katya holds a warm attitude in the conversation, anchoring the Russian line on "tam" ("there") and "bolshe" ("more") without extra filler.
-- 'What do you mean fired, what a scoundrel he is!' Barinov holds a natural approach in the room, pairing "kak" ("how") with "uvolili" ("to fire, to dismiss") to get the point across in plain spoken Russian.
-- 'Remember, you can always work with me.' Barinov shows a grounded stance with Senya, linking "pomni" ("remember"), "vsegda" ("always"), and "mozhesh" ("can") in one brisk exchange.
-- 'Chef, our whiskered friend completed the mission!' Senya adopts a warm posture with Barinov, anchoring the Russian line on "usatyy" ("friend") and "drug" ("friend") without extra filler.
-- 'Senya, what nonsense are you talking, drink some tea!' Barinov sets a clear tack in the scene, putting "nesyosh" ("are carrying") alongside "vypey" ("drink") in a tight, everyday turn of phrase.
-- 'Chef, I am talking about the cat!' Senya picks a lively direction at once, pairing "koshku" ("cat") with "govoryu" ("am telling") to get the point across in plain spoken Russian.
-- 'Dad, what a deceiver you really are!' Katya sets a firm tempo in front of Senya, joining "papa" ("Dad") to "obmanshchik" ("cheat, liar") so every word pulls its weight.
-- 'Chef, did I ruin your surprise or what?' Senya asks steadily with Barinov now, pairing "syurpriz" ("surprise") with "isportil" ("to spoil, ruin") to get the point across in plain spoken Russian.
-- 'Get out of here, I cannot stand the sight of you!' Barinov conveys a measured position in their talk, linking "idi" ("go"), "otsyuda" ("from here"), and "videt" ("to see") in one brisk exchange.
+- 'Katya, will you have some hot tea right now?' Barinov highlights one practical expression at once: "goryachiy" means "hot", and it carries the main weight of what Barinov is saying.
+- 'No, Dad, I do not want anything.' Katya phrases this warning with warmth: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I am not offended at you at all.' Barinov cuts in bluntly before Katya, so Katya knows he is not just making small talk.
+- 'I do not work there anymore, they fired me.' Katya picks one classic choice in reply: "rabotayu" means "work" (from "rabotat"), giving the line its exact edge.
+- 'What do you mean fired, what a scoundrel he is!' Barinov proceeds at once facing Katya, watching Katya's face to see how the news lands.
+- 'Remember, you can always work with me.' Barinov steps in evenly facing Senya, without trying to dress up how he really feels.
+- 'Chef, our whiskered friend completed the mission!' Senya colors one classic piece on cue: "missiyu" means "mission" (from "missiya"), giving the line its exact edge.
+- 'Senya, what nonsense are you talking, drink some tea!' Barinov colors one direct piece in reply: "nesyosh" means "are carrying" (from "nesti"), giving the line its exact edge.
+- 'Chef, I am talking about the cat!' Senya holds firm decisively in their talk, bringing things back to earth after the buildup.
+- 'Dad, what a deceiver you really are!' Katya features one telling piece with Senya: "obmanshchik" means "cheat, liar", and it carries the main weight of what Katya is saying.
+- 'Chef, did I ruin your surprise or what?' Senya brings the reply toward Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Get out of here, I cannot stand the sight of you!' Barinov fires back quietly in their talk, steering the talk right where he wants it.

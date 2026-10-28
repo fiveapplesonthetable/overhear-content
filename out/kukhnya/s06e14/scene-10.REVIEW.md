@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gulya, our morning did not go well.' Lyova offers a wry stance in front of Ainura, leaning on "utro" ("morning") before closing the thought with "zadalos" ("went well, worked out").
-- 'Maybe we can take a walk and discuss everything?' Lyova probes frankly to make the point, combining "mozhet" ("can") and "byt" ("be") so the key meaning lands right away.
-- 'Fine, wait for me here for one second.' Gulya establishes a serious note beside Ainura, building the phrase around "podozhdi" ("wait") and "zdes" ("here") for a crisp, natural delivery.
-- 'Well then, are we going for a walk now?' Lyova wonders lightly in front of Gulya, linking "idyom" ("are going"), "seychas" ("now"), and "gulyat" ("to walk") in one brisk exchange.
-- 'Lyova, why are you so sad today?' Ainura tests candidly as the talk turns, placing "pochemu" ("why") straight beside "segodnya" ("today") with no word for "to be" needed.
-- 'Gulya is very offended at me for some reason.' Lyova adopts an easygoing course in their talk, pairing "pochemu-to" ("for some reason") with "silno" ("strongly, much") to get the point across in plain spoken Russian.
-- 'Well of course, she has been waiting for a wedding for a long time.' Ainura maintains a frank note in this beat, combining "konechno" ("of course") and "davno" ("for a long time") so the key meaning lands right away.
-- 'She should have been married a long time ago.' Ainura picks a frank posture at this moment, joining "uzhe" ("already, now") to "davno" ("for a long time") so every word pulls its weight.
-- 'That is why she is offended at you.' Ainura offers a clear tone without hesitation, building the phrase around "poetomu" ("that's why") and "obizhayetsya" ("to take offence") for a crisp, natural delivery.
-- 'I am planning to marry her.' Lyova sets an earnest position toward Gulya, linking "sobirayus" ("am planning"), "zhenitsya" ("to marry"), and "da" ("yes") in one brisk exchange.
-- 'I just cannot get married right now.' Lyova takes a natural tack in the room, anchoring the Russian line on "prosto" ("just") and "mogu" ("can") without extra filler.
-- 'Then what are you waiting so long for?' Ainura probes naturally to keep things clear, linking "togda" ("back then"), "dolgo" ("for a long time"), and "zhdyosh" ("to wait, to expect") in one brisk exchange.
+- 'Gulya, our morning did not go well.' Lyova uses this key touch in earnest: "zadalos" means "went well, worked out" (from "zadatsya"), giving the line its exact edge.
+- 'Maybe we can take a walk and discuss everything?' Lyova offers this point to Gulya: the "-sya" ending on "progulyayemsya" ("take a walk") turns the action inward or makes it happen between people naturally.
+- 'Fine, wait for me here for one second.' Gulya cuts in firmly with a sigh, before Ainura can change the subject.
+- 'Well then, are we going for a walk now?' Lyova sharpens one key choice at once: "seychas" means "now", and it carries the main weight of what Lyova is saying.
+- 'Lyova, why are you so sad today?' Ainura lays out the comment before Gulya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Gulya is very offended at me for some reason.' Lyova reacts quietly with a smile, making his position completely clear.
+- 'Well of course, she has been waiting for a wedding for a long time.' Ainura frames this telling element in reply: "konechno" means "of course", and it carries the main weight of what Ainura is saying.
+- 'She should have been married a long time ago.' Ainura holds firm honestly with a smile, to clear the air between them once and for all.
+- 'That is why she is offended at you.' Ainura weighs in boldly as things stand, leaving no doubt about where she stands.
+- 'I am planning to marry her.' Lyova spotlights one vivid word right here: "sobirayus" means "am planning" (from "sobiratsya"), giving the line its exact edge.
+- 'I just cannot get married right now.' Lyova lays out the remark on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Then what are you waiting so long for?' Ainura checks skeptically what Lyova is actually getting at here.

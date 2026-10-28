@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you even know what kind of emissions it puts into the atmosphere?' Nastya quizzes pointedly with Barinov now, linking "znayesh" ("know"), "voobshche" ("at all"), and "vybros" ("emission") in one brisk exchange.
-- 'Thank you, no need.' Nastya adopts a resolute footing right away, anchoring the Russian line on "spasibo" ("thank you") and "nado" ("it is necessary") without extra filler.
-- 'The sheikh has finished his negotiations.' Louis chooses a serious bearing across the room, weaving "sheykh" ("sheikh") together with "zakonchil" ("finished") just the way native speakers do.
-- 'Where is the promised dessert?' Louis tests evenly as the beat lands, putting "gde" ("where") alongside "obeshchannyy" ("promised") in a tight, everyday turn of phrase.
-- 'Louis, come here quickly!' Barinov adopts a warm line beside Louis, putting "idi" ("go") alongside "syuda" ("here") in a tight, everyday turn of phrase.
-- 'Make one more chocolate fondant.' Barinov maintains an honest view across the room, pairing "sdelay" ("make, do") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
-- 'And I will find something to keep the guest occupied.' Barinov strikes a wry view during the exchange, weaving "naydu" ("find") together with "zanyat" ("to borrow") just the way native speakers do.
-- 'Chef, but the dessert is already ready!' Louis conveys an earnest posture in this beat, building the phrase around "desert" ("dessert") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'I need to buy twenty more minutes.' Barinov maintains a brisk stance at once, building the phrase around "nuzhno" ("necessary") and "vyigrat" ("to win") for a crisp, natural delivery.
-- 'And what are you going to do in the dining room?' Louis probes frankly from the start, leaning on "sobirayetes" ("to intend") before closing the thought with "delat" ("do").
-- 'Right now you will see a real show.' Barinov presents an emphatic note for Louis, pairing "seychas" ("now") with "uvidish" ("see") so the "-sya" ending carries the action.
-- 'Good luck to you, Chef!' Louis adopts a steady line across the room, combining "udachi" ("luck") and "vam" ("you") so the key meaning lands right away.
+- 'Do you even know what kind of emissions it puts into the atmosphere?' Nastya checks straight out while looking straight at Barinov here.
+- 'Thank you, no need.' Nastya highlights this key touch right here: "spasibo" means "thank you", and it carries the main weight of what Nastya is saying.
+- 'The sheikh has finished his negotiations.' Louis voices this line at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Where is the promised dessert?' Louis quizzes earnestly where this conversation is heading next.
+- 'Louis, come here quickly!' Barinov colors one key touch right here: "skoreye" means "quickly, right away" (from "skoro"), giving the line its exact edge.
+- 'Make one more chocolate fondant.' Barinov chimes in sharply without holding back, keeping the focus on what actually matters here.
+- 'And I will find something to keep the guest occupied.' Barinov replies decisively before Louis, without trying to dress up how he really feels.
+- 'Chef, but the dessert is already ready!' Louis leans on one sharp choice on cue: "desert" means "dessert", and it carries the main weight of what Louis is saying.
+- 'I need to buy twenty more minutes.' Barinov phrases this update with ease: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'And what are you going to do in the dining room?' Louis quizzes point-blank if there is more going on behind the scenes.
+- 'Right now you will see a real show.' Barinov anchors one key touch with Louis: "nastoyashcheye" means "real" (from "nastoyashchiy"), giving the line its exact edge.
+- 'Good luck to you, Chef!' Louis aims the comeback to Nastya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

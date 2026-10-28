@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, good morning, Chef!' Mikhail adopts a playful posture for Barinov, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.
-- 'Mikhail will give us a restroom as we ask.' Barinov adopts a resolute stance in the scene, anchoring the Russian line on "sdelayet" ("will do") and "tualet" ("toilet") without extra filler.
-- 'Chef, I only need a tiny moment in there.' Mikhail holds an easygoing attitude as the scene unfolds, linking "tam" ("there"), "sovsem" ("at all"), and "chut-chut" ("a little bit") in one brisk exchange.
-- 'Please, do not worry.' Mikhail picks an emphatic mood as the scene unfolds, putting "volnuytes" ("worry") alongside "pozhaluysta" ("please") in a tight, everyday turn of phrase.
-- 'Right now we will fix everything quickly.' Mikhail sets a serious footing with Barinov, putting "seychas" ("now") alongside "bystro" ("quickly") in a tight, everyday turn of phrase.
-- 'What is going on there, did the elevator break?' Mikhail inquires sharply beside Vika, building the phrase around "tam" ("there") and "lift" ("elevator") for a crisp, natural delivery.
-- 'No, Mikhail, there is a little problem there.' Vika sets a thoughtful approach at once, anchoring the Russian line on "tam" ("there") and "nebolshaya" ("small") without extra filler.
-- 'I am checking whether everything is ready for the opening.' Barinov projects a candid bearing in this beat, using "proveryayu" (from "proveryat", "to check, test") alongside "gotovo" ("ready") to shape the meaning.
-- 'Would you not like to join us?' Barinov probes boldly in the scene, putting "khotite" ("want") alongside "prisoyedinitsya" ("to join") in a tight, everyday turn of phrase.
-- 'We will lose all our guests like this!' Mikhail takes a grounded direction as they talk, building the phrase around "gostey" ("guests") and "poteryayem" ("will lose") for a crisp, natural delivery.
-- 'If you want to keep them, stay out of my way!' Barinov presents an emphatic direction for Mikhail, leaning on "khochesh" ("do you want") before closing the thought with "sokhranit" ("to preserve").
-- 'Goodness, why are you acting like children?' Vika challenges pointedly as the beat lands, building the phrase around "kak" ("how") and "deti" ("kids") for a crisp, natural delivery.
-- 'Cannot reach an agreement? Toss a coin.' Vika counters wryly without a pause, leaning on "mozhete" ("can, may") before closing the thought with "dogovoritsya" ("to reach an agreement").
+- 'Oh, good morning, Chef!' Mikhail spotlights this vivid element with Barinov: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
+- 'Mikhail will give us a restroom as we ask.' Barinov reacts firmly beside Vika, making his position completely clear.
+- 'Chef, I only need a tiny moment in there.' Mikhail proceeds frankly with a shrug, before Barinov can change the subject.
+- 'Please, do not worry.' Mikhail reaches for one telling word at once: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
+- 'Right now we will fix everything quickly.' Mikhail answers briskly hearing Barinov, without trying to dress up how he really feels.
+- 'What is going on there, did the elevator break?' Leaning in before Vika, Mikhail brings the conversation back to practical reality.
+- 'No, Mikhail, there is a little problem there.' Vika highlights one colorful word toward Barinov: "nebolshaya" means "small" (from "nebolshoy"), giving the line its exact edge.
+- 'I am checking whether everything is ready for the opening.' Barinov jumps in openly toward Vika, leaving no doubt about where he stands.
+- 'Would you not like to join us?' Barinov inquires frankly in front of Mikhail without any preamble.
+- 'We will lose all our guests like this!' Mikhail centers one key piece on cue: "poteryayem" means "will lose" (from "poteryat"), giving the line its exact edge.
+- 'If you want to keep them, stay out of my way!' Barinov follows up frankly hearing Mikhail, so Mikhail knows he is not just making small talk.
+- 'Goodness, why are you acting like children?' Vika presses quietly in front of Mikhail without any preamble.
+- 'Cannot reach an agreement? Toss a coin.' Vika spotlights one practical element in earnest: "dogovoritsya" means "to reach an agreement", and it carries the main weight of what Vika is saying.

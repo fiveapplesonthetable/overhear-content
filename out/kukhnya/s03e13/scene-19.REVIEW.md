@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, think about it, the largest Russian chain is offering good money.' Kristina takes an easygoing posture as the scene unfolds, linking "podumay" ("think"), "krupneyshaya" ("largest"), and "rossiyskaya" ("Russian") in one brisk exchange.
-- 'Sell the restaurant and do not think twice.' Kristina shares a thoughtful position as they talk, combining "prodavay" ("sell") and "restoran" ("restaurant") so the key meaning lands right away.
-- 'How can I sell it, the restaurant is a hobby.' Nagiyev strikes a lively manner toward Kristina, putting "kak" ("how") alongside "prodam" ("I'll sell") in a tight, everyday turn of phrase.
-- 'And money is just paper.' Nagiyev shares an honest manner in the conversation, putting "dengi" ("money") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'Besides, you watch television, after all.' Nagiyev strikes a resolute tone in this beat, putting "potom" ("then") alongside "televizor" ("television") in a tight, everyday turn of phrase.
-- 'They interrupt a movie with me for a commercial.' Nagiyev picks a sharp angle at this moment, building the phrase around "kino" ("cinema, movies") and "preryvayut" ("interrupt") for a crisp, natural delivery.
-- 'I will quickly load the video right now.' Nagiyev shows a firm line during the exchange, leaning on "seychas" ("now") before closing the thought with "bystro" ("quickly").
-- 'The internet here simply flies!' Nagiyev takes a firm direction in front of Vika, joining "internet" ("internet") to "zdes" ("here") so every word pulls its weight.
-- 'And here is the manager of my hobby.' Nagiyev offers an unhurried style as the scene unfolds, combining "direktor" ("head teacher") and "khobbi" ("hobby") so the key meaning lands right away.
-- 'You can tell right away the person loves coming to work.' Nagiyev projects a serious stance as the scene unfolds, weaving "srazu" ("at once") together with "vidno" ("one can see") just the way native speakers do.
-- 'Vika, what is this paper?' Nagiyev questions candidly in the scene, building the phrase around "bumaga" ("paper") and "vika" ("Vika") for a crisp, natural delivery.
-- 'This is my notice, I am resigning.' Vika adopts a pointed style in the room, anchoring the Russian line on "zayavleniye" ("statement") and "uvolnyayus" ("quit, resign") without extra filler.
+- 'Dima, think about it, the largest Russian chain is offering good money.' Kristina frames one pointed element in earnest: "krupneyshaya" means "largest" (from "krupneyshiy"), giving the line its exact edge.
+- 'Sell the restaurant and do not think twice.' Kristina opens up dryly watching Vika, without trying to dress up how she really feels.
+- 'How can I sell it, the restaurant is a hobby.' Nagiyev replies at once without a pause, steering the talk right where he wants it.
+- 'And money is just paper.' Nagiyev colors this direct term at once: "bumaga" means "paper", and it carries the main weight of what Nagiyev is saying.
+- 'Besides, you watch television, after all.' Nagiyev stresses one practical expression at once: "televizor" means "television", and it carries the main weight of what Nagiyev is saying.
+- 'They interrupt a movie with me for a commercial.' Nagiyev holds firm calmly to be clear, to clear the air between them once and for all.
+- 'I will quickly load the video right now.' Nagiyev points to one loaded detail toward Kristina: "zagruzhu" means "to load" (from "zagruzit"), giving the line its exact edge.
+- 'The internet here simply flies!' Nagiyev aims this answer beside Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'And here is the manager of my hobby.' Nagiyev weighs in bluntly without holding back, saying out loud what both of them already know.
+- 'You can tell right away the person loves coming to work.' Nagiyev leans on one practical touch in reply: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
+- 'Vika, what is this paper?' Nagiyev brings that reply on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'This is my notice, I am resigning.' Vika reacts evenly hearing Nagiyev, so Nagiyev knows she is not just making small talk.

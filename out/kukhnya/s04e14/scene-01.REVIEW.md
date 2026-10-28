@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There are no orders yet, the restaurant is still closed.' Senya offers a frank mood in this beat, building the phrase around "zakazov" ("orders") and "poka" ("bye") for a crisp, natural delivery.
-- 'Our new management does not know the schedule.' Senya keeps an emphatic tack toward Katya, joining "novoye" ("new") to "nachalstvo" ("management") so every word pulls its weight.
-- 'Relax, friend, there is still time.' Fedya strikes an honest position in the scene, leaning on "rasslabsya" ("relax") before closing the thought with "drug" ("friend").
-- 'Next time the knife will be higher!' Katya conveys a candid stance in front of Senya, joining "sleduyushchiy" ("next") to "raz" ("time, once") so every word pulls its weight.
-- 'Get to work quickly, without chatter!' Katya adopts a warm bearing in this beat, building the phrase around "davayte" ("let's") and "bystro" ("quickly") for a crisp, natural delivery.
-- 'One must not be so mean in the morning!' Fedya sets an emphatic tempo in their talk, pairing "nelzya" ("not allowed") with "byt" ("be") to get the point across in plain spoken Russian.
-- 'Especially since today is your dad's holiday.' Senya adopts an honest direction in the room, building the phrase around "boleye" ("more") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Quiet, guys, our birthday boy is coming here!' Senya projects a natural course in this beat, joining "tikho" ("easy, quiet") to "rebyata" ("the boys, the lads") so every word pulls its weight.
-- 'Viktor Petrovich, happy birthday to you!' Fedya conveys a brisk stance beside Katya, using "pozdravlyayem" (from "pozdravlyat", "we congratulate") alongside "dnyom" ("day") to shape the meaning.
-- 'Hurray, we wish you health and happiness!' Senya brings a serious note in the conversation, putting "zhelayem" ("to wish") alongside "zdorovya" ("health") in a tight, everyday turn of phrase.
-- 'Thank you very much, friends, I am very pleased.' Fedya holds a candid stance straight away, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.
-- 'Lyova, hold my presents, please.' Senya holds a warm bearing in the scene, pairing "poderzhi" ("hold") with "podarki" ("presents") to get the point across in plain spoken Russian.
+- 'There are no orders yet, the restaurant is still closed.' Senya points to one pointed element toward Fedya: "restoran" means "restaurant", and it carries the main weight of what Senya is saying.
+- 'Our new management does not know the schedule.' Senya counters sharply without a pause, leaving no doubt about where he stands.
+- 'Relax, friend, there is still time.' Fedya replies warmly to settle things, bringing things back to earth after the buildup.
+- 'Next time the knife will be higher!' Katya leans on this clear choice with Senya: "sleduyushchiy" means "next", and it carries the main weight of what Katya is saying.
+- 'Get to work quickly, without chatter!' Katya states this line around Fedya: the word "davayte" is the polite or group version of "let's", inviting Fedya into the plan right away.
+- 'One must not be so mean in the morning!' Fedya answers wryly as things stand, steering the talk right where he wants it.
+- 'Especially since today is your dad's holiday.' Senya spotlights this sharp expression with Fedya: "prazdnik" means "holiday", and it carries the main weight of what Senya is saying.
+- 'Quiet, guys, our birthday boy is coming here!' Senya jumps in plainly without a pause, so Katya knows he is not just making small talk.
+- 'Viktor Petrovich, happy birthday to you!' Fedya fires back decisively as they talk, watching Katya's face to see how the news lands.
+- 'Hurray, we wish you health and happiness!' Senya centers one vivid word toward Katya: "zdorovya" means "health" (from "zdorovye"), giving the line its exact edge.
+- 'Thank you very much, friends, I am very pleased.' Fedya phrases that answer to Katya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Lyova, hold my presents, please.' Senya proceeds sharply in their talk, refusing to let the moment slip past.

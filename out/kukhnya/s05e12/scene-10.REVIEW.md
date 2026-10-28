@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You will forget about me on the lilac moon.' Barinov favors a brisk footing across the room, building the phrase around "zabudesh" ("will forget") and "sirenevoy" ("lilac") for a crisp, natural delivery.
-- 'Maybe only for a moment.' Barinov offers a direct rhythm with Senya, linking "mozhet" ("can"), "tolko" ("only"), and "mgnoveniye" ("instant, moment") in one brisk exchange.
-- 'The chef went to the laundry room!' Senya shows an unhurried tone on the spot, using "ushyol" (from "uyti", "left, departed") alongside "prachechnuyu" ("laundry room") to shape the meaning.
-- 'Chef, will you be able to dance the tango?' Max queries evenly to Senya here, building the phrase around "tango" ("tango") and "smozhete" ("will be able to") for a crisp, natural delivery.
-- 'What? Lavrov, do not infuriate me!' Barinov questions sharply in the room, weaving "besi" ("to infuriate") together with "chego" ("what") just the way native speakers do.
-- 'The chef is coming, run!' Senya holds an emphatic mood as the scene unfolds, linking "idyot" ("goes, is going"), "begi" ("run"), and "shef" ("Chef") in one brisk exchange.
-- 'And why are you standing around here?' Barinov questions lightly with Max now, pairing "tut" ("here") with "stoite" ("are standing") to get the point across in plain spoken Russian.
-- 'Chef, we are waiting for you. We just wanted you to help us.' Senya sets a pointed attitude as they talk, building the phrase around "zhdyom" ("we wait") and "prosto" ("just") for a crisp, natural delivery.
-- 'To talk Fedya out of quitting.' Senya sets a calm attitude in front of Barinov, anchoring the Russian line on "otgovorit" ("to talk out of") and "uvolnyatsya" ("to quit, resign") without extra filler.
-- 'And who needs this Fedya?' Barinov asks pointedly toward Senya here, anchoring the Russian line on "nuzhen" ("is needed") and "komu" ("to whom, who") without extra filler.
-- 'Thank you, chef, you really know how to persuade!' Senya sets an honest stance in the room, joining "spasibo" ("thank you") to "umeyete" ("know how") so every word pulls its weight.
-- 'Either you work, or other people will split your salary!' Barinov sets an earnest attitude with Senya, combining "rabotayete" ("work") and "zarplatu" ("salary") so the key meaning lands right away.
+- 'You will forget about me on the lilac moon.' Barinov sharpens one direct word for Max: "sirenevoy" means "lilac" (from "sirenevyy"), giving the line its exact edge.
+- 'Maybe only for a moment.' Barinov puts this line with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'The chef went to the laundry room!' Senya steps in sharply with a nod, steering the talk right where he wants it.
+- 'Chef, will you be able to dance the tango?' Max focuses on one key word right here: "tantsevat" means "to dance", and it carries the main weight of what Max is saying.
+- 'What? Lavrov, do not infuriate me!' Barinov brings this answer toward Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'The chef is coming, run!' Senya proceeds candidly around Max, keeping the focus on what actually matters here.
+- 'And why are you standing around here?' Barinov anchors this telling term with Max: "stoite" means "are standing" (from "stoyat"), giving the line its exact edge.
+- 'Chef, we are waiting for you. We just wanted you to help us.' Senya drops that thought with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'To talk Fedya out of quitting.' Senya answers lightly before Barinov, steering the talk right where he wants it.
+- 'And who needs this Fedya?' Barinov spotlights one concrete expression in reply: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'Thank you, chef, you really know how to persuade!' Senya voices this point in earnest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Either you work, or other people will split your salary!' Barinov answers at once without a pause, leaving no doubt about where he stands.

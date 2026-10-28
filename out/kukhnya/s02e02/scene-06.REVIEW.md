@@ -27,9 +27,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Enjoy your meal.' Serving a table in the dining room, Sasha wishes the guest a pleasant meal.
-- 'Sasha, hi.' the guest delivers a punchy conversational reaction built around the Russian word meaning 'hi'.
+- 'Sasha, hi.' Sitting down at the table with a warm smile, the guest greets Sasha casually.
 - 'I want to eat.' Another guest tells Sasha that he is hungry and ready to order.
-- 'Will you ask for a California roll?' the guest turns a statement into a question purely through rising intonation on the word meaning 'to ask' to make the point directly in conversation.
+- 'Will you ask for a California roll?' Glancing at the menu, the guest asks whether she is going to order a classic roll.
 - 'Yes, of course.' When the guest asks for a 'California' roll, Sasha gladly agrees to bring it.
 - 'Okay, thanks.' She thanks the guest and turns to place the sushi order.
 - 'Oh, what is this?' Suddenly noticing a commotion at a nearby table, Sasha gasps in alarm.

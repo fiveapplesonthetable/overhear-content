@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The most important thing is to always smile.' Max holds a grounded rhythm in this beat, leaning on "samoye" ("the most") before closing the thought with "glavnoye" ("important").
-- 'Make it look more natural.' Max picks an unhurried angle with Vika, putting all the weight on "yestestvenney" ("make") so the reply lands immediately.
-- 'Go ahead. I believe in you.' Max shares a grounded stance in front of Denis, leaning on "vperyod" ("ahead of") before closing the thought with "veryu" ("believe").
-- 'These things happen.' Denis sustains a firm attitude across the room, using "byvayet" ("there can be") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'You have a wonderful resume, but unfortunately you do not suit us.' Vika offers a lively attitude as they talk, building the phrase around "prekrasnoye" ("wonderful, fine") and "rezyume" ("résumé") for a crisp, natural delivery.
-- 'We will definitely call you back.' Vika sets a playful style without hesitation, pairing "obyazatelno" ("surely, without fail") with "perezvonim" ("to call back") to get the point across in plain spoken Russian.
-- 'Forgive me, I will fix everything.' Denis establishes a clear tack with Max, putting "prostite" ("excuse me") alongside "ispravlyu" ("will fix") in a tight, everyday turn of phrase.
-- 'I think my finger is hurt.' Vika presents a natural line during the exchange, linking "kazhetsya" ("it seems, I think"), "palets" ("finger"), and "menya" ("me") in one brisk exchange.
-- 'Let's go to the emergency clinic.' Max maintains a warm tempo during the exchange, putting "poyekhali" ("here we go") alongside "travmpunkt" ("emergency") in a tight, everyday turn of phrase.
-- 'Easy, easy, calm down.' Max strikes an easygoing note beside Vika, using "tikho" ("easy, quiet") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Unfortunately.' Vika picks a serious tempo in the conversation, putting all the weight on "sozhaleniyu" ("regret") so the reply lands immediately.
-- 'Where are all of you even looking?' Vika challenges warmly in their exchange, joining "kuda" ("where to") to "smotrite" ("look") so every word pulls its weight.
+- 'The most important thing is to always smile.' Max frames that answer facing Denis: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Make it look more natural.' Max holds firm pointedly around Vika, grounding the moment in plain reality.
+- 'Go ahead. I believe in you.' Max spotlights one sharp piece for Denis: "vperyod" means "ahead of", and it carries the main weight of what Max is saying.
+- 'These things happen.' Denis offers this statement with candor: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'You have a wonderful resume, but unfortunately you do not suit us.' Vika weighs in evenly to be clear, leaving no doubt about where she stands.
+- 'We will definitely call you back.' Vika colors one familiar touch for Max: "obyazatelno" means "surely, without fail", and it carries the main weight of what Vika is saying.
+- 'Forgive me, I will fix everything.' Denis shapes the thought plainly here: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'I think my finger is hurt.' Vika follows up calmly with a nod, to clear the air between them once and for all.
+- 'Let's go to the emergency clinic.' Max spotlights one loaded detail right here: "travmpunkt" means "emergency", and it carries the main weight of what Max is saying.
+- 'Easy, easy, calm down.' Max makes the comeback toward Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Unfortunately.' Vika holds firm honestly without holding back, before Denis can change the subject.
+- 'Where are all of you even looking?' Vika grounds one sharp touch at once: "smotrite" means "look" (from "smotret"), giving the line its exact edge.

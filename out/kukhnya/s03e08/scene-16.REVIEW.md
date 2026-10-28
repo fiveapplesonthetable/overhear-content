@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a dangerous moment, there is going to be a shot right now!' Barinov favors a brisk bearing in their talk, leaning on "opasnyy" ("dangerous") before closing the thought with "moment" ("moment").
-- 'Yes, Lena, I already took some good medicine.' Barinov shares a warm tone in the conversation, linking "uzhe" ("already, now"), "khorosheye" ("lovely, good"), and "lekarstvo" ("medicine") in one brisk exchange.
-- 'My leg is a bit better already, but it still hurts a lot.' Barinov presents an easygoing stance in the conversation, combining "noge" ("leg, foot") and "uzhe" ("already, now") so the key meaning lands right away.
-- 'I see that you are already considerably better.' Elena conveys a candid view with Barinov, weaving "vizhu" ("see") together with "uzhe" ("already, now") just the way native speakers do.
-- 'Lena, well forgive me, I was walking and here was our football.' Barinov holds an honest course at once, weaving "izvini" ("sorry, excuse me") together with "idu" ("going, running") just the way native speakers do.
-- 'Our team has a chance to snatch victory!' Barinov keeps a candid footing as the scene unfolds, putting "komandy" ("commands") alongside "poyavilsya" ("appeared") in a tight, everyday turn of phrase.
-- 'And you have fewer and fewer chances left.' Elena sets a serious tempo beside Barinov, linking "shansov" ("chances"), "ostayotsya" ("stays"), and "menshe" ("less") in one brisk exchange.
-- 'Lena, what are you doing, this is a decisive penalty kick!' Barinov conveys a measured manner at this moment, weaving "delayesh" ("are you doing") together with "reshayushchiy" ("decisive") just the way native speakers do.
-- 'I envy your football, for my sake can you lie and pretend like that?' Elena checks naturally to Barinov here, putting "zaviduyu" ("envy") alongside "futbolu" ("football") in a tight, everyday turn of phrase.
-- 'I am doing everything for your sake today!' Barinov takes a natural manner straight away, linking "voobshche" ("at all"), "segodnya" ("today"), and "delayu" ("I make") in one brisk exchange.
-- 'I am putting up with these clothes, this golf, and your friends!' Barinov adopts a serious style across the room, anchoring the Russian line on "terplyu" ("endure, put up with") and "odezhdu" ("clothes") without extra filler.
-- 'And in general, to be honest, I do not like horses!' Barinov keeps a wry line right away, building the phrase around "voobshche" ("at all") and "chestno" ("honestly") for a crisp, natural delivery.
+- 'What a dangerous moment, there is going to be a shot right now!' Barinov sharpens one telling detail with Elena: "opasnyy" means "dangerous", and it carries the main weight of what Barinov is saying.
+- 'Yes, Lena, I already took some good medicine.' Barinov opens up honestly across the room, to clear the air between them once and for all.
+- 'My leg is a bit better already, but it still hurts a lot.' Barinov follows up decisively as they talk, shifting the whole mood of the room in a single beat.
+- 'I see that you are already considerably better.' Elena underscores one colorful element in earnest: "znachitelno" means "considerably", and it carries the main weight of what Elena is saying.
+- 'Lena, well forgive me, I was walking and here was our football.' Barinov sends this line for Elena: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'Our team has a chance to snatch victory!' Barinov counters calmly without holding back, refusing to let the moment slip past.
+- 'And you have fewer and fewer chances left.' Elena features one direct piece with Barinov: "ostayotsya" means "stays" (from "ostavatsya"), giving the line its exact edge.
+- 'Lena, what are you doing, this is a decisive penalty kick!' Barinov favors one direct element in reply: "reshayushchiy" means "decisive", and it carries the main weight of what Barinov is saying.
+- 'I envy your football, for my sake can you lie and pretend like that?' Elena checks skeptically in front of Barinov without any preamble.
+- 'I am doing everything for your sake today!' Barinov frames one familiar element in reply: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
+- 'I am putting up with these clothes, this golf, and your friends!' Barinov reacts promptly before Elena, leaving no doubt about where he stands.
+- 'And in general, to be honest, I do not like horses!' Barinov counters frankly watching Elena, to clear the air between them once and for all.

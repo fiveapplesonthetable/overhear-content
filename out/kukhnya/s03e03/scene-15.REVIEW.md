@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Attention everyone! I have two pieces of news for you.' Katya sustains an earnest approach during the exchange, putting "vnimaniye" ("attention") alongside "novosti" ("the news") in a tight, everyday turn of phrase.
-- 'The first piece of news is I am not a lesbian.' Katya displays an unhurried line during the exchange, pairing "pervaya" ("the first one") with "novost" ("the news") to get the point across in plain spoken Russian.
-- 'And the second piece of news is Viktor Petrovich is my...' Katya takes a natural rhythm toward Barinov, anchoring the Russian line on "vtoraya" ("second") and "novost" ("the news") without extra filler.
-- 'Your who?' Barinov tests earnestly without holding back, pairing "tvoy" ("your") with "kto" ("who") to get the point across in plain spoken Russian.
-- 'He is her lover!' Fedya shares a steady manner in this beat, pairing "lyubovnik" ("lover") with "on" ("he") to get the point across in plain spoken Russian.
-- 'Definitely her lover! Well, he's not her father.' Fedya favors a resolute course without hesitation, leaning on "tochno" ("definitely") before closing the thought with "lyubovnik" ("lover").
-- 'That is why he was so furious when we were all running around her.' Fedya displays a calm tempo in their talk, pairing "besilsya" ("was furious") with "pochemu" ("why") so the "-sya" ending carries the action.
-- 'Why did she kiss me then?' Fedya inquires wryly for Katya's benefit, putting "zachem" ("what for") alongside "togda" ("back then") in a tight, everyday turn of phrase.
-- 'For cover!' Fedya chooses a clear rhythm in the conversation, anchoring the Russian line on "konspiratsii" ("secrecy, cover") and "dlya" ("for") without extra filler.
-- 'And I figured it out right away.' Fedya favors a firm footing beside Katya, weaving "srazu" ("at once") together with "pryamo" ("right, just") just the way native speakers do.
-- 'Right away!' Fedya shows a resolute position in front of Barinov, anchoring the Russian line on "pryamo" ("right, just") and "srazu" ("at once") without extra filler.
-- 'They are in there talking right now.' Fedya presents a candid line at this moment, pairing "seychas" ("now") with "pryamo" ("right, just") so the "-sya" ending carries the action.
+- 'Attention everyone! I have two pieces of news for you.' Katya stands firm at once around Barinov, refusing to let the moment slip past.
+- 'The first piece of news is I am not a lesbian.' Katya spotlights one sharp term at once: "lesbiyanka" means "lesbian", and it carries the main weight of what Katya is saying.
+- 'And the second piece of news is Viktor Petrovich is my...' Katya voices that line with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Your who?' Barinov prompts openly what Katya is actually getting at here.
+- 'He is her lover!' Fedya colors one familiar detail in earnest: "lyubovnik" means "lover", and it carries the main weight of what Fedya is saying.
+- 'Definitely her lover! Well, he's not her father.' Fedya speaks up openly with Katya, bringing things back to earth after the buildup.
+- 'That is why he was so furious when we were all running around her.' Fedya pushes back calmly facing Barinov, steering the talk right where he wants it.
+- 'Why did she kiss me then?' Fedya uses one loaded detail on cue: "potselovala" means "kissed" (from "potselovat"), giving the line its exact edge.
+- 'For cover!' Fedya puts that point in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And I figured it out right away.' Fedya speaks up promptly with Katya, making his position completely clear.
+- 'Right away!' Fedya picks one key word toward Barinov: "pryamo" means "right, just", and it carries the main weight of what Fedya is saying.
+- 'They are in there talking right now.' Fedya follows up openly beside Katya, testing Katya's reaction in the middle of the exchange.

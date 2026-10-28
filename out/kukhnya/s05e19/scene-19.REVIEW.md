@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, where is the second set of keys to the car?' Barinov queries evenly for Nagiyev's benefit, weaving "gde" ("where") together with "vtoryye" ("a second") just the way native speakers do.
-- 'Dima never throws words to the wind.' Nikita shows a thoughtful tempo at once, weaving "nikogda" ("never") together with "slov" ("words") just the way native speakers do.
-- 'Vityusha, take the second key, the car is yours.' Nagiyev keeps a warm mood beside Barinov, joining "vityusha" ("vityusha") to "derzhi" ("here you go") so every word pulls its weight.
-- 'Oh you schemer, you stole your own car!' Nagiyev adopts a thoughtful direction without hesitation, pairing "khitrets" ("schemer") with "mashinu" ("car") to get the point across in plain spoken Russian.
-- 'After all, I was doing it for our shared destiny.' Barinov projects an earnest line with Nagiyev, anchoring the Russian line on "obshchey" ("mutual, common") and "sudby" ("fate, destiny") without extra filler.
-- 'Get out of my restaurant!' Nagiyev takes a lively stance straight away, weaving "poshyol" ("went, set off") together with "restorana" ("restaurant") just the way native speakers do.
-- 'It is a pity, of course, that everything fell through today.' Nikita keeps a sharp manner as they talk, weaving "zhalko" ("feel sorry for") together with "konechno" ("of course") just the way native speakers do.
-- 'I spent three whole days preparing for this.' Nikita holds a serious line during the exchange, anchoring the Russian line on "tselykh" ("whole, entire") and "dnya" ("day") without extra filler.
-- 'To start with, we would have sat down on a bench.' Nikita holds a firm line without hesitation, linking "nachala" ("beginning"), "seli" ("to sit down"), and "skameyku" ("bench") in one brisk exchange.
-- 'Then fairy lights would have lit up around us.' Nikita offers a pointed approach toward Nagiyev, leaning on "potom" ("then") before closing the thought with "zazhglis" ("lit up").
-- 'And they would have served us hot mulled wine.' Nikita establishes a serious style in the room, leaning on "podali" ("to submit, file") before closing the thought with "goryachiy" ("hot").
-- 'And then they would have returned your missing hat.' Nikita brings a serious mood in their talk, weaving "potom" ("then") together with "vernuli" ("returned") just the way native speakers do.
+- 'Dima, where is the second set of keys to the car?' Barinov features one sharp detail on cue: "vtoryye" means "a second" (from "vtoroy"), giving the line its exact edge.
+- 'Dima never throws words to the wind.' Nikita directs that line with warmth: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Vityusha, take the second key, the car is yours.' Nagiyev counters decisively in this moment, bringing things back to earth after the buildup.
+- 'Oh you schemer, you stole your own car!' Nagiyev spotlights one pointed element right here: "khitrets" means "schemer", and it carries the main weight of what Nagiyev is saying.
+- 'After all, I was doing it for our shared destiny.' Barinov jumps in right away with a nod, to clear the air between them once and for all.
+- 'Get out of my restaurant!' Nagiyev speaks openly with a sigh, leaving no doubt about where he stands.
+- 'It is a pity, of course, that everything fell through today.' Nikita underscores one vivid choice with Barinov: "konechno" means "of course", and it carries the main weight of what Nikita is saying.
+- 'I spent three whole days preparing for this.' Nikita shapes that point right away: the "-sya" ending on "gotovilsya" ("to prepare") turns the action inward or makes it happen between people naturally.
+- 'To start with, we would have sat down on a bench.' Nikita proceeds decisively in this moment, shifting the whole mood of the room in a single beat.
+- 'Then fairy lights would have lit up around us.' Nikita points to one pointed element for Nagiyev: "girlyandy" means "fairy lights" (from "girlyanda"), giving the line its exact edge.
+- 'And they would have served us hot mulled wine.' Nikita cuts in pointedly in this moment, before Barinov can change the subject.
+- 'And then they would have returned your missing hat.' Nikita continues quietly beside Nagiyev, before Nagiyev can change the subject.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maksim. I do not know.' Barinov offers an unhurried position right away, weaving "znayu" ("know") together with "maksim" ("Maksim") just the way native speakers do.
-- 'He did not like the vegetarian rolls.' Barinov favors a firm style as the scene unfolds, using "vegetarianskiye" (from "vegetarianskiy", "vegetarian") alongside "ruletiki" ("little roll") to shape the meaning.
-- 'Just the way he asked.' Lyova holds a pointed tack right away, putting "kak" ("how") alongside "prosil" ("ask for") in a tight, everyday turn of phrase.
-- 'Maksim, he asked you to make them just like this morning.' Barinov picks an earnest stance beside Max, putting "prosil" ("ask for") alongside "sdelat" ("to do") in a tight, everyday turn of phrase.
-- 'Anyway, please try to remember how you made them.' Barinov conveys a sharp attitude without hesitation, weaving "obshchem" ("short, so") together with "vspomni" ("remember") just the way native speakers do.
-- 'What kind of vegetarian is he?' Lyova quizzes pointedly during the talk, joining "vegetarianets" ("vegetarian") to "kto" ("who") so every word pulls its weight.
-- 'Very good.' Max strikes a serious direction across the room, weaving "ochen" ("very much") together with "khorosho" ("good, fine") just the way native speakers do.
-- 'Good thing you brought him straight here.' Barinov projects a playful stance in this beat, joining "privezli" ("delivered, brought") to "pryamo" ("right, just") so every word pulls its weight.
-- 'I never would have guessed.' Lyova sustains a sharp manner in this beat, leaning on "nikogda" ("never") before closing the thought with "podumal" ("would think").
-- 'I told you so.' Max favors a firm angle right away, building the phrase around "govoril" ("said, were saying") and "ya" ("I") for a crisp, natural delivery.
-- 'You need to carry your documents with you.' Barinov conveys a steady line for Lyova, using "dokumenty" (from "dokument", "the documents") alongside "nado" ("it is necessary") to shape the meaning.
-- 'Goodbye.' Lyova shares a playful stance toward Max, joining "svidaniya" ("meeting") to "do" ("until") so every word pulls its weight.
-- 'That helps us out.' Max takes a firm course beside Barinov, pairing "pomogayet" ("helps") with "nam" ("us") to get the point across in plain spoken Russian.
+- 'Maksim. I do not know.' Barinov weighs in steadily beside Lyova, leaving no doubt about where he stands.
+- 'He did not like the vegetarian rolls.' Barinov emphasizes one loaded term for Max: "vegetarianskiye" means "vegetarian" (from "vegetarianskiy"), giving the line its exact edge.
+- 'Just the way he asked.' Lyova gives this statement beside Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Maksim, he asked you to make them just like this morning.' Barinov holds firm candidly with Max, before Max can change the subject.
+- 'Anyway, please try to remember how you made them.' Barinov favors one direct piece for Lyova: "obshchem" means "short, so" (from "obshchiy"), giving the line its exact edge.
+- 'What kind of vegetarian is he?' Lyova offers this point frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Very good.' Max replies briskly without a pause, testing Barinov's reaction in the middle of the exchange.
+- 'Good thing you brought him straight here.' Barinov sharpens this key touch on cue: "privezli" means "delivered, brought" (from "privezti"), giving the line its exact edge.
+- 'I never would have guessed.' Lyova lays out that point with ease: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I told you so.' Max speaks up dryly before Lyova, grounding the moment in plain reality.
+- 'You need to carry your documents with you.' Barinov leans on one sharp choice at once: "dokumenty" means "the documents" (from "dokument"), giving the line its exact edge.
+- 'Goodbye.' Lyova aims the comment for Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'That helps us out.' Max speaks wryly with a smile, leaving no doubt about where he stands.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How about we have dinner tonight?' Barinov wonders dryly without holding back, combining "pouzhinayem" ("to have dinner") and "segodnya" ("today") so the key meaning lands right away.
-- 'Well, I am actually on shift at work.' Vika holds a clear manner beside Nagiyev, leaning on "voobshche-to" ("actually") before closing the thought with "rabote" ("work").
-- 'I will arrange it.' Nagiyev projects a brisk tone in front of Barinov, joining "dogovoryus" ("to agree, to arrange") to "ya" ("I") so every word pulls its weight.
-- 'And have someone cover for Kristina this evening.' Barinov chooses an honest tone straight away, putting "vecher" ("evening") alongside "zamenite" ("to replace") in a tight, everyday turn of phrase.
-- 'Because this is very important to me.' Vika sustains a steady rhythm in front of Barinov, weaving "ochen" ("very much") together with "vazhno" ("important, mattering") just the way native speakers do.
-- 'Tonight, never mind why.' Nagiyev maintains an emphatic tempo in the scene, joining "segodnya" ("today") to "vazhno" ("important, mattering") so every word pulls its weight.
-- 'I want to propose marriage to her.' Barinov shares a playful position as they talk, combining "khochu" ("want") and "sdelat" ("to do") so the key meaning lands right away.
-- 'You know Kristina, right?' Vika prompts warmly right away, putting "znayete" ("know") alongside "vy" ("you") in a tight, everyday turn of phrase.
-- 'She has a romantic nature.' Nagiyev presents a measured approach straight away, anchoring the Russian line on "romanticheskaya" ("romantic") and "natura" ("nature, character") without extra filler.
-- 'Dima, just show her the price tag on the ring.' Barinov maintains a measured posture in the scene, pairing "pokazhi" ("show") with "tsennik" ("price tag") to get the point across in plain spoken Russian.
-- 'That will be the most romantic thing of all.' Vika picks a direct footing as they talk, combining "budet" ("will be") and "romantichneye" ("more romantic") so the key meaning lands right away.
-- 'No, Vitya, no.' Nagiyev sets a calm position during the exchange, putting "net" ("no") alongside "vitya" ("Vitya") in a tight, everyday turn of phrase.
-- 'I do not want to buy women anymore.' Barinov sustains a warm direction as the scene unfolds, joining "khochu" ("want") to "bolshe" ("more") so every word pulls its weight.
+- 'How about we have dinner tonight?' Barinov puts the reaction toward Nagiyev: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Well, I am actually on shift at work.' Vika proceeds calmly with Nagiyev, saying out loud what both of them already know.
+- 'I will arrange it.' Nagiyev stresses this telling choice in earnest: "dogovoryus" means "to agree, to arrange" (from "dogovoritsya"), giving the line its exact edge.
+- 'And have someone cover for Kristina this evening.' Barinov responds steadily with a sigh, so Vika knows he is not just making small talk.
+- 'Because this is very important to me.' Vika stands firm right away with a shrug, making her position completely clear.
+- 'Tonight, never mind why.' Nagiyev highlights this direct piece right here: "segodnya" means "today", and it carries the main weight of what Nagiyev is saying.
+- 'I want to propose marriage to her.' Barinov frames this answer with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'You know Kristina, right?' Vika checks frankly why things suddenly took this turn between them.
+- 'She has a romantic nature.' Nagiyev anchors this sharp word at once: "romanticheskaya" means "romantic" (from "romanticheskiy"), giving the line its exact edge.
+- 'Dima, just show her the price tag on the ring.' Barinov frames one direct detail right here: "tsennik" means "price tag", and it carries the main weight of what Barinov is saying.
+- 'That will be the most romantic thing of all.' Vika holds firm decisively facing Barinov, before Barinov can change the subject.
+- 'No, Vitya, no.' Nagiyev delivers this line with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I do not want to buy women anymore.' Barinov stands firm openly before Nagiyev, leaving no doubt about where he stands.

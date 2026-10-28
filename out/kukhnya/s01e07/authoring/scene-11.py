@@ -30,7 +30,7 @@ STORY = [
     ('barinov', 'Ждём вас на кухне с большой радостью.', 'We await you in the kitchen with great joy.', [(204, 'Тогда вечером')], ''),
 ]
 WALK = [
-    (0, None, '\'Well, let\' Nagiyev rubs his hands in anticipation. The little particle "nu-ka" is a friendly, informal way to encourage action.'),
+    (0, None, '\'Well, let\'s try your famous signature sauce.\' Nagiyev rubs his hands in anticipation. The little particle "nu-ka" is a friendly, informal way to encourage action.'),
     (1, None, "'This sauce is true high culinary art.' Barinov cannot stop praising his own creation. He truly believes it belongs in a museum."),
     (2, None, "'Oh, the fresh bread fell on the floor.' Nagiyev drops the crucial piece of bread. He sounds a bit careless about it, ruining the chef's perfect presentation."),
     (3, None, "'Right now we will quickly bring you new bread.' Barinov immediately scrambles to fix the situation. He wants the tasting to proceed exactly as planned."),

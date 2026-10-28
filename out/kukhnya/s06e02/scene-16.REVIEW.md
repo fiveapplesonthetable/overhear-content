@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, are you alive?' Gulya checks boldly at this point, weaving "zhiv" ("alive") together with "lyova" ("Lyova") just the way native speakers do.
-- 'Yes, wait a second.' Lyova strikes a lively manner beside Gulya, weaving "podozhdi" ("wait") together with "sekundu" ("second") just the way native speakers do.
-- 'She almost spotted me.' Lyova favors a candid line at this moment, weaving "chut" ("almost, nearly") together with "zametila" ("to notice, spot") just the way native speakers do.
-- 'Who almost spotted you?' Gulya queries warmly in front of Lyova, leaning on "zametil" ("noticed") before closing the thought with "kto" ("who").
-- 'Why, my mom.' Lyova maintains a lively angle in front of Gulya, leaning on "mama" ("mum, mother") before closing the thought with "da" ("yes").
-- 'Ah, I get it, are you ashamed of me?' Gulya quizzes frankly in their exchange, joining "ponyala" ("understood") to "stesnyayeshsya" ("are embarrassed by") so every word pulls its weight.
-- 'Must we meet so that nobody sees us?' Gulya wonders honestly in this moment, using "dolzhny" (from "dolzhen", "must, should") alongside "vstrechatsya" ("to meet") to shape the meaning.
-- 'No, you are the most beautiful girl in the world.' Lyova chooses an honest approach without hesitation, weaving "samaya" ("most") together with "krasivaya" ("pretty, beautiful") just the way native speakers do.
-- 'I simply lied to my mom that I was at work.' Lyova conveys a warm approach on the spot, weaving "prosto" ("just") together with "mame" ("mother, mum") just the way native speakers do.
-- 'Lyova, what are you doing?' Gulya questions steadily right away, weaving "delayesh" ("are you doing") together with "lyova" ("Lyova") just the way native speakers do.
-- 'I want to kiss you.' Lyova sets a steady approach in their talk, anchoring the Russian line on "khochu" ("want") and "potselovat" ("to kiss") without extra filler.
-- 'You will see for yourself right now.' Lyova picks a natural stance in the scene, putting "seychas" ("now") alongside "uvidish" ("see") in a tight, everyday turn of phrase.
+- 'Lyova, are you alive?' Gulya points to this sharp detail for Lyova: "zhiv" means "alive" (from "zhivoy"), giving the line its exact edge.
+- 'Yes, wait a second.' Lyova delivers the comment without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'She almost spotted me.' Lyova speaks up dryly with a shrug, refusing to let the moment slip past.
+- 'Who almost spotted you?' Gulya centers one loaded choice on cue: "zametil" means "noticed" (from "zametit"), giving the line its exact edge.
+- 'Why, my mom.' Lyova states that line around Gulya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Ah, I get it, are you ashamed of me?' Gulya tests bluntly whether Lyova really thought this through.
+- 'Must we meet so that nobody sees us?' Gulya sharpens one sharp element in earnest: "vstrechatsya" means "to meet", and it carries the main weight of what Gulya is saying.
+- 'No, you are the most beautiful girl in the world.' Lyova makes the remark facing Gulya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I simply lied to my mom that I was at work.' Lyova fires back candidly without any doubt, testing Gulya's reaction in the middle of the exchange.
+- 'Lyova, what are you doing?' Gulya underscores one clear choice in reply: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
+- 'I want to kiss you.' Lyova frames that remark calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'You will see for yourself right now.' Lyova holds firm earnestly with a smile, so Gulya knows he is not just making small talk.

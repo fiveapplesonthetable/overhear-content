@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What kind of chaos have they caused in my kitchen?' Barinov asks quietly in front of Max, putting "bespredel" ("lawlessness") alongside "ustroili" ("to arrange") in a tight, everyday turn of phrase.
-- 'But our menu is simply sacred!' Barinov strikes an emphatic note in this beat, combining the softening word "prosto" ("simply, just") with "menyu" ("menu") to give the line its natural spoken rhythm.
-- 'And all this new stuff is total nonsense!' Barinov strikes a wry stance as they talk, joining "novoye" ("new") to "polnaya" ("complete, full") so every word pulls its weight.
-- 'Are you sitting comfortably in the armchair right now?' Nagiyev inquires promptly without holding back, combining "seychas" ("now") and "udobno" ("comfortable") so the key meaning lands right away.
-- 'From everything said, I gathered that you are angry.' Nagiyev takes an unhurried angle straight away, anchoring the Russian line on "skazannogo" ("said") and "ponyal" ("understood") without extra filler.
-- 'When you are nervous, your mustache twitches.' Nagiyev shares a grounded approach in front of Max, weaving "kogda" ("when") together with "nervnichayesh" ("are you nervous") just the way native speakers do.
-- 'I would be very glad to help you.' Nagiyev strikes a direct angle as the scene unfolds, building the phrase around "ochen" ("very much") and "rad" ("glad") for a crisp, natural delivery.
-- 'But unfortunately, you will have to swallow this.' Nagiyev takes an unhurried tempo in this beat, building the phrase around "sozhaleniyu" ("regret") and "pridyotsya" ("you'll have to") for a crisp, natural delivery.
-- 'Because I sold our restaurant completely.' Nagiyev sets a warm bearing right away, joining "potomu" ("because") to "restoran" ("restaurant") so every word pulls its weight.
-- 'What do you mean sold? Did you sell it completely?' Barinov wonders naturally in front of Nagiyev, anchoring the Russian line on "kak" ("how") and "prodal" ("to sell") without extra filler.
-- 'I thought you would keep at least a part for yourself.' Barinov offers a sharp tack during the exchange, linking "dumal" ("thought"), "ostavish" ("you will keep"), and "chast" ("part") in one brisk exchange.
-- 'Now our restaurant has completely different owners.' Max keeps a thoughtful bearing toward Nagiyev, leaning on "teper" ("now") before closing the thought with "restorana" ("restaurant").
+- 'What kind of chaos have they caused in my kitchen?' Barinov checks earnestly why things suddenly took this turn between them.
+- 'But our menu is simply sacred!' Barinov favors this key term right here: "svyatoye" means "holy, sacred" (from "svyatoy"), giving the line its exact edge.
+- 'And all this new stuff is total nonsense!' Barinov offers this point beside Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Are you sitting comfortably in the armchair right now?' Nagiyev tests sharply if there is more going on behind the scenes.
+- 'From everything said, I gathered that you are angry.' Nagiyev focuses on this key element toward Barinov: "skazannogo" means "said" (from "skazat"), giving the line its exact edge.
+- 'When you are nervous, your mustache twitches.' Nagiyev drops the remark without pause: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'I would be very glad to help you.' Nagiyev replies honestly without holding back, before Barinov can change the subject.
+- 'But unfortunately, you will have to swallow this.' Nagiyev points to this vivid word with Max: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
+- 'Because I sold our restaurant completely.' Nagiyev answers openly watching Barinov, bringing things back to earth after the buildup.
+- 'What do you mean sold? Did you sell it completely?' Barinov checks evenly before Nagiyev can change the subject.
+- 'I thought you would keep at least a part for yourself.' Barinov picks one practical choice at once: "ostavish" means "you will keep" (from "ostavit"), giving the line its exact edge.
+- 'Now our restaurant has completely different owners.' Max states this update toward Nagiyev: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.

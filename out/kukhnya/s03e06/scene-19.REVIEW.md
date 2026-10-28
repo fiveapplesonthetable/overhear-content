@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, I beg you very much.' Vika conveys a measured tempo during the exchange, weaving "ochen" ("very much") together with "proshu" ("beg, ask") just the way native speakers do.
-- 'Please, just calm down right now.' Vika shares a steady approach in their talk, combining the softening word "prosto" ("simply, just") with "uspokoysya" ("calm down") to give the line its natural spoken rhythm.
-- 'I will give him a rough time!' Nagiyev maintains an easygoing angle straight away, leaning on "ustroyu" ("to arrange") before closing the thought with "vesyoluyu" ("cheerful, merry").
-- 'He will fly out of here like a cork.' Nagiyev presents an earnest angle on the spot, putting "vyletit" ("will fly out") alongside "otsyuda" ("from here") in a tight, everyday turn of phrase.
-- 'Please, do not do anything.' Vika adopts a pointed bearing in the room, pairing "nado" ("it is necessary") with "delat" ("do") to get the point across in plain spoken Russian.
-- 'After all, Maxim is not at fault for anything.' Vika brings a serious note on the spot, linking "vinovat" ("at fault, guilty") directly with "ved" ("after all"), since Russian drops "is" and "are" in the present.
-- 'And who is at fault for this then?' Nagiyev asks pointedly in the room, linking "togda" ("back then"), "vinovat" ("at fault, guilty"), and "kto" ("who") in one brisk exchange.
-- 'He and I broke up long ago.' Vika maintains a resolute tack on the spot, pairing "uzhe" ("already, now") with "davno" ("for a long time") to get the point across in plain spoken Russian.
-- 'Believe me, all of that is already in the past.' Vika favors an emphatic footing in their talk, linking "pover" ("believe"), "uzhe" ("already, now"), and "proshlom" ("last, past") in one brisk exchange.
-- 'I used to have many women.' Nagiyev presents a lively style without hesitation, weaving "ranshe" ("earlier, previously") together with "bylo" ("was") just the way native speakers do.
-- 'But I have never experienced such feelings before.' Nagiyev presents a measured view right away, anchoring the Russian line on "nikogda" ("never") and "ranshe" ("earlier, previously") without extra filler.
-- 'I simply want very much to be with you.' Nagiyev offers a thoughtful style as the scene unfolds, weaving "prosto" ("just") together with "ochen" ("very much") just the way native speakers do.
+- 'Dima, I beg you very much.' Vika underscores this sharp expression toward Nagiyev: "proshu" means "beg, ask" (from "prosit"), giving the line its exact edge.
+- 'Please, just calm down right now.' Vika gives the remark briskly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I will give him a rough time!' Nagiyev chimes in lightly with a smile, making his position completely clear.
+- 'He will fly out of here like a cork.' Nagiyev chooses this key expression in reply: "probka" means "cork", and it carries the main weight of what Nagiyev is saying.
+- 'Please, do not do anything.' Vika sends the comment without fuss: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'After all, Maxim is not at fault for anything.' Vika continues bluntly as they talk, leaving no doubt about where she stands.
+- 'And who is at fault for this then?' Nagiyev leans on this telling expression with Vika: "vinovat" means "at fault, guilty" (from "vinovatyy"), giving the line its exact edge.
+- 'He and I broke up long ago.' Vika shapes that point at once: the "-sya" ending on "rasstalis" ("broke up, separated") turns the action inward or makes it happen between people naturally.
+- 'Believe me, all of that is already in the past.' Vika speaks up earnestly beside Nagiyev, letting the remark speak for itself.
+- 'I used to have many women.' Nagiyev emphasizes one vivid word in earnest: "zhenshchin" means "women" (from "zhenshchina"), giving the line its exact edge.
+- 'But I have never experienced such feelings before.' Nagiyev shares that point with candor: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I simply want very much to be with you.' Nagiyev weighs in briskly as they talk, saying out loud what both of them already know.

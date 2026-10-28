@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Misha, maybe you should not play anymore?' Barinov questions steadily without a pause, weaving "mozhet" ("can") together with "bolshe" ("more") just the way native speakers do.
-- 'Just understand that this is not for you.' Barinov establishes an easygoing style in their talk, pairing "poymi" ("understand") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'I know how to play very well.' Mikhail presents a firm approach as the scene unfolds, pairing "ochen" ("very much") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
-- 'I was simply unlucky today.' Mikhail favors a wry style as they talk, building the phrase around "prosto" ("just") and "segodnya" ("today") for a crisp, natural delivery.
-- 'The hotel owner is calling me to her office.' Barinov picks an unhurried tone as the scene unfolds, building the phrase around "khozyayka" ("landlady") and "otelya" ("of the hotel") for a crisp, natural delivery.
-- 'Someone has already reported everything to her.' Mikhail picks a sharp bearing for Nastya, pairing "uzhe" ("already, now") with "donesli" ("reported, snitched") to get the point across in plain spoken Russian.
-- 'Hello, yes, I can talk now.' Nastya maintains a playful posture for Barinov, putting "mogu" ("can") alongside "govorit" ("to talk") in a tight, everyday turn of phrase.
-- 'No, Kostya is not nearby right now.' Nastya sets a calm rhythm in the scene, weaving "seychas" ("now") together with "ryadom" ("nearby") just the way native speakers do.
-- 'No, I have not said anything yet.' Nastya maintains an earnest approach in the room, anchoring the Russian line on "yeshchyo" ("more, still") and "skazala" ("told") without extra filler.
-- 'Maybe I will tell him tonight.' Nastya presents a thoughtful style without hesitation, putting "mozhet" ("can") alongside "skazhu" ("I'll tell") in a tight, everyday turn of phrase.
-- 'No, it is better if I tell him myself.' Nastya shares an easygoing attitude with Barinov, weaving "luchshe" ("better") together with "skazhu" ("I'll tell") just the way native speakers do.
-- 'Alright, that is all, I have to go.' Nastya maintains a candid rhythm on the spot, combining "uzhe" ("already, now") and "pora" ("it's time") so the key meaning lands right away.
+- 'Misha, maybe you should not play anymore?' See how Barinov challenges Mikhail on cue — the Russian word "mozhet" ("can", built from "moch") does the heavy lifting.
+- 'Just understand that this is not for you.' Notice how Barinov tells Nastya plainly here — the Russian word "poymi" ("understand", built from "ponyat") does the heavy lifting.
+- 'I know how to play very well.' Mikhail follows up firmly before Barinov, refusing to let the moment slip past.
+- 'I was simply unlucky today.' Mikhail favors this clear word with Nastya: "segodnya" means "today", and it carries the main weight of what Mikhail is saying.
+- 'The hotel owner is calling me to her office.' Barinov holds firm promptly without any doubt, before Mikhail can change the subject.
+- 'Someone has already reported everything to her.' Mikhail holds firm openly to be clear, to clear the air between them once and for all.
+- 'Hello, yes, I can talk now.' Nastya colors one familiar word on cue: "govorit" means "to talk", and it carries the main weight of what Nastya is saying.
+- 'No, Kostya is not nearby right now.' Nastya puts this statement at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'No, I have not said anything yet.' Nastya chimes in bluntly on the spot, to clear the air between them once and for all.
+- 'Maybe I will tell him tonight.' Nastya centers this key expression in reply: "segodnya" means "today", and it carries the main weight of what Nastya is saying.
+- 'No, it is better if I tell him myself.' Nastya opens up candidly during the talk, without trying to dress up how she really feels.
+- 'Alright, that is all, I have to go.' Nastya chimes in evenly with Mikhail, shifting the whole mood of the room in a single beat.

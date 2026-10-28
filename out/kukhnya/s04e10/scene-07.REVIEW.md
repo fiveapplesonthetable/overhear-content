@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Brother, you are simply the best.' Barinov sets a serious rhythm as they talk, linking "bratan" ("bro") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.
-- 'You are celebrating too early!' Nagiyev conveys a measured posture in this beat, joining "slishkom" ("too") to "rano" ("early, young") so every word pulls its weight.
-- 'Now the little cook will get what is coming to him.' Nagiyev strikes a lively style across the room, weaving "seychas" ("now") together with "povaryonok" ("little cook") just the way native speakers do.
-- 'The beef is a bit tough today.' Barinov chooses an honest manner right away, weaving "govyadina" ("beef") together with "segodnya" ("today") just the way native speakers do.
-- 'I love olives with the pit.' Barinov shows a thoughtful line toward Nagiyev, weaving "lyublyu" ("love") together with "olivki" ("olives") just the way native speakers do.
-- 'And is that all you are capable of?' Nagiyev queries boldly as the beat lands, putting "sposoben" ("capable") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'Viktoriya Sergeyevna, I told you so.' Senya takes a firm approach at once, using "govoril" (from "govorit", "said, were saying") alongside "viktoriya" ("Victoria") to shape the meaning.
-- 'This chandelier should have been replaced long ago.' Senya sustains a candid footing in front of Nagiyev, weaving "lyustru" ("replaced") together with "davno" ("for a long time") just the way native speakers do.
-- 'I am too young for all this.' Barinov sustains an easygoing line as they talk, joining "slishkom" ("too") to "molod" ("young") so every word pulls its weight.
-- 'Too young for such nonsense.' Barinov presents a measured direction without hesitation, combining "slishkom" ("too") and "molod" ("young") so the key meaning lands right away.
-- 'We defeated all the enemies!' Senya strikes a serious stance in front of Barinov, using "pobedili" (from "pobedit", "to defeat, to win") alongside "vragov" ("enemy") to shape the meaning.
-- 'Excellent work, Sergeant Senya!' Barinov holds an unhurried course in the conversation, linking "otlichnaya" ("excellent"), "rabota" ("job"), and "serzhant" ("arseny") in one brisk exchange.
+- 'Brother, you are simply the best.' Barinov favors one concrete choice right here: "luchshiy" means "best", and it carries the main weight of what Barinov is saying.
+- 'You are celebrating too early!' Nagiyev puts this answer right away: the "-sya" ending on "raduyetes" ("to rejoice") turns the action inward or makes it happen between people naturally.
+- 'Now the little cook will get what is coming to him.' Nagiyev replies lightly with a nod, watching Barinov's face to see how the news lands.
+- 'The beef is a bit tough today.' Barinov emphasizes one loaded piece at once: "zhestkovata" means "today", and it carries the main weight of what Barinov is saying.
+- 'I love olives with the pit.' Barinov lays out the thought for Nagiyev: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And is that all you are capable of?' Nagiyev quizzes eagerly if there is more going on behind the scenes.
+- 'Viktoriya Sergeyevna, I told you so.' Senya grounds one vivid expression for Barinov: "govoril" means "said, were saying" (from "govorit"), giving the line its exact edge.
+- 'This chandelier should have been replaced long ago.' Senya stands firm bluntly without any doubt, without trying to dress up how he really feels.
+- 'I am too young for all this.' Barinov stands firm steadily before Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'Too young for such nonsense.' Barinov emphasizes this telling term for Senya: "yerundy" means "nonsense, trifle" (from "yerunda"), giving the line its exact edge.
+- 'We defeated all the enemies!' Senya directs that line without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Excellent work, Sergeant Senya!' Barinov proceeds candidly without any doubt, steering the talk right where he wants it.

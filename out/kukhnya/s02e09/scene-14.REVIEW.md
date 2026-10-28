@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where did you come here from?' Max inquires wryly to keep things clear, pairing "otkuda" ("where from") with "priyekhal" ("came") to get the point across in plain spoken Russian.
-- 'From Voronezh.' Nastya strikes a pointed style beside Max, putting "iz" ("from, out of") alongside "voronezha" ("Voronezh") in a tight, everyday turn of phrase.
-- 'What is your name?' Kristina checks candidly in the room, leaning on "kak" ("how") before closing the thought with "zovut" ("call").
-- 'Take your hand off!' Max strikes a steady attitude without hesitation, using "ruku" (from "ruka", "hand") alongside "uberi" ("take away, put away") to shape the meaning.
-- 'Your real name!' Nastya conveys a candid posture with Kristina, leaning on "nastoyashcheye" ("real") before closing the thought with "imya" ("name").
-- 'Tell that Kristina to go to hell.' Kristina favors a sharp angle in the room, using "poshli" (from "poyti", "let's go") alongside "ty" ("you") to shape the meaning.
-- 'Come on now.' Max favors a resolute footing in the room, combining "da" ("yes") and "ladno" ("all right") so the key meaning lands right away.
-- 'We will find a new job.' Nastya strikes a frank stance at this moment, building the phrase around "rabotu" ("job") and "novuyu" ("new") for a crisp, natural delivery.
-- 'You are not an animal, after all.' Kristina picks a sharp mood at once, placing "zhivotnoye" ("animal") straight beside "ty" ("you") with no word for "to be" needed.
-- 'To be forced into something just like that.' Max favors a direct rhythm right away, building the phrase around "prosto" ("just") and "zastavit" ("to force, make") for a crisp, natural delivery.
-- 'Well, yes.' Nastya maintains a sharp tone during the exchange, pairing "nu" ("oh, come on") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'All right, I will go talk to her.' Kristina conveys a sharp position for Nastya, combining the easygoing tag "ladno" ("okay, fine") with "pogovoryu" ("I'll talk") to give the line its natural spoken rhythm.
-- 'Lavrov, did I warn you?' Max challenges quietly across the room, pairing "preduprezhdal" ("warned") with "lavrov" ("Lavrov") to get the point across in plain spoken Russian.
+- 'Where did you come here from?' Max gives this statement plainly here: putting the question word "otkuda" right at the front of the line lets Kristina hear the point of the question on the very first beat.
+- 'From Voronezh.' Nastya replies right away to be clear, keeping the focus on what actually matters here.
+- 'What is your name?' Kristina underscores one direct expression on cue: "zovut" means "call" (from "zvat"), giving the line its exact edge.
+- 'Take your hand off!' Max voices that remark right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Your real name!' Nastya fires back earnestly with a sigh, leaving no doubt about where she stands.
+- 'Tell that Kristina to go to hell.' Kristina leans on one clear element in reply: "poshli" means "let's go" (from "poyti"), giving the line its exact edge.
+- 'Come on now.' Max states the remark with candor: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Kristina is on board.
+- 'We will find a new job.' Nastya replies quietly with a smile, refusing to let the moment slip past.
+- 'You are not an animal, after all.' Kristina chooses this telling detail on cue: "zhivotnoye" means "animal", and it carries the main weight of what Kristina is saying.
+- 'To be forced into something just like that.' Max lays out the comment with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Well, yes.' Nastya chimes in pointedly across the room, letting the remark speak for itself.
+- 'All right, I will go talk to her.' Kristina stresses one direct choice on cue: "pogovoryu" means "I'll talk" (from "pogovorit"), giving the line its exact edge.
+- 'Lavrov, did I warn you?' Max makes this warning at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Kristina purely through rising pitch at the end.

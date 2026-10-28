@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, have you not signed any papers yet?' Barinov wonders evenly in the room, pairing "podozhdite" ("wait") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
-- 'You cannot do business with my brother.' Barinov strikes a clear tempo beside Mikhail, combining "rodnym" ("native, own") and "bratom" ("brother, cousin") so the key meaning lands right away.
-- 'It is a lost cause, all his plans end in failure.' Barinov takes a thoughtful view as the scene unfolds, leaning on "pustoye" ("empty") before closing the thought with "delo" ("matter").
-- 'Actually, your brother has a chain of oyster farms in America.' The guest strikes a clear tone as the scene unfolds, building the phrase around "voobshche-to" ("actually") and "brata" ("of the brother") for a crisp, natural delivery.
-- 'Oh really, and then I have big vineyards!' Barinov keeps an easygoing footing in their talk, joining "togda" ("back then") to "bolshiye" ("big, serious") so every word pulls its weight.
-- 'I am speaking seriously, we have been cooperating for a year and a half already.' The guest takes a measured footing as they talk, joining "govoryu" ("am telling") to "seryozno" ("seriously") so every word pulls its weight.
-- 'Valya, why did you tell me nothing about this?' Barinov inquires bluntly to keep things clear, pairing "pochemu" ("why") with "govoril" ("said, were saying") to get the point across in plain spoken Russian.
-- 'I tried this morning, but you did not listen to me.' Mikhail brings a measured style in the scene, putting "utrom" ("this morning") alongside "pytalsya" ("tried") in a tight, everyday turn of phrase.
-- 'Good evening, excuse me, your door was unlocked.' The guest holds an honest approach as the scene unfolds, joining "dobryy" ("good") to "vecher" ("evening") so every word pulls its weight.
-- 'Oh, you drove me from the airport this morning!' Mikhail shows a thoughtful line as the scene unfolds, joining "segodnya" ("today") to "utrom" ("this morning") so every word pulls its weight.
-- 'Yes, this morning you forgot your suitcase in my car.' The guest establishes a pointed rhythm for Barinov, building the phrase around "utrom" ("this morning") and "chemodan" ("suitcase, luggage bag") for a crisp, natural delivery.
-- 'Thank you, it is nice to know that such honest people remain!' Mikhail shares a wry attitude at this moment, pairing "spasibo" ("thank you") with "priyatno" ("pleasant") to get the point across in plain spoken Russian.
+- 'Wait, have you not signed any papers yet?' Barinov asks point-blank in front of the guest without any preamble.
+- 'You cannot do business with my brother.' Barinov emphasizes this key choice toward Mikhail: "obshchiy" means "shared", and it carries the main weight of what Barinov is saying.
+- 'It is a lost cause, all his plans end in failure.' Barinov makes this answer before the guest: the "-sya" ending on "zakanchivayutsya" ("to end, to finish") turns the action inward or makes it happen between people naturally.
+- 'Actually, your brother has a chain of oyster farms in America.' The guest replies plainly to settle things, leaving no doubt about where he stands.
+- 'Oh really, and then I have big vineyards!' Barinov sharpens one loaded touch right here: "vinogradniki" means "vineyards" (from "vinogradnik"), giving the line its exact edge.
+- 'I am speaking seriously, we have been cooperating for a year and a half already.' The guest speaks warmly with a smile, letting the remark speak for itself.
+- 'Valya, why did you tell me nothing about this?' Barinov tests plainly how the guest expects that to work in practice.
+- 'I tried this morning, but you did not listen to me.' Mikhail chooses one vivid choice in earnest: "pytalsya" means "tried" (from "pytatsya"), giving the line its exact edge.
+- 'Good evening, excuse me, your door was unlocked.' The guest aims the comment beside Barinov: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Oh, you drove me from the airport this morning!' Mikhail steps in dryly toward the guest, refusing to let the moment slip past.
+- 'Yes, this morning you forgot your suitcase in my car.' The guest anchors one loaded touch on cue: "chemodan" means "suitcase, luggage bag", and it carries the main weight of what the guest is saying.
+- 'Thank you, it is nice to know that such honest people remain!' Mikhail brings that reply for the guest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.

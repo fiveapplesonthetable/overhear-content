@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right now the prefect will cut our ribbon.' Mikhail shares an earnest note in the room, combining "seychas" ("now") and "prefekt" ("district prefect") so the key meaning lands right away.
-- 'Applause, ladies and gentlemen!' Mikhail strikes an unhurried view straight away, joining "aplodismenty" ("applause") to "damy" ("lady, woman") so every word pulls its weight.
-- 'Welcome to the hotel!' Mikhail keeps a calm position during the exchange, building the phrase around "dobro" ("good, kindness") and "pozhalovat" ("to welcome") for a crisp, natural delivery.
-- 'And where is my pizza?' Mikhail questions lightly without a pause, weaving "gde" ("where") together with "pitstsa" ("pizza") just the way native speakers do.
-- 'Everything will be ready. Do not worry.' Barinov maintains a grounded style in the scene, using "budet" (from "byt", "will be") alongside "bespokoysya" ("to worry") to shape the meaning.
-- 'The hot pizza arrived, delivery.' Senya adopts a pointed direction in this beat, putting "priyekhala" ("came, arrived") alongside "goryachaya" ("hot") in a tight, everyday turn of phrase.
-- 'Who here is Chef Barinov?' Senya prompts warmly in the scene, linking "zdes" ("here"), "kto" ("who"), and "shef" ("Chef") in one brisk exchange.
-- 'Hand it here, check the order.' Barinov keeps a frank posture in their talk, weaving "davayte" ("let's") together with "syuda" ("here") just the way native speakers do.
-- 'I have everything ready.' Barinov sets a clear tempo right away, leaning on "gotovo" ("ready") before closing the thought with "menya" ("me").
-- 'Where are our beautiful rose petals?' Senya questions wryly for Mikhail's benefit, pairing "gde" ("where") with "krasivyye" ("beautiful") to get the point across in plain spoken Russian.
-- 'They are in the storage room in a box.' Barinov displays a direct footing as they talk, weaving "sklade" ("warehouse") together with "korobke" ("box") just the way native speakers do.
-- 'I will bring that box right now.' Senya conveys a clear posture in the conversation, leaning on "seychas" ("now") before closing the thought with "prinesu" ("I will bring").
+- 'Right now the prefect will cut our ribbon.' Mikhail opens up promptly watching Barinov, without trying to dress up how he really feels.
+- 'Applause, ladies and gentlemen!' Mikhail replies lightly with Senya, leaving no doubt about where he stands.
+- 'Welcome to the hotel!' Mikhail sharpens one memorable term in reply: "pozhalovat" means "to welcome", and it carries the main weight of what Mikhail is saying.
+- 'And where is my pizza?' Mikhail delivers this point briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Everything will be ready. Do not worry.' Barinov chimes in boldly as they talk, watching Mikhail's face to see how the news lands.
+- 'The hot pizza arrived, delivery.' Senya features one key detail with Mikhail: "goryachaya" means "hot" (from "goryachiy"), giving the line its exact edge.
+- 'Who here is Chef Barinov?' Senya puts that thought before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Hand it here, check the order.' Barinov counters warmly with Senya, leaving no doubt about where he stands.
+- 'I have everything ready.' Barinov colors this direct expression toward Mikhail: "gotovo" means "ready" (from "gotovyy"), giving the line its exact edge.
+- 'Where are our beautiful rose petals?' Senya drops this answer briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'They are in the storage room in a box.' Barinov pushes back honestly to be clear, bringing things back to earth after the buildup.
+- 'I will bring that box right now.' Senya sharpens one classic touch at once: "korobku" means "box, carton" (from "korobka"), giving the line its exact edge.

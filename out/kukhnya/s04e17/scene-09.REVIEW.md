@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Mom, forgive me, I really felt like having some.' Lyova keeps an easygoing tack in front of Denis, building the phrase around "mama" ("mum, mother") and "prosti" ("sorry, forgive me") for a crisp, natural delivery.
-- 'You yourself said that it is unhealthy.' Lyova sets an easygoing approach in their talk, anchoring the Russian line on "govorila" ("said") and "vredno" ("harmful, bad for you") without extra filler.
-- 'Now can I even eat potato chips?' Lyova challenges briskly on the spot, weaving "teper" ("now") together with "mogu" ("can") just the way native speakers do.
-- 'Mom, what does my child have to do with this?' Lyova challenges warmly from the start, weaving "mama" ("mum, mother") together with "zdes" ("here") just the way native speakers do.
-- 'But she did not spend the night at my place.' Lyova brings a steady approach as they talk, anchoring the Russian line on "nochevala" ("to spend the night") and "no" ("but") without extra filler.
-- 'Dmitry Vladimirovich, will you be able to repeat that?' Denis tests bluntly across the room, weaving "smozhete" ("will be able to") together with "povtorit" ("to repeat, another round") just the way native speakers do.
-- 'Of course, I know that I can.' Nagiyev shares a sharp note for Denis, putting "konechno" ("of course") alongside "znayu" ("know") in a tight, everyday turn of phrase.
-- 'Watch my finger closely.' Denis offers a resolute line in their talk, putting "vnimatelno" ("carefully, attentively") alongside "sledite" ("are watching") in a tight, everyday turn of phrase.
-- 'I got it, let's play in four hands!' Denis adopts an easygoing course toward Lyova, leaning on "pridumal" ("came up with") before closing the thought with "davayte" ("let's").
-- 'I will begin, and you will join in.' Denis brings an unhurried approach across the room, anchoring the Russian line on "nachnu" ("will start") and "podkhvatite" ("to join") without extra filler.
-- 'Nice, our music is working out!' Nagiyev brings a serious footing in the room, pairing "normalno" ("fine, OK") with "muzyka" ("music") to get the point across in plain spoken Russian.
-- 'I already like this very much.' Nagiyev shares a calm position at this moment, pairing "nravitsya" ("is pleasing") with "uzhe" ("already, now") so the "-sya" ending carries the action.
+- 'Mom, forgive me, I really felt like having some.' Lyova counters plainly in this moment, so Denis knows he is not just making small talk.
+- 'You yourself said that it is unhealthy.' Lyova frames one classic word right here: "govorila" means "said" (from "govorit"), giving the line its exact edge.
+- 'Now can I even eat potato chips?' Lyova makes this line right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'Mom, what does my child have to do with this?' Lyova quizzes evenly while looking straight at Nagiyev here.
+- 'But she did not spend the night at my place.' Lyova reaches for one direct detail toward Denis: "nochevala" means "to spend the night" (from "nochevat"), giving the line its exact edge.
+- 'Dmitry Vladimirovich, will you be able to repeat that?' Denis voices the reaction toward Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'Of course, I know that I can.' Nagiyev opens up decisively as they talk, without trying to dress up how he really feels.
+- 'Watch my finger closely.' Denis uses this sharp word toward Nagiyev: "vnimatelno" means "carefully, attentively", and it carries the main weight of what Denis is saying.
+- 'I got it, let's play in four hands!' Denis brings the reaction in earnest: the word "davayte" is the polite or group version of "let's", inviting Lyova into the plan right away.
+- 'I will begin, and you will join in.' Denis continues plainly to settle things, grounding the moment in plain reality.
+- 'Nice, our music is working out!' Nagiyev anchors one vivid term in reply: "poluchayetsya" means "works out" (from "poluchatsya"), giving the line its exact edge.
+- 'I already like this very much.' Nagiyev aims the thought before Lyova: the "-sya" ending on "nravitsya" ("is pleasing") turns the action inward or makes it happen between people naturally.

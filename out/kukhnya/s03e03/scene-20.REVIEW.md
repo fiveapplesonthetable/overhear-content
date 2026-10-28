@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And that is just what I thought right away! Right away.' Barinov sets a direct note on the spot, anchoring the Russian line on "srazu" ("at once") and "podumal" ("would think") without extra filler.
-- 'Max, do you have any brains at all, throwing yourself under the wheels?' Vika probes decisively in this moment, putting "mozgi" ("brains") alongside "yest" ("there is") in a tight, everyday turn of phrase.
-- 'Well, at least I felt like a hero.' Max holds a warm mood for Barinov, combining the pivot word "zato" ("on the bright side") with "pochuvstvoval" ("felt") to give the line its natural spoken rhythm.
-- 'And still I do not believe in omens, especially bad ones.' Max picks a lively course at this moment, pairing "veryu" ("believe") with "primety" ("omens, superstitions") to get the point across in plain spoken Russian.
-- 'What we consider a sign of bad luck...' Max establishes a lively tack as they talk, putting "schitayem" ("think, consider") alongside "priznakom" ("sign") in a tight, everyday turn of phrase.
-- 'Can become the biggest victory.' Max maintains a clear manner straight away, combining "mozhet" ("can") and "stat" ("to become") so the key meaning lands right away.
-- 'And we usually create our problems for ourselves.' Max presents an emphatic mood in the conversation, putting "problemy" ("problems") alongside "obychno" ("usually") in a tight, everyday turn of phrase.
-- 'And then solve them ourselves too.' Max strikes a sharp posture straight away, leaning on "potom" ("then") before closing the thought with "reshayem" ("decide").
-- 'And I didn't think you were such a stern father.' Vika offers a sharp attitude during the exchange, putting "dumala" ("thought") alongside "surovyy" ("stern, strict") in a tight, everyday turn of phrase.
-- 'And I didn't think you were so jealous.' Barinov presents an easygoing tone at once, combining "dumal" ("thought") and "revnivaya" ("jealous") so the key meaning lands right away.
-- 'For everything to be good, you must believe in yourself, not in omens.' Max picks a frank tack in this beat, combining "bylo" ("was") and "khorosho" ("good, fine") so the key meaning lands right away.
-- 'Well, except for a black cat, of course.' Max chooses an emphatic manner at this moment, combining "chyornoy" ("black") and "koshki" ("cat") so the key meaning lands right away.
+- 'And that is just what I thought right away! Right away.' Barinov answers briskly before Max, refusing to let the moment slip past.
+- 'Max, do you have any brains at all, throwing yourself under the wheels?' Vika questions skeptically in front of Max without any preamble.
+- 'Well, at least I felt like a hero.' Max grounds one familiar touch toward Barinov: "pochuvstvoval" means "felt" (from "pochuvstvovat"), giving the line its exact edge.
+- 'And still I do not believe in omens, especially bad ones.' Max holds firm earnestly without holding back, making his position completely clear.
+- 'What we consider a sign of bad luck...' Max cuts in earnestly in their talk, leaving no doubt about where he stands.
+- 'Can become the biggest victory.' Max spotlights this telling term in earnest: "bolshoy" means "big", and it carries the main weight of what Max is saying.
+- 'And we usually create our problems for ourselves.' Max follows up earnestly in this moment, steering the talk right where he wants it.
+- 'And then solve them ourselves too.' Max replies at once hearing Vika, leaving no doubt about where he stands.
+- 'And I didn't think you were such a stern father.' Vika grounds one clear word toward Barinov: "surovyy" means "stern, strict", and it carries the main weight of what Vika is saying.
+- 'And I didn't think you were so jealous.' Barinov reaches for this vivid choice on cue: "revnivaya" means "jealous" (from "revnivyy"), giving the line its exact edge.
+- 'For everything to be good, you must believe in yourself, not in omens.' Max holds firm openly in this moment, making his position completely clear.
+- 'Well, except for a black cat, of course.' Max chooses one concrete expression in earnest: "chyornoy" means "black" (from "chyornyy"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you ever thought that you could become a good actor?' Nagiyev quizzes frankly to keep things clear, weaving "dumal" ("thought") together with "mog" ("can, to be able") just the way native speakers do.
-- 'And have you ever thought that?' Barinov quizzes steadily without hesitation, joining "dumal" ("thought") to "ty" ("you") so every word pulls its weight.
-- 'I recognize my old friend, I am here on business.' Nagiyev holds a candid rhythm in their talk, using "uznayu" (from "uznavat", "to recognise") alongside "starika" ("old man") to shape the meaning.
-- 'I want to give you a chance to act in a good movie.' Nagiyev presents a grounded course with Barinov, anchoring the Russian line on "shans" ("chance") and "khochu" ("want") without extra filler.
-- 'Not for any money.' Barinov chooses an earnest approach as the scene unfolds, anchoring the Russian line on "dengi" ("money") and "ni" ("not even, nor") without extra filler.
-- 'I am offering a hundred thousand rubles.' Nagiyev sustains an easygoing view toward Barinov, linking "dayu" ("give"), "tysyach" ("thousand"), and "rubley" ("roubles") in one brisk exchange.
-- 'Make it two hundred thousand.' Barinov projects a brisk approach in front of Nagiyev, leaning on "davay" ("let's") before closing the thought with "tysyach" ("thousand").
-- 'Have a conscience, there is a crisis in the country.' Nagiyev takes a candid stance in the room, building the phrase around "sovest" ("conscience") and "imey" ("have") for a crisp, natural delivery.
-- 'Fine, a hundred thousand.' Barinov maintains a calm stance across the room, linking "tysyach" ("thousand"), "sto" ("hundred"), and "ladno" ("all right") in one brisk exchange.
-- 'But only if you order lunch from me for the entire crew.' Barinov maintains a brisk footing as they talk, pairing "tolko" ("only") with "zakazyvayesh" ("order, book") to get the point across in plain spoken Russian.
-- 'Good man, come on, I will introduce you to big cinema.' Nagiyev picks an honest course with Barinov, anchoring the Russian line on "krasavchik" ("handsome guy") and "poydem" ("let's go") without extra filler.
-- 'Let's roll and film!' Nagiyev strikes a serious approach as they talk, joining "pognali" ("to let's") to "snimat" ("to film") so every word pulls its weight.
+- 'Have you ever thought that you could become a good actor?' Nagiyev sharpens one direct piece in reply: "khoroshim" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'And have you ever thought that?' Barinov hands over the reply in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'I recognize my old friend, I am here on business.' Nagiyev proceeds decisively without any doubt, making his position completely clear.
+- 'I want to give you a chance to act in a good movie.' Nagiyev chooses one memorable piece with Barinov: "khoroshem" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'Not for any money.' Barinov drops this warning to Nagiyev: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I am offering a hundred thousand rubles.' Nagiyev stands firm firmly to be clear, grounding the moment in plain reality.
+- 'Make it two hundred thousand.' Barinov stresses one vivid term with Nagiyev: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
+- 'Have a conscience, there is a crisis in the country.' Nagiyev points to one sharp expression on cue: "sovest" means "conscience", and it carries the main weight of what Nagiyev is saying.
+- 'Fine, a hundred thousand.' Barinov chimes in evenly in this moment, letting the remark speak for itself.
+- 'But only if you order lunch from me for the entire crew.' Barinov colors this sharp expression for Nagiyev: "zakazyvayesh" means "order, book" (from "zakazyvat"), giving the line its exact edge.
+- 'Good man, come on, I will introduce you to big cinema.' Nagiyev reaches for one pointed term right here: "krasavchik" means "handsome guy", and it carries the main weight of what Nagiyev is saying.
+- 'Let's roll and film!' Nagiyev replies lightly without holding back, testing Barinov's reaction in the middle of the exchange.

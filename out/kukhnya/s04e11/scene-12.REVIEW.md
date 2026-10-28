@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well done, simply a great job!' Nagiyev shares a playful manner in the room, joining "molodets" ("well done, good boy") to "prosto" ("just") so every word pulls its weight.
-- 'You broke it yourself, you will pay for it yourself.' Nagiyev shares a frank stance across the room, combining "razbil" ("wrecked, crashed") and "zaplatish" ("to pay") so the key meaning lands right away.
-- 'Got it, I will pay for everything.' Kostya adopts a steady direction in the room, anchoring the Russian line on "ponyal" ("understood") and "oplachu" ("will pay, will pay off") without extra filler.
-- 'And a fine on top of that too!' Nagiyev takes an emphatic direction as the scene unfolds, anchoring the Russian line on "yeshchyo" ("more, still") and "shtraf" ("fine") without extra filler.
-- 'Kostya, have you completely lost your mind?' Nastya presses lightly during the talk, combining "sovsem" ("at all") and "uma" ("mind") so the key meaning lands right away.
-- 'Let's just tear up our money then!' Nastya adopts a resolute attitude with Nagiyev, using "davay" (from "davat", "let's") alongside "prosto" ("just") to shape the meaning.
-- 'We have so much money, after all!' Nastya sets a brisk direction with Kostya, weaving "deneg" ("money") together with "mnogo" ("a lot") just the way native speakers do.
-- 'Quiet, Nastya, just do not shout.' Kostya shows a resolute tack at once, joining "tikho" ("easy, quiet") to "tolko" ("only") so every word pulls its weight.
-- 'Hello, we are stuck in the elevator here.' Nastya offers a candid bearing across the room, combining "zdravstvuyte" ("hello") and "tut" ("here") so the key meaning lands right away.
-- 'Press the button and call the technician.' Kostya presents a measured footing during the exchange, combining "nazhmite" ("to press, to push") and "knopku" ("button") so the key meaning lands right away.
-- 'We already pressed it, nobody answers.' Nastya presents a firm tack for Kostya, anchoring the Russian line on "uzhe" ("already, now") and "nazhimali" ("to nobody") without extra filler.
-- 'Please call our friend for us.' Nastya establishes a warm course at once, combining "pozvonite" ("will call") and "drugu" ("friend") so the key meaning lands right away.
-- 'Give me the number, just make it quick.' Kostya sustains a natural mood without hesitation, combining the polite invitation "davayte" ("let us") with "nomer" ("number") to give the line its natural spoken rhythm.
+- 'Well done, simply a great job!' Nagiyev opens up frankly without holding back, letting the remark speak for itself.
+- 'You broke it yourself, you will pay for it yourself.' Nagiyev colors this sharp touch in earnest: "zaplatish" means "to pay" (from "zaplatit"), giving the line its exact edge.
+- 'Got it, I will pay for everything.' Kostya directs that answer frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And a fine on top of that too!' Nagiyev speaks bluntly around Nastya, steering the talk right where he wants it.
+- 'Kostya, have you completely lost your mind?' Nastya chooses one clear touch at once: "soshyol" means "gone" (from "soyti"), giving the line its exact edge.
+- 'Let's just tear up our money then!' Nastya puts that remark calmly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'We have so much money, after all!' Nastya answers right away to settle things, to clear the air between them once and for all.
+- 'Quiet, Nastya, just do not shout.' Kostya picks one colorful detail toward Nastya: "krichi" means "shout, yell" (from "krichat"), giving the line its exact edge.
+- 'Hello, we are stuck in the elevator here.' Nastya brings this answer around Kostya: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Press the button and call the technician.' Kostya follows up evenly during the talk, refusing to let the moment slip past.
+- 'We already pressed it, nobody answers.' Nastya anchors this telling touch on cue: "otvechayet" means "is responsible" (from "otvechat"), giving the line its exact edge.
+- 'Please call our friend for us.' Nastya offers the comment around Nagiyev: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Give me the number, just make it quick.' Kostya stands firm openly watching Nagiyev, so Nagiyev knows he is not just making small talk.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'German Mikhailovich, may I come in for a minute?' Ainura checks lightly on the spot, joining "mozhno" ("may, can") to "minutu" ("a minute") so every word pulls its weight.
-- 'Ainura, excuse me, but I am very busy right now.' German presents a clear tone without hesitation, putting "prostite" ("excuse me") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'I want to talk seriously about us today.' Ainura sets a clear footing right away, anchoring the Russian line on "khochu" ("want") and "seryozno" ("seriously") without extra filler.
-- 'Ainura, I respect you as a valuable employee.' German sustains an honest position in their talk, joining "uvazhayu" ("to respect") to "kak" ("how") so every word pulls its weight.
-- 'And as a person I find you very likable.' German brings a clear tack toward Ainura, pairing "kak" ("how") with "chelovek" ("a man, a person") to get the point across in plain spoken Russian.
-- 'Hush, do not say anything, just listen to me!' Ainura establishes a lively rhythm during the exchange, putting "tikho" ("easy, quiet") alongside "govori" ("say, talk") in a tight, everyday turn of phrase.
-- 'What happened at night was a big mistake.' Ainura conveys an earnest footing in their talk, putting "sluchilos" ("happened") alongside "nochyu" ("night") in a tight, everyday turn of phrase.
-- 'Yesterday you gave me beautiful flowers on purpose.' Ainura picks a calm angle across the room, combining "vchera" ("yesterday") and "spetsialno" ("on purpose") so the key meaning lands right away.
-- 'You smiled tenderly at me the whole day!' Ainura adopts a sharp footing without hesitation, pairing "ulybalsya" ("to smile") with "laskovo" ("tenderly") so the "-sya" ending carries the action.
-- 'But we cannot be together any longer.' Ainura shows a grounded posture in the scene, linking "mozhem" ("can"), "dalshe" ("next, go on"), and "byt" ("be") in one brisk exchange.
-- 'Understand, you and I are overly different people!' Ainura displays a grounded style at this moment, putting "poymi" ("understand") alongside "slishkom" ("too") in a tight, everyday turn of phrase.
-- 'Let me go, please, and do not hold on anymore!' Ainura conveys a brisk view in their talk, joining "otpusti" ("let go, release") to "bolshe" ("more") so every word pulls its weight.
+- 'German Mikhailovich, may I come in for a minute?' Ainura makes this update without pause: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Ainura, excuse me, but I am very busy right now.' German follows up right away without a pause, before Ainura can change the subject.
+- 'I want to talk seriously about us today.' Ainura frames one key element for German: "pogovorit" means "to talk", and it carries the main weight of what Ainura is saying.
+- 'Ainura, I respect you as a valuable employee.' German grounds this key word with Ainura: "sotrudnika" means "employee" (from "sotrudnik"), giving the line its exact edge.
+- 'And as a person I find you very likable.' German continues steadily with a shrug, so Ainura knows he is not just making small talk.
+- 'Hush, do not say anything, just listen to me!' Ainura centers this direct term toward German: "poslushay" means "listen" (from "poslushat"), giving the line its exact edge.
+- 'What happened at night was a big mistake.' Ainura fires back steadily hearing German, bringing things back to earth after the buildup.
+- 'Yesterday you gave me beautiful flowers on purpose.' Ainura holds firm warmly to settle things, refusing to let the moment slip past.
+- 'You smiled tenderly at me the whole day!' Ainura picks one colorful choice at once: "ulybalsya" means "to smile" (from "ulybatsya"), giving the line its exact edge.
+- 'But we cannot be together any longer.' Ainura steps in candidly as things stand, letting the remark speak for itself.
+- 'Understand, you and I are overly different people!' Ainura pushes back candidly hearing German, refusing to let the moment slip past.
+- 'Let me go, please, and do not hold on anymore!' Ainura underscores one direct touch for German: "otpusti" means "let go, release" (from "otpustit"), giving the line its exact edge.

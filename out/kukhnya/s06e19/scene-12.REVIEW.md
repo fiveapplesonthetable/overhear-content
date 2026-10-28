@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen carefully to this recording right here.' Sveta holds a resolute tack in the scene, combining "poslushay" ("listen") and "vnimatelno" ("carefully, attentively") so the key meaning lands right away.
-- 'Hello, Sveta, where is this video from?' Denis questions steadily for Sveta's benefit, weaving "sveta" ("electricity") together with "otkuda" ("where from") just the way native speakers do.
-- 'I accidentally recorded it on the dashcam.' Sveta sets a serious style at once, weaving "sluchayno" ("by any chance") together with "zapisala" ("to write down") just the way native speakers do.
-- 'I want to send it out to the guests before the wedding.' Sveta favors a measured direction for Denis, using "khochu" (from "khotet", "want") alongside "razoslat" ("to send out to all") to shape the meaning.
-- 'Listen, let us talk calmly with each other.' Denis shares a brisk tone in the room, weaving "slushay" ("listen") together with "davay" ("let's") just the way native speakers do.
-- 'Where are you right now, I am coming up.' Sveta projects a frank mood on the spot, building the phrase around "seychas" ("now") and "gde" ("where") for a crisp, natural delivery.
-- 'Did you really cook something in here?' Barinov checks warmly right away, weaving "tut" ("here") together with "prigotovili" ("cooked, prepared") just the way native speakers do.
-- 'Let us take a look at your dishes.' Barinov presents a direct rhythm beside Sveta, combining "davayte" ("let's") and "posmotrim" ("have a look") so the key meaning lands right away.
-- 'You overcooked this meat badly.' Barinov shares a wry footing across the room, pairing "myaso" ("meat") with "silno" ("strongly, much") to get the point across in plain spoken Russian.
-- 'And there is too much cinnamon here.' Barinov presents an earnest posture without hesitation, pairing "zdes" ("here") with "koritsy" ("cinnamon") to get the point across in plain spoken Russian.
-- 'And this right here is not bad at all.' Barinov strikes an honest position at this moment, joining "sovsem" ("at all") to "neplokho" ("not bad") so every word pulls its weight.
-- 'Just the thing for street dogs!' Barinov displays a measured direction with Sveta, leaning on "ulichnykh" ("street, stray") before closing the thought with "sobak" ("dogs").
+- 'Listen carefully to this recording right here.' Sveta proceeds boldly hearing Barinov, making her position completely clear.
+- 'Hello, Sveta, where is this video from?' Denis colors this clear detail at once: "video" means "video", and it carries the main weight of what Denis is saying.
+- 'I accidentally recorded it on the dashcam.' Sveta answers evenly on the spot, letting the remark speak for itself.
+- 'I want to send it out to the guests before the wedding.' Sveta speaks up pointedly in this moment, grounding the moment in plain reality.
+- 'Listen, let us talk calmly with each other.' Denis spotlights one memorable expression right here: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
+- 'Where are you right now, I am coming up.' Sveta underscores one classic touch in reply: "podkhozhu" means "walk up, approach" (from "podkhodit"), giving the line its exact edge.
+- 'Did you really cook something in here?' Barinov tests candidly to see how Denis will answer on the spot.
+- 'Let us take a look at your dishes.' Hear how Barinov counters Sveta in reply — the Russian word "posmotrim" ("have a look", built from "posmotret") does the heavy lifting.
+- 'You overcooked this meat badly.' Barinov colors one direct piece with Denis: "perederzhali" means "overcooked" (from "perederzhat"), giving the line its exact edge.
+- 'And there is too much cinnamon here.' Barinov follows up candidly on the spot, refusing to let the moment slip past.
+- 'And this right here is not bad at all.' Barinov sharpens one concrete term for Denis: "neplokho" means "not bad", and it carries the main weight of what Barinov is saying.
+- 'Just the thing for street dogs!' Barinov pushes back bluntly before Sveta, refusing to let the moment slip past.

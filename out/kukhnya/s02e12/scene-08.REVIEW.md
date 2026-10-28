@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you, Chef.' Kostya maintains a serious note as the scene unfolds, building the phrase around "spasibo" ("thank you") and "shef" ("Chef") for a crisp, natural delivery.
-- 'Where did you learn to cook?' Kostya prompts earnestly without hesitation, pairing "gde" ("where") with "gotovit" ("to cook") to get the point across in plain spoken Russian.
-- 'Oh, they still teach you something in the army?' Max checks boldly in their exchange, anchoring the Russian line on "armii" ("army") and "yeshche" ("still") without extra filler.
-- 'Wait, did you not serve?' Barinov wonders naturally as the beat lands, building the phrase around "sluzhil" ("served") and "ty" ("you") for a crisp, natural delivery.
-- 'By the way, you should have run away from the draft too.' Kostya displays a clear direction with Barinov, anchoring the Russian line on "prochim" ("other") and "tozhe" ("too") without extra filler.
-- 'Do you think I have potential?' Max queries pointedly as they speak, pairing "yest" ("there is") with "potentsial" ("potential") to get the point across in plain spoken Russian.
-- 'Yes, come on in.' Barinov offers a direct bearing at once, using "zakhodi" (from "zakhodit", "come in") alongside "da" ("yes") to shape the meaning.
-- 'I am actually on the clock right now.' Kostya shares a lively tack in their talk, linking "voobshche-to" ("actually"), "rabote" ("work"), and "da" ("yes") in one brisk exchange.
-- 'Come on, the Chef allows it.' Max displays a firm posture beside Barinov, weaving "razreshayet" ("allow, permit") together with "da" ("yes") just the way native speakers do.
-- 'Listen, tell me about our girls here.' Barinov takes a grounded view in the room, building the phrase around "slushay" ("listen") and "rasskazhi" ("tell") for a crisp, natural delivery.
-- 'Got it, pal's girlfriend is off-limits.' Kostya sustains a direct approach with Barinov, using "ponyal" (from "ponyat", "understood") alongside "devushka" ("girlfriend") to shape the meaning.
-- 'All right, in the good sense.' Max picks a thoughtful manner as they talk, anchoring the Russian line on "khoroshem" ("good") and "smysle" ("sense") without extra filler.
-- 'And what about that one over there.' Barinov strikes a serious manner right away, putting "von" ("over there") alongside "ta" ("that") in a tight, everyday turn of phrase.
+- 'Thank you, Chef.' Kostya lays out this warning beside Barinov: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Where did you learn to cook?' Kostya questions skeptically in front of Max without any preamble.
+- 'Oh, they still teach you something in the army?' Max anchors this vivid touch in earnest: "armii" means "army" (from "armiya"), giving the line its exact edge.
+- 'Wait, did you not serve?' Barinov shapes the remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'By the way, you should have run away from the draft too.' Kostya pushes back boldly without any doubt, to clear the air between them once and for all.
+- 'Do you think I have potential?' Max sharpens this direct word on cue: "potentsial" means "potential", and it carries the main weight of what Max is saying.
+- 'Yes, come on in.' Barinov hands over the comeback without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I am actually on the clock right now.' Kostya opens up sharply across the room, so Max knows he is not just making small talk.
+- 'Come on, the Chef allows it.' Max frames one classic touch right here: "razreshayet" means "allow, permit" (from "razreshat"), giving the line its exact edge.
+- 'Listen, tell me about our girls here.' Barinov speaks evenly in their talk, keeping the focus on what actually matters here.
+- 'Got it, pal's girlfriend is off-limits.' Kostya stands firm pointedly to settle things, making his position completely clear.
+- 'All right, in the good sense.' Max centers one practical word toward Kostya: "khoroshem" means "good" (from "khoroshiy"), giving the line its exact edge.
+- 'And what about that one over there.' Barinov offers that answer briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maybe we will start working already?' Katya queries firmly in front of Denis, linking "mozhet" ("can"), "uzhe" ("already, now"), and "rabotat" ("to work") in one brisk exchange.
-- 'Yes, we will start right now.' Senya maintains a natural course in this beat, combining "seychas" ("now") and "uzhe" ("already, now") so the key meaning lands right away.
-- 'I told you to work quickly!' Katya offers a firm note straight away, building the phrase around "skazala" ("told") and "bystro" ("quickly") for a crisp, natural delivery.
-- 'Katyusha, come on, do not be so nervous.' Denis holds a natural footing across the room, joining "katyusha" ("eat") to "nervnichay" ("be nervous") so every word pulls its weight.
-- 'Denis, listen, we are at work right now.' Katya adopts a grounded tack in this beat, putting "slushay" ("listen") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Fedya, come on, do not be so nervous.' Senya sustains a natural course at once, using "nervnichay" (from "nervnichat", "be nervous") alongside "fedya" ("Fedya") to shape the meaning.
-- 'Why are you doing this right now?' Denis quizzes bluntly with Katya now, pairing "seychas" ("now") with "zachem" ("what for") so the "-sya" ending carries the action.
-- 'Katyusha, I beg you, just calm down.' Denis sets a steady mood toward Senya, putting "katyusha" ("eat") alongside "proshu" ("beg, ask") in a tight, everyday turn of phrase.
-- 'Do not call me Katyusha in here!' Katya establishes a steady line for Denis, leaning on "nazyvay" ("name, call") before closing the thought with "tut" ("here").
-- 'Stop behaving like a pushover.' Katya picks a natural approach as they talk, anchoring the Russian line on "perestan" ("stop") and "vesti" ("to conduct") without extra filler.
-- 'I do not like boys like that at all.' Katya picks a steady bearing in their talk, combining the intensifier "sovsem" ("completely, at all") with "malchiki" ("boys") to give the line its natural spoken rhythm.
-- 'I just wanted to help you.' Denis takes a firm posture during the exchange, joining "prosto" ("just") to "khotel" ("wanted") so every word pulls its weight.
+- 'Maybe we will start working already?' Katya asks curiously where this conversation is heading next.
+- 'Yes, we will start right now.' Senya features one familiar element at once: "nachnyom" means "we start" (from "nachat"), giving the line its exact edge.
+- 'I told you to work quickly!' Katya uses one familiar piece on cue: "skazala" means "told" (from "skazat"), giving the line its exact edge.
+- 'Katyusha, come on, do not be so nervous.' Denis proceeds openly with a smile, refusing to let the moment slip past.
+- 'Denis, listen, we are at work right now.' Katya colors this direct choice right here: "rabote" means "work" (from "rabota"), giving the line its exact edge.
+- 'Fedya, come on, do not be so nervous.' Senya grounds one key element at once: "nervnichay" means "be nervous" (from "nervnichat"), giving the line its exact edge.
+- 'Why are you doing this right now?' Denis checks bluntly while looking straight at Katya here.
+- 'Katyusha, I beg you, just calm down.' Denis spotlights one memorable detail at once: "katyusha" means "eat", and it carries the main weight of what Denis is saying.
+- 'Do not call me Katyusha in here!' Katya centers one colorful word in earnest: "katyushey" means "katyusha" (from "katyushya"), giving the line its exact edge.
+- 'Stop behaving like a pushover.' Katya holds firm frankly without a pause, bringing things back to earth after the buildup.
+- 'I do not like boys like that at all.' Katya chooses one familiar word with Denis: "malchiki" means "boys" (from "malchik"), giving the line its exact edge.
+- 'I just wanted to help you.' Denis delivers this warning with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

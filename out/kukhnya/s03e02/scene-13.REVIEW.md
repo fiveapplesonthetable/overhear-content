@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are actors.' Nagiyev favors a wry attitude for Barinov, linking "aktyory" ("actors") directly with "my" ("we"), since Russian drops "is" and "are" in the present.
-- 'We can eat anything at all, but for big money.' Nagiyev shows an honest line straight away, weaving "mozhem" ("can") together with "syest" ("to eat") just the way native speakers do.
-- 'For big money!' Nagiyev strikes a pointed posture in their talk, weaving "bolshiye" ("big, serious") together with "dengi" ("money") just the way native speakers do.
-- 'I ate this for free today.' Nagiyev presents a frank rhythm beside Lyova, anchoring the Russian line on "besplatno" ("for free") and "segodnya" ("today") without extra filler.
-- 'So you, you, and you are working for free this month.' Nagiyev takes a thoughtful position in the conversation, building the phrase around "znachit" ("then, so") and "mesyatse" ("month") for a crisp, natural delivery.
-- 'Understood.' Barinov picks a thoughtful course as the scene unfolds, letting the single Russian word "ponyatno" ("clear") carry the entire reaction on its own.
-- 'I almost forgot. You too.' Nagiyev establishes an earnest note across the room, linking "chut" ("almost, nearly"), "zabyl" ("forgot"), and "tozhe" ("too") in one brisk exchange.
-- 'Can you imagine, they have three sous-chefs.' Lyova chooses a pointed position at once, anchoring the Russian line on "predstavlyayesh" ("can you imagine") and "su-shefa" ("sous-chef") without extra filler.
-- 'Around a thousand people.' Lyova sets a sharp approach in their talk, pairing "tysyachi" ("thousands") with "chelovek" ("a man, a person") to get the point across in plain spoken Russian.
-- 'What did you want to say? Nagiyev did us a disservice.' Barinov asks promptly beside Nagiyev, pairing "khotel" ("wanted") with "skazat" ("tell") to get the point across in plain spoken Russian.
-- 'Chef! Phone for you!' Lyova takes an easygoing note in the room, building the phrase around "telefonu" ("phone") and "shef" ("Chef") for a crisp, natural delivery.
-- 'Excuse me. Well go on, go.' Barinov maintains a direct position in the conversation, combining "izvini" ("sorry, excuse me") and "idi" ("go") so the key meaning lands right away.
+- 'We are actors.' Nagiyev sharpens one direct touch on cue: "aktyory" means "actors" (from "aktyor"), giving the line its exact edge.
+- 'We can eat anything at all, but for big money.' Nagiyev steps in honestly with a sigh, saying out loud what both of them already know.
+- 'For big money!' Nagiyev replies firmly with a nod, watching Barinov's face to see how the news lands.
+- 'I ate this for free today.' Nagiyev centers one loaded word in earnest: "besplatno" means "for free", and it carries the main weight of what Nagiyev is saying.
+- 'So you, you, and you are working for free this month.' Nagiyev points to one pointed term on cue: "mesyatse" means "month" (from "mesyats"), giving the line its exact edge.
+- 'Understood.' Barinov holds firm warmly before Nagiyev, shifting the whole mood of the room in a single beat.
+- 'I almost forgot. You too.' Nagiyev emphasizes one clear detail in reply: "zabyl" means "forgot" (from "zabyt"), giving the line its exact edge.
+- 'Can you imagine, they have three sous-chefs.' Lyova responds warmly as things stand, without trying to dress up how he really feels.
+- 'Around a thousand people.' Lyova answers plainly without holding back, steering the talk right where he wants it.
+- 'What did you want to say? Nagiyev did us a disservice.' Barinov leans on one sharp piece on cue: "medvezhyu" means "bear's" (from "medvezhiy"), giving the line its exact edge.
+- 'Chef! Phone for you!' Lyova makes that answer frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Excuse me. Well go on, go.' Barinov chimes in boldly toward Nagiyev, keeping the focus on what actually matters here.

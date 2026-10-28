@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, hi, these beautiful flowers are for you.' Denis takes a calm angle in the conversation, using "krasivyye" (from "krasivyy", "beautiful") alongside "tsvety" ("the flowers") to shape the meaning.
-- 'How about a late dinner in good company?' Denis questions candidly for Nikita's benefit, anchoring the Russian line on "kak" ("how") and "pozdnego" ("late") without extra filler.
-- 'Listen, you already talked with Sveta, right?' Denis quizzes promptly from the start, anchoring the Russian line on "slushay" ("listen") and "uzhe" ("already, now") without extra filler.
-- 'What is the problem, do you really not see a problem?' Katya probes honestly to keep things clear, weaving "problema" ("problem") together with "pravda" ("honestly") just the way native speakers do.
-- 'Well what, are we not supposed to talk to her at all now?' Denis queries warmly in their exchange, putting "teper" ("now") alongside "voobshche" ("at all") in a tight, everyday turn of phrase.
-- 'Listen, after all these are normal friendly relations.' Denis presents a pointed stance for Nikita, pairing "slushay" ("listen") with "normalnyye" ("normal") to get the point across in plain spoken Russian.
-- 'If you consider this normal, you are out of your mind!' Katya conveys a thoughtful note for Denis, linking "schitayesh" ("to count, to think"), "normalnym" ("normal"), and "bezumets" ("madman") in one brisk exchange.
-- 'You are the one who completely lost your head from jealousy!' Denis favors a lively footing during the exchange, weaving "sovsem" ("at all") together with "golovu" ("head") just the way native speakers do.
-- 'Katya, tell me, is everything alright with you?' Nikita wonders frankly across the room, linking "skazhi" ("say"), "poryadke" ("order"), and "katya" ("Katya") in one brisk exchange.
-- 'Do not interfere, you see people are talking.' Denis offers a direct line in their talk, joining "vmeshivaysya" ("to interfere") to "vidish" ("see") so every word pulls its weight.
-- 'We already talked, Nikita, will you give me a ride home?' Katya checks frankly to keep things clear, weaving "uzhe" ("already, now") together with "pogovorili" ("had a talk") just the way native speakers do.
-- 'No problem, get into my car quickly.' Nikita chooses an emphatic style at once, pairing "vopros" ("question, matter") with "sadis" ("sit down") so the "-sya" ending carries the action.
-- 'As a dear guest they gave you the best spot on top!' Katya adopts a natural angle as they talk, weaving "kak" ("how") together with "dorogomu" ("expensive, dear") just the way native speakers do.
+- 'Katya, hi, these beautiful flowers are for you.' Denis sends the remark plainly here: opening with the casual greeting "privet" ("hi") signals right away that Denis and Katya are on familiar terms.
+- 'How about a late dinner in good company?' Denis wonders earnestly about what Nikita just brought up.
+- 'Listen, you already talked with Sveta, right?' Denis emphasizes one colorful touch in earnest: "pogovorila" means "talked, had a talk" (from "pogovorit"), giving the line its exact edge.
+- 'What is the problem, do you really not see a problem?' Katya voices this answer with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Nikita purely through rising pitch at the end.
+- 'Well what, are we not supposed to talk to her at all now?' Denis inquires skeptically what Katya is actually getting at here.
+- 'Listen, after all these are normal friendly relations.' Denis leans on one sharp expression in earnest: "druzheskiye" means "friendly" (from "druzheskiy"), giving the line its exact edge.
+- 'If you consider this normal, you are out of your mind!' Katya underscores one telling choice toward Denis: "normalnym" means "normal" (from "normalnyy"), giving the line its exact edge.
+- 'You are the one who completely lost your head from jealousy!' Denis speaks up earnestly watching Nikita, leaving no doubt about where he stands.
+- 'Katya, tell me, is everything alright with you?' Nikita centers one memorable piece for Denis: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
+- 'Do not interfere, you see people are talking.' Denis points to one memorable expression on cue: "razgovarivayut" means "to talk, to speak" (from "razgovarivat"), giving the line its exact edge.
+- 'We already talked, Nikita, will you give me a ride home?' Katya checks quietly whether Denis really thought this through.
+- 'No problem, get into my car quickly.' Nikita anchors this sharp term right here: "mashinu" means "car" (from "mashina"), giving the line its exact edge.
+- 'As a dear guest they gave you the best spot on top!' Katya spotlights one telling word in reply: "luchsheye" means "best" (from "luchshiy"), giving the line its exact edge.

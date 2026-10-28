@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, Viktoriya Sergeyevna, if you ask.' German establishes an easygoing posture without hesitation, pairing "khorosho" ("good, fine") with "prosite" ("to ask") to get the point across in plain spoken Russian.
-- 'For your sake I am ready to bring Katya back.' German adopts a sharp tempo in the room, leaning on "gotov" ("ready") before closing the thought with "vernut" ("give back, get back").
-- 'I can even bring her father back.' German conveys an honest bearing right away, using "mogu" (from "moch", "can") alongside "vernut" ("give back, get back") to shape the meaning.
-- 'No, thank you, there is no need to bring her father back.' Vika offers a candid position at once, pairing "spasibo" ("thank you") with "ottsa" ("father") to get the point across in plain spoken Russian.
-- 'Then I have a request in return.' German sustains a natural view at this moment, joining "togda" ("back then") to "yest" ("there is") so every word pulls its weight.
-- 'Will you drink a cup of coffee with me today?' German presses calmly toward Vika here, using "vypyete" (from "vypit", "to drink") alongside "segodnya" ("today") to shape the meaning.
-- 'Forgive me, German Mikhailovich, I cannot today.' Vika displays a firm tack beside German, anchoring the Russian line on "prostite" ("excuse me") and "segodnya" ("today") without extra filler.
-- 'It is hard to always remain a happy person.' Kostya sustains a sharp style in the scene, building the phrase around "trudno" ("difficult, hard") and "vsegda" ("always") for a crisp, natural delivery.
-- 'Vika, just know that life goes on!' Kostya projects an emphatic view right away, pairing "prodolzhayetsya" ("continues") with "prosto" ("just") so the "-sya" ending carries the action.
-- 'Everything will definitely be fine for you.' Kostya shows a direct tempo on the spot, joining "obyazatelno" ("surely, without fail") to "budet" ("will be") so every word pulls its weight.
-- 'Yes, thank you very much, I know that.' Vika chooses a natural bearing straight away, putting "spasibo" ("thank you") alongside "bolshoye" ("big, very much") in a tight, everyday turn of phrase.
-- 'Let's agree not to lie to each other anymore.' Kostya displays a clear attitude in front of Vika, leaning on "davay" ("let's") before closing the thought with "dogovorimsya" ("we'll arrange").
+- 'All right, Viktoriya Sergeyevna, if you ask.' German puts that line toward Kostya: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'For your sake I am ready to bring Katya back.' German reacts openly before Vika, bringing things back to earth after the buildup.
+- 'I can even bring her father back.' German stresses one direct touch for Kostya: "obratno" means "back", and it carries the main weight of what German is saying.
+- 'No, thank you, there is no need to bring her father back.' Vika shapes this statement plainly here: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Then I have a request in return.' German stands firm frankly with a sigh, shifting the whole mood of the room in a single beat.
+- 'Will you drink a cup of coffee with me today?' German grounds one familiar expression in earnest: "chashechku" means "small cup" (from "chashechka"), giving the line its exact edge.
+- 'Forgive me, German Mikhailovich, I cannot today.' Vika brings the comment before German: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'It is hard to always remain a happy person.' Kostya stands firm calmly to settle things, refusing to let the moment slip past.
+- 'Vika, just know that life goes on!' Kostya stresses one classic element right here: "prodolzhayetsya" means "continues" (from "prodolzhatsya"), giving the line its exact edge.
+- 'Everything will definitely be fine for you.' Kostya makes that point with ease: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Yes, thank you very much, I know that.' Vika responds decisively watching German, leaving no doubt about where she stands.
+- 'Let's agree not to lie to each other anymore.' Kostya colors one concrete term for Vika: "dogovorimsya" means "we'll arrange" (from "dogovoritsya"), giving the line its exact edge.

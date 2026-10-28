@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you imagine, I rode in a taxi and forgot my suitcase.' The guest adopts a steady footing with Barinov, combining "predstavlyayesh" ("can you imagine") and "yekhal" ("to go, to drive") so the key meaning lands right away.
-- 'Then let us call that company right now.' Barinov presents a sharp style straight away, joining "davay" ("let's") to "pryamo" ("right, just") so every word pulls its weight.
-- 'I just flagged down the first car on the street.' The guest sustains a direct line at this moment, linking "prosto" ("just"), "pervuyu" ("first"), and "mashinu" ("car") in one brisk exchange.
-- 'Where will we find that driver now?' The guest inquires evenly in front of Lyova, putting "gde" ("where") alongside "teper" ("now") in a tight, everyday turn of phrase.
-- 'It is fine, tomorrow they will make me a new card.' The guest takes a firm view without hesitation, leaning on "zavtra" ("tomorrow") before closing the thought with "sdelayut" ("will make, do").
-- 'And then I will immediately settle up with you in full.' The guest strikes a wry style in this beat, linking "togda" ("back then"), "srazu" ("at once"), and "polnostyu" ("completely") in one brisk exchange.
-- 'Alright, I am waiting, just call me Viktor Petrovich in the kitchen.' Lyova chooses a lively footing without hesitation, combining "zhdu" ("I wait, expect") and "tolko" ("only") so the key meaning lands right away.
-- 'Viktor Petrovich, they just delivered fresh raisins to us.' Lyova chooses an honest angle with the guest, combining "seychas" ("now") and "svezhiy" ("fresh") so the key meaning lands right away.
-- 'Only we asked for regular ones, and Timur brought seedless grapes.' Lyova conveys a playful tempo across the room, building the phrase around "tolko" ("only") and "prosili" ("asked, requested") for a crisp, natural delivery.
-- 'And he does not want to listen to me there at all.' Lyova presents an emphatic bearing with the guest, combining the intensifier "sovsem" ("completely, at all") with "khochet" ("wants") to give the line its natural spoken rhythm.
-- 'Alright, it is time for me to go and work with the groceries.' Barinov establishes an unhurried attitude in the room, anchoring the Russian line on "pora" ("it's time") and "idti" ("to go") without extra filler.
-- 'Of course I understand, if anything comes up, I am in my room.' The guest holds a pointed tone as they talk, leaning on "konechno" ("of course") before closing the thought with "ponimayu" ("understand").
+- 'Can you imagine, I rode in a taxi and forgot my suitcase.' The guest colors one vivid choice in earnest: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'Then let us call that company right now.' Barinov follows up openly hearing Lyova, steering the talk right where he wants it.
+- 'I just flagged down the first car on the street.' The guest frames this telling term at once: "pervuyu" means "first" (from "pervyy"), giving the line its exact edge.
+- 'Where will we find that driver now?' The guest sends this answer around Lyova: putting the question word "gde" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'It is fine, tomorrow they will make me a new card.' The guest speaks warmly to be clear, making his position completely clear.
+- 'And then I will immediately settle up with you in full.' The guest emphasizes one concrete piece toward Lyova: "rasschitayus" means "pay" (from "rasschitatsya"), giving the line its exact edge.
+- 'Alright, I am waiting, just call me Viktor Petrovich in the kitchen.' Lyova hands over that reply plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'Viktor Petrovich, they just delivered fresh raisins to us.' Lyova responds earnestly in this moment, testing the guest's reaction in the middle of the exchange.
+- 'Only we asked for regular ones, and Timur brought seedless grapes.' Lyova sharpens one concrete touch in earnest: "obychnyy" means "ordinary, regular", and it carries the main weight of what Lyova is saying.
+- 'And he does not want to listen to me there at all.' Lyova delivers this statement without fuss: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Alright, it is time for me to go and work with the groceries.' Barinov cuts in frankly with a sigh, leaving no doubt about where he stands.
+- 'Of course I understand, if anything comes up, I am in my room.' The guest grounds one clear touch toward Lyova: "konechno" means "of course", and it carries the main weight of what the guest is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do not open this door right now.' Fedya favors an easygoing approach as the scene unfolds, using "otkryvayte" (from "otkryvat", "open") alongside "dver" ("door") to shape the meaning.
-- 'They will prosecute all of us for this.' Fedya picks a grounded course as they talk, combining "zasudyat" ("they will sue") and "nas" ("us") so the key meaning lands right away.
-- 'And I cannot go to prison.' Fedya establishes a serious manner across the room, leaning on "tyurmu" ("prison") before closing the thought with "nelzya" ("not allowed").
-- 'Open up, he will freeze in there.' Barinov displays a direct attitude across the room, putting "otkryvayte" ("open") alongside "tam" ("there") in a tight, everyday turn of phrase.
-- 'Hello, did my husband stop by here?' The guest presses promptly right away, putting "zdravstvuyte" ("hello") alongside "syuda" ("here") in a tight, everyday turn of phrase.
-- 'He wanted to speak with the chef.' The guest sustains a serious manner for Fedya, building the phrase around "khotel" ("wanted") and "pogovorit" ("to talk") for a crisp, natural delivery.
-- 'No, he did not come in here.' Barinov displays an honest tone in their talk, leaning on "syuda" ("here") before closing the thought with "zakhodil" ("went in").
-- 'Chef, what if she panics?' Fedya inquires wryly to keep things clear, anchoring the Russian line on "zapanikuyet" ("she will panic") and "shef" ("Chef") without extra filler.
-- 'She will call the police right away.' Fedya strikes a frank stance for Barinov, combining "srazu" ("at once") and "politsiyu" ("the police") so the key meaning lands right away.
-- 'We need to quietly keep an eye on her.' Barinov maintains a grounded view in the room, leaning on "nado" ("it is necessary") before closing the thought with "tikho" ("easy, quiet").
-- 'Fedya, his wife is your responsibility.' Barinov sets a frank posture at once, leaning on "zhena" ("wife") before closing the thought with "fedya" ("Fedya").
-- 'And we will try to reach an agreement with him.' Barinov holds a thoughtful posture on the spot, linking "poprobuyem" ("try"), "dogovoritsya" ("to reach an agreement"), and "nim" ("him") in one brisk exchange.
+- 'Do not open this door right now.' Fedya speaks up right away to be clear, saying out loud what both of them already know.
+- 'They will prosecute all of us for this.' Fedya holds firm honestly without any doubt, to clear the air between them once and for all.
+- 'And I cannot go to prison.' Fedya centers one memorable choice in reply: "tyurmu" means "prison" (from "tyurma"), giving the line its exact edge.
+- 'Open up, he will freeze in there.' Barinov pushes back openly as they talk, making his position completely clear.
+- 'Hello, did my husband stop by here?' The guest asks quietly if there is more going on behind the scenes.
+- 'He wanted to speak with the chef.' The guest uses this key choice with Fedya: "pogovorit" means "to talk", and it carries the main weight of what the guest is saying.
+- 'No, he did not come in here.' Barinov pushes back earnestly around Fedya, without trying to dress up how he really feels.
+- 'Chef, what if she panics?' Fedya probes openly why things suddenly took this turn between them.
+- 'She will call the police right away.' Fedya sharpens one classic expression on cue: "politsiyu" means "the police" (from "politsiya"), giving the line its exact edge.
+- 'We need to quietly keep an eye on her.' Barinov shares that thought plainly here: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Fedya, his wife is your responsibility.' Barinov answers calmly toward Fedya, so Fedya knows he is not just making small talk.
+- 'And we will try to reach an agreement with him.' Barinov picks one telling detail toward the guest: "dogovoritsya" means "to reach an agreement", and it carries the main weight of what Barinov is saying.

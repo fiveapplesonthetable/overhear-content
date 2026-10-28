@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will someone explain to me what is going on?' The guest presses honestly as the beat lands, leaning on "obyasnit" ("to explain") before closing the thought with "proiskhodit" ("is going on").
-- 'Wait a moment, this is simply a surprise.' Barinov sustains a clear attitude in their talk, pairing "podozhdi" ("wait") with "nemnogo" ("a bit") to get the point across in plain spoken Russian.
-- 'Our precinct received a tip today.' The inspector keeps a natural style in front of Barinov, anchoring the Russian line on "segodnya" ("today") and "otdel" ("department") without extra filler.
-- 'This is already the third time this week!' Barinov sustains a sharp line with the inspector, building the phrase around "uzhe" ("already, now") and "tretiy" ("the third") for a crisp, natural delivery.
-- 'Competitors want to undermine our reputation.' Barinov shares a brisk bearing in the scene, leaning on "konkurenty" ("rivals, competitors") before closing the thought with "khotyat" ("want").
-- 'I want to invite you to a banquet.' Barinov sets a wry attitude straight away, putting "khochu" ("want") alongside "priglasit" ("to invite") in a tight, everyday turn of phrase.
-- 'Thank you, but what does the police have to do with it?' The guest prompts lightly with Barinov now, anchoring the Russian line on "spasibo" ("thank you") and "tut" ("here") without extra filler.
-- 'At a Russian celebration you cannot do without the police!' Barinov keeps a calm position with the inspector, joining "russkom" ("Russian") to "prazdnike" ("festival") so every word pulls its weight.
-- 'What is this foreigner saying to you right now?' The inspector asks pointedly to make the point, anchoring the Russian line on "inostranets" ("foreigner") and "seychas" ("now") without extra filler.
-- 'He is going to call the French Embassy right now.' Barinov sustains a direct mood right away, weaving "seychas" ("now") together with "pozvonit" ("to call, to phone") just the way native speakers do.
-- 'Do you need problems with the French Republic?' Barinov prompts warmly to keep things clear, building the phrase around "nuzhny" ("needed") and "problemy" ("problems") for a crisp, natural delivery.
-- 'Please escort the police officers downstairs.' Barinov displays a frank note as they talk, leaning on "provodite" ("see out") before closing the thought with "sotrudnikov" ("staff members").
+- 'Will someone explain to me what is going on?' The guest lays out this update facing Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Wait a moment, this is simply a surprise.' Barinov stands firm at once with the inspector, leaving no doubt about where he stands.
+- 'Our precinct received a tip today.' The inspector leans on one colorful word in reply: "segodnya" means "today", and it carries the main weight of what the inspector is saying.
+- 'This is already the third time this week!' Barinov makes this warning without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Competitors want to undermine our reputation.' Barinov opens up lightly toward the guest, without trying to dress up how he really feels.
+- 'I want to invite you to a banquet.' Barinov highlights one classic detail in earnest: "priglasit" means "to invite", and it carries the main weight of what Barinov is saying.
+- 'Thank you, but what does the police have to do with it?' The guest directs this point for Barinov: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'At a Russian celebration you cannot do without the police!' Barinov counters bluntly with a shrug, making his position completely clear.
+- 'What is this foreigner saying to you right now?' The inspector spotlights one loaded expression right here: "inostranets" means "foreigner", and it carries the main weight of what the inspector is saying.
+- 'He is going to call the French Embassy right now.' Barinov stands firm boldly with a smile, leaving no doubt about where he stands.
+- 'Do you need problems with the French Republic?' Barinov tests skeptically before the guest can change the subject.
+- 'Please escort the police officers downstairs.' Barinov highlights this telling element in earnest: "sotrudnikov" means "staff members" (from "sotrudnik"), giving the line its exact edge.

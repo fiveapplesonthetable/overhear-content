@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you cook meat in the contest?' Barinov challenges plainly right away, weaving "zachem" ("what for") together with "gotovil" ("prepared, made") just the way native speakers do.
-- 'You are our fish specialist, after all!' Barinov adopts a measured view during the exchange, putting "spetsialist" ("specialist") alongside "rybe" ("fish") in a tight, everyday turn of phrase.
-- 'You gave me that advice yourself!' Senya sustains a pointed line straight away, using "sovetoval" (from "sovetovat", "to advise, recommend") alongside "eto" ("this") to shape the meaning.
-- 'I lost today only because of you!' Senya picks a measured posture as the scene unfolds, building the phrase around "tolko" ("only") and "segodnya" ("today") for a crisp, natural delivery.
-- 'I should have just cooked fish.' Senya favors a clear tack in the conversation, weaving "nado" ("it is necessary") together with "bylo" ("was") just the way native speakers do.
-- 'You are getting in my way, and you will not advance either!' Barinov shows a brisk bearing across the room, weaving "meshayesh" ("to be in the way") together with "tozhe" ("too") just the way native speakers do.
-- 'Hello, Elena Pavlovna, glad to see you.' Senya presents a brisk mood across the room, weaving "zdravstvuyte" ("hello") together with "rad" ("glad") just the way native speakers do.
-- 'Did you come for our contest too?' Senya queries wryly in this moment, weaving "tozhe" ("too") together with "prishli" ("have come") just the way native speakers do.
-- 'Yes, I decided to give it a try too.' Elena shares a direct rhythm for Barinov, putting "reshila" ("decided") alongside "tozhe" ("too") in a tight, everyday turn of phrase.
-- 'What do you think, will I succeed?' Elena queries boldly in this moment, linking "kak" ("how"), "dumayete" ("think"), and "poluchitsya" ("will come out") in one brisk exchange.
-- 'Elena Pavlovna, chance decides everything in here.' Senya strikes an earnest course in the scene, pairing "tut" ("here") with "reshayet" ("decides") to get the point across in plain spoken Russian.
-- 'I wish you great luck on the show!' Senya keeps a serious position without hesitation, linking "zhelayu" ("I wish"), "bolshoy" ("big"), and "udachi" ("luck") in one brisk exchange.
+- 'Why did you cook meat in the contest?' Barinov grounds one memorable choice in earnest: "konkurse" means "contest, competition" (from "konkurs"), giving the line its exact edge.
+- 'You are our fish specialist, after all!' Barinov brings the reply to Senya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'You gave me that advice yourself!' Senya stands firm openly as things stand, refusing to let the moment slip past.
+- 'I lost today only because of you!' Senya chooses one pointed detail on cue: "segodnya" means "today", and it carries the main weight of what Senya is saying.
+- 'I should have just cooked fish.' Senya brings that line for Barinov: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'You are getting in my way, and you will not advance either!' Barinov steps in frankly before Senya, grounding the moment in plain reality.
+- 'Hello, Elena Pavlovna, glad to see you.' Senya chooses this telling expression in earnest: "zdravstvuyte" means "hello", and it carries the main weight of what Senya is saying.
+- 'Did you come for our contest too?' Senya sends the remark without pause: the "-sya" ending on "konkurs" ("contest") turns the action inward or makes it happen between people naturally.
+- 'Yes, I decided to give it a try too.' Elena opens up briskly with a nod, watching Barinov's face to see how the news lands.
+- 'What do you think, will I succeed?' Elena focuses on one classic element in earnest: "poluchitsya" means "will come out", and it carries the main weight of what Elena is saying.
+- 'Elena Pavlovna, chance decides everything in here.' Senya replies pointedly across the room, to clear the air between them once and for all.
+- 'I wish you great luck on the show!' Senya counters calmly as things stand, testing Elena's reaction in the middle of the exchange.

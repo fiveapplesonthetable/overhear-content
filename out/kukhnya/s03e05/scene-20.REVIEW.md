@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nagiyev wants to give Vika this car as a gift?' Max questions directly with Barinov now, joining "khochet" ("wants") to "podarit" ("give as a gift") so every word pulls its weight.
-- 'And what if he gave me one like that?' Nagiyev prompts briskly without hesitation, linking "podaril" ("donated, gifted"), "yesli" ("if"), and "by" ("would") in one brisk exchange.
-- 'Well let him just try.' Max maintains a grounded tack in their talk, pairing "tolko" ("only") with "poprobuyet" ("to try, to taste") to get the point across in plain spoken Russian.
-- 'What, do you want to steal it right now?' Nagiyev wonders wryly without hesitation, weaving "ugnat" ("steal a car") together with "seychas" ("now") just the way native speakers do.
-- 'I will simply move it quietly somewhere.' Max presents an unhurried mood without hesitation, combining "prosto" ("just") and "perestavlyu" ("will move, repark") so the key meaning lands right away.
-- 'Let him run around and look for it now.' Max strikes a playful direction in the conversation, anchoring the Russian line on "teper" ("now") and "pobegayet" ("runs around") without extra filler.
-- 'Hello, Katya, I accept your terms.' Barinov holds a wry direction at once, building the phrase around "prinimayu" ("to receive") and "usloviya" ("conditions") for a crisp, natural delivery.
-- 'Please, come back to us quickly.' Barinov establishes a natural direction for Nagiyev, pairing "bystreye" ("faster") with "vozvrashchaysya" ("return") to get the point across in plain spoken Russian.
-- 'Every person has another side.' Max displays a measured bearing in their talk, anchoring the Russian line on "kazhdogo" ("everyone") and "cheloveka" ("a man, a person") without extra filler.
-- 'A side that is hidden from others' Max brings an easygoing tempo in front of Nagiyev, weaving "storona" ("side") together with "skryta" ("hidden") just the way native speakers do.
-- 'That side can surprise someone greatly.' Max shows a frank tack in this beat, linking "storona" ("side"), "mozhet" ("can"), and "silno" ("strongly, much") in one brisk exchange.
-- 'And it can make someone else very happy.' Max brings a steady rhythm in the conversation, anchoring the Russian line on "mozhet" ("can") and "ochen" ("very much") without extra filler.
-- 'At the right moment he finds the strength to yield.' Max chooses an honest course straight away, combining "nuzhnyy" ("necessary, needed") and "moment" ("moment") so the key meaning lands right away.
+- 'Nagiyev wants to give Vika this car as a gift?' Max delivers that remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'And what if he gave me one like that?' Nagiyev checks evenly how Max expects that to work in practice.
+- 'Well let him just try.' Max highlights one telling element on cue: "poprobuyet" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
+- 'What, do you want to steal it right now?' Nagiyev phrases that remark facing Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'I will simply move it quietly somewhere.' Max follows up quietly around Barinov, steering the talk right where he wants it.
+- 'Let him run around and look for it now.' Max stresses this telling term with Nagiyev: "pobegayet" means "runs around" (from "pobegat"), giving the line its exact edge.
+- 'Hello, Katya, I accept your terms.' Barinov uses this sharp piece in earnest: "usloviya" means "conditions" (from "usloviye"), giving the line its exact edge.
+- 'Please, come back to us quickly.' Barinov cuts in at once beside Nagiyev, leaving no doubt about where he stands.
+- 'Every person has another side.' Max features this sharp term toward Barinov: "obratnaya" means "reverse, other" (from "obratnyy"), giving the line its exact edge.
+- 'A side that is hidden from others' Max gives the comeback before Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'That side can surprise someone greatly.' Max steps in pointedly facing Barinov, keeping the focus on what actually matters here.
+- 'And it can make someone else very happy.' Max reaches for this telling piece in earnest: "obradovat" means "make happy", and it carries the main weight of what Max is saying.
+- 'At the right moment he finds the strength to yield.' Max responds calmly without any doubt, so Barinov knows he is not just making small talk.

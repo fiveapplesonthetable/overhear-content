@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take more of it, there is plenty of it in there anyway.' Vika adopts a calm tack in the room, linking "bolshe" ("more"), "berite" ("take"), and "tam" ("there") in one brisk exchange.
-- 'Just in case.' Nagiyev maintains a serious style for Vika, pairing "sluchay" ("case, occasion") with "na" ("on, onto") to get the point across in plain spoken Russian.
-- 'Do not even think about bringing a weapon.' Vika shares a grounded attitude on the spot, anchoring the Russian line on "vzdumay" ("don't even think") and "brat" ("to take") without extra filler.
-- 'I am not going to shoot anyone.' Nagiyev keeps a resolute note in front of Vika, putting "strelyat" ("shoots") alongside "budu" ("will be") in a tight, everyday turn of phrase.
-- 'Galya, do not worry.' Vika projects a firm bearing in front of Nagiyev, anchoring the Russian line on "volnuysya" ("worry") and "galya" ("Galya") without extra filler.
-- 'You are scaring me already.' Nagiyev sets a lively note for Vika, linking "uzhe" ("already, now"), "pugayesh" ("are scaring"), and "ty" ("you") in one brisk exchange.
-- 'We are going to the police immediately.' Vika picks a brisk tone at this moment, building the phrase around "nemedlenno" ("immediately") and "idem" ("to go, to walk") for a crisp, natural delivery.
-- 'I will handle this myself.' Nagiyev offers an unhurried mood in this beat, joining "razberus" ("I will sort out") to "sam" ("yourself") so every word pulls its weight.
-- 'I do not need any bartenders in my car.' Vika shares a resolute attitude as they talk, combining "barmeny" ("barmen") and "mashine" ("car") so the key meaning lands right away.
-- 'I am coming with you.' Nagiyev holds a pointed attitude in their talk, putting "ya" ("I") alongside "vami" ("you") in a tight, everyday turn of phrase.
-- 'Let him come along, otherwise you will do something foolish out there.' Vika displays a pointed position in the scene, pairing "yedet" ("is going") with "inache" ("otherwise") to get the point across in plain spoken Russian.
-- 'I just went out for a smoke.' Nagiyev holds an unhurried bearing straight away, putting "kurit" ("to smoke") alongside "khodil" ("went") in a tight, everyday turn of phrase.
-- 'And took the snails out for a walk at the same time?' Vika prompts honestly without a pause, anchoring the Russian line on "zaodno" ("at the same time") and "ulitok" ("snail, escargot") without extra filler.
+- 'Take more of it, there is plenty of it in there anyway.' Vika features this direct detail in reply: "bolshe" means "more", and it carries the main weight of what Vika is saying.
+- 'Just in case.' Nagiyev drops the comment for Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Do not even think about bringing a weapon.' Vika opens up at once hearing Nagiyev, testing Nagiyev's reaction in the middle of the exchange.
+- 'I am not going to shoot anyone.' Nagiyev leans on one colorful piece in reply: "strelyat" means "shoots", and it carries the main weight of what Nagiyev is saying.
+- 'Galya, do not worry.' Vika brings this warning on cue: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
+- 'You are scaring me already.' Nagiyev answers quietly in this moment, so Vika knows he is not just making small talk.
+- 'We are going to the police immediately.' Vika leans on one familiar choice in earnest: "politsiyu" means "the police" (from "politsiya"), giving the line its exact edge.
+- 'I will handle this myself.' Nagiyev makes that line before Vika: the "-sya" ending on "razberus" ("I will sort out") turns the action inward or makes it happen between people naturally.
+- 'I do not need any bartenders in my car.' Vika opens up quietly on the spot, watching Nagiyev's face to see how the news lands.
+- 'I am coming with you.' Nagiyev directs this answer in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Let him come along, otherwise you will do something foolish out there.' Vika spotlights one loaded word for Nagiyev: "gluposti" means "nonsense" (from "glupost"), giving the line its exact edge.
+- 'I just went out for a smoke.' Nagiyev proceeds boldly on the spot, saying out loud what both of them already know.
+- 'And took the snails out for a walk at the same time?' Vika highlights this direct term in earnest: "vygulival" means "to walk" (from "vygulivat"), giving the line its exact edge.

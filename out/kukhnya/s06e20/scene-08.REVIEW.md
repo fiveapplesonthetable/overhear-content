@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Misha, well, this is somehow wrong.' Barinov takes a candid course across the room, linking "kak-to" ("somehow, a bit") directly with "nepravilno" ("wrongly"), since Russian drops "is" and "are" in the present.
-- 'You deserved this star, after all!' Mikhail presents a calm mood with Nikita, pairing "zvezdu" ("star") with "zasluzhil" ("earned") to get the point across in plain spoken Russian.
-- 'How many inspections you and I have been through!' Mikhail sustains a sharp rhythm as the scene unfolds, putting "skolko" ("how much, so much") alongside "inspektsiy" ("inspections") in a tight, everyday turn of phrase.
-- 'We cannot lose all of this right now.' Mikhail sustains an easygoing posture in the conversation, weaving "nelzya" ("not allowed") together with "seychas" ("now") just the way native speakers do.
-- 'Wait, he will suffocate like that!' Nikita establishes a calm view in this beat, combining "podozhdite" ("wait") and "zadokhnyotsya" ("will suffocate") so the key meaning lands right away.
-- 'I thought you would just beat him up.' Nikita conveys a steady tone in the scene, joining "dumal" ("thought") to "prosto" ("just") so every word pulls its weight.
-- 'And you are planning to kill him!' Nikita holds a candid note in the scene, leaning on "ubit" ("kill") before closing the thought with "sobirayetes" ("to intend").
-- 'We did not agree on that.' Nikita keeps a brisk tone in the room, putting "dogovarivalis" ("had an agreement") alongside "my" ("we") in a tight, everyday turn of phrase.
-- 'We did not make any agreement with you at all.' Mikhail brings an easygoing rhythm at once, joining "voobshche" ("at all") to "nikak" ("in no way") so every word pulls its weight.
-- 'You came here yourself, after all.' Mikhail favors a calm position as the scene unfolds, anchoring the Russian line on "syuda" ("here") and "prishyol" ("came, have come") without extra filler.
-- 'Stop, you cannot do that at all!' Nikita presents a clear view in the conversation, leaning on "stoyte" ("stop, wait") before closing the thought with "delat" ("do").
-- 'I will report this to the police right now!' Nikita presents a natural tone in the conversation, pairing "seychas" ("now") with "politsiyu" ("the police") so the "-sya" ending carries the action.
+- 'Misha, well, this is somehow wrong.' Barinov gives that thought at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You deserved this star, after all!' Mikhail follows up dryly without holding back, watching Nikita's face to see how the news lands.
+- 'How many inspections you and I have been through!' Mikhail picks one classic expression right here: "inspektsiy" means "inspections" (from "inspektsiya"), giving the line its exact edge.
+- 'We cannot lose all of this right now.' Mikhail brings the reply with ease: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'Wait, he will suffocate like that!' Nikita cuts in briskly toward Barinov, letting the remark speak for itself.
+- 'I thought you would just beat him up.' Nikita emphasizes one classic term right here: "pobyote" means "you will beat up" (from "pobit"), giving the line its exact edge.
+- 'And you are planning to kill him!' Nikita gives the reaction without fuss: the "-sya" ending on "sobirayetes" ("to intend") turns the action inward or makes it happen between people naturally.
+- 'We did not agree on that.' Nikita counters warmly facing Mikhail, steering the talk right where he wants it.
+- 'We did not make any agreement with you at all.' Mikhail emphasizes one classic choice for Barinov: "dogovarivalis" means "had an agreement" (from "dogovarivatsya"), giving the line its exact edge.
+- 'You came here yourself, after all.' Mikhail sharpens one direct choice right here: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
+- 'Stop, you cannot do that at all!' Nikita follows up dryly hearing Barinov, without trying to dress up how he really feels.
+- 'I will report this to the police right now!' Nikita leans on one pointed element toward Mikhail: "politsiyu" means "the police" (from "politsiya"), giving the line its exact edge.

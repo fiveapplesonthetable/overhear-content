@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, I beg your pardon.' Elena favors a frank footing in this beat, using "proshu" (from "prosit", "beg, ask") alongside "proshcheniya" ("forgiveness") to shape the meaning.
-- 'Yes, of course, everything is still on for tonight!' Barinov conveys an honest tack at this moment, pairing "konechno" ("of course") with "vecherom" ("in the evening") to get the point across in plain spoken Russian.
-- 'My guests will arrive at eight sharp.' Barinov favors a candid direction as they talk, weaving "gosti" ("visitors, guests") together with "pridut" ("will come") just the way native speakers do.
-- 'We are closing the restaurant specially for friends.' Barinov conveys a measured mood with Lyova, pairing "spetsialno" ("on purpose") with "zakryvayem" ("close, are closing") to get the point across in plain spoken Russian.
-- 'Viktor Petrovich, appreciate this irony of life.' Elena maintains a thoughtful position as they talk, putting "otsenite" ("to appreciate") alongside "ironiyu" ("life") in a tight, everyday turn of phrase.
-- 'Today we are helping to save rare leopards.' Elena sets a serious direction as the scene unfolds, leaning on "segodnya" ("today") before closing the thought with "pomogayem" ("to help").
-- 'And for this they give us benefits.' Elena picks an earnest mood in the room, putting "dayut" ("they give") alongside "lgoty" ("benefits, allowances") in a tight, everyday turn of phrase.
-- 'It turns out that the leopards save us too.' Elena adopts a warm view at this moment, joining "vykhodit" ("goes out") to "leopardy" ("leopards") so every word pulls its weight.
-- 'Nikolay Andreyevich, will you be having lunch right now?' Barinov queries steadily to keep things clear, pairing "andreyevich" ("andreyevich") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'I have a plane in three hours.' Lyova picks a firm style straight away, using the everyday "u menya" ("by me") alongside "chasa" ("hours") to show what belongs to the speaker.
-- 'So prepare lunch very quickly.' Lyova shares a calm tack on the spot, leaning on "prigotovte" ("prepare, cook") before closing the thought with "obed" ("lunch").
-- 'And happy birthday, Viktor Petrovich!' Lyova favors a pointed approach as they talk, using "dnyom" (from "den", "day") alongside "rozhdeniya" ("of birth") to shape the meaning.
+- 'Viktor Petrovich, I beg your pardon.' Elena speaks up sharply around Barinov, before Barinov can change the subject.
+- 'Yes, of course, everything is still on for tonight!' Barinov leans on one colorful expression at once: "konechno" means "of course", and it carries the main weight of what Barinov is saying.
+- 'My guests will arrive at eight sharp.' Barinov speaks up briskly without any doubt, refusing to let the moment slip past.
+- 'We are closing the restaurant specially for friends.' Barinov fires back steadily before Lyova, making his position completely clear.
+- 'Viktor Petrovich, appreciate this irony of life.' Elena highlights one clear choice right here: "ironiyu" means "life" (from "ironiya"), giving the line its exact edge.
+- 'Today we are helping to save rare leopards.' Elena answers openly in their talk, bringing things back to earth after the buildup.
+- 'And for this they give us benefits.' Elena holds firm right away without holding back, saying out loud what both of them already know.
+- 'It turns out that the leopards save us too.' Elena highlights this direct touch for Lyova: "leopardy" means "leopards", and it carries the main weight of what Elena is saying.
+- 'Nikolay Andreyevich, will you be having lunch right now?' Barinov aims that reply toward Elena: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
+- 'I have a plane in three hours.' Lyova holds firm briskly with a smile, letting the remark speak for itself.
+- 'So prepare lunch very quickly.' Lyova favors one pointed touch with Barinov: "prigotovte" means "prepare, cook" (from "prigotovit"), giving the line its exact edge.
+- 'And happy birthday, Viktor Petrovich!' Lyova speaks up calmly in this moment, steering the talk right where he wants it.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, are you even listening?' Barinov tests firmly to keep things clear, using "bit" (from "bityy", "beaten, smashed") alongside "slushayesh" ("are listening to") to shape the meaning.
-- 'Yes, yes, of course.' Kostya presents a serious manner straight away, leaning on "da" ("yes") as a compact, one-word response that needs no extra words.
-- 'Are there any problems?' Barinov challenges honestly toward Kostya here, pairing "problemy" ("problems") with "kakiye-to" ("some kind of") to get the point across in plain spoken Russian.
-- 'No, no, please continue.' Kostya presents a pointed posture beside Barinov, pairing "prodolzhayte" ("to continue") with "net" ("no") to get the point across in plain spoken Russian.
-- 'What do we have next on the list?' Barinov wonders bluntly in front of Kostya, weaving "dalshe" ("next, go on") together with "chto" ("what") just the way native speakers do.
-- 'We are keeping that. Turbot.' Kostya chooses a warm manner in the conversation, combining "ostavlyayem" ("to leave") and "churbo" ("blockhead") so the key meaning lands right away.
-- 'Yes, I understood everything.' Barinov adopts a resolute posture at this moment, leaning on "ponyal" ("understood") before closing the thought with "da" ("yes").
-- 'I am the head chef, I memorized all of it.' Kostya displays a thoughtful rhythm at once, anchoring the Russian line on "zapomnil" ("to remember") and "ya" ("I") without extra filler.
-- 'See you very soon.' Barinov favors an honest rhythm on the spot, using "skoroy" (from "skoraya", "ambulance") alongside "vstrechi" ("meeting, next time") to shape the meaning.
-- 'Do not worry at all.' Kostya favors an emphatic manner in the room, joining "volnuytes" ("worry") to "vy" ("you") so every word pulls its weight.
-- 'He will remember everything.' Barinov shares a candid line without hesitation, weaving "zapomnit" ("will remember") together with "vse" ("all") just the way native speakers do.
-- 'He has a memory like that animal.' Kostya establishes a measured manner at this moment, linking "pamyat" ("memory"), "kak" ("how"), and "etogo" ("that") in one brisk exchange.
-- 'A memory like an elephant.' Barinov presents a sharp manner without hesitation, building the phrase around "pamyat" ("memory") and "kak" ("how") for a crisp, natural delivery.
+- 'Vitya, are you even listening?' Barinov offers this update with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Yes, yes, of course.' Kostya follows up steadily without a pause, testing Barinov's reaction in the middle of the exchange.
+- 'Are there any problems?' Barinov chooses one direct expression for Kostya: "problemy" means "problems" (from "problema"), giving the line its exact edge.
+- 'No, no, please continue.' Kostya sends the comeback without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What do we have next on the list?' Barinov challenges point-blank to see how Kostya will answer on the spot.
+- 'We are keeping that. Turbot.' Kostya leans on one key piece right here: "ostavlyayem" means "to leave" (from "ostavlyat"), giving the line its exact edge.
+- 'Yes, I understood everything.' Barinov lays out that point right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I am the head chef, I memorized all of it.' Kostya pushes back earnestly without holding back, without trying to dress up how he really feels.
+- 'See you very soon.' Barinov underscores one vivid element for Kostya: "vstrechi" means "meeting, next time" (from "vstrecha"), giving the line its exact edge.
+- 'Do not worry at all.' Kostya lays out the comeback for Barinov: the "-sya" ending on "volnuytes" ("worry") turns the action inward or makes it happen between people naturally.
+- 'He will remember everything.' Barinov opens up boldly in their talk, watching Kostya's face to see how the news lands.
+- 'He has a memory like that animal.' Kostya leans on this sharp detail toward Barinov: "pamyat" means "memory", and it carries the main weight of what Kostya is saying.
+- 'A memory like an elephant.' Barinov gives the remark on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

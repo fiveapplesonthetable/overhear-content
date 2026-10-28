@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'A woman always had to maintain order in the house.' Max establishes an easygoing bearing in front of Denis, leaning on "zhenshchina" ("woman") before closing the thought with "vsegda" ("always").
-- 'And a man had to guard this house.' Max brings a measured stance in their talk, building the phrase around "muzhchina" ("man") and "dolzhen" ("has to, must") for a crisp, natural delivery.
-- 'Since then almost nothing has changed.' Max takes a lively posture without hesitation, using "por" (from "pora", "time") alongside "pochti" ("almost") to shape the meaning.
-- 'Max, who is that arriving so late?' Vika asks warmly in this moment, leaning on "prishyol" ("came, have come") before closing the thought with "pozdno" ("too late, late").
-- 'That is a courier from the store.' Max shares an earnest style on the spot, leaning on "priyekhal" ("came") before closing the thought with "kuryer" ("courier, errand boy").
-- 'A comfortable grip and a very good camera!' Denis conveys a warm tone as they talk, building the phrase around "udobnaya" ("comfortable") and "ruchka" ("handle") for a crisp, natural delivery.
-- 'Max, tell me, what do you need this rifle for?' Vika questions directly across the room, anchoring the Russian line on "skazhi" ("say") and "zachem" ("what for") without extra filler.
-- 'What are you, still a tiny child?' Vika tests candidly toward Max here, building the phrase around "yeshchyo" ("more, still") and "sovsem" ("at all") for a crisp, natural delivery.
-- 'Do not call me a little child.' Max strikes a direct manner on the spot, linking "nazyvay" ("name, call"), "malenkim" ("small, little"), and "rebyonkom" ("child") in one brisk exchange.
-- 'I am an adult and I decide everything myself.' Max sustains a sharp tempo across the room, combining "vzroslyy" ("grown-up, adult") and "chelovek" ("a man, a person") so the key meaning lands right away.
-- 'Vika, could you chip in a little?' Max checks plainly to Denis here, weaving "mogla" ("could") together with "dobavit" ("to add") just the way native speakers do.
-- 'Otherwise I do not have quite enough money.' Max chooses a wry angle for Vika, joining "nemnogo" ("a bit") to "deneg" ("money") so every word pulls its weight.
+- 'A woman always had to maintain order in the house.' Max emphasizes one pointed touch at once: "zhenshchina" means "woman", and it carries the main weight of what Max is saying.
+- 'And a man had to guard this house.' Max continues earnestly without a pause, keeping the focus on what actually matters here.
+- 'Since then almost nothing has changed.' Max speaks bluntly before Denis, before Denis can change the subject.
+- 'Max, who is that arriving so late?' Vika favors one telling element with Max: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
+- 'That is a courier from the store.' Max opens up boldly toward Denis, to clear the air between them once and for all.
+- 'A comfortable grip and a very good camera!' Denis fires back calmly without holding back, testing Vika's reaction in the middle of the exchange.
+- 'Max, tell me, what do you need this rifle for?' Vika anchors this key piece for Denis: "ruzhyo" means "a gun, rifle", and it carries the main weight of what Vika is saying.
+- 'What are you, still a tiny child?' Vika lays out the comment beside Max: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Do not call me a little child.' Max replies frankly without a pause, so Denis knows he is not just making small talk.
+- 'I am an adult and I decide everything myself.' Max uses one sharp word for Vika: "vzroslyy" means "grown-up, adult", and it carries the main weight of what Max is saying.
+- 'Vika, could you chip in a little?' Max aims that thought before Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'Otherwise I do not have quite enough money.' Max responds pointedly without a pause, watching Vika's face to see how the news lands.

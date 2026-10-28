@@ -36,7 +36,7 @@ WALK = [
     (3, None, "'Thank you.' Barinov thanks the doctor for the exam."),
     (4, None, "'What is the cause of your injury?' Filling out his report, the doctor asks how the injury happened. Chef Viktor answers straight away."),
     (5, None, "'I got hit by a car.' Viktor admits that he got hit by a car."),
-    (6, None, "'Will you report to the police?' the speaker puts 'will be' up front so the listener immediately catches the tone, followed by 'declare'."),
+    (6, None, "'Will you report to the police?' Filling out the hospital report, the doctor asks whether Viktor plans to file a complaint with the police."),
     (7, None, "'No.' When asked if he will file a police report against the driver, Viktor says no."),
     (8, None, "'I forgot to put the car on handbrake.' To protect Elena from losing her license, Viktor makes up a story about forgetting his own handbrake."),
     (9, None, "'And it ran over me.' He claims his own parked car rolled forward and bumped into him."),

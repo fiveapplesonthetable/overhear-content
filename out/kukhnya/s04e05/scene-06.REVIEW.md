@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By the way, I also have good news.' Denis chooses a brisk mood without hesitation, combining "kstati" ("by the way") and "tozhe" ("too") so the key meaning lands right away.
-- 'I finally decided to rent an apartment for myself.' Denis sets an unhurried tone beside Senya, anchoring the Russian line on "nakonets" ("at last, finally") and "reshil" ("has decided") without extra filler.
-- 'Interesting, and where did you get the money?' Max checks bluntly right away, joining "interesno" ("interesting") to "gde" ("where") so every word pulls its weight.
-- 'My mom sent me this money today.' Denis sets an emphatic stance as the scene unfolds, anchoring the Russian line on "mama" ("mum, mother") and "segodnya" ("today") without extra filler.
-- 'There are exactly sixty thousand rubles here.' Denis shares a direct view in front of Max, putting "zdes" ("here") alongside "rovno" ("exactly") in a tight, everyday turn of phrase.
-- 'I found several good options.' Denis strikes a calm line in the scene, weaving "nashyol" ("found") together with "khoroshikh" ("good") just the way native speakers do.
-- 'Right after the shift I am going to look at them.' Denis brings a brisk bearing in their talk, combining "seychas" ("now") and "srazu" ("at once") so the key meaning lands right away.
-- 'Guy, did you happen to forget anything?' Senya probes frankly without a pause, pairing "paren" ("boyfriend") with "sluchayno" ("by any chance") to get the point across in plain spoken Russian.
-- 'How did you do that so unnoticeably?' Denis presses pointedly in front of Max, building the phrase around "kak" ("how") and "sdelal" ("did") for a crisp, natural delivery.
-- 'On the metro they will steal the money even more unnoticeably.' Max brings a serious tempo as they talk, leaning on "metro" ("metro") before closing the thought with "dengi" ("money").
-- 'Let the money rather stay with me for safekeeping.' Max holds a frank direction in their talk, using the everyday "u menya" ("by me") alongside "dengi" ("money") to show what belongs to the speaker.
-- 'When you find an apartment, you will take it right back.' Max chooses a direct manner in front of Senya, linking "kogda" ("when"), "kvartiru" ("flat"), and "naydyosh" ("you'll find") in one brisk exchange.
-- 'All right, let it stay with you for now.' Denis conveys a direct posture in the scene, combining "poka" ("bye") and "polezhat" ("stay") so the key meaning lands right away.
+- 'By the way, I also have good news.' Denis responds bluntly watching Max, so Max knows he is not just making small talk.
+- 'I finally decided to rent an apartment for myself.' Denis colors this direct piece at once: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'Interesting, and where did you get the money?' Max makes that thought in earnest: putting the question word "gde" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'My mom sent me this money today.' Denis answers steadily toward Senya, shifting the whole mood of the room in a single beat.
+- 'There are exactly sixty thousand rubles here.' Denis spotlights one direct detail for Max: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
+- 'I found several good options.' Denis replies steadily watching Senya, grounding the moment in plain reality.
+- 'Right after the shift I am going to look at them.' Denis continues briskly before Max, to clear the air between them once and for all.
+- 'Guy, did you happen to forget anything?' Senya frames this clear term right here: "sluchayno" means "by any chance", and it carries the main weight of what Senya is saying.
+- 'How did you do that so unnoticeably?' Denis hands over this answer in earnest: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'On the metro they will steal the money even more unnoticeably.' Max continues firmly with Senya, watching Senya's face to see how the news lands.
+- 'Let the money rather stay with me for safekeeping.' Max focuses on this clear element on cue: "polezhat" means "stay", and it carries the main weight of what Max is saying.
+- 'When you find an apartment, you will take it right back.' Max responds calmly without a pause, refusing to let the moment slip past.
+- 'All right, let it stay with you for now.' Denis fires back pointedly across the room, bringing things back to earth after the buildup.

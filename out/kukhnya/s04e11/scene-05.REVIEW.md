@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, you are standing next to each other and not fighting.' Vika brings a firm attitude in front of Barinov, weaving "stoite" ("are standing") together with "ryadom" ("nearby") just the way native speakers do.
-- 'Could it be you decided to make a truce?' Vika queries dryly for German's benefit, weaving "reshili" ("decided") together with "zaklyuchit" ("to conclude") just the way native speakers do.
-- 'He deprived the entire restaurant of electricity!' German presents a sharp angle toward Barinov, leaning on "lishil" ("deprive, suspend") before closing the thought with "restoran" ("restaurant").
-- 'Is that really an act of truce?' German questions firmly beside Vika, building the phrase around "akt" ("truce") and "peremiriya" ("truce") for a crisp, natural delivery.
-- 'Vitya, are you in your right mind at all?' Vika quizzes pointedly without hesitation, linking "voobshche" ("at all"), "ume" ("mind, head"), and "vitya" ("Vitya") in one brisk exchange.
-- 'You will not prove a thing!' Barinov presents a calm tempo without hesitation, joining "dokazhete" ("to prove") to "da" ("yes") so every word pulls its weight.
-- 'What happened in the kitchen?' Barinov wonders firmly in front of German, anchoring the Russian line on "tam" ("there") and "sluchilos" ("happened") without extra filler.
-- 'There is a live snake in your kitchen!' Vika favors a grounded angle for German, weaving "kukhne" ("kitchen") together with "zhivaya" ("alive") just the way native speakers do.
-- 'There you go, an eye for an eye.' German shares a wry posture in their talk, putting "oko" ("pal") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
-- 'Well, you will pay for this yet!' Barinov shares a candid course in the room, using the everyday "u menya" ("by me") alongside "yeshchyo" ("more, still") to show what belongs to the speaker.
-- 'Let's go back into our dining room.' German sustains a steady line in this beat, joining "poydyomte" ("come on, let's go") to "obratno" ("back") so every word pulls its weight.
-- 'I will not leave it like this!' Barinov strikes a frank manner at once, using "ostavlyu" (from "ostavit", "will leave") alongside "ya" ("I") to shape the meaning.
+- 'Oh, you are standing next to each other and not fighting.' Vika voices the reaction on cue: the "-sya" ending on "deryotes" ("to fight, to brawl") turns the action inward or makes it happen between people naturally.
+- 'Could it be you decided to make a truce?' Vika prompts calmly where this conversation is heading next.
+- 'He deprived the entire restaurant of electricity!' German chooses one clear word in reply: "elektrichestva" means "electricity", and it carries the main weight of what German is saying.
+- 'Is that really an act of truce?' German drops this warning without pause: starting the question with "razve" ("really?, is it true that...?") shows German is pushing back against what he just heard.
+- 'Vitya, are you in your right mind at all?' Vika probes deadpan as Barinov tries to explain the situation.
+- 'You will not prove a thing!' Barinov centers one practical touch in reply: "dokazhete" means "to prove" (from "dokazat"), giving the line its exact edge.
+- 'What happened in the kitchen?' Barinov puts the remark beside German: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'There is a live snake in your kitchen!' Vika speaks up dryly around German, letting the remark speak for itself.
+- 'There you go, an eye for an eye.' German opens up frankly beside Barinov, refusing to let the moment slip past.
+- 'Well, you will pay for this yet!' Barinov puts that answer frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Let's go back into our dining room.' German stands firm evenly with a smile, bringing things back to earth after the buildup.
+- 'I will not leave it like this!' Barinov leans on one familiar expression with Vika: "ostavlyu" means "will leave" (from "ostavit"), giving the line its exact edge.

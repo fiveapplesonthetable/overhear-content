@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, we agreed on two hours.' Elena holds a measured course in the room, pairing "dogovarivalis" ("had an agreement") with "chasa" ("hours") so the "-sya" ending carries the action.
-- 'Lena, forgive me, I got caught up today.' Barinov takes a measured note with the inspector, linking "prosti" ("sorry, forgive me"), "segodnya" ("today"), and "zamotalsya" ("got caught up") in one brisk exchange.
-- 'I was just getting ready to go home.' Barinov takes a firm note at this moment, building the phrase around "kak" ("how") and "raz" ("time, once") for a crisp, natural delivery.
-- 'Everything is fine, do not worry.' Barinov strikes a brisk style on the spot, building the phrase around "normalno" ("fine, OK") and "bespokoytes" ("worry") for a crisp, natural delivery.
-- 'Viktor, what happened to you?' The inspector quizzes warmly in front of Barinov, leaning on "proizoshlo" ("happened") before closing the thought with "viktor" ("Viktor").
-- 'Tell me, where is your wheelchair?' The inspector tests candidly to make the point, weaving "skazhite" ("tell") together with "gde" ("where") just the way native speakers do.
-- 'Someone just stole it from me.' Barinov keeps an emphatic direction in the conversation, linking "tolko" ("only"), "ukrali" ("stole"), and "menya" ("me") in one brisk exchange.
-- 'Stolen here, that is simply outrageous!' The inspector brings an emphatic tone in this beat, weaving "ukrali" ("stole") together with "zdes" ("here") just the way native speakers do.
-- 'Patrick, meet my wife Elena.' Barinov picks a wry course straight away, leaning on "poznakomsya" ("to get acquainted") before closing the thought with "zhena" ("wife").
-- 'And this is the chief Michelin inspector.' Barinov holds a lively note straight away, leaning on "glavnyy" ("main, chief") before closing the thought with "inspektor" ("inspector").
-- 'Inspector, I am very pleased to meet you.' Elena establishes a natural style without hesitation, pairing "inspektor" ("inspector") with "ochen" ("very much") to get the point across in plain spoken Russian.
-- 'Elena, you are simply lovely today.' The inspector keeps an unhurried style without hesitation, combining the softening word "prosto" ("simply, just") with "segodnya" ("today") to give the line its natural spoken rhythm.
+- 'Vitya, we agreed on two hours.' Elena proceeds dryly as things stand, shifting the whole mood of the room in a single beat.
+- 'Lena, forgive me, I got caught up today.' Barinov uses one memorable touch in reply: "zamotalsya" means "got caught up" (from "zamotatsya"), giving the line its exact edge.
+- 'I was just getting ready to go home.' Barinov offers this update briskly now: the "-sya" ending on "sobiralsya" ("was going to") turns the action inward or makes it happen between people naturally.
+- 'Everything is fine, do not worry.' Barinov replies evenly hearing the inspector, keeping the focus on what actually matters here.
+- 'Viktor, what happened to you?' The inspector centers one memorable choice in earnest: "proizoshlo" means "happened" (from "proizoyti"), giving the line its exact edge.
+- 'Tell me, where is your wheelchair?' The inspector phrases that thought before Elena: putting the question word "gde" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'Someone just stole it from me.' Barinov counters plainly in their talk, shifting the whole mood of the room in a single beat.
+- 'Stolen here, that is simply outrageous!' The inspector chooses this key touch toward Elena: "vozmutitelno" means "outrageous", and it carries the main weight of what the inspector is saying.
+- 'Patrick, meet my wife Elena.' Barinov voices the thought at once: the "-sya" ending on "poznakomsya" ("to get acquainted") turns the action inward or makes it happen between people naturally.
+- 'And this is the chief Michelin inspector.' Barinov proceeds frankly as things stand, keeping the focus on what actually matters here.
+- 'Inspector, I am very pleased to meet you.' Elena emphasizes this key element right here: "poznakomitsya" means "to meet", and it carries the main weight of what Elena is saying.
+- 'Elena, you are simply lovely today.' The inspector makes the comeback calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

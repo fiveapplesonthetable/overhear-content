@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened, Vitya?' Mikhail presses sharply without hesitation, putting "sluchilos" ("happened") alongside "chto" ("what") in a tight, everyday turn of phrase.
-- 'The prefect did not eat his fill.' Barinov shares an emphatic approach for Mikhail, pairing "nayelsya" ("ate his fill") with "prefekt" ("district prefect") so the "-sya" ending carries the action.
-- 'Misha, forgive me for not saying anything to Eleonora back then.' Barinov shares an emphatic course as they talk, building the phrase around "prosti" ("sorry, forgive me") and "togda" ("back then") for a crisp, natural delivery.
-- 'Understand, for her it is important.' Barinov holds a lively bearing in front of Mikhail, using "poymi" (from "ponyat", "understand") alongside "vazhno" ("important, mattering") to shape the meaning.
-- 'No problem at all, Vitya.' Mikhail strikes a direct position at this moment, weaving "problem" ("problems") together with "nikakikh" ("no ... at all") just the way native speakers do.
-- 'To the new menu and to the star!' Barinov sets a wry posture in the scene, putting "novoye" ("new") alongside "menyu" ("menu") in a tight, everyday turn of phrase.
-- 'Katya is already drinking her third glass.' Mikhail favors a firm posture straight away, anchoring the Russian line on "uzhe" ("already, now") and "tretiy" ("the third") without extra filler.
-- 'In my opinion, it is time to go.' Katya keeps a pointed posture straight away, joining "po-moyemu" ("in my opinion") to "pora" ("it's time") so every word pulls its weight.
-- 'Go ahead, good luck.' Mikhail sets an easygoing posture for Barinov, combining "davay" ("let's") and "udachi" ("luck") so the key meaning lands right away.
-- 'Well, do you think it is time to talk to Katya already?' Katya wonders plainly without hesitation, joining "dumayesh" ("think") to "pora" ("it's time") so every word pulls its weight.
-- 'Yes, and where is the wine?' Mikhail challenges boldly without a pause, linking "vino" ("wine") directly with "gde" ("where"), since Russian drops "is" and "are" in the present.
-- 'No question, I will pour right now.' Katya picks a calm stance in the room, putting "vopros" ("question, matter") alongside "seychas" ("now") in a tight, everyday turn of phrase.
+- 'What happened, Vitya?' Mikhail inquires point-blank while looking straight at Barinov here.
+- 'The prefect did not eat his fill.' Barinov picks one direct element in earnest: "prefekt" means "district prefect", and it carries the main weight of what Barinov is saying.
+- 'Misha, forgive me for not saying anything to Eleonora back then.' Barinov makes this line right away: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'Understand, for her it is important.' Barinov proceeds at once hearing Mikhail, to clear the air between them once and for all.
+- 'No problem at all, Vitya.' Mikhail underscores one concrete piece right here: "problem" means "problems" (from "problema"), giving the line its exact edge.
+- 'To the new menu and to the star!' Barinov answers quietly as they talk, making his position completely clear.
+- 'Katya is already drinking her third glass.' Mikhail speaks up plainly across the room, so Barinov knows he is not just making small talk.
+- 'In my opinion, it is time to go.' Katya favors this direct piece right here: "po-moyemu" means "in my opinion", and it carries the main weight of what Katya is saying.
+- 'Go ahead, good luck.' Mikhail brings this warning beside Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Well, do you think it is time to talk to Katya already?' Katya probes plainly what Mikhail is actually getting at here.
+- 'Yes, and where is the wine?' Mikhail favors one direct term on cue: "vino" means "wine", and it carries the main weight of what Mikhail is saying.
+- 'No question, I will pour right now.' Katya sends this warning toward Mikhail: the "-sya" ending on "vopros" ("question, matter") turns the action inward or makes it happen between people naturally.

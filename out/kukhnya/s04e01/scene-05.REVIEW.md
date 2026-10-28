@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I can see by your eyes that you don't understand.' Nagiyev maintains an easygoing direction in the scene, pairing "vizhu" ("see") with "glazam" ("eye") to get the point across in plain spoken Russian.
-- 'A film producer is coming.' Nagiyev takes a pointed stance for Barinov, combining "prodyuser" ("producer") and "pridyot" ("will come") so the key meaning lands right away.
-- 'He wants to film War and Peace.' Nagiyev favors an easygoing tempo for Barinov, linking "khochet" ("wants"), "snimat" ("to film"), and "voynu" ("the war") in one brisk exchange.
-- 'With me in the leading role.' Nagiyev favors an emphatic rhythm in their talk, linking "glavnoy" ("main"), "roli" ("role, part"), and "so" ("with") in one brisk exchange.
-- 'I am going to play Napoleon.' Nagiyev picks an unhurried stance beside Barinov, joining "napoleona" ("going") to "budu" ("will be") so every word pulls its weight.
-- 'You have to feed him so well.' Nagiyev maintains a calm tone beside Barinov, putting "dolzhen" ("has to, must") alongside "nakormit" ("to feed") in a tight, everyday turn of phrase.
-- 'I am begging you, Vitya, don't mess this up.' Nagiyev adopts an unhurried style on the spot, pairing "oblazhaysya" ("up") with "proshu" ("beg, ask") so the "-sya" ending carries the action.
-- 'Yes, got it.' Barinov projects a direct angle during the exchange, using "da" ("yes") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'What did I just say?' Nagiyev questions honestly in this moment, anchoring the Russian line on "seychas" ("now") and "skazal" ("said") without extra filler.
-- 'Onto the French throne.' Barinov displays an unhurried tone in the conversation, building the phrase around "frantsuzskiy" ("French") and "prestol" ("throne") for a crisp, natural delivery.
-- 'I said do not mess it up.' Nagiyev strikes a brisk tempo during the exchange, pairing "oblazhaysya" ("up") with "skazal" ("said") so the "-sya" ending carries the action.
-- 'Ah, that too.' Barinov offers a serious tack as the scene unfolds, using "tozhe" ("too") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'I can see by your eyes that you don't understand.' Nagiyev chimes in openly in their talk, before Barinov can change the subject.
+- 'A film producer is coming.' Nagiyev speaks honestly to settle things, before Barinov can change the subject.
+- 'He wants to film War and Peace.' Nagiyev stresses one concrete word for Barinov: "khochet" means "wants" (from "khotet"), giving the line its exact edge.
+- 'With me in the leading role.' Nagiyev speaks up at once without a pause, grounding the moment in plain reality.
+- 'I am going to play Napoleon.' Nagiyev holds firm openly with a nod, making his position completely clear.
+- 'You have to feed him so well.' Nagiyev colors one vivid detail in earnest: "dolzhen" means "has to, must", and it carries the main weight of what Nagiyev is saying.
+- 'I am begging you, Vitya, don't mess this up.' Nagiyev favors one colorful choice in earnest: "proshu" means "beg, ask" (from "prosit"), giving the line its exact edge.
+- 'Yes, got it.' Barinov jumps in bluntly on the spot, steering the talk right where he wants it.
+- 'What did I just say?' Nagiyev anchors one telling element in reply: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
+- 'Onto the French throne.' Barinov states this line frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I said do not mess it up.' Nagiyev replies at once watching Barinov, refusing to let the moment slip past.
+- 'Ah, that too.' Barinov focuses on one clear piece at once: "tozhe" means "too", and it carries the main weight of what Barinov is saying.

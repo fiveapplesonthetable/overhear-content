@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well of course, this is simply fried onion.' Barinov picks a calm footing beside Max, combining "konechno" ("of course") and "prosto" ("just") so the key meaning lands right away.
-- 'I think our issue is completely resolved.' Barinov offers a serious note with Vika, combining "dumayu" ("I think") and "vopros" ("question, matter") so the key meaning lands right away.
-- 'I wish you a pleasant appetite.' Barinov establishes a direct tone without hesitation, leaning on "zhelayu" ("I wish") before closing the thought with "priyatnogo" ("pleasant").
-- 'There they go, come on, catch up quickly!' Barinov sets a calm mood in front of Vika, combining the everyday invitation "davay" ("come on, let us") with "yedut" ("are going") to give the line its natural spoken rhythm.
-- 'Listen, hit his car in the fender.' Barinov maintains a brisk line beside Max, leaning on "slushay" ("listen") before closing the thought with "udar" ("hit, strike").
-- 'I will hit you in the fender myself right now.' Max maintains an emphatic tack at this moment, pairing "seychas" ("now") with "udaryu" ("to hit, to strike") to get the point across in plain spoken Russian.
-- 'Alright, just catch up and drive behind.' Barinov brings a thoughtful angle at this moment, weaving "prosto" ("just") together with "dogoni" ("catch up") just the way native speakers do.
-- 'Max, you are crazy, stop the car immediately!' Vika favors a candid approach at once, linking "nenormalnyy" ("crazy, abnormal"), "nemedlenno" ("immediately"), and "ostanovi" ("stop") in one brisk exchange.
-- 'Hello, Kostya, urgently go home right now.' Max favors a steady posture with Barinov, leaning on "srochno" ("urgent, urgently") before closing the thought with "poyezzhay" ("drive, go").
-- 'That is all, Vika, I know what I am doing.' Max takes an earnest mood on the spot, joining "znayu" ("know") to "delayu" ("I make") so every word pulls its weight.
-- 'Why are you standing here, let us go quickly!' Barinov adopts a brisk posture in the room, joining "tut" ("here") to "stoish" ("stand") so every word pulls its weight.
-- 'You cannot drive on a red light, the fine is five thousand rubles.' Max sets a firm line as the scene unfolds, pairing "krasnyy" ("red") with "svet" ("light, electricity") to get the point across in plain spoken Russian.
+- 'Well of course, this is simply fried onion.' Barinov reaches for this clear touch on cue: "zharenyy" means "fried", and it carries the main weight of what Barinov is saying.
+- 'I think our issue is completely resolved.' Barinov weighs in openly watching Vika, saying out loud what both of them already know.
+- 'I wish you a pleasant appetite.' Barinov cuts in evenly without any doubt, watching Max's face to see how the news lands.
+- 'There they go, come on, catch up quickly!' Barinov highlights one key choice in reply: "dogonyay" means "catch up with" (from "dogonyat"), giving the line its exact edge.
+- 'Listen, hit his car in the fender.' Barinov chimes in promptly hearing Max, bringing things back to earth after the buildup.
+- 'I will hit you in the fender myself right now.' Max chimes in earnestly during the talk, watching Vika's face to see how the news lands.
+- 'Alright, just catch up and drive behind.' Barinov chooses this clear term right here: "poyezzhay" means "drive, go" (from "poyezzhat"), giving the line its exact edge.
+- 'Max, you are crazy, stop the car immediately!' Vika highlights one loaded piece in reply: "nenormalnyy" means "crazy, abnormal", and it carries the main weight of what Vika is saying.
+- 'Hello, Kostya, urgently go home right now.' Max speaks up steadily as things stand, before Barinov can change the subject.
+- 'That is all, Vika, I know what I am doing.' Max focuses on one vivid piece on cue: "delayu" means "I make" (from "delat"), giving the line its exact edge.
+- 'Why are you standing here, let us go quickly!' Barinov features one familiar expression on cue: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
+- 'You cannot drive on a red light, the fine is five thousand rubles.' Max answers decisively as they talk, leaving no doubt about where he stands.

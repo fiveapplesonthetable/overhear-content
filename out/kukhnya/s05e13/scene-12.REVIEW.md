@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We begin the trial of Maxim Lavrov!' Barinov maintains a thoughtful tempo as the scene unfolds, pairing "nachinayem" ("are starting") with "sud" ("the court") to get the point across in plain spoken Russian.
-- 'I object, Your Honor, that is an insult!' Kostya adopts an honest line as they talk, combining "protestuyu" ("object, protest") and "chest" ("honor") so the key meaning lands right away.
-- 'Kostya, we are overruling the objection right now.' Barinov favors an earnest rhythm in the room, joining "seychas" ("now") to "bystro" ("quickly") so every word pulls its weight.
-- 'Victim, tell us what happened that evening.' Barinov strikes a clear footing in the conversation, putting "poterpevshaya" ("female victim") alongside "rasskazhite" ("tell") in a tight, everyday turn of phrase.
-- 'That evening was Sasha's wedding.' Vika shares a direct rhythm right away, joining "vecher" ("evening") to "byla" ("was") so every word pulls its weight.
-- 'Sasha was his former beloved girlfriend.' Vika projects an unhurried rhythm right away, linking "byla" ("was"), "prezhney" ("the same as before"), and "lyubimoy" ("favourite, beloved") in one brisk exchange.
-- 'I immediately felt that something was wrong.' Vika conveys a grounded angle as the scene unfolds, anchoring the Russian line on "srazu" ("at once") and "pochuvstvovala" ("to feel, sense") without extra filler.
-- 'His old feelings had probably returned to him.' Vika conveys a serious attitude as they talk, leaning on "navernoye" ("probably") before closing the thought with "vernulis" ("to come back").
-- 'And that evening in that cursed storage room...' Vika offers a resolute note in front of Barinov, leaning on "vecherom" ("in the evening") before closing the thought with "proklyatom" ("cursed").
-- 'He betrayed me and our future child!' Vika conveys a calm tone toward Kostya, linking "predal" ("betrayed"), "budushchego" ("future, next"), and "rebyonka" ("child") in one brisk exchange.
-- 'I object, Your Honor, turn off that music!' Kostya brings an earnest tempo beside Barinov, pairing "protestuyu" ("object, protest") with "chest" ("honor") to get the point across in plain spoken Russian.
-- 'Sad music heightens the dramatic effect in court!' Kostya keeps a warm angle at once, linking "grustnaya" ("sad"), "muzyka" ("music"), and "usilivayet" ("heighten, intensify") in one brisk exchange.
+- 'We begin the trial of Maxim Lavrov!' Barinov chimes in warmly with a nod, without trying to dress up how he really feels.
+- 'I object, Your Honor, that is an insult!' Kostya features one sharp element in earnest: "oskorbleniye" means "insult", and it carries the main weight of what Kostya is saying.
+- 'Kostya, we are overruling the objection right now.' Barinov speaks up steadily to settle things, without trying to dress up how he really feels.
+- 'Victim, tell us what happened that evening.' Barinov replies at once with a shrug, to clear the air between them once and for all.
+- 'That evening was Sasha's wedding.' Vika colors one colorful touch at once: "vecher" means "evening", and it carries the main weight of what Vika is saying.
+- 'Sasha was his former beloved girlfriend.' Vika jumps in bluntly watching Kostya, refusing to let the moment slip past.
+- 'I immediately felt that something was wrong.' Vika fires back sharply without holding back, refusing to let the moment slip past.
+- 'His old feelings had probably returned to him.' Vika favors one vivid touch in reply: "chuvstva" means "feelings" (from "chuvstvo"), giving the line its exact edge.
+- 'And that evening in that cursed storage room...' Vika weighs in candidly without holding back, so Barinov knows she is not just making small talk.
+- 'He betrayed me and our future child!' Vika fires back openly as they talk, letting the remark speak for itself.
+- 'I object, Your Honor, turn off that music!' Kostya emphasizes one telling word for Barinov: "vyklyuchite" means "turn off" (from "vyklyuchit"), giving the line its exact edge.
+- 'Sad music heightens the dramatic effect in court!' Kostya counters warmly in this moment, before Vika can change the subject.

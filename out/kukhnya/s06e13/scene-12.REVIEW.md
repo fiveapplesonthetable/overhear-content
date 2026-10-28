@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, you and I did not finish talking.' Denis adopts a playful tack right away, leaning on "dogovorili" ("to finish speaking") before closing the thought with "katya" ("Katya").
-- 'Denis, are you really leaving us?' Katya challenges dryly on the spot, putting "pravda" ("honestly") alongside "uyezzhayesh" ("are leaving") in a tight, everyday turn of phrase.
-- 'Alright, I will not bother you two.' Senya keeps a wry direction right away, combining the easygoing tag "ladno" ("okay, fine") with "budu" ("will be") to give the line its natural spoken rhythm.
-- 'And why did you not say anything to me?' Katya queries lightly at this point, building the phrase around "pochemu" ("why") and "skazal" ("said") for a crisp, natural delivery.
-- 'Well, I did not really tell anyone.' Denis adopts a sharp footing at once, joining "osobo" ("particularly") to "govoril" ("said, were saying") so every word pulls its weight.
-- 'I wanted to tell only you first.' Denis holds a natural manner in front of Senya, using "khotel" (from "khotet", "wanted") alongside "snachala" ("first, at first") to shape the meaning.
-- 'Oh, Denis, you are still standing here!' Senya displays an unhurried tempo right away, pairing "yeshchyo" ("more, still") with "zdes" ("here") to get the point across in plain spoken Russian.
-- 'Well then, I have already collected the money.' Senya maintains a calm approach in front of Katya, joining "dengi" ("money") to "uzhe" ("already, now") so every word pulls its weight.
-- 'I collected it from all the guys in the kitchen.' Senya conveys an easygoing posture in front of Denis, linking "sobral" ("to collect"), "rebyat" ("kids, guys"), and "kukhne" ("kitchen") in one brisk exchange.
-- 'Tonight we will throw you a great noisy farewell party.' Senya sustains an earnest attitude toward Katya, leaning on "vecherom" ("in the evening") before closing the thought with "ustroim" ("arrange").
-- 'So everyone in the kitchen already knows?' Katya probes earnestly during the talk, joining "znachit" ("then, so") to "kukhne" ("kitchen") so every word pulls its weight.
-- 'Wait, Katya, I will explain everything right now.' Denis establishes a calm posture toward Senya, pairing "seychas" ("now") with "podozhdi" ("wait") so the "-sya" ending carries the action.
+- 'Katya, you and I did not finish talking.' Denis reacts plainly with a nod, watching Katya's face to see how the news lands.
+- 'Denis, are you really leaving us?' Katya favors one telling detail in reply: "uyezzhayesh" means "are leaving" (from "uyezzhat"), giving the line its exact edge.
+- 'Alright, I will not bother you two.' Senya states the reaction plainly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Denis is on board.
+- 'And why did you not say anything to me?' Katya quizzes curiously while looking straight at Senya here.
+- 'Well, I did not really tell anyone.' Denis spotlights one practical choice with Katya: "govoril" means "said, were saying" (from "govorit"), giving the line its exact edge.
+- 'I wanted to tell only you first.' Denis picks one vivid touch in reply: "snachala" means "first, at first", and it carries the main weight of what Denis is saying.
+- 'Oh, Denis, you are still standing here!' Senya pushes back steadily as they talk, without trying to dress up how he really feels.
+- 'Well then, I have already collected the money.' Senya features one colorful choice right here: "dengi" means "money", and it carries the main weight of what Senya is saying.
+- 'I collected it from all the guys in the kitchen.' Senya fires back bluntly beside Denis, testing Denis's reaction in the middle of the exchange.
+- 'Tonight we will throw you a great noisy farewell party.' Senya stands firm bluntly during the talk, bringing things back to earth after the buildup.
+- 'So everyone in the kitchen already knows?' Katya highlights this telling touch for Denis: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'Wait, Katya, I will explain everything right now.' Denis cuts in lightly without holding back, steering the talk right where he wants it.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, chef, how are your affairs today?' Max leads with the direct word for 'hello', pairing it with 'chef' and 'how'.
-- 'Max, do not ask me foolish questions.' Barinov leads with the direct word for 'ask', pairing it with 'foolish' and 'questions'.
-- 'Did you lose money on bets again?' Max asks this purely through rising tone on the word for 'again', pairing it with 'lost' and 'money'.
+- 'Hello, chef, how are your affairs today?' Walking up to the bar counter, Max cheerfully greets Chef Barinov and asks how things are going.
+- 'Max, do not ask me foolish questions.' Sitting with a dark scowl, Barinov grumbles at Max not to ask him foolish questions.
+- 'Did you lose money on bets again?' Knowing his boss's habits, Max guesses that Viktor lost money betting on football again.
 - 'I would gladly drink vodka right now.' Barinov expresses this naturally by combining the word for 'now' with 'pleasure' and 'drank'.
-- 'What else unpleasant has happened to you?' Max uses the classic style — literally 'at you' rather than a word for 'to have', pairing it with 'else' and 'unpleasant'.
+- 'What else unpleasant has happened to you?' When Barinov hints at worse trouble, Max asks what other unpleasant news has come up.
 - 'The matter is not at all about my bets.' Russian leaves out the word for 'to be' here, linking 'matter' directly with 'at all', followed by 'bets'.
 - 'Then what is the real problem?' Russian leaves out the word for 'to be' here, linking 'then' directly with 'real', followed by 'problem'.
-- 'I have important news for you.' Barinov uses the classic style — literally 'at me' rather than a word for 'to have', pairing it with 'there is' and 'important'.
-- 'What news, chef, tell me quickly.' Max leads with the direct word for 'speak', pairing it with 'news' and 'chef'.
-- 'Aunt Vika said that she loves you.' Barinov anchors the line on the word for 'aunt' and builds the thought around 'said' and 'loves'.
-- 'What? That simply cannot be!' Max opens with 'simply' before bringing in 'can' and 'be' to make the point clear.
-- 'She herself confessed this to me.' Barinov delivers a punchy reaction built around the word for 'confessed'.
-- 'Chef, are you definitely not joking right now?' Max asks this purely through rising tone on the word for 'chef', pairing it with 'definitely' and 'are joking'.
+- 'I have important news for you.' Barinov leans in and announces that he has an important piece of news specifically for Max.
+- 'What news, chef, tell me quickly.' Intrigued and slightly nervous, Max urges the chef to tell him the news right away.
+- 'Aunt Vika said that she loves you.' Calling Victoria 'Aunt Vika' in his gruff way, Barinov drops the bombshell that she is in love with Max.
+- 'What? That simply cannot be!' Max is completely floored, blurting out that such a thing is simply impossible.
+- 'She herself confessed this to me.' Barinov insists it is true, claiming that Vika confessed her feelings to him in person.
+- 'Chef, are you definitely not joking right now?' Still reeling from shock, Max asks whether the chef is pulling a prank on him right now.

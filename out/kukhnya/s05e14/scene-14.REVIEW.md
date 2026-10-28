@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The young woman called yesterday about the hostess vacancy.' Nastya offers a steady style in the room, linking "devushka" ("girlfriend"), "vchera" ("yesterday"), and "zvonila" ("called") in one brisk exchange.
-- 'She was told to come see us this evening.' Nastya shows a brisk stance for Kostya, weaving "skazali" ("told") together with "podoyti" ("to walk up to") just the way native speakers do.
-- 'Nastya, your mom just called over there.' Kostya maintains a thoughtful course as they talk, linking "tam" ("there"), "tolko" ("only"), and "mama" ("mum, mother") in one brisk exchange.
-- 'She said that the little boy's fever went up.' Kostya sustains a serious direction toward Nastya, linking "skazala" ("told"), "malysha" ("little one"), and "temperatura" ("temperature") in one brisk exchange.
-- 'Then tell Vika that I left urgently.' Nastya shares a grounded course in the conversation, combining "togda" ("back then") and "skazhesh" ("will you say") so the key meaning lands right away.
-- 'Kostya, have you heard the main news of the day yet?' Denis challenges promptly from the start, linking "uzhe" ("already, now"), "slyshal" ("heard"), and "glavnuyu" ("main") in one brisk exchange.
-- 'It seems the hotel owner Eleonora is sleeping with Max!' Denis shares a brisk direction right away, linking "kazhetsya" ("it seems, I think"), "khozyayka" ("landlady"), and "otelya" ("of the hotel") in one brisk exchange.
-- 'Come on, where did you get such nonsense from?' Kostya inquires directly to keep things clear, leaning on "otkuda" ("where from") before closing the thought with "vzyal" ("took").
-- 'I saw him near her suite with my own eyes!' Denis favors a candid angle right away, building the phrase around "sobstvennymi" ("own, proper") and "glazami" ("eyes") for a crisp, natural delivery.
-- 'He was just quietly walking out of her room.' Denis projects a warm rhythm beside Nastya, leaning on "kak" ("how") before closing the thought with "raz" ("time, once").
-- 'She invited him tonight to get whatever he wants!' Denis conveys a grounded direction on the spot, using "pozvala" (from "pozvat", "calls, summons") alongside "vecherom" ("in the evening") to shape the meaning.
-- 'Then soon we are going to have a new head chef!' Kostya presents a natural stance toward Nastya, putting "togda" ("back then") alongside "skoro" ("soon") in a tight, everyday turn of phrase.
+- 'The young woman called yesterday about the hostess vacancy.' Nastya weighs in calmly around Denis, bringing things back to earth after the buildup.
+- 'She was told to come see us this evening.' Nastya steps in boldly facing Kostya, watching Kostya's face to see how the news lands.
+- 'Nastya, your mom just called over there.' Kostya spotlights one vivid word for Denis: "zvonila" means "called" (from "zvonit"), giving the line its exact edge.
+- 'She said that the little boy's fever went up.' Kostya stands firm honestly with a nod, saying out loud what both of them already know.
+- 'Then tell Vika that I left urgently.' Nastya opens up bluntly before Denis, testing Denis's reaction in the middle of the exchange.
+- 'Kostya, have you heard the main news of the day yet?' Denis grounds one practical touch with Nastya: "glavnuyu" means "main" (from "glavnyy"), giving the line its exact edge.
+- 'It seems the hotel owner Eleonora is sleeping with Max!' Denis opens up warmly without holding back, so Kostya knows he is not just making small talk.
+- 'Come on, where did you get such nonsense from?' Kostya probes firmly whether Nastya really thought this through.
+- 'I saw him near her suite with my own eyes!' Denis sharpens one direct term with Kostya: "sobstvennymi" means "own, proper" (from "sobstvennyy"), giving the line its exact edge.
+- 'He was just quietly walking out of her room.' Denis jumps in quietly with Nastya, refusing to let the moment slip past.
+- 'She invited him tonight to get whatever he wants!' Denis fires back bluntly in this moment, making his position completely clear.
+- 'Then soon we are going to have a new head chef!' Kostya chooses this key term on cue: "shef-povar" means "head chef", and it carries the main weight of what Kostya is saying.

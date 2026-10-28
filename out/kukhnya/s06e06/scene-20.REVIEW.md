@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to sincerely apologize to you.' Kostya shares an emphatic tone at once, building the phrase around "khotel" ("wanted") and "iskrenne" ("sincerely") for a crisp, natural delivery.
-- 'For the television and for the words about mom.' Kostya shows a brisk approach toward Nastya, linking "televizor" ("television"), "slova" ("words"), and "mamu" ("mother, mum") in one brisk exchange.
-- 'Well then, shall we forgive him today?' Nastya queries plainly on the spot, leaning on "segodnya" ("today") before closing the thought with "prostim" ("to forgive").
-- 'We will forgive him and pour him hot tea.' The guest strikes an honest stance for Nastya, linking "prostim" ("to forgive"), "goryachego" ("hot"), and "chaya" ("tea") in one brisk exchange.
-- 'Let us go buy a new television right now instead.' Kostya offers a measured manner with the guest, linking "poyekhali" ("here we go"), "luchshe" ("better"), and "seychas" ("now") in one brisk exchange.
-- 'I already borrowed money from friends.' Kostya brings an emphatic approach without hesitation, joining "uzhe" ("already, now") to "druzey" ("friends") so every word pulls its weight.
-- 'Nastya, and where are my jeans?' Kostya quizzes naturally as they speak, joining "gde" ("where") to "lezhat" ("are lying") so every word pulls its weight.
-- 'I put the clothes away on the top shelf.' Nastya strikes a calm bearing for Kostya, building the phrase around "ubrala" ("took off, removed") and "veshchi" ("things") for a crisp, natural delivery.
-- 'After all, this is the wallet he lost yesterday!' Kostya brings a lively approach at this moment, leaning on "bumazhnik" ("wallet") before closing the thought with "vchera" ("yesterday").
-- 'Forgive me, I hid it myself.' Nastya shows a direct view toward Kostya, weaving "prosti" ("sorry, forgive me") together with "spryatala" ("to hide") just the way native speakers do.
-- 'I thought that you would become friends faster that way.' Nastya strikes a resolute bearing as they talk, linking "dumala" ("thought"), "bystreye" ("faster"), and "podruzhites" ("to make friends") in one brisk exchange.
-- 'I want him to leave right now!' Kostya holds an emphatic posture in their talk, pairing "khochu" ("want") with "seychas" ("now") to get the point across in plain spoken Russian.
+- 'I wanted to sincerely apologize to you.' Kostya puts that point in earnest: the "-sya" ending on "izvinitsya" ("to apologise") turns the action inward or makes it happen between people naturally.
+- 'For the television and for the words about mom.' Kostya steps in pointedly on the spot, refusing to let the moment slip past.
+- 'Well then, shall we forgive him today?' Nastya sharpens this direct detail for the guest: "segodnya" means "today", and it carries the main weight of what Nastya is saying.
+- 'We will forgive him and pour him hot tea.' The guest replies warmly with a smile, shifting the whole mood of the room in a single beat.
+- 'Let us go buy a new television right now instead.' Kostya weighs in plainly before the guest, bringing things back to earth after the buildup.
+- 'I already borrowed money from friends.' Kostya centers one clear expression with Nastya: "druzey" means "friends" (from "drug"), giving the line its exact edge.
+- 'Nastya, and where are my jeans?' Kostya hands over that answer calmly now: putting the question word "gde" right at the front of the line lets the guest hear the point of the question on the very first beat.
+- 'I put the clothes away on the top shelf.' Nastya replies briskly in their talk, before Kostya can change the subject.
+- 'After all, this is the wallet he lost yesterday!' Kostya reaches for one vivid piece with the guest: "bumazhnik" means "wallet", and it carries the main weight of what Kostya is saying.
+- 'Forgive me, I hid it myself.' Nastya brings this line plainly here: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'I thought that you would become friends faster that way.' Nastya replies firmly to be clear, testing the guest's reaction in the middle of the exchange.
+- 'I want him to leave right now!' Kostya points to this direct word at once: "seychas" means "now", and it carries the main weight of what Kostya is saying.

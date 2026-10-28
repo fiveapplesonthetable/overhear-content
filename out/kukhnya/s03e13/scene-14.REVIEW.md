@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Dmitry Vladimirovich, it is me.' Vika displays an honest posture beside Kostya, joining "allo" ("hello") to "dmitriy" ("Dmitry") so every word pulls its weight.
-- 'I know very well that it is you.' Max picks a natural approach during the exchange, building the phrase around "prekrasno" ("perfectly") and "znayu" ("know") for a crisp, natural delivery.
-- 'We had an emergency in the bar here.' Vika maintains a steady footing in this beat, anchoring the Russian line on "tut" ("here") and "problema" ("problem") without extra filler.
-- 'How do you already know about this?' Vika tests naturally without hesitation, putting "otkuda" ("where from") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'In my kingdom I know everything.' Max favors a brisk approach in the scene, weaving "korolevstve" ("in the kingdom") together with "znayu" ("know") just the way native speakers do.
-- 'Put the bartender on, I will solve the problem right now.' Max conveys a natural footing in their talk, building the phrase around "day" ("give") and "barmena" ("bartender") for a crisp, natural delivery.
-- 'Hello, yes, I understood you.' Kostya offers a playful angle in their talk, joining "ponyal" ("understood") to "allo" ("hello") so every word pulls its weight.
-- 'Alright, I will calculate the total amount.' Kostya shares a frank rhythm in the room, building the phrase around "khorosho" ("good, fine") and "poschitayu" ("to count, calculate") for a crisp, natural delivery.
-- 'Alright, goodbye, Dmitry Vladimirovich.' Kostya holds a thoughtful posture in the room, leaning on "khorosho" ("good, fine") before closing the thought with "svidaniya" ("meeting").
-- 'In short, Max and Katya are not guilty.' Kostya shows a wry manner in the room, linking "obshchem" ("short, so"), "vinovaty" ("guilty, at fault"), and "maks" ("Max") in one brisk exchange.
-- 'Well, they are guilty, but only of two bottles.' Kostya brings a brisk tone beside Max, combining "vinovaty" ("guilty, at fault") and "tolko" ("only") so the key meaning lands right away.
-- 'Turn on the video recording yourselves and watch it all.' Kostya keeps a warm rhythm right away, putting "vklyuchite" ("to turn on") alongside "videozapis" ("video recording") in a tight, everyday turn of phrase.
+- 'Hello, Dmitry Vladimirovich, it is me.' Vika directs the thought before Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I know very well that it is you.' Max holds firm dryly in this moment, making his position completely clear.
+- 'We had an emergency in the bar here.' Vika spotlights one concrete touch toward Kostya: "problema" means "problem", and it carries the main weight of what Vika is saying.
+- 'How do you already know about this?' Vika phrases that remark in earnest: putting the question word "otkuda" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'In my kingdom I know everything.' Max speaks up decisively as things stand, refusing to let the moment slip past.
+- 'Put the bartender on, I will solve the problem right now.' Max leans on one direct expression for Vika: "problemu" means "problem" (from "problema"), giving the line its exact edge.
+- 'Hello, yes, I understood you.' Kostya grounds one classic piece for Max: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'Alright, I will calculate the total amount.' Kostya opens up earnestly without a pause, leaving no doubt about where he stands.
+- 'Alright, goodbye, Dmitry Vladimirovich.' Kostya points to this vivid element toward Max: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.
+- 'In short, Max and Katya are not guilty.' Kostya gives this line before Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, they are guilty, but only of two bottles.' Kostya continues lightly without holding back, making his position completely clear.
+- 'Turn on the video recording yourselves and watch it all.' Kostya sharpens this sharp element at once: "videozapis" means "video recording", and it carries the main weight of what Kostya is saying.

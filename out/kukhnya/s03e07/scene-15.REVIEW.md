@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, good day, dear Dmitry Vladimirovich.' Max favors an unhurried line beside Barinov, putting "zdravstvuyte" ("hello") alongside "uvazhayemyy" ("respected, esteemed") in a tight, everyday turn of phrase.
-- 'Come quickly, our chef is feeling bad here.' Max holds a direct bearing in the scene, joining "prikhodite" ("come") to "skoreye" ("quickly, right away") so every word pulls its weight.
-- 'It seems he had another stroke.' Max maintains a pointed tone toward Barinov, weaving "kazhetsya" ("it seems, I think") together with "snova" ("again") just the way native speakers do.
-- 'Vika, wait for me in the car, I will be right back.' Nagiyev shows a serious tack straight away, putting "podozhdi" ("wait") alongside "mashine" ("car") in a tight, everyday turn of phrase.
-- 'A cockroach again, whose dish is it?' Barinov presses sharply during the talk, joining "opyat" ("again") to "tarakana" ("cockroach") so every word pulls its weight.
-- 'It is your dish, respected Chef.' Max shares a brisk view in the conversation, weaving "blyudo" ("dish") together with "uvazhayemyy" ("respected, esteemed") just the way native speakers do.
-- 'Vitya, they told me that you are feeling bad.' Nagiyev chooses a measured course as the scene unfolds, leaning on "skazali" ("told") before closing the thought with "plokho" ("badly").
-- 'Ah yes, my salary could use a little raise.' Barinov chooses a frank position beside Nagiyev, pairing "zarplatu" ("salary") with "nemnogo" ("a bit") to get the point across in plain spoken Russian.
-- 'From a joke like that there are big problems, is that clear?' Nagiyev quizzes bluntly in the scene, anchoring the Russian line on "shutki" ("jokes") and "byvayut" ("occur, happen") without extra filler.
-- 'I will definitely find out who tricked me like this.' Nagiyev brings a clear stance right away, linking "obyazatelno" ("surely, without fail"), "uznayu" ("to recognise"), and "obmanul" ("cheated") in one brisk exchange.
-- 'I will punish those guys very strictly.' Nagiyev conveys a calm attitude at this moment, building the phrase around "ochen" ("very much") and "strogo" ("sternly, strictly") for a crisp, natural delivery.
-- 'I give my word, I definitely will not forgive this!' Nagiyev picks a lively tempo in this beat, leaning on "dayu" ("give") before closing the thought with "slovo" ("word").
+- 'Hello, good day, dear Dmitry Vladimirovich.' Max speaks up plainly without holding back, testing Barinov's reaction in the middle of the exchange.
+- 'Come quickly, our chef is feeling bad here.' Max focuses on one pointed expression for Nagiyev: "prikhodite" means "come" (from "prikhodit"), giving the line its exact edge.
+- 'It seems he had another stroke.' Max shapes the remark plainly here: the "-sya" ending on "sluchilsya" ("to happen") turns the action inward or makes it happen between people naturally.
+- 'Vika, wait for me in the car, I will be right back.' Nagiyev steps in at once without holding back, making his position completely clear.
+- 'A cockroach again, whose dish is it?' Barinov grounds one pointed touch with Max: "tarakana" means "cockroach" (from "tarakan"), giving the line its exact edge.
+- 'It is your dish, respected Chef.' Max shapes that answer for Nagiyev: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Vitya, they told me that you are feeling bad.' Nagiyev responds steadily without holding back, watching Barinov's face to see how the news lands.
+- 'Ah yes, my salary could use a little raise.' Barinov leans on one colorful word in earnest: "zarplatu" means "salary" (from "zarplata"), giving the line its exact edge.
+- 'From a joke like that there are big problems, is that clear?' Nagiyev hands over the reply to Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'I will definitely find out who tricked me like this.' Nagiyev continues firmly beside Max, saying out loud what both of them already know.
+- 'I will punish those guys very strictly.' Nagiyev highlights one concrete choice in earnest: "rebyat" means "kids, guys" (from "rebyata"), giving the line its exact edge.
+- 'I give my word, I definitely will not forgive this!' Nagiyev holds firm promptly with a sigh, to clear the air between them once and for all.

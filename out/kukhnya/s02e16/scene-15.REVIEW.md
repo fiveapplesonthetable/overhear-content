@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank goodness you did not punch me in the nose.' Vika brings a pointed manner in front of Elena, pairing "spasibo" ("thank you") with "nos" ("nose") to get the point across in plain spoken Russian.
-- 'Your guests have arrived.' Nagiyev brings an honest attitude in this beat, anchoring the Russian line on "prishli" ("have come") and "vam" ("you") without extra filler.
-- 'I did not come alone.' Vika establishes an unhurried posture right away, putting "odna" ("one") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'I thought it over.' Elena brings a direct course as the scene unfolds, joining "podumala" ("thought") to "ya" ("I") so every word pulls its weight.
-- 'So to speak.' Vika shows a direct posture without hesitation, weaving "skazat" ("tell") together with "tak" ("so") just the way native speakers do.
-- 'Please, have a seat. Thank you.' Nagiyev presents an honest view in front of Vika, weaving "proshu" ("beg, ask") together with "spasibo" ("thank you") just the way native speakers do.
-- 'A classic French atmosphere.' Vika sustains a sharp direction as they talk, using "klassicheskaya" (from "klassicheskiy", "classic, classical") alongside "frantsuzskaya" ("French") to shape the meaning.
-- 'So they were too lazy to hire a decent interior designer.' Nagiyev keeps a frank attitude with Vika, building the phrase around "normalnogo" ("normal") and "dizaynera" ("designer") for a crisp, natural delivery.
-- 'And what kind of entertainment show do you have here?' Vika inquires naturally with Elena now, building the phrase around "shou" ("show") and "programmy" ("apps, programs") for a crisp, natural delivery.
-- 'People come to a restaurant to eat, not to watch a circus.' Nagiyev strikes an unhurried bearing across the room, building the phrase around "restorane" ("restaurant") and "lyudi" ("people") for a crisp, natural delivery.
-- 'When a place cannot cook, they distract guests with a show.' Vika chooses a resolute tone in front of Elena, linking "kogda" ("when"), "gotovit" ("to cook"), and "umeyut" ("can, know how to") in one brisk exchange.
-- 'Well, at mom's restaurant they know how to cook.' Nagiyev brings an honest footing during the exchange, building the phrase around "mama" ("mum, mother") and "restorane" ("restaurant") for a crisp, natural delivery.
-- 'Well, well, well.' Vika displays a lively mood for Elena, letting the single Russian word "tak" ("so") carry the entire reaction on its own.
+- 'Thank goodness you did not punch me in the nose.' Vika continues evenly as things stand, shifting the whole mood of the room in a single beat.
+- 'Your guests have arrived.' Nagiyev centers one concrete piece right here: "prishli" means "have come" (from "priyti"), giving the line its exact edge.
+- 'I did not come alone.' Vika sends the comment plainly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I thought it over.' Elena continues wryly during the talk, making her position completely clear.
+- 'So to speak.' Vika grounds one colorful word in reply: "skazat" means "tell", and it carries the main weight of what Vika is saying.
+- 'Please, have a seat. Thank you.' Nagiyev frames that point on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'A classic French atmosphere.' Vika stands firm frankly before Elena, watching Elena's face to see how the news lands.
+- 'So they were too lazy to hire a decent interior designer.' Nagiyev underscores one classic expression on cue: "normalnogo" means "normal" (from "normalnyy"), giving the line its exact edge.
+- 'And what kind of entertainment show do you have here?' Vika sends this answer beside Elena: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'People come to a restaurant to eat, not to watch a circus.' Nagiyev replies boldly with Vika, grounding the moment in plain reality.
+- 'When a place cannot cook, they distract guests with a show.' Vika emphasizes one classic expression at once: "programmoy" means "programme" (from "programma"), giving the line its exact edge.
+- 'Well, at mom's restaurant they know how to cook.' Nagiyev continues calmly without a pause, without trying to dress up how he really feels.
+- 'Well, well, well.' Vika pushes back firmly with a sigh, shifting the whole mood of the room in a single beat.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They say that thoughts are material.' Max sets a playful style on the spot, pairing "govoryat" ("talks, says") with "mysli" ("thoughts") to get the point across in plain spoken Russian.
-- 'If you think about something constantly, it will definitely happen.' Max adopts an easygoing position as the scene unfolds, anchoring the Russian line on "chyom-to" ("different") and "postoyanno" ("constantly") without extra filler.
-- 'Hello, Vika?' Max questions lightly at this point, combining "allo" ("hello") and "vika" ("Vika") so the key meaning lands right away.
-- 'Hello, Max.' Vika conveys a brisk bearing with Max, anchoring the Russian line on "allo" ("hello") and "maks" ("Max") without extra filler.
-- 'Yes, did something happen?' Max probes boldly to Vika here, combining "sluchilos" ("happened") and "da" ("yes") so the key meaning lands right away.
-- 'Well, do not stay silent.' Max maintains a thoughtful style across the room, leaning on "molchi" ("be quiet") before closing the thought with "nu" ("oh, come on").
-- 'Can you bring me something?' Vika prompts bluntly in front of Max, building the phrase around "mozhesh" ("can") and "privezti" ("to bring") for a crisp, natural delivery.
-- 'Yes, of course!' Max conveys a lively tack beside Vika, putting "konechno" ("of course") alongside "da" ("yes") in a tight, everyday turn of phrase.
-- 'What is it, medicine?' Max checks directly at this point, combining "lekarstva" ("medicines") and "chto" ("what") so the key meaning lands right away.
-- 'Canned stewed meat.' Vika sets a sharp tempo beside Max, using "tushyonku" ("canned stewed meat") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'What?' Max wonders plainly across the room, using "chto" ("what") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Bring me canned stewed meat, please.' Vika conveys an earnest bearing in the scene, building the phrase around "privezi" ("to bring") and "tushyonku" ("canned stewed meat") for a crisp, natural delivery.
+- 'They say that thoughts are material.' Max frames one memorable element right here: "materialny" means "material, tangible" (from "materialnyy"), giving the line its exact edge.
+- 'If you think about something constantly, it will definitely happen.' Max reacts openly hearing Vika, before Vika can change the subject.
+- 'Hello, Vika?' Max questions openly before Vika can change the subject.
+- 'Hello, Max.' Vika brings the reply for Max: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Yes, did something happen?' Max offers that remark beside Vika: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'Well, do not stay silent.' Max chimes in honestly beside Vika, keeping the focus on what actually matters here.
+- 'Can you bring me something?' Vika uses one colorful choice in reply: "privezti" means "to bring", and it carries the main weight of what Vika is saying.
+- 'Yes, of course!' Max hands over the comment before Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What is it, medicine?' Max inquires calmly about what Vika just brought up.
+- 'Canned stewed meat.' Vika colors one concrete touch in reply: "tushyonku" means "canned stewed meat" (from "tushyonka"), giving the line its exact edge.
+- 'What?' Max directs the comment with warmth: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Bring me canned stewed meat, please.' Vika fires back calmly during the talk, bringing things back to earth after the buildup.

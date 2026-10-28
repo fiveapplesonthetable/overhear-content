@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Vitya, come quickly here to the table!' Nagiyev calls the head chef into the dining room.
 - 'What happened, Dmitry Vladimirovich, what is the matter?' Approaching Nagiyev's table, Barinov asks what the urgent matter is.
 - 'Vitya, tell me straight, what is this?' Pointing down at the bowl on the table, Nagiyev demands to know what he is looking at.
-- 'What? What is this on the plate?' Chef Barinov delivers a punchy one-word reaction built around the Russian word meaning 'plate'.
+- 'What? What is this on the plate?' Pointing straight at the suspiciously dark appetizer, Barinov demands to know what is sitting on the plate.
 - 'This is real fresh Russian caviar.' Putting on a confident front, Viktor declares it is genuine fresh Russian caviar.
 - 'And very expensive and very good caviar!' He piles on the praise, calling it top-shelf luxury roe.
 - 'Vitya, are you a complete fool or pretending?' Having seen the black food dye bleeding onto the plate, Nagiyev asks if Viktor thinks he is a complete fool.

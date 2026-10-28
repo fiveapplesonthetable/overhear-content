@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That football player from yesterday just arrived.' Max shares a direct stance in the scene, leaning on "tam" ("there") before closing the thought with "futbolist" ("footballer").
-- 'Do not be afraid.' Barinov picks a serious tone for Vika, putting "boysya" ("be afraid") alongside "ne" ("not") in a tight, everyday turn of phrase.
-- 'Thank you for warning me.' Vika projects a resolute stance with Barinov, putting "spasibo" ("thank you") alongside "predupredil" ("warned") in a tight, everyday turn of phrase.
-- 'Chef, I hope you are not planning to poison him again?' Max checks earnestly on the spot, joining "nadeyus" ("hope so") to "sobirayete" ("to collect") so every word pulls its weight.
-- 'Lyova, I beg of you.' Barinov favors a candid stance in their talk, linking "umolyayu" ("I beg"), "lev" ("Lev"), and "ya" ("I") in one brisk exchange.
-- 'I did not even succeed before the match.' Vika adopts a candid footing on the spot, pairing "matcha" ("match, game") with "sdelal" ("did") to get the point across in plain spoken Russian.
-- 'Why would I do it now?' Max inquires decisively to make the point, pairing "zachem" ("what for") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'Now that is the right attitude, Viktor Petrovich.' Vika picks an honest rhythm with Max, pairing "pravilno" ("right") with "vot" ("there, here") to get the point across in plain spoken Russian.
-- 'Oh, there he is.' Vika presents a sharp direction in front of Barinov, linking "vot" ("there, here") directly with "on" ("he"), since Russian drops "is" and "are" in the present.
-- 'How are you feeling?' Max checks evenly for Vika's benefit, linking "kak" ("how"), "chuvstvuyesh" ("feel"), and "ty" ("you") in one brisk exchange.
-- 'Lavrov, I would advise you to lie back down.' Vika presents a candid direction without hesitation, anchoring the Russian line on "sovetovala" ("to advise, recommend") and "prilech" ("will lie down briefly") without extra filler.
-- 'All right, yes, let us get you into bed.' Vika strikes a firm note toward Max, combining the easygoing tag "ladno" ("okay, fine") with "davay" ("let's") to give the line its natural spoken rhythm.
-- 'Where is your hospital room?' Max probes boldly without hesitation, weaving "gde" ("where") together with "palata" ("hospital room") just the way native speakers do.
+- 'That football player from yesterday just arrived.' Max colors one classic piece for Barinov: "vcherashniy" means "yesterday's", and it carries the main weight of what Max is saying.
+- 'Do not be afraid.' Barinov offers the comment at once: the "-sya" ending on "boysya" ("be afraid") turns the action inward or makes it happen between people naturally.
+- 'Thank you for warning me.' Vika jumps in wryly beside Barinov, leaving no doubt about where she stands.
+- 'Chef, I hope you are not planning to poison him again?' Max picks one memorable detail on cue: "sobirayete" means "to collect" (from "sobirat"), giving the line its exact edge.
+- 'Lyova, I beg of you.' Barinov delivers the comment right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I did not even succeed before the match.' Vika reacts promptly with a smile, testing Max's reaction in the middle of the exchange.
+- 'Why would I do it now?' Max reaches for one practical expression right here: "seychas" means "now", and it carries the main weight of what Max is saying.
+- 'Now that is the right attitude, Viktor Petrovich.' Vika makes that point with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Oh, there he is.' Vika follows up openly with a sigh, bringing things back to earth after the buildup.
+- 'How are you feeling?' Max picks one familiar detail in reply: "chuvstvuyesh" means "feel" (from "chuvstvovat"), giving the line its exact edge.
+- 'Lavrov, I would advise you to lie back down.' Vika anchors one sharp detail on cue: "sovetovala" means "to advise, recommend" (from "sovetovat"), giving the line its exact edge.
+- 'All right, yes, let us get you into bed.' Vika replies earnestly to settle things, refusing to let the moment slip past.
+- 'Where is your hospital room?' Max stresses this direct term at once: "palata" means "hospital room", and it carries the main weight of what Max is saying.

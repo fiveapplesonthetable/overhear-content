@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, Vika, our festive menu is already ready.' German favors an honest line as the scene unfolds, joining "posmotrite" ("look") to "prazdnichnoye" ("festive") so every word pulls its weight.
-- 'Here are sweet eclairs in the shape of long fingers.' German sets a clear line with Vika, weaving "sladkiye" ("sweet") together with "eklery" ("shape") just the way native speakers do.
-- 'The sharp fingernails are made of thin white almond.' German sets a calm posture on the spot, anchoring the Russian line on "ostryye" ("sharp, spicy") and "nogti" ("to fingernails") without extra filler.
-- 'And here are black spiders made of Belgian chocolate.' German favors a thoughtful line in this beat, anchoring the Russian line on "zdes" ("here") and "chyornyye" ("black") without extra filler.
-- 'It looks very scary and appetizing at the same time!' Vika holds a candid approach for German, joining "vyglyadit" ("looks") to "ochen" ("very much") so every word pulls its weight.
-- 'Next we have a hot soup made of seafood.' German favors a steady tack at once, weaving "dalshe" ("next, go on") together with "goryachiy" ("hot") just the way native speakers do.
-- 'On top lies a scary octopus made of unleavened dough.' German establishes a sharp direction as they talk, linking "sverkhu" ("upstairs, from above"), "lezhit" ("is lying"), and "strashnyy" ("terrible") in one brisk exchange.
-- 'Our guests from the bank will definitely like this!' Vika offers a lively angle in the scene, pairing "gostyam" ("guests") with "banka" ("bank") to get the point across in plain spoken Russian.
-- 'And what are these chicken legs made of?' Vika inquires pointedly for German's benefit, leaning on "kurinyye" ("chicken") before closing the thought with "nozhki" ("legs").
-- 'Ordinary chicken legs are made of chicken legs.' German establishes a measured stance beside Vika, combining "obychnyye" ("ordinary") and "kurinyye" ("chicken") so the key meaning lands right away.
-- 'Got it, that is simply lunch for our cooks!' Vika takes a lively footing in this beat, leaning on "ponyatno" ("clear") before closing the thought with "prosto" ("just").
-- 'Quite right, the cooks also need to eat a good lunch!' German takes an honest course during the exchange, joining "sovershenno" ("quite, completely") to "verno" ("right, true") so every word pulls its weight.
+- 'Look, Vika, our festive menu is already ready.' German speaks up sharply in this moment, grounding the moment in plain reality.
+- 'Here are sweet eclairs in the shape of long fingers.' German answers honestly in this moment, making his position completely clear.
+- 'The sharp fingernails are made of thin white almond.' German spotlights one direct choice with Vika: "mindalya" means "almond, almonds" (from "mindal"), giving the line its exact edge.
+- 'And here are black spiders made of Belgian chocolate.' German sends this line before Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It looks very scary and appetizing at the same time!' Vika proceeds at once without a pause, saying out loud what both of them already know.
+- 'Next we have a hot soup made of seafood.' German stresses this key element in earnest: "moreproduktov" means "seafood" (from "moreprodukty"), giving the line its exact edge.
+- 'On top lies a scary octopus made of unleavened dough.' German cuts in decisively hearing Vika, saying out loud what both of them already know.
+- 'Our guests from the bank will definitely like this!' Vika weighs in promptly across the room, watching German's face to see how the news lands.
+- 'And what are these chicken legs made of?' Vika highlights this direct detail at once: "kurinyye" means "chicken" (from "kurinyy"), giving the line its exact edge.
+- 'Ordinary chicken legs are made of chicken legs.' German cuts in pointedly before Vika, without trying to dress up how he really feels.
+- 'Got it, that is simply lunch for our cooks!' Vika speaks briskly to settle things, refusing to let the moment slip past.
+- 'Quite right, the cooks also need to eat a good lunch!' German uses this direct touch toward Vika: "sovershenno" means "quite, completely", and it carries the main weight of what German is saying.

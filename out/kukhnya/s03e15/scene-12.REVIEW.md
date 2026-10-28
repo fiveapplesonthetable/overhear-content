@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, we have already accumulated two hundred thousand.' Nagiyev offers a warm tempo for Barinov, anchoring the Russian line on "uzhe" ("already, now") and "tysyach" ("thousand") without extra filler.
-- 'We still have to come up with a story for four hundred thousand.' Kostya strikes an emphatic line with Nagiyev, anchoring the Russian line on "ostalos" ("was left") and "pridumat" ("to think up") without extra filler.
-- 'What you spent your whole life learning, I mastered in one day!' Nagiyev takes a warm mood during the exchange, anchoring the Russian line on "uchilis" ("studied") and "zhizn" ("life") without extra filler.
-- 'And why is that, because I am a true genius!' Nagiyev shows a playful course across the room, combining "pochemu" ("why") and "potomu" ("because") so the key meaning lands right away.
-- 'Most likely, you simply went overboard with the oil.' Barinov offers a serious course for Kostya, putting "skoreye" ("quickly, right away") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'I think maybe the spices were not fresh?' Nagiyev inquires promptly in front of Kostya, building the phrase around "dumayu" ("I think") and "mozhet" ("can") for a crisp, natural delivery.
-- 'The spices are fine, you do not feel the balance of spices either.' Barinov holds a brisk approach without hesitation, linking "spetsii" ("spices"), "normalnyye" ("normal"), and "balans" ("balance") in one brisk exchange.
-- 'The last time I tasted something like this was in the army!' Nagiyev strikes a steady direction at once, joining "posledniy" ("last") to "raz" ("time, once") so every word pulls its weight.
-- 'Vitya, why am I worrying so much?' Nagiyev quizzes frankly without hesitation, linking "silno" ("strongly, much"), "perezhivayu" ("worry"), and "vitya" ("Vitya") in one brisk exchange.
-- 'And what if it does not work out for me tonight?' Nagiyev queries wryly without holding back, anchoring the Russian line on "vdrug" ("suddenly, what if") and "vecherom" ("in the evening") without extra filler.
-- 'No problem, we will think of something right now.' Barinov establishes an unhurried posture toward Kostya, using "strashnogo" (from "strashnyy", "terrible, serious") alongside "seychas" ("now") to shape the meaning.
-- 'Dmitry Vladimirovich, excuse me, could you help me out?' Kostya challenges pointedly in their exchange, combining "izvinite" ("sorry, excuse me") and "mogli" ("could") so the key meaning lands right away.
+- 'Kostya, we have already accumulated two hundred thousand.' Nagiyev weighs in boldly to settle things, steering the talk right where he wants it.
+- 'We still have to come up with a story for four hundred thousand.' Kostya leans on this vivid word on cue: "tysyach" means "thousand" (from "tysyacha"), giving the line its exact edge.
+- 'What you spent your whole life learning, I mastered in one day!' Nagiyev lays out that remark at once: the "-sya" ending on "uchilis" ("studied") turns the action inward or makes it happen between people naturally.
+- 'And why is that, because I am a true genius!' Nagiyev steps in quietly on the spot, steering the talk right where he wants it.
+- 'Most likely, you simply went overboard with the oil.' Barinov grounds one practical piece in reply: "pereborshchil" means "overdid it" (from "pereborshchit"), giving the line its exact edge.
+- 'I think maybe the spices were not fresh?' Nagiyev gives that remark plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'The spices are fine, you do not feel the balance of spices either.' Barinov proceeds dryly as they talk, testing Kostya's reaction in the middle of the exchange.
+- 'The last time I tasted something like this was in the army!' Nagiyev stresses this clear detail toward Kostya: "posledniy" means "last", and it carries the main weight of what Nagiyev is saying.
+- 'Vitya, why am I worrying so much?' Nagiyev offers this update without fuss: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'And what if it does not work out for me tonight?' Nagiyev probes curiously why things suddenly took this turn between them.
+- 'No problem, we will think of something right now.' Barinov emphasizes one concrete word on cue: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.
+- 'Dmitry Vladimirovich, excuse me, could you help me out?' Kostya makes that point in earnest: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Kostya steps in.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Thank you.' Denis chooses a clear note straight away, putting all the weight on "spasibo" ("thank you") so the reply lands immediately.
-- 'You are welcome.' Max holds a steady stance as the scene unfolds, building the phrase around "ne" ("not") and "za" ("for") for a crisp, natural delivery.
-- 'Lavrov, what are you doing here?' German probes wryly at this point, linking "zdes" ("here"), "delayete" ("are doing"), and "lavrov" ("Lavrov") in one brisk exchange.
-- 'It is my day off. I decided to help Denis out.' Max conveys a grounded posture on the spot, combining "vykhodnoy" ("a day off") and "reshil" ("has decided") so the key meaning lands right away.
-- 'This is not an occasion where you should show brotherly care.' German projects a measured footing in front of Denis, linking "sluchay" ("case, occasion"), "gde" ("where"), and "nuzhno" ("necessary") in one brisk exchange.
-- 'Please leave, otherwise your day off will never end.' German strikes a direct direction in this beat, building the phrase around "stupayte" ("leave") and "inache" ("otherwise") for a crisp, natural delivery.
-- 'Alright, go on. I will manage by myself.' Denis favors a direct direction as the scene unfolds, anchoring the Russian line on "idi" ("go") and "spravlyus" ("will manage") without extra filler.
-- 'Then I will have to solve your problems for you again.' Max brings a thoughtful attitude as they talk, weaving "potom" ("then") together with "opyat" ("again") just the way native speakers do.
-- 'What do you mean, again?' Denis tests openly to keep things clear, leaning on "znachit" ("then, so") before closing the thought with "opyat" ("again").
-- 'Because this happens all the time.' Max chooses a pointed attitude straight away, combining "potomu" ("because") and "proiskhodit" ("is going on") so the key meaning lands right away.
-- 'Get out of here, got it? I will do everything myself.' Denis probes candidly with German now, combining the everyday invitation "davay" ("come on, let us") with "idi" ("go") to give the line its natural spoken rhythm.
-- 'Are you going to carve a violin out of a potato?' Max presses decisively as they speak, using "skripku" (from "skripka", "going") alongside "kartoshki" ("potatoes") to shape the meaning.
+- 'Thank you.' Denis leans on one telling choice with German: "spasibo" means "thank you", and it carries the main weight of what Denis is saying.
+- 'You are welcome.' Max brings this warning beside German: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Lavrov, what are you doing here?' German prompts eagerly while looking straight at Denis here.
+- 'It is my day off. I decided to help Denis out.' Max leans on one telling expression on cue: "vykhodnoy" means "a day off", and it carries the main weight of what Max is saying.
+- 'This is not an occasion where you should show brotherly care.' German aims the comment around Denis: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Please leave, otherwise your day off will never end.' German replies lightly without any doubt, leaving no doubt about where he stands.
+- 'Alright, go on. I will manage by myself.' Denis stresses one concrete detail right here: "spravlyus" means "will manage" (from "spravitsya"), giving the line its exact edge.
+- 'Then I will have to solve your problems for you again.' Max chooses this telling expression in earnest: "problemy" means "problems" (from "problema"), giving the line its exact edge.
+- 'What do you mean, again?' Denis challenges straight out what German is actually getting at here.
+- 'Because this happens all the time.' Max anchors one vivid touch on cue: "proiskhodit" means "is going on", and it carries the main weight of what Max is saying.
+- 'Get out of here, got it? I will do everything myself.' Denis offers that reply with warmth: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Are you going to carve a violin out of a potato?' Max inquires openly what German is actually getting at here.

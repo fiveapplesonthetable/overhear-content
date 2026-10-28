@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tomorrow morning report to work again.' Barinov conveys a frank direction as the scene unfolds, putting "zavtra" ("tomorrow") alongside "utrom" ("this morning") in a tight, everyday turn of phrase.
-- 'And now let us go have a drink together.' Barinov adopts an emphatic view at this moment, pairing "teper" ("now") with "poydyom" ("let's go") to get the point across in plain spoken Russian.
-- 'Although no, you have to go to work early tomorrow.' Barinov displays an honest rhythm on the spot, building the phrase around "zavtra" ("tomorrow") and "rano" ("early, young") for a crisp, natural delivery.
-- 'Then I will drink, and you will sit for company.' Barinov keeps a serious tack as the scene unfolds, putting "togda" ("back then") alongside "vypyu" ("drink") in a tight, everyday turn of phrase.
-- 'Changes in life come like old age and like time.' Max conveys a playful direction across the room, joining "izmeneniya" ("changes") to "zhizni" ("life") so every word pulls its weight.
-- 'Sometimes we run from them, thinking that everything can be left as it is.' Max conveys an easygoing manner at once, building the phrase around "inogda" ("sometimes, at times") and "bezhim" ("run") for a crisp, natural delivery.
-- 'Lena, forgive me for yesterday, it turned out awkwardly.' Barinov establishes an emphatic tempo straight away, joining "prosti" ("sorry, forgive me") to "vcherashneye" ("yesterday") so every word pulls its weight.
-- 'You understand too, I am the way I am, it is too late to change.' Barinov holds a grounded view right away, linking "tozhe" ("too"), "poymi" ("understand"), and "kak" ("how") in one brisk exchange.
-- 'Either accept me or do not accept me, it is up to you to decide.' Barinov strikes a playful angle straight away, linking "prinimay" ("receive, accept"), "reshat" ("decide, solve"), and "ty" ("you") in one brisk exchange.
-- 'Changes in our life happen whether we want that or not.' Max takes a measured footing on the spot, weaving "izmeneniya" ("changes") together with "zhizni" ("life") just the way native speakers do.
-- 'Good morning, did you not quit?' Elena checks lightly from the start, anchoring the Russian line on "dobroye" ("good") and "utro" ("morning") without extra filler.
-- 'No, we can accept them or try to stay in the past.' Max presents an easygoing bearing in the conversation, building the phrase around "mozhem" ("can") and "prinyat" ("to accept, hire") for a crisp, natural delivery.
-- 'Lyova, hello, may I stay at your place again?' Barinov queries firmly in the room, weaving "mozhno" ("may, can") together with "snova" ("again") just the way native speakers do.
+- 'Tomorrow morning report to work again.' Barinov fires back quietly without holding back, keeping the focus on what actually matters here.
+- 'And now let us go have a drink together.' Barinov reacts pointedly with a smile, saying out loud what both of them already know.
+- 'Although no, you have to go to work early tomorrow.' Barinov frames one key choice on cue: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
+- 'Then I will drink, and you will sit for company.' Barinov leans on one colorful element on cue: "kompanii" means "companies" (from "kompaniya"), giving the line its exact edge.
+- 'Changes in life come like old age and like time.' Max fires back at once with a sigh, testing Barinov's reaction in the middle of the exchange.
+- 'Sometimes we run from them, thinking that everything can be left as it is.' Max stresses one pointed term with Elena: "ostavit" means "to keep, to leave", and it carries the main weight of what Max is saying.
+- 'Lena, forgive me for yesterday, it turned out awkwardly.' Barinov phrases this update to Elena: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'You understand too, I am the way I am, it is too late to change.' Barinov proceeds honestly before Max, refusing to let the moment slip past.
+- 'Either accept me or do not accept me, it is up to you to decide.' Barinov stresses this sharp term right here: "prinimay" means "receive, accept" (from "prinimat"), giving the line its exact edge.
+- 'Changes in our life happen whether we want that or not.' Max speaks honestly hearing Elena, testing Elena's reaction in the middle of the exchange.
+- 'Good morning, did you not quit?' Elena prompts deadpan where this conversation is heading next.
+- 'No, we can accept them or try to stay in the past.' Max reaches for one colorful piece with Elena: "proshlom" means "last, past" (from "proshlyy"), giving the line its exact edge.
+- 'Lyova, hello, may I stay at your place again?' Barinov sends that remark on cue: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.

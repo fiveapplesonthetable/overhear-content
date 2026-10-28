@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Marina, what happened, and where is Senya right now?' Denis quizzes promptly to keep things clear, anchoring the Russian line on "sluchilos" ("happened") and "gde" ("where") without extra filler.
-- 'He is in the bathroom right now, and I stopped in to see you.' Marina picks an emphatic style right away, anchoring the Russian line on "seychas" ("now") and "vannoy" ("bathtub, bath") without extra filler.
-- 'You must know that you are not alone now!' Marina shares a brisk bearing with Denis, linking "dolzhen" ("has to, must"), "znat" ("to know"), and "teper" ("now") in one brisk exchange.
-- 'Thank you very much, but you do not need to help me!' Denis sets a calm line for Senya, leaning on "spasibo" ("thank you") before closing the thought with "bolshoye" ("big, very much").
-- 'Do not be so afraid, you will feel better right away!' Marina offers a clear approach as the scene unfolds, anchoring the Russian line on "boysya" ("be afraid") and "stanet" ("will become") without extra filler.
-- 'Senya and I will help you start a new life.' Marina offers an honest tack with Senya, linking "seney" ("start"), "pomozhem" ("will help"), and "nachat" ("to begin, to start") in one brisk exchange.
-- 'Listen, when we made our deal, Senya kept quiet about this!' Denis shows a wry note with Marina, pairing "slushayte" ("listen") with "kogda" ("when") to get the point across in plain spoken Russian.
-- 'On such strange terms I refuse to rent the room!' Denis displays a playful stance without hesitation, pairing "strannykh" ("strange") with "usloviyakh" ("conditions") to get the point across in plain spoken Russian.
-- 'Senya, come here, is he renting a room from us?' Marina queries wryly on the spot, joining "idi" ("go") to "syuda" ("here") so every word pulls its weight.
-- 'No, Marina, he is simply living with us for free!' Senya offers a calm manner across the room, linking "prosto" ("just"), "besplatno" ("for free"), and "zhivyot" ("lives") in one brisk exchange.
-- 'Some 'simply', for twenty-five thousand rubles!' Denis displays a firm tone straight away, combining "prosto" ("just") and "tysyach" ("thousand") so the key meaning lands right away.
-- 'Marina, calm down, I will explain everything honestly to you right now!' Senya maintains a thoughtful view as they talk, linking "uspokoysya" ("calm down"), "seychas" ("now"), and "chestno" ("honestly") in one brisk exchange.
+- 'Marina, what happened, and where is Senya right now?' Denis focuses on one colorful piece on cue: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'He is in the bathroom right now, and I stopped in to see you.' Marina chooses one sharp word right here: "vannoy" means "bathtub, bath" (from "vanna"), giving the line its exact edge.
+- 'You must know that you are not alone now!' Marina opens up frankly across the room, shifting the whole mood of the room in a single beat.
+- 'Thank you very much, but you do not need to help me!' Denis frames this clear detail with Senya: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Do not be so afraid, you will feel better right away!' Marina hands over that thought right away: the "-sya" ending on "boysya" ("be afraid") turns the action inward or makes it happen between people naturally.
+- 'Senya and I will help you start a new life.' Marina weighs in sharply to settle things, making her position completely clear.
+- 'Listen, when we made our deal, Senya kept quiet about this!' Denis uses one loaded expression in reply: "dogovarivalis" means "had an agreement" (from "dogovarivatsya"), giving the line its exact edge.
+- 'On such strange terms I refuse to rent the room!' Denis pushes back at once in this moment, watching Senya's face to see how the news lands.
+- 'Senya, come here, is he renting a room from us?' Marina questions straight out what Denis is actually getting at here.
+- 'No, Marina, he is simply living with us for free!' Senya focuses on one pointed piece toward Marina: "besplatno" means "for free", and it carries the main weight of what Senya is saying.
+- 'Some 'simply', for twenty-five thousand rubles!' Denis states that thought with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Marina, calm down, I will explain everything honestly to you right now!' Senya chimes in warmly on the spot, testing Marina's reaction in the middle of the exchange.

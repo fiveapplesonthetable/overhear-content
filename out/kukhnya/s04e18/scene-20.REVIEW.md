@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Markus, thank you very much for coming.' Barinov chooses an honest mood as the scene unfolds, pairing "markus" ("markus") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
-- 'I dreamed of taking revenge on him for two years.' Denis adopts a playful angle in the conversation, combining "goda" ("years") and "mechtal" ("dreamed") so the key meaning lands right away.
-- 'Well then, German, this is a repeat offense now.' Barinov sets a natural bearing at this moment, joining "uzhe" ("already, now") to "retsidiv" ("offense") so every word pulls its weight.
-- 'So make your own choice right now, German.' Barinov shares a steady position toward German, pairing "vybiray" ("to choose, select") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'Either you quietly leave the restaurant.' Barinov maintains a candid tack as the scene unfolds, combining "tikho" ("easy, quiet") and "ukhodish" ("are leaving") so the key meaning lands right away.
-- 'Or your suspended sentence will become real prison time.' Barinov chooses a firm tack at once, joining "uslovnyy" ("suspended") to "srok" ("term") so every word pulls its weight.
-- 'Hello, Dmitry Vladimirovich, this is German.' German conveys a pointed view with Barinov, weaving "allo" ("hello") together with "dmitriy" ("Dmitry") just the way native speakers do.
-- 'Dmitry Vladimirovich, I am resigning today.' German establishes a brisk note as the scene unfolds, pairing "segodnya" ("today") with "uvolnyayus" ("quit, resign") to get the point across in plain spoken Russian.
-- 'I am leaving for personal reasons.' German favors a thoughtful tack in the scene, joining "ukhozhu" ("am leaving") to "lichnym" ("personal") so every word pulls its weight.
-- 'Sometimes for the sake of truth a clever deception is needed.' Denis strikes a lively tempo right away, linking "inogda" ("sometimes, at times"), "pravdy" ("truth"), and "nuzhen" ("is needed") in one brisk exchange.
-- 'But whoever lies often always loses.' Denis conveys a clear view with Barinov, anchoring the Russian line on "chasto" ("often") and "vryot" ("is lying") without extra filler.
-- 'It is wiser to always remain yourself.' Denis projects a lively angle with German, combining "mudreye" ("wiser") and "vsegda" ("always") so the key meaning lands right away.
+- 'Markus, thank you very much for coming.' Barinov voices this update beside Denis: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'I dreamed of taking revenge on him for two years.' Denis reacts boldly without holding back, refusing to let the moment slip past.
+- 'Well then, German, this is a repeat offense now.' Barinov spotlights one sharp element at once: "retsidiv" means "offense", and it carries the main weight of what Barinov is saying.
+- 'So make your own choice right now, German.' Barinov opens up earnestly toward German, before German can change the subject.
+- 'Either you quietly leave the restaurant.' Barinov chimes in wryly toward Denis, grounding the moment in plain reality.
+- 'Or your suspended sentence will become real prison time.' Barinov centers this sharp choice for German: "uslovnyy" means "suspended", and it carries the main weight of what Barinov is saying.
+- 'Hello, Dmitry Vladimirovich, this is German.' German states that answer before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Dmitry Vladimirovich, I am resigning today.' German cuts in sharply in this moment, without trying to dress up how he really feels.
+- 'I am leaving for personal reasons.' German stresses this key word toward Barinov: "prichinam" means "reason, cause" (from "prichina"), giving the line its exact edge.
+- 'Sometimes for the sake of truth a clever deception is needed.' Denis aims the remark toward German: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'But whoever lies often always loses.' Denis fires back promptly to settle things, to clear the air between them once and for all.
+- 'It is wiser to always remain yourself.' Denis emphasizes this direct touch toward German: "ostavatsya" means "to stay, to remain", and it carries the main weight of what Denis is saying.

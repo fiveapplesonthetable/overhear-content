@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You do not understand.' Max offers a serious tack in the conversation, building the phrase around "ponimayesh" ("do you understand") and "ty" ("you") for a crisp, natural delivery.
-- 'Max, please tell me, why did you do this?' Kostya asks firmly to keep things clear, leaning on "skazhi" ("say") before closing the thought with "zachem" ("what for").
-- 'Do you realize you cannot treat people like that?' Max wonders decisively in this moment, joining "ponimayesh" ("do you understand") to "lyudmi" ("people") so every word pulls its weight.
-- 'Let me explain everything at home, alright?' Kostya asks openly right away, combining the easygoing tag "ladno" ("okay, fine") with "davayte" ("let's") to give the line its natural spoken rhythm.
-- 'Nobody wants to see you.' Max sets an unhurried bearing without hesitation, pairing "khochet" ("wants") with "videt" ("to see") to get the point across in plain spoken Russian.
-- 'Neither here nor at home.' Kostya holds a brisk attitude at once, anchoring the Russian line on "zdes" ("here") and "doma" ("at home") without extra filler.
-- 'There is no such thing as a war without casualties.' Max sets an honest manner in the scene, combining "voyn" ("war") and "poter" ("loss") so the key meaning lands right away.
-- 'Turns out your entertainment program is pretty lively after all.' Kostya favors a resolute attitude in the room, leaning on "programma" ("programme") before closing the thought with "interesneye" ("interesting").
-- 'I understand now.' Max keeps a grounded stance in front of Kostya, joining "ponyal" ("understood") to "ya" ("I") so every word pulls its weight.
-- 'In any war, it is the innocent who suffer the most.' Kostya maintains a thoughtful approach at once, joining "bolshe" ("more") to "voyny" ("of war") so every word pulls its weight.
-- 'Those who get dragged into the battle against their will.' Max picks a thoughtful attitude at once, pairing "okazalis" ("to turn out to be") with "vtyanuty" ("drawn in, involved") to get the point across in plain spoken Russian.
-- 'War is the way of deception.' Kostya adopts a natural tempo for Max, building the phrase around "voyna" ("a war") and "put" ("path") for a crisp, natural delivery.
-- 'And sometimes the one who ends up deceived is yourself.' Max sets a playful manner as the scene unfolds, putting "poroy" ("at times, occasionally") alongside "obmanutym" ("deceived, cheated") in a tight, everyday turn of phrase.
+- 'You do not understand.' Max makes the comeback briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Max, please tell me, why did you do this?' Kostya asks sharply before Max can change the subject.
+- 'Do you realize you cannot treat people like that?' Max focuses on one loaded element right here: "postupayesh" means "to act, treat" (from "postupat"), giving the line its exact edge.
+- 'Let me explain everything at home, alright?' Kostya drops the comment frankly here: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
+- 'Nobody wants to see you.' Max answers evenly with Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'Neither here nor at home.' Kostya picks this sharp detail toward Max: "doma" means "at home", and it carries the main weight of what Kostya is saying.
+- 'There is no such thing as a war without casualties.' Max answers candidly facing Kostya, leaving no doubt about where he stands.
+- 'Turns out your entertainment program is pretty lively after all.' Kostya speaks up at once with a smile, steering the talk right where he wants it.
+- 'I understand now.' Max leans on one direct term toward Kostya: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'In any war, it is the innocent who suffer the most.' Kostya chimes in frankly facing Max, letting the remark speak for itself.
+- 'Those who get dragged into the battle against their will.' Max holds firm bluntly as things stand, steering the talk right where he wants it.
+- 'War is the way of deception.' Kostya colors one vivid choice with Max: "obmana" means "a trick" (from "obman"), giving the line its exact edge.
+- 'And sometimes the one who ends up deceived is yourself.' Max shapes the thought facing Kostya: the "-sya" ending on "okazyvayeshsya" ("to turn out to be") turns the action inward or makes it happen between people naturally.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, but I decided to stay at the restaurant.' Barinov takes a thoughtful note in the room, pairing "izvinite" ("sorry, excuse me") with "reshil" ("has decided") to get the point across in plain spoken Russian.
-- 'What is the staff meeting about anyway?' Senya probes earnestly in this moment, joining "povodu" ("matter") to "voobshche" ("at all") so every word pulls its weight.
-- 'Are they going to check our pockets?' Senya inquires decisively to make the point, combining "karmany" ("pockets") and "proveryat" ("to check, test") so the key meaning lands right away.
-- 'Very funny, Senya.' Barinov projects a playful course in the scene, weaving "ochen" ("very much") together with "smeshno" ("ridiculous") just the way native speakers do.
-- 'Kitchen, attention!' Barinov chooses a firm tempo in the room, joining "kukhnya" ("kitchen") to "vnimaniye" ("attention") so every word pulls its weight.
-- 'Today is a historic event in your lives.' Barinov maintains a thoughtful tack without hesitation, combining "segodnya" ("today") and "zhizni" ("life") so the key meaning lands right away.
-- 'We are changing the restaurant's concept.' Barinov offers a calm tempo in the scene, linking "menyayem" ("to change, to swap"), "kontseptsiyu" ("concept"), and "restorana" ("restaurant") in one brisk exchange.
-- 'This is a restaurant of auteur cuisine.' Barinov holds a candid position toward Senya, building the phrase around "restoran" ("restaurant") and "avtorskoy" ("auteur, signature") for a crisp, natural delivery.
-- 'What does that mean?' Senya queries calmly to Barinov here, leaning on "znachit" ("then, so") before closing the thought with "chto" ("what").
-- 'So, on the new menu are sea scallops.' Barinov sets a natural approach in front of Senya, linking "novom" ("new"), "menyu" ("menu"), and "morskiye" ("sea") in one brisk exchange.
-- 'And also goose breast in sauce.' Barinov holds a thoughtful stance straight away, linking "takzhe" ("also"), "gusinaya" ("goose"), and "grudka" ("breast") in one brisk exchange.
-- 'And fillet of wild pigeon.' Barinov takes a natural position toward Senya, linking "file" ("fillet"), "dikogo" ("wild, terrible"), and "golubya" ("pigeon") in one brisk exchange.
+- 'Forgive me, but I decided to stay at the restaurant.' Barinov speaks at once in this moment, testing Senya's reaction in the middle of the exchange.
+- 'What is the staff meeting about anyway?' Senya highlights one colorful element toward Barinov: "sobraniye" means "meeting", and it carries the main weight of what Senya is saying.
+- 'Are they going to check our pockets?' Senya sends the reaction facing Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Very funny, Senya.' Barinov jumps in right away with Senya, watching Senya's face to see how the news lands.
+- 'Kitchen, attention!' Barinov reaches for one loaded choice with Senya: "vnimaniye" means "attention", and it carries the main weight of what Barinov is saying.
+- 'Today is a historic event in your lives.' Barinov offers that thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We are changing the restaurant's concept.' Barinov weighs in bluntly without any doubt, keeping the focus on what actually matters here.
+- 'This is a restaurant of auteur cuisine.' Barinov focuses on one sharp word in earnest: "avtorskoy" means "auteur, signature" (from "avtorskiy"), giving the line its exact edge.
+- 'What does that mean?' Senya gives the comeback with candor: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'So, on the new menu are sea scallops.' Barinov answers promptly watching Senya, testing Senya's reaction in the middle of the exchange.
+- 'And also goose breast in sauce.' Barinov centers this vivid detail for Senya: "gusinaya" means "goose" (from "gusinyy"), giving the line its exact edge.
+- 'And fillet of wild pigeon.' Barinov voices this warning without pause: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

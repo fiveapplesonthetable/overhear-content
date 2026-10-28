@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Only do not tell Viktor Petrovich!' Elena keeps a firm mood in the conversation, linking "tolko" ("only"), "govorite" ("say, speak"), and "vy" ("you") in one brisk exchange.
-- 'Elena Pavlovna?' Lyova prompts lightly to keep things clear, joining "yelena" ("Yelena") to "pavlovna" ("Pavlovna") so every word pulls its weight.
-- 'Yes.' Elena strikes an earnest direction across the room, letting the single Russian word "da" ("yes") carry the entire reaction on its own.
-- 'Allow me to escort you to the celebration.' Lyova shows a clear course at this moment, weaving "pozvolte" ("allow me") together with "provodit" ("to spend") just the way native speakers do.
-- 'I allow it!' Elena adopts a warm note on the spot, putting all the weight on "pozvolyayu" ("allow, permit") so the reply lands immediately.
-- 'Take off your robe, lie down on your side.' Lyova strikes an earnest direction right away, building the phrase around "snimayte" ("to take off") and "khalat" ("robe, bathrobe") for a crisp, natural delivery.
-- 'Lena, happy birthday!' Barinov sustains a natural tone beside Elena, building the phrase around "dnyom" ("day") and "rozhdeniya" ("of birth") for a crisp, natural delivery.
-- 'Thank you.' Elena keeps a brisk manner toward Lyova, putting all the weight on "spasibo" ("thank you") so the reply lands immediately.
-- 'You are amazing, beautiful, and very smart.' Barinov holds an emphatic stance at this moment, weaving "udivitelnaya" ("surprising") together with "krasivaya" ("pretty, beautiful") just the way native speakers do.
-- 'And thanks to your kind heart we are together again.' Barinov picks a firm stance on the spot, using "dobromu" (from "dobryy", "kind") alongside "serdtsu" ("heart") to shape the meaning.
-- 'And I promise never to make foolish mistakes again.' Barinov brings a frank tempo during the exchange, using "obeshchayu" (from "obeshchat", "promise") alongside "bolshe" ("more") to shape the meaning.
-- 'Thank you, Vitya.' Elena holds a pointed mood in front of Lyova, pairing "spasibo" ("thank you") with "tebe" ("for you, to you") to get the point across in plain spoken Russian.
+- 'Only do not tell Viktor Petrovich!' Elena favors one vivid piece at once: "govorite" means "say, speak" (from "govorit"), giving the line its exact edge.
+- 'Elena Pavlovna?' Lyova shapes this update before Elena: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
+- 'Yes.' Elena replies sharply to be clear, refusing to let the moment slip past.
+- 'Allow me to escort you to the celebration.' Lyova points to one colorful expression toward Elena: "torzhestvo" means "celebration", and it carries the main weight of what Lyova is saying.
+- 'I allow it!' Elena frames that reply with warmth: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'Take off your robe, lie down on your side.' Lyova replies steadily with a nod, without trying to dress up how he really feels.
+- 'Lena, happy birthday!' Barinov points to one practical detail right here: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
+- 'Thank you.' Elena shapes that remark without pause: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'You are amazing, beautiful, and very smart.' Barinov proceeds wryly on the spot, saying out loud what both of them already know.
+- 'And thanks to your kind heart we are together again.' Barinov emphasizes one familiar piece in earnest: "dobromu" means "kind" (from "dobryy"), giving the line its exact edge.
+- 'And I promise never to make foolish mistakes again.' Barinov frames that point frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Thank you, Vitya.' Elena proceeds wryly without holding back, bringing things back to earth after the buildup.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maksim, can I have a word with you for a minute?' Barinov asks honestly in front of Max, combining "mozhno" ("may, can") and "minutochku" ("a minute") so the key meaning lands right away.
-- 'Let us talk a little later.' Barinov brings a resolute approach beside Sasha, pairing "davay" ("let's") with "popozzhe" ("later") to get the point across in plain spoken Russian.
-- 'What is missing, Chef?' Sasha questions warmly to Barinov here, putting "khvatayet" ("grabs") alongside "chego" ("what") in a tight, everyday turn of phrase.
-- 'Everything is ideal.' Max picks a measured course in the room, placing "idealno" ("ideally, perfectly") straight beside "vse" ("all") with no word for "to be" needed.
-- 'Fedya, sorry it took me so long to pay you back.' Barinov keeps a clear course toward Max, using "izvini" (from "izvinit", "sorry, excuse me") alongside "dolgo" ("for a long time") to shape the meaning.
-- 'Kris, well what is there to tell?' Sasha asks honestly in this moment, pairing "rasskazyvat" ("to tell") with "kris" ("Kris") to get the point across in plain spoken Russian.
-- 'And I know just how much...' Max presents an unhurried approach in the room, pairing "znayu" ("know") with "skolko" ("how much, so much") to get the point across in plain spoken Russian.
-- 'Kris, are you listening to me or not?' Barinov questions lightly in the scene, combining "slyshish" ("hear") and "kris" ("Kris") so the key meaning lands right away.
-- 'Sorry, Sasha, I just need a man.' Max shows a resolute mood at this moment, anchoring the Russian line on "prosti" ("sorry, forgive me") and "prosto" ("just") without extra filler.
-- 'This guy, or what?' Max wonders honestly for Sasha's benefit, anchoring the Russian line on "etot" ("this") and "chto" ("what") without extra filler.
-- 'Not for anything in the world.' Barinov takes a grounded angle in the conversation, building the phrase around "svete" ("world") and "ne" ("not") for a crisp, natural delivery.
-- 'Well, that is one thing over there.' Sasha maintains a brisk direction in front of Max, linking "delo" ("matter"), "tam" ("there"), and "odno" ("one") in one brisk exchange.
-- 'And what is going on with you and Max?' Max checks calmly right away, anchoring the Russian line on "tam" ("there") and "chto" ("what") without extra filler.
+- 'Maksim, can I have a word with you for a minute?' Barinov delivers this point toward Max: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Let us talk a little later.' Barinov continues bluntly as they talk, to clear the air between them once and for all.
+- 'What is missing, Chef?' Sasha colors one practical word in reply: "khvatayet" means "grabs" (from "khvatat"), giving the line its exact edge.
+- 'Everything is ideal.' Max states that thought facing Sasha: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Fedya, sorry it took me so long to pay you back.' Barinov counters at once with Max, steering the talk right where he wants it.
+- 'Kris, well what is there to tell?' Sasha leans on one concrete element on cue: "rasskazyvat" means "to tell", and it carries the main weight of what Sasha is saying.
+- 'And I know just how much...' Max hands over that line for Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Kris, are you listening to me or not?' Barinov prompts wryly whether Sasha really thought this through.
+- 'Sorry, Sasha, I just need a man.' Max focuses on this sharp term at once: "muzhik" means "a real man", and it carries the main weight of what Max is saying.
+- 'This guy, or what?' Max shapes this update with ease: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
+- 'Not for anything in the world.' Barinov speaks pointedly toward Max, leaving no doubt about where he stands.
+- 'Well, that is one thing over there.' Sasha favors one direct piece right here: "delo" means "matter", and it carries the main weight of what Sasha is saying.
+- 'And what is going on with you and Max?' Max frames this line on cue: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.

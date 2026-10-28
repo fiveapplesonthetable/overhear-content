@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I found your little elephant here.' Katya picks an earnest manner in front of Barinov, building the phrase around "tut" ("here") and "slonika" ("little elephant figurine") for a crisp, natural delivery.
-- 'Where? It was in the restaurant, right? I knew it.' Barinov challenges briskly to keep things clear, joining "gde" ("where") to "restorane" ("restaurant") so every word pulls its weight.
-- 'Thank you so much. You can't imagine how dear this thing is to me.' Barinov shows a measured manner on the spot, weaving "spasibo" ("thank you") together with "bolshoye" ("big, very much") just the way native speakers do.
-- 'Dad, try not to lose what is dear to you anymore.' Katya keeps an easygoing view right away, leaning on "papa" ("Dad") before closing the thought with "staraysya" ("try").
-- 'Sometimes we try long and hard to find the key to unlock a door.' Max sets a steady footing at this moment, anchoring the Russian line on "poroy" ("at times, occasionally") and "dolgo" ("for a long time") without extra filler.
-- 'But in the end we realize that the right key was never on the keyring.' Max establishes a candid position without hesitation, using "itoge" (from "itog", "result, total") alongside "ponimayem" ("to understand") to shape the meaning.
-- 'Something that we will never know about.' Max sustains a candid stance in the conversation, joining "nikogda" ("never") to "uznayem" ("will find out") so every word pulls its weight.
-- 'Although we understand that it is the door to the future.' Max sustains a firm view across the room, joining "ponimayem" ("to understand") to "dver" ("door") so every word pulls its weight.
-- 'To the future in which we would like to find ourselves.' Max holds an unhurried note in this beat, pairing "budushcheye" ("future, next") with "khotelos" ("to feel like") to get the point across in plain spoken Russian.
-- 'If you open the wrong door, someone else will open yours.' Max shows a pointed position at this moment, building the phrase around "otkroyete" ("open") and "dver" ("door") for a crisp, natural delivery.
-- 'Viktoria, it seems to me...' Barinov adopts a pointed note at once, leaning on "kazhetsya" ("it seems, I think") before closing the thought with "viktoriya" ("Victoria").
-- 'It seems that I love you.' Barinov holds an honest style at once, putting "kazhetsya" ("it seems, I think") alongside "lyublyu" ("love") in a tight, everyday turn of phrase.
+- 'I found your little elephant here.' Katya holds firm honestly watching Barinov, before Barinov can change the subject.
+- 'Where? It was in the restaurant, right? I knew it.' Barinov wonders skeptically as Max tries to explain the situation.
+- 'Thank you so much. You can't imagine how dear this thing is to me.' Barinov uses one memorable expression toward Katya: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'Dad, try not to lose what is dear to you anymore.' Katya shares that remark for Max: the "-sya" ending on "staraysya" ("try") turns the action inward or makes it happen between people naturally.
+- 'Sometimes we try long and hard to find the key to unlock a door.' Max answers decisively to settle things, watching Barinov's face to see how the news lands.
+- 'But in the end we realize that the right key was never on the keyring.' Max reaches for one concrete word toward Katya: "nuzhnogo" means "the right, necessary" (from "nuzhnyy"), giving the line its exact edge.
+- 'Something that we will never know about.' Max sends this line briskly now: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Although we understand that it is the door to the future.' Max stands firm evenly on the spot, shifting the whole mood of the room in a single beat.
+- 'To the future in which we would like to find ourselves.' Max points to this direct element on cue: "budushcheye" means "future, next" (from "budushchiy"), giving the line its exact edge.
+- 'If you open the wrong door, someone else will open yours.' Max uses one clear term on cue: "otkroyete" means "open" (from "otkryt"), giving the line its exact edge.
+- 'Viktoria, it seems to me...' Barinov reacts plainly with a sigh, before Katya can change the subject.
+- 'It seems that I love you.' Barinov focuses on one memorable choice with Max: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.

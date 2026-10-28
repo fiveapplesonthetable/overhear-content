@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our team won, come on, pour quickly!' Nagiyev adopts a grounded footing on the spot, joining "vyigrali" ("won") to "davay" ("let's") so every word pulls its weight.
-- 'Dima, our team lost today, alas.' Barinov offers a sharp tack as they talk, leaning on "segodnya" ("today") before closing the thought with "proigrali" ("lost").
-- 'Alright, well what are you starting!' Barinov presents a clear note as the scene unfolds, weaving "nachinayesh" ("are starting") together with "ladno" ("all right") just the way native speakers do.
-- 'Well if we lost today, we lost.' Barinov projects a steady bearing for Nagiyev, linking "proigrali" ("lost"), "segodnya" ("today"), and "nu" ("oh, come on") in one brisk exchange.
-- 'And what if you have a draw today?' Nagiyev probes frankly beside Barinov, linking "segodnya" ("today"), "nichya" ("draw"), and "yesli" ("if") in one brisk exchange.
-- 'I do not want to hear anything, pour again!' Nagiyev sustains a resolute style beside Barinov, leaning on "khochu" ("want") before closing the thought with "slyshat" ("to hear").
-- 'So you had better go out in public with your beloved woman.' Nagiyev holds a frank manner across the room, putting "luchshe" ("better") alongside "vyydi" ("step out, go out") in a tight, everyday turn of phrase.
-- 'At least your liver will be healthy.' Nagiyev sets an emphatic manner beside Barinov, anchoring the Russian line on "pechen" ("liver") and "budet" ("will be") without extra filler.
-- 'After all, I am bringing Max back only for your sake, Dima.' Barinov projects a playful tempo straight away, linking "vozvrashchayu" ("bring back"), "tolko" ("only"), and "ya" ("I") in one brisk exchange.
-- 'I am going against all my principles.' Barinov keeps a grounded course right away, joining "idu" ("going, running") to "printsipov" ("principles") so every word pulls its weight.
-- 'That is it, we agreed, your condition is accepted.' Nagiyev picks a candid style in the room, building the phrase around "dogovorilis" ("agreed, deal") and "usloviye" ("condition") for a crisp, natural delivery.
-- 'Max, today you are returning to the kitchen.' Barinov sets a warm tempo as the scene unfolds, combining "segodnya" ("today") and "vozvrashchayeshsya" ("are returning") so the key meaning lands right away.
+- 'Our team won, come on, pour quickly!' Nagiyev brings this point with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Dima, our team lost today, alas.' Barinov weighs in boldly to be clear, grounding the moment in plain reality.
+- 'Alright, well what are you starting!' Barinov centers one sharp choice toward Nagiyev: "nachinayesh" means "are starting" (from "nachinat"), giving the line its exact edge.
+- 'Well if we lost today, we lost.' Barinov jumps in calmly to settle things, testing Nagiyev's reaction in the middle of the exchange.
+- 'And what if you have a draw today?' Nagiyev asks bluntly to see how Barinov will answer on the spot.
+- 'I do not want to hear anything, pour again!' Nagiyev grounds one telling piece with Barinov: "slyshat" means "to hear", and it carries the main weight of what Nagiyev is saying.
+- 'So you had better go out in public with your beloved woman.' Nagiyev picks one classic term with Barinov: "zhenshchinoy" means "a woman" (from "zhenshchina"), giving the line its exact edge.
+- 'At least your liver will be healthy.' Nagiyev answers firmly during the talk, leaving no doubt about where he stands.
+- 'After all, I am bringing Max back only for your sake, Dima.' Barinov leans on this direct word in earnest: "vozvrashchayu" means "bring back" (from "vozvrashchat"), giving the line its exact edge.
+- 'I am going against all my principles.' Barinov counters sharply as they talk, letting the remark speak for itself.
+- 'That is it, we agreed, your condition is accepted.' Nagiyev holds firm decisively with a smile, leaving no doubt about where he stands.
+- 'Max, today you are returning to the kitchen.' Barinov features one telling detail with Nagiyev: "vozvrashchayeshsya" means "are returning" (from "vozvrashchatsya"), giving the line its exact edge.

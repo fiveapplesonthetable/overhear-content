@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, guys, how well these new caps suit you!' Nagiyev favors a calm attitude during the exchange, putting "rebyata" ("the boys, the lads") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'You have such a strict, manly look now.' Nagiyev brings a serious direction at this moment, pairing "teper" ("now") with "strogiy" ("strict") to get the point across in plain spoken Russian.
-- 'Vitya, I came into the dining room with a lady, cook something to eat.' Nagiyev adopts a measured direction at once, building the phrase around "tam" ("there") and "zal" ("hall") for a crisp, natural delivery.
-- 'Good afternoon, Dmitry Vladimirovich! I reviewed your orders.' The inspector projects a brisk tone in front of Nagiyev, pairing "dobryy" ("good") with "den" ("day") to get the point across in plain spoken Russian.
-- 'You eat too much, I am reducing your discount.' The inspector presents a candid view straight away, combining "slishkom" ("too") and "mnogo" ("a lot") so the key meaning lands right away.
-- 'What are you doing? I am the face of this restaurant!' Nagiyev questions sharply as the beat lands, weaving "delayesh" ("are you doing") together with "litso" ("face") just the way native speakers do.
-- 'Precisely, you are the face of this restaurant, not its stomach.' The inspector projects a wry position at once, leaning on "litso" ("face") before closing the thought with "restorana" ("restaurant").
-- 'Andrey, he humiliated me right in front of my cooks!' Nagiyev holds a resolute bearing with Max, weaving "unizil" ("humiliated") together with "pryamo" ("right, just") just the way native speakers do.
-- 'Dima, the cooks have not been yours for a long time, and Sergey is right.' Max presents a playful tack as they talk, anchoring the Russian line on "povara" ("cook") and "uzhe" ("already, now") without extra filler.
-- 'You really do eat a lot lately.' Max strikes a lively direction at this moment, building the phrase around "posledneye" ("last, final") and "vremya" ("time") for a crisp, natural delivery.
-- 'Then let us do this: I will buy back this restaurant!' Nagiyev brings a direct view as they talk, anchoring the Russian line on "znachit" ("then, so") and "davay" ("let's") without extra filler.
-- 'No problem, Dima, pay the money and take it.' Max adopts a steady mood as the scene unfolds, pairing "vopros" ("question, matter") with "plati" ("to pay") to get the point across in plain spoken Russian.
+- 'Oh, guys, how well these new caps suit you!' Nagiyev underscores this key element in earnest: "rebyata" means "the boys, the lads", and it carries the main weight of what Nagiyev is saying.
+- 'You have such a strict, manly look now.' Nagiyev continues warmly on the spot, without trying to dress up how he really feels.
+- 'Vitya, I came into the dining room with a lady, cook something to eat.' Nagiyev picks one clear piece in earnest: "prigotov" means "prepare" (from "prigotovit"), giving the line its exact edge.
+- 'Good afternoon, Dmitry Vladimirovich! I reviewed your orders.' The inspector stresses one practical detail for Nagiyev: "prosmotrel" means "looked through" (from "prosmotret"), giving the line its exact edge.
+- 'You eat too much, I am reducing your discount.' The inspector follows up pointedly beside Max, keeping the focus on what actually matters here.
+- 'What are you doing? I am the face of this restaurant!' Nagiyev underscores one colorful element on cue: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'Precisely, you are the face of this restaurant, not its stomach.' The inspector states this line facing Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Andrey, he humiliated me right in front of my cooks!' Nagiyev proceeds frankly on the spot, bringing things back to earth after the buildup.
+- 'Dima, the cooks have not been yours for a long time, and Sergey is right.' Max reaches for one classic word on cue: "povara" means "cook" (from "povar"), giving the line its exact edge.
+- 'You really do eat a lot lately.' Max highlights this key word with Nagiyev: "posledneye" means "last, final" (from "posledniy"), giving the line its exact edge.
+- 'Then let us do this: I will buy back this restaurant!' Nagiyev continues honestly before the inspector, to clear the air between them once and for all.
+- 'No problem, Dima, pay the money and take it.' Max features this telling expression toward Nagiyev: "vopros" means "question, matter", and it carries the main weight of what Max is saying.

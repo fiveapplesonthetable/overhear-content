@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gena, will it be much longer? My arm has gone numb!' Barinov quizzes sharply to make the point, linking "gena" ("gene"), "skoro" ("soon"), and "tam" ("there") in one brisk exchange.
-- 'Surprise! Congratulations to our dear Chef on his wedding!' Senya establishes a direct manner in this beat, leaning on "syurpriz" ("surprise") before closing the thought with "pozdravlyayem" ("we congratulate").
-- 'Oh, it seems we had better run away from here quickly!' Fedya offers a clear tempo as they talk, pairing "kazhetsya" ("it seems, I think") with "luchshe" ("better") so the "-sya" ending carries the action.
-- 'Freeze right there! What on earth are you doing here?' Barinov queries steadily in their exchange, leaning on "stoyat" ("to stand") before closing the thought with "meste" ("place").
-- 'Chef, honestly, I did not see anything at all right now!' Senya brings a serious direction as they talk, combining the conversational booster "voobshche" ("in general, overall") with "chestno" ("honestly") to give the line its natural spoken rhythm.
-- 'We swear that we will not tell anyone anything!' Fedya strikes an honest note in their talk, joining "klyanyomsya" ("to swear") to "skazhem" ("we'll say") so every word pulls its weight.
-- 'We were told that you asked to open this room.' Senya brings a grounded tack at once, leaning on "skazali" ("told") before closing the thought with "poprosili" ("to ask, to request").
-- 'And you are in a good mood only rarely.' Fedya sustains a candid bearing in their talk, linking "khorosheye" ("lovely, good"), "nastroyeniye" ("mood"), and "byvayet" ("there can be") in one brisk exchange.
-- 'Either when Spartak won, or right before a drink!' Senya conveys an earnest tone across the room, linking "kogda" ("when"), "pobedil" ("won"), and "vypivkoy" ("drinks, drinking") in one brisk exchange.
-- 'Besides, you slyly winked at me this morning.' Fedya strikes a natural style without hesitation, anchoring the Russian line on "utrom" ("this morning") and "khitro" ("cleverly") without extra filler.
-- 'So we decided to throw you a fun bachelor party!' Senya picks a thoughtful bearing right away, anchoring the Russian line on "reshili" ("decided") and "ustroit" ("to arrange") without extra filler.
-- 'Fine, come in, just close the front door tightly!' Barinov establishes a firm view right away, building the phrase around "zakhodite" ("come in") and "tolko" ("only") for a crisp, natural delivery.
+- 'Gena, will it be much longer? My arm has gone numb!' Barinov centers one telling expression for Fedya: "zatekla" means "went numb" (from "zatech"), giving the line its exact edge.
+- 'Surprise! Congratulations to our dear Chef on his wedding!' Senya cuts in earnestly during the talk, watching Fedya's face to see how the news lands.
+- 'Oh, it seems we had better run away from here quickly!' Fedya weighs in briskly with a shrug, letting the remark speak for itself.
+- 'Freeze right there! What on earth are you doing here?' Barinov sharpens one sharp touch for Senya: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
+- 'Chef, honestly, I did not see anything at all right now!' Senya brings the comment without pause: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'We swear that we will not tell anyone anything!' Fedya replies briskly as they talk, shifting the whole mood of the room in a single beat.
+- 'We were told that you asked to open this room.' Senya points to this direct word right here: "poprosili" means "to ask, to request" (from "poprosit"), giving the line its exact edge.
+- 'And you are in a good mood only rarely.' Fedya frames the reply calmly now: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Either when Spartak won, or right before a drink!' Senya fires back right away facing Barinov, bringing things back to earth after the buildup.
+- 'Besides, you slyly winked at me this morning.' Fedya sharpens this clear piece for Senya: "podmignuli" means "wink" (from "podmignut"), giving the line its exact edge.
+- 'So we decided to throw you a fun bachelor party!' Senya reaches for this sharp term on cue: "malchishnik" means "bachelor party", and it carries the main weight of what Senya is saying.
+- 'Fine, come in, just close the front door tightly!' Barinov cuts in honestly with Senya, so Senya knows he is not just making small talk.

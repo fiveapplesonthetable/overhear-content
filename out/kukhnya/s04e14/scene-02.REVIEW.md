@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Happy birthday to you, dear Vitya!' Elena establishes an honest footing in this beat, combining "dnyom" ("day") and "rozhdeniya" ("of birth") so the key meaning lands right away.
-- 'I wish you strong health and prosperity.' Elena projects a steady tone at once, weaving "zhelayu" ("I wish") together with "krepkogo" ("strong") just the way native speakers do.
-- 'Thank you, dear, will you definitely be there tonight?' Barinov challenges bluntly without hesitation, joining "spasibo" ("thank you") to "dorogaya" ("expensive") so every word pulls its weight.
-- 'We will definitely come, Alisa is already getting very ready.' Elena sets an unhurried note during the exchange, pairing "obyazatelno" ("surely, without fail") with "pridyom" ("will come") to get the point across in plain spoken Russian.
-- 'I am waiting for you at eight o'clock at Arcobaleno.' Barinov strikes a frank approach straight away, using "zhdu" (from "zhdat", "I wait, expect") alongside "chasov" ("o'clock") to shape the meaning.
-- 'Wait, and what on earth is this?' Barinov quizzes lightly as the talk turns, combining "podozhdite" ("wait") and "yeshchyo" ("more, still") so the key meaning lands right away.
-- 'Tonight we have a charity buffet.' Lyova establishes a clear note in the scene, leaning on "u nas" ("by us, at our place") and "segodnya" ("today") the way natural Russian does.
-- 'Today we are saving Far Eastern leopards.' Lyova picks an earnest direction in the conversation, building the phrase around "segodnya" ("today") and "spasayem" ("to save, to rescue") for a crisp, natural delivery.
-- 'What leopards, I have a banquet after all!' Barinov keeps an emphatic position in front of Elena, leaning on "yeshchyo" ("more, still") before closing the thought with "leopardov" ("leopards").
-- 'I carefully checked the reservation book in the morning.' Lyova favors a brisk note in the room, joining "utrom" ("this morning") to "vnimatelno" ("carefully, attentively") so every word pulls its weight.
-- 'There was no banquet there, the hall is free.' Lyova displays a steady view in their talk, combining "bylo" ("was") and "tam" ("there") so the key meaning lands right away.
-- 'Damn, I forgot to write down my banquet!' Barinov keeps a thoughtful tone as the scene unfolds, joining "chyort" ("darn, heck") to "zabyl" ("forgot") so every word pulls its weight.
+- 'Happy birthday to you, dear Vitya!' Elena anchors this telling piece for Barinov: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
+- 'I wish you strong health and prosperity.' Elena jumps in bluntly without holding back, leaving no doubt about where she stands.
+- 'Thank you, dear, will you definitely be there tonight?' Barinov leans on one telling term on cue: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
+- 'We will definitely come, Alisa is already getting very ready.' Elena answers right away hearing Lyova, to clear the air between them once and for all.
+- 'I am waiting for you at eight o'clock at Arcobaleno.' Barinov replies sharply as things stand, letting the remark speak for itself.
+- 'Wait, and what on earth is this?' Barinov features this telling element with Lyova: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Tonight we have a charity buffet.' Lyova drops that point at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Today we are saving Far Eastern leopards.' Lyova holds firm frankly without any doubt, keeping the focus on what actually matters here.
+- 'What leopards, I have a banquet after all!' Barinov emphasizes one telling piece for Elena: "leopardov" means "leopards" (from "leopard"), giving the line its exact edge.
+- 'I carefully checked the reservation book in the morning.' Lyova speaks up evenly with a shrug, saying out loud what both of them already know.
+- 'There was no banquet there, the hall is free.' Lyova pushes back wryly to be clear, refusing to let the moment slip past.
+- 'Damn, I forgot to write down my banquet!' Barinov favors one clear piece in earnest: "chyort" means "darn, heck", and it carries the main weight of what Barinov is saying.

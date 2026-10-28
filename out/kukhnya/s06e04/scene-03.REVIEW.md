@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, we agreed specifically on today.' Lyova brings a warm position without hesitation, anchoring the Russian line on "dogovarivalis" ("had an agreement") and "segodnya" ("today") without extra filler.
-- 'Gulya, she is not going to eat you up.' Lyova picks a grounded note on the spot, weaving "syest" ("to eat") together with "gulya" ("Gulya") just the way native speakers do.
-- 'Yes, see you soon.' Lyova keeps a warm position in the scene, building the phrase around "vstrechi" ("meeting, next time") and "da" ("yes") for a crisp, natural delivery.
-- 'I love you very much too.' Lyova offers a calm course in the room, weaving "tozhe" ("too") together with "ochen" ("very much") just the way native speakers do.
-- 'Alright, bye, I am waiting for you.' Lyova adopts a measured tempo at this moment, combining "poka" ("bye") and "zhdu" ("I wait, expect") so the key meaning lands right away.
-- 'Oh, good morning!' The guest takes a lively footing at once, joining "dobroye" ("good") to "utro" ("morning") so every word pulls its weight.
-- 'You finally woke up, son.' The guest presents a serious tempo as the scene unfolds, joining "prosnulsya" ("wake up") to "nakonets" ("at last, finally") so every word pulls its weight.
-- 'Even though you have a day off, you could have helped your mom.' The guest maintains an unhurried approach in their talk, pairing "vykhodnoy" ("a day off") with "mog" ("can, to be able") to get the point across in plain spoken Russian.
-- 'I have already washed all the floors.' The guest picks an unhurried tack in front of Lyova, linking "uzhe" ("already, now"), "poly" ("floors"), and "vymyla" ("washed") in one brisk exchange.
-- 'Well and why did you do that, Mom?' Lyova queries boldly in front of the guest, leaning on "zachem" ("what for") before closing the thought with "mama" ("mum, mother").
-- 'I would have done everything myself later.' Lyova strikes a calm posture in the scene, anchoring the Russian line on "potom" ("then") and "sdelal" ("did") without extra filler.
-- 'Yes, with you everything is later.' The guest maintains a direct line beside Lyova, placing "potom" ("then") straight beside "da" ("yes") with no word for "to be" needed.
+- 'No, we agreed specifically on today.' Lyova continues frankly as things stand, making his position completely clear.
+- 'Gulya, she is not going to eat you up.' Lyova reaches for one key element with the guest: "syest" means "to eat", and it carries the main weight of what Lyova is saying.
+- 'Yes, see you soon.' Lyova lays out this point without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I love you very much too.' Lyova weighs in pointedly on the spot, without trying to dress up how he really feels.
+- 'Alright, bye, I am waiting for you.' Lyova colors one memorable detail right here: "poka" means "bye", and it carries the main weight of what Lyova is saying.
+- 'Oh, good morning!' The guest offers this update without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'You finally woke up, son.' The guest follows up evenly in this moment, keeping the focus on what actually matters here.
+- 'Even though you have a day off, you could have helped your mom.' The guest features one concrete element in reply: "vykhodnoy" means "a day off", and it carries the main weight of what the guest is saying.
+- 'I have already washed all the floors.' The guest holds firm boldly with a shrug, watching Lyova's face to see how the news lands.
+- 'Well and why did you do that, Mom?' Lyova prompts curiously to see how the guest will answer on the spot.
+- 'I would have done everything myself later.' Lyova leans on one concrete word at once: "sdelal" means "did" (from "sdelat"), giving the line its exact edge.
+- 'Yes, with you everything is later.' The guest shares that remark with warmth: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.

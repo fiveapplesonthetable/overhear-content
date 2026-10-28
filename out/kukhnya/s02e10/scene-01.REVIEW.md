@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Along which you walk.' Max establishes a steady note across the room, putting "idesh" ("are coming") alongside "po" ("according to") in a tight, everyday turn of phrase.
-- 'And leads someone else over there.' Barinov picks a lively manner beside Max, combining "tuda" ("there") and "kogo-to" ("someone") so the key meaning lands right away.
-- 'Everyone has their own path.' Max adopts a pointed posture without hesitation, leaning on "kazhdogo" ("everyone") before closing the thought with "put" ("path").
-- 'Who is that?' Barinov probes quietly in the room, pairing "kto" ("who") with "eto" ("this") to get the point across in plain spoken Russian.
-- 'I do not know.' Max adopts an emphatic manner beside Barinov, putting "znayu" ("know") alongside "ne" ("not") in a tight, everyday turn of phrase.
-- 'Probably the landlady.' Barinov favors a wry tone right away, putting "navernoye" ("probably") alongside "khozyayka" ("landlady") in a tight, everyday turn of phrase.
-- 'Why would you need to hide me?' Max wonders promptly without holding back, linking "pryatatsya" ("to hide"), "zachem" ("what for"), and "chto" ("what") in one brisk exchange.
-- 'Well, she does not like it when I bring men over.' Barinov shows a serious tempo toward Max, linking "lyubyat" ("love, like"), "kogda" ("when"), and "muzhikov" ("men, guys") in one brisk exchange.
-- 'You bring men over?' Max asks firmly at this point, weaving "muzhikov" ("men, guys") together with "vodish" ("are driving") just the way native speakers do.
-- 'Did something happen?' Barinov quizzes openly to make the point, combining "sluchilos" ("happened") and "chto-to" ("somehow") so the key meaning lands right away.
-- 'Here is what happened.' Max sets an earnest manner without hesitation, anchoring the Russian line on "sluchilos" ("happened") and "vot" ("there, here") without extra filler.
-- 'And by the way, I just redid the renovations.' Barinov establishes a steady attitude at this moment, combining "prochim" ("other") and "tolko" ("only") so the key meaning lands right away.
-- 'A year ago.' Max presents an emphatic angle with Barinov, weaving "god" ("year") together with "nazad" ("ago") just the way native speakers do.
+- 'Along which you walk.' Max reaches for one practical piece right here: "idesh" means "are coming" (from "idti"), giving the line its exact edge.
+- 'And leads someone else over there.' Barinov brings that remark at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Everyone has their own path.' Max reacts sharply with a shrug, steering the talk right where he wants it.
+- 'Who is that?' Barinov hands over the comeback with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I do not know.' Max states this statement before Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Probably the landlady.' Barinov speaks up earnestly beside Max, testing Max's reaction in the middle of the exchange.
+- 'Why would you need to hide me?' Max centers this vivid word for Barinov: "pryatatsya" means "to hide", and it carries the main weight of what Max is saying.
+- 'Well, she does not like it when I bring men over.' Barinov steps in frankly before Max, before Max can change the subject.
+- 'You bring men over?' Max probes bluntly if there is more going on behind the scenes.
+- 'Did something happen?' Barinov features one pointed expression in reply: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'Here is what happened.' Max makes this answer for Barinov: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'And by the way, I just redid the renovations.' Barinov cuts in boldly as things stand, shifting the whole mood of the room in a single beat.
+- 'A year ago.' Max centers one concrete choice in earnest: "nazad" means "ago", and it carries the main weight of what Max is saying.

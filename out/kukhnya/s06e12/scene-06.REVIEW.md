@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you suggesting I get married because of this discount?' Denis challenges wryly at this point, using "predlagayesh" (from "predlagat", "are suggesting") alongside "skidki" ("discount") to shape the meaning.
-- 'No, it is just that Nastya and I have our anniversary tomorrow.' Kostya picks a measured course in the room, putting "prosto" ("just") alongside "zavtra" ("tomorrow") in a tight, everyday turn of phrase.
-- 'And I am just thinking about what to give her.' Kostya shows a clear stance for Denis, combining "kak" ("how") and "raz" ("time, once") so the key meaning lands right away.
-- 'Look, here is this beautiful ring for forty thousand.' Kostya strikes a resolute approach at once, using "smotri" (from "smotret", "look") alongside "krasivoye" ("beautiful") to shape the meaning.
-- 'With the discount it will be twenty thousand, I am taking it.' Kostya shows an emphatic style straight away, linking "skidkoy" ("discount"), "budet" ("will be"), and "tysyach" ("thousand") in one brisk exchange.
-- 'More precisely, you are buying it, since the discount is yours.' Kostya takes a sharp note in the scene, using "tochneye" (from "tochno", "definitely") alongside "beryosh" ("do you take") to shape the meaning.
-- 'Alright, deal, I will stop by there this evening.' Denis keeps a grounded tempo in the conversation, putting "dogovorilis" ("agreed, deal") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'Mom, I brought my things, forgive me for the quarrel.' Lyova adopts a warm manner for Kostya, anchoring the Russian line on "mama" ("mum, mother") and "prinyos" ("brought") without extra filler.
-- 'How good it is that you are home again, son.' Kostya establishes a pointed angle in this beat, joining "kak" ("how") to "khorosho" ("good, fine") so every word pulls its weight.
-- 'Lyova, wait, where are you heading off to in the evening?' Kostya quizzes frankly without a pause, anchoring the Russian line on "podozhdi" ("wait") and "kuda" ("where to") without extra filler.
-- 'Mom, I will just quickly go take out the trash.' Lyova projects a clear manner straight away, anchoring the Russian line on "mama" ("mum, mother") and "tolko" ("only") without extra filler.
-- 'Taking out trash in the evening is a bad omen, take it out tomorrow!' Kostya displays a sharp tempo on the spot, combining "vecherom" ("in the evening") and "musor" ("rubbish") so the key meaning lands right away.
+- 'Are you suggesting I get married because of this discount?' Denis tests plainly while looking straight at Kostya here.
+- 'No, it is just that Nastya and I have our anniversary tomorrow.' Listen to how Kostya speaks to Lyova on cue — the Russian word "godovshchina" ("anniversary") gives the whole sentence its punch.
+- 'And I am just thinking about what to give her.' Kostya steps in warmly with a sigh, shifting the whole mood of the room in a single beat.
+- 'Look, here is this beautiful ring for forty thousand.' Kostya replies sharply across the room, without trying to dress up how he really feels.
+- 'With the discount it will be twenty thousand, I am taking it.' Kostya frames this key expression on cue: "skidkoy" means "discount" (from "skidka"), giving the line its exact edge.
+- 'More precisely, you are buying it, since the discount is yours.' Kostya focuses on one colorful element at once: "tochneye" means "definitely" (from "tochno"), giving the line its exact edge.
+- 'Alright, deal, I will stop by there this evening.' Denis counters bluntly without holding back, watching Kostya's face to see how the news lands.
+- 'Mom, I brought my things, forgive me for the quarrel.' Lyova colors one telling word for Kostya: "veshchi" means "things" (from "veshch"), giving the line its exact edge.
+- 'How good it is that you are home again, son.' Kostya makes this point on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Lyova, wait, where are you heading off to in the evening?' Kostya asks frankly what Lyova is actually getting at here.
+- 'Mom, I will just quickly go take out the trash.' Lyova favors this sharp touch right here: "musor" means "rubbish", and it carries the main weight of what Lyova is saying.
+- 'Taking out trash in the evening is a bad omen, take it out tomorrow!' Kostya pushes back plainly with a smile, making his position completely clear.

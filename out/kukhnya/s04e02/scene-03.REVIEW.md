@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And how long are you visiting us for?' Vika prompts promptly to Denis here, linking "nadolgo" ("for long"), "ty" ("you"), and "nam" ("us") in one brisk exchange.
-- 'To try myself in something different.' Denis favors a calm bearing as the scene unfolds, pairing "poprobovat" ("to taste") with "chyom-to" ("different") to get the point across in plain spoken Russian.
-- 'Besides, there are no prospects in Voronezh.' Denis presents an honest view in front of Max, leaning on "perspektiv" ("prospects, future") before closing the thought with "tomu" ("that").
-- 'I have outgrown that city.' Denis brings a wry tack as they talk, building the phrase around "vyros" ("grew up") and "goroda" ("of the town") for a crisp, natural delivery.
-- 'Until I find an apartment.' Denis takes an emphatic manner as they talk, building the phrase around "poka" ("bye") and "kvartiru" ("flat") for a crisp, natural delivery.
-- 'Of course, brother.' Max takes a candid attitude as they talk, leaning on "konechno" ("of course") before closing the thought with "brat" ("brother").
-- 'Vika and I are all for it.' Max establishes a measured mood in this beat, pairing "tolko" ("only") with "my" ("we") to get the point across in plain spoken Russian.
-- 'And why wasn't he at the wedding?' Vika probes earnestly in the scene, linking "pochemu" ("why"), "bylo" ("was"), and "svadbe" ("wedding") in one brisk exchange.
-- 'Denis is my half-brother.' Max holds a brisk line during the exchange, building the phrase around "svodnyy" ("half-brother") and "brat" ("brother") for a crisp, natural delivery.
-- 'We have the same father and different mothers.' Max adopts an emphatic tack across the room, combining "otets" ("father") and "raznyye" ("various, different") so the key meaning lands right away.
-- 'My mother is not very fond of him.' Max shares a brisk note during the exchange, placing "mama" ("mum, mother") straight beside "nedolyublivayet" ("fond") with no word for "to be" needed.
-- 'I understand her completely.' Vika sustains a candid tone as the scene unfolds, building the phrase around "ponimayu" ("understand") and "ya" ("I") for a crisp, natural delivery.
+- 'And how long are you visiting us for?' Vika tests calmly why things suddenly took this turn between them.
+- 'To try myself in something different.' Denis emphasizes one sharp piece on cue: "poprobovat" means "to taste", and it carries the main weight of what Denis is saying.
+- 'Besides, there are no prospects in Voronezh.' Denis drops the reply beside Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I have outgrown that city.' Denis continues briskly around Vika, letting the remark speak for itself.
+- 'Until I find an apartment.' Denis points to one sharp touch with Max: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'Of course, brother.' Max directs this statement with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Vika and I are all for it.' Max cuts in pointedly without any doubt, before Denis can change the subject.
+- 'And why wasn't he at the wedding?' Vika uses this sharp choice at once: "svadbe" means "wedding" (from "svadba"), giving the line its exact edge.
+- 'Denis is my half-brother.' Max makes this warning in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We have the same father and different mothers.' Max reacts earnestly in their talk, saying out loud what both of them already know.
+- 'My mother is not very fond of him.' Max features this telling piece in reply: "nedolyublivayet" means "fond", and it carries the main weight of what Max is saying.
+- 'I understand her completely.' Vika phrases this answer with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

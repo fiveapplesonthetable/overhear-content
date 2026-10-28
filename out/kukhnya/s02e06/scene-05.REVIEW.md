@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, go on, get to work.' Barinov chooses a candid rhythm across the room, anchoring the Russian line on "khorosho" ("good, fine") and "idi" ("go") without extra filler.
-- 'Thank you, Chef.' Fedya establishes an honest bearing in this beat, pairing "spasibo" ("thank you") with "shef" ("Chef") to get the point across in plain spoken Russian.
-- 'Forgive me for earlier.' Barinov conveys an honest direction beside Fedya, weaving "izvini" ("sorry, excuse me") together with "ty" ("you") just the way native speakers do.
-- 'It turned out to be a dumb joke.' Fedya picks a grounded rhythm as they talk, linking "tupaya" ("stupid, obtuse"), "shutka" ("joke, prank"), and "poluchilas" ("turned out") in one brisk exchange.
-- 'Well, forgive me too if anything was wrong.' Barinov maintains a serious rhythm straight away, anchoring the Russian line on "tozhe" ("too") and "izvini" ("sorry, excuse me") without extra filler.
-- 'Why did you call me over to you?' Fedya checks evenly as they speak, joining "zachem" ("what for") to "pozval" ("invited") so every word pulls its weight.
-- 'And why does this always happen on my shift?' Barinov quizzes decisively from the start, linking "pochemu" ("why"), "opyat" ("again"), and "proiskhodit" ("is going on") in one brisk exchange.
-- 'Wait, what is wrong with him?' Fedya questions decisively in this moment, anchoring the Russian line on "nu" ("oh, come on") and "chto" ("what") without extra filler.
-- 'Spartak lost again, when will they ever...' Barinov keeps a resolute posture in their talk, weaving "opyat" ("again") together with "proigral" ("lost") just the way native speakers do.
-- 'Learn how to play football.' Fedya establishes an earnest mood without hesitation, weaving "igrat" ("to play") together with "nauchitsya" ("to learn") just the way native speakers do.
-- 'Why am I surrounded exclusively by invalids?' Barinov presses directly without hesitation, putting "pochemu" ("why") alongside "okruzhayut" ("to surround") in a tight, everyday turn of phrase.
-- 'You say your beard is lucky, huh!' Fedya keeps a clear line beside Barinov, building the phrase around "schastlivyy" ("lucky") and "govorish" ("you say") for a crisp, natural delivery.
-- 'It does not help you at all!' Barinov chooses a playful course straight away, combining "sovsem" ("at all") and "pomogayet" ("helps") so the key meaning lands right away.
+- 'All right, go on, get to work.' Barinov makes this point before Fedya: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Thank you, Chef.' Fedya cuts in openly to be clear, letting the remark speak for itself.
+- 'Forgive me for earlier.' Barinov sharpens this telling element with Fedya: "izvini" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'It turned out to be a dumb joke.' Fedya gives this point without fuss: the "-sya" ending on "poluchilas" ("turned out") turns the action inward or makes it happen between people naturally.
+- 'Well, forgive me too if anything was wrong.' Barinov chimes in lightly on the spot, watching Fedya's face to see how the news lands.
+- 'Why did you call me over to you?' Fedya underscores one clear word for Barinov: "pozval" means "invited" (from "pozvat"), giving the line its exact edge.
+- 'And why does this always happen on my shift?' Barinov hands over the reaction to Fedya: putting the question word "pochemu" right at the front of the line lets Fedya hear the point of the question on the very first beat.
+- 'Wait, what is wrong with him?' Fedya checks briskly where this conversation is heading next.
+- 'Spartak lost again, when will they ever...' Barinov leans on this clear choice at once: "proigral" means "lost" (from "proigrat"), giving the line its exact edge.
+- 'Learn how to play football.' Fedya voices that point with warmth: the "-sya" ending on "nauchitsya" ("to learn") turns the action inward or makes it happen between people naturally.
+- 'Why am I surrounded exclusively by invalids?' Barinov checks deadpan what Fedya is actually getting at here.
+- 'You say your beard is lucky, huh!' Fedya favors one sharp term with Barinov: "schastlivyy" means "lucky", and it carries the main weight of what Fedya is saying.
+- 'It does not help you at all!' Barinov shares the thought calmly now: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is happening?' Vika prompts frankly from the start, anchoring the Russian line on "proiskhodit" ("is going on") and "chto" ("what") without extra filler.
-- 'Vika, do not be nervous.' Max shares a playful angle toward Vika, putting "nervnichay" ("be nervous") alongside "vik" ("Vika") in a tight, everyday turn of phrase.
-- 'We caught the hypnotist.' Max adopts a pointed approach in this beat, pairing "vzyali" ("took, arrested") with "gipnotizyora" ("hypnotist") to get the point across in plain spoken Russian.
-- 'We are interrogating him right now. Here are his things.' Max presents a warm line in their talk, pairing "seychas" ("now") with "doprashivayem" ("interrogate") so the "-sya" ending carries the action.
-- 'I told you, do not meddle in what is none of your business!' Vika shares a thoughtful posture as they talk, putting "skazala" ("told") alongside "lez" ("poke nose, meddle") in a tight, everyday turn of phrase.
-- 'This is an inspector from the commission!' Vika conveys a measured tempo beside Max, combining "inspektor" ("inspector") and "komissii" ("commission") so the key meaning lands right away.
-- 'Maxim, you are an exceptional person!' Vika displays a sharp angle for Kostya, combining "isklyuchitelnyy" ("exceptional") and "chelovek" ("a man, a person") so the key meaning lands right away.
-- 'Kostyan, it looks like we grabbed the wrong guy.' Max shares a brisk note in this beat, weaving "pokhodu" ("apparently") together with "vzyali" ("took, arrested") just the way native speakers do.
-- 'What should we do now?' Kostya challenges directly as they speak, weaving "teper" ("now") together with "delat" ("do") just the way native speakers do.
-- 'Untie him!' Max chooses a serious course for Vika, combining "razvyazyvay" ("untie") and "yego" ("him") so the key meaning lands right away.
-- 'Why me?' Kostya tests candidly right away, pairing "pochemu" ("why") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'Untie him faster!' Max keeps a measured approach as they talk, joining "bystreye" ("faster") to "razvyazyvay" ("untie") so every word pulls its weight.
+- 'What is happening?' Vika quizzes promptly to see how Kostya will answer on the spot.
+- 'Vika, do not be nervous.' Max colors one familiar detail toward Vika: "nervnichay" means "be nervous" (from "nervnichat"), giving the line its exact edge.
+- 'We caught the hypnotist.' Max voices that thought without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'We are interrogating him right now. Here are his things.' Max follows up openly in this moment, shifting the whole mood of the room in a single beat.
+- 'I told you, do not meddle in what is none of your business!' Vika colors one memorable choice for Kostya: "skazala" means "told" (from "skazat"), giving the line its exact edge.
+- 'This is an inspector from the commission!' Vika directs the comment calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Maxim, you are an exceptional person!' Vika pushes back calmly without any doubt, testing Kostya's reaction in the middle of the exchange.
+- 'Kostyan, it looks like we grabbed the wrong guy.' Max highlights this direct touch in earnest: "pokhodu" means "apparently", and it carries the main weight of what Max is saying.
+- 'What should we do now?' Kostya makes the remark around Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Untie him!' Max responds decisively with a smile, so Vika knows he is not just making small talk.
+- 'Why me?' Kostya phrases the reply calmly now: putting the question word "pochemu" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Untie him faster!' Max offers the reply briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

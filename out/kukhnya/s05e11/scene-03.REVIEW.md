@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you be more careful?' Eleonora questions openly to Barinov here, joining "mozhno" ("may, can") to "poakkuratneye" ("more carefully") so every word pulls its weight.
-- 'What do you mean forgive me? Are you going to wash my trousers?' Eleonora probes warmly for Denis's benefit, putting "prostite" ("excuse me") alongside "bryuki" ("trousers, pants") in a tight, everyday turn of phrase.
-- 'Well, if you want, I will wash them. Take them off!' Denis picks a calm angle in this beat, pairing "khotite" ("want") with "postirayu" ("will wash") to get the point across in plain spoken Russian.
-- 'Hello, I would like to work in your restaurant.' Denis favors a playful view on the spot, linking "zdravstvuyte" ("hello"), "khotel" ("wanted"), and "rabotat" ("to work") in one brisk exchange.
-- 'Here is my resume.' Denis brings a calm style for Barinov, placing "rezyume" ("résumé") straight beside "vot" ("there, here") with no word for "to be" needed.
-- 'I am very sorry, but you do not suit us.' Eleonora offers a sharp tone in the scene, combining "ochen" ("very much") and "zhal" ("it is a pity") so the key meaning lands right away.
-- 'Only I decide who works in my kitchen!' Barinov shows a candid tack as they talk, joining "tolko" ("only") to "reshayu" ("decide") so every word pulls its weight.
-- 'The guy's resume is decent.' Barinov shows a pointed stance during the exchange, weaving "rezyume" ("résumé") together with "parnya" ("boyfriend") just the way native speakers do.
-- 'You did not even read it! He will not work here.' Eleonora shares an honest tempo in this beat, combining "chital" ("read") and "budet" ("will be") so the key meaning lands right away.
-- 'You are hired! Congratulations, let us go.' Barinov chooses a steady view straight away, leaning on "prinyat" ("accepted") before closing the thought with "pozdravlyayu" ("congratulations").
-- 'Fine, then let him cook gratin and quail for me.' Eleonora strikes a calm note beside Barinov, leaning on "togda" ("back then") before closing the thought with "prigotovit" ("makes, cooks").
-- 'And bring it to me personally! We will see what kind of cook he is.' Eleonora establishes a warm style in this beat, leaning on "lichno" ("personally") before closing the thought with "prinesyot" ("will bring").
+- 'Could you be more careful?' Eleonora presses promptly what Barinov is actually getting at here.
+- 'What do you mean forgive me? Are you going to wash my trousers?' Eleonora reaches for one familiar detail for Denis: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
+- 'Well, if you want, I will wash them. Take them off!' Denis phrases the remark with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Hello, I would like to work in your restaurant.' Denis speaks up quietly without a pause, so Eleonora knows he is not just making small talk.
+- 'Here is my resume.' Denis reaches for this sharp word right here: "rezyume" means "résumé", and it carries the main weight of what Denis is saying.
+- 'I am very sorry, but you do not suit us.' Eleonora directs this answer frankly here: the single Russian word "zhal" ("it is a pity") sets up the whole statement without needing a separate word for "it is".
+- 'Only I decide who works in my kitchen!' Barinov steps in honestly as things stand, without trying to dress up how he really feels.
+- 'The guy's resume is decent.' Barinov grounds this telling term in earnest: "prilichnoye" means "decent, respectable" (from "prilichnyy"), giving the line its exact edge.
+- 'You did not even read it! He will not work here.' Eleonora colors one practical choice on cue: "rabotat" means "to work", and it carries the main weight of what Eleonora is saying.
+- 'You are hired! Congratulations, let us go.' Barinov responds evenly to settle things, making his position completely clear.
+- 'Fine, then let him cook gratin and quail for me.' Eleonora favors one classic detail right here: "perepyolku" means "quail" (from "perepyolka"), giving the line its exact edge.
+- 'And bring it to me personally! We will see what kind of cook he is.' Eleonora cuts in plainly watching Denis, shifting the whole mood of the room in a single beat.

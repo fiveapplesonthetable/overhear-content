@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The hotel is geared toward well-off people.' Max establishes a pointed note with Mikhail, weaving "otel" ("hotel") together with "oriyentirovan" ("oriented, geared toward") just the way native speakers do.
-- 'Only a wealthy person will book a room with us.' Max offers a brisk style across the room, leaning on "tolko" ("only") before closing the thought with "obespechennyy" ("wealthy, well-off").
-- 'A truly prosperous guest will treat himself to a suite.' Max holds a wry position for Mikhail, leaning on "sovsem" ("at all") before closing the thought with "zazhitochnyy" ("prosperous").
-- 'But there are very wealthy guests.' Max maintains a thoughtful style in front of Mikhail, anchoring the Russian line on "byvayut" ("occur, happen") and "ochen" ("very much") without extra filler.
-- 'They can rent the entire hotel.' Max chooses a frank tone in the scene, combining "mogut" ("can") and "snyat" ("to take down") so the key meaning lands right away.
-- 'Excuse me, this is our electrician.' Mikhail establishes a steady angle without hesitation, putting "izvinite" ("sorry, excuse me") alongside "elektrik" ("electrician") in a tight, everyday turn of phrase.
-- 'And this is that very wealthy guest.' Max establishes a steady approach on the spot, joining "samyy" ("the most") to "sostoyatelnyy" ("wealthy, affluent") so every word pulls its weight.
-- 'Rumors arrive at the hotel much earlier.' Max sustains an easygoing bearing across the room, linking "gorazdo" ("much"), "ranshe" ("earlier, previously"), and "otel" ("hotel") in one brisk exchange.
-- 'Last year this sheikh also visited Moscow.' Max brings a thoughtful style straight away, anchoring the Russian line on "proshlom" ("last, past") and "godu" ("year") without extra filler.
-- 'All staff members must work perfectly.' Mikhail maintains a grounded stance toward Max, putting "sotrudniki" ("employees") alongside "dolzhny" ("must, should") in a tight, everyday turn of phrase.
-- 'People tell amazing stories about him.' Max chooses a lively rhythm as the scene unfolds, pairing "rasskazyvayut" ("to tell, to talk about") with "udivitelnyye" ("surprising") to get the point across in plain spoken Russian.
-- 'Welcome to our hotel!' Mikhail sets a sharp bearing in front of Max, pairing "dobro" ("good, kindness") with "pozhalovat" ("to welcome") to get the point across in plain spoken Russian.
+- 'The hotel is geared toward well-off people.' Max points to this clear piece toward Mikhail: "oriyentirovan" means "oriented, geared toward" (from "oriyentirovat"), giving the line its exact edge.
+- 'Only a wealthy person will book a room with us.' Max sends this warning at once: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'A truly prosperous guest will treat himself to a suite.' Max proceeds evenly to settle things, watching Mikhail's face to see how the news lands.
+- 'But there are very wealthy guests.' Max frames one key touch in reply: "sostoyatelnyye" means "wealthy, affluent" (from "sostoyatelnyy"), giving the line its exact edge.
+- 'They can rent the entire hotel.' Max responds pointedly without a pause, keeping the focus on what actually matters here.
+- 'Excuse me, this is our electrician.' Mikhail cuts in wryly on the spot, to clear the air between them once and for all.
+- 'And this is that very wealthy guest.' Max centers this telling word in earnest: "sostoyatelnyy" means "wealthy, affluent", and it carries the main weight of what Max is saying.
+- 'Rumors arrive at the hotel much earlier.' Max stands firm frankly with Mikhail, to clear the air between them once and for all.
+- 'Last year this sheikh also visited Moscow.' Max continues briskly without any doubt, saying out loud what both of them already know.
+- 'All staff members must work perfectly.' Mikhail highlights this clear choice with Max: "sotrudniki" means "employees" (from "sotrudnik"), giving the line its exact edge.
+- 'People tell amazing stories about him.' Max responds frankly without any doubt, testing Mikhail's reaction in the middle of the exchange.
+- 'Welcome to our hotel!' Mikhail answers plainly with a sigh, so Max knows he is not just making small talk.

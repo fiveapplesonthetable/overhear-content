@@ -39,7 +39,7 @@ WALK = [
     (6, None, "'They gladly abandoned their old chef.' He takes their compliance with the guest chef as a deeply personal betrayal."),
     (7, None, "'We all sincerely love only you, chef.' Lyova declares their unwavering devotion, hoping to pull him out of his misery."),
     (8, None, "'Only Arkasha listens to me attentively and keeps quiet.' Barinov praises his goldfish for never talking back or following other orders."),
-    (9, None, "'Let' Lyova tries a practical approach, hoping a culinary emergency will spark some action."),
+    (9, None, "'Let's go to the kitchen before the soup gets cold.' Lyova tries a practical approach, hoping a culinary emergency will spark some action."),
     (10, None, "'I will not go anywhere out of this office.' Barinov stubbornly plants himself in his chair, refusing to step foot outside."),
     (11, None, "'Then I will bring you some hot tea here.' The loyal sous-chef gives up and offers to serve him right there."),
 ]

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, why did you not tell me about this right away?' Kostya checks honestly at this point, weaving "srazu" ("at once") together with "skazal" ("said") just the way native speakers do.
-- 'I simply did not want to say anything in advance.' Max keeps a lively note at once, weaving "prosto" ("just") together with "zaraneye" ("in advance") just the way native speakers do.
-- 'Alright, it is still very cool, my friend!' Kostya takes an honest angle as the scene unfolds, combining "ravno" ("the same") and "ochen" ("very much") so the key meaning lands right away.
-- 'Guys, let us drink to my colleague Maxim!' Kostya favors a natural direction right away, leaning on "rebyata" ("the boys, the lads") before closing the thought with "davayte" ("let's").
-- 'I do not understand, who gave the order to drink?' Barinov challenges plainly for Kostya's benefit, combining "ponyal" ("understood") and "daval" ("gave") so the key meaning lands right away.
-- 'Chef, we are seeing our Max off.' Kostya shows an unhurried line in their talk, linking "provozhayem" ("see off"), "shef" ("Chef"), and "tak" ("so") in one brisk exchange.
-- 'What, did he die like that horse?' Barinov presses candidly to make the point, leaning on "umer" ("died") before closing the thought with "kak" ("how").
-- 'No, he quit and will now work at another restaurant.' Kostya shows a frank course with Max, combining "uvolilsya" ("quit, resigned") and "teper" ("now") so the key meaning lands right away.
-- 'Well, if you are leaving, then get your final settlement!' Barinov takes a warm rhythm on the spot, using "ukhodish" (from "ukhodit", "are leaving") alongside "togda" ("back then") to shape the meaning.
-- 'What an ungrateful person you are after all!' Barinov takes a serious manner during the exchange, leaning on "neblagodarnyy" ("ungrateful") before closing the thought with "chelovek" ("a man, a person").
-- 'How I sensed it right away, get out of here!' Barinov presents a firm manner in the scene, joining "kak" ("how") to "srazu" ("at once") so every word pulls its weight.
-- 'I am Maxim, and did you bring me the ticket?' Max probes wryly without holding back, joining "bilet" ("ticket") to "privezli" ("delivered, brought") so every word pulls its weight.
+- 'Max, why did you not tell me about this right away?' Kostya makes that answer with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'I simply did not want to say anything in advance.' Max counters earnestly watching Kostya, bringing things back to earth after the buildup.
+- 'Alright, it is still very cool, my friend!' Kostya uses one pointed piece at once: "drug" means "friend", and it carries the main weight of what Kostya is saying.
+- 'Guys, let us drink to my colleague Maxim!' Kostya delivers this warning without fuss: the word "davayte" is the polite or group version of "let's", inviting Max into the plan right away.
+- 'I do not understand, who gave the order to drink?' Barinov inquires candidly before Kostya can change the subject.
+- 'Chef, we are seeing our Max off.' Kostya picks this clear piece at once: "provozhayem" means "see off" (from "provozhat"), giving the line its exact edge.
+- 'What, did he die like that horse?' Barinov phrases that reply beside Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'No, he quit and will now work at another restaurant.' Kostya steps in briskly with Max, without trying to dress up how he really feels.
+- 'Well, if you are leaving, then get your final settlement!' Barinov picks one practical choice for Kostya: "raschyot" means "final pay, calculation", and it carries the main weight of what Barinov is saying.
+- 'What an ungrateful person you are after all!' Barinov hands over that thought to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'How I sensed it right away, get out of here!' Barinov follows up steadily to be clear, grounding the moment in plain reality.
+- 'I am Maxim, and did you bring me the ticket?' Max stresses this clear word in reply: "privezli" means "delivered, brought" (from "privezti"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who peels like that, rookie?' Max probes briskly without holding back, weaving "chistit" ("to peel, clean") together with "salaga" ("rookie") just the way native speakers do.
-- 'I think everyone has already guessed.' Denis strikes a frank bearing in front of Max, anchoring the Russian line on "kazhetsya" ("it seems, I think") and "uzhe" ("already, now") without extra filler.
-- 'That I am not a cook at all.' Denis displays an easygoing stance as the scene unfolds, joining "voobshche" ("at all") to "sovsem" ("at all") so every word pulls its weight.
-- 'As long as you are in the storage room, nobody will figure anything out.' Max strikes a direct angle for Lyova, building the phrase around "poka" ("bye") and "sklade" ("warehouse") for a crisp, natural delivery.
-- 'And you can stay a prep cook for half a year.' Max favors a frank style at this moment, building the phrase around "zagotovshchikom" ("prep") and "mozhno" ("may, can") for a crisp, natural delivery.
-- 'Trust my experience.' Max favors an honest direction in the conversation, using "pover" (from "poverit", "believe") alongside "opytu" ("experience") to shape the meaning.
-- 'Are you going to peel potatoes for him too, huh?' Lyova challenges openly without a pause, building the phrase around "kartoshku" ("potatoes") and "chistit" ("to peel") for a crisp, natural delivery.
-- 'Wrap up the master class.' Lyova holds an honest tack with Max, joining "zakanchivay" ("to finish, to conclude") to "master-klass" ("masterclass") so every word pulls its weight.
-- 'Nagiyev is gathering the entire staff.' Lyova sustains a candid manner as the scene unfolds, weaving "personal" ("staff") together with "sobirayet" ("to collect") just the way native speakers do.
-- 'Let's go quickly.' Denis establishes a playful posture as they talk, joining "poydyom" ("let's go") to "skoreye" ("quickly, right away") so every word pulls its weight.
-- 'We are coming right now, Lyova.' Max chooses an honest stance in this beat, anchoring the Russian line on "seychas" ("now") and "idyom" ("are going") without extra filler.
-- 'Come on, hurry up.' Lyova shows a direct direction on the spot, joining "bystreye" ("faster") to "davayte" ("let's") so every word pulls its weight.
+- 'Who peels like that, rookie?' Max offers that line right away: putting the question word "kto" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'I think everyone has already guessed.' Denis replies steadily watching Max, before Max can change the subject.
+- 'That I am not a cook at all.' Denis frames one sharp piece right here: "voobshche" means "at all", and it carries the main weight of what Denis is saying.
+- 'As long as you are in the storage room, nobody will figure anything out.' Max aims that thought around Lyova: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'And you can stay a prep cook for half a year.' Max speaks up frankly with a shrug, without trying to dress up how he really feels.
+- 'Trust my experience.' Max stresses this sharp detail toward Lyova: "opytu" means "experience" (from "opyt"), giving the line its exact edge.
+- 'Are you going to peel potatoes for him too, huh?' Lyova frames that thought beside Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'Wrap up the master class.' Lyova proceeds evenly as things stand, leaving no doubt about where he stands.
+- 'Nagiyev is gathering the entire staff.' Lyova grounds one loaded word with Denis: "personal" means "staff", and it carries the main weight of what Lyova is saying.
+- 'Let's go quickly.' Denis hands over the comment with warmth: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'We are coming right now, Lyova.' Max responds at once with a nod, so Denis knows he is not just making small talk.
+- 'Come on, hurry up.' Lyova grounds one direct word on cue: "bystreye" means "faster" (from "bystro"), giving the line its exact edge.

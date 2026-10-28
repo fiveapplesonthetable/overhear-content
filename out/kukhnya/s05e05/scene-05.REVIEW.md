@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If you do not want to, I will not force you.' Barinov conveys an easygoing tone during the exchange, weaving "khochesh" ("do you want") together with "budu" ("will be") just the way native speakers do.
-- 'I know how you feel about modern art.' Barinov strikes a frank tempo as the scene unfolds, building the phrase around "znayu" ("know") and "kak" ("how") for a crisp, natural delivery.
-- 'Alright, it is settled, we are going.' Barinov adopts a frank bearing in front of Mikhail, putting "resheno" ("decided, settled") alongside "idyom" ("are going") in a tight, everyday turn of phrase.
-- 'Until tomorrow, kisses.' Barinov takes a firm view with Mikhail, pairing "zavtra" ("tomorrow") with "tseluyu" ("kisses") to get the point across in plain spoken Russian.
-- 'Where are you planning to go tomorrow?' Mikhail prompts sharply toward Barinov here, linking "kuda" ("where to"), "zavtra" ("tomorrow"), and "sobralsya" ("got ready, planned") in one brisk exchange.
-- 'Actually, the Finnish ambassador is having lunch with us.' Mikhail shows a pointed angle across the room, combining "voobshche-to" ("actually") and "obedayet" ("is dining") so the key meaning lands right away.
-- 'You do not say?' Barinov wonders candidly in front of Mikhail, combining "da" ("yes") and "ty" ("you") so the key meaning lands right away.
-- 'And I just bought myself new shoes.' Barinov holds a direct footing in this beat, building the phrase around "tufli" ("shoes") and "novyye" ("new") for a crisp, natural delivery.
-- 'What does that have to do with this?' Mikhail checks briskly right away, joining "zdes" ("here") to "eto" ("this") so every word pulls its weight.
-- 'We are exchanging curious facts, after all.' Barinov maintains a serious view on the spot, putting "obmenivayemsya" ("are exchanging") alongside "lyubopytnymi" ("curious, interesting") in a tight, everyday turn of phrase.
-- 'My team will handle the ambassador without me.' Barinov brings a brisk footing in their talk, putting "komanda" ("team") alongside "spravitsya" ("to manage, to cope") in a tight, everyday turn of phrase.
-- 'Even a Finnish one.' Barinov sets an easygoing line as the scene unfolds, joining "finskim" ("Finnish") to "dazhe" ("even") so every word pulls its weight.
+- 'If you do not want to, I will not force you.' Barinov sharpens one loaded term in reply: "zastavlyat" means "to force, make", and it carries the main weight of what Barinov is saying.
+- 'I know how you feel about modern art.' Barinov replies firmly toward Mikhail, leaving no doubt about where he stands.
+- 'Alright, it is settled, we are going.' Barinov colors this direct word in earnest: "resheno" means "decided, settled" (from "reshit"), giving the line its exact edge.
+- 'Until tomorrow, kisses.' Barinov puts this line before Mikhail: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Where are you planning to go tomorrow?' Mikhail questions candidly why things suddenly took this turn between them.
+- 'Actually, the Finnish ambassador is having lunch with us.' Mikhail centers one practical element with Barinov: "voobshche-to" means "actually", and it carries the main weight of what Mikhail is saying.
+- 'You do not say?' Barinov phrases the reaction to Mikhail: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
+- 'And I just bought myself new shoes.' Barinov proceeds dryly with a sigh, without trying to dress up how he really feels.
+- 'What does that have to do with this?' Mikhail makes the comeback plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'We are exchanging curious facts, after all.' Barinov aims that line facing Mikhail: the "-sya" ending on "obmenivayemsya" ("are exchanging") turns the action inward or makes it happen between people naturally.
+- 'My team will handle the ambassador without me.' Barinov continues firmly across the room, watching Mikhail's face to see how the news lands.
+- 'Even a Finnish one.' Barinov frames one pointed choice for Mikhail: "finskim" means "Finnish" (from "finskiy"), giving the line its exact edge.

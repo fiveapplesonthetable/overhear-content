@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, he is in the storage room right now.' Max offers a playful attitude as they talk, leaning on "smotri" ("look") before closing the thought with "seychas" ("now").
-- 'Dima, calm down, pull yourself together!' Max brings a steady position during the exchange, building the phrase around "uspokoysya" ("calm down") and "vozmi" ("take, pick up") for a crisp, natural delivery.
-- 'I am fine, let me go quickly.' Nagiyev shares a direct view across the room, putting "poryadke" ("order") alongside "bystro" ("quickly") in a tight, everyday turn of phrase.
-- 'I am very glad that you stopped me.' Nagiyev favors a thoughtful tempo with Max, putting "ochen" ("very much") alongside "rad" ("glad") in a tight, everyday turn of phrase.
-- 'I am grateful in general that I am in a circle of friends.' Nagiyev chooses a clear note on the spot, leaning on "voobshche" ("at all") before closing the thought with "blagodaren" ("grateful").
-- 'What a sly fellow, he tricked me!' Nagiyev offers a calm mood without hesitation, building the phrase around "khitryy" ("cunning") and "malyy" ("fellow, guy") for a crisp, natural delivery.
-- 'Well never mind, we will see yet.' Nagiyev picks a pointed approach on the spot, weaving "yeshchyo" ("more, still") together with "posmotrim" ("have a look") just the way native speakers do.
-- 'Dmitry Vladimirovich, the chef did not want this.' Max takes a natural attitude straight away, joining "khotel" ("wanted") to "dmitriy" ("Dmitry") so every word pulls its weight.
-- 'No, this is a very bad option.' Max chooses a lively attitude in this beat, putting "ochen" ("very much") alongside "plokhoy" ("bad") in a tight, everyday turn of phrase.
-- 'Let us ask Max instead.' Kostya keeps a measured mood at this moment, joining "davay" ("let's") to "luchshe" ("better") so every word pulls its weight.
-- 'Max, tell us, Dmitry is better, right?' Kostya asks openly without a pause, using "skazhi" (from "skazat", "say") alongside "luchshe" ("better") to shape the meaning.
-- 'Not a fact, Dmitry infuriates me altogether.' Max presents a resolute tempo toward Nagiyev, combining "fakt" ("fact") and "voobshche" ("at all") so the key meaning lands right away.
+- 'Look, he is in the storage room right now.' Max uses one pointed word at once: "sklade" means "warehouse" (from "sklad"), giving the line its exact edge.
+- 'Dima, calm down, pull yourself together!' Max sends this update briskly now: the "-sya" ending on "uspokoysya" ("calm down") turns the action inward or makes it happen between people naturally.
+- 'I am fine, let me go quickly.' Nagiyev opens up warmly in this moment, grounding the moment in plain reality.
+- 'I am very glad that you stopped me.' Nagiyev sharpens one direct expression in earnest: "ostanovili" means "stopped" (from "ostanovit"), giving the line its exact edge.
+- 'I am grateful in general that I am in a circle of friends.' Nagiyev shares that thought beside Kostya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'What a sly fellow, he tricked me!' Nagiyev weighs in right away beside Max, saying out loud what both of them already know.
+- 'Well never mind, we will see yet.' Nagiyev points to one memorable choice on cue: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.
+- 'Dmitry Vladimirovich, the chef did not want this.' Max speaks candidly without a pause, leaving no doubt about where he stands.
+- 'No, this is a very bad option.' Max responds at once across the room, shifting the whole mood of the room in a single beat.
+- 'Let us ask Max instead.' Kostya sharpens one practical term in earnest: "luchshe" means "better", and it carries the main weight of what Kostya is saying.
+- 'Max, tell us, Dmitry is better, right?' Kostya delivers the comment with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Not a fact, Dmitry infuriates me altogether.' Max follows up frankly during the talk, watching Nagiyev's face to see how the news lands.

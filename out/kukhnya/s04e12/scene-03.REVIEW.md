@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, hi, how glad I am!' Sasha takes a frank attitude straight away, pairing "kak" ("how") with "rada" ("glad") to get the point across in plain spoken Russian.
-- 'Sasha, this is our new cook Denis.' Kostya establishes a wry mood in the scene, anchoring the Russian line on "novyy" ("new") and "povar" ("chef, cook") without extra filler.
-- 'Hi, Denis, very nice to meet you.' Sasha holds a warm mood in their talk, building the phrase around "ochen" ("very much") and "priyatno" ("pleasant") for a crisp, natural delivery.
-- 'German Mikhailovich asked for an espresso.' Kostya takes a natural bearing at this moment, linking "poprosil" ("asked"), "sdelat" ("to do"), and "espresso" ("espresso") in one brisk exchange.
-- 'Oh, Sashka, hi, how are things?' Max presses boldly to Kostya here, anchoring the Russian line on "kak" ("how") and "dela" ("things, affairs") without extra filler.
-- 'Everything is great, I am getting married!' Sasha holds a candid stance as the scene unfolds, putting "otlichno" ("perfect, great") alongside "zamuzh" ("in marriage") in a tight, everyday turn of phrase.
-- 'Over there stands my fiancé.' Sasha sets a sharp approach beside Kostya, building the phrase around "tam" ("there") and "stoit" ("is parked") for a crisp, natural delivery.
-- 'I sincerely congratulate you on the wedding!' Max chooses a lively posture on the spot, anchoring the Russian line on "iskrenne" ("sincerely") and "pozdravlyayu" ("congratulations") without extra filler.
-- 'Thank you, I congratulate you too.' Sasha adopts a playful footing toward Kostya, anchoring the Russian line on "spasibo" ("thank you") and "tozhe" ("too") without extra filler.
-- 'Lavrov, why are you standing around here?' Kostya asks evenly as they speak, anchoring the Russian line on "tut" ("here") and "stoish" ("stand") without extra filler.
-- 'Do you have nothing at all to keep you busy?' Kostya questions naturally to Max here, combining "sovsem" ("at all") and "zanyatsya" ("to attend to") so the key meaning lands right away.
-- 'You do not have to hang around in the dining room.' Kostya chooses a pointed approach during the exchange, pairing "obyazatelno" ("surely, without fail") with "torchat" ("to dining") to get the point across in plain spoken Russian.
+- 'Kostya, hi, how glad I am!' Sasha speaks boldly with a sigh, steering the talk right where she wants it.
+- 'Sasha, this is our new cook Denis.' Kostya reaches for one loaded piece toward Sasha: "novyy" means "new", and it carries the main weight of what Kostya is saying.
+- 'Hi, Denis, very nice to meet you.' Sasha drops the comeback toward Kostya: opening with the casual greeting "privet" ("hi") signals right away that Sasha and Kostya are on familiar terms.
+- 'German Mikhailovich asked for an espresso.' Kostya speaks pointedly with a shrug, refusing to let the moment slip past.
+- 'Oh, Sashka, hi, how are things?' Max favors one sharp word with Kostya: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
+- 'Everything is great, I am getting married!' Sasha states that thought on cue: the single Russian word "otlichno" ("great, excellent") sets up the whole statement without needing a separate word for "it is".
+- 'Over there stands my fiancé.' Sasha answers warmly in this moment, leaving no doubt about where she stands.
+- 'I sincerely congratulate you on the wedding!' Max centers one key expression with Sasha: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
+- 'Thank you, I congratulate you too.' Sasha shapes the thought in earnest: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Lavrov, why are you standing around here?' Kostya tests earnestly if there is more going on behind the scenes.
+- 'Do you have nothing at all to keep you busy?' Kostya picks one concrete word with Max: "zanyatsya" means "to attend to", and it carries the main weight of what Kostya is saying.
+- 'You do not have to hang around in the dining room.' Kostya responds warmly to be clear, so Sasha knows he is not just making small talk.

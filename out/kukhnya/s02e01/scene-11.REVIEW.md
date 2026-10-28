@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I wouldn't either.' Kostya bluntly replies that he would not have listened to Max either.
 - 'What do you mean?' Max is caught off guard and asks what Kostya means by that.
 - 'Whose side are you on? Vika's or your friend's?' He demands to know whether Kostya is on Vika's side or his friend's.
-- 'But that doesn' Kostya says being his friend does not change the fact that Max acted like a jerk.
+- 'But that doesn't change the fact you're a bastard.' Kostya says being his friend does not change the fact that Max acted like a jerk.
 - 'Keep at it, Kostya, keep at it.' Max sarcastically tells Kostya to keep lecturing him.
 - 'So if I cheated on you...' Trying to test his friend, Max asks what would happen if he ever betrayed Kostya.
 - 'You wouldn't forgive me?' He asks if Kostya would really refuse to forgive him. Then Kostya responds.

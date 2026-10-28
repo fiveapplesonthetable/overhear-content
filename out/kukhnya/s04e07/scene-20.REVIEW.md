@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One wise man once spoke important words.' Max displays a firm tone in their talk, putting "mudryy" ("wise") alongside "chelovek" ("a man, a person") in a tight, everyday turn of phrase.
-- 'You can sit for a long time on the quiet bank of a river.' Max presents a thoughtful tack across the room, building the phrase around "mozhno" ("may, can") and "dolgo" ("for a long time") for a crisp, natural delivery.
-- 'And wait for your enemy to finally lose.' Max shows a pointed style right away, leaning on "zhdat" ("to wait") before closing the thought with "kogda" ("when").
-- 'But sometimes you are sitting by the wrong river altogether.' Max holds an honest tempo with Nagiyev, weaving "inogda" ("sometimes, at times") together with "sidish" ("are sitting") just the way native speakers do.
-- 'Vitya, I remember that I still owe you a debt.' Nagiyev brings a sharp posture in the room, pairing "ostalsya" ("remained") with "pomnyu" ("remember") so the "-sya" ending carries the action.
-- 'You are supposed to kick me two more times.' Nagiyev sustains a playful view in the scene, combining "dolzhen" ("has to, must") and "udarit" ("to hit, to strike") so the key meaning lands right away.
-- 'Well come on, kick me quickly, what are you waiting for?' Nagiyev quizzes evenly to make the point, leaning on "davay" ("let's") before closing the thought with "bey" ("to beat, to hit").
-- 'All right, Dima, just go home in peace.' Barinov sets a lively note for Nagiyev, combining "idi" ("go") and "uzhe" ("already, now") so the key meaning lands right away.
-- 'What, are you not angry with me anymore?' Nagiyev wonders boldly without holding back, pairing "bolshe" ("more") with "serdishsya" ("to be angry") to get the point across in plain spoken Russian.
-- 'I do not want to kick you anymore, pal.' Barinov establishes a calm view on the spot, combining "khochu" ("want") and "bolshe" ("more") so the key meaning lands right away.
-- 'Suddenly you realize that you do not want victory over your enemy.' Max sets an earnest manner in the conversation, building the phrase around "vdrug" ("suddenly, what if") and "ponimayesh" ("do you understand") for a crisp, natural delivery.
-- 'After all, old friendship is much more important than any grudge.' Max maintains a playful style in the scene, linking "staraya" ("old"), "druzhba" ("friendship"), and "namnogo" ("much, far") in one brisk exchange.
+- 'One wise man once spoke important words.' Max pushes back dryly as things stand, before Barinov can change the subject.
+- 'You can sit for a long time on the quiet bank of a river.' Max follows up plainly beside Nagiyev, refusing to let the moment slip past.
+- 'And wait for your enemy to finally lose.' Max points to one sharp touch with Barinov: "proigrayet" means "will lose" (from "proigrat"), giving the line its exact edge.
+- 'But sometimes you are sitting by the wrong river altogether.' Max sends the comment to Nagiyev: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Vitya, I remember that I still owe you a debt.' Nagiyev continues candidly hearing Barinov, so Barinov knows he is not just making small talk.
+- 'You are supposed to kick me two more times.' Nagiyev centers one memorable term for Max: "dolzhen" means "has to, must", and it carries the main weight of what Nagiyev is saying.
+- 'Well come on, kick me quickly, what are you waiting for?' Nagiyev voices this answer without fuss: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'All right, Dima, just go home in peace.' Barinov answers pointedly before Nagiyev, refusing to let the moment slip past.
+- 'What, are you not angry with me anymore?' Nagiyev features one concrete word at once: "serdishsya" means "to be angry" (from "serditsya"), giving the line its exact edge.
+- 'I do not want to kick you anymore, pal.' Barinov reaches for one telling word for Nagiyev: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'Suddenly you realize that you do not want victory over your enemy.' Max answers right away without a pause, bringing things back to earth after the buildup.
+- 'After all, old friendship is much more important than any grudge.' Max features one vivid touch right here: "vazhneye" means "more important" (from "vazhnyy"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, open up immediately, I know that you are in here!' Barinov strikes a playful course on the spot, putting "nemedlenno" ("immediately") alongside "otkryvay" ("to open") in a tight, everyday turn of phrase.
-- 'Tell me honestly, do you like it here at my place?' Nikita questions boldly as the beat lands, joining "skazhi" ("say") to "chestno" ("honestly") so every word pulls its weight.
-- 'Wait, after all that is far from everything.' Nikita takes a lively stance in the room, joining "podozhdi" ("wait") to "yeshchyo" ("more, still") so every word pulls its weight.
-- 'I congratulate you from the heart on your birthday!' Nikita sustains a direct manner straight away, joining "dushi" ("soul, heart") to "pozdravlyayu" ("congratulations") so every word pulls its weight.
-- 'I believe that extra words are unnecessary here.' Nikita establishes a calm rhythm across the room, anchoring the Russian line on "schitayu" ("am counting") and "lishniye" ("unnecessary") without extra filler.
-- 'This gift will say everything for itself.' Nikita favors a measured tone straight away, weaving "podarok" ("gift, voucher") together with "skazhet" ("will tell, will say") just the way native speakers do.
-- 'Well and what exactly is it saying?' Katya presses firmly to make the point, leaning on "govorit" ("talks") before closing the thought with "nu" ("oh, come on").
-- 'It is a very beautiful and expensive necklace.' Nikita brings a frank course at once, anchoring the Russian line on "ochen" ("very much") and "krasivoye" ("beautiful") without extra filler.
-- 'It is much more expensive than your new motorcycle.' Nikita holds an emphatic style during the exchange, combining "namnogo" ("much, far") and "dorozhe" ("dearer") so the key meaning lands right away.
-- 'Well and how am I supposed to react to this?' Katya challenges pointedly to keep things clear, weaving "kak" ("how") together with "dolzhna" ("should, must") just the way native speakers do.
-- 'I rented a room and bought an expensive gift.' Nikita maintains a sharp note in the scene, leaning on "snyal" ("took off") before closing the thought with "nomer" ("number").
-- 'You clearly expected to stay here with me.' Nikita sets a clear line as they talk, putting "yavno" ("clearly") alongside "rasschityvala" ("to count on") in a tight, everyday turn of phrase.
+- 'Dima, open up immediately, I know that you are in here!' Barinov replies plainly with a shrug, bringing things back to earth after the buildup.
+- 'Tell me honestly, do you like it here at my place?' Nikita points to one concrete element in earnest: "nravitsya" means "is pleasing", and it carries the main weight of what Nikita is saying.
+- 'Wait, after all that is far from everything.' Nikita speaks candidly to settle things, making his position completely clear.
+- 'I congratulate you from the heart on your birthday!' Nikita stands firm warmly without holding back, steering the talk right where he wants it.
+- 'I believe that extra words are unnecessary here.' Nikita emphasizes one telling touch toward Barinov: "lishniye" means "unnecessary" (from "lishniy"), giving the line its exact edge.
+- 'This gift will say everything for itself.' Nikita speaks up boldly with a sigh, refusing to let the moment slip past.
+- 'Well and what exactly is it saying?' Katya prompts calmly whether Barinov really thought this through.
+- 'It is a very beautiful and expensive necklace.' Nikita reaches for one pointed choice for Katya: "krasivoye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
+- 'It is much more expensive than your new motorcycle.' Nikita drops that line for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well and how am I supposed to react to this?' Katya probes briskly in front of Nikita without any preamble.
+- 'I rented a room and bought an expensive gift.' Nikita favors one direct expression in reply: "dorogoy" means "dear", and it carries the main weight of what Nikita is saying.
+- 'You clearly expected to stay here with me.' Nikita highlights this telling element in reply: "rasschityvala" means "to count on" (from "rasschityvat"), giving the line its exact edge.

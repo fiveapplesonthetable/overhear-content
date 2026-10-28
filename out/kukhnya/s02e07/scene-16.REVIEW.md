@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want to propose a toast to the two of you.' Max keeps a lively direction for Kostya, using "khochu" (from "khotet", "want") alongside "vypit" ("to drink") to shape the meaning.
-- 'You are wonderful people.' Kostya keeps a clear course straight away, linking "zamechatelnyye" ("wonderful") directly with "lyudi" ("people"), since Russian drops "is" and "are" in the present.
-- 'Oh, Nastenka, we were just having a little bite here.' Max adopts a calm course without hesitation, anchoring the Russian line on "tut" ("here") and "nemnogo" ("a bit") without extra filler.
-- 'Anastasiya Stepanovna, I am terribly ashamed.' Max takes a resolute posture during the exchange, combining "uzhasno" ("terrible, awful") and "stydno" ("shameful") so the key meaning lands right away.
-- 'Because we did not leave any dinner for you.' Kostya adopts a sharp view toward Max, putting "ostavili" ("left") alongside "uzhin" ("dinner") in a tight, everyday turn of phrase.
-- 'In such friendly company, we somehow got carried away.' Nastya keeps a thoughtful direction as they talk, weaving "druzheskoy" ("friendly") together with "kompanii" ("companies") just the way native speakers do.
-- 'Yes, we ate everything up, Nastenka.' Max establishes a frank view in their talk, leaning on "syeli" ("ate up") before closing the thought with "da" ("yes").
-- 'There are still some tomatoes left in the fridge.' Kostya sets a grounded direction beside Nastya, putting "tam" ("there") alongside "kholodilnike" ("fridge") in a tight, everyday turn of phrase.
-- 'Well, what do you say, guys?' Nastya queries pointedly in this moment, anchoring the Russian line on "muzhiki" ("lads, guys") and "che" ("what") without extra filler.
-- 'How about we all go to karaoke, huh?' Max asks plainly without hesitation, anchoring the Russian line on "poyekhali" ("here we go") and "karaoke" ("karaoke") without extra filler.
-- 'When the soul calls for going to karaoke.' Kostya takes a calm tempo in front of Max, linking "kogda" ("when"), "nuzhno" ("necessary"), and "yekhat" ("to drive, to go") in one brisk exchange.
-- 'Let us go, my soul is singing.' Nastya keeps a brisk course in the conversation, linking "yedem" ("are going"), "dusha" ("shower"), and "roman" ("romance") in one brisk exchange.
-- 'Hold on, stop, Kostya, can I talk to you for a minute?' Max questions calmly to make the point, combining "mozhno" ("may, can") and "minutku" ("a minute") so the key meaning lands right away.
+- 'I want to propose a toast to the two of you.' Max stresses one memorable detail in reply: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'You are wonderful people.' Kostya drops this point around Nastya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Oh, Nastenka, we were just having a little bite here.' Max reacts steadily as things stand, bringing things back to earth after the buildup.
+- 'Anastasiya Stepanovna, I am terribly ashamed.' Max focuses on one telling word toward Nastya: "uzhasno" means "terrible, awful", and it carries the main weight of what Max is saying.
+- 'Because we did not leave any dinner for you.' Kostya features one memorable touch right here: "ostavili" means "left" (from "ostavit"), giving the line its exact edge.
+- 'In such friendly company, we somehow got carried away.' Nastya counters bluntly watching Max, refusing to let the moment slip past.
+- 'Yes, we ate everything up, Nastenka.' Max chooses one familiar word in earnest: "syeli" means "ate up" (from "syest"), giving the line its exact edge.
+- 'There are still some tomatoes left in the fridge.' Kostya answers steadily to be clear, without trying to dress up how he really feels.
+- 'Well, what do you say, guys?' Nastya probes calmly how Kostya expects that to work in practice.
+- 'How about we all go to karaoke, huh?' Max chooses one practical term with Nastya: "poyekhali" means "here we go" (from "poyekhat"), giving the line its exact edge.
+- 'When the soul calls for going to karaoke.' Kostya voices the thought with candor: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Let us go, my soul is singing.' Nastya counters wryly across the room, so Max knows she is not just making small talk.
+- 'Hold on, stop, Kostya, can I talk to you for a minute?' Max underscores one loaded expression at once: "minutku" means "a minute" (from "minutka"), giving the line its exact edge.

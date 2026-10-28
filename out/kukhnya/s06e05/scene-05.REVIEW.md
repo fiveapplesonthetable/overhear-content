@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to see me right now?' Barinov wonders bluntly during the talk, anchoring the Russian line on "khotela" ("wanted, meant") and "seychas" ("now") without extra filler.
-- 'Have a seat with us at the table.' Eleonora shows a brisk approach in this beat, anchoring the Russian line on "prisazhivaysya" ("to take a seat") and "stol" ("table") without extra filler.
-- 'Is he going to interrupt the whole time?' Barinov quizzes openly from the start, linking "vremya" ("time"), "budet" ("will be"), and "vstrevat" ("to butt in") in one brisk exchange.
-- 'Vitya, we want to be partners.' Eleonora takes a grounded rhythm in the room, joining "khotim" ("want") to "byt" ("be") so every word pulls its weight.
-- 'Do not celebrate too early, my friend.' Nagiyev takes an honest position at once, putting "raduysya" ("rejoice, celebrate") alongside "ranshe" ("earlier, previously") in a tight, everyday turn of phrase.
-- 'We are offering you to become co-owner of the restaurant.' Eleonora sustains a thoughtful footing with Nagiyev, building the phrase around "predlagayem" ("offer") and "stat" ("to become") for a crisp, natural delivery.
-- 'I believe that you have grown ready for this.' Eleonora adopts a firm note in their talk, building the phrase around "schitayu" ("am counting") and "doros" ("grew up to") for a crisp, natural delivery.
-- 'Our terms will be equal.' Eleonora strikes a serious approach as they talk, leaning on "u nas" ("by us, at our place") and "usloviya" ("conditions") the way natural Russian does.
-- 'Half of the restaurant is yours, half is mine.' Eleonora brings a lively note right away, pairing "polovina" ("half") with "restorana" ("restaurant") to get the point across in plain spoken Russian.
-- 'More precisely, half of the restaurant is ours.' Nagiyev strikes a playful attitude in the conversation, joining "tochneye" ("definitely") to "skazat" ("tell") so every word pulls its weight.
-- 'In time I will bring you up to speed.' Eleonora holds a calm tone in this beat, weaving "vremenem" ("time") together with "vvedu" ("will bring into") just the way native speakers do.
-- 'Right now we only need an answer from you.' Eleonora favors an emphatic direction on the spot, building the phrase around "seychas" ("now") and "nuzhen" ("is needed") for a crisp, natural delivery.
+- 'Did you want to see me right now?' Barinov directs this point in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Eleonora purely through rising pitch at the end.
+- 'Have a seat with us at the table.' Eleonora steps in plainly with a smile, making her position completely clear.
+- 'Is he going to interrupt the whole time?' Barinov features one key touch toward Eleonora: "vremya" means "time", and it carries the main weight of what Barinov is saying.
+- 'Vitya, we want to be partners.' Eleonora speaks boldly across the room, before Nagiyev can change the subject.
+- 'Do not celebrate too early, my friend.' Nagiyev speaks quietly without any doubt, leaving no doubt about where he stands.
+- 'We are offering you to become co-owner of the restaurant.' See how Eleonora speaks to Nagiyev on cue — the Russian word "sovladeltsem" ("co-owner", built from "sovladelets") does the heavy lifting.
+- 'I believe that you have grown ready for this.' Eleonora frames one colorful piece in earnest: "schitayu" means "am counting" (from "schitat"), giving the line its exact edge.
+- 'Our terms will be equal.' Eleonora replies frankly watching Nagiyev, steering the talk right where she wants it.
+- 'Half of the restaurant is yours, half is mine.' Eleonora anchors one vivid term on cue: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'More precisely, half of the restaurant is ours.' Nagiyev replies frankly to be clear, testing Eleonora's reaction in the middle of the exchange.
+- 'In time I will bring you up to speed.' Eleonora proceeds lightly as things stand, letting the remark speak for itself.
+- 'Right now we only need an answer from you.' Eleonora favors one familiar touch with Nagiyev: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.

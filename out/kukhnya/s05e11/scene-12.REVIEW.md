@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you want to see me?' Eleonora checks plainly as they speak, weaving "khotel" ("wanted") together with "videt" ("to see") just the way native speakers do.
-- 'Yes. I wanted to apologize.' Barinov conveys a calm style at this moment, using "khotel" (from "khotet", "wanted") alongside "izvinitsya" ("to apologise") to shape the meaning.
-- 'And what happened this morning is simply unacceptable.' Barinov sets a warm style in this beat, using "proizoshlo" (from "proizoyti", "happened") alongside "utrom" ("this morning") to shape the meaning.
-- 'You are the owner of the hotel, I had no right to question your authority.' Barinov maintains a playful style at once, joining "khozyayka" ("landlady") to "otelya" ("of the hotel") so every word pulls its weight.
-- 'Forgive me, I will fire this cook this very day.' Barinov sustains a steady mood with Eleonora, building the phrase around "izvini" ("sorry, excuse me") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Well, do not rush!' Eleonora maintains a direct view during the exchange, linking "toropis" ("rush"), "nu" ("oh, come on"), and "ty" ("you") in one brisk exchange.
-- 'You know, I tasted what he cooked.' Eleonora presents a steady approach with Barinov, pairing "znayesh" ("know") with "poprobovala" ("tasted") to get the point across in plain spoken Russian.
-- 'It is quite decent. The boy is good.' Eleonora strikes a brisk direction in the scene, linking "vpolne" ("quite") directly with "dostoyno" ("worthily, properly"), since Russian drops "is" and "are" in the present.
-- 'Nobody pays me extra for that.' Barinov sets a clear tone beside Eleonora, weaving "doplachivayet" ("pays extra") together with "mne" ("to me") just the way native speakers do.
-- 'Alright, there will be a small bonus for you.' Eleonora holds a natural course across the room, leaning on "khorosho" ("good, fine") before closing the thought with "budet" ("will be").
-- 'Thank you.' Barinov maintains a grounded stance as they talk, letting the single Russian word "spasibo" ("thank you") carry the entire reaction on its own.
-- 'Tonight is a meeting with partners. Everything must be at the highest level!' Eleonora sets a firm tack in this beat, linking "vecherom" ("in the evening"), "vstrecha" ("a meeting"), and "partnyorami" ("partner") in one brisk exchange.
+- 'Did you want to see me?' Eleonora inquires curiously while looking straight at Barinov here.
+- 'Yes. I wanted to apologize.' Barinov emphasizes one loaded touch with Eleonora: "izvinitsya" means "to apologise", and it carries the main weight of what Barinov is saying.
+- 'And what happened this morning is simply unacceptable.' Barinov directs the remark calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'You are the owner of the hotel, I had no right to question your authority.' Barinov chimes in openly during the talk, to clear the air between them once and for all.
+- 'Forgive me, I will fire this cook this very day.' Barinov uses this clear touch on cue: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
+- 'Well, do not rush!' Eleonora phrases that remark on cue: the "-sya" ending on "toropis" ("rush") turns the action inward or makes it happen between people naturally.
+- 'You know, I tasted what he cooked.' Eleonora follows up bluntly beside Barinov, grounding the moment in plain reality.
+- 'It is quite decent. The boy is good.' Eleonora underscores this key choice toward Barinov: "malchik-to" means "the boy" (from "malchik"), giving the line its exact edge.
+- 'Nobody pays me extra for that.' Barinov lays out this line toward Eleonora: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Alright, there will be a small bonus for you.' Eleonora proceeds promptly toward Barinov, grounding the moment in plain reality.
+- 'Thank you.' Barinov colors this key detail in reply: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
+- 'Tonight is a meeting with partners. Everything must be at the highest level!' Eleonora answers openly around Barinov, watching Barinov's face to see how the news lands.

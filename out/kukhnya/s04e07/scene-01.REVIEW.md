@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a wonderful idea to put a beautiful piano in the restaurant!' Vika shares a brisk view in their talk, pairing "zamechatelnaya" ("wonderful") with "ideya" ("idea") to get the point across in plain spoken Russian.
-- 'Do you think I have nowhere else to put my money?' Nagiyev quizzes candidly to keep things clear, linking "dumayesh" ("think"), "bolshe" ("more"), and "dengi" ("money") in one brisk exchange.
-- 'Yesterday I hosted a big party for customs officers.' Nagiyev favors a brisk attitude in the scene, pairing "vchera" ("yesterday") with "vyol" ("led, behaved") to get the point across in plain spoken Russian.
-- 'And they paid all the performers with strange things.' Nagiyev shows a grounded approach toward Vika, using "artistami" (from "artist", "performer, artiste") alongside "rasplatilis" ("to things") to shape the meaning.
-- 'I ended up with this piano for my work.' Nagiyev strikes a natural view in their talk, pairing "rabotu" ("job") with "dostalos" ("to fall to") to get the point across in plain spoken Russian.
-- 'I will think about that on Monday.' Vika takes a firm posture in this beat, building the phrase around "podumayu" ("to think") and "ponedelnik" ("Monday") for a crisp, natural delivery.
-- 'Wait, Vika, until what Monday on earth?' Nagiyev probes sharply as they speak, putting "podozhdi" ("wait") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
-- 'After all, I warned you about this in advance.' Vika strikes an easygoing approach on the spot, linking "zaraneye" ("in advance"), "preduprezhdala" ("warned"), and "ya" ("I") in one brisk exchange.
-- 'Max and I are going to my mom's place.' Vika adopts an emphatic tack straight away, leaning on "yedem" ("are going") before closing the thought with "mame" ("mother, mum").
-- 'My mom is having a big anniversary this weekend.' Vika offers an emphatic stance in the room, using "mamy" (from "mama", "mum, mother") alongside "vykhodnykh" ("weekend") to shape the meaning.
-- 'All right, I was still lucky with this piano.' Nagiyev brings a wry tempo in this beat, putting "yeshchyo" ("more, still") alongside "povezlo" ("it was lucky") in a tight, everyday turn of phrase.
-- 'They gave another performer a whole truckload of chocolate!' Nagiyev holds a natural manner right away, joining "drugoy" ("other") to "artistke" ("another") so every word pulls its weight.
+- 'What a wonderful idea to put a beautiful piano in the restaurant!' Vika picks this clear piece with Nagiyev: "zamechatelnaya" means "wonderful" (from "zamechatelnyy"), giving the line its exact edge.
+- 'Do you think I have nowhere else to put my money?' Nagiyev offers the comment on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Yesterday I hosted a big party for customs officers.' Nagiyev speaks up wryly during the talk, watching Vika's face to see how the news lands.
+- 'And they paid all the performers with strange things.' Nagiyev uses one loaded term in reply: "artistami" means "performer, artiste" (from "artist"), giving the line its exact edge.
+- 'I ended up with this piano for my work.' Nagiyev replies promptly around Vika, without trying to dress up how he really feels.
+- 'I will think about that on Monday.' Vika speaks evenly as they talk, leaving no doubt about where she stands.
+- 'Wait, Vika, until what Monday on earth?' Nagiyev reaches for one classic word with Vika: "ponedelnika" means "Monday" (from "ponedelnik"), giving the line its exact edge.
+- 'After all, I warned you about this in advance.' Vika favors one vivid expression with Nagiyev: "preduprezhdala" means "warned" (from "preduprezhdat"), giving the line its exact edge.
+- 'Max and I are going to my mom's place.' Vika reacts calmly hearing Nagiyev, without trying to dress up how she really feels.
+- 'My mom is having a big anniversary this weekend.' Vika grounds one practical piece right here: "vykhodnykh" means "weekend" (from "vykhodnoy"), giving the line its exact edge.
+- 'All right, I was still lucky with this piano.' Nagiyev frames the remark without fuss: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
+- 'They gave another performer a whole truckload of chocolate!' Nagiyev proceeds decisively to settle things, bringing things back to earth after the buildup.

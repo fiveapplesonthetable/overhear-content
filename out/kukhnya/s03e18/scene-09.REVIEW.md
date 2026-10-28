@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Max! I thought you were avoiding me.' Katya sustains a brisk rhythm on the spot, linking "podumala" ("thought"), "izbegayesh" ("you avoid"), and "privet" ("hi") in one brisk exchange.
-- 'I have already missed you very much.' Katya offers a firm line in the conversation, leaning on "uzhe" ("already, now") before closing the thought with "ochen" ("very much").
-- 'Whoa, it seems to me you are rushing a little.' Max shares an easygoing note in this beat, putting "kazhetsya" ("it seems, I think") alongside "nemnogo" ("a bit") in a tight, everyday turn of phrase.
-- 'I do not understand, what are you talking about?' Katya quizzes honestly right away, pairing "ponyala" ("understood") with "govorish" ("you say") to get the point across in plain spoken Russian.
-- 'I mean the fact that you kissed me.' Max establishes a calm course as they talk, leaning on "potselovala" ("kissed") before closing the thought with "ya" ("I").
-- 'Wait, is all of this because of Vika right now?' Katya challenges candidly to Max here, leaning on "podozhdi" ("wait") before closing the thought with "seychas" ("now").
-- 'Are you afraid that she will fire both of us?' Katya probes decisively to Max here, using "boishsya" (from "boyatsya", "you are afraid") alongside "uvolit" ("will fire") to shape the meaning.
-- 'I am not worried for myself, but for you.' Max displays a pointed stance in front of Katya, weaving "volnuyus" ("am nervous") together with "ya" ("I") just the way native speakers do.
-- 'I do not want you to be left without a job.' Max takes a measured position toward Katya, weaving "khochu" ("want") together with "ostalas" ("remained, is left") just the way native speakers do.
-- 'Thank you so much for worrying about me.' Katya presents a clear approach at this moment, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.
-- 'Well great, now I am tangled up even worse.' Max keeps a thoughtful tone across the room, joining "teper" ("now") to "zaputalsya" ("got confused") so every word pulls its weight.
-- 'Chef, did you show her who is boss in the kitchen?' Max quizzes plainly as the beat lands, building the phrase around "pokazali" ("showed") and "glavnyy" ("main, chief") for a crisp, natural delivery.
+- 'Hi, Max! I thought you were avoiding me.' Katya stands firm frankly in their talk, testing Max's reaction in the middle of the exchange.
+- 'I have already missed you very much.' Katya points to one classic word at once: "soskuchilas" means "missed" (from "soskuchitsya"), giving the line its exact edge.
+- 'Whoa, it seems to me you are rushing a little.' Max delivers that remark for Katya: the "-sya" ending on "toropishsya" ("you are rushing") turns the action inward or makes it happen between people naturally.
+- 'I do not understand, what are you talking about?' Katya probes openly before Max can change the subject.
+- 'I mean the fact that you kissed me.' Max points to one pointed piece toward Katya: "potselovala" means "kissed" (from "potselovat"), giving the line its exact edge.
+- 'Wait, is all of this because of Vika right now?' Katya aims the reply right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Are you afraid that she will fire both of us?' Katya probes briskly how Max expects that to work in practice.
+- 'I am not worried for myself, but for you.' Max favors one colorful term in earnest: "volnuyus" means "am nervous" (from "volnovatsya"), giving the line its exact edge.
+- 'I do not want you to be left without a job.' Max grounds one loaded element for Katya: "raboty" means "of work" (from "rabota"), giving the line its exact edge.
+- 'Thank you so much for worrying about me.' Katya follows up briskly as things stand, leaving no doubt about where she stands.
+- 'Well great, now I am tangled up even worse.' Max stresses one vivid choice in earnest: "zaputalsya" means "got confused" (from "zaputatsya"), giving the line its exact edge.
+- 'Chef, did you show her who is boss in the kitchen?' Max offers the reaction without fuss: putting the question word "kto" right at the front of the line lets Katya hear the point of the question on the very first beat.

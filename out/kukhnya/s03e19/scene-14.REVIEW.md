@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now I serve the culinary art with saffron and basil.' Rodion holds a brisk tack at this moment, linking "teper" ("now"), "sluzhu" ("to serve"), and "kukhonnomu" ("kitchen, culinary") in one brisk exchange.
-- 'Basil! I completely forgot to put basil in there!' Rodion sets an honest manner in the room, anchoring the Russian line on "bazilik" ("basil") and "sovsem" ("at all") without extra filler.
-- 'Wait, Rodion Sergeyevich, you are not allowed in the dining room!' Max conveys a warm tone on the spot, weaving "podozhdite" ("wait") together with "syuda" ("here") just the way native speakers do.
-- 'There must definitely be fresh basil in this dish!' Rodion keeps an easygoing position at once, weaving "blyude" ("dish, course") together with "obyazatelno" ("surely, without fail") just the way native speakers do.
-- 'Is that you again? Get out of here quickly!' Max quizzes warmly during the talk, linking "opyat" ("again"), "ukhodi" ("go away"), and "bystro" ("quickly") in one brisk exchange.
-- 'I brought this for our lamb, it is roasted after all.' Rodion sets a pointed manner beside Nagiyev, combining "prinyos" ("brought") and "yagnyonku" ("for the lamb") so the key meaning lands right away.
-- 'You were put here to be the face, not to hand out advice!' Max projects a pointed note on the spot, using "posadili" (from "posadit", "locked up, put in prison") alongside "zdes" ("here") to shape the meaning.
-- 'Look how cheeky you are! Maybe I should escort you out of here?' Nagiyev checks warmly right away, leaning on "posmotri" ("look") before closing the thought with "derzkiy" ("daring").
-- 'Guys, stop fighting in the dining room immediately!' Max sets a steady tack at once, pairing "parni" ("guys, boys") with "nemedlenno" ("immediately") to get the point across in plain spoken Russian.
-- 'Wait a second, Rodion, is that really you?' Nagiyev prompts quietly across the room, leaning on "podozhdi" ("wait") before closing the thought with "deystvitelno" ("really, indeed").
-- 'Rodion Gromov! And we all thought that you had died!' Nagiyev holds a firm course toward Max, linking "dumali" ("thought"), "pogib" ("died, perished"), and "rodion" ("Rodion") in one brisk exchange.
-- 'For three whole years there was neither sight nor sound of you!' Nagiyev maintains a resolute stance right away, pairing "tselykh" ("whole, entire") with "goda" ("years") to get the point across in plain spoken Russian.
+- 'Now I serve the culinary art with saffron and basil.' Rodion proceeds honestly around Max, to clear the air between them once and for all.
+- 'Basil! I completely forgot to put basil in there!' Rodion answers promptly to be clear, before Nagiyev can change the subject.
+- 'Wait, Rodion Sergeyevich, you are not allowed in the dining room!' Max favors one practical expression in reply: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'There must definitely be fresh basil in this dish!' Rodion counters warmly watching Nagiyev, leaving no doubt about where he stands.
+- 'Is that you again? Get out of here quickly!' Max asks bluntly about what Nagiyev just brought up.
+- 'I brought this for our lamb, it is roasted after all.' Rodion spotlights one clear term with Nagiyev: "yagnyonku" means "for the lamb" (from "yagnyonok"), giving the line its exact edge.
+- 'You were put here to be the face, not to hand out advice!' Max stresses one key term for Nagiyev: "posadili" means "locked up, put in prison" (from "posadit"), giving the line its exact edge.
+- 'Look how cheeky you are! Maybe I should escort you out of here?' Nagiyev challenges candidly as Rodion tries to explain the situation.
+- 'Guys, stop fighting in the dining room immediately!' Max frames one loaded piece in reply: "nemedlenno" means "immediately", and it carries the main weight of what Max is saying.
+- 'Wait a second, Rodion, is that really you?' Nagiyev puts that line at once: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
+- 'Rodion Gromov! And we all thought that you had died!' Nagiyev proceeds boldly in this moment, letting the remark speak for itself.
+- 'For three whole years there was neither sight nor sound of you!' Nagiyev frames this key element right here: "tselykh" means "whole, entire" (from "tselyy"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you tired, Viktor Petrovich?' Elena tests pointedly without holding back, linking "ustali" ("got tired"), "viktor" ("Viktor"), and "petrovich" ("Petrovich") in one brisk exchange.
-- 'I do not even know the meaning of that word.' Barinov picks an earnest bearing as they talk, anchoring the Russian line on "znayu" ("know") and "znacheniya" ("meaning") without extra filler.
-- 'I would like to ask a bit more about the team.' Barinov favors an emphatic position across the room, using "khotelos" (from "khotetsya", "to feel like") alongside "pobolshe" ("bit") to shape the meaning.
-- 'What are you saying? And why do you need that?' Elena questions directly from the start, pairing "govorite" ("say, speak") with "zachem" ("what for") to get the point across in plain spoken Russian.
-- 'It is hard to work in a team when you know nothing about anyone.' Barinov strikes a frank tone during the exchange, linking "trudno" ("difficult, hard"), "rabotat" ("to work"), and "komande" ("team") in one brisk exchange.
-- 'I understand. Well, alright.' Elena projects a frank footing in the room, weaving "ponimayu" ("understand") together with "khorosho" ("good, fine") just the way native speakers do.
-- 'This is Misha. You already know him.' Elena offers a candid direction during the exchange, joining "uzhe" ("already, now") to "znayesh" ("know") so every word pulls its weight.
-- 'He performs the duties of sous-chef.' Elena offers a sharp mood right away, leaning on "ispolnyayet" ("performs") before closing the thought with "obyazannosti" ("to duties").
-- 'A responsible worker.' Elena offers a wry footing in the conversation, pairing "otvetstvennyy" ("responsible") with "ispolnitel" ("worker") to get the point across in plain spoken Russian.
-- 'He is afraid of his wife like fire.' Elena establishes a sharp rhythm in front of Barinov, combining "zhenu" ("wife") and "boitsya" ("is afraid") so the key meaning lands right away.
-- 'His wife nagged him yesterday for coming home late.' Elena shows a brisk approach right away, leaning on "zhena" ("wife") before closing the thought with "vchera" ("yesterday").
-- 'What did he say? Nothing.' Barinov prompts earnestly without holding back, putting "skazal" ("said") alongside "chto" ("what") in a tight, everyday turn of phrase.
+- 'Are you tired, Viktor Petrovich?' Elena inquires point-blank in front of Barinov without any preamble.
+- 'I do not even know the meaning of that word.' Barinov reaches for one vivid term in reply: "znacheniya" means "meaning" (from "znacheniye"), giving the line its exact edge.
+- 'I would like to ask a bit more about the team.' Barinov speaks up quietly in their talk, saying out loud what both of them already know.
+- 'What are you saying? And why do you need that?' Elena questions quietly while looking straight at Barinov here.
+- 'It is hard to work in a team when you know nothing about anyone.' Barinov leans on this direct piece for Elena: "komande" means "team" (from "komanda"), giving the line its exact edge.
+- 'I understand. Well, alright.' Elena sends that reply at once: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'This is Misha. You already know him.' Elena weighs in openly before Barinov, without trying to dress up how she really feels.
+- 'He performs the duties of sous-chef.' Elena points to one loaded touch in earnest: "ispolnyayet" means "performs", and it carries the main weight of what Elena is saying.
+- 'A responsible worker.' Elena offers that line with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'He is afraid of his wife like fire.' Elena cuts in wryly to settle things, bringing things back to earth after the buildup.
+- 'His wife nagged him yesterday for coming home late.' Elena points to one key choice for Barinov: "zapilila" means "to yesterday" (from "zapilit"), giving the line its exact edge.
+- 'What did he say? Nothing.' Barinov puts the reaction calmly now: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.

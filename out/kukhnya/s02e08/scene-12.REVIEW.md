@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I always thought that you were simply an idiot.' Barinov projects a firm tone toward Elena, joining "vsegda" ("always") to "dumal" ("thought") so every word pulls its weight.
-- 'Wait, you are not just an idiot.' Max brings an earnest view across the room, weaving "idiot" ("idiot") together with "no" ("but") just the way native speakers do.
-- 'Why the hell did you decide to do that.' Elena takes a measured view toward Barinov, linking "cherta" ("devil, darn"), "reshil" ("has decided"), and "kakogo" ("what") in one brisk exchange.
-- 'Chef, I just thought it would help.' Max maintains a steady tack straight away, pairing "podumal" ("would think") with "shef" ("Chef") to get the point across in plain spoken Russian.
-- 'Good afternoon once again.' Max conveys a thoughtful direction right away, building the phrase around "yeshche" ("still") and "raz" ("time, once") for a crisp, natural delivery.
-- 'How is your mood today?' Elena challenges sharply on the spot, linking "kak" ("how") directly with "nastroyeniye" ("mood"), since Russian drops "is" and "are" in the present.
-- 'Do you have many guests?' Barinov inquires boldly right away, building the phrase around "gostey" ("guests") and "mnogo" ("a lot") for a crisp, natural delivery.
-- 'It is a message from Elena.' Max offers a clear bearing in their talk, placing "soobshcheniye" ("message") straight beside "ot" ("from") with no word for "to be" needed.
-- 'Wait, what is that?' Elena quizzes bluntly with Barinov now, combining "chto" ("what") and "eto" ("this") so the key meaning lands right away.
-- 'Do not worry, Chef.' Barinov projects a frank bearing at once, pairing "volnuytes" ("worry") with "da" ("yes") to get the point across in plain spoken Russian.
-- 'I will delete the whole thing right now.' Max adopts an earnest view for Barinov, pairing "seychas" ("now") with "udalyu" ("to delete, to remove") so the "-sya" ending carries the action.
-- 'We have to reply something to her.' Elena takes a grounded attitude in this beat, leaning on "nado" ("it is necessary") before closing the thought with "otvetit" ("answer").
-- 'Write it down like this.' Barinov projects a candid note right away, joining "napishi" ("write") to "tak" ("so") so every word pulls its weight.
+- 'I always thought that you were simply an idiot.' Barinov jumps in honestly beside Elena, testing Elena's reaction in the middle of the exchange.
+- 'Wait, you are not just an idiot.' Max anchors one pointed choice right here: "idiot" means "idiot", and it carries the main weight of what Max is saying.
+- 'Why the hell did you decide to do that.' Elena gives this line beside Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Chef, I just thought it would help.' Max chimes in quietly hearing Elena, to clear the air between them once and for all.
+- 'Good afternoon once again.' Max sharpens one classic term with Barinov: "dobryy" means "good", and it carries the main weight of what Max is saying.
+- 'How is your mood today?' Elena makes this statement with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Do you have many guests?' Barinov challenges curiously about what Elena just brought up.
+- 'It is a message from Elena.' Max grounds one practical expression toward Elena: "soobshcheniye" means "message", and it carries the main weight of what Max is saying.
+- 'Wait, what is that?' Elena hands over the reply with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Do not worry, Chef.' Barinov jumps in wryly before Max, grounding the moment in plain reality.
+- 'I will delete the whole thing right now.' Max frames one telling piece at once: "seychas" means "now", and it carries the main weight of what Max is saying.
+- 'We have to reply something to her.' Elena phrases this point without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Write it down like this.' Barinov jumps in wryly beside Elena, without trying to dress up how he really feels.

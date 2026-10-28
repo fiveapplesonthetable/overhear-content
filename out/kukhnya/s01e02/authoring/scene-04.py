@@ -37,7 +37,7 @@ WALK = [
     (2, None, "'Chef, I didn't take it.' Nastya quickly denies any involvement in the disappearance."),
     (3, None, "'I repeat.' Chef Barinov slowly grinds out a warning that he is losing patience."),
     (4, None, "'Who took my knife?' He shouts the question again to the terrified room."),
-    (5, None, "'I don' Nastya nervously maintains her total ignorance of the situation."),
+    (5, None, "'I don't know, chef.' Nastya nervously maintains her total ignorance of the situation."),
     (6, None, "'Nobody will go home from here.' Chef Barinov dramatically holds the entire staff hostage."),
     (7, None, "'Until you find the knife.' He sets an impossible condition for anyone leaving work today."),
     (8, None, "'Understood, chef.' Nastya meekly accepts the dictator's outrageous decree."),

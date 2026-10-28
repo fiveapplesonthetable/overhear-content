@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What on earth are the cooks doing in the dining room?' Barinov presses honestly across the room, joining "povara" ("cook") to "zale" ("hall") so every word pulls its weight.
-- 'What is the meaning of this?' Lyova wonders plainly beside Barinov, linking "chto" ("what") directly with "eto" ("this"), since Russian drops "is" and "are" in the present.
-- 'The cooks are personally bringing out what they prepared.' Barinov establishes a candid footing toward Lyova, anchoring the Russian line on "povara" ("cook") and "prinosyat" ("bring") without extra filler.
-- 'What the hell are you people doing, huh?' Lyova asks earnestly in the room, leaning on "tvorite" ("are doing, perpetrating") before closing the thought with "vy" ("you").
-- 'We will fix everything right now.' Barinov sustains a playful stance as the scene unfolds, linking "seychas" ("now"), "ispravim" ("will fix, will correct"), and "my" ("we") in one brisk exchange.
-- 'So to speak.' Lyova presents an easygoing note straight away, pairing "skazat" ("tell") with "tak" ("so") to get the point across in plain spoken Russian.
-- 'Follow me, right now.' Barinov shares an emphatic bearing right away, pairing "za" ("for") with "mnoy" ("me") to get the point across in plain spoken Russian.
-- 'What is going on in our restaurant?' Lyova checks dryly across the room, building the phrase around "proiskhodit" ("is going on") and "chto" ("what") for a crisp, natural delivery.
-- 'They did not show up for work today.' Barinov strikes a resolute tone at once, using "vyshli" (from "vyyti", "came out") alongside "segodnya" ("today") to shape the meaning.
-- 'What do you mean, they did not show up?' Lyova tests steadily to Barinov here, putting "kak" ("how") alongside "vyshli" ("came out") in a tight, everyday turn of phrase.
-- 'You do not even know where your own subordinates are?' Barinov challenges briskly in front of Lyova, using "znayete" (from "znat", "know") alongside "gde" ("where") to shape the meaning.
-- 'Do you know what that says about you, huh?' Lyova challenges warmly in the room, using "znayete" (from "znat", "know") alongside "govorit" ("talks") to shape the meaning.
-- 'And you know, the old man is right.' Barinov projects a playful tone right away, combining "prav" ("right") and "ved" ("after all") so the key meaning lands right away.
+- 'What on earth are the cooks doing in the dining room?' Barinov phrases this point briskly now: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'What is the meaning of this?' Lyova prompts briskly before Barinov can change the subject.
+- 'The cooks are personally bringing out what they prepared.' Barinov emphasizes one clear touch with Lyova: "prigotovili" means "cooked, prepared" (from "prigotovit"), giving the line its exact edge.
+- 'What the hell are you people doing, huh?' Lyova delivers the comeback facing Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'We will fix everything right now.' Barinov stands firm promptly with a shrug, watching Lyova's face to see how the news lands.
+- 'So to speak.' Lyova anchors this telling choice in earnest: "skazat" means "tell", and it carries the main weight of what Lyova is saying.
+- 'Follow me, right now.' Barinov sends the reaction for Lyova: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What is going on in our restaurant?' Lyova questions wryly as Barinov tries to explain the situation.
+- 'They did not show up for work today.' Barinov leans on one loaded touch in earnest: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
+- 'What do you mean, they did not show up?' Lyova shares the comeback plainly here: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'You do not even know where your own subordinates are?' Barinov asks promptly to see how Lyova will answer on the spot.
+- 'Do you know what that says about you, huh?' Lyova leans on this vivid expression for Barinov: "znayete" means "know" (from "znat"), giving the line its exact edge.
+- 'And you know, the old man is right.' Barinov voices that point facing Lyova: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Was that not the fish at all?' Mikhail probes warmly to Denis here, anchoring the Russian line on "voobshche" ("at all") and "byla" ("was") without extra filler.
-- 'In the morning I ate expired yogurt.' Mikhail strikes a warm approach in the conversation, combining "utrom" ("this morning") and "prosrochennyy" ("expired") so the key meaning lands right away.
-- 'Come on inside here, stubborn horse.' Mikhail maintains a warm line across the room, pairing "davay" ("let's") with "zakhodi" ("come in") to get the point across in plain spoken Russian.
-- 'I am leading him in here for the night.' Mikhail takes a measured approach in the scene, joining "vedu" ("lead, am ahead") to "syuda" ("here") so every word pulls its weight.
-- 'I cannot leave him in the courtyard.' Mikhail brings a sharp attitude as they talk, combining "nelzya" ("not allowed") and "dvore" ("yard, courtyard") so the key meaning lands right away.
-- 'The sight in here is not very pleasant.' Mikhail sustains a sharp line in the conversation, building the phrase around "zrelishche" ("sight, spectacle") and "tut" ("here") for a crisp, natural delivery.
-- 'It is fine, he will endure until morning.' Mikhail sets a firm approach in the scene, pairing "utra" ("morning") with "poterpit" ("will endure") to get the point across in plain spoken Russian.
-- 'Katya, did you talk with Nikita?' Denis asks briskly across the room, using "pogovorila" (from "pogovorit", "talked, had a talk") alongside "katya" ("Katya") to shape the meaning.
-- 'No, it did not work out again today.' Katya holds a direct direction toward Denis, pairing "segodnya" ("today") with "opyat" ("again") to get the point across in plain spoken Russian.
-- 'I spent half the day with my father.' Katya chooses a measured stance for Mikhail, weaving "poldnya" ("half a day") together with "provela" ("to spend, to lead") just the way native speakers do.
-- 'And then Nikita left for Saint Petersburg.' Katya sustains a measured direction toward Denis, linking "potom" ("then"), "uyekhal" ("left, went away"), and "piter" ("petersburg") in one brisk exchange.
-- 'Do not be offended, this is important to me.' Katya picks a playful rhythm in the scene, anchoring the Russian line on "obizhaysya" ("take offence") and "vazhno" ("important, mattering") without extra filler.
+- 'Was that not the fish at all?' Mikhail voices the reaction frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'In the morning I ate expired yogurt.' Mikhail replies lightly facing Katya, so Katya knows he is not just making small talk.
+- 'Come on inside here, stubborn horse.' Mikhail picks one vivid touch right here: "upryamaya" means "stubborn" (from "upryamyy"), giving the line its exact edge.
+- 'I am leading him in here for the night.' Mikhail speaks sharply across the room, testing Katya's reaction in the middle of the exchange.
+- 'I cannot leave him in the courtyard.' Mikhail continues wryly toward Denis, making his position completely clear.
+- 'The sight in here is not very pleasant.' Mikhail grounds one memorable element at once: "zrelishche" means "sight, spectacle", and it carries the main weight of what Mikhail is saying.
+- 'It is fine, he will endure until morning.' Mikhail answers quietly as things stand, leaving no doubt about where he stands.
+- 'Katya, did you talk with Nikita?' Denis prompts eagerly in front of Mikhail without any preamble.
+- 'No, it did not work out again today.' Katya grounds one memorable detail in earnest: "segodnya" means "today", and it carries the main weight of what Katya is saying.
+- 'I spent half the day with my father.' Katya responds pointedly as they talk, letting the remark speak for itself.
+- 'And then Nikita left for Saint Petersburg.' Katya stands firm right away facing Denis, without trying to dress up how she really feels.
+- 'Do not be offended, this is important to me.' Katya centers one familiar detail with Mikhail: "obizhaysya" means "take offence" (from "obizhatsya"), giving the line its exact edge.

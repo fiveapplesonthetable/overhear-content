@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, forgive me, please.' Fedya favors an unhurried line beside Max, building the phrase around "slushay" ("listen") and "prosti" ("sorry, forgive me") for a crisp, natural delivery.
-- 'Could you quickly go tell them right now?' Max tests boldly as they speak, linking "mozhesh" ("can"), "seychas" ("now"), and "bystrenko" ("guests") in one brisk exchange.
-- 'Now that is not very interesting.' Fedya sets a playful tempo with Max, linking "ochen" ("very much"), "interesno" ("interesting"), and "vot" ("there, here") in one brisk exchange.
-- 'And why does it say head chef Fyodor Mikhailovich?' Max asks lightly in the room, pairing "pochemu" ("why") with "shef-povar" ("head chef") to get the point across in plain spoken Russian.
-- 'And not Arseniy Andreyevich, huh?' Fedya tests earnestly without a pause, putting "andreyevich" ("andreyevich") alongside "ne" ("not") in a tight, everyday turn of phrase.
-- 'Oh, I beg of you.' Max shares a direct tack in front of Fedya, leaning on "umolyayu" ("I beg") before closing the thought with "ya" ("I").
-- 'Have you taken a look at yourself?' Fedya quizzes briskly as the beat lands, putting "videli" ("saw") alongside "vy" ("you") in a tight, everyday turn of phrase.
-- 'Because of who you are and who they are.' Max sustains an honest direction beside Fedya, linking "to" ("that"), "chto" ("what"), and "vy" ("you") in one brisk exchange.
-- 'And so what?' Fedya asks firmly without a pause, leaning on "chyo" ("what") as a compact, one-word response that needs no extra words.
-- 'In French it sounds prettier, of course, but the meaning is the same.' Max shows a playful line across the room, linking "po-frantsuzski" ("in French"), "zvuchit" ("sounds"), and "konechno" ("of course") in one brisk exchange.
-- 'Wanna bet on it?' Fedya presses sharply with Max now, leaning on "sporim" ("wanna bet") as a compact, one-word response that needs no extra words.
-- 'You? And me?' Max checks directly as the talk turns, combining "ty" ("you") and "ya" ("I") so the key meaning lands right away.
-- 'Come on, for three grand.' Fedya shares an honest angle beside Max, using "davay" (from "davat", "let's") alongside "shtuki" ("thing, piece") to shape the meaning.
+- 'Listen, forgive me, please.' Fedya voices that reply with candor: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Could you quickly go tell them right now?' Max challenges deadpan about what Fedya just brought up.
+- 'Now that is not very interesting.' Fedya highlights this clear detail on cue: "interesno" means "interesting", and it carries the main weight of what Fedya is saying.
+- 'And why does it say head chef Fyodor Mikhailovich?' Max asks skeptically how Fedya expects that to work in practice.
+- 'And not Arseniy Andreyevich, huh?' Fedya questions plainly why things suddenly took this turn between them.
+- 'Oh, I beg of you.' Max highlights this telling choice with Fedya: "umolyayu" means "I beg" (from "umolyat"), giving the line its exact edge.
+- 'Have you taken a look at yourself?' Fedya hands over the reply right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Because of who you are and who they are.' Max stands firm promptly to be clear, making his position completely clear.
+- 'And so what?' Fedya drops that remark briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'In French it sounds prettier, of course, but the meaning is the same.' Max steps in steadily across the room, steering the talk right where he wants it.
+- 'Wanna bet on it?' Fedya questions curiously how Max expects that to work in practice.
+- 'You? And me?' Max frames the comment for Fedya: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
+- 'Come on, for three grand.' Fedya aims that reply beside Max: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

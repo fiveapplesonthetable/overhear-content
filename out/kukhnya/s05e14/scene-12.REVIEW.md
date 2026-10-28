@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, Elena Pavlovna just arrived here!' Lyova establishes an emphatic posture during the exchange, anchoring the Russian line on "tam" ("there") and "seychas" ("now") without extra filler.
-- 'She is already parking near our service entrance.' Lyova projects an unhurried footing in the conversation, weaving "uzhe" ("already, now") together with "parkuyetsya" ("park") just the way native speakers do.
-- 'From this moment a day off is declared for all cooks!' Barinov brings a wry stance in front of Elena, joining "momenta" ("moment") to "povarov" ("cooks") so every word pulls its weight.
-- 'Get out of here quickly, only through the main hall!' Barinov shares a playful style for Lyova, pairing "zhivo" ("quickly, now") with "ukhodite" ("leave, go away") to get the point across in plain spoken Russian.
-- 'And what about our orders on the stoves?' Lyova challenges directly from the start, linking "kak" ("how"), "zakazy" ("orders"), and "plitakh" ("stove, slab") in one brisk exchange.
-- 'Go, I will calmly finish everything here myself!' Barinov sustains a measured footing across the room, joining "ukhodite" ("leave, go away") to "tut" ("here") so every word pulls its weight.
-- 'I am counting to three, whoever stays will get fined!' Barinov conveys a playful note at this moment, combining "schitayu" ("am counting") and "ostanetsya" ("will remain") so the key meaning lands right away.
-- 'Chef, where are all our cooks anyway?' Lyova presses briskly in this moment, linking "gde" ("where") directly with "voobshche" ("at all"), since Russian drops "is" and "are" in the present.
-- 'Lyova, hide quickly, sit quietly in there!' Barinov picks a calm view as they talk, combining "bystro" ("quickly") and "spryachsya" ("to hide") so the key meaning lands right away.
-- 'Hi, Vitya, I decided to help you today!' Elena maintains a serious course without hesitation, combining "reshila" ("decided") and "segodnya" ("today") so the key meaning lands right away.
-- 'How great, then change clothes and take the orders!' Barinov adopts a pointed position across the room, putting "zdorovo" ("great, cool") alongside "togda" ("back then") in a tight, everyday turn of phrase.
-- 'Yes, Chef, let's start working right away!' Elena presents a steady approach in their talk, joining "yest" ("there is") to "davay" ("let's") so every word pulls its weight.
+- 'Chef, Elena Pavlovna just arrived here!' Lyova cuts in briskly hearing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'She is already parking near our service entrance.' Lyova sharpens one clear piece with Elena: "sluzhebnogo" means "service, staff" (from "sluzhebnyy"), giving the line its exact edge.
+- 'From this moment a day off is declared for all cooks!' Barinov directs the comeback calmly now: the "-sya" ending on "obyavlyayetsya" ("be declared") turns the action inward or makes it happen between people naturally.
+- 'Get out of here quickly, only through the main hall!' Barinov opens up frankly across the room, bringing things back to earth after the buildup.
+- 'And what about our orders on the stoves?' Lyova leans on one clear touch with Barinov: "plitakh" means "stove, slab" (from "plita"), giving the line its exact edge.
+- 'Go, I will calmly finish everything here myself!' Barinov stands firm evenly with a sigh, bringing things back to earth after the buildup.
+- 'I am counting to three, whoever stays will get fined!' Barinov fires back honestly across the room, refusing to let the moment slip past.
+- 'Chef, where are all our cooks anyway?' Lyova leans on one telling element toward Elena: "voobshche" means "at all", and it carries the main weight of what Lyova is saying.
+- 'Lyova, hide quickly, sit quietly in there!' Barinov sends the thought with ease: the "-sya" ending on "spryachsya" ("to hide") turns the action inward or makes it happen between people naturally.
+- 'Hi, Vitya, I decided to help you today!' Elena chimes in evenly on the spot, bringing things back to earth after the buildup.
+- 'How great, then change clothes and take the orders!' Barinov highlights one key touch on cue: "pereodevaysya" means "change clothes" (from "pereodevatsya"), giving the line its exact edge.
+- 'Yes, Chef, let's start working right away!' Elena sends the reply plainly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

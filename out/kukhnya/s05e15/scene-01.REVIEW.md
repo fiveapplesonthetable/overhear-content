@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, I am at a different age for such surprises.' Elena chooses a warm tempo in front of Barinov, anchoring the Russian line on "drugoy" ("other") and "vozrast" ("age") without extra filler.
-- 'Well, here we have arrived already, look!' Barinov shows an emphatic posture across the room, leaning on "uzhe" ("already, now") before closing the thought with "prishli" ("have come").
-- 'This right here is my main surprise for you.' Barinov maintains an earnest line in the conversation, leaning on "glavnyy" ("main, chief") before closing the thought with "syurpriz" ("surprise").
-- 'Vitya, the thing is that I cannot marry you.' Elena adopts a playful note in the conversation, joining "delo" ("matter") to "mogu" ("can") so every word pulls its weight.
-- 'Wait, what do you mean you are not divorced yet?' Barinov queries decisively in their exchange, building the phrase around "podozhdi" ("wait") and "znachit" ("then, so") for a crisp, natural delivery.
-- 'You know we have not been husband and wife for a long time.' Elena sustains a calm course at once, joining "znayesh" ("know") to "davno" ("for a long time") so every word pulls its weight.
-- 'That stamp in the passport was just a formality.' Elena offers a clear tempo as they talk, joining "shtamp" ("stamp") to "pasporte" ("passport") so every word pulls its weight.
-- 'Do you want me to call right now and settle everything?' Elena quizzes steadily across the room, using "khochesh" (from "khotet", "do you want") alongside "seychas" ("now") to shape the meaning.
-- 'Chef, we are all freezing out here on the street!' Senya presents a sharp rhythm on the spot, pairing "voobshche-to" ("actually") with "tut" ("here") to get the point across in plain spoken Russian.
-- 'Tell us, are you getting married today or not?' Senya prompts openly across the room, joining "skazhite" ("tell") to "segodnya" ("today") so every word pulls its weight.
-- 'Thank you for coming, but the wedding is canceled for now.' Barinov takes a grounded manner straight away, joining "spasibo" ("thank you") to "prishli" ("have come") so every word pulls its weight.
-- 'I hope only temporarily, let's go to the car.' Barinov chooses an honest tone as the scene unfolds, combining "nadeyus" ("hope so") and "tolko" ("only") so the key meaning lands right away.
+- 'Vitya, I am at a different age for such surprises.' Elena leans on this vivid choice with Barinov: "syurprizov" means "surprise" (from "syurpriz"), giving the line its exact edge.
+- 'Well, here we have arrived already, look!' Barinov steps in frankly in this moment, testing Senya's reaction in the middle of the exchange.
+- 'This right here is my main surprise for you.' Barinov chimes in lightly as they talk, saying out loud what both of them already know.
+- 'Vitya, the thing is that I cannot marry you.' Elena frames this sharp touch on cue: "delo" means "matter", and it carries the main weight of what Elena is saying.
+- 'Wait, what do you mean you are not divorced yet?' Barinov sends this line beside Elena: putting the question word "chto" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'You know we have not been husband and wife for a long time.' Elena stands firm plainly with a sigh, without trying to dress up how she really feels.
+- 'That stamp in the passport was just a formality.' Elena focuses on one direct choice at once: "formalnostyu" means "formality" (from "formalnost"), giving the line its exact edge.
+- 'Do you want me to call right now and settle everything?' Elena voices the comeback facing Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'Chef, we are all freezing out here on the street!' Senya follows up right away around Barinov, to clear the air between them once and for all.
+- 'Tell us, are you getting married today or not?' Senya highlights one concrete piece on cue: "zhenitsya" means "to marry", and it carries the main weight of what Senya is saying.
+- 'Thank you for coming, but the wedding is canceled for now.' Barinov brings the comeback on cue: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'I hope only temporarily, let's go to the car.' Barinov responds wryly as they talk, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, do not hang up, now she really is giving birth!' Kostya offers an emphatic tempo as they talk, using "brosay" (from "brosat", "drop, abandon") alongside "trubku" ("the receiver") to shape the meaning.
-- 'The most important thing in life is that you must love a woman.' Max projects a natural approach across the room, joining "samoye" ("the most") to "glavnoye" ("important") so every word pulls its weight.
-- 'And you must do it with all your heart and fiercely!' Max sets a frank posture at once, leaning on "delat" ("do") before closing the thought with "nuzhno" ("necessary").
-- 'Otherwise what kind of real love is it then?' Max quizzes dryly as the talk turns, putting "inache" ("otherwise") alongside "togda" ("back then") in a tight, everyday turn of phrase.
-- 'Dasha, forgive me, but I urgently need to get to Moscow!' Max favors a wry position in the room, using "prosti" (from "prostit", "sorry, forgive me") alongside "srochno" ("urgent, urgently") to shape the meaning.
-- 'Tell me, how much does it cost to turn our plane around right now?' Max tests evenly to keep things clear, pairing "seychas" ("now") with "skazhi" ("say") so the "-sya" ending carries the action.
-- 'That will cost roughly five hundred thousand rubles.' Vika sets a calm attitude in front of Kostya, leaning on "budet" ("will be") before closing the thought with "stoit" ("cost").
-- 'And does your bank issue urgent loans to clients?' Max quizzes candidly in the room, weaving "bank" ("bank") together with "vydayot" ("to hand out") just the way native speakers do.
-- 'Max, do you really still love her that much?' Vika queries naturally in this moment, putting "deystvitelno" ("really, indeed") alongside "silno" ("strongly, much") in a tight, everyday turn of phrase.
-- 'Yes, Dasha, I love her very much!' Max projects an emphatic stance right away, anchoring the Russian line on "ochen" ("very much") and "silno" ("strongly, much") without extra filler.
-- 'Alright, sign the papers, we will turn the plane back to Moscow now.' Vika projects a clear line in front of Kostya, building the phrase around "khorosho" ("good, fine") and "oformlyay" ("to draw up") for a crisp, natural delivery.
-- 'Thank you so much, Vika, just wait for me there!' Max projects a thoughtful mood in the conversation, building the phrase around "spasibo" ("thank you") and "ogromnoye" ("huge, so very much") for a crisp, natural delivery.
+- 'Max, do not hang up, now she really is giving birth!' Kostya weighs in quietly around Max, testing Max's reaction in the middle of the exchange.
+- 'The most important thing in life is that you must love a woman.' Max jumps in lightly around Vika, to clear the air between them once and for all.
+- 'And you must do it with all your heart and fiercely!' Max spotlights this key touch right here: "serdtsem" means "heart" (from "serdtse"), giving the line its exact edge.
+- 'Otherwise what kind of real love is it then?' Max offers the thought facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Dasha, forgive me, but I urgently need to get to Moscow!' Max speaks up openly in their talk, steering the talk right where he wants it.
+- 'Tell me, how much does it cost to turn our plane around right now?' Max picks one sharp piece on cue: "samolyot" means "plane", and it carries the main weight of what Max is saying.
+- 'That will cost roughly five hundred thousand rubles.' Vika answers calmly as things stand, watching Kostya's face to see how the news lands.
+- 'And does your bank issue urgent loans to clients?' Max prompts briskly as Vika tries to explain the situation.
+- 'Max, do you really still love her that much?' Vika emphasizes one colorful element at once: "deystvitelno" means "really, indeed", and it carries the main weight of what Vika is saying.
+- 'Yes, Dasha, I love her very much!' Max jumps in quietly with a smile, letting the remark speak for itself.
+- 'Alright, sign the papers, we will turn the plane back to Moscow now.' Vika jumps in steadily without any doubt, steering the talk right where she wants it.
+- 'Thank you so much, Vika, just wait for me there!' Max underscores one key detail on cue: "ogromnoye" means "huge, so very much" (from "ogromnyy"), giving the line its exact edge.

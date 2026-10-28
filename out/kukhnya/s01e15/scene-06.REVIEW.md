@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'He cannot afford it on his own.' Explaining his sense of obligation, Kostya worries about leaving his friend in a tough financial spot.
 - 'If you do not want to live with me, say so.' Max confronts him directly, demanding honesty if he is actually trying to find a way out.
 - 'I do want to. Max does not want to.' Clarifying the situation, he explains that he is ready, but his roommate is the one holding things back.
-- 'She will not believe you.' Warning his friend, the speaker points out that the excuse sounds too flimsy to be trusted.
+- 'She will not believe you.' Listening to Kostya's rehearsal, Max warns his friend that Nastya will never buy such a flimsy excuse.
 - 'I understand him. But I will talk to him.' Resolving to fix the issue, Kostya promises to have a serious conversation to sort things out.
 - 'You need to do this today.' Adding pressure, Max insists that the problem must be handled immediately without delay.
 - 'I promise.' Giving his word, Kostya confirms he will follow through on his commitment.

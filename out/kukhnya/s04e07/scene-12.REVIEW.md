@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gentlemen cooks, our task is very difficult!' Barinov holds a serious bearing straight away, putting "gospoda" ("gentlemen") alongside "povara" ("cook") in a tight, everyday turn of phrase.
-- 'The guest still has the unpleasant taste of the previous dish.' Barinov sustains an earnest posture at once, combining "gostya" ("guest, visitor") and "ostalsya" ("remained") so the key meaning lands right away.
-- 'We must show him that we know how to cook!' Barinov keeps a clear approach in the conversation, anchoring the Russian line on "nado" ("it is necessary") and "pokazat" ("to show") without extra filler.
-- 'Fedya, quickly make a tender poached egg for the salad!' Barinov presents an honest course in the scene, linking "bystro" ("quickly"), "delay" ("do"), and "nezhnoye" ("tender") in one brisk exchange.
-- 'It will be ready in exactly two minutes, Chef!' Fedya adopts a pointed tempo in the scene, putting "budet" ("will be") alongside "gotovo" ("ready") in a tight, everyday turn of phrase.
-- 'Senya, and the fluffy mashed potatoes are on you!' Barinov picks a steady mood for Senya, linking "vozdushnoye" ("lady") directly with "kartofelnoye" ("potatoes"), since Russian drops "is" and "are" in the present.
-- 'Our mashed potatoes will be the tenderest in the world!' Senya holds a thoughtful angle for Barinov, putting "pyure" ("potatoes") alongside "budet" ("will be") in a tight, everyday turn of phrase.
-- 'Louis, my pal, will you delight us today?' Barinov challenges earnestly on the spot, linking "drug" ("friend"), "segodnya" ("today"), and "poraduyesh" ("to today") in one brisk exchange.
-- 'Louis said that his dessert will be magnificent!' Fedya takes a brisk position across the room, joining "skazal" ("said") to "desert" ("dessert") so every word pulls its weight.
-- 'How good it is when everyone is busy with their own craft!' Barinov sustains a steady stance with Senya, anchoring the Russian line on "kak" ("how") and "khorosho" ("good, fine") without extra filler.
-- 'It is for this very craft that we were all created.' Barinov projects a steady mood with Fedya, using "dela" (from "delo", "things, affairs") alongside "sozdany" ("created") to shape the meaning.
-- 'Working with you is a pure pleasure, Viktor Petrovich!' Senya takes a direct direction right away, pairing "rabotat" ("to work") with "udovolstviye" ("pleasure") to get the point across in plain spoken Russian.
+- 'Gentlemen cooks, our task is very difficult!' Barinov proceeds warmly with a nod, before Fedya can change the subject.
+- 'The guest still has the unpleasant taste of the previous dish.' Barinov focuses on this key element at once: "nepriyatnyy" means "unpleasant", and it carries the main weight of what Barinov is saying.
+- 'We must show him that we know how to cook!' Barinov shapes that remark for Fedya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Fedya, quickly make a tender poached egg for the salad!' Barinov follows up openly to settle things, testing Senya's reaction in the middle of the exchange.
+- 'It will be ready in exactly two minutes, Chef!' Fedya highlights this telling choice toward Barinov: "gotovo" means "ready" (from "gotovyy"), giving the line its exact edge.
+- 'Senya, and the fluffy mashed potatoes are on you!' Barinov aims the comeback without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Our mashed potatoes will be the tenderest in the world!' Senya proceeds openly toward Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Louis, my pal, will you delight us today?' Barinov grounds this direct detail right here: "poraduyesh" means "to today" (from "poradut"), giving the line its exact edge.
+- 'Louis said that his dessert will be magnificent!' Fedya speaks promptly in their talk, letting the remark speak for itself.
+- 'How good it is when everyone is busy with their own craft!' Barinov stands firm quietly on the spot, without trying to dress up how he really feels.
+- 'It is for this very craft that we were all created.' Barinov sharpens this sharp detail right here: "sozdany" means "created", and it carries the main weight of what Barinov is saying.
+- 'Working with you is a pure pleasure, Viktor Petrovich!' Senya speaks right away as things stand, before Fedya can change the subject.

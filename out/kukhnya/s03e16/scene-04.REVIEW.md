@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, maybe we started all this for nothing?' Fedya asks wryly on the spot, pairing "mozhet" ("can") with "zrya" ("for nothing") to get the point across in plain spoken Russian.
-- 'Just think what a great life awaits us!' Senya favors a grounded approach with Fedya, using "podumay" (from "podumat", "think") alongside "zhizn" ("life") to shape the meaning.
-- 'You steal meat and immediately blame it on the poltergeist!' Senya conveys a grounded stance straight away, joining "ukral" ("stole") to "myaso" ("meat") so every word pulls its weight.
-- 'Question, who locked me in the shower room this morning?' Senya wonders pointedly without a pause, pairing "vopros" ("question, matter") with "utrom" ("this morning") so the "-sya" ending carries the action.
-- 'Of course, the evil poltergeist did it!' Fedya keeps a brisk tack as the scene unfolds, building the phrase around "konechno" ("of course") and "sdelal" ("did") for a crisp, natural delivery.
-- 'And if you smell in the morning, is it stale alcohol breath?' Senya presses bluntly to Fedya here, building the phrase around "utrom" ("this morning") and "pakhnet" ("it smells") for a crisp, natural delivery.
-- 'You can easily blame that on the poltergeist too!' Senya conveys a sharp direction with Fedya, building the phrase around "tozhe" ("too") and "mozhno" ("may, can") for a crisp, natural delivery.
-- 'Well alright, look how scary it turned out!' Fedya shares an emphatic attitude beside Senya, pairing "poluchilos" ("worked out") with "smotri" ("look") so the "-sya" ending carries the action.
-- 'It looks like real blood is painted on the mirror!' Fedya takes a grounded approach beside Senya, linking "zerkale" ("mirror"), "nastoyashchaya" ("real, genuine"), and "krov" ("blood") in one brisk exchange.
-- 'Fedya, that actually is real blood!' Senya adopts a warm stance on the spot, leaning on "yest" ("there is") before closing the thought with "nastoyashchaya" ("real, genuine").
-- 'Relax, it is just ordinary pig's blood!' Senya keeps a candid manner on the spot, putting "rasslabsya" ("relax") alongside "obychnaya" ("ordinary, usual") in a tight, everyday turn of phrase.
-- 'Alright, run quickly back to the kitchen!' Senya holds a calm style in their talk, linking "begi" ("run"), "skoreye" ("quickly, right away"), and "obratno" ("back") in one brisk exchange.
+- 'Senya, maybe we started all this for nothing?' Fedya spotlights this vivid detail for Senya: "zateyali" means "started, cooked up" (from "zateyat"), giving the line its exact edge.
+- 'Just think what a great life awaits us!' Senya leans on one concrete piece with Fedya: "podumay" means "think" (from "podumat"), giving the line its exact edge.
+- 'You steal meat and immediately blame it on the poltergeist!' Senya fires back wryly as things stand, refusing to let the moment slip past.
+- 'Question, who locked me in the shower room this morning?' Senya emphasizes this vivid term in reply: "dushevoy" means "in the shower room" (from "dushevaya"), giving the line its exact edge.
+- 'Of course, the evil poltergeist did it!' Fedya counters bluntly across the room, before Senya can change the subject.
+- 'And if you smell in the morning, is it stale alcohol breath?' Senya wonders frankly what Fedya is actually getting at here.
+- 'You can easily blame that on the poltergeist too!' Senya stresses this direct word in reply: "poltergeyst" means "poltergeist", and it carries the main weight of what Senya is saying.
+- 'Well alright, look how scary it turned out!' Fedya makes that reply frankly here: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Senya is on board.
+- 'It looks like real blood is painted on the mirror!' Fedya speaks sharply with a sigh, watching Senya's face to see how the news lands.
+- 'Fedya, that actually is real blood!' Senya colors one sharp word for Fedya: "nastoyashchaya" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
+- 'Relax, it is just ordinary pig's blood!' Senya highlights one loaded term with Fedya: "obychnaya" means "ordinary, usual" (from "obychnyy"), giving the line its exact edge.
+- 'Alright, run quickly back to the kitchen!' Senya proceeds sharply to settle things, steering the talk right where he wants it.

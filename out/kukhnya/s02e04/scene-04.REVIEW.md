@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am Kristina.' Barinov takes a serious rhythm beside Kristina, putting "ya" ("I") alongside "kristina" ("Kristina") in a tight, everyday turn of phrase.
-- 'Hello, Kristina.' Vika shares an unhurried line as they talk, joining "zdravstvuyte" ("hello") to "kristina" ("Kristina") so every word pulls its weight.
-- 'Come on in and take a look, this is my team of cooks.' Kristina favors an unhurried mood at this moment, linking "prokhodite" ("come in"), "oznakomtes" ("familiarize yourself"), and "komanda" ("team") in one brisk exchange.
-- 'Very nice to meet you, great guys.' Barinov favors a candid line at this moment, combining "ochen" ("very much") and "priyatno" ("pleasant") so the key meaning lands right away.
-- 'I will answer it myself.' Barinov favors a lively manner as they talk, building the phrase around "otvechu" ("will answer") and "ya" ("I") for a crisp, natural delivery.
-- 'And secondly.' Kristina keeps a calm angle at this moment, putting all the weight on "vo-vtorykh" ("second") so the reply lands immediately.
-- 'Well, how could one not visit Russia after that?' Barinov probes calmly right away, joining "kak" ("how") to "priyezzhat" ("to come, to arrive") so every word pulls its weight.
-- 'Right this way, Valdemar, come in.' Vika adopts a measured tack with Kristina, pairing "prokhodite" ("come in") with "vot" ("there, here") to get the point across in plain spoken Russian.
-- 'This is our wonderful kitchen.' Kristina strikes a serious note as the scene unfolds, building the phrase around "prekrasnaya" ("wonderful") and "kukhnya" ("kitchen") for a crisp, natural delivery.
-- 'Well, maybe just a little bit bigger.' Barinov offers a wry footing in front of Vika, pairing "chut-chut" ("a little bit") with "bolshe" ("more") to get the point across in plain spoken Russian.
-- 'Well, for cooking, even one like this is enough.' Vika shares a firm style in the conversation, pairing "gotovit" ("to cook") with "dostatochno" ("enough") to get the point across in plain spoken Russian.
-- 'Whereas for writing books.' Kristina conveys a measured view toward Vika, using "knigi" (from "kniga", "books") alongside "pisat" ("to write") to shape the meaning.
-- 'And this is our head chef, Viktor Petrovich.' Vika strikes an unhurried angle with Barinov, joining "shef-povar" ("head chef") to "eto" ("this") so every word pulls its weight.
+- 'I am Kristina.' Barinov frames this line right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Hello, Kristina.' Vika voices that answer on cue: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Come on in and take a look, this is my team of cooks.' Kristina speaks up openly in this moment, so Barinov knows she is not just making small talk.
+- 'Very nice to meet you, great guys.' Barinov sharpens one pointed expression with Vika: "otlichnyye" means "excellent" (from "otlichnyy"), giving the line its exact edge.
+- 'I will answer it myself.' Barinov offers this point in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'And secondly.' Kristina counters wryly to be clear, keeping the focus on what actually matters here.
+- 'Well, how could one not visit Russia after that?' Barinov uses one vivid choice at once: "priyezzhat" means "to come, to arrive", and it carries the main weight of what Barinov is saying.
+- 'Right this way, Valdemar, come in.' Vika hands over that thought to Kristina: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'This is our wonderful kitchen.' Kristina replies warmly watching Barinov, before Barinov can change the subject.
+- 'Well, maybe just a little bit bigger.' Barinov uses this telling term on cue: "chut-chut" means "a little bit", and it carries the main weight of what Barinov is saying.
+- 'Well, for cooking, even one like this is enough.' Vika opens up wryly beside Barinov, watching Barinov's face to see how the news lands.
+- 'Whereas for writing books.' Kristina fires back earnestly with a sigh, so Vika knows she is not just making small talk.
+- 'And this is our head chef, Viktor Petrovich.' Vika underscores one telling piece in earnest: "shef-povar" means "head chef", and it carries the main weight of what Vika is saying.

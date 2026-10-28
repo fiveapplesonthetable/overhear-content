@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Some strange music was playing in the dream.' Denis sets an honest stance as the scene unfolds, pairing "sne" ("dream, sleep") with "igrala" ("played") to get the point across in plain spoken Russian.
-- 'I look at my hands.' Denis brings a frank position in the conversation, anchoring the Russian line on "smotryu" ("look") and "ruki" ("hands") without extra filler.
-- 'And they are small, like a child's.' Denis favors a playful angle in the scene, using "malenkiye" (from "malenkiy", "little ones") alongside "kak" ("how") to shape the meaning.
-- 'Denis, I do not want to upset you.' Senya offers a thoughtful stance at this moment, joining "khochu" ("want") to "rasstraivat" ("upset") so every word pulls its weight.
-- 'Listen, Denis, do not worry so much.' Ainura sustains a steady position at this moment, leaning on "slushay" ("listen") before closing the thought with "perezhivay" ("worry").
-- 'There is nothing terribly bad in that.' Ainura chooses a wry angle beside Senya, joining "ochen" ("very much") to "strashnogo" ("terrible, serious") so every word pulls its weight.
-- 'You will just break your arm soon, and that's all.' Ainura offers a resolute note in the conversation, building the phrase around "prosto" ("just") and "skoro" ("soon") for a crisp, natural delivery.
-- 'Thanks, Ainura, you really comforted me.' Denis takes a clear view in this beat, putting "spasibo" ("thank you") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'Enough, why did you jump on the guy?' Senya probes sharply in their exchange, linking "khvatit" ("enough"), "napali" ("attacked, mugged"), and "parnya" ("boyfriend") in one brisk exchange.
-- 'So what if he has small hands, what next?' Senya challenges decisively to Denis here, linking "malenkiye" ("little ones"), "ruki" ("hands"), and "dalshe" ("next, go on") in one brisk exchange.
-- 'All right, pal, do not worry, give me five!' Senya chooses a pointed view in the scene, pairing "drug" ("friend") with "perezhivay" ("worry") to get the point across in plain spoken Russian.
-- 'All right, everyone disperse to your stations quickly!' Ainura brings a natural rhythm for Senya, combining "bystro" ("quickly") and "razoshlis" ("broke up, parted ways") so the key meaning lands right away.
+- 'Some strange music was playing in the dream.' Denis answers candidly with a nod, so Ainura knows he is not just making small talk.
+- 'I look at my hands.' Denis reaches for one memorable detail in reply: "smotryu" means "look" (from "smotret"), giving the line its exact edge.
+- 'And they are small, like a child's.' Denis shapes the comment frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Denis, I do not want to upset you.' Senya weighs in boldly facing Denis, keeping the focus on what actually matters here.
+- 'Listen, Denis, do not worry so much.' Ainura grounds one colorful term toward Denis: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
+- 'There is nothing terribly bad in that.' Ainura phrases this update right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You will just break your arm soon, and that's all.' Ainura weighs in at once with Denis, bringing things back to earth after the buildup.
+- 'Thanks, Ainura, you really comforted me.' Denis picks one colorful choice on cue: "spasibo" means "thank you", and it carries the main weight of what Denis is saying.
+- 'Enough, why did you jump on the guy?' Senya delivers that remark with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Ainura purely through rising pitch at the end.
+- 'So what if he has small hands, what next?' Senya checks point-blank while looking straight at Denis here.
+- 'All right, pal, do not worry, give me five!' Senya reaches for one memorable piece toward Ainura: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
+- 'All right, everyone disperse to your stations quickly!' Ainura frames that thought right away: the "-sya" ending on "razoshlis" ("broke up, parted ways") turns the action inward or makes it happen between people naturally.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Stay calm, Your Royal Majesty, just stay calm.' Barinov conveys a steady stance in the room, combining "spokoystviye" ("calmness, composure") and "korolevskoye" ("royal") so the key meaning lands right away.
-- 'That is what you are going to get now, Lyova.' Barinov maintains a candid mood with Lyova, pairing "budet" ("will be") with "teper" ("now") to get the point across in plain spoken Russian.
-- 'And how did you think you could joke with me?' Barinov queries calmly on the spot, leaning on "kak" ("how") before closing the thought with "dumal" ("thought").
-- 'With us it is an eye for an eye, pal.' Barinov offers an emphatic direction on the spot, leaning on "oko" ("pal") before closing the thought with "drug" ("friend").
-- 'And of course, a big claw for a claw.' Barinov establishes an easygoing tone at once, leaning on "konechno" ("of course") before closing the thought with "bolshaya" ("large").
-- 'Right now I will quietly unplug this refrigerator.' Barinov offers a firm mood in the conversation, linking "seychas" ("now"), "tikho" ("easy, quiet"), and "vyklyuchu" ("to turn off") in one brisk exchange.
-- 'By morning the expensive crab will definitely spoil.' Barinov shows a frank attitude without hesitation, weaving "utru" ("morning") together with "dorogoy" ("dear") just the way native speakers do.
-- 'Viktor Petrovich, and what are you doing here?' Lyova challenges decisively without hesitation, building the phrase around "zdes" ("here") and "viktor" ("Viktor") for a crisp, natural delivery.
-- 'Why are you not sleeping at home yet?' Lyova quizzes calmly as they speak, weaving "pochemu" ("why") together with "yeshchyo" ("more, still") just the way native speakers do.
-- 'Why, do they fine people who are awake too?' Barinov queries plainly without holding back, linking "spyashchikh" ("who"), "tozhe" ("too"), and "shtrafuyut" ("to fine, penalize") in one brisk exchange.
-- 'No, but it is already a very late hour.' Lyova displays a pointed line for Barinov, linking "uzhe" ("already, now"), "ochen" ("very much"), and "pozdniy" ("hour") in one brisk exchange.
-- 'Fine, I am already heading home to my place.' Barinov takes a resolute mood across the room, joining "uzhe" ("already, now") to "ukhozhu" ("am leaving") so every word pulls its weight.
+- 'Stay calm, Your Royal Majesty, just stay calm.' Barinov underscores this sharp detail at once: "spokoystviye" means "calmness, composure", and it carries the main weight of what Barinov is saying.
+- 'That is what you are going to get now, Lyova.' Barinov chimes in honestly as things stand, bringing things back to earth after the buildup.
+- 'And how did you think you could joke with me?' Barinov features one telling detail with Lyova: "shutit" means "to joke", and it carries the main weight of what Barinov is saying.
+- 'With us it is an eye for an eye, pal.' Barinov aims this statement frankly here: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'And of course, a big claw for a claw.' Barinov cuts in boldly with Lyova, watching Lyova's face to see how the news lands.
+- 'Right now I will quietly unplug this refrigerator.' Barinov focuses on this telling touch with Lyova: "kholodilnik" means "fridge", and it carries the main weight of what Barinov is saying.
+- 'By morning the expensive crab will definitely spoil.' Barinov gives this answer around Lyova: the "-sya" ending on "isportitsya" ("to spoil, go bad") turns the action inward or makes it happen between people naturally.
+- 'Viktor Petrovich, and what are you doing here?' Lyova presses frankly where this conversation is heading next.
+- 'Why are you not sleeping at home yet?' Lyova emphasizes this telling word in earnest: "yeshchyo" means "more, still", and it carries the main weight of what Lyova is saying.
+- 'Why, do they fine people who are awake too?' Barinov sends the comment calmly now: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'No, but it is already a very late hour.' Lyova pushes back quietly during the talk, keeping the focus on what actually matters here.
+- 'Fine, I am already heading home to my place.' Barinov grounds this vivid element with Lyova: "ukhozhu" means "am leaving" (from "ukhodit"), giving the line its exact edge.

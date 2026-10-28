@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, this is Maxim's secret brother Vlad!' Kostya chooses a grounded attitude on the spot, leaning on "smotrite" ("look") before closing the thought with "taynyy" ("secret, undercover").
-- 'He is the one who slyly framed Max his whole life!' Kostya offers an emphatic view in the scene, linking "zhizn" ("life"), "khitro" ("cleverly"), and "podstavlyal" ("frame, set up") in one brisk exchange.
-- 'He is the one who lied to everyone and kissed Sasha!' Kostya sets a warm tone right away, putting "vral" ("to lie, to tell lies") alongside "potseloval" ("to kiss") in a tight, everyday turn of phrase.
-- 'Tell the court, Vlad, is this really true?' Barinov tests openly to keep things clear, leaning on "skazhite" ("tell") before closing the thought with "sudu" ("court").
-- 'Can you answer properly, yes or no?' Barinov questions frankly without a pause, using "mozhete" (from "moch", "can, may") alongside "otvetit" ("answer") to shape the meaning.
-- 'Judge, brother, why are you pestering me?' Max wonders briskly beside Kostya, anchoring the Russian line on "sudya" ("judge") and "brat" ("brother") without extra filler.
-- 'I just nodded to you properly!' Max shows a natural position in the conversation, linking "tolko" ("only"), "normalno" ("fine, OK"), and "kivnul" ("nod") in one brisk exchange.
-- 'For false testimony you will go to prison!' Barinov projects a steady style on the spot, pairing "otpravites" ("go, be sent") with "lozhnyye" ("false, fake") so the "-sya" ending carries the action.
-- 'I will file a complaint against you in court!' Max maintains a candid tempo with Barinov, joining "budu" ("will be") to "zhalovatsya" ("complain") so every word pulls its weight.
-- 'Thus, the court has ruled to find Maxim Lavrov guilty!' Barinov keeps an honest stance in the conversation, putting "sud" ("the court") alongside "postanovil" ("has ruled, decreed") in a tight, everyday turn of phrase.
-- 'To find him guilty of treacherous infidelity to his wife!' Barinov takes a grounded tone at this moment, joining "priznat" ("find, recognize") to "vinovnym" ("guilty") so every word pulls its weight.
-- 'Carry out the court's sentence immediately!' Barinov establishes a resolute course with Max, linking "prigovor" ("verdict, sentence"), "suda" ("trial"), and "privesti" ("to bring") in one brisk exchange.
+- 'Look, this is Maxim's secret brother Vlad!' Kostya responds steadily before Barinov, bringing things back to earth after the buildup.
+- 'He is the one who slyly framed Max his whole life!' Kostya points to one direct element on cue: "podstavlyal" means "frame, set up" (from "podstavlyat"), giving the line its exact edge.
+- 'He is the one who lied to everyone and kissed Sasha!' Kostya answers boldly as they talk, leaving no doubt about where he stands.
+- 'Tell the court, Vlad, is this really true?' Barinov challenges straight out why things suddenly took this turn between them.
+- 'Can you answer properly, yes or no?' Barinov picks this direct term in reply: "normalno" means "fine, OK", and it carries the main weight of what Barinov is saying.
+- 'Judge, brother, why are you pestering me?' Max puts the comment around Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'I just nodded to you properly!' Max steps in calmly watching Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'For false testimony you will go to prison!' Barinov highlights one pointed detail toward Max: "pokazaniya" means "testimony" (from "pokazaniye"), giving the line its exact edge.
+- 'I will file a complaint against you in court!' Max frames this point with warmth: the "-sya" ending on "zhalovatsya" ("complain") turns the action inward or makes it happen between people naturally.
+- 'Thus, the court has ruled to find Maxim Lavrov guilty!' Barinov counters calmly to settle things, leaving no doubt about where he stands.
+- 'To find him guilty of treacherous infidelity to his wife!' Barinov uses one familiar term at once: "vinovnym" means "guilty" (from "vinovnyy"), giving the line its exact edge.
+- 'Carry out the court's sentence immediately!' Barinov cuts in openly during the talk, watching Max's face to see how the news lands.

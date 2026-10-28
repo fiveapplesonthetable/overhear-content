@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you know how long I searched for him?' Nastya queries openly in the room, linking "znayesh" ("know"), "kak" ("how"), and "dolgo" ("for a long time") in one brisk exchange.
-- 'I wrote letters and made inquiries.' Nastya holds a brisk tack as the scene unfolds, weaving "pisala" ("to write") together with "pisma" ("letters") just the way native speakers do.
-- 'And then a week ago he was found.' Nastya maintains an earnest note as the scene unfolds, joining "nedelyu" ("for a week") to "nazad" ("ago") so every word pulls its weight.
-- 'I invited him, and so he came.' Nastya shares a direct position in the room, anchoring the Russian line on "priglasila" ("to invite, to call in") and "priyekhal" ("came") without extra filler.
-- 'We wanted to give you a nice surprise.' Nastya shares a brisk manner toward Katya, weaving "khoroshiy" ("good") together with "syurpriz" ("surprise") just the way native speakers do.
-- 'Kostik, he is actually your own family.' Nastya sets a playful footing in their talk, leaning on "voobshche-to" ("actually") before closing the thought with "rodnaya" ("dear, darling").
-- 'This man abandoned my mother and me.' Kostya favors a calm bearing as they talk, pairing "chelovek" ("a man, a person") with "brosil" ("threw") to get the point across in plain spoken Russian.
-- 'And now he suddenly showed up again!' Kostya establishes a candid mood in the conversation, pairing "teper" ("now") with "vdrug" ("suddenly, what if") to get the point across in plain spoken Russian.
-- 'You need to warn people in advance about such surprises.' Kostya sets an emphatic approach right away, combining "syurprizakh" ("surprise") and "zaraneye" ("in advance") so the key meaning lands right away.
-- 'In the end I cooked dinner for you.' Katya brings a serious footing for Nastya, putting "itoge" ("result, total") alongside "prigotovila" ("to prepare") in a tight, everyday turn of phrase.
-- 'In short, they simply set me up.' Katya displays an easygoing footing as the scene unfolds, putting "koroche" ("long story short") alongside "govorya" ("speaking") in a tight, everyday turn of phrase.
-- 'I was going to invite you to dinner anyway.' Kostya holds a wry tempo with Nastya, anchoring the Russian line on "sobiralsya" ("was going to") and "priglasit" ("to invite") without extra filler.
+- 'Do you know how long I searched for him?' Nastya sends that thought with warmth: putting the question word "kak" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'I wrote letters and made inquiries.' Nastya proceeds candidly watching Kostya, keeping the focus on what actually matters here.
+- 'And then a week ago he was found.' Nastya favors one pointed detail for Katya: "nashyolsya" means "turned up" (from "naytis"), giving the line its exact edge.
+- 'I invited him, and so he came.' Nastya opens up calmly facing Kostya, grounding the moment in plain reality.
+- 'We wanted to give you a nice surprise.' Nastya opens up bluntly as things stand, so Katya knows she is not just making small talk.
+- 'Kostik, he is actually your own family.' Nastya colors one memorable expression for Kostya: "voobshche-to" means "actually", and it carries the main weight of what Nastya is saying.
+- 'This man abandoned my mother and me.' Kostya speaks up firmly in their talk, leaving no doubt about where he stands.
+- 'And now he suddenly showed up again!' Kostya cuts in at once beside Nastya, making his position completely clear.
+- 'You need to warn people in advance about such surprises.' Kostya features this key detail in reply: "syurprizakh" means "surprise" (from "syurpriz"), giving the line its exact edge.
+- 'In the end I cooked dinner for you.' Katya centers one vivid word right here: "prigotovila" means "to prepare" (from "prigotovit"), giving the line its exact edge.
+- 'In short, they simply set me up.' Katya pushes back firmly to be clear, leaving no doubt about where she stands.
+- 'I was going to invite you to dinner anyway.' Kostya uses this direct word in earnest: "sobiralsya" means "was going to" (from "sobiratsya"), giving the line its exact edge.

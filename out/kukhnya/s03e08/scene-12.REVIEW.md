@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, tell us, how is your Eagle doing?' Elena probes candidly as the beat lands, joining "rebyata" ("the boys, the lads") to "skazhite" ("tell") so every word pulls its weight.
-- 'I also had a parrot in childhood.' Barinov shares a resolute bearing in the conversation, using the everyday "u menya" ("by me") alongside "tozhe" ("too") to show what belongs to the speaker.
-- 'Vitya, Eagle is a horse, he is their main champion.' Elena displays an honest manner straight away, weaving "oryol" ("eagle") together with "kon" ("knight, horse") just the way native speakers do.
-- 'Unfortunately, it was such a big loss.' Elena conveys a steady view across the room, weaving "sozhaleniyu" ("regret") together with "byla" ("was") just the way native speakers do.
-- 'Let us not talk about sad things, your Eagle has long been in heaven.' Barinov adopts an easygoing position in the conversation, combining "davayte" ("let's") and "budem" ("will") so the key meaning lands right away.
-- 'Let us play instead, may I take a shot right now?' Barinov inquires directly beside Vika, putting "davayte" ("let's") alongside "luchshe" ("better") in a tight, everyday turn of phrase.
-- 'Damn it, I accidentally sank the golf club!' Barinov conveys a wry tempo during the exchange, weaving "chyort" ("darn, heck") together with "sluchayno" ("by any chance") just the way native speakers do.
-- 'Right now I will go to the clubhouse and buy a new one.' Barinov presents a sharp attitude with Vika, combining "seychas" ("now") and "skhozhu" ("will go") so the key meaning lands right away.
-- 'Do not worry, I knew I would be teaching beginners and prepared.' Barinov chooses an emphatic mood in the scene, using "volnuytes" (from "volnovatsya", "worry") alongside "znal" ("knew") to shape the meaning.
-- 'Well let us drink to everything working out for us.' Vika offers a thoughtful style for Elena, weaving "davay" ("let's") together with "vypyem" ("will drink") just the way native speakers do.
-- 'Oh, it seems someone has come to our door.' Vika adopts an easygoing style on the spot, building the phrase around "kazhetsya" ("it seems, I think") and "tam" ("there") for a crisp, natural delivery.
-- 'They probably brought our lunch, I will go open the door.' Vika conveys a clear mood beside Elena, building the phrase around "navernoye" ("probably") and "obed" ("lunch") for a crisp, natural delivery.
+- 'Guys, tell us, how is your Eagle doing?' Elena presses eagerly about what Barinov just brought up.
+- 'I also had a parrot in childhood.' Barinov highlights this direct word toward Vika: "detstve" means "childhood" (from "detstvo"), giving the line its exact edge.
+- 'Vitya, Eagle is a horse, he is their main champion.' Elena drops that line to Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Unfortunately, it was such a big loss.' Elena fires back earnestly toward Vika, steering the talk right where she wants it.
+- 'Let us not talk about sad things, your Eagle has long been in heaven.' Barinov highlights this direct detail toward Elena: "grustnom" means "sad" (from "grustnyy"), giving the line its exact edge.
+- 'Let us play instead, may I take a shot right now?' Barinov states this warning plainly here: the word "davayte" is the polite or group version of "let's", inviting Vika into the plan right away.
+- 'Damn it, I accidentally sank the golf club!' Barinov fires back wryly with a smile, saying out loud what both of them already know.
+- 'Right now I will go to the clubhouse and buy a new one.' Barinov reaches for one loaded piece in earnest: "novuyu" means "new" (from "novyy"), giving the line its exact edge.
+- 'Do not worry, I knew I would be teaching beginners and prepared.' Barinov directs the remark with ease: the "-sya" ending on "podgotovilsya" ("prepared") turns the action inward or makes it happen between people naturally.
+- 'Well let us drink to everything working out for us.' Vika weighs in earnestly without a pause, so Elena knows she is not just making small talk.
+- 'Oh, it seems someone has come to our door.' Vika features one key detail at once: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'They probably brought our lunch, I will go open the door.' Vika fires back steadily without a pause, keeping the focus on what actually matters here.

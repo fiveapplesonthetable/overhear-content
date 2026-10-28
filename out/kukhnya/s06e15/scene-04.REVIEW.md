@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you want to build a career on my dishes?' Barinov looks over lightly in front of Lyova, putting "khochesh" ("do you want") alongside "blyudakh" ("dish, course") in a tight, everyday turn of phrase.
-- 'Actually, I improved it a little myself.' Lyova adopts an honest mood in the conversation, pairing "voobshche-to" ("actually") with "nemnogo" ("a bit") to get the point across in plain spoken Russian.
-- 'Never dare to modify my dishes!' Barinov favors a warm style in the conversation, pairing "smey" ("to dare") with "nikogda" ("never") to get the point across in plain spoken Russian.
-- 'First become the head chef of a restaurant yourself!' Barinov presents a lively tack beside Senya, building the phrase around "snachala" ("first, at first") and "stan" ("to become") for a crisp, natural delivery.
-- 'Then you can modify your own dishes!' Barinov displays a playful footing in the room, anchoring the Russian line on "togda" ("back then") and "budesh" ("will") without extra filler.
-- 'So I cook poorly in the kitchen?' Lyova prompts briskly as the talk turns, combining "znachit" ("then, so") and "plokho" ("badly") so the key meaning lands right away.
-- 'And will you manage without my help?' Lyova checks calmly beside Barinov, joining "pomoshchi" ("help") to "oboydyotes" ("to manage without") so every word pulls its weight.
-- 'Listen, maybe he will not leave?' Senya queries pointedly in this moment, anchoring the Russian line on "slushay" ("listen") and "mozhet" ("can") without extra filler.
-- 'I will manage easily, do not even worry!' Barinov chooses an emphatic course with Lyova, pairing "legko" ("easy") with "oboydus" ("will manage") to get the point across in plain spoken Russian.
-- 'Write your resignation letter and leave the kitchen!' Barinov conveys a grounded tack across the room, linking "pishi" ("write"), "zayavleniye" ("statement"), and "ukhodi" ("go away") in one brisk exchange.
-- 'Fine, I will write the resignation letter right now!' Lyova strikes a pointed posture with Barinov, weaving "khorosho" ("good, fine") together with "pryamo" ("right, just") just the way native speakers do.
-- 'What a pity, who will keep order now?' Senya quizzes firmly toward Lyova here, weaving "zhalko" ("feel sorry for") together with "teper" ("now") just the way native speakers do.
+- 'Do you want to build a career on my dishes?' Barinov spotlights one pointed word in reply: "blyudakh" means "dish, course" (from "blyudo"), giving the line its exact edge.
+- 'Actually, I improved it a little myself.' Lyova shares this update frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Never dare to modify my dishes!' Barinov speaks up at once without holding back, letting the remark speak for itself.
+- 'First become the head chef of a restaurant yourself!' Notice how Barinov reassures Senya with candor — the Russian word "restorana" ("restaurant", built from "restoran") does the heavy lifting.
+- 'Then you can modify your own dishes!' Barinov pushes back boldly to settle things, testing Lyova's reaction in the middle of the exchange.
+- 'So I cook poorly in the kitchen?' Lyova prompts bluntly if there is more going on behind the scenes.
+- 'And will you manage without my help?' Lyova points to one memorable piece toward Barinov: "pomoshchi" means "help" (from "pomoshch"), giving the line its exact edge.
+- 'Listen, maybe he will not leave?' Senya gives that point on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'I will manage easily, do not even worry!' Barinov responds candidly to settle things, making his position completely clear.
+- 'Write your resignation letter and leave the kitchen!' Barinov emphasizes this sharp detail at once: "zayavleniye" means "statement", and it carries the main weight of what Barinov is saying.
+- 'Fine, I will write the resignation letter right now!' Lyova sends the reaction toward Barinov: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'What a pity, who will keep order now?' Senya wonders evenly whether Lyova really thought this through.

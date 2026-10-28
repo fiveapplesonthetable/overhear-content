@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Go ahead, shoot.' Barinov shows a wry angle without hesitation, building the phrase around "davay" ("let's") and "strelyay" ("shoot") for a crisp, natural delivery.
-- 'Maybe I really should quit this madhouse?' Barinov challenges firmly during the talk, weaving "mozhet" ("can") together with "deystvitelno" ("really, indeed") just the way native speakers do.
-- 'Otherwise I will die before my time.' Barinov projects a warm position in front of Elena, building the phrase around "pomru" ("will die") and "ranshe" ("earlier, previously") for a crisp, natural delivery.
-- 'And I will not have a star.' Barinov shows a playful note at this moment, pairing "budet" ("will be") with "zvezdy" ("stars") to get the point across in plain spoken Russian.
-- 'Vitya, I am a fish.' Lyova sustains a steady position in their talk, linking "ryba" ("fish"), "vitya" ("Vitya"), and "ya" ("I") in one brisk exchange.
-- 'Decide for yourself.' Lyova keeps a playful posture at this moment, joining "reshay" ("to decide, to solve") to "sam" ("yourself") so every word pulls its weight.
-- 'I agree to work for you.' Barinov sets an honest bearing in their talk, leaning on "soglasen" ("agreed") before closing the thought with "rabotat" ("to work").
-- 'It was an interesting movie, right?' Lyova quizzes calmly to keep things clear, joining "interesnyy" ("interesting") to "byl" ("was") so every word pulls its weight.
-- 'I do not know, I did not really look at the screen.' Lyova establishes a lively attitude at once, combining "znayu" ("know") and "ekran" ("screen, display") so the key meaning lands right away.
-- 'Well, shall I go?' Elena queries naturally without hesitation, building the phrase around "poshla" ("am off") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'Well yes, bye.' Lyova conveys a calm direction during the exchange, weaving "poka" ("bye") together with "nu" ("oh, come on") just the way native speakers do.
-- 'Let's go for a walk tomorrow.' Lyova establishes a pointed rhythm without hesitation, pairing "idyom" ("are going") with "gulyat" ("to walk") to get the point across in plain spoken Russian.
+- 'Go ahead, shoot.' Barinov grounds this vivid expression toward Elena: "strelyay" means "shoot" (from "strelyat"), giving the line its exact edge.
+- 'Maybe I really should quit this madhouse?' Barinov frames that remark without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'Otherwise I will die before my time.' Barinov jumps in sharply with a sigh, testing Elena's reaction in the middle of the exchange.
+- 'And I will not have a star.' Barinov grounds one pointed expression for Lyova: "zvezdy" means "stars" (from "zvezda"), giving the line its exact edge.
+- 'Vitya, I am a fish.' Lyova hands over that remark with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Decide for yourself.' Lyova counters wryly without holding back, saying out loud what both of them already know.
+- 'I agree to work for you.' Barinov colors one memorable piece with Elena: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.
+- 'It was an interesting movie, right?' Lyova offers that line calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
+- 'I do not know, I did not really look at the screen.' Lyova cuts in at once facing Barinov, refusing to let the moment slip past.
+- 'Well, shall I go?' Elena sharpens one concrete term in earnest: "poshla" means "am off" (from "poyti"), giving the line its exact edge.
+- 'Well yes, bye.' Lyova hands over that line toward Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Let's go for a walk tomorrow.' Lyova cuts in calmly without a pause, testing Elena's reaction in the middle of the exchange.

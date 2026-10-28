@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here you go, your fresh salad is already completely ready.' Barinov favors a clear manner in this beat, linking "svezhiy" ("fresh") directly with "salat" ("salad"), since Russian drops "is" and "are" in the present.
-- 'Yes, I have a couple of Italian championship games.' The guest leans in calmly across the room, using the everyday "u menya" ("by me") alongside "yest" ("there is") to show what belongs to the speaker.
-- 'Great odds, let me call you back later.' The guest shares a warm approach in the room, anchoring the Russian line on "otlichnyy" ("excellent, great") and "koeffitsiyent" ("coefficient") without extra filler.
-- 'Excuse me, I overheard by chance, are you a real bookmaker?' Barinov queries sharply as they speak, building the phrase around "izvinite" ("sorry, excuse me") and "sluchayno" ("by any chance") for a crisp, natural delivery.
-- 'Thank you, the salad is very tasty, I know secrets.' The guest presents a frank angle toward Barinov, joining "spasibo" ("thank you") to "salat" ("salad") so every word pulls its weight.
-- 'Probably just the same as you in your kitchen.' The guest takes a brisk posture straight away, leaning on "navernoye" ("probably") before closing the thought with "tochno" ("definitely").
-- 'Maybe you could give a hint strictly between us on whom to bet?' Barinov presses lightly beside the guest, combining "mozhet" ("can") and "podskazhete" ("to prompt, to tell") so the key meaning lands right away.
-- 'Excuse me, but I do not understand what you mean.' The guest takes a thoughtful direction at this moment, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "ponimayu" ("understand") to shape the meaning.
-- 'How about some French cognac on my personal tab?' Barinov presses quietly toward the guest here, pairing "mozhet" ("can") with "frantsuzskogo" ("French") to get the point across in plain spoken Russian.
-- 'No, I do not drink, especially with strangers.' The guest offers a wry bearing in the scene, weaving "pyu" ("to drink") together with "osobenno" ("especially") just the way native speakers do.
-- 'Yes, Denis and I sound pretty good together.' Sveta displays an honest tack during the exchange, leaning on "denisom" ("time") before closing the thought with "neplokho" ("not bad").
-- 'It seems I have finally met my beloved man!' Sveta adopts a playful footing as the scene unfolds, putting "pokhozhe" ("like, similar") alongside "nakonets-to" ("at last, finally") in a tight, everyday turn of phrase.
+- 'Here you go, your fresh salad is already completely ready.' Barinov speaks up calmly in their talk, watching the guest's face to see how the news lands.
+- 'Yes, I have a couple of Italian championship games.' The guest leans on one direct piece on cue: "chempionata" means "of the championship" (from "chempionat"), giving the line its exact edge.
+- 'Great odds, let me call you back later.' The guest makes the comeback beside Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Excuse me, I overheard by chance, are you a real bookmaker?' Barinov questions quietly in front of Sveta without any preamble.
+- 'Thank you, the salad is very tasty, I know secrets.' The guest centers one classic term on cue: "spasibo" means "thank you", and it carries the main weight of what the guest is saying.
+- 'Probably just the same as you in your kitchen.' The guest uses one vivid piece with Sveta: "navernoye" means "probably", and it carries the main weight of what the guest is saying.
+- 'Maybe you could give a hint strictly between us on whom to bet?' Barinov wonders quietly as the guest tries to explain the situation.
+- 'Excuse me, but I do not understand what you mean.' The guest picks one loaded detail on cue: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'How about some French cognac on my personal tab?' Barinov shares the comeback facing the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'No, I do not drink, especially with strangers.' The guest weighs in decisively across the room, before Sveta can change the subject.
+- 'Yes, Denis and I sound pretty good together.' Sveta highlights one concrete expression with Barinov: "neplokho" means "not bad", and it carries the main weight of what Sveta is saying.
+- 'It seems I have finally met my beloved man!' Sveta reacts frankly with the guest, refusing to let the moment slip past.

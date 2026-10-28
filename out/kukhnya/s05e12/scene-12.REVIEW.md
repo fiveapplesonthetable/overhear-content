@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And where is the trash?' Senya presses sharply for Gulya's benefit, building the phrase around "gde" ("where") and "musor" ("rubbish") for a crisp, natural delivery.
-- 'The truck already hauled it away.' Gulya keeps a steady angle in the conversation, joining "mashina" ("a car") to "uzhe" ("already, now") so every word pulls its weight.
-- 'Why did you do that?' Senya asks wryly beside Gulya, combining "zachem" ("what for") and "sdelala" ("have done, did") so the key meaning lands right away.
-- 'That is the job.' Gulya picks an easygoing line at once, linking "rabota" ("job") directly with "takaya" ("one like her"), since Russian drops "is" and "are" in the present.
-- 'Such strong pains in my lower back.' Vika brings a lively approach during the exchange, leaning on "silnyye" ("strong, powerful") before closing the thought with "boli" ("pains").
-- 'Of course, very strong pains in both the neck and the back.' Senya holds an emphatic approach straight away, weaving "konechno" ("of course") together with "ochen" ("very much") just the way native speakers do.
-- 'But do not worry. The massage will relieve the ache, and the back pains will pass.' Senya favors a warm line in their talk, weaving "volnuytes" ("worry") together with "massazh" ("a massage") just the way native speakers do.
-- 'And what do you think, at my stage of pregnancy will it not do any harm?' Vika wonders bluntly from the start, anchoring the Russian line on "kak" ("how") and "dumayete" ("think") without extra filler.
-- 'No, I will do everything very carefully.' Senya chooses a natural rhythm at once, pairing "sdelayu" ("I'll do") with "ochen" ("very much") to get the point across in plain spoken Russian.
-- 'Good, then I will go get the key to the room.' Vika keeps a grounded angle as they talk, anchoring the Russian line on "khorosho" ("good, fine") and "togda" ("back then") without extra filler.
-- 'And in the meantime have some coffee.' Vika presents a direct footing on the spot, linking "poka" ("bye"), "vypeyte" ("to drink"), and "kofe" ("of coffee") in one brisk exchange.
-- 'Thank you. Without sugar.' Senya sets a clear footing in the scene, pairing "spasibo" ("thank you") with "sakhara" ("sugar") to get the point across in plain spoken Russian.
+- 'And where is the trash?' Senya tests candidly before Gulya can change the subject.
+- 'The truck already hauled it away.' Gulya stresses this telling touch in earnest: "mashina" means "a car", and it carries the main weight of what Gulya is saying.
+- 'Why did you do that?' Senya sends that line with warmth: putting the question word "zachem" right at the front of the line lets Gulya hear the point of the question on the very first beat.
+- 'That is the job.' Gulya holds firm right away to be clear, letting the remark speak for itself.
+- 'Such strong pains in my lower back.' Vika chooses one practical element in reply: "poyasnitse" means "lower back" (from "poyasnitsa"), giving the line its exact edge.
+- 'Of course, very strong pains in both the neck and the back.' Senya proceeds earnestly with a smile, leaving no doubt about where he stands.
+- 'But do not worry. The massage will relieve the ache, and the back pains will pass.' Senya speaks up calmly watching Gulya, bringing things back to earth after the buildup.
+- 'And what do you think, at my stage of pregnancy will it not do any harm?' Vika sharpens one loaded touch in earnest: "dumayete" means "think" (from "dumat"), giving the line its exact edge.
+- 'No, I will do everything very carefully.' Senya responds at once in their talk, bringing things back to earth after the buildup.
+- 'Good, then I will go get the key to the room.' Vika counters candidly to be clear, making her position completely clear.
+- 'And in the meantime have some coffee.' Vika emphasizes one pointed touch on cue: "vypeyte" means "to drink" (from "vypit"), giving the line its exact edge.
+- 'Thank you. Without sugar.' Senya drops this line for Vika: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.

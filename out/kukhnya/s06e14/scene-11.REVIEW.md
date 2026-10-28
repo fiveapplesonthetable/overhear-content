@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need to save up some money first.' Lyova chooses a resolute tack on the spot, pairing "nado" ("it is necessary") with "snachala" ("first, at first") to get the point across in plain spoken Russian.
-- 'I need to buy a ring and book a restaurant.' Lyova keeps a playful posture without hesitation, leaning on "nado" ("it is necessary") before closing the thought with "koltso" ("ring").
-- 'I will tell you one secret right now.' Ainura shows a lively direction toward Denis, weaving "seychas" ("now") together with "sekret" ("secret") just the way native speakers do.
-- 'Back home we sometimes steal the bride.' Ainura holds a grounded rhythm as they talk, joining "doma" ("at home") to "inogda" ("sometimes, at times") so every word pulls its weight.
-- 'It is almost like an application, only more fun.' Ainura maintains a lively approach for Denis, placing "pochti" ("almost") straight beside "kak" ("how") with no word for "to be" needed.
-- 'And later you save money for the wedding together.' Ainura displays a steady angle on the spot, putting "potom" ("then") alongside "dengi" ("money") in a tight, everyday turn of phrase.
-- 'My husband also stole me when I was young.' Ainura holds a resolute note at this moment, building the phrase around "molodosti" ("in youth") and "tozhe" ("too") for a crisp, natural delivery.
-- 'Kostya, tell me, why did you call us?' Denis presses wryly without hesitation, leaning on "skazhi" ("say") before closing the thought with "zachem" ("what for").
-- 'What is this strange sheet of paper?' Denis probes wryly without hesitation, linking "strannyy" ("strange, odd") directly with "listok" ("slip of paper"), since Russian drops "is" and "are" in the present.
-- 'Katya left this at the bar today.' Lyova picks a measured tone on the spot, putting "segodnya" ("today") alongside "bare" ("bar") in a tight, everyday turn of phrase.
-- 'It seems she is choosing between you two right now.' Lyova shows a candid angle in their talk, leaning on "kazhetsya" ("it seems, I think") before closing the thought with "seychas" ("now").
-- 'Look, do I really have big ears?' Denis inquires honestly toward Lyova here, combining "posmotri" ("look") and "bolshiye" ("big, serious") so the key meaning lands right away.
+- 'I need to save up some money first.' Lyova directs that line toward Ainura: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'I need to buy a ring and book a restaurant.' Lyova counters plainly without holding back, before Denis can change the subject.
+- 'I will tell you one secret right now.' Ainura focuses on this vivid expression toward Denis: "sekret" means "secret", and it carries the main weight of what Ainura is saying.
+- 'Back home we sometimes steal the bride.' Ainura makes that remark for Lyova: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'It is almost like an application, only more fun.' Ainura chimes in calmly without any doubt, to clear the air between them once and for all.
+- 'And later you save money for the wedding together.' Ainura highlights one direct piece toward Lyova: "sobirayete" means "to collect" (from "sobirat"), giving the line its exact edge.
+- 'My husband also stole me when I was young.' Ainura proceeds bluntly in this moment, to clear the air between them once and for all.
+- 'Kostya, tell me, why did you call us?' Denis asks sharply to see how Lyova will answer on the spot.
+- 'What is this strange sheet of paper?' Denis stresses one sharp term in reply: "strannyy" means "strange, odd", and it carries the main weight of what Denis is saying.
+- 'Katya left this at the bar today.' Lyova holds firm firmly with a smile, shifting the whole mood of the room in a single beat.
+- 'It seems she is choosing between you two right now.' Lyova steps in calmly without holding back, saying out loud what both of them already know.
+- 'Look, do I really have big ears?' Listen to how Denis reacts to Lyova on cue — the Russian word "bolshiye" ("big, serious", built from "bolshoy") does the heavy lifting.

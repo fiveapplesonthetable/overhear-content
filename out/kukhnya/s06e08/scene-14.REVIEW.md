@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did you rent a room here in the hotel?' Nagiyev wonders frankly as the talk turns, joining "podozhdi" ("wait") to "zdes" ("here") so every word pulls its weight.
-- 'Tell me, who were you just talking to?' Barinov tests frankly on the spot, putting "skazhi" ("say") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'I was talking to whoever I needed to.' Nagiyev conveys a warm angle at this moment, building the phrase around "razgovarival" ("spoke, talked") and "nado" ("it is necessary") for a crisp, natural delivery.
-- 'And you do not need to know about it at all!' Nagiyev keeps a resolute view across the room, weaving "znat" ("to know") together with "sovsem" ("at all") just the way native speakers do.
-- 'Guys, and where is our Katya right now?' Barinov probes candidly as the talk turns, pairing "rebyata" ("the boys, the lads") with "gde" ("where") to get the point across in plain spoken Russian.
-- 'She just went upstairs to a hotel room.' Katya keeps an unhurried attitude beside Nagiyev, putting "tolko" ("only") alongside "naverkh" ("upstairs, upward") in a tight, everyday turn of phrase.
-- 'Well, sweetheart, did you already deliver the order?' Barinov inquires calmly in this moment, building the phrase around "dochenka" ("sweetheart") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'Yes, can you imagine, an acquaintance of Nagiyev's is in that room!' Katya sustains a brisk rhythm in the room, using "predstavlyayesh" (from "predstavlyat", "can you imagine") alongside "nomere" ("in the hotel room") to shape the meaning.
-- 'Wow, what interesting news today!' Barinov strikes an earnest angle as the scene unfolds, joining "interesnaya" ("interesting") to "segodnya" ("today") so every word pulls its weight.
-- 'Listen, Elya, do you not want to open this door?' Barinov quizzes evenly for Nagiyev's benefit, building the phrase around "slushay" ("listen") and "khochesh" ("do you want") for a crisp, natural delivery.
-- 'What if there is something interesting behind this door too.' Barinov projects a warm direction for Katya, anchoring the Russian line on "vdrug" ("suddenly, what if") and "dveryu" ("the door") without extra filler.
-- 'I do not understand what you are talking about right now.' Katya establishes a thoughtful rhythm beside Nagiyev, combining "ponyala" ("understood") and "seychas" ("now") so the key meaning lands right away.
+- 'Wait, did you rent a room here in the hotel?' Nagiyev directs this statement without fuss: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Tell me, who were you just talking to?' Barinov inquires briskly about what Nagiyev just brought up.
+- 'I was talking to whoever I needed to.' Nagiyev favors one pointed choice in reply: "razgovarival" means "spoke, talked" (from "razgovarivat"), giving the line its exact edge.
+- 'And you do not need to know about it at all!' Nagiyev directs this statement beside Katya: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Guys, and where is our Katya right now?' Barinov presses curiously what Katya is actually getting at here.
+- 'She just went upstairs to a hotel room.' Katya underscores one vivid element in earnest: "naverkh" means "upstairs, upward", and it carries the main weight of what Katya is saying.
+- 'Well, sweetheart, did you already deliver the order?' Barinov frames that reply plainly here: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Yes, can you imagine, an acquaintance of Nagiyev's is in that room!' Katya stands firm openly beside Nagiyev, to clear the air between them once and for all.
+- 'Wow, what interesting news today!' Barinov underscores one memorable term on cue: "interesnaya" means "interesting" (from "interesnyy"), giving the line its exact edge.
+- 'Listen, Elya, do you not want to open this door?' Barinov brings that remark frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'What if there is something interesting behind this door too.' Barinov jumps in dryly without any doubt, shifting the whole mood of the room in a single beat.
+- 'I do not understand what you are talking about right now.' Katya centers one key choice in earnest: "govorish" means "you say" (from "govorit"), giving the line its exact edge.

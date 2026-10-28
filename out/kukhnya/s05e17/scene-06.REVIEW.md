@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The oven in my kitchen is acting up.' Barinov takes a clear view with Eleonora, anchoring the Russian line on "kukhne" ("kitchen") and "pech" ("bake") without extra filler.
-- 'I am afraid they slipped us a defective one.' Barinov conveys a firm posture at once, putting "boyus" ("am afraid") alongside "brakovannuyu" ("defective") in a tight, everyday turn of phrase.
-- 'Alright, when you find Misha, tell him.' Eleonora takes a calm direction at once, building the phrase around "khorosho" ("good, fine") and "naydyosh" ("you'll find") for a crisp, natural delivery.
-- 'Fine, I will go and be sure to tell him.' Barinov picks an honest direction in this beat, building the phrase around "poydu" ("go") and "obyazatelno" ("surely, without fail") for a crisp, natural delivery.
-- 'Why is that guy so cheerful?' Mikhail queries firmly as the beat lands, linking "tip" ("guy, fellow"), "radostnyy" ("happy, joyful"), and "chego" ("what") in one brisk exchange.
-- 'His head has been hurting for a long time.' Barinov displays an easygoing tempo at this moment, linking "davno" ("for a long time"), "golova" ("head"), and "bolit" ("hurts, aches") in one brisk exchange.
-- 'Let me go to him right now!' Mikhail chooses a serious rhythm in front of Barinov, using "pusti" (from "pustit", "let go") alongside "seychas" ("now") to shape the meaning.
-- 'Come on, Mishanya, the odds are too uneven.' Barinov conveys a serious rhythm right away, anchoring the Russian line on "mishanya" ("Mishanya") and "sily" ("strength, forces") without extra filler.
-- 'He is sober, and you need to sleep it off.' Barinov picks an unhurried course in front of Eleonora, pairing "vyspatsya" ("get enough sleep") with "trezvyy" ("sober") so the "-sya" ending carries the action.
-- 'Do you have anything to drink here?' Mikhail prompts calmly in the room, linking "zdes" ("here"), "yest" ("there is"), and "vypit" ("to drink") in one brisk exchange.
-- 'I have a couch, lie down.' Barinov chooses a resolute note on the spot, weaving "yest" ("there is") together with "divan" ("sofa, couch") just the way native speakers do.
-- 'Go on and rest, and I will bring it.' Barinov presents a steady line on the spot, using "davay" (from "davat", "let's") alongside "otdykhay" ("rest, relax") to shape the meaning.
+- 'The oven in my kitchen is acting up.' Barinov speaks bluntly with a nod, to clear the air between them once and for all.
+- 'I am afraid they slipped us a defective one.' Barinov favors this sharp piece toward Mikhail: "brakovannuyu" means "defective" (from "brakovannyy"), giving the line its exact edge.
+- 'Alright, when you find Misha, tell him.' Eleonora states the remark on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Fine, I will go and be sure to tell him.' Barinov holds firm sharply in their talk, before Mikhail can change the subject.
+- 'Why is that guy so cheerful?' Mikhail features one concrete element toward Barinov: "radostnyy" means "happy, joyful", and it carries the main weight of what Mikhail is saying.
+- 'His head has been hurting for a long time.' Barinov pushes back frankly to settle things, shifting the whole mood of the room in a single beat.
+- 'Let me go to him right now!' Mikhail responds promptly with a shrug, watching Barinov's face to see how the news lands.
+- 'Come on, Mishanya, the odds are too uneven.' Barinov stresses one clear element on cue: "mishanya" means "Mishanya", and it carries the main weight of what Barinov is saying.
+- 'He is sober, and you need to sleep it off.' Barinov puts the comment beside Eleonora: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Do you have anything to drink here?' Mikhail quizzes eagerly what Eleonora is actually getting at here.
+- 'I have a couch, lie down.' Barinov emphasizes one sharp detail at once: "divan" means "sofa, couch", and it carries the main weight of what Barinov is saying.
+- 'Go on and rest, and I will bring it.' Barinov brings this warning calmly now: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

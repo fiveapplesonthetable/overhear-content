@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'At the end of the day we sum things up.' Katya projects a playful tack straight away, using "kontse" (from "konets", "end") alongside "dnya" ("day") to shape the meaning.
-- 'We doubt whether we made the right choice.' Katya maintains a frank direction at this moment, leaning on "somnevayemsya" ("we doubt") before closing the thought with "pravilnyy" ("correct, right").
-- 'Lyova, stop, please, do not do that!' Barinov shares a serious approach beside Katya, combining "stoy" ("stop, wait") and "nado" ("it is necessary") so the key meaning lands right away.
-- 'Why not? The oven is simply dirty.' Lyova prompts lightly in the scene, combining "pochemu" ("why") and "nado" ("it is necessary") so the key meaning lands right away.
-- 'Well you really scared me just now!' Barinov holds a candid view on the spot, combining "napugal" ("scared, did you scare") and "seychas" ("now") so the key meaning lands right away.
-- 'Forgive me, I only wanted what was best.' Barinov chooses an honest mood toward Lyova, combining "prosti" ("sorry, forgive me") and "khotel" ("wanted") so the key meaning lands right away.
-- 'We all worry about our setbacks.' Katya shares a brisk manner in the scene, putting "perezhivayem" ("are worried") alongside "neudachi" ("failure, bad luck") in a tight, everyday turn of phrase.
-- 'I just wanted to say that you are really cool.' Katya projects a warm rhythm during the exchange, building the phrase around "khotela" ("wanted, meant") and "skazat" ("tell") for a crisp, natural delivery.
-- 'I would hang out with you even without money.' Katya takes a measured tempo as they talk, anchoring the Russian line on "deneg" ("money") and "poobshchalas" ("chatted, hung out") without extra filler.
-- 'Thank you very much for the kind words.' Lyova picks an earnest bearing in the scene, anchoring the Russian line on "bolshoye" ("big, very much") and "spasibo" ("thank you") without extra filler.
-- 'We hope that tomorrow will be better.' Katya shows a frank bearing with Barinov, putting "nadeyemsya" ("hope, rely") alongside "zavtrashniy" ("tomorrow's") in a tight, everyday turn of phrase.
-- 'Did you do everything the way we agreed?' Katya quizzes directly during the talk, putting "sdelal" ("did") alongside "kak" ("how") in a tight, everyday turn of phrase.
+- 'At the end of the day we sum things up.' Katya jumps in evenly in their talk, grounding the moment in plain reality.
+- 'We doubt whether we made the right choice.' Katya chimes in briskly facing Lyova, keeping the focus on what actually matters here.
+- 'Lyova, stop, please, do not do that!' Barinov features one direct piece with Katya: "stoy" means "stop, wait" (from "stoyat"), giving the line its exact edge.
+- 'Why not? The oven is simply dirty.' Lyova puts this update calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Well you really scared me just now!' Barinov proceeds boldly without a pause, keeping the focus on what actually matters here.
+- 'Forgive me, I only wanted what was best.' Barinov chooses one practical term with Lyova: "luchshe" means "better", and it carries the main weight of what Barinov is saying.
+- 'We all worry about our setbacks.' Katya opens up dryly to be clear, watching Barinov's face to see how the news lands.
+- 'I just wanted to say that you are really cool.' Katya jumps in warmly with Lyova, making her position completely clear.
+- 'I would hang out with you even without money.' Katya grounds one loaded word for Barinov: "poobshchalas" means "chatted, hung out" (from "poobshchatsya"), giving the line its exact edge.
+- 'Thank you very much for the kind words.' Lyova shares that remark with warmth: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'We hope that tomorrow will be better.' Katya steps in dryly during the talk, testing Barinov's reaction in the middle of the exchange.
+- 'Did you do everything the way we agreed?' Katya features this vivid touch on cue: "dogovarivalis" means "had an agreement" (from "dogovarivatsya"), giving the line its exact edge.

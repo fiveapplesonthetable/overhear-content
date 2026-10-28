@@ -27,6 +27,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'This is a real lie detector, Fedya.' Barinov announces sternly as the specialist hooks up the wires.
-- 'Answer only 'yes' or 'no'.' the polygraph examiner instructs before beginning the baseline questions.
+- 'Answer only "yes" or "no".' The polygraph examiner sets the rules before beginning the baseline questions.
 - 'Did you go to the neighboring restaurant?' Chef Barinov asks abruptly, getting to the true point of the test.
 - 'You are free to go. Call Senya here.' Barinov orders, satisfied that Fedya is not the traitor. Now listen to the full lie detector interrogation once more.

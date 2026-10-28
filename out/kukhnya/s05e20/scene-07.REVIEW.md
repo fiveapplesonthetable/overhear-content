@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look at what our Lyova is writing there!' Fedya sustains a sharp footing at once, linking "smotri" ("look"), "tam" ("there"), and "pishet" ("is writing") in one brisk exchange.
-- 'Lyova is completely winning me over with his messages.' Gulya sets a calm note in this beat, pairing "pismami" ("with letters") with "prosto" ("just") to get the point across in plain spoken Russian.
-- 'Just a little bit more, and I will melt completely.' Gulya shows a thoughtful direction for Fedya, building the phrase around "yeshchyo" ("more, still") and "chut-chut" ("a little bit") for a crisp, natural delivery.
-- 'It turns out he is a very versatile man.' Gulya holds a candid position as the scene unfolds, putting "okazyvayetsya" ("to turn out to be") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'Did you know that he has a blue belt in karate?' Fedya presses dryly from the start, building the phrase around "znal" ("knew") and "siniy" ("blue") for a crisp, natural delivery.
-- 'And he also studied at a music school!' Fedya adopts a candid approach in this beat, pairing "uchilsya" ("studied") with "yeshchyo" ("more, still") so the "-sya" ending carries the action.
-- 'He played in the violin class there.' Fedya strikes an easygoing tempo on the spot, building the phrase around "igral" ("played") and "tam" ("there") for a crisp, natural delivery.
-- 'A violinist and karate fighter, I would go see that movie!' Fedya adopts a candid rhythm in the scene, anchoring the Russian line on "skripach" ("violinist") and "karatist" ("karate practitioner") without extra filler.
-- 'That is why you have such strong, handsome hands.' Gulya favors a grounded course beside Fedya, pairing "pochemu" ("why") with "silnyye" ("strong, powerful") to get the point across in plain spoken Russian.
-- 'Thank you, Gulya, I am very pleased to hear that.' Lyova projects a grounded posture toward Gulya, pairing "spasibo" ("thank you") with "ochen" ("very much") to get the point across in plain spoken Russian.
-- 'Go on, Katya, spoil your nice guy a little.' Fedya brings a wry manner straight away, building the phrase around "davay" ("let's") and "pobaluy" ("spoil, treat") for a crisp, natural delivery.
-- 'Let's meet up this evening after the shift.' Gulya projects a direct posture in the room, leaning on "davay" ("let's") before closing the thought with "vecherom" ("in the evening").
+- 'Look at what our Lyova is writing there!' Fedya focuses on one colorful term in earnest: "smotri" means "look" (from "smotret"), giving the line its exact edge.
+- 'Lyova is completely winning me over with his messages.' Gulya lays out that reply around Lyova: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Just a little bit more, and I will melt completely.' Gulya steps in plainly during the talk, grounding the moment in plain reality.
+- 'It turns out he is a very versatile man.' Gulya picks one concrete choice right here: "raznostoronniy" means "versatile, well-rounded", and it carries the main weight of what Gulya is saying.
+- 'Did you know that he has a blue belt in karate?' Fedya shares the comeback to Gulya: putting the question word "chto" right at the front of the line lets Gulya hear the point of the question on the very first beat.
+- 'And he also studied at a music school!' Fedya reacts at once to settle things, without trying to dress up how he really feels.
+- 'He played in the violin class there.' Fedya sharpens one sharp piece right here: "skripki" means "violin" (from "skripka"), giving the line its exact edge.
+- 'A violinist and karate fighter, I would go see that movie!' Fedya reacts firmly to be clear, making his position completely clear.
+- 'That is why you have such strong, handsome hands.' Gulya speaks up plainly as things stand, leaving no doubt about where she stands.
+- 'Thank you, Gulya, I am very pleased to hear that.' Lyova underscores one vivid piece in earnest: "spasibo" means "thank you", and it carries the main weight of what Lyova is saying.
+- 'Go on, Katya, spoil your nice guy a little.' Fedya delivers the thought with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Let's meet up this evening after the shift.' Gulya jumps in pointedly in this moment, watching Lyova's face to see how the news lands.

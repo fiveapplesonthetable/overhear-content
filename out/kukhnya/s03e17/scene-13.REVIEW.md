@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am repeating one more time for all of you.' Nagiyev establishes an easygoing approach straight away, pairing "yeshchyo" ("more, still") with "raz" ("time, once") to get the point across in plain spoken Russian.
-- 'Today is an important banquet for an oil magnate.' Nagiyev takes a thoughtful view in the scene, linking "segodnya" ("today"), "vazhnyy" ("important"), and "banket" ("banquet") in one brisk exchange.
-- 'If he does not like it, we will be ruined.' Nagiyev shares an earnest angle as they talk, pairing "ponravitsya" ("will please") with "miru" ("peace, world") to get the point across in plain spoken Russian.
-- 'Wait a second, what is this awful stench?' Nagiyev quizzes honestly at this point, putting "podozhdite" ("wait") alongside "von" ("stench, bad smell") in a tight, everyday turn of phrase.
-- 'What is this on your table, guys?' Nagiyev probes frankly in this moment, putting "stole" ("table") alongside "rebyata" ("the boys, the lads") in a tight, everyday turn of phrase.
-- 'Did someone boil socks? Why does it smell like this?' Nagiyev probes sharply on the spot, joining "noski" ("socks") to "varil" ("to boil, to cook") so every word pulls its weight.
-- 'Is this some cheap cafeteria we have here?' Nagiyev inquires frankly for Barinov's benefit, linking "deshyovaya" ("cheap, inexpensive"), "stolovaya" ("canteen, cafeteria"), and "tut" ("here") in one brisk exchange.
-- 'Dima, do not worry, we will fix everything right now.' Barinov keeps a steady tack during the exchange, pairing "volnuysya" ("worry") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'Pull yourselves together, we will still manage to cook everything.' Barinov presents a candid style in the conversation, putting "bystro" ("quickly") alongside "sobralis" ("planned") in a tight, everyday turn of phrase.
-- 'First of all we need to urgently turn on the lights.' Barinov picks a sharp line in this beat, anchoring the Russian line on "nachala" ("beginning") and "nado" ("it is necessary") without extra filler.
-- 'The building has no power at all, repairs will take two days.' Max holds a grounded rhythm in their talk, pairing "zdaniye" ("building") with "polnostyu" ("completely") to get the point across in plain spoken Russian.
-- 'Guys, why are you all looking so sad?' Max prompts quietly without a pause, pairing "rebyata" ("the boys, the lads") with "grustnyye" ("sad") to get the point across in plain spoken Russian.
+- 'I am repeating one more time for all of you.' Nagiyev points to this telling detail in earnest: "povtoryayu" means "repeat" (from "povtoryat"), giving the line its exact edge.
+- 'Today is an important banquet for an oil magnate.' Nagiyev shapes that answer without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'If he does not like it, we will be ruined.' Nagiyev opens up bluntly as they talk, grounding the moment in plain reality.
+- 'Wait a second, what is this awful stench?' Nagiyev centers this vivid detail on cue: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'What is this on your table, guys?' Nagiyev offers that point at once: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Did someone boil socks? Why does it smell like this?' Nagiyev quizzes firmly whether Max really thought this through.
+- 'Is this some cheap cafeteria we have here?' See how Nagiyev counters Barinov right away — the Russian word "deshyovaya" ("cheap, inexpensive", built from "deshyovyy") does the heavy lifting.
+- 'Dima, do not worry, we will fix everything right now.' Barinov aims that line around Nagiyev: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.
+- 'Pull yourselves together, we will still manage to cook everything.' Barinov follows up decisively without holding back, making his position completely clear.
+- 'First of all we need to urgently turn on the lights.' Barinov anchors one colorful expression on cue: "nachala" means "beginning" (from "nachalo"), giving the line its exact edge.
+- 'The building has no power at all, repairs will take two days.' Max proceeds candidly to be clear, without trying to dress up how he really feels.
+- 'Guys, why are you all looking so sad?' Max wonders evenly whether Nagiyev really thought this through.

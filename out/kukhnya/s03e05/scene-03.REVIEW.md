@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are already stealing in front of everyone.' Fedya picks a direct course during the exchange, pairing "uzhe" ("already, now") with "voruyesh" ("are stealing") to get the point across in plain spoken Russian.
-- 'And what if they catch you right now?' Fedya tests candidly during the talk, pairing "seychas" ("now") with "poymayut" ("catch") to get the point across in plain spoken Russian.
-- 'I steal from the rich and give to the poor.' Senya sustains a candid line right away, linking "voruyu" ("steal"), "bogatykh" ("rich"), and "bednym" ("poor") in one brisk exchange.
-- 'That is, you give it only to yourself.' Fedya sustains an honest position beside Senya, weaving "yest" ("there is") together with "otdayosh" ("to hand over") just the way native speakers do.
-- 'Alright, and where is the lamb fillet?' Lyova challenges firmly in the scene, leaning on "gde" ("where") before closing the thought with "file" ("fillet").
-- 'Senya, have you not seen it?' Lyova inquires plainly without a pause, linking "videl" ("saw, have seen"), "senya" ("Senya"), and "ty" ("you") in one brisk exchange.
-- 'Why is Senya immediately to blame?' Fedya quizzes steadily without hesitation, placing "srazu" ("at once") straight beside "vinovat" ("at fault, guilty") with no word for "to be" needed.
-- 'I have not seen any fillet.' Senya sustains a pointed view across the room, using "videl" (from "videt", "saw, have seen") alongside "file" ("fillet") to shape the meaning.
-- 'And why are you so nervous?' Lyova queries promptly to keep things clear, putting "nervnichayesh" ("are you nervous") alongside "ty" ("you") in a tight, everyday turn of phrase.
-- 'I am not nervous at all.' Senya picks an honest line in the conversation, putting "sovsem" ("at all") alongside "nervnichayu" ("am getting worked up") in a tight, everyday turn of phrase.
-- 'Why do you suspect me?' Senya wonders dryly as the beat lands, pairing "podozrevayesh" ("suspect") with "ty" ("you") to get the point across in plain spoken Russian.
-- 'Have you caught me even once?' Senya tests calmly in the scene, leaning on "raz" ("time, once") before closing the thought with "lovil" ("caught").
-- 'I am forced to search you.' Lyova brings a brisk footing across the room, joining "vynuzhden" ("forced, obliged") to "obyskat" ("search") so every word pulls its weight.
+- 'You are already stealing in front of everyone.' Fedya holds firm firmly without holding back, letting the remark speak for itself.
+- 'And what if they catch you right now?' Fedya anchors one key touch with Senya: "poymayut" means "catch" (from "poymat"), giving the line its exact edge.
+- 'I steal from the rich and give to the poor.' Senya stands firm openly with a nod, shifting the whole mood of the room in a single beat.
+- 'That is, you give it only to yourself.' Fedya stands firm earnestly with a nod, leaving no doubt about where he stands.
+- 'Alright, and where is the lamb fillet?' Lyova grounds this direct choice in earnest: "yagnyonka" means "lamb" (from "yagnyonok"), giving the line its exact edge.
+- 'Senya, have you not seen it?' Lyova states that thought calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'Why is Senya immediately to blame?' Fedya challenges wryly as Lyova tries to explain the situation.
+- 'I have not seen any fillet.' Senya focuses on this key touch with Lyova: "file" means "fillet", and it carries the main weight of what Senya is saying.
+- 'And why are you so nervous?' Lyova makes the comment with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
+- 'I am not nervous at all.' Senya holds firm evenly watching Lyova, making his position completely clear.
+- 'Why do you suspect me?' Senya emphasizes one classic element right here: "podozrevayesh" means "suspect" (from "podozrevat"), giving the line its exact edge.
+- 'Have you caught me even once?' Senya lays out the comment in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'I am forced to search you.' Lyova continues candidly without a pause, to clear the air between them once and for all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are sort of dating, and sort of not.' Nagiyev displays a measured tempo as they talk, putting "vstrechayemsya" ("have been going out") alongside "my" ("we") in a tight, everyday turn of phrase.
-- 'After all, we still have not slept together.' Nagiyev establishes a playful approach right away, putting "spali" ("were sleeping") alongside "por" ("time") in a tight, everyday turn of phrase.
-- 'For you this kind of thing is familiar.' Nagiyev takes a measured direction across the room, weaving "delo" ("matter") together with "privychnoye" ("familiar, usual") just the way native speakers do.
-- 'But Dima is in complete bewilderment right now.' Barinov picks a warm note in the room, placing "seychas" ("now") straight beside "polnoy" ("full, complete") with no word for "to be" needed.
-- 'I do not understand what to do at all.' Nagiyev projects an earnest angle toward Barinov, building the phrase around "voobshche" ("at all") and "ponimayu" ("understand") for a crisp, natural delivery.
-- 'She shies away from all of my friends.' Nagiyev presents an earnest rhythm at this moment, joining "druzey" ("friends") to "storonitsya" ("avoids") so every word pulls its weight.
-- 'And what do you need from me?' Barinov presses decisively to make the point, putting "nado" ("it is necessary") alongside "ot" ("from") in a tight, everyday turn of phrase.
-- 'I decided to invite her out to dinner.' Nagiyev holds a frank course in this beat, weaving "reshil" ("has decided") together with "uzhin" ("dinner") just the way native speakers do.
-- 'With handsome, smart, cultured people.' Nagiyev shows a warm bearing as the scene unfolds, building the phrase around "krasivymi" ("beautiful, handsome") and "umnymi" ("clever, smart") for a crisp, natural delivery.
-- 'Lena is beautiful, smart, and cultured.' Nagiyev favors a resolute position with Barinov, leaning on "krasivaya" ("pretty, beautiful") before closing the thought with "umnaya" ("clever, smart").
-- 'Unfortunately, nothing will work out for us.' Barinov shares an honest attitude right away, weaving "sozhaleniyu" ("regret") together with "poluchitsya" ("will come out") just the way native speakers do.
-- 'Because I broke up with her.' Barinov offers a natural tempo straight away, building the phrase around "potomu" ("because") and "rasstalsya" ("broke up, parted ways") for a crisp, natural delivery.
+- 'We are sort of dating, and sort of not.' Nagiyev pushes back calmly in their talk, letting the remark speak for itself.
+- 'After all, we still have not slept together.' Nagiyev reaches for one classic term right here: "spali" means "were sleeping" (from "spat"), giving the line its exact edge.
+- 'For you this kind of thing is familiar.' Nagiyev delivers the remark on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'But Dima is in complete bewilderment right now.' Barinov holds firm calmly facing Nagiyev, to clear the air between them once and for all.
+- 'I do not understand what to do at all.' Nagiyev favors this vivid piece with Barinov: "voobshche" means "at all", and it carries the main weight of what Nagiyev is saying.
+- 'She shies away from all of my friends.' Nagiyev aims the reaction calmly now: the "-sya" ending on "storonitsya" ("avoids") turns the action inward or makes it happen between people naturally.
+- 'And what do you need from me?' Barinov prompts firmly what Nagiyev is actually getting at here.
+- 'I decided to invite her out to dinner.' Nagiyev grounds one loaded piece for Barinov: "priglasit" means "to invite", and it carries the main weight of what Nagiyev is saying.
+- 'With handsome, smart, cultured people.' Nagiyev steps in lightly as things stand, watching Barinov's face to see how the news lands.
+- 'Lena is beautiful, smart, and cultured.' Nagiyev speaks up right away without a pause, steering the talk right where he wants it.
+- 'Unfortunately, nothing will work out for us.' Barinov colors one familiar element in earnest: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
+- 'Because I broke up with her.' Barinov brings this answer calmly now: the "-sya" ending on "rasstalsya" ("broke up, parted ways") turns the action inward or makes it happen between people naturally.

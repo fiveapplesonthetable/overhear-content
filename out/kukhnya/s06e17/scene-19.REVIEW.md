@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, do not look at me like that.' Barinov holds an unhurried manner right away, joining "smotri" ("look") to "nu" ("oh, come on") so every word pulls its weight.
-- 'You must not be overfed so much.' Barinov presents a frank angle in the room, linking "nelzya" ("not allowed"), "silno" ("strongly, much"), and "perekormit" ("to overfeed") in one brisk exchange.
-- 'A Michelin inspector has come to see you.' Fedya sets an earnest angle with Barinov, putting "prishyol" ("came, have come") alongside "inspektor" ("inspector") in a tight, everyday turn of phrase.
-- 'Hello, respected Viktor Petrovich.' The inspector projects an honest stance in front of Fedya, combining "zdravstvuyte" ("hello") and "uvazhayemyy" ("respected, esteemed") so the key meaning lands right away.
-- 'My name is Alexey Smolin.' The inspector strikes a brisk tone at this moment, joining "zovut" ("call") to "menya" ("me") so every word pulls its weight.
-- 'I am inspecting your restaurant today.' The inspector keeps an unhurried footing in the scene, anchoring the Russian line on "segodnya" ("today") and "inspektiruyu" ("I inspect") without extra filler.
-- 'Is everything alright with you right now?' The inspector inquires lightly in the room, pairing "seychas" ("now") with "poryadke" ("order") to get the point across in plain spoken Russian.
-- 'Yes, it is just so unexpected.' Barinov conveys a wry direction as they talk, combining "prosto" ("just") and "neozhidanno" ("unexpected") so the key meaning lands right away.
-- 'Hello, it is very nice to meet you.' The inspector adopts an emphatic style straight away, combining "zdravstvuyte" ("hello") and "ochen" ("very much") so the key meaning lands right away.
-- 'Call an ambulance here!' The inspector keeps a serious direction across the room, using "vyzovite" (from "vyzvat", "to call, to summon") alongside "syuda" ("here") to shape the meaning.
-- 'Chef, I will bring you to your senses!' Fedya displays a sharp approach at this moment, pairing "privedu" ("will bring") with "chuvstvo" ("feeling, emotion") to get the point across in plain spoken Russian.
-- 'Stop, do not touch him right now!' The inspector presents a natural angle in front of Fedya, putting "stoy" ("stop, wait") alongside "trogay" ("touch") in a tight, everyday turn of phrase.
+- 'Well, do not look at me like that.' Barinov grounds one practical choice in earnest: "smotri" means "look" (from "smotret"), giving the line its exact edge.
+- 'You must not be overfed so much.' Barinov makes that thought beside the inspector: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'A Michelin inspector has come to see you.' Fedya answers warmly with a smile, steering the talk right where he wants it.
+- 'Hello, respected Viktor Petrovich.' The inspector stresses one loaded touch toward Fedya: "uvazhayemyy" means "respected, esteemed", and it carries the main weight of what the inspector is saying.
+- 'My name is Alexey Smolin.' The inspector puts that line with candor: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I am inspecting your restaurant today.' The inspector counters briskly without any doubt, without trying to dress up how he really feels.
+- 'Is everything alright with you right now?' The inspector highlights this clear expression at once: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
+- 'Yes, it is just so unexpected.' Barinov gives that thought plainly here: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Hello, it is very nice to meet you.' The inspector reacts calmly beside Barinov, keeping the focus on what actually matters here.
+- 'Call an ambulance here!' The inspector underscores one memorable detail on cue: "pomoshch" means "help", and it carries the main weight of what the inspector is saying.
+- 'Chef, I will bring you to your senses!' Fedya picks one pointed expression in reply: "chuvstvo" means "feeling, emotion", and it carries the main weight of what Fedya is saying.
+- 'Stop, do not touch him right now!' The inspector follows up honestly with Fedya, refusing to let the moment slip past.

@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, can I already go to the kitchen?' Max asks if he can go to the kitchen yet.
 - 'Wait! Did you cook lunch for the cooks?' Barinov stops him and asks if he made lunch for the cooks.
 - 'Yes, of course, I already made everything.' Max confirms he already made everything.
-- 'Is everything definitely ready? You aren' Barinov questions if it is truly ready and if his employee is deceiving him.
+- 'Is everything definitely ready? You aren't deceiving me?' Barinov questions if it is truly ready and if his employee is deceiving him.
 - 'Well, almost cooked, very little is left.' Max clarifies that the meal is almost done.
 - 'You are lying to my face again!' Barinov accuses him of lying straight to his face again.
 - 'Chef, I never lie to you.' Max insists he never lies to his boss.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I hate them all, traitors!' Nagiyev presents a wry style straight away, anchoring the Russian line on "nenavizhu" ("hate") and "predateli" ("traitors") without extra filler.
-- 'Dmitry Vladimirovich, what happened?' Max wonders quietly in their exchange, combining "sluchilos" ("happened") and "dmitriy" ("Dmitry") so the key meaning lands right away.
-- 'The director decided to film without me!' Nagiyev strikes a brisk bearing in the room, putting "rezhissyor" ("director") alongside "reshil" ("has decided") in a tight, everyday turn of phrase.
-- 'He wants to shoot the second part with someone else!' Nagiyev keeps a clear style across the room, using "khochet" (from "khotet", "wants") alongside "vtoruyu" ("second") to shape the meaning.
-- 'And I am such a handsome actor, after all!' Nagiyev conveys a natural rhythm at this moment, leaning on "krasivyy" ("beautiful") before closing the thought with "aktyor" ("actor").
-- 'Do we have any laxative in the kitchen?' Nagiyev presses steadily right away, anchoring the Russian line on "kukhne" ("kitchen") and "yest" ("there is") without extra filler.
-- 'Pour it straight into the desserts, into the pastries!' Nagiyev chooses an honest style for Max, anchoring the Russian line on "ley" ("pour") and "pryamo" ("right, just") without extra filler.
-- 'Pour the whole bottle in there at once!' Nagiyev sustains a measured view right away, putting "vylivay" ("pour") alongside "tuda" ("there") in a tight, everyday turn of phrase.
-- 'I will never get involved with these movies again!' Nagiyev favors an emphatic rhythm as the scene unfolds, weaving "bolshe" ("more") together with "svyazhus" ("will get in touch") just the way native speakers do.
-- 'Now I only act in the West!' Nagiyev favors a brisk line at this moment, building the phrase around "teper" ("now") and "snimayus" ("act") for a crisp, natural delivery.
-- 'She is very dangerous for everyone.' Nagiyev chooses a calm attitude in the scene, joining "ochen" ("very much") to "opasna" ("everyone") so every word pulls its weight.
-- 'The agent is working undercover.' Nagiyev maintains a direct line in this beat, building the phrase around "agent" ("agent") and "rabotayet" ("works") for a crisp, natural delivery.
+- 'I hate them all, traitors!' Nagiyev emphasizes one classic piece on cue: "predateli" means "traitors" (from "predatel"), giving the line its exact edge.
+- 'Dmitry Vladimirovich, what happened?' Max directs this line with warmth: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'The director decided to film without me!' Nagiyev replies promptly with a smile, before Max can change the subject.
+- 'He wants to shoot the second part with someone else!' Nagiyev leans on one clear piece in earnest: "vtoruyu" means "second" (from "vtoroy"), giving the line its exact edge.
+- 'And I am such a handsome actor, after all!' Nagiyev states the thought to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Do we have any laxative in the kitchen?' Nagiyev prompts curiously whether Max really thought this through.
+- 'Pour it straight into the desserts, into the pastries!' Nagiyev reaches for one vivid expression on cue: "pirozhnyye" means "pastries, cakes" (from "pirozhnoye"), giving the line its exact edge.
+- 'Pour the whole bottle in there at once!' Nagiyev stands firm lightly across the room, making his position completely clear.
+- 'I will never get involved with these movies again!' Nagiyev speaks up briskly with a sigh, leaving no doubt about where he stands.
+- 'Now I only act in the West!' Nagiyev sharpens one colorful piece for Max: "snimayus" means "act", and it carries the main weight of what Nagiyev is saying.
+- 'She is very dangerous for everyone.' Nagiyev voices the reply frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'The agent is working undercover.' Nagiyev chimes in candidly around Max, saying out loud what both of them already know.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, did you move to a new apartment?' Max presses naturally in the scene, combining "podozhdi" ("wait") and "novuyu" ("new") so the key meaning lands right away.
-- 'No, I just came to visit a friend.' Vika brings a candid course across the room, combining the softening word "prosto" ("simply, just") with "podruge" ("friend") to give the line its natural spoken rhythm.
-- 'Darling, for some reason I already started missing you.' Nagiyev strikes a pointed rhythm in this beat, joining "dorogaya" ("expensive") to "uzhe" ("already, now") so every word pulls its weight.
-- 'Oh, hi, good job dropping by, we really missed you!' Nagiyev sets a firm tack right away, pairing "molodets" ("well done, good boy") with "zashyol" ("stopped by") to get the point across in plain spoken Russian.
-- 'Everything is clear with you, so you came for a visit.' Max conveys a natural rhythm with Nagiyev, pairing "ponyatno" ("clear") with "znachit" ("then, so") to get the point across in plain spoken Russian.
-- 'Dmitry Vladimirovich, may I speak with Victoria Sergeyevna about work?' Max tests steadily as they speak, leaning on "mozhno" ("may, can") before closing the thought with "pogovorit" ("to talk").
-- 'Dima, tell me, is everything alright with you out there?' Vika checks briskly on the spot, using "skazhi" (from "skazat", "say") alongside "tam" ("there") to shape the meaning.
-- 'Max, maybe you really should quit?' Vika queries directly without holding back, pairing "mozhet" ("can") with "pravda" ("honestly") to get the point across in plain spoken Russian.
-- 'Yes, it seems that way will be better for everyone.' Max offers a thoughtful rhythm in this beat, combining "pokhozhe" ("like, similar") and "budet" ("will be") so the key meaning lands right away.
-- 'And what are you going to do now?' Vika asks frankly right away, combining "teper" ("now") and "delat" ("do") so the key meaning lands right away.
-- 'They already offered me a position at a new restaurant.' Max conveys a calm position in the scene, linking "uzhe" ("already, now"), "predlozhili" ("offered"), and "mesto" ("place, post") in one brisk exchange.
-- 'Then from the bottom of my heart I wish you luck.' Vika maintains a calm course toward Nagiyev, leaning on "togda" ("back then") before closing the thought with "dushi" ("soul, heart").
-- 'And I do not wish you luck, after all you have achieved everything anyway.' Max maintains a direct note in the room, linking "dobilas" ("achieved"), "ya" ("I"), and "tebe" ("for you, to you") in one brisk exchange.
+- 'Wait, did you move to a new apartment?' Max chooses one loaded choice in reply: "pereyekhala" means "moved" (from "pereyekhat"), giving the line its exact edge.
+- 'No, I just came to visit a friend.' Vika brings this point right away: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Darling, for some reason I already started missing you.' Nagiyev replies evenly to be clear, steering the talk right where he wants it.
+- 'Oh, hi, good job dropping by, we really missed you!' Nagiyev frames one vivid expression right here: "molodets" means "well done, good boy", and it carries the main weight of what Nagiyev is saying.
+- 'Everything is clear with you, so you came for a visit.' Max fires back quietly watching Nagiyev, so Nagiyev knows he is not just making small talk.
+- 'Dmitry Vladimirovich, may I speak with Victoria Sergeyevna about work?' Max questions evenly while looking straight at Vika here.
+- 'Dima, tell me, is everything alright with you out there?' Vika picks one familiar detail toward Max: "poryadke" means "order" (from "poryadok"), giving the line its exact edge.
+- 'Max, maybe you really should quit?' Vika gives the remark calmly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Yes, it seems that way will be better for everyone.' Max weighs in promptly without holding back, before Nagiyev can change the subject.
+- 'And what are you going to do now?' Vika leans on one practical choice with Nagiyev: "teper" means "now", and it carries the main weight of what Vika is saying.
+- 'They already offered me a position at a new restaurant.' Max fires back bluntly with a smile, saying out loud what both of them already know.
+- 'Then from the bottom of my heart I wish you luck.' Vika chimes in calmly toward Nagiyev, grounding the moment in plain reality.
+- 'And I do not wish you luck, after all you have achieved everything anyway.' Max highlights one colorful word on cue: "dobilas" means "achieved" (from "dobitsya"), giving the line its exact edge.

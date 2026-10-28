@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova knows that I stole a pastry yesterday.' Gulya keeps a wry tack toward Ainura, building the phrase around "znayet" ("knows") and "vchera" ("yesterday") for a crisp, natural delivery.
-- 'He will definitely fire me now.' Gulya holds a frank footing in the room, weaving "teper" ("now") together with "tochno" ("definitely") just the way native speakers do.
-- 'Oh, do not panic, it is just a warning.' Ainura conveys a serious tack at this moment, leaning on "panikuy" ("panic") before closing the thought with "prosto" ("just").
-- 'And why did he not give you a warning?' Gulya presses plainly in the room, leaning on "pochemu" ("why") before closing the thought with "preduprezhdeniye" ("warning").
-- 'Lyova will definitely not touch me.' Ainura projects a candid position at this moment, pairing "tochno" ("definitely") with "budet" ("will be") to get the point across in plain spoken Russian.
-- 'He has been pursuing me for three years already.' Ainura offers an easygoing approach with Lyova, linking "uzhe" ("already, now"), "goda" ("years"), and "dobivayetsya" ("to strive for") in one brisk exchange.
-- 'I see, so he will fire only me.' Gulya picks a frank bearing on the spot, leaning on "ponyatno" ("clear") before closing the thought with "znachit" ("then, so").
-- 'Only our chef can fire you.' Ainura sets a firm bearing beside Lyova, putting "mozhet" ("can") alongside "uvolit" ("to fire") in a tight, everyday turn of phrase.
-- 'Say that you have a husband and children.' Ainura brings a calm approach beside Gulya, using "skazhi" (from "skazat", "say") alongside "muzh" ("husband") to shape the meaning.
-- 'Say that you send money home to them.' Ainura holds a direct style in this beat, using "skazhi" (from "skazat", "say") alongside "dengi" ("money") to shape the meaning.
-- 'But that is not true at all.' Gulya establishes a clear attitude as they talk, combining "sovsem" ("at all") and "nepravda" ("untrue, a lie") so the key meaning lands right away.
-- 'Vitya, this evening I have an important meeting.' Lyova establishes a frank rhythm at this moment, pairing "vecherom" ("in the evening") with "vazhnaya" ("important") to get the point across in plain spoken Russian.
+- 'Lyova knows that I stole a pastry yesterday.' Gulya counters dryly toward Ainura, before Ainura can change the subject.
+- 'He will definitely fire me now.' Gulya frames one direct expression at once: "tochno" means "definitely", and it carries the main weight of what Gulya is saying.
+- 'Oh, do not panic, it is just a warning.' Ainura offers this point without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'And why did he not give you a warning?' Gulya probes wryly how Lyova expects that to work in practice.
+- 'Lyova will definitely not touch me.' Ainura sharpens one familiar expression toward Gulya: "tochno" means "definitely", and it carries the main weight of what Ainura is saying.
+- 'He has been pursuing me for three years already.' Ainura frames that line on cue: the "-sya" ending on "dobivayetsya" ("to strive for") turns the action inward or makes it happen between people naturally.
+- 'I see, so he will fire only me.' Gulya holds firm at once with a smile, letting the remark speak for itself.
+- 'Only our chef can fire you.' Ainura features one concrete word on cue: "mozhet" means "can" (from "moch"), giving the line its exact edge.
+- 'Say that you have a husband and children.' Ainura voices the comeback with candor: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Say that you send money home to them.' Ainura proceeds dryly as they talk, grounding the moment in plain reality.
+- 'But that is not true at all.' Gulya reaches for this sharp detail on cue: "nepravda" means "untrue, a lie", and it carries the main weight of what Gulya is saying.
+- 'Vitya, this evening I have an important meeting.' Lyova hands over this update toward Gulya: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.

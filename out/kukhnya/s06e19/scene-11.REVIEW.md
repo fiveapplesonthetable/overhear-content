@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I already told Katya about you.' Katya favors a firm note without hesitation, using "rasskazala" (from "rasskazat", "told") alongside "ya" ("I") to shape the meaning.
-- 'That is all, I am waiting for you eagerly.' Katya establishes a sharp angle at this moment, putting "ochen" ("very much") alongside "zhdu" ("I wait, expect") in a tight, everyday turn of phrase.
-- 'Denis, is that you in here again?' Katya inquires boldly right away, anchoring the Russian line on "opyat" ("again") and "zdes" ("here") without extra filler.
-- 'I stopped by here at night.' Denis strikes a frank tone across the room, pairing "tut" ("here") with "nochyu" ("night") to get the point across in plain spoken Russian.
-- 'I stole your dress yesterday.' Denis shows a candid mood beside Katya, putting "vchera" ("yesterday") alongside "platye" ("a dress") in a tight, everyday turn of phrase.
-- 'I wanted to ruin the wedding, but returned it.' Denis offers a lively line in this beat, weaving "khotel" ("wanted") together with "svadbu" ("wedding") just the way native speakers do.
-- 'What, did you change your mind about ruining my wedding?' Katya challenges briskly with Denis now, using "peredumal" (from "peredumat", "changed your mind") alongside "sryvat" ("tear off, ruin") to shape the meaning.
-- 'Tell me honestly, are you happy with him?' Denis wonders evenly toward Nikita here, putting "skazhi" ("say") alongside "chestno" ("honestly") in a tight, everyday turn of phrase.
-- 'Denis stopped by to wish us happiness.' Katya displays a candid note in their talk, linking "zashyol" ("stopped by"), "pozhelat" ("to wish"), and "schastya" ("happiness") in one brisk exchange.
-- 'Yes, I wish great happiness to you both.' Denis offers a measured line in this beat, using "zhelayu" (from "zhelat", "I wish") alongside "bolshogo" ("big") to shape the meaning.
-- 'Thank you for the kind words.' Nikita maintains an earnest tone for Denis, pairing "spasibo" ("thank you") with "dobryye" ("good, kind") to get the point across in plain spoken Russian.
-- 'Farewell, Denis, and be happy.' Katya shows a lively attitude straight away, combining "bud" ("were he") and "schastliv" ("happy, lucky") so the key meaning lands right away.
+- 'I already told Katya about you.' Katya stresses one sharp piece in reply: "rasskazala" means "told" (from "rasskazat"), giving the line its exact edge.
+- 'That is all, I am waiting for you eagerly.' Katya cuts in sharply across the room, steering the talk right where she wants it.
+- 'Denis, is that you in here again?' Katya uses one pointed choice in reply: "opyat" means "again", and it carries the main weight of what Katya is saying.
+- 'I stopped by here at night.' Denis leans on this key piece right here: "nochyu" means "night" (from "noch"), giving the line its exact edge.
+- 'I stole your dress yesterday.' Denis steps in warmly with a nod, bringing things back to earth after the buildup.
+- 'I wanted to ruin the wedding, but returned it.' Denis points to one practical term in earnest: "svadbu" means "wedding" (from "svadba"), giving the line its exact edge.
+- 'What, did you change your mind about ruining my wedding?' Katya makes this line beside Denis: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'Tell me honestly, are you happy with him?' Denis challenges calmly where this conversation is heading next.
+- 'Denis stopped by to wish us happiness.' Katya colors one memorable term with Denis: "schastya" means "happiness" (from "schastye"), giving the line its exact edge.
+- 'Yes, I wish great happiness to you both.' Denis grounds one concrete detail in reply: "bolshogo" means "big" (from "bolshoy"), giving the line its exact edge.
+- 'Thank you for the kind words.' Nikita chimes in earnestly with a nod, watching Denis's face to see how the news lands.
+- 'Farewell, Denis, and be happy.' Katya grounds this telling term on cue: "schastliv" means "happy, lucky" (from "schastlivyy"), giving the line its exact edge.

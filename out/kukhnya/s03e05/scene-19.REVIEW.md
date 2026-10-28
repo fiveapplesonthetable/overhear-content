@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just be more careful in the kitchen.' Barinov offers a calm line toward Fedya, weaving "tolko" ("only") together with "budte" ("be") just the way native speakers do.
-- 'I spent half the night on this.' Barinov sustains a frank course during the exchange, joining "polnochi" ("half the night") to "potratil" ("spent, took up") so every word pulls its weight.
-- 'And mind you, do not touch anything here.' Barinov maintains a clear manner in this beat, weaving "smotrite" ("look") together with "tut" ("here") just the way native speakers do.
-- 'It seems I just broke a tooth.' Senya establishes a lively note at once, weaving "kazhetsya" ("it seems, I think") together with "seychas" ("now") just the way native speakers do.
-- 'Listen, make up something new, we are tired of it already.' Fedya shows a frank tack for Barinov, linking "slushay" ("listen"), "pridumay" ("think up, figure out"), and "novoye" ("new") in one brisk exchange.
-- 'Fedya, I really broke a tooth!' Senya picks a frank tack during the exchange, weaving "pravda" ("honestly") together with "zub" ("a tooth") just the way native speakers do.
-- 'And you did not believe me at all.' Senya favors a calm approach on the spot, weaving "sovsem" ("at all") together with "verili" ("believed") just the way native speakers do.
-- 'My friend, I got you some good medicine.' Fedya projects an emphatic direction across the room, combining "drug" ("friend") and "khorosheye" ("lovely, good") so the key meaning lands right away.
-- 'What kind of medicine did you bring?' Senya wonders warmly toward Barinov here, combining "yeshchyo" ("more, still") and "lekarstvo" ("medicine") so the key meaning lands right away.
-- 'Nothing is too much for me to give a friend.' Fedya displays a direct position toward Senya, building the phrase around "druga" ("the friend") and "zhalko" ("feel sorry for") for a crisp, natural delivery.
-- 'I would rather pull out all my teeth.' Senya establishes an earnest tone with Barinov, weaving "luchshe" ("better") together with "zuby" ("tooth") just the way native speakers do.
-- 'So you do not appreciate my care?' Fedya wonders promptly for Senya's benefit, combining "znachit" ("then, so") and "tsenish" ("appreciate") so the key meaning lands right away.
+- 'Just be more careful in the kitchen.' Barinov focuses on one classic piece at once: "akkuratney" means "more carefully" (from "akkuratno"), giving the line its exact edge.
+- 'I spent half the night on this.' Barinov stands firm earnestly on the spot, letting the remark speak for itself.
+- 'And mind you, do not touch anything here.' Barinov chimes in quietly on the spot, steering the talk right where he wants it.
+- 'It seems I just broke a tooth.' Senya reaches for this vivid piece at once: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'Listen, make up something new, we are tired of it already.' Fedya steps in pointedly without any doubt, watching Barinov's face to see how the news lands.
+- 'Fedya, I really broke a tooth!' Senya holds firm bluntly without a pause, letting the remark speak for itself.
+- 'And you did not believe me at all.' Senya sharpens one key choice with Barinov: "sovsem" means "at all", and it carries the main weight of what Senya is saying.
+- 'My friend, I got you some good medicine.' Fedya favors one sharp word with Senya: "khorosheye" means "lovely, good" (from "khoroshiy"), giving the line its exact edge.
+- 'What kind of medicine did you bring?' Senya tests plainly while looking straight at Barinov here.
+- 'Nothing is too much for me to give a friend.' Fedya picks one loaded detail at once: "druga" means "the friend" (from "drug"), giving the line its exact edge.
+- 'I would rather pull out all my teeth.' Senya cuts in lightly facing Barinov, watching Barinov's face to see how the news lands.
+- 'So you do not appreciate my care?' Fedya tests quietly in front of Senya without any preamble.

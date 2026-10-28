@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, what are you doing here right now?' Nagiyev inquires briskly to make the point, linking "zdes" ("here"), "seychas" ("now"), and "delayesh" ("are you doing") in one brisk exchange.
-- 'Vitya, I am actually talking to you!' Nagiyev picks an unhurried tempo in front of Barinov, combining "voobshche-to" ("actually") and "razgovarivayu" ("to talk, to speak") so the key meaning lands right away.
-- 'It is already two o'clock in the afternoon outside!' Nagiyev sets an emphatic tack at this moment, linking "uzhe" ("already, now") directly with "chasa" ("hours"), since Russian drops "is" and "are" in the present.
-- 'Were you drinking here all night again?' Nagiyev presses boldly during the talk, leaning on "opyat" ("again") before closing the thought with "pil" ("was drinking").
-- 'No, Dima, I did not drink at all.' Barinov establishes a playful tempo as the scene unfolds, pairing "sovsem" ("at all") with "pil" ("was drinking") to get the point across in plain spoken Russian.
-- 'I was making the new menu all night!' Barinov chooses a wry footing right away, combining "noch" ("night") and "novoye" ("new") so the key meaning lands right away.
-- 'I see very well what kind of menu you made.' Nagiyev adopts a steady rhythm for Barinov, combining "prekrasno" ("perfectly") and "vizhu" ("see") so the key meaning lands right away.
-- 'I will cook a new dish for you right now!' Barinov conveys a steady tone straight away, linking "seychas" ("now"), "novoye" ("new"), and "blyudo" ("dish") in one brisk exchange.
-- 'What will you cook when you are so tired?' Nagiyev quizzes plainly during the talk, joining "prigotovish" ("will prepare") to "kogda" ("when") so every word pulls its weight.
-- 'Dima, for some reason I cannot feel my arm!' Barinov takes an earnest tack right away, putting "pochemu-to" ("for some reason") alongside "chuvstvuyu" ("feel") in a tight, everyday turn of phrase.
-- 'Wait, Dima, look, I am fine.' Barinov favors a wry posture across the room, using "podozhdi" (from "podozhdat", "wait") alongside "smotri" ("look") to shape the meaning.
-- 'Come on, I just slept badly.' Barinov maintains a clear posture in front of Nagiyev, pairing "prosto" ("just") with "plokho" ("badly") to get the point across in plain spoken Russian.
-- 'Here look, water got on me too.' Barinov takes a warm style in the scene, building the phrase around "smotri" ("look") and "tozhe" ("too") for a crisp, natural delivery.
+- 'Vitya, what are you doing here right now?' Nagiyev frames the reply without pause: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Vitya, I am actually talking to you!' Nagiyev holds firm bluntly as they talk, leaving no doubt about where he stands.
+- 'It is already two o'clock in the afternoon outside!' Nagiyev features one pointed detail at once: "ulitse" means "street" (from "ulitsa"), giving the line its exact edge.
+- 'Were you drinking here all night again?' Nagiyev phrases this update with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'No, Dima, I did not drink at all.' Barinov cuts in pointedly toward Nagiyev, shifting the whole mood of the room in a single beat.
+- 'I was making the new menu all night!' Barinov leans on this direct word at once: "novoye" means "new" (from "novyy"), giving the line its exact edge.
+- 'I see very well what kind of menu you made.' Nagiyev frames one loaded touch in reply: "prekrasno" means "perfectly", and it carries the main weight of what Nagiyev is saying.
+- 'I will cook a new dish for you right now!' Barinov fires back evenly to settle things, so Nagiyev knows he is not just making small talk.
+- 'What will you cook when you are so tired?' Nagiyev sharpens one sharp touch for Barinov: "prigotovish" means "will prepare" (from "prigotovit"), giving the line its exact edge.
+- 'Dima, for some reason I cannot feel my arm!' Barinov speaks at once in this moment, refusing to let the moment slip past.
+- 'Wait, Dima, look, I am fine.' Barinov speaks up right away before Nagiyev, to clear the air between them once and for all.
+- 'Come on, I just slept badly.' Barinov features one telling word in reply: "prosto" means "just", and it carries the main weight of what Barinov is saying.
+- 'Here look, water got on me too.' Barinov speaks wryly to be clear, leaving no doubt about where he stands.

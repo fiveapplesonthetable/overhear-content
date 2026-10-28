@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Too bad there is no sound.' Max presents a steady style at this moment, combining "zhalko" ("feel sorry for") and "zvuka" ("sound, volume") so the key meaning lands right away.
-- 'Maxim, if you say that one more time, I will be offended.' Kostya sets a frank view straight away, combining "yeshche" ("still") and "raz" ("time, once") so the key meaning lands right away.
-- 'And who gave you permission to spy on him?' Rodion presses quietly to keep things clear, pairing "razreshil" ("allowed") with "sledit" ("to monitor") to get the point across in plain spoken Russian.
-- 'Besides, you have no right to do that.' Max offers an unhurried manner straight away, joining "voobshche" ("at all") to "imeyete" ("have") so every word pulls its weight.
-- 'Does he have the right to use your face cream?' Kostya asks sharply without holding back, leaning on "imeyet" ("has") before closing the thought with "pravo" ("right").
-- 'Man, that cream costs a fortune...' Rodion presents an easygoing bearing as they talk, weaving "blin" ("damn") together with "krem" ("cream") just the way native speakers do.
-- 'Although if he needs it, let him use it.' Max projects a natural manner at once, anchoring the Russian line on "nado" ("it is necessary") and "beret" ("takes") without extra filler.
-- 'And all because of that.' Kostya displays a grounded tack in the conversation, pairing "potomu" ("because") with "vse" ("all") to get the point across in plain spoken Russian.
-- 'Max, listen, I am begging you as a friend, okay?' Rodion tests calmly across the room, pairing "slushay" ("listen") with "kak" ("how") to get the point across in plain spoken Russian.
-- 'Good night, Maxim Leonidovich.' Kostya holds a serious posture beside Rodion, linking "spokoynoy" ("good"), "nochi" ("night"), and "maksim" ("Maksim") in one brisk exchange.
-- 'By the way, I hope you do not mind that I sleep without underwear.' Kostya shares a candid view on the spot, pairing "kstati" ("by the way") with "nizhnego" ("lower, bottom") to get the point across in plain spoken Russian.
-- 'I am simply accustomed to freedom in all things.' Rodion shares an emphatic direction right away, combining the softening word "prosto" ("simply, just") with "privyk" ("got used") to give the line its natural spoken rhythm.
-- 'He snores so loudly.' Max sets an unhurried position at once, combining "khrapit" ("snores") and "on" ("he") so the key meaning lands right away.
+- 'Too bad there is no sound.' Max follows up evenly across the room, steering the talk right where he wants it.
+- 'Maxim, if you say that one more time, I will be offended.' Kostya highlights one clear piece on cue: "skazhesh" means "will you say" (from "skazat"), giving the line its exact edge.
+- 'And who gave you permission to spy on him?' Rodion shares that reply to Kostya: putting the question word "kto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Besides, you have no right to do that.' Max weighs in steadily with a shrug, watching Rodion's face to see how the news lands.
+- 'Does he have the right to use your face cream?' Kostya favors this direct word with Max: "pravo" means "right", and it carries the main weight of what Kostya is saying.
+- 'Man, that cream costs a fortune...' Rodion hands over that line at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Although if he needs it, let him use it.' Max jumps in dryly without holding back, making his position completely clear.
+- 'And all because of that.' Kostya favors one sharp piece right here: "potomu" means "because", and it carries the main weight of what Kostya is saying.
+- 'Max, listen, I am begging you as a friend, okay?' Rodion offers the comment for Kostya: putting the question word "kak" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Good night, Maxim Leonidovich.' Kostya proceeds warmly without holding back, letting the remark speak for itself.
+- 'By the way, I hope you do not mind that I sleep without underwear.' Kostya features this sharp word for Max: "nizhnego" means "lower, bottom" (from "nizhniy"), giving the line its exact edge.
+- 'I am simply accustomed to freedom in all things.' Rodion shares the reply right away: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'He snores so loudly.' Max answers dryly facing Kostya, saying out loud what both of them already know.

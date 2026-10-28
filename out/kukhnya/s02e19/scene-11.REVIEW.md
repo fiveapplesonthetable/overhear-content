@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let me call you back in a minute.' Max holds an honest approach in this beat, linking "day-ka" ("give"), "perezvonyu" ("will call back"), and "ya" ("I") in one brisk exchange.
-- 'Where did I just walk in, a zoo?' Kostya checks calmly with Max now, joining "gde" ("where") to "zoopark" ("zoo") so every word pulls its weight.
-- 'And what are we all munching on here, huh?' Max prompts calmly to Kostya here, joining "khomyachim" ("to munch, snack on") to "chto" ("what") so every word pulls its weight.
-- 'Not on my tab, I hope, huh?' Kostya checks promptly in their exchange, pairing "nadeyus" ("hope so") with "schet" ("account") to get the point across in plain spoken Russian.
-- 'No, no, of course not.' Max offers a steady rhythm in the conversation, combining "net" ("no") and "chto" ("what") so the key meaning lands right away.
-- 'Alright, go ahead and set a place for me over there too.' Kostya offers a steady angle with Max, building the phrase around "davayte" ("let's") and "tozhe" ("too") for a crisp, natural delivery.
-- 'I would gladly eat something myself.' Max shows an honest stance as they talk, anchoring the Russian line on "tozhe" ("too") and "syel" ("ate") without extra filler.
-- 'Yes, right away.' Kostya chooses a pointed tone in the scene, putting all the weight on "da" ("yes") so the reply lands immediately.
-- 'Stop nodding like that.' Max presents a direct view during the exchange, putting "nikak" ("in no way") alongside "kivayte" ("to nod") in a tight, everyday turn of phrase.
-- 'Take the order.' Kostya takes a steady line in the scene, joining "primi" ("take, accept") to "zakaz" ("order") so every word pulls its weight.
-- 'What is this, they want seconds now?' Max prompts quietly in this moment, linking "dobavki" ("seconds"), "zakhoteli" ("wanted"), and "chto" ("what") in one brisk exchange.
-- 'One more salad.' Kostya keeps an earnest tack without hesitation, linking "yeshche" ("still"), "salat" ("salad"), and "odin" ("one") in one brisk exchange.
-- 'You will get your salad.' Max sustains a resolute angle as they talk, using "budet" (from "byt", "will be") alongside "salat" ("salad") to shape the meaning.
+- 'Let me call you back in a minute.' Max delivers that remark right away: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Where did I just walk in, a zoo?' Kostya questions openly while looking straight at Max here.
+- 'And what are we all munching on here, huh?' Max stresses one loaded word toward Kostya: "khomyachim" means "to munch, snack on" (from "khomyachit"), giving the line its exact edge.
+- 'Not on my tab, I hope, huh?' Kostya makes the remark for Max: the "-sya" ending on "nadeyus" ("hope so") turns the action inward or makes it happen between people naturally.
+- 'No, no, of course not.' Max weighs in honestly hearing Kostya, making his position completely clear.
+- 'Alright, go ahead and set a place for me over there too.' Kostya picks one clear touch right here: "davayte" means "let's" (from "davat"), giving the line its exact edge.
+- 'I would gladly eat something myself.' Max steps in bluntly as they talk, letting the remark speak for itself.
+- 'Yes, right away.' Kostya responds boldly with a smile, before Max can change the subject.
+- 'Stop nodding like that.' Max chooses one concrete detail at once: "kivayte" means "to nod" (from "kivat"), giving the line its exact edge.
+- 'Take the order.' Kostya makes this line without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What is this, they want seconds now?' Max asks straight out to see how Kostya will answer on the spot.
+- 'One more salad.' Kostya stresses one direct expression right here: "yeshche" means "still" (from "yeshchyo"), giving the line its exact edge.
+- 'You will get your salad.' Max makes the comeback without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

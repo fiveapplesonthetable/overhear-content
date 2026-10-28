@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is in there?' Max quizzes steadily to make the point, pairing "tam" ("there") with "takoye" ("on earth") to get the point across in plain spoken Russian.
-- 'What do you mean, meat?' Nagiyev inquires sharply without hesitation, joining "kak" ("how") to "myaso" ("meat") so every word pulls its weight.
-- 'Maksim, did you put meat in his food?' Nagiyev presses sharply in the room, weaving "polozhil" ("laid, put down") together with "myaso" ("meat") just the way native speakers do.
-- 'He is happy with it, do not get upset.' Nagiyev maintains an earnest tempo at this moment, putting "rad" ("glad") alongside "rasstraivaysya" ("be upset, worry") in a tight, everyday turn of phrase.
-- 'How could you do that?' Max presses decisively as they speak, building the phrase around "kak" ("how") and "mog" ("can, to be able") for a crisp, natural delivery.
-- 'If nothing happens...' Nagiyev maintains a warm footing beside Max, pairing "yesli" ("if") with "nichego" ("nothing") to get the point across in plain spoken Russian.
-- 'I have been waiting for you for an hour already.' Max chooses a clear line across the room, leaning on "uzhe" ("already, now") before closing the thought with "chas" ("hour").
-- 'Where have you been wandering?' Nagiyev prompts plainly for Max's benefit, anchoring the Russian line on "gde" ("where") and "khodish" ("can walk, are walking") without extra filler.
-- 'I am sitting inside the walk-in fridge.' Max holds a candid course in the conversation, linking "kholodilnike" ("fridge"), "sizhu" ("am sitting"), and "ya" ("I") in one brisk exchange.
-- 'Oh, it really stinks in there, guys.' Nagiyev picks a measured tempo during the exchange, putting "von" ("stench, bad smell") alongside "tam" ("there") in a tight, everyday turn of phrase.
-- 'First it stinks in there, and then it is freezing cold.' Max shows a pointed posture in the scene, putting "tam" ("there") alongside "vonyayet" ("like") in a tight, everyday turn of phrase.
-- 'So who is she?' Nagiyev inquires earnestly from the start, building the phrase around "nu" ("oh, come on") and "kto" ("who") for a crisp, natural delivery.
-- 'Oh, let us say so.' Max shares a serious position as they talk, combining "dopusti" ("to allow, to suppose") and "akh" ("ah, oh") so the key meaning lands right away.
+- 'What is in there?' Max hands over the comeback plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'What do you mean, meat?' Nagiyev inquires calmly before Max can change the subject.
+- 'Maksim, did you put meat in his food?' Nagiyev grounds this sharp expression for Max: "polozhil" means "laid, put down" (from "polozhit"), giving the line its exact edge.
+- 'He is happy with it, do not get upset.' Nagiyev brings the thought on cue: the "-sya" ending on "rasstraivaysya" ("be upset, worry") turns the action inward or makes it happen between people naturally.
+- 'How could you do that?' Max quizzes plainly why things suddenly took this turn between them.
+- 'If nothing happens...' Nagiyev makes the thought briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I have been waiting for you for an hour already.' Max emphasizes one clear touch in reply: "chas" means "hour", and it carries the main weight of what Max is saying.
+- 'Where have you been wandering?' Nagiyev prompts firmly how Max expects that to work in practice.
+- 'I am sitting inside the walk-in fridge.' Max frames one sharp detail right here: "kholodilnike" means "fridge" (from "kholodilnik"), giving the line its exact edge.
+- 'Oh, it really stinks in there, guys.' Nagiyev offers that answer without fuss: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'First it stinks in there, and then it is freezing cold.' Max steps in wryly in their talk, bringing things back to earth after the buildup.
+- 'So who is she?' Nagiyev sends the reaction on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Oh, let us say so.' Max drops this answer facing Nagiyev: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

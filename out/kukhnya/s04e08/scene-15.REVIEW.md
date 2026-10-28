@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ainura, tell me, do you know how to knit well?' Max checks boldly in their exchange, leaning on "skazhi" ("say") before closing the thought with "khorosho" ("good, fine").
-- 'And what exactly do you need knitted right now?' Ainura challenges promptly during the talk, weaving "seychas" ("now") together with "nuzhno" ("necessary") just the way native speakers do.
-- 'This warm shawl of Mom's needs to be fixed urgently!' Max strikes a calm footing as the scene unfolds, linking "tyoplyy" ("warm"), "mamin" ("needs"), and "platok" ("kitchen") in one brisk exchange.
-- 'Oh my, and do you have knitting needles with you?' Ainura wonders plainly right away, linking "vyazalnyye" ("needles"), "spitsy" ("work"), and "yest" ("there is") in one brisk exchange.
-- 'No, Maksim, I do not know how to knit something like that.' Ainura takes a frank direction during the exchange, weaving "svyazat" ("to tie up, to bind") together with "umeyu" ("to know how to") just the way native speakers do.
-- 'I told you that everything will be fine!' Max shares a wry approach for Vika, leaning on "govoril" ("said, were saying") before closing the thought with "budet" ("will be").
-- 'Max, and just what are we going to do now?' Vika prompts sharply in the room, pairing "teper" ("now") with "delat" ("do") to get the point across in plain spoken Russian.
-- 'Do not worry, right now we will definitely think of something.' Max displays a firm posture in the conversation, joining "perezhivay" ("worry") to "seychas" ("now") so every word pulls its weight.
-- 'What, are you going to lie to your mother again?' Vika queries warmly right away, putting "opyat" ("again") alongside "budesh" ("will") in a tight, everyday turn of phrase.
-- 'Vika, I promise you, this is for the last time!' Max shares an easygoing view in the scene, combining "obeshchayu" ("promise") and "posledniy" ("last") so the key meaning lands right away.
-- 'Your lying never leads to anything good!' Vika presents a candid position in the room, doubling the negative with "ne" ("not") and "vranyo" ("never"), which is standard and required in Russian.
-- 'I will simply buy her the exact same shawl!' Max shows an unhurried note in their talk, joining "prosto" ("just") to "kuplyu" ("will buy") so every word pulls its weight.
+- 'Ainura, tell me, do you know how to knit well?' Max challenges briskly in front of Ainura without any preamble.
+- 'And what exactly do you need knitted right now?' Ainura grounds this telling touch for Vika: "seychas" means "now", and it carries the main weight of what Ainura is saying.
+- 'This warm shawl of Mom's needs to be fixed urgently!' Max frames the comeback around Ainura: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Oh my, and do you have knitting needles with you?' Ainura tests briskly before Vika can change the subject.
+- 'No, Maksim, I do not know how to knit something like that.' Ainura uses one sharp piece at once: "svyazat" means "to tie up, to bind", and it carries the main weight of what Ainura is saying.
+- 'I told you that everything will be fine!' Max favors one memorable word in earnest: "normalno" means "fine, OK", and it carries the main weight of what Max is saying.
+- 'Max, and just what are we going to do now?' Vika prompts quietly if there is more going on behind the scenes.
+- 'Do not worry, right now we will definitely think of something.' Max highlights this clear expression in reply: "obyazatelno" means "surely, without fail", and it carries the main weight of what Max is saying.
+- 'What, are you going to lie to your mother again?' Vika sends this statement facing Ainura: putting the question word "chto" right at the front of the line lets Ainura hear the point of the question on the very first beat.
+- 'Vika, I promise you, this is for the last time!' Max opens up plainly before Vika, grounding the moment in plain reality.
+- 'Your lying never leads to anything good!' Vika emphasizes one telling touch on cue: "vranyo" means "never", and it carries the main weight of what Vika is saying.
+- 'I will simply buy her the exact same shawl!' Max aims this answer toward Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

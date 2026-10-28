@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I have a huge problem right now.' Max favors a firm approach during the exchange, combining "seychas" ("now") and "ogromnaya" ("vast, huge") so the key meaning lands right away.
-- 'Come on, you have a permanent season pass there.' Kostya displays a brisk style as the scene unfolds, joining "tuda" ("there") to "postoyannyy" ("regular") so every word pulls its weight.
-- 'You get into trouble so often, after all.' Kostya keeps a measured line in front of Max, building the phrase around "chasto" ("often") and "tuda" ("there") for a crisp, natural delivery.
-- 'Stop joking, I am talking to you about Katya.' Max displays a firm note for Vika, combining "khvatit" ("enough") and "shutit" ("to joke") so the key meaning lands right away.
-- 'Eva, what do you need here right now?' Kostya questions candidly beside Max, putting "seychas" ("now") alongside "tut" ("here") in a tight, everyday turn of phrase.
-- 'Kostya, where is my finished cocktail?' Vika checks directly for Max's benefit, pairing "gde" ("where") with "gotovyy" ("finished, ready") to get the point across in plain spoken Russian.
-- 'Here is your cocktail, take it and go away.' Kostya brings an unhurried course in front of Max, putting "kokteyl" ("cocktail") alongside "beri" ("take, grab") in a tight, everyday turn of phrase.
-- 'Well no, Katya and I just kissed.' Max sets a wry posture as the scene unfolds, anchoring the Russian line on "prosto" ("just") and "potselovalis" ("kissed") without extra filler.
-- 'But Vika came back today!' Kostya strikes a pointed view in the scene, building the phrase around "segodnya" ("today") and "obratno" ("back") for a crisp, natural delivery.
-- 'You see, if Vika finds out about this, I am done for.' Max sustains an easygoing tempo in the conversation, using "ponimayesh" (from "ponimat", "do you understand") alongside "uznayet" ("will find out") to shape the meaning.
-- 'Tell Katya the truth, that you love Vika.' Kostya chooses a brisk line during the exchange, leaning on "skazhi" ("say") before closing the thought with "pravdu" ("truth").
-- 'In words everything is always simple for you!' Max projects a measured tone without hesitation, anchoring the Russian line on "slovakh" ("words") and "vsegda" ("always") without extra filler.
+- 'Kostya, I have a huge problem right now.' Max lays out that answer frankly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Come on, you have a permanent season pass there.' Kostya pushes back boldly toward Vika, shifting the whole mood of the room in a single beat.
+- 'You get into trouble so often, after all.' Kostya underscores one telling term on cue: "popadayesh" means "you end up" (from "popadat"), giving the line its exact edge.
+- 'Stop joking, I am talking to you about Katya.' Max picks one loaded piece toward Vika: "khvatit" means "enough", and it carries the main weight of what Max is saying.
+- 'Eva, what do you need here right now?' Kostya checks promptly about what Max just brought up.
+- 'Kostya, where is my finished cocktail?' Vika colors one loaded detail in earnest: "gotovyy" means "finished, ready", and it carries the main weight of what Vika is saying.
+- 'Here is your cocktail, take it and go away.' Kostya reaches for this direct element for Max: "kokteyl" means "cocktail", and it carries the main weight of what Kostya is saying.
+- 'Well no, Katya and I just kissed.' Max answers promptly to be clear, so Vika knows he is not just making small talk.
+- 'But Vika came back today!' Kostya underscores one sharp word for Max: "segodnya" means "today", and it carries the main weight of what Kostya is saying.
+- 'You see, if Vika finds out about this, I am done for.' Max stands firm promptly with a nod, leaving no doubt about where he stands.
+- 'Tell Katya the truth, that you love Vika.' Kostya responds at once toward Max, steering the talk right where he wants it.
+- 'In words everything is always simple for you!' Max highlights one familiar element in earnest: "slovakh" means "words" (from "slovo"), giving the line its exact edge.

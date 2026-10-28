@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Folks, the sous-chef said it, the sous-chef quickly did it!' Max takes a steady direction right away, using "druzya" (from "drug", "friends") alongside "su-shef" ("sous-chef") to shape the meaning.
-- 'Our previous salaries are staying in place.' Max sustains a resolute style in this beat, pairing "ostayutsya" ("remain, stay") with "prezhniye" ("former, previous") so the "-sya" ending carries the action.
-- 'I said that we would all quit together.' Max sustains an unhurried tack toward Barinov, weaving "skazal" ("said") together with "vmeste" ("together") just the way native speakers do.
-- 'Let's all get to work, why are we standing around?' Max presses openly in this moment, building the phrase around "davayte" ("let's") and "rabotu" ("job") for a crisp, natural delivery.
-- 'And here is our Kamchatka royal crab!' Barinov conveys an emphatic approach on the spot, anchoring the Russian line on "kamchatskiy" ("crab") and "korolevskiy" ("one") without extra filler.
-- 'We need to ask the sous-chef about this first.' Barinov displays a candid angle at this moment, weaving "nuzhno" ("necessary") together with "snachala" ("first, at first") just the way native speakers do.
-- 'Lev Semyonovich, may we carry the dish to the hall?' Barinov asks quietly on the spot, pairing "semyonovich" ("semyonovich") with "mozhno" ("may, can") to get the point across in plain spoken Russian.
-- 'Yes, carry it quickly to the guests' Lyova sustains a warm tack in this beat, building the phrase around "nesite" ("bring") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'Viktor Petrovich, your crab was a huge hit!' Lyova displays an emphatic position without hesitation, linking "krab" ("crab"), "proshyol" ("passed"), and "viktor" ("Viktor") in one brisk exchange.
-- 'Thank you, you can never drink away true skill.' Barinov projects a measured position toward Max, joining "spasibo" ("thank you") to "nastoyashcheye" ("real") so every word pulls its weight.
-- 'Mister Sous-Chef, may I have a little smoke break?' Barinov wonders lightly toward Lyova here, pairing "gospodin" ("Mr, sir") with "su-shef" ("sous-chef") to get the point across in plain spoken Russian.
-- 'Of course, go rest, Viktor Petrovich!' Lyova projects a brisk view on the spot, putting "konechno" ("of course") alongside "idite" ("come") in a tight, everyday turn of phrase.
+- 'Folks, the sous-chef said it, the sous-chef quickly did it!' Max speaks promptly beside Barinov, refusing to let the moment slip past.
+- 'Our previous salaries are staying in place.' Max stands firm firmly before Lyova, letting the remark speak for itself.
+- 'I said that we would all quit together.' Max centers this sharp expression with Barinov: "uvolimsya" means "quit, resign" (from "uvolitsya"), giving the line its exact edge.
+- 'Let's all get to work, why are we standing around?' Max shares that reply plainly here: the word "davayte" is the polite or group version of "let's", inviting Lyova into the plan right away.
+- 'And here is our Kamchatka royal crab!' Barinov fires back sharply with a shrug, grounding the moment in plain reality.
+- 'We need to ask the sous-chef about this first.' Barinov highlights one concrete touch in earnest: "su-shefa" means "sous-chef" (from "su-shef"), giving the line its exact edge.
+- 'Lev Semyonovich, may we carry the dish to the hall?' Barinov drops that line in earnest: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Yes, carry it quickly to the guests' Lyova stands firm right away in this moment, steering the talk right where he wants it.
+- 'Viktor Petrovich, your crab was a huge hit!' Lyova spotlights one pointed choice with Barinov: "proshyol" means "passed" (from "proyti"), giving the line its exact edge.
+- 'Thank you, you can never drink away true skill.' Barinov shares that line facing Max: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Mister Sous-Chef, may I have a little smoke break?' Barinov prompts straight out to see how Lyova will answer on the spot.
+- 'Of course, go rest, Viktor Petrovich!' Lyova emphasizes one classic choice for Max: "otdykhayte" means "rest" (from "otdykhat"), giving the line its exact edge.

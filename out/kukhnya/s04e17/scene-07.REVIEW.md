@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Meet my future husband Arseny.' Katya chooses a lively approach as the scene unfolds, linking "znakomtes" ("meet"), "budushchiy" ("future"), and "muzh" ("husband") in one brisk exchange.
-- 'And this is my future husband Louis.' Katya presents an easygoing mood in this beat, leaning on "budushchiy" ("future") before closing the thought with "muzh" ("husband").
-- 'Oh, it is very nice for me too.' Denis shares a direct approach on the spot, leaning on "tozhe" ("too") before closing the thought with "ochen" ("very much").
-- 'No, these options do not suit at all.' Katya displays a firm tack beside Senya, leaning on "varianty" ("option, variant") before closing the thought with "sovsem" ("at all").
-- 'Denis, will you be my fiancé?' Katya questions directly without hesitation, anchoring the Russian line on "budesh" ("will") and "zhenikhom" ("bridegroom") without extra filler.
-- 'What did you just say to me?' Denis probes bluntly in front of Senya, pairing "seychas" ("now") with "skazala" ("told") to get the point across in plain spoken Russian.
-- 'I take it that means yes?' Katya inquires sharply in the room, linking "ponimayu" ("understand"), "znachit" ("then, so"), and "ya" ("I") in one brisk exchange.
-- 'Well, and what do you want to play?' Denis prompts plainly in front of Senya, linking "khotite" ("want"), "sygrat" ("to play"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Well, I do not know, think of something.' Senya chooses a firm tempo in front of Denis, putting "znayu" ("know") alongside "pridumay" ("think up, figure out") in a tight, everyday turn of phrase.
-- 'We need very beautiful and passionate music.' Senya sets an emphatic position during the exchange, pairing "nuzhna" ("needed") with "ochen" ("very much") to get the point across in plain spoken Russian.
-- 'So that she wants me right away.' Senya keeps a warm footing in the conversation, weaving "srazu" ("at once") together with "zakhotela" ("wanted") just the way native speakers do.
-- 'Got it, then let's start with a simple melody.' Denis shows a frank manner in the room, weaving "ponyal" ("understood") together with "togda" ("back then") just the way native speakers do.
+- 'Meet my future husband Arseny.' Katya points to one direct element in earnest: "budushchiy" means "future", and it carries the main weight of what Katya is saying.
+- 'And this is my future husband Louis.' Katya puts the comeback with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Oh, it is very nice for me too.' Denis opens up briskly in their talk, grounding the moment in plain reality.
+- 'No, these options do not suit at all.' Katya colors one colorful word in reply: "varianty" means "option, variant" (from "variant"), giving the line its exact edge.
+- 'Denis, will you be my fiancé?' Katya drops the remark beside Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'What did you just say to me?' Denis inquires calmly where this conversation is heading next.
+- 'I take it that means yes?' Katya frames one pointed expression right here: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.
+- 'Well, and what do you want to play?' Denis puts the reaction with warmth: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'Well, I do not know, think of something.' Senya responds warmly with a nod, leaving no doubt about where he stands.
+- 'We need very beautiful and passionate music.' Senya picks this direct word with Katya: "strastnaya" means "music" (from "strastnyy"), giving the line its exact edge.
+- 'So that she wants me right away.' Senya counters decisively watching Denis, saying out loud what both of them already know.
+- 'Got it, then let's start with a simple melody.' Denis steps in wryly as they talk, before Senya can change the subject.

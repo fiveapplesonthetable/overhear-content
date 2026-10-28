@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My back hurts, it is awful!' Vika favors a natural tack as the scene unfolds, putting "spina" ("back") alongside "bolit" ("hurts, aches") in a tight, everyday turn of phrase.
-- 'I had a business card here somewhere. Here, take it.' Tanya shows a lively position at this moment, putting "gde-to" ("somewhere") alongside "byla" ("was") in a tight, everyday turn of phrase.
-- 'The master simply has magical hands!' Tanya maintains a measured bearing in front of Max, putting "master" ("technician") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'Everyone especially praises his massage for pregnant women.' Tanya offers a candid attitude as the scene unfolds, joining "osobenno" ("especially") to "khvalyat" ("praise") so every word pulls its weight.
-- 'Tanya, in the evening I only have enough strength to eat and wash up.' Vika picks a brisk approach toward Max, pairing "vecherom" ("in the evening") with "khvatayet" ("grabs") to get the point across in plain spoken Russian.
-- 'Vika, you work in a hotel! Book a room, step away for half an hour.' Tanya presents a steady stance at once, leaning on "rabotayesh" ("are working") before closing the thought with "otele" ("in the hotel").
-- 'Let us do it at six. Thank you very much, see you soon!' Vika presents a steady attitude with Max, joining "davayte" ("let's") to "spasibo" ("thank you") so every word pulls its weight.
-- 'Viktoriya Sergeyevna, are you comfortable?' Max asks briskly on the spot, pairing "udobno" ("comfortable") with "viktoriya" ("Victoria") to get the point across in plain spoken Russian.
-- 'Excuse me, my back cramped up. My condition will not affect my work in any way.' Vika shows an easygoing posture in front of Max, putting "izvinite" ("sorry, excuse me") alongside "spinu" ("back") in a tight, everyday turn of phrase.
-- 'You should fulfill your marital duty.' Tanya displays a calm style toward Vika, anchoring the Russian line on "vypolnil" ("fulfilled, kept") and "supruzheskiy" ("marital, conjugal") without extra filler.
-- 'Did Vika ask for that?' Max tests warmly in the scene, combining "prosila" ("asked") and "eto" ("this") so the key meaning lands right away.
-- 'No, her hormones!' Tanya offers a sharp line for Vika, using "gormony" (from "gormon", "hormones") alongside "net" ("no") to shape the meaning.
+- 'My back hurts, it is awful!' Vika emphasizes this vivid piece toward Max: "spina" means "back", and it carries the main weight of what Vika is saying.
+- 'I had a business card here somewhere. Here, take it.' Tanya drops that answer facing Vika: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'The master simply has magical hands!' Tanya chimes in warmly without holding back, refusing to let the moment slip past.
+- 'Everyone especially praises his massage for pregnant women.' Tanya focuses on one classic element in reply: "beremennykh" means "pregnant women" (from "beremennaya"), giving the line its exact edge.
+- 'Tanya, in the evening I only have enough strength to eat and wash up.' Vika holds firm quietly without any doubt, saying out loud what both of them already know.
+- 'Vika, you work in a hotel! Book a room, step away for half an hour.' Tanya follows up firmly to settle things, letting the remark speak for itself.
+- 'Let us do it at six. Thank you very much, see you soon!' Vika emphasizes one colorful expression at once: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Viktoriya Sergeyevna, are you comfortable?' Max brings the comeback facing Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Excuse me, my back cramped up. My condition will not affect my work in any way.' Vika steps in decisively without any doubt, before Max can change the subject.
+- 'You should fulfill your marital duty.' Tanya spotlights one sharp term for Vika: "supruzheskiy" means "marital, conjugal", and it carries the main weight of what Tanya is saying.
+- 'Did Vika ask for that?' Max phrases that thought with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Tanya purely through rising pitch at the end.
+- 'No, her hormones!' Tanya weighs in steadily toward Vika, without trying to dress up how she really feels.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He can hear everything!' Nagiyev maintains a candid tone during the exchange, pairing "slyshit" ("to hear") with "on" ("he") to get the point across in plain spoken Russian.
-- 'Tamara Petrovna!' Barinov keeps a brisk footing straight away, building the phrase around "tamara" ("Tamara") and "petrovna" ("Petrovna") for a crisp, natural delivery.
-- 'He recognized me!' Nagiyev strikes an emphatic approach in front of Barinov, joining "uznal" ("recognised") to "on" ("he") so every word pulls its weight.
-- 'Good Lord, he recognized me.' Barinov shares an honest attitude in the room, anchoring the Russian line on "uznal" ("recognised") and "gospodi" ("Good Lord") without extra filler.
-- 'We cannot leave him here.' Nagiyev favors a resolute tempo at once, pairing "nelzya" ("not allowed") with "zdes" ("here") to get the point across in plain spoken Russian.
-- 'Grab him, Tamara Petrovna.' Barinov strikes a serious course in the room, building the phrase around "beri" ("take, grab") and "yego" ("him") for a crisp, natural delivery.
-- 'I have the right to a phone call.' Nagiyev maintains a grounded rhythm in the room, pairing "imeyu" ("have") with "pravo" ("right") to get the point across in plain spoken Russian.
-- 'Call Dmitry Nagiyev.' Barinov picks a warm footing at this moment, combining "pozvonite" ("will call") and "dmitriyu" ("Dmitry") so the key meaning lands right away.
-- 'He is the owner of my restaurant.' Nagiyev strikes a natural stance across the room, putting "khozyain" ("owner") alongside "restorana" ("restaurant") in a tight, everyday turn of phrase.
-- 'And he will confirm that I am who I say I am.' Barinov shares an unhurried manner in the room, combining "podtverdil" ("to confirm") and "on" ("he") so the key meaning lands right away.
-- 'Go ahead and dictate the number, I guess.' Nagiyev strikes an unhurried posture across the room, using "diktuy" (from "diktovat", "read out, dictate") alongside "navernoye" ("probably") to shape the meaning.
-- 'Are you serious?' Barinov inquires dryly as the talk turns, leaning on "da" ("yes") before closing the thought with "ladno" ("all right").
-- 'Well, alright then.' Nagiyev keeps a thoughtful rhythm in the conversation, weaving "nu" ("oh, come on") together with "ladno" ("all right") just the way native speakers do.
+- 'He can hear everything!' Nagiyev chimes in sharply with Barinov, steering the talk right where he wants it.
+- 'Tamara Petrovna!' Barinov shapes that point right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'He recognized me!' Nagiyev brings that remark with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Good Lord, he recognized me.' Barinov opens up earnestly during the talk, saying out loud what both of them already know.
+- 'We cannot leave him here.' Nagiyev leans on one colorful expression at once: "ostavlyat" means "to leave", and it carries the main weight of what Nagiyev is saying.
+- 'Grab him, Tamara Petrovna.' Barinov states this answer to Nagiyev: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I have the right to a phone call.' Nagiyev chimes in candidly without a pause, keeping the focus on what actually matters here.
+- 'Call Dmitry Nagiyev.' Barinov chooses one telling expression in earnest: "pozvonite" means "will call" (from "pozvonit"), giving the line its exact edge.
+- 'He is the owner of my restaurant.' Nagiyev shares the thought without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And he will confirm that I am who I say I am.' Barinov opens up decisively to be clear, grounding the moment in plain reality.
+- 'Go ahead and dictate the number, I guess.' Nagiyev underscores this clear word in reply: "navernoye" means "probably", and it carries the main weight of what Nagiyev is saying.
+- 'Are you serious?' Barinov states the thought around Nagiyev: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nagiyev is on board.
+- 'Well, alright then.' Nagiyev counters openly toward Barinov, watching Barinov's face to see how the news lands.

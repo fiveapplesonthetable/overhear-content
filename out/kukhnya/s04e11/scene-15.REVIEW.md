@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, how is your ear for music?' Denis probes wryly in the scene, placing "muzykoy" ("music") straight beside "kak" ("how") with no word for "to be" needed.
-- 'So, our plan is very simple.' Denis keeps a natural attitude across the room, building the phrase around "znachit" ("then, so") and "plan" ("plan") for a crisp, natural delivery.
-- 'You seat Nagiyev right here.' Denis keeps a serious bearing beside Kostya, building the phrase around "sazhayesh" ("to seat, place") and "syuda" ("here") for a crisp, natural delivery.
-- 'From here the names of all the wines are visible to me.' Denis projects a direct position for Lyova, anchoring the Russian line on "otsyuda" ("from here") and "vidny" ("wines") without extra filler.
-- 'If I play this melody right here...' Denis holds a direct mood at once, weaving "igrayu" ("am playing") together with "melodiyu" ("melody") just the way native speakers do.
-- 'That means this wine is French.' Denis holds a serious line in the room, linking "znachit" ("then, so") directly with "vino" ("wine"), since Russian drops "is" and "are" in the present.
-- 'And this music is Spanish wine!' Kostya shows an emphatic rhythm in their talk, putting "muzyka" ("music") alongside "ispanskoye" ("Spanish") in a tight, everyday turn of phrase.
-- 'Great, you got it all, well done!' Denis displays an easygoing view in the conversation, pairing "molodets" ("well done, good boy") with "otlichno" ("perfect, great") so the "-sya" ending carries the action.
-- 'Chef, I am very proud of you.' Lyova strikes a frank line as the scene unfolds, weaving "ochen" ("very much") together with "gorzhus" ("to be proud") just the way native speakers do.
-- 'You did not just seal a hole in the wall.' Lyova adopts a clear tone beside Kostya, combining the softening word "prosto" ("simply, just") with "dyru" ("wall") to give the line its natural spoken rhythm.
-- 'From this moment a new life begins.' Lyova favors a thoughtful mood without hesitation, linking "momenta" ("moment"), "nachinayetsya" ("begins"), and "novaya" ("new") in one brisk exchange.
-- 'This is all thanks to you, Lyova.' Kostya takes a pointed manner without hesitation, linking "eto" ("this"), "vsyo" ("everything"), and "blagodarya" ("thanks to") in one brisk exchange.
-- 'Go on home in peace, see you tomorrow.' Kostya chooses a lively approach in the room, pairing "yezzhay" ("go, drive") with "spokoyno" ("calmly") to get the point across in plain spoken Russian.
+- 'Kostya, how is your ear for music?' Denis challenges sharply to see how Kostya will answer on the spot.
+- 'So, our plan is very simple.' Denis stresses one practical choice with Lyova: "prostoy" means "simple, ordinary", and it carries the main weight of what Denis is saying.
+- 'You seat Nagiyev right here.' Denis sharpens one memorable piece toward Kostya: "sazhayesh" means "to seat, place" (from "sazhat"), giving the line its exact edge.
+- 'From here the names of all the wines are visible to me.' Denis jumps in earnestly in this moment, letting the remark speak for itself.
+- 'If I play this melody right here...' Denis grounds this vivid piece on cue: "melodiyu" means "melody" (from "melodiya"), giving the line its exact edge.
+- 'That means this wine is French.' Denis lays out this line for Lyova: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And this music is Spanish wine!' Kostya steps in wryly hearing Denis, making his position completely clear.
+- 'Great, you got it all, well done!' Denis picks one classic word in earnest: "molodets" means "well done, good boy", and it carries the main weight of what Denis is saying.
+- 'Chef, I am very proud of you.' Lyova directs the thought toward Denis: the "-sya" ending on "gorzhus" ("to be proud") turns the action inward or makes it happen between people naturally.
+- 'You did not just seal a hole in the wall.' Lyova reacts decisively with a smile, to clear the air between them once and for all.
+- 'From this moment a new life begins.' Lyova emphasizes this clear element on cue: "nachinayetsya" means "begins" (from "nachinatsya"), giving the line its exact edge.
+- 'This is all thanks to you, Lyova.' Kostya shares that answer right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Go on home in peace, see you tomorrow.' Kostya responds candidly with Denis, shifting the whole mood of the room in a single beat.

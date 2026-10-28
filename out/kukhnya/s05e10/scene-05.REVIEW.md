@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Is something wrong?' Mikhail quizzes bluntly to keep things clear, joining "chto-to" ("somehow") to "ne" ("not") so every word pulls its weight.
-- 'Your corridor must be five centimeters wider.' The inspector picks an honest rhythm at this moment, combining "koridor" ("hall, corridor") and "dolzhen" ("has to, must") so the key meaning lands right away.
-- 'Everything is fixed!' Mikhail shares a warm tempo at once, anchoring the Russian line on "ispravleno" ("fixed, corrected") and "vsyo" ("everything") without extra filler.
-- 'The bed is rumpled.' The inspector keeps a resolute posture in the conversation, pairing "postel" ("bed") with "pomyata" ("rumpled, wrinkled") to get the point across in plain spoken Russian.
-- 'Room housekeeping is three points.' The inspector offers an emphatic stance straight away, joining "uborka" ("cleaning, clean-up") to "nomerov" ("of rooms") so every word pulls its weight.
-- 'Those are such trifles!' Mikhail sets a clear style as they talk, anchoring the Russian line on "pustyaki" ("trifles, minor things") and "eto" ("this") without extra filler.
-- 'Everything with us is excellent, worthy of five stars.' Mikhail keeps a frank tack at this moment, putting "otlichno" ("perfect, great") alongside "zvyozd" ("stars") in a tight, everyday turn of phrase.
-- 'We did not know that this suite was occupied.' Mikhail displays a measured manner for the inspector, leaning on "znali" ("to know") before closing the thought with "lyuks" ("luxury suite").
-- 'Let us proceed to another one.' Mikhail favors a brisk course toward the inspector, weaving "proydyomte" ("let's go, come with me") together with "drugoy" ("other") just the way native speakers do.
-- 'Are you not aware?' The inspector probes honestly in their exchange, anchoring the Russian line on "kurse" ("course, regimen") and "vy" ("you") without extra filler.
-- 'Which rooms of yours are vacant and which are occupied?' The inspector checks warmly at this point, weaving "nomera" ("number, phone number") together with "svobodny" ("free") just the way native speakers do.
-- 'We will check everything right now!' Mikhail holds a thoughtful mood in the scene, leaning on "seychas" ("now") before closing the thought with "proverim" ("we will check").
+- 'Is something wrong?' Mikhail voices the reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Your corridor must be five centimeters wider.' The inspector holds firm promptly facing Mikhail, bringing things back to earth after the buildup.
+- 'Everything is fixed!' Mikhail frames one vivid piece with the inspector: "ispravleno" means "fixed, corrected" (from "ispravit"), giving the line its exact edge.
+- 'The bed is rumpled.' The inspector brings that reply plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Room housekeeping is three points.' The inspector weighs in frankly as things stand, bringing things back to earth after the buildup.
+- 'Those are such trifles!' Mikhail highlights this sharp piece for the inspector: "pustyaki" means "trifles, minor things" (from "pustyak"), giving the line its exact edge.
+- 'Everything with us is excellent, worthy of five stars.' Mikhail makes the comment with ease: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'We did not know that this suite was occupied.' Mikhail pushes back right away around the inspector, steering the talk right where he wants it.
+- 'Let us proceed to another one.' Mikhail sharpens one memorable piece with the inspector: "proydyomte" means "let's go, come with me" (from "proyti"), giving the line its exact edge.
+- 'Are you not aware?' The inspector hands over this update calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Which rooms of yours are vacant and which are occupied?' The inspector asks curiously before Mikhail can change the subject.
+- 'We will check everything right now!' Mikhail points to one sharp term in reply: "proverim" means "we will check" (from "proverit"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, maybe we could start everything from the beginning?' Max asks plainly on the spot, weaving "mozhet" ("can") together with "nachnyom" ("we start") just the way native speakers do.
-- 'Elvira never kisses on the first date.' Vika shows a frank manner in the room, joining "pervom" ("first") to "svidanii" ("meeting, date") so every word pulls its weight.
-- 'But if we start from the beginning, then let us do it.' Vika brings a sharp rhythm as they talk, pairing "snachala" ("first, at first") with "znachit" ("then, so") to get the point across in plain spoken Russian.
-- 'Kostya, I am in total shock myself!' Max strikes a brisk note as the scene unfolds, leaning on "polnom" ("full") before closing the thought with "shoke" ("shock").
-- 'Andrey Mikhailovich, hello and goodbye right away!' Barinov favors a sharp tone in the room, leaning on "zdravstvuyte" ("hello") before closing the thought with "srazu" ("at once").
-- 'I hope that we will never see each other again.' Barinov sustains a measured line across the room, putting "nadeyus" ("hope so") alongside "bolshe" ("more") in a tight, everyday turn of phrase.
-- 'And what, actually, happened here with you?' Max presses calmly to Barinov here, pairing "sluchilos" ("happened") with "sobstvenno" ("actually") so the "-sya" ending carries the action.
-- 'Can you calmly explain this to me right now?' Max queries lightly from the start, weaving "spokoyno" ("calmly") together with "obyasnit" ("to explain") just the way native speakers do.
-- 'What happened is that I am quitting this place today!' Barinov holds a clear footing at once, combining "sluchilos" ("happened") and "segodnya" ("today") so the key meaning lands right away.
-- 'And you can thank Viktoriya Sergeyevna for that.' Barinov adopts a sharp position in the room, leaning on "mozhete" ("can, may") before closing the thought with "poblagodarit" ("to thank").
-- 'Soon not even dogs will come to this place!' Barinov takes a steady line for Max, leaning on "syuda" ("here") before closing the thought with "skoro" ("soon").
-- 'It turns out she stood up for you in front of us in vain.' Max sets a lively position without hesitation, combining "vykhodit" ("goes out") and "sovsem" ("at all") so the key meaning lands right away.
+- 'Vika, maybe we could start everything from the beginning?' Max checks earnestly how Barinov expects that to work in practice.
+- 'Elvira never kisses on the first date.' Vika focuses on this key touch in earnest: "tseluyetsya" means "kisses" (from "tselovatsya"), giving the line its exact edge.
+- 'But if we start from the beginning, then let us do it.' Vika sends that answer toward Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Kostya, I am in total shock myself!' Max replies boldly with a sigh, to clear the air between them once and for all.
+- 'Andrey Mikhailovich, hello and goodbye right away!' Barinov sharpens one classic piece in earnest: "zdravstvuyte" means "hello", and it carries the main weight of what Barinov is saying.
+- 'I hope that we will never see each other again.' Barinov hands over that line with warmth: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'And what, actually, happened here with you?' Max asks openly where this conversation is heading next.
+- 'Can you calmly explain this to me right now?' Max sharpens one concrete touch toward Vika: "spokoyno" means "calmly", and it carries the main weight of what Max is saying.
+- 'What happened is that I am quitting this place today!' Barinov drops that line briskly now: the "-sya" ending on "uvolnyayus" ("quit, resign") turns the action inward or makes it happen between people naturally.
+- 'And you can thank Viktoriya Sergeyevna for that.' Barinov reacts evenly across the room, letting the remark speak for itself.
+- 'Soon not even dogs will come to this place!' Barinov focuses on this sharp expression for Max: "sobaki" means "dog" (from "sobaka"), giving the line its exact edge.
+- 'It turns out she stood up for you in front of us in vain.' Max hands over that reply in earnest: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.

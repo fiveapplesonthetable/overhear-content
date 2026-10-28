@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'People die from falling coconuts.' Fedya adopts a sharp line toward Barinov, putting "padeniya" ("fall") alongside "kokosov" ("coconuts") in a tight, everyday turn of phrase.
-- 'What kind of total nonsense is this?' Senya wonders plainly to keep things clear, joining "polnyy" ("total, complete") to "bred" ("nonsense") so every word pulls its weight.
-- 'A coconut has already fallen on me.' Senya favors a measured direction straight away, leaning on "kokos" ("coconut") before closing the thought with "uzhe" ("already, now").
-- 'Well, I am completely alive.' Senya conveys a measured angle in front of Fedya, anchoring the Russian line on "sovsem" ("at all") and "zhivoy" ("alive") without extra filler.
-- 'You will not withstand a blow from a coconut.' Fedya takes an unhurried tack in front of Barinov, using "vyderzhish" (from "vyderzhat", "you will withstand") alongside "udar" ("blow, strike") to shape the meaning.
-- 'I will not withstand such a blow?' Senya inquires dryly for Fedya's benefit, anchoring the Russian line on "vyderzhu" ("I will endure") and "udar" ("blow, strike") without extra filler.
-- 'Let us make a bet then.' Fedya chooses a brisk bearing across the room, using "davay" (from "davat", "let's") alongside "togda" ("back then") to shape the meaning.
-- 'So will I get this star?' Barinov checks quietly as the talk turns, leaning on "poluchu" ("to get, to receive") before closing the thought with "zvezdu" ("star").
-- 'I hope everything will be great for us.' Barinov establishes an easygoing footing in their talk, linking "nadeyus" ("hope so"), "budet" ("will be"), and "otlichno" ("perfect, great") in one brisk exchange.
-- 'Coconuts never warn you in advance.' Fedya brings a sharp line right away, anchoring the Russian line on "kokosy" ("what") and "nikogda" ("never") without extra filler.
-- 'You can throw a coconut at me.' Senya chooses an earnest posture on the spot, putting "mozhesh" ("can") alongside "brosit" ("to drop") in a tight, everyday turn of phrase.
-- 'Maybe tomorrow, or maybe right now.' Fedya picks an honest manner at this moment, weaving "mozhet" ("can") together with "zavtra" ("tomorrow") just the way native speakers do.
+- 'People die from falling coconuts.' Fedya reacts briskly hearing Barinov, refusing to let the moment slip past.
+- 'What kind of total nonsense is this?' Reacting quickly with resolve, Senya makes it clear that he means every single word.
+- 'A coconut has already fallen on me.' Senya favors one vivid piece right here: "kokos" means "coconut", and it carries the main weight of what Senya is saying.
+- 'Well, I am completely alive.' Senya offers the reply on cue: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'You will not withstand a blow from a coconut.' Fedya speaks right away during the talk, so Barinov knows he is not just making small talk.
+- 'I will not withstand such a blow?' Senya frames one loaded detail in earnest: "vyderzhu" means "I will endure" (from "vyderzhat"), giving the line its exact edge.
+- 'Let us make a bet then.' Fedya makes the comeback around Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'So will I get this star?' Barinov tests firmly in front of Senya without any preamble.
+- 'I hope everything will be great for us.' Barinov emphasizes one practical expression in reply: "otlichno" means "perfect, great", and it carries the main weight of what Barinov is saying.
+- 'Coconuts never warn you in advance.' Fedya shapes this update around Senya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'You can throw a coconut at me.' Senya responds earnestly before Barinov, letting the remark speak for itself.
+- 'Maybe tomorrow, or maybe right now.' Fedya reaches for one direct word right here: "seychas" means "now", and it carries the main weight of what Fedya is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, I will not last much longer like this.' Max chooses a brisk course with Fedya, combining "slushayte" ("listen") and "dolgo" ("for a long time") so the key meaning lands right away.
-- 'Tell me, what am I supposed to do now?' Max probes sharply for Senya's benefit, building the phrase around "skazhite" ("tell") and "teper" ("now") for a crisp, natural delivery.
-- 'I, for instance, do not even know.' Senya sustains a wry mood straight away, joining "primeru" ("example") to "znayu" ("know") so every word pulls its weight.
-- 'Back then I landed in the hospital.' Senya conveys a steady posture at once, combining "togda" ("back then") and "bolnitsu" ("the hospital") so the key meaning lands right away.
-- 'Otherwise the Chef would not have left me alone.' Senya sustains a direct mood on the spot, putting "inache" ("otherwise") alongside "otstal" ("to fall behind") in a tight, everyday turn of phrase.
-- 'But not everyone was that lucky by far.' Fedya chooses an unhurried posture during the exchange, anchoring the Russian line on "daleko" ("far away") and "vezlo" ("to transport") without extra filler.
-- 'There are also some positives in this.' Fedya establishes an emphatic style on the spot, weaving "tozhe" ("too") together with "yest" ("there is") just the way native speakers do.
-- 'And just what positives are there here?' Max questions sharply as the beat lands, linking "tut" ("here") directly with "kakiye" ("what"), since Russian drops "is" and "are" in the present.
-- 'Lyova became sous-chef after a period like that.' Fedya brings a serious mood right away, pairing "perioda" ("period") with "su-shefom" ("sous-chef") to get the point across in plain spoken Russian.
-- 'True, he started stuttering after that.' Fedya strikes a measured tone in the room, building the phrase around "pravda" ("honestly") and "potom" ("then") for a crisp, natural delivery.
-- 'Katya, I have a matter to discuss with you.' Max presents a warm line in their talk, joining "delo" ("matter") to "katya" ("Katya") so every word pulls its weight.
-- 'How can we make your father stop drinking?' Max questions wryly from the start, pairing "kak" ("how") with "zastavit" ("to force, make") to get the point across in plain spoken Russian.
+- 'Listen, I will not last much longer like this.' Max reaches for one telling element with Fedya: "slushayte" means "listen" (from "slushat"), giving the line its exact edge.
+- 'Tell me, what am I supposed to do now?' Max voices this answer at once: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'I, for instance, do not even know.' Senya stands firm decisively on the spot, bringing things back to earth after the buildup.
+- 'Back then I landed in the hospital.' Senya sharpens one loaded detail in reply: "bolnitsu" means "the hospital" (from "bolnitsa"), giving the line its exact edge.
+- 'Otherwise the Chef would not have left me alone.' Senya stands firm at once with a nod, leaving no doubt about where he stands.
+- 'But not everyone was that lucky by far.' Fedya responds firmly around Senya, refusing to let the moment slip past.
+- 'There are also some positives in this.' Fedya anchors one direct piece in reply: "tozhe" means "too", and it carries the main weight of what Fedya is saying.
+- 'And just what positives are there here?' Max drops this answer for Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Lyova became sous-chef after a period like that.' Fedya continues dryly across the room, letting the remark speak for itself.
+- 'True, he started stuttering after that.' Fedya underscores this clear expression at once: "zaikatsya" means "to stutter", and it carries the main weight of what Fedya is saying.
+- 'Katya, I have a matter to discuss with you.' Max puts that point on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'How can we make your father stop drinking?' Max inquires quietly why things suddenly took this turn between them.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you should not have insulted Nagiyev.' Senya adopts a serious position without hesitation, putting "nuzhno" ("necessary") alongside "bylo" ("was") in a tight, everyday turn of phrase.
-- 'And nobody gave you the floor to speak.' Barinov picks a thoughtful tack on the spot, putting "slova" ("words") alongside "daval" ("gave") in a tight, everyday turn of phrase.
-- 'Chef, all your problems come from your temper.' Senya chooses a firm view in the room, joining "kharaktera" ("temper") to "problemy" ("problems") so every word pulls its weight.
-- 'And nobody asked for your opinion either.' Barinov projects a lively note in front of Senya, leaning on "slova" ("words") before closing the thought with "daval" ("gave").
-- 'At least now you have no right to insult us.' Louis chooses an easygoing mood as they talk, combining "teper" ("now") and "imeyete" ("have") so the key meaning lands right away.
-- 'Keep quiet when grown men are sorting things out.' Barinov displays a sharp tack right away, anchoring the Russian line on "molchi" ("be quiet") and "kogda" ("when") without extra filler.
-- 'It is a good thing they fired you.' Louis favors a warm manner straight away, weaving "khorosho" ("good, fine") together with "uvolili" ("to fire, to dismiss") just the way native speakers do.
-- 'What did you just say?' Barinov checks sharply in this moment, building the phrase around "skazal" ("said") and "chto" ("what") for a crisp, natural delivery.
-- 'To hell with all of you.' Barinov takes an honest style on the spot, joining "poshli" ("let's go") to "da" ("yes") so every word pulls its weight.
-- 'Any restaurant will gladly hire me.' Barinov conveys an earnest direction in the scene, putting "lyuboy" ("any") alongside "restoran" ("restaurant") in a tight, everyday turn of phrase.
-- 'And you will rot here without me.' Barinov maintains an easygoing tempo as the scene unfolds, putting "tut" ("here") alongside "sgniyote" ("without") in a tight, everyday turn of phrase.
-- 'The Chef walked out.' Senya keeps a serious stance beside Louis, pairing "ushyol" ("left, departed") with "shef" ("Chef") to get the point across in plain spoken Russian.
+- 'Chef, you should not have insulted Nagiyev.' Senya favors one familiar term in reply: "oskorblyat" means "to insult", and it carries the main weight of what Senya is saying.
+- 'And nobody gave you the floor to speak.' Barinov shares this answer facing Senya: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Chef, all your problems come from your temper.' Senya responds frankly with a nod, saying out loud what both of them already know.
+- 'And nobody asked for your opinion either.' Barinov stresses this clear word in reply: "slova" means "words" (from "slovo"), giving the line its exact edge.
+- 'At least now you have no right to insult us.' Louis sends that thought plainly here: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
+- 'Keep quiet when grown men are sorting things out.' Barinov pushes back openly with a shrug, leaving no doubt about where he stands.
+- 'It is a good thing they fired you.' Louis emphasizes one classic piece in reply: "khorosho" means "good, fine", and it carries the main weight of what Louis is saying.
+- 'What did you just say?' Barinov makes that remark facing Senya: putting the question word "chto" right at the front of the line lets Senya hear the point of the question on the very first beat.
+- 'To hell with all of you.' Barinov speaks decisively with a nod, saying out loud what both of them already know.
+- 'Any restaurant will gladly hire me.' Barinov leans on one key piece toward Senya: "restoran" means "restaurant", and it carries the main weight of what Barinov is saying.
+- 'And you will rot here without me.' Barinov phrases that thought on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'The Chef walked out.' Senya counters candidly as they talk, so Louis knows he is not just making small talk.

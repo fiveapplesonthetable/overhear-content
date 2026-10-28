@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gulya, help yourself to fresh pastries, please.' Lyova takes an unhurried stance in this beat, pairing "ugoshchaysya" ("help yourself") with "svezhimi" ("fresh") to get the point across in plain spoken Russian.
-- 'No, thank you very much, I will clean up now.' Gulya takes an earnest posture toward Lyova, weaving "spasibo" ("thank you") together with "bolshoye" ("big, very much") just the way native speakers do.
-- 'Wait, there is no need to clean anything right now.' Lyova presents a sharp view without hesitation, leaning on "podozhdi" ("wait") before closing the thought with "ubirat" ("to clean").
-- 'I have wanted to tell you for a long time.' Lyova chooses a frank bearing straight away, weaving "davno" ("for a long time") together with "uzhe" ("already, now") just the way native speakers do.
-- 'Lev Semyonovich, I have a husband and children in Kyrgyzstan.' Gulya establishes an emphatic bearing with Ainura, weaving "semyonovich" ("semyonovich") together with "muzh" ("husband") just the way native speakers do.
-- 'Really? And I did not know that.' Lyova prompts frankly right away, combining "pravda" ("honestly") and "znal" ("knew") so the key meaning lands right away.
-- 'Forgive me, please, goodbye then.' Lyova favors a brisk angle across the room, building the phrase around "izvini" ("sorry, excuse me") and "togda" ("back then") for a crisp, natural delivery.
-- 'I will never take the pastries again!' Gulya sets a natural note at once, combining "bolshe" ("more") and "nikogda" ("never") so the key meaning lands right away.
-- 'I will work hard, do not fire me!' Gulya displays a frank note straight away, putting "budu" ("will be") alongside "khorosho" ("good, fine") in a tight, everyday turn of phrase.
-- 'Lyova, I was the one who stole those pastries!' Ainura presents a warm course as they talk, leaning on "ukrala" ("stole") before closing the thought with "pirozhnyye" ("pastries, cakes").
-- 'Fire me, she has a husband and five children!' Ainura holds a serious bearing during the exchange, using "uvol" (from "uvolit", "to fire, to dismiss") alongside "muzh" ("husband") to shape the meaning.
-- 'I was not going to fire anyone!' Lyova shows a wry note without hesitation, anchoring the Russian line on "sobiralsya" ("was going to") and "uvolnyat" ("to fire, to dismiss") without extra filler.
-- 'I simply wanted to get to know you better.' Lyova displays a brisk position for Ainura, building the phrase around "prosto" ("just") and "khotel" ("wanted") for a crisp, natural delivery.
+- 'Gulya, help yourself to fresh pastries, please.' Lyova speaks promptly facing Ainura, saying out loud what both of them already know.
+- 'No, thank you very much, I will clean up now.' Gulya uses one telling touch toward Lyova: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Wait, there is no need to clean anything right now.' Lyova brings this statement with ease: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I have wanted to tell you for a long time.' Lyova responds boldly with a shrug, before Gulya can change the subject.
+- 'Lev Semyonovich, I have a husband and children in Kyrgyzstan.' Gulya centers one memorable piece for Ainura: "muzh" means "husband", and it carries the main weight of what Gulya is saying.
+- 'Really? And I did not know that.' Lyova directs this update toward Gulya: Russian keeps the exact word order of a normal statement here, turning it into a question for Gulya purely through rising pitch at the end.
+- 'Forgive me, please, goodbye then.' Lyova speaks up pointedly with a smile, to clear the air between them once and for all.
+- 'I will never take the pastries again!' Gulya highlights one direct detail toward Lyova: "pirozhnyye" means "pastries, cakes" (from "pirozhnoye"), giving the line its exact edge.
+- 'I will work hard, do not fire me!' Gulya sends the comment around Ainura: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Lyova, I was the one who stole those pastries!' Ainura follows up frankly around Lyova, grounding the moment in plain reality.
+- 'Fire me, she has a husband and five children!' Ainura focuses on this key choice right here: "detey" means "children" (from "rebyonok"), giving the line its exact edge.
+- 'I was not going to fire anyone!' Lyova gives the comment frankly here: the "-sya" ending on "sobiralsya" ("was going to") turns the action inward or makes it happen between people naturally.
+- 'I simply wanted to get to know you better.' Lyova pushes back steadily in this moment, shifting the whole mood of the room in a single beat.

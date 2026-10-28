@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you not tired of gray Moscow yet?' The guest challenges sharply without hesitation, joining "yeshchyo" ("more, still") to "nadoyela" ("to bore") so every word pulls its weight.
-- 'Maybe you will go to Paris with me?' The guest asks pointedly without holding back, joining "mozhet" ("can") to "poyedesh" ("will go") so every word pulls its weight.
-- 'There we will find you a good job.' The guest offers a wry bearing with Denis, leaning on "tam" ("there") before closing the thought with "naydyom" ("we'll find").
-- 'Or is something keeping you here?' The guest checks sharply across the room, linking "zdes" ("here"), "derzhit" ("keeps"), and "ili" ("or") in one brisk exchange.
-- 'No, nothing is keeping me here.' Katya presents a candid course at once, anchoring the Russian line on "zdes" ("here") and "derzhit" ("keeps") without extra filler.
-- 'Are you not rushing things a bit too much?' Katya tests evenly in the scene, building the phrase around "sluchayno" ("by any chance") and "slishkom" ("too") for a crisp, natural delivery.
-- 'I am kissing you for the first time in five years.' The guest keeps a lively approach toward Denis, joining "tseluyu" ("kisses") to "vpervyye" ("for the first time") so every word pulls its weight.
-- 'In my opinion, I am already terribly late.' The guest offers a clear bearing in the conversation, putting "po-moyemu" ("in my opinion") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'Listen, the fire alarm has gone off.' Katya picks a clear direction in this beat, combining "slyshish" ("hear") and "srabotala" ("went off, triggered") so the key meaning lands right away.
-- 'We urgently need to go outside right now.' Katya chooses a grounded bearing at this moment, putting "seychas" ("now") alongside "srochno" ("urgent, urgently") in a tight, everyday turn of phrase.
-- 'Forgive me, please, it was completely accidental.' Denis shows a steady tack at once, anchoring the Russian line on "prosti" ("sorry, forgive me") and "sovsem" ("at all") without extra filler.
-- 'No big deal, it is just red wine.' The guest sets a thoughtful manner toward Katya, weaving "strashnogo" ("terrible, serious") together with "prosto" ("just") just the way native speakers do.
+- 'Are you not tired of gray Moscow yet?' The guest spotlights one sharp term toward Denis: "yeshchyo" means "more, still", and it carries the main weight of what the guest is saying.
+- 'Maybe you will go to Paris with me?' The guest drops this point with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'There we will find you a good job.' The guest weighs in plainly hearing Denis, before Denis can change the subject.
+- 'Or is something keeping you here?' The guest underscores this vivid piece in reply: "derzhit" means "keeps" (from "derzhat"), giving the line its exact edge.
+- 'No, nothing is keeping me here.' Katya shares that line plainly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Are you not rushing things a bit too much?' Katya asks firmly how the guest expects that to work in practice.
+- 'I am kissing you for the first time in five years.' The guest underscores one clear word in earnest: "vpervyye" means "for the first time", and it carries the main weight of what the guest is saying.
+- 'In my opinion, I am already terribly late.' The guest weighs in boldly on the spot, to clear the air between them once and for all.
+- 'Listen, the fire alarm has gone off.' Katya holds firm dryly as things stand, letting the remark speak for itself.
+- 'We urgently need to go outside right now.' Katya chooses one concrete touch in reply: "ulitsu" means "street" (from "ulitsa"), giving the line its exact edge.
+- 'Forgive me, please, it was completely accidental.' Denis shares this point right away: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'No big deal, it is just red wine.' The guest answers dryly with a shrug, keeping the focus on what actually matters here.

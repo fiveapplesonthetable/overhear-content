@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dad, are you sure that this is the right place?' Katya questions firmly from the start, building the phrase around "pap" ("Dad") and "uveren" ("sure, confident") for a crisp, natural delivery.
-- 'This is the most respectable underground casino in Moscow.' Barinov brings an emphatic direction as the scene unfolds, joining "samoye" ("the most") to "prilichnoye" ("decent, respectable") so every word pulls its weight.
-- 'Citizen, are you aware that gambling is prohibited?' Barinov presses candidly beside Katya, leaning on "grazhdanin" ("citizen") before closing the thought with "kurse" ("course, regimen").
-- 'Victor Petrovich, I would not want Eleonora Andreyevna to find out.' Mikhail brings a direct tone in the room, anchoring the Russian line on "khotelos" ("to feel like") and "uznala" ("to recognise") without extra filler.
-- 'Well then, daughter, shall we beat Uncle Misha?' Barinov asks calmly from the start, combining "docha" ("sweetheart") and "obygrayem" ("will beat, outplay") so the key meaning lands right away.
-- 'I do not know how.' Katya offers a frank view in the conversation, joining "umeyu" ("to know how to") to "ya" ("I") so every word pulls its weight.
-- 'Just watch and learn, deal the cards.' Barinov presents a resolute attitude in the conversation, putting "smotri" ("look") alongside "uchis" ("learn") in a tight, everyday turn of phrase.
-- 'What do you want?' Katya presses firmly in front of Mikhail, building the phrase around "chego" ("what") and "tebe" ("for you, to you") for a crisp, natural delivery.
-- 'I am leaving for Saint Petersburg.' Barinov displays a serious note in this beat, combining "uyezzhayu" ("am leaving") and "piter" ("petersburg") so the key meaning lands right away.
-- 'I came to say goodbye.' Barinov holds a resolute line as they talk, leaning on "prishyol" ("came, have come") before closing the thought with "poproshchatsya" ("to say goodbye").
-- 'Goodbye.' Katya keeps an unhurried course toward Barinov, leaning on "proshchay" ("farewell") as a compact, one-word response that needs no extra words.
-- 'Vika, wait, where are you going?' Barinov quizzes directly as they speak, anchoring the Russian line on "podozhdi" ("wait") and "kuda" ("where to") without extra filler.
+- 'Dad, are you sure that this is the right place?' Katya underscores one telling touch in reply: "uveren" means "sure, confident" (from "uverennyy"), giving the line its exact edge.
+- 'This is the most respectable underground casino in Moscow.' Barinov puts that reply right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Citizen, are you aware that gambling is prohibited?' Barinov quizzes earnestly about what Katya just brought up.
+- 'Victor Petrovich, I would not want Eleonora Andreyevna to find out.' Mikhail reaches for this telling touch with Katya: "khotelos" means "to feel like" (from "khotetsya"), giving the line its exact edge.
+- 'Well then, daughter, shall we beat Uncle Misha?' Barinov delivers that line for Katya: putting the question word "chto" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'I do not know how.' Katya weighs in boldly around Mikhail, leaving no doubt about where she stands.
+- 'Just watch and learn, deal the cards.' Barinov leans on one memorable touch at once: "smotri" means "look" (from "smotret"), giving the line its exact edge.
+- 'What do you want?' Katya hands over that point around Mikhail: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'I am leaving for Saint Petersburg.' Barinov pushes back earnestly to be clear, bringing things back to earth after the buildup.
+- 'I came to say goodbye.' Barinov uses this vivid piece in reply: "poproshchatsya" means "to say goodbye", and it carries the main weight of what Barinov is saying.
+- 'Goodbye.' Katya voices that remark right away: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'Vika, wait, where are you going?' Barinov wonders calmly to see how Mikhail will answer on the spot.

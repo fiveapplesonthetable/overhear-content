@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, I think it is time for you to go home now.' Vika conveys an earnest tone with Max, combining "kazhetsya" ("it seems, I think") and "uzhe" ("already, now") so the key meaning lands right away.
-- 'What do you mean time to go, everything was going so well!' Max holds a serious footing at this moment, leaning on "kak" ("how") before closing the thought with "pora" ("it's time").
-- 'And are things going well between you and Katya too?' Vika challenges firmly during the talk, placing "tozhe" ("too") straight beside "khorosho" ("good, fine") with no word for "to be" needed.
-- 'Nothing ever happened or will happen between me and Katya!' Max establishes a sharp approach toward Vika, pairing "nikogda" ("never") with "bylo" ("was") to get the point across in plain spoken Russian.
-- 'Max, I am tired and I know how all of this will end.' Vika projects a grounded attitude toward Max, joining "ustala" ("are tired, got tired") to "znayu" ("know") so every word pulls its weight.
-- 'You and I have already been through this before.' Vika displays a thoughtful direction in the scene, combining "uzhe" ("already, now") and "ranshe" ("earlier, previously") so the key meaning lands right away.
-- 'I was recently offered a good job abroad.' Vika brings a resolute view with Max, leaning on "nedavno" ("returned") before closing the thought with "predlozhili" ("offered").
-- 'Farewell, Max, I am flying away soon.' Vika presents an emphatic course with Max, joining "skoro" ("soon") to "uletayu" ("am flying away") so every word pulls its weight.
-- 'Sometimes it is very hard to express in words what is going on inside.' Max shows a warm note in front of Vika, building the phrase around "inogda" ("sometimes, at times") and "ochen" ("very much") for a crisp, natural delivery.
-- 'Some people manage to find a good substitute for those words.' Max conveys an honest line at once, putting "poluchayetsya" ("works out") alongside "nayti" ("to find") in a tight, everyday turn of phrase.
-- 'And for others, actions speak louder than any words.' Max takes a natural rhythm at this moment, putting "luchshe" ("better") alongside "slov" ("words") in a tight, everyday turn of phrase.
-- 'He stands soaked in the center of the city and does not know what to do.' Max projects a warm approach in the scene, linking "stoit" ("is parked"), "mokryy" ("wet"), and "tsentre" ("center") in one brisk exchange.
+- 'Max, I think it is time for you to go home now.' Vika makes that reply briskly now: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".
+- 'What do you mean time to go, everything was going so well!' Max proceeds warmly around Vika, shifting the whole mood of the room in a single beat.
+- 'And are things going well between you and Katya too?' Vika spotlights one telling touch on cue: "khorosho" means "good, fine", and it carries the main weight of what Vika is saying.
+- 'Nothing ever happened or will happen between me and Katya!' Max directs that thought around Vika: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Max, I am tired and I know how all of this will end.' Vika jumps in honestly across the room, steering the talk right where she wants it.
+- 'You and I have already been through this before.' Vika features this sharp choice at once: "prokhodili" means "to go through" (from "prokhodit"), giving the line its exact edge.
+- 'I was recently offered a good job abroad.' Vika continues at once in their talk, testing Max's reaction in the middle of the exchange.
+- 'Farewell, Max, I am flying away soon.' Vika follows up frankly before Max, testing Max's reaction in the middle of the exchange.
+- 'Sometimes it is very hard to express in words what is going on inside.' Max uses one memorable term in earnest: "slozhno" means "difficult" (from "slozhnyy"), giving the line its exact edge.
+- 'Some people manage to find a good substitute for those words.' Max brings that remark right away: the "-sya" ending on "poluchayetsya" ("works out") turns the action inward or makes it happen between people naturally.
+- 'And for others, actions speak louder than any words.' Max speaks wryly without a pause, saying out loud what both of them already know.
+- 'He stands soaked in the center of the city and does not know what to do.' Max stresses one familiar element in reply: "tsentre" means "center" (from "tsentr"), giving the line its exact edge.

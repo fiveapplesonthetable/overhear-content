@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Immediately leave this establishment.' The guest chooses a candid angle without hesitation, pairing "nemedlenno" ("immediately") with "pokinte" ("leave, vacate") to get the point across in plain spoken Russian.
-- 'You are bothering us very much here.' The guest strikes a lively line as the scene unfolds, pairing "tut" ("here") with "ochen" ("very much") to get the point across in plain spoken Russian.
-- 'Why is it that we must leave the establishment?' Max quizzes dryly as they speak, weaving "pochemu" ("why") together with "dolzhny" ("must, should") just the way native speakers do.
-- 'We were promised this entire restaurant.' The guest brings a sharp rhythm as they talk, combining "voobshche" ("at all") and "obeshchali" ("promised") so the key meaning lands right away.
-- 'Please, go to your table.' Vika adopts a thoughtful bearing beside the guest, leaning on "idite" ("come") before closing the thought with "stolik" ("table").
-- 'And take your friends with you too, please.' Vika adopts an emphatic tempo at once, leaning on "druzey" ("friends") before closing the thought with "tozhe" ("too").
-- 'I will definitely complain about you!' The guest sustains an emphatic position straight away, leaning on "obyazatelno" ("surely, without fail") before closing the thought with "budu" ("will be").
-- 'Friends, let us peacefully settle this misunderstanding.' Vika presents an easygoing angle straight away, using "druzya" (from "drug", "friends") alongside "davayte" ("let's") to shape the meaning.
-- 'If you do not mind, you leave yourselves.' The guest sets a direct tone during the exchange, leaning on "ukhodite" ("leave, go away") before closing the thought with "yesli" ("if").
-- 'Please put down that sharp knife.' Max presents a pointed tack in front of Vika, leaning on "polozhite" ("put, serve") before closing the thought with "ostryy" ("sharp").
-- 'Honestly, I did that completely by accident.' The guest brings a direct direction in the scene, anchoring the Russian line on "chestnoye" ("honest") and "slovo" ("word") without extra filler.
-- 'What is going on here with you?' Max presses sharply to make the point, leaning on "zdes" ("here") before closing the thought with "proiskhodit" ("is going on").
+- 'Immediately leave this establishment.' The guest delivers this statement in earnest: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'You are bothering us very much here.' The guest replies plainly on the spot, watching Vika's face to see how the news lands.
+- 'Why is it that we must leave the establishment?' Max features one clear word toward the guest: "zavedeniye" means "establishment", and it carries the main weight of what Max is saying.
+- 'We were promised this entire restaurant.' The guest sends the remark for Vika: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Please, go to your table.' Vika reacts honestly watching the guest, grounding the moment in plain reality.
+- 'And take your friends with you too, please.' Vika highlights this key detail on cue: "druzey" means "friends" (from "drug"), giving the line its exact edge.
+- 'I will definitely complain about you!' The guest points to one vivid word for Max: "obyazatelno" means "surely, without fail", and it carries the main weight of what the guest is saying.
+- 'Friends, let us peacefully settle this misunderstanding.' Vika follows up earnestly in their talk, steering the talk right where she wants it.
+- 'If you do not mind, you leave yourselves.' The guest colors one key expression at once: "ukhodite" means "leave, go away" (from "ukhodit"), giving the line its exact edge.
+- 'Please put down that sharp knife.' Max puts the reaction to Vika: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Honestly, I did that completely by accident.' The guest continues boldly with a shrug, without trying to dress up how he really feels.
+- 'What is going on here with you?' Max spotlights one familiar expression toward Vika: "proiskhodit" means "is going on", and it carries the main weight of what Max is saying.

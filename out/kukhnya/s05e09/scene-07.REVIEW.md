@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, did you take a liking to Gulya?' Barinov tests pointedly as the beat lands, using "ponravilas" (from "ponravitsya", "pleased") alongside "lyov" ("Lyova") to shape the meaning.
-- 'If you want to surprise her, say something.' Gulya chooses a calm tone with Lyova, anchoring the Russian line on "khochesh" ("do you want") and "udivit" ("surprise") without extra filler.
-- 'In the Kyrgyz language.' Gulya presents a lively tone at this moment, pairing "kirgizskom" ("Kyrgyz") with "yazyke" ("language, tongue") to get the point across in plain spoken Russian.
-- 'She will definitely like that.' Gulya holds a thoughtful mood in the scene, linking "tochno" ("definitely"), "ponravitsya" ("will please"), and "eto" ("this") in one brisk exchange.
-- 'Now what do you want to say to her?' Gulya challenges boldly as the talk turns, building the phrase around "khochesh" ("do you want") and "skazat" ("tell") for a crisp, natural delivery.
-- 'You have very beautiful eyes.' Lyova keeps an emphatic tempo during the exchange, leaning on "ochen" ("very much") before closing the thought with "krasivyye" ("beautiful").
-- 'I am very glad to meet you.' Lyova holds a steady course with Barinov, building the phrase around "ochen" ("very much") and "rad" ("glad") for a crisp, natural delivery.
-- 'Did you not see that I am standing here?' Barinov tests quietly in the scene, leaning on "videl" ("saw, have seen") before closing the thought with "zdes" ("here").
-- 'Excuse me, chef.' Lyova picks a candid footing in front of Barinov, combining "izvinite" ("sorry, excuse me") and "shef" ("Chef") so the key meaning lands right away.
-- 'Why is the chef so angry today?' Lyova prompts calmly across the room, anchoring the Russian line on "segodnya" ("today") and "zloy" ("angry, mean") without extra filler.
-- 'He has been eating this celery all day.' Gulya chooses a brisk position without hesitation, putting "den" ("day") alongside "yest" ("eats") in a tight, everyday turn of phrase.
-- 'Ah, well that makes sense.' Lyova sets a clear angle for Gulya, building the phrase around "ponyatno" ("clear") and "nu" ("oh, come on") for a crisp, natural delivery.
+- 'Lyova, did you take a liking to Gulya?' Barinov underscores this direct element with Gulya: "ponravilas" means "pleased" (from "ponravitsya"), giving the line its exact edge.
+- 'If you want to surprise her, say something.' Gulya responds plainly toward Lyova, letting the remark speak for itself.
+- 'In the Kyrgyz language.' Gulya follows up sharply with a sigh, steering the talk right where she wants it.
+- 'She will definitely like that.' Gulya picks one classic term for Lyova: "ponravitsya" means "will please", and it carries the main weight of what Gulya is saying.
+- 'Now what do you want to say to her?' Gulya makes that point beside Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'You have very beautiful eyes.' Lyova counters earnestly as things stand, saying out loud what both of them already know.
+- 'I am very glad to meet you.' Lyova uses one memorable word toward Barinov: "poznakomitsya" means "to meet", and it carries the main weight of what Lyova is saying.
+- 'Did you not see that I am standing here?' Barinov lays out the comment around Lyova: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'Excuse me, chef.' Lyova holds firm wryly before Barinov, saying out loud what both of them already know.
+- 'Why is the chef so angry today?' Lyova uses one practical piece toward Gulya: "segodnya" means "today", and it carries the main weight of what Lyova is saying.
+- 'He has been eating this celery all day.' Gulya responds promptly hearing Barinov, saying out loud what both of them already know.
+- 'Ah, well that makes sense.' Lyova answers honestly without a pause, shifting the whole mood of the room in a single beat.

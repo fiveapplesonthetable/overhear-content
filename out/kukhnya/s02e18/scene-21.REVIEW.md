@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Any minute now our Oguzok is going to call you with complaints.' Max sets a lively tempo in the room, pairing "seychas" ("now") with "pozvonit" ("to call, to phone") so the "-sya" ending carries the action.
-- 'Consider him already on his way.' Barinov favors a wry mood on the spot, linking "schitayte" ("to consider"), "uzhe" ("already, now"), and "puti" ("travels") in one brisk exchange.
-- 'Chef, where are you going?' Lyova asks frankly toward Barinov here, leaning on "kuda" ("where to") before closing the thought with "shef" ("Chef").
-- 'There will be at most one and a half people.' Max establishes a warm stance on the spot, leaning on "budet" ("will be") before closing the thought with "maksimum" ("maximum").
-- 'There is just one thing I cannot figure out.' Barinov shows a steady view straight away, joining "ponyat" ("to understand") to "mogu" ("can") so every word pulls its weight.
-- 'Why, was the test really that difficult?' Lyova asks bluntly without hesitation, anchoring the Russian line on "proverka" ("a test") and "slozhnaya" ("complicated") without extra filler.
-- 'Now my mind is at ease about you.' Max shares a sharp tone in this beat, placing "teper" ("now") straight beside "spokoyen" ("calm") with no word for "to be" needed.
-- 'Only I do not want it that way.' Barinov presents a firm direction beside Max, joining "tolko" ("only") to "khochu" ("want") so every word pulls its weight.
-- 'Later on, when Lyova becomes head chef himself.' Max establishes a thoughtful position in the room, building the phrase around "potom" ("then") and "kogda" ("when") for a crisp, natural delivery.
-- 'You passed the second test as well.' Max holds an easygoing view as the scene unfolds, building the phrase around "proshyol" ("passed") and "vtoruyu" ("second") for a crisp, natural delivery.
-- 'Tonight you are coming with us to the bathhouse.' Barinov maintains a thoughtful mood in their talk, weaving "segodnya" ("today") together with "idesh" ("are coming") just the way native speakers do.
-- 'Of course, after Lyova moves up.' Max offers a resolute approach in front of Lyova, pairing "konechno" ("of course") with "kogda" ("when") to get the point across in plain spoken Russian.
-- 'I could not bring myself to fulfill your request.' Max sets a wry tone as the scene unfolds, putting "smog" ("to be able") alongside "vypolnit" ("completed, fulfilled") in a tight, everyday turn of phrase.
+- 'Any minute now our Oguzok is going to call you with complaints.' Max answers right away across the room, before Barinov can change the subject.
+- 'Consider him already on his way.' Barinov stresses this direct term for Max: "schitayte" means "to consider" (from "schitat"), giving the line its exact edge.
+- 'Chef, where are you going?' Lyova brings this update briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'There will be at most one and a half people.' Max cuts in at once during the talk, bringing things back to earth after the buildup.
+- 'There is just one thing I cannot figure out.' Barinov focuses on one classic touch toward Lyova: "ponyat" means "to understand", and it carries the main weight of what Barinov is saying.
+- 'Why, was the test really that difficult?' Lyova delivers that reply at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Now my mind is at ease about you.' Max opens up calmly without a pause, before Barinov can change the subject.
+- 'Only I do not want it that way.' Barinov chooses one classic word toward Max: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'Later on, when Lyova becomes head chef himself.' Max cuts in briskly around Barinov, before Barinov can change the subject.
+- 'You passed the second test as well.' Max proceeds wryly with a shrug, shifting the whole mood of the room in a single beat.
+- 'Tonight you are coming with us to the bathhouse.' Barinov colors one classic term in earnest: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
+- 'Of course, after Lyova moves up.' Max weighs in evenly in their talk, to clear the air between them once and for all.
+- 'I could not bring myself to fulfill your request.' Max answers right away without a pause, to clear the air between them once and for all.

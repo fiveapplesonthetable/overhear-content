@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not everything, perhaps, but she knows how to cook.' Ilya sustains a wry posture in the scene, linking "umeyet" ("knows how to"), "ne" ("not"), and "vse" ("all") in one brisk exchange.
-- 'We do not need the menu, thank you, Ilya.' Max maintains a thoughtful mood toward Ilya, building the phrase around "nado" ("it is necessary") and "menyu" ("menu") for a crisp, natural delivery.
-- 'I designed tonight's dinner menu myself.' Ilya picks a thoughtful approach in the room, pairing "segodnyashniy" ("of today's") with "uzhin" ("dinner") to get the point across in plain spoken Russian.
-- 'Well, we can share.' Max favors an earnest posture in their talk, using "podelimsya" (from "podelitsya", "to share") alongside "nu" ("oh, come on") to shape the meaning.
-- 'I am curious, where is the restroom in this place?' Ilya quizzes pointedly across the room, weaving "lyubopytno" ("curious, interesting") together with "gde" ("where") just the way native speakers do.
-- 'Just so I know, just in case.' Max holds a brisk bearing in front of Ilya, leaning on "prosto" ("just") before closing the thought with "znat" ("to know").
-- 'Right over there, please.' Ilya conveys a brisk view during the exchange, anchoring the Russian line on "vot" ("there, here") and "pozhaluysta" ("please") without extra filler.
-- 'He is just a sociable boy.' Max favors an honest attitude in front of Ilya, joining "prosto" ("just") to "obshchitelnyy" ("sociable, outgoing") so every word pulls its weight.
-- 'Are you a fool or what?' Ilya inquires steadily in the room, pairing "durak" ("fool, idiot") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'You do not believe me.' Max shares a brisk attitude toward Ilya, joining "verish" ("do you believe") to "ne" ("not") so every word pulls its weight.
-- 'Now they even have a line at the restroom.' Ilya displays a thoughtful rhythm at this moment, building the phrase around "teper" ("now") and "yeshche" ("still") for a crisp, natural delivery.
-- 'Maybe something funny will finally happen in this place.' Max establishes a wry bearing in the room, weaving "mozhet" ("can") together with "smeshnoye" ("funny, ridiculous") just the way native speakers do.
-- 'Keep talking and I will flatten you right here, got it?' Ilya presses candidly to make the point, combining the conversational booster "voobshche" ("in general, overall") with "seychas" ("now") to give the line its natural spoken rhythm.
+- 'Not everything, perhaps, but she knows how to cook.' Ilya focuses on this clear touch toward Max: "umeyet" means "knows how to" (from "umet"), giving the line its exact edge.
+- 'We do not need the menu, thank you, Ilya.' Max gives this answer facing Ilya: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'I designed tonight's dinner menu myself.' Ilya holds firm sharply in their talk, letting the remark speak for itself.
+- 'Well, we can share.' Max emphasizes this vivid piece with Ilya: "podelimsya" means "to share" (from "podelitsya"), giving the line its exact edge.
+- 'I am curious, where is the restroom in this place?' Ilya voices this point with candor: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Just so I know, just in case.' Max proceeds pointedly hearing Ilya, steering the talk right where he wants it.
+- 'Right over there, please.' Ilya aims the reply at once: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'He is just a sociable boy.' Max states the reply calmly now: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Are you a fool or what?' Ilya wonders firmly as Max tries to explain the situation.
+- 'You do not believe me.' Max spotlights one telling touch on cue: "verish" means "do you believe" (from "verit"), giving the line its exact edge.
+- 'Now they even have a line at the restroom.' Ilya features one colorful detail in reply: "tualete" means "the toilet" (from "tualet"), giving the line its exact edge.
+- 'Maybe something funny will finally happen in this place.' Max cuts in wryly with a smile, before Ilya can change the subject.
+- 'Keep talking and I will flatten you right here, got it?' Ilya chooses this sharp expression at once: "voobshche" means "at all", and it carries the main weight of what Ilya is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It looks like you were right about Olivier.' Katya favors a natural attitude in the conversation, anchoring the Russian line on "pokhozhe" ("like, similar") and "byli" ("be") without extra filler.
-- 'Well, what is in the notebook?' Barinov challenges dryly in the room, combining "tam" ("there") and "bloknote" ("notepad, notebook") so the key meaning lands right away.
-- 'Names of restaurants and some kind of notes.' Katya chooses a clear rhythm straight away, pairing "nazvaniya" ("names") with "restoranov" ("restaurants") to get the point across in plain spoken Russian.
-- 'I did not really manage to get a good look.' Katya strikes a brisk footing in the room, pairing "tolkom" ("properly") with "uspela" ("managed in time") to get the point across in plain spoken Russian.
-- 'Did he complain about anything?' Eleonora probes frankly as the beat lands, combining "zhalovalsya" ("complained") and "on" ("he") so the key meaning lands right away.
-- 'He said that it is so hot in the room you could roast a duck.' Katya chooses a clear direction beside Eleonora, anchoring the Russian line on "govoril" ("said, were saying") and "nomere" ("in the hotel room") without extra filler.
-- 'Probably the air conditioner broke again.' Eleonora displays a firm manner in the scene, anchoring the Russian line on "navernoye" ("probably") and "opyat" ("again") without extra filler.
-- 'Then move him into a luxury suite!' Eleonora holds a brisk posture right away, leaning on "znachit" ("then, so") before closing the thought with "pereselyay" ("move, relocate").
-- 'Katya, you have the day off, do not leave his side for a single step.' Eleonora brings an easygoing view as they talk, combining "u tebya" (literally "by you") with "vykhodnoy" ("a day off") rather than a separate word for "have".
-- 'Hello, Lyova, I need you urgently in the kitchen!' Barinov strikes a warm approach right away, using "nuzhen" (from "nuzhnyy", "is needed") alongside "srochno" ("urgent, urgently") to shape the meaning.
-- 'What day off, what barberries?' Barinov asks bluntly without a pause, anchoring the Russian line on "vykhodnoy" ("a day off") and "yeshche" ("still") without extra filler.
-- 'Official announcement: we have an inspector in the hotel!' Barinov establishes a pointed attitude as the scene unfolds, joining "ofitsialnoye" ("official") to "zayavleniye" ("statement") so every word pulls its weight.
+- 'It looks like you were right about Olivier.' Katya sharpens one direct piece toward Barinov: "pokhozhe" means "like, similar", and it carries the main weight of what Katya is saying.
+- 'Well, what is in the notebook?' Barinov inquires briskly where this conversation is heading next.
+- 'Names of restaurants and some kind of notes.' Katya anchors one pointed piece at once: "restoranov" means "restaurants" (from "restoran"), giving the line its exact edge.
+- 'I did not really manage to get a good look.' Katya replies wryly to be clear, testing Eleonora's reaction in the middle of the exchange.
+- 'Did he complain about anything?' Eleonora prompts promptly to see how Barinov will answer on the spot.
+- 'He said that it is so hot in the room you could roast a duck.' Katya emphasizes one sharp word toward Eleonora: "nomere" means "in the hotel room" (from "nomer"), giving the line its exact edge.
+- 'Probably the air conditioner broke again.' Eleonora states that line beside Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Then move him into a luxury suite!' Eleonora proceeds right away around Katya, so Katya knows she is not just making small talk.
+- 'Katya, you have the day off, do not leave his side for a single step.' Eleonora anchors one direct term for Barinov: "vykhodnoy" means "a day off", and it carries the main weight of what Eleonora is saying.
+- 'Hello, Lyova, I need you urgently in the kitchen!' Barinov leans on one practical choice right here: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'What day off, what barberries?' Barinov asks frankly whether Eleonora really thought this through.
+- 'Official announcement: we have an inspector in the hotel!' Barinov centers one loaded touch on cue: "ofitsialnoye" means "official" (from "ofitsialnyy"), giving the line its exact edge.

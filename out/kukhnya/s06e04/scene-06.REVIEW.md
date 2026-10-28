@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, may I have a word with you for a minute?' Nikita challenges sharply without a pause, putting "mozhno" ("may, can") alongside "minutku" ("a minute") in a tight, everyday turn of phrase.
-- 'You are at work, so take your workstation.' Nikita offers an easygoing position in front of Mikhail, using "rabote" (from "rabota", "work") alongside "poetomu" ("that's why") to shape the meaning.
-- 'My boss is Mikhail Dzhekovich.' Denis takes a warm rhythm as they talk, joining "nachalnik" ("boss") to "moy" ("my") so every word pulls its weight.
-- 'So take your hand off me, please.' Denis chooses a resolute approach at once, weaving "poetomu" ("that's why") together with "uberi" ("take away, put away") just the way native speakers do.
-- 'Yes, but it is not worth ruining relations with me either.' Nikita takes a firm stance in the conversation, pairing "portit" ("to spoil, to ruin") with "otnosheniya" ("relations, relationship") to get the point across in plain spoken Russian.
-- 'Do you want to take the manager's place?' Denis challenges sharply in this moment, combining "khochesh" ("do you want") and "zanyat" ("to borrow") so the key meaning lands right away.
-- 'Well and why not?' Nikita quizzes wryly in this moment, linking "pochemu" ("why"), "nu" ("oh, come on"), and "by" ("would") in one brisk exchange.
-- 'Dzhekovich is already old, he is losing his grip.' Nikita takes an earnest view toward Mikhail, linking "uzhe" ("already, now"), "staryy" ("old"), and "teryayet" ("loses") in one brisk exchange.
-- 'First of all, not old, but experienced.' Mikhail shows a firm view for Denis, linking "vo-pervykh" ("first of all"), "staryy" ("old"), and "opytnyy" ("experienced") in one brisk exchange.
-- 'And secondly, sometimes you need to loosen your grip.' Mikhail brings a steady line in the room, combining "vo-vtorykh" ("second") and "khvatku" ("grip") so the key meaning lands right away.
-- 'Sorry to interrupt your conversation, have a good day.' Mikhail offers a calm mood at once, building the phrase around "izvinite" ("sorry, excuse me") and "prerval" ("interrupted") for a crisp, natural delivery.
-- 'Did you set me up on purpose?' Nikita challenges calmly without a pause, joining "spetsialno" ("on purpose") to "podstavil" ("set up, framed") so every word pulls its weight.
+- 'Denis, may I have a word with you for a minute?' Nikita probes curiously what Denis is actually getting at here.
+- 'You are at work, so take your workstation.' Nikita grounds one clear piece at once: "rabocheye" means "work" (from "rabochiy"), giving the line its exact edge.
+- 'My boss is Mikhail Dzhekovich.' Denis gives the reaction right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'So take your hand off me, please.' Denis responds at once toward Nikita, leaving no doubt about where he stands.
+- 'Yes, but it is not worth ruining relations with me either.' Nikita grounds this key choice in reply: "otnosheniya" means "relations, relationship" (from "otnosheniye"), giving the line its exact edge.
+- 'Do you want to take the manager's place?' Denis frames the remark for Nikita: Russian keeps the exact word order of a normal statement here, turning it into a question for Nikita purely through rising pitch at the end.
+- 'Well and why not?' Nikita checks straight out whether Denis really thought this through.
+- 'Dzhekovich is already old, he is losing his grip.' Nikita uses one direct element in reply: "khvatku" means "grip" (from "khvatka"), giving the line its exact edge.
+- 'First of all, not old, but experienced.' Mikhail steps in wryly toward Denis, making his position completely clear.
+- 'And secondly, sometimes you need to loosen your grip.' Mikhail continues plainly watching Nikita, shifting the whole mood of the room in a single beat.
+- 'Sorry to interrupt your conversation, have a good day.' Mikhail uses one practical piece in earnest: "khoroshego" means "good, the best" (from "khoroshiy"), giving the line its exact edge.
+- 'Did you set me up on purpose?' Nikita makes the reply right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.

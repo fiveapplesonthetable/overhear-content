@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He left right through the ventilation shaft.' Senya displays a wry bearing straight away, putting "ushyol" ("left, departed") alongside "pryamo" ("right, just") in a tight, everyday turn of phrase.
-- 'Who is going to climb in after him now?' Barinov challenges bluntly on the spot, linking "teper" ("now"), "polezet" ("to climb"), and "kto" ("who") in one brisk exchange.
-- 'I might get stuck at the turn.' Senya conveys a candid angle with Barinov, building the phrase around "povorote" ("turn, bend") and "mogu" ("can") for a crisp, natural delivery.
-- 'Wait, how will I recognize him?' Lyova challenges quietly as the talk turns, using "podozhdite" (from "podozhdat", "wait") alongside "kak" ("how") to shape the meaning.
-- 'There are no other people inside there.' Barinov takes a playful posture on the spot, weaving "tam" ("there") together with "drugikh" ("other") just the way native speakers do.
-- 'Meanwhile we will study the ventilation plan.' Barinov offers an earnest rhythm during the exchange, combining "poka" ("bye") and "izuchim" ("we will study") so the key meaning lands right away.
-- 'Lyova, are you alright in there?' Barinov quizzes pointedly right away, building the phrase around "tam" ("there") and "poryadke" ("order") for a crisp, natural delivery.
-- 'He will definitely crawl to the end.' Senya shows an honest view in this beat, building the phrase around "obyazatelno" ("surely, without fail") and "dopolzyot" ("he will crawl there") for a crisp, natural delivery.
-- 'Keep the fruits and vegetables separate.' Barinov sustains a measured view with Lyova, building the phrase around "derzhi" ("here you go") and "frukty" ("fruit") for a crisp, natural delivery.
-- 'I did just that yesterday.' Senya establishes a thoughtful rhythm for Lyova, anchoring the Russian line on "sdelal" ("did") and "vchera" ("yesterday") without extra filler.
-- 'Who unloaded those boxes over there?' Senya queries evenly to make the point, joining "korobki" ("boxes") to "tuda" ("there") so every word pulls its weight.
-- 'Look, he is still right there!' Barinov projects an earnest mood as they talk, linking "smotri" ("look"), "yeshchyo" ("more, still"), and "tam" ("there") in one brisk exchange.
+- 'He left right through the ventilation shaft.' Senya pushes back decisively beside Barinov, watching Barinov's face to see how the news lands.
+- 'Who is going to climb in after him now?' Barinov chooses one familiar detail toward Senya: "polezet" means "to climb" (from "polezt"), giving the line its exact edge.
+- 'I might get stuck at the turn.' Senya fires back quietly before Barinov, watching Barinov's face to see how the news lands.
+- 'Wait, how will I recognize him?' Lyova questions frankly if there is more going on behind the scenes.
+- 'There are no other people inside there.' Barinov focuses on this clear touch at once: "drugikh" means "other" (from "drugoy"), giving the line its exact edge.
+- 'Meanwhile we will study the ventilation plan.' Barinov weighs in evenly in their talk, leaving no doubt about where he stands.
+- 'Lyova, are you alright in there?' Barinov questions point-blank as Lyova tries to explain the situation.
+- 'He will definitely crawl to the end.' Senya centers this sharp piece with Lyova: "obyazatelno" means "surely, without fail", and it carries the main weight of what Senya is saying.
+- 'Keep the fruits and vegetables separate.' Barinov stands firm dryly beside Lyova, making his position completely clear.
+- 'I did just that yesterday.' Senya cuts in openly facing Lyova, leaving no doubt about where he stands.
+- 'Who unloaded those boxes over there?' Senya sharpens this sharp expression in reply: "korobki" means "boxes" (from "korobka"), giving the line its exact edge.
+- 'Look, he is still right there!' Barinov jumps in bluntly during the talk, watching Senya's face to see how the news lands.

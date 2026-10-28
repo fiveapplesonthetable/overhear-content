@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was told you can organize a game.' The guest displays a frank course with Barinov, combining "skazali" ("told") and "mozhete" ("can, may") so the key meaning lands right away.
-- 'Interesting, and who whispered that to you?' Mikhail challenges firmly in front of the guest, linking "interesno" ("interesting"), "shepnul" ("whispered"), and "kto" ("who") in one brisk exchange.
-- 'Well, that is not so important right now.' The guest conveys a candid bearing across the room, pairing "seychas" ("now") with "vazhno" ("important, mattering") to get the point across in plain spoken Russian.
-- 'So can you help me or not?' The guest prompts naturally from the start, linking "mozhete" ("can, may"), "pomoch" ("to help"), and "tak" ("so") in one brisk exchange.
-- 'Fine, I will definitely think of something for you.' Mikhail sets a resolute direction in their talk, pairing "khorosho" ("good, fine") with "obyazatelno" ("surely, without fail") to get the point across in plain spoken Russian.
-- 'And how can I find you later?' The guest wonders earnestly without a pause, anchoring the Russian line on "kak" ("how") and "potom" ("then") without extra filler.
-- 'All the phone numbers are on my business card.' Mikhail adopts a thoughtful angle beside Barinov, pairing "telefony" ("telephone, phone") with "yest" ("there is") to get the point across in plain spoken Russian.
-- 'Look, he has the exact same suit.' Mikhail shares a playful approach beside the guest, pairing "smotri" ("look") with "kostyum" ("suit") to get the point across in plain spoken Russian.
-- 'We gave my suit to the dry cleaners.' Mikhail takes a calm approach for Barinov, using "otdali" (from "otdat", "to give, to hand over") alongside "kostyum" ("suit") to shape the meaning.
-- 'I have not had such good luck in a long time.' The guest sets a playful attitude right away, joining "davno" ("for a long time") to "khorosho" ("good, fine") so every word pulls its weight.
-- 'Please, do not worry at all.' The guest brings a pointed bearing in their talk, combining "sovershenno" ("quite, completely") and "bespokoytes" ("worry") so the key meaning lands right away.
-- 'Excuse me, I came in just to ask quickly.' Barinov sets an emphatic position in the scene, putting "izvinite" ("sorry, excuse me") alongside "zashyol" ("stopped by") in a tight, everyday turn of phrase.
+- 'I was told you can organize a game.' The guest features one familiar term right here: "organizovat" means "to organize", and it carries the main weight of what the guest is saying.
+- 'Interesting, and who whispered that to you?' Mikhail quizzes openly to see how the guest will answer on the spot.
+- 'Well, that is not so important right now.' The guest stresses one direct detail on cue: "vazhno" means "important, mattering" (from "vazhnyy"), giving the line its exact edge.
+- 'So can you help me or not?' The guest puts that remark to Mikhail: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'Fine, I will definitely think of something for you.' Mikhail answers wryly without any doubt, without trying to dress up how he really feels.
+- 'And how can I find you later?' The guest centers this vivid term for Mikhail: "potom" means "then", and it carries the main weight of what the guest is saying.
+- 'All the phone numbers are on my business card.' Mikhail reacts dryly with a nod, to clear the air between them once and for all.
+- 'Look, he has the exact same suit.' Mikhail opens up plainly watching the guest, leaving no doubt about where he stands.
+- 'We gave my suit to the dry cleaners.' Mikhail picks one concrete element right here: "khimchistku" means "dry cleaner’s" (from "khimchistka"), giving the line its exact edge.
+- 'I have not had such good luck in a long time.' The guest hands over the comeback with warmth: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Please, do not worry at all.' The guest continues at once with a shrug, testing Barinov's reaction in the middle of the exchange.
+- 'Excuse me, I came in just to ask quickly.' Barinov colors one classic word in reply: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.

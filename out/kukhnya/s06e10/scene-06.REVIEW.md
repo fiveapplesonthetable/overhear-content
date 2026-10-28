@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, is there nobody besides the head chef to bring a bottle?' Eleonora checks firmly to make the point, leaning on "shef-povara" ("head chef") before closing the thought with "butylku" ("a bottle").
-- 'You will be very surprised, but I am worried about you.' Barinov offers a firm tempo straight away, weaving "silno" ("strongly, much") together with "udivishsya" ("will be surprised") just the way native speakers do.
-- 'Did you really come to treat me yourself today?' Eleonora challenges dryly without hesitation, weaving "segodnya" ("today") together with "lechit" ("to lecture") just the way native speakers do.
-- 'Yes, I came to you with hot soup.' Barinov displays a resolute note as they talk, combining "prishyol" ("came, have come") and "goryachim" ("hot") so the key meaning lands right away.
-- 'After all, you have not eaten properly for four days already.' Barinov projects a direct bearing as they talk, joining "uzhe" ("already, now") to "dnya" ("day") so every word pulls its weight.
-- 'I cooked your favorite onion soup for you.' Barinov takes a candid position at this moment, building the phrase around "lyubimyy" ("favourite") and "lukovyy" ("onion") for a crisp, natural delivery.
-- 'And brought a glass of good wine for your health.' Barinov offers a grounded line with Eleonora, leaning on "prinyos" ("brought") before closing the thought with "bokal" ("glass, goblet").
-- 'Since you are so caring, let us drink to my health.' Eleonora conveys a direct stance toward Barinov, building the phrase around "raz" ("time, once") and "zabotlivyy" ("caring, thoughtful") for a crisp, natural delivery.
-- 'Or did you secretly slip something into my wine?' Eleonora tests directly beside Barinov, leaning on "vino" ("wine") before closing the thought with "taykom" ("secretly").
-- 'So that I fall asleep and you take me to the mental clinic?' Eleonora quizzes bluntly on the spot, leaning on "usnula" ("fell asleep") before closing the thought with "psikhushku" ("mental hospital").
-- 'What are you saying, let us drink to you.' Barinov shares a candid attitude during the exchange, weaving "govorish" ("you say") together with "davay" ("let's") just the way native speakers do.
-- 'I slipped the medicine not into the wine, but into the soup!' Barinov offers a measured view right away, putting "lekarstvo" ("medicine") alongside "vino" ("wine") in a tight, everyday turn of phrase.
+- 'Hello, is there nobody besides the head chef to bring a bottle?' Eleonora checks eagerly in front of Barinov without any preamble.
+- 'You will be very surprised, but I am worried about you.' Barinov grounds this key piece in earnest: "udivishsya" means "will be surprised" (from "udivitsya"), giving the line its exact edge.
+- 'Did you really come to treat me yourself today?' Eleonora frames the reaction beside Barinov: leading with "neuzheli" ("can it really be that...?") packs disbelief and surprise into the very first word.
+- 'Yes, I came to you with hot soup.' Barinov pushes back warmly with a shrug, testing Eleonora's reaction in the middle of the exchange.
+- 'After all, you have not eaten properly for four days already.' Barinov underscores one memorable element at once: "normalno" means "fine, OK", and it carries the main weight of what Barinov is saying.
+- 'I cooked your favorite onion soup for you.' Barinov points to one pointed element in earnest: "lyubimyy" means "favourite", and it carries the main weight of what Barinov is saying.
+- 'And brought a glass of good wine for your health.' Barinov weighs in earnestly to be clear, to clear the air between them once and for all.
+- 'Since you are so caring, let us drink to my health.' Eleonora favors one sharp piece for Barinov: "zabotlivyy" means "caring, thoughtful", and it carries the main weight of what Eleonora is saying.
+- 'Or did you secretly slip something into my wine?' Eleonora phrases that point on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'So that I fall asleep and you take me to the mental clinic?' Eleonora prompts deadpan as Barinov tries to explain the situation.
+- 'What are you saying, let us drink to you.' Barinov highlights one concrete expression at once: "govorish" means "you say" (from "govorit"), giving the line its exact edge.
+- 'I slipped the medicine not into the wine, but into the soup!' Barinov weighs in evenly beside Eleonora, making his position completely clear.

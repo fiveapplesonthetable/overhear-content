@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are doing physical exercises without being used to them.' Senya picks a brisk tack in the scene, pairing "zanimayetes" ("are busy with") with "privychki" ("habit") so the "-sya" ending carries the action.
-- 'You have to prepare and warm up your body first.' Fedya keeps a pointed line at once, linking "organizm" ("organism"), "nuzhno" ("necessary"), and "podgotavlivat" ("to prepare") in one brisk exchange.
-- 'All right, hold on just a minute.' Senya holds a firm course in front of Fedya, joining "seychas" ("now") to "minutochku" ("a minute") so every word pulls its weight.
-- 'Is there anything you would like to tell me?' Fedya presses bluntly as they speak, weaving "khotite" ("want") together with "rasskazat" ("to tell") just the way native speakers do.
-- 'You never would have guessed on your own.' Senya maintains a lively attitude in the conversation, building the phrase around "voobshche" ("at all") and "dogadalis" ("guessed, thought of") for a crisp, natural delivery.
-- 'Oh, it all started with that ridiculous gym bag.' Fedya shows a brisk tone in front of Senya, combining "nachalos" ("to begin, to start") and "duratskoy" ("foolish, stupid") so the key meaning lands right away.
-- 'I had guests over at my place.' Senya offers a frank note in this beat, joining "byli" ("be") to "gosti" ("visitors, guests") so every word pulls its weight.
-- 'In the morning I was going to return it, and then I ran into you.' Fedya offers a playful stance in front of Senya, weaving "utrom" ("this morning") together with "sobralas" ("to get ready") just the way native speakers do.
-- 'It felt awkward to explain all of that to you on the spot.' Senya shows a lively tone with Fedya, combining "neudobno" ("awkward, uncomfortable") and "bylo" ("was") so the key meaning lands right away.
-- 'You are not going to tell me that you play sports, are you?' Fedya quizzes directly as the talk turns, anchoring the Russian line on "skazhete" ("will you say") and "zanimayetes" ("are busy with") without extra filler.
-- 'Maybe the two of us should go jogging together?' Senya tests directly in this moment, using "mozhet" (from "moch", "can") alongside "vmeste" ("together") to shape the meaning.
-- 'I should have told you the whole truth right away.' Fedya favors a frank line at once, pairing "nado" ("it is necessary") with "bylo" ("was") to get the point across in plain spoken Russian.
-- 'Let us do it first thing tomorrow.' Senya sets a lively note for Fedya, anchoring the Russian line on "davayte" ("let's") and "pryamo" ("right, just") without extra filler.
+- 'You are doing physical exercises without being used to them.' Senya leans on this direct piece right here: "uprazhneniyami" means "exercise" (from "uprazhneniye"), giving the line its exact edge.
+- 'You have to prepare and warm up your body first.' Fedya voices this warning briskly now: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'All right, hold on just a minute.' Senya proceeds promptly hearing Fedya, grounding the moment in plain reality.
+- 'Is there anything you would like to tell me?' Fedya leans on one vivid word on cue: "rasskazat" means "to tell", and it carries the main weight of what Fedya is saying.
+- 'You never would have guessed on your own.' Senya shapes that reply frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Oh, it all started with that ridiculous gym bag.' Fedya steps in boldly in this moment, steering the talk right where he wants it.
+- 'I had guests over at my place.' Senya focuses on one loaded detail in earnest: "gosti" means "visitors, guests" (from "gost"), giving the line its exact edge.
+- 'In the morning I was going to return it, and then I ran into you.' Fedya shares this warning with candor: the "-sya" ending on "sobralas" ("to get ready") turns the action inward or makes it happen between people naturally.
+- 'It felt awkward to explain all of that to you on the spot.' Senya steps in candidly beside Fedya, grounding the moment in plain reality.
+- 'You are not going to tell me that you play sports, are you?' Fedya emphasizes one telling element toward Senya: "zanimayetes" means "are busy with" (from "zanimatsya"), giving the line its exact edge.
+- 'Maybe the two of us should go jogging together?' Senya shares this warning calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
+- 'I should have told you the whole truth right away.' Fedya speaks up frankly before Senya, grounding the moment in plain reality.
+- 'Let us do it first thing tomorrow.' Senya features one clear choice with Fedya: "davayte" means "let's" (from "davat"), giving the line its exact edge.

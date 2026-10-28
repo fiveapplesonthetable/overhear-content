@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I can tolerate anything, anything!' The guest favors a grounded course in the conversation, building the phrase around "mogu" ("can") and "sterpet" ("to endure, tolerate") for a crisp, natural delivery.
-- 'But I will not eat a competitor's sausage!' The guest displays a candid position in the scene, combining "kolbasu" ("sausage") and "konkurenta" ("competitor") so the key meaning lands right away.
-- 'It is tasty sausage, I always buy it.' Kostya maintains a resolute view straight away, pairing "vkusnaya" ("tasty") with "kolbasa" ("sausage") to get the point across in plain spoken Russian.
-- 'Why, there is nothing but chemicals in there!' The guest brings a direct angle without hesitation, joining "tam" ("there") to "khimiya" ("chemicals, chemistry") so every word pulls its weight.
-- 'I will show you normal sausage right now.' The guest favors a grounded style during the exchange, building the phrase around "seychas" ("now") and "normalnuyu" ("proper, normal") for a crisp, natural delivery.
-- 'Here, look, pure meat!' The guest holds a grounded tempo in the room, joining "smotri" ("look") to "myaso" ("meat") so every word pulls its weight.
-- 'They are tasty and cheap.' Kostya adopts a natural posture for the guest, anchoring the Russian line on "vkusnyye" ("tasty, delicious") and "deshevyye" ("cheap") without extra filler.
-- 'I will fill the whole apartment with my sausage!' The guest maintains a lively direction in their talk, pairing "kvartiru" ("flat") with "kolbasoy" ("sausage") to get the point across in plain spoken Russian.
-- 'I do not need your sausage or this apartment!' Kostya holds a serious stance in their talk, building the phrase around "nado" ("it is necessary") and "kolbasy" ("sausage") for a crisp, natural delivery.
-- 'Enough arguing!' Nastya keeps a frank posture for Kostya, anchoring the Russian line on "khvatit" ("enough") and "sporit" ("to argue") without extra filler.
-- 'Is it really so hard to break your principles just once?' Nastya prompts briskly with the guest now, combining "slozhno" ("difficult") and "raz" ("time, once") so the key meaning lands right away.
-- 'After all, everyone will be better off from this!' Nastya adopts a firm manner as the scene unfolds, combining "budet" ("will be") and "luchshe" ("better") so the key meaning lands right away.
+- 'I can tolerate anything, anything!' The guest speaks up earnestly as things stand, before Kostya can change the subject.
+- 'But I will not eat a competitor's sausage!' The guest pushes back right away as they talk, refusing to let the moment slip past.
+- 'It is tasty sausage, I always buy it.' Kostya frames this direct piece in reply: "vkusnaya" means "tasty" (from "vkusnyy"), giving the line its exact edge.
+- 'Why, there is nothing but chemicals in there!' The guest makes this statement frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I will show you normal sausage right now.' The guest speaks up candidly with a smile, leaving no doubt about where he stands.
+- 'Here, look, pure meat!' The guest grounds one familiar touch in reply: "myaso" means "meat", and it carries the main weight of what the guest is saying.
+- 'They are tasty and cheap.' Kostya puts the reply on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I will fill the whole apartment with my sausage!' The guest chimes in candidly hearing Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'I do not need your sausage or this apartment!' Kostya focuses on one key expression with the guest: "kvartiry" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'Enough arguing!' Nastya puts this statement without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Is it really so hard to break your principles just once?' Nastya tests promptly where this conversation is heading next.
+- 'After all, everyone will be better off from this!' Nastya colors one memorable piece in earnest: "luchshe" means "better", and it carries the main weight of what Nastya is saying.

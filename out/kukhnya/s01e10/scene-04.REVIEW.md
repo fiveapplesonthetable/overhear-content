@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, I am listening to you attentively.' Barinov leads with the direct word for 'hello', pairing it with 'attentively' and 'am listening'.
-- 'You performed wonderfully on our culinary show.' Here the speaker anchors the line on the word meaning 'wonderfully' and builds the thought around 'performed' and 'culinary'.
-- 'And what did your strict producers decide?' Barinov uses the word for 'decided' to focus on the completed action, pairing it with 'strict' and 'producers'.
+- 'Hello, I am listening to you attentively.' Putting on his polite professional manner, Barinov greets the television representative and invites her to speak.
+- 'You performed wonderfully on our culinary show.' The young producer starts with flattery, praising how well Viktor performed on their cooking show.
+- 'And what did your strict producers decide?' Flattered and intrigued, Barinov asks what her strict studio producers have decided.
 - 'We want to offer you a permanent job.' Woman voices the thought smoothly and naturally.
-- 'At how much did you value my work?' Barinov puts the word for 'how much' together with 'valued' and 'work' in a natural spoken line.
-- 'Ten thousand for each new broadcast.' Russian leaves out the word for 'to be' here, linking 'ten' directly with 'thousand', pairing it with 'new' and 'broadcast'.
-- 'Ten thousand euros for one episode?' Barinov asks this purely through rising tone on the word for 'ten', pairing it with 'thousand' and 'euros'.
+- 'At how much did you value my work?' Getting straight to business, he asks how much the network is offering to pay him.
+- 'Ten thousand for each new broadcast.' She names the studio's offer: ten thousand for each new episode of the morning show.
+- 'Ten thousand euros for one episode?' Barinov's eyes light up, assuming the television network means ten thousand euros per broadcast.
 - 'No, we pay ten thousand rubles.' Woman puts the idea across in a natural everyday manner.
-- 'Then goodbye, or rather farewell!' Barinov leads with the direct word for 'farewell', pairing it with 'then' and 'meeting'.
-- 'Wait, Viktor, let us calmly discuss everything.' the speaker leads with the direct command form meaning 'wait', pairing it with 'let us' and 'calmly'.
+- 'Then goodbye, or rather farewell!' Outraged to hear the offer is in rubles, Barinov dramatically bids her farewell on the spot.
+- 'Wait, Viktor, let us calmly discuss everything.' Taken aback by his outburst, the producer asks Viktor to wait and discuss the offer calmly.
 - 'You propose that I work on my day off.' Barinov articulates the point with simple everyday clarity.
-- 'This will make your restaurant very famous.' Woman uses the word for 'will make' to focus on the completed action, pairing it with 'restaurant' and 'very'.
-- 'I do not work for such ridiculous kopecks!' Barinov chooses the word for 'work' for the ongoing action, followed by 'ridiculous' and 'kopecks'.
+- 'This will make your restaurant very famous.' She tries to sweeten the deal by arguing that television exposure will make his restaurant famous.
+- 'I do not work for such ridiculous kopecks!' Insulted by the low pay, Barinov scoffs that a master chef does not work for mere pennies.

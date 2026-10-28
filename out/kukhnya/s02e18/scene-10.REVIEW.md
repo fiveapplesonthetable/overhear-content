@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'As you can understand, taking the money.' Kostya presents a natural footing with Max, putting "kak" ("how") alongside "ponimayete" ("do you understand") in a tight, everyday turn of phrase.
-- 'In his presence was simply not proper.' Max keeps an honest manner right away, linking "prisutstvii" ("presence"), "bylo" ("was"), and "melfo" ("mille-feuille pastry") in one brisk exchange.
-- 'Kostya was not supposed to find out about this at all.' Nastya displays an unhurried approach toward Kostya, pairing "voobshche" ("at all") with "dolzhen" ("has to, must") to get the point across in plain spoken Russian.
-- 'Now nothing is going to work out.' Max establishes a pointed line with Nastya, linking "teper" ("now"), "poluchitsya" ("will come out"), and "nichego" ("nothing") in one brisk exchange.
-- 'I have to go and confess everything.' Kostya offers an unhurried position without hesitation, leaning on "nado" ("it is necessary") before closing the thought with "idti" ("to go").
-- 'Anastasiya Stepanovna, I have read a great many detective novels.' Max projects a lively course at this moment, weaving "prochital" ("read") together with "mnogo" ("a lot") just the way native speakers do.
-- 'Believe me, confession is an absolute last resort.' Kostya takes a direct tempo toward Max, weaving "poverte" ("believe") together with "priznaniye" ("confession") just the way native speakers do.
-- 'We simply need to collect the money without any personal contact.' Max brings a playful angle in this beat, combining the softening word "prosto" ("simply, just") with "nado" ("it is necessary") to give the line its natural spoken rhythm.
-- 'Good afternoon.' Kostya projects a natural manner in front of Max, building the phrase around "dobryy" ("good") and "den" ("day") for a crisp, natural delivery.
-- 'I would like to get something to drink.' Nastya establishes a calm note in their talk, leaning on "khotela" ("wanted, meant") before closing the thought with "popit" ("to have a drink").
-- 'Do you have a reservation?' Kostya queries briskly to make the point, building the phrase around "zakazano" ("to order, reserve") and "vas" ("you") for a crisp, natural delivery.
-- 'All of you? How many are there?' Max challenges calmly in this moment, weaving "skolko" ("how much, so much") together with "vas" ("you") just the way native speakers do.
+- 'As you can understand, taking the money.' Kostya centers this sharp choice for Max: "ponimayete" means "do you understand" (from "ponimat"), giving the line its exact edge.
+- 'In his presence was simply not proper.' Max counters steadily across the room, before Nastya can change the subject.
+- 'Kostya was not supposed to find out about this at all.' Nastya pushes back lightly hearing Kostya, shifting the whole mood of the room in a single beat.
+- 'Now nothing is going to work out.' Max emphasizes one colorful expression right here: "poluchitsya" means "will come out", and it carries the main weight of what Max is saying.
+- 'I have to go and confess everything.' Kostya phrases that line on cue: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Anastasiya Stepanovna, I have read a great many detective novels.' Max jumps in warmly in their talk, letting the remark speak for itself.
+- 'Believe me, confession is an absolute last resort.' Kostya grounds one telling detail on cue: "priznaniye" means "confession", and it carries the main weight of what Kostya is saying.
+- 'We simply need to collect the money without any personal contact.' Max frames that answer before Nastya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Good afternoon.' Kostya jumps in promptly to settle things, shifting the whole mood of the room in a single beat.
+- 'I would like to get something to drink.' Nastya points to one concrete detail right here: "khotela" means "wanted, meant" (from "khotet"), giving the line its exact edge.
+- 'Do you have a reservation?' Kostya gives this line right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'All of you? How many are there?' Max wonders straight out about what Nastya just brought up.

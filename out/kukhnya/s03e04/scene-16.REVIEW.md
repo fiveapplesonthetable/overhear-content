@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, Rodion Sergeyevich, I didn't mean to do that.' Max offers a playful angle as they talk, linking "izvinite" ("sorry, excuse me"), "khotel" ("wanted"), and "rodion" ("Rodion") in one brisk exchange.
-- 'It's nothing. Even my horoscope says that today is an unlucky day.' Rodion looks over lightly right away, using the everyday "u menya" ("by me") alongside "goroskope" ("horoscope") to show what belongs to the speaker.
-- 'Do you actually believe in that nonsense?' Max checks decisively to make the point, weaving "verite" ("to believe") together with "yerundu" ("nonsense") just the way native speakers do.
-- 'Now I always have a lucky day!' Rodion takes a thoughtful line during the exchange, joining "teper" ("now") to "vsegda" ("always") so every word pulls its weight.
-- 'Chef, we turned everything upside down — there is no elephant.' Max strikes a lively view with Barinov, building the phrase around "perevernuli" ("tipped over") and "vverkh" ("up, upwards") for a crisp, natural delivery.
-- 'Search, Senya, search!' Barinov maintains a direct angle as they talk, pairing "ishchite" ("look for, search") with "senya" ("Senya") to get the point across in plain spoken Russian.
-- 'Find me the elephant!' Barinov strikes a frank rhythm straight away, linking "naydite" ("find"), "slona" ("an elephant"), and "mne" ("to me") in one brisk exchange.
-- 'Max, you and I still haven't talked.' Barinov displays a warm mood during the exchange, leaning on "pogovorili" ("had a talk") before closing the thought with "maks" ("Max").
-- 'Yes, Vika, forgive me, I got swamped.' Max presents a frank bearing straight away, linking "prosti" ("sorry, forgive me"), "zamotalsya" ("got caught up"), and "da" ("yes") in one brisk exchange.
-- 'Vika, let's do it later, okay? Otherwise Nagiyev gets impatient.' Max prompts evenly as the beat lands, leaning on "davay" ("let's") before closing the thought with "pozzhe" ("later").
-- 'It looks cool.' Max shows an unhurried tack in their talk, leaning on "vyglyadit" ("looks") before closing the thought with "kruto" ("cool, awesome").
-- 'And it tastes even better!' Max presents an easygoing posture in the room, putting "vkus" ("taste") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
+- 'Excuse me, Rodion Sergeyevich, I didn't mean to do that.' Max frames this clear expression at once: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'It's nothing. Even my horoscope says that today is an unlucky day.' Rodion delivers this warning for Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Do you actually believe in that nonsense?' Max probes wryly what Barinov is actually getting at here.
+- 'Now I always have a lucky day!' Rodion grounds this clear detail in earnest: "udachnyy" means "lucky, successful", and it carries the main weight of what Rodion is saying.
+- 'Chef, we turned everything upside down — there is no elephant.' Max replies lightly during the talk, letting the remark speak for itself.
+- 'Search, Senya, search!' Barinov chimes in openly around Rodion, leaving no doubt about where he stands.
+- 'Find me the elephant!' Barinov emphasizes one pointed term with Max: "naydite" means "find" (from "nayti"), giving the line its exact edge.
+- 'Max, you and I still haven't talked.' Barinov pushes back evenly in their talk, testing Rodion's reaction in the middle of the exchange.
+- 'Yes, Vika, forgive me, I got swamped.' Max follows up steadily with Barinov, saying out loud what both of them already know.
+- 'Vika, let's do it later, okay? Otherwise Nagiyev gets impatient.' Max stresses this clear element with Rodion: "nervnichayet" means "gets nervous" (from "nervnichat"), giving the line its exact edge.
+- 'It looks cool.' Max lays out the reaction frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And it tastes even better!' Max follows up briskly to be clear, making his position completely clear.

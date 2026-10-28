@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will build a country house only on the island!' Nagiyev shares a brisk footing in front of Kostya, combining "dachu" ("dacha, country house") and "budu" ("will be") so the key meaning lands right away.
-- 'What juicy exotic food they have there!' Nagiyev offers a measured posture on the spot, weaving "tam" ("there") together with "sochnaya" ("juicy, succulent") just the way native speakers do.
-- 'Dmitry Vladimirovich, excuse me, what is wrong with your face?' Kostya queries naturally to make the point, pairing "izvinite" ("sorry, excuse me") with "litsom" ("face") to get the point across in plain spoken Russian.
-- 'It swelled up a little after the vacation in warm lands.' Nagiyev takes a lively direction for Kostya, linking "malenko" ("swelled"), "opukhlo" ("up"), and "otpuska" ("vacation, leave") in one brisk exchange.
-- 'I probably accidentally swallowed a spider at night.' Nagiyev sets an emphatic footing as they talk, combining "navernoye" ("probably") and "sluchayno" ("by any chance") so the key meaning lands right away.
-- 'The doctor says that this is a severe allergy.' Nagiyev takes a candid mood in this beat, pairing "vrach" ("doctor") with "govorit" ("talks") to get the point across in plain spoken Russian.
-- 'I have an allergy to a very good life!' Nagiyev sets an honest footing on the spot, leaning on "allergiya" ("an allergy") before closing the thought with "ochen" ("very much").
-- 'Yesterday the doctor prescribed me strong pills.' Nagiyev adopts a warm note as they talk, putting "doktor" ("Doctor") alongside "vchera" ("yesterday") in a tight, everyday turn of phrase.
-- 'But from these pills one terribly wants to sleep.' Nagiyev favors a thoughtful line in their talk, anchoring the Russian line on "tabletok" ("pill, tablet") and "uzhasno" ("terrible, awful") without extra filler.
-- 'It just knocks me out at every step!' Nagiyev establishes a sharp note at once, anchoring the Russian line on "prosto" ("just") and "rubit" ("to every") without extra filler.
-- 'Now I sleep almost a whole day and night in a row.' Nagiyev favors a thoughtful manner as the scene unfolds, linking "teper" ("now"), "splyu" ("sleep"), and "pochti" ("almost") in one brisk exchange.
-- 'I sleep just like a brown bear in its den in winter!' Nagiyev establishes a firm direction at once, leaning on "splyu" ("sleep") before closing the thought with "tochno" ("definitely").
+- 'I will build a country house only on the island!' Nagiyev opens up frankly on the spot, refusing to let the moment slip past.
+- 'What juicy exotic food they have there!' Nagiyev weighs in promptly on the spot, testing Kostya's reaction in the middle of the exchange.
+- 'Dmitry Vladimirovich, excuse me, what is wrong with your face?' Kostya emphasizes this direct expression at once: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'It swelled up a little after the vacation in warm lands.' Nagiyev speaks lightly across the room, before Kostya can change the subject.
+- 'I probably accidentally swallowed a spider at night.' Nagiyev answers frankly in their talk, grounding the moment in plain reality.
+- 'The doctor says that this is a severe allergy.' Nagiyev focuses on one telling detail in reply: "allergiya" means "an allergy", and it carries the main weight of what Nagiyev is saying.
+- 'I have an allergy to a very good life!' Nagiyev shares this statement briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Yesterday the doctor prescribed me strong pills.' Nagiyev reacts promptly in this moment, steering the talk right where he wants it.
+- 'But from these pills one terribly wants to sleep.' Nagiyev sharpens one sharp word toward Kostya: "tabletok" means "pill, tablet" (from "tabletka"), giving the line its exact edge.
+- 'It just knocks me out at every step!' Nagiyev shares the remark before Kostya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Now I sleep almost a whole day and night in a row.' Nagiyev speaks up plainly to be clear, keeping the focus on what actually matters here.
+- 'I sleep just like a brown bear in its den in winter!' Nagiyev points to one loaded detail at once: "berloge" means "winter", and it carries the main weight of what Nagiyev is saying.

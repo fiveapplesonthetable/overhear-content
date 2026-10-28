@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why did you even decide to scare me?' Barinov quizzes lightly for Gulya's benefit, linking "zachem" ("what for"), "voobshche" ("at all"), and "reshil" ("has decided") in one brisk exchange.
-- 'I started panicking because of that.' Barinov adopts a grounded note in front of Lyova, using "nachalas" (from "nachatsya", "started, broke out") alongside "panika" ("panic") to shape the meaning.
-- 'You could have simply asked me to stay.' Lyova takes a candid mood without hesitation, anchoring the Russian line on "mogli" ("could") and "prosto" ("just") without extra filler.
-- 'You are my closest friend after all!' Barinov sustains an unhurried tempo in their talk, joining "samyy" ("the most") to "blizkiy" ("close") so every word pulls its weight.
-- 'What would I do without you?' Barinov challenges decisively in the room, weaving "delal" ("were doing") together with "chto" ("what") just the way native speakers do.
-- 'Forgive me, but I am staying to work here.' Lyova presents a calm view beside Gulya, pairing "prostite" ("excuse me") with "ostayus" ("am staying") to get the point across in plain spoken Russian.
-- 'Gulya, will you not object right now?' Lyova questions sharply toward Barinov here, combining "budesh" ("will") and "seychas" ("now") so the key meaning lands right away.
-- 'If I work here as sous-chef a bit longer?' Lyova questions steadily in front of Gulya, pairing "yeshchyo" ("more, still") with "porabotayu" ("to work for a while") to get the point across in plain spoken Russian.
-- 'Darling, I will support any decision of yours.' Gulya chooses a direct course beside Barinov, building the phrase around "milyy" ("darling") and "podderzhu" ("will support") for a crisp, natural delivery.
-- 'Well, then let us go quickly to the kitchen!' Barinov offers a direct tempo straight away, joining "togda" ("back then") to "poshli" ("let's go") so every word pulls its weight.
-- 'Otherwise we are running late for work!' Barinov sets a lively stance at once, pairing "rabotu" ("job") with "opazdyvayem" ("are late") to get the point across in plain spoken Russian.
-- 'Let us go, Viktor Petrovich, it is time to cook dinner.' Lyova keeps an emphatic tempo as the scene unfolds, joining "idyomte" ("let us go") to "pora" ("it's time") so every word pulls its weight.
+- 'Why did you even decide to scare me?' Barinov emphasizes one familiar detail on cue: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
+- 'I started panicking because of that.' Barinov aims that thought at once: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'You could have simply asked me to stay.' Lyova speaks plainly without a pause, making his position completely clear.
+- 'You are my closest friend after all!' Barinov uses one colorful expression in reply: "blizkiy" means "close", and it carries the main weight of what Barinov is saying.
+- 'What would I do without you?' Barinov shapes this line toward Gulya: putting the question word "chto" right at the front of the line lets Gulya hear the point of the question on the very first beat.
+- 'Forgive me, but I am staying to work here.' Lyova follows up plainly with a shrug, to clear the air between them once and for all.
+- 'Gulya, will you not object right now?' Lyova underscores one concrete expression at once: "vozrazhat" means "to object, mind", and it carries the main weight of what Lyova is saying.
+- 'If I work here as sous-chef a bit longer?' Lyova drops this line toward Gulya: Russian keeps the exact word order of a normal statement here, turning it into a question for Gulya purely through rising pitch at the end.
+- 'Darling, I will support any decision of yours.' Gulya responds evenly with a sigh, bringing things back to earth after the buildup.
+- 'Well, then let us go quickly to the kitchen!' Barinov focuses on this direct piece at once: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'Otherwise we are running late for work!' Barinov answers sharply without holding back, keeping the focus on what actually matters here.
+- 'Let us go, Viktor Petrovich, it is time to cook dinner.' Lyova counters frankly watching Gulya, refusing to let the moment slip past.

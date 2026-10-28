@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And since then even the teachers called him Zyuzya.' The guest brings a resolute rhythm in this beat, leaning on "por" ("time") before closing the thought with "uchitelya" ("the teachers").
-- 'Alright, let us go quickly to my office.' Barinov maintains a resolute line across the room, linking "poydyom" ("let's go"), "skoreye" ("quickly, right away"), and "kabinet" ("office") in one brisk exchange.
-- 'I flew ten thousand kilometers, are you not glad?' The guest queries briskly in this moment, building the phrase around "proletel" ("flew") and "tysyach" ("thousand") for a crisp, natural delivery.
-- 'Very glad, but did you fly in just to see me?' Barinov questions openly as they speak, anchoring the Russian line on "ochen" ("very much") and "rad" ("glad") without extra filler.
-- 'Not only that, I have an excellent idea.' The guest chooses an earnest tempo during the exchange, building the phrase around "tolko" ("only") and "yest" ("there is") for a crisp, natural delivery.
-- 'I understood everything, I am telling you right away, I will not give you money.' Barinov shows an emphatic manner at this moment, linking "ponyal" ("understood"), "srazu" ("at once"), and "govoryu" ("am telling") in one brisk exchange.
-- 'Wait, this time it really works!' The guest displays a clear note on the spot, putting "podozhdi" ("wait") alongside "raz" ("time, once") in a tight, everyday turn of phrase.
-- 'Tell me, what did you come up with this time?' Barinov inquires pointedly to make the point, pairing "skazhi" ("say") with "pridumal" ("came up with") to get the point across in plain spoken Russian.
-- 'We will raise fresh oysters here in Russia.' The guest takes a firm attitude in the conversation, pairing "budem" ("will") with "razvodit" ("to raise, breed") to get the point across in plain spoken Russian.
-- 'Valya, you are repeating yourself, you already raised oysters.' Barinov chooses a grounded angle with the guest, combining "povtoryayeshsya" ("you are repeating yourself") and "ustrits" ("oysters") so the key meaning lands right away.
-- 'Vitya, in America everything works great for me.' The guest takes an easygoing position toward Barinov, building the phrase around "otlichno" ("perfect, great") and "rabotayet" ("works") for a crisp, natural delivery.
-- 'I will soon pay back everything I owe you, with interest.' The guest presents a thoughtful rhythm during the exchange, leaning on "skoro" ("soon") before closing the thought with "otdam" ("I give back").
-- 'But as I understand it, you will not pay it back right now.' Barinov projects a pointed position in front of the guest, anchoring the Russian line on "ponimayu" ("understand") and "otdash" ("to give, to hand over") without extra filler.
+- 'And since then even the teachers called him Zyuzya.' The guest chooses this telling detail in reply: "uchitelya" means "the teachers" (from "uchitel"), giving the line its exact edge.
+- 'Alright, let us go quickly to my office.' Barinov hands over this update right away: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that the guest is on board.
+- 'I flew ten thousand kilometers, are you not glad?' The guest checks skeptically to see how Barinov will answer on the spot.
+- 'Very glad, but did you fly in just to see me?' Barinov underscores one key word in earnest: "priletel" means "flew" (from "priletet"), giving the line its exact edge.
+- 'Not only that, I have an excellent idea.' The guest states that point briskly now: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I understood everything, I am telling you right away, I will not give you money.' Barinov steps in right away with the guest, before the guest can change the subject.
+- 'Wait, this time it really works!' The guest features this sharp term in earnest: "rabotayet" means "works" (from "rabotat"), giving the line its exact edge.
+- 'Tell me, what did you come up with this time?' Barinov sends that answer frankly here: putting the question word "chto" right at the front of the line lets the guest hear the point of the question on the very first beat.
+- 'We will raise fresh oysters here in Russia.' The guest speaks sharply with a nod, so Barinov knows he is not just making small talk.
+- 'Valya, you are repeating yourself, you already raised oysters.' Barinov chooses one colorful word in earnest: "povtoryayeshsya" means "you are repeating yourself" (from "povtoryatsya"), giving the line its exact edge.
+- 'Vitya, in America everything works great for me.' The guest voices this statement for Barinov: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I will soon pay back everything I owe you, with interest.' The guest follows up wryly hearing Barinov, before Barinov can change the subject.
+- 'But as I understand it, you will not pay it back right now.' Barinov underscores one practical touch in reply: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.

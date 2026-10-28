@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Our dinner service is starting.' Lyova shows a firm tempo in the conversation, pairing "uzhin" ("dinner") with "nachinayetsya" ("begins") to get the point across in plain spoken Russian.
-- 'Quick, head to the storage room.' Timur displays a calm direction with Lyova, putting "bystro" ("quickly") alongside "sklad" ("warehouse") in a tight, everyday turn of phrase.
-- 'May I step out to the restroom?' Lyova probes promptly in their exchange, weaving "mozhno" ("may, can") together with "tualet" ("toilet") just the way native speakers do.
-- 'I nearly sliced my fingers off.' Timur picks an earnest posture straight away, building the phrase around "chut" ("almost, nearly") and "paltsy" ("fingers") for a crisp, natural delivery.
-- 'Where is the first-aid kit?' Lyova queries dryly right away, linking "gde" ("where") directly with "aptechka" ("first-aid kit"), since Russian drops "is" and "are" in the present.
-- 'Do you need any help?' Timur questions warmly as they speak, leaning on "pomoshch" ("help") before closing the thought with "nuzhna" ("needed").
-- 'All right, I will take the dish out and do it.' Lyova shows an emphatic mood in their talk, combining "blyudo" ("dish") and "otnesu" ("to carry to") so the key meaning lands right away.
-- 'At table seven.' Timur offers a calm course in their talk, weaving "sedmym" ("seventh") together with "stolikom" ("table") just the way native speakers do.
-- 'Hello, Lyova, Timur is calling for you urgently.' Timur projects a pointed style in this beat, leaning on "srochno" ("urgent, urgently") before closing the thought with "zovyot" ("calls").
-- 'Table eight is ready to go.' Timur displays a measured course in the conversation, leaning on "vosmoy" ("eighth") before closing the thought with "gotovnosti" ("readiness, doneness").
-- 'I have a banquet on my hands.' Lyova conveys a direct style at once, weaving "banket" ("banquet") together with "menya" ("me") just the way native speakers do.
-- 'And they are in no hurry to speed up.' Timur keeps an easygoing rhythm at once, pairing "toropyatsya" ("to be in a hurry") with "pobystreye" ("faster, more quickly") so the "-sya" ending carries the action.
-- 'Where is everybody?' Lyova checks openly in this moment, weaving "gde" ("where") together with "vse" ("all") just the way native speakers do.
+- 'Our dinner service is starting.' Lyova focuses on this key detail at once: "nachinayetsya" means "begins" (from "nachinatsya"), giving the line its exact edge.
+- 'Quick, head to the storage room.' Timur phrases this warning on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'May I step out to the restroom?' Lyova checks firmly what Timur is actually getting at here.
+- 'I nearly sliced my fingers off.' Timur leans on one classic expression on cue: "paltsy" means "fingers" (from "palets"), giving the line its exact edge.
+- 'Where is the first-aid kit?' Lyova states that thought in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Do you need any help?' Timur challenges curiously to see how Lyova will answer on the spot.
+- 'All right, I will take the dish out and do it.' Lyova grounds this sharp detail toward Timur: "blyudo" means "dish", and it carries the main weight of what Lyova is saying.
+- 'At table seven.' Timur phrases this answer around Lyova: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Hello, Lyova, Timur is calling for you urgently.' Timur jumps in at once before Lyova, testing Lyova's reaction in the middle of the exchange.
+- 'Table eight is ready to go.' Timur features one vivid touch in earnest: "gotovnosti" means "readiness, doneness" (from "gotovnost"), giving the line its exact edge.
+- 'I have a banquet on my hands.' Lyova frames this point facing Timur: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'And they are in no hurry to speed up.' Timur counters right away toward Lyova, grounding the moment in plain reality.
+- 'Where is everybody?' Lyova makes that reply calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

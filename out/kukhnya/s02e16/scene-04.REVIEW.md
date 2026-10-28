@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes, son, hello.' Barinov projects a playful angle in this beat, joining "synok" ("son") to "da" ("yes") so every word pulls its weight.
-- 'Are you at work?' Vika quizzes evenly in their exchange, using "rabote" (from "rabota", "work") alongside "ty" ("you") to shape the meaning.
-- 'Please keep quiet for a moment.' Barinov sustains a serious attitude during the exchange, building the phrase around "tikho" ("easy, quiet") and "proshu" ("beg, ask") for a crisp, natural delivery.
-- 'I am fine. Only the fridge here is empty.' Vika favors a firm note at once, joining "normalno" ("fine, OK") to "tolko" ("only") so every word pulls its weight.
-- 'Did you put on your warm socks?' Barinov asks earnestly at this point, pairing "noski" ("socks") with "nadel" ("put on") to get the point across in plain spoken Russian.
-- 'I am not five years old, mom.' Vika holds a clear position without hesitation, anchoring the Russian line on "let" ("years") and "pyat" ("five") without extra filler.
-- 'Lena, now you are the one acting like a child.' Barinov shares a natural rhythm as the scene unfolds, putting "leda" ("ice") alongside "vedesh" ("lead, behave") in a tight, everyday turn of phrase.
-- 'What do you mean, heading to work?' Vika challenges naturally beside Barinov, joining "kak" ("how") to "rabotu" ("job") so every word pulls its weight.
-- 'What about breakfast?' Barinov inquires decisively during the talk, letting the single Russian word "zavtrak" ("breakfast") carry the entire reaction on its own.
-- 'That sounds so appetizing.' Vika shares an emphatic stance in this beat, building the phrase around "kak" ("how") and "appetitno" ("appetizingly") for a crisp, natural delivery.
-- 'That is my favorite pizza.' Barinov keeps a calm footing beside Vika, building the phrase around "lyubimaya" ("favourite, beloved") and "pitstsa" ("pizza") for a crisp, natural delivery.
-- 'Well, of course.' Vika shows a steady mood toward Barinov, building the phrase around "konechno" ("of course") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'At least we will have another half hour together.' Barinov displays a brisk direction in front of Vika, joining "budet" ("will be") to "yeshche" ("still") so every word pulls its weight.
+- 'Yes, son, hello.' Barinov leans on one telling word in earnest: "synok" means "son", and it carries the main weight of what Barinov is saying.
+- 'Are you at work?' Vika voices that answer right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Please keep quiet for a moment.' Barinov stands firm briskly as they talk, shifting the whole mood of the room in a single beat.
+- 'I am fine. Only the fridge here is empty.' Vika leans on one clear word at once: "kholodilnik" means "fridge", and it carries the main weight of what Vika is saying.
+- 'Did you put on your warm socks?' Barinov brings the comeback beside Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'I am not five years old, mom.' Vika proceeds openly with a smile, watching Barinov's face to see how the news lands.
+- 'Lena, now you are the one acting like a child.' Barinov features one colorful word toward Vika: "rebenok" means "child", and it carries the main weight of what Barinov is saying.
+- 'What do you mean, heading to work?' Vika frames that answer in earnest: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'What about breakfast?' Barinov challenges briskly how Vika expects that to work in practice.
+- 'That sounds so appetizing.' Vika picks one clear detail in reply: "appetitno" means "appetizingly", and it carries the main weight of what Vika is saying.
+- 'That is my favorite pizza.' Barinov frames the thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Well, of course.' Vika steps in promptly across the room, grounding the moment in plain reality.
+- 'At least we will have another half hour together.' Barinov features one familiar expression in reply: "polchasa" means "half-hour", and it carries the main weight of what Barinov is saying.

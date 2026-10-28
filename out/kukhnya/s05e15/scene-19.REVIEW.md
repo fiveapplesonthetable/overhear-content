@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'No, guys, I have too important a day tomorrow.' Barinov presents a firm course at once, pairing "rebyata" ("the boys, the lads") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
-- 'Chef, if you do not drink, I will hang the painting by the entrance!' The guest presents a steady position on the spot, combining "vypyete" ("to drink") and "poveshu" ("hang up") so the key meaning lands right away.
-- 'Let all the restaurant guests admire your beauty!' The guest projects a natural footing toward Barinov, pairing "lyubuyutsya" ("to admire") with "gosti" ("visitors, guests") so the "-sya" ending carries the action.
-- 'Wait, artist, you and I did not agree on that!' Barinov adopts an earnest note with Senya, combining "postoy" ("wait") and "khudozhnik" ("artist, painter") so the key meaning lands right away.
-- 'Hand that painting over here, I will tear it up right now!' Barinov presents an honest bearing on the spot, pairing "day-ka" ("give") with "kartinu" ("painting, picture") to get the point across in plain spoken Russian.
-- 'Give it back, you are supposed to be a grown man!' The guest offers a steady tone without hesitation, building the phrase around "otday" ("give back") and "nazad" ("ago") for a crisp, natural delivery.
-- 'Wait, guys, this is edible rice paper after all!' Barinov sets a clear stance with the guest, pairing "podozhdite" ("wait") with "rebyata" ("the boys, the lads") to get the point across in plain spoken Russian.
-- 'Here we have found a great snack for the table!' Barinov brings a sharp angle in the scene, putting "otlichnaya" ("excellent") alongside "zakuska" ("appetizer, snack") in a tight, everyday turn of phrase.
-- 'Viktor Petrovich, share a piece of the painting with us!' Senya picks a calm bearing at this moment, joining "podelites" ("to share") to "kusochkom" ("slice, little piece") so every word pulls its weight.
-- 'Here you go, Senya, take a piece quickly, everyone!' Barinov presents a steady attitude in their talk, combining "derzhi" ("here you go") and "razbirayte" ("take, grab") so the key meaning lands right away.
-- 'Senya, tell me, what part of the painting are you eating right now?' The guest questions dryly as the talk turns, combining "skazhi" ("say") and "chast" ("part") so the key meaning lands right away.
-- 'I do not know, but it tastes pretty good actually!' Senya projects a steady manner during the exchange, linking "znayu" ("know"), "vkus" ("taste"), and "ochen" ("very much") in one brisk exchange.
+- 'No, guys, I have too important a day tomorrow.' Barinov reaches for one memorable element on cue: "rebyata" means "the boys, the lads", and it carries the main weight of what Barinov is saying.
+- 'Chef, if you do not drink, I will hang the painting by the entrance!' The guest follows up honestly to be clear, watching Senya's face to see how the news lands.
+- 'Let all the restaurant guests admire your beauty!' The guest jumps in bluntly around Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Wait, artist, you and I did not agree on that!' Barinov frames this sharp choice at once: "dogovarivalis" means "had an agreement" (from "dogovarivatsya"), giving the line its exact edge.
+- 'Hand that painting over here, I will tear it up right now!' Barinov follows up evenly without holding back, keeping the focus on what actually matters here.
+- 'Give it back, you are supposed to be a grown man!' The guest weighs in warmly watching Senya, refusing to let the moment slip past.
+- 'Wait, guys, this is edible rice paper after all!' Barinov picks one clear word at once: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Here we have found a great snack for the table!' Barinov continues lightly without any doubt, testing Senya's reaction in the middle of the exchange.
+- 'Viktor Petrovich, share a piece of the painting with us!' Senya holds firm honestly with a sigh, grounding the moment in plain reality.
+- 'Here you go, Senya, take a piece quickly, everyone!' Barinov chooses one vivid piece in earnest: "razbirayte" means "take, grab" (from "razbirat"), giving the line its exact edge.
+- 'Senya, tell me, what part of the painting are you eating right now?' The guest brings the comeback before Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'I do not know, but it tastes pretty good actually!' Senya jumps in pointedly with a shrug, letting the remark speak for itself.

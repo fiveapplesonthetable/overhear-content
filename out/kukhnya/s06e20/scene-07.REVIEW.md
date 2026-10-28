@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, what is going on here?' Denis wonders earnestly in this moment, joining "skazhite" ("tell") to "tut" ("here") so every word pulls its weight.
-- 'I see you do not change at all.' Denis holds a pointed direction right away, joining "smotryu" ("look") to "sovsem" ("at all") so every word pulls its weight.
-- 'Misha, what kind of jokes are these?' Barinov prompts dryly to Denis here, putting "shutki" ("jokes") alongside "misha" ("Misha") in a tight, everyday turn of phrase.
-- 'Well, how am I a disabled person to you?' Barinov tests lightly right away, linking "invalid" ("disabled person"), "nu" ("oh, come on"), and "kakoy" ("what a, how") in one brisk exchange.
-- 'You recently came out of a coma.' Mikhail takes a lively tack straight away, putting "nedavno" ("returned") alongside "komy" ("coma") in a tight, everyday turn of phrase.
-- 'So I did not even lie.' Mikhail projects a wry rhythm in the conversation, using "sovral" (from "sovrat", "lied") alongside "tak" ("so") to shape the meaning.
-- 'I only embellished everything slightly.' Mikhail establishes an honest mood across the room, combining "tolko" ("only") and "slegka" ("slightly") so the key meaning lands right away.
-- 'Fry him a simple cheburek.' Mikhail adopts a natural style on the spot, weaving "prostoy" ("simple, ordinary") together with "cheburek" ("cheburek") just the way native speakers do.
-- 'And it will be a culinary masterpiece!' Mikhail conveys a playful position toward Barinov, weaving "budet" ("will be") together with "kulinarnyy" ("culinary") just the way native speakers do.
-- 'And do you know why it will be like that?' Mikhail tests briskly right away, weaving "znayesh" ("know") together with "pochemu" ("why") just the way native speakers do.
-- 'Right now you are our main ingredient.' Mikhail favors a direct direction at this moment, linking "seychas" ("now") directly with "glavnyy" ("main, chief"), since Russian drops "is" and "are" in the present.
-- 'I do not like this idea.' Barinov sustains a calm style toward Mikhail, leaning on "zateya" ("idea, venture") before closing the thought with "nravitsya" ("is pleasing").
+- 'Tell me, what is going on here?' Denis sharpens this vivid element in reply: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
+- 'I see you do not change at all.' Denis shapes the reaction briskly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Misha, what kind of jokes are these?' Barinov questions straight out in front of Denis without any preamble.
+- 'Well, how am I a disabled person to you?' Listen to how Barinov addresses Mikhail with candor — the Russian word "invalid" ("disabled person") gives the whole sentence its punch.
+- 'You recently came out of a coma.' Mikhail grounds one vivid element on cue: "nedavno" means "returned", and it carries the main weight of what Mikhail is saying.
+- 'So I did not even lie.' Mikhail jumps in quietly around Denis, without trying to dress up how he really feels.
+- 'I only embellished everything slightly.' Mikhail reaches for one loaded word on cue: "priukrasil" means "embellished" (from "priukrasit"), giving the line its exact edge.
+- 'Fry him a simple cheburek.' Mikhail highlights one colorful touch in earnest: "cheburek" means "cheburek", and it carries the main weight of what Mikhail is saying.
+- 'And it will be a culinary masterpiece!' Mikhail fires back boldly facing Barinov, leaving no doubt about where he stands.
+- 'And do you know why it will be like that?' Mikhail points to one vivid choice in reply: "znayesh" means "know" (from "znat"), giving the line its exact edge.
+- 'Right now you are our main ingredient.' Mikhail shares that point without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I do not like this idea.' Barinov stands firm at once during the talk, refusing to let the moment slip past.

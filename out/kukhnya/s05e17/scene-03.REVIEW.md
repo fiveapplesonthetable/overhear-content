@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Misha, he is not worth it.' Barinov shows a measured style at once, building the phrase around "stoit" ("is parked") and "misha" ("Misha") for a crisp, natural delivery.
-- 'You do not understand anything.' Mikhail strikes an earnest manner for Barinov, linking "ponimayesh" ("do you understand"), "da" ("yes"), and "ty" ("you") in one brisk exchange.
-- 'I chased after Eleonora for half my life.' Mikhail maintains a natural mood as they talk, joining "polzhizni" ("half") to "begal" ("to run") so every word pulls its weight.
-- 'You and I had a good drink together.' Barinov sets a calm approach toward Mikhail, combining "khorosho" ("good, fine") and "vypili" ("to drink") so the key meaning lands right away.
-- 'We even went to the casino.' Barinov maintains a thoughtful course on the spot, anchoring the Russian line on "kazino" ("casino") and "skhodili" ("to go") without extra filler.
-- 'Maybe we should go home already?' Barinov queries plainly right away, using "mozhet" (from "moch", "can") alongside "uzhe" ("already, now") to shape the meaning.
-- 'No, that was only a rehearsal.' Mikhail projects a playful tempo for Barinov, linking "byla" ("was"), "tolko" ("only"), and "repetitsiya" ("rehearsal") in one brisk exchange.
-- 'Do you know his address?' Barinov prompts wryly in the scene, weaving "adres" ("address") together with "znayesh" ("know") just the way native speakers do.
-- 'No, I have it written down at the hotel.' Mikhail strikes a frank style in front of Barinov, linking "otele" ("in the hotel"), "zapisano" ("recorded"), and "net" ("no") in one brisk exchange.
-- 'Let's stop by our hotel.' Mikhail adopts a calm tack as they talk, combining the everyday invitation "davay" ("come on, let us") with "zayedem" ("drop by, stop in") to give the line its natural spoken rhythm.
-- 'Thank you very much, Vitya.' Mikhail holds a pointed posture in this beat, linking "spasibo" ("thank you"), "bolshoye" ("big, very much"), and "tebe" ("for you, to you") in one brisk exchange.
-- 'Just rest and gather your strength.' Barinov brings a frank note in front of Mikhail, building the phrase around "glavnoye" ("important") and "otdykhay" ("rest, relax") for a crisp, natural delivery.
+- 'Misha, he is not worth it.' Barinov steps in dryly on the spot, shifting the whole mood of the room in a single beat.
+- 'You do not understand anything.' Mikhail underscores one telling term toward Barinov: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
+- 'I chased after Eleonora for half my life.' Mikhail chimes in bluntly as things stand, leaving no doubt about where he stands.
+- 'You and I had a good drink together.' Barinov answers dryly hearing Mikhail, refusing to let the moment slip past.
+- 'We even went to the casino.' Barinov features this direct term on cue: "kazino" means "casino", and it carries the main weight of what Barinov is saying.
+- 'Maybe we should go home already?' Barinov gives the comment plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'No, that was only a rehearsal.' Mikhail jumps in decisively to be clear, letting the remark speak for itself.
+- 'Do you know his address?' Barinov stresses one classic choice for Mikhail: "adres" means "address", and it carries the main weight of what Barinov is saying.
+- 'No, I have it written down at the hotel.' Mikhail frames the thought beside Barinov: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Let's stop by our hotel.' Mikhail reacts steadily during the talk, to clear the air between them once and for all.
+- 'Thank you very much, Vitya.' Mikhail focuses on one key term in reply: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Just rest and gather your strength.' Barinov chooses this sharp choice in earnest: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.

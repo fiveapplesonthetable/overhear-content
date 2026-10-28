@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'A croissant or celery?' He offers two funny options based on their history. Max asks if he is a croissant or celery.
 - 'Well, of course a croissant.' Vika smiles and gives him the better option. She assures him he is definitely a croissant.
 - 'Why a croissant?' Max pretends to be confused by the choice. He jokingly asks why she picked croissant.
-- 'I don' He brings up a fake dietary restriction. Max claims he does not even eat baked goods.
+- 'I don't eat flour products.' He brings up a fake dietary restriction. Max claims he does not even eat baked goods.
 - 'You saved our restaurant.' Vika ignores the joke and expresses genuine gratitude. She tells him he saved their restaurant.
 - 'You did great, Max.' She offers him sincere praise. Vika calls him a good guy and uses his name affectionately.
 - 'I just did my job.' Max downplays his heroic actions. He humbly claims he was just doing his job.

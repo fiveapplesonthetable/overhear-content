@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, I really did it by accident.' Barinov conveys a firm stance on the spot, joining "pravda" ("honestly") to "sdelal" ("did") so every word pulls its weight.
-- 'Vitenka, nothing ever happens by accident.' Eleonora shares a calm course across the room, weaving "sluchaynogo" ("accidental") together with "byvayet" ("there can be") just the way native speakers do.
-- 'Why have you been pestering me all day?' Eleonora asks quietly during the talk, combining "den" ("day") and "dostayosh" ("to reach, to take out") so the key meaning lands right away.
-- 'You are furious that I am with Dima now.' Eleonora presents an emphatic footing right away, building the phrase around "besishsya" ("you are furious") and "teper" ("now") for a crisp, natural delivery.
-- 'What complete nonsense that is!' Barinov displays a wry attitude straight away, building the phrase around "polnyy" ("total, complete") and "bred" ("nonsense") for a crisp, natural delivery.
-- 'You have the keys to his car in your hands.' Eleonora strikes a firm approach in the room, joining "rukakh" ("hands") to "klyuchi" ("the keys") so every word pulls its weight.
-- 'After that will you say that you are not jealous?' Eleonora queries decisively across the room, combining "skazhesh" ("will you say") and "revnuyesh" ("are jealous") so the key meaning lands right away.
-- 'Elya, do not confuse jealousy with pity.' Barinov brings a grounded tempo toward Eleonora, pairing "putay" ("to confuse") with "revnost" ("jealousy") to get the point across in plain spoken Russian.
-- 'You could have found someone more decent.' Barinov favors a clear angle toward Eleonora, weaving "mogla" ("could") together with "nayti" ("to find") just the way native speakers do.
-- 'Interesting, for example, who exactly?' Eleonora quizzes pointedly to make the point, linking "interesno" ("interesting"), "naprimer" ("for example"), and "kogo" ("whom") in one brisk exchange.
-- 'Well, for example, our Mikhail Dzhekovich.' Barinov brings an emphatic mood across the room, combining "naprimer" ("for example") and "nu" ("oh, come on") so the key meaning lands right away.
-- 'A normal guy, works a lot, drinks little.' Barinov offers an emphatic footing in the room, building the phrase around "normalnyy" ("decent, normal") and "muzhik" ("a real man") for a crisp, natural delivery.
-- 'I am not looking for a husband among the staff.' Eleonora establishes a calm posture beside Barinov, anchoring the Russian line on "ishchu" ("am looking for") and "muzha" ("husband") without extra filler.
+- 'Well, I really did it by accident.' Barinov fires back sharply beside Eleonora, bringing things back to earth after the buildup.
+- 'Vitenka, nothing ever happens by accident.' Eleonora opens up right away with Barinov, steering the talk right where she wants it.
+- 'Why have you been pestering me all day?' Eleonora chooses one memorable touch right here: "dostayosh" means "to reach, to take out" (from "dostavat"), giving the line its exact edge.
+- 'You are furious that I am with Dima now.' Eleonora offers that answer with warmth: the "-sya" ending on "besishsya" ("you are furious") turns the action inward or makes it happen between people naturally.
+- 'What complete nonsense that is!' Barinov pushes back briskly as they talk, bringing things back to earth after the buildup.
+- 'You have the keys to his car in your hands.' Eleonora leans on one direct expression at once: "klyuchi" means "the keys" (from "klyuch"), giving the line its exact edge.
+- 'After that will you say that you are not jealous?' Eleonora sends the thought without fuss: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Elya, do not confuse jealousy with pity.' Barinov continues briskly in this moment, before Eleonora can change the subject.
+- 'You could have found someone more decent.' Barinov underscores one vivid element with Eleonora: "poprilichneye" means "more decent" (from "prilichnyy"), giving the line its exact edge.
+- 'Interesting, for example, who exactly?' Eleonora hands over that point with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Well, for example, our Mikhail Dzhekovich.' Barinov continues briskly to be clear, without trying to dress up how he really feels.
+- 'A normal guy, works a lot, drinks little.' Barinov uses one sharp element in earnest: "normalnyy" means "decent, normal", and it carries the main weight of what Barinov is saying.
+- 'I am not looking for a husband among the staff.' Eleonora cuts in frankly around Barinov, without trying to dress up how she really feels.

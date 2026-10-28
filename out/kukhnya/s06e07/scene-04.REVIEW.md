@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to talk to you about Katya.' Nastya projects a pointed line in front of Barinov, joining "khotela" ("wanted, meant") to "pogovorit" ("to talk") so every word pulls its weight.
-- 'She feels very lonely and sad right now.' Nastya displays a grounded approach for Lyova, combining "seychas" ("now") and "ochen" ("very much") so the key meaning lands right away.
-- 'I will definitely help the two of you get closer.' Nastya favors a candid course on the spot, joining "obyazatelno" ("surely, without fail") to "pomogu" ("I'll help") so every word pulls its weight.
-- 'Well alright, let us try to do that.' Lyova conveys an unhurried stance across the room, building the phrase around "khorosho" ("good, fine") and "davay" ("let's") for a crisp, natural delivery.
-- 'How could you blurt out that I am sick?' Barinov probes warmly as they speak, linking "kak" ("how"), "mozhno" ("may, can"), and "bylo" ("was") in one brisk exchange.
-- 'How was I supposed to know that Elena could hear us?' Lyova quizzes dryly from the start, joining "otkuda" ("where from") to "znal" ("knew") so every word pulls its weight.
-- 'After all, that was your personal phone!' Lyova shares an unhurried rhythm in their talk, combining "byl" ("was") and "lichnyy" ("personal") so the key meaning lands right away.
-- 'You made this mess, so you have to clean it up.' Barinov displays an unhurried direction for Nastya, combining "zavaril" ("brew, steep") and "kashu" ("porridge") so the key meaning lands right away.
-- 'Hello, I am Victor, sent by Elena for a checkup.' Lyova picks a steady angle without hesitation, pairing "zdravstvuyte" ("hello") with "obsledovaniye" ("medical") to get the point across in plain spoken Russian.
-- 'Come in, please, have a seat here at the desk.' Nastya adopts a measured mood at once, weaving "prokhodite" ("come in") together with "sadites" ("sit down") just the way native speakers do.
-- 'Well yes, this really is my mustache.' Lyova keeps an easygoing course as they talk, linking "deystvitelno" ("really, indeed"), "usy" ("mustache"), and "nu" ("oh, come on") in one brisk exchange.
-- 'You really do have a very handsome mustache!' Nastya favors a direct rhythm on the spot, building the phrase around "deystvitelno" ("really, indeed") and "ochen" ("very much") for a crisp, natural delivery.
+- 'I wanted to talk to you about Katya.' Nastya sharpens one practical detail toward Barinov: "pogovorit" means "to talk", and it carries the main weight of what Nastya is saying.
+- 'She feels very lonely and sad right now.' Nastya voices this warning with ease: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'I will definitely help the two of you get closer.' Nastya speaks up quietly to be clear, before Barinov can change the subject.
+- 'Well alright, let us try to do that.' Lyova underscores one direct detail on cue: "poprobuyem" means "try" (from "poprobovat"), giving the line its exact edge.
+- 'How could you blurt out that I am sick?' Barinov offers the reaction with warmth: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'How was I supposed to know that Elena could hear us?' Lyova wonders eagerly in front of Nastya without any preamble.
+- 'After all, that was your personal phone!' Lyova colors this direct word in earnest: "lichnyy" means "personal", and it carries the main weight of what Lyova is saying.
+- 'You made this mess, so you have to clean it up.' Barinov colors one concrete choice for Nastya: "raskhlyobyvat" means "to clean up", and it carries the main weight of what Barinov is saying.
+- 'Hello, I am Victor, sent by Elena for a checkup.' Lyova holds firm at once with Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Come in, please, have a seat here at the desk.' Nastya frames this sharp touch toward Lyova: "prokhodite" means "come in" (from "prokhodit"), giving the line its exact edge.
+- 'Well yes, this really is my mustache.' Lyova sends this answer with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You really do have a very handsome mustache!' Nastya speaks up briskly hearing Lyova, keeping the focus on what actually matters here.

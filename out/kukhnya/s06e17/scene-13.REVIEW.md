@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, this is somehow completely insecure.' Kostya adopts a pointed tone in the scene, placing "kak-to" ("somehow, a bit") straight beside "sovsem" ("at all") with no word for "to be" needed.
-- 'That is so she does not run away.' Barinov strikes a candid note for Kostya, building the phrase around "sbezhala" ("to escape, flee") and "eto" ("this") for a crisp, natural delivery.
-- 'Viktor Petrovich, please let us go.' Kostya presents a playful stance across the room, leaning on "otpustite" ("let go, release") before closing the thought with "viktor" ("Viktor").
-- 'We will definitely not tell anyone.' Kostya sets a frank tempo in this beat, linking "tochno" ("definitely"), "rasskazhem" ("to tell"), and "my" ("we") in one brisk exchange.
-- 'I asked you last time.' Barinov sustains an easygoing angle across the room, pairing "proshlyy" ("last, previous") with "raz" ("time, once") to get the point across in plain spoken Russian.
-- 'Yes, that was a funny incident.' Kostya takes a natural tack in the room, using "byl" (from "byt", "was") alongside "smeshnoy" ("funny") to shape the meaning.
-- 'So they tied us up rightly.' Kostya brings a pointed bearing toward Barinov, weaving "pravilno" ("right") together with "svyazali" ("tied up") just the way native speakers do.
-- 'I need to go to the restroom right now.' The inspector shows a wry course in their talk, joining "seychas" ("now") to "tualet" ("toilet") so every word pulls its weight.
-- 'Aha, look how sly he is.' Kostya sets a pointed tone for Barinov, anchoring the Russian line on "smotri" ("look") and "khitryy" ("cunning") without extra filler.
-- 'People do that when they want to escape.' Kostya sets a calm style in their talk, putting "delayut" ("they do") alongside "kogda" ("when") in a tight, everyday turn of phrase.
-- 'Well done, Senya, good thought.' Barinov brings a pointed angle in front of the inspector, putting "molodets" ("well done, good boy") alongside "khoroshaya" ("good") in a tight, everyday turn of phrase.
-- 'Go with him and keep watch.' Barinov takes a lively tack in their talk, weaving "idi" ("go") together with "prosledi" ("keep watch") just the way native speakers do.
+- 'Chef, this is somehow completely insecure.' Kostya spotlights this key touch in earnest: "nenadyozhno" means "unreliably", and it carries the main weight of what Kostya is saying.
+- 'That is so she does not run away.' Barinov replies at once with a sigh, bringing things back to earth after the buildup.
+- 'Viktor Petrovich, please let us go.' Kostya follows up quietly in their talk, making his position completely clear.
+- 'We will definitely not tell anyone.' Kostya frames one pointed choice at once: "rasskazhem" means "to tell" (from "rasskazat"), giving the line its exact edge.
+- 'I asked you last time.' Barinov picks one practical term at once: "proshlyy" means "last, previous", and it carries the main weight of what Barinov is saying.
+- 'Yes, that was a funny incident.' Kostya speaks calmly with a shrug, making his position completely clear.
+- 'So they tied us up rightly.' Kostya points to one vivid term with Barinov: "pravilno" means "right", and it carries the main weight of what Kostya is saying.
+- 'I need to go to the restroom right now.' The inspector shapes that line toward Kostya: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Aha, look how sly he is.' Kostya answers pointedly in this moment, keeping the focus on what actually matters here.
+- 'People do that when they want to escape.' Kostya highlights this telling expression on cue: "delayut" means "they do" (from "delat"), giving the line its exact edge.
+- 'Well done, Senya, good thought.' Barinov shares this line before the inspector: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Go with him and keep watch.' Barinov speaks briskly in this moment, watching Kostya's face to see how the news lands.

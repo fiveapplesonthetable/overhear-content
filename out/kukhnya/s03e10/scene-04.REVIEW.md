@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I sympathize, after all that was your last chance.' Nagiyev picks a calm note right away, linking "sochuvstvuyu" ("sympathize"), "byl" ("was"), and "posledniy" ("last") in one brisk exchange.
-- 'Old age spares no one at all, after all.' Nagiyev chooses a calm tone straight away, anchoring the Russian line on "starost" ("old age") and "voobshche" ("at all") without extra filler.
-- 'There is only a six-year difference between us!' Barinov establishes a calm approach during the exchange, placing "raznitsa" ("difference") straight beside "let" ("years") with no word for "to be" needed.
-- 'Do not look at my passport.' Nagiyev favors a natural position straight away, pairing "pasport" ("passport") with "smotri" ("look") to get the point across in plain spoken Russian.
-- 'Look how young and lean I am.' Nagiyev sustains a frank note as the scene unfolds, building the phrase around "posmotri" ("look") and "molodoy" ("young") for a crisp, natural delivery.
-- 'And you are already an old wreck.' Nagiyev brings an honest style toward Barinov, putting "uzhe" ("already, now") alongside "staraya" ("old") in a tight, everyday turn of phrase.
-- 'They should put up a monument to Lena.' Nagiyev establishes a frank stance in the room, anchoring the Russian line on "voobshche" ("at all") and "nado" ("it is necessary") without extra filler.
-- 'For the fact that she was with you.' Nagiyev sustains a brisk tempo across the room, linking "byla" ("was"), "za" ("for"), and "to" ("that") in one brisk exchange.
-- 'Dima, I simply do not need a woman.' Barinov shows a serious view in their talk, leaning on "prosto" ("just") before closing the thought with "nuzhna" ("needed").
-- 'If I wanted one, I would find one right away.' Barinov adopts a grounded line beside Nagiyev, combining "khotel" ("wanted") and "srazu" ("at once") so the key meaning lands right away.
-- 'Did you understand me clearly just now?' Barinov questions bluntly during the talk, putting "seychas" ("now") alongside "khorosho" ("good, fine") in a tight, everyday turn of phrase.
-- 'I simply do not need a relationship right now.' Barinov offers a grounded mood right away, weaving "prosto" ("just") together with "nuzhny" ("needed") just the way native speakers do.
+- 'I sympathize, after all that was your last chance.' Nagiyev emphasizes one telling element for Barinov: "sochuvstvuyu" means "sympathize" (from "sochuvstvovat"), giving the line its exact edge.
+- 'Old age spares no one at all, after all.' Nagiyev phrases the comeback with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'There is only a six-year difference between us!' Barinov cuts in decisively to be clear, bringing things back to earth after the buildup.
+- 'Do not look at my passport.' Nagiyev underscores one practical detail at once: "pasport" means "passport", and it carries the main weight of what Nagiyev is saying.
+- 'Look how young and lean I am.' Nagiyev stands firm evenly to settle things, leaving no doubt about where he stands.
+- 'And you are already an old wreck.' Nagiyev continues warmly before Barinov, letting the remark speak for itself.
+- 'They should put up a monument to Lena.' Nagiyev chooses one pointed touch for Barinov: "pamyatnik" means "monument", and it carries the main weight of what Nagiyev is saying.
+- 'For the fact that she was with you.' Nagiyev stands firm warmly watching Barinov, saying out loud what both of them already know.
+- 'Dima, I simply do not need a woman.' Barinov steps in decisively with a smile, so Nagiyev knows he is not just making small talk.
+- 'If I wanted one, I would find one right away.' Barinov features this telling piece for Nagiyev: "nashyol" means "found" (from "nayti"), giving the line its exact edge.
+- 'Did you understand me clearly just now?' Barinov drops the comment before Nagiyev: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'I simply do not need a relationship right now.' Barinov weighs in bluntly as they talk, to clear the air between them once and for all.

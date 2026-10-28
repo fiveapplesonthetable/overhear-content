@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is a good thing that she replied, right?' Nastya checks warmly in their exchange, joining "khorosho" ("good, fine") to "otvetila" ("answered") so every word pulls its weight.
-- 'That really is great news.' Kostya adopts an honest tack in this beat, putting "khorosho" ("good, fine") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'Right next to her—forgive my clumsy phrasing.' Nastya establishes a pointed posture without hesitation, combining "prosti" ("sorry, forgive me") and "skudnost" ("scarcity, poverty") so the key meaning lands right away.
-- 'Yes, right next to her.' Kostya holds an honest rhythm toward Nastya, leaning on "da" ("yes") before closing the thought with "vozle" ("right by, near").
-- 'Why not invite her to a nightclub.' Nastya chooses an honest note beside Kostya, putting "priglasite" ("call in, invite") alongside "klub" ("club, nightclub") in a tight, everyday turn of phrase.
-- 'I will write to her right now.' Kostya brings a frank view as the scene unfolds, pairing "seychas" ("now") with "napishu" ("will write") to get the point across in plain spoken Russian.
-- 'Now Daddy will handle this himself.' Nastya brings a warm posture in the conversation, linking "teper" ("now"), "papochka" ("daddy, folder"), and "sam" ("yourself") in one brisk exchange.
-- 'Nightclubs are for kids.' Kostya shows a frank bearing in front of Nastya, anchoring the Russian line on "klub" ("club, nightclub") and "detey" ("children") without extra filler.
-- 'Well, how should I put it.' Nastya shows a playful bearing with Kostya, combining "kak" ("how") and "skazat" ("tell") so the key meaning lands right away.
-- 'How about the movie theater.' Kostya takes a thoughtful attitude in the room, building the phrase around "kak" ("how") and "kino" ("cinema, movies") for a crisp, natural delivery.
-- 'She says she has not been to the movies in a hundred years.' Nastya displays an honest line in the room, pairing "let" ("years") with "byla" ("was") to get the point across in plain spoken Russian.
-- 'Learn from the master, son.' Kostya takes a calm stance toward Nastya, weaving "uchis" ("learn") together with "synok" ("son") just the way native speakers do.
-- 'Answer your phone.' Nastya adopts a brisk position across the room, using "vozmi" (from "vzyat", "take, pick up") alongside "trubku" ("the receiver") to shape the meaning.
+- 'It is a good thing that she replied, right?' Nastya frames the thought before Kostya: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'That really is great news.' Kostya reacts boldly beside Nastya, keeping the focus on what actually matters here.
+- 'Right next to her—forgive my clumsy phrasing.' Nastya anchors one sharp choice in reply: "skudnost" means "scarcity, poverty", and it carries the main weight of what Nastya is saying.
+- 'Yes, right next to her.' Kostya states this update with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Why not invite her to a nightclub.' Nastya responds boldly during the talk, testing Kostya's reaction in the middle of the exchange.
+- 'I will write to her right now.' Kostya emphasizes one pointed word in earnest: "seychas" means "now", and it carries the main weight of what Kostya is saying.
+- 'Now Daddy will handle this himself.' Nastya frames that answer with ease: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Nightclubs are for kids.' Kostya steps in right away with a shrug, letting the remark speak for itself.
+- 'Well, how should I put it.' Nastya points to one direct expression in reply: "skazat" means "tell", and it carries the main weight of what Nastya is saying.
+- 'How about the movie theater.' Kostya hands over that point with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'She says she has not been to the movies in a hundred years.' Nastya pushes back briskly toward Kostya, before Kostya can change the subject.
+- 'Learn from the master, son.' Kostya focuses on one memorable element for Nastya: "synok" means "son", and it carries the main weight of what Kostya is saying.
+- 'Answer your phone.' Nastya offers that reply without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

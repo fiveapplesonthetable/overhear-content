@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Step back! Misha, are you alive?' Barinov tests steadily as the beat lands, weaving "otoshli" ("to step back") together with "zhivoy" ("alive") just the way native speakers do.
-- 'God watches over drunkards.' Barinov strikes a calm style in front of Mikhail, linking "pyanykh" ("drunk people"), "bog" ("God"), and "berezhyot" ("protects, watches over") in one brisk exchange.
-- 'A doctor is needed in the lobby.' Mikhail picks a calm tack with Barinov, building the phrase around "lobbi" ("hotel lobby") and "nuzhen" ("is needed") for a crisp, natural delivery.
-- 'In what sense, Misha?' Barinov tests boldly as the beat lands, weaving "smysle" ("sense") together with "kakom" ("what, which") just the way native speakers do.
-- 'I am saying, a doctor is urgently needed in the lobby!' Mikhail strikes a calm footing across the room, joining "govoryu" ("am telling") to "srochno" ("urgent, urgently") so every word pulls its weight.
-- 'Ah, chef, I understood you.' Max picks a measured angle toward Mikhail, anchoring the Russian line on "ponyal" ("understood") and "shef" ("Chef") without extra filler.
-- 'The doctor will be there right now.' Max offers a wry position for Barinov, weaving "doktor" ("Doctor") together with "seychas" ("now") just the way native speakers do.
-- 'Thank you, hurry!' Mikhail shows an easygoing mood in the conversation, joining "spasibo" ("thank you") to "bystreye" ("faster") so every word pulls its weight.
-- 'Why did you tape his eyes shut?' Max challenges candidly as they speak, weaving "zachem" ("what for") together with "glaza" ("eyes") just the way native speakers do.
-- 'Because we do not fully know his capabilities.' Barinov establishes a pointed posture for Mikhail, leaning on "potomu" ("because") before closing the thought with "kontsa" ("ending").
-- 'What if he hypnotizes with his eyes!' Barinov favors an honest style right away, linking "vdrug" ("suddenly, what if"), "glazami" ("eyes"), and "gipnotiziruyet" ("hypnotizes") in one brisk exchange.
-- 'Got it.' Max sustains an easygoing bearing beside Mikhail, using "ponyatno" ("clear") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Step back! Misha, are you alive?' Barinov hands over the remark toward Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'God watches over drunkards.' Barinov replies wryly without a pause, grounding the moment in plain reality.
+- 'A doctor is needed in the lobby.' Mikhail centers this vivid term for Barinov: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'In what sense, Misha?' Barinov phrases this warning before Mikhail: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'I am saying, a doctor is urgently needed in the lobby!' Mikhail replies steadily in their talk, refusing to let the moment slip past.
+- 'Ah, chef, I understood you.' Max emphasizes this direct piece on cue: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'The doctor will be there right now.' Max aims the reply with candor: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Thank you, hurry!' Mikhail steps in honestly in this moment, keeping the focus on what actually matters here.
+- 'Why did you tape his eyes shut?' Max spotlights this key word for Barinov: "glaza" means "eyes" (from "glaz"), giving the line its exact edge.
+- 'Because we do not fully know his capabilities.' Barinov cuts in calmly with a sigh, before Mikhail can change the subject.
+- 'What if he hypnotizes with his eyes!' Barinov speaks up wryly in their talk, testing Max's reaction in the middle of the exchange.
+- 'Got it.' Max frames this vivid expression in reply: "ponyatno" means "clear", and it carries the main weight of what Max is saying.

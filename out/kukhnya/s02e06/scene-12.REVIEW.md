@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everyone has already gone home.' Lyova favors a resolute stance in the room, anchoring the Russian line on "uzhe" ("already, now") and "ushli" ("we have gone") without extra filler.
-- 'I am heading out right now myself.' Vika sustains a wry attitude across the room, linking "seychas" ("now"), "ukhozhu" ("am leaving"), and "ya" ("I") in one brisk exchange.
-- 'See you tomorrow.' Lyova sustains a natural direction in the scene, pairing "zavtra" ("tomorrow") with "do" ("until") to get the point across in plain spoken Russian.
-- 'And when are you going home?' Barinov tests dryly without a pause, building the phrase around "kogda" ("when") and "domoy" ("home") for a crisp, natural delivery.
-- 'I will work for a little while longer.' Lyova presents a measured note across the room, anchoring the Russian line on "nemnogo" ("a bit") and "porabotayu" ("to work for a while") without extra filler.
-- 'You do not have a wife.' Barinov sustains a pointed approach in their talk, using "zheny" (from "zhena", "wife") alongside "tebya" ("you") to shape the meaning.
-- 'She would make a good wife.' Vika adopts a frank mood right away, combining "byla" ("was") and "khoroshaya" ("good") so the key meaning lands right away.
-- 'How do you even live with a blunder like that?' Barinov probes calmly during the talk, weaving "kak" ("how") together with "zhivyosh" ("to live") just the way native speakers do.
-- 'I probably would have hanged myself from shame already.' Lyova establishes an honest approach in this beat, combining "uzhe" ("already, now") and "styda" ("shame") so the key meaning lands right away.
-- 'You actually had that opportunity once.' Barinov displays a wry line in their talk, putting "byla" ("was") alongside "vozmozhnost" ("possibility") in a tight, everyday turn of phrase.
-- 'Wait, when did I ever screw up?' Lyova checks boldly toward Barinov here, anchoring the Russian line on "kogda" ("when") and "oblazhalsya" ("screw up, mess up") without extra filler.
-- 'Let me remind you.' Barinov favors a natural rhythm with Vika, using "napomnyu" (from "napomnit", "will remind") alongside "tebe" ("for you, to you") to shape the meaning.
-- 'Now I am reminding you.' Lyova displays a lively position as the scene unfolds, weaving "teper" ("now") together with "napominayu" ("reminds of") just the way native speakers do.
+- 'Everyone has already gone home.' Lyova speaks up pointedly beside Barinov, bringing things back to earth after the buildup.
+- 'I am heading out right now myself.' Vika frames one telling element for Lyova: "seychas" means "now", and it carries the main weight of what Vika is saying.
+- 'See you tomorrow.' Lyova shares this answer right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'And when are you going home?' Barinov probes curiously if there is more going on behind the scenes.
+- 'I will work for a little while longer.' Lyova reaches for one clear expression with Barinov: "porabotayu" means "to work for a while" (from "porabotat"), giving the line its exact edge.
+- 'You do not have a wife.' Barinov delivers the thought at once: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'She would make a good wife.' Vika reacts boldly with a shrug, without trying to dress up how she really feels.
+- 'How do you even live with a blunder like that?' Barinov highlights this direct touch toward Vika: "kosyakom" means "hers" (from "kosyak"), giving the line its exact edge.
+- 'I probably would have hanged myself from shame already.' Lyova brings the comeback plainly here: the "-sya" ending on "povesilsya" ("hang oneself") turns the action inward or makes it happen between people naturally.
+- 'You actually had that opportunity once.' Barinov pushes back honestly beside Vika, saying out loud what both of them already know.
+- 'Wait, when did I ever screw up?' Lyova colors this direct expression in reply: "oblazhalsya" means "screw up, mess up" (from "oblazhatsya"), giving the line its exact edge.
+- 'Let me remind you.' Barinov drops this update with candor: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Now I am reminding you.' Lyova pushes back evenly during the talk, saying out loud what both of them already know.

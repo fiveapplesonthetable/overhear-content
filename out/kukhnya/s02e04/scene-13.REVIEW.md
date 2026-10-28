@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sasha, I need to talk to you, basically.' Sasha conveys an earnest approach toward Ainura, weaving "nado" ("it is necessary") together with "pogovorit" ("to talk") just the way native speakers do.
-- 'I need to talk to you too.' Ainura favors a brisk mood in front of Sasha, putting "tozhe" ("too") alongside "nuzhno" ("necessary") in a tight, everyday turn of phrase.
-- 'Just not out here.' Sasha projects a natural footing at this moment, building the phrase around "tolko" ("only") and "zdes" ("here") for a crisp, natural delivery.
-- 'Sasha, will you be much longer?' Ainura challenges promptly to make the point, joining "skoro" ("soon") to "sash" ("Sasha") so every word pulls its weight.
-- 'I actually wanted to talk.' Max keeps a clear direction on the spot, weaving "voobshche-to" ("actually") together with "pogovorit" ("to talk") just the way native speakers do.
-- 'Come on in, let us talk.' Ainura strikes an unhurried direction on the spot, using "zakhodi" (from "zakhodit", "come in") alongside "pogovorim" ("we'll have a talk") to shape the meaning.
-- 'How do you like it?' Sasha inquires promptly on the spot, putting "kak" ("how") alongside "tebe" ("for you, to you") in a tight, everyday turn of phrase.
-- 'Very beautiful! I am going to Cyprus.' Ainura conveys an easygoing tone in the scene, joining "ochen" ("very much") to "krasivo" ("beautifully") so every word pulls its weight.
-- 'And I will be wearing it in Cyprus.' Sasha brings an honest tack beside Ainura, anchoring the Russian line on "budu" ("will be") and "nem" ("him") without extra filler.
-- 'And then without it.' Ainura sustains an emphatic posture in their talk, anchoring the Russian line on "potom" ("then") and "no" ("but") without extra filler.
-- 'Come here.' Sasha sustains a candid approach as the scene unfolds, building the phrase around "idi" ("go") and "syuda" ("here") for a crisp, natural delivery.
-- 'Do not touch those.' Ainura picks a candid bearing toward Sasha, leaning on "trogay" ("touch") before closing the thought with "ne" ("not").
-- 'I bought them for my nephew.' Max offers a frank tack without hesitation, building the phrase around "kupil" ("bought") and "plemyanniku" ("nephew") for a crisp, natural delivery.
+- 'Sasha, I need to talk to you, basically.' Sasha sharpens this telling detail for Ainura: "pogovorit" means "to talk", and it carries the main weight of what Sasha is saying.
+- 'I need to talk to you too.' Ainura gives this statement on cue: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Just not out here.' Sasha jumps in evenly without holding back, shifting the whole mood of the room in a single beat.
+- 'Sasha, will you be much longer?' Ainura grounds one concrete expression with Sasha: "skoro" means "soon", and it carries the main weight of what Ainura is saying.
+- 'I actually wanted to talk.' Max offers that remark at once: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Come on in, let us talk.' Ainura replies candidly toward Sasha, leaving no doubt about where she stands.
+- 'How do you like it?' Sasha sends this update in earnest: putting the question word "kak" right at the front of the line lets Ainura hear the point of the question on the very first beat.
+- 'Very beautiful! I am going to Cyprus.' Ainura fires back decisively without a pause, bringing things back to earth after the buildup.
+- 'And I will be wearing it in Cyprus.' Sasha continues briskly to be clear, so Ainura knows she is not just making small talk.
+- 'And then without it.' Ainura uses one loaded expression at once: "potom" means "then", and it carries the main weight of what Ainura is saying.
+- 'Come here.' Sasha lays out that line frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Do not touch those.' Ainura holds firm at once to settle things, saying out loud what both of them already know.
+- 'I bought them for my nephew.' Max uses one sharp detail with Ainura: "plemyanniku" means "nephew" (from "plemyannik"), giving the line its exact edge.

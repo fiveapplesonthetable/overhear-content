@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Vika asks wryly as they speak, combining "zdes" ("here") and "delayesh" ("are you doing") so the key meaning lands right away.
-- 'Someone has to drive you to work.' Max picks a firm line in front of Vika, leaning on "dolzhen" ("has to, must") before closing the thought with "otvezti" ("to drive, to take").
-- 'Is everything alright? Are you Vika's husband?' The guest wonders calmly across the room, joining "normalno" ("fine, OK") to "muzh" ("husband") so every word pulls its weight.
-- 'No, this is just my driver.' Vika sets a clear bearing during the exchange, building the phrase around "prosto" ("just") and "voditel" ("driver") for a crisp, natural delivery.
-- 'Vika is joking, listen, what driver?' Max probes steadily during the talk, linking "shutit" ("is joking"), "slushay" ("listen"), and "voditel" ("driver") in one brisk exchange.
-- 'Ah, I forgot, sorry, just a cook.' Vika chooses an unhurried footing in their talk, weaving "zabyla" ("forgot") together with "prosti" ("sorry, forgive me") just the way native speakers do.
-- 'Are you embarrassed by me? Max, what are you babbling about?' The guest questions dryly at this point, combining "stesnyayeshsya" ("are embarrassed by") and "nesyosh" ("are carrying") so the key meaning lands right away.
-- 'Darling, I am waiting for you in the car, you need to return to work.' Max brings an honest mood as they talk, pairing "vozvrashchatsya" ("to return") with "lyubimaya" ("favourite, beloved") so the "-sya" ending carries the action.
-- 'Otherwise the owner of the hotel will fire you.' Max shares a direct tempo in front of the guest, leaning on "khozyain" ("owner") before closing the thought with "otelya" ("of the hotel").
-- 'She works at my hotel, it is a little joke.' Max projects a frank attitude right away, pairing "otele" ("in the hotel") with "rabotayet" ("works") to get the point across in plain spoken Russian.
-- 'Do you have your own hotel?' The guest probes warmly without a pause, linking "otel" ("hotel"), "vas" ("you"), and "svoy" ("my own") in one brisk exchange.
-- 'Yes, and a restaurant, though I started out as a driver.' Max strikes a steady note in the conversation, joining "restoran" ("restaurant") to "nachinal" ("to begin, to start") so every word pulls its weight.
+- 'What are you doing here?' Vika leans on this vivid word toward the guest: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
+- 'Someone has to drive you to work.' Max emphasizes this vivid touch right here: "dolzhen" means "has to, must", and it carries the main weight of what Max is saying.
+- 'Is everything alright? Are you Vika's husband?' The guest tests wryly where this conversation is heading next.
+- 'No, this is just my driver.' Vika picks one memorable element for Max: "voditel" means "driver", and it carries the main weight of what Vika is saying.
+- 'Vika is joking, listen, what driver?' Max voices that line briskly now: putting the question word "kakoy" right at the front of the line lets the guest hear the point of the question on the very first beat.
+- 'Ah, I forgot, sorry, just a cook.' Vika responds bluntly during the talk, steering the talk right where she wants it.
+- 'Are you embarrassed by me? Max, what are you babbling about?' The guest anchors one concrete detail for Max: "stesnyayeshsya" means "are embarrassed by" (from "stesnyatsya"), giving the line its exact edge.
+- 'Darling, I am waiting for you in the car, you need to return to work.' Max offers that remark before Vika: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Otherwise the owner of the hotel will fire you.' Max opens up at once on the spot, grounding the moment in plain reality.
+- 'She works at my hotel, it is a little joke.' Max favors one telling expression toward Vika: "rabotayet" means "works" (from "rabotat"), giving the line its exact edge.
+- 'Do you have your own hotel?' The guest offers the reaction on cue: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Yes, and a restaurant, though I started out as a driver.' Max replies dryly with a sigh, without trying to dress up how he really feels.

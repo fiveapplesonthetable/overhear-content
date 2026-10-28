@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Today we will get rid of German forever.' Barinov picks a measured note in the conversation, pairing "segodnya" ("today") with "izbavimsya" ("to get rid of") to get the point across in plain spoken Russian.
-- 'Chef, please tell us your whole plan.' German holds a lively tack in front of Vika, using "rasskazhite" (from "rasskazat", "tell") alongside "plan" ("plan") to shape the meaning.
-- 'First we will deprive him of those pills.' Barinov shows an easygoing direction straight away, building the phrase around "snachala" ("first, at first") and "lishim" ("deprive, suspend") for a crisp, natural delivery.
-- 'We will lure him into a trap.' Barinov presents a lively approach in this beat, combining "zamanim" ("to lure, to entice") and "lovushku" ("trap") so the key meaning lands right away.
-- 'And we will interrupt at the most interesting part.' Barinov displays a calm posture for German, combining "prervyom" ("to interrupt") and "samom" ("very") so the key meaning lands right away.
-- 'But first we need to warm him up well.' Barinov picks a pointed attitude right away, building the phrase around "snachala" ("first, at first") and "nuzhno" ("necessary") for a crisp, natural delivery.
-- 'Vika, maybe we could have dinner together tonight?' German probes pointedly with Barinov now, anchoring the Russian line on "mozhet" ("can") and "segodnya" ("today") without extra filler.
-- 'I will book a nice table for us right now.' German adopts a warm attitude as the scene unfolds, putting "seychas" ("now") alongside "zakazhu" ("will order") in a tight, everyday turn of phrase.
-- 'Thank you, but I have already ordered everything.' Vika holds a natural line toward Barinov, leaning on "spasibo" ("thank you") before closing the thought with "uzhe" ("already, now").
-- 'We will have dinner tonight at my place.' Vika responds bluntly for German's benefit, using the everyday "u menya" ("by me") alongside "pouzhinayem" ("to have dinner") to show what belongs to the speaker.
-- 'Here is Viktoriya Sergeyevna's favorite wine.' Barinov sets a resolute tempo without hesitation, linking "lyubimoye" ("favorite") directly with "vino" ("wine"), since Russian drops "is" and "are" in the present.
-- 'May I take this bottle?' German checks decisively in their exchange, weaving "mozhno" ("may, can") together with "vozmu" ("will get") just the way native speakers do.
+- 'Today we will get rid of German forever.' Barinov emphasizes one colorful element on cue: "izbavimsya" means "to get rid of" (from "izbavitsya"), giving the line its exact edge.
+- 'Chef, please tell us your whole plan.' German frames the thought frankly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'First we will deprive him of those pills.' Barinov steps in dryly around German, so German knows he is not just making small talk.
+- 'We will lure him into a trap.' Barinov anchors this vivid word in earnest: "lovushku" means "trap" (from "lovushka"), giving the line its exact edge.
+- 'And we will interrupt at the most interesting part.' Barinov pushes back sharply with a sigh, shifting the whole mood of the room in a single beat.
+- 'But first we need to warm him up well.' Barinov holds firm firmly in their talk, grounding the moment in plain reality.
+- 'Vika, maybe we could have dinner together tonight?' German frames one classic term with Barinov: "pouzhinayem" means "to have dinner" (from "pouzhinat"), giving the line its exact edge.
+- 'I will book a nice table for us right now.' German reacts warmly with a sigh, without trying to dress up how he really feels.
+- 'Thank you, but I have already ordered everything.' Vika proceeds briskly on the spot, grounding the moment in plain reality.
+- 'We will have dinner tonight at my place.' Vika leans on one clear term in reply: "pouzhinayem" means "to have dinner" (from "pouzhinat"), giving the line its exact edge.
+- 'Here is Viktoriya Sergeyevna's favorite wine.' Barinov frames that answer without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'May I take this bottle?' German checks briskly where this conversation is heading next.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing here?' Barinov inquires honestly beside the guest, building the phrase around "tut" ("here") and "delayete" ("are doing") for a crisp, natural delivery.
-- 'My daughter is getting married.' The guest takes a resolute footing in front of Barinov, joining "doch" ("daughter") to "vykhodit" ("goes out") so every word pulls its weight.
-- 'My presence is more than logical.' The guest maintains a frank position straight away, linking "prisutstviye" ("presence") directly with "boleye" ("more"), since Russian drops "is" and "are" in the present.
-- 'She is not getting married in my office.' Barinov presents a calm angle right away, linking "zamuzh" ("in marriage"), "vykhodit" ("goes out"), and "kabinete" ("office") in one brisk exchange.
-- 'Yes, of course.' The guest maintains a lively style without hesitation, putting "konechno" ("of course") alongside "da" ("yes") in a tight, everyday turn of phrase.
-- 'Do you have some business with me?' Barinov checks lightly from the start, weaving "delo" ("matter") together with "vas" ("you") just the way native speakers do.
-- 'Or did you simply miss me?' Barinov inquires decisively in the room, joining "prosto" ("just") to "soskuchilis" ("missed") so every word pulls its weight.
-- 'In short, what do you need?' Barinov quizzes firmly toward the guest here, weaving "koroche" ("long story short") together with "nuzhno" ("necessary") just the way native speakers do.
-- 'I do not know whether you remember or not.' The guest chooses a pointed angle at this moment, combining "znayu" ("know") and "pomnish" ("do you remember") so the key meaning lands right away.
-- 'In our family there is a tradition.' The guest favors an honest style at this moment, linking "semye" ("family"), "yest" ("there is"), and "traditsiya" ("tradition") in one brisk exchange.
-- 'To make cookies from the family recipe.' The guest projects an earnest angle in their talk, leaning on "delat" ("do") before closing the thought with "pechenye" ("cookies, pastry").
-- 'And I want the chefs to bake these cookies.' The guest sustains a steady course toward Barinov, building the phrase around "khochu" ("want") and "povara" ("cook") for a crisp, natural delivery.
+- 'What are you doing here?' Barinov questions quietly what the guest is actually getting at here.
+- 'My daughter is getting married.' The guest focuses on this vivid term with Barinov: "vykhodit" means "goes out", and it carries the main weight of what the guest is saying.
+- 'My presence is more than logical.' The guest voices this warning without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'She is not getting married in my office.' Barinov follows up lightly hearing the guest, leaving no doubt about where he stands.
+- 'Yes, of course.' The guest highlights this telling detail on cue: "konechno" means "of course", and it carries the main weight of what the guest is saying.
+- 'Do you have some business with me?' Barinov aims that point right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Or did you simply miss me?' Barinov probes earnestly how the guest expects that to work in practice.
+- 'In short, what do you need?' Barinov centers one vivid expression at once: "koroche" means "long story short", and it carries the main weight of what Barinov is saying.
+- 'I do not know whether you remember or not.' The guest chooses this direct choice at once: "pomnish" means "do you remember" (from "pomnit"), giving the line its exact edge.
+- 'In our family there is a tradition.' The guest speaks up steadily in their talk, keeping the focus on what actually matters here.
+- 'To make cookies from the family recipe.' The guest underscores this telling term in earnest: "semeynomu" means "family" (from "semeynyy"), giving the line its exact edge.
+- 'And I want the chefs to bake these cookies.' The guest stands firm right away on the spot, saying out loud what both of them already know.

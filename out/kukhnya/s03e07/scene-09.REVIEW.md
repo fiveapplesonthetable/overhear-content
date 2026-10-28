@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, I am the head chef of the restaurant.' Barinov conveys a clear course in front of the guest, putting "dobryy" ("good") alongside "den" ("day") in a tight, everyday turn of phrase.
-- 'Tell me, was it you who called for me just now?' Barinov quizzes wryly as the talk turns, linking "skazhite" ("tell"), "seychas" ("now"), and "zvali" ("called") in one brisk exchange.
-- 'Yes, I called, I found a cockroach in my plate.' The guest favors a warm note across the room, using "zval" (from "zvat", "called, invited") alongside "tarelke" ("plate") to shape the meaning.
-- 'Do you understand that I can sue you for this?' The guest asks sharply as they speak, anchoring the Russian line on "ponimayete" ("do you understand") and "mogu" ("can") without extra filler.
-- 'I do not understand you, I do not see a cockroach here.' Barinov chooses a grounded tone as the scene unfolds, anchoring the Russian line on "ponimayu" ("understand") and "vizhu" ("see") without extra filler.
-- 'So that is how you talk to me, yes?' The guest probes earnestly beside Barinov, linking "kak" ("how"), "razgovarivayete" ("are talking"), and "vot" ("there, here") in one brisk exchange.
-- 'By the way, I am a well-known journalist.' The guest chooses a playful bearing for Barinov, using "prochim" (from "prochiy", "other") alongside "izvestnyy" ("famous, well-known") to shape the meaning.
-- 'And all of Moscow will soon find out about this.' The guest chooses an easygoing bearing in the room, joining "skoro" ("soon") to "uznayet" ("will find out") so every word pulls its weight.
-- 'I firmly promise you that.' The guest shows an honest line in this beat, weaving "tvyordo" ("firmly") together with "obeshchayu" ("promise") just the way native speakers do.
-- 'Right now I am going to photograph it.' The guest establishes a pointed rhythm at once, anchoring the Russian line on "seychas" ("now") and "sobirayus" ("am planning") without extra filler.
-- 'Ah, so you are talking about this?' Barinov questions quietly as the talk turns, using "govorite" (from "govorit", "say, speak") alongside "tak" ("so") to shape the meaning.
-- 'Listen, this is not a cockroach at all.' Barinov conveys a wry view right away, weaving "poslushayte" ("listen") together with "vovse" ("at all") just the way native speakers do.
+- 'Good afternoon, I am the head chef of the restaurant.' Barinov fires back wryly during the talk, making his position completely clear.
+- 'Tell me, was it you who called for me just now?' Barinov centers this clear element with the guest: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
+- 'Yes, I called, I found a cockroach in my plate.' The guest speaks up honestly before Barinov, before Barinov can change the subject.
+- 'Do you understand that I can sue you for this?' The guest tests sharply in front of Barinov without any preamble.
+- 'I do not understand you, I do not see a cockroach here.' Barinov reaches for this vivid element right here: "tarakana" means "cockroach" (from "tarakan"), giving the line its exact edge.
+- 'So that is how you talk to me, yes?' The guest brings this line toward Barinov: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'By the way, I am a well-known journalist.' The guest responds steadily without a pause, saying out loud what both of them already know.
+- 'And all of Moscow will soon find out about this.' The guest reaches for one vivid expression with Barinov: "uznayet" means "will find out" (from "uznat"), giving the line its exact edge.
+- 'I firmly promise you that.' The guest grounds this telling expression in earnest: "obeshchayu" means "promise" (from "obeshchat"), giving the line its exact edge.
+- 'Right now I am going to photograph it.' The guest cuts in boldly as things stand, without trying to dress up how he really feels.
+- 'Ah, so you are talking about this?' Barinov picks one telling element for the guest: "govorite" means "say, speak" (from "govorit"), giving the line its exact edge.
+- 'Listen, this is not a cockroach at all.' Barinov fires back earnestly in this moment, grounding the moment in plain reality.

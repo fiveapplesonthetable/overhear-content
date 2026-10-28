@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, do not push, you cannot just walk out of a restaurant.' Barinov shares a serious tone in the scene, combining "davi" ("pressure") and "restorana" ("restaurant") so the key meaning lands right away.
-- 'First I need to appoint someone in my place.' Barinov strikes a pointed direction during the exchange, building the phrase around "nuzhno" ("necessary") and "snachala" ("first, at first") for a crisp, natural delivery.
-- 'Chef, have you read my plan yet?' Max inquires plainly during the talk, building the phrase around "uzhe" ("already, now") and "prochitali" ("to read") for a crisp, natural delivery.
-- 'Here, meet him, I will try this fellow out.' Barinov projects a direct direction with Nagiyev, pairing "znakomsya" ("get acquainted") with "cheloveka" ("a man, a person") to get the point across in plain spoken Russian.
-- 'He even drew up a kitchen optimization plan.' Barinov chooses a candid tack in the conversation, linking "plan" ("plan"), "optimizatsii" ("optimization"), and "kukhni" ("kitchen") in one brisk exchange.
-- 'By the way, I have always liked him a lot.' Nagiyev brings a direct approach in the conversation, leaning on "kstati" ("by the way") before closing the thought with "vsegda" ("always").
-- 'Kitchen, attention, I am appointing Lavrov head chef!' Barinov favors a thoughtful rhythm without hesitation, building the phrase around "kukhnya" ("kitchen") and "vnimaniye" ("attention") for a crisp, natural delivery.
-- 'For now only on a trial period, for one day.' Barinov takes a lively bearing as the scene unfolds, anchoring the Russian line on "poka" ("bye") and "tolko" ("only") without extra filler.
-- 'Lyova, I will explain everything to you later.' Barinov strikes an unhurried line at this moment, building the phrase around "potom" ("then") and "obyasnyu" ("I'll explain") for a crisp, natural delivery.
-- 'That is all, guys, keep working calmly!' Barinov shows a playful tempo as they talk, pairing "rebyata" ("the boys, the lads") with "prodolzhayte" ("to continue") to get the point across in plain spoken Russian.
-- 'I urgently need to sort out some paperwork.' Barinov adopts a thoughtful bearing as the scene unfolds, anchoring the Russian line on "nado" ("it is necessary") and "srochno" ("urgent, urgently") without extra filler.
-- 'Thank you for the trust, I will not let you down!' Max picks a measured attitude for Nagiyev, putting "spasibo" ("thank you") alongside "doveriye" ("trust") in a tight, everyday turn of phrase.
+- 'Dima, do not push, you cannot just walk out of a restaurant.' Barinov opens up plainly beside Max, refusing to let the moment slip past.
+- 'First I need to appoint someone in my place.' Barinov stresses one direct piece in earnest: "naznachit" means "to set, to appoint", and it carries the main weight of what Barinov is saying.
+- 'Chef, have you read my plan yet?' Max makes that thought in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Here, meet him, I will try this fellow out.' Barinov jumps in dryly beside Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'He even drew up a kitchen optimization plan.' Barinov emphasizes one sharp choice for Max: "optimizatsii" means "optimization" (from "optimizatsiya"), giving the line its exact edge.
+- 'By the way, I have always liked him a lot.' Nagiyev frames this point briskly now: opening with "kstati" ("by the way") lets Nagiyev drop a new detail into the conversation as if it just crossed his mind.
+- 'Kitchen, attention, I am appointing Lavrov head chef!' Barinov speaks up firmly facing Max, leaving no doubt about where he stands.
+- 'For now only on a trial period, for one day.' Barinov focuses on this key piece for Nagiyev: "ispytatelnyy" means "period", and it carries the main weight of what Barinov is saying.
+- 'Lyova, I will explain everything to you later.' Barinov stresses one loaded choice with Max: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
+- 'That is all, guys, keep working calmly!' Barinov steps in at once hearing Nagiyev, grounding the moment in plain reality.
+- 'I urgently need to sort out some paperwork.' Barinov spotlights one loaded term right here: "razobratsya" means "to deal with", and it carries the main weight of what Barinov is saying.
+- 'Thank you for the trust, I will not let you down!' Max phrases this point facing Nagiyev: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, I need your help as a man.' Katya projects a firm angle as they talk, linking "nuzhen" ("is needed"), "kak" ("how"), and "muzhchina" ("man") in one brisk exchange.
-- 'Katya, I am actually dating Nastya.' Kostya adopts a natural angle right away, weaving "voobshche-to" ("actually") together with "vstrechayus" ("to meet, to date") just the way native speakers do.
-- 'A warning light is blinking on my motorcycle.' Katya favors an unhurried approach as the scene unfolds, joining "mototsikla" ("of the motorcycle") to "lampochka" ("warning light") so every word pulls its weight.
-- 'Will you take a look in the courtyard right now?' Katya challenges dryly without holding back, leaning on "posmotrish" ("you will see") before closing the thought with "seychas" ("now").
-- 'No problem at all, of course I will look.' Kostya conveys a measured position in their talk, building the phrase around "vopros" ("question, matter") and "konechno" ("of course") for a crisp, natural delivery.
-- 'Nastya has no objections to motorcycles.' Kostya sets an easygoing bearing straight away, combining "mototsiklam" ("toward motorcycles") and "voprosov" ("questions") so the key meaning lands right away.
-- 'Hello, are you here about the repair?' Max probes wryly without a pause, weaving "zdravstvuyte" ("hello") together with "povodu" ("matter") just the way native speakers do.
-- 'You know, we already fixed everything ourselves.' Max presents a resolute approach during the exchange, anchoring the Russian line on "znayete" ("know") and "uzhe" ("already, now") without extra filler.
-- 'So excuse us for the false alarm.' Max favors a firm style in front of Katya, joining "izvinite" ("sorry, excuse me") to "lozhnyy" ("fake, false") so every word pulls its weight.
-- 'Well, maybe I should take a look after all?' Kostya wonders candidly across the room, putting "mozhet" ("can") alongside "vzglyanu" ("will take a look") in a tight, everyday turn of phrase.
-- 'Or maybe some good cognac instead?' Max presses dryly without a pause, weaving "mozhet" ("can") together with "luchshe" ("better") just the way native speakers do.
-- 'It is on the house at the restaurant's expense!' Max adopts a measured line at this moment, leaning on "ugoshchayu" ("treat") before closing the thought with "besplatno" ("for free").
-- 'Let's drink one more little glass.' Max maintains a thoughtful posture on the spot, joining "davayte" ("let's") to "vypyem" ("will drink") so every word pulls its weight.
-- 'Take your toolbox, all the best, goodbye!' Max picks an honest tempo in the room, building the phrase around "chemodanchik" ("little toolbox") and "zabirayem" ("we are taking") for a crisp, natural delivery.
+- 'Kostya, I need your help as a man.' Katya emphasizes one pointed piece at once: "muzhchina" means "man", and it carries the main weight of what Katya is saying.
+- 'Katya, I am actually dating Nastya.' Kostya reacts promptly to be clear, keeping the focus on what actually matters here.
+- 'A warning light is blinking on my motorcycle.' Katya emphasizes one pointed expression for Kostya: "mototsikla" means "of the motorcycle" (from "mototsikl"), giving the line its exact edge.
+- 'Will you take a look in the courtyard right now?' Katya aims the reaction facing Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'No problem at all, of course I will look.' Kostya fires back at once during the talk, steering the talk right where he wants it.
+- 'Nastya has no objections to motorcycles.' Kostya features one telling choice in reply: "mototsiklam" means "toward motorcycles" (from "mototsikl"), giving the line its exact edge.
+- 'Hello, are you here about the repair?' Max voices this answer without fuss: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'You know, we already fixed everything ourselves.' Max follows up quietly facing Kostya, refusing to let the moment slip past.
+- 'So excuse us for the false alarm.' Max sharpens one memorable term at once: "lozhnyy" means "fake, false", and it carries the main weight of what Max is saying.
+- 'Well, maybe I should take a look after all?' Kostya shapes that reply with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Or maybe some good cognac instead?' Max probes briskly as Katya tries to explain the situation.
+- 'It is on the house at the restaurant's expense!' Max favors this clear element toward Kostya: "zavedeniya" means "establishment" (from "zavedeniye"), giving the line its exact edge.
+- 'Let's drink one more little glass.' Max gives that thought to Katya: the word "davayte" is the polite or group version of "let's", inviting Katya into the plan right away.
+- 'Take your toolbox, all the best, goodbye!' Max holds firm right away with a smile, bringing things back to earth after the buildup.

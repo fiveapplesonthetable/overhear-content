@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostik, close your eyes and open your mouth.' Nastya adopts an easygoing line beside Barinov, pairing "zakroy" ("shut, close") with "glaza" ("eyes") to get the point across in plain spoken Russian.
-- 'Why should I open my mouth right now?' Barinov inquires pointedly right away, linking "zachem" ("what for"), "otkryvat" ("open"), and "seychas" ("now") in one brisk exchange.
-- 'It is necessary, come on, open up quickly.' Nastya shows an emphatic stance in the conversation, building the phrase around "nuzhno" ("necessary") and "davay" ("let's") for a crisp, natural delivery.
-- 'Nastya, is this some kind of joke?' Barinov quizzes plainly to make the point, building the phrase around "shutka" ("joke, prank") and "nastya" ("Nastya") for a crisp, natural delivery.
-- 'Vitya, the inspector already called me.' Mikhail adopts an earnest rhythm with Barinov, building the phrase around "inspektor" ("inspector") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'He will be here very soon.' Mikhail brings a wry attitude in this beat, anchoring the Russian line on "sovsem" ("at all") and "skoro" ("soon") without extra filler.
-- 'So come on, get the wheelchair ready.' Mikhail holds a warm style straight away, pairing "davay" ("let's") with "gotov" ("prepare") to get the point across in plain spoken Russian.
-- 'Wait, where is my wheelchair?' Barinov probes boldly without hesitation, using "podozhdi" (from "podozhdat", "wait") alongside "gde" ("where") to shape the meaning.
-- 'How could you lose the wheelchair?' Mikhail presses pointedly in this moment, putting "kak" ("how") alongside "mogli" ("could") in a tight, everyday turn of phrase.
-- 'Hey, stop right there this instant!' Barinov shares a wry approach as they talk, building the phrase around "stoy" ("stop, wait") and "meste" ("place") for a crisp, natural delivery.
-- 'Where are you riding off to on it?' Barinov challenges decisively as the beat lands, linking "kuda" ("where to"), "yedesh" ("are driving"), and "ty" ("you") in one brisk exchange.
-- 'Well, what are you doing over there?' Mikhail asks dryly without hesitation, pairing "tam" ("there") with "delayesh" ("are you doing") to get the point across in plain spoken Russian.
+- 'Kostik, close your eyes and open your mouth.' Nastya frames this direct touch right here: "glaza" means "eyes" (from "glaz"), giving the line its exact edge.
+- 'Why should I open my mouth right now?' Barinov sends this point toward Nastya: putting the question word "zachem" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'It is necessary, come on, open up quickly.' Nastya steps in lightly in their talk, leaving no doubt about where she stands.
+- 'Nastya, is this some kind of joke?' Barinov emphasizes one clear expression right here: "shutka" means "joke, prank", and it carries the main weight of what Barinov is saying.
+- 'Vitya, the inspector already called me.' Mikhail reacts quietly on the spot, grounding the moment in plain reality.
+- 'He will be here very soon.' Mikhail continues warmly around Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'So come on, get the wheelchair ready.' Catch how Mikhail reminds Barinov with candor — the Russian word "kolyasku" ("wheelchair", built from "kolyaska") does the heavy lifting.
+- 'Wait, where is my wheelchair?' Barinov offers that remark before Nastya: putting the question word "gde" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'How could you lose the wheelchair?' Mikhail challenges bluntly where this conversation is heading next.
+- 'Hey, stop right there this instant!' Barinov highlights one clear touch in earnest: "meste" means "place" (from "mesto"), giving the line its exact edge.
+- 'Where are you riding off to on it?' Barinov shapes this answer for Mikhail: putting the question word "kuda" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
+- 'Well, what are you doing over there?' Mikhail prompts briskly before Nastya can change the subject.

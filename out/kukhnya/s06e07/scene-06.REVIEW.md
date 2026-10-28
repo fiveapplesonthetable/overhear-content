@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, maybe you should not have deceived Elena?' Lyova checks evenly to keep things clear, putting "mozhet" ("can") alongside "stoilo" ("to cost, to be worth") in a tight, everyday turn of phrase.
-- 'So that she would forbid me from working altogether?' Barinov probes steadily with Nastya now, putting "sovsem" ("at all") alongside "zapretila" ("banned") in a tight, everyday turn of phrase.
-- 'You understand, Lyova, this is a very delicate matter.' Barinov takes a resolute direction with Lyova, joining "ponimayesh" ("do you understand") to "tut" ("here") so every word pulls its weight.
-- 'It is important to manage to do more in life.' Barinov establishes a frank line at this moment, leaning on "vazhno" ("important, mattering") before closing the thought with "uspet" ("to make it").
-- 'The doctors say that he is seriously ill.' Lyova offers a resolute direction right away, weaving "vrachi" ("doctors") together with "govoryat" ("talks, says") just the way native speakers do.
-- 'He could die at any moment.' Lyova conveys an emphatic footing straight away, building the phrase around "mozhet" ("can") and "umeret" ("to die") for a crisp, natural delivery.
-- 'And who else of the girls will be here today?' Nastya quizzes frankly to keep things clear, joining "yeshchyo" ("more, still") to "devochek" ("girl") so every word pulls its weight.
-- 'Tonight it will be just the two of us.' Barinov establishes a wry footing in their talk, putting "segodnya" ("today") alongside "vecherom" ("in the evening") in a tight, everyday turn of phrase.
-- 'Can you imagine, at the last moment everyone changed their minds.' Nastya strikes an honest position at this moment, building the phrase around "predstavlyayesh" ("can you imagine") and "posledniy" ("last") for a crisp, natural delivery.
-- 'Girls are such unreliable people.' Nastya establishes a clear approach on the spot, linking "nenadyozhnyy" ("unreliable") directly with "narod" ("the people"), since Russian drops "is" and "are" in the present.
-- 'That is fine, the two of us will have a great time together!' Nastya sustains a steady line in front of Barinov, weaving "vdvoyom" ("the two of us together") together with "otlichno" ("perfect, great") just the way native speakers do.
-- 'Alright, let us order ourselves a cocktail each.' Barinov favors a calm approach in this beat, anchoring the Russian line on "davay" ("let's") and "zakazhem" ("we'll order") without extra filler.
+- 'Chef, maybe you should not have deceived Elena?' Lyova presses firmly while looking straight at Barinov here.
+- 'So that she would forbid me from working altogether?' Barinov highlights one classic term with Nastya: "zapretila" means "banned" (from "zapretit"), giving the line its exact edge.
+- 'You understand, Lyova, this is a very delicate matter.' Barinov speaks boldly with a smile, bringing things back to earth after the buildup.
+- 'It is important to manage to do more in life.' Barinov cuts in firmly with a nod, steering the talk right where he wants it.
+- 'The doctors say that he is seriously ill.' Lyova points to one colorful term at once: "vrachi" means "doctors" (from "vrach"), giving the line its exact edge.
+- 'He could die at any moment.' Lyova fires back boldly before Nastya, shifting the whole mood of the room in a single beat.
+- 'And who else of the girls will be here today?' Nastya challenges earnestly whether Barinov really thought this through.
+- 'Tonight it will be just the two of us.' Barinov reaches for one direct term in earnest: "segodnya" means "today", and it carries the main weight of what Barinov is saying.
+- 'Can you imagine, at the last moment everyone changed their minds.' Nastya replies bluntly with Barinov, steering the talk right where she wants it.
+- 'Girls are such unreliable people.' Nastya cuts in wryly without holding back, letting the remark speak for itself.
+- 'That is fine, the two of us will have a great time together!' Nastya picks one direct element for Barinov: "otlichno" means "perfect, great", and it carries the main weight of what Nastya is saying.
+- 'Alright, let us order ourselves a cocktail each.' Barinov voices that point with candor: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

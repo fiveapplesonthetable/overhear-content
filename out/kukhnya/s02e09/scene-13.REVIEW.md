@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then.' Max strikes an unhurried position in the room, pairing "nu" ("oh, come on") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'It could happen to anyone.' Kostya establishes a sharp angle in the conversation, combining "byvayet" ("there can be") and "kem" ("as what") so the key meaning lands right away.
-- 'Okay, I was late, I will not do it again.' Nastya displays a firm note across the room, anchoring the Russian line on "opozdal" ("was late, am late") and "bolshe" ("more") without extra filler.
-- 'Not really.' Max takes a thoughtful bearing in the conversation, joining "ochen" ("very much") to "ne" ("not") so every word pulls its weight.
-- 'I wanted to tell you about it yesterday.' Kostya holds a serious posture straight away, using "khotel" (from "khotet", "wanted") alongside "yeshche" ("still") to shape the meaning.
-- 'But you were not picking up the phone.' Nastya chooses a resolute note right away, pairing "trubku" ("the receiver") with "brali" ("took, were taking") to get the point across in plain spoken Russian.
-- 'Elena Pavlovna!' Max shows a pointed rhythm toward Kostya, pairing "yelena" ("Yelena") with "pavlovna" ("Pavlovna") to get the point across in plain spoken Russian.
-- 'Max, who broke the bottle?' Kostya probes naturally at this point, weaving "razbil" ("wrecked, crashed") together with "butylku" ("a bottle") just the way native speakers do.
-- 'What do you mean?' Nastya checks openly to make the point, putting all the weight on "smysle" ("sense") so the reply lands immediately.
-- 'Kristina broke it and said she is going to fire you.' Max displays a measured tone for Nastya, pairing "razbila" ("to break, to smash") with "skazala" ("told") to get the point across in plain spoken Russian.
-- 'Unless I sleep with her.' Kostya picks a playful course in front of Max, pairing "peresplyu" ("to sleep overnight") with "yesli" ("if") to get the point across in plain spoken Russian.
-- 'Sleep with who, Nastya?' Nastya checks boldly during the talk, using "kem" (from "kto", "as what") alongside "nastey" ("Nastya") to shape the meaning.
-- 'With Kristina?' Max checks briskly without hesitation, letting the single Russian word "kristinoy" ("Kris") carry the entire reaction on its own.
+- 'Well then.' Max makes this line briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'It could happen to anyone.' Kostya gives this update facing Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Okay, I was late, I will not do it again.' Nastya pushes back openly beside Kostya, grounding the moment in plain reality.
+- 'Not really.' Max frames this key touch at once: "ochen" means "very much", and it carries the main weight of what Max is saying.
+- 'I wanted to tell you about it yesterday.' Kostya grounds this clear choice right here: "soobshchit" means "inform, report", and it carries the main weight of what Kostya is saying.
+- 'But you were not picking up the phone.' Nastya responds warmly watching Max, shifting the whole mood of the room in a single beat.
+- 'Elena Pavlovna!' Max makes the thought plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Max, who broke the bottle?' Kostya hands over this statement for Nastya: putting the question word "kto" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'What do you mean?' Nastya probes calmly whether Kostya really thought this through.
+- 'Kristina broke it and said she is going to fire you.' Max spotlights one key word on cue: "razbila" means "to break, to smash" (from "razbit"), giving the line its exact edge.
+- 'Unless I sleep with her.' Kostya holds firm plainly in their talk, keeping the focus on what actually matters here.
+- 'Sleep with who, Nastya?' Nastya questions evenly about what Max just brought up.
+- 'With Kristina?' Max aims the comeback to Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.

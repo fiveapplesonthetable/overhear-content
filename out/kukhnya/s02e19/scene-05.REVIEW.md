@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, is that you?' Senya inquires earnestly to Fedya here, building the phrase around "oy" ("oh") and "eto" ("this") for a crisp, natural delivery.
-- 'It is a brand-new movie.' Fedya maintains a sharp footing with Vika, combining "kino" ("cinema, movies") and "novoye" ("new") so the key meaning lands right away.
-- 'I need it for a role.' Senya takes a grounded stance in this beat, linking "roli" ("role, part"), "nuzhnoye" ("needed"), and "dlya" ("for") in one brisk exchange.
-- 'That is what I thought.' Vika chooses a firm position in their talk, pairing "podumala" ("thought") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'What kind of movie is it?' Senya probes earnestly on the spot, combining "film" ("movie") and "chto" ("what") so the key meaning lands right away.
-- 'I did not understand a single thing.' Fedya sustains a warm stance as the scene unfolds, linking "ponyal" ("understood"), "nichego" ("nothing"), and "ne" ("not") in one brisk exchange.
-- 'Nothing whatsoever.' Senya offers a clear view across the room, combining the conversational booster "voobshche" ("in general, overall") with "nichego" ("nothing") to give the line its natural spoken rhythm.
-- 'This is not our usual trash.' Fedya sets a calm manner without hesitation, building the phrase around "barakhlo" ("junk, stuff") and "eto" ("this") for a crisp, natural delivery.
-- 'Picture a waterfall.' Senya chooses a steady bearing as they talk, building the phrase around "predstav" ("imagine") and "vodopad" ("waterfall") for a crisp, natural delivery.
-- 'Carlos is lying on the edge of a raft.' Fedya chooses a wry approach toward Vika, pairing "lezhit" ("is lying") with "krayu" ("the side, the edge") to get the point across in plain spoken Russian.
-- 'Yes, Carlos.' Senya shows a pointed stance at once, putting "da" ("yes") alongside "karlos" ("Carlos") in a tight, everyday turn of phrase.
-- 'A cold wind blowing from the shore.' Fedya takes an emphatic course across the room, linking "kholodnyy" ("cold"), "veter" ("wind"), and "berega" ("shore, bank") in one brisk exchange.
-- 'Which a human hand will never touch again.' Senya sets a thoughtful manner toward Fedya, anchoring the Russian line on "uzhe" ("already, now") and "nikogda" ("never") without extra filler.
+- 'Oh, is that you?' Senya gives the reaction to Fedya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It is a brand-new movie.' Fedya chimes in warmly during the talk, making his position completely clear.
+- 'I need it for a role.' Senya focuses on one loaded choice in earnest: "nuzhnoye" means "needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'That is what I thought.' Vika directs the reaction to Senya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'What kind of movie is it?' Senya checks openly if there is more going on behind the scenes.
+- 'I did not understand a single thing.' Fedya uses one vivid detail in earnest: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'Nothing whatsoever.' Senya directs that answer right away: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'This is not our usual trash.' Fedya answers sharply during the talk, steering the talk right where he wants it.
+- 'Picture a waterfall.' Senya leans on this vivid choice at once: "vodopad" means "waterfall", and it carries the main weight of what Senya is saying.
+- 'Carlos is lying on the edge of a raft.' Fedya responds candidly to be clear, steering the talk right where he wants it.
+- 'Yes, Carlos.' Senya steps in lightly as things stand, refusing to let the moment slip past.
+- 'A cold wind blowing from the shore.' Fedya centers one colorful word for Vika: "kholodnyy" means "cold", and it carries the main weight of what Fedya is saying.
+- 'Which a human hand will never touch again.' Senya brings this warning at once: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.

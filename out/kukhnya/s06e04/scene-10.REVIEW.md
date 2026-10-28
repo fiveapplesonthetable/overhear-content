@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, start playing, I think the inspector will come down right now.' Barinov offers a calm approach in the scene, pairing "seychas" ("now") with "nachinay" ("start") so the "-sya" ending carries the action.
-- 'You look sharp today.' Senya shows a frank note without hesitation, linking "shikarno" ("splendidly"), "vyglyadish" ("look"), and "segodnya" ("today") in one brisk exchange.
-- 'Do I look like an old inspector?' Barinov tests frankly without a pause, using "pokhozh" (from "pokhozhiy", "look like, similar") alongside "starogo" ("old") to shape the meaning.
-- 'I walk up, and the way he looks at me!' Nastya holds a brisk attitude across the room, weaving "podkhozhu" ("walk up, approach") together with "kak" ("how") just the way native speakers do.
-- 'I even felt faint.' Nastya takes a clear course in the conversation, leaning on "plokho" ("badly") before closing the thought with "stalo" ("became, came over").
-- 'Nastya, what did he order?' Barinov questions calmly for Senya's benefit, leaning on "zakazal" ("ordered") before closing the thought with "nastya" ("Nastya").
-- 'Fillet of pigeon and the fish dish.' Nastya holds a firm rhythm in their talk, anchoring the Russian line on "file" ("fillet") and "golubya" ("pigeon") without extra filler.
-- 'We will cook it right now, he will give us two stars!' Senya offers a natural view at this moment, weaving "seychas" ("now") together with "prigotovim" ("will prepare") just the way native speakers do.
-- 'I will do the cooking, and you give me clean knives.' Barinov brings an easygoing approach without hesitation, combining "gotovit" ("to cook") and "budu" ("will be") so the key meaning lands right away.
-- 'Chef, why me?' Senya prompts evenly without a pause, anchoring the Russian line on "pochemu" ("why") and "shef" ("Chef") without extra filler.
-- 'Yes, you are right, I will wash the knives myself too.' Barinov chooses a playful tack at this moment, combining "prav" ("right") and "nozhi" ("knives") so the key meaning lands right away.
-- 'Right now Daddy is going to make history!' Barinov sustains a pointed position at this moment, building the phrase around "seychas" ("now") and "papochka" ("daddy, folder") for a crisp, natural delivery.
+- 'Denis, start playing, I think the inspector will come down right now.' Barinov grounds this vivid touch toward Nastya: "inspektor" means "inspector", and it carries the main weight of what Barinov is saying.
+- 'You look sharp today.' Senya hands over that thought for Nastya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Do I look like an old inspector?' Barinov presses point-blank while looking straight at Nastya here.
+- 'I walk up, and the way he looks at me!' Nastya uses this clear expression right here: "podkhozhu" means "walk up, approach" (from "podkhodit"), giving the line its exact edge.
+- 'I even felt faint.' Nastya lays out this point beside Barinov: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
+- 'Nastya, what did he order?' Barinov prompts deadpan to see how Senya will answer on the spot.
+- 'Fillet of pigeon and the fish dish.' Nastya focuses on one key detail toward Barinov: "golubya" means "pigeon", and it carries the main weight of what Nastya is saying.
+- 'We will cook it right now, he will give us two stars!' Senya weighs in earnestly during the talk, to clear the air between them once and for all.
+- 'I will do the cooking, and you give me clean knives.' Barinov continues bluntly without holding back, leaving no doubt about where he stands.
+- 'Chef, why me?' Senya puts that answer around Nastya: putting the question word "pochemu" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'Yes, you are right, I will wash the knives myself too.' Barinov reaches for one clear expression in earnest: "nozhi" means "knives" (from "nozh"), giving the line its exact edge.
+- 'Right now Daddy is going to make history!' Barinov stands firm boldly with a sigh, to clear the air between them once and for all.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is none of your business where I am calling.' Max conveys a wry attitude at this moment, joining "delo" ("matter") to "kuda" ("where to") so every word pulls its weight.
-- 'This turned out really badly.' Kostya sets a direct attitude at this moment, anchoring the Russian line on "poluchilos" ("worked out") and "ochen" ("very much") without extra filler.
-- 'Or rather, I do not even know how this happened.' Max sustains an earnest angle for Kostya, using "verneye" (from "verno", "more accurately") alongside "znayu" ("know") to shape the meaning.
-- 'Oh, hey there, Kostyan.' Max shares a resolute tone at this moment, weaving "zdorovo" ("great, cool") together with "kostyan" ("Kostyan") just the way native speakers do.
-- 'I am calling Max right now.' Max displays a natural position in their talk, anchoring the Russian line on "zvonyu" ("call") and "ya" ("I") without extra filler.
-- 'Wait, do not call anywhere.' Kostya conveys an unhurried footing on the spot, linking "podozhdi" ("wait"), "nikuda" ("nowhere, anywhere"), and "zvoni" ("call") in one brisk exchange.
-- 'I do not want to lose him, do you understand?' Max tests candidly on the spot, combining "khochu" ("want") and "teryat" ("to lose") so the key meaning lands right away.
-- 'Me, go to sleep?' Kostya wonders honestly in the scene, anchoring the Russian line on "spat" ("sleep") and "ya" ("I") without extra filler.
-- 'And about football.' Max adopts a direct direction in the conversation, putting all the weight on "futbole" ("football, soccer") so the reply lands immediately.
-- 'Just be quiet, I know it myself!' Kostya offers a calm position for Max, weaving "pomolchi" ("to be quiet") together with "znayu" ("know") just the way native speakers do.
-- 'Who did not see that I wanted to sit down and stand up?' Max probes earnestly without hesitation, leaning on "videl" ("saw, have seen") before closing the thought with "khotel" ("wanted").
-- 'And so what?' Kostya wonders briskly in their exchange, using "chyo" ("what") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Because that is what I wanted to do!' Max sets a grounded style with Kostya, leaning on "khotel" ("wanted") before closing the thought with "to" ("that").
+- 'It is none of your business where I am calling.' Max fires back promptly facing Kostya, watching Kostya's face to see how the news lands.
+- 'This turned out really badly.' Kostya spotlights one vivid term in reply: "poluchilos" means "worked out" (from "poluchitsya"), giving the line its exact edge.
+- 'Or rather, I do not even know how this happened.' Max stands firm bluntly facing Kostya, saying out loud what both of them already know.
+- 'Oh, hey there, Kostyan.' Max opens up dryly around Kostya, refusing to let the moment slip past.
+- 'I am calling Max right now.' Max frames one colorful piece for Kostya: "zvonyu" means "call" (from "zvonit"), giving the line its exact edge.
+- 'Wait, do not call anywhere.' Kostya sends the thought beside Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I do not want to lose him, do you understand?' Max tests plainly before Kostya can change the subject.
+- 'Me, go to sleep?' Kostya centers one vivid choice in reply: "spat" means "sleep", and it carries the main weight of what Kostya is saying.
+- 'And about football.' Max phrases this line with warmth: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Just be quiet, I know it myself!' Kostya weighs in promptly toward Max, bringing things back to earth after the buildup.
+- 'Who did not see that I wanted to sit down and stand up?' Max highlights one pointed term for Kostya: "khotel" means "wanted" (from "khotet"), giving the line its exact edge.
+- 'And so what?' Kostya directs that line with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Because that is what I wanted to do!' Max answers pointedly hearing Kostya, to clear the air between them once and for all.

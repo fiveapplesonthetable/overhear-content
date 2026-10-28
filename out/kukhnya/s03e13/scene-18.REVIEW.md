@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what was Vika doing here, I did not understand?' Kristina probes sharply in front of Nagiyev, joining "zdes" ("here") to "delala" ("did") so every word pulls its weight.
-- 'She came to see me about work.' Nagiyev shares a playful rhythm as the scene unfolds, leaning on "rabote" ("work") before closing the thought with "prikhodila" ("to come").
-- 'I am calm, I am completely calm.' Nagiyev sets an emphatic attitude on the spot, combining "spokoyen" ("calm") and "sovershenno" ("quite, completely") so the key meaning lands right away.
-- 'I hear the sound of the surf, nothing disturbs me.' Nagiyev offers a calm approach at once, building the phrase around "slyshu" ("hear") and "shum" ("noise") for a crisp, natural delivery.
-- 'Calmness is slowly spreading through me.' Nagiyev chooses a grounded tempo in the room, combining "spokoystviye" ("calmness, composure") and "medlenno" ("slowly") so the key meaning lands right away.
-- 'Nothing is working except anger!' Nagiyev projects a wry posture in front of Vika, linking "poluchayetsya" ("works out"), "zlosti" ("anger, malice"), and "nichego" ("nothing") in one brisk exchange.
-- 'And why are you getting so angry?' Kristina challenges steadily in their exchange, joining "pochemu" ("why") to "zlishsya" ("to be angry") so every word pulls its weight.
-- 'Because I do not know how to control my emotions!' Nagiyev favors an emphatic footing at once, combining "potomu" ("because") and "umeyu" ("to know how to") so the key meaning lands right away.
-- 'I am also very glad to see you, Dima.' Kristina favors a lively position with Nagiyev, building the phrase around "tozhe" ("too") and "ochen" ("very much") for a crisp, natural delivery.
-- 'First of all, your door was unlocked.' Kristina conveys a thoughtful manner with Vika, joining "vo-pervykh" ("first of all") to "dver" ("door") so every word pulls its weight.
-- 'And second of all, I found your documents.' Kristina holds a steady stance in front of Nagiyev, anchoring the Russian line on "vo-vtorykh" ("second") and "nashla" ("found, did you find") without extra filler.
-- 'Here are your important papers, take them.' Vika brings a wry line straight away, combining "vazhnyye" ("important") and "bumagi" ("papers") so the key meaning lands right away.
+- 'And what was Vika doing here, I did not understand?' Kristina questions plainly why things suddenly took this turn between them.
+- 'She came to see me about work.' Nagiyev highlights this key detail for Vika: "prikhodila" means "to come" (from "prikhodit"), giving the line its exact edge.
+- 'I am calm, I am completely calm.' Nagiyev shapes the thought toward Kristina: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I hear the sound of the surf, nothing disturbs me.' Nagiyev weighs in steadily to settle things, bringing things back to earth after the buildup.
+- 'Calmness is slowly spreading through me.' Nagiyev reaches for one memorable word in reply: "spokoystviye" means "calmness, composure", and it carries the main weight of what Nagiyev is saying.
+- 'Nothing is working except anger!' Nagiyev shapes that answer around Vika: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'And why are you getting so angry?' Kristina probes briskly whether Nagiyev really thought this through.
+- 'Because I do not know how to control my emotions!' Nagiyev underscores one concrete word in reply: "kontrolirovat" means "to keep an eye on", and it carries the main weight of what Nagiyev is saying.
+- 'I am also very glad to see you, Dima.' Kristina highlights one vivid element with Nagiyev: "rada" means "glad", and it carries the main weight of what Kristina is saying.
+- 'First of all, your door was unlocked.' Kristina fires back promptly with Vika, leaving no doubt about where she stands.
+- 'And second of all, I found your documents.' Kristina uses one key term on cue: "dokumenty" means "the documents" (from "dokument"), giving the line its exact edge.
+- 'Here are your important papers, take them.' Vika anchors one vivid piece right here: "vazhnyye" means "important" (from "vazhnyy"), giving the line its exact edge.

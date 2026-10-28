@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You cannot act like this.' Nagiyev strikes a brisk course straight away, joining "nelzya" ("not allowed") to "delat" ("do") so every word pulls its weight.
-- 'You cannot fire everyone I smile at.' Nagiyev displays a grounded stance at once, combining "nelzya" ("not allowed") and "uvolnyat" ("to fire, to dismiss") so the key meaning lands right away.
-- 'What beautiful fingers you have.' Nagiyev displays an honest tempo during the exchange, combining "krasivyye" ("beautiful") and "paltsy" ("fingers") so the key meaning lands right away.
-- 'And what are you doing today?' Nagiyev inquires lightly right away, weaving "delayete" ("are doing") together with "segodnya" ("today") just the way native speakers do.
-- 'You are fired.' Eleonora picks a calm manner in front of Nagiyev, anchoring the Russian line on "uvoleny" ("to fire") and "vy" ("you") without extra filler.
-- 'And your fingers too.' Eleonora takes a serious course straight away, weaving "paltsy" ("fingers") together with "tozhe" ("too") just the way native speakers do.
-- 'Alright then, you fired everyone.' Nagiyev keeps a frank line for Eleonora, leaning on "uvolila" ("fired") before closing the thought with "nu" ("oh, come on").
-- 'Then who is going to run things today?' Nagiyev challenges decisively with Nikita now, linking "rabotat" ("to work"), "budet" ("will be"), and "segodnya" ("today") in one brisk exchange.
-- 'Nikita, come here!' Eleonora takes a warm rhythm without hesitation, joining "idi" ("go") to "syuda" ("here") so every word pulls its weight.
-- 'Congratulations, you are the restaurant director.' Eleonora presents a pointed mood across the room, pairing "pozdravlyayu" ("congratulations") with "direktor" ("head teacher") to get the point across in plain spoken Russian.
-- 'Thank you, Eleonora Andreyevna.' Nikita strikes a serious mood as the scene unfolds, joining "spasibo" ("thank you") to "eleonora" ("Eleonora") so every word pulls its weight.
-- 'Nikita Andreyevich, coffee?' Nagiyev prompts naturally in the room, anchoring the Russian line on "andreyevich" ("andreyevich") and "kofe" ("of coffee") without extra filler.
+- 'You cannot act like this.' Nagiyev makes this update right away: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'You cannot fire everyone I smile at.' Nagiyev pushes back boldly hearing Nikita, making his position completely clear.
+- 'What beautiful fingers you have.' Nagiyev spotlights one colorful term on cue: "krasivyye" means "beautiful" (from "krasivyy"), giving the line its exact edge.
+- 'And what are you doing today?' Nagiyev sends this answer at once: putting the question word "chto" right at the front of the line lets Nikita hear the point of the question on the very first beat.
+- 'You are fired.' Eleonora holds firm quietly with a nod, shifting the whole mood of the room in a single beat.
+- 'And your fingers too.' Eleonora grounds one concrete piece at once: "paltsy" means "fingers" (from "palets"), giving the line its exact edge.
+- 'Alright then, you fired everyone.' Nagiyev frames the comeback with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Eleonora is on board.
+- 'Then who is going to run things today?' Nagiyev challenges curiously about what Nikita just brought up.
+- 'Nikita, come here!' Eleonora offers the reply briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Congratulations, you are the restaurant director.' Eleonora gives this statement beside Nikita: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Thank you, Eleonora Andreyevna.' Nikita replies honestly toward Eleonora, before Eleonora can change the subject.
+- 'Nikita Andreyevich, coffee?' Nagiyev stresses one sharp expression on cue: "andreyevich" means "andreyevich", and it carries the main weight of what Nagiyev is saying.

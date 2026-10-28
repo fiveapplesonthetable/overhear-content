@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The thing is.' Nastya conveys a warm direction without hesitation, leaning on "delo" ("matter") before closing the thought with "tom" ("that").
-- 'I do not know how to peel potatoes properly.' Sasha shows a natural tone in this beat, linking "znayu" ("know"), "kak" ("how"), and "pravilno" ("right") in one brisk exchange.
-- 'And my salmon is burning!' Ilya conveys a warm approach at once, linking "losos" ("salmon"), "gorit" ("is burning"), and "menya" ("me") in one brisk exchange.
-- 'Please taste this sauce.' Nastya adopts a candid position on the spot, putting "poprobuyte" ("try, taste") alongside "sous" ("sauce") in a tight, everyday turn of phrase.
-- 'Why are you all blocking my way?' Sasha inquires candidly to keep things clear, putting "skryvayete" ("to hide, to conceal") alongside "vot" ("there, here") in a tight, everyday turn of phrase.
-- 'Nastya, have you seen Sasha and Ilya?' Ilya quizzes promptly in the scene, putting "videla" ("saw") alongside "nastya" ("Nastya") in a tight, everyday turn of phrase.
-- 'I have not seen Ilya.' Nastya brings a calm line in the scene, leaning on "videla" ("saw") before closing the thought with "ilyu" ("Ilya").
-- 'This is not at all what you think.' Sasha favors a playful course in their talk, building the phrase around "sovsem" ("at all") and "podumali" ("thought") for a crisp, natural delivery.
-- 'How on earth did you even get in there?' Ilya prompts wryly toward Nastya here, linking "kak" ("how"), "tuda" ("there"), and "popal-to" ("got in") in one brisk exchange.
-- 'That is what I would like to know.' Nastya adopts an unhurried course as the scene unfolds, placing "vot" ("there, here") straight beside "imenno" ("exactly, precisely") with no word for "to be" needed.
-- 'I missed this place so much.' Ilya picks a warm style as they talk, pairing "soskuchilsya" ("missed") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'Me too.' Ilya chooses an earnest stance in the scene, putting "tozhe" ("too") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'What is this?' Nastya challenges warmly as the talk turns, combining "eto" ("this") and "chto" ("what") so the key meaning lands right away.
+- 'The thing is.' Nastya states this answer beside Ilya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I do not know how to peel potatoes properly.' Sasha steps in firmly on the spot, to clear the air between them once and for all.
+- 'And my salmon is burning!' Ilya sharpens one sharp choice for Nastya: "losos" means "salmon", and it carries the main weight of what Ilya is saying.
+- 'Please taste this sauce.' Nastya states that thought frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Why are you all blocking my way?' Sasha questions firmly about what Ilya just brought up.
+- 'Nastya, have you seen Sasha and Ilya?' Ilya features one direct choice with Sasha: "videla" means "saw" (from "videt"), giving the line its exact edge.
+- 'I have not seen Ilya.' Nastya brings the reaction without fuss: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'This is not at all what you think.' Sasha speaks up evenly facing Nastya, refusing to let the moment slip past.
+- 'How on earth did you even get in there?' Ilya stresses one colorful expression with Nastya: "voobshche" means "at all", and it carries the main weight of what Ilya is saying.
+- 'That is what I would like to know.' Nastya lays out the reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I missed this place so much.' Ilya holds firm honestly before Nastya, before Nastya can change the subject.
+- 'Me too.' Ilya reaches for this vivid word at once: "tozhe" means "too", and it carries the main weight of what Ilya is saying.
+- 'What is this?' Nastya aims the reaction in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Some great actor he turns out to be!' Barinov sets an emphatic rhythm in front of Elena, anchoring the Russian line on "tozhe" ("too") and "velikiy" ("great") without extra filler.
-- 'Real actors act in good cinema.' Barinov picks an earnest footing straight away, anchoring the Russian line on "nastoyashchiye" ("real") and "aktyory" ("actors") without extra filler.
-- 'And he only looks funny on television.' Barinov favors a brisk tone across the room, building the phrase around "tolko" ("only") and "televizore" ("television") for a crisp, natural delivery.
-- 'And besides, that clown acts very badly.' Barinov establishes an unhurried tack toward Nagiyev, pairing "igrayet" ("plays") with "kloun" ("clown") to get the point across in plain spoken Russian.
-- 'He is simply ashamed to look people in the eye.' Barinov keeps a playful stance on the spot, leaning on "prosto" ("just") before closing the thought with "stydno" ("shameful").
-- 'Vitya, I have thought it over well here.' Nagiyev takes a warm tone across the room, joining "tut" ("here") to "khorosho" ("good, fine") so every word pulls its weight.
-- 'After all, we have many banquets, and we have only one of you.' Nagiyev picks a brisk approach in the conversation, using "banketov" (from "banket", "banquets") alongside "mnogo" ("a lot") to shape the meaning.
-- 'So rest calmly today.' Nagiyev conveys a lively note across the room, leaning on "segodnya" ("today") before closing the thought with "spokoyno" ("calmly").
-- 'Thank you very much, Dmitry Vladimirovich!' Elena shows a frank approach across the room, weaving "bolshoye" ("big, very much") together with "spasibo" ("thank you") just the way native speakers do.
-- 'Not at all, dear Elena Pavlovna.' Nagiyev shares a frank position toward Elena, pairing "dorogaya" ("expensive") with "ne" ("not") to get the point across in plain spoken Russian.
-- 'Dima, what, did you get offended at me?' Barinov queries pointedly on the spot, anchoring the Russian line on "obidelsya" ("got offended") and "dima" ("Dima") without extra filler.
-- 'What, is it hard to tell, I acted poorly, after all I am just a clown.' Nagiyev adopts a wry rhythm on the spot, putting "nezametno" ("inconspicuously") alongside "plokho" ("badly") in a tight, everyday turn of phrase.
+- 'Some great actor he turns out to be!' Barinov features one telling term in earnest: "nashyolsya" means "turned up" (from "naytis"), giving the line its exact edge.
+- 'Real actors act in good cinema.' Barinov holds firm at once watching Nagiyev, before Nagiyev can change the subject.
+- 'And he only looks funny on television.' Barinov speaks up openly in their talk, steering the talk right where he wants it.
+- 'And besides, that clown acts very badly.' Barinov emphasizes one vivid expression on cue: "igrayet" means "plays" (from "igrat"), giving the line its exact edge.
+- 'He is simply ashamed to look people in the eye.' Barinov gives that thought with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Vitya, I have thought it over well here.' Nagiyev speaks lightly during the talk, shifting the whole mood of the room in a single beat.
+- 'After all, we have many banquets, and we have only one of you.' Nagiyev chooses one classic touch right here: "banketov" means "banquets" (from "banket"), giving the line its exact edge.
+- 'So rest calmly today.' Nagiyev fires back evenly toward Elena, steering the talk right where he wants it.
+- 'Thank you very much, Dmitry Vladimirovich!' Elena steps in steadily around Barinov, shifting the whole mood of the room in a single beat.
+- 'Not at all, dear Elena Pavlovna.' Nagiyev spotlights this vivid choice toward Elena: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
+- 'Dima, what, did you get offended at me?' Barinov frames this answer before Elena: the "-sya" ending on "obidelsya" ("got offended") turns the action inward or makes it happen between people naturally.
+- 'What, is it hard to tell, I acted poorly, after all I am just a clown.' Nagiyev reacts openly facing Elena, watching Elena's face to see how the news lands.

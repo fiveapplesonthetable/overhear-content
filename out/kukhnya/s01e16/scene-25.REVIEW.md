@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Beef pâté.' Introducing the true nature of the dish, the phrasing places the focus on the meat type right after naming the spread.
-- 'Absolutely revolting.' To describe how awful it tastes, the speaker pairs words that literally mean "terrible muck" or "frightful filth."
+- 'Absolutely revolting.' Barinov grimaces and calls the raw mixture 'frightful filth' to show how unappetizing it looks before cooking.
 - 'But when you mix it all together...' Setting up a surprising contrast, the chef explains what happens if someone were to blend everything into one.
 - 'She likes it.' Referring to his pet, he notes that the concoction is pleasing to her.
 - 'Are you kidding me?' Realizing he was tricked, the frustrated cook asks if he is being mocked or made a fool of.

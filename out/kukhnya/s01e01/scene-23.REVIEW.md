@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'You are doing great at everything, Max!' Kostya praises the young cook's impressive culinary effort.
 - 'Too bad only that the chef won't appreciate this.' He warns that their boss will inevitably reject it out of spite.
 - 'We will see about that yet.' Max refuses to accept defeat before the tasting even happens.
-- 'Why, he won' Kostya predicts the stubborn boss will not even take a bite.
+- 'Why, he won't even taste it!' Kostya predicts the stubborn boss will not even take a bite.
 - 'And if he tastes it, he won't like it.' He adds that even if the chef tries it, he will lie about the flavor.
 - 'I know our chef very well.' Kostya emphasizes his long history dealing with the erratic boss.
 - 'Wait, we need a more objective opinion.' Max realizes he must find a neutral party to judge his food.

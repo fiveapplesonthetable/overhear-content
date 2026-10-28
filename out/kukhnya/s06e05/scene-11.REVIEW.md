@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This simply cannot be happening.' Kostya displays a playful note in front of Denis, anchoring the Russian line on "prosto" ("just") and "mozhet" ("can") without extra filler.
-- 'Kostya, pour me some cold water.' Denis shows a calm line as the scene unfolds, linking "naley" ("pour"), "kholodnoy" ("cold"), and "vody" ("water") in one brisk exchange.
-- 'And why are you so angry today?' Kostya presses calmly in the room, pairing "segodnya" ("today") with "zloy" ("angry, mean") to get the point across in plain spoken Russian.
-- 'I was just at my father's restaurant.' Nikita offers a firm footing at once, building the phrase around "tolko" ("only") and "byl" ("was") for a crisp, natural delivery.
-- 'I saw the Frenchman there with some girl.' Nikita chooses a pointed position in the conversation, combining "videl" ("saw, have seen") and "tam" ("there") so the key meaning lands right away.
-- 'We must tell Katya about this immediately.' Denis shares a direct note beside Nikita, leaning on "nado" ("it is necessary") before closing the thought with "srazu" ("at once").
-- 'Listen, maybe you should stay out of it?' Kostya quizzes openly right away, linking "slushay" ("listen"), "mozhet" ("can"), and "budesh" ("will") in one brisk exchange.
-- 'But this man is blatantly deceiving her!' Denis holds an unhurried attitude toward Nikita, putting "chelovek" ("a man, a person") alongside "naglo" ("boldly, brazenly") in a tight, everyday turn of phrase.
-- 'Well and what should we do then?' Nikita queries dryly in the room, building the phrase around "togda" ("back then") and "delat" ("do") for a crisp, natural delivery.
-- 'She will not even listen to us.' Nikita shares a clear tempo beside Kostya, leaning on "slushat" ("to listen to") before closing the thought with "stanet" ("will become").
-- 'You can quietly follow him in the evening.' Kostya shares a grounded style for Denis, linking "mozhno" ("may, can"), "tikho" ("easy, quiet"), and "prosledit" ("to keep an eye on") in one brisk exchange.
-- 'My father has a private detective.' Nikita takes a firm tone toward Kostya, linking "ottsa" ("father"), "yest" ("there is"), and "chastnyy" ("private") in one brisk exchange.
+- 'This simply cannot be happening.' Kostya delivers that remark at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Kostya, pour me some cold water.' Denis steps in candidly with Nikita, without trying to dress up how he really feels.
+- 'And why are you so angry today?' Kostya favors one familiar expression right here: "segodnya" means "today", and it carries the main weight of what Kostya is saying.
+- 'I was just at my father's restaurant.' Nikita weighs in evenly as they talk, saying out loud what both of them already know.
+- 'I saw the Frenchman there with some girl.' Nikita responds briskly with a shrug, testing Denis's reaction in the middle of the exchange.
+- 'We must tell Katya about this immediately.' Denis features one colorful expression in reply: "rasskazat" means "to tell", and it carries the main weight of what Denis is saying.
+- 'Listen, maybe you should stay out of it?' Kostya brings the thought beside Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'But this man is blatantly deceiving her!' Denis proceeds candidly as they talk, so Nikita knows he is not just making small talk.
+- 'Well and what should we do then?' Nikita emphasizes this clear expression with Denis: "togda" means "back then", and it carries the main weight of what Nikita is saying.
+- 'She will not even listen to us.' Nikita opens up briskly before Kostya, refusing to let the moment slip past.
+- 'You can quietly follow him in the evening.' Kostya opens up bluntly with a sigh, leaving no doubt about where he stands.
+- 'My father has a private detective.' Nikita frames one classic touch in reply: "chastnyy" means "private", and it carries the main weight of what Nikita is saying.

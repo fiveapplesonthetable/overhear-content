@@ -33,7 +33,7 @@ STORY = [
 WALK = [
     (0, None, "'Been drinking yesterday?' Kostya asks casually, using the colloquial verb for drinking alcohol."),
     (1, None, "'Is it noticeable?' Max replies ruefully, realizing his rough night shows on his face."),
-    (2, None, "'Would you like anything?' the bartender inquires, switching into professional hospitality mode."),
+    (2, None, "'Would you like anything?' Kostya asks politely, switching into professional hospitality mode behind the bar."),
     (3, None, "'Water.' Max croaks, as he is in need of cold water before his interview."),
     (4, None, "'A liter! Without any gas at all!' Max exclaims, emphasizing the urgent quantity of cold still water he requires. Now listen to the full bar dialogue once more."),
 ]

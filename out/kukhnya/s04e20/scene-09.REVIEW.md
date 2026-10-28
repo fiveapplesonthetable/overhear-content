@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good evening, this is the best show in the country!' Nagiyev projects a sharp rhythm for Denis, weaving "dobryy" ("good") together with "vecher" ("evening") just the way native speakers do.
-- 'Right now we are starting a new round.' Nagiyev holds a steady mood as the scene unfolds, joining "pryamo" ("right, just") to "seychas" ("now") so every word pulls its weight.
-- 'Do not worry, Misha, scars adorn a man.' Nagiyev strikes a firm tone in the room, linking "perezhivay" ("worry"), "shramy" ("adorn"), and "ukrashayut" ("decorate, adorn") in one brisk exchange.
-- 'All right, we need to find yesterday's date.' Vika strikes a candid angle without hesitation, linking "nado" ("it is necessary"), "nayti" ("to find"), and "vcherashniy" ("yesterday's") in one brisk exchange.
-- 'Wait, Vika, what is that right there?' Denis checks promptly as they speak, weaving "podozhdi" ("wait") together with "vika" ("Vika") just the way native speakers do.
-- 'It seems that is Nagiyev and the contestant Oksana.' Vika establishes a firm note across the room, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "uchastnitsa" ("oksana") to shape the meaning.
-- 'Look, here I am walking in to see you!' Denis conveys a measured angle in this beat, joining "smotri" ("look") to "zakhozhu" ("to come in") so every word pulls its weight.
-- 'Well, tell me, how are your nightmares?' Vika checks warmly for Nagiyev's benefit, anchoring the Russian line on "skazhi" ("say") and "kak" ("how") without extra filler.
-- 'Everything is fine, do not come closer, I will jump!' Denis keeps a sharp rhythm beside Nagiyev, anchoring the Russian line on "khorosho" ("good, fine") and "podkhodi" ("approach, come near") without extra filler.
-- 'You really did look very strange back then.' Vika projects a playful attitude as the scene unfolds, pairing "togda" ("back then") with "pravda" ("honestly") to get the point across in plain spoken Russian.
-- 'Here, I will make a copy for Katya.' Vika chooses a calm posture for Denis, anchoring the Russian line on "sdelayu" ("I'll do") and "kopiyu" ("copy, photocopy") without extra filler.
-- 'Thank you so very much for your help, Vika!' Denis maintains a natural position as they talk, building the phrase around "spasibo" ("thank you") and "ogromnoye" ("huge, so very much") for a crisp, natural delivery.
+- 'Good evening, this is the best show in the country!' Nagiyev jumps in honestly facing Denis, shifting the whole mood of the room in a single beat.
+- 'Right now we are starting a new round.' Nagiyev grounds one telling word at once: "nachinayem" means "are starting" (from "nachinat"), giving the line its exact edge.
+- 'Do not worry, Misha, scars adorn a man.' Nagiyev replies evenly without a pause, keeping the focus on what actually matters here.
+- 'All right, we need to find yesterday's date.' Vika replies quietly without any doubt, refusing to let the moment slip past.
+- 'Wait, Vika, what is that right there?' Denis points to this sharp word right here: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'It seems that is Nagiyev and the contestant Oksana.' Vika cuts in firmly with a shrug, leaving no doubt about where she stands.
+- 'Look, here I am walking in to see you!' Denis fires back right away with Nagiyev, refusing to let the moment slip past.
+- 'Well, tell me, how are your nightmares?' Vika anchors this vivid detail right here: "nochnyye" means "nightmares" (from "nochnyy"), giving the line its exact edge.
+- 'Everything is fine, do not come closer, I will jump!' Denis puts this line without fuss: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'You really did look very strange back then.' Vika jumps in decisively as things stand, so Nagiyev knows she is not just making small talk.
+- 'Here, I will make a copy for Katya.' Vika anchors one classic touch in reply: "kopiyu" means "copy, photocopy" (from "kopiya"), giving the line its exact edge.
+- 'Thank you so very much for your help, Vika!' Denis sends this answer briskly now: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.

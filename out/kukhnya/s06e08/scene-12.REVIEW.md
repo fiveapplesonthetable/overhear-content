@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nagiyev got awfully generous today, don't you find?' Mikhail quizzes boldly in their exchange, joining "segodnya" ("today") to "rasshchedrilsya" ("became generous") so every word pulls its weight.
-- 'The main thing for him is to show off in front of Elya and everyone.' Barinov adopts a clear tack in the room, weaving "glavnoye" ("important") together with "pokrasovatsya" ("to show off") just the way native speakers do.
-- 'In a word, he is just a typical actor.' Barinov displays a calm position right away, linking "slovom" ("word") directly with "prosto" ("just"), since Russian drops "is" and "are" in the present.
-- 'Listen, but you have known him longer.' Mikhail favors an honest bearing toward Barinov, joining "slushay" ("listen") to "dolshe" ("take") so every word pulls its weight.
-- 'Did he ever give such expensive gifts to anyone before?' Mikhail challenges openly on the spot, weaving "ranshe" ("earlier, previously") together with "dorogiye" ("dear") just the way native speakers do.
-- 'When he was courting Vika, he gave her a car.' Barinov adopts a playful direction on the spot, anchoring the Russian line on "kogda" ("when") and "ukhazhival" ("courted, paid court to") without extra filler.
-- 'Wait, what are you hinting at to me right now?' Barinov questions frankly without a pause, combining "podozhdi" ("wait") and "seychas" ("now") so the key meaning lands right away.
-- 'That man holds nothing sacred in life.' Mikhail shares a lively course without hesitation, putting "cheloveka" ("a man, a person") alongside "svyatogo" ("holy, sacred") in a tight, everyday turn of phrase.
-- 'He even cheated on his own wife at his wedding!' Mikhail holds a firm line in their talk, using "svadbe" (from "svadba", "wedding") alongside "izmenil" ("changed") to shape the meaning.
-- 'Oh come on, what a dark-minded man you are!' Barinov chooses an unhurried footing in front of Mikhail, linking "tyomnyy" ("dark") directly with "chelovek" ("a man, a person"), since Russian drops "is" and "are" in the present.
-- 'Katya, forgive me for bothering you on your birthday.' Mikhail holds a pointed angle as the scene unfolds, linking "prosti" ("sorry, forgive me"), "bespokoyu" ("to bother, to disturb"), and "den" ("day") in one brisk exchange.
-- 'They are asking from the room how much longer to wait for the order.' Mikhail takes an earnest angle right away, using "nomera" (from "nomer", "number, phone number") alongside "sprashivayut" ("are asking for") to shape the meaning.
+- 'Nagiyev got awfully generous today, don't you find?' Mikhail questions curiously about what Barinov just brought up.
+- 'The main thing for him is to show off in front of Elya and everyone.' Barinov frames this direct detail with Mikhail: "pokrasovatsya" means "to show off", and it carries the main weight of what Barinov is saying.
+- 'In a word, he is just a typical actor.' Barinov brings this update without pause: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Listen, but you have known him longer.' Mikhail speaks up lightly to settle things, keeping the focus on what actually matters here.
+- 'Did he ever give such expensive gifts to anyone before?' Mikhail spotlights this direct detail for Barinov: "dorogiye" means "dear" (from "dorogoy"), giving the line its exact edge.
+- 'When he was courting Vika, he gave her a car.' Barinov reacts openly without holding back, saying out loud what both of them already know.
+- 'Wait, what are you hinting at to me right now?' Barinov prompts promptly whether Mikhail really thought this through.
+- 'That man holds nothing sacred in life.' Mikhail highlights this direct piece on cue: "svyatogo" means "holy, sacred" (from "svyatoy"), giving the line its exact edge.
+- 'He even cheated on his own wife at his wedding!' Mikhail proceeds bluntly without holding back, refusing to let the moment slip past.
+- 'Oh come on, what a dark-minded man you are!' Barinov responds warmly without holding back, testing Mikhail's reaction in the middle of the exchange.
+- 'Katya, forgive me for bothering you on your birthday.' Mikhail frames one practical piece toward Barinov: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
+- 'They are asking from the room how much longer to wait for the order.' Mikhail speaks earnestly without holding back, bringing things back to earth after the buildup.

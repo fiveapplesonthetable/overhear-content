@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, are you our new cook in the kitchen?' Katya challenges lightly as the beat lands, linking "novyy" ("new") directly with "povar" ("chef, cook"), since Russian drops "is" and "are" in the present.
-- 'No, I am already a fired waiter from the restaurant.' Nikita favors a thoughtful line straight away, anchoring the Russian line on "uzhe" ("already, now") and "uvolennyy" ("fired, dismissed") without extra filler.
-- 'Well alright, just do not get too upset about it.' Katya adopts a firm footing toward Nikita, weaving "tolko" ("only") together with "silno" ("strongly, much") just the way native speakers do.
-- 'Listen, maybe I really should come work with you as a cook?' Nikita prompts openly to keep things clear, anchoring the Russian line on "slushay" ("listen") and "mozhet" ("can") without extra filler.
-- 'And what did they fire you so quickly for today?' Katya presses sharply in the scene, building the phrase around "bystro" ("quickly") and "segodnya" ("today") for a crisp, natural delivery.
-- 'I accidentally served the hotel owner the wrong coffee.' Nikita shares a resolute tempo straight away, joining "sluchayno" ("by any chance") to "podal" ("submitted, filed") so every word pulls its weight.
-- 'Well yes, that sounds just like her, good luck!' Katya sustains an easygoing stance right away, anchoring the Russian line on "ochen" ("very much") and "pokhozhe" ("like, similar") without extra filler.
-- 'Nikita, are you still here? Eleonora asked you not to leave.' Vika inquires quietly to keep things clear, leaning on "yeshchyo" ("more, still") before closing the thought with "zdes" ("here").
-- 'She is generously giving you one last chance today.' Vika sets an emphatic stance in the scene, combining "velikodushno" ("generously") and "dayot" ("gives, yields") so the key meaning lands right away.
-- 'Congratulations on returning to work, Nikita!' Katya chooses an emphatic approach toward Vika, anchoring the Russian line on "pozdravlyayu" ("congratulations") and "vozvrashcheniyem" ("return") without extra filler.
-- 'It is sad that Moscow lost such an excellent street sweeper!' Nikita sets a resolute attitude across the room, leaning on "pechalno" ("sadly, it is sad") before closing the thought with "poteryala" ("lost, wasted").
-- 'Change clothes quickly and head back out into the hall.' Vika chooses an honest stance with Nikita, building the phrase around "bystreye" ("faster") and "pereodevaysya" ("change clothes") for a crisp, natural delivery.
+- 'Hi, are you our new cook in the kitchen?' Katya probes eagerly how Nikita expects that to work in practice.
+- 'No, I am already a fired waiter from the restaurant.' Nikita stresses this vivid piece right here: "uvolennyy" means "fired, dismissed", and it carries the main weight of what Nikita is saying.
+- 'Well alright, just do not get too upset about it.' Katya states that answer calmly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nikita is on board.
+- 'Listen, maybe I really should come work with you as a cook?' Nikita quizzes wryly before Vika can change the subject.
+- 'And what did they fire you so quickly for today?' Katya grounds one concrete choice toward Nikita: "segodnya" means "today", and it carries the main weight of what Katya is saying.
+- 'I accidentally served the hotel owner the wrong coffee.' Nikita opens up pointedly around Vika, making his position completely clear.
+- 'Well yes, that sounds just like her, good luck!' Katya stands firm firmly around Nikita, to clear the air between them once and for all.
+- 'Nikita, are you still here? Eleonora asked you not to leave.' Vika uses this vivid piece right here: "yeshchyo" means "more, still", and it carries the main weight of what Vika is saying.
+- 'She is generously giving you one last chance today.' Vika colors one practical element toward Katya: "velikodushno" means "generously", and it carries the main weight of what Vika is saying.
+- 'Congratulations on returning to work, Nikita!' Katya responds candidly in their talk, letting the remark speak for itself.
+- 'It is sad that Moscow lost such an excellent street sweeper!' Nikita frames one practical term in earnest: "otlichnogo" means "excellent" (from "otlichnyy"), giving the line its exact edge.
+- 'Change clothes quickly and head back out into the hall.' Vika states this update toward Nikita: the "-sya" ending on "pereodevaysya" ("change clothes") turns the action inward or makes it happen between people naturally.

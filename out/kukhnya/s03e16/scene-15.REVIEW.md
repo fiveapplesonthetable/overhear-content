@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Taste it, well, did it turn out delicious?' Katya presses plainly at this point, linking "poprobuy" ("to try, to taste"), "kak" ("how"), and "poluchilos" ("worked out") in one brisk exchange.
-- 'Yes, great, the taste remained the exact same!' Max brings a candid rhythm with Nagiyev, anchoring the Russian line on "otlichno" ("perfect, great") and "vkus" ("taste") without extra filler.
-- 'Now all that is left is to test it on someone.' Max shares a candid mood in the scene, combining "teper" ("now") and "ostalos" ("was left") so the key meaning lands right away.
-- 'Actually that is a jack, not a king, then I have three of a kind!' Nagiyev chooses a candid rhythm right away, building the phrase around "voobshche-to" ("actually") and "valet" ("jack") for a crisp, natural delivery.
-- 'Dima, I will go to the office for now, okay?' Katya queries warmly beside Max, combining the easygoing tag "ladno" ("okay, fine") with "poydu" ("go") to give the line its natural spoken rhythm.
-- 'I need to sort through some important papers in there.' Katya shows a wry stance beside Nagiyev, anchoring the Russian line on "nuzhno" ("necessary") and "tam" ("there") without extra filler.
-- 'Go ahead, sweetheart, go sort through the papers in there.' Nagiyev displays a grounded angle in front of Katya, joining "davay" ("let's") to "zayka" ("sweetheart") so every word pulls its weight.
-- 'Max, let's test the sauce on Nagiyev!' Katya adopts a brisk course in the room, pairing "davay" ("let's") with "sous" ("sauce") to get the point across in plain spoken Russian.
-- 'Katya, have you lost your mind completely?' Max quizzes steadily with Katya now, joining "sovsem" ("at all") to "uma" ("mind") so every word pulls its weight.
-- 'He has already drunk so much whiskey tonight!' Katya conveys a warm line as they talk, building the phrase around "uzhe" ("already, now") and "stolko" ("so many") for a crisp, natural delivery.
-- 'He will never in his life suspect your sauce!' Katya maintains an earnest bearing right away, putting "sous" ("sauce") alongside "nikogda" ("never") in a tight, everyday turn of phrase.
-- 'Eva, please take this dish over to Dmitry Vladimirovich!' Max conveys a calm view at this moment, linking "otnesi" ("take"), "blyudo" ("dish"), and "yeva" ("Eva") in one brisk exchange.
+- 'Taste it, well, did it turn out delicious?' Katya tests quietly how Max expects that to work in practice.
+- 'Yes, great, the taste remained the exact same!' Max reaches for this vivid element at once: "absolyutno" means "completely", and it carries the main weight of what Max is saying.
+- 'Now all that is left is to test it on someone.' Max opens up openly on the spot, shifting the whole mood of the room in a single beat.
+- 'Actually that is a jack, not a king, then I have three of a kind!' Nagiyev responds boldly facing Max, steering the talk right where he wants it.
+- 'Dima, I will go to the office for now, okay?' Katya sharpens this clear piece in reply: "kabinet" means "office", and it carries the main weight of what Katya is saying.
+- 'I need to sort through some important papers in there.' Katya shapes that remark calmly now: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Go ahead, sweetheart, go sort through the papers in there.' Nagiyev pushes back frankly watching Katya, making his position completely clear.
+- 'Max, let's test the sauce on Nagiyev!' Katya highlights one key element toward Nagiyev: "proverim" means "we will check" (from "proverit"), giving the line its exact edge.
+- 'Katya, have you lost your mind completely?' Max offers this line to Katya: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'He has already drunk so much whiskey tonight!' Katya fires back calmly with a shrug, refusing to let the moment slip past.
+- 'He will never in his life suspect your sauce!' Katya highlights this direct expression at once: "podumayet" means "to think" (from "podumat"), giving the line its exact edge.
+- 'Eva, please take this dish over to Dmitry Vladimirovich!' Max hands over that thought plainly here: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.

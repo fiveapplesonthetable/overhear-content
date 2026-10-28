@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Friends, all of you know our wonderful occasion.' Barinov shows a wry tempo in the scene, joining "druzya" ("friends") to "znayete" ("know") so every word pulls its weight.
-- 'Let's all drink to it together right now!' Barinov conveys an earnest course at once, pairing "seychas" ("now") with "davayte" ("let's") so the "-sya" ending carries the action.
-- 'That strange mustachioed host is speaking again.' The guest chooses an emphatic line right away, leaning on "opyat" ("again") before closing the thought with "strannyy" ("strange, odd").
-- 'Wait, what did you just say about him?' Senya questions evenly in the scene, using "podozhdite" (from "podozhdat", "wait") alongside "seychas" ("now") to shape the meaning.
-- 'You came to a man's birthday party!' Senya adopts an easygoing bearing in this beat, combining "prishli" ("have come") and "cheloveku" ("to a person") so the key meaning lands right away.
-- 'You are drinking here at his personal expense!' Senya maintains a pointed tone beside the guest, putting "pyote" ("are drinking") alongside "zdes" ("here") in a tight, everyday turn of phrase.
-- 'Whose party did I come to?' The guest tests wryly to make the point, weaving "prishyol" ("came, have come") together with "prazdnik" ("holiday") just the way native speakers do.
-- 'I gave huge money for the protection of leopards!' The guest displays an easygoing approach across the room, pairing "dal" ("to give") with "ogromnyye" ("huge") to get the point across in plain spoken Russian.
-- 'Who are you to insult me here?' The guest questions frankly as they speak, combining "tut" ("here") and "oskorblyat" ("to insult") so the key meaning lands right away.
-- 'I am the best friend of our birthday boy, that is who!' Senya offers a pointed tack with the guest, linking "luchshiy" ("best"), "drug" ("friend"), and "imeninnika" ("who") in one brisk exchange.
-- 'Guys, it seems it is time for us to leave here quickly!' Barinov keeps a frank direction straight away, joining "rebyata" ("the boys, the lads") to "kazhetsya" ("it seems, I think") so every word pulls its weight.
-- 'Wait, where did you all run off to?' The guest quizzes wryly in this moment, combining "podozhdite" ("wait") and "kuda" ("where to") so the key meaning lands right away.
+- 'Friends, all of you know our wonderful occasion.' Barinov focuses on one colorful term right here: "prekrasnyy" means "beautiful", and it carries the main weight of what Barinov is saying.
+- 'Let's all drink to it together right now!' Barinov fires back pointedly beside Senya, grounding the moment in plain reality.
+- 'That strange mustachioed host is speaking again.' The guest chooses this direct piece right here: "vedushchiy" means "host", and it carries the main weight of what the guest is saying.
+- 'Wait, what did you just say about him?' Senya states this warning without pause: putting the question word "chto" right at the front of the line lets the guest hear the point of the question on the very first beat.
+- 'You came to a man's birthday party!' Senya reacts plainly with Barinov, grounding the moment in plain reality.
+- 'You are drinking here at his personal expense!' Senya highlights one concrete expression in earnest: "lichnyy" means "personal", and it carries the main weight of what Senya is saying.
+- 'Whose party did I come to?' The guest shares this statement briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'I gave huge money for the protection of leopards!' The guest pushes back sharply in this moment, testing Senya's reaction in the middle of the exchange.
+- 'Who are you to insult me here?' The guest anchors one loaded word right here: "oskorblyat" means "to insult", and it carries the main weight of what the guest is saying.
+- 'I am the best friend of our birthday boy, that is who!' Senya offers this point beside the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Guys, it seems it is time for us to leave here quickly!' Barinov counters warmly hearing the guest, so the guest knows he is not just making small talk.
+- 'Wait, where did you all run off to?' The guest features one telling element at once: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.

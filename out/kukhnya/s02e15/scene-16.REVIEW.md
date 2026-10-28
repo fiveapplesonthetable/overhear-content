@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this apple core doing here?' Max checks boldly toward Nagiyev here, combining "ogryzok" ("scrap, remnant") and "chto" ("what") so the key meaning lands right away.
-- 'Lavrov was going around asking everyone for money earlier.' Vika takes an earnest mood beside Nagiyev, joining "dengi" ("money") to "iskal" ("was looking for") so every word pulls its weight.
-- 'Who here is Lavrov?' Nagiyev wonders dryly beside Max, joining "zdes" ("here") to "kto" ("who") so every word pulls its weight.
-- 'I am. Right here.' Max shares a resolute note as they talk, linking "ya" ("I"), "vot" ("there, here"), and "on" ("he") in one brisk exchange.
-- 'So, kid, you started stealing from the rich?' Vika tests evenly in the room, putting "paren" ("boyfriend") alongside "stal" ("to become") in a tight, everyday turn of phrase.
-- 'Which is all the proof we need.' Nagiyev projects a steady line during the exchange, weaving "trebovalos" ("was needed") together with "to" ("that") just the way native speakers do.
-- 'I did not take your money.' Max shows a resolute tack in front of Nagiyev, linking "bral" ("took"), "dengi" ("money"), and "ya" ("I") in one brisk exchange.
-- 'Vika, call the police.' Nagiyev strikes a brisk bearing for Vika, building the phrase around "vyzyvay" ("to cause, to raise") and "politsiyu" ("the police") for a crisp, natural delivery.
-- 'I did not take the money!' Nagiyev projects an earnest style at once, building the phrase around "bral" ("took") and "dengi" ("money") for a crisp, natural delivery.
-- 'Maybe we can handle this without the police?' Max inquires bluntly right away, linking "mozhet" ("can"), "oboydemsya" ("to do without"), and "politsii" ("the police") in one brisk exchange.
-- 'And why is that?' Vika presses promptly to make the point, weaving "chto" ("what") together with "tak" ("so") just the way native speakers do.
-- 'Let us just fire him on the spot.' Nagiyev maintains a natural tack beside Vika, weaving "davayte" ("let's") together with "prosto" ("just") just the way native speakers do.
-- 'Go on, pack your things.' Max picks a natural angle on the spot, putting "davay" ("let's") alongside "sobiray" ("pack, gather") in a tight, everyday turn of phrase.
+- 'What is this apple core doing here?' Max picks one practical expression toward Nagiyev: "ogryzok" means "scrap, remnant", and it carries the main weight of what Max is saying.
+- 'Lavrov was going around asking everyone for money earlier.' Vika speaks promptly to be clear, letting the remark speak for itself.
+- 'Who here is Lavrov?' Nagiyev tests calmly to see how Max will answer on the spot.
+- 'I am. Right here.' Max directs that line plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'So, kid, you started stealing from the rich?' Vika prompts quietly to see how Max will answer on the spot.
+- 'Which is all the proof we need.' Nagiyev jumps in frankly beside Vika, making his position completely clear.
+- 'I did not take your money.' Max picks one colorful touch right here: "dengi" means "money", and it carries the main weight of what Max is saying.
+- 'Vika, call the police.' Nagiyev offers the reply right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I did not take the money!' Nagiyev jumps in calmly across the room, grounding the moment in plain reality.
+- 'Maybe we can handle this without the police?' Max reaches for one vivid choice at once: "oboydemsya" means "to do without" (from "oboytis"), giving the line its exact edge.
+- 'And why is that?' Vika shares this warning without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Let us just fire him on the spot.' Nagiyev chimes in honestly beside Vika, without trying to dress up how he really feels.
+- 'Go on, pack your things.' Max centers this sharp detail at once: "sobiray" means "pack, gather" (from "sobirat"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who on earth are you supposed to be?' Kostya wonders wryly as they speak, anchoring the Russian line on "voobshche" ("at all") and "budesh" ("will") without extra filler.
-- 'What do you want from my wife?' Kostya speaks evenly with Katya now, linking "nado" ("it is necessary"), "zheny" ("wife"), and "chto" ("what") in one brisk exchange.
-- 'Denis, what are you doing here?' Katya questions earnestly as the talk turns, pairing "denis" ("Denis") with "zdes" ("here") so the "-sya" ending carries the action.
-- 'The Frenchman is staying in this room right now.' Denis holds a frank view in the room, combining "nomere" ("in the hotel room") and "seychas" ("now") so the key meaning lands right away.
-- 'He is sitting in there with another girl.' Denis takes a natural course in the scene, anchoring the Russian line on "tam" ("there") and "sidit" ("sits") without extra filler.
-- 'We decided that you should know this.' Denis sustains a playful course as the scene unfolds, using "reshili" (from "reshit", "decided") alongside "dolzhna" ("should, must") to shape the meaning.
-- 'This Frenchman is simply deceiving you.' Denis strikes a direct posture across the room, building the phrase around "frantsuz" ("Frenchman") and "prosto" ("just") for a crisp, natural delivery.
-- 'What is going on here right now?' Katya checks honestly as the talk turns, weaving "zdes" ("here") together with "voobshche" ("at all") just the way native speakers do.
-- 'Katya, meet her, this is my partner.' Kostya takes an easygoing course in front of Denis, combining "poznakomsya" ("to get acquainted") and "partnyor" ("partner") so the key meaning lands right away.
-- 'We studied together in Paris.' Kostya conveys a playful course during the exchange, joining "vmeste" ("together") to "uchilis" ("studied") so every word pulls its weight.
-- 'Nice to meet you too right now.' Katya displays a calm approach in this beat, putting "tozhe" ("too") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Wait a couple of minutes, and we will talk.' Kostya takes a lively manner in this beat, building the phrase around "podozhdi" ("wait") and "paru" ("couple") for a crisp, natural delivery.
+- 'Who on earth are you supposed to be?' Kostya shapes that answer before Denis: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'What do you want from my wife?' Kostya wonders promptly where this conversation is heading next.
+- 'Denis, what are you doing here?' Katya picks one direct element toward Denis: "delayete" means "are doing" (from "delat"), giving the line its exact edge.
+- 'The Frenchman is staying in this room right now.' Denis proceeds decisively with a nod, keeping the focus on what actually matters here.
+- 'He is sitting in there with another girl.' Denis speaks calmly with Katya, letting the remark speak for itself.
+- 'We decided that you should know this.' Denis picks one concrete piece toward Kostya: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
+- 'This Frenchman is simply deceiving you.' Denis puts the reaction around Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'What is going on here right now?' Katya presses eagerly what Kostya is actually getting at here.
+- 'Katya, meet her, this is my partner.' Kostya grounds one concrete detail for Denis: "poznakomsya" means "to get acquainted" (from "poznakomitsya"), giving the line its exact edge.
+- 'We studied together in Paris.' Kostya frames this line with ease: the "-sya" ending on "uchilis" ("studied") turns the action inward or makes it happen between people naturally.
+- 'Nice to meet you too right now.' Katya pushes back firmly with a smile, before Denis can change the subject.
+- 'Wait a couple of minutes, and we will talk.' Kostya centers one classic detail toward Katya: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.

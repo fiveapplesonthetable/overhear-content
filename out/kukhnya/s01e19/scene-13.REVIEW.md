@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Let's rest a bit.' Max suggests taking a break. You can hear the word for 'a bit'.
 - 'Hello, cooks!' Senya cheerfully greets the cooks in the kitchen.
 - 'What are you standing around for, cripples?' Fedya uses a harsh word for people who are standing and doing nothing. Notice that 'are' is missing in Russian.
-- 'Can' Fedya questions if they can see who just arrived.
+- 'Can't you see?' Fedya questions if they can see who just arrived.
 - 'The pros are here.' Senya sarcastically announces the arrival of the kitchen professionals.
 - 'You are not professionals.' Max retorts that they are not real professionals.
 - 'You just talk a lot.' Max accuses the two of them of just talking a lot.

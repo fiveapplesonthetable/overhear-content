@@ -32,7 +32,7 @@ STORY = [
 WALK = [
     (0, None, "'Nastya moved in with us a week ago.' Max points out the recent change in their living situation, using a natural turn of phrase to indicate how much time has passed."),
     (1, None, "'Yes, now we live here as three.' Kostya confirms the new reality of their cramped apartment, emphasizing the number of people sharing the space."),
-    (2, None, "'Our life barely changed from that.' Despite the extra roommate, the speaker notes that their daily routine has remained largely untouched."),
+    (2, None, "'Our life barely changed from that.' Despite having a third roommate in the apartment, Max notes that their daily routine has barely changed."),
     (3, None, "'We still play together just the same.' He points out that they are continuing their usual couch activities without any interruption."),
     (4, None, "'Kostya, hurry up, shoot at them!' Shouting an urgent command, Max urges his friend to act quickly in the video game."),
     (5, None, "'I am choosing my new weapon.' Caught up in the game menu, he explains why he is momentarily distracted from the action."),
@@ -40,6 +40,6 @@ WALK = [
     (7, None, "'Hold on, I am already running to help!' Rushing to the rescue, Kostya shouts a quick encouragement to keep his teammate in the fight."),
     (8, None, "'Great work, this is our victory!' Celebrating their success, Max triumphantly declares that they have won the match."),
     (9, None, "'We are a great team in this game.' Pleased with their performance, he compliments their shared skills and coordination."),
-    (10, None, "'The main thing is that Nastya does not disturb us.' Focusing on their priorities, the speaker highlights the importance of being left alone to play."),
+    (10, None, "'The main thing is that Nastya does not disturb us.' Eyes glued to his game controller, Max jokes that the main thing is that Nastya does not interrupt their match."),
     (11, None, "'She is cooking a tasty dinner in the kitchen.' He casually mentions what their new roommate is doing, showing they are perfectly happy to let her do the chores."),
 ]

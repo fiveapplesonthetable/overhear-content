@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What the Chef did not know.' Nastya holds a candid direction during the exchange, weaving "znal" ("knew") together with "kto" ("who") just the way native speakers do.
-- 'Was that I bought them myself.' Barinov adopts an earnest note in front of Nastya, leaning on "kupil" ("bought") before closing the thought with "to" ("that").
-- 'They needed the money very badly.' Kostya displays a sharp rhythm with Barinov, building the phrase around "ochen" ("very much") and "byli" ("be") for a crisp, natural delivery.
-- 'Could you not simply have asked me for it?' Nastya prompts evenly in the room, pairing "poprosit" ("to ask") with "nelzya" ("not allowed") to get the point across in plain spoken Russian.
-- 'You could have at least warned me.' Barinov displays a sharp approach in the room, pairing "mogla" ("could") with "predupredit" ("to warn") to get the point across in plain spoken Russian.
-- 'I thought we trusted each other.' Kostya projects a clear rhythm as the scene unfolds, weaving "dumal" ("thought") together with "doveryayem" ("trust") just the way native speakers do.
-- 'Kostik, please forgive me.' Nastya takes a resolute direction beside Barinov, using "prosti" (from "prostit", "sorry, forgive me") alongside "kostik" ("Kostik") to shape the meaning.
-- 'Dad, forgive me.' Barinov projects a grounded direction in front of Nastya, joining "pap" ("Dad") to "prosti" ("sorry, forgive me") so every word pulls its weight.
-- 'Forgive me, all of you.' Kostya chooses an unhurried position as they talk, leaning on "prostite" ("excuse me") before closing the thought with "menya" ("me").
-- 'The restrooms and locker rooms are clear.' Nastya sets an easygoing course toward Kostya, pairing "tualete" ("the toilet") with "razdevalki" ("changing room") to get the point across in plain spoken Russian.
-- 'Go check the storage room.' Barinov conveys an emphatic posture toward Kostya, building the phrase around "sklad" ("warehouse") and "prover" ("check") for a crisp, natural delivery.
-- 'Officer, I do not understand, where did you guys come from?' Kostya questions sharply without a pause, pairing "komandir" ("commander") with "ponyal" ("understood") to get the point across in plain spoken Russian.
-- 'I was the one who called them.' Nastya strikes a grounded tone on the spot, linking "vyzvala" ("called"), "eto" ("this"), and "ya" ("I") in one brisk exchange.
+- 'What the Chef did not know.' Nastya makes that remark before Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Was that I bought them myself.' Barinov reacts honestly without holding back, saying out loud what both of them already know.
+- 'They needed the money very badly.' Kostya spotlights this telling touch in reply: "nuzhny" means "needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'Could you not simply have asked me for it?' Nastya shapes that answer frankly here: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'You could have at least warned me.' Barinov pushes back pointedly as things stand, without trying to dress up how he really feels.
+- 'I thought we trusted each other.' Kostya underscores this clear touch toward Nastya: "doveryayem" means "trust" (from "doveryat"), giving the line its exact edge.
+- 'Kostik, please forgive me.' Nastya sends this warning around Barinov: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'Dad, forgive me.' Barinov jumps in steadily during the talk, without trying to dress up how he really feels.
+- 'Forgive me, all of you.' Kostya emphasizes this telling element at once: "prostite" means "excuse me" (from "prostit"), giving the line its exact edge.
+- 'The restrooms and locker rooms are clear.' Nastya phrases the comment toward Kostya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Go check the storage room.' Barinov fires back promptly across the room, to clear the air between them once and for all.
+- 'Officer, I do not understand, where did you guys come from?' Kostya anchors one memorable term on cue: "komandir" means "commander", and it carries the main weight of what Kostya is saying.
+- 'I was the one who called them.' Nastya directs this update on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

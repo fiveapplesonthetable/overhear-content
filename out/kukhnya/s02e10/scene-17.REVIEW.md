@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, wait a second, hold on, stop.' Sasha sustains a frank note in the room, using "slushay" (from "slushat", "listen") alongside "pogodi" ("wait") to shape the meaning.
-- 'I will sort everything out.' Max sets a resolute manner in the scene, putting "reshu" ("I'll solve") alongside "no" ("but") in a tight, everyday turn of phrase.
-- 'Really. Okay?' Sasha challenges firmly to Max here, joining "pravda" ("honestly") to "ladno" ("all right") so every word pulls its weight.
-- 'Well, what have you decided?' Max tests lightly at this point, combining "nadumala-to" ("to think up") and "nu" ("oh, come on") so the key meaning lands right away.
-- 'So go on, move back in, everything is fine.' Sasha brings a brisk footing straight away, linking "davay" ("let's"), "vozvrashchaysya" ("return"), and "khorosho" ("good, fine") in one brisk exchange.
-- 'Still, I have decided to move out.' Sasha sets a direct note on the spot, leaning on "reshila" ("decided") before closing the thought with "pereyekhat" ("to move in").
-- 'Oh, well, up to you.' Sasha conveys a calm style in front of Max, linking "smotri" ("look"), "oy" ("oh"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Why am I calling?' Max challenges wryly on the spot, joining "zvonyu" ("call") to "chego" ("what") so every word pulls its weight.
-- 'A young man came by here the other day.' Sasha projects a pointed tack across the room, putting "tam" ("there") alongside "dnyakh" ("days") in a tight, everyday turn of phrase.
-- 'He was asking about you.' Max presents a measured manner beside Sasha, combining "sprashivala" ("to ask") and "pro" ("about") so the key meaning lands right away.
-- 'He seemed rather suspicious to me.' Sasha holds a playful position in front of Max, weaving "podozritelnym" ("suspicious") together with "pokazalsya" ("to seem, appear") just the way native speakers do.
-- 'You do not need to worry about any of this.' Max adopts an honest style toward Sasha, joining "vam" ("you") to "eto" ("this") so every word pulls its weight.
-- 'All right then, goodbye.' Sasha picks a sharp footing in the scene, pairing "svidaniya" ("meeting") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
+- 'Listen, wait a second, hold on, stop.' Sasha stands firm candidly in this moment, making her position completely clear.
+- 'I will sort everything out.' Max answers quietly in their talk, before Sasha can change the subject.
+- 'Really. Okay?' Sasha spotlights one loaded word at once: "pravda" means "honestly", and it carries the main weight of what Sasha is saying.
+- 'Well, what have you decided?' Max lays out this answer for Sasha: putting the question word "chto" right at the front of the line lets Sasha hear the point of the question on the very first beat.
+- 'So go on, move back in, everything is fine.' Sasha continues firmly with Max, saying out loud what both of them already know.
+- 'Still, I have decided to move out.' Sasha colors one sharp expression right here: "pereyekhat" means "to move in", and it carries the main weight of what Sasha is saying.
+- 'Oh, well, up to you.' Sasha shapes that answer around Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Why am I calling?' Max presses evenly where this conversation is heading next.
+- 'A young man came by here the other day.' Sasha underscores this key term toward Max: "prikhodil" means "used to come" (from "prikhodit"), giving the line its exact edge.
+- 'He was asking about you.' Max states the reply at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'He seemed rather suspicious to me.' Sasha proceeds calmly watching Max, testing Max's reaction in the middle of the exchange.
+- 'You do not need to worry about any of this.' Max reacts honestly beside Sasha, shifting the whole mood of the room in a single beat.
+- 'All right then, goodbye.' Sasha aims that answer to Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.

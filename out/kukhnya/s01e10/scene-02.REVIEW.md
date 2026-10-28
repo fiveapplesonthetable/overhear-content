@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, how is your health this morning?' Russian leaves out the word for 'to be' here, linking 'chef' directly with 'how', pairing it with 'health' and 'today'.
-- 'Senya, step back, my head hurts.' Barinov uses the classic style — literally 'at me' rather than a word for 'to have', pairing it with 'step back' and 'hurts'.
-- 'I brought you cold fresh brine.' Senya uses the word for 'brought' to focus on the completed action, pairing it with 'cold' and 'fresh'.
-- 'Oh, Senya, you are a true loyal friend.' Russian leaves out the word for 'to be' here, linking 'oh' directly with 'true', pairing it with 'loyal' and 'friend'.
-- 'Drink a little, it will immediately become much easier.' Senya leads with the direct word for 'drink', pairing it with 'a little' and 'immediately'.
-- 'This drink helps me very much.' Barinov anchors the line on the word for 'drink' and builds the thought around 'very much' and 'helps'.
-- 'Did Spartak lose an important match again yesterday?' Senya asks this purely through rising tone on the word for 'yesterday', pairing it with 'again' and 'lost'.
-- 'Do not talk to me about that nightmare.' Barinov leads with the direct word for 'speak', followed by 'nightmare'.
-- 'Understood, chef, no more unnecessary words.' Russian leaves out the word for 'to be' here, linking 'understood' directly with 'chef', pairing it with 'more' and 'unnecessary'.
-- 'Bring me one more glass of brine.' Barinov leads with the direct word for 'bring', pairing it with 'more' and 'one'.
-- 'I will quickly bring it now from our kitchen.' Senya opens with 'now' before bringing in 'quickly' and 'will bring' to make the point clear.
-- 'And begin preparing lunch for the guests.' Barinov leads with the direct word for 'begin', pairing it with 'to cook' and 'lunch'.
-- 'Everything will be ready on time, chef.' Senya chooses the word for 'will' for the ongoing action, followed by 'ready' and 'on time'.
+- 'Chef, how is your health this morning?' Seeing his boss slumped over in pain, Senya cautiously asks how his health is this morning.
+- 'Senya, step back, my head hurts.' Clutching his temples, Barinov tells Senya to step back because his head is splitting.
+- 'I brought you cold fresh brine.' Knowing the classic Russian hangover cure, Senya offers a cold glass of fresh pickle brine.
+- 'Oh, Senya, you are a true loyal friend.' Touched by the lifesaving gesture, Barinov declares that Senya is a true and loyal friend.
+- 'Drink a little, it will immediately become much easier.' Senya urges him to take a sip, promising that he will feel much better right away.
+- 'This drink helps me very much.' After gulping down the cold brine, Barinov admits that the salty drink really helps.
+- 'Did Spartak lose an important match again yesterday?' Making a terrible mistake, Senya asks whether Spartak lost another big match yesterday.
+- 'Do not talk to me about that nightmare.' Barinov snaps at him not to remind him of last night's football disaster.
+- 'Understood, chef, no more unnecessary words.' Catching the warning immediately, Senya promises to say no more unnecessary words.
+- 'Bring me one more glass of brine.' Still nursing his hangover, Barinov asks Senya for one more glass of pickle brine.
+- 'I will quickly bring it now from our kitchen.' Senya hurries off to fetch another glass from the kitchen right away.
+- 'And begin preparing lunch for the guests.' Getting back to business, Barinov orders the crew to start preparing lunch for the guests.
+- 'Everything will be ready on time, chef.' Senya salutes his boss and promises that the entire lunch service will be ready on time.

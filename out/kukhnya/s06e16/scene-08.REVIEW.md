@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So this is your future wife?' The guest inquires openly as they speak, joining "znachit" ("then, so") to "budushchaya" ("future, next") so every word pulls its weight.
-- 'She really looks wonderful today.' The guest picks a playful line on the spot, pairing "segodnya" ("today") with "deystvitelno" ("really, indeed") to get the point across in plain spoken Russian.
-- 'You Russians have very complicated last names.' The guest projects a measured mood in their talk, using "russkikh" (from "russkiy", "Russian") alongside "ochen" ("very much") to shape the meaning.
-- 'My Elena will simply be very happy.' Barinov maintains a playful position in this beat, pairing "budet" ("will be") with "prosto" ("just") to get the point across in plain spoken Russian.
-- 'Thank you, when will she come for a fitting?' The guest probes firmly to keep things clear, anchoring the Russian line on "blagodaryu" ("to thank") and "kogda" ("when") without extra filler.
-- 'Unfortunately, she will not be able to come herself.' Barinov shares a firm manner beside Kostya, anchoring the Russian line on "sozhaleniyu" ("regret") and "priyti" ("to come") without extra filler.
-- 'She is very busy every day right now.' Barinov maintains a serious stance toward the guest, joining "seychas" ("now") to "kazhdyy" ("every") so every word pulls its weight.
-- 'She has constant concerts and filming.' Barinov chooses a natural footing with Kostya, combining "postoyannyye" ("regular, permanent") and "kontserty" ("concert") so the key meaning lands right away.
-- 'But I will definitely think of something today.' Barinov favors an unhurried position in this beat, putting "obyazatelno" ("surely, without fail") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'Miss, you have had enough to drink today.' Kostya holds a thoughtful approach in the conversation, building the phrase around "devushka" ("girlfriend") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'Do not worry about me, Kostya.' The guest keeps a calm manner at once, joining "perezhivay" ("worry") to "ty" ("you") so every word pulls its weight.
-- 'I know how much I can drink.' The guest brings an unhurried line in their talk, leaning on "znayu" ("know") before closing the thought with "skolko" ("how much, so much").
+- 'So this is your future wife?' The guest sends the comment to Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'She really looks wonderful today.' The guest holds firm pointedly with Kostya, steering the talk right where he wants it.
+- 'You Russians have very complicated last names.' The guest leans on one concrete expression on cue: "slozhnyye" means "complicated" (from "slozhnyy"), giving the line its exact edge.
+- 'My Elena will simply be very happy.' Barinov shapes this statement for Kostya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Thank you, when will she come for a fitting?' The guest prompts promptly as Barinov tries to explain the situation.
+- 'Unfortunately, she will not be able to come herself.' Barinov frames this clear piece toward Kostya: "sozhaleniyu" means "regret" (from "sozhaleniye"), giving the line its exact edge.
+- 'She is very busy every day right now.' Barinov sends the reply without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'She has constant concerts and filming.' Barinov responds openly with a sigh, watching Kostya's face to see how the news lands.
+- 'But I will definitely think of something today.' Barinov stresses one telling touch on cue: "obyazatelno" means "surely, without fail", and it carries the main weight of what Barinov is saying.
+- 'Miss, you have had enough to drink today.' Kostya grounds one classic word for the guest: "devushka" means "girlfriend", and it carries the main weight of what Kostya is saying.
+- 'Do not worry about me, Kostya.' The guest counters steadily watching Barinov, making his position completely clear.
+- 'I know how much I can drink.' The guest centers one loaded word with Kostya: "mozhno" means "may, can", and it carries the main weight of what the guest is saying.

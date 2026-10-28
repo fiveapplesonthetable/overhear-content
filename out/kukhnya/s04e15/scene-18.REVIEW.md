@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, my heart is beating like a drum!' The inspector adopts a grounded manner beside German, using the everyday "u menya" ("by me") alongside "slushay" ("listen") to show what belongs to the speaker.
-- 'My fault, Comrade Colonel, permit me to report to you!' The inspector favors a natural note in front of Katya, weaving "vinovat" ("at fault, guilty") together with "tovarishch" ("comrade") just the way native speakers do.
-- 'Now report in order, what are you doing here?' German prompts calmly in the room, pairing "teper" ("now") with "dokladyvayte" ("to report, brief") to get the point across in plain spoken Russian.
-- 'Comrade Colonel, there is a dangerous den in this restaurant!' The inspector chooses an easygoing course in the scene, linking "tovarishch" ("comrade") directly with "polkovnik" ("Colonel"), since Russian drops "is" and "are" in the present.
-- 'During the day we tracked a small-time courier on the street.' The inspector projects a wry rhythm as the scene unfolds, using "dnyom" (from "den", "day") alongside "vysledili" ("to tracked") to shape the meaning.
-- 'They bring strange powder here under the guise of a novelty.' The inspector brings a warm style with Katya, leaning on "syuda" ("here") before closing the thought with "vidom" ("appearance").
-- 'And this girl mixes it right into the food!' The inspector projects a wry mood for German, putting "devushka" ("girlfriend") alongside "podmeshivayet" ("into") in a tight, everyday turn of phrase.
-- 'Good Lord, what a foolish person you really are!' Katya presents a clear course straight away, linking "glupyy" ("stupid") directly with "chelovek" ("a man, a person"), since Russian drops "is" and "are" in the present.
-- 'Strange, I myself visit this restaurant often.' German conveys an emphatic footing beside the inspector, weaving "stranno" ("strange") together with "restorane" ("restaurant") just the way native speakers do.
-- 'Who are you people at all and by what right?' German presses promptly right away, placing "voobshche" ("at all") straight beside "pravu" ("right, law") with no word for "to be" needed.
-- 'Comrade Colonel, we need to interrogate all the employees!' The inspector sets an honest style toward German, combining "tovarishch" ("comrade") and "polkovnik" ("Colonel") so the key meaning lands right away.
-- 'And we will urgently send the white powders for testing!' The inspector chooses an unhurried footing in the conversation, anchoring the Russian line on "belyye" ("white") and "poroshki" ("powder") without extra filler.
+- 'Listen, my heart is beating like a drum!' The inspector reacts dryly as things stand, refusing to let the moment slip past.
+- 'My fault, Comrade Colonel, permit me to report to you!' The inspector underscores this telling expression right here: "tovarishch" means "comrade", and it carries the main weight of what the inspector is saying.
+- 'Now report in order, what are you doing here?' German directs the comment on cue: putting the question word "chto" right at the front of the line lets the inspector hear the point of the question on the very first beat.
+- 'Comrade Colonel, there is a dangerous den in this restaurant!' The inspector responds earnestly in their talk, making his position completely clear.
+- 'During the day we tracked a small-time courier on the street.' The inspector leans on one memorable piece with German: "vysledili" means "to tracked" (from "vysledit"), giving the line its exact edge.
+- 'They bring strange powder here under the guise of a novelty.' The inspector continues promptly without any doubt, watching Katya's face to see how the news lands.
+- 'And this girl mixes it right into the food!' The inspector jumps in decisively without a pause, leaving no doubt about where he stands.
+- 'Good Lord, what a foolish person you really are!' Katya chooses one sharp touch for the inspector: "glupyy" means "stupid", and it carries the main weight of what Katya is saying.
+- 'Strange, I myself visit this restaurant often.' German fires back evenly facing the inspector, testing the inspector's reaction in the middle of the exchange.
+- 'Who are you people at all and by what right?' German asks eagerly to see how Katya will answer on the spot.
+- 'Comrade Colonel, we need to interrogate all the employees!' The inspector picks one loaded element toward German: "sotrudnikov" means "staff members" (from "sotrudnik"), giving the line its exact edge.
+- 'And we will urgently send the white powders for testing!' The inspector responds decisively with Katya, making his position completely clear.

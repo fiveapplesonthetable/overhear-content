@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, dear Victoria Sergeyevna.' Rodion presents a steady tack with Max, combining "dobroye" ("good") and "utro" ("morning") so the key meaning lands right away.
-- 'Good morning, respected Rodion Sergeyevich.' Vika takes a pointed stance as they talk, joining "dobroye" ("good") to "utro" ("morning") so every word pulls its weight.
-- 'You look simply wonderful today.' Rodion projects a pointed posture across the room, linking "segodnya" ("today"), "prosto" ("just"), and "prekrasno" ("perfectly") in one brisk exchange.
-- 'Where were you when I really looked wonderful?' Vika probes earnestly for Rodion's benefit, weaving "gde" ("where") together with "byli" ("be") just the way native speakers do.
-- 'Most likely I was right here.' Rodion conveys a clear view right away, building the phrase around "skoreye" ("quickly, right away") and "zdes" ("here") for a crisp, natural delivery.
-- 'Oh, our Maxim has returned, good morning, neighbors!' Rodion offers a pointed course in front of Vika, leaning on "vernulsya" ("returned") before closing the thought with "dobroye" ("good").
-- 'Let us see what is happening in the world out there.' Max favors a resolute rhythm in their talk, pairing "tvoritsya" ("is going on") with "posmotrim" ("have a look") so the "-sya" ending carries the action.
-- 'Rodion Sergeyevich, our club finally won!' Max maintains a warm style in the conversation, combining "klub" ("club, nightclub") and "nakonets" ("at last, finally") so the key meaning lands right away.
-- 'What a pity that our chef did not see this.' Max establishes an honest position in the room, weaving "kak" ("how") together with "zhalko" ("feel sorry for") just the way native speakers do.
-- 'Yes, what a pity Viktor Petrovich got poisoned so foolishly by a cockroach.' Rodion offers an unhurried rhythm in front of Vika, leaning on "zhal" ("it is a pity") before closing the thought with "glupo" ("stupid").
-- 'Here is everything I found, I will not cook today.' Vika picks a playful position in their talk, putting "nashla" ("found, did you find") alongside "segodnya" ("today") in a tight, everyday turn of phrase.
-- 'You are the very best I have, I never regretted choosing you.' Max presents a brisk stance at once, combining "samaya" ("most") and "luchshaya" ("best") so the key meaning lands right away.
+- 'Good morning, dear Victoria Sergeyevna.' Rodion reaches for this clear term in reply: "dorogaya" means "expensive" (from "dorogoy"), giving the line its exact edge.
+- 'Good morning, respected Rodion Sergeyevich.' Vika speaks plainly without a pause, refusing to let the moment slip past.
+- 'You look simply wonderful today.' Rodion jumps in honestly during the talk, watching Max's face to see how the news lands.
+- 'Where were you when I really looked wonderful?' Vika reaches for this direct detail in reply: "vyglyadela" means "looked" (from "vyglyadet"), giving the line its exact edge.
+- 'Most likely I was right here.' Rodion fires back boldly facing Max, leaving no doubt about where he stands.
+- 'Oh, our Maxim has returned, good morning, neighbors!' Rodion weighs in evenly without a pause, watching Vika's face to see how the news lands.
+- 'Let us see what is happening in the world out there.' Max leans on one telling detail on cue: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.
+- 'Rodion Sergeyevich, our club finally won!' Max drops this answer with warmth: the "-sya" ending on "nakonets" ("at last, finally") turns the action inward or makes it happen between people naturally.
+- 'What a pity that our chef did not see this.' Max cuts in steadily with a shrug, so Rodion knows he is not just making small talk.
+- 'Yes, what a pity Viktor Petrovich got poisoned so foolishly by a cockroach.' Rodion centers one concrete term at once: "tarakanom" means "cockroach" (from "tarakan"), giving the line its exact edge.
+- 'Here is everything I found, I will not cook today.' Vika holds firm briskly as things stand, leaving no doubt about where she stands.
+- 'You are the very best I have, I never regretted choosing you.' Max follows up evenly to be clear, making his position completely clear.

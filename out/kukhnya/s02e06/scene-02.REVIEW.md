@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, but at the moment your parking spot is taken.' Barinov establishes a sharp direction with Max, anchoring the Russian line on "izvinite" ("sorry, excuse me") and "dannyy" ("this, given") without extra filler.
-- 'You knew it was mine.' Max keeps a clear posture right away, using "znal" (from "znat", "knew") alongside "ty" ("you") to shape the meaning.
-- 'And for how many years now.' Barinov keeps a calm bearing beside Max, building the phrase around "uzhe" ("already, now") and "god" ("year") for a crisp, natural delivery.
-- 'In short.' Max shows a wry mood on the spot, putting all the weight on "obshchem" ("short, so") so the reply lands immediately.
-- 'I understand, everything is fine.' Barinov offers a pointed posture in this beat, joining "ponimayu" ("understand") to "pravilno" ("right") so every word pulls its weight.
-- 'A man drove up and paid for it.' Max brings a wry note right away, building the phrase around "chelovek" ("a man, a person") and "priyekhal" ("came") for a crisp, natural delivery.
-- 'What an unexpected meeting.' Barinov holds a firm style at once, building the phrase around "neozhidannaya" ("unexpected") and "vstrecha" ("a meeting") for a crisp, natural delivery.
-- 'And what are you doing here?' Max checks promptly as the talk turns, weaving "zdes" ("here") together with "delayesh" ("are you doing") just the way native speakers do.
-- 'By the way, he is the one who took your spot.' Barinov conveys a measured tack at this moment, joining "prochim" ("other") to "zanyal" ("took") so every word pulls its weight.
-- 'Chef, I have a counter-proposal.' Max shows a playful view straight away, linking "vstrechnoye" ("oncoming, random"), "predlozheniye" ("offer, proposal"), and "shef" ("Chef") in one brisk exchange.
-- 'I will handle it myself, Chef.' Max sustains a wry line toward Barinov, joining "ya" ("I") to "sam" ("yourself") so every word pulls its weight.
-- 'Damn, I screwed up again.' Max establishes a frank mood with Barinov, pairing "lazhanulsya" ("to screw up") with "chert" ("darn, heck") so the "-sya" ending carries the action.
-- 'How was I supposed to know?' Barinov quizzes honestly without a pause, joining "otkuda" ("where from") to "mog" ("can, to be able") so every word pulls its weight.
+- 'Excuse me, but at the moment your parking spot is taken.' Barinov offers that reply frankly here: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Barinov steps in.
+- 'You knew it was mine.' Max counters lightly without a pause, making his position completely clear.
+- 'And for how many years now.' Barinov stresses this direct word in earnest: "uzhe" means "already, now", and it carries the main weight of what Barinov is saying.
+- 'In short.' Max phrases this point frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I understand, everything is fine.' Barinov weighs in dryly in this moment, testing Max's reaction in the middle of the exchange.
+- 'A man drove up and paid for it.' Max reaches for one loaded term right here: "priyekhal" means "came" (from "priyekhat"), giving the line its exact edge.
+- 'What an unexpected meeting.' Barinov frames that line beside Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'And what are you doing here?' Max challenges skeptically why things suddenly took this turn between them.
+- 'By the way, he is the one who took your spot.' Barinov sharpens one memorable detail with Max: "prochim" means "other" (from "prochiy"), giving the line its exact edge.
+- 'Chef, I have a counter-proposal.' Max phrases this update right away: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I will handle it myself, Chef.' Max stands firm pointedly as things stand, so Barinov knows he is not just making small talk.
+- 'Damn, I screwed up again.' Max points to one concrete choice in earnest: "lazhanulsya" means "to screw up" (from "lazhanutsya"), giving the line its exact edge.
+- 'How was I supposed to know?' Barinov hands over that point at once: putting the question word "otkuda" right at the front of the line lets Max hear the point of the question on the very first beat.

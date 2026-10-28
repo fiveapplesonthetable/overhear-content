@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'Chef, I can explain everything in detail now.' Seeing his chance to push his counter-prank in front of witnesses, Max steps in and offers to explain everything."),
     (2, None, "'You, boy, picked the wrong girl today!' Glaring at Max, Vika warns him that he picked the wrong woman to mess with today."),
     (3, None, "'And now we will put on a real fun show.' Not backing down, Max whispers that it is time to put on a real show."),
-    (4, None, "'Hello, Tatyana, let' Turning to Tanya with a polite bow, Max introduces himself as Maxim."),
+    (4, None, "'Hello, Tatyana, let's get acquainted, I am Maxim.' Turning to Tanya with a polite bow, Max introduces himself as Maxim."),
     (5, None, "'Max, stop this silly circus immediately!' Mortified, Vika hisses at him to stop this ridiculous circus at once."),
     (6, None, "'I am the father of your future wonderful nephew!' Playing the proud fiancé, Max announces to Tanya that he is the father of her future nephew."),
     (7, None, "'You are behaving like a complete madman!' Vika tells him he is acting like a complete lunatic."),

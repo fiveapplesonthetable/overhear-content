@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Sometimes we need to make difficult decisions.' Max keeps a playful position in their talk, linking "inogda" ("sometimes, at times"), "nuzhno" ("necessary"), and "prinimat" ("to receive") in one brisk exchange.
-- 'To fight for our love or give up.' Max favors a sharp approach during the exchange, building the phrase around "borotsya" ("to fight") and "lyubov" ("love") for a crisp, natural delivery.
-- 'Or simply look for a new goal.' Max maintains a clear approach with Kostya, putting "prosto" ("just") alongside "iskat" ("to look for") in a tight, everyday turn of phrase.
-- 'And everything depends on this decision.' Max establishes a measured angle beside Nastya, pairing "resheniya" ("decision") with "zavisit" ("depends") to get the point across in plain spoken Russian.
-- 'Our Kuzma just kicked me.' Nastya displays a measured approach at this moment, joining "tolko" ("only") to "tolknul" ("kicked, pushed") so every word pulls its weight.
-- 'What, where is he right now?' Kostya asks quietly at this point, placing "gde" ("where") straight beside "seychas" ("now") with no word for "to be" needed.
-- 'Actually, Kuzma is our future son.' Nastya strikes an honest style without hesitation, pairing "voobshche-to" ("actually") with "budushchiy" ("future") to get the point across in plain spoken Russian.
-- 'I do not understand, why Kuzma specifically?' Kostya quizzes evenly beside Nastya, anchoring the Russian line on "ponyal" ("understood") and "pochemu" ("why") without extra filler.
-- 'What, you do not like Kuzma either?' Nastya queries candidly from the start, building the phrase around "tozhe" ("too") and "nravitsya" ("is pleasing") for a crisp, natural delivery.
-- 'Kostya, there is no pleasing you at all.' Nastya favors a pointed course at once, building the phrase around "sovsem" ("at all") and "ugodish" ("please") for a crisp, natural delivery.
-- 'Nastya, because those are strange names.' Kostya adopts a grounded bearing across the room, linking "potomu" ("because") directly with "strannyye" ("strange"), since Russian drops "is" and "are" in the present.
-- 'And everyone will tease our son.' Kostya holds a pointed manner across the room, putting "synom" ("son") alongside "izdevatsya" ("to mock") in a tight, everyday turn of phrase.
+- 'Sometimes we need to make difficult decisions.' Max sharpens this clear term on cue: "slozhnyye" means "complicated" (from "slozhnyy"), giving the line its exact edge.
+- 'To fight for our love or give up.' Max lays out that line frankly here: the "-sya" ending on "borotsya" ("to fight") turns the action inward or makes it happen between people naturally.
+- 'Or simply look for a new goal.' Max chimes in right away with a shrug, before Kostya can change the subject.
+- 'And everything depends on this decision.' Max leans on one telling touch toward Nastya: "resheniya" means "decision" (from "resheniye"), giving the line its exact edge.
+- 'Our Kuzma just kicked me.' Nastya pushes back frankly with a sigh, so Kostya knows she is not just making small talk.
+- 'What, where is he right now?' Kostya inquires candidly how Nastya expects that to work in practice.
+- 'Actually, Kuzma is our future son.' Nastya stresses this direct element at once: "voobshche-to" means "actually", and it carries the main weight of what Nastya is saying.
+- 'I do not understand, why Kuzma specifically?' Kostya voices that answer around Nastya: putting the question word "pochemu" right at the front of the line lets Nastya hear the point of the question on the very first beat.
+- 'What, you do not like Kuzma either?' Nastya prompts plainly while looking straight at Kostya here.
+- 'Kostya, there is no pleasing you at all.' Nastya sharpens this sharp term with Max: "ugodish" means "please" (from "ugodit"), giving the line its exact edge.
+- 'Nastya, because those are strange names.' Kostya directs this answer at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And everyone will tease our son.' Kostya proceeds openly with a sigh, before Nastya can change the subject.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nikita, what are you doing here so late?' Katya questions candidly right away, anchoring the Russian line on "tut" ("here") and "pozdno" ("too late, late") without extra filler.
-- 'I have a matter of life and death.' Nikita offers a calm tack in this beat, leaning on "vopros" ("question, matter") before closing the thought with "zhizni" ("life").
-- 'You must blindfold your eyes and walk into the hall.' Nikita presents a measured footing beside Barinov, combining "dolzhna" ("should, must") and "zavyazat" ("to blindfold") so the key meaning lands right away.
-- 'Alright, but I also have an important matter.' Katya adopts a pointed view as they talk, joining "tozhe" ("too") to "vazhnoye" ("important") so every word pulls its weight.
-- 'I need five minutes to finish everything.' Katya sets a clear tone in the conversation, building the phrase around "nuzhno" ("necessary") and "minut" ("minutes") for a crisp, natural delivery.
-- 'Otherwise the whole kitchen could flood with foam.' Katya conveys a thoughtful tone right away, weaving "inache" ("otherwise") together with "kukhnyu" ("kitchen") just the way native speakers do.
-- 'Alright, I will wait for you by the door.' Nikita strikes a warm approach with Barinov, joining "khorosho" ("good, fine") to "podozhdu" ("will wait") so every word pulls its weight.
-- 'I am heading in, we will be there in a couple of minutes.' Nikita shows a steady manner at once, linking "poshyol" ("went, set off"), "budem" ("will"), and "paru" ("couple") in one brisk exchange.
-- 'Look what a dangerous moment this is right now!' Barinov favors a resolute style for Katya, linking "smotri" ("look"), "seychas" ("now"), and "opasnyy" ("dangerous") in one brisk exchange.
-- 'I just need a little practice, and you are done for!' Barinov maintains a steady tempo in front of Nikita, pairing "natrenirovatsya" ("to practice enough") with "tolko" ("only") so the "-sya" ending carries the action.
-- 'Chef, I was letting you win!' Nikita adopts a steady mood straight away, combining "poddavalsya" ("was letting win") and "shef" ("Chef") so the key meaning lands right away.
-- 'Open the door, that is Timur with the crib!' Barinov projects a lively angle right away, joining "otkryvay" ("to open") to "dver" ("door") so every word pulls its weight.
+- 'Nikita, what are you doing here so late?' Katya brings the reaction beside Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'I have a matter of life and death.' Nikita weighs in openly toward Katya, bringing things back to earth after the buildup.
+- 'You must blindfold your eyes and walk into the hall.' Nikita reaches for one vivid touch for Barinov: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
+- 'Alright, but I also have an important matter.' Katya voices the remark with ease: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I need five minutes to finish everything.' Katya answers boldly with Barinov, shifting the whole mood of the room in a single beat.
+- 'Otherwise the whole kitchen could flood with foam.' Katya leans on this clear choice with Nikita: "kukhnyu" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'Alright, I will wait for you by the door.' Nikita frames this update on cue: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'I am heading in, we will be there in a couple of minutes.' Nikita steps in frankly in their talk, before Katya can change the subject.
+- 'Look what a dangerous moment this is right now!' Barinov underscores one clear detail at once: "opasnyy" means "dangerous", and it carries the main weight of what Barinov is saying.
+- 'I just need a little practice, and you are done for!' Barinov aims this answer right away: the "-sya" ending on "natrenirovatsya" ("to practice enough") turns the action inward or makes it happen between people naturally.
+- 'Chef, I was letting you win!' Nikita reacts decisively on the spot, letting the remark speak for itself.
+- 'Open the door, that is Timur with the crib!' Barinov stresses one familiar touch on cue: "krovatkoy" means "baby crib" (from "krovatka"), giving the line its exact edge.

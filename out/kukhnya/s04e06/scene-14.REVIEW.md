@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tonight a very important person will come to us.' Vika shows a resolute course at once, weaving "segodnya" ("today") together with "vecherom" ("in the evening") just the way native speakers do.
-- 'Dmitry Vladimirovich asked to reserve the best table.' Vika maintains a playful approach in this beat, pairing "poprosil" ("asked") with "zarezervirovat" ("to reserve") to get the point across in plain spoken Russian.
-- 'And he asked not to forget about the expensive wine!' Kostya adopts a natural line right away, pairing "prosil" ("ask for") with "zabyt" ("forget") to get the point across in plain spoken Russian.
-- 'Max, where are you, I urgently need the bottle!' Kostya strikes a direct posture toward Vika, pairing "gde" ("where") with "srochno" ("urgent, urgently") to get the point across in plain spoken Russian.
-- 'Kostya, I am here, take your expensive bottle.' Max chooses a direct course at this moment, joining "zdes" ("here") to "derzhi" ("here you go") so every word pulls its weight.
-- 'I am returning it in the exact condition I took it!' Max establishes a natural position across the room, leaning on "vozvrashchayu" ("bring back") before closing the thought with "vide" ("state").
-- 'Good man, tell me honestly, where did you get it?' Kostya checks plainly as they speak, linking "krasavets" ("handsome man"), "skazhi" ("say"), and "chestno" ("honestly") in one brisk exchange.
-- 'I simply poured another wine into the old bottle.' Max sustains a pointed stance toward Vika, joining "prosto" ("just") to "zalil" ("flooded, spilled over") so every word pulls its weight.
-- 'Max, are you in your right mind right now?' Vika tests frankly to Kostya here, linking "voobshche" ("at all"), "seychas" ("now"), and "ume" ("mind, head") in one brisk exchange.
-- 'It is just as tart, nobody will notice!' Max projects an honest style in their talk, building the phrase around "tochno" ("definitely") and "kislenkoye" ("notice") for a crisp, natural delivery.
-- 'No, we will not give Nagiyev cheap wine!' Vika shares an easygoing approach with Kostya, leaning on "dadim" ("give, bring") before closing the thought with "deshyovoye" ("cheap").
-- 'I already ordered a real bottle on the internet!' Vika strikes an unhurried footing as the scene unfolds, leaning on "uzhe" ("already, now") before closing the thought with "zakazala" ("to order").
-- 'Have you lost your mind, it costs so much money!' Max chooses an honest attitude at once, weaving "uma" ("mind") together with "soshla" ("went off, lost") just the way native speakers do.
+- 'Tonight a very important person will come to us.' Vika steps in sharply around Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'Dmitry Vladimirovich asked to reserve the best table.' Vika chimes in firmly with a nod, without trying to dress up how she really feels.
+- 'And he asked not to forget about the expensive wine!' Kostya spotlights this direct element on cue: "dorogoye" means "expensive" (from "dorogoy"), giving the line its exact edge.
+- 'Max, where are you, I urgently need the bottle!' Kostya gives the comment at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Kostya, I am here, take your expensive bottle.' Max responds calmly without any doubt, to clear the air between them once and for all.
+- 'I am returning it in the exact condition I took it!' Max centers one familiar term for Vika: "vozvrashchayu" means "bring back" (from "vozvrashchat"), giving the line its exact edge.
+- 'Good man, tell me honestly, where did you get it?' Kostya aims that thought in earnest: the "-sya" ending on "krasavets" ("handsome man") turns the action inward or makes it happen between people naturally.
+- 'I simply poured another wine into the old bottle.' Max stands firm quietly during the talk, leaving no doubt about where he stands.
+- 'Max, are you in your right mind right now?' Vika picks one colorful word toward Kostya: "voobshche" means "at all", and it carries the main weight of what Vika is saying.
+- 'It is just as tart, nobody will notice!' Max states this warning with candor: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'No, we will not give Nagiyev cheap wine!' Vika opens up dryly as things stand, making her position completely clear.
+- 'I already ordered a real bottle on the internet!' Vika favors one practical choice on cue: "nastoyashchuyu" means "real, genuine" (from "nastoyashchiy"), giving the line its exact edge.
+- 'Have you lost your mind, it costs so much money!' Max reaches for one colorful detail in reply: "soshla" means "went off, lost" (from "soyti"), giving the line its exact edge.

@@ -28,7 +28,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Vika, we need to talk seriously.' Vadim initiates an important conversation.
 - 'I already told you everything.' Vika dismisses his attempt to talk.
-- 'Come on, don' Vadim asks her to let go of her anger.
+- 'Come on, don't be angry with me.' Vadim asks her to let go of her anger.
 - 'You know my real feelings.' Vadim reminds her of his true emotions.
 - 'Leave me alone right now!' Vika demands to be left in peace.
 - 'Vadik, darling, there you are!' Elvira joyfully finds her husband.

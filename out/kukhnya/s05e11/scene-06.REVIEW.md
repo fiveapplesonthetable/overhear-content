@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And can we use all of this?' The guest inquires firmly in the room, leaning on "mozhno" ("may, can") before closing the thought with "polzovatsya" ("to use").
-- 'Grandma, it is all yours! Why did you not tell them about us?' Max prompts steadily as the talk turns, combining "babushka" ("old lady") and "pochemu" ("why") so the key meaning lands right away.
-- 'Grandpa has a weak heart. He had a heart attack.' Vika maintains a resolute angle on the spot, anchoring the Russian line on "deda" ("grandfathers") and "slaboye" ("weak") without extra filler.
-- 'They came for one day. Do not tell them, okay?' Vika wonders honestly for Max's benefit, pairing "den" ("day") with "priyekhali" ("we've arrived") to get the point across in plain spoken Russian.
-- 'And what is this? Vodka!' The guest queries bluntly in this moment, combining "vodka" ("vodka") and "eto" ("this") so the key meaning lands right away.
-- 'Here is your vodka, just as bitter and strong. Drink!' The guest chooses a direct style in this beat, putting "vodka" ("vodka") alongside "gorkaya" ("bitter") in a tight, everyday turn of phrase.
-- 'I cannot stand the sight of these drops! They make me nauseous.' Max offers an earnest line at this moment, weaving "kapel" ("drops") together with "videt" ("to see") just the way native speakers do.
-- 'Do not look and drink!' The guest shares an honest position in front of Vika, leaning on "smotri" ("look") before closing the thought with "pey" ("drink").
-- 'Maxim, Vika, do something with him!' The guest sets a measured attitude during the exchange, leaning on "sdelayte" ("make") before closing the thought with "maksim" ("Maksim").
-- 'The doctors strictly forbade eating meat.' The guest shows a frank note for Vika, linking "vrachi" ("doctors"), "strogo" ("sternly, strictly"), and "zapretili" ("to forbid, to ban") in one brisk exchange.
-- 'Maxim, in an hour we need to go to the doctor.' The guest takes a sharp approach straight away, combining "chas" ("hour") and "nado" ("it is necessary") so the key meaning lands right away.
-- 'Alright, grandma, we will keep an eye on him.' Max maintains a calm direction at once, building the phrase around "khorosho" ("good, fine") and "babushka" ("old lady") for a crisp, natural delivery.
+- 'And can we use all of this?' The guest quizzes openly whether Max really thought this through.
+- 'Grandma, it is all yours! Why did you not tell them about us?' Max stresses one key element for Vika: "babushka" means "old lady", and it carries the main weight of what Max is saying.
+- 'Grandpa has a weak heart. He had a heart attack.' Vika chimes in warmly during the talk, letting the remark speak for itself.
+- 'They came for one day. Do not tell them, okay?' Vika checks evenly why things suddenly took this turn between them.
+- 'And what is this? Vodka!' The guest sharpens one key element at once: "vodka" means "vodka", and it carries the main weight of what the guest is saying.
+- 'Here is your vodka, just as bitter and strong. Drink!' The guest anchors this telling expression with Vika: "krepkaya" means "strong, sturdy" (from "krepkiy"), giving the line its exact edge.
+- 'I cannot stand the sight of these drops! They make me nauseous.' Max weighs in openly hearing the guest, steering the talk right where he wants it.
+- 'Do not look and drink!' The guest favors this telling piece in reply: "smotri" means "look" (from "smotret"), giving the line its exact edge.
+- 'Maxim, Vika, do something with him!' The guest answers bluntly in their talk, bringing things back to earth after the buildup.
+- 'The doctors strictly forbade eating meat.' The guest steps in wryly with Vika, to clear the air between them once and for all.
+- 'Maxim, in an hour we need to go to the doctor.' The guest grounds one memorable choice in earnest: "vrachu" means "the doctor" (from "vrach"), giving the line its exact edge.
+- 'Alright, grandma, we will keep an eye on him.' Max states the remark briskly now: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".

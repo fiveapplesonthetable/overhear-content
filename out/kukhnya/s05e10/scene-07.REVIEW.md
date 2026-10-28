@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Once again forgive us for this incident.' Mikhail displays an honest style with the inspector, joining "yeshchyo" ("more, still") to "raz" ("time, once") so every word pulls its weight.
-- 'In our hotel we have a golden rule.' Mikhail adopts a warm posture across the room, joining "otele" ("in the hotel") to "zolotoye" ("gold") so every word pulls its weight.
-- 'The guest is always right. If he wants to drink, he drinks.' Mikhail sets a pointed attitude across the room, pairing "gost" ("guest") with "vsegda" ("always") to get the point across in plain spoken Russian.
-- 'And why is your employee drinking with him?' The inspector inquires earnestly on the spot, leaning on "pochemu" ("why") before closing the thought with "pyot" ("drinks").
-- 'Also a golden rule!' Mikhail adopts a measured tone as the scene unfolds, leaning on "tozhe" ("too") before closing the thought with "zolotoye" ("gold").
-- 'He was completely drunk!' The inspector chooses a candid tone as they talk, leaning on "byl" ("was") before closing the thought with "absolyutno" ("completely").
-- 'No!' Mikhail holds a resolute tempo without hesitation, using "net" ("no") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Do you think that I am an idiot?' The inspector tests firmly on the spot, combining "dumayete" ("think") and "idiot" ("idiot") so the key meaning lands right away.
-- 'Where is this employee of yours?' The inspector wonders naturally right away, linking "gde" ("where"), "sotrudnik" ("employee"), and "etot" ("this") in one brisk exchange.
-- 'At his workplace.' Mikhail offers a resolute approach straight away, building the phrase around "rabochem" ("work") and "meste" ("place") for a crisp, natural delivery.
-- 'Viktoriya Sergeyevna, find Yaroslav immediately.' Mikhail favors an earnest angle with the inspector, building the phrase around "nemedlenno" ("immediately") and "naydite" ("find") for a crisp, natural delivery.
-- 'And I will catch up!' Mikhail takes a playful course without hesitation, joining "dogonyu" ("will catch up with") to "ya" ("I") so every word pulls its weight.
+- 'Once again forgive us for this incident.' Mikhail colors one concrete element on cue: "intsident" means "incident", and it carries the main weight of what Mikhail is saying.
+- 'In our hotel we have a golden rule.' Mikhail shapes the reaction calmly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'The guest is always right. If he wants to drink, he drinks.' Mikhail answers lightly with the inspector, to clear the air between them once and for all.
+- 'And why is your employee drinking with him?' The inspector reaches for one direct detail in reply: "sotrudnik" means "employee", and it carries the main weight of what the inspector is saying.
+- 'Also a golden rule!' Mikhail gives this warning briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'He was completely drunk!' The inspector responds bluntly in this moment, grounding the moment in plain reality.
+- 'No!' Mikhail sends this warning plainly here: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'Do you think that I am an idiot?' The inspector shares this update plainly here: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
+- 'Where is this employee of yours?' The inspector challenges skeptically in front of Mikhail without any preamble.
+- 'At his workplace.' Mikhail centers one telling choice right here: "rabochem" means "work" (from "rabochiy"), giving the line its exact edge.
+- 'Viktoriya Sergeyevna, find Yaroslav immediately.' Mikhail speaks up candidly without any doubt, leaving no doubt about where he stands.
+- 'And I will catch up!' Mikhail speaks warmly on the spot, without trying to dress up how he really feels.

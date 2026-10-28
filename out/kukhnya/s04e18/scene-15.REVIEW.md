@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just make sure you do not lose that key.' German sets an earnest stance toward Denis, combining "tolko" ("only") and "smotri" ("look") so the key meaning lands right away.
-- 'Do not worry, only I have the key.' Denis brings a frank line in the conversation, combining "volnuytes" ("worry") and "klyuch" ("key") so the key meaning lands right away.
-- 'So German himself set all of this up!' Vika holds a direct footing in the conversation, linking "znachit" ("then, so"), "podstroil" ("engineered"), and "eto" ("this") in one brisk exchange.
-- 'What a cunning scoundrel he is!' Vika sets an emphatic stance right away, putting "khitryy" ("cunning") alongside "podlets" ("scoundrel, villain") in a tight, everyday turn of phrase.
-- 'That is the kind of handsome man he is.' German establishes a serious footing as they talk, building the phrase around "krasivyy" ("beautiful") and "chelovek" ("a man, a person") for a crisp, natural delivery.
-- 'Vika, he will pay for everything.' German favors a clear note toward Vika, linking "otvetit" ("will answer"), "vika" ("Vika"), and "on" ("he") in one brisk exchange.
-- 'I firmly promise you that.' German offers a clear tack in this beat, pairing "tvyordo" ("firmly") with "obeshchayu" ("promise") to get the point across in plain spoken Russian.
-- 'And I want to help too.' Vika holds a sharp tone in this beat, combining "tozhe" ("too") and "khochu" ("want") so the key meaning lands right away.
-- 'Tonight we are having dinner at Senya's place.' Denis conveys a thoughtful note toward German, anchoring the Russian line on "segodnya" ("today") and "uzhinayem" ("to dine") without extra filler.
-- 'But I have plans for the evening.' Vika favors a lively approach straight away, joining "plany" ("plans") to "vecher" ("evening") so every word pulls its weight.
-- 'That's right, you are going with me to Senya's.' Denis takes a grounded mood right away, combining "pravilno" ("right") and "idyosh" ("are coming") so the key meaning lands right away.
-- 'We will meet in the evening after work.' Denis offers a pointed manner during the exchange, putting "vstretimsya" ("we'll meet") alongside "vecherom" ("in the evening") in a tight, everyday turn of phrase.
+- 'Just make sure you do not lose that key.' German answers quietly to settle things, keeping the focus on what actually matters here.
+- 'Do not worry, only I have the key.' Denis anchors this clear detail with Vika: "volnuytes" means "worry" (from "volnovatsya"), giving the line its exact edge.
+- 'So German himself set all of this up!' Vika proceeds warmly beside Denis, watching Denis's face to see how the news lands.
+- 'What a cunning scoundrel he is!' Vika answers honestly on the spot, shifting the whole mood of the room in a single beat.
+- 'That is the kind of handsome man he is.' German anchors one classic touch in earnest: "krasivyy" means "beautiful", and it carries the main weight of what German is saying.
+- 'Vika, he will pay for everything.' German speaks up honestly on the spot, leaving no doubt about where he stands.
+- 'I firmly promise you that.' German weighs in warmly beside Denis, so Denis knows he is not just making small talk.
+- 'And I want to help too.' Vika focuses on one colorful detail on cue: "khochu" means "want" (from "khotet"), giving the line its exact edge.
+- 'Tonight we are having dinner at Senya's place.' Denis fires back pointedly in their talk, to clear the air between them once and for all.
+- 'But I have plans for the evening.' Vika speaks up briskly watching German, grounding the moment in plain reality.
+- 'That's right, you are going with me to Senya's.' Denis points to this clear piece on cue: "pravilno" means "right", and it carries the main weight of what Denis is saying.
+- 'We will meet in the evening after work.' Denis directs the reaction without fuss: the "-sya" ending on "vstretimsya" ("we'll meet") turns the action inward or makes it happen between people naturally.

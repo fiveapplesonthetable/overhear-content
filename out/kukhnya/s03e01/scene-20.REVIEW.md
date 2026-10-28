@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is a real, genuine date.' The guest establishes a firm rhythm as the scene unfolds, using "samoye" (from "samyy", "the most") alongside "nastoyashcheye" ("real") to shape the meaning.
-- 'My name is Nikolai.' The guest shows a sharp tack with Vika, weaving "zovut" ("call") together with "menya" ("me") just the way native speakers do.
-- 'We met a year ago at a festival.' The guest establishes a serious view beside Max, combining "vstrechalis" ("to meet, to date") and "god" ("year") so the key meaning lands right away.
-- 'You looked simply stunning.' The guest establishes a warm rhythm without hesitation, combining the softening word "prosto" ("simply, just") with "vyglyadeli" ("looked") to give the line its natural spoken rhythm.
-- 'Hi! By the way, there is a fine for breaking dishes.' Max shows a frank tack for the guest, joining "prochim" ("other") to "boy" ("fight, combat") so every word pulls its weight.
-- 'When will you get out of my life?' Vika questions pointedly for Max's benefit, anchoring the Russian line on "kogda" ("when") and "uydyosh" ("you'll leave") without extra filler.
-- 'Stop! Do you want me to leave?' Max probes frankly as the beat lands, joining "khochesh" ("do you want") to "ushyol" ("left, departed") so every word pulls its weight.
-- 'Fine, I can leave.' Max keeps a natural position in the conversation, putting "mogu" ("can") alongside "uyti" ("to leave") in a tight, everyday turn of phrase.
-- 'Is everything all right?' The guest prompts calmly in front of Max, weaving "normalno" ("fine, OK") together with "vsyo" ("everything") just the way native speakers do.
-- 'Yes. Thank you.' Max adopts a natural posture in the room, leaning on "spasibo" ("thank you") before closing the thought with "da" ("yes").
-- 'Well, and what did you achieve with this?' Vika wonders naturally to keep things clear, anchoring the Russian line on "dobilsya" ("achieved") and "nu" ("oh, come on") without extra filler.
-- 'You came on a date with me.' Max favors a resolute rhythm at this moment, joining "prishla" ("came") to "svidaniye" ("date") so every word pulls its weight.
+- 'This is a real, genuine date.' The guest hands over this update with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'My name is Nikolai.' The guest steps in candidly to settle things, before Vika can change the subject.
+- 'We met a year ago at a festival.' The guest centers this clear expression in reply: "vstrechalis" means "to meet, to date" (from "vstrechatsya"), giving the line its exact edge.
+- 'You looked simply stunning.' The guest drops this answer beside Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Hi! By the way, there is a fine for breaking dishes.' Max steps in at once in this moment, watching the guest's face to see how the news lands.
+- 'When will you get out of my life?' Vika points to this vivid detail in reply: "zhizni" means "life" (from "zhizn"), giving the line its exact edge.
+- 'Stop! Do you want me to leave?' Max voices that point toward the guest: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'Fine, I can leave.' Max counters pointedly without a pause, so Vika knows he is not just making small talk.
+- 'Is everything all right?' The guest stresses one vivid choice in earnest: "normalno" means "fine, OK", and it carries the main weight of what the guest is saying.
+- 'Yes. Thank you.' Max aims the reaction right away: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Well, and what did you achieve with this?' Vika prompts briskly if there is more going on behind the scenes.
+- 'You came on a date with me.' Max underscores this vivid element at once: "svidaniye" means "date", and it carries the main weight of what Max is saying.

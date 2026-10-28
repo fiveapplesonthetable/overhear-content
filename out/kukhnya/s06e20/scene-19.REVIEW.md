@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will not change your decision.' Mikhail takes a calm position in the room, joining "izmenyu" ("to cheat on") to "resheniye" ("decision") so every word pulls its weight.
-- 'But his restaurant is worthy of receiving a star.' Mikhail keeps a serious tone at once, anchoring the Russian line on "restoran" ("restaurant") and "dostoin" ("worthy, deserving") without extra filler.
-- 'After all, he is a true culinary fanatic.' Mikhail takes a steady tempo across the room, linking "nastoyashchiy" ("real, genuine") directly with "kulinarnyy" ("culinary"), since Russian drops "is" and "are" in the present.
-- 'Such a man will die at his work.' Mikhail takes a sharp tack without hesitation, building the phrase around "chelovek" ("a man, a person") and "umryot" ("will die") for a crisp, natural delivery.
-- 'He truly does not spare himself here.' Mikhail shares a sharp view right away, linking "deystvitelno" ("really, indeed"), "zdes" ("here"), and "zhaleyet" ("to pity, spare") in one brisk exchange.
-- 'For his health he must not work right now.' Mikhail presents a serious posture as they talk, weaving "zdorovyu" ("the health") together with "nelzya" ("not allowed") just the way native speakers do.
-- 'Two months ago he was in a coma.' Mikhail strikes a sharp position in the conversation, weaving "mesyatsa" ("months") together with "nazad" ("ago") just the way native speakers do.
-- 'But who can stop him?' Mikhail checks steadily at this point, leaning on "mozhet" ("can") before closing the thought with "ostanovit" ("to stop").
-- 'Why should I believe you again?' The inspector checks steadily in front of Mikhail, joining "pochemu" ("why") to "opyat" ("again") so every word pulls its weight.
-- 'Because this is the pure truth.' Mikhail adopts a grounded line at once, linking "potomu" ("because"), "chistaya" ("clean"), and "pravda" ("honestly") in one brisk exchange.
-- 'Today this liar saved your life.' Mikhail holds a measured stance without hesitation, weaving "segodnya" ("today") together with "lzhets" ("liar") just the way native speakers do.
-- 'The battery in my phone simply died.' Mikhail strikes a grounded direction as the scene unfolds, weaving "prosto" ("just") together with "batareyka" ("battery") just the way native speakers do.
+- 'I will not change your decision.' Mikhail focuses on one concrete expression for the inspector: "resheniye" means "decision", and it carries the main weight of what Mikhail is saying.
+- 'But his restaurant is worthy of receiving a star.' Mikhail counters promptly as things stand, letting the remark speak for itself.
+- 'After all, he is a true culinary fanatic.' Mikhail speaks frankly with the inspector, shifting the whole mood of the room in a single beat.
+- 'Such a man will die at his work.' Mikhail grounds one practical detail in reply: "rabote" means "work" (from "rabota"), giving the line its exact edge.
+- 'He truly does not spare himself here.' Mikhail opens up dryly before the inspector, saying out loud what both of them already know.
+- 'For his health he must not work right now.' Mikhail follows up steadily with a sigh, shifting the whole mood of the room in a single beat.
+- 'Two months ago he was in a coma.' Mikhail sharpens one sharp term right here: "mesyatsa" means "months" (from "mesyats"), giving the line its exact edge.
+- 'But who can stop him?' Mikhail frames the comeback without fuss: putting the question word "kto" right at the front of the line lets the inspector hear the point of the question on the very first beat.
+- 'Why should I believe you again?' The inspector wonders skeptically in front of Mikhail without any preamble.
+- 'Because this is the pure truth.' Mikhail features one practical detail right here: "chistaya" means "clean" (from "chistyy"), giving the line its exact edge.
+- 'Today this liar saved your life.' Mikhail grounds one direct piece toward the inspector: "segodnya" means "today", and it carries the main weight of what Mikhail is saying.
+- 'The battery in my phone simply died.' Mikhail replies right away hearing the inspector, watching the inspector's face to see how the news lands.

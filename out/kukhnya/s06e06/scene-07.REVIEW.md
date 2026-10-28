@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, you speak French well after all.' Ainura conveys a candid direction without hesitation, building the phrase around "po-frantsuzski" ("in French") and "khorosho" ("good, fine") for a crisp, natural delivery.
-- 'Here, we almost sent this to the cleaners with the jacket.' Ainura establishes a grounded position in this beat, leaning on "chut" ("almost, nearly") before closing the thought with "vmeste" ("together").
-- 'Read it, maybe he is some kind of spy?' Ainura wonders dryly toward Barinov here, joining "prochitay" ("to read") to "mozhet" ("can") so every word pulls its weight.
-- 'Olivier Dubois is a Michelin inspector!' Barinov sets a thoughtful direction at this moment, anchoring the Russian line on "inspektor" ("inspector") and "olivye" ("Olivier") without extra filler.
-- 'So he really is a foreign spy?' Ainura inquires promptly for Barinov's benefit, anchoring the Russian line on "znachit" ("then, so") and "pravda" ("honestly") without extra filler.
-- 'No, Ainura, this is much worse!' Barinov sustains a serious course right away, combining "namnogo" ("much, far") and "khuzhe" ("worse") so the key meaning lands right away.
-- 'What diagnosis are we going to give?' Ainura challenges quietly without hesitation, putting "budem" ("will") alongside "stavit" ("to put, to place") in a tight, everyday turn of phrase.
-- 'That is what I am paying you money for.' Barinov displays a steady style as the scene unfolds, leaning on "dengi" ("money") before closing the thought with "plachu" ("pay").
-- 'Mom, hello, what happened to you?' Katya quizzes warmly to make the point, weaving "mama" ("mum, mother") together with "sluchilos" ("happened") just the way native speakers do.
-- 'Doctor, what is wrong with my mother right now?' Ainura wonders pointedly in the scene, joining "doktor" ("Doctor") to "seychas" ("now") so every word pulls its weight.
-- 'She had a severe blood pressure spike today.' Barinov shows an emphatic bearing beside Ainura, putting "segodnya" ("today") alongside "silnyy" ("the strong") in a tight, everyday turn of phrase.
-- 'And what now, does she need a hospital?' Katya presses briskly toward Barinov here, building the phrase around "teper" ("now") and "nuzhna" ("needed") for a crisp, natural delivery.
+- 'Chef, you speak French well after all.' Ainura underscores one key piece in earnest: "po-frantsuzski" means "in French", and it carries the main weight of what Ainura is saying.
+- 'Here, we almost sent this to the cleaners with the jacket.' Ainura cuts in wryly hearing Katya, grounding the moment in plain reality.
+- 'Read it, maybe he is some kind of spy?' Ainura tests evenly as Barinov tries to explain the situation.
+- 'Olivier Dubois is a Michelin inspector!' Barinov features this direct expression for Katya: "inspektor" means "inspector", and it carries the main weight of what Barinov is saying.
+- 'So he really is a foreign spy?' Ainura states that remark before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'No, Ainura, this is much worse!' Barinov stands firm calmly around Katya, testing Katya's reaction in the middle of the exchange.
+- 'What diagnosis are we going to give?' Ainura chooses one familiar term at once: "diagnoz" means "diagnosis", and it carries the main weight of what Ainura is saying.
+- 'That is what I am paying you money for.' Barinov frames one familiar choice right here: "dengi" means "money", and it carries the main weight of what Barinov is saying.
+- 'Mom, hello, what happened to you?' Katya tests firmly before Ainura can change the subject.
+- 'Doctor, what is wrong with my mother right now?' Ainura emphasizes one concrete choice on cue: "doktor" means "Doctor", and it carries the main weight of what Ainura is saying.
+- 'She had a severe blood pressure spike today.' Barinov steps in evenly with a sigh, letting the remark speak for itself.
+- 'And what now, does she need a hospital?' Opening up with urgency, Katya puts the real issue right on the table for Barinov.

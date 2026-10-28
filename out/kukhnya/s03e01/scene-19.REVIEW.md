@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How did the family reunion go?' Lyova queries plainly as they speak, putting "kak" ("how") alongside "proshlo" ("have passed") in a tight, everyday turn of phrase.
-- 'I know everything, I know.' Barinov establishes a warm angle during the exchange, combining "znayu" ("know") and "ya" ("I") so the key meaning lands right away.
-- 'I think it is normal, it is right.' Lyova displays a candid note straight away, putting "schitayu" ("am counting") alongside "normalno" ("fine, OK") in a tight, everyday turn of phrase.
-- 'Both the daughter is nearby and the dad is under supervision.' Lyova shares an easygoing posture in the scene, pairing "doch" ("daughter") with "ryadom" ("nearby") to get the point across in plain spoken Russian.
-- 'I want everyone to understand.' Barinov establishes a brisk direction at once, pairing "khochu" ("want") with "ponyali" ("did you understand") to get the point across in plain spoken Russian.
-- 'Here there is only the chef.' Barinov holds a playful bearing as they talk, putting "zdes" ("here") alongside "yest" ("there is") in a tight, everyday turn of phrase.
-- 'Nobody must know about this, clear?' Barinov checks candidly as they speak, doubling the negative with "ne" ("not") and "dolzhen" ("has to, must"), which is standard and required in Russian.
-- 'Yes, good evening.' Vika shares a playful tone as they talk, building the phrase around "dobryy" ("good") and "vecher" ("evening") for a crisp, natural delivery.
-- 'Come aboard. Well, how do you like it?' Lyova queries evenly during the talk, weaving "podnimaytes" ("to go up, to climb") together with "bort" ("board, hull") just the way native speakers do.
-- 'It seemed to me that this was a business meeting.' Vika chooses a firm tack toward Lyova, weaving "kazalos" ("to seem") together with "delovaya" ("business, businesslike") just the way native speakers do.
-- 'And this looks like a date.' Vika keeps a wry tempo on the spot, building the phrase around "pokhozhe" ("like, similar") and "svidaniye" ("date") for a crisp, natural delivery.
-- 'That is exactly what it is.' Lyova picks a direct approach for Vika, building the phrase around "yest" ("there is") and "tak" ("so") for a crisp, natural delivery.
+- 'How did the family reunion go?' Lyova features this clear word toward Barinov: "vossoyedineniye" means "reunion", and it carries the main weight of what Lyova is saying.
+- 'I know everything, I know.' Barinov gives that answer plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I think it is normal, it is right.' Lyova pushes back promptly with a smile, leaving no doubt about where he stands.
+- 'Both the daughter is nearby and the dad is under supervision.' Lyova features one clear touch in earnest: "prismotrom" means "supervision" (from "prismotr"), giving the line its exact edge.
+- 'I want everyone to understand.' Barinov cuts in firmly with a smile, leaving no doubt about where he stands.
+- 'Here there is only the chef.' Barinov proceeds pointedly as they talk, so Vika knows he is not just making small talk.
+- 'Nobody must know about this, clear?' Barinov picks one clear word right here: "dolzhen" means "has to, must", and it carries the main weight of what Barinov is saying.
+- 'Yes, good evening.' Vika gives this update facing Lyova: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Come aboard. Well, how do you like it?' Lyova questions calmly before Barinov can change the subject.
+- 'It seemed to me that this was a business meeting.' Vika chooses one familiar element for Lyova: "delovaya" means "business, businesslike" (from "delovoy"), giving the line its exact edge.
+- 'And this looks like a date.' Vika counters bluntly to settle things, steering the talk right where she wants it.
+- 'That is exactly what it is.' Lyova holds firm earnestly with Vika, to clear the air between them once and for all.

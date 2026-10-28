@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I shaved the coconuts, what is next?' Denis prompts lightly for Max's benefit, pairing "pobril" ("to shave") with "kokosy" ("what") to get the point across in plain spoken Russian.
-- 'And now boil them.' Max projects a frank approach beside Nagiyev, combining "teper" ("now") and "svari" ("to cook, boil") so the key meaning lands right away.
-- 'What are we even cooking?' Denis questions steadily without holding back, weaving "voobshche" ("at all") together with "gotovim" ("are preparing") just the way native speakers do.
-- 'Boiled coconuts, what is unclear?' Max questions bluntly at this point, leaning on "varyonyye" ("boiled") before closing the thought with "kokosy" ("what").
-- 'Guys, there is good news.' Nagiyev strikes an easygoing position during the exchange, building the phrase around "rebyata" ("the boys, the lads") and "yest" ("there is") for a crisp, natural delivery.
-- 'And there is bad news.' Nagiyev projects an unhurried rhythm right away, building the phrase around "yest" ("there is") and "plokhaya" ("bad") for a crisp, natural delivery.
-- 'I do not love you very much.' Nagiyev keeps a direct position in front of Denis, putting "ochen" ("very much") alongside "lyublyu" ("love") in a tight, everyday turn of phrase.
-- 'We are not going home today.' Nagiyev keeps a steady view beside Max, weaving "segodnya" ("today") together with "raskhodimsya" ("to disperse") just the way native speakers do.
-- 'We have an impromptu banquet.' Nagiyev maintains a lively tack beside Denis, leaning on "u nas" ("by us, at our place") and "improvizirovannyy" ("banquet") the way natural Russian does.
-- 'We are working as a friendly team all night.' Nagiyev maintains an earnest bearing in this beat, combining "rabotayem" ("we work, let's work") and "druzhnym" ("friendly, harmonious") so the key meaning lands right away.
-- 'Why have you hung your noses?' Nagiyev challenges plainly with Denis now, using "nosy" (from "nos", "nose") alongside "povesili" ("to noses") to shape the meaning.
-- 'Everyone will get a good bonus!' Nagiyev holds a thoughtful rhythm during the exchange, weaving "budet" ("will be") together with "khoroshaya" ("good") just the way native speakers do.
+- 'I shaved the coconuts, what is next?' Denis frames one memorable detail for Max: "pobril" means "to shave" (from "pobrit"), giving the line its exact edge.
+- 'And now boil them.' Max shapes this point facing Nagiyev: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What are we even cooking?' Denis tests sharply while looking straight at Max here.
+- 'Boiled coconuts, what is unclear?' Max colors this vivid detail for Nagiyev: "varyonyye" means "boiled" (from "varyonyy"), giving the line its exact edge.
+- 'Guys, there is good news.' Nagiyev states that remark beside Denis: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And there is bad news.' Nagiyev jumps in candidly beside Max, saying out loud what both of them already know.
+- 'I do not love you very much.' Nagiyev stresses one loaded expression at once: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.
+- 'We are not going home today.' Nagiyev offers this point without fuss: the "-sya" ending on "raskhodimsya" ("to disperse") turns the action inward or makes it happen between people naturally.
+- 'We have an impromptu banquet.' Nagiyev chimes in right away toward Denis, leaving no doubt about where he stands.
+- 'We are working as a friendly team all night.' Nagiyev colors one pointed detail with Max: "kollektivom" means "collective" (from "kollektiv"), giving the line its exact edge.
+- 'Why have you hung your noses?' Nagiyev makes this update with candor: putting the question word "chto" right at the front of the line lets Denis hear the point of the question on the very first beat.
+- 'Everyone will get a good bonus!' Nagiyev proceeds plainly during the talk, letting the remark speak for itself.

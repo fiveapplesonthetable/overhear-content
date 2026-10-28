@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, Denis, I know everything.' Katya holds a candid manner in this beat, using "znayu" (from "znat", "know") alongside "privet" ("hi") to shape the meaning.
-- 'In what sense?' Denis queries firmly as they speak, putting all the weight on "smysle" ("sense") so the reply lands immediately.
-- 'Well, Kostya told me.' Katya brings a direct rhythm in the scene, pairing "rasskazal" ("told") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'I see.' Denis takes a sharp position on the spot, using "ponyatno" ("clear") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Why did you not tell me yourself?' Katya probes wryly in the scene, linking "pochemu" ("why"), "rasskazal" ("told"), and "ty" ("you") in one brisk exchange.
-- 'If only you knew how many times I tried.' Denis offers a warm approach in the scene, pairing "pytalsya" ("tried") with "znala" ("knew") so the "-sya" ending carries the action.
-- 'Did you really think that this would scare me?' Katya queries warmly during the talk, putting "dumal" ("thought") alongside "ispugayet" ("will scare") in a tight, everyday turn of phrase.
-- 'Do not worry.' Katya chooses a thoughtful view in this beat, leaning on "perezhivay" ("worry") before closing the thought with "ty" ("you").
-- 'We will cope with all the difficulties.' Katya shows a firm posture as the scene unfolds, using "spravimsya" (from "spravitsya", "will manage") alongside "trudnostyami" ("difficulty") to shape the meaning.
-- 'We will rent an apartment.' Katya sustains a grounded posture at once, using "snimem" (from "snyat", "will rent, book") alongside "kvartiru" ("flat") to shape the meaning.
-- 'The three of us will live together.' Katya presents a lively tone in the scene, putting "budem" ("will") alongside "zhit" ("to live") in a tight, everyday turn of phrase.
-- 'Denis, I need fresh bread!' Barinov favors a lively note at this moment, pairing "denis" ("Denis") with "nuzhen" ("is needed") so the "-sya" ending carries the action.
+- 'Hi, Denis, I know everything.' Katya proceeds lightly with a nod, so Barinov knows she is not just making small talk.
+- 'In what sense?' Denis features one colorful word on cue: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
+- 'Well, Kostya told me.' Katya frames this update right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I see.' Denis speaks openly with Katya, so Katya knows he is not just making small talk.
+- 'Why did you not tell me yourself?' Katya reaches for one sharp choice right here: "rasskazal" means "told" (from "rasskazat"), giving the line its exact edge.
+- 'If only you knew how many times I tried.' Denis makes that point with warmth: the "-sya" ending on "pytalsya" ("tried") turns the action inward or makes it happen between people naturally.
+- 'Did you really think that this would scare me?' Katya presses candidly if there is more going on behind the scenes.
+- 'Do not worry.' Katya centers this key word in reply: "perezhivay" means "worry" (from "perezhivat"), giving the line its exact edge.
+- 'We will cope with all the difficulties.' Katya steps in sharply beside Barinov, refusing to let the moment slip past.
+- 'We will rent an apartment.' Katya stands firm promptly in their talk, grounding the moment in plain reality.
+- 'The three of us will live together.' Katya chooses one vivid touch for Barinov: "vtroyom" means "the three of us", and it carries the main weight of what Katya is saying.
+- 'Denis, I need fresh bread!' Barinov speaks up openly with Katya, keeping the focus on what actually matters here.

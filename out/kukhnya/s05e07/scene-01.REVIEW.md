@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, Victor, do you surrender?' The guest inquires calmly in the room, building the phrase around "sdayoshsya" ("give up, surrender") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'Russians do not surrender, especially when playing against oligarchs.' Barinov sustains a resolute bearing as they talk, using "russkiye" (from "russkiy", "Russian") alongside "sdayutsya" ("give up, surrender") to shape the meaning.
-- 'Do not call me an oligarch.' The guest chooses a measured note as they talk, putting "nazyvay" ("name, call") alongside "oligarkhom" ("oligarch") in a tight, everyday turn of phrase.
-- 'Then what should I call you?' Barinov challenges directly beside the guest, weaving "kak" ("how") together with "nazyvat" ("to call, to name") just the way native speakers do.
-- 'The meat king of Russia?' Barinov tests evenly at this point, building the phrase around "myasnoy" ("meat") and "korol" ("king") for a crisp, natural delivery.
-- 'Alright then, let us show our cards.' The guest sustains a playful approach beside Barinov, pairing "vskryvayemsya" ("show our cards") with "nu" ("oh, come on") so the "-sya" ending carries the action.
-- 'I have a flush.' The guest projects an earnest note with Barinov, leaning on "flesh" ("flush") before closing the thought with "menya" ("me").
-- 'You and I have not seen each other in a long time.' Barinov shows a candid direction straight away, building the phrase around "davno" ("for a long time") and "videlis" ("have seen each other") for a crisp, natural delivery.
-- 'And you still have not learned to play poker.' Barinov takes a warm footing as they talk, joining "nauchilsya" ("learned") to "igrat" ("to play") so every word pulls its weight.
-- 'I have four of a kind.' Barinov establishes a steady posture in their talk, pairing "kare" ("four of a kind") with "menya" ("me") to get the point across in plain spoken Russian.
-- 'How much meat will you have to sell to settle up with me?' Barinov wonders plainly at this point, linking "skolko" ("how much, so much"), "nado" ("it is necessary"), and "budet" ("will be") in one brisk exchange.
-- 'Whole truckloads of meat!' Barinov adopts a sharp mood as they talk, putting "tselyye" ("whole, entire") alongside "fury" ("semi-trucks") in a tight, everyday turn of phrase.
+- 'Well then, Victor, do you surrender?' The guest frames this telling expression right here: "sdayoshsya" means "give up, surrender" (from "sdavatsya"), giving the line its exact edge.
+- 'Russians do not surrender, especially when playing against oligarchs.' Barinov stands firm sharply to settle things, before the guest can change the subject.
+- 'Do not call me an oligarch.' The guest responds bluntly with a nod, to clear the air between them once and for all.
+- 'Then what should I call you?' Barinov leans on one key piece at once: "nazyvat" means "to call, to name", and it carries the main weight of what Barinov is saying.
+- 'The meat king of Russia?' Barinov shares this answer calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for the guest purely through rising pitch at the end.
+- 'Alright then, let us show our cards.' The guest stands firm earnestly toward Barinov, grounding the moment in plain reality.
+- 'I have a flush.' The guest favors one clear piece toward Barinov: "flesh" means "flush", and it carries the main weight of what the guest is saying.
+- 'You and I have not seen each other in a long time.' Barinov offers that point with ease: the "-sya" ending on "videlis" ("have seen each other") turns the action inward or makes it happen between people naturally.
+- 'And you still have not learned to play poker.' Barinov speaks plainly without any doubt, letting the remark speak for itself.
+- 'I have four of a kind.' Barinov reaches for one colorful detail toward the guest: "kare" means "four of a kind", and it carries the main weight of what Barinov is saying.
+- 'How much meat will you have to sell to settle up with me?' Barinov directs the comment briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Whole truckloads of meat!' Barinov reacts wryly facing the guest, leaving no doubt about where he stands.

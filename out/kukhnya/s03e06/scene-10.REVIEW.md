@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you say, my dear ex?' Nagiyev quizzes openly without hesitation, building the phrase around "skazhesh" ("will you say") and "byvshaya" ("former") for a crisp, natural delivery.
-- 'I propose that we part ways peacefully.' Nagiyev picks a steady tone on the spot, building the phrase around "predlagayu" ("suggest") and "mirno" ("peacefully") for a crisp, natural delivery.
-- 'Hello, do you wish for anything right now?' Max questions earnestly on the spot, building the phrase around "zdravstvuyte" ("hello") and "seychas" ("now") for a crisp, natural delivery.
-- 'We wish never to see you here again.' Nagiyev conveys a calm course in the room, combining "zhelayem" ("to wish") and "bolshe" ("more") so the key meaning lands right away.
-- 'Maxim, you are fired, go home.' Nagiyev shows a measured manner for Kristina, using "uvolen" (from "uvolit", "fired") alongside "idi" ("go") to shape the meaning.
-- 'I do not want to upset you, but Maxim is not fired.' Kristina shares a brisk course beside Nagiyev, putting "khochu" ("want") alongside "rasstraivat" ("upset") in a tight, everyday turn of phrase.
-- 'Well then I am taking him back.' Kristina presents an unhurried style right away, joining "togda" ("back then") to "beru" ("to take") so every word pulls its weight.
-- 'Maxim, congratulations, you are hired again.' Kristina favors a firm tone right away, using "pozdravlyayu" (from "pozdravlyat", "congratulations") alongside "snova" ("again") to shape the meaning.
-- 'Do not hurry to smile so soon.' Nagiyev holds an emphatic stance with Kristina, anchoring the Russian line on "toropis" ("rush") and "rano" ("early, young") without extra filler.
-- 'For two months you will work for free.' Nagiyev favors a candid note as the scene unfolds, using "mesyatsa" (from "mesyats", "months") alongside "budesh" ("will") to shape the meaning.
-- 'One more rude insult like that.' Kristina presents a brisk mood on the spot, combining "yeshchyo" ("more, still") and "gruboye" ("rough, rude") so the key meaning lands right away.
-- 'Hello, our lawyer just died.' Kristina sustains a firm course in front of Nagiyev, putting "advokat" ("lawyer") alongside "tolko" ("only") in a tight, everyday turn of phrase.
+- 'What do you say, my dear ex?' Nagiyev centers one telling term on cue: "byvshaya" means "former" (from "byvshiy"), giving the line its exact edge.
+- 'I propose that we part ways peacefully.' Nagiyev voices the comment without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Hello, do you wish for anything right now?' Max questions quietly about what Kristina just brought up.
+- 'We wish never to see you here again.' Nagiyev stresses this clear expression in reply: "zhelayem" means "to wish" (from "zhelat"), giving the line its exact edge.
+- 'Maxim, you are fired, go home.' Nagiyev picks this sharp touch for Kristina: "uvolen" means "fired" (from "uvolit"), giving the line its exact edge.
+- 'I do not want to upset you, but Maxim is not fired.' Kristina opens up warmly as they talk, grounding the moment in plain reality.
+- 'Well then I am taking him back.' Kristina anchors one practical piece in reply: "obratno" means "back", and it carries the main weight of what Kristina is saying.
+- 'Maxim, congratulations, you are hired again.' Kristina stresses one colorful choice at once: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
+- 'Do not hurry to smile so soon.' Nagiyev proceeds pointedly across the room, without trying to dress up how he really feels.
+- 'For two months you will work for free.' Nagiyev stresses this sharp element in earnest: "mesyatsa" means "months" (from "mesyats"), giving the line its exact edge.
+- 'One more rude insult like that.' Kristina follows up evenly in their talk, letting the remark speak for itself.
+- 'Hello, our lawyer just died.' Kristina stands firm dryly beside Nagiyev, steering the talk right where she wants it.

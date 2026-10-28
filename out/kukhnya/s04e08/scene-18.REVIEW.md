@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I am the one who wants to ask what is going on here!' Barinov sets an honest footing as they talk, pairing "khochu" ("want") with "sprosit" ("to ask") to get the point across in plain spoken Russian.
-- 'How can you fire Elena Pavlovna from here?' Barinov presses openly toward the guest here, building the phrase around "kak" ("how") and "mozhete" ("can, may") for a crisp, natural delivery.
-- 'After all, she put her whole soul into this restaurant!' Barinov presents a natural approach in the room, combining "vlozhila" ("to invest, to put in") and "dushu" ("soul, heart") so the key meaning lands right away.
-- 'I will not allow you to replace her with this guy!' Barinov shows a resolute footing in the room, using "pozvolyu" (from "pozvolit", "will allow") alongside "menyat" ("to change") to shape the meaning.
-- 'Stop shouting, nobody is firing her at all!' The guest shows a resolute posture in the conversation, building the phrase around "perestante" ("stop it") and "krichat" ("to shout") for a crisp, natural delivery.
-- 'First of all, Elena Pavlovna is leaving us on her own.' The guest offers a candid stance during the exchange, pairing "vo-pervykh" ("first of all") with "ukhodit" ("leaves") to get the point across in plain spoken Russian.
-- 'And second of all, I was planning to replace her with you!' The guest offers a frank course in the conversation, linking "vo-vtorykh" ("second"), "sobiralsya" ("was going to"), and "menyat" ("to change") in one brisk exchange.
-- 'By the way, she herself vouched strongly for you.' The guest keeps a clear course in the room, putting "prochim" ("other") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'And this young man is simply our new designer!' The guest keeps an emphatic stance straight away, placing "molodoy" ("young") straight beside "chelovek" ("a man, a person") with no word for "to be" needed.
-- 'Lena, why did you not tell me that you are leaving?' Barinov presses decisively on the spot, putting "pochemu" ("why") alongside "skazala" ("told") in a tight, everyday turn of phrase.
-- 'I was planning to tell you everything tonight.' Elena strikes a lively note beside Barinov, weaving "sobiralas" ("to intend") together with "skazat" ("tell") just the way native speakers do.
-- 'By the way, now you owe me a new designer!' The guest displays a lively approach as the scene unfolds, anchoring the Russian line on "kstati" ("by the way") and "teper" ("now") without extra filler.
+- 'I am the one who wants to ask what is going on here!' Barinov answers openly around Elena, making his position completely clear.
+- 'How can you fire Elena Pavlovna from here?' Barinov leans on one practical expression in earnest: "uvolnyat" means "to fire, to dismiss", and it carries the main weight of what Barinov is saying.
+- 'After all, she put her whole soul into this restaurant!' Barinov follows up quietly during the talk, shifting the whole mood of the room in a single beat.
+- 'I will not allow you to replace her with this guy!' Barinov steps in frankly watching the guest, saying out loud what both of them already know.
+- 'Stop shouting, nobody is firing her at all!' The guest picks one telling piece at once: "perestante" means "stop it" (from "perestat"), giving the line its exact edge.
+- 'First of all, Elena Pavlovna is leaving us on her own.' The guest weighs in at once facing Elena, steering the talk right where he wants it.
+- 'And second of all, I was planning to replace her with you!' The guest weighs in honestly with a sigh, refusing to let the moment slip past.
+- 'By the way, she herself vouched strongly for you.' The guest stresses one memorable term for Elena: "prochim" means "other" (from "prochiy"), giving the line its exact edge.
+- 'And this young man is simply our new designer!' The guest lays out this warning with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Lena, why did you not tell me that you are leaving?' Barinov probes curiously why things suddenly took this turn between them.
+- 'I was planning to tell you everything tonight.' Elena stresses this direct word with Barinov: "sobiralas" means "to intend" (from "sobiratsya"), giving the line its exact edge.
+- 'By the way, now you owe me a new designer!' The guest offers this point frankly here: opening with "kstati" ("by the way") lets the guest drop a new detail into the conversation as if it just crossed his mind.

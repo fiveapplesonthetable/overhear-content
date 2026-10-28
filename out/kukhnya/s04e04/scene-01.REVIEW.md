@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Head chefs are the generals of the kitchen.' Max takes a brisk tack in the room, linking "shef-povara" ("head chef"), "generaly" ("general"), and "kukhni" ("kitchen") in one brisk exchange.
-- 'They control the situation.' Max keeps a calm footing in the conversation, weaving "kontroliruyut" ("to control") together with "situatsiyu" ("the situation") just the way native speakers do.
-- 'Regular cooks are the salt of the kitchen earth.' Max offers a resolute tone in the room, weaving "prostyye" ("simple, ordinary") together with "povara" ("cook") just the way native speakers do.
-- 'They have the hardest job of all.' Max takes an unhurried line as they talk, building the phrase around "slozhneye" ("job") and "im" ("them") for a crisp, natural delivery.
-- 'Pull yourselves together.' Elena conveys a sharp stance as they talk, putting all the weight on "soberites" ("to get ready") so the reply lands immediately.
-- 'You haven't worked as an ordinary cook in a long time.' Elena adopts a grounded stance at this moment, anchoring the Russian line on "davno" ("for a long time") and "obychnym" ("ordinary, usual") without extra filler.
-- 'I simply did not get enough sleep.' Barinov shows a steady approach with Elena, pairing "vyspalsya" ("got enough sleep") with "prosto" ("just") so the "-sya" ending carries the action.
-- 'You have lost your edge, old timer.' Elena adopts a resolute position as the scene unfolds, putting "sdal" ("gave up, ratted out") alongside "starichok" ("old buddy") in a tight, everyday turn of phrase.
-- 'I have not lost my edge at all.' Barinov projects a lively position in the room, putting "sdal" ("gave up, ratted out") alongside "nichego" ("nothing") in a tight, everyday turn of phrase.
-- 'Just look at yourself.' Elena takes an easygoing view as the scene unfolds, linking "posmotri" ("look"), "na" ("on, onto"), and "sebya" ("myself") in one brisk exchange.
-- 'You are talking to a tomato.' Elena chooses a direct footing in this beat, anchoring the Russian line on "pomidorom" ("tomato") and "razgovarivayesh" ("are talking") without extra filler.
-- 'In reality he is a deeply civilian person.' Max projects an honest direction across the room, combining "samom" ("very") and "dele" ("case") so the key meaning lands right away.
+- 'Head chefs are the generals of the kitchen.' Max centers this telling word for Barinov: "shef-povara" means "head chef" (from "shef-povar"), giving the line its exact edge.
+- 'They control the situation.' Max hands over this statement at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Regular cooks are the salt of the kitchen earth.' Max weighs in quietly without any doubt, so Barinov knows he is not just making small talk.
+- 'They have the hardest job of all.' Max points to one telling element in reply: "slozhneye" means "job" (from "slozhniy"), giving the line its exact edge.
+- 'Pull yourselves together.' Elena drops that line at once: the "-sya" ending on "soberites" ("to get ready") turns the action inward or makes it happen between people naturally.
+- 'You haven't worked as an ordinary cook in a long time.' Elena reacts at once on the spot, watching Max's face to see how the news lands.
+- 'I simply did not get enough sleep.' Barinov frames one direct piece at once: "vyspalsya" means "got enough sleep" (from "vyspatsya"), giving the line its exact edge.
+- 'You have lost your edge, old timer.' Elena brings this answer at once: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I have not lost my edge at all.' Barinov jumps in dryly during the talk, shifting the whole mood of the room in a single beat.
+- 'Just look at yourself.' Elena picks one sharp word at once: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
+- 'You are talking to a tomato.' Elena reaches for this telling piece on cue: "razgovarivayesh" means "are talking" (from "razgovarivat"), giving the line its exact edge.
+- 'In reality he is a deeply civilian person.' Max jumps in calmly in this moment, testing Elena's reaction in the middle of the exchange.

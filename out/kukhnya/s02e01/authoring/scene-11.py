@@ -35,7 +35,7 @@ WALK = [
     (1, None, "'I wouldn't either.' Kostya bluntly replies that he would not have listened to Max either."),
     (2, None, "'What do you mean?' Max is caught off guard and asks what Kostya means by that."),
     (3, None, "'Whose side are you on? Vika's or your friend's?' He demands to know whether Kostya is on Vika's side or his friend's."),
-    (4, None, "'But that doesn' Kostya says being his friend does not change the fact that Max acted like a jerk."),
+    (4, None, "'But that doesn't change the fact you're a bastard.' Kostya says being his friend does not change the fact that Max acted like a jerk."),
     (5, None, "'Keep at it, Kostya, keep at it.' Max sarcastically tells Kostya to keep lecturing him."),
     (6, None, "'So if I cheated on you...' Trying to test his friend, Max asks what would happen if he ever betrayed Kostya."),
     (7, None, "'You wouldn't forgive me?' He asks if Kostya would really refuse to forgive him. Then Kostya responds."),

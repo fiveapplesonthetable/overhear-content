@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will not tell anyone anything.' Gulya favors a direct manner beside Kostya, linking "rasskazhu" ("will tell"), "ya" ("I"), and "nikomu" ("anyone, no one") in one brisk exchange.
-- 'I do not know the Russian language at all.' Gulya establishes a candid direction right away, combining the conversational booster "voobshche" ("in general, overall") with "russkiy" ("Russian") to give the line its natural spoken rhythm.
-- 'Which room did they carry him to?' Kostya challenges pointedly across the room, weaving "nomer" ("number") together with "ponesli" ("to carry, to take") just the way native speakers do.
-- 'To that same cursed room.' Gulya keeps an earnest direction in front of Nastya, putting "samyy" ("the most") alongside "proklyatyy" ("cursed") in a tight, everyday turn of phrase.
-- 'Let her undress him herself.' Gulya displays a candid style in the conversation, pairing "razdevayet" ("undresses") with "pust" ("let") to get the point across in plain spoken Russian.
-- 'She has more experience in that.' Gulya maintains a brisk angle straight away, putting "opyta" ("experience") alongside "bolshe" ("more") in a tight, everyday turn of phrase.
-- 'They wanted to put me to sleep too!' Kostya displays a clear rhythm without hesitation, pairing "khoteli" ("wanted") with "usypit" ("to first") to get the point across in plain spoken Russian.
-- 'And I have waffles in my pocket.' Kostya favors a thoughtful position toward Nastya, using the everyday "u menya" ("by me") alongside "vafli" ("waffles") to show what belongs to the speaker.
-- 'Better tell us where they dragged Denis!' Nastya asks pointedly in the room, combining "luchshe" ("better") and "skazhi" ("say") so the key meaning lands right away.
-- 'I already told you.' Gulya presents a resolute bearing in front of Nastya, weaving "uzhe" ("already, now") together with "skazala" ("told") just the way native speakers do.
-- 'Eleonora just will not calm down.' Nastya picks a candid manner in the scene, putting "nikak" ("in no way") alongside "uspokaivayetsya" ("calms down") in a tight, everyday turn of phrase.
-- 'Run to the room, save Denis!' Kostya sustains a resolute tack beside Nastya, linking "begite" ("run"), "nomer" ("number"), and "spasayte" ("to save, to rescue") in one brisk exchange.
-- 'Let's save nature and save ourselves!' Nastya displays a brisk posture beside Gulya, putting "spasyom" ("we will save") alongside "prirodu" ("nature") in a tight, everyday turn of phrase.
+- 'I will not tell anyone anything.' Gulya lays out the reply without pause: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I do not know the Russian language at all.' Gulya cuts in bluntly with a nod, watching Nastya's face to see how the news lands.
+- 'Which room did they carry him to?' Kostya favors this vivid piece toward Gulya: "nomer" means "number", and it carries the main weight of what Kostya is saying.
+- 'To that same cursed room.' Gulya counters sharply as they talk, to clear the air between them once and for all.
+- 'Let her undress him herself.' Gulya pushes back frankly beside Kostya, bringing things back to earth after the buildup.
+- 'She has more experience in that.' Gulya features one clear touch at once: "opyta" means "experience" (from "opyt"), giving the line its exact edge.
+- 'They wanted to put me to sleep too!' Kostya pushes back openly facing Gulya, so Gulya knows he is not just making small talk.
+- 'And I have waffles in my pocket.' Kostya speaks up honestly around Nastya, keeping the focus on what actually matters here.
+- 'Better tell us where they dragged Denis!' Nastya grounds one memorable expression at once: "potashchili" means "dragged, carried" (from "potashchit"), giving the line its exact edge.
+- 'I already told you.' Gulya chooses one practical choice at once: "skazala" means "told" (from "skazat"), giving the line its exact edge.
+- 'Eleonora just will not calm down.' Nastya holds firm frankly with a sigh, watching Gulya's face to see how the news lands.
+- 'Run to the room, save Denis!' Kostya picks this direct expression on cue: "spasayte" means "to save, to rescue" (from "spasat"), giving the line its exact edge.
+- 'Let's save nature and save ourselves!' Nastya pushes back steadily around Gulya, leaving no doubt about where she stands.

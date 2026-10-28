@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, Chef! How is your mood today?' Max wonders lightly in the scene, linking "dobroye" ("good"), "utro" ("morning"), and "kak" ("how") in one brisk exchange.
-- 'Rodion Sergeyevich, you promised to live it up at the station for a week!' Barinov offers an unhurried bearing in the scene, building the phrase around "obeshchali" ("promised") and "nedelyu" ("for a week") for a crisp, natural delivery.
-- 'I beg your forgiveness, Viktor Petrovich, that is how it happened.' Rodion maintains an easygoing style for Barinov, anchoring the Russian line on "proshu" ("beg, ask") and "prostit" ("forgive") without extra filler.
-- 'I walked into a shop yesterday and bought a bottle of port wine with the whole sum.' Rodion shows an unhurried style beside Max, linking "zashyol" ("stopped by"), "vchera" ("yesterday"), and "magazin" ("shop") in one brisk exchange.
-- 'And very good Portuguese port wine at that.' Rodion strikes a wry mood in the room, linking "ochen" ("very much"), "khoroshego" ("good, the best"), and "portugalskogo" ("Portuguese") in one brisk exchange.
-- 'Would you have a bite to eat? Not a crumb since yesterday.' Rodion challenges warmly without holding back, joining "budet" ("will be") to "perekusit" ("to have a snack") so every word pulls its weight.
-- 'Officers, I am the one who called you, here is this man.' Max takes a warm note in front of Barinov, joining "gospoda" ("gentlemen") to "politseyskiye" ("police officers") so every word pulls its weight.
-- 'Wait a second, he is not going anywhere with you from here!' Barinov strikes an honest note straight away, using "podozhdite" (from "podozhdat", "wait") alongside "nikuda" ("nowhere, anywhere") to shape the meaning.
-- 'Careful, please, I only found this new shirt yesterday.' Rodion shares a pointed course in this beat, pairing "ostorozhno" ("careful, carefully") with "novuyu" ("new") to get the point across in plain spoken Russian.
-- 'Citizen, do not interfere in our work, understood?' Max asks openly during the talk, pairing "vmeshivaytes" ("interfere, stay out") with "grazhdanin" ("citizen") so the "-sya" ending carries the action.
-- 'Step back from the Chef! Rodion Sergeyevich will stay here!' Barinov brings an easygoing bearing at this moment, anchoring the Russian line on "bystro" ("quickly") and "shefa" ("chef") without extra filler.
-- 'Viktor Petrovich, no need, we always meet our fate.' Rodion sustains a lively stance without hesitation, combining "nado" ("it is necessary") and "vsegda" ("always") so the key meaning lands right away.
+- 'Good morning, Chef! How is your mood today?' Max puts that point for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Rodion Sergeyevich, you promised to live it up at the station for a week!' Barinov weighs in warmly beside Rodion, refusing to let the moment slip past.
+- 'I beg your forgiveness, Viktor Petrovich, that is how it happened.' Rodion frames one classic term on cue: "prostit" means "forgive", and it carries the main weight of what Rodion is saying.
+- 'I walked into a shop yesterday and bought a bottle of port wine with the whole sum.' Rodion steps in candidly as things stand, before Max can change the subject.
+- 'And very good Portuguese port wine at that.' Rodion replies right away hearing Barinov, testing Barinov's reaction in the middle of the exchange.
+- 'Would you have a bite to eat? Not a crumb since yesterday.' Rodion grounds this clear word in earnest: "vcherashnego" means "yesterday's" (from "vcherashniy"), giving the line its exact edge.
+- 'Officers, I am the one who called you, here is this man.' Max focuses on one sharp touch at once: "politseyskiye" means "police officers" (from "politseyskiy"), giving the line its exact edge.
+- 'Wait a second, he is not going anywhere with you from here!' Barinov replies right away around Rodion, saying out loud what both of them already know.
+- 'Careful, please, I only found this new shirt yesterday.' Rodion colors one key term for Barinov: "ostorozhno" means "careful, carefully", and it carries the main weight of what Rodion is saying.
+- 'Citizen, do not interfere in our work, understood?' Max gives the thought around Rodion: Russian keeps the exact word order of a normal statement here, turning it into a question for Rodion purely through rising pitch at the end.
+- 'Step back from the Chef! Rodion Sergeyevich will stay here!' Barinov continues earnestly on the spot, before Max can change the subject.
+- 'Viktor Petrovich, no need, we always meet our fate.' Rodion centers one classic expression on cue: "vstrechayem" means "to meet, to welcome" (from "vstrechat"), giving the line its exact edge.

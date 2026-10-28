@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you not forget the salt?' Elena challenges briskly in their exchange, joining "sol" ("salt") to "zabyl" ("forgot") so every word pulls its weight.
-- 'I did not forget anything at all.' Barinov establishes a firm approach right away, weaving "zabyl" ("forgot") together with "da" ("yes") just the way native speakers do.
-- 'Why are you controlling everything in here?' Barinov prompts frankly without holding back, building the phrase around "kontroliruyesh" ("to control") and "tut" ("here") for a crisp, natural delivery.
-- 'You have been following me around all day.' Barinov shows a natural mood across the room, weaving "khodish" ("can walk, are walking") together with "den" ("day") just the way native speakers do.
-- 'Do you have nothing else to do?' Barinov challenges candidly in the scene, leaning on "bolshe" ("more") before closing the thought with "zanyatsya" ("to attend to").
-- 'Go to a beauty salon, do something for yourself.' Barinov keeps a resolute note without hesitation, joining "poydi" ("let's go") to "salon" ("salon") so every word pulls its weight.
-- 'Sorry, I got carried away...' Barinov adopts an honest tone as they talk, leaning on "izvini" ("sorry, excuse me") before closing the thought with "chto-to" ("somehow").
-- 'Would you care for a massage as well?' German wonders naturally from the start, anchoring the Russian line on "massazh" ("a massage") and "zhelayete" ("would you like") without extra filler.
-- 'From this moment on, report to vegetable prep.' German chooses a thoughtful position on the spot, anchoring the Russian line on "momenta" ("moment") and "otpravlyaytes" ("prep") without extra filler.
-- 'Go peel potatoes.' German chooses a calm direction at this moment, pairing "chistite" ("to peel, clean") with "kartoshku" ("potatoes") to get the point across in plain spoken Russian.
-- 'Alright, Viktor Petrovich.' Elena shows an unhurried approach at once, putting "khorosho" ("good, fine") alongside "viktor" ("Viktor") in a tight, everyday turn of phrase.
-- 'Get to work.' German favors a calm course in this beat, weaving "rabotu" ("job") together with "za" ("for") just the way native speakers do.
+- 'Did you not forget the salt?' Elena presses frankly how Barinov expects that to work in practice.
+- 'I did not forget anything at all.' Barinov chooses one loaded expression on cue: "zabyl" means "forgot" (from "zabyt"), giving the line its exact edge.
+- 'Why are you controlling everything in here?' Barinov shares that answer in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
+- 'You have been following me around all day.' Barinov steps in right away watching German, saying out loud what both of them already know.
+- 'Do you have nothing else to do?' Barinov favors one direct choice right here: "zanyatsya" means "to attend to", and it carries the main weight of what Barinov is saying.
+- 'Go to a beauty salon, do something for yourself.' Barinov counters promptly to be clear, to clear the air between them once and for all.
+- 'Sorry, I got carried away...' Barinov reacts boldly to settle things, leaving no doubt about where he stands.
+- 'Would you care for a massage as well?' German focuses on one telling touch toward Elena: "massazh" means "a massage", and it carries the main weight of what German is saying.
+- 'From this moment on, report to vegetable prep.' German gives the comeback to Barinov: the "-sya" ending on "otpravlyaytes" ("prep") turns the action inward or makes it happen between people naturally.
+- 'Go peel potatoes.' German responds briskly beside Elena, letting the remark speak for itself.
+- 'Alright, Viktor Petrovich.' Elena picks one clear choice right here: "khorosho" means "good, fine", and it carries the main weight of what Elena is saying.
+- 'Get to work.' German offers that line facing Elena: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, how did the sous-chef's first day go?' Vika inquires calmly during the talk, anchoring the Russian line on "rasskazhi" ("tell") and "kak" ("how") without extra filler.
-- 'German asked me to fire one cook.' Max takes a frank tack straight away, joining "poprosil" ("asked") to "uvolit" ("to fire") so every word pulls its weight.
-- 'But I simply could not fire him.' Max maintains a steady course in front of Denis, putting "prosto" ("just") alongside "smog" ("to be able") in a tight, everyday turn of phrase.
-- 'It is not at all necessary to fire a person directly.' Vika offers a lively position as they talk, combining "cheloveka" ("a man, a person") and "sovsem" ("at all") so the key meaning lands right away.
-- 'I heard the neighbors need cooks right now.' Vika keeps a wry posture in the scene, anchoring the Russian line on "slyshala" ("to hear") and "sosedyam" ("neighbour") without extra filler.
-- 'Are you suggesting getting him hired by our competitors?' Max questions steadily as the beat lands, putting "predlagayesh" ("are suggesting") alongside "ustroit" ("to arrange") in a tight, everyday turn of phrase.
-- 'Vika, you are a real genius!' Max conveys a frank note right away, placing "nastoyashchiy" ("real, genuine") straight beside "geniy" ("genius") with no word for "to be" needed.
-- 'By the way, his mom sent Denis good money.' Max holds an easygoing line as the scene unfolds, weaving "kstati" ("by the way") together with "mama" ("mum, mother") just the way native speakers do.
-- 'Already tomorrow he will move out of our place.' Max brings an unhurried style during the exchange, pairing "uzhe" ("already, now") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
-- 'What a great mom he has after all!' Vika takes a frank note across the room, linking "mama" ("mum, mother"), "molodets" ("well done, good boy"), and "kakaya" ("what, which") in one brisk exchange.
-- 'Folks, did I interrupt you here?' Denis inquires earnestly toward Max here, linking "druzya" ("friends"), "tut" ("here"), and "pomeshal" ("disturbed, interrupted") in one brisk exchange.
-- 'Enjoy your bath, go to sleep quickly.' Max adopts an emphatic approach without hesitation, putting "lyogkim" ("light, easy") alongside "parom" ("go") in a tight, everyday turn of phrase.
+- 'Tell me, how did the sous-chef's first day go?' Vika reaches for this clear touch for Denis: "su-shefa" means "sous-chef" (from "su-shef"), giving the line its exact edge.
+- 'German asked me to fire one cook.' Max speaks sharply watching Vika, letting the remark speak for itself.
+- 'But I simply could not fire him.' Max chimes in decisively around Denis, bringing things back to earth after the buildup.
+- 'It is not at all necessary to fire a person directly.' Vika picks this key element right here: "obyazatelno" means "surely, without fail", and it carries the main weight of what Vika is saying.
+- 'I heard the neighbors need cooks right now.' Vika counters bluntly watching Denis, saying out loud what both of them already know.
+- 'Are you suggesting getting him hired by our competitors?' Max checks evenly if there is more going on behind the scenes.
+- 'Vika, you are a real genius!' Max emphasizes this vivid expression in earnest: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Max is saying.
+- 'By the way, his mom sent Denis good money.' Max brings this update without fuss: opening with "kstati" ("by the way") lets Max drop a new detail into the conversation as if it just crossed his mind.
+- 'Already tomorrow he will move out of our place.' Max continues pointedly without holding back, saying out loud what both of them already know.
+- 'What a great mom he has after all!' Vika picks one familiar word in earnest: "molodets" means "well done, good boy", and it carries the main weight of what Vika is saying.
+- 'Folks, did I interrupt you here?' Denis gives the comeback toward Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Enjoy your bath, go to sleep quickly.' Max reacts decisively around Vika, saying out loud what both of them already know.

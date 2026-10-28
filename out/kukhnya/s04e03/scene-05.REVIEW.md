@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have heard about this German.' Fedya favors an unhurried tone at this moment, weaving "slyshal" ("heard") together with "germana" ("german") just the way native speakers do.
-- 'A buddy of mine used to work for him.' Fedya conveys a resolute course during the exchange, pairing "druzhok" ("buddy, pal") with "rabotal" ("worked") to get the point across in plain spoken Russian.
-- 'Everywhere he works, he gets himself a snitch.' Fedya shows a measured posture in the scene, pairing "vezde" ("everywhere") with "gde" ("where") to get the point across in plain spoken Russian.
-- 'That is a person who loves to gossip.' Senya strikes a direct rhythm as they talk, building the phrase around "chelovek" ("a man, a person") and "lyubit" ("loves") for a crisp, natural delivery.
-- 'Everyone loves to gossip.' Senya presents a candid posture straight away, pairing "lyubyat" ("love, like") with "spletnichat" ("to gossip") to get the point across in plain spoken Russian.
-- 'We do not have rats in our kitchen.' Fedya keeps a firm view during the exchange, combining "kukhne" ("kitchen") and "krys" ("rat, mole") so the key meaning lands right away.
-- 'I am listening to you.' German holds a playful stance in their talk, using "slushayu" (from "slushat", "I'm listening") alongside "vas" ("you") to shape the meaning.
-- 'I would like to help you.' Senya holds a lively tempo for German, building the phrase around "khotel" ("wanted") and "pomoch" ("to help") for a crisp, natural delivery.
-- 'To settle into the new team.' Senya sustains a direct footing on the spot, weaving "osvoitsya" ("to settle") together with "novom" ("new") just the way native speakers do.
-- 'That is very interesting indeed.' German picks a serious style on the spot, anchoring the Russian line on "vesma" ("indeed") and "interesno" ("interesting") without extra filler.
-- 'I could tell you what people think of you in the kitchen.' Senya presents a natural footing in the conversation, putting "mog" ("can, to be able") alongside "rasskazyvat" ("to tell") in a tight, everyday turn of phrase.
-- 'Reporting on colleagues is immoral.' German presents a sharp approach across the room, building the phrase around "donosit" ("to reporting") and "kolleg" ("colleagues") for a crisp, natural delivery.
+- 'I have heard about this German.' Fedya speaks up at once in this moment, leaving no doubt about where he stands.
+- 'A buddy of mine used to work for him.' Fedya fires back plainly without a pause, letting the remark speak for itself.
+- 'Everywhere he works, he gets himself a snitch.' Fedya uses one memorable choice toward German: "stukacha" means "snitch", and it carries the main weight of what Fedya is saying.
+- 'That is a person who loves to gossip.' Senya replies briskly as they talk, before German can change the subject.
+- 'Everyone loves to gossip.' Senya follows up earnestly to settle things, testing Fedya's reaction in the middle of the exchange.
+- 'We do not have rats in our kitchen.' Fedya emphasizes one vivid touch in reply: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'I am listening to you.' German drops the reply before Fedya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I would like to help you.' Senya proceeds briskly without holding back, testing German's reaction in the middle of the exchange.
+- 'To settle into the new team.' Senya uses one classic word with Fedya: "kollektive" means "collective" (from "kollektiv"), giving the line its exact edge.
+- 'That is very interesting indeed.' German voices this warning briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I could tell you what people think of you in the kitchen.' Senya follows up promptly hearing Fedya, before Fedya can change the subject.
+- 'Reporting on colleagues is immoral.' German anchors one concrete term for Senya: "beznravstvenno" means "immoral", and it carries the main weight of what German is saying.

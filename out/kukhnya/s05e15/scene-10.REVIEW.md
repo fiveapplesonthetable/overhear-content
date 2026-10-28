@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You know, Vitya, you really are a very good person!' The guest brings a measured attitude straight away, putting "znayesh" ("know") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'And I will not take a single ruble from you.' The guest strikes a frank attitude at this moment, using "rublya" (from "rubl", "ruble") alongside "vozmu" ("will get") to shape the meaning.
-- 'Yes, it is decided, I am divorcing Lena completely for free!' The guest shows a frank style beside Barinov, pairing "resheno" ("decided, settled") with "razvozhus" ("to get divorced") to get the point across in plain spoken Russian.
-- 'Thank you very much, Gena, you are a true comrade!' Barinov establishes a measured tone in their talk, leaning on "bolshoye" ("big, very much") before closing the thought with "spasibo" ("thank you").
-- 'For free, but only on one important condition.' The guest keeps an unhurried posture as the scene unfolds, anchoring the Russian line on "besplatno" ("for free") and "tolko" ("only") without extra filler.
-- 'I absolutely must paint your portrait right now!' The guest sets a warm approach as the scene unfolds, combining "obyazatelno" ("surely, without fail") and "dolzhen" ("has to, must") so the key meaning lands right away.
-- 'What? What portrait in the middle of the workplace?' Barinov questions evenly as the beat lands, anchoring the Russian line on "yeshchyo" ("more, still") and "portret" ("portrait") without extra filler.
-- 'Just take a close look at yourself right now!' The guest brings a playful attitude in their talk, anchoring the Russian line on "tolko" ("only") and "vnimatelno" ("carefully, attentively") without extra filler.
-- 'Look how much immense strength and energy is in you!' The guest projects a pointed line in the scene, joining "posmotri" ("look") to "skolko" ("how much, so much") so every word pulls its weight.
-- 'Fine, the heck with you, go ahead and paint quickly!' Barinov sustains a serious rhythm at once, weaving "chyort" ("darn, heck") together with "davay" ("let's") just the way native speakers do.
-- 'No, not right here, I need plenty of space!' The guest presents a warm style in the room, linking "zdes" ("here"), "nuzhno" ("necessary"), and "prostranstvo" ("space") in one brisk exchange.
-- 'I want to paint you on a summit, not in a cave!' The guest shares a direct tack across the room, putting "khochu" ("want") alongside "napisat" ("to write") in a tight, everyday turn of phrase.
+- 'You know, Vitya, you really are a very good person!' The guest chooses one telling detail at once: "khoroshiy" means "good", and it carries the main weight of what the guest is saying.
+- 'And I will not take a single ruble from you.' The guest leans on one colorful term in reply: "rublya" means "ruble" (from "rubl"), giving the line its exact edge.
+- 'Yes, it is decided, I am divorcing Lena completely for free!' The guest steps in briskly on the spot, to clear the air between them once and for all.
+- 'Thank you very much, Gena, you are a true comrade!' Barinov anchors one colorful piece toward the guest: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Barinov is saying.
+- 'For free, but only on one important condition.' The guest counters steadily as they talk, letting the remark speak for itself.
+- 'I absolutely must paint your portrait right now!' The guest answers at once facing Barinov, before Barinov can change the subject.
+- 'What? What portrait in the middle of the workplace?' Barinov underscores one telling element with the guest: "rabochem" means "work" (from "rabochiy"), giving the line its exact edge.
+- 'Just take a close look at yourself right now!' The guest chooses one loaded term for Barinov: "vnimatelno" means "carefully, attentively", and it carries the main weight of what the guest is saying.
+- 'Look how much immense strength and energy is in you!' The guest jumps in quietly before Barinov, before Barinov can change the subject.
+- 'Fine, the heck with you, go ahead and paint quickly!' Barinov points to one key element on cue: "chyort" means "darn, heck", and it carries the main weight of what Barinov is saying.
+- 'No, not right here, I need plenty of space!' The guest voices the reaction to Barinov: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'I want to paint you on a summit, not in a cave!' The guest opens up pointedly watching Barinov, saying out loud what both of them already know.

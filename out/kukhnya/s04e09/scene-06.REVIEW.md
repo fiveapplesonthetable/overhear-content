@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, please come on through.' German offers a warm rhythm in the conversation, putting "zdravstvuyte" ("hello") alongside "prokhodite" ("come in") in a tight, everyday turn of phrase.
-- 'They stole a copper sauté pan.' German projects a firm footing right away, weaving "ukrali" ("stole") together with "mednyy" ("pan") just the way native speakers do.
-- 'Nothing else disappeared.' Vika keeps a clear direction as they talk, leaning on "bolshe" ("more") before closing the thought with "propalo" ("to disappeared").
-- 'I cannot find the sturgeon.' Senya takes an earnest direction beside Vika, weaving "mogu" ("can") together with "nayti" ("to find") just the way native speakers do.
-- 'It seems to me they stole it along with the pan.' Senya sets a clear tack in the scene, putting "kazhetsya" ("it seems, I think") alongside "ukrali" ("stole") in a tight, everyday turn of phrase.
-- 'You called us in over this nonsense?' Vika quizzes firmly in this moment, linking "yerundy" ("nonsense, trifle"), "vyzvali" ("called, summoned"), and "iz-za" ("because of") in one brisk exchange.
-- 'Excuse me, this is not nonsense.' German conveys a warm angle in the conversation, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "yerunda" ("trifle, nothing") to shape the meaning.
-- 'For a chef, this is the most important thing.' German strikes a clear tempo for Vika, pairing "povara" ("cook") with "samoye" ("the most") to get the point across in plain spoken Russian.
-- 'And what if someone stole a pistol from you?' German tests lightly in their exchange, weaving "ukrali" ("stole") together with "pistolet" ("pistol") just the way native speakers do.
-- 'Well then, shall we have some fun?' Vika questions promptly as they speak, building the phrase around "davay" ("let's") and "poveselimsya" ("will have fun") for a crisp, natural delivery.
-- 'No, we must draw on paper.' Vika projects an earnest direction as they talk, pairing "nado" ("it is necessary") with "risovat" ("to draw") to get the point across in plain spoken Russian.
-- 'Have you already started having fun without me?' Vika checks boldly to Senya here, putting "uzhe" ("already, now") alongside "nachal" ("started") in a tight, everyday turn of phrase.
+- 'Hello, please come on through.' German weighs in candidly to be clear, keeping the focus on what actually matters here.
+- 'They stole a copper sauté pan.' German underscores one vivid element on cue: "soteynik" means "pan", and it carries the main weight of what German is saying.
+- 'Nothing else disappeared.' Vika shares this answer with candor: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'I cannot find the sturgeon.' Senya speaks promptly to settle things, leaving no doubt about where he stands.
+- 'It seems to me they stole it along with the pan.' Senya colors this vivid touch on cue: "soteynikom" means "pan" (from "soteynik"), giving the line its exact edge.
+- 'You called us in over this nonsense?' Vika hands over this update to Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'Excuse me, this is not nonsense.' German fires back boldly to be clear, to clear the air between them once and for all.
+- 'For a chef, this is the most important thing.' German favors this vivid detail for Vika: "glavnoye" means "important" (from "glavnyy"), giving the line its exact edge.
+- 'And what if someone stole a pistol from you?' German lays out this point at once: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Well then, shall we have some fun?' Vika asks evenly while looking straight at Senya here.
+- 'No, we must draw on paper.' Vika emphasizes this key element in reply: "bumage" means "paper" (from "bumaga"), giving the line its exact edge.
+- 'Have you already started having fun without me?' Vika shapes this update in earnest: the "-sya" ending on "veselitsya" ("to without") turns the action inward or makes it happen between people naturally.

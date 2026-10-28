@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right here we can build a second summer veranda.' Max shows a clear footing in front of Rodion, combining "zdes" ("here") and "mozhno" ("may, can") so the key meaning lands right away.
-- 'It seems to me it will be very quiet and cozy here.' Vika shows a frank view right away, putting "kazhetsya" ("it seems, I think") alongside "zdes" ("here") in a tight, everyday turn of phrase.
-- 'In the courtyard there are neither cars nor passersby.' Vika establishes a calm posture in the conversation, using "dvore" (from "dvor", "yard, courtyard") alongside "mashin" ("car, machine") to shape the meaning.
-- 'Yes, that is a fact, the place here is very cozy.' Max brings a resolute manner in the scene, anchoring the Russian line on "fakt" ("fact") and "mesto" ("place, post") without extra filler.
-- 'And we can also put a gas heater out here.' Max displays a lively manner in the scene, leaning on "yeshchyo" ("more, still") before closing the thought with "mozhno" ("may, can").
-- 'Excuse me, in this city drafts are scarier than prices.' Rodion holds a frank angle across the room, building the phrase around "prostite" ("excuse me") and "gorode" ("town") for a crisp, natural delivery.
-- 'Wait a minute, what on earth is that in the courtyard?' Max prompts quietly right away, pairing "podozhdite" ("wait") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
-- 'It would be more accurate to say: who is this?' Rodion tests warmly with Vika now, putting "verneye" ("more accurately") alongside "bylo" ("was") in a tight, everyday turn of phrase.
-- 'Allow me to introduce myself, my name is Rodion Sergeyevich.' Rodion sustains a candid attitude in this beat, pairing "pozvolte" ("allow me") with "predstavitsya" ("to introduce oneself") to get the point across in plain spoken Russian.
-- 'I am a connoisseur of leftovers from this wonderful establishment.' Rodion displays a playful mood across the room, pairing "lyubitel" ("fan, enthusiast") with "ostatkov" ("of leftovers") to get the point across in plain spoken Russian.
-- 'Viktoriya, what, do you feed homeless people in the courtyard here?' Max quizzes steadily in this moment, joining "tut" ("here") to "dvore" ("yard, courtyard") so every word pulls its weight.
-- 'I beg your pardon, but I have a hot lunch right now.' Rodion chooses an unhurried manner in the conversation, weaving "proshu" ("beg, ask") together with "proshcheniya" ("forgiveness") just the way native speakers do.
+- 'Right here we can build a second summer veranda.' Max points to this direct term right here: "letnyuyu" means "summer" (from "letniy"), giving the line its exact edge.
+- 'It seems to me it will be very quiet and cozy here.' Vika offers the comment beside Rodion: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
+- 'In the courtyard there are neither cars nor passersby.' Vika cuts in pointedly with a sigh, grounding the moment in plain reality.
+- 'Yes, that is a fact, the place here is very cozy.' Max chooses one colorful piece in earnest: "uyutnoye" means "cozy" (from "uyutnyy"), giving the line its exact edge.
+- 'And we can also put a gas heater out here.' Max sends this statement with candor: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Excuse me, in this city drafts are scarier than prices.' Rodion proceeds quietly with Vika, steering the talk right where he wants it.
+- 'Wait a minute, what on earth is that in the courtyard?' Max frames one classic choice in reply: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'It would be more accurate to say: who is this?' Rodion shares that thought with ease: putting the question word "kto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Allow me to introduce myself, my name is Rodion Sergeyevich.' Rodion stands firm dryly before Max, so Max knows he is not just making small talk.
+- 'I am a connoisseur of leftovers from this wonderful establishment.' Rodion highlights one pointed element in reply: "zavedeniya" means "establishment" (from "zavedeniye"), giving the line its exact edge.
+- 'Viktoriya, what, do you feed homeless people in the courtyard here?' Max voices that reply calmly now: putting the question word "chto" right at the front of the line lets Rodion hear the point of the question on the very first beat.
+- 'I beg your pardon, but I have a hot lunch right now.' Rodion responds wryly as they talk, keeping the focus on what actually matters here.

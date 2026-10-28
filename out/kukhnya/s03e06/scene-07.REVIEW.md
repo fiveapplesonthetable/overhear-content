@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, why are you keeping silent there?' Kostya quizzes promptly across the room, linking "tam" ("there"), "molchish" ("are silent"), and "maks" ("Max") in one brisk exchange.
-- 'After all, you did not spend the night at home today.' Kostya sets a natural manner toward Vika, combining "segodnya" ("today") and "nocheval" ("spent the night") so the key meaning lands right away.
-- 'I see you managed after all today.' Kostya strikes an emphatic footing for Max, anchoring the Russian line on "vizhu" ("see") and "segodnya" ("today") without extra filler.
-- 'And Vika did not interfere this time.' Kostya sustains a steady manner in the conversation, using "pomeshala" (from "pomeshat", "disturbed, interrupted") alongside "raz" ("time, once") to shape the meaning.
-- 'Hello, dear Kostya.' Vika sets a wry tempo beside Kostya, weaving "dorogoy" ("dear") together with "zdravstvuy" ("hello") just the way native speakers do.
-- 'Oh, I will call you back later.' Kostya sets a wry note in this beat, building the phrase around "potom" ("then") and "perezvonyu" ("will call back") for a crisp, natural delivery.
-- 'Take it, that is Kostya calling you.' Vika conveys a measured rhythm across the room, using "vozmi" (from "vzyat", "take, pick up") alongside "zvonit" ("is calling") to shape the meaning.
-- 'And it turns out you are a coward too.' Vika holds a thoughtful stance during the exchange, linking "yeshchyo" ("more, still"), "trus" ("coward"), and "okazyvayetsya" ("to turn out to be") in one brisk exchange.
-- 'How could I ever fall in love with you at all?' Vika quizzes plainly for Kostya's benefit, pairing "vlyubitsya" ("fall in love") with "kak" ("how") so the "-sya" ending carries the action.
-- 'Oh calm down finally.' Max maintains a frank footing in front of Vika, combining "uspokoysya" ("calm down") and "nakonets" ("at last, finally") so the key meaning lands right away.
-- 'Oh, it seems I fell!' Vika strikes a playful manner with Kostya, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "upala" ("to fall, to drop") to shape the meaning.
-- 'Vika, maybe I can help you?' Max probes firmly across the room, using "mozhet" (from "moch", "can") alongside "pomogu" ("I'll help") to shape the meaning.
+- 'Max, why are you keeping silent there?' Kostya emphasizes one direct piece right here: "molchish" means "are silent" (from "molchat"), giving the line its exact edge.
+- 'After all, you did not spend the night at home today.' Kostya picks one loaded expression at once: "segodnya" means "today", and it carries the main weight of what Kostya is saying.
+- 'I see you managed after all today.' Kostya replies firmly with a nod, grounding the moment in plain reality.
+- 'And Vika did not interfere this time.' Kostya grounds this direct piece right here: "pomeshala" means "disturbed, interrupted" (from "pomeshat"), giving the line its exact edge.
+- 'Hello, dear Kostya.' Vika voices this point on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Oh, I will call you back later.' Kostya answers firmly watching Vika, making his position completely clear.
+- 'Take it, that is Kostya calling you.' Vika underscores one clear word in reply: "zvonit" means "is calling", and it carries the main weight of what Vika is saying.
+- 'And it turns out you are a coward too.' Vika frames this statement with ease: the "-sya" ending on "okazyvayetsya" ("to turn out to be") turns the action inward or makes it happen between people naturally.
+- 'How could I ever fall in love with you at all?' Vika challenges candidly about what Kostya just brought up.
+- 'Oh calm down finally.' Max highlights one memorable choice in reply: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
+- 'Oh, it seems I fell!' Vika offers this statement beside Kostya: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
+- 'Vika, maybe I can help you?' Max quizzes wryly what Vika is actually getting at here.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, have you seen my hat today?' Katya challenges directly for Kostya's benefit, pairing "shlyapku" ("little hat") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'If you want to find the hat, follow the clues.' Katya displays an earnest stance with Max, putting "khochesh" ("do you want") alongside "nayti" ("to find") in a tight, everyday turn of phrase.
-- 'The first clue will perk you up early in the morning.' Katya displays a clear note without hesitation, combining "pervaya" ("the first one") and "podskazka" ("clue") so the key meaning lands right away.
-- 'Okay, we need diapers, baby powder, and a car seat.' Max favors a firm rhythm as the scene unfolds, joining "nuzhny" ("needed") to "podguzniki" ("diapers") so every word pulls its weight.
-- 'Vika, is it not too early to buy a seat?' Max wonders warmly in front of Katya, combining "kreslo" ("chair, seat") and "pokupat" ("buy") so the key meaning lands right away.
-- 'Alright, do not worry, I will buy everything today.' Max chooses a grounded direction for Kostya, building the phrase around "volnuysya" ("worry") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Kostya, how much money goes into supporting a child?' Max presses lightly to Katya here, building the phrase around "skolko" ("how much, so much") and "deneg" ("money") for a crisp, natural delivery.
-- 'Honestly speaking, absolutely everything goes to the child.' Kostya projects a playful style as they talk, joining "chestno" ("honestly") to "govorya" ("speaking") so every word pulls its weight.
-- 'And how do I support a daughter on a cook's salary?' Max inquires earnestly to keep things clear, leaning on "kak" ("how") before closing the thought with "soderzhat" ("to support financially").
-- 'Well, that depends on what exactly you cook.' Kostya keeps a serious tack at once, using "smotrya" (from "smotret", "depending on") alongside "varit" ("to boil, cook") to shape the meaning.
-- 'I urgently need to earn more money.' Max takes a serious tack beside Katya, putting "srochno" ("urgent, urgently") alongside "nuzhno" ("necessary") in a tight, everyday turn of phrase.
-- 'Then think about how to get a raise.' Kostya adopts a frank tone toward Max, leaning on "togda" ("back then") before closing the thought with "podumay" ("think").
+- 'Senya, have you seen my hat today?' Katya shapes that point around Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'If you want to find the hat, follow the clues.' Katya pushes back openly without holding back, before Max can change the subject.
+- 'The first clue will perk you up early in the morning.' Katya spotlights this telling detail toward Kostya: "podskazka" means "clue", and it carries the main weight of what Katya is saying.
+- 'Okay, we need diapers, baby powder, and a car seat.' Max speaks up decisively with a smile, before Kostya can change the subject.
+- 'Vika, is it not too early to buy a seat?' Max checks candidly before Katya can change the subject.
+- 'Alright, do not worry, I will buy everything today.' Max anchors one pointed choice right here: "volnuysya" means "worry" (from "volnovatsya"), giving the line its exact edge.
+- 'Kostya, how much money goes into supporting a child?' Max lays out that point around Katya: putting the question word "skolko" right at the front of the line lets Katya hear the point of the question on the very first beat.
+- 'Honestly speaking, absolutely everything goes to the child.' Kostya jumps in earnestly beside Max, shifting the whole mood of the room in a single beat.
+- 'And how do I support a daughter on a cook's salary?' Max reaches for this sharp piece toward Katya: "zarplatu" means "salary" (from "zarplata"), giving the line its exact edge.
+- 'Well, that depends on what exactly you cook.' Kostya counters right away with a sigh, to clear the air between them once and for all.
+- 'I urgently need to earn more money.' Max speaks evenly in their talk, without trying to dress up how he really feels.
+- 'Then think about how to get a raise.' Kostya spotlights this sharp expression for Max: "pribavku" means "pay raise" (from "pribavka"), giving the line its exact edge.

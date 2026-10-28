@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He simply knows all the laws, he studies at the university.' Kostya sets a candid tone in their talk, joining "prosto" ("just") to "zakony" ("laws") so every word pulls its weight.
-- 'Well I see, you cannot drive on a red light.' Max shares a calm posture in the conversation, combining "ponyatno" ("clear") and "krasnyy" ("red") so the key meaning lands right away.
-- 'Yet in that outfit you can drive around Moscow.' Max picks an easygoing view straight away, leaning on "vide" ("state") before closing the thought with "mozhno" ("may, can").
-- 'That is it, Nastya, I urgently need to go right now.' Kostya sets a clear stance right away, anchoring the Russian line on "seychas" ("now") and "srochno" ("urgent, urgently") without extra filler.
-- 'Of course, you are simply walking away from the conversation, right?' Nastya tests directly at this point, putting "konechno" ("of course") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'Nastya, name our son whatever you want, just not Kuzma.' Kostya maintains a firm line in front of Nastya, anchoring the Russian line on "nazyvay" ("name, call") and "syna" ("son") without extra filler.
-- 'And I will name him Kuzma anyway!' Nastya strikes an honest direction as the scene unfolds, building the phrase around "ravno" ("the same") and "nazovu" ("will name") for a crisp, natural delivery.
-- 'If it is Kuzma, I renounce Kuzma.' Kostya picks a firm rhythm beside Nastya, joining "budet" ("will be") to "otkazyvayus" ("refuse") so every word pulls its weight.
-- 'Wait, are you rejecting our son?' Nastya probes evenly in their exchange, pairing "otkazyvayeshsya" ("refuse, reject") with "podozhdi" ("wait") so the "-sya" ending carries the action.
-- 'Go away, I do not want to see you anymore!' Nastya takes a direct attitude straight away, joining "ukhodi" ("go away") to "bolshe" ("more") so every word pulls its weight.
-- 'Nastya, listen, not from our son!' Kostya holds a firm tone in the scene, linking "poslushay" ("listen"), "syna" ("son"), and "nastya" ("Nastya") in one brisk exchange.
-- 'I am only rejecting the name Kuzma.' Kostya shares a calm rhythm as they talk, pairing "otkazyvayus" ("refuse") with "tolko" ("only") to get the point across in plain spoken Russian.
+- 'He simply knows all the laws, he studies at the university.' Kostya shapes the comeback without fuss: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Well I see, you cannot drive on a red light.' Max opens up frankly to settle things, bringing things back to earth after the buildup.
+- 'Yet in that outfit you can drive around Moscow.' Max anchors this clear detail with Kostya: "razyezzhat" means "drive around", and it carries the main weight of what Max is saying.
+- 'That is it, Nastya, I urgently need to go right now.' Kostya puts that line to Nastya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Of course, you are simply walking away from the conversation, right?' Nastya inquires sharply what Kostya is actually getting at here.
+- 'Nastya, name our son whatever you want, just not Kuzma.' Kostya frames one familiar element in earnest: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'And I will name him Kuzma anyway!' Nastya replies at once with a shrug, so Kostya knows she is not just making small talk.
+- 'If it is Kuzma, I renounce Kuzma.' Kostya holds firm firmly facing Nastya, leaving no doubt about where he stands.
+- 'Wait, are you rejecting our son?' Nastya uses one colorful touch in earnest: "otkazyvayeshsya" means "refuse, reject" (from "otkazyvatsya"), giving the line its exact edge.
+- 'Go away, I do not want to see you anymore!' Nastya grounds this sharp term toward Max: "ukhodi" means "go away" (from "ukhodit"), giving the line its exact edge.
+- 'Nastya, listen, not from our son!' Kostya proceeds quietly around Max, bringing things back to earth after the buildup.
+- 'I am only rejecting the name Kuzma.' Kostya features one direct element at once: "otkazyvayus" means "refuse" (from "otkazyvatsya"), giving the line its exact edge.

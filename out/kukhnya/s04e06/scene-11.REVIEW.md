@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, well how did you like today's relaxation?' Barinov quizzes naturally without holding back, joining "kak" ("how") to "segodnyashniy" ("of today's") so every word pulls its weight.
-- 'Excellent, I had already forgotten how relaxing it is!' Elena offers a wry view beside Lyova, joining "otlichno" ("perfect, great") to "uzhe" ("already, now") so every word pulls its weight.
-- 'I am very glad that you liked everything.' Barinov chooses a thoughtful tempo as they talk, putting "ochen" ("very much") alongside "rad" ("glad") in a tight, everyday turn of phrase.
-- 'But that is far from the whole surprise.' Barinov shows an emphatic bearing in the conversation, leaning on "yeshchyo" ("more, still") before closing the thought with "daleko" ("far away").
-- 'I booked a table for us for seven o'clock.' Barinov brings a sharp bearing in front of Elena, putting "zakazal" ("ordered") alongside "stolik" ("table") in a tight, everyday turn of phrase.
-- 'Vitya, tell me honestly, what is going on today?' Elena inquires promptly across the room, putting "skazhi" ("say") alongside "chestno" ("honestly") in a tight, everyday turn of phrase.
-- 'Lena, believe me, I really need to talk with you.' Barinov sets a frank approach in the room, putting "pover" ("believe") alongside "ochen" ("very much") in a tight, everyday turn of phrase.
-- 'And it is more convenient to talk in a calm evening setting.' Barinov strikes a natural course during the exchange, building the phrase around "udobneye" ("more comfortable") and "pogovorit" ("to talk") for a crisp, natural delivery.
-- 'Well all right, but after all we have work right now.' Elena adopts an easygoing bearing toward Barinov, joining "khorosho" ("good, fine") to "seychas" ("now") so every word pulls its weight.
-- 'Do not worry, Lyova will supervise everything here himself.' Barinov presents a measured tack straight away, anchoring the Russian line on "volnuysya" ("worry") and "zdes" ("here") without extra filler.
-- 'Vitya, are you definitely sure about that?' Elena quizzes honestly in front of Barinov, anchoring the Russian line on "tochno" ("definitely") and "uveren" ("sure, confident") without extra filler.
-- 'Yes, Elena Pavlovna, I will supervise everything!' Lyova keeps an earnest manner as they talk, weaving "prokontroliruyu" ("will keep an eye on") together with "da" ("yes") just the way native speakers do.
+- 'Lena, well how did you like today's relaxation?' Barinov voices the remark facing Elena: putting the question word "kak" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'Excellent, I had already forgotten how relaxing it is!' Elena weighs in right away beside Lyova, making her position completely clear.
+- 'I am very glad that you liked everything.' Barinov centers one practical element in reply: "ponravilos" means "pleased, was liked" (from "ponravitsya"), giving the line its exact edge.
+- 'But that is far from the whole surprise.' Barinov aims that point plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I booked a table for us for seven o'clock.' Barinov continues openly as things stand, bringing things back to earth after the buildup.
+- 'Vitya, tell me honestly, what is going on today?' Elena highlights this telling piece toward Lyova: "proiskhodit" means "is going on", and it carries the main weight of what Elena is saying.
+- 'Lena, believe me, I really need to talk with you.' Barinov voices this answer before Elena: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'And it is more convenient to talk in a calm evening setting.' Barinov replies candidly during the talk, before Lyova can change the subject.
+- 'Well all right, but after all we have work right now.' Elena colors one practical expression with Barinov: "khorosho" means "good, fine", and it carries the main weight of what Elena is saying.
+- 'Do not worry, Lyova will supervise everything here himself.' Barinov follows up right away before Lyova, watching Lyova's face to see how the news lands.
+- 'Vitya, are you definitely sure about that?' Elena checks sharply to see how Barinov will answer on the spot.
+- 'Yes, Elena Pavlovna, I will supervise everything!' Lyova favors one pointed term with Elena: "prokontroliruyu" means "will keep an eye on" (from "prokontrolirovat"), giving the line its exact edge.

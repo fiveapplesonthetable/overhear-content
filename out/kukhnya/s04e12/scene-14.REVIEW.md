@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'At eight o'clock Timur will bring the fish.' Barinov sustains an honest style on the spot, weaving "chasov" ("o'clock") together with "rybu" ("fish") just the way native speakers do.
-- 'So we all need to chip in money.' Barinov conveys an unhurried line during the exchange, leaning on "nado" ("it is necessary") before closing the thought with "skinutsya" ("to money").
-- 'Wait, I think that is our Oguzok over there!' Barinov chooses a firm view as the scene unfolds, leaning on "podozhdite" ("wait") before closing the thought with "tam" ("there").
-- 'Hey, enough fighting, calm down right now!' Senya chooses a firm mood at this moment, using "khorosh" (from "khoroshiy", "good, nice") alongside "dratsya" ("to fight") to shape the meaning.
-- 'What a huge brute this guy is!' Fedya presents a calm course beside Barinov, putting "zdorovyy" ("healthy") alongside "popalsya" ("got caught") in a tight, everyday turn of phrase.
-- 'Sasha, get in the front, hold him tight!' Barinov conveys a firm rhythm as they talk, putting "sadis" ("sit down") alongside "vperyod" ("ahead of") in a tight, everyday turn of phrase.
-- 'Oguzok, what on earth was that?' Barinov tests steadily with Fedya now, combining "voobshche" ("at all") and "bylo" ("was") so the key meaning lands right away.
-- 'Sasha asked him to help with her fiancé.' Senya favors a playful footing in front of Fedya, using "poprosila" (from "poprosit", "asked") alongside "pomoch" ("to help") to shape the meaning.
-- 'Wait, does Vika know about this?' Fedya questions briskly as the beat lands, using "podozhdi" (from "podozhdat", "wait") alongside "znayet" ("knows") to shape the meaning.
-- 'Why did you call us in so early?' Senya asks naturally across the room, pairing "zachem" ("what for") with "rano" ("early, young") to get the point across in plain spoken Russian.
-- 'We wasted so much money for nothing today!' Fedya establishes a sharp style across the room, leaning on "stolko" ("so many") before closing the thought with "deneg" ("money").
-- 'A little later I will go to the pawnshop.' Barinov takes a warm stance as the scene unfolds, anchoring the Russian line on "chut" ("almost, nearly") and "pozzhe" ("later") without extra filler.
-- 'I will sell the stones, and we will split the money equally.' Barinov shows a grounded mood at this moment, linking "prodam" ("I'll sell"), "kamni" ("stone, rock"), and "dengi" ("money") in one brisk exchange.
-- 'Tell me, does everyone agree with this?' Barinov probes directly without a pause, building the phrase around "skazhite" ("tell") and "soglasny" ("agree") for a crisp, natural delivery.
+- 'At eight o'clock Timur will bring the fish.' Barinov stands firm calmly during the talk, steering the talk right where he wants it.
+- 'So we all need to chip in money.' Barinov fires back calmly with a smile, refusing to let the moment slip past.
+- 'Wait, I think that is our Oguzok over there!' Barinov points to this vivid touch toward Fedya: "podozhdite" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Hey, enough fighting, calm down right now!' Senya makes the remark at once: the "-sya" ending on "uspokoysya" ("calm down") turns the action inward or makes it happen between people naturally.
+- 'What a huge brute this guy is!' Fedya follows up lightly without a pause, steering the talk right where he wants it.
+- 'Sasha, get in the front, hold him tight!' Barinov leans on one concrete choice toward Senya: "derzhite" means "hold" (from "derzhat"), giving the line its exact edge.
+- 'Oguzok, what on earth was that?' Barinov phrases this line for Fedya: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Sasha asked him to help with her fiancé.' Senya speaks up steadily with a nod, before Fedya can change the subject.
+- 'Wait, does Vika know about this?' Fedya underscores one vivid element at once: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Why did you call us in so early?' Senya delivers the remark plainly here: putting the question word "zachem" right at the front of the line lets Fedya hear the point of the question on the very first beat.
+- 'We wasted so much money for nothing today!' Fedya cuts in warmly in this moment, saying out loud what both of them already know.
+- 'A little later I will go to the pawnshop.' Barinov uses this clear touch at once: "lombard" means "pawnshop", and it carries the main weight of what Barinov is saying.
+- 'I will sell the stones, and we will split the money equally.' Barinov steps in frankly as they talk, letting the remark speak for itself.
+- 'Tell me, does everyone agree with this?' Barinov wonders candidly what Senya is actually getting at here.

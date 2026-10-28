@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Could you not think of anything better than this?' Vika asks firmly as they speak, combining "luchshe" ("better") and "mog" ("can, to be able") so the key meaning lands right away.
-- 'I thought this was your clever plan.' Max holds an earnest mood during the exchange, building the phrase around "dumal" ("thought") and "khitroumnyy" ("plan") for a crisp, natural delivery.
-- 'Break the door down.' Vika adopts a warm manner right away, joining "vylomay" ("break") to "dver" ("door") so every word pulls its weight.
-- 'I am not going to stay in here all night.' Vika picks a pointed rhythm in their talk, pairing "sobirayus" ("am planning") with "tut" ("here") to get the point across in plain spoken Russian.
-- 'If you need it broken, you break it.' Max takes a warm attitude at this moment, joining "nado" ("it is necessary") to "lomay" ("break") so every word pulls its weight.
-- 'Wonderful. Whom did I marry?' Vika tests candidly right away, putting "zamechatelno" ("wonderful") alongside "vyshla" ("married") in a tight, everyday turn of phrase.
-- 'He cannot even break down a door.' Vika presents a serious mood as the scene unfolds, putting "dver" ("door") alongside "vylomat" ("to break") in a tight, everyday turn of phrase.
-- 'Alright, calm down now.' Max picks a warm tempo straight away, building the phrase around "uspokoysya" ("calm down") and "da" ("yes") for a crisp, natural delivery.
-- 'Do you understand now that it is better not to make me angry?' Vika probes decisively to make the point, building the phrase around "ponyala" ("understood") and "luchshe" ("better") for a crisp, natural delivery.
-- 'I understand. Now I will make you angry more often.' Vika presents a thoughtful course across the room, anchoring the Russian line on "ponyala" ("understood") and "teper" ("now") without extra filler.
-- 'Put the door back in place. Are you a man or not?' Vika queries quietly during the talk, leaning on "dver" ("door") before closing the thought with "obratno" ("back").
-- 'Lev Semyonovich Solovyov.' German presents a firm tack in the room, leaning on "semyonovich" ("semyonovich") before closing the thought with "lev" ("Lev").
+- 'Could you not think of anything better than this?' Vika questions point-blank while looking straight at German here.
+- 'I thought this was your clever plan.' Max points to one clear word with Vika: "khitroumnyy" means "plan", and it carries the main weight of what Max is saying.
+- 'Break the door down.' Vika offers the comeback plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I am not going to stay in here all night.' Vika holds firm steadily with Max, shifting the whole mood of the room in a single beat.
+- 'If you need it broken, you break it.' Max uses one key detail toward German: "lomay" means "break" (from "lomat"), giving the line its exact edge.
+- 'Wonderful. Whom did I marry?' Vika lays out the comment on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'He cannot even break down a door.' Vika follows up firmly with a smile, making her position completely clear.
+- 'Alright, calm down now.' Max centers one concrete piece at once: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
+- 'Do you understand now that it is better not to make me angry?' Vika hands over the thought briskly now: putting the question word "chto" right at the front of the line lets German hear the point of the question on the very first beat.
+- 'I understand. Now I will make you angry more often.' Vika follows up honestly during the talk, before Max can change the subject.
+- 'Put the door back in place. Are you a man or not?' Vika emphasizes one telling touch in reply: "muzhchina" means "man", and it carries the main weight of what Vika is saying.
+- 'Lev Semyonovich Solovyov.' German sends this update briskly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Two hundred horsepower, an excellent motorcycle!' Barinov shares a pointed direction on the spot, pairing "loshadey" ("horses, horsepower") with "otlichnyy" ("excellent, great") to get the point across in plain spoken Russian.
-- 'I had a motorcycle like that in my youth.' Barinov keeps a playful position at once, leaning on "molodosti" ("in youth") before closing the thought with "mototsikl" ("motorcycle").
-- 'You ride for an hour, then overhaul it all day.' Barinov projects a thoughtful approach straight away, combining "chas" ("hour") and "gonyayesh" ("ride fast, race") so the key meaning lands right away.
-- 'I have one like that standing in my workshop.' Max shows a measured note straight away, using "masterskoy" (from "masterskaya", "in the workshop") alongside "stoit" ("is parked") to shape the meaning.
-- 'And what kind of workshop do you have?' Barinov queries briskly toward Katya here, building the phrase around "masterskaya" ("workshop") and "chto" ("what") for a crisp, natural delivery.
-- 'I build all kinds of bikes to order.' Max shares a grounded note on the spot, anchoring the Russian line on "sobirayu" ("am packing") and "bayki" ("bikes, motorcycles") without extra filler.
-- 'I will let you go for a ride, thanks, I will stop by.' Max brings a playful angle as the scene unfolds, pairing "pokatatsya" ("to go for a ride") with "dam" ("will give") so the "-sya" ending carries the action.
-- 'My name is Viktor, and yours?' Barinov queries naturally in the room, putting "zovut" ("call") alongside "menya" ("me") in a tight, everyday turn of phrase.
-- 'My friends just call me Piston.' Max projects a pointed tack in front of Barinov, linking "druzya" ("friends"), "nazyvayut" ("call"), and "prosto" ("just") in one brisk exchange.
-- 'The girls recently gave me that name.' Max displays a direct direction on the spot, leaning on "devchonki" ("girls") before closing the thought with "nedavno" ("returned").
-- 'Hi, have you been waiting long for me?' Katya asks plainly without holding back, anchoring the Russian line on "dolgo" ("for a long time") and "zhdyosh" ("to wait, to expect") without extra filler.
-- 'Katya, wait, who on earth is this?' Barinov quizzes promptly without hesitation, leaning on "podozhdi" ("wait") before closing the thought with "voobshche" ("at all").
-- 'Do you two know each other, this is my father!' Katya holds an emphatic tone in the conversation, leaning on "znakomy" ("acquainted") before closing the thought with "otets" ("father").
+- 'Two hundred horsepower, an excellent motorcycle!' Barinov spotlights this clear term in earnest: "otlichnyy" means "excellent, great", and it carries the main weight of what Barinov is saying.
+- 'I had a motorcycle like that in my youth.' Barinov shares that thought beside Max: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'You ride for an hour, then overhaul it all day.' Barinov jumps in briskly across the room, making his position completely clear.
+- 'I have one like that standing in my workshop.' Max focuses on one colorful word right here: "masterskoy" means "in the workshop" (from "masterskaya"), giving the line its exact edge.
+- 'And what kind of workshop do you have?' Barinov gives that line before Katya: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'I build all kinds of bikes to order.' Max opens up openly in their talk, letting the remark speak for itself.
+- 'I will let you go for a ride, thanks, I will stop by.' Max chooses one classic expression right here: "pokatatsya" means "to go for a ride", and it carries the main weight of what Max is saying.
+- 'My name is Viktor, and yours?' Barinov frames this warning on cue: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'My friends just call me Piston.' Max jumps in briskly with a sigh, shifting the whole mood of the room in a single beat.
+- 'The girls recently gave me that name.' Max colors one memorable word with Katya: "devchonki" means "girls" (from "devchonka"), giving the line its exact edge.
+- 'Hi, have you been waiting long for me?' Katya drops that reply frankly here: opening with the casual greeting "privet" ("hi") signals right away that Katya and Barinov are on familiar terms.
+- 'Katya, wait, who on earth is this?' Barinov checks bluntly how Max expects that to work in practice.
+- 'Do you two know each other, this is my father!' Katya uses this vivid term in reply: "znakomy" means "acquainted" (from "znakomyy"), giving the line its exact edge.

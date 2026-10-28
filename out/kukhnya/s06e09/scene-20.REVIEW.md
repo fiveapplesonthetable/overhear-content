@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, can you imagine, today I lost our flash drive.' Sveta strikes an unhurried footing at this moment, linking "predstavlyayesh" ("can you imagine"), "segodnya" ("today"), and "poteryala" ("lost, wasted") in one brisk exchange.
-- 'Well that is fine, at least we were not fired.' Denis keeps a sharp line at once, pairing "uvolili" ("to fire, to dismiss") with "nu" ("oh, come on") to get the point across in plain spoken Russian.
-- 'I do not need any handouts from Katya.' Sveta keeps a grounded tack toward Denis, linking "podarki" ("presents"), "nuzhny" ("needed"), and "mne" ("to me") in one brisk exchange.
-- 'Out of pride I will not stay here to work.' Sveta favors a thoughtful tack right away, anchoring the Russian line on "gordosti" ("pride") and "tut" ("here") without extra filler.
-- 'Wait, after all it was not Katya at all who did this.' Denis adopts a calm angle for Katya, joining "podozhdi" ("wait") to "sdelala" ("have done, did") so every word pulls its weight.
-- 'I talked with the chef in person this morning.' Denis establishes a sharp approach at this moment, weaving "utrom" ("this morning") together with "lichno" ("personally") just the way native speakers do.
-- 'Really, you asked the chef for us yourself?' Sveta quizzes briskly as they speak, weaving "pravda" ("honestly") together with "poprosil" ("asked") just the way native speakers do.
-- 'Of course, because without you it will be boring here.' Denis takes a lively manner for Sveta, weaving "konechno" ("of course") together with "tut" ("here") just the way native speakers do.
-- 'I think I understood everything perfectly right now.' Sveta brings a measured note in their talk, pairing "kazhetsya" ("it seems, I think") with "seychas" ("now") so the "-sya" ending carries the action.
-- 'You invited me to the cafe and lied.' Sveta displays a sharp course as the scene unfolds, putting "pozval" ("invited") alongside "kafe" ("café") in a tight, everyday turn of phrase.
-- 'Why are you looking at me so strangely right now?' Denis tests boldly in this moment, weaving "pochemu" ("why") together with "seychas" ("now") just the way native speakers do.
-- 'Because I like you very much too.' Sveta sustains a direct course straight away, building the phrase around "potomu" ("because") and "tozhe" ("too") for a crisp, natural delivery.
-- 'Denis, I see you are not bored at all anymore!' Katya keeps a clear mood in front of Denis, combining "vizhu" ("see") and "uzhe" ("already, now") so the key meaning lands right away.
+- 'Denis, can you imagine, today I lost our flash drive.' Sveta replies right away on the spot, saying out loud what both of them already know.
+- 'Well that is fine, at least we were not fired.' Denis counters firmly during the talk, to clear the air between them once and for all.
+- 'I do not need any handouts from Katya.' Sveta emphasizes one memorable element on cue: "podarki" means "presents" (from "podarok"), giving the line its exact edge.
+- 'Out of pride I will not stay here to work.' Sveta speaks up at once toward Katya, refusing to let the moment slip past.
+- 'Wait, after all it was not Katya at all who did this.' Denis reacts steadily with a sigh, making his position completely clear.
+- 'I talked with the chef in person this morning.' Denis reaches for one practical touch right here: "pogovoril" means "to have a talk" (from "pogovorit"), giving the line its exact edge.
+- 'Really, you asked the chef for us yourself?' Sveta voices that reply around Denis: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'Of course, because without you it will be boring here.' Denis speaks candidly to settle things, watching Sveta's face to see how the news lands.
+- 'I think I understood everything perfectly right now.' Sveta chooses one pointed word for Denis: "kazhetsya" means "it seems, I think" (from "kazatsya"), giving the line its exact edge.
+- 'You invited me to the cafe and lied.' Sveta highlights one pointed word in reply: "pozval" means "invited" (from "pozvat"), giving the line its exact edge.
+- 'Why are you looking at me so strangely right now?' Denis presses wryly how Katya expects that to work in practice.
+- 'Because I like you very much too.' Sveta grounds one memorable piece at once: "nravishsya" means "appeal to, are liked" (from "nravitsya"), giving the line its exact edge.
+- 'Denis, I see you are not bored at all anymore!' Katya voices that answer plainly here: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.

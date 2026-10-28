@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, attention, nobody is going home tonight!' Barinov favors a playful view without hesitation, weaving "vnimaniye" ("attention") together with "segodnya" ("today") just the way native speakers do.
-- 'Tonight we have a night shift in the kitchen.' Barinov shares a warm approach in the scene, leaning on "u nas" ("by us, at our place") and "segodnya" ("today") the way natural Russian does.
-- 'Chef, with such spooky nonsense here, I am not staying at night!' Max maintains an emphatic rhythm in the room, combining "tut" ("here") and "chertovshchina" ("devilry") so the key meaning lands right away.
-- 'I do not even need all the cooks tonight.' Barinov favors a resolute course in front of Max, using "povara" (from "povar", "cook") alongside "segodnya" ("today") to shape the meaning.
-- 'Katya is staying, and Max, because he is being punished.' Barinov sets an easygoing posture toward Katya, putting "ostayotsya" ("stays") alongside "potomu" ("because") in a tight, everyday turn of phrase.
-- 'Who else will stay, there will be double pay for the shift!' Barinov sets an emphatic style in the room, anchoring the Russian line on "yeshchyo" ("more, still") and "ostanetsya" ("will remain") without extra filler.
-- 'I will do it, so be it, I will stay to help!' Max keeps a serious line without hesitation, joining "budu" ("will be") to "byt" ("be") so every word pulls its weight.
-- 'Katya, have you not finished your work yet?' Max tests earnestly right away, putting "yeshchyo" ("more, still") alongside "zakonchila" ("finished") in a tight, everyday turn of phrase.
-- 'No, right now we are going to make your signature sauce!' Katya sustains a direct line in the scene, weaving "seychas" ("now") together with "budem" ("will") just the way native speakers do.
-- 'Very funny, do you want to poison someone in the dining room?' Max checks promptly in this moment, joining "ochen" ("very much") to "smeshno" ("ridiculous") so every word pulls its weight.
-- 'Max, I finally found the solution to your problem!' Katya chooses a pointed footing without hesitation, pairing "nakonets" ("at last, finally") with "nashla" ("found, did you find") to get the point across in plain spoken Russian.
-- 'A special substance is contained in the essential oil of thyme.' Katya shares a measured line toward Max, pairing "soderzhitsya" ("is contained") with "efirnom" ("essential") so the "-sya" ending carries the action.
+- 'Alright, attention, nobody is going home tonight!' Barinov sharpens one familiar touch toward Katya: "raskhoditsya" means "leaves, disperses", and it carries the main weight of what Barinov is saying.
+- 'Tonight we have a night shift in the kitchen.' Barinov shares that reply briskly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Chef, with such spooky nonsense here, I am not staying at night!' Max chimes in right away toward Barinov, watching Barinov's face to see how the news lands.
+- 'I do not even need all the cooks tonight.' Barinov underscores this direct term on cue: "povara" means "cook" (from "povar"), giving the line its exact edge.
+- 'Katya is staying, and Max, because he is being punished.' Barinov delivers this answer at once: the "-sya" ending on "ostayotsya" ("stays") turns the action inward or makes it happen between people naturally.
+- 'Who else will stay, there will be double pay for the shift!' Barinov answers calmly watching Max, letting the remark speak for itself.
+- 'I will do it, so be it, I will stay to help!' Max sharpens this key choice with Barinov: "ostanus" means "stay" (from "ostatsya"), giving the line its exact edge.
+- 'Katya, have you not finished your work yet?' Max lays out the comeback for Katya: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'No, right now we are going to make your signature sauce!' Katya stands firm steadily with a nod, steering the talk right where she wants it.
+- 'Very funny, do you want to poison someone in the dining room?' Max picks one colorful element in reply: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'Max, I finally found the solution to your problem!' Katya responds boldly with a smile, grounding the moment in plain reality.
+- 'A special substance is contained in the essential oil of thyme.' Katya opens up wryly before Max, without trying to dress up how she really feels.

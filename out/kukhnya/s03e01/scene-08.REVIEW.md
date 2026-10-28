@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, are you kidding me?' Barinov probes candidly without holding back, putting "izdevayeshsya" ("are kidding") alongside "dima" ("Dima") in a tight, everyday turn of phrase.
-- 'She is a woman!' Barinov strikes a pointed rhythm for Nastya, pairing "zhenshchina" ("woman") with "eto" ("this") to get the point across in plain spoken Russian.
-- 'Dima, you know my attitude toward this.' Barinov establishes a sharp rhythm for Kostya, combining "znayesh" ("know") and "otnosheniye" ("attitude, relation") so the key meaning lands right away.
-- 'A woman will not work in my kitchen.' Barinov adopts a resolute tone in the scene, joining "zhenshchina" ("woman") to "kukhne" ("kitchen") so every word pulls its weight.
-- 'Nastya, did you tell your parents?' Kostya challenges directly in front of Barinov, building the phrase around "rasskazala" ("told") and "roditelyam" ("to parents") for a crisp, natural delivery.
-- 'Not yet.' Nastya conveys a brisk posture across the room, joining "yeshchyo" ("more, still") to "net" ("no") so every word pulls its weight.
-- 'Nastya, what is the matter? Why are you hiding it?' Kostya queries dryly in their exchange, leaning on "delo" ("matter") before closing the thought with "pochemu" ("why").
-- 'I am afraid.' Nastya keeps a playful direction in front of Kostya, leaning on "boyus" ("am afraid") as a compact, one-word response that needs no extra words.
-- 'My dad has old-fashioned views.' Nastya offers a wry tone for Barinov, combining "papa" ("Dad") and "starykh" ("old") so the key meaning lands right away.
-- 'I got pregnant before the wedding.' Nastya sets an emphatic footing toward Kostya, combining "zaberemenela" ("got pregnant") and "svadby" ("wedding") so the key meaning lands right away.
-- 'He will probably kill you.' Nastya adopts a thoughtful footing in the scene, pairing "ubyot" ("will kill") with "on" ("he") to get the point across in plain spoken Russian.
-- 'Me? Why me?' Kostya wonders directly in front of Nastya, anchoring the Russian line on "menya" ("me") and "menya-to" ("me") without extra filler.
+- 'Dima, are you kidding me?' Barinov voices that point frankly here: the "-sya" ending on "izdevayeshsya" ("are kidding") turns the action inward or makes it happen between people naturally.
+- 'She is a woman!' Barinov replies briskly in this moment, shifting the whole mood of the room in a single beat.
+- 'Dima, you know my attitude toward this.' Barinov anchors this key term in reply: "otnosheniye" means "attitude, relation", and it carries the main weight of what Barinov is saying.
+- 'A woman will not work in my kitchen.' Barinov reacts quietly with a sigh, making his position completely clear.
+- 'Nastya, did you tell your parents?' Kostya wonders curiously why things suddenly took this turn between them.
+- 'Not yet.' Nastya underscores one sharp piece on cue: "yeshchyo" means "more, still", and it carries the main weight of what Nastya is saying.
+- 'Nastya, what is the matter? Why are you hiding it?' Kostya sends the comeback briskly now: putting the question word "pochemu" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'I am afraid.' Nastya counters warmly to be clear, steering the talk right where she wants it.
+- 'My dad has old-fashioned views.' Nastya focuses on one pointed touch at once: "vzglyadov" means "views" (from "vzglyad"), giving the line its exact edge.
+- 'I got pregnant before the wedding.' Nastya lays out the comeback plainly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'He will probably kill you.' Nastya reacts pointedly with a sigh, shifting the whole mood of the room in a single beat.
+- 'Me? Why me?' Kostya directs that remark calmly now: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.

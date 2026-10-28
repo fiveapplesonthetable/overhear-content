@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Help, a snake bit me!' Nagiyev shares a clear posture beside Fedya, pairing "pomogite" ("help") with "zmeya" ("kitchen") to get the point across in plain spoken Russian.
-- 'It bit me right from behind!' Nagiyev adopts a warm rhythm in their talk, leaning on "pryamo" ("right, just") before closing the thought with "szadi" ("behind, leaning back").
-- 'Oh, how awful I feel right now!' Nagiyev picks a frank angle with Fedya, putting "kak" ("how") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Someone needs to get this venom out urgently!' Nagiyev maintains a firm stance in the scene, linking "nado" ("it is necessary"), "srochno" ("urgent, urgently"), and "yad" ("poison, venom") in one brisk exchange.
-- 'I am begging all of you!' Nagiyev holds a sharp mood without hesitation, anchoring the Russian line on "ochen" ("very much") and "proshu" ("beg, ask") without extra filler.
-- 'Help me, I cannot do it myself!' Nagiyev sets a calm tone on the spot, anchoring the Russian line on "pomogite" ("help") and "mogu" ("can") without extra filler.
-- 'I simply cannot reach back there myself!' Nagiyev holds a resolute attitude toward Fedya, joining "tuda" ("there") to "prosto" ("just") so every word pulls its weight.
-- 'Fedya, please be a pal!' Nagiyev shares a grounded direction beside Fedya, combining "bud" ("were he") and "chelovekom" ("person, people") so the key meaning lands right away.
-- 'Guys, please be human beings!' Nagiyev sets a playful style at this moment, joining "rebyata" ("the boys, the lads") to "budte" ("be") so every word pulls its weight.
-- 'I am giving a hundred thousand for this!' Nagiyev chooses a frank note with Fedya, combining "tysyach" ("thousand") and "dayu" ("give") so the key meaning lands right away.
-- 'Fine, come on, I can do it!' Fedya keeps an emphatic course with Nagiyev, combining the easygoing tag "ladno" ("okay, fine") with "davay" ("let's") to give the line its natural spoken rhythm.
-- 'Why not, I have a big loan to pay!' Fedya conveys a steady direction across the room, leaning on "bolshoy" ("big") before closing the thought with "kredit" ("loan, credit").
+- 'Help, a snake bit me!' Nagiyev phrases the comment at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'It bit me right from behind!' Nagiyev reacts briskly as they talk, grounding the moment in plain reality.
+- 'Oh, how awful I feel right now!' Nagiyev centers one pointed detail at once: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
+- 'Someone needs to get this venom out urgently!' Nagiyev frames that thought around Fedya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'I am begging all of you!' Nagiyev proceeds evenly with a shrug, testing Fedya's reaction in the middle of the exchange.
+- 'Help me, I cannot do it myself!' Nagiyev features one direct detail in reply: "pomogite" means "help" (from "pomoch"), giving the line its exact edge.
+- 'I simply cannot reach back there myself!' Nagiyev offers this statement at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Fedya, please be a pal!' Nagiyev opens up decisively to settle things, refusing to let the moment slip past.
+- 'Guys, please be human beings!' Nagiyev spotlights this telling element on cue: "rebyata" means "the boys, the lads", and it carries the main weight of what Nagiyev is saying.
+- 'I am giving a hundred thousand for this!' Nagiyev responds briskly beside Fedya, keeping the focus on what actually matters here.
+- 'Fine, come on, I can do it!' Fedya counters lightly hearing Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'Why not, I have a big loan to pay!' Fedya stresses one memorable word right here: "bolshoy" means "big", and it carries the main weight of what Fedya is saying.

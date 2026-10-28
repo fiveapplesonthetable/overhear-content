@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Perhaps you could give me an autograph?' Max tests quietly as they speak, leaning on "avtograf" ("autograph") before closing the thought with "mozhet" ("can").
-- 'By the way, what wonderful Russian you speak.' Vika shares an emphatic style across the room, pairing "kstati" ("by the way") with "zamechatelnyy" ("wonderful, remarkable") to get the point across in plain spoken Russian.
-- 'My mother was Russian.' Max sustains a lively footing without hesitation, weaving "mama" ("mum, mother") together with "byla" ("was") just the way native speakers do.
-- 'Is that so.' Vika brings a thoughtful direction in the scene, linking "kak" ("how") directly with "vot" ("there, here"), since Russian drops "is" and "are" in the present.
-- 'Though that was a very long time ago.' Max chooses a brisk approach right away, pairing "bylo" ("was") with "ochen" ("very much") to get the point across in plain spoken Russian.
-- 'Come now, Luca, surely it was not that long ago.' Vika establishes a firm attitude in their talk, putting "luka" ("onion") alongside "navernoye" ("probably") in a tight, everyday turn of phrase.
-- 'Just a couple of years ago.' Max presents a direct course in their talk, anchoring the Russian line on "paru" ("couple") and "let" ("years") without extra filler.
-- 'I know.' Vika adopts an earnest style in this beat, using "znayu" (from "znat", "know") alongside "ya" ("I") to shape the meaning.
-- 'Yes, please do not worry.' Max keeps an easygoing rhythm in their talk, pairing "volnuytes" ("worry") with "da" ("yes") so the "-sya" ending carries the action.
-- 'Do not worry at all. No.' Vika chooses a warm style as they talk, weaving "volnuytes" ("worry") together with "ne" ("not") just the way native speakers do.
-- 'Listen, Oguzok, maybe you should go work as a waiter?' Max queries naturally with Vika now, anchoring the Russian line on "slushay" ("listen") and "aguzok" ("rookie, greenhorn") without extra filler.
-- 'Rather than standing around in here.' Vika picks a lively course during the exchange, building the phrase around "tut" ("here") and "chem" ("than") for a crisp, natural delivery.
-- 'Why not, maybe I actually will?' Max inquires decisively right away, anchoring the Russian line on "mozhet" ("can") and "poydu" ("go") without extra filler.
+- 'Perhaps you could give me an autograph?' Max challenges openly if there is more going on behind the scenes.
+- 'By the way, what wonderful Russian you speak.' Vika frames one clear expression with Max: "zamechatelnyy" means "wonderful, remarkable", and it carries the main weight of what Vika is saying.
+- 'My mother was Russian.' Max voices the comeback before Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Is that so.' Vika continues bluntly to settle things, bringing things back to earth after the buildup.
+- 'Though that was a very long time ago.' Max leans on this key piece right here: "ochen" means "very much", and it carries the main weight of what Max is saying.
+- 'Come now, Luca, surely it was not that long ago.' Vika cuts in steadily beside Max, saying out loud what both of them already know.
+- 'Just a couple of years ago.' Max follows up decisively to be clear, letting the remark speak for itself.
+- 'I know.' Vika picks one vivid choice at once: "znayu" means "know" (from "znat"), giving the line its exact edge.
+- 'Yes, please do not worry.' Max shares this line beside Vika: the "-sya" ending on "volnuytes" ("worry") turns the action inward or makes it happen between people naturally.
+- 'Do not worry at all. No.' Vika responds promptly hearing Max, bringing things back to earth after the buildup.
+- 'Listen, Oguzok, maybe you should go work as a waiter?' Max features one classic term in reply: "ofitsianty" means "waiters" (from "ofitsiant"), giving the line its exact edge.
+- 'Rather than standing around in here.' Vika offers the comment on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Why not, maybe I actually will?' Max asks skeptically while looking straight at Vika here.

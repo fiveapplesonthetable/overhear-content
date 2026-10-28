@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, have you seen the Chef?' Max wonders bluntly without a pause, linking "videli" ("saw"), "oy" ("oh"), and "vy" ("you") in one brisk exchange.
-- 'He said he would be back in half an hour.' Barinov sets a brisk attitude in the room, leaning on "skazal" ("said") before closing the thought with "polchasa" ("half-hour").
-- 'I will strangle you, Max.' Barinov shares a resolute style at this moment, building the phrase around "udavlyu" ("to strangle") and "maks" ("Max") for a crisp, natural delivery.
-- 'Stop overthinking everything.' Barinov picks a candid tone in their talk, combining "prekrati" ("stop it") and "dumat" ("to think") so the key meaning lands right away.
-- 'What are you doing in here?' Max prompts wryly beside Barinov, anchoring the Russian line on "tut" ("here") and "delayesh" ("are you doing") without extra filler.
-- 'I came by to ask about my salary.' Barinov presents a serious stance right away, leaning on "povodu" ("matter") before closing the thought with "zarplaty" ("salaries").
-- 'By the way, you are not going to give me a raise, are you?' Max checks openly in the room, putting "kstati" ("by the way") alongside "budete" ("will be") in a tight, everyday turn of phrase.
-- 'And rightly so, I have not earned it.' Barinov offers a thoughtful direction in the scene, pairing "pravilno" ("right") with "zasluzhil" ("earned") to get the point across in plain spoken Russian.
-- 'No. And rightly so.' Max takes a measured rhythm in the conversation, linking "pravilno" ("right"), "net" ("no"), and "nu" ("oh, come on") in one brisk exchange.
-- 'Until I find out the answer.' Barinov presents a firm approach without hesitation, combining "poka" ("bye") and "otveta" ("answer") so the key meaning lands right away.
-- 'There is no point in continuing to breathe.' Max keeps a thoughtful position without hesitation, using "smysla" (from "smysl", "sense, meaning") alongside "prodolzhat" ("to continue") to shape the meaning.
-- 'Postscript.' Barinov sets a direct note across the room, leaning on "skriptum" ("postscript") before closing the thought with "po" ("according to").
-- 'Bon appetit.' Max holds a direct stance toward Barinov, using "priyatnogo" (from "priyatnyy", "pleasant") alongside "appetita" ("appetite") to shape the meaning.
+- 'Oh, have you seen the Chef?' Max shares this point around Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'He said he would be back in half an hour.' Barinov answers promptly facing Max, watching Max's face to see how the news lands.
+- 'I will strangle you, Max.' Barinov features one concrete choice with Max: "udavlyu" means "to strangle" (from "udavit"), giving the line its exact edge.
+- 'Stop overthinking everything.' Barinov delivers this answer for Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'What are you doing in here?' Max tests evenly to see how Barinov will answer on the spot.
+- 'I came by to ask about my salary.' Barinov points to one direct term on cue: "zarplaty" means "salaries" (from "zarplata"), giving the line its exact edge.
+- 'By the way, you are not going to give me a raise, are you?' Max makes the comment without fuss: opening with "kstati" ("by the way") lets Max drop a new detail into the conversation as if it just crossed his mind.
+- 'And rightly so, I have not earned it.' Barinov weighs in wryly hearing Max, bringing things back to earth after the buildup.
+- 'No. And rightly so.' Max focuses on this vivid term in reply: "pravilno" means "right", and it carries the main weight of what Max is saying.
+- 'Until I find out the answer.' Barinov brings that reply for Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'There is no point in continuing to breathe.' Max counters wryly as things stand, to clear the air between them once and for all.
+- 'Postscript.' Barinov frames one pointed touch in reply: "skriptum" means "postscript" (from "postskriptum"), giving the line its exact edge.
+- 'Bon appetit.' Max hands over that point before Barinov: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

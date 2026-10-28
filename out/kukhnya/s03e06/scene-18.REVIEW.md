@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is going on here, I am asking you?' Nagiyev prompts candidly as they speak, combining "zdes" ("here") and "proiskhodit" ("is going on") so the key meaning lands right away.
-- 'Why are people calling me and complaining that there is a mess here?' Nagiyev probes promptly as they speak, linking "pochemu" ("why"), "lyudi" ("people"), and "zvonyat" ("call") in one brisk exchange.
-- 'I promised and I did everything, and where is Vitya?' Nagiyev presses honestly as the beat lands, linking "obeshchal" ("promised"), "sdelal" ("did"), and "gde" ("where") in one brisk exchange.
-- 'Dima, what are you doing here right now?' Kristina questions naturally toward Nagiyev here, pairing "seychas" ("now") with "zdes" ("here") so the "-sya" ending carries the action.
-- 'Why are people calling me and complaining?' Kristina quizzes pointedly in front of Barinov, weaving "pochemu" ("why") together with "zvonyat" ("call") just the way native speakers do.
-- 'Hello, I have an important event here.' Nagiyev shares a frank direction in the scene, using the everyday "u menya" ("by me") alongside "zdravstvuyte" ("hello") to show what belongs to the speaker.
-- 'Really, actually I am the one who has an event here.' Kristina sustains a natural angle in front of Barinov, putting "pravda" ("honestly") alongside "voobshche-to" ("actually") in a tight, everyday turn of phrase.
-- 'I wanted to say thank you very much for everything.' Barinov chooses a direct view at once, pairing "khotel" ("wanted") with "skazat" ("tell") to get the point across in plain spoken Russian.
-- 'Forgive me, you always have problems because of me.' Barinov displays a lively course in front of Kristina, combining "prosti" ("sorry, forgive me") and "vechno" ("always") so the key meaning lands right away.
-- 'Wait, you misunderstood everything!' Barinov strikes a pointed approach in front of Nagiyev, linking "podozhdite" ("wait"), "ponyali" ("did you understand"), and "da" ("yes") in one brisk exchange.
-- 'After all, I warned you in advance!' Nagiyev sustains a warm line on the spot, joining "zaraneye" ("in advance") to "preduprezhdal" ("warned") so every word pulls its weight.
-- 'My friends, I must apologize to you.' Barinov holds a resolute stance on the spot, using "druzya" (from "drug", "friends") alongside "dolzhen" ("has to, must") to shape the meaning.
+- 'What is going on here, I am asking you?' Nagiyev wonders earnestly where this conversation is heading next.
+- 'Why are people calling me and complaining that there is a mess here?' Nagiyev frames one sharp word on cue: "zhaluyutsya" means "complain" (from "zhalovatsya"), giving the line its exact edge.
+- 'I promised and I did everything, and where is Vitya?' Nagiyev shares this point frankly here: putting the question word "gde" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Dima, what are you doing here right now?' Kristina inquires curiously in front of Nagiyev without any preamble.
+- 'Why are people calling me and complaining?' Kristina focuses on one colorful choice in reply: "zhaluyutsya" means "complain" (from "zhalovatsya"), giving the line its exact edge.
+- 'Hello, I have an important event here.' Nagiyev gives this statement without pause: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Really, actually I am the one who has an event here.' Kristina stands firm wryly before Barinov, without trying to dress up how she really feels.
+- 'I wanted to say thank you very much for everything.' Barinov emphasizes one key term on cue: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Forgive me, you always have problems because of me.' Barinov lays out the remark before Kristina: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Wait, you misunderstood everything!' Barinov replies pointedly on the spot, saying out loud what both of them already know.
+- 'After all, I warned you in advance!' Nagiyev grounds one familiar expression in earnest: "preduprezhdal" means "warned" (from "preduprezhdat"), giving the line its exact edge.
+- 'My friends, I must apologize to you.' Barinov sends this point with candor: the "-sya" ending on "izvinitsya" ("to apologise") turns the action inward or makes it happen between people naturally.

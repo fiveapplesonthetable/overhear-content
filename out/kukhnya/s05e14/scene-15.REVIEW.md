@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where are you wandering out there? Take the dishes!' Barinov checks openly as they speak, joining "gde" ("where") to "tam" ("there") so every word pulls its weight.
-- 'It seems we have finally cleared all the urgent orders.' Barinov shares a frank stance across the room, using "kazhetsya" (from "kazatsya", "it seems, I think") alongside "nakonets" ("at last, finally") to shape the meaning.
-- 'Thank you, Lena, without you I would not have managed.' Barinov takes a grounded style for Elena, building the phrase around "spasibo" ("thank you") and "spravilsya" ("to manage, to cope") for a crisp, natural delivery.
-- 'Oh come on, Vitya, do not exaggerate.' Elena displays a pointed rhythm at once, using "preuvelichivay" (from "preuvelichivat", "exaggerate") alongside "da" ("yes") to shape the meaning.
-- 'Listen, where is that important guest anyway?' Elena wonders plainly toward Barinov here, building the phrase around "slushay" ("listen") and "gde" ("where") for a crisp, natural delivery.
-- 'If he does not come, we will make it to the match!' Elena sets a frank tack beside Barinov, leaning on "pridyot" ("will come") before closing the thought with "uspeyem" ("we'll make it").
-- 'And there she is, our important guest!' Barinov chooses an unhurried attitude without hesitation, placing "vazhnaya" ("important") straight beside "gostya" ("guest") with no word for "to be" needed.
-- 'Wait, Vitya, and who is that woman anyway?' Elena tests decisively beside Barinov, weaving "podozhdi" ("wait") together with "voobshche" ("at all") just the way native speakers do.
-- 'That is the young wife of a famous rich man.' Barinov picks a steady view beside Elena, joining "molodaya" ("young") to "zhena" ("wife") so every word pulls its weight.
-- 'He also has that well-known foreign last name.' Barinov sets a serious angle in the scene, leaning on "yeshchyo" ("more, still") before closing the thought with "izvestnaya" ("famous, well-known").
-- 'Perhaps you mean Friedman?' Elena asks bluntly as they speak, anchoring the Russian line on "mozhet" ("can") and "byt" ("be") without extra filler.
-- 'Exactly, attention everyone, we have a very important guest!' Barinov picks a playful course with Elena, leaning on "u nas" ("by us, at our place") and "tochno" ("definitely") the way natural Russian does.
+- 'Where are you wandering out there? Take the dishes!' Barinov challenges eagerly how Elena expects that to work in practice.
+- 'It seems we have finally cleared all the urgent orders.' Barinov features this direct touch in reply: "srochnyye" means "urgent" (from "srochnyy"), giving the line its exact edge.
+- 'Thank you, Lena, without you I would not have managed.' Barinov offers this statement without pause: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Oh come on, Vitya, do not exaggerate.' Elena pushes back plainly with a nod, making her position completely clear.
+- 'Listen, where is that important guest anyway?' Elena sharpens one clear expression right here: "vazhnyy" means "important", and it carries the main weight of what Elena is saying.
+- 'If he does not come, we will make it to the match!' Elena answers frankly hearing Barinov, saying out loud what both of them already know.
+- 'And there she is, our important guest!' Barinov responds sharply with Elena, making his position completely clear.
+- 'Wait, Vitya, and who is that woman anyway?' Elena underscores one vivid piece toward Barinov: "zhenshchina" means "woman", and it carries the main weight of what Elena is saying.
+- 'That is the young wife of a famous rich man.' Barinov hands over this point before Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He also has that well-known foreign last name.' Barinov answers promptly without holding back, letting the remark speak for itself.
+- 'Perhaps you mean Friedman?' Elena spotlights one classic word right here: "imeyesh" means "to have" (from "imet"), giving the line its exact edge.
+- 'Exactly, attention everyone, we have a very important guest!' Barinov states this point toward Elena: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.

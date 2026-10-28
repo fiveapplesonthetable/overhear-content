@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good afternoon, gentlemen and ladies.' Nagiyev establishes a measured line at once, leaning on "dobryy" ("good") before closing the thought with "den" ("day").
-- 'I will allow myself to correct you.' Nagiyev brings a pointed stance at once, putting "pozvolyu" ("will allow") alongside "popravit" ("to straighten") in a tight, everyday turn of phrase.
-- 'We are not terrorists, we are businessmen.' Nagiyev takes a firm tone for Kostya, joining "terroristy" ("terrorists") to "biznesmeny" ("businessmen") so every word pulls its weight.
-- 'And now I ask everyone into the dining room.' Nagiyev shares a frank style with Senya, pairing "seychas" ("now") with "proshu" ("beg, ask") to get the point across in plain spoken Russian.
-- 'Have you heard about Stockholm syndrome?' Kostya presses boldly in front of Nagiyev, pairing "slyshala" ("to hear") with "stokgolmskiy" ("syndrome") to get the point across in plain spoken Russian.
-- 'Victims feel sympathy toward their captors.' Kostya chooses an honest angle in front of Senya, anchoring the Russian line on "zhertvy" ("victim, sacrifice") and "ispytyvayut" ("to experience") without extra filler.
-- 'Excuse me, please, may I ask a question?' Senya questions openly as the beat lands, linking "izvinite" ("sorry, excuse me"), "mozhno" ("may, can"), and "vopros" ("question, matter") in one brisk exchange.
-- 'Could you tie the bartender to me instead?' Senya checks boldly as the talk turns, joining "mozhno" ("may, can") to "barmena" ("bartender") so every word pulls its weight.
-- 'According to the list, one cook is missing.' Nagiyev holds an honest footing straight away, using "spisku" (from "spisok", "list") alongside "khvatayet" ("grabs") to shape the meaning.
-- 'His name is Arseny Chuganin.' Nagiyev adopts an honest attitude in their talk, anchoring the Russian line on "zovut" ("call") and "yego" ("him") without extra filler.
-- 'Where is this dangerous cook?' Nagiyev quizzes honestly in front of Kostya, combining "gde" ("where") and "opasnyy" ("dangerous") so the key meaning lands right away.
-- 'He is in the kitchen today.' Senya conveys a calm manner with Nagiyev, placing "segodnya" ("today") straight beside "kukhne" ("kitchen") with no word for "to be" needed.
+- 'Good afternoon, gentlemen and ladies.' Nagiyev centers this key word toward Kostya: "gospoda" means "gentlemen" (from "gospodin"), giving the line its exact edge.
+- 'I will allow myself to correct you.' Nagiyev reaches for one practical choice in reply: "pozvolyu" means "will allow" (from "pozvolit"), giving the line its exact edge.
+- 'We are not terrorists, we are businessmen.' Nagiyev speaks decisively in their talk, without trying to dress up how he really feels.
+- 'And now I ask everyone into the dining room.' Nagiyev features one direct piece for Senya: "seychas" means "now", and it carries the main weight of what Nagiyev is saying.
+- 'Have you heard about Stockholm syndrome?' Kostya phrases this update at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'Victims feel sympathy toward their captors.' Kostya responds candidly without any doubt, watching Senya's face to see how the news lands.
+- 'Excuse me, please, may I ask a question?' Senya underscores this sharp element right here: "izvinite" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'Could you tie the bartender to me instead?' Senya frames that remark right away: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'According to the list, one cook is missing.' Nagiyev proceeds briskly to be clear, before Kostya can change the subject.
+- 'His name is Arseny Chuganin.' Nagiyev spotlights one familiar word for Senya: "zovut" means "call" (from "zvat"), giving the line its exact edge.
+- 'Where is this dangerous cook?' Nagiyev hands over this point without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He is in the kitchen today.' Senya fires back briskly beside Nagiyev, leaving no doubt about where he stands.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'On your mark. Get set. Go!' Vika projects a calm attitude with Denis, building the phrase around "start" ("start") and "vnimaniye" ("attention") for a crisp, natural delivery.
-- 'Listen, you are calling at a really bad time right now.' Max picks a frank approach in front of Vika, using "slushay" (from "slushat", "listen") alongside "seychas" ("now") to shape the meaning.
-- 'Hello, Max. I think they are going to fire me today.' Denis brings a wry tone in their talk, pairing "kazhetsya" ("it seems, I think") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'What happened?' Max probes warmly as the talk turns, joining "sluchilos" ("happened") to "chto" ("what") so every word pulls its weight.
-- 'German asked me to peel two sacks of potatoes before evening.' Denis shows a steady mood right away, weaving "poprosil" ("asked") together with "vechera" ("evening") just the way native speakers do.
-- 'Maybe you can come over and help?' Denis prompts lightly to make the point, anchoring the Russian line on "mozhet" ("can") and "priyedesh" ("to arrive") without extra filler.
-- 'Well then, my hunter?' Vika tests frankly beside Denis, putting "okhotnik" ("hunter") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
-- 'Listen, Den just called, he is in trouble at work.' Max projects a natural angle straight away, weaving "slushay" ("listen") together with "tam" ("there") just the way native speakers do.
-- 'I have to help him, forgive me.' Max shows a steady position in their talk, weaving "dolzhen" ("has to, must") together with "pomoch" ("to help") just the way native speakers do.
-- 'Did you forget what the doctor said?' Vika questions naturally during the talk, linking "zabyl" ("forgot"), "skazal" ("said"), and "doktor" ("Doctor") in one brisk exchange.
-- 'Darling, we have two whole days ahead of us.' Max sets a thoughtful angle for Denis, leaning on "u nas" ("by us, at our place") and "lyubimaya" ("favourite, beloved") the way natural Russian does.
-- 'I will still have plenty of time.' Max projects an honest tack in the conversation, combining "yeshchyo" ("more, still") and "stolko" ("so many") so the key meaning lands right away.
+- 'On your mark. Get set. Go!' Vika jumps in sharply with a sigh, grounding the moment in plain reality.
+- 'Listen, you are calling at a really bad time right now.' Max centers one memorable word toward Vika: "voobshche" means "at all", and it carries the main weight of what Max is saying.
+- 'Hello, Max. I think they are going to fire me today.' Denis directs the comment in earnest: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
+- 'What happened?' Max probes openly while looking straight at Vika here.
+- 'German asked me to peel two sacks of potatoes before evening.' Denis grounds this clear element toward Max: "kartoshki" means "potatoes" (from "kartoshka"), giving the line its exact edge.
+- 'Maybe you can come over and help?' Denis directs this point to Vika: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Well then, my hunter?' Vika asks skeptically before Denis can change the subject.
+- 'Listen, Den just called, he is in trouble at work.' Max sharpens one classic word in reply: "nepriyatnosti" means "troubles" (from "nepriyatnost"), giving the line its exact edge.
+- 'I have to help him, forgive me.' Max offers the thought with warmth: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'Did you forget what the doctor said?' Vika tests evenly where this conversation is heading next.
+- 'Darling, we have two whole days ahead of us.' Max spotlights one key detail right here: "lyubimaya" means "favourite, beloved" (from "lyubimyy"), giving the line its exact edge.
+- 'I will still have plenty of time.' Max jumps in bluntly with a shrug, bringing things back to earth after the buildup.

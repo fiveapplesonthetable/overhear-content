@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quickly, call an ambulance immediately!' Barinov sustains a warm mood in the scene, anchoring the Russian line on "zhivo" ("quickly, now") and "nemedlenno" ("immediately") without extra filler.
-- 'Vitya, tell me, what happened to him?' Nagiyev tests plainly in their exchange, pairing "skazhi" ("say") with "sluchilos" ("happened") to get the point across in plain spoken Russian.
-- 'It seems he was poisoned by Japanese fugu fish.' Barinov keeps a firm attitude across the room, building the phrase around "kazhetsya" ("it seems, I think") and "otravilsya" ("to get poisoned") for a crisp, natural delivery.
-- 'Where did fugu fish come from in our restaurant?' Nagiyev inquires directly as the talk turns, leaning on "otkuda" ("where from") before closing the thought with "restorane" ("restaurant").
-- 'I do not understand how this happened myself.' Max displays a wry rhythm in the scene, using "ponimayu" (from "ponimat", "understand") alongside "kak" ("how") to shape the meaning.
-- 'Vitya, what have you done again?' Nagiyev wonders bluntly in this moment, pairing "opyat" ("again") with "natvoril" ("did, got up to") to get the point across in plain spoken Russian.
-- 'Chef, how are you feeling right now?' Max challenges dryly as they speak, putting "kak" ("how") alongside "seychas" ("now") in a tight, everyday turn of phrase.
-- 'Wonderful, and how is our Nagiyev over there?' Barinov questions earnestly in the room, linking "prekrasno" ("perfectly"), "kak" ("how"), and "tam" ("there") in one brisk exchange.
-- 'But how did you get poisoned yourself, Chef?' Max wonders honestly without hesitation, building the phrase around "kak" ("how") and "otravilis" ("get poisoned") for a crisp, natural delivery.
-- 'Did you fillet that fugu fish improperly?' Max probes sharply to make the point, weaving "nepravilno" ("wrongly") together with "razdelali" ("butchered, prepared") just the way native speakers do.
-- 'I did everything absolutely right.' Barinov sets an earnest rhythm for Max, linking "absolyutno" ("completely"), "pravilno" ("right"), and "sdelal" ("did") in one brisk exchange.
-- 'I just rushed to save you and forgot to change gloves.' Barinov sets a calm line in front of Nagiyev, pairing "prosto" ("just") with "speshil" ("hurried") to get the point across in plain spoken Russian.
+- 'Quickly, call an ambulance immediately!' Barinov uses one colorful choice with Max: "nemedlenno" means "immediately", and it carries the main weight of what Barinov is saying.
+- 'Vitya, tell me, what happened to him?' Nagiyev shares that reply beside Max: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'It seems he was poisoned by Japanese fugu fish.' Barinov counters steadily to be clear, steering the talk right where he wants it.
+- 'Where did fugu fish come from in our restaurant?' Nagiyev uses one telling element in earnest: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'I do not understand how this happened myself.' Max drops that remark toward Barinov: the "-sya" ending on "poluchilos" ("worked out") turns the action inward or makes it happen between people naturally.
+- 'Vitya, what have you done again?' Nagiyev questions firmly what Max is actually getting at here.
+- 'Chef, how are you feeling right now?' Max favors one pointed word in reply: "chuvstvuyete" means "feel" (from "chuvstvovat"), giving the line its exact edge.
+- 'Wonderful, and how is our Nagiyev over there?' Barinov drops the thought on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'But how did you get poisoned yourself, Chef?' Max wonders quietly if there is more going on behind the scenes.
+- 'Did you fillet that fugu fish improperly?' Max frames one concrete expression at once: "nepravilno" means "wrongly", and it carries the main weight of what Max is saying.
+- 'I did everything absolutely right.' Barinov answers warmly on the spot, before Max can change the subject.
+- 'I just rushed to save you and forgot to change gloves.' Barinov answers earnestly in their talk, letting the remark speak for itself.

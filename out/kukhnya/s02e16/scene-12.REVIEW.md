@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you mean, how is it?' Nagiyev tests lightly to make the point, building the phrase around "znachit" ("then, so") and "kak" ("how") for a crisp, natural delivery.
-- 'Well, how is it?' Elena inquires briskly across the room, putting "kak" ("how") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
-- 'I just made that pate myself.' Nagiyev adopts a natural tack across the room, leaning on "tolko" ("only") before closing the thought with "delal" ("were doing").
-- 'Taste it and tell me what you think.' Elena adopts a clear direction at once, joining "probovat" ("to try, to taste") to "govorit" ("to talk") so every word pulls its weight.
-- 'No, you taste it and tell me.' Nagiyev shows a lively angle across the room, joining "poprobuy" ("to try, to taste") to "skazhi" ("say") so every word pulls its weight.
-- 'If you like it, then it is a masterpiece.' Elena maintains an honest direction on the spot, anchoring the Russian line on "ponravitsya" ("will please") and "shedevr" ("masterpiece") without extra filler.
-- 'I prepared something else.' Nagiyev maintains a sharp footing in the room, combining "prigotovil" ("cooked") and "drugoye" ("another, other") so the key meaning lands right away.
-- 'Hey there. Hello.' Elena adopts a direct note in front of Nagiyev, leaning on "zdorovo" ("great, cool") before closing the thought with "zdravstvuyte" ("hello").
-- 'Chatting with an invisible friend?' Nagiyev prompts candidly toward Elena here, pairing "obshchayeshsya" ("to communicate") with "nevidimym" ("invisible") so the "-sya" ending carries the action.
-- 'And why is this romance happening at my favorite table, huh?' Elena prompts boldly beside Nagiyev, linking "romantika" ("romance"), "stolikom" ("table"), and "chego" ("what") in one brisk exchange.
-- 'Dima, forgive me, I probably should have called you first.' Elena displays a grounded stance as they talk, anchoring the Russian line on "izvini" ("sorry, excuse me") and "navernoye" ("probably") without extra filler.
-- 'I invited Elena here for dinner tonight.' Elena shares a firm tone for Nagiyev, pairing "segodnya" ("today") with "uzhin" ("dinner") to get the point across in plain spoken Russian.
-- 'I figured you would not mind.' Nagiyev presents an unhurried angle without hesitation, pairing "dumal" ("thought") with "budesh" ("will") to get the point across in plain spoken Russian.
+- 'What do you mean, how is it?' Nagiyev questions frankly about what Elena just brought up.
+- 'Well, how is it?' Elena states the comeback right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I just made that pate myself.' Nagiyev reacts sharply without holding back, without trying to dress up how he really feels.
+- 'Taste it and tell me what you think.' Elena reacts pointedly without holding back, grounding the moment in plain reality.
+- 'No, you taste it and tell me.' Nagiyev grounds this vivid term toward Elena: "poprobuy" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
+- 'If you like it, then it is a masterpiece.' Elena delivers that remark on cue: the "-sya" ending on "ponravitsya" ("will please") turns the action inward or makes it happen between people naturally.
+- 'I prepared something else.' Nagiyev chimes in wryly hearing Elena, refusing to let the moment slip past.
+- 'Hey there. Hello.' Elena favors this key element right here: "zdravstvuyte" means "hello", and it carries the main weight of what Elena is saying.
+- 'Chatting with an invisible friend?' Nagiyev directs the comment with candor: the "-sya" ending on "obshchayeshsya" ("to communicate") turns the action inward or makes it happen between people naturally.
+- 'And why is this romance happening at my favorite table, huh?' Elena probes frankly in front of Nagiyev without any preamble.
+- 'Dima, forgive me, I probably should have called you first.' Elena frames one pointed word on cue: "navernoye" means "probably", and it carries the main weight of what Elena is saying.
+- 'I invited Elena here for dinner tonight.' Elena opens up dryly without a pause, making her position completely clear.
+- 'I figured you would not mind.' Nagiyev follows up quietly facing Elena, steering the talk right where he wants it.

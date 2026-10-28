@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'So, dear guest, what will you say about the wine?' Nagiyev inquires earnestly with Kostya now, leaning on "uvazhayemyy" ("respected, esteemed") before closing the thought with "gost" ("guest").
-- 'This is a young Spanish wine, if I am not mistaken.' Max presents a wry position toward Nagiyev, anchoring the Russian line on "molodaya" ("young") and "ispaniya" ("wine") without extra filler.
-- 'Last year's harvest, it costs six hundred rubles a bottle.' Max brings a measured mood beside Kostya, linking "urozhay" ("last"), "proshlogo" ("past"), and "goda" ("years") in one brisk exchange.
-- 'Bravo to you, Aleksey, goodbye and farewell!' Nagiyev sets a brisk rhythm beside Max, leaning on "svidaniya" ("meeting") before closing the thought with "proshchayte" ("farewell").
-- 'We will definitely call you back later, all the best!' Nagiyev keeps a calm approach in their talk, building the phrase around "potom" ("then") and "obyazatelno" ("surely, without fail") for a crisp, natural delivery.
-- 'Nothing but deceivers all around, real swindlers surround us!' Nagiyev keeps a measured tempo beside Max, weaving "krugom" ("all around") together with "obmanshchiki" ("cheats, deceivers") just the way native speakers do.
-- 'Dmitry Vladimirovich, and what happened over there right now?' Kostya wonders steadily in their exchange, weaving "seychas" ("now") together with "tam" ("there") just the way native speakers do.
-- 'I wanted to pay this sommelier a huge salary!' Nagiyev presents a steady bearing in the scene, combining "khotel" ("wanted") and "platit" ("to pay") so the key meaning lands right away.
-- 'And he cannot tell elite wine from cheap wine!' Nagiyev offers a grounded direction at this moment, leaning on "otlichayet" ("wine") before closing the thought with "elitnoye" ("cheap").
-- 'Kostya, here, taste it yourself from this glass!' Nagiyev adopts a thoughtful posture at once, pairing "poprobuy" ("to try, to taste") with "bokala" ("wine glass") to get the point across in plain spoken Russian.
-- 'A very tart taste, you can taste clover and honey!' Kostya establishes a calm style during the exchange, pairing "chuvstvuyetsya" ("is felt") with "ochen" ("very much") so the "-sya" ending carries the action.
-- 'Exactly right, you can immediately tell real expensive wine!' Nagiyev chooses a measured course straight away, pairing "srazu" ("at once") with "vidno" ("one can see") to get the point across in plain spoken Russian.
+- 'So, dear guest, what will you say about the wine?' Nagiyev prompts point-blank as Kostya tries to explain the situation.
+- 'This is a young Spanish wine, if I am not mistaken.' Max reaches for this vivid choice on cue: "molodaya" means "young" (from "molodoy"), giving the line its exact edge.
+- 'Last year's harvest, it costs six hundred rubles a bottle.' Max continues firmly beside Kostya, leaving no doubt about where he stands.
+- 'Bravo to you, Aleksey, goodbye and farewell!' Nagiyev answers evenly to be clear, steering the talk right where he wants it.
+- 'We will definitely call you back later, all the best!' Nagiyev sharpens one direct detail with Kostya: "obyazatelno" means "surely, without fail", and it carries the main weight of what Nagiyev is saying.
+- 'Nothing but deceivers all around, real swindlers surround us!' Nagiyev counters calmly beside Max, letting the remark speak for itself.
+- 'Dmitry Vladimirovich, and what happened over there right now?' Kostya tests skeptically whether Max really thought this through.
+- 'I wanted to pay this sommelier a huge salary!' Nagiyev anchors one memorable element with Max: "ogromnuyu" means "huge, enormous" (from "ogromnyy"), giving the line its exact edge.
+- 'And he cannot tell elite wine from cheap wine!' Nagiyev weighs in wryly in this moment, without trying to dress up how he really feels.
+- 'Kostya, here, taste it yourself from this glass!' Nagiyev reacts at once without a pause, leaving no doubt about where he stands.
+- 'A very tart taste, you can taste clover and honey!' Kostya emphasizes one familiar term on cue: "chuvstvuyetsya" means "is felt" (from "chuvstvovatsya"), giving the line its exact edge.
+- 'Exactly right, you can immediately tell real expensive wine!' Nagiyev responds bluntly with a sigh, steering the talk right where he wants it.

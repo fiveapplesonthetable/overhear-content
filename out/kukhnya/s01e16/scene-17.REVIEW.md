@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you ready to place an order already?' inspector drops a standard dining room question to find out if the supposed customer is prepared to eat.
+- 'Are you ready to place an order already?' Playing the part of a polite waiter, the migration officer asks the disguised cleaner if she is ready to order.
 - 'And I will order the delicious apple strudel.' Pointing out his choice, the official decides on a sweet dessert for himself.
 - 'Yes, I have been doing this for five years.' A casual remark follows, confirming his long experience dealing with these exact situations.
 - 'Today the delicious dessert saved you.' Playfully admitting that the high quality of the food earned them a temporary pardon, the officer finishes his thought.

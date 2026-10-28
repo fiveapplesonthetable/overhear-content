@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened, Viktor Petrovich?' Kostya challenges decisively during the talk, pairing "sluchilos" ("happened") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'A woman ordered champagne to the room here.' Kostya sets a resolute bearing in this beat, building the phrase around "tut" ("here") and "zhenshchina" ("woman") for a crisp, natural delivery.
-- 'Hand it here and get out of here.' Barinov favors a frank stance at once, joining "davay" ("let's") to "syuda" ("here") so every word pulls its weight.
-- 'I understood, you are busy in here.' Kostya chooses a brisk attitude as the scene unfolds, leaning on "ponyal" ("understood") before closing the thought with "tut" ("here").
-- 'Yes, just do not tell anyone.' Barinov projects a steady view across the room, anchoring the Russian line on "tolko" ("only") and "rasskazyvay" ("tell") without extra filler.
-- 'You offend me, Viktor Petrovich.' Kostya keeps an easygoing manner across the room, joining "obizhayete" ("you mistreat") to "menya" ("me") so every word pulls its weight.
-- 'You and I are men, after all.' Kostya adopts an earnest tempo as the scene unfolds, using "muzhiki" (from "muzhik", "lads, guys") alongside "my" ("we") to shape the meaning.
-- 'We are true keepers of secrets.' Kostya offers a calm stance in the scene, linking "nastoyashchiye" ("real"), "khraniteli" ("keepers, guardians"), and "sekretov" ("secrets") in one brisk exchange.
-- 'Today I am covering for you here.' Kostya brings a thoughtful direction during the exchange, putting "segodnya" ("today") alongside "tut" ("here") in a tight, everyday turn of phrase.
-- 'Kostya, get out of here quickly!' Barinov holds a wry rhythm on the spot, combining "bystro" ("quickly") and "idi" ("go") so the key meaning lands right away.
-- 'Chef, do not throw the bottle away.' Senya establishes a direct angle in this beat, combining "butylochku" ("bottle") and "vybrasyvayte" ("to throw out") so the key meaning lands right away.
-- 'In case we have to stun someone else.' Senya offers a resolute manner at this moment, leaning on "vdrug" ("suddenly, what if") before closing the thought with "yeshchyo" ("more, still").
+- 'What happened, Viktor Petrovich?' Kostya makes the thought facing Barinov: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'A woman ordered champagne to the room here.' Kostya answers at once facing Senya, making his position completely clear.
+- 'Hand it here and get out of here.' Barinov highlights one practical word in earnest: "otsyuda" means "from here", and it carries the main weight of what Barinov is saying.
+- 'I understood, you are busy in here.' Kostya points to one practical word for Senya: "zanyaty" means "busy" (from "zanyatyy"), giving the line its exact edge.
+- 'Yes, just do not tell anyone.' Barinov jumps in wryly with a shrug, refusing to let the moment slip past.
+- 'You offend me, Viktor Petrovich.' Kostya stresses this telling touch toward Senya: "obizhayete" means "you mistreat" (from "obizhat"), giving the line its exact edge.
+- 'You and I are men, after all.' Kostya voices that point toward Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We are true keepers of secrets.' Kostya weighs in promptly during the talk, so Senya knows he is not just making small talk.
+- 'Today I am covering for you here.' Kostya points to one loaded touch right here: "prikryvayu" means "to cover up" (from "prikryvat"), giving the line its exact edge.
+- 'Kostya, get out of here quickly!' Barinov shapes this warning with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Chef, do not throw the bottle away.' Senya cuts in boldly in their talk, steering the talk right where he wants it.
+- 'In case we have to stun someone else.' Senya centers one memorable choice right here: "pridyotsya" means "you'll have to" (from "priytis"), giving the line its exact edge.

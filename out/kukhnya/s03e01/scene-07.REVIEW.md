@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It is time to learn to open it yourself.' Kostya presents a firm direction in the room, pairing "nauchitsya" ("to learn") with "pora" ("it's time") so the "-sya" ending carries the action.
-- 'Listen, I am learning.' Max favors a frank mood beside Nagiyev, leaning on "slushay" ("listen") before closing the thought with "uchus" ("study, do at school").
-- 'Only the bills for the training are big.' Max picks a natural view at once, linking "tolko" ("only") directly with "scheta" ("account, bill"), since Russian drops "is" and "are" in the present.
-- 'And how are things with Vika for you now?' Kostya questions sharply to Nagiyev here, combining "kak" ("how") and "seychas" ("now") so the key meaning lands right away.
-- 'I invited her to the cinema forty times.' Max presents a serious bearing beside Kostya, building the phrase around "raz" ("time, once") and "priglashal" ("invited") for a crisp, natural delivery.
-- 'Five times I said that I cannot live without her.' Max strikes an unhurried tempo without hesitation, combining "raz" ("time, once") and "govoril" ("said, were saying") so the key meaning lands right away.
-- 'And once I tried to kiss her.' Max conveys a wry posture for Kostya, building the phrase around "raz" ("time, once") and "pytalsya" ("tried") for a crisp, natural delivery.
-- 'I accidentally overheard a conversation on the phone.' Kostya favors an easygoing posture at this moment, pairing "sluchayno" ("by any chance") with "podslushal" ("overheard") to get the point across in plain spoken Russian.
-- 'Ah, interesting.' Max brings a direct course in this beat, putting all the weight on "interesno" ("interesting") so the reply lands immediately.
-- 'I promised that I would find a cook.' Nagiyev adopts a grounded mood right away, combining "obeshchal" ("promised") and "naydu" ("find") so the key meaning lands right away.
-- 'I did it. Please meet her.' Nagiyev shares a calm note as the scene unfolds, combining "sdelal" ("did") and "proshu" ("beg, ask") so the key meaning lands right away.
-- 'Yekaterina Semyonova graduated from the academy.' Nagiyev brings a frank attitude for Max, pairing "okonchila" ("graduated from") with "akademiyu" ("academy") to get the point across in plain spoken Russian.
+- 'It is time to learn to open it yourself.' Kostya leans on this clear touch in earnest: "nauchitsya" means "to learn", and it carries the main weight of what Kostya is saying.
+- 'Listen, I am learning.' Max voices that remark at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Only the bills for the training are big.' Max holds firm at once beside Kostya, bringing things back to earth after the buildup.
+- 'And how are things with Vika for you now?' Kostya anchors one loaded word in reply: "seychas" means "now", and it carries the main weight of what Kostya is saying.
+- 'I invited her to the cinema forty times.' Max follows up plainly with a nod, shifting the whole mood of the room in a single beat.
+- 'Five times I said that I cannot live without her.' Max replies briskly with a sigh, letting the remark speak for itself.
+- 'And once I tried to kiss her.' Max sharpens this sharp term in earnest: "potselovat" means "to kiss", and it carries the main weight of what Max is saying.
+- 'I accidentally overheard a conversation on the phone.' Kostya speaks up steadily as they talk, leaving no doubt about where he stands.
+- 'Ah, interesting.' Max continues sharply watching Kostya, leaving no doubt about where he stands.
+- 'I promised that I would find a cook.' Nagiyev spotlights one colorful term for Max: "obeshchal" means "promised" (from "obeshchat"), giving the line its exact edge.
+- 'I did it. Please meet her.' Nagiyev drops that point with ease: the "-sya" ending on "znakomitsya" ("get acquainted") turns the action inward or makes it happen between people naturally.
+- 'Yekaterina Semyonova graduated from the academy.' Nagiyev continues calmly around Max, making his position completely clear.

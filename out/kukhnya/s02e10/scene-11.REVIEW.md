@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'He is in his office.' Barinov establishes a serious manner in their talk, joining "kabinete" ("office") to "on" ("he") so every word pulls its weight.
-- 'He asked not to be disturbed.' Max takes an easygoing tempo in the scene, building the phrase around "prosil" ("ask for") and "bespokoit" ("to bother") for a crisp, natural delivery.
-- 'I told you not to disturb me.' Barinov conveys a sharp line during the exchange, linking "prosil" ("ask for"), "bespokoit" ("to bother"), and "ya" ("I") in one brisk exchange.
-- 'I am preparing the new menu.' Max offers a steady line across the room, linking "gotovlyu" ("prepare"), "novoye" ("new"), and "minimum" ("at least, minimum") in one brisk exchange.
-- 'What do you want?' Barinov prompts bluntly during the talk, building the phrase around "vam" ("you") and "chego" ("what") for a crisp, natural delivery.
-- 'You are the head chef.' Max conveys a thoughtful style during the exchange, leaning on "shef-povar" ("head chef") before closing the thought with "ty" ("you").
-- 'Yes, I am the head chef.' Barinov picks a grounded angle at once, combining "shef-povar" ("head chef") and "da" ("yes") so the key meaning lands right away.
-- 'Then why are you not paying back your debt?' Max presses openly in the scene, building the phrase around "dolg" ("debt") and "otdayesh" ("to hand over") for a crisp, natural delivery.
-- 'What debt?' Barinov asks pointedly with Max now, leaning on "dolg" ("debt") before closing the thought with "kakoy" ("what a, how").
-- 'A hundred thousand.' Max maintains a measured bearing in this beat, leaning on "tysyach" ("thousand") before closing the thought with "sto" ("hundred").
-- 'It is just a complicated situation here.' Barinov sustains a sharp style at once, joining "tut" ("here") to "prosto" ("just") so every word pulls its weight.
-- 'Yes, you can ask anyone here.' Max maintains a wry position in the scene, putting "mozhete" ("can, may") alongside "lyubogo" ("any") in a tight, everyday turn of phrase.
-- 'Is this the head chef?' Barinov checks briskly from the start, pairing "shef-povar" ("head chef") with "eto" ("this") to get the point across in plain spoken Russian.
+- 'He is in his office.' Barinov sends that answer with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He asked not to be disturbed.' Max speaks briskly without a pause, testing Barinov's reaction in the middle of the exchange.
+- 'I told you not to disturb me.' Barinov stresses one colorful detail with Max: "bespokoit" means "to bother", and it carries the main weight of what Barinov is saying.
+- 'I am preparing the new menu.' Max puts the remark facing Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'What do you want?' Barinov asks frankly while looking straight at Max here.
+- 'You are the head chef.' Max favors one classic choice for Barinov: "shef-povar" means "head chef", and it carries the main weight of what Max is saying.
+- 'Yes, I am the head chef.' Barinov phrases that answer at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Then why are you not paying back your debt?' Max prompts calmly to see how Barinov will answer on the spot.
+- 'What debt?' Barinov leans on one concrete term for Max: "dolg" means "debt", and it carries the main weight of what Barinov is saying.
+- 'A hundred thousand.' Max sends this statement on cue: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'It is just a complicated situation here.' Barinov stands firm honestly in this moment, before Max can change the subject.
+- 'Yes, you can ask anyone here.' Max highlights one telling piece in earnest: "lyubogo" means "any" (from "lyuboy"), giving the line its exact edge.
+- 'Is this the head chef?' Barinov aims the comeback to Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

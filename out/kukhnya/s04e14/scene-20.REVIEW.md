@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, sit down quickly at the table next to us!' Katya holds a firm rhythm right away, weaving "sadis" ("sit down") together with "skoreye" ("quickly, right away") just the way native speakers do.
-- 'Take a free chair, there is tasty sausage and salads here.' Barinov holds a wry position as the scene unfolds, linking "beri" ("take, grab"), "svobodnyy" ("free"), and "stul" ("chair") in one brisk exchange.
-- 'Eva, sit down with us, the workday is finished!' Barinov establishes a steady position at this moment, linking "sadis" ("sit down"), "rabochiy" ("working"), and "den" ("day") in one brisk exchange.
-- 'Ainura, why are you standing there so sad, come here!' Barinov favors a warm view in this beat, weaving "stoish" ("stand") together with "grustnaya" ("sad") just the way native speakers do.
-- 'German Mikhailovich, come join us at the table too.' Katya picks a pointed stance on the spot, pairing "poydyomte" ("come on, let's go") with "tozhe" ("too") to get the point across in plain spoken Russian.
-- 'Come on, really, everyone is already waiting for you!' Barinov sets a calm note right away, leaning on "idyomte" ("let us go") before closing the thought with "samom" ("very").
-- 'Well all right, thank you very much for the invitation.' German projects a resolute mood in the conversation, pairing "khorosho" ("good, fine") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
-- 'Now that is another matter entirely, pour for everyone!' Barinov offers an easygoing direction at once, linking "sovsem" ("at all"), "drugoye" ("another, other"), and "delo" ("matter") in one brisk exchange.
-- 'Chef, let's bury the hatchet for today.' German brings a wry approach toward Barinov, combining the polite invitation "davayte" ("let us") with "segodnya" ("today") to give the line its natural spoken rhythm.
-- 'Senya, pour for the guests quickly, do not drag it out!' Barinov takes a steady manner without hesitation, using "davay" (from "davat", "let's") alongside "bystreye" ("faster") to shape the meaning.
-- 'Lyova, and tasty compote for you, you are driving!' Katya presents a firm stance in their talk, linking "vkusnyy" ("delicious") directly with "kompot" ("compote"), since Russian drops "is" and "are" in the present.
-- 'Friends, we raise our glasses, we drink to our chef!' German offers a candid tone at this moment, using "druzya" (from "drug", "friends") alongside "podnimayem" ("to raise") to shape the meaning.
+- 'Denis, sit down quickly at the table next to us!' Katya proceeds boldly without holding back, shifting the whole mood of the room in a single beat.
+- 'Take a free chair, there is tasty sausage and salads here.' Barinov proceeds lightly before Katya, saying out loud what both of them already know.
+- 'Eva, sit down with us, the workday is finished!' Barinov reaches for this sharp term for German: "rabochiy" means "working", and it carries the main weight of what Barinov is saying.
+- 'Ainura, why are you standing there so sad, come here!' Barinov sharpens one key piece toward Katya: "grustnaya" means "sad" (from "grustnyy"), giving the line its exact edge.
+- 'German Mikhailovich, come join us at the table too.' Katya holds firm calmly with a sigh, bringing things back to earth after the buildup.
+- 'Come on, really, everyone is already waiting for you!' Barinov colors this direct detail with Katya: "idyomte" means "let us go" (from "idti"), giving the line its exact edge.
+- 'Well all right, thank you very much for the invitation.' German puts this statement without fuss: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Now that is another matter entirely, pour for everyone!' Barinov weighs in plainly around Katya, testing Katya's reaction in the middle of the exchange.
+- 'Chef, let's bury the hatchet for today.' German reaches for one vivid expression on cue: "segodnya" means "today", and it carries the main weight of what German is saying.
+- 'Senya, pour for the guests quickly, do not drag it out!' Barinov aims this point plainly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Lyova, and tasty compote for you, you are driving!' Katya follows up evenly during the talk, grounding the moment in plain reality.
+- 'Friends, we raise our glasses, we drink to our chef!' German grounds one familiar detail for Katya: "podnimayem" means "to raise" (from "podnimat"), giving the line its exact edge.

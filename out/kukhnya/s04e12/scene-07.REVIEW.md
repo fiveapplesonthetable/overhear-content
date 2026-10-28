@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, is that your Sasha?' Fedya inquires naturally for Max's benefit, leaning on "yest" ("there is") before closing the thought with "maks" ("Max").
-- 'She has not been mine for a long time.' Max strikes a lively mood for Vika, leaning on "uzhe" ("already, now") before closing the thought with "davno" ("for a long time").
-- 'Did you date her before Vika?' Fedya challenges frankly across the room, anchoring the Russian line on "vstrechalsya" ("met, was meeting") and "ty" ("you") without extra filler.
-- 'During the break between Vika and Vika.' Max picks a serious style as they talk, pairing "pereryve" ("break, interval") with "mezhdu" ("between") to get the point across in plain spoken Russian.
-- 'Maybe you guys will shut up already, huh?' Max queries frankly in their exchange, weaving "mozhet" ("can") together with "uzhe" ("already, now") just the way native speakers do.
-- 'Well, and what was that just now?' Vika challenges wryly as the beat lands, linking "seychas" ("now"), "bylo" ("was"), and "nu" ("oh, come on") in one brisk exchange.
-- 'You were standing with Sasha looking so happy!' Vika takes a warm posture right away, joining "stoyal" ("stood") to "schastlivyy" ("lucky") so every word pulls its weight.
-- 'Vika, please do not start.' Max projects a warm approach in front of Vika, joining "nachinay" ("start") to "vika" ("Vika") so every word pulls its weight.
-- 'She and I just said hello.' Max conveys an earnest note beside Fedya, pairing "pozdorovalis" ("to hello") with "prosto" ("just") so the "-sya" ending carries the action.
-- 'Let's not quarrel over nonsense.' Max chooses a serious tempo at this moment, putting "davay" ("let's") alongside "budem" ("will") in a tight, everyday turn of phrase.
-- 'Do you want me not to talk with her at all?' Max presses pointedly with Fedya now, using "khochesh" (from "khotet", "do you want") alongside "budu" ("will be") to shape the meaning.
-- 'Yes, I want that very much, fine.' Vika displays a calm posture at this moment, combining the easygoing tag "ladno" ("okay, fine") with "ochen" ("very much") to give the line its natural spoken rhythm.
-- 'Good thing Vika did not see this!' Fedya adopts a playful line during the exchange, leaning on "khorosho" ("good, fine") before closing the thought with "videla" ("saw").
+- 'Max, is that your Sasha?' Fedya gives the remark briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'She has not been mine for a long time.' Max replies promptly to be clear, without trying to dress up how he really feels.
+- 'Did you date her before Vika?' Fedya wonders curiously as Max tries to explain the situation.
+- 'During the break between Vika and Vika.' Max leans on this clear detail in earnest: "pereryve" means "break, interval" (from "pereryv"), giving the line its exact edge.
+- 'Maybe you guys will shut up already, huh?' Max gives that answer before Fedya: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
+- 'Well, and what was that just now?' Vika probes evenly in front of Max without any preamble.
+- 'You were standing with Sasha looking so happy!' Vika focuses on one loaded word with Fedya: "schastlivyy" means "lucky", and it carries the main weight of what Vika is saying.
+- 'Vika, please do not start.' Max gives that remark with ease: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'She and I just said hello.' Max fires back earnestly as they talk, bringing things back to earth after the buildup.
+- 'Let's not quarrel over nonsense.' Max reaches for this key touch for Vika: "ssoritsya" means "to quarrel", and it carries the main weight of what Max is saying.
+- 'Do you want me not to talk with her at all?' Max lays out this update plainly here: the "-sya" ending on "obshchatsya" ("to talk") turns the action inward or makes it happen between people naturally.
+- 'Yes, I want that very much, fine.' Vika pushes back right away in their talk, grounding the moment in plain reality.
+- 'Good thing Vika did not see this!' Fedya highlights this clear choice for Max: "khorosho" means "good, fine", and it carries the main weight of what Fedya is saying.

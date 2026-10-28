@@ -29,7 +29,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Miss, when will we sit at a table?' Guest impatiently asks the manager when they will finally be seated.
 - 'Wait one minute, please.' Vika politely asks the customer for just a little more time.
-- 'I am already waiting twenty minutes!' I'm waiting' for the ongoing action, followed by 'already' and 'twenty'.
+- 'I am already waiting twenty minutes!' Looking at his watch impatiently, the angry guest complains that he has already been waiting twenty minutes for a table.
 - 'Sorry, the restaurant is very full now.' Vika apologizes, explaining that every seat is currently occupied.
 - 'Vika, how are things in the dining room?' Barinov checks in on the chaos happening out front.
 - 'Very many new guests today.' Vika reports a massive influx of unfamiliar faces.

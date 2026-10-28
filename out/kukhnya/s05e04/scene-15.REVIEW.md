@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Room service.' Denis offers an emphatic stance at once, building the phrase around "obsluzhivaniye" ("service") and "nomerov" ("of rooms") for a crisp, natural delivery.
-- 'Come in. Bring it into the bathroom,' Eleonora takes a thoughtful style right away, weaving "khodite" ("walk around") together with "vannuyu" ("bathroom") just the way native speakers do.
-- 'I am right here in the bathroom.' Eleonora chooses a playful style as the scene unfolds, joining "zdes" ("here") to "vannoy" ("bathtub, bath") so every word pulls its weight.
-- 'Hello, come right in.' Eleonora establishes an emphatic note right away, putting "prokhodi" ("come in") alongside "syuda" ("here") in a tight, everyday turn of phrase.
-- 'Hello. How did you get in here?' Eleonora quizzes firmly at this point, weaving "kak" ("how") together with "tut" ("here") just the way native speakers do.
-- 'A head chef decided to arrange a romantic dinner.' Barinov maintains a serious attitude in the conversation, leaning on "reshil" ("has decided") before closing the thought with "ustroit" ("to arrange").
-- 'Would you like a leg?' Barinov wonders pointedly at this point, anchoring the Russian line on "nozhku" ("little foot") and "tebe" ("for you, to you") without extra filler.
-- 'Or a wing?' Barinov queries plainly on the spot, combining "krylyshko" ("little wing") and "ili" ("or") so the key meaning lands right away.
-- 'Or perhaps a breast?' Barinov presses evenly in the scene, pairing "mozhet" ("can") with "grudku" ("chicken breast") to get the point across in plain spoken Russian.
-- 'Everything is very tasty.' Barinov holds an easygoing stance in the conversation, pairing "ochen" ("very much") with "vkusno" ("it's tasty") to get the point across in plain spoken Russian.
-- 'No, do not.' Eleonora keeps a brisk note as the scene unfolds, putting "nado" ("it is necessary") alongside "net" ("no") in a tight, everyday turn of phrase.
-- 'Take that away, please.' Eleonora shares a resolute note beside Denis, leaning on "uberi" ("take away, put away") before closing the thought with "eto" ("this").
+- 'Room service.' Denis weighs in promptly with a nod, before Barinov can change the subject.
+- 'Come in. Bring it into the bathroom,' Eleonora points to one colorful choice at once: "vannuyu" means "bathroom" (from "vannaya"), giving the line its exact edge.
+- 'I am right here in the bathroom.' Eleonora frames that reply around Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Hello, come right in.' Eleonora cuts in frankly hearing Denis, keeping the focus on what actually matters here.
+- 'Hello. How did you get in here?' Eleonora hands over that remark on cue: opening with the casual greeting "privet" ("hi") signals right away that Eleonora and Barinov are on familiar terms.
+- 'A head chef decided to arrange a romantic dinner.' Barinov chimes in briskly as they talk, so Eleonora knows he is not just making small talk.
+- 'Would you like a leg?' Barinov quizzes bluntly as Denis tries to explain the situation.
+- 'Or a wing?' Barinov sharpens this sharp detail toward Eleonora: "krylyshko" means "little wing", and it carries the main weight of what Barinov is saying.
+- 'Or perhaps a breast?' Barinov lays out this statement with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Denis purely through rising pitch at the end.
+- 'Everything is very tasty.' Barinov proceeds at once as they talk, before Eleonora can change the subject.
+- 'No, do not.' Eleonora underscores this key term on cue: "nado" means "it is necessary", and it carries the main weight of what Eleonora is saying.
+- 'Take that away, please.' Eleonora voices that reply on cue: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.

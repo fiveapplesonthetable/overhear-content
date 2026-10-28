@@ -33,11 +33,11 @@ STORY = [
 WALK = [
     (0, None, "'Why didn't you tell me you were leaving?' Max confronts Vika about her secret departure. He is hurt that she kept it from him."),
     (1, None, "'Let's talk later.' Vika tries to brush him off. She suggests they delay the conversation."),
-    (2, None, "'No, we' Max refuses to wait. He insists they have this out right now."),
+    (2, None, "'No, we're talking now!' Max refuses to wait. He insists they have this out right now."),
     (3, None, "'Let me explain what's going on.' He asks for a chance to clear the air. Max wants to explain his side of the story."),
     (4, None, "'You've been avoiding me all day!' Vika is angry about his earlier behavior. She accuses him of dodging her all day."),
     (5, None, "'I need to think.' She needs some space to process everything. Vika wants time alone to figure things out."),
-    (6, None, "'We' Vika sets a firm timeline. She tells him to wait until she returns from her trip."),
+    (6, None, "'We'll talk in three days when I get back.' Vika sets a firm timeline. She tells him to wait until she returns from her trip."),
     (7, None, "'Vika, good morning!' The next morning, Max confidently walks into her office. He greets her with a cheerful smile."),
     (8, None, "'I brought you coffee.' Max presents a peace offering. He hopes a hot drink will smooth things over."),
     (9, None, "'I hate you!' Vika responds with pure fury. She clearly has not forgiven him."),

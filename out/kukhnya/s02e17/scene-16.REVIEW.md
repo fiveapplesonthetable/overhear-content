@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim, listen to me.' Kostya displays a resolute style at once, leaning on "slushay" ("listen") before closing the thought with "maksim" ("Maksim").
-- 'That is exactly what I am talking about.' Kostya shares a grounded direction across the room, pairing "ya" ("I") with "tom" ("that") to get the point across in plain spoken Russian.
-- 'In fact, it seems to me that...' Sasha keeps a calm footing during the exchange, weaving "voobshche" ("at all") together with "kazhetsya" ("it seems, I think") just the way native speakers do.
-- 'My Kostik is cheating on me with your Sasha.' Max displays a playful posture across the room, anchoring the Russian line on "izmenyayet" ("changes, alters") and "moy" ("my") without extra filler.
-- 'That is nonsense, it cannot be true.' Kostya chooses a direct style toward Max, leaning on "bred" ("nonsense") before closing the thought with "mozhet" ("can").
-- 'They were holding hands.' Sasha takes a brisk line toward Max, leaning on "derzhatsya" ("to hold on") before closing the thought with "ruki" ("hands").
-- 'Well, let us go see.' Max favors a wry rhythm as the scene unfolds, weaving "poshli" ("let's go") together with "nu" ("oh, come on") just the way native speakers do.
-- 'That is not what we agreed on.' Kostya holds a serious angle in front of Sasha, linking "dogovarivalis" ("had an agreement"), "my" ("we"), and "tak" ("so") in one brisk exchange.
-- 'You promised to tell him yourself.' Sasha picks a thoughtful course at once, combining "obeshchala" ("promised") and "rasskazat" ("to tell") so the key meaning lands right away.
-- 'Will that make you feel any better?' Max checks plainly to keep things clear, building the phrase around "legche" ("easier, better") and "stanet" ("will become") for a crisp, natural delivery.
-- 'I cannot keep lying to my best friend.' Kostya conveys a warm rhythm at once, using "mogu" (from "moch", "can") alongside "vrat" ("to lie") to shape the meaning.
-- 'Either you tell him right now.' Sasha conveys a grounded tone as the scene unfolds, weaving "skazhesh" ("will you say") together with "ili" ("or") just the way native speakers do.
-- 'So you really cheated on me?' Max asks candidly during the talk, combining "znachit" ("then, so") and "izmenila" ("would change") so the key meaning lands right away.
+- 'Maxim, listen to me.' Kostya highlights one vivid detail on cue: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
+- 'That is exactly what I am talking about.' Kostya gives the reply without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'In fact, it seems to me that...' Sasha counters dryly on the spot, leaving no doubt about where she stands.
+- 'My Kostik is cheating on me with your Sasha.' Max frames this telling touch in earnest: "izmenyayet" means "changes, alters" (from "izmenyat"), giving the line its exact edge.
+- 'That is nonsense, it cannot be true.' Kostya responds warmly without any doubt, bringing things back to earth after the buildup.
+- 'They were holding hands.' Sasha speaks bluntly toward Max, keeping the focus on what actually matters here.
+- 'Well, let us go see.' Max underscores this sharp detail on cue: "poshli" means "let's go" (from "poyti"), giving the line its exact edge.
+- 'That is not what we agreed on.' Kostya shares the comment for Sasha: the "-sya" ending on "dogovarivalis" ("had an agreement") turns the action inward or makes it happen between people naturally.
+- 'You promised to tell him yourself.' Sasha holds firm bluntly without any doubt, saying out loud what both of them already know.
+- 'Will that make you feel any better?' Max picks this direct piece with Sasha: "legche" means "easier, better" (from "legko"), giving the line its exact edge.
+- 'I cannot keep lying to my best friend.' Kostya fires back sharply to settle things, letting the remark speak for itself.
+- 'Either you tell him right now.' Sasha fires back earnestly with a shrug, leaving no doubt about where she stands.
+- 'So you really cheated on me?' Max leans on this direct touch in reply: "izmenila" means "would change" (from "izmenit"), giving the line its exact edge.

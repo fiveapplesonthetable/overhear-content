@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, good evening!' Max takes an emphatic position without hesitation, leaning on "dobryy" ("good") before closing the thought with "vecher" ("evening").
-- 'On what occasion are you so festive?' Max asks pointedly for Barinov's benefit, linking "povodu" ("matter") directly with "prazdnichnyy" ("festive"), since Russian drops "is" and "are" in the present.
-- 'A buddy of mine arrived from Ireland.' Barinov holds a lively manner without hesitation, pairing "drug" ("friend") with "irlandii" ("ireland") to get the point across in plain spoken Russian.
-- 'Or rather two, but one has already left.' Barinov holds a lively mood in this beat, joining "verneye" ("more accurately") to "uzhe" ("already, now") so every word pulls its weight.
-- 'Chef, we are discussing movies here.' Max strikes a serious style right away, putting "tut" ("here") alongside "obsuzhdayem" ("are discussing") in a tight, everyday turn of phrase.
-- 'What kind of movies do you like best?' Max tests earnestly to keep things clear, leaning on "kino" ("cinema, movies") before closing the thought with "bolshe" ("more").
-- 'I simply adore musicals.' Barinov favors an unhurried stance in their talk, weaving "prosto" ("just") together with "obozhayu" ("adore") just the way native speakers do.
-- 'Really, I love them too!' Max conveys a pointed tone as the scene unfolds, anchoring the Russian line on "pravda" ("honestly") and "tozhe" ("too") without extra filler.
-- 'You like that mushy nonsense set to music?' Barinov prompts earnestly across the room, leaning on "lyubish" ("love") before closing the thought with "rozovyye" ("pink, rosé").
-- 'And speaking seriously, chef?' Max tests quietly for Barinov's benefit, building the phrase around "skazat" ("tell") and "seryozno" ("seriously") for a crisp, natural delivery.
-- 'Seriously, I love science fiction.' Barinov keeps a frank attitude at this moment, putting "seryozno" ("seriously") alongside "lyublyu" ("love") in a tight, everyday turn of phrase.
-- 'Prices in Moscow reached their peak.' Barinov maintains a measured style straight away, leaning on "tseny" ("price, cost") before closing the thought with "dostigli" ("peak").
-- 'And all the people moved to Mars.' Barinov favors an easygoing manner across the room, linking "lyudi" ("people"), "pereselilis" ("to mars"), and "mars" ("mars") in one brisk exchange.
-- 'All the restaurants moved there too.' Barinov adopts a direct note in this beat, putting "tuda" ("there") alongside "pereyekhali" ("to move") in a tight, everyday turn of phrase.
+- 'Chef, good evening!' Max grounds one concrete element at once: "dobryy" means "good", and it carries the main weight of what Max is saying.
+- 'On what occasion are you so festive?' Max brings this point at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'A buddy of mine arrived from Ireland.' Barinov proceeds at once to be clear, bringing things back to earth after the buildup.
+- 'Or rather two, but one has already left.' Barinov uses one clear element for Max: "verneye" means "more accurately" (from "verno"), giving the line its exact edge.
+- 'Chef, we are discussing movies here.' Max replies pointedly beside Barinov, watching Barinov's face to see how the news lands.
+- 'What kind of movies do you like best?' Max quizzes firmly in front of Barinov without any preamble.
+- 'I simply adore musicals.' Barinov sharpens this sharp detail right here: "myuzikly" means "musicals", and it carries the main weight of what Barinov is saying.
+- 'Really, I love them too!' Max fires back pointedly without any doubt, grounding the moment in plain reality.
+- 'You like that mushy nonsense set to music?' Barinov prompts frankly as Max tries to explain the situation.
+- 'And speaking seriously, chef?' Max points to this direct detail right here: "seryozno" means "seriously", and it carries the main weight of what Max is saying.
+- 'Seriously, I love science fiction.' Barinov phrases that thought at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Prices in Moscow reached their peak.' Barinov chimes in honestly with a nod, refusing to let the moment slip past.
+- 'And all the people moved to Mars.' Barinov favors one clear term with Max: "pereselilis" means "to mars" (from "pereselitsya"), giving the line its exact edge.
+- 'All the restaurants moved there too.' Barinov reacts pointedly hearing Max, testing Max's reaction in the middle of the exchange.

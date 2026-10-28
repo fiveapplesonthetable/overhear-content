@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will take away your sorrow.' Denis shares a frank tempo in the scene, combining "vozmu" ("will get") and "pechal" ("sorrow") so the key meaning lands right away.
-- 'Den really took after our grandfather.' Max sustains a direct note beside Vika, putting "voobshche" ("at all") alongside "deda" ("grandfathers") in a tight, everyday turn of phrase.
-- 'And our grandfather was the best accordionist in the village.' Max conveys a candid approach in the scene, building the phrase around "ded" ("grandfather") and "byl" ("was") for a crisp, natural delivery.
-- 'After your grandfather? How interesting.' Vika prompts warmly right away, weaving "deda" ("grandfathers") together with "kak" ("how") just the way native speakers do.
-- 'And what brought you to Moscow?' Vika presses sharply to make the point, linking "privelo" ("to bring, to lead"), "chto" ("what"), and "tebya" ("you") in one brisk exchange.
-- 'Creative differences with management.' Denis picks a pointed tempo in the room, anchoring the Russian line on "tvorcheskiye" ("creative") and "raznoglasiya" ("disagreements") without extra filler.
-- 'Wait, who did you come here with?' Denis queries steadily toward Max here, combining "ty" ("you") and "kem" ("as what") so the key meaning lands right away.
-- 'With my husband. Wait a moment, please.' Vika keeps a lively view for Max, weaving "muzhem" ("husband") together with "podozhdi" ("wait") just the way native speakers do.
-- 'Maybe we shouldn't do this, right?' Denis challenges warmly to make the point, pairing "mozhet" ("can") with "nado" ("it is necessary") to get the point across in plain spoken Russian.
-- 'I will tell my husband that everything happened.' Vika brings a direct attitude as they talk, pairing "skazhu" ("I'll tell") with "muzhu" ("husband") to get the point across in plain spoken Russian.
-- 'Is that clear?' Vika quizzes honestly on the spot, letting the single Russian word "yasno" ("clear, got it") carry the entire reaction on its own.
-- 'What is going on here?' Max checks dryly during the talk, weaving "dela" ("things, affairs") together with "eto" ("this") just the way native speakers do.
+- 'I will take away your sorrow.' Denis frames the comment facing Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Den really took after our grandfather.' Max stands firm decisively during the talk, to clear the air between them once and for all.
+- 'And our grandfather was the best accordionist in the village.' Max underscores one key expression at once: "derevne" means "village, countryside" (from "derevnya"), giving the line its exact edge.
+- 'After your grandfather? How interesting.' Vika puts that thought to Max: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'And what brought you to Moscow?' Vika probes curiously in front of Denis without any preamble.
+- 'Creative differences with management.' Denis reaches for this direct piece right here: "tvorcheskiye" means "creative" (from "tvorcheskiy"), giving the line its exact edge.
+- 'Wait, who did you come here with?' Denis sends the comment for Max: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'With my husband. Wait a moment, please.' Vika counters warmly without any doubt, so Max knows she is not just making small talk.
+- 'Maybe we shouldn't do this, right?' Denis leans on one practical expression right here: "mozhet" means "can" (from "moch"), giving the line its exact edge.
+- 'I will tell my husband that everything happened.' Vika continues pointedly as they talk, leaving no doubt about where she stands.
+- 'Is that clear?' Vika probes wryly if there is more going on behind the scenes.
+- 'What is going on here?' Max underscores one key touch with Vika: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.

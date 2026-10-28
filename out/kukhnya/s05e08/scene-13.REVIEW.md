@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell the Chef that the sheikh wants to come to me after dinner.' Katya establishes a clear line on the spot, leaning on "skazhite" ("tell") before closing the thought with "shefu" ("chef").
-- 'He wants to fulfill his marital duty!' Katya projects a measured line straight away, weaving "khochet" ("wants") together with "ispolnit" ("to fulfill") just the way native speakers do.
-- 'Keep quiet and go back.' Barinov chooses a resolute stance straight away, pairing "molchi" ("be quiet") with "idi" ("go") to get the point across in plain spoken Russian.
-- 'You are putting my daughter in danger, what are you doing?' Barinov tests wryly from the start, leaning on "doch" ("daughter") before closing the thought with "podstavlyayesh" ("are setting up").
-- 'Chef, they led Katya away in that outfit!' Max establishes an honest mood without hesitation, combining "tam" ("there") and "uveli" ("led away, took away") so the key meaning lands right away.
-- 'In short, the sheikh wants to love her!' Max establishes a wry position in their talk, joining "sheykh" ("sheikh") to "khochet" ("wants") so every word pulls its weight.
-- 'Here is the very best lamb in all of Moscow.' Barinov presents a thoughtful attitude toward Katya, putting "samyy" ("the most") alongside "luchshiy" ("best") in a tight, everyday turn of phrase.
-- 'Timur, you will drive with me to the Metropol.' Barinov picks a direct tack toward Max, anchoring the Russian line on "poyedesh" ("will go") and "timur" ("Timur") without extra filler.
-- 'We need to bring one person back fast.' Barinov displays a frank tempo in their talk, combining "nuzhno" ("necessary") and "privezti" ("to bring") so the key meaning lands right away.
-- 'Chef, and who will serve the dish to the sheikh?' Max tests calmly to Katya here, building the phrase around "podast" ("to submit, file") and "blyudo" ("dish") for a crisp, natural delivery.
-- 'I will serve it myself and stall him.' Barinov strikes a brisk stance toward Katya, using "podam" (from "podat", "will file") alongside "zaderzhu" ("will stop") to shape the meaning.
-- 'Good luck to you, Victor Petrovich!' Max chooses a natural footing toward Katya, pairing "udachi" ("luck") with "vam" ("you") to get the point across in plain spoken Russian.
+- 'Tell the Chef that the sheikh wants to come to me after dinner.' Katya chooses one colorful touch on cue: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
+- 'He wants to fulfill his marital duty!' Katya jumps in steadily with a shrug, without trying to dress up how she really feels.
+- 'Keep quiet and go back.' Barinov responds calmly with a sigh, shifting the whole mood of the room in a single beat.
+- 'You are putting my daughter in danger, what are you doing?' Barinov colors one sharp touch in reply: "podstavlyayesh" means "are setting up" (from "podstavlyat"), giving the line its exact edge.
+- 'Chef, they led Katya away in that outfit!' Max cuts in sharply on the spot, making his position completely clear.
+- 'In short, the sheikh wants to love her!' Max cuts in boldly with a shrug, refusing to let the moment slip past.
+- 'Here is the very best lamb in all of Moscow.' Barinov centers this telling choice with Katya: "yagnyonok" means "lamb", and it carries the main weight of what Barinov is saying.
+- 'Timur, you will drive with me to the Metropol.' Barinov holds firm calmly in their talk, before Max can change the subject.
+- 'We need to bring one person back fast.' Barinov pushes back warmly without any doubt, leaving no doubt about where he stands.
+- 'Chef, and who will serve the dish to the sheikh?' Max points to this key word at once: "sheykhu" means "sheikh" (from "sheykh"), giving the line its exact edge.
+- 'I will serve it myself and stall him.' Barinov replies right away around Katya, leaving no doubt about where he stands.
+- 'Good luck to you, Victor Petrovich!' Max responds wryly without a pause, making his position completely clear.

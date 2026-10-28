@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let me pay you thirty thousand a month.' Kostya displays a lively position without hesitation, combining the everyday invitation "davay" ("come on, let us") with "tysyach" ("thousand") to give the line its natural spoken rhythm.
-- 'It is normal when parents help their children.' Barinov holds a frank position for Kostya, building the phrase around "normalno" ("fine, OK") and "kogda" ("when") for a crisp, natural delivery.
-- 'I did not have parents.' Kostya brings a resolute approach on the spot, putting "bylo" ("was") alongside "roditeley" ("parents") in a tight, everyday turn of phrase.
-- 'I know, but after all we are one family.' Barinov maintains a candid footing toward Kostya, anchoring the Russian line on "znayu" ("know") and "semya" ("family") without extra filler.
-- 'We are now your parents too, do you understand?' Barinov presses plainly as the talk turns, leaning on "teper" ("now") before closing the thought with "roditeli" ("parents").
-- 'Then let's drink your cognac.' Kostya takes a candid line in front of Eleonora, anchoring the Russian line on "davayte" ("let's") and "togda" ("back then") without extra filler.
-- 'As I understand it, the kitchen did not work today.' Eleonora sets a candid footing beside Barinov, pairing "ponimayu" ("understand") with "kukhnya" ("kitchen") to get the point across in plain spoken Russian.
-- 'And this day can be deducted from your salary.' Eleonora sustains an unhurried mood in the room, combining "den" ("day") and "mozhno" ("may, can") so the key meaning lands right away.
-- 'Why say that, the auteur cuisine brought in a few pennies.' Barinov maintains a clear tone for Eleonora, joining "pochemu" ("why") to "avtorskaya" ("signature, author's") so every word pulls its weight.
-- 'Vitya, you can keep this money for yourself.' Eleonora conveys an emphatic direction in front of Kostya, joining "mozhesh" ("can") to "ostavit" ("to keep, to leave") so every word pulls its weight.
-- 'There are plenty of banknotes like those lying around out there.' Eleonora displays a lively stance in this beat, combining "tam" ("there") and "kupyur" ("banknotes") so the key meaning lands right away.
-- 'This is prop money.' Eleonora takes a candid tempo beside Kostya, putting "butaforskiye" ("prop, fake") alongside "dengi" ("money") in a tight, everyday turn of phrase.
+- 'Let me pay you thirty thousand a month.' Kostya lays out that thought on cue: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'It is normal when parents help their children.' Barinov proceeds plainly as things stand, making his position completely clear.
+- 'I did not have parents.' Listen to how Kostya replies to Barinov plainly here — the Russian word "roditeley" ("parents", built from "roditeli") does the heavy lifting.
+- 'I know, but after all we are one family.' Barinov chimes in firmly across the room, leaving no doubt about where he stands.
+- 'We are now your parents too, do you understand?' Barinov presses calmly before Eleonora can change the subject.
+- 'Then let's drink your cognac.' Kostya uses one direct detail for Eleonora: "konyak" means "cognac, brandy", and it carries the main weight of what Kostya is saying.
+- 'As I understand it, the kitchen did not work today.' Eleonora answers quietly as they talk, so Barinov knows she is not just making small talk.
+- 'And this day can be deducted from your salary.' Eleonora stands firm frankly across the room, making her position completely clear.
+- 'Why say that, the auteur cuisine brought in a few pennies.' Barinov colors one colorful touch for Eleonora: "avtorskaya" means "signature, author's" (from "avtorskiy"), giving the line its exact edge.
+- 'Vitya, you can keep this money for yourself.' Eleonora fires back right away in this moment, testing Kostya's reaction in the middle of the exchange.
+- 'There are plenty of banknotes like those lying around out there.' Eleonora pushes back frankly toward Barinov, shifting the whole mood of the room in a single beat.
+- 'This is prop money.' Eleonora uses this key term on cue: "butaforskiye" means "prop, fake" (from "butaforskiy"), giving the line its exact edge.

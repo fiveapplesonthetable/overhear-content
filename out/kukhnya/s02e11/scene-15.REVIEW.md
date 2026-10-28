@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If the chef were in the kitchen, you would be working.' Senya keeps a playful note for Barinov, joining "byl" ("was") to "kukhne" ("kitchen") so every word pulls its weight.
-- 'If the Chef were in the kitchen.' Barinov strikes a serious tone on the spot, joining "byl" ("was") to "kukhne" ("kitchen") so every word pulls its weight.
-- 'You would all be working.' Barinov keeps a calm angle for Senya, linking "rabotali" ("worked"), "vy" ("you"), and "by" ("would") in one brisk exchange.
-- 'Everyone here is working.' Vika shows a serious note beside Senya, joining "tut" ("here") to "rabotayut" ("work") so every word pulls its weight.
-- 'Who did you just call that?' Barinov probes decisively from the start, combining "seychas" ("now") and "nazval" ("called") so the key meaning lands right away.
-- 'Why are you meddling in kitchen business anyway?' Vika wonders pointedly in front of Senya, building the phrase around "voobshche" ("at all") and "lezete" ("push in, barge in") for a crisp, natural delivery.
-- 'Get out into the dining room, you hen!' Barinov holds a resolute angle in the conversation, joining "vali" ("get lost") to "zal" ("hall") so every word pulls its weight.
-- 'Watch your mouth.' Vika displays a direct line at once, pairing "slovami" ("words") with "sledi" ("watch, look after") to get the point across in plain spoken Russian.
-- 'Do not butt into an adult conversation!' Barinov inquires sharply with Senya now, putting "lech" ("to lie down") alongside "vzroslyy" ("grown-up, adult") in a tight, everyday turn of phrase.
-- 'I see, so we cannot work without the Chef, right?' Senya checks steadily in the room, building the phrase around "ponyal" ("understood") and "shefa" ("chef") for a crisp, natural delivery.
-- 'Fine, here is the Chef for you!' Barinov holds a direct bearing at this moment, linking "khorosho" ("good, fine"), "vot" ("there, here"), and "eto" ("this") in one brisk exchange.
-- 'And everyone else loses their bonus.' Vika projects an honest style for Senya, joining "ostalnyye" ("remaining, other") to "lishayutsya" ("to lose") so every word pulls its weight.
-- 'You stinking freaks.' Barinov displays a lively note in the room, weaving "urody" ("freak, jerk") together with "vonichi" ("stench, stink") just the way native speakers do.
+- 'If the chef were in the kitchen, you would be working.' Senya counters plainly in this moment, letting the remark speak for itself.
+- 'If the Chef were in the kitchen.' Barinov stresses this vivid term in reply: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'You would all be working.' Barinov drops that reply in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Everyone here is working.' Vika steps in briskly during the talk, grounding the moment in plain reality.
+- 'Who did you just call that?' Barinov reaches for one vivid touch in reply: "seychas" means "now", and it carries the main weight of what Barinov is saying.
+- 'Why are you meddling in kitchen business anyway?' Vika puts this update right away: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Get out into the dining room, you hen!' Barinov proceeds warmly to settle things, letting the remark speak for itself.
+- 'Watch your mouth.' Vika spotlights one key piece at once: "slovami" means "words" (from "slovo"), giving the line its exact edge.
+- 'Do not butt into an adult conversation!' Barinov states this statement without pause: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'I see, so we cannot work without the Chef, right?' Senya probes wryly to see how Vika will answer on the spot.
+- 'Fine, here is the Chef for you!' Barinov uses one telling touch toward Senya: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
+- 'And everyone else loses their bonus.' Vika jumps in frankly with Senya, grounding the moment in plain reality.
+- 'You stinking freaks.' Barinov pushes back openly with a smile, refusing to let the moment slip past.

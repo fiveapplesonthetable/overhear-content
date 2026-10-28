@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Viktoriya Sergeyevna, glad to see you!' Katya sets a clear angle on the spot, weaving "zdravstvuyte" ("hello") together with "rada" ("glad") just the way native speakers do.
-- 'Hello, Katya, I congratulate you on your return!' Vika sustains a warm bearing on the spot, joining "pozdravlyayu" ("congratulations") to "vozvrashcheniyem" ("return") so every word pulls its weight.
-- 'And I would say, on your promotion.' German offers a clear posture in this beat, using "skazal" (from "skazat", "said") alongside "povysheniyem" ("to promotion") to shape the meaning.
-- 'She now works as a sous-chef with us.' German sets a frank attitude as they talk, putting "teper" ("now") alongside "rabotayet" ("works") in a tight, everyday turn of phrase.
-- 'Thank you, and how are things with you and Max?' Katya asks promptly in their exchange, combining "spasibo" ("thank you") and "kak" ("how") so the key meaning lands right away.
-- 'I know that you broke up with Maxim.' German favors an unhurried posture in the room, combining "znayu" ("know") and "rasstalis" ("broke up, separated") so the key meaning lands right away.
-- 'If you need help, always turn to me.' German projects a lively tone as they talk, leaning on "ponadobitsya" ("to be needed") before closing the thought with "pomoshch" ("help").
-- 'No, thank you, everything is fine with me.' Vika brings a grounded stance across the room, pairing "spasibo" ("thank you") with "poryadke" ("order") to get the point across in plain spoken Russian.
-- 'Tonight there will be a banquet in the dining room.' Vika establishes an emphatic course in front of German, leaning on "segodnya" ("today") before closing the thought with "vecherom" ("in the evening").
-- 'A guest is celebrating a dog's birthday here.' Vika shows a brisk direction for Katya, anchoring the Russian line on "gostya" ("guest") and "otmechayet" ("celebrate, mark") without extra filler.
-- 'Even I do not celebrate my birthday here.' German presents a playful attitude as they talk, combining "prazdnuyu" ("I am celebrating") and "zdes" ("here") so the key meaning lands right away.
-- 'Do not worry, I will personally supervise everything.' German shows a candid position across the room, weaving "volnuytes" ("worry") together with "lichno" ("personally") just the way native speakers do.
+- 'Hello, Viktoriya Sergeyevna, glad to see you!' Katya voices that remark without fuss: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Hello, Katya, I congratulate you on your return!' Vika stands firm dryly on the spot, refusing to let the moment slip past.
+- 'And I would say, on your promotion.' German picks this direct choice on cue: "povysheniyem" means "to promotion" (from "povyshenit"), giving the line its exact edge.
+- 'She now works as a sous-chef with us.' German phrases the reply in earnest: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Thank you, and how are things with you and Max?' Katya inquires curiously as German tries to explain the situation.
+- 'I know that you broke up with Maxim.' German sharpens this direct piece on cue: "rasstalis" means "broke up, separated" (from "rasstatsya"), giving the line its exact edge.
+- 'If you need help, always turn to me.' German hands over the reply with candor: the "-sya" ending on "obrashchaytes" ("turn") turns the action inward or makes it happen between people naturally.
+- 'No, thank you, everything is fine with me.' Vika continues plainly across the room, keeping the focus on what actually matters here.
+- 'Tonight there will be a banquet in the dining room.' Vika reaches for one direct touch in reply: "segodnya" means "today", and it carries the main weight of what Vika is saying.
+- 'A guest is celebrating a dog's birthday here.' Vika steps in at once as they talk, steering the talk right where she wants it.
+- 'Even I do not celebrate my birthday here.' German follows up briskly to settle things, testing Katya's reaction in the middle of the exchange.
+- 'Do not worry, I will personally supervise everything.' German centers this sharp choice in earnest: "prokontroliruyu" means "will keep an eye on" (from "prokontrolirovat"), giving the line its exact edge.

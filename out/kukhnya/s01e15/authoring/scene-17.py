@@ -37,7 +37,7 @@ WALK = [
     (2, None, '\'I want to move to your place.\' Getting right to the point, Max uses the casual, friendly "you" to suggest moving in together.'),
     (3, None, '\'Do you have nowhere to live?\' Vika turns a simple observation into a probing question just by pitching her voice up on "nowhere."'),
     (4, None, '\'No, I have a million options.\' Trying to sound cool, Max boasts using a classic phrasing pattern, literally saying "at me" there are a million choices.'),
-    (5, None, '\'Kostya is calling me back.\' Casually mentioning his friend, Max puts the name "Kostya" right next to the action of calling back.'),
+    (5, None, "'Kostya is calling me back.' Trying to sound in high demand, Max brags that Kostya is already asking him to move back in."),
     (6, None, '\'Leva is also inviting me to live.\' Adding more proof of his popularity, Max pairs "Lyova" with the word for "too" to show how wanted he is.'),
     (7, None, '\'But I am ready to live with you.\' Dropping the tough act, Max switches back to the familiar "you" to admit where he really wants to be.'),
     (8, None, "'What do you want to say?' Gently pushing him to be more direct, Vika relies on a very common everyday phrase."),

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I did not understand, what child of yours?' Katya questions steadily without holding back, using "ponyala" (from "ponyat", "understood") alongside "rebyonka" ("child") to shape the meaning.
-- 'Katya, this is not your business at all.' Barinov presents a firm posture as the scene unfolds, building the phrase around "sovsem" ("at all") and "delo" ("matter") for a crisp, natural delivery.
-- 'You promised that you would change your ways!' Katya sets an earnest bearing in the scene, putting "obeshchal" ("promised") alongside "ispravishsya" ("to ways") in a tight, everyday turn of phrase.
-- 'How will people look at you?' Katya challenges pointedly in front of Barinov, weaving "kak" ("how") together with "lyudi" ("people") just the way native speakers do.
-- 'I am a grown man and will figure it out myself.' Barinov sustains an honest tack on the spot, building the phrase around "vzroslyy" ("grown-up, adult") and "chelovek" ("a man, a person") for a crisp, natural delivery.
-- 'I know very well how you figure things out.' Katya brings a measured bearing beside Barinov, pairing "prekrasno" ("perfectly") with "znayu" ("know") to get the point across in plain spoken Russian.
-- 'You already abandoned two of your children!' Katya projects a calm tack as the scene unfolds, putting "uzhe" ("already, now") alongside "brosil" ("threw") in a tight, everyday turn of phrase.
-- 'Yes, I did not live with my children.' Barinov sustains a lively view in the conversation, joining "zhil" ("lived") to "detmi" ("children") so every word pulls its weight.
-- 'But I always did everything for you.' Barinov projects a frank approach right away, building the phrase around "vsegda" ("always") and "delal" ("were doing") for a crisp, natural delivery.
-- 'You never lacked for anything.' Barinov holds a thoughtful approach with Katya, linking "nuzhdalis" ("need, require"), "vy" ("you"), and "ni" ("not even, nor") in one brisk exchange.
-- 'After all, you studied in France itself!' Barinov shows a brisk mood as the scene unfolds, leaning on "uchilas" ("to study") before closing the thought with "ty" ("you").
-- 'I needed a father, not money.' Katya sets a playful bearing during the exchange, leaning on "nuzhen" ("is needed") before closing the thought with "byl" ("was").
+- 'I did not understand, what child of yours?' Katya tests skeptically as Barinov tries to explain the situation.
+- 'Katya, this is not your business at all.' Barinov anchors one loaded piece toward Katya: "sovsem" means "at all", and it carries the main weight of what Barinov is saying.
+- 'You promised that you would change your ways!' Katya phrases that thought with warmth: the "-sya" ending on "ispravishsya" ("to ways") turns the action inward or makes it happen between people naturally.
+- 'How will people look at you?' Katya challenges point-blank as Barinov tries to explain the situation.
+- 'I am a grown man and will figure it out myself.' Barinov uses one pointed word at once: "vzroslyy" means "grown-up, adult", and it carries the main weight of what Barinov is saying.
+- 'I know very well how you figure things out.' Katya offers that reply right away: the "-sya" ending on "razbirayeshsya" ("to understand well") turns the action inward or makes it happen between people naturally.
+- 'You already abandoned two of your children!' Katya jumps in firmly with a sigh, watching Barinov's face to see how the news lands.
+- 'Yes, I did not live with my children.' Barinov grounds one vivid choice at once: "detmi" means "children" (from "rebyonok"), giving the line its exact edge.
+- 'But I always did everything for you.' Barinov favors one clear detail for Katya: "vsegda" means "always", and it carries the main weight of what Barinov is saying.
+- 'You never lacked for anything.' Barinov proceeds pointedly with Katya, making his position completely clear.
+- 'After all, you studied in France itself!' Barinov frames one classic word in earnest: "uchilas" means "to study" (from "uchitsya"), giving the line its exact edge.
+- 'I needed a father, not money.' Katya answers sharply as they talk, watching Barinov's face to see how the news lands.

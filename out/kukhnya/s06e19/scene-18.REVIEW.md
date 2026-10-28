@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gulya will kill me for this.' Ainura conveys a wry course in the room, building the phrase around "ubyot" ("will kill") and "gulya" ("Gulya") for a crisp, natural delivery.
-- 'But I cannot keep silent.' Ainura sustains a natural view with Lyova, using "mogu" (from "moch", "can") alongside "molchat" ("be quiet") to shape the meaning.
-- 'She has nobody in Bishkek.' Ainura favors a candid tempo with Lyova, joining "bishkeke" ("Bishkek") to "neyo" ("her") so every word pulls its weight.
-- 'She loves only you alone.' Ainura projects a grounded position without hesitation, linking "tolko" ("only"), "lyubit" ("loves"), and "odnogo" ("alone, on his own") in one brisk exchange.
-- 'Then why did she lie to me?' Lyova challenges earnestly at this point, weaving "pochemu" ("why") together with "sovrala" ("to lie, tell a lie") just the way native speakers do.
-- 'Her migration card expired yesterday.' Ainura establishes a calm manner as they talk, putting "karta" ("bank card, map") alongside "vchera" ("yesterday") in a tight, everyday turn of phrase.
-- 'Now she has to fly away urgently.' Ainura conveys a natural bearing at once, building the phrase around "teper" ("now") and "srochno" ("urgent, urgently") for a crisp, natural delivery.
-- 'She will come to Moscow in five years.' Ainura displays a warm tempo in the room, anchoring the Russian line on "priyedet" ("will come, arrive") and "let" ("years") without extra filler.
-- 'You have your work and mother here.' Ainura establishes a thoughtful tempo in this beat, putting "zdes" ("here") alongside "rabota" ("job") in a tight, everyday turn of phrase.
-- 'She decided not to stand in your way.' Ainura maintains a serious stance at this moment, putting "reshila" ("decided") alongside "meshat" ("to bother, to disturb") in a tight, everyday turn of phrase.
-- 'In two hours she will fly away.' Ainura strikes a frank style right away, linking "chasa" ("hours"), "uletit" ("to fly away"), and "dva" ("two") in one brisk exchange.
-- 'Lyova, run after her quickly!' Ainura conveys an earnest style straight away, building the phrase around "bystro" ("quickly") and "begi" ("run") for a crisp, natural delivery.
+- 'Gulya will kill me for this.' Ainura fires back quietly in this moment, watching Lyova's face to see how the news lands.
+- 'But I cannot keep silent.' Ainura grounds one practical word at once: "molchat" means "be quiet", and it carries the main weight of what Ainura is saying.
+- 'She has nobody in Bishkek.' Ainura speaks up evenly in this moment, leaving no doubt about where she stands.
+- 'She loves only you alone.' Ainura jumps in promptly toward Lyova, letting the remark speak for itself.
+- 'Then why did she lie to me?' Lyova spotlights one sharp detail toward Ainura: "sovrala" means "to lie, tell a lie" (from "sovrat"), giving the line its exact edge.
+- 'Her migration card expired yesterday.' Ainura makes this answer frankly here: the "-sya" ending on "prosrochilas" ("expired") turns the action inward or makes it happen between people naturally.
+- 'Now she has to fly away urgently.' Ainura fires back warmly in this moment, refusing to let the moment slip past.
+- 'She will come to Moscow in five years.' Ainura spotlights this telling detail toward Lyova: "priyedet" means "will come, arrive" (from "priyekhat"), giving the line its exact edge.
+- 'You have your work and mother here.' Ainura hands over the thought without fuss: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'She decided not to stand in your way.' Ainura chimes in promptly with a smile, making her position completely clear.
+- 'In two hours she will fly away.' Ainura leans on one familiar piece right here: "chasa" means "hours" (from "chas"), giving the line its exact edge.
+- 'Lyova, run after her quickly!' Ainura fires back firmly without a pause, steering the talk right where she wants it.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By the way, this is burglary with breaking and entering!' Lyova brings an emphatic position in the room, using "prochim" (from "prochiy", "other") alongside "krazha" ("all") to shape the meaning.
-- 'Lyova, do not get in the way, I am sick of it!' Barinov shares a resolute posture beside Lyova, pairing "meshay" ("bother") with "uzhe" ("already, now") to get the point across in plain spoken Russian.
-- 'Behind this door is fish worth millions!' Barinov favors a firm note in their talk, putting "dveryu" ("the door") alongside "ryba" ("fish") in a tight, everyday turn of phrase.
-- 'So come on and help me search.' Barinov favors a clear footing on the spot, combining the everyday invitation "davay" ("come on, let us") with "pomogay" ("help") to give the line its natural spoken rhythm.
-- 'Well, did you find anything in there?' Barinov probes boldly in the room, joining "nashyol" ("found") to "tam" ("there") so every word pulls its weight.
-- 'No, I have not found anything at all yet.' Lyova holds an honest rhythm at once, building the phrase around "poka" ("bye") and "voobshche" ("at all") for a crisp, natural delivery.
-- 'Well, boys, did you find many diamonds?' Barinov asks pointedly from the start, linking "parni" ("guys, boys"), "mnogo" ("a lot"), and "brilliantov" ("diamonds") in one brisk exchange.
-- 'What diamonds do you mean, Viktor Petrovich?' Fedya probes steadily in this moment, linking "yeshchyo" ("more, still"), "brilliantov" ("diamonds"), and "kakikh" ("what kind of") in one brisk exchange.
-- 'Do not try to make an idiot out of me!' Barinov favors an unhurried footing with Fedya, weaving "nado" ("it is necessary") together with "delat" ("do") just the way native speakers do.
-- 'Actually, it is three o'clock in the morning right now.' Barinov takes a frank attitude beside Lyova, anchoring the Russian line on "voobshche-to" ("actually") and "seychas" ("now") without extra filler.
-- 'You decided to clean fifty kilograms of fish?' Barinov prompts plainly during the talk, anchoring the Russian line on "reshili" ("decided") and "pochistit" ("to potatoes") without extra filler.
-- 'Chef, we found one stone this morning.' Fedya offers a natural rhythm straight away, building the phrase around "nashli" ("found, did find") and "kamen" ("stone") for a crisp, natural delivery.
-- 'And right now there is nothing in this fish!' Fedya sets a firm tempo as they talk, pairing "seychas" ("now") with "rybe" ("fish") to get the point across in plain spoken Russian.
-- 'Maybe we should call Timur and have him bring more?' Fedya challenges warmly from the start, combining "mozhet" ("can") and "pozvonit" ("to call") so the key meaning lands right away.
+- 'By the way, this is burglary with breaking and entering!' Lyova sends this point at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Lyova, do not get in the way, I am sick of it!' Barinov opens up pointedly across the room, leaving no doubt about where he stands.
+- 'Behind this door is fish worth millions!' Barinov stresses one direct word right here: "milliony" means "millions" (from "million"), giving the line its exact edge.
+- 'So come on and help me search.' Barinov frames this point facing Lyova: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Well, did you find anything in there?' Barinov prompts earnestly to see how Fedya will answer on the spot.
+- 'No, I have not found anything at all yet.' Lyova picks one classic expression in earnest: "voobshche" means "at all", and it carries the main weight of what Lyova is saying.
+- 'Well, boys, did you find many diamonds?' Barinov brings that point to Fedya: putting the question word "chto" right at the front of the line lets Fedya hear the point of the question on the very first beat.
+- 'What diamonds do you mean, Viktor Petrovich?' Fedya presses deadpan whether Lyova really thought this through.
+- 'Do not try to make an idiot out of me!' Barinov underscores this telling element right here: "idiota" means "idiot" (from "idiot"), giving the line its exact edge.
+- 'Actually, it is three o'clock in the morning right now.' Barinov brings that answer around Lyova: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'You decided to clean fifty kilograms of fish?' Barinov prompts calmly where this conversation is heading next.
+- 'Chef, we found one stone this morning.' Fedya points to this clear touch in earnest: "kamen" means "stone", and it carries the main weight of what Fedya is saying.
+- 'And right now there is nothing in this fish!' Fedya sends that remark with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Maybe we should call Timur and have him bring more?' Fedya presses briskly while looking straight at Lyova here.

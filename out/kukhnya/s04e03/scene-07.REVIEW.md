@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you imagine making me her sous-chef?' Barinov queries wryly on the spot, pairing "predstavlyayete" ("to imagine") with "sdelat" ("to do") to get the point across in plain spoken Russian.
-- 'You broke her heart.' Elena establishes a resolute bearing toward Barinov, combining "razbili" ("smashed, wrecked") and "serdtse" ("heart") so the key meaning lands right away.
-- 'And this is her little feminine revenge.' Elena chooses a playful attitude in the conversation, joining "malenkaya" ("small") to "zhenskaya" ("womanly, female") so every word pulls its weight.
-- 'Is she humiliating me because things didn't work out between us?' Barinov checks sharply on the spot, weaving "unizhayet" ("humiliates") together with "vyshlo" ("happened, came about") just the way native speakers do.
-- 'Then I will work in such a way that she kicks me out herself.' Barinov sets an easygoing tack across the room, weaving "togda" ("back then") together with "budu" ("will be") just the way native speakers do.
-- 'Does that mean going back to prison?' Elena inquires wryly toward Barinov here, putting "znachit" ("then, so") alongside "opyat" ("again") in a tight, everyday turn of phrase.
-- 'You need her not to fire you, but to let you go.' Elena brings a warm view at once, anchoring the Russian line on "nado" ("it is necessary") and "vygnala" ("kicked out") without extra filler.
-- 'Of her own free will.' Elena adopts a pointed view at this moment, pairing "dobroy" ("good") with "vole" ("will, freedom") to get the point across in plain spoken Russian.
-- 'You are not ironing, you are crumpling the jacket with the iron.' Elena takes a pointed posture as the scene unfolds, weaving "gladite" ("to jacket") together with "mnyote" ("iron") just the way native speakers do.
-- 'What is wrong with you? Maybe a pill?' Elena challenges evenly to keep things clear, using "mozhet" (from "moch", "can") alongside "tabletku" ("pill") to shape the meaning.
-- 'No, there are no pills for old age.' Barinov sets a thoughtful footing as the scene unfolds, using "starosti" (from "starost", "old age") alongside "tabletok" ("pill, tablet") to shape the meaning.
-- 'I have grown completely old.' Barinov offers a lively course on the spot, linking "sovsem" ("at all"), "staryy" ("old"), and "stal" ("to become") in one brisk exchange.
+- 'Can you imagine making me her sous-chef?' Barinov emphasizes one direct detail at once: "predstavlyayete" means "to imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'You broke her heart.' Elena states that answer at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'And this is her little feminine revenge.' Elena responds decisively as they talk, steering the talk right where she wants it.
+- 'Is she humiliating me because things didn't work out between us?' Barinov picks one colorful detail at once: "unizhayet" means "humiliates" (from "unizhat"), giving the line its exact edge.
+- 'Then I will work in such a way that she kicks me out herself.' Barinov answers right away beside Elena, testing Elena's reaction in the middle of the exchange.
+- 'Does that mean going back to prison?' Elena asks straight out before Barinov can change the subject.
+- 'You need her not to fire you, but to let you go.' Elena anchors one practical word on cue: "otpustila" means "to let go, to release" (from "otpustit"), giving the line its exact edge.
+- 'Of her own free will.' Elena aims that remark calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'You are not ironing, you are crumpling the jacket with the iron.' Elena speaks bluntly toward Barinov, without trying to dress up how she really feels.
+- 'What is wrong with you? Maybe a pill?' Elena grounds one vivid piece toward Barinov: "tabletku" means "pill" (from "tabletka"), giving the line its exact edge.
+- 'No, there are no pills for old age.' Barinov puts that reply toward Elena: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I have grown completely old.' Barinov weighs in bluntly with Elena, bringing things back to earth after the buildup.

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Have you completely lost your mind?' Kostya questions steadily without a pause, putting "voobshche" ("at all") alongside "katushin" ("off the rails") in a tight, everyday turn of phrase.
-- 'The guests are laughing at you.' Kostya holds a grounded course without hesitation, combining "gosti" ("visitors, guests") and "smeyutsya" ("to laugh") so the key meaning lands right away.
-- 'Ladies and gentlemen, there is no need to laugh.' Barinov shares a candid manner in their talk, putting "gospoda" ("gentlemen") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'I come from an ancient Scottish clan.' Barinov shows a sharp footing in the conversation, building the phrase around "drevnego" ("ancient") and "shotlandskogo" ("Scottish") for a crisp, natural delivery.
-- 'In our clan it is customary to wear kilts.' Barinov favors a direct view in the conversation, leaning on "u nas" ("by us, at our place") and "prinyato" ("accepted, copy that") the way natural Russian does.
-- 'Everything is fine. I told them I am a Highlander.' Barinov offers an unhurried note in the scene, linking "poryadke" ("order"), "skazal" ("said"), and "gorets" ("Highlander") in one brisk exchange.
-- 'You are not a Highlander. You are an old man disgracing both yourself and the hotel.' Kostya holds a brisk position for Barinov, leaning on "gorets" ("Highlander") before closing the thought with "starets" ("old man, elder").
-- 'Viktor Petrovich, are you aware that we have strict rules?' Mikhail presses plainly as the talk turns, placing "kurse" ("course, regimen") straight beside "strogiye" ("strict") with no word for "to be" needed.
-- 'well, non-traditional room service is prohibited?' Mikhail presses directly without hesitation, pairing "netraditsionnogo" ("non-traditional") with "roms-servisa" ("of room service") to get the point across in plain spoken Russian.
-- 'What is that lady doing here?' Barinov checks firmly with Mikhail now, weaving "damochka" ("little lady") together with "tut" ("here") just the way native speakers do.
-- 'You can always win it back! I cannot.' Mikhail tests earnestly without hesitation, anchoring the Russian line on "vsegda" ("always") and "mozhesh" ("can") without extra filler.
-- 'Right now I am fulfilling another wish.' Barinov takes a steady attitude at once, linking "seychas" ("now"), "ispolnyayu" ("I am fulfilling"), and "drugoye" ("another, other") in one brisk exchange.
-- 'Not yours.' Barinov maintains a serious manner in the scene, anchoring the Russian line on "ne" ("not") and "tvoye" ("your") without extra filler.
+- 'Have you completely lost your mind?' Kostya points to one classic term on cue: "katushin" means "off the rails" (from "katushka"), giving the line its exact edge.
+- 'The guests are laughing at you.' Kostya directs that reply at once: the "-sya" ending on "smeyutsya" ("to laugh") turns the action inward or makes it happen between people naturally.
+- 'Ladies and gentlemen, there is no need to laugh.' Barinov opens up firmly without a pause, bringing things back to earth after the buildup.
+- 'I come from an ancient Scottish clan.' Barinov uses this direct expression in reply: "shotlandskogo" means "Scottish" (from "shotlandskiy"), giving the line its exact edge.
+- 'In our clan it is customary to wear kilts.' Barinov aims that point calmly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Everything is fine. I told them I am a Highlander.' Barinov weighs in evenly with a smile, shifting the whole mood of the room in a single beat.
+- 'You are not a Highlander. You are an old man disgracing both yourself and the hotel.' Kostya centers one clear expression in earnest: "starets" means "old man, elder", and it carries the main weight of what Kostya is saying.
+- 'Viktor Petrovich, are you aware that we have strict rules?' Mikhail phrases the reply facing Kostya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'well, non-traditional room service is prohibited?' Mikhail probes point-blank before Barinov can change the subject.
+- 'What is that lady doing here?' Barinov points to this vivid term on cue: "damochka" means "little lady", and it carries the main weight of what Barinov is saying.
+- 'You can always win it back! I cannot.' Mikhail shares the comeback in earnest: the "-sya" ending on "otygratsya" ("to win back") turns the action inward or makes it happen between people naturally.
+- 'Right now I am fulfilling another wish.' Barinov speaks candidly before Mikhail, without trying to dress up how he really feels.
+- 'Not yours.' Barinov aims this point right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

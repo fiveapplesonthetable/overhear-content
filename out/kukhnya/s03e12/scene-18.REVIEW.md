@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I feel so sorry for that old man from the second floor.' Lyova presents an easygoing style in the scene, linking "ochen" ("very much"), "zhalko" ("feel sorry for"), and "starika" ("old man") in one brisk exchange.
-- 'He was a grumpy man, of course.' Barinov establishes a candid course beside Nagiyev, anchoring the Russian line on "chelovek" ("a man, a person") and "konechno" ("of course") without extra filler.
-- 'Dima, why did you kill the old man?' Barinov questions wryly in front of Lyova, pairing "zachem" ("what for") with "starogo" ("old") to get the point across in plain spoken Russian.
-- 'I did not kill any old man!' Nagiyev brings a brisk direction with Lyova, putting "ubival" ("killed") alongside "deda" ("grandfathers") in a tight, everyday turn of phrase.
-- 'I saw myself how they were just loading him into the ambulance.' Barinov adopts a pointed posture at once, putting "videl" ("saw, have seen") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'I did not touch him with a finger, I swear to you!' Nagiyev offers an honest rhythm on the spot, pairing "paltsem" ("finger") with "trogal" ("touched") to get the point across in plain spoken Russian.
-- 'Kirill Ilyich, you are alive! I beg your forgiveness!' Nagiyev conveys a candid direction as they talk, weaving "kirill" ("Kirill") together with "ilich" ("Ilyich") just the way native speakers do.
-- 'I accidentally disgraced the honor of a Soviet officer.' Nagiyev shows a playful approach in this beat, leaning on "sluchayno" ("by any chance") before closing the thought with "opozoril" ("disgraced").
-- 'I beg your forgiveness, this will not happen again!' Nagiyev projects a measured manner at once, anchoring the Russian line on "proshu" ("beg, ask") and "proshcheniya" ("forgiveness") without extra filler.
-- 'Well then, peace? — A truce!' Barinov wonders evenly to keep things clear, anchoring the Russian line on "mir" ("world") and "peremiriye" ("truce, armistice") without extra filler.
-- 'Chef, we just questioned the paramedic outside.' Lyova sets an easygoing stance in the conversation, pairing "seychas" ("now") with "sanitara" ("orderly, paramedic") so the "-sya" ending carries the action.
-- 'Nobody killed the old man, it was just an accident.' Lyova presents a brisk approach in front of Nagiyev, weaving "ubivali" ("killed") together with "deda" ("grandfathers") just the way native speakers do.
+- 'I feel so sorry for that old man from the second floor.' Lyova follows up steadily without holding back, grounding the moment in plain reality.
+- 'He was a grumpy man, of course.' Barinov centers one key element in reply: "vrednyy" means "annoying, difficult", and it carries the main weight of what Barinov is saying.
+- 'Dima, why did you kill the old man?' Barinov drops the remark briskly now: putting the question word "zachem" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'I did not kill any old man!' Nagiyev continues evenly across the room, leaving no doubt about where he stands.
+- 'I saw myself how they were just loading him into the ambulance.' Barinov highlights one vivid piece right here: "skoruyu" means "ambulance" (from "skoraya"), giving the line its exact edge.
+- 'I did not touch him with a finger, I swear to you!' Nagiyev uses one practical expression in earnest: "paltsem" means "finger" (from "palets"), giving the line its exact edge.
+- 'Kirill Ilyich, you are alive! I beg your forgiveness!' Nagiyev fires back briskly watching Barinov, to clear the air between them once and for all.
+- 'I accidentally disgraced the honor of a Soviet officer.' Nagiyev points to one pointed term right here: "sovetskogo" means "Soviet" (from "sovetskiy"), giving the line its exact edge.
+- 'I beg your forgiveness, this will not happen again!' Nagiyev jumps in honestly without any doubt, leaving no doubt about where he stands.
+- 'Well then, peace? — A truce!' Barinov challenges sharply before Nagiyev can change the subject.
+- 'Chef, we just questioned the paramedic outside.' Lyova frames this vivid word right here: "rassprosili" means "questioned" (from "rassprosit"), giving the line its exact edge.
+- 'Nobody killed the old man, it was just an accident.' Lyova directs that line before Nagiyev: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

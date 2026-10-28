@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Petrovich.' Max maintains a lively tempo on the spot, leaning on "zdravstvuyte" ("hello") before closing the thought with "petrovich" ("Petrovich").
-- 'Yes. Hello.' Barinov picks a pointed view in this beat, building the phrase around "zdravstvuyte" ("hello") and "da" ("yes") for a crisp, natural delivery.
-- 'How is your health?' Lyova wonders calmly on the spot, weaving "kak" ("how") together with "zdorovye" ("health") just the way native speakers do.
-- 'Thank you very much.' Max chooses a pointed style on the spot, weaving "spasibo" ("thank you") together with "vot" ("there, here") just the way native speakers do.
-- 'Otherwise my whole bed is full of crumbs.' Barinov takes an unhurried manner in the scene, leaning on "postel" ("bed") before closing the thought with "kroshkakh" ("crumb, little one").
-- 'How are things going in the kitchen?' Lyova tests honestly for Max's benefit, linking "kak" ("how") directly with "dela" ("things, affairs"), since Russian drops "is" and "are" in the present.
-- 'Are you completely joking or what?' Max quizzes firmly during the talk, putting "shutish" ("are joking") alongside "sovsem" ("at all") in a tight, everyday turn of phrase.
-- 'Actually, only one method ever worked for me.' Barinov sets a clear position as they talk, building the phrase around "voobshche-to" ("actually") and "tolko" ("only") for a crisp, natural delivery.
-- 'You see, Lyova, in order to be a real head chef.' Max shares a brisk line in this beat, putting "ponimayesh" ("do you understand") alongside "byt" ("be") in a tight, everyday turn of phrase.
-- 'Which method? You see?' Max wonders pointedly without a pause, combining "ponimayesh" ("do you understand") and "kakoy" ("what a, how") so the key meaning lands right away.
-- 'You have to be a real bastard.' Barinov maintains a calm stance as the scene unfolds, pairing "nado" ("it is necessary") with "byt" ("be") to get the point across in plain spoken Russian.
-- 'And being a bastard, Lyova, is not easy.' Max displays a wry mood at once, leaning on "gnidoy" ("creep, louse") before closing the thought with "byt" ("be").
-- 'All right, go back to work.' Max establishes an unhurried angle beside Barinov, joining "idi" ("go") to "rabotay" ("work") so every word pulls its weight.
+- 'Hello, Petrovich.' Max frames one concrete element toward Barinov: "zdravstvuyte" means "hello", and it carries the main weight of what Max is saying.
+- 'Yes. Hello.' Barinov states this update for Max: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'How is your health?' Lyova quizzes briskly as Barinov tries to explain the situation.
+- 'Thank you very much.' Max leans on one vivid expression right here: "spasibo" means "thank you", and it carries the main weight of what Max is saying.
+- 'Otherwise my whole bed is full of crumbs.' Barinov directs that answer on cue: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'How are things going in the kitchen?' Lyova asks wryly why things suddenly took this turn between them.
+- 'Are you completely joking or what?' Max emphasizes this key touch at once: "shutish" means "are joking" (from "shutit"), giving the line its exact edge.
+- 'Actually, only one method ever worked for me.' Barinov offers this point plainly here: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'You see, Lyova, in order to be a real head chef.' Max opens up candidly with a smile, refusing to let the moment slip past.
+- 'Which method? You see?' Max focuses on one concrete term in earnest: "ponimayesh" means "do you understand" (from "ponimat"), giving the line its exact edge.
+- 'You have to be a real bastard.' Barinov shapes that remark briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'And being a bastard, Lyova, is not easy.' Max pushes back plainly with a smile, so Lyova knows he is not just making small talk.
+- 'All right, go back to work.' Max chooses one vivid term right here: "rabotay" means "work" (from "rabotat"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, hand me the sauté pan.' Barinov strikes a direct posture in the scene, linking "poday" ("to submit, file"), "soteynik" ("pan"), and "lyova" ("Lyova") in one brisk exchange.
-- 'What kind of nonsense is this?' Barinov quizzes warmly on the spot, building the phrase around "yerunda" ("trifle, nothing") and "eto" ("this") for a crisp, natural delivery.
-- 'I need my copper sauté pan.' Barinov keeps a natural posture in front of Kostya, linking "nuzhen" ("is needed"), "mednyy" ("pan"), and "soteynik" ("pan") in one brisk exchange.
-- 'Your copper sauté pan stayed there.' Lyova displays a candid line in their talk, putting "mednyy" ("pan") alongside "soteynik" ("pan") in a tight, everyday turn of phrase.
-- 'It was in the other restaurant.' Lyova picks a lively approach for Barinov, leaning on "byl" ("was") before closing the thought with "drugom" ("different, another").
-- 'I need it right now.' Barinov holds a pointed tempo in the room, combining "nuzhen" ("is needed") and "seychas" ("now") so the key meaning lands right away.
-- 'Here, take the compote.' Kostya establishes a sharp tempo across the room, anchoring the Russian line on "derzhi" ("here you go") and "kompot" ("compote") without extra filler.
-- 'Do not give him too much, okay?' Kostya tests wryly to make the point, anchoring the Russian line on "mnogo" ("a lot") and "davayte" ("let's") without extra filler.
-- 'Otherwise it will go badly.' Kostya picks a sharp tone during the exchange, putting "budet" ("will be") alongside "plokho" ("badly") in a tight, everyday turn of phrase.
-- 'It will be like last time.' Kostya presents a direct approach at once, pairing "budet" ("will be") with "kak" ("how") to get the point across in plain spoken Russian.
-- 'Here are the discs with cartoons.' Kostya offers a wry angle in their talk, putting "diski" ("cartoons") alongside "multikami" ("cartoon, animated film") in a tight, everyday turn of phrase.
-- 'I understood everything, chef.' Lyova establishes a playful tone beside Kostya, putting "ponyal" ("understood") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'Lyova, hand me the sauté pan.' Barinov puts this point to Kostya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What kind of nonsense is this?' Barinov questions calmly what Lyova is actually getting at here.
+- 'I need my copper sauté pan.' Barinov leans on one memorable term with Kostya: "soteynik" means "pan", and it carries the main weight of what Barinov is saying.
+- 'Your copper sauté pan stayed there.' Lyova highlights one vivid piece with Kostya: "soteynik" means "pan", and it carries the main weight of what Lyova is saying.
+- 'It was in the other restaurant.' Lyova holds firm at once without holding back, testing Barinov's reaction in the middle of the exchange.
+- 'I need it right now.' Barinov points to one sharp term with Lyova: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'Here, take the compote.' Kostya phrases that answer frankly here: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Do not give him too much, okay?' Kostya checks firmly in front of Lyova without any preamble.
+- 'Otherwise it will go badly.' Kostya centers one pointed touch on cue: "plokho" means "badly", and it carries the main weight of what Kostya is saying.
+- 'It will be like last time.' Kostya follows up briskly in this moment, shifting the whole mood of the room in a single beat.
+- 'Here are the discs with cartoons.' Kostya weighs in pointedly with a shrug, watching Barinov's face to see how the news lands.
+- 'I understood everything, chef.' Lyova chooses one practical element right here: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.

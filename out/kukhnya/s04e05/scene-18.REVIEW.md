@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nothing brings our team together so well.' Fedya offers a firm view at this moment, combining "khorosho" ("good, fine") and "sblizhayet" ("closer") so the key meaning lands right away.
-- 'Guys, what is this banquet we have here?' Max asks earnestly during the talk, combining "parni" ("guys, boys") and "zdes" ("here") so the key meaning lands right away.
-- 'We are drinking to our brave new sous-chef!' Senya shares a lively direction for Fedya, combining "pyom" ("to drink") and "smelogo" ("brave, bold") so the key meaning lands right away.
-- 'Max, we need to ask German for a salary raise!' Fedya offers a candid tack with Senya, combining "nado" ("it is necessary") and "germana" ("german") so the key meaning lands right away.
-- 'Strike while the iron is still hot!' Senya adopts a clear line toward Fedya, leaning on "kuy" ("strike") before closing the thought with "zhelezo" ("while").
-- 'Guys, come on, what raise right now?' Max checks steadily as they speak, combining "parni" ("guys, boys") and "broste" ("to throw, to leave") so the key meaning lands right away.
-- 'Come on, finish up quickly and let's go work.' Max chooses a clear line across the room, joining "davayte" ("let's") to "bystro" ("quickly") so every word pulls its weight.
-- 'What, has our brave leader gotten scared already?' Fedya questions naturally from the start, combining "smelyy" ("brave") and "lider" ("leader") so the key meaning lands right away.
-- 'No big deal, then we will go ourselves!' Senya maintains a sharp tone in the scene, combining "strashnogo" ("terrible, serious") and "togda" ("back then") so the key meaning lands right away.
-- 'Guys, all right, wait here for one second!' Max conveys a candid approach toward Senya, leaning on "parni" ("guys, boys") before closing the thought with "podozhdite" ("wait").
-- 'I simply did not want to tell you until evening.' Max establishes an earnest position as they talk, anchoring the Russian line on "prosto" ("just") and "khotel" ("wanted") without extra filler.
-- 'I already got a bonus out of German today!' Max chooses a lively view in the room, leaning on "uzhe" ("already, now") before closing the thought with "segodnya" ("today").
-- 'Here is your money, take it and sign for it.' Max offers a measured view in the conversation, leaning on "dengi" ("money") before closing the thought with "poluchite" ("you will get").
+- 'Nothing brings our team together so well.' Fedya weighs in quietly beside Max, watching Max's face to see how the news lands.
+- 'Guys, what is this banquet we have here?' Max spotlights one sharp touch in earnest: "banket" means "banquet", and it carries the main weight of what Max is saying.
+- 'We are drinking to our brave new sous-chef!' Senya opens up bluntly during the talk, grounding the moment in plain reality.
+- 'Max, we need to ask German for a salary raise!' Fedya weighs in boldly with a nod, before Senya can change the subject.
+- 'Strike while the iron is still hot!' Senya frames one loaded term right here: "zhelezo" means "while", and it carries the main weight of what Senya is saying.
+- 'Guys, come on, what raise right now?' Max puts this warning around Senya: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'Come on, finish up quickly and let's go work.' Max responds promptly toward Fedya, bringing things back to earth after the buildup.
+- 'What, has our brave leader gotten scared already?' Fedya colors one key touch with Senya: "ispugalsya" means "got scared" (from "ispugatsya"), giving the line its exact edge.
+- 'No big deal, then we will go ourselves!' Senya chimes in firmly without a pause, grounding the moment in plain reality.
+- 'Guys, all right, wait here for one second!' Max fires back candidly with a sigh, steering the talk right where he wants it.
+- 'I simply did not want to tell you until evening.' Max anchors this sharp touch in earnest: "vechera" means "evening" (from "vecher"), giving the line its exact edge.
+- 'I already got a bonus out of German today!' Max responds at once without holding back, steering the talk right where he wants it.
+- 'Here is your money, take it and sign for it.' Max weighs in decisively in their talk, making his position completely clear.

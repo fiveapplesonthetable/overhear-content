@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what kind of maniac is he?' Nastya challenges naturally in the scene, joining "manyak" ("maniac") to "nu" ("oh, come on") so every word pulls its weight.
-- 'Look how much the child loves him.' Nastya brings an earnest bearing as the scene unfolds, putting "posmotri" ("look") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'Little children sense everything right away.' Nastya takes a thoughtful mood in their talk, weaving "malenkiye" ("little ones") together with "deti" ("kids") just the way native speakers do.
-- 'Better to kick him out just in case.' The guest conveys a measured tack during the exchange, putting "luchshe" ("better") alongside "vygnat" ("to kick out") in a tight, everyday turn of phrase.
-- 'No, better to let him stay at home.' Nastya adopts an easygoing attitude for the guest, joining "luchshe" ("better") to "ostavit" ("to keep, to leave") so every word pulls its weight.
-- 'We need to do a paternity test.' The guest strikes an earnest direction without hesitation, linking "nado" ("it is necessary"), "sdelat" ("to do"), and "test" ("test") in one brisk exchange.
-- 'That is simply a great idea, Dad!' Nastya adopts a pointed rhythm right away, building the phrase around "prosto" ("just") and "otlichnaya" ("excellent") for a crisp, natural delivery.
-- 'I saw about that in the movies.' Nastya keeps a thoughtful course during the exchange, putting "kino" ("cinema, movies") alongside "videla" ("saw") in a tight, everyday turn of phrase.
-- 'For the test we need to take saliva.' Nastya shares an emphatic posture in this beat, linking "testa" ("dough"), "nuzhno" ("necessary"), and "vzyat" ("to take") in one brisk exchange.
-- 'They definitely need to take blood there.' The guest shows a playful view across the room, putting "tam" ("there") alongside "obyazatelno" ("surely, without fail") in a tight, everyday turn of phrase.
-- 'And I read that hair is needed.' Nastya picks an honest position toward the guest, putting "chitala" ("read") alongside "nuzhny" ("needed") in a tight, everyday turn of phrase.
-- 'No, saliva is needed for the test.' The guest shows a candid stance during the exchange, weaving "analiza" ("test, analysis") together with "nuzhna" ("needed") just the way native speakers do.
+- 'Well, what kind of maniac is he?' Nastya chooses this vivid choice on cue: "manyak" means "maniac", and it carries the main weight of what Nastya is saying.
+- 'Look how much the child loves him.' Nastya continues candidly to settle things, so the guest knows she is not just making small talk.
+- 'Little children sense everything right away.' Nastya speaks right away facing the guest, grounding the moment in plain reality.
+- 'Better to kick him out just in case.' The guest underscores one classic word toward Nastya: "sluchay" means "case, occasion", and it carries the main weight of what the guest is saying.
+- 'No, better to let him stay at home.' Nastya reacts right away before the guest, letting the remark speak for itself.
+- 'We need to do a paternity test.' The guest replies honestly during the talk, so Nastya knows he is not just making small talk.
+- 'That is simply a great idea, Dad!' Nastya picks this clear detail on cue: "otlichnaya" means "excellent" (from "otlichnyy"), giving the line its exact edge.
+- 'I saw about that in the movies.' Nastya counters warmly to settle things, so the guest knows she is not just making small talk.
+- 'For the test we need to take saliva.' Nastya opens up right away watching the guest, refusing to let the moment slip past.
+- 'They definitely need to take blood there.' The guest picks one direct term for Nastya: "obyazatelno" means "surely, without fail", and it carries the main weight of what the guest is saying.
+- 'And I read that hair is needed.' Nastya holds firm pointedly watching the guest, so the guest knows she is not just making small talk.
+- 'No, saliva is needed for the test.' The guest steps in dryly to be clear, without trying to dress up how he really feels.

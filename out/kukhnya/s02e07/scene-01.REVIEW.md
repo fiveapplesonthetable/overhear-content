@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Happy birthday.' Barinov shows an emphatic posture during the exchange, using "dnem" (from "den", "day") alongside "rozhdeniya" ("of birth") to shape the meaning.
-- 'Maybe I should give you some pills?' Vika tests wryly right away, pairing "mozhet" ("can") with "tabletok" ("pill, tablet") to get the point across in plain spoken Russian.
-- 'There is no need.' Rodion holds a thoughtful note in the room, building the phrase around "stoit" ("is parked") and "ne" ("not") for a crisp, natural delivery.
-- 'Good morning, Viktor Petrovich.' Vika adopts a steady stance straight away, anchoring the Russian line on "dobroye" ("good") and "utro" ("morning") without extra filler.
-- 'Rodion Sergeyevich.' Vika projects a calm mood in the room, joining "rodion" ("Rodion") to "sergeyevich" ("Sergeyevich") so every word pulls its weight.
-- 'Should I suggest where to hide the body?' Rodion challenges pointedly at this point, linking "podskazat" ("to prompt, to tell"), "kuda" ("where to"), and "trup" ("corpse, dead body") in one brisk exchange.
-- 'You are not going to tell me that you play sports, are you?' Barinov probes wryly toward Rodion here, linking "skazhete" ("will you say"), "zanimayetes" ("are busy with"), and "sportom" ("sport, sports") in one brisk exchange.
-- 'Do you doubt it?' Vika quizzes naturally right away, leaning on "somnevayetes" ("to doubt") before closing the thought with "vy" ("you").
-- 'I have no doubts.' Rodion brings an earnest position straight away, leaning on "imeyu" ("have") before closing the thought with "ya" ("I").
-- 'You do not say?' Barinov questions briskly without holding back, combining "govorite" ("say, speak") and "chto" ("what") so the key meaning lands right away.
-- 'Maybe the two of us should go jogging together?' Vika prompts steadily across the room, linking "mozhet" ("can"), "vmeste" ("together"), and "pobegayem" ("runs around") in one brisk exchange.
-- 'We will go for a run first thing tomorrow.' Rodion establishes a wry footing during the exchange, building the phrase around "pryamo" ("right, just") and "zavtra" ("tomorrow") for a crisp, natural delivery.
-- 'Right here in the park.' Barinov strikes an easygoing note for Rodion, leaning on "zdes" ("here") before closing the thought with "parke" ("park").
+- 'Happy birthday.' Barinov centers one memorable piece toward Rodion: "rozhdeniya" means "of birth" (from "rozhdeniye"), giving the line its exact edge.
+- 'Maybe I should give you some pills?' Vika voices this warning without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Rodion purely through rising pitch at the end.
+- 'There is no need.' Rodion proceeds honestly with a smile, watching Barinov's face to see how the news lands.
+- 'Good morning, Viktor Petrovich.' Vika spotlights one practical element with Rodion: "dobroye" means "good" (from "dobryy"), giving the line its exact edge.
+- 'Rodion Sergeyevich.' Vika shapes that point without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Should I suggest where to hide the body?' Rodion prompts skeptically where this conversation is heading next.
+- 'You are not going to tell me that you play sports, are you?' Barinov frames one memorable expression at once: "zanimayetes" means "are busy with" (from "zanimatsya"), giving the line its exact edge.
+- 'Do you doubt it?' Vika delivers that remark facing Rodion: the "-sya" ending on "somnevayetes" ("to doubt") turns the action inward or makes it happen between people naturally.
+- 'I have no doubts.' Rodion continues sharply beside Barinov, leaving no doubt about where he stands.
+- 'You do not say?' Barinov anchors this direct word with Vika: "govorite" means "say, speak" (from "govorit"), giving the line its exact edge.
+- 'Maybe the two of us should go jogging together?' Vika puts this line in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'We will go for a run first thing tomorrow.' Rodion cuts in candidly to be clear, letting the remark speak for itself.
+- 'Right here in the park.' Barinov underscores this vivid choice right here: "parke" means "park" (from "park"), giving the line its exact edge.

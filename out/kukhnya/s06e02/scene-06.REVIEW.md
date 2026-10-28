@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Fillet of wild pigeon with a bonbon.' Nikita brings a frank mood in the conversation, combining "file" ("fillet") and "dikogo" ("wild, terrible") so the key meaning lands right away.
-- 'And why is it so expensive?' Denis quizzes honestly as the talk turns, placing "pochemu" ("why") straight beside "dorogo" ("expensive") with no word for "to be" needed.
-- 'Probably, it is very rare.' Nikita adopts a serious tone straight away, linking "navernoye" ("probably") directly with "ochen" ("very much"), since Russian drops "is" and "are" in the present.
-- 'Is there a normal restaurant nearby?' Denis checks evenly to Nikita here, linking "normalnyy" ("decent, normal"), "restoran" ("restaurant"), and "poblizosti" ("nearby") in one brisk exchange.
-- 'What is new, Denis?' Kostya inquires naturally in front of Denis, anchoring the Russian line on "novogo" ("new") and "chto" ("what") without extra filler.
-- 'I cannot make up with Katya.' Denis strikes a calm style in the room, joining "mogu" ("can") to "pomiritsya" ("to make peace") so every word pulls its weight.
-- 'She throws away flowers and does not pick up the phone.' Denis presents a playful manner at this moment, putting "tsvety" ("the flowers") alongside "vybrasyvayet" ("throws away") in a tight, everyday turn of phrase.
-- 'Are you kidding?' Kostya tests warmly in the room, joining "izdevayeshsya" ("are kidding") to "ty" ("you") so every word pulls its weight.
-- 'Tonight everyone will have a drink and relax.' Kostya displays an honest course beside Denis, pairing "rasslabyatsya" ("will relax") with "segodnya" ("today") so the "-sya" ending carries the action.
-- 'I will try talking to her once more.' Denis takes an earnest stance without hesitation, putting "yeshchyo" ("more, still") alongside "raz" ("time, once") in a tight, everyday turn of phrase.
-- 'Listen, could you talk to Katya?' Nikita questions candidly to keep things clear, pairing "slushay" ("listen") with "mog" ("can, to be able") to get the point across in plain spoken Russian.
-- 'I am agonizing and want to make up.' Nikita offers a sharp note across the room, building the phrase around "muchayus" ("I suffer") and "pomiritsya" ("to make peace") for a crisp, natural delivery.
+- 'Fillet of wild pigeon with a bonbon.' Nikita continues decisively with a shrug, without trying to dress up how he really feels.
+- 'And why is it so expensive?' Denis focuses on one key element for Nikita: "dorogo" means "expensive", and it carries the main weight of what Denis is saying.
+- 'Probably, it is very rare.' Nikita frames this answer calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Is there a normal restaurant nearby?' Denis questions skeptically if there is more going on behind the scenes.
+- 'What is new, Denis?' Kostya stresses this direct choice on cue: "novogo" means "new" (from "novyy"), giving the line its exact edge.
+- 'I cannot make up with Katya.' Denis phrases the comeback on cue: the "-sya" ending on "pomiritsya" ("to make peace") turns the action inward or makes it happen between people naturally.
+- 'She throws away flowers and does not pick up the phone.' Denis follows up pointedly to settle things, keeping the focus on what actually matters here.
+- 'Are you kidding?' Kostya picks this vivid expression in earnest: "izdevayeshsya" means "are kidding" (from "izdevatsya"), giving the line its exact edge.
+- 'Tonight everyone will have a drink and relax.' Kostya voices that reply to Denis: the "-sya" ending on "rasslabyatsya" ("will relax") turns the action inward or makes it happen between people naturally.
+- 'I will try talking to her once more.' Denis speaks briskly without holding back, testing Nikita's reaction in the middle of the exchange.
+- 'Listen, could you talk to Katya?' Nikita picks one vivid piece with Denis: "pogovorit" means "to talk", and it carries the main weight of what Nikita is saying.
+- 'I am agonizing and want to make up.' Nikita states this answer plainly here: the "-sya" ending on "pomiritsya" ("to make peace") turns the action inward or makes it happen between people naturally.

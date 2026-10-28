@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By copying facial expressions, you gain control.' Lyova brings a grounded posture during the exchange, combining "kopiruya" ("copying") and "mimiku" ("facial") so the key meaning lands right away.
-- 'Can you imagine what German thought up?' Barinov challenges frankly toward Lyova here, combining "predstavlyayesh" ("can you imagine") and "pridumal" ("came up with") so the key meaning lands right away.
-- 'He planted a live snake on us!' Barinov establishes a calm approach on the spot, combining "zhivuyu" ("living") and "zmeyu" ("snake") so the key meaning lands right away.
-- 'What should we do to him?' Barinov probes boldly as the beat lands, joining "nado" ("it is necessary") to "sdelat" ("to do") so every word pulls its weight.
-- 'Do nothing at all, chef.' Lyova sets a playful direction right away, doubling the negative with "ne" ("not") and "delat" ("do"), which is standard and required in Russian.
-- 'He will be waiting for a dirty trick from you.' Lyova strikes a direct footing as they talk, using "budet" (from "byt", "will be") alongside "zhdat" ("to wait") to shape the meaning.
-- 'No, that is too simple for him.' Barinov chooses a thoughtful attitude straight away, combining the softening word "prosto" ("simply, just") with "slishkom" ("too") to give the line its natural spoken rhythm.
-- 'Not simple at all, dear chef.' Lyova adopts a clear tone as the scene unfolds, building the phrase around "sovsem" ("at all") and "prosto" ("just") for a crisp, natural delivery.
-- 'Why are you doing that right now?' Barinov inquires candidly with Lyova now, combining "zachem" ("what for") and "seychas" ("now") so the key meaning lands right away.
-- 'And what am I doing?' Lyova inquires wryly to make the point, linking "delayu" ("I make"), "chto" ("what"), and "ya" ("I") in one brisk exchange.
-- 'You are getting on my nerves really badly!' Barinov sustains a playful note without hesitation, weaving "ochen" ("very much") together with "silno" ("strongly, much") just the way native speakers do.
-- 'Well, do not get so worked up, chef.' Lyova adopts a serious footing in the conversation, anchoring the Russian line on "nervnichayte" ("to be nervous") and "nu" ("oh, come on") without extra filler.
-- 'What, are you mocking me?' Barinov inquires naturally during the talk, leaning on "izdevayeshsya" ("are kidding") before closing the thought with "nado" ("it is necessary").
-- 'Just get out of here already!' Barinov maintains a pointed mood across the room, anchoring the Russian line on "ukhodi" ("go away") and "uzhe" ("already, now") without extra filler.
+- 'By copying facial expressions, you gain control.' Lyova leans on one telling expression on cue: "poluchayete" means "to receive" (from "poluchat"), giving the line its exact edge.
+- 'Can you imagine what German thought up?' Barinov directs that answer with warmth: putting the question word "chto" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'He planted a live snake on us!' Barinov cuts in openly without a pause, refusing to let the moment slip past.
+- 'What should we do to him?' Barinov stresses one familiar element toward Lyova: "sdelat" means "to do", and it carries the main weight of what Barinov is saying.
+- 'Do nothing at all, chef.' Lyova aims this warning beside Barinov: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'He will be waiting for a dirty trick from you.' Lyova replies at once around Barinov, leaving no doubt about where he stands.
+- 'No, that is too simple for him.' Barinov chooses one clear term at once: "slishkom" means "too", and it carries the main weight of what Barinov is saying.
+- 'Not simple at all, dear chef.' Lyova gives the thought on cue: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Why are you doing that right now?' Barinov asks plainly where this conversation is heading next.
+- 'And what am I doing?' Lyova stresses one familiar expression at once: "delayu" means "I make" (from "delat"), giving the line its exact edge.
+- 'You are getting on my nerves really badly!' Barinov grounds one concrete element at once: "nerviruyesh" means "to badly" (from "nervirut"), giving the line its exact edge.
+- 'Well, do not get so worked up, chef.' Lyova reacts honestly beside Barinov, without trying to dress up how he really feels.
+- 'What, are you mocking me?' Barinov reaches for one pointed touch for Lyova: "izdevayeshsya" means "are kidding" (from "izdevatsya"), giving the line its exact edge.
+- 'Just get out of here already!' Barinov spotlights one clear expression for Lyova: "otsyuda" means "from here", and it carries the main weight of what Barinov is saying.

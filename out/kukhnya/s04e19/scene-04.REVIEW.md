@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Katya, look at my hands.' Denis shares a steady approach in the scene, leaning on "posmotri" ("look") before closing the thought with "ruki" ("hands").
-- 'Tell me, is everything all right with them?' Denis queries plainly in their exchange, pairing "skazhi" ("say") with "khorosho" ("good, fine") to get the point across in plain spoken Russian.
-- 'Good grief, you have two of them.' Katya shows a direct note in front of Denis, combining "u tebya" (literally "by you") with "dve" ("two") rather than a separate word for "have".
-- 'Lie back down and go to sleep.' Katya takes a grounded bearing in the room, combining the everyday invitation "davay" ("come on, let us") with "lozhis" ("lie down") to give the line its natural spoken rhythm.
-- 'I just had a strange dream.' Denis keeps a sharp view across the room, combining "prosto" ("just") and "prisnilsya" ("appeared in a dream") so the key meaning lands right away.
-- 'You will tell me everything in the morning, good night.' Katya offers a warm tack on the spot, joining "utrom" ("this morning") to "rasskazhesh" ("you will tell") so every word pulls its weight.
-- 'Kostya, it is six o'clock already, time to get up.' Katya presents a brisk course beside Denis, joining "uzhe" ("already, now") to "chasov" ("o'clock") so every word pulls its weight.
-- 'We need to take Styopa to my parents' Katya picks a lively stance on the spot, putting "nado" ("it is necessary") alongside "styopu" ("take") in a tight, everyday turn of phrase.
-- 'Nastya, maybe he can get there by himself?' Kostya asks briskly during the talk, combining "mozhet" ("can") and "doyedet" ("to reach, arrive") so the key meaning lands right away.
-- 'I will explain everything to him in detail.' Kostya projects a warm manner as the scene unfolds, pairing "podrobno" ("in detail") with "obyasnyu" ("I'll explain") to get the point across in plain spoken Russian.
-- 'It is not complicated at all.' Kostya chooses a sharp note with Denis, combining the intensifier "sovsem" ("completely, at all") with "tam" ("there") to give the line its natural spoken rhythm.
-- 'All right, do not be angry, I am getting up already.' Kostya shows a measured bearing in the scene, combining the easygoing tag "ladno" ("okay, fine") with "zlis" ("be angry") to give the line its natural spoken rhythm.
+- 'Katya, look at my hands.' Denis highlights one memorable term on cue: "posmotri" means "look" (from "posmotret"), giving the line its exact edge.
+- 'Tell me, is everything all right with them?' Denis gives that reply beside Kostya: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Good grief, you have two of them.' Katya steps in honestly in their talk, testing Denis's reaction in the middle of the exchange.
+- 'Lie back down and go to sleep.' Katya grounds one pointed piece at once: "obratno" means "back", and it carries the main weight of what Katya is saying.
+- 'I just had a strange dream.' Denis shares this point with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'You will tell me everything in the morning, good night.' Katya weighs in lightly hearing Kostya, to clear the air between them once and for all.
+- 'Kostya, it is six o'clock already, time to get up.' Katya chooses this direct word for Denis: "chasov" means "o'clock" (from "chas"), giving the line its exact edge.
+- 'We need to take Styopa to my parents' Katya sends the reply before Kostya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Nastya, maybe he can get there by himself?' Kostya quizzes deadpan whether Denis really thought this through.
+- 'I will explain everything to him in detail.' Kostya emphasizes one colorful word at once: "podrobno" means "in detail", and it carries the main weight of what Kostya is saying.
+- 'It is not complicated at all.' Kostya frames this point before Denis: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'All right, do not be angry, I am getting up already.' Kostya steps in boldly facing Katya, so Katya knows he is not just making small talk.

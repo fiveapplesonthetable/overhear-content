@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, you braked just in time.' Max brings a brisk bearing beside Vika, putting "vovremya" ("at the right time") alongside "tormoznula" ("braked, stopped") in a tight, everyday turn of phrase.
-- 'You need to be more careful behind the wheel.' Max chooses a calm angle in the scene, combining "vnimatelneye" ("more careful") and "nuzhno" ("necessary") so the key meaning lands right away.
-- 'I will manage without your advice.' Vika offers a candid attitude beside Max, anchoring the Russian line on "oboydus" ("will manage") and "sovetov" ("advice, tips") without extra filler.
-- 'Vika, I thought about it here and decided.' Max shares an honest approach on the spot, anchoring the Russian line on "tut" ("here") and "podumal" ("would think") without extra filler.
-- 'I am ready to accept this child.' Max establishes a brisk position with Vika, combining "gotov" ("ready") and "prinyat" ("to accept, hire") so the key meaning lands right away.
-- 'I will raise him as my own.' Max chooses a resolute bearing toward Vika, putting "budu" ("will be") alongside "vospityvat" ("educate") in a tight, everyday turn of phrase.
-- 'You know, I thought about it here and decided.' Vika strikes a brisk style at this moment, building the phrase around "znayesh" ("know") and "tut" ("here") for a crisp, natural delivery.
-- 'I do not want to see you anymore.' Vika offers a calm line with Max, building the phrase around "khochu" ("want") and "bolshe" ("more") for a crisp, natural delivery.
-- 'Are you sure?' Max wonders briskly across the room, putting all the weight on "uverena" ("sure, confident") so the reply lands immediately.
-- 'In that case, there is nothing left for me to do here.' Max keeps a direct posture in this beat, linking "sluchaye" ("case, event"), "zdes" ("here"), and "bolshe" ("more") in one brisk exchange.
-- 'I am leaving.' Max projects an easygoing view right away, weaving "uyezzhayu" ("am leaving") together with "ya" ("I") just the way native speakers do.
-- 'Next to a woman there should be a man she can lean on.' Vika takes an emphatic posture in their talk, leaning on "ryadom" ("nearby") before closing the thought with "zhenshchinoy" ("a woman").
+- 'Hi, you braked just in time.' Max phrases the remark frankly here: opening with the casual greeting "privet" ("hi") signals right away that Max and Vika are on familiar terms.
+- 'You need to be more careful behind the wheel.' Max responds briskly across the room, testing Vika's reaction in the middle of the exchange.
+- 'I will manage without your advice.' Catch how Vika updates Max in reply — the Russian word "sovetov" ("advice, tips", built from "sovet") does the heavy lifting.
+- 'Vika, I thought about it here and decided.' Max opens up briskly to be clear, saying out loud what both of them already know.
+- 'I am ready to accept this child.' Max cuts in bluntly across the room, to clear the air between them once and for all.
+- 'I will raise him as my own.' Max reaches for this vivid touch on cue: "vospityvat" means "educate", and it carries the main weight of what Max is saying.
+- 'You know, I thought about it here and decided.' Vika sharpens one sharp piece in reply: "podumala" means "thought" (from "podumat"), giving the line its exact edge.
+- 'I do not want to see you anymore.' Vika weighs in right away to be clear, bringing things back to earth after the buildup.
+- 'Are you sure?' Max centers this sharp piece on cue: "uverena" means "sure, confident" (from "uverennyy"), giving the line its exact edge.
+- 'In that case, there is nothing left for me to do here.' Max counters right away without holding back, leaving no doubt about where he stands.
+- 'I am leaving.' Max jumps in decisively watching Vika, leaving no doubt about where he stands.
+- 'Next to a woman there should be a man she can lean on.' Vika centers this direct word in earnest: "zhenshchinoy" means "a woman" (from "zhenshchina"), giving the line its exact edge.

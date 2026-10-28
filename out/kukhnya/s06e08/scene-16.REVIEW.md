@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything is clear, thanks for the birthday wishes and goodbye!' Katya sustains a serious attitude on the spot, anchoring the Russian line on "ponyatno" ("clear") and "spasibo" ("thank you") without extra filler.
-- 'Katya, wait, I was only joking!' Nagiyev shows a measured stance right away, linking "podozhdi" ("wait"), "prosto" ("just"), and "poshutil" ("to joke") in one brisk exchange.
-- 'Speak immediately, where are you hiding her right now?' Barinov quizzes evenly without holding back, anchoring the Russian line on "govori" ("say, talk") and "nemedlenno" ("immediately") without extra filler.
-- 'I simply lay down to sleep, do you not see?' Nagiyev checks evenly toward Katya here, combining the softening word "prosto" ("simply, just") with "spat" ("sleep") to give the line its natural spoken rhythm.
-- 'Dima, you had better not make me angry right now!' Barinov adopts a candid course at once, putting "luchshe" ("better") alongside "zli" ("anger") in a tight, everyday turn of phrase.
-- 'Fine, I admit it honestly, she is in the shower right now.' Nagiyev offers a warm tempo across the room, anchoring the Russian line on "priznayus" ("to confess") and "chestno" ("honestly") without extra filler.
-- 'But you will not give me away to Elya, right?' Nagiyev inquires calmly at this point, joining "vydash" ("to issue, give out") to "pravda" ("honestly") so every word pulls its weight.
-- 'You are a man, you must understand me!' Nagiyev holds a resolute tempo in this beat, combining "muzhchina" ("man") and "dolzhen" ("has to, must") so the key meaning lands right away.
-- 'After all, you already covered for me once.' Nagiyev sets a grounded manner as the scene unfolds, joining "uzhe" ("already, now") to "prikryl" ("to cover") so every word pulls its weight.
-- 'Oh you shameless scoundrel, I will kill you!' Barinov presents a firm bearing in the room, putting "bessovestnyy" ("shameless") alongside "negodyay" ("scoundrel, rascal") in a tight, everyday turn of phrase.
-- 'Vitya, stop, have you completely lost your mind?' Nagiyev presses calmly on the spot, pairing "ostanovis" ("to stop") with "sovsem" ("at all") to get the point across in plain spoken Russian.
-- 'I will show you right now what happens when you wrong my daughter!' Barinov takes a measured approach across the room, joining "seychas" ("now") to "pokazhu" ("will show") so every word pulls its weight.
+- 'Everything is clear, thanks for the birthday wishes and goodbye!' Katya centers this direct term at once: "pozdravleniye" means "wish" (from "pozdravleniy"), giving the line its exact edge.
+- 'Katya, wait, I was only joking!' Nagiyev sends the thought to Katya: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Speak immediately, where are you hiding her right now?' Barinov prompts plainly while looking straight at Katya here.
+- 'I simply lay down to sleep, do you not see?' Nagiyev anchors one clear expression right here: "prosto" means "just", and it carries the main weight of what Nagiyev is saying.
+- 'Dima, you had better not make me angry right now!' Barinov reacts pointedly to settle things, without trying to dress up how he really feels.
+- 'Fine, I admit it honestly, she is in the shower right now.' Nagiyev weighs in bluntly with a smile, keeping the focus on what actually matters here.
+- 'But you will not give me away to Elya, right?' Nagiyev stresses one practical detail at once: "pravda" means "honestly", and it carries the main weight of what Nagiyev is saying.
+- 'You are a man, you must understand me!' Nagiyev centers one sharp detail with Katya: "muzhchina" means "man", and it carries the main weight of what Nagiyev is saying.
+- 'After all, you already covered for me once.' Nagiyev answers pointedly to be clear, testing Barinov's reaction in the middle of the exchange.
+- 'Oh you shameless scoundrel, I will kill you!' Barinov reaches for one telling touch in reply: "bessovestnyy" means "shameless", and it carries the main weight of what Barinov is saying.
+- 'Vitya, stop, have you completely lost your mind?' Nagiyev shares the comeback toward Barinov: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'I will show you right now what happens when you wrong my daughter!' Barinov speaks frankly with a smile, without trying to dress up how he really feels.

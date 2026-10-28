@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This Spartak does not even know how to play here.' Barinov takes a brisk approach for Alisa, pairing "tut" ("here") with "igrat" ("to play") to get the point across in plain spoken Russian.
-- 'This is the key to Vika's apartment.' Tanya chooses a resolute tack toward Barinov, linking "klyuch" ("key"), "vikinoy" ("Vika's"), and "kvartiry" ("flat") in one brisk exchange.
-- 'You need to go there and assemble the crib.' Tanya favors a candid tone right away, putting "nuzhno" ("necessary") alongside "poyekhat" ("to go") in a tight, everyday turn of phrase.
-- 'Tomorrow she is being discharged from the maternity hospital.' Tanya sets an unhurried direction straight away, linking "zavtra" ("tomorrow"), "roddoma" ("maternity hospital"), and "vypisyvayut" ("they discharge") in one brisk exchange.
-- 'Wait, what do I have to do with this?' Barinov presses pointedly in this moment, putting "podozhdi" ("wait") alongside "tut" ("here") in a tight, everyday turn of phrase.
-- 'She is not asking her husband for anything.' Tanya favors a playful line at once, weaving "muzha" ("husband") together with "prosit" ("is asking for") just the way native speakers do.
-- 'We are swamped in the kitchen today.' Barinov sets a playful tempo right away, linking "segodnya" ("today") directly with "kukhne" ("kitchen"), since Russian drops "is" and "are" in the present.
-- 'I can see just how swamped you are.' Tanya holds a frank rhythm as the scene unfolds, using "vizhu" (from "videt", "see") alongside "zaval" ("pile-up, rush of work") to shape the meaning.
-- 'Dad, assemble the crib, please.' Alisa adopts a firm bearing beside Barinov, leaning on "papa" ("Dad") before closing the thought with "soberi" ("to collect").
-- 'You are the very best dad.' Alisa brings a frank angle with Tanya, combining "samyy" ("the most") and "luchshiy" ("best") so the key meaning lands right away.
-- 'Shelves also need to be put up there, will you do it?' Tanya tests openly for Alisa's benefit, putting "tam" ("there") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
-- 'And do the floors not need washing there too?' Barinov presses firmly in the room, combining "poly" ("floors") and "pomyt" ("to wash") so the key meaning lands right away.
+- 'This Spartak does not even know how to play here.' Barinov speaks wryly with a smile, leaving no doubt about where he stands.
+- 'This is the key to Vika's apartment.' Tanya responds at once in their talk, keeping the focus on what actually matters here.
+- 'You need to go there and assemble the crib.' Tanya leans on one telling choice on cue: "krovatku" means "baby crib" (from "krovatka"), giving the line its exact edge.
+- 'Tomorrow she is being discharged from the maternity hospital.' Tanya answers honestly on the spot, before Barinov can change the subject.
+- 'Wait, what do I have to do with this?' Barinov asks openly as Alisa tries to explain the situation.
+- 'She is not asking her husband for anything.' Tanya favors one direct piece on cue: "muzha" means "husband" (from "muzh"), giving the line its exact edge.
+- 'We are swamped in the kitchen today.' Barinov shares that line briskly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'I can see just how swamped you are.' Tanya proceeds evenly hearing Barinov, grounding the moment in plain reality.
+- 'Dad, assemble the crib, please.' Alisa spotlights this key detail at once: "krovatku" means "baby crib" (from "krovatka"), giving the line its exact edge.
+- 'You are the very best dad.' Alisa voices that remark in earnest: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Shelves also need to be put up there, will you do it?' Tanya asks earnestly as Alisa tries to explain the situation.
+- 'And do the floors not need washing there too?' Barinov chooses this vivid expression toward Tanya: "poly" means "floors", and it carries the main weight of what Barinov is saying.

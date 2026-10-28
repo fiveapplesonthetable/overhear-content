@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You probably just got a defective turnstile.' Barinov establishes a clear stance during the exchange, weaving "navernoye" ("probably") together with "prosto" ("just") just the way native speakers do.
-- 'Fedya, what happened to your gloves?' Barinov queries honestly beside Vika, putting "perchatkami" ("with gloves") alongside "fedya" ("Fedya") in a tight, everyday turn of phrase.
-- 'Look, they tore! Fedya, put on new ones.' Barinov keeps a steady rhythm on the spot, anchoring the Russian line on "smotri" ("look") and "porvalis" ("tore, ripped") without extra filler.
-- 'What is wrong? Do you not know where the new ones are?' Barinov questions decisively during the talk, leaning on "znayesh" ("know") before closing the thought with "gde" ("where").
-- 'I really do not know where the new ones are.' Fedya maintains a thoughtful position across the room, linking "pravda" ("honestly"), "znayu" ("know"), and "gde" ("where") in one brisk exchange.
-- 'And these new gloves have disappeared somewhere too!' Barinov shows a brisk manner toward Vika, linking "novyye" ("new"), "perchatki" ("gloves"), and "tozhe" ("too") in one brisk exchange.
-- 'I love our chain's new management so much!' Barinov strikes an emphatic line in the room, building the phrase around "lyublyu" ("love") and "novoye" ("new") for a crisp, natural delivery.
-- 'Good for you, what a good boy you are!' Barinov adopts an earnest posture at once, joining "molodets" ("well done, good boy") to "ty" ("you") so every word pulls its weight.
-- 'Now you will be the best employee of this month.' Barinov sustains a warm position at once, building the phrase around "teper" ("now") and "budesh" ("will") for a crisp, natural delivery.
-- 'Viktor Petrovich, tell me, have you finished already?' Vika presses bluntly in their exchange, putting "skazhi" ("say") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'No, I can gladly continue some more.' Barinov maintains an earnest angle on the spot, anchoring the Russian line on "mogu" ("can") and "radostyu" ("joy, pleasure") without extra filler.
-- 'No need, please come to the office right now.' Vika brings a steady footing straight away, anchoring the Russian line on "nado" ("it is necessary") and "poydyom" ("let's go") without extra filler.
+- 'You probably just got a defective turnstile.' Barinov emphasizes one telling word in reply: "turniket" means "turnstile", and it carries the main weight of what Barinov is saying.
+- 'Fedya, what happened to your gloves?' Barinov sends that point facing Vika: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Look, they tore! Fedya, put on new ones.' Barinov counters at once as things stand, bringing things back to earth after the buildup.
+- 'What is wrong? Do you not know where the new ones are?' Barinov points to this key touch at once: "novyye" means "new" (from "novyy"), giving the line its exact edge.
+- 'I really do not know where the new ones are.' Fedya chimes in steadily to settle things, saying out loud what both of them already know.
+- 'And these new gloves have disappeared somewhere too!' Barinov steps in quietly in this moment, grounding the moment in plain reality.
+- 'I love our chain's new management so much!' Barinov favors this sharp word on cue: "rukovodstvo" means "leadership", and it carries the main weight of what Barinov is saying.
+- 'Good for you, what a good boy you are!' Barinov directs the reply calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Now you will be the best employee of this month.' Barinov stands firm at once watching Fedya, shifting the whole mood of the room in a single beat.
+- 'Viktor Petrovich, tell me, have you finished already?' Vika chooses this direct touch in reply: "zakonchil" means "finished" (from "zakonchit"), giving the line its exact edge.
+- 'No, I can gladly continue some more.' Barinov chimes in boldly beside Fedya, so Fedya knows he is not just making small talk.
+- 'No need, please come to the office right now.' Vika continues boldly in their talk, so Fedya knows she is not just making small talk.

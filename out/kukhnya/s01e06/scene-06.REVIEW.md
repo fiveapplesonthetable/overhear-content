@@ -35,7 +35,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Where do you see a mess, my dear?' Feigning innocence, Barinov acts blindly defensive of his domain.
 - 'Look for yourself what a clean shelf this is!' Barinov points to a single tidy spot while ignoring the chaos everywhere else.
 - 'A little money solves any big problems.' Brazenly, Barinov implies that a small bribe will make any violations disappear.
-- 'If there were order, we wouldn' Snapping back, Vika says corruption wouldn't be necessary if he just cleaned up.
+- 'If there were order, we wouldn't pay!' Snapping back, Vika says corruption wouldn't be necessary if he just cleaned up.
 - 'There is always a lot of work in a restaurant kitchen.' Barinov excuses the clutter by citing their immense workload.
 - 'Inspectors look for violations only for money.' Cynically dismissing the officials, Barinov calls them nothing but extortionists.
 - 'We must urgently establish perfect cleanliness.' Vika demands an immediate and thorough deep clean of the premises.

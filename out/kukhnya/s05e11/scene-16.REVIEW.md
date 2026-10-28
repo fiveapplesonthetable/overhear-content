@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Right now we will amaze them! Good evening, gentlemen.' Barinov sustains a measured style right away, leaning on "seychas" ("now") before closing the thought with "udivim" ("will surprise").
-- 'Good evening, Eleonora Andreyevna.' Barinov maintains a measured course as the scene unfolds, linking "dobryy" ("good"), "vecher" ("evening"), and "eleonora" ("Eleonora") in one brisk exchange.
-- 'Allow me to introduce to you our new cook Artyom.' Barinov picks a direct position in the room, anchoring the Russian line on "razreshite" ("allow") and "predstavit" ("to imagine") without extra filler.
-- 'Enjoy your meal!' Barinov projects a serious attitude for Max, pairing "priyatnogo" ("pleasant") with "appetita" ("appetite") to get the point across in plain spoken Russian.
-- 'It is me! My friend's blood pressure went up.' Max picks a calm direction straight away, joining "podrugi" ("female friends") to "davleniye" ("blood pressure") so every word pulls its weight.
-- 'So that means you can drink and eat what is forbidden?' Max tests directly in the room, leaning on "znachit" ("then, so") before closing the thought with "mozhno" ("may, can").
-- 'Calm down! Sit down, I am not drinking for no reason.' Eleonora shares a calm tone at this moment, combining "uspokoysya" ("calm down") and "syad" ("sit down") so the key meaning lands right away.
-- 'There is a reason.' Eleonora establishes an honest style in this beat, pairing "povod" ("reason, occasion") with "yest" ("there is") to get the point across in plain spoken Russian.
-- 'What reason could you possibly have?' Max challenges calmly without a pause, putting "yeshchyo" ("more, still") alongside "povod" ("reason, occasion") in a tight, everyday turn of phrase.
-- 'You see, Maxim and Vika are getting divorced.' Eleonora sets a grounded approach at once, weaving "ponimayesh" ("do you understand") together with "razvodyatsya" ("are getting divorced") just the way native speakers do.
-- 'Judging by their faces, they are pleased.' Barinov conveys an earnest note in the room, joining "sudya" ("judging") to "litsam" ("face, person") so every word pulls its weight.
-- 'A triumph awaits you!' Barinov brings a direct tack beside Max, putting "zhdyot" ("is waiting") alongside "triumf" ("triumph") in a tight, everyday turn of phrase.
+- 'Right now we will amaze them! Good evening, gentlemen.' Listen to how Barinov counters Eleonora with urgency — the Russian word "gospoda" ("gentlemen", built from "gospodin") does the heavy lifting.
+- 'Good evening, Eleonora Andreyevna.' Barinov aims the reply around Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Allow me to introduce to you our new cook Artyom.' Barinov holds firm briskly without any doubt, before Eleonora can change the subject.
+- 'Enjoy your meal!' Barinov emphasizes one telling touch for Max: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.
+- 'It is me! My friend's blood pressure went up.' Max holds firm earnestly without any doubt, keeping the focus on what actually matters here.
+- 'So that means you can drink and eat what is forbidden?' Max prompts plainly in front of Eleonora without any preamble.
+- 'Calm down! Sit down, I am not drinking for no reason.' Eleonora frames this direct expression toward Barinov: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
+- 'There is a reason.' Eleonora directs that thought right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What reason could you possibly have?' Max questions deadpan why things suddenly took this turn between them.
+- 'You see, Maxim and Vika are getting divorced.' Eleonora picks this vivid touch at once: "razvodyatsya" means "are getting divorced" (from "razvoditsya"), giving the line its exact edge.
+- 'Judging by their faces, they are pleased.' Barinov drops this update facing Eleonora: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'A triumph awaits you!' Barinov continues sharply watching Max, so Max knows he is not just making small talk.

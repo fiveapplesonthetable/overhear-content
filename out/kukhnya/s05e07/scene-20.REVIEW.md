@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Yes.' Vika shares a serious approach in the conversation, using "da" ("yes") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Congratulations.' Barinov offers an easygoing stance as the scene unfolds, letting the single Russian word "pozdravlyayu" ("congratulations") carry the entire reaction on its own.
-- 'So what did you want?' Barinov wonders briskly at this point, putting "khotela" ("wanted, meant") alongside "tak" ("so") in a tight, everyday turn of phrase.
-- 'We all want to seem strong.' Barinov keeps a natural bearing straight away, pairing "khotim" ("want") with "kazatsya" ("to seem") to get the point across in plain spoken Russian.
-- 'But our whole life we look for a close person.' Barinov offers a calm mood in the scene, pairing "zhizn" ("life") with "ishchem" ("are looking for") to get the point across in plain spoken Russian.
-- 'To whom it is not scary to admit our weaknesses.' Barinov shows a brisk view at once, leaning on "strashno" ("scary, frightening") before closing the thought with "priznatsya" ("to admit").
-- 'When our other half is not nearby, life is meaningless.' Barinov brings a playful tempo right away, joining "kogda" ("when") to "vtoroy" ("second") so every word pulls its weight.
-- 'We waste it on all kinds of nonsense.' Barinov presents an earnest rhythm in this beat, anchoring the Russian line on "tratim" ("spend, waste") and "yerundu" ("nonsense") without extra filler.
-- 'Begin!' Elena sets a resolute tempo at once, using "nachinay" ("start") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'In the heart there is always one club, it is invincible.' Barinov sustains a warm stance in the room, combining "serdtse" ("heart") and "klub" ("club, nightclub") so the key meaning lands right away.
-- 'Vitya, come on, pull yourself together, wimp, one more time!' Elena strikes a lively footing beside Barinov, putting "davay" ("let's") alongside "soberis" ("pull yourself together") in a tight, everyday turn of phrase.
-- 'Although in reality we consist of our weaknesses.' Barinov favors a pointed direction beside Vika, using "samom" (from "samyy", "very") alongside "dele" ("case") to shape the meaning.
+- 'Yes.' Vika shapes this line with ease: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'Congratulations.' Barinov weighs in at once on the spot, watching Vika's face to see how the news lands.
+- 'So what did you want?' Barinov centers one telling detail in earnest: "khotela" means "wanted, meant" (from "khotet"), giving the line its exact edge.
+- 'We all want to seem strong.' Barinov counters earnestly in this moment, refusing to let the moment slip past.
+- 'But our whole life we look for a close person.' Barinov weighs in calmly beside Elena, grounding the moment in plain reality.
+- 'To whom it is not scary to admit our weaknesses.' Barinov uses one sharp choice on cue: "slabostyakh" means "weaknesses" (from "slabost"), giving the line its exact edge.
+- 'When our other half is not nearby, life is meaningless.' Barinov shapes that point with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We waste it on all kinds of nonsense.' Barinov follows up quietly with Vika, bringing things back to earth after the buildup.
+- 'Begin!' Elena features this sharp element in reply: "nachinay" means "start" (from "nachinat"), giving the line its exact edge.
+- 'In the heart there is always one club, it is invincible.' Barinov phrases this answer briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Vitya, come on, pull yourself together, wimp, one more time!' Elena replies firmly hearing Barinov, keeping the focus on what actually matters here.
+- 'Although in reality we consist of our weaknesses.' Barinov underscores this direct element in earnest: "slabostey" means "weakness" (from "slabost"), giving the line its exact edge.

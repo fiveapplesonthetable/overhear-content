@@ -40,7 +40,7 @@ WALK = [
     (5, None, "'They are on guard at the entrance.' Max quickly points out a fatal flaw in the escape plan, noting that the exits are watched."),
     (6, None, "'He will sit in the hall.' Changing strategies on the fly, the chef decides to hide the person in plain sight among the customers."),
     (7, None, "'Go to the bar, take clothes.' Barinov barks out a rapid series of orders, telling someone to fetch a disguise."),
-    (8, None, "'Endure, come on.' Urging the person to hold on, the speaker offers rough encouragement to tough out the difficult situation."),
+    (8, None, "'Endure, come on.' Whispering through the rack of spice jars, Barinov urges Ainura to hold still just a little longer."),
     (9, None, "'I congratulate you.' The inspector offers formal praise, likely hiding his disappointment at finding nothing."),
     (10, None, "'Everything is clean with you.' Admitting defeat, the official confirms that the restaurant passed the inspection flawlessly."),
     (11, None, "'I told you right away.' The chef smugly reminds the officer that he had claimed innocence from the very beginning."),

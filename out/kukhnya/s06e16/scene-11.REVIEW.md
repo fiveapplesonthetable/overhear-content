@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How can you look me in the eyes?' Nastya prompts candidly as they speak, anchoring the Russian line on "kak" ("how") and "mozhesh" ("can") without extra filler.
-- 'Tell me, how could you cheat on me?' Nastya questions honestly for Kostya's benefit, putting "skazhi" ("say") alongside "kak" ("how") in a tight, everyday turn of phrase.
-- 'Wait, what are you talking about right now?' Kostya quizzes decisively as the beat lands, weaving "podozhdi" ("wait") together with "seychas" ("now") just the way native speakers do.
-- 'I just heard everything myself!' Nastya conveys a resolute tempo right away, weaving "tolko" ("only") together with "slyshala" ("to hear") just the way native speakers do.
-- 'That model went to a room with the bartender!' Nastya presents a warm tack in front of Kostya, pairing "model" ("model") with "khodila" ("walked, circled") to get the point across in plain spoken Russian.
-- 'That was not me, Nastya!' Kostya chooses an earnest rhythm at once, leaning on "byl" ("was") before closing the thought with "da" ("yes").
-- 'I swear to you, that was Louis yesterday.' Kostya strikes a brisk bearing during the exchange, building the phrase around "klyanus" ("I swear") and "vchera" ("yesterday") for a crisp, natural delivery.
-- 'What do you mean Louis, why are you lying?' Nastya tests earnestly as they speak, putting "yeshchyo" ("more, still") alongside "vryosh" ("are lying") in a tight, everyday turn of phrase.
-- 'Last night I needed to go to the restroom.' Kostya presents a brisk mood right away, building the phrase around "vchera" ("yesterday") and "vecherom" ("in the evening") for a crisp, natural delivery.
-- 'I asked him to watch the bar for a bit.' Kostya takes a grounded footing in the conversation, linking "poprosil" ("asked"), "nemnogo" ("a bit"), and "prismotret" ("to look") in one brisk exchange.
-- 'And he watched over that model instead!' Kostya displays a frank direction as they talk, anchoring the Russian line on "modelyu" ("model") and "prismotrel" ("looked after") without extra filler.
-- 'This is the honest truth, believe me, Nastya!' Kostya establishes an emphatic direction for Nastya, anchoring the Russian line on "chistaya" ("clean") and "pravda" ("honestly") without extra filler.
+- 'How can you look me in the eyes?' Nastya shapes that thought in earnest: putting the question word "kak" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Tell me, how could you cheat on me?' Nastya asks calmly to see how Kostya will answer on the spot.
+- 'Wait, what are you talking about right now?' Kostya emphasizes this sharp element in reply: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'I just heard everything myself!' Nastya fires back plainly across the room, saying out loud what both of them already know.
+- 'That model went to a room with the bartender!' Nastya follows up lightly across the room, so Kostya knows she is not just making small talk.
+- 'That was not me, Nastya!' Kostya responds calmly toward Nastya, so Nastya knows he is not just making small talk.
+- 'I swear to you, that was Louis yesterday.' Kostya sends this point with warmth: the "-sya" ending on "klyanus" ("I swear") turns the action inward or makes it happen between people naturally.
+- 'What do you mean Louis, why are you lying?' Nastya challenges quietly before Kostya can change the subject.
+- 'Last night I needed to go to the restroom.' Kostya emphasizes one practical word in earnest: "vecherom" means "in the evening", and it carries the main weight of what Kostya is saying.
+- 'I asked him to watch the bar for a bit.' Kostya speaks boldly with a smile, leaving no doubt about where he stands.
+- 'And he watched over that model instead!' Kostya pushes back at once watching Nastya, watching Nastya's face to see how the news lands.
+- 'This is the honest truth, believe me, Nastya!' Kostya reaches for this sharp choice for Nastya: "chistaya" means "clean" (from "chistyy"), giving the line its exact edge.

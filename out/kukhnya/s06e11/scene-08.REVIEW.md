@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Take a look, please, is the second room paid for already?' Barinov wonders candidly without holding back, joining "posmotri" ("look") to "vtoroy" ("second") so every word pulls its weight.
-- 'Alright, then just put that room on my tab.' Barinov brings an unhurried direction for the guest, putting "togda" ("back then") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'Andrey, hello, I am very glad to see you here.' Barinov brings a resolute attitude in front of the guest, weaving "zdravstvuyte" ("hello") together with "ochen" ("very much") just the way native speakers do.
-- 'And your brother and I are discussing an interesting project.' The guest presents a resolute attitude in the scene, putting "bratom" ("brother, cousin") alongside "obsuzhdayem" ("are discussing") in a tight, everyday turn of phrase.
-- 'You have, of course, heard about oyster farms?' The guest questions decisively beside Barinov, combining "konechno" ("of course") and "slyshali" ("did you hear") so the key meaning lands right away.
-- 'Excuse me for a second, hello, I am listening.' The guest maintains an honest mood on the spot, putting "izvinite" ("sorry, excuse me") alongside "sekundu" ("second") in a tight, everyday turn of phrase.
-- 'Valya, tell me, what are you doing over there?' Barinov checks calmly without holding back, leaning on "skazhi" ("say") before closing the thought with "tam" ("there").
-- 'He is a serious person, do not drag him into risky ventures!' Barinov offers a direct stance toward the guest, joining "seryoznyy" ("important, serious") to "chelovek" ("a man, a person") so every word pulls its weight.
-- 'Vitya, calm down, I am not dragging him into anything.' The guest takes a warm course during the exchange, linking "uspokoysya" ("calm down"), "nikuda" ("nowhere, anywhere"), and "vtyagivayu" ("I am dragging into") in one brisk exchange.
-- 'He himself became very interested in my new project.' The guest sustains a playful rhythm in the room, leaning on "ochen" ("very much") before closing the thought with "zainteresovalsya" ("became interested").
-- 'After all, this is excellent and mutually beneficial cooperation for us.' The guest holds an unhurried manner in this beat, using "otlichnoye" (from "otlichnyy", "excellent") alongside "vzaimovygodnoye" ("mutually beneficial") to shape the meaning.
-- 'Do you remember who paid off the debt for you afterward?' Barinov challenges plainly during the talk, leaning on "pomnish" ("do you remember") before closing the thought with "potom" ("then").
-- 'In short, I really hope that you heard me!' Barinov sustains a steady position in the room, leaning on "koroche" ("long story short") before closing the thought with "ochen" ("very much").
+- 'Take a look, please, is the second room paid for already?' Barinov puts that reply toward the guest: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'Alright, then just put that room on my tab.' Barinov continues right away without holding back, bringing things back to earth after the buildup.
+- 'Andrey, hello, I am very glad to see you here.' Barinov points to this sharp term on cue: "zdravstvuyte" means "hello", and it carries the main weight of what Barinov is saying.
+- 'And your brother and I are discussing an interesting project.' The guest follows up steadily in this moment, testing Barinov's reaction in the middle of the exchange.
+- 'You have, of course, heard about oyster farms?' The guest asks deadpan as Barinov tries to explain the situation.
+- 'Excuse me for a second, hello, I am listening.' The guest colors one practical choice in reply: "sekundu" means "second" (from "sekunda"), giving the line its exact edge.
+- 'Valya, tell me, what are you doing over there?' Barinov directs that reply in earnest: putting the question word "chto" right at the front of the line lets the guest hear the point of the question on the very first beat.
+- 'He is a serious person, do not drag him into risky ventures!' Barinov weighs in firmly with a smile, leaving no doubt about where he stands.
+- 'Vitya, calm down, I am not dragging him into anything.' The guest focuses on one vivid expression right here: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
+- 'He himself became very interested in my new project.' The guest puts this update briskly now: the "-sya" ending on "zainteresovalsya" ("became interested") turns the action inward or makes it happen between people naturally.
+- 'After all, this is excellent and mutually beneficial cooperation for us.' The guest proceeds lightly without a pause, steering the talk right where he wants it.
+- 'Do you remember who paid off the debt for you afterward?' Barinov chooses one colorful touch right here: "pomnish" means "do you remember" (from "pomnit"), giving the line its exact edge.
+- 'In short, I really hope that you heard me!' Barinov points to this clear term in earnest: "uslyshal" means "heard" (from "uslyshat"), giving the line its exact edge.

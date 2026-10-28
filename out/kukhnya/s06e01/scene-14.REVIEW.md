@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My condolences, Dima.' Barinov chooses a firm manner on the spot, building the phrase around "sochuvstvuyu" ("sympathize") and "dima" ("Dima") for a crisp, natural delivery.
-- 'Congratulations, Eleonora.' Barinov shares a grounded view in the conversation, building the phrase around "pozdravlyayu" ("congratulations") and "eleonora" ("Eleonora") for a crisp, natural delivery.
-- 'Thank you, Vitya.' Eleonora establishes a serious tack as they talk, building the phrase around "spasibo" ("thank you") and "vitya" ("Vitya") for a crisp, natural delivery.
-- 'I understand that now is not the right time.' Barinov establishes a calm attitude in the scene, weaving "ponimayu" ("understand") together with "seychas" ("now") just the way native speakers do.
-- 'But I wanted to talk about your mom.' Barinov displays a measured tack during the exchange, leaning on "khotel" ("wanted") before closing the thought with "pogovorit" ("to talk").
-- 'What do you mean?' Eleonora presses calmly beside Nagiyev, leaning on "smysle" ("sense") as a compact, one-word response that needs no extra words.
-- 'She is keeping me from working.' Barinov shares an earnest attitude in their talk, anchoring the Russian line on "meshayet" ("bothers") and "rabotat" ("to work") without extra filler.
-- 'Vitya, what are you talking about?' Eleonora questions quietly to keep things clear, placing "vitya" ("Vitya") straight beside "ty" ("you") with no word for "to be" needed.
-- 'Mom already died two years ago.' Eleonora favors a calm mood for Barinov, combining "mama" ("mum, mother") and "uzhe" ("already, now") so the key meaning lands right away.
-- 'How, in what sense?' Barinov inquires honestly as the talk turns, putting "kak" ("how") alongside "smysle" ("sense") in a tight, everyday turn of phrase.
-- 'I told him back then.' Nagiyev displays an honest tack straight away, pairing "govoril" ("said, were saying") with "togda" ("back then") to get the point across in plain spoken Russian.
-- 'He was in such a state that he forgot.' Nagiyev brings a direct tempo in the room, leaning on "byl" ("was") before closing the thought with "sostoyanii" ("condition, state").
+- 'My condolences, Dima.' Barinov sends the thought toward Eleonora: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Congratulations, Eleonora.' Barinov opens up honestly without a pause, grounding the moment in plain reality.
+- 'Thank you, Vitya.' Eleonora reaches for one classic piece with Barinov: "spasibo" means "thank you", and it carries the main weight of what Eleonora is saying.
+- 'I understand that now is not the right time.' Barinov cuts in at once with a smile, saying out loud what both of them already know.
+- 'But I wanted to talk about your mom.' Barinov pushes back candidly around Eleonora, so Eleonora knows he is not just making small talk.
+- 'What do you mean?' Eleonora grounds one familiar piece toward Nagiyev: "smysle" means "sense" (from "smysl"), giving the line its exact edge.
+- 'She is keeping me from working.' Barinov voices the reaction before Eleonora: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Vitya, what are you talking about?' Eleonora challenges eagerly while looking straight at Nagiyev here.
+- 'Mom already died two years ago.' Eleonora underscores this telling word on cue: "mama" means "mum, mother", and it carries the main weight of what Eleonora is saying.
+- 'How, in what sense?' Barinov states this point beside Nagiyev: putting the question word "kak" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'I told him back then.' Nagiyev pushes back openly to be clear, grounding the moment in plain reality.
+- 'He was in such a state that he forgot.' Nagiyev points to one clear choice at once: "sostoyanii" means "condition, state" (from "sostoyaniye"), giving the line its exact edge.

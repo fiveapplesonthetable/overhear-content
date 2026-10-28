@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My goodness, you look simply wonderful.' Barinov picks an easygoing position as the scene unfolds, putting "prosto" ("just") alongside "khorosho" ("good, fine") in a tight, everyday turn of phrase.
-- 'I hardly recognized you at first.' Vika brings a brisk footing straight away, building the phrase around "perestal" ("to stop, to quit") and "uznavat" ("to recognise") for a crisp, natural delivery.
-- 'Well, that means.' Barinov shares a playful tone in this beat, leaning on "znachit" ("then, so") before closing the thought with "nu" ("oh, come on").
-- 'Viktoriya Sergeyevna.' Barinov holds a resolute angle right away, leaning on "viktoriya" ("Victoria") before closing the thought with "sergeyevna" ("Sergeyevna").
-- 'Welcome to our restaurant.' Barinov offers a serious tone in the room, joining "dobro" ("good, kindness") to "pozhalovat" ("to welcome") so every word pulls its weight.
-- 'Thank you very much.' Vika presents a resolute course at this moment, using "blagodaryu" (from "blagodarit", "to thank") alongside "vas" ("you") to shape the meaning.
-- 'And I see this is not your first time here.' Barinov chooses a warm approach at once, pairing "smotryu" ("look") with "pervyy" ("first") to get the point across in plain spoken Russian.
-- 'I have been coming to your place for two weeks already.' Vika shows a brisk mood with Barinov, using "khozhu" (from "khodit", "walks") alongside "uzhe" ("already, now") to shape the meaning.
-- 'Is that so, how did I not know about it?' Barinov quizzes steadily across the room, anchoring the Russian line on "znayu" ("know") and "vot" ("there, here") without extra filler.
-- 'That is my personal method of working with actors.' Vika shows an unhurried direction in this beat, building the phrase around "metod" ("method, way") and "raboty" ("of work") for a crisp, natural delivery.
-- 'I wanted to see what you are like in real life.' Vika shows a candid posture as the scene unfolds, building the phrase around "khotela" ("wanted, meant") and "posmotret" ("to look up") for a crisp, natural delivery.
-- 'Brilliant, simply brilliant.' Vika takes a wry posture as the scene unfolds, anchoring the Russian line on "genialno" ("brilliant") and "vot" ("there, here") without extra filler.
-- 'Yes, well, let us see what is over there.' Barinov picks a thoughtful manner as they talk, pairing "tam" ("there") with "da" ("yes") to get the point across in plain spoken Russian.
+- 'My goodness, you look simply wonderful.' Barinov directs the reply to Vika: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I hardly recognized you at first.' Vika continues earnestly to settle things, to clear the air between them once and for all.
+- 'Well, that means.' Barinov favors this key touch at once: "znachit" means "then, so", and it carries the main weight of what Barinov is saying.
+- 'Viktoriya Sergeyevna.' Barinov voices that line around Vika: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Welcome to our restaurant.' Barinov weighs in wryly facing Vika, so Vika knows he is not just making small talk.
+- 'Thank you very much.' Vika anchors this telling term for Barinov: "blagodaryu" means "to thank" (from "blagodarit"), giving the line its exact edge.
+- 'And I see this is not your first time here.' Barinov anchors this vivid touch on cue: "pervyy" means "first", and it carries the main weight of what Barinov is saying.
+- 'I have been coming to your place for two weeks already.' Vika steps in earnestly with Barinov, keeping the focus on what actually matters here.
+- 'Is that so, how did I not know about it?' Barinov emphasizes one telling piece in reply: "znayu" means "know" (from "znat"), giving the line its exact edge.
+- 'That is my personal method of working with actors.' Vika lays out this line without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I wanted to see what you are like in real life.' Vika steps in quietly with a sigh, steering the talk right where she wants it.
+- 'Brilliant, simply brilliant.' Vika grounds this sharp choice with Barinov: "genialno" means "brilliant", and it carries the main weight of what Vika is saying.
+- 'Yes, well, let us see what is over there.' Barinov lays out the reply in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

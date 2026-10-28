@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened, do we have problems?' Barinov probes candidly in front of Eleonora, anchoring the Russian line on "sluchilos" ("happened") and "problemy" ("problems") without extra filler.
-- 'Vitya, you do not have to resign at all.' Eleonora chooses an honest stance without hesitation, putting "vovse" ("at all") alongside "obyazatelno" ("surely, without fail") in a tight, everyday turn of phrase.
-- 'Did you feel sorry for me?' Barinov tests briskly in their exchange, putting "pozhalela" ("felt sorry for") alongside "menya" ("me") in a tight, everyday turn of phrase.
-- 'I felt sorry for myself, if I fire you Katya will nag me to death.' Eleonora establishes a steady line for Barinov, joining "pozhalela" ("felt sorry for") to "uvolyu" ("will fire") so every word pulls its weight.
-- 'Stay at the restaurant.' Eleonora shows a clear approach in front of Barinov, leaning on "ostavaysya" ("stay") before closing the thought with "restorane" ("restaurant").
-- 'Stay with my menu?' Barinov asks evenly without a pause, anchoring the Russian line on "ostatsya" ("to remain, to be left") and "menyu" ("menu") without extra filler.
-- 'Only let's do this without conditions, alright?' Eleonora queries briskly to keep things clear, linking "tolko" ("only"), "davay" ("let's"), and "usloviy" ("conditions") in one brisk exchange.
-- 'Elya, I am in my fifties.' Barinov adopts a frank bearing during the exchange, linking "desyatok" ("decade, ten") directly with "shestoy" ("sixth"), since Russian drops "is" and "are" in the present.
-- 'This menu is my last chance to get a star.' Barinov sustains a serious attitude in the room, leaning on "menyu" ("menu") before closing the thought with "posledniy" ("last").
-- 'Either I stay with my menu, or both my menu and I leave.' Barinov maintains a candid footing as they talk, pairing "ostayus" ("am staying") with "menyu" ("menu") to get the point across in plain spoken Russian.
-- 'Alright, stay.' Eleonora shows a serious approach in the conversation, pairing "ostavaysya" ("stay") with "khorosho" ("good, fine") so the "-sya" ending carries the action.
-- 'On Saturday we are going to meet my mom.' Barinov maintains a lively tack for Eleonora, building the phrase around "subbotu" ("Saturday") and "idem" ("to go, to walk") for a crisp, natural delivery.
+- 'What happened, do we have problems?' Barinov hands over that reply for Eleonora: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Vitya, you do not have to resign at all.' Eleonora responds honestly before Barinov, keeping the focus on what actually matters here.
+- 'Did you feel sorry for me?' See how Barinov reacts to Eleonora on cue — the Russian word "pozhalela" ("felt sorry for", built from "pozhalet") does the heavy lifting.
+- 'I felt sorry for myself, if I fire you Katya will nag me to death.' Eleonora hands over that remark around Barinov: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'Stay at the restaurant.' Eleonora steps in plainly without any doubt, grounding the moment in plain reality.
+- 'Stay with my menu?' Barinov spotlights one telling term with Eleonora: "ostatsya" means "to remain, to be left", and it carries the main weight of what Barinov is saying.
+- 'Only let's do this without conditions, alright?' Eleonora states that line to Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Elya, I am in my fifties.' Barinov reacts frankly hearing Eleonora, keeping the focus on what actually matters here.
+- 'This menu is my last chance to get a star.' Barinov uses this sharp piece at once: "posledniy" means "last", and it carries the main weight of what Barinov is saying.
+- 'Either I stay with my menu, or both my menu and I leave.' Barinov phrases that line without fuss: the "-sya" ending on "ostayus" ("am staying") turns the action inward or makes it happen between people naturally.
+- 'Alright, stay.' Eleonora steps in frankly without a pause, refusing to let the moment slip past.
+- 'On Saturday we are going to meet my mom.' Barinov colors one clear choice toward Eleonora: "znakomitsya" means "get acquainted", and it carries the main weight of what Barinov is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich, may I have you for a second?' Nagiyev probes naturally during the talk, linking "mozhno" ("may, can"), "sekundu" ("second"), and "viktor" ("Viktor") in one brisk exchange.
-- 'Elena Pavlovna, there is a strange person next to you.' Barinov keeps a grounded note in the scene, combining "ryadom" ("nearby") and "strannyy" ("strange, odd") so the key meaning lands right away.
-- 'Vitya, stop sulking, you are a grown man!' Nagiyev favors a grounded angle for Barinov, using "bros" (from "brosit", "drop it") alongside "obizhatsya" ("feel offended") to shape the meaning.
-- 'After all, I came to you on business.' Nagiyev shows a natural line at this moment, weaving "prishyol" ("came, have come") together with "delu" ("case") just the way native speakers do.
-- 'Today important guests will come to my restaurant.' Nagiyev keeps a playful line beside Barinov, linking "segodnya" ("today"), "restoran" ("restaurant"), and "pridut" ("will come") in one brisk exchange.
-- 'They want to see you as the head chef of the restaurant.' Nagiyev sets an emphatic angle in the conversation, pairing "khotyat" ("want") with "videt" ("to see") to get the point across in plain spoken Russian.
-- 'I will give you ten percent of the order!' Nagiyev sets a wry course at this moment, combining "dam" ("will give") and "protsentov" ("percent") so the key meaning lands right away.
-- 'Good, I agree, but I do not need the money.' Barinov offers a thoughtful attitude in this beat, leaning on "khorosho" ("good, fine") before closing the thought with "soglasen" ("agreed").
-- 'As payment I will give you three kicks!' Barinov takes an unhurried view on the spot, weaving "kachestve" ("quality") together with "platy" ("salary") just the way native speakers do.
-- 'What, you want to give me three kicks?' Nagiyev probes dryly to keep things clear, building the phrase around "khochesh" ("do you want") and "dat" ("to give") for a crisp, natural delivery.
-- 'Vitya, why are you playing the fool again?' Nagiyev checks quietly without holding back, linking "opyat" ("again"), "duraka" ("fool, idiot"), and "valyayesh" ("to again") in one brisk exchange.
-- 'Fine, I agree, just help me out tonight!' Nagiyev projects a pointed mood in front of Barinov, pairing "soglasen" ("agreed") with "tolko" ("only") to get the point across in plain spoken Russian.
+- 'Viktor Petrovich, may I have you for a second?' Nagiyev offers this statement briskly now: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Elena Pavlovna, there is a strange person next to you.' Barinov counters at once during the talk, to clear the air between them once and for all.
+- 'Vitya, stop sulking, you are a grown man!' Nagiyev leans on one pointed choice with Barinov: "obizhatsya" means "feel offended", and it carries the main weight of what Nagiyev is saying.
+- 'After all, I came to you on business.' Nagiyev uses one pointed choice in reply: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
+- 'Today important guests will come to my restaurant.' Nagiyev counters candidly with a sigh, letting the remark speak for itself.
+- 'They want to see you as the head chef of the restaurant.' Nagiyev spotlights one sharp term in reply: "shef-povarom" means "head chef" (from "shef-povar"), giving the line its exact edge.
+- 'I will give you ten percent of the order!' Nagiyev colors one pointed touch with Barinov: "protsentov" means "percent" (from "protsent"), giving the line its exact edge.
+- 'Good, I agree, but I do not need the money.' Barinov weighs in promptly during the talk, before Nagiyev can change the subject.
+- 'As payment I will give you three kicks!' Barinov points to one vivid word at once: "kachestve" means "quality" (from "kachestvo"), giving the line its exact edge.
+- 'What, you want to give me three kicks?' Nagiyev hands over the comeback before Barinov: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'Vitya, why are you playing the fool again?' Nagiyev challenges wryly as Barinov tries to explain the situation.
+- 'Fine, I agree, just help me out tonight!' Nagiyev stresses this telling choice for Barinov: "soglasen" means "agreed" (from "soglasnyy"), giving the line its exact edge.

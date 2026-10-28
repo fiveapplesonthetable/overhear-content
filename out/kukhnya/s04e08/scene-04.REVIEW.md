@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I heard that strange conversation with my own ears!' Barinov conveys a calm mood at this moment, using "ushami" (from "ukho", "ear") alongside "slyshal" ("heard") to shape the meaning.
-- 'Boys, I am going to step out right now for a couple of hours.' Elena sets a frank footing in the room, anchoring the Russian line on "malchiki" ("boys") and "seychas" ("now") without extra filler.
-- 'Vitya, please keep an eye on the kitchen here.' Elena presents a pointed rhythm toward Barinov, putting "prismotri" ("supervision") alongside "tut" ("here") in a tight, everyday turn of phrase.
-- 'It does not look like they are going to fire Elena Pavlovna.' Lyova displays a warm course on the spot, pairing "sobirayutsya" ("gather, are gathering") with "pokhozhe" ("like, similar") so the "-sya" ending carries the action.
-- 'Be quiet, Lyova, do not shout so loudly!' Barinov brings a serious mood in their talk, building the phrase around "tikho" ("easy, quiet") and "krichi" ("shout, yell") for a crisp, natural delivery.
-- 'Lyova, you did not understand, she does not know this.' Barinov keeps a sharp bearing across the room, weaving "ponyal" ("understood") together with "znayet" ("knows") just the way native speakers do.
-- 'They simply want to quietly replace her with another chef.' Barinov shows a calm style as the scene unfolds, joining "prosto" ("just") to "khotyat" ("want") so every word pulls its weight.
-- 'Then we definitely need to warn her!' Lyova sets a warm tempo with Elena, anchoring the Russian line on "togda" ("back then") and "nado" ("it is necessary") without extra filler.
-- 'What is the use, after all you know her well.' Barinov sustains a natural tone in front of Elena, using "tolku" (from "tolka", "after") alongside "khorosho" ("good, fine") to shape the meaning.
-- 'She will then simply walk out of here proudly on her own.' Barinov presents an earnest view in this beat, combining "togda" ("back then") and "prosto" ("just") so the key meaning lands right away.
-- 'And I really do not want her to leave.' Barinov favors an earnest footing for Elena, linking "ochen" ("very much"), "khochu" ("want"), and "ukhodila" ("to leave, to go away") in one brisk exchange.
-- 'She is not going anywhere, did you understand me, Lyova?' Barinov asks earnestly to Lyova here, combining "nikuda" ("nowhere, anywhere") and "uydyot" ("will leave") so the key meaning lands right away.
+- 'I heard that strange conversation with my own ears!' Barinov stresses one vivid word in earnest: "strannyy" means "strange, odd", and it carries the main weight of what Barinov is saying.
+- 'Boys, I am going to step out right now for a couple of hours.' Elena gives this answer at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Vitya, please keep an eye on the kitchen here.' Elena follows up calmly toward Barinov, before Barinov can change the subject.
+- 'It does not look like they are going to fire Elena Pavlovna.' Lyova picks this sharp choice at once: "sobirayutsya" means "gather, are gathering" (from "sobiratsya"), giving the line its exact edge.
+- 'Be quiet, Lyova, do not shout so loudly!' Barinov leans on this vivid expression on cue: "krichi" means "shout, yell" (from "krichat"), giving the line its exact edge.
+- 'Lyova, you did not understand, she does not know this.' Barinov counters calmly hearing Lyova, shifting the whole mood of the room in a single beat.
+- 'They simply want to quietly replace her with another chef.' Barinov picks one colorful expression in reply: "drugim" means "other" (from "drugoy"), giving the line its exact edge.
+- 'Then we definitely need to warn her!' Lyova delivers that reply to Elena: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'What is the use, after all you know her well.' Barinov stands firm bluntly with a shrug, keeping the focus on what actually matters here.
+- 'She will then simply walk out of here proudly on her own.' Barinov centers one vivid expression right here: "gordo" means "out", and it carries the main weight of what Barinov is saying.
+- 'And I really do not want her to leave.' Barinov speaks up frankly during the talk, grounding the moment in plain reality.
+- 'She is not going anywhere, did you understand me, Lyova?' Barinov inquires straight out what Lyova is actually getting at here.

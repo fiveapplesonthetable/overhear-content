@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, do you even know what time it is right now?' Vika asks warmly for Max's benefit, joining "voobshche" ("at all") to "znayesh" ("know") so every word pulls its weight.
-- 'Forgive me, can you imagine, Nagiyev invited me to be head chef at Monet!' Max conveys a steady tone without hesitation, using "prosti" (from "prostit", "sorry, forgive me") alongside "predstavlyayesh" ("can you imagine") to shape the meaning.
-- 'Congratulations to you, that really is a big step.' Vika brings an honest attitude for Max, combining "pozdravlyayu" ("congratulations") and "deystvitelno" ("really, indeed") so the key meaning lands right away.
-- 'I sincerely hope that everything works out for you.' Vika keeps a calm tempo in front of Max, pairing "nadeyus" ("hope so") with "iskrenne" ("sincerely") so the "-sya" ending carries the action.
-- 'My whole life is going to be different now!' Max conveys an honest course in the room, leaning on "teper" ("now") before closing the thought with "zhizn" ("life").
-- 'Now everything will work out for you and me.' Max sustains a frank mood as the scene unfolds, pairing "naladitsya" ("will work out") with "teper" ("now") so the "-sya" ending carries the action.
-- 'Max, listen, I am leaving Moscow soon.' Vika takes a sharp course beside Max, weaving "poslushay" ("listen") together with "skoro" ("soon") just the way native speakers do.
-- 'Wait, what do you mean you are leaving?' Max probes sharply as the talk turns, linking "podozhdi" ("wait"), "smysle" ("sense"), and "uyezzhayesh" ("are leaving") in one brisk exchange.
-- 'Our daughter and I are moving to Saint Petersburg.' Vika holds a candid view in the room, building the phrase around "dochkoy" ("daughter") and "uyezzhayem" ("we leave, drive away") for a crisp, natural delivery.
-- 'We are leaving for there in exactly one week.' Vika sustains an emphatic posture as they talk, using "uyezzhayem" (from "uyezzhat", "we leave, drive away") alongside "tuda" ("there") to shape the meaning.
-- 'Eleonora offered me a manager position, and I agreed.' Vika sets a resolute tempo right away, joining "predlozhila" ("to offer, to suggest") to "mesto" ("place, post") so every word pulls its weight.
-- 'Believe me, Max, it will be better this way.' Vika presents a steady angle with Max, leaning on "pover" ("believe") before closing the thought with "budet" ("will be").
+- 'Max, do you even know what time it is right now?' Vika probes openly whether Max really thought this through.
+- 'Forgive me, can you imagine, Nagiyev invited me to be head chef at Monet!' Max underscores one direct piece with Vika: "predstavlyayesh" means "can you imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'Congratulations to you, that really is a big step.' Vika reaches for this clear word in earnest: "pozdravlyayu" means "congratulations" (from "pozdravlyat"), giving the line its exact edge.
+- 'I sincerely hope that everything works out for you.' Vika counters steadily with a smile, leaving no doubt about where she stands.
+- 'My whole life is going to be different now!' Max underscores one key piece right here: "po-drugomu" means "differently", and it carries the main weight of what Max is saying.
+- 'Now everything will work out for you and me.' Max shapes that thought beside Vika: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Max, listen, I am leaving Moscow soon.' Vika speaks evenly to be clear, saying out loud what both of them already know.
+- 'Wait, what do you mean you are leaving?' Max stresses this key element toward Vika: "uyezzhayesh" means "are leaving" (from "uyezzhat"), giving the line its exact edge.
+- 'Our daughter and I are moving to Saint Petersburg.' Vika proceeds openly without a pause, making her position completely clear.
+- 'We are leaving for there in exactly one week.' Vika stands firm decisively with a shrug, letting the remark speak for itself.
+- 'Eleonora offered me a manager position, and I agreed.' Vika frames one pointed word with Max: "upravlyayushchey" means "manager" (from "upravlyayushchaya"), giving the line its exact edge.
+- 'Believe me, Max, it will be better this way.' Vika follows up earnestly on the spot, steering the talk right where she wants it.

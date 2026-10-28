@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Chef, please do not turn on the device!' Senya begs, sweating profusely before the machine is even attached."),
-    (1, None, "'I took this fish after the banquet!' the line cook confesses, voluntarily admitting to kitchen pilfering."),
+    (1, None, "'I took this fish after the banquet!' Panicking before the machine is even turned on, Senya blurts out a confession about the banquet fish."),
     (2, None, "'And the half-kilo of expensive caviar?' Chef Barinov presses, seizing the chance to uncover other thefts."),
     (3, None, "'Did you go to the neighboring restaurant?' Barinov demands, ignoring the petty food thefts to find the real secret. Now listen to the full office confession once more."),
 ]

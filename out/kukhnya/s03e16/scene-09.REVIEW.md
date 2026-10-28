@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My new sauce will be for tender salmon!' Max maintains a firm line toward Barinov, building the phrase around "novyy" ("new") and "sous" ("sauce") for a crisp, natural delivery.
-- 'The salmon will be happy that it will be served under Sauce Lavrov!' Max presents a pointed footing in the conversation, leaning on "syomga" ("salmon") before closing the thought with "budet" ("will be").
-- 'Yes, only I still need to think about the name.' Max maintains an easygoing bearing with Barinov, weaving "tolko" ("only") together with "nado" ("it is necessary") just the way native speakers do.
-- 'Well, a draft in the kitchen I can still understand.' Barinov chooses a steady position straight away, linking "skvoznyak" ("draft"), "kukhne" ("kitchen"), and "yeshchyo" ("more, still") in one brisk exchange.
-- 'But how did a bag of flour fly into the wall by itself?' Barinov presses plainly as the beat lands, leaning on "kak" ("how") before closing the thought with "paket" ("the plastic bag").
-- 'Denying ghosts is foolish when there are no facts and proof.' Max chooses an easygoing view in front of Senya, leaning on "otritsat" ("to deny") before closing the thought with "prizrakov" ("ghosts").
-- 'But in your case everything is very simple, Chef.' Max projects a measured direction right away, linking "sluchaye" ("case, event"), "ochen" ("very much"), and "prosto" ("just") in one brisk exchange.
-- 'Fedya, did you see how scared everyone got today?' Senya inquires wryly without a pause, combining "videl" ("saw, have seen") and "kak" ("how") so the key meaning lands right away.
-- 'Soon they will all be stuttering from fear, even the chef!' Senya favors an honest line in the scene, weaving "skoro" ("soon") together with "zaikatsya" ("to stutter") just the way native speakers do.
-- 'My wife will make such delicious meat jelly at home!' Senya favors a direct line in the conversation, joining "zhena" ("wife") to "doma" ("at home") so every word pulls its weight.
-- 'And the main sponsor of our meat jelly is the poltergeist!' Senya picks an easygoing footing as the scene unfolds, leaning on "glavnyy" ("main, chief") before closing the thought with "sponsor" ("sponsor").
-- 'Well, now I am going to give those two pranksters what for!' Barinov keeps a natural style as the scene unfolds, linking "seychas" ("now"), "shutnikam" ("to the pranksters"), and "ustroyu" ("to arrange") in one brisk exchange.
+- 'My new sauce will be for tender salmon!' Max chimes in at once to settle things, steering the talk right where he wants it.
+- 'The salmon will be happy that it will be served under Sauce Lavrov!' Max emphasizes this sharp detail in earnest: "schastliva" means "happy" (from "schastlivyy"), giving the line its exact edge.
+- 'Yes, only I still need to think about the name.' Max hands over this answer before Barinov: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Well, a draft in the kitchen I can still understand.' Barinov responds quietly to settle things, shifting the whole mood of the room in a single beat.
+- 'But how did a bag of flour fly into the wall by itself?' Barinov spotlights one sharp element at once: "priletel" means "flew" (from "priletet"), giving the line its exact edge.
+- 'Denying ghosts is foolish when there are no facts and proof.' Max responds warmly with Senya, saying out loud what both of them already know.
+- 'But in your case everything is very simple, Chef.' Max jumps in honestly without holding back, refusing to let the moment slip past.
+- 'Fedya, did you see how scared everyone got today?' Senya uses one concrete term at once: "ispugalis" means "got scared" (from "ispugatsya"), giving the line its exact edge.
+- 'Soon they will all be stuttering from fear, even the chef!' Senya sends this update for Barinov: the "-sya" ending on "zaikatsya" ("to stutter") turns the action inward or makes it happen between people naturally.
+- 'My wife will make such delicious meat jelly at home!' Senya speaks up dryly with a smile, refusing to let the moment slip past.
+- 'And the main sponsor of our meat jelly is the poltergeist!' Senya emphasizes this telling expression on cue: "poltergeyst" means "poltergeist", and it carries the main weight of what Senya is saying.
+- 'Well, now I am going to give those two pranksters what for!' Barinov counters openly toward Senya, bringing things back to earth after the buildup.

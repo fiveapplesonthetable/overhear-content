@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, this is not a horse.' Mikhail takes a grounded angle in the conversation, weaving "podozhdi" ("wait") together with "kon" ("knight, horse") just the way native speakers do.
-- 'On the other hand, he is a very thoroughbred pony.' Mikhail sets a thoughtful note toward Katya, linking "ochen" ("very much"), "porodistyy" ("thoroughbred"), and "poni" ("pony") in one brisk exchange.
-- 'Take the horse, we are even.' Mikhail keeps a frank tempo during the exchange, weaving "derzhi" ("here you go") together with "konya" ("horse, knight") just the way native speakers do.
-- 'They must not see us together.' Katya brings a thoughtful stance for Mikhail, leaning on "dolzhny" ("must, should") before closing the thought with "videt" ("to see").
-- 'I just wanted to ask about your father.' Denis maintains a grounded style as the scene unfolds, anchoring the Russian line on "prosto" ("just") and "khotel" ("wanted") without extra filler.
-- 'Dad needs an operation in Germany.' Katya offers a direct style in the conversation, using "pape" (from "papa", "to Dad") alongside "nuzhna" ("needed") to shape the meaning.
-- 'We are looking for money everywhere right now.' Katya holds a frank manner straight away, leaning on "seychas" ("now") before closing the thought with "vezde" ("everywhere").
-- 'Denis, please do not pressure me.' Katya sets an emphatic attitude beside Mikhail, joining "davi" ("pressure") to "denis" ("Denis") so every word pulls its weight.
-- 'It is truly very hard for me right now.' Katya sustains a resolute position toward Denis, leaning on "seychas" ("now") before closing the thought with "pravda" ("honestly").
-- 'I am flying to Saint Petersburg right now.' Denis sustains a thoughtful line across the room, linking "seychas" ("now"), "piter" ("petersburg"), and "uletayu" ("am flying away") in one brisk exchange.
-- 'But we never actually talked.' Katya offers a brisk mood with Denis, building the phrase around "pogovorili" ("had a talk") and "no" ("but") for a crisp, natural delivery.
-- 'Stand here and guard the horse.' Mikhail picks an earnest view in the room, pairing "stoy" ("stop, wait") with "zdes" ("here") to get the point across in plain spoken Russian.
+- 'Wait, this is not a horse.' Mikhail points to one loaded term with Denis: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'On the other hand, he is a very thoroughbred pony.' Mikhail directs that line beside Katya: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
+- 'Take the horse, we are even.' Mikhail counters briskly hearing Denis, letting the remark speak for itself.
+- 'They must not see us together.' Katya chooses one vivid detail in reply: "dolzhny" means "must, should" (from "dolzhen"), giving the line its exact edge.
+- 'I just wanted to ask about your father.' Denis phrases this statement with candor: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Dad needs an operation in Germany.' Katya weighs in wryly as they talk, so Mikhail knows she is not just making small talk.
+- 'We are looking for money everywhere right now.' Katya uses one colorful touch with Denis: "seychas" means "now", and it carries the main weight of what Katya is saying.
+- 'Denis, please do not pressure me.' Katya shapes this point on cue: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'It is truly very hard for me right now.' Katya stands firm earnestly as things stand, letting the remark speak for itself.
+- 'I am flying to Saint Petersburg right now.' Denis frames this vivid touch with Mikhail: "seychas" means "now", and it carries the main weight of what Denis is saying.
+- 'But we never actually talked.' Katya weighs in evenly before Denis, steering the talk right where she wants it.
+- 'Stand here and guard the horse.' Mikhail holds firm bluntly in this moment, saying out loud what both of them already know.

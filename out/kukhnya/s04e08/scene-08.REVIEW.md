@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is our kitchen, and further over there is the office.' Elena adopts a pointed tack with Barinov, leaning on "kukhnya" ("kitchen") before closing the thought with "tam" ("there").
-- 'Over there are the locker rooms and shower for our staff.' Elena sets a steady angle straight away, weaving "tam" ("there") together with "razdevalki" ("changing room") just the way native speakers do.
-- 'I do not even know what else to show you here.' Elena projects a clear tack with Barinov, using "znayu" (from "znat", "know") alongside "yeshchyo" ("more, still") to shape the meaning.
-- 'Everything is clear to me, a lot needs to be changed here.' Elena shows an emphatic mood toward Lyova, joining "ponyatno" ("clear") to "tut" ("here") so every word pulls its weight.
-- 'Lyova, tell me quickly, where is Lena right now?' Barinov checks pointedly at this point, anchoring the Russian line on "skazhi" ("say") and "bystro" ("quickly") without extra filler.
-- 'The owner sent her somewhere, she will be back in an hour.' Lyova strikes a resolute angle beside Elena, pairing "khozyain" ("owner") with "kuda-to" ("somewhere") to get the point across in plain spoken Russian.
-- 'Do you see, Lyova, that guy right there is your new chef!' Elena establishes a wry stance with Barinov, pairing "vidish" ("see") with "paren" ("boyfriend") to get the point across in plain spoken Russian.
-- 'Viktor Petrovich, maybe we should not get involved?' Lyova prompts lightly across the room, pairing "vmeshivatsya" ("to interfere") with "mozhet" ("can") so the "-sya" ending carries the action.
-- 'Lyova, do not start, we will simply have a talk with him.' Barinov brings a sharp approach in the scene, weaving "nachinay" ("start") together with "prosto" ("just") just the way native speakers do.
-- 'We will explain to him that he does not need to work here.' Barinov keeps a serious course in front of Lyova, weaving "obyasnim" ("will explain") together with "zdes" ("here") just the way native speakers do.
-- 'We will speak with him very politely and civilly!' Barinov keeps an emphatic attitude at this moment, linking "pogovorim" ("we'll have a talk"), "ochen" ("very much"), and "vezhlivo" ("politely") in one brisk exchange.
-- 'Come on, Lyova, let's go after him outside quickly!' Barinov keeps a brisk attitude with Lyova, putting "davay" ("let's") alongside "poshli" ("let's go") in a tight, everyday turn of phrase.
+- 'Here is our kitchen, and further over there is the office.' Elena gives that thought toward Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Over there are the locker rooms and shower for our staff.' Elena answers evenly with a sigh, to clear the air between them once and for all.
+- 'I do not even know what else to show you here.' Elena leans on one colorful detail on cue: "yeshchyo" means "more, still", and it carries the main weight of what Elena is saying.
+- 'Everything is clear to me, a lot needs to be changed here.' Elena aims this statement beside Lyova: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Lyova, tell me quickly, where is Lena right now?' Barinov wonders eagerly whether Elena really thought this through.
+- 'The owner sent her somewhere, she will be back in an hour.' Lyova sharpens one telling choice for Elena: "khozyain" means "owner", and it carries the main weight of what Lyova is saying.
+- 'Do you see, Lyova, that guy right there is your new chef!' Elena emphasizes one familiar expression toward Barinov: "paren" means "boyfriend", and it carries the main weight of what Elena is saying.
+- 'Viktor Petrovich, maybe we should not get involved?' Lyova asks bluntly whether Elena really thought this through.
+- 'Lyova, do not start, we will simply have a talk with him.' Barinov anchors one vivid detail for Elena: "pogovorim" means "we'll have a talk" (from "pogovorit"), giving the line its exact edge.
+- 'We will explain to him that he does not need to work here.' Barinov delivers that reply briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'We will speak with him very politely and civilly!' Barinov counters lightly with a shrug, testing Elena's reaction in the middle of the exchange.
+- 'Come on, Lyova, let's go after him outside quickly!' Barinov underscores this direct expression toward Lyova: "ulitsu" means "street" (from "ulitsa"), giving the line its exact edge.

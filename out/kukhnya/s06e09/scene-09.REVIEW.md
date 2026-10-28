@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything is very tasty, simply top-notch.' Elena brings a frank bearing without hesitation, weaving "ochen" ("very much") together with "vkusno" ("it's tasty") just the way native speakers do.
-- 'How do you like the atmosphere of our new restaurant?' Barinov questions evenly during the talk, pairing "kak" ("how") with "atmosfera" ("atmosphere") to get the point across in plain spoken Russian.
-- 'Yes, everything is as usual, very worthy.' Elena keeps an easygoing tone in the scene, weaving "kak" ("how") together with "obychno" ("usually") just the way native speakers do.
-- 'Then write a good article in your magazine.' Barinov brings a firm tone at once, joining "togda" ("back then") to "napishi" ("write") so every word pulls its weight.
-- 'I cannot, my opinion will be biased.' Elena shares a steady note in their talk, pairing "mogu" ("can") with "mneniye" ("opinion") to get the point across in plain spoken Russian.
-- 'But after all, those are your honest words!' Barinov brings a thoughtful view beside Elena, building the phrase around "chestnyye" ("honest") and "slova" ("words") for a crisp, natural delivery.
-- 'Vitya, I do not want to ruin my reputation.' Elena conveys a sharp tone for Barinov, joining "khochu" ("want") to "portit" ("to spoil, to ruin") so every word pulls its weight.
-- 'Then why are you praising a competitor behind my back?' Barinov tests dryly right away, putting "zachem" ("what for") alongside "spinoy" ("back") in a tight, everyday turn of phrase.
-- 'Why behind your back, nobody is hiding anything.' Elena favors a thoughtful angle in front of Barinov, joining "pochemu" ("why") to "spinoy" ("back") so every word pulls its weight.
-- 'First I publish my review on the internet.' Elena takes an easygoing mood in their talk, anchoring the Russian line on "snachala" ("first, at first") and "publikuyu" ("I publish") without extra filler.
-- 'I never go on that website.' Barinov adopts a clear style in the scene, putting "nikogda" ("never") alongside "zakhozhu" ("to come in") in a tight, everyday turn of phrase.
-- 'By the way, I am also on your friends list there.' Elena keeps an easygoing tone without hesitation, building the phrase around "kstati" ("by the way") and "tozhe" ("too") for a crisp, natural delivery.
-- 'Please bring the guest a clean fork.' Barinov shares a natural tack as the scene unfolds, combining "prinesite" ("bring") and "gostye" ("guest") so the key meaning lands right away.
+- 'Everything is very tasty, simply top-notch.' Elena continues promptly across the room, so Barinov knows she is not just making small talk.
+- 'How do you like the atmosphere of our new restaurant?' Barinov picks one practical touch in reply: "atmosfera" means "atmosphere", and it carries the main weight of what Barinov is saying.
+- 'Yes, everything is as usual, very worthy.' Elena sends this answer with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Then write a good article in your magazine.' Barinov continues lightly as things stand, without trying to dress up how he really feels.
+- 'I cannot, my opinion will be biased.' Elena picks one vivid choice for Barinov: "predvzyatym" means "biased" (from "predvzyatyy"), giving the line its exact edge.
+- 'But after all, those are your honest words!' Barinov frames that point in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Vitya, I do not want to ruin my reputation.' Elena fires back calmly beside Barinov, grounding the moment in plain reality.
+- 'Then why are you praising a competitor behind my back?' Listen to how Barinov reacts to Elena in earnest — the Russian word "konkurenta" ("competitor", built from "konkurent") does the heavy lifting.
+- 'Why behind your back, nobody is hiding anything.' Elena brings that thought around Barinov: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'First I publish my review on the internet.' Elena speaks boldly on the spot, letting the remark speak for itself.
+- 'I never go on that website.' Barinov highlights one clear touch right here: "zakhozhu" means "to come in" (from "zakhodit"), giving the line its exact edge.
+- 'By the way, I am also on your friends list there.' Elena phrases that line with ease: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Please bring the guest a clean fork.' Barinov opens up firmly before Elena, to clear the air between them once and for all.

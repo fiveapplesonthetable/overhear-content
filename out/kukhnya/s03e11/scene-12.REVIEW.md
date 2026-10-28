@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Add more salt and stir quickly!' Barinov chooses a steady posture in their talk, putting "dobav" ("add") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
-- 'Your fish is still completely raw!' Barinov conveys a natural approach in the conversation, leaning on "ryba" ("fish") before closing the thought with "yeshchyo" ("more, still").
-- 'Chef, I know how to prove that Katya is lying.' Max maintains a grounded tack at once, leaning on "znayu" ("know") before closing the thought with "kak" ("how").
-- 'Get away from me, I feel sick enough already.' Barinov offers a sharp mood right away, building the phrase around "uydi" ("go away, step inside") and "plokho" ("badly") for a crisp, natural delivery.
-- 'Let her take this test right now.' Max takes a wry line as the scene unfolds, joining "seychas" ("now") to "sdelayet" ("will do") so every word pulls its weight.
-- 'You will see, she is lying to all of you.' Max favors a wry bearing as the scene unfolds, linking "uvidite" ("will see"), "vryot" ("is lying"), and "vot" ("there, here") in one brisk exchange.
-- 'What are you saying? And what if Katya is not lying?' Barinov inquires steadily during the talk, combining "govorish" ("you say") and "vryot" ("is lying") so the key meaning lands right away.
-- 'Then I am taking your entire paycheck!' Barinov conveys an honest manner for Max, anchoring the Russian line on "togda" ("back then") and "zarplatu" ("salary") without extra filler.
-- 'Take even two of my paychecks, Chef!' Max favors an earnest style as the scene unfolds, weaving "berite" ("take") together with "zarplaty" ("salaries") just the way native speakers do.
-- 'No, let us make it three paychecks right away! Deal.' Barinov adopts a pointed tone straight away, joining "davay" ("let's") to "srazu" ("at once") so every word pulls its weight.
-- 'But our restroom is not working today.' Katya presents a clear approach as the scene unfolds, joining "tualet" ("toilet") to "segodnya" ("today") so every word pulls its weight.
-- 'The repairmen will come soon and fix everything.' Barinov takes an easygoing position with Max, weaving "mastera" ("technician") together with "skoro" ("soon") just the way native speakers do.
-- 'Katya, go to the guest restroom then!' Max holds an unhurried rhythm straight away, building the phrase around "idi" ("go") and "togda" ("back then") for a crisp, natural delivery.
+- 'Add more salt and stir quickly!' Barinov responds dryly hearing Katya, watching Katya's face to see how the news lands.
+- 'Your fish is still completely raw!' Barinov underscores this key choice with Max: "yeshchyo" means "more, still", and it carries the main weight of what Barinov is saying.
+- 'Chef, I know how to prove that Katya is lying.' Max chimes in firmly without a pause, steering the talk right where he wants it.
+- 'Get away from me, I feel sick enough already.' Barinov weighs in frankly toward Max, watching Max's face to see how the news lands.
+- 'Let her take this test right now.' Max grounds one telling piece toward Barinov: "sdelayet" means "will do" (from "sdelat"), giving the line its exact edge.
+- 'You will see, she is lying to all of you.' Max emphasizes one vivid piece on cue: "uvidite" means "will see" (from "uvidet"), giving the line its exact edge.
+- 'What are you saying? And what if Katya is not lying?' Barinov prompts curiously as Katya tries to explain the situation.
+- 'Then I am taking your entire paycheck!' Barinov leans on one classic term right here: "zarplatu" means "salary" (from "zarplata"), giving the line its exact edge.
+- 'Take even two of my paychecks, Chef!' Max speaks up right away facing Barinov, leaving no doubt about where he stands.
+- 'No, let us make it three paychecks right away! Deal.' Barinov reacts candidly hearing Max, keeping the focus on what actually matters here.
+- 'But our restroom is not working today.' Katya emphasizes this sharp touch in earnest: "rabotayet" means "works" (from "rabotat"), giving the line its exact edge.
+- 'The repairmen will come soon and fix everything.' Barinov speaks warmly across the room, watching Max's face to see how the news lands.
+- 'Katya, go to the guest restroom then!' Max proceeds briskly with a smile, making his position completely clear.

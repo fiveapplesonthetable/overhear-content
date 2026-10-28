@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well hello there, my dear friend Dima.' Barinov maintains a resolute style at once, leaning on "dorogoy" ("dear") before closing the thought with "drug" ("friend").
-- 'First I added ginger to the dish.' Barinov shares a grounded line right away, pairing "snachala" ("first, at first") with "dobavil" ("added") to get the point across in plain spoken Russian.
-- 'It will make you forget the other dishes.' Barinov favors a natural line with Nagiyev, joining "zastavit" ("to force, to make") to "zabyt" ("forget") so every word pulls its weight.
-- 'I drizzled the ginger with oil for shine.' Barinov takes a candid tone at once, building the phrase around "polil" ("to water") and "imbir" ("dish") for a crisp, natural delivery.
-- 'After all, you adore bright things so much.' Barinov shows a brisk note right away, weaving "obozhayesh" ("to adore") together with "yarkiye" ("bright, vivid") just the way native speakers do.
-- 'You love seafood and meat equally.' Barinov brings a direct manner at this moment, anchoring the Russian line on "odinakovo" ("the same way") and "lyubish" ("love") without extra filler.
-- 'Therefore I prepared beef with shrimp.' Barinov picks a lively approach on the spot, linking "poetomu" ("that's why"), "prigotovil" ("cooked"), and "govyadinu" ("beef") in one brisk exchange.
-- 'The meat turned out very juicy, without blood.' Barinov presents a natural tempo in the conversation, pairing "myaso" ("meat") with "poluchilos" ("worked out") to get the point across in plain spoken Russian.
-- 'On top I covered the meat nicely with vegetables.' Barinov picks an earnest course in their talk, anchoring the Russian line on "sverkhu" ("upstairs, from above") and "krasivo" ("beautifully") without extra filler.
-- 'And then I slightly overcooked those vegetables.' Barinov adopts a steady approach beside Nagiyev, anchoring the Russian line on "potom" ("then") and "nemnogo" ("a bit") without extra filler.
-- 'Dima, I know your taste all too well.' Barinov shows a brisk tempo at once, weaving "slishkom" ("too") together with "khorosho" ("good, fine") just the way native speakers do.
-- 'This is simply an incredibly tasty dish!' Nagiyev chooses a resolute tempo right away, building the phrase around "prosto" ("just") and "neveroyatno" ("incredibly") for a crisp, natural delivery.
+- 'Well hello there, my dear friend Dima.' Barinov chimes in boldly facing Nagiyev, letting the remark speak for itself.
+- 'First I added ginger to the dish.' Barinov opens up candidly without a pause, letting the remark speak for itself.
+- 'It will make you forget the other dishes.' Barinov underscores one vivid expression with Nagiyev: "drugiye" means "other" (from "drugoy"), giving the line its exact edge.
+- 'I drizzled the ginger with oil for shine.' Barinov speaks wryly beside Nagiyev, to clear the air between them once and for all.
+- 'After all, you adore bright things so much.' Barinov steps in promptly in this moment, leaving no doubt about where he stands.
+- 'You love seafood and meat equally.' Barinov emphasizes one familiar term on cue: "moreprodukty" means "seafood", and it carries the main weight of what Barinov is saying.
+- 'Therefore I prepared beef with shrimp.' Barinov holds firm candidly with a smile, so Nagiyev knows he is not just making small talk.
+- 'The meat turned out very juicy, without blood.' Barinov follows up frankly before Nagiyev, saying out loud what both of them already know.
+- 'On top I covered the meat nicely with vegetables.' Barinov emphasizes this clear term in reply: "ovoshchami" means "with vegetables" (from "ovoshch"), giving the line its exact edge.
+- 'And then I slightly overcooked those vegetables.' Barinov reacts decisively on the spot, grounding the moment in plain reality.
+- 'Dima, I know your taste all too well.' Barinov steps in candidly before Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'This is simply an incredibly tasty dish!' Nagiyev anchors one sharp touch on cue: "neveroyatno" means "incredibly", and it carries the main weight of what Nagiyev is saying.

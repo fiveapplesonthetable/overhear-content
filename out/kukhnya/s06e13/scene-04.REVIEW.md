@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I have two options right now.' Kostya takes a wry stance toward the guest, linking "seychas" ("now"), "yest" ("there is"), and "varianta" ("options") in one brisk exchange.
-- 'Tell me honestly, were you in prison before?' Kostya tests honestly across the room, using "skazhi" (from "skazat", "say") alongside "chestno" ("honestly") to shape the meaning.
-- 'Yes, I spent just a little time there.' The guest sets a serious note toward Kostya, putting "tam" ("there") alongside "nemnogo" ("a bit") in a tight, everyday turn of phrase.
-- 'We are raising our son in the same apartment.' Kostya shows a candid approach as they talk, building the phrase around "vospityvayem" ("to bring up") and "syna" ("son") for a crisp, natural delivery.
-- 'But I did not kill anyone.' The guest shares a brisk attitude right away, anchoring the Russian line on "ubival" ("killed") and "da" ("yes") without extra filler.
-- 'You could have told me earlier.' Kostya shows a serious stance for Nastya, weaving "mog" ("can, to be able") together with "ranshe" ("earlier, previously") just the way native speakers do.
-- 'Kostya, I played cards on trains.' The guest strikes a frank manner straight away, building the phrase around "poyezdakh" ("train") and "igral" ("played") for a crisp, natural delivery.
-- 'I should have told him about it earlier.' The guest projects a measured line with Nastya, putting "ranshe" ("earlier, previously") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'It was simply such a hard time back then.' The guest sets a grounded approach as they talk, putting "togda" ("back then") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'My dad was also in prison back then.' Nastya projects an earnest view in this beat, leaning on "papa" ("Dad") before closing the thought with "tozhe" ("too").
-- 'I am going with our son to kindergarten now.' Nastya adopts a pointed attitude in this beat, pairing "seychas" ("now") with "yedu" ("am driving") so the "-sya" ending carries the action.
-- 'You two talk on the way to work.' Nastya strikes a brisk tempo beside Kostya, weaving "doroge" ("road") together with "rabotu" ("job") just the way native speakers do.
-- 'Please quietly close the door behind you.' Nastya favors a firm rhythm in the scene, weaving "tikho" ("easy, quiet") together with "zakroyte" ("close") just the way native speakers do.
+- 'I have two options right now.' Kostya centers this direct touch in reply: "varianta" means "options" (from "variant"), giving the line its exact edge.
+- 'Tell me honestly, were you in prison before?' Kostya phrases this statement before Nastya: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Yes, I spent just a little time there.' The guest answers frankly with a smile, making his position completely clear.
+- 'We are raising our son in the same apartment.' Kostya points to this clear touch toward Nastya: "vospityvayem" means "to bring up" (from "vospityvat"), giving the line its exact edge.
+- 'But I did not kill anyone.' The guest opens up openly with a sigh, to clear the air between them once and for all.
+- 'You could have told me earlier.' Kostya steps in plainly toward Nastya, testing Nastya's reaction in the middle of the exchange.
+- 'Kostya, I played cards on trains.' The guest favors one clear detail for Kostya: "poyezdakh" means "train" (from "poyezd"), giving the line its exact edge.
+- 'I should have told him about it earlier.' The guest states that remark toward Nastya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'It was simply such a hard time back then.' The guest answers honestly without a pause, steering the talk right where he wants it.
+- 'My dad was also in prison back then.' Nastya underscores this sharp choice in earnest: "papa" means "Dad", and it carries the main weight of what Nastya is saying.
+- 'I am going with our son to kindergarten now.' Nastya makes the thought plainly here: the "-sya" ending on "seychas" ("now") turns the action inward or makes it happen between people naturally.
+- 'You two talk on the way to work.' Nastya replies frankly to be clear, testing Kostya's reaction in the middle of the exchange.
+- 'Please quietly close the door behind you.' Nastya leans on one concrete expression toward the guest: "zakroyte" means "close" (from "zakryt"), giving the line its exact edge.

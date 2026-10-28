@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Everything works, now you will watch television.' Max shows a clear bearing across the room, joining "rabotayet" ("works") to "teper" ("now") so every word pulls its weight.
-- 'In Moscow we have more ministers than street sweepers.' Max strikes a calm footing right away, linking "ministrov" ("minister"), "bolshe" ("more"), and "dvornikov" ("janitors") in one brisk exchange.
-- 'The best single suite for your spouse.' The guest shows a direct attitude right away, linking "luchshaya" ("best"), "odnomestnaya" ("single-bed"), and "palata" ("hospital room") in one brisk exchange.
-- 'Hello again, Nikolai Maryanovich.' Max shows a calm mood right away, weaving "yeshchyo" ("more, still") together with "raz" ("time, once") just the way native speakers do.
-- 'Young man, vacate the ward immediately!' The guest brings a playful rhythm toward Max, joining "molodoy" ("young") to "chelovek" ("a man, a person") so every word pulls its weight.
-- 'Excuse us, Nikolai Maryanovich.' Vika holds a candid approach at once, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "nas" ("us") to shape the meaning.
-- 'We will leave here right now.' Vika brings a wry style beside the guest, pairing "seychas" ("now") with "otsyuda" ("from here") to get the point across in plain spoken Russian.
-- 'Vika, lie calmly in your place.' Max establishes an easygoing rhythm in the room, pairing "lezhi" ("lie down") with "spokoyno" ("calmly") to get the point across in plain spoken Russian.
-- 'We will leave this room only with our baby.' Max sustains a brisk style as the scene unfolds, weaving "uydyom" ("will leave") together with "otsyuda" ("from here") just the way native speakers do.
-- 'That is it, I am going for security.' The guest shows a direct course straight away, using "idu" (from "idti", "going, running") alongside "okhranoy" ("security, guards") to shape the meaning.
-- 'Max, what are you doing again?' Vika inquires boldly across the room, putting "opyat" ("again") alongside "tvorish" ("are doing, creating") in a tight, everyday turn of phrase.
-- 'Do not worry, I will sort everything out right now.' Max chooses a serious position in this beat, joining "volnuysya" ("worry") to "seychas" ("now") so every word pulls its weight.
+- 'Everything works, now you will watch television.' Max steps in warmly beside the guest, grounding the moment in plain reality.
+- 'In Moscow we have more ministers than street sweepers.' Max underscores one vivid choice right here: "ministrov" means "minister" (from "ministr"), giving the line its exact edge.
+- 'The best single suite for your spouse.' The guest steps in sharply as things stand, refusing to let the moment slip past.
+- 'Hello again, Nikolai Maryanovich.' Max steps in boldly with a smile, bringing things back to earth after the buildup.
+- 'Young man, vacate the ward immediately!' The guest centers one classic word in earnest: "nemedlenno" means "immediately", and it carries the main weight of what the guest is saying.
+- 'Excuse us, Nikolai Maryanovich.' Vika puts the reply with candor: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Vika steps in.
+- 'We will leave here right now.' Vika continues sharply beside the guest, bringing things back to earth after the buildup.
+- 'Vika, lie calmly in your place.' Max leans on one familiar touch with Vika: "spokoyno" means "calmly", and it carries the main weight of what Max is saying.
+- 'We will leave this room only with our baby.' Max stands firm honestly to settle things, steering the talk right where he wants it.
+- 'That is it, I am going for security.' The guest steps in at once with a smile, keeping the focus on what actually matters here.
+- 'Max, what are you doing again?' Vika uses one clear piece for the guest: "tvorish" means "are doing, creating" (from "tvorit"), giving the line its exact edge.
+- 'Do not worry, I will sort everything out right now.' Max sends this point beside Vika: the "-sya" ending on "volnuysya" ("worry") turns the action inward or makes it happen between people naturally.

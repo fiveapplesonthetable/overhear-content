@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, Victoria, what stage is it at right now?' Eleonora probes candidly beside Nikita, pairing "seychas" ("now") with "skazhite" ("tell") so the "-sya" ending carries the action.
-- 'It is in progress, by evening it should be ready.' Vika brings a calm direction at once, pairing "protsesse" ("process, trial") with "vecheru" ("evening") to get the point across in plain spoken Russian.
-- 'Great, then I will drop by this evening and try it!' Nikita presents a measured view in the conversation, anchoring the Russian line on "otlichno" ("perfect, great") and "togda" ("back then") without extra filler.
-- 'Elya, I have a personal matter to discuss with you.' Nikita picks a calm angle at once, putting "yest" ("there is") alongside "lichnyy" ("personal") in a tight, everyday turn of phrase.
-- 'My son is planning to get a job with you as a waiter.' Nikita takes an unhurried tack as they talk, linking "syn" ("son"), "sobirayetsya" ("to intend"), and "ustroitsya" ("to get a job") in one brisk exchange.
-- 'Who? Nikita? I have not seen him for fifteen years!' Eleonora checks candidly toward Vika here, linking "let" ("years"), "videla" ("saw"), and "pyatnadtsat" ("fifteen") in one brisk exchange.
-- 'He has grown taller than me now, a real handsome guy.' Nikita strikes a brisk attitude at once, linking "teper" ("now"), "stal" ("to become"), and "vyshe" ("high, highly") in one brisk exchange.
-- 'And why did he come here instead of going to you?' Eleonora questions evenly as they speak, anchoring the Russian line on "pochemu" ("why") and "prishyol" ("came, have come") without extra filler.
-- 'He says, I want to walk the whole path from the very beginning!' Nikita shows a natural posture in the room, joining "govorit" ("talks") to "khochu" ("want") so every word pulls its weight.
-- 'Please keep an eye on him and let me know how he is doing.' Nikita projects an emphatic position in the scene, weaving "prismotri" ("supervision") together with "soobshchay" ("to inform, to report") just the way native speakers do.
-- 'And I will return the favor, you know me.' Nikita adopts a measured footing for Eleonora, using "dolgu" (from "dolg", "debt") alongside "ostanus" ("stay") to shape the meaning.
-- 'What are you talking about, Andryusha, of course I will look after him!' Eleonora holds a sharp position toward Vika, linking "govorish" ("you say"), "konechno" ("of course"), and "prismotryu" ("will look after") in one brisk exchange.
+- 'Tell me, Victoria, what stage is it at right now?' Eleonora frames one classic piece right here: "skazhite" means "tell" (from "skazat"), giving the line its exact edge.
+- 'It is in progress, by evening it should be ready.' Vika continues calmly as things stand, grounding the moment in plain reality.
+- 'Great, then I will drop by this evening and try it!' Nikita follows up firmly to settle things, shifting the whole mood of the room in a single beat.
+- 'Elya, I have a personal matter to discuss with you.' Nikita reaches for this direct touch with Vika: "razgovor" means "conversation", and it carries the main weight of what Nikita is saying.
+- 'My son is planning to get a job with you as a waiter.' Nikita frames this clear choice right here: "ofitsiantom" means "waiter, server" (from "ofitsiant"), giving the line its exact edge.
+- 'Who? Nikita? I have not seen him for fifteen years!' Eleonora quizzes plainly before Vika can change the subject.
+- 'He has grown taller than me now, a real handsome guy.' Nikita stresses this clear element with Eleonora: "nastoyashchiy" means "real, genuine", and it carries the main weight of what Nikita is saying.
+- 'And why did he come here instead of going to you?' Eleonora brings that line beside Vika: putting the question word "pochemu" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'He says, I want to walk the whole path from the very beginning!' Nikita steps in promptly before Eleonora, grounding the moment in plain reality.
+- 'Please keep an eye on him and let me know how he is doing.' Nikita favors this vivid touch on cue: "prismotri" means "supervision" (from "prismotr"), giving the line its exact edge.
+- 'And I will return the favor, you know me.' Nikita favors one sharp detail on cue: "dolgu" means "debt" (from "dolg"), giving the line its exact edge.
+- 'What are you talking about, Andryusha, of course I will look after him!' Eleonora proceeds firmly facing Vika, refusing to let the moment slip past.

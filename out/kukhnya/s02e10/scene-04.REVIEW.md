@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, how are things going?' Kostya presses quietly on the spot, joining "kak" ("how") to "dela" ("things, affairs") so every word pulls its weight.
-- 'Not bad.' Nastya picks a measured tone at this moment, anchoring the Russian line on "da" ("yes") and "nichego" ("nothing") without extra filler.
-- 'My landlady kicked me out of the apartment.' Kostya maintains an honest manner for Max, weaving "khozyayka" ("landlady") together with "kvartiry" ("flat") just the way native speakers do.
-- 'What do you mean she kicked you out?' Nastya tests sharply without holding back, combining "kak" ("how") and "vygnala" ("kicked out") so the key meaning lands right away.
-- 'Wait, did you two really mop the floors?' Kostya presses naturally during the talk, putting "realno" ("really possible") alongside "poly" ("floors") in a tight, everyday turn of phrase.
-- 'And what are you going to do now?' Nastya probes decisively to make the point, combining "budesh" ("will") and "delat" ("do") so the key meaning lands right away.
-- 'I do not know, she said either...' Kostya projects a resolute note at once, joining "znayu" ("know") to "skazala" ("told") so every word pulls its weight.
-- 'I do not have that kind of money.' Nastya replies boldly from the start, using the everyday "u menya" ("by me") alongside "deneg" ("money") to show what belongs to the speaker.
-- 'I really do not know.' Kostya takes a calm stance with Max, weaving "znayu" ("know") together with "da" ("yes") just the way native speakers do.
-- 'It is fine, I will think of something.' Nastya establishes a steady bearing beside Max, linking "pridumayu" ("will come up with"), "da" ("yes"), and "ladno" ("all right") in one brisk exchange.
-- 'Kostik, come with me.' Max shares a playful tone in the scene, putting "poydem" ("let's go") alongside "kostik" ("Kostik") in a tight, everyday turn of phrase.
-- 'Nastya, wait a second, are you serious?' Kostya tests naturally without a pause, building the phrase around "podozhdi" ("wait") and "seryezno" ("seriously") for a crisp, natural delivery.
-- 'Are you actually serious right now?' Kostya presses boldly in the room, linking "seryezno" ("seriously") directly with "ty" ("you"), since Russian drops "is" and "are" in the present.
+- 'Hey, how are things going?' Kostya grounds one familiar detail on cue: "dela" means "things, affairs" (from "delo"), giving the line its exact edge.
+- 'Not bad.' Nastya makes this point without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'My landlady kicked me out of the apartment.' Kostya chimes in openly with a smile, keeping the focus on what actually matters here.
+- 'What do you mean she kicked you out?' Nastya picks one pointed word in earnest: "vygnala" means "kicked out" (from "vygnat"), giving the line its exact edge.
+- 'Wait, did you two really mop the floors?' Kostya lays out this warning to Max: putting the question word "chto" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'And what are you going to do now?' Nastya questions straight out as Max tries to explain the situation.
+- 'I do not know, she said either...' Kostya sharpens this vivid element on cue: "skazala" means "told" (from "skazat"), giving the line its exact edge.
+- 'I do not have that kind of money.' Nastya lays out this update with candor: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.
+- 'I really do not know.' Kostya speaks promptly hearing Max, bringing things back to earth after the buildup.
+- 'It is fine, I will think of something.' Nastya chooses one clear term in reply: "pridumayu" means "will come up with" (from "pridumat"), giving the line its exact edge.
+- 'Kostik, come with me.' Max shapes that answer frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Nastya, wait a second, are you serious?' Kostya presses frankly what Nastya is actually getting at here.
+- 'Are you actually serious right now?' Kostya leans on one colorful expression with Max: "seryezno" means "seriously" (from "seryozno"), giving the line its exact edge.

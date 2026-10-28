@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Make sure that this table is available.' Eleonora adopts an easygoing posture beside Barinov, anchoring the Russian line on "prosledite" ("to see to it") and "stolik" ("table") without extra filler.
-- 'What happened with you over there?' Eleonora asks warmly to Mikhail here, putting "tam" ("there") alongside "sluchilos" ("happened") in a tight, everyday turn of phrase.
-- 'Why are you looking like that?' Eleonora tests warmly in the room, linking "pochemu" ("why") directly with "vide" ("state"), since Russian drops "is" and "are" in the present.
-- 'They burst into my room.' Barinov maintains an earnest approach in front of Mikhail, pairing "vorvalis" ("broke into") with "nomer" ("number") to get the point across in plain spoken Russian.
-- 'I will explain everything to you right now.' Mikhail holds an honest angle right away, linking "seychas" ("now"), "obyasnyu" ("I'll explain"), and "ya" ("I") in one brisk exchange.
-- 'Victoria Sergeevna tricked us today.' Mikhail picks a wry view for Eleonora, putting "segodnya" ("today") alongside "obmanula" ("to cheat, to deceive") in a tight, everyday turn of phrase.
-- 'She said that this gentleman was the inspector.' Mikhail shares a candid mood in the conversation, pairing "skazala" ("told") with "gospodin" ("Mr, sir") to get the point across in plain spoken Russian.
-- 'Do not hesitate, come right in here.' Eleonora favors a warm tack during the exchange, joining "stesnyaytes" ("be shy, hesitate") to "prokhodite" ("come in") so every word pulls its weight.
-- 'Be stricter with all of them.' Eleonora chooses a calm tack right away, putting "budte" ("be") alongside "postrozhe" ("stricter") in a tight, everyday turn of phrase.
-- 'Do not worry, we will do everything.' Barinov shows a warm tack beside Mikhail, weaving "bespokoytes" ("worry") together with "sdelayem" ("we'll do") just the way native speakers do.
-- 'And how did you find out about that?' Eleonora queries bluntly in the room, leaning on "kak" ("how") before closing the thought with "uznali" ("found out, knew").
-- 'First I will go and get dressed.' Barinov takes a firm mood on the spot, linking "snachala" ("first, at first"), "poydu" ("go"), and "odenus" ("I will get dressed") in one brisk exchange.
+- 'Make sure that this table is available.' Eleonora reacts steadily to be clear, without trying to dress up how she really feels.
+- 'What happened with you over there?' Eleonora favors one pointed word in earnest: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'Why are you looking like that?' Eleonora lays out that thought right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'They burst into my room.' Barinov chimes in quietly facing Mikhail, without trying to dress up how he really feels.
+- 'I will explain everything to you right now.' Mikhail picks one telling expression with Barinov: "obyasnyu" means "I'll explain" (from "obyasnit"), giving the line its exact edge.
+- 'Victoria Sergeevna tricked us today.' Mikhail holds firm at once as they talk, refusing to let the moment slip past.
+- 'She said that this gentleman was the inspector.' Mikhail opens up earnestly as things stand, before Barinov can change the subject.
+- 'Do not hesitate, come right in here.' Eleonora sharpens this direct piece with Mikhail: "stesnyaytes" means "be shy, hesitate" (from "stesnyatsya"), giving the line its exact edge.
+- 'Be stricter with all of them.' Eleonora responds lightly without any doubt, watching Barinov's face to see how the news lands.
+- 'Do not worry, we will do everything.' Barinov steps in calmly to be clear, so Mikhail knows he is not just making small talk.
+- 'And how did you find out about that?' Eleonora emphasizes this direct expression for Barinov: "uznali" means "found out, knew" (from "uznat"), giving the line its exact edge.
+- 'First I will go and get dressed.' Barinov speaks bluntly without holding back, watching Mikhail's face to see how the news lands.

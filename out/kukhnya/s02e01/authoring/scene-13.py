@@ -31,12 +31,12 @@ STORY = [
 ]
 WALK = [
     (0, None, "'Are you going to follow me around every day?' Barinov grumbles as Lyova shadows him all the way to work."),
-    (1, None, "'You' Lyova knows that left alone, the chef will buy liquor at every shop he passes."),
+    (1, None, "'You'll buy booze at every store.' Lyova knows that left alone, the chef will buy liquor at every shop he passes."),
     (2, None, "'It's my duty to protect you from this.' He insists it is his duty as sous-chef to protect Viktor from himself."),
     (3, None, "'You'll thank me for it yourself later.' Lyova promises that Viktor will thank him for it later."),
     (4, None, "'Lyova, I'm getting hammered anyway.' Viktor stubbornly vows that he is going to get drunk anyway."),
     (5, None, "'Just to spite you and your boss.' He says he will do it just to spite both Lyova and the new boss. Then Lyova responds."),
-    (6, None, "'It won' Lyova warns him that sneaking a drink will not work anymore."),
+    (6, None, "'It won't work.' Lyova warns him that sneaking a drink will not work anymore."),
     (7, None, "'Igor Valentinovich said they installed cameras at the restaurant.' He reveals that Igor Valentinovich has had security cameras installed in the restaurant."),
     (8, None, "'It's for your own good.' Lyova repeats that all these strict measures are for the chef's own good."),
 ]

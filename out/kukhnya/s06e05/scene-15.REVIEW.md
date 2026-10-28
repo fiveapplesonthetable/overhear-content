@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'By the way, today I am going to win it back.' Mikhail holds a calm manner without hesitation, weaving "kstati" ("by the way") together with "segodnya" ("today") just the way native speakers do.
-- 'Maybe you should not play again?' Barinov questions steadily in front of Mikhail, joining "mozhet" ("can") to "nado" ("it is necessary") so every word pulls its weight.
-- 'No, today is definitely my lucky day.' Mikhail keeps a pointed course during the exchange, building the phrase around "segodnya" ("today") and "tochno" ("definitely") for a crisp, natural delivery.
-- 'Chef, please help us in the kitchen.' Denis sustains a candid tempo during the exchange, using "pomogite" (from "pomoch", "help") alongside "kukhne" ("kitchen") to shape the meaning.
-- 'Fedya ate something bad today.' Denis keeps a frank stance in the scene, linking "segodnya" ("today"), "syel" ("ate"), and "fedya" ("Fedya") in one brisk exchange.
-- 'Alright, I understood everything.' Barinov adopts a clear footing for Mikhail, anchoring the Russian line on "prekrasno" ("perfectly") and "ponyal" ("understood") without extra filler.
-- 'That is everyone who left the hotel.' Mikhail maintains a sharp direction during the exchange, anchoring the Russian line on "vykhodil" ("walked out") and "otelya" ("of the hotel") without extra filler.
-- 'Dinner and wine were ordered to his room.' Mikhail sustains a steady direction without hesitation, weaving "nomer" ("number") together with "zakazali" ("ordered") just the way native speakers do.
-- 'They definitely have a date coming up there.' Denis adopts a brisk mood as they talk, pairing "namechayetsya" ("is brewing") with "tam" ("there") so the "-sya" ending carries the action.
-- 'We need to sneak quietly into his room.' Denis conveys a natural note in the room, linking "nado" ("it is necessary"), "tikho" ("easy, quiet"), and "probratsya" ("to sneak in") in one brisk exchange.
-- 'You can climb in through the neighboring window.' Mikhail strikes a playful tone during the exchange, leaning on "mozhno" ("may, can") before closing the thought with "zalezt" ("to climb in").
-- 'Or simply bring Katya right up there.' Denis strikes a frank posture in the scene, linking "prosto" ("just"), "tuda" ("there"), and "srazu" ("at once") in one brisk exchange.
+- 'By the way, today I am going to win it back.' Mikhail proceeds candidly with a sigh, steering the talk right where he wants it.
+- 'Maybe you should not play again?' Barinov underscores one sharp choice in earnest: "mozhet" means "can" (from "moch"), giving the line its exact edge.
+- 'No, today is definitely my lucky day.' Mikhail hands over that point for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Chef, please help us in the kitchen.' Denis stands firm calmly as they talk, to clear the air between them once and for all.
+- 'Fedya ate something bad today.' Denis highlights this sharp piece at once: "segodnya" means "today", and it carries the main weight of what Denis is saying.
+- 'Alright, I understood everything.' Barinov voices this point right away: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Mikhail is on board.
+- 'That is everyone who left the hotel.' Mikhail chimes in decisively on the spot, saying out loud what both of them already know.
+- 'Dinner and wine were ordered to his room.' Mikhail picks one direct expression with Denis: "zakazali" means "ordered" (from "zakazat"), giving the line its exact edge.
+- 'They definitely have a date coming up there.' Denis frames that thought calmly now: the "-sya" ending on "namechayetsya" ("is brewing") turns the action inward or makes it happen between people naturally.
+- 'We need to sneak quietly into his room.' Denis fires back candidly hearing Mikhail, letting the remark speak for itself.
+- 'You can climb in through the neighboring window.' Mikhail favors one concrete expression in reply: "sosedneye" means "neighboring" (from "sosedniy"), giving the line its exact edge.
+- 'Or simply bring Katya right up there.' Denis makes that answer with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

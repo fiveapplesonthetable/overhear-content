@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lavrov, a fine of three thousand.' Vika takes a firm rhythm straight away, combining "shtraf" ("fine") and "tysyachi" ("thousands") so the key meaning lands right away.
-- 'Three thousand?' Max wonders openly with Vika now, anchoring the Russian line on "tysyachi" ("thousands") and "tri" ("three") without extra filler.
-- 'Right, go on and clean up.' Vika favors a resolute manner across the room, combining the everyday invitation "davay" ("come on, let us") with "ubiray" ("remove") to give the line its natural spoken rhythm.
-- 'Shall you and I go to a little cafe?' Max asks candidly across the room, linking "kafeshku" ("little cafe"), "skhodim" ("go, pop over"), and "my" ("we") in one brisk exchange.
-- 'The fact that I hired you means nothing.' Vika brings a serious tack for Max, building the phrase around "vzyala" ("took") and "znachit" ("then, so") for a crisp, natural delivery.
-- 'We have a business relationship.' Vika adopts a sharp mood in this beat, using "delovyye" (from "delovoy", "business") alongside "otnosheniya" ("relations, relationship") to shape the meaning.
-- 'Understood?' Vika challenges calmly as the beat lands, putting all the weight on "ponyatno" ("clear") so the reply lands immediately.
-- 'Understood. But shall we go after the shift?' Max asks candidly as the beat lands, combining "ponyatno" ("clear") and "smeny" ("shift") so the key meaning lands right away.
-- 'A fine of five thousand.' Vika chooses a firm tack in front of Max, building the phrase around "shtraf" ("fine") and "tysyach" ("thousand") for a crisp, natural delivery.
-- 'I think it is kicking.' Nastya chooses an unhurried tone right away, combining "kazhetsya" ("it seems, I think") and "pinayetsya" ("kicks") so the key meaning lands right away.
-- 'He is only eight centimeters tall right now.' Max displays a wry tempo as the scene unfolds, linking "seychas" ("now") directly with "rost" ("growth"), since Russian drops "is" and "are" in the present.
-- 'How can he be kicking?' Max checks dryly as they speak, putting "kak" ("how") alongside "mozhet" ("can") in a tight, everyday turn of phrase.
+- 'Lavrov, a fine of three thousand.' Vika speaks firmly during the talk, so Max knows she is not just making small talk.
+- 'Three thousand?' Max sharpens one key term in earnest: "tysyachi" means "thousands" (from "tysyacha"), giving the line its exact edge.
+- 'Right, go on and clean up.' Vika puts that remark right away: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Shall you and I go to a little cafe?' Max prompts firmly if there is more going on behind the scenes.
+- 'The fact that I hired you means nothing.' Vika anchors one clear expression on cue: "znachit" means "then, so", and it carries the main weight of what Vika is saying.
+- 'We have a business relationship.' Vika voices this point before Nastya: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'Understood?' Vika questions skeptically before Max can change the subject.
+- 'Understood. But shall we go after the shift?' Max leans on this key element right here: "ponyatno" means "clear", and it carries the main weight of what Max is saying.
+- 'A fine of five thousand.' Vika gives the remark on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I think it is kicking.' Nastya responds wryly in this moment, shifting the whole mood of the room in a single beat.
+- 'He is only eight centimeters tall right now.' Max favors one pointed expression with Nastya: "santimetrov" means "centimeters" (from "santimetr"), giving the line its exact edge.
+- 'How can he be kicking?' Max makes the reaction with warmth: the "-sya" ending on "pinatsya" ("to kick") turns the action inward or makes it happen between people naturally.

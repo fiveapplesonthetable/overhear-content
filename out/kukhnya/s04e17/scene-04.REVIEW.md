@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, what do you see, doctor?' Barinov asks promptly during the talk, building the phrase around "vidite" ("see") and "doktor" ("Doctor") for a crisp, natural delivery.
-- 'Yes, there is definitely a child here.' The guest brings a candid course with Eva, weaving "zdes" ("here") together with "tochno" ("definitely") just the way native speakers do.
-- 'Do you believe me now?' Eva prompts wryly across the room, anchoring the Russian line on "teper" ("now") and "verite" ("to believe") without extra filler.
-- 'And is that absolutely certain, doctor?' Barinov questions frankly across the room, linking "absolyutno" ("completely"), "tochno" ("definitely"), and "doktor" ("Doctor") in one brisk exchange.
-- 'Yes, the term is already two weeks.' The guest holds a frank note in their talk, building the phrase around "srok" ("term") and "uzhe" ("already, now") for a crisp, natural delivery.
-- 'I will wait for you in the corridor.' Barinov keeps a firm line beside the guest, joining "podozhdu" ("will wait") to "koridore" ("corridor") so every word pulls its weight.
-- 'I told you he would believe it.' Eva keeps a frank attitude at this moment, linking "govorila" ("said"), "poverit" ("to believe"), and "ya" ("I") in one brisk exchange.
-- 'And what will you do next?' The guest prompts openly toward Eva here, linking "budesh" ("will"), "delat" ("do"), and "dalshe" ("next, go on") in one brisk exchange.
-- 'He will get scared and give money.' Eva presents an unhurried course as the scene unfolds, joining "ispugayetsya" ("will get scared") to "dast" ("will give") so every word pulls its weight.
-- 'And I will not object.' Eva offers an honest stance for the guest, weaving "budu" ("will be") together with "vozrazhat" ("to object, mind") just the way native speakers do.
-- 'Here, take this, it is your fee.' Eva establishes a direct stance for Barinov, putting "derzhi" ("here you go") alongside "gonorar" ("fee") in a tight, everyday turn of phrase.
-- 'Listen, and is this really everything?' The guest tests steadily in the scene, building the phrase around "slushay" ("listen") and "voobshche" ("at all") for a crisp, natural delivery.
+- 'Well, what do you see, doctor?' Barinov favors one key touch toward Eva: "doktor" means "Doctor", and it carries the main weight of what Barinov is saying.
+- 'Yes, there is definitely a child here.' The guest continues dryly before Eva, leaving no doubt about where he stands.
+- 'Do you believe me now?' Eva checks calmly whether Barinov really thought this through.
+- 'And is that absolutely certain, doctor?' Barinov picks one loaded piece at once: "absolyutno" means "completely", and it carries the main weight of what Barinov is saying.
+- 'Yes, the term is already two weeks.' The guest makes that reply for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I will wait for you in the corridor.' Barinov counters candidly in their talk, keeping the focus on what actually matters here.
+- 'I told you he would believe it.' Eva emphasizes one key expression on cue: "govorila" means "said" (from "govorit"), giving the line its exact edge.
+- 'And what will you do next?' The guest puts that thought with warmth: putting the question word "chto" right at the front of the line lets Eva hear the point of the question on the very first beat.
+- 'He will get scared and give money.' Eva follows up bluntly with a shrug, testing Barinov's reaction in the middle of the exchange.
+- 'And I will not object.' Eva uses this sharp piece in reply: "vozrazhat" means "to object, mind", and it carries the main weight of what Eva is saying.
+- 'Here, take this, it is your fee.' Eva chooses this sharp expression for Barinov: "gonorar" means "fee", and it carries the main weight of what Eva is saying.
+- 'Listen, and is this really everything?' The guest presses quietly as Eva tries to explain the situation.

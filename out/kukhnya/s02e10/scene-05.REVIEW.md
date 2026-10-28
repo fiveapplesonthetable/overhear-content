@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'How may I help you?' Barinov probes openly as the beat lands, linking "mogu" ("can"), "pomoch" ("to help"), and "chem" ("than") in one brisk exchange.
-- 'Tomorrow my boss will be having dinner at your restaurant.' Vika brings a clear tack for Barinov, combining "zavtra" ("tomorrow") and "restorane" ("restaurant") so the key meaning lands right away.
-- 'Yes, the very one.' Barinov chooses an emphatic tempo as the scene unfolds, linking "samyy" ("the most"), "da" ("yes"), and "tot" ("that") in one brisk exchange.
-- 'The very one? Really?' Vika probes promptly as the talk turns, weaving "samyy" ("the most") together with "tot" ("that") just the way native speakers do.
-- 'That is a great honor for us.' Barinov shows a resolute attitude in the room, building the phrase around "bolshaya" ("large") and "chest" ("honor") for a crisp, natural delivery.
-- 'It is a great honor for any restaurant.' Vika shows a frank attitude toward Barinov, linking "bolshaya" ("large"), "chest" ("honor"), and "lyubogo" ("any") in one brisk exchange.
-- 'Where is your kitchen in here?' Barinov probes briskly without a pause, linking "gde" ("where"), "tut" ("here"), and "kukhnya" ("kitchen") in one brisk exchange.
-- 'Unfortunately, Viktor Petrovich is very busy right now.' Vika sets a pointed view with Barinov, linking "sozhaleniyu" ("regret") directly with "ochen" ("very much"), since Russian drops "is" and "are" in the present.
-- 'Perhaps I can help you with something instead?' Barinov checks promptly to keep things clear, pairing "mozhet" ("can") with "byt" ("be") to get the point across in plain spoken Russian.
-- 'All right, no big deal.' Vika sets a candid direction beside Barinov, weaving "strashnogo" ("terrible, serious") together with "nu" ("oh, come on") just the way native speakers do.
-- 'I will figure something out.' Barinov displays a warm tone in front of Vika, pairing "pridumayu" ("will come up with") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'Thank you.' Vika offers a steady stance as they talk, joining "spasibo" ("thank you") to "vam" ("you") so every word pulls its weight.
-- 'Goodbye.' Barinov adopts a steady tack at this moment, joining "svidaniya" ("meeting") to "do" ("until") so every word pulls its weight.
+- 'How may I help you?' Barinov offers that reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Vika purely through rising pitch at the end.
+- 'Tomorrow my boss will be having dinner at your restaurant.' Vika continues at once on the spot, saying out loud what both of them already know.
+- 'Yes, the very one.' Barinov leans on this clear term right here: "samyy" means "the most", and it carries the main weight of what Barinov is saying.
+- 'The very one? Really?' Vika hands over this warning around Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'That is a great honor for us.' Barinov steps in promptly without holding back, to clear the air between them once and for all.
+- 'It is a great honor for any restaurant.' Vika centers this direct touch on cue: "restorana" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'Where is your kitchen in here?' Barinov hands over that line for Vika: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'Unfortunately, Viktor Petrovich is very busy right now.' Vika answers pointedly to be clear, steering the talk right where she wants it.
+- 'Perhaps I can help you with something instead?' Barinov picks one clear piece at once: "mozhet" means "can" (from "moch"), giving the line its exact edge.
+- 'All right, no big deal.' Vika lays out that reply with warmth: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'I will figure something out.' Barinov pushes back firmly with a sigh, keeping the focus on what actually matters here.
+- 'Thank you.' Vika focuses on one telling expression toward Barinov: "spasibo" means "thank you", and it carries the main weight of what Vika is saying.
+- 'Goodbye.' Barinov voices the reply frankly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dad, what about that one over there?' Kostya queries frankly in their exchange, building the phrase around "papa" ("Dad") and "mozhet" ("can") for a crisp, natural delivery.
-- 'No, thin women are often mean.' The guest adopts a clear direction beside Kostya, pairing "khudyye" ("thin, skinny") with "zhenshchiny" ("woman") to get the point across in plain spoken Russian.
-- 'Good, so we need a very kind one.' Kostya establishes a serious view in their talk, building the phrase around "khorosho" ("good, fine") and "znachit" ("then, so") for a crisp, natural delivery.
-- 'That woman over there, in my opinion, is very kind.' Kostya takes a calm attitude in the conversation, placing "zhenshchina" ("woman") straight beside "po-moyemu" ("in my opinion") with no word for "to be" needed.
-- 'Listen, is she not a bit too old for me?' The guest queries naturally as they speak, putting "slushay" ("listen") alongside "starovata" ("a bit too old") in a tight, everyday turn of phrase.
-- 'Well, in principle, this is a great option.' Kostya conveys a calm tempo as the scene unfolds, joining "printsipe" ("principle") to "otlichnyy" ("excellent, great") so every word pulls its weight.
-- 'Meet him, please, he liked you very much.' Kostya maintains a frank tack beside the guest, leaning on "poznakomtes" ("get acquainted") before closing the thought with "ochen" ("very much").
-- 'My name is Valentina, very pleased to meet you.' The guest chooses a thoughtful tone beside Kostya, leaning on "zovut" ("call") before closing the thought with "ochen" ("very much").
-- 'I am helping you for the last time.' Kostya sustains an earnest mood in the room, weaving "pomogayu" ("to help") together with "posledniy" ("last") just the way native speakers do.
-- 'Alright, I have to go, and you two relax.' Kostya offers a resolute bearing as the scene unfolds, leaning on "pora" ("it's time") before closing the thought with "otdykhayte" ("rest").
-- 'Konstantin, tell me, what do you do for a living?' The guest presses promptly with Kostya now, joining "skazhite" ("tell") to "zanimayetes" ("are busy with") so every word pulls its weight.
-- 'It seems I am doing all kinds of nonsense today.' Kostya conveys a steady position in this beat, linking "kazhetsya" ("it seems, I think"), "segodnya" ("today"), and "zanimayus" ("am handling") in one brisk exchange.
+- 'Dad, what about that one over there?' Kostya centers one key touch on cue: "papa" means "Dad", and it carries the main weight of what Kostya is saying.
+- 'No, thin women are often mean.' The guest reacts evenly on the spot, bringing things back to earth after the buildup.
+- 'Good, so we need a very kind one.' Kostya cuts in right away with a smile, watching the guest's face to see how the news lands.
+- 'That woman over there, in my opinion, is very kind.' Kostya points to one direct expression toward the guest: "zhenshchina" means "woman", and it carries the main weight of what Kostya is saying.
+- 'Listen, is she not a bit too old for me?' The guest sends that answer toward Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Well, in principle, this is a great option.' Kostya fires back firmly with a smile, grounding the moment in plain reality.
+- 'Meet him, please, he liked you very much.' Kostya picks one sharp touch in earnest: "poznakomtes" means "get acquainted" (from "poznakomitsya"), giving the line its exact edge.
+- 'My name is Valentina, very pleased to meet you.' The guest responds evenly beside Kostya, to clear the air between them once and for all.
+- 'I am helping you for the last time.' Kostya stands firm evenly without holding back, leaving no doubt about where he stands.
+- 'Alright, I have to go, and you two relax.' Kostya uses this sharp detail right here: "otdykhayte" means "rest" (from "otdykhat"), giving the line its exact edge.
+- 'Konstantin, tell me, what do you do for a living?' The guest voices this point with warmth: the "-sya" ending on "zanimayetes" ("are busy with") turns the action inward or makes it happen between people naturally.
+- 'It seems I am doing all kinds of nonsense today.' Kostya fires back quietly with the guest, grounding the moment in plain reality.

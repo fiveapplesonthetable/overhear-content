@@ -30,7 +30,7 @@ STORY = [
     ('rodion', 'Тогда пожелайте мне приятного аппетита, Константин.', 'Then wish me bon appétit, Konstantin.', [], ''),
 ]
 WALK = [
-    (0, None, "'Wait, let' Making one last desperate attempt, Kostya tries to buy their way out of this trap."),
+    (0, None, "'Wait, let's just pay you money.' Making one last desperate attempt, Kostya tries to buy their way out of this trap."),
     (1, None, "'Bargaining is completely inappropriate here, young man.' Waving off the cash, Rodion quotes a famous literary phrase to shut him down."),
     (2, None, "'But this is a very expensive restaurant!' Kostya stresses that fine dining is way out of bounds for this situation."),
     (3, None, "'I know this fine restaurant perfectly well.' Confidently asserting his taste, Rodion claims familiarity with high-end establishments."),

@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Which I worked for almost a year to achieve.' Barinov takes a wry style on the spot, pairing "dobivalsya" ("to strive for") with "pochti" ("almost") to get the point across in plain spoken Russian.
-- 'And I am ready to do anything to get it back.' Timur establishes a measured stance as the scene unfolds, putting "gotov" ("ready") alongside "vernut" ("give back, get back") in a tight, everyday turn of phrase.
-- 'Timur, hey there.' Barinov sustains a wry posture straight away, joining "timur" ("Timur") to "privet" ("hi") so every word pulls its weight.
-- 'What did you bring today?' Timur checks frankly on the spot, using "privez" (from "privezti", "to bring") alongside "chto" ("what") to shape the meaning.
-- 'Breakfast is served.' Barinov favors a grounded approach in the scene, combining "kushat" ("to eat") and "podano" ("dinner") so the key meaning lands right away.
-- 'What on earth is that?' Timur quizzes dryly from the start, joining "chto" ("what") to "eto" ("this") so every word pulls its weight.
-- 'I will call a repairman.' Barinov displays a direct stance right away, anchoring the Russian line on "mastera" ("technician") and "vyzovu" ("will call, summon") without extra filler.
-- 'I can handle it myself.' Timur favors a brisk tempo in this beat, pairing "spravlyus" ("will manage") with "ya" ("I") so the "-sya" ending carries the action.
-- 'There is simply a loose contact inside here.' Barinov takes a steady style with Max, pairing "tut" ("here") with "prosto" ("just") to get the point across in plain spoken Russian.
-- 'I am saying, you and I are both grown adults.' Timur picks a brisk manner at once, anchoring the Russian line on "govoryu" ("am telling") and "lyudi" ("people") without extra filler.
-- 'Hey, Vitya, watch out.' Max conveys a candid footing beside Barinov, anchoring the Russian line on "ey" ("hey") and "vitya" ("Vitya") without extra filler.
-- 'I cannot move in with you.' Timur presents a warm mood in this beat, combining "mogu" ("can") and "pereyekhat" ("to move in") so the key meaning lands right away.
-- 'Because I simply cannot move in with you.' Barinov keeps a clear position in the scene, building the phrase around "potomu" ("because") and "mogu" ("can") for a crisp, natural delivery.
+- 'Which I worked for almost a year to achieve.' Barinov uses this telling choice at once: "dobivalsya" means "to strive for" (from "dobivatsya"), giving the line its exact edge.
+- 'And I am ready to do anything to get it back.' Timur cuts in boldly without any doubt, watching Max's face to see how the news lands.
+- 'Timur, hey there.' Barinov stands firm calmly without holding back, leaving no doubt about where he stands.
+- 'What did you bring today?' Timur anchors one practical detail right here: "privez" means "to bring" (from "privezti"), giving the line its exact edge.
+- 'Breakfast is served.' Barinov puts the remark at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'What on earth is that?' Timur asks calmly whether Max really thought this through.
+- 'I will call a repairman.' Barinov features one sharp touch on cue: "mastera" means "technician" (from "master"), giving the line its exact edge.
+- 'I can handle it myself.' Timur gives that thought before Max: the "-sya" ending on "spravlyus" ("will manage") turns the action inward or makes it happen between people naturally.
+- 'There is simply a loose contact inside here.' Barinov speaks evenly facing Max, testing Max's reaction in the middle of the exchange.
+- 'I am saying, you and I are both grown adults.' Timur emphasizes this key piece with Max: "vzroslyye" means "grown-ups, adults" (from "vzroslyy"), giving the line its exact edge.
+- 'Hey, Vitya, watch out.' Max hands over this warning without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'I cannot move in with you.' Timur follows up wryly with Max, grounding the moment in plain reality.
+- 'Because I simply cannot move in with you.' Barinov favors one sharp piece at once: "pereyekhat" means "to move in", and it carries the main weight of what Barinov is saying.

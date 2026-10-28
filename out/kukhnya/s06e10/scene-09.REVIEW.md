@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, wake up and get out of bed quickly.' Gulya takes a natural manner right away, putting "prosypaysya" ("wake up") alongside "vstavay" ("get up, stand up") in a tight, everyday turn of phrase.
-- 'Tell me, are you going to the shower right now this morning?' Gulya wonders earnestly to Lyova here, using "skazhi" (from "skazat", "say") alongside "seychas" ("now") to shape the meaning.
-- 'I specially saved a spot in line for you there in advance.' Gulya shares a warm course during the exchange, linking "tam" ("there"), "spetsialno" ("on purpose"), and "ochered" ("turn in the queue") in one brisk exchange.
-- 'Come on, run quickly, you are third in line right now.' Gulya picks a grounded course on the spot, linking "davay" ("let's"), "begi" ("run"), and "skoreye" ("quickly, right away") in one brisk exchange.
-- 'I need to urgently look for an apartment today!' Lyova holds a measured position in the conversation, anchoring the Russian line on "nado" ("it is necessary") and "segodnya" ("today") without extra filler.
-- 'Tell me, do you feel at least a little better right now?' The doctor checks evenly during the talk, building the phrase around "skazhite" ("tell") and "seychas" ("now") for a crisp, natural delivery.
-- 'Or maybe we will take the opposite approach?' The doctor challenges earnestly from the start, building the phrase around "mozhet" ("can") and "byt" ("be") for a crisp, natural delivery.
-- 'Try to calmly understand and forgive your husband.' The doctor brings a brisk line for Lyova, putting "poprobuyte" ("try, taste") alongside "spokoyno" ("calmly") in a tight, everyday turn of phrase.
-- 'Still, it was a big mistake for me to hire you back!' Gulya takes a firm position during the exchange, linking "ochen" ("very much"), "zrya" ("for nothing"), and "nazad" ("ago") in one brisk exchange.
-- 'The most important thing is to exclude the ex-husband from her life.' The doctor picks a clear style toward Lyova, leaning on "samoye" ("the most") before closing the thought with "glavnoye" ("important").
-- 'So that she does not see him either in magazines or on television.' The doctor holds an unhurried attitude toward Gulya, using "zhurnalakh" (from "zhurnal", "log, register") alongside "televizoru" ("television") to shape the meaning.
-- 'Otherwise it will simply be unsafe for everyone.' The doctor chooses a thoughtful style in the conversation, pairing "inache" ("otherwise") with "budet" ("will be") to get the point across in plain spoken Russian.
+- 'Lyova, wake up and get out of bed quickly.' Gulya speaks frankly in this moment, leaving no doubt about where she stands.
+- 'Tell me, are you going to the shower right now this morning?' Gulya sharpens one key word toward Lyova: "poydyosh" means "will you go" (from "poyti"), giving the line its exact edge.
+- 'I specially saved a spot in line for you there in advance.' Gulya frames one classic expression right here: "spetsialno" means "on purpose", and it carries the main weight of what Gulya is saying.
+- 'Come on, run quickly, you are third in line right now.' Gulya holds firm right away to be clear, grounding the moment in plain reality.
+- 'I need to urgently look for an apartment today!' Lyova uses this clear detail right here: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'Tell me, do you feel at least a little better right now?' The doctor aims the remark to Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'Or maybe we will take the opposite approach?' The doctor questions promptly how Gulya expects that to work in practice.
+- 'Try to calmly understand and forgive your husband.' The doctor reaches for one vivid touch in earnest: "poprobuyte" means "try, taste" (from "poprobovat"), giving the line its exact edge.
+- 'Still, it was a big mistake for me to hire you back!' Gulya grounds one telling word for the doctor: "vzyala" means "took" (from "vzyat"), giving the line its exact edge.
+- 'The most important thing is to exclude the ex-husband from her life.' The doctor holds firm promptly without holding back, refusing to let the moment slip past.
+- 'So that she does not see him either in magazines or on television.' The doctor grounds one telling choice right here: "zhurnalakh" means "log, register" (from "zhurnal"), giving the line its exact edge.
+- 'Otherwise it will simply be unsafe for everyone.' The doctor states that point right away: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.

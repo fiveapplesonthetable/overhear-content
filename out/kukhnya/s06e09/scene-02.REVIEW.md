@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Put fifty thousand on Spartak tomorrow.' Barinov favors a candid tempo as the scene unfolds, linking "postav" ("place, put"), "zavtra" ("tomorrow"), and "tysyach" ("thousand") in one brisk exchange.
-- 'You still owe her a hundred thousand.' Mikhail picks a firm attitude in front of Barinov, combining "yeshchyo" ("more, still") and "tysyach" ("thousand") so the key meaning lands right away.
-- 'She asks me to come in person with the money.' Barinov shows a natural manner straight away, combining "prosit" ("is asking for") and "priyti" ("to come") so the key meaning lands right away.
-- 'Alright, I understood everything perfectly.' Mikhail establishes an unhurried mood in the room, combining "prekrasno" ("perfectly") and "ponyal" ("understood") so the key meaning lands right away.
-- 'What a kind woman, how much money she saved me.' Barinov presents a warm footing toward Mikhail, anchoring the Russian line on "dobraya" ("friendly, kind") and "zhenshchina" ("woman") without extra filler.
-- 'Viktor, where have you been walking all day?' Mikhail challenges evenly from the start, linking "gde" ("where"), "den" ("day"), and "khodish" ("can walk, are walking") in one brisk exchange.
-- 'What do you have there in your hands?' Barinov questions naturally with Mikhail now, building the phrase around "tam" ("there") and "rukakh" ("hands") for a crisp, natural delivery.
-- 'Here is a very interesting article about a restaurant.' Mikhail picks a measured posture beside Barinov, linking "tut" ("here"), "ochen" ("very much"), and "interesnaya" ("interesting") in one brisk exchange.
-- 'The atmosphere of this restaurant wins over every guest.' Barinov shows a direct tempo as they talk, combining "atmosfera" ("atmosphere") and "restorana" ("restaurant") so the key meaning lands right away.
-- 'And delights with the warm comfort of home.' Mikhail holds a thoughtful angle with Barinov, joining "raduyet" ("delights") to "tyoplym" ("warm") so every word pulls its weight.
-- 'Just listen to these beautiful words.' Barinov shares a frank posture as the scene unfolds, joining "tolko" ("only") to "poslushayte" ("listen") so every word pulls its weight.
-- 'In a word, the competitor holds his standard well.' Mikhail maintains a resolute posture across the room, putting "slovom" ("word") alongside "konkurent" ("rival, competitor") in a tight, everyday turn of phrase.
-- 'Some corrupt journalist wrote this!' Barinov presents a pointed mood toward Mikhail, pairing "pisal" ("to write") with "prodazhnyy" ("corrupt") to get the point across in plain spoken Russian.
+- 'Put fifty thousand on Spartak tomorrow.' Barinov speaks up calmly beside Mikhail, watching Mikhail's face to see how the news lands.
+- 'You still owe her a hundred thousand.' Mikhail holds firm pointedly as they talk, before Barinov can change the subject.
+- 'She asks me to come in person with the money.' Barinov uses this key expression for Mikhail: "dengami" means "the money, funding" (from "dengi"), giving the line its exact edge.
+- 'Alright, I understood everything perfectly.' Mikhail brings that reply briskly now: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'What a kind woman, how much money she saved me.' Barinov follows up wryly in their talk, testing Mikhail's reaction in the middle of the exchange.
+- 'Viktor, where have you been walking all day?' Mikhail spotlights one loaded touch in earnest: "khodish" means "can walk, are walking" (from "khodit"), giving the line its exact edge.
+- 'What do you have there in your hands?' Barinov delivers that answer without pause: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Here is a very interesting article about a restaurant.' Mikhail holds firm earnestly as they talk, letting the remark speak for itself.
+- 'The atmosphere of this restaurant wins over every guest.' Barinov uses this telling choice in reply: "atmosfera" means "atmosphere", and it carries the main weight of what Barinov is saying.
+- 'And delights with the warm comfort of home.' Mikhail proceeds briskly beside Barinov, watching Barinov's face to see how the news lands.
+- 'Just listen to these beautiful words.' Barinov opens up bluntly across the room, without trying to dress up how he really feels.
+- 'In a word, the competitor holds his standard well.' Mikhail features one sharp term for Barinov: "konkurent" means "rival, competitor", and it carries the main weight of what Mikhail is saying.
+- 'Some corrupt journalist wrote this!' Barinov follows up wryly hearing Mikhail, steering the talk right where he wants it.

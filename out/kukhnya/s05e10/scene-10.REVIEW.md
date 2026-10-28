@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, I will step away for a moment.' Mikhail shares a measured tack beside the inspector, pairing "prostite" ("excuse me") with "nenadolgo" ("for a short time") to get the point across in plain spoken Russian.
-- 'I will join you later.' Mikhail establishes a direct tone toward Nagiyev, anchoring the Russian line on "pozzhe" ("later") and "prisoyedinyus" ("join") without extra filler.
-- 'Vitya, I cannot go home!' Nagiyev strikes an emphatic tack in front of the inspector, building the phrase around "mogu" ("can") and "domoy" ("home") for a crisp, natural delivery.
-- 'We have a commission in the hotel.' Nagiyev shows a lively rhythm in front of Mikhail, leaning on "komissiya" ("commission") before closing the thought with "otele" ("in the hotel").
-- 'Pull yourself together, I am telling you!' Mikhail keeps an emphatic attitude in their talk, pairing "soberis" ("pull yourself together") with "govoryu" ("am telling") to get the point across in plain spoken Russian.
-- 'What are you allowing yourself?' The inspector questions openly as the beat lands, leaning on "pozvolyayete" ("allow, permit") before closing the thought with "chto" ("what").
-- 'How are you treating the guests?' The inspector prompts wryly without hesitation, anchoring the Russian line on "kak" ("how") and "obrashchayetes" ("treat, handle") without extra filler.
-- 'He felt ill, I was trying to bring him to his senses.' Mikhail sustains an easygoing posture with Nagiyev, putting "stalo" ("became, came over") alongside "plokho" ("badly") in a tight, everyday turn of phrase.
-- 'Are you alright? And why are you yelling at this nice man?' The inspector probes lightly as the beat lands, building the phrase around "poryadke" ("order") and "pochemu" ("why") for a crisp, natural delivery.
-- 'Who gave you the right to raise your voice at him?' The inspector asks honestly toward Nagiyev here, pairing "golos" ("voice") with "dal" ("to give") so the "-sya" ending carries the action.
-- 'Calm down! Step away from me!' Mikhail offers an unhurried rhythm during the exchange, joining "uspokoytes" ("calm down") to "otoydite" ("step back") so every word pulls its weight.
-- 'Excuse me!' Nagiyev shares an honest style with Mikhail, using "izvinite" ("sorry, excuse me") by itself, a common way spoken Russian keeps fast dialogue punchy.
+- 'Excuse me, I will step away for a moment.' Mikhail spotlights one direct touch with the inspector: "nenadolgo" means "for a short time", and it carries the main weight of what Mikhail is saying.
+- 'I will join you later.' Mikhail brings this point plainly here: the "-sya" ending on "prisoyedinyus" ("join") turns the action inward or makes it happen between people naturally.
+- 'Vitya, I cannot go home!' Nagiyev replies honestly with a smile, before the inspector can change the subject.
+- 'We have a commission in the hotel.' Nagiyev centers one memorable piece at once: "komissiya" means "commission", and it carries the main weight of what Nagiyev is saying.
+- 'Pull yourself together, I am telling you!' Mikhail offers this statement calmly now: the "-sya" ending on "soberis" ("pull yourself together") turns the action inward or makes it happen between people naturally.
+- 'What are you allowing yourself?' The inspector checks eagerly what Nagiyev is actually getting at here.
+- 'How are you treating the guests?' The inspector reaches for this direct term for Mikhail: "obrashchayetes" means "treat, handle" (from "obrashchatsya"), giving the line its exact edge.
+- 'He felt ill, I was trying to bring him to his senses.' Mikhail drops this statement at once: the single Russian word "plokho" ("badly, Things are bad") sets up the whole statement without needing a separate word for "it is".
+- 'Are you alright? And why are you yelling at this nice man?' The inspector inquires quietly to see how Mikhail will answer on the spot.
+- 'Who gave you the right to raise your voice at him?' The inspector leans on one colorful expression for Nagiyev: "povyshat" means "to raise, promote", and it carries the main weight of what the inspector is saying.
+- 'Calm down! Step away from me!' Mikhail states the remark plainly here: the "-sya" ending on "uspokoytes" ("calm down") turns the action inward or makes it happen between people naturally.
+- 'Excuse me!' Nagiyev opens up quietly beside Mikhail, before Mikhail can change the subject.

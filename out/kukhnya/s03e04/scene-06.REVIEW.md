@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Three hundred rubles. Congratulations, Chef!' Timur chooses a steady view in front of Barinov, leaning on "rubley" ("roubles") before closing the thought with "pozdravlyayem" ("we congratulate").
-- 'And that is serious money? March back to work!' Barinov tests earnestly in the room, combining "solidnyye" ("substantial") and "dengi" ("money") so the key meaning lands right away.
-- 'Oh, Chef, brother, hello! Listen, how lucky you are.' Timur shows a wry view at once, weaving "brat" ("brother") together with "slushay" ("listen") just the way native speakers do.
-- 'I want to give you tickets to tomorrow's game.' Timur projects a playful manner as they talk, building the phrase around "khochu" ("want") and "podarit" ("give as a gift") for a crisp, natural delivery.
-- 'I cannot tomorrow.' Barinov projects a natural position in the scene, weaving "zavtra" ("tomorrow") together with "mogu" ("can") just the way native speakers do.
-- 'Did someone die? No.' Timur wonders steadily in this moment, using "umer" (from "umeret", "died") alongside "kto-to" ("someone") to shape the meaning.
-- 'Then why aren't you going? Spartak is playing!' Timur queries briskly to Barinov here, putting "togda" ("back then") alongside "idyosh" ("are coming") in a tight, everyday turn of phrase.
-- 'Sorry.' Barinov offers a measured bearing in their talk, putting all the weight on "izvini" ("sorry, excuse me") so the reply lands immediately.
-- 'Vitya, unfortunately, the cinema tomorrow is canceled.' Elena establishes a serious style at this moment, anchoring the Russian line on "sozhaleniyu" ("regret") and "kino" ("cinema, movies") without extra filler.
-- 'They just called, I have a banquet until late at night.' Elena picks a candid rhythm at once, combining "pozvonili" ("called") and "tolko" ("only") so the key meaning lands right away.
-- 'Yes, of course, I understand.' Barinov chooses a warm manner with Elena, joining "konechno" ("of course") to "ponimayu" ("understand") so every word pulls its weight.
-- 'Well, what can we do? Another time, then another time.' Barinov wonders wryly beside Timur, anchoring the Russian line on "delat" ("do") and "drugoy" ("other") without extra filler.
+- 'Three hundred rubles. Congratulations, Chef!' Timur responds sharply with a smile, grounding the moment in plain reality.
+- 'And that is serious money? March back to work!' Barinov colors this direct expression toward Timur: "solidnyye" means "substantial" (from "solidnyy"), giving the line its exact edge.
+- 'Oh, Chef, brother, hello! Listen, how lucky you are.' Timur grounds this vivid detail toward Barinov: "slushay" means "listen" (from "slushat"), giving the line its exact edge.
+- 'I want to give you tickets to tomorrow's game.' Timur jumps in earnestly in this moment, leaving no doubt about where he stands.
+- 'I cannot tomorrow.' Barinov sharpens one concrete touch right here: "zavtra" means "tomorrow", and it carries the main weight of what Barinov is saying.
+- 'Did someone die? No.' Timur shapes the comeback right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Elena purely through rising pitch at the end.
+- 'Then why aren't you going? Spartak is playing!' Timur quizzes firmly about what Barinov just brought up.
+- 'Sorry.' Barinov picks one loaded word right here: "izvini" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'Vitya, unfortunately, the cinema tomorrow is canceled.' Elena cuts in honestly to settle things, without trying to dress up how she really feels.
+- 'They just called, I have a banquet until late at night.' Elena holds firm wryly during the talk, without trying to dress up how she really feels.
+- 'Yes, of course, I understand.' Barinov reaches for one sharp expression right here: "konechno" means "of course", and it carries the main weight of what Barinov is saying.
+- 'Well, what can we do? Another time, then another time.' Barinov shapes that answer before Timur: putting the question word "chto" right at the front of the line lets Timur hear the point of the question on the very first beat.

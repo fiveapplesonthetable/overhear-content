@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'God, what have you done right now?' Max questions decisively for Kostya's benefit, pairing "seychas" ("now") with "bozhe" ("good lord, God") so the "-sya" ending carries the action.
-- 'I never thought that everything would end right like this.' Max strikes an honest direction toward Nastya, pairing "nikogda" ("never") with "dumal" ("thought") to get the point across in plain spoken Russian.
-- 'Our life turned out to be too short.' Max offers an easygoing tempo as they talk, leaning on "zhizn" ("life") before closing the thought with "okazalas" ("to turn out to be").
-- 'I did not have time to understand simple truths.' Max favors a calm stance right away, weaving "uspel" ("managed in time") together with "ponyat" ("to understand") just the way native speakers do.
-- 'If you love a person, tell them about it.' Max shares a resolute stance without hesitation, leaning on "lyubish" ("love") before closing the thought with "cheloveka" ("a man, a person").
-- 'Always thank those who teach you something.' Max strikes a warm attitude without hesitation, pairing "vsegda" ("always") with "blagodari" ("thank") to get the point across in plain spoken Russian.
-- 'Love your friends and value friendship.' Max keeps a frank tempo in the room, linking "lyubi" ("to love, to like"), "druzey" ("friends"), and "tseni" ("value, appreciate") in one brisk exchange.
-- 'What a pity that I understood all this too late.' Max picks a clear footing beside Nastya, joining "kak" ("how") to "zhal" ("it is a pity") so every word pulls its weight.
-- 'But after all, better late than never.' Max maintains a sharp position toward Kostya, combining "luchshe" ("better") and "pozdno" ("too late, late") so the key meaning lands right away.
-- 'There must be some good option.' Max establishes an emphatic tone during the exchange, pairing "dolzhen" ("has to, must") with "byt" ("be") to get the point across in plain spoken Russian.
-- 'Tell us, Kuzma or Dmitry after all?' Nastya asks boldly to keep things clear, weaving "skazhi" ("say") together with "kuzma" ("Kuzma") just the way native speakers do.
-- 'Alright, let us ask Max right now.' Kostya offers an emphatic position in this beat, combining "khorosho" ("good, fine") and "davay" ("let's") so the key meaning lands right away.
+- 'God, what have you done right now?' Max drops this line toward Kostya: putting the question word "chto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'I never thought that everything would end right like this.' Max replies lightly before Nastya, refusing to let the moment slip past.
+- 'Our life turned out to be too short.' Max centers one vivid touch for Kostya: "korotka" means "short" (from "korotkiy"), giving the line its exact edge.
+- 'I did not have time to understand simple truths.' Max speaks up lightly toward Nastya, bringing things back to earth after the buildup.
+- 'If you love a person, tell them about it.' Max opens up calmly with a sigh, making his position completely clear.
+- 'Always thank those who teach you something.' Max emphasizes one clear word for Nastya: "blagodari" means "thank" (from "blagodarit"), giving the line its exact edge.
+- 'Love your friends and value friendship.' Max counters calmly facing Kostya, testing Kostya's reaction in the middle of the exchange.
+- 'What a pity that I understood all this too late.' Max holds firm openly with a sigh, testing Nastya's reaction in the middle of the exchange.
+- 'But after all, better late than never.' Max picks this vivid word in earnest: "luchshe" means "better", and it carries the main weight of what Max is saying.
+- 'There must be some good option.' Max cuts in promptly as things stand, watching Nastya's face to see how the news lands.
+- 'Tell us, Kuzma or Dmitry after all?' Nastya prompts evenly in front of Kostya without any preamble.
+- 'Alright, let us ask Max right now.' Kostya points to one memorable term on cue: "khorosho" means "good, fine", and it carries the main weight of what Kostya is saying.

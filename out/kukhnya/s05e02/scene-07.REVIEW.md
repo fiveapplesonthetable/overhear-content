@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Calm down, everything is fine.' Kostya holds an unhurried footing in the conversation, putting "uspokoysya" ("calm down") alongside "normalno" ("fine, OK") in a tight, everyday turn of phrase.
-- 'Purely legally, you did not cheat on her.' Kostya strikes an earnest manner in front of Denis, joining "chisto" ("clean") to "yuridicheski" ("legally") so every word pulls its weight.
-- 'In what sense do you mean?' Denis tests earnestly as the beat lands, combining "smysle" ("sense") and "kakom" ("what, which") so the key meaning lands right away.
-- 'You slept with another woman back then.' Kostya conveys a brisk direction on the spot, building the phrase around "togda" ("back then") and "perespal" ("to sleep overnight") for a crisp, natural delivery.
-- 'But you were not in a relationship.' Kostya displays a playful position for Denis, joining "nakhodilsya" ("to be located") to "otnosheniyakh" ("relationships") so every word pulls its weight.
-- 'After all, Katya suggested not dating, right?' Kostya quizzes briskly in this moment, combining "predlozhila" ("to offer, to suggest") and "vstrechatsya" ("to meet") so the key meaning lands right away.
-- 'It happened after her refusal.' Kostya holds an earnest attitude without hesitation, weaving "bylo" ("was") together with "otkaza" ("after the refusal") just the way native speakers do.
-- 'She did not want to get married.' Kostya conveys an earnest tack in the room, using "zakhotela" (from "zakhotet", "wanted") alongside "vyyti" ("to marry") to shape the meaning.
-- 'I would win a case like that in court.' Kostya projects a measured footing in the conversation, joining "delo" ("matter") to "sude" ("court") so every word pulls its weight.
-- 'So I still did not understand.' Denis strikes a frank manner at once, joining "ravno" ("the same") to "ponyal" ("understood") so every word pulls its weight.
-- 'Should I tell Katya or not?' Denis checks calmly at this point, weaving "dolzhen" ("has to, must") together with "rasskazat" ("to tell") just the way native speakers do.
-- 'You see, it is a complicated question here.' Kostya maintains a brisk tempo during the exchange, pairing "vopros" ("question, matter") with "ponimayesh" ("do you understand") so the "-sya" ending carries the action.
+- 'Calm down, everything is fine.' Kostya frames this telling touch with Denis: "uspokoysya" means "calm down" (from "uspokoitsya"), giving the line its exact edge.
+- 'Purely legally, you did not cheat on her.' Kostya sharpens this vivid expression in reply: "yuridicheski" means "legally", and it carries the main weight of what Kostya is saying.
+- 'In what sense do you mean?' Denis checks plainly to see how Kostya will answer on the spot.
+- 'You slept with another woman back then.' Kostya favors one direct element in earnest: "zhenshchinoy" means "a woman" (from "zhenshchina"), giving the line its exact edge.
+- 'But you were not in a relationship.' Kostya colors this vivid detail toward Denis: "otnosheniyakh" means "relationships" (from "otnosheniye"), giving the line its exact edge.
+- 'After all, Katya suggested not dating, right?' Kostya checks bluntly why things suddenly took this turn between them.
+- 'It happened after her refusal.' Kostya grounds one telling touch for Denis: "otkaza" means "after the refusal" (from "otkaz"), giving the line its exact edge.
+- 'She did not want to get married.' Kostya fires back plainly as things stand, to clear the air between them once and for all.
+- 'I would win a case like that in court.' Kostya jumps in boldly during the talk, steering the talk right where he wants it.
+- 'So I still did not understand.' Denis sharpens one familiar detail on cue: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'Should I tell Katya or not?' Denis aims this line at once: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'You see, it is a complicated question here.' Kostya chimes in earnestly in their talk, watching Denis's face to see how the news lands.

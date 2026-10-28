@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's celebrate the prisoner's release.' Barinov picks a measured mood in the scene, anchoring the Russian line on "davayte" ("let's") and "otprazdnuyem" ("to celebrate") without extra filler.
-- 'I do not drink in the workplace, and I advise you not to either.' Elena shows an emphatic tempo beside the inspector, weaving "pyu" ("to drink") together with "rabochem" ("work") just the way native speakers do.
-- 'Besides, you arrived almost an hour late.' Elena brings a grounded direction as they talk, combining "opozdali" ("be late") and "pochti" ("almost") so the key meaning lands right away.
-- 'You don't really think I am going to work as a sous-chef?' Barinov asks naturally toward the inspector here, linking "dumayesh" ("think"), "budu" ("will be"), and "rabotat" ("to work") in one brisk exchange.
-- 'Actually, that was the condition of your release.' Elena brings a measured manner at once, anchoring the Russian line on "voobshche-to" ("actually") and "bylo" ("was") without extra filler.
-- 'Are you being serious right now?' Barinov wonders frankly without a pause, putting "seryozno" ("seriously") alongside "vy" ("you") in a tight, everyday turn of phrase.
-- 'Sergey Konstantinovich, hello.' Barinov holds a measured manner as the scene unfolds, putting "konstantinovich" ("konstantinovich") alongside "zdravstvuyte" ("hello") in a tight, everyday turn of phrase.
-- 'Good health to you.' The inspector brings a measured course beside Elena, weaving "zdraviya" ("health") together with "zhelayu" ("I wish") just the way native speakers do.
-- 'You have only two kitchens to choose from.' The inspector sustains a candid rhythm in this beat, linking "tolko" ("only"), "kukhni" ("kitchen"), and "vybor" ("choice") in one brisk exchange.
-- 'In this restaurant or in a prison camp near Vorkuta.' The inspector takes an unhurried tone straight away, joining "restorane" ("restaurant") to "zone" ("vorkuta") so every word pulls its weight.
-- 'And how long do I have to serve my time here?' Barinov quizzes earnestly from the start, linking "skolko" ("how much, so much"), "srok" ("term"), and "motat" ("to time") in one brisk exchange.
-- 'That is up to your guarantor to decide.' The inspector projects a lively view on the spot, joining "kak" ("how") to "poruchitel" ("decide") so every word pulls its weight.
+- 'Let's celebrate the prisoner's release.' Barinov centers one clear term for Elena: "osvobozhdeniye" means "prisoner's" (from "osvobozhdeniy"), giving the line its exact edge.
+- 'I do not drink in the workplace, and I advise you not to either.' Elena grounds one concrete expression with the inspector: "rabochem" means "work" (from "rabochiy"), giving the line its exact edge.
+- 'Besides, you arrived almost an hour late.' Elena continues briskly with a nod, keeping the focus on what actually matters here.
+- 'You don't really think I am going to work as a sous-chef?' Barinov leans on this telling expression in reply: "su-shefom" means "sous-chef" (from "su-shef"), giving the line its exact edge.
+- 'Actually, that was the condition of your release.' Elena drops the remark beside Barinov: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Are you being serious right now?' Barinov quizzes earnestly in front of the inspector without any preamble.
+- 'Sergey Konstantinovich, hello.' Barinov grounds one familiar piece in earnest: "konstantinovich" means "konstantinovich", and it carries the main weight of what Barinov is saying.
+- 'Good health to you.' The inspector aims the comment briskly now: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'You have only two kitchens to choose from.' The inspector stands firm warmly as things stand, steering the talk right where he wants it.
+- 'In this restaurant or in a prison camp near Vorkuta.' The inspector uses this vivid piece in reply: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'And how long do I have to serve my time here?' Barinov voices the reaction right away: putting the question word "skolko" right at the front of the line lets Elena hear the point of the question on the very first beat.
+- 'That is up to your guarantor to decide.' The inspector jumps in warmly facing Elena, testing Elena's reaction in the middle of the exchange.

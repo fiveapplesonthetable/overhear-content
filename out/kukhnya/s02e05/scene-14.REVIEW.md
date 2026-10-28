@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, which one of you is Lavrov?' Max probes decisively to keep things clear, pairing "tut" ("here") with "tak" ("so") to get the point across in plain spoken Russian.
-- 'Kostyan, hold on a second.' Barinov picks an honest approach beside Max, putting "pogodi" ("wait") alongside "kostyan" ("Kostyan") in a tight, everyday turn of phrase.
-- 'Who here is Lavrov? Kostyan?' Max queries lightly in the room, joining "tut" ("here") to "kto" ("who") so every word pulls its weight.
-- 'Why do you need him?' Max questions openly to make the point, weaving "zachem" ("what for") together with "vam" ("you") just the way native speakers do.
-- 'Excuse me, do I really have to go?' Barinov quizzes quietly in front of Kostya, linking "izvinite" ("sorry, excuse me"), "obyazatelno" ("surely, without fail"), and "idti" ("to go") in one brisk exchange.
-- 'If you prefer, we can do the procedure right here in front of everyone.' Kostya keeps a lively angle in this beat, using "khotite" (from "khotet", "want") alongside "mozhem" ("can") to shape the meaning.
-- 'Hello, Kostyan, I have to go right now.' Max keeps a steady position in this beat, linking "tut" ("here"), "nuzhno" ("necessary"), and "poyti" ("go") in one brisk exchange.
-- 'Everything happens for a reason.' Barinov presents an earnest tack at this moment, using "delayetsya" (from "delat", "is made, is done") alongside "chto" ("what") to shape the meaning.
-- 'Thanks to Vyacheslav Malafeev.' Kostya conveys a grounded footing straight away, weaving "blagodarya" ("thanks to") together with "vyacheslavu" ("Vyacheslav") just the way native speakers do.
-- 'Lyova, do you understand what is going on?' Max quizzes briskly across the room, putting "ponimayesh" ("do you understand") alongside "delo" ("matter") in a tight, everyday turn of phrase.
-- 'He ate everything that I prepared.' Barinov displays a candid stance on the spot, leaning on "syel" ("ate") before closing the thought with "prigotovil" ("cooked").
-- 'I want to confess.' Kostya shares a brisk note in this beat, building the phrase around "khochu" ("want") and "priznatsya" ("to admit") for a crisp, natural delivery.
-- 'It was normal food, but I had a reason for doing it.' Max adopts an honest direction at once, combining "normalnoye" ("normal") and "byla" ("was") so the key meaning lands right away.
+- 'All right, which one of you is Lavrov?' Max voices that thought for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Kostyan, hold on a second.' Barinov holds firm evenly without any doubt, to clear the air between them once and for all.
+- 'Who here is Lavrov? Kostyan?' Max gives this point without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Why do you need him?' Max delivers that point frankly here: putting the question word "zachem" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Excuse me, do I really have to go?' Barinov probes frankly what Kostya is actually getting at here.
+- 'If you prefer, we can do the procedure right here in front of everyone.' Kostya stresses one clear detail for Max: "khotite" means "want" (from "khotet"), giving the line its exact edge.
+- 'Hello, Kostyan, I have to go right now.' Max hands over that remark calmly now: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Everything happens for a reason.' Barinov follows up decisively watching Max, refusing to let the moment slip past.
+- 'Thanks to Vyacheslav Malafeev.' Kostya aims this line before Barinov: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Lyova, do you understand what is going on?' Max brings the reply before Kostya: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'He ate everything that I prepared.' Barinov pushes back openly with Kostya, watching Kostya's face to see how the news lands.
+- 'I want to confess.' Kostya colors this direct piece with Max: "priznatsya" means "to admit", and it carries the main weight of what Kostya is saying.
+- 'It was normal food, but I had a reason for doing it.' Max shapes this warning in earnest: Russian phrases this around "u menya" (literally "by me") rather than "I have", a pattern you will hear in almost every scene.

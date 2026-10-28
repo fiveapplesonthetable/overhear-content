@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Denis, so you are working for Louis today?' Senya presses wryly in their exchange, anchoring the Russian line on "znachit" ("then, so") and "segodnya" ("today") without extra filler.
-- 'Then give me two French pastries, please.' Louis favors a calm note toward Senya, combining "togda" ("back then") and "day" ("give") so the key meaning lands right away.
-- 'What trouble, Louis labeled everything in a foreign language!' Denis shows a frank angle in front of Louis, joining "beda" ("trouble") to "podpisal" ("signed") so every word pulls its weight.
-- 'And how am I to understand which dessert is where?' Denis wonders decisively from the start, pairing "kak" ("how") with "ponyat" ("to understand") to get the point across in plain spoken Russian.
-- 'Denis, I also need a cherry tart with cream!' Louis establishes an emphatic footing in the scene, putting "yeshchyo" ("more, still") alongside "nuzhen" ("is needed") in a tight, everyday turn of phrase.
-- 'Great, now some complicated tart on top of that!' Denis projects a steady style at once, putting "otlichno" ("perfect, great") alongside "teper" ("now") in a tight, everyday turn of phrase.
-- 'Listen, let me quickly help you figure it out.' Senya shares a direct course for Denis, pairing "slushay" ("listen") with "davay" ("let's") to get the point across in plain spoken Russian.
-- 'Senya, tell me, which of these pastries should I hand out?' Denis inquires plainly to keep things clear, weaving "skazhi" ("say") together with "pirozhnykh" ("pastry") just the way native speakers do.
-- 'Right now we will look closely and taste everything.' Senya displays an unhurried manner at once, pairing "seychas" ("now") with "vnimatelno" ("carefully, attentively") so the "-sya" ending carries the action.
-- 'No, this is definitely not that pastry, give me another.' Senya shares a calm attitude as the scene unfolds, anchoring the Russian line on "tochno" ("definitely") and "pirozhnoye" ("pastries, cakes") without extra filler.
-- 'What are you doing, you ate everything!' Denis brings a resolute bearing straight away, putting "delayesh" ("are you doing") alongside "syel" ("ate") in a tight, everyday turn of phrase.
-- 'Go away from here, Senya, I will figure it out myself!' Denis sustains a sharp posture in the room, weaving "ukhodi" ("go away") together with "otsyuda" ("from here") just the way native speakers do.
+- 'Denis, so you are working for Louis today?' Senya chooses one clear touch for Denis: "rabotayesh" means "are working" (from "rabotat"), giving the line its exact edge.
+- 'Then give me two French pastries, please.' Louis delivers that answer without pause: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'What trouble, Louis labeled everything in a foreign language!' Denis steps in plainly around Louis, saying out loud what both of them already know.
+- 'And how am I to understand which dessert is where?' Denis emphasizes one concrete touch for Senya: "desert" means "dessert", and it carries the main weight of what Denis is saying.
+- 'Denis, I also need a cherry tart with cream!' Louis cuts in briskly during the talk, before Denis can change the subject.
+- 'Great, now some complicated tart on top of that!' Denis jumps in bluntly on the spot, leaving no doubt about where he stands.
+- 'Listen, let me quickly help you figure it out.' Senya spotlights this sharp choice right here: "razobratsya" means "to deal with", and it carries the main weight of what Senya is saying.
+- 'Senya, tell me, which of these pastries should I hand out?' Denis sends the reply around Senya: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Right now we will look closely and taste everything.' Senya pushes back candidly to settle things, so Denis knows he is not just making small talk.
+- 'No, this is definitely not that pastry, give me another.' Senya colors one colorful choice right here: "pirozhnoye" means "pastries, cakes", and it carries the main weight of what Senya is saying.
+- 'What are you doing, you ate everything!' Denis centers this clear term in earnest: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
+- 'Go away from here, Senya, I will figure it out myself!' Denis stands firm openly around Senya, letting the remark speak for itself.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, it is good that you stood up.' Barinov presents a natural mood straight away, leaning on "khorosho" ("good, fine") before closing the thought with "vstal" ("stood up, got up").
-- 'I must make an important announcement.' Barinov keeps a clear view straight away, combining "dolzhen" ("has to, must") and "sdelat" ("to do") so the key meaning lands right away.
-- 'I am no longer working as head chef.' Barinov conveys a sharp footing with Gulya, combining "bolshe" ("more") and "rabotayu" ("work") so the key meaning lands right away.
-- 'I am not worried about the restaurant.' Barinov strikes a clear rhythm across the room, pairing "restoran" ("restaurant") with "perezhivayu" ("worry") to get the point across in plain spoken Russian.
-- 'Lyova is a great professional and friend.' Barinov sets an earnest line beside Gulya, joining "bolshoy" ("big") to "professional" ("professional") so every word pulls its weight.
-- 'He is my very best friend.' Barinov conveys a brisk note in the room, leaning on "samyy" ("the most") before closing the thought with "luchshiy" ("best").
-- 'The time has come for you to become head chef.' Gulya strikes a direct line at once, building the phrase around "prishla" ("came") and "pora" ("it's time") for a crisp, natural delivery.
-- 'Chef, forgive me, I cannot.' Lyova establishes a natural footing at this moment, putting "prostite" ("excuse me") alongside "mogu" ("can") in a tight, everyday turn of phrase.
-- 'I am flying to Bishkek right now.' Lyova chooses a candid bearing in the conversation, anchoring the Russian line on "seychas" ("now") and "uletayu" ("am flying away") without extra filler.
-- 'I am flying away, perhaps for five years.' Lyova adopts a frank tempo in their talk, leaning on "uletayu" ("am flying away") before closing the thought with "mozhet" ("can").
-- 'Excuse me for this decision.' Lyova conveys a clear position as the scene unfolds, weaving "izvinite" ("sorry, excuse me") together with "resheniye" ("decision") just the way native speakers do.
-- 'Viktor Petrovich, this is true love.' Gulya brings a direct style as the scene unfolds, putting "nastoyashchaya" ("real, genuine") alongside "lyubov" ("love") in a tight, everyday turn of phrase.
+- 'Lyova, it is good that you stood up.' Barinov chooses one memorable word right here: "khorosho" means "good, fine", and it carries the main weight of what Barinov is saying.
+- 'I must make an important announcement.' Barinov counters steadily facing Lyova, steering the talk right where he wants it.
+- 'I am no longer working as head chef.' Barinov fires back calmly facing Gulya, before Gulya can change the subject.
+- 'I am not worried about the restaurant.' Barinov leans on one direct piece at once: "perezhivayu" means "worry" (from "perezhivat"), giving the line its exact edge.
+- 'Lyova is a great professional and friend.' Barinov directs this update calmly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'He is my very best friend.' Barinov fires back lightly without holding back, saying out loud what both of them already know.
+- 'The time has come for you to become head chef.' Gulya highlights this sharp term toward Barinov: "prishla" means "came" (from "priyti"), giving the line its exact edge.
+- 'Chef, forgive me, I cannot.' Lyova hands over that answer facing Gulya: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'I am flying to Bishkek right now.' Lyova responds decisively to be clear, watching Barinov's face to see how the news lands.
+- 'I am flying away, perhaps for five years.' Lyova highlights one pointed detail with Gulya: "uletayu" means "am flying away" (from "uletat"), giving the line its exact edge.
+- 'Excuse me for this decision.' Lyova aims the reply frankly here: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Lyova steps in.
+- 'Viktor Petrovich, this is true love.' Gulya continues steadily before Lyova, refusing to let the moment slip past.

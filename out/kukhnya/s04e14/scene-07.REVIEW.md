@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I need a table for twelve people.' Barinov shares an emphatic tack without hesitation, combining "nuzhen" ("is needed") and "stolik" ("table") so the key meaning lands right away.
-- 'No, I do not need it for tomorrow anymore.' Barinov conveys a wry rhythm as they talk, anchoring the Russian line on "zavtra" ("tomorrow") and "uzhe" ("already, now") without extra filler.
-- 'It is the end of the week, everything is booked in all restaurants!' Barinov brings a steady posture in front of Lyova, joining "konets" ("end") to "nedeli" ("weeks") so every word pulls its weight.
-- 'Viktor Petrovich, maybe we can celebrate at Monet then?' Lyova wonders warmly for Vika's benefit, combining "mozhet" ("can") and "togda" ("back then") so the key meaning lands right away.
-- 'Make revenue for that obnoxious German?' Barinov inquires briskly without hesitation, building the phrase around "delat" ("do") and "vyruchku" ("revenue") for a crisp, natural delivery.
-- 'Not for anything in the world will I go!' Barinov picks a measured note at once, leaning on "svete" ("world") before closing the thought with "poydu" ("go").
-- 'Good afternoon, do you have a reservation in advance?' Vika checks dryly across the room, linking "dobryy" ("good"), "den" ("day"), and "zaraneye" ("in advance") in one brisk exchange.
-- 'Angelina, do you not recognize me at all?' Barinov asks sharply in the room, joining "sovsem" ("at all") to "uznayosh" ("do you recognise") so every word pulls its weight.
-- 'Quickly call Viktoriya Sergeyevna over here!' Barinov presents a direct tone in their talk, pairing "bystro" ("quickly") with "pozovi" ("call, invite") to get the point across in plain spoken Russian.
-- 'Hello, Vika, we have a banquet for today.' Barinov brings a warm view as the scene unfolds, pairing "banket" ("banquet") with "segodnya" ("today") to get the point across in plain spoken Russian.
-- 'And definitely prepare a big cake for us.' Barinov shows a brisk bearing without hesitation, combining "obyazatelno" ("surely, without fail") and "prigotovte" ("prepare, cook") so the key meaning lands right away.
-- 'I am afraid we will not have enough candles for that!' Vika sets a sharp tack in front of Lyova, combining "boyus" ("am afraid") and "khvatit" ("enough") so the key meaning lands right away.
+- 'I need a table for twelve people.' Barinov colors one loaded word in earnest: "nuzhen" means "is needed" (from "nuzhnyy"), giving the line its exact edge.
+- 'No, I do not need it for tomorrow anymore.' Barinov shapes this line to Vika: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'It is the end of the week, everything is booked in all restaurants!' Barinov continues right away hearing Lyova, bringing things back to earth after the buildup.
+- 'Viktor Petrovich, maybe we can celebrate at Monet then?' Lyova features one familiar detail with Vika: "otmetim" means "to celebrate" (from "otmetit"), giving the line its exact edge.
+- 'Make revenue for that obnoxious German?' Barinov sends the comeback beside Lyova: Russian keeps the exact word order of a normal statement here, turning it into a question for Lyova purely through rising pitch at the end.
+- 'Not for anything in the world will I go!' Barinov holds firm lightly without holding back, to clear the air between them once and for all.
+- 'Good afternoon, do you have a reservation in advance?' Vika colors one pointed piece with Barinov: "zabronirovano" means "advance", and it carries the main weight of what Vika is saying.
+- 'Angelina, do you not recognize me at all?' Barinov drops this statement frankly here: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Quickly call Viktoriya Sergeyevna over here!' Barinov follows up frankly in their talk, to clear the air between them once and for all.
+- 'Hello, Vika, we have a banquet for today.' Barinov emphasizes one direct touch toward Vika: "banket" means "banquet", and it carries the main weight of what Barinov is saying.
+- 'And definitely prepare a big cake for us.' Barinov steps in sharply with a sigh, without trying to dress up how he really feels.
+- 'I am afraid we will not have enough candles for that!' Vika answers pointedly hearing Lyova, letting the remark speak for itself.

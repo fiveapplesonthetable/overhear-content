@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Quiet, sit down. Why did you tell her?' Max checks calmly across the room, putting "tikho" ("easy, quiet") alongside "sadis" ("sit down") in a tight, everyday turn of phrase.
-- 'I did not tell them anything!' Vika offers an unhurried line straight away, using "govorila" (from "govorit", "said") alongside "ya" ("I") to shape the meaning.
-- 'Grandma, who told you about everything? Call a doctor quickly!' Max tests warmly at this point, leaning on "babushka" ("old lady") before closing the thought with "rasskazal" ("told").
-- 'She had an attack, but it is nothing terrible.' Vika chooses a sharp mood at this moment, combining "byl" ("was") and "pristup" ("attack, fit") so the key meaning lands right away.
-- 'For now we need to avoid physical strain and buy these medicines.' Vika sustains an earnest attitude in front of Lyova, combining "poka" ("bye") and "nuzhno" ("necessary") so the key meaning lands right away.
-- 'All the best, thank you!' Max sets a serious tempo at once, putting "dobrogo" ("good") alongside "spasibo" ("thank you") in a tight, everyday turn of phrase.
-- 'Listen, now I am even afraid to be late for work.' Lyova projects a steady position beside Max, weaving "slushay" ("listen") together with "teper" ("now") just the way native speakers do.
-- 'Of course the ancients were right, but one should not forget about life either.' Max establishes a natural line in front of Vika, putting "konechno" ("of course") alongside "drevniye" ("ancient, antique") in a tight, everyday turn of phrase.
-- 'You should have seen his face!' Lyova keeps a lively stance as they talk, weaving "videla" ("saw") together with "litso" ("face") just the way native speakers do.
-- 'Buy flowers for your wife!' Vika sets a grounded tone as they talk, anchoring the Russian line on "kupite" ("buy") and "supruge" ("spouse, wife") without extra filler.
-- 'We are not married. So what, not give flowers now? Give me all of them!' Lyova questions promptly as they speak, joining "zhenaty" ("married") to "teper" ("now") so every word pulls its weight.
-- 'Here you go!' Lyova keeps a resolute tempo in the room, putting all the weight on "proshu" ("beg, ask") so the reply lands immediately.
+- 'Quiet, sit down. Why did you tell her?' Max aims that reply with warmth: putting the question word "zachem" right at the front of the line lets Lyova hear the point of the question on the very first beat.
+- 'I did not tell them anything!' Vika weighs in earnestly with a shrug, watching Max's face to see how the news lands.
+- 'Grandma, who told you about everything? Call a doctor quickly!' Max picks this telling detail on cue: "babushka" means "old lady", and it carries the main weight of what Max is saying.
+- 'She had an attack, but it is nothing terrible.' Vika responds briskly toward Max, testing Max's reaction in the middle of the exchange.
+- 'For now we need to avoid physical strain and buy these medicines.' Vika stands firm honestly toward Lyova, shifting the whole mood of the room in a single beat.
+- 'All the best, thank you!' Max features one telling choice right here: "dobrogo" means "good" (from "dobryy"), giving the line its exact edge.
+- 'Listen, now I am even afraid to be late for work.' Lyova jumps in dryly in their talk, refusing to let the moment slip past.
+- 'Of course the ancients were right, but one should not forget about life either.' Max cuts in sharply with a smile, bringing things back to earth after the buildup.
+- 'You should have seen his face!' Lyova sharpens one direct piece for Max: "litso" means "face", and it carries the main weight of what Lyova is saying.
+- 'Buy flowers for your wife!' Vika puts that reply for Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'We are not married. So what, not give flowers now? Give me all of them!' Lyova tests curiously how Max expects that to work in practice.
+- 'Here you go!' Lyova underscores one familiar touch at once: "proshu" means "beg, ask" (from "prosit"), giving the line its exact edge.

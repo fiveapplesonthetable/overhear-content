@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me honestly, is this true about Max?' Vika prompts bluntly on the spot, pairing "skazhi" ("say") with "chestno" ("honestly") to get the point across in plain spoken Russian.
-- 'No, I simply decided to teach him a lesson.' Vika shows a wry manner beside Max, building the phrase around "prosto" ("just") and "reshila" ("decided") for a crisp, natural delivery.
-- 'That is very right, it serves him right!' Vika holds a serious attitude for Kostya, weaving "ochen" ("very much") together with "pravilno" ("right") just the way native speakers do.
-- 'Kostya, Katya set me up badly today.' Max displays a grounded manner as the scene unfolds, anchoring the Russian line on "segodnya" ("today") and "silno" ("strongly, much") without extra filler.
-- 'Maybe you simply do not remember anything?' Kostya prompts firmly to make the point, putting "mozhet" ("can") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'After all, that sometimes happens to you.' Kostya favors a lively footing right away, building the phrase around "inogda" ("sometimes, at times") and "byvayet" ("there can be") for a crisp, natural delivery.
-- 'I know for sure that I did not sleep with her.' Max displays a playful footing at this moment, linking "tochno" ("definitely"), "znayu" ("know"), and "spal" ("slept") in one brisk exchange.
-- 'And it seems to me she is lying to all of us.' Max presents an easygoing attitude across the room, leaning on "kazhetsya" ("it seems, I think") before closing the thought with "vryot" ("is lying").
-- 'Then she must have exact proof.' Kostya presents a clear bearing right away, weaving "togda" ("back then") together with "dolzhny" ("must, should") just the way native speakers do.
-- 'We just need to do one quick test.' Kostya offers a grounded tone in front of Vika, joining "nuzhno" ("necessary") to "prosto" ("just") so every word pulls its weight.
-- 'Boys, come inside to us for lunch quickly!' Vika favors a resolute stance in front of Kostya, building the phrase around "malchiki" ("boys") and "zakhodite" ("come in") for a crisp, natural delivery.
-- 'Thank you, we do not want to eat on the street today.' Max projects a warm rhythm for Vika, building the phrase around "spasibo" ("thank you") and "segodnya" ("today") for a crisp, natural delivery.
-- 'Right, it is always better to eat calmly at home.' Kostya establishes a measured position straight away, pairing "pravilno" ("right") with "luchshe" ("better") to get the point across in plain spoken Russian.
+- 'Tell me honestly, is this true about Max?' Vika frames one loaded detail in earnest: "pravda" means "honestly", and it carries the main weight of what Vika is saying.
+- 'No, I simply decided to teach him a lesson.' Vika shapes the reply to Max: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'That is very right, it serves him right!' Vika proceeds frankly beside Kostya, keeping the focus on what actually matters here.
+- 'Kostya, Katya set me up badly today.' Max highlights one familiar word toward Vika: "segodnya" means "today", and it carries the main weight of what Max is saying.
+- 'Maybe you simply do not remember anything?' Kostya directs that remark with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'After all, that sometimes happens to you.' Kostya speaks up wryly to settle things, watching Vika's face to see how the news lands.
+- 'I know for sure that I did not sleep with her.' Max features one clear piece right here: "tochno" means "definitely", and it carries the main weight of what Max is saying.
+- 'And it seems to me she is lying to all of us.' Max aims the thought plainly here: the "-sya" ending on "kazhetsya" ("it seems, I think") turns the action inward or makes it happen between people naturally.
+- 'Then she must have exact proof.' Kostya follows up boldly beside Max, watching Max's face to see how the news lands.
+- 'We just need to do one quick test.' Kostya grounds one pointed term for Vika: "bystryy" means "fast", and it carries the main weight of what Kostya is saying.
+- 'Boys, come inside to us for lunch quickly!' Vika speaks up dryly in this moment, before Kostya can change the subject.
+- 'Thank you, we do not want to eat on the street today.' Max jumps in candidly hearing Vika, to clear the air between them once and for all.
+- 'Right, it is always better to eat calmly at home.' Kostya centers this direct expression in reply: "pravilno" means "right", and it carries the main weight of what Kostya is saying.

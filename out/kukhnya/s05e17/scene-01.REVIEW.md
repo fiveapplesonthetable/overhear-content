@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, has Goncharova given birth yet?' Max queries bluntly without a pause, leaning on "zdravstvuyte" ("hello") before closing the thought with "uzhe" ("already, now").
-- 'Not yet, wait here.' The doctor shows an easygoing posture as they talk, linking "yeshchyo" ("more, still"), "zhdite" ("to wait, to expect"), and "zdes" ("here") in one brisk exchange.
-- 'Why is she not picking up the phone?' Max wonders dryly to the doctor here, weaving "trubku" ("the receiver") together with "beryot" ("takes") just the way native speakers do.
-- 'Sir, how do you imagine childbirth?' The doctor asks earnestly during the talk, combining "muzhchina" ("man") and "kak" ("how") so the key meaning lands right away.
-- 'Yes, hi, is everything alright?' Max queries evenly toward the doctor here, linking "normalno" ("fine, OK"), "da" ("yes"), and "privet" ("hi") in one brisk exchange.
-- 'I am already at the maternity hospital.' Max shows a lively posture right away, combining "uzhe" ("already, now") and "roddome" ("maternity hospital") so the key meaning lands right away.
-- 'Hold on the line for a second.' Max sustains a lively line without hesitation, using "povisi" (from "poviset", "hold on") alongside "sekundochku" ("one little second") to shape the meaning.
-- 'Tell me, how can I get through?' Max presses evenly without hesitation, using "skazhite" (from "skazat", "tell") alongside "kak" ("how") to shape the meaning.
-- 'And who are you anyway?' The doctor checks briskly without hesitation, leaning on "voobshche" ("at all") before closing the thought with "vy" ("you").
-- 'I am her lawful husband.' Max picks a playful bearing in the scene, leaning on "zakonnyy" ("legitimate") before closing the thought with "muzh" ("husband").
-- 'Under the contract we let close relatives in.' The doctor keeps a brisk course toward Max, building the phrase around "kontraktu" ("by contract") and "rodstvennikov" ("relatives") for a crisp, natural delivery.
-- 'Open the door for me, please.' Max offers a wry line on the spot, building the phrase around "otkroyte" ("open") and "dver" ("door") for a crisp, natural delivery.
+- 'Hello, has Goncharova given birth yet?' Max emphasizes this clear term with the doctor: "zdravstvuyte" means "hello", and it carries the main weight of what Max is saying.
+- 'Not yet, wait here.' The doctor hands over that reply toward Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Why is she not picking up the phone?' Max challenges sharply as the doctor tries to explain the situation.
+- 'Sir, how do you imagine childbirth?' The doctor chooses one key touch right here: "predstavlyayete" means "to imagine" (from "predstavlyat"), giving the line its exact edge.
+- 'Yes, hi, is everything alright?' Max sends that answer at once: opening with the casual greeting "privet" ("hi") signals right away that Max and the doctor are on familiar terms.
+- 'I am already at the maternity hospital.' Max steps in lightly on the spot, refusing to let the moment slip past.
+- 'Hold on the line for a second.' Max grounds one loaded touch with the doctor: "sekundochku" means "one little second" (from "sekundochka"), giving the line its exact edge.
+- 'Tell me, how can I get through?' Max shares this statement with warmth: putting the question word "kak" right at the front of the line lets the doctor hear the point of the question on the very first beat.
+- 'And who are you anyway?' The doctor questions plainly in front of Max without any preamble.
+- 'I am her lawful husband.' Max emphasizes one clear touch in reply: "zakonnyy" means "legitimate", and it carries the main weight of what Max is saying.
+- 'Under the contract we let close relatives in.' The doctor counters right away without any doubt, to clear the air between them once and for all.
+- 'Open the door for me, please.' Max weighs in boldly to be clear, refusing to let the moment slip past.

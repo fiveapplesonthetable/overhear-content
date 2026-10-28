@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What are you doing? This coffee is piping hot!' Eleonora queries naturally in the room, using "delayesh" (from "delat", "are you doing") alongside "kofe" ("of coffee") to shape the meaning.
-- 'Excuse me, but you bumped into me yourself.' Nikita keeps an emphatic tempo in their talk, weaving "izvinite" ("sorry, excuse me") together with "tolknuli" ("push, bump into") just the way native speakers do.
-- 'Do you also want to blame me for this myself?' Eleonora wonders honestly without holding back, combining "yeshchyo" ("more, still") and "khochesh" ("do you want") so the key meaning lands right away.
-- 'You had a last chance, but you lost it.' Eleonora projects a calm note at once, using "byl" (from "byt", "was") alongside "posledniy" ("last") to shape the meaning.
-- 'That is it, from this minute you are fired for good!' Eleonora brings a lively course in the room, anchoring the Russian line on "minuty" ("minutes") and "okonchatelno" ("finally") without extra filler.
-- 'Mom, are you seriously saying that to him right now?' Katya presses quietly as they speak, building the phrase around "mama" ("mum, mother") and "seychas" ("now") for a crisp, natural delivery.
-- 'You spilled that coffee on yourself!' Katya shares a firm manner across the room, leaning on "kofe" ("of coffee") before closing the thought with "razlila" ("spill, pour out").
-- 'What are you firing him for right now then?' Katya inquires steadily to make the point, joining "togda" ("back then") to "seychas" ("now") so every word pulls its weight.
-- 'You cannot treat people so unfairly, Mom!' Katya sustains a warm note during the exchange, building the phrase around "nespravedlivo" ("unfairly") and "nelzya" ("not allowed") for a crisp, natural delivery.
-- 'Yes, perhaps my daughter Katya is completely right.' Eleonora takes an earnest posture in the conversation, anchoring the Russian line on "doch" ("daughter") and "sovershenno" ("quite, completely") without extra filler.
-- 'Nikita, forgive me, I just lost my temper a little.' Eleonora shares a thoughtful direction on the spot, weaving "izvini" ("sorry, excuse me") together with "prosto" ("just") just the way native speakers do.
-- 'Thank you and enjoy your meal, Eleonora Andreyevna.' Nikita chooses an unhurried view in the conversation, combining "spasibo" ("thank you") and "priyatnogo" ("pleasant") so the key meaning lands right away.
+- 'What are you doing? This coffee is piping hot!' Eleonora states this statement at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Excuse me, but you bumped into me yourself.' Nikita counters dryly in this moment, keeping the focus on what actually matters here.
+- 'Do you also want to blame me for this myself?' Eleonora sharpens this telling word at once: "yeshchyo" means "more, still", and it carries the main weight of what Eleonora is saying.
+- 'You had a last chance, but you lost it.' Eleonora hands over the thought facing Nikita: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'That is it, from this minute you are fired for good!' Eleonora continues plainly in this moment, making her position completely clear.
+- 'Mom, are you seriously saying that to him right now?' Katya grounds one direct word at once: "seryozno" means "seriously", and it carries the main weight of what Katya is saying.
+- 'You spilled that coffee on yourself!' Katya features one colorful element in reply: "razlila" means "spill, pour out" (from "razlit"), giving the line its exact edge.
+- 'What are you firing him for right now then?' Katya presses evenly before Nikita can change the subject.
+- 'You cannot treat people so unfairly, Mom!' Katya uses one concrete element at once: "nespravedlivo" means "unfairly", and it carries the main weight of what Katya is saying.
+- 'Yes, perhaps my daughter Katya is completely right.' Eleonora drops the comment to Nikita: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Nikita, forgive me, I just lost my temper a little.' Eleonora opens up lightly hearing Katya, grounding the moment in plain reality.
+- 'Thank you and enjoy your meal, Eleonora Andreyevna.' Nikita emphasizes this sharp detail with Katya: "priyatnogo" means "pleasant" (from "priyatnyy"), giving the line its exact edge.

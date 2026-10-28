@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Changes can begin at absolutely any moment.' Max takes an emphatic view in this beat, pairing "peremeny" ("changes") with "mogut" ("can") to get the point across in plain spoken Russian.
-- 'They always catch you completely off guard.' Max brings a firm style with Vika, pairing "vsegda" ("always") with "zastayut" ("to catch, to find") to get the point across in plain spoken Russian.
-- 'I do not understand, what is this barrier?' Barinov quizzes decisively for Max's benefit, joining "ponyal" ("understood") to "shlagbaum" ("barrier, turnstile") so every word pulls its weight.
-- 'Good morning, Viktor Petrovich, you are late today.' Vika projects a frank bearing in their talk, using "dobroye" (from "dobryy", "good") alongside "utro" ("morning") to shape the meaning.
-- 'Trains are late! Maybe you will explain everything to me?' Barinov wonders bluntly right away, joining "poyezda" ("trains") to "opazdyvayut" ("are late") so every word pulls its weight.
-- 'We have become part of a large restaurant chain.' Vika shows a wry manner as they talk, building the phrase around "stali" ("to become") and "chastyu" ("part") for a crisp, natural delivery.
-- 'The general rules of this chain are being introduced here.' Vika chooses an honest line across the room, anchoring the Russian line on "vvodyatsya" ("are being introduced") and "obshchiye" ("shared, common") without extra filler.
-- 'Here is your new electronic pass, take it.' Vika sets a calm bearing as they talk, pairing "novyy" ("new") with "elektronnyy" ("electronic") to get the point across in plain spoken Russian.
-- 'What, do we work at a factory now?' Barinov asks briskly in this moment, combining "teper" ("now") and "zavode" ("factory, plant") so the key meaning lands right away.
-- 'Why did you even put this here?' Barinov inquires briskly as they speak, linking "zachem" ("what for"), "voobshche" ("at all"), and "syuda" ("here") in one brisk exchange.
-- 'To strictly record when an employee arrives.' Vika maintains a brisk manner in their talk, linking "strogo" ("sternly, strictly"), "fiksirovat" ("to record, track"), and "kogda" ("when") in one brisk exchange.
-- 'Cooks are not allowed to leave their workstation.' Vika strikes a sharp footing at this moment, joining "povaram" ("cooks") to "nelzya" ("not allowed") so every word pulls its weight.
-- 'Can we not even go out for a smoke now?' Barinov tests frankly to Max here, putting "teper" ("now") alongside "pokurit" ("to have a smoke") in a tight, everyday turn of phrase.
+- 'Changes can begin at absolutely any moment.' Max focuses on this vivid element right here: "peremeny" means "changes" (from "peremena"), giving the line its exact edge.
+- 'They always catch you completely off guard.' Max offers the comeback briskly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'I do not understand, what is this barrier?' Barinov challenges evenly while looking straight at Max here.
+- 'Good morning, Viktor Petrovich, you are late today.' Vika stresses one memorable detail on cue: "opazdyvayete" means "are late" (from "opazdyvat"), giving the line its exact edge.
+- 'Trains are late! Maybe you will explain everything to me?' Barinov shares this point calmly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'We have become part of a large restaurant chain.' Vika steps in firmly with a shrug, saying out loud what both of them already know.
+- 'The general rules of this chain are being introduced here.' Vika reaches for this clear touch in reply: "obshchiye" means "shared, common" (from "obshchiy"), giving the line its exact edge.
+- 'Here is your new electronic pass, take it.' Vika spotlights one direct choice with Max: "elektronnyy" means "electronic", and it carries the main weight of what Vika is saying.
+- 'What, do we work at a factory now?' Barinov quizzes frankly why things suddenly took this turn between them.
+- 'Why did you even put this here?' Barinov stresses one classic word for Vika: "voobshche" means "at all", and it carries the main weight of what Barinov is saying.
+- 'To strictly record when an employee arrives.' Vika chimes in candidly in this moment, without trying to dress up how she really feels.
+- 'Cooks are not allowed to leave their workstation.' Vika replies wryly hearing Max, bringing things back to earth after the buildup.
+- 'Can we not even go out for a smoke now?' Barinov picks this sharp word for Max: "pokurit" means "to have a smoke", and it carries the main weight of what Barinov is saying.

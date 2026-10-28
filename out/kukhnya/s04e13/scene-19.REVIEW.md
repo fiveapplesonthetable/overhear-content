@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Just look at him, he stands there and stays silent!' Vika maintains a candid mood in this beat, anchoring the Russian line on "tolko" ("only") and "posmotrite" ("look") without extra filler.
-- 'He stirred up all this trouble himself and watches!' Vika keeps a clear position in the conversation, building the phrase around "zavaril" ("brew, steep") and "smotrit" ("looks") for a crisp, natural delivery.
-- 'How many scandals did you cause me here?' Vika wonders quietly in the room, anchoring the Russian line on "skolko" ("how much, so much") and "skandalov" ("scandal, fuss") without extra filler.
-- 'It is hard to count them all even on one's fingers!' Vika keeps an honest note without hesitation, using "paltsakh" (from "palets", "finger, toe") alongside "trudno" ("difficult, hard") to shape the meaning.
-- 'And how much you drink, Viktor Petrovich!' Vika conveys an emphatic rhythm for Barinov, weaving "skolko" ("how much, so much") together with "pyote" ("are drinking") just the way native speakers do.
-- 'Nastya, bring him the bill for the banquet!' Vika shows a measured approach right away, joining "prinesi" ("bring") to "schyot" ("counting, account") so every word pulls its weight.
-- 'Let him pay for his own actions himself!' Vika shows an earnest attitude without hesitation, pairing "rasplachivayetsya" ("to own") with "postupki" ("actions, deeds") to get the point across in plain spoken Russian.
-- 'Nastya, immediately stop crying again!' Vika sets a measured stance in the conversation, anchoring the Russian line on "nemedlenno" ("immediately") and "perestan" ("stop") without extra filler.
-- 'Forgive me, Viktoriya Sergeyevna, I am bringing the bill now.' Nastya sustains an honest posture during the exchange, anchoring the Russian line on "prostite" ("excuse me") and "seychas" ("now") without extra filler.
-- 'All right, I agree, that is quite fair.' Barinov adopts a warm rhythm at once, placing "soglasen" ("agreed") straight beside "vpolne" ("quite") with no word for "to be" needed.
-- 'Hand it here, I will pay for everything myself.' Barinov takes a sharp tone during the exchange, pairing "davayte" ("let's") with "syuda" ("here") to get the point across in plain spoken Russian.
-- 'Did you feed the dogs truffles here or what?' Barinov tests briskly in this moment, pairing "sobak" ("dogs") with "tryufelyami" ("truffles") to get the point across in plain spoken Russian.
-- 'And there was also a cake made of beef!' Nastya projects a steady view right away, building the phrase around "yeshchyo" ("more, still") and "byl" ("was") for a crisp, natural delivery.
+- 'Just look at him, he stands there and stays silent!' Vika highlights this clear element toward Barinov: "posmotrite" means "look" (from "posmotret"), giving the line its exact edge.
+- 'He stirred up all this trouble himself and watches!' Vika counters boldly beside Nastya, refusing to let the moment slip past.
+- 'How many scandals did you cause me here?' Vika asks quietly as Barinov tries to explain the situation.
+- 'It is hard to count them all even on one's fingers!' Vika stresses one vivid element with Nastya: "paltsakh" means "finger, toe" (from "palets"), giving the line its exact edge.
+- 'And how much you drink, Viktor Petrovich!' Vika leans on one telling expression right here: "pyote" means "are drinking", and it carries the main weight of what Vika is saying.
+- 'Nastya, bring him the bill for the banquet!' Vika steps in bluntly to be clear, before Nastya can change the subject.
+- 'Let him pay for his own actions himself!' Vika uses one colorful touch at once: "rasplachivayetsya" means "to own" (from "rasplachivatsya"), giving the line its exact edge.
+- 'Nastya, immediately stop crying again!' Standing firm on cue, Vika cuts straight through the tension in the room.
+- 'Forgive me, Viktoriya Sergeyevna, I am bringing the bill now.' Nastya stands firm calmly without a pause, grounding the moment in plain reality.
+- 'All right, I agree, that is quite fair.' Barinov spotlights one sharp touch right here: "spravedlivo" means "fair, justly", and it carries the main weight of what Barinov is saying.
+- 'Hand it here, I will pay for everything myself.' Barinov delivers that answer toward Nastya: the word "davayte" is the polite or group version of "let's", inviting Nastya into the plan right away.
+- 'Did you feed the dogs truffles here or what?' Barinov questions briskly in front of Vika without any preamble.
+- 'And there was also a cake made of beef!' Nastya underscores one sharp piece in earnest: "govyadiny" means "beef" (from "govyadina"), giving the line its exact edge.

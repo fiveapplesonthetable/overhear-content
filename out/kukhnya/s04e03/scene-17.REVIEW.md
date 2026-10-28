@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, for heaven's sake.' German brings a firm mood at this moment, pairing "prostite" ("excuse me") with "boga" ("God") to get the point across in plain spoken Russian.
-- 'What did we ask you for? A hot dish, not an explosive one!' Nagiyev wonders honestly in their exchange, linking "prosili" ("asked, requested"), "goryacheye" ("hot"), and "goryucheye" ("one") in one brisk exchange.
-- 'Get back to the kitchen, and no more fireworks.' Nagiyev presents a natural posture toward Elena, using "davay" (from "davat", "let's") alongside "kukhnyu" ("kitchen") to shape the meaning.
-- 'Understood. No fireworks.' German chooses a serious note in front of Nagiyev, pairing "ponyal" ("understood") with "feyerverkov" ("fireworks") to get the point across in plain spoken Russian.
-- 'I could fire you, but I am not going to do that.' German chooses an honest note across the room, anchoring the Russian line on "mog" ("can, to be able") and "uvolit" ("to fire") without extra filler.
-- 'For a cook like you, I will find a worse punishment.' German favors an unhurried style in the conversation, building the phrase around "povara" ("cook") and "kak" ("how") for a crisp, natural delivery.
-- 'You will work on vegetable prep for a month.' German adopts a direct posture straight away, joining "budesh" ("will") to "mesyats" ("month") so every word pulls its weight.
-- 'And dream of returning to the kitchen line.' German holds a firm stance without hesitation, weaving "mechtat" ("to dream") together with "vernutsya" ("to return") just the way native speakers do.
-- 'You know, Vitya, I have no strength left to fight for you.' Elena speaks earnestly toward German here, using the everyday "u menya" ("by me") alongside "znayesh" ("know") to show what belongs to the speaker.
-- 'If you don't want it yourself, nobody will be able to help you.' Elena favors an honest posture at this moment, doubling the negative with "ne" ("not") and "khochesh" ("do you want"), which is standard and required in Russian.
-- 'You are free. Free to go wherever you please.' Elena picks an earnest angle toward German, placing "svoboden" ("free") straight beside "storony" ("side") with no word for "to be" needed.
-- 'Thank you. Goodbye.' Nagiyev maintains an honest bearing without hesitation, putting "spasibo" ("thank you") alongside "svidaniya" ("meeting") in a tight, everyday turn of phrase.
+- 'Forgive me, for heaven's sake.' German phrases the thought without pause: choosing the formal "prostite" ("forgive me") is how you apologize to a boss, a guest, or someone you address with respect.
+- 'What did we ask you for? A hot dish, not an explosive one!' Nagiyev tests briskly in front of German without any preamble.
+- 'Get back to the kitchen, and no more fireworks.' Nagiyev emphasizes one telling term toward Elena: "feyerverkov" means "fireworks" (from "feyerverk"), giving the line its exact edge.
+- 'Understood. No fireworks.' German aims the reply around Nagiyev: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'I could fire you, but I am not going to do that.' German responds sharply to settle things, bringing things back to earth after the buildup.
+- 'For a cook like you, I will find a worse punishment.' German favors one vivid expression in reply: "nakazaniye" means "punishment", and it carries the main weight of what German is saying.
+- 'You will work on vegetable prep for a month.' German spotlights this vivid term in reply: "zagotovkakh" means "preparation" (from "zagotovka"), giving the line its exact edge.
+- 'And dream of returning to the kitchen line.' German proceeds candidly in their talk, keeping the focus on what actually matters here.
+- 'You know, Vitya, I have no strength left to fight for you.' Elena uses one clear detail right here: "borotsya" means "to fight", and it carries the main weight of what Elena is saying.
+- 'If you don't want it yourself, nobody will be able to help you.' Elena directs the reply facing Nagiyev: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'You are free. Free to go wherever you please.' Elena holds firm evenly facing German, bringing things back to earth after the buildup.
+- 'Thank you. Goodbye.' Nagiyev spotlights one colorful word in earnest: "svidaniya" means "meeting" (from "svidaniye"), giving the line its exact edge.

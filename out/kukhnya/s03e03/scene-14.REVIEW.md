@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You are late, Rodion Sergeyevich!' Max conveys a sharp position in their talk, using "opazdyvayete" (from "opazdyvat", "are late") alongside "rodion" ("Rodion") to shape the meaning.
-- 'Hello, Max, why aren't you at work?' Vika wonders frankly across the room, combining "pochemu" ("why") and "rabote" ("work") so the key meaning lands right away.
-- 'Rodion Sergeyevich and I are here trying to save someone from getting fired.' Max establishes a wry line beside Rodion, combining "tut" ("here") and "pytayemsya" ("to try, to attempt") so the key meaning lands right away.
-- 'Don't even think about it!' Vika chooses a lively angle during the exchange, pairing "dumay" ("think") with "dazhe" ("even") to get the point across in plain spoken Russian.
-- 'Sorry, I cannot talk. The movie is about to start.' Max presents a calm posture toward Rodion, combining "izvini" ("sorry, excuse me") and "mogu" ("can") so the key meaning lands right away.
-- 'Hello, Max! Idiots.' Vika conveys a warm bearing at once, joining "idioty" ("idiot, fool") to "allo" ("hello") so every word pulls its weight.
-- 'Angelina, I need to step out for a short while.' Vika takes a serious angle during the exchange, combining "nuzhno" ("necessary") and "otyekhat" ("to step out") so the key meaning lands right away.
-- 'I don't understand, what are you doing?' Rodion challenges calmly in front of Vika, leaning on "ponyal" ("understood") before closing the thought with "tvorish" ("are doing, creating").
-- 'Go right now and tell them the truth, I demand it!' Vika chooses an unhurried direction in the conversation, pairing "seychas" ("now") with "idi" ("go") so the "-sya" ending carries the action.
-- 'Only I can make demands here, because this is my kitchen.' Rodion projects a natural position in their talk, linking "zdes" ("here"), "mogu" ("can"), and "trebovat" ("to demand") in one brisk exchange.
-- 'And here things will only be the way I said.' Rodion displays an emphatic view as the scene unfolds, pairing "zdes" ("here") with "budet" ("will be") to get the point across in plain spoken Russian.
-- 'We will see about that yet!' Vika brings a clear line toward Rodion, building the phrase around "yeshchyo" ("more, still") and "posmotrim" ("have a look") for a crisp, natural delivery.
+- 'You are late, Rodion Sergeyevich!' Max phrases the comment before Rodion: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Hello, Max, why aren't you at work?' Vika prompts frankly to see how Rodion will answer on the spot.
+- 'Rodion Sergeyevich and I are here trying to save someone from getting fired.' Max centers one practical touch right here: "uvolneniya" means "dismissal, resignation" (from "uvolneniye"), giving the line its exact edge.
+- 'Don't even think about it!' Vika hands over that point in earnest: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Sorry, I cannot talk. The movie is about to start.' Max follows up wryly without holding back, steering the talk right where he wants it.
+- 'Hello, Max! Idiots.' Vika sharpens one telling piece at once: "idioty" means "idiot, fool" (from "idiot"), giving the line its exact edge.
+- 'Angelina, I need to step out for a short while.' Vika brings that remark facing Max: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'I don't understand, what are you doing?' Rodion checks briskly in front of Vika without any preamble.
+- 'Go right now and tell them the truth, I demand it!' Vika leans on one sharp touch on cue: "pravdu" means "truth" (from "pravda"), giving the line its exact edge.
+- 'Only I can make demands here, because this is my kitchen.' Rodion jumps in boldly without a pause, watching Vika's face to see how the news lands.
+- 'And here things will only be the way I said.' Rodion pushes back sharply as they talk, bringing things back to earth after the buildup.
+- 'We will see about that yet!' Vika emphasizes one concrete term with Rodion: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.

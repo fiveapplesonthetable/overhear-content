@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are not going to refuse anything.' Nastya takes a measured tack at this moment, weaving "budem" ("will") together with "otkazyvatsya" ("to refuse") just the way native speakers do.
-- 'You said yourself that it is blood money.' Kostya displays a steady tone as the scene unfolds, putting "govorila" ("said") alongside "krovavyye" ("blood-stained") in a tight, everyday turn of phrase.
-- 'On the other hand, our son has his own room.' Nastya maintains a serious tone beside Katya, joining "syna" ("son") to "komnata" ("room") so every word pulls its weight.
-- 'In a good apartment, in a good neighborhood.' Nastya sustains a playful mood for Kostya, weaving "khoroshey" ("good") together with "kvartire" ("flat") just the way native speakers do.
-- 'For the sake of our son I am ready to compromise my principles.' Nastya sustains a sharp position with Katya, anchoring the Russian line on "syna" ("son") and "gotova" ("ready") without extra filler.
-- 'Maybe you are right.' Kostya offers a clear mood without hesitation, linking "mozhet" ("can"), "prava" ("right, correct"), and "ty" ("you") in one brisk exchange.
-- 'Maybe you will go to the store so we can celebrate our housewarming?' Nastya checks honestly to keep things clear, joining "mozhet" ("can") to "skhodish" ("to go") so every word pulls its weight.
-- 'We are playing to ten goals.' Katya sets a calm footing in the room, combining "igrayem" ("play") and "golov" ("goals") so the key meaning lands right away.
-- 'Katya, will you keep track of the score?' Nastya quizzes openly as the beat lands, weaving "schetom" ("score") together with "posledish" ("will keep track of") just the way native speakers do.
-- 'Will this take a long time?' Nastya tests steadily without holding back, combining "nadolgo" ("for long") and "eto" ("this") so the key meaning lands right away.
-- 'Why, we will beat them in five minutes.' Katya adopts an earnest view in this beat, anchoring the Russian line on "minut" ("minutes") and "obygrayem" ("will beat, outplay") without extra filler.
-- 'Well go ahead, start.' Nastya conveys a measured approach in their talk, weaving "davay" ("let's") together with "nachinayte" ("start") just the way native speakers do.
+- 'We are not going to refuse anything.' Nastya speaks quietly across the room, grounding the moment in plain reality.
+- 'You said yourself that it is blood money.' Kostya colors one practical detail toward Nastya: "krovavyye" means "blood-stained" (from "krovavyy"), giving the line its exact edge.
+- 'On the other hand, our son has his own room.' Nastya drops this answer plainly here: Russians reach for the small pivot word "zato" ("on the bright side, to make up for it") whenever they flip a complaint into a plus.
+- 'In a good apartment, in a good neighborhood.' Nastya stands firm briskly to be clear, making her position completely clear.
+- 'For the sake of our son I am ready to compromise my principles.' See how Nastya reminds Katya plainly here — the Russian word "printsipami" ("principles", built from "printsip") does the heavy lifting.
+- 'Maybe you are right.' Kostya states this update without fuss: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Maybe you will go to the store so we can celebrate our housewarming?' Nastya probes straight out whether Katya really thought this through.
+- 'We are playing to ten goals.' Katya features this sharp touch in earnest: "igrayem" means "play" (from "igrat"), giving the line its exact edge.
+- 'Katya, will you keep track of the score?' Nastya offers the comment with ease: Russian keeps the exact word order of a normal statement here, turning it into a question for Katya purely through rising pitch at the end.
+- 'Will this take a long time?' Nastya prompts calmly while looking straight at Kostya here.
+- 'Why, we will beat them in five minutes.' Katya spotlights this key term at once: "obygrayem" means "will beat, outplay" (from "obygrat"), giving the line its exact edge.
+- 'Well go ahead, start.' Nastya shares this warning without pause: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I really wanted to speak with you.' Max maintains a firm course as they talk, leaning on "ochen" ("very much") before closing the thought with "khotel" ("wanted").
-- 'About what Fedya and Senya are whispering about.' Max maintains a sharp attitude at once, linking "povodu" ("matter"), "shepchutsya" ("are whispering"), and "po" ("according to") in one brisk exchange.
-- 'Oh, you too, name your price!' Barinov holds an earnest style as the scene unfolds, combining "tuda" ("there") and "nazovi" ("name") so the key meaning lands right away.
-- 'No, Chef, I am not talking about that at all right now.' Max establishes a resolute angle across the room, putting "seychas" ("now") alongside "sovsem" ("at all") in a tight, everyday turn of phrase.
-- 'I really hope that you will not be offended.' Max establishes a firm stance at this moment, anchoring the Russian line on "ochen" ("very much") and "nadeyus" ("hope so") without extra filler.
-- 'And if you do get offended, then just endure it.' Barinov brings an honest angle during the exchange, using "obidites" (from "obidetsya", "you will be offended") alongside "togda" ("back then") to shape the meaning.
-- 'Chef, in these past days you have changed a lot.' Max maintains a natural tone straight away, building the phrase around "dni" ("day") and "silno" ("strongly, much") for a crisp, natural delivery.
-- 'You agreed to turn our temple of food into a cheap diner.' Max shows a resolute position with Barinov, combining "soglasilis" ("to agree") and "prevratit" ("to turn into") so the key meaning lands right away.
-- 'You yourself always told us that.' Max takes a serious style beside Barinov, anchoring the Russian line on "vsegda" ("always") and "govorili" ("talked") without extra filler.
-- 'But the main thing is that you betrayed your principles.' Max brings a pointed manner in the conversation, pairing "samoye" ("the most") with "glavnoye" ("important") to get the point across in plain spoken Russian.
-- 'And that means you betrayed all of us too.' Max presents a playful mood in the scene, leaning on "znachit" ("then, so") before closing the thought with "izmenili" ("changed").
-- 'Forgive me, Chef, here is my letter of resignation.' Max presents an easygoing attitude in the conversation, leaning on "prostite" ("excuse me") before closing the thought with "zayavleniye" ("statement").
+- 'Chef, I really wanted to speak with you.' Max chimes in evenly without any doubt, watching Barinov's face to see how the news lands.
+- 'About what Fedya and Senya are whispering about.' Max chimes in calmly to be clear, testing Barinov's reaction in the middle of the exchange.
+- 'Oh, you too, name your price!' Barinov points to this direct element toward Max: "tsenu" means "price" (from "tsena"), giving the line its exact edge.
+- 'No, Chef, I am not talking about that at all right now.' Max aims that line to Barinov: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'I really hope that you will not be offended.' Max cuts in firmly without any doubt, letting the remark speak for itself.
+- 'And if you do get offended, then just endure it.' Barinov emphasizes one telling expression with Max: "obidites" means "you will be offended" (from "obidetsya"), giving the line its exact edge.
+- 'Chef, in these past days you have changed a lot.' Max gives the reaction with ease: the "-sya" ending on "izmenilis" ("changed") turns the action inward or makes it happen between people naturally.
+- 'You agreed to turn our temple of food into a cheap diner.' Max steps in lightly toward Barinov, before Barinov can change the subject.
+- 'You yourself always told us that.' Max picks one key piece with Barinov: "govorili" means "talked" (from "govorit"), giving the line its exact edge.
+- 'But the main thing is that you betrayed your principles.' Max leans on this direct choice right here: "printsipam" means "principles" (from "printsip"), giving the line its exact edge.
+- 'And that means you betrayed all of us too.' Max follows up candidly during the talk, leaving no doubt about where he stands.
+- 'Forgive me, Chef, here is my letter of resignation.' Max chooses this vivid word toward Barinov: "zayavleniye" means "statement", and it carries the main weight of what Max is saying.

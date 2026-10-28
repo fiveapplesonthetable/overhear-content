@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lyova, step in for a minute.' Barinov favors a firm rhythm for Kostya, weaving "minutku" ("a minute") together with "lyova" ("Lyova") just the way native speakers do.
-- 'Just do not ask any questions.' Kostya adopts a clear view in this beat, anchoring the Russian line on "tolko" ("only") and "sprashivay" ("to ask") without extra filler.
-- 'Wait, what do you need that for?' Lyova questions candidly beside Barinov, leaning on "zachem" ("what for") before closing the thought with "vam" ("you").
-- 'That is an interesting thought, but they do not have enough money.' Barinov favors a direct mood at this moment, joining "mysl" ("thought, idea") to "interesnaya" ("interesting") so every word pulls its weight.
-- 'Get out of here.' Kostya conveys a calm footing across the room, leaning on "vali" ("get lost") before closing the thought with "otsyuda" ("from here").
-- 'Lyova, I have decided to take up sports.' Barinov displays an unhurried manner toward Lyova, pairing "reshil" ("has decided") with "sportom" ("sport, sports") to get the point across in plain spoken Russian.
-- 'For my health.' Barinov takes a brisk position in the room, putting "zdorovya" ("health") alongside "dlya" ("for") in a tight, everyday turn of phrase.
-- 'Oh, that is great.' Kostya shows a calm stance in the room, using "zdorovo" ("great, cool") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'Wait, where did my money go?' Lyova queries bluntly as the talk turns, putting "gde-to" ("somewhere") alongside "dengi" ("money") in a tight, everyday turn of phrase.
-- 'What money, Lyova?' Barinov questions directly with Lyova now, anchoring the Russian line on "dengi" ("money") and "kakiye" ("what") without extra filler.
-- 'You are not in church, nobody is going to cheat you.' Kostya picks a serious manner toward Barinov, combining "tserkvi" ("church") and "obmanut" ("will deceive") so the key meaning lands right away.
-- 'Lyova? You are not in church, right?' Barinov presses bluntly as they speak, pairing "tserkvi" ("church") with "lyova" ("Lyova") to get the point across in plain spoken Russian.
-- 'I will pay you back later.' Barinov shares a natural tone as the scene unfolds, pairing "potom" ("then") with "otdam" ("I give back") to get the point across in plain spoken Russian.
+- 'Lyova, step in for a minute.' Barinov underscores one pointed detail toward Kostya: "minutku" means "a minute" (from "minutka"), giving the line its exact edge.
+- 'Just do not ask any questions.' Kostya directs the reaction toward Lyova: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Wait, what do you need that for?' Lyova challenges curiously whether Barinov really thought this through.
+- 'That is an interesting thought, but they do not have enough money.' Barinov sharpens one classic element in reply: "interesnaya" means "interesting" (from "interesnyy"), giving the line its exact edge.
+- 'Get out of here.' Kostya shares this answer with ease: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Lyova, I have decided to take up sports.' Barinov pushes back briskly without holding back, steering the talk right where he wants it.
+- 'For my health.' Barinov grounds this vivid piece right here: "zdorovya" means "health" (from "zdorovye"), giving the line its exact edge.
+- 'Oh, that is great.' Kostya sends the thought with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Wait, where did my money go?' Lyova questions plainly why things suddenly took this turn between them.
+- 'What money, Lyova?' Barinov points to one key term in earnest: "dengi" means "money", and it carries the main weight of what Barinov is saying.
+- 'You are not in church, nobody is going to cheat you.' Kostya anchors one memorable piece in reply: "tserkvi" means "church" (from "tserkov"), giving the line its exact edge.
+- 'Lyova? You are not in church, right?' Barinov probes frankly what Lyova is actually getting at here.
+- 'I will pay you back later.' Barinov favors this key element for Kostya: "potom" means "then", and it carries the main weight of what Barinov is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Congratulations!' Max displays a sharp line in this beat, putting all the weight on "pozdravlyayem" ("we congratulate") so the reply lands immediately.
-- 'Hi. Listen to me.' Ilya chooses an easygoing posture without hesitation, combining "slushay" ("listen") and "privet" ("hi") so the key meaning lands right away.
-- 'You will come today and say that you are my regular client.' Ilya offers a brisk tack at once, using "pridyosh" (from "priyti", "will come") alongside "segodnya" ("today") to shape the meaning.
-- 'They will escort you to a table, and you will order this.' Ilya adopts a sharp line as they talk, building the phrase around "provodit" ("spends") and "stol" ("table") for a crisp, natural delivery.
-- 'They will bring the bill. Are you listening to me?' Ilya prompts calmly right away, building the phrase around "prinesut" ("will bring") and "schyot" ("counting, account") for a crisp, natural delivery.
-- 'You will put this slip of paper into the folder.' Ilya sustains a pointed rhythm during the exchange, building the phrase around "polozhish" ("you'll put") and "papku" ("bill folder") for a crisp, natural delivery.
-- 'And start a scandal, as if they want to overcharge you.' Ilya takes an easygoing tempo as they talk, using "nachinay" (from "nachinat", "start") alongside "skandal" ("scandal, fuss") to shape the meaning.
-- 'Got it? Go on.' Ilya queries bluntly in front of Sasha, weaving "ponyal" ("understood") together with "davay" ("let's") just the way native speakers do.
-- 'I will owe you one.' Ilya brings a grounded note in front of Max, building the phrase around "dolgu" ("debt") and "ostanus" ("stay") for a crisp, natural delivery.
-- 'Sunshine, listen, I will step away for half an hour.' Ilya picks a grounded manner beside Sasha, building the phrase around "solnyshko" ("sweetheart") and "slushay" ("listen") for a crisp, natural delivery.
-- 'If my regulars come, will you seat them?' Ilya quizzes warmly in this moment, putting "postoyannyye" ("regular, permanent") alongside "pridut" ("will come") in a tight, everyday turn of phrase.
-- 'Of course. You're welcome.' Sasha takes an honest tempo during the exchange, building the phrase around "konechno" ("of course") and "pozhaluysta" ("please") for a crisp, natural delivery.
+- 'Congratulations!' Max spotlights one memorable term in earnest: "pozdravlyayem" means "we congratulate" (from "pozdravlyat"), giving the line its exact edge.
+- 'Hi. Listen to me.' Ilya frames this statement with ease: opening with the casual greeting "privet" ("hi") signals right away that Ilya and Sasha are on familiar terms.
+- 'You will come today and say that you are my regular client.' Ilya weighs in honestly with a sigh, without trying to dress up how he really feels.
+- 'They will escort you to a table, and you will order this.' Ilya colors one colorful term in reply: "zakazhesh" means "will order" (from "zakazat"), giving the line its exact edge.
+- 'They will bring the bill. Are you listening to me?' Ilya shapes that line in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'You will put this slip of paper into the folder.' Ilya stands firm candidly before Sasha, without trying to dress up how he really feels.
+- 'And start a scandal, as if they want to overcharge you.' Ilya picks this direct element on cue: "skandal" means "scandal, fuss", and it carries the main weight of what Ilya is saying.
+- 'Got it? Go on.' Ilya gives the comment without pause: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'I will owe you one.' Ilya continues pointedly on the spot, keeping the focus on what actually matters here.
+- 'Sunshine, listen, I will step away for half an hour.' Ilya chooses this key touch with Sasha: "solnyshko" means "sweetheart", and it carries the main weight of what Ilya is saying.
+- 'If my regulars come, will you seat them?' Ilya voices that line without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'Of course. You're welcome.' Sasha speaks pointedly with a nod, saying out loud what both of them already know.

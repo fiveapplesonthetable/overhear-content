@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen up, everyone.' Nastya sustains a brisk tack as they talk, anchoring the Russian line on "znachit" ("then, so") and "tak" ("so") without extra filler.
-- 'Why are you smiling, you limp noodle, huh?' Nagiyev quizzes naturally in the room, using "ulybayeshsya" (from "ulybatsya", "are smiling") alongside "vyalyy" ("sluggish, wilted") to shape the meaning.
-- 'What are you smiling at, huh?' Nastya presses frankly as the talk turns, putting "ulybayeshsya" ("are smiling") alongside "chyo" ("what") in a tight, everyday turn of phrase.
-- 'Huh? Why are you smiling?' Nagiyev probes promptly on the spot, combining "ulybayeshsya" ("are smiling") and "chyo" ("what") so the key meaning lands right away.
-- 'What are you serving over there?' Nastya probes bluntly to keep things clear, weaving "tam" ("there") together with "podayesh" ("are filing") just the way native speakers do.
-- 'Dmitriy Vladimirovich, what does Nastya have to do with this?' Senya questions plainly without hesitation, combining "zdes" ("here") and "dmitriy" ("Dmitry") so the key meaning lands right away.
-- 'Is that clear to you?' Nastya quizzes honestly as they speak, putting "yasno" ("clear, got it") alongside "tebe" ("for you, to you") in a tight, everyday turn of phrase.
-- 'She has everything to do with it.' Nagiyev establishes a serious footing in the conversation, anchoring the Russian line on "pri" ("in the presence of") and "tom" ("that") without extra filler.
-- 'Depending on who she serves and what she serves.' Nastya takes a measured attitude right away, joining "podayet" ("to serve, submit") to "komu" ("to whom, who") so every word pulls its weight.
-- 'Shut your mouths.' Nagiyev picks a frank rhythm as the scene unfolds, pairing "rot" ("mouth") with "zakryli" ("to close, to shut") to get the point across in plain spoken Russian.
-- 'I am telling you, and I am telling all of you.' Nastya favors a steady bearing toward Nagiyev, weaving "znachit" ("then, so") together with "govoryu" ("am telling") just the way native speakers do.
-- 'I will not name names, but just try screwing up.' Nagiyev sets a brisk style in front of Senya, pairing "oblazhatsya" ("screw up, mess up") with "budu" ("will be") so the "-sya" ending carries the action.
-- 'Just you try.' Nastya adopts a natural position without hesitation, leaning on "tolko" ("only") before closing the thought with "poprobuyte" ("try, taste").
+- 'Listen up, everyone.' Nastya grounds one concrete piece with Nagiyev: "znachit" means "then, so", and it carries the main weight of what Nastya is saying.
+- 'Why are you smiling, you limp noodle, huh?' Nagiyev voices that remark facing Senya: the "-sya" ending on "ulybayeshsya" ("are smiling") turns the action inward or makes it happen between people naturally.
+- 'What are you smiling at, huh?' Nastya checks bluntly what Nagiyev is actually getting at here.
+- 'Huh? Why are you smiling?' Nagiyev frames one telling detail at once: "ulybayeshsya" means "are smiling" (from "ulybatsya"), giving the line its exact edge.
+- 'What are you serving over there?' Nastya offers the thought facing Nagiyev: putting the question word "chto" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Dmitriy Vladimirovich, what does Nastya have to do with this?' Senya wonders candidly about what Nastya just brought up.
+- 'Is that clear to you?' Nastya centers one key word right here: "yasno" means "clear, got it", and it carries the main weight of what Nastya is saying.
+- 'She has everything to do with it.' Nagiyev aims this line right away: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Depending on who she serves and what she serves.' Nastya speaks boldly as they talk, before Nagiyev can change the subject.
+- 'Shut your mouths.' Nagiyev anchors this key element for Senya: "zakryli" means "to close, to shut" (from "zakryt"), giving the line its exact edge.
+- 'I am telling you, and I am telling all of you.' Nastya stresses one key word toward Nagiyev: "znachit" means "then, so", and it carries the main weight of what Nastya is saying.
+- 'I will not name names, but just try screwing up.' Nagiyev answers firmly with Senya, testing Senya's reaction in the middle of the exchange.
+- 'Just you try.' Nastya frames one memorable term right here: "poprobuyte" means "try, taste" (from "poprobovat"), giving the line its exact edge.

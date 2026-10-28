@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wow, Nastya, look quickly at what I found!' Kostya strikes a direct tempo at this moment, using "smotri" (from "smotret", "look") alongside "skoreye" ("quickly, right away") to shape the meaning.
-- 'An old stash slipped under the lining of the jacket!' Kostya holds a candid bearing toward Nastya, using "staraya" (from "staryy", "old") alongside "zanachka" ("secret stash") to shape the meaning.
-- 'No way, now that is really cool!' Max holds a candid angle toward Kostya, weaving "deystvitelno" ("really, indeed") together with "kruto" ("cool, awesome") just the way native speakers do.
-- 'We need to add a little bit of honey for a special flavor.' Nastya brings a pointed mood at this moment, pairing "nado" ("it is necessary") with "osobogo" ("special, particular") to get the point across in plain spoken Russian.
-- 'And you splash a tiny bit of oil into the pan for now.' Nastya favors a resolute direction at once, building the phrase around "plesni" ("splash, pour a little") and "chut-chut" ("a little bit") for a crisp, natural delivery.
-- 'Literally just a few drops for flavor, got it?' Nastya questions earnestly across the room, anchoring the Russian line on "bukvalno" ("literally") and "kapel" ("drops") without extra filler.
-- 'Lift me up over there, to the third floor!' Max establishes a calm direction beside Kostya, pairing "podnimay" ("lift up, raise") with "tuda" ("there") to get the point across in plain spoken Russian.
-- 'Well, a bet is a bet, you won and I lost, take it!' Nastya brings a playful tempo in the room, joining "spor" ("bet, wager") to "yest" ("there is") so every word pulls its weight.
-- 'Wait, there is only twenty-five here, and we bet thirty!' Kostya chooses an unhurried rhythm in the conversation, leaning on "podozhdi" ("wait") before closing the thought with "tut" ("here").
-- 'Ah, really, I just thought I heard twenty-five!' Nastya shows a calm note in the conversation, weaving "prosto" ("just") together with "poslyshalos" ("seemed to hear") just the way native speakers do.
-- 'Look, Nastya, I won another thirty thousand!' Kostya brings a measured bearing across the room, pairing "smotri" ("look") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
-- 'Great, now the pile of money is getting bigger and bigger!' Max conveys a clear tack in the conversation, leaning on "otlichno" ("perfect, great") before closing the thought with "teper" ("now").
+- 'Wow, Nastya, look quickly at what I found!' Kostya underscores one vivid choice with Max: "skoreye" means "quickly, right away" (from "skoro"), giving the line its exact edge.
+- 'An old stash slipped under the lining of the jacket!' Kostya proceeds steadily without holding back, before Nastya can change the subject.
+- 'No way, now that is really cool!' Max focuses on one practical word with Kostya: "deystvitelno" means "really, indeed", and it carries the main weight of what Max is saying.
+- 'We need to add a little bit of honey for a special flavor.' Nastya delivers this update without fuss: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'And you splash a tiny bit of oil into the pan for now.' Nastya speaks up frankly in their talk, testing Kostya's reaction in the middle of the exchange.
+- 'Literally just a few drops for flavor, got it?' Nastya anchors this direct piece with Max: "bukvalno" means "literally", and it carries the main weight of what Nastya is saying.
+- 'Lift me up over there, to the third floor!' Max cuts in steadily with a smile, shifting the whole mood of the room in a single beat.
+- 'Well, a bet is a bet, you won and I lost, take it!' Nastya continues briskly during the talk, steering the talk right where she wants it.
+- 'Wait, there is only twenty-five here, and we bet thirty!' Kostya centers this vivid expression on cue: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Ah, really, I just thought I heard twenty-five!' Nastya makes this point with warmth: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Look, Nastya, I won another thirty thousand!' Kostya continues earnestly as things stand, before Max can change the subject.
+- 'Great, now the pile of money is getting bigger and bigger!' Max favors one key word toward Nastya: "stanovitsya" means "becomes", and it carries the main weight of what Max is saying.

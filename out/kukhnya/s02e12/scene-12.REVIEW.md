@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Not bad, simply good.' Barinov establishes a pointed approach toward Vika, putting "neplokho" ("not bad") alongside "prosto" ("just") in a tight, everyday turn of phrase.
-- 'He spent two hours making a single dish.' Vika shows an easygoing note right away, combining "blyudo" ("dish") and "chasa" ("hours") so the key meaning lands right away.
-- 'I would like to see him show off like that during a rush.' Barinov presents a natural stance toward Vika, anchoring the Russian line on "poproboval" ("tried, tasted") and "povypendrivatsya" ("show off") without extra filler.
-- 'We need to stage a kitchen rush.' Vika brings a measured footing with Barinov, anchoring the Russian line on "nado" ("it is necessary") and "ustroit" ("to arrange") without extra filler.
-- 'Then we will see how fast he runs around.' Barinov favors a frank mood at once, joining "posmotrim" ("have a look") to "togda" ("back then") so every word pulls its weight.
-- 'Well then, I should get going.' Vika favors a calm stance for Barinov, joining "poydu" ("go") to "nu" ("oh, come on") so every word pulls its weight.
-- 'Goodbye, Viktor Petrovich.' Vika chooses a candid bearing as they talk, anchoring the Russian line on "svidaniya" ("meeting") and "do" ("until") without extra filler.
-- 'There was something I wanted to ask of you.' Vika takes a natural course as they talk, weaving "khotel" ("wanted") together with "poprosit" ("to ask") just the way native speakers do.
-- 'You see, whenever you come to visit.' Barinov holds a lively attitude for Vika, using "ponimayete" (from "ponimat", "do you understand") alongside "kogda" ("when") to shape the meaning.
-- 'Viktor Petrovich starts feeling much better.' Vika chooses a playful manner in this beat, pairing "stanovitsya" ("becomes") with "luchshe" ("better") to get the point across in plain spoken Russian.
-- 'Is that so?' Barinov quizzes wryly in front of Vika, pairing "chto" ("what") with "li" ("whether") to get the point across in plain spoken Russian.
-- 'It would mean a lot to him.' Vika brings a brisk course without hesitation, anchoring the Russian line on "bylo" ("was") and "priyatno" ("pleasant") without extra filler.
-- 'I can stop by this evening.' Barinov conveys a measured tone in their talk, weaving "mogu" ("can") together with "vecherom" ("in the evening") just the way native speakers do.
+- 'Not bad, simply good.' Barinov cuts in right away with a shrug, watching Vika's face to see how the news lands.
+- 'He spent two hours making a single dish.' Vika points to this sharp word with Barinov: "blyudo" means "dish", and it carries the main weight of what Vika is saying.
+- 'I would like to see him show off like that during a rush.' Barinov directs this statement before Vika: the "-sya" ending on "povypendrivatsya" ("show off") turns the action inward or makes it happen between people naturally.
+- 'We need to stage a kitchen rush.' Vika continues steadily hearing Barinov, to clear the air between them once and for all.
+- 'Then we will see how fast he runs around.' Barinov stresses this key choice on cue: "posmotrim" means "have a look" (from "posmotret"), giving the line its exact edge.
+- 'Well then, I should get going.' Vika speaks up boldly with a sigh, so Barinov knows she is not just making small talk.
+- 'Goodbye, Viktor Petrovich.' Vika responds honestly on the spot, keeping the focus on what actually matters here.
+- 'There was something I wanted to ask of you.' Vika grounds this direct choice for Barinov: "poprosit" means "to ask", and it carries the main weight of what Vika is saying.
+- 'You see, whenever you come to visit.' Barinov offers that remark at once: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Viktor Petrovich starts feeling much better.' Vika responds openly across the room, refusing to let the moment slip past.
+- 'Is that so?' Barinov offers this statement beside Vika: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It would mean a lot to him.' Vika sends this update toward Barinov: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I can stop by this evening.' Barinov fires back frankly on the spot, to clear the air between them once and for all.

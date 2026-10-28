@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It was nice working with you.' Katya brings a frank angle toward Barinov, anchoring the Russian line on "bylo" ("was") and "priyatno" ("pleasant") without extra filler.
-- 'Katya, maybe you will stay?' Lyova presses quietly in the room, linking "mozhet" ("can"), "byt" ("be"), and "ostaneshsya" ("will stay") in one brisk exchange.
-- 'Thank you, Lyova, but I have already decided everything.' Katya shows a frank view without hesitation, anchoring the Russian line on "spasibo" ("thank you") and "uzhe" ("already, now") without extra filler.
-- 'So you are leaving, have you thought it through well?' Barinov queries plainly during the talk, building the phrase around "znachit" ("then, so") and "ukhodish" ("are leaving") for a crisp, natural delivery.
-- 'Is this an attempt to stop me?' Katya challenges quietly from the start, weaving "popytka" ("attempt") together with "ostanovit" ("to stop") just the way native speakers do.
-- 'Or are you afraid of tomorrow's banquet?' Katya questions promptly as the beat lands, linking "boishsya" ("you are afraid"), "zavtrashnego" ("tomorrow's"), and "banketa" ("banquet") in one brisk exchange.
-- 'No, it is just an ordinary question.' Barinov sets a calm manner with Katya, putting "prosto" ("just") alongside "obychnyy" ("ordinary, regular") in a tight, everyday turn of phrase.
-- 'I can stay on one condition.' Katya holds a pointed position for Lyova, putting "mogu" ("can") alongside "ostatsya" ("to remain, to be left") in a tight, everyday turn of phrase.
-- 'How lucky I am, just one condition.' Barinov presents an easygoing rhythm for Katya, weaving "kak" ("how") together with "povezlo" ("it was lucky") just the way native speakers do.
-- 'I want you to appoint me head cook.' Katya adopts a steady footing as they talk, putting "khochu" ("want") alongside "naznachil" ("called, set") in a tight, everyday turn of phrase.
-- 'No, I will manage everything myself.' Barinov sustains an easygoing posture during the exchange, linking "spravlyus" ("will manage"), "net" ("no"), and "ya" ("I") in one brisk exchange.
-- 'Chef, what kind of hen are you, you are a rooster.' Lyova presents a candid manner beside Katya, putting "kuritsa" ("chicken") alongside "petukh" ("rooster") in a tight, everyday turn of phrase.
+- 'It was nice working with you.' Katya emphasizes this sharp element with Barinov: "porabotat" means "to do some work", and it carries the main weight of what Katya is saying.
+- 'Katya, maybe you will stay?' Lyova lays out the remark without pause: the "-sya" ending on "ostaneshsya" ("will stay") turns the action inward or makes it happen between people naturally.
+- 'Thank you, Lyova, but I have already decided everything.' Katya steps in evenly in their talk, making her position completely clear.
+- 'So you are leaving, have you thought it through well?' Barinov sharpens one key touch at once: "ukhodish" means "are leaving" (from "ukhodit"), giving the line its exact edge.
+- 'Is this an attempt to stop me?' Katya makes that line without fuss: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Or are you afraid of tomorrow's banquet?' Katya probes frankly where this conversation is heading next.
+- 'No, it is just an ordinary question.' Barinov spotlights one clear detail right here: "obychnyy" means "ordinary, regular", and it carries the main weight of what Barinov is saying.
+- 'I can stay on one condition.' Katya proceeds openly before Lyova, refusing to let the moment slip past.
+- 'How lucky I am, just one condition.' Barinov follows up dryly on the spot, bringing things back to earth after the buildup.
+- 'I want you to appoint me head cook.' Katya features this telling element for Lyova: "naznachil" means "called, set" (from "naznachit"), giving the line its exact edge.
+- 'No, I will manage everything myself.' Barinov phrases the reply frankly here: the "-sya" ending on "spravlyus" ("will manage") turns the action inward or makes it happen between people naturally.
+- 'Chef, what kind of hen are you, you are a rooster.' Lyova follows up sharply around Katya, grounding the moment in plain reality.

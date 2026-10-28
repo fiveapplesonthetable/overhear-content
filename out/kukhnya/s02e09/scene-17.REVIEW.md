@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor Petrovich.' Max shares a serious course in the conversation, pairing "viktor" ("Viktor") with "petrovich" ("Petrovich") to get the point across in plain spoken Russian.
-- 'Yes, your staff told me everything...' Max presents a natural rhythm beside Kristina, anchoring the Russian line on "rasskazali" ("told") and "da" ("yes") without extra filler.
-- 'Oh, stop it now.' Kristina adopts an easygoing tempo with Barinov, using "perestante" (from "perestat", "stop it") alongside "nu" ("oh, come on") to shape the meaning.
-- 'They really do worry about you.' Barinov chooses an earnest manner during the exchange, leaning on "deystvitelno" ("really, indeed") before closing the thought with "perezhivayut" ("to worry, to fret").
-- 'At nine by the exit.' Max sustains a grounded view in the scene, weaving "vykhoda" ("exit, way out") together with "devyat" ("nine") just the way native speakers do.
-- 'Kristina, I actually came here to talk.' Barinov picks a warm posture as the scene unfolds, putting "voobshche-to" ("actually") alongside "pogovorit" ("to talk") in a tight, everyday turn of phrase.
-- 'Well, we can talk afterwards.' Barinov sustains a warm angle during the exchange, using "pogovorim" (from "pogovorit", "we'll have a talk") alongside "nu" ("oh, come on") to shape the meaning.
-- 'How are things going?' Max presses decisively across the room, pairing "kak" ("how") with "dela" ("things, affairs") to get the point across in plain spoken Russian.
-- 'That is good.' Kristina sustains an emphatic note at this moment, putting "khorosho" ("good, fine") alongside "eto" ("this") in a tight, everyday turn of phrase.
-- 'I wonder if anyone else has been snooping around here besides me?' Barinov inquires calmly at this point, leaning on "interesno" ("interesting") before closing the thought with "zdes" ("here").
-- 'You are so...' Max maintains a lively tack right away, anchoring the Russian line on "ty" ("you") and "takoy" ("such, so") without extra filler.
-- 'You are so sexy when you get jealous.' Kristina brings a frank position toward Max, linking "seksualnyy" ("sexy, attractive"), "kogda" ("when"), and "revnuyesh" ("are jealous") in one brisk exchange.
-- 'You are so sexy too when I get jealous.' Barinov displays a sharp rhythm across the room, building the phrase around "tozhe" ("too") and "seksualnaya" ("sexy, attractive") for a crisp, natural delivery.
+- 'Viktor Petrovich.' Max frames the thought without pause: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Yes, your staff told me everything...' Max follows up warmly hearing Kristina, grounding the moment in plain reality.
+- 'Oh, stop it now.' Kristina spotlights one colorful detail right here: "perestante" means "stop it" (from "perestat"), giving the line its exact edge.
+- 'They really do worry about you.' Barinov anchors this telling touch for Max: "deystvitelno" means "really, indeed", and it carries the main weight of what Barinov is saying.
+- 'At nine by the exit.' Max stands firm lightly toward Barinov, shifting the whole mood of the room in a single beat.
+- 'Kristina, I actually came here to talk.' Barinov centers one key piece at once: "voobshche-to" means "actually", and it carries the main weight of what Barinov is saying.
+- 'Well, we can talk afterwards.' Barinov stands firm bluntly toward Kristina, to clear the air between them once and for all.
+- 'How are things going?' Max prompts bluntly where this conversation is heading next.
+- 'That is good.' Kristina centers this clear choice for Barinov: "khorosho" means "good, fine", and it carries the main weight of what Kristina is saying.
+- 'I wonder if anyone else has been snooping around here besides me?' Barinov gives that line with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'You are so...' Max chimes in frankly watching Barinov, shifting the whole mood of the room in a single beat.
+- 'You are so sexy when you get jealous.' Kristina reaches for one classic detail for Max: "seksualnyy" means "sexy, attractive", and it carries the main weight of what Kristina is saying.
+- 'You are so sexy too when I get jealous.' Barinov features one vivid expression at once: "seksualnaya" means "sexy, attractive" (from "seksualnyy"), giving the line its exact edge.

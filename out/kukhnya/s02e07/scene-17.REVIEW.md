@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We are going to karaoke.' Kostya strikes an emphatic direction without hesitation, building the phrase around "yedem" ("are going") and "karaoke" ("karaoke") for a crisp, natural delivery.
-- 'Why are you looking at me like that?' Nastya wonders frankly beside Rodion, anchoring the Russian line on "smotrish" ("are staring") and "chto" ("what") without extra filler.
-- 'By the way, I was wrong about him.' Rodion brings a serious tempo straight away, combining "kstati" ("by the way") and "byl" ("was") so the key meaning lands right away.
-- 'About Rodion Sergeyevich?' Kostya questions warmly for Rodion's benefit, pairing "rodion" ("Rodion") with "sergeyevich" ("Sergeyevich") to get the point across in plain spoken Russian.
-- 'And now he is our friend.' Nastya keeps a candid bearing in the scene, putting "drug" ("friend") alongside "teper" ("now") in a tight, everyday turn of phrase.
-- 'Since when?' Rodion wonders quietly in the room, combining "por" ("time") and "kakikh" ("what kind of") so the key meaning lands right away.
-- 'Kostya, how can you be friends with him?' Nastya tests naturally toward Kostya here, building the phrase around "kak" ("how") and "budesh" ("will") for a crisp, natural delivery.
-- 'Well, he is kind of...' Nastya favors a lively rhythm without hesitation, combining "kak" ("how") and "nu" ("oh, come on") so the key meaning lands right away.
-- 'Kind of homeless.' Rodion conveys an earnest approach in the scene, pairing "kak" ("how") with "bomzh" ("homeless man") to get the point across in plain spoken Russian.
-- 'Nastya, I beg of you.' Kostya adopts a grounded mood toward Rodion, leaning on "umolyayu" ("I beg") before closing the thought with "nastya" ("Nastya").
-- 'Everyone has their own little flaws, Nastenka.' Rodion strikes a grounded manner in this beat, weaving "kazhdogo" ("everyone") together with "nedostatki" ("flaws, shortcomings") just the way native speakers do.
-- 'I know him too.' Rodion shares a thoughtful style in the scene, anchoring the Russian line on "tozhe" ("too") and "znayu" ("know") without extra filler.
-- 'Rodion Sergeyevich, it would be best for you to leave.' Kostya shows a serious mood in the room, combining "luchshe" ("better") and "uyti" ("to leave") so the key meaning lands right away.
+- 'We are going to karaoke.' Kostya sends the remark beside Nastya: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Why are you looking at me like that?' Nastya prompts wryly if there is more going on behind the scenes.
+- 'By the way, I was wrong about him.' Rodion chooses this telling word right here: "neprav" means "wrong" (from "nepravyy"), giving the line its exact edge.
+- 'About Rodion Sergeyevich?' Kostya delivers the reaction toward Rodion: Russian keeps the exact word order of a normal statement here, turning it into a question for Rodion purely through rising pitch at the end.
+- 'And now he is our friend.' Nastya counters steadily with a smile, watching Kostya's face to see how the news lands.
+- 'Since when?' Rodion shapes this line in earnest: Russian keeps the exact word order of a normal statement here, turning it into a question for Nastya purely through rising pitch at the end.
+- 'Kostya, how can you be friends with him?' Nastya voices that remark calmly now: putting the question word "kak" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'Well, he is kind of...' Nastya speaks up candidly as things stand, making her position completely clear.
+- 'Kind of homeless.' Rodion leans on one loaded term right here: "bomzh" means "homeless man", and it carries the main weight of what Rodion is saying.
+- 'Nastya, I beg of you.' Kostya states this answer on cue: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Everyone has their own little flaws, Nastenka.' Rodion replies decisively before Kostya, refusing to let the moment slip past.
+- 'I know him too.' Rodion colors this sharp touch in earnest: "tozhe" means "too", and it carries the main weight of what Rodion is saying.
+- 'Rodion Sergeyevich, it would be best for you to leave.' Kostya points to one classic expression at once: "luchshe" means "better", and it carries the main weight of what Kostya is saying.

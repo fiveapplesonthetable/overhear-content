@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, he is here as my guest.' Max projects an emphatic approach with Nagiyev, using "priglasil" (from "priglasit", "invited") alongside "dima" ("Dima") to shape the meaning.
-- 'If you want to punish him, punish me instead.' Max displays an unhurried tempo during the exchange, pairing "khochesh" ("do you want") with "nakazat" ("to punish") to get the point across in plain spoken Russian.
-- 'I can pay for your dry cleaning.' Nagiyev establishes a steady position in front of Max, combining "mogu" ("can") and "oplatit" ("will pay for") so the key meaning lands right away.
-- 'I have plenty of experience with that.' Max brings an honest footing in this beat, combining "bolshoy" ("big") and "opyt" ("experience") so the key meaning lands right away.
-- 'This is my restaurant.' Nagiyev offers a pointed stance as the scene unfolds, building the phrase around "restoran" ("restaurant") and "eto" ("this") for a crisp, natural delivery.
-- 'Both of you remember that.' Max brings a brisk posture at this moment, weaving "zapomnite" ("remember") together with "oba" ("both") just the way native speakers do.
-- 'Whatever your heart desires.' Nagiyev adopts a brisk direction for Max, weaving "dushu" ("soul, heart") together with "chem" ("than") just the way native speakers do.
-- 'Yeah, some respectable place this is.' Max conveys a pointed tone as the scene unfolds, anchoring the Russian line on "prilichnoye" ("decent, respectable") and "mesto" ("place, post") without extra filler.
-- 'Those are not eggs.' Nagiyev offers a playful note in the conversation, pairing "yaytsa" ("eggs") with "eto" ("this") to get the point across in plain spoken Russian.
-- 'Why did you grab that plate right away?' Max queries honestly across the room, leaning on "zachem" ("what for") before closing the thought with "tarelku" ("plate, platter").
-- 'Because of you, we have to remake all these dishes now.' Nagiyev presents a serious stance during the exchange, anchoring the Russian line on "skolko" ("how much, so much") and "blyud" ("dishes") without extra filler.
-- 'Are you deaf, I told you it was not my fault.' Max adopts a clear tack toward Nagiyev, combining "slyshish" ("hear") and "govoryu" ("am telling") so the key meaning lands right away.
-- 'Of course it was not his fault.' Nagiyev presents a pointed stance for Max, linking "konechno" ("of course"), "vinovat" ("at fault, guilty"), and "on" ("he") in one brisk exchange.
+- 'Dima, he is here as my guest.' Max jumps in decisively across the room, watching Nagiyev's face to see how the news lands.
+- 'If you want to punish him, punish me instead.' Max picks one loaded detail in reply: "khochesh" means "do you want" (from "khotet"), giving the line its exact edge.
+- 'I can pay for your dry cleaning.' Nagiyev voices this update beside Max: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I have plenty of experience with that.' Max continues frankly without holding back, without trying to dress up how he really feels.
+- 'This is my restaurant.' Nagiyev centers this telling touch in earnest: "restoran" means "restaurant", and it carries the main weight of what Nagiyev is saying.
+- 'Both of you remember that.' Max voices the thought without fuss: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Whatever your heart desires.' Nagiyev reacts briskly around Max, testing Max's reaction in the middle of the exchange.
+- 'Yeah, some respectable place this is.' Max stresses one loaded touch with Nagiyev: "prilichnoye" means "decent, respectable" (from "prilichnyy"), giving the line its exact edge.
+- 'Those are not eggs.' Nagiyev drops the reaction at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Why did you grab that plate right away?' Max wonders briskly in front of Nagiyev without any preamble.
+- 'Because of you, we have to remake all these dishes now.' Nagiyev emphasizes one concrete element at once: "peredelayut" means "redo" (from "peredelat"), giving the line its exact edge.
+- 'Are you deaf, I told you it was not my fault.' Max features this direct term at once: "vinovat" means "at fault, guilty" (from "vinovatyy"), giving the line its exact edge.
+- 'Of course it was not his fault.' Nagiyev follows up honestly facing Max, steering the talk right where he wants it.

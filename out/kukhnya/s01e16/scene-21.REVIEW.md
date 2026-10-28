@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Chef, can I help?' Ainura offers her assistance, turning a simple phrase into a question just by raising her pitch at the end.
-- 'I don' Feeling completely defeated, the head cook admits he has no idea what to do next.
+- 'I don't know.' Feeling completely defeated, the head cook admits he has no idea what to do next.
 - 'He fined me.' Barinov gives a blunt update, stating that the restaurant has been hit with a financial penalty.
 - 'You must be deported.' The harsh reality comes out as he tells her she is going to be sent away.
 - 'I'm thinking, what is this?' Pausing to collect his thoughts, the boss tries to figure out their current predicament.

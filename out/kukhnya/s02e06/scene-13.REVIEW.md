@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'All right, Ilya, stop laughing.' Nagiyev picks a grounded tone in front of Ilya, weaving "khvatit" ("enough") together with "rzhat" ("to laugh loudly") just the way native speakers do.
-- 'Where is Kristina supposed to be?' Ilya questions openly on the spot, anchoring the Russian line on "gde" ("where") and "dolzhna" ("should, must") without extra filler.
-- 'Get back to your post quickly to greet the guests.' Ilya conveys a brisk tack toward Kristina, weaving "bystro" ("quickly") together with "mesto" ("place, post") just the way native speakers do.
-- 'Girls, look alive, hurry up.' Nagiyev shares a brisk direction for Kristina, leaning on "devochki" ("girl's") before closing the thought with "zhivy" ("living, alive").
-- 'We will do it ourselves.' Kristina holds an emphatic line without hesitation, joining "sdelayem" ("we'll do") to "sami" ("yourselves") so every word pulls its weight.
-- 'Good afternoon.' Ilya sets an emphatic bearing at once, pairing "dobryy" ("good") with "den" ("day") to get the point across in plain spoken Russian.
-- 'I would definitely take her for a spin.' Nagiyev keeps an honest position during the exchange, building the phrase around "otfrityuril" ("to deep-fry") and "ya" ("I") for a crisp, natural delivery.
-- 'I would take her for a spin too.' Kristina projects an honest tempo in this beat, anchoring the Russian line on "tozhe" ("too") and "otfrityuril" ("to deep-fry") without extra filler.
-- 'Except she is a high-flying bird.' Ilya maintains an earnest angle across the room, anchoring the Russian line on "tolko" ("only") and "ptitsa" ("bird") without extra filler.
-- 'To her, we are nobodies.' Nagiyev takes a lively posture right away, linking "my" ("we") directly with "dlya" ("for"), since Russian drops "is" and "are" in the present.
-- 'Listen, who even are you?' Kristina presses firmly during the talk, anchoring the Russian line on "slushay" ("listen") and "voobshche" ("at all") without extra filler.
-- 'Hello, Dmitry Vladimirovich.' Ilya adopts a thoughtful attitude straight away, anchoring the Russian line on "zdravstvuyte" ("hello") and "dmitriy" ("Dmitry") without extra filler.
-- 'I am glad to see you too, Kristina.' Nagiyev brings a frank bearing during the exchange, building the phrase around "tozhe" ("too") and "rad" ("glad") for a crisp, natural delivery.
+- 'All right, Ilya, stop laughing.' Nagiyev centers one loaded word at once: "khvatit" means "enough", and it carries the main weight of what Nagiyev is saying.
+- 'Where is Kristina supposed to be?' Ilya brings that reply in earnest: putting the question word "gde" right at the front of the line lets Nagiyev hear the point of the question on the very first beat.
+- 'Get back to your post quickly to greet the guests.' Ilya fires back boldly toward Kristina, without trying to dress up how he really feels.
+- 'Girls, look alive, hurry up.' Nagiyev favors one practical choice in earnest: "devochki" means "girl's" (from "devochka"), giving the line its exact edge.
+- 'We will do it ourselves.' Kristina makes the remark around Ilya: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Good afternoon.' Ilya answers decisively in their talk, leaving no doubt about where he stands.
+- 'I would definitely take her for a spin.' Nagiyev highlights one key choice right here: "otfrityuril" means "to deep-fry" (from "otfrityurit"), giving the line its exact edge.
+- 'I would take her for a spin too.' Kristina jumps in bluntly to be clear, letting the remark speak for itself.
+- 'Except she is a high-flying bird.' Ilya chimes in warmly to settle things, leaving no doubt about where he stands.
+- 'To her, we are nobodies.' Nagiyev shares that reply facing Kristina: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Listen, who even are you?' Kristina shares the remark with candor: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Hello, Dmitry Vladimirovich.' Ilya reacts boldly without any doubt, without trying to dress up how he really feels.
+- 'I am glad to see you too, Kristina.' Nagiyev leans on this clear touch on cue: "tozhe" means "too", and it carries the main weight of what Nagiyev is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, I need all of you!' Barinov holds a wry tone at once, pairing "rebyata" ("the boys, the lads") with "nuzhny" ("needed") to get the point across in plain spoken Russian.
-- 'Everyone run quickly to the kitchen!' Barinov strikes a sharp tone in this beat, pairing "bystro" ("quickly") with "begom" ("at a run, quickly") to get the point across in plain spoken Russian.
-- 'Chef, there are very few groceries here.' Senya takes an unhurried position right away, weaving "produktov" ("of groceries") together with "tut" ("here") just the way native speakers do.
-- 'Easy now, just without any panic.' Barinov picks an emphatic direction at this moment, joining "spokoyno" ("calmly") to "tolko" ("only") so every word pulls its weight.
-- 'I did not manage to take everything yesterday.' Senya adopts an emphatic approach across the room, pairing "uspel" ("managed in time") with "vchera" ("yesterday") to get the point across in plain spoken Russian.
-- 'They fired me from here too quickly.' Senya favors a firm position in front of Denis, linking "slishkom" ("too"), "bystro" ("quickly"), and "otsyuda" ("from here") in one brisk exchange.
-- 'Come on, guys, get to work quickly!' Barinov offers a lively stance as they talk, anchoring the Russian line on "davayte" ("let's") and "rebyata" ("the boys, the lads") without extra filler.
-- 'Is there no other place for a talk?' Denis questions pointedly in their exchange, leaning on "drugogo" ("other, another") before closing the thought with "mesta" ("places").
-- 'Sveta, please, you will delete the video.' Denis adopts a thoughtful tone with Barinov, leaning on "sveta" ("electricity") before closing the thought with "sotryosh" ("you will erase").
-- 'You will not send it to anyone.' Denis shows a resolute line for Senya, linking "budesh" ("will"), "otpravlyat" ("to send"), and "nikomu" ("anyone, no one") in one brisk exchange.
-- 'You are a born negotiator.' Senya holds a clear manner during the exchange, weaving "pryamo" ("right, just") together with "peregovorshchik" ("negotiator") just the way native speakers do.
-- 'I will have to take the phone away from you.' Denis sustains a wry course without hesitation, pairing "pridyotsya" ("you'll have to") with "otobrat" ("to take away") to get the point across in plain spoken Russian.
+- 'Guys, I need all of you!' Barinov picks one practical word in earnest: "rebyata" means "the boys, the lads", and it carries the main weight of what Barinov is saying.
+- 'Everyone run quickly to the kitchen!' Barinov replies candidly with a smile, to clear the air between them once and for all.
+- 'Chef, there are very few groceries here.' Senya points to this sharp term at once: "produktov" means "of groceries" (from "produkt"), giving the line its exact edge.
+- 'Easy now, just without any panic.' Barinov holds firm steadily watching Senya, before Senya can change the subject.
+- 'I did not manage to take everything yesterday.' Senya reacts wryly with Barinov, making his position completely clear.
+- 'They fired me from here too quickly.' Senya stresses one memorable detail at once: "slishkom" means "too", and it carries the main weight of what Senya is saying.
+- 'Come on, guys, get to work quickly!' Barinov directs this line beside Denis: the word "davayte" is the polite or group version of "let's", inviting Denis into the plan right away.
+- 'Is there no other place for a talk?' Denis checks quietly how Senya expects that to work in practice.
+- 'Sveta, please, you will delete the video.' Denis favors one colorful detail right here: "sotryosh" means "you will erase" (from "steret"), giving the line its exact edge.
+- 'You will not send it to anyone.' Denis steps in warmly with a sigh, so Senya knows he is not just making small talk.
+- 'You are a born negotiator.' Senya proceeds openly on the spot, before Barinov can change the subject.
+- 'I will have to take the phone away from you.' Denis grounds one concrete word right here: "pridyotsya" means "you'll have to" (from "priytis"), giving the line its exact edge.

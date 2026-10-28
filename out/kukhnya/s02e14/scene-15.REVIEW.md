@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, you have a visitor.' Barinov presents a pointed angle in this beat, putting "gosti" ("visitors, guests") alongside "dmitriy" ("Dmitry") in a tight, everyday turn of phrase.
-- 'It is me again.' Elena sets a thoughtful course as the scene unfolds, linking "opyat" ("again") directly with "eto" ("this"), since Russian drops "is" and "are" in the present.
-- 'You were not expecting me, hello again.' Nagiyev shares a warm course beside Barinov, putting "zhdali" ("waited for") alongside "zdravstvuyte" ("hello") in a tight, everyday turn of phrase.
-- 'Hello, Elena Pavlovna.' Barinov displays an emphatic bearing in this beat, weaving "zdravstvuyte" ("hello") together with "yelena" ("Yelena") just the way native speakers do.
-- 'You see, I feel guilty about this.' Elena strikes a wry tack for Barinov, using "ponimayete" (from "ponimat", "do you understand") alongside "chuvstvuyu" ("feel") to shape the meaning.
-- 'For sending Viktor Petrovich away for treatment.' Nagiyev offers a pointed mood across the room, linking "otpravila" ("to send"), "lecheniye" ("treatment"), and "chto" ("what") in one brisk exchange.
-- 'I wish someone would send me away like that.' Barinov sets a measured mood on the spot, pairing "otpravili" ("to send") with "menya" ("me") to get the point across in plain spoken Russian.
-- 'Well, his kitchen has been left unsupervised.' Elena holds a warm stance in this beat, linking "kukhnya" ("kitchen"), "ostalas" ("remained, is left"), and "prismotra" ("supervision") in one brisk exchange.
-- 'I could fill in for him while he is gone.' Elena offers a clear rhythm toward Barinov, joining "mogla" ("could") to "zamenit" ("to replace") so every word pulls its weight.
-- 'Oh, no, there is really no need.' Barinov displays an earnest mood beside Nagiyev, putting "nado" ("it is necessary") alongside "ne" ("not") in a tight, everyday turn of phrase.
-- 'We could not leave your boss short-staffed like that.' Elena picks an honest course in this beat, joining "podstavit" ("set up, framed") to "tovarishcha" ("comrade") so every word pulls its weight.
-- 'Oh, that is not a problem at all.' Nagiyev conveys a pointed angle across the room, placing "voobshche" ("at all") straight beside "problema" ("problem") with no word for "to be" needed.
-- 'My sous-chef can easily cover for me.' Barinov adopts a pointed tone without hesitation, pairing "spokoyno" ("calmly") with "zamenit" ("to replace") to get the point across in plain spoken Russian.
+- 'Dmitry Vladimirovich, you have a visitor.' Barinov follows up honestly watching Elena, so Elena knows he is not just making small talk.
+- 'It is me again.' Elena spotlights one vivid element right here: "opyat" means "again", and it carries the main weight of what Elena is saying.
+- 'You were not expecting me, hello again.' Nagiyev brings the comment right away: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Hello, Elena Pavlovna.' Barinov pushes back sharply in this moment, making his position completely clear.
+- 'You see, I feel guilty about this.' Elena underscores this sharp word right here: "vinovatoy" means "guilty, at fault" (from "vinovatyy"), giving the line its exact edge.
+- 'For sending Viktor Petrovich away for treatment.' Nagiyev weighs in warmly across the room, saying out loud what both of them already know.
+- 'I wish someone would send me away like that.' Barinov answers firmly during the talk, so Elena knows he is not just making small talk.
+- 'Well, his kitchen has been left unsupervised.' Elena focuses on one loaded choice for Nagiyev: "prismotra" means "supervision" (from "prismotr"), giving the line its exact edge.
+- 'I could fill in for him while he is gone.' Elena weighs in warmly in this moment, grounding the moment in plain reality.
+- 'Oh, no, there is really no need.' Barinov pushes back candidly before Nagiyev, keeping the focus on what actually matters here.
+- 'We could not leave your boss short-staffed like that.' Elena reaches for this clear word on cue: "tovarishcha" means "comrade" (from "tovarishch"), giving the line its exact edge.
+- 'Oh, that is not a problem at all.' Nagiyev phrases that answer with warmth: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'My sous-chef can easily cover for me.' Barinov reacts evenly beside Elena, steering the talk right where he wants it.

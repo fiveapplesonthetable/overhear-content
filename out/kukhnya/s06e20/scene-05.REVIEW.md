@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktor decided to open his own restaurant.' Mikhail sustains a resolute stance in this beat, building the phrase around "reshil" ("has decided") and "otkryt" ("open") for a crisp, natural delivery.
-- 'He created his own signature menu.' Mikhail projects a calm view in the scene, building the phrase around "sozdal" ("to create, establish") and "avtorskoye" ("auteur, signature") for a crisp, natural delivery.
-- 'Am I telling everything correctly?' Mikhail checks dryly on the spot, weaving "pravilno" ("right") together with "rasskazyvayu" ("to tell, to talk about") just the way native speakers do.
-- 'Yes, this is my signature menu.' Barinov takes a firm position straight away, anchoring the Russian line on "avtorskoye" ("auteur, signature") and "menyu" ("menu") without extra filler.
-- 'You are simply a true hero, Viktor!' The inspector offers an easygoing rhythm during the exchange, linking "prosto" ("just"), "nastoyashchiy" ("real, genuine"), and "geroy" ("hero") in one brisk exchange.
-- 'He is great, he works every day.' Mikhail adopts a lively posture in their talk, anchoring the Russian line on "molodets" ("well done, good boy") and "rabotayet" ("works") without extra filler.
-- 'But he gets very badly tired.' Mikhail presents a measured line beside Barinov, anchoring the Russian line on "ochen" ("very much") and "silno" ("strongly, much") without extra filler.
-- 'Which one of us needs the star?' Mikhail wonders pointedly in the scene, combining "zvezda" ("a star") and "nuzhna" ("needed") so the key meaning lands right away.
-- 'Yes, I get tired, there is a lot of work.' Barinov sustains a pointed rhythm in the room, linking "ustayu" ("I get tired"), "ochen" ("very much"), and "mnogo" ("a lot") in one brisk exchange.
-- 'Of course, I understand you perfectly.' The inspector keeps a resolute course in the scene, leaning on "konechno" ("of course") before closing the thought with "prekrasno" ("perfectly").
-- 'Because of fatigue Viktor has severe pains.' Mikhail offers an honest stance at this moment, weaving "ustalosti" ("fatigue") together with "silnyye" ("strong, powerful") just the way native speakers do.
-- 'That is why it was not he who cooked today.' Mikhail holds an easygoing tone right away, linking "poetomu" ("that's why"), "segodnya" ("today"), and "gotovil" ("prepared, made") in one brisk exchange.
+- 'Viktor decided to open his own restaurant.' Mikhail stands firm candidly during the talk, so Barinov knows he is not just making small talk.
+- 'He created his own signature menu.' Mikhail jumps in honestly as they talk, making his position completely clear.
+- 'Am I telling everything correctly?' Mikhail colors one direct detail toward Barinov: "rasskazyvayu" means "to tell, to talk about" (from "rasskazyvat"), giving the line its exact edge.
+- 'Yes, this is my signature menu.' Barinov directs the thought toward Mikhail: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'You are simply a true hero, Viktor!' The inspector weighs in openly with Barinov, so Barinov knows he is not just making small talk.
+- 'He is great, he works every day.' Mikhail features one pointed detail toward the inspector: "molodets" means "well done, good boy", and it carries the main weight of what Mikhail is saying.
+- 'But he gets very badly tired.' Mikhail follows up firmly watching Barinov, without trying to dress up how he really feels.
+- 'Which one of us needs the star?' Mikhail presses openly while looking straight at the inspector here.
+- 'Yes, I get tired, there is a lot of work.' Barinov focuses on this telling element in earnest: "raboty" means "of work" (from "rabota"), giving the line its exact edge.
+- 'Of course, I understand you perfectly.' The inspector sharpens one loaded term in earnest: "prekrasno" means "perfectly", and it carries the main weight of what the inspector is saying.
+- 'Because of fatigue Viktor has severe pains.' Leaning in around Barinov, Mikhail lets Barinov know there is no turning back now.
+- 'That is why it was not he who cooked today.' Mikhail uses one vivid word in reply: "segodnya" means "today", and it carries the main weight of what Mikhail is saying.

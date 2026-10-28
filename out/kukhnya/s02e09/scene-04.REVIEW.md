@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Under the table, as a bribe.' Max holds a candid direction in the room, leaning on "lapu" ("paw, hand") before closing the thought with "na" ("on, onto").
-- 'I got it, yes.' Max picks a wry tack beside Sasha, putting "ponyal" ("understood") alongside "ya" ("I") in a tight, everyday turn of phrase.
-- 'If there are any problems, call me.' Max sustains a natural angle beside Sasha, linking "problemy" ("problems"), "zvoni" ("call"), and "yesli" ("if") in one brisk exchange.
-- 'Everything adds up.' Sasha chooses a grounded style straight away, building the phrase around "skhoditsya" ("to match, add up") and "vse" ("all") for a crisp, natural delivery.
-- 'And you do not know?' Max questions lightly in the scene, using "znayesh" (from "znat", "know") alongside "ty" ("you") to shape the meaning.
-- 'I will take a look right now.' Sasha projects a brisk tone in the conversation, joining "seychas" ("now") to "posmotryu" ("have a look") so every word pulls its weight.
-- 'What, are you afraid of me?' Max checks boldly as the talk turns, linking "boishsya" ("you are afraid"), "ty" ("you"), and "chto" ("what") in one brisk exchange.
-- 'Well then, what is the problem?' Sasha inquires dryly without a pause, leaning on "togda" ("back then") before closing the thought with "problema" ("problem").
-- 'I am not afraid.' Max sets a pointed footing with Sasha, combining "boyus" ("am afraid") and "ne" ("not") so the key meaning lands right away.
-- 'Were you not looking for me?' Sasha prompts quietly with Max now, combining "iskala" ("searched") and "ty" ("you") so the key meaning lands right away.
-- 'And I was just looking for you too.' Max brings a frank manner in the conversation, joining "kak" ("how") to "raz" ("time, once") so every word pulls its weight.
-- 'I cooked such an amazing dorado.' Max offers a lively angle right away, weaving "dorado" ("dorado, sea bream") together with "prigotovil" ("cooked") just the way native speakers do.
-- 'Come on, I will show you.' Max presents a lively manner in this beat, combining "poydem" ("let's go") and "pokazhu" ("will show") so the key meaning lands right away.
+- 'Under the table, as a bribe.' Max picks this clear element at once: "lapu" means "paw, hand" (from "lapa"), giving the line its exact edge.
+- 'I got it, yes.' Max voices the thought for Sasha: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'If there are any problems, call me.' Max stands firm quietly as they talk, refusing to let the moment slip past.
+- 'Everything adds up.' Sasha points to one familiar detail at once: "skhoditsya" means "to match, add up", and it carries the main weight of what Sasha is saying.
+- 'And you do not know?' Max drops this statement right away: Russian keeps the exact word order of a normal statement here, turning it into a question for Sasha purely through rising pitch at the end.
+- 'I will take a look right now.' Sasha jumps in right away to be clear, shifting the whole mood of the room in a single beat.
+- 'What, are you afraid of me?' Max colors one direct element with Sasha: "boishsya" means "you are afraid" (from "boyatsya"), giving the line its exact edge.
+- 'Well then, what is the problem?' Sasha gives the thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'I am not afraid.' Max answers candidly with a nod, so Sasha knows he is not just making small talk.
+- 'Were you not looking for me?' Sasha reaches for this sharp term on cue: "iskala" means "searched" (from "iskat"), giving the line its exact edge.
+- 'And I was just looking for you too.' Max centers one direct word right here: "iskal" means "was looking for" (from "iskat"), giving the line its exact edge.
+- 'I cooked such an amazing dorado.' Max weighs in plainly across the room, refusing to let the moment slip past.
+- 'Come on, I will show you.' Max chooses one classic term in reply: "pokazhu" means "will show" (from "pokazat"), giving the line its exact edge.

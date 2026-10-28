@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, did something happen to you? You look pale.' Max wonders naturally to make the point, using "sluchilos" (from "sluchitsya", "happened") alongside "blednaya" ("pale, pallid") to shape the meaning.
-- 'Eleonora said that we need to make an edible menu.' Vika shares a grounded attitude for Max, leaning on "skazala" ("told") before closing the thought with "nuzhno" ("necessary").
-- 'And I have no idea at all how to make it.' Vika favors a lively approach at this moment, leaning on "voobshche" ("at all") before closing the thought with "znayu" ("know").
-- 'If you want, let me make it? I have seen one before.' Max tests calmly beside Vika, joining "khochesh" ("do you want") to "davay" ("let's") so every word pulls its weight.
-- 'Thank you, Lavrov, but I will figure everything out myself.' Vika displays a wry view as they talk, putting "spasibo" ("thank you") alongside "razberus" ("I will sort out") in a tight, everyday turn of phrase.
-- 'Vika, stop showing your proud temper already!' Max keeps a warm line at once, anchoring the Russian line on "khvatit" ("enough") and "uzhe" ("already, now") without extra filler.
-- 'I told you clearly that I will make it myself!' Max adopts an earnest line in the scene, building the phrase around "yasno" ("clear, got it") and "skazal" ("said") for a crisp, natural delivery.
-- 'Fine! Then this evening the edible menu must be ready!' Vika displays a resolute stance at this moment, leaning on "khorosho" ("good, fine") before closing the thought with "togda" ("back then").
-- 'That is great, you are always welcome, Victoria Sergeyevna!' Max holds an honest course in the room, combining "otlichno" ("perfect, great") and "vsegda" ("always") so the key meaning lands right away.
-- 'And while you are at it, clean this whole kitchen spotless!' Vika adopts a grounded bearing at once, linking "zaodno" ("at the same time"), "chisto" ("clean"), and "uberi" ("take away, put away") in one brisk exchange.
-- 'Alright, only I did not sign up to clean the kitchen!' Max shares a firm stance as they talk, leaning on "tolko" ("only") before closing the thought with "kukhnyu" ("kitchen").
-- 'I just wanted to test if that would work too.' Vika picks an earnest direction as they talk, leaning on "prosto" ("just") before closing the thought with "khotela" ("wanted, meant").
+- 'Vika, did something happen to you? You look pale.' Max directs this answer without fuss: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Eleonora said that we need to make an edible menu.' Vika opens up frankly watching Max, watching Max's face to see how the news lands.
+- 'And I have no idea at all how to make it.' Vika highlights one vivid choice toward Max: "voobshche" means "at all", and it carries the main weight of what Vika is saying.
+- 'If you want, let me make it? I have seen one before.' Max shares that line plainly here: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Thank you, Lavrov, but I will figure everything out myself.' Vika pushes back pointedly with Max, saying out loud what both of them already know.
+- 'Vika, stop showing your proud temper already!' Max leans on this telling touch on cue: "kharakter" means "character, temper", and it carries the main weight of what Max is saying.
+- 'I told you clearly that I will make it myself!' Max spotlights this vivid touch in earnest: "sdelayu" means "I'll do" (from "sdelat"), giving the line its exact edge.
+- 'Fine! Then this evening the edible menu must be ready!' Vika pushes back quietly on the spot, watching Max's face to see how the news lands.
+- 'That is great, you are always welcome, Victoria Sergeyevna!' Max grounds one pointed choice for Vika: "otlichno" means "perfect, great", and it carries the main weight of what Max is saying.
+- 'And while you are at it, clean this whole kitchen spotless!' Vika reacts boldly across the room, saying out loud what both of them already know.
+- 'Alright, only I did not sign up to clean the kitchen!' Max opens up firmly on the spot, to clear the air between them once and for all.
+- 'I just wanted to test if that would work too.' Vika points to one loaded detail on cue: "poluchilos" means "worked out" (from "poluchitsya"), giving the line its exact edge.

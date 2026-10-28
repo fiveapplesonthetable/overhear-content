@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What did you do? They will sue us.' Mikhail probes candidly to Barinov here, putting "ustroil" ("caused") alongside "zasudyat" ("they will sue") in a tight, everyday turn of phrase.
-- 'Did someone not appreciate your great move?' Barinov quizzes evenly right away, linking "otsenil" ("to appreciate"), "otlichnyy" ("excellent, great"), and "khod" ("course, progress") in one brisk exchange.
-- 'Very strange.' Barinov sets a candid bearing for Mikhail, pairing "ochen" ("very much") with "stranno" ("strange") to get the point across in plain spoken Russian.
-- 'We lost so much money today.' Senya projects a brisk style beside Mikhail, putting "stolko" ("so many") alongside "deneg" ("money") in a tight, everyday turn of phrase.
-- 'Listen, maybe we should order from Timur?' Senya presses evenly across the room, putting "slushay" ("listen") alongside "mozhet" ("can") in a tight, everyday turn of phrase.
-- 'Timur, hi, this is Senya.' Senya takes a direct angle as they talk, combining "timur" ("Timur") and "privet" ("hi") so the key meaning lands right away.
-- 'Can you get us some cockroaches?' Senya tests openly toward Barinov here, putting "mozhesh" ("can") alongside "tarakanov" ("cockroaches") in a tight, everyday turn of phrase.
-- 'Yes, we will pay you well.' Senya keeps a clear tempo as the scene unfolds, putting "khorosho" ("good, fine") alongside "zaplatim" ("will pay") in a tight, everyday turn of phrase.
-- 'Give us five of them right away.' Senya picks a thoughtful style in the scene, building the phrase around "davay" ("let's") and "srazu" ("at once") for a crisp, natural delivery.
-- 'I told you: stay away!' Barinov brings a playful approach as they talk, putting "govoril" ("said, were saying") alongside "lez" ("poke nose, meddle") in a tight, everyday turn of phrase.
-- 'Who are you at all?' Mikhail presses lightly as the beat lands, combining the conversational booster "voobshche" ("in general, overall") with "ty" ("you") to give the line its natural spoken rhythm.
-- 'Let go of him right now!' Mikhail keeps a grounded rhythm as the scene unfolds, combining "otpusti" ("let go, release") and "pryamo" ("right, just") so the key meaning lands right away.
-- 'Did you give him your phone number?' Barinov challenges directly as they speak, using "dala" (from "dat", "gave") alongside "telefon" ("phone") to shape the meaning.
-- 'Are you satisfied now?' Barinov checks dryly right away, pairing "teper" ("now") with "dovolen" ("pleased") to get the point across in plain spoken Russian.
+- 'What did you do? They will sue us.' Mikhail reaches for one sharp word in earnest: "zasudyat" means "they will sue" (from "zasudit"), giving the line its exact edge.
+- 'Did someone not appreciate your great move?' Barinov delivers the remark with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Senya purely through rising pitch at the end.
+- 'Very strange.' Jumping in right away, Barinov makes it clear that he means every single word.
+- 'We lost so much money today.' Senya emphasizes one vivid expression toward Mikhail: "poteryali" means "lost" (from "poteryat"), giving the line its exact edge.
+- 'Listen, maybe we should order from Timur?' Senya shares this statement before Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Timur, hi, this is Senya.' Senya speaks calmly to settle things, without trying to dress up how he really feels.
+- 'Can you get us some cockroaches?' Senya colors one pointed expression on cue: "tarakanov" means "cockroaches" (from "tarakan"), giving the line its exact edge.
+- 'Yes, we will pay you well.' Senya sends this statement facing Mikhail: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Give us five of them right away.' Senya holds firm calmly around Barinov, saying out loud what both of them already know.
+- 'I told you: stay away!' Barinov centers one vivid piece in earnest: "govoril" means "said, were saying" (from "govorit"), giving the line its exact edge.
+- 'Who are you at all?' Mikhail lays out that point without fuss: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Let go of him right now!' Mikhail counters promptly hearing Senya, steering the talk right where he wants it.
+- 'Did you give him your phone number?' Barinov leans on one loaded word toward Mikhail: "telefon" means "phone", and it carries the main weight of what Barinov is saying.
+- 'Are you satisfied now?' Barinov frames the reaction toward Senya: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

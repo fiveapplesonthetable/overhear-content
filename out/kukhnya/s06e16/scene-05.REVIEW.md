@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Wait, I will bring the oil faster right now.' Senya strikes a measured course at once, anchoring the Russian line on "podozhdi" ("wait") and "seychas" ("now") without extra filler.
-- 'What is this, I do not understand!' Senya picks a sharp view at once, pairing "ponyal" ("understood") with "chto" ("what") to get the point across in plain spoken Russian.
-- 'Guys, we are on a strict diet before the show.' The guest chooses a pointed mood without hesitation, leaning on "rebyata" ("the boys, the lads") before closing the thought with "zhyostkaya" ("tough, hard").
-- 'The designer watches us all day long.' The guest sets an easygoing attitude with Senya, putting "modelyer" ("fashion designer") alongside "den" ("day") in a tight, everyday turn of phrase.
-- 'He is afraid we will not fit into the new collection.' The guest brings a playful mood for Fedya, building the phrase around "boitsya" ("is afraid") and "vlezem" ("to climb in") for a crisp, natural delivery.
-- 'I will turn green soon from this salad!' The guest maintains a thoughtful tempo in this beat, putting "salata" ("salad") alongside "skoro" ("soon") in a tight, everyday turn of phrase.
-- 'If you want, can we feed you in your room?' Senya wonders sharply as the beat lands, linking "khochesh" ("do you want"), "nomere" ("in the hotel room"), and "pokormim" ("to feed") in one brisk exchange.
-- 'We will bring delicious meat completely unnoticed.' Fedya shows a brisk bearing beside Senya, pairing "prinesyom" ("will bring") with "vkusnoye" ("tasty, delicious") to get the point across in plain spoken Russian.
-- 'And I will pay you directly.' The guest maintains a measured note without hesitation, combining "budu" ("will be") and "platit" ("to pay") so the key meaning lands right away.
-- 'That is very good, we like the idea.' Senya projects a playful approach in front of the guest, weaving "ochen" ("very much") together with "khorosho" ("good, fine") just the way native speakers do.
-- 'Wait, we do not need your money.' Fedya sustains an unhurried view in the conversation, building the phrase around "podozhdi" ("wait") and "dengi" ("money") for a crisp, natural delivery.
-- 'Alright, guys, then we have a deal.' The guest displays an earnest tempo in this beat, combining "rebyata" ("the boys, the lads") and "togda" ("back then") so the key meaning lands right away.
+- 'Wait, I will bring the oil faster right now.' Senya replies wryly as things stand, watching Fedya's face to see how the news lands.
+- 'What is this, I do not understand!' Senya holds firm warmly beside the guest, testing the guest's reaction in the middle of the exchange.
+- 'Guys, we are on a strict diet before the show.' The guest anchors one clear detail in earnest: "zhyostkaya" means "tough, hard" (from "zhyostkiy"), giving the line its exact edge.
+- 'The designer watches us all day long.' The guest answers briskly to be clear, letting the remark speak for itself.
+- 'He is afraid we will not fit into the new collection.' The guest continues evenly as things stand, so Fedya knows he is not just making small talk.
+- 'I will turn green soon from this salad!' The guest highlights one colorful expression at once: "pozeleneyu" means "will turn green" (from "pozelenet"), giving the line its exact edge.
+- 'If you want, can we feed you in your room?' Senya shapes that remark briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Fedya purely through rising pitch at the end.
+- 'We will bring delicious meat completely unnoticed.' Fedya steps in steadily with a smile, grounding the moment in plain reality.
+- 'And I will pay you directly.' The guest spotlights this direct detail for Fedya: "napryamuyu" means "directly", and it carries the main weight of what the guest is saying.
+- 'That is very good, we like the idea.' Senya gives that answer toward the guest: the single Russian word "khorosho" ("good, well") sets up the whole statement without needing a separate word for "it is".
+- 'Wait, we do not need your money.' Fedya stands firm promptly hearing the guest, to clear the air between them once and for all.
+- 'Alright, guys, then we have a deal.' The guest colors one memorable choice in reply: "dogovorilis" means "agreed, deal" (from "dogovoritsya"), giving the line its exact edge.

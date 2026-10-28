@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, Vitya, how glad I am to see you!' The guest presents a serious attitude straight away, building the phrase around "kak" ("how") and "rad" ("glad") for a crisp, natural delivery.
-- 'Volodya, pal, what brings you here?' Barinov challenges dryly at this point, joining "volodya" ("volodya") to "drug" ("friend") so every word pulls its weight.
-- 'I am passing through Moscow and decided to drop by.' The guest establishes a firm angle with Barinov, leaning on "proyezdom" ("through") before closing the thought with "reshil" ("has decided").
-- 'And people told me that you were fired from here.' The guest establishes a sharp approach during the exchange, combining "skazali" ("told") and "otsyuda" ("from here") so the key meaning lands right away.
-- 'Who could ever fire me from work?' Barinov wonders evenly beside the guest, anchoring the Russian line on "voobshche" ("at all") and "mozhet" ("can") without extra filler.
-- 'All of Moscow is chasing after me right now!' Barinov strikes a lively angle without hesitation, leaning on "seychas" ("now") before closing the thought with "gonyayetsya" ("to right").
-- 'They did not fire me, they simply outbid for me.' Barinov displays a thoughtful view in this beat, pairing "uvolili" ("to fire, to dismiss") with "prosto" ("just") to get the point across in plain spoken Russian.
-- 'And where are you working as head chef now?' The guest inquires warmly toward Barinov here, leaning on "gde" ("where") before closing the thought with "teper" ("now").
-- 'Right over here, I am in charge at the neighboring restaurant.' Barinov takes a sharp posture with the guest, anchoring the Russian line on "tut" ("here") and "sosednem" ("neighboring") without extra filler.
-- 'It is a very beautiful and fashionable place.' Barinov shares a serious manner beside the guest, linking "ochen" ("very much") directly with "krasivoye" ("beautiful"), since Russian drops "is" and "are" in the present.
-- 'Then expect my wife and me for a visit tomorrow!' The guest takes a clear position in the scene, pairing "znachit" ("then, so") with "zavtra" ("tomorrow") to get the point across in plain spoken Russian.
-- 'Excellent, then see you tomorrow, dear pal!' Barinov takes a wry attitude at this moment, weaving "otlichno" ("perfect, great") together with "togda" ("back then") just the way native speakers do.
+- 'Hello, Vitya, how glad I am to see you!' The guest chooses one sharp detail with Barinov: "videt" means "to see", and it carries the main weight of what the guest is saying.
+- 'Volodya, pal, what brings you here?' Barinov questions candidly whether the guest really thought this through.
+- 'I am passing through Moscow and decided to drop by.' The guest points to this sharp term right here: "proyezdom" means "through" (from "proyezd"), giving the line its exact edge.
+- 'And people told me that you were fired from here.' The guest anchors one familiar touch for Barinov: "skazali" means "told" (from "skazat"), giving the line its exact edge.
+- 'Who could ever fire me from work?' Barinov probes quietly what the guest is actually getting at here.
+- 'All of Moscow is chasing after me right now!' Barinov sharpens one classic expression on cue: "gonyayetsya" means "to right" (from "gonyatsya"), giving the line its exact edge.
+- 'They did not fire me, they simply outbid for me.' Barinov gives the reply with ease: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'And where are you working as head chef now?' The guest presses candidly as Barinov tries to explain the situation.
+- 'Right over here, I am in charge at the neighboring restaurant.' Barinov focuses on one pointed touch in earnest: "restorane" means "restaurant" (from "restoran"), giving the line its exact edge.
+- 'It is a very beautiful and fashionable place.' Barinov hands over that reply with ease: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Then expect my wife and me for a visit tomorrow!' The guest speaks briskly with a shrug, saying out loud what both of them already know.
+- 'Excellent, then see you tomorrow, dear pal!' Barinov focuses on one colorful detail for the guest: "dorogoy" means "dear", and it carries the main weight of what Barinov is saying.

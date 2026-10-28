@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello! Glad to see you here again.' Katya strikes a brisk line as they talk, building the phrase around "zdravstvuyte" ("hello") and "rada" ("glad") for a crisp, natural delivery.
-- 'Does your father not know the truth yet?' The guest asks plainly without holding back, anchoring the Russian line on "otets" ("father") and "yeshchyo" ("more, still") without extra filler.
-- 'Why did you not tell him anything?' The guest tests honestly in the scene, anchoring the Russian line on "pochemu" ("why") and "skazali" ("told") without extra filler.
-- 'There simply was not a good moment yet.' Katya conveys a playful course at this moment, weaving "prosto" ("just") together with "yeshchyo" ("more, still") just the way native speakers do.
-- 'Katya, what is this guest saying right now?' Nagiyev challenges promptly to make the point, joining "seychas" ("now") to "govorit" ("talks") so every word pulls its weight.
-- 'He says that he does not like it here.' Katya sets a resolute posture during the exchange, pairing "nravitsya" ("is pleasing") with "govorit" ("talks") so the "-sya" ending carries the action.
-- 'For him this is a very boring place.' Katya chooses a lively angle in the room, anchoring the Russian line on "ochen" ("very much") and "skuchnoye" ("boring, dull") without extra filler.
-- 'Tell him to stop by later.' Nagiyev offers a lively tack beside Katya, using "skazhi" (from "skazat", "say") alongside "potom" ("then") to shape the meaning.
-- 'Please do not tell my father about me.' Katya sets an honest view at this moment, combining "govorite" ("say, speak") and "ottsu" ("to father") so the key meaning lands right away.
-- 'It is better if I tell him everything myself.' Katya shows a direct position at once, anchoring the Russian line on "luchshe" ("better") and "skazhu" ("I'll tell") without extra filler.
-- 'Alright, I will wait for your truth.' The guest keeps a wry rhythm in this beat, linking "khorosho" ("good, fine"), "budu" ("will be"), and "zhdat" ("to wait") in one brisk exchange.
-- 'Tell your father that I will stop by tomorrow.' The guest projects an unhurried tempo without hesitation, building the phrase around "peredayte" ("to pass on") and "ottsu" ("to father") for a crisp, natural delivery.
-- 'Do not translate that to him, do not!' Nagiyev projects a calm note with the guest, building the phrase around "perevodi" ("to transfer") and "nado" ("it is necessary") for a crisp, natural delivery.
+- 'Hello! Glad to see you here again.' Katya states that reply around the guest: the full polite greeting "zdravstvuyte" literally wishes the other person good health, setting a respectful tone right at the start.
+- 'Does your father not know the truth yet?' The guest prompts curiously as Nagiyev tries to explain the situation.
+- 'Why did you not tell him anything?' The guest colors one telling choice on cue: "skazali" means "told" (from "skazat"), giving the line its exact edge.
+- 'There simply was not a good moment yet.' Katya voices this warning before Nagiyev: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Katya, what is this guest saying right now?' Nagiyev probes skeptically what the guest is actually getting at here.
+- 'He says that he does not like it here.' Katya frames one colorful word in reply: "nravitsya" means "is pleasing", and it carries the main weight of what Katya is saying.
+- 'For him this is a very boring place.' Katya puts that point before the guest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Tell him to stop by later.' Nagiyev weighs in at once with a smile, leaving no doubt about where he stands.
+- 'Please do not tell my father about me.' Katya features one clear element for the guest: "govorite" means "say, speak" (from "govorit"), giving the line its exact edge.
+- 'It is better if I tell him everything myself.' Katya steps in steadily toward Nagiyev, letting the remark speak for itself.
+- 'Alright, I will wait for your truth.' The guest counters candidly in this moment, saying out loud what both of them already know.
+- 'Tell your father that I will stop by tomorrow.' The guest highlights one loaded choice with Nagiyev: "peredayte" means "to pass on" (from "peredat"), giving the line its exact edge.
+- 'Do not translate that to him, do not!' Nagiyev shapes this point without pause: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".

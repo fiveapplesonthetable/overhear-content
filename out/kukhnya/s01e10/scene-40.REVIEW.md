@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, don' Glued to the small television in the back room, Barinov snaps at Senya not to block the football match.
+- 'Senya, don't disturb me watching football!' Glued to the small television in the back room, Barinov snaps at Senya not to block the football match.
 - 'Chef, Dmitry Vladimirovich is urgently calling you!' Senya urgently reports that owner Dmitry Nagiyev is calling for the chef right now.
 - 'Why does the owner call at this exact moment?' Viktor groans, asking why the boss has to summon him in the middle of the game.
 - 'He said that this is a very urgent matter.' Senya says Nagiyev sounded dead serious and called it urgent.

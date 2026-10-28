@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, how do you like my little apartment?' The hostess prompts pointedly for Barinov's benefit, pairing "kak" ("how") with "kvartirka" ("little apartment") to get the point across in plain spoken Russian.
-- 'Alright, one can live here.' Max presents a brisk footing in the scene, pairing "tut" ("here") with "zhit" ("to live") to get the point across in plain spoken Russian.
-- 'Who can live here?' The hostess inquires lightly across the room, putting "tut" ("here") alongside "zhit" ("to live") in a tight, everyday turn of phrase.
-- 'I can live here.' Max conveys an easygoing footing right away, weaving "zdes" ("here") together with "zhit" ("to live") just the way native speakers do.
-- 'You are not allowed to live here.' The hostess projects a lively course beside Barinov, pairing "zdes" ("here") with "zhit" ("to live") to get the point across in plain spoken Russian.
-- 'But why am I not allowed?' Max queries earnestly at this point, building the phrase around "pochemu" ("why") and "nelzya" ("not allowed") for a crisp, natural delivery.
-- 'I only rent the apartment out to girls.' The hostess favors a natural style right away, using "kvartiru" (from "kvartira", "flat") alongside "tolko" ("only") to shape the meaning.
-- 'Then why did you show me the apartment?' Max queries candidly as they speak, putting "zachem" ("what for") alongside "togda" ("back then") in a tight, everyday turn of phrase.
-- 'Because you paid the money for the viewing.' The hostess takes a brisk tone straight away, putting "dengi" ("money") alongside "prosmotr" ("the audition") in a tight, everyday turn of phrase.
-- 'And everything turned out so well.' Barinov favors a sharp direction without hesitation, building the phrase around "khorosho" ("good, fine") and "poluchilos" ("worked out") for a crisp, natural delivery.
-- 'They gave him a brand-new motorcycle.' Barinov picks an earnest footing for the hostess, pairing "dali" ("gave") with "novenkiy" ("newcomer") to get the point across in plain spoken Russian.
-- 'Well then, Kirill Ilyich, is it peace now?' Barinov presses openly without hesitation, leaning on "kirill" ("Kirill") before closing the thought with "ilich" ("Ilyich").
+- 'Well, how do you like my little apartment?' The hostess asks bluntly how Barinov expects that to work in practice.
+- 'Alright, one can live here.' Max reaches for one pointed term right here: "mozhno" means "may, can", and it carries the main weight of what Max is saying.
+- 'Who can live here?' The hostess sends that point for Barinov: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'I can live here.' Max fires back candidly to be clear, making his position completely clear.
+- 'You are not allowed to live here.' The hostess underscores one concrete term at once: "nelzya" means "not allowed", and it carries the main weight of what the hostess is saying.
+- 'But why am I not allowed?' Max sends the thought with candor: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'I only rent the apartment out to girls.' The hostess speaks up evenly to settle things, shifting the whole mood of the room in a single beat.
+- 'Then why did you show me the apartment?' Max sharpens one concrete word on cue: "kvartiru" means "flat" (from "kvartira"), giving the line its exact edge.
+- 'Because you paid the money for the viewing.' The hostess uses this telling expression toward Barinov: "prosmotr" means "the audition", and it carries the main weight of what the hostess is saying.
+- 'And everything turned out so well.' Barinov speaks up evenly with a smile, shifting the whole mood of the room in a single beat.
+- 'They gave him a brand-new motorcycle.' Barinov anchors one key piece in reply: "mototsikl" means "motorcycle", and it carries the main weight of what Barinov is saying.
+- 'Well then, Kirill Ilyich, is it peace now?' Barinov phrases that reply briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

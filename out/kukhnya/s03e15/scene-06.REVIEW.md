@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, take this, here is six hundred thousand for you.' The guest presents a sharp bearing in front of Kostya, putting "derzhi" ("here you go") alongside "tysyach" ("thousand") in a tight, everyday turn of phrase.
-- 'Throw my daughter a proper wedding!' The guest picks an earnest attitude in the scene, leaning on "ustroy" ("arrange, throw") before closing the thought with "docheri" ("of daughter").
-- 'Do you hear me, a proper wedding!' The guest conveys a clear approach at once, linking "slyshish" ("hear"), "normalnuyu" ("proper, normal"), and "svadbu" ("wedding") in one brisk exchange.
-- 'You see for yourself that she wants this.' The guest maintains a grounded approach in their talk, anchoring the Russian line on "vidish" ("see") and "khochet" ("wants") without extra filler.
-- 'But she will never take money from me.' The guest maintains a warm view in this beat, weaving "deneg" ("money") together with "vozmyot" ("will take, hire") just the way native speakers do.
-- 'And how will I explain where I got this money?' Kostya quizzes dryly at this point, joining "kak" ("how") to "obyasnyu" ("I'll explain") so every word pulls its weight.
-- 'What, am I supposed to make up stories for you too?' The guest probes candidly toward Kostya here, weaving "dolzhen" ("has to, must") together with "yeshchyo" ("more, still") just the way native speakers do.
-- 'Tell her that you found it, stole it, or earned it!' The guest maintains a direct tone in the scene, combining "skazhi" ("say") and "nashyol" ("found") so the key meaning lands right away.
-- 'No, that I earned it, she definitely will not believe.' Kostya presents an unhurried footing right away, combining "zarabotal" ("to start working") and "tochno" ("definitely") so the key meaning lands right away.
-- 'There, the wheels are turning in your head, start thinking!' The guest adopts a steady line during the exchange, combining "poshyol" ("went, set off") and "protsess" ("process") so the key meaning lands right away.
-- 'Madam, what is the point of all this extra talk?' Max queries boldly beside the guest, placing "madam" ("madam") straight beside "lishniye" ("unnecessary") with no word for "to be" needed.
-- 'Vika, I love you very much, after all!' Max keeps a lively course on the spot, pairing "ochen" ("very much") with "silno" ("strongly, much") to get the point across in plain spoken Russian.
+- 'Kostya, take this, here is six hundred thousand for you.' The guest follows up quietly in this moment, watching Kostya's face to see how the news lands.
+- 'Throw my daughter a proper wedding!' The guest points to one familiar word at once: "normalnuyu" means "proper, normal" (from "normalnyy"), giving the line its exact edge.
+- 'Do you hear me, a proper wedding!' The guest emphasizes one classic term in reply: "normalnuyu" means "proper, normal" (from "normalnyy"), giving the line its exact edge.
+- 'You see for yourself that she wants this.' The guest chimes in earnestly in this moment, so Max knows he is not just making small talk.
+- 'But she will never take money from me.' The guest colors this vivid detail with Kostya: "deneg" means "money" (from "dengi"), giving the line its exact edge.
+- 'And how will I explain where I got this money?' Kostya voices that thought with ease: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'What, am I supposed to make up stories for you too?' The guest asks frankly where this conversation is heading next.
+- 'Tell her that you found it, stole it, or earned it!' The guest features one vivid word in earnest: "zarabotal" means "to start working" (from "zarabotat"), giving the line its exact edge.
+- 'No, that I earned it, she definitely will not believe.' Kostya follows up right away during the talk, without trying to dress up how he really feels.
+- 'There, the wheels are turning in your head, start thinking!' The guest reacts decisively without any doubt, saying out loud what both of them already know.
+- 'Madam, what is the point of all this extra talk?' Max centers this key piece for the guest: "razgovory" means "conversations" (from "razgovor"), giving the line its exact edge.
+- 'Vika, I love you very much, after all!' Max underscores one vivid element toward Kostya: "lyublyu" means "love" (from "lyubit"), giving the line its exact edge.

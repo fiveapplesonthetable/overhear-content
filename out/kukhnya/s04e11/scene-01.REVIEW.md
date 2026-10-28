@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'If Shakespeare lived in our time.' Max maintains a measured line in their talk, leaning on "shekspir" ("time") before closing the thought with "zhil" ("lived").
-- 'He would probably have put it just like this.' Max sustains a frank footing on the spot, building the phrase around "navernoye" ("probably") and "skazal" ("said") for a crisp, natural delivery.
-- 'Two chefs wage battles between themselves.' Max favors a candid style in this beat, joining "shefa" ("chef") to "vedut" ("to lead, to conduct") so every word pulls its weight.
-- 'Viktoriya and Max are in love with each other.' Vika presents a pointed stance across the room, joining "drug" ("friend") to "druga" ("the friend") so every word pulls its weight.
-- 'Max, well, what is this?' Vika wonders pointedly in their exchange, linking "maks" ("Max") directly with "nu" ("oh, come on"), since Russian drops "is" and "are" in the present.
-- 'Woman, do not distract me, I am losing right now!' Max adopts a serious style at this moment, pairing "seychas" ("now") with "zhenshchina" ("woman") so the "-sya" ending carries the action.
-- 'Max, I asked you to fix it.' Vika holds a grounded posture in the conversation, linking "prosila" ("asked"), "pochinit" ("to fix, mend"), and "maks" ("Max") in one brisk exchange.
-- 'And you simply unscrewed this thing!' Vika presents a wry posture right away, combining "prosto" ("just") and "otkrutil" ("to thing") so the key meaning lands right away.
-- 'Vika, wash up without the shower head for now.' Max strikes a wry posture for Vika, building the phrase around "pomoysya" ("wash") and "poka" ("bye") for a crisp, natural delivery.
-- 'I will buy a new one later and screw it on.' Max sets a thoughtful direction in the conversation, putting "potom" ("then") alongside "kuplyu" ("will buy") in a tight, everyday turn of phrase.
-- 'Vika, what are you doing in there?' Max probes dryly on the spot, linking "tam" ("there"), "delayesh" ("are you doing"), and "vika" ("Vika") in one brisk exchange.
-- 'I am doing what you are supposed to do.' Vika strikes a calm footing across the room, building the phrase around "delayu" ("I make") and "dolzhen" ("has to, must") for a crisp, natural delivery.
-- 'In this house I am both the man and the woman.' Vika presents a resolute stance straight away, combining "dome" ("house") and "muzhchina" ("man") so the key meaning lands right away.
+- 'If Shakespeare lived in our time.' Max spotlights one telling word right here: "shekspir" means "time", and it carries the main weight of what Max is saying.
+- 'He would probably have put it just like this.' Max stands firm decisively in their talk, testing Vika's reaction in the middle of the exchange.
+- 'Two chefs wage battles between themselves.' Max speaks up earnestly beside Vika, shifting the whole mood of the room in a single beat.
+- 'Viktoriya and Max are in love with each other.' Vika anchors one practical word toward Max: "vlyubleny" means "each", and it carries the main weight of what Vika is saying.
+- 'Max, well, what is this?' Vika directs this point plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Woman, do not distract me, I am losing right now!' Max reacts promptly across the room, letting the remark speak for itself.
+- 'Max, I asked you to fix it.' Vika focuses on one practical detail on cue: "pochinit" means "to fix, mend", and it carries the main weight of what Vika is saying.
+- 'And you simply unscrewed this thing!' Vika puts this point at once: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'Vika, wash up without the shower head for now.' Max replies decisively facing Vika, steering the talk right where he wants it.
+- 'I will buy a new one later and screw it on.' Max favors one concrete detail on cue: "prikruchu" means "screw" (from "prikrucha"), giving the line its exact edge.
+- 'Vika, what are you doing in there?' Max brings the comeback with candor: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'I am doing what you are supposed to do.' Vika replies bluntly with Max, refusing to let the moment slip past.
+- 'In this house I am both the man and the woman.' Vika reaches for one vivid term at once: "zhenshchina" means "woman", and it carries the main weight of what Vika is saying.

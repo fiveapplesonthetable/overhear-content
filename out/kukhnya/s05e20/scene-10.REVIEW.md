@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Oh, Nikita, what are you doing here?' Lyova probes earnestly in this moment, linking "zdes" ("here"), "delayesh" ("are you doing"), and "nikita" ("Nikita") in one brisk exchange.
-- 'I stained my shirt, so I stopped in to wash it.' Nikita takes an earnest posture in the room, weaving "rubashku" ("shirt") together with "ispachkal" ("stained, soiled") just the way native speakers do.
-- 'And why did you come down here, Lyova?' Nikita prompts directly as the talk turns, combining "syuda" ("here") and "prishyol" ("came, have come") so the key meaning lands right away.
-- 'I also came to wash my uniform.' Lyova offers an unhurried attitude toward Nikita, weaving "tozhe" ("too") together with "prishyol" ("came, have come") just the way native speakers do.
-- 'Maybe you can come back later, after me?' Lyova tests firmly during the talk, leaning on "mozhet" ("can") before closing the thought with "pridyosh" ("will come").
-- 'No, I cannot walk around the dining room with a stain.' Nikita offers a direct position in front of Max, using "mogu" (from "moch", "can") alongside "pyatnom" ("spot, stain") to shape the meaning.
-- 'And you can, the guests do not see you.' Nikita picks a steady footing right away, putting "mozhesh" ("can") alongside "gosti" ("visitors, guests") in a tight, everyday turn of phrase.
-- 'I am not allowed to either under sanitary rules.' Lyova picks an emphatic manner at this moment, joining "tozhe" ("too") to "sanitarnym" ("sanitary") so every word pulls its weight.
-- 'Let's each prepare half of the fish.' Max presents a warm course as they talk, leaning on "davay" ("let's") before closing the thought with "polovine" ("half").
-- 'It is a shame to waste a whole fish on your humiliation.' Max favors a frank angle with Nikita, putting "zhal" ("it is a pity") alongside "tseluyu" ("kisses") in a tight, everyday turn of phrase.
-- 'Well, and which one of us is the lovebird now?' Nikita quizzes firmly at this point, linking "teper" ("now") directly with "golubok" ("dove, pigeon"), since Russian drops "is" and "are" in the present.
-- 'Agreed, one half will be plenty for me.' Max sets a thoughtful tack during the exchange, anchoring the Russian line on "soglasen" ("agreed") and "poloviny" ("half") without extra filler.
+- 'Oh, Nikita, what are you doing here?' Lyova frames one sharp element for Max: "delayesh" means "are you doing" (from "delat"), giving the line its exact edge.
+- 'I stained my shirt, so I stopped in to wash it.' Nikita speaks evenly hearing Max, bringing things back to earth after the buildup.
+- 'And why did you come down here, Lyova?' Nikita tests deadpan how Lyova expects that to work in practice.
+- 'I also came to wash my uniform.' Lyova picks this key choice for Nikita: "prishyol" means "came, have come" (from "priyti"), giving the line its exact edge.
+- 'Maybe you can come back later, after me?' Lyova shares this update with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Max purely through rising pitch at the end.
+- 'No, I cannot walk around the dining room with a stain.' Nikita weighs in sharply without a pause, steering the talk right where he wants it.
+- 'And you can, the guests do not see you.' Nikita chooses this direct element at once: "mozhesh" means "can" (from "moch"), giving the line its exact edge.
+- 'I am not allowed to either under sanitary rules.' Lyova aims this answer right away: the single Russian word "nelzya" ("it is not allowed, one must not") sets up the whole statement without needing a separate word for "it is".
+- 'Let's each prepare half of the fish.' Max follows up sharply in their talk, grounding the moment in plain reality.
+- 'It is a shame to waste a whole fish on your humiliation.' Hear how Max turns to Nikita with candor — the Russian word "unizheniye" ("humiliation") gives the whole sentence its punch.
+- 'Well, and which one of us is the lovebird now?' Nikita offers that remark on cue: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Agreed, one half will be plenty for me.' Max answers plainly across the room, without trying to dress up how he really feels.

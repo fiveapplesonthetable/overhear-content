@@ -31,7 +31,7 @@ STORY = [
     ('barinov', 'Смотри в оба и внимательно следи за счётом!', 'Keep your eyes peeled and attentively watch the score!', [(292, 'Следи за счетом')], ''),
 ]
 WALK = [
-    (0, None, "'Senya, don' Glued to the small television in the back room, Barinov snaps at Senya not to block the football match."),
+    (0, None, "'Senya, don't disturb me watching football!' Glued to the small television in the back room, Barinov snaps at Senya not to block the football match."),
     (1, None, "'Chef, Dmitry Vladimirovich is urgently calling you!' Senya urgently reports that owner Dmitry Nagiyev is calling for the chef right now."),
     (2, None, "'Why does the owner call at this exact moment?' Viktor groans, asking why the boss has to summon him in the middle of the game."),
     (3, None, "'He said that this is a very urgent matter.' Senya says Nagiyev sounded dead serious and called it urgent."),

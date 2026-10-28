@@ -31,7 +31,7 @@ STORY = [
     ('ainura', 'Хорошо, спасибо вам большое!', 'All right, thank you very much!', [(259, 'Хорошо. Спасибо')], ''),
 ]
 WALK = [
-    (0, None, "'Are you ready to place an order already?' inspector drops a standard dining room question to find out if the supposed customer is prepared to eat."),
+    (0, None, "'Are you ready to place an order already?' Playing the part of a polite waiter, the migration officer asks the disguised cleaner if she is ready to order."),
     (1, None, "'And I will order the delicious apple strudel.' Pointing out his choice, the official decides on a sweet dessert for himself."),
     (2, None, "'Yes, I have been doing this for five years.' A casual remark follows, confirming his long experience dealing with these exact situations."),
     (3, None, "'Today the delicious dessert saved you.' Playfully admitting that the high quality of the food earned them a temporary pardon, the officer finishes his thought."),

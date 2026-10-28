@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you think you are doing here, huh?' Barinov tests steadily to keep things clear, putting "tut" ("here") alongside "delayete" ("are doing") in a tight, everyday turn of phrase.
-- 'How did you decide not to feed vegetarians normal food?' Ainura quizzes evenly in their exchange, joining "kak" ("how") to "reshili" ("decided") so every word pulls its weight.
-- 'With meat.' Barinov projects a steady direction at this moment, putting all the weight on "myasom" ("meat") so the reply lands immediately.
-- 'What happens when the chef is away?' Ainura quizzes steadily across the room, putting "kuda" ("where to") alongside "shefa" ("chef") in a tight, everyday turn of phrase.
-- 'Oh. Go on.' Barinov shares a pointed footing beside Ainura, putting all the weight on "idi" ("go") so the reply lands immediately.
-- 'Right now a vegetarian out there is about to eat meat.' Ainura brings a playful rhythm at once, pairing "tam" ("there") with "seychas" ("now") to get the point across in plain spoken Russian.
-- 'What do you mean, meat?' Barinov wonders sharply on the spot, weaving "kak" ("how") together with "myaso" ("meat") just the way native speakers do.
-- 'Why are you panicking?' Ainura questions steadily from the start, pairing "panikuyesh" ("to panic") with "chyo" ("what") to get the point across in plain spoken Russian.
-- 'He will not even notice anything.' Barinov sets an easygoing style across the room, doubling the negative with "ne" ("not") and "zametit" ("notices"), which is standard and required in Russian.
-- 'Really, it is true.' Ainura picks an unhurried attitude as the scene unfolds, leaning on "samom" ("very") before closing the thought with "dele" ("case").
-- 'You will even thank me later.' Barinov chooses a lively note with Ainura, linking "yeshchyo" ("more, still"), "spasibo" ("thank you"), and "skazhesh" ("will you say") in one brisk exchange.
-- 'Agreed, vegetarians are total idiots too.' Ainura favors a firm tack for Barinov, linking "soglasen" ("agreed"), "vegetarianskiye" ("vegetarian"), and "yeshchyo" ("more, still") in one brisk exchange.
-- 'Total idiots, right?' Barinov checks plainly toward Ainura here, putting all the weight on "idioty" ("idiot, fool") so the reply lands immediately.
+- 'What do you think you are doing here, huh?' Barinov picks this clear piece for Ainura: "delayete" means "are doing" (from "delat"), giving the line its exact edge.
+- 'How did you decide not to feed vegetarians normal food?' Ainura voices the remark to Barinov: putting the question word "kak" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'With meat.' Barinov jumps in boldly across the room, saying out loud what both of them already know.
+- 'What happens when the chef is away?' Ainura voices the comeback beside Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Oh. Go on.' Barinov shapes this point plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Right now a vegetarian out there is about to eat meat.' Ainura continues dryly to be clear, before Barinov can change the subject.
+- 'What do you mean, meat?' Barinov focuses on one classic detail in reply: "myaso" means "meat", and it carries the main weight of what Barinov is saying.
+- 'Why are you panicking?' Ainura drops that remark toward Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'He will not even notice anything.' Barinov answers decisively as they talk, watching Ainura's face to see how the news lands.
+- 'Really, it is true.' Ainura anchors one colorful choice with Barinov: "samom" means "very" (from "samyy"), giving the line its exact edge.
+- 'You will even thank me later.' Barinov voices that thought facing Ainura: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Agreed, vegetarians are total idiots too.' Ainura speaks up right away in their talk, testing Barinov's reaction in the middle of the exchange.
+- 'Total idiots, right?' Barinov anchors one sharp expression with Ainura: "idioty" means "idiot, fool" (from "idiot"), giving the line its exact edge.

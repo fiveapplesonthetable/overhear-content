@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I catch the bullet with my teeth!' Nagiyev shows a measured tack straight away, building the phrase around "lovlyu" ("catch") and "pulyu" ("bullet") for a crisp, natural delivery.
-- 'Awesome, go bring a bullet!' Nagiyev shares a grounded angle toward Kostya, anchoring the Russian line on "klass" ("cool, great") and "davay" ("let's") without extra filler.
-- 'We do not have a bullet.' Barinov shares an earnest posture on the spot, linking "puli" ("path, way"), "nas" ("us"), and "net" ("no") in one brisk exchange.
-- 'Then make a bullet quickly.' Nagiyev conveys a thoughtful position in the conversation, joining "znachit" ("then, so") to "sdelay" ("make, do") so every word pulls its weight.
-- 'What am I supposed to make it out of?' Barinov quizzes pointedly without holding back, building the phrase around "sdelayu" ("I'll do") and "iz" ("from, out of") for a crisp, natural delivery.
-- 'What difference does it make to me out of what?' Nagiyev prompts lightly without a pause, pairing "raznitsa" ("difference") with "kakaya" ("what, which") to get the point across in plain spoken Russian.
-- 'Fine, I will make it right now.' Barinov keeps an honest position in this beat, anchoring the Russian line on "seychas" ("now") and "sdelayu" ("I'll do") without extra filler.
-- 'Wait, I still have to put it in my mouth!' Nagiyev picks a candid bearing in the conversation, anchoring the Russian line on "yeshche" ("still") and "rot" ("mouth") without extra filler.
-- 'The last time I did something like this was a very long time ago.' Kostya presents an earnest tone in the room, weaving "posledniy" ("last") together with "raz" ("time, once") just the way native speakers do.
-- 'I terribly love this food.' Kostya offers a direct direction in the scene, joining "uzhas" ("horror") to "kak" ("how") so every word pulls its weight.
-- 'I completely forgot about the sausage!' Kostya takes a thoughtful rhythm with Barinov, leaning on "sovsem" ("at all") before closing the thought with "zabyl" ("forgot").
-- 'I will slice it for the table right now.' Kostya takes a thoughtful line during the exchange, weaving "seychas" ("now") together with "narezhu" ("will cut") just the way native speakers do.
+- 'I catch the bullet with my teeth!' Nagiyev points to one clear piece on cue: "zubami" means "with teeth", and it carries the main weight of what Nagiyev is saying.
+- 'Awesome, go bring a bullet!' Nagiyev hands over the comment beside Kostya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'We do not have a bullet.' Barinov opens up decisively beside Kostya, steering the talk right where he wants it.
+- 'Then make a bullet quickly.' Nagiyev leans on one key expression in reply: "znachit" means "then, so", and it carries the main weight of what Nagiyev is saying.
+- 'What am I supposed to make it out of?' Barinov voices this point briskly now: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'What difference does it make to me out of what?' Nagiyev quizzes wryly to see how Kostya will answer on the spot.
+- 'Fine, I will make it right now.' Barinov highlights one classic choice in reply: "seychas" means "now", and it carries the main weight of what Barinov is saying.
+- 'Wait, I still have to put it in my mouth!' Nagiyev holds firm decisively around Kostya, before Kostya can change the subject.
+- 'The last time I did something like this was a very long time ago.' Kostya follows up evenly watching Barinov, without trying to dress up how he really feels.
+- 'I terribly love this food.' Kostya picks one pointed choice right here: "uzhas" means "horror", and it carries the main weight of what Kostya is saying.
+- 'I completely forgot about the sausage!' Kostya shapes that line with warmth: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'I will slice it for the table right now.' Kostya speaks boldly as they talk, testing Nagiyev's reaction in the middle of the exchange.

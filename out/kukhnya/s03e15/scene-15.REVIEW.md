@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, how are you feeling right now?' The doctor prompts wryly to keep things clear, joining "skazhite" ("tell") to "kak" ("how") so every word pulls its weight.
-- 'Thank you, I feel quite alright.' Max shares a brisk footing straight away, weaving "spasibo" ("thank you") together with "chuvstvuyu" ("feel") just the way native speakers do.
-- 'Doctor, does that mean everything is fine with him?' Vika asks firmly beside the doctor, linking "doktor" ("Doctor"), "znachit" ("then, so"), and "poryadke" ("order") in one brisk exchange.
-- 'Yes, everything will be fine, he needs to lie down for a bit.' The doctor picks an easygoing approach without hesitation, anchoring the Russian line on "budet" ("will be") and "khorosho" ("good, fine") without extra filler.
-- 'He needs to lie down so the dizziness passes.' The doctor takes a firm position as the scene unfolds, linking "nado" ("it is necessary"), "polezhat" ("to lie for a while"), and "golovokruzheniye" ("dizziness") in one brisk exchange.
-- 'He has no fractures, which is actually amazing!' The doctor strikes an unhurried manner toward Vika, anchoring the Russian line on "perelomov" ("fractures, broken bones") and "udivitelno" ("amazing, surprising") without extra filler.
-- 'Do not jump from the third floor like that anymore!' The doctor shows a thoughtful course at once, building the phrase around "bolshe" ("more") and "tretyego" ("third") for a crisp, natural delivery.
-- 'Thank you very much for your help, doctor.' Vika sets a clear position without hesitation, pairing "bolshoye" ("big, very much") with "spasibo" ("thank you") to get the point across in plain spoken Russian.
-- 'Vika, forgive me that things turned out this way.' Max maintains a playful style with the doctor, linking "izvini" ("sorry, excuse me"), "poluchilos" ("worked out"), and "vika" ("Vika") in one brisk exchange.
-- 'It is nothing, I missed my meeting because of you.' Vika brings a direct note on the spot, putting "opozdala" ("to be late") alongside "vstrechu" ("meeting") in a tight, everyday turn of phrase.
-- 'Alright, friends, let's start rehearsing our plan!' Max brings a pointed attitude beside the doctor, combining "druzya" ("friends") and "nachinayem" ("are starting") so the key meaning lands right away.
-- 'In walks Dima's friend, Lyova, go!' Max projects an earnest tack in the scene, building the phrase around "vkhodit" ("to go in, to enter") and "drug" ("friend") for a crisp, natural delivery.
+- 'Tell me, how are you feeling right now?' The doctor presses quietly while looking straight at Max here.
+- 'Thank you, I feel quite alright.' Max favors one vivid expression on cue: "chuvstvuyu" means "feel" (from "chuvstvovat"), giving the line its exact edge.
+- 'Doctor, does that mean everything is fine with him?' Vika drops the remark without pause: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Yes, everything will be fine, he needs to lie down for a bit.' The doctor holds firm sharply without holding back, keeping the focus on what actually matters here.
+- 'He needs to lie down so the dizziness passes.' The doctor uses one telling touch in reply: "golovokruzheniye" means "dizziness", and it carries the main weight of what the doctor is saying.
+- 'He has no fractures, which is actually amazing!' The doctor gives the thought without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Do not jump from the third floor like that anymore!' The doctor steps in briskly on the spot, keeping the focus on what actually matters here.
+- 'Thank you very much for your help, doctor.' Vika picks one practical detail toward Max: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'Vika, forgive me that things turned out this way.' Max brings this statement right away: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'It is nothing, I missed my meeting because of you.' Vika continues candidly without holding back, making her position completely clear.
+- 'Alright, friends, let's start rehearsing our plan!' Max reaches for one colorful word with the doctor: "repetirovat" means "to rehearse", and it carries the main weight of what Max is saying.
+- 'In walks Dima's friend, Lyova, go!' Max jumps in calmly with a smile, shifting the whole mood of the room in a single beat.

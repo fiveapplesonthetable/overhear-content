@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She has already been through so much because of me.' Denis offers a lively course in the conversation, linking "mnogo" ("a lot"), "perezhila" ("to survive"), and "ona" ("it") in one brisk exchange.
-- 'I do not want to put pressure on her right now at all.' Denis keeps a frank note in this beat, weaving "sovsem" ("at all") together with "khochu" ("want") just the way native speakers do.
-- 'Thank you, Denis, I will never forget this.' Eleonora chooses an easygoing line on the spot, pairing "spasibo" ("thank you") with "nikogda" ("never") to get the point across in plain spoken Russian.
-- 'Where is our little Styopka, is he still in the house?' Denis checks sharply for Nagiyev's benefit, building the phrase around "gde" ("where") and "malenkiy" ("short, little") for a crisp, natural delivery.
-- 'Thank you so much, Dad, for saving our son!' Denis takes an honest position in the scene, building the phrase around "spasibo" ("thank you") and "ogromnoye" ("huge, so very much") for a crisp, natural delivery.
-- 'Elya, my girl, this is not what you thought!' Nagiyev shares a sharp position in the room, putting "devochka" ("girl") alongside "podumala" ("thought") in a tight, everyday turn of phrase.
-- 'There was actually such a funny story in there.' Nagiyev sustains a pointed view at this moment, pairing "tam" ("there") with "samom" ("very") to get the point across in plain spoken Russian.
-- 'Turn away, I do not want to listen to anything anymore!' Eleonora conveys a grounded footing beside Nagiyev, linking "otvernis" ("to turn away"), "khochu" ("want"), and "bolshe" ("more") in one brisk exchange.
-- 'Elya, why are we quarreling in front of everyone?' Nagiyev queries earnestly in their exchange, building the phrase around "zachem" ("what for") and "ssorimsya" ("to quarrel") for a crisp, natural delivery.
-- 'Everything is decided, tomorrow I am filing for divorce!' Eleonora shows a natural course without hesitation, weaving "resheno" ("decided, settled") together with "zavtra" ("tomorrow") just the way native speakers do.
-- 'Elya, word of honor, I love you very much!' Nagiyev keeps a resolute line as the scene unfolds, using "chestnoye" (from "chestnyy", "honest") alongside "slovo" ("word") to shape the meaning.
-- 'Go away and do not call me anymore!' Eleonora shows an honest approach in their talk, building the phrase around "ukhodi" ("go away") and "proch" ("off, away") for a crisp, natural delivery.
+- 'She has already been through so much because of me.' Denis grounds this direct piece in reply: "perezhila" means "to survive" (from "perezhit"), giving the line its exact edge.
+- 'I do not want to put pressure on her right now at all.' Denis aims this update around Nagiyev: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Thank you, Denis, I will never forget this.' Eleonora responds pointedly before Denis, to clear the air between them once and for all.
+- 'Where is our little Styopka, is he still in the house?' Denis anchors this vivid detail in reply: "malenkiy" means "short, little", and it carries the main weight of what Denis is saying.
+- 'Thank you so much, Dad, for saving our son!' Denis shares that line right away: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'Elya, my girl, this is not what you thought!' Nagiyev opens up steadily in their talk, testing Eleonora's reaction in the middle of the exchange.
+- 'There was actually such a funny story in there.' Nagiyev grounds one telling choice in earnest: "smeshnaya" means "funny, ridiculous" (from "smeshnoy"), giving the line its exact edge.
+- 'Turn away, I do not want to listen to anything anymore!' Eleonora puts that reply right away: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Elya, why are we quarreling in front of everyone?' Nagiyev asks openly where this conversation is heading next.
+- 'Everything is decided, tomorrow I am filing for divorce!' Eleonora points to this clear expression with Nagiyev: "razvod" means "divorce, separation", and it carries the main weight of what Eleonora is saying.
+- 'Elya, word of honor, I love you very much!' Nagiyev stresses one loaded word for Denis: "chestnoye" means "honest" (from "chestnyy"), giving the line its exact edge.
+- 'Go away and do not call me anymore!' Eleonora steps in sharply around Nagiyev, bringing things back to earth after the buildup.

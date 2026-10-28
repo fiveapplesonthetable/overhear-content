@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Listen, not a bad place. Was it tasty?' The guest queries steadily at this point, using "slushay" (from "slushat", "listen") alongside "neplokhoye" ("not bad, decent") to shape the meaning.
-- 'A good restaurant, and a good head chef.' Elena establishes an honest approach as the scene unfolds, weaving "khoroshiy" ("good") together with "restoran" ("restaurant") just the way native speakers do.
-- 'You bet it is.' Elena challenges bluntly from the start, building the phrase around "kak" ("how") and "to" ("that") for a crisp, natural delivery.
-- 'Viktor Barinov.' Elena sets a clear direction at once, anchoring the Russian line on "viktor" ("Viktor") and "barinov" ("Barinov") without extra filler.
-- 'Wait, is that not the Barinov you were seeing?' The guest asks firmly beside Barinov, putting "podozhdi" ("wait") alongside "tut" ("here") in a tight, everyday turn of phrase.
-- 'And the two of you are back together...' The guest conveys a natural style at once, weaving "snova" ("again") together with "vmeste" ("together") just the way native speakers do.
-- 'And is that not him by any chance?' The guest probes firmly in the room, combining "sluchayno" ("by any chance") and "eto" ("this") so the key meaning lands right away.
-- 'Let us get out of here.' Elena favors an earnest tempo as the scene unfolds, leaning on "poydem" ("let's go") before closing the thought with "otsyuda" ("from here").
-- 'Lena, it is just a joke.' Barinov shows a lively position at this moment, pairing "min" ("Lena") with "prosto" ("just") to get the point across in plain spoken Russian.
-- 'I lost at cards.' Barinov displays a wry view in their talk, pairing "karty" ("cards") with "proigral" ("lost") to get the point across in plain spoken Russian.
-- 'How familiar does that sound to me? Lost at cards.' Elena queries briskly in the room, leaning on "kak" ("how") before closing the thought with "znakomo" ("familiar").
-- 'You know, I almost believed that you had changed.' Elena presents a firm style in their talk, pairing "izmenilsya" ("have changed") with "znayesh" ("know") so the "-sya" ending carries the action.
+- 'Listen, not a bad place. Was it tasty?' The guest wonders eagerly while looking straight at Barinov here.
+- 'A good restaurant, and a good head chef.' Elena chooses one vivid expression in earnest: "shef-povar" means "head chef", and it carries the main weight of what Elena is saying.
+- 'You bet it is.' Elena frames the comment in earnest: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Viktor Barinov.' Elena answers firmly without any doubt, refusing to let the moment slip past.
+- 'Wait, is that not the Barinov you were seeing?' The guest chooses this sharp piece in earnest: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'And the two of you are back together...' The guest voices that answer frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'And is that not him by any chance?' The guest checks candidly before Barinov can change the subject.
+- 'Let us get out of here.' Elena stresses one colorful detail for the guest: "otsyuda" means "from here", and it carries the main weight of what Elena is saying.
+- 'Lena, it is just a joke.' Barinov makes the thought on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'I lost at cards.' Barinov pushes back calmly with a smile, refusing to let the moment slip past.
+- 'How familiar does that sound to me? Lost at cards.' Elena sharpens one direct expression at once: "znakomo" means "familiar" (from "znakomyy"), giving the line its exact edge.
+- 'You know, I almost believed that you had changed.' Elena makes the comeback toward the guest: the "-sya" ending on "izmenilsya" ("have changed") turns the action inward or makes it happen between people naturally.

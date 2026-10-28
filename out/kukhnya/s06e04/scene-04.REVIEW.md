@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You will have a female helper very soon.' Barinov projects a resolute posture as they talk, linking "budet" ("will be"), "pomoshchnitsa" ("female helper"), and "ochen" ("very much") in one brisk exchange.
-- 'Mom, well this is simply ridiculous.' Katya adopts an emphatic approach right away, building the phrase around "mama" ("mum, mother") and "prosto" ("just") for a crisp, natural delivery.
-- 'How could Olivier possibly be an inspector?' Katya presses plainly at this point, putting "inspektor" ("inspector") alongside "nu" ("oh, come on") in a tight, everyday turn of phrase.
-- 'That guy threw eggs in class.' Katya offers a sharp posture across the room, linking "chelovek" ("a man, a person"), "kidalsya" ("threw"), and "yaytsami" ("with eggs") in one brisk exchange.
-- 'So what, I also did all kinds of nonsense.' Barinov maintains a serious direction toward Eleonora, anchoring the Russian line on "tozhe" ("too") and "zanimalsya" ("practiced") without extra filler.
-- 'Yes, and you still continue to this day.' Eleonora maintains an earnest bearing for Katya, pairing "prodolzhayesh" ("continue") with "por" ("time") to get the point across in plain spoken Russian.
-- 'Dad, I am very glad that you two found something that unites you.' Katya offers a sharp note during the exchange, weaving "papa" ("Dad") together with "ochen" ("very much") just the way native speakers do.
-- 'Understand that a star is at stake!' Barinov projects a steady direction for Katya, linking "poymi" ("understand"), "konu" ("stake, pot"), and "zvezda" ("a star") in one brisk exchange.
-- 'What if it is him, just be on guard.' Barinov sustains a firm tack as the scene unfolds, joining "vdrug" ("suddenly, what if") to "prosto" ("just") so every word pulls its weight.
-- 'Or maybe you will see his notes in the room.' Eleonora maintains a calm note in front of Katya, putting "zapisi" ("recordings") alongside "uvidish" ("see") in a tight, everyday turn of phrase.
-- 'Dad, maybe I should search his room too?' Katya quizzes directly beside Barinov, linking "papa" ("Dad"), "mozhet" ("can"), and "yeshche" ("still") in one brisk exchange.
-- 'Just talk with him in a friendly way.' Barinov sets a wry mood during the exchange, anchoring the Russian line on "prosto" ("just") and "pogovori" ("talk") without extra filler.
+- 'You will have a female helper very soon.' Barinov stresses one familiar term with Eleonora: "pomoshchnitsa" means "female helper", and it carries the main weight of what Barinov is saying.
+- 'Mom, well this is simply ridiculous.' Katya drops the comeback on cue: the little word "prosto" ("simply, just") works like a shrug in the sentence, making a big claim sound effortless.
+- 'How could Olivier possibly be an inspector?' Cutting in right here, Katya says plainly what is on her mind.
+- 'That guy threw eggs in class.' Katya frames this telling element for Eleonora: "yaytsami" means "with eggs" (from "yaytso"), giving the line its exact edge.
+- 'So what, I also did all kinds of nonsense.' Barinov frames the thought without fuss: the "-sya" ending on "zanimalsya" ("practiced") turns the action inward or makes it happen between people naturally.
+- 'Yes, and you still continue to this day.' Eleonora chimes in promptly with a nod, before Katya can change the subject.
+- 'Dad, I am very glad that you two found something that unites you.' Katya picks this sharp term in reply: "obyedinyayet" means "unites" (from "obyedinyat"), giving the line its exact edge.
+- 'Understand that a star is at stake!' Barinov leans on one clear choice toward Katya: "zvezda" means "a star", and it carries the main weight of what Barinov is saying.
+- 'What if it is him, just be on guard.' Barinov stands firm firmly without any doubt, to clear the air between them once and for all.
+- 'Or maybe you will see his notes in the room.' Eleonora colors one direct detail in earnest: "zapisi" means "recordings" (from "zapis"), giving the line its exact edge.
+- 'Dad, maybe I should search his room too?' Katya offers this warning before Barinov: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Just talk with him in a friendly way.' Barinov answers lightly to settle things, refusing to let the moment slip past.

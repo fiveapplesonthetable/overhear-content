@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What do you want?' The guest asks honestly to Nagiyev here, combining "nado" ("it is necessary") and "chto" ("what") so the key meaning lands right away.
-- 'Hello, my name is Dmitry.' Nagiyev establishes a wry posture right away, building the phrase around "zdravstvuyte" ("hello") and "zovut" ("call") for a crisp, natural delivery.
-- 'Well, you look familiar to me.' The guest favors a lively view for Nagiyev, using "znakom" (from "znakomyy", "familiar, known") alongside "tak" ("so") to shape the meaning.
-- 'Wait, are you that warrant officer?' The guest wonders evenly from the start, building the phrase around "praporshchik" ("warrant officer") and "eto" ("this") for a crisp, natural delivery.
-- 'Well done, you recognized me.' Nagiyev sustains an easygoing course in the scene, leaning on "molodets" ("well done, good boy") before closing the thought with "uznal" ("recognised").
-- 'I am offering you peace.' Nagiyev sets a sharp tone for the guest, linking "mir" ("world"), "predlagayu" ("suggest"), and "ya" ("I") in one brisk exchange.
-- 'What kind of peace for you?' The guest asks calmly without holding back, pairing "yeshchyo" ("more, still") with "mir" ("world") to get the point across in plain spoken Russian.
-- 'You disgraced all Russian warrant officers!' The guest maintains an earnest view in the conversation, putting "russkikh" ("Russian") alongside "praporshchikov" ("warrant officers") in a tight, everyday turn of phrase.
-- 'You disgraced the entire Russian army!' The guest conveys a thoughtful angle on the spot, joining "russkuyu" ("Russian") to "armiyu" ("army") so every word pulls its weight.
-- 'I truly came to you in peace.' Nagiyev projects a pointed note at once, joining "pravda" ("honestly") to "mirom" ("peace") so every word pulls its weight.
-- 'I just wanted to offer you some money.' Nagiyev favors a serious approach beside the guest, leaning on "prosto" ("just") before closing the thought with "khotel" ("wanted").
-- 'You decided to offer me money?' The guest queries plainly toward Nagiyev here, building the phrase around "deneg" ("money") and "reshil" ("has decided") for a crisp, natural delivery.
+- 'What do you want?' The guest prompts straight out to see how Nagiyev will answer on the spot.
+- 'Hello, my name is Dmitry.' Nagiyev leans on one telling word in reply: "zdravstvuyte" means "hello", and it carries the main weight of what Nagiyev is saying.
+- 'Well, you look familiar to me.' The guest sends the reply with ease: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Wait, are you that warrant officer?' The guest questions evenly in front of Nagiyev without any preamble.
+- 'Well done, you recognized me.' Nagiyev centers this direct element toward the guest: "molodets" means "well done, good boy", and it carries the main weight of what Nagiyev is saying.
+- 'I am offering you peace.' Nagiyev directs this update frankly here: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'What kind of peace for you?' The guest inquires frankly about what Nagiyev just brought up.
+- 'You disgraced all Russian warrant officers!' The guest highlights this telling expression at once: "praporshchikov" means "warrant officers" (from "praporshchik"), giving the line its exact edge.
+- 'You disgraced the entire Russian army!' The guest sharpens one clear detail right here: "russkuyu" means "Russian" (from "russkiy"), giving the line its exact edge.
+- 'I truly came to you in peace.' Nagiyev jumps in plainly hearing the guest, testing the guest's reaction in the middle of the exchange.
+- 'I just wanted to offer you some money.' Nagiyev sharpens one vivid detail for the guest: "predlozhit" means "to offer", and it carries the main weight of what Nagiyev is saying.
+- 'You decided to offer me money?' The guest states the comment for Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.

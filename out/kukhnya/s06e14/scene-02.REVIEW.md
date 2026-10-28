@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Forgive me, please, for yesterday evening.' Nikita adopts a steady note in the room, pairing "prosti" ("sorry, forgive me") with "vcherashniy" ("yesterday's") to get the point across in plain spoken Russian.
-- 'I usually never cry like that.' Nikita shows an honest angle in front of Mikhail, linking "obychno" ("usually"), "nikogda" ("never"), and "plachu" ("pay") in one brisk exchange.
-- 'Have you never been on the roof?' Nikita inquires warmly as the beat lands, linking "nikogda" ("never"), "byla" ("was"), and "kryshe" ("roof") in one brisk exchange.
-- 'Let us launch a beautiful wedding fireworks display from there.' Nikita chooses a clear view with Mikhail, joining "davay" ("let's") to "zapustim" ("will launch") so every word pulls its weight.
-- 'Get out of here right now!' Barinov sustains a natural line in the conversation, linking "bystro" ("quickly"), "poshyol" ("went, set off"), and "otsyuda" ("from here") in one brisk exchange.
-- 'Wait, this is our guest from Korea.' Mikhail keeps an unhurried style toward Nikita, joining "podozhdi" ("wait") to "gost" ("guest") so every word pulls its weight.
-- 'Do you see that I am busy right now?' Barinov inquires calmly right away, pairing "seychas" ("now") with "vidite" ("see") so the "-sya" ending carries the action.
-- 'I have a request for you.' Mikhail establishes a playful style right away, linking "yest" ("there is"), "prosba" ("a request"), and "menya" ("me") in one brisk exchange.
-- 'Could you please cook this beef?' Mikhail challenges honestly beside Barinov, pairing "mogli" ("could") with "prigotovit" ("to cook, to prepare") to get the point across in plain spoken Russian.
-- 'We cook only from our menu.' Barinov favors a steady rhythm in front of Nikita, weaving "gotovim" ("are preparing") together with "tolko" ("only") just the way native speakers do.
-- 'And we cook only from our own ingredients.' Barinov takes a brisk posture on the spot, building the phrase around "gotovim" ("are preparing") and "tolko" ("only") for a crisp, natural delivery.
-- 'I understand everything, but the guest will pay.' Mikhail conveys a lively tack for Nikita, using "ponimayu" (from "ponimat", "understand") alongside "gost" ("guest") to shape the meaning.
+- 'Forgive me, please, for yesterday evening.' Nikita voices that answer with candor: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I usually never cry like that.' Nikita steps in quietly with a nod, watching Mikhail's face to see how the news lands.
+- 'Have you never been on the roof?' Nikita frames one classic element in earnest: "kryshe" means "roof" (from "krysha"), giving the line its exact edge.
+- 'Let us launch a beautiful wedding fireworks display from there.' Nikita brings this warning for Mikhail: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Get out of here right now!' Barinov stands firm steadily to be clear, testing Mikhail's reaction in the middle of the exchange.
+- 'Wait, this is our guest from Korea.' Mikhail underscores one sharp touch for Nikita: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Do you see that I am busy right now?' Barinov makes that reply before Mikhail: putting the question word "chto" right at the front of the line lets Mikhail hear the point of the question on the very first beat.
+- 'I have a request for you.' Mikhail cuts in frankly without any doubt, bringing things back to earth after the buildup.
+- 'Could you please cook this beef?' Mikhail spotlights one familiar piece toward Barinov: "govyadinu" means "beef" (from "govyadina"), giving the line its exact edge.
+- 'We cook only from our menu.' Barinov speaks up dryly on the spot, watching Nikita's face to see how the news lands.
+- 'And we cook only from our own ingredients.' Barinov speaks bluntly to be clear, so Mikhail knows he is not just making small talk.
+- 'I understand everything, but the guest will pay.' Mikhail leans on one colorful choice toward Nikita: "ponimayu" means "understand" (from "ponimat"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, young man, and who are you anyway?' Eleonora quizzes steadily toward Barinov here, weaving "zdravstvuyte" ("hello") together with "molodoy" ("young") just the way native speakers do.
-- 'I am Maxim Lavrov, a cook in your restaurant.' Max displays a brisk posture as the scene unfolds, pairing "povar" ("chef, cook") with "restorane" ("restaurant") to get the point across in plain spoken Russian.
-- 'And where is Katya right now? Probably in the kitchen?' Eleonora presses decisively in this moment, pairing "seychas" ("now") with "gde" ("where") so the "-sya" ending carries the action.
-- 'Yes, she is downstairs, should I pass anything on to her?' Max presses lightly in the room, building the phrase around "vnizu" ("downstairs") and "nuzhno" ("necessary") for a crisp, natural delivery.
-- 'No, there is no need to pass anything on to her right now.' Eleonora brings a clear attitude without hesitation, weaving "peredavat" ("pass on, send") together with "seychas" ("now") just the way native speakers do.
-- 'Then I will go back downstairs to work.' Max projects a candid stance at this moment, building the phrase around "togda" ("back then") and "poydu" ("go") for a crisp, natural delivery.
-- 'Chef, there are simply no more tickets for this match!' Eleonora displays a candid tone for Barinov, putting "bolshe" ("more") alongside "biletov" ("ticket") in a tight, everyday turn of phrase.
-- 'Timur, please get me at least one ticket!' Max favors a firm view beside Eleonora, weaving "dostan" ("to take out") together with "bilet" ("ticket") just the way native speakers do.
-- 'Would you like me to get you a rare fish instead?' Barinov questions earnestly right away, leaning on "khochesh" ("do you want") before closing the thought with "luchshe" ("better").
-- 'Even getting a giant beast is much easier right now!' Barinov conveys a clear footing as the scene unfolds, putting "ogromnogo" ("huge, vast") alongside "zverya" ("animal, beast") in a tight, everyday turn of phrase.
-- 'What do I need fish for when today is the main derby?' Max tests candidly toward Barinov here, building the phrase around "zachem" ("what for") and "ryba" ("fish") for a crisp, natural delivery.
-- 'Sorry, my friend, here I am powerless to help.' Barinov takes a natural rhythm at this moment, weaving "prosti" ("sorry, forgive me") together with "dorogoy" ("dear") just the way native speakers do.
+- 'Hello, young man, and who are you anyway?' Eleonora hands over the comeback frankly here: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'I am Maxim Lavrov, a cook in your restaurant.' Max pushes back at once around Eleonora, grounding the moment in plain reality.
+- 'And where is Katya right now? Probably in the kitchen?' Eleonora grounds one classic element in reply: "navernoye" means "probably", and it carries the main weight of what Eleonora is saying.
+- 'Yes, she is downstairs, should I pass anything on to her?' Max phrases that point plainly here: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'No, there is no need to pass anything on to her right now.' Eleonora continues warmly beside Barinov, shifting the whole mood of the room in a single beat.
+- 'Then I will go back downstairs to work.' Max underscores this sharp detail in earnest: "rabotu" means "job" (from "rabota"), giving the line its exact edge.
+- 'Chef, there are simply no more tickets for this match!' Eleonora delivers that remark with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Timur, please get me at least one ticket!' Max speaks up at once in this moment, bringing things back to earth after the buildup.
+- 'Would you like me to get you a rare fish instead?' Barinov points to one memorable choice for Eleonora: "redkuyu" means "rare, scarce" (from "redkiy"), giving the line its exact edge.
+- 'Even getting a giant beast is much easier right now!' Barinov fires back wryly with a nod, making his position completely clear.
+- 'What do I need fish for when today is the main derby?' Max questions deadpan while looking straight at Barinov here.
+- 'Sorry, my friend, here I am powerless to help.' Barinov points to one pointed term in earnest: "bessilen" means "powerless" (from "bessilnyy"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In my opinion, not bad. It fits great!' Barinov strikes a frank line toward Ainura, linking "po-moyemu" ("in my opinion"), "neplokho" ("not bad"), and "otlichno" ("perfect, great") in one brisk exchange.
-- 'Thank you, Solomon Ivanovich. Now everything is allowed!' Barinov shares a serious mood in the conversation, pairing "spasibo" ("thank you") with "teper" ("now") to get the point across in plain spoken Russian.
-- 'Good news. Gulya agrees.' Ainura displays a frank style without hesitation, leaning on "khoroshaya" ("good") before closing the thought with "novost" ("the news").
-- 'But there is also bad news.' Ainura strikes a direct tone in front of Max, building the phrase around "yest" ("there is") and "plokhaya" ("bad") for a crisp, natural delivery.
-- 'You will have to wait a whole week.' Ainura projects a pointed style at this moment, weaving "pridyotsya" ("you'll have to") together with "zhdat" ("to wait") just the way native speakers do.
-- 'Only she asked not to tell anyone.' Ainura sustains a warm footing without hesitation, leaning on "tolko" ("only") before closing the thought with "prosila" ("asked").
-- 'Ainura is very strict, she might forbid it.' Barinov presents a firm footing beside Ainura, weaving "ochen" ("very much") together with "strogaya" ("strict, stern") just the way native speakers do.
-- 'You look like Iosif Prigozhin.' Max conveys an earnest tack in the conversation, using "pokhozhi" (from "pokhozhiy", "similar, look like") alongside "vy" ("you") to shape the meaning.
-- 'Unfortunately, I am him.' Barinov shows a wry approach as they talk, building the phrase around "sozhaleniyu" ("regret") and "yest" ("there is") for a crisp, natural delivery.
-- 'Iosif Prigozhin hit me!' Max shares a direct tack on the spot, anchoring the Russian line on "sbil" ("knock down") and "menya" ("me") without extra filler.
-- 'If possible, let this stay between us.' Barinov brings an emphatic bearing straight away, combining "mozhno" ("may, can") and "ostanetsya" ("will remain") so the key meaning lands right away.
-- 'Damn, Vika!' Max projects an unhurried attitude as they talk, joining "chyort" ("darn, heck") to "vika" ("Vika") so every word pulls its weight.
+- 'In my opinion, not bad. It fits great!' Barinov replies wryly beside Ainura, grounding the moment in plain reality.
+- 'Thank you, Solomon Ivanovich. Now everything is allowed!' Barinov features this key word toward Max: "spasibo" means "thank you", and it carries the main weight of what Barinov is saying.
+- 'Good news. Gulya agrees.' Ainura frames the reaction with warmth: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'But there is also bad news.' Ainura replies steadily facing Max, shifting the whole mood of the room in a single beat.
+- 'You will have to wait a whole week.' Ainura stresses one pointed element at once: "pridyotsya" means "you'll have to" (from "priytis"), giving the line its exact edge.
+- 'Only she asked not to tell anyone.' Ainura stands firm promptly in this moment, saying out loud what both of them already know.
+- 'Ainura is very strict, she might forbid it.' Barinov follows up lightly watching Ainura, refusing to let the moment slip past.
+- 'You look like Iosif Prigozhin.' Max stresses this key element right here: "pokhozhi" means "similar, look like" (from "pokhozhiy"), giving the line its exact edge.
+- 'Unfortunately, I am him.' Barinov steps in evenly as things stand, so Ainura knows he is not just making small talk.
+- 'Iosif Prigozhin hit me!' Max opens up sharply with a shrug, watching Barinov's face to see how the news lands.
+- 'If possible, let this stay between us.' Barinov reaches for one memorable choice right here: "ostanetsya" means "will remain" (from "ostatsya"), giving the line its exact edge.
+- 'Damn, Vika!' Max hands over that point at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ainura, may I stay overnight at your place again tonight?' Denis probes boldly without a pause, joining "mozhno" ("may, can") to "segodnya" ("today") so every word pulls its weight.
-- 'I already found the money, but not an apartment yet.' Denis chooses a resolute tempo at this moment, linking "dengi" ("money"), "uzhe" ("already, now"), and "nashyol" ("found") in one brisk exchange.
-- 'Of course you may, you are almost like a relative.' Katya keeps a playful note toward Denis, combining "konechno" ("of course") and "mozhno" ("may, can") so the key meaning lands right away.
-- 'Hello everyone, well where is our dear birthday boy?' Katya prompts briskly without hesitation, anchoring the Russian line on "gde" ("where") and "dorogoy" ("dear") without extra filler.
-- 'Senya, with all our heart we wish you a happy birthday!' Katya picks a direct manner in front of Denis, pairing "dushi" ("soul, heart") with "pozdravlyayem" ("we congratulate") to get the point across in plain spoken Russian.
-- 'Thank you, of course, but giving flowers to men is strange.' Senya holds a thoughtful view as they talk, leaning on "spasibo" ("thank you") before closing the thought with "konechno" ("of course").
-- 'Happy birthday, I will definitely be there this evening.' Denis holds an emphatic rhythm across the room, weaving "dnyom" ("day") together with "rozhdeniya" ("of birth") just the way native speakers do.
-- 'More precisely, this evening we will come together with Sveta.' Denis adopts a measured direction with Senya, combining "tochneye" ("definitely") and "segodnya" ("today") so the key meaning lands right away.
-- 'My mom used to tell me to go study to be a musician!' Senya brings a firm posture in the room, combining "govorila" ("said") and "mama" ("mum, mother") so the key meaning lands right away.
-- 'Senya, and Nikita and I will also come tonight.' Katya displays an emphatic tempo across the room, building the phrase around "vecherom" ("in the evening") and "tozhe" ("too") for a crisp, natural delivery.
-- 'Yes, with Nikita Andreevich, the new restaurant director.' Katya picks an emphatic rhythm on the spot, pairing "novym" ("new") with "direktorom" ("director, head teacher") to get the point across in plain spoken Russian.
-- 'Guys, then the status of our event rises sharply!' Senya sustains a steady mood during the exchange, joining "rebyata" ("the boys, the lads") to "togda" ("back then") so every word pulls its weight.
+- 'Ainura, may I stay overnight at your place again tonight?' Denis voices that remark with warmth: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'I already found the money, but not an apartment yet.' Denis responds decisively beside Senya, keeping the focus on what actually matters here.
+- 'Of course you may, you are almost like a relative.' Katya stresses one direct piece in reply: "rodstvennik" means "relative", and it carries the main weight of what Katya is saying.
+- 'Hello everyone, well where is our dear birthday boy?' Katya puts this line before Senya: opening with the casual greeting "privet" ("hi") signals right away that Katya and Senya are on familiar terms.
+- 'Senya, with all our heart we wish you a happy birthday!' Katya holds firm wryly beside Denis, leaving no doubt about where she stands.
+- 'Thank you, of course, but giving flowers to men is strange.' Senya uses one concrete piece for Katya: "muzhchinam" means "men" (from "muzhchina"), giving the line its exact edge.
+- 'Happy birthday, I will definitely be there this evening.' Denis proceeds at once during the talk, letting the remark speak for itself.
+- 'More precisely, this evening we will come together with Sveta.' Denis reacts quietly before Senya, bringing things back to earth after the buildup.
+- 'My mom used to tell me to go study to be a musician!' Senya centers this telling touch for Denis: "muzykanty" means "musician" (from "muzykant"), giving the line its exact edge.
+- 'Senya, and Nikita and I will also come tonight.' Katya pushes back boldly without any doubt, letting the remark speak for itself.
+- 'Yes, with Nikita Andreevich, the new restaurant director.' Katya holds firm honestly without a pause, making her position completely clear.
+- 'Guys, then the status of our event rises sharply!' Senya grounds one loaded choice in earnest: "meropriyatiya" means "events", and it carries the main weight of what Senya is saying.

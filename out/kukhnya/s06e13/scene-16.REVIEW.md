@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Look, I have two pairs right now.' Mikhail picks a warm line in front of Barinov, using the everyday "u menya" ("by me") alongside "smotrite" ("look") to show what belongs to the speaker.
-- 'What a great intrigue we have here.' The guest adopts a frank tone as they talk, using "otlichnaya" (from "otlichnyy", "excellent") alongside "intriga" ("intrigue, suspense") to shape the meaning.
-- 'I also have a strong full combination.' The guest sustains a pointed mood at once, pairing "tozhe" ("too") with "silnaya" ("strong") to get the point across in plain spoken Russian.
-- 'Go and open your safe quickly.' The guest shows a frank position toward Mikhail, building the phrase around "idite" ("come") and "otkryvayte" ("open") for a crisp, natural delivery.
-- 'I beg your pardon very much.' Barinov displays a lively tack toward the guest, leaning on "ochen" ("very much") before closing the thought with "proshu" ("beg, ask").
-- 'I miscalculated my strength a little.' Barinov chooses a direct mood during the exchange, joining "nemnogo" ("a bit") to "rasschital" ("calculated") so every word pulls its weight.
-- 'I do not have that kind of big money.' Barinov holds an emphatic attitude with the guest, anchoring the Russian line on "bolshikh" ("big") and "deneg" ("money") without extra filler.
-- 'Will you give me a small extension today?' Barinov quizzes warmly in this moment, weaving "dadite" ("will give") together with "nebolshuyu" ("small, modest") just the way native speakers do.
-- 'Do you take me for a fool here?' The guest inquires bluntly right away, leaning on "tut" ("here") before closing the thought with "gluptsa" ("fool").
-- 'Did you decide to cheat me so easily?' The guest asks wryly as the beat lands, combining "reshili" ("decided") and "prosto" ("just") so the key meaning lands right away.
-- 'If there is no money tonight.' The guest shares a lively position in the scene, putting "segodnya" ("today") alongside "vecherom" ("in the evening") in a tight, everyday turn of phrase.
-- 'You will owe me a lot more.' The guest holds a resolute stance at this moment, anchoring the Russian line on "yeshchyo" ("more, still") and "mnogo" ("a lot") without extra filler.
+- 'Look, I have two pairs right now.' Mikhail emphasizes this sharp word on cue: "smotrite" means "look" (from "smotret"), giving the line its exact edge.
+- 'What a great intrigue we have here.' The guest sends this update briskly now: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'I also have a strong full combination.' The guest stands firm sharply in this moment, letting the remark speak for itself.
+- 'Go and open your safe quickly.' The guest centers one key term with Mikhail: "otkryvayte" means "open" (from "otkryvat"), giving the line its exact edge.
+- 'I beg your pardon very much.' Barinov phrases that answer right away: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'I miscalculated my strength a little.' Barinov responds lightly to be clear, testing Mikhail's reaction in the middle of the exchange.
+- 'I do not have that kind of big money.' Barinov uses one sharp piece in reply: "bolshikh" means "big" (from "bolshoy"), giving the line its exact edge.
+- 'Will you give me a small extension today?' Barinov hands over that line before Mikhail: Russian keeps the exact word order of a normal statement here, turning it into a question for Mikhail purely through rising pitch at the end.
+- 'Do you take me for a fool here?' The guest challenges openly as Barinov tries to explain the situation.
+- 'Did you decide to cheat me so easily?' The guest grounds one direct element with Mikhail: "reshili" means "decided" (from "reshit"), giving the line its exact edge.
+- 'If there is no money tonight.' The guest opens up openly in this moment, refusing to let the moment slip past.
+- 'You will owe me a lot more.' The guest proceeds briskly without a pause, shifting the whole mood of the room in a single beat.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Bon appetit, enjoy your meal.' Barinov presents a measured tone for Elena, weaving "priyatnogo" ("pleasant") together with "appetita" ("appetite") just the way native speakers do.
-- 'Stop. This will not do at all.' Elena displays a calm mood across the room, pairing "goditsya" ("suits, works") with "nikuda" ("nowhere, anywhere") so the "-sya" ending carries the action.
-- 'Do not take offense.' Elena maintains a grounded bearing in the conversation, anchoring the Russian line on "obizhaytes" ("to take offence") and "ne" ("not") without extra filler.
-- 'I am sure all of this is very tasty.' Elena holds an emphatic tempo during the exchange, linking "navernyaka" ("surely, definitely") directly with "ochen" ("very much"), since Russian drops "is" and "are" in the present.
-- 'But on screen it looks pale.' Elena holds a clear manner without hesitation, linking "ekrane" ("screen"), "vyglyadit" ("looks"), and "bleklo" ("pale") in one brisk exchange.
-- 'After all, this is television.' Elena offers a firm angle at once, linking "televideniye" ("television"), "nas" ("us"), and "vsyo-taki" ("after all") in one brisk exchange.
-- 'It has to look truly spectacular, understand?' Elena challenges firmly in the room, pairing "dolzhno" ("ought, must") with "byt" ("be") to get the point across in plain spoken Russian.
-- 'We need a food stylist.' Elena conveys a direct approach in the conversation, building the phrase around "nuzhen" ("is needed") and "fud-stilist" ("stylist") for a crisp, natural delivery.
-- 'Who is that?' Barinov tests lightly during the talk, leaning on "kto" ("who") as a compact, one-word response that needs no extra words.
-- 'A person who makes food look pretty.' Elena displays a firm course with Barinov, building the phrase around "chelovek" ("a man, a person") and "delayet" ("does") for a crisp, natural delivery.
-- 'Now that looks great.' Elena presents a pointed rhythm during the exchange, putting "teper" ("now") alongside "otlichno" ("perfect, great") in a tight, everyday turn of phrase.
-- 'We can start filming now.' Elena picks a calm rhythm in the conversation, anchoring the Russian line on "mozhem" ("can") and "snimat" ("to film") without extra filler.
+- 'Bon appetit, enjoy your meal.' Barinov follows up wryly watching Elena, before Elena can change the subject.
+- 'Stop. This will not do at all.' Elena spotlights one concrete piece at once: "goditsya" means "suits, works", and it carries the main weight of what Elena is saying.
+- 'Do not take offense.' Elena hands over this point around Barinov: the "-sya" ending on "obizhaytes" ("to take offence") turns the action inward or makes it happen between people naturally.
+- 'I am sure all of this is very tasty.' Elena proceeds firmly with a nod, saying out loud what both of them already know.
+- 'But on screen it looks pale.' Elena frames this direct element on cue: "vyglyadit" means "looks" (from "vyglyadet"), giving the line its exact edge.
+- 'After all, this is television.' Elena shapes the reply facing Barinov: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'It has to look truly spectacular, understand?' Elena wonders eagerly whether Barinov really thought this through.
+- 'We need a food stylist.' Elena highlights one colorful element right here: "fud-stilist" means "stylist", and it carries the main weight of what Elena is saying.
+- 'Who is that?' Barinov shares this update briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'A person who makes food look pretty.' Elena pushes back firmly with a sigh, bringing things back to earth after the buildup.
+- 'Now that looks great.' Elena anchors one practical detail in reply: "otlichno" means "perfect, great", and it carries the main weight of what Elena is saying.
+- 'We can start filming now.' Elena aims the comment calmly now: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.

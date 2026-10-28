@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Viktoriya Sergeyevna, come in, please.' German favors a frank attitude during the exchange, linking "prokhodite" ("come in"), "viktoriya" ("Victoria"), and "sergeyevna" ("Sergeyevna") in one brisk exchange.
-- 'I wanted to thank you once again.' Vika chooses a playful tempo toward German, pairing "khotela" ("wanted, meant") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
-- 'I want to say a big thank you to you.' Vika picks a thoughtful view in their talk, pairing "khochu" ("want") with "skazat" ("tell") to get the point across in plain spoken Russian.
-- 'You saved me from being fired.' Vika projects a pointed posture for German, weaving "spasli" ("to save, to rescue") together with "uvolneniya" ("dismissal, resignation") just the way native speakers do.
-- 'I do not know how to thank you.' Vika holds a resolute attitude in front of German, linking "znayu" ("know"), "kak" ("how"), and "blagodarit" ("to thank") in one brisk exchange.
-- 'Perhaps you will try this dessert?' German queries warmly to Vika here, leaning on "mozhet" ("can") before closing the thought with "byt" ("be").
-- 'Did you prepare it yourself just now?' Vika tests briskly in the scene, anchoring the Russian line on "seychas" ("now") and "prigotovili" ("cooked, prepared") without extra filler.
-- 'There is no need for any special gratitude.' German favors a clear angle at this moment, weaving "nuzhno" ("necessary") together with "osoboy" ("special, particular") just the way native speakers do.
-- 'After all, you and I are friends.' German keeps a calm bearing at this moment, using "druzya" (from "drug", "friends") alongside "my" ("we") to shape the meaning.
-- 'Well, at least in the future.' German sets a brisk view on the spot, anchoring the Russian line on "perspektive" ("prospect, future") and "nu" ("oh, come on") without extra filler.
-- 'I wish you bon appetit.' German conveys a playful tack at this moment, weaving "zhelayu" ("I wish") together with "priyatnogo" ("pleasant") just the way native speakers do.
-- 'This looks simply delicious.' Vika brings an earnest manner beside German, using "vyglyadit" (from "vyglyadet", "looks") alongside "prosto" ("just") to shape the meaning.
+- 'Viktoriya Sergeyevna, come in, please.' German puts the reaction without pause: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'I wanted to thank you once again.' Vika responds honestly in their talk, watching German's face to see how the news lands.
+- 'I want to say a big thank you to you.' Vika anchors this vivid element at once: "bolshoye" means "big, very much" (from "bolshoy"), giving the line its exact edge.
+- 'You saved me from being fired.' Vika underscores this clear touch with German: "uvolneniya" means "dismissal, resignation" (from "uvolneniye"), giving the line its exact edge.
+- 'I do not know how to thank you.' Vika proceeds pointedly to be clear, shifting the whole mood of the room in a single beat.
+- 'Perhaps you will try this dessert?' German centers one colorful word on cue: "poprobuyete" means "to try, to taste" (from "poprobovat"), giving the line its exact edge.
+- 'Did you prepare it yourself just now?' Vika shares that reply plainly here: Russian keeps the exact word order of a normal statement here, turning it into a question for German purely through rising pitch at the end.
+- 'There is no need for any special gratitude.' German speaks up pointedly with Vika, to clear the air between them once and for all.
+- 'After all, you and I are friends.' German sharpens one practical element in earnest: "druzya" means "friends" (from "drug"), giving the line its exact edge.
+- 'Well, at least in the future.' German answers right away with Vika, to clear the air between them once and for all.
+- 'I wish you bon appetit.' German fires back pointedly facing Vika, to clear the air between them once and for all.
+- 'This looks simply delicious.' Vika chooses one telling piece at once: "vyglyadit" means "looks" (from "vyglyadet"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'On the way we almost forgot our son at home.' Kostya adopts a grounded footing with the guest, putting "doroge" ("road") alongside "chut" ("almost, nearly") in a tight, everyday turn of phrase.
-- 'Kostya, stop it, that is not funny at all.' Nastya offers a brisk approach toward Kostya, weaving "perestan" ("stop") together with "sovsem" ("at all") just the way native speakers do.
-- 'Welcome upon your arrival, my dear children!' The guest maintains a lively footing during the exchange, pairing "priyezdom" ("arrival") with "dorogiye" ("dear") to get the point across in plain spoken Russian.
-- 'Thank you, and what is this man doing here?' Kostya presses promptly in their exchange, building the phrase around "spasibo" ("thank you") and "chelovek" ("a man, a person") for a crisp, natural delivery.
-- 'Kostik, do not be angry, he had nowhere else to go.' Nastya keeps a calm note straight away, joining "zlis" ("be angry") to "nekuda" ("nowhere") so every word pulls its weight.
-- 'Do not lose your temper in my house.' The guest brings an emphatic style at once, leaning on "dome" ("house") before closing the thought with "davay" ("let's").
-- 'After all, he is still your own father.' The guest adopts a thoughtful position right away, anchoring the Russian line on "rodnoy" ("dear friend") and "otets" ("father") without extra filler.
-- 'And to me, therefore, a close relative.' The guest brings a grounded position in this beat, leaning on "stalo" ("became, came over") before closing the thought with "byt" ("be").
-- 'So let us go into the house calmly.' The guest picks a thoughtful line with Kostya, combining "davay" ("let's") and "spokoyno" ("calmly") so the key meaning lands right away.
-- 'We will spend time in a close family circle.' The guest chooses a lively angle in the room, putting "provedyom" ("will spend") alongside "vremya" ("time") in a tight, everyday turn of phrase.
-- 'Just look, everyone around here is red-headed!' The guest strikes a warm direction in the scene, pairing "tolko" ("only") with "posmotri" ("look") to get the point across in plain spoken Russian.
-- 'And what did I do to deserve such punishment?' Kostya wonders earnestly as they speak, anchoring the Russian line on "nakazaniye" ("punishment") and "za" ("for") without extra filler.
+- 'On the way we almost forgot our son at home.' Kostya reacts plainly in their talk, keeping the focus on what actually matters here.
+- 'Kostya, stop it, that is not funny at all.' Nastya points to this sharp expression in earnest: "perestan" means "stop" (from "perestat"), giving the line its exact edge.
+- 'Welcome upon your arrival, my dear children!' The guest spotlights this clear detail on cue: "priyezdom" means "arrival" (from "priyezd"), giving the line its exact edge.
+- 'Thank you, and what is this man doing here?' Kostya inquires evenly whether Nastya really thought this through.
+- 'Kostik, do not be angry, he had nowhere else to go.' Nastya underscores this telling piece right here: "nekuda" means "nowhere", and it carries the main weight of what Nastya is saying.
+- 'Do not lose your temper in my house.' The guest states that thought with ease: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'After all, he is still your own father.' The guest reacts quietly beside Kostya, leaving no doubt about where he stands.
+- 'And to me, therefore, a close relative.' The guest points to one vivid piece at once: "rodstvennik" means "relative", and it carries the main weight of what the guest is saying.
+- 'So let us go into the house calmly.' The guest shapes that point facing Kostya: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'We will spend time in a close family circle.' The guest responds earnestly in this moment, making his position completely clear.
+- 'Just look, everyone around here is red-headed!' The guest stresses this clear element right here: "ryzhiye" means "red-haired" (from "ryzhiy"), giving the line its exact edge.
+- 'And what did I do to deserve such punishment?' Kostya puts that thought on cue: putting the question word "chto" right at the front of the line lets Nastya hear the point of the question on the very first beat.

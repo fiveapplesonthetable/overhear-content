@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi there. Are you hungry?' Vika challenges sharply as the talk turns, combining "progolodalsya" ("got hungry") and "privet" ("hi") so the key meaning lands right away.
-- 'Well, a little bit.' Max adopts a measured tempo in front of Vika, leaning on "yest" ("there is") before closing the thought with "nemnogo" ("a bit").
-- 'What do we have for dinner tonight?' Max queries honestly right away, weaving "segodnya" ("today") together with "uzhin" ("dinner") just the way native speakers do.
-- 'Whatever you cook is what we will eat.' Vika picks a natural footing straight away, leaning on "prigotovish" ("will prepare") before closing the thought with "budem" ("will").
-- 'I can cook, of course.' Max shows a sharp rhythm across the room, building the phrase around "mogu" ("can") and "konechno" ("of course") for a crisp, natural delivery.
-- 'I am just really tired today.' Max takes a serious style in this beat, building the phrase around "prosto" ("just") and "ustal" ("am tired") for a crisp, natural delivery.
-- 'Listen, why don't we order something?' Vika probes steadily toward Max here, combining "slushay" ("listen") and "davay" ("let's") so the key meaning lands right away.
-- 'Maybe let's make some quick pancakes, huh?' Max challenges pointedly with Vika now, combining the everyday invitation "davay" ("come on, let us") with "mozhet" ("can") to give the line its natural spoken rhythm.
-- 'You can make them, right?' Max challenges evenly on the spot, joining "mozhesh" ("can") to "ty" ("you") so every word pulls its weight.
-- 'I can. Great.' Vika conveys a thoughtful direction straight away, leaning on "mogu" ("can") before closing the thought with "otlichno" ("perfect, great").
-- 'Here, everything is ready.' Vika displays a brisk tempo in this beat, using "gotovo" (from "gotovyy", "ready") alongside "vot" ("there, here") to shape the meaning.
-- 'It smells delicious.' Max offers a playful stance in front of Vika, weaving "pakhnet" ("it smells") together with "vkusno" ("it's tasty") just the way native speakers do.
+- 'Hi there. Are you hungry?' Vika chooses this key element right here: "progolodalsya" means "got hungry" (from "progolodatsya"), giving the line its exact edge.
+- 'Well, a little bit.' Max aims this update facing Vika: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'What do we have for dinner tonight?' Max wonders evenly if there is more going on behind the scenes.
+- 'Whatever you cook is what we will eat.' Vika points to one vivid piece for Max: "prigotovish" means "will prepare" (from "prigotovit"), giving the line its exact edge.
+- 'I can cook, of course.' Max brings that point to Vika: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'I am just really tired today.' Max speaks honestly without any doubt, watching Vika's face to see how the news lands.
+- 'Listen, why don't we order something?' Vika stresses one loaded expression with Max: "zakazhem" means "we'll order" (from "zakazat"), giving the line its exact edge.
+- 'Maybe let's make some quick pancakes, huh?' Max makes that point facing Vika: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'You can make them, right?' Max asks straight out whether Vika really thought this through.
+- 'I can. Great.' Vika favors one pointed expression in reply: "otlichno" means "perfect, great", and it carries the main weight of what Vika is saying.
+- 'Here, everything is ready.' Vika hands over this update before Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'It smells delicious.' Max weighs in warmly watching Vika, watching Vika's face to see how the news lands.

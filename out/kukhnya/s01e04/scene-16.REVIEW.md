@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I take it you won' Max assumes his friend will not have a date.
+- 'I take it you won't have a date?' Max assumes his friend will not have a date.
 - 'Yes, I said something completely stupid again.' Kostya admits he said something foolish again.
 - 'You get way too nervous around her.' Max tells him he gets too anxious around her.
 - 'I cannot manage to speak beautifully!' Kostya complains he cannot speak eloquently.

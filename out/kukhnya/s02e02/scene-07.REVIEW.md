@@ -30,7 +30,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'This is your fault.' Viktor blames the newcomer directly for making the customer sick.
 - 'You nearly killed a man.' He fumes that the bad fish nearly killed a guest in his dining room.
 - 'Chef, enough.' Lyova steps in and asks the chef to calm down.
-- 'He doesn' He reminds Viktor that the sushi chef does not understand a word of Russian.
+- 'He doesn't understand Russian.' He reminds Viktor that the sushi chef does not understand a word of Russian.
 - 'These are products from Timur.' Barinov realizes the raw fish came from Timur's shady delivery earlier.
 - 'Timur, come here.' Lyova calls Timur over to answer for the spoiled ingredients.
 - 'A person got poisoned.' He informs the supplier that a customer suffered food poisoning because of his fish.

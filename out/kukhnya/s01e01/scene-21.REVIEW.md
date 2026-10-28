@@ -36,7 +36,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Chef, that is unfair!' Max bursts out in anger at the rigged evaluation.
 - 'After all, it is a dog.' He points out the absurdity of feeding sweets to a pet.
 - 'The world is not ideal at all, young man.' Chef Barinov smugly dismisses the complaint with a cynical life lesson.
-- 'Let' Max angrily challenges his boss to a real contest.
+- 'Let's make a bet, chef!' Max angrily challenges his boss to a real contest.
 - 'What will we bet about?' Chef Barinov pauses, intrigued by the rookie's sudden boldness.
 - 'An ordinary person will like my hot dish.' Max wagers that any human being would love his cooking.
 - 'Good!' Chef Barinov accepts the premise of the challenge.

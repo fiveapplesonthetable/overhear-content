@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Understand at last, there was no test at all!' Vika sets a calm line at this moment, combining the conversational booster "voobshche" ("in general, overall") with "poymi" ("understand") to give the line its natural spoken rhythm.
-- 'Wait, what do you mean there was not? So she came to me on her own?' Max checks sharply without holding back, combining "podozhdi" ("wait") and "kak" ("how") so the key meaning lands right away.
-- 'Terrible, how awkward I feel in front of Eva now!' Max shows a measured line at once, weaving "uzhas" ("horror") together with "kak" ("how") just the way native speakers do.
-- 'Oh really? And do you feel completely comfortable in front of me right now?' Vika questions calmly as they speak, linking "seychas" ("now"), "sovsem" ("at all"), and "udobno" ("comfortable") in one brisk exchange.
-- 'Vika, I feel very awkward in front of you right now too.' Max sustains a warm tempo during the exchange, linking "tozhe" ("too"), "seychas" ("now"), and "ochen" ("very much") in one brisk exchange.
-- 'It is just that I have let you down so many times before.' Max strikes a frank approach in front of Vika, leaning on "prosto" ("just") before closing the thought with "uzhe" ("already, now").
-- 'I understand very well myself how hard it is to believe me.' Max favors a direct position in front of Eva, joining "prekrasno" ("perfectly") to "ponimayu" ("understand") so every word pulls its weight.
-- 'But we must do this, otherwise we will have no future.' Max establishes a calm position as they talk, anchoring the Russian line on "nuzhno" ("necessary") and "sdelat" ("to do") without extra filler.
-- 'I beg you, Vika, believe me, please!' Max brings a measured approach in the scene, leaning on "proshu" ("beg, ask") before closing the thought with "ver" ("believe, trust").
-- 'Excuse me, I should probably quietly go home now.' Eva sets a candid angle straight away, combining "izvinite" ("sorry, excuse me") and "navernoye" ("probably") so the key meaning lands right away.
-- 'And what about all this lovely evening romance?' Eva questions boldly right away, pairing "kak" ("how") with "krasivaya" ("pretty, beautiful") to get the point across in plain spoken Russian.
-- 'That is alright, I will clear everything from the table myself later.' Max sustains a warm mood without hesitation, joining "strashnogo" ("terrible, serious") to "potom" ("then") so every word pulls its weight.
+- 'Understand at last, there was no test at all!' Vika makes that thought beside Eva: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'Wait, what do you mean there was not? So she came to me on her own?' Max presses eagerly about what Vika just brought up.
+- 'Terrible, how awkward I feel in front of Eva now!' Max uses one loaded term in reply: "neudobno" means "awkward, uncomfortable", and it carries the main weight of what Max is saying.
+- 'Oh really? And do you feel completely comfortable in front of me right now?' Vika delivers the comeback in earnest: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Vika, I feel very awkward in front of you right now too.' Max stands firm briskly toward Eva, saying out loud what both of them already know.
+- 'It is just that I have let you down so many times before.' Max favors one memorable choice at once: "podvodil" means "let down" (from "podvodit"), giving the line its exact edge.
+- 'I understand very well myself how hard it is to believe me.' Max speaks up evenly in this moment, refusing to let the moment slip past.
+- 'But we must do this, otherwise we will have no future.' Max cuts in openly without any doubt, making his position completely clear.
+- 'I beg you, Vika, believe me, please!' Max chooses one pointed detail right here: "proshu" means "beg, ask" (from "prosit"), giving the line its exact edge.
+- 'Excuse me, I should probably quietly go home now.' Eva makes the reply toward Vika: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Eva steps in.
+- 'And what about all this lovely evening romance?' Eva questions bluntly before Max can change the subject.
+- 'That is alright, I will clear everything from the table myself later.' Max grounds this key piece toward Vika: "strashnogo" means "terrible, serious" (from "strashnyy"), giving the line its exact edge.

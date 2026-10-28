@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hello, my dears, here I am at home!' Max offers an unhurried direction in this beat, putting "dorogiye" ("dear") alongside "doma" ("at home") in a tight, everyday turn of phrase.
-- 'Vika, how did you forget Mom's shawl at work?' Max presses naturally during the talk, leaning on "kak" ("how") before closing the thought with "mamin" ("needs").
-- 'Mom, Vika knitted a new shawl for you today!' Max shares a direct posture in this beat, joining "mama" ("mum, mother") to "segodnya" ("today") so every word pulls its weight.
-- 'And that old shawl fell apart completely.' Max favors a thoughtful angle in the room, anchoring the Russian line on "staryy" ("old") and "platok" ("kitchen") without extra filler.
-- 'Thank you very much, my goodness, what a beauty this is!' Denis projects a resolute tack right away, combining "spasibo" ("thank you") and "bolshoye" ("big, very much") so the key meaning lands right away.
-- 'It is not hard for Vika at all, she knits very fast!' Max maintains an easygoing tack in the conversation, joining "sovsem" ("at all") to "netrudno" ("all") so every word pulls its weight.
-- 'That is not true, in fact I knit very slowly.' Vika adopts a wry tempo in their talk, pairing "nepravda" ("untrue, a lie") with "samom" ("very") to get the point across in plain spoken Russian.
-- 'Vika, why, you simply have golden hands!' Denis shares a playful line toward Vika, leaning on "prosto" ("just") before closing the thought with "zolotyye" ("golden").
-- 'Wait, and just what is this lying here?' Denis quizzes frankly from the start, combining "podozhdite" ("wait") and "yeshchyo" ("more, still") so the key meaning lands right away.
-- 'Mom, forgive me, someone is ringing the doorbell right now!' Max shows a serious stance beside Vika, linking "mama" ("mum, mother"), "prosti" ("sorry, forgive me"), and "seychas" ("now") in one brisk exchange.
-- 'Vika, Denis has come to the door, let him in.' Max presents a pointed approach at this moment, pairing "denis" ("Denis") with "tam" ("there") so the "-sya" ending carries the action.
-- 'Max's brother has come to see us, he dropped by to say hello!' Vika shows a frank angle toward Max, leaning on "prishyol" ("came, have come") before closing the thought with "brat" ("brother").
+- 'Hello, my dears, here I am at home!' Max uses this clear expression in earnest: "dorogiye" means "dear" (from "dorogoy"), giving the line its exact edge.
+- 'Vika, how did you forget Mom's shawl at work?' Max phrases this warning with ease: putting the question word "kak" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Mom, Vika knitted a new shawl for you today!' Max opens up boldly during the talk, saying out loud what both of them already know.
+- 'And that old shawl fell apart completely.' Max underscores one telling detail for Vika: "razvalilsya" means "to completely" (from "razvalitsya"), giving the line its exact edge.
+- 'Thank you very much, my goodness, what a beauty this is!' Denis offers the reaction beside Max: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'It is not hard for Vika at all, she knits very fast!' Max chimes in earnestly hearing Vika, saying out loud what both of them already know.
+- 'That is not true, in fact I knit very slowly.' Vika highlights one familiar word on cue: "nepravda" means "untrue, a lie", and it carries the main weight of what Vika is saying.
+- 'Vika, why, you simply have golden hands!' Denis shapes that line at once: Russian says "u tebya" (literally "at you" or "by you") where English uses "you have" or "your", keeping the phrasing close and informal.
+- 'Wait, and just what is this lying here?' Denis questions plainly to see how Max will answer on the spot.
+- 'Mom, forgive me, someone is ringing the doorbell right now!' Max picks one telling choice at once: "seychas" means "now", and it carries the main weight of what Max is saying.
+- 'Vika, Denis has come to the door, let him in.' Max follows up quietly without holding back, steering the talk right where he wants it.
+- 'Max's brother has come to see us, he dropped by to say hello!' Vika steps in warmly beside Max, before Max can change the subject.

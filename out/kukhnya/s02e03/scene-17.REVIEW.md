@@ -28,5 +28,5 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'We have a problem with our order.' In the dining room, an irritable customer flags down the staff about a problem with his order.
 - 'I asked for no onions.' He complains that he specifically asked for his dish without onions.
-- 'Excuse me.' the guest delivers a punchy conversational reaction built around the Russian word meaning 'respected'.
+- 'Excuse me.' Raising his voice across the dining room, the impatient guest calls out 'respected ones' to get a waiter's attention.
 - 'I want to speak with the chef.' Still unhappy with the service, the guest demands to speak with the chef in person.

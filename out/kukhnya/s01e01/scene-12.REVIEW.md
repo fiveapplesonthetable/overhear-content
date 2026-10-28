@@ -28,6 +28,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Been drinking yesterday?' Kostya asks casually, using the colloquial verb for drinking alcohol.
 - 'Is it noticeable?' Max replies ruefully, realizing his rough night shows on his face.
-- 'Would you like anything?' the bartender inquires, switching into professional hospitality mode.
+- 'Would you like anything?' Kostya asks politely, switching into professional hospitality mode behind the bar.
 - 'Water.' Max croaks, as he is in need of cold water before his interview.
 - 'A liter! Without any gas at all!' Max exclaims, emphasizing the urgent quantity of cold still water he requires. Now listen to the full bar dialogue once more.

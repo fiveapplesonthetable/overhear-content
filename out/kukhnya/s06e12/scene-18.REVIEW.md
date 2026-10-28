@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Ainura, tell me, will you have seconds of pasta today?' Barinov probes honestly without hesitation, leaning on "skazhi" ("say") before closing the thought with "dobavku" ("seconds, extra portion").
-- 'Oh, no, I will not, it turned out very untasty.' Ainura shows a direct mood in the scene, combining "budu" ("will be") and "ochen" ("very much") so the key meaning lands right away.
-- 'If you are looking for Misha, he is resting in a room.' Ainura presents a brisk course in their talk, putting "ishchesh" ("to look for") alongside "otdykhayet" ("to rest, relax") in a tight, everyday turn of phrase.
-- 'Sveta, listen, you must take the ring off right now.' Denis adopts a measured line across the room, pairing "seychas" ("now") with "sveta" ("electricity") so the "-sya" ending carries the action.
-- 'I know, forgive me for ruining the surprise.' Ainura offers a natural posture in the scene, weaving "znayu" ("know") together with "prosti" ("sorry, forgive me") just the way native speakers do.
-- 'Let us pretend as if I forgot everything.' Ainura displays an easygoing tempo as the scene unfolds, putting "davay" ("let's") alongside "sdelayem" ("we'll do") in a tight, everyday turn of phrase.
-- 'Sveta, understand, this ring is not for you at all.' Denis maintains a warm approach right away, linking "sveta" ("electricity"), "poymi" ("understand"), and "koltso" ("ring") in one brisk exchange.
-- 'Wait, how is it not for me, then who is it for?' Ainura wonders boldly as the talk turns, linking "podozhdi" ("wait"), "kak" ("how"), and "eto" ("this") in one brisk exchange.
-- 'Denis, well how much longer can we wait for you?' Barinov questions earnestly in this moment, putting "skolko" ("how much, so much") alongside "yeshchyo" ("more, still") in a tight, everyday turn of phrase.
-- 'Where is my ring that I bought for Nastya?' Barinov questions decisively without hesitation, anchoring the Russian line on "gde" ("where") and "koltso" ("ring") without extra filler.
-- 'Kostya, wait a minute, a small problem came up here.' Denis takes a measured tempo in their talk, using "podozhdi" (from "podozhdat", "wait") alongside "minutu" ("a minute") to shape the meaning.
-- 'It seems it is stuck and will not come off my finger at all!' Ainura takes an easygoing rhythm across the room, joining "kazhetsya" ("it seems, I think") to "zastryalo" ("get stuck") so every word pulls its weight.
+- 'Ainura, tell me, will you have seconds of pasta today?' Barinov inquires eagerly what Ainura is actually getting at here.
+- 'Oh, no, I will not, it turned out very untasty.' Ainura focuses on one colorful expression at once: "poluchilos" means "worked out" (from "poluchitsya"), giving the line its exact edge.
+- 'If you are looking for Misha, he is resting in a room.' Ainura chooses this clear term at once: "otdykhayet" means "to rest, relax" (from "otdykhat"), giving the line its exact edge.
+- 'Sveta, listen, you must take the ring off right now.' Denis reacts plainly across the room, letting the remark speak for itself.
+- 'I know, forgive me for ruining the surprise.' Ainura grounds one telling expression right here: "syurpriz" means "surprise", and it carries the main weight of what Ainura is saying.
+- 'Let us pretend as if I forgot everything.' Ainura shapes the comeback at once: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'Sveta, understand, this ring is not for you at all.' Denis chimes in warmly with a sigh, testing Ainura's reaction in the middle of the exchange.
+- 'Wait, how is it not for me, then who is it for?' Ainura emphasizes this key element toward Denis: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'Denis, well how much longer can we wait for you?' Barinov delivers the thought beside Ainura: the single Russian word "mozhno" ("it is possible, one may") sets up the whole statement without needing a separate word for "it is".
+- 'Where is my ring that I bought for Nastya?' Barinov challenges briskly while looking straight at Denis here.
+- 'Kostya, wait a minute, a small problem came up here.' Denis picks one key detail in reply: "nebolshaya" means "small" (from "nebolshoy"), giving the line its exact edge.
+- 'It seems it is stuck and will not come off my finger at all!' Ainura sends the remark with warmth: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.

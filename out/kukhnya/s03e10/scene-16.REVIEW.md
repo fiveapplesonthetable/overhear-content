@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima, I cannot take them right now.' Vika projects a playful rhythm in the room, joining "mogu" ("can") to "vzyat" ("to take") so every word pulls its weight.
-- 'Forgive me, but for now I cannot.' Vika maintains a firm line as the scene unfolds, pairing "izvini" ("sorry, excuse me") with "poka" ("bye") to get the point across in plain spoken Russian.
-- 'Hello, friends, meet Sveta.' Barinov presents a pointed attitude in the room, anchoring the Russian line on "zdravstvuyte" ("hello") and "druzya" ("friends") without extra filler.
-- 'Hello, very nice to meet you, I am Victoria.' Vika maintains a pointed mood during the exchange, combining "zdravstvuyte" ("hello") and "ochen" ("very much") so the key meaning lands right away.
-- 'I am an actor, so everyone recognizes me.' Barinov sets a measured approach in front of Lyova, linking "aktyor" ("actor"), "poetomu" ("that's why"), and "uznayut" ("find out") in one brisk exchange.
-- 'Let us drink to our acquaintance!' Barinov sets a pointed tempo beside Vika, combining the polite invitation "davayte" ("let us") with "vypyem" ("will drink") to give the line its natural spoken rhythm.
-- 'Hi, Katya, these flowers are for you.' Lyova displays a grounded footing at this moment, weaving "tsvety" ("the flowers") together with "privet" ("hi") just the way native speakers do.
-- 'Thank you, that is very sweet, Lyova.' Vika sets a serious position in the conversation, leaning on "spasibo" ("thank you") before closing the thought with "ochen" ("very much").
-- 'There is no need to say anything, I know everything.' Lyova favors a natural style in the room, linking "nado" ("it is necessary"), "govorit" ("to talk"), and "znayu" ("know") in one brisk exchange.
-- 'Wait, what exactly do you know?' Vika presses naturally beside Lyova, building the phrase around "podozhdi" ("wait") and "znayesh" ("know") for a crisp, natural delivery.
-- 'I know the whole truth about France.' Lyova takes an unhurried view as they talk, joining "znayu" ("know") to "pravdu" ("truth") so every word pulls its weight.
-- 'What truth about France?' Vika tests candidly without holding back, putting "yeshchyo" ("more, still") alongside "pravdu" ("truth") in a tight, everyday turn of phrase.
+- 'Dima, I cannot take them right now.' Vika underscores this telling choice in reply: "vzyat" means "to take", and it carries the main weight of what Vika is saying.
+- 'Forgive me, but for now I cannot.' Vika makes the remark with candor: saying "izvini" ("excuse me, sorry") is the informal apology you use with someone close when you want to smooth things over fast.
+- 'Hello, friends, meet Sveta.' Barinov follows up at once during the talk, to clear the air between them once and for all.
+- 'Hello, very nice to meet you, I am Victoria.' Vika spotlights one familiar word at once: "zdravstvuyte" means "hello", and it carries the main weight of what Vika is saying.
+- 'I am an actor, so everyone recognizes me.' Barinov answers boldly hearing Lyova, making his position completely clear.
+- 'Let us drink to our acquaintance!' Barinov answers decisively without a pause, leaving no doubt about where he stands.
+- 'Hi, Katya, these flowers are for you.' Lyova picks one vivid expression with Barinov: "tsvety" means "the flowers" (from "tsvetok"), giving the line its exact edge.
+- 'Thank you, that is very sweet, Lyova.' Vika frames this statement with candor: the everyday word "spasibo" ("thank you") grew out of an old blessing meaning "save you", and it anchors the whole line here.
+- 'There is no need to say anything, I know everything.' Lyova speaks up evenly facing Barinov, shifting the whole mood of the room in a single beat.
+- 'Wait, what exactly do you know?' Vika favors one concrete piece at once: "podozhdi" means "wait" (from "podozhdat"), giving the line its exact edge.
+- 'I know the whole truth about France.' Lyova speaks evenly with Barinov, leaving no doubt about where he stands.
+- 'What truth about France?' Vika asks promptly as Lyova tries to explain the situation.

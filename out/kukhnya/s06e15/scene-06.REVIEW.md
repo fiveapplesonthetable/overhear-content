@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nikita, do you have a minute right now?' Katya inquires lightly as the talk turns, pairing "seychas" ("now") with "yest" ("there is") to get the point across in plain spoken Russian.
-- 'Of course, for you I even have two.' Denis maintains a sharp rhythm during the exchange, combining "konechno" ("of course") and "yest" ("there is") so the key meaning lands right away.
-- 'Listen, here is the thing with us.' Katya shows a candid rhythm in the conversation, using "poslushay" (from "poslushat", "listen") alongside "tut" ("here") to shape the meaning.
-- 'It seems to me that we need to talk.' Katya holds a resolute attitude in the scene, putting "kazhetsya" ("it seems, I think") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'Easy, darling, let me look at your eye right now.' Denis maintains an earnest attitude in this beat, building the phrase around "tikho" ("easy, quiet") and "milaya" ("darling") for a crisp, natural delivery.
-- 'Forgive me, I did not do it on purpose.' Denis offers a thoughtful mood at this moment, linking "prosti" ("sorry, forgive me"), "spetsialno" ("on purpose"), and "ya" ("I") in one brisk exchange.
-- 'Nikita, go quickly and call an ambulance here!' Denis shares an easygoing style for Katya, anchoring the Russian line on "idi" ("go") and "skoreye" ("quickly, right away") without extra filler.
-- 'Although I will take her to the doctor myself.' Denis presents a sharp footing right away, pairing "otvezu" ("I'll drive") with "vrachu" ("the doctor") to get the point across in plain spoken Russian.
-- 'Can you imagine, I raised him myself.' Nikita keeps a frank position with Denis, weaving "predstavlyayesh" ("can you imagine") together with "vyrastil" ("raised, trained") just the way native speakers do.
-- 'I taught him everything here myself.' Nikita favors an honest tack in the conversation, leaning on "zdes" ("here") before closing the thought with "vyuchil" ("to learn, to memorise").
-- 'I treated him like my own son.' Nikita sets a calm line as they talk, pairing "kak" ("how") with "rodnomu" ("native, own") to get the point across in plain spoken Russian.
-- 'And besides that, he handles all the purchasing!' Nikita displays a thoughtful style at once, anchoring the Russian line on "zakupki" ("purchasing") and "krome" ("except") without extra filler.
+- 'Nikita, do you have a minute right now?' Katya asks openly what Denis is actually getting at here.
+- 'Of course, for you I even have two.' Denis spotlights one memorable term for Nikita: "konechno" means "of course", and it carries the main weight of what Denis is saying.
+- 'Listen, here is the thing with us.' Katya states that answer with candor: the phrase "u nas" literally means "by us" or "at our place", the standard Russian way to talk about what a group or couple shares.
+- 'It seems to me that we need to talk.' Katya proceeds evenly facing Nikita, saying out loud what both of them already know.
+- 'Easy, darling, let me look at your eye right now.' Denis frames one loaded word in reply: "posmotryu" means "have a look" (from "posmotret"), giving the line its exact edge.
+- 'Forgive me, I did not do it on purpose.' Denis makes this line on cue: the word "prosti" ("forgive me") is a warmer, more personal apology than a routine "excuse me".
+- 'Nikita, go quickly and call an ambulance here!' Denis opens up decisively facing Katya, so Katya knows he is not just making small talk.
+- 'Although I will take her to the doctor myself.' Denis leans on one direct element in earnest: "vrachu" means "the doctor" (from "vrach"), giving the line its exact edge.
+- 'Can you imagine, I raised him myself.' Nikita counters plainly with a shrug, making his position completely clear.
+- 'I taught him everything here myself.' Nikita speaks up calmly as they talk, without trying to dress up how he really feels.
+- 'I treated him like my own son.' Nikita frames one memorable touch at once: "otnosilsya" means "to treat, to relate to" (from "otnositsya"), giving the line its exact edge.
+- 'And besides that, he handles all the purchasing!' Nikita pushes back pointedly without any doubt, refusing to let the moment slip past.

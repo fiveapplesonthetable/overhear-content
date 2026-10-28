@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Excuse me, but the dishes are identical.' Elena sustains a frank mood in the room, using "izvinite" (from "izvinit", "sorry, excuse me") alongside "blyuda" ("of dish") to shape the meaning.
-- 'Fine, then you will write the resignation letter yourself.' Barinov conveys a thoughtful posture as the scene unfolds, weaving "togda" ("back then") together with "zayavleniye" ("statement") just the way native speakers do.
-- 'Chef, I respect you very much, of course.' Elena conveys a sharp manner during the exchange, linking "konechno" ("of course"), "ochen" ("very much"), and "uvazhayu" ("to respect") in one brisk exchange.
-- 'But you peeked, and Lyova did not.' Elena maintains a warm approach without hesitation, putting "podglyadyval" ("were spying") alongside "no" ("but") in a tight, everyday turn of phrase.
-- 'Therefore Lyova won in this bet.' Elena conveys an earnest attitude with Barinov, building the phrase around "poetomu" ("that's why") and "spore" ("bet, wager") for a crisp, natural delivery.
-- 'I saw myself how Senya was cutting.' Elena offers a steady tone for Senya, building the phrase around "videla" ("saw") and "kak" ("how") for a crisp, natural delivery.
-- 'I did not see anything through there!' Barinov holds a warm note straight away, building the phrase around "tam" ("there") and "videl" ("saw, have seen") for a crisp, natural delivery.
-- 'It is unpleasant when your student cooks better.' Elena brings a natural tone during the exchange, linking "nepriyatno" ("unpleasant"), "kogda" ("when"), and "uchenik" ("student, apprentice") in one brisk exchange.
-- 'By the way, you did not tell Nikita either.' Senya keeps a pointed mood at this moment, joining "kstati" ("by the way") to "tozhe" ("too") so every word pulls its weight.
-- 'Sveta, we really need to talk seriously.' Senya takes an unhurried tack during the exchange, using "sveta" (from "svet", "electricity") alongside "nuzhno" ("necessary") to shape the meaning.
-- 'Let us talk later, meet my parents.' Senya projects a warm bearing during the exchange, building the phrase around "davay" ("let's") and "pogovorim" ("we'll have a talk") for a crisp, natural delivery.
-- 'Mom, Dad, and this is my Denis.' Senya sets a wry view without hesitation, linking "mama" ("mum, mother"), "papa" ("Dad"), and "eto" ("this") in one brisk exchange.
+- 'Excuse me, but the dishes are identical.' Elena frames the comeback with candor: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Elena steps in.
+- 'Fine, then you will write the resignation letter yourself.' Barinov fires back pointedly with a nod, to clear the air between them once and for all.
+- 'Chef, I respect you very much, of course.' Elena stresses one telling piece right here: "konechno" means "of course", and it carries the main weight of what Elena is saying.
+- 'But you peeked, and Lyova did not.' Elena colors one telling piece at once: "podglyadyval" means "were spying" (from "podglyadyvat"), giving the line its exact edge.
+- 'Therefore Lyova won in this bet.' Elena fires back at once before Barinov, to clear the air between them once and for all.
+- 'I saw myself how Senya was cutting.' Elena centers one memorable element in earnest: "videla" means "saw" (from "videt"), giving the line its exact edge.
+- 'I did not see anything through there!' Barinov offers this answer before Elena: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'It is unpleasant when your student cooks better.' Elena continues right away around Senya, testing Senya's reaction in the middle of the exchange.
+- 'By the way, you did not tell Nikita either.' Senya leans on one practical expression at once: "skazala" means "told" (from "skazat"), giving the line its exact edge.
+- 'Sveta, we really need to talk seriously.' Senya hands over that thought right away: the single Russian word "nuzhno" ("it is needed, one has to") sets up the whole statement without needing a separate word for "it is".
+- 'Let us talk later, meet my parents.' Senya jumps in earnestly in this moment, steering the talk right where he wants it.
+- 'Mom, Dad, and this is my Denis.' Senya features one clear expression in earnest: "mama" means "mum, mother", and it carries the main weight of what Senya is saying.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vitya, you must not get nervous at all.' Elena favors a sharp direction at this moment, leaning on "sovsem" ("at all") before closing the thought with "nelzya" ("not allowed").
-- 'Heavy work is forbidden for you right now.' Eleonora favors a clear rhythm at this moment, joining "tyazhyolaya" ("heavy, severe") to "rabota" ("job") so every word pulls its weight.
-- 'He brought his own team here.' Eleonora favors a direct view as the scene unfolds, weaving "privyol" ("to bring, to lead") together with "syuda" ("here") just the way native speakers do.
-- 'You will handle general supervision.' Eleonora conveys a candid style on the spot, joining "budesh" ("will") to "vesti" ("to conduct") so every word pulls its weight.
-- 'Did he fire all of my cooks?' Barinov inquires candidly to keep things clear, leaning on "povarov" ("cooks") before closing the thought with "uvolil" ("to fire, to dismiss").
-- 'Then take away my signature menu!' Barinov brings a warm approach in the room, building the phrase around "togda" ("back then") and "ubirayte" ("clear, remove") for a crisp, natural delivery.
-- 'And change the name of the restaurant altogether!' Barinov takes a clear view in the scene, joining "menyayte" ("to change, to swap") to "voobshche" ("at all") so every word pulls its weight.
-- 'He fired the best cooks in Moscow.' Barinov projects a direct tone at this moment, weaving "uvolil" ("to fire, to dismiss") together with "luchshikh" ("the best") just the way native speakers do.
-- 'They cook much better than you.' Barinov shares a wry footing straight away, leaning on "gotovyat" ("are preparing") before closing the thought with "namnogo" ("much, far").
-- 'Let us put my guys against yours.' Barinov keeps an easygoing attitude in their talk, combining the everyday invitation "davay" ("come on, let us") with "postavim" ("will put on") to give the line its natural spoken rhythm.
-- 'I actually like this idea.' Eleonora sustains an unhurried style in the room, joining "nravitsya" ("is pleasing") to "ideya" ("idea") so every word pulls its weight.
-- 'Let us hold a fair duel today.' Eleonora adopts an easygoing course across the room, leaning on "davayte" ("let's") before closing the thought with "ustroim" ("arrange").
+- 'Vitya, you must not get nervous at all.' Elena puts the thought briskly now: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Heavy work is forbidden for you right now.' Eleonora speaks up right away as they talk, so Elena knows she is not just making small talk.
+- 'He brought his own team here.' Eleonora favors one classic expression on cue: "komandu" means "team" (from "komanda"), giving the line its exact edge.
+- 'You will handle general supervision.' Eleonora stresses one classic term for Elena: "rukovodstvo" means "leadership", and it carries the main weight of what Eleonora is saying.
+- 'Did he fire all of my cooks?' Barinov prompts frankly if there is more going on behind the scenes.
+- 'Then take away my signature menu!' Barinov anchors one colorful detail toward Eleonora: "avtorskoye" means "auteur, signature" (from "avtorskiy"), giving the line its exact edge.
+- 'And change the name of the restaurant altogether!' Barinov shapes that point without pause: the conversational word "voobshche" ("in general, altogether") zooms out to sum up the bigger picture.
+- 'He fired the best cooks in Moscow.' Barinov jumps in dryly as they talk, shifting the whole mood of the room in a single beat.
+- 'They cook much better than you.' Barinov highlights one colorful element at once: "gotovyat" means "are preparing" (from "gotovit"), giving the line its exact edge.
+- 'Let us put my guys against yours.' Barinov states this answer facing Eleonora: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'I actually like this idea.' Eleonora stands firm lightly as they talk, keeping the focus on what actually matters here.
+- 'Let us hold a fair duel today.' Eleonora favors one sharp term right here: "poyedinok" means "duel, match", and it carries the main weight of what Eleonora is saying.

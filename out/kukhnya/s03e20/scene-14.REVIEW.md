@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'It turns out dancing with you was not so hard after all.' Max displays a clear stance in the room, building the phrase around "okazyvayetsya" ("to turn out to be") and "tantsevat" ("to dance") for a crisp, natural delivery.
-- 'Listen, let us go somewhere together to get a bite to eat!' Vika probes briskly without a pause, weaving "slushayte" ("listen") together with "davayte" ("let's") just the way native speakers do.
-- 'I am so hungry today, let us go to the Mexican place!' Vika projects a serious position in front of Kostya, building the phrase around "segodnya" ("today") and "golodnaya" ("hungry") for a crisp, natural delivery.
-- 'Is that the restaurant where Senya got drunk last week?' Max checks directly as the beat lands, putting "restoran" ("restaurant") alongside "gde" ("where") in a tight, everyday turn of phrase.
-- 'Wait a second, so you did not lose your memory at all?' Vika queries warmly beside Kostya, putting "podozhdi" ("wait") alongside "znachit" ("then, so") in a tight, everyday turn of phrase.
-- 'You were brazenly lying to us this whole time?' Vika presses directly right away, building the phrase around "vremya" ("time") and "naglo" ("boldly, brazenly") for a crisp, natural delivery.
-- 'Vika, wait, please, I will explain everything to you right now!' Max projects an easygoing style in front of Kostya, combining "podozhdi" ("wait") and "seychas" ("now") so the key meaning lands right away.
-- 'No need, Max, you bring us nothing but trouble!' Vika picks an unhurried footing as they talk, linking "nado" ("it is necessary"), "nepriyatnosti" ("troubles"), and "odni" ("nothing but") in one brisk exchange.
-- 'Max, I believed you, and you lied even to me!' Kostya sets an honest attitude in front of Max, putting "poveril" ("to believe") alongside "navral" ("lied") in a tight, everyday turn of phrase.
-- 'Kostya, if I had told you, you would have blabbed to Nastya!' Max displays a thoughtful tempo in this beat, anchoring the Russian line on "skazal" ("said") and "progovorilsya" ("let it slip") without extra filler.
-- 'You know what, I do not need such a friend or best man at my wedding!' Kostya keeps a brisk rhythm during the exchange, using "znayesh" (from "znat", "know") alongside "drug" ("friend") to shape the meaning.
-- 'Friends, forgive me, please, I did not mean to!' Max holds an honest rhythm for Vika, using "druzya" (from "drug", "friends") alongside "prostite" ("excuse me") to shape the meaning.
+- 'It turns out dancing with you was not so hard after all.' Max lays out the comment around Kostya: the "-sya" ending on "okazyvayetsya" ("to turn out to be") turns the action inward or makes it happen between people naturally.
+- 'Listen, let us go somewhere together to get a bite to eat!' Vika quizzes straight out if there is more going on behind the scenes.
+- 'I am so hungry today, let us go to the Mexican place!' Vika favors one classic expression for Kostya: "meksikanskiy" means "Mexican", and it carries the main weight of what Vika is saying.
+- 'Is that the restaurant where Senya got drunk last week?' Max aims that remark with candor: putting the question word "gde" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'Wait a second, so you did not lose your memory at all?' Vika prompts eagerly to see how Kostya will answer on the spot.
+- 'You were brazenly lying to us this whole time?' Vika spotlights one memorable choice at once: "vremya" means "time", and it carries the main weight of what Vika is saying.
+- 'Vika, wait, please, I will explain everything to you right now!' Max phrases that point in earnest: dropping in "pozhaluysta" ("please") keeps the request polite on the surface even in a brisk exchange.
+- 'No need, Max, you bring us nothing but trouble!' Vika holds firm quietly as they talk, leaving no doubt about where she stands.
+- 'Max, I believed you, and you lied even to me!' Kostya highlights one vivid piece for Max: "poveril" means "to believe" (from "poverit"), giving the line its exact edge.
+- 'Kostya, if I had told you, you would have blabbed to Nastya!' Max directs this point right away: the "-sya" ending on "progovorilsya" ("let it slip") turns the action inward or makes it happen between people naturally.
+- 'You know what, I do not need such a friend or best man at my wedding!' Kostya counters calmly with a smile, to clear the air between them once and for all.
+- 'Friends, forgive me, please, I did not mean to!' Max grounds this telling touch with Vika: "druzya" means "friends" (from "drug"), giving the line its exact edge.

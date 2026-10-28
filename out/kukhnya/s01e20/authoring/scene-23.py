@@ -37,7 +37,7 @@ WALK = [
     (4, None, "'This is our common mistake.' Max accepts shared responsibility for their failure, directly labeling it as a collective error."),
     (5, None, "'Maybe we should have woken up?' Max wonders aloud if they should have faced reality sooner, phrasing his regret as a lingering question."),
     (6, None, "'Woken up sooner?' Max repeats his thought, asking specifically if coming to their senses earlier would have changed things."),
-    (7, None, "'I don' Max admits that he has no solution for the philosophical dilemma he just outlined."),
+    (7, None, "'I don't know the answer.' Max admits that he has no solution for the philosophical dilemma he just outlined."),
     (8, None, "'Nobody knows.' Max expands his own uncertainty, claiming that no one really has the answers to these deep questions."),
     (9, None, "'Life goes on.' Max accepts that despite all their mistakes and lost time, existence simply moves forward."),
     (10, None, "'Need to go.' Max resolves that they must keep moving, using a strong word indicating necessity."),

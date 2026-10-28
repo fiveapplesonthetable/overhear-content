@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, what happened?' Barinov quizzes briskly without holding back, combining "sluchilos" ("happened") and "privet" ("hi") so the key meaning lands right away.
-- 'What happened, Vitya, is this!' Elena projects an emphatic posture without hesitation, building the phrase around "sluchilos" ("happened") and "vitya" ("Vitya") for a crisp, natural delivery.
-- 'Most of all it interests me why this was in your car.' Elena holds a sharp position at once, putting "bolshe" ("more") alongside "interesuyet" ("interests") in a tight, everyday turn of phrase.
-- 'Oh, my bra! Amazing.' Katya brings an emphatic footing for Elena, anchoring the Russian line on "lifchik" ("bra") and "potryasayushche" ("incredible") without extra filler.
-- 'She doesn't even hide it! Can you imagine?' Elena asks lightly beside Barinov, using "skryvayet" (from "skryvat", "hides") alongside "predstavlyayete" ("to imagine") to shape the meaning.
-- 'Lena, you misunderstood everything.' Barinov sustains an earnest rhythm across the room, linking "ponyala" ("understood"), "lena" ("Lena"), and "ty" ("you") in one brisk exchange.
-- 'And how was I supposed to understand it?' Elena probes evenly in their exchange, linking "kak" ("how"), "dolzhna" ("should, must"), and "byla" ("was") in one brisk exchange.
-- 'A girl got into your car and she got hot.' Barinov conveys a candid rhythm in front of Katya, building the phrase around "devushka" ("girlfriend") and "sela" ("to sit down") for a crisp, natural delivery.
-- 'And she undressed?' Elena questions directly as the beat lands, putting "razdelas" ("undressed") alongside "ona" ("it") in a tight, everyday turn of phrase.
-- 'Lena, hold on! I should have told you right away.' Barinov presents a brisk mood in the conversation, putting "postoy" ("wait") alongside "nuzhno" ("necessary") in a tight, everyday turn of phrase.
-- 'Carrying on affairs in your own kitchen behind my back!' Elena takes a candid angle at this moment, weaving "zavodit" ("to start, carry on") together with "romany" ("affairs, romances") just the way native speakers do.
-- 'What affairs? Katya is my daughter!' Barinov tests plainly in this moment, weaving "romany" ("affairs, romances") together with "doch" ("daughter") just the way native speakers do.
+- 'Hi, what happened?' Barinov centers one practical word at once: "sluchilos" means "happened" (from "sluchitsya"), giving the line its exact edge.
+- 'What happened, Vitya, is this!' Elena states the reply toward Katya: the "-sya" ending on "sluchilos" ("happened") turns the action inward or makes it happen between people naturally.
+- 'Most of all it interests me why this was in your car.' Elena proceeds firmly without any doubt, watching Barinov's face to see how the news lands.
+- 'Oh, my bra! Amazing.' Katya chooses one key piece right here: "potryasayushche" means "incredible", and it carries the main weight of what Katya is saying.
+- 'She doesn't even hide it! Can you imagine?' Elena brings this update frankly here: Russian keeps the exact word order of a normal statement here, turning it into a question for Barinov purely through rising pitch at the end.
+- 'Lena, you misunderstood everything.' Barinov stands firm frankly across the room, so Katya knows he is not just making small talk.
+- 'And how was I supposed to understand it?' Elena reaches for one practical touch right here: "dolzhna" means "should, must" (from "dolzhen"), giving the line its exact edge.
+- 'A girl got into your car and she got hot.' Barinov fires back frankly toward Katya, refusing to let the moment slip past.
+- 'And she undressed?' Elena questions quietly to see how Barinov will answer on the spot.
+- 'Lena, hold on! I should have told you right away.' Barinov chooses one memorable touch on cue: "postoy" means "wait" (from "postoyat"), giving the line its exact edge.
+- 'Carrying on affairs in your own kitchen behind my back!' Elena speaks quietly hearing Barinov, without trying to dress up how she really feels.
+- 'What affairs? Katya is my daughter!' Barinov challenges calmly what Katya is actually getting at here.

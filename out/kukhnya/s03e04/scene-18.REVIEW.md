@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Lena, forgive me, please.' Barinov adopts a steady course in their talk, combining "prosti" ("sorry, forgive me") and "lena" ("Lena") so the key meaning lands right away.
-- 'Have you seen my little elephant?' Barinov quizzes dryly from the start, putting "videla" ("saw") alongside "slonika" ("little elephant figurine") in a tight, everyday turn of phrase.
-- 'Vika, did you want to talk with me?' Barinov queries briskly in their exchange, linking "khotela" ("wanted, meant"), "pogovorit" ("to talk"), and "vika" ("Vika") in one brisk exchange.
-- 'What is this? Some kind of prank, huh?' Nagiyev quizzes wryly in front of Vika, building the phrase around "rozygrysh" ("prank") and "chto" ("what") for a crisp, natural delivery.
-- 'Well, and who am I going to punish, huh?' Nagiyev challenges plainly from the start, anchoring the Russian line on "nakazhu" ("to punish") and "nu" ("oh, come on") without extra filler.
-- 'Vika, at least tell me what is going on here?' Nagiyev probes openly for Vika's benefit, using "skazhi" (from "skazat", "say") alongside "proiskhodit" ("is going on") to shape the meaning.
-- 'The only reasonable person!' Nagiyev sustains an easygoing rhythm as the scene unfolds, putting "yedinstvennyy" ("only") alongside "adekvatnyy" ("reasonable") in a tight, everyday turn of phrase.
-- 'Who never stole.' Nagiyev presents a clear rhythm without hesitation, combining "nikogda" ("never") and "voroval" ("stole") so the key meaning lands right away.
-- 'Never betrayed me.' Nagiyev brings a brisk bearing in the scene, putting "nikogda" ("never") alongside "predaval" ("betrayed") in a tight, everyday turn of phrase.
-- 'Never secretly fried my zucchini.' Nagiyev keeps a candid footing for Vika, weaving "nikogda" ("never") together with "kabachki" ("zucchini") just the way native speakers do.
-- 'So beautiful.' Nagiyev strikes a candid position as they talk, combining "krasivaya" ("pretty, beautiful") and "takaya" ("one like her") so the key meaning lands right away.
-- 'Dmitry Vladimirovich, it is time for you to go home.' Vika chooses an unhurried line at this moment, leaning on "pora" ("it's time") before closing the thought with "domoy" ("home").
+- 'Lena, forgive me, please.' Barinov reacts decisively in their talk, so Nagiyev knows he is not just making small talk.
+- 'Have you seen my little elephant?' Barinov features this telling touch in reply: "slonika" means "little elephant figurine" (from "slonik"), giving the line its exact edge.
+- 'Vika, did you want to talk with me?' Barinov aims that reply to Nagiyev: Russian keeps the exact word order of a normal statement here, turning it into a question for Nagiyev purely through rising pitch at the end.
+- 'What is this? Some kind of prank, huh?' Nagiyev quizzes wryly while looking straight at Vika here.
+- 'Well, and who am I going to punish, huh?' Nagiyev spotlights one colorful touch at once: "nakazhu" means "to punish" (from "nakazat"), giving the line its exact edge.
+- 'Vika, at least tell me what is going on here?' Nagiyev offers that point toward Vika: putting the question word "chto" right at the front of the line lets Vika hear the point of the question on the very first beat.
+- 'The only reasonable person!' Nagiyev stands firm dryly with a smile, keeping the focus on what actually matters here.
+- 'Who never stole.' Nagiyev centers one clear piece right here: "nikogda" means "never", and it carries the main weight of what Nagiyev is saying.
+- 'Never betrayed me.' Nagiyev drops the thought frankly here: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Never secretly fried my zucchini.' Turning back with confidence, Nagiyev cuts straight through the tension in the room.
+- 'So beautiful.' Nagiyev sharpens one loaded choice right here: "krasivaya" means "pretty, beautiful" (from "krasivyy"), giving the line its exact edge.
+- 'Dmitry Vladimirovich, it is time for you to go home.' Vika gives that answer for Nagiyev: the single Russian word "pora" ("it is time to") sets up the whole statement without needing a separate word for "it is".

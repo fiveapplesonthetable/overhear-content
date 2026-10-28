@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Allow me to offer you a wonderful wine with your lamb.' Kostya keeps an unhurried position in this beat, joining "pozvolte" ("allow me") to "predlozhit" ("to offer") so every word pulls its weight.
-- 'Why are you offering me the most expensive wine?' The guest challenges bluntly across the room, linking "pochemu" ("why"), "predlagayete" ("suggest"), and "samoye" ("the most") in one brisk exchange.
-- 'Because expensive wine is always the very best!' Kostya projects a measured mood in this beat, placing "potomu" ("because") straight beside "dorogoye" ("expensive") with no word for "to be" needed.
-- 'Expensive wine does not mean the very best at all.' The guest shares a playful style in front of Nastya, putting "dorogoye" ("expensive") alongside "vino" ("wine") in a tight, everyday turn of phrase.
-- 'This heavy wine will completely overpower the flavor of the dish!' The guest adopts a steady tempo as the scene unfolds, putting "tyazhyoloye" ("heavy, hard") alongside "vino" ("wine") in a tight, everyday turn of phrase.
-- 'Let tasty wine dominate on your table!' Kostya offers a grounded line in this beat, weaving "vkusnoye" ("tasty, delicious") together with "vino" ("wine") just the way native speakers do.
-- 'I asked to call a sommelier, not a bartender!' The guest takes a frank tempo right away, linking "prosil" ("ask for"), "pozvat" ("to call"), and "somelye" ("moscow") in one brisk exchange.
-- 'Call the manager here, I want to have a serious talk!' The guest keeps a thoughtful line in their talk, joining "pozovite" ("call") to "syuda" ("here") so every word pulls its weight.
-- 'Excuse me, choose any good wine on my tab!' Kostya maintains a sharp approach right away, putting "izvinite" ("sorry, excuse me") alongside "vyberite" ("to choose, use up") in a tight, everyday turn of phrase.
-- 'Kostik, let's sign you up for sommelier courses!' Nastya offers a serious tempo during the exchange, anchoring the Russian line on "davay" ("let's") and "zapishem" ("to write down") without extra filler.
-- 'That is too expensive, Nastya, I will read on the internet.' Kostya picks a warm footing in their talk, joining "slishkom" ("too") to "dorogo" ("expensive") so every word pulls its weight.
-- 'Good education is an investment in our future!' Nastya projects a natural tone during the exchange, placing "khoroshaya" ("good") straight beside "uchyoba" ("education") with no word for "to be" needed.
+- 'Allow me to offer you a wonderful wine with your lamb.' Kostya counters openly in this moment, so the guest knows he is not just making small talk.
+- 'Why are you offering me the most expensive wine?' The guest chooses one practical piece at once: "predlagayete" means "suggest" (from "predlagat"), giving the line its exact edge.
+- 'Because expensive wine is always the very best!' Kostya delivers this update plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Expensive wine does not mean the very best at all.' The guest opens up promptly with a nod, grounding the moment in plain reality.
+- 'This heavy wine will completely overpower the flavor of the dish!' The guest colors one sharp term toward Kostya: "tyazhyoloye" means "heavy, hard" (from "tyazhyolyy"), giving the line its exact edge.
+- 'Let tasty wine dominate on your table!' Kostya weighs in wryly with a smile, steering the talk right where he wants it.
+- 'I asked to call a sommelier, not a bartender!' The guest speaks sharply toward Kostya, before Kostya can change the subject.
+- 'Call the manager here, I want to have a serious talk!' The guest underscores one concrete expression on cue: "administratora" means "administrator" (from "administrator"), giving the line its exact edge.
+- 'Excuse me, choose any good wine on my tab!' Kostya voices this warning around the guest: using the polite form "izvinite" ("excuse me, forgive me") keeps a respectful distance as Kostya steps in.
+- 'Kostik, let's sign you up for sommelier courses!' Nastya weighs in candidly with a smile, before Kostya can change the subject.
+- 'That is too expensive, Nastya, I will read on the internet.' Kostya chooses one familiar element with the guest: "internete" means "internet" (from "internet"), giving the line its exact edge.
+- 'Good education is an investment in our future!' Nastya lays out this statement with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

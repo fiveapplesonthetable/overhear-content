@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gentlemen, I want to say literally a couple of words.' Barinov holds an emphatic approach in the room, weaving "gospoda" ("gentlemen") together with "khochu" ("want") just the way native speakers do.
-- 'This dish was originally invented by my teacher.' Vika takes a wry mood in their talk, building the phrase around "blyudo" ("dish") and "vremya" ("time") for a crisp, natural delivery.
-- 'Viktor Petrovich Barinov.' Vika projects a natural rhythm with Barinov, pairing "viktor" ("Viktor") with "petrovich" ("Petrovich") to get the point across in plain spoken Russian.
-- 'The head chef of this restaurant.' Vika presents a measured position toward Barinov, linking "shef-povar" ("head chef"), "restorana" ("restaurant"), and "etogo" ("that") in one brisk exchange.
-- 'To whom I owe everything.' Barinov holds a measured manner with Vika, building the phrase around "obyazan" ("obliged, owing") and "kotoromu" ("whom, which") for a crisp, natural delivery.
-- 'Which is why I consider him a genius.' Vika chooses a grounded style beside Barinov, building the phrase around "pochemu" ("why") and "schitayu" ("am counting") for a crisp, natural delivery.
-- 'Well, that is a rather strange taste, right?' Barinov presses steadily to Vika here, leaning on "strannyy" ("strange, odd") before closing the thought with "vkus" ("taste").
-- 'Maybe it is because of the prunes?' Vika quizzes promptly without hesitation, weaving "mozhet" ("can") together with "byt" ("be") just the way native speakers do.
-- 'It is pure vinegar.' Barinov brings a resolute course in their talk, weaving "sploshnoy" ("continuous") together with "uksus" ("vinegar") just the way native speakers do.
-- 'Dear friends, unfortunately it is time for me to head to the airport.' Vika chooses a frank footing as the scene unfolds, anchoring the Russian line on "dorogiye" ("dear") and "druzya" ("friends") without extra filler.
-- 'Viktor Petrovich.' Vika shares a playful view on the spot, building the phrase around "viktor" ("Viktor") and "petrovich" ("Petrovich") for a crisp, natural delivery.
-- 'Here are the keys to my.' Vika projects an emphatic angle at once, using "klyuchi" (from "klyuch", "the keys") alongside "vot" ("there, here") to shape the meaning.
-- 'New car.' Barinov shows an honest manner in their talk, combining "novoy" ("new") and "mashiny" ("cars") so the key meaning lands right away.
+- 'Gentlemen, I want to say literally a couple of words.' Barinov proceeds sharply across the room, saying out loud what both of them already know.
+- 'This dish was originally invented by my teacher.' Vika focuses on this vivid term in earnest: "uchitel" means "teacher", and it carries the main weight of what Vika is saying.
+- 'Viktor Petrovich Barinov.' Vika shapes this statement right away: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'The head chef of this restaurant.' Vika follows up plainly to be clear, leaving no doubt about where she stands.
+- 'To whom I owe everything.' Barinov uses one concrete term toward Vika: "obyazan" means "obliged, owing" (from "obyazannyy"), giving the line its exact edge.
+- 'Which is why I consider him a genius.' Vika responds promptly beside Barinov, grounding the moment in plain reality.
+- 'Well, that is a rather strange taste, right?' Barinov inquires calmly to see how Vika will answer on the spot.
+- 'Maybe it is because of the prunes?' Vika sharpens this direct term at once: "chernosliva" means "prunes, dried plums" (from "chernosliv"), giving the line its exact edge.
+- 'It is pure vinegar.' Barinov states that thought at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Dear friends, unfortunately it is time for me to head to the airport.' Vika responds quietly around Barinov, steering the talk right where she wants it.
+- 'Viktor Petrovich.' Vika gives that answer in earnest: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'Here are the keys to my.' Vika voices this warning at once: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'New car.' Barinov steps in at once with Vika, without trying to dress up how he really feels.

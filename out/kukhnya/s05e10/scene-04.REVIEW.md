@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Will you measure the thickness of the carpet too?' Max challenges quietly toward Kostya here, linking "tolshchinu" ("thickness"), "kovra" ("carpet, rug"), and "izmeryat" ("to measure") in one brisk exchange.
-- 'Definitely! Quite right.' Kostya picks a lively direction in front of Sveta, combining "obyazatelno" ("surely, without fail") and "pravilno" ("right") so the key meaning lands right away.
-- 'The moustached man did not use the cloakroom, so he stays with us.' Max offers a firm stance at once, building the phrase around "usatyy" ("friend") and "garderobe" ("cloakroom") for a crisp, natural delivery.
-- 'Maybe we would do better not to mess with him?' Kostya quizzes pointedly beside Sveta, joining "mozhet" ("can") to "budem" ("will") so every word pulls its weight.
-- 'Sveta, will you help?' Max checks decisively toward Kostya here, using "sveta" (from "svet", "electricity") alongside "pomozhesh" ("you'll help") to shape the meaning.
-- 'One minute.' Sveta picks a pointed bearing in the scene, leaning on "minutu" ("a minute") before closing the thought with "odnu" ("one").
-- 'Have you not finished yet? You are doing everything very slowly.' Kostya presses firmly during the talk, leaning on "yeshchyo" ("more, still") before closing the thought with "zakonchili" ("to finish, to complete").
-- 'I cannot wait any longer.' Kostya favors a firm stance without hesitation, linking "mogu" ("can"), "bolshe" ("more"), and "zhdat" ("to wait") in one brisk exchange.
-- 'I am doing it, I am doing it.' Sveta sustains an emphatic direction during the exchange, pairing "delayu" ("I make") with "ya" ("I") to get the point across in plain spoken Russian.
-- 'Why are you deleting the database? What are you doing?' Max prompts steadily right away, pairing "zachem" ("what for") with "bazu" ("database") to get the point across in plain spoken Russian.
-- 'I do not know.' Sveta picks an earnest course across the room, anchoring the Russian line on "znayu" ("know") and "ya" ("I") without extra filler.
-- 'The hypnotist is still in the hotel!' Max shares a pointed footing in this beat, weaving "gipnotizyor" ("hypnotist") together with "yeshchyo" ("more, still") just the way native speakers do.
+- 'Will you measure the thickness of the carpet too?' Max leans on one loaded expression with Kostya: "tolshchinu" means "thickness" (from "tolshchina"), giving the line its exact edge.
+- 'Definitely! Quite right.' Kostya shapes the reply at once: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'The moustached man did not use the cloakroom, so he stays with us.' Max weighs in bluntly to be clear, keeping the focus on what actually matters here.
+- 'Maybe we would do better not to mess with him?' Kostya features this sharp piece right here: "svyazyvatsya" means "to mess with", and it carries the main weight of what Kostya is saying.
+- 'Sveta, will you help?' Max frames that thought with candor: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'One minute.' Sveta holds firm promptly on the spot, before Max can change the subject.
+- 'Have you not finished yet? You are doing everything very slowly.' Kostya grounds one pointed touch in reply: "zakonchili" means "to finish, to complete" (from "zakonchit"), giving the line its exact edge.
+- 'I cannot wait any longer.' Kostya speaks up calmly hearing Sveta, shifting the whole mood of the room in a single beat.
+- 'I am doing it, I am doing it.' Sveta stands firm promptly with a nod, watching Kostya's face to see how the news lands.
+- 'Why are you deleting the database? What are you doing?' Max uses this key choice at once: "udalyayesh" means "delete" (from "udalyat"), giving the line its exact edge.
+- 'I do not know.' Sveta shapes the reply to Kostya: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'The hypnotist is still in the hotel!' Max opens up sharply as things stand, making his position completely clear.

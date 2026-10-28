@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you like it?' Max quizzes openly to the guest here, pairing "ponravilos" ("pleased, was liked") with "vam" ("you") to get the point across in plain spoken Russian.
-- 'You know, it is delicious.' The guest sustains a brisk posture without hesitation, using "znayesh" (from "znat", "know") alongside "vkusno" ("it's tasty") to shape the meaning.
-- 'Well then, gentlemen, shall we sign?' The guest questions naturally beside Max, building the phrase around "gospoda" ("gentlemen") and "podpishem" ("will sign") for a crisp, natural delivery.
-- 'Of course! We need to celebrate this with a drink.' The guest picks an easygoing line in the room, anchoring the Russian line on "konechno" ("of course") and "nado" ("it is necessary") without extra filler.
-- 'Some champagne!' The guest offers an emphatic posture at once, using "shampanskogo" ("of champagne") by itself, a common way spoken Russian keeps fast dialogue punchy.
-- 'I will open it right now and bring it.' Max conveys a steady footing across the room, joining "seychas" ("now") to "otkroyu" ("to open") so every word pulls its weight.
-- 'What do you mean 'I will open it'? Open it here.' The guest inquires sharply without hesitation, building the phrase around "znachit" ("then, so") and "otkroyu" ("to open") for a crisp, natural delivery.
-- 'And the last signature right here.' The guest adopts a frank posture at once, building the phrase around "poslednyaya" ("last, final") and "podpis" ("signature") for a crisp, natural delivery.
-- 'Excuse me! Forgive me!' Max projects a brisk approach as they talk, putting "izvinite" ("sorry, excuse me") alongside "prostite" ("excuse me") in a tight, everyday turn of phrase.
-- 'Your dinner is on the house.' Max conveys a calm angle across the room, linking "uzhin" ("dinner") directly with "schyot" ("counting, account"), since Russian drops "is" and "are" in the present.
-- 'And where is the restroom here?' The guest wonders warmly toward Max here, placing "gde" ("where") straight beside "zdes" ("here") with no word for "to be" needed.
-- 'I will show you the way.' Max picks a measured manner in the room, anchoring the Russian line on "provozhu" ("will walk out") and "ya" ("I") without extra filler.
+- 'Did you like it?' Max features one vivid word for the guest: "ponravilos" means "pleased, was liked" (from "ponravitsya"), giving the line its exact edge.
+- 'You know, it is delicious.' The guest aims this line around Max: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Well then, gentlemen, shall we sign?' The guest challenges evenly while looking straight at Max here.
+- 'Of course! We need to celebrate this with a drink.' The guest reaches for one concrete touch with Max: "konechno" means "of course", and it carries the main weight of what the guest is saying.
+- 'Some champagne!' The guest aims that thought with candor: spoken Russian trims this down to just 1 words, dropping the extra helper words that English has to spell out.
+- 'I will open it right now and bring it.' Max fires back openly toward the guest, grounding the moment in plain reality.
+- 'What do you mean 'I will open it'? Open it here.' The guest reaches for one direct term for Max: "otkryvay" means "to open" (from "otkryvat"), giving the line its exact edge.
+- 'And the last signature right here.' The guest reacts candidly hearing Max, shifting the whole mood of the room in a single beat.
+- 'Excuse me! Forgive me!' Max jumps in right away to be clear, watching the guest's face to see how the news lands.
+- 'Your dinner is on the house.' Max emphasizes one colorful term toward the guest: "schyot" means "counting, account", and it carries the main weight of what Max is saying.
+- 'And where is the restroom here?' The guest puts the thought at once: using "u vas" (literally "by you") is how Russian politely asks or talks about what someone has on their side.
+- 'I will show you the way.' Max holds firm warmly before the guest, bringing things back to earth after the buildup.

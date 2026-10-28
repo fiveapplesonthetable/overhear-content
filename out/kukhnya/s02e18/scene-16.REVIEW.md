@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And nothing can be fixed anymore.' Barinov strikes a serious tack in the scene, anchoring the Russian line on "ispravit" ("to fix, to correct") and "uzhe" ("already, now") without extra filler.
-- 'Because I am not going to repeat my old mistakes.' Vika brings a playful attitude as they talk, combining "potomu" ("because") and "budu" ("will be") so the key meaning lands right away.
-- 'Wait, do you want a snail?' Nastya asks firmly beside Barinov, pairing "ulitku" ("snail, escargot") with "budesh" ("will") to get the point across in plain spoken Russian.
-- 'Right here in our kitchen.' Barinov shows an unhurried line straight away, joining "kukhne" ("kitchen") to "nas" ("us") so every word pulls its weight.
-- 'There he is, the guy with the bag!' Vika keeps a pointed position at once, pairing "paketom" ("with a package") with "vot" ("there, here") to get the point across in plain spoken Russian.
-- 'Hey! What the hell is this?' Nastya queries lightly as the beat lands, building the phrase around "ey" ("hey") and "nu" ("oh, come on") for a crisp, natural delivery.
-- 'Viktor Petrovich, is that you?' Vika checks openly toward Barinov here, linking "viktor" ("Viktor"), "petrovich" ("Petrovich"), and "eto" ("this") in one brisk exchange.
-- 'Where is my daughter?' Vika queries steadily without holding back, putting "gde" ("where") alongside "doch" ("daughter") in a tight, everyday turn of phrase.
-- 'Answer me, where is my daughter?' Nastya queries pointedly in front of Barinov, joining "otvechay" ("answer") to "gde" ("where") so every word pulls its weight.
-- 'What daughter are you talking about?' Barinov prompts calmly in the scene, leaning on "doch" ("daughter") before closing the thought with "kakaya" ("what, which").
-- 'Where is Nastya?' Vika questions lightly right away, placing "gde" ("where") straight beside "nastya" ("Nastya") with no word for "to be" needed.
-- 'Dad, I am right here!' Nastya picks a grounded posture right away, using "pap" (from "papa", "Dad") alongside "zdes" ("here") to shape the meaning.
-- 'Well, basically.' Barinov keeps a resolute line as the scene unfolds, putting all the weight on "obshchem-to" ("shared, common") so the reply lands immediately.
+- 'And nothing can be fixed anymore.' Barinov sharpens this clear word at once: "ispravit" means "to fix, to correct", and it carries the main weight of what Barinov is saying.
+- 'Because I am not going to repeat my old mistakes.' Vika continues right away to be clear, bringing things back to earth after the buildup.
+- 'Wait, do you want a snail?' Nastya tests straight out as Barinov tries to explain the situation.
+- 'Right here in our kitchen.' Barinov picks this telling touch at once: "kukhne" means "kitchen" (from "kukhnya"), giving the line its exact edge.
+- 'There he is, the guy with the bag!' Vika aims that thought for Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Hey! What the hell is this?' Nastya questions briskly while looking straight at Vika here.
+- 'Viktor Petrovich, is that you?' Vika makes that reply before Barinov: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Where is my daughter?' Vika sends this line plainly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Answer me, where is my daughter?' Nastya checks wryly what Barinov is actually getting at here.
+- 'What daughter are you talking about?' Barinov uses one practical choice in reply: "doch" means "daughter", and it carries the main weight of what Barinov is saying.
+- 'Where is Nastya?' Vika drops that point with candor: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Dad, I am right here!' Nastya holds firm dryly as they talk, letting the remark speak for itself.
+- 'Well, basically.' Barinov underscores one pointed element for Nastya: "obshchem-to" means "shared, common" (from "obshchiy"), giving the line its exact edge.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well, here is your Stepan.' Max displays a wry footing in the conversation, anchoring the Russian line on "nu" ("oh, come on") and "vot" ("there, here") without extra filler.
-- 'Let's make a swap.' Max sets a clear direction on the spot, anchoring the Russian line on "davay" ("let's") and "sdelayem" ("we'll do") without extra filler.
-- 'This is a completely different boy.' Max picks a brisk position in the room, combining "sovsem" ("at all") and "drugoy" ("other") so the key meaning lands right away.
-- 'Children cannot change that fast.' Max sustains an easygoing angle in their talk, leaning on "deti" ("kids") before closing the thought with "mogut" ("can").
-- 'Take off the mask and take a look.' Max takes a grounded rhythm toward Barinov, building the phrase around "snimite" ("withdraw, remove") and "masku" ("mask") for a crisp, natural delivery.
-- 'Where is my grandson then?' Max questions honestly right away, linking "gde" ("where") directly with "togda" ("back then"), since Russian drops "is" and "are" in the present.
-- 'We lifted the safe, careful!' Barinov favors a natural tempo without hesitation, building the phrase around "podnyali" ("lifted, raised") and "seyf" ("safe") for a crisp, natural delivery.
-- 'We go around the table carefully on the right.' Fedya establishes a calm angle in front of Max, combining "sprava" ("to the right") and "akkuratno" ("carefully, gently") so the key meaning lands right away.
-- 'Chef, you could help us instead!' Fedya shares a measured bearing as the scene unfolds, leaning on "pomogli" ("helped") before closing the thought with "luchshe" ("better").
-- 'Actually, that is exactly what I am doing.' Barinov takes an earnest view with Max, pairing "voobshche-to" ("actually") with "zanimayus" ("am handling") to get the point across in plain spoken Russian.
-- 'Bring it this way, pull toward yourself.' Fedya displays an emphatic view straight away, linking "davay" ("let's"), "syuda" ("here"), and "tyani" ("drag out, delay") in one brisk exchange.
-- 'That is it, we are done for!' Fedya brings a calm view across the room, pairing "konets" ("end") with "vsyo" ("everything") so the "-sya" ending carries the action.
+- 'Well, here is your Stepan.' Max pushes back evenly watching Barinov, before Barinov can change the subject.
+- 'Let's make a swap.' Max frames one colorful expression toward Fedya: "sdelayem" means "we'll do" (from "sdelat"), giving the line its exact edge.
+- 'This is a completely different boy.' Max voices this answer at once: adding "sovsem" ("completely, at all") pushes the statement all the way, leaving zero room for doubt.
+- 'Children cannot change that fast.' Max stands firm plainly with a nod, leaving no doubt about where he stands.
+- 'Take off the mask and take a look.' Max uses one memorable term right here: "posmotrite" means "look" (from "posmotret"), giving the line its exact edge.
+- 'Where is my grandson then?' Max delivers this update frankly here: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'We lifted the safe, careful!' Barinov speaks up bluntly with a nod, saying out loud what both of them already know.
+- 'We go around the table carefully on the right.' Fedya anchors this direct element at once: "akkuratno" means "carefully, gently", and it carries the main weight of what Fedya is saying.
+- 'Chef, you could help us instead!' Fedya opens up pointedly hearing Barinov, refusing to let the moment slip past.
+- 'Actually, that is exactly what I am doing.' Barinov speaks lightly with a sigh, making his position completely clear.
+- 'Bring it this way, pull toward yourself.' Fedya picks one concrete expression at once: "davay" means "let's" (from "davat"), giving the line its exact edge.
+- 'That is it, we are done for!' Fedya drops this line for Max: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Did you see, she did not even touch it!' Fedya keeps a calm tone in the scene, weaving "videl" ("saw, have seen") together with "tronula" ("to touch") just the way native speakers do.
-- 'After all, a dog never eats dog.' Fedya sustains a playful approach in the conversation, joining "sobaka" ("dog") to "nikogda" ("never") so every word pulls its weight.
-- 'Chef, imagine what strange meat they brought.' Senya sets a wry tempo during the exchange, combining "predstavte" ("to imagine") and "strannoye" ("strange, odd") so the key meaning lands right away.
-- 'Here, look at this dog yourself.' Senya maintains an emphatic tempo on the spot, pairing "posmotrite" ("look") with "sobaku" ("dog") to get the point across in plain spoken Russian.
-- 'Immediately remove the dog from my kitchen!' Barinov offers a measured rhythm in this beat, anchoring the Russian line on "nemedlenno" ("immediately") and "uberite" ("take away, remove") without extra filler.
-- 'Quickly take her out to the courtyard, fools!' Barinov conveys an honest direction right away, pairing "bystro" ("quickly") with "uberite" ("take away, remove") to get the point across in plain spoken Russian.
-- 'What kind of foolish stereotypes do you have?' Barinov checks frankly as they speak, pairing "glupyye" ("silly, stupid") with "stereotipy" ("stereotypes") to get the point across in plain spoken Russian.
-- 'I see for sure that this is beef.' Barinov maintains a clear style in front of Senya, pairing "tochno" ("definitely") with "vizhu" ("see") to get the point across in plain spoken Russian.
-- 'Chef, maybe we should bury this?' Senya tests steadily during the talk, pairing "mozhet" ("can") with "byt" ("be") to get the point across in plain spoken Russian.
-- 'Or maybe I should bury all of you?' Barinov asks frankly to make the point, using "mozhet" (from "moch", "can") alongside "byt" ("be") to shape the meaning.
-- 'No, chef, we will not do it anymore.' Fedya adopts a warm tempo beside Barinov, putting "bolshe" ("more") alongside "budem" ("will") in a tight, everyday turn of phrase.
-- 'Go away, I will cook everything myself today.' Barinov strikes a candid course beside Senya, joining "ukhodite" ("leave, go away") to "segodnya" ("today") so every word pulls its weight.
+- 'Did you see, she did not even touch it!' Fedya sharpens one telling touch right here: "tronula" means "to touch" (from "tronut"), giving the line its exact edge.
+- 'After all, a dog never eats dog.' Fedya delivers that thought with ease: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.
+- 'Chef, imagine what strange meat they brought.' Senya answers right away with a smile, bringing things back to earth after the buildup.
+- 'Here, look at this dog yourself.' Senya spotlights one memorable expression at once: "posmotrite" means "look" (from "posmotret"), giving the line its exact edge.
+- 'Immediately remove the dog from my kitchen!' Barinov weighs in earnestly without a pause, letting the remark speak for itself.
+- 'Quickly take her out to the courtyard, fools!' Barinov fires back right away without any doubt, testing Senya's reaction in the middle of the exchange.
+- 'What kind of foolish stereotypes do you have?' Barinov picks one vivid word at once: "stereotipy" means "stereotypes" (from "stereotip"), giving the line its exact edge.
+- 'I see for sure that this is beef.' Barinov chimes in steadily as things stand, testing Senya's reaction in the middle of the exchange.
+- 'Chef, maybe we should bury this?' Senya challenges earnestly where this conversation is heading next.
+- 'Or maybe I should bury all of you?' Barinov grounds one familiar expression on cue: "pokhoronit" means "to bury", and it carries the main weight of what Barinov is saying.
+- 'No, chef, we will not do it anymore.' Fedya reacts evenly toward Barinov, grounding the moment in plain reality.
+- 'Go away, I will cook everything myself today.' Barinov replies frankly beside Senya, to clear the air between them once and for all.

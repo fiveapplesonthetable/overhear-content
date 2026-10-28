@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tell me, are you really disabled?' The inspector tests directly on the spot, linking "skazhite" ("tell"), "samom" ("very"), and "dele" ("case") in one brisk exchange.
-- 'I did not know about that at all.' The inspector brings a natural manner across the room, combining the intensifier "sovsem" ("completely, at all") with "znal" ("knew") to give the line its natural spoken rhythm.
-- 'Viktor does not like to talk about this.' Mikhail strikes a firm angle in the room, leaning on "lyubit" ("loves") before closing the thought with "govorit" ("to talk").
-- 'His legs were completely paralyzed.' Mikhail brings an easygoing note during the exchange, anchoring the Russian line on "polnostyu" ("completely") and "paralizovalo" ("paralyzed") without extra filler.
-- 'But our chef does not give up.' Mikhail presents a steady footing in their talk, joining "sdayotsya" ("gives up") to "no" ("but") so every word pulls its weight.
-- 'He works here every day.' Mikhail brings a resolute tempo in the conversation, pairing "kazhdyy" ("every") with "den" ("day") to get the point across in plain spoken Russian.
-- 'Your courage is worthy of great admiration.' The inspector shows a brisk stance at once, anchoring the Russian line on "muzhestvo" ("courage") and "dostoyno" ("worthily, properly") without extra filler.
-- 'Grandmother said this is not Kostya's father.' Nastya displays a serious tempo in front of Mikhail, putting "babushka" ("old lady") alongside "skazala" ("told") in a tight, everyday turn of phrase.
-- 'She is elderly, she could have mixed it up.' Nastya takes a pointed posture beside the inspector, joining "starenkaya" ("elderly, old") to "mogla" ("could") so every word pulls its weight.
-- 'You found him recently yourself, after all.' Nastya sustains a warm course in the conversation, weaving "nedavno" ("returned") together with "nashla" ("found, did you find") just the way native speakers do.
-- 'He confirmed that he is Kostya's father.' Nastya adopts a playful tack in front of the inspector, weaving "podtverdil" ("to confirm") together with "otets" ("father") just the way native speakers do.
-- 'That means this man is a sly swindler!' Mikhail favors a lively line as the scene unfolds, leaning on "znachit" ("then, so") before closing the thought with "chelovek" ("a man, a person").
+- 'Tell me, are you really disabled?' The inspector quizzes sharply where this conversation is heading next.
+- 'I did not know about that at all.' The inspector leans on one colorful piece right here: "sovsem" means "at all", and it carries the main weight of what the inspector is saying.
+- 'Viktor does not like to talk about this.' Mikhail replies steadily across the room, keeping the focus on what actually matters here.
+- 'His legs were completely paralyzed.' Mikhail continues sharply during the talk, keeping the focus on what actually matters here.
+- 'But our chef does not give up.' Mikhail emphasizes this key word on cue: "sdayotsya" means "gives up" (from "sdavatsya"), giving the line its exact edge.
+- 'He works here every day.' Mikhail continues lightly without any doubt, shifting the whole mood of the room in a single beat.
+- 'Your courage is worthy of great admiration.' The inspector steps in plainly with a sigh, saying out loud what both of them already know.
+- 'Grandmother said this is not Kostya's father.' Nastya highlights one direct choice with Mikhail: "babushka" means "old lady", and it carries the main weight of what Nastya is saying.
+- 'She is elderly, she could have mixed it up.' Nastya speaks plainly as things stand, saying out loud what both of them already know.
+- 'You found him recently yourself, after all.' Nastya stands firm candidly hearing Mikhail, without trying to dress up how she really feels.
+- 'He confirmed that he is Kostya's father.' Nastya favors one concrete term toward the inspector: "podtverdil" means "to confirm" (from "podtverdit"), giving the line its exact edge.
+- 'That means this man is a sly swindler!' Mikhail drops this statement right away: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

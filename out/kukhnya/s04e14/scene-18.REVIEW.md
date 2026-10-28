@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'My friends, forgive me that things turned out so foolishly.' Barinov keeps an unhurried tone with Senya, linking "druzya" ("friends"), "prostite" ("excuse me"), and "glupo" ("stupid") in one brisk exchange.
-- 'I really wanted to make it as good as possible.' Barinov chooses an unhurried posture straight away, linking "pravda" ("honestly"), "khotel" ("wanted"), and "sdelat" ("to do") in one brisk exchange.
-- 'Come on, Chef, it is no big deal!' Senya takes a warm tone beside Barinov, linking "strashnogo" ("terrible, serious"), "da" ("yes"), and "ladno" ("all right") in one brisk exchange.
-- 'It is just a pity we did not get to eat the main course!' Senya favors a lively direction in this beat, leaning on "zhal" ("it is a pity") before closing the thought with "tolko" ("only").
-- 'Sorry, Vitya, but it is already time for us to go home.' Tanya chooses a steady note beside Barinov, putting "izvini" ("sorry, excuse me") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'Dad, that was your very best birthday party!' Tanya offers a playful attitude as they talk, joining "papa" ("Dad") to "byl" ("was") so every word pulls its weight.
-- 'Thank you, my darling, see you soon!' Barinov establishes a measured angle toward Senya, pairing "spasibo" ("thank you") with "rodnaya" ("dear, darling") to get the point across in plain spoken Russian.
-- 'Chef, maybe we can still continue the celebration?' Senya asks briskly for Tanya's benefit, pairing "mozhet" ("can") with "yeshchyo" ("more, still") to get the point across in plain spoken Russian.
-- 'Only let's sit in a normal quiet place.' Senya favors a clear footing straight away, linking "tolko" ("only"), "davay" ("let's"), and "posidim" ("we'll sit for a while") in one brisk exchange.
-- 'We can, after all we already saved the leopards today!' Barinov sets a playful tack in the scene, leaning on "mozhno" ("may, can") before closing the thought with "leopardov" ("leopards").
-- 'Fedya, hurry up, grab a bottle of whiskey!' Barinov offers a playful approach beside Senya, anchoring the Russian line on "davay" ("let's") and "bystreye" ("faster") without extra filler.
-- 'Dad, I hope I have not missed anything yet?' Tanya asks naturally with Senya now, linking "papa" ("Dad"), "nadeyus" ("hope so"), and "yeshchyo" ("more, still") in one brisk exchange.
+- 'My friends, forgive me that things turned out so foolishly.' Barinov counters plainly without any doubt, steering the talk right where he wants it.
+- 'I really wanted to make it as good as possible.' Barinov chooses this direct expression in earnest: "pravda" means "honestly", and it carries the main weight of what Barinov is saying.
+- 'Come on, Chef, it is no big deal!' Senya phrases this warning toward Barinov: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'It is just a pity we did not get to eat the main course!' Senya speaks up quietly watching Tanya, leaving no doubt about where he stands.
+- 'Sorry, Vitya, but it is already time for us to go home.' Tanya chooses one classic piece in earnest: "izvini" means "sorry, excuse me" (from "izvinit"), giving the line its exact edge.
+- 'Dad, that was your very best birthday party!' Tanya picks this direct touch toward Senya: "luchshiy" means "best", and it carries the main weight of what Tanya is saying.
+- 'Thank you, my darling, see you soon!' Barinov cuts in steadily as things stand, refusing to let the moment slip past.
+- 'Chef, maybe we can still continue the celebration?' Senya spotlights this clear detail in reply: "prodolzhim" means "will continue" (from "prodolzhit"), giving the line its exact edge.
+- 'Only let's sit in a normal quiet place.' Senya offers that point before Barinov: starting with "davay" is the classic everyday Russian way to say "come on, let's do this" between people on close terms.
+- 'We can, after all we already saved the leopards today!' Barinov answers right away before Tanya, without trying to dress up how he really feels.
+- 'Fedya, hurry up, grab a bottle of whiskey!' Barinov frames one key touch in earnest: "butylku" means "a bottle" (from "butylka"), giving the line its exact edge.
+- 'Dad, I hope I have not missed anything yet?' Tanya brings this answer right away: Russian happily doubles the negative here — pairing "never" or "nothing" with "ne" ("not") — which is the only natural way to say it.

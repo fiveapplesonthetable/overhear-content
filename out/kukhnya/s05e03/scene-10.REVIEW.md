@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I only want a small piece.' Nagiyev offers a wry view across the room, joining "khochu" ("want") to "tolko" ("only") so every word pulls its weight.
-- 'Just twenty thousand.' Nagiyev shares an easygoing style for Eleonora, leaning on "tysyach" ("thousand") before closing the thought with "dvadtsat" ("twenty").
-- 'Well, alright, let's make a deal.' Eleonora establishes an easygoing tack in front of Barinov, pairing "dogovorimsya" ("we'll arrange") with "khorosho" ("good, fine") so the "-sya" ending carries the action.
-- 'You can stay in the luxury suite at any time.' Eleonora sets a thoughtful stance in their talk, pairing "mozhesh" ("can") with "lyuboye" ("any") to get the point across in plain spoken Russian.
-- 'Fine, only for your sake and nature's.' Nagiyev presents a candid mood as they talk, combining "tolko" ("only") and "prirody" ("nature") so the key meaning lands right away.
-- 'Look, they gave you new shoes!' Nagiyev shares a serious tempo straight away, combining "smotri" ("look") and "botinki" ("boots") so the key meaning lands right away.
-- 'Just a reunion of old friends.' Nagiyev adopts a steady tack for Barinov, anchoring the Russian line on "prosto" ("just") and "vstrecha" ("a meeting") without extra filler.
-- 'Alright, I will go work.' Barinov sets a warm footing beside Nagiyev, leaning on "poydu" ("go") before closing the thought with "rabotat" ("to work").
-- 'Share your experience with me.' Nagiyev keeps a steady direction right away, leaning on "podelis" ("share") before closing the thought with "opytom" ("experience").
-- 'How is it working for your ex-wife?' Nagiyev tests naturally from the start, building the phrase around "kak" ("how") and "rabotat" ("to work") for a crisp, natural delivery.
-- 'Better with my ex than with you in a suit jacket.' Barinov keeps a thoughtful tack on the spot, pairing "luchshe" ("better") with "byvshey" ("of your ex") to get the point across in plain spoken Russian.
-- 'Oh, how much that hurts right now!' Nagiyev shows a direct direction during the exchange, joining "kak" ("how") to "seychas" ("now") so every word pulls its weight.
-- 'Go ahead and read your script.' Barinov strikes a resolute footing in the conversation, joining "davay" ("let's") to "chitay" ("read") so every word pulls its weight.
-- 'I am checking into the best luxury suite right now.' Nagiyev chooses an earnest rhythm during the exchange, putting "seychas" ("now") alongside "zaselyus" ("I will check in") in a tight, everyday turn of phrase.
+- 'I only want a small piece.' Nagiyev grounds one vivid expression at once: "malenkiy" means "short, little", and it carries the main weight of what Nagiyev is saying.
+- 'Just twenty thousand.' Nagiyev hands over this warning on cue: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Well, alright, let's make a deal.' Eleonora cuts in decisively as they talk, watching Barinov's face to see how the news lands.
+- 'You can stay in the luxury suite at any time.' Eleonora spotlights one concrete choice toward Nagiyev: "ostanavlivatsya" means "stop, stay", and it carries the main weight of what Eleonora is saying.
+- 'Fine, only for your sake and nature's.' Nagiyev lays out that thought without pause: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Barinov is on board.
+- 'Look, they gave you new shoes!' Nagiyev opens up sharply with a sigh, so Eleonora knows he is not just making small talk.
+- 'Just a reunion of old friends.' Nagiyev spotlights this direct detail on cue: "vstrecha" means "a meeting", and it carries the main weight of what Nagiyev is saying.
+- 'Alright, I will go work.' Barinov delivers the comment with candor: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Nagiyev is on board.
+- 'Share your experience with me.' Nagiyev counters quietly to be clear, without trying to dress up how he really feels.
+- 'How is it working for your ex-wife?' Nagiyev picks one clear touch with Eleonora: "byvshey" means "of your ex" (from "byvshaya"), giving the line its exact edge.
+- 'Better with my ex than with you in a suit jacket.' Barinov counters decisively toward Eleonora, refusing to let the moment slip past.
+- 'Oh, how much that hurts right now!' Nagiyev steps in pointedly watching Eleonora, grounding the moment in plain reality.
+- 'Go ahead and read your script.' Barinov stresses one sharp piece right here: "stsenariy" means "script", and it carries the main weight of what Barinov is saying.
+- 'I am checking into the best luxury suite right now.' Nagiyev responds bluntly facing Eleonora, watching Eleonora's face to see how the news lands.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max is unreachable, he is not picking up the phone.' Kostya shares an emphatic style in the scene, pairing "nedostupen" ("unreachable") with "trubku" ("the receiver") to get the point across in plain spoken Russian.
-- 'Where did Styopa get red boots from?' Kostya presses calmly without holding back, building the phrase around "otkuda" ("where from") and "styopy" ("get") for a crisp, natural delivery.
-- 'Grandpa probably bought them for him.' Kostya shows a resolute position without hesitation, building the phrase around "ded" ("grandfather") and "navernoye" ("probably") for a crisp, natural delivery.
-- 'Are you in your right mind at all?' German questions plainly in the room, building the phrase around "voobshche" ("at all") and "ume" ("mind, head") for a crisp, natural delivery.
-- 'What have you done here?' German questions openly with Barinov now, combining "tut" ("here") and "sdelali" ("did, have done") so the key meaning lands right away.
-- 'You saw me, I was standing right here.' Barinov projects a playful view right away, building the phrase around "videli" ("saw") and "tut" ("here") for a crisp, natural delivery.
-- 'I could never lift this thing alone.' Barinov shows a resolute mood at once, building the phrase around "shtuku" ("a grand, thing") and "podnimu" ("will rouse") for a crisp, natural delivery.
-- 'You need about three people here.' Barinov holds an easygoing direction during the exchange, pairing "tut" ("here") with "cheloveka" ("a man, a person") to get the point across in plain spoken Russian.
-- 'Now let the police sort it out.' German sets an unhurried course at once, putting "teper" ("now") alongside "uzhe" ("already, now") in a tight, everyday turn of phrase.
-- 'So you are a tough guy here, are you?' Barinov probes wryly in the room, pairing "znachit" ("then, so") with "tut" ("here") to get the point across in plain spoken Russian.
-- 'Do you want to settle this like men?' German challenges directly to keep things clear, building the phrase around "khochesh" ("do you want") and "po-muzhski" ("like a man") for a crisp, natural delivery.
-- 'With pleasure, take this punch!' German offers a firm tack on the spot, weaving "udovolstviyem" ("pleasure") together with "derzhi" ("here you go") just the way native speakers do.
+- 'Max is unreachable, he is not picking up the phone.' Kostya spotlights one clear detail for Barinov: "nedostupen" means "unreachable", and it carries the main weight of what Kostya is saying.
+- 'Where did Styopa get red boots from?' Kostya phrases the comeback to German: putting the question word "otkuda" right at the front of the line lets German hear the point of the question on the very first beat.
+- 'Grandpa probably bought them for him.' Kostya steps in openly without any doubt, bringing things back to earth after the buildup.
+- 'Are you in your right mind at all?' German colors one pointed expression on cue: "voobshche" means "at all", and it carries the main weight of what German is saying.
+- 'What have you done here?' German gives the reaction with warmth: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'You saw me, I was standing right here.' Barinov jumps in at once with a sigh, leaving no doubt about where he stands.
+- 'I could never lift this thing alone.' Barinov points to one telling expression in reply: "shtuku" means "a grand, thing" (from "shtuka"), giving the line its exact edge.
+- 'You need about three people here.' Barinov directs that thought with candor: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Now let the police sort it out.' German answers right away with a shrug, steering the talk right where he wants it.
+- 'So you are a tough guy here, are you?' Barinov highlights one telling expression at once: "muzhik" means "a real man", and it carries the main weight of what Barinov is saying.
+- 'Do you want to settle this like men?' German makes the remark at once: the "-sya" ending on "razobratsya" ("to deal with") turns the action inward or makes it happen between people naturally.
+- 'With pleasure, take this punch!' German weighs in boldly in their talk, shifting the whole mood of the room in a single beat.

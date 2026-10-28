@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I borrowed the money for this television.' Nastya conveys a resolute direction right away, combining "televizor" ("television") and "dengi" ("money") so the key meaning lands right away.
-- 'I borrowed them from my dad!' Nastya establishes a steady tempo in the scene, putting "vzyala" ("took") alongside "dolg" ("debt") in a tight, everyday turn of phrase.
-- 'Son, you should have used your head first.' The guest shows a pointed posture in front of Kostya, leaning on "synok" ("son") before closing the thought with "snachala" ("first, at first").
-- 'There is no need to swing a hammer around right away.' The guest projects a direct position across the room, building the phrase around "nado" ("it is necessary") and "srazu" ("at once") for a crisp, natural delivery.
-- 'And did you think before coming here?' Kostya checks directly in front of the guest, weaving "dumal" ("thought") together with "prezhde" ("before") just the way native speakers do.
-- 'There is nothing but trouble from you in the house!' Kostya shows a direct attitude during the exchange, joining "dome" ("house") to "problemy" ("problems") so every word pulls its weight.
-- 'Do not bring your mother into this, do you hear me?' The guest challenges earnestly to keep things clear, leaning on "trogay" ("touch") before closing the thought with "mat" ("mother").
-- 'Your mother was a wonderful woman.' The guest holds a warm line beside Nastya, joining "mama" ("mum, mother") to "byla" ("was") so every word pulls its weight.
-- 'Why then did she choose a man like you?' Kostya challenges wryly as they speak, linking "zachem" ("what for"), "cheloveka" ("a man, a person"), and "vybrala" ("chose") in one brisk exchange.
-- 'Doctor, who hit you so hard like that?' Nastya asks quietly without hesitation, combining "doktor" ("Doctor") and "silno" ("strongly, much") so the key meaning lands right away.
-- 'My own father hit me like that.' Kostya establishes a warm posture without hesitation, combining "rodnoy" ("dear friend") and "otets" ("father") so the key meaning lands right away.
-- 'Honestly speaking, he hit me for a good reason.' Kostya sustains a clear attitude in the room, anchoring the Russian line on "chestno" ("honestly") and "govorya" ("speaking") without extra filler.
+- 'I borrowed the money for this television.' Nastya fires back openly before the guest, without trying to dress up how she really feels.
+- 'I borrowed them from my dad!' Nastya cuts in warmly in their talk, so Kostya knows she is not just making small talk.
+- 'Son, you should have used your head first.' The guest focuses on one key choice for Kostya: "golovoy" means "with one's head" (from "golova"), giving the line its exact edge.
+- 'There is no need to swing a hammer around right away.' The guest lays out that remark for Nastya: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'And did you think before coming here?' Kostya wonders quietly before the guest can change the subject.
+- 'There is nothing but trouble from you in the house!' Kostya focuses on one telling detail in reply: "problemy" means "problems" (from "problema"), giving the line its exact edge.
+- 'Do not bring your mother into this, do you hear me?' The guest aims the reaction with warmth: Russian keeps the exact word order of a normal statement here, turning it into a question for Kostya purely through rising pitch at the end.
+- 'Your mother was a wonderful woman.' The guest proceeds decisively with Nastya, refusing to let the moment slip past.
+- 'Why then did she choose a man like you?' Kostya spotlights one concrete word with the guest: "vybrala" means "chose" (from "vybrat"), giving the line its exact edge.
+- 'Doctor, who hit you so hard like that?' Nastya sends that remark plainly here: putting the question word "kto" right at the front of the line lets Kostya hear the point of the question on the very first beat.
+- 'My own father hit me like that.' Kostya cuts in openly on the spot, bringing things back to earth after the buildup.
+- 'Honestly speaking, he hit me for a good reason.' Kostya picks one direct piece with Nastya: "chestno" means "honestly", and it carries the main weight of what Kostya is saying.

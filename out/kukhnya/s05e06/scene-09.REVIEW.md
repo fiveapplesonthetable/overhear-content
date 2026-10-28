@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'New order: stellate sturgeon in white wine.' Lyova sustains an unhurried line in the scene, building the phrase around "novyy" ("new") and "zakaz" ("order") for a crisp, natural delivery.
-- 'Lyova, where is the fish?' Senya questions quietly in the scene, putting "gde" ("where") alongside "ryba" ("fish") in a tight, everyday turn of phrase.
-- 'There is nothing here!' Lyova projects a thoughtful direction right away, leaning on "nichego" ("nothing") before closing the thought with "net" ("no").
-- 'Am I immediately to blame?' Senya tests calmly in this moment, linking "srazu" ("at once") directly with "vinovat" ("at fault, guilty"), since Russian drops "is" and "are" in the present.
-- 'As if nobody steals except me.' Senya establishes a thoughtful bearing in front of Eleonora, pairing "kak" ("how") with "voruyet" ("steals") to get the point across in plain spoken Russian.
-- 'Then I will conduct my own investigation and find the thief.' Senya chooses an honest bearing as they talk, putting "togda" ("back then") alongside "provedu" ("will spend") in a tight, everyday turn of phrase.
-- 'For now, everyone is under suspicion.' Senya sustains a natural course beside Eleonora, linking "poka" ("bye") directly with "podozreniyem" ("suspicion"), since Russian drops "is" and "are" in the present.
-- 'How have you not sent your own daughter to an asylum yet?' Lyova prompts directly with Senya now, anchoring the Russian line on "kak" ("how") and "yeshchyo" ("more, still") without extra filler.
-- 'Vitya, stop it.' Eleonora keeps a sharp posture on the spot, combining "zakanchivay" ("to finish, to conclude") and "vitya" ("Vitya") so the key meaning lands right away.
-- 'He is a good specialist.' Eleonora takes an easygoing position across the room, weaving "khoroshiy" ("good") together with "spetsialist" ("specialist") just the way native speakers do.
-- 'Back in the day he helped me a lot.' Eleonora displays a steady rhythm in front of Lyova, weaving "vremya" ("time") together with "ochen" ("very much") just the way native speakers do.
-- 'Either you do not respond to treatment, or he is a bad specialist.' Lyova adopts a measured tone right away, putting "lecheniyu" ("treatment") alongside "poddayoshsya" ("respond to") in a tight, everyday turn of phrase.
+- 'New order: stellate sturgeon in white wine.' Lyova stands firm earnestly before Eleonora, bringing things back to earth after the buildup.
+- 'Lyova, where is the fish?' Senya picks this direct choice right here: "ryba" means "fish", and it carries the main weight of what Senya is saying.
+- 'There is nothing here!' Lyova voices that thought with warmth: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Am I immediately to blame?' Senya asks frankly why things suddenly took this turn between them.
+- 'As if nobody steals except me.' Senya reaches for one practical detail with Eleonora: "voruyet" means "steals" (from "vorovat"), giving the line its exact edge.
+- 'Then I will conduct my own investigation and find the thief.' Senya responds sharply with a shrug, testing Lyova's reaction in the middle of the exchange.
+- 'For now, everyone is under suspicion.' Senya stands firm dryly across the room, leaving no doubt about where he stands.
+- 'How have you not sent your own daughter to an asylum yet?' Lyova uses one sharp term toward Senya: "psikhushku" means "mental hospital" (from "psikhushka"), giving the line its exact edge.
+- 'Vitya, stop it.' Eleonora delivers the comment plainly here: spoken Russian trims this down to just 2 words, dropping the extra helper words that English has to spell out.
+- 'He is a good specialist.' Eleonora speaks dryly hearing Senya, to clear the air between them once and for all.
+- 'Back in the day he helped me a lot.' Eleonora highlights this direct word toward Lyova: "vremya" means "time", and it carries the main weight of what Eleonora is saying.
+- 'Either you do not respond to treatment, or he is a bad specialist.' Lyova picks one memorable touch toward Senya: "spetsialist" means "specialist", and it carries the main weight of what Lyova is saying.

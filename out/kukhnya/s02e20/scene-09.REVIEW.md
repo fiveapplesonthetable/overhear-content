@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'That is what I thought.' Elena keeps a candid tone without hesitation, joining "dumala" ("thought") to "ya" ("I") so every word pulls its weight.
-- 'There is no surprise left in it anymore.' Elena adopts a serious tone in this beat, putting "uzhe" ("already, now") alongside "syurpriza" ("surprise") in a tight, everyday turn of phrase.
-- 'Take these flowers over to Elena Pavlovna.' Barinov keeps a measured angle in the room, using "otnesi" (from "otnesti", "take") alongside "tsvety" ("the flowers") to shape the meaning.
-- 'And what is the occasion?' Elena inquires evenly as the talk turns, anchoring the Russian line on "povod" ("reason, occasion") and "chto" ("what") without extra filler.
-- 'Ah, got it, Chef.' Elena sets a serious note in the scene, putting "ponyal" ("understood") alongside "vse" ("all") in a tight, everyday turn of phrase.
-- 'Someone asked me to hand this to you.' Elena offers a natural stance beside Barinov, joining "peredali" ("to pass on") to "vam" ("you") so every word pulls its weight.
-- 'Elena Pavlovna gave me this money to pay for the flowers.' Barinov chooses a lively approach as the scene unfolds, anchoring the Russian line on "tsvety" ("the flowers") and "otdala" ("to give, to hand over") without extra filler.
-- 'She said she does not want them.' Barinov conveys a firm bearing in this beat, building the phrase around "skazal" ("said") and "khochet" ("wants") for a crisp, natural delivery.
-- 'So that is how it is.' Barinov presents an emphatic angle in the conversation, weaving "vot" ("there, here") together with "ono" ("it") just the way native speakers do.
-- 'Understood. Right?' Elena queries steadily as the beat lands, building the phrase around "ponyatno" ("clear") and "da" ("yes") for a crisp, natural delivery.
-- 'Well, I will be going then.' Barinov shares a candid course in the room, combining "poshel" ("go, off you go") and "nu" ("oh, come on") so the key meaning lands right away.
-- 'And what now?' Elena inquires candidly without holding back, anchoring the Russian line on "chto" ("what") and "zhe" ("but, after all") without extra filler.
-- 'I am heading out.' Barinov brings an easygoing tack without hesitation, putting "poshel" ("go, off you go") alongside "ya" ("I") in a tight, everyday turn of phrase.
+- 'That is what I thought.' Elena counters warmly in their talk, steering the talk right where she wants it.
+- 'There is no surprise left in it anymore.' Elena colors one key term in reply: "syurpriza" means "surprise" (from "syurpriz"), giving the line its exact edge.
+- 'Take these flowers over to Elena Pavlovna.' Barinov counters warmly with a smile, to clear the air between them once and for all.
+- 'And what is the occasion?' Elena prompts bluntly in front of Barinov without any preamble.
+- 'Ah, got it, Chef.' Elena colors one telling detail toward Barinov: "ponyal" means "understood" (from "ponyat"), giving the line its exact edge.
+- 'Someone asked me to hand this to you.' Elena directs this point without pause: spoken Russian trims this down to just 3 words, dropping the extra helper words that English has to spell out.
+- 'Elena Pavlovna gave me this money to pay for the flowers.' Barinov responds honestly around Elena, to clear the air between them once and for all.
+- 'She said she does not want them.' Barinov favors one vivid word with Elena: "khochet" means "wants" (from "khotet"), giving the line its exact edge.
+- 'So that is how it is.' Barinov brings the reply without fuss: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.
+- 'Understood. Right?' Elena prompts point-blank where this conversation is heading next.
+- 'Well, I will be going then.' Barinov colors this telling expression toward Elena: "poshel" means "go, off you go" (from "poyti"), giving the line its exact edge.
+- 'And what now?' Elena sends that reply calmly now: putting the question word "chto" right at the front of the line lets Barinov hear the point of the question on the very first beat.
+- 'I am heading out.' Barinov continues sharply with a sigh, shifting the whole mood of the room in a single beat.

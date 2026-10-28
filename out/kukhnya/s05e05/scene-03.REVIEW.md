@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'She is a good one you have.' Eleonora conveys a wry style at this moment, leaning on "khoroshaya" ("good") before closing the thought with "ona" ("it").
-- 'Listen, Elya, do you think I understand nothing?' Barinov quizzes evenly beside Kostya, weaving "slushay" ("listen") together with "dumayesh" ("think") just the way native speakers do.
-- 'You blabber about your ex-husband.' Barinov displays a direct style without hesitation, pairing "byvshego" ("former") with "muzha" ("husband") to get the point across in plain spoken Russian.
-- 'Do you want to ruin our relationship?' Barinov asks honestly in the scene, putting "khochesh" ("do you want") alongside "isportit" ("to ruin") in a tight, everyday turn of phrase.
-- 'Calm down, I will leave everything to a professional.' Eleonora presents a natural tack in this beat, weaving "uspokoysya" ("calm down") together with "predostavlyu" ("will leave") just the way native speakers do.
-- 'Especially since you have already started.' Eleonora offers a sharp course toward Kostya, linking "boleye" ("more"), "uzhe" ("already, now"), and "nachal" ("started") in one brisk exchange.
-- 'After all, you told her nothing about me.' Eleonora offers a grounded attitude across the room, weaving "rasskazal" ("told") together with "obo" ("about, for") just the way native speakers do.
-- 'You are simply jealous of me.' Barinov establishes a direct view with Kostya, anchoring the Russian line on "prosto" ("just") and "zaviduyesh" ("envy, are jealous") without extra filler.
-- 'All men run away from you.' Barinov shows a calm posture for Eleonora, joining "muzhiki" ("lads, guys") to "sbegayut" ("run away") so every word pulls its weight.
-- 'He ran so far that you will not reach him.' Barinov picks a playful tack in front of Kostya, joining "sbezhal" ("escaped, ran away") to "doberyoshsya" ("will reach") so every word pulls its weight.
-- 'Maybe she was joking?' Kostya tests decisively at this point, joining "mozhet" ("can") to "poshutila" ("was joking") so every word pulls its weight.
-- 'Well whose child is it, if not yours?' Kostya asks promptly to Eleonora here, anchoring the Russian line on "rebyonok" ("a child") and "nu" ("oh, come on") without extra filler.
+- 'She is a good one you have.' Eleonora fires back at once with a nod, refusing to let the moment slip past.
+- 'Listen, Elya, do you think I understand nothing?' Barinov sharpens one vivid piece with Kostya: "dumayesh" means "think" (from "dumat"), giving the line its exact edge.
+- 'You blabber about your ex-husband.' Barinov frames the comeback calmly now: spoken Russian trims this down to just 4 words, dropping the extra helper words that English has to spell out.
+- 'Do you want to ruin our relationship?' Barinov inquires quietly how Kostya expects that to work in practice.
+- 'Calm down, I will leave everything to a professional.' Eleonora reaches for this key term in earnest: "professionalu" means "professional" (from "professional"), giving the line its exact edge.
+- 'Especially since you have already started.' Eleonora uses one familiar term in reply: "boleye" means "more", and it carries the main weight of what Eleonora is saying.
+- 'After all, you told her nothing about me.' Eleonora weighs in decisively toward Barinov, saying out loud what both of them already know.
+- 'You are simply jealous of me.' Barinov anchors this clear element in earnest: "zaviduyesh" means "envy, are jealous" (from "zavidovat"), giving the line its exact edge.
+- 'All men run away from you.' Barinov grounds one colorful piece toward Eleonora: "muzhiki" means "lads, guys" (from "muzhik"), giving the line its exact edge.
+- 'He ran so far that you will not reach him.' Barinov holds firm boldly toward Kostya, shifting the whole mood of the room in a single beat.
+- 'Maybe she was joking?' Kostya underscores one practical detail for Barinov: "poshutila" means "was joking" (from "poshutit"), giving the line its exact edge.
+- 'Well whose child is it, if not yours?' Kostya brings that remark briskly now: notice how Russian needs no word for "am", "is", or "are" in the present — placing the words side by side says it all.

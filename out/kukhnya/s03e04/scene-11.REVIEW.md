@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Calm down! Get out of here.' Max establishes a serious bearing as they talk, using "uspokoysya" (from "uspokoitsya", "calm down") alongside "otsyuda" ("from here") to shape the meaning.
-- 'The examination results showed that the level is also low.' Nagiyev sustains a natural tack toward Vika, linking "rezultaty" ("results"), "obsledovaniya" ("medical examination"), and "pokazali" ("showed") in one brisk exchange.
-- 'So you mean to say...' Vika displays a measured note in the room, pairing "yest" ("there is") with "khotite" ("want") to get the point across in plain spoken Russian.
-- 'You need to have a baby in the next two years, otherwise it will be difficult later.' Nagiyev projects a firm attitude with Vika, putting "rodit" ("to give birth") alongside "nado" ("it is necessary") in a tight, everyday turn of phrase.
-- 'Guys, Dmitry Vladimirovich asked for aspic out there.' Max sustains an easygoing style without hesitation, joining "rebyata" ("the boys, the lads") to "tam" ("there") so every word pulls its weight.
-- 'Who will prepare it?' Max asks plainly beside Vika, weaving "prigotovit" ("makes, cooks") together with "kto" ("who") just the way native speakers do.
-- 'How? We are clumsy, after all! We don't know how to cook.' Nagiyev checks steadily in this moment, linking "kak" ("how"), "krivorukiye" ("clumsy"), and "gotovit" ("to cook") in one brisk exchange.
-- 'Especially since it is not from the menu.' Nagiyev conveys a wry direction at this moment, leaning on "boleye" ("more") before closing the thought with "menyu" ("menu").
-- 'Guys, come on, forgive me, I was wrong.' Max offers a grounded stance right away, leaning on "rebyata" ("the boys, the lads") before closing the thought with "prostite" ("excuse me").
-- 'All right, we will help.' Nagiyev chooses a wry attitude beside Vika, joining "pomozhem" ("will help") to "nu" ("oh, come on") so every word pulls its weight.
-- 'Give me the receipt. What, no receipt?' Nagiyev probes calmly in front of Max, linking "chek" ("check, receipt"), "davay" ("let's"), and "cheka" ("receipt, ticket") in one brisk exchange.
-- 'Well sorry, no receipt, no dish.' Nagiyev holds a natural note across the room, using "izvini" (from "izvinit", "sorry, excuse me") alongside "cheka" ("receipt, ticket") to shape the meaning.
+- 'Calm down! Get out of here.' Max voices that answer calmly now: the "-sya" ending on "uspokoysya" ("calm down") turns the action inward or makes it happen between people naturally.
+- 'The examination results showed that the level is also low.' Nagiyev stands firm candidly without any doubt, bringing things back to earth after the buildup.
+- 'So you mean to say...' Vika spotlights one loaded touch right here: "khotite" means "want" (from "khotet"), giving the line its exact edge.
+- 'You need to have a baby in the next two years, otherwise it will be difficult later.' Nagiyev states the remark briskly now: the single Russian word "nado" ("it is necessary, one needs to") sets up the whole statement without needing a separate word for "it is".
+- 'Guys, Dmitry Vladimirovich asked for aspic out there.' Max stands firm pointedly beside Nagiyev, watching Nagiyev's face to see how the news lands.
+- 'Who will prepare it?' Max leans on one pointed piece at once: "prigotovit" means "makes, cooks", and it carries the main weight of what Max is saying.
+- 'How? We are clumsy, after all! We don't know how to cook.' Nagiyev makes that line without fuss: putting the question word "kak" right at the front of the line lets Max hear the point of the question on the very first beat.
+- 'Especially since it is not from the menu.' Nagiyev fires back sharply with a shrug, without trying to dress up how he really feels.
+- 'Guys, come on, forgive me, I was wrong.' Max centers one colorful piece in reply: "rebyata" means "the boys, the lads", and it carries the main weight of what Max is saying.
+- 'All right, we will help.' Nagiyev directs that remark with candor: tacking on "ladno" ("okay, fine, deal") softens the edge and checks that Vika is on board.
+- 'Give me the receipt. What, no receipt?' Nagiyev challenges candidly as Max tries to explain the situation.
+- 'Well sorry, no receipt, no dish.' Nagiyev picks one concrete word toward Vika: "blyuda" means "of dish" (from "blyudo"), giving the line its exact edge.
