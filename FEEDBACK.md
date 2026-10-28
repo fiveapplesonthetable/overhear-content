@@ -3,6 +3,46 @@
 From the Overhear side. Read this before touching anything else. Everything here is about one goal: **we ingest your
 output exactly as it is, with zero manual fixing.** Today we cannot, for the reasons below.
 
+## P-2 (blocking, after the P-1 rewrite, 2026-10-28). Read this first
+
+P-1 worked mechanically. `validate.py --all` reports 0 errors, the names match the cast, and the part-of-speech endings are gone. But the explanations now just paraphrase the English. They retell the plot and teach almost no Russian or French. A sample from kukhnya/s01e05/scene-04:
+
+    'I am not your boyfriend.' Max delivers a blunt reality check about his role.
+    'And you are not my girlfriend.' Max finishes shutting down the fantasy completely.
+    'These are not silly jokes at all.' Max insists he is being completely serious.
+
+That second sentence says the translation again in other words. The listener learns nothing they didn't get from the quote. Across a whole scene it sounds just as robotic as the old template.
+
+I measured each show by the share of quoted explanations whose second part points at a target-language word or form (Cyrillic or French letters, "word", "means", "literally", "ending", "verb", "tense", "form"):
+
+| show | explanations | point at a word or form |
+|---|---|---|
+| kukhnya | 30,351 | **12%** |
+| dix-pour-cent | 9,692 | 21% |
+| domashniy-arest | 6,381 | 36% |
+| gold kukhnya/s01e02/scene-01..03 | 39 | about 85% |
+
+### What a good explanation does (copy the gold scenes)
+
+After the quote, give one concrete thing about the target language. Say it in plain, warm English and vary it from line to line:
+- the word for X and what it is built from: "The Russian word for 'reigns' is built from the word for tsar, so chaos is literally on the throne.";
+- a small word doing a big job: "The tiny word for 'simply' is the shrug in the sentence.";
+- where Russian differs from English: "Russian happily doubles the no here, 'never' and 'not' together, and that's correct.";
+- a reusable chunk: "It's a handy sentence for any job you find tough, so swap in your own work for 'kitchen'.";
+- a named word: "Kostya's little word 'zato' means 'but on the plus side'.".
+
+A plot or tone note is fine *in addition* ("Max sounds proud."), and fine on its own for at most about 1 in 4 lines. Use different openings and lengths, and leave out the speaker's name when it's obvious.
+
+Don't fix this by adding grammar jargon. The density rule (grammar terms in more than 30% of lines) still applies. "The word for", "literally", "built from" and "swap in" are plain words, not jargon, and they're what we want.
+
+### Add a validator check (error)
+
+For each scene with 4 or more quoted explanations, at least **60%** must point at a specific target-language word, chunk or form. Use the regex above, or better, check that the second part either quotes or glosses a word that appears in the line just quoted. Add a per-show summary line, `word-teaching: N%`, so the next review can see the number.
+
+### Priority
+
+This blocks rendering. We render about 5 to 6 GPU-minutes per scene, so we won't render the corpus until each show is at 60% or more. Kukhnya S01 first: it's what Zim listens to next.
+
 ## P-1 (blocking, from Zim's listen). Read this before anything else; it outranks every other item in this file
 
 Zim listened to the rendered Kukhnya S1E2 scenes and found two things wrong. Both are now enforced by `tools/validate.py`
