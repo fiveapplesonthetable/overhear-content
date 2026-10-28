@@ -53,20 +53,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "for herself",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "achète",
+          "t": "s'achète",
           "lemma": "acheter",
           "pos": "verb",
-          "stress": "aʃte",
-          "gloss": "buys / is buying",
-          "gram": "1st/3rd sg present indicative"
+          "stress": "səaʃte",
+          "gloss": "for herself buys / is buying",
+          "gram": "s': indefinite pronoun + achète: 1st/3rd sg present indicative"
         },
         {
           "t": "une",
@@ -99,20 +91,12 @@
       "trans": "I changed my mind about the movie.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "past participle"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "changé",
@@ -123,20 +107,12 @@
           "gram": "past participle"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "avis",
+          "t": "d'avis",
           "lemma": "avis",
           "pos": "noun",
-          "stress": "avi",
-          "gloss": "mind / opinion",
-          "gram": "masculine singular"
+          "stress": "dəavi",
+          "gloss": "of mind / opinion",
+          "gram": "d': preposition + avis: masculine singular"
         },
         {
           "t": "pour",
@@ -239,36 +215,20 @@
           "gram": "masculine singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "3rd sg present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "indefinite determiner"
-        },
-        {
-          "t": "amour,",
+          "t": "l'amour,",
           "lemma": "amour",
           "pos": "noun",
-          "stress": "amuʁ",
-          "gloss": "love",
-          "gram": "masculine singular"
+          "stress": "lamuʁ",
+          "gloss": "romance, love",
+          "gram": "definite article + masculine singular noun"
         },
         {
           "t": "non?",
@@ -391,6 +351,22 @@
           "stress": "padytu",
           "gloss": "not at all",
           "gram": "fixed expression"
+        },
+        {
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular"
+        },
+        {
+          "t": "tout!",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
         }
       ]
     },
@@ -437,6 +413,22 @@
           "stress": "silvuplɛ",
           "gloss": "please",
           "gram": "fixed expression"
+        },
+        {
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject pronoun, 2nd plural"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il te plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases (please)",
+          "gram": "part of 's'il te plaît' = please (informal)"
         }
       ]
     },
@@ -445,20 +437,12 @@
       "trans": "I have bad news, I am sorry.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "past participle"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -531,20 +515,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "himself",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "est",
+          "t": "s'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "has",
-          "gram": "3rd sg present indicative"
+          "stress": "sɛ",
+          "gloss": "itself + has (past auxiliary)",
+          "gram": "reflexive pronoun + present 3rd singular"
         },
         {
           "t": "retiré",
@@ -601,20 +577,12 @@
           "gram": "1st/3rd sg present indicative"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition"
-        },
-        {
-          "t": "inverser",
+          "t": "d'inverser",
           "lemma": "inverser",
           "pos": "verb",
-          "stress": "ɛ̃vɛʁse",
-          "gloss": "to switch / reverse",
-          "gram": "infinitive"
+          "stress": "dəɛ̃vɛʁse",
+          "gloss": "to to switch / reverse",
+          "gram": "d': preposition + inverser: infinitive"
         },
         {
           "t": "les",
@@ -693,20 +661,12 @@
           "gram": "adverb"
         },
         {
-          "t": "Qu'",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kə",
-          "gloss": "what",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "allez-vous",
+          "t": "Qu'allez-vous",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "ale",
-          "gloss": "are you going to",
-          "gram": "past participle (m pl)"
+          "stress": "kalevu",
+          "gloss": "what are you going",
+          "gram": "elided que + present 2nd plural with inverted subject pronoun"
         },
         {
           "t": "faire?",
@@ -769,20 +729,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "for herself",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "achète",
+          "t": "s'achète",
           "lemma": "acheter",
           "pos": "verb",
-          "stress": "aʃte",
-          "gloss": "buys / is buying",
-          "gram": "1st/3rd sg present indicative"
+          "stress": "səaʃte",
+          "gloss": "for herself buys / is buying",
+          "gram": "s': indefinite pronoun + achète: 1st/3rd sg present indicative"
         },
         {
           "t": "une",
@@ -815,20 +767,12 @@
       "trans": "I changed my mind about the movie.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "past participle"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "changé",
@@ -839,20 +783,12 @@
           "gram": "past participle"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "avis",
+          "t": "d'avis",
           "lemma": "avis",
           "pos": "noun",
-          "stress": "avi",
-          "gloss": "mind / opinion",
-          "gram": "masculine singular"
+          "stress": "dəavi",
+          "gloss": "of mind / opinion",
+          "gram": "d': preposition + avis: masculine singular"
         },
         {
           "t": "pour",
@@ -955,36 +891,20 @@
           "gram": "masculine singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "3rd sg present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "indefinite determiner"
-        },
-        {
-          "t": "amour,",
+          "t": "l'amour,",
           "lemma": "amour",
           "pos": "noun",
-          "stress": "amuʁ",
-          "gloss": "love",
-          "gram": "masculine singular"
+          "stress": "lamuʁ",
+          "gloss": "romance, love",
+          "gram": "definite article + masculine singular noun"
         },
         {
           "t": "non?",
@@ -1107,6 +1027,22 @@
           "stress": "padytu",
           "gloss": "not at all",
           "gram": "fixed expression"
+        },
+        {
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular"
+        },
+        {
+          "t": "tout!",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
         }
       ]
     },
@@ -1153,6 +1089,22 @@
           "stress": "silvuplɛ",
           "gloss": "please",
           "gram": "fixed expression"
+        },
+        {
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject pronoun, 2nd plural"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il te plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases (please)",
+          "gram": "part of 's'il te plaît' = please (informal)"
         }
       ]
     },
@@ -1161,20 +1113,12 @@
       "trans": "I have bad news, I am sorry.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "past participle"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -1247,20 +1191,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "himself",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "est",
+          "t": "s'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "has",
-          "gram": "3rd sg present indicative"
+          "stress": "sɛ",
+          "gloss": "itself + has (past auxiliary)",
+          "gram": "reflexive pronoun + present 3rd singular"
         },
         {
           "t": "retiré",
@@ -1317,20 +1253,12 @@
           "gram": "1st/3rd sg present indicative"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition"
-        },
-        {
-          "t": "inverser",
+          "t": "d'inverser",
           "lemma": "inverser",
           "pos": "verb",
-          "stress": "ɛ̃vɛʁse",
-          "gloss": "to switch / reverse",
-          "gram": "infinitive"
+          "stress": "dəɛ̃vɛʁse",
+          "gloss": "to to switch / reverse",
+          "gram": "d': preposition + inverser: infinitive"
         },
         {
           "t": "les",
@@ -1409,20 +1337,12 @@
           "gram": "adverb"
         },
         {
-          "t": "Qu'",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kə",
-          "gloss": "what",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "allez-vous",
+          "t": "Qu'allez-vous",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "ale",
-          "gloss": "are you going to",
-          "gram": "past participle (m pl)"
+          "stress": "kalevu",
+          "gloss": "what are you going",
+          "gram": "elided que + present 2nd plural with inverted subject pronoun"
         },
         {
           "t": "faire?",
@@ -1485,20 +1405,12 @@
           "gram": "subject personal pronoun"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "for herself",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "achète",
+          "t": "s'achète",
           "lemma": "acheter",
           "pos": "verb",
-          "stress": "aʃte",
-          "gloss": "buys / is buying",
-          "gram": "1st/3rd sg present indicative"
+          "stress": "səaʃte",
+          "gloss": "for herself buys / is buying",
+          "gram": "s': indefinite pronoun + achète: 1st/3rd sg present indicative"
         },
         {
           "t": "une",
@@ -1531,20 +1443,12 @@
       "trans": "I changed my mind about the movie.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "past participle"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "changé",
@@ -1555,20 +1459,12 @@
           "gram": "past participle"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "of",
-          "gram": "preposition"
-        },
-        {
-          "t": "avis",
+          "t": "d'avis",
           "lemma": "avis",
           "pos": "noun",
-          "stress": "avi",
-          "gloss": "mind / opinion",
-          "gram": "masculine singular"
+          "stress": "dəavi",
+          "gloss": "of mind / opinion",
+          "gram": "d': preposition + avis: masculine singular"
         },
         {
           "t": "pour",
@@ -1671,36 +1567,20 @@
           "gram": "masculine singular"
         },
         {
-          "t": "c'",
-          "lemma": "ce",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "it",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "est",
+          "t": "c'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "is",
-          "gram": "3rd sg present indicative"
+          "stress": "sɛ",
+          "gloss": "it's",
+          "gram": "ce (it) + est: present, 3rd person singular"
         },
         {
-          "t": "l'",
-          "lemma": "le",
-          "pos": "det",
-          "stress": "lə",
-          "gloss": "the",
-          "gram": "indefinite determiner"
-        },
-        {
-          "t": "amour,",
+          "t": "l'amour,",
           "lemma": "amour",
           "pos": "noun",
-          "stress": "amuʁ",
-          "gloss": "love",
-          "gram": "masculine singular"
+          "stress": "lamuʁ",
+          "gloss": "romance, love",
+          "gram": "definite article + masculine singular noun"
         },
         {
           "t": "non?",
@@ -1823,6 +1703,22 @@
           "stress": "padytu",
           "gloss": "not at all",
           "gram": "fixed expression"
+        },
+        {
+          "t": "du",
+          "lemma": "du",
+          "pos": "det",
+          "stress": "dy",
+          "gloss": "some",
+          "gram": "partitive article, masculine singular"
+        },
+        {
+          "t": "tout!",
+          "lemma": "tout",
+          "pos": "pron",
+          "stress": "tu",
+          "gloss": "everything",
+          "gram": "indefinite pronoun"
         }
       ]
     },
@@ -1869,6 +1765,22 @@
           "stress": "silvuplɛ",
           "gloss": "please",
           "gram": "fixed expression"
+        },
+        {
+          "t": "vous",
+          "lemma": "vous",
+          "pos": "pron",
+          "stress": "vu",
+          "gloss": "you",
+          "gram": "subject pronoun, 2nd plural"
+        },
+        {
+          "t": "plaît.",
+          "lemma": "s'il te plaît",
+          "pos": "phrase",
+          "stress": "plɛ",
+          "gloss": "pleases (please)",
+          "gram": "part of 's'il te plaît' = please (informal)"
         }
       ]
     },
@@ -1877,20 +1789,12 @@
       "trans": "I have bad news, I am sorry.",
       "words": [
         {
-          "t": "J'",
-          "lemma": "je",
-          "pos": "pron",
-          "stress": "ʒə",
-          "gloss": "I",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "ai",
+          "t": "J'ai",
           "lemma": "avoir",
           "pos": "verb",
-          "stress": "avwaʁ",
-          "gloss": "have",
-          "gram": "past participle"
+          "stress": "ʒe",
+          "gloss": "I have",
+          "gram": "je + ai: 1sg subject pronoun + present 1sg"
         },
         {
           "t": "une",
@@ -1963,20 +1867,12 @@
           "gram": "masculine singular"
         },
         {
-          "t": "s'",
-          "lemma": "se",
-          "pos": "pron",
-          "stress": "sə",
-          "gloss": "himself",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "est",
+          "t": "s'est",
           "lemma": "être",
           "pos": "verb",
-          "stress": "ɛtʁ",
-          "gloss": "has",
-          "gram": "3rd sg present indicative"
+          "stress": "sɛ",
+          "gloss": "itself + has (past auxiliary)",
+          "gram": "reflexive pronoun + present 3rd singular"
         },
         {
           "t": "retiré",
@@ -2033,20 +1929,12 @@
           "gram": "1st/3rd sg present indicative"
         },
         {
-          "t": "d'",
-          "lemma": "de",
-          "pos": "prep",
-          "stress": "də",
-          "gloss": "to",
-          "gram": "preposition"
-        },
-        {
-          "t": "inverser",
+          "t": "d'inverser",
           "lemma": "inverser",
           "pos": "verb",
-          "stress": "ɛ̃vɛʁse",
-          "gloss": "to switch / reverse",
-          "gram": "infinitive"
+          "stress": "dəɛ̃vɛʁse",
+          "gloss": "to to switch / reverse",
+          "gram": "d': preposition + inverser: infinitive"
         },
         {
           "t": "les",
@@ -2125,20 +2013,12 @@
           "gram": "adverb"
         },
         {
-          "t": "Qu'",
-          "lemma": "que",
-          "pos": "pron",
-          "stress": "kə",
-          "gloss": "what",
-          "gram": "indefinite pronoun"
-        },
-        {
-          "t": "allez-vous",
+          "t": "Qu'allez-vous",
           "lemma": "aller",
           "pos": "verb",
-          "stress": "ale",
-          "gloss": "are you going to",
-          "gram": "past participle (m pl)"
+          "stress": "kalevu",
+          "gloss": "what are you going",
+          "gram": "elided que + present 2nd plural with inverted subject pronoun"
         },
         {
           "t": "faire?",
@@ -6350,6 +6230,159 @@
         {
           "word": "peut-être",
           "gloss": "maybe, perhaps"
+        }
+      ]
+    },
+    "tout": {
+      "examples": [
+        {
+          "text": "Merci à tous.",
+          "trans": "Thank you, everyone."
+        },
+        {
+          "text": "Oui à tout.",
+          "trans": "Yes to everything."
+        },
+        {
+          "text": "Ça ne va pas du tout.",
+          "trans": "It's not going at all."
+        }
+      ],
+      "forms": {
+        "columns": [
+          "",
+          "m",
+          "f"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "sg",
+              "tout",
+              "toute"
+            ]
+          },
+          {
+            "cells": [
+              "pl",
+              "tous",
+              "toutes"
+            ]
+          }
+        ],
+        "title": "Forms"
+      },
+      "gloss": "all, everything; everyone",
+      "lemma": "tout",
+      "meanings": [
+        {
+          "en": "everything",
+          "note": "High-frequency French pronoun meaning 'everything'; clitic forms precede the conjugated verb."
+        },
+        {
+          "en": "all, everyone",
+          "note": "plural tous (pronounced 'tous' with s): merci à tous"
+        },
+        {
+          "en": "at all",
+          "note": "High-frequency French pronoun meaning 'at all'; clitic forms precede the conjugated verb."
+        },
+        {
+          "en": "all, the whole",
+          "note": "High-frequency French pronoun meaning 'all'; clitic forms precede the conjugated verb."
+        }
+      ],
+      "moreForms": [],
+      "pos": "pron",
+      "stress": "tu",
+      "related": [
+        {
+          "word": "tout le monde",
+          "gloss": "everybody"
+        },
+        {
+          "word": "tout de suite",
+          "gloss": "right away"
+        },
+        {
+          "word": "tout à l'heure",
+          "gloss": "earlier"
+        }
+      ]
+    },
+    "vous": {
+      "examples": [
+        {
+          "text": "Vous êtes où?",
+          "trans": "Where are you?"
+        },
+        {
+          "text": "Je vous rappelle.",
+          "trans": "I'll call you back."
+        },
+        {
+          "text": "Il vous attend?",
+          "trans": "Is he expecting you?"
+        }
+      ],
+      "forms": null,
+      "gloss": "you (polite or plural)",
+      "lemma": "vous",
+      "meanings": [
+        {
+          "en": "you (polite)",
+          "note": "One person, formal. High-frequency French pronoun meaning 'you'; clitic object forms precede the conjugated verb."
+        },
+        {
+          "en": "you (plural)",
+          "note": "Several people. High-frequency French pronoun meaning 'you'; clitic object forms precede the conjugated verb."
+        },
+        {
+          "en": "you (object)",
+          "note": "je vous rappelle = I'll call you back"
+        }
+      ],
+      "moreForms": [],
+      "pos": "pron",
+      "stress": "vu",
+      "related": [
+        {
+          "word": "tu",
+          "gloss": "you (informal)"
+        }
+      ]
+    },
+    "s'il te plaît": {
+      "examples": [
+        {
+          "text": "Hervé, s'il te plaît!",
+          "trans": "Hervé, please!"
+        },
+        {
+          "text": "Viens m'aider, s'il te plaît.",
+          "trans": "Come and help me, please."
+        },
+        {
+          "text": "Hervé, s'il te plaît! Je veux mon thé.",
+          "trans": "Hervé, please! I want my tea."
+        }
+      ],
+      "forms": null,
+      "gloss": "please (informal)",
+      "lemma": "s'il te plaît",
+      "meanings": [
+        {
+          "en": "please (to one person you say 'tu' to)",
+          "note": "literally 'if it pleases you'; formal/plural is 's'il vous plaît'"
+        }
+      ],
+      "moreForms": [],
+      "pos": "phrase",
+      "stress": "siltəplɛ",
+      "related": [
+        {
+          "word": "s'il vous plaît",
+          "gloss": "please"
         }
       ]
     }
