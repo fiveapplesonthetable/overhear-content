@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Макс | Вик, что с тобой? | Vik, what is wrong? | #297 00:22:46: Угадай, кто. Макс. | verbatim |
-| 2 | Макс | В чем дело?, макс. | What is the matter?, my friend. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
+| 2 | Макс | В чём дело, Макс? | What is the matter, Max? | #297 00:22:46: Угадай, кто. Макс. | verbatim |
 | 3 | Аня | В чем дело? | What is the matter? | #297 00:22:46: Угадай, кто. Макс. | verbatim |
 | 4 | Аня | Меня сегодня чуть не уволили с работы. | I almost got fired today. | #297 00:22:46: Угадай, кто. Макс. | verbatim |
 | 5 | Аня | И все благодаря тебе. | And it is all thanks to you. | #297 00:22:46: Угадай, кто. Макс. | verbatim |

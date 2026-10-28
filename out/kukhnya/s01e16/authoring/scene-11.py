@@ -59,31 +59,31 @@ OPENER = "Now let us examine the conversation line by line."
 
 WALK = [
     (0, None,
-     "'Alright, let us just do it quickly.' -- The speaker states this. ENG"),
+     "'Alright, let us just do it quickly.' Chef Viktor starts with 'good' and pairs it with 'let's' to make the point clear."),
     (1, None,
-     "'I will get straight to the point.' -- The speaker states this. ENG"),
+     "'I will get straight to the point.' the speaker puts 'I' up front so the listener immediately catches the tone, followed by 'to cross'."),
     (2, None,
-     "'Have you heard anything about me?' -- The speaker states this. ENG"),
+     "'Have you heard anything about me?' Here 'you' sets up the idea, while 'to me' comes at the end for emphasis. Chef Viktor answers straight away."),
     (3, None,
-     "'Yes, heard in all countries.' -- The speaker states this. ENG"),
+     "'Yes, heard in all countries.' You'll hear 'did you hear?' all the time in the show, here connected with 'country'."),
     (4, None,
-     "'Do you know what they call me?' -- The speaker states this. ENG"),
+     "'Do you know what they call me?' The key word here means 'know', which the speaker combines with 'how'."),
     (5, None,
-     "'They call me a scary person.' -- The speaker states this. ENG"),
+     "'They call me a scary person.' Notice the word order: 'me' comes first, and 'person' finishes the sentence. Then Chef Viktor replies."),
     (6, None,
-     "'A month ago there was an inspection.' -- The speaker states this. ENG"),
+     "'A month ago there was an inspection.' The key word here means 'month', which Chef Viktor combines with 'ago'."),
     (7, None,
-     "'They did not find anything here.' -- The speaker states this. ENG"),
+     "'They did not find anything here.' The first content word means 'they', and 'found' rounds out the thought."),
     (8, None,
-     "'Do you want a mint candy?' -- The speaker states this. ENG"),
+     "'Do you want a mint candy?' A compact expression built around 'mint' and 'would you like'. And Chef Viktor jumps in."),
     (9, None,
-     "'No, I do not need it.' -- The speaker states this. ENG"),
+     "'No, I do not need it.' Here 'to me' sets up the idea, while 'necessary' comes at the end for emphasis."),
     (10, None,
-     "'Our service is like birds.' -- The speaker states this. ENG"),
+     "'Our service is like birds.' Listen for the word meaning 'service' right alongside 'similar' in this line."),
     (11, None,
-     "'We always look at you from above.' -- The speaker states this. ENG"),
+     "'We always look at you from above.' the speaker uses the polite plural 'you' here alongside 'we', keeping a formal or respectful tone."),
 ]
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around hunter of illegals, and for the words meaning 'let's' and 'to cross'. You'll catch them now. See you next time."
 CLOSING = ("leva", "Мы всегда смотрим на вас сверху.")

@@ -34,20 +34,20 @@ STORY = [
 OPENER = "Now let us examine the conversation line by line."
 
 WALK = [
-    (0, None, "'Excuse me, have a pleasant evening.' -- The speaker states this. ENG"),
-    (1, None, "'What do you need from me?' -- The speaker states this. ENG"),
-    (2, None, "'I need this bottle.' -- The speaker states this. ENG"),
-    (3, None, "'What are you talking about?' -- The speaker states this. ENG"),
-    (4, None, "'I will take this bottle.' -- The speaker states this. ENG"),
-    (5, None, "'And I will put another one for you.' -- The speaker states this. ENG"),
-    (6, None, "'Do you have absolutely nothing to do?' -- The speaker states this. ENG"),
-    (7, None, "'No, I just want to give another one.' -- The speaker states this. ENG"),
-    (8, None, "'Do not touch anything, get out of here!' -- The speaker states this. ENG"),
-    (9, None, "'But I must take it.' -- The speaker states this. ENG"),
-    (10, None, "'I said, get out of here!' -- The speaker states this. ENG"),
-    (11, None, "'Got it, let's move on.' -- The speaker wraps up the exchange in the kitchen.")
+    (0, None, "'Excuse me, have a pleasant evening.' Kostya uses the polite plural 'you' here alongside 'sorry', keeping a formal or respectful tone."),
+    (1, None, "'What do you need from me?' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'me'. Then Kostya replies."),
+    (2, None, "'I need this bottle.' Here 'to me' sets up the idea, while 'bottle' comes at the end for emphasis."),
+    (3, None, "'What are you talking about?' Listen for the word meaning 'what' right alongside 'you' in this line."),
+    (4, None, "'I will take this bottle.' In Russian, 'I' leads into 'a bottle' in a very natural everyday phrasing."),
+    (5, None, "'And I will put another one for you.' Kostya starts with 'you' and pairs it with 'will set' to make the point clear."),
+    (6, None, "'Do you have absolutely nothing to do?' The first content word means 'for you', and 'do' rounds out the thought."),
+    (7, None, "'No, I just want to give another one.' The key word here means 'I', which Kostya combines with 'just'. Chef Viktor answers straight away."),
+    (8, None, "'Do not touch anything, get out of here!' Here 'touch' sets up the idea, while 'from here' comes at the end for emphasis."),
+    (9, None, "'But I must take it.' You'll hear 'I' all the time in the show, here connected with 'take'."),
+    (10, None, "'I said, get out of here!' In Russian, 'I' leads into 'from here' in a very natural everyday phrasing. Then Kostya replies."),
+    (11, None, "'Got it, let's move on.' Listen for the word meaning 'clear' right alongside 'let's' in this line.")
 ]
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the clumsy bartender, and for the words meaning 'sorry' and 'pleasant'. You'll catch them now. See you next time."
 CLOSING = ("leva", "Я сказал, иди отсюда!")

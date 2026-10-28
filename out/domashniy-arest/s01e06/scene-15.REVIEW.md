@@ -34,21 +34,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Let's wash all this in the washing machine?' Notice the prepositional feminine endings on 'in the washing machine'.
 - 'Are you crazy, Arkashka? These are Yugoslavian things!' In Soviet times, Yugoslavian clothes were prized imports.
 - 'They have to be washed carefully by hand.' Literally 'with the hands', using the instrumental plural.
-- 'And anyway stop chatting, there's so much work ahead.'
+- 'And anyway stop chatting, there's so much work ahead.' The first content word means 'anyway', and 'ahead' rounds out the thought.
 - 'Do you want to get the money or not?' Remember, Arkady desperately needs the five thousand roubles.
-- 'Klavdia Viktorovna, you brought laundry from the whole flat!'
+- 'Klavdia Viktorovna, you brought laundry from the whole flat!' Listen for the word meaning 'Klavdia' right alongside 'Viktorovna' in this line.
 - 'My back is hurting already.' After washing the clothes and moving her heavy furniture, Arkady stumbles into the kitchen.
 - Holding his lower back, he groans: 'Ow, my back won't straighten! How strict you are, Klavdia Viktorovna.' At the stove, he sees Marina boiling a can of condensed milk for her dean Eduard Vladimirovich.
-- 'Marina, you're trying in vain.'
+- 'Marina, you're trying in vain.' The key word here means 'Marina', which Arkady combines with 'in vain'.
 - 'He will never leave his Alla Evgenyevna.' Remember that the dean's wife is the university rector.
 - Marina answers proudly: 'He has already left.'
 - Arkady is sceptical: 'Did he tell you that? And you believed him?'
 - 'I believed him. He isn't like you.' Notice the feminine past-tense ending '-la' when Marina says 'I believed'. Just then Klavdia Viktorovna walks in and spots the saucepan on the stove.
 - 'Marina, there you go again with your condensed milk!' If a sealed tin of condensed milk boils dry, it explodes across the kitchen.
-- 'Last time I thought a war had started.'
+- 'Last time I thought a war had started.' Here 'last' sets up the idea, while 'started' comes at the end for emphasis.
 - Marina reassures her: 'I'll set a timer right now.'
 - Arkady proudly announces: 'Klavdia Viktorovna, I've finished everything!'
-- 'Hand over my five thousand.'
+- 'Hand over my five thousand.' Arkady puts 'give' up front so the listener immediately catches the tone, followed by 'my'.
 - Klavdia Viktorovna shakes her head: 'You haven't finished anything yet!' Notice the double negation with 'nothing' and 'not'.
-- 'What do you mean I haven't finished?'
+- 'What do you mean I haven't finished?' The verb for 'finished' is in the masculine past tense, marked by that 'l' sound at the end.
 - Pointing down at her slippers, the old neighbour smiles wickedly: 'And are you familiar, Arkashka, with the word pedicure?'

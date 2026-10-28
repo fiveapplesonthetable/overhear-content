@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kristina, do you know one thing?' -- ENG The chef approaches his demanding guest with a smile.
-- 'Which exact thing?' -- ENG She looks up and waits for him to explain himself.
-- 'I truly cook not badly.' -- ENG He modestly boasts about his legendary culinary talent.
-- 'Yes, I know that perfectly well.' -- ENG She agrees that his food is completely unmatched.
-- 'These are very tasty rolls.' -- ENG He presents a beautifully arranged plate of fresh sushi.
-- 'Did you prepare them yourself?' -- ENG She is surprised that he made Japanese cuisine.
-- 'Yes, specially for you.' -- ENG He admits that he cooked them to make her happy.
-- 'They look very appetizing.' -- ENG She examines the artistic presentation of the meal.
-- 'Do you want to taste a little?' -- ENG He invites her to try his latest creation.
-- 'Yes, with great pleasure.' -- ENG She eagerly picks up her chopsticks to eat.
-- 'I am sure you will like it very much.' -- ENG He watches her with absolute confidence in his recipe.
-- 'Your food is always the best.' -- ENG She compliments him before even taking her first bite.
+- 'Kristina, do you know one thing?' Here 'Kristina' sets up the idea, while 'thing' comes at the end for emphasis.
+- 'Which exact thing?' You'll hear 'thing' all the time in the show, here connected with 'thing'.
+- 'I truly cook not badly.' In Russian, 'I' leads into 'prepare' in a very natural everyday phrasing. Kristina answers straight away.
+- 'Yes, I know that perfectly well.' Kristina starts with 'I' and pairs it with 'this' to make the point clear.
+- 'These are very tasty rolls.' The key word here means 'this', which Chef Viktor combines with 'very much'.
+- 'Did you prepare them yourself?' The key word here means 'you', which Kristina combines with 'cooked'. Then Chef Viktor replies.
+- 'Yes, specially for you.' Chef Viktor puts 'on purpose' up front so the listener immediately catches the tone, followed by 'you'.
+- 'They look very appetizing.' You'll hear 'they' all the time in the show, here connected with 'appetizingly'.
+- 'Do you want to taste a little?' The first content word means 'do you want', and 'to taste' rounds out the thought. And Kristina jumps in.
+- 'Yes, with great pleasure.' A compact expression built around 'great' and 'pleasure'.
+- 'I am sure you will like it very much.' The first content word means 'I', and 'will please' rounds out the thought.
+- 'Your food is always the best.' A compact expression built around 'your' and 'best'.

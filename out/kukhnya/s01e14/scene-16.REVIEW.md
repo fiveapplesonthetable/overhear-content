@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here everything is in French.' -- ENG She tells him this.
-- 'For our chef this is not a problem.' -- ENG She tells him this.
-- 'Right, Maximilian?' -- ENG She tells him this.
-- 'Si.' -- ENG He says this to him.
-- 'Si? Idiot.' -- ENG He says this to him.
-- 'Si is in Italian.' -- ENG He says this to him.
-- 'In French it will be oui.' -- ENG He says this to him.
-- 'Yes, of course, I know this.' -- ENG He says this to him.
-- 'Maximilian, do you understand the French language?' -- ENG She tells him this.
-- 'Of course, I understand French perfectly.' -- ENG He says this to him.
-- 'Well, what will you do now?' -- ENG He says this to him.
-- 'I will read this recipe and prepare the dish.' -- ENG He says this to him.
-- 'This will be very funny.' -- ENG He says this to him.
+- 'Here everything is in French.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'here' straight to 'in French'.
+- 'For our chef this is not a problem.' Notice the word order: 'chef' comes first, and 'problem' finishes the sentence.
+- 'Right, Maximilian?' Elena puts 'honestly' up front so the listener immediately catches the tone, followed by 'person name'.
+- 'Si.' A compact expression built around 'oui' and 'oui'.
+- 'Si? Idiot.' The key word here means 'oui', which Louis combines with 'idiot'.
+- 'Si is in Italian.' Louis starts with 'oui' and pairs it with 'this' to make the point clear.
+- 'In French it will be oui.' Louis puts 'in French' up front so the listener immediately catches the tone, followed by 'will be'.
+- 'Yes, of course, I know this.' The key word here means 'of course', which Max combines with 'I'. Elena answers straight away.
+- 'Maximilian, do you understand the French language?' Here 'person name' sets up the idea, while 'language' comes at the end for emphasis.
+- 'Of course, I understand French perfectly.' You'll hear 'of course' all the time in the show, here connected with 'French'.
+- 'Well, what will you do now?' In Russian, 'what' leads into 'now' in a very natural everyday phrasing. Then Max replies.
+- 'I will read this recipe and prepare the dish.' Listen for the word meaning 'I' right alongside 'to read' in this line.
+- 'This will be very funny.' The first content word means 'this', and 'ridiculous' rounds out the thought.

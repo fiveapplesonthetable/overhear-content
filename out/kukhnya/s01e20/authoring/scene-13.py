@@ -42,7 +42,7 @@ WALK = [
     (4, None, "'Are you buying rings for each other?' -- He asks if they buy rings for each other."),
     (5, None, "'What is it to you, Senya? Go away.' -- He tells Senya to go away."),
     (6, None, "'Just interesting, when will be your wedding?' -- He asks when their wedding will be."),
-    (7, None, "'This is not your problem. Shut up.' -- He tells him this is not his problem."),
+    (7, None, "'This is not your problem. Shut up.' The little negative word sits right in front of the verb for 'to fall silent', just like 'not' in English. Then Senya replies."),
     (8, None, "'Okay, okay. I just joked.' -- He says he was just joking."),
     (9, None, "'Did you already give the ring to Nastya?' -- He asks if he already gave the ring."),
     (10, None, "'Not yet. I want to do this now.' -- He says he wants to do this now."),

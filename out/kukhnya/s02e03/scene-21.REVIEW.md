@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'On your feet!' -- The speaker states this. ENG
-- 'He didn't like your salad.' -- The speaker states this. ENG
-- 'He didn't try it.' -- The speaker states this. ENG
-- 'Actually, he has.' -- The speaker states this. ENG
-- 'There was a belt in my salad.' -- The speaker states this. ENG
-- 'We just had a bet.' -- The speaker states this. ENG
-- 'To see if I'd eat a belt?' -- The speaker states this. ENG
-- 'It wasn't me.' -- The speaker states this. ENG
-- 'You're eating this.' -- The speaker states this. ENG
-- 'You're not leaving until you eat it all.' -- The speaker states this. ENG
-- 'Could I have some bread?' -- The speaker states this. ENG
-- 'Here you go.' -- The speaker states this. ENG
+- 'On your feet!' Senya starts with 'stood still' and pairs it with 'stood still' to make the point clear. And Fedya jumps in.
+- 'He didn't like your salad.' Fedya starts with 'salad' and pairs it with 'was liked' to make the point clear.
+- 'He didn't try it.' Listen for the word meaning 'he' right alongside 'him' in this line.
+- 'Actually, he has.' You'll hear 'actually' all the time in the show, here connected with 'tried'. the guest answers straight away.
+- 'There was a belt in my salad.' The key word here means 'me', which the guest combines with 'salad'.
+- 'We just had a bet.' Senya starts with 'we' and pairs it with 'just' to make the point clear.
+- 'To see if I'd eat a belt?' A compact expression built around 'so that' and 'eat'. Then Senya replies.
+- 'It wasn't me.' In Russian, 'this' leads into 'I' in a very natural everyday phrasing.
+- 'You're eating this.' The first content word means 'gobble', and 'you' rounds out the thought.
+- 'You're not leaving until you eat it all.' A compact expression built around 'bye' and 'you'll leave'. And Senya jumps in.
+- 'Could I have some bread?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'may' straight to 'bread'.
+- 'Here you go.' the guest puts 'for' up front so the listener immediately catches the tone, followed by 'for'.

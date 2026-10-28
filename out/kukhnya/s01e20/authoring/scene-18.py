@@ -63,17 +63,17 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (2, None,
-     "'For you to be my wife.' -- ENG He awkwardly asks for her hand in marriage."),
+     "'For you to be my wife.' The first content word means 'you', and 'wife' rounds out the thought. Nastya answers straight away."),
     (3, None,
-     "'Have you lost your mind? Oh God, take it.' -- ENG She furiously rejects his sudden romantic gesture."),
+     "'Have you lost your mind? Oh God, take it.' Notice the word order: 'mind' comes first, and 'take' finishes the sentence."),
     (5, None,
-     "'You said yourself that every day is a new step.' -- ENG He tries to justify his rushed decision using her words."),
+     "'You said yourself that every day is a new step.' Kostya starts with 'myself' and pairs it with 'said' to make the point clear."),
     (6, None,
-     "'Kostya, I meant meeting the parents.' -- ENG She clarifies what she actually expected to happen next."),
+     "'Kostya, I meant meeting the parents.' Nastya starts with 'Kostya' and pairs it with 'I' to make the point clear."),
     (8, None,
-     "'I had this step planned for a year from now.' -- ENG She reveals her strict long-term schedule for them."),
+     "'I had this step planned for a year from now.' Nastya puts 'me' up front so the listener immediately catches the tone, followed by 'plan'."),
     (11, None,
-     "'And you nearly destroyed it just now.' -- ENG She scolds him for ruining her careful preparations."),
+     "'And you nearly destroyed it just now.' You'll hear 'you' all the time in the show, here connected with 'destroyed'."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

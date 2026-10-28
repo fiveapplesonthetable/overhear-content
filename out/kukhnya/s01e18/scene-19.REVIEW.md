@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I was just doing my job.' -- ENG The bartender tries to defend his performance.
-- 'We are saving on everything.' -- ENG Nagiyev explains the new strict budget.
-- 'We saved on the bartender.' -- ENG He casually announces the elimination of the role.
-- 'You cannot fire me.' -- ENG Kostya is shocked and tries to argue.
-- 'You are fired, idiot.' -- ENG The owner insults him while giving the final word.
-- 'An idiot, huh?' -- ENG The young man is offended by the rude remark.
-- 'This is very unfair.' -- ENG He feels betrayed by the management.
-- 'The restaurant is in a difficult situation.' -- ENG Nagiyev justifies his harsh decision.
-- 'Who will pour drinks?' -- ENG Kostya wonders how the bar will operate without him.
-- 'This is no longer your problem.' -- ENG The boss dismisses his concerns entirely.
-- 'Fine, I will leave today.' -- ENG The bartender accepts his fate and decides to pack up.
-- 'That is excellent.' -- ENG Nagiyev is pleased that the conversation is over.
+- 'I was just doing my job.' The verb for 'were doing' is in the masculine past tense, marked by that 'l' sound at the end.
+- 'We are saving on everything.' Notice the word order: 'we' comes first, and 'everything' finishes the sentence.
+- 'We saved on the bartender.' Here 'we' sets up the idea, while 'bartender' comes at the end for emphasis.
+- 'You cannot fire me.' The first content word means 'you', and 'to fire' rounds out the thought.
+- 'You are fired, idiot.' The key word here means 'you', which Dmitry combines with 'fired'. Then Kostya replies.
+- 'An idiot, huh?' Here 'blockhead' sets up the idea, while 'blockhead' comes at the end for emphasis.
+- 'This is very unfair.' Kostya puts 'this' up front so the listener immediately catches the tone, followed by 'very much'.
+- 'The restaurant is in a difficult situation.' In Russian, 'restaurant' leads into 'position' in a very natural everyday phrasing. And Kostya jumps in.
+- 'Who will pour drinks?' The first content word means 'who', and 'drinks' rounds out the thought.
+- 'This is no longer your problem.' Notice the word order: 'this' comes first, and 'problem' finishes the sentence.
+- 'Fine, I will leave today.' You'll hear 'good' all the time in the show, here connected with 'today'. Dmitry answers straight away.
+- 'That is excellent.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'perfect' straight to 'perfect'.

@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I must fire your cooks.' -- ENG The restaurant owner wants to reduce costs.
-- 'Have you gone completely crazy?' -- ENG The chef is shocked by this sudden decision.
-- 'They cost too much.' -- ENG Nagiyev explains that the current salaries are too high.
-- 'This is almost half a million every month.' -- ENG He calculates the massive expenses.
-- 'You cannot fire them.' -- ENG Viktor defends his talented colleagues.
-- 'This is the best team in Moscow.' -- ENG He insists that their skills are unmatched.
-- 'It is cheaper to find new people.' -- ENG The owner prefers to hire less experienced workers.
-- 'What difference does it make who cuts carrots?' -- ENG He argues that basic tasks do not require experts.
-- 'This is my team!' -- ENG The loyal chef refuses to abandon his kitchen staff.
-- 'If you fire them, you will lose me.' -- ENG Viktor gives him a strict ultimatum.
-- 'Vitya, just sit and calm down.' -- ENG Nagiyev tries to de-escalate the conflict.
-- 'Alright, sort it out yourselves.' -- ENG The angry chef gives up on the conversation.
-- 'And I am quitting in the meantime.' -- ENG He decides to leave his job immediately.
-- 'Wait, we will solve everything.' -- ENG The owner tries to stop him from leaving.
+- 'I must fire your cooks.' A compact expression built around 'I' and 'cooks'.
+- 'Have you gone completely crazy?' You'll hear 'you' all the time in the show, here connected with 'mind'.
+- 'They cost too much.' Dmitry starts with 'they' and pairs it with 'too' to make the point clear.
+- 'This is almost half a million every month.' You'll hear 'this' all the time in the show, here connected with 'month'.
+- 'You cannot fire them.' You'll hear 'you' all the time in the show, here connected with 'to fire'.
+- 'This is the best team in Moscow.' Viktor starts with 'this' and pairs it with 'best' to make the point clear. And Dmitry jumps in.
+- 'It is cheaper to find new people.' You'll hear 'cheaper' all the time in the show, here connected with 'people'.
+- 'What difference does it make who cuts carrots?' In Russian, 'what' leads into 'carrot' in a very natural everyday phrasing.
+- 'This is my team!' The first content word means 'this', and 'team' rounds out the thought.
+- 'If you fire them, you will lose me.' A compact expression built around 'you' and 'me'.
+- 'Vitya, just sit and calm down.' Listen for the word meaning 'Vitya' right alongside 'just' in this line.
+- 'Alright, sort it out yourselves.' The reflexive ending on the verb for 'to understand well' turns the action back onto the subject.
+- 'And I am quitting in the meantime.' Notice the word order: 'I' comes first, and 'quit' finishes the sentence.
+- 'Wait, we will solve everything.' Dmitry puts 'wait' up front so the listener immediately catches the tone, followed by 'we'.

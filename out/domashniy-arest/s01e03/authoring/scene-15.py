@@ -117,7 +117,7 @@ WALK = [
  (12, None,
   "'Yes, Vanya, I'm coming now! Well, Danya, bye.' And Danya replies warmly."),
  (13, None,
-  "'Well, take care, bye, Nina.'"),
+  "'Well, take care, bye, Nina.' the speaker starts with 'bye' and pairs it with 'Nina' to make the point clear."),
 ]
 
 TRANSITION = "Now let's hear the whole corridor scene again from the top."

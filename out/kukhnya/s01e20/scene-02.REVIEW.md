@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, we are good together, right?' -- ENG She seeks reassurance about their happy relationship.
-- 'Well yes, of course it is good.' -- ENG He quickly confirms his feelings for her.
-- 'It is as if we are walking on a staircase.' -- ENG She begins a strange poetic metaphor.
-- 'We are walking up, straight to the sun.' -- ENG She describes their bright and romantic future.
-- 'We are walking high, step by step.' -- ENG She emphasizes the steady progression of their bond.
-- 'We are not rushing to climb, right?' -- ENG He gets nervous about moving too fast.
-- 'Seems not, we are not rushing.' -- ENG She assures him that they are taking their time.
-- 'If we stop, we might fall.' -- ENG She warns that a lack of progress is dangerous.
-- 'We might fall down and break.' -- ENG She dramatically explains the risk of ending the relationship.
-- 'Under no circumstances must we stop.' -- ENG She insists they must keep developing their connection.
-- 'We must always only walk forward.' -- ENG She urges him to commit to their shared journey.
-- 'Yes, I agree with you.' -- ENG He nods along politely to avoid an argument.
+- 'Kostya, we are good together, right?' Nastya puts 'Kostya' up front so the listener immediately catches the tone, followed by 'us'.
+- 'Well yes, of course it is good.' Notice the word order: 'of course' comes first, and 'good' finishes the sentence.
+- 'It is as if we are walking on a staircase.' Here 'we' sets up the idea, while 'stairs' comes at the end for emphasis.
+- 'We are walking up, straight to the sun.' Listen for the word meaning 'we' right alongside 'are going' in this line.
+- 'We are walking high, step by step.' The first content word means 'we', and 'at a march' rounds out the thought.
+- 'We are not rushing to climb, right?' Here 'we' sets up the idea, while 'go up' comes at the end for emphasis. Then Nastya replies.
+- 'Seems not, we are not rushing.' Here 'we' sets up the idea, while 'are hurrying' comes at the end for emphasis.
+- 'If we stop, we might fall.' In Russian, 'we' leads into 'fall' in a very natural everyday phrasing.
+- 'We might fall down and break.' Nastya puts 'we' up front so the listener immediately catches the tone, followed by 'can'.
+- 'Under no circumstances must we stop.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'us' straight to 'stop'.
+- 'We must always only walk forward.' Here 'we' sets up the idea, while 'ahead of' comes at the end for emphasis.
+- 'Yes, I agree with you.' Kostya starts with 'I' and pairs it with 'agreed' to make the point clear.

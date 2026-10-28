@@ -29,10 +29,10 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'We counted on the deputy taking the money from the mayor.' Lavrov explains their original plan: let Osipenko squeeze Arkady for the money. Then came the twist.
-- 'But the mayor came up with a new plan.'
+- 'But the mayor came up with a new plan.' Notice the word order: 'mayor' comes first, and 'plan' finishes the sentence.
 - 'The mayor's neighbour will now run for mayor.' Notice the repetition of 'mayor', ending with the plural 'into mayors' for 'run for mayor'.
 - 'And the deputy had to switch his focus to that neighbour.' Literally 'to the deputy it fell to switch onto that neighbour'.
-- 'And so the process stalled.'
+- 'And so the process stalled.' Listen for the word meaning 'process' right alongside 'stalled' in this line.
 - 'We just need to arrest him, Comrade General!' Mikhail Mikhailovich wants to lock Arkady up again. On the screen, General Kruglov squints at them.
 - 'Did you find the vial?' Kruglov suddenly asks.
 - 'That little blue bottle.' Both words mean a small bottle or vial. Mikhail Mikhailovich blinks.
@@ -40,16 +40,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'With poison!' Notice the instrumental case after 'with'.
 - 'Oh, that's in the Urals! That's not your case.' Literally 'that is not by you'. He peers at his notes.
 - 'Wait, so what is your case?' Literally 'wait, and what is by you?'. Lavrov reminds him.
-- 'Ours is the fake cluster.'
+- 'Ours is the fake cluster.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'us' straight to 'cluster'.
 - 'Operation Golden Billion.' The slang noun 'yard' is short for 'milliard', a billion. Kruglov nods.
-- 'Oh, right. I mixed them up.'
+- 'Oh, right. I mixed them up.' You'll hear 'right' all the time in the show, here connected with 'mixed up'.
 - 'So much is going on in the country! Continue the operation.' Lavrov answers briskly.
 - 'Yes, sir.' In the military, literally 'there is!'. Before signing off, Kruglov remembers someone else from their office.
 - 'And where is that short man from the archives?' He means Major Sokolov, the short archivist who visited Moscow in Episode 2.
 - 'Is he at your branch?' Literally 'that is by you, right?'.
 - 'Yes indeed, Comrade General.' Literally that means 'so exact, exactly so', and Kruglov taps the side of his head proudly.
 - 'I remember everything!' Kruglov boasts proudly.
-- 'Why wasn't he at the meeting?'
+- 'Why wasn't he at the meeting?' Here 'why' sets up the idea, while 'meeting' comes at the end for emphasis.
 - 'Make sure he's there next time!' Literally 'so that in the next time he was!'. And with that, the general wraps up.
 - 'Alright, carry on.' He waves toward the camera.
-- 'I have my lunch break.'
+- 'I have my lunch break.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'me' straight to 'lunch'.

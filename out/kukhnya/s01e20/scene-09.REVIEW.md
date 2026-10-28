@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Now let us talk.' -- She tells him this.
-- 'Remember, we should take a new step?' -- She asks him a question.
-- 'I have a feeling you are not ready yet.' -- She talks directly to him.
-- 'Me?' -- He asks her a question.
-- 'I am ready.' -- He explains his feelings to her.
-- 'Are you sure?' -- She talks directly to him.
-- 'I am sure.' -- He explains his feelings to her.
-- 'Then I will invite my parents over for the weekend.' -- She explains her feelings to him.
-- 'Okay.' -- He says this to her.
-- 'Wait, your parents?' -- He talks directly to her.
-- 'Yes, my mother and father.' -- She tells him this.
-- 'To our apartment?' -- He asks her a question.
-- 'Of course, where else?' -- She asks him a question.
-- 'I need to clean the room.' -- He explains his feelings to her.
+- 'Now let us talk.' You'll hear 'now' all the time in the show, here connected with 'we'll have a talk'.
+- 'Remember, we should take a new step?' Notice the word order: 'do you remember' comes first, and 'step' finishes the sentence.
+- 'I have a feeling you are not ready yet.' Instead of a verb for 'to have', Russian says 'by me' or 'with you' followed by 'ready'.
+- 'Me?' You'll hear 'I' all the time in the show, here connected with 'I'.
+- 'I am ready.' The key word here means 'I', which Kostya combines with 'ready'.
+- 'Are you sure?' Nastya starts with 'definitely' and pairs it with 'definitely' to make the point clear.
+- 'I am sure.' Kostya starts with 'definitely' and pairs it with 'definitely' to make the point clear. And Nastya jumps in.
+- 'Then I will invite my parents over for the weekend.' Nastya puts 'back then' up front so the listener immediately catches the tone, followed by 'weekends'.
+- 'Okay.' The key word here means 'all right', which Kostya combines with 'all right'.
+- 'Wait, your parents?' A compact expression built around 'wait' and 'parents'. Nastya answers straight away.
+- 'Yes, my mother and father.' Listen for the word meaning 'mother' right alongside 'daddy' in this line.
+- 'To our apartment?' Notice the word order: 'flat' comes first, and 'flat' finishes the sentence.
+- 'Of course, where else?' Nastya starts with 'of course' and pairs it with 'where to' to make the point clear. Then Kostya replies.
+- 'I need to clean the room.' Here 'to me' sets up the idea, while 'the room' comes at the end for emphasis.

@@ -15,7 +15,7 @@ SOURCE_NOTE = "Cues."
 INTRO = "In this scene focused on aynura spice, another illegal worker is hidden. The inspector concludes the kitchen is clean. Max offers his pâté. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
-OUTRO = "Goodbye."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around aynura spice, and for the words meaning 'got' and 'illegal immigrant'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Конец.")
 
 STORY = [
@@ -37,18 +37,18 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Where did you get that?' — Notice the pronoun meaning 'you' paired with the pronoun for 'what?'."),
-    (1, None, "'Another illegal.' — Notice the adverb meaning 'more, still' paired with the numeral for 'one'."),
-    (2, None, "'Lord, where to put you?' — Notice the interjection meaning 'Good Lord' paired with the adverb for 'where to'."),
-    (3, None, "'You will sit in the toilet.' — Notice the pronoun meaning 'you' paired with the verb for 'to sit out'."),
-    (4, None, "'Then leave through the entrance.' — Notice the adverb meaning 'then' paired with the verb for 'to leave'."),
-    (5, None, "'They are on guard at the entrance.' — Notice the pronoun meaning 'they' paired with the verb for 'to be on duty'."),
-    (6, None, "'He will sit in the hall.' — Notice the verb meaning 'to sit down' paired with the noun for 'the hall'."),
-    (7, None, "'Go to the bar, take clothes.' — Notice the verb meaning 'go (and come back)' paired with the noun for 'bar'."),
-    (8, None, "'Endure, come on.' — Notice the verb meaning 'bear, endure' paired with the verb for 'let's'."),
-    (9, None, "'I congratulate you.' — Notice the verb meaning 'congratulations (lit. I congratulate)' paired with the pronoun for 'you'."),
-    (10, None, "'Everything is clean with you.' — Notice the pronoun meaning 'you' paired with the det for 'all'."),
-    (11, None, "'I told you right away.' — Notice the pronoun meaning 'I' paired with the pronoun for 'you (polite)'."),
-    (12, None, "'I have no right to believe.' — Notice the pronoun meaning 'I' paired with the verb for 'have (   = I mean)'."),
+    (0, None, "'Where did you get that?' In Russian, 'you' leads into 'got' in a very natural everyday phrasing."),
+    (1, None, "'Another illegal.' Notice the word order: 'more' comes first, and 'illegal immigrant' finishes the sentence. Then Chef Viktor replies."),
+    (2, None, "'Lord, where to put you?' Chef Viktor puts 'Good Lord' up front so the listener immediately catches the tone, followed by 'where to'."),
+    (3, None, "'You will sit in the toilet.' Listen for the word meaning 'you' right alongside 'to sit out' in this line."),
+    (4, None, "'Then leave through the entrance.' In Russian, 'then' leads into 'entrance' in a very natural everyday phrasing. And /  / jumps in."),
+    (5, None, "'They are on guard at the entrance.' /  / starts with 'they' and pairs it with 'to be on duty' to make the point clear."),
+    (6, None, "'He will sit in the hall.' Chef Viktor puts 'to sit down' up front so the listener immediately catches the tone, followed by 'the hall'."),
+    (7, None, "'Go to the bar, take clothes.' The key word here means 'go', which Chef Viktor combines with 'bar'."),
+    (8, None, "'Endure, come on.' Here 'bear' sets up the idea, while 'let's' comes at the end for emphasis."),
+    (9, None, "'I congratulate you.' A compact expression built around 'congratulations' and 'you'."),
+    (10, None, "'Everything is clean with you.' You'll hear 'you' all the time in the show, here connected with 'clean'. Then Chef Viktor replies."),
+    (11, None, "'I told you right away.' Chef Viktor uses the polite plural 'you' here alongside 'I', keeping a formal or respectful tone."),
+    (12, None, "'I have no right to believe.' Notice the word order: 'I' comes first, and 'to believe' finishes the sentence."),
     (13, None, "'We are professionals.' — Notice the pronoun meaning 'we' paired with the noun for 'professionals'."),
 ]

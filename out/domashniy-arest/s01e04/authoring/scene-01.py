@@ -108,7 +108,7 @@ WALK = [
   "'It's been like that all night! He's having terrible dreams.' In Russian, dreams appear 'to' you: literally "
   "'to him terrible dreams dream themselves'. Zavarzin asks the only question that matters."),
  (10, None,
-  "'And didn't he say where the money is?'"),
+  "'And didn't he say where the money is?' A compact expression built around 'where' and 'said'."),
  (11, None,
   "'He says I won't tell, and that's it! He hasn't said a thing.' Notice the double negative in the second "
   "sentence: 'nothing not said'."),

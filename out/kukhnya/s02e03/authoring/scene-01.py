@@ -31,23 +31,23 @@ STORY = [
 OPENER = "Let's listen to their conversation."
 
 WALK = [
- (0, "Считают, что человек – хозяин судьбы.", "'They say we are masters of our fate.' ENG Note how he philosophizes about life."),
- (1, "Мы сами всё решаем.", "'We decide everything ourselves.' ENG This means we have control."),
- (2, None, "'We decide who we want to be with.' ENG A deep reflection on love."),
- (3, "Всё зависит только от нас.", "'Everything depends only on us.' ENG He emphasizes personal responsibility."),
- (4, "Но судьба преподносит нам сюрприз.", "'But fate brings us a surprise.' ENG Things do not always go as planned."),
- (5, None, "'When we start believing in this.' ENG Just when we feel secure."),
- (6, None, "'It usually does this.' ENG A common occurrence in life."),
- (7, "Хорошо, Тимур.", "'All right, Timur.' ENG The chef is talking to a supplier on the phone."),
- (8, "Привези мне мясо ягнёнка.", "'Bring me some lamb meat.' ENG He is ordering ingredients for the kitchen."),
- (9, None, "'A young lamb, not a pensioner.' ENG He demands high quality, fresh meat."),
- (10, "Не как вчера.", "'Not like yesterday.' ENG He was unhappy with the previous delivery."),
- (11, None, "'Yesterday the meat was bad.' ENG The chef complains about poor ingredients."),
+ (0, "Считают, что человек – хозяин судьбы.", "'They say we are masters of our fate.' The question word for 'what' comes right at the start, followed directly by 'fate'."),
+ (1, "Мы сами всё решаем.", "'We decide everything ourselves.' Max puts 'we' up front so the listener immediately catches the tone, followed by 'yourselves'."),
+ (2, None, "'We decide who we want to be with.' The key word here means 'we', which Max combines with 'decide'."),
+ (3, "Всё зависит только от нас.", "'Everything depends only on us.' Here 'depends' sets up the idea, while 'us' comes at the end for emphasis."),
+ (4, "Но судьба преподносит нам сюрприз.", "'But fate brings us a surprise.' The key word here means 'fate', which Max combines with 'present'."),
+ (5, None, "'When we start believing in this.' Max starts with 'when' and pairs it with 'we' to make the point clear."),
+ (6, None, "'It usually does this.' Listen for the word meaning 'it' right alongside 'does' in this line."),
+ (7, "Хорошо, Тимур.", "'All right, Timur.' In Russian, 'good' leads into 'Timur' in a very natural everyday phrasing."),
+ (8, "Привези мне мясо ягнёнка.", "'Bring me some lamb meat.' A compact expression built around 'to bring' and 'lamb'."),
+ (9, None, "'A young lamb, not a pensioner.' A compact expression built around 'young' and 'pensioner'."),
+ (10, "Не как вчера.", "'Not like yesterday.' A compact expression built around 'how' and 'yesterday'."),
+ (11, None, "'Yesterday the meat was bad.' Chef Viktor puts 'yesterday' up front so the listener immediately catches the tone, followed by 'was'."),
 ]
 
 TRANSITION = "Now let's hear the whole thing once more."
 
-OUTRO = "That wraps up this scene."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around fate's surprise, and for the words meaning 'consider' and 'a man'. You'll catch them now. See you next time."
 CLOSING = ("chef", "Молодого ягнёнка!")
 
 NOTES = []

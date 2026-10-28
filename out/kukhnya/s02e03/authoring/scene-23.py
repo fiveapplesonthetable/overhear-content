@@ -14,7 +14,7 @@ SOURCE_FILE = "sources/kukhnya/s02/e03.ru.dual.srt"
 INTRO = "In this scene focused on justice, the characters discuss their situation. Hey, my friend, hop in. Let's listen closely to Chef Viktor and the staff's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around justice, and for the words meaning 'dear' and 'to take a seat'. You'll catch them now. See you next time."
 CLOSING = ('maks', 'Но в этом есть справедливость.')
 
 STORY = [
@@ -33,17 +33,17 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Hey, my friend, hop in.' -- The speaker states this. ENG"),
-    (1, None, "'Timur, what are you doing here?' -- The speaker states this. ENG"),
-    (2, None, "'Elena told me to drive you.' -- The speaker states this. ENG"),
-    (3, None, "'I hope you have a nice friend.' -- The speaker states this. ENG"),
-    (4, None, "'Justice is giving someone their due.' -- The speaker states this. ENG"),
-    (5, None, "'Cicero said so.' -- The speaker states this. ENG"),
-    (6, None, "'But that's bullshit.' -- The speaker states this. ENG"),
-    (7, None, "'Cicero didn't live now.' -- The speaker states this. ENG"),
-    (8, None, "'People lie.' -- The speaker states this. ENG"),
-    (9, None, "'Someone gets punished for someone else.' -- The speaker states this. ENG"),
-    (10, None, "'Life is complicated.' -- The speaker states this. ENG"),
-    (11, None, "'But there is justice in that.' -- The speaker states this. ENG"),
+    (0, None, "'Hey, my friend, hop in.' The reflexive ending on the verb for 'to take a seat' turns the action back onto the subject."),
+    (1, None, "'Timur, what are you doing here?' Chef Viktor uses the casual singular 'you' with 'Timur', as close colleagues and friends do."),
+    (2, None, "'Elena told me to drive you.' In Russian, 'Yelena' leads into 'you' in a very natural everyday phrasing."),
+    (3, None, "'I hope you have a nice friend.' Timur uses the casual singular 'you' with 'hope so', as close colleagues and friends do."),
+    (4, None, "'Justice is giving someone their due.' The key word here means 'justice', which Max combines with 'this'."),
+    (5, None, "'Cicero said so.' Max starts with 'said' and pairs it with 'Cicero' to make the point clear."),
+    (6, None, "'But that's bullshit.' Max puts 'this' up front so the listener immediately catches the tone, followed by 'nonsense'."),
+    (7, None, "'Cicero didn't live now.' The first content word means 'Cicero', and 'now' rounds out the thought."),
+    (8, None, "'People lie.' You'll hear 'people' all the time in the show, here connected with 'cheat'."),
+    (9, None, "'Someone gets punished for someone else.' Notice the word order: 'someone' comes first, and 'other' finishes the sentence."),
+    (10, None, "'Life is complicated.' Listen for the word meaning 'life' right alongside 'complicated' in this line."),
+    (11, None, "'But there is justice in that.' The first content word means 'that', and 'justice' rounds out the thought."),
 ]
 

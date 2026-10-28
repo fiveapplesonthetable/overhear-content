@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vik,' -- ENG He casually calls out her name.
-- 'Looks like your plan worked.' -- ENG He loudly announces the success of their trick.
-- 'Shut up, please.' -- ENG She nervously asks him to stop talking.
-- 'This is our new owner.' -- ENG She quietly explains the identity of the man.
+- 'Vik,' Here 'Vika' sets up the idea, while 'Vika' comes at the end for emphasis.
+- 'Looks like your plan worked.' A compact expression built around 'apparently' and 'plan'. And Vika jumps in.
+- 'Shut up, please.' Notice the word order: 'to fall silent' comes first, and 'to fall silent' finishes the sentence.
+- 'This is our new owner.' You'll hear 'this' all the time in the show, here connected with 'owner'.

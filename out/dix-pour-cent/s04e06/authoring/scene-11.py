@@ -14,7 +14,7 @@ LABELS = {'lea': 'Elise', 'gabriel': 'Gabriel'}
 INTRO = "In the ASK hallway, Gabriel angrily confronts Élise about a shady behind-the-scenes move regarding Sofia's career. We will hear it in French first, so don't worry about catching every word."
 OPENER = "Let's go back through it. Gabriel asks a direct question."
 TRANSITION = "Let's listen to the whole scene again."
-OUTRO = 'Elise continues to pressure Gabriel.'
+OUTRO = 'And that's it for this scene. When you watch the episode, listen out for the exchange around was that you, and for the words meaning 'to be' and 'to understand'. You'll catch them now. See you next time.'
 
 STORY = [
     ('gabriel', "C'était toi?", 'Was that you?', [(410, "C'était toi?")], ''),

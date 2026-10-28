@@ -31,21 +31,21 @@ STORY = [
 OPENER = "Let's listen to their conversation."
 
 WALK = [
- (0, "Виктор Петрович, вы живы?", "'Viktor Petrovich, are you alive?' ENG She is shocked and worried."),
- (1, "А?", "'Huh?' ENG He is dazed and confused."),
- (2, "Ой, вы простите меня.", "'Oh, please forgive me.' ENG She apologizes profusely."),
- (3, None, "'For God's sake, forgive me.' ENG She is very sorry."),
- (4, "Я вас просто не заметила.", "'I just didn't see you.' ENG She explains her mistake."),
- (5, "Так вы расправляетесь с конкурентами.", "'So this is how you deal with the competition.' ENG He jokes despite the pain."),
- (6, "Дайте, я вас приподниму.", "'Here, let me help you up.' ENG She tries to assist him."),
- (7, None, "'We will go to the hospital.' ENG She wants to get him medical help."),
- (8, "Мне больно.", "'It hurts.' ENG He complains about his injuries."),
- (9, "Надо ехать к врачу.", "'We need to go to the doctor.' ENG She insists on medical attention."),
- (10, "Ладно, поехали.", "'All right, let's go.' ENG He agrees to go with her."),
- (11, None, "'Careful.' ENG She helps him gently."),
+ (0, "Виктор Петрович, вы живы?", "'Viktor Petrovich, are you alive?' Notice the word order: 'Viktor' comes first, and 'living' finishes the sentence."),
+ (1, "А?", "'Huh?' Notice the word order: 'and' comes first, and 'and' finishes the sentence."),
+ (2, "Ой, вы простите меня.", "'Oh, please forgive me.' Here 'oh' sets up the idea, while 'me' comes at the end for emphasis."),
+ (3, None, "'For God's sake, forgive me.' Listen for the word meaning 'God' right alongside 'excuse me' in this line."),
+ (4, "Я вас просто не заметила.", "'I just didn't see you.' In Russian, 'I' leads into 'to notice' in a very natural everyday phrasing."),
+ (5, "Так вы расправляетесь с конкурентами.", "'So this is how you deal with the competition.' A compact expression built around 'you' and 'rival'. Then Elena replies."),
+ (6, "Дайте, я вас приподниму.", "'Here, let me help you up.' Elena puts 'give' up front so the listener immediately catches the tone, followed by 'I'."),
+ (7, None, "'We will go to the hospital.' Elena starts with 'will be off' and pairs it with 'the hospital' to make the point clear."),
+ (8, "Мне больно.", "'It hurts.' The first content word means 'to me', and 'it hurts' rounds out the thought. And Elena jumps in."),
+ (9, "Надо ехать к врачу.", "'We need to go to the doctor.' The key word here means 'it is necessary', which Elena combines with 'to drive'."),
+ (10, "Ладно, поехали.", "'All right, let's go.' Listen for the word meaning 'here we go' right alongside 'here we go' in this line."),
+ (11, None, "'Careful.' You'll hear 'careful' all the time in the show, here connected with 'careful'."),
 ]
 
 TRANSITION = "Now let's hear the whole thing once more."
 
-OUTRO = "That wraps up this scene."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around crash on the street, and for the words meaning 'living' and 'excuse me'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Осторожно.")

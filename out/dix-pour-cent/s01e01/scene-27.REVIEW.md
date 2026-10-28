@@ -41,7 +41,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'No, it isn't like that.' Here's the main grammar point of this scene. To say 'not', French wraps the verb in two little words, one before and one after. The first one loses its vowel before 'is'. Listen to it again in the next line.
 - 'I'm not a chatterbox.' Same pattern: the two little negative words hug the verb 'am'. The word for 'chatterbox' ends in the feminine form, because Camille is talking about herself. Andréa doesn't want to hear it.
 - 'Get your things.' Three words, and Camille is fired. It's a casual command, said to one person. Hervé, at the next desk, tries to soften the blow.
-- 'It was short, but intense.' He talks about her job as if it were a little love story. Then he looks on the bright side.
+- 'It was short, but intense.' A compact expression built around 'it was' and 'intense'.
 - 'But there's a bright side.' Literally 'there is a positive side'. The opening three words mean 'there is', and you hear them everywhere in French.
 - 'You're far from this business.' Hervé means she has escaped a nasty world. The word for business is simply the English one.
 - 'I really mean it.' Literally 'I think it really'. Now Hervé turns to Noémie, who hasn't looked up from her screen.

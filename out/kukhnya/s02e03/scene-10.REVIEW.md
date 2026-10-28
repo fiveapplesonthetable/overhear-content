@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I feel good with you.' — Notice the adverb meaning 'good, fine' paired with the pronoun for 'you'.
-- 'I feel good too.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the adverb for 'too'.
-- 'Especially when you are without clothes.' — Notice the adverb meaning 'especially' paired with the adverb for 'when'.
-- 'You are very funny.' — Notice the pronoun meaning 'you' paired with the adverb for 'very much'.
-- 'I am serious.' — Notice the pronoun meaning 'I' paired with the noun for 'seriously'.
-- 'I know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'.
-- 'Should I call you a taxi?' — Notice the pronoun meaning 'for you, to you' paired with the verb for 'to call, to summon'.
-- 'Why?' — Built around the key adverb meaning 'what for'.
-- 'You are without a car today.' — Notice the pronoun meaning 'you' paired with the adverb for 'today'.
-- 'How will you get home?' — Notice the adverb meaning 'how' paired with the pronoun for 'you'.
-- 'I will go by subway.' — Notice the pronoun meaning 'I' paired with the verb for 'will go'.
-- 'The subway is already closed.' — Notice the noun meaning 'metro' paired with the adverb for 'already, now'.
+- 'I feel good with you.' The first content word means 'good', and 'you' rounds out the thought.
+- 'I feel good too.' Notice the word order: 'to me' comes first, and 'good' finishes the sentence.
+- 'Especially when you are without clothes.' In Russian, 'especially' leads into 'clothes' in a very natural everyday phrasing.
+- 'You are very funny.' You'll hear 'you' all the time in the show, here connected with 'funny'.
+- 'I am serious.' The key word here means 'I', which Sasha combines with 'seriously'. Then Max replies.
+- 'I know.' The key word here means 'I', which Max combines with 'know'.
+- 'Should I call you a taxi?' Notice the word order: 'for you' comes first, and 'taxi' finishes the sentence.
+- 'Why?' In Russian, 'what for' leads into 'what for' in a very natural everyday phrasing. And Sasha jumps in.
+- 'You are without a car today.' Sasha puts 'you' up front so the listener immediately catches the tone, followed by 'today'.
+- 'How will you get home?' Sasha starts with 'how' and pairs it with 'you' to make the point clear.
+- 'I will go by subway.' The first content word means 'I', and 'metro' rounds out the thought. Sasha answers straight away.
+- 'The subway is already closed.' A compact expression built around 'metro' and 'to close'.

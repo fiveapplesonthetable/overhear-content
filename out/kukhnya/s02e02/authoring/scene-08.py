@@ -15,7 +15,7 @@ INTRO = "In the middle of the kitchen chaos, a very brief exchange happens betwe
 
 STORY = [
     ('anya', 'Привет.', 'Hi.', [], 'new'),
-    ('anton', 'Привет, аня.', 'Hi, my friend.', [], 'new'),
+    ('anton', 'Привет, Вика.', 'Hi, Vika.', [], 'new'),
     ('anya', 'Вот твоя вещь.', 'Here is your thing.', [], 'new'),
     ('anya', 'Возьми это.', 'Take this.', [], 'new'),
     ('anya', 'Держи.', 'Here you go.', [(157, 'Держи')], ''),
@@ -33,7 +33,7 @@ OPENER = "Let's listen to this short interaction."
 
 WALK = [
     (0, None, "'Hi.' A quick greeting."),
-    (1, None, "'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the noun for 'Anya'."),
+    (1, None, "'Hi, Vika.' Notice the word order: 'hi' comes first, and 'Vika' finishes the sentence."),
     (2, None, "'Here is your thing.' Something needed to be returned."),
     (3, None, "'Take this.' A simple command."),
     (4, 'Держи.', "'Here you go.' Giving the item over."),
@@ -49,5 +49,5 @@ WALK = [
 
 TRANSITION = "Now let's hear the whole thing once more."
 
-OUTRO = "That wraps up this scene."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around here you go, and for the words meaning 'Vika' and 'thing'. You'll catch them now. See you next time."
 CLOSING = ("anya", "До свидания!")

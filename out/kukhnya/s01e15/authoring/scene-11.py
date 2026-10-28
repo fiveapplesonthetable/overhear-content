@@ -61,29 +61,29 @@ WALK = [
     (0, None,
      "'Fedya, take care of the last order.' — Notice the proper name meaning 'Fedya' paired with the verb for 'to attend to, take care of, engage in'."),
     (1, None,
-     "'That is it, the kitchen is closed.' — Notice the det meaning 'everything' paired with the noun for 'kitchen'."),
+     "'That is it, the kitchen is closed.' Notice the word order: 'kitchen' comes first, and 'classified' finishes the sentence."),
     (2, None,
-     "'I always said that you are the most capable.' — Notice the pronoun meaning 'I' paired with the adverb for 'always'."),
+     "'I always said that you are the most capable.' Here 'I' sets up the idea, while 'capable' comes at the end for emphasis. Lyova answers straight away."),
     (3, None,
      "'Viktor Petrovich, you have a sick heart.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'."),
     (4, None,
-     "'My heart is in perfect order.' — Notice the noun meaning 'heart (a bad heart)' paired with the pronoun for 'me'."),
+     "'My heart is in perfect order.' Listen for the word meaning 'heart' right alongside 'me' in this line."),
     (5, None,
-     "'So you tricked me?' — Notice the pronoun meaning 'you' paired with the pronoun for 'me'."),
+     "'So you tricked me?' Here 'cheated' uses the plural past-tense ending, which also serves for the polite 'you'. Then Viktor replies."),
     (6, None,
-     "'And how else could I bring you back?' — Notice the adverb meaning 'how' paired with the adverb for 'more, still'."),
+     "'And how else could I bring you back?' The key word here means 'how', which Viktor combines with 'more'."),
     (7, None,
-     "'Ah, you bastard!' — Notice the interjection meaning 'oh' paired with the pronoun for 'you'."),
+     "'Ah, you bastard!' The first content word means 'oh', and 'scoundrel' rounds out the thought."),
     (8, None,
      "'Leva, calm down!' — Notice the proper name meaning 'Lyova' paired with the verb for 'calm down'."),
     (9, None,
-     "'I will give you an attack right now!' — Notice the pronoun meaning 'I' paired with the pronoun for 'for you, to you'."),
+     "'I will give you an attack right now!' Here 'I' sets up the idea, while 'attack' comes at the end for emphasis."),
     (10, None,
      "'Leva, put that in its place!' — Notice the proper name meaning 'Lyova' paired with the verb for 'put, place'."),
     (11, None,
-     "'I will kill you!' — Notice the pronoun meaning 'I' paired with the verb for 'I'll kill (you)'."),
+     "'I will kill you!' In Russian, 'I' leads into 'you' in a very natural everyday phrasing."),
 ]
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around miraculous healing, and for the words meaning 'to attend to' and 'last'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Я убью тебя!")

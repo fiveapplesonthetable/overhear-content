@@ -76,7 +76,7 @@ WALK = [
  (9, None,
   "'Get your things.' Three words, and Camille is fired. It's a casual command, said to one person. Hervé, at the next desk, tries to soften the blow."),
  (10, None,
-  "'It was short, but intense.' He talks about her job as if it were a little love story. Then he looks on the bright side."),
+  "'It was short, but intense.' A compact expression built around 'it was' and 'intense'."),
  (11, None,
   "'But there's a bright side.' Literally 'there is a positive side'. The opening three words mean 'there is', and you hear them everywhere in French."),
  (12, "Tu es loin de ce business.",

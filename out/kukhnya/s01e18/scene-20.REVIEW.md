@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, we will have to part ways with you.' -- ENG Nagiyev formally dismisses the entire kitchen team.
-- 'Where are you off to so early?' -- ENG One cook arrives and asks his friends about their bags.
-- 'We got fired.' -- ENG Fedya reveals the shocking news to his friend.
-- 'How fired? You too?' -- ENG Senya is surprised that even the best cooks were let go.
-- 'Yes, we are all leaving.' -- ENG They confirm that the entire team has been dismissed.
-- 'And what did the chef say?' -- ENG The cook wonders if Viktor tried to protect them.
-- 'The chef did nothing.' -- ENG They express their disappointment in their former boss.
-- 'We often walk into the abyss.' -- ENG One of them philosophizes about their sudden failure.
-- 'Is this because of overconfidence?' -- ENG They reflect on how pride might have caused this.
-- 'Yes, we wanted too much.' -- ENG They admit that they were perhaps too demanding.
-- 'Here is your payout.' -- ENG Nagiyev hands them small envelopes with cash.
-- 'Only twenty thousand?' -- ENG A worker complains about the extremely small severance pay.
-- 'The rest will be at the end of the month.' -- ENG The owner promises to pay the remaining balance later.
+- 'Guys, we will have to part ways with you.' You'll hear 'the boys' all the time in the show, here connected with 'you'.
+- 'Where are you off to so early?' The question word for 'where to' comes right at the start, followed directly by 'early'.
+- 'We got fired.' Here 'us' sets up the idea, while 'to fire' comes at the end for emphasis. Senya answers straight away.
+- 'How fired? You too?' In Russian, 'how' leads into 'too' in a very natural everyday phrasing.
+- 'Yes, we are all leaving.' Fedya puts 'we' up front so the listener immediately catches the tone, followed by 'are leaving'.
+- 'And what did the chef say?' Senya starts with 'what' and pairs it with 'said' to make the point clear. Then Fedya replies.
+- 'The chef did nothing.' Fedya puts 'chef' up front so the listener immediately catches the tone, followed by 'nothing'.
+- 'We often walk into the abyss.' You'll hear 'we' all the time in the show, here connected with 'to disappear'.
+- 'Is this because of overconfidence?' There is no question word here — in Russian, rising intonation on 'overconfidence' is enough to make it a question. And Fedya jumps in.
+- 'Yes, we wanted too much.' A compact expression built around 'we' and 'wanted'.
+- 'Here is your payout.' The first content word means 'final pay', and 'final pay' rounds out the thought.
+- 'Only twenty thousand?' A compact expression built around 'only' and 'thousand'. Dmitry answers straight away.
+- 'The rest will be at the end of the month.' In Russian, 'remaining' leads into 'months' in a very natural everyday phrasing.

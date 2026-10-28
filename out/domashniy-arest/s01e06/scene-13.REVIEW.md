@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - Nina stares at the picture in shock and turns to her son: 'Oh, and where did you get this?'
 - 'Were you spying on Inga Evgenyevna?' The verb for peeking or spying takes the preposition meaning 'behind' plus the instrumental case.
 - The teacher is indignant at Nina's naive question: 'Do you think this is a real photograph?'
-- 'No, only the face here is mine.'
+- 'No, only the face here is mine.' the speaker starts with 'here' and pairs it with 'face' to make the point clear.
 - 'He made this on the computer, in Photoshop.' Both nouns are in the prepositional case after 'in'.
 - 'And he disrupted the lesson!' Literally he tore off or ruined the class.
 - Samson glares at his son: 'Slavik, do you hear what the teachers are saying?'
@@ -43,9 +43,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - Samson apologises to the teachers: 'Excuse us, we will fix everything.'
 - Then the teacher turns to Slavik: 'You should follow your sister's example!' Literally 'you would take an example from your sister'.
 - 'Your sister is smart, serious, and hardworking.' Three feminine adjectives in a row—which leads to an unexpected question.
-- 'By the way, how is her health?'
+- 'By the way, how is her health?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'by the way' straight to 'health'.
 - Nina blinks in surprise: 'Who, Yulya? Fine, thank you.' After all, Yulya leaves the flat with her schoolbag every morning.
-- 'So the operation went well?'
+- 'So the operation went well?' The key word here means 'that', which the speaker combines with 'is'.
 - Samson is completely baffled: 'What operation?'
 - 'It must be something serious for you,' the teacher says sympathetically.
 - 'The girl has been lying in the regional clinic for two weeks already!' Notice how Russian uses the present tense with 'already two weeks' for an action that started in the past and continues now.

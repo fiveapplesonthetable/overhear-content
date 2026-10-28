@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this in my dessert?' — Notice the pronoun meaning 'what' paired with the pronoun for 'this'.
-- 'I almost broke a tooth because of you!' — Notice the pronoun meaning 'I' paired with the pronoun for 'you'.
-- 'Please forgive us.' — Notice the verb meaning 'excuse me' paired with the pronoun for 'us'.
-- 'First, learn to speak Russian!' — Notice the pronoun meaning 'you' paired with the adverb for 'first, at first'.
-- 'Why did you come here?' — Notice the adverb meaning 'what for' paired with the pronoun for 'you'.
-- 'So people would break their teeth?' — Notice the noun meaning 'people' paired with the verb for 'to break'.
-- 'I am the pastry chef, it is my fault.' — Notice the pronoun meaning 'I' paired with the noun for 'pastry chef'.
-- 'Leave the pastry chef alone.' — Notice the verb meaning 'leave' paired with the noun for 'pastry chef'.
-- 'And who are you?' — Notice the pronoun meaning 'you' paired with the pronoun for 'who'.
-- 'I am the head chef of this restaurant.' — Notice the pronoun meaning 'I' paired with the noun for 'head chef'.
-- 'I am responsible for everything in the kitchen.' — Notice the pronoun meaning 'I' paired with the verb for 'to answer, to reply'.
-- 'Do you have complaints against me?' — Notice the pronoun meaning 'you' paired with the verb for 'there is (   = I have)'.
-- 'Here is my complaint, hold it.' — Notice the det meaning 'my' paired with the noun for 'complaint, claim'.
-- 'Delicious dessert, thank you very much.' — Notice the adjective meaning 'delicious' paired with the noun for 'dessert'.
+- 'What is this in my dessert?' Here 'what' sets up the idea, while 'dessert' comes at the end for emphasis.
+- 'I almost broke a tooth because of you!' the guest puts 'I' up front so the listener immediately catches the tone, followed by 'you'.
+- 'Please forgive us.' Louis starts with 'excuse me' and pairs it with 'us' to make the point clear. Then the guest replies.
+- 'First, learn to speak Russian!' The reflexive ending on the verb for 'learn' turns the action back onto the subject.
+- 'Why did you come here?' In Russian, 'what for' leads into 'came' in a very natural everyday phrasing.
+- 'So people would break their teeth?' In Russian, 'people' leads into 'tooth' in a very natural everyday phrasing. And Louis jumps in.
+- 'I am the pastry chef, it is my fault.' Louis puts 'I' up front so the listener immediately catches the tone, followed by 'pastry chef'.
+- 'Leave the pastry chef alone.' Notice the word order: 'leave' comes first, and 'peace' finishes the sentence.
+- 'And who are you?' Notice the word order: 'you' comes first, and 'who' finishes the sentence. Lyova answers straight away.
+- 'I am the head chef of this restaurant.' A compact expression built around 'I' and 'restaurant'.
+- 'I am responsible for everything in the kitchen.' A compact expression built around 'I' and 'kitchen'.
+- 'Do you have complaints against me?' Lyova starts with 'you' and pairs it with 'there is' to make the point clear. Then the guest replies.
+- 'Here is my complaint, hold it.' the guest starts with 'complaint' and pairs it with 'hold' to make the point clear.
+- 'Delicious dessert, thank you very much.' Here 'delicious' sets up the idea, while 'thank you' comes at the end for emphasis.

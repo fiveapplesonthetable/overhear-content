@@ -88,5 +88,5 @@ WALK = [
 ]
 
 TRANSITION = "Now let's listen to the conversation again without interruption."
-OUTRO = "Lyova is sent to the storeroom in disgrace."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around favor for a favor, and for the words meaning 'get carried away' and 'pancake'. You'll catch them now. See you next time."
 CLOSING = ("vika", "Марш в подсобку.")

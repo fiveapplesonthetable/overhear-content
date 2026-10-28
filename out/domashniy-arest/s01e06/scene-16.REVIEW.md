@@ -32,22 +32,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The book is new, we just received it.' The two-word phrase before the verb means 'just now'.
 - 'Please treat it carefully.' The reflexive verb for 'treat' or 'relate to' takes the preposition 'to' plus the dative case.
 - Samson grins reassuringly: 'Don't you worry, everything will be great!' That casual tone sets the librarian off.
-- 'I don't have to give you anything at all!'
+- 'I don't have to give you anything at all!' Notice the word order: 'I' comes first, and 'to give' finishes the sentence.
 - 'Because you are a chronic debtor.' Literally a malicious or habitual debtor.
 - 'When did you borrow Nosov's book?' Nikolai Nosov is the famous Soviet author of the children's stories about Neznaika, or Know-Nothing.
 - 'In the year eighty-four!' Notice the locative ending '-u' on the word for 'year'.
-- 'Thirty-four years have passed already!'
+- 'Thirty-four years have passed already!' The first content word means 'already', and 'have passed' rounds out the thought.
 - 'Aren't you ashamed?' Literally 'to you is it not shameful?'.
 - Samson defends himself: 'But I did return Machiavelli!'
 - 'And where that Neznaika is, I don't know.' He borrowed it when he was ten years old!
-- 'Look for it at home! And treat the new book carefully.'
+- 'Look for it at home! And treat the new book carefully.' Notice the word order: 'look for' comes first, and 'carefully' finishes the sentence.
 - Samson takes the book politely: 'Thank you. Goodbye!' Outside the library, Major Lavrov and Captain Ovechkin inspect young Lieutenant Lyova in his oversized child's clothes.
 - 'Well, does Lyova look like a child?' The short adjective for 'similar to' or 'looks like' takes the preposition 'onto' plus the accusative.
-- 'Stop pulling the hat down onto your forehead!'
+- 'Stop pulling the hat down onto your forehead!' Listen for the word meaning 'the hat' right alongside 'forehead' in this line.
 - Spotting Samsonov coming out of the library doors, Lavrov gives the signal: 'There goes Samsonov! Right, come on, lieutenant, go!' Suddenly Lavrov notices a bulge under Lyova's jacket.
-- 'Stop, why did you take a pistol?'
+- 'Stop, why did you take a pistol?' Notice the word order: 'stop' comes first, and 'took' finishes the sentence.
 - 'Are you out of your mind? Give it here!' Lavrov confiscates the service pistol before sending Lyova to pick a fight.
 - 'When you come back, I'll give it back.' Notice how two future-tense perfective verbs side by side mean 'when you return, I will give it back'. Meanwhile, Samson answers a call from Nina.
-- 'Hello, Nina! I was at the library. What happened? Right, I'll be there soon.'
-- 'I'm walking already!'
+- 'Hello, Nina! I was at the library. What happened? Right, I'll be there soon.' the speaker starts with 'Nina' and pairs it with 'I' to make the point clear.
+- 'I'm walking already!' Listen for the word meaning 'I am walking' right alongside 'already' in this line.
 - 'Right now through the park and the bridge, and I'm home.' That footbridge is where Lyova is waiting for him.

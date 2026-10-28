@@ -32,23 +32,23 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - Finding young Lyosha alone in Marina's room, Uncle Grisha tells the boy: 'Boy, your mum owes us money!' When Lyosha replies that his mother called them extortionists, Grisha turns to timid Kostik.
 - 'Come on, Kostik, let's leave her a message!' Notice the first-person plural future form used as 'let's leave'.
 - Kostik is shocked: 'Are you kidding me?' Earlier on the stairs Grisha complained that Kostik did not know how to illustrate a threat, so now Grisha demonstrates.
-- 'Watch how you have to illustrate!'
+- 'Watch how you have to illustrate!' In Russian, 'watch' leads into 'to illustrate' in a very natural everyday phrasing.
 - 'Smash! Break!' Two blunt informal imperatives as Grisha starts wrecking the room.
 - 'Go on, this one, yes!' Hearing the noise from the corridor, Arkady walks in.
 - 'Listen, guys, can I have you for a minute?' Literally 'is it possible to have you for a minute?', an everyday polite way to ask for a word with someone.
 - 'What for?' One blunt question word.
-- 'There's an interesting conversation.'
+- 'There's an interesting conversation.' Arkady starts with 'there is' and pairs it with 'interesting' to make the point clear.
 - He reassures young Lyosha — 'Everything is fine, kid' — and leads the two collectors out to his own room.
-- 'Guys, I understand, that's the job you have.'
+- 'Guys, I understand, that's the job you have.' The key word here means 'guys', which Arkady combines with 'I'.
 - 'But hurting children isn't right.' Suddenly Kostik stares at Arkady's glasses and recognises him.
-- 'Uncle Grisha, I know him!'
+- 'Uncle Grisha, I know him!' Notice the word order: 'Uncle' comes first, and 'know' finishes the sentence.
 - 'This is the mayor whom they threw out of the window!' Notice the accusative relative pronoun for an animate masculine noun.
-- 'Quite right, I am the mayor of this town.'
-- 'And my offer to you is this.'
+- 'Quite right, I am the mayor of this town.' You'll hear 'quite' all the time in the show, here connected with 'town'.
+- 'And my offer to you is this.' A compact expression built around 'offer' and 'such'.
 - 'You both leave here right now.' Present tense used as a firm command.
 - 'And you never come back here again. Clear?' Contrast the two adverbs: 'from here' versus 'to here'. Uncle Grisha is unimpressed.
 - 'How curious. And why must we obey you?' The reflexive verb takes the dative case, 'to you'. Arkady tries to intimidate them.
 - 'I have many dangerous friends.' After 'many', both the adjective and the noun take the genitive plural.
-- 'Otherwise I'll call the guys.'
+- 'Otherwise I'll call the guys.' The key word here means 'otherwise', which Arkady combines with 'I'.
 - 'They'll come and hurt you so badly!' Nervous Kostik immediately wants to leave.
-- 'Uncle Grisha, maybe let's go from here?'
+- 'Uncle Grisha, maybe let's go from here?' There is no question word here — in Russian, rising intonation on 'from here' is enough to make it a question.

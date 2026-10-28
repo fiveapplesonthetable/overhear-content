@@ -63,13 +63,13 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (4, None,
-     "'What is this?' -- ENG The furious customer points at his plate."),
+     "'What is this?' In Russian, 'this' leads into 'what' in a very natural everyday phrasing. Vika answers straight away."),
     (5, None,
-     "'Turkey salad.' -- ENG The waitress answers nervously."),
+     "'Turkey salad.' Notice the word order: 'salad' comes first, and 'turkey' finishes the sentence."),
     (7, None,
-     "'Was the turkey wearing pants and a belt?' -- ENG He sarcastically questions the weird object in his food."),
+     "'Was the turkey wearing pants and a belt?' the guest starts with 'turkey' and pairs it with 'was' to make the point clear."),
     (10, None,
-     "'Go get the idiot who made this.' -- ENG He aggressively demands to see the cook."),
+     "'Go get the idiot who made this.' the guest puts 'let's' up front so the listener immediately catches the tone, followed by 'call'."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

@@ -14,7 +14,7 @@ SOURCE_FILE = "sources/kukhnya/s02/e02.ru.dual.srt"
 INTRO = "In this scene focused on angry dad, max finds out that Nastya's dad came looking for Kostya but mistook Max for him and threatened him. Max is terrified. Let's listen closely to Max and Kostya's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around angry dad, and for the words meaning 'telephone' and 'can'. You'll catch them now. See you next time."
 CLOSING = ('anya', 'Что же мне делать?')
 
 STORY = [
@@ -35,19 +35,19 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'What's with your phones?' -- The speaker states this. ENG"),
-    (1, None, "'I can't get through.' -- The speaker states this. ENG"),
-    (2, None, "'My phone was stolen.' -- The speaker states this. ENG"),
-    (3, None, "'Mom called me.' -- The speaker states this. ENG"),
-    (4, None, "'Dad met Kostya.' -- The speaker states this. ENG"),
-    (5, None, "'But he thinks it's you.' -- The speaker states this. ENG"),
-    (6, None, "'I don't get it.' -- The speaker states this. ENG"),
-    (7, None, "'He thinks that you are Kostya.' -- The speaker states this. ENG"),
-    (8, None, "'Why did he come?' -- The speaker states this. ENG"),
-    (9, None, "'He threatened me.' -- The speaker states this. ENG"),
-    (10, None, "'Tell him the truth.' -- The speaker states this. ENG"),
-    (11, None, "'I can't.' -- The speaker states this. ENG"),
-    (12, None, "'He is very cruel.' -- The speaker states this. ENG"),
-    (13, None, "'What should I do?' -- The speaker states this. ENG"),
+    (0, None, "'What's with your phones?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'what' straight to 'telephone'."),
+    (1, None, "'I can't get through.' Notice the word order: 'I' comes first, and 'to get through' finishes the sentence."),
+    (2, None, "'My phone was stolen.' Here 'phone' sets up the idea, while 'stole' comes at the end for emphasis. Nastya answers straight away."),
+    (3, None, "'Mom called me.' Nastya puts 'to me' up front so the listener immediately catches the tone, followed by 'called'."),
+    (4, None, "'Dad met Kostya.' Listen for the word meaning 'Dad' right alongside 'to get acquainted' in this line."),
+    (5, None, "'But he thinks it's you.' Nastya uses the casual singular 'you' with 'he', as close colleagues and friends do. Then Max replies."),
+    (6, None, "'I don't get it.' The key word here means 'I', which Max combines with 'understood?'."),
+    (7, None, "'He thinks that you are Kostya.' The first content word means 'he', and 'Kostya' rounds out the thought."),
+    (8, None, "'Why did he come?' A compact expression built around 'what for' and 'used to come'. And Kostya jumps in."),
+    (9, None, "'He threatened me.' A compact expression built around 'he' and 'to me'."),
+    (10, None, "'Tell him the truth.' Max starts with 'say' and pairs it with 'him' to make the point clear."),
+    (11, None, "'I can't.' The little negative word sits right in front of the verb for 'can', just like 'not' in English."),
+    (12, None, "'He is very cruel.' Notice the word order: 'he' comes first, and 'cruel' finishes the sentence."),
+    (13, None, "'What should I do?' Here 'what' sets up the idea, while 'do' comes at the end for emphasis."),
 ]
 

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I will not celebrate my birthday.' -- ENG She talks to her friend on the phone.
-- 'And there is no need to gift me anything.' -- ENG She insists she does not want any presents.
-- 'Maybe we will just sit with Max.' -- ENG She plans a quiet evening at home.
-- 'I did not even know about the holiday.' -- ENG He is completely oblivious to the special occasion.
-- 'I just woke up.' -- ENG He enters the kitchen feeling sleepy.
-- 'And I already brewed coffee.' -- ENG She greets him with a warm morning drink.
-- 'Good morning, thank you for the coffee.' -- ENG He appreciates her nice gesture.
-- 'And have you not seen my watch?' -- ENG He starts looking around for his missing accessory.
-- 'Ah, you mean this watch?' -- ENG She points to the old item on the table.
-- 'Maybe buy you a new one?' -- ENG She suggests replacing the broken item.
-- 'This watch already barely works.' -- ENG She points out that the accessory is practically useless.
-- 'No, this is my grandfather's antique.' -- ENG He refuses to throw away his precious family heirloom.
+- 'I will not celebrate my birthday.' The little negative word sits right in front of the verb for 'will be', just like 'not' in English.
+- 'And there is no need to gift me anything.' In Russian, 'to gift' leads into 'it is necessary' in a very natural everyday phrasing.
+- 'Maybe we will just sit with Max.' The key word here means 'can', which Vika combines with 'we'.
+- 'I did not even know about the holiday.' Notice the word order: 'I' comes first, and 'holiday' finishes the sentence.
+- 'I just woke up.' The key word here means 'I', which Max combines with 'only'. Then Vika replies.
+- 'And I already brewed coffee.' Vika puts 'I' up front so the listener immediately catches the tone, followed by 'already'.
+- 'Good morning, thank you for the coffee.' Max puts 'good' up front so the listener immediately catches the tone, followed by 'morning'.
+- 'And have you not seen my watch?' The '-a' on the end of the past-tense verb for 'saw' tells you the subject is feminine. And Vika jumps in.
+- 'Ah, you mean this watch?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'you' straight to 'watch'.
+- 'Maybe buy you a new one?' The first content word means 'can', and 'new' rounds out the thought.
+- 'This watch already barely works.' Vika starts with 'this' and pairs it with 'watch' to make the point clear. Max answers straight away.
+- 'No, this is my grandfather's antique.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'this' straight to 'antiques'.

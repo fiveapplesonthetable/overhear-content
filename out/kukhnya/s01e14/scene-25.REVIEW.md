@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dim, come on, don't go quiet.' It is a simple phrase.
-- 'And it's time to go home. Everyone's tired.' It is a simple phrase.
-- 'And what are you tired from?' It is a simple phrase.
-- 'Drinking all day?' It is a simple phrase.
-- 'Chef, I'm sorry.' It is a simple phrase.
-- 'I guess I didn't handle it.' It is a simple phrase.
-- 'Lyova, come here.' It is a simple phrase.
-- 'Picking fights with guests isn't great.' It is a simple phrase.
-- 'But the head chef isn't only responsible for food.' It is a simple phrase.
-- 'First and foremost he is responsible for the team.' It is a simple phrase.
-- 'And today you acted like a real head chef.' It is a simple phrase.
-- 'You handled it. Well done.' It is a simple phrase.
+- 'Dim, come on, don't go quiet.' The little negative word sits right in front of the verb for 'be quiet', just like 'not' in English.
+- 'And it's time to go home. Everyone's tired.' Notice the word order: 'home' comes first, and 'got tired' finishes the sentence.
+- 'And what are you tired from?' The first content word means 'what?', and 'am tired' rounds out the thought.
+- 'Drinking all day?' You'll hear 'to booze' all the time in the show, here connected with 'day'.
+- 'Chef, I'm sorry.' Listen for the word meaning 'chef' right alongside 'sorry' in this line.
+- 'I guess I didn't handle it.' Viktor puts 'I' up front so the listener immediately catches the tone, followed by 'apparently'.
+- 'Lyova, come here.' A compact expression built around 'Lyova' and 'here'.
+- 'Picking fights with guests isn't great.' In Russian, 'to make a scene' leads into 'good' in a very natural everyday phrasing.
+- 'But the head chef isn't only responsible for food.' The first content word means 'head chef', and 'am driving' rounds out the thought.
+- 'First and foremost he is responsible for the team.' Viktor puts 'first' up front so the listener immediately catches the tone, followed by 'turn in the queue'.
+- 'And today you acted like a real head chef.' In Russian, 'you' leads into 'chef' in a very natural everyday phrasing.
+- 'You handled it. Well done.' The reflexive ending on the verb for 'to manage' turns the action back onto the subject.

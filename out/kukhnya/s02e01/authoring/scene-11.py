@@ -28,15 +28,15 @@ STORY = [
     ('kostya', 'Не простил бы.', "I wouldn't forgive you.", [], '')
 ]
 WALK = [
-    (0, None, "'Can you believe it? She wouldn't even listen.' — Notice the verb meaning 'can you imagine, believe' paired with the pronoun for 'it (the pipe)'."),
-    (1, None, "'I wouldn't either.' ENG: The second word means also or too, and the last words mean would not start."),
-    (2, None, "'What do you mean?' ENG: The phrase translates to in what sense and is a common way to ask what someone means."),
-    (3, None, "'Whose side are you on? Vika's or your friend's?' ENG: The first phrase means who are you for, asking which side they are taking."),
-    (5, None, "'But that doesn't change the fact you're a bastard.' ENG: The phrase means does not cancel, and the word for goat is used as an insult."),
-    (6, None, "'Keep at it, Kostya, keep at it.' ENG: The first word literally means saw as in cutting wood but colloquially means nag."),
-    (7, None, "'So if I cheated on you...' ENG: The first phrase means that is, and the verb means cheated or betrayed."),
-    (8, None, "'you wouldn't forgive me?' ENG: The verb means would not forgive."),
-    (9, None, "'Kostyan, it's not what you think.' ENG: The name is an affectionate form of his name."),
+    (0, None, "'Can you believe it? She wouldn't even listen.' Max starts with 'can you imagine' and pairs it with 'it' to make the point clear."),
+    (1, None, "'I wouldn't either.' Notice the word order: 'I' comes first, and 'have become' finishes the sentence."),
+    (2, None, "'What do you mean?' Max starts with 'sense' and pairs it with 'sense' to make the point clear."),
+    (3, None, "'Whose side are you on? Vika's or your friend's?' You'll hear 'you' all the time in the show, here connected with 'the friend'."),
+    (5, None, "'But that doesn't change the fact you're a bastard.' Listen for the word meaning 'this' right alongside 'cancels' in this line."),
+    (6, None, "'Keep at it, Kostya, keep at it.' Notice the word order: 'nag' comes first, and 'nag' finishes the sentence."),
+    (7, None, "'So if I cheated on you...' The key word here means 'there is', which Max combines with 'I'."),
+    (8, None, "'you wouldn't forgive me?' Max uses the casual singular 'you' with 'you', as close colleagues and friends do."),
+    (9, None, "'Kostyan, it's not what you think.' The key word here means 'Kostyan', which Kostya combines with 'this'."),
     (10, None, "'We're not even friends.' ENG: The adverb adds emphasis, meaning at all or not even.")
 ]
 

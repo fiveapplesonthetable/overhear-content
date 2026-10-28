@@ -33,16 +33,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, 'Разбудил?', "'Did I wake you?' — Built around the key verb meaning 'to wake (someone) up'."),
-    (1, 'Прости меня, пожалуйста.', "'Please forgive me.' — Notice the verb meaning 'sorry, forgive me' paired with the pronoun for 'me'."),
-    (2, 'Где ты вообще был?', "'Where were you, anyway?' — Notice the adverb meaning 'where' paired with the pronoun for 'you'."),
-    (3, 'Что тут допрос такой?', "'What is this, an interrogation?' — Notice the pronoun meaning 'what' paired with the adverb for 'here'."),
-    (4, 'Ты считаешь, что можешь шляться где угодно?', "'You think you can wander off anywhere?' — Notice the pronoun meaning 'you' paired with the verb for 'to count; to think, to consider'."),
-    (5, 'И приходить в три часа?', "'And stroll in at three o'clock?' — Notice the verb meaning 'to come, to walk in' paired with the numeral for 'three'."),
-    (6, 'Без пятнадцати.', "'Quarter to.' — Built around the key numeral meaning 'fifteen'."),
-    (7, 'Что у нас за отношения?', "'What kind of relationship do we have?' — Notice the pronoun meaning 'what' paired with the pronoun for 'us'."),
-    (8, 'У нас свободные отношения.', "'We have an open relationship.' — Notice the pronoun meaning 'us' paired with the adjective for 'free'."),
-    (9, 'Все хорошо.', "'Everything is fine.' — Notice the det meaning 'all' paired with the adverb for 'good, fine'."),
-    (10, 'Раз у нас свободные отношения,', "'Since we have an open relationship,' — Notice the noun meaning 'time, occasion' paired with the pronoun for 'us'."),
+    (0, 'Разбудил?', "'Did I wake you?' You'll hear 'to wake up' all the time in the show, here connected with 'to wake up'."),
+    (1, 'Прости меня, пожалуйста.', "'Please forgive me.' Max puts 'sorry' up front so the listener immediately catches the tone, followed by 'me'. Vika answers straight away."),
+    (2, 'Где ты вообще был?', "'Where were you, anyway?' You'll hear 'where' all the time in the show, here connected with 'was'."),
+    (3, 'Что тут допрос такой?', "'What is this, an interrogation?' Notice the word order: 'what' comes first, and 'interrogation' finishes the sentence."),
+    (4, 'Ты считаешь, что можешь шляться где угодно?', "'You think you can wander off anywhere?' The reflexive ending on the verb for 'wander' turns the action back onto the subject."),
+    (5, 'И приходить в три часа?', "'And stroll in at three o'clock?' Vika starts with 'to come' and pairs it with 'three' to make the point clear."),
+    (6, 'Без пятнадцати.', "'Quarter to.' Max puts 'fifteen' up front so the listener immediately catches the tone, followed by 'fifteen'."),
+    (7, 'Что у нас за отношения?', "'What kind of relationship do we have?' The key word here means 'what', which Vika combines with 'us'. And Max jumps in."),
+    (8, 'У нас свободные отношения.', "'We have an open relationship.' The key word here means 'us', which Max combines with 'free'."),
+    (9, 'Все хорошо.', "'Everything is fine.' A compact expression built around 'good' and 'good'."),
+    (10, 'Раз у нас свободные отношения,', "'Since we have an open relationship,' A compact expression built around 'time' and 'relations'."),
     (11, 'На сегодня ты свободен.', "'You are free for tonight.' — Notice the adverb meaning 'today' paired with the pronoun for 'you'.")
 ]

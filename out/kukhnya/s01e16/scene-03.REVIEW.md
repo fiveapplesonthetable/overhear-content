@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Do you want a war?' — Notice the pronoun meaning 'you' paired with the verb for 'want'.
-- 'There will be a war for you.' — Notice the verb meaning 'will be' paired with the pronoun for 'you (polite)'.
-- 'Hello, good afternoon.' — Notice the interjection meaning 'hello? (on the phone)' paired with the adjective for 'good'.
-- 'For what do they pay you money?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you (polite)'.
-- 'Where are you looking?' — Notice the pronoun meaning 'you' paired with the adverb for 'where to'.
-- 'There are migrants in my courtyard.' — Notice the det meaning 'my' paired with the noun for 'yard, courtyard'.
-- 'From the restaurant Arcobaleno.' — Notice the noun meaning 'restaurant' paired with the noun for 'Arcobaleno (restaurant)'.
-- 'They are slaughtering a live ram.' — Notice the pronoun meaning 'they' paired with the verb for 'cut'.
-- 'And are you sleeping there?' — Notice the pronoun meaning 'you' paired with the adverb for 'there'.
-- 'Come quickly.' — Notice the verb meaning 'to come (by transport), to arrive' paired with the adverb for 'quickly'.
-- 'Arcobaleno.' — Built around the key noun meaning 'Arcobaleno (restaurant)'.
-- 'What are you doing?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'.
-- 'I am solving our problems.' — Notice the pronoun meaning 'I' paired with the verb for 'decide'.
-- 'Well done, keep it up.' — Notice the noun meaning 'well done, good boy' paired with the verb for 'to keep, to hold'.
+- 'Do you want a war?' A compact expression built around 'you' and 'the war'.
+- 'There will be a war for you.' Notice the word order: 'will be' comes first, and 'a war' finishes the sentence.
+- 'Hello, good afternoon.' Here 'hello?' sets up the idea, while 'day' comes at the end for emphasis.
+- 'For what do they pay you money?' In Russian, 'what' leads into 'money' in a very natural everyday phrasing.
+- 'Where are you looking?' The question word for 'where to' comes right at the start, followed directly by 'look'.
+- 'There are migrants in my courtyard.' Dmitry starts with 'yard' and pairs it with 'migrant' to make the point clear.
+- 'From the restaurant Arcobaleno.' Dmitry puts 'restaurant' up front so the listener immediately catches the tone, followed by 'Arcobaleno'.
+- 'They are slaughtering a live ram.' Here 'they' sets up the idea, while 'ram' comes at the end for emphasis.
+- 'And are you sleeping there?' Listen for the word meaning 'you' right alongside 'there' in this line.
+- 'Come quickly.' Notice the word order: 'to come' comes first, and 'quickly' finishes the sentence.
+- 'Arcobaleno.' Listen for the word meaning 'Arcobaleno' right alongside 'Arcobaleno' in this line.
+- 'What are you doing?' The first content word means 'what', and 'are you doing' rounds out the thought.
+- 'I am solving our problems.' A compact expression built around 'I' and 'problems'. Chef Viktor answers straight away.
+- 'Well done, keep it up.' In Russian, 'well done' leads into 'to keep' in a very natural everyday phrasing.

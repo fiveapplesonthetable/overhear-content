@@ -40,7 +40,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Sit here, I will go out to him right now!' He marches down to the plant courtyard to chase the 'ex-boyfriend' away. Outside, Samson is waiting, convinced by school gossip that the wealthy plant owner is his teenage daughter's older lover.
 - 'You're the boss here, right? Well, take that, you old fool!' The adjective 'main, chief' means 'the boss', and 'hold this!' is what Russians say when throwing a punch. Samson knocks Ignatyev to the ground just as Yulya, Nina, and Ilona rush into the yard.
 - 'Dad, stop! Don't!' Hearing Yulya call the man 'Dad', Ignatyev rubs his bruised jaw in utter disbelief.
-- 'What?! Is this your father?'
+- 'What?! Is this your father?' Listen for the word meaning 'what?!' right alongside 'this/that is' in this line.
 - 'You said that he died!' Earlier at the orphanage, Yulya had told Ignatyev that both her parents had been crushed flat in a factory accident!
 - 'And this woman is your mum? So she is alive too?!' As Nina shouts at Samson too, every single one of Yulya's stories falls apart at once.
 - 'Forgive me, please! I will explain everything later.' Ashamed, Yulya clasps her hands and begs everyone's forgiveness.

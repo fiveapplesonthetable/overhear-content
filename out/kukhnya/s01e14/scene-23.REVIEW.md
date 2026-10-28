@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim did great.' It is a simple phrase.
-- 'He helped Vika.' It is a simple phrase.
-- 'He saved the evening.' It is a simple phrase.
-- 'Yeah, she said awful things.' It is a simple phrase.
-- 'All sorts of awful things to him.' It is a simple phrase.
-- 'And she feels terrible.' It is a simple phrase.
-- 'So how's she going to make it right?' It is a simple phrase.
-- 'What will she do?' It is a simple phrase.
-- 'Ah, vodka.' It is a simple phrase.
-- 'She will pour him vodka.' It is a simple phrase.
-- 'That's a good plan.' It is a simple phrase.
-- 'She knows what to do.' It is a simple phrase.
+- 'Maxim did great.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Maxim' straight to 'well done'.
+- 'He helped Vika.' The first content word means 'he', and 'Vika' rounds out the thought.
+- 'He saved the evening.' A compact expression built around 'he' and 'evening'. And Nastya jumps in.
+- 'Yeah, she said awful things.' Nastya puts 'it' up front so the listener immediately catches the tone, followed by 'said'.
+- 'All sorts of awful things to him.' The key word here means 'him', which Nastya combines with 'any'.
+- 'And she feels terrible.' Nastya starts with 'to her' and pairs it with 'very much' to make the point clear. Kostya answers straight away.
+- 'So how's she going to make it right?' Kostya puts 'how' up front so the listener immediately catches the tone, followed by 'it'.
+- 'What will she do?' In Russian, 'what' leads into 'do' in a very natural everyday phrasing.
+- 'Ah, vodka.' The first content word means 'vodka', and 'vodka' rounds out the thought.
+- 'She will pour him vodka.' Notice the word order: 'it' comes first, and 'vodka' finishes the sentence.
+- 'That's a good plan.' Listen for the word meaning 'this' right alongside 'good' in this line.
+- 'She knows what to do.' The question word for 'what' comes right at the start, followed directly by 'do'.

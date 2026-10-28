@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Let's try this.' — Notice the verb meaning 'let's (do it)' paired with the pronoun for 'we'.
-- 'Jacques, where are you?' — Notice the noun meaning 'Jacques' paired with the pronoun for 'you'.
-- 'I am here, I am coming!' — Notice the pronoun meaning 'I' paired with the adverb for 'here'.
-- 'And who are you?' — Notice the pronoun meaning 'you' paired with the pronoun for 'who'.
-- 'He is my neighbor.' — Notice the pronoun meaning 'he' paired with the det for 'my'.
-- 'Can you imagine, we lived in Paris.' — Notice the verb meaning 'can you imagine, believe' paired with the pronoun for 'we'.
-- 'Wait, we are not going to kiss.' — Notice the verb meaning 'wait' paired with the pronoun for 'we'.
-- 'First we need to have a bite.' — Notice the adverb meaning 'first, at first' paired with the adverb for 'it is necessary'.
-- 'Here, try this.' — Notice the verb meaning 'to try, to taste' paired with the pronoun for 'this'.
-- 'This is very delicious.' — Notice the pronoun meaning 'this' paired with the adverb for 'very much'.
-- 'He says that it is delicious?' — Notice the pronoun meaning 'he' paired with the verb for 'talks'.
-- 'Yes, he likes it very much.' — Notice the pronoun meaning '(to) him' paired with the adverb for 'very much'.
-- 'Thank you, my dear friend.' — Notice the interjection meaning 'thank you' paired with the det for 'my'.
-- 'You are welcome, eat to your health.' — Notice the verb meaning 'eat' paired with the noun for 'health'.
+- 'Let's try this.' The first content word means 'let's', and 'this' rounds out the thought.
+- 'Jacques, where are you?' Listen for the word meaning 'Jacques' right alongside 'you' in this line.
+- 'I am here, I am coming!' Here 'I' sets up the idea, while 'going' comes at the end for emphasis. Dmitry answers straight away.
+- 'And who are you?' In Russian, 'you' leads into 'who' in a very natural everyday phrasing.
+- 'He is my neighbor.' The key word here means 'he', which Viktor combines with 'neighbour'.
+- 'Can you imagine, we lived in Paris.' Dmitry starts with 'can you imagine' and pairs it with 'we' to make the point clear. Then Viktor replies.
+- 'Wait, we are not going to kiss.' Viktor puts 'wait' up front so the listener immediately catches the tone, followed by 'we'.
+- 'First we need to have a bite.' In Russian, 'first' leads into 'have a bite' in a very natural everyday phrasing.
+- 'Here, try this.' Notice the word order: 'to try' comes first, and 'this' finishes the sentence.
+- 'This is very delicious.' A compact expression built around 'this' and 'it's tasty'.
+- 'He says that it is delicious?' Listen for the word meaning 'he' right alongside 'talks' in this line.
+- 'Yes, he likes it very much.' The reflexive ending on the verb for 'is pleasing' turns the action back onto the subject.
+- 'Thank you, my dear friend.' Notice the word order: 'thank you' comes first, and 'friend' finishes the sentence.
+- 'You are welcome, eat to your health.' Viktor starts with 'eat' and pairs it with 'health' to make the point clear.

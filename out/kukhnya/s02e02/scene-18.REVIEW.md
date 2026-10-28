@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Well then, I congratulate you.' -- ENG The doctor cheerfully greets his worried patient.
-- 'Your rash is a pseudoallergic reaction.' -- ENG He examines the red spots on the young man's arm.
-- 'This is a typical manifestation of helminthiasis.' -- ENG He uses a complicated medical term to explain the issue.
-- 'And is it possible to say it humanly?' -- ENG The cook asks him to speak in plain English.
-- 'You simply have worms.' -- ENG The doctor bluntly delivers the disgusting diagnosis.
-- 'Are you serious? I have worms?' -- ENG Max is absolutely horrified by the terrible news.
-- 'Well, it is not me who has them.' -- ENG The medical professional makes a slightly sarcastic joke.
-- 'But where do I have worms from?' -- ENG The patient wonders how he contracted such an infection.
-- 'Well, the causes can be the most diverse.' -- ENG The doctor explains that there are many possibilities.
-- 'Poor hygiene or contacts with soil.' -- ENG He lists some of the common ways to get infected.
-- 'Perhaps, you like to eat raw fish.' -- ENG He suggests another very likely culinary cause.
-- 'Tell me, do you like sushi?' -- ENG The doctor hits exactly on the true source of the problem.
+- 'Well then, I congratulate you.' In Russian, 'what' leads into 'congratulations' in a very natural everyday phrasing.
+- 'Your rash is a pseudoallergic reaction.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'rash' straight to 'reaction'.
+- 'This is a typical manifestation of helminthiasis.' Here 'this' sets up the idea, while 'helminthiasis' comes at the end for emphasis.
+- 'And is it possible to say it humanly?' You'll hear 'decently' all the time in the show, here connected with 'tell'.
+- 'You simply have worms.' Here 'you' sets up the idea, while 'parasitic worms' comes at the end for emphasis.
+- 'Are you serious? I have worms?' The key word here means 'you', which Max combines with 'seriously'.
+- 'Well, it is not me who has them.' Instead of a verb for 'to have', Russian says 'by me' or 'with you' followed by 'me'. And Max jumps in.
+- 'But where do I have worms from?' Instead of a verb for 'to have', Russian says 'by me' or 'with you' followed by 'parasitic worms'.
+- 'Well, the causes can be the most diverse.' In Russian, 'reason' leads into 'diverse' in a very natural everyday phrasing.
+- 'Poor hygiene or contacts with soil.' A compact expression built around 'bad' and 'ground'.
+- 'Perhaps, you like to eat raw fish.' Listen for the word meaning 'perhaps' right alongside 'you' in this line.
+- 'Tell me, do you like sushi?' You'll hear 'tell' all the time in the show, here connected with 'to love'.

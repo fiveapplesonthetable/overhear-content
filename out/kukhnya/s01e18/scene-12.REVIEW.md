@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In what sense?' -- ENG He asks him a question.
-- 'In the direct sense.' -- ENG He says this to him.
-- 'She is smart and beautiful.' -- ENG He talks about her.
-- 'I agree with you.' -- ENG He explains his feelings to him.
-- 'She finished the university.' -- ENG He talks about her.
-- 'She studied restaurant management.' -- ENG He talks about her.
-- 'This is a very prestigious education.' -- ENG He says this to him.
-- 'And then she worked here.' -- ENG He talks about her.
-- 'She worked in our restaurant?' -- ENG He talks about her.
-- 'Yes, she was a manager.' -- ENG He talks about her.
-- 'I did not know about this.' -- ENG He explains his feelings to him.
-- 'She is a very talented girl.' -- ENG He talks about her.
+- 'In what sense?' There is no question word here — in Russian, rising intonation on 'sense' is enough to make it a question. And Ilya jumps in.
+- 'In the direct sense.' Notice the word order: 'straight' comes first, and 'sense' finishes the sentence.
+- 'She is smart and beautiful.' Here 'it' sets up the idea, while 'pretty' comes at the end for emphasis.
+- 'I agree with you.' A compact expression built around 'I' and 'you'. Ilya answers straight away.
+- 'She finished the university.' Here 'it' sets up the idea, while 'university' comes at the end for emphasis.
+- 'She studied restaurant management.' You'll hear 'it' all the time in the show, here connected with 'restaurant'.
+- 'This is a very prestigious education.' Max puts 'this' up front so the listener immediately catches the tone, followed by 'very much'. Then Ilya replies.
+- 'And then she worked here.' Notice how the verb meaning 'worked' takes the feminine past-tense ending '-a' here.
+- 'She worked in our restaurant?' Listen for the word meaning 'it' right alongside 'worked' in this line.
+- 'Yes, she was a manager.' Ilya starts with 'it' and pairs it with 'was' to make the point clear. And Max jumps in.
+- 'I did not know about this.' Max puts 'I' up front so the listener immediately catches the tone, followed by 'knew'.
+- 'She is a very talented girl.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'it' straight to 'girlfriend'.

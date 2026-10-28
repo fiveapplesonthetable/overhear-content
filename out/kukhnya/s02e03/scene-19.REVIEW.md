@@ -25,8 +25,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You saved me. That was quick thinking.' -- ENG He praises her ability to react fast in an emergency.
-- 'By the way, did that girl leave a message for me?' -- ENG He casually asks about a recent visitor.
-- 'No idea. I did not even see her leave.' -- ENG She admits she has no useful information about the person.
-- 'Excuse me, would you like the check?' -- ENG Vika mockingly asks if he is ready to pay and leave.
-- 'I would like to thank the chef personally.' -- ENG Max continues the joke, acting like a VIP customer.
+- 'You saved me. That was quick thinking.' Listen for the word meaning 'to help out' right alongside 'quickly' in this line.
+- 'By the way, did that girl leave a message for me?' There is no question word here — in Russian, rising intonation on 'pass on' is enough to make it a question. Sasha answers straight away.
+- 'No idea. I did not even see her leave.' You'll hear 'concept' all the time in the show, here connected with 'take off'.
+- 'Excuse me, would you like the check?' Notice the word order: 'excuse me' comes first, and 'bill' finishes the sentence.
+- 'I would like to thank the chef personally.' A compact expression built around 'want' and 'cook'.

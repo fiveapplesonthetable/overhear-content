@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What did he say?' -- The speaker asks a question. ENG
-- 'He told us to leave.' -- The speaker states this. ENG
-- 'I do not believe this.' -- The speaker states this. ENG
-- 'Is this the end?' -- The speaker states this. ENG
-- 'I do not know.' -- The speaker states this. ENG
-- 'Chef, what to do?' -- The speaker states this. ENG
-- 'We must leave.' -- The speaker states this. ENG
-- 'I am very sorry.' -- The speaker states this. ENG
-- 'Pack your things.' -- The speaker states this. ENG
-- 'I am sorry.' -- The speaker states this. ENG
-- 'It is my duty.' -- The speaker states this. ENG
-- 'Good.' -- The speaker states this. ENG
+- 'What did he say?' The first content word means 'what', and 'said' rounds out the thought.
+- 'He told us to leave.' Notice the word order: 'he' comes first, and 'to leave' finishes the sentence. And Chef jumps in.
+- 'I do not believe this.' Here 'I' sets up the idea, while 'this' comes at the end for emphasis.
+- 'Is this the end?' You'll hear 'this' all the time in the show, here connected with 'end'.
+- 'I do not know.' The key word here means 'I', which Chef combines with 'know'. Maks answers straight away.
+- 'Chef, what to do?' Maks starts with 'chef' and pairs it with 'what' to make the point clear.
+- 'We must leave.' In Russian, 'we' leads into 'to leave' in a very natural everyday phrasing.
+- 'I am very sorry.' Anya starts with 'to me' and pairs it with 'very much' to make the point clear.
+- 'Pack your things.' The first content word means 'to intend', and 'to intend' rounds out the thought.
+- 'I am sorry.' The key word here means 'sorry', which Anya combines with 'sorry'.
+- 'It is my duty.' Listen for the word meaning 'this' right alongside 'debt' in this line. And Chef jumps in.
+- 'Good.' You'll hear 'good' all the time in the show, here connected with 'good'.

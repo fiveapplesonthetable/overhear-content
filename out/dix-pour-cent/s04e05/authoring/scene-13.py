@@ -44,5 +44,5 @@ WALK = [
 ]
 OPENER = "Let's walk through it."
 TRANSITION = "Now let's hear the whole thing."
-OUTRO = "That's it for this scene. Goodbye!"
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the night out, and for the words meaning 'left' and 'think'. You'll catch them now. See you next time."
 CLOSING = ("lea", "Au revoir.")

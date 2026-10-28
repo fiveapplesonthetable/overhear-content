@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Beef pâté.' -- The Chef starts listing the horrible ingredients. ENG
-- 'Absolutely revolting.' -- The word '' means something disgusting or gross. ENG
-- 'But when you mix it all together...' -- It somehow transforms into something edible. ENG
-- 'She likes it.' -- He refers to Eleonora Andreyevna. The verb '' is used for expressing likes. ENG
-- 'Are you kidding me?' -- Maks feels betrayed. The verb '' means 'to mock' or 'to make fun of'. ENG
-- 'Why?' -- The Chef pretends to be innocent. ENG
-- 'You were learning to discipline yourself.' -- It was a test of character for Maks. ENG
-- 'Well, let's go.' -- s go.' They have to serve the dish now. ENG
-- 'By the way, it's good pâté.' -- s good pâté.' The Chef finally compliments him. The word '' means 'by the way'. ENG
-- 'How do you make it?' -- He is genuinely curious about the recipe. ENG
-- 'What did you put in?' -- He wants to know the secret. ENG
-- 'Beef, liver.' -- Maks lists some high quality ingredients, completely different from the Chef's terrible list. ENG
+- 'Beef pâté.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'pâté' straight to 'beef'.
+- 'Absolutely revolting.' Notice the word order: 'a disgusting thing' comes first, and 'terrible' finishes the sentence.
+- 'But when you mix it all together...' You'll hear 'mix' all the time in the show, here connected with 'mix'.
+- 'She likes it.' You'll hear 'to her' all the time in the show, here connected with 'is pleasing'.
+- 'Are you kidding me?' Maks starts with 'you' and pairs it with 'are you mocking' to make the point clear. And Chef jumps in.
+- 'Why?' Chef starts with 'why' and pairs it with 'why' to make the point clear.
+- 'You were learning to discipline yourself.' Here 'you' sets up the idea, while 'educate oneself' comes at the end for emphasis.
+- 'Well, let's go.' In Russian, 'let's go' leads into 'let's go' in a very natural everyday phrasing.
+- 'By the way, it's good pâté.' The first content word means 'by the way', and 'pâté' rounds out the thought.
+- 'How do you make it?' A compact expression built around 'how' and 'are you doing'.
+- 'What did you put in?' A compact expression built around 'what' and 'to add'. Then Maks replies.
+- 'Beef, liver.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'beef' straight to 'liver'.

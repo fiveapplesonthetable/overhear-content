@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'This is divine.' It is a simple phrase.
-- 'This is very tasty.' It is a simple phrase.
-- 'I didn't expect this.' It is a simple phrase.
-- 'You're lucky, little chef.' It is a simple phrase.
-- 'Dmitry Vladimirovich.' It is a simple phrase.
-- 'Well, we're all lucky.' It is a simple phrase.
-- 'Our restaurant is the best.' It is a simple phrase.
-- 'The guests are very pleased.' It is a simple phrase.
-- 'We did it.' It is a simple phrase.
-- 'Now we can rest.' It is a simple phrase.
-- 'Excellent work, team.' It is a simple phrase.
-- 'Bravo!' It is a simple phrase.
+- 'This is divine.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'this' straight to 'divinely'.
+- 'This is very tasty.' Notice the word order: 'this' comes first, and 'it's tasty' finishes the sentence.
+- 'I didn't expect this.' Here 'I' sets up the idea, while 'such' comes at the end for emphasis.
+- 'You're lucky, little chef.' You'll hear 'it was lucky' all the time in the show, here connected with 'little cook'.
+- 'Dmitry Vladimirovich.' The key word here means 'Dmitry', which Dmitry combines with 'Vladimirovich'.
+- 'Well, we're all lucky.' A compact expression built around 'to everyone' and 'it was lucky'.
+- 'Our restaurant is the best.' Dmitry puts 'restaurant' up front so the listener immediately catches the tone, followed by 'best'.
+- 'The guests are very pleased.' In Russian, 'visitors' leads into 'satisfied' in a very natural everyday phrasing.
+- 'We did it.' The first content word means 'we', and 'this' rounds out the thought.
+- 'Now we can rest.' The key word here means 'now', which Dmitry combines with 'may'.
+- 'Excellent work, team.' Listen for the word meaning 'excellent' right alongside 'job' in this line.
+- 'Bravo!' You'll hear 'bravo' all the time in the show, here connected with 'bravo'.

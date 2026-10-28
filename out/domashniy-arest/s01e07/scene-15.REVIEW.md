@@ -36,12 +36,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - Sun Tzu gets straight to business: 'Samsonov, you have big problems.' Notice the construction for 'you have' followed by the plural noun.
 - 'This Danya has stepped onto your territory,' he warns.
 - 'And love, Samsonov, is like war,' the strategist declares.
-- 'The lawyer is your enemy.'
+- 'The lawyer is your enemy.' - starts with 'lawyer' and pairs it with 'your' to make the point clear.
 - 'And how can I defeat him?' Samsonov asks.
 - 'You read my book badly!' Sun Tzu scolds him.
 - 'You must strike where the enemy is weak,' he quotes from his treatise.
 - 'You need to lure him onto your own territory,' Sun Tzu explains.
-- 'Right where you are strong.'
+- 'Right where you are strong.' The key word here means 'there', which - combines with 'where'.
 - 'And where am I strong?' Samsonov wonders.
 - 'Well, where did you serve in the army?' Sun Tzu asks.
 - 'In the airborne troops, of course!' Samsonov answers proudly.

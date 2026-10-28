@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Who are you?' -- The speaker states this. ENG
-- 'What are you smiling at?' -- The speaker states this. ENG
-- 'Come on, answer.' -- The speaker states this. ENG
-- 'Aynura, is this a Japanese person?' -- The speaker states this. ENG
-- 'No.' -- The speaker states this. ENG
-- 'He is not ours.' -- The speaker states this. ENG
-- 'Listen, you made a mistake.' -- The speaker states this. ENG
-- 'They make sushi next door.' -- The speaker states this. ENG
-- 'Chef, this is the new cook.' -- The speaker states this. ENG
-- 'What cook?' -- The speaker states this. ENG
-- 'He will make sushi.' -- The speaker states this. ENG
-- 'Get out of here.' -- The speaker states this. ENG
+- 'Who are you?' Notice the word order: 'you' comes first, and 'who' finishes the sentence.
+- 'What are you smiling at?' The first content word means 'what', and 'are smiling' rounds out the thought.
+- 'Come on, answer.' Notice the word order: 'let's' comes first, and 'answer' finishes the sentence.
+- 'Aynura, is this a Japanese person?' The key word here means 'Ainura', which Chef Viktor combines with 'this'.
+- 'No.' The first content word means 'no', and 'no' rounds out the thought.
+- 'He is not ours.' Ainura starts with 'he' and pairs it with 'he' to make the point clear. Then Chef Viktor replies.
+- 'Listen, you made a mistake.' Here 'listen' sets up the idea, while 'mixed up' comes at the end for emphasis.
+- 'They make sushi next door.' Chef Viktor starts with 'sushi' and pairs it with 'they do' to make the point clear.
+- 'Chef, this is the new cook.' The first content word means 'chef', and 'chef' rounds out the thought. And Chef Viktor jumps in.
+- 'What cook?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'chef' straight to 'chef'.
+- 'He will make sushi.' Here 'he' sets up the idea, while 'sushi' comes at the end for emphasis.
+- 'Get out of here.' You'll hear 'go' all the time in the show, here connected with 'from here'.

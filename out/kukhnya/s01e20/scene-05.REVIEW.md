@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Kostya, we need to talk seriously.' -- ENG She approaches him with a very determined expression.
-- 'I wanted to discuss something with you.' -- ENG She insists on having an important talk immediately.
-- 'Wait a minute, I will be right back.' -- ENG He panics and tries to delay the inevitable discussion.
-- 'This is a very important conversation for us.' -- ENG She refuses to let him escape so easily.
-- 'I understand, but I need to go.' -- ENG He desperately looks for a way out.
-- 'Are you running away from my questions again?' -- ENG She notices his obvious reluctance to engage.
-- 'No, I am not running away from you anywhere.' -- ENG He nervously denies avoiding her.
-- 'Then why do you not want to listen to me?' -- ENG She challenges his poor excuses.
-- 'I want to listen, but not now.' -- ENG He promises to hear her out later.
-- 'We are walking on a high staircase, right?' -- ENG She brings up her intense romantic metaphor again.
-- 'It seems my stomach simply cramped up.' -- ENG He suddenly fakes a severe digestive issue.
-- 'I urgently need to go to the toilet.' -- ENG He quickly runs away to avoid the wedding topic.
+- 'Kostya, we need to talk seriously.' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'to talk'.
+- 'I wanted to discuss something with you.' A compact expression built around 'I' and 'to discuss'.
+- 'Wait a minute, I will be right back.' Here 'wait' sets up the idea, while 'will come back' comes at the end for emphasis. And Nastya jumps in.
+- 'This is a very important conversation for us.' You'll hear 'this' all the time in the show, here connected with 'us'.
+- 'I understand, but I need to go.' The key word here means 'I', which Kostya combines with 'understand'.
+- 'Are you running away from my questions again?' In Russian, 'you' leads into 'questions' in a very natural everyday phrasing. Kostya answers straight away.
+- 'No, I am not running away from you anywhere.' Kostya uses the casual singular 'you' with 'I', as close colleagues and friends do.
+- 'Then why do you not want to listen to me?' The little negative word sits right in front of the verb for 'do you want', just like 'not' in English.
+- 'I want to listen, but not now.' The first content word means 'I', and 'now' rounds out the thought. Then Nastya replies.
+- 'We are walking on a high staircase, right?' Nastya puts 'we' up front so the listener immediately catches the tone, followed by 'are going'.
+- 'It seems my stomach simply cramped up.' Listen for the word meaning 'it seems' right alongside 'me' in this line.
+- 'I urgently need to go to the toilet.' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'toilet'.

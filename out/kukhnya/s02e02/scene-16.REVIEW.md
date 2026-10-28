@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika!' -- ENG He shouts her name across the busy restaurant floor.
-- 'Yes, I am listening to you carefully.' -- ENG She crosses her arms and waits for his explanation.
-- 'We need to talk urgently.' -- ENG He insists that they must have a private conversation.
-- 'What urgent business do you have there?' -- ENG She asks what could possibly be so important.
-- 'About which you cannot speak on the phone?' -- ENG She questions why he could not just call her.
-- 'This is not for a telephone conversation.' -- ENG He explains that the matter is highly confidential.
-- 'I am very busy right now.' -- ENG She tries to dismiss him and return to work.
-- 'This is truly very important.' -- ENG He begs her to give him just a few minutes.
-- 'Fine, what happened?' -- ENG She finally gives in and asks for the details.
-- 'Just come with me.' -- ENG He refuses to explain and asks her to follow.
-- 'Where are we going?' -- ENG She demands to know their mysterious destination.
-- 'You will soon see everything yourself.' -- ENG He promises that all her questions will be answered.
+- 'Vika!' Notice the word order: 'Vika' comes first, and 'Vika' finishes the sentence.
+- 'Yes, I am listening to you carefully.' Notice the word order: 'I' comes first, and 'I'm listening' finishes the sentence. Then Dmitry replies.
+- 'We need to talk urgently.' Here 'us' sets up the idea, while 'to talk' comes at the end for emphasis.
+- 'What urgent business do you have there?' Instead of a verb for 'to have', Russian says 'by me' or 'with you' followed by 'matter'.
+- 'About which you cannot speak on the phone?' Notice the word order: 'who' comes first, and 'phone' finishes the sentence. And Dmitry jumps in.
+- 'This is not for a telephone conversation.' Dmitry starts with 'this' and pairs it with 'telephone' to make the point clear.
+- 'I am very busy right now.' Vika puts 'I' up front so the listener immediately catches the tone, followed by 'now'.
+- 'This is truly very important.' In Russian, 'this' leads into 'important' in a very natural everyday phrasing. Vika answers straight away.
+- 'Fine, what happened?' Here 'good' sets up the idea, while 'happened' comes at the end for emphasis.
+- 'Just come with me.' You'll hear 'just' all the time in the show, here connected with 'me'.
+- 'Where are we going?' Listen for the word meaning 'where to' right alongside 'we' in this line. Then Dmitry replies.
+- 'You will soon see everything yourself.' Dmitry uses the casual singular 'you' with 'you', as close colleagues and friends do.

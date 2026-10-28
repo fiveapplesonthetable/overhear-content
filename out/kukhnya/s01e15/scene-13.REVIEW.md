@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a lowlife I am.' -- He explains his feelings to him.
-- 'Lyova, stop putting yourself down.' -- He talks directly to him.
-- 'I kicked a person out of the home.' -- He explains his feelings to him.
-- 'After all, the boss himself is guilty.' -- She tells him this.
-- 'He is guilty, but I feel bad.' -- He explains his feelings to him.
-- 'Why does the boss even live with you?' -- He talks directly to him.
-- 'He left his family.' -- She tells him this.
-- 'He left the apartment to them.' -- She tells him this.
-- 'Do you feel sorry for him?' -- He talks directly to him.
-- 'He can be an unbearable person.' -- She tells him this.
-- 'But I have no one else.' -- He explains his feelings to him.
-- 'Close people should not be scattered.' -- She tells him this.
-- 'In the end, one can stay alone.' -- He explains his feelings to him.
-- 'It is time for me to go to a close person.' -- He explains his feelings to him.
+- 'What a lowlife I am.' You'll hear 'I' all the time in the show, here connected with 'a man'.
+- 'Lyova, stop putting yourself down.' The first content word means 'Lyova', and 'slander' rounds out the thought. And Lyova jumps in.
+- 'I kicked a person out of the home.' Here 'I' sets up the idea, while 'at home' comes at the end for emphasis.
+- 'After all, the boss himself is guilty.' You'll hear 'end' all the time in the show, here connected with 'at fault'.
+- 'He is guilty, but I feel bad.' The key word here means 'at fault', which Lyova combines with 'he'. Max answers straight away.
+- 'Why does the boss even live with you?' Notice the word order: 'why' comes first, and 'live' finishes the sentence.
+- 'He left his family.' Lyova puts 'he' up front so the listener immediately catches the tone, followed by 'left'.
+- 'He left the apartment to them.' In Russian, 'he' leads into 'flat' in a very natural everyday phrasing. Then Max replies.
+- 'Do you feel sorry for him?' Max starts with 'for you' and pairs it with 'him' to make the point clear.
+- 'He can be an unbearable person.' Notice the word order: 'he' comes first, and 'person' finishes the sentence.
+- 'But I have no one else.' A compact expression built around 'me' and 'nobody'. And Max jumps in.
+- 'Close people should not be scattered.' The little negative word sits right in front of the verb for 'is parked', just like 'not' in English.
+- 'In the end, one can stay alone.' Notice the word order: 'result' comes first, and 'alone' finishes the sentence.
+- 'It is time for me to go to a close person.' Here 'to me' sets up the idea, while 'to a person' comes at the end for emphasis.

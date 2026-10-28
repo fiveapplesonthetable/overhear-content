@@ -31,18 +31,18 @@ STORY = [
 
 OPENER = "Let's go through it line by line. Max narrates the closing montage."
 WALK = [
- (0, None, "'Responsibility is a strange thing.' It is a simple phrase."),
- (1, None, "'On the one hand, we are afraid of it.' It is a simple phrase."),
- (2, None, "'And on the other hand...' It is a simple phrase."),
- (3, None, "'It is what earns us respect.' It is a simple phrase."),
- (4, None, "'And brings us closer together.' It is a simple phrase."),
- (5, None, "'When we act irresponsibly...' It is a simple phrase."),
- (6, None, "'We draw the right conclusions.' It is a simple phrase."),
- (7, None, "'That's it, I won't drink at work anymore.' It is a simple phrase."),
- (8, None, "'I've decided.' It is a simple phrase."),
- (9, None, "'I definitely won't drink.' It is a simple phrase."),
- (10, None, "'But we should celebrate that.' It is a simple phrase."),
- (11, None, "'Pour!' It is a simple phrase."),
+ (0, None, "'Responsibility is a strange thing.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'responsibility' straight to 'thing'."),
+ (1, None, "'On the one hand, we are afraid of it.' Notice the word order: 'one' comes first, and 'to be afraid' finishes the sentence."),
+ (2, None, "'And on the other hand...' Here 'other' sets up the idea, while 'side' comes at the end for emphasis."),
+ (3, None, "'It is what earns us respect.' A compact expression built around 'to her' and 'respect'."),
+ (4, None, "'And brings us closer together.' The key word here means 'to become', which Max combines with 'close'."),
+ (5, None, "'When we act irresponsibly...' Max starts with 'to commit' and pairs it with 'irresponsible' to make the point clear."),
+ (6, None, "'We draw the right conclusions.' Max puts 'we' up front so the listener immediately catches the tone, followed by 'are doing'."),
+ (7, None, "'That's it, I won't drink at work anymore.' In Russian, 'work' leads into 'to drink' in a very natural everyday phrasing."),
+ (8, None, "'I've decided.' The first content word means 'I', and 'has decided' rounds out the thought."),
+ (9, None, "'I definitely won't drink.' A compact expression built around 'definitely' and 'to drink'."),
+ (10, None, "'But we should celebrate that.' Notice the word order: 'this' comes first, and 'to celebrate' finishes the sentence."),
+ (11, None, "'Pour!' Viktor uses an urgent command built around the verb for 'to pour'."),
 ]
 
 TRANSITION = "Now let's hear the whole scene once more, start to finish."

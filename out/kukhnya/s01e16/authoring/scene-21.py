@@ -35,35 +35,35 @@ OPENER = "Let's review the scene line by line."
 
 WALK = [
     (0, None,
-     "'Chef, can I help?' -- Anya asks if she can assist the Chef. The Russian word '' is a useful verb meaning 'to help'. ENG"),
+     "'Chef, can I help?' There is no question word here — in Russian, rising intonation on 'to help' is enough to make it a question. And Chef jumps in."),
     (1, None,
-     "'I don't know.' -- t know.' The Chef is very uncertain. ENG"),
+     "'I don't know.' Notice the word order: 'know' comes first, and 'know' finishes the sentence."),
     (2, None,
-     "'He fined me.' -- The inspector was not happy with the kitchen. ENG"),
+     "'He fined me.' Here 'me' sets up the idea, while 'to fine' comes at the end for emphasis."),
     (3, None,
-     "'You must be deported.' -- A terrible consequence for Anya. ENG"),
+     "'You must be deported.' You'll hear 'you' all the time in the show, here connected with 'deport'."),
     (4, None,
-     "'I'm thinking, what is this?' -- m thinking, what is this?' The Chef is confused by the situation. ENG"),
+     "'I'm thinking, what is this?' The key word here means 'I think', which Chef combines with 'what'."),
     (5, None,
-     "'I don't think so.' -- t think so.' He rejects the idea of a simple solution. ENG"),
+     "'I don't think so.' Notice the word order: 'I think' comes first, and 'I think' finishes the sentence."),
     (6, None,
-     "'Maybe with another...' -- He considers talking to someone else. ENG"),
+     "'Maybe with another...' Listen for the word meaning 'can' right alongside 'can' in this line."),
     (7, None,
-     "'We could negotiate.' -- The Russian verb here is about reaching an agreement. ENG"),
+     "'We could negotiate.' Here 'to agree' sets up the idea, while 'to succeed' comes at the end for emphasis."),
     (8, None,
      "'There.' -- Anya points something out. ENG"),
     (9, None,
-     "'Though...' -- She considers a wild idea. ENG"),
+     "'Though...' In Russian, 'at least' leads into 'at least' in a very natural everyday phrasing."),
     (10, None,
-     "'If you save his life...' -- A very dramatic suggestion. The verb '' means 'you will save'. ENG"),
+     "'If you save his life...' Listen for the word meaning 'you' right alongside 'him' in this line."),
     (11, None,
-     "'Maybe he will forgive us.' -- The verb '' means 'he will forgive'. She is hopeful. ENG"),
+     "'Maybe he will forgive us.' Anya puts 'can' up front so the listener immediately catches the tone, followed by 'he'."),
     (12, None,
-     "'A chair, right?' -- She offers him a seat to execute her plan. ENG"),
+     "'A chair, right?' Anya starts with 'little chair' and pairs it with 'little chair' to make the point clear."),
 ]
 
 
 
 TRANSITION = "Let's listen to the dialog one more time."
-OUTRO = "Things are getting very interesting in the kitchen. See you next time."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around can i help, and for the words meaning 'can' and 'to help'. You'll catch them now. See you next time."
 CLOSING = ("anya", "До свидания!")

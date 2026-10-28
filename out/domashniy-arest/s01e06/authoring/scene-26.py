@@ -115,7 +115,7 @@ WALK = [
  (11, None,
   "'Dad, stop! Don't!' Hearing Yulya call the man 'Dad', Ignatyev rubs his bruised jaw in utter disbelief."),
  (12, "Что?! Это твой отец?",
-  "'What?! Is this your father?'"),
+  "'What?! Is this your father?' Listen for the word meaning 'what?!' right alongside 'this/that is' in this line."),
  (12, "Ты же говорила, что он погиб!",
   "'You said that he died!' Earlier at the orphanage, Yulya had told Ignatyev that both her parents had been crushed "
   "flat in a factory accident!"),

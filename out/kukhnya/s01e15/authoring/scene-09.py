@@ -59,31 +59,31 @@ OPENER = "Now let us examine the conversation line by line."
 
 WALK = [
     (0, None,
-     "'I didn't think it was so great here.' — Notice the pronoun meaning 'I' paired with the verb for 'thought'."),
+     "'I didn't think it was so great here.' The key word here means 'I', which Senya combines with 'thought'. Fedya answers straight away."),
     (1, None,
-     "'It is great everywhere when there is no Max.' — Notice the adverb meaning 'everywhere' paired with the noun for 'great, cool'."),
+     "'It is great everywhere when there is no Max.' Fedya puts 'everywhere' up front so the listener immediately catches the tone, followed by 'great'."),
     (2, None,
-     "'Yes, it is very quiet today.' — Notice the adverb meaning 'today' paired with the adverb for 'very much'."),
+     "'Yes, it is very quiet today.' Here 'today' sets up the idea, while 'easy' comes at the end for emphasis."),
     (3, None,
-     "'We need to work.' — Notice the pronoun meaning '(to) us' paired with the adverb for 'it is necessary'."),
+     "'We need to work.' You'll hear 'us' all the time in the show, here connected with 'to work'. Then Senya replies."),
     (4, None,
-     "'I am just resting.' — Notice the pronoun meaning 'I' paired with the adverb for 'just'."),
+     "'I am just resting.' A compact expression built around 'I' and 'am resting'."),
     (5, None,
      "'The chef can come.' — Notice the proper name meaning 'chef, boss' paired with the verb for 'can'."),
     (6, None,
      "'The chef is busy now.' — Notice the proper name meaning 'chef, boss' paired with the adverb for 'now'."),
     (7, None,
-     "'Anyway, let's work.' — Notice the det meaning 'everything' paired with the adverb for 'the same'."),
+     "'Anyway, let's work.' Fedya puts 'the same' up front so the listener immediately catches the tone, followed by 'let's'."),
     (8, None,
-     "'Good, I am coming.' — Notice the adverb meaning 'good, fine' paired with the pronoun for 'I'."),
+     "'Good, I am coming.' The key word here means 'good', which Senya combines with 'I'."),
     (9, None,
-     "'Where is my knife?' — Notice the adverb meaning 'where' paired with the det for 'my'."),
+     "'Where is my knife?' In Russian, 'where' leads into 'knife' in a very natural everyday phrasing. Senya answers straight away."),
     (10, None,
-     "'It is on the table.' — Notice the pronoun meaning 'he' paired with the noun for 'table'."),
+     "'It is on the table.' Listen for the word meaning 'he' right alongside 'table' in this line."),
     (11, None,
-     "'Thank you, I see it.' — Notice the interjection meaning 'thank you' paired with the pronoun for 'I'."),
+     "'Thank you, I see it.' Notice the word order: 'thank you' comes first, and 'see' finishes the sentence."),
 ]
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around without max, and for the words meaning 'thought' and 'great'. You'll catch them now. See you next time."
 CLOSING = ("leva", "Спасибо, я вижу.")

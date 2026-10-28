@@ -27,15 +27,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Here you go, Igor.' — Built around the key proper name meaning 'Igor'.
-- 'This is an oasis of French cuisine.' — Notice the pronoun meaning 'this' paired with the noun for 'oasis'.
-- 'A bastion of quality.' — Notice the noun meaning 'enclave' paired with the noun for 'quality'.
-- 'So much effort went into this place.' — Notice the adverb meaning 'how much, so much' paired with the noun for 'of (horse)power'.
-- 'A waiter is like my own child.' — Notice the noun meaning 'waiter' paired with the adverb for 'how'.
-- 'Oh, hi, Vilyash.' — Notice the interjection meaning 'hi' paired with the proper name for 'Vilyash'.
-- 'I am Nastya, actually.' — Notice the pronoun meaning 'I' paired with the proper name for 'Nastya'.
-- 'She must be new.' — Notice the noun meaning 'new girl' paired with the adverb for 'probably'.
-- 'Well, let's keep going.' — Notice the verb meaning 'let's go' paired with the adverb for 'next, go on'.
-- 'Make us two coffees.' — Notice the verb meaning 'make, do' paired with the pronoun for '(to) us'.
-- 'This is Viktoria Sergeyevna.' — Notice the pronoun meaning 'this' paired with the proper name for 'Viktoriya'.
-- 'The art director of our restaurant.' — Notice the noun meaning 'art director' paired with the det for 'our'.
+- 'This is an oasis of French cuisine.' Notice the word order: 'this' comes first, and 'kitchen' finishes the sentence.
+- 'A bastion of quality.' Here 'enclave' sets up the idea, while 'quality' comes at the end for emphasis.
+- 'So much effort went into this place.' You'll hear 'how much' all the time in the show, here connected with 'here'.
+- 'A waiter is like my own child.' The question word for 'how' comes right at the start, followed directly by 'child'.
+- 'Oh, hi, Vilyash.' Nagiyev starts with 'hi' and pairs it with 'Vilyash' to make the point clear.
+- 'I am Nastya, actually.' Nastya puts 'I' up front so the listener immediately catches the tone, followed by 'Nastya'.
+- 'She must be new.' In Russian, 'new girl' leads into 'probably' in a very natural everyday phrasing.
+- 'Well, let's keep going.' The first content word means 'let's go', and 'next' rounds out the thought.
+- 'Make us two coffees.' A compact expression built around 'make' and 'of coffee'.
+- 'This is Viktoria Sergeyevna.' Listen for the word meaning 'this' right alongside 'Viktoriya' in this line.
+- 'The art director of our restaurant.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'art director' straight to 'restaurant'.
 - 'Good afternoon.' — Notice the adjective meaning 'good' paired with the noun for 'day'.

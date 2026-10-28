@@ -78,7 +78,7 @@ OPENER = ("Let's walk through the call. Arkady has a plan to steal Judge Berg's 
 
 WALK = [
  (0, "Лёля, это очень просто.",
-  "'Lyolya, this is very simple.'"),
+  "'Lyolya, this is very simple.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Lyolya' straight to 'simple'."),
  (0, "Приезжаешь сегодня в наш парк.",
   "'You come to our park today.' He uses the present tense to lay out instructions step by step, just as we do "
   "in English."),
@@ -100,7 +100,7 @@ WALK = [
   "'That's not stealing, listen! It's completely safe.' He adds a detail about the rich cottage village where he "
   "and the judge live."),
  (5, "Ты же помнишь наш посёлок?",
-  "'You remember our village, don't you?'"),
+  "'You remember our village, don't you?' Here 'you' sets up the idea, while 'village' comes at the end for emphasis."),
  (5, "Охраны там никакой нет.",
   "'There's no security there at all.' With the word for 'there is not', both 'security' and 'no kind of' go into "
   "the genitive case. Lyolya stands firm."),

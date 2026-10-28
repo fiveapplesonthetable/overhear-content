@@ -14,7 +14,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 2 | Аня | Какой идиот тарелку здесь оставил? | Which idiot left a plate here? | #217 00:15:44: Какой идиот тарелку здесь оставил | adapted: adapted |
 | 3 | Аня | Мне что, за всем следить надо? | Do I have to keep an eye on everything? | #218 00:15:46: Мне что, за всем следить надо | adapted: adapted |
 | 4 | Аня | У вас есть полчаса, чтобы всё убрать. | You have half an hour to clean everything. | #220 00:15:56: Вам полчаса | adapted: adapted |
-| 5 | Федя | Совсем крыша у него поехала. | His roof has completely slid off. | #222 00:16:06: Совсем крыша у него поехала | adapted: adapted |
+| 5 | Федя | Совсем крыша у него поехала. | He has completely lost his mind. | #222 00:16:06: Совсем крыша у него поехала | adapted: adapted |
 | 6 | Федя | Надо ему срочно дать выпить. | We need to urgently give him a drink. | #224 00:16:13: Надо ему выпить дать | adapted: adapted |
 | 7 | Лёва | Да как? Тут же камеры кругом. | But how? There are cameras all around here. | #225 00:16:14: Да как, тут же камера кругом | adapted: adapted |
 | 8 | Аня | Ну, кто там ещё пришёл? | Well, who else came there? | #226 00:16:20: Ну, кто там еще | adapted: adapted |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What a bunch of idiots?' -- ENG The furious chef yells at his incompetent kitchen workers.
-- 'Which idiot left a plate here?' -- ENG He points at a dirty dish left carelessly on the counter.
-- 'Do I have to keep an eye on everything?' -- ENG He complains about having to constantly supervise his adult employees.
-- 'You have half an hour to clean everything.' -- ENG He issues a strict deadline for them to tidy up.
-- 'His roof has completely slid off.' -- ENG One cook whispers that their boss has lost his mind.
-- 'We need to urgently give him a drink.' -- ENG They realize that alcohol is the only way to calm him down.
-- 'But how? There are cameras all around here.' -- ENG The sous-chef worries about being caught on the security footage.
-- 'Well, who else came there?' -- ENG The chef hears someone approaching and turns around aggressively.
-- 'Chef, do you want to drink some tea?' -- ENG Lyova politely offers him a warm beverage spiked with alcohol.
-- 'What the hell kind of tea?' -- ENG The boss rejects the innocent drink with extreme prejudice.
-- 'Get out, I told you!' -- ENG He angrily orders the sous-chef to leave the room immediately.
-- 'Chef, please try this tea.' -- ENG Lyova bravely insists that he takes a sip of the drink.
-- 'Chef, you will definitely like it.' -- ENG He promises that the special ingredient will improve his mood.
+- 'What a bunch of idiots?' Notice the word order: 'what' comes first, and 'disabled person' finishes the sentence.
+- 'Which idiot left a plate here?' Chef Viktor starts with 'idiot' and pairs it with 'plate' to make the point clear.
+- 'Do I have to keep an eye on everything?' Chef Viktor puts 'to me' up front so the listener immediately catches the tone, followed by 'what'.
+- 'You have half an hour to clean everything.' Listen for the word meaning 'you' right alongside 'there is' in this line.
+- 'He has completely lost his mind.' Literally, 'his roof has completely slid off' — the classic Russian idiom for going crazy.
+- 'We need to urgently give him a drink.' Fedya starts with 'it is necessary' and pairs it with 'him' to make the point clear.
+- 'But how? There are cameras all around here.' The first content word means 'how', and 'all around' rounds out the thought.
+- 'Well, who else came there?' A compact expression built around 'who' and 'came'. Lyova answers straight away.
+- 'Chef, do you want to drink some tea?' The first content word means 'chef', and 'some tea' rounds out the thought.
+- 'What the hell kind of tea?' You'll hear 'the devil' all the time in the show, here connected with 'tea'.
+- 'Get out, I told you!' In Russian, 'let's go' leads into 'said' in a very natural everyday phrasing. Then Lyova replies.
+- 'Chef, please try this tea.' Listen for the word meaning 'chef' right alongside 'try' in this line.
+- 'Chef, you will definitely like it.' Notice the word order: 'chef' comes first, and 'will please' finishes the sentence.

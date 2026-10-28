@@ -20,22 +20,22 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 8 | Аня | Я не верю ни одному его слову. | I do not believe a single word of his. | new | new: new |
 | 9 | Аня | Он думает, что я глупая? | He thinks that I am stupid? | new | new: new |
 | 10 | Аня | Пойду и скажу ему всё в лицо. | I will go and tell him everything to his face. | new | new: new |
-| 11 | Аня | Он меня очень сильно разозлил. | He angered me very strongly. | new | new: new |
+| 11 | Аня | Он меня очень сильно разозлил. | He made me really angry. | new | new: new |
 | 12 | Аня | Я сейчас же устрою ему скандал. | I will cause a scandal for him right now. | new | new: new |
 | 13 | Аня | Этот цирк должен закончиться. | This circus must end. | new | new: new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this strange note?' -- ENG She looks at the piece of paper with deep suspicion.
-- 'Let's see what he wrote here.' -- ENG She unfolds the message to read its dramatic contents.
-- 'He writes that he cannot live.' -- ENG She discovers a terrifying declaration of despair from her boyfriend.
-- 'He writes that life has no meaning.' -- ENG She reads the extremely dramatic and depressing sentences aloud.
-- 'And he asks not to blame for anything.' -- ENG The note includes a classic line from a suicide letter.
-- 'What an idiot he is after all.' -- ENG She immediately realizes that the entire message is completely fake.
-- 'This is another stupid joke.' -- ENG She rolls her eyes at his ridiculous and childish behavior.
-- 'I do not believe a single word of his.' -- ENG She knows him too well to fall for this trick.
-- 'He thinks that I am stupid?' -- ENG She feels insulted by his poor attempt at emotional manipulation.
-- 'I will go and tell him everything to his face.' -- ENG She marches off to confront him about his awful prank.
-- 'He angered me very strongly.' -- ENG She is furious that he would joke about something so serious.
-- 'I will cause a scandal for him right now.' -- ENG She plans to yell at him for his terrible behavior.
-- 'This circus must end.' -- ENG She is determined to stop his endless romantic games entirely.
+- 'What is this strange note?' In Russian, 'what' leads into 'note' in a very natural everyday phrasing.
+- 'Let's see what he wrote here.' The question word for 'what' comes right at the start, followed directly by 'wrote'.
+- 'He writes that he cannot live.' Notice the word order: 'he' comes first, and 'to live' finishes the sentence.
+- 'He writes that life has no meaning.' Vika starts with 'he' and pairs it with 'is writing' to make the point clear.
+- 'And he asks not to blame for anything.' The key word here means 'he', which Vika combines with 'is asking for'.
+- 'What an idiot he is after all.' Listen for the word meaning 'he' right alongside 'idiot' in this line.
+- 'This is another stupid joke.' Vika puts 'this' up front so the listener immediately catches the tone, followed by 'another'.
+- 'I do not believe a single word of his.' In Russian, 'I' leads into 'word' in a very natural everyday phrasing.
+- 'He thinks that I am stupid?' The first content word means 'he', and 'silly' rounds out the thought.
+- 'I will go and tell him everything to his face.' Vika starts with 'go' and pairs it with 'I'll tell' to make the point clear.
+- 'He made me really angry.' Listen for the word meaning 'he' right alongside 'me' in this line.
+- 'I will cause a scandal for him right now.' The key word here means 'I', which Vika combines with 'now'.
+- 'This circus must end.' Notice the word order: 'circus' comes first, and 'to end' finishes the sentence.

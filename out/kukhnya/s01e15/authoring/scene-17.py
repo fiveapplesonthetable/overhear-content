@@ -17,8 +17,8 @@ INTRO = (
 )
 
 STORY = [
-    ("anya", "Привет, макс.",
-     "Hi, my friend.",
+    ("anya", "Привет, Макс.",
+     "Hi, Max.",
      [(335, 'Привет.')], "adapted"),
     ("leva", "Привет.",
      "Hi.",
@@ -65,35 +65,35 @@ OPENER = "Now let us examine the conversation line by line."
 
 WALK = [
     (0, None,
-     "'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the proper name for 'Max'."),
+     "'Hi, Max.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'hi' straight to 'Max'."),
     (1, None,
-     "'Hi.' — Built around the key interjection meaning 'hi'."),
+     "'Hi.' In Russian, 'hi' leads into 'hi' in a very natural everyday phrasing."),
     (2, None,
-     "'I want to move to your place.' — Notice the pronoun meaning 'I' paired with the verb for 'want'."),
+     "'I want to move to your place.' Here 'I' sets up the idea, while 'for you' comes at the end for emphasis. Then Vika replies."),
     (3, None,
-     "'Do you have nowhere to live?' — Notice the pronoun meaning 'for you, to you' paired with the adverb for 'nowhere'."),
+     "'Do you have nowhere to live?' Here 'for you' sets up the idea, while 'to live' comes at the end for emphasis."),
     (4, None,
-     "'No, I have a million options.' — Notice the pronoun meaning 'me' paired with the noun for 'a million'."),
+     "'No, I have a million options.' You'll hear 'me' all the time in the show, here connected with 'options'."),
     (5, None,
      "'Kostya is calling me back.' — Notice the proper name meaning 'Kostya' paired with the verb for 'calls'."),
     (6, None,
      "'Leva is also inviting me to live.' — Notice the proper name meaning 'Lyova' paired with the adverb for 'too'."),
     (7, None,
-     "'But I am ready to live with you.' — Notice the pronoun meaning 'I' paired with the adjective for 'ready'."),
+     "'But I am ready to live with you.' In Russian, 'I' leads into 'you' in a very natural everyday phrasing."),
     (8, None,
-     "'What do you want to say?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'."),
+     "'What do you want to say?' Vika starts with 'what' and pairs it with 'you' to make the point clear. Max answers straight away."),
     (9, None,
-     "'I want to live with you.' — Notice the pronoun meaning 'I' paired with the verb for 'want'."),
+     "'I want to live with you.' A compact expression built around 'I' and 'you'."),
     (10, None,
-     "'I do not want to be without you.' — Notice the pronoun meaning 'I' paired with the verb for 'want'."),
+     "'I do not want to be without you.' Listen for the word meaning 'I' right alongside 'want' in this line."),
     (11, None,
-     "'That is very pleasant to hear.' — Notice the pronoun meaning 'this' paired with the adverb for 'very much'."),
+     "'That is very pleasant to hear.' In Russian, 'this' leads into 'to hear' in a very natural everyday phrasing. Then Max replies."),
     (12, None,
-     "'Really?' — Built around the key noun meaning 'honestly'."),
+     "'Really?' Notice the word order: 'honestly' comes first, and 'honestly' finishes the sentence."),
     (13, None,
-     "'Yes, I believe you.' — Notice the pronoun meaning 'I' paired with the pronoun for 'for you, to you'."),
+     "'Yes, I believe you.' Here 'I' sets up the idea, while 'believe' comes at the end for emphasis."),
 ]
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around desire to move in, and for the words meaning 'want' and 'to move in'. You'll catch them now. See you next time."
 CLOSING = ("leva", "Да, я тебе верю.")

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you all right?' -- ENG He talks directly to him.
-- 'No, I am very bad.' -- ENG He explains his feelings to him.
-- 'I told you.' -- ENG He explains his feelings to him.
-- 'Do not eat that fish.' -- ENG He says this to him.
-- 'I thought she was normal.' -- ENG He talks about her.
-- 'Did you drink charcoal?' -- ENG He talks directly to him.
-- 'Yeah, I ate two packs.' -- ENG He explains his feelings to him.
-- 'No shit.' -- ENG He says this to him.
-- 'My stomach hurts.' -- ENG He says this to him.
-- 'You need to go home.' -- ENG He talks directly to him.
-- 'I cannot work today.' -- ENG He explains his feelings to him.
-- 'Go home and rest.' -- ENG He says this to him.
+- 'Are you all right?' Fedya puts 'you' up front so the listener immediately catches the tone, followed by 'good'.
+- 'No, I am very bad.' Notice the word order: 'to me' comes first, and 'badly' finishes the sentence. Fedya answers straight away.
+- 'I told you.' Here 'I' sets up the idea, while 'said' comes at the end for emphasis.
+- 'Do not eat that fish.' You'll hear 'eat' all the time in the show, here connected with 'fish'.
+- 'I thought she was normal.' The key word here means 'I', which Senya combines with 'thought'. Then Fedya replies.
+- 'Did you drink charcoal?' There is no question word here — in Russian, rising intonation on 'was drinking' is enough to make it a question.
+- 'Yeah, I ate two packs.' Senya puts 'yeah' up front so the listener immediately catches the tone, followed by 'two'.
+- 'No shit.' In Russian, 'horseradish' leads into 'yourself' in a very natural everyday phrasing. And Senya jumps in.
+- 'My stomach hurts.' The first content word means 'me', and 'belly' rounds out the thought.
+- 'You need to go home.' Listen for the word meaning 'for you' right alongside 'it is necessary' in this line.
+- 'I cannot work today.' Listen for the word meaning 'I' right alongside 'can' in this line. Fedya answers straight away.
+- 'Go home and rest.' A compact expression built around 'go' and 'rest'.

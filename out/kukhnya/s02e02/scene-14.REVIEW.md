@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Enjoy your meal.' -- The speaker states this. ENG
-- 'What's going on with the chef?' -- The speaker states this. ENG
-- 'Let's talk after work.' -- The speaker states this. ENG
-- 'And what happened?' -- The speaker states this. ENG
-- 'I am going to the doctor.' -- The speaker states this. ENG
-- 'Are you pregnant?' -- The speaker states this. ENG
-- 'Are you crazy?' -- The speaker states this. ENG
-- 'It's just a rash.' -- The speaker states this. ENG
-- 'Okay, I got it.' -- The speaker states this. ENG
-- 'Order me some rolls.' -- The speaker states this. ENG
-- 'And green tea?' -- The speaker states this. ENG
-- 'Yes, please.' -- The speaker states this. ENG
+- 'Enjoy your meal.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'pleasant' straight to 'appetite'.
+- 'What's going on with the chef?' Listen for the word meaning 'what' right alongside 'you' in this line.
+- 'Let's talk after work.' Kristina puts 'we'll have a talk' up front so the listener immediately catches the tone, followed by 'of work'. And Sasha jumps in.
+- 'And what happened?' The key word here means 'what', which Sasha combines with 'happened'.
+- 'I am going to the doctor.' Here 'I' sets up the idea, while 'the doctor' comes at the end for emphasis.
+- 'Are you pregnant?' In Russian, 'you' leads into 'pregnant' in a very natural everyday phrasing. Kristina answers straight away.
+- 'Are you crazy?' Notice how the verb meaning 'went off' takes the feminine past-tense ending '-a' here.
+- 'It's just a rash.' In Russian, 'this' leads into 'rash' in a very natural everyday phrasing.
+- 'Okay, I got it.' In Russian, 'good' leads into 'understood' in a very natural everyday phrasing. Then Kristina replies.
+- 'Order me some rolls.' A compact expression built around 'order' and 'sushi roll'.
+- 'And green tea?' Notice the word order: 'green' comes first, and 'tea' finishes the sentence.
+- 'Yes, please.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'yes' straight to 'please'.

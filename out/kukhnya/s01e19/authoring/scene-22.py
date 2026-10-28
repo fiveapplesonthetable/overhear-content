@@ -15,7 +15,7 @@ SOURCE_NOTE = "Cues."
 INTRO = "In this scene focused on here and now, max concludes that it is important to cherish the present. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
-OUTRO = "Goodbye."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around here and now, and for the words meaning 'know' and 'important'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Конец.")
 
 STORY = [
@@ -35,16 +35,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'Do you know what is the main thing?' — Notice the verb meaning 'know' paired with the pronoun for 'what'."),
-    (1, None, "'What?' — Built around the key pronoun meaning 'what'."),
-    (2, None, "'The main thing is to cherish.' — Notice the adjective meaning 'important (thing)' paired with the verb for 'to appreciate, to value'."),
-    (3, None, "'Cherish what?' — Notice the verb meaning 'to appreciate, to value' paired with the pronoun for 'what'."),
-    (4, None, "'What we have.' — Notice the det meaning 'that (thing)' paired with the pronoun for 'what'."),
-    (5, None, "'Where?' — Built around the key adverb meaning 'where'."),
-    (6, None, "'Here.' — Built around the key adverb meaning 'here'."),
-    (7, None, "'And when?' — Built around the key adverb meaning 'when'."),
-    (8, None, "'And now.' — Built around the key adverb meaning 'now'."),
-    (9, None, "'Here and now.' — Notice the adverb meaning 'here' paired with the adverb for 'now'."),
-    (10, None, "'Exactly.' — Built around the key adverb meaning 'definitely, for sure'."),
+    (0, None, "'Do you know what is the main thing?' The question word for 'what' comes right at the start, followed directly by 'important'."),
+    (1, None, "'What?' Notice the word order: 'what' comes first, and 'what' finishes the sentence. And Max jumps in."),
+    (2, None, "'The main thing is to cherish.' Notice the word order: 'important' comes first, and 'to appreciate' finishes the sentence."),
+    (3, None, "'Cherish what?' You'll hear 'to appreciate' all the time in the show, here connected with 'what'."),
+    (4, None, "'What we have.' In Russian, 'what' leads into 'there is' in a very natural everyday phrasing. Vika answers straight away."),
+    (5, None, "'Where?' Vika starts with 'where' and pairs it with 'where' to make the point clear."),
+    (6, None, "'Here.' In Russian, 'here' leads into 'here' in a very natural everyday phrasing."),
+    (7, None, "'And when?' Vika starts with 'when' and pairs it with 'when' to make the point clear. Then Max replies."),
+    (8, None, "'And now.' The first content word means 'now', and 'now' rounds out the thought."),
+    (9, None, "'Here and now.' A compact expression built around 'here' and 'now'."),
+    (10, None, "'Exactly.' Here 'definitely' sets up the idea, while 'definitely' comes at the end for emphasis. And Vika jumps in."),
     (11, None, "'Good.' — Built around the key adverb meaning 'good, fine'."),
 ]

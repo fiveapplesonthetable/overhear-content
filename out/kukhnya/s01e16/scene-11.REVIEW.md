@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Alright, let us just do it quickly.' -- The speaker states this. ENG
-- 'I will get straight to the point.' -- The speaker states this. ENG
-- 'Have you heard anything about me?' -- The speaker states this. ENG
-- 'Yes, heard in all countries.' -- The speaker states this. ENG
-- 'Do you know what they call me?' -- The speaker states this. ENG
-- 'They call me a scary person.' -- The speaker states this. ENG
-- 'A month ago there was an inspection.' -- The speaker states this. ENG
-- 'They did not find anything here.' -- The speaker states this. ENG
-- 'Do you want a mint candy?' -- The speaker states this. ENG
-- 'No, I do not need it.' -- The speaker states this. ENG
-- 'Our service is like birds.' -- The speaker states this. ENG
-- 'We always look at you from above.' -- The speaker states this. ENG
+- 'Alright, let us just do it quickly.' Chef Viktor starts with 'good' and pairs it with 'let's' to make the point clear.
+- 'I will get straight to the point.' the speaker puts 'I' up front so the listener immediately catches the tone, followed by 'to cross'.
+- 'Have you heard anything about me?' Here 'you' sets up the idea, while 'to me' comes at the end for emphasis. Chef Viktor answers straight away.
+- 'Yes, heard in all countries.' You'll hear 'did you hear?' all the time in the show, here connected with 'country'.
+- 'Do you know what they call me?' The key word here means 'know', which the speaker combines with 'how'.
+- 'They call me a scary person.' Notice the word order: 'me' comes first, and 'person' finishes the sentence. Then Chef Viktor replies.
+- 'A month ago there was an inspection.' The key word here means 'month', which Chef Viktor combines with 'ago'.
+- 'They did not find anything here.' The first content word means 'they', and 'found' rounds out the thought.
+- 'Do you want a mint candy?' A compact expression built around 'mint' and 'would you like'. And Chef Viktor jumps in.
+- 'No, I do not need it.' Here 'to me' sets up the idea, while 'necessary' comes at the end for emphasis.
+- 'Our service is like birds.' Listen for the word meaning 'service' right alongside 'similar' in this line.
+- 'We always look at you from above.' the speaker uses the polite plural 'you' here alongside 'we', keeping a formal or respectful tone.

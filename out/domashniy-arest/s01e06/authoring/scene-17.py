@@ -85,7 +85,7 @@ WALK = [
   "'Well, come on, hit me!' The imperative means 'strike me!' or 'hit me!'. Instead of swinging, Samson looks "
   "around suspiciously."),
  (3, None,
-  "'What, do you think Samsonov is a fool?' He talks about himself in the third person."),
+  "'What, do you think Samsonov is a fool?' In Russian, 'you' leads into 'fool' in a very natural everyday phrasing."),
  (4, None,
   "'Sonny, are you a provocateur from Osipenko?' He uses an affectionate diminutive for 'son' to mock the "
   "baby-faced lieutenant, and then spots the camera lens in the bushes."),

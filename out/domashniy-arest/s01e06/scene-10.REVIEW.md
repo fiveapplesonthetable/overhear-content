@@ -39,7 +39,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'These are my problems, I'll solve them myself.' Notice the feminine emphatic pronoun 'myself'. Ilona narrows her eyes.
 - 'Give me your hand,' Ilona says.
 - 'Give me your hand, I say!' Ilona holds Yulya's wrist for a moment as if checking her pulse, then drops it.
-- 'Do you take me for an idiot?'
+- 'Do you take me for an idiot?' Listen for the word meaning 'you' right alongside 'me' in this line.
 - 'You're not pregnant at all!' Yulya gasps in amazement.
 - 'And how did you find out?' Ilona smirks.
 - 'No way at all, I called your bluff.' That colloquial idiom literally means 'I took you on a bluff'.
@@ -54,7 +54,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I've already thought everything through.' And she shares her grand plan.
 - 'I will work as a waitress.' Both 'work as' and 'become' take the instrumental case.
 - 'I'll go to auditions and become an actress.' Having moved to Moscow from Sineozersk herself years ago, Ilona nods.
-- 'Well yes, that's understandable.'
+- 'Well yes, that's understandable.' Here 'this' sets up the idea, while 'understandable' comes at the end for emphasis.
 - 'We'll sort it out later.' Right now Ilona has a campaign sponsor to meet.
 - 'Is the boss in his office?' Literally 'is the boss by himself?'. Yulya nods toward the door.
 - 'Yes.' And Ilona heads into Ignatyev's office.

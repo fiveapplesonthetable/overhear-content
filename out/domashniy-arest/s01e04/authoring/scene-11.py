@@ -83,7 +83,7 @@ WALK = [
   "'Vanya, understand at last! This is real success.' That little particle before the command adds impatience: "
   "'come on, understand!'. Samson has had enough."),
  (1, "Уходи отсюда, я тебе сказал!",
-  "'Get out of here, I told you!'"),
+  "'Get out of here, I told you!' the speaker puts 'get out' up front so the listener immediately catches the tone, followed by 'from here'."),
  (1, "Оставь нас в покое.",
   "'Leave us in peace.' A very common set phrase: literally 'leave us in calm'. Arkady keeps pushing."),
  (2, None,
@@ -105,14 +105,14 @@ WALK = [
   "'Wait, are the chances really good?' The noun for 'truth' is used right in the middle of the sentence to mean "
   "'really, truly'. Arkady turns to Nina with his smoothest smile."),
  (8, "Вы сами подумайте.",
-  "'Think about it yourselves.'"),
+  "'Think about it yourselves.' Listen for the word meaning 'you' right alongside 'think' in this line."),
  (8, "Он самый известный человек в Синеозерске!",
   "'He is the most famous man in Sineozersk!' That superlative word 'most' in front of any adjective makes it "
   "'the most...'. He hands them the tablet."),
  (9, None,
   "'Read the comments about him. He's a people's hero!' And then he gives Nina the clincher."),
  (10, "Всё пойдёт хорошо.",
-  "'Everything will go well.'"),
+  "'Everything will go well.' Here 'everything' sets up the idea, while 'well' comes at the end for emphasis."),
  (10, "Через два месяца вы будете женой мэра!",
   "'In two months you will be the mayor's wife!' After 'will be', the noun 'wife' goes into the instrumental "
   "case. Even Samson stops and asks the key question."),
@@ -129,7 +129,7 @@ WALK = [
  (14, None,
   "'And what is needed from us?' Arkady rubs his hands together."),
  (15, None,
-  "'I will explain everything to you right now.'"),
+  "'I will explain everything to you right now.' A compact expression built around 'I' and 'will explain'."),
 ]
 
 TRANSITION = "Now let's hear the whole conversation again from the beginning."

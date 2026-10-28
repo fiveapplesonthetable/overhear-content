@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I worry.' — Notice the pronoun meaning 'I' paired with the verb for 'worry'.
-- 'Do not worry so much.' — Built around the key verb meaning 'worry'.
-- 'Why?' — Built around the key adverb meaning 'why'.
-- 'The main thing is that we are together.' — Notice the adjective meaning 'important (thing)' paired with the pronoun for 'what'.
-- 'This is the main thing.' — Notice the pronoun meaning 'this' paired with the adjective for 'important (thing)'.
-- 'For some it is easier to lose everything.' — Notice the pronoun meaning 'someone, somebody' paired with the noun for 'simpler, easier'.
-- 'What for?' — Built around the key adverb meaning 'what for'.
-- 'In order to understand.' — Built around the key verb meaning 'to understand'.
-- 'To understand what?' — Notice the verb meaning 'to understand' paired with the pronoun for 'what'.
-- 'How dear it was.' — Notice the adverb meaning 'as far as' paired with the pronoun for 'this'.
-- 'We do not need to lose.' — Notice the pronoun meaning '(to) us' paired with the adverb for 'it is necessary'.
+- 'I worry.' Vika starts with 'I' and pairs it with 'worry' to make the point clear. And Max jumps in.
+- 'Do not worry so much.' Notice the word order: 'worry' comes first, and 'worry' finishes the sentence.
+- 'Why?' Here 'why' sets up the idea, while 'why' comes at the end for emphasis.
+- 'The main thing is that we are together.' The question word for 'what' comes right at the start, followed directly by 'together'. Vika answers straight away.
+- 'This is the main thing.' The key word here means 'this', which Vika combines with 'important'.
+- 'For some it is easier to lose everything.' Notice the word order: 'someone' comes first, and 'to lose' finishes the sentence.
+- 'What for?' Vika puts 'what for' up front so the listener immediately catches the tone, followed by 'what for'. Then Max replies.
+- 'In order to understand.' The first content word means 'to understand', and 'to understand' rounds out the thought.
+- 'To understand what?' The first content word means 'to understand', and 'what' rounds out the thought.
+- 'How dear it was.' In Russian, 'as far as' leads into 'expensive' in a very natural everyday phrasing. And Vika jumps in.
+- 'We do not need to lose.' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'to lose'.
 - 'No need.' — Built around the key adverb meaning 'it is necessary'.

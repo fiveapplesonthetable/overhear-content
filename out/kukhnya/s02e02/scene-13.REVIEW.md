@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Where is my sushi chef?' -- The speaker states this. ENG
-- 'How should I know?' -- The speaker states this. ENG
-- 'He was here this morning.' -- The speaker states this. ENG
-- 'Maybe he got sick.' -- The speaker states this. ENG
-- 'Is sushi canceled?' -- The speaker states this. ENG
-- 'Nothing is canceled.' -- The speaker states this. ENG
-- 'We have eight orders.' -- The speaker states this. ENG
-- 'I will do everything myself.' -- The speaker states this. ENG
-- 'Customers are waiting.' -- The speaker states this. ENG
-- 'Get out of here.' -- The speaker states this. ENG
-- 'We are already leaving.' -- The speaker states this. ENG
-- 'Think fast.' -- The speaker states this. ENG
+- 'Where is my sushi chef?' You'll hear 'where' all the time in the show, here connected with 'sushi chef'.
+- 'How should I know?' Notice the word order: 'where from' comes first, and 'know' finishes the sentence. And Chef Viktor jumps in.
+- 'He was here this morning.' Here 'this morning' sets up the idea, while 'here' comes at the end for emphasis.
+- 'Maybe he got sick.' You'll hear 'can' all the time in the show, here connected with 'to fall ill'.
+- 'Is sushi canceled?' Kristina starts with 'sushi' and pairs it with 'to be canceled' to make the point clear. Chef Viktor answers straight away.
+- 'Nothing is canceled.' Chef Viktor puts 'nothing' up front so the listener immediately catches the tone, followed by 'is canceled'.
+- 'We have eight orders.' Listen for the word meaning 'us' right alongside 'eight' in this line.
+- 'I will do everything myself.' Here 'I' sets up the idea, while 'I'll do' comes at the end for emphasis. Then Kristina replies.
+- 'Customers are waiting.' You'll hear 'client' all the time in the show, here connected with 'are waiting'.
+- 'Get out of here.' Notice the word order: 'come' comes first, and 'from here' finishes the sentence.
+- 'We are already leaving.' Listen for the word meaning 'we' right alongside 'already' in this line. And Kristina jumps in.
+- 'Think fast.' The first content word means 'think', and 'faster' rounds out the thought.

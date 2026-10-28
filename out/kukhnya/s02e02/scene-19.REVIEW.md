@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Get in, I will give you a lift home.' -- ENG She generously offers him a ride in her car.
-- 'Thank you, I am very tired today.' -- ENG He accepts the offer with immense gratitude.
-- 'Well then, how are your affairs?' -- ENG She asks how his busy shift went.
-- 'Normally, everything is fine.' -- ENG He replies that he survived the stressful day.
-- 'Did you prepare new dishes?' -- ENG She asks if he learned any interesting recipes.
-- 'Yes, I prepared twelve kinds of dishes.' -- ENG He proudly boasts about his impressive culinary output.
-- 'Sounds very tasty and interesting.' -- ENG She compliments his hard work and dedication.
-- 'I tried very hard in the kitchen.' -- ENG He admits that the chef pushes him to his limits.
-- 'Do you like your new job?' -- ENG She asks if he enjoys the stressful environment.
-- 'Yes, I like everything very much.' -- ENG He confirms that cooking is his true passion.
-- 'You learn quickly, well done.' -- ENG She praises his rapid progress and skill.
-- 'Thank you, I will try further.' -- ENG He promises to keep improving his cooking abilities.
+- 'Get in, I will give you a lift home.' Listen for the word meaning 'sit down' right alongside 'I' in this line.
+- 'Thank you, I am very tired today.' Notice the word order: 'thank you' comes first, and 'today' finishes the sentence. Vika answers straight away.
+- 'Well then, how are your affairs?' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'what' straight to 'things'.
+- 'Normally, everything is fine.' You'll hear 'fine' all the time in the show, here connected with 'good'.
+- 'Did you prepare new dishes?' The first content word means 'you', and 'of dish' rounds out the thought. Then Max replies.
+- 'Yes, I prepared twelve kinds of dishes.' Max starts with 'cooked' and pairs it with 'twelve' to make the point clear.
+- 'Sounds very tasty and interesting.' Vika starts with 'sounds' and pairs it with 'very much' to make the point clear.
+- 'I tried very hard in the kitchen.' In Russian, 'I' leads into 'kitchen' in a very natural everyday phrasing. And Vika jumps in.
+- 'Do you like your new job?' Here 'for you' sets up the idea, while 'job' comes at the end for emphasis.
+- 'Yes, I like everything very much.' A compact expression built around 'to me' and 'is pleasing'.
+- 'You learn quickly, well done.' Vika starts with 'you' and pairs it with 'quickly' to make the point clear. Max answers straight away.
+- 'Thank you, I will try further.' The reflexive ending on the verb for 'to try' turns the action back onto the subject.

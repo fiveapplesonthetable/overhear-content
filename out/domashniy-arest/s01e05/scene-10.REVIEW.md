@@ -34,14 +34,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Never mind me, it's Lyoshka who got scared.' Literally 'what am I — here Lyoshka got scared'. The dean asks for the details.
 - 'Now let's go through everything in order.' Literally 'now let's everything by order'.
 - 'Tell me, how much do you owe them?' Marina gives him the number.
-- 'A hundred and fifty thousand.'
+- 'A hundred and fifty thousand.' The key word here means 'a hundred', which Marina combines with 'fifty'.
 - 'I borrowed twenty.' She used the imperfective past of 'to take': 'I took twenty'. She explains how twenty turned into a hundred and fifty.
 - 'And they piled it on with their gangster interest rates.' The verb literally means 'wound up, cranked up'. And the collectors blamed her for not reading the contract carefully.
 - 'They said that you have to read the fine print.' Literally 'small font'. Instead of taking her side, the dean nods sagely.
-- 'Marinochka, of course they're right.'
+- 'Marinochka, of course they're right.' The first content word means 'Marinochka', and 'right' rounds out the thought.
 - 'You have to read the fine print too.' Marina cuts straight to the point.
 - 'Will you help me?' Notice the future tense of 'help' takes the dative case: 'to me'. The dean immediately starts making excuses.
-- 'Well, of course! I'm thinking how.'
+- 'Well, of course! I'm thinking how.' The question word for 'how' comes right at the start, followed directly by 'how'.
 - 'Alla Yevgenyevna has taken over all my income.' His domineering wife controls every rouble he earns.
 - 'I withdraw money from my card.' Literally 'I take off money from the card'.
 - 'And Alla Yevgenyevna immediately gets a text message.' Marina isn't buying it.
@@ -51,9 +51,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Fine. What should I do?' Literally 'what to me to do?'. The dean brightens up with a solution that costs him nothing.
 - 'You need to run!' He says it with complete seriousness.
 - 'Run to the village to your mum's.' Notice 'into the village' uses the accusative, and 'to mum' uses the preposition 'toward' plus dative.
-- 'Go away with Alyosha for six months.'
+- 'Go away with Alyosha for six months.' A compact expression built around 'go away' and 'months'.
 - 'And everyone will forget everything!' Notice those two almost identical words side by side: 'everyone' with an 'e' and 'everything' with 'yo'. Marina thinks of Major Lavrov's business card.
-- 'I think that I have a man.'
+- 'I think that I have a man.' The key word here means 'I', which Marina combines with 'think'.
 - 'He will be able to protect me.' As she walks out, the dean calls after her indignantly.
-- 'Marina, I'm doing everything possible!'
-- 'Listen, you're being unfair!'
+- 'Marina, I'm doing everything possible!' You'll hear 'Marina' all the time in the show, here connected with 'possible'.
+- 'Listen, you're being unfair!' Here 'listen' sets up the idea, while 'unfair' comes at the end for emphasis.

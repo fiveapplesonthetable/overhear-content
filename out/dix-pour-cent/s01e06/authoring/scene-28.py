@@ -105,7 +105,7 @@ WALK = [
     (12, "Ça ne servira à rien.",
      "'That won't do any good.' Literally 'that will serve to nothing'."),
     (12, "Elle ne me parlera pas.",
-     "'She won't speak to me.'"),
+     "'...' The first content word means 'she', and 'not' rounds out the thought."),
     (13, None,
      "'It looks like a divorce.' The verb followed by the preposition means 'looks like' or 'resembles'."),
     (14, None,

@@ -15,7 +15,7 @@ INTRO = ("Ilya is looking for someone in the restaurant. He asks Nastya if she h
 
 STORY = [
     ('anya', 'Привет.', 'Hi.', [], ''),
-    ('nastya', 'Привет, илья.', 'Hi, my friend.', [], ''),
+    ('nastya', 'Привет, Илья.', 'Hi, Ilya.', [], ''),
     ('anya', 'Здесь была девушка в зеленом платье?', 'Was there a girl in a green dress here?', [(153, 'А разве здесь была девушка в зеленом платье')], ''),
     ('nastya', 'Вообще да.', 'Yes, actually.', [(154, 'Вообще да')], ''),
     ('anya', 'Где она?', 'Where is she?', [], ''),
@@ -31,19 +31,19 @@ STORY = [
 
 OPENER = "Let's review the conversation line by line."
 WALK = [
-    (0, None, "'Hi.' — Built around the key interjection meaning 'hi'."),
-    (1, None, "'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the proper name for 'Ilya'."),
-    (2, None, "'Was there a girl in a green dress here?' — Notice the adverb meaning 'here' paired with the verb for 'was'."),
-    (3, None, "'Yes, actually.' — Built around the key adverb meaning 'at all'."),
-    (4, None, "'Where is she?' — Notice the adverb meaning 'where' paired with the pronoun for 'it (the pipe)'."),
-    (5, None, "'I don't know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'."),
-    (6, None, "'You didn't see her?' — Notice the pronoun meaning 'you' paired with the noun for 'her, hers'."),
-    (7, None, "'That's strange, I didn't see.' — Notice the adverb meaning 'strange' paired with the pronoun for 'I'."),
-    (8, None, "'Maybe she left?' — Notice the verb meaning 'can' paired with the pronoun for 'it (the pipe)'."),
-    (9, None, "'Maybe.' — Notice the verb meaning 'can' paired with the verb for 'be'."),
-    (10, None, "'I need to find her.' — Notice the pronoun meaning 'to me (  = I have no time)' paired with the adverb for '(it is) necessary'."),
-    (11, None, "'Look in the bar.' — Notice the verb meaning 'look' paired with the noun for 'bar'.")
+    (0, None, "'Hi.' You'll hear 'hi' all the time in the show, here connected with 'hi'. Nastya answers straight away."),
+    (1, None, "'Hi, Ilya.' Notice the word order: 'hi' comes first, and 'Ilya' finishes the sentence."),
+    (2, None, "'Was there a girl in a green dress here?' Notice the word order: 'here' comes first, and 'a dress' finishes the sentence."),
+    (3, None, "'Yes, actually.' You'll hear 'at all' all the time in the show, here connected with 'at all'. Then Ilya replies."),
+    (4, None, "'Where is she?' The key word here means 'where', which Ilya combines with 'it'."),
+    (5, None, "'I don't know.' Nastya starts with 'I' and pairs it with 'know' to make the point clear."),
+    (6, None, "'You didn't see her?' Ilya starts with 'you' and pairs it with 'her' to make the point clear. And Nastya jumps in."),
+    (7, None, "'That's strange, I didn't see.' Here 'strange' sets up the idea, while 'saw' comes at the end for emphasis."),
+    (8, None, "'Maybe she left?' You'll hear 'can' all the time in the show, here connected with 'left'."),
+    (9, None, "'Maybe.' Here 'can' sets up the idea, while 'be' comes at the end for emphasis. Ilya answers straight away."),
+    (10, None, "'I need to find her.' Listen for the word meaning 'to me' right alongside 'necessary' in this line."),
+    (11, None, "'Look in the bar.' Notice the word order: 'look' comes first, and 'bar' finishes the sentence.")
 ]
 TRANSITION = "Let's hear it again."
-OUTRO = "That was an interesting scene. See you in the next one."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the girl in green, and for the words meaning 'was' and 'girlfriend'. You'll catch them now. See you next time."
 CLOSING = ("anya", "До встречи!")

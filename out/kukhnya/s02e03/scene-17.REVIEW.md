@@ -26,7 +26,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We have a problem with our order.' -- ENG The customer complains about a mistake.
-- 'I asked for no onions.' -- ENG He points out the specific error in his dish.
-- 'Excuse me.' -- ENG He loudly demands attention from the passing staff.
-- 'I want to speak with the chef.' -- ENG He requests to see the person responsible for the kitchen.
+- 'We have a problem with our order.' The key word here means 'us', which the guest combines with 'problem'.
+- 'I asked for no onions.' Notice the word order: 'I' comes first, and 'onion' finishes the sentence.
+- 'Excuse me.' the guest starts with 'respected' and pairs it with 'respected' to make the point clear.
+- 'I want to speak with the chef.' the guest puts 'I' up front so the listener immediately catches the tone, followed by 'want'.

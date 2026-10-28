@@ -32,14 +32,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I just want to talk to you. To apologize.' Mathias follows suit with the formal pronoun.
 - 'Apologize as much as you want, I will never forgive you.' The verb is in the future tense, wrapped in the negative words for 'never'.
 - 'Just five minutes.' Literally 'five minutes only', he pleads to her.
-- 'Why are you suddenly in such a hurry?'
+- 'Why are you suddenly in such a hurry?' The key word here means 'why', which Mathias combines with 'you'.
 - 'I can't stand this anymore.' The negative words around the verb mean 'no longer' or 'not anymore'.
-- 'I'm worried about you.'
+- 'I'm worried about you.' You'll hear 'I' all the time in the show, here connected with 'you'.
 - 'Are you afraid for your agency?' Catherine suspects Mathias only cares about her father's money to buy out ASK.
 - 'No, darling.' Mathias slips back into familiarity with her.
 - 'Don't call me darling! Ever!' Catherine calls her assistant Sandra and walks away. Meanwhile at ASK, Andréa is on the phone with François.
 - 'We'll meet there. At what time?' Christophe Bel sent François a text from Andréa's phone inviting him to his birthday party, and François says he doesn't feel like going.
-- 'François, he invited you personally. And now you're hesitating?'
+- 'François, he invited you personally. And now you're hesitating?' In French, 'François' leads into 'hesitate' in a very natural everyday phrasing.
 - 'Isn't that what you wanted?' François grumbles that he would have preferred a quiet lunch rather than a birthday party.
 - 'Sorry, François, I don't follow you.' Here 'follow' is from the verb 'to follow', spelled the same as 'I am'.
 - 'Right, I'll be there at eight-thirty.' French uses the twenty-four-hour clock for evening appointments.

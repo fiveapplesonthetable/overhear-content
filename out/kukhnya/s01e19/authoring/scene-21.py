@@ -15,7 +15,7 @@ SOURCE_NOTE = "Cues."
 INTRO = "In this scene focused on together, max says that the main thing is that they are together. Let's listen closely to Vika and Max's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "This is the end of the scene."
-OUTRO = "Goodbye."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around together, and for the words meaning 'worry' and 'important'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Конец.")
 
 STORY = [
@@ -35,16 +35,16 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'I worry.' — Notice the pronoun meaning 'I' paired with the verb for 'worry'."),
-    (1, None, "'Do not worry so much.' — Built around the key verb meaning 'worry'."),
-    (2, None, "'Why?' — Built around the key adverb meaning 'why'."),
-    (3, None, "'The main thing is that we are together.' — Notice the adjective meaning 'important (thing)' paired with the pronoun for 'what'."),
-    (4, None, "'This is the main thing.' — Notice the pronoun meaning 'this' paired with the adjective for 'important (thing)'."),
-    (5, None, "'For some it is easier to lose everything.' — Notice the pronoun meaning 'someone, somebody' paired with the noun for 'simpler, easier'."),
-    (6, None, "'What for?' — Built around the key adverb meaning 'what for'."),
-    (7, None, "'In order to understand.' — Built around the key verb meaning 'to understand'."),
-    (8, None, "'To understand what?' — Notice the verb meaning 'to understand' paired with the pronoun for 'what'."),
-    (9, None, "'How dear it was.' — Notice the adverb meaning 'as far as' paired with the pronoun for 'this'."),
-    (10, None, "'We do not need to lose.' — Notice the pronoun meaning '(to) us' paired with the adverb for 'it is necessary'."),
+    (0, None, "'I worry.' Vika starts with 'I' and pairs it with 'worry' to make the point clear. And Max jumps in."),
+    (1, None, "'Do not worry so much.' Notice the word order: 'worry' comes first, and 'worry' finishes the sentence."),
+    (2, None, "'Why?' Here 'why' sets up the idea, while 'why' comes at the end for emphasis."),
+    (3, None, "'The main thing is that we are together.' The question word for 'what' comes right at the start, followed directly by 'together'. Vika answers straight away."),
+    (4, None, "'This is the main thing.' The key word here means 'this', which Vika combines with 'important'."),
+    (5, None, "'For some it is easier to lose everything.' Notice the word order: 'someone' comes first, and 'to lose' finishes the sentence."),
+    (6, None, "'What for?' Vika puts 'what for' up front so the listener immediately catches the tone, followed by 'what for'. Then Max replies."),
+    (7, None, "'In order to understand.' The first content word means 'to understand', and 'to understand' rounds out the thought."),
+    (8, None, "'To understand what?' The first content word means 'to understand', and 'what' rounds out the thought."),
+    (9, None, "'How dear it was.' In Russian, 'as far as' leads into 'expensive' in a very natural everyday phrasing. And Vika jumps in."),
+    (10, None, "'We do not need to lose.' Russian expresses this impersonally, literally saying 'to me' or 'to you' with 'to lose'."),
     (11, None, "'No need.' — Built around the key adverb meaning 'it is necessary'."),
 ]

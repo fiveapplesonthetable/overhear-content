@@ -31,20 +31,20 @@ STORY = [
 
 OPENER = "Let's go through it line by line. Nagiyev stares furiously at the drunken Chef."
 WALK = [
- (0, None, "'Dim, come on, don't go quiet.' It is a simple phrase."),
- (1, None, "'And it's time to go home. Everyone's tired.' It is a simple phrase."),
- (2, None, "'And what are you tired from?' It is a simple phrase."),
- (3, None, "'Drinking all day?' It is a simple phrase."),
- (4, None, "'Chef, I'm sorry.' It is a simple phrase."),
- (5, None, "'I guess I didn't handle it.' It is a simple phrase."),
- (6, None, "'Lyova, come here.' It is a simple phrase."),
- (7, None, "'Picking fights with guests isn't great.' It is a simple phrase."),
- (8, None, "'But the head chef isn't only responsible for food.' It is a simple phrase."),
- (9, None, "'First and foremost he is responsible for the team.' It is a simple phrase."),
- (10, None, "'And today you acted like a real head chef.' It is a simple phrase."),
- (11, None, "'You handled it. Well done.' It is a simple phrase."),
+ (0, None, "'Dim, come on, don't go quiet.' The little negative word sits right in front of the verb for 'be quiet', just like 'not' in English."),
+ (1, None, "'And it's time to go home. Everyone's tired.' Notice the word order: 'home' comes first, and 'got tired' finishes the sentence."),
+ (2, None, "'And what are you tired from?' The first content word means 'what?', and 'am tired' rounds out the thought."),
+ (3, None, "'Drinking all day?' You'll hear 'to booze' all the time in the show, here connected with 'day'."),
+ (4, None, "'Chef, I'm sorry.' Listen for the word meaning 'chef' right alongside 'sorry' in this line."),
+ (5, None, "'I guess I didn't handle it.' Viktor puts 'I' up front so the listener immediately catches the tone, followed by 'apparently'."),
+ (6, None, "'Lyova, come here.' A compact expression built around 'Lyova' and 'here'."),
+ (7, None, "'Picking fights with guests isn't great.' In Russian, 'to make a scene' leads into 'good' in a very natural everyday phrasing."),
+ (8, None, "'But the head chef isn't only responsible for food.' The first content word means 'head chef', and 'am driving' rounds out the thought."),
+ (9, None, "'First and foremost he is responsible for the team.' Viktor puts 'first' up front so the listener immediately catches the tone, followed by 'turn in the queue'."),
+ (10, None, "'And today you acted like a real head chef.' In Russian, 'you' leads into 'chef' in a very natural everyday phrasing."),
+ (11, None, "'You handled it. Well done.' The reflexive ending on the verb for 'to manage' turns the action back onto the subject."),
 ]
 
 TRANSITION = "Now let's hear the whole scene once more, start to finish."
-OUTRO = "Lyova beams with pride. See you next time."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around a real head chef, and for the words meaning 'be quiet' and 'got tired'. You'll catch them now. See you next time."
 CLOSING = ("chef", "Молодец.")

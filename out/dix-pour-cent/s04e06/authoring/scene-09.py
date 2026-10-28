@@ -14,7 +14,7 @@ LABELS = {'lea': 'Arlette', 'gabriel': 'Gabriel'}
 INTRO = "Gabriel tells Arlette that the man is coming. We will hear it in French first, don't worry about catching every word. Just listen to the rhythm and try to spot familiar phrases as Gabriel nervously speaks."
 OPENER = "Let's go back through it. Gabriel reassures Arlette."
 TRANSITION = "Let's listen to the whole scene again."
-OUTRO = 'Arlette is very sad about her dog.'
+OUTRO = 'And that's it for this scene. When you watch the episode, listen out for the exchange around he will be here in 5 minutes, and for the words meaning 'to worry' and 'to be'. You'll catch them now. See you next time.'
 
 STORY = [
     ('gabriel', "Ne t'inquiète pas, Arlette.", 'Do not worry, Arlette.', [], ''),

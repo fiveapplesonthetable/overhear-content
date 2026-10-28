@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I want you to know.' ENG Max makes his final dramatic statement.
-- 'I love you.' ENG He declares his true feelings.
-- 'Stop it.' ENG Vika is not impressed by his act.
-- 'Do you want to hang yourself?' ENG She calls his bluff.
-- 'I don't care.' ENG She shows zero sympathy.
-- 'Wait.' ENG Max panics as he slips.
-- 'I am not joking.' ENG He realizes he is in actual danger.
-- 'Help!' ENG He is genuinely choking now.
-- 'What have you done, Victoria?' ENG Kostya blames her for the accident.
-- 'You killed him.' ENG Kostya exaggerates the situation.
-- 'Kostya, help him!' ENG Vika finally realizes it is not a joke.
-- 'Did you really hang yourself?' ENG Kostya is shocked by Max's foolishness.
+- 'I want you to know.' A compact expression built around 'I' and 'knew'.
+- 'I love you.' Notice the word order: 'I' comes first, and 'you' finishes the sentence.
+- 'Stop it.' The key word here means 'stop it', which Vika combines with 'stop it'.
+- 'Do you want to hang yourself?' Vika uses the casual singular 'you' with 'you', as close colleagues and friends do.
+- 'I don't care.' The key word here means 'to me', which Vika combines with 'the same'.
+- 'Wait.' Notice the word order: 'wait' comes first, and 'wait' finishes the sentence.
+- 'I am not joking.' Max puts 'I' up front so the listener immediately catches the tone, followed by 'am joking'.
+- 'Help!' In Russian, 'help' leads into 'help' in a very natural everyday phrasing.
+- 'What have you done, Victoria?' The question word for 'what' comes right at the start, followed directly by 'Viktoriya'.
+- 'You killed him.' In Russian, 'you' leads into 'him' in a very natural everyday phrasing. And Vika jumps in.
+- 'Kostya, help him!' Listen for the word meaning 'Kostya' right alongside 'help' in this line.
+- 'Did you really hang yourself?' Notice the word order: 'you' comes first, and 'hang oneself' finishes the sentence.

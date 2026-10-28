@@ -36,21 +36,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'And what if Anikeev comes up with something?' The perfective verb with the prefix 'pri-' means to think up or invent a plan.
 - 'What could he come up with?' Pasha brushes the worry aside.
 - 'He'll just make a deal with the blind people, and that's it.' Notice the instrumental plural ending '-ymi' after the preposition 'with'.
-- 'He won't make a deal, the blind people hate him.'
+- 'He won't make a deal, the blind people hate him.' Here 'will make a deal' sets up the idea, while 'hate' comes at the end for emphasis.
 - 'They think that he is to blame' for delaying their new building.
 - 'And in reality?' Literally 'and on the actual matter?', the standard Russian phrase for 'in fact' or 'actually'.
 - 'And in reality I did it.' Pasha admits the truth.
 - 'I needed to grab the construction contracts there.' That prompts a sharp question from the governor.
 - 'Is Anikeev's order on allocating the funds still there?' If that signed order exists, it proves Anikeev gave the money and Pasha diverted it.
 - 'Well, probably somewhere in the archive.' The governor immediately sees the danger.
-- 'Watch out, they'll see it!'
+- 'Watch out, they'll see it!' Here 'watch out' sets up the idea, while 'will see' comes at the end for emphasis.
 - Pasha makes a clumsy joke: 'How will they see it if they are blind?' The governor explodes.
-- 'Are you still cracking jokes?'
+- 'Are you still cracking jokes?' The key word here means 'you', which the speaker combines with 'still'.
 - 'Drive to City Hall and put all of it in the shredder!' Notice how Russian drops the second verb and says simply 'and into the shredder all this!'.
 - 'I understand. Right, I'm on my way!' As Pasha hurries off, the governor poses on the ice for a campaign photograph and approves the caption.
 - 'Good photo!' Feminine adjective and noun.
 - 'Write: a coward doesn't play hockey' — a famous line from a classic Soviet hockey song. Meanwhile, back in the flat, Arkady anxiously phones Ilona in the City Hall archive.
 - 'Hello, Ilona! Why aren't you calling? Did you find it?' Notice the feminine past-tense ending '-la' because he is speaking to Ilona.
-- 'What do you mean you didn't find it?'
+- 'What do you mean you didn't find it?' Listen for the word meaning 'how' right alongside 'found' in this line.
 - 'Listen, look in the black cabinet.' The noun for cabinet takes the special prepositional ending '-u' when expressing location.
 - 'There to the right of the door!'

@@ -80,7 +80,7 @@ WALK = [
   "'We counted on the deputy taking the money from the mayor.' Lavrov explains their original plan: let Osipenko "
   "squeeze Arkady for the money. Then came the twist."),
  (1, "Но мэр придумал новый план.",
-  "'But the mayor came up with a new plan.'"),
+  "'But the mayor came up with a new plan.' Notice the word order: 'mayor' comes first, and 'plan' finishes the sentence."),
  (1, "Сосед мэра теперь пойдёт в мэры.",
   "'The mayor's neighbour will now run for mayor.' Notice the repetition of 'mayor', ending with the plural "
   "'into mayors' for 'run for mayor'."),
@@ -88,7 +88,7 @@ WALK = [
   "'And the deputy had to switch his focus to that neighbour.' Literally 'to the deputy it fell to switch onto "
   "that neighbour'."),
  (3, "Ну и процесс остановился.",
-  "'And so the process stalled.'"),
+  "'And so the process stalled.' Listen for the word meaning 'process' right alongside 'stalled' in this line."),
  (3, "Да арестовывать его надо, товарищ генерал!",
   "'We just need to arrest him, Comrade General!' Mikhail Mikhailovich wants to lock Arkady up again. On the "
   "screen, General Kruglov squints at them."),
@@ -105,11 +105,11 @@ WALK = [
  (7, None,
   "'Wait, so what is your case?' Literally 'wait, and what is by you?'. Lavrov reminds him."),
  (8, "У нас фальшивый кластер.",
-  "'Ours is the fake cluster.'"),
+  "'Ours is the fake cluster.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'us' straight to 'cluster'."),
  (8, "Операция «Золотой ярд».",
   "'Operation Golden Billion.' The slang noun 'yard' is short for 'milliard', a billion. Kruglov nods."),
  (9, "А, точно. Перепутал.",
-  "'Oh, right. I mixed them up.'"),
+  "'Oh, right. I mixed them up.' You'll hear 'right' all the time in the show, here connected with 'mixed up'."),
  (9, "Такое в стране творится! Продолжаем операцию.",
   "'So much is going on in the country! Continue the operation.' Lavrov answers briskly."),
  (10, None,
@@ -125,14 +125,14 @@ WALK = [
  (13, "Я всё помню!",
   "'I remember everything!' Kruglov boasts proudly."),
  (13, "Почему не было на совещании?",
-  "'Why wasn't he at the meeting?'"),
+  "'Why wasn't he at the meeting?' Here 'why' sets up the idea, while 'meeting' comes at the end for emphasis."),
  (13, "Чтобы в следующий раз был!",
   "'Make sure he's there next time!' Literally 'so that in the next time he was!'. And with that, the general "
   "wraps up."),
  (14, "Всё, давайте.",
   "'Alright, carry on.' He waves toward the camera."),
  (14, "У меня перерыв на обед.",
-  "'I have my lunch break.'"),
+  "'I have my lunch break.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'me' straight to 'lunch'."),
 ]
 
 TRANSITION = "Now let's hear the whole conversation again from the beginning."

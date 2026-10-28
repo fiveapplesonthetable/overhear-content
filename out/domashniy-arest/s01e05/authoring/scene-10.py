@@ -96,7 +96,7 @@ WALK = [
  (2, "Скажи мне, сколько ты им должна?",
   "'Tell me, how much do you owe them?' Marina gives him the number."),
  (3, "Сто пятьдесят тысяч.",
-  "'A hundred and fifty thousand.'"),
+  "'A hundred and fifty thousand.' The key word here means 'a hundred', which Marina combines with 'fifty'."),
  (3, "Я брала двадцать.",
   "'I borrowed twenty.' She used the imperfective past of 'to take': 'I took twenty'. She explains how twenty "
   "turned into a hundred and fifty."),
@@ -107,14 +107,14 @@ WALK = [
   "'They said that you have to read the fine print.' Literally 'small font'. Instead of taking her side, the "
   "dean nods sagely."),
  (6, "Мариночка, конечно, они правы.",
-  "'Marinochka, of course they're right.'"),
+  "'Marinochka, of course they're right.' The first content word means 'Marinochka', and 'right' rounds out the thought."),
  (6, "Мелкий шрифт тоже надо читать.",
   "'You have to read the fine print too.' Marina cuts straight to the point."),
  (7, None,
   "'Will you help me?' Notice the future tense of 'help' takes the dative case: 'to me'. The dean immediately "
   "starts making excuses."),
  (8, "Ну конечно! Я думаю, как.",
-  "'Well, of course! I'm thinking how.'"),
+  "'Well, of course! I'm thinking how.' The question word for 'how' comes right at the start, followed directly by 'how'."),
  (8, "Все мои доходы забрала Алла Евгеньевна.",
   "'Alla Yevgenyevna has taken over all my income.' His domineering wife controls every rouble he earns."),
  (9, "Я снимаю деньги с карточки.",
@@ -137,18 +137,18 @@ WALK = [
   "'Run to the village to your mum's.' Notice 'into the village' uses the accusative, and 'to mum' uses the "
   "preposition 'toward' plus dative."),
  (14, "Уезжай с Алёшей на шесть месяцев.",
-  "'Go away with Alyosha for six months.'"),
+  "'Go away with Alyosha for six months.' A compact expression built around 'go away' and 'months'."),
  (14, "И все всё забудут!",
   "'And everyone will forget everything!' Notice those two almost identical words side by side: 'everyone' with "
   "an 'e' and 'everything' with 'yo'. Marina thinks of Major Lavrov's business card."),
  (15, "Я думаю, что у меня есть мужчина.",
-  "'I think that I have a man.'"),
+  "'I think that I have a man.' The key word here means 'I', which Marina combines with 'think'."),
  (15, "Он сможет меня защитить.",
   "'He will be able to protect me.' As she walks out, the dean calls after her indignantly."),
  (16, "Марина, я делаю всё возможное!",
-  "'Marina, I'm doing everything possible!'"),
+  "'Marina, I'm doing everything possible!' You'll hear 'Marina' all the time in the show, here connected with 'possible'."),
  (16, "Послушай, ты несправедлива!",
-  "'Listen, you're being unfair!'"),
+  "'Listen, you're being unfair!' Here 'listen' sets up the idea, while 'unfair' comes at the end for emphasis."),
 ]
 
 TRANSITION = "Now let's hear the whole conversation again from the beginning."

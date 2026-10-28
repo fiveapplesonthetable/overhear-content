@@ -32,21 +32,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Did you bring a present?' François brought an inflatable yellow duck as a tongue-in-cheek peace offering for Christophe.
 - 'Very good. Very funny.' Christophe is not amused when François hands him the plastic duck.
-- 'I'm glad that amuses you.'
+- 'I'm glad that amuses you.' Listen for the word meaning 'I' right alongside 'am' in this line.
 - 'I have to take care of the music.' Literally 'occupy myself with the music'.
 - 'Enjoy the atmosphere.' Christophe walks away coldly.
 - 'He isn't talking to me! He invites me, and he ignores me!' Remember that Christophe didn't actually send that invitation text—Colette sent it from Andréa's phone as a joke!
-- 'Wait, he's going to come back.'
-- 'It's his party, he's stressed. Give him time.'
+- 'Wait, he's going to come back.' Andréa starts with 'wait' and pairs it with 'he' to make the point clear.
+- 'It's his party, he's stressed. Give him time.' Andréa puts 'it is' up front so the listener immediately catches the tone, followed by 'party'. And François jumps in.
 - 'No, I'm leaving.' Literally 'I go away from here'.
 - 'What? No, stay! François!' As François heads for the door, Andréa corners Christophe.
-- 'Christophe, you are made to work together.'
-- 'Give me one good reason.'
+- 'Christophe, you are made to work together.' You'll hear 'Christophe' all the time in the show, here connected with 'together'. Christophe answers straight away.
+- 'Give me one good reason.' Notice the word order: 'give me' comes first, and 'reason' finishes the sentence.
 - 'He's a great actor!' When placed before the noun, the adjective for 'tall' or 'big' means 'great'.
 - 'He has no respect! I can't direct him in my play!' Here 'room' or 'piece' means a theatre play.
-- 'It's not that he doesn't want to!'
-- 'Then what is the problem? He can't?'
+- 'It's not that he doesn't want to!' A compact expression built around 'it' and 'not'.
+- 'Then what is the problem? He can't?' In French, 'then' leads into 'not' in a very natural everyday phrasing.
 - 'You mustn't tell anyone.' Literally 'one must tell it to nobody'.
 - 'He doesn't know how to swim.' That is the real reason François has been terrified of the swimming pool all along!
 - 'What?' Christophe is stunned.
-- 'He doesn't know how to swim!'
+- 'He doesn't know how to swim!' Here 'he' sets up the idea, while 'to swim' comes at the end for emphasis.

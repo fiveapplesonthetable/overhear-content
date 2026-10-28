@@ -27,9 +27,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'For you to be my wife.' -- ENG He awkwardly asks for her hand in marriage.
-- 'Have you lost your mind? Oh God, take it.' -- ENG She furiously rejects his sudden romantic gesture.
-- 'You said yourself that every day is a new step.' -- ENG He tries to justify his rushed decision using her words.
-- 'Kostya, I meant meeting the parents.' -- ENG She clarifies what she actually expected to happen next.
-- 'I had this step planned for a year from now.' -- ENG She reveals her strict long-term schedule for them.
-- 'And you nearly destroyed it just now.' -- ENG She scolds him for ruining her careful preparations.
+- 'For you to be my wife.' The first content word means 'you', and 'wife' rounds out the thought. Nastya answers straight away.
+- 'Have you lost your mind? Oh God, take it.' Notice the word order: 'mind' comes first, and 'take' finishes the sentence.
+- 'You said yourself that every day is a new step.' Kostya starts with 'myself' and pairs it with 'said' to make the point clear.
+- 'Kostya, I meant meeting the parents.' Nastya starts with 'Kostya' and pairs it with 'I' to make the point clear.
+- 'I had this step planned for a year from now.' Nastya puts 'me' up front so the listener immediately catches the tone, followed by 'plan'.
+- 'And you nearly destroyed it just now.' You'll hear 'you' all the time in the show, here connected with 'destroyed'.

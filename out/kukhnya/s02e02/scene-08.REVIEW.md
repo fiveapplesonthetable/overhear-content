@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Аня | Привет. | Hi. | new | new: new |
-| 2 | Антон | Привет, аня. | Hi, my friend. | new | new: new |
+| 2 | Антон | Привет, Вика. | Hi, Vika. | new | new: new |
 | 3 | Аня | Вот твоя вещь. | Here is your thing. | new | new: new |
 | 4 | Аня | Возьми это. | Take this. | new | new: new |
 | 5 | Аня | Держи. | Here you go. | #157 00:10:25: Держи | verbatim |
@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Hi.' A quick greeting.
-- 'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the noun for 'Anya'.
+- 'Hi, Vika.' Notice the word order: 'hi' comes first, and 'Vika' finishes the sentence.
 - 'Here is your thing.' Something needed to be returned.
 - 'Take this.' A simple command.
 - 'Here you go.' Giving the item over.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dima and I discussed the affairs.' -- The speaker states this. ENG
-- 'I have a good idea.' -- The speaker states this. ENG
-- 'How to make the restaurant better.' -- The speaker states this. ENG
-- 'But first I want to talk with you.' -- The speaker states this. ENG
-- 'Only with you, Viktor Petrovich.' -- The speaker states this. ENG
-- 'If you do not mind, Victoria Sergeyevna?' -- The speaker states this. ENG
-- 'Yes, of course, I do not mind.' -- The speaker states this. ENG
-- 'Great, I am listening to you.' -- The speaker states this. ENG
-- 'I looked at the employees salaries.' -- The speaker states this. ENG
-- 'We need to make layoffs.' -- The speaker states this. ENG
-- 'What are you talking about?' -- The speaker states this. ENG
-- 'Vika receives a lot of money.' -- The speaker states this. ENG
+- 'Dima and I discussed the affairs.' Here 'to discuss' uses the plural past-tense ending, which also serves for the polite 'you'.
+- 'I have a good idea.' Notice the word order: 'me' comes first, and 'idea' finishes the sentence.
+- 'How to make the restaurant better.' Here 'how' sets up the idea, while 'better' comes at the end for emphasis.
+- 'But first I want to talk with you.' You'll hear 'first' all the time in the show, here connected with 'you'.
+- 'Only with you, Viktor Petrovich.' The first content word means 'only', and 'Petrovich' rounds out the thought.
+- 'If you do not mind, Victoria Sergeyevna?' In Russian, 'you' leads into 'Sergeyevna' in a very natural everyday phrasing. Vika answers straight away.
+- 'Yes, of course, I do not mind.' Vika puts 'of course' up front so the listener immediately catches the tone, followed by 'I'.
+- 'Great, I am listening to you.' In Russian, 'wonderful' leads into 'I'm listening' in a very natural everyday phrasing.
+- 'I looked at the employees salaries.' In Russian, 'I' leads into 'staff members' in a very natural everyday phrasing.
+- 'We need to make layoffs.' A compact expression built around 'us' and 'dismissal'.
+- 'What are you talking about?' Notice the word order: 'what' comes first, and 'say' finishes the sentence.
+- 'Vika receives a lot of money.' Kristina starts with 'Vika' and pairs it with 'earns' to make the point clear.

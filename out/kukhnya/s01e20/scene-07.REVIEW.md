@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Are you serious right now?' -- He talks directly to her.
-- 'Yes, I am completely serious.' -- She explains her feelings to him.
-- 'I did not expect this.' -- He explains his feelings to her.
-- 'You should have expected it.' -- She talks directly to him.
-- 'Yesterday everything was so good.' -- He says this to her.
-- 'Yesterday is in the past.' -- She tells him this.
-- 'What do you want from me?' -- He talks directly to her.
-- 'I want a serious relationship.' -- She explains her feelings to him.
-- 'I am trying my best.' -- He explains his feelings to her.
-- 'It is not enough, Kostya.' -- She tells him this.
-- 'You are not...' -- He talks directly to her.
-- 'Not what?' -- She asks him a question.
-- 'You are not happy with me?' -- He talks directly to her.
+- 'Are you serious right now?' You'll hear 'you' all the time in the show, here connected with 'seriously'.
+- 'Yes, I am completely serious.' Notice the word order: 'I' comes first, and 'serious' finishes the sentence. Then Kostya replies.
+- 'I did not expect this.' The key word here means 'I', which Kostya combines with 'that'.
+- 'You should have expected it.' You'll hear 'for you' all the time in the show, here connected with 'to expect'.
+- 'Yesterday everything was so good.' The key word here means 'yesterday', which Kostya combines with 'was'. And Nastya jumps in.
+- 'Yesterday is in the past.' Nastya starts with 'yesterday' and pairs it with 'was left' to make the point clear.
+- 'What do you want from me?' You'll hear 'what' all the time in the show, here connected with 'me'.
+- 'I want a serious relationship.' Notice the word order: 'I' comes first, and 'relationships' finishes the sentence. Kostya answers straight away.
+- 'I am trying my best.' The first content word means 'I', and 'try' rounds out the thought.
+- 'It is not enough, Kostya.' A compact expression built around 'that' and 'Kostya'.
+- 'You are not...' Kostya starts with 'you' and pairs it with 'more' to make the point clear. Then Nastya replies.
+- 'Not what?' Nastya puts 'what' up front so the listener immediately catches the tone, followed by 'what'.
+- 'You are not happy with me?' Here 'you' sets up the idea, while 'me' comes at the end for emphasis.

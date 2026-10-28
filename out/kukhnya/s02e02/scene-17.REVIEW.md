@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, Kristina wants to tell you something.' -- ENG The owner introduces his ex-wife to apologize.
-- 'You are not fired, I was simply joking.' -- ENG The woman awkwardly admits that she overreacted earlier.
-- 'You have a simply terrible sense of humor.' -- ENG Victoria is deeply offended by the cruel prank.
-- 'But I am not planning to return here.' -- ENG She proudly rejects their offer to give back her job.
+- 'Vika, Kristina wants to tell you something.' Dmitry uses the casual singular 'you' with 'Vika', as close colleagues and friends do.
+- 'You are not fired, I was simply joking.' Kristina puts 'you' up front so the listener immediately catches the tone, followed by 'fired'.
+- 'You have a simply terrible sense of humor.' Listen for the word meaning 'you' right alongside 'just' in this line.
+- 'But I am not planning to return here.' The reflexive ending on the verb for 'am planning' turns the action back onto the subject.
 - 'Well, no means no.' -- ENG Kristina easily accepts her refusal without fighting.
-- 'Vika, what are you doing?' -- ENG Nagiyev panics when he sees his best manager leaving.
-- 'Well, you showed off and that is enough.' -- ENG He asks her to stop being so incredibly stubborn.
-- 'I will not return.' -- ENG She repeats her final decision with absolute confidence.
-- 'What does it mean, you do not want to?' -- ENG He cannot believe she is throwing away her career.
-- 'Can you really abandon all this?' -- ENG He motions to the beautiful restaurant around them.
-- 'This is your life.' -- ENG He reminds her how much she loves her job.
-- 'Everything here is made by your efforts.' -- ENG He praises her for building the business from scratch.
-- 'You bought these plush sofas yourself!' -- ENG He specifically mentions the expensive furniture she chose.
+- 'Vika, what are you doing?' In Russian, 'Vika' leads into 'are doing' in a very natural everyday phrasing.
+- 'Well, you showed off and that is enough.' The key word here means 'show off', which Dmitry combines with 'enough'.
+- 'I will not return.' Notice the word order: 'I' comes first, and 'will come back' finishes the sentence.
+- 'What does it mean, you do not want to?' Notice the word order: 'what' comes first, and 'do you want' finishes the sentence.
+- 'Can you really abandon all this?' Dmitry puts 'you' up front so the listener immediately catches the tone, followed by 'what'.
+- 'This is your life.' Listen for the word meaning 'this' right alongside 'your' in this line.
+- 'Everything here is made by your efforts.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'here' straight to 'effort'.
+- 'You bought these plush sofas yourself!' Dmitry starts with 'you' and pairs it with 'myself' to make the point clear.

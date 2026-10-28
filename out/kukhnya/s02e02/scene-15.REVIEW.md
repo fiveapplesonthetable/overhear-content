@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You fired her.' -- The speaker states this. ENG
-- 'She quit herself.' -- The speaker states this. ENG
-- 'What difference does it make?' -- The speaker states this. ENG
-- 'I propose a deal.' -- The speaker states this. ENG
-- 'What kind?' -- The speaker states this. ENG
-- 'I will make sushi.' -- The speaker states this. ENG
-- 'And you will bring Vika back.' -- The speaker states this. ENG
-- 'This is funny.' -- The speaker states this. ENG
-- 'The customers are waiting.' -- The speaker states this. ENG
-- 'Fine.' -- The speaker states this. ENG
-- 'I agree.' -- The speaker states this. ENG
-- 'That is excellent.' -- The speaker states this. ENG
-- 'I am starting.' -- The speaker states this. ENG
+- 'You fired her.' Notice the word order: 'you' comes first, and 'to fire' finishes the sentence. Then Kristina replies.
+- 'She quit herself.' The first content word means 'it', and 'quit' rounds out the thought.
+- 'What difference does it make?' You'll hear 'what' all the time in the show, here connected with 'difference'.
+- 'I propose a deal.' Notice the word order: 'I' comes first, and 'deal' finishes the sentence. And Kristina jumps in.
+- 'What kind?' The key word here means 'what', which Kristina combines with 'what'.
+- 'I will make sushi.' The first content word means 'I', and 'sushi' rounds out the thought.
+- 'And you will bring Vika back.' Chef Viktor puts 'you' up front so the listener immediately catches the tone, followed by 'will get back'. Kristina answers straight away.
+- 'This is funny.' In Russian, 'this' leads into 'ridiculous' in a very natural everyday phrasing.
+- 'The customers are waiting.' Chef Viktor starts with 'visitors' and pairs it with 'are waiting' to make the point clear.
+- 'Fine.' Kristina puts 'good' up front so the listener immediately catches the tone, followed by 'good'.
+- 'I agree.' Listen for the word meaning 'I' right alongside 'agree' in this line.
+- 'That is excellent.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'perfect' straight to 'perfect'.
+- 'I am starting.' You'll hear 'I' all the time in the show, here connected with 'am starting'.

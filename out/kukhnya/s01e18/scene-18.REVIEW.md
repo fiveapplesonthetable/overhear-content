@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Why are you acting like a little girl?' -- ENG Nagiyev mocks his dramatic reaction.
-- 'Go ahead, do whatever you want.' -- ENG Viktor feels defeated and angry.
-- 'You can quit at any moment.' -- ENG The owner points out that leaving is easy.
-- 'But who will pay your bills?' -- ENG He reminds him of his financial obligations.
-- 'I will always be able to find work.' -- ENG The proud chef insists he can easily find employment.
-- 'Your daughter studies in Paris.' -- ENG Nagiyev mentions the expensive tuition fees.
-- 'This costs twenty thousand a year.' -- ENG He emphasizes the exact cost.
-- 'I know my debts.' -- ENG Viktor is fully aware of his financial struggles.
-- 'They will kick you out after the first drinking binge.' -- ENG The owner highlights his unprofessional habits.
-- 'No one will tolerate your character.' -- ENG He adds that the chef is difficult to work with.
-- 'Alright, pour.' -- ENG Viktor finally gives in to the pressure.
-- 'Here, let's just drink and talk.' -- ENG They sit down together to share a glass of alcohol.
+- 'Why are you acting like a little girl?' In Russian, 'why' leads into 'girl' in a very natural everyday phrasing. Viktor answers straight away.
+- 'Go ahead, do whatever you want.' Notice the word order: 'let's' comes first, and 'want' finishes the sentence.
+- 'You can quit at any moment.' Notice the word order: 'you' comes first, and 'moment' finishes the sentence.
+- 'But who will pay your bills?' You'll hear 'who' all the time in the show, here connected with 'account'. Then Viktor replies.
+- 'I will always be able to find work.' Notice the word order: 'I' comes first, and 'job' finishes the sentence.
+- 'Your daughter studies in Paris.' Listen for the word meaning 'your' right alongside 'daughter' in this line.
+- 'This costs twenty thousand a year.' The first content word means 'this', and 'year' rounds out the thought. And Viktor jumps in.
+- 'I know my debts.' A compact expression built around 'I' and 'debt'.
+- 'They will kick you out after the first drinking binge.' The first content word means 'you', and 'drinking party' rounds out the thought.
+- 'No one will tolerate your character.' A compact expression built around 'nobody' and 'character'. Viktor answers straight away.
+- 'Alright, pour.' Viktor puts 'to pour' up front so the listener immediately catches the tone, followed by 'to pour'.
+- 'Here, let's just drink and talk.' The key word here means 'let's', which Dmitry combines with 'just'.

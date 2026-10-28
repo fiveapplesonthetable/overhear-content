@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can I have a word with you for a minute?' -- The speaker states this. ENG
-- 'I am listening.' -- The speaker states this. ENG
-- 'You have done a lot.' -- The speaker states this. ENG
-- 'But this is the past.' -- The speaker states this. ENG
-- 'We need new people.' -- The speaker states this. ENG
-- 'New blood.' -- The speaker states this. ENG
-- 'Are you firing me?' -- The speaker states this. ENG
-- 'Yes.' -- The speaker states this. ENG
-- 'I hope you will find a job.' -- The speaker states this. ENG
-- 'Do not worry about me.' -- The speaker states this. ENG
-- 'Okay, I won't.' -- The speaker states this. ENG
-- 'Goodbye.' -- The speaker states this. ENG
+- 'Can I have a word with you for a minute?' In Russian, 'may' leads into 'a minute' in a very natural everyday phrasing. And Kristina jumps in.
+- 'I am listening.' The first content word means 'I', and 'I'm listening' rounds out the thought.
+- 'You have done a lot.' The key word here means 'you', which Kristina combines with 'a lot'.
+- 'But this is the past.' You'll hear 'this' all the time in the show, here connected with 'last'.
+- 'We need new people.' The key word here means 'us', which Kristina combines with 'needed'.
+- 'New blood.' Kristina starts with 'new' and pairs it with 'blood' to make the point clear.
+- 'Are you firing me?' Vika starts with 'you' and pairs it with 'me' to make the point clear. Then Kristina replies.
+- 'Yes.' Here 'yes' sets up the idea, while 'yes' comes at the end for emphasis.
+- 'I hope you will find a job.' Listen for the word meaning 'I' right alongside 'hope so' in this line.
+- 'Do not worry about me.' The reflexive ending on the verb for 'worry' turns the action back onto the subject. And Kristina jumps in.
+- 'Okay, I won't.' Listen for the word meaning 'good' right alongside 'will be' in this line.
+- 'Goodbye.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'meeting' straight to 'meeting'.

@@ -31,21 +31,21 @@ STORY = [
 OPENER = "Let's listen to their conversation."
 
 WALK = [
- (0, "У вас надрыв связок.", "'You have a partial ligament tear.' ENG The doctor delivers the diagnosis."),
- (1, "Это не очень страшно.", "'It's not too serious.' ENG She reassures him it will heal."),
- (2, None, "'Keep your weight off that leg.' ENG Medical advice to rest."),
- (3, "Спасибо.", "'Thank you.' ENG He appreciates the help."),
- (4, "Какая причина вашей травмы?", "'What is the cause of your injury?' ENG The hospital needs it for their records."),
- (5, "Я попал под машину.", "'I got hit by a car.' ENG He explains what happened."),
- (6, None, "'Will you report to the police?' ENG She asks if he wants to file a report."),
- (7, "Нет.", "'No.' ENG He quickly declines."),
- (8, "Я забыл поставить машину на ручник.", "'I forgot to put the car on handbrake.' ENG He lies to cover for Elena."),
- (9, "И она на меня наехала.", "'And it ran over me.' ENG He claims his own car hit him."),
- (10, "Понятно.", "'I see.' ENG The doctor writes it down."),
- (11, None, "'I will not report it.' ENG He confirms the case is closed."),
+ (0, "У вас надрыв связок.", "'You have a partial ligament tear.' Here 'you' sets up the idea, while 'ligament' comes at the end for emphasis."),
+ (1, "Это не очень страшно.", "'It's not too serious.' Notice the word order: 'this' comes first, and 'scary' finishes the sentence."),
+ (2, None, "'Keep your weight off that leg.' Here 'load' sets up the idea, while 'foot' comes at the end for emphasis."),
+ (3, "Спасибо.", "'Thank you.' The key word here means 'thank you', which Chef Viktor combines with 'thank you'."),
+ (4, "Какая причина вашей травмы?", "'What is the cause of your injury?' There is no question word here — in Russian, rising intonation on 'injury' is enough to make it a question. Chef Viktor answers straight away."),
+ (5, "Я попал под машину.", "'I got hit by a car.' Chef Viktor starts with 'I' and pairs it with 'hit' to make the point clear."),
+ (6, None, "'Will you report to the police?' the speaker puts 'will be' up front so the listener immediately catches the tone, followed by 'declare'."),
+ (7, "Нет.", "'No.' Listen for the word meaning 'no' right alongside 'no' in this line."),
+ (8, "Я забыл поставить машину на ручник.", "'I forgot to put the car on handbrake.' The first content word means 'I', and 'handbrake' rounds out the thought."),
+ (9, "И она на меня наехала.", "'And it ran over me.' A compact expression built around 'it' and 'confront'."),
+ (10, "Понятно.", "'I see.' In Russian, 'clear' leads into 'clear' in a very natural everyday phrasing. And Chef Viktor jumps in."),
+ (11, None, "'I will not report it.' The little negative word sits right in front of the verb for 'will be', just like 'not' in English."),
 ]
 
 TRANSITION = "Now let's hear the whole thing once more."
 
-OUTRO = "That wraps up this scene."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around a torn ligament, and for the words meaning 'strain' and 'ligament'. You'll catch them now. See you next time."
 CLOSING = ("chef", "Спасибо.")

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, my dear.' -- He says this to her.
-- 'It is not a good morning.' -- She tells him this.
-- 'Why are you looking at me like that?' -- He talks directly to her.
-- 'I have been waiting for you to wake up.' -- She talks directly to him.
-- 'Are you awake and wanting to play with me?' -- He talks directly to her.
-- 'No, Kostya.' -- She tells him this.
-- 'Ah...' -- He says this to her.
-- 'Did I do something wrong?' -- He asks her a question.
-- 'You forgot what we discussed.' -- She talks directly to him.
-- 'I remember everything.' -- He explains his feelings to her.
-- 'Then why are you joking?' -- She talks directly to him.
-- 'I am just trying to be nice.' -- He explains his feelings to her.
+- 'Good morning, my dear.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'good' straight to 'expensive'.
+- 'It is not a good morning.' Notice the word order: 'this' comes first, and 'morning' finishes the sentence.
+- 'Why are you looking at me like that?' In Russian, 'why' leads into 'are staring' in a very natural everyday phrasing. Then Nastya replies.
+- 'I have been waiting for you to wake up.' The question word for 'when' comes right at the start, followed directly by 'wake up'.
+- 'Are you awake and wanting to play with me?' Notice the word order: 'you' comes first, and 'me' finishes the sentence.
+- 'No, Kostya.' Nastya starts with 'Kostya' and pairs it with 'Kostya' to make the point clear. And Kostya jumps in.
+- 'Ah...' The first content word means 'and', and 'and' rounds out the thought.
+- 'Did I do something wrong?' In Russian, 'I' leads into 'somehow' in a very natural everyday phrasing.
+- 'You forgot what we discussed.' The first content word means 'you', and 'were discussing' rounds out the thought. Kostya answers straight away.
+- 'I remember everything.' Kostya starts with 'I' and pairs it with 'remember' to make the point clear.
+- 'Then why are you joking?' The first content word means 'back then', and 'are joking' rounds out the thought.
+- 'I am just trying to be nice.' The reflexive ending on the verb for 'am trying' turns the action back onto the subject.

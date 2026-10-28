@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'One hundred sixty over ninety.' — Notice the numeral meaning 'a hundred' paired with the noun for 'sixty'.
+- 'One hundred sixty over ninety.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'a hundred' straight to 'ninety'.
 - 'Viktor Petrovich, this is not a joke.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'.
-- 'Such pressure is very dangerous.' — Notice the pronoun meaning '(what) on earth' paired with the noun for 'blood pressure'.
-- 'Yes, everything will be fine.' — Notice the det meaning 'everything' paired with the verb for 'will be'.
-- 'Any stress and it will be bad.' — Notice the adjective meaning 'any' paired with the noun for 'stress'.
-- 'Hi, Mom.' — Notice the interjection meaning 'hi' paired with the noun for 'mum, mother'.
-- 'How was your workday?' — Notice the adverb meaning 'how' paired with the verb for 'passed'.
-- 'Fine, they fired me.' — Notice the adverb meaning 'fine, OK' paired with the pronoun for 'me'.
-- 'Not fired, but demoted.' — Notice the verb meaning 'to fire, to dismiss' paired with the noun for 'demote, lower'.
-- 'Mom, I am not guilty of anything.' — Notice the noun meaning 'mum, mother' paired with the pronoun for 'I'.
-- 'You must know how to answer for your actions.' — Notice the adverb meaning 'it is necessary' paired with the verb for 'to know how'.
-- 'Thank you for the support, Mom.' — Notice the interjection meaning 'thank you' paired with the pronoun for 'for you, to you'.
+- 'Such pressure is very dangerous.' Here 'on earth' sets up the idea, while 'dangerous' comes at the end for emphasis.
+- 'Yes, everything will be fine.' Viktor starts with 'will be' and pairs it with 'good' to make the point clear.
+- 'Any stress and it will be bad.' Lyova puts 'any' up front so the listener immediately catches the tone, followed by 'stress'.
+- 'Hi, Mom.' Lyova starts with 'hi' and pairs it with 'mum' to make the point clear.
+- 'How was your workday?' Notice the word order: 'how' comes first, and 'day' finishes the sentence.
+- 'Fine, they fired me.' In Russian, 'fine' leads into 'to fire' in a very natural everyday phrasing.
+- 'Not fired, but demoted.' the speaker puts 'to fire' up front so the listener immediately catches the tone, followed by 'demote'.
+- 'Mom, I am not guilty of anything.' A compact expression built around 'mum' and 'at fault'.
+- 'You must know how to answer for your actions.' The first content word means 'it is necessary', and 'actions' rounds out the thought. Lyova answers straight away.
+- 'Thank you for the support, Mom.' The key word here means 'thank you', which Lyova combines with 'for you'.

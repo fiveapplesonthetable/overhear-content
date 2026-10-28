@@ -102,7 +102,7 @@ WALK = [
  (6, None,
   "'Stop the car!' She puts 'the car' first, in the accusative case, followed by a sharp singular command."),
  (7, None,
-  "'Did you move to Moscow and get all important? Don't you want to be with your own people anymore?'"),
+  "'Did you move to Moscow and get all important? Don't you want to be with your own people anymore?' Listen for the word meaning 'you' right alongside 'Moscow' in this line. And Ilona jumps in."),
  (8, None,
   "'No, I don't.' Just two words: 'not I-want'."),
  (9, None,

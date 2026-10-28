@@ -44,6 +44,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Call your wife, now.' Gabriel insists that Mathias contact Catherine.
 - 'We have to know.' The subjunctive form of the verb 'to know' after the impersonal expression.
 - 'That won't do any good.' Literally 'that will serve to nothing'.
-- 'She won't speak to me.'
+- '...' The first content word means 'she', and 'not' rounds out the thought.
 - 'It looks like a divorce.' The verb followed by the preposition means 'looks like' or 'resembles'.
 - 'What is she doing? Andréa is running off!' While the partners argue, Andréa suddenly bolts out of the conference room and sprints down the stairs after Colette.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What happened?' — Notice the pronoun meaning 'what' paired with the verb for 'happened'.
-- 'You're one to talk about cripples.' — Notice the pronoun meaning 'who' paired with the verb for 'said, were saying'.
-- 'I am on sick leave.' — Notice the pronoun meaning 'I' paired with the noun for 'sick leave'.
-- 'I am not here.' — Built around the key pronoun meaning 'me'.
-- 'Are you fumigating cockroaches?' — Notice the pronoun meaning 'you' paired with the verb for 'to torment (soul), poison'.
-- 'There is a stink in the dining room.' — Notice the noun meaning 'hall' paired with the verb for 'is parked (stands)'.
-- 'It is Fedya making breakfast.' — Notice the pronoun meaning 'this' paired with the proper name for 'Fedya'.
-- 'He is boiling a belt.' — Notice the pronoun meaning 'he' paired with the verb for 'is cooking'.
-- 'Why is he boiling a belt?' — Notice the adverb meaning 'what for' paired with the pronoun for 'he'.
-- 'He made a bet for money.' — Notice the pronoun meaning 'he' paired with the verb for 'to make a bet, argue, wager'.
-- 'You are like children.' — Notice the pronoun meaning 'you' paired with the adverb for 'how'.
-- 'Go to work!' — Notice the verb meaning 'come' paired with the verb for 'to work'.
+- 'What happened?' Listen for the word meaning 'what' right alongside 'happened' in this line.
+- 'You're one to talk about cripples.' The verb for 'said' is in the masculine past tense, marked by that 'l' sound at the end. Then Viktor replies.
+- 'I am on sick leave.' Here 'I' sets up the idea, while 'sick leave' comes at the end for emphasis.
+- 'I am not here.' You'll hear 'me' all the time in the show, here connected with 'me'.
+- 'Are you fumigating cockroaches?' A compact expression built around 'you' and 'cockroaches'.
+- 'There is a stink in the dining room.' Here 'hall' sets up the idea, while 'stench' comes at the end for emphasis.
+- 'It is Fedya making breakfast.' You'll hear 'this' all the time in the show, here connected with 'breakfast'.
+- 'He is boiling a belt.' Notice the word order: 'he' comes first, and 'belt' finishes the sentence. Viktor answers straight away.
+- 'Why is he boiling a belt?' The first content word means 'what for', and 'belt' rounds out the thought.
+- 'He made a bet for money.' A compact expression built around 'he' and 'money'.
+- 'You are like children.' Viktor starts with 'you' and pairs it with 'how' to make the point clear.
+- 'Go to work!' Viktor uses an urgent command built around the verb for 'come'.

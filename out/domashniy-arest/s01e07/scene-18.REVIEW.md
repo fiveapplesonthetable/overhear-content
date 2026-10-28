@@ -29,9 +29,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - At the kitchen table over a bubbling fondue pot, Danya chats cheerfully: 'There is this English chef.'
-- 'I will learn to cook from his shows.'
+- 'I will learn to cook from his shows.' Notice the word order: 'I' comes first, and 'to cook' finishes the sentence.
 - When Slavik asks if he can dip cucumbers in the melted cheese, Danya beams: 'Cucumbers are fine too, anything you want!'
-- 'You get unique flavours.'
+- 'You get unique flavours.' You'll hear 'turn out' all the time in the show, here connected with 'flavours'.
 - Danya turns to Samsonov: 'Well, is it tasty?'
 - 'Well, honestly speaking, it is not for me,' Samsonov replies dryly.
 - Old neighbour Klavdia Viktorovna cackles: 'Now if you could dip vodka in it, that would be another matter!'
@@ -39,19 +39,19 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - Samsonov glares at her: 'Klavdia Viktorovna, if you were my mother-in-law!' Notice the conditional particle with the past tense.
 - 'Then I would put up with you,' he warns, while Nina scolds the old lady for stirring up trouble.
 - Unbothered, Klavdia Viktorovna adds: 'And Danya will marry Nina!'
-- 'And we will live together in harmony and eat fondue.'
+- 'And we will live together in harmony and eat fondue.' The key word here means 'we will', which the speaker combines with 'live'.
 - Samsonov forces a smile to hide his jealousy: 'All right, everything is fine.'
-- 'We are having a nice time sitting together!'
+- 'We are having a nice time sitting together!' Here 'nicely' sets up the idea, while 'we are sitting' comes at the end for emphasis.
 - 'Only it lacks our broad Russian scale,' he complains, looking at the tiny candle under the pot.
-- 'The little flame is burning, but there is hardly any warmth.'
+- 'The little flame is burning, but there is hardly any warmth.' Listen for the word meaning 'little flame' right alongside 'is burning' in this line.
 - 'Now if we were out in nature, right?' Samsonov suggests.
-- 'We have not been out in nature for a long time!'
+- 'We have not been out in nature for a long time!' Here 'we' sets up the idea, while 'have been' comes at the end for emphasis.
 - 'Let's drive out to the forest for shashlik!' he proposes.
-- 'We will take Danya here along with us.'
+- 'We will take Danya here along with us.' the speaker starts with 'Danya' and pairs it with 'ourselves' to make the point clear.
 - Danya hesitates: 'Well, a picnic in winter is strange.'
-- 'Let's just eat fondue instead.'
+- 'Let's just eat fondue instead.' The key word here means 'let's', which the speaker combines with 'better'.
 - 'Look, Uncle Danya has gone pale, see!' Klavdia Viktorovna says to tease him.
-- 'He is afraid of the winter forest.'
+- 'He is afraid of the winter forest.' You'll hear 'got scared of' all the time in the show, here connected with 'the forest'.
 - Stung on his pride in front of Nina, Danya straightens up: 'No, why? I am ready!'
 - 'Great, then we are going!' Samsonov says triumphantly.
-- 'In an hour in the courtyard, okay?'
+- 'In an hour in the courtyard, okay?' Notice the word order: 'an hour' comes first, and 'the courtyard' finishes the sentence.

@@ -31,20 +31,20 @@ STORY = [
 
 OPENER = "Let's go through it line by line. Pay close attention to the grammar and vocabulary."
 WALK = [
-    (0, None, "'Vika, hi.' It is a simple phrase."),
-    (1, None, "'Hi, Max.' It is a simple phrase."),
-    (2, None, "'How are things at work?' It is a simple phrase."),
-    (3, None, "'Everything is as usual.' It is a simple phrase."),
-    (4, None, "'What a pleasant evening 0.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (5, None, "'What a pleasant evening 1.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (6, None, "'What a pleasant evening 2.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (7, None, "'What a pleasant evening 3.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (8, None, "'What a pleasant evening 4.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (9, None, "'What a pleasant evening 5.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (10, None, "'What a pleasant evening 6.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'."),
-    (11, None, "'What a pleasant evening 7.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.")
+    (0, None, "'Vika, hi.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Vika' straight to 'hi'."),
+    (1, None, "'Hi, Max.' Notice the word order: 'hi' comes first, and 'Max' finishes the sentence."),
+    (2, None, "'How are things at work?' In Russian, 'how' leads into 'work' in a very natural everyday phrasing. Then Vika replies."),
+    (3, None, "'Everything is as usual.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'how' straight to 'usually'."),
+    (4, None, "'What a pleasant evening 0.' Notice the word order: 'nice' comes first, and 'zero' finishes the sentence."),
+    (5, None, "'What a pleasant evening 1.' Vika starts with 'nice' and pairs it with 'evening' to make the point clear."),
+    (6, None, "'What a pleasant evening 2.' Vika puts 'nice' up front so the listener immediately catches the tone, followed by 'evening'."),
+    (7, None, "'What a pleasant evening 3.' Listen for the word meaning 'nice' right alongside 'evening' in this line."),
+    (8, None, "'What a pleasant evening 4.' The question word for 'what a' comes right at the start, followed directly by 'four'."),
+    (9, None, "'What a pleasant evening 5.' The key word here means 'nice', which Vika combines with 'evening'."),
+    (10, None, "'What a pleasant evening 6.' The first content word means 'nice', and 'six' rounds out the thought."),
+    (11, None, "'What a pleasant evening 7.' A compact expression built around 'nice' and 'seven'.")
 ]
 
 TRANSITION = "Now let's hear the whole scene once more, start to finish."
-OUTRO = "This concludes the scene. We hope you enjoyed practicing your Russian listening skills with us."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the new plan, and for the words meaning 'things' and 'work'. You'll catch them now. See you next time."
 CLOSING = ("anya", "Всё как обычно.")

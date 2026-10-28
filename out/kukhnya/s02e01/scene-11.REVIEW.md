@@ -26,13 +26,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Can you believe it? She wouldn't even listen.' — Notice the verb meaning 'can you imagine, believe' paired with the pronoun for 'it (the pipe)'.
-- 'I wouldn't either.' ENG: The second word means also or too, and the last words mean would not start.
-- 'What do you mean?' ENG: The phrase translates to in what sense and is a common way to ask what someone means.
-- 'Whose side are you on? Vika's or your friend's?' ENG: The first phrase means who are you for, asking which side they are taking.
-- 'But that doesn't change the fact you're a bastard.' ENG: The phrase means does not cancel, and the word for goat is used as an insult.
-- 'Keep at it, Kostya, keep at it.' ENG: The first word literally means saw as in cutting wood but colloquially means nag.
-- 'So if I cheated on you...' ENG: The first phrase means that is, and the verb means cheated or betrayed.
-- 'you wouldn't forgive me?' ENG: The verb means would not forgive.
-- 'Kostyan, it's not what you think.' ENG: The name is an affectionate form of his name.
+- 'Can you believe it? She wouldn't even listen.' Max starts with 'can you imagine' and pairs it with 'it' to make the point clear.
+- 'I wouldn't either.' Notice the word order: 'I' comes first, and 'have become' finishes the sentence.
+- 'What do you mean?' Max starts with 'sense' and pairs it with 'sense' to make the point clear.
+- 'Whose side are you on? Vika's or your friend's?' You'll hear 'you' all the time in the show, here connected with 'the friend'.
+- 'But that doesn't change the fact you're a bastard.' Listen for the word meaning 'this' right alongside 'cancels' in this line.
+- 'Keep at it, Kostya, keep at it.' Notice the word order: 'nag' comes first, and 'nag' finishes the sentence.
+- 'So if I cheated on you...' The key word here means 'there is', which Max combines with 'I'.
+- 'you wouldn't forgive me?' Max uses the casual singular 'you' with 'you', as close colleagues and friends do.
+- 'Kostyan, it's not what you think.' The key word here means 'Kostyan', which Kostya combines with 'this'.
 - 'We're not even friends.' ENG: The adverb adds emphasis, meaning at all or not even.

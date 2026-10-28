@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'They're singing La Marseillaise.' It is a simple phrase.
-- 'What a pleasant evening.' It is a simple phrase.
-- 'Let's forgive Jacques.' It is a simple phrase.
-- 'He seems to have had too much.' It is a simple phrase.
-- 'Even before our dish.' It is a simple phrase.
-- 'He is very tired today.' It is a simple phrase.
-- 'Therefore he cannot eat.' It is a simple phrase.
-- 'Well, then.' It is a simple phrase.
-- 'Then I will be the taster.' It is a simple phrase.
-- 'I will try it myself.' It is a simple phrase.
-- 'I hope it's tasty.' It is a simple phrase.
-- 'Let's see what the chef cooked.' It is a simple phrase.
+- 'They're singing La Marseillaise.' Dmitry starts with 'to perform' and pairs it with 'La Marseillaise' to make the point clear.
+- 'What a pleasant evening.' Dmitry puts 'nice' up front so the listener immediately catches the tone, followed by 'evening'.
+- 'Let's forgive Jacques.' The key word here means 'let's', which Dmitry combines with 'to excuse'.
+- 'He seems to have had too much.' The verb for 'got drunk' is in the masculine past tense, marked by that 'l' sound at the end.
+- 'Even before our dish.' The key word here means 'of dish', which Dmitry combines with 'of dish'.
+- 'He is very tired today.' Dmitry starts with 'he' and pairs it with 'very much' to make the point clear.
+- 'Therefore he cannot eat.' Dmitry puts 'that's why' up front so the listener immediately catches the tone, followed by 'he'.
+- 'Well, then.' Here 'what' sets up the idea, while 'what' comes at the end for emphasis.
+- 'Then I will be the taster.' A compact expression built around 'back then' and 'I'.
+- 'I will try it myself.' In Russian, 'I' leads into 'this' in a very natural everyday phrasing.
+- 'I hope it's tasty.' Listen for the word meaning 'hope so' right alongside 'this' in this line.
+- 'Let's see what the chef cooked.' Notice the word order: 'have a look' comes first, and 'chef' finishes the sentence.

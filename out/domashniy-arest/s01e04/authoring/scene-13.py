@@ -86,7 +86,7 @@ WALK = [
   "'It is easy, accessible, and easy to remember.' Literally 'is remembered well'. Then she reads the slogan on "
   "the poster."),
  (2, "«Пенсионер, болит твоя коленка?",
-  "'Pensioner, does your knee hurt?'"),
+  "''Pensioner, does your knee hurt?' There is no question word here — in Russian, rising intonation on 'knee' is enough to make it a question."),
  (2, "Проголосуй за Павла Осипенко!»",
   "'Vote for Pavel Osipenko!' In Russian, the word for 'knee' rhymes with the surname 'Osipenko'. Notice that "
   "voting 'for' someone uses the preposition 'behind, for' plus the accusative case. Ksyusha beams proudly."),
@@ -125,13 +125,13 @@ WALK = [
  (13, None,
   "'Well, not yet so far.' And Ksyusha delivers the punchline."),
  (14, "А его весь день показывают!",
-  "'And they show him all day long!'"),
+  "'And they show him all day long!' In Russian, 'him' leads into 'show' in a very natural everyday phrasing."),
  (14, "Он самый известный человек в Синеозерске.",
   "'He is the most famous man in Sineozersk.' The exact same words Arkady just used! Pasha loses his temper."),
  (15, "Он самый известный клоун в Синеозерске!",
-  "'He is the most famous clown in Sineozersk!'"),
+  "'He is the most famous clown in Sineozersk!' A compact expression built around 'he' and 'Sineozersk'."),
  (15, "Я не хочу об этом слышать.",
-  "'I don't want to hear about this.'"),
+  "'I don't want to hear about this.' Listen for the word meaning 'I' right alongside 'want' in this line."),
 ]
 
 TRANSITION = "Now let's listen to the whole scene at campaign headquarters again."

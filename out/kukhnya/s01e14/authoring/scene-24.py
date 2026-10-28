@@ -31,18 +31,18 @@ STORY = [
 
 OPENER = "Let's go through it line by line. Max asks Vika a playful question."
 WALK = [
- (0, None, "'And what am I?' It is a simple phrase."),
- (1, None, "'A croissant or celery?' It is a simple phrase."),
- (2, None, "'Well, of course a croissant.' It is a simple phrase."),
- (3, None, "'Why a croissant?' It is a simple phrase."),
- (4, None, "'I don't eat flour products.' It is a simple phrase."),
- (5, None, "'You saved our restaurant.' It is a simple phrase."),
- (6, None, "'You did great, Max.' It is a simple phrase."),
- (7, None, "'I just did my job.' It is a simple phrase."),
- (8, None, "'No, it was cool.' It is a simple phrase."),
- (9, None, "'You helped me a lot.' It is a simple phrase."),
- (10, None, "'Thank you.' It is a simple phrase."),
- (11, None, "'My brave croissant.' It is a simple phrase."),
+ (0, None, "'And what am I?' The question word for 'who' comes right at the start, followed directly by 'who'."),
+ (1, None, "'A croissant or celery?' The key word here means 'a croissant', which Max combines with 'celery'."),
+ (2, None, "'Well, of course a croissant.' Here 'of course' sets up the idea, while 'a croissant' comes at the end for emphasis."),
+ (3, None, "'Why a croissant?' A compact expression built around 'why' and 'a croissant'."),
+ (4, None, "'I don't eat flour products.' The key word here means 'I', which Max combines with 'to eat'."),
+ (5, None, "'You saved our restaurant.' Vika starts with 'you' and pairs it with 'saved' to make the point clear."),
+ (6, None, "'You did great, Max.' In Russian, 'you' leads into 'Max' in a very natural everyday phrasing. Max answers straight away."),
+ (7, None, "'I just did my job.' In Russian, 'I' leads into 'job' in a very natural everyday phrasing."),
+ (8, None, "'No, it was cool.' The first content word means 'this', and 'cool' rounds out the thought."),
+ (9, None, "'You helped me a lot.' A compact expression built around 'you' and 'to me'."),
+ (10, None, "'Thank you.' Vika puts 'thank you' up front so the listener immediately catches the tone, followed by 'for you'."),
+ (11, None, "'My brave croissant.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'brave' straight to 'a croissant'."),
 ]
 
 TRANSITION = "Now let's hear the whole scene once more, start to finish."

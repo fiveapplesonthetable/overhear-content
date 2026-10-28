@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'What is this?' -- ENG The furious customer points at his plate.
-- 'Turkey salad.' -- ENG The waitress answers nervously.
-- 'Was the turkey wearing pants and a belt?' -- ENG He sarcastically questions the weird object in his food.
-- 'Go get the idiot who made this.' -- ENG He aggressively demands to see the cook.
+- 'What is this?' In Russian, 'this' leads into 'what' in a very natural everyday phrasing. Vika answers straight away.
+- 'Turkey salad.' Notice the word order: 'salad' comes first, and 'turkey' finishes the sentence.
+- 'Was the turkey wearing pants and a belt?' the guest starts with 'turkey' and pairs it with 'was' to make the point clear.
+- 'Go get the idiot who made this.' the guest puts 'let's' up front so the listener immediately catches the tone, followed by 'call'.

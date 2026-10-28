@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, hi.' It is a simple phrase.
-- 'Hi, Max.' It is a simple phrase.
-- 'How are things at work?' It is a simple phrase.
-- 'Everything is as usual.' It is a simple phrase.
-- 'What a pleasant evening 0.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 1.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 2.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 3.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 4.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 5.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 6.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 7.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'Vika, hi.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'Vika' straight to 'hi'.
+- 'Hi, Max.' Notice the word order: 'hi' comes first, and 'Max' finishes the sentence.
+- 'How are things at work?' In Russian, 'how' leads into 'work' in a very natural everyday phrasing. Then Vika replies.
+- 'Everything is as usual.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'how' straight to 'usually'.
+- 'What a pleasant evening 0.' Notice the word order: 'nice' comes first, and 'zero' finishes the sentence.
+- 'What a pleasant evening 1.' Vika starts with 'nice' and pairs it with 'evening' to make the point clear.
+- 'What a pleasant evening 2.' Vika puts 'nice' up front so the listener immediately catches the tone, followed by 'evening'.
+- 'What a pleasant evening 3.' Listen for the word meaning 'nice' right alongside 'evening' in this line.
+- 'What a pleasant evening 4.' The question word for 'what a' comes right at the start, followed directly by 'four'.
+- 'What a pleasant evening 5.' The key word here means 'nice', which Vika combines with 'evening'.
+- 'What a pleasant evening 6.' The first content word means 'nice', and 'six' rounds out the thought.
+- 'What a pleasant evening 7.' A compact expression built around 'nice' and 'seven'.

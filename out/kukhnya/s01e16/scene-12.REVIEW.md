@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'In this world rats are enemies.' -- The speaker states this. ENG
-- 'Everyone hates them very much.' -- The speaker states this. ENG
-- 'And you also do not like rats.' -- The speaker states this. ENG
-- 'Mice are very similar to them.' -- The speaker states this. ENG
-- 'Yes, I do not like them.' -- The speaker states this. ENG
-- 'They are like cute mice.' -- The speaker states this. ENG
-- 'But everyone hates rats.' -- The speaker states this. ENG
-- 'Excuse me, they are calling me.' -- The speaker states this. ENG
-- 'Yes, I am listening to you.' -- The speaker states this. ENG
-- 'Where are they? In the fridge?' -- The speaker states this. ENG
-- 'Great, we are going now.' -- The speaker states this. ENG
-- 'Viktor Petrovich, let us go with me.' -- The speaker states this. ENG
+- 'In this world rats are enemies.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'that' straight to 'enemy'.
+- 'Everyone hates them very much.' You'll hear 'them' all the time in the show, here connected with 'hate'.
+- 'And you also do not like rats.' The first content word means 'you', and 'to love' rounds out the thought.
+- 'Mice are very similar to them.' You'll hear 'mouse' all the time in the show, here connected with 'them'. Chef Viktor answers straight away.
+- 'Yes, I do not like them.' The key word here means 'I', which Chef Viktor combines with 'them'.
+- 'They are like cute mice.' You'll hear 'they' all the time in the show, here connected with 'mouse'.
+- 'But everyone hates rats.' In Russian, 'rat' leads into 'hate' in a very natural everyday phrasing.
+- 'Excuse me, they are calling me.' the speaker starts with 'sorry' and pairs it with 'to me' to make the point clear.
+- 'Yes, I am listening to you.' The first content word means 'I', and 'I'm listening' rounds out the thought.
+- 'Where are they? In the fridge?' the speaker starts with 'where' and pairs it with 'they' to make the point clear.
+- 'Great, we are going now.' Here 'wonderful' sets up the idea, while 'are going' comes at the end for emphasis.
+- 'Viktor Petrovich, let us go with me.' You'll hear 'Viktor' all the time in the show, here connected with 'me'.

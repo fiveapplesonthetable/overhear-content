@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I do not need them anymore.' -- ENG He explains that he is letting go of the item.
-- 'Here, take it, old man.' -- ENG He officially hands over the family heirloom.
-- 'You need it more than I do.' -- ENG He assures the poor man that the gift is well-deserved.
-- 'You are a very kind person.' -- ENG The man sincerely expresses his deep gratitude.
+- 'I do not need them anymore.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'they' straight to 'needed'.
+- 'Here, take it, old man.' Notice the word order: 'hang in there' comes first, and 'old man' finishes the sentence.
+- 'You need it more than I do.' Max puts 'for you' up front so the listener immediately catches the tone, followed by 'more needed'.
+- 'You are a very kind person.' Listen for the word meaning 'you' right alongside 'very much' in this line.

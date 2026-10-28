@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I wanted to apologize.' -- The speaker states this. ENG
-- 'A lot of problems because of me.' -- The speaker states this. ENG
-- 'Drive me for an important matter.' -- The speaker states this. ENG
-- 'I will send the address.' -- The speaker states this. ENG
-- 'You lost the bet. Five thousand?' -- The speaker states this. ENG
-- 'What?' -- The speaker states this. ENG
-- 'We bet.' -- The speaker states this. ENG
-- 'If a person could eat a belt.' -- The speaker states this. ENG
-- 'Yes.' -- The speaker states this. ENG
-- 'You proved they could.' -- The speaker states this. ENG
-- 'Pay up.' -- The speaker states this. ENG
-- 'I will kill you.' -- The speaker states this. ENG
+- 'I wanted to apologize.' The first content word means 'I', and 'to apologise' rounds out the thought.
+- 'A lot of problems because of me.' Notice the word order: 'pile' comes first, and 'me' finishes the sentence.
+- 'Drive me for an important matter.' Notice the word order: 'take' comes first, and 'case' finishes the sentence.
+- 'I will send the address.' Listen for the word meaning 'I' right alongside 'will send' in this line.
+- 'You lost the bet. Five thousand?' In Russian, 'lose a bet' leads into 'thousand' in a very natural everyday phrasing. Senya answers straight away.
+- 'What?' Senya starts with 'what?' and pairs it with 'what?' to make the point clear.
+- 'We bet.' Fedya puts 'we' up front so the listener immediately catches the tone, followed by 'to argue'.
+- 'If a person could eat a belt.' Fedya starts with 'can' and pairs it with 'a man' to make the point clear. Then Senya replies.
+- 'Yes.' Senya puts 'yes' up front so the listener immediately catches the tone, followed by 'yes'.
+- 'You proved they could.' Listen for the word meaning 'you' right alongside 'to prove' in this line.
+- 'Pay up.' Here 'chase away' sets up the idea, while 'money' comes at the end for emphasis. And Senya jumps in.
+- 'I will kill you.' Senya uses the casual singular 'you' with 'I', as close colleagues and friends do.

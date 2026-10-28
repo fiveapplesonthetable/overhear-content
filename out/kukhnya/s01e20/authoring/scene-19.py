@@ -69,17 +69,17 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (5, None,
-     "'Am I interrupting? Viktor Petrovich, I know what happened.' -- ENG The new owner awkwardly approaches the table."),
+     "'Am I interrupting? Viktor Petrovich, I know what happened.' Listen for the word meaning 'to disturb' right alongside 'Viktor' in this line."),
     (8, None,
-     "'What are you talking about?' -- ENG The chef is completely confused by her pity."),
+     "'What are you talking about?' The key word here means 'you', which Chef Viktor combines with 'at all'."),
     (11, None,
-     "'Did you sell the restaurant?' -- ENG The chef finally realizes the terrible truth."),
+     "'Did you sell the restaurant?' The question word for 'what' comes right at the start, followed directly by 'restaurant'."),
     (13, None,
-     "'Dima, how could you? We fixed everything.' -- ENG He feels betrayed after working so hard to save the place."),
+     "'Dima, how could you? We fixed everything.' Notice the word order: 'Dima' comes first, and 'to fix' finishes the sentence."),
     (14, None,
-     "'Do not yell. Vit, it is business. Just business.' -- ENG The boss coldly defends his financial decision."),
+     "'Do not yell. Vit, it is business. Just business.' The key word here means 'to yell', which the speaker combines with 'Vitya'."),
     (15, None,
-     "'Trust me, it is better to sell while on the upswing.' -- ENG He explains his practical strategy for making maximum profit."),
+     "'Trust me, it is better to sell while on the upswing.' In Russian, 'believe' leads into 'rise' in a very natural everyday phrasing."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

@@ -29,12 +29,12 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Boss, Fedya has been fired.' -- ENG A cook reports the bad news about their colleague.
-- 'What do you think you are doing?' -- ENG The chef furiously questions the boss's authority.
-- 'I will not let you fire my people.' -- ENG The chef fiercely defends his kitchen team.
-- 'I am in charge here.' -- ENG The boss asserts his absolute power.
-- 'I have had enough.' -- ENG The chef finally reaches his breaking point.
-- 'You are all fired.' -- ENG The boss aggressively dismisses the entire kitchen staff.
-- 'I do not think so.' -- ENG Elena interrupts the boss's angry speech.
-- 'I am the owner.' -- ENG She calmly reveals her legal control over the business.
-- 'That cannot be.' -- ENG The boss refuses to believe the shocking truth.
+- 'Boss, Fedya has been fired.' Here 'to fire' uses the plural past-tense ending, which also serves for the polite 'you'.
+- 'What do you think you are doing?' In Russian, 'you' leads into 'to allow' in a very natural everyday phrasing.
+- 'I will not let you fire my people.' Here 'I' sets up the idea, while 'people' comes at the end for emphasis.
+- 'I am in charge here.' You'll hear 'here' all the time in the show, here connected with 'owner'.
+- 'I have had enough.' Listen for the word meaning 'me' right alongside 'enough' in this line.
+- 'You are all fired.' the speaker puts 'you' up front so the listener immediately catches the tone, followed by 'fired'.
+- 'I do not think so.' Elena puts 'I' up front so the listener immediately catches the tone, followed by 'I think'.
+- 'I am the owner.' In Russian, 'I' leads into 'owner' in a very natural everyday phrasing.
+- 'That cannot be.' The first content word means 'that', and 'be' rounds out the thought.

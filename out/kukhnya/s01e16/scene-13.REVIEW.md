@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'The inspector is here.' — Notice the noun meaning 'inspector' paired with the adverb for 'here'. ENG
-- 'I know.' — Notice the pronoun meaning 'I' paired with the verb for '(I) know'. ENG
-- 'He wants to check the kitchen.' — Notice the pronoun meaning 'he' paired with the verb for 'wants'. ENG
-- 'Let him check.' — Built around the key verb meaning 'is testing'. ENG
-- 'He is looking for illegals.' — Notice the pronoun meaning 'he' paired with the verb for 'looks for, seeks'. ENG
-- 'We do not have them.' — Notice the pronoun meaning 'us' paired with the pronoun for 'them'. ENG
-- 'Where is Fedya?' — Notice the adverb meaning 'where' paired with the proper name for 'Fedya'. ENG
-- 'He is in the fridge.' — Notice the pronoun meaning 'he' paired with the noun for 'fridge'. ENG
-- 'Excellent.' — Built around the key adverb meaning 'perfect, great'. ENG
-- 'Viktor Petrovich, would you be so kind.' — Notice the proper name meaning 'Viktor' paired with the proper name for 'Petrovich'. ENG
-- 'Open the fridge, please.' — Notice the verb meaning 'open' paired with the noun for 'fridge'. ENG
+- 'The inspector is here.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'inspector' straight to 'here'.
+- 'I know.' The first content word means 'I', and 'know' rounds out the thought. And Chef Viktor jumps in.
+- 'He wants to check the kitchen.' A compact expression built around 'he' and 'kitchen'.
+- 'Let him check.' In Russian, 'is testing' leads into 'is testing' in a very natural everyday phrasing.
+- 'He is looking for illegals.' Chef Viktor starts with 'he' and pairs it with 'looks for' to make the point clear. /  / answers straight away.
+- 'We do not have them.' /  / puts 'us' up front so the listener immediately catches the tone, followed by 'them'.
+- 'Where is Fedya?' Listen for the word meaning 'where' right alongside 'Fedya' in this line.
+- 'He is in the fridge.' In Russian, 'he' leads into 'fridge' in a very natural everyday phrasing. Then Chef Viktor replies.
+- 'Excellent.' You'll hear 'perfect' all the time in the show, here connected with 'perfect'.
+- 'Viktor Petrovich, would you be so kind.' Notice the word order: 'Viktor' comes first, and 'kind' finishes the sentence.
+- 'Open the fridge, please.' Listen for the word meaning 'open' right alongside 'fridge' in this line.
 - 'I am waiting.' -- The speaker states this. ENG

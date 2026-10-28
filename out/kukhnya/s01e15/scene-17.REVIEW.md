@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Привет, макс. | Hi, my friend. | #335 00:21:36: Привет. | adapted: adapted |
+| 1 | Аня | Привет, Макс. | Hi, Max. | #335 00:21:36: Привет. | adapted: adapted |
 | 2 | Вика | Привет. | Hi. | #335 00:21:36: Привет. | adapted: adapted |
 | 3 | Аня | Я хочу переехать к тебе. | I want to move to your place. | #336 00:21:38: Я хочу переехать к тебе. | adapted: adapted |
 | 4 | Вика | Тебе негде жить? | Do you have nowhere to live? | #337 00:21:40: Что, негде жить? | adapted: adapted |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hi, my friend.' — Notice the interjection meaning 'hi' paired with the proper name for 'Max'.
-- 'Hi.' — Built around the key interjection meaning 'hi'.
-- 'I want to move to your place.' — Notice the pronoun meaning 'I' paired with the verb for 'want'.
-- 'Do you have nowhere to live?' — Notice the pronoun meaning 'for you, to you' paired with the adverb for 'nowhere'.
-- 'No, I have a million options.' — Notice the pronoun meaning 'me' paired with the noun for 'a million'.
+- 'Hi, Max.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'hi' straight to 'Max'.
+- 'Hi.' In Russian, 'hi' leads into 'hi' in a very natural everyday phrasing.
+- 'I want to move to your place.' Here 'I' sets up the idea, while 'for you' comes at the end for emphasis. Then Vika replies.
+- 'Do you have nowhere to live?' Here 'for you' sets up the idea, while 'to live' comes at the end for emphasis.
+- 'No, I have a million options.' You'll hear 'me' all the time in the show, here connected with 'options'.
 - 'Kostya is calling me back.' — Notice the proper name meaning 'Kostya' paired with the verb for 'calls'.
 - 'Leva is also inviting me to live.' — Notice the proper name meaning 'Lyova' paired with the adverb for 'too'.
-- 'But I am ready to live with you.' — Notice the pronoun meaning 'I' paired with the adjective for 'ready'.
-- 'What do you want to say?' — Notice the pronoun meaning 'what' paired with the pronoun for 'you'.
-- 'I want to live with you.' — Notice the pronoun meaning 'I' paired with the verb for 'want'.
-- 'I do not want to be without you.' — Notice the pronoun meaning 'I' paired with the verb for 'want'.
-- 'That is very pleasant to hear.' — Notice the pronoun meaning 'this' paired with the adverb for 'very much'.
-- 'Really?' — Built around the key noun meaning 'honestly'.
-- 'Yes, I believe you.' — Notice the pronoun meaning 'I' paired with the pronoun for 'for you, to you'.
+- 'But I am ready to live with you.' In Russian, 'I' leads into 'you' in a very natural everyday phrasing.
+- 'What do you want to say?' Vika starts with 'what' and pairs it with 'you' to make the point clear. Max answers straight away.
+- 'I want to live with you.' A compact expression built around 'I' and 'you'.
+- 'I do not want to be without you.' Listen for the word meaning 'I' right alongside 'want' in this line.
+- 'That is very pleasant to hear.' In Russian, 'this' leads into 'to hear' in a very natural everyday phrasing. Then Max replies.
+- 'Really?' Notice the word order: 'honestly' comes first, and 'honestly' finishes the sentence.
+- 'Yes, I believe you.' Here 'I' sets up the idea, while 'believe' comes at the end for emphasis.

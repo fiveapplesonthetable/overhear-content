@@ -69,23 +69,23 @@ OPENER = "Let us break down this interaction."
 
 WALK = [
     (3, None,
-     "'Boss, Fedya has been fired.' -- ENG A cook reports the bad news about their colleague."),
+     "'Boss, Fedya has been fired.' Here 'to fire' uses the plural past-tense ending, which also serves for the polite 'you'."),
     (4, None,
-     "'What do you think you are doing?' -- ENG The chef furiously questions the boss's authority."),
+     "'What do you think you are doing?' In Russian, 'you' leads into 'to allow' in a very natural everyday phrasing."),
     (6, None,
-     "'I will not let you fire my people.' -- ENG The chef fiercely defends his kitchen team."),
+     "'I will not let you fire my people.' Here 'I' sets up the idea, while 'people' comes at the end for emphasis."),
     (7, None,
-     "'I am in charge here.' -- ENG The boss asserts his absolute power."),
+     "'I am in charge here.' You'll hear 'here' all the time in the show, here connected with 'owner'."),
     (9, None,
-     "'I have had enough.' -- ENG The chef finally reaches his breaking point."),
+     "'I have had enough.' Listen for the word meaning 'me' right alongside 'enough' in this line."),
     (10, None,
-     "'You are all fired.' -- ENG The boss aggressively dismisses the entire kitchen staff."),
+     "'You are all fired.' the speaker puts 'you' up front so the listener immediately catches the tone, followed by 'fired'."),
     (11, None,
-     "'I do not think so.' -- ENG Elena interrupts the boss's angry speech."),
+     "'I do not think so.' Elena puts 'I' up front so the listener immediately catches the tone, followed by 'I think'."),
     (13, None,
-     "'I am the owner.' -- ENG She calmly reveals her legal control over the business."),
+     "'I am the owner.' In Russian, 'I' leads into 'owner' in a very natural everyday phrasing."),
     (14, None,
-     "'That cannot be.' -- ENG The boss refuses to believe the shocking truth."),
+     "'That cannot be.' The first content word means 'that', and 'be' rounds out the thought."),
 ]
 
 TRANSITION = "Now let us listen to the conversation again without interruption."

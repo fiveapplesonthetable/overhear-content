@@ -92,7 +92,7 @@ WALK = [
   "'Well, we agree!' The word for 'agree' is a short adjective, here in the plural form for 'we'. Samson is "
   "horrified."),
  (5, "Что согласны? Нет!",
-  "'What do you mean, we agree? No!'"),
+  "'What do you mean, we agree? No!' The first content word means 'what do you mean', and 'agree' rounds out the thought."),
  (5, "Вы предлагаете человека пытать за эту квартиру?",
   "'Are you asking me to torture a man for this flat?' Literally 'you offer to torture a person for this flat?'. "
   "Nina tries to speak for him."),
@@ -119,7 +119,7 @@ WALK = [
   "'My grandfather was a partisan for three years!' Meaning his grandfather fought the occupiers in the war, "
   "so Samson refuses to act like a torturer. Nina rolls her eyes."),
  (13, "Кто тебя заставляет пытать, Самсон?",
-  "'Who is making you torture anyone, Samson?'"),
+  "'Who is making you torture anyone, Samson?' Nina uses the casual singular 'you' with 'who', as close colleagues and friends do."),
  (13, "Мы так его припугнём, и всё.",
   "'We'll just give him a scare, that's all.' The verb has a little prefix that means 'a bit': just scare him "
   "a little."),

@@ -75,7 +75,7 @@ WALK = [
     (3, "Arlette, par exemple.",
      "'Arlette, for example.' Gabriel thinks about their oldest colleague at the agency."),
     (3, "Qu'est-ce qu'on sait d'elle? Ou de Mathias?",
-     "'What do we know about her? Or about Mathias?'"),
+     "'What do we know about her? Or about Mathias?' Notice the word order: 'what is it' comes first, and 'Mathias' finishes the sentence."),
     (4, None,
      "'That's what the job is, Gabriel.' Literally 'it is that, the work'."),
     (5, "Et nous. Regarde-nous.",
@@ -101,7 +101,7 @@ WALK = [
     (12, "Il a oublié.",
      "'He forgot.' She means her father, Mathias."),
     (12, "C'est trop tard maintenant.",
-     "'It's too late now.'"),
+     "'It's too late now.' A compact expression built around 'it is' and 'now'."),
 ]
 
 TRANSITION = "Now let's hear the whole scene again from start to finish."

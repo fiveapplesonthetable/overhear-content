@@ -34,7 +34,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'The occupancy order is made out to Samsonov Ivan Vasilyevich.' Official Russian documents always put the surname first, then the first name and father's name.
 - 'Well, what do you say, my friends?' Literally 'what will you say'. Nina doesn't hesitate for a second.
 - 'Well, we agree!' The word for 'agree' is a short adjective, here in the plural form for 'we'. Samson is horrified.
-- 'What do you mean, we agree? No!'
+- 'What do you mean, we agree? No!' The first content word means 'what do you mean', and 'agree' rounds out the thought.
 - 'Are you asking me to torture a man for this flat?' Literally 'you offer to torture a person for this flat?'. Nina tries to speak for him.
 - 'He agrees, he agrees!' Notice how the ending changes: for 'we' it ended in '-y', and for 'he' it is the masculine singular form. Pasha puts on a hurt expression.
 - 'Why put it so roughly, Ivan? You just need to get the information.' Literally 'why so coarsely'. Samson is not fooled.
@@ -44,6 +44,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'All right, you two sort it out between yourselves here.' Literally 'come to an agreement between yourselves'. As soon as Pasha is gone, Samson puts his foot down.
 - 'I'm not going to torture anyone, got it?' Russian uses a double negative here: literally 'I nobody to torture will not'.
 - 'My grandfather was a partisan for three years!' Meaning his grandfather fought the occupiers in the war, so Samson refuses to act like a torturer. Nina rolls her eyes.
-- 'Who is making you torture anyone, Samson?'
+- 'Who is making you torture anyone, Samson?' Nina uses the casual singular 'you' with 'who', as close colleagues and friends do.
 - 'We'll just give him a scare, that's all.' The verb has a little prefix that means 'a bit': just scare him a little.
 - 'He's weak, after all—he'll tell us everything straight away!' And with that, Nina talks Samson into trying.

@@ -14,7 +14,7 @@ LABELS = {'lea': 'Arlette', 'veto': 'Vet'}
 INTRO = "At the veterinary clinic, the vet gently speaks with Arlette about her beloved dog's passing while Jean-Gabriel stays by her side. We will hear it in French first, so don't worry about catching every word."
 OPENER = "Let's go back through it. The vet explains the situation."
 TRANSITION = "Let's listen to the whole scene again."
-OUTRO = 'Arlette says her final goodbye to her dog.'
+OUTRO = 'And that's it for this scene. When you watch the episode, listen out for the exchange around the best death, and for the words meaning 'to be' and 'dead'. You'll catch them now. See you next time.'
 
 STORY = [
     ('veto', 'Il est mort dans son sommeil.', 'He died in his sleep.', [(393, "Gardez à l'esprit qu'il est mort dans son sommeil.")], ''),

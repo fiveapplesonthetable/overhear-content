@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'People often doubt.' — Notice the noun meaning 'people' paired with the adverb for 'often'.
-- 'In what?' — Notice the preposition meaning 'in' paired with the conjunction for 'than'.
-- 'In what they have.' — Notice the pronoun meaning 'that' paired with the pronoun for 'what'.
-- 'That is true.' — Notice the pronoun meaning 'this' paired with the noun for 'honestly'.
-- 'They do not know.' — Notice the pronoun meaning 'they' paired with the verb for '(they) know'.
-- 'What do they not know?' — Notice the pronoun meaning 'what?' paired with the verb for '(they) know'.
-- 'How dear is what there is.' — Notice the adverb meaning 'as far as' paired with the pronoun for 'to them'.
-- 'We know.' — Notice the pronoun meaning 'we' paired with the verb for '(we) know'.
-- 'Yes, we know.' — Notice the pronoun meaning 'we' paired with the verb for '(we) know'.
-- 'This is good.' — Notice the pronoun meaning 'this' paired with the adverb for 'good, fine'.
-- 'Very good.' — Notice the adverb meaning 'very much' paired with the adverb for 'good, fine'.
+- 'People often doubt.' The reflexive ending on the verb for 'to doubt' turns the action back onto the subject.
+- 'In what?' You'll hear 'in' all the time in the show, here connected with 'than'.
+- 'In what they have.' Here 'that' sets up the idea, while 'to have' comes at the end for emphasis. Vika answers straight away.
+- 'That is true.' You'll hear 'this' all the time in the show, here connected with 'honestly'.
+- 'They do not know.' The key word here means 'they', which Max combines with 'know'.
+- 'What do they not know?' Vika starts with 'what?' and pairs it with 'know' to make the point clear. Then Max replies.
+- 'How dear is what there is.' Max puts 'as far as' up front so the listener immediately catches the tone, followed by 'to them'.
+- 'We know.' You'll hear 'we' all the time in the show, here connected with 'know'.
+- 'Yes, we know.' Notice the word order: 'we' comes first, and 'know' finishes the sentence. And Vika jumps in.
+- 'This is good.' A compact expression built around 'this' and 'good'.
+- 'Very good.' Listen for the word meaning 'very much' right alongside 'good' in this line.
 - 'I agree.' — Notice the pronoun meaning 'I' paired with the adjective for 'agree'.

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'I didn't think it was so great here.' — Notice the pronoun meaning 'I' paired with the verb for 'thought'.
-- 'It is great everywhere when there is no Max.' — Notice the adverb meaning 'everywhere' paired with the noun for 'great, cool'.
-- 'Yes, it is very quiet today.' — Notice the adverb meaning 'today' paired with the adverb for 'very much'.
-- 'We need to work.' — Notice the pronoun meaning '(to) us' paired with the adverb for 'it is necessary'.
-- 'I am just resting.' — Notice the pronoun meaning 'I' paired with the adverb for 'just'.
+- 'I didn't think it was so great here.' The key word here means 'I', which Senya combines with 'thought'. Fedya answers straight away.
+- 'It is great everywhere when there is no Max.' Fedya puts 'everywhere' up front so the listener immediately catches the tone, followed by 'great'.
+- 'Yes, it is very quiet today.' Here 'today' sets up the idea, while 'easy' comes at the end for emphasis.
+- 'We need to work.' You'll hear 'us' all the time in the show, here connected with 'to work'. Then Senya replies.
+- 'I am just resting.' A compact expression built around 'I' and 'am resting'.
 - 'The chef can come.' — Notice the proper name meaning 'chef, boss' paired with the verb for 'can'.
 - 'The chef is busy now.' — Notice the proper name meaning 'chef, boss' paired with the adverb for 'now'.
-- 'Anyway, let's work.' — Notice the det meaning 'everything' paired with the adverb for 'the same'.
-- 'Good, I am coming.' — Notice the adverb meaning 'good, fine' paired with the pronoun for 'I'.
-- 'Where is my knife?' — Notice the adverb meaning 'where' paired with the det for 'my'.
-- 'It is on the table.' — Notice the pronoun meaning 'he' paired with the noun for 'table'.
-- 'Thank you, I see it.' — Notice the interjection meaning 'thank you' paired with the pronoun for 'I'.
+- 'Anyway, let's work.' Fedya puts 'the same' up front so the listener immediately catches the tone, followed by 'let's'.
+- 'Good, I am coming.' The key word here means 'good', which Senya combines with 'I'.
+- 'Where is my knife?' In Russian, 'where' leads into 'knife' in a very natural everyday phrasing. Senya answers straight away.
+- 'It is on the table.' Listen for the word meaning 'he' right alongside 'table' in this line.
+- 'Thank you, I see it.' Notice the word order: 'thank you' comes first, and 'see' finishes the sentence.

@@ -31,18 +31,18 @@ STORY = [
 
 OPENER = "Let's go through it line by line. Nagiyev closes his eyes in delight."
 WALK = [
- (0, None, "'This is divine.' It is a simple phrase."),
- (1, None, "'This is very tasty.' It is a simple phrase."),
- (2, None, "'I didn't expect this.' It is a simple phrase."),
- (3, None, "'You're lucky, little chef.' It is a simple phrase."),
- (4, None, "'Dmitry Vladimirovich.' It is a simple phrase."),
- (5, None, "'Well, we're all lucky.' It is a simple phrase."),
- (6, None, "'Our restaurant is the best.' It is a simple phrase."),
- (7, None, "'The guests are very pleased.' It is a simple phrase."),
- (8, None, "'We did it.' It is a simple phrase."),
- (9, None, "'Now we can rest.' It is a simple phrase."),
- (10, None, "'Excellent work, team.' It is a simple phrase."),
- (11, None, "'Bravo!' It is a simple phrase."),
+ (0, None, "'This is divine.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'this' straight to 'divinely'."),
+ (1, None, "'This is very tasty.' Notice the word order: 'this' comes first, and 'it's tasty' finishes the sentence."),
+ (2, None, "'I didn't expect this.' Here 'I' sets up the idea, while 'such' comes at the end for emphasis."),
+ (3, None, "'You're lucky, little chef.' You'll hear 'it was lucky' all the time in the show, here connected with 'little cook'."),
+ (4, None, "'Dmitry Vladimirovich.' The key word here means 'Dmitry', which Dmitry combines with 'Vladimirovich'."),
+ (5, None, "'Well, we're all lucky.' A compact expression built around 'to everyone' and 'it was lucky'."),
+ (6, None, "'Our restaurant is the best.' Dmitry puts 'restaurant' up front so the listener immediately catches the tone, followed by 'best'."),
+ (7, None, "'The guests are very pleased.' In Russian, 'visitors' leads into 'satisfied' in a very natural everyday phrasing."),
+ (8, None, "'We did it.' The first content word means 'we', and 'this' rounds out the thought."),
+ (9, None, "'Now we can rest.' The key word here means 'now', which Dmitry combines with 'may'."),
+ (10, None, "'Excellent work, team.' Listen for the word meaning 'excellent' right alongside 'job' in this line."),
+ (11, None, "'Bravo!' You'll hear 'bravo' all the time in the show, here connected with 'bravo'."),
 ]
 
 TRANSITION = "Now let's hear the whole scene once more, start to finish."

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'We got fired from the restaurant.' -- ENG The young chef laments their sudden unemployment.
-- 'At least we have somewhere to live.' -- ENG His friend tries to look on the bright side.
-- 'We fall and suffer from pain.' -- ENG Max talks about the repeated hardships of life.
-- 'And then we get up and walk further.' -- ENG Kostya encourages resilience in the face of adversity.
-- 'And it will continue like this forever?' -- ENG Max feels exhausted by the endless struggle.
-- 'Life is always full of difficult moments.' -- ENG The bartender accepts that challenges are inevitable.
-- 'Maybe it is time to look underfoot?' -- ENG Max suggests they should be more practical.
-- 'You are right, we need to be more careful.' -- ENG Kostya agrees that they must avoid future mistakes.
-- 'Tomorrow we will start looking for new work.' -- ENG The chef decides to take action the next day.
-- 'Everything will definitely work out for us.' -- ENG His friend remains optimistic about their chances.
-- 'The main thing is that we do not give up.' -- ENG They agree that perseverance is essential.
-- 'I believe in us.' -- ENG Kostya expresses confidence in their enduring friendship.
+- 'We got fired from the restaurant.' Here 'to fire' uses the plural past-tense ending, which also serves for the polite 'you'. And Kostya jumps in.
+- 'At least we have somewhere to live.' Notice the word order: 'extreme' comes first, and 'to live' finishes the sentence.
+- 'We fall and suffer from pain.' The key word here means 'we', which Max combines with 'to fall'.
+- 'And then we get up and walk further.' Here 'then' sets up the idea, while 'next' comes at the end for emphasis. Max answers straight away.
+- 'And it will continue like this forever?' The key word here means 'will be', which Max combines with 'to continue'.
+- 'Life is always full of difficult moments.' Kostya starts with 'life' and pairs it with 'always' to make the point clear.
+- 'Maybe it is time to look underfoot?' Max puts 'can' up front so the listener immediately catches the tone, followed by 'it's time'. Then Kostya replies.
+- 'You are right, we need to be more careful.' In Russian, 'you' leads into 'more carefully' in a very natural everyday phrasing.
+- 'Tomorrow we will start looking for new work.' A compact expression built around 'tomorrow' and 'job'.
+- 'Everything will definitely work out for us.' In Russian, 'us' leads into 'will come out' in a very natural everyday phrasing. And Max jumps in.
+- 'The main thing is that we do not give up.' The question word for 'what' comes right at the start, followed directly by 'surrender'.
+- 'I believe in us.' Kostya puts 'I' up front so the listener immediately catches the tone, followed by 'believe'.

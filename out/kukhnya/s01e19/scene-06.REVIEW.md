@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Victoria Sergeyevna, wait.' It is a simple phrase.
-- 'I'll never forgive myself.' It is a simple phrase.
-- 'If I don't ask you this right now.' It is a simple phrase.
-- 'Do you have a husband?' It is a simple phrase.
-- 'Or boyfriend?' It is a simple phrase.
-- 'I don't have a husband or a boyfriend.' It is a simple phrase.
-- 'In that case, I look forward to seeing you again.' It is a simple phrase.
-- 'What a pleasant evening 0.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 1.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 2.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 3.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
-- 'What a pleasant evening 4.' — Notice the det meaning 'what a, how' paired with the adjective for 'nice, pleasant'.
+- 'Victoria Sergeyevna, wait.' Notice the word order: 'Viktoriya' comes first, and 'wait' finishes the sentence.
+- 'I'll never forgive myself.' Notice the word order: 'I' comes first, and 'yourself' finishes the sentence.
+- 'If I don't ask you this right now.' Here 'will ask' sets up the idea, while 'now' comes at the end for emphasis.
+- 'Do you have a husband?' Notice the word order: 'you' comes first, and 'husband' finishes the sentence.
+- 'Or boyfriend?' the guest puts 'boyfriend' up front so the listener immediately catches the tone, followed by 'boyfriend'.
+- 'I don't have a husband or a boyfriend.' Vika starts with 'husband' and pairs it with 'boyfriend' to make the point clear.
+- 'In that case, I look forward to seeing you again.' the guest puts 'I' up front so the listener immediately catches the tone, followed by 'will be'. Vika answers straight away.
+- 'What a pleasant evening 0.' The key word here means 'nice', which Vika combines with 'evening'.
+- 'What a pleasant evening 1.' The first content word means 'nice', and 'one' rounds out the thought.
+- 'What a pleasant evening 2.' A compact expression built around 'nice' and 'two'.
+- 'What a pleasant evening 3.' Here 'nice' sets up the idea, while 'three' comes at the end for emphasis.
+- 'What a pleasant evening 4.' You'll hear 'nice' all the time in the show, here connected with 'four'.

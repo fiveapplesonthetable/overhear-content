@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Аня | Доброе утро, виктор. | Good morning, my friend. | #366 00:23:29: Доброе утро. Доброе, доброе. | adapted: adapted |
+| 1 | Аня | Доброе утро, Виктор. | Good morning, Viktor. | #366 00:23:29: Доброе утро. Доброе, доброе. | adapted: adapted |
 | 2 | Мама | Доброе утро. | Good morning. | #366 00:23:29: Доброе, доброе. | adapted: adapted |
 | 3 | Мама | Виктор приготовил такой омлет. | Victor prepared such an omelet. | #367 00:23:30: Виктор Петрович приготовил такой омлет. | adapted: adapted |
 | 4 | Лёва | Это типа извинения? | Is this a kind of apology? | #368 00:23:35: Это типа извинения? | adapted: adapted |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Good morning, my friend.' — Notice the adjective meaning 'good' paired with the noun for 'morning'.
-- 'Good morning.' — Notice the adjective meaning 'good' paired with the noun for 'morning'.
+- 'Good morning, Viktor.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'good' straight to 'Viktor'.
+- 'Good morning.' Notice the word order: 'good' comes first, and 'morning' finishes the sentence.
 - 'Victor prepared such an omelet.' — Notice the proper name meaning 'Viktor' paired with the verb for 'cooked'.
-- 'Is this a kind of apology?' — Notice the pronoun meaning 'this' paired with the noun for 'guy, fellow; type'.
-- 'This is a kind of omelet.' — Notice the pronoun meaning 'this' paired with the noun for 'guy, fellow; type'.
-- 'Come on, eat.' — Notice the verb meaning 'eat' paired with the verb for 'let's'.
-- 'I will be late for work.' — Notice the pronoun meaning 'I' paired with the verb for 'to be late'.
-- 'Yes, eat faster.' — Notice the verb meaning 'eat' paired with the adverb for 'faster'.
-- 'Alright, I will eat this.' — Notice the pronoun meaning 'I' paired with the verb for 'to eat up'.
-- 'This is very delicious.' — Notice the pronoun meaning 'this' paired with the adverb for 'very much'.
-- 'It is time for us to go.' — Notice the pronoun meaning '(to) us' paired with the adverb for 'it's time'.
-- 'Thank you for the breakfast.' — Notice the interjection meaning 'thank you' paired with the noun for 'breakfast'.
+- 'Is this a kind of apology?' The first content word means 'this', and 'apologies' rounds out the thought.
+- 'This is a kind of omelet.' The key word here means 'this', which Viktor combines with 'guy'.
+- 'Come on, eat.' In Russian, 'eat' leads into 'let's' in a very natural everyday phrasing.
+- 'I will be late for work.' Viktor starts with 'I' and pairs it with 'to be late' to make the point clear.
+- 'Yes, eat faster.' the speaker puts 'eat' up front so the listener immediately catches the tone, followed by 'faster'. And Lyova jumps in.
+- 'Alright, I will eat this.' The key word here means 'I', which Lyova combines with 'to eat up'.
+- 'This is very delicious.' A compact expression built around 'this' and 'it's tasty'.
+- 'It is time for us to go.' Listen for the word meaning 'us' right alongside 'it's time' in this line. Lyova answers straight away.
+- 'Thank you for the breakfast.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'thank you' straight to 'breakfast'.

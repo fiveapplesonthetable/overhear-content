@@ -79,7 +79,7 @@ OPENER = "Let's go through it slowly. In bed, Catherine tells Mathias about her 
 
 WALK = [
     (0, "J'ai déjeuné avec mon père aujourd'hui.",
-     "'I had lunch with my father today.'"),
+     "'I had lunch with my father today.' You'll hear 'I have' all the time in the show, here connected with 'today'."),
     (0, "Il s'inquiète pour toi.",
      "'He's worried about you.' A reflexive verb meaning 'to worry'."),
     (1, None,
@@ -87,7 +87,7 @@ WALK = [
     (2, None,
      "'You just turned down a golden opportunity at StarMédia.' The verb 'come from' plus an infinitive means 'just did something', and 'a chance in gold' means a golden opportunity."),
     (3, None,
-     "'To stay at ASK, where the situation is uncertain.'"),
+     "'To stay at ASK, where the situation is uncertain.' A compact expression built around 'to stay' and 'uncertain'. Then Mathias replies."),
     (4, None,
      "'But he wants to stick his nose in everywhere and tell me what to do!' Literally 'put his nose everywhere', the exact same image as in English."),
     (5, "C'est dommage. C'était une bonne nouvelle.",
@@ -97,7 +97,7 @@ WALK = [
     (6, None,
      "'What good news? What is it?' Mathias takes the bait immediately."),
     (7, None,
-     "'Especially since he wants to lend us money.'"),
+     "'Especially since he wants to lend us money.' Here 'especially' sets up the idea, while 'money' comes at the end for emphasis."),
     (8, None,
      "'Sorry, what?' Mathias sits up in surprise."),
     (9, None,
@@ -117,11 +117,11 @@ WALK = [
     (14, None,
      "'Do you know what I'd like? A writers-directors department.' Mathias's eyes light up at the thought of running the agency."),
     (15, None,
-     "'And an image-management department for the actors.'"),
+     "'And an image-management department for the actors.' Here 'department' sets up the idea, while 'actors' comes at the end for emphasis. Catherine answers straight away."),
     (16, None,
      "'And production!' Catherine adds enthusiastically, knowing that producing films is Mathias's dream."),
     (17, None,
-     "'Why not? Yes!'"),
+     "'Why not? Yes!' Notice the word order: 'why' comes first, and 'yes' finishes the sentence."),
 ]
 
 TRANSITION = "Now let's hear the whole scene again from start to finish."

@@ -151,7 +151,7 @@ WALK = [
     (8, "Тепло, тепло!",
      "'Getting warmer, warmer!' Arkady cheers."),
     (8, "А слепые — это террористы.",
-     "'And the blind are terrorists.'"),
+     "'And the blind are terrorists.' Notice the word order: 'the blind' comes first, and 'terrorists' finishes the sentence."),
     (9, "Слепые мучают собак!",
      "Ilona keeps escalating the joke: 'The blind are torturing dogs!'"),
     (9, "Слепые убили друга Самсонова!",

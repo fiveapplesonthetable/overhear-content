@@ -59,31 +59,31 @@ OPENER = "Now let us examine the conversation line by line."
 
 WALK = [
     (0, None,
-     "'Try the new version of the dish.' -- The speaker states this. ENG"),
+     "'Try the new version of the dish.' The first content word means 'to try', and 'of dish' rounds out the thought."),
     (1, None,
-     "'Chef, the exit through the hall is closed.' -- The speaker states this. ENG"),
+     "'Chef, the exit through the hall is closed.' Notice the word order: 'chef' comes first, and 'is closed' finishes the sentence. Chef Viktor answers straight away."),
     (2, None,
-     "'We exit one person at a time.' -- The speaker states this. ENG"),
+     "'We exit one person at a time.' In Russian, 'we' leads into 'person' in a very natural everyday phrasing."),
     (3, None,
-     "'Half goes through the hall.' -- The speaker states this. ENG"),
+     "'Half goes through the hall.' Chef Viktor starts with 'half' and pairs it with 'goes' to make the point clear."),
     (4, None,
-     "'What kind of idiots are you?' -- The speaker states this. ENG"),
+     "'What kind of idiots are you?' The key word here means 'what', which Chef Viktor combines with 'you'."),
     (5, None,
-     "'Quickly to my office.' -- The speaker states this. ENG"),
+     "'Quickly to my office.' Chef Viktor starts with 'quickly' and pairs it with 'to me' to make the point clear."),
     (6, None,
-     "'Good afternoon, Viktor Petrovich.' -- The speaker states this. ENG"),
+     "'Good afternoon, Viktor Petrovich.' the speaker puts 'good' up front so the listener immediately catches the tone, followed by 'day'."),
     (7, None,
-     "'I am a major of the migration service.' -- The speaker states this. ENG"),
+     "'I am a major of the migration service.' In Russian, 'I' leads into 'service' in a very natural everyday phrasing."),
     (8, None,
-     "'Can we go to the office?' -- The speaker states this. ENG"),
+     "'Can we go to the office?' The first content word means 'we', and 'office' rounds out the thought."),
     (9, None,
-     "'Unfortunately, I cannot.' -- The speaker states this. ENG"),
+     "'Unfortunately, I cannot.' A compact expression built around 'regret' and 'can'."),
     (10, None,
-     "'I need to cook for the guests.' -- The speaker states this. ENG"),
+     "'I need to cook for the guests.' Listen for the word meaning 'to me' right alongside 'necessary' in this line."),
     (11, None,
-     "'Alright, I will wait for you here.' -- The speaker states this. ENG"),
+     "'Alright, I will wait for you here.' the speaker uses the polite plural 'you' here alongside 'good', keeping a formal or respectful tone."),
 ]
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around escape through the hall, and for the words meaning 'to try' and 'new'. You'll catch them now. See you next time."
 CLOSING = ("dima", "Хорошо, я подожду вас здесь.")

@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Hey, my friend, hop in.' -- The speaker states this. ENG
-- 'Timur, what are you doing here?' -- The speaker states this. ENG
-- 'Elena told me to drive you.' -- The speaker states this. ENG
-- 'I hope you have a nice friend.' -- The speaker states this. ENG
-- 'Justice is giving someone their due.' -- The speaker states this. ENG
-- 'Cicero said so.' -- The speaker states this. ENG
-- 'But that's bullshit.' -- The speaker states this. ENG
-- 'Cicero didn't live now.' -- The speaker states this. ENG
-- 'People lie.' -- The speaker states this. ENG
-- 'Someone gets punished for someone else.' -- The speaker states this. ENG
-- 'Life is complicated.' -- The speaker states this. ENG
-- 'But there is justice in that.' -- The speaker states this. ENG
+- 'Hey, my friend, hop in.' The reflexive ending on the verb for 'to take a seat' turns the action back onto the subject.
+- 'Timur, what are you doing here?' Chef Viktor uses the casual singular 'you' with 'Timur', as close colleagues and friends do.
+- 'Elena told me to drive you.' In Russian, 'Yelena' leads into 'you' in a very natural everyday phrasing.
+- 'I hope you have a nice friend.' Timur uses the casual singular 'you' with 'hope so', as close colleagues and friends do.
+- 'Justice is giving someone their due.' The key word here means 'justice', which Max combines with 'this'.
+- 'Cicero said so.' Max starts with 'said' and pairs it with 'Cicero' to make the point clear.
+- 'But that's bullshit.' Max puts 'this' up front so the listener immediately catches the tone, followed by 'nonsense'.
+- 'Cicero didn't live now.' The first content word means 'Cicero', and 'now' rounds out the thought.
+- 'People lie.' You'll hear 'people' all the time in the show, here connected with 'cheat'.
+- 'Someone gets punished for someone else.' Notice the word order: 'someone' comes first, and 'other' finishes the sentence.
+- 'Life is complicated.' Listen for the word meaning 'life' right alongside 'complicated' in this line.
+- 'But there is justice in that.' The first content word means 'that', and 'justice' rounds out the thought.

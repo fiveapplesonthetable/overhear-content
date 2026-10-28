@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, I did it.' -- The speaker states this. ENG
-- 'What did you make?' -- The speaker states this. ENG
-- 'I made your pâté.' -- The speaker states this. ENG
-- 'My pâté?' -- The speaker states this. ENG
-- 'It came out exactly the same.' -- The speaker states this. ENG
-- 'I must taste it.' -- The speaker states this. ENG
-- 'Even a little better.' -- The speaker states this. ENG
-- 'No way!' -- The speaker states this. ENG
-- 'Yeah.' -- The speaker states this. ENG
-- 'This is impossible.' -- The speaker states this. ENG
-- 'I am a good cook.' -- The speaker states this. ENG
-- 'We will see.' -- The speaker states this. ENG
+- 'Chef, I did it.' The verb for 'did' is in the masculine past tense, marked by that 'l' sound at the end.
+- 'What did you make?' The verb for 'did' is in the masculine past tense, marked by that 'l' sound at the end.
+- 'I made your pâté.' Maks starts with 'I' and pairs it with 'did' to make the point clear. And Chef jumps in.
+- 'My pâté?' Chef puts 'pâté' up front so the listener immediately catches the tone, followed by 'pâté'.
+- 'It came out exactly the same.' The key word here means 'worked out', which Maks combines with 'one'.
+- 'I must taste it.' Chef puts 'I' up front so the listener immediately catches the tone, followed by 'has to'. Maks answers straight away.
+- 'Even a little better.' Maks puts 'a little bit' up front so the listener immediately catches the tone, followed by 'better'.
+- 'No way!' The first content word means 'yes', and 'all right' rounds out the thought.
+- 'Yeah.' You'll hear 'yes' all the time in the show, here connected with 'yes'. Then Chef replies.
+- 'This is impossible.' A compact expression built around 'this' and 'impossible'.
+- 'I am a good cook.' Listen for the word meaning 'I' right alongside 'good' in this line.
+- 'We will see.' The first content word means 'we', and 'have a look' rounds out the thought.

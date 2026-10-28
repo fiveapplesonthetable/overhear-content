@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'I spent so much of your time!' He pretends to feel guilty about the long evening.
 - 'Tell me, where are my X-ray pictures?' Suddenly he asks about the hospital files.
 - 'They stayed at the hospital!' Marina realizes they left the X-rays behind.
-- 'How could they stay there? One must urgently run back for them!'
+- 'How could they stay there? I must urgently run back for them!' Listen for the word meaning 'how' right alongside 'stayed' in this line.
 - 'Are you doing this on purpose?' Eduard suspects that Arkady is playing another trick.
 - 'Calm down, Edik! He cannot run anywhere!' Remember that Arkady is under house arrest with an ankle bracelet.
 - 'Oh come on, let me go myself!' Arkady lunges toward the stairs, tangling his plaster casts around Eduard.

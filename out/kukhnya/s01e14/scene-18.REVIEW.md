@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, let's work faster.' — Notice the noun meaning 'the boys, the lads' paired with the verb for 'let's (do it)'.
-- 'We still have three dishes.' — Notice the pronoun meaning 'us' paired with the adverb for 'more, still'.
-- 'We will do everything now.' — Notice the adverb meaning 'now' paired with the pronoun for 'we'.
-- 'Well, why are you standing?' — Notice the pronoun meaning 'what?' paired with the pronoun for 'you'.
+- 'Guys, let's work faster.' Lyova puts 'the boys' up front so the listener immediately catches the tone, followed by 'let's'.
+- 'We still have three dishes.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'us' straight to 'of dish'.
+- 'We will do everything now.' Here 'now' sets up the idea, while 'we'll do' comes at the end for emphasis.
+- 'Well, why are you standing?' Senya starts with 'what?' and pairs it with 'you' to make the point clear.
 - 'The chef said to work faster.' — Notice the proper name meaning 'chef, boss' paired with the verb for 'said'.
-- 'Well done, Leva.' — Notice the noun meaning 'well done, good boy' paired with the proper name for 'Lyova'.
-- 'You are a good chef.' — Notice the pronoun meaning 'you' paired with the adjective for 'good'.
-- 'Yes, well done.' — Built around the key noun meaning 'well done, good boy'.
-- 'Well, are we switching on Terminator mode?' — Notice the pronoun meaning 'what' paired with the pronoun for 'we'.
-- 'Yes, we are switching it on.' — Built around the key verb meaning 'we're switching on'.
-- 'Then faster to work.' — Notice the adverb meaning 'back then' paired with the adverb for 'faster'.
-- 'The terminator is ready to cook food.' — Notice the noun meaning 'Terminator' paired with the adjective for 'ready'.
-- 'Excellent, let's go faster.' — Notice the adverb meaning 'perfect, great' paired with the verb for 'let's (do it)'.
-- 'Everything will be ready on time.' — Notice the det meaning 'everything' paired with the verb for 'will be'.
+- 'Well done, Leva.' Senya starts with 'well done' and pairs it with 'Lyova' to make the point clear.
+- 'You are a good chef.' Senya uses the casual singular 'you' with 'you', as close colleagues and friends do. And Lyova jumps in.
+- 'Yes, well done.' In Russian, 'well done' leads into 'well done' in a very natural everyday phrasing.
+- 'Well, are we switching on Terminator mode?' The first content word means 'what', and 'Terminator' rounds out the thought.
+- 'Yes, we are switching it on.' Lyova starts with 'we're switching on' and pairs it with 'we're switching on' to make the point clear. Senya answers straight away.
+- 'Then faster to work.' Listen for the word meaning 'back then' right alongside 'faster' in this line.
+- 'The terminator is ready to cook food.' The key word here means 'Terminator', which Fedya combines with 'ready'.
+- 'Excellent, let's go faster.' Here 'perfect' sets up the idea, while 'faster' comes at the end for emphasis. Then Senya replies.
+- 'Everything will be ready on time.' You'll hear 'will be' all the time in the show, here connected with 'at the right time'.

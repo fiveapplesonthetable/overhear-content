@@ -26,14 +26,14 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 ## Walk-through narration (English only, no target-language words quoted)
 
 - 'Vika.' — Built around the key proper name meaning 'Vika'.
-- 'What?' — Built around the key pronoun meaning 'what'.
-- 'I thought about us.' — Notice the pronoun meaning 'I' paired with the verb for 'thought'.
-- 'And what?' — Built around the key pronoun meaning 'what'.
-- 'I do not want an open relationship.' — Notice the pronoun meaning 'I' paired with the verb for 'want'.
-- 'Really?' — Built around the key noun meaning 'honestly'.
-- 'Yes.' — Built around the key particle meaning 'yes (  = really?)'.
-- 'I also do not want it.' — Notice the pronoun meaning 'I' paired with the adverb for 'too'.
-- 'I like you.' — Notice the pronoun meaning 'you' paired with the pronoun for 'to me (  = I have no time)'.
-- 'I like you too.' — Notice the pronoun meaning 'you' paired with the pronoun for 'to me (  = I have no time)'.
-- 'Would you be my girlfriend?' — Notice the pronoun meaning 'you' paired with the verb for 'be'.
+- 'What?' Notice the word order: 'what' comes first, and 'what' finishes the sentence.
+- 'I thought about us.' Here 'I' sets up the idea, while 'us' comes at the end for emphasis.
+- 'And what?' Vika starts with 'what' and pairs it with 'what' to make the point clear. Then Max replies.
+- 'I do not want an open relationship.' The key word here means 'I', which Max combines with 'want'.
+- 'Really?' Vika starts with 'honestly' and pairs it with 'honestly' to make the point clear.
+- 'Yes.' The first content word means 'yes', and 'yes' rounds out the thought. And Vika jumps in.
+- 'I also do not want it.' In Russian, 'I' leads into 'want' in a very natural everyday phrasing.
+- 'I like you.' The first content word means 'you', and 'appeal to' rounds out the thought.
+- 'I like you too.' A compact expression built around 'you' and 'too'. Max answers straight away.
+- 'Would you be my girlfriend?' The key word here means 'you', which Max combines with 'be'.
 - 'Does...' — Built around the key pronoun meaning 'this'.

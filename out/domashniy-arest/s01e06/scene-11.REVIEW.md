@@ -31,25 +31,25 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Because Uncle Edik is coming to see Mum.' She means Dean Eduard Vladimirovich.
 - 'And we need to do some work.' Overhearing this, Arkady leans out of his room with a grin.
-- 'Why do you need to go anywhere?'
+- 'Why do you need to go anywhere?' Arkady starts with 'why' and pairs it with 'for you' to make the point clear.
 - 'Stay at home.' When Lyosha says Arkady doesn't have an academic degree like Uncle Edik, Arkady boasts.
-- 'Why, I'm a professor in this business!'
+- 'Why, I'm a professor in this business!' The key word here means 'I', which Arkady combines with 'professor'.
 - 'Not like your Uncle Edik.' Once Lyosha steps aside, Arkady tries to charm Marina.
 - 'Marina, I can be very gentle and affectionate.' Both adjectives are in the instrumental case after 'to be'.
 - 'Listen, just give me one more chance!' Marina cuts him off in the corridor and tells him to stop.
 - 'Right, don't ruin my wonderful mood.' Seeing he has no chance with Marina, Arkady switches to plan B.
 - 'Fine, then lend me at least some money.' In colloquial Russian, the verb 'borrow' is often used to mean 'lend' with a dative pronoun. He names his price.
-- 'Five thousand roubles.'
+- 'Five thousand roubles.' Listen for the word meaning 'five' right alongside 'thousand' in this line.
 - 'I'll invite a female friend over.' Marina ignores him and takes her son by the hand.
 - 'Let's go, Lyosha.' As she walks to the door, Arkady calls after her indignantly.
 - 'And I saved you from the debt collectors, by the way!' That parenthetical phrase literally means 'between other things'. Marina looks back from the door.
 - 'And I said thank you to you!' As the door shuts, old neighbour Klavdia Viktorovna shuffles up behind Arkady.
 - 'Arkasha, I can give you five thousand, after all.' Arkady blinks in surprise, and she adds her condition.
-- 'For that girlfriend of yours!'
+- 'For that girlfriend of yours!' the speaker starts with 'girlfriend' and pairs it with 'girlfriend' to make the point clear.
 - 'Only you'll have to work them off.' Literally 'to you it will fall to work them off'. Arkady beams.
-- 'Now that is unexpected!'
+- 'Now that is unexpected!' In Russian, 'this' leads into 'unexpected' in a very natural everyday phrasing.
 - 'You little berry of mine!' He bows gallantly to the old pensioner.
-- 'Why, I'm ready for anything!'
+- 'Why, I'm ready for anything!' A compact expression built around 'I' and 'ready'.
 - 'Give the orders.' Klavdia Viktorovna points down the corridor toward a mountain of washing.
-- 'We'll start with the laundry.'
-- 'Let's go.'
+- 'We'll start with the laundry.' The key word here means 'we'll start', which the speaker combines with 'laundry'.
+- 'Let's go.' Notice the word order: 'let's go' comes first, and 'let's go' finishes the sentence.

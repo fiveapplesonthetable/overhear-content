@@ -59,31 +59,31 @@ OPENER = "Now let us examine the conversation line by line."
 
 WALK = [
     (0, None,
-     "'Does this worry you too?' — Notice the pronoun meaning 'you' paired with the pronoun for 'this'."),
+     "'Does this worry you too?' Here 'you' sets up the idea, while 'to worry' comes at the end for emphasis."),
     (1, None,
-     "'What exactly?' — Built around the key pronoun meaning 'what'."),
+     "'What exactly?' You'll hear 'what' all the time in the show, here connected with 'what'."),
     (2, None,
-     "'For example, will Max come or not?' — Notice the adverb meaning 'for example' paired with the proper name for 'Max'."),
+     "'For example, will Max come or not?' Here 'for example' sets up the idea, while 'will come' comes at the end for emphasis. Senya answers straight away."),
     (3, None,
-     "'I think he will come.' — Notice the pronoun meaning 'I' paired with the verb for 'I think'."),
+     "'I think he will come.' Senya starts with 'I' and pairs it with 'I think' to make the point clear."),
     (4, None,
-     "'He loves our kitchen.' — Notice the pronoun meaning 'he' paired with the verb for 'loves'."),
+     "'He loves our kitchen.' Ilya puts 'he' up front so the listener immediately catches the tone, followed by 'loves'."),
     (5, None,
-     "'And he loves to work.' — Notice the pronoun meaning 'he' paired with the verb for 'loves'."),
+     "'And he loves to work.' The key word here means 'he', which Senya combines with 'loves'. Then Ilya replies."),
     (6, None,
-     "'And what about the chef?' — Notice the adverb meaning 'how' paired with the proper name for 'chef, boss'."),
+     "'And what about the chef?' Ilya puts 'how' up front so the listener immediately catches the tone, followed by 'chef'."),
     (7, None,
      "'The chef will forgive him.' — Notice the proper name meaning 'chef, boss' paired with the pronoun for 'him'."),
     (8, None,
-     "'They will make peace.' — Notice the pronoun meaning 'they' paired with the verb for 'to make up, to reconcile'."),
+     "'They will make peace.' The first content word means 'they', and 'to make up' rounds out the thought. And Senya jumps in."),
     (9, None,
-     "'Of course they will make peace.' — Notice the adverb meaning 'of course' paired with the verb for 'to make up, to reconcile'."),
+     "'Of course they will make peace.' A compact expression built around 'of course' and 'to make up'."),
     (10, None,
-     "'Then everything will be fine.' — Notice the adverb meaning 'back then' paired with the det for 'everything'."),
+     "'Then everything will be fine.' The first content word means 'back then', and 'good' rounds out the thought."),
     (11, None,
-     "'Yes, we are just waiting.' — Notice the adverb meaning 'just' paired with the verb for 'we wait'."),
+     "'Yes, we are just waiting.' A compact expression built around 'just' and 'we wait'."),
 ]
 
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around waiting for max, and for the words meaning 'to worry' and 'will come'. You'll catch them now. See you next time."
 CLOSING = ("leva", "Да, просто ждём.")

@@ -14,7 +14,7 @@ SOURCE_FILE = "sources/kukhnya/s02/e03.ru.dual.srt"
 INTRO = "In this scene focused on the price of a bet, the characters discuss their situation. -,   ,   -   , It's me again. First, I wanted to apologize for causing you so much trouble. Let's listen closely to Chef Viktor and Fedya's exchange in Russian first, and then walk through each line together."
 OPENER = "Now let us examine the conversation line by line."
 TRANSITION = "Now let us listen to the conversation once again."
-OUTRO = "The conversation concludes the matter at hand."
+OUTRO = "And that's it for this scene. When you watch the episode, listen out for the exchange around the price of a bet, and for the words meaning 'wanted' and 'to apologise'. You'll catch them now. See you next time."
 CLOSING = ('senya', 'Я тебя убью.')
 
 STORY = [
@@ -33,17 +33,17 @@ STORY = [
 ]
 
 WALK = [
-    (0, None, "'I wanted to apologize.' -- The speaker states this. ENG"),
-    (1, None, "'A lot of problems because of me.' -- The speaker states this. ENG"),
-    (2, None, "'Drive me for an important matter.' -- The speaker states this. ENG"),
-    (3, None, "'I will send the address.' -- The speaker states this. ENG"),
-    (4, None, "'You lost the bet. Five thousand?' -- The speaker states this. ENG"),
-    (5, None, "'What?' -- The speaker states this. ENG"),
-    (6, None, "'We bet.' -- The speaker states this. ENG"),
-    (7, None, "'If a person could eat a belt.' -- The speaker states this. ENG"),
-    (8, None, "'Yes.' -- The speaker states this. ENG"),
-    (9, None, "'You proved they could.' -- The speaker states this. ENG"),
-    (10, None, "'Pay up.' -- The speaker states this. ENG"),
-    (11, None, "'I will kill you.' -- The speaker states this. ENG"),
+    (0, None, "'I wanted to apologize.' The first content word means 'I', and 'to apologise' rounds out the thought."),
+    (1, None, "'A lot of problems because of me.' Notice the word order: 'pile' comes first, and 'me' finishes the sentence."),
+    (2, None, "'Drive me for an important matter.' Notice the word order: 'take' comes first, and 'case' finishes the sentence."),
+    (3, None, "'I will send the address.' Listen for the word meaning 'I' right alongside 'will send' in this line."),
+    (4, None, "'You lost the bet. Five thousand?' In Russian, 'lose a bet' leads into 'thousand' in a very natural everyday phrasing. Senya answers straight away."),
+    (5, None, "'What?' Senya starts with 'what?' and pairs it with 'what?' to make the point clear."),
+    (6, None, "'We bet.' Fedya puts 'we' up front so the listener immediately catches the tone, followed by 'to argue'."),
+    (7, None, "'If a person could eat a belt.' Fedya starts with 'can' and pairs it with 'a man' to make the point clear. Then Senya replies."),
+    (8, None, "'Yes.' Senya puts 'yes' up front so the listener immediately catches the tone, followed by 'yes'."),
+    (9, None, "'You proved they could.' Listen for the word meaning 'you' right alongside 'to prove' in this line."),
+    (10, None, "'Pay up.' Here 'chase away' sets up the idea, while 'money' comes at the end for emphasis. And Senya jumps in."),
+    (11, None, "'I will kill you.' Senya uses the casual singular 'you' with 'I', as close colleagues and friends do."),
 ]
 

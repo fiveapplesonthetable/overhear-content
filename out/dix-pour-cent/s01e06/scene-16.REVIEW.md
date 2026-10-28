@@ -38,11 +38,11 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Either you explain to me what happened, or...' Repeating the word for 'either' at the start of each clause means 'either... or...'.
 - 'It's hip-hop. I don't know how to dance.' In French, 'to know how to do something' is simply the verb 'know' followed by the infinitive.
 - 'Why didn't you tell me?' Literally 'why did you not tell it to me'.
-- 'I had told you that it was condition number one!'
-- 'But you came to offer me a hip-hop role!'
+- 'I had told you that it was condition number one!' You'll hear 'I' all the time in the show, here connected with 'one'.
+- 'But you came to offer me a hip-hop role!' Notice the word order: 'you' comes first, and 'hip-hop' finishes the sentence.
 - 'Because I'm black, I know how to dance hip-hop?' Sofia realizes Gabriel assumed she could dance hip-hop without even asking.
 - 'Excuse me? You're crossing the line!' Literally 'you pass beyond the boundary markers'.
-- 'And that doesn't explain why you hit her assistant!'
+- 'And that doesn't explain why you hit her assistant!' A compact expression built around 'that' and 'assistant'.
 - 'There are rules! The agency has a reputation! So do I!' Gabriel loses his temper and says people don't behave like a savage.
 - 'Are you calling me a savage?' Sofia is stunned by his word choice.
-- 'So I'm either a slave, or a hip-hop dancer, or a savage?'
+- 'So I'm either a slave, or a hip-hop dancer, or a savage?' Sofia puts 'so' up front so the listener immediately catches the tone, followed by 'I'.

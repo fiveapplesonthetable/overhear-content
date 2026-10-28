@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'You look completely bad.' -- The speaker states this. ENG
-- 'Does your stomach hurt?' -- The speaker states this. ENG
-- 'Yes, I feel very bad.' -- The speaker states this. ENG
-- 'I told you so.' -- The speaker states this. ENG
-- 'You should not have eaten the fish.' -- The speaker states this. ENG
-- 'I thought it was normal.' -- The speaker states this. ENG
-- 'Do you know what to do?' -- The speaker states this. ENG
-- 'You need to drink pepper and water.' -- The speaker states this. ENG
-- 'Oh, I can not take it anymore.' -- The speaker states this. ENG
-- 'Senya, what is wrong with you?' -- The speaker states this. ENG
-- 'Senya, open your eyes! Senya!' -- The speaker states this. ENG
-- 'Got it, let's move on.' -- The speaker wraps up the exchange in the kitchen.
+- 'You look completely bad.' Fedya uses the casual singular 'you' with 'you', as close colleagues and friends do.
+- 'Does your stomach hurt?' In Russian, 'you' leads into 'belly' in a very natural everyday phrasing. And Senya jumps in.
+- 'Yes, I feel very bad.' Here 'to me' sets up the idea, while 'badly' comes at the end for emphasis.
+- 'I told you so.' Notice the word order: 'I' comes first, and 'said' finishes the sentence.
+- 'You should not have eaten the fish.' The key word here means 'it is necessary', which Fedya combines with 'was'. Senya answers straight away.
+- 'I thought it was normal.' Senya starts with 'I' and pairs it with 'thought' to make the point clear.
+- 'Do you know what to do?' Fedya puts 'know' up front so the listener immediately catches the tone, followed by 'what'.
+- 'You need to drink pepper and water.' Here 'it is necessary' sets up the idea, while 'water' comes at the end for emphasis. Then Senya replies.
+- 'Oh, I can not take it anymore.' The first content word means 'oh', and 'can' rounds out the thought.
+- 'Senya, what is wrong with you?' Fedya puts 'Senya' up front so the listener immediately catches the tone, followed by 'what'.
+- 'Senya, open your eyes! Senya!' Listen for the word meaning 'Senya' right alongside 'to open' in this line.
+- 'Got it, let's move on.' The first content word means 'clear', and 'next' rounds out the thought.

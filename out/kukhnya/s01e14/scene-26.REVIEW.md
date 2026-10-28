@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Responsibility is a strange thing.' It is a simple phrase.
-- 'On the one hand, we are afraid of it.' It is a simple phrase.
-- 'And on the other hand...' It is a simple phrase.
-- 'It is what earns us respect.' It is a simple phrase.
-- 'And brings us closer together.' It is a simple phrase.
-- 'When we act irresponsibly...' It is a simple phrase.
-- 'We draw the right conclusions.' It is a simple phrase.
-- 'That's it, I won't drink at work anymore.' It is a simple phrase.
-- 'I've decided.' It is a simple phrase.
-- 'I definitely won't drink.' It is a simple phrase.
-- 'But we should celebrate that.' It is a simple phrase.
-- 'Pour!' It is a simple phrase.
+- 'Responsibility is a strange thing.' Russian leaves out 'am', 'is', or 'are' in the present tense, linking 'responsibility' straight to 'thing'.
+- 'On the one hand, we are afraid of it.' Notice the word order: 'one' comes first, and 'to be afraid' finishes the sentence.
+- 'And on the other hand...' Here 'other' sets up the idea, while 'side' comes at the end for emphasis.
+- 'It is what earns us respect.' A compact expression built around 'to her' and 'respect'.
+- 'And brings us closer together.' The key word here means 'to become', which Max combines with 'close'.
+- 'When we act irresponsibly...' Max starts with 'to commit' and pairs it with 'irresponsible' to make the point clear.
+- 'We draw the right conclusions.' Max puts 'we' up front so the listener immediately catches the tone, followed by 'are doing'.
+- 'That's it, I won't drink at work anymore.' In Russian, 'work' leads into 'to drink' in a very natural everyday phrasing.
+- 'I've decided.' The first content word means 'I', and 'has decided' rounds out the thought.
+- 'I definitely won't drink.' A compact expression built around 'definitely' and 'to drink'.
+- 'But we should celebrate that.' Notice the word order: 'this' comes first, and 'to celebrate' finishes the sentence.
+- 'Pour!' Viktor uses an urgent command built around the verb for 'to pour'.

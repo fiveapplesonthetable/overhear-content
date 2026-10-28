@@ -27,14 +27,14 @@ STORY = [
     ("lyova", "Это для вашего же блага.", "It's for your own good.", [], "")
 ]
 WALK = [
-    (0, None, "'Are you going to follow me around every day?' ENG: The verb literally means to drag oneself but is used colloquially to mean follow around."),
-    (3, None, "'You'll buy booze at every store.' ENG: The verb means to buy up or purchase in large quantities."),
-    (4, None, "'It's my duty to protect you from this.' ENG: The noun means duty, and the verb means to protect."),
-    (5, None, "'You'll thank me for it yourself later.' ENG: The pronoun means yourselves, and the verb means will say."),
-    (7, None, "'Lyova, I'm getting hammered anyway.' ENG: The verb is slang for getting completely drunk or hammered."),
-    (8, None, "'Just to spite you and your boss.' ENG: The first word means in order to spite or to spite."),
-    (9, None, "'It won't work.' ENG: The verb means will work out or will succeed, so with not it means the plan will fail."),
-    (10, None, "'Igor Valentinovich said they installed cameras at the restaurant.' ENG: The verb means installed."),
+    (0, None, "'Are you going to follow me around every day?' The reflexive ending on the verb for 'follow' turns the action back onto the subject."),
+    (3, None, "'You'll buy booze at every store.' Notice the word order: 'you' comes first, and 'shop' finishes the sentence."),
+    (4, None, "'It's my duty to protect you from this.' Here 'debt' sets up the idea, while 'that' comes at the end for emphasis."),
+    (5, None, "'You'll thank me for it yourself later.' In Russian, 'then' leads into 'will you say' in a very natural everyday phrasing."),
+    (7, None, "'Lyova, I'm getting hammered anyway.' The key word here means 'Lyova', which Chef Viktor combines with 'I'."),
+    (8, None, "'Just to spite you and your boss.' Chef Viktor puts 'in spite' up front so the listener immediately catches the tone, followed by 'for you'."),
+    (9, None, "'It won't work.' Listen for the word meaning 'will come out' right alongside 'will come out' in this line."),
+    (10, None, "'Igor Valentinovich said they installed cameras at the restaurant.' A compact expression built around 'Igor' and 'camera'."),
     (11, None, "'It's for your own good.' ENG: The noun means good or benefit, and the particle adds emphasis.")
 ]
 CLOSING = ("lyova", "Я спасу вас от этой зависимости.")

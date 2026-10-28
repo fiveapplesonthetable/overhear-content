@@ -33,7 +33,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Got it, got it.' Samson stays surprisingly calm after his reading lessons.
 - 'What's your problem?' Literally 'you what?'. From the bushes, Lavrov whispers that Lyova is doing great, though so far there is no effect.
 - 'Well, come on, hit me!' The imperative means 'strike me!' or 'hit me!'. Instead of swinging, Samson looks around suspiciously.
-- 'What, do you think Samsonov is a fool?' He talks about himself in the third person.
+- 'What, do you think Samsonov is a fool?' In Russian, 'you' leads into 'fool' in a very natural everyday phrasing.
 - 'Sonny, are you a provocateur from Osipenko?' He uses an affectionate diminutive for 'son' to mock the baby-faced lieutenant, and then spots the camera lens in the bushes.
 - 'Who is filming here?' The verb for 'to take off' also means 'to film' or 'to shoot video'.
 - 'Who is the cameraman?' Samson looks straight into the bushes.

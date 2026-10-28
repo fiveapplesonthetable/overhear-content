@@ -31,18 +31,18 @@ STORY = [
 
 OPENER = "Let's go through it line by line. Dmitry Nagiyev watches the singing guests."
 WALK = [
- (0, None, "'They're singing La Marseillaise.' It is a simple phrase."),
- (1, None, "'What a pleasant evening.' It is a simple phrase."),
- (2, None, "'Let's forgive Jacques.' It is a simple phrase."),
- (3, None, "'He seems to have had too much.' It is a simple phrase."),
- (4, None, "'Even before our dish.' It is a simple phrase."),
- (5, None, "'He is very tired today.' It is a simple phrase."),
- (6, None, "'Therefore he cannot eat.' It is a simple phrase."),
- (7, None, "'Well, then.' It is a simple phrase."),
- (8, None, "'Then I will be the taster.' It is a simple phrase."),
- (9, None, "'I will try it myself.' It is a simple phrase."),
- (10, None, "'I hope it's tasty.' It is a simple phrase."),
- (11, None, "'Let's see what the chef cooked.' It is a simple phrase."),
+ (0, None, "'They're singing La Marseillaise.' Dmitry starts with 'to perform' and pairs it with 'La Marseillaise' to make the point clear."),
+ (1, None, "'What a pleasant evening.' Dmitry puts 'nice' up front so the listener immediately catches the tone, followed by 'evening'."),
+ (2, None, "'Let's forgive Jacques.' The key word here means 'let's', which Dmitry combines with 'to excuse'."),
+ (3, None, "'He seems to have had too much.' The verb for 'got drunk' is in the masculine past tense, marked by that 'l' sound at the end."),
+ (4, None, "'Even before our dish.' The key word here means 'of dish', which Dmitry combines with 'of dish'."),
+ (5, None, "'He is very tired today.' Dmitry starts with 'he' and pairs it with 'very much' to make the point clear."),
+ (6, None, "'Therefore he cannot eat.' Dmitry puts 'that's why' up front so the listener immediately catches the tone, followed by 'he'."),
+ (7, None, "'Well, then.' Here 'what' sets up the idea, while 'what' comes at the end for emphasis."),
+ (8, None, "'Then I will be the taster.' A compact expression built around 'back then' and 'I'."),
+ (9, None, "'I will try it myself.' In Russian, 'I' leads into 'this' in a very natural everyday phrasing."),
+ (10, None, "'I hope it's tasty.' Listen for the word meaning 'hope so' right alongside 'this' in this line."),
+ (11, None, "'Let's see what the chef cooked.' Notice the word order: 'have a look' comes first, and 'chef' finishes the sentence."),
 ]
 
 TRANSITION = "Now let's hear the whole scene once more, start to finish."

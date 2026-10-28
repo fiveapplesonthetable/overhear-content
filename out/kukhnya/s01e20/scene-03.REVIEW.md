@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Nastya said that we are walking on a staircase.' -- ENG He recounts his girlfriend's bizarre speech.
-- 'And if we stop, then we will break.' -- ENG He repeats the dramatic conclusion of her metaphor.
-- 'I did not understand anything.' -- ENG He admits his complete confusion to his friend.
-- 'And what did you not understand?' -- ENG The chef thinks the meaning is incredibly obvious.
-- 'She is hinting at a wedding to you.' -- ENG He translates the romantic metaphor into plain language.
-- 'Come on, are you serious?' -- ENG The bartender is shocked by this massive revelation.
-- 'Pretend that you did not understand anything.' -- ENG Max advises him to play dumb to avoid commitment.
-- 'But I already did not understand anything.' -- ENG Kostya points out that he is genuinely clueless.
-- 'Well there, you will not even have to lie.' -- ENG The chef laughs at his friend's convenient ignorance.
-- 'What is there? What did she send?' -- ENG Kostya asks about the sudden notification on the phone.
-- 'She sent me a photo of a beautiful ring.' -- ENG Max shows the luxurious jewelry on his screen.
-- 'She is hinting at an expensive gift to me.' -- ENG He realizes his girlfriend expects a lavish present.
-- 'I need to work a year for it.' -- ENG He panics over the enormous price tag.
+- 'Nastya said that we are walking on a staircase.' In Russian, 'Nastya' leads into 'stairs' in a very natural everyday phrasing.
+- 'And if we stop, then we will break.' Here 'we' sets up the idea, while 'to crash' comes at the end for emphasis.
+- 'I did not understand anything.' You'll hear 'I' all the time in the show, here connected with 'understood?'.
+- 'And what did you not understand?' Max puts 'what' up front so the listener immediately catches the tone, followed by 'you'.
+- 'She is hinting at a wedding to you.' The key word here means 'it', which Max combines with 'for you'.
+- 'Come on, are you serious?' The first content word means 'you', and 'seriously' rounds out the thought.
+- 'Pretend that you did not understand anything.' Max starts with 'make' and pairs it with 'appearance' to make the point clear. Then Kostya replies.
+- 'But I already did not understand anything.' Kostya puts 'I' up front so the listener immediately catches the tone, followed by 'nothing'.
+- 'Well there, you will not even have to lie.' Max puts 'for you' up front so the listener immediately catches the tone, followed by 'to lie'.
+- 'What is there? What did she send?' Here 'what?' sets up the idea, while 'to send' comes at the end for emphasis. And Max jumps in.
+- 'She sent me a photo of a beautiful ring.' The key word here means 'it', which Max combines with 'to send'.
+- 'She is hinting at an expensive gift to me.' The first content word means 'it', and 'to hint' rounds out the thought.
+- 'I need to work a year for it.' Notice the word order: 'to me' comes first, and 'it is necessary' finishes the sentence.
