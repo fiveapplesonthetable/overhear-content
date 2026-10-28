@@ -1,0 +1,324 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://overhear.invalid/schema/notes.v1.json",
+  "title": "scene-NN.notes.json (annotations)",
+  "description": "out/<show>/sNNeNN/scene-NN.notes.json. See spec/annotations.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "id",
+    "lines",
+    "lexicon"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1,
+      "description": "Schema version of this file format. Bump only when the schema changes incompatibly."
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^(kukhnya|domashniy-arest|dix-pour-cent)-s\\d\\de\\d\\d-scene-\\d\\d$",
+      "description": "Same as the id of the scene script it annotates."
+    },
+    "lines": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "seg",
+          "trans",
+          "words"
+        ],
+        "properties": {
+          "seg": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "trans": {
+            "type": "string",
+            "minLength": 1
+          },
+          "words": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "t",
+                "lemma",
+                "pos",
+                "stress",
+                "gloss",
+                "gram"
+              ],
+              "properties": {
+                "t": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "lemma": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "pos": {
+                  "enum": [
+                    "noun",
+                    "verb",
+                    "adj",
+                    "adv",
+                    "pron",
+                    "prep",
+                    "conj",
+                    "part",
+                    "num",
+                    "interj",
+                    "det",
+                    "phrase",
+                    "name"
+                  ]
+                },
+                "stress": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "gloss": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "gram": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "lexicon": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/lex"
+      }
+    }
+  },
+  "$defs": {
+    "table": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "columns",
+        "rows"
+      ],
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "columns": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "string"
+          }
+        },
+        "rows": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "cells"
+            ],
+            "properties": {
+              "cells": {
+                "type": "array",
+                "minItems": 2,
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "lex": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "lemma",
+        "stress",
+        "pos",
+        "gloss",
+        "meanings",
+        "forms",
+        "moreForms",
+        "examples",
+        "related"
+      ],
+      "properties": {
+        "lemma": {
+          "type": "string",
+          "minLength": 1
+        },
+        "stress": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pos": {
+          "enum": [
+            "noun",
+            "verb",
+            "adj",
+            "adv",
+            "pron",
+            "prep",
+            "conj",
+            "part",
+            "num",
+            "interj",
+            "det",
+            "phrase",
+            "name"
+          ]
+        },
+        "gloss": {
+          "type": "string",
+          "minLength": 1
+        },
+        "aspect": {
+          "enum": [
+            "impf",
+            "pf"
+          ]
+        },
+        "pair": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "gender": {
+          "enum": [
+            "m",
+            "f",
+            "n"
+          ]
+        },
+        "plural": {
+          "type": "string",
+          "minLength": 1
+        },
+        "animacy": {
+          "enum": [
+            "anim",
+            "inan"
+          ]
+        },
+        "governs": {
+          "type": "string",
+          "minLength": 1
+        },
+        "register": {
+          "type": "string",
+          "minLength": 1
+        },
+        "meanings": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "en",
+              "note"
+            ],
+            "properties": {
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "note": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "forms": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/table"
+            }
+          ]
+        },
+        "moreForms": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/table"
+          }
+        },
+        "examples": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 3,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "text",
+              "trans"
+            ],
+            "properties": {
+              "text": {
+                "type": "string",
+                "minLength": 1
+              },
+              "trans": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "related": {
+          "type": "array",
+          "maxItems": 5,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "word",
+              "gloss"
+            ],
+            "properties": {
+              "word": {
+                "type": "string",
+                "minLength": 1
+              },
+              "gloss": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "number": {
+          "enum": [
+            "pl"
+          ],
+          "description": "Only for plural-only nouns (деньги, выборы, les vacances): \"pl\". Never put this in gender."
+        }
+      }
+    }
+  }
+}

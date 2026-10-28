@@ -63,3 +63,21 @@ Other words (adverbs, prepositions, particles, pronouns) have `forms: null`, `mo
 The validator checks table shape, that every used `lemma` has an entry, that ru nouns/adjs/verbs have `forms`, that
 `stress` carries the mark and that no stray U+0301 exists elsewhere. Linguistic correctness is on you: double check
 genders, aspect pairs and forms.
+
+## Schema and canonical form (v1)
+Machine-readable: `spec/schema/notes.schema.json`, enforced by `tools/validate.py`.
+- Top level has exactly `schemaVersion` (`1`), `id` (the id of the scene script it annotates), `lines`, `lexicon`.
+  Not `show`/`season`/`episode`/`scene`.
+- `lines[]` has exactly `seg`, `trans`, `words`. `words[]` has exactly `t`, `lemma`, `pos`, `stress`, `gloss`, `gram`
+  (`gram`, not `grammar`; no `note`). `stress` is always present: the marked form / IPA, or `null` only for names, for
+  Russian one-vowel words and words with `ё`, and never for a French word.
+- **Tokens**: `words[].t` are the segment text split on whitespace, one entry per token, in order. Do not merge
+  (`ce que`, `un peu`) and do not split elisions or hyphenated words (`J'ai`, `l'addition.`, `Qu'est-ce`,
+  `réponds-moi.` are one token each; lemma = the main word). A bare dash token (`—`) is skipped.
+- `lexicon{}` entries have the required fields `lemma, stress, pos, gloss, meanings, forms, moreForms, examples (2-3),
+  related`, and optionally `aspect` (`impf`|`pf` only), `pair`, `gender` (`m`|`f`|`n` only), `plural`, `animacy`
+  (`anim`|`inan`), `number` (`"pl"`, for plural-only nouns such as `деньги`, instead of any gender value), `governs`,
+  `register`. No other fields (`animate`, `transitivity`, `ipa`, `note` do not exist). `pos` is one of the 13 listed
+  values, never an IPA string. Russian lexicon `stress` carries the U+0301 mark on every word of 2+ vowels.
+- The same lemma has the same `pos`, `gender`, `aspect`, `pair` and `stress` in every scene's lexicon (a lemma is
+  looked up, not re-decided per scene). Keys are lowercase.

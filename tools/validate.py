@@ -9,8 +9,21 @@
 Exit 0 = clean, 1 = errors. Warnings (e.g. subtitle gaps) are printed but pass unless --strict.
 Checks: spec/*.md describes each rule.
 """
-import json, re, sys
+import hashlib, json, re, sys
 from pathlib import Path
+
+SCHEMA_DIR = Path(__file__).resolve().parents[1] / "spec" / "schema"
+SCHEMA_FILES = {"scenes": "scenes.schema.json", "script": "script.schema.json", "notes": "notes.schema.json"}
+LENIENT_VERSION = [False]   # --script mode: examples/ predate the schema (and cannot be edited), so schema errors only warn
+LEX_SEEN = {}               # lang -> field -> lemma -> {value: scene file}; judged by check_lexicon (one lemma, one entry shape)
+LEX_FIELDS = ("pos", "gender", "aspect", "pair", "stress")
+ART_SEEN = {}               # md5 of a scene's art -> scenes using it; judged by check_art (one picture per scene)
+CHAR_KEYS = {}              # show -> character label -> {role key: scene id}; judged by check_voices
+CHAR_VOICES = {}            # show -> character label -> {voice: scene id}; filled by check_script, judged by check_voices
+PLACEHOLDER_SUMMARY = ("The characters discuss their situation", "ENG ")
+FAREWELL = {"ru": re.compile(r"Пока|До свидания|До встречи|До завтра|До скорого|До скорой|Увидимся|Всего (хорошего|доброго)|Счастливо|Хорошего дня|Спокойной ночи|Прощайте|Удачи", re.I),
+            "fr": re.compile(r"À bientôt|Au revoir|À demain|À plus|À tout à l'heure|À la prochaine|Salut|Bonne (soirée|journée|nuit)|Bonsoir|Bon courage", re.I)}
+SCHEMA_ERR_CAP = 8          # per file; the rest is summarised ("and N more")
 
 ROOT = Path(__file__).resolve().parents[1]
 SHOWS = {"kukhnya": "ru", "domashniy-arest": "ru", "dix-pour-cent": "fr"}
@@ -24,6 +37,75 @@ POS = {"noun", "verb", "adj", "adv", "pron", "prep", "conj", "part", "num", "int
 MERGE = {None, "prev", "next"}
 GAP_WARN = 120.0          # seconds of uncovered subtitle time worth a warning
 ENG = set("the a an is are was to of and in it you i that this we he she they for on with as at be have not do".split())
+
+
+# ---------------------------------------------------------------- JSON Schema (small draft 2020-12 subset)
+# Supports exactly what spec/schema/*.json uses: $ref (#/$defs/x), anyOf, enum, const, type (name or list), properties,
+# required, additionalProperties (false or schema), propertyNames.pattern, minProperties, items, minItems, maxItems,
+# minLength, minimum, maximum, pattern. Other keywords (title, description, $id, $schema, $defs) are annotations.
+_TYPES = {"string": str, "boolean": bool, "null": type(None), "object": dict, "array": list}
+_SCHEMAS = {}
+
+
+def load_schema(kind):
+    if kind not in _SCHEMAS: _SCHEMAS[kind] = json.loads((SCHEMA_DIR / SCHEMA_FILES[kind]).read_text(encoding="utf-8"))
+    return _SCHEMAS[kind]
+
+
+def _is_type(v, t):
+    if t == "integer": return isinstance(v, int) and not isinstance(v, bool)
+    if t == "number": return isinstance(v, (int, float)) and not isinstance(v, bool)
+    return isinstance(v, _TYPES[t])
+
+
+def schema_errors(v, sch, root, path="$"):
+    """-> list of 'path: message' for the ways v does not match sch."""
+    if "$ref" in sch:
+        node = root
+        for part in sch["$ref"].lstrip("#/").split("/"): node = node[part]
+        return schema_errors(v, node, root, path)
+    out = []
+    if "anyOf" in sch and not any(not schema_errors(v, b, root, path) for b in sch["anyOf"]):
+        return [f"{path}: matches none of the allowed shapes"]
+    if "const" in sch and v != sch["const"]: out.append(f"{path}: must be {sch['const']!r}, is {v!r}")
+    if "enum" in sch and v not in sch["enum"]: out.append(f"{path}: {v!r} not one of {sch['enum']}")
+    if "type" in sch:
+        ts = sch["type"] if isinstance(sch["type"], list) else [sch["type"]]
+        if not any(_is_type(v, t) for t in ts): return out + [f"{path}: must be {'/'.join(ts)}, is {type(v).__name__}"]
+    if isinstance(v, str):
+        if len(v) < sch.get("minLength", 0): out.append(f"{path}: empty or too short")
+        if "pattern" in sch and not re.search(sch["pattern"], v): out.append(f"{path}: {v[:60]!r} does not match {sch['pattern']}")
+    if _is_type(v, "number"):
+        if "minimum" in sch and v < sch["minimum"]: out.append(f"{path}: {v} below {sch['minimum']}")
+        if "maximum" in sch and v > sch["maximum"]: out.append(f"{path}: {v} above {sch['maximum']}")
+    if isinstance(v, list):
+        if len(v) < sch.get("minItems", 0): out.append(f"{path}: needs at least {sch['minItems']} items, has {len(v)}")
+        if len(v) > sch.get("maxItems", 1 << 30): out.append(f"{path}: at most {sch['maxItems']} items, has {len(v)}")
+        if "items" in sch:
+            for i, x in enumerate(v): out += schema_errors(x, sch["items"], root, f"{path}[{i}]")
+    if isinstance(v, dict):
+        if len(v) < sch.get("minProperties", 0): out.append(f"{path}: needs at least {sch['minProperties']} keys")
+        for k in sch.get("required", []):
+            if k not in v: out.append(f"{path}: missing required field {k!r}")
+        props, extra = sch.get("properties", {}), sch.get("additionalProperties", True)
+        for k, x in v.items():
+            if "propertyNames" in sch and not re.search(sch["propertyNames"]["pattern"], k): out.append(f"{path}: key {k!r} has a bad form")
+            if k in props: out += schema_errors(x, props[k], root, f"{path}.{k}")
+            elif extra is False: out.append(f"{path}: unknown field {k!r} (not in the schema)")
+            elif isinstance(extra, dict): out += schema_errors(x, extra, root, f"{path}.{k}")
+    return out
+
+
+def check_schema(d, kind, where, rep):
+    """Validate parsed JSON d against spec/schema; errors (capped per file) go to rep. Returns True if clean."""
+    sch = load_schema(kind)
+    errs = schema_errors(d, sch, sch)
+    if LENIENT_VERSION[0]:      # --script mode (examples/): legacy files, schema differences are warnings only
+        for e in errs[:SCHEMA_ERR_CAP]: rep.warn(where, f"schema (legacy example): {e}")
+        return not errs
+    for e in errs[:SCHEMA_ERR_CAP]: rep.err(where, f"schema: {e}")
+    if len(errs) > SCHEMA_ERR_CAP: rep.err(where, f"schema: ... and {len(errs) - SCHEMA_ERR_CAP} more schema errors in this file")
+    return not errs
 
 
 class Report:
@@ -74,6 +156,7 @@ def check_script(path, lang, rep, expect_id=None):
     w = str(path)
     try: d = json.loads(Path(path).read_text(encoding="utf-8"))
     except Exception as e: return rep.err(w, f"not valid JSON: {e}")
+    check_schema(d, "script", w, rep)
     for k in ("id", "pair", "title", "level", "voices", "labels", "segments", "source"):
         if k not in d: rep.err(w, f"missing field {k!r}")
     if "segments" not in d or "voices" not in d: return None
@@ -84,11 +167,15 @@ def check_script(path, lang, rep, expect_id=None):
     if v.get("narrator") != want["narrator"]: rep.err(w, "voices.narrator must be 'sky'")
     roles = [r for r in v if r != "narrator"]
     prot = [r for r in want if r not in ("narrator", "_other")][0]
-    if prot not in v: rep.err(w, f"voices must include the protagonist role {prot!r}")
+    # (the protagonist slot `anya`/`lea` is no longer mandatory: a character keeps its own role key and voice, see FEEDBACK.md)
     for r in roles:
         if r == prot and v[r] != want[prot]: rep.err(w, f"role {prot!r} must use voice {want[prot]!r}")
         if r != prot and v[r] not in want["_other"]: rep.err(w, f"voice {v[r]!r} for role {r!r} must be one of {sorted(want['_other'])}")
     if len(set(v.values())) != len(v): rep.err(w, "each role needs its own voice")
+    for r, vc in v.items():
+        lab = d.get("labels", {}).get(r)
+        if r != "narrator" and lab: CHAR_KEYS.setdefault(re.sub(r"-s\d\de\d\d.*", "", str(d.get("id"))), {}).setdefault(lab, {}).setdefault(r, d.get("id"))
+        if r != "narrator" and lab: CHAR_VOICES.setdefault(re.sub(r"-s\d\de\d\d.*", "", str(d.get("id"))), {}).setdefault(lab, {}).setdefault(vc, d.get("id"))
     if len(roles) > 3: rep.err(w, "at most three speaking roles besides the narrator")
     for r in roles:
         if r not in d.get("labels", {}) and r != prot: rep.err(w, f"labels missing display name for role {r!r}")
@@ -101,6 +188,7 @@ def check_script(path, lang, rep, expect_id=None):
         if not isinstance(s["gap"], (int, float)) or not 0 <= s["gap"] <= 3: rep.err(sw, "gap must be 0..3 seconds")
         if ACUTE in s["t"]: rep.err(sw, "stress mark in text (stress belongs only in stress fields)")
         if s["v"] == "narrator":
+            if any(x in s["t"] for x in PLACEHOLDER_SUMMARY): rep.err(sw, f"placeholder text leaked into the narration: {s['t'][:60]!r}")
             if CYR.search(s["t"]): rep.err(sw, f"narrator must be English only: {s['t'][:50]!r}")
             elif len(s["t"].split()) > 6 and not (ENG & set(re.findall(r"[a-z]+", s["t"].lower()))):
                 rep.err(sw, f"narrator line does not look English: {s['t'][:50]!r}")
@@ -121,6 +209,8 @@ def check_script(path, lang, rep, expect_id=None):
         while k > 0 and segs[k]["v"] != "narrator": k -= 1       # closing line sits after the outro
         tail = [s["t"] for s in segs[:k] if s["v"] != "narrator"][-len(story):]
         if tail != story: rep.warn(w, "the whole story is not repeated unchanged before the outro (part 4)")
+        if not FAREWELL[lang].search(segs[-1]["t"]) or len(segs[-1]["t"].split()) > 6:
+            rep.err(w, f"last segment must be a short farewell (Пока! / До свидания! / À bientôt!), not a story line: {segs[-1]['t'][:50]!r}")
         if sum(1 for s in segs[j:k] if s["v"] == "narrator") < 3: rep.warn(w, "walk-through (part 3) looks missing")
     src = d.get("source", {})
     sf = ROOT / src.get("file", "")
@@ -166,6 +256,8 @@ def check_notes(path, script, lang, require, rep):
     w = str(path)
     try: n = json.loads(Path(path).read_text(encoding="utf-8"))
     except Exception as e: return rep.err(w, f"not valid JSON: {e}")
+    check_schema(n, "notes", w, rep)
+    if n.get("id") not in (None, script.get("id")): rep.err(w, f"id {n.get('id')!r} must equal the script id {script.get('id')!r}")
     no_acute_outside_stress(n, w, rep)
     segs, lex = script["segments"], n.get("lexicon", {})
     if not isinstance(n.get("lines"), list): return rep.err(w, "needs 'lines' list")
@@ -177,6 +269,9 @@ def check_notes(path, script, lang, require, rep):
         text = segs[i]["t"]
         if not str(e.get("trans", "")).strip() and segs[i]["v"] != "narrator": rep.err(lw, "missing trans (English translation)")
         pos = 0
+        toks = [x for x in text.split() if re.search(r"\w", x)]       # bare dashes ("—") need no entry
+        if segs[i]["v"] != "narrator" and [wd.get("t") for wd in e.get("words", [])] != toks:
+            rep.err(lw, f"words must be the line's whitespace-separated tokens, one entry each, none merged or split ({len(toks)} in text, {len(e.get('words', []))} annotated): {text[:40]!r}")
         for wd in e.get("words", []):
             t = wd.get("t", "")
             at = text.find(t, pos)
@@ -187,6 +282,9 @@ def check_notes(path, script, lang, require, rep):
             if wd.get("pos") and wd["pos"] not in POS: rep.err(lw, f"word {t!r}: pos {wd['pos']!r} not in {sorted(POS)}")
             if wd.get("lemma") and wd["lemma"].lower() not in lex and wd.get("pos") != "name":
                 rep.err(lw, f"lemma {wd['lemma']!r} has no entry in lexicon")
+            if wd.get("pos") != "name" and not wd.get("stress") and (
+                    lang == "fr" or (len(re.findall("[аеёиоуыэюя]", t.lower())) > 1 and "ё" not in t.lower())):
+                rep.err(lw, f"word {t!r} needs a stress value ({'IPA' if lang == 'fr' else 'U+0301 mark; null only for one-vowel words or ё'})")
             if lang == "ru" and wd.get("stress") and len(re.findall("[аеёиоуыэюя]", wd["stress"].lower())) > 1 and ACUTE not in wd["stress"] and "ё" not in wd["stress"]:
                 rep.err(lw, f"stress {wd['stress']!r} lacks the U+0301 mark")
     for lemma, L in lex.items():
@@ -195,6 +293,11 @@ def check_notes(path, script, lang, require, rep):
             if not L.get(f): rep.err(lw, f"missing {f}")
         if L.get("lemma") != lemma: rep.err(lw, "key must equal lemma")
         check_stress(lang, lemma, L.get("stress"), lw, rep)
+        if lemma != lemma.lower() and L.get("pos") != "name": rep.err(lw, "lexicon key/lemma must be lowercase")
+        if lang == "ru" and L.get("stress") and len(re.findall("[аеёиоуыэюя]", lemma)) > 1 and "ё" not in lemma and ACUTE not in L["stress"]:
+            rep.err(lw, f"stress {L['stress']!r} lacks the U+0301 mark")
+        for f in LEX_FIELDS:
+            LEX_SEEN.setdefault(lang, {}).setdefault(f, {}).setdefault(lemma, {}).setdefault(json.dumps(L.get(f), ensure_ascii=False), w)
         for t in [L.get("forms")] * bool(L.get("forms")) + list(L.get("moreForms") or []): table_ok(t, lw, rep)
         if L.get("pos") in ("noun", "adj", "verb") and not L.get("forms") and lang == "ru":
             rep.err(lw, "ru noun/adj/verb needs a forms table")
@@ -203,6 +306,62 @@ def check_notes(path, script, lang, require, rep):
     if require:
         for i, s in enumerate(segs):
             if s["v"] != "narrator" and i not in done: rep.err(w, f"target line {i} not annotated: {s['t'][:40]!r}")
+
+
+# ---------------------------------------------------------------- art and characters
+def webp_size(path):
+    """(width, height) of a lossy/lossless/extended WebP, or None if the file is not a readable WebP."""
+    b = Path(path).read_bytes()[:40]
+    if len(b) < 30 or b[:4] != b"RIFF" or b[8:12] != b"WEBP": return None
+    k = b[12:16]
+    if k == b"VP8 ": return (int.from_bytes(b[26:28], "little") & 0x3FFF, int.from_bytes(b[28:30], "little") & 0x3FFF)
+    if k == b"VP8L":
+        bits = int.from_bytes(b[21:25], "little")
+        return ((bits & 0x3FFF) + 1, ((bits >> 14) & 0x3FFF) + 1)
+    if k == b"VP8X": return (int.from_bytes(b[24:27], "little") + 1, int.from_bytes(b[27:30], "little") + 1)
+    return None
+
+
+KEY_EXEMPT = {"ru": {"anya"}, "fr": {"lea"}}     # the protagonist slot needs no entry of its own
+_KEYS = {}
+
+
+def characters_keys(showdir):
+    """Role keys written in backticks in <show>/characters.md (None if there is no such file)."""
+    f = Path(showdir) / "characters.md"
+    if not f.is_file(): return None
+    if f not in _KEYS: _KEYS[f] = set(re.findall(r"`([a-z][a-z0-9_]*)`", f.read_text(encoding="utf-8")))
+    return _KEYS[f]
+
+
+def check_art(rep):
+    """Every scene gets its own picture: byte-identical art in two scenes is an error."""
+    dup = [v for v in ART_SEEN.values() if len(v) > 1]
+    if dup: rep.errors.insert(0, f"art: {len(dup)} pictures are used by more than one scene ({sum(map(len, dup))} scenes); e.g. {' = '.join(dup[0])}")
+
+
+def check_lexicon(rep):
+    """The same lemma must carry the same pos/gender/aspect/pair/stress in every scene's lexicon."""
+    for lang, fields in sorted(LEX_SEEN.items()):
+        for f, lemmas in fields.items():
+            bad = {k: v for k, v in lemmas.items() if len(v) > 1}
+            if bad:
+                ex = "; ".join(f"{k}: {' vs '.join(vals)}" for k, vals in sorted(bad.items())[:4])
+                rep.errors.insert(0, f"lexicon ({lang}): {len(bad)} lemmas have conflicting {f} across scenes; e.g. {ex}")
+
+
+def check_voices(rep):
+    """One voice and one role key per character per show: the same label may not use two voices or two role keys."""
+    for show, labs in sorted(CHAR_KEYS.items()):
+        bad = {lab: ks for lab, ks in labs.items() if len(ks) > 1}
+        if bad:
+            ex = "; ".join(f"{lab}: {', '.join(f'`{k}` ({sid})' for k, sid in sorted(ks.items()))}" for lab, ks in sorted(bad.items())[:5])
+            rep.errors.insert(0, f"{show}: {len(bad)} characters appear under more than one role key (one character = one key); e.g. {ex}")
+    for show, labs in sorted(CHAR_VOICES.items()):
+        bad = {lab: vs for lab, vs in labs.items() if len(vs) > 1}
+        if bad:
+            ex = "; ".join(f"{lab}: {', '.join(f'{vc} ({sid})' for vc, sid in sorted(vs.items()))}" for lab, vs in sorted(bad.items())[:5])
+            rep.errors.insert(0, f"{show}: {len(bad)} characters are read by more than one voice (a character keeps one voice for the whole show); e.g. {ex}")
 
 
 # ---------------------------------------------------------------- episode
@@ -216,9 +375,11 @@ def check_scenes(epdir, show, rep):
     except Exception as e: return rep.err(w, f"missing or invalid scenes.json: {e}")
     if sc.get("show") != show or sc.get("season") != int(sn) or sc.get("episode") != int(en):
         rep.err(w, "show/season/episode do not match the folder")
+    check_schema(sc, "scenes", w, rep)
     scenes = sc.get("scenes")
     if not scenes: return rep.err(w, "no scenes")
     srt = ROOT / "sources" / show / f"s{sn}" / f"e{en}.{lang}.dual.srt"
+    if not srt.is_file(): srt = srt.with_name(f"e{en}.{lang}.srt")      # Russian-only Whisper transcript (no English)
     cue = parse_srt(srt) if srt.is_file() else {}
     if not cue: rep.err(w, f"source subtitles missing: {srt.relative_to(ROOT)}")
     prev_end = None
@@ -236,6 +397,7 @@ def check_scenes(epdir, show, rep):
         if prev_end is not None and a < prev_end - 0.001: rep.err(sw, "overlaps the previous scene")
         prev_end = b
         s["_t"] = (a, b)
+        if str(s.get("summary", "")).startswith(PLACEHOLDER_SUMMARY): rep.err(sw, f"placeholder summary, write what happens: {s['summary'][:50]!r}")
         if s.get("merge") is None:
             n = f"{k:02d}"
             sp = epdir / f"scene-{n}.json"
@@ -243,11 +405,21 @@ def check_scenes(epdir, show, rep):
             else:
                 d = check_script(sp, lang, rep, expect_id=f"{show}-s{sn}e{en}-scene-{n}")
                 if d is not None:
+                    keys = characters_keys(epdir.parent)
+                    for r in d["voices"]:
+                        if r != "narrator" and keys is not None and r not in keys and r not in KEY_EXEMPT[lang]:
+                            rep.err(sw, f"role key `{r}` is not in {show}/characters.md (add a line \"Story role key / voice: `{r}` -> voice\")")
+                    out = [ln.get("cue") for ln in d["source"].get("lines", []) if ln.get("cue") in cue and not a - 2 <= cue[ln["cue"]][0] <= b + 2]
+                    if out: rep.err(sw, f"{len(out)} source cues lie outside this scene's time range {s['start']}-{s['end']} (first: cue {out[0]}); tie lines only to cues of the scene")
                     notes = epdir / f"scene-{n}.notes.json"
                     if notes.is_file(): check_notes(notes, d, lang, REQ[0], rep)
                     elif REQ[0]: rep.err(sw, f"missing scene-{n}.notes.json")
             if not any((epdir / f"scene-{n}.{x}").is_file() for x in ("webp", "png")):
                 rep.err(sw, f"missing art scene-{n}.webp (or .png)")
+            elif (epdir / f"scene-{n}.webp").is_file():
+                size = webp_size(epdir / f"scene-{n}.webp")
+                if size != (1024, 1024): rep.err(sw, f"scene-{n}.webp must be a 1024x1024 webp, is {size}")
+                ART_SEEN.setdefault(hashlib.md5((epdir / f"scene-{n}.webp").read_bytes()).hexdigest(), []).append(f"{show}/{epdir.name}/scene-{n}")
     # coverage: every cue must sit inside some scene; report long uncovered stretches
     if cue:
         spans = [s["_t"] for s in scenes if "_t" in s]
@@ -267,11 +439,14 @@ def check_scenes(epdir, show, rep):
 
 
 REQ = [False]
+LIST_CAP = 150          # errors listed in full; beyond that a tally by kind
 
 
 def main(argv):
     REQ[0] = "--require-notes" in argv
+    CHAR_VOICES.clear(); CHAR_KEYS.clear(); LEX_SEEN.clear(); ART_SEEN.clear()
     strict = "--strict" in argv
+    LENIENT_VERSION[0] = "--script" in argv
     args = [a for a in argv if not a.startswith("--")]
     rep = Report()
     if "--script" in argv:
@@ -286,8 +461,19 @@ def main(argv):
             show = ep.parent.name
             if show not in SHOWS: rep.err(str(ep), f"show folder must be one of {sorted(SHOWS)}"); continue
             check_scenes(ep, show, rep)
-    for x in rep.warnings: print("WARN ", x)
-    for x in rep.errors: print("ERROR", x)
+    check_voices(rep)
+    check_lexicon(rep)
+    check_art(rep)
+    for x in rep.warnings[:LIST_CAP]: print("WARN ", x)
+    if len(rep.warnings) > LIST_CAP: print(f"... {len(rep.warnings) - LIST_CAP} more warnings")
+    for x in rep.errors[:LIST_CAP]: print("ERROR", x)
+    if len(rep.errors) > LIST_CAP:
+        tally = {}
+        for x in rep.errors:
+            k = re.sub(r"\d+", "N", x.split(": ", 1)[-1])[:60]
+            tally[k] = tally.get(k, 0) + 1
+        print(f"... {len(rep.errors) - LIST_CAP} more errors; by kind:")
+        for k, n in sorted(tally.items(), key=lambda kv: -kv[1])[:20]: print(f"  {n:6d}  {k}")
     bad = rep.errors or (strict and rep.warnings)
     print(f"{'FAIL' if bad else 'OK'}: {len(rep.errors)} errors, {len(rep.warnings)} warnings")
     return 1 if bad else 0

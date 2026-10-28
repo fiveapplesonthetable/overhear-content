@@ -1,20 +1,20 @@
 # Subtitle sources: coverage
 
-`sources/<show>/sNN/eNN.<lang>.dual.srt`: each cue = original line + English line. Episode titles are not carried by the sidecars;
-if you learn an official title, put it in `scenes.json` `title`.
+`sources/<show>/sNN/eNN.<lang>.dual.srt`: each cue = original line + English line (`dual`).
+`sources/<show>/sNN/eNN.ru.srt`: Russian only, a Whisper transcript with no English (`ru-only`): translate it yourself and
+note possible recognition errors in `out/<show>/NOTES.md`. Where both exist, use the dual file.
+Episode titles are not carried by the sidecars; if you learn an official title, put it in `scenes.json` `title`.
 
 ## Кухня (Kukhnya)  (`kukhnya`, ru)
-
-S2 e04 to S6 e20 are also here as `eNN.ru.srt`: Russian only, Whisper transcripts, English to follow (see README priority 5). The table below counts dual files only.
 
 | season | present | missing | episodes (cues, length) |
 |---|---|---|---|
 | S1 | 20/20 | none | e01 (370, 00:24:56); e02 (339, 00:24:10); e03 (354, 00:23:51); e04 (331, 00:23:34); e05 (322, 00:23:53); e06 (313, 00:23:43); e07 (356, 00:24:00); e08 (385, 00:23:29); e09 (358, 00:23:22); e10 (345, 00:24:07); e11 (351, 00:23:33); e12 (290, 00:23:00); e13 (316, 00:24:06); e14 (375, 00:24:07); e15 (373, 00:24:02); e16 (347, 00:24:12); e17 (336, 00:23:51); e18 (380, 00:23:59); e19 (383, 00:24:06); e20 (339, 00:23:42) |
-| S2 | 3/? | season total unknown; rest not on put.io | e01 (316, 00:23:06); e02 (345, 00:23:37); e03 (365, 00:23:58) |
-| S3 | 0/? | season total unknown; rest not on put.io | - |
-| S4 | 0/? | season total unknown; rest not on put.io | - |
-| S5 | 0/? | season total unknown; rest not on put.io | - |
-| S6 | 0/? | season total unknown; rest not on put.io | - |
+| S2 | 20/20 | none | e01 (316, 00:23:06); e02 (345, 00:23:37); e03 (365, 00:23:58); e04 (346, 00:23:57, ru-only); e05 (337, 00:24:08, ru-only); e06 (364, 00:23:53, ru-only); e07 (337, 00:23:14, ru-only); e08 (390, 00:24:07, ru-only); e09 (332, 00:24:07, ru-only); e10 (326, 00:24:03, ru-only); e11 (317, 00:24:08, ru-only); e12 (379, 00:23:48, ru-only); e13 (332, 00:22:42, ru-only); e14 (365, 00:23:05, ru-only); e15 (399, 00:23:50, ru-only); e16 (345, 00:22:54, ru-only); e17 (313, 00:23:53, ru-only); e18 (390, 00:24:02, ru-only); e19 (386, 00:24:19, ru-only); e20 (344, 00:24:40, ru-only) |
+| S3 | 20/20 | none | e01 (371, 00:26:47, ru-only); e02 (290, 00:23:54, ru-only); e03 (346, 00:23:26, ru-only); e04 (303, 00:24:07, ru-only); e05 (309, 00:24:08, ru-only); e06 (340, 00:24:00, ru-only); e07 (309, 00:23:16, ru-only); e08 (366, 00:23:50, ru-only); e09 (322, 00:23:59, ru-only); e10 (345, 00:23:41, ru-only); e11 (342, 00:23:19, ru-only); e12 (324, 00:23:56, ru-only); e13 (321, 00:24:08, ru-only); e14 (359, 00:23:33, ru-only); e15 (335, 00:24:03, ru-only); e16 (372, 00:24:06, ru-only); e17 (299, 00:23:09, ru-only); e18 (318, 00:22:58, ru-only); e19 (367, 00:24:02, ru-only); e20 (361, 00:26:01, ru-only) |
+| S4 | 20/20 | none | e01 (304, 00:26:10, ru-only); e02 (294, 00:23:49, ru-only); e03 (318, 00:24:07, ru-only); e04 (286, 00:24:00, ru-only); e05 (368, 00:24:04, ru-only); e06 (312, 00:23:34, ru-only); e07 (306, 00:23:59, ru-only); e08 (370, 00:23:31, ru-only); e09 (335, 00:24:04, ru-only); e10 (247, 00:23:10, ru-only); e11 (335, 00:24:07, ru-only); e12 (355, 00:23:43, ru-only); e13 (310, 00:23:36, ru-only); e14 (329, 00:23:37, ru-only); e15 (326, 00:23:37, ru-only); e16 (306, 00:23:59, ru-only); e17 (341, 00:23:53, ru-only); e18 (257, 00:24:03, ru-only); e19 (323, 00:24:05, ru-only); e20 (336, 00:26:38, ru-only) |
+| S5 | 20/20 | none | e01 (320, 00:25:50, ru-only); e02 (245, 00:23:32, ru-only); e03 (368, 00:25:16, ru-only); e04 (305, 00:23:29, ru-only); e05 (360, 00:23:50, ru-only); e06 (339, 00:23:58, ru-only); e07 (330, 00:24:17, ru-only); e08 (219, 00:23:28, ru-only); e09 (297, 00:23:48, ru-only); e10 (301, 00:23:06, ru-only); e11 (332, 00:24:09, ru-only); e12 (307, 00:23:53, ru-only); e13 (280, 00:24:19, ru-only); e14 (369, 00:23:41, ru-only); e15 (368, 00:24:22, ru-only); e16 (331, 00:24:09, ru-only); e17 (383, 00:23:46, ru-only); e18 (303, 00:23:41, ru-only); e19 (342, 00:24:10, ru-only); e20 (316, 00:26:31, ru-only) |
+| S6 | 20/20 | none | e01 (363, 00:25:48, ru-only); e02 (359, 00:24:48, ru-only); e03 (366, 00:24:03, ru-only); e04 (327, 00:23:59, ru-only); e05 (321, 00:23:12, ru-only); e06 (330, 00:22:41, ru-only); e07 (352, 00:23:50, ru-only); e08 (346, 00:23:28, ru-only); e09 (342, 00:24:04, ru-only); e10 (336, 00:23:58, ru-only); e11 (347, 00:23:32, ru-only); e12 (338, 00:23:59, ru-only); e13 (301, 00:23:45, ru-only); e14 (281, 00:22:58, ru-only); e15 (358, 00:23:55, ru-only); e16 (317, 00:24:07, ru-only); e17 (334, 00:22:49, ru-only); e18 (368, 00:23:41, ru-only); e19 (333, 00:25:34, ru-only); e20 (315, 00:26:04, ru-only) |
 
 ## Домашний арест (Domashniy Arest)  (`domashniy-arest`, ru)
 
