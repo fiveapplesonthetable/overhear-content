@@ -13,12 +13,12 @@ SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
 INTRO = "Fedya has noticed what Senya is doing, and he is not sure it's a good idea. Senya has an answer for everything. Listen for the names and the numbers."
 OPENER = "Now we'll pick it apart."
 TRANSITION = 'The full thing, one more time.'
-OUTRO = "The colour is starting to change, and both cooks are impressed. The risk is with the chef, who doesn't know. Until the next one."
+OUTRO = "The colour is starting to change, and both cooks are impressed. The only risk now is that a guest will notice. Until the next one."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('fedya', 'Сеня, ты уверен в этой идее?', 'Senya, are you sure about this idea?', [], ''),
     ('senya', 'Конечно, это гениальный план!', 'Of course, this is a brilliant plan!', [], ''),
-    ('fedya', 'Она же совсем жёлтая, как песок.', 'It is completely yellow, like sand.', [], ''),
+    ('fedya', 'Икра же совсем жёлтая, как песок.', 'But the caviar is completely yellow, like sand.', [], ''),
     ('senya', 'Сейчас мы её аккуратно покрасим.', 'Now we will carefully dye it.', [(208, 'кра')], ''),
     ('fedya', 'Какой краской ты будешь красить?', 'What dye will you paint it with?', [], ''),
     ('senya', 'У меня есть специальный чёрный краситель.', 'I have a special black food coloring.', [], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('senya', 'Отлично, получается настоящая осетровая икра!', 'Excellent, it is turning out like real sturgeon caviar!', [], ''),
 ]
 WALK = [
-    (0, None, '\'Senya, are you sure about this idea?\' "Sure of" uses the little word for "in", so "sure in this idea". Fedya is the cautious one. He has doubts, and he says them politely.'),
-    (1, None, '\'Of course, this is a brilliant plan!\' "Brilliant" grows out of "genius". Senya answers at once, with no doubts at all. The scene is a contest of nerves.'),
-    (2, None, '\'It is completely yellow, like sand.\' The little "zhe" adds "look at it". "Sand" is a short word. Fedya describes the caviar\'s colour, and his picture is a good one.'),
-    (3, None, '\'Now we will carefully dye it.\' "Carefully" was heard in the chef\'s instructions. "Will dye" has the "po-". Senya repeats his boss\'s words, as a cook repeats a recipe.'),
-    (4, None, '\'What dye will you paint it with?\' The question has the "with" ending: "with what dye". "Dye" and "paint" are the same word. Fedya is practical and wants details.'),
-    (5, None, '\'I have a special black food coloring.\' "At me there is" is the pattern. "Special" is easy to spot. Senya has the dye in his pocket, like a cook with a secret.'),
-    (6, None, '\'And the guests will not notice anything?\' The question is just a rising voice. "Not notice nothing" is the double negative. Fedya wants to be sure, and his doubts are reasonable.'),
-    (7, None, '\'They will think that this is expensive caviar.\' "Will think" uses "po-" again. "Expensive" is the "dear" one. Senya states the whole plan in one sentence.'),
-    (8, None, '\'Then let us quickly begin the work.\' "Then" and "give" make "so, let\'s". "Work" has the ending for the thing being begun. Fedya gives in. The decision takes a second.'),
-    (9, None, '\'Take the big spoon and stir.\' "Take" is the command from "take a spoon". "Stir through" has a prefix for "thoroughly". Senya passes on the tools and the orders.'),
-    (10, None, '\'Look, the color is already starting to change.\' "Starts" and "change" are two short words. The root of "change" is in the word from the chef\'s lecture, "will change". The caviar is darkening.'),
-    (11, None, '\'Excellent, it is turning out like real sturgeon caviar!\' Real black caviar comes from the sturgeon. "Turns out" is the word of a result. Senya is thrilled. He has made a fortune out of a pike.'),
+    (0, None, '\'Senya, are you sure about this idea?\' "Uveren v" is "sure in", so "v etoy idee", "in this idea". Barinov asked Timur the same thing about the caviar: "Ty tochno uveren?". Fedya is the cautious one.'),
+    (1, None, '\'Of course, this is a brilliant plan!\' "Genialny", "brilliant", comes from "geniy", "genius". "Plan" is the same as in English. Senya answers at once.'),
+    (2, None, '\'But the caviar is completely yellow, like sand.\' "Zhe" adds "but look". "Zhyoltaya" is "yellow" and "pesok" is "sand". Pike caviar really is pale yellow, nothing like black.'),
+    (3, None, '\'Now we will carefully dye it.\' "Pokrasim" is "we will dye" again, and "eyo", "it", stands for the caviar. "Akkuratno" is heard in Barinov\'s instruction, "medlenno i akkuratno".'),
+    (4, None, '\'What dye will you paint it with?\' "Kakoy kraskoy" is "with what paint": "kraska" becomes "kraskoy". "Budesh krasit" is "will you dye". "Kraska" and "krasit" share a root. Fedya wants details.'),
+    (5, None, '\'I have a special black food coloring.\' "U menya est" is "at me there is", the Russian way to say "I have". "Krasitel" is the dye Barinov sent for, and "spetsialny" is "special".'),
+    (6, None, '\'And the guests will not notice anything?\' The words are a plain statement; only the rising voice makes it a question. "Nichego ne zametyat" is "nothing not will notice", the double negative.'),
+    (7, None, '\'They will think that this is expensive caviar.\' "Podumayut" is "they will think". "Chto" here is "that", not "what". "Dorogaya ikra" is "expensive caviar". Senya states the plan in one sentence.'),
+    (8, None, '\'Then let us quickly begin the work.\' "Togda" is "then". "Davay nachnyom", "let\'s begin", is how Barinov opened the dyeing. "Rabotu" is "work"; "rabota" ends in -u because it is what gets begun.'),
+    (9, None, '\'Take the big spoon and stir.\' "Beri" is "take", the everyday partner of Timur\'s "vozmi lozhku". "Peremeshivay" is "stir": pere- adds "through and through", and the form says "keep going".'),
+    (10, None, '\'Look, the color is already starting to change.\' "Nachinaet menyatsya" is "starts to change", and "tsvet" is "colour". "Menyatsya" shares a root with Barinov\'s "izmenitsya" in his talk with Max: "tvoya zhizn silno izmenitsya".'),
+    (11, None, '\'Excellent, it is turning out like real sturgeon caviar!\' Real black caviar comes from the sturgeon, "osyotr", so "osetrovaya ikra". "Poluchaetsya" is the word Senya used for his "pike Easter". He is thrilled.'),
 ]

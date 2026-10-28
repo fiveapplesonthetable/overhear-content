@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, where has our big stove disappeared to?' This is the "where to" word, together with the word for "vanished". Both ring a bell from the cake scene. Senya sees an empty space where the stove stood.
-- 'I personally took it to a reliable repair service.' In Russian, "took" here means carrying something by vehicle, not leading it by the hand. "Reliable" grows from the Russian for "hope". Barinov invents it all very smoothly.
-- 'But it was working perfectly yesterday evening!' "Yesterday evening" is two words that rhyme in rhythm. The stove is "she" in Russian, so "worked" has the feminine ending. Senya argues, and he has a point.
-- 'I turned it in for important preventive maintenance.' "Turned in" means handed over. "Prophylaxis" is a doctor's word, and Barinov uses it on a stove. It sounds impressive, and that's why he uses it.
-- 'And on what are we to cook today?' Russians cook "on" a stove, so it's "on what". The question comes up in a few scenes, and it is the cook's real problem. Senya is practical.
-- 'For now cook the dishes on this little hotplate.' "For now" echoes "while" and "bye". The little hotplate is the stove with a diminutive ending, -ka. Barinov uses the polite plural for the whole kitchen.
-- 'This little hotplate heats up much too slowly!' "Heats up" has the -sya, "heats itself". "Too" and "slowly" are two words you've heard before. Senya complains, and he has every right.
-- 'Stop whining, cooks must know how to do everything!' "Enough" starts the line, as in "enough chatting". And "must" and "know how" are two words that stand side by side. Barinov doesn't apologise for anything.
-- 'The guests will wait for their orders very long!' "Will wait" uses the "will be" trick. "Very long" is "long" with the term for "very" in front. Senya is blunt, and he's only reporting the facts.
-- 'Set the heat to four and get to work!' The Russian says "put the heating on a four", and a "four" here is a number as a thing. The command is the polite plural. Barinov treats the hotplate like a big stove.
-- 'When will they return our old stove to us?' "They will return" is an impersonal "they", with no one named. The question has no answer, and Senya knows it. "Old" has the feminine ending, because the stove does.
-- 'In a day or two they will bring everything!' "Through a day" is how Russians say "in a day". "They will bring" is the by-vehicle word again. Barinov sounds sure, and his plan depends on nobody checking.
+- 'Chef, where has our big stove disappeared to?' "Kuda" is the "where to" word, and "propala" is "vanished", with -la because "plita", "stove", is a feminine word. Senya sees an empty space.
+- 'I personally took it to a reliable repair service.' "Otvyoz" is "took away" by vehicle, not on foot. "Nadyozhny", "reliable", grows from "nadezhda", "hope". "Lichno" is "personally".
+- 'But it was working perfectly yesterday evening!' "Vchera vecherom" is "yesterday in the evening": "vecher" becomes "vecherom". The stove is "she" in Russian, so "rabotala", "worked", ends in -la.
+- 'I turned it in for important preventive maintenance.' "Sdal" is "handed in". "Profilaktika", prophylaxis, is a doctor's word Russians also use for servicing machines. It sounds impressive, and that's why he uses it.
+- 'And on what are we to cook today?' Russians cook "na", "on", a stove, so it's "na chyom", "on what". "Nam gotovit" is "to us to cook", the Russian for "are we to cook". Senya is practical.
+- 'For now cook the dishes on this little hotplate.' "Poka", "for now", is the same word as "while" and "bye". "Plitka" is "plita" with -ka, a little hotplate. "Gotovte" is a command to the whole kitchen.
+- 'This little hotplate heats up much too slowly!' "Nagrevaetsya", "heats up", has the -sya, "heats itself". "Slishkom" is "too", and "medlenno" is "slowly". Senya complains, and he has every right.
+- 'Stop whining, cooks must know how to do everything!' "Khvatit", "enough", is the usual way to say "stop it". "Dolzhny umet" is "must know how": "umet" is "to be able", a skill. "Nyt" is "to whine".
+- 'The guests will wait for their orders very long!' "Budut zhdat" is "will wait", made from "budut", "will be", plus the dictionary form. "Zakazy" is "orders", the plural of "zakaz".
+- 'Set the heat to four and get to work!' The Russian says "put the heating on a four": "chetvyorka" is the number four as a thing, also a school mark. "Postavte" and "rabotayte" are commands to everyone.
+- 'When will they return our old stove to us?' "Vernut" is "they will return", with no one named. "Nashu staruyu plitu" ends in -u three times, because the stove is being returned. Senya knows there's no answer.
+- 'In a day or two they will bring everything!' "Cherez den", "through a day", is how Russians say "in a day". "Privezut" is "will bring" by vehicle, like "otvyoz". Barinov's plan depends on nobody checking.

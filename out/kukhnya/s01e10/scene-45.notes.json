@@ -438,7 +438,7 @@
     },
     {
       "seg": 8,
-      "trans": "I already came up with a real beautiful name.",
+      "trans": "I have already come up with a name for our baby, you know.",
       "words": [
         {
           "t": "Я",
@@ -449,6 +449,14 @@
           "gram": "1st person singular, nominative"
         },
         {
+          "t": "ведь",
+          "lemma": "ведь",
+          "pos": "part",
+          "stress": null,
+          "gloss": "after all",
+          "gram": "particle"
+        },
+        {
           "t": "уже",
           "lemma": "уже",
           "pos": "adv",
@@ -457,20 +465,12 @@
           "gram": "adverb"
         },
         {
-          "t": "настоящее",
-          "lemma": "настоящий",
-          "pos": "adj",
-          "stress": "настоя́щее",
-          "gloss": "real",
-          "gram": "neuter accusative singular"
-        },
-        {
-          "t": "красивое",
-          "lemma": "красивый",
-          "pos": "adj",
-          "stress": "краси́вое",
-          "gloss": "beautiful",
-          "gram": "neuter singular nominative"
+          "t": "придумал",
+          "lemma": "придумать",
+          "pos": "verb",
+          "stress": "приду́мал",
+          "gloss": "came up with",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "имя",
@@ -481,18 +481,34 @@
           "gram": "neuter singular accusative"
         },
         {
-          "t": "придумал.",
-          "lemma": "придумать",
-          "pos": "verb",
-          "stress": "приду́мал",
-          "gloss": "came up with",
-          "gram": "past, masculine singular, perfective"
+          "t": "для",
+          "lemma": "для",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "for",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "нашего",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́шего",
+          "gloss": "our",
+          "gram": "genitive singular, masculine"
+        },
+        {
+          "t": "ребёнка.",
+          "lemma": "ребёнок",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "child",
+          "gram": "genitive singular, masculine"
         }
       ]
     },
     {
       "seg": 9,
-      "trans": "Zhenya is the most beautiful name in the world.",
+      "trans": "Zhenya is a lovely name.",
       "words": [
         {
           "t": "Женя",
@@ -503,52 +519,20 @@
           "gram": "proper noun"
         },
         {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "самое",
-          "lemma": "самый",
-          "pos": "adj",
-          "stress": "са́мое",
-          "gloss": "the most",
-          "gram": "nominative neuter singular (superlative with главное)"
-        },
-        {
           "t": "прекрасное",
           "lemma": "прекрасный",
           "pos": "adj",
           "stress": "прекра́сное",
-          "gloss": "wonderful, fine",
-          "gram": "accusative singular, neuter"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "мире",
-          "lemma": "мир",
-          "pos": "noun",
-          "stress": "ми́ре",
-          "gloss": "world",
-          "gram": "prepositional singular, masculine"
+          "gloss": "lovely, wonderful",
+          "gram": "neuter singular nominative"
         },
         {
           "t": "имя.",
           "lemma": "имя",
           "pos": "noun",
-          "stress": "и́мя",
+          "stress": "и́мя.",
           "gloss": "name",
-          "gram": "neuter singular accusative"
+          "gram": "neuter singular nominative"
         }
       ]
     },
@@ -616,7 +600,7 @@
     },
     {
       "seg": 11,
-      "trans": "My God, Zhenya is a very strange name!",
+      "trans": "My God, what kind of name is Zhenya?",
       "words": [
         {
           "t": "Боже",
@@ -635,36 +619,44 @@
           "gram": "possessive pronoun"
         },
         {
-          "t": "Женя",
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "(что это за = what kind of)",
+          "gram": "part of a fixed phrase"
+        },
+        {
+          "t": "имя",
+          "lemma": "имя",
+          "pos": "noun",
+          "stress": "и́мя",
+          "gloss": "name",
+          "gram": "neuter singular nominative"
+        },
+        {
+          "t": "Женя?",
           "lemma": "женя",
           "pos": "name",
           "stress": null,
           "gloss": "Zhenya",
           "gram": "proper noun"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "странное",
-          "lemma": "странный",
-          "pos": "adj",
-          "stress": "стра́нное",
-          "gloss": "strange, odd",
-          "gram": "nom.n.sg"
-        },
-        {
-          "t": "имя!",
-          "lemma": "имя",
-          "pos": "noun",
-          "stress": "и́мя",
-          "gloss": "name",
-          "gram": "neuter singular accusative"
         }
       ]
     },
@@ -1274,7 +1266,7 @@
     },
     {
       "seg": 30,
-      "trans": "I already came up with a real beautiful name.",
+      "trans": "I have already come up with a name for our baby, you know.",
       "words": [
         {
           "t": "Я",
@@ -1285,6 +1277,14 @@
           "gram": "1st person singular, nominative"
         },
         {
+          "t": "ведь",
+          "lemma": "ведь",
+          "pos": "part",
+          "stress": null,
+          "gloss": "after all",
+          "gram": "particle"
+        },
+        {
           "t": "уже",
           "lemma": "уже",
           "pos": "adv",
@@ -1293,20 +1293,12 @@
           "gram": "adverb"
         },
         {
-          "t": "настоящее",
-          "lemma": "настоящий",
-          "pos": "adj",
-          "stress": "настоя́щее",
-          "gloss": "real",
-          "gram": "neuter accusative singular"
-        },
-        {
-          "t": "красивое",
-          "lemma": "красивый",
-          "pos": "adj",
-          "stress": "краси́вое",
-          "gloss": "beautiful",
-          "gram": "neuter singular nominative"
+          "t": "придумал",
+          "lemma": "придумать",
+          "pos": "verb",
+          "stress": "приду́мал",
+          "gloss": "came up with",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "имя",
@@ -1317,18 +1309,34 @@
           "gram": "neuter singular accusative"
         },
         {
-          "t": "придумал.",
-          "lemma": "придумать",
-          "pos": "verb",
-          "stress": "приду́мал",
-          "gloss": "came up with",
-          "gram": "past, masculine singular, perfective"
+          "t": "для",
+          "lemma": "для",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "for",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "нашего",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́шего",
+          "gloss": "our",
+          "gram": "genitive singular, masculine"
+        },
+        {
+          "t": "ребёнка.",
+          "lemma": "ребёнок",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "child",
+          "gram": "genitive singular, masculine"
         }
       ]
     },
     {
       "seg": 32,
-      "trans": "Zhenya is the most beautiful name in the world.",
+      "trans": "Zhenya is a lovely name.",
       "words": [
         {
           "t": "Женя",
@@ -1339,52 +1347,20 @@
           "gram": "proper noun"
         },
         {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "самое",
-          "lemma": "самый",
-          "pos": "adj",
-          "stress": "са́мое",
-          "gloss": "the most",
-          "gram": "nominative neuter singular (superlative with главное)"
-        },
-        {
           "t": "прекрасное",
           "lemma": "прекрасный",
           "pos": "adj",
           "stress": "прекра́сное",
-          "gloss": "wonderful, fine",
-          "gram": "accusative singular, neuter"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "мире",
-          "lemma": "мир",
-          "pos": "noun",
-          "stress": "ми́ре",
-          "gloss": "world",
-          "gram": "prepositional singular, masculine"
+          "gloss": "lovely, wonderful",
+          "gram": "neuter singular nominative"
         },
         {
           "t": "имя.",
           "lemma": "имя",
           "pos": "noun",
-          "stress": "и́мя",
+          "stress": "и́мя.",
           "gloss": "name",
-          "gram": "neuter singular accusative"
+          "gram": "neuter singular nominative"
         }
       ]
     },
@@ -1452,7 +1428,7 @@
     },
     {
       "seg": 36,
-      "trans": "My God, Zhenya is a very strange name!",
+      "trans": "My God, what kind of name is Zhenya?",
       "words": [
         {
           "t": "Боже",
@@ -1471,36 +1447,44 @@
           "gram": "possessive pronoun"
         },
         {
-          "t": "Женя",
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "(что это за = what kind of)",
+          "gram": "part of a fixed phrase"
+        },
+        {
+          "t": "имя",
+          "lemma": "имя",
+          "pos": "noun",
+          "stress": "и́мя",
+          "gloss": "name",
+          "gram": "neuter singular nominative"
+        },
+        {
+          "t": "Женя?",
           "lemma": "женя",
           "pos": "name",
           "stress": null,
           "gloss": "Zhenya",
           "gram": "proper noun"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "странное",
-          "lemma": "странный",
-          "pos": "adj",
-          "stress": "стра́нное",
-          "gloss": "strange, odd",
-          "gram": "nom.n.sg"
-        },
-        {
-          "t": "имя!",
-          "lemma": "имя",
-          "pos": "noun",
-          "stress": "и́мя",
-          "gloss": "name",
-          "gram": "neuter singular accusative"
         }
       ]
     },
@@ -2110,7 +2094,7 @@
     },
     {
       "seg": 51,
-      "trans": "I already came up with a real beautiful name.",
+      "trans": "I have already come up with a name for our baby, you know.",
       "words": [
         {
           "t": "Я",
@@ -2121,6 +2105,14 @@
           "gram": "1st person singular, nominative"
         },
         {
+          "t": "ведь",
+          "lemma": "ведь",
+          "pos": "part",
+          "stress": null,
+          "gloss": "after all",
+          "gram": "particle"
+        },
+        {
           "t": "уже",
           "lemma": "уже",
           "pos": "adv",
@@ -2129,20 +2121,12 @@
           "gram": "adverb"
         },
         {
-          "t": "настоящее",
-          "lemma": "настоящий",
-          "pos": "adj",
-          "stress": "настоя́щее",
-          "gloss": "real",
-          "gram": "neuter accusative singular"
-        },
-        {
-          "t": "красивое",
-          "lemma": "красивый",
-          "pos": "adj",
-          "stress": "краси́вое",
-          "gloss": "beautiful",
-          "gram": "neuter singular nominative"
+          "t": "придумал",
+          "lemma": "придумать",
+          "pos": "verb",
+          "stress": "приду́мал",
+          "gloss": "came up with",
+          "gram": "past, masculine singular, perfective"
         },
         {
           "t": "имя",
@@ -2153,18 +2137,34 @@
           "gram": "neuter singular accusative"
         },
         {
-          "t": "придумал.",
-          "lemma": "придумать",
-          "pos": "verb",
-          "stress": "приду́мал",
-          "gloss": "came up with",
-          "gram": "past, masculine singular, perfective"
+          "t": "для",
+          "lemma": "для",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "for",
+          "gram": "preposition + genitive"
+        },
+        {
+          "t": "нашего",
+          "lemma": "наш",
+          "pos": "det",
+          "stress": "на́шего",
+          "gloss": "our",
+          "gram": "genitive singular, masculine"
+        },
+        {
+          "t": "ребёнка.",
+          "lemma": "ребёнок",
+          "pos": "noun",
+          "stress": null,
+          "gloss": "child",
+          "gram": "genitive singular, masculine"
         }
       ]
     },
     {
       "seg": 52,
-      "trans": "Zhenya is the most beautiful name in the world.",
+      "trans": "Zhenya is a lovely name.",
       "words": [
         {
           "t": "Женя",
@@ -2175,52 +2175,20 @@
           "gram": "proper noun"
         },
         {
-          "t": "это",
-          "lemma": "это",
-          "pos": "pron",
-          "stress": "э́то",
-          "gloss": "this",
-          "gram": "demonstrative pronoun, nominative"
-        },
-        {
-          "t": "самое",
-          "lemma": "самый",
-          "pos": "adj",
-          "stress": "са́мое",
-          "gloss": "the most",
-          "gram": "nominative neuter singular (superlative with главное)"
-        },
-        {
           "t": "прекрасное",
           "lemma": "прекрасный",
           "pos": "adj",
           "stress": "прекра́сное",
-          "gloss": "wonderful, fine",
-          "gram": "accusative singular, neuter"
-        },
-        {
-          "t": "в",
-          "lemma": "в",
-          "pos": "prep",
-          "stress": null,
-          "gloss": "in, into",
-          "gram": "preposition"
-        },
-        {
-          "t": "мире",
-          "lemma": "мир",
-          "pos": "noun",
-          "stress": "ми́ре",
-          "gloss": "world",
-          "gram": "prepositional singular, masculine"
+          "gloss": "lovely, wonderful",
+          "gram": "neuter singular nominative"
         },
         {
           "t": "имя.",
           "lemma": "имя",
           "pos": "noun",
-          "stress": "и́мя",
+          "stress": "и́мя.",
           "gloss": "name",
-          "gram": "neuter singular accusative"
+          "gram": "neuter singular nominative"
         }
       ]
     },
@@ -2288,7 +2256,7 @@
     },
     {
       "seg": 54,
-      "trans": "My God, Zhenya is a very strange name!",
+      "trans": "My God, what kind of name is Zhenya?",
       "words": [
         {
           "t": "Боже",
@@ -2307,36 +2275,44 @@
           "gram": "possessive pronoun"
         },
         {
-          "t": "Женя",
+          "t": "что",
+          "lemma": "что",
+          "pos": "pron",
+          "stress": null,
+          "gloss": "what",
+          "gram": "relative pronoun, accusative"
+        },
+        {
+          "t": "это",
+          "lemma": "это",
+          "pos": "pron",
+          "stress": "э́то",
+          "gloss": "this",
+          "gram": "demonstrative pronoun, nominative"
+        },
+        {
+          "t": "за",
+          "lemma": "за",
+          "pos": "prep",
+          "stress": null,
+          "gloss": "(что это за = what kind of)",
+          "gram": "part of a fixed phrase"
+        },
+        {
+          "t": "имя",
+          "lemma": "имя",
+          "pos": "noun",
+          "stress": "и́мя",
+          "gloss": "name",
+          "gram": "neuter singular nominative"
+        },
+        {
+          "t": "Женя?",
           "lemma": "женя",
           "pos": "name",
           "stress": null,
           "gloss": "Zhenya",
           "gram": "proper noun"
-        },
-        {
-          "t": "очень",
-          "lemma": "очень",
-          "pos": "adv",
-          "stress": "о́чень",
-          "gloss": "very much",
-          "gram": "adverb of degree"
-        },
-        {
-          "t": "странное",
-          "lemma": "странный",
-          "pos": "adj",
-          "stress": "стра́нное",
-          "gloss": "strange, odd",
-          "gram": "nom.n.sg"
-        },
-        {
-          "t": "имя!",
-          "lemma": "имя",
-          "pos": "noun",
-          "stress": "и́мя",
-          "gloss": "name",
-          "gram": "neuter singular accusative"
         }
       ]
     },
@@ -8612,6 +8588,275 @@
         {
           "word": "мне",
           "gloss": "to me (dative)"
+        }
+      ]
+    },
+    "ведь": {
+      "lemma": "ведь",
+      "stress": "ведь",
+      "pos": "part",
+      "gloss": "after all, you know",
+      "meanings": [
+        {
+          "en": "after all, you know",
+          "note": "Adds a reason or an obvious truth. Core Russian part meaning 'after all, you know' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я ведь говорил!",
+          "trans": "I did tell you, you know!"
+        },
+        {
+          "text": "Ты ведь мой друг.",
+          "trans": "You're my friend, after all."
+        },
+        {
+          "text": "Садись, не бойся. Я ведь сам чуть тебя не отпустил.",
+          "trans": "Sit down, don't be afraid. I very nearly let you go myself."
+        }
+      ],
+      "related": [
+        {
+          "word": "ведать",
+          "gloss": "to know (archaic root)"
+        },
+        {
+          "word": "же",
+          "gloss": "after all (emphatic particle)"
+        }
+      ]
+    },
+    "наш": {
+      "lemma": "наш",
+      "stress": "наш",
+      "pos": "det",
+      "gloss": "our, ours",
+      "meanings": [
+        {
+          "en": "our, ours",
+          "note": "наш, наша, наше, наши; agrees with the noun"
+        }
+      ],
+      "forms": {
+        "title": "Forms",
+        "columns": [
+          "",
+          "m",
+          "f",
+          "n",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "наш",
+              "наша",
+              "наше",
+              "наши"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "нашего",
+              "нашей",
+              "нашего",
+              "наших"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "нашему",
+              "нашей",
+              "нашему",
+              "нашим"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "наш / нашего",
+              "нашу",
+              "наше",
+              "наши / наших"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "нашим",
+              "нашей",
+              "нашим",
+              "нашими"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "нашем",
+              "нашей",
+              "нашем",
+              "наших"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Я люблю наш город.",
+          "trans": "I love our town."
+        },
+        {
+          "text": "Это наша квартира.",
+          "trans": "This is our flat."
+        },
+        {
+          "text": "Я очень люблю наш город. Поэтому я иду на второй срок.",
+          "trans": "I love our town very much. That's why I'm running for a second term."
+        }
+      ],
+      "related": [
+        {
+          "word": "мы",
+          "gloss": "we"
+        },
+        {
+          "word": "ваш",
+          "gloss": "your"
+        }
+      ]
+    },
+    "ребёнок": {
+      "lemma": "ребёнок",
+      "stress": "ребёнок",
+      "pos": "noun",
+      "gloss": "child",
+      "gender": "m",
+      "meanings": [
+        {
+          "en": "child",
+          "note": "Plural: дети. Formed with a diminutive/expressive Slavic suffix adding warmth or small scale. Common masculine noun meaning 'child' in everyday Russian."
+        }
+      ],
+      "forms": {
+        "title": "Declension",
+        "columns": [
+          "",
+          "sg",
+          "pl"
+        ],
+        "rows": [
+          {
+            "cells": [
+              "nominative",
+              "ребёнок",
+              "дети"
+            ]
+          },
+          {
+            "cells": [
+              "genitive",
+              "ребёнка",
+              "детей"
+            ]
+          },
+          {
+            "cells": [
+              "dative",
+              "ребёнку",
+              "детям"
+            ]
+          },
+          {
+            "cells": [
+              "accusative",
+              "ребёнка",
+              "детей"
+            ]
+          },
+          {
+            "cells": [
+              "instrumental",
+              "ребёнком",
+              "детьми"
+            ]
+          },
+          {
+            "cells": [
+              "prepositional",
+              "ребёнке",
+              "детях"
+            ]
+          }
+        ]
+      },
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Это мой ребёнок.",
+          "trans": "This is my child."
+        },
+        {
+          "text": "Ребёнок спит.",
+          "trans": "The child is asleep."
+        },
+        {
+          "text": "Да! Даже ребёнок знает.",
+          "trans": "Yes! Even a child knows."
+        }
+      ],
+      "related": [
+        {
+          "word": "ребёнокный",
+          "gloss": "related to child (adj.)"
+        }
+      ]
+    },
+    "за": {
+      "lemma": "за",
+      "stress": "за",
+      "pos": "prep",
+      "gloss": "for; behind",
+      "meanings": [
+        {
+          "en": "for",
+          "note": "Спасибо за + accusative. Core Russian prep meaning 'for; behind' in everyday speech."
+        },
+        {
+          "en": "behind",
+          "note": "+ instrumental. Core Russian prep meaning 'for; behind' in everyday speech."
+        }
+      ],
+      "forms": null,
+      "moreForms": [],
+      "examples": [
+        {
+          "text": "Спасибо за доверие!",
+          "trans": "Thank you for your trust!"
+        },
+        {
+          "text": "Спасибо за подарок.",
+          "trans": "Thanks for the present."
+        },
+        {
+          "text": "За что?",
+          "trans": "What for?"
+        }
+      ],
+      "related": [
+        {
+          "word": "из-за",
+          "gloss": "because of, from behind"
+        },
+        {
+          "word": "под",
+          "gloss": "under"
         }
       ]
     }

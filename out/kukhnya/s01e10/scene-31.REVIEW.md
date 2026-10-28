@@ -12,7 +12,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 |---|---|---|---|---|---|
 | 1 | Федя | Сеня, ты уверен в этой идее? | Senya, are you sure about this idea? | new | new |
 | 2 | Сеня | Конечно, это гениальный план! | Of course, this is a brilliant plan! | new | new |
-| 3 | Федя | Она же совсем жёлтая, как песок. | It is completely yellow, like sand. | new | new |
+| 3 | Федя | Икра же совсем жёлтая, как песок. | But the caviar is completely yellow, like sand. | new | new |
 | 4 | Сеня | Сейчас мы её аккуратно покрасим. | Now we will carefully dye it. | #208 00:14:18: кра | verbatim |
 | 5 | Федя | Какой краской ты будешь красить? | What dye will you paint it with? | new | new |
 | 6 | Сеня | У меня есть специальный чёрный краситель. | I have a special black food coloring. | new | new |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Senya, are you sure about this idea?' "Sure of" uses the little word for "in", so "sure in this idea". Fedya is the cautious one. He has doubts, and he says them politely.
-- 'Of course, this is a brilliant plan!' "Brilliant" grows out of "genius". Senya answers at once, with no doubts at all. The scene is a contest of nerves.
-- 'It is completely yellow, like sand.' The little "zhe" adds "look at it". "Sand" is a short word. Fedya describes the caviar's colour, and his picture is a good one.
-- 'Now we will carefully dye it.' "Carefully" was heard in the chef's instructions. "Will dye" has the "po-". Senya repeats his boss's words, as a cook repeats a recipe.
-- 'What dye will you paint it with?' The question has the "with" ending: "with what dye". "Dye" and "paint" are the same word. Fedya is practical and wants details.
-- 'I have a special black food coloring.' "At me there is" is the pattern. "Special" is easy to spot. Senya has the dye in his pocket, like a cook with a secret.
-- 'And the guests will not notice anything?' The question is just a rising voice. "Not notice nothing" is the double negative. Fedya wants to be sure, and his doubts are reasonable.
-- 'They will think that this is expensive caviar.' "Will think" uses "po-" again. "Expensive" is the "dear" one. Senya states the whole plan in one sentence.
-- 'Then let us quickly begin the work.' "Then" and "give" make "so, let's". "Work" has the ending for the thing being begun. Fedya gives in. The decision takes a second.
-- 'Take the big spoon and stir.' "Take" is the command from "take a spoon". "Stir through" has a prefix for "thoroughly". Senya passes on the tools and the orders.
-- 'Look, the color is already starting to change.' "Starts" and "change" are two short words. The root of "change" is in the word from the chef's lecture, "will change". The caviar is darkening.
-- 'Excellent, it is turning out like real sturgeon caviar!' Real black caviar comes from the sturgeon. "Turns out" is the word of a result. Senya is thrilled. He has made a fortune out of a pike.
+- 'Senya, are you sure about this idea?' "Uveren v" is "sure in", so "v etoy idee", "in this idea". Barinov asked Timur the same thing about the caviar: "Ty tochno uveren?". Fedya is the cautious one.
+- 'Of course, this is a brilliant plan!' "Genialny", "brilliant", comes from "geniy", "genius". "Plan" is the same as in English. Senya answers at once.
+- 'But the caviar is completely yellow, like sand.' "Zhe" adds "but look". "Zhyoltaya" is "yellow" and "pesok" is "sand". Pike caviar really is pale yellow, nothing like black.
+- 'Now we will carefully dye it.' "Pokrasim" is "we will dye" again, and "eyo", "it", stands for the caviar. "Akkuratno" is heard in Barinov's instruction, "medlenno i akkuratno".
+- 'What dye will you paint it with?' "Kakoy kraskoy" is "with what paint": "kraska" becomes "kraskoy". "Budesh krasit" is "will you dye". "Kraska" and "krasit" share a root. Fedya wants details.
+- 'I have a special black food coloring.' "U menya est" is "at me there is", the Russian way to say "I have". "Krasitel" is the dye Barinov sent for, and "spetsialny" is "special".
+- 'And the guests will not notice anything?' The words are a plain statement; only the rising voice makes it a question. "Nichego ne zametyat" is "nothing not will notice", the double negative.
+- 'They will think that this is expensive caviar.' "Podumayut" is "they will think". "Chto" here is "that", not "what". "Dorogaya ikra" is "expensive caviar". Senya states the plan in one sentence.
+- 'Then let us quickly begin the work.' "Togda" is "then". "Davay nachnyom", "let's begin", is how Barinov opened the dyeing. "Rabotu" is "work"; "rabota" ends in -u because it is what gets begun.
+- 'Take the big spoon and stir.' "Beri" is "take", the everyday partner of Timur's "vozmi lozhku". "Peremeshivay" is "stir": pere- adds "through and through", and the form says "keep going".
+- 'Look, the color is already starting to change.' "Nachinaet menyatsya" is "starts to change", and "tsvet" is "colour". "Menyatsya" shares a root with Barinov's "izmenitsya" in his talk with Max: "tvoya zhizn silno izmenitsya".
+- 'Excellent, it is turning out like real sturgeon caviar!' Real black caviar comes from the sturgeon, "osyotr", so "osetrovaya ikra". "Poluchaetsya" is the word Senya used for his "pike Easter". He is thrilled.

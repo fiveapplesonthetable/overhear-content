@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, my friend, what is happening to you right now?' "With you" is the "what is happening with" question again. Kostya has noticed that Max is not himself. He is a good friend, and he asks straight.
-- 'Kostya, I still cannot believe it.' "Up to these" is the Russian way to say "still". "Believe" has a prefix, "come to believe". Max stares into the distance as he says it.
-- 'You look very pale and terribly frightened.' "Look" here is "appear", not "look at". The word for "terribly" stands for "scary". Kostya describes his friend in two words, and it's accurate.
-- 'I was just told the craziest news.' Russian says "to me just now told", with "they" implied. "Crazy" is built on "without mind", a good picture. Max has no one to blame, so it is just "they".
-- 'Did the Chef want to kick you out of the kitchen again?' "Drive out" was used about the family later in the episode. Kostya assumes the chef is the problem, as usual. That is how things have always been.
-- 'No, the Chef has absolutely nothing to do with it.' "Not at what" is the idiom for "has nothing to do with it". It's a handy phrase to learn. Max says it with a wave of the hand.
-- 'Then speak quickly, do not torment me for long.' "Torment" is a strong word, and Kostya is half joking. The "quickly" is the one used by Nastya about the chef. He wants the news, and he wants it now.
-- 'Vika is pregnant with my child.' It is "pregnant from me", as Vika said it. Max uses the same words she did. He says it without a lead-in, and the effect is dramatic.
-- 'What? Our beautiful Vika is expecting your child?' Russians say "waits for a child" to mean "expects a child". And "wait" has no "for" in front of the thing waited for. Kostya says "our Vika", as the staff do.
-- 'Yes, she told me that right now.' "She said" has the woman's -la ending. "Right now" is "straight now". Max confirms the news. He speaks like a man who has just been told.
-- 'Congratulations, brother, you will soon become a young father!' After "become", the noun takes an ending that means "as", so a father is "as a father". Kostya is delighted. His joy is the opposite of Max's.
-- 'I am in total shock and terribly lost.' "In shock" is borrowed from French. The "lost" word has the -sya, "lost himself". Max sums up his mood. It's an accurate report of his state.
+- 'Max, my friend, what is happening to you right now?' "Chto s toboy proiskhodit" is "what's happening with you", the question Vika asked Kostya about Max, "chto proiskhodit s nashim Maksom". "Drug" is "friend".
+- 'Kostya, I still cannot believe it.' "Do sikh por", literally "up to these times", is "still". "Poverit" is "to believe", with po- on the front of "verit". "Ne mogu" is "I can't".
+- 'You look very pale and terribly frightened.' "Vyglyadish" is "you look", in the sense of "appear". "Strashno", "terribly", is also the word for "scary". "Ispugannym", "frightened", is the family of "ispugalsya".
+- 'I was just told the craziest news.' "Mne rasskazali", "to me they told", is how Russian says "I was told", with "they" left out. "Bezumny", "crazy", is "bez", "without", plus "um", "mind". "Tolko chto" is "just now".
+- 'Did the Chef want to kick you out of the kitchen again?' "Vygnat" is "to drive out, kick out". "S kukhni" is "from the kitchen": "kukhnya" becomes "kukhni" after "s". "Snova" is "again". Kostya assumes it's the chef.
+- 'No, the Chef has absolutely nothing to do with it.' "Ni pri chyom" is the set phrase for "has nothing to do with it". "Sovershenno" is "absolutely". It's a handy phrase to learn whole.
+- 'Then speak quickly, do not torment me for long.' "Ne muchay" is "don't torment", a strong word that Kostya uses half joking. "Skoree", "quickly", comes from Max's "govorite skoree", "tell me quickly". "Govori" is "speak".
+- 'Vika is pregnant with my child.' "Beremenna ot menya" is "pregnant from me": Max uses Vika's own words, with "ot tebya" turned into "ot menya". It's just four words.
+- 'What? Our beautiful Vika is expecting your child?' "Zhdyot rebyonka", literally "waits for a child", is "is expecting a baby". "Zhdat" needs no word for "for": "rebyonok" just changes to "rebyonka". Kostya says "nasha Vika", "our Vika".
+- 'Yes, she told me that right now.' "Skazala" is "she said", with -la for a woman. "Pryamo seychas", literally "straight now", is "right now". "Mne eto" is "me that".
+- 'Congratulations, brother, you will soon become a young father!' "Pozdravlyayu" is "congratulations", literally "I congratulate". After "stanesh", "you'll become", "molodoy otets" changes to "molodym ottsom". "Skoro" is "soon".
+- 'I am in total shock and terribly lost.' "V polnom shoke" is "in total shock", and "shok" is borrowed. "Rasteryalsya", "got flustered", ends in -sya. "Strashno" is "terribly" again.

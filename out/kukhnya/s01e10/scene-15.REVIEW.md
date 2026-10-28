@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Tamara, hello, this is Vitya Barinov calling.' "Vitya" is a friendly short form of Viktor. Russians open a call with "bothers you", an old, polite phrase. Barinov is the soul of courtesy when he wants something.
-- 'Hi, Vitya, do you want to place a bet?' "Make a bet" is the way Russians say "place a bet". Tamara uses "ty" and "Vitya", so they are old friends. She is businesslike, and she's heard this a hundred times.
-- 'Yes, put money on the Spartak match.' "Put" is also how you bet, so "put money on" a match. It's the same idea as in English, but with what Russian calls putting down. "Match of Spartak" has the "of" ending.
-- 'Are you betting on your native Spartak's victory?' "Native" recalls "own dad", family-close. "On victory" has the ending for "on". Tamara asks as if checking her ears.
-- 'No, I am betting on a CSKA victory!' Russians say the letters of the army club's initials, "tse-es-ka". They are Spartak's great rival. Barinov knows what he is doing, and he says it clearly.
-- 'Are you not joking? They are your enemies!' "Enemies" is a strong word for rivals. The little "zhe" is the "after all" again. Tamara is shocked. It is like a lifelong fan betting on his club's greatest rival.
-- 'I bet exactly one hundred thousand rubles!' The word for "exactly" also means "level" or "even". "I put" is the bet word again. Barinov names the sum, and the sum is large.
-- 'Do you have that kind of money with you?' "At you there is with self" is the Russian way to say "do you have on you". The Russian for "such" is the one in "such a long one". She is practical.
-- 'Reserve the bet, I will bring cash soon.' "Reserve" is the English word with a Russian ending. "Cash" is the "available" money again. Barinov asks for credit, and credit is a delicate thing in a betting shop.
-- 'All right, your bet is accepted at the office.' "Accepted" has a feminine ending because "bet" is feminine. "Office" is an old word, and in this world it means the betting shop. Tamara agrees, but not happily.
-- 'Thank you, money right now matters more than anything to me.' "More important" is "important" with the -ee ending of the comparative. "Than everything" has the "of" form. Barinov says it as if it were a principle.
-- 'I hope you understand your huge risk.' "Hope" is from the same family as "reliable". Tamara says "I hope" like a friend giving a last warning. The term for risk is borrowed, as are most of the betting words.
+- 'Tamara, hello, this is Vitya Barinov calling.' "Vitya" is a friendly short form of Viktor. Russians open a call with "bespokoit", "is bothering you", an old, polite phrase. "Zdravstvuy" is the hello for one friend.
+- 'Hi, Vitya, do you want to place a bet?' "Sdelat stavku" is "make a bet". Tamara says "ty" and "Vitya", so they know each other well. "Privet" is the casual "hi".
+- 'Yes, put money on the Spartak match.' "Postav" is "put", standing up, and it's also how you bet. "Na match Spartaka" is "on the match of Spartak": the club's name takes -a.
+- 'Are you betting on your native Spartak's victory?' "Rodnoy" is "native" or "one's own", from "rod", "family", and Russians use it for a home team. "Na pobedu" is "on victory": "pobeda" becomes "pobedu".
+- 'No, I am betting on a CSKA victory!' Russians say the letters of the army club's initials, "tse-es-ka". They are Spartak's great rival. "Stavlyu" is "I bet", literally "I put".
+- 'Are you not joking? They are your enemies!' "Vragi" is "enemies", a strong word for rivals. The little "zhe" is the "after all" again. "Shutish" is "you joke".
+- 'I bet exactly one hundred thousand rubles!' "Rovno", "exactly", also means "level" or "even". "Sto tysyach rubley" is the same sum as the banquet cake. Barinov names it, and it is large.
+- 'Do you have that kind of money with you?' "U tebya est s soboy" is "at you there is with self", the Russian for "on you". "Takie dengi" is "such money", plural, as money always is.
+- 'Reserve the bet, I will bring cash soon.' "Zarezerviruy" is "reserve", a borrowed word with Russian bits on both ends. "Nalichnye" is "cash", from "nalichie", "being on hand". Barinov asks for credit.
+- 'All right, your bet is accepted at the office.' "Prinyata", "accepted", ends in -a because "stavka", "bet", is feminine. "Kontora" is an old word for an office, and here it's the betting shop.
+- 'Thank you, money right now matters more than anything to me.' "Vazhnee" is "vazhno", "important", with -ee: "more important". "Vazhnee vsego" is "more important than everything", with no "than" word, just the ending on "vsego".
+- 'I hope you understand your huge risk.' "Nadeyus", "I hope", is from "nadezhda", like "nadyozhny". "Risk" is borrowed. Tamara says it like a friend giving a last warning.

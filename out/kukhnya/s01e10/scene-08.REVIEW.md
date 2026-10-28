@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dmitry Vladimirovich, good morning to you!' Russians address respected people by first name and father's name, here Dmitry, with a father's name ending in "-ovich", "son of". It is polite and a little old-fashioned. "Good morning" is "kind morning", and it ends in -e.
-- 'Hey, Viktor, I am not giving you money!' The term for "hey" here is the casual "zdorovo", the same as "great", from "health". Nagiyev uses "ty" with the chef. And "money" gets the "of" ending after "not".
-- 'I already paid you two paychecks.' "Two" is a feminine form here, because "salary" is feminine. "Gave out" means handing out wages. Nagiyev is counting, and the count is against Barinov.
-- 'What did you want?' "Chego" is the form of "what" that goes with "want", and it sounds easy and casual. Nagiyev is half laughing. He knows exactly what the chef is after.
-- 'Why, I am not calling for money!' The little "da" here doesn't mean "yes". It works like "why" or "well" at the start. "For money" is Russian for "in order to get money". Barinov protests too much.
-- 'Really? Then why are you calling?' Here "da" has the rising voice of "yes?" meaning "really?". "Zachem" is "what for", from the dining room. Nagiyev is amused, and the question is a good one.
-- 'Tonight is an important football match.' "Today in the evening" is how Russians say "tonight". "Football" is made from the English word. Barinov names the thing that has been on his mind all week.
-- 'Is your beloved Spartak playing again?' "Beloved" is "favourite", the same as in the first scene. Nagiyev knows his chef well. The name of the club is masculine, so the word before it is too.
-- 'Yes, and I have reliable insider info!' The little "there is" appears again: "at me there is". "Reliable" also means "faithful". A tip from a friend of a friend is, for a gambler, solid truth.
-- 'Viktor, sports betting is dangerous.' "Bets on sport" has the plural, so "dangerous" does too. Nagiyev sounds like a wise uncle. It is good advice, and he knows it won't be taken.
-- 'I need a small advance until tomorrow.' What Russian calls "advance" is just the English word. "Until tomorrow" is "to tomorrow". Barinov makes it sound like a tiny favour, and the word "small" does the work.
-- 'I know your advances, Viktor.' Nagiyev puts "advance" into the plural. That is a joke, since it means there have been many. He sees through the chef and enjoys it.
-- 'You will not get a single kopeck!' "Not of a kopeck" has the double negative for emphasis. A kopeck is the hundredth part of a ruble. Nagiyev is a rich man, and his refusal is complete.
-- 'Dmitry, you will regret this!' Barinov drops the father's name, and with it the politeness. "Regret" means feel sorry. The chef is furious. He ends the call with a threat that he cannot carry out.
+- 'Dmitry Vladimirovich, good morning to you!' Russians address respected people by first name and father's name: "Vladimirovich" is "son of Vladimir". "Dobroe utro" is "kind morning", with "vam", "to you", added for extra politeness.
+- 'Hey, Viktor, I am not giving you money!' "Zdorovo" here is a casual "hi", spelled like "zdorovo", "great", but stressed on the o after d. "Deneg ne dam" is "of money not I'll give": "dengi" becomes "deneg" after "ne".
+- 'I already paid you two paychecks.' "Dve", "two", is the form for she-words, because "zarplata" ends in -a. "Vydal" is "handed out", the word for paying wages. Nagiyev is counting, and the count is against Barinov.
+- 'What did you want?' "Chego" is the form of "chto" that often goes with "khotet", "want", and it sounds casual. "Khotel" ends in -l, the past for a man. Nagiyev knows what the chef is after.
+- 'Why, I am not calling for money!' The little "da" here doesn't mean "yes". It works like "why" or "well". "Za dengami" is "for money", meaning "to fetch money": after "za", "dengi" becomes "dengami".
+- 'Really? Then why are you calling?' Here "da?" with a rising voice means "really?". "Zachem" is "what for", as Barinov said to Tanya. "Zvonish" is "you are calling", the casual "ty" form.
+- 'Tonight is an important football match.' "Segodnya vecherom", "today in the evening", is how Russians say "tonight". "Futbolny" is "football" turned into a describing word. Barinov names the thing on his mind.
+- 'Is your beloved Spartak playing again?' "Lyubimy", "beloved" or "favourite", is the word the mother used in the first scene. "Tvoy" is the casual "your". "Igraet" is "is playing".
+- 'Yes, and I have reliable insider info!' "Est", "there is", appears again: "u menya est", "at me there is". "Vernaya", "reliable", is the same word as "faithful" in Senya's "verny drug".
+- 'Viktor, sports betting is dangerous.' "Stavki na sport", "bets on sport", is plural, so "dangerous" is "opasny", plural too. Nagiyev sounds like a wise uncle. It is good advice.
+- 'I need a small advance until tomorrow.' "Avans" is an advance on wages. "Do zavtra" is "until tomorrow". "Mne nuzhen" is "to me needed", with "nuzhen" bare because "avans" is a he-word.
+- 'I know your advances, Viktor.' Nagiyev puts "avans" into the plural, "avansy". That is a joke, since it means there have been many. "Znayu" is "I know".
+- 'You will not get a single kopeck!' "Ni kopeyki", "not of a kopeck", is the strong "not a single". "Kopeyka" becomes "kopeyki". "Poluchish" is "you will get". His refusal is complete.
+- 'Dmitry, you will regret this!' Barinov drops "Vladimirovich", and with it the politeness, and says "ty". "Pozhaleesh ob etom" is "will regret about this". He ends the call with a threat he cannot carry out.

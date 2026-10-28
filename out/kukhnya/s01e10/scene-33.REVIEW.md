@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Vika, I have been thinking about your words.' "Thought over" has the little word "over". "Here" in the middle of the line is a filler. Max has been brooding, and he is about to explain.
-- 'And what did you come up with, Max?' "Thought up" or "decided" is the sense. The little "zhe" adds "on earth". Vika is curious, and she suspects nothing yet.
-- 'I called mom, my parents are coming soon.' "Phoned to mom" has the "to" in the ending. "Will arrive" is the by-vehicle word. Max is acting quickly, as a man does when he's frightened.
-- 'We will definitely have a big wedding!' Russians "play" a wedding, the same word as for a game. The Russian "definitely" is a long, firm word. Max is determined, and the determination is new.
-- 'Max, are you saying this seriously right now?' "Seriously" is the adverb from the serious conversation. Vika is cautious. She thinks he might be joking.
-- 'If there is not enough money, we will take a loan.' "Will not suffice" is the future of "enough". "Of money" has the "of" ending. "Take" is the command word. Max has solved the problem.
-- 'On Monday I will move in with you.' "On Monday" uses the small word for "in". "Move across" has the prefix for "across". Max has worked out the whole plan, and he's cheerful.
-- 'We will wait for the baby together peacefully.' "Wait for a baby" is "wait a baby", with no "for". "Together" and "peacefully" are two warm words. Max is a happy dreamer.
-- 'Wait, what baby are you talking about?' Vika's "what" has the little "still" in front, as in "what secret". She has no idea what he means. Her tone changes at once.
-- 'Maybe we will name him Zhenya?' "Zhenya" is short for both Evgeny and Evgeniya, so it fits a boy or a girl. "Will name" is a short future. Max has even thought of the name.
-- 'It will be a handsome name — Evgeny Maksimovich!' A person's first name and father's name make a respectful address, as with Dmitry Vladimirovich. "Maksimovich" is "son of Maksim". Max imagines his baby son.
-- 'And if a girl is born, we will name her Evgeniya.' "Will be born" has the -sya, as if the baby "births itself". The girl's name ends in -a. Max has thought of everything.
-- 'Do you like this plan, darling?' "Is it pleasing to you" is the Russian. "Darling" means "dear". Max asks like a man who has solved a problem.
+- 'Vika, I have been thinking about your words.' "Podumal nad" is "thought over", literally "thought above". After "nad", "tvoi slova" becomes "tvoimi slovami". "Tut" is "here", a filler meaning "just now".
+- 'And what did you come up with, Max?' "Nadumal" is "thought up", "dumat" with na- for a result. "Zhe" adds "so" or "then". Vika waits to hear it.
+- 'I called mom, my parents are coming soon.' "Pozvonil mame" is "rang to mum": "mama" becomes "mame". "Priedut" is "will arrive", for arriving by car or train, not on foot.
+- 'We will definitely have a big wedding!' Russians "play" a wedding: "sygraem svadbu", the verb of "igrat", "to play". "Obyazatelno" is "definitely". Max said it earlier to Kostya: "Potom svadba, a potom deti!".
+- 'Max, are you saying this seriously right now?' "Seryozno" is "seriously", from Vika's own "Nam nado seryozno pogovorit". "Ty eto govorish" is "you this are saying". Vika is not sure he means it.
+- 'If there is not enough money, we will take a loan.' "Ne khvatit deneg" is "money will not suffice", with "dengi" turning into "deneg". "Vozmyom" is "we will take", and "kredit" is "loan".
+- 'On Monday I will move in with you.' "V ponedelnik" is "on Monday", with "v", "in". "Pereedu" is "I will move": pere-, "across", plus the riding verb of "priedut". "K tebe" is "to you".
+- 'We will wait for the baby together peacefully.' "Zhdat rebyonka" is "wait the baby", with no word for "for". "Vmeste" is "together" and "spokoyno" is "calmly". Max has it all planned.
+- 'Wait, what baby are you talking about?' "Kakoy eshchyo rebyonok" is "what other baby", the pattern of Vika's "Kakoy eshchyo sekret?". "Podozhdi" is "wait". Her tone changes at once.
+- 'Maybe we will name him Zhenya?' "Zhenya" is short for both Evgeny and Evgeniya, so it fits a boy or a girl. "Nazovyom" is "we will name", the verb in Barinov's "Nazovi tochnuyu tsenu". "Mozhet" is "maybe".
+- 'It will be a handsome name — Evgeny Maksimovich!' A first name plus the father's name, like Dmitry Vladimirovich, is the polite form of address. "Maksimovich" is "son of Maksim". "Krasivoe imya" is "beautiful name".
+- 'And if a girl is born, we will name her Evgeniya.' "Roditsya" is "will be born", with -sya on the end. "Devochka" is "little girl". The girl's name, "Evgeniya", ends in -a.
+- 'Do you like this plan, darling?' "Tebe nravitsya" is "to you is pleasing", the Russian for "you like". "Dorogaya" is "dear" or "darling", the word Barinov used to Vika: "dorogaya Viktoriya".
