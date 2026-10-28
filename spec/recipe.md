@@ -7,12 +7,12 @@ Adapted from the project's recipe. Every scene becomes one short listening story
   no exclamations, no hype, no innuendo. Reassure, don't perform.
 - Target-language speakers. Each scene has at most **three** speaking roles besides the narrator; fewer is better.
 
-| show language | protagonist role key (always present) | other role keys (any name, voice from this pool) |
+| show language | lead role key (optional, fixed voice) | other role keys (any name, voice from this pool) |
 |---|---|---|
 | ru (Russian) | `anya` -> voice `alisa` | `anja` or `angelina` (e.g. `chef`, `lena`, `seller`) |
 | fr (French)  | `lea`  -> voice `lucie` | `emilie`, `theo`, `marcel` |
 
-The protagonist key is the *viewpoint character* of the scene retold for the learner (the listener's stand-in).
+The lead key (`anya`/`lea`) is for ONE character per show (the lead), never a free slot for whoever is the scene's viewpoint; it need not be in every scene.
 Other roles get a display name in `labels` (role -> name in the target language). Each role has its own voice.
 Characters from the show who have no voice are spoken about by the narrator or folded into the nearest role.
 
@@ -49,3 +49,9 @@ Characters from the show who have no voice are spoken about by the narrator or f
   no guillemets in spoken lines.
 - Russian: Cyrillic only in spoken lines (no Latin letters).
 - Split sentences with `. ! ? …`; each segment is 1-2 sentences.
+
+## Added rules (see FEEDBACK.md, 2026-10-28)
+- Part 5 ends with a **new** short farewell line, never a repeat of a story line.
+- A character keeps **one role key and one voice for the whole show**; `characters.md` lists every role key you use
+  (a line `Story role key / voice: \`key\` -> voice`). The `anya`/`lea` slot is only for the show's lead;
+  see FEEDBACK.md section "Voices".

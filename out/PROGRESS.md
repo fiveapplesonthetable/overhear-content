@@ -2,7 +2,7 @@
 
 Order for this run (set by the project owner, overriding the README priority list): Domashniy Arest S1 e01-e12
 and Dix pour cent S1-S4 (all 24 episodes) first, worked in parallel, each show in episode order; then Kukhnya S1
-e01-e20, then the remaining Kukhnya episodes as their dual sidecars appear. Quality over speed: every scene complete
+e01-e20, then the remaining Kukhnya episodes (S2 e04 - S6 e20) from their Russian-only `eNN.ru.srt` transcripts; no English dual sidecars are coming, so do not wait for them (see README priority 5 and FEEDBACK.md). Quality over speed: every scene complete
 and checked, no shortcuts.
 
 | show | episode | scenes | merged | status |
