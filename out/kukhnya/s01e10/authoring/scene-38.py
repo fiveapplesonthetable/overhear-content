@@ -32,7 +32,7 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Maxim, did you think that I would get scared?\' She calls him "Maksim", in full. "Get scared" is a future after "that", as in English. Vika is calm, and her calm is worse than anger.'),
-    (1, None, '\'I simply made you a beautiful proposal.\' Russians "make a proposal" to propose marriage. The Russian for "proposal" is also a sentence in grammar. Max says it with an innocent face.'),
+    (1, None, '\'I simply made you a beautiful proposal.\' Russians "make a proposal" to propose marriage. In Russian, "proposal" is also a sentence in grammar. Max says it with an innocent face.'),
     (2, None, '\'You wanted to test my courage now?\' "Test" covers checking, as at the banquet. "Courage" grows out of "brave". Vika sees what Max was doing, and she says it back to him.'),
     (3, None, '\'I am ready to create a strong family with you.\' "Create" is a grand word. "Strong" matches in "strong tea". Max talks as if he were reading a vow.'),
     (4, None, '\'Are you confident in your loud words?\' "Your own" is the word that marks the speaker\'s own words. "Loud" is the cousin of "loudly". Vika puts a doubt into a question.'),

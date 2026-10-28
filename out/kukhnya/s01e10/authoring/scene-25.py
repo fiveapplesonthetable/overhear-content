@@ -31,7 +31,7 @@ STORY = [
 ]
 WALK = [
     (0, None, '\'Max, my friend, what is happening to you right now?\' "With you" is the "what is happening with" question again. Kostya has noticed that Max is not himself. He is a good friend, and he asks straight.'),
-    (1, None, '\'Kostya, I still cannot believe it.\' "Up to these" is how Russian says "still". "Believe" has a prefix, "come to believe". Max stares into the distance as he says it.'),
+    (1, None, '\'Kostya, I still cannot believe it.\' "Up to these" is the Russian way to say "still". "Believe" has a prefix, "come to believe". Max stares into the distance as he says it.'),
     (2, None, '\'You look very pale and terribly frightened.\' "Look" here is "appear", not "look at". The word for "terribly" stands for "scary". Kostya describes his friend in two words, and it\'s accurate.'),
     (3, None, '\'I was just told the craziest news.\' Russian says "to me just now told", with "they" implied. "Crazy" is built on "without mind", a good picture. Max has no one to blame, so it is just "they".'),
     (4, None, '\'Did the Chef want to kick you out of the kitchen again?\' "Drive out" was used about the family later in the episode. Kostya assumes the chef is the problem, as usual. That is how things have always been.'),

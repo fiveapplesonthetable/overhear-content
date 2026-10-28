@@ -38,7 +38,7 @@ WALK = [
     (4, None, '\'Well, in taste everything is simply excellent!\' "By taste" uses the small word for "by". The guest is satisfied. He has no idea what he has tasted.'),
     (5, None, '\'In our restaurant it cannot be any other way.\' "Otherwise" and "cannot be" are two short phrases. Barinov preens, and it\'s his best performance.'),
     (6, None, '\'Waiter, what is the score in the match now?\' "Score" echoes the one in the owner\'s scene. "In the match" has the ending for "in". He asks a waiter in the middle of a sales pitch.'),
-    (7, None, '\'The score there is three-three now, our guys tied it up!\' "Played back" is how Russian says "equalised". "Ours" is a way to say "our guys", our team. The guest shares the football news.'),
+    (7, None, '\'The score there is three-three now, our guys tied it up!\' "Played back" is how Russians say "equalised". "Ours" is a way to say "our guys", our team. The guest shares the football news.'),
     (8, None, '\'They had not tied it up like that for twenty years in a row.\' "In a row" is one word. "Twenty years" uses "let", the form after twenty. The guest is amazed, and so is everyone.'),
     (9, None, '\'And today they suddenly scored three quick goals!\' "Suddenly" is the "vdrug" from the cooks\' scene. "Hit in" is how you score a goal. The guest recounts it with joy.'),
     (10, None, '\'Did Spartak really let victory slip away in the end again?!\' "Let slip away" is a strong word, as if victory were a fish. "Really" is "neuzheli". Barinov is on the edge of tears.'),

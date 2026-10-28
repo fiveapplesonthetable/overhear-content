@@ -27,7 +27,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, you definitely should not play poker.' "To you not worth it" is the Russian for "you shouldn't". The Russian for "worth" also means "costs". Vika teases, and the teasing is affectionate.
+- 'Max, you definitely should not play poker.' "To you not worth it" is the Russian for "you shouldn't". In Russian, "worth" also means "costs". Vika teases, and the teasing is affectionate.
 - 'You do not know how to bluff calmly at all.' "Know how to" is the skill word. "Calmly" matches the caviar scene's "calm". Vika has watched him, and she knows his tells.
 - 'What was all this silly deception for anyway?' "To what" is Russian for "what for". "Deception" is the noun for the word "deceive". Max is half annoyed, half relieved.
 - 'I just wanted to test your initial reaction.' "Test" covers checking. "Reaction" is borrowed. "First" in front of it gives "initial". Vika says it lightly.

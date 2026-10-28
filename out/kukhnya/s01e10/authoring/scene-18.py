@@ -41,5 +41,5 @@ WALK = [
     (8, None, '\'And what is going on with our stove?\' "There" in the middle of the sentence is a filler. "With our stove" has the "with" endings. Vika asks again, because she doesn\'t believe the first answer.'),
     (9, None, '\'The craftsmen are already finishing the complex repair.\' "Finish" is the one from the dessert. "Complex" is the same word as "difficult". Barinov invents a repair, and each word is more official than the last.'),
     (10, None, '\'I rely on your honesty, chef.\' "Hope on" is the Russian for "rely on". The word for honesty grows from "honest". It\'s a trust she gives him, and he does not deserve it.'),
-    (11, None, '\'I always keep my manly word.\' Russians "hold" their word, where English says "keep". The Russian for "manly" comes from "husband" or "man". Barinov swears on his word, and the audience knows better.'),
+    (11, None, '\'I always keep my manly word.\' Russians "hold" their word, where English says "keep". In Russian, "manly" comes from "husband" or "man". Barinov swears on his word, and the audience knows better.'),
 ]

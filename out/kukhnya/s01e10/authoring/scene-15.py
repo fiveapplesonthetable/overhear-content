@@ -37,7 +37,7 @@ WALK = [
     (4, None, '\'No, I am betting on a CSKA victory!\' Russians say the letters of the army club\'s initials, "tse-es-ka". They are Spartak\'s great rival. Barinov knows what he is doing, and he says it clearly.'),
     (5, None, '\'Are you not joking? They are your enemies!\' "Enemies" is a strong word for rivals. The little "zhe" is the "after all" again. Tamara is shocked. It is like a lifelong fan betting on his club\'s greatest rival.'),
     (6, None, '\'I bet exactly one hundred thousand rubles!\' The word for "exactly" also means "level" or "even". "I put" is the bet word again. Barinov names the sum, and the sum is large.'),
-    (7, None, '\'Do you have that kind of money with you?\' "At you there is with self" is how Russian says "do you have on you". The Russian for "such" is the one in "such a long one". She is practical.'),
+    (7, None, '\'Do you have that kind of money with you?\' "At you there is with self" is the Russian way to say "do you have on you". The Russian for "such" is the one in "such a long one". She is practical.'),
     (8, None, '\'Reserve the bet, I will bring cash soon.\' "Reserve" is the English word with a Russian ending. "Cash" is the "available" money again. Barinov asks for credit, and credit is a delicate thing in a betting shop.'),
     (9, None, '\'All right, your bet is accepted at the office.\' "Accepted" has a feminine ending because "bet" is feminine. "Office" is an old word, and in this world it means the betting shop. Tamara agrees, but not happily.'),
     (10, None, '\'Thank you, money right now matters more than anything to me.\' "More important" is "important" with the -ee ending of the comparative. "Than everything" has the "of" form. Barinov says it as if it were a principle.'),

@@ -33,7 +33,7 @@ WALK = [
     (0, None, '\'Senya, come over here for a second.\' "Come up" is the walking-up word. "Here" is the plain one. Fedya calls his friend over, with a worried look.'),
     (1, None, '\'What is it, Fedya? Is everything ready?\' "What such" is the "what is it" from earlier. The second question has only a rising voice. Senya is relaxed, and he wants to go on.'),
     (2, None, '\'I think we did not finish dyeing it.\' The prefix "do-" means "to the end", so "finish painting". "It seems to me" is the usual hedge. Fedya has seen something the other missed.'),
-    (3, None, '\'Come on, it is completely black!\' "Drop it" is how Russians say "come on". "Absolutely" is a strong word. Senya is dismissive. He is also trying to convince himself.'),
+    (3, None, '\'Come on, it is completely black!\' "Drop it" is what Russians say for "come on". "Absolutely" is a strong word. Senya is dismissive. He is also trying to convince himself.'),
     (4, None, '\'What if Chef sees light caviar eggs?\' "What if" is made of "and suddenly". A single egg is "ikrinka", the caviar with a singular ending. Fedya worries about a few pale eggs.'),
     (5, None, '\'Nobody will notice anything suspicious.\' "Nothing of suspicious" has the "of" ending. "Suspicious" is built on "suspicion". Senya answers calmly, like a man selling a car.'),
     (6, None, '\'If the caviar were not like real caviar,\' "If would" is how Russian marks an unreal "if". The little "by" is the same one as in "I would drink". Senya builds an argument.'),

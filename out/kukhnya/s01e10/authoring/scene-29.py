@@ -42,6 +42,6 @@ WALK = [
     (8, None, '\'Pike caviar is always yellow in color.\' "Is usually" is the habit word, "happens to be". "Of yellow colour" is the way Russian describes a quality. Senya defends the pike, and also his own purchase.'),
     (9, None, '\'And the guests expect expensive black caviar.\' "Expect" is "wait", with no "for". "Expensive" is the "dear" word. Barinov names the gap between the box and the menu.'),
     (10, None, '\'What are we to do with this color?\' The little "zhe" is back. "With this colour" has the "with" ending. Senya asks his chef, as a good cook asks. He has no plan of his own.'),
-    (11, None, '\'I have got a clever plan.\' "Appeared at me" is how Russian says "I\'ve had an idea". "Cunning" was used of the rat. Barinov grins, and the audience knows trouble is coming.'),
+    (11, None, '\'I have got a clever plan.\' "Appeared at me" is how Russians say "I\'ve had an idea". "Cunning" was used of the rat. Barinov grins, and the audience knows trouble is coming.'),
     (12, None, '\'I am ready to help you in this business.\' "Ready" is the one from "ready to play". "Help" is the root of the Russian for assistant. "In this matter" means "business" or "matter". Senya is in.'),
 ]

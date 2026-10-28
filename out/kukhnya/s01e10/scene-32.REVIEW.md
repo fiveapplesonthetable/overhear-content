@@ -34,6 +34,6 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 - 'Give me a spoon, I want to taste.' "Give" is a short command. "Taste" is the "try" word. Fedya is greedy, and the caviar is a temptation.
 - 'Taste a tiny bit, just do not eat it all.' "A tiny bit" doubles a word that means "almost not", the "almost" of the knife scene. "Eat up" is what Alisa used. Senya is possessive.
 - 'Listen, the taste is simply magnificent.' Russians say "listen" to get someone's attention, not only to ask them to hear. "Magnificent" is the one Louis used for his cake. Fedya is impressed.
-- 'Our guests will be in total delight.' "In full delight" is how Russian says it. "Will be" is the usual future. Senya counts on the guests to be easily pleased.
+- 'Our guests will be in total delight.' "In full delight" is the Russian way to say it. "Will be" is the usual future. Senya counts on the guests to be easily pleased.
 - 'The main thing is that Chef suspects nothing.' "Suspect" comes from "suspicion". After "that", it takes its past form. Fedya names the only real risk, and nothing is more dangerous.
 - 'Chef will not find out anything, hide the jar!' "Will find out" is what Vika used. "Hide" is the hide-and-seek word, now a command. Senya acts like a man with a secret.

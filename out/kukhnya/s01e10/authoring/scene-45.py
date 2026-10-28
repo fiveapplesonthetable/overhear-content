@@ -32,7 +32,7 @@ STORY = [
     ('max', 'Или шанс открыть в себе новые таланты.', 'Or a chance to discover new talents within oneself.', [(341, 'Или возможность проявить себя с другой стороны, открыть новые таланты.')], ''),
 ]
 WALK = [
-    (0, None, '\'Max, you definitely should not play poker.\' "To you not worth it" is the Russian for "you shouldn\'t". The Russian for "worth" also means "costs". Vika teases, and the teasing is affectionate.'),
+    (0, None, '\'Max, you definitely should not play poker.\' "To you not worth it" is the Russian for "you shouldn\'t". In Russian, "worth" also means "costs". Vika teases, and the teasing is affectionate.'),
     (1, None, '\'You do not know how to bluff calmly at all.\' "Know how to" is the skill word. "Calmly" matches the caviar scene\'s "calm". Vika has watched him, and she knows his tells.'),
     (2, None, '\'What was all this silly deception for anyway?\' "To what" is Russian for "what for". "Deception" is the noun for the word "deceive". Max is half annoyed, half relieved.'),
     (3, None, '\'I just wanted to test your initial reaction.\' "Test" covers checking. "Reaction" is borrowed. "First" in front of it gives "initial". Vika says it lightly.'),

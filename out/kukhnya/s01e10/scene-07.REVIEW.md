@@ -29,9 +29,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 - 'Max, we need to talk seriously!' "To us it's necessary" is a casual way to say "we must". The word is a cousin of the "needed" one. Vika has had enough waiting, and she says so.
 - 'Hey, Vika! Glad to see you.' "Privet" is the casual hello. "Glad" ends bare, because Max is a man. His smile is as false as the greeting. It's the reaction of a man who has seen the boss's niece coming.
-- 'Oh, Kostya is calling, sorry!' The Russian for "rings" is the one used for the phone. And "sorry" is the casual command from the first scene, "excuse me". Max waves his phone as he says it.
+- 'Oh, Kostya is calling, sorry!' In Russian, "rings" is the one used for the phone. And "sorry" is the casual command from the first scene, "excuse me". Max waves his phone as he says it.
 - 'Hello, Kostya, speak louder!' The phone word is back. "Louder" is the short form of "loudly" with a new ending. Max shouts into a phone that has not rung, and Vika is watching.
-- 'Hard to hear, I will come over right now!' "Badly audible" is how Russian says "I can hardly hear". "Come over" is the same walking-up word as before. Max takes a step toward the door as he speaks.
+- 'Hard to hear, I will come over right now!' "Badly audible" is what Russians say for "I can hardly hear". "Come over" is the same walking-up word as before. Max takes a step toward the door as he speaks.
 - 'Max, wait, do not leave!' The "away" in "do not go away" is the little u- on the front. Its opposite is the pri- of "come", and you can hear them in "uhodit" and "prihodit". Vika isn't fooled.
 - 'Vika, this is a very urgent matter!' The words "urgent" and "matter" are both old friends from earlier scenes. Max stacks them one on the other. It sounds important, and that's the point.
 - 'Kostya, why did you call?' "Chego" is a casual way to ask "why", more relaxed than the usual word. Max asks Kostya quickly, because he needs the answer to be useful. It's a clumsy question.
