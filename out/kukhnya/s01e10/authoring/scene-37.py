@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "Furious about the false rumor, Victoria confronts Chef Barinov and Max in the dining area. To turn the tables on Vika in front of her sister Tanya, Max steps up boldly, introduces himself as the future father, and suddenly asks Victoria to marry him. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the romantic bluffing, bold public theatricals, and marriage proposal idioms."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Trapped by his own dramatic theatricals in front of Tanya and Chef Barinov, Max takes a bold gamble by publicly proposing to Victoria. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to bluff' and 'close' — you will catch every word right away. See you next time!"
+INTRO = "Barinov's lie about Vika has come out, and Vika wants him to explain. Max, who has been dragged into the mess, decides to make a scene of his own. Here's the scene in Russian first."
+OPENER = "Let's take it slowly now."
+TRANSITION = "And here's the whole scene again."
+OUTRO = "Max has proposed in front of Vika's sister, and nobody knows whether he means it. The restaurant is in uproar. Catch you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Витя, зачем ты обманул Таню про меня?', 'Vitya, why did you lie to Tanya about me?', [(259, 'что Таня про меня')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Я говорю совершенно серьёзно перед твоей сестрой!', 'I am speaking completely seriously in front of your sister!', [(274, 'блефуешь')], ''),
 ]
 WALK = [
-    (0, None, "'Vitya, why did you lie to Tanya about me?' Marching over to Viktor with Tanya, Vika demands to know why he told her sister that rumor."),
-    (1, None, "'Chef, I can explain everything in detail now.' Seeing his chance to push his counter-prank in front of witnesses, Max steps in and offers to explain everything."),
-    (2, None, "'You, boy, picked the wrong girl today!' Glaring at Max, Vika warns him that he picked the wrong woman to mess with today."),
-    (3, None, "'And now we will put on a real fun show.' Not backing down, Max whispers that it is time to put on a real show."),
-    (4, None, "'Hello, Tatyana, let's get acquainted, I am Maxim.' Turning to Tanya with a polite bow, Max introduces himself as Maxim."),
-    (5, None, "'Max, stop this silly circus immediately!' Mortified, Vika hisses at him to stop this ridiculous circus at once."),
-    (6, None, "'I am the father of your future wonderful nephew!' Playing the proud fiancé, Max announces to Tanya that he is the father of her future nephew."),
-    (7, None, "'You are behaving like a complete madman!' Vika tells him he is acting like a complete lunatic."),
-    (8, None, "'We are now the closest family members.' Max beams and tells Tanya that they are practically one big family now."),
-    (9, None, "'I want to say something important to you all.' Dropping to one knee or stepping forward dramatically, he asks for everyone's attention."),
-    (10, None, "'Vika, marry me right now!' Right in front of Tanya and Viktor, Max asks Vika to marry him on the spot."),
-    (11, None, "'You are simply insolently and openly bluffing now!' Knowing he is calling her bluff, Vika hisses that he is brazenly bluffing."),
-    (12, None, "'I am speaking completely seriously in front of your sister!' Max replies with a straight face that he is dead serious in front of her sister."),
+    (0, None, '\'Vitya, why did you lie to Tanya about me?\' "Deceived" is what Kostya used about never deceiving Vika. "About me" uses the same small word as "about the chef". Vika uses the friendly "Vitya", which makes it sound pointed.'),
+    (1, None, '\'Chef, I can explain everything in detail now.\' "In detail" grows out of a word for a thing described fully. "Can" and "explain" go with "everything". Max steps in, though no one has asked him.'),
+    (2, None, '\'You, boy, picked the wrong girl today!\' "Boy" is "malchik", the little-boy word, and it is an insult here. "Not that one" means "the wrong one". Vika is furious, and she scolds in a cold, clear voice.'),
+    (3, None, '\'And now we will put on a real fun show.\' "Arrange" stands for staging something, the same as the chef\'s scandal. "Cheerful" is a good adjective for a show. Max has decided to play along.'),
+    (4, None, '\'Hello, Tatyana, let\'s get acquainted, I am Maxim.\' The name "Tatyana" is the full form of Tanya, and "Maksim" the full form of Max. Using them is formal. "Get acquainted" has the -sya, "acquaint ourselves".'),
+    (5, None, '\'Max, stop this silly circus immediately!\' "Stop" is the command you\'ve heard. "Circus" in Russian means a farce, just as in English. Vika is not amused, and she says so.'),
+    (6, None, '\'I am the father of your future wonderful nephew!\' "Future" is easy to guess. "Nephew" is the masculine of the "niece" word. Max invents a role for himself, and he enjoys it. Vika is horrified.'),
+    (7, None, '\'You are behaving like a complete madman!\' "Lead yourself" is "behave". "Madman" is built from "went from the mind", the phrase Senya used. Vika picks the same words as the cook, and that\'s no accident.'),
+    (8, None, '\'We are now the closest family members.\' "Closest" and "kin" are two words you have heard separately. Max puts them together. He is making a speech, and he overdoes it.'),
+    (9, None, '\'I want to say something important to you all.\' "Koe-chto" means "something in particular". The "koe-" prefix works like the "-to" ending. Max prepares his audience for his announcement.'),
+    (10, None, '\'Vika, marry me right now!\' A woman "goes out behind a husband": "vykhodi za menya zamuzh". The last word is "za" plus "muzh", "behind-husband". It is the Russian way to say a woman marries. Max says it loudly.'),
+    (11, None, '\'You are simply insolently and openly bluffing now!\' "Boldly" and "openly" are two adverbs. "Bluff" is a borrowed word with a Russian ending. Vika sees through him at once. She refuses to be rattled.'),
+    (12, None, '\'I am speaking completely seriously in front of your sister!\' "In front of" is the small word "pered". "Seriously" is the one used by the chef. Max insists, and he is committed to the show.'),
 ]

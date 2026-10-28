@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'nagiyev': 'Нагиев'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the restaurant office, Chef Viktor Barinov urgently needs money to place a guaranteed bet on a football derby. He calls restaurant owner Dmitry Nagiyev, hoping to secure an advance, but Dmitry sees right through him. Listen to their phone conversation in Russian first, and then we will examine each sentence.'
-OPENER = 'Now, let us examine the vocabulary and phrasing of this sharp phone exchange.'
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "A comedic interaction highlighting Dmitry Nagiyev's stubborn refusal to fund Barinov's gambling habits. Next time you watch the episode, listen for the Russian expressions for 'advance' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "Barinov has lost money and wants more to bet. He phones Dmitry Nagiyev, the owner of Claude Monet, in the hope of an advance. Here's the call in Russian first."
+OPENER = "Let's take it slowly now."
+TRANSITION = 'And once more, the whole call.'
+OUTRO = "Nagiyev won't lend a kopeck, and Barinov hangs up in a temper. The chef will have to look for money elsewhere. Speak soon."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('barinov', 'Дмитрий Владимирович, доброе вам утро!', 'Dmitry Vladimirovich, good morning to you!', [(67, 'Дмитрий Владимирович, доброе вам утро.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('barinov', 'Дмитрий, ты пожалеешь об этом!', 'Dmitry, you will regret this!', [], ''),
 ]
 WALK = [
-    (0, None, "'Dmitry Vladimirovich, good morning to you!' Viktor greets his boss on the phone with polite cheerfulness."),
-    (1, None, "'Hey, Viktor, I am not giving you money!' Dmitry immediately shuts down any financial requests."),
-    (2, None, "'I already paid you two paychecks.' Dmitry reminds the chef of his previous advance payments."),
-    (3, None, "'What did you want?' Dmitry demands to know the real reason behind the phone call."),
-    (4, None, "'Why, I am not calling for money!' Viktor pretends that his intention is purely social."),
-    (5, None, "'Really? Then why are you calling?' Suspicious right away, Nagiyev asks why Viktor is calling him if everything at the restaurant is fine."),
-    (6, None, "'Tonight is an important football match.' Viktor tries to steer the topic toward sports."),
-    (7, None, "'Is your beloved Spartak playing again?' Dmitry brings up the chef's well-known obsession."),
-    (8, None, "'Yes, and I have reliable insider info!' Viktor hints at his guaranteed secret source."),
-    (9, None, "'Viktor, sports betting is dangerous.' Dmitry warns his impulsive head chef against gambling."),
-    (10, None, "'I need a small advance until tomorrow.' Viktor finally confesses his urgent monetary need."),
-    (11, None, "'I know your advances, Viktor.' Dmitry remains completely unmoved by the plea."),
-    (12, None, "'You will not get a single kopeck!' Refusing to fund another gambling spree, Nagiyev snaps that Viktor will not get a single kopeck."),
-    (13, None, "'Dmitry, you will regret this!' Viktor shouts frustratedly before hanging up. Now, let us listen to the complete scene again to practice your comprehension."),
+    (0, None, '\'Dmitry Vladimirovich, good morning to you!\' Russians address respected people by first name and father\'s name, here Dmitry, with a father\'s name ending in "-ovich", "son of". It is polite and a little old-fashioned. "Good morning" is "kind morning", and it ends in -e.'),
+    (1, None, '\'Hey, Viktor, I am not giving you money!\' The term for "hey" here is the casual "zdorovo", the same as "great", from "health". Nagiyev uses "ty" with the chef. And "money" gets the "of" ending after "not".'),
+    (2, None, '\'I already paid you two paychecks.\' "Two" is a feminine form here, because "salary" is feminine. "Gave out" means handing out wages. Nagiyev is counting, and the count is against Barinov.'),
+    (3, None, '\'What did you want?\' "Chego" is the form of "what" that goes with "want", and it sounds easy and casual. Nagiyev is half laughing. He knows exactly what the chef is after.'),
+    (4, None, '\'Why, I am not calling for money!\' The little "da" here doesn\'t mean "yes". It works like "why" or "well" at the start. "For money" is Russian for "in order to get money". Barinov protests too much.'),
+    (5, None, '\'Really? Then why are you calling?\' Here "da" has the rising voice of "yes?" meaning "really?". "Zachem" is "what for", from the dining room. Nagiyev is amused, and the question is a good one.'),
+    (6, None, '\'Tonight is an important football match.\' "Today in the evening" is how Russians say "tonight". "Football" is made from the English word. Barinov names the thing that has been on his mind all week.'),
+    (7, None, '\'Is your beloved Spartak playing again?\' "Beloved" is "favourite", the same as in the first scene. Nagiyev knows his chef well. The name of the club is masculine, so the word before it is too.'),
+    (8, None, '\'Yes, and I have reliable insider info!\' The little "there is" appears again: "at me there is". "Reliable" also means "faithful". A tip from a friend of a friend is, for a gambler, solid truth.'),
+    (9, None, '\'Viktor, sports betting is dangerous.\' "Bets on sport" has the plural, so "dangerous" does too. Nagiyev sounds like a wise uncle. It is good advice, and he knows it won\'t be taken.'),
+    (10, None, '\'I need a small advance until tomorrow.\' What russian calls "advance" is just the English word. "Until tomorrow" is "to tomorrow". Barinov makes it sound like a tiny favour, and the word "small" does the work.'),
+    (11, None, '\'I know your advances, Viktor.\' Nagiyev puts "advance" into the plural. That is a joke, since it means there have been many. He sees through the chef and enjoys it.'),
+    (12, None, '\'You will not get a single kopeck!\' "Not of a kopeck" has the double negative for emphasis. A kopeck is the hundredth part of a ruble. Nagiyev is a rich man, and his refusal is complete.'),
+    (13, None, '\'Dmitry, you will regret this!\' Barinov drops the father\'s name, and with it the politeness. "Regret" means feel sorry. The chef is furious. He ends the call with a threat that he cannot carry out.'),
 ]

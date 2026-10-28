@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'senya': 'Сеня'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the quiet back room of Claude Monet, Senya opens the delivery container to display five kilograms of freshly bought pike caviar. While the price is extraordinarily low, the bright golden grains look nothing like the costly black sturgeon caviar expected by diners. Let us listen to their discussion in Russian first.'
-OPENER = "Now let us examine Senya and Viktor's discussion about the caviar line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With five kilograms of bright yellow pike caviar before them, Viktor and Senya prepare to embark on a daring culinary experiment to fool the restaurant's discerning guests. Next time you watch the episode, listen for the Russian expressions for 'appetizingly' and 'to happen' — you will catch every word right away. See you next time!"
+INTRO = "The box is open, and the chef is looking at what Senya has brought: pike caviar, not black caviar. The price is low and the colour is wrong. Here's the scene in Russian first."
+OPENER = "Let's go through it slowly."
+TRANSITION = "Now we'll hear it all again."
+OUTRO = 'The caviar is cheap and yellow, and the chef already has a plan to fix both. Senya is ready to help. See you in the next scene.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('senya', 'Вот товар, как вы заказывали, шеф.', 'Here is the goods, as you ordered, chef.', [(204, 'вы заказывали')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('senya', 'Я готов помочь вам в этом деле.', 'I am ready to help you in this business.', [], ''),
 ]
 WALK = [
-    (0, None, "'Here is the goods, as you ordered, chef.' Presenting the crate, Senya says he brought the exact amount the chef asked for."),
-    (1, None, "'Open the box and show me the caviar.' Barinov tells him to open the box and show him the caviar."),
-    (2, None, "'This is excellent pike caviar, five kilograms.' Senya proudly announces five kilograms of prime pike roe."),
-    (3, None, "'It looks very beautiful and appetizing.' Viktor admits the golden grains look plump and appetizing."),
-    (4, None, "'The price is only two hundred rubles per kilogram.' Even better, Senya reveals the price was only two hundred rubles a kilo."),
-    (5, None, "'This is indeed a very cheap price.' Viktor marvels at how dirt-cheap that is compared to sturgeon caviar."),
-    (6, None, "'We saved the restaurant a lot of money.' Senya beams that they just saved the restaurant a small fortune."),
-    (7, None, "'But the color of this caviar is too yellow.' Then Viktor spots the obvious flaw: pike caviar is bright yellow."),
-    (8, None, "'Pike caviar is always yellow in color.' Senya shrugs and points out that pike roe is always yellow."),
-    (9, None, "'And the guests expect expensive black caviar.' Barinov reminds him that the VIP guests in the dining room ordered expensive black caviar."),
-    (10, None, "'What are we to do with this color?' Scratching his head, Senya asks what they can do about the yellow color."),
-    (11, None, "'I have got a clever plan.' A sly grin spreads across Viktor's face as a sneaky idea hits him."),
-    (12, None, "'I am ready to help you in this business.' Senya immediately volunteers to help pull off the trick."),
+    (0, None, '\'Here is the goods, as you ordered, chef.\' "Goods" is singular again in the Russian, so "here is the goods". "As you ordered" uses the order word. Senya is proud of himself. He says it with a flourish.'),
+    (1, None, '\'Open the box and show me the caviar.\' Both orders are bare commands. "Open" is the one you heard in the previous scene. Barinov is eager, and he can\'t wait.'),
+    (2, None, '\'This is excellent pike caviar, five kilograms.\' "Pike" turns into a describing word, "pike\'s", for the caviar. "Kilograms" here has its full ending. Senya states the facts, and the facts are not what the chef wanted.'),
+    (3, None, '\'It looks very beautiful and appetizing.\' "Appetizing" is made from "appetite". "Looks" is the "appear" word. Barinov is half pleased, because he\'s not looking at the colour yet.'),
+    (4, None, '\'The price is only two hundred rubles per kilogram.\' "Only" is made from "all", so "in all two hundred rubles". "Per" is the small word for "for". Senya has done the sums and thinks he\'s a hero.'),
+    (5, None, '\'This is indeed a very cheap price.\' "Cheap" is the opposite of "dear". The word for "indeed" is the same one used by Barinov at the tasting. He is pleased with the price, but only a little.'),
+    (6, None, '\'We saved the restaurant a lot of money.\' Russian has two words for "save". This one means "keep", as in not spending. The other means "rescue". Senya speaks as if he had done the restaurant a favour.'),
+    (7, None, '\'But the color of this caviar is too yellow.\' "Too" is back from the little hotplate. "Colour" and "yellow" are both short. Barinov spots the flaw at last, and the "but" says it.'),
+    (8, None, '\'Pike caviar is always yellow in color.\' "Is usually" is the habit word, "happens to be". "Of yellow colour" is the way Russian describes a quality. Senya defends the pike, and also his own purchase.'),
+    (9, None, '\'And the guests expect expensive black caviar.\' "Expect" is "wait", with no "for". "Expensive" is the "dear" word. Barinov names the gap between the box and the menu.'),
+    (10, None, '\'What are we to do with this color?\' The little "zhe" is back. "With this colour" has the "with" ending. Senya asks his chef, as a good cook asks. He has no plan of his own.'),
+    (11, None, '\'I have got a clever plan.\' "Appeared at me" is how Russian says "I\'ve had an idea". "Cunning" was used of the rat. Barinov grins, and the audience knows trouble is coming.'),
+    (12, None, '\'I am ready to help you in this business.\' "Ready" is the one from "ready to play". "Help" is the root of the Russian for assistant. "In this matter" means "business" or "matter". Senya is in.'),
 ]

@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "At the Claude Monet bar counter, junior cook Max notices Chef Viktor Barinov sitting gloomily with a dark expression. When Max asks what went wrong, expecting another complaint about football or hangovers, Barinov abruptly shocks him by revealing a secret about Victoria's feelings. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine this startling revelation from Barinov line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Leaving Max in absolute disbelief and questioning everything about his future with Victoria, Chef Barinov watches his bewildered expression with grim amusement. Next time you watch the episode, listen for the Russian expressions for 'to be' and 'important' — you will catch every word right away. See you next time!"
+INTRO = "Max finds Barinov in a dark mood and asks what's wrong. The chef has lost money on football, but that's not the worst of it. He has a piece of news for Max, and it's about Vika. Here's the scene in Russian first."
+OPENER = "Let's go back through it slowly."
+TRANSITION = "Now we'll hear it all again."
+OUTRO = "Max can't quite believe it, and he asks whether it's a joke. The news came from a little girl, and it will turn his day upside down. See you in the next scene."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Здравствуйте, шеф, как ваши дела сегодня?', 'Hello, chef, how are your affairs today?', [(21, 'Здрасте.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Шеф, вы точно не шутите сейчас?', 'Chef, are you definitely not joking right now?', [], ''),
 ]
 WALK = [
-    (0, None, "'Hello, chef, how are your affairs today?' Walking up to the bar counter, Max cheerfully greets Chef Barinov and asks how things are going."),
-    (1, None, "'Max, do not ask me foolish questions.' Sitting with a dark scowl, Barinov grumbles at Max not to ask him foolish questions."),
-    (2, None, "'Did you lose money on bets again?' Knowing his boss's habits, Max guesses that Viktor lost money betting on football again."),
-    (3, None, "'I would gladly drink vodka right now.' Barinov expresses this naturally by combining the word for 'now' with 'pleasure' and 'drank'."),
-    (4, None, "'What else unpleasant has happened to you?' When Barinov hints at worse trouble, Max asks what other unpleasant news has come up."),
-    (5, None, "'The matter is not at all about my bets.' Russian leaves out the word for 'to be' here, linking 'matter' directly with 'at all', followed by 'bets'."),
-    (6, None, "'Then what is the real problem?' Russian leaves out the word for 'to be' here, linking 'then' directly with 'real', followed by 'problem'."),
-    (7, None, "'I have important news for you.' Barinov leans in and announces that he has an important piece of news specifically for Max."),
-    (8, None, "'What news, chef, tell me quickly.' Intrigued and slightly nervous, Max urges the chef to tell him the news right away."),
-    (9, None, "'Aunt Vika said that she loves you.' Calling Victoria 'Aunt Vika' in his gruff way, Barinov drops the bombshell that she is in love with Max."),
-    (10, None, "'What? That simply cannot be!' Max is completely floored, blurting out that such a thing is simply impossible."),
-    (11, None, "'She herself confessed this to me.' Barinov insists it is true, claiming that Vika confessed her feelings to him in person."),
-    (12, None, "'Chef, are you definitely not joking right now?' Still reeling from shock, Max asks whether the chef is pulling a prank on him right now."),
+    (0, None, '\'Hello, chef, how are your affairs today?\' Russians ask "how are your affairs", in the plural, where we say "how are you". It\'s polite and friendly. Max has no idea what he\'s in for.'),
+    (1, None, '\'Max, do not ask me foolish questions.\' Russians "set" a question, like setting a task, so the word means "ask" in this sense. The questions take an "of" ending after the "don\'t". Barinov is short with him, as usual.'),
+    (2, None, '\'Did you lose money on bets again?\' Max uses the Russian for "lost" that means lost in a game, as the mother did in the first scene. He has guessed, and he\'s right. "Bets" has the ending for "on".'),
+    (3, None, '\'I would gladly drink vodka right now.\' A small word makes "would", so the sentence reads "I would drank". "With pleasure" is Russian for "gladly". Barinov sounds a man who wants the day to be over.'),
+    (4, None, '\'What else unpleasant has happened to you?\' "Unpleasant" is literally "not pleasant", and it takes the "of" ending after "what else". "At you happened" is the same pattern as the first scene of the episode, nearly. Max is concerned.'),
+    (5, None, '\'The matter is not at all about my bets.\' Russians say "the matter is in" something, and then the thing. So "the matter is not in my bets". It\'s a handy way to say "the point is". The chef won\'t be rushed.'),
+    (6, None, '\'Then what is the real problem?\' "In what" is the same pair as in "what is the matter". Max asks it calmly and carefully. The term for "real" is the one meaning genuine, which he has heard from Barinov himself.'),
+    (7, None, '\'I have important news for you.\' Here Russian does add the little word for "there is": "at me there is for you important news". It stresses that he has something. Barinov says "you" the casual way.'),
+    (8, None, '\'What news, chef, tell me quickly.\' "News" takes the feminine ending in the question. "Speak" here is the polite plural command, because Max is addressing the chef. The question is eager, and the chef takes his time.'),
+    (9, None, '\'Aunt Vika said that she loves you.\' Barinov repeats what his daughter said, "Aunt Vika", and keeps her way of saying it. There\'s no "she" in the Russian, only "said that loves you". It\'s the news, and it lands with a bump.'),
+    (10, None, '\'What? That simply cannot be!\' After "not", what Russian calls "this" takes its "of" form. It\'s a small oddity in Russian. "Can be" also means "maybe", which is why the line reads like a doubt as much as a denial.'),
+    (11, None, '\'She herself confessed this to me.\' The "herself" gives weight to it. "Confessed" stands for admitting something, and it ends in the woman\'s -las. Barinov says it as if he had been there.'),
+    (12, None, '\'Chef, are you definitely not joking right now?\' Max uses "definitely" and the polite "you" together, which is how you question your boss. The word for "joke" is the one Barinov used about the girl\'s mother. He is a happy man.'),
 ]

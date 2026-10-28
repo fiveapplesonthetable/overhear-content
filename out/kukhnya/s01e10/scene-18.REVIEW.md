@@ -10,8 +10,8 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Вика | Виктор Петрович, я совсем забыла. | Viktor Petrovich, I completely forgot. | #152: Забыла совсем | verbatim |
-| 2 | Вика | Вот наличные деньги на свежую икру. | Here is the cash for fresh caviar. | #152: Вот деньги на икру | verbatim |
+| 1 | Вика | Виктор Петрович, я совсем забыла. | Viktor Petrovich, I completely forgot. | #152 00:10:09: Забыла совсем | verbatim |
+| 2 | Вика | Вот наличные деньги на свежую икру. | Here is the cash for fresh caviar. | #152 00:10:09: Вот деньги на икру | verbatim |
 | 3 | Шеф | Огромное спасибо, моя дорогая Вика. | Thank you very much, my dear Vika. | new | new |
 | 4 | Шеф | Ты спасаешь наш вечерний банкет. | You are saving our evening banquet. | new | new |
 | 5 | Вика | Поставщик привезёт банку через час. | The supplier will bring the jar in an hour. | new | new |
@@ -25,7 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Here is the cash for fresh caviar.' Vika hands over cash for ingredients.
-- 'The supplier will bring the jar in an hour.' Vika says the delivery arrives soon.
-- 'Do not worry, everything is under my control.' Barinov assures her everything is fine.
-- 'I always keep my manly word.' A proud first person assertion used to build trust with a colleague. Now, let's hear Victoria deliver the restaurant funds once more.
+- 'Viktor Petrovich, I completely forgot.' "Forgot" ends in -la because Vika is a woman. Her tone is polite and formal, with his name and father's name. She has a task to finish, and she's a little sheepish.
+- 'Here is the cash for fresh caviar.' Caviar is a feminine word in Russian, so "fresh" is feminine too. "Cash" is the same one as in the bet scene. Vika hands it over, and it will be spent on something else.
+- 'Thank you very much, my dear Vika.' "Huge thank-you" is how Russians say "thanks a lot". "Dear" also means "expensive". Barinov pours on the charm, and it works.
+- 'You are saving our evening banquet.' "Saving" is from the word related to "thank you", the one that started as "God save". "Evening" is an adjective here. Barinov flatters, and he has a plan.
+- 'The supplier will bring the jar in an hour.' The term for "supplier" comes from what Russian calls "put", the same as in the bet. "Through an hour" means "in an hour". Vika lays out the plan for him.
+- 'Excellent, I will meet the courier myself.' "Meet" is for meeting someone who arrives. "Courier" is a borrowed word. Barinov's offer is a little too eager, and Vika should notice.
+- 'Please give him the money right away.' "Give over" is the "hand it over" word, and "to him" is a single short word. "Right away" is the one from the baking lesson. Vika is careful, as she always is.
+- 'Do not worry, everything is under my control.' "Don't worry" here uses a word meaning "live through", the one for stress. "Under my control" is the Russian picture of control: something is "beneath" your hand. He sounds sure.
+- 'And what is going on with our stove?' "There" in the middle of the sentence is a filler. "With our stove" has the "with" endings. Vika asks again, because she doesn't believe the first answer.
+- 'The craftsmen are already finishing the complex repair.' "Finish" is the one from the dessert. "Complex" is the same word as "difficult". Barinov invents a repair, and each word is more official than the last.
+- 'I rely on your honesty, chef.' "Hope on" is the Russian for "rely on". The word for honesty grows from "honest". It's a trust she gives him, and he does not deserve it.
+- 'I always keep my manly word.' Russians "hold" their word, where English says "keep". The russian for "manly" comes from "husband" or "man". Barinov swears on his word, and the audience knows better.

@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Костя | Шеф, вас там какая-то девушка зовёт. | Chef, some young woman is calling for you over there. | #6: Вас там какая-то девушка зовет. | verbatim |
+| 1 | Костя | Шеф, вас там какая-то девушка зовёт. | Chef, some young woman is calling for you over there. | #6 00:00:59: Вас там какая-то девушка зовет. | verbatim |
 | 2 | Шеф | Кто она такая и что ей нужно? | Who is she and what does she need? | new | new |
 | 3 | Костя | Она сказала, что пришла с телевидения. | She said that she came from television. | new | new |
 | 4 | Шеф | Я не хочу ни с кем говорить. | I do not want to talk to anyone. | new | new |
@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, some young woman is calling for you over there.' Catching Barinov in the corridor, Kostya lets him know that some young woman is asking for him.
-- 'Who is she and what does she need?' Still irritable from his hangover, Barinov demands to know who she is and what she wants.
-- 'She said that she came from television.' Kostya explains that the visitor claims to have come from a television studio.
-- 'I do not want to talk to anyone.' Russian stacks negatives here — literally 'I do not want with no one to speak' — as Barinov refuses to see anyone.
-- 'She says that the matter is very important.' Kostya adds that the young woman insists her business with the chef is very important.
-- 'I currently have absolutely no time.' Russian expresses 'I have no time' as 'at me there is no time', with 'completely' adding extra finality.
-- 'She is waiting for you near the main entrance.' Kostya points out that she is standing right by the main entrance waiting for him.
-- 'Let her come into my office.' Giving in a little, Barinov tells Kostya to send her into his office.
-- 'She asked you to come out for one minute.' Kostya relays her polite request to step outside for just sixty seconds.
-- 'Fine, Kostya, I will come over myself now.' Curious despite his grumpy mood, Barinov relents and says he will walk out to meet her himself.
-- 'Thank you, chef, I will convey your words.' Kostya thanks the chef and heads back to let the visitor know he is coming.
-- 'And pour me some strong black tea.' Before Kostya leaves, Barinov asks him to pour a cup of strong black tea for his headache.
-- 'Of course, chef, I will do it right now.' Kostya cheerfully agrees to brew the fresh tea right away.
+- 'Chef, some young woman is calling for you over there.' The "-to" on the end of "which" makes it "some" or "some or other", so Kostya doesn't know her. The russian for "calls" is a summons. He speaks politely to the boss.
+- 'Who is she and what does she need?' "Who she such" adds a touch of "who is she anyway". And "what to her needed" is the usual pattern again. Barinov throws two questions at once, as he does.
+- 'She said that she came from television.' "From television" starts with the little word for "from". Both "said" and "came" end in -la because the woman is the subject. Kostya passes the message like a messenger.
+- 'I do not want to talk to anyone.' Russian says "with nobody" and then "not", and both are required. It is a double negative that is simply right. Barinov, as ever, would rather shout than talk.
+- 'She says that the matter is very important.' "Matter" is the same word as in "what is the matter". The woman is stubborn, and Kostya passes it on. He is trying to persuade the chef without saying so.
+- 'I currently have absolutely no time.' It is "at me now absolutely no of time". The "of" ending on time is the one that follows "no". It sounds a bit formal in English, but it is plain in Russian.
+- 'She is waiting for you near the main entrance.' "Waits you" has no "for", as before. The entrance grows out of the word "to enter", so it's "the going in". Kostya is patient, and he keeps trying.
+- 'Let her come into my office.' The "let" word is back, and the "come" here means "drop in". "To me" is the little word for "to a person" plus the person. Barinov wants to be visited, as chefs do.
+- 'She asked you to come out for one minute.' "For one minute" uses the small word for "on" to show how long. "Come out" is the opposite of "come in". Kostya reports the woman's request, and gets closer to winning.
+- 'Fine, Kostya, I will come over myself now.' Barinov gives in, and says "myself" with the word he often uses. "I will come over" means to come up to someone. The easy "fine" gives away that he is curious.
+- 'Thank you, chef, I will convey your words.' "Convey" is "give across", the same as passing on a message. Kostya says "your" the polite way, and the chef is now a messenger's boss. He has done his job.
+- 'And pour me some strong black tea.' Tea is "of tea" here, with the "some of" ending. "Strong" in tea-talk comes from a word that also means "firm". Barinov wants a proper tea before he faces anyone.
+- 'Of course, chef, I will do it right now.' "Right now" is literally "straight now". "I will do" is a short future. Kostya agrees at once, and the scene closes as politely as it began.

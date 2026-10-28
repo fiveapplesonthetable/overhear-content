@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = 'In the apartment after work, Vika teases Max about his poor bluffing skills during her pregnancy test prank. After laughing over baby names, Max reflects on the countless chances life offers each day to grow, change, and begin anew.'
-OPENER = "Let's explore the tender teasing between Vika and Max and his philosophical thoughts on life's opportunities."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Beneath the playful jokes and banter about the future, Max and Vika discover new depths in their relationship. Next time you watch the episode, listen for the Russian expressions for 'to bluff' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "The pretend wedding is over, and Vika and Max talk it over. She admits she was testing him, and he admits he was scared. Here's the scene in Russian first."
+OPENER = "Now let's take it slowly."
+TRANSITION = 'Here it is once more.'
+OUTRO = "Max and Vika have survived the scare, and they disagree about names. It's a warm end to a bad day. See you in the next scene."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, в покер тебе точно играть не стоит.', 'Max, you definitely should not play poker.', [(324, 'В покер тебе играть не стоит.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'Или шанс открыть в себе новые таланты.', 'Or a chance to discover new talents within oneself.', [(341, 'Или возможность проявить себя с другой стороны, открыть новые таланты.')], ''),
 ]
 WALK = [
-    (0, None, "'Max, you definitely should not play poker.' Later that evening, Vika teases Max that with his terrible poker face, he should never play cards."),
-    (1, None, "'You do not know how to bluff calmly at all.' She laughs at his transparent facial expressions."),
-    (2, None, "'What was all this silly deception for anyway?' Still recovering from the scare, Max asks why she put him through that whole pregnancy prank."),
-    (3, None, "'I just wanted to test your initial reaction.' Vika admits she wanted to see his honest reaction after hearing he was hiding from her."),
-    (4, None, "'Why were you immediately frightened of adult responsibility?' She asks why the thought of adult responsibility scared him so badly."),
-    (5, None, "'I was not frightened, I was just not ready.' Max insists he was not scared — just caught completely off guard."),
-    (6, None, "'By the way, people do not joke about such things at all.' Max objects to playful trickery on family topics."),
-    (7, None, "'I already came up with a real beautiful name.' Max surprises her with his earnest consideration."),
-    (8, None, "'Zhenya is the most beautiful name in the world.' Showing he really did think about a future baby, Max says 'Zhenya' is the best name in the world."),
-    (9, None, "'It will suit a boy and a girl perfectly.' The young cook defends the versatile name with pride."),
-    (10, None, "'My God, Zhenya is a very strange name!' Vika laughs and calls 'Zhenya' a very strange choice."),
-    (11, None, "'Life gives us thousands of different opportunities.' In his closing voiceover, Max reflects on how each day gives us a thousand different chances."),
-    (12, None, "'An opportunity to change and start over.' Max reflects on fresh beginnings and forgiveness."),
-    (13, None, "'Or a chance to discover new talents within oneself.' Max finishes his thoughtful monologue warmly."),
+    (0, None, '\'Max, you definitely should not play poker.\' "To you not worth it" is the Russian for "you shouldn\'t". The russian for "worth" also means "costs". Vika teases, and the teasing is affectionate.'),
+    (1, None, '\'You do not know how to bluff calmly at all.\' "Know how to" is the skill word. "Calmly" is the same as the caviar scene\'s "calm". Vika has watched him, and she knows his tells.'),
+    (2, None, '\'What was all this silly deception for anyway?\' "To what" is Russian for "what for". "Deception" is the noun for the word "deceive". Max is half annoyed, half relieved.'),
+    (3, None, '\'I just wanted to test your initial reaction.\' "Test" covers checking. "Reaction" is borrowed. "First" in front of it gives "initial". Vika says it lightly.'),
+    (4, None, '\'Why were you immediately frightened of adult responsibility?\' "Adult responsibility" is the phrase from the lecture in the office. "Frightened" is the -sya word. Vika asks the real question.'),
+    (5, None, '\'I was not frightened, I was just not ready.\' "I was not ready" uses the short form "gotov" with "was". Max defends himself, and it\'s a weak defence. He admits the rest by saying it.'),
+    (6, None, '\'By the way, people do not joke about such things at all.\' "Among other things" is Russian for "by the way". "They do not joke" is a "they" without a subject: it means "people don\'t". Max is sulking.'),
+    (7, None, '\'I already came up with a real beautiful name.\' "Came up with" means inventing. "Name" is "imya". Max is proud of his idea, and he wants credit.'),
+    (8, None, '\'Zhenya is the most beautiful name in the world.\' "In the world" is "v mire". "The most beautiful" has the "most" first. Max is loyal to his name, even though the baby is imaginary.'),
+    (9, None, '\'It will suit a boy and a girl perfectly.\' "Suits" is the "approach" word again. "A boy and a girl" are in the "for" form. Max argues like a lawyer.'),
+    (10, None, '\'My God, Zhenya is a very strange name!\' "My God" is the exclamation from Barinov\'s chocolate panic. Vika is not impressed. She teases, and he has given her the chance.'),
+    (11, None, '\'Life gives us thousands of different opportunities.\' "Thousands" is a plural noun. "Opportunities" grows out of "possible". Max begins a speech. The tone changes.'),
+    (12, None, '\'An opportunity to change and start over.\' "Start all from the beginning" is the Russian for "start over". "Change" has the -sya. Max sounds philosophical, like the end of a lesson.'),
+    (13, None, '\'Or a chance to discover new talents within oneself.\' "In oneself" is "v sebe". "Discover" is the "open" word. Max finishes the thought, and the episode is nearly over.'),
 ]

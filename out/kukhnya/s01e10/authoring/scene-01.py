@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'mama': 'Мама', 'son': 'Сын'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.10'
 SOURCE_FILE = 'sources/kukhnya/s01/e10.ru.dual.srt'
-INTRO = "In a family home late in the evening, a schoolboy creeps into the apartment long after his classes have ended. He nervously apologizes to his mother for the delay, only to learn that his father has once again lost all their money in a game of chance. Let's listen to their quiet conversation in Russian first."
-OPENER = "Now let's examine the mother and son's late evening exchange line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With heartfelt promises to find work and face hardships together, the mother and son conclude their quiet conversation, ready to support each other through family adversity. Next time you watch the episode, listen for the Russian expressions for 'to walk' and 'to do' — you will catch every word right away. See you next time!"
+INTRO = "This is Kukhnya, a Russian comedy set in the kitchen of Claude Monet, a smart restaurant in Moscow, where the chef, Barinov, shouts and young Max cooks. This episode is about bets: the chef gambles on football, and Max gets a surprise that frightens him. It opens away from the kitchen, in an ordinary flat late at night, where a boy creeps in and his mother whispers about his father's luck. You'll hear it in Russian first, and you don't need to catch every word."
+OPENER = "Now we'll go back through it, one line at a time."
+TRANSITION = 'And once more, the whole scene.'
+OUTRO = 'So there is no money and a father who bets on football. Keep that in mind, because the chef is about to do the same. See you next time.'
 CLOSING = ('son', 'Пока!')
 STORY = [
     ('son', 'Извини, мама, я сильно опоздал сегодня.', 'Sorry, mom, I was very late today.', [(1, 'Извини')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('son', 'Я завтра найду себе хорошую работу.', 'Tomorrow I will find myself a good job.', [], ''),
 ]
 WALK = [
-    (0, None, "'Sorry, mom, I was very late today.' Slipping into the apartment late at night, the boy apologizes to his mother for the delay."),
-    (1, None, "'Why did you come home so late?' Waiting up for him in the hallway, his mother asks why he came home so late."),
-    (2, None, "'I walked for a long time with my friends.' He explains that he lost track of time while walking outside with his friends."),
-    (3, None, "'You got lucky that dad is sleeping.' His mother sighs that he is lucky his father is already fast asleep."),
-    (4, None, "'Is dad really angry with me?' Nervous about getting in trouble, the boy asks whether his dad is angry with him."),
-    (5, None, "'Dad lost all our money again.' Instead of being angry at him, she reveals that his father gambled away all their money again."),
-    (6, None, "'Did he play with our money again?' Stunned, the boy asks if his father really bet their family savings once more."),
-    (7, None, "'Yes, he placed bets on football.' Mother expresses the thought naturally and directly."),
-    (8, None, "'And his favorite team lost again?' Knowing his father's weakness for football bets, he guesses that his dad's favorite team lost again."),
-    (9, None, "'Yes, his favorite Spartak lost again.' She confirms with a heavy sigh that his beloved Spartak lost yet another match."),
-    (10, None, "'Now do we have no money at all?' Russian says 'at us there is no money at all' as the boy realizes their savings are gone."),
-    (11, None, "'It is alright, son, we will cope with everything.' Calling him 'little son' affectionately, his mother reassures him that they will get through everything together."),
-    (12, None, "'Tomorrow I will find myself a good job.' Wanting to help the family right away, the boy promises to find a good job tomorrow."),
+    (0, None, '\'Sorry, mom, I was very late today.\' "Izvini" is a bare command, "excuse me", and it is the casual one. His "was late" ends in -l because he is a boy. Russians sometimes say "strongly" where English says "very".'),
+    (1, None, '\'Why did you come home so late?\' The Russian for "home", as in "come home", is one little word that already carries the "to". So there\'s no separate word for it. His mother\'s question is more worry than anger.'),
+    (2, None, '\'I walked for a long time with my friends.\' The word he uses means to stroll or hang about, not to walk somewhere. "With my friends" has the usual ending for "with" on the last word. It\'s a boy\'s story, and it\'s probably true.'),
+    (3, None, '\'You got lucky that dad is sleeping.\' Russian doesn\'t say "you got lucky". It says "to you it was lucky", which turns you into the person who just happens to benefit. She is on his side.'),
+    (4, None, '\'Is dad really angry with me?\' The little word at the start is "really?", a bit of doubt. And Russians are angry "on" someone, with the -sya ending that makes it "angers himself". The boy is worried, which is natural.'),
+    (5, None, '\'Dad lost all our money again.\' The verb is "play" with a prefix that makes it "play away", so you lose by playing. That fits a gambler. And "money" is plural in Russian, so "all" has the plural form too.'),
+    (6, None, '\'Did he play with our money again?\' Russians say they play "on" money, meaning stakes. So the whole phrase is "played on our money". The boy already knows the answer, but he asks it anyway.'),
+    (7, None, '\'Yes, he placed bets on football.\' Russians "make" a bet, like making a decision. A bet is a "stake", something you put down. The mother says it plainly. She has said it before, many times.'),
+    (8, None, '\'And his favorite team lost again?\' "Team" is a feminine word, so "favorite" has the feminine ending. The question is short and weary. It\'s the sort of conversation a family has when it has had it before.'),
+    (9, None, '\'Yes, his favorite Spartak lost again.\' Spartak is a Moscow football club, and the chef in this show loves it too. This time the club is masculine, so "favorite" turns masculine. The mother names the team as if it were an enemy.'),
+    (10, None, '\'Now do we have no money at all?\' It\'s "at us entirely no of money". After "no" in this sense, the thing that\'s missing takes an "of" ending. So there is no "have" and no "any", just that "of".'),
+    (11, None, '\'It is alright, son, we will cope with everything.\' "Nothing" is Russian for "never mind" here. "Sonny" is an affectionate cut-down of "son". And the last word is "cope", the same one Louis used in the pastry kitchen, now in the plural.'),
+    (12, None, '\'Tomorrow I will find myself a good job.\' The boy says "find to myself", where English says "find myself". It\'s his answer to the family\'s trouble, and he says it with a boy\'s confidence. He is trying to be the man of the house.'),
 ]
