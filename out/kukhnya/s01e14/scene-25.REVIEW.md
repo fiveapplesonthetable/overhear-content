@@ -10,13 +10,13 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Нагиев | Дим, ну не молчи. | Dim, come on, don't go quiet. | #317 00:21:05: Дим, ну не молчи | verbatim |
-| 2 | Нагиев | И домой пора, все устали. | And it's time to go home. Everyone's tired. | #318 00:21:07: И домой пора, все устали | verbatim |
+| 1 | Шеф | Дим, ну не молчи. | Dim, come on, don't go quiet. | #317 00:21:05: Дим, ну не молчи | verbatim |
+| 2 | Шеф | И домой пора, все устали. | And it's time to go home. Everyone's tired. | #318 00:21:07: И домой пора, все устали | verbatim |
 | 3 | Нагиев | А от чего ты устал? | And what are you tired from? | #319 00:21:09: А что ты устал | verbatim |
 | 4 | Нагиев | Бухать целыми днями? | Drinking all day? | #319 00:21:09: бухать целыми днями | verbatim |
-| 5 | Нагиев | Шеф, извините меня. | Chef, I'm sorry. | #358 00:22:58: Шеф, извините меня | verbatim |
-| 6 | Шеф | Я, видимо, не справился. | I guess I didn't handle it. | #359 00:23:00: Я, видимо, как-то не справился | verbatim |
-| 7 | Шеф | Лёва, иди сюда. | Lyova, come here. | new | new |
+| 5 | Лёва | Шеф, извините меня. | Chef, I'm sorry. | #358 00:22:58: Шеф, извините меня | verbatim |
+| 6 | Лёва | Я, видимо, не справился. | I guess I didn't handle it. | #359 00:23:00: Я, видимо, как-то не справился | verbatim |
+| 7 | Шеф | Лёва, послушай. | Lyova, listen. | #360 00:23:03: Лёва | verbatim |
 | 8 | Шеф | Скандалить с гостями не очень хорошо. | Picking fights with guests isn't great. | #360 00:23:03: скандали с гостями не очень хорошо | verbatim |
 | 9 | Шеф | Но шеф-повар отвечает не только за еду. | But the head chef isn't only responsible for food. | #361 00:23:08: Но шеф-повар отвечает не только за хорошую еду | verbatim |
 | 10 | Шеф | В первую очередь он отвечает за команду. | First and foremost he is responsible for the team. | #362 00:23:13: В первую очередь шеф-повар отвечает за свою команду | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dim, come on, don't go quiet.' 'Dim' is a clipped form of the name, the kind used between old friends. 'Ne molchi' means 'don't be silent'.
-- 'And it's time to go home. Everyone's tired.' 'Time homewards' has no verb. 'Tired' is a plural past, for 'are tired'.
-- 'And what are you tired from?' 'Ustal ot' takes 'from' with a person's tiredness. 'Ot chego' is 'from what'.
-- 'Drinking all day?' 'Bukhat' is a slangy word for 'to drink heavily', and it isn't polite. 'Tselymi dnyami' is 'for whole days'.
-- 'Chef, I'm sorry.' 'Izvinite menya' is a polite 'excuse me'. 'Menya' is the form of 'me' that follows 'excuse'.
-- 'I guess I didn't handle it.' 'Ne spravilsya' has a 'sya', so it's 'didn't manage'. 'Vidimo' is 'apparently'.
-- 'Lyova, come here.' 'Idi syuda' is 'go here', which Russians use for 'come here'. 'Syuda' means 'to here'.
-- 'Picking fights with guests isn't great.' The basic form 'skandalit' is the subject of the sentence, 'to make scenes isn't good'. Russian does this a lot.
-- 'But the head chef isn't only responsible for food.' 'Ne tolko' means 'not only'. 'Otvechaet za' is literally 'answers for', and that's Russian for 'is responsible for'.
-- 'First and foremost he is responsible for the team.' 'Into the first queue' is the literal meaning, and it means 'first of all'. The team is the thing answered for.
-- 'And today you acted like a real head chef.' 'Acted like' is two small words. 'Real' is a word the chef says generously.
-- 'You handled it. Well done.' 'Spravilsya' is the man's form of 'coped'. 'Molodets' ends it on praise.
+- 'Dim, come on, don't go quiet.' 'Dim' is Dima with the last vowel dropped, the way Russians call to someone close. Ne molchi, 'don't be silent', is ne plus the command form.
+- 'And it's time to go home. Everyone's tired.' 'Domoy pora', 'homewards it's time', with no verb. 'Ustali' is literally 'got tired', and it's how Russians say 'are tired'.
+- 'And what are you tired from?' Ot chego is 'from what', with chego, the 'of' form of chto. Nagiyev says ustal, the man's form, because he's asking Barinov.
+- 'Drinking all day?' 'Bukhat' is crude slang for heavy drinking; don't use it with your boss. 'Tselymi dnyami' is literally 'by whole days'.
+- 'Chef, I'm sorry.' 'Izvinite' is the polite vy form of 'forgive' rather than the friendly izvini, because Lyova is talking to his boss. Menya is 'me', the person being forgiven.
+- 'I guess I didn't handle it.' 'Spravilsya' means 'coped', so ne spravilsya is 'didn't cope'. 'Vidimo', 'apparently', again.
+- 'Lyova, listen.' 'Poslushay' is the friendly ty command, 'listen for a moment'. To his boss, Lyova would say poslushayte.
+- 'Picking fights with guests isn't great.' 'Skandalit', to make scenes, opens the sentence on its own: 'to make scenes is not very good'. S gostyami is 'with guests'.
+- 'But the head chef isn't only responsible for food.' 'Otvechaet za' is literally 'answers for', the Russian way to say 'is responsible for'.
+- 'First and foremost he is responsible for the team.' V pervuyu ochered is literally 'in the first turn'. Ochered is also the word for a queue.
+- 'And today you acted like a real head chef.' 'Postupil' is 'acted', from postupok, a deed. 'Nastoyashchiy' means 'real' or 'genuine': nastoyashchiy drug is a true friend.
+- 'You handled it. Well done.' 'Ty spravilsya' answers Lyova's own words: he said ne spravilsya, and the chef drops the 'ne'.

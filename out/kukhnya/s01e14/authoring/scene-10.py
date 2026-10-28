@@ -11,9 +11,9 @@ LABELS = {'guest': 'Гость', 'kostya': 'Костя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'Kostya carries the plates over to the VIP table in the dining room. The guests are delighted with what they see. Russian first.'
-OPENER = 'A line at a time once more.'
+OPENER = 'Once more, at a slower pace.'
 TRANSITION = 'The table scene once more, from the top.'
-OUTRO = 'The guests are pleased, and Kostya goes off to fetch more wine. Everyone is polite, even to the waiter. See you next time.'
+OUTRO = "The guests are pleased, and Kostya goes off to fetch more wine. Both sides say 'vy' and 'vash' all the way through, as you would at a good restaurant. Bye for now."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('kostya', 'Господа, вот ваши редкие французские блюда.', 'Gentlemen, here are your rare French dishes.', [(170, 'Господа, филиминьон по-фламански и лангусты а-ля Франце.')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('kostya', 'Мы всегда очень рады видеть вас!', 'We are always very glad to see you!', [], ''),
 ]
 WALK = [
-    (0, None, "'Gentlemen, here are your rare French dishes.' 'Gospoda' is the plural of 'gospodin', 'sir' or 'gentleman'. 'Vot vashi' is 'here are your'."),
-    (1, None, "'Wow, how beautifully the hot meat lies!' 'Ogo' is a cheerful 'wow'. Russians say that food 'lies', 'lezhit', on a plate, where English says 'sits'. 'Goryachee' is neuter, like 'myaso'."),
-    (2, None, "'Our cook tried to prepare a real masterpiece.' 'Staralsya' has the 'sya' of 'tried himself'. 'Shedevr' is the French 'chef-d'oeuvre', shortened."),
-    (3, None, "'The fish also looks incredibly appetizing and tasty.' 'Tozhe' means also. After 'looks', Russian puts 'appetitno' in its adverb shape."),
-    (4, None, "'We always use only the best products.' 'Samye luchshie' is 'the very best', stacked up on purpose. 'Samye' means the most, and 'luchshie' is the plural."),
-    (5, None, "'Pass on our sincere gratitude to the head chef.' The polite order 'pass on!' ends in 'ite'. 'Sincere gratitude' is a set phrase for official thanks."),
-    (6, None, "'I will certainly tell him these pleasant words.' 'Emu' is 'to him'. 'Pleasant' grows from the same root as the 'priyatnogo' of 'bon appetit'."),
-    (7, None, "'We want to order another bottle of wine.' 'Butylku vina' is 'a bottle of wine', and 'wine' takes an 'a' ending, like 'of wine'. 'Eshchyo' means 'another'."),
-    (8, None, "'I will quickly bring your wine right now.' Wine is a neuter word, so 'your' has the neuter ending 'e'. Kostya uses the polite 'your', as one should to guests."),
-    (9, None, "'Thank you for your wonderful work here.' 'Spasibo za' is 'thanks for', and what follows takes 'u' on 'rabotu', like 'for your work'. The guest uses the polite 'vash'."),
-    (10, None, "'Bon appetit and have a good evening!' Wishes in Russian use an 'of', so 'good evening' is 'khoroshego vechera', 'of a good evening'. 'Vam' at the end is 'to you'."),
-    (11, None, "'Thank you, we will definitely return here again.' 'Vernyomsya' is 'we will return', with 'sya' meaning 'ourselves'. 'Snova' is 'again'."),
-    (12, None, "'We are always very glad to see you!' 'Rady' is the plural of 'glad', since the speaker is 'we'. 'To see you' takes 'vas', the form that follows 'see'."),
+    (0, None, "'Gentlemen, here are your rare French dishes.' 'Gospoda' is the plural of 'gospodin', sir, the formal way to address a table. 'Vashi', your, is plural to match 'blyuda', dishes."),
+    (1, None, "'Wow, how beautifully the hot meat lies!' 'Ogo' is a cheerful 'wow'. Russians say food 'lezhit', lies, on a plate. 'Myaso', meat, is neuter, so 'hot' is 'goryachee'."),
+    (2, None, "'Our cook tried to prepare a real masterpiece.' 'Staralsya' is the man's form of the verb Sasha used about her cake, 'staralas'. 'Shedevr' is borrowed from the French 'chef-d'oeuvre'."),
+    (3, None, "'The fish also looks incredibly appetizing and tasty.' 'Vyglyadit' is the same for the feminine 'ryba' as for a masculine steak: Russian verbs only change for he and she in the past."),
+    (4, None, "'We always use only the best products.' 'Produkty' in Russian means food ingredients, groceries, not products in general. 'Ispolzuem' is 'we use', with the 'we' ending 'em'."),
+    (5, None, "'Pass on our sincere gratitude to the head chef.' 'Peredayte', pass on, has the polite 'te' ending. The person it goes to takes the 'to' form, so 'shef-povar' becomes 'shef-povaru'."),
+    (6, None, "'I will certainly tell him these pleasant words.' 'Priyatnye', pleasant, is the very word in 'priyatnogo appetita' from the kitchen, here in its plural form. 'Emu' is 'to him'."),
+    (7, None, "'We want to order another bottle of wine.' 'Eshchyo butylku' is 'one more bottle'. 'Vino' becomes 'vina' for 'of wine', and 'butylka' becomes 'butylku' as the thing ordered."),
+    (8, None, "'I will quickly bring your wine right now.' 'Prinesu' is 'I'll bring', with 'pri', towards here; in the kitchen Kostya said 'otnesu', I'll carry away. 'Vashe' is neuter, for 'vino'."),
+    (9, None, "'Thank you for your wonderful work here.' 'Spasibo za' is 'thanks for', and what follows takes the same form as a thing seen: 'rabota' becomes 'vashu prekrasnuyu rabotu'."),
+    (10, None, "'Bon appetit and have a good evening!' Wishes take the 'of' form, as if 'I wish' were said: 'khoroshego vechera', of a good evening. 'Vam' is 'to you'."),
+    (11, None, "'Thank you, we will definitely return here again.' 'Vernyomsya' is 'we'll come back'; without the 'sya', 'vernut' means to give something back. 'Syuda' is 'here' as a destination."),
+    (12, None, "'We are always very glad to see you!' 'Rad', glad, has a plural, 'rady', since the speaker is 'we'. 'Videt vas' is 'to see you', using the polite 'vas'."),
 ]

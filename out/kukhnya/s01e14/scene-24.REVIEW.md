@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'And what am I?' 'A ya kto' is 'and I who', with no verb. The little 'a' at the start is the 'and' that starts a new thought.
-- 'A croissant or celery?' Both 'kruassan' and 'selderey' are loan words, so you can guess them. 'Ili' means 'or'.
-- 'Well, of course a croissant.' Vika answers without a verb, just 'kruassan'. 'Nu' is a 'well' that makes it sound casual.
-- 'Why a croissant?' Max repeats her answer as a question. It works like a mini echo.
-- 'I don't eat flour products.' 'Muchnoe' means 'floury things' and grows from 'muka', flour. 'Ne em' is 'I don't eat', and 'zhe' says 'after all'.
-- 'You saved our restaurant.' 'Spas' is 'saved', and 'nash restoran' stays the same because it is the thing saved. A short, grateful sentence.
-- 'You did great, Max.' 'Good lad' is a word for praising a man. Russians use the same word for a woman, too.
-- 'I just did my job.' 'Svoyu rabotu' is 'my own job', with 'u' endings. Max is modest, or tries to be.
-- 'No, it was cool.' 'Kruto' means 'cool' in slang, and it literally means 'steeply'. 'Eto bylo' is 'this was'.
-- 'You helped me a lot.' 'Pomog mne' is 'helped to me', so the helped person goes in the 'to' form. 'Ochen' is 'very'.
-- 'Thank you.' 'Thanks to you' is the full Russian, and the 'to you' makes it personal. It's what you'd say to a friend.
-- 'My brave croissant.' 'Brave' describes the croissant. A pet name, nothing more.
+- 'And what am I?' Literally 'and I who?' Russian uses kto, who, for a person even here, where English says 'what'.
+- 'A croissant or celery?' 'Kruassan' is French and selderey is borrowed too, so both are easy to guess. 'Ili' means 'or'.
+- 'Well, of course a croissant.' Vika answers with the noun alone, no 'you are'. Nu, 'well', softens it.
+- 'Why a croissant?' 'Pochemu' is 'why'. Inside it is chemu, a form of chto, 'what'.
+- 'I don't eat flour products.' 'Muchnoe', 'floury things', comes from muka, flour. Ne em is 'I don't eat', and zhe adds 'after all'.
+- 'You saved our restaurant.' 'Spas', 'saved', is the same word Kostya used about Max. 'Nash restoran' doesn't change its ending here, even though it's the thing being saved.
+- 'You did great, Max.' 'Molodets' again. Russians say ty molodets, 'you are a fine fellow', to anyone who did well.
+- 'I just did my job.' 'Svoyu rabotu', 'my own job'. 'Svoy' means 'one's own' and replaces moy when it belongs to the subject.
+- 'No, it was cool.' 'Kruto' is slang for 'cool', but its plain meaning is 'steeply', as in a steep hill.
+- 'You helped me a lot.' 'Pomog mne', 'helped to me', the same 'to' pattern as 'pomog Vike'. 'Ochen pomog', 'very helped', is how Russian says 'helped a lot'.
+- 'Thank you.' 'Spasibo tebe', 'thanks to you', uses the 'to' form of ty. With someone you call vy, it's spasibo vam.
+- 'My brave croissant.' 'Khrabryy', brave, has the masculine ending because kruassan is masculine. Now it's a pet name.

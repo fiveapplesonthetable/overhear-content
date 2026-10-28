@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Dear friends, a moment of attention.' A tiny 'minute' with a diminutive ending is how Russians ask for a moment of your time. 'Of attention' sits in the second part, in the form it has after 'a moment of'.
-- 'I want to introduce you to the best chef.' Introducing someone is built from 'znakomit', 'to make acquainted'. 'With the best' needs the 'im' ending, 'luchshim'.
-- 'Good evening, dear guests.' Max copies her tone. 'Dorogie' is both 'dear' and 'expensive', and Russians love that double meaning.
-- 'This is Maximilian, an expert in French cuisine.' Notice the 'po', meaning 'on', in 'a specialist on French cuisine'. Russians say 'expert on', not 'expert in'.
-- 'I am very glad to be here.' The short word for 'glad' has no ending for a man. A woman would say 'rada', so you know who is talking.
-- 'He kindly agreed to prepare an old dish.' 'Agreed' ends in 'sya', so it is 'agreed himself'. The 'old' is the old-time word, the one used for old Russian towns.
-- 'We took it from this French book.' 'We took it' is two bare words, with the 'it' sitting after the verb. 'Of this book' takes an 'i' ending.
-- 'I chose this dish for us.' She says 'I chose', and the ending 'a' tells you it is a woman. The little 'vot' makes it sound like 'this one here'.
-- 'This is an excellent choice for tonight.' 'Vybor', choice, comes from 'I chose', and 'segodnyashnego vechera' is 'of today's evening', Russian for 'for tonight'.
-- 'Maximilian will prepare it for us today.' 'It' is the word for the dish, and since the dish is neuter, the 'it' is 'ego'. Elena commits him to it in front of the whole room.
-- 'I will do everything in the best way.' 'In the best form' is the idiom, and it means 'to the best of my ability'. Max sounds very sure of himself.
-- 'We are waiting for your culinary masterpiece.' Russians wait a masterpiece, not 'for' it. 'Culinary' is a bookish word, and it adds a touch of pomp.
+- 'Dear friends, a moment of attention.' 'Minutochku' is a tiny 'minute', the small form of minuta, and it's how Russians ask for a moment. 'Vnimanie', attention, becomes vnimaniya, the 'of' form.
+- 'I want to introduce you to the best chef.' 'Poznakomit' is 'to make acquainted'. 'With the best chef' is s luchshim shef-povarom: after 's', both words take the 'with' ending, 'im' and 'om'.
+- 'Good evening, dear guests.' Max copies her tone. 'Dorogie' means 'dear' here, and in a shop the same word means 'expensive'.
+- 'This is Maximilian, an expert in French cuisine.' Russians say 'specialist po', 'on', a subject. And kukhne is a form of kukhnya, the show's own title: it means both kitchen and cuisine.
+- 'I am very glad to be here.' 'Rad' is the short word for 'glad', and it's the man's form. A woman would say rada.
+- 'He kindly agreed to prepare an old dish.' 'Soglasilsya' is 'agreed', and the 'l' before 'sya' tells you it's a man. 'Starinnoe' means old in the sense of antique, from long ago; plain 'old' would be staroe.
+- 'We took it from this French book.' Iz means 'out of', and it puts the book in the 'of' form: kniga becomes knigi, and etoy frantsuzskoy agree with it.
+- 'I chose this dish for us.' 'Vybrala' ends in 'a' because Elena, the one who chose, is a woman. The little vot in vot eto bludo points: 'this one right here'.
+- 'This is an excellent choice for tonight.' 'Vybor', choice, shares its root with vybrala, chose. 'Segodnyashnego vechera' is 'of today's evening', the Russian 'tonight'.
+- 'Maximilian will prepare it for us today.' Ego here means 'it', the dish. The same word ego is also 'him', so it covers both.
+- 'I will do everything in the best way.' V luchshem vide is literally 'in the best form', a set phrase for 'done perfectly'. 'Vse', everything, is the whole object.
+- 'We are waiting for your culinary masterpiece.' No 'for' in Russian: you simply wait something, zhdem vash shedevr. 'Shedevr' is French chef-d'oeuvre in Russian spelling.

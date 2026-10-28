@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Maxim did great.' Kostya uses the long form of Max's name, which sounds a little proud. 'Good lad' is the word for praising a man.
-- 'He helped Vika.' 'Helped' wants the person in the 'to' form, so 'Vika' becomes 'Vike'. English just says 'helped Vika'.
-- 'He saved the evening.' 'Spas' is just 'saved', and 'vecher' is 'evening'. The sentence is as brief as can be.
-- 'Yeah, she said awful things.' 'Nagovorila' has a 'na' that means a big amount, so she said a whole pile. 'Gadosti' is 'awful things'.
-- 'All sorts of awful things to him.' She leaves out the action. It's 'to him all kinds of nasty things', and the verb is understood.
-- 'And she feels terrible.' Russian says 'to her very ashamed', with 'ey' for 'to her'. Shame is something that happens to you.
-- 'So how's she going to make it right?' 'Ispravit' means 'correct' or 'put right'. 'A kak zhe' is 'and how then'.
-- 'What will she do?' 'Budet delat' is 'will do', made of 'will be' and 'do'. It's the usual way for a longer action.
-- 'Ah, vodka.' It's the same word as in English, and Russians say it with an 'a' of recognition first. Nastya has guessed.
-- 'She will pour him vodka.' 'Nalyot' is 'she will pour', and vodka takes an 'i' as 'some vodka'. 'To him' is the little 'emu'.
-- 'That's a good plan.' It's the plain phrase, and Russians use it exactly as English does. 'Good' ends in the man's ending, since 'plan' is masculine.
-- 'She knows what to do.' 'Chto delat' is 'what to do', as a question word with the basic form after it. 'Znaet' is 'she knows'.
+- 'Maxim did great.' Kostya uses the full name, Maksim. 'Molodets' comes from molodoy, young, but it's the everyday 'well done', and it works for a woman too.
+- 'He helped Vika.' 'Helped' takes the 'to' form of the person, so Vika becomes 'Vike': literally, 'he helped to Vika'.
+- 'He saved the evening.' 'Spas' is 'saved'. The same root sits in spasibo, which grew out of 'spasi Bog', 'God save you'.
+- 'Yeah, she said awful things.' 'Nagovorila' is govorit, to talk, with 'na' added, so it's 'said a whole heap'. It's usually things you'd rather not have said.
+- 'All sorts of awful things to him.' Nastya just carries on the sentence. 'Vsyakie' means 'all sorts of', and emu is 'to him'.
+- 'And she feels terrible.' Literally 'to her very ashamed'. 'Ey' is 'to her', and stydno, ashamed, is something that happens to a person.
+- 'So how's she going to make it right?' 'Ispravit' is 'to put right', with prav, the root of pravilno, 'correctly'. Zhe adds the 'so' of a curious question.
+- 'What will she do?' 'Budet delat', 'will be doing', is the future with budet plus the basic form. Kostya asks about the process, not the result.
+- 'Ah, vodka.' Vodka is voda, water, plus the small-and-dear ending 'ka': literally 'little water'.
+- 'She will pour him vodka.' Vodka becomes vodki, 'some vodka', the 'of' form for an amount of something. 'Nalyot', 'she will pour', is a finished action in the future.
+- 'That's a good plan.' Plan is masculine, so 'good' has the masculine ending: khoroshiy plan.
+- 'She knows what to do.' 'Chto delat' is 'what to do': the question word, then the basic form of the verb, no 'to' needed.

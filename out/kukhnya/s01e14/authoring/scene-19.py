@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'Things are getting tense, and Max has to organise a small team to rescue the dinner. He reassures them, and he sets them to work. Russian first.'
 OPENER = 'Their plan, slowly.'
 TRANSITION = 'Now the plan from the top.'
-OUTRO = 'The team is organised, and now they have to deliver. Who panics first? Until next time.'
+OUTRO = 'The team is organised, and now they have to deliver. Listen for uspet in the next scene, the verb for making it in time. Until then.'
 CLOSING = ('ilya', 'Пока!')
 STORY = [
     ('max', 'Ладно, мы разберёмся с этим.', 'Alright, we will figure this out.', [(280, 'Ладно, разберёмся.')], ''),
@@ -28,22 +28,22 @@ STORY = [
     ('max', 'Да, за работу.', 'Yes, back to work.', [], ''),
     ('ilya', 'У нас мало времени.', 'We have little time.', [], ''),
     ('sasha', 'Мы должны успеть.', 'We must be in time.', [], ''),
-    ('max', 'Конечно мы успеем.', 'Of course we will be in time.', [], ''),
+    ('max', 'Конечно, мы успеем.', 'Of course we will be in time.', [], ''),
     ('ilya', 'Тогда начинаем прямо сейчас.', 'Then we start right now.', [], ''),
 ]
 WALK = [
-    (0, None, "'Alright, we will figure this out.' 'Razberyomsya' has a 'sya', so it's 'sort ourselves out'. 'Ladno' is the shrug for 'okay then'."),
-    (1, None, "'Everything will be fine.' Russian says 'everything will be well', with 'khorosho', an adverb, in place of an adjective."),
-    (2, None, "'What should we do now?' Instead of 'we' do something, Russian says 'to us to do'. The little 'nam' stands for the people who must act."),
-    (3, None, "'Let's go.' It is one word, 'poekhali', meaning 'let's go by vehicle'. It's famous because the first man in space said it as his rocket took off."),
-    (4, None, "'Where are we going?' 'Kuda' means 'where to'. Russian separates 'where' for being somewhere from 'where to' for going somewhere."),
-    (5, None, "'We are not going anywhere.' 'Nikuda ne' is 'nowhere not'. Russian insists on the double negative."),
-    (6, None, "'It means that we are starting.' 'Eto znachit' introduces an explanation. 'Nachinaem' squeezes 'we begin' into one word."),
-    (7, None, "'Now I understand everything.' The 'l' on 'ponyal' tells you the speaker is a man. 'Vsyo' is the all-purpose 'everything'."),
-    (8, None, "'Then let's work.' 'Davayte' is the group 'let's', and it's followed by the basic form of the action. 'Togda' links it to the line before."),
-    (9, None, "'Yes, back to work.' 'Za rabotu' is an idiom with no verb, 'to work!', that Russians use as a rallying cry."),
-    (10, None, "'We have little time.' Russian says 'at us little of time', and 'time' takes the 'of' ending. 'Little' works as 'not much'."),
-    (11, None, "'We must be in time.' 'Uspet' means 'to manage in time', and there is no clean English verb for it. It's a very useful Russian word."),
-    (12, None, "'Of course we will be in time.' 'Uspeem' is the 'we' form of the same word. It says 'we will make it' in a single word."),
-    (13, None, "'Then we start right now.' 'Nachinaem' is 'we begin', which Russians also use for 'let's begin'. 'Pryamo seychas' is 'straight now'."),
+    (0, None, "'Alright, we will figure this out.' 'Razberemsya' is the 'we will' form of the word Kostya used with Lyova, razbiratsya, to sort out. 'Ladno' is the shrugging 'okay then'."),
+    (1, None, "'Everything will be fine.' Literally 'everything will be well': khorosho, 'well', rather than the word for 'good'. 'Vse budet khorosho' is one of the most useful sentences in Russian."),
+    (2, None, "'What should we do now?' 'Chto nam delat' is literally 'what to us to do'. 'Nam', to us, names the people who must act, and delat stays in its basic form."),
+    (3, None, "'Let's go.' 'Poekhali' comes from the word for going by vehicle. The first man in space said it as his rocket lifted off, and now it means 'let's get going' with anything."),
+    (4, None, "'Where are we going?' 'Kuda' is 'where to'. If you're asking where something is, the word is gde; if you're asking where someone is heading, it's kuda."),
+    (5, None, "'We are not going anywhere.' Nikuda ne, 'nowhere not'. Russian needs both negatives here."),
+    (6, None, "'It means that we are starting.' 'Eto znachit, chto' is literally 'this means, what'. The same chto that asks 'what' also works as 'that', joining two halves."),
+    (7, None, "'Now I understand everything.' Ponyal is past, 'I understood', but Russians say ya ponyal for 'I get it' now. The 'l' ending fits Ilya, a man; Sasha would say ponyala."),
+    (8, None, "'Then let's work.' 'Davayte rabotat': the group 'let's', then the action in its basic form, the one ending in 't'. 'Togda', then, ties it to what Max just said."),
+    (9, None, "'Yes, back to work.' Za rabotu again, the rallying cry from the last scene, literally just 'to work'."),
+    (10, None, "'We have little time.' 'U nas malo vremeni', literally 'at us little of time'. After malo, little, vremya takes the 'of' ending and becomes vremeni."),
+    (11, None, "'We must be in time.' 'Uspet' means 'to manage to do something in time', a single word with no neat English match. 'Dolzhny', must, is the plural form for 'we'."),
+    (12, None, "'Of course we will be in time.' 'Uspeem' is 'we'll make it', the 'we' form of uspet. Russian puts a comma after konechno, so it opens the answer like 'of course, yes'."),
+    (13, None, "'Then we start right now.' 'Nachinaem' is 'we start', and said to a group it works like 'let's start'. 'Pryamo seychas' is literally 'straight now'."),
 ]

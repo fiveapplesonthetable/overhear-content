@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Max, you broke my poor heart!' 'Razbil' means smashed, and it grows from breaking into pieces. 'Poor' ends in 'oe' to go with the neuter 'heart'.
-- 'Wait, let us talk calmly about this.' Before a vowel, 'about' becomes 'ob', which is easier to say. Max coaxes with 'let's talk', which needs only one word.
-- 'You are simply a terrible and vile deceiver!' 'Obmanshchik' is a person who 'obman', deceit, is done by. The 'shchik' ending marks a person who does something.
-- 'I did not want to offend you back then.' A man says 'ne khotel', with an 'l' for the past. Russian uses its verb for hurting feelings here, and not the one for causing pain.
-- 'You promised to call me every single day.' Russian says 'promised to call' with the second action in its basic form, as English does. 'Every day' is two words and each one is easy to remember.
-- 'I had a huge amount of work.' Russian says 'at me was much work', and 'work' takes the 'of' ending after 'much'. 'Was' is neuter, because 'much' is.
-- 'Forget my personal phone number forever!' Russian says 'number of phone' for 'phone number', so 'phone' takes an 'a' ending. 'Forever' is made of 'for' and 'all'.
-- 'Do not be angry, please, listen to me now.' In the order form, the 'sya' of 'get angry' shrinks to 's'. The verb for 'hear me out' gets a 'vy' for 'to the end'.
-- 'Forget that I even have a phone at all!' Russian says 'at me there is a phone', and for once the 'is' is spoken, since the existence of the phone is the point.
-- 'I am sincerely sorry, forgive me, please.' Literally, 'to me pity', which is how Russians say 'I'm sorry'. The friendly order 'forgive!' follows.
-- 'I will never believe you anymore.' You believe 'to' someone in Russian, so 'you' becomes 'tebe'. The triple 'no more never not' follows.
-- 'Give me one small last chance.' Max opens with the order 'give!'. The word for 'last' is 'posledniy', and his request is small, at least in words.
-- 'Leave immediately, I do not want to listen!' The order 'go away!' is a friend's. After 'I don't want', the verb 'listen' keeps its basic shape, as in English.
+- 'Max, you broke my poor heart!' 'Razbil' is 'bil', beat, with 'raz', apart, in front: smashed to bits. 'Serdtse', heart, is neuter, so 'my poor' is 'moyo bednoe'.
+- 'Wait, let us talk calmly about this.' 'Davay pogovorim' is 'let's talk', 'davay' plus the 'we' form. 'O', about, becomes 'ob' before a vowel, so 'ob etom', about this.
+- 'You are simply a terrible and vile deceiver!' 'Obman' is a lie or a trick, and the ending 'shchik' makes the person who does it, 'obmanshchik'. 'Podly' is 'mean' or 'vile'.
+- 'I did not want to offend you back then.' 'Obidet' is to hurt someone's feelings, not to hurt them physically. 'Ne khotel', didn't want, is the masculine past.
+- 'You promised to call me every single day.' In Russian you call 'to' someone, so 'zvonit mne', to me. 'Obeshchal', promised, ends in 'l' because it's Max who promised.
+- 'I had a huge amount of work.' Literally, 'at me was very much of work'. 'Rabota' turns into 'raboty' after 'mnogo', and 'bylo', was, is neuter because amounts count as 'it'.
+- 'Forget my personal phone number forever!' 'Navsegda', forever, is 'na', for, plus 'vsegda', always. A phone number is 'nomer telefona', literally 'the number of the phone'.
+- 'Do not be angry, please, listen to me now.' 'Ne zlis' is 'don't get angry'; the 'sya' shrinks to 's' after a vowel. 'Vyslushay' has 'vy', out, for 'hear me out'.
+- 'Forget that I even have a phone at all!' 'U menya est telefon' is 'at me there is a phone'. Normally Russian drops 'est', but it stays here because whether the phone exists is the point.
+- 'I am sincerely sorry, forgive me, please.' 'Mne zhal' is literally 'to me it's a pity', the standard 'I'm sorry'. 'Prosti' is the 'ty' form of 'forgive!'; strangers would hear 'prostite'.
+- 'I will never believe you anymore.' You believe 'to' someone in Russian, so 'ty' becomes 'tebe'. 'Bolshe nikogda ne' is literally 'more never not', and every part is needed.
+- 'Give me one small last chance.' 'Day' is the order 'give!', from the same root as 'davay'. 'Posledny' is 'last', and 'shans' is borrowed from the French 'chance'.
+- 'Leave immediately, I do not want to listen!' 'Ukhodi' is 'go away', from 'u', away, and the verb for going on foot. After 'ne khochu', the verb 'slushat' stays in its basic form.

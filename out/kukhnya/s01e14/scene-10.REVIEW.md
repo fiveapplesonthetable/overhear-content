@@ -26,16 +26,16 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gentlemen, here are your rare French dishes.' 'Gospoda' is the plural of 'gospodin', 'sir' or 'gentleman'. 'Vot vashi' is 'here are your'.
-- 'Wow, how beautifully the hot meat lies!' 'Ogo' is a cheerful 'wow'. Russians say that food 'lies', 'lezhit', on a plate, where English says 'sits'. 'Goryachee' is neuter, like 'myaso'.
-- 'Our cook tried to prepare a real masterpiece.' 'Staralsya' has the 'sya' of 'tried himself'. 'Shedevr' is the French 'chef-d'oeuvre', shortened.
-- 'The fish also looks incredibly appetizing and tasty.' 'Tozhe' means also. After 'looks', Russian puts 'appetitno' in its adverb shape.
-- 'We always use only the best products.' 'Samye luchshie' is 'the very best', stacked up on purpose. 'Samye' means the most, and 'luchshie' is the plural.
-- 'Pass on our sincere gratitude to the head chef.' The polite order 'pass on!' ends in 'ite'. 'Sincere gratitude' is a set phrase for official thanks.
-- 'I will certainly tell him these pleasant words.' 'Emu' is 'to him'. 'Pleasant' grows from the same root as the 'priyatnogo' of 'bon appetit'.
-- 'We want to order another bottle of wine.' 'Butylku vina' is 'a bottle of wine', and 'wine' takes an 'a' ending, like 'of wine'. 'Eshchyo' means 'another'.
-- 'I will quickly bring your wine right now.' Wine is a neuter word, so 'your' has the neuter ending 'e'. Kostya uses the polite 'your', as one should to guests.
-- 'Thank you for your wonderful work here.' 'Spasibo za' is 'thanks for', and what follows takes 'u' on 'rabotu', like 'for your work'. The guest uses the polite 'vash'.
-- 'Bon appetit and have a good evening!' Wishes in Russian use an 'of', so 'good evening' is 'khoroshego vechera', 'of a good evening'. 'Vam' at the end is 'to you'.
-- 'Thank you, we will definitely return here again.' 'Vernyomsya' is 'we will return', with 'sya' meaning 'ourselves'. 'Snova' is 'again'.
-- 'We are always very glad to see you!' 'Rady' is the plural of 'glad', since the speaker is 'we'. 'To see you' takes 'vas', the form that follows 'see'.
+- 'Gentlemen, here are your rare French dishes.' 'Gospoda' is the plural of 'gospodin', sir, the formal way to address a table. 'Vashi', your, is plural to match 'blyuda', dishes.
+- 'Wow, how beautifully the hot meat lies!' 'Ogo' is a cheerful 'wow'. Russians say food 'lezhit', lies, on a plate. 'Myaso', meat, is neuter, so 'hot' is 'goryachee'.
+- 'Our cook tried to prepare a real masterpiece.' 'Staralsya' is the man's form of the verb Sasha used about her cake, 'staralas'. 'Shedevr' is borrowed from the French 'chef-d'oeuvre'.
+- 'The fish also looks incredibly appetizing and tasty.' 'Vyglyadit' is the same for the feminine 'ryba' as for a masculine steak: Russian verbs only change for he and she in the past.
+- 'We always use only the best products.' 'Produkty' in Russian means food ingredients, groceries, not products in general. 'Ispolzuem' is 'we use', with the 'we' ending 'em'.
+- 'Pass on our sincere gratitude to the head chef.' 'Peredayte', pass on, has the polite 'te' ending. The person it goes to takes the 'to' form, so 'shef-povar' becomes 'shef-povaru'.
+- 'I will certainly tell him these pleasant words.' 'Priyatnye', pleasant, is the very word in 'priyatnogo appetita' from the kitchen, here in its plural form. 'Emu' is 'to him'.
+- 'We want to order another bottle of wine.' 'Eshchyo butylku' is 'one more bottle'. 'Vino' becomes 'vina' for 'of wine', and 'butylka' becomes 'butylku' as the thing ordered.
+- 'I will quickly bring your wine right now.' 'Prinesu' is 'I'll bring', with 'pri', towards here; in the kitchen Kostya said 'otnesu', I'll carry away. 'Vashe' is neuter, for 'vino'.
+- 'Thank you for your wonderful work here.' 'Spasibo za' is 'thanks for', and what follows takes the same form as a thing seen: 'rabota' becomes 'vashu prekrasnuyu rabotu'.
+- 'Bon appetit and have a good evening!' Wishes take the 'of' form, as if 'I wish' were said: 'khoroshego vechera', of a good evening. 'Vam' is 'to you'.
+- 'Thank you, we will definitely return here again.' 'Vernyomsya' is 'we'll come back'; without the 'sya', 'vernut' means to give something back. 'Syuda' is 'here' as a destination.
+- 'We are always very glad to see you!' 'Rad', glad, has a plural, 'rady', since the speaker is 'we'. 'Videt vas' is 'to see you', using the polite 'vas'.

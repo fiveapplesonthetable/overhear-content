@@ -15,9 +15,9 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 3 | Федя | Сейчас мы всё сделаем. | We will do everything now. | #275 00:16:51: Сейчас все сделаем. | verbatim |
 | 4 | Сеня | Ну, чего вы стоите? | Well, why are you standing? | #276 00:16:53: Ну что встали? | verbatim |
 | 5 | Сеня | Шеф сказал работать быстрее. | The chef said to work faster. | #276 00:16:53: Шеф сказал ускориться. | verbatim |
-| 6 | Сеня | Молодец, Лёва. | Well done, Leva. | #277 00:16:56: Ай, молодец, Лёва, шеф. | verbatim |
+| 6 | Сеня | Молодец, Лёва. | Well done, Lyova. | #277 00:16:56: Ай, молодец, Лёва, шеф. | verbatim |
 | 7 | Сеня | Ты хороший шеф. | You are a good chef. | #277 00:16:56: Ай, молодец, Лёва, шеф. | verbatim |
-| 8 | Лёва | Да, молодец. | Yes, well done. | #278 00:16:59: Молодец ты. | verbatim |
+| 8 | Лёва | Ты молодец. | You did great. | #278 00:16:59: Молодец ты. | verbatim |
 | 9 | Федя | Ну что, мы включаем режим терминатора? | Well, are we switching on Terminator mode? | #279 00:17:03: Ну что, включаем режим терминатора? | verbatim |
 | 10 | Лёва | Да, включаем. | Yes, we are switching it on. | new | new |
 | 11 | Сеня | Тогда быстрее за работу. | Then faster to work. | new | new |
@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Guys, let's work faster.' 'Rebyata' is the friendly plural for 'guys', with no singular in common use. 'Davayte' is the plural 'let's', for a group.
-- 'We still have three dishes.' 'At us' means 'we have'. After the number three, 'dish' becomes 'blyuda'.
-- 'We will do everything now.' 'Sdelaem' is a single word for 'we will do'. 'Seychas' can mean 'now' or 'in a moment'.
-- 'Well, why are you standing?' 'Chego' is a casual way to ask 'why', literally 'of what'. Senya says it in the voice of a mate.
-- 'The chef said to work faster.' 'Skazal' is followed by the action in its basic form, so it's 'said to work'. It reports an order without repeating it.
-- 'Well done, Lyova.' 'Molodets' comes from 'molodoy', young, and it means 'good lad'. Russians use it for praise.
-- 'You are a good chef.' There's no 'are'. It's 'you good chef', and the ending on 'good' shows that the chef is a man.
-- 'Yes, well done.' Lyova repeats it. In Russian you can return a compliment by echoing it.
-- 'Well, are we switching on Terminator mode?' 'Vklyuchat' is used for lights, machines and modes alike. 'Mode of terminator' becomes 'terminatora' with an 'a' for 'of'.
-- 'Yes, we are switching it on.' Russians answer by repeating the action word. A separate 'yes' isn't needed, though 'da' comes first.
-- 'Then faster to work.' 'Za rabotu' is the idiom for 'to work!', as in 'get to work'. It has no verb in it.
-- 'The Terminator is ready to cook food.' 'Gotov' and 'gotovit' come from the same root, so 'ready to cook' literally sounds like 'ready to ready'. It's a small pun in the original.
-- 'Excellent, let's go faster.' 'Otlichno' is an adverb for 'excellent', which Russians shorten into a quick word of approval. 'Davayte' is 'let's'.
-- 'Everything will be ready on time.' Since 'everything' counts as neuter, 'ready' ends in 'o'. 'Vovremya' is 'on time', made from 'in' and 'time'.
+- 'Guys, let's work faster.' 'Rebyata' is the friendly 'guys' for a group. 'Davayte' is the group form of davay, and with an action after it, it means 'let's'.
+- 'We still have three dishes.' U nas is 'at us', the Russian 'we have'. After tri, three, blyudo becomes blyuda: two, three and four take that 'of' ending.
+- 'We will do everything now.' 'Sdelaem' looks like a present form, but because it's a finished-act verb it means 'we will do'. 'Seychas' can mean 'right now' or 'in a second'.
+- 'Well, why are you standing?' 'Chego' is literally 'of what', and in casual speech it's a blunt 'why'. 'Chego vy stoite' is what you'd say to people who should be moving.
+- 'The chef said to work faster.' After skazal, said, the order follows in its basic form: rabotat, to work. That's how Russians report an instruction.
+- 'Well done, Lyova.' 'Molodets' comes from molodoy, young, so it began as 'good lad'. Today it's the standard 'well done', and you can say it to a woman too.
+- 'You are a good chef.' No 'are': 'you good chef'. 'Khoroshiy' has its masculine ending because shef is a masculine word.
+- 'You did great.' Lyova hands the praise straight back: ty molodets, 'you well-done'. It's how Russians say 'you too'.
+- 'Well, are we switching on Terminator mode?' 'Vklyuchat' is the verb for switching on lights, machines and modes alike. 'Rezhim terminatora' is 'mode of terminator', with an 'a' for 'of'.
+- 'Yes, we are switching it on.' Lyova answers with Fedya's own verb, vklyuchaem. Repeating the verb is the natural Russian 'yes, we are'.
+- 'Then faster to work.' Za rabotu, literally 'to work', is the set call to get started. No verb is needed.
+- 'The Terminator is ready to cook food.' 'Gotov', ready, and gotovit, to cook, share a root, so it sounds like 'ready to ready'. Fedya is playing with the words.
+- 'Excellent, let's go faster.' 'Otlichno' on its own is a full reply, 'excellent'. 'Bystree' is 'faster', the comparing form of bystro, quickly.
+- 'Everything will be ready on time.' 'Vse', everything, is neuter, so gotov becomes gotovo. 'Vovremya', on time, is v plus vremya, 'in time', written as one word.

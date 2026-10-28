@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Responsibility is a strange thing.' Russian builds 'responsibility' from the verb 'to answer', so it means 'answerability'. Max calls it a 'shtuka', a casual word for 'thing'.
-- 'On the one hand, we are afraid of it.' 'S odnoy storony' is literally 'from one side', Russian for 'on the one hand'. 'Boimsya ee' is 'we fear it'.
-- 'And on the other hand...' 'S drugoy storony' is the pair to the line before. It's the other half of the idiom.
-- 'It is what earns us respect.' Russian starts with 'thanks to' to bring in the cause. The verb for 'earn' is used as in winning someone over.
-- 'And brings us closer together.' 'Blizhe' means 'closer', and 'drug k drugu' is 'friend to friend', meaning 'to each other'. It's a fixed pattern.
-- 'When we act irresponsibly...' 'Bezotvetstvennye' means 'without responsibility', built from 'bez', without. 'Postupki' are deeds.
-- 'We draw the right conclusions.' Russians 'make' conclusions, 'delat vyvody', where English draws them. 'Pravilnye' means 'right'.
-- 'That's it, I won't drink at work anymore.' 'Vsyo' stops the conversation. The word for 'work' gets an 'e' after 'at', and the 'ne' comes right before the verb.
-- 'I've decided.' 'Reshil' is the man's past, one word. It closes the matter.
-- 'I definitely won't drink.' Literally, 'exactly not drink'. Barinov says it twice over, which makes it less convincing.
-- 'But we should celebrate that.' Russian says 'one should mark' for 'celebrate'. The 'but' is Barinov's escape hatch.
-- 'Pour!' The order to pour ends the episode on a toast. Russians say it to anyone holding the bottle.
+- 'Responsibility is a strange thing.' 'Otvetstvennost' grows from otvet, 'answer', so it's 'answerability', like otvechaet za in the office. 'Shtuka' is a casual word for 'thing'.
+- 'On the one hand, we are afraid of it.' S odnoy storony is literally 'from one side'. 'Boimsya' ends in 'sya'; the verb never appears without it.
+- 'And on the other hand...' S drugoy storony, 'from the other side', completes the pair.
+- 'It is what earns us respect.' 'Blagodarya ey' is 'thanks to it', from blagodarit, to thank. 'Zavoyovyvaem' is literally 'we conquer', the verb you'd use for winning a war.
+- 'And brings us closer together.' Drug k drugu, 'friend to friend', is the fixed way to say 'each other'. 'Blizhe' is 'closer'.
+- 'When we act irresponsibly...' 'Bezotvetstvennye' is bez, 'without', plus the responsibility word. 'Sovershaya' means 'while committing', a form that ends in 'ya'.
+- 'We draw the right conclusions.' Russians 'make' conclusions, delat vyvody, where English draws them. 'Pravilnye', 'right', has the plural ending to match.
+- 'That's it, I won't drink at work anymore.' 'Vsyo', 'all', closes the topic. 'Bolshe ne' is 'no more', and na rabote is 'at work', with an 'e' after na.
+- 'I've decided.' 'Reshil' is a man's past form, a done deal. A woman would say reshila.
+- 'I definitely won't drink.' 'Tochno' is 'exactly', and here it means 'definitely'. Ne pyu is present, but it works as a promise for the future.
+- 'But we should celebrate that.' Nado otmetit is literally 'it's needed to mark it', the usual way to say 'let's celebrate'.
+- 'Pour!' 'Nalivay' is the ty command from nalit, the same verb as nalyot, Nastya's 'she will pour'. It's what you say to whoever has the bottle.

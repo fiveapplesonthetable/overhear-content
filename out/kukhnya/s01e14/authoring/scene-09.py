@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.14'
 SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
-INTRO = 'In the kitchen, Max has finished the special French dishes. He calls Kostya to carry them to the VIP table. Their exchange comes first, in Russian.'
-OPENER = 'Line by line, like a waiter carrying plates.'
+INTRO = 'In the kitchen, Max has finished the special French dishes. He calls Kostya to carry them to the VIP table. Listen to the two of them in Russian.'
+OPENER = 'Slowly now, plate by plate.'
 TRANSITION = 'Now the whole order again.'
-OUTRO = 'Kostya sets off for the dining room with plates and a message from the kitchen. Look at how steady his hands are. Talk soon.'
+OUTRO = "Kostya sets off for the dining room with the plates and a message from the kitchen. Remember 'priyatnogo appetita', the Russian bon appetit. Talk soon."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Костя, новый заказ для гостей готов.', 'Kostya, the new order for the guests is ready.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Иди скорее, гости уже ждут заказ!', 'Go quickly, the guests are already waiting for the order!', [], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, the new order for the guests is ready.' 'Zakaz' means 'order', in a restaurant. 'Gotov' is 'ready', and a man's form ends in a bare consonant because 'zakaz' is masculine."),
-    (1, None, "'Great, show me these beautiful plates.' 'Pokazhi' is 'show!'. 'Eti krasivye tarelki' is the plural, 'these beautiful plates', and all three words end in 'i' or 'e'."),
-    (2, None, "'Here is a delicious French steak and hot fish.' 'Vot' points at the plate. 'Hot' ends in 'aya' because 'fish' is feminine, while 'steak' is masculine and gets 'y'."),
-    (3, None, "'This dish looks very appetizing and expensive.' After 'looks', Russian uses the adverb, so it's 'looks expensively'. English prefers 'looks expensive'."),
-    (4, None, "'I cooked this rare recipe for a long time.' 'Dolgo' means for a long time. Max's 'gotovil' is a man's past form, and 'redkiy' means rare."),
-    (5, None, "'Our guests in the hall are very hungry.' 'Hungry' is plural here, ending in 'ye' to match 'gosti'. 'V zale' puts an 'e' on the hall after 'in'."),
-    (6, None, "'Then carry these plates right now.' The order 'carry!' is for carrying on foot. 'Right now' is literally 'straight now'."),
-    (7, None, "'I will quickly take the hot food to the guests.' 'Otnesu' is 'carry away to', with 'ot' showing the direction. The guests take 'yam' for 'to'."),
-    (8, None, "'Be sure to wish them bon appetit.' 'Of pleasant appetite' is the literal meaning of the set phrase. The order 'wish!' sits in front."),
-    (9, None, "'Of course, I will do everything very politely.' 'Vezhlivo' grows from 'vezhlivy', polite. 'Sdelayu' is 'I will do', in one word."),
-    (10, None, "'Say that the chef cooked for them.' 'Say!' is the order. After 'for', 'ikh' picks up an extra 'n' in front, so it's 'nikh'."),
-    (11, None, "'Good, I will pass on your warm words.' 'Peredam' is 'I'll pass on', and 'tyoplye slova' means 'warm words'. Russians use 'warm' for kind words, as English does."),
-    (12, None, "'Go quickly, the guests are already waiting for the order!' Russians wait the order, with no 'for'. 'Quicker' is the plain word for quick with an 'e'."),
+    (0, None, "'Kostya, the new order for the guests is ready.' 'Gotov', ready, matches 'zakaz', order, which is masculine. A dish, 'blyudo', would be 'gotovo', and a pizza 'gotova'."),
+    (1, None, "'Great, show me these beautiful plates.' 'Pokazhi' is the order 'show!'. 'Eti krasivye tarelki' is all plural: 'eto' becomes 'eti', and 'tarelka', plate, becomes 'tarelki'."),
+    (2, None, "'Here is a delicious French steak and hot fish.' 'Vot' is 'here is', for pointing at something. 'Ryba', fish, is feminine, so 'hot' is 'goryachaya'; 'steyk' is masculine and takes 'vkusny'."),
+    (3, None, "'This dish looks very appetizing and expensive.' After 'vyglyadit', looks, Russian uses the 'o' words, 'appetitno' and 'dorogo', literally 'looks appetizingly and expensively'."),
+    (4, None, "'I cooked this rare recipe for a long time.' 'Gotovil' is the kind of past that describes a process, so with 'dolgo', for a long time, it means 'I spent ages cooking'."),
+    (5, None, "'Our guests in the hall are very hungry.' 'Golodnye' ends in 'ye' to match the plural 'gosti'. 'Zal', the hall or dining room, becomes 'v zale', in the hall."),
+    (6, None, "'Then carry these plates right now.' 'Nesi' is 'carry!' when you carry by hand on foot. 'Pryamo seychas' is literally 'straight now', so 'this minute'."),
+    (7, None, "'I will quickly take the hot food to the guests.' 'Otnesu' has 'ot', away, for 'carry over'. 'Gostyam' is 'to the guests', with the plural 'yam' ending meaning 'to'."),
+    (8, None, "'Be sure to wish them bon appetit.' 'Priyatnogo appetita' is literally 'of pleasant appetite'. 'Pozhelat', to wish, puts what you wish into the 'of' form."),
+    (9, None, "'Of course, I will do everything very politely.' 'Vezhlivo', politely, is the 'o' form of 'vezhlivy', polite. 'Vsyo sdelayu' is 'everything I'll do', with 'vsyo' first."),
+    (10, None, "'Say that the chef cooked for them.' 'Ikh', them, gains an 'n' after little words like 'dlya', for: 'dlya nikh'. The same happens to 'nego' and 'ney'."),
+    (11, None, "'Good, I will pass on your warm words.' 'Peredam' is 'I'll pass on'. Kostya calls Max 'ty', so it's 'tvoi tyoplye slova', with 'tvoi', your, in the plural for 'slova', words."),
+    (12, None, "'Go quickly, the guests are already waiting for the order!' 'Skoree' is literally 'sooner', and 'idi skoree' is the everyday 'hurry up'. 'Zhdut zakaz' has no word for 'for'."),
 ]

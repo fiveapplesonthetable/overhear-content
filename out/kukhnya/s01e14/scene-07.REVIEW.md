@@ -27,17 +27,17 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Gerard Depardieu finishes my dish and says.' Put 'do', 'to the end', in front of 'eat' and you get 'finish eating'. 'Dish' is neuter, so 'my' turns into 'moyo'.
-- 'Did he really like everything so much?' 'Neuzheli' is a 'really?' that shows surprise. 'Emu ponravilos' is literally 'to him it was pleasing', so Russian makes the thing the subject and the person 'to him'.
-- 'He said that it is simply incredibly tasty!' 'Neveroyatno' is 'unbelievably', built from 'ne' and 'veroyatno', probably. 'Vkusno' needs no 'is'.
-- 'What, did he say it to you exactly like that?' 'Pryamo tak' is 'straight like that'. The little 'i' before 'said' stresses the point, as in 'did he really'.
-- 'Yes, exactly like that, only in the French language.' Russians say 'on French language', 'na frantsuzskom yazyke', where English says 'in'. 'Imenno tak' means 'precisely so'.
-- 'What a talented cook you are, Max!' The little 'zhe' makes the exclamation sound warm. 'Talented' is built from 'talent', and 'are' is missing, as usual.
-- 'Even a mother does not cook such tasty food!' 'Dazhe' means even. 'Such tasty food' ends in 'uyu' on both words, since food is what's cooked.
-- 'Are you now good friends with him?' 'Vy s nim' is literally 'you with him', so 'the two of you'. 'Friends' is irregular: one friend and many friends look different.
-- 'Since then Gerard and I are friends.' Russians say 'we with Gerard', not 'Gerard and I'. 'Druzhim' is a verb for being friends, which English has to build from 'be' plus 'friends'.
-- 'Tell us something else interesting, please!' The order 'tell!' is for telling a story. 'Interesting' ends in 'oe' because 'something' counts as neuter.
-- 'With great pleasure, lovely ladies.' 'S bolshim udovolstviem' is the stock reply for 'gladly'. 'Milye damy' is 'dear ladies', a flourish for the audience.
-- 'Once, when I worked in Paris...' 'Odnazhdy' is made of 'one' plus 'times', so 'one time', and it opens a story. 'V Parizhe' puts an 'e' on the city after 'in'.
-- 'What a wonderful and incredibly beautiful city!' 'Chudesny' grows out of 'chudo', miracle. A city is masculine, so both words end in 'y'.
-- 'Oh, I beg your pardon, it is time for me to run.' 'Proshu proshcheniya' is 'I ask forgiveness', the polite 'excuse me'. 'Mne pora' is 'to me time', so 'I must go'.
+- 'Gerard Depardieu finishes my dish and says.' Put 'do', up to the end, in front of the verb for eating and you get 'doedaet', eats up. 'Blyudo', dish, is neuter, so 'my' becomes 'moyo'.
+- 'Did he really like everything so much?' 'Neuzheli' is a surprised 'really?'. 'Emu ponravilos' is literally 'to him it was pleasing': the thing liked is the subject and the person is 'to him'.
+- 'He said that it is simply incredibly tasty!' 'Veroyatno' means 'probably', so 'neveroyatno' is 'improbably', the usual 'incredibly'. 'Eto vkusno', 'it tasty', needs no 'is'.
+- 'What, did he say it to you exactly like that?' 'Pryamo tak' is literally 'straight so'. The small 'i' in 'tak tebe i skazal' adds doubt, like 'he actually said that?'
+- 'Yes, exactly like that, only in the French language.' Russians speak 'na' a language, so 'in French' is 'na frantsuzskom yazyke', literally 'on the French tongue'. 'Imenno tak' is 'precisely so'.
+- 'What a talented cook you are, Max!' 'Kakoy zhe ty...!' is the warm 'what a ... you are!'; the 'zhe' adds the feeling. 'Talantlivy' is built on 'talant', talent.
+- 'Even a mother does not cook such tasty food!' 'Eda', food, is feminine and it's the thing cooked, so all three words end in 'u': 'takuyu vkusnuyu edu'. 'Dazhe' is 'even'.
+- 'Are you now good friends with him?' 'Vy s nim' is literally 'you with him', meaning the two of you. One friend is 'drug', but friends are 'druzya', with a new middle.
+- 'Since then Gerard and I are friends.' Russians say 'my s Zherarom', 'we with Gerard', for 'Gerard and I'. 'Druzhim' is a verb, 'we friend', from the same root as 'drug'.
+- 'Tell us something else interesting, please!' 'Rasskazhi' is the order 'tell!', from the same family as 'rasskaz', a story. In 'chto-nibud interesnoe', 'interesting' ends in 'oe' because 'something' counts as neuter.
+- 'With great pleasure, lovely ladies.' 'S bolshim udovolstviem' is the stock 'gladly'; 'with' puts 'udovolstvie', pleasure, into the 'em' form. 'Milye damy' is an old-fashioned flourish, 'dear ladies'.
+- 'Once, when I worked in Paris...' 'Odnazhdy' is 'one time', built like 'dvazhdy', twice. After 'v', in, the city takes an 'e': 'Parizh' becomes 'v Parizhe'.
+- 'What a wonderful and incredibly beautiful city!' 'Chudesny' comes from 'chudo', a miracle. 'Gorod', city, is masculine, so both describing words end in 'y'.
+- 'Oh, I beg your pardon, it is time for me to run.' 'Proshu proshcheniya' is literally 'I ask forgiveness'. 'Mne pora' is 'to me it's time', the standard way to say you have to go.

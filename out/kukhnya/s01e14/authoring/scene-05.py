@@ -13,11 +13,11 @@ SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'Barinov has arrived, but he has had too much to drink. Vika catches him in the corridor and refuses to let him near the guests. Listen first, in Russian.'
 OPENER = 'Slowly, once more.'
 TRANSITION = 'Here is the whole scene again.'
-OUTRO = 'Nobody manages to stop him, and he heads for the bar. Who tries hardest to keep him out of the dining room? See you next time.'
+OUTRO = "Nobody manages to stop him, and he heads for the bar. Two set phrases from this one: 'v takom sostoyanii', in such a state, and 'vyyti zamuzh', to marry. Bye for now."
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('vika', 'Шеф, зачем ты так сильно напился?', 'Chef, why did you get so drunk?', [(50, 'Ты зачем так нажирался?')], ''),
-    ('barinov', 'Я не напился, а выпил немного аперитива.', 'I am not drunk, but drank a little aperitif.', [(51, 'Не нажался,'), (52, 'а употребил некоторое количество дежестива в качестве аперитива.')], ''),
+    ('barinov', 'Я не напился, а выпил немного аперитива.', 'I did not get drunk, I had a little aperitif.', [(51, 'Не нажался,'), (52, 'а употребил некоторое количество дежестива в качестве аперитива.')], ''),
     ('vika', 'Ты еле стоишь на своих ногах.', 'You can barely stand on your feet.', [], ''),
     ('barinov', 'Лицо ресторана прибыло, я готов встречать гостей!', 'The face of the restaurant arrived, I am ready to welcome guests!', [(53, 'Короче говоря, лицо ресторана доставлено, я готов вам торговать.')], ''),
     ('vika', 'В таком состоянии ты к гостям не выйдешь!', 'In this state you will not go out to the guests!', [(54, 'Нет, в таком состоянии ты к гостям не выйдешь.')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('barinov', 'А пойдёмте все вместе проинспектируем бар!', 'Let us all together inspect the bar!', [(61, 'Пойдемте проинспектируем бар.'), (63, 'А пойдем-ка проинспектируем бар.')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, why did you get so drunk?' 'Napilsya' is built from 'pit', to drink, with 'na' for 'fill up' and 'sya' for 'oneself'. So 'drank himself full'. 'Zachem' is 'what for'."),
-    (1, None, "'I am not drunk, but drank a little aperitif.' 'Ne ... a ...' is the Russian 'not ... but ...'. 'Vypil' means 'drank up', and 'a little aperitif' adds an 'a'."),
-    (2, None, "'You can barely stand on your feet.' 'Ele' means barely, and the feet take an 'akh' ending for 'on'. It has the feel of 'hardly standing'."),
-    (3, None, "'The face of the restaurant arrived, I am ready to welcome guests!' 'Litso' is 'face' and works like the English 'face of the company'. 'Pribylo' is a formal 'arrived', used for trains and delegations, which makes Barinov sound grand."),
-    (4, None, "'In this state you will not go out to the guests!' Vika says 'in such a state' with a long, heavy word for 'state'. The going-out word starts with 'vy', which means 'out', so it is the same as English 'go out'."),
-    (5, None, "'And you will never get married.' It's the same word as Vika's 'go out', but 'to go out behind a husband' means to marry, and only a woman does it. The 'never not' needs both words."),
-    (6, None, "'Stop grabbing me so roughly.' The words for 'enough' and 'grab hold of' sound almost the same, because they grow from one root. It sounds like a pun, and Russians enjoy that."),
-    (7, None, "'I must personally check our restaurant.' 'Lichno', personally, can go in front of any action. Barinov means 'I and nobody else'."),
-    (8, None, "'Do something with this drunken monster!' The 'nibud' tacked onto 'something' means 'any'. 'Monster' grows from 'miracle', since a monster is odd and amazing."),
-    (9, None, "'I had a very good idea.' Russian says 'at me appeared an idea', 'u menya poyavilas ideya'. Ideas turn up, they're not had."),
-    (10, None, "'What other idea can there be now?' It's literally 'what else can be', and the 'what else' leans on the same 'what'. Vika is exasperated."),
-    (11, None, "'Let us all together inspect the bar!' The 'te' at the end turns 'let's go' into an invitation to a group. 'Inspect' is the English word with a Russian beginning."),
+    (0, None, "'Chef, why did you get so drunk?' 'Napilsya' is 'pit', to drink, with 'na' in front for 'one's fill' and 'sya' on the end for 'oneself': literally 'drank himself full'. 'Zachem' is 'what for'."),
+    (1, None, "'I did not get drunk, I had a little aperitif.' 'Ne ... a ...' is the Russian 'not this, but that'. After 'nemnogo', a little, the drink goes into its 'of' form, so 'aperitiv' becomes 'aperitiva'."),
+    (2, None, "'You can barely stand on your feet.' 'Ele' means 'barely'. 'Nogi', legs or feet, becomes 'na nogakh', on the feet; the 'akh' ending is the plural for 'on' and 'in'."),
+    (3, None, "'The face of the restaurant arrived, I am ready to welcome guests!' 'Pribylo' is an official 'arrived', the word on station announcements, so he sounds grand. It ends in 'lo' because 'litso', face, is neuter."),
+    (4, None, "'In this state you will not go out to the guests!' 'V takom sostoyanii' is the set phrase 'in such a state'. 'Vyydesh' starts with 'vy', out, so it really is 'you'll go out'."),
+    (5, None, "'And you will never get married.' Barinov plays on Vika's verb: 'vyyti zamuzh', literally 'go out behind a husband', is how a woman marries. 'Nikogda ne', never not, keeps both negatives."),
+    (6, None, "'Stop grabbing me so roughly.' 'Khvatit', enough, and 'khvatatsya', to grab hold, share a root, so the line nearly rhymes. You grab hold 'za' someone, hence 'za menya'."),
+    (7, None, "'I must personally check our restaurant.' 'Lichno', personally, comes from 'litso', the face we just heard. 'Dolzhen' plus a basic verb, 'proverit', is 'must check'."),
+    (8, None, "'Do something with this drunken monster!' Vika says 'sdelayte' with the 'te' ending, because she's asking everyone around her. 'Chto-nibud' is 'something, anything'."),
+    (9, None, "'I had a very good idea.' Literally, 'at me appeared a very good idea'. 'Poyavilas', appeared, ends in 'as' to match 'ideya', a feminine word."),
+    (10, None, "'What other idea can there be now?' 'Kakaya eshchyo' is literally 'which else', the impatient 'what other'. 'Kakaya' is feminine again, for 'ideya'."),
+    (11, None, "'Let us all together inspect the bar!' 'Poydyomte' is 'let's go', and its 'te' makes it an invitation to a group. 'Proinspektiruem' is the English 'inspect' with a Russian prefix and the 'we' ending 'em'."),
 ]

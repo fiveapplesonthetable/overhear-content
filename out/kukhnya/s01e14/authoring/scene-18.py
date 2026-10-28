@@ -13,7 +13,7 @@ SOURCE_FILE = 'sources/kukhnya/s01/e14.ru.dual.srt'
 INTRO = 'Lyova is in charge of the kitchen and he has found his voice. Senya and Fedya encourage him as he tries to speed up the cooks. Hear it in Russian first.'
 OPENER = 'Again, and listen to how the cooks cheer him on.'
 TRANSITION = 'Now the pep talk again, in full.'
-OUTRO = 'The Terminator is switched on, and the orders are on their way. Everyone suddenly moves very fast. See you next time.'
+OUTRO = "The Terminator is switched on, and the orders are on their way. Notice how often everyone says 'davayte' and 'bystree' here. Until the next scene."
 CLOSING = ('senya', 'Пока!')
 STORY = [
     ('lyova', 'Ребята, давайте работать быстрее.', "Guys, let's work faster.", [(273, 'Ребят, давайте ускоримся.')], ''),
@@ -21,9 +21,9 @@ STORY = [
     ('fedya', 'Сейчас мы всё сделаем.', 'We will do everything now.', [(275, 'Сейчас все сделаем.')], ''),
     ('senya', 'Ну, чего вы стоите?', 'Well, why are you standing?', [(276, 'Ну что встали?')], ''),
     ('senya', 'Шеф сказал работать быстрее.', 'The chef said to work faster.', [(276, 'Шеф сказал ускориться.')], ''),
-    ('senya', 'Молодец, Лёва.', 'Well done, Leva.', [(277, 'Ай, молодец, Лёва, шеф.')], ''),
+    ('senya', 'Молодец, Лёва.', 'Well done, Lyova.', [(277, 'Ай, молодец, Лёва, шеф.')], ''),
     ('senya', 'Ты хороший шеф.', 'You are a good chef.', [(277, 'Ай, молодец, Лёва, шеф.')], ''),
-    ('lyova', 'Да, молодец.', 'Yes, well done.', [(278, 'Молодец ты.')], ''),
+    ('lyova', 'Ты молодец.', 'You did great.', [(278, 'Молодец ты.')], ''),
     ('fedya', 'Ну что, мы включаем режим терминатора?', 'Well, are we switching on Terminator mode?', [(279, 'Ну что, включаем режим терминатора?')], ''),
     ('lyova', 'Да, включаем.', 'Yes, we are switching it on.', [], ''),
     ('senya', 'Тогда быстрее за работу.', 'Then faster to work.', [], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('senya', 'Всё будет готово вовремя.', 'Everything will be ready on time.', [], ''),
 ]
 WALK = [
-    (0, None, "'Guys, let's work faster.' 'Rebyata' is the friendly plural for 'guys', with no singular in common use. 'Davayte' is the plural 'let's', for a group."),
-    (1, None, "'We still have three dishes.' 'At us' means 'we have'. After the number three, 'dish' becomes 'blyuda'."),
-    (2, None, "'We will do everything now.' 'Sdelaem' is a single word for 'we will do'. 'Seychas' can mean 'now' or 'in a moment'."),
-    (3, None, "'Well, why are you standing?' 'Chego' is a casual way to ask 'why', literally 'of what'. Senya says it in the voice of a mate."),
-    (4, None, "'The chef said to work faster.' 'Skazal' is followed by the action in its basic form, so it's 'said to work'. It reports an order without repeating it."),
-    (5, None, "'Well done, Lyova.' 'Molodets' comes from 'molodoy', young, and it means 'good lad'. Russians use it for praise."),
-    (6, None, "'You are a good chef.' There's no 'are'. It's 'you good chef', and the ending on 'good' shows that the chef is a man."),
-    (7, None, "'Yes, well done.' Lyova repeats it. In Russian you can return a compliment by echoing it."),
-    (8, None, "'Well, are we switching on Terminator mode?' 'Vklyuchat' is used for lights, machines and modes alike. 'Mode of terminator' becomes 'terminatora' with an 'a' for 'of'."),
-    (9, None, "'Yes, we are switching it on.' Russians answer by repeating the action word. A separate 'yes' isn't needed, though 'da' comes first."),
-    (10, None, "'Then faster to work.' 'Za rabotu' is the idiom for 'to work!', as in 'get to work'. It has no verb in it."),
-    (11, None, "'The Terminator is ready to cook food.' 'Gotov' and 'gotovit' come from the same root, so 'ready to cook' literally sounds like 'ready to ready'. It's a small pun in the original."),
-    (12, None, "'Excellent, let's go faster.' 'Otlichno' is an adverb for 'excellent', which Russians shorten into a quick word of approval. 'Davayte' is 'let's'."),
-    (13, None, "'Everything will be ready on time.' Since 'everything' counts as neuter, 'ready' ends in 'o'. 'Vovremya' is 'on time', made from 'in' and 'time'."),
+    (0, None, "'Guys, let's work faster.' 'Rebyata' is the friendly 'guys' for a group. 'Davayte' is the group form of davay, and with an action after it, it means 'let's'."),
+    (1, None, "'We still have three dishes.' U nas is 'at us', the Russian 'we have'. After tri, three, blyudo becomes blyuda: two, three and four take that 'of' ending."),
+    (2, None, "'We will do everything now.' 'Sdelaem' looks like a present form, but because it's a finished-act verb it means 'we will do'. 'Seychas' can mean 'right now' or 'in a second'."),
+    (3, None, "'Well, why are you standing?' 'Chego' is literally 'of what', and in casual speech it's a blunt 'why'. 'Chego vy stoite' is what you'd say to people who should be moving."),
+    (4, None, "'The chef said to work faster.' After skazal, said, the order follows in its basic form: rabotat, to work. That's how Russians report an instruction."),
+    (5, None, "'Well done, Lyova.' 'Molodets' comes from molodoy, young, so it began as 'good lad'. Today it's the standard 'well done', and you can say it to a woman too."),
+    (6, None, "'You are a good chef.' No 'are': 'you good chef'. 'Khoroshiy' has its masculine ending because shef is a masculine word."),
+    (7, None, "'You did great.' Lyova hands the praise straight back: ty molodets, 'you well-done'. It's how Russians say 'you too'."),
+    (8, None, "'Well, are we switching on Terminator mode?' 'Vklyuchat' is the verb for switching on lights, machines and modes alike. 'Rezhim terminatora' is 'mode of terminator', with an 'a' for 'of'."),
+    (9, None, "'Yes, we are switching it on.' Lyova answers with Fedya's own verb, vklyuchaem. Repeating the verb is the natural Russian 'yes, we are'."),
+    (10, None, "'Then faster to work.' Za rabotu, literally 'to work', is the set call to get started. No verb is needed."),
+    (11, None, "'The Terminator is ready to cook food.' 'Gotov', ready, and gotovit, to cook, share a root, so it sounds like 'ready to ready'. Fedya is playing with the words."),
+    (12, None, "'Excellent, let's go faster.' 'Otlichno' on its own is a full reply, 'excellent'. 'Bystree' is 'faster', the comparing form of bystro, quickly."),
+    (13, None, "'Everything will be ready on time.' 'Vse', everything, is neuter, so gotov becomes gotovo. 'Vovremya', on time, is v plus vremya, 'in time', written as one word."),
 ]

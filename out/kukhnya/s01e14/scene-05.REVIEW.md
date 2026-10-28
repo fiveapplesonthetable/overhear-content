@@ -11,7 +11,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
 | 1 | Вика | Шеф, зачем ты так сильно напился? | Chef, why did you get so drunk? | #50 00:03:54: Ты зачем так нажирался? | verbatim |
-| 2 | Шеф | Я не напился, а выпил немного аперитива. | I am not drunk, but drank a little aperitif. | #51 00:03:57: Не нажался,<br>#52 00:03:59: а употребил некоторое количество дежестива в качестве аперитива. | verbatim |
+| 2 | Шеф | Я не напился, а выпил немного аперитива. | I did not get drunk, I had a little aperitif. | #51 00:03:57: Не нажался,<br>#52 00:03:59: а употребил некоторое количество дежестива в качестве аперитива. | verbatim |
 | 3 | Вика | Ты еле стоишь на своих ногах. | You can barely stand on your feet. | new | new |
 | 4 | Шеф | Лицо ресторана прибыло, я готов встречать гостей! | The face of the restaurant arrived, I am ready to welcome guests! | #53 00:04:04: Короче говоря, лицо ресторана доставлено, я готов вам торговать. | verbatim |
 | 5 | Вика | В таком состоянии ты к гостям не выйдешь! | In this state you will not go out to the guests! | #54 00:04:10: Нет, в таком состоянии ты к гостям не выйдешь. | verbatim |
@@ -25,15 +25,15 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'Chef, why did you get so drunk?' 'Napilsya' is built from 'pit', to drink, with 'na' for 'fill up' and 'sya' for 'oneself'. So 'drank himself full'. 'Zachem' is 'what for'.
-- 'I am not drunk, but drank a little aperitif.' 'Ne ... a ...' is the Russian 'not ... but ...'. 'Vypil' means 'drank up', and 'a little aperitif' adds an 'a'.
-- 'You can barely stand on your feet.' 'Ele' means barely, and the feet take an 'akh' ending for 'on'. It has the feel of 'hardly standing'.
-- 'The face of the restaurant arrived, I am ready to welcome guests!' 'Litso' is 'face' and works like the English 'face of the company'. 'Pribylo' is a formal 'arrived', used for trains and delegations, which makes Barinov sound grand.
-- 'In this state you will not go out to the guests!' Vika says 'in such a state' with a long, heavy word for 'state'. The going-out word starts with 'vy', which means 'out', so it is the same as English 'go out'.
-- 'And you will never get married.' It's the same word as Vika's 'go out', but 'to go out behind a husband' means to marry, and only a woman does it. The 'never not' needs both words.
-- 'Stop grabbing me so roughly.' The words for 'enough' and 'grab hold of' sound almost the same, because they grow from one root. It sounds like a pun, and Russians enjoy that.
-- 'I must personally check our restaurant.' 'Lichno', personally, can go in front of any action. Barinov means 'I and nobody else'.
-- 'Do something with this drunken monster!' The 'nibud' tacked onto 'something' means 'any'. 'Monster' grows from 'miracle', since a monster is odd and amazing.
-- 'I had a very good idea.' Russian says 'at me appeared an idea', 'u menya poyavilas ideya'. Ideas turn up, they're not had.
-- 'What other idea can there be now?' It's literally 'what else can be', and the 'what else' leans on the same 'what'. Vika is exasperated.
-- 'Let us all together inspect the bar!' The 'te' at the end turns 'let's go' into an invitation to a group. 'Inspect' is the English word with a Russian beginning.
+- 'Chef, why did you get so drunk?' 'Napilsya' is 'pit', to drink, with 'na' in front for 'one's fill' and 'sya' on the end for 'oneself': literally 'drank himself full'. 'Zachem' is 'what for'.
+- 'I did not get drunk, I had a little aperitif.' 'Ne ... a ...' is the Russian 'not this, but that'. After 'nemnogo', a little, the drink goes into its 'of' form, so 'aperitiv' becomes 'aperitiva'.
+- 'You can barely stand on your feet.' 'Ele' means 'barely'. 'Nogi', legs or feet, becomes 'na nogakh', on the feet; the 'akh' ending is the plural for 'on' and 'in'.
+- 'The face of the restaurant arrived, I am ready to welcome guests!' 'Pribylo' is an official 'arrived', the word on station announcements, so he sounds grand. It ends in 'lo' because 'litso', face, is neuter.
+- 'In this state you will not go out to the guests!' 'V takom sostoyanii' is the set phrase 'in such a state'. 'Vyydesh' starts with 'vy', out, so it really is 'you'll go out'.
+- 'And you will never get married.' Barinov plays on Vika's verb: 'vyyti zamuzh', literally 'go out behind a husband', is how a woman marries. 'Nikogda ne', never not, keeps both negatives.
+- 'Stop grabbing me so roughly.' 'Khvatit', enough, and 'khvatatsya', to grab hold, share a root, so the line nearly rhymes. You grab hold 'za' someone, hence 'za menya'.
+- 'I must personally check our restaurant.' 'Lichno', personally, comes from 'litso', the face we just heard. 'Dolzhen' plus a basic verb, 'proverit', is 'must check'.
+- 'Do something with this drunken monster!' Vika says 'sdelayte' with the 'te' ending, because she's asking everyone around her. 'Chto-nibud' is 'something, anything'.
+- 'I had a very good idea.' Literally, 'at me appeared a very good idea'. 'Poyavilas', appeared, ends in 'as' to match 'ideya', a feminine word.
+- 'What other idea can there be now?' 'Kakaya eshchyo' is literally 'which else', the impatient 'what other'. 'Kakaya' is feminine again, for 'ideya'.
+- 'Let us all together inspect the bar!' 'Poydyomte' is 'let's go', and its 'te' makes it an invitation to a group. 'Proinspektiruem' is the English 'inspect' with a Russian prefix and the 'we' ending 'em'.
