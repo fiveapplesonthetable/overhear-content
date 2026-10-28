@@ -10,7 +10,7 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 
 | # | Speaker | Script line | English meaning | Source subtitle line | Note |
 |---|---|---|---|---|---|
-| 1 | Настя | Всё, тут нам никто не помешает. | There, nobody will bother us here. | #207: никто не помешает | verbatim |
+| 1 | Настя | Всё, тут нам никто не помешает. | There, nobody will bother us here. | #207 00:15:22: никто не помешает | verbatim |
 | 2 | Костя | Настя, зачем мы сюда быстро пришли? | Nastya, why did we come here quickly? | new | new |
 | 3 | Настя | Нам нужно тихо поговорить без свидетелей. | We need to talk quietly without witnesses. | new | new |
 | 4 | Костя | Здесь действительно очень тихо и спокойно. | It is indeed very quiet and peaceful here. | new | new |
@@ -21,21 +21,21 @@ Each script line, its English meaning, and the subtitle line(s) it was taken fro
 | 9 | Настя | Отлично, тогда слушай меня очень внимательно. | Great, then listen to me very carefully. | new | new |
 | 10 | Костя | Я весь во внимании, говори скорее. | I am all ears, speak quickly. | new | new |
 | 11 | Настя | Мы разыграем один очень хитрый спектакль! | We will play out a very clever show! | new | new |
-| 12 | Костя | Ну да, я пока ничего не понимаю. | Well yeah, I do not understand anything yet. | #208: Ну да | verbatim |
+| 12 | Костя | Ну да, я пока ничего не понимаю. | Well yeah, I do not understand anything yet. | #208 00:15:28: Ну да | verbatim |
 | 13 | Настя | Скоро ты сам всё отлично поймёшь! | Soon you will understand everything perfectly yourself! | new | new |
 
 ## Walk-through narration (English only, no target-language words quoted)
 
-- 'There, nobody will bother us here.' Nastya ensures they have a secure spot to talk.
-- 'Nastya, why did we come here quickly?' Kostya is curious about the sudden need for secrecy.
-- 'We need to talk quietly without witnesses.' Nastya emphasizes the importance of a private conversation.
-- 'It is indeed very quiet and peaceful here.' Kostya agrees that they are safely hidden away.
-- 'Are you ready to help me a little?' Nastya asks for his cooperation in a special project.
-- 'Of course, I am always glad to help you.' Kostya eagerly offers his unconditional support.
-- 'Only promise not to tell anyone anything.' Nastya swears him to absolute secrecy first.
-- 'I promise, this will be our shared secret.' Kostya promises to keep his mouth shut.
-- 'Great, then listen to me very carefully.' Nastya prepares to outline her complex strategy.
-- 'I am all ears, speak quickly.' Kostya urges her to spill the details.
-- 'We will play out a very clever show!' Nastya reveals her intention to stage a fake scenario.
-- 'Well yeah, I do not understand anything yet.' Kostya admits he is completely lost.
-- 'Soon you will understand everything perfectly yourself!' Nastya promises that everything will make sense shortly.
+- 'There, nobody will bother us here.' The first word is a small one that means 'that's it' or 'right'. 'Nobody will bother' keeps its 'not' even with 'nobody', so it's 'nobody not will bother'.
+- 'Nastya, why did we come here quickly?' 'what for' asks about the purpose, not the cause. 'Came' is a word for arriving on foot, and 'here' is the 'to here' kind.
+- 'We need to talk quietly without witnesses.' 'We need' is 'to us needed'. 'witness' is built on 'to see', so it is someone who has seen.
+- 'It is indeed very quiet and peaceful here.' There is no 'is' in the Russian. It's just 'here really quietly and calmly'. 'Quiet' and 'peaceful' end in 'o'.
+- 'Are you ready to help me a little?' 'Ready' ends in a consonant because it's said to a man. 'Help' is followed by 'to me', as if you were giving help to someone.
+- 'Of course, I am always glad to help you.' 'Glad' is the man's form, and a woman would say it with an 'a' on the end. 'always' is easy to remember, and 'help you' has the same 'to you' shape as before.
+- 'Only promise not to tell anyone anything.' 'Only' starts the line. Then comes 'promise' as a command, and a stack of 'nos': 'to nobody nothing not tell'.
+- 'I promise, this will be our shared secret.' 'I promise' is a single word, in the same family as the command before it. 'Shared' comes from 'common'.
+- 'Great, then listen to me very carefully.' The first word is made from 'excellent'. 'Carefully' comes from 'attention'.
+- 'I am all ears, speak quickly.' It's a fixed phrase, and it means 'I am all in attention'. English says 'all ears', and Russian says 'all attention'.
+- 'We will play out a very clever show!' 'play out' is often used for staging a prank. 'Show' is the word for a stage play, and 'clever' here means sly.
+- 'Well yeah, I don't understand anything yet.' The little word 'yet' is the same as the one in the goodbye. 'Don't understand anything' has the 'nothing' and the 'not' together.
+- 'Soon you will understand everything perfectly yourself!' 'Yourself' is a small word that adds emphasis. 'Will understand' is a single word that means you suddenly get it.

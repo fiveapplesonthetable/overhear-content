@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nastya': 'Настя', 'sasha': 'Саша'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "In the quiet staff locker room, waitress Nastya weeps inconsolably after an encounter with Max left her heartbroken. Her pragmatic colleague Sasha refuses to let her wallow in self-pity and hatches a devious romantic plan for revenge. Let's listen to their conversation in Russian first."
-OPENER = "Let's examine how Sasha convinces Nastya to take control of the situation."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Now you understand Sasha's scheme to help Nastya rebound. Listen for these helpful conversational phrases next time you watch the episode. Next time you watch the episode, listen for the Russian expressions for 'bartender' and 'hurts' — you will catch every word right away. See you next time!"
+INTRO = "Nastya is still crying over Max, and her friend Sasha has decided that crying won't fix anything. She has a plan, and it involves Kostya the bartender. It's in Russian first, so just listen to how it sounds."
+OPENER = 'Slowly now. Sasha sounds like a general giving orders, and Nastya sounds unconvinced.'
+TRANSITION = 'And the whole plan once more.'
+OUTRO = "You've heard the Russian way of saying 'I'll feel better': the feeling simply 'becomes lighter'. It's one of those phrases you can reuse for a headache, a worry or a bad day. See you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('nastya', 'Макс поступил со мной очень плохо.', 'Max treated me very badly.', [], ''),
@@ -31,8 +31,17 @@ STORY = [
     ('sasha', 'Действуй прямо сейчас, не теряй времени.', 'Act right now, do not lose time.', [(157, 'Действуй давай')], ''),
 ]
 WALK = [
-    (0, None, "'You just need to get back at him.' Sasha suggests a proactive strategy to handle the heartbreak."),
-    (1, None, "'Start going out with his best friend.' Sasha proposes a specific target for the retaliation."),
-    (2, None, "'That way Max will hurt even more.' Sasha explains why this particular move will be effective."),
-    (3, None, "'Trust me, this is the very best option.' Sasha confidently guarantees the success of her scheme."),
+    (0, None, "'Max treated me very badly.' Russian says 'acted with me', with the small word for 'with me' in a different shape from plain 'me'. 'Very badly' is two easy words you'll use again."),
+    (1, None, "'Stop crying, Nastya, wipe your tears.' The first word is 'enough', and it's followed directly by 'to cry', with no 'of' or 'from'. 'Wipe' is a command, and 'tears' is the plural, which in Russian looks a lot like a soft 'zy' ending."),
+    (2, None, "'You just need to get back at him.' 'You need' is 'to you needed', which is the way Russian says it. 'Get back at' is built on 'revenge', and 'him' appears as 'to him'."),
+    (3, None, "'Will I feel better if I get revenge?' 'I will feel better' is literally 'to me will become lighter'. The same word for 'lighter' is also 'easier'."),
+    (4, None, "'Of course, you will immediately feel better.' Sasha uses the same 'to you will become lighter' shape. 'immediately' is a handy single word: 'at once'."),
+    (5, None, "'But how can I punish him?' 'I can' is a short form you'll use constantly. 'Punish' belongs to the family of 'punishment'."),
+    (6, None, "'Start going out with his best friend.' 'Start' is a command, and 'going out with' is the same one used for 'meeting'. 'His best friend' has an 'im' and an 'om' on the ends, because of 'with'."),
+    (7, None, "'With his friend? With bartender Kostya?' Nastya echoes the 'with' phrase and asks again. Each name and title keeps the same ending after the small word for 'with'."),
+    (8, None, "'Yes, exactly with Kostya!' 'exactly' goes right in front of what it points at. Sasha is not letting her wriggle out of it."),
+    (9, None, "'That way Max will hurt even more.' Russian says 'to Max will be even more painful', so Max sits in the 'to' slot. 'even' makes 'more' stronger."),
+    (10, None, "'Do you think that's really a good idea?' 'really' is a long one that means 'in fact', not just 'truly'. 'Think' is the same word that Russians use for 'you think so?'."),
+    (11, None, "'Trust me, this is the very best option.' 'Trust me' is 'believe to-me', with the little word for 'to me'. 'The very best' is 'the most best' again, a pattern that makes something extra strong."),
+    (12, None, "'Act right now, do not lose time.' 'Do not lose' is a no-command: 'not' followed by the command. 'Time' takes a different ending after it, because it's something you don't lose."),
 ]

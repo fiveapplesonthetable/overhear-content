@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'kostya': 'Костя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = 'After a turbulent day of kitchen rush, burned dishes, and fiery shouting from Chef Barinov, the staff of Claude Monet finally wrap up their evening shift. Max reflects on life, friendship, and the sweet relief of surviving another chaotic day.'
-OPENER = "Let's explore Max's closing reflections on surviving a chaotic day at Claude Monet."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With the stressful day behind him, Max heads home ready to face tomorrow's kitchen trials. Next time you watch the episode, listen for the Russian expressions for 'to happen' and 'to be' — you will catch every word right away. See you next time!"
+INTRO = "The evening shift at Claude Monet is over. Max, who has survived his first day as a fish cook, talks us through the day and the people in it, and we hear Kostya and Barinov in passing. It's in Russian first."
+OPENER = 'Now through it slowly. Most of this is Max thinking aloud, so the sentences are calm.'
+TRANSITION = 'Here is the whole wind-down again.'
+OUTRO = "That was the last scene of the episode, and you've now heard a lot of Russian about a very bad day. Good days are easier to describe. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('max', 'Бывают дни, когда всё идёт не так.', 'There are days when everything goes wrong.', [(314, 'бывают дни, когда у тебя все идет не так.')], ''),
@@ -32,18 +32,18 @@ STORY = [
     ('max', 'А сегодня пора немного отдохнуть.', 'And today it is time to rest a little.', [], ''),
 ]
 WALK = [
-    (0, None, "'There are days when everything goes wrong.' Max reflects on the turbulent shift in the kitchen."),
-    (1, None, "'In the kitchen today there was real rush.' The restaurant was overwhelmed with endless orders."),
-    (2, None, "'The chef shouted, and the orders did not end.' The head chef kept demanding perfection all evening."),
-    (3, None, "'But such difficult days always end.' Max finds comfort in knowing bad days do not last forever."),
-    (4, None, "'To someone this day brought something new.' Some staff members experienced unexpected surprises in the dining hall."),
-    (5, None, "'For someone everything stays the same.' Routine continues unaffected for others in the restaurant."),
-    (6, None, "'Hi, Nastya, glad to see you.' Kostya warmly greets the waitress at the end of the day."),
-    (7, None, "'I hope your shift went well.' The bartender smiles shyly as they wrap up work."),
-    (8, None, "'Seven thousand rubles on Spartak!' Chef Barinov rushes to place a passionate sports bet."),
-    (9, None, "'My favorite team will definitely win!' Viktor puts all his faith in the team as he bets."),
-    (10, None, "'Someone is sincerely happy with this day.' Others celebrate their personal triumphs with joy on this evening."),
-    (11, None, "'And I am happy that it ended.' Max expresses deep relief that the stressful day is finally over."),
-    (12, None, "'Tomorrow in the kitchen new work will begin.' Another chaotic day awaits the cooking staff in the morning."),
-    (13, None, "'And today it is time to rest a little.' Max heads home ready for a peaceful night of sleep."),
+    (0, None, "'There are days when everything goes wrong.' 'There are' here is 'happen', which Russians use for things that come round. 'Goes wrong' is literally 'goes not so'."),
+    (1, None, "'In the kitchen today there was a real rush.' 'Was' ends in 'a' to match 'rush', which is a she-word. 'Real' is the same word that means 'true', as in 'true love'."),
+    (2, None, "'The chef shouted, and the orders did not end.' The little word 'a' in the middle is a contrast, like 'while'. 'Did not end' ends in 'sya', which is 'finish themselves'."),
+    (3, None, "'But such difficult days always end.' 'Difficult' comes from 'labour'. 'Such' and 'difficult' have the same plural ending."),
+    (4, None, "'To someone this day brought something new.' 'Someone' is 'who' plus a tiny 'to', and here it is in the 'to' form. 'Something' is 'what' with the same little piece."),
+    (5, None, "'For someone everything stays the same.' 'The same' is literally 'in the old way'. 'Stays' ends in 'sya'."),
+    (6, None, "'Hi, Nastya, glad to see you.' 'Glad' is the man's form. 'To see you' has 'you' in a changed shape."),
+    (7, None, "'I hope your shift went well.' 'I hope' is one word. 'Your shift went' uses 'went' in the sense of 'passed', as if the shift walked by."),
+    (8, None, "'Seven thousand rubles on Spartak!' Barinov loves Spartak, a Moscow football club, so he bets on them. 'Thousand' has a plural form after 'seven'."),
+    (9, None, "'My favorite team will definitely win!' 'Favorite' comes from 'to love'. 'Will win' is a one-word future."),
+    (10, None, "'Someone is sincerely happy with this day.' 'Sincerely' is built from the same family as 'sincere'. 'Glad' is followed by the 'to' form, so it's 'glad to this day'."),
+    (11, None, "'And I am happy that it ended.' 'Happy' ends in a consonant because Max is a man. 'It ended' is about the day, which is masculine in Russian."),
+    (12, None, "'Tomorrow in the kitchen new work will begin.' 'Tomorrow' is a short word. 'Will begin' ends in 'sya', so the work begins itself."),
+    (13, None, "'And today it is time to rest a little.' 'Time to' is a short word with no 'is'. 'Rest' comes from 'a break'."),
 ]

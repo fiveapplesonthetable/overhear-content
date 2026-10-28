@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'nastya': 'Настя', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "In the staff hallway behind the dining room, art director Victoria finds waitress Nastya crying after an argument with Max. Victoria gives her practical advice on dealing with heartbreak and urges her to focus on work. Let's listen to their conversation in Russian first."
-OPENER = "Let's review this comforting conversation in the hallway line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Encouraged by Victoria's supportive words, Nastya returns to her duties in the restaurant. See you next time!"
+INTRO = "Nastya has just heard from Max that there was never anything between them, and she is crying in the staff corridor behind the dining room. Vika, the restaurant's art director, finds her there. It's in Russian first, and you don't need to catch everything."
+OPENER = 'Now through it slowly. Vika is brisk and kind in a no-nonsense way.'
+TRANSITION = 'Here is the whole talk once more.'
+OUTRO = "Vika gives a lot of good Russian commands: don't, wash, calm down, go back. They all end in the same few sounds, which makes them easy to spot. See you next time."
 CLOSING = ('nastya', 'Пока!')
 STORY = [
     ('vika', 'Настя, почему ты так горько плачешь?', 'Nastya, why are you crying so bitterly?', [(111, 'Настя, что случилось')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('nastya', 'Вы абсолютно правы, иду работать!', 'You are absolutely right, I am going to work!', [], ''),
 ]
 WALK = [
-    (0, None, "'Nastya, why are you crying so bitterly?' Vika finds the distraught waitress crying in the corridor."),
-    (1, None, "'Max treated me very badly.' Nastya reveals her deep disappointment in the new cook."),
-    (2, None, "'What did this guy do again?' Vika asks for specific details about the latest offense."),
-    (3, None, "'He said that we are just friends.' Nastya tearfully recounts how she was rejected."),
-    (4, None, "'Do not be upset over a foolish cook.' Vika tries to put the situation into realistic perspective."),
-    (5, None, "'I feel very hurt and sad.' Nastya admits how painful the sudden rejection feels."),
-    (6, None, "'Wash your face with cold water and calm down.' Vika offers practical advice to restore composure."),
-    (7, None, "'Thank you for the support, Victoria Sergeevna.' Nastya expresses gratitude to her manager for the comfort."),
-    (8, None, "'Return to the dining hall, the guests are waiting for their order.' Vika reminds her that the customers need her attention."),
-    (9, None, "'I already dried my tears and am ready.' Nastya gathers herself with quiet determination."),
-    (10, None, "'Good girl, work cures everything!' Vika encourages her with reassuring confidence."),
-    (11, None, "'You are absolutely right, I am going to work!' Nastya agrees and heads back to her duties."),
+    (0, None, "'Nastya, why are you crying so bitterly?' 'bitterly' is the one for the taste. Russians cry 'bitterly', just as the English cry bitter tears."),
+    (1, None, "'Max treated me very badly.' Russian says 'acted with me', and the small word for 'with me' has a different form from 'me' alone. The two words 'very badly' do the rest."),
+    (2, None, "'What did this guy do again?' Vika says 'this guy' rather than his name, which shows she's fed up. 'did' carries the sense of 'gone and done something bad'."),
+    (3, None, "'He said that we are just friends.' 'just' here means 'merely'. 'Friends' is the plural of 'friend', and it changes the vowel at the end."),
+    (4, None, "'Do not be upset over a foolish cook.' Russian makes 'don't' by putting 'not' before the command. It ends in 'sya', so it is really 'don't upset yourself'."),
+    (5, None, "'I feel very hurt and sad.' She says 'to me hurtful and hard', with the feelings sitting outside her. This is the standard way to talk about a feeling in Russian."),
+    (6, None, "'Wash your face with cold water and calm down.' Both commands end in 'sya': 'wash yourself' and 'calm yourself'. 'With cold water' changes both words' endings to show 'using'."),
+    (7, None, "'Thank you for the support, Victoria Sergeevna.' Nastya uses the full name and the father's name, which is the polite way to address a senior colleague. Vika is usually 'Vika' in the kitchen, but here she's treated with respect."),
+    (8, None, "'Go back to the dining room, the guests are waiting for their order.' 'Go back' ends in 'sya' too: 'return yourself'. The word for the dining room is short, and 'wait' is followed directly by what you're waiting for."),
+    (9, None, "'I have already dried my tears and I am ready.' 'Dried' ends in 'la' because Nastya is a woman. 'ready' also takes a woman's ending, an 'a'."),
+    (10, None, "'Good girl, work cures everything!' The first word is a pet word for a clever woman, from 'mind'. Then 'cures' is a doctor's word, so work is the medicine."),
+    (11, None, "'You are absolutely right, I am going to work!' She switches to the polite 'you' again, and 'right' takes the plural ending to match. 'I am going' is the word for walking, and it takes 'to work' straight after it."),
 ]

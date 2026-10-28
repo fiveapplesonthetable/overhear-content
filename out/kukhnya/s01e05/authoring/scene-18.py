@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Chef Viktor Barinov decides to test Max's culinary endurance during dinner service. He publicly puts Max in sole charge of the demanding fish station. Barinov then secretly orders the waiters to push cod dishes, flooding Max with overwhelming orders. Let's listen to their confrontation in Russian first."
-OPENER = "Let's analyze this intense kitchen trial line by line. Notice how culinary hierarchy and restaurant pressure create high-stakes professional drama."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Max faces a grueling test under Chef Barinov's watchful and demanding eye. Fantastic job practicing everyday culinary Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'fast' — you will catch every word right away. See you next time!"
+INTRO = "Barinov decides to test Max properly: tonight Max runs the fish station, alone. What Max doesn't know is that the chef is about to make sure the orders keep coming. It's in Russian first, and you can leave a few words behind."
+OPENER = "Let's walk through it. Barinov gives the orders, and Max says yes to each one."
+TRANSITION = 'Here is the whole rush once more.'
+OUTRO = "'Yes, chef', 'I will cope', 'prove it'. This is the grammar of a working kitchen, in short and fast words. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('barinov', 'Все заказы по рыбе выполняешь ты!', 'You are handling all the fish orders!', [(243, 'все заказы по рыбе')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('barinov', 'Вот и докажи это делом, огузок!', 'Prove it with action then, rump!', [], ''),
 ]
 WALK = [
-    (0, None, "'You are handling all the fish orders!' Barinov intentionally overloads the rookie with responsibilities."),
-    (1, None, "'Yes, Chef, I am ready to work!' Max confidently accepts the massive workload."),
-    (2, None, "'Let us see what kind of fish master you are.' Barinov challenges the young cook to prove his worth."),
-    (3, None, "'I will prepare all dishes very quickly.' Max boldly promises to deliver everything on time."),
-    (4, None, "'Maxim, take the order: two cod Florentines!' Barinov calls out another challenging ticket."),
-    (5, None, "'Yes, Chef, I am already starting to cook.' Max assures the boss he is already on it."),
-    (6, None, "'And two more portions of cod with almonds!' Barinov piles on even more portions to test him."),
-    (7, None, "'But I already took two dishes!' Max protests the sudden increase in volume."),
-    (8, None, "'Do not argue, Fedya managed somehow!' Barinov shuts down the complaints by comparing him to a veteran."),
-    (9, None, "'I do not have enough fresh fish here.' Max points out a critical shortage of ingredients."),
-    (10, None, "'Search in the storage and hustle faster!' Barinov tells him to solve the problem himself and hurry up."),
-    (11, None, "'I will handle all orders myself.' Max stubbornly insists he can handle the pressure."),
-    (12, None, "'Prove it with action then, rump!' Barinov demands that he stop talking and start cooking."),
+    (0, None, "'You are handling all the fish orders!' The word 'you' is at the very end, which stresses it: 'it's you who does them'. 'Fish orders' is 'orders on fish'."),
+    (1, None, "'Yes, Chef, I am ready to work!' The first word is what a soldier says to an order, a bit like 'aye, sir'. 'Ready for work' uses a short 'toward' word before the work."),
+    (2, None, "'Let us see what kind of fish master you are.' 'What sort out of you' is the Russian way to say 'what you're made of'. 'Fish' turns into a describing word, so it's 'fishy master'."),
+    (3, None, "'I will prepare all dishes very quickly.' 'All' is the plural kind, to match 'dishes'. 'Prepare' is the 'I will' form, which finishes with 'u'."),
+    (4, None, "'Maxim, take the order: two cod Florentines!' Barinov uses Max's full name, which is stricter. 'Two' is the female form because the fish is female, and the 'po' and 'ski' on the dish name mean 'in the style of'."),
+    (5, None, "'Yes, Chef, I am already starting to cook.' 'Already' is a useful little word. 'I start' ends in 'u', and the cooking word comes straight after it."),
+    (6, None, "'And two more portions of cod with almonds!' 'More' is the same small word you hear for 'still'. 'With almonds' ends in 'om' because of 'with'."),
+    (7, None, "'But I already took two dishes!' The little word at the start adds 'after all', as in 'I've only just taken two!' After 'two', the dish word looks singular, but the form is a special one."),
+    (8, None, "'Do not argue, Fedya managed somehow!' 'Don't argue' is 'not' and then a command, from 'dispute'. 'Managed' is 'coped', and 'somehow' is a nice vague little word."),
+    (9, None, "'I do not have enough fresh fish here.' Russian says 'to me not enough', and then 'of fresh fish', in a slightly different shape. The word 'here' is the one for a place."),
+    (10, None, "'Search in the storage and hustle faster!' 'hustle' is literally 'spin', and it ends in 'sya'. 'Faster' is built from 'fast' with 'ee' on the end."),
+    (11, None, "'I will handle all orders myself.' 'Handle' is the 'I will' form of 'cope'. 'With all orders' has 'with' plus an 'imi' ending."),
+    (12, None, "'Prove it with action then, rump!' 'Prove' is a command, and 'with action' is just the word for a deed with 'om' on the end. The last word is the chef's nickname for Max."),
 ]

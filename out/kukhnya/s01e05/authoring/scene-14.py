@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'kostya': 'Костя', 'nastya': 'Настя'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "Stepping away from the bustling restaurant floor, waitress Nastya leads bartender Kostya into a secluded pantry. Gathering her courage, she asks him whether he genuinely wants to start dating her, prompting Kostya to happily confess his feelings. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the romantic expressions, polite modal structures, and emotional affirmations."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Nastya and Kostya take an important step forward in their relationship before returning with smiles to their work duties. Great work practicing romantic conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'to come back' and 'to meet' — you will catch every word right away. See you next time!"
+INTRO = "Nastya has decided to follow Sasha's plan, and she finds Kostya near the bar. She asks him to come with her somewhere quiet, where she can ask him something. Kostya, who has been in love with her for ages, can hardly believe it. It's in Russian first."
+OPENER = "Let's go back. Both of them are nervous, and you can hear it in the short questions."
+TRANSITION = "That's the whole pantry talk. Here it is again."
+OUTRO = "'I like you' is one of the most useful things to be able to say. In Russian it is 'you to me are pleasing', and you've heard it said happily here. See you next time."
 CLOSING = ('kostya', 'Пока!')
 STORY = [
     ('nastya', 'Костя, привет, ты сейчас сильно занят?', 'Kostya, hi, are you very busy right now?', [(175, 'Костя, привет'), (177, 'Ты занят')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('kostya', 'Теперь нам пора возвращаться к гостям.', 'Now it is time for us to return to the guests.', [(185, 'два блюда')], ''),
 ]
 WALK = [
-    (0, None, "'Kostya, hi, are you very busy right now?' Nastya tentatively checks if the bartender has a moment."),
-    (1, None, "'Hi, Nastya, no, I am completely free.' Kostya happily confirms he is available to talk."),
-    (2, None, "'Then come with me into the quiet room.' Nastya asks him to step away for some privacy."),
-    (3, None, "'Wait a second, where exactly are we going?' Kostya is slightly confused but follows her lead."),
-    (4, None, "'I wanted to ask you seriously for a long time.' Nastya builds up to her important question."),
-    (5, None, "'I will listen to you with pleasure now.' Kostya gives her his undivided attention."),
-    (6, None, "'Do you want us to start dating?' Nastya finally asks the big romantic question."),
-    (7, None, "'Nastya, I just got a little confused.' Kostya is caught completely off guard by the proposal."),
-    (8, None, "'Or do you not want this at all?' Nastya starts to backtrack, fearing a rejection."),
-    (9, None, "'Of course I want to, I like you very much!' Kostya quickly recovers and eagerly accepts."),
-    (10, None, "'I am very glad to hear this from you.' Nastya expresses relief at his positive response."),
-    (11, None, "'Now it is time for us to return to the guests.' Kostya points out they need to get back to their jobs."),
+    (0, None, "'Kostya, hi, are you very busy right now?' 'busy' is for a man; a woman would add an 'a'. 'Very' here is the one that means 'strongly'."),
+    (1, None, "'Hi, Nastya, no, I am completely free.' 'Completely' is the same small word as in 'not at all'. 'Free' ends in a consonant because Kostya is a man."),
+    (2, None, "'Then come with me into the quiet room.' 'Let's go' ends in 'yom', a form that means 'we'. 'With me' is 'so mnoy', where the 'so' is just 'with' made easier to say."),
+    (3, None, "'Wait a second, where exactly are we going?' 'where to' is not the same as 'where at'; Russian wants one for movement. 'Wait' is a command that sounds like 'hang on'."),
+    (4, None, "'I wanted to ask you seriously for a long time.' 'Wanted' ends in 'a' because Nastya is a woman. 'For a long time' is a single word that works with a past action."),
+    (5, None, "'I will listen to you with pleasure now.' 'With pleasure' is a short, polite phrase, and it takes three words. 'hear out' has a prefix that means 'all the way to the end'."),
+    (6, None, "'Do you want us to start dating?' Russian doesn't say 'want us to start'. It says 'want so-that we started', using a past form after a linking word. 'Dating' is the same 'meeting' word that Russians use for going out."),
+    (7, None, "'Nastya, I just got a little confused.' The long word at the end ends in 'sya', and it means roughly 'lost myself'. 'Just' and 'a little' soften it, so he sounds shy."),
+    (8, None, "'Or do you not want this at all?' 'Not at all' is built from 'completely' and 'not'. 'This' ends in 'ogo', because Russian changes it after a negative 'want'."),
+    (9, None, "'Of course I want to, I like you very much!' Kostya answers with one word, 'I want', and then there's no 'I' in the second half either. 'You to me are pleasing' is the Russian way to say 'I like you'."),
+    (10, None, "'I am very glad to hear this from you.' 'glad' ends in 'a' for a woman. 'From you' is the same pair of words that Russians use for any 'from'."),
+    (11, None, "'Now it is time for us to return to the guests.' 'time to' is short and has no 'is'. 'To us' sits right after it, and 'to the guests' needs the little word 'k' to mean 'toward'."),
 ]

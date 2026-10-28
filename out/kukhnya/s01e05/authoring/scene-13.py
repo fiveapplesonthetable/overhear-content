@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'max': 'Макс', 'vika': 'Вика'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, restaurant administrator Vika confronts young cook Max with an eggplant in hand. Furious that waitress Nastya has been crying all day, Vika delivers an unmistakable warning before leaving Max to finish his soup. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the workplace boundaries, assertive imperatives, and expressive kitchen language."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Vika leaves no doubt about protecting her restaurant floor staff, while Max quickly turns his attention back to his culinary duties. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'absolutely' and 'poor' — you will catch every word right away. See you next time!"
+INTRO = "Vika runs the dining room at Claude Monet, and she has heard that Nastya has been crying all day. She finds Max in the kitchen, still holding a vegetable, and gives him a warning he won't forget. Listen to it in Russian first."
+OPENER = 'Now slowly. Vika is angry and precise, which makes her easy to follow.'
+TRANSITION = "Once more, from Vika's first shout."
+OUTRO = "Vika's warning is built from small useful pieces: 'never again', 'for the last time', 'because of you'. Keep those and you can be stern in Russian too. See you next time."
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('vika', 'Макс, иди сюда прямо сейчас!', 'Max, come here right now!', [(159, 'Иди сюда')], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'И не забыть добавить свежих сливок.', 'And not forget to add fresh cream.', [(174, 'добавить сливок')], ''),
 ]
 WALK = [
-    (0, None, "'Max, come here right now!' Vika demands the young cook's immediate attention."),
-    (1, None, "'Hi, Vika, what happened?' Max greets her, unaware of the impending storm."),
-    (2, None, "'Listen to me very attentively once.' Vika tells him to listen closely because she will only say this once."),
-    (3, None, "'Do not touch my waitresses ever again!' Vika strictly forbids him to bother her staff in the hall."),
-    (4, None, "'Or I will take very strict measures.' Vika threatens severe consequences if he disobeys."),
-    (5, None, "'Vika, why are you so angry?' Max is genuinely confused by the intense hostility."),
-    (6, None, "'Poor Nastya has been crying because of you all day.' Vika explains the damage his actions have caused."),
-    (7, None, "'But absolutely nothing happened between us!' Max desperately tries to clear his name."),
-    (8, None, "'I saw your strange conversations by the bar.' Vika dismisses his excuses, having witnessed the drama firsthand."),
-    (9, None, "'I warned you for the last time.' Vika firmly states that this is his final warning."),
-    (10, None, "'Alright, I understood you, thanks for the advice.' Max wisely backs down and accepts the scolding."),
-    (11, None, "'Now I need to quickly salt the soup.' Max awkwardly uses his work as an excuse to escape."),
-    (12, None, "'And not forget to add fresh cream.' Max mutters about his recipe to diffuse the tension."),
+    (0, None, "'Max, come here right now!' There are two words for 'here' in Russian, one for 'I am here' and one for 'come here'. This one is the 'come here' type, which is why it goes with a command."),
+    (1, None, "'Hi, Vika, what happened?' The last word is the past of 'to happen', and it is built on 'chance'. It's what you ask when someone looks upset."),
+    (2, None, "'Listen to me very attentively, one time.' 'Listen' is the plain command, and 'attentively' is built on 'attention'. 'One time' is literally 'one time', which means 'only once'."),
+    (3, None, "'Don't touch my waitresses ever again!' 'Don't' goes before the command. The word for a female waiter is the male word with 'ka' on the end, and 'never again' is 'more never'."),
+    (4, None, "'Or I will take very strict measures.' Russian 'accepts' measures, rather than 'taking' them. 'Strict' comes before 'measures' and the two words share the same ending."),
+    (5, None, "'Vika, why are you so angry?' The last word ends in 'sya', so it means 'be angry' as a state you are in. The little word 'so' in front of 'strongly' gives it extra force."),
+    (6, None, "'Poor Nastya has been crying because of you all day.' 'Poor' is 'pitiable', and it comes before her name. 'All day' is just 'all' and 'day', with no word for 'the whole of'."),
+    (7, None, "'But absolutely nothing happened between us!' 'Between us' has an unusual form for 'us'. 'Nothing was not' is a negative on top of a negative, and it's correct."),
+    (8, None, "'I saw your strange conversations by the bar.' 'Saw' ends in 'la' because Vika is a woman. 'Your' is the plural kind, as it points at Max and Nastya together."),
+    (9, None, "'I warned you for the last time.' 'warned' starts with a prefix meaning 'before'. 'For the last time' is 'in the last time' in Russian."),
+    (10, None, "'Alright, I understood you, thanks for the advice.' Max says 'understood' with no ending, since he is a man. 'Thanks for' is two small words, and the thing you're thanking someone for comes right after."),
+    (11, None, "'Now I need to quickly salt the soup.' 'to salt' is built on the word for salt itself. 'I need' is 'to me needed', the usual way to say it."),
+    (12, None, "'And not forget to add fresh cream.' Cream is always plural in Russian, so it's more like 'the creams'. 'Not forget' is a neat pair of words that you can reuse in any list of reminders."),
 ]

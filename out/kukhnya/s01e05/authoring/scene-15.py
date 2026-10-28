@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'barinov': 'Шеф', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "In the kitchen of Claude Monet, Chef Barinov and cook Max await Victoria's final decision on the competitive fish tasting. Victoria lavishly praises the winning dish while ruthlessly condemning the loser's creation, leaving the triumphant head chef in high spirits. Let's listen to their conversation in Russian."
-OPENER = "Let's examine the dialogue sentence by sentence. Notice the tasting terms, evaluation adjectives, and dramatic culinary rivalry."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "Chef Barinov celebrates another victory for culinary perfection while the kitchen prepares to dazzle their dinner guests. Great work practicing conversational Russian! Next time you watch the episode, listen for the Russian expressions for 'dish' and 'big' — you will catch every word right away. See you next time!"
+INTRO = "The fish duel is over, and the verdict is about to be read out. Vika has tasted both dishes, and Chef Barinov is relaying what she said to Max, who is bracing for the worst. It's in Russian first, and you don't need to understand all of it."
+OPENER = "Let's take the verdict apart. Barinov enjoys this far too much."
+TRANSITION = 'And now the full verdict again.'
+OUTRO = 'A good chunk of this scene was borrowed words: verdict, jury, congratulations. If you can hear them, you already know more Russian than you thought. See you next time.'
 CLOSING = ('barinov', 'Пока!')
 STORY = [
     ('max', 'Шеф, кажется, сейчас мне наступит конец.', 'Chef, it seems the end has come for me now.', [(187, 'Мне конец')], ''),
@@ -30,16 +30,16 @@ STORY = [
     ('max', 'Надеюсь, наши гости останутся очень довольны.', 'I hope our guests will remain very pleased.', [(202, 'Вкусно, да')], ''),
 ]
 WALK = [
-    (0, None, "'Chef, it seems the end has come for me now.' Max nervously anticipates a harsh judgment."),
-    (1, None, "'Keep quiet and listen to the jury' Barinov commands silence before announcing the result."),
-    (2, None, "'Victoria chose this first dish in particular.' Barinov reveals the manager's favorite plate."),
-    (3, None, "'And the second fish she called awful?' Max anxiously asks for feedback on the other entry."),
-    (4, None, "'She didn't recommend it to anyone in the hall.' Barinov reports the brutal feedback on the loser's effort."),
-    (5, None, "'Congratulations, our cook won fairly today!' Barinov happily declares the official winner of the bet."),
-    (6, None, "'Thank you very much for the great, fair evaluation.' Max expresses sarcastic gratitude for the devastating review."),
-    (7, None, "'Lord, how incredibly delicious this is!' Barinov excitedly praises the winning entry."),
-    (8, None, "'Chef, let me taste a little too.' Max humbly requests a bite of the superior creation."),
-    (9, None, "'Wait, I haven't properly tasted it myself yet.' Barinov selfishly refuses to share his prize."),
-    (10, None, "'And the losing cook must finish eating everything himself.' Barinov gleefully announces the punishment for the loser."),
-    (11, None, "'I hope our guests will remain very pleased.' Max tries to save face by focusing on customer satisfaction."),
+    (0, None, "'Chef, it seems the end has come for me now.' Max uses 'it seems', which is a handy way to soften any guess. 'To me an end' is how Russian says 'I'm finished', and 'will set in' is the one used for seasons arriving."),
+    (1, None, "'Keep quiet and listen to the jury's strict verdict.' Both commands are short: 'be quiet' and 'listen'. 'Verdict' and 'jury' are borrowed, so they sound nearly like English."),
+    (2, None, "'Vika chose this first dish in particular.' Barinov calls her by her full first name here, which is more formal than 'Vika'. 'dish' ends in 'o', and 'this' and 'first' end in 'o' too, to match it."),
+    (3, None, "'And the second fish she called awful?' 'awful' comes from 'horror'. Russian says 'called the fish awful' with a special ending on 'awful', rather than 'as' or 'to be'."),
+    (4, None, "'She didn't recommend it to anyone in the hall.' 'Recommend' is built on 'advice', so it is 'she didn't advise it'. 'To nobody' is a single word, and the 'not' stays in the sentence."),
+    (5, None, "'Congratulations, our cook won fairly today!' The first word is 'I congratulate', in one word with no 'I'. 'Fairly' comes from 'honor', so it is 'honestly'."),
+    (6, None, "'Thank you very much for the great, fair evaluation.' Russian says 'thanks big' for 'thank you very much'. 'Fair' comes from 'justice', and 'evaluation' is a close cousin of a school grade."),
+    (7, None, "'Lord, how incredibly delicious this is!' The first word is what Russians say when they're amazed, like 'good Lord'. 'Delicious' is built from 'taste'."),
+    (8, None, "'Chef, let me taste a little too.' 'give' with the 'te' ending is the polite form, because Max is talking to his boss. 'Too' is a small word that sits in the middle, and 'a little' is one word."),
+    (9, None, "'Wait, I haven't properly tasted it myself yet.' 'myself' stresses who's doing the tasting. 'Not yet' is two small words, and the long word at the end has a prefix that means 'really taking it in'."),
+    (10, None, "'And the losing cook must finish eating everything himself.' 'The losing one' is built on 'to lose a game'. 'finish eating' starts with the little piece that means 'all the way to the end'."),
+    (11, None, "'I hope our guests will remain very pleased.' 'I hope' is one word and comes from 'hope'. 'Remain' is the future, and 'pleased' takes a plural ending to match 'guests'."),
 ]

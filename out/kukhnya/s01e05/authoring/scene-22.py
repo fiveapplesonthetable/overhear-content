@@ -10,10 +10,10 @@ PAIR = 'ru-en'
 LABELS = {'fedya': 'Федя', 'max': 'Макс'}
 SOURCE_NAME = 'Кухня (Kukhnya) S1.05'
 SOURCE_FILE = 'sources/kukhnya/s01/e05.ru.dual.srt'
-INTRO = "With orders rolling in during the intense dinner rush at Claude Monet, Max puts Fedya's breathing advice into action. Working alongside the experienced fish cook, Max stays calm and focused, carefully cooking and plating each order. Let's listen to their conversation in Russian first."
-OPENER = "Now let's examine Fedya and Max's plating and coaching line by line."
-TRANSITION = "Now let's listen to the whole conversation again from start to finish."
-OUTRO = "With Fedya's steady guidance, Max successfully conquers the fish station and plates each dish with pride. Next time you watch the episode, listen for the Russian expressions for 'carefully' and 'dish' — you will catch every word right away. See you next time!"
+INTRO = "Max is working the station now, and Fedya is at his shoulder with the advice he just gave. This time the orders go out clean. It's in Russian first."
+OPENER = "Let's go back through it. The mood is calm, and the sentences are short enough to follow."
+TRANSITION = 'And now the whole thing again.'
+OUTRO = 'A lot of kitchen words in this scene are friendly ones: pan, plate, sauce, ready, rhythm. You already know half of them from English. See you next time.'
 CLOSING = ('max', 'Пока!')
 STORY = [
     ('fedya', 'Вот так, Макс, держи правильный ритм.', 'Like that, Max, keep the right rhythm.', [], ''),
@@ -31,17 +31,17 @@ STORY = [
     ('max', 'Спасибо, Федя, я готов к работе!', 'Thank you, Fedya, I am ready for work!', [], ''),
 ]
 WALK = [
-    (0, None, "'Like that, Max, keep the right rhythm.' Fedya monitors Max at the station and sets a steady pace."),
-    (1, None, "'The fish is almost ready on the hot pan.' Max keeps track of the cooking fish with focused attention."),
-    (2, None, "'Great, carefully transfer the fish to the plate.' Fedya guides the rookie through the delicate plating process."),
-    (3, None, "'I add fresh greens and sauce.' Max completes the garnishing according to the kitchen's strict standard."),
-    (4, None, "'Well done, take your time.' Fedya praises Max's focus and reminds him not to rush under pressure."),
-    (5, None, "'Each dish must look beautiful.' The experienced chef highlights the importance of visual presentation."),
-    (6, None, "'Inhale and exhale, I am calm.' Max uses the breathing technique to keep his stress under control."),
-    (7, None, "'See, the panic disappears by itself.' Fedya observes the young cook settling into a smooth flow."),
-    (8, None, "'Now I control this entire process.' Max feels genuine confidence returning as he manages the station."),
-    (9, None, "'This order is ready to serve.' Fedya checks the completed plate and gives his professional approval."),
-    (10, None, "'The waiter can already take the plate.' Max announces that the hot dish is ready for the dining room."),
-    (11, None, "'You are doing great on the shift today.' Fedya acknowledges the rookie's perseverance and progress."),
-    (12, None, "'Thank you, Fedya, I am ready for work!' Max expresses his gratitude and looks ahead to the remaining orders."),
+    (0, None, "'Like that, Max, keep the right rhythm.' 'Rhythm' is the English word with a Russian ending. 'Hold' is 'keep', as when you keep a beat."),
+    (1, None, "'The fish is almost ready on the hot pan.' 'Ready' ends in 'a' because fish is a she in Russian. The pan is a 'skovoroda', and it takes an 'e' ending after 'on'."),
+    (2, None, "'Great, carefully transfer the fish to the plate.' The command begins with a piece that means 'across', so it's 'lay across'. 'Fish' has an 'u' ending because it's the thing being moved."),
+    (3, None, "'I add fresh greens and sauce.' 'Greens' comes from 'green', so it's a nice one to remember. 'I add' ends in 'yu'."),
+    (4, None, "'Well done, take your time.' The first word is the cheerful 'good for you'. 'Don't hurry' ends in 'sya'."),
+    (5, None, "'Each dish must look beautiful.' 'Must' ends in 'o' to match 'dish', which is neuter. 'Beautifully' is made from 'beautiful'."),
+    (6, None, "'Inhale and exhale, I am calm.' The two breath words are 'in' and 'out' with prefixes. 'Calm' ends in a consonant because Max is a man."),
+    (7, None, "'See, the panic disappears by itself.' 'You see' is the usual way to say 'see?'. 'By itself' is literally 'self by self'."),
+    (8, None, "'Now I control this entire process.' 'Control' is borrowed from English, with the Russian ending 'yu'. 'Process' is borrowed too."),
+    (9, None, "'This order is ready to serve.' 'Ready' ends in a consonant because the order is masculine. 'To serve' is a noun here, the word for serving."),
+    (10, None, "'The waiter can already take the plate.' 'Can' is the 'he can' form, and 'take away' is the word for collecting a plate. 'Already' again does a lot of work."),
+    (11, None, "'You are doing great on the shift today.' 'You cope' means 'you manage', which is how Russians praise someone's work. 'On the shift' has the 'e' place ending."),
+    (12, None, "'Thank you, Fedya, I am ready for work!' 'Ready for' is a short phrase and the work comes after it. 'Work' ends in 'e'."),
 ]
